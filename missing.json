@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T23:19:22.863Z",
-  "total_missing": 286018,
+  "generated_at": "2026-10-30T23:33:25.859Z",
+  "total_missing": 286067,
   "games": [
     {
       "igdb_id": 191680,
@@ -615,6 +615,11 @@
       "igdb_id": 398337,
       "game_name": "[Redacted] the Safehouse",
       "file": "missing/0-9/398337-redacted-the-safehouse.json"
+    },
+    {
+      "igdb_id": 125005,
+      "game_name": "[Siberia]",
+      "file": "missing/0-9/125005-siberia.json"
     },
     {
       "igdb_id": 134672,
@@ -14565,6 +14570,11 @@
       "igdb_id": 334089,
       "game_name": "8 Yous+",
       "file": "missing/0-9/334089-8-yous.json"
+    },
+    {
+      "igdb_id": 125014,
+      "game_name": "8-Ball Pocket",
+      "file": "missing/0-9/125014-8-ball-pocket.json"
     },
     {
       "igdb_id": 293238,
@@ -52412,6 +52422,11 @@
       "file": "missing/A/194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json"
     },
     {
+      "igdb_id": 124998,
+      "game_name": "Amayui Castle Meister",
+      "file": "missing/A/124998-amayui-castle-meister.json"
+    },
+    {
       "igdb_id": 191634,
       "game_name": "Amayui Labyrinth Meister",
       "file": "missing/A/191634-amayui-labyrinth-meister.json"
@@ -63137,6 +63152,11 @@
       "file": "missing/A/52402-anno-1404-royal-edition.json"
     },
     {
+      "igdb_id": 124966,
+      "game_name": "Anno 1503 A.D.",
+      "file": "missing/A/124966-anno-1503-a-d.json"
+    },
+    {
       "igdb_id": 136092,
       "game_name": "Anno 1503: History Edition",
       "file": "missing/A/136092-anno-1503-history-edition.json"
@@ -72547,6 +72567,11 @@
       "file": "missing/A/317219-arcade-archives-vs-battle-city.json"
     },
     {
+      "igdb_id": 125015,
+      "game_name": "Arcade Archives: VS. Castlevania",
+      "file": "missing/A/125015-arcade-archives-vs-castlevania.json"
+    },
+    {
       "igdb_id": 328093,
       "game_name": "Arcade Archives: vs. Family Tennis",
       "file": "missing/A/328093-arcade-archives-vs-family-tennis.json"
@@ -77130,6 +77155,11 @@
       "igdb_id": 417489,
       "game_name": "Arijigoku",
       "file": "missing/A/417489-arijigoku.json"
+    },
+    {
+      "igdb_id": 125007,
+      "game_name": "Arima",
+      "file": "missing/A/125007-arima.json"
     },
     {
       "igdb_id": 326630,
@@ -102692,6 +102722,11 @@
       "file": "missing/B/302647-bad-north-jotunn-edition.json"
     },
     {
+      "igdb_id": 124968,
+      "game_name": "Bad North: Jotunn Edition - Deluxe Edition",
+      "file": "missing/B/124968-bad-north-jotunn-edition-deluxe-edition.json"
+    },
+    {
       "igdb_id": 111865,
       "game_name": "Bad Note",
       "file": "missing/B/111865-bad-note.json"
@@ -102725,11 +102760,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -114485,6 +114515,11 @@
       "igdb_id": 193130,
       "game_name": "Battle Brothers: Of Flesh and Faith",
       "file": "missing/B/193130-battle-brothers-of-flesh-and-faith.json"
+    },
+    {
+      "igdb_id": 124963,
+      "game_name": "Battle Brothers: Warriors of the North",
+      "file": "missing/B/124963-battle-brothers-warriors-of-the-north.json"
     },
     {
       "igdb_id": 28320,
@@ -144465,6 +144500,11 @@
       "igdb_id": 250157,
       "game_name": "Blither",
       "file": "missing/B/250157-blither.json"
+    },
+    {
+      "igdb_id": 125006,
+      "game_name": "Blitter Boy: Operation Monster Mall",
+      "file": "missing/B/125006-blitter-boy-operation-monster-mall.json"
     },
     {
       "igdb_id": 308289,
@@ -195247,6 +195287,11 @@
       "file": "missing/C/13244-cartoon-line-part-one.json"
     },
     {
+      "igdb_id": 125012,
+      "game_name": "Cartoon Network Arcade",
+      "file": "missing/C/125012-cartoon-network-arcade.json"
+    },
+    {
       "igdb_id": 49362,
       "game_name": "Cartoon Network Collection: Limited Edition",
       "file": "missing/C/49362-cartoon-network-collection-limited-edition.json"
@@ -219757,6 +219802,11 @@
       "file": "missing/C/57263-chuchel.json"
     },
     {
+      "igdb_id": 124964,
+      "game_name": "Chuchel: Cherry Edition",
+      "file": "missing/C/124964-chuchel-cherry-edition.json"
+    },
+    {
       "igdb_id": 6347,
       "game_name": "ChuChu Rocket!",
       "file": "missing/C/6347-chuchu-rocket.json"
@@ -228500,6 +228550,11 @@
       "igdb_id": 24125,
       "game_name": "Close Combat 4: Battle of the Bulge",
       "file": "missing/C/24125-close-combat-4-battle-of-the-bulge.json"
+    },
+    {
+      "igdb_id": 124960,
+      "game_name": "Close Combat 5: Invasion: Normandy - Utah Beach to Cherbourg",
+      "file": "missing/C/124960-close-combat-5-invasion-normandy-utah-beach-to-cherbourg.json"
     },
     {
       "igdb_id": 638,
@@ -263015,6 +263070,11 @@
       "igdb_id": 336084,
       "game_name": "Crunchies Munchies",
       "file": "missing/C/336084-crunchies-munchies.json"
+    },
+    {
+      "igdb_id": 124986,
+      "game_name": "CrunchTime",
+      "file": "missing/C/124986-crunchtime.json"
     },
     {
       "igdb_id": 183235,
@@ -307612,6 +307672,11 @@
       "file": "missing/D/416030-desktop-bouncer.json"
     },
     {
+      "igdb_id": 124984,
+      "game_name": "Desktop Bowling",
+      "file": "missing/D/124984-desktop-bowling.json"
+    },
+    {
       "igdb_id": 354935,
       "game_name": "Desktop Cat",
       "file": "missing/D/354935-desktop-cat.json"
@@ -307650,6 +307715,11 @@
       "igdb_id": 153216,
       "game_name": "Desktop Dinosaurs",
       "file": "missing/D/153216-desktop-dinosaurs.json"
+    },
+    {
+      "igdb_id": 124983,
+      "game_name": "Desktop Dodgeball",
+      "file": "missing/D/124983-desktop-dodgeball.json"
     },
     {
       "igdb_id": 317224,
@@ -307805,6 +307875,11 @@
       "igdb_id": 405581,
       "game_name": "Desktop Reptiles",
       "file": "missing/D/405581-desktop-reptiles.json"
+    },
+    {
+      "igdb_id": 125016,
+      "game_name": "Desktop Rugby",
+      "file": "missing/D/125016-desktop-rugby.json"
     },
     {
       "igdb_id": 408604,
@@ -309695,6 +309770,11 @@
       "igdb_id": 302499,
       "game_name": "Detective Diaries",
       "file": "missing/D/302499-detective-diaries.json"
+    },
+    {
+      "igdb_id": 124985,
+      "game_name": "Detective Dolittle",
+      "file": "missing/D/124985-detective-dolittle.json"
     },
     {
       "igdb_id": 258809,
@@ -324405,6 +324485,11 @@
       "igdb_id": 144597,
       "game_name": "Divinity: Original Sin 2 - Divine Ascension",
       "file": "missing/D/144597-divinity-original-sin-2-divine-ascension.json"
+    },
+    {
+      "igdb_id": 124977,
+      "game_name": "Divinity: Original Sin 2 - Eternal Edition",
+      "file": "missing/D/124977-divinity-original-sin-2-eternal-edition.json"
     },
     {
       "igdb_id": 103337,
@@ -432552,6 +432637,11 @@
       "file": "missing/F/253504-fix-fixer.json"
     },
     {
+      "igdb_id": 124987,
+      "game_name": "Fix It: Home Improvement",
+      "file": "missing/F/124987-fix-it-home-improvement.json"
+    },
+    {
       "igdb_id": 29301,
       "game_name": "Fix Me Fix You",
       "file": "missing/F/29301-fix-me-fix-you.json"
@@ -457370,6 +457460,11 @@
       "igdb_id": 135952,
       "game_name": "Frostpunk: The Last Autumn",
       "file": "missing/F/135952-frostpunk-the-last-autumn.json"
+    },
+    {
+      "igdb_id": 124965,
+      "game_name": "Frostpunk: The Rifts",
+      "file": "missing/F/124965-frostpunk-the-rifts.json"
     },
     {
       "igdb_id": 339609,
@@ -542512,6 +542607,11 @@
       "file": "missing/H/411671-heroes-of-hammerwatch-ii-celestial-ruins.json"
     },
     {
+      "igdb_id": 125001,
+      "game_name": "Heroes of Hammerwatch: Pyramid of Prophecy",
+      "file": "missing/H/125001-heroes-of-hammerwatch-pyramid-of-prophecy.json"
+    },
+    {
       "igdb_id": 26171,
       "game_name": "Heroes of Havoc: Idle Adventures",
       "file": "missing/H/26171-heroes-of-havoc-idle-adventures.json"
@@ -575412,6 +575512,11 @@
       "file": "missing/I/201007-i-wanna-reach-the-top.json"
     },
     {
+      "igdb_id": 124996,
+      "game_name": "I Wanna Run the Marathon",
+      "file": "missing/I/124996-i-wanna-run-the-marathon.json"
+    },
+    {
       "igdb_id": 79520,
       "game_name": "I Wanna Take the Time Machine",
       "file": "missing/I/79520-i-wanna-take-the-time-machine.json"
@@ -587030,6 +587135,11 @@
       "igdb_id": 351535,
       "game_name": "Incredible Jack",
       "file": "missing/I/351535-incredible-jack.json"
+    },
+    {
+      "igdb_id": 124970,
+      "game_name": "Incredible Machine Mega Pack",
+      "file": "missing/I/124970-incredible-machine-mega-pack.json"
     },
     {
       "igdb_id": 104582,
@@ -607827,6 +607937,11 @@
       "file": "missing/J/764-jazz-jackrabbit-2.json"
     },
     {
+      "igdb_id": 124976,
+      "game_name": "Jazz Jackrabbit 2 Collection",
+      "file": "missing/J/124976-jazz-jackrabbit-2-collection.json"
+    },
+    {
       "igdb_id": 71761,
       "game_name": "Jazz Jackrabbit 2: Holiday Hare 98",
       "file": "missing/J/71761-jazz-jackrabbit-2-holiday-hare-98.json"
@@ -607850,6 +607965,11 @@
       "igdb_id": 6477,
       "game_name": "Jazz Jackrabbit Advance",
       "file": "missing/J/6477-jazz-jackrabbit-advance.json"
+    },
+    {
+      "igdb_id": 124969,
+      "game_name": "Jazz Jackrabbit Collection",
+      "file": "missing/J/124969-jazz-jackrabbit-collection.json"
     },
     {
       "igdb_id": 79517,
@@ -635725,11 +635845,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -669520,6 +669635,11 @@
       "igdb_id": 118850,
       "game_name": "Let's Sing Collection",
       "file": "missing/L/118850-lets-sing-collection.json"
+    },
+    {
+      "igdb_id": 125017,
+      "game_name": "Let's Sing Country",
+      "file": "missing/L/125017-lets-sing-country.json"
     },
     {
       "igdb_id": 138761,
@@ -765957,6 +766077,11 @@
       "file": "missing/M/8739-monaco-whats-yours-is-mine.json"
     },
     {
+      "igdb_id": 124988,
+      "game_name": "Monaco: What's Yours Is Mine - Complete Edition",
+      "file": "missing/M/124988-monaco-whats-yours-is-mine-complete-edition.json"
+    },
+    {
       "igdb_id": 410703,
       "game_name": "Monadi.sys",
       "file": "missing/M/410703-monadi-sys.json"
@@ -812052,6 +812177,11 @@
       "file": "missing/N/7899-neverwinter-nights-shadows-of-undrentide.json"
     },
     {
+      "igdb_id": 124967,
+      "game_name": "Neverwinter Nights: Tyrants of the Moonsea",
+      "file": "missing/N/124967-neverwinter-nights-tyrants-of-the-moonsea.json"
+    },
+    {
       "igdb_id": 125301,
       "game_name": "Neverwinter Nights: Witch's Wake",
       "file": "missing/N/125301-neverwinter-nights-witchs-wake.json"
@@ -818895,6 +819025,11 @@
       "igdb_id": 53419,
       "game_name": "Nightmares from the Deep Collection",
       "file": "missing/N/53419-nightmares-from-the-deep-collection.json"
+    },
+    {
+      "igdb_id": 124990,
+      "game_name": "Nightmares from the Deep: A Hidden Object Adventure",
+      "file": "missing/N/124990-nightmares-from-the-deep-a-hidden-object-adventure.json"
     },
     {
       "igdb_id": 140247,
@@ -873912,14 +874047,29 @@
       "file": "missing/P/252859-pathfinder-gallowspire-survivors.json"
     },
     {
+      "igdb_id": 124975,
+      "game_name": "Pathfinder: Kingmaker - Beneath the Stolen Lands",
+      "file": "missing/P/124975-pathfinder-kingmaker-beneath-the-stolen-lands.json"
+    },
+    {
       "igdb_id": 154530,
       "game_name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
       "file": "missing/P/154530-pathfinder-kingmaker-enhanced-plus-edition.json"
     },
     {
+      "igdb_id": 124981,
+      "game_name": "Pathfinder: Kingmaker - Imperial Edition",
+      "file": "missing/P/124981-pathfinder-kingmaker-imperial-edition.json"
+    },
+    {
       "igdb_id": 134569,
       "game_name": "Pathfinder: Kingmaker - Royal Ascension",
       "file": "missing/P/134569-pathfinder-kingmaker-royal-ascension.json"
+    },
+    {
+      "igdb_id": 124972,
+      "game_name": "Pathfinder: Kingmaker - The Wildcards",
+      "file": "missing/P/124972-pathfinder-kingmaker-the-wildcards.json"
     },
     {
       "igdb_id": 115540,
@@ -890090,6 +890240,16 @@
       "igdb_id": 154456,
       "game_name": "Pillars of Eternity II: Deadfire - Scalawags Pack",
       "file": "missing/P/154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json"
+    },
+    {
+      "igdb_id": 124957,
+      "game_name": "Pillars of Eternity II: Deadfire - Seeker, Slayer, Survivor",
+      "file": "missing/P/124957-pillars-of-eternity-ii-deadfire-seeker-slayer-survivor.json"
+    },
+    {
+      "igdb_id": 124962,
+      "game_name": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum",
+      "file": "missing/P/124962-pillars-of-eternity-ii-deadfire-the-forgotten-sanctum.json"
     },
     {
       "igdb_id": 136131,
@@ -913782,6 +913942,11 @@
       "file": "missing/P/233471-police-car-gangster-chase.json"
     },
     {
+      "igdb_id": 124989,
+      "game_name": "Police Chase",
+      "file": "missing/P/124989-police-chase.json"
+    },
+    {
       "igdb_id": 157550,
       "game_name": "Police Chase",
       "file": "missing/P/157550-police-chase.json"
@@ -922255,6 +922420,11 @@
       "igdb_id": 373288,
       "game_name": "Powwow Bound: A Menominee Homecoming",
       "file": "missing/P/373288-powwow-bound-a-menominee-homecoming.json"
+    },
+    {
+      "igdb_id": 124995,
+      "game_name": "Pox",
+      "file": "missing/P/124995-pox.json"
     },
     {
       "igdb_id": 9595,
@@ -956455,6 +956625,11 @@
       "igdb_id": 380204,
       "game_name": "Railroad to Amberfield",
       "file": "missing/R/380204-railroad-to-amberfield.json"
+    },
+    {
+      "igdb_id": 124961,
+      "game_name": "Railroad Tycoon 2: Platinum Edition",
+      "file": "missing/R/124961-railroad-tycoon-2-platinum-edition.json"
     },
     {
       "igdb_id": 840,
@@ -1000927,6 +1001102,11 @@
       "file": "missing/R/250158-root-down.json"
     },
     {
+      "igdb_id": 124953,
+      "game_name": "Root Film",
+      "file": "missing/R/124953-root-film.json"
+    },
+    {
       "igdb_id": 61660,
       "game_name": "Root Infinity Rexx",
       "file": "missing/R/61660-root-infinity-rexx.json"
@@ -1037085,6 +1037265,11 @@
       "igdb_id": 192458,
       "game_name": "Set Sail",
       "file": "missing/S/192458-set-sail.json"
+    },
+    {
+      "igdb_id": 124991,
+      "game_name": "Set Sail: Caribbean",
+      "file": "missing/S/124991-set-sail-caribbean.json"
     },
     {
       "igdb_id": 302897,
@@ -1098282,6 +1098467,11 @@
       "file": "missing/S/84892-space-hunted.json"
     },
     {
+      "igdb_id": 129956,
+      "game_name": "Space Hunted: The Lost Levels",
+      "file": "missing/S/129956-space-hunted-the-lost-levels.json"
+    },
+    {
       "igdb_id": 142222,
       "game_name": "Space Hunter",
       "file": "missing/S/142222-space-hunter.json"
@@ -1129242,6 +1129432,11 @@
       "file": "missing/S/114427-stellaris-distant-stars.json"
     },
     {
+      "igdb_id": 124993,
+      "game_name": "Stellaris: Federations",
+      "file": "missing/S/124993-stellaris-federations.json"
+    },
+    {
       "igdb_id": 231845,
       "game_name": "Stellaris: First Contact",
       "file": "missing/S/231845-stellaris-first-contact.json"
@@ -1142007,6 +1142202,11 @@
       "file": "missing/S/166280-sudden-strike-4-steelbook-edition.json"
     },
     {
+      "igdb_id": 125002,
+      "game_name": "Sudden Strike 4: The Pacific War",
+      "file": "missing/S/125002-sudden-strike-4-the-pacific-war.json"
+    },
+    {
       "igdb_id": 355088,
       "game_name": "Sudden Strike 5",
       "file": "missing/S/355088-sudden-strike-5.json"
@@ -1146255,6 +1146455,11 @@
       "igdb_id": 24427,
       "game_name": "Sunless Skies",
       "file": "missing/S/24427-sunless-skies.json"
+    },
+    {
+      "igdb_id": 124994,
+      "game_name": "Sunless Skies: Sovereign Edition",
+      "file": "missing/S/124994-sunless-skies-sovereign-edition.json"
     },
     {
       "igdb_id": 188602,
@@ -1170110,6 +1170315,11 @@
       "igdb_id": 10950,
       "game_name": "Sword of the Stars: The Pit - Mind Games",
       "file": "missing/S/10950-sword-of-the-stars-the-pit-mind-games.json"
+    },
+    {
+      "igdb_id": 125000,
+      "game_name": "Sword of the Stars: The Pit - Osmium Edition: Juggernaut",
+      "file": "missing/S/125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json"
     },
     {
       "igdb_id": 178077,
@@ -1230082,6 +1230292,11 @@
       "file": "missing/T/180952-the-legend-of-the-last-dragon.json"
     },
     {
+      "igdb_id": 125010,
+      "game_name": "The Legend of the Prophet & the Assassin",
+      "file": "missing/T/125010-the-legend-of-the-prophet-and-the-assassin.json"
+    },
+    {
       "igdb_id": 135094,
       "game_name": "The Legend of the Radient Mask",
       "file": "missing/T/135094-the-legend-of-the-radient-mask.json"
@@ -1237050,6 +1237265,11 @@
       "igdb_id": 9172,
       "game_name": "The Nations",
       "file": "missing/T/9172-the-nations.json"
+    },
+    {
+      "igdb_id": 124974,
+      "game_name": "The Nations: Gold Edition",
+      "file": "missing/T/124974-the-nations-gold-edition.json"
     },
     {
       "igdb_id": 49866,
@@ -1324567,6 +1324787,11 @@
       "file": "missing/T/51796-tyranny-commander-edition.json"
     },
     {
+      "igdb_id": 124978,
+      "game_name": "Tyranny: Deluxe Edition",
+      "file": "missing/T/124978-tyranny-deluxe-edition.json"
+    },
+    {
       "igdb_id": 154526,
       "game_name": "Tyranny: Gold Edition",
       "file": "missing/T/154526-tyranny-gold-edition.json"
@@ -1349902,6 +1350127,11 @@
       "file": "missing/V/11038-victoria-ii-a-house-divided.json"
     },
     {
+      "igdb_id": 124982,
+      "game_name": "Victoria II: Civil War Edition",
+      "file": "missing/V/124982-victoria-ii-civil-war-edition.json"
+    },
+    {
       "igdb_id": 170690,
       "game_name": "Victoria II: German Unit Pack",
       "file": "missing/V/170690-victoria-ii-german-unit-pack.json"
@@ -1367237,6 +1367467,11 @@
       "file": "missing/W/153086-warhammer-40-000-gladius-relics-of-war-assault-pack.json"
     },
     {
+      "igdb_id": 124955,
+      "game_name": "Warhammer 40,000: Gladius - Relics of War: Chaos Space Marines",
+      "file": "missing/W/124955-warhammer-40-000-gladius-relics-of-war-chaos-space-marines.json"
+    },
+    {
       "igdb_id": 148965,
       "game_name": "Warhammer 40,000: Gladius - Relics of War: Craftworld Aeldari",
       "file": "missing/W/148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json"
@@ -1367360,6 +1367595,11 @@
       "igdb_id": 154795,
       "game_name": "Warhammer 40,000: Lost Crusade",
       "file": "missing/W/154795-warhammer-40-000-lost-crusade.json"
+    },
+    {
+      "igdb_id": 124973,
+      "game_name": "Warhammer 40,000: Mechanicus - Omnissiah Edition",
+      "file": "missing/W/124973-warhammer-40-000-mechanicus-omnissiah-edition.json"
     },
     {
       "igdb_id": 302176,
@@ -1370845,6 +1371085,11 @@
       "igdb_id": 20046,
       "game_name": "Wasteland 2: Director's Cut",
       "file": "missing/W/20046-wasteland-2-directors-cut.json"
+    },
+    {
+      "igdb_id": 124999,
+      "game_name": "Wasteland 2: Director's Cut - Digital Classic Edition",
+      "file": "missing/W/124999-wasteland-2-directors-cut-digital-classic-edition.json"
     },
     {
       "igdb_id": 53134,
