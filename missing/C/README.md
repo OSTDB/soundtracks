@@ -4297,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
 | Cave Dave | 391293 | [391293-cave-dave.json](./391293-cave-dave.json) |
 | Cave Dig 3 | 73113 | [73113-cave-dig-3.json](./73113-cave-dig-3.json) |
+| Cave Digger | 143974 | [143974-cave-digger.json](./143974-cave-digger.json) |
 | Cave Digger 2 | 266177 | [266177-cave-digger-2.json](./266177-cave-digger-2.json) |
 | Cave Digger 2: Mixed Reality Expansion | 306958 | [306958-cave-digger-2-mixed-reality-expansion.json](./306958-cave-digger-2-mixed-reality-expansion.json) |
 | Cave Digger VR | 96467 | [96467-cave-digger-vr.json](./96467-cave-digger-vr.json) |
@@ -13652,6 +13653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couch Detective | 372676 | [372676-couch-detective.json](./372676-couch-detective.json) |
 | Couch Installation Service | 158679 | [158679-couch-installation-service.json](./158679-couch-installation-service.json) |
 | Couch Kittens | 272368 | [272368-couch-kittens.json](./272368-couch-kittens.json) |
+| Couch Monsters | 144532 | [144532-couch-monsters.json](./144532-couch-monsters.json) |
 | Couch Party Game Night | 109655 | [109655-couch-party-game-night.json](./109655-couch-party-game-night.json) |
 | Couch Racers | 363960 | [363960-couch-racers.json](./363960-couch-racers.json) |
 | Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
@@ -16956,6 +16958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Monster 3D | 108244 | [108244-cube-monster-3d.json](./108244-cube-monster-3d.json) |
 | Cube on a Leash | 415855 | [415855-cube-on-a-leash.json](./415855-cube-on-a-leash.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
+| Cube Projection | 143911 | [143911-cube-projection.json](./143911-cube-projection.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
 | Cube Racer | 74217 | [74217-cube-racer.json](./74217-cube-racer.json) |
 | Cube Racer 2 | 156859 | [156859-cube-racer-2.json](./156859-cube-racer-2.json) |
@@ -18376,6 +18379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSex 2069 | 170891 | [170891-cybersex-2069.json](./170891-cybersex-2069.json) |
 | Cybersex Chronicles [18+] | 368068 | [368068-cybersex-chronicles-18.json](./368068-cybersex-chronicles-18.json) |
 | Cybersex: Lust Story | 295356 | [295356-cybersex-lust-story.json](./295356-cybersex-lust-story.json) |
+| Cybershock: Future Parkour | 143885 | [143885-cybershock-future-parkour.json](./143885-cybershock-future-parkour.json) |
 | Cybershow | 141762 | [141762-cybershow.json](./141762-cybershow.json) |
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
