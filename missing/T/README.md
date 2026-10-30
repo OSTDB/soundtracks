@@ -5571,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basement | 326942 | [326942-the-basement.json](./326942-the-basement.json) |
 | The Basement Ritual | 320781 | [320781-the-basement-ritual.json](./320781-the-basement-ritual.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
+| The Basics of Sacred Geometry | 176646 | [176646-the-basics-of-sacred-geometry.json](./176646-the-basics-of-sacred-geometry.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
 | THE Bass Fishing | 203730 | [203730-the-bass-fishing.json](./203730-the-bass-fishing.json) |
@@ -5642,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battles of Spwak 3 | 126601 | [126601-the-battles-of-spwak-3.json](./126601-the-battles-of-spwak-3.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
 | The Bazaar: Karnok | 400415 | [400415-the-bazaar-karnok.json](./400415-the-bazaar-karnok.json) |
+| The Beach | 176635 | [176635-the-beach.json](./176635-the-beach.json) |
 | The Beacon's End | 335135 | [335135-the-beacons-end.json](./335135-the-beacons-end.json) |
 | The Bean Machine | 408228 | [408228-the-bean-machine.json](./408228-the-bean-machine.json) |
 | The Bean Trials | 337665 | [337665-the-bean-trials.json](./337665-the-bean-trials.json) |
@@ -6671,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confined: Basement | 406899 | [406899-the-confined-basement.json](./406899-the-confined-basement.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Conformist | 326857 | [326857-the-conformist.json](./326857-the-conformist.json) |
+| The Confraternity of Toast | 176652 | [176652-the-confraternity-of-toast.json](./176652-the-confraternity-of-toast.json) |
 | The Confraternity of Toast 2 | 176314 | [176314-the-confraternity-of-toast-2.json](./176314-the-confraternity-of-toast-2.json) |
 | The Conjurer | 53705 | [53705-the-conjurer.json](./53705-the-conjurer.json) |
 | The Conqueror of Battles | 195467 | [195467-the-conqueror-of-battles.json](./195467-the-conqueror-of-battles.json) |
@@ -8323,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
 | The Fidelity Ultimate Chess Challenge | 70778 | [70778-the-fidelity-ultimate-chess-challenge.json](./70778-the-fidelity-ultimate-chess-challenge.json) |
 | The Fidgetts | 49000 | [49000-the-fidgetts.json](./49000-the-fidgetts.json) |
+| The Field | 176649 | [176649-the-field.json](./176649-the-field.json) |
 | The Field Between | 370732 | [370732-the-field-between.json](./370732-the-field-between.json) |
 | The Field Trip Murders | 231460 | [231460-the-field-trip-murders.json](./231460-the-field-trip-murders.json) |
 | The Fielder's Choice | 89005 | [89005-the-fielders-choice.json](./89005-the-fielders-choice.json) |
@@ -13740,6 +13744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Button | 289969 | [289969-the-red-button.json](./289969-the-red-button.json) |
 | The Red Cathedral | 359042 | [359042-the-red-cathedral.json](./359042-the-red-cathedral.json) |
 | The Red Crystal: The Seven Secrets of Life | 198262 | [198262-the-red-crystal-the-seven-secrets-of-life.json](./198262-the-red-crystal-the-seven-secrets-of-life.json) |
+| The Red Death | 176650 | [176650-the-red-death.json](./176650-the-red-death.json) |
 | The Red Devil | 184759 | [184759-the-red-devil.json](./184759-the-red-devil.json) |
 | The Red Door | 134903 | [134903-the-red-door.json](./134903-the-red-door.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
@@ -20202,6 +20207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timbertales | 51722 | [51722-timbertales.json](./51722-timbertales.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
+| Timbi.World | 176666 | [176666-timbi-world.json](./176666-timbi-world.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
 | Time | 273219 | [273219-time.json](./273219-time.json) |
@@ -28202,6 +28208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust Me | 290356 | [290356-trust-me.json](./290356-trust-me.json) |
 | Trust Me | 373815 | [373815-trust-me.json](./373815-trust-me.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
+| Trust Me, I Got This! | 176660 | [176660-trust-me-i-got-this.json](./176660-trust-me-i-got-this.json) |
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
 | Trust No Bunny | 195028 | [195028-trust-no-bunny.json](./195028-trust-no-bunny.json) |
 | Trust No One | 281923 | [281923-trust-no-one.json](./281923-trust-no-one.json) |
