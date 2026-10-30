@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Bit | 390072 | [390072-dead-bit.json](./390072-dead-bit.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
 | Dead Block | 10170 | [10170-dead-block.json](./10170-dead-block.json) |
+| Dead Blood | 176653 | [176653-dead-blood.json](./176653-dead-blood.json) |
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
 | Dead Body Falls | 120331 | [120331-dead-body-falls.json](./120331-dead-body-falls.json) |
@@ -3524,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadenders | 250230 | [250230-deadenders.json](./250230-deadenders.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
+| DeadEye | 176665 | [176665-deadeye.json](./176665-deadeye.json) |
 | DeadEye | 393750 | [393750-deadeye.json](./393750-deadeye.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
 | Deadeye Dungeon | 74242 | [74242-deadeye-dungeon.json](./74242-deadeye-dungeon.json) |
@@ -12886,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Super Card Game Fusion World | 292100 | [292100-dragon-ball-super-card-game-fusion-world.json](./292100-dragon-ball-super-card-game-fusion-world.json) |
 | Dragon Ball Super TCG | 212759 | [212759-dragon-ball-super-tcg.json](./212759-dragon-ball-super-tcg.json) |
 | Dragon Ball Super: Card Game - Fusion World | 283612 | [283612-dragon-ball-super-card-game-fusion-world.json](./283612-dragon-ball-super-card-game-fusion-world.json) |
+| Dragon Ball Universe | 176638 | [176638-dragon-ball-universe.json](./176638-dragon-ball-universe.json) |
 | Dragon Ball VR: Master the Kamehameha | 49116 | [49116-dragon-ball-vr-master-the-kamehameha.json](./49116-dragon-ball-vr-master-the-kamehameha.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
@@ -16317,6 +16320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
 | Dungeoneers | 154263 | [154263-dungeoneers.json](./154263-dungeoneers.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
+| Dungeonfall | 176657 | [176657-dungeonfall.json](./176657-dungeonfall.json) |
 | Dungeonfall | 380753 | [380753-dungeonfall.json](./380753-dungeonfall.json) |
 | Dungeonfell | 325618 | [325618-dungeonfell.json](./325618-dungeonfell.json) |
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
