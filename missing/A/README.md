@@ -4892,6 +4892,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Commander | 60841 | [60841-air-traffic-commander.json](./60841-air-traffic-commander.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Control | 376854 | [376854-air-traffic-control.json](./376854-air-traffic-control.json) |
+| Air Traffic Controller | 125618 | [125618-air-traffic-controller.json](./125618-air-traffic-controller.json) |
+| Air Traffic Controller | 125634 | [125634-air-traffic-controller.json](./125634-air-traffic-controller.json) |
+| Air Traffic Controller | 125635 | [125635-air-traffic-controller.json](./125635-air-traffic-controller.json) |
 | Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
@@ -8491,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
 | Angel at Dusk | 149805 | [149805-angel-at-dusk.json](./149805-angel-at-dusk.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
+| Angel Beats! Operation Wars | 125640 | [125640-angel-beats-operation-wars.json](./125640-angel-beats-operation-wars.json) |
 | Angel Blade: Neo Tokyo Guardians | 123291 | [123291-angel-blade-neo-tokyo-guardians.json](./123291-angel-blade-neo-tokyo-guardians.json) |
 | Angel Cat Sugar | 141423 | [141423-angel-cat-sugar.json](./141423-angel-cat-sugar.json) |
 | Angel Clicker | 381320 | [381320-angel-clicker.json](./381320-angel-clicker.json) |
@@ -8641,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angeraze 2: Tenshi no Kiseki | 130601 | [130601-angeraze-2-tenshi-no-kiseki.json](./130601-angeraze-2-tenshi-no-kiseki.json) |
 | AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
+| AngerForce: Strikers | 125600 | [125600-angerforce-strikers.json](./125600-angerforce-strikers.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
 | Anges & Gardiens: Journey to the Center of the Earth | 187716 | [187716-anges-and-gardiens-journey-to-the-center-of-the-earth.json](./187716-anges-and-gardiens-journey-to-the-center-of-the-earth.json) |
 | Angevillia | 197322 | [197322-angevillia.json](./197322-angevillia.json) |
