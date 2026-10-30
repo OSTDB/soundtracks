@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ghost Attack! | 40666 | [40666-3d-ghost-attack.json](./40666-3d-ghost-attack.json) |
 | 3D Golden Warrior | 77216 | [77216-3d-golden-warrior.json](./77216-3d-golden-warrior.json) |
 | 3D Golf | 83365 | [83365-3d-golf.json](./83365-3d-golf.json) |
+| 3D Grand Prix | 152608 | [152608-3d-grand-prix.json](./152608-3d-grand-prix.json) |
 | 3D Gravity Rocket | 102974 | [102974-3d-gravity-rocket.json](./102974-3d-gravity-rocket.json) |
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
 | 3D Hardcore Cube | 55329 | [55329-3d-hardcore-cube.json](./55329-3d-hardcore-cube.json) |
