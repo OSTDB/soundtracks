@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Sole Purpose | 27572 | [27572-one-sole-purpose.json](./27572-one-sole-purpose.json) |
 | One Song, One Life | 395278 | [395278-one-song-one-life.json](./395278-one-song-one-life.json) |
 | One Soul | 243526 | [243526-one-soul.json](./243526-one-soul.json) |
+| One Spirit | 158371 | [158371-one-spirit.json](./158371-one-spirit.json) |
 | One Star | 28700 | [28700-one-star.json](./28700-one-star.json) |
 | One Step After Fall | 193617 | [193617-one-step-after-fall.json](./193617-one-step-after-fall.json) |
 | One Step Away | 207588 | [207588-one-step-away.json](./207588-one-step-away.json) |
