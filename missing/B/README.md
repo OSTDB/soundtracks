@@ -12078,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot.vinnik Chess Masters Academy | 361907 | [361907-bot-vinnik-chess-masters-academy.json](./361907-bot-vinnik-chess-masters-academy.json) |
 | Bot.vinnik Chess: Early USSR Championships | 166169 | [166169-bot-vinnik-chess-early-ussr-championships.json](./166169-bot-vinnik-chess-early-ussr-championships.json) |
 | Bot.vinnik Chess: Legendary Queens | 387704 | [387704-bot-vinnik-chess-legendary-queens.json](./387704-bot-vinnik-chess-legendary-queens.json) |
+| BOT.vinnik Chess: Opening Traps | 163686 | [163686-bot-vinnik-chess-opening-traps.json](./163686-bot-vinnik-chess-opening-traps.json) |
 | BOT.vinnik Chess: Prodigies | 223498 | [223498-bot-vinnik-chess-prodigies.json](./223498-bot-vinnik-chess-prodigies.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
@@ -13247,6 +13248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Chess: Elf | 403415 | [403415-brawl-chess-elf.json](./403415-brawl-chess-elf.json) |
 | Brawl Chess: Fairy | 403416 | [403416-brawl-chess-fairy.json](./403416-brawl-chess-fairy.json) |
 | Brawl Chess: Fantasy Edition | 274483 | [274483-brawl-chess-fantasy-edition.json](./274483-brawl-chess-fantasy-edition.json) |
+| Brawl Chess: Gambit | 163684 | [163684-brawl-chess-gambit.json](./163684-brawl-chess-gambit.json) |
 | Brawl Chess: Gambit + Cyber Protocol | 218453 | [218453-brawl-chess-gambit-cyber-protocol.json](./218453-brawl-chess-gambit-cyber-protocol.json) |
 | Brawl Chess: Ghost | 403427 | [403427-brawl-chess-ghost.json](./403427-brawl-chess-ghost.json) |
 | Brawl Chess: Girl Power | 222240 | [222240-brawl-chess-girl-power.json](./222240-brawl-chess-girl-power.json) |
