@@ -3007,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpbound | 365097 | [365097-jumpbound.json](./365097-jumpbound.json) |
 | Jumpcat | 280915 | [280915-jumpcat.json](./280915-jumpcat.json) |
 | Jumpcore | 376802 | [376802-jumpcore.json](./376802-jumpcore.json) |
+| JumpCubox | 149173 | [149173-jumpcubox.json](./149173-jumpcubox.json) |
 | Jumpcut Jigsaws | 407311 | [407311-jumpcut-jigsaws.json](./407311-jumpcut-jigsaws.json) |
 | Jumpdrive | 36361 | [36361-jumpdrive.json](./36361-jumpdrive.json) |
 | Jumper | 182368 | [182368-jumper.json](./182368-jumper.json) |
