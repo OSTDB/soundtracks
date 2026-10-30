@@ -7968,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
 | Hollow Ground | 365295 | [365295-hollow-ground.json](./365295-hollow-ground.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
+| Hollow Head | 127544 | [127544-hollow-head.json](./127544-hollow-head.json) |
 | Hollow Hide | 414422 | [414422-hollow-hide.json](./414422-hollow-hide.json) |
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
 | Hollow Home | 265621 | [265621-hollow-home.json](./265621-hollow-home.json) |
@@ -10434,6 +10435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
 | Human Evolution Clicker Game: Rise of Mankind | 100889 | [100889-human-evolution-clicker-game-rise-of-mankind.json](./100889-human-evolution-clicker-game-rise-of-mankind.json) |
 | Human Extinction Simulator | 28588 | [28588-human-extinction-simulator.json](./28588-human-extinction-simulator.json) |
+| Human Factory | 127540 | [127540-human-factory.json](./127540-human-factory.json) |
 | Human Farm | 133347 | [133347-human-farm.json](./133347-human-farm.json) |
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
 | Human Grand Prix III: F1 Triple Battle | 38172 | [38172-human-grand-prix-iii-f1-triple-battle.json](./38172-human-grand-prix-iii-f1-triple-battle.json) |
