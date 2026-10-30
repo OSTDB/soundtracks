@@ -12994,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corona Frustration Elimination | 165001 | [165001-corona-frustration-elimination.json](./165001-corona-frustration-elimination.json) |
 | Corona Kombat | 159582 | [159582-corona-kombat.json](./159582-corona-kombat.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
+| Corona Runner | 164181 | [164181-corona-runner.json](./164181-corona-runner.json) |
 | Corona Simulator | 156889 | [156889-corona-simulator.json](./156889-corona-simulator.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
@@ -13002,6 +13003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coronavirus Quarantine Simulator | 137996 | [137996-coronavirus-quarantine-simulator.json](./137996-coronavirus-quarantine-simulator.json) |
 | Coronavirus: Nano Force | 165002 | [165002-coronavirus-nano-force.json](./165002-coronavirus-nano-force.json) |
 | CoronaViruses | 151556 | [151556-coronaviruses.json](./151556-coronaviruses.json) |
+| CoronaWhomp! | 164207 | [164207-coronawhomp.json](./164207-coronawhomp.json) |
 | Coronel Indoor Kartracing | 73477 | [73477-coronel-indoor-kartracing.json](./73477-coronel-indoor-kartracing.json) |
 | Coropata | 80582 | [80582-coropata.json](./80582-coropata.json) |
 | CoRoT | 345841 | [345841-corot.json](./345841-corot.json) |
@@ -13477,6 +13479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
 | Cosplayer's Quest | 380465 | [380465-cosplayers-quest.json](./380465-cosplayers-quest.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
+| Cossack and Magic | 164187 | [164187-cossack-and-magic.json](./164187-cossack-and-magic.json) |
 | Cossacks 3 | 13215 | [13215-cossacks-3.json](./13215-cossacks-3.json) |
 | Cossacks 3: Days of Brilliance | 51742 | [51742-cossacks-3-days-of-brilliance.json](./51742-cossacks-3-days-of-brilliance.json) |
 | Cossacks 3: Guardians of the Highlands | 51763 | [51763-cossacks-3-guardians-of-the-highlands.json](./51763-cossacks-3-guardians-of-the-highlands.json) |
