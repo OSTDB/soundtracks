@@ -13918,7 +13918,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: True Colors Vinyl Wrap | 148153 | [148153-snowrunner-true-colors-vinyl-wrap.json](./148153-snowrunner-true-colors-vinyl-wrap.json) |
 | SnowRunner: Western Star 49X | 148147 | [148147-snowrunner-western-star-49x.json](./148147-snowrunner-western-star-49x.json) |
 | SnowRunner: Western Star Wolf Pack | 223766 | [223766-snowrunner-western-star-wolf-pack.json](./223766-snowrunner-western-star-wolf-pack.json) |
+| SnowRunner: Year 1 Pass | 148182 | [148182-snowrunner-year-1-pass.json](./148182-snowrunner-year-1-pass.json) |
 | SnowRunner: Year 1 Pass + Year 2 Pass + Year 3 Pass + Year 4 Pass | 284962 | [284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json](./284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json) |
+| SnowRunner: Year 2 Pass | 148183 | [148183-snowrunner-year-2-pass.json](./148183-snowrunner-year-2-pass.json) |
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | SnowRunner: Year 4 Pass | 284961 | [284961-snowrunner-year-4-pass.json](./284961-snowrunner-year-4-pass.json) |
 | SnowRunner: Year 5 Pass | 397753 | [397753-snowrunner-year-5-pass.json](./397753-snowrunner-year-5-pass.json) |
@@ -15872,6 +15874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2 | 202256 | [202256-sonic-the-hedgehog-2.json](./202256-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 273286 | [273286-sonic-the-hedgehog-2.json](./273286-sonic-the-hedgehog-2.json) |
+| Sonic the Hedgehog 2 HD | 148231 | [148231-sonic-the-hedgehog-2-hd.json](./148231-sonic-the-hedgehog-2-hd.json) |
 | Sonic the Hedgehog 2: Absolute | 198256 | [198256-sonic-the-hedgehog-2-absolute.json](./198256-sonic-the-hedgehog-2-absolute.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
 | Sonic the Hedgehog 2: Crash! | 264477 | [264477-sonic-the-hedgehog-2-crash.json](./264477-sonic-the-hedgehog-2-crash.json) |
@@ -15952,6 +15955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Spinball | 279052 | [279052-sonic-the-hedgehog-spinball.json](./279052-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
+| Sonic the Hedgehog: The Next Level | 148199 | [148199-sonic-the-hedgehog-the-next-level.json](./148199-sonic-the-hedgehog-the-next-level.json) |
 | Sonic the Hedgehog: Time Attacked | 228594 | [228594-sonic-the-hedgehog-time-attacked.json](./228594-sonic-the-hedgehog-time-attacked.json) |
 | Sonic the Hedgehog: Triple Trouble | 19556 | [19556-sonic-the-hedgehog-triple-trouble.json](./19556-sonic-the-hedgehog-triple-trouble.json) |
 | Sonic the Hedgehog: Ultimate Bundle | 192196 | [192196-sonic-the-hedgehog-ultimate-bundle.json](./192196-sonic-the-hedgehog-ultimate-bundle.json) |
@@ -16714,6 +16718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Amethyst | 145326 | [145326-souls-of-amethyst.json](./145326-souls-of-amethyst.json) |
 | Souls of Chronos Gaiden | 346370 | [346370-souls-of-chronos-gaiden.json](./346370-souls-of-chronos-gaiden.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
+| Souls of Purgatory | 148194 | [148194-souls-of-purgatory.json](./148194-souls-of-purgatory.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls of Tartarus | 226619 | [226619-souls-of-tartarus.json](./226619-souls-of-tartarus.json) |
 | Souls of the Wind | 147069 | [147069-souls-of-the-wind.json](./147069-souls-of-the-wind.json) |
@@ -19466,6 +19471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spin the Lighthouse | 290285 | [290285-spin-the-lighthouse.json](./290285-spin-the-lighthouse.json) |
+| Spin the World | 148208 | [148208-spin-the-world.json](./148208-spin-the-world.json) |
 | Spin the World | 331187 | [331187-spin-the-world.json](./331187-spin-the-world.json) |
 | Spin the World | 58553 | [58553-spin-the-world.json](./58553-spin-the-world.json) |
 | Spin Time | 228640 | [228640-spin-time.json](./228640-spin-time.json) |
@@ -19970,6 +19976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Battle for Bikini Bottom Deluxe | 358255 | [358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json](./358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bikini Bottom Bust Up | 403626 | [403626-spongebob-squarepants-bikini-bottom-bust-up.json](./403626-spongebob-squarepants-bikini-bottom-bust-up.json) |
+| SpongeBob SquarePants: Bikini Bottom Chess | 148224 | [148224-spongebob-squarepants-bikini-bottom-chess.json](./148224-spongebob-squarepants-bikini-bottom-chess.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
 | Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
 | SpongeBob SquarePants: Creature From the Krusty Krab | 248482 | [248482-spongebob-squarepants-creature-from-the-krusty-krab.json](./248482-spongebob-squarepants-creature-from-the-krusty-krab.json) |
@@ -21084,6 +21091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
 | Stagelands: Eternal Defense | 272232 | [272232-stagelands-eternal-defense.json](./272232-stagelands-eternal-defense.json) |
 | StageMechanic | 110848 | [110848-stagemechanic.json](./110848-stagemechanic.json) |
+| Stages of Grief | 148234 | [148234-stages-of-grief.json](./148234-stages-of-grief.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
 | StageTime | 334255 | [334255-stagetime.json](./334255-stagetime.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
@@ -23315,6 +23323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Machine | 46566 | [46566-steel-machine.json](./46566-steel-machine.json) |
 | Steel Maiden | 408001 | [408001-steel-maiden.json](./408001-steel-maiden.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
+| Steel Nations | 148209 | [148209-steel-nations.json](./148209-steel-nations.json) |
 | Steel Ocean | 34752 | [34752-steel-ocean.json](./34752-steel-ocean.json) |
 | Steel Ocean: Wolves of Deep Sea | 195340 | [195340-steel-ocean-wolves-of-deep-sea.json](./195340-steel-ocean-wolves-of-deep-sea.json) |
 | Steel Panthers | 14438 | [14438-steel-panthers.json](./14438-steel-panthers.json) |
@@ -24840,6 +24849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
 | Stream Service | 286751 | [286751-stream-service.json](./286751-stream-service.json) |
 | Stream Siege | 410790 | [410790-stream-siege.json](./410790-stream-siege.json) |
+| Stream Skate | 148205 | [148205-stream-skate.json](./148205-stream-skate.json) |
 | Stream Smash | 160052 | [160052-stream-smash.json](./160052-stream-smash.json) |
 | Stream Star: Sensations | 334531 | [334531-stream-star-sensations.json](./334531-stream-star-sensations.json) |
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
