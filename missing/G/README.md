@@ -6890,9 +6890,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Color Pack 5 | 312004 | [312004-granblue-fantasy-relink-color-pack-5.json](./312004-granblue-fantasy-relink-color-pack-5.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
+| Granblue Fantasy: Versus - Anre | 156324 | [156324-granblue-fantasy-versus-anre.json](./156324-granblue-fantasy-versus-anre.json) |
+| Granblue Fantasy: Versus - Beelzebub | 156322 | [156322-granblue-fantasy-versus-beelzebub.json](./156322-granblue-fantasy-versus-beelzebub.json) |
+| Granblue Fantasy: Versus - Belial | 156321 | [156321-granblue-fantasy-versus-belial.json](./156321-granblue-fantasy-versus-belial.json) |
+| Granblue Fantasy: Versus - Cagliostro | 156328 | [156328-granblue-fantasy-versus-cagliostro.json](./156328-granblue-fantasy-versus-cagliostro.json) |
+| Granblue Fantasy: Versus - Djeeta | 156323 | [156323-granblue-fantasy-versus-djeeta.json](./156323-granblue-fantasy-versus-djeeta.json) |
+| Granblue Fantasy: Versus - Dydroit Belt | 156325 | [156325-granblue-fantasy-versus-dydroit-belt.json](./156325-granblue-fantasy-versus-dydroit-belt.json) |
+| Granblue Fantasy: Versus - Eustace | 156319 | [156319-granblue-fantasy-versus-eustace.json](./156319-granblue-fantasy-versus-eustace.json) |
+| Granblue Fantasy: Versus - Jewel Resort | 156331 | [156331-granblue-fantasy-versus-jewel-resort.json](./156331-granblue-fantasy-versus-jewel-resort.json) |
 | Granblue Fantasy: Versus - Legendary Edition | 185989 | [185989-granblue-fantasy-versus-legendary-edition.json](./185989-granblue-fantasy-versus-legendary-edition.json) |
 | Granblue Fantasy: Versus - Lobby Avatar (Gold Ship) | 332665 | [332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json](./332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json) |
+| Granblue Fantasy: Versus - Lumacie | 156320 | [156320-granblue-fantasy-versus-lumacie.json](./156320-granblue-fantasy-versus-lumacie.json) |
+| Granblue Fantasy: Versus - Narmaya | 156326 | [156326-granblue-fantasy-versus-narmaya.json](./156326-granblue-fantasy-versus-narmaya.json) |
 | Granblue Fantasy: Versus - Seox | 233643 | [233643-granblue-fantasy-versus-seox.json](./233643-granblue-fantasy-versus-seox.json) |
+| Granblue Fantasy: Versus - Soriz | 156327 | [156327-granblue-fantasy-versus-soriz.json](./156327-granblue-fantasy-versus-soriz.json) |
+| Granblue Fantasy: Versus - Yuel | 156329 | [156329-granblue-fantasy-versus-yuel.json](./156329-granblue-fantasy-versus-yuel.json) |
+| Granblue Fantasy: Versus - Zooey | 156330 | [156330-granblue-fantasy-versus-zooey.json](./156330-granblue-fantasy-versus-zooey.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Academy II: Attack of the Sequel | 126834 | [126834-grand-academy-ii-attack-of-the-sequel.json](./126834-grand-academy-ii-attack-of-the-sequel.json) |
 | Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
