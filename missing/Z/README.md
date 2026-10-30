@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
 | Zebra Logic Master | 238995 | [238995-zebra-logic-master.json](./238995-zebra-logic-master.json) |
 | Zebulon: A Lost Cat | 312036 | [312036-zebulon-a-lost-cat.json](./312036-zebulon-a-lost-cat.json) |
+| Zecha Tactics | 142593 | [142593-zecha-tactics.json](./142593-zecha-tactics.json) |
 | Zector 7 | 299103 | [299103-zector-7.json](./299103-zector-7.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Patrol | 264185 | [264185-zed-patrol.json](./264185-zed-patrol.json) |
@@ -443,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda Heardle | 203194 | [203194-zelda-heardle.json](./203194-zelda-heardle.json) |
 | Zelda II: Amida's Curse | 214470 | [214470-zelda-ii-amidas-curse.json](./214470-zelda-ii-amidas-curse.json) |
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
+| Zelda II: End of Day | 144640 | [144640-zelda-ii-end-of-day.json](./144640-zelda-ii-end-of-day.json) |
 | Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
 | Zelda II: Resurrection of Ganon | 339257 | [339257-zelda-ii-resurrection-of-ganon.json](./339257-zelda-ii-resurrection-of-ganon.json) |
 | Zelda II: The Adventure of Link Randomizer | 241862 | [241862-zelda-ii-the-adventure-of-link-randomizer.json](./241862-zelda-ii-the-adventure-of-link-randomizer.json) |
@@ -1819,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Midnight | 207771 | [207771-zombies-midnight.json](./207771-zombies-midnight.json) |
 | Zombies Must Die | 151476 | [151476-zombies-must-die.json](./151476-zombies-must-die.json) |
 | Zombies Noir | 220272 | [220272-zombies-noir.json](./220272-zombies-noir.json) |
+| Zombies on a cruise | 142029 | [142029-zombies-on-a-cruise.json](./142029-zombies-on-a-cruise.json) |
 | Zombies on a Plane | 36295 | [36295-zombies-on-a-plane.json](./36295-zombies-on-a-plane.json) |
 | Zombies Overloaded | 124618 | [124618-zombies-overloaded.json](./124618-zombies-overloaded.json) |
 | Zombies Rising xXx | 274440 | [274440-zombies-rising-xxx.json](./274440-zombies-rising-xxx.json) |
