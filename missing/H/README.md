@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Weapon Challenge - FPS Action | 103834 | [103834-hardcore-weapon-challenge-fps-action.json](./103834-hardcore-weapon-challenge-fps-action.json) |
 | Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
 | HardCube | 32302 | [32302-hardcube.json](./32302-hardcube.json) |
+| HardCube + Mystery Mine Bundle | 164695 | [164695-hardcube-mystery-mine-bundle.json](./164695-hardcube-mystery-mine-bundle.json) |
 | HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
 | Harddrive | 197509 | [197509-harddrive.json](./197509-harddrive.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
@@ -5345,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: US Super Pack | 161917 | [161917-heroes-and-generals-us-super-pack.json](./161917-heroes-and-generals-us-super-pack.json) |
 | Heroes & Legends: Conquerors of Kolhar | 17531 | [17531-heroes-and-legends-conquerors-of-kolhar.json](./17531-heroes-and-legends-conquerors-of-kolhar.json) |
+| Heroes & Villains Bundle | 164735 | [164735-heroes-and-villains-bundle.json](./164735-heroes-and-villains-bundle.json) |
 | Heroes 2: The Undead King | 70847 | [70847-heroes-2-the-undead-king.json](./70847-heroes-2-the-undead-king.json) |
 | Heroes against Demons | 139981 | [139981-heroes-against-demons.json](./139981-heroes-against-demons.json) |
 | Heroes Against Time | 342012 | [342012-heroes-against-time.json](./342012-heroes-against-time.json) |
@@ -10589,6 +10591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
 | Hunt Cook: Catch and Serve | 308356 | [308356-hunt-cook-catch-and-serve.json](./308356-hunt-cook-catch-and-serve.json) |
 | Hunt Down the Freeman | 89147 | [89147-hunt-down-the-freeman.json](./89147-hunt-down-the-freeman.json) |
+| Hunt Ducks | 164741 | [164741-hunt-ducks.json](./164741-hunt-ducks.json) |
 | Hunt For Gods | 55248 | [55248-hunt-for-gods.json](./55248-hunt-for-gods.json) |
 | Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
 | Hunt for the Lost Folktales | 379421 | [379421-hunt-for-the-lost-folktales.json](./379421-hunt-for-the-lost-folktales.json) |
@@ -10791,8 +10794,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
 | Hunting Simulator | 27697 | [27697-hunting-simulator.json](./27697-hunting-simulator.json) |
 | Hunting Simulator 2 | 130000 | [130000-hunting-simulator-2.json](./130000-hunting-simulator-2.json) |
+| Hunting Simulator 2: Bear Hunter Edition | 164746 | [164746-hunting-simulator-2-bear-hunter-edition.json](./164746-hunting-simulator-2-bear-hunter-edition.json) |
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
+| Hunting Simulator 2: Elite Edition | 164716 | [164716-hunting-simulator-2-elite-edition.json](./164716-hunting-simulator-2-elite-edition.json) |
 | Hunting Simulator 3 | 323189 | [323189-hunting-simulator-3.json](./323189-hunting-simulator-3.json) |
 | Hunting Simulator VR | 112682 | [112682-hunting-simulator-vr.json](./112682-hunting-simulator-vr.json) |
 | Hunting Sniper | 296765 | [296765-hunting-sniper.json](./296765-hunting-sniper.json) |
