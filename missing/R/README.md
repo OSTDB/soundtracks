@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
 | Rain City | 120066 | [120066-rain-city.json](./120066-rain-city.json) |
 | Rain Debt | 396557 | [396557-rain-debt.json](./396557-rain-debt.json) |
+| Rain Drop | 142034 | [142034-rain-drop.json](./142034-rain-drop.json) |
 | Rain Drops | 69194 | [69194-rain-drops.json](./69194-rain-drops.json) |
 | Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
 | Rain in Rio | 94076 | [94076-rain-in-rio.json](./94076-rain-in-rio.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Raventure | 250547 | [250547-raventure.json](./250547-raventure.json) |
+| RavenWeald | 142622 | [142622-ravenweald.json](./142622-ravenweald.json) |
 | Ravenwood | 312280 | [312280-ravenwood.json](./312280-ravenwood.json) |
 | Ravenwood 46 | 373051 | [373051-ravenwood-46.json](./373051-ravenwood-46.json) |
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
@@ -5636,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Genesis | 15356 | [15356-return-to-genesis.json](./15356-return-to-genesis.json) |
 | Return to Grace | 249477 | [249477-return-to-grace.json](./249477-return-to-grace.json) |
 | Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
+| Return to Hadron | 142599 | [142599-return-to-hadron.json](./142599-return-to-hadron.json) |
 | Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
@@ -10427,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Wars: Farm TD | 329229 | [329229-royal-wars-farm-td.json](./329229-royal-wars-farm-td.json) |
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royal's Gambit | 347568 | [347568-royals-gambit.json](./347568-royals-gambit.json) |
+| Royale Archer VR | 142036 | [142036-royale-archer-vr.json](./142036-royale-archer-vr.json) |
 | Royale Island Showdown | 167590 | [167590-royale-island-showdown.json](./167590-royale-island-showdown.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royale Storm Bowling | 116217 | [116217-royale-storm-bowling.json](./116217-royale-storm-bowling.json) |
@@ -11033,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Pharaoh Run! | 181329 | [181329-run-pharaoh-run.json](./181329-run-pharaoh-run.json) |
 | Run Pizza Run | 275705 | [275705-run-pizza-run.json](./275705-run-pizza-run.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
+| Run Prop, Run! | 142058 | [142058-run-prop-run.json](./142058-run-prop-run.json) |
 | Run Rabbit Run | 34282 | [34282-run-rabbit-run.json](./34282-run-rabbit-run.json) |
 | Run Ralph Run | 158112 | [158112-run-ralph-run.json](./158112-run-ralph-run.json) |
 | Run Ran! Side Scrollers | 270018 | [270018-run-ran-side-scrollers.json](./270018-run-ran-side-scrollers.json) |
@@ -11214,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
 | RuneLite | 142955 | [142955-runelite.json](./142955-runelite.json) |
 | Runelords | 208730 | [208730-runelords.json](./208730-runelords.json) |
+| Runelords Arena | 142056 | [142056-runelords-arena.json](./142056-runelords-arena.json) |
 | Runemancer | 272245 | [272245-runemancer.json](./272245-runemancer.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
