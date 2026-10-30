@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: Dracula's Lair | 345371 | [345371-labyrinth-draculas-lair.json](./345371-labyrinth-draculas-lair.json) |
 | Labyrinth: Immortal Oblivion | 224601 | [224601-labyrinth-immortal-oblivion.json](./224601-labyrinth-immortal-oblivion.json) |
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
+| Labyrinth: The Exit Is Closer | 143977 | [143977-labyrinth-the-exit-is-closer.json](./143977-labyrinth-the-exit-is-closer.json) |
 | Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
 | Labyrinth: The Wizard's Cat | 296486 | [296486-labyrinth-the-wizards-cat.json](./296486-labyrinth-the-wizards-cat.json) |
 | Labyrinth.os | 144691 | [144691-labyrinth-os.json](./144691-labyrinth-os.json) |
@@ -3009,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Wet Dreams Dry Twice | 138756 | [138756-leisure-suit-larry-wet-dreams-dry-twice.json](./138756-leisure-suit-larry-wet-dreams-dry-twice.json) |
 | Leisure Suit Larry: Wet Dreams Dry Twice - Save the World Edition | 154215 | [154215-leisure-suit-larry-wet-dreams-dry-twice-save-the-world-edition.json](./154215-leisure-suit-larry-wet-dreams-dry-twice-save-the-world-edition.json) |
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
+| Leisure Suit Larry's Casino | 144534 | [144534-leisure-suit-larrys-casino.json](./144534-leisure-suit-larrys-casino.json) |
 | Leisure Town | 108424 | [108424-leisure-town.json](./108424-leisure-town.json) |
 | Leisure Yacht | 238580 | [238580-leisure-yacht.json](./238580-leisure-yacht.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
@@ -4306,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light-Years Away | 314919 | [314919-light-years-away.json](./314919-light-years-away.json) |
 | Light, Dark or Hrak? | 192259 | [192259-light-dark-or-hrak.json](./192259-light-dark-or-hrak.json) |
 | Light, Wax, Shadow, Wick | 142148 | [142148-light-wax-shadow-wick.json](./142148-light-wax-shadow-wick.json) |
+| Light: A Maze Game | 143909 | [143909-light-a-maze-game.json](./143909-light-a-maze-game.json) |
 | Light: Black Cat & Amnesia Girl | 188465 | [188465-light-black-cat-and-amnesia-girl.json](./188465-light-black-cat-and-amnesia-girl.json) |
 | Light: Die to Survive | 311222 | [311222-light-die-to-survive.json](./311222-light-die-to-survive.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
