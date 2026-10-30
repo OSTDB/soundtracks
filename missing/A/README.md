@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Penny For Some Motivation | 95263 | [95263-a-penny-for-some-motivation.json](./95263-a-penny-for-some-motivation.json) |
 | A Pequena Grande Crise 2: A Ameaça é Outra Agora | 217797 | [217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json](./217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json) |
 | A Pequena Grande Crise 3: A Queda do Gigante | 217818 | [217818-a-pequena-grande-crise-3-a-queda-do-gigante.json](./217818-a-pequena-grande-crise-3-a-queda-do-gigante.json) |
+| A Percent of a Pirate | 128171 | [128171-a-percent-of-a-pirate.json](./128171-a-percent-of-a-pirate.json) |
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
 | A Perfect Day | 97271 | [97271-a-perfect-day.json](./97271-a-perfect-day.json) |
 | A Perfect Day for White Dolphin | 150480 | [150480-a-perfect-day-for-white-dolphin.json](./150480-a-perfect-day-for-white-dolphin.json) |
@@ -7212,6 +7213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amairo Chocolate | 130138 | [130138-amairo-chocolate.json](./130138-amairo-chocolate.json) |
 | Amairo Chocolate 2 | 254948 | [254948-amairo-chocolate-2.json](./254948-amairo-chocolate-2.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
+| Amakano | 128190 | [128190-amakano.json](./128190-amakano.json) |
 | Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
 | Amakano 3 | 370550 | [370550-amakano-3.json](./370550-amakano-3.json) |
 | Amakano 3 | 415051 | [415051-amakano-3.json](./415051-amakano-3.json) |
