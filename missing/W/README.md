@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons Factory | 273008 | [273008-weapons-factory.json](./273008-weapons-factory.json) |
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
 | Weapons Genius | 34843 | [34843-weapons-genius.json](./34843-weapons-genius.json) |
+| Weapons Genius VR | 132437 | [132437-weapons-genius-vr.json](./132437-weapons-genius-vr.json) |
 | Weapons of Ra | 199990 | [199990-weapons-of-ra.json](./199990-weapons-of-ra.json) |
 | Weapons of the Gods | 218273 | [218273-weapons-of-the-gods.json](./218273-weapons-of-the-gods.json) |
 | Weapons of War | 324727 | [324727-weapons-of-war.json](./324727-weapons-of-war.json) |
@@ -6073,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Wrath Legends | 312828 | [312828-wizards-wrath-legends.json](./312828-wizards-wrath-legends.json) |
 | Wizard101 | 47101 | [47101-wizard101.json](./47101-wizard101.json) |
 | Wizardas | 117648 | [117648-wizardas.json](./117648-wizardas.json) |
+| WizardChess | 132439 | [132439-wizardchess.json](./132439-wizardchess.json) |
 | WizardCraft | 33264 | [33264-wizardcraft.json](./33264-wizardcraft.json) |
 | WizardCraft Colonies | 120947 | [120947-wizardcraft-colonies.json](./120947-wizardcraft-colonies.json) |
 | Wizardia | 218344 | [218344-wizardia.json](./218344-wizardia.json) |
