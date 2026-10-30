@@ -7732,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amid Evil VR | 198154 | [198154-amid-evil-vr.json](./198154-amid-evil-vr.json) |
 | Amid Evil: Champion Edition | 263589 | [263589-amid-evil-champion-edition.json](./263589-amid-evil-champion-edition.json) |
 | Amid Evil: The Black Labyrinth | 152264 | [152264-amid-evil-the-black-labyrinth.json](./152264-amid-evil-the-black-labyrinth.json) |
+| Amid Evil: Warrior Edition | 154191 | [154191-amid-evil-warrior-edition.json](./154191-amid-evil-warrior-edition.json) |
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
 | Amid the Lines | 165530 | [165530-amid-the-lines.json](./165530-amid-the-lines.json) |
 | Amid Worlds: Laser Puzzle Game | 175569 | [175569-amid-worlds-laser-puzzle-game.json](./175569-amid-worlds-laser-puzzle-game.json) |
