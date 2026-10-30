@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Sniper Bundle | 297314 | [297314-geometric-sniper-bundle.json](./297314-geometric-sniper-bundle.json) |
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
 | Geometric Sniper: Blood in Paris | 157970 | [157970-geometric-sniper-blood-in-paris.json](./157970-geometric-sniper-blood-in-paris.json) |
+| Geometric Sniper: Card Game | 173966 | [173966-geometric-sniper-card-game.json](./173966-geometric-sniper-card-game.json) |
 | Geometrical Dash | 420189 | [420189-geometrical-dash.json](./420189-geometrical-dash.json) |
 | GeometricMadness | 184897 | [184897-geometricmadness.json](./184897-geometricmadness.json) |
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
@@ -7579,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Rider: Space Bike Racing Game Online | 108239 | [108239-gravity-rider-space-bike-racing-game-online.json](./108239-gravity-rider-space-bike-racing-game-online.json) |
 | Gravity Rubik's Cube | 151268 | [151268-gravity-rubiks-cube.json](./151268-gravity-rubiks-cube.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
+| Gravity Runner | 173972 | [173972-gravity-runner.json](./173972-gravity-runner.json) |
 | Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
 | Gravity Rush Remastered | 12529 | [12529-gravity-rush-remastered.json](./12529-gravity-rush-remastered.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
