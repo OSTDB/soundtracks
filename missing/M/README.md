@@ -12959,6 +12959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
 | Mochi Conquest | 376004 | [376004-mochi-conquest.json](./376004-mochi-conquest.json) |
 | Mochi in Frosting | 146518 | [146518-mochi-in-frosting.json](./146518-mochi-in-frosting.json) |
+| Mochi Jump | 152602 | [152602-mochi-jump.json](./152602-mochi-jump.json) |
 | Mochi Jump | 280647 | [280647-mochi-jump.json](./280647-mochi-jump.json) |
 | Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
@@ -16151,6 +16152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse House | 66984 | [66984-mouse-house.json](./66984-mouse-house.json) |
+| Mouse Hunter | 152565 | [152565-mouse-hunter.json](./152565-mouse-hunter.json) |
 | Mouse in a Stew | 54227 | [54227-mouse-in-a-stew.json](./54227-mouse-in-a-stew.json) |
 | Mouse in Lab | 29584 | [29584-mouse-in-lab.json](./29584-mouse-in-lab.json) |
 | Mouse in the Maze | 66991 | [66991-mouse-in-the-maze.json](./66991-mouse-in-the-maze.json) |
@@ -16197,6 +16199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MouseVentures | 331967 | [331967-mouseventures.json](./331967-mouseventures.json) |
 | MouseWars | 211190 | [211190-mousewars.json](./211190-mousewars.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
+| Mousey Mick | 152575 | [152575-mousey-mick.json](./152575-mousey-mick.json) |
 | Mousin' Around! | 92433 | [92433-mousin-around.json](./92433-mousin-around.json) |
 | Mouskattack | 282111 | [282111-mouskattack.json](./282111-mouskattack.json) |
 | Moussacre | 283763 | [283763-moussacre.json](./283763-moussacre.json) |
