@@ -9861,6 +9861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
 | Foxes Need to Eat | 265864 | [265864-foxes-need-to-eat.json](./265864-foxes-need-to-eat.json) |
 | Foxes' Festival | 325909 | [325909-foxes-festival.json](./325909-foxes-festival.json) |
+| Foxfall | 127526 | [127526-foxfall.json](./127526-foxfall.json) |
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
 | FoxFire Mine | 279142 | [279142-foxfire-mine.json](./279142-foxfire-mine.json) |
 | Foxfolk | 52050 | [52050-foxfolk.json](./52050-foxfolk.json) |
