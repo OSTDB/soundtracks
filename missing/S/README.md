@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Quest | 147053 | [147053-savage-quest.json](./147053-savage-quest.json) |
 | Savage Reign | 39565 | [39565-savage-reign.json](./39565-savage-reign.json) |
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
+| Savage Steel | 149179 | [149179-savage-steel.json](./149179-savage-steel.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
 | Savage Worlds | 58078 | [58078-savage-worlds.json](./58078-savage-worlds.json) |
@@ -6626,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Dread | 342526 | [342526-shards-of-dread.json](./342526-shards-of-dread.json) |
 | Shards of Epoch Past | 301697 | [301697-shards-of-epoch-past.json](./301697-shards-of-epoch-past.json) |
 | Shards of Eradine | 88065 | [88065-shards-of-eradine.json](./88065-shards-of-eradine.json) |
+| Shards of Feyra | 149183 | [149183-shards-of-feyra.json](./149183-shards-of-feyra.json) |
 | Shards of God | 256947 | [256947-shards-of-god.json](./256947-shards-of-god.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
@@ -11940,6 +11942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slicer!! | 100324 | [100324-slicer.json](./100324-slicer.json) |
 | Slices | 105870 | [105870-slices.json](./105870-slices.json) |
 | Slick | 63260 | [63260-slick.json](./63260-slick.json) |
+| Slick Racing Game | 149252 | [149252-slick-racing-game.json](./149252-slick-racing-game.json) |
 | Slick Shot | 337565 | [337565-slick-shot.json](./337565-slick-shot.json) |
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
@@ -18057,6 +18060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebug | 169594 | [169594-spacebug.json](./169594-spacebug.json) |
 | SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
 | Spaceburgers: Journey to Green Haven | 374414 | [374414-spaceburgers-journey-to-green-haven.json](./374414-spaceburgers-journey-to-green-haven.json) |
+| Spacebus | 149251 | [149251-spacebus.json](./149251-spacebus.json) |
 | SpaceCab | 368777 | [368777-spacecab.json](./368777-spacecab.json) |
 | Spacecaps | 349658 | [349658-spacecaps.json](./349658-spacecaps.json) |
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
@@ -27366,6 +27370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Caesars Palace | 9622 | [9622-super-caesars-palace.json](./9622-super-caesars-palace.json) |
 | Super Cakeboy | 240816 | [240816-super-cakeboy.json](./240816-super-cakeboy.json) |
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
+| Super Can Cannon | 149186 | [149186-super-can-cannon.json](./149186-super-can-cannon.json) |
 | Super Candle World | 391010 | [391010-super-candle-world.json](./391010-super-candle-world.json) |
 | Super Candy Ball: Color Clash | 235253 | [235253-super-candy-ball-color-clash.json](./235253-super-candy-ball-color-clash.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
@@ -27406,6 +27411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chicken Catchers | 113430 | [113430-super-chicken-catchers.json](./113430-super-chicken-catchers.json) |
 | Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
 | Super Chicken Run - Chicken Farm Racing For kids | 100623 | [100623-super-chicken-run-chicken-farm-racing-for-kids.json](./100623-super-chicken-run-chicken-farm-racing-for-kids.json) |
+| Super Chicos | 149175 | [149175-super-chicos.json](./149175-super-chicos.json) |
 | Super Chili Man | 392203 | [392203-super-chili-man.json](./392203-super-chili-man.json) |
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
 | Super Chinchilla Speed Typing Grand Prix 3000 | 185343 | [185343-super-chinchilla-speed-typing-grand-prix-3000.json](./185343-super-chinchilla-speed-typing-grand-prix-3000.json) |
@@ -30785,6 +30791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Rush | 200844 | [200844-sushi-rush.json](./200844-sushi-rush.json) |
 | Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
 | Sushi Simulator | 389924 | [389924-sushi-simulator.json](./389924-sushi-simulator.json) |
+| Sushi Slammers | 149254 | [149254-sushi-slammers.json](./149254-sushi-slammers.json) |
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
@@ -31009,6 +31016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapTiles | 100664 | [100664-swaptiles.json](./100664-swaptiles.json) |
 | Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
 | Swarm | 13766 | [13766-swarm.json](./13766-swarm.json) |
+| Swarm | 149182 | [149182-swarm.json](./149182-swarm.json) |
 | Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm Arena | 15025 | [15025-swarm-arena.json](./15025-swarm-arena.json) |
