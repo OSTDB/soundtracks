@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unending War: Grand-Strategy Chess | 163681 | [163681-unending-war-grand-strategy-chess.json](./163681-unending-war-grand-strategy-chess.json) |
 | Unepic | 3018 | [3018-unepic.json](./3018-unepic.json) |
 | UnEpic: Collector's Edition | 166178 | [166178-unepic-collectors-edition.json](./166178-unepic-collectors-edition.json) |
+| Uneven Dream | 141411 | [141411-uneven-dream.json](./141411-uneven-dream.json) |
 | UnExist: Yume Kanawanu Douketachi | 393298 | [393298-unexist-yume-kanawanu-douketachi.json](./393298-unexist-yume-kanawanu-douketachi.json) |
 | Unexpected | 420180 | [420180-unexpected.json](./420180-unexpected.json) |
 | Unexpected 2 | 420182 | [420182-unexpected-2.json](./420182-unexpected-2.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uphill Rush Water Park Racing | 231231 | [231231-uphill-rush-water-park-racing.json](./231231-uphill-rush-water-park-racing.json) |
 | Uphill Skiing | 43128 | [43128-uphill-skiing.json](./43128-uphill-skiing.json) |
 | Uphill Stunt Driver: Extreme Racing Simulator | 306535 | [306535-uphill-stunt-driver-extreme-racing-simulator.json](./306535-uphill-stunt-driver-extreme-racing-simulator.json) |
+| Uphold the Realm | 142626 | [142626-uphold-the-realm.json](./142626-uphold-the-realm.json) |
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
 | Upirja | 202499 | [202499-upirja.json](./202499-upirja.json) |
