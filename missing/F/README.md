@@ -11672,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Monsters | 119648 | [119648-full-metal-monsters.json](./119648-full-metal-monsters.json) |
 | Full Metal Nun | 411666 | [411666-full-metal-nun.json](./411666-full-metal-nun.json) |
 | Full Metal Panic! Fight! Who Dares Wins | 75378 | [75378-full-metal-panic-fight-who-dares-wins.json](./75378-full-metal-panic-fight-who-dares-wins.json) |
+| Full Metal Panic! Fight! Who Dares Wins: Specialist Box Limited Edition | 166969 | [166969-full-metal-panic-fight-who-dares-wins-specialist-box-limited-edition.json](./166969-full-metal-panic-fight-who-dares-wins-specialist-box-limited-edition.json) |
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Renegade | 105169 | [105169-full-metal-renegade.json](./105169-full-metal-renegade.json) |
 | Full Metal Schoolgirl | 352205 | [352205-full-metal-schoolgirl.json](./352205-full-metal-schoolgirl.json) |
