@@ -5752,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Dungeon: The Arcana Stone | 114786 | [114786-hexagon-dungeon-the-arcana-stone.json](./114786-hexagon-dungeon-the-arcana-stone.json) |
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
+| Hexagon Knockout | 153637 | [153637-hexagon-knockout.json](./153637-hexagon-knockout.json) |
 | Hexagon Puzzle Blocks | 232647 | [232647-hexagon-puzzle-blocks.json](./232647-hexagon-puzzle-blocks.json) |
 | Hexagon Puzzle Blocks: Expansion Pack | 232648 | [232648-hexagon-puzzle-blocks-expansion-pack.json](./232648-hexagon-puzzle-blocks-expansion-pack.json) |
 | Hexagon Soup | 384143 | [384143-hexagon-soup.json](./384143-hexagon-soup.json) |
