@@ -3237,7 +3237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Slots | 58631 | [58631-castle-slots.json](./58631-castle-slots.json) |
 | Castle Solitaire | 370338 | [370338-castle-solitaire.json](./370338-castle-solitaire.json) |
 | Castle Story | 227524 | [227524-castle-story.json](./227524-castle-story.json) |
-| Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
 | Castle Story | 79809 | [79809-castle-story.json](./79809-castle-story.json) |
 | Castle Strike | 92914 | [92914-castle-strike.json](./92914-castle-strike.json) |
 | Castle survival | 158047 | [158047-castle-survival.json](./158047-castle-survival.json) |
@@ -13475,6 +13474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Mechanic | 193687 | [193687-cosmic-mechanic.json](./193687-cosmic-mechanic.json) |
 | Cosmic Miners | 345655 | [345655-cosmic-miners.json](./345655-cosmic-miners.json) |
 | Cosmic Mirage | 297100 | [297100-cosmic-mirage.json](./297100-cosmic-mirage.json) |
+| Cosmic Monsters | 127505 | [127505-cosmic-monsters.json](./127505-cosmic-monsters.json) |
 | Cosmic Monsters | 281285 | [281285-cosmic-monsters.json](./281285-cosmic-monsters.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
@@ -14777,6 +14777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Ball | 58545 | [58545-crazy-ball.json](./58545-crazy-ball.json) |
 | Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
+| Crazy Ball Racing | 127520 | [127520-crazy-ball-racing.json](./127520-crazy-ball-racing.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
 | Crazy Balloon Pop | 108927 | [108927-crazy-balloon-pop.json](./108927-crazy-balloon-pop.json) |
 | Crazy Balls | 359391 | [359391-crazy-balls.json](./359391-crazy-balls.json) |
