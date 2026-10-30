@@ -4954,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
 | The Adventures of Emoji 4: Fly High Mouse - Remastered | 297884 | [297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json](./297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json) |
 | The Adventures of Fatman | 34651 | [34651-the-adventures-of-fatman.json](./34651-the-adventures-of-fatman.json) |
+| The Adventures of Fatman: Intergalactic Indigestion | 170124 | [170124-the-adventures-of-fatman-intergalactic-indigestion.json](./170124-the-adventures-of-fatman-intergalactic-indigestion.json) |
 | The Adventures of Felix Fox: Tale of the Night | 65920 | [65920-the-adventures-of-felix-fox-tale-of-the-night.json](./65920-the-adventures-of-felix-fox-tale-of-the-night.json) |
 | The Adventures of Gilligan's Island | 8742 | [8742-the-adventures-of-gilligans-island.json](./8742-the-adventures-of-gilligans-island.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
@@ -13365,6 +13366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Police Mystery | 274876 | [274876-the-police-mystery.json](./274876-the-police-mystery.json) |
 | The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
+| The Political Machine 2016: Campaign DLC | 170172 | [170172-the-political-machine-2016-campaign-dlc.json](./170172-the-political-machine-2016-campaign-dlc.json) |
 | The Political Machine 2020 | 129073 | [129073-the-political-machine-2020.json](./129073-the-political-machine-2020.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
