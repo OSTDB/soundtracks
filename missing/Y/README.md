@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You or the Blue. | 285345 | [285345-you-or-the-blue.json](./285345-you-or-the-blue.json) |
 | You Picked the Wrong Castle | 366116 | [366116-you-picked-the-wrong-castle.json](./366116-you-picked-the-wrong-castle.json) |
 | You Picked Your Poison | 397012 | [397012-you-picked-your-poison.json](./397012-you-picked-your-poison.json) |
+| You Pilot a Piece of S***: Gaiden | 149795 | [149795-you-pilot-a-piece-of-s-gaiden.json](./149795-you-pilot-a-piece-of-s-gaiden.json) |
 | You Played Yourself | 184946 | [184946-you-played-yourself.json](./184946-you-played-yourself.json) |
 | You See a Monster Smoking in the Parking Lot | 377666 | [377666-you-see-a-monster-smoking-in-the-parking-lot.json](./377666-you-see-a-monster-smoking-in-the-parking-lot.json) |
 | You Shall Not Break! | 111397 | [111397-you-shall-not-break.json](./111397-you-shall-not-break.json) |
