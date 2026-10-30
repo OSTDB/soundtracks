@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Story - Train Simulator | 88617 | [88617-railroad-story-train-simulator.json](./88617-railroad-story-train-simulator.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
 | Railroad to Amberfield | 380204 | [380204-railroad-to-amberfield.json](./380204-railroad-to-amberfield.json) |
+| Railroad Tycoon 2: Platinum Edition | 124961 | [124961-railroad-tycoon-2-platinum-edition.json](./124961-railroad-tycoon-2-platinum-edition.json) |
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
 | Railroad Tycoon II | 285 | [285-railroad-tycoon-ii.json](./285-railroad-tycoon-ii.json) |
@@ -9950,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Double: Before Crime * After Days - Xtend Edition | 33617 | [33617-root-double-before-crime-after-days-xtend-edition.json](./33617-root-double-before-crime-after-days-xtend-edition.json) |
 | Root Down | 250158 | [250158-root-down.json](./250158-root-down.json) |
+| Root Film | 124953 | [124953-root-film.json](./124953-root-film.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
 | Root Infinity Rexx: Limited Edition | 254365 | [254365-root-infinity-rexx-limited-edition.json](./254365-root-infinity-rexx-limited-edition.json) |
 | Root Letter | 19798 | [19798-root-letter.json](./19798-root-letter.json) |
