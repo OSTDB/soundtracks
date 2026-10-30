@@ -5155,6 +5155,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Guard: Salvation | 333034 | [333034-iron-guard-salvation.json](./333034-iron-guard-salvation.json) |
 | Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
 | Iron Harvest: Complete Edition | 170036 | [170036-iron-harvest-complete-edition.json](./170036-iron-harvest-complete-edition.json) |
+| Iron Harvest: Deluxe Edition | 154221 | [154221-iron-harvest-deluxe-edition.json](./154221-iron-harvest-deluxe-edition.json) |
+| Iron Harvest: Operation Eagle | 154193 | [154193-iron-harvest-operation-eagle.json](./154193-iron-harvest-operation-eagle.json) |
 | Iron Heart | 117355 | [117355-iron-heart.json](./117355-iron-heart.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hopper | 256155 | [256155-iron-hopper.json](./256155-iron-hopper.json) |
