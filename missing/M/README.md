@@ -4048,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martha's Dolls 2 | 415990 | [415990-marthas-dolls-2.json](./415990-marthas-dolls-2.json) |
 | Martial Art's History | 421427 | [421427-martial-arts-history.json](./421427-martial-arts-history.json) |
 | Martial Arts Brutality | 69499 | [69499-martial-arts-brutality.json](./69499-martial-arts-brutality.json) |
+| Martial Arts Brutality Premium | 149245 | [149245-martial-arts-brutality-premium.json](./149245-martial-arts-brutality-premium.json) |
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
