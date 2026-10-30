@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
 | Tales of Vengeance | 362926 | [362926-tales-of-vengeance.json](./362926-tales-of-vengeance.json) |
 | Tales of Vesperia | 221059 | [221059-tales-of-vesperia.json](./221059-tales-of-vesperia.json) |
+| Tales of Vesperia: Remaster - 10th Anniversary Edition | 136664 | [136664-tales-of-vesperia-remaster-10th-anniversary-edition.json](./136664-tales-of-vesperia-remaster-10th-anniversary-edition.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales of Vogar: Lost Descendants | 236366 | [236366-tales-of-vogar-lost-descendants.json](./236366-tales-of-vogar-lost-descendants.json) |
 | Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
@@ -9914,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: SideM - Live on Stage! | 54983 | [54983-the-idolmaster-sidem-live-on-stage.json](./54983-the-idolmaster-sidem-live-on-stage.json) |
 | The Idolmaster: Starlit Season - Starlight Box | 146012 | [146012-the-idolmaster-starlit-season-starlight-box.json](./146012-the-idolmaster-starlit-season-starlight-box.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
+| The Idolmaster: Stella Stage - Stella Box | 136683 | [136683-the-idolmaster-stella-stage-stella-box.json](./136683-the-idolmaster-stella-stage-stella-box.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illogical Journey of the Zambonis | 165439 | [165439-the-illogical-journey-of-the-zambonis.json](./165439-the-illogical-journey-of-the-zambonis.json) |
@@ -15641,6 +15643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
+| THE Taikan! Sports Pack: Tennis, Bowling, Golf, Billiard | 136638 | [136638-the-taikan-sports-pack-tennis-bowling-golf-billiard.json](./136638-the-taikan-sports-pack-tennis-bowling-golf-billiard.json) |
 | The Tail Of Beta Lyrae | 23578 | [23578-the-tail-of-beta-lyrae.json](./23578-the-tail-of-beta-lyrae.json) |
 | The Tail of King Boris of Oris | 364661 | [364661-the-tail-of-king-boris-of-oris.json](./364661-the-tail-of-king-boris-of-oris.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
@@ -22721,6 +22724,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari ni Kanojo no Iru Shiawase: Curious Queen - Limited Edition | 166993 | [166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json](./166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
 | Tonari ni Kanojo no Iru Shiawase: In First Snow With Her - Premium Edition | 385851 | [385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json](./385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json) |
+| Tonari ni Kanojo no Iru Shiawase: Summer Surprise | 136648 | [136648-tonari-ni-kanojo-no-iru-shiawase-summer-surprise.json](./136648-tonari-ni-kanojo-no-iru-shiawase-summer-surprise.json) |
+| Tonari ni Kanojo no Iru Shiawase: Summer Surprise - Premium Edition | 136676 | [136676-tonari-ni-kanojo-no-iru-shiawase-summer-surprise-premium-edition.json](./136676-tonari-ni-kanojo-no-iru-shiawase-summer-surprise-premium-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: Two Farce | 70892 | [70892-tonari-ni-kanojo-no-iru-shiawase-two-farce.json](./70892-tonari-ni-kanojo-no-iru-shiawase-two-farce.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest - Limited Edition | 212314 | [212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json](./212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json) |
@@ -29249,6 +29254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
 | Turbo Tails | 264537 | [264537-turbo-tails.json](./264537-turbo-tails.json) |
+| Turbo Tanks | 136657 | [136657-turbo-tanks.json](./136657-turbo-tanks.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
 | Turbo Toons | 205977 | [205977-turbo-toons.json](./205977-turbo-toons.json) |
