@@ -2671,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeat Mobile 2 | 154840 | [154840-jubeat-mobile-2.json](./154840-jubeat-mobile-2.json) |
 | Jubeat Plus | 76996 | [76996-jubeat-plus.json](./76996-jubeat-plus.json) |
 | Jubeat Prop | 268568 | [268568-jubeat-prop.json](./268568-jubeat-prop.json) |
+| jubeat Qubell | 163657 | [163657-jubeat-qubell.json](./163657-jubeat-qubell.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
 | Jubeez | 171441 | [171441-jubeez.json](./171441-jubeez.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
