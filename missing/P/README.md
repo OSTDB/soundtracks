@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Mr | 100293 | [100293-pac-mr.json](./100293-pac-mr.json) |
 | Pac Pack | 68951 | [68951-pac-pack.json](./68951-pac-pack.json) |
+| Pac Quest 3D | 134828 | [134828-pac-quest-3d.json](./134828-pac-quest-3d.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac the Man 2 | 78960 | [78960-pac-the-man-2.json](./78960-pac-the-man-2.json) |
 | Pac vs Ghosts | 371207 | [371207-pac-vs-ghosts.json](./371207-pac-vs-ghosts.json) |
@@ -3433,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peep | 120658 | [120658-peep.json](./120658-peep.json) |
 | Peep Invasion | 197513 | [197513-peep-invasion.json](./197513-peep-invasion.json) |
 | Peep the Trayton | 187803 | [187803-peep-the-trayton.json](./187803-peep-the-trayton.json) |
+| Peepaw | 134868 | [134868-peepaw.json](./134868-peepaw.json) |
 | Peepaw's Farm | 164305 | [164305-peepaws-farm.json](./164305-peepaws-farm.json) |
 | Peepers | 248807 | [248807-peepers.json](./248807-peepers.json) |
 | Peepers Paradise | 341586 | [341586-peepers-paradise.json](./341586-peepers-paradise.json) |
