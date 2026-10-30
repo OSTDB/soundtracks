@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Cthulhu Fish | 301975 | [301975-100-hidden-cthulhu-fish.json](./301975-100-hidden-cthulhu-fish.json) |
 | 100 Hidden Cthulhu Fish 2 | 308932 | [308932-100-hidden-cthulhu-fish-2.json](./308932-100-hidden-cthulhu-fish-2.json) |
 | 100 Hidden Cupcakes | 169672 | [169672-100-hidden-cupcakes.json](./169672-100-hidden-cupcakes.json) |
+| 100 Hidden Cups | 170682 | [170682-100-hidden-cups.json](./170682-100-hidden-cups.json) |
 | 100 Hidden Fish | 187205 | [187205-100-hidden-fish.json](./187205-100-hidden-fish.json) |
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hidden Frogs 2 | 235392 | [235392-100-hidden-frogs-2.json](./235392-100-hidden-frogs-2.json) |
