@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T02:33:48.205Z",
-  "total_missing": 282046,
+  "generated_at": "2026-10-30T02:49:13.333Z",
+  "total_missing": 282098,
   "games": [
     {
       "igdb_id": 191680,
@@ -2695,6 +2695,11 @@
       "igdb_id": 169672,
       "game_name": "100 Hidden Cupcakes",
       "file": "missing/0-9/169672-100-hidden-cupcakes.json"
+    },
+    {
+      "igdb_id": 170682,
+      "game_name": "100 Hidden Cups",
+      "file": "missing/0-9/170682-100-hidden-cups.json"
     },
     {
       "igdb_id": 187205,
@@ -52642,6 +52647,66 @@
       "file": "missing/A/414497-ambience.json"
     },
     {
+      "igdb_id": 170709,
+      "game_name": "Ambient Channels: Abandoned Town - Farmhouse",
+      "file": "missing/A/170709-ambient-channels-abandoned-town-farmhouse.json"
+    },
+    {
+      "igdb_id": 170706,
+      "game_name": "Ambient Channels: American Retro - Cozy Café After Hours",
+      "file": "missing/A/170706-ambient-channels-american-retro-cozy-cafe-after-hours.json"
+    },
+    {
+      "igdb_id": 170703,
+      "game_name": "Ambient Channels: Desolate Space - Contaminated Vessel",
+      "file": "missing/A/170703-ambient-channels-desolate-space-contaminated-vessel.json"
+    },
+    {
+      "igdb_id": 170705,
+      "game_name": "Ambient Channels: Downtown - Marina Apartments",
+      "file": "missing/A/170705-ambient-channels-downtown-marina-apartments.json"
+    },
+    {
+      "igdb_id": 170707,
+      "game_name": "Ambient Channels: Downtown - Parkland Condos",
+      "file": "missing/A/170707-ambient-channels-downtown-parkland-condos.json"
+    },
+    {
+      "igdb_id": 170704,
+      "game_name": "Ambient Channels: Dreamscapes - Christmas in Victoria",
+      "file": "missing/A/170704-ambient-channels-dreamscapes-christmas-in-victoria.json"
+    },
+    {
+      "igdb_id": 170701,
+      "game_name": "Ambient Channels: Dreamscapes - Fantasy Camp",
+      "file": "missing/A/170701-ambient-channels-dreamscapes-fantasy-camp.json"
+    },
+    {
+      "igdb_id": 170699,
+      "game_name": "Ambient Channels: Dreamscapes - Graveyard",
+      "file": "missing/A/170699-ambient-channels-dreamscapes-graveyard.json"
+    },
+    {
+      "igdb_id": 170700,
+      "game_name": "Ambient Channels: Lost Metro - City Subway",
+      "file": "missing/A/170700-ambient-channels-lost-metro-city-subway.json"
+    },
+    {
+      "igdb_id": 170698,
+      "game_name": "Ambient Channels: Phreakers - Black Room",
+      "file": "missing/A/170698-ambient-channels-phreakers-black-room.json"
+    },
+    {
+      "igdb_id": 170708,
+      "game_name": "Ambient Channels: Terror Forest - Hell House",
+      "file": "missing/A/170708-ambient-channels-terror-forest-hell-house.json"
+    },
+    {
+      "igdb_id": 170702,
+      "game_name": "Ambient Channels: Zanfium Tower - Lounge",
+      "file": "missing/A/170702-ambient-channels-zanfium-tower-lounge.json"
+    },
+    {
       "igdb_id": 66606,
       "game_name": "Ambient Water",
       "file": "missing/A/66606-ambient-water.json"
@@ -57165,6 +57230,11 @@
       "igdb_id": 33289,
       "game_name": "Andarilho",
       "file": "missing/A/33289-andarilho.json"
+    },
+    {
+      "igdb_id": 170686,
+      "game_name": "Andarilho: Zombies",
+      "file": "missing/A/170686-andarilho-zombies.json"
     },
     {
       "igdb_id": 257888,
@@ -101397,6 +101467,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -120115,6 +120190,11 @@
       "igdb_id": 38882,
       "game_name": "Beat Hazard Ultra",
       "file": "missing/B/38882-beat-hazard-ultra.json"
+    },
+    {
+      "igdb_id": 170712,
+      "game_name": "Beat Hazard: Shadow Operations Unit",
+      "file": "missing/B/170712-beat-hazard-shadow-operations-unit.json"
     },
     {
       "igdb_id": 255581,
@@ -199757,6 +199837,11 @@
       "file": "missing/C/311608-cats-shaped.json"
     },
     {
+      "igdb_id": 170687,
+      "game_name": "Cats: Classic Onet Connect - Expansion Pack",
+      "file": "missing/C/170687-cats-classic-onet-connect-expansion-pack.json"
+    },
+    {
       "igdb_id": 191548,
       "game_name": "Cats!",
       "file": "missing/C/191548-cats.json"
@@ -269512,6 +269597,11 @@
       "file": "missing/C/113511-cyberdrome.json"
     },
     {
+      "igdb_id": 170680,
+      "game_name": "Cyberdunk: Anime Edition",
+      "file": "missing/C/170680-cyberdunk-anime-edition.json"
+    },
+    {
       "igdb_id": 47234,
       "game_name": "Cyberdyne Warrior",
       "file": "missing/C/47234-cyberdyne-warrior.json"
@@ -273757,9 +273847,29 @@
       "file": "missing/D/33302-damage-control.json"
     },
     {
+      "igdb_id": 170719,
+      "game_name": "Damage Inc. Pacific Squadron WWII: F4F-FM2 \"Panther\" Wildcat",
+      "file": "missing/D/170719-damage-inc-pacific-squadron-wwii-f4f-fm2-panther-wildcat.json"
+    },
+    {
       "igdb_id": 170723,
       "game_name": "Damage Inc. Pacific Squadron WWII: F6F-5N \"Crusader\" Hellcat",
       "file": "missing/D/170723-damage-inc-pacific-squadron-wwii-f6f-5n-crusader-hellcat.json"
+    },
+    {
+      "igdb_id": 170721,
+      "game_name": "Damage Inc. Pacific Squadron WWII: P-40N \"Blackfin\" Warhawk",
+      "file": "missing/D/170721-damage-inc-pacific-squadron-wwii-p-40n-blackfin-warhawk.json"
+    },
+    {
+      "igdb_id": 170720,
+      "game_name": "Damage Inc. Pacific Squadron WWII: P-61 \"Mauler\" Black Widow",
+      "file": "missing/D/170720-damage-inc-pacific-squadron-wwii-p-61-mauler-black-widow.json"
+    },
+    {
+      "igdb_id": 170722,
+      "game_name": "Damage Inc. Pacific Squadron WWII: P-80 \"Bolt\" Shooting Star",
+      "file": "missing/D/170722-damage-inc-pacific-squadron-wwii-p-80-bolt-shooting-star.json"
     },
     {
       "igdb_id": 25067,
@@ -285345,6 +285455,11 @@
       "igdb_id": 162861,
       "game_name": "DCS World: MiG-29",
       "file": "missing/D/162861-dcs-world-mig-29.json"
+    },
+    {
+      "igdb_id": 170685,
+      "game_name": "DCS World: Mosquito FB VI",
+      "file": "missing/D/170685-dcs-world-mosquito-fb-vi.json"
     },
     {
       "igdb_id": 325251,
@@ -346307,6 +346422,11 @@
       "file": "missing/D/59206-drop-zone-under-fire.json"
     },
     {
+      "igdb_id": 170675,
+      "game_name": "Drop-Drop",
+      "file": "missing/D/170675-drop-drop.json"
+    },
+    {
       "igdb_id": 373087,
       "game_name": "Drop: Save the Forest",
       "file": "missing/D/373087-drop-save-the-forest.json"
@@ -377520,6 +377640,11 @@
       "igdb_id": 397261,
       "game_name": "Epicurean",
       "file": "missing/E/397261-epicurean.json"
+    },
+    {
+      "igdb_id": 170689,
+      "game_name": "Epidemic",
+      "file": "missing/E/170689-epidemic.json"
     },
     {
       "igdb_id": 174009,
@@ -409787,6 +409912,26 @@
       "file": "missing/F/336619-fault-broken-promises.json"
     },
     {
+      "igdb_id": 170697,
+      "game_name": "Faulty Apprentice: Bunny Rabbit Rescue",
+      "file": "missing/F/170697-faulty-apprentice-bunny-rabbit-rescue.json"
+    },
+    {
+      "igdb_id": 170695,
+      "game_name": "Faulty Apprentice: Escape from Borg Mountain",
+      "file": "missing/F/170695-faulty-apprentice-escape-from-borg-mountain.json"
+    },
+    {
+      "igdb_id": 170696,
+      "game_name": "Faulty Apprentice: Palm Tree Paradise",
+      "file": "missing/F/170696-faulty-apprentice-palm-tree-paradise.json"
+    },
+    {
+      "igdb_id": 170694,
+      "game_name": "Faulty Apprentice: Rose Tournament",
+      "file": "missing/F/170694-faulty-apprentice-rose-tournament.json"
+    },
+    {
       "igdb_id": 180429,
       "game_name": "Faulty Soul",
       "file": "missing/F/180429-faulty-soul.json"
@@ -431627,6 +431772,11 @@
       "file": "missing/F/232485-flower-garden-connect-mania.json"
     },
     {
+      "igdb_id": 170679,
+      "game_name": "Flower girl",
+      "file": "missing/F/170679-flower-girl.json"
+    },
+    {
       "igdb_id": 209340,
       "game_name": "Flower Girl 2",
       "file": "missing/F/209340-flower-girl-2.json"
@@ -436020,6 +436170,11 @@
       "igdb_id": 258555,
       "game_name": "Football, Tactics & Glory 2",
       "file": "missing/F/258555-football-tactics-and-glory-2.json"
+    },
+    {
+      "igdb_id": 170718,
+      "game_name": "Football, Tactics & Glory: Football Stars",
+      "file": "missing/F/170718-football-tactics-and-glory-football-stars.json"
     },
     {
       "igdb_id": 192149,
@@ -443950,6 +444105,11 @@
       "igdb_id": 9815,
       "game_name": "Fractured Space",
       "file": "missing/F/9815-fractured-space.json"
+    },
+    {
+      "igdb_id": 170693,
+      "game_name": "Fractured Space: Fleet Pack - All Current and Future Ships",
+      "file": "missing/F/170693-fractured-space-fleet-pack-all-current-and-future-ships.json"
     },
     {
       "igdb_id": 405341,
@@ -477530,6 +477690,11 @@
       "igdb_id": 324785,
       "game_name": "Girls Made Pudding",
       "file": "missing/G/324785-girls-made-pudding.json"
+    },
+    {
+      "igdb_id": 170672,
+      "game_name": "Girls Memory Card",
+      "file": "missing/G/170672-girls-memory-card.json"
     },
     {
       "igdb_id": 1394,
@@ -535550,6 +535715,11 @@
       "igdb_id": 17490,
       "game_name": "Heroes Rise: The Hero Project",
       "file": "missing/H/17490-heroes-rise-the-hero-project.json"
+    },
+    {
+      "igdb_id": 170711,
+      "game_name": "Heroes Rise: The Hero Project - Warning System",
+      "file": "missing/H/170711-heroes-rise-the-hero-project-warning-system.json"
     },
     {
       "igdb_id": 17375,
@@ -627072,6 +627242,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -695180,6 +695355,11 @@
       "igdb_id": 325725,
       "game_name": "Magical DoReMi: Puzzle Carnival",
       "file": "missing/M/325725-magical-doremi-puzzle-carnival.json"
+    },
+    {
+      "igdb_id": 170676,
+      "game_name": "Magical Drop",
+      "file": "missing/M/170676-magical-drop.json"
     },
     {
       "igdb_id": 71552,
@@ -767912,6 +768092,11 @@
       "file": "missing/M/169141-motorcycle-biker-simulator.json"
     },
     {
+      "igdb_id": 170681,
+      "game_name": "Motorcycle Biker Simulator: Motorcycle 4",
+      "file": "missing/M/170681-motorcycle-biker-simulator-motorcycle-4.json"
+    },
+    {
       "igdb_id": 366743,
       "game_name": "Motorcycle Boy",
       "file": "missing/M/366743-motorcycle-boy.json"
@@ -776460,6 +776645,11 @@
       "igdb_id": 143337,
       "game_name": "Muv-Luv Unlimited: The Day After - Episode 01",
       "file": "missing/M/143337-muv-luv-unlimited-the-day-after-episode-01.json"
+    },
+    {
+      "igdb_id": 170717,
+      "game_name": "Muv-Luv Unlimited: The Day After - Episode 01 Remastered",
+      "file": "missing/M/170717-muv-luv-unlimited-the-day-after-episode-01-remastered.json"
     },
     {
       "igdb_id": 143338,
@@ -815597,6 +815787,16 @@
       "file": "missing/N/103924-non-linear-text-quests.json"
     },
     {
+      "igdb_id": 170714,
+      "game_name": "Non-Linear Text Quests: Return of Red Riding Hood Enhanced Edition",
+      "file": "missing/N/170714-non-linear-text-quests-return-of-red-riding-hood-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 170713,
+      "game_name": "Non-Linear Text Quests: The Barbarian and the Subterranean Caves",
+      "file": "missing/N/170713-non-linear-text-quests-the-barbarian-and-the-subterranean-caves.json"
+    },
+    {
       "igdb_id": 216982,
       "game_name": "Non-Stop Raiders",
       "file": "missing/N/216982-non-stop-raiders.json"
@@ -835012,9 +835212,19 @@
       "file": "missing/O/302718-onirillo.json"
     },
     {
+      "igdb_id": 170715,
+      "game_name": "Onirim: Crossroads and Dead Ends",
+      "file": "missing/O/170715-onirim-crossroads-and-dead-ends.json"
+    },
+    {
       "igdb_id": 52282,
       "game_name": "Onirim: Solitaire Card Game",
       "file": "missing/O/52282-onirim-solitaire-card-game.json"
+    },
+    {
+      "igdb_id": 170716,
+      "game_name": "Onirim: The Door to the Oniverse",
+      "file": "missing/O/170716-onirim-the-door-to-the-oniverse.json"
     },
     {
       "igdb_id": 31615,
@@ -857382,6 +857592,11 @@
       "file": "missing/P/277361-paradox-guardians.json"
     },
     {
+      "igdb_id": 170678,
+      "game_name": "Paradox in the mirror",
+      "file": "missing/P/170678-paradox-in-the-mirror.json"
+    },
+    {
       "igdb_id": 330161,
       "game_name": "Paradox Lost",
       "file": "missing/P/330161-paradox-lost.json"
@@ -865700,6 +865915,11 @@
       "igdb_id": 104797,
       "game_name": "Pegasus-5: Gone Astray",
       "file": "missing/P/104797-pegasus-5-gone-astray.json"
+    },
+    {
+      "igdb_id": 170677,
+      "game_name": "Pegasus: Broken Wings",
+      "file": "missing/P/170677-pegasus-broken-wings.json"
     },
     {
       "igdb_id": 188410,
@@ -970692,6 +970912,16 @@
       "file": "missing/R/156115-ride-2015-top-bikes-pack-1.json"
     },
     {
+      "igdb_id": 170691,
+      "game_name": "Ride: 2015 Top Bikes Pack 2",
+      "file": "missing/R/170691-ride-2015-top-bikes-pack-2.json"
+    },
+    {
+      "igdb_id": 170688,
+      "game_name": "Ride: Yamaha 2015 Bike Models",
+      "file": "missing/R/170688-ride-yamaha-2015-bike-models.json"
+    },
+    {
       "igdb_id": 70904,
       "game_name": "Ridegear Guybrave",
       "file": "missing/R/70904-ridegear-guybrave.json"
@@ -1057060,6 +1057290,11 @@
       "igdb_id": 223911,
       "game_name": "Slime.io: Devour the Сity",
       "file": "missing/S/223911-slime-io-devour-the-ity.json"
+    },
+    {
+      "igdb_id": 170683,
+      "game_name": "Slime's Journey",
+      "file": "missing/S/170683-slimes-journey.json"
     },
     {
       "igdb_id": 378316,
@@ -1226382,6 +1226617,11 @@
       "file": "missing/T/164916-the-rescue-squad.json"
     },
     {
+      "igdb_id": 170684,
+      "game_name": "The Research Age Deluxe",
+      "file": "missing/T/170684-the-research-age-deluxe.json"
+    },
+    {
       "igdb_id": 90576,
       "game_name": "The Research Facility No.507",
       "file": "missing/T/90576-the-research-facility-no-507.json"
@@ -1242840,6 +1243080,11 @@
       "igdb_id": 24772,
       "game_name": "The World's Legends: Kashchey the Immortal",
       "file": "missing/T/24772-the-worlds-legends-kashchey-the-immortal.json"
+    },
+    {
+      "igdb_id": 170671,
+      "game_name": "The World's Most Impossible Game",
+      "file": "missing/T/170671-the-worlds-most-impossible-game.json"
     },
     {
       "igdb_id": 414766,
@@ -1315832,6 +1316077,11 @@
       "file": "missing/U/30617-unhappy-ever-after.json"
     },
     {
+      "igdb_id": 170692,
+      "game_name": "Unhappy Ever After: Blood Tales",
+      "file": "missing/U/170692-unhappy-ever-after-blood-tales.json"
+    },
+    {
       "igdb_id": 197106,
       "game_name": "Unhappy Hour",
       "file": "missing/U/197106-unhappy-hour.json"
@@ -1322265,6 +1322515,11 @@
       "igdb_id": 13548,
       "game_name": "Utawarerumono: Mask of Deception",
       "file": "missing/U/13548-utawarerumono-mask-of-deception.json"
+    },
+    {
+      "igdb_id": 170710,
+      "game_name": "Utawarerumono: Mask of Deception - Tamaki Samurai Ver.",
+      "file": "missing/U/170710-utawarerumono-mask-of-deception-tamaki-samurai-ver.json"
     },
     {
       "igdb_id": 212576,
@@ -1331060,6 +1331315,11 @@
       "igdb_id": 11038,
       "game_name": "Victoria II: A House Divided",
       "file": "missing/V/11038-victoria-ii-a-house-divided.json"
+    },
+    {
+      "igdb_id": 170690,
+      "game_name": "Victoria II: German Unit Pack",
+      "file": "missing/V/170690-victoria-ii-german-unit-pack.json"
     },
     {
       "igdb_id": 11039,
