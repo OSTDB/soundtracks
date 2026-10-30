@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habbo | 27522 | [27522-habbo.json](./27522-habbo.json) |
 | Habbo Hotel: Origins | 306033 | [306033-habbo-hotel-origins.json](./306033-habbo-hotel-origins.json) |
+| HaberDashers | 155907 | [155907-haberdashers.json](./155907-haberdashers.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
@@ -8074,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Book | 400289 | [400289-holy-book.json](./400289-holy-book.json) |
 | Holy Breaker! 2 The Wish in the Night of the Star Talers | 256322 | [256322-holy-breaker-2-the-wish-in-the-night-of-the-star-talers.json](./256322-holy-breaker-2-the-wish-in-the-night-of-the-star-talers.json) |
 | Holy Breaker! The Witch Betrayed Blue Moon Wicca | 256321 | [256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json](./256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json) |
+| Holy Chick! | 155827 | [155827-holy-chick.json](./155827-holy-chick.json) |
 | Holy Clash Cards | 301700 | [301700-holy-clash-cards.json](./301700-holy-clash-cards.json) |
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
 | Holy Crap Bears! | 396386 | [396386-holy-crap-bears.json](./396386-holy-crap-bears.json) |
@@ -11008,6 +11010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
+| Hyforge | 155896 | [155896-hyforge.json](./155896-hyforge.json) |
 | Hyke: Northern Light(s) | 339994 | [339994-hyke-northern-light-s.json](./339994-hyke-northern-light-s.json) |
 | Hyke: Northern Light(s) - A Witch’s Chill Time | 399417 | [399417-hyke-northern-light-s-a-witch-s-chill-time.json](./399417-hyke-northern-light-s-a-witch-s-chill-time.json) |
 | Hykee: Episode 1 - Underwater | 93787 | [93787-hykee-episode-1-underwater.json](./93787-hykee-episode-1-underwater.json) |
