@@ -8591,6 +8591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Ascension | 236459 | [236459-metal-ascension.json](./236459-metal-ascension.json) |
 | Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
+| Metal Banana | 161543 | [161543-metal-banana.json](./161543-metal-banana.json) |
 | Metal Black: Alternative | 70648 | [70648-metal-black-alternative.json](./70648-metal-black-alternative.json) |
 | Metal Black: S-Tribute | 231408 | [231408-metal-black-s-tribute.json](./231408-metal-black-s-tribute.json) |
 | Metal Brigade Tactics | 108330 | [108330-metal-brigade-tactics.json](./108330-metal-brigade-tactics.json) |
@@ -9501,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
 | Micronaut One | 53149 | [53149-micronaut-one.json](./53149-micronaut-one.json) |
 | Micronomicon: Heroes | 116919 | [116919-micronomicon-heroes.json](./116919-micronomicon-heroes.json) |
+| Microodyssey | 161528 | [161528-microodyssey.json](./161528-microodyssey.json) |
 | Micropede | 14504 | [14504-micropede.json](./14504-micropede.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
@@ -12340,6 +12342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MissPedaling Simulator | 230949 | [230949-misspedaling-simulator.json](./230949-misspedaling-simulator.json) |
 | Misspell | 364011 | [364011-misspell.json](./364011-misspell.json) |
 | Missy's Bugtastic Little Planet | 409405 | [409405-missys-bugtastic-little-planet.json](./409405-missys-bugtastic-little-planet.json) |
+| Missy's Transformation Tournament | 161518 | [161518-missys-transformation-tournament.json](./161518-missys-transformation-tournament.json) |
 | Mist | 200629 | [200629-mist.json](./200629-mist.json) |
 | Mist | 211038 | [211038-mist.json](./211038-mist.json) |
 | Mist | 343840 | [343840-mist.json](./343840-mist.json) |
