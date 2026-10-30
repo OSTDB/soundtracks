@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2870,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Tokyo | 391281 | [391281-king-of-tokyo.json](./391281-king-of-tokyo.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Vikings | 130247 | [130247-king-of-vikings.json](./130247-king-of-vikings.json) |
+| King of Volleyball | 129395 | [129395-king-of-volleyball.json](./129395-king-of-volleyball.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
 | King Out | 422141 | [422141-king-out.json](./422141-king-out.json) |
 | King Pig | 203669 | [203669-king-pig.json](./203669-king-pig.json) |
@@ -5294,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystals of Zong | 73879 | [73879-krystals-of-zong.json](./73879-krystals-of-zong.json) |
 | Krystals with A K | 224715 | [224715-krystals-with-a-k.json](./224715-krystals-with-a-k.json) |
 | Krystine and the children in chains | 101696 | [101696-krystine-and-the-children-in-chains.json](./101696-krystine-and-the-children-in-chains.json) |
+| Krystopia: Nova's Journey | 129364 | [129364-krystopia-novas-journey.json](./129364-krystopia-novas-journey.json) |
 | Kryva Hora | 403419 | [403419-kryva-hora.json](./403419-kryva-hora.json) |
 | Kryxivia | 194842 | [194842-kryxivia.json](./194842-kryxivia.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
