@@ -8083,6 +8083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Ice Mod Advanced | 394546 | [394546-black-ice-mod-advanced.json](./394546-black-ice-mod-advanced.json) |
 | Black ICE/White Noise | 341681 | [341681-black-ice-white-noise.json](./341681-black-ice-white-noise.json) |
 | Black Idea | 370880 | [370880-black-idea.json](./370880-black-idea.json) |
+| Black Ido | 149800 | [149800-black-ido.json](./149800-black-ido.json) |
 | Black Inc.: Go to Work | 320809 | [320809-black-inc-go-to-work.json](./320809-black-inc-go-to-work.json) |
 | Black Infinity | 158126 | [158126-black-infinity.json](./158126-black-infinity.json) |
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
