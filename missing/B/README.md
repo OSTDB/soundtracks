@@ -4630,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat of the Pixel Heat | 248833 | [248833-beat-of-the-pixel-heat.json](./248833-beat-of-the-pixel-heat.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
 | Beat Planet Music | 98807 | [98807-beat-planet-music.json](./98807-beat-planet-music.json) |
+| Beat Reality | 166924 | [166924-beat-reality.json](./166924-beat-reality.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
 | Beat Rhythm Fever | 350608 | [350608-beat-rhythm-fever.json](./350608-beat-rhythm-fever.json) |
 | Beat Runner | 184788 | [184788-beat-runner.json](./184788-beat-runner.json) |
@@ -13108,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave and Desire | 272782 | [272782-brave-and-desire.json](./272782-brave-and-desire.json) |
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
+| Brave Ball | 166953 | [166953-brave-ball.json](./166953-brave-ball.json) |
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
 | Brave Blade | 39494 | [39494-brave-blade.json](./39494-brave-blade.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
