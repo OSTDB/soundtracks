@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Fantasy: Chapter 1 | 60155 | [60155-sakura-fantasy-chapter-1.json](./60155-sakura-fantasy-chapter-1.json) |
 | Sakura Flamingo Archives | 250142 | [250142-sakura-flamingo-archives.json](./250142-sakura-flamingo-archives.json) |
 | Sakura Forest Girls | 146061 | [146061-sakura-forest-girls.json](./146061-sakura-forest-girls.json) |
+| Sakura Forest Girls 2 | 153039 | [153039-sakura-forest-girls-2.json](./153039-sakura-forest-girls-2.json) |
 | Sakura Forest Girls 3 | 193263 | [193263-sakura-forest-girls-3.json](./193263-sakura-forest-girls-3.json) |
 | Sakura Fox Adventure | 123910 | [123910-sakura-fox-adventure.json](./123910-sakura-fox-adventure.json) |
 | Sakura Gamer | 57032 | [57032-sakura-gamer.json](./57032-sakura-gamer.json) |
@@ -8845,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization V: Gold Edition | 50880 | [50880-sid-meiers-civilization-v-gold-edition.json](./50880-sid-meiers-civilization-v-gold-edition.json) |
 | Sid Meier's Civilization V: Scenario Pack - Wonders of the Ancient World | 164388 | [164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json](./164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json) |
 | Sid Meier's Civilization V: Scrambled Nations Map Pack | 164390 | [164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json](./164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json) |
+| Sid Meier's Civilization VI Anthology | 153047 | [153047-sid-meiers-civilization-vi-anthology.json](./153047-sid-meiers-civilization-vi-anthology.json) |
 | Sid Meier's Civilization VI: Akbar Pack | 277529 | [277529-sid-meiers-civilization-vi-akbar-pack.json](./277529-sid-meiers-civilization-vi-akbar-pack.json) |
 | Sid Meier's Civilization VI: Australia Civilization & Scenario Pack | 164401 | [164401-sid-meiers-civilization-vi-australia-civilization-and-scenario-pack.json](./164401-sid-meiers-civilization-vi-australia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
@@ -12143,6 +12145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Volley | 264001 | [264001-slime-volley.json](./264001-slime-volley.json) |
 | Slime Volleyball: One Slime | 388119 | [388119-slime-volleyball-one-slime.json](./388119-slime-volleyball-one-slime.json) |
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
+| Slime VS. Female Hero Party | 153082 | [153082-slime-vs-female-hero-party.json](./153082-slime-vs-female-hero-party.json) |
 | Slime vs. Mushroom 2 | 225581 | [225581-slime-vs-mushroom-2.json](./225581-slime-vs-mushroom-2.json) |
 | Slime wants music! | 232004 | [232004-slime-wants-music.json](./232004-slime-wants-music.json) |
 | Slime Warrior | 260758 | [260758-slime-warrior.json](./260758-slime-warrior.json) |
@@ -12548,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
 | Smackball | 169616 | [169616-smackball.json](./169616-smackball.json) |
 | Smackhead | 76529 | [76529-smackhead.json](./76529-smackhead.json) |
+| Smackit Hamster | 153036 | [153036-smackit-hamster.json](./153036-smackit-hamster.json) |
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small | 13258 | [13258-small.json](./13258-small.json) |
 | Small Aircraft | 267822 | [267822-small-aircraft.json](./267822-small-aircraft.json) |
@@ -27269,6 +27273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bora Dragon Eyes | 122024 | [122024-super-bora-dragon-eyes.json](./122024-super-bora-dragon-eyes.json) |
 | Super Boss Collection | 214420 | [214420-super-boss-collection.json](./214420-super-boss-collection.json) |
 | Super Boss Gaiden | 20333 | [20333-super-boss-gaiden.json](./20333-super-boss-gaiden.json) |
+| Super Bot | 153064 | [153064-super-bot.json](./153064-super-bot.json) |
 | Super Botte & Bamba II Turbo | 234034 | [234034-super-botte-and-bamba-ii-turbo.json](./234034-super-botte-and-bamba-ii-turbo.json) |
 | Super Boulder Dash | 26398 | [26398-super-boulder-dash.json](./26398-super-boulder-dash.json) |
 | Super Bounce Ball | 132596 | [132596-super-bounce-ball.json](./132596-super-bounce-ball.json) |
