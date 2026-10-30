@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Train | 53144 | [53144-war-train.json](./53144-war-train.json) |
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Trigger | 288466 | [288466-war-trigger.json](./288466-war-trigger.json) |
+| War Trigger 2 | 128197 | [128197-war-trigger-2.json](./128197-war-trigger-2.json) |
 | War Trigger 3 | 17353 | [17353-war-trigger-3.json](./17353-war-trigger-3.json) |
 | War Truck Simulator | 32438 | [32438-war-truck-simulator.json](./32438-war-truck-simulator.json) |
 | War Untold | 399779 | [399779-war-untold.json](./399779-war-untold.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargods Online 2 | 134318 | [134318-wargods-online-2.json](./134318-wargods-online-2.json) |
 | Wargroove + Wargroove 2 Bundle | 273304 | [273304-wargroove-wargroove-2-bundle.json](./273304-wargroove-wargroove-2-bundle.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
+| Wargroove: Double Trouble | 128191 | [128191-wargroove-double-trouble.json](./128191-wargroove-double-trouble.json) |
 | Wargroove: Double Trouble Bundle | 221778 | [221778-wargroove-double-trouble-bundle.json](./221778-wargroove-double-trouble-bundle.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
 | Wargs | 122795 | [122795-wargs.json](./122795-wargs.json) |
@@ -3215,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westland Survival: Wind Spirit | 383361 | [383361-westland-survival-wind-spirit.json](./383361-westland-survival-wind-spirit.json) |
 | Westlife: Fan-O-Mania | 91892 | [91892-westlife-fan-o-mania.json](./91892-westlife-fan-o-mania.json) |
 | Westmark Manor | 131303 | [131303-westmark-manor.json](./131303-westmark-manor.json) |
+| Westminster Darkly | 128146 | [128146-westminster-darkly.json](./128146-westminster-darkly.json) |
 | WestQuest for Playdate! | 264557 | [264557-westquest-for-playdate.json](./264557-westquest-for-playdate.json) |
 | WestSlingers | 53313 | [53313-westslingers.json](./53313-westslingers.json) |
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
