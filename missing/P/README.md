@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Ren Chan Tengoku | 42232 | [42232-pachinko-ren-chan-tengoku.json](./42232-pachinko-ren-chan-tengoku.json) |
 | Pachinko Star Wing II | 385717 | [385717-pachinko-star-wing-ii.json](./385717-pachinko-star-wing-ii.json) |
 | Pachinko Tetsujin: Shichiban Shoubu | 42231 | [42231-pachinko-tetsujin-shichiban-shoubu.json](./42231-pachinko-tetsujin-shichiban-shoubu.json) |
+| Pachinko Time | 131141 | [131141-pachinko-time.json](./131141-pachinko-time.json) |
 | Pachinko Wars | 42230 | [42230-pachinko-wars.json](./42230-pachinko-wars.json) |
 | Pachinko Wars 2 | 42229 | [42229-pachinko-wars-2.json](./42229-pachinko-wars-2.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
@@ -8661,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Terror | 393743 | [393743-platform-terror.json](./393743-platform-terror.json) |
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
 | Platform War | 270500 | [270500-platform-war.json](./270500-platform-war.json) |
+| Platform X | 131088 | [131088-platform-x.json](./131088-platform-x.json) |
 | Platformance: Castle Pain | 66389 | [66389-platformance-castle-pain.json](./66389-platformance-castle-pain.json) |
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
 | Platformer From Hell | 303213 | [303213-platformer-from-hell.json](./303213-platformer-from-hell.json) |
@@ -10494,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Rivals | 342478 | [342478-poker-rivals.json](./342478-poker-rivals.json) |
 | Poker Show VR | 29093 | [29093-poker-show-vr.json](./29093-poker-show-vr.json) |
 | Poker Smash | 21351 | [21351-poker-smash.json](./21351-poker-smash.json) |
+| Poker Solitaire | 131147 | [131147-poker-solitaire.json](./131147-poker-solitaire.json) |
 | Poker Soul | 213571 | [213571-poker-soul.json](./213571-poker-soul.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squadrons: Battle of Britain | 143917 | [143917-poker-squadrons-battle-of-britain.json](./143917-poker-squadrons-battle-of-britain.json) |
@@ -13910,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Programa do Ratinho | 163360 | [163360-programa-do-ratinho.json](./163360-programa-do-ratinho.json) |
 | PrograMaze | 346791 | [346791-programaze.json](./346791-programaze.json) |
 | Programmer Dungeon Knightress | 199566 | [199566-programmer-dungeon-knightress.json](./199566-programmer-dungeon-knightress.json) |
+| Programming | 131093 | [131093-programming.json](./131093-programming.json) |
 | Programming Factory | 295225 | [295225-programming-factory.json](./295225-programming-factory.json) |
 | Progress | 40171 | [40171-progress.json](./40171-progress.json) |
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
