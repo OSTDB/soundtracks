@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: 25th Anniversary Update | 277523 | [277523-half-life-25th-anniversary-update.json](./277523-half-life-25th-anniversary-update.json) |
 | Half-Life: Abeyance | 221789 | [221789-half-life-abeyance.json](./221789-half-life-abeyance.json) |
 | Half-Life: Absolute Zero | 168931 | [168931-half-life-absolute-zero.json](./168931-half-life-absolute-zero.json) |
+| Half-Life: Anti-Climax | 128194 | [128194-half-life-anti-climax.json](./128194-half-life-anti-climax.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: Black Guard | 221880 | [221880-half-life-black-guard.json](./221880-half-life-black-guard.json) |
 | Half-Life: Brave Brain | 221882 | [221882-half-life-brave-brain.json](./221882-half-life-brave-brain.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hax | 344172 | [344172-hax.json](./344172-hax.json) |
 | Haxball | 63583 | [63583-haxball.json](./63583-haxball.json) |
 | Häxeri | 411539 | [411539-haxeri.json](./411539-haxeri.json) |
+| Haxity | 128185 | [128185-haxity.json](./128185-haxity.json) |
 | Haxrail | 347367 | [347367-haxrail.json](./347367-haxrail.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Haxware: Enforcer Games | 258404 | [258404-haxware-enforcer-games.json](./258404-haxware-enforcer-games.json) |
@@ -4146,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
 | Hells Gate | 182683 | [182683-hells-gate.json](./182683-hells-gate.json) |
+| HellScape: Two Brothers | 128196 | [128196-hellscape-two-brothers.json](./128196-hellscape-two-brothers.json) |
 | Hellscaper | 394647 | [394647-hellscaper.json](./394647-hellscaper.json) |
 | Hellseed | 127607 | [127607-hellseed.json](./127607-hellseed.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
@@ -9690,6 +9693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Paris | 160013 | [160013-hotel-paris.json](./160013-hotel-paris.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
 | Hotel Renovation 2 | 155396 | [155396-hotel-renovation-2.json](./155396-hotel-renovation-2.json) |
+| Hotel Renovator | 128151 | [128151-hotel-renovator.json](./128151-hotel-renovator.json) |
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
 | Hotel Renovator: Five Star Edition | 250420 | [250420-hotel-renovator-five-star-edition.json](./250420-hotel-renovator-five-star-edition.json) |
 | Hotel Renovator: Futuristic Furniture Set | 250421 | [250421-hotel-renovator-futuristic-furniture-set.json](./250421-hotel-renovator-futuristic-furniture-set.json) |
@@ -11087,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrosphere | 257291 | [257291-hydrosphere.json](./257291-hydrosphere.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
+| Hyena: Dogs of War | 128172 | [128172-hyena-dogs-of-war.json](./128172-hyena-dogs-of-war.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
 | Hyforge | 155896 | [155896-hyforge.json](./155896-hyforge.json) |
 | Hyke: Northern Light(s) | 339994 | [339994-hyke-northern-light-s.json](./339994-hyke-northern-light-s.json) |
