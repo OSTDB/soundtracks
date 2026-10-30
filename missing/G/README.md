@@ -7419,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitators | 157507 | [157507-gravitators.json](./157507-gravitators.json) |
 | Gravitaws | 236886 | [236886-gravitaws.json](./236886-gravitaws.json) |
 | Gravitaze: One | 171397 | [171397-gravitaze-one.json](./171397-gravitaze-one.json) |
+| Gravitaze: Two | 167493 | [167493-gravitaze-two.json](./167493-gravitaze-two.json) |
 | Graviteam Tactics: Counter Blow | 246835 | [246835-graviteam-tactics-counter-blow.json](./246835-graviteam-tactics-counter-blow.json) |
 | Graviteam Tactics: Mius Front | 18173 | [18173-graviteam-tactics-mius-front.json](./18173-graviteam-tactics-mius-front.json) |
 | Graviteam Tactics: Mius Front - Against the Tide | 155477 | [155477-graviteam-tactics-mius-front-against-the-tide.json](./155477-graviteam-tactics-mius-front-against-the-tide.json) |
@@ -7659,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Grayton the Detective | 376661 | [376661-grayton-the-detective.json](./376661-grayton-the-detective.json) |
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
+| Graywood: Noir Detective | 167492 | [167492-graywood-noir-detective.json](./167492-graywood-noir-detective.json) |
 | Graze Counter | 44163 | [44163-graze-counter.json](./44163-graze-counter.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
 | Grazers | 307167 | [307167-grazers.json](./307167-grazers.json) |
@@ -8075,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
 | Grid Gunner | 105179 | [105179-grid-gunner.json](./105179-grid-gunner.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
+| Grid Leaper | 167502 | [167502-grid-leaper.json](./167502-grid-leaper.json) |
 | Grid Legends: Rise of Ravenwest | 226365 | [226365-grid-legends-rise-of-ravenwest.json](./226365-grid-legends-rise-of-ravenwest.json) |
 | GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
 | Grid Legends: Winter Bash | 233685 | [233685-grid-legends-winter-bash.json](./233685-grid-legends-winter-bash.json) |
