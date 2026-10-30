@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
 | Dark Crypt | 164215 | [164215-dark-crypt.json](./164215-dark-crypt.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
+| Dark Cut | 165329 | [165329-dark-cut.json](./165329-dark-cut.json) |
 | Dark Cut 2 | 382815 | [382815-dark-cut-2.json](./382815-dark-cut-2.json) |
 | Dark Daemon | 303451 | [303451-dark-daemon.json](./303451-dark-daemon.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
@@ -6637,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Beyond Light - Deluxe Edition | 139825 | [139825-destiny-2-beyond-light-deluxe-edition.json](./139825-destiny-2-beyond-light-deluxe-edition.json) |
 | Destiny 2: Beyond Light - Season of the Chosen | 144047 | [144047-destiny-2-beyond-light-season-of-the-chosen.json](./144047-destiny-2-beyond-light-season-of-the-chosen.json) |
 | Destiny 2: Beyond Light - Season of the Hunt | 140978 | [140978-destiny-2-beyond-light-season-of-the-hunt.json](./140978-destiny-2-beyond-light-season-of-the-hunt.json) |
+| Destiny 2: Beyond Light - Season of the Lost | 165316 | [165316-destiny-2-beyond-light-season-of-the-lost.json](./165316-destiny-2-beyond-light-season-of-the-lost.json) |
 | Destiny 2: Beyond Light - Season of the Splicer | 147058 | [147058-destiny-2-beyond-light-season-of-the-splicer.json](./147058-destiny-2-beyond-light-season-of-the-splicer.json) |
 | Destiny 2: Black Armory | 112408 | [112408-destiny-2-black-armory.json](./112408-destiny-2-black-armory.json) |
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
@@ -6663,6 +6665,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
 | Destiny 2: The Edge of Fate | 342776 | [342776-destiny-2-the-edge-of-fate.json](./342776-destiny-2-the-edge-of-fate.json) |
+| Destiny 2: The Witch Queen - Collector’s Edition | 165327 | [165327-destiny-2-the-witch-queen-collector-s-edition.json](./165327-destiny-2-the-witch-queen-collector-s-edition.json) |
+| Destiny 2: The Witch Queen - Deluxe Edition | 165326 | [165326-destiny-2-the-witch-queen-deluxe-edition.json](./165326-destiny-2-the-witch-queen-deluxe-edition.json) |
 | Destiny 2: The Witch Queen - Season of Plunder | 214424 | [214424-destiny-2-the-witch-queen-season-of-plunder.json](./214424-destiny-2-the-witch-queen-season-of-plunder.json) |
 | Destiny 2: The Witch Queen - Season of the Haunted | 202604 | [202604-destiny-2-the-witch-queen-season-of-the-haunted.json](./202604-destiny-2-the-witch-queen-season-of-the-haunted.json) |
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
@@ -12918,6 +12922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
 | Dragon Ball FighterZ: FighterZ Pass | 144714 | [144714-dragon-ball-fighterz-fighterz-pass.json](./144714-dragon-ball-fighterz-fighterz-pass.json) |
+| Dragon Ball FighterZ: FighterZ Pass 2 | 165337 | [165337-dragon-ball-fighterz-fighterz-pass-2.json](./165337-dragon-ball-fighterz-fighterz-pass-2.json) |
 | Dragon Ball FighterZ: FighterZ Pass 3 | 200834 | [200834-dragon-ball-fighterz-fighterz-pass-3.json](./200834-dragon-ball-fighterz-fighterz-pass-3.json) |
 | Dragon Ball FighterZ: Gogeta - SSGSS | 165891 | [165891-dragon-ball-fighterz-gogeta-ssgss.json](./165891-dragon-ball-fighterz-gogeta-ssgss.json) |
 | Dragon Ball FighterZ: Gogeta (SS4) | 165886 | [165886-dragon-ball-fighterz-gogeta-ss4.json](./165886-dragon-ball-fighterz-gogeta-ss4.json) |
@@ -14065,6 +14070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Club Zero | 6972 | [6972-dream-club-zero.json](./6972-dream-club-zero.json) |
 | Dream Coaster VR | 52258 | [52258-dream-coaster-vr.json](./52258-dream-coaster-vr.json) |
 | Dream Crafter | 317510 | [317510-dream-crafter.json](./317510-dream-crafter.json) |
+| Dream Cycle | 165345 | [165345-dream-cycle.json](./165345-dream-cycle.json) |
 | Dream Daddy: A Dad Dating Simulator | 38045 | [38045-dream-daddy-a-dad-dating-simulator.json](./38045-dream-daddy-a-dad-dating-simulator.json) |
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
