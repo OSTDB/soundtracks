@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
 | De'Vine World of Shadows | 99665 | [99665-devine-world-of-shadows.json](./99665-devine-world-of-shadows.json) |
+| De'Vine: Card Battles | 125604 | [125604-devine-card-battles.json](./125604-devine-card-battles.json) |
 | De'Vine: Heavenly Acres | 207748 | [207748-devine-heavenly-acres.json](./207748-devine-heavenly-acres.json) |
 | De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
 | De/Ascend | 422112 | [422112-de-ascend.json](./422112-de-ascend.json) |
@@ -5367,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delete | 81918 | [81918-delete.json](./81918-delete.json) |
 | Delete After Reading | 199767 | [199767-delete-after-reading.json](./199767-delete-after-reading.json) |
 | Delete Virus; | 202629 | [202629-delete-virus.json](./202629-delete-virus.json) |
+| Delete? | 125643 | [125643-delete.json](./125643-delete.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
 | Deleveled | 116227 | [116227-deleveled.json](./116227-deleveled.json) |
@@ -6029,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dendron 64 | 401493 | [401493-dendron-64.json](./401493-dendron-64.json) |
 | Deneb: Across the Stars | 211128 | [211128-deneb-across-the-stars.json](./211128-deneb-across-the-stars.json) |
 | Denev | 108465 | [108465-denev.json](./108465-denev.json) |
+| Dengeki Bunko: Crossing Void | 125611 | [125611-dengeki-bunko-crossing-void.json](./125611-dengeki-bunko-crossing-void.json) |
 | Dengeki Bunko: Fighting Climax | 11448 | [11448-dengeki-bunko-fighting-climax.json](./11448-dengeki-bunko-fighting-climax.json) |
 | Dengeki Bunko: Fighting Climax Ignition | 13550 | [13550-dengeki-bunko-fighting-climax-ignition.json](./13550-dengeki-bunko-fighting-climax-ignition.json) |
 | Dengeki Bunko: Fighting Climax Ignition - Mobile Version | 52139 | [52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json](./52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json) |
