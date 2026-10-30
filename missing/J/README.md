@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Novel: Summer Threesome | 286492 | [286492-jigsaw-novel-summer-threesome.json](./286492-jigsaw-novel-summer-threesome.json) |
 | Jigsaw Novel: The Job Promotion | 286491 | [286491-jigsaw-novel-the-job-promotion.json](./286491-jigsaw-novel-the-job-promotion.json) |
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
+| Jigsaw Pieces 2: Shades of Mood | 144535 | [144535-jigsaw-pieces-2-shades-of-mood.json](./144535-jigsaw-pieces-2-shades-of-mood.json) |
 | Jigsaw Pieces 3: Fantasy | 163009 | [163009-jigsaw-pieces-3-fantasy.json](./163009-jigsaw-pieces-3-fantasy.json) |
 | Jigsaw Pieces: Romance | 162999 | [162999-jigsaw-pieces-romance.json](./162999-jigsaw-pieces-romance.json) |
 | Jigsaw Pieces: Sweet Times | 145364 | [145364-jigsaw-pieces-sweet-times.json](./145364-jigsaw-pieces-sweet-times.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Skateboard | 322450 | [322450-just-skateboard.json](./322450-just-skateboard.json) |
 | Just Ski | 75806 | [75806-just-ski.json](./75806-just-ski.json) |
 | Just Ski and Snowboard | 88033 | [88033-just-ski-and-snowboard.json](./88033-just-ski-and-snowboard.json) |
+| Just Ski+ | 143269 | [143269-just-ski.json](./143269-just-ski.json) |
 | Just Skill Shooter | 250465 | [250465-just-skill-shooter.json](./250465-just-skill-shooter.json) |
 | Just skill shooter 2 | 285491 | [285491-just-skill-shooter-2.json](./285491-just-skill-shooter-2.json) |
 | Just Skill Shooter 3: 2D Edition | 295890 | [295890-just-skill-shooter-3-2d-edition.json](./295890-just-skill-shooter-3-2d-edition.json) |
