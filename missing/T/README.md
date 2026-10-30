@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisho x Alice: Heads & Tails! | 201613 | [201613-taisho-x-alice-heads-and-tails.json](./201613-taisho-x-alice-heads-and-tails.json) |
 | Taisho Yakyuu Musume: Otometachi no Seishun Nikki | 269515 | [269515-taisho-yakyuu-musume-otometachi-no-seishun-nikki.json](./269515-taisho-yakyuu-musume-otometachi-no-seishun-nikki.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
+| Taishogun: The Rise of Emperor | 144551 | [144551-taishogun-the-rise-of-emperor.json](./144551-taishogun-the-rise-of-emperor.json) |
 | Taishou Kitan: Kotonoha Sakura | 218956 | [218956-taishou-kitan-kotonoha-sakura.json](./218956-taishou-kitan-kotonoha-sakura.json) |
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
 | Taishou Mebiusline Portable | 256317 | [256317-taishou-mebiusline-portable.json](./256317-taishou-mebiusline-portable.json) |
@@ -1576,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamiku | 140952 | [140952-tamiku.json](./140952-tamiku.json) |
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
 | Taming Yore Dragon | 384319 | [384319-taming-yore-dragon.json](./384319-taming-yore-dragon.json) |
+| Taming.io | 144536 | [144536-taming-io.json](./144536-taming-io.json) |
 | Tamitos: Tale of Understanding | 399155 | [399155-tamitos-tale-of-understanding.json](./399155-tamitos-tale-of-understanding.json) |
 | Tamiya Racing 64 | 47737 | [47737-tamiya-racing-64.json](./47737-tamiya-racing-64.json) |
 | Tammy Jo Superstar | 101999 | [101999-tammy-jo-superstar.json](./101999-tammy-jo-superstar.json) |
@@ -6198,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Burning Owl | 405880 | [405880-the-burning-owl.json](./405880-the-burning-owl.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Burst | 253186 | [253186-the-burst.json](./253186-the-burst.json) |
+| The Bus | 143887 | [143887-the-bus.json](./143887-the-bus.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
 | The Busker | 197268 | [197268-the-busker.json](./197268-the-busker.json) |
 | The Bustling World | 286659 | [286659-the-bustling-world.json](./286659-the-bustling-world.json) |
@@ -7941,6 +7944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
 | The Enchanted Worlds 2 | 238917 | [238917-the-enchanted-worlds-2.json](./238917-the-enchanted-worlds-2.json) |
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
+| The Enclosure | 143910 | [143910-the-enclosure.json](./143910-the-enclosure.json) |
 | The Encounter | 264175 | [264175-the-encounter.json](./264175-the-encounter.json) |
 | The End | 329067 | [329067-the-end.json](./329067-the-end.json) |
 | The End | 38578 | [38578-the-end.json](./38578-the-end.json) |
@@ -12087,6 +12091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School Bus: Dino Shuffle | 230388 | [230388-the-magic-school-bus-dino-shuffle.json](./230388-the-magic-school-bus-dino-shuffle.json) |
 | The Magic School Bus: Dinosaurs | 230387 | [230387-the-magic-school-bus-dinosaurs.json](./230387-the-magic-school-bus-dinosaurs.json) |
 | The Magic School Bus: Oceans | 123459 | [123459-the-magic-school-bus-oceans.json](./123459-the-magic-school-bus-oceans.json) |
+| The Magic Storm | 143896 | [143896-the-magic-storm.json](./143896-the-magic-storm.json) |
 | The Magic World | 367609 | [367609-the-magic-world.json](./367609-the-magic-world.json) |
 | The Magic World 2: Curse of the Ancients | 289985 | [289985-the-magic-world-2-curse-of-the-ancients.json](./289985-the-magic-world-2-curse-of-the-ancients.json) |
 | The Magical Forest | 311317 | [311317-the-magical-forest.json](./311317-the-magical-forest.json) |
@@ -22043,6 +22048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial Girl's Side 2nd Kiss Typing | 108740 | [108740-tokimeki-memorial-girls-side-2nd-kiss-typing.json](./108740-tokimeki-memorial-girls-side-2nd-kiss-typing.json) |
 | Tokimeki Memorial Girl's Side 4th Heart | 117406 | [117406-tokimeki-memorial-girls-side-4th-heart.json](./117406-tokimeki-memorial-girls-side-4th-heart.json) |
 | Tokimeki Memorial Girl's Side Double Pack | 108738 | [108738-tokimeki-memorial-girls-side-double-pack.json](./108738-tokimeki-memorial-girls-side-double-pack.json) |
+| Tokimeki Memorial Girl's Side Premium 3rd Story | 144531 | [144531-tokimeki-memorial-girls-side-premium-3rd-story.json](./144531-tokimeki-memorial-girls-side-premium-3rd-story.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
 | Tokimeki Memorial Girl's Side: 1st Love | 124096 | [124096-tokimeki-memorial-girls-side-1st-love.json](./124096-tokimeki-memorial-girls-side-1st-love.json) |
 | Tokimeki Memorial Girl's Side: 1st Love Plus | 124097 | [124097-tokimeki-memorial-girls-side-1st-love-plus.json](./124097-tokimeki-memorial-girls-side-1st-love-plus.json) |
@@ -23812,6 +23818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gensou Mahjong | 117744 | [117744-touhou-gensou-mahjong.json](./117744-touhou-gensou-mahjong.json) |
 | Touhou Gensou Rambu: Yuujou, Uragiri, Shouri | 204997 | [204997-touhou-gensou-rambu-yuujou-uragiri-shouri.json](./204997-touhou-gensou-rambu-yuujou-uragiri-shouri.json) |
 | Touhou Gensoukyou: Lotus Land Story | 45964 | [45964-touhou-gensoukyou-lotus-land-story.json](./45964-touhou-gensoukyou-lotus-land-story.json) |
+| Touhou Gouyoku Ibun: Sunken Fossil World | 144533 | [144533-touhou-gouyoku-ibun-sunken-fossil-world.json](./144533-touhou-gouyoku-ibun-sunken-fossil-world.json) |
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
 | Touhou Hack and Slash | 417458 | [417458-touhou-hack-and-slash.json](./417458-touhou-hack-and-slash.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
@@ -27797,6 +27804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triggerun | 105713 | [105713-triggerun.json](./105713-triggerun.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
 | Trigodpats RPG | 387413 | [387413-trigodpats-rpg.json](./387413-trigodpats-rpg.json) |
+| Trigon: Space Story | 144562 | [144562-trigon-space-story.json](./144562-trigon-space-story.json) |
 | Trigon: Space Story - Deluxe Edition | 227186 | [227186-trigon-space-story-deluxe-edition.json](./227186-trigon-space-story-deluxe-edition.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trigonarium | 284311 | [284311-trigonarium.json](./284311-trigonarium.json) |
@@ -29078,6 +29086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Assault | 298627 | [298627-tunnel-assault.json](./298627-tunnel-assault.json) |
 | Tunnel B1 | 12900 | [12900-tunnel-b1.json](./12900-tunnel-b1.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
+| Tunnel Bird | 143979 | [143979-tunnel-bird.json](./143979-tunnel-bird.json) |
 | Tunnel Boat Terror | 258544 | [258544-tunnel-boat-terror.json](./258544-tunnel-boat-terror.json) |
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Escape | 302803 | [302803-tunnel-escape.json](./302803-tunnel-escape.json) |
