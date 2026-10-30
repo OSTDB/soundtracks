@@ -7527,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer Winning Eleven 2006 Arcade Championship | 220991 | [220991-world-soccer-winning-eleven-2006-arcade-championship.json](./220991-world-soccer-winning-eleven-2006-arcade-championship.json) |
 | World Soccer Winning Eleven 2010: Aoki Samurai no Chousen | 220958 | [220958-world-soccer-winning-eleven-2010-aoki-samurai-no-chousen.json](./220958-world-soccer-winning-eleven-2010-aoki-samurai-no-chousen.json) |
 | World Soccer Winning Eleven 2014: Aoki Samurai no Chousen | 220962 | [220962-world-soccer-winning-eleven-2014-aoki-samurai-no-chousen.json](./220962-world-soccer-winning-eleven-2014-aoki-samurai-no-chousen.json) |
+| World Soccer Winning Eleven 5: Final Evolution | 167999 | [167999-world-soccer-winning-eleven-5-final-evolution.json](./167999-world-soccer-winning-eleven-5-final-evolution.json) |
 | World Soccer Winning Eleven 9 | 220947 | [220947-world-soccer-winning-eleven-9.json](./220947-world-soccer-winning-eleven-9.json) |
 | World Soccer Winning Eleven 9: Liveware Evolution | 220949 | [220949-world-soccer-winning-eleven-9-liveware-evolution.json](./220949-world-soccer-winning-eleven-9-liveware-evolution.json) |
 | World Soccer Winning Eleven Arcade Championship 2008 | 220992 | [220992-world-soccer-winning-eleven-arcade-championship-2008.json](./220992-world-soccer-winning-eleven-arcade-championship-2008.json) |
