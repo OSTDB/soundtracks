@@ -5579,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gogte | 188523 | [188523-gogte.json](./188523-gogte.json) |
 | Gohan Quest | 96103 | [96103-gohan-quest.json](./96103-gohan-quest.json) |
 | Gohei | 406074 | [406074-gohei.json](./406074-gohei.json) |
+| Gohome | 135461 | [135461-gohome.json](./135461-gohome.json) |
 | GoHome | 259599 | [259599-gohome.json](./259599-gohome.json) |
 | GoHome_Pico | 340318 | [340318-gohome-pico.json](./340318-gohome-pico.json) |
 | Gohorobo | 90122 | [90122-gohorobo.json](./90122-gohorobo.json) |
