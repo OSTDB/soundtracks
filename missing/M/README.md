@@ -5527,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maz! | 74945 | [74945-maz.json](./74945-maz.json) |
 | Maza | 276241 | [276241-maza.json](./276241-maza.json) |
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
+| Maze | 131097 | [131097-maze.json](./131097-maze.json) |
 | Maze | 218529 | [218529-maze.json](./218529-maze.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 222605 | [222605-maze.json](./222605-maze.json) |
@@ -11826,6 +11827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
 | Minna no DS Curling | 124481 | [124481-minna-no-ds-curling.json](./124481-minna-no-ds-curling.json) |
 | Minna no Ennichi | 141691 | [141691-minna-no-ennichi.json](./141691-minna-no-ennichi.json) |
+| Minna no Golf Online | 131101 | [131101-minna-no-golf-online.json](./131101-minna-no-golf-online.json) |
 | Minna no Golf-jou Vol. 1 | 269433 | [269433-minna-no-golf-jou-vol-1.json](./269433-minna-no-golf-jou-vol-1.json) |
 | Minna no Golf-jou Vol. 2 | 269432 | [269432-minna-no-golf-jou-vol-2.json](./269432-minna-no-golf-jou-vol-2.json) |
 | Minna no Golf-jou Vol. 3 | 269434 | [269434-minna-no-golf-jou-vol-3.json](./269434-minna-no-golf-jou-vol-3.json) |
