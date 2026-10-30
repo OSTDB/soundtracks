@@ -4064,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RegicideX | 265579 | [265579-regicidex.json](./265579-regicidex.json) |
 | Regiment of Armour | 172388 | [172388-regiment-of-armour.json](./172388-regiment-of-armour.json) |
 | Regimental Chess | 35461 | [35461-regimental-chess.json](./35461-regimental-chess.json) |
+| Regiments | 151395 | [151395-regiments.json](./151395-regiments.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Regina & Mac World | 147186 | [147186-regina-and-mac-world.json](./147186-regina-and-mac-world.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
@@ -6326,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricky's Rockin' Arcade | 235436 | [235436-rickys-rockin-arcade.json](./235436-rickys-rockin-arcade.json) |
 | Rico | 43367 | [43367-rico.json](./43367-rico.json) |
 | Rico London | 143454 | [143454-rico-london.json](./143454-rico-london.json) |
+| Rico-Jump | 151403 | [151403-rico-jump.json](./151403-rico-jump.json) |
 | Rico: A Tale of Two Brothers | 125184 | [125184-rico-a-tale-of-two-brothers.json](./125184-rico-a-tale-of-two-brothers.json) |
 | Rico: Breakout | 171328 | [171328-rico-breakout.json](./171328-rico-breakout.json) |
 | Rico: Breakout Bundle | 225950 | [225950-rico-breakout-bundle.json](./225950-rico-breakout-bundle.json) |
