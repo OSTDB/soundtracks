@@ -8669,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinorage | 180581 | [180581-dinorage.json](./180581-dinorage.json) |
 | DinoRPG | 176881 | [176881-dinorpg.json](./176881-dinorpg.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
+| Dinos In Space | 135463 | [135463-dinos-in-space.json](./135463-dinos-in-space.json) |
 | Dinos Jump | 96754 | [96754-dinos-jump.json](./96754-dinos-jump.json) |
 | Dinosaur | 139327 | [139327-dinosaur.json](./139327-dinosaur.json) |
 | Dinosaur | 139988 | [139988-dinosaur.json](./139988-dinosaur.json) |
@@ -14855,6 +14856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
 | Drifting Lands | 17835 | [17835-drifting-lands.json](./17835-drifting-lands.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
+| DriftKing 2D | 135464 | [135464-driftking-2d.json](./135464-driftking-2d.json) |
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
 | Driftline Peaks | 360023 | [360023-driftline-peaks.json](./360023-driftline-peaks.json) |
 | Driftmania | 287360 | [287360-driftmania.json](./287360-driftmania.json) |
