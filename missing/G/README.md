@@ -6464,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordianaut | 200878 | [200878-gordianaut.json](./200878-gordianaut.json) |
+| Gordiho Filmové Dobrodružství | 141391 | [141391-gordiho-filmove-dobrodruzstvi.json](./141391-gordiho-filmove-dobrodruzstvi.json) |
 | Gordinho Adventure | 322675 | [322675-gordinho-adventure.json](./322675-gordinho-adventure.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
@@ -7565,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity At Its Finest 2 | 57022 | [57022-gravity-at-its-finest-2.json](./57022-gravity-at-its-finest-2.json) |
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
 | Gravity Badgers | 10376 | [10376-gravity-badgers.json](./10376-gravity-badgers.json) |
+| Gravity Balls | 141401 | [141401-gravity-balls.json](./141401-gravity-balls.json) |
 | Gravity Bandits | 213348 | [213348-gravity-bandits.json](./213348-gravity-bandits.json) |
 | Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
 | Gravity Blast | 231946 | [231946-gravity-blast.json](./231946-gravity-blast.json) |
