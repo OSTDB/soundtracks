@@ -3010,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Flipper | 325539 | [325539-kingdom-flipper.json](./325539-kingdom-flipper.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
 | Kingdom Guard | 194919 | [194919-kingdom-guard.json](./194919-kingdom-guard.json) |
+| Kingdom Gun | 142645 | [142645-kingdom-gun.json](./142645-kingdom-gun.json) |
 | Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
 | Kingdom Hearts | 393742 | [393742-kingdom-hearts.json](./393742-kingdom-hearts.json) |
 | Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage | 26676 | [26676-kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage.json](./26676-kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage.json) |
@@ -3187,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms Fall | 41489 | [41489-kingdoms-fall.json](./41489-kingdoms-fall.json) |
 | Kingdoms Forlorn | 105067 | [105067-kingdoms-forlorn.json](./105067-kingdoms-forlorn.json) |
 | Kingdoms Hegemony | 387620 | [387620-kingdoms-hegemony.json](./387620-kingdoms-hegemony.json) |
+| Kingdoms In Chaos | 142649 | [142649-kingdoms-in-chaos.json](./142649-kingdoms-in-chaos.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fatesworn | 138197 | [138197-kingdoms-of-amalur-re-reckoning-fatesworn.json](./138197-kingdoms-of-amalur-re-reckoning-fatesworn.json) |
@@ -4825,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kör Comp | 128898 | [128898-kor-comp.json](./128898-kor-comp.json) |
 | Kora: Neural Gridlock | 416569 | [416569-kora-neural-gridlock.json](./416569-kora-neural-gridlock.json) |
 | Korax' Heritage: Scattered Evil | 200968 | [200968-korax-heritage-scattered-evil.json](./200968-korax-heritage-scattered-evil.json) |
+| Kore | 142625 | [142625-kore.json](./142625-kore.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
 | Kore ga Pro Yakyuu '90 | 37686 | [37686-kore-ga-pro-yakyuu-90.json](./37686-kore-ga-pro-yakyuu-90.json) |
 | Kore VR | 244170 | [244170-kore-vr.json](./244170-kore-vr.json) |
@@ -5213,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromaia Ω | 14296 | [14296-kromaia.json](./14296-kromaia.json) |
 | Kromaia: Annvrsary X | 306795 | [306795-kromaia-annvrsary-x.json](./306795-kromaia-annvrsary-x.json) |
+| Kromasphere | 142072 | [142072-kromasphere.json](./142072-kromasphere.json) |
 | Kromaticube | 192570 | [192570-kromaticube.json](./192570-kromaticube.json) |
 | Kromazone | 83379 | [83379-kromazone.json](./83379-kromazone.json) |
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
