@@ -8439,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket in Space: Running Games | 233388 | [233388-rocket-in-space-running-games.json](./233388-rocket-in-space-running-games.json) |
 | Rocket Inc | 223426 | [223426-rocket-inc.json](./223426-rocket-inc.json) |
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
+| Rocket Jockeys | 148214 | [148214-rocket-jockeys.json](./148214-rocket-jockeys.json) |
 | Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
 | Rocket Jump | 378406 | [378406-rocket-jump.json](./378406-rocket-jump.json) |
 | Rocket Jump Frenzy | 247675 | [247675-rocket-jump-frenzy.json](./247675-rocket-jump-frenzy.json) |
@@ -10456,6 +10457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
 | RPG Quiz | 368498 | [368498-rpg-quiz.json](./368498-rpg-quiz.json) |
+| RPG Shooter: Starwish | 148178 | [148178-rpg-shooter-starwish.json](./148178-rpg-shooter-starwish.json) |
 | RPG Stories | 370445 | [370445-rpg-stories.json](./370445-rpg-stories.json) |
 | RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
 | RPG Town | 217297 | [217297-rpg-town.json](./217297-rpg-town.json) |
