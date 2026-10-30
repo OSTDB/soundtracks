@@ -3475,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Bass Fishing | 176136 | [176136-sea-bass-fishing.json](./176136-sea-bass-fishing.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
 | Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
+| Sea Battle | 171261 | [171261-sea-battle.json](./171261-sea-battle.json) |
 | Sea Battle | 413060 | [413060-sea-battle.json](./413060-sea-battle.json) |
 | Sea Battle | 5694 | [5694-sea-battle.json](./5694-sea-battle.json) |
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
@@ -4117,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Past: Dion | 110895 | [110895-secrets-of-the-past-dion.json](./110895-secrets-of-the-past-dion.json) |
 | Secrets of the Past: Mother's Diary | 187031 | [187031-secrets-of-the-past-mothers-diary.json](./187031-secrets-of-the-past-mothers-diary.json) |
+| Secrets of the Pyramids | 171237 | [171237-secrets-of-the-pyramids.json](./171237-secrets-of-the-pyramids.json) |
 | Secrets of the Room 3: The Girl Group Back to the Night | 265782 | [265782-secrets-of-the-room-3-the-girl-group-back-to-the-night.json](./265782-secrets-of-the-room-3-the-girl-group-back-to-the-night.json) |
 | Secrets of the Seas | 53585 | [53585-secrets-of-the-seas.json](./53585-secrets-of-the-seas.json) |
 | Secrets of the Shiratori Twins | 247413 | [247413-secrets-of-the-shiratori-twins.json](./247413-secrets-of-the-shiratori-twins.json) |
@@ -4898,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensorium | 138740 | [138740-sensorium.json](./138740-sensorium.json) |
 | Sensory Baby Toddler Learning Extra | 99392 | [99392-sensory-baby-toddler-learning-extra.json](./99392-sensory-baby-toddler-learning-extra.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
+| Sensory Overload | 171243 | [171243-sensory-overload.json](./171243-sensory-overload.json) |
 | Sensory Overload | 395844 | [395844-sensory-overload.json](./395844-sensory-overload.json) |
 | Sensual Adventures: Episode 5 | 155554 | [155554-sensual-adventures-episode-5.json](./155554-sensual-adventures-episode-5.json) |
 | Sensual Adventures: Episode 6 | 155553 | [155553-sensual-adventures-episode-6.json](./155553-sensual-adventures-episode-6.json) |
@@ -5876,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hunter: Lost Worlds | 188365 | [188365-shadow-hunter-lost-worlds.json](./188365-shadow-hunter-lost-worlds.json) |
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow Jump | 219603 | [219603-shadow-jump.json](./219603-shadow-jump.json) |
+| Shadow Keep | 171244 | [171244-shadow-keep.json](./171244-shadow-keep.json) |
 | Shadow King | 267329 | [267329-shadow-king.json](./267329-shadow-king.json) |
 | Shadow Kings | 344450 | [344450-shadow-kings.json](./344450-shadow-kings.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
@@ -9555,6 +9559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimFarm | 8804 | [8804-simfarm.json](./8804-simfarm.json) |
 | Simgirls | 289399 | [289399-simgirls.json](./289399-simgirls.json) |
 | SimGolf | 46438 | [46438-simgolf.json](./46438-simgolf.json) |
+| SimHarbor | 171245 | [171245-simharbor.json](./171245-simharbor.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
@@ -12044,6 +12049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Rancher 2 | 152243 | [152243-slime-rancher-2.json](./152243-slime-rancher-2.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
 | Slime Rancher: Secret Style Pack | 118666 | [118666-slime-rancher-secret-style-pack.json](./118666-slime-rancher-secret-style-pack.json) |
+| Slime Rancher: VR Playground | 171210 | [171210-slime-rancher-vr-playground.json](./171210-slime-rancher-vr-playground.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Research | 113451 | [113451-slime-research.json](./113451-slime-research.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
@@ -17005,6 +17011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Calibur | 382562 | [382562-space-calibur.json](./382562-space-calibur.json) |
+| Space Camel | 171246 | [171246-space-camel.json](./171246-space-camel.json) |
 | Space Camp | 208867 | [208867-space-camp.json](./208867-space-camp.json) |
 | Space Camp | 68734 | [68734-space-camp.json](./68734-space-camp.json) |
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
@@ -22884,6 +22891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
 | Stayhome Simulator | 368434 | [368434-stayhome-simulator.json](./368434-stayhome-simulator.json) |
+| Stayhomer | 171207 | [171207-stayhomer.json](./171207-stayhomer.json) |
 | Staying Fresh | 292364 | [292364-staying-fresh.json](./292364-staying-fresh.json) |
 | Staying Together | 129647 | [129647-staying-together.json](./129647-staying-together.json) |
 | STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
@@ -29930,6 +29938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperPosition | 318946 | [318946-superposition.json](./318946-superposition.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
+| SuperPower 3 | 171217 | [171217-superpower-3.json](./171217-superpower-3.json) |
 | Superpower Squad | 208126 | [208126-superpower-squad.json](./208126-superpower-squad.json) |
 | SuperPower: World at War | 250177 | [250177-superpower-world-at-war.json](./250177-superpower-world-at-war.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
@@ -30751,6 +30760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Thing | 198935 | [198935-swamp-thing.json](./198935-swamp-thing.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
 | Swamp Up | 291193 | [291193-swamp-up.json](./291193-swamp-up.json) |
+| Swamp Witch | 171247 | [171247-swamp-witch.json](./171247-swamp-witch.json) |
 | Swamped | 177245 | [177245-swamped.json](./177245-swamped.json) |
 | Swamped! | 309525 | [309525-swamped.json](./309525-swamped.json) |
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
