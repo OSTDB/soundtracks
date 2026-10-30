@@ -3231,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Candy | 408263 | [408263-wet-candy.json](./408263-wet-candy.json) |
 | Wet City | 347204 | [347204-wet-city.json](./347204-wet-city.json) |
 | Wet Cute Girls | 286752 | [286752-wet-cute-girls.json](./286752-wet-cute-girls.json) |
+| Wet Dog Corp | 132993 | [132993-wet-dog-corp.json](./132993-wet-dog-corp.json) |
 | Wet Dream | 273212 | [273212-wet-dream.json](./273212-wet-dream.json) |
 | Wet Dreams | 229797 | [229797-wet-dreams.json](./229797-wet-dreams.json) |
 | Wet Dreams Spa | 385813 | [385813-wet-dreams-spa.json](./385813-wet-dreams-spa.json) |
