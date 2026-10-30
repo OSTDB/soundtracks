@@ -14744,6 +14744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
 | Protect My Cheese | 219642 | [219642-protect-my-cheese.json](./219642-protect-my-cheese.json) |
 | Protect My Love | 205905 | [205905-protect-my-love.json](./205905-protect-my-love.json) |
+| Protect Sea War | 173391 | [173391-protect-sea-war.json](./173391-protect-sea-war.json) |
 | Protect the campus | 123502 | [123502-protect-the-campus.json](./123502-protect-the-campus.json) |
 | Protect the Earth | 152646 | [152646-protect-the-earth.json](./152646-protect-the-earth.json) |
 | Protect the Grimoire | 413133 | [413133-protect-the-grimoire.json](./413133-protect-the-grimoire.json) |
@@ -15813,6 +15814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Spirits | 112249 | [112249-purrfect-spirits.json](./112249-purrfect-spirits.json) |
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
 | Purrfect Survivors | 260617 | [260617-purrfect-survivors.json](./260617-purrfect-survivors.json) |
+| Purrfect Tale | 173426 | [173426-purrfect-tale.json](./173426-purrfect-tale.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrfection! The Cat Tossing Game!! | 174023 | [174023-purrfection-the-cat-tossing-game.json](./174023-purrfection-the-cat-tossing-game.json) |
 | Purrfectly Ever After | 150041 | [150041-purrfectly-ever-after.json](./150041-purrfectly-ever-after.json) |
