@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarök TD | 237209 | [237209-ragnarok-td.json](./237209-ragnarok-td.json) |
 | Ragnarok V: Returns | 188299 | [188299-ragnarok-v-returns.json](./188299-ragnarok-v-returns.json) |
 | Ragnarok Violet | 63653 | [63653-ragnarok-violet.json](./63653-ragnarok-violet.json) |
+| Ragnarok X: Next Generation | 153631 | [153631-ragnarok-x-next-generation.json](./153631-ragnarok-x-next-generation.json) |
 | Ragnarok: Back to Glory | 338348 | [338348-ragnarok-back-to-glory.json](./338348-ragnarok-back-to-glory.json) |
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Raiders Sphere 4th | 59176 | [59176-raiders-sphere-4th.json](./59176-raiders-sphere-4th.json) |
+| Raiders! Forsaken Earth | 153676 | [153676-raiders-forsaken-earth.json](./153676-raiders-forsaken-earth.json) |
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
 | RaiderZ | 20883 | [20883-raiderz.json](./20883-raiderz.json) |
