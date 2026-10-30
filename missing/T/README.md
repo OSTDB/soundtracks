@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
 | Tailor Tales: James Plus | 257551 | [257551-tailor-tales-james-plus.json](./257551-tailor-tales-james-plus.json) |
 | Tailor Tales: Neil Plus | 257536 | [257536-tailor-tales-neil-plus.json](./257536-tailor-tales-neil-plus.json) |
+| TailQuest: Defense | 140798 | [140798-tailquest-defense.json](./140798-tailquest-defense.json) |
 | Tails | 22500 | [22500-tails.json](./22500-tails.json) |
 | Tails & Titties: Hot Spring | 192696 | [192696-tails-and-titties-hot-spring.json](./192696-tails-and-titties-hot-spring.json) |
 | Tails & Trails | 415775 | [415775-tails-and-trails.json](./415775-tails-and-trails.json) |
@@ -1456,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Trails | 252784 | [252784-tall-trails.json](./252784-tall-trails.json) |
 | Tall Twins Tower | 62547 | [62547-tall-twins-tower.json](./62547-tall-twins-tower.json) |
 | Tallawa Game Nights | 415894 | [415894-tallawa-game-nights.json](./415894-tallawa-game-nights.json) |
+| Tallowmere 2: Curse of the Kittens | 139584 | [139584-tallowmere-2-curse-of-the-kittens.json](./139584-tallowmere-2-curse-of-the-kittens.json) |
 | Tally | 363154 | [363154-tally.json](./363154-tally.json) |
 | Tally Castle | 182857 | [182857-tally-castle.json](./182857-tally-castle.json) |
 | Tally Man | 412399 | [412399-tally-man.json](./412399-tally-man.json) |
@@ -3683,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
 | Tennis Elbow 2009 | 66515 | [66515-tennis-elbow-2009.json](./66515-tennis-elbow-2009.json) |
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
+| Tennis Elbow 4 | 140780 | [140780-tennis-elbow-4.json](./140780-tennis-elbow-4.json) |
 | Tennis Elbow Manager | 31291 | [31291-tennis-elbow-manager.json](./31291-tennis-elbow-manager.json) |
 | Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
@@ -5480,6 +5483,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baba Yaga | 297991 | [297991-the-baba-yaga.json](./297991-the-baba-yaga.json) |
 | The Baby is Here | 371856 | [371856-the-baby-is-here.json](./371856-the-baby-is-here.json) |
 | The Baby of Can Guru | 73697 | [73697-the-baby-of-can-guru.json](./73697-the-baby-of-can-guru.json) |
+| The Babysitter | 140803 | [140803-the-babysitter.json](./140803-the-babysitter.json) |
+| The Babysitter | 140819 | [140819-the-babysitter.json](./140819-the-babysitter.json) |
 | The Babysitter | 166037 | [166037-the-babysitter.json](./166037-the-babysitter.json) |
 | The Babysitter | 231454 | [231454-the-babysitter.json](./231454-the-babysitter.json) |
 | The Backroom Project | 201474 | [201474-the-backroom-project.json](./201474-the-backroom-project.json) |
@@ -9023,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Giraffe G | 210925 | [210925-the-giraffe-g.json](./210925-the-giraffe-g.json) |
 | The Giraffe World | 174095 | [174095-the-giraffe-world.json](./174095-the-giraffe-world.json) |
 | The Girl and the Robot | 22777 | [22777-the-girl-and-the-robot.json](./22777-the-girl-and-the-robot.json) |
+| The Girl from Arkanya | 140818 | [140818-the-girl-from-arkanya.json](./140818-the-girl-from-arkanya.json) |
 | The Girl From Gunma Kai | 344884 | [344884-the-girl-from-gunma-kai.json](./344884-the-girl-from-gunma-kai.json) |
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
 | The Girl in the Tower of Steel | 256326 | [256326-the-girl-in-the-tower-of-steel.json](./256326-the-girl-in-the-tower-of-steel.json) |
@@ -13385,6 +13391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pilgrimage I | 112899 | [112899-the-pilgrimage-i.json](./112899-the-pilgrimage-i.json) |
 | The Pillage | 75219 | [75219-the-pillage.json](./75219-the-pillage.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
+| The Pillar of Amala | 140764 | [140764-the-pillar-of-amala.json](./140764-the-pillar-of-amala.json) |
 | The Pillar: Puzzle Escape | 146579 | [146579-the-pillar-puzzle-escape.json](./146579-the-pillar-puzzle-escape.json) |
 | The Pillars of the Damned | 271340 | [271340-the-pillars-of-the-damned.json](./271340-the-pillars-of-the-damned.json) |
 | The Pinball of the Dead | 6534 | [6534-the-pinball-of-the-dead.json](./6534-the-pinball-of-the-dead.json) |
@@ -13425,6 +13432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
+| The Pizza Situation | 140783 | [140783-the-pizza-situation.json](./140783-the-pizza-situation.json) |
 | The Place I Called Home | 138479 | [138479-the-place-i-called-home.json](./138479-the-place-i-called-home.json) |
 | The Place of Jinn | 179292 | [179292-the-place-of-jinn.json](./179292-the-place-of-jinn.json) |
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
@@ -17556,6 +17564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Fun 3D! | 216077 | [216077-theme-park-fun-3d.json](./216077-theme-park-fun-3d.json) |
 | Theme Park Jam | 319302 | [319302-theme-park-jam.json](./319302-theme-park-jam.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
+| Theme Park Simulator: Collector's Edition | 140165 | [140165-theme-park-simulator-collectors-edition.json](./140165-theme-park-simulator-collectors-edition.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
 | Theme-Gawad | 275431 | [275431-theme-gawad.json](./275431-theme-gawad.json) |
 | Themely | 393788 | [393788-themely.json](./393788-themely.json) |
@@ -18581,6 +18590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
 | Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
+| Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
@@ -27630,6 +27640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triazzle Island | 64788 | [64788-triazzle-island.json](./64788-triazzle-island.json) |
 | TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal | 193166 | [193166-tribal.json](./193166-tribal.json) |
+| Tribal Hunter | 139591 | [139591-tribal-hunter.json](./139591-tribal-hunter.json) |
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Rage | 78304 | [78304-tribal-rage.json](./78304-tribal-rage.json) |
@@ -28362,6 +28373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troubleshooter: Abandoned Children - Crimson Crow | 224997 | [224997-troubleshooter-abandoned-children-crimson-crow.json](./224997-troubleshooter-abandoned-children-crimson-crow.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
 | Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
+| Troupe | 139594 | [139594-troupe.json](./139594-troupe.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
 | Trove: Arcanium Expedition Pack | 168147 | [168147-trove-arcanium-expedition-pack.json](./168147-trove-arcanium-expedition-pack.json) |
 | Trove: Botanical Blaster Pack | 168144 | [168144-trove-botanical-blaster-pack.json](./168144-trove-botanical-blaster-pack.json) |
@@ -29941,6 +29953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two of Swords | 248805 | [248805-two-of-swords.json](./248805-two-of-swords.json) |
 | Two of Us | 286777 | [286777-two-of-us.json](./286777-two-of-us.json) |
 | Two or More! | 256754 | [256754-two-or-more.json](./256754-two-or-more.json) |
+| Two Parsecs From Earth | 140786 | [140786-two-parsecs-from-earth.json](./140786-two-parsecs-from-earth.json) |
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
 | Two Pipes | 405961 | [405961-two-pipes.json](./405961-two-pipes.json) |
 | Two Pipes 2 | 406047 | [406047-two-pipes-2.json](./406047-two-pipes-2.json) |
