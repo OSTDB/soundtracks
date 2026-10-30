@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Man | 325906 | [325906-ogre-man.json](./325906-ogre-man.json) |
 | Ogre Smash | 137269 | [137269-ogre-smash.json](./137269-ogre-smash.json) |
 | Ogre Stampede | 413480 | [413480-ogre-stampede.json](./413480-ogre-stampede.json) |
+| Ogre Tale | 136628 | [136628-ogre-tale.json](./136628-ogre-tale.json) |
 | Ogre: Console Edition | 202050 | [202050-ogre-console-edition.json](./202050-ogre-console-edition.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogrez | 119605 | [119605-ogrez.json](./119605-ogrez.json) |
@@ -2130,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Line - One Touch Drawing | 101547 | [101547-one-line-one-touch-drawing.json](./101547-one-line-one-touch-drawing.json) |
 | One Line : Single Stroke Drawing | 106628 | [106628-one-line-single-stroke-drawing.json](./106628-one-line-single-stroke-drawing.json) |
 | One Line 3D | 243069 | [243069-one-line-3d.json](./243069-one-line-3d.json) |
+| One Line Coloring | 136636 | [136636-one-line-coloring.json](./136636-one-line-coloring.json) |
 | One Line: Connect the Dots | 207811 | [207811-one-line-connect-the-dots.json](./207811-one-line-connect-the-dots.json) |
 | One Line: Letters and Codes | 192789 | [192789-one-line-letters-and-codes.json](./192789-one-line-letters-and-codes.json) |
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
