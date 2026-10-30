@@ -4609,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
 | Outbreak in Space VR | 81956 | [81956-outbreak-in-space-vr.json](./81956-outbreak-in-space-vr.json) |
 | Outbreak Island | 165386 | [165386-outbreak-island.json](./165386-outbreak-island.json) |
+| Outbreak New Dawn | 137836 | [137836-outbreak-new-dawn.json](./137836-outbreak-new-dawn.json) |
 | Outbreak Survivors | 317976 | [317976-outbreak-survivors.json](./317976-outbreak-survivors.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
 | OutBreak Zombie | 84095 | [84095-outbreak-zombie.json](./84095-outbreak-zombie.json) |
