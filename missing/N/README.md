@@ -3513,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 120155 | [120155-nibiru.json](./120155-nibiru.json) |
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
+| Nibiru Voyage | 161559 | [161559-nibiru-voyage.json](./161559-nibiru-voyage.json) |
 | Nibiru: Age of Secrets | 24263 | [24263-nibiru-age-of-secrets.json](./24263-nibiru-age-of-secrets.json) |
 | Nibiruman: 2080 | 185503 | [185503-nibiruman-2080.json](./185503-nibiruman-2080.json) |
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
@@ -6126,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone: Classic | 294113 | [294113-not-alone-classic.json](./294113-not-alone-classic.json) |
 | Not Alone: Remake | 216971 | [216971-not-alone-remake.json](./216971-not-alone-remake.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
+| Not An Angels: Erotic Puzzle | 161540 | [161540-not-an-angels-erotic-puzzle.json](./161540-not-an-angels-erotic-puzzle.json) |
 | Not An NPC Game | 418297 | [418297-not-an-npc-game.json](./418297-not-an-npc-game.json) |
 | Not Another Advent Story | 210496 | [210496-not-another-advent-story.json](./210496-not-another-advent-story.json) |
 | Not Another Dungeon?! | 172921 | [172921-not-another-dungeon.json](./172921-not-another-dungeon.json) |
@@ -6960,5 +6962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyxia Survivors | 289293 | [289293-nyxia-survivors.json](./289293-nyxia-survivors.json) |
 | NyxQuest: Kindred Spirits | 10262 | [10262-nyxquest-kindred-spirits.json](./10262-nyxquest-kindred-spirits.json) |
 | NYXverse.AI | 381586 | [381586-nyxverse-ai.json](./381586-nyxverse-ai.json) |
+| Nyxx | 161534 | [161534-nyxx.json](./161534-nyxx.json) |
 | Nyyo | 210569 | [210569-nyyo.json](./210569-nyyo.json) |
 | NYZD | 291442 | [291442-nyzd.json](./291442-nyzd.json) |
