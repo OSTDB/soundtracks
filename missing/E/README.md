@@ -3262,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
+| Endless Battle: Return of Hero +1 | 169576 | [169576-endless-battle-return-of-hero-1.json](./169576-endless-battle-return-of-hero-1.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
 | Endless Becoming: Apartment | 166040 | [166040-endless-becoming-apartment.json](./166040-endless-becoming-apartment.json) |
 | Endless Blue | 171901 | [171901-endless-blue.json](./171901-endless-blue.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equaboreal 12.21 | 133903 | [133903-equaboreal-12-21.json](./133903-equaboreal-12-21.json) |
 | Equadle | 363029 | [363029-equadle.json](./363029-equadle.json) |
 | Equaland | 104251 | [104251-equaland.json](./104251-equaland.json) |
+| Equaline | 169591 | [169591-equaline.json](./169591-equaline.json) |
 | Equality | 339761 | [339761-equality.json](./339761-equality.json) |
 | Equalizer | 55498 | [55498-equalizer.json](./55498-equalizer.json) |
 | Equan the Watchful Guardian | 251997 | [251997-equan-the-watchful-guardian.json](./251997-equan-the-watchful-guardian.json) |
