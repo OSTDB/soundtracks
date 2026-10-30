@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka | 2042 | [2042-magicka.json](./2042-magicka.json) |
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
+| Magicka 2: Gates of Midgård - Challenge Pack | 168043 | [168043-magicka-2-gates-of-midgard-challenge-pack.json](./168043-magicka-2-gates-of-midgard-challenge-pack.json) |
 | Magicka 2: Special Edition | 118926 | [118926-magicka-2-special-edition.json](./118926-magicka-2-special-edition.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
 | Magicka Complete Edition | 384629 | [384629-magicka-complete-edition.json](./384629-magicka-complete-edition.json) |
@@ -9450,7 +9451,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microcivilization | 236229 | [236229-microcivilization.json](./236229-microcivilization.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
 | Microcosmum: Survival of Cells | 34896 | [34896-microcosmum-survival-of-cells.json](./34896-microcosmum-survival-of-cells.json) |
+| Microcosmum: Survival of Cells - Campaign "Aliens" | 168053 | [168053-microcosmum-survival-of-cells-campaign-aliens.json](./168053-microcosmum-survival-of-cells-campaign-aliens.json) |
+| Microcosmum: Survival of Cells - Campaign "Mutations" | 168054 | [168054-microcosmum-survival-of-cells-campaign-mutations.json](./168054-microcosmum-survival-of-cells-campaign-mutations.json) |
+| Microcosmum: Survival of Cells - Campaign "New life" | 168055 | [168055-microcosmum-survival-of-cells-campaign-new-life.json](./168055-microcosmum-survival-of-cells-campaign-new-life.json) |
 | Microcosmum: Survival of Cells - Campaign Static | 174130 | [174130-microcosmum-survival-of-cells-campaign-static.json](./174130-microcosmum-survival-of-cells-campaign-static.json) |
+| Microcosmum: Survival of Cells - Random levels | 168056 | [168056-microcosmum-survival-of-cells-random-levels.json](./168056-microcosmum-survival-of-cells-random-levels.json) |
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
 | Microdistrict | 302088 | [302088-microdistrict.json](./302088-microdistrict.json) |
 | Microdoctor | 50363 | [50363-microdoctor.json](./50363-microdoctor.json) |
