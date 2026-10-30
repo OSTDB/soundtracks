@@ -7314,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
 | Amayado Bus Stop | 133586 | [133586-amayado-bus-stop.json](./133586-amayado-bus-stop.json) |
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
+| Amayui Castle Meister | 124998 | [124998-amayui-castle-meister.json](./124998-amayui-castle-meister.json) |
 | Amayui Labyrinth Meister | 191634 | [191634-amayui-labyrinth-meister.json](./191634-amayui-labyrinth-meister.json) |
 | Amaz'd | 367747 | [367747-amazd.json](./367747-amazd.json) |
 | Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
@@ -9458,6 +9459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
 | Anno 1404: History Edition | 135738 | [135738-anno-1404-history-edition.json](./135738-anno-1404-history-edition.json) |
 | Anno 1404: Royal Edition | 52402 | [52402-anno-1404-royal-edition.json](./52402-anno-1404-royal-edition.json) |
+| Anno 1503 A.D. | 124966 | [124966-anno-1503-a-d.json](./124966-anno-1503-a-d.json) |
 | Anno 1503: History Edition | 136092 | [136092-anno-1503-history-edition.json](./136092-anno-1503-history-edition.json) |
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
 | Anno 1602 A.D. | 180271 | [180271-anno-1602-a-d.json](./180271-anno-1602-a-d.json) |
@@ -11335,6 +11337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vs. Balloon Fight | 68332 | [68332-arcade-archives-vs-balloon-fight.json](./68332-arcade-archives-vs-balloon-fight.json) |
 | Arcade Archives: Vs. Baseball | 147077 | [147077-arcade-archives-vs-baseball.json](./147077-arcade-archives-vs-baseball.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
+| Arcade Archives: VS. Castlevania | 125015 | [125015-arcade-archives-vs-castlevania.json](./125015-arcade-archives-vs-castlevania.json) |
 | Arcade Archives: vs. Family Tennis | 328093 | [328093-arcade-archives-vs-family-tennis.json](./328093-arcade-archives-vs-family-tennis.json) |
 | Arcade Archives: Vs. Mahjong | 147100 | [147100-arcade-archives-vs-mahjong.json](./147100-arcade-archives-vs-mahjong.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
@@ -12251,6 +12254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
 | Arijigoku | 417489 | [417489-arijigoku.json](./417489-arijigoku.json) |
+| Arima | 125007 | [125007-arima.json](./125007-arima.json) |
 | Arima Lodge | 326630 | [326630-arima-lodge.json](./326630-arima-lodge.json) |
 | Arimaa | 139750 | [139750-arimaa.json](./139750-arimaa.json) |
 | Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
