@@ -8317,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
 | WWE 2K17: NXT Enhancement Pack | 168351 | [168351-wwe-2k17-nxt-enhancement-pack.json](./168351-wwe-2k17-nxt-enhancement-pack.json) |
 | WWE 2K18 | 31558 | [31558-wwe-2k18.json](./31558-wwe-2k18.json) |
+| WWE 2K18: Cena (Nuff) Pack | 155335 | [155335-wwe-2k18-cena-nuff-pack.json](./155335-wwe-2k18-cena-nuff-pack.json) |
 | WWE 2K18: Cena Nuff Edition | 205845 | [205845-wwe-2k18-cena-nuff-edition.json](./205845-wwe-2k18-cena-nuff-edition.json) |
 | WWE 2K18: Deluxe Edition | 99116 | [99116-wwe-2k18-deluxe-edition.json](./99116-wwe-2k18-deluxe-edition.json) |
 | WWE 2K19 | 102805 | [102805-wwe-2k19.json](./102805-wwe-2k19.json) |
