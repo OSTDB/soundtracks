@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
 | 100 Dogs in India | 325504 | [325504-100-dogs-in-india.json](./325504-100-dogs-in-india.json) |
 | 100 Doors Escape: Let me In! | 256349 | [256349-100-doors-escape-let-me-in.json](./256349-100-doors-escape-let-me-in.json) |
+| 100 Doors Games: Escape from School | 154846 | [154846-100-doors-games-escape-from-school.json](./154846-100-doors-games-escape-from-school.json) |
 | 100 Doors Mystery Adventures | 252304 | [252304-100-doors-mystery-adventures.json](./252304-100-doors-mystery-adventures.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
 | 100 Doors of Revenge | 234190 | [234190-100-doors-of-revenge.json](./234190-100-doors-of-revenge.json) |
@@ -758,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Home Sweet Home 3 | 211386 | [211386-1001-jigsaw-home-sweet-home-3.json](./211386-1001-jigsaw-home-sweet-home-3.json) |
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
 | 1001 Jigsaw: Interior Design | 208836 | [208836-1001-jigsaw-interior-design.json](./208836-1001-jigsaw-interior-design.json) |
+| 1001 Jigsaw: Legends of Mystery 2 | 154768 | [154768-1001-jigsaw-legends-of-mystery-2.json](./154768-1001-jigsaw-legends-of-mystery-2.json) |
 | 1001 Jigsaw: Legends of Mystery 3 | 197597 | [197597-1001-jigsaw-legends-of-mystery-3.json](./197597-1001-jigsaw-legends-of-mystery-3.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
 | 1001 Jigsaw: Legends of Mystery 5 | 203857 | [203857-1001-jigsaw-legends-of-mystery-5.json](./203857-1001-jigsaw-legends-of-mystery-5.json) |
