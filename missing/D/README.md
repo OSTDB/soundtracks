@@ -6565,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Basketball 2 | 262880 | [262880-desktop-basketball-2.json](./262880-desktop-basketball-2.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
 | Desktop Bouncer | 416030 | [416030-desktop-bouncer.json](./416030-desktop-bouncer.json) |
+| Desktop Bowling | 124984 | [124984-desktop-bowling.json](./124984-desktop-bowling.json) |
 | Desktop Cat | 354935 | [354935-desktop-cat.json](./354935-desktop-cat.json) |
 | Desktop Cat Cafe | 330383 | [330383-desktop-cat-cafe.json](./330383-desktop-cat-cafe.json) |
 | Desktop Clicker | 350513 | [350513-desktop-clicker.json](./350513-desktop-clicker.json) |
@@ -6573,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Defender | 371976 | [371976-desktop-defender.json](./371976-desktop-defender.json) |
 | Desktop Detective | 411745 | [411745-desktop-detective.json](./411745-desktop-detective.json) |
 | Desktop Dinosaurs | 153216 | [153216-desktop-dinosaurs.json](./153216-desktop-dinosaurs.json) |
+| Desktop Dodgeball | 124983 | [124983-desktop-dodgeball.json](./124983-desktop-dodgeball.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Driller | 410454 | [410454-desktop-driller.json](./410454-desktop-driller.json) |
 | Desktop Dungeons: Enhanced Edition | 51752 | [51752-desktop-dungeons-enhanced-edition.json](./51752-desktop-dungeons-enhanced-edition.json) |
@@ -6604,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pinforge | 408873 | [408873-desktop-pinforge.json](./408873-desktop-pinforge.json) |
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
+| Desktop Rugby | 125016 | [125016-desktop-rugby.json](./125016-desktop-rugby.json) |
 | Desktop Snail Assassin | 408604 | [408604-desktop-snail-assassin.json](./408604-desktop-snail-assassin.json) |
 | Desktop Soccer | 112128 | [112128-desktop-soccer.json](./112128-desktop-soccer.json) |
 | Desktop Soccer 2 | 225328 | [225328-desktop-soccer-2.json](./225328-desktop-soccer-2.json) |
@@ -6982,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Deep | 175214 | [175214-detective-deep.json](./175214-detective-deep.json) |
 | Detective Di: The Silk Rose Murders | 24444 | [24444-detective-di-the-silk-rose-murders.json](./24444-detective-di-the-silk-rose-murders.json) |
 | Detective Diaries | 302499 | [302499-detective-diaries.json](./302499-detective-diaries.json) |
+| Detective Dolittle | 124985 | [124985-detective-dolittle.json](./124985-detective-dolittle.json) |
 | Detective Dotson | 258809 | [258809-detective-dotson.json](./258809-detective-dotson.json) |
 | Detective Dotson: Chapter Two | 368627 | [368627-detective-dotson-chapter-two.json](./368627-detective-dotson-chapter-two.json) |
 | Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
@@ -9924,6 +9928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity: Original Sin - Enhanced Edition | 14177 | [14177-divinity-original-sin-enhanced-edition.json](./14177-divinity-original-sin-enhanced-edition.json) |
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinity: Original Sin 2 - Divine Ascension | 144597 | [144597-divinity-original-sin-2-divine-ascension.json](./144597-divinity-original-sin-2-divine-ascension.json) |
+| Divinity: Original Sin 2 - Eternal Edition | 124977 | [124977-divinity-original-sin-2-eternal-edition.json](./124977-divinity-original-sin-2-eternal-edition.json) |
 | Divinity: Original Sin II - Definitive Edition | 103337 | [103337-divinity-original-sin-ii-definitive-edition.json](./103337-divinity-original-sin-ii-definitive-edition.json) |
 | Divinity: Original Sin II - Divine Edition | 154209 | [154209-divinity-original-sin-ii-divine-edition.json](./154209-divinity-original-sin-ii-divine-edition.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
