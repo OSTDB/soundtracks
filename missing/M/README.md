@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Lives!! | 322612 | [322612-mars-lives.json](./322612-mars-lives.json) |
 | Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
+| Mars Mission | 155836 | [155836-mars-mission.json](./155836-mars-mission.json) |
 | Mars Mission II | 59475 | [59475-mars-mission-ii.json](./59475-mars-mission-ii.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars or Die! | 104047 | [104047-mars-or-die.json](./104047-mars-or-die.json) |
@@ -13194,6 +13195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moji Bowling | 92115 | [92115-moji-bowling.json](./92115-moji-bowling.json) |
 | Moji Puzzle Kotoda Maru | 222483 | [222483-moji-puzzle-kotoda-maru.json](./222483-moji-puzzle-kotoda-maru.json) |
 | Mojib-Ribbon | 25097 | [25097-mojib-ribbon.json](./25097-mojib-ribbon.json) |
+| Mojica | 155916 | [155916-mojica.json](./155916-mojica.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojika: Truth Rears Its Ugly Head | 314804 | [314804-mojika-truth-rears-its-ugly-head.json](./314804-mojika-truth-rears-its-ugly-head.json) |
 | Mojito the Cat | 197576 | [197576-mojito-the-cat.json](./197576-mojito-the-cat.json) |
