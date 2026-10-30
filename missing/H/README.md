@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
 | Hammer World: Dimension Traveler | 110082 | [110082-hammer-world-dimension-traveler.json](./110082-hammer-world-dimension-traveler.json) |
+| Hammer_Space | 142062 | [142062-hammer-space.json](./142062-hammer-space.json) |
 | Hammerfight | 9666 | [9666-hammerfight.json](./9666-hammerfight.json) |
 | Hammerground | 190966 | [190966-hammerground.json](./190966-hammerground.json) |
 | Hammerhead | 343954 | [343954-hammerhead.json](./343954-hammerhead.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handy Caps | 73728 | [73728-handy-caps.json](./73728-handy-caps.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
 | Handy Harry's Haunted House Services | 143508 | [143508-handy-harrys-haunted-house-services.json](./143508-handy-harrys-haunted-house-services.json) |
+| Handy Harvy | 142068 | [142068-handy-harvy.json](./142068-handy-harvy.json) |
 | Handy Helper | 373108 | [373108-handy-helper.json](./373108-handy-helper.json) |
 | Handy Machines VR | 159749 | [159749-handy-machines-vr.json](./159749-handy-machines-vr.json) |
 | HandyBot | 57891 | [57891-handybot.json](./57891-handybot.json) |
@@ -5100,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic + Hexen Collection | 154327 | [154327-heretic-hexen-collection.json](./154327-heretic-hexen-collection.json) |
 | Heretic Amplified | 268775 | [268775-heretic-amplified.json](./268775-heretic-amplified.json) |
 | Heretic Gods | 86646 | [86646-heretic-gods.json](./86646-heretic-gods.json) |
+| Heretic Hunt | 142047 | [142047-heretic-hunt.json](./142047-heretic-hunt.json) |
 | Heretic II | 20752 | [20752-heretic-ii.json](./20752-heretic-ii.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
 | Heretic Operative | 113792 | [113792-heretic-operative.json](./113792-heretic-operative.json) |
@@ -6733,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
 | High on Racing | 35462 | [35462-high-on-racing.json](./35462-high-on-racing.json) |
 | High Pines | 377676 | [377676-high-pines.json](./377676-high-pines.json) |
+| High Pressure | 142061 | [142061-high-pressure.json](./142061-high-pressure.json) |
 | High Quality Funkin' | 405006 | [405006-high-quality-funkin.json](./405006-high-quality-funkin.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
@@ -7838,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Warzone Edition | 305596 | [305596-hole-io-warzone-edition.json](./305596-hole-io-warzone-edition.json) |
 | Hole Is Mine | 404881 | [404881-hole-is-mine.json](./404881-hole-is-mine.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
+| Hole Punch | 142634 | [142634-hole-punch.json](./142634-hole-punch.json) |
 | Hole Switch | 267492 | [267492-hole-switch.json](./267492-hole-switch.json) |
 | Hole Theory | 308512 | [308512-hole-theory.json](./308512-hole-theory.json) |
 | Hole War: The Abyss | 347732 | [347732-hole-war-the-abyss.json](./347732-hole-war-the-abyss.json) |
