@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screwball Scramble | 277161 | [277161-screwball-scramble.json](./277161-screwball-scramble.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Screwjumper! | 21884 | [21884-screwjumper.json](./21884-screwjumper.json) |
+| ScrewUp | 163123 | [163123-screwup.json](./163123-screwup.json) |
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
@@ -13511,6 +13512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
 | SNK 40th Anniversary Collection | 96198 | [96198-snk-40th-anniversary-collection.json](./96198-snk-40th-anniversary-collection.json) |
 | SNK Fighting Legends | 149285 | [149285-snk-fighting-legends.json](./149285-snk-fighting-legends.json) |
+| SNK Fighting Legends: Collector's Edition | 163143 | [163143-snk-fighting-legends-collectors-edition.json](./163143-snk-fighting-legends-collectors-edition.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
 | SNK Heroines: Tag Team Frenzy | 81146 | [81146-snk-heroines-tag-team-frenzy.json](./81146-snk-heroines-tag-team-frenzy.json) |
 | SNK Heroines: Tag Team Frenzy - Miss X | 405898 | [405898-snk-heroines-tag-team-frenzy-miss-x.json](./405898-snk-heroines-tag-team-frenzy-miss-x.json) |
@@ -18092,6 +18094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceplan | 28454 | [28454-spaceplan.json](./28454-spaceplan.json) |
 | SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
+| SpacePort Arcade | 163109 | [163109-spaceport-arcade.json](./163109-spaceport-arcade.json) |
 | Spaceport Architect | 419992 | [419992-spaceport-architect.json](./419992-spaceport-architect.json) |
 | Spaceport Assault | 336667 | [336667-spaceport-assault.json](./336667-spaceport-assault.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
@@ -25118,6 +25121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
 | Street's Disciple | 235414 | [235414-streets-disciple.json](./235414-streets-disciple.json) |
 | Streetball 2: On Fire | 256168 | [256168-streetball-2-on-fire.json](./256168-streetball-2-on-fire.json) |
+| Streetball Allstar | 163116 | [163116-streetball-allstar.json](./163116-streetball-allstar.json) |
 | Streetball Allstar: Showdown | 244092 | [244092-streetball-allstar-showdown.json](./244092-streetball-allstar-showdown.json) |
 | Streetball the Mecca | 244082 | [244082-streetball-the-mecca.json](./244082-streetball-the-mecca.json) |
 | Streetball VR | 36985 | [36985-streetball-vr.json](./36985-streetball-vr.json) |
