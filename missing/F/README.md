@@ -4166,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy: Blood of the Zombies | 63680 | [63680-fighting-fantasy-blood-of-the-zombies.json](./63680-fighting-fantasy-blood-of-the-zombies.json) |
 | Fighting Fantasy: House of Hell | 63678 | [63678-fighting-fantasy-house-of-hell.json](./63678-fighting-fantasy-house-of-hell.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
+| Fighting Fantasy: Starship Traveller | 175052 | [175052-fighting-fantasy-starship-traveller.json](./175052-fighting-fantasy-starship-traveller.json) |
 | Fighting Fantasy: Talisman of Death | 52211 | [52211-fighting-fantasy-talisman-of-death.json](./52211-fighting-fantasy-talisman-of-death.json) |
 | Fighting Fantasy: The Forest of Doom | 175216 | [175216-fighting-fantasy-the-forest-of-doom.json](./175216-fighting-fantasy-the-forest-of-doom.json) |
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
@@ -5086,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingers' Dating | 232971 | [232971-fingers-dating.json](./232971-fingers-dating.json) |
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
 | Fingertip Balance | 254440 | [254440-fingertip-balance.json](./254440-fingertip-balance.json) |
+| Fingertip Tennis | 175060 | [175060-fingertip-tennis.json](./175060-fingertip-tennis.json) |
 | Fingertrainer | 253279 | [253279-fingertrainer.json](./253279-fingertrainer.json) |
 | Fingerzilla | 343470 | [343470-fingerzilla.json](./343470-fingerzilla.json) |
 | Fingie Bandits | 380765 | [380765-fingie-bandits.json](./380765-fingie-bandits.json) |
