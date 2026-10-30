@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Evolution | 310024 | [310024-game-of-evolution.json](./310024-game-of-evolution.json) |
 | Game of Fate | 319669 | [319669-game-of-fate.json](./319669-game-of-fate.json) |
 | Game of Fate 2: A Century's Promise | 326290 | [326290-game-of-fate-2-a-centurys-promise.json](./326290-game-of-fate-2-a-centurys-promise.json) |
+| Game of Goats | 139020 | [139020-game-of-goats.json](./139020-game-of-goats.json) |
 | Game of Gods | 336588 | [336588-game-of-gods.json](./336588-game-of-gods.json) |
 | Game of Hearts | 348766 | [348766-game-of-hearts.json](./348766-game-of-hearts.json) |
 | Game of Hearts | 352258 | [352258-game-of-hearts.json](./352258-game-of-hearts.json) |
@@ -3162,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Some | 53083 | [53083-get-some.json](./53083-get-some.json) |
 | Get Stuffed! | 164596 | [164596-get-stuffed.json](./164596-get-stuffed.json) |
 | Get Stuffed! | 175655 | [175655-get-stuffed.json](./175655-get-stuffed.json) |
+| Get sword, kill dragon, save princess | 138978 | [138978-get-sword-kill-dragon-save-princess.json](./138978-get-sword-kill-dragon-save-princess.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
@@ -6973,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Fantasia | 47106 | [47106-grand-fantasia.json](./47106-grand-fantasia.json) |
 | Grand Fantasia: Origin | 311164 | [311164-grand-fantasia-origin.json](./311164-grand-fantasia-origin.json) |
 | Grand Fantasy Heroes | 336092 | [336092-grand-fantasy-heroes.json](./336092-grand-fantasy-heroes.json) |
+| Grand Father Island | 138397 | [138397-grand-father-island.json](./138397-grand-father-island.json) |
 | Grand Fleet | 71221 | [71221-grand-fleet.json](./71221-grand-fleet.json) |
 | Grand Foodventure | 221088 | [221088-grand-foodventure.json](./221088-grand-foodventure.json) |
 | Grand Forest | 266102 | [266102-grand-forest.json](./266102-grand-forest.json) |
