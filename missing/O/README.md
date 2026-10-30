@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis Mission: Colony Sim | 274349 | [274349-oasis-mission-colony-sim.json](./274349-oasis-mission-colony-sim.json) |
 | Oasis Obby Parkour | 378824 | [378824-oasis-obby-parkour.json](./378824-oasis-obby-parkour.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
+| Oasis Road | 138987 | [138987-oasis-road.json](./138987-oasis-road.json) |
 | Oasis Shooting Ops | 120579 | [120579-oasis-shooting-ops.json](./120579-oasis-shooting-ops.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | Oasis: Dark Forest | 189348 | [189348-oasis-dark-forest.json](./189348-oasis-dark-forest.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Legend | 100699 | [100699-ocean-legend.json](./100699-ocean-legend.json) |
 | Ocean Legend | 100792 | [100792-ocean-legend.json](./100792-ocean-legend.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
+| Ocean Lunch Antique | 138428 | [138428-ocean-lunch-antique.json](./138428-ocean-lunch-antique.json) |
 | Ocean Man | 208163 | [208163-ocean-man.json](./208163-ocean-man.json) |
 | Ocean Mirror | 280676 | [280676-ocean-mirror.json](./280676-ocean-mirror.json) |
 | Ocean Nomad | 106919 | [106919-ocean-nomad.json](./106919-ocean-nomad.json) |
@@ -4322,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oukaranman | 59408 | [59408-oukaranman.json](./59408-oukaranman.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Oukoku no Grand Chef | 137625 | [137625-oukoku-no-grand-chef.json](./137625-oukoku-no-grand-chef.json) |
+| Oukoku Shoutengai | 138427 | [138427-oukoku-shoutengai.json](./138427-oukoku-shoutengai.json) |
 | Oukyuu no Hihou: Tenshon | 241893 | [241893-oukyuu-no-hihou-tenshon.json](./241893-oukyuu-no-hihou-tenshon.json) |
 | Ouma ga Toki: Kakuriyo no Enishi | 131909 | [131909-ouma-ga-toki-kakuriyo-no-enishi.json](./131909-ouma-ga-toki-kakuriyo-no-enishi.json) |
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
