@@ -3026,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teen Titans Go! Drillionaire | 204194 | [204194-teen-titans-go-drillionaire.json](./204194-teen-titans-go-drillionaire.json) |
 | Teen Witches Academy | 207163 | [207163-teen-witches-academy.json](./207163-teen-witches-academy.json) |
+| Teenage Blob | 135438 | [135438-teenage-blob.json](./135438-teenage-blob.json) |
 | Teenage Blob: Paperperson - The First Single | 170868 | [170868-teenage-blob-paperperson-the-first-single.json](./170868-teenage-blob-paperperson-the-first-single.json) |
 | Teenage Crush Love Story Games | 255046 | [255046-teenage-crush-love-story-games.json](./255046-teenage-crush-love-story-games.json) |
 | Teenage Demon Slayer Society | 261217 | [261217-teenage-demon-slayer-society.json](./261217-teenage-demon-slayer-society.json) |
@@ -3875,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Terafall | 161170 | [161170-terafall.json](./161170-terafall.json) |
 | Teragard | 126256 | [126256-teragard.json](./126256-teragard.json) |
+| Terapets | 135448 | [135448-terapets.json](./135448-terapets.json) |
 | Terapets Wars | 135489 | [135489-terapets-wars.json](./135489-terapets-wars.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
@@ -7896,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls: Legends - Heroes of Skyrim | 37033 | [37033-the-elder-scrolls-legends-heroes-of-skyrim.json](./37033-the-elder-scrolls-legends-heroes-of-skyrim.json) |
 | The Elder Scrolls: Legends - Return to Clockwork City | 76423 | [76423-the-elder-scrolls-legends-return-to-clockwork-city.json](./76423-the-elder-scrolls-legends-return-to-clockwork-city.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
+| The Elder Trolls V: Pierim | 135462 | [135462-the-elder-trolls-v-pierim.json](./135462-the-elder-trolls-v-pierim.json) |
 | The Eldritch Ascent | 374787 | [374787-the-eldritch-ascent.json](./374787-the-eldritch-ascent.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
 | The Eldritch Zookeeper | 43074 | [43074-the-eldritch-zookeeper.json](./43074-the-eldritch-zookeeper.json) |
@@ -16739,6 +16742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wake | 194253 | [194253-the-wake.json](./194253-the-wake.json) |
 | The Wake Event | 418564 | [418564-the-wake-event.json](./418564-the-wake-event.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
+| The Wake: Mourning Father, Mourning Mother | 135439 | [135439-the-wake-mourning-father-mourning-mother.json](./135439-the-wake-mourning-father-mourning-mother.json) |
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
@@ -27528,6 +27532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
 | Tri-bo | 381124 | [381124-tri-bo.json](./381124-tri-bo.json) |
 | Tri-Element | 65573 | [65573-tri-element.json](./65573-tri-element.json) |
+| Tri-Ger | 135440 | [135440-tri-ger.json](./135440-tri-ger.json) |
 | Tri-Ger | 377580 | [377580-tri-ger.json](./377580-tri-ger.json) |
 | Tri-Heli 2 | 246310 | [246310-tri-heli-2.json](./246310-tri-heli-2.json) |
 | Tri-Peaks | 94107 | [94107-tri-peaks.json](./94107-tri-peaks.json) |
