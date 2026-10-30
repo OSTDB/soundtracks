@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamborghini | 201970 | [201970-lamborghini.json](./201970-lamborghini.json) |
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
+| Lame Defenders | 159493 | [159493-lame-defenders.json](./159493-lame-defenders.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
 | Lament of Kyoto: Origins | 223267 | [223267-lament-of-kyoto-origins.json](./223267-lament-of-kyoto-origins.json) |
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
@@ -4845,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines XL | 130042 | [130042-lines-xl.json](./130042-lines-xl.json) |
 | Lines: A Gift for Mom | 391139 | [391139-lines-a-gift-for-mom.json](./391139-lines-a-gift-for-mom.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
+| LineVox | 159489 | [159489-linevox.json](./159489-linevox.json) |
 | LineWars II | 69230 | [69230-linewars-ii.json](./69230-linewars-ii.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Lineweight | 204984 | [204984-lineweight.json](./204984-lineweight.json) |
