@@ -5065,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Up | 231291 | [231291-wind-up.json](./231291-wind-up.json) |
 | Wind Up Deadman | 407934 | [407934-wind-up-deadman.json](./407934-wind-up-deadman.json) |
 | Wind Up! | 152785 | [152785-wind-up.json](./152785-wind-up.json) |
+| Wind Wind | 149169 | [149169-wind-wind.json](./149169-wind-wind.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Wind-Up Maze HD | 232497 | [232497-wind-up-maze-hd.json](./232497-wind-up-maze-hd.json) |
 | Wind: A Breath of Heart | 161174 | [161174-wind-a-breath-of-heart.json](./161174-wind-a-breath-of-heart.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
 | Winter War | 59316 | [59316-winter-war.json](./59316-winter-war.json) |
+| Winter War 1939 | 149187 | [149187-winter-war-1939.json](./149187-winter-war-1939.json) |
 | Winter Warfare: Survival | 173960 | [173960-winter-warfare-survival.json](./173960-winter-warfare-survival.json) |
 | Winter Wastelands | 166849 | [166849-winter-wastelands.json](./166849-winter-wastelands.json) |
 | Winter Winds | 307886 | [307886-winter-winds.json](./307886-winter-winds.json) |
