@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Ball | 286077 | [286077-kill-ball.json](./286077-kill-ball.json) |
 | Kill Barney | 338037 | [338037-kill-barney.json](./338037-kill-barney.json) |
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
+| Kill Bill | 144547 | [144547-kill-bill.json](./144547-kill-bill.json) |
 | Kill Commando II | 270210 | [270210-kill-commando-ii.json](./270210-kill-commando-ii.json) |
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
@@ -2970,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
 | Kingdom Bash | 58076 | [58076-kingdom-bash.json](./58076-kingdom-bash.json) |
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
+| Kingdom Builders | 143884 | [143884-kingdom-builders.json](./143884-kingdom-builders.json) |
 | Kingdom Chess | 163691 | [163691-kingdom-chess.json](./163691-kingdom-chess.json) |
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
 | Kingdom Chronicles HD | 102651 | [102651-kingdom-chronicles-hd.json](./102651-kingdom-chronicles-hd.json) |
@@ -3235,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
 | Kings of Edom | 322642 | [322642-kings-of-edom.json](./322642-kings-of-edom.json) |
+| Kings of Glory | 143893 | [143893-kings-of-glory.json](./143893-kings-of-glory.json) |
 | Kings of Hell | 142960 | [142960-kings-of-hell.json](./142960-kings-of-hell.json) |
 | Kings of Israel | 33878 | [33878-kings-of-israel.json](./33878-kings-of-israel.json) |
 | Kings of Leon Revenge | 66041 | [66041-kings-of-leon-revenge.json](./66041-kings-of-leon-revenge.json) |
@@ -4909,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
 | Kororinpa: Marble Mania | 50610 | [50610-kororinpa-marble-mania.json](./50610-kororinpa-marble-mania.json) |
 | Koroshi no Dress | 230235 | [230235-koroshi-no-dress.json](./230235-koroshi-no-dress.json) |
+| Koroshiya to Strawberry | 144643 | [144643-koroshiya-to-strawberry.json](./144643-koroshiya-to-strawberry.json) |
 | Korosuke Roller | 40225 | [40225-korosuke-roller.json](./40225-korosuke-roller.json) |
 | Korovany | 345997 | [345997-korovany.json](./345997-korovany.json) |
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
@@ -4960,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosodate Quiz: Motto My Angel | 167092 | [167092-kosodate-quiz-motto-my-angel.json](./167092-kosodate-quiz-motto-my-angel.json) |
 | Kost | 303618 | [303618-kost.json](./303618-kost.json) |
 | Kosta Projekt | 150932 | [150932-kosta-projekt.json](./150932-kosta-projekt.json) |
+| Kosyoku Meikyu Rinbukyoku: La Role de fortune | 144630 | [144630-kosyoku-meikyu-rinbukyoku-la-role-de-fortune.json](./144630-kosyoku-meikyu-rinbukyoku-la-role-de-fortune.json) |
 | Kot-rybolov | 367945 | [367945-kot-rybolov.json](./367945-kot-rybolov.json) |
 | Kota: The Survival | 410717 | [410717-kota-the-survival.json](./410717-kota-the-survival.json) |
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
@@ -5337,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kujaku-ou 2 | 45550 | [45550-kujaku-ou-2.json](./45550-kujaku-ou-2.json) |
 | Kujaku-ou II | 48439 | [48439-kujaku-ou-ii.json](./48439-kujaku-ou-ii.json) |
 | Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
+| Kujiragami no Tearstilla | 144633 | [144633-kujiragami-no-tearstilla.json](./144633-kujiragami-no-tearstilla.json) |
 | Kujlevka | 172179 | [172179-kujlevka.json](./172179-kujlevka.json) |
 | Kukinta | 285306 | [285306-kukinta.json](./285306-kukinta.json) |
 | KukkoroDays | 136255 | [136255-kukkorodays.json](./136255-kukkorodays.json) |
@@ -5673,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
 | Kyn: Deluxe Edition | 51843 | [51843-kyn-deluxe-edition.json](./51843-kyn-deluxe-edition.json) |
 | Kyo: Gigantify | 187158 | [187158-kyo-gigantify.json](./187158-kyo-gigantify.json) |
+| Kyo's Routine | 143983 | [143983-kyos-routine.json](./143983-kyos-routine.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyodai | 93377 | [93377-kyodai.json](./93377-kyodai.json) |
 | Kyodai Mahjongg | 126457 | [126457-kyodai-mahjongg.json](./126457-kyodai-mahjongg.json) |
