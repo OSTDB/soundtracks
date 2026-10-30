@@ -6760,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chobits: Chii Dake no Hito | 65457 | [65457-chobits-chii-dake-no-hito.json](./65457-chobits-chii-dake-no-hito.json) |
 | Choc N Roll | 281995 | [281995-choc-n-roll.json](./281995-choc-n-roll.json) |
 | ChocChocPop | 66191 | [66191-chocchocpop.json](./66191-chocchocpop.json) |
+| Choco Chef | 157862 | [157862-choco-chef.json](./157862-choco-chef.json) |
 | Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
 | Choco Pixel 2 | 129452 | [129452-choco-pixel-2.json](./129452-choco-pixel-2.json) |
@@ -12086,6 +12087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
 | Conradito Cafézito | 327048 | [327048-conradito-cafezito.json](./327048-conradito-cafezito.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
+| Conrun Virtual Gym | 157829 | [157829-conrun-virtual-gym.json](./157829-conrun-virtual-gym.json) |
 | Conscience | 322058 | [322058-conscience.json](./322058-conscience.json) |
 | Conscientious Objector | 290347 | [290347-conscientious-objector.json](./290347-conscientious-objector.json) |
 | Conscious Existence - A Journey Within | 119690 | [119690-conscious-existence-a-journey-within.json](./119690-conscious-existence-a-journey-within.json) |
