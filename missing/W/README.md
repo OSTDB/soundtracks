@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
 | Warhammer 40,000: Gladius - Relics of War: Assault Pack | 153086 | [153086-warhammer-40-000-gladius-relics-of-war-assault-pack.json](./153086-warhammer-40-000-gladius-relics-of-war-assault-pack.json) |
+| Warhammer 40,000: Gladius - Relics of War: Chaos Space Marines | 124955 | [124955-warhammer-40-000-gladius-relics-of-war-chaos-space-marines.json](./124955-warhammer-40-000-gladius-relics-of-war-chaos-space-marines.json) |
 | Warhammer 40,000: Gladius - Relics of War: Craftworld Aeldari | 148965 | [148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json](./148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json) |
 | Warhammer 40,000: Gladius - Relics of War: Escalation Pack | 223542 | [223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json](./223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Firepower Pack | 250912 | [250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json](./250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json) |
@@ -1347,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
 | Warhammer 40,000: Lost Crusade | 154795 | [154795-warhammer-40-000-lost-crusade.json](./154795-warhammer-40-000-lost-crusade.json) |
+| Warhammer 40,000: Mechanicus - Omnissiah Edition | 124973 | [124973-warhammer-40-000-mechanicus-omnissiah-edition.json](./124973-warhammer-40-000-mechanicus-omnissiah-edition.json) |
 | Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
@@ -2044,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastehaven | 152719 | [152719-wastehaven.json](./152719-wastehaven.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
 | Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
+| Wasteland 2: Director's Cut - Digital Classic Edition | 124999 | [124999-wasteland-2-directors-cut-digital-classic-edition.json](./124999-wasteland-2-directors-cut-digital-classic-edition.json) |
 | Wasteland 2: Director's Cut - Digital Deluxe Edition | 53134 | [53134-wasteland-2-directors-cut-digital-deluxe-edition.json](./53134-wasteland-2-directors-cut-digital-deluxe-edition.json) |
 | Wasteland 3: Colorado Collection | 165320 | [165320-wasteland-3-colorado-collection.json](./165320-wasteland-3-colorado-collection.json) |
 | Wasteland 3: Day One Edition | 139893 | [139893-wasteland-3-day-one-edition.json](./139893-wasteland-3-day-one-edition.json) |
