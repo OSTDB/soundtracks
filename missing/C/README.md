@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campus Shock Night | 282172 | [282172-campus-shock-night.json](./282172-campus-shock-night.json) |
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
 | Camundongo Miguel na Ilha dos Novo Pogos | 298411 | [298411-camundongo-miguel-na-ilha-dos-novo-pogos.json](./298411-camundongo-miguel-na-ilha-dos-novo-pogos.json) |
+| Can A Cute Ghost Story Be Spooky? | 176645 | [176645-can-a-cute-ghost-story-be-spooky.json](./176645-can-a-cute-ghost-story-be-spooky.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
@@ -8353,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CivClicker | 207384 | [207384-civclicker.json](./207384-civclicker.json) |
 | CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
 | CivCrafter | 344954 | [344954-civcrafter.json](./344954-civcrafter.json) |
+| CivHero | 176615 | [176615-civhero.json](./176615-civhero.json) |
 | Civiballs 2 | 335475 | [335475-civiballs-2.json](./335475-civiballs-2.json) |
 | Civics Scribble | 380760 | [380760-civics-scribble.json](./380760-civics-scribble.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
