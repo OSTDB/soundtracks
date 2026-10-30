@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
 | Zodiac | 337752 | [337752-zodiac.json](./337752-zodiac.json) |
 | Zodiac | 77787 | [77787-zodiac.json](./77787-zodiac.json) |
+| Zodiac Angel | 151379 | [151379-zodiac-angel.json](./151379-zodiac-angel.json) |
 | Zodiac Axis | 66437 | [66437-zodiac-axis.json](./66437-zodiac-axis.json) |
 | Zodiac Battles | 106765 | [106765-zodiac-battles.json](./106765-zodiac-battles.json) |
 | Zodiac Cats | 233942 | [233942-zodiac-cats.json](./233942-zodiac-cats.json) |
@@ -2162,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | Zoul Dungeon | 316677 | [316677-zoul-dungeon.json](./316677-zoul-dungeon.json) |
 | Zovid-19 Remake | 195905 | [195905-zovid-19-remake.json](./195905-zovid-19-remake.json) |
+| Zoxel | 151383 | [151383-zoxel.json](./151383-zoxel.json) |
 | ZOZ: Final Hour | 204210 | [204210-zoz-final-hour.json](./204210-zoz-final-hour.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
 | Zozo's Show | 337749 | [337749-zozos-show.json](./337749-zozos-show.json) |
