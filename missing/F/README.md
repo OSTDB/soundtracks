@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
+| Falco Axe | 148761 | [148761-falco-axe.json](./148761-falco-axe.json) |
 | Falco Totem Destroyer | 311216 | [311216-falco-totem-destroyer.json](./311216-falco-totem-destroyer.json) |
 | Falco Tunes | 301843 | [301843-falco-tunes.json](./301843-falco-tunes.json) |
 | Falco Xolon | 330474 | [330474-falco-xolon.json](./330474-falco-xolon.json) |
