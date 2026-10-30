@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Queen of Samobor | 311877 | [311877-dark-queen-of-samobor.json](./311877-dark-queen-of-samobor.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Quest | 27488 | [27488-dark-quest.json](./27488-dark-quest.json) |
+| Dark Quest 1 & 2 | 154194 | [154194-dark-quest-1-and-2.json](./154194-dark-quest-1-and-2.json) |
 | Dark Quest 3 | 246295 | [246295-dark-quest-3.json](./246295-dark-quest-3.json) |
 | Dark Quest 4 | 345656 | [345656-dark-quest-4.json](./345656-dark-quest-4.json) |
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
@@ -9828,6 +9829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinity: Original Sin 2 - Divine Ascension | 144597 | [144597-divinity-original-sin-2-divine-ascension.json](./144597-divinity-original-sin-2-divine-ascension.json) |
 | Divinity: Original Sin II - Definitive Edition | 103337 | [103337-divinity-original-sin-ii-definitive-edition.json](./103337-divinity-original-sin-ii-definitive-edition.json) |
+| Divinity: Original Sin II - Divine Edition | 154209 | [154209-divinity-original-sin-ii-divine-edition.json](./154209-divinity-original-sin-ii-divine-edition.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Division | 217209 | [217209-division.json](./217209-division.json) |
