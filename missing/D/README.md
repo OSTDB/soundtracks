@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
 | DAc0da | 410665 | [410665-dac0da.json](./410665-dac0da.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
+| Dacey in the Dark: Prelude | 166952 | [166952-dacey-in-the-dark-prelude.json](./166952-dacey-in-the-dark-prelude.json) |
 | Dachinko | 25484 | [25484-dachinko.json](./25484-dachinko.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
 | Dachs Hunter | 336757 | [336757-dachs-hunter.json](./336757-dachs-hunter.json) |
@@ -583,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dampf: The Cozy Tower Defense | 275756 | [275756-dampf-the-cozy-tower-defense.json](./275756-dampf-the-cozy-tower-defense.json) |
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
 | Damsel | 58533 | [58533-damsel.json](./58533-damsel.json) |
+| Damsel: Chapter One - Stress on the Tress | 166967 | [166967-damsel-chapter-one-stress-on-the-tress.json](./166967-damsel-chapter-one-stress-on-the-tress.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
 | Damsels in Distress | 404525 | [404525-damsels-in-distress.json](./404525-damsels-in-distress.json) |
 | Damzel | 91825 | [91825-damzel.json](./91825-damzel.json) |
@@ -10000,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Fall | 36154 | [36154-do-not-fall.json](./36154-do-not-fall.json) |
 | Do Not Feed the Monkeys | 52014 | [52014-do-not-feed-the-monkeys.json](./52014-do-not-feed-the-monkeys.json) |
 | Do Not Feed the Monkeys 2099 | 199713 | [199713-do-not-feed-the-monkeys-2099.json](./199713-do-not-feed-the-monkeys-2099.json) |
+| Do Not Feed the Monkeys: Collector's Edition | 166963 | [166963-do-not-feed-the-monkeys-collectors-edition.json](./166963-do-not-feed-the-monkeys-collectors-edition.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
