@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Ski | 40712 | [40712-water-ski.json](./40712-water-ski.json) |
 | Water Sort Challenge | 340521 | [340521-water-sort-challenge.json](./340521-water-sort-challenge.json) |
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
+| Water Sort Puzzle | 175029 | [175029-water-sort-puzzle.json](./175029-water-sort-puzzle.json) |
 | Water Sports | 5262 | [5262-water-sports.json](./5262-water-sports.json) |
 | Water Star Adventure | 215770 | [215770-water-star-adventure.json](./215770-water-star-adventure.json) |
 | Water Surfer Bus | 202766 | [202766-water-surfer-bus.json](./202766-water-surfer-bus.json) |
@@ -6606,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WoozyHero | 120739 | [120739-woozyhero.json](./120739-woozyhero.json) |
 | Woozzle Reborn | 232097 | [232097-woozzle-reborn.json](./232097-woozzle-reborn.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
+| WOR: World of Riders | 175030 | [175030-wor-world-of-riders.json](./175030-wor-world-of-riders.json) |
 | Worbital | 105070 | [105070-worbital.json](./105070-worbital.json) |
 | Worcle Worlds | 84965 | [84965-worcle-worlds.json](./84965-worcle-worlds.json) |
 | Word | 369619 | [369619-word.json](./369619-word.json) |
