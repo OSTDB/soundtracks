@@ -6775,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Island | 172097 | [172097-pirate-island.json](./172097-pirate-island.json) |
 | Pirate Island | 245801 | [245801-pirate-island.json](./245801-pirate-island.json) |
 | Pirate Island | 406902 | [406902-pirate-island.json](./406902-pirate-island.json) |
+| Pirate Island Mini Golf VR | 150875 | [150875-pirate-island-mini-golf-vr.json](./150875-pirate-island-mini-golf-vr.json) |
 | Pirate Island Survival Simulator 3D | 351038 | [351038-pirate-island-survival-simulator-3d.json](./351038-pirate-island-survival-simulator-3d.json) |
 | Pirate Jam: Space DLC | 280331 | [280331-pirate-jam-space-dlc.json](./280331-pirate-jam-space-dlc.json) |
 | Pirate Jigsaw | 156095 | [156095-pirate-jigsaw.json](./156095-pirate-jigsaw.json) |
@@ -9409,6 +9410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocky & Rocky Reshrined | 144285 | [144285-pocky-and-rocky-reshrined.json](./144285-pocky-and-rocky-reshrined.json) |
 | Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
 | Poco a Poco | 177449 | [177449-poco-a-poco.json](./177449-poco-a-poco.json) |
+| Poco In Dungeon | 150892 | [150892-poco-in-dungeon.json](./150892-poco-in-dungeon.json) |
 | Poco In Dungeon: Pico In Cave | 174517 | [174517-poco-in-dungeon-pico-in-cave.json](./174517-poco-in-dungeon-pico-in-cave.json) |
 | Poco Loco | 400546 | [400546-poco-loco.json](./400546-poco-loco.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
@@ -12092,6 +12094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of the Hired | 38119 | [38119-power-of-the-hired.json](./38119-power-of-the-hired.json) |
 | Power of the Horde | 361807 | [361807-power-of-the-horde.json](./361807-power-of-the-horde.json) |
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
+| Power of Two | 150869 | [150869-power-of-two.json](./150869-power-of-two.json) |
 | Power Off | 406913 | [406913-power-off.json](./406913-power-off.json) |
 | Power Off! | 94608 | [94608-power-off.json](./94608-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
@@ -15611,6 +15614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchline!! | 130189 | [130189-punchline.json](./130189-punchline.json) |
 | PunchMan Online | 182234 | [182234-punchman-online.json](./182234-punchman-online.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
+| Punchout: Music | 150903 | [150903-punchout-music.json](./150903-punchout-music.json) |
 | Punchy | 74023 | [74023-punchy.json](./74023-punchy.json) |
 | Pune | 295991 | [295991-pune.json](./295991-pune.json) |
 | Pung.io | 228653 | [228653-pung-io.json](./228653-pung-io.json) |
