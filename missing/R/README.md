@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dot: Front Line | 227166 | [227166-red-dot-front-line.json](./227166-red-dot-front-line.json) |
 | Red Dragon Rampage | 178366 | [178366-red-dragon-rampage.json](./178366-red-dragon-rampage.json) |
 | Red Dreams | 418538 | [418538-red-dreams.json](./418538-red-dreams.json) |
+| Red Dungeon | 149806 | [149806-red-dungeon.json](./149806-red-dungeon.json) |
 | Red Dungeon | 184902 | [184902-red-dungeon.json](./184902-red-dungeon.json) |
 | Red Dusk | 356062 | [356062-red-dusk.json](./356062-red-dusk.json) |
 | Red Dust | 148674 | [148674-red-dust.json](./148674-red-dust.json) |
@@ -8497,6 +8498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Mania Deluxe | 27815 | [27815-rocket-mania-deluxe.json](./27815-rocket-mania-deluxe.json) |
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
+| Rocket Panda Panic | 149818 | [149818-rocket-panda-panic.json](./149818-rocket-panda-panic.json) |
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
 | Rocket Poker | 302396 | [302396-rocket-poker.json](./302396-rocket-poker.json) |
 | Rocket Power: Beach Bandits | 243188 | [243188-rocket-power-beach-bandits.json](./243188-rocket-power-beach-bandits.json) |
@@ -11096,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runback | 400815 | [400815-runback.json](./400815-runback.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
+| Rundom | 149817 | [149817-rundom.json](./149817-rundom.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
 | Rune Ark | 334448 | [334448-rune-ark.json](./334448-rune-ark.json) |
 | Rune Bender VR | 262803 | [262803-rune-bender-vr.json](./262803-rune-bender-vr.json) |
