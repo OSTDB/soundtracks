@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occulto | 419183 | [419183-occulto.json](./419183-occulto.json) |
 | Occultryx: Beast of Nocturne | 279790 | [279790-occultryx-beast-of-nocturne.json](./279790-occultryx-beast-of-nocturne.json) |
 | Occultus | 74512 | [74512-occultus.json](./74512-occultus.json) |
+| Occultus Command | 126802 | [126802-occultus-command.json](./126802-occultus-command.json) |
 | Occultus Vitae: Hidden Life | 330914 | [330914-occultus-vitae-hidden-life.json](./330914-occultus-vitae-hidden-life.json) |
 | Occupation 2.5 | 159111 | [159111-occupation-2-5.json](./159111-occupation-2-5.json) |
 | Occupied | 383029 | [383029-occupied.json](./383029-occupied.json) |
@@ -4852,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost4 | 389936 | [389936-outpost4.json](./389936-outpost4.json) |
 | Outposts of the Wasteland | 318869 | [318869-outposts-of-the-wasteland.json](./318869-outposts-of-the-wasteland.json) |
 | Outpour | 366406 | [366406-outpour.json](./366406-outpour.json) |
+| Output Pasture | 126799 | [126799-output-pasture.json](./126799-output-pasture.json) |
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
