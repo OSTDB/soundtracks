@@ -3384,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Isle: Platinum | 73251 | [73251-battle-isle-platinum.json](./73251-battle-isle-platinum.json) |
 | Battle Isle: The Andosia War | 9034 | [9034-battle-isle-the-andosia-war.json](./9034-battle-isle-the-andosia-war.json) |
 | Battle Isle: Threshold Run | 11103 | [11103-battle-isle-threshold-run.json](./11103-battle-isle-threshold-run.json) |
+| Battle Jacked | 140831 | [140831-battle-jacked.json](./140831-battle-jacked.json) |
 | Battle Jockey | 44425 | [44425-battle-jockey.json](./44425-battle-jockey.json) |
 | Battle Jump | 83856 | [83856-battle-jump.json](./83856-battle-jump.json) |
 | Battle Junk | 274932 | [274932-battle-junk.json](./274932-battle-junk.json) |
@@ -8690,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasfemia | 343698 | [343698-blasfemia.json](./343698-blasfemia.json) |
 | Blask | 113583 | [113583-blask.json](./113583-blask.json) |
+| Blask 2 | 139626 | [139626-blask-2.json](./139626-blask-2.json) |
 | Blasphemer | 166491 | [166491-blasphemer.json](./166491-blasphemer.json) |
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
 | Blasphemous 2: Complete Sacrament Edition | 402946 | [402946-blasphemous-2-complete-sacrament-edition.json](./402946-blasphemous-2-complete-sacrament-edition.json) |
@@ -11255,7 +11257,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Crew: American Edition | 116147 | [116147-bomber-crew-american-edition.json](./116147-bomber-crew-american-edition.json) |
 | Bomber Crew: Complete Edition | 167048 | [167048-bomber-crew-complete-edition.json](./167048-bomber-crew-complete-edition.json) |
 | Bomber Crew: Deluxe Edition | 118956 | [118956-bomber-crew-deluxe-edition.json](./118956-bomber-crew-deluxe-edition.json) |
+| Bomber Crew: Secret Weapons | 140185 | [140185-bomber-crew-secret-weapons.json](./140185-bomber-crew-secret-weapons.json) |
 | Bomber Crew: Skin Pack | 265253 | [265253-bomber-crew-skin-pack.json](./265253-bomber-crew-skin-pack.json) |
+| Bomber Crew: U.S. Army Air Forces | 140184 | [140184-bomber-crew-u-s-army-air-forces.json](./140184-bomber-crew-u-s-army-air-forces.json) |
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
@@ -12039,6 +12043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boris in the Underworld | 15684 | [15684-boris-in-the-underworld.json](./15684-boris-in-the-underworld.json) |
 | Boris the Bold | 74024 | [74024-boris-the-bold.json](./74024-boris-the-bold.json) |
 | Boris the Mutant Bear with a Gun | 104024 | [104024-boris-the-mutant-bear-with-a-gun.json](./104024-boris-the-mutant-bear-with-a-gun.json) |
+| Boris the Rocket | 139602 | [139602-boris-the-rocket.json](./139602-boris-the-rocket.json) |
 | Boris the Sloth | 192328 | [192328-boris-the-sloth.json](./192328-boris-the-sloth.json) |
 | Born 2 Run : Legend of Destiny | 118203 | [118203-born-2-run-legend-of-destiny.json](./118203-born-2-run-legend-of-destiny.json) |
 | Born Anew | 211257 | [211257-born-anew.json](./211257-born-anew.json) |
@@ -13212,6 +13217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Dwarves: Back for Treasures | 73533 | [73533-brave-dwarves-back-for-treasures.json](./73533-brave-dwarves-back-for-treasures.json) |
 | Brave Dwarves: Creeping Shadows | 388323 | [388323-brave-dwarves-creeping-shadows.json](./388323-brave-dwarves-creeping-shadows.json) |
 | Brave Earth: Prologue | 43060 | [43060-brave-earth-prologue.json](./43060-brave-earth-prologue.json) |
+| Brave Eduardo | 140821 | [140821-brave-eduardo.json](./140821-brave-eduardo.json) |
 | Brave Fantasy | 293497 | [293497-brave-fantasy.json](./293497-brave-fantasy.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
