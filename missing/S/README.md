@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
 | Sadist II: Ostatni Krzyk | 404380 | [404380-sadist-ii-ostatni-krzyk.json](./404380-sadist-ii-ostatni-krzyk.json) |
+| SaDistic BlooD | 141395 | [141395-sadistic-blood.json](./141395-sadistic-blood.json) |
 | Sadistic Medicine | 130034 | [130034-sadistic-medicine.json](./130034-sadistic-medicine.json) |
 | Sadko | 397674 | [397674-sadko.json](./397674-sadko.json) |
 | Sadlands | 284580 | [284580-sadlands.json](./284580-sadlands.json) |
@@ -11708,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | SlaveHack 2 | 125791 | [125791-slavehack-2.json](./125791-slavehack-2.json) |
 | Slaves | 220688 | [220688-slaves.json](./220688-slaves.json) |
+| Slaves of Magic | 141448 | [141448-slaves-of-magic.json](./141448-slaves-of-magic.json) |
 | Slaves to Armok: God of Blood | 60084 | [60084-slaves-to-armok-god-of-blood.json](./60084-slaves-to-armok-god-of-blood.json) |
 | Slavic Feast | 298509 | [298509-slavic-feast.json](./298509-slavic-feast.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
@@ -18046,6 +18048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Warfare | 114848 | [114848-space-warfare.json](./114848-space-warfare.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
 | Space Warlord Organ Trading Simulator | 144317 | [144317-space-warlord-organ-trading-simulator.json](./144317-space-warlord-organ-trading-simulator.json) |
+| Space Warp | 141430 | [141430-space-warp.json](./141430-space-warp.json) |
 | Space Warp | 17905 | [17905-space-warp.json](./17905-space-warp.json) |
 | Space Warrior | 146220 | [146220-space-warrior.json](./146220-space-warrior.json) |
 | Space Warrior | 310126 | [310126-space-warrior.json](./310126-space-warrior.json) |
@@ -18422,6 +18425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan | 223336 | [223336-spartan.json](./223336-spartan.json) |
 | Spartan | 66895 | [66895-spartan.json](./66895-spartan.json) |
 | Spartan Commander Realtime | 284519 | [284519-spartan-commander-realtime.json](./284519-spartan-commander-realtime.json) |
+| Spartan Firefight | 141446 | [141446-spartan-firefight.json](./141446-spartan-firefight.json) |
 | Spartan Fist | 28876 | [28876-spartan-fist.json](./28876-spartan-fist.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
@@ -19680,6 +19684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Island: Adventureland | 265792 | [265792-spirit-of-the-island-adventureland.json](./265792-spirit-of-the-island-adventureland.json) |
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
 | Spirit of the Lilies | 326687 | [326687-spirit-of-the-lilies.json](./326687-spirit-of-the-lilies.json) |
+| Spirit of the North: Enhanced Edition - Signature Edition | 141442 | [141442-spirit-of-the-north-enhanced-edition-signature-edition.json](./141442-spirit-of-the-north-enhanced-edition-signature-edition.json) |
 | Spirit of the Obelisk | 325306 | [325306-spirit-of-the-obelisk.json](./325306-spirit-of-the-obelisk.json) |
 | Spirit of the Sky | 288039 | [288039-spirit-of-the-sky.json](./288039-spirit-of-the-sky.json) |
 | Spirit of Wandering - The Legend | 87071 | [87071-spirit-of-wandering-the-legend.json](./87071-spirit-of-wandering-the-legend.json) |
@@ -20130,6 +20135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Bricks | 192582 | [192582-spooky-bricks.json](./192582-spooky-bricks.json) |
 | Spooky Bundle: From Shadow & Apocalipsis | 267773 | [267773-spooky-bundle-from-shadow-and-apocalipsis.json](./267773-spooky-bundle-from-shadow-and-apocalipsis.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
+| Spooky Castle: The Adventures Of Kid Mystic | 141439 | [141439-spooky-castle-the-adventures-of-kid-mystic.json](./141439-spooky-castle-the-adventures-of-kid-mystic.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Crew: Mask of the Mysterium | 258372 | [258372-spooky-crew-mask-of-the-mysterium.json](./258372-spooky-crew-mask-of-the-mysterium.json) |
 | Spooky Dating Sim | 374222 | [374222-spooky-dating-sim.json](./374222-spooky-dating-sim.json) |
@@ -22754,6 +22760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Simulation | 31618 | [31618-stars-simulation.json](./31618-stars-simulation.json) |
 | Stars Slide | 153160 | [153160-stars-slide.json](./153160-stars-slide.json) |
+| Stars Survivor | 141417 | [141417-stars-survivor.json](./141417-stars-survivor.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
 | Stars Troopers | 182678 | [182678-stars-troopers.json](./182678-stars-troopers.json) |
 | Stars Wheel | 175747 | [175747-stars-wheel.json](./175747-stars-wheel.json) |
@@ -24493,8 +24500,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Grand Bazaar - Digital Deluxe Edition | 342241 | [342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json](./342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json) |
 | Story of Seasons: Pioneers of Olive Town | 140500 | [140500-story-of-seasons-pioneers-of-olive-town.json](./140500-story-of-seasons-pioneers-of-olive-town.json) |
 | Story of Seasons: Pioneers of Olive Town - Buffalo Costume | 365902 | [365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json](./365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json) |
+| Story of Seasons: Pioneers of Olive Town - Deluxe Edition | 141440 | [141440-story-of-seasons-pioneers-of-olive-town-deluxe-edition.json](./141440-story-of-seasons-pioneers-of-olive-town-deluxe-edition.json) |
 | Story of Seasons: Pioneers of Olive Town - Expansion Pass | 365899 | [365899-story-of-seasons-pioneers-of-olive-town-expansion-pass.json](./365899-story-of-seasons-pioneers-of-olive-town-expansion-pass.json) |
 | Story of Seasons: Pioneers of Olive Town - Panda Costume | 366267 | [366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json](./366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json) |
+| Story of Seasons: Pioneers of Olive Town - Premium Edition | 141441 | [141441-story-of-seasons-pioneers-of-olive-town-premium-edition.json](./141441-story-of-seasons-pioneers-of-olive-town-premium-edition.json) |
 | Story of Seasons: Pioneers of Olive Town Special | 197607 | [197607-story-of-seasons-pioneers-of-olive-town-special.json](./197607-story-of-seasons-pioneers-of-olive-town-special.json) |
 | Story of Seasons: Project Experiences | 250920 | [250920-story-of-seasons-project-experiences.json](./250920-story-of-seasons-project-experiences.json) |
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
@@ -30240,6 +30249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar Dance Club | 35028 | [35028-superstar-dance-club.json](./35028-superstar-dance-club.json) |
 | Superstar DJ | 232353 | [232353-superstar-dj.json](./232353-superstar-dj.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
+| SuperStar FNC | 141437 | [141437-superstar-fnc.json](./141437-superstar-fnc.json) |
 | SuperStar GFriend | 137886 | [137886-superstar-gfriend.json](./137886-superstar-gfriend.json) |
 | Superstar Hero | 118775 | [118775-superstar-hero.json](./118775-superstar-hero.json) |
 | Superstar Hockey: Pass & Score | 227379 | [227379-superstar-hockey-pass-and-score.json](./227379-superstar-hockey-pass-and-score.json) |
