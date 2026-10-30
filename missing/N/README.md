@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
 | NHL 21: Deluxe Edition | 140900 | [140900-nhl-21-deluxe-edition.json](./140900-nhl-21-deluxe-edition.json) |
 | NHL 21: Great Eight Edition | 140901 | [140901-nhl-21-great-eight-edition.json](./140901-nhl-21-great-eight-edition.json) |
+| NHL 21: Ultimate Edition | 166971 | [166971-nhl-21-ultimate-edition.json](./166971-nhl-21-ultimate-edition.json) |
 | NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
 | NHL 22: X-Factor Edition | 172557 | [172557-nhl-22-x-factor-edition.json](./172557-nhl-22-x-factor-edition.json) |
 | NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
@@ -3526,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
 | Nice Slice | 29541 | [29541-nice-slice.json](./29541-nice-slice.json) |
+| Nice Spice | 166948 | [166948-nice-spice.json](./166948-nice-spice.json) |
 | Nice to NO you | 139240 | [139240-nice-to-no-you.json](./139240-nice-to-no-you.json) |
 | Nice To Yeet You | 309761 | [309761-nice-to-yeet-you.json](./309761-nice-to-yeet-you.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
