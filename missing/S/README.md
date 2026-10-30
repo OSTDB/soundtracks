@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe Zone | 342744 | [342744-safe-zone.json](./342744-safe-zone.json) |
 | Safe Zone | 412608 | [412608-safe-zone.json](./412608-safe-zone.json) |
 | Safebreaker | 296373 | [296373-safebreaker.json](./296373-safebreaker.json) |
+| Safebuster | 145223 | [145223-safebuster.json](./145223-safebuster.json) |
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Safecracker: The Ultimate Puzzle Adventure | 5135 | [5135-safecracker-the-ultimate-puzzle-adventure.json](./5135-safecracker-the-ultimate-puzzle-adventure.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satoru Gojo Backshot Simulator | 320904 | [320904-satoru-gojo-backshot-simulator.json](./320904-satoru-gojo-backshot-simulator.json) |
 | Satoyama Note: Natsukusa Komichi | 277505 | [277505-satoyama-note-natsukusa-komichi.json](./277505-satoyama-note-natsukusa-komichi.json) |
 | Satoyama Note: Spring Walk | 330660 | [330660-satoyama-note-spring-walk.json](./330660-satoyama-note-spring-walk.json) |
+| Satryn | 145304 | [145304-satryn.json](./145304-satryn.json) |
 | Satryn Deluxe | 186106 | [186106-satryn-deluxe.json](./186106-satryn-deluxe.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Satsuki-iro no Sora ni | 412795 | [412795-satsuki-iro-no-sora-ni.json](./412795-satsuki-iro-no-sora-ni.json) |
@@ -9197,6 +9199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siheyuan | 244325 | [244325-siheyuan.json](./244325-siheyuan.json) |
 | SiideQuest | 253529 | [253529-siidequest.json](./253529-siidequest.json) |
 | Siienaa | 195575 | [195575-siienaa.json](./195575-siienaa.json) |
+| Siimi | 145194 | [145194-siimi.json](./145194-siimi.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | SIK Space Invader Kreature | 174034 | [174034-sik-space-invader-kreature.json](./174034-sik-space-invader-kreature.json) |
 | Sika: Tribe's salvation | 184985 | [184985-sika-tribes-salvation.json](./184985-sika-tribes-salvation.json) |
@@ -13638,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
+| Snoopy | 145235 | [145235-snoopy.json](./145235-snoopy.json) |
 | Snoopy | 410060 | [410060-snoopy.json](./410060-snoopy.json) |
 | Snoopy & The Great Mystery Club | 360904 | [360904-snoopy-and-the-great-mystery-club.json](./360904-snoopy-and-the-great-mystery-club.json) |
 | Snoopy & The Great Mystery Club: Deluxe Edition | 368775 | [368775-snoopy-and-the-great-mystery-club-deluxe-edition.json](./368775-snoopy-and-the-great-mystery-club-deluxe-edition.json) |
@@ -13648,6 +13652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy Flying Ace | 21887 | [21887-snoopy-flying-ace.json](./21887-snoopy-flying-ace.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy Pop | 87016 | [87016-snoopy-pop.json](./87016-snoopy-pop.json) |
+| Snoopy Tennis | 145169 | [145169-snoopy-tennis.json](./145169-snoopy-tennis.json) |
 | Snoopy Tennis | 363311 | [363311-snoopy-tennis.json](./363311-snoopy-tennis.json) |
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
 | Snoopy vs. The Red Baron | 2756 | [2756-snoopy-vs-the-red-baron.json](./2756-snoopy-vs-the-red-baron.json) |
@@ -15276,6 +15281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2 Westside Plus | 361569 | [361569-sonic-2-westside-plus.json](./361569-sonic-2-westside-plus.json) |
 | Sonic 2 XL | 45755 | [45755-sonic-2-xl.json](./45755-sonic-2-xl.json) |
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
+| Sonic 2: Community's Cut | 145205 | [145205-sonic-2-communitys-cut.json](./145205-sonic-2-communitys-cut.json) |
 | Sonic 2: Westside Renovation | 361653 | [361653-sonic-2-westside-renovation.json](./361653-sonic-2-westside-renovation.json) |
 | Sonic 2.5 | 333711 | [333711-sonic-2-5.json](./333711-sonic-2-5.json) |
 | Sonic 2006 | 310952 | [310952-sonic-2006.json](./310952-sonic-2006.json) |
@@ -20691,6 +20697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | Squad Game | 242956 | [242956-squad-game.json](./242956-squad-game.json) |
+| Squad Killer | 145190 | [145190-squad-killer.json](./145190-squad-killer.json) |
 | Squad Legends: Battle Royale | 417281 | [417281-squad-legends-battle-royale.json](./417281-squad-legends-battle-royale.json) |
 | Squad Strike 4 | 175013 | [175013-squad-strike-4.json](./175013-squad-strike-4.json) |
 | Squad Tactics | 244415 | [244415-squad-tactics.json](./244415-squad-tactics.json) |
@@ -20935,6 +20942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | SquirrelTower | 422648 | [422648-squirreltower.json](./422648-squirreltower.json) |
 | SquirrelWarz | 259694 | [259694-squirrelwarz.json](./259694-squirrelwarz.json) |
+| Squish | 145221 | [145221-squish.json](./145221-squish.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
 | Squish and the Corrupted Crystal | 47996 | [47996-squish-and-the-corrupted-crystal.json](./47996-squish-and-the-corrupted-crystal.json) |
@@ -23891,6 +23899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
 | Stickman Browser | 296404 | [296404-stickman-browser.json](./296404-stickman-browser.json) |
+| Stickman Clans | 145200 | [145200-stickman-clans.json](./145200-stickman-clans.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
 | Stickman Destruction 2 | 81677 | [81677-stickman-destruction-2.json](./81677-stickman-destruction-2.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
@@ -26480,6 +26489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Guy | 51467 | [51467-suicide-guy.json](./51467-suicide-guy.json) |
 | Suicide Guy Bundle | 376242 | [376242-suicide-guy-bundle.json](./376242-suicide-guy-bundle.json) |
 | Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
+| Suicide Guy VR | 145229 | [145229-suicide-guy-vr.json](./145229-suicide-guy-vr.json) |
 | Suicide Guy VR: Deluxe | 276408 | [276408-suicide-guy-vr-deluxe.json](./276408-suicide-guy-vr-deluxe.json) |
 | Suicide Guy: Deluxe Edition | 153229 | [153229-suicide-guy-deluxe-edition.json](./153229-suicide-guy-deluxe-edition.json) |
 | Suicide Guy: Deluxe Plus | 200978 | [200978-suicide-guy-deluxe-plus.json](./200978-suicide-guy-deluxe-plus.json) |
@@ -28355,6 +28365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: The Hunt for the Magical Key | 268365 | [268365-super-mario-bros-the-hunt-for-the-magical-key.json](./268365-super-mario-bros-the-hunt-for-the-magical-key.json) |
 | Super Mario Bros: Unofficial PC Port | 340337 | [340337-super-mario-bros-unofficial-pc-port.json](./340337-super-mario-bros-unofficial-pc-port.json) |
 | Super Mario Bros: Ztar Turmoil | 320226 | [320226-super-mario-bros-ztar-turmoil.json](./320226-super-mario-bros-ztar-turmoil.json) |
+| Super Mario Bros. | 145179 | [145179-super-mario-bros.json](./145179-super-mario-bros.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
 | Super Mario Bros. | 222095 | [222095-super-mario-bros.json](./222095-super-mario-bros.json) |
 | Super Mario Bros. / Duck Hunt / World Class Track Meet | 77227 | [77227-super-mario-bros-duck-hunt-world-class-track-meet.json](./77227-super-mario-bros-duck-hunt-world-class-track-meet.json) |
@@ -30841,6 +30852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
+| Sushi Supply Co. | 145308 | [145308-sushi-supply-co.json](./145308-sushi-supply-co.json) |
 | Sushi Surf: Endless Run Fun | 196592 | [196592-sushi-surf-endless-run-fun.json](./196592-sushi-surf-endless-run-fun.json) |
 | Sushi Time | 10426 | [10426-sushi-time.json](./10426-sushi-time.json) |
 | Sushi Time!: Complete Edition | 199840 | [199840-sushi-time-complete-edition.json](./199840-sushi-time-complete-edition.json) |
