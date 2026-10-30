@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Toppletown | 180453 | [180453-tales-from-toppletown.json](./180453-tales-from-toppletown.json) |
 | Tales From Toyotoki: Arrival of the Witch | 206553 | [206553-tales-from-toyotoki-arrival-of-the-witch.json](./206553-tales-from-toyotoki-arrival-of-the-witch.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
+| Tales From Yeoldeburg | 158360 | [158360-tales-from-yeoldeburg.json](./158360-tales-from-yeoldeburg.json) |
 | Tales from Zilmurik | 157450 | [157450-tales-from-zilmurik.json](./157450-tales-from-zilmurik.json) |
 | Tales In Text: Multiplayer Immersive Adventures | 388281 | [388281-tales-in-text-multiplayer-immersive-adventures.json](./388281-tales-in-text-multiplayer-immersive-adventures.json) |
 | Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
@@ -4942,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
 | The Adventures of Bleeposaurus | 392327 | [392327-the-adventures-of-bleeposaurus.json](./392327-the-adventures-of-bleeposaurus.json) |
 | The Adventures of Bleeposaurus: Dragonfire | 392329 | [392329-the-adventures-of-bleeposaurus-dragonfire.json](./392329-the-adventures-of-bleeposaurus-dragonfire.json) |
+| The Adventures of Bluke Bifton: Chapter 1 | 158380 | [158380-the-adventures-of-bluke-bifton-chapter-1.json](./158380-the-adventures-of-bluke-bifton-chapter-1.json) |
 | The Adventures of Bond... Basildon Bond | 41149 | [41149-the-adventures-of-bond-basildon-bond.json](./41149-the-adventures-of-bond-basildon-bond.json) |
 | The Adventures of Boney Joe | 182675 | [182675-the-adventures-of-boney-joe.json](./182675-the-adventures-of-boney-joe.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
@@ -8292,6 +8294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fang | 156068 | [156068-the-fang.json](./156068-the-fang.json) |
 | The Fangs Huntress | 148462 | [148462-the-fangs-huntress.json](./148462-the-fangs-huntress.json) |
 | The Fantaballous Tilt | 194320 | [194320-the-fantaballous-tilt.json](./194320-the-fantaballous-tilt.json) |
+| The Fantastic Adventure of Monsieur Grape | 158351 | [158351-the-fantastic-adventure-of-monsieur-grape.json](./158351-the-fantastic-adventure-of-monsieur-grape.json) |
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Fivesome | 303015 | [303015-the-fantastic-fivesome.json](./303015-the-fantastic-fivesome.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
@@ -14293,6 +14296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search for a Colour Palette | 226592 | [226592-the-search-for-a-colour-palette.json](./226592-the-search-for-a-colour-palette.json) |
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
 | The Search for Amelia Earhart | 29199 | [29199-the-search-for-amelia-earhart.json](./29199-the-search-for-amelia-earhart.json) |
+| The Search for Deep Loving | 158340 | [158340-the-search-for-deep-loving.json](./158340-the-search-for-deep-loving.json) |
 | The Search for Elsoliado | 69503 | [69503-the-search-for-elsoliado.json](./69503-the-search-for-elsoliado.json) |
 | The Search For Fran | 154300 | [154300-the-search-for-fran.json](./154300-the-search-for-fran.json) |
 | The Search for Fran 2 | 203778 | [203778-the-search-for-fran-2.json](./203778-the-search-for-fran-2.json) |
@@ -14526,6 +14530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow of Swallow | 333045 | [333045-the-shadow-of-swallow.json](./333045-the-shadow-of-swallow.json) |
 | The Shadow of the Evil Tower | 270875 | [270875-the-shadow-of-the-evil-tower.json](./270875-the-shadow-of-the-evil-tower.json) |
 | The Shadow of the Warring States Period | 348872 | [348872-the-shadow-of-the-warring-states-period.json](./348872-the-shadow-of-the-warring-states-period.json) |
+| The Shadow of Yidhra | 158373 | [158373-the-shadow-of-yidhra.json](./158373-the-shadow-of-yidhra.json) |
 | The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
 | The Shadow of Zorro | 27627 | [27627-the-shadow-of-zorro.json](./27627-the-shadow-of-zorro.json) |
 | The Shadow Over Cyberspace | 304976 | [304976-the-shadow-over-cyberspace.json](./304976-the-shadow-over-cyberspace.json) |
@@ -24039,6 +24044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Tennis | 40904 | [40904-tournament-tennis.json](./40904-tournament-tennis.json) |
 | Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
+| Tourney | 158378 | [158378-tourney.json](./158378-tourney.json) |
 | Tourney of Warrior Ultra 2 | 193843 | [193843-tourney-of-warrior-ultra-2.json](./193843-tourney-of-warrior-ultra-2.json) |
 | Touryuu Densetsu: Elan Doree | 77295 | [77295-touryuu-densetsu-elan-doree.json](./77295-touryuu-densetsu-elan-doree.json) |
 | Toushin Gent | 319209 | [319209-toushin-gent.json](./319209-toushin-gent.json) |
@@ -24991,6 +24997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Maze Master | 365040 | [365040-train-maze-master.json](./365040-train-maze-master.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
 | Train Mechanic Simulator 2025 | 211983 | [211983-train-mechanic-simulator-2025.json](./211983-train-mechanic-simulator-2025.json) |
+| Train Mechanic Simulator VR | 158366 | [158366-train-mechanic-simulator-vr.json](./158366-train-mechanic-simulator-vr.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
 | Train Metropolis | 333085 | [333085-train-metropolis.json](./333085-train-metropolis.json) |
 | Train Miner | 344443 | [344443-train-miner.json](./344443-train-miner.json) |
@@ -26768,6 +26775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Adventure Deluxe | 383697 | [383697-trap-adventure-deluxe.json](./383697-trap-adventure-deluxe.json) |
 | Trap Again | 356885 | [356885-trap-again.json](./356885-trap-again.json) |
 | Trap and Turn | 210640 | [210640-trap-and-turn.json](./210640-trap-and-turn.json) |
+| Trap Arena | 158355 | [158355-trap-arena.json](./158355-trap-arena.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
 | Trap Ball | 180558 | [180558-trap-ball.json](./180558-trap-ball.json) |
 | Trap Defense | 102174 | [102174-trap-defense.json](./102174-trap-defense.json) |
