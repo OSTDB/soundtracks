@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
 | Energy Warrior | 55100 | [55100-energy-warrior.json](./55100-energy-warrior.json) |
 | Energy Warrior + Molecule Man | 92999 | [92999-energy-warrior-molecule-man.json](./92999-energy-warrior-molecule-man.json) |
+| Energysaber Masta VR | 156830 | [156830-energysaber-masta-vr.json](./156830-energysaber-masta-vr.json) |
 | Enersify | 116123 | [116123-enersify.json](./116123-enersify.json) |
 | Enex2: The Hero's Shadow | 324728 | [324728-enex2-the-heros-shadow.json](./324728-enex2-the-heros-shadow.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
@@ -5071,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Sierra Leone | 33570 | [33570-escape-sierra-leone.json](./33570-escape-sierra-leone.json) |
 | Escape: Site-13 | 211065 | [211065-escape-site-13.json](./211065-escape-site-13.json) |
 | Escape: Small Laboratory | 224055 | [224055-escape-small-laboratory.json](./224055-escape-small-laboratory.json) |
+| Escape: The Brother's Saloon | 156821 | [156821-escape-the-brothers-saloon.json](./156821-escape-the-brothers-saloon.json) |
 | Escape: The Endless Dogwatch | 207135 | [207135-escape-the-endless-dogwatch.json](./207135-escape-the-endless-dogwatch.json) |
 | Escape: The Speedrun Game | 154298 | [154298-escape-the-speedrun-game.json](./154298-escape-the-speedrun-game.json) |
 | Escape: Tutankhamen's Tomb | 88453 | [88453-escape-tutankhamens-tomb.json](./88453-escape-tutankhamens-tomb.json) |
@@ -6317,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil behind the shadows | 126278 | [126278-evil-behind-the-shadows.json](./126278-evil-behind-the-shadows.json) |
 | Evil Below | 151500 | [151500-evil-below.json](./151500-evil-below.json) |
 | Evil Bird Simulator | 209301 | [209301-evil-bird-simulator.json](./209301-evil-bird-simulator.json) |
+| Evil Buster | 156849 | [156849-evil-buster.json](./156849-evil-buster.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Cat Simulator vs. Granny | 395967 | [395967-evil-cat-simulator-vs-granny.json](./395967-evil-cat-simulator-vs-granny.json) |
 | Evil Clowns | 125267 | [125267-evil-clowns.json](./125267-evil-clowns.json) |
