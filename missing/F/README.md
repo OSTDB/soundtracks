@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Quiz | 172089 | [172089-family-quiz.json](./172089-family-quiz.json) |
 | Family Quiz | 268129 | [268129-family-quiz.json](./268129-family-quiz.json) |
 | Family Quiz 4-nin wa Rival | 48496 | [48496-family-quiz-4-nin-wa-rival.json](./48496-family-quiz-4-nin-wa-rival.json) |
+| Family Quiz 6 | 151928 | [151928-family-quiz-6.json](./151928-family-quiz-6.json) |
 | Family Restaurant | 209249 | [209249-family-restaurant.json](./209249-family-restaurant.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Farwoods | 203248 | [203248-farwoods.json](./203248-farwoods.json) |
+| Farworld Pioneers | 151956 | [151956-farworld-pioneers.json](./151956-farworld-pioneers.json) |
 | Faryloopa | 389198 | [389198-faryloopa.json](./389198-faryloopa.json) |
 | FAS: Fight Action Sandbox | 243569 | [243569-fas-fight-action-sandbox.json](./243569-fas-fight-action-sandbox.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
@@ -6892,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Champions Summer Sports | 86871 | [86871-flick-champions-summer-sports.json](./86871-flick-champions-summer-sports.json) |
 | Flick Champions XS | 88646 | [88646-flick-champions-xs.json](./88646-flick-champions-xs.json) |
 | Flick Chess! | 223937 | [223937-flick-chess.json](./223937-flick-chess.json) |
+| Flick Club | 151931 | [151931-flick-club.json](./151931-flick-club.json) |
 | Flick Cola | 232615 | [232615-flick-cola.json](./232615-flick-cola.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
 | Flick Field Goal 16 | 58208 | [58208-flick-field-goal-16.json](./58208-flick-field-goal-16.json) |
@@ -7130,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Hazard 4 | 55239 | [55239-flipper-hazard-4.json](./55239-flipper-hazard-4.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
 | Flipper Island | 232296 | [232296-flipper-island.json](./232296-flipper-island.json) |
+| Flipper Lifter | 151969 | [151969-flipper-lifter.json](./151969-flipper-lifter.json) |
 | Flipper Mechanic | 117798 | [117798-flipper-mechanic.json](./117798-flipper-mechanic.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
 | Flipper on Recoil | 391227 | [391227-flipper-on-recoil.json](./391227-flipper-on-recoil.json) |
@@ -9066,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForRace GT2D | 275680 | [275680-forrace-gt2d.json](./275680-forrace-gt2d.json) |
 | Forrader Hero | 210920 | [210920-forrader-hero.json](./210920-forrader-hero.json) |
 | Forradia Forever | 102054 | [102054-forradia-forever.json](./102054-forradia-forever.json) |
+| Forrest Byrnes: Up in Smoke | 151970 | [151970-forrest-byrnes-up-in-smoke.json](./151970-forrest-byrnes-up-in-smoke.json) |
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake | 181576 | [181576-forsake.json](./181576-forsake.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
