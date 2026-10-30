@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Night | 209447 | [209447-halloween-night.json](./209447-halloween-night.json) |
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
 | Halloween Night II | 209448 | [209448-halloween-night-ii.json](./209448-halloween-night-ii.json) |
+| Halloween Night Mahjong | 156831 | [156831-halloween-night-mahjong.json](./156831-halloween-night-mahjong.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Panic! | 359458 | [359458-halloween-panic.json](./359458-halloween-panic.json) |
 | Halloween Party | 178915 | [178915-halloween-party.json](./178915-halloween-party.json) |
@@ -3758,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Revenge 3D | 149348 | [149348-hells-revenge-3d.json](./149348-hells-revenge-3d.json) |
 | Hell's Scream | 290532 | [290532-hells-scream.json](./290532-hells-scream.json) |
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
+| Hella Dazzling Hell!! | 156856 | [156856-hella-dazzling-hell.json](./156856-hella-dazzling-hell.json) |
 | Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellbent | 13069 | [13069-hellbent.json](./13069-hellbent.json) |
@@ -5597,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
+| Heroine for Hire | 156846 | [156846-heroine-for-hire.json](./156846-heroine-for-hire.json) |
 | Heroine of the Sniper | 118673 | [118673-heroine-of-the-sniper.json](./118673-heroine-of-the-sniper.json) |
 | Heroine's Claw | 243035 | [243035-heroines-claw.json](./243035-heroines-claw.json) |
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
