@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers | 233068 | [233068-whiskers.json](./233068-whiskers.json) |
 | Whiskers | 272300 | [272300-whiskers.json](./272300-whiskers.json) |
 | Whiskers | 311551 | [311551-whiskers.json](./311551-whiskers.json) |
+| Whiskers & Tail | 159480 | [159480-whiskers-and-tail.json](./159480-whiskers-and-tail.json) |
 | Whiskers and Wizardry | 345084 | [345084-whiskers-and-wizardry.json](./345084-whiskers-and-wizardry.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
 | Whiskers on Time's Corner | 370098 | [370098-whiskers-on-times-corner.json](./370098-whiskers-on-times-corner.json) |
