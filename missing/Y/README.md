@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yugen Jikkou Sisters Chouchoutrian: Kanzenchouaku Chouchoutrian | 385556 | [385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json](./385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json) |
 | Yugen Saga | 260100 | [260100-yugen-saga.json](./260100-yugen-saga.json) |
 | Yuggot | 274141 | [274141-yuggot.json](./274141-yuggot.json) |
+| Yugo Puzzle | 135444 | [135444-yugo-puzzle.json](./135444-yugo-puzzle.json) |
 | Yugo: The Non-game | 319791 | [319791-yugo-the-non-game.json](./319791-yugo-the-non-game.json) |
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
 | Yuha's Nightmares | 155987 | [155987-yuhas-nightmares.json](./155987-yuhas-nightmares.json) |
