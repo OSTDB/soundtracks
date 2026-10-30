@@ -10358,6 +10358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miku'n Pop | 314226 | [314226-mikun-pop.json](./314226-mikun-pop.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
 | Mikuri Sacrament | 314810 | [314810-mikuri-sacrament.json](./314810-mikuri-sacrament.json) |
+| Mil Rosas | 154849 | [154849-mil-rosas.json](./154849-mil-rosas.json) |
 | Mila & Zug | 390496 | [390496-mila-and-zug.json](./390496-mila-and-zug.json) |
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
@@ -14861,6 +14862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Syndrome | 65450 | [65450-moonlight-syndrome.json](./65450-moonlight-syndrome.json) |
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
+| Moonlight: Among Darkness | 154778 | [154778-moonlight-among-darkness.json](./154778-moonlight-among-darkness.json) |
 | Moonlighter | 227752 | [227752-moonlighter.json](./227752-moonlighter.json) |
 | Moonlighter 2: The Endless Vault | 324570 | [324570-moonlighter-2-the-endless-vault.json](./324570-moonlighter-2-the-endless-vault.json) |
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
@@ -17662,8 +17664,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
 | Muv-Luv / Muv-Luv Alternative Remastered Double Pack | 308624 | [308624-muv-luv-muv-luv-alternative-remastered-double-pack.json](./308624-muv-luv-muv-luv-alternative-remastered-double-pack.json) |
 | Muv-Luv Alternative Remastered | 308622 | [308622-muv-luv-alternative-remastered.json](./308622-muv-luv-alternative-remastered.json) |
+| Muv-Luv Integrate | 154845 | [154845-muv-luv-integrate.json](./154845-muv-luv-integrate.json) |
 | Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
 | Muv-Luv Remastered | 308623 | [308623-muv-luv-remastered.json](./308623-muv-luv-remastered.json) |
+| Muv-Luv Resonative | 154844 | [154844-muv-luv-resonative.json](./154844-muv-luv-resonative.json) |
 | Muv-Luv Supplement | 321204 | [321204-muv-luv-supplement.json](./321204-muv-luv-supplement.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 | 143336 | [143336-muv-luv-unlimited-the-day-after-episode-00.json](./143336-muv-luv-unlimited-the-day-after-episode-00.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 Remastered | 164423 | [164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json](./164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json) |
