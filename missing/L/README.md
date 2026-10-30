@@ -3829,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liber 2: Lost in time | 240821 | [240821-liber-2-lost-in-time.json](./240821-liber-2-lost-in-time.json) |
 | Liberal Crime Squad | 70579 | [70579-liberal-crime-squad.json](./70579-liberal-crime-squad.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
+| Liberated: Enhanced Edition | 142605 | [142605-liberated-enhanced-edition.json](./142605-liberated-enhanced-edition.json) |
 | Liberated: Enhanced Edition + NecroWorm Bundle | 226339 | [226339-liberated-enhanced-edition-necroworm-bundle.json](./226339-liberated-enhanced-edition-necroworm-bundle.json) |
 | Liberated: For the Homeland | 170885 | [170885-liberated-for-the-homeland.json](./170885-liberated-for-the-homeland.json) |
 | Liberated: Glory to the Heroes | 170884 | [170884-liberated-glory-to-the-heroes.json](./170884-liberated-glory-to-the-heroes.json) |
@@ -8805,6 +8806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Greenhouse | 311003 | [311003-lunar-greenhouse.json](./311003-lunar-greenhouse.json) |
 | Lunar Impact | 340506 | [340506-lunar-impact.json](./340506-lunar-impact.json) |
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
+| Lunar Journey | 142041 | [142041-lunar-journey.json](./142041-lunar-journey.json) |
 | Lunar Knights | 9887 | [9887-lunar-knights.json](./9887-lunar-knights.json) |
 | Lunar Laceration | 315716 | [315716-lunar-laceration.json](./315716-lunar-laceration.json) |
 | Lunar Lancer | 337090 | [337090-lunar-lancer.json](./337090-lunar-lancer.json) |
