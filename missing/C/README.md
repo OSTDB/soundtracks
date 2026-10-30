@@ -5239,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Code: Nemesis Experiment | 128906 | [128906-chaos-code-nemesis-experiment.json](./128906-chaos-code-nemesis-experiment.json) |
 | Chaos Code: New Sign of Catastrophe | 27718 | [27718-chaos-code-new-sign-of-catastrophe.json](./27718-chaos-code-new-sign-of-catastrophe.json) |
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
+| Chaos Combat Chess | 161512 | [161512-chaos-combat-chess.json](./161512-chaos-combat-chess.json) |
 | Chaos Coming | 242966 | [242966-chaos-coming.json](./242966-chaos-coming.json) |
 | Chaos CompleXX | 261125 | [261125-chaos-complexx.json](./261125-chaos-complexx.json) |
 | Chaos Control | 176140 | [176140-chaos-control.json](./176140-chaos-control.json) |
@@ -5262,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
 | Chaos Gear: Michibi Kareshi Mono | 37533 | [37533-chaos-gear-michibi-kareshi-mono.json](./37533-chaos-gear-michibi-kareshi-mono.json) |
 | Chaos Girl | 192201 | [192201-chaos-girl.json](./192201-chaos-girl.json) |
+| Chaos Groove | 161533 | [161533-chaos-groove.json](./161533-chaos-groove.json) |
 | Chaos Heat | 122943 | [122943-chaos-heat.json](./122943-chaos-heat.json) |
 | Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
 | Chaos Hero | 373821 | [373821-chaos-hero.json](./373821-chaos-hero.json) |
@@ -16882,6 +16884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubebam | 284981 | [284981-cubebam.json](./284981-cubebam.json) |
 | Cubecat | 311979 | [311979-cubecat.json](./311979-cubecat.json) |
 | CubeCaust | 412300 | [412300-cubecaust.json](./412300-cubecaust.json) |
+| Cubecois | 161530 | [161530-cubecois.json](./161530-cubecois.json) |
 | CubeCrafter | 248596 | [248596-cubecrafter.json](./248596-cubecrafter.json) |
 | CubeCubeRubik | 284982 | [284982-cubecuberubik.json](./284982-cubecuberubik.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
@@ -17941,6 +17944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Fight | 194916 | [194916-cyber-fight.json](./194916-cyber-fight.json) |
+| Cyber Fight Challenge | 161541 | [161541-cyber-fight-challenge.json](./161541-cyber-fight-challenge.json) |
 | Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
 | Cyber Furry Girl | 230138 | [230138-cyber-furry-girl.json](./230138-cyber-furry-girl.json) |
 | Cyber Girl 1.0: Booting | 154585 | [154585-cyber-girl-1-0-booting.json](./154585-cyber-girl-1-0-booting.json) |
