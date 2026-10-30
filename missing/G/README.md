@@ -6044,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goliath | 325737 | [325737-goliath.json](./325737-goliath.json) |
 | Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
+| Goliath: Summertime Gnarkness | 155330 | [155330-goliath-summertime-gnarkness.json](./155330-goliath-summertime-gnarkness.json) |
 | Golly Soda Pop | 333208 | [333208-golly-soda-pop.json](./333208-golly-soda-pop.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
 | Golod | 406677 | [406677-golod.json](./406677-golod.json) |
@@ -7294,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratuitous Space Battles: The Nomads | 164339 | [164339-gratuitous-space-battles-the-nomads.json](./164339-gratuitous-space-battles-the-nomads.json) |
 | Gratuitous Space Battles: The Order | 164342 | [164342-gratuitous-space-battles-the-order.json](./164342-gratuitous-space-battles-the-order.json) |
 | Gratuitous Space Battles: The Outcasts | 164340 | [164340-gratuitous-space-battles-the-outcasts.json](./164340-gratuitous-space-battles-the-outcasts.json) |
+| Gratuitous Space Battles: The Parasites | 155300 | [155300-gratuitous-space-battles-the-parasites.json](./155300-gratuitous-space-battles-the-parasites.json) |
 | Gratuitous Space Battles: The Swarm | 164343 | [164343-gratuitous-space-battles-the-swarm.json](./164343-gratuitous-space-battles-the-swarm.json) |
 | Gratuitous Space Battles: The Tribe | 164338 | [164338-gratuitous-space-battles-the-tribe.json](./164338-gratuitous-space-battles-the-tribe.json) |
 | Gratuitous Space Shooty Game | 285916 | [285916-gratuitous-space-shooty-game.json](./285916-gratuitous-space-shooty-game.json) |
