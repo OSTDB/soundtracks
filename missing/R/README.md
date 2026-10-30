@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction: Battlegrounds | 20447 | [20447-red-faction-battlegrounds.json](./20447-red-faction-battlegrounds.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Faction: Guerrilla Re-Mars-tered | 96027 | [96027-red-faction-guerrilla-re-mars-tered.json](./96027-red-faction-guerrilla-re-mars-tered.json) |
+| Red Falcon | 150872 | [150872-red-falcon.json](./150872-red-falcon.json) |
 | Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
 | Red Finger | 339400 | [339400-red-finger.json](./339400-red-finger.json) |
 | Red Flag | 406756 | [406756-red-flag.json](./406756-red-flag.json) |
@@ -10580,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
 | Rubik's Games | 78886 | [78886-rubiks-games.json](./78886-rubiks-games.json) |
 | Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
+| Rubikingdom | 150860 | [150860-rubikingdom.json](./150860-rubikingdom.json) |
 | Rubinite | 265796 | [265796-rubinite.json](./265796-rubinite.json) |
 | Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
 | RubPix | 241568 | [241568-rubpix.json](./241568-rubpix.json) |
