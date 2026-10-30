@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25 | 223926 | [223926-25.json](./223926-25.json) |
 | 25 Days in the Dark | 406509 | [406509-25-days-in-the-dark.json](./406509-25-days-in-the-dark.json) |
 | 25 in 1 Family Games Mega Collection | 385159 | [385159-25-in-1-family-games-mega-collection.json](./385159-25-in-1-family-games-mega-collection.json) |
+| 25 Layers of Pain | 172917 | [172917-25-layers-of-pain.json](./172917-25-layers-of-pain.json) |
 | 25 Pferdespiele | 91592 | [91592-25-pferdespiele.json](./91592-25-pferdespiele.json) |
 | 25 To Life | 5714 | [5714-25-to-life.json](./5714-25-to-life.json) |
 | 25 Years on Earth | 261459 | [261459-25-years-on-earth.json](./261459-25-years-on-earth.json) |
@@ -2701,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 66 Confessions of St.Pinel Castle | 365634 | [365634-66-confessions-of-st-pinel-castle.json](./365634-66-confessions-of-st-pinel-castle.json) |
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
 | 666 | 266107 | [266107-666.json](./266107-666.json) |
+| 666 Masks | 172927 | [172927-666-masks.json](./172927-666-masks.json) |
 | 67 | 372820 | [372820-67.json](./372820-67.json) |
 | 67 | 388231 | [388231-67.json](./388231-67.json) |
 | 67 Game Online | 395009 | [395009-67-game-online.json](./395009-67-game-online.json) |
