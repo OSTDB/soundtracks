@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2018 | 101439 | [101439-f1-2018.json](./101439-f1-2018.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
+| F1 2019: Anniversary Edition | 134217 | [134217-f1-2019-anniversary-edition.json](./134217-f1-2019-anniversary-edition.json) |
 | F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
 | F1 2020 | 132205 | [132205-f1-2020.json](./132205-f1-2020.json) |
 | F1 2021 | 145838 | [145838-f1-2021.json](./145838-f1-2021.json) |
@@ -4564,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Remake & Rebirth: Twin Pack | 266737 | [266737-final-fantasy-vii-remake-and-rebirth-twin-pack.json](./266737-final-fantasy-vii-remake-and-rebirth-twin-pack.json) |
 | Final Fantasy VII Remake Series Trilogy Edition | 416148 | [416148-final-fantasy-vii-remake-series-trilogy-edition.json](./416148-final-fantasy-vii-remake-series-trilogy-edition.json) |
 | Final Fantasy VII Remake: 1st Class Edition | 136353 | [136353-final-fantasy-vii-remake-1st-class-edition.json](./136353-final-fantasy-vii-remake-1st-class-edition.json) |
+| Final Fantasy VII Remake: Deluxe Edition | 134226 | [134226-final-fantasy-vii-remake-deluxe-edition.json](./134226-final-fantasy-vii-remake-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Upgrade | 133299 | [133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json](./133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json) |
 | Final Fantasy VII Revelation: Accessory - Reclaimant Choker & Survival Set | 416146 | [416146-final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set.json](./416146-final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set.json) |
@@ -5340,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
 | Fire Emblem: Thracia 776 - Forseti's Cut | 290361 | [290361-fire-emblem-thracia-776-forsetis-cut.json](./290361-fire-emblem-thracia-776-forsetis-cut.json) |
 | Fire Emblem: Three Houses - Cindered Shadows | 132224 | [132224-fire-emblem-three-houses-cindered-shadows.json](./132224-fire-emblem-three-houses-cindered-shadows.json) |
+| Fire Emblem: Three Houses - Collector's Edition | 134235 | [134235-fire-emblem-three-houses-collectors-edition.json](./134235-fire-emblem-three-houses-collectors-edition.json) |
 | Fire Emblem: Three Houses - Expansion Pass | 293729 | [293729-fire-emblem-three-houses-expansion-pass.json](./293729-fire-emblem-three-houses-expansion-pass.json) |
 | Fire Emblem: Three Houses - Seasons of Warfare Edition | 136363 | [136363-fire-emblem-three-houses-seasons-of-warfare-edition.json](./136363-fire-emblem-three-houses-seasons-of-warfare-edition.json) |
 | Fire Emblem: Three Houses + Expansion Pass | 293730 | [293730-fire-emblem-three-houses-expansion-pass.json](./293730-fire-emblem-three-houses-expansion-pass.json) |
