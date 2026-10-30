@@ -11570,6 +11570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniMow | 262590 | [262590-minimow.json](./262590-minimow.json) |
 | Minimum Mage Effort | 401049 | [401049-minimum-mage-effort.json](./401049-minimum-mage-effort.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
+| Minimum Wage: Influence the Election | 169580 | [169580-minimum-wage-influence-the-election.json](./169580-minimum-wage-influence-the-election.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
 | Mining and Dwarves | 405321 | [405321-mining-and-dwarves.json](./405321-mining-and-dwarves.json) |
 | Mining Away! | 408242 | [408242-mining-away.json](./408242-mining-away.json) |
@@ -17065,6 +17066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
 | Murder by Choice: Mystery Game | 266265 | [266265-murder-by-choice-mystery-game.json](./266265-murder-by-choice-mystery-game.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
+| Murder by Moonlight: Call of the Wolf | 169577 | [169577-murder-by-moonlight-call-of-the-wolf.json](./169577-murder-by-moonlight-call-of-the-wolf.json) |
 | Murder by the Dozen | 23972 | [23972-murder-by-the-dozen.json](./23972-murder-by-the-dozen.json) |
 | Murder Cases | 246808 | [246808-murder-cases.json](./246808-murder-cases.json) |
 | Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
