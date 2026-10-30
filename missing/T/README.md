@@ -13465,6 +13465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
 | The Prisonbreak | 346373 | [346373-the-prisonbreak.json](./346373-the-prisonbreak.json) |
 | The Prisoner | 347059 | [347059-the-prisoner.json](./347059-the-prisoner.json) |
+| The Prisoner of the Night | 173390 | [173390-the-prisoner-of-the-night.json](./173390-the-prisoner-of-the-night.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
 | The Pro Mahjong: Menkyo Minnaten | 376643 | [376643-the-pro-mahjong-menkyo-minnaten.json](./376643-the-pro-mahjong-menkyo-minnaten.json) |
 | The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
@@ -19270,8 +19271,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Striker: MP036 | 173455 | [173455-tiger-striker-mp036.json](./173455-tiger-striker-mp036.json) |
 | Tiger Striker: MP037 | 173474 | [173474-tiger-striker-mp037.json](./173474-tiger-striker-mp037.json) |
 | Tiger Striker: MP039 | 173465 | [173465-tiger-striker-mp039.json](./173465-tiger-striker-mp039.json) |
+| Tiger Striker: MP041 | 173442 | [173442-tiger-striker-mp041.json](./173442-tiger-striker-mp041.json) |
 | Tiger Striker: MP042 | 173457 | [173457-tiger-striker-mp042.json](./173457-tiger-striker-mp042.json) |
 | Tiger Striker: MP046 | 173468 | [173468-tiger-striker-mp046.json](./173468-tiger-striker-mp046.json) |
+| Tiger Striker: MP048 | 173444 | [173444-tiger-striker-mp048.json](./173444-tiger-striker-mp048.json) |
 | Tiger Striker: MP049 | 173464 | [173464-tiger-striker-mp049.json](./173464-tiger-striker-mp049.json) |
 | Tiger Striker: MP054 | 189720 | [189720-tiger-striker-mp054.json](./189720-tiger-striker-mp054.json) |
 | Tiger Striker: MP055 | 173467 | [173467-tiger-striker-mp055.json](./173467-tiger-striker-mp055.json) |
@@ -19288,6 +19291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Striker: MP075 | 173461 | [173461-tiger-striker-mp075.json](./173461-tiger-striker-mp075.json) |
 | Tiger Striker: MP076 | 173456 | [173456-tiger-striker-mp076.json](./173456-tiger-striker-mp076.json) |
 | Tiger Striker: MP077 | 173448 | [173448-tiger-striker-mp077.json](./173448-tiger-striker-mp077.json) |
+| Tiger Striker: MP078 | 173443 | [173443-tiger-striker-mp078.json](./173443-tiger-striker-mp078.json) |
 | Tiger Striker: MP081 | 189719 | [189719-tiger-striker-mp081.json](./189719-tiger-striker-mp081.json) |
 | Tiger Striker: MP084 | 173452 | [173452-tiger-striker-mp084.json](./173452-tiger-striker-mp084.json) |
 | Tiger Striker: MP085 | 173472 | [173472-tiger-striker-mp085.json](./173472-tiger-striker-mp085.json) |
@@ -23625,6 +23629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mix | 193870 | [193870-touhou-mix.json](./193870-touhou-mix.json) |
 | Touhou Money Stocks Shops | 173987 | [173987-touhou-money-stocks-shops.json](./173987-touhou-money-stocks-shops.json) |
 | Touhou Monjusen: Bubbling Imaginary Treasures | 321034 | [321034-touhou-monjusen-bubbling-imaginary-treasures.json](./321034-touhou-monjusen-bubbling-imaginary-treasures.json) |
+| Touhou Monster TD | 173434 | [173434-touhou-monster-td.json](./173434-touhou-monster-td.json) |
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
 | Touhou Monster TD: Nagae Iku | 192155 | [192155-touhou-monster-td-nagae-iku.json](./192155-touhou-monster-td-nagae-iku.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
@@ -26899,6 +26904,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
 | Treasure of Big Totem: The Narrative | 315441 | [315441-treasure-of-big-totem-the-narrative.json](./315441-treasure-of-big-totem-the-narrative.json) |
 | Treasure of Cutlass Reef | 261211 | [261211-treasure-of-cutlass-reef.json](./261211-treasure-of-cutlass-reef.json) |
+| Treasure of Cutuma 3rd: Call of Guru | 173440 | [173440-treasure-of-cutuma-3rd-call-of-guru.json](./173440-treasure-of-cutuma-3rd-call-of-guru.json) |
+| Treasure of Cutuma 3rd: Family Doctor | 173441 | [173441-treasure-of-cutuma-3rd-family-doctor.json](./173441-treasure-of-cutuma-3rd-family-doctor.json) |
 | Treasure of Nadia | 127644 | [127644-treasure-of-nadia.json](./127644-treasure-of-nadia.json) |
 | Treasure of Ocean | 399435 | [399435-treasure-of-ocean.json](./399435-treasure-of-ocean.json) |
 | Treasure of the Caribbean Sea | 416184 | [416184-treasure-of-the-caribbean-sea.json](./416184-treasure-of-the-caribbean-sea.json) |
@@ -27838,6 +27845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
+| Tropical America | 173420 | [173420-tropical-america.json](./173420-tropical-america.json) |
 | Tropical Blessings | 385631 | [385631-tropical-blessings.json](./385631-tropical-blessings.json) |
 | Tropical Dragon Slaughter | 408055 | [408055-tropical-dragon-slaughter.json](./408055-tropical-dragon-slaughter.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
