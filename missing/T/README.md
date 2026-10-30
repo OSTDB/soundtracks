@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
+| Terminal Conflict: Flower Power Upgrade Pack | 155402 | [155402-terminal-conflict-flower-power-upgrade-pack.json](./155402-terminal-conflict-flower-power-upgrade-pack.json) |
 | Terminal Connection | 339408 | [339408-terminal-connection.json](./339408-terminal-connection.json) |
 | Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
 | Terminal Defense | 97092 | [97092-terminal-defense.json](./97092-terminal-defense.json) |
@@ -4850,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abduction of Oscar Z | 300808 | [300808-the-abduction-of-oscar-z.json](./300808-the-abduction-of-oscar-z.json) |
 | The Abettor's Letters | 58071 | [58071-the-abettors-letters.json](./58071-the-abettors-letters.json) |
 | The Ables: Freepoint High | 33901 | [33901-the-ables-freepoint-high.json](./33901-the-ables-freepoint-high.json) |
+| The Abnormal Place | 155299 | [155299-the-abnormal-place.json](./155299-the-abnormal-place.json) |
 | The Abominable Shitpit | 418772 | [418772-the-abominable-shitpit.json](./418772-the-abominable-shitpit.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
 | The Absence | 29530 | [29530-the-absence.json](./29530-the-absence.json) |
@@ -9938,6 +9940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Machine | 4243 | [4243-the-incredible-machine.json](./4243-the-incredible-machine.json) |
 | The Incredible Machine 2 | 9262 | [9262-the-incredible-machine-2.json](./9262-the-incredible-machine-2.json) |
 | The Incredible Machine 3 | 9263 | [9263-the-incredible-machine-3.json](./9263-the-incredible-machine-3.json) |
+| The Incredible Machine Mega Pack | 155304 | [155304-the-incredible-machine-mega-pack.json](./155304-the-incredible-machine-mega-pack.json) |
 | The Incredible Maze | 21792 | [21792-the-incredible-maze.json](./21792-the-incredible-maze.json) |
 | The Incredible Toon Machine | 13778 | [13778-the-incredible-toon-machine.json](./13778-the-incredible-toon-machine.json) |
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
@@ -16117,6 +16120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Tiger Tank 60 | 157662 | [157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json](./157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 61 | 157616 | [157616-the-tower-of-tigerqiuqiu-tiger-tank-61.json](./157616-the-tower-of-tigerqiuqiu-tiger-tank-61.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 62 | 157642 | [157642-the-tower-of-tigerqiuqiu-tiger-tank-62.json](./157642-the-tower-of-tigerqiuqiu-tiger-tank-62.json) |
+| The Tower of TigerQiuQiu: Tiger Tank 63 | 155298 | [155298-the-tower-of-tigerqiuqiu-tiger-tank-63.json](./155298-the-tower-of-tigerqiuqiu-tiger-tank-63.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 64 | 157622 | [157622-the-tower-of-tigerqiuqiu-tiger-tank-64.json](./157622-the-tower-of-tigerqiuqiu-tiger-tank-64.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 65 | 157626 | [157626-the-tower-of-tigerqiuqiu-tiger-tank-65.json](./157626-the-tower-of-tigerqiuqiu-tiger-tank-65.json) |
 | The Tower of TigerQiuQiu: Tiger Tank Defense | 157605 | [157605-the-tower-of-tigerqiuqiu-tiger-tank-defense.json](./157605-the-tower-of-tigerqiuqiu-tiger-tank-defense.json) |
@@ -16407,6 +16411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unearthened | 189837 | [189837-the-unearthened.json](./189837-the-unearthened.json) |
 | The Unexpected (But Not Entirely Surprising) Demise of Jacques du Schnozzle | 329126 | [329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json](./329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json) |
 | The Unexpected Heiress | 313854 | [313854-the-unexpected-heiress.json](./313854-the-unexpected-heiress.json) |
+| The Unexpected Quest Prologue | 155338 | [155338-the-unexpected-quest-prologue.json](./155338-the-unexpected-quest-prologue.json) |
 | The Unexplained | 215731 | [215731-the-unexplained.json](./215731-the-unexplained.json) |
 | The Unfair Platformer | 250494 | [250494-the-unfair-platformer.json](./250494-the-unfair-platformer.json) |
 | The Unfallens: Awakening | 247345 | [247345-the-unfallens-awakening.json](./247345-the-unfallens-awakening.json) |
@@ -24353,6 +24358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!2011:SE - La Guardia KLGA Airport | 168192 | [168192-tower-2011-se-la-guardia-klga-airport.json](./168192-tower-2011-se-la-guardia-klga-airport.json) |
 | Tower!2011:SE - Memphis KMEM Airport | 168189 | [168189-tower-2011-se-memphis-kmem-airport.json](./168189-tower-2011-se-memphis-kmem-airport.json) |
 | Tower!2011:SE - New Orleans KMSY Airport | 168193 | [168193-tower-2011-se-new-orleans-kmsy-airport.json](./168193-tower-2011-se-new-orleans-kmsy-airport.json) |
+| Tower!2011:SE - Orlando KMCO Airport | 155334 | [155334-tower-2011-se-orlando-kmco-airport.json](./155334-tower-2011-se-orlando-kmco-airport.json) |
 | Tower!2011:SE - Phoenix KPHX Airport | 168196 | [168196-tower-2011-se-phoenix-kphx-airport.json](./168196-tower-2011-se-phoenix-kphx-airport.json) |
 | Tower!2011:SE - Seattle KSEA Airport | 168190 | [168190-tower-2011-se-seattle-ksea-airport.json](./168190-tower-2011-se-seattle-ksea-airport.json) |
 | Tower!2011:SE - Toronto CYYZ Airport | 168195 | [168195-tower-2011-se-toronto-cyyz-airport.json](./168195-tower-2011-se-toronto-cyyz-airport.json) |
@@ -25315,6 +25321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: Black Forest Journeys - Freiburg-Hausach Route | 156371 | [156371-train-simulator-2021-black-forest-journeys-freiburg-hausach-route.json](./156371-train-simulator-2021-black-forest-journeys-freiburg-hausach-route.json) |
 | Train Simulator 2021: BNSF Dash 9 Loco | 162346 | [162346-train-simulator-2021-bnsf-dash-9-loco.json](./162346-train-simulator-2021-bnsf-dash-9-loco.json) |
 | Train Simulator 2021: BNSF ES44DC Loco | 162341 | [162341-train-simulator-2021-bnsf-es44dc-loco.json](./162341-train-simulator-2021-bnsf-es44dc-loco.json) |
+| Train Simulator 2021: BR Class 07 Loco Add-On | 155336 | [155336-train-simulator-2021-br-class-07-loco-add-on.json](./155336-train-simulator-2021-br-class-07-loco-add-on.json) |
 | Train Simulator 2021: BR Class 101 DMU | 162351 | [162351-train-simulator-2021-br-class-101-dmu.json](./162351-train-simulator-2021-br-class-101-dmu.json) |
 | Train Simulator 2021: BR Class 170 'Turbostar' DMU | 162391 | [162391-train-simulator-2021-br-class-170-turbostar-dmu.json](./162391-train-simulator-2021-br-class-170-turbostar-dmu.json) |
 | Train Simulator 2021: BR Class 31 Freight Loco | 162393 | [162393-train-simulator-2021-br-class-31-freight-loco.json](./162393-train-simulator-2021-br-class-31-freight-loco.json) |
@@ -28182,6 +28189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
+| Tropico 4: Complete DLC Pack | 155315 | [155315-tropico-4-complete-dlc-pack.json](./155315-tropico-4-complete-dlc-pack.json) |
 | Tropico 4: Junta Military | 53851 | [53851-tropico-4-junta-military.json](./53851-tropico-4-junta-military.json) |
 | Tropico 4: Megalopolis | 53847 | [53847-tropico-4-megalopolis.json](./53847-tropico-4-megalopolis.json) |
 | Tropico 4: Pirate Heaven | 75685 | [75685-tropico-4-pirate-heaven.json](./75685-tropico-4-pirate-heaven.json) |
