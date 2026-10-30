@@ -4354,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marzu | 389584 | [389584-marzu.json](./389584-marzu.json) |
 | Masackra | 389692 | [389692-masackra.json](./389692-masackra.json) |
 | Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
+| Masakari Densetsu: Kintarou Action-hen | 163119 | [163119-masakari-densetsu-kintarou-action-hen.json](./163119-masakari-densetsu-kintarou-action-hen.json) |
 | Masala Drive | 263542 | [263542-masala-drive.json](./263542-masala-drive.json) |
 | Masamune | 117424 | [117424-masamune.json](./117424-masamune.json) |
 | Masarada Town Story | 223372 | [223372-masarada-town-story.json](./223372-masarada-town-story.json) |
@@ -10219,6 +10220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Warriors: Rise of the East | 58116 | [58116-mighty-warriors-rise-of-the-east.json](./58116-mighty-warriors-rise-of-the-east.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
+| Mightyy's FPS Aim Trainer | 163105 | [163105-mightyys-fps-aim-trainer.json](./163105-mightyys-fps-aim-trainer.json) |
 | Miglorn | 304590 | [304590-miglorn.json](./304590-miglorn.json) |
 | Migrant Bird | 240375 | [240375-migrant-bird.json](./240375-migrant-bird.json) |
 | Migrate | 121300 | [121300-migrate.json](./121300-migrate.json) |
@@ -14846,6 +14848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonrise Fall | 116076 | [116076-moonrise-fall.json](./116076-moonrise-fall.json) |
 | Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
+| Moons of Ardan | 163142 | [163142-moons-of-ardan.json](./163142-moons-of-ardan.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moons of Ventocia | 122137 | [122137-moons-of-ventocia.json](./122137-moons-of-ventocia.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
@@ -14897,6 +14900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonwalker | 13017 | [13017-moonwalker.json](./13017-moonwalker.json) |
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
 | MoonWar | 178924 | [178924-moonwar.json](./178924-moonwar.json) |
+| Moonwave Overdrive | 163131 | [163131-moonwave-overdrive.json](./163131-moonwave-overdrive.json) |
 | MoonWhite | 292576 | [292576-moonwhite.json](./292576-moonwhite.json) |
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
 | Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
