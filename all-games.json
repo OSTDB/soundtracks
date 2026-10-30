@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T22:31:12.649Z",
-  "total_soundtracks": 2714,
+  "generated_at": "2026-10-30T22:41:39.307Z",
+  "total_soundtracks": 2724,
   "games": [
     {
       "igdb_id": 7522,
@@ -3000,6 +3000,20 @@
           "album_name": "Battlefield: Bad Company 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5Ng1Pl9BTKiPb8dPwzMpyY",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 83844,
+      "game_name": "Battlefleet Gothic: Armada 2",
+      "game_url": "https://ostdb.net/games/battlefleet-gothic-armada-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737f18e911ab9ac1977fc4ccda",
+      "albums": [
+        {
+          "album_name": "Battlefleet Gothic: Armada 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/40q3wet1XAJvQQ9NHSMnaE",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -7683,6 +7697,20 @@
         {
           "album_name": "Dig Dug (Game Sound Effect) Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6Q8Xvmxz9QBJbHR5NXA7Kf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26743,
+      "game_name": "Diluvion",
+      "game_url": "https://ostdb.net/games/diluvion",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27386fb5a869130a7176cf233cc",
+      "albums": [
+        {
+          "album_name": "Diluvion (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5mL6Wr8BJ8mapXWdZwxgsn",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12951,6 +12979,20 @@
       ]
     },
     {
+      "igdb_id": 37383,
+      "game_name": "Halo Wars 2: Awakening the Nightmare",
+      "game_url": "https://ostdb.net/games/halo-wars-2-awakening-the-nightmare",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e728b827bef89f3b99a5b24d",
+      "albums": [
+        {
+          "album_name": "Halo Wars 2: Awakening the Nightmare (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4WDgYaetdlqxIDPH8RbMWY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 375232,
       "game_name": "Halo: Campaign Evolved",
       "game_url": "https://ostdb.net/games/halo-campaign-evolved",
@@ -14773,6 +14815,20 @@
         {
           "album_name": "Jetpack Joyride (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6JK9GjsXGG2oJm5ZHWLwjq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 30372,
+      "game_name": "Jets'n'Guns Gold",
+      "game_url": "https://ostdb.net/games/jetsnguns-gold",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27377c2795246a494bbcfe64169",
+      "albums": [
+        {
+          "album_name": "Jets 'n' Guns Gold (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/244ocJ5MbXQ6g0LbK3YwkQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18403,6 +18459,20 @@
       ]
     },
     {
+      "igdb_id": 59437,
+      "game_name": "Monster Legends",
+      "game_url": "https://ostdb.net/games/monster-legends",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f85da77540a71525d755f8e1",
+      "albums": [
+        {
+          "album_name": "Monster Legends Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6EuZNrft3GZisFhsL7zYM1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 89594,
       "game_name": "Monster Sanctuary",
       "game_url": "https://ostdb.net/games/monster-sanctuary",
@@ -18901,6 +18971,20 @@
         {
           "album_name": "Myst V: End of Ages (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/13GPxpmYQf1a1jfKGscyv2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21436,
+      "game_name": "Nanostray",
+      "game_url": "https://ostdb.net/games/nanostray",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736b2096a5f93f68575627d111",
+      "albums": [
+        {
+          "album_name": "Nanostray Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0FmwbRvM9G6p54TzMkumyW",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24119,6 +24203,20 @@
       ]
     },
     {
+      "igdb_id": 350179,
+      "game_name": "Servant of the Lake",
+      "game_url": "https://ostdb.net/games/servant-of-the-lake",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f4817d880edba2d6df40c957",
+      "albums": [
+        {
+          "album_name": "Servant of the Lake (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5SHB4Wm4fcdAFT2BWGldim",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 18908,
       "game_name": "Seven: The Days Long Gone",
       "game_url": "https://ostdb.net/games/seven-the-days-long-gone",
@@ -25041,6 +25139,20 @@
       ]
     },
     {
+      "igdb_id": 28069,
+      "game_name": "Slime-san",
+      "game_url": "https://ostdb.net/games/slime-san",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736bce1a9e2b20e9c9ddf935ae",
+      "albums": [
+        {
+          "album_name": "Slime-San (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7zroB6BXLrdZlLmiTHHGqZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 75096,
       "game_name": "Slipstream",
       "game_url": "https://ostdb.net/games/slipstream",
@@ -25689,6 +25801,20 @@
         {
           "album_name": "South of the Circle (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4rrQ1Ndq48F81FTiSEZTnr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22248,
+      "game_name": "Space Colony",
+      "game_url": "https://ostdb.net/games/space-colony",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731887fe3505f5b39e06d9948a",
+      "albums": [
+        {
+          "album_name": "Space Colony (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2SKUcU9ZpVDv1NuXWOBZE4",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -32603,6 +32729,20 @@
           "spotify_url": "https://open.spotify.com/album/5PRIjjUUjKFJyFQIMvlj85",
           "apple_music_url": "https://music.apple.com/us/album/warhammer-vermintide-2-original-soundtrack/1745067094",
           "album_link_url": "https://album.link/i/1745067094"
+        }
+      ]
+    },
+    {
+      "igdb_id": 79687,
+      "game_name": "Warhawk",
+      "game_url": "https://ostdb.net/games/warhawk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27372dca50c6d46cd42467632f0",
+      "albums": [
+        {
+          "album_name": "Warhawk (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2tFlJ8HIVzwQ6Qy5DFH1s1",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
