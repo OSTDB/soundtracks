@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I.M. Artificial Intelligence Machine | 18959 | [18959-a-i-m-artificial-intelligence-machine.json](./18959-a-i-m-artificial-intelligence-machine.json) |
 | A.I.M. Racing | 9955 | [9955-a-i-m-racing.json](./9955-a-i-m-racing.json) |
 | A.I.M. War Protocol | 126871 | [126871-a-i-m-war-protocol.json](./126871-a-i-m-war-protocol.json) |
+| A.I.M.$ (All You Need Is Money) | 142065 | [142065-a-i-m-all-you-need-is-money.json](./142065-a-i-m-all-you-need-is-money.json) |
 | A.I.M.2 Clan Wars | 18960 | [18960-a-i-m-2-clan-wars.json](./18960-a-i-m-2-clan-wars.json) |
 | A.I.R. Play | 79762 | [79762-a-i-r-play.json](./79762-a-i-r-play.json) |
 | A.I.T.W | 213431 | [213431-a-i-t-w.json](./213431-a-i-t-w.json) |
@@ -2481,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AcidSolitaire | 205969 | [205969-acidsolitaire.json](./205969-acidsolitaire.json) |
 | Acidsoul | 78753 | [78753-acidsoul.json](./78753-acidsoul.json) |
 | AcidSpider | 205970 | [205970-acidspider.json](./205970-acidspider.json) |
+| Acies: Battle Runes | 142594 | [142594-acies-battle-runes.json](./142594-acies-battle-runes.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | Acko's Mach-Bike Race | 343701 | [343701-ackos-mach-bike-race.json](./343701-ackos-mach-bike-race.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
@@ -7648,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Pool II | 90932 | [90932-american-pool-ii.json](./90932-american-pool-ii.json) |
 | American Popstar: Road to Celebrity | 68234 | [68234-american-popstar-road-to-celebrity.json](./68234-american-popstar-road-to-celebrity.json) |
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
+| American Racing Games Collection | 142032 | [142032-american-racing-games-collection.json](./142032-american-racing-games-collection.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Rodeo: Bull Rider 2000 | 202055 | [202055-american-rodeo-bull-rider-2000.json](./202055-american-rodeo-bull-rider-2000.json) |
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
@@ -10082,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anzeigenhauptmeister Simulator | 292510 | [292510-anzeigenhauptmeister-simulator.json](./292510-anzeigenhauptmeister-simulator.json) |
 | Anzu | 178846 | [178846-anzu.json](./178846-anzu.json) |
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
+| Ao | 142075 | [142075-ao.json](./142075-ao.json) |
 | AO International Tennis | 98964 | [98964-ao-international-tennis.json](./98964-ao-international-tennis.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
@@ -13777,6 +13781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asscar | 345573 | [345573-asscar.json](./345573-asscar.json) |
 | Assemblage of Angels | 299123 | [299123-assemblage-of-angels.json](./299123-assemblage-of-angels.json) |
 | Assemblands | 339372 | [339372-assemblands.json](./339372-assemblands.json) |
+| Assemble | 142024 | [142024-assemble.json](./142024-assemble.json) |
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
 | Assemble Ensemble | 334315 | [334315-assemble-ensemble.json](./334315-assemble-ensemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
@@ -14093,6 +14098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra's Garden | 234543 | [234543-astras-garden.json](./234543-astras-garden.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraaal | 133270 | [133270-astraaal.json](./133270-astraaal.json) |
+| Astracraft | 142615 | [142615-astracraft.json](./142615-astracraft.json) |
 | Astrae Oratio | 403926 | [403926-astrae-oratio.json](./403926-astrae-oratio.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
@@ -15218,6 +15224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Power Racing 2 | 4173 | [4173-atv-quad-power-racing-2.json](./4173-atv-quad-power-racing-2.json) |
 | ATV Quads Bike Stunt Racing 3D | 296774 | [296774-atv-quads-bike-stunt-racing-3d.json](./296774-atv-quads-bike-stunt-racing-3d.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
+| ATV Racing | 142042 | [142042-atv-racing.json](./142042-atv-racing.json) |
 | ATV Stand Up Power Sports: Dirt Bike Racing Game | 108907 | [108907-atv-stand-up-power-sports-dirt-bike-racing-game.json](./108907-atv-stand-up-power-sports-dirt-bike-racing-game.json) |
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
@@ -16304,6 +16311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azaran: Islands of the Jinn | 303904 | [303904-azaran-islands-of-the-jinn.json](./303904-azaran-islands-of-the-jinn.json) |
 | Azaran: The Demon Bottle | 359913 | [359913-azaran-the-demon-bottle.json](./359913-azaran-the-demon-bottle.json) |
 | Azarashi | 181538 | [181538-azarashi.json](./181538-azarashi.json) |
+| Azarashi Dentetsu | 142074 | [142074-azarashi-dentetsu.json](./142074-azarashi-dentetsu.json) |
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
 | Azato Kawaii Ayase-chan! | 402458 | [402458-azato-kawaii-ayase-chan.json](./402458-azato-kawaii-ayase-chan.json) |
 | Azayaka na Irodori no Naka de Kimi Rashiku: Premium Edition | 212323 | [212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json](./212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json) |
