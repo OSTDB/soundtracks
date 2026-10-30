@@ -4736,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limited Space | 406337 | [406337-limited-space.json](./406337-limited-space.json) |
 | Limiter! | 140810 | [140810-limiter.json](./140810-limiter.json) |
 | Limitless | 298066 | [298066-limitless.json](./298066-limitless.json) |
+| Limitless Bit | 133622 | [133622-limitless-bit.json](./133622-limitless-bit.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limitless Survivor | 407171 | [407171-limitless-survivor.json](./407171-limitless-survivor.json) |
