@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
 | Line Simulator | 156857 | [156857-line-simulator.json](./156857-line-simulator.json) |
+| Line Simulator 2020 | 137244 | [137244-line-simulator-2020.json](./137244-line-simulator-2020.json) |
 | Line Space Wars | 69360 | [69360-line-space-wars.json](./69360-line-space-wars.json) |
 | Line Strike | 188791 | [188791-line-strike.json](./188791-line-strike.json) |
 | Line the Balls | 233173 | [233173-line-the-balls.json](./233173-line-the-balls.json) |
@@ -8169,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Oxygen | 239697 | [239697-low-oxygen.json](./239697-low-oxygen.json) |
 | Low Polly | 331789 | [331789-low-polly.json](./331789-low-polly.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
+| Low Poly Forces | 137241 | [137241-low-poly-forces.json](./137241-low-poly-forces.json) |
 | Low Poly Mouse Game | 381961 | [381961-low-poly-mouse-game.json](./381961-low-poly-mouse-game.json) |
 | Low Story | 156916 | [156916-low-story.json](./156916-low-story.json) |
 | Low Taper Fade 3D | 382534 | [382534-low-taper-fade-3d.json](./382534-low-taper-fade-3d.json) |
