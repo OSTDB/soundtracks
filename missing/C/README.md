@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats With Standards | 374409 | [374409-cats-with-standards.json](./374409-cats-with-standards.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
+| Cats: Classic Onet Connect - Expansion Pack | 170687 | [170687-cats-classic-onet-connect-expansion-pack.json](./170687-cats-classic-onet-connect-expansion-pack.json) |
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
@@ -18084,6 +18085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberDrifter | 29152 | [29152-cyberdrifter.json](./29152-cyberdrifter.json) |
 | CyberDrive 2077 | 395806 | [395806-cyberdrive-2077.json](./395806-cyberdrive-2077.json) |
 | Cyberdrome | 113511 | [113511-cyberdrome.json](./113511-cyberdrome.json) |
+| Cyberdunk: Anime Edition | 170680 | [170680-cyberdunk-anime-edition.json](./170680-cyberdunk-anime-edition.json) |
 | Cyberdyne Warrior | 47234 | [47234-cyberdyne-warrior.json](./47234-cyberdyne-warrior.json) |
 | Cyberemo 2007 | 380620 | [380620-cyberemo-2007.json](./380620-cyberemo-2007.json) |
 | CyberFall | 273511 | [273511-cyberfall.json](./273511-cyberfall.json) |
