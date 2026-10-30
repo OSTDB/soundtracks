@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
 | Santorini Board Game | 290291 | [290291-santorini-board-game.json](./290291-santorini-board-game.json) |
 | Santorini: Pocket Game | 200268 | [200268-santorini-pocket-game.json](./200268-santorini-pocket-game.json) |
+| Santria | 142619 | [142619-santria.json](./142619-santria.json) |
 | Santy is Home | 326778 | [326778-santy-is-home.json](./326778-santy-is-home.json) |
 | Sanxion | 23045 | [23045-sanxion.json](./23045-sanxion.json) |
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Prism | 413819 | [413819-scarlet-prism.json](./413819-scarlet-prism.json) |
 | Scarlet Rain | 274945 | [274945-scarlet-rain.json](./274945-scarlet-rain.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
+| Scarlet Rivensin: The Ruiner | 142046 | [142046-scarlet-rivensin-the-ruiner.json](./142046-scarlet-rivensin-the-ruiner.json) |
 | Scarlet Sails | 59689 | [59689-scarlet-sails.json](./59689-scarlet-sails.json) |
 | Scarlet Sand Sojourn | 266202 | [266202-scarlet-sand-sojourn.json](./266202-scarlet-sand-sojourn.json) |
 | Scarlet Shift | 366588 | [366588-scarlet-shift.json](./366588-scarlet-shift.json) |
@@ -3635,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Park Tycoon | 152029 | [152029-sea-park-tycoon.json](./152029-sea-park-tycoon.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
+| Sea Raiders | 142614 | [142614-sea-raiders.json](./142614-sea-raiders.json) |
 | Sea Ranger | 245411 | [245411-sea-ranger.json](./245411-sea-ranger.json) |
 | Sea Ranger | 346997 | [346997-sea-ranger.json](./346997-sea-ranger.json) |
 | Sea Ranger | 367839 | [367839-sea-ranger.json](./367839-sea-ranger.json) |
@@ -4708,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfloss | 118622 | [118622-selfloss.json](./118622-selfloss.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
+| Selfy Collection: The Dream Fashion Stylist! | 142039 | [142039-selfy-collection-the-dream-fashion-stylist.json](./142039-selfy-collection-the-dream-fashion-stylist.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
 | Selknam Defense | 10816 | [10816-selknam-defense.json](./10816-selknam-defense.json) |
 | Selkö | 229507 | [229507-selko.json](./229507-selko.json) |
@@ -4851,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkai Ibunroku Juntei Taisen | 282610 | [282610-senkai-ibunroku-juntei-taisen.json](./282610-senkai-ibunroku-juntei-taisen.json) |
 | Senkai Livin' | 392345 | [392345-senkai-livin.json](./392345-senkai-livin.json) |
 | Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori | 37313 | [37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json](./37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json) |
+| Senki Zesshou Symphogear XD Unlimited | 142616 | [142616-senki-zesshou-symphogear-xd-unlimited.json](./142616-senki-zesshou-symphogear-xd-unlimited.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
 | Senko no Ronde SP | 393832 | [393832-senko-no-ronde-sp.json](./393832-senko-no-ronde-sp.json) |
@@ -8466,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showa Candy Shop 3 | 153671 | [153671-showa-candy-shop-3.json](./153671-showa-candy-shop-3.json) |
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
 | Showcar Simulator: German Lowriders | 59341 | [59341-showcar-simulator-german-lowriders.json](./59341-showcar-simulator-german-lowriders.json) |
+| Showdown | 142025 | [142025-showdown.json](./142025-showdown.json) |
 | Showdown | 28525 | [28525-showdown.json](./28525-showdown.json) |
 | Showdown | 70804 | [70804-showdown.json](./70804-showdown.json) |
 | Showdown 64 | 256674 | [256674-showdown-64.json](./256674-showdown-64.json) |
@@ -11747,6 +11753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer of Traitors | 101273 | [101273-slayer-of-traitors.json](./101273-slayer-of-traitors.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slayer: The Demon Haunted World | 212150 | [212150-slayer-the-demon-haunted-world.json](./212150-slayer-the-demon-haunted-world.json) |
+| Slayer's Testament | 142049 | [142049-slayers-testament.json](./142049-slayers-testament.json) |
 | Slayers | 146653 | [146653-slayers.json](./146653-slayers.json) |
 | Slayers | 42462 | [42462-slayers.json](./42462-slayers.json) |
 | Slayers for Hire | 130661 | [130661-slayers-for-hire.json](./130661-slayers-for-hire.json) |
@@ -19137,6 +19144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere Complex | 30661 | [30661-sphere-complex.json](./30661-sphere-complex.json) |
 | Sphere Frustration | 43170 | [43170-sphere-frustration.json](./43170-sphere-frustration.json) |
+| Sphere Game | 142633 | [142633-sphere-game.json](./142633-sphere-game.json) |
 | Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
 | Sphere Game Epic | 164956 | [164956-sphere-game-epic.json](./164956-sphere-game-epic.json) |
 | Sphere Game Extreme | 187909 | [187909-sphere-game-extreme.json](./187909-sphere-game-extreme.json) |
@@ -26640,6 +26648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikko Gurashi: Gakkou Seikatsu Hajimerun Desu | 118269 | [118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json](./118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json) |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | 136902 | [136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json](./136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json) |
 | Sumikko Gurashi: Koko, Doko Nandesu? | 136908 | [136908-sumikko-gurashi-koko-doko-nandesu.json](./136908-sumikko-gurashi-koko-doko-nandesu.json) |
+| Sumikko Gurashi: Oheya no Sumi de Tabikibun Sugoroku | 142044 | [142044-sumikko-gurashi-oheya-no-sumi-de-tabikibun-sugoroku.json](./142044-sumikko-gurashi-oheya-no-sumi-de-tabikibun-sugoroku.json) |
 | Sumikko Gurashi: Omise Hajimerun Desu | 59889 | [59889-sumikko-gurashi-omise-hajimerun-desu.json](./59889-sumikko-gurashi-omise-hajimerun-desu.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
 | Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko | 297433 | [297433-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko.json](./297433-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko.json) |
@@ -27603,6 +27612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
 | Super Dashy Knight | 128849 | [128849-super-dashy-knight.json](./128849-super-dashy-knight.json) |
 | Super Dassalo Land | 313971 | [313971-super-dassalo-land.json](./313971-super-dassalo-land.json) |
+| Super Dead Mall | 142637 | [142637-super-dead-mall.json](./142637-super-dead-mall.json) |
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Death Game Show! VR | 243506 | [243506-super-death-game-show-vr.json](./243506-super-death-game-show-vr.json) |
