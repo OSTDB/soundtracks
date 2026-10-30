@@ -5279,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Souls of the Forest | 227963 | [227963-fire-emblem-souls-of-the-forest.json](./227963-fire-emblem-souls-of-the-forest.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
+| Fire Emblem: Sword of Heaven and Earth | 165313 | [165313-fire-emblem-sword-of-heaven-and-earth.json](./165313-fire-emblem-sword-of-heaven-and-earth.json) |
 | Fire Emblem: The Binding Blade - Project Ember | 181560 | [181560-fire-emblem-the-binding-blade-project-ember.json](./181560-fire-emblem-the-binding-blade-project-ember.json) |
 | Fire Emblem: The Dark Amulet | 382588 | [382588-fire-emblem-the-dark-amulet.json](./382588-fire-emblem-the-dark-amulet.json) |
 | Fire Emblem: The Dragon Herald | 214535 | [214535-fire-emblem-the-dragon-herald.json](./214535-fire-emblem-the-dragon-herald.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
 | Firepower 2000 | 19778 | [19778-firepower-2000.json](./19778-firepower-2000.json) |
+| Firepower for Microsoft Combat Flight Simulator 3 | 165323 | [165323-firepower-for-microsoft-combat-flight-simulator-3.json](./165323-firepower-for-microsoft-combat-flight-simulator-3.json) |
 | Firepower Forge | 275546 | [275546-firepower-forge.json](./275546-firepower-forge.json) |
 | FirePuzzle | 193066 | [193066-firepuzzle.json](./193066-firepuzzle.json) |
 | FireRun | 255250 | [255250-firerun.json](./255250-firerun.json) |
