@@ -5691,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Ball | 311206 | [311206-golden-ball.json](./311206-golden-ball.json) |
 | Golden Balls | 78081 | [78081-golden-balls.json](./78081-golden-balls.json) |
 | Golden Basket | 73598 | [73598-golden-basket.json](./73598-golden-basket.json) |
+| Golden Boy | 172331 | [172331-golden-boy.json](./172331-golden-boy.json) |
 | Golden Bros | 194152 | [194152-golden-bros.json](./194152-golden-bros.json) |
 | Golden Chambers | 253999 | [253999-golden-chambers.json](./253999-golden-chambers.json) |
 | Golden Desire: Fantasy Romance | 357123 | [357123-golden-desire-fantasy-romance.json](./357123-golden-desire-fantasy-romance.json) |
