@@ -2584,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day In Dementia | 103170 | [103170-day-in-dementia.json](./103170-day-in-dementia.json) |
 | Day in the Life | 177323 | [177323-day-in-the-life.json](./177323-day-in-the-life.json) |
 | Day in the Life of a Harpy | 126877 | [126877-day-in-the-life-of-a-harpy.json](./126877-day-in-the-life-of-a-harpy.json) |
+| Day in the Life of a Harpy 2 | 130553 | [130553-day-in-the-life-of-a-harpy-2.json](./130553-day-in-the-life-of-a-harpy-2.json) |
 | Day Island | 135747 | [135747-day-island.json](./135747-day-island.json) |
 | Day of Apocalypse: Escape from Earth | 183730 | [183730-day-of-apocalypse-escape-from-earth.json](./183730-day-of-apocalypse-escape-from-earth.json) |
 | Day of Atonement | 307889 | [307889-day-of-atonement.json](./307889-day-of-atonement.json) |
@@ -3473,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rush | 327277 | [327277-dead-rush.json](./327277-dead-rush.json) |
 | Dead Rush | 67806 | [67806-dead-rush.json](./67806-dead-rush.json) |
 | Dead Sale | 339369 | [339369-dead-sale.json](./339369-dead-sale.json) |
+| Dead Scope | 130511 | [130511-dead-scope.json](./130511-dead-scope.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
 | Dead Season | 295207 | [295207-dead-season.json](./295207-dead-season.json) |
@@ -15693,6 +15695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
 | Duck Side of the Moon | 318167 | [318167-duck-side-of-the-moon.json](./318167-duck-side-of-the-moon.json) |
+| Duck Simulator | 130547 | [130547-duck-simulator.json](./130547-duck-simulator.json) |
 | Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
 | Duck Souls+ | 131965 | [131965-duck-souls.json](./131965-duck-souls.json) |
 | Duck Tales SNES | 377743 | [377743-duck-tales-snes.json](./377743-duck-tales-snes.json) |
