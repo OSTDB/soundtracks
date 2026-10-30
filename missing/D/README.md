@@ -4172,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Sword Spirit | 310146 | [310146-death-sword-spirit.json](./310146-death-sword-spirit.json) |
 | Death Tales | 61517 | [61517-death-tales.json](./61517-death-tales.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
+| Death Taxi 3000 | 155901 | [155901-death-taxi-3000.json](./155901-death-taxi-3000.json) |
 | Death Tennis | 183734 | [183734-death-tennis.json](./183734-death-tennis.json) |
 | Death That Blooms Into a Flower | 388300 | [388300-death-that-blooms-into-a-flower.json](./388300-death-that-blooms-into-a-flower.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
@@ -7037,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detonator | 92369 | [92369-detonator.json](./92369-detonator.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
+| Detour Bus | 155823 | [155823-detour-bus.json](./155823-detour-bus.json) |
 | Detour: Highway Simulator | 16230 | [16230-detour-highway-simulator.json](./16230-detour-highway-simulator.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detours | 153795 | [153795-detours.json](./153795-detours.json) |
@@ -16476,6 +16478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Bombs | 143488 | [143488-dungeons-and-bombs.json](./143488-dungeons-and-bombs.json) |
 | Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
 | Dungeons & Cardboard | 290898 | [290898-dungeons-and-cardboard.json](./290898-dungeons-and-cardboard.json) |
+| Dungeons & Cocks | 155918 | [155918-dungeons-and-cocks.json](./155918-dungeons-and-cocks.json) |
 | Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
 | Dungeons & Dining Tables | 287484 | [287484-dungeons-and-dining-tables.json](./287484-dungeons-and-dining-tables.json) |
