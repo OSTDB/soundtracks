@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: Secrets of the Lost Cavern | 76145 | [76145-echo-secrets-of-the-lost-cavern.json](./76145-echo-secrets-of-the-lost-cavern.json) |
 | Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
 | Echo's Climb | 203942 | [203942-echos-climb.json](./203942-echos-climb.json) |
+| Echo's Esker | 132405 | [132405-echos-esker.json](./132405-echos-esker.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
 | Echocalypse: Scarlet Covenant | 208198 | [208198-echocalypse-scarlet-covenant.json](./208198-echocalypse-scarlet-covenant.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
@@ -3091,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En-Train | 159507 | [159507-en-train.json](./159507-en-train.json) |
 | Enadakina | 114251 | [114251-enadakina.json](./114251-enadakina.json) |
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
+| Enamored Risks | 132440 | [132440-enamored-risks.json](./132440-enamored-risks.json) |
 | EnantiO | 206233 | [206233-enantio.json](./206233-enantio.json) |
 | Enarian: Orbital Command | 415158 | [415158-enarian-orbital-command.json](./415158-enarian-orbital-command.json) |
 | Enatus Radi | 212216 | [212216-enatus-radi.json](./212216-enatus-radi.json) |
@@ -4652,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Ghosts | 385314 | [385314-escape-from-ghosts.json](./385314-escape-from-ghosts.json) |
 | Escape from Grimazel's Cottage | 410453 | [410453-escape-from-grimazels-cottage.json](./410453-escape-from-grimazels-cottage.json) |
 | Escape From Ground | 406563 | [406563-escape-from-ground.json](./406563-escape-from-ground.json) |
+| Escape from Gulag | 132441 | [132441-escape-from-gulag.json](./132441-escape-from-gulag.json) |
 | Escape From Hadrian's Wall | 372603 | [372603-escape-from-hadrians-wall.json](./372603-escape-from-hadrians-wall.json) |
 | Escape from Haon Island | 339768 | [339768-escape-from-haon-island.json](./339768-escape-from-haon-island.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
@@ -5593,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity: Farfalla the Holy sword | 105812 | [105812-eternity-farfalla-the-holy-sword.json](./105812-eternity-farfalla-the-holy-sword.json) |
 | Eternity's Echo: Patient Zero | 277453 | [277453-eternitys-echo-patient-zero.json](./277453-eternitys-echo-patient-zero.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
+| Eternower | 132404 | [132404-eternower.json](./132404-eternower.json) |
 | Eternum | 209628 | [209628-eternum.json](./209628-eternum.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan Lit 2 | 180404 | [180404-ethan-lit-2.json](./180404-ethan-lit-2.json) |
@@ -5705,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
 | Euphionia: The Tree Spirit's Curse | 330965 | [330965-euphionia-the-tree-spirits-curse.json](./330965-euphionia-the-tree-spirits-curse.json) |
 | Euphoria Games Bundle | 302513 | [302513-euphoria-games-bundle.json](./302513-euphoria-games-bundle.json) |
+| Euphoria: Supreme Mechanics | 132403 | [132403-euphoria-supreme-mechanics.json](./132403-euphoria-supreme-mechanics.json) |
 | Euphoria: Supreme Mechanics | 287033 | [287033-euphoria-supreme-mechanics.json](./287033-euphoria-supreme-mechanics.json) |
 | Euphoria: Supreme Mechanics VR | 377048 | [377048-euphoria-supreme-mechanics-vr.json](./377048-euphoria-supreme-mechanics-vr.json) |
 | Euphory | 62584 | [62584-euphory.json](./62584-euphory.json) |
