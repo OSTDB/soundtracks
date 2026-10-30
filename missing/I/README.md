@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
 | Idle Agency | 423290 | [423290-idle-agency.json](./423290-idle-agency.json) |
+| Idle Air Force Base | 135466 | [135466-idle-air-force-base.json](./135466-idle-air-force-base.json) |
 | Idle Aircraft Carrier | 256176 | [256176-idle-aircraft-carrier.json](./256176-idle-aircraft-carrier.json) |
 | Idle Airport CEO | 340518 | [340518-idle-airport-ceo.json](./340518-idle-airport-ceo.json) |
 | Idle Angels | 171895 | [171895-idle-angels.json](./171895-idle-angels.json) |
@@ -1500,6 +1501,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Sword 2 | 56925 | [56925-idle-sword-2.json](./56925-idle-sword-2.json) |
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
 | Idle Taoist Mage Warrior 2 | 298665 | [298665-idle-taoist-mage-warrior-2.json](./298665-idle-taoist-mage-warrior-2.json) |
+| Idle Tap Airport | 135467 | [135467-idle-tap-airport.json](./135467-idle-tap-airport.json) |
+| Idle Tap Builders | 135465 | [135465-idle-tap-builders.json](./135465-idle-tap-builders.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
 | Idle TD: Heroes vs Zombies | 160074 | [160074-idle-td-heroes-vs-zombies.json](./160074-idle-td-heroes-vs-zombies.json) |
 | Idle Team | 208174 | [208174-idle-team.json](./208174-idle-team.json) |
@@ -4095,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insight | 175657 | [175657-insight.json](./175657-insight.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
+| Insight of L | 135441 | [135441-insight-of-l.json](./135441-insight-of-l.json) |
 | Insight Room | 373803 | [373803-insight-room.json](./373803-insight-room.json) |
 | Insights: Maniac Vortex | 170974 | [170974-insights-maniac-vortex.json](./170974-insights-maniac-vortex.json) |
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
