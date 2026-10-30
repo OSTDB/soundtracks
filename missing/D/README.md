@@ -8630,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Dio's Bizarre Boutique | 184747 | [184747-dios-bizarre-boutique.json](./184747-dios-bizarre-boutique.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
+| Diodius: Premonition - Roots of Naka | 174511 | [174511-diodius-premonition-roots-of-naka.json](./174511-diodius-premonition-roots-of-naka.json) |
 | Dion | 338341 | [338341-dion.json](./338341-dion.json) |
 | Dionysos Wars | 277996 | [277996-dionysos-wars.json](./277996-dionysos-wars.json) |
 | Dionysus | 412410 | [412410-dionysus.json](./412410-dionysus.json) |
@@ -15192,6 +15193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk n Puke | 394135 | [394135-drunk-n-puke.json](./394135-drunk-n-puke.json) |
 | Drunk or Baby | 403622 | [403622-drunk-or-baby.json](./403622-drunk-or-baby.json) |
 | Drunk or Dead | 29830 | [29830-drunk-or-dead.json](./29830-drunk-or-dead.json) |
+| Drunk or Dead: On the Road | 174495 | [174495-drunk-or-dead-on-the-road.json](./174495-drunk-or-dead-on-the-road.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk ride | 123874 | [123874-drunk-ride.json](./123874-drunk-ride.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
