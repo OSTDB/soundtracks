@@ -4771,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Core: The Moon Mission | 284176 | [284176-phantom-core-the-moon-mission.json](./284176-phantom-core-the-moon-mission.json) |
 | Phantom Dash | 302789 | [302789-phantom-dash.json](./302789-phantom-dash.json) |
 | Phantom Demon Siege | 345026 | [345026-phantom-demon-siege.json](./345026-phantom-demon-siege.json) |
+| Phantom Detective | 127503 | [127503-phantom-detective.json](./127503-phantom-detective.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
 | Phantom Doctrine: Halloween Scare Tactics | 171081 | [171081-phantom-doctrine-halloween-scare-tactics.json](./171081-phantom-doctrine-halloween-scare-tactics.json) |
 | Phantom Doctrine: The Cabal | 138122 | [138122-phantom-doctrine-the-cabal.json](./138122-phantom-doctrine-the-cabal.json) |
@@ -7078,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piui Seoyak | 220285 | [220285-piui-seoyak.json](./220285-piui-seoyak.json) |
 | Piverantum | 261752 | [261752-piverantum.json](./261752-piverantum.json) |
 | Pivo | 132136 | [132136-pivo.json](./132136-pivo.json) |
+| Pivot | 127500 | [127500-pivot.json](./127500-pivot.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
 | Pivot Pilot | 30048 | [30048-pivot-pilot.json](./30048-pivot-pilot.json) |
 | Pivot Puzzles | 65780 | [65780-pivot-puzzles.json](./65780-pivot-puzzles.json) |
