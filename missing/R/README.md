@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
 | Rage 3 | 229889 | [229889-rage-3.json](./229889-rage-3.json) |
+| Rage Against the Machine | 143291 | [143291-rage-against-the-machine.json](./143291-rage-against-the-machine.json) |
 | Rage Against the Zombies | 30490 | [30490-rage-against-the-zombies.json](./30490-rage-against-the-zombies.json) |
 | Rage Bait | 379399 | [379399-rage-bait.json](./379399-rage-bait.json) |
 | Rage Boy | 110076 | [110076-rage-boy.json](./110076-rage-boy.json) |
@@ -4582,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rencounter | 33818 | [33818-rencounter.json](./33818-rencounter.json) |
 | Rend | 27770 | [27770-rend.json](./27770-rend.json) |
 | Rendagor | 372058 | [372058-rendagor.json](./372058-rendagor.json) |
+| Render96 | 143305 | [143305-render96.json](./143305-render96.json) |
 | Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
 | Rendering Ranger: R2 - Rewind | 203774 | [203774-rendering-ranger-r2-rewind.json](./203774-rendering-ranger-r2-rewind.json) |
 | Rendezvous | 144977 | [144977-rendezvous.json](./144977-rendezvous.json) |
