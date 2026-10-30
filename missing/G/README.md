@@ -8237,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Potions | 272759 | [272759-grim-potions.json](./272759-grim-potions.json) |
 | Grim Prix | 266756 | [266756-grim-prix.json](./266756-grim-prix.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
+| Grim Realms | 164203 | [164203-grim-realms.json](./164203-grim-realms.json) |
 | Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
 | Grim Road | 190443 | [190443-grim-road.json](./190443-grim-road.json) |
