@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainichi Issho | 72566 | [72566-mainichi-issho.json](./72566-mainichi-issho.json) |
 | Mainichi Kedamono!! Love Ero Momoiro School Life | 77925 | [77925-mainichi-kedamono-love-ero-momoiro-school-life.json](./77925-mainichi-kedamono-love-ero-momoiro-school-life.json) |
 | Mainichi Kotsu-kotsu Ore Tower | 395856 | [395856-mainichi-kotsu-kotsu-ore-tower.json](./395856-mainichi-kotsu-kotsu-ore-tower.json) |
+| Mainichi Nekoyoubi | 136622 | [136622-mainichi-nekoyoubi.json](./136622-mainichi-nekoyoubi.json) |
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
 | Mainichi Suteki! Hello Kitty no Life Kit | 3690 | [3690-mainichi-suteki-hello-kitty-no-life-kit.json](./3690-mainichi-suteki-hello-kitty-no-life-kit.json) |
 | Mainland | 274947 | [274947-mainland.json](./274947-mainland.json) |
@@ -6225,6 +6226,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Classics Kabuto Version | 136957 | [136957-medarot-classics-kabuto-version.json](./136957-medarot-classics-kabuto-version.json) |
 | Medarot Classics Kuwagata Version | 136953 | [136953-medarot-classics-kuwagata-version.json](./136953-medarot-classics-kuwagata-version.json) |
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
+| Medarot Classics Plus: Advanced Edition | 136635 | [136635-medarot-classics-plus-advanced-edition.json](./136635-medarot-classics-plus-advanced-edition.json) |
+| Medarot Classics Plus: Kuwagata Version | 136633 | [136633-medarot-classics-plus-kuwagata-version.json](./136633-medarot-classics-plus-kuwagata-version.json) |
 | Medarot Classics: 20th Anniversary Edition | 136891 | [136891-medarot-classics-20th-anniversary-edition.json](./136891-medarot-classics-20th-anniversary-edition.json) |
 | Medarot DS | 124483 | [124483-medarot-ds.json](./124483-medarot-ds.json) |
 | Medarot DS Kuwagata | 229104 | [229104-medarot-ds-kuwagata.json](./229104-medarot-ds-kuwagata.json) |
@@ -8726,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid Master Collection: Volume 1 - Day One Edition | 274056 | [274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json](./274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json) |
 | Metal Gear Solid Master Collection: Volume 2 | 389433 | [389433-metal-gear-solid-master-collection-volume-2.json](./389433-metal-gear-solid-master-collection-volume-2.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
+| Metal Gear Solid V: Ground Zeroes + The Phantom Pain | 136680 | [136680-metal-gear-solid-v-ground-zeroes-the-phantom-pain.json](./136680-metal-gear-solid-v-ground-zeroes-the-phantom-pain.json) |
 | Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
 | Metal Gear Solid V: The Definitive Subsistence Update | 377209 | [377209-metal-gear-solid-v-the-definitive-subsistence-update.json](./377209-metal-gear-solid-v-the-definitive-subsistence-update.json) |
 | Metal Gear Solid V: The Phantom Pain - Day One Edition | 136221 | [136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json](./136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json) |
@@ -12949,6 +12953,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Extreme Vs. Full Boost | 23434 | [23434-mobile-suit-gundam-extreme-vs-full-boost.json](./23434-mobile-suit-gundam-extreme-vs-full-boost.json) |
 | Mobile Suit Gundam: Extreme Vs. Full Boost - Premium G Sound Edition | 136810 | [136810-mobile-suit-gundam-extreme-vs-full-boost-premium-g-sound-edition.json](./136810-mobile-suit-gundam-extreme-vs-full-boost-premium-g-sound-edition.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
+| Mobile Suit Gundam: Extreme Vs. Maxi Boost ON - Collector's Edition | 136679 | [136679-mobile-suit-gundam-extreme-vs-maxi-boost-on-collectors-edition.json](./136679-mobile-suit-gundam-extreme-vs-maxi-boost-on-collectors-edition.json) |
+| Mobile Suit Gundam: Extreme vs. Maxi Boost ON - Premium Sound Edition | 136640 | [136640-mobile-suit-gundam-extreme-vs-maxi-boost-on-premium-sound-edition.json](./136640-mobile-suit-gundam-extreme-vs-maxi-boost-on-premium-sound-edition.json) |
 | Mobile Suit Gundam: Extreme vs. Maxiboost - On | 128773 | [128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json](./128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
 | Mobile Suit Gundam: Federation vs. Zeon DX | 43205 | [43205-mobile-suit-gundam-federation-vs-zeon-dx.json](./43205-mobile-suit-gundam-federation-vs-zeon-dx.json) |
