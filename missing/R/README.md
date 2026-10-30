@@ -4587,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renaine | 74723 | [74723-renaine.json](./74723-renaine.json) |
 | Renaissance Fighters | 220187 | [220187-renaissance-fighters.json](./220187-renaissance-fighters.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
+| Renal Summer | 135429 | [135429-renal-summer.json](./135429-renal-summer.json) |
 | Rename the History | 334326 | [334326-rename-the-history.json](./334326-rename-the-history.json) |
 | Renard's Skin Care Routine | 378901 | [378901-renards-skin-care-routine.json](./378901-renards-skin-care-routine.json) |
 | Renascor | 389677 | [389677-renascor.json](./389677-renascor.json) |
@@ -5422,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Force | 45017 | [45017-retro-force.json](./45017-retro-force.json) |
 | Retro Formula 3D | 239226 | [239226-retro-formula-3d.json](./239226-retro-formula-3d.json) |
 | Retro Gadgets | 219688 | [219688-retro-gadgets.json](./219688-retro-gadgets.json) |
+| Retro Game Aliens | 135430 | [135430-retro-game-aliens.json](./135430-retro-game-aliens.json) |
 | Retro Game Challenge | 21251 | [21251-retro-game-challenge.json](./21251-retro-game-challenge.json) |
 | Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
@@ -10472,6 +10474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
 | RozenDiadem | 213909 | [213909-rozendiadem.json](./213909-rozendiadem.json) |
 | Rozkol | 36474 | [36474-rozkol.json](./36474-rozkol.json) |
+| RP7: Spin Your Own Encounter | 135431 | [135431-rp7-spin-your-own-encounter.json](./135431-rp7-spin-your-own-encounter.json) |
 | RPaints | 91727 | [91727-rpaints.json](./91727-rpaints.json) |
 | RPG Alchemy | 258092 | [258092-rpg-alchemy.json](./258092-rpg-alchemy.json) |
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
