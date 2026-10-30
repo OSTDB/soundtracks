@@ -12520,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | Presidential Social Media Manager | 359345 | [359345-presidential-social-media-manager.json](./359345-presidential-social-media-manager.json) |
 | Presidents Tower Defense | 295158 | [295158-presidents-tower-defense.json](./295158-presidents-tower-defense.json) |
+| Presidents vs. Aliens | 175509 | [175509-presidents-vs-aliens.json](./175509-presidents-vs-aliens.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press “A” to Party | 147712 | [147712-press-a-to-party.json](./147712-press-a-to-party.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
