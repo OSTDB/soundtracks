@@ -3044,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Clover Character Pack | 225114 | [225114-payday-2-clover-character-pack.json](./225114-payday-2-clover-character-pack.json) |
 | Payday 2: Crimewave Edition | 20041 | [20041-payday-2-crimewave-edition.json](./20041-payday-2-crimewave-edition.json) |
 | Payday 2: Crimewave Edition - GOAT Simulator Heists | 164579 | [164579-payday-2-crimewave-edition-goat-simulator-heists.json](./164579-payday-2-crimewave-edition-goat-simulator-heists.json) |
+| Payday 2: Crimewave Edition - Scarface Heist | 164742 | [164742-payday-2-crimewave-edition-scarface-heist.json](./164742-payday-2-crimewave-edition-scarface-heist.json) |
 | Payday 2: Crude Awakening Heist | 255475 | [255475-payday-2-crude-awakening-heist.json](./255475-payday-2-crude-awakening-heist.json) |
 | Payday 2: Dragan Character Pack | 225115 | [225115-payday-2-dragan-character-pack.json](./225115-payday-2-dragan-character-pack.json) |
 | Payday 2: Dragon Pack | 225117 | [225117-payday-2-dragon-pack.json](./225117-payday-2-dragon-pack.json) |
