@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZemuRunner | 103980 | [103980-zemurunner.json](./103980-zemurunner.json) |
 | Zen | 180128 | [180128-zen.json](./180128-zen.json) |
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
+| Zen and the Art of Transhumanism | 146471 | [146471-zen-and-the-art-of-transhumanism.json](./146471-zen-and-the-art-of-transhumanism.json) |
 | Zen Beauty | 326256 | [326256-zen-beauty.json](./326256-zen-beauty.json) |
 | Zen Blocks | 74480 | [74480-zen-blocks.json](./74480-zen-blocks.json) |
 | Zen Blossom | 220221 | [220221-zen-blossom.json](./220221-zen-blossom.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2 DS | 20773 | [20773-zoo-tycoon-2-ds.json](./20773-zoo-tycoon-2-ds.json) |
 | Zoo Tycoon 2: African Adventure | 70116 | [70116-zoo-tycoon-2-african-adventure.json](./70116-zoo-tycoon-2-african-adventure.json) |
 | Zoo Tycoon 2: Arabian Nights | 378442 | [378442-zoo-tycoon-2-arabian-nights.json](./378442-zoo-tycoon-2-arabian-nights.json) |
+| Zoo Tycoon 2: Dino Danger Pack | 147018 | [147018-zoo-tycoon-2-dino-danger-pack.json](./147018-zoo-tycoon-2-dino-danger-pack.json) |
 | Zoo Tycoon 2: Endangered Species | 79604 | [79604-zoo-tycoon-2-endangered-species.json](./79604-zoo-tycoon-2-endangered-species.json) |
 | Zoo Tycoon 2: Extinct Animals | 21528 | [21528-zoo-tycoon-2-extinct-animals.json](./21528-zoo-tycoon-2-extinct-animals.json) |
 | Zoo Tycoon 2: Folksy Facelift | 381899 | [381899-zoo-tycoon-2-folksy-facelift.json](./381899-zoo-tycoon-2-folksy-facelift.json) |
