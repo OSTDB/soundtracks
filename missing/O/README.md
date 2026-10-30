@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik | 27338 | [27338-oik.json](./27338-oik.json) |
 | Oik 2 | 29078 | [29078-oik-2.json](./29078-oik-2.json) |
 | Oik 3 | 74196 | [74196-oik-3.json](./74196-oik-3.json) |
+| Oik 3D | 139619 | [139619-oik-3d.json](./139619-oik-3d.json) |
 | Oik 4 | 104564 | [104564-oik-4.json](./104564-oik-4.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
 | Oik Memory | 81155 | [81155-oik-memory.json](./81155-oik-memory.json) |
@@ -3390,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb 2 | 408650 | [408650-orb-2.json](./408650-orb-2.json) |
 | Orb 2: The New Levels | 408716 | [408716-orb-2-the-new-levels.json](./408716-orb-2-the-new-levels.json) |
 | Orb 3 | 408720 | [408720-orb-3.json](./408720-orb-3.json) |
+| Orb and the Stars | 139612 | [139612-orb-and-the-stars.json](./139612-orb-and-the-stars.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
 | Orb Breaker | 405318 | [405318-orb-breaker.json](./405318-orb-breaker.json) |
 | Orb Devils | 239606 | [239606-orb-devils.json](./239606-orb-devils.json) |
@@ -5282,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overworld Heroes | 216964 | [216964-overworld-heroes.json](./216964-overworld-heroes.json) |
 | Overwrite | 145926 | [145926-overwrite.json](./145926-overwrite.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
+| Ovine Replica | 140772 | [140772-ovine-replica.json](./140772-ovine-replica.json) |
 | OviPets | 225715 | [225715-ovipets.json](./225715-ovipets.json) |
 | Oviraptor Hazard | 361343 | [361343-oviraptor-hazard.json](./361343-oviraptor-hazard.json) |
 | Ovis Loop | 236916 | [236916-ovis-loop.json](./236916-ovis-loop.json) |
