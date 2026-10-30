@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namachuukei 68 | 127787 | [127787-namachuukei-68.json](./127787-namachuukei-68.json) |
 | Namae no Nai Yoru | 201077 | [201077-namae-no-nai-yoru.json](./201077-namae-no-nai-yoru.json) |
 | Namaiki Dark Elf 3 Shimai ga Boku ni Nakadashi o Motomeru. | 108976 | [108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json](./108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json) |
+| Namaiki Dark Elf Sisters | 173389 | [173389-namaiki-dark-elf-sisters.json](./173389-namaiki-dark-elf-sisters.json) |
 | Namakorium | 363010 | [363010-namakorium.json](./363010-namakorium.json) |
 | Namariel Legends: Iron Lord | 140314 | [140314-namariel-legends-iron-lord.json](./140314-namariel-legends-iron-lord.json) |
 | Namariel Legends: Iron Lord - Collector's Edition | 251484 | [251484-namariel-legends-iron-lord-collectors-edition.json](./251484-namariel-legends-iron-lord-collectors-edition.json) |
@@ -5351,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Cradle | 85313 | [85313-noahs-cradle.json](./85313-noahs-cradle.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
+| Noah's Heart | 173413 | [173413-noahs-heart.json](./173413-noahs-heart.json) |
 | Noah's Quest | 399854 | [399854-noahs-quest.json](./399854-noahs-quest.json) |
 | Noahmund | 96249 | [96249-noahmund.json](./96249-noahmund.json) |
 | Noalone | 250317 | [250317-noalone.json](./250317-noalone.json) |
