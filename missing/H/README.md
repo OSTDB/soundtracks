@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Dye | 400052 | [400052-hair-dye.json](./400052-hair-dye.json) |
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
+| Hair of the Dog | 144638 | [144638-hair-of-the-dog.json](./144638-hair-of-the-dog.json) |
 | Hair Removal Salon Simulator | 412917 | [412917-hair-removal-salon-simulator.json](./412917-hair-removal-salon-simulator.json) |
 | Hair Salon: Cool Stories | 237376 | [237376-hair-salon-cool-stories.json](./237376-hair-salon-cool-stories.json) |
 | Hair Tattoo: Barbershop Master | 208920 | [208920-hair-tattoo-barbershop-master.json](./208920-hair-tattoo-barbershop-master.json) |
@@ -8682,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Dynasty: Rise of a Legend | 411682 | [411682-hoop-dynasty-rise-of-a-legend.json](./411682-hoop-dynasty-rise-of-a-legend.json) |
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
 | Hoop Fighters | 236724 | [236724-hoop-fighters.json](./236724-hoop-fighters.json) |
+| Hoop Gawds | 143899 | [143899-hoop-gawds.json](./143899-hoop-gawds.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
 | Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
@@ -8789,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope's Farm | 127000 | [127000-hopes-farm.json](./127000-hopes-farm.json) |
 | Hope's Journey: A Therapeutic Experience | 158570 | [158570-hopes-journey-a-therapeutic-experience.json](./158570-hopes-journey-a-therapeutic-experience.json) |
 | Hope's Peak | 134985 | [134985-hopes-peak.json](./134985-hopes-peak.json) |
+| Hopebringers | 143898 | [143898-hopebringers.json](./143898-hopebringers.json) |
 | Hopeful Day Inside Room | 325382 | [325382-hopeful-day-inside-room.json](./325382-hopeful-day-inside-room.json) |
 | Hopeguard | 340480 | [340480-hopeguard.json](./340480-hopeguard.json) |
 | HopeLand | 211205 | [211205-hopeland.json](./211205-hopeland.json) |
@@ -9124,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse and Go Seek | 197041 | [197041-horse-and-go-seek.json](./197041-horse-and-go-seek.json) |
 | Horse Blocks - Puzzle Games | 100719 | [100719-horse-blocks-puzzle-games.json](./100719-horse-blocks-puzzle-games.json) |
 | Horse Camp | 209884 | [209884-horse-camp.json](./209884-horse-camp.json) |
+| Horse Club Adventures | 144526 | [144526-horse-club-adventures.json](./144526-horse-club-adventures.json) |
 | Horse Club Adventures 2: Gold Edition | 252625 | [252625-horse-club-adventures-2-gold-edition.json](./252625-horse-club-adventures-2-gold-edition.json) |
 | Horse Club Adventures 2: Hazelwood Stories | 210914 | [210914-horse-club-adventures-2-hazelwood-stories.json](./210914-horse-club-adventures-2-hazelwood-stories.json) |
 | Horse Club Adventures 2: Secrets of Skeifa | 252624 | [252624-horse-club-adventures-2-secrets-of-skeifa.json](./252624-horse-club-adventures-2-secrets-of-skeifa.json) |
