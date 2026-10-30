@@ -21309,6 +21309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | Tirsy's Tale | 207611 | [207611-tirsys-tale.json](./207611-tirsys-tale.json) |
+| Tirta | 154777 | [154777-tirta.json](./154777-tirta.json) |
 | TIS-100 | 22726 | [22726-tis-100.json](./22726-tis-100.json) |
 | TIS-100P | 197651 | [197651-tis-100p.json](./197651-tis-100p.json) |
 | Tisis | 407788 | [407788-tisis.json](./407788-tisis.json) |
