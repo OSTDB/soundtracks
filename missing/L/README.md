@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
 | Light2Live | 153860 | [153860-light2live.json](./153860-light2live.json) |
 | Lightale | 131328 | [131328-lightale.json](./131328-lightale.json) |
+| LightBall | 167476 | [167476-lightball.json](./167476-lightball.json) |
 | Lightballs | 245833 | [245833-lightballs.json](./245833-lightballs.json) |
 | LightBear | 268994 | [268994-lightbear.json](./268994-lightbear.json) |
 | LightBear: Grizzelda Returns | 289008 | [289008-lightbear-grizzelda-returns.json](./289008-lightbear-grizzelda-returns.json) |
