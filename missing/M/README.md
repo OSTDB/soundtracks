@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.I.C.E. | 168676 | [168676-m-i-c-e.json](./168676-m-i-c-e.json) |
 | M.I.N.D. | 95234 | [95234-m-i-n-d.json](./95234-m-i-n-d.json) |
 | M.I.N.S.K. | 331788 | [331788-m-i-n-s-k.json](./331788-m-i-n-s-k.json) |
+| M.I.S.V VR | 173963 | [173963-m-i-s-v-vr.json](./173963-m-i-s-v-vr.json) |
 | M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
 | M.O.R.E. | 97979 | [97979-m-o-r-e.json](./97979-m-o-r-e.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
 | Maze Mania | 137858 | [137858-maze-mania.json](./137858-maze-mania.json) |
+| Maze Mania: The Ultimate 3D Maze Game | 173976 | [173976-maze-mania-the-ultimate-3d-maze-game.json](./173976-maze-mania-the-ultimate-3d-maze-game.json) |
 | Maze Mart | 208248 | [208248-maze-mart.json](./208248-maze-mart.json) |
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
@@ -8064,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital III HD | 212783 | [212783-mental-hospital-iii-hd.json](./212783-mental-hospital-iii-hd.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
+| Mental Hospital: Child of Evil | 173968 | [173968-mental-hospital-child-of-evil.json](./173968-mental-hospital-child-of-evil.json) |
 | Mental Math Madness | 301869 | [301869-mental-math-madness.json](./301869-mental-math-madness.json) |
 | Mental Math Tutor | 187186 | [187186-mental-math-tutor.json](./187186-mental-math-tutor.json) |
 | Mental Medicine | 405680 | [405680-mental-medicine.json](./405680-mental-medicine.json) |
@@ -8452,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesa | 252098 | [252098-mesa.json](./252098-mesa.json) |
 | Mesektet | 418543 | [418543-mesektet.json](./418543-mesektet.json) |
+| MesetaMiner: CodeName | 173973 | [173973-mesetaminer-codename.json](./173973-mesetaminer-codename.json) |
 | Meseugaki Yeong-ae-nim! | 232426 | [232426-meseugaki-yeong-ae-nim.json](./232426-meseugaki-yeong-ae-nim.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meshchera | 415882 | [415882-meshchera.json](./415882-meshchera.json) |
@@ -11175,6 +11179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | Minesweeper Versus | 143410 | [143410-minesweeper-versus.json](./143410-minesweeper-versus.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
+| Minesweeper X | 173981 | [173981-minesweeper-x.json](./173981-minesweeper-x.json) |
 | Minesweeper X | 87547 | [87547-minesweeper-x.json](./87547-minesweeper-x.json) |
 | Minesweeper: Collector | 171440 | [171440-minesweeper-collector.json](./171440-minesweeper-collector.json) |
 | Minesweeper: Next-Gen | 403630 | [403630-minesweeper-next-gen.json](./403630-minesweeper-next-gen.json) |
@@ -12205,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission | 179530 | [179530-mission.json](./179530-mission.json) |
 | Mission | 246351 | [246351-mission.json](./246351-mission.json) |
 | Mission 1545 | 76561 | [76561-mission-1545.json](./76561-mission-1545.json) |
+| Mission 1985 | 173977 | [173977-mission-1985.json](./173977-mission-1985.json) |
 | Mission 3000 | 71781 | [71781-mission-3000.json](./71781-mission-3000.json) |
 | Mission 3000 A.D. | 40591 | [40591-mission-3000-a-d.json](./40591-mission-3000-a-d.json) |
 | Mission 9 | 131897 | [131897-mission-9.json](./131897-mission-9.json) |
