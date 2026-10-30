@@ -9502,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 2205: Wildwater Bay | 24870 | [24870-anno-2205-wildwater-bay.json](./24870-anno-2205-wildwater-bay.json) |
 | Anno Domini 1257 | 356207 | [356207-anno-domini-1257.json](./356207-anno-domini-1257.json) |
 | Anno Domini 1259 | 356151 | [356151-anno-domini-1259.json](./356151-anno-domini-1259.json) |
+| Anno History Collection | 136078 | [136078-anno-history-collection.json](./136078-anno-history-collection.json) |
 | Anno Mitsumasa Pepperon-mura no Shiki | 245246 | [245246-anno-mitsumasa-pepperon-mura-no-shiki.json](./245246-anno-mitsumasa-pepperon-mura-no-shiki.json) |
 | Anno Online | 8111 | [8111-anno-online.json](./8111-anno-online.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
@@ -10145,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aojuji Hospital: Tokyo Eidolic Anatomy Division | 255596 | [255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json](./255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json) |
 | Aokaki | 304947 | [304947-aokaki.json](./304947-aokaki.json) |
 | Aokana: Four Rhythms Across the Blue | 54630 | [54630-aokana-four-rhythms-across-the-blue.json](./54630-aokana-four-rhythms-across-the-blue.json) |
+| Aokana: Four Rhythms Across the Blue - Limited Edition | 136058 | [136058-aokana-four-rhythms-across-the-blue-limited-edition.json](./136058-aokana-four-rhythms-across-the-blue-limited-edition.json) |
 | Aokana: Four Rhythms Across the Blue Extra1 | 124028 | [124028-aokana-four-rhythms-across-the-blue-extra1.json](./124028-aokana-four-rhythms-across-the-blue-extra1.json) |
 | Aokana: Four Rhythms Across the Blue Extra2 | 130008 | [130008-aokana-four-rhythms-across-the-blue-extra2.json](./130008-aokana-four-rhythms-across-the-blue-extra2.json) |
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
@@ -10284,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends Showdown | 396542 | [396542-apex-legends-showdown.json](./396542-apex-legends-showdown.json) |
 | Apex Legends: Arsenal | 249282 | [249282-apex-legends-arsenal.json](./249282-apex-legends-arsenal.json) |
 | Apex Legends: Bangalore Edition | 170286 | [170286-apex-legends-bangalore-edition.json](./170286-apex-legends-bangalore-edition.json) |
+| Apex Legends: Bloodhound Edition | 136064 | [136064-apex-legends-bloodhound-edition.json](./136064-apex-legends-bloodhound-edition.json) |
 | Apex Legends: Champions Edition | 140895 | [140895-apex-legends-champions-edition.json](./140895-apex-legends-champions-edition.json) |
 | Apex Legends: Defiance | 188649 | [188649-apex-legends-defiance.json](./188649-apex-legends-defiance.json) |
 | Apex Legends: Eclipse | 223471 | [223471-apex-legends-eclipse.json](./223471-apex-legends-eclipse.json) |
@@ -10293,6 +10296,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Gibraltar Edition | 146158 | [146158-apex-legends-gibraltar-edition.json](./146158-apex-legends-gibraltar-edition.json) |
 | Apex Legends: Hunted | 210618 | [210618-apex-legends-hunted.json](./210618-apex-legends-hunted.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
+| Apex Legends: Lifeline and Bloodhound Double Pack | 136065 | [136065-apex-legends-lifeline-and-bloodhound-double-pack.json](./136065-apex-legends-lifeline-and-bloodhound-double-pack.json) |
+| Apex Legends: Lifeline Edition | 136063 | [136063-apex-legends-lifeline-edition.json](./136063-apex-legends-lifeline-edition.json) |
 | Apex Legends: Loba Edition | 179296 | [179296-apex-legends-loba-edition.json](./179296-apex-legends-loba-edition.json) |
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
 | Apex Legends: Octane Edition | 136188 | [136188-apex-legends-octane-edition.json](./136188-apex-legends-octane-edition.json) |
