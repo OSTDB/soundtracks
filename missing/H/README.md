@@ -7418,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitler Loves Anime | 389767 | [389767-hitler-loves-anime.json](./389767-hitler-loves-anime.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
+| Hitler on the Moon | 154766 | [154766-hitler-on-the-moon.json](./154766-hitler-on-the-moon.json) |
 | Hitm3 | 291870 | [291870-hitm3.json](./291870-hitm3.json) |
 | Hitmaker Tycoon | 395704 | [395704-hitmaker-tycoon.json](./395704-hitmaker-tycoon.json) |
 | Hitman | 218314 | [218314-hitman.json](./218314-hitman.json) |
