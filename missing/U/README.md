@@ -2376,10 +2376,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
 | Uno Online | 242116 | [242116-uno-online.json](./242116-uno-online.json) |
 | Uno x Anime | 387575 | [387575-uno-x-anime.json](./387575-uno-x-anime.json) |
+| Uno: 50th Anniversary | 151937 | [151937-uno-50th-anniversary.json](./151937-uno-50th-anniversary.json) |
 | Uno: Arcade Edition | 346722 | [346722-uno-arcade-edition.json](./346722-uno-arcade-edition.json) |
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
+| Uno: Flip | 151936 | [151936-uno-flip.json](./151936-uno-flip.json) |
+| Uno: Just Dance Theme DLC | 151938 | [151938-uno-just-dance-theme-dlc.json](./151938-uno-just-dance-theme-dlc.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Uno: Party! Mania | 323831 | [323831-uno-party-mania.json](./323831-uno-party-mania.json) |
+| Uno: Rayman Theme DLC | 151939 | [151939-uno-rayman-theme-dlc.json](./151939-uno-rayman-theme-dlc.json) |
 | Uno: Small World | 61393 | [61393-uno-small-world.json](./61393-uno-small-world.json) |
 | Uno: The Call of Yara | 176112 | [176112-uno-the-call-of-yara.json](./176112-uno-the-call-of-yara.json) |
 | Uno: Winter Theme DLC | 153165 | [153165-uno-winter-theme-dlc.json](./153165-uno-winter-theme-dlc.json) |
