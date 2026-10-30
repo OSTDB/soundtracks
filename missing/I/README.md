@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-Ninja 2 | 307672 | [307672-i-ninja-2.json](./307672-i-ninja-2.json) |
 | I-War | 40820 | [40820-i-war.json](./40820-i-war.json) |
 | I・S・U | 96236 | [96236-i-s-u.json](./96236-i-s-u.json) |
+| I, AI | 143897 | [143897-i-ai.json](./143897-i-ai.json) |
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I, Damiano | 24671 | [24671-i-damiano.json](./24671-i-damiano.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incompatible Species | 55129 | [55129-incompatible-species.json](./55129-incompatible-species.json) |
 | Incompetent Alchemist | 120087 | [120087-incompetent-alchemist.json](./120087-incompetent-alchemist.json) |
 | Inconceivable Rat Endeavour | 330087 | [330087-inconceivable-rat-endeavour.json](./330087-inconceivable-rat-endeavour.json) |
+| Inconsistencies | 143900 | [143900-inconsistencies.json](./143900-inconsistencies.json) |
 | Inconvenience Store | 177780 | [177780-inconvenience-store.json](./177780-inconvenience-store.json) |
 | Incorp Inc | 30135 | [30135-incorp-inc.json](./30135-incorp-inc.json) |
 | Incorporeal | 370737 | [370737-incorporeal.json](./370737-incorporeal.json) |
@@ -3261,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernoculus | 180465 | [180465-infernoculus.json](./180465-infernoculus.json) |
 | Infernovasion | 269663 | [269663-infernovasion.json](./269663-infernovasion.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
+| Infernum Peak | 144527 | [144527-infernum-peak.json](./144527-infernum-peak.json) |
 | Inferos Numine: Descent Into Darkness | 211092 | [211092-inferos-numine-descent-into-darkness.json](./211092-inferos-numine-descent-into-darkness.json) |
 | Infest | 244608 | [244608-infest.json](./244608-infest.json) |
 | Infestation | 9119 | [9119-infestation.json](./9119-infestation.json) |
@@ -3371,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Fleet | 185922 | [185922-infinite-fleet.json](./185922-infinite-fleet.json) |
 | Infinite Flight Checklist | 106909 | [106909-infinite-flight-checklist.json](./106909-infinite-flight-checklist.json) |
 | Infinite Forest Idle | 277433 | [277433-infinite-forest-idle.json](./277433-infinite-forest-idle.json) |
+| Infinite Galaxy | 144543 | [144543-infinite-galaxy.json](./144543-infinite-galaxy.json) |
 | Infinite Game Cartridge Collection: Dungeon Grove | 385420 | [385420-infinite-game-cartridge-collection-dungeon-grove.json](./385420-infinite-game-cartridge-collection-dungeon-grove.json) |
 | Infinite Game Works Episode 0 | 36316 | [36316-infinite-game-works-episode-0.json](./36316-infinite-game-works-episode-0.json) |
 | Infinite Game Works Episode 1 | 36214 | [36214-infinite-game-works-episode-1.json](./36214-infinite-game-works-episode-1.json) |
