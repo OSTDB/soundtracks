@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
 | Jet Rush 2 | 358731 | [358731-jet-rush-2.json](./358731-jet-rush-2.json) |
 | Jet Scalawag: The King of Shooters | 327158 | [327158-jet-scalawag-the-king-of-shooters.json](./327158-jet-scalawag-the-king-of-shooters.json) |
+| Jet Set Corps | 172947 | [172947-jet-set-corps.json](./172947-jet-set-corps.json) |
 | Jet Set Gertie | 380103 | [380103-jet-set-gertie.json](./380103-jet-set-gertie.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
 | Jet Set Radio | 21004 | [21004-jet-set-radio.json](./21004-jet-set-radio.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoiLab VR | 309755 | [309755-joilab-vr.json](./309755-joilab-vr.json) |
 | Join 4 | 232301 | [232301-join-4.json](./232301-join-4.json) |
 | Join It | 256246 | [256246-join-it.json](./256246-join-it.json) |
+| Join Rush Attack | 172945 | [172945-join-rush-attack.json](./172945-join-rush-attack.json) |
 | Join Tiles: Anatolian Game to Play | 260720 | [260720-join-tiles-anatolian-game-to-play.json](./260720-join-tiles-anatolian-game-to-play.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
