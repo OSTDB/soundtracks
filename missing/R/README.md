@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
 | Read Watch Listen Plan | 404658 | [404658-read-watch-listen-plan.json](./404658-read-watch-listen-plan.json) |
 | Read, Write, & Type | 314139 | [314139-read-write-and-type.json](./314139-read-write-and-type.json) |
+| Reader Rabbit | 133587 | [133587-reader-rabbit.json](./133587-reader-rabbit.json) |
 | Reader Rabbit 1 | 80516 | [80516-reader-rabbit-1.json](./80516-reader-rabbit-1.json) |
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
 | Reader Rabbit 1st Grade: Capers on Cloud Nine | 139351 | [139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json](./139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json) |
@@ -5773,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant: Through the Veil | 352288 | [352288-revenant-through-the-veil.json](./352288-revenant-through-the-veil.json) |
 | Revenant's Reach | 385405 | [385405-revenants-reach.json](./385405-revenants-reach.json) |
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
+| RevenBlade | 133588 | [133588-revenblade.json](./133588-revenblade.json) |
 | Revengate | 398012 | [398012-revengate.json](./398012-revengate.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge II | 281240 | [281240-revenge-ii.json](./281240-revenge-ii.json) |
@@ -8199,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotherapy | 212058 | [212058-robotherapy.json](./212058-robotherapy.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
+| Robotic Legends | 133626 | [133626-robotic-legends.json](./133626-robotic-legends.json) |
 | Robotic Space Zamboni | 372188 | [372188-robotic-space-zamboni.json](./372188-robotic-space-zamboni.json) |
 | Robotic Worlds | 146692 | [146692-robotic-worlds.json](./146692-robotic-worlds.json) |
 | Robotica | 19744 | [19744-robotica.json](./19744-robotica.json) |
@@ -11432,6 +11435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
 | Rural Racer | 405597 | [405597-rural-racer.json](./405597-rural-racer.json) |
 | Ruri Iro no Yuki | 108840 | [108840-ruri-iro-no-yuki.json](./108840-ruri-iro-no-yuki.json) |
+| Ruri Shot!! | 133614 | [133614-ruri-shot.json](./133614-ruri-shot.json) |
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Rurizakura | 157566 | [157566-rurizakura.json](./157566-rurizakura.json) |
 | Rurouni Kenshin: Meiji Kenkaku Roman-tan - Ishin Gekitou-hen | 44771 | [44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json](./44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json) |
