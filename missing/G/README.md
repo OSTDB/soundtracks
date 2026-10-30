@@ -4078,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
 | Girls on Campus, from Freshmen to Faculty, All Fall for Me! | 313536 | [313536-girls-on-campus-from-freshmen-to-faculty-all-fall-for-me.json](./313536-girls-on-campus-from-freshmen-to-faculty-all-fall-for-me.json) |
 | Girls on puzzle | 156625 | [156625-girls-on-puzzle.json](./156625-girls-on-puzzle.json) |
+| Girls on puzzle 2 | 156842 | [156842-girls-on-puzzle-2.json](./156842-girls-on-puzzle-2.json) |
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
 | Girls on Tanks | 98504 | [98504-girls-on-tanks.json](./98504-girls-on-tanks.json) |
 | Girls Only | 209752 | [209752-girls-only.json](./209752-girls-only.json) |
@@ -4231,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators of the Arena | 90403 | [90403-gladiators-of-the-arena.json](./90403-gladiators-of-the-arena.json) |
 | Gladiators Simulator: The Champions of Liberty | 342399 | [342399-gladiators-simulator-the-champions-of-liberty.json](./342399-gladiators-simulator-the-champions-of-liberty.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
+| Gladiators VR Tournament | 156816 | [156816-gladiators-vr-tournament.json](./156816-gladiators-vr-tournament.json) |
 | Gladiators: Ludus Manager | 116213 | [116213-gladiators-ludus-manager.json](./116213-gladiators-ludus-manager.json) |
 | Gladiators: Survival in Rome | 194132 | [194132-gladiators-survival-in-rome.json](./194132-gladiators-survival-in-rome.json) |
 | Gladiators: The Unconquered | 132535 | [132535-gladiators-the-unconquered.json](./132535-gladiators-the-unconquered.json) |
