@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardalaxy | 333334 | [333334-cardalaxy.json](./333334-cardalaxy.json) |
 | Cardamom | 361262 | [361262-cardamom.json](./361262-cardamom.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
+| Cardaria | 126229 | [126229-cardaria.json](./126229-cardaria.json) |
 | Cardaver | 380193 | [380193-cardaver.json](./380193-cardaver.json) |
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
 | Cardboard Battle Tanks: Desk Division | 371922 | [371922-cardboard-battle-tanks-desk-division.json](./371922-cardboard-battle-tanks-desk-division.json) |
@@ -10834,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color-A-Cube: On The Move Pack #1 | 371287 | [371287-color-a-cube-on-the-move-pack-1.json](./371287-color-a-cube-on-the-move-pack-1.json) |
 | Color-A-Cube: Scifi Pack #1 | 371290 | [371290-color-a-cube-scifi-pack-1.json](./371290-color-a-cube-scifi-pack-1.json) |
 | Color-A-Cube: Scifi Pack #2 | 371291 | [371291-color-a-cube-scifi-pack-2.json](./371291-color-a-cube-scifi-pack-2.json) |
+| Color.Motif Deluxe | 126198 | [126198-color-motif-deluxe.json](./126198-color-motif-deluxe.json) |
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Colorama Cubes | 308302 | [308302-colorama-cubes.json](./308302-colorama-cubes.json) |
@@ -12485,6 +12487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Contestant 345 | 351077 | [351077-contestant-345.json](./351077-contestant-345.json) |
 | Contested Space | 403105 | [403105-contested-space.json](./403105-contested-space.json) |
+| Context | 126225 | [126225-context.json](./126225-context.json) |
 | Context Catacombs | 347501 | [347501-context-catacombs.json](./347501-context-catacombs.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
