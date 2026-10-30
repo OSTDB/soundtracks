@@ -14988,6 +14988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere in Hell | 311364 | [311364-somewhere-in-hell.json](./311364-somewhere-in-hell.json) |
 | Somewhere in İstanbul | 410644 | [410644-somewhere-in-istanbul.json](./410644-somewhere-in-istanbul.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
+| Somewhere in the Shadow | 163663 | [163663-somewhere-in-the-shadow.json](./163663-somewhere-in-the-shadow.json) |
 | Somewhere in Time | 273723 | [273723-somewhere-in-time.json](./273723-somewhere-in-time.json) |
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
@@ -15112,6 +15113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
 | Songs for a Hero 2: March of Malachi | 219497 | [219497-songs-for-a-hero-2-march-of-malachi.json](./219497-songs-for-a-hero-2-march-of-malachi.json) |
 | Songs for a Hero: Definitive Edition | 154980 | [154980-songs-for-a-hero-definitive-edition.json](./154980-songs-for-a-hero-definitive-edition.json) |
+| Songs for a Hero: Songs for the Dead | 163667 | [163667-songs-for-a-hero-songs-for-the-dead.json](./163667-songs-for-a-hero-songs-for-the-dead.json) |
 | Songs from the Iron Sea | 216893 | [216893-songs-from-the-iron-sea.json](./216893-songs-from-the-iron-sea.json) |
 | Songs of Araiah | 140315 | [140315-songs-of-araiah.json](./140315-songs-of-araiah.json) |
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
@@ -18108,6 +18110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
 | SpaceScape | 154871 | [154871-spacescape.json](./154871-spacescape.json) |
+| SpaceSeals | 163655 | [163655-spaceseals.json](./163655-spaceseals.json) |
 | Spacesheep | 356047 | [356047-spacesheep.json](./356047-spacesheep.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
 | Spaceship Ace Pilot | 240621 | [240621-spaceship-ace-pilot.json](./240621-spaceship-ace-pilot.json) |
@@ -24590,6 +24593,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy & Tactics: Dark Ages | 31923 | [31923-strategy-and-tactics-dark-ages.json](./31923-strategy-and-tactics-dark-ages.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy & Tactics: Wargame Collection | 28583 | [28583-strategy-and-tactics-wargame-collection.json](./28583-strategy-and-tactics-wargame-collection.json) |
+| Strategy & Tactics: Wargame Collection - USSR vs USA! | 163677 | [163677-strategy-and-tactics-wargame-collection-ussr-vs-usa.json](./163677-strategy-and-tactics-wargame-collection-ussr-vs-usa.json) |
+| Strategy & Tactics: Wargame Collection - Vikings! | 163678 | [163678-strategy-and-tactics-wargame-collection-vikings.json](./163678-strategy-and-tactics-wargame-collection-vikings.json) |
 | Strategy 1: Invasion | 262518 | [262518-strategy-1-invasion.json](./262518-strategy-1-invasion.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Challenges Collection 1 | 134475 | [134475-strategy-challenges-collection-1.json](./134475-strategy-challenges-collection-1.json) |
