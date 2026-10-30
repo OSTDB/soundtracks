@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type II | 210580 | [210580-r-type-ii.json](./210580-r-type-ii.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R-Type II | 279056 | [279056-r-type-ii.json](./279056-r-type-ii.json) |
+| R-Type III & Super R-Type Collector's Edition | 136061 | [136061-r-type-iii-and-super-r-type-collectors-edition.json](./136061-r-type-iii-and-super-r-type-collectors-edition.json) |
 | R-Type III: The Third Lightning | 6550 | [6550-r-type-iii-the-third-lightning.json](./6550-r-type-iii-the-third-lightning.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
 | R-Type Tactics I & II Cosmos | 225776 | [225776-r-type-tactics-i-and-ii-cosmos.json](./225776-r-type-tactics-i-and-ii-cosmos.json) |
@@ -4995,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Special Edition | 280755 | [280755-resident-evil-2-special-edition.json](./280755-resident-evil-2-special-edition.json) |
 | Resident Evil 2: The Ghost Survivors | 228709 | [228709-resident-evil-2-the-ghost-survivors.json](./228709-resident-evil-2-the-ghost-survivors.json) |
 | Resident Evil 2: Zombie Crisis | 339246 | [339246-resident-evil-2-zombie-crisis.json](./339246-resident-evil-2-zombie-crisis.json) |
+| Resident Evil 3: Collector's Edition | 136051 | [136051-resident-evil-3-collectors-edition.json](./136051-resident-evil-3-collectors-edition.json) |
 | Resident Evil 3: Dark Infection | 229088 | [229088-resident-evil-3-dark-infection.json](./229088-resident-evil-3-dark-infection.json) |
 | Resident Evil 3: Lenticular Edition | 386267 | [386267-resident-evil-3-lenticular-edition.json](./386267-resident-evil-3-lenticular-edition.json) |
 | Resident Evil 3: Nemesis | 396730 | [396730-resident-evil-3-nemesis.json](./396730-resident-evil-3-nemesis.json) |
@@ -9391,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 3D | 6873 | [6873-rollercoaster-tycoon-3d.json](./6873-rollercoaster-tycoon-3d.json) |
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
 | RollerCoaster Tycoon 8 Pack | 252326 | [252326-rollercoaster-tycoon-8-pack.json](./252326-rollercoaster-tycoon-8-pack.json) |
+| RollerCoaster Tycoon 9 Mega Pack | 136066 | [136066-rollercoaster-tycoon-9-mega-pack.json](./136066-rollercoaster-tycoon-9-mega-pack.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon World | 7627 | [7627-rollercoaster-tycoon-world.json](./7627-rollercoaster-tycoon-world.json) |
