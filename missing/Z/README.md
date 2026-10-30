@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Variant | 130161 | [130161-zombie-variant.json](./130161-zombie-variant.json) |
 | Zombie Vegas | 190172 | [190172-zombie-vegas.json](./190172-zombie-vegas.json) |
 | Zombie Vikings | 14298 | [14298-zombie-vikings.json](./14298-zombie-vikings.json) |
+| Zombie Vikings: Ragnarök Edition | 166962 | [166962-zombie-vikings-ragnarok-edition.json](./166962-zombie-vikings-ragnarok-edition.json) |
 | Zombie Vikings: Stab-a-thon | 30161 | [30161-zombie-vikings-stab-a-thon.json](./30161-zombie-vikings-stab-a-thon.json) |
 | Zombie Virus | 193788 | [193788-zombie-virus.json](./193788-zombie-virus.json) |
 | Zombie Virus | 43266 | [43266-zombie-virus.json](./43266-zombie-virus.json) |
