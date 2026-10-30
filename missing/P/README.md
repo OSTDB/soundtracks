@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantless | 302893 | [302893-pantless.json](./302893-pantless.json) |
 | Pantomime | 341597 | [341597-pantomime.json](./341597-pantomime.json) |
 | Pantomime Horse Obstacle Course | 408018 | [408018-pantomime-horse-obstacle-course.json](./408018-pantomime-horse-obstacle-course.json) |
+| Pantos Story | 133609 | [133609-pantos-story.json](./133609-pantos-story.json) |
 | Pantropy | 77611 | [77611-pantropy.json](./77611-pantropy.json) |
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants no Mikiri | 263615 | [263615-pants-no-mikiri.json](./263615-pants-no-mikiri.json) |
@@ -14398,6 +14399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Offset | 73013 | [73013-project-offset.json](./73013-project-offset.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
+| Project One | 133598 | [133598-project-one.json](./133598-project-one.json) |
 | Project One-Room | 68363 | [68363-project-one-room.json](./68363-project-one-room.json) |
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
 | Project Onyx | 143438 | [143438-project-onyx.json](./143438-project-onyx.json) |
@@ -15358,6 +15360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pucca Power Up | 65983 | [65983-pucca-power-up.json](./65983-pucca-power-up.json) |
 | Pucca Pursuit | 342552 | [342552-pucca-pursuit.json](./342552-pucca-pursuit.json) |
 | Pucca Puzzle Adventure | 239003 | [239003-pucca-puzzle-adventure.json](./239003-pucca-puzzle-adventure.json) |
+| Pucca Racing: World Bike Tour | 133591 | [133591-pucca-racing-world-bike-tour.json](./133591-pucca-racing-world-bike-tour.json) |
 | Pucca Wars | 263688 | [263688-pucca-wars.json](./263688-pucca-wars.json) |
 | Pucca, Let’s Cook! | 263689 | [263689-pucca-let-s-cook.json](./263689-pucca-let-s-cook.json) |
 | Pucca's Kisses Game | 65980 | [65980-puccas-kisses-game.json](./65980-puccas-kisses-game.json) |
@@ -16138,6 +16141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putinator | 204264 | [204264-putinator.json](./204264-putinator.json) |
 | Putinist Slayer | 204895 | [204895-putinist-slayer.json](./204895-putinist-slayer.json) |
 | Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
+| Putlestory | 133628 | [133628-putlestory.json](./133628-putlestory.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
 | Putrefaction 2: Void Walker | 30131 | [30131-putrefaction-2-void-walker.json](./30131-putrefaction-2-void-walker.json) |
