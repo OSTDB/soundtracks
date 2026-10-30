@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sashimi Slayer | 395795 | [395795-sashimi-slayer.json](./395795-sashimi-slayer.json) |
 | Sashinomi Suika-chan | 396558 | [396558-sashinomi-suika-chan.json](./396558-sashinomi-suika-chan.json) |
 | Sasquatch Loves Soup | 179564 | [179564-sasquatch-loves-soup.json](./179564-sasquatch-loves-soup.json) |
+| Sass vs. Fash: Girlballs of Steel | 165311 | [165311-sass-vs-fash-girlballs-of-steel.json](./165311-sass-vs-fash-girlballs-of-steel.json) |
 | Sassa'Shoom | 421812 | [421812-sassashoom.json](./421812-sassashoom.json) |
 | Sassy Cybergirl | 255269 | [255269-sassy-cybergirl.json](./255269-sassy-cybergirl.json) |
 | Sassy Girl | 259146 | [259146-sassy-girl.json](./259146-sassy-girl.json) |
@@ -1910,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Saturday: Arthur's Odyssey | 165496 | [165496-saturday-arthurs-odyssey.json](./165496-saturday-arthurs-odyssey.json) |
 | Saturdays | 145328 | [145328-saturdays.json](./145328-saturdays.json) |
+| Sature | 165295 | [165295-sature.json](./165295-sature.json) |
 | Sature | 183450 | [183450-sature.json](./183450-sature.json) |
 | Saturn | 285121 | [285121-saturn.json](./285121-saturn.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
@@ -3044,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
 | SCP: New Operative | 202740 | [202740-scp-new-operative.json](./202740-scp-new-operative.json) |
+| SCP: Nine-Tailed Fox | 165324 | [165324-scp-nine-tailed-fox.json](./165324-scp-nine-tailed-fox.json) |
 | SCP: November 2010 | 337593 | [337593-scp-november-2010.json](./337593-scp-november-2010.json) |
 | SCP: Pale Weaver | 405867 | [405867-scp-pale-weaver.json](./405867-scp-pale-weaver.json) |
 | SCP: Permafrost | 409328 | [409328-scp-permafrost.json](./409328-scp-permafrost.json) |
@@ -4460,6 +4463,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
 | Sega Net Mahjong MJ | 130811 | [130811-sega-net-mahjong-mj.json](./130811-sega-net-mahjong-mj.json) |
+| Sega Network Taisen Mahjong MJ2 | 165299 | [165299-sega-network-taisen-mahjong-mj2.json](./165299-sega-network-taisen-mahjong-mj2.json) |
+| Sega Network Taisen Mahjong MJ3 | 165300 | [165300-sega-network-taisen-mahjong-mj3.json](./165300-sega-network-taisen-mahjong-mj3.json) |
 | Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
 | Sega Puzzle Pack | 56839 | [56839-sega-puzzle-pack.json](./56839-sega-puzzle-pack.json) |
 | Sega Race TV | 19523 | [19523-sega-race-tv.json](./19523-sega-race-tv.json) |
@@ -14077,6 +14082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Sumos | 200143 | [200143-soccer-sumos.json](./200143-soccer-sumos.json) |
 | Soccer Super Star | 235119 | [235119-soccer-super-star.json](./235119-soccer-super-star.json) |
 | Soccer Superstar | 358393 | [358393-soccer-superstar.json](./358393-soccer-superstar.json) |
+| Soccer Superstars | 165317 | [165317-soccer-superstars.json](./165317-soccer-superstars.json) |
 | Soccer Superstars | 38837 | [38837-soccer-superstars.json](./38837-soccer-superstars.json) |
 | Soccer Swipe & Match 3 | 233160 | [233160-soccer-swipe-and-match-3.json](./233160-soccer-swipe-and-match-3.json) |
 | Soccer Team Manager: English and Italian Leagues | 93376 | [93376-soccer-team-manager-english-and-italian-leagues.json](./93376-soccer-team-manager-english-and-italian-leagues.json) |
@@ -17795,6 +17801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Silicon Valley | 134275 | [134275-space-station-silicon-valley.json](./134275-space-station-silicon-valley.json) |
 | Space Station Silicon Valley | 3602 | [3602-space-station-silicon-valley.json](./3602-space-station-silicon-valley.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
+| Space Station Tycoon | 165282 | [165282-space-station-tycoon.json](./165282-space-station-tycoon.json) |
 | Space Station: Frontier | 233545 | [233545-space-station-frontier.json](./233545-space-station-frontier.json) |
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Step: Heroes of the Earth | 111554 | [111554-space-step-heroes-of-the-earth.json](./111554-space-step-heroes-of-the-earth.json) |
@@ -27246,6 +27253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Candy Ball: Color Clash | 235253 | [235253-super-candy-ball-color-clash.json](./235253-super-candy-ball-color-clash.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
+| Super Captain Falcon 64 | 165286 | [165286-super-captain-falcon-64.json](./165286-super-captain-falcon-64.json) |
 | Super Captain Flying Robot City Rescue Mission | 96008 | [96008-super-captain-flying-robot-city-rescue-mission.json](./96008-super-captain-flying-robot-city-rescue-mission.json) |
 | Super Car Driving Bugatti Divo | 296781 | [296781-super-car-driving-bugatti-divo.json](./296781-super-car-driving-bugatti-divo.json) |
 | Super Caronaut | 178626 | [178626-super-caronaut.json](./178626-super-caronaut.json) |
@@ -28063,6 +28071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
 | Super Mario 64 Land | 132609 | [132609-super-mario-64-land.json](./132609-super-mario-64-land.json) |
 | Super Mario 64 Maker | 135229 | [135229-super-mario-64-maker.json](./135229-super-mario-64-maker.json) |
+| Super Mario 64 Multiplayer | 165335 | [165335-super-mario-64-multiplayer.json](./165335-super-mario-64-multiplayer.json) |
 | Super Mario 64 Nintendo 3DS Port | 307314 | [307314-super-mario-64-nintendo-3ds-port.json](./307314-super-mario-64-nintendo-3ds-port.json) |
 | Super Mario 64 NX | 307317 | [307317-super-mario-64-nx.json](./307317-super-mario-64-nx.json) |
 | Super Mario 64 Odyssey | 159274 | [159274-super-mario-64-odyssey.json](./159274-super-mario-64-odyssey.json) |
@@ -30752,6 +30761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Suzy's Restaurant: Food Empire | 345270 | [345270-suzys-restaurant-food-empire.json](./345270-suzys-restaurant-food-empire.json) |
 | Svajp | 119407 | [119407-svajp.json](./119407-svajp.json) |
+| Svaland | 165343 | [165343-svaland.json](./165343-svaland.json) |
 | Svarog's Dream | 204138 | [204138-svarogs-dream.json](./204138-svarogs-dream.json) |
 | Svarog's Dream: Return of the Old Gods | 311099 | [311099-svarogs-dream-return-of-the-old-gods.json](./311099-svarogs-dream-return-of-the-old-gods.json) |
 | Svea Rike | 92933 | [92933-svea-rike.json](./92933-svea-rike.json) |
