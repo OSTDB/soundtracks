@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Fortune - VR Paradise | 26930 | [26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json](./26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json) |
 | Dead or Alive Xtreme 3: Saikyou Package | 167033 | [167033-dead-or-alive-xtreme-3-saikyou-package.json](./167033-dead-or-alive-xtreme-3-saikyou-package.json) |
+| Dead or Alive Xtreme 3: Scarlet - Collector's Edition | 136672 | [136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json](./136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Venus | 24198 | [24198-dead-or-alive-xtreme-3-venus.json](./24198-dead-or-alive-xtreme-3-venus.json) |
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
 | Dead or Alive: Code Chronos | 205644 | [205644-dead-or-alive-code-chronos.json](./205644-dead-or-alive-code-chronos.json) |
@@ -3448,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising 4: Deluxe Edition | 52871 | [52871-dead-rising-4-deluxe-edition.json](./52871-dead-rising-4-deluxe-edition.json) |
 | Dead Rising 4: Frank Rising | 27886 | [27886-dead-rising-4-frank-rising.json](./27886-dead-rising-4-frank-rising.json) |
+| Dead Rising 4: Special Edition | 136670 | [136670-dead-rising-4-special-edition.json](./136670-dead-rising-4-special-edition.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Ashley Graham | 360166 | [360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json](./360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Chainsaw Villager | 360164 | [360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json](./360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Chris Redfield | 360161 | [360161-dead-rising-deluxe-remaster-costume-and-bgm-chris-redfield.json](./360161-dead-rising-deluxe-remaster-costume-and-bgm-chris-redfield.json) |
@@ -7089,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
 | Detroit Metal City DS: Death Shout | 70602 | [70602-detroit-metal-city-ds-death-shout.json](./70602-detroit-metal-city-ds-death-shout.json) |
 | Detroit: Become Human - Digital Deluxe Edition | 118902 | [118902-detroit-become-human-digital-deluxe-edition.json](./118902-detroit-become-human-digital-deluxe-edition.json) |
+| Detroit: Become Human - Premium Edition | 136651 | [136651-detroit-become-human-premium-edition.json](./136651-detroit-become-human-premium-edition.json) |
 | Detstvo | 418227 | [418227-detstvo.json](./418227-detstvo.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deuces Wild: Video Poker | 147833 | [147833-deuces-wild-video-poker.json](./147833-deuces-wild-video-poker.json) |
