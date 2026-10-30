@@ -5618,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
+| Check x Mate | 163133 | [163133-check-x-mate.json](./163133-check-x-mate.json) |
 | Check-In | 169134 | [169134-check-in.json](./169134-check-in.json) |
 | Check-In | 180935 | [180935-check-in.json](./180935-check-in.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
@@ -11205,6 +11206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Again, Chachii? | 396005 | [396005-come-again-chachii.json](./396005-come-again-chachii.json) |
 | Come Alive! | 192176 | [192176-come-alive.json](./192176-come-alive.json) |
 | Come Baa | 267762 | [267762-come-baa.json](./267762-come-baa.json) |
+| Come Back Home Please | 163141 | [163141-come-back-home-please.json](./163141-come-back-home-please.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
 | Come Dine at Valhalla | 180762 | [180762-come-dine-at-valhalla.json](./180762-come-dine-at-valhalla.json) |
 | Come Home: Ghost Stories from Bangladesh | 304636 | [304636-come-home-ghost-stories-from-bangladesh.json](./304636-come-home-ghost-stories-from-bangladesh.json) |
@@ -15047,6 +15049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures: Docking Station | 155011 | [155011-creatures-docking-station.json](./155011-creatures-docking-station.json) |
 | Creatures: Docking Station - Creatures 3 | 192135 | [192135-creatures-docking-station-creatures-3.json](./192135-creatures-docking-station-creatures-3.json) |
 | Creatures: Raised in Space | 46085 | [46085-creatures-raised-in-space.json](./46085-creatures-raised-in-space.json) |
+| Creatures: The Albian Years | 163101 | [163101-creatures-the-albian-years.json](./163101-creatures-the-albian-years.json) |
 | Creaturing: Sea Wonders | 340561 | [340561-creaturing-sea-wonders.json](./340561-creaturing-sea-wonders.json) |
 | Creatzor: Isekai Dino Fighter | 320113 | [320113-creatzor-isekai-dino-fighter.json](./320113-creatzor-isekai-dino-fighter.json) |
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
