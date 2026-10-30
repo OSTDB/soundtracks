@@ -17707,6 +17707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
 | Space Ship | 175828 | [175828-space-ship.json](./175828-space-ship.json) |
 | Space Ship Commander | 68761 | [68761-space-ship-commander.json](./68761-space-ship-commander.json) |
+| Space Ship Drift | 169045 | [169045-space-ship-drift.json](./169045-space-ship-drift.json) |
 | Space Ship: The Game | 165378 | [165378-space-ship-the-game.json](./165378-space-ship-the-game.json) |
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
 | Space Shock 3 | 41931 | [41931-space-shock-3.json](./41931-space-shock-3.json) |
