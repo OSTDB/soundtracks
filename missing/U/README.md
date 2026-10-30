@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO 50 Nonograms | 397748 | [397748-ufo-50-nonograms.json](./397748-ufo-50-nonograms.json) |
 | UFO Builder | 340861 | [340861-ufo-builder.json](./340861-ufo-builder.json) |
 | UFO Chase | 110855 | [110855-ufo-chase.json](./110855-ufo-chase.json) |
+| UFO Checkers | 173392 | [173392-ufo-checkers.json](./173392-ufo-checkers.json) |
 | UFO Clones | 100698 | [100698-ufo-clones.json](./100698-ufo-clones.json) |
 | UFO Combat 2000 | 111175 | [111175-ufo-combat-2000.json](./111175-ufo-combat-2000.json) |
 | UFO Cross | 130108 | [130108-ufo-cross.json](./130108-ufo-cross.json) |
