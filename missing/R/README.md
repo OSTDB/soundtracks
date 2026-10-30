@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Knight | 158911 | [158911-ragdoll-knight.json](./158911-ragdoll-knight.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
+| RagDoll MadDoll | 169601 | [169601-ragdoll-maddoll.json](./169601-ragdoll-maddoll.json) |
 | Ragdoll Masters | 78684 | [78684-ragdoll-masters.json](./78684-ragdoll-masters.json) |
 | Ragdoll Matrix | 73259 | [73259-ragdoll-matrix.json](./73259-ragdoll-matrix.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat on a Skateboard | 90439 | [90439-rat-on-a-skateboard.json](./90439-rat-on-a-skateboard.json) |
 | Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
+| Rat Prison | 169584 | [169584-rat-prison.json](./169584-rat-prison.json) |
 | Rat Quest | 302814 | [302814-rat-quest.json](./302814-rat-quest.json) |
 | Rat Race | 288824 | [288824-rat-race.json](./288824-rat-race.json) |
 | Rat Race | 375518 | [375518-rat-race.json](./375518-rat-race.json) |
@@ -9024,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Vector | 410431 | [410431-rogue-vector.json](./410431-rogue-vector.json) |
 | Rogue Warlords | 199340 | [199340-rogue-warlords.json](./199340-rogue-warlords.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
+| Rogue Wars | 169581 | [169581-rogue-wars.json](./169581-rogue-wars.json) |
 | Rogue Waters | 314422 | [314422-rogue-waters.json](./314422-rogue-waters.json) |
 | Rogue Waves | 122072 | [122072-rogue-waves.json](./122072-rogue-waves.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
@@ -10640,6 +10643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rui wa Tomo o Yobu | 273890 | [273890-rui-wa-tomo-o-yobu.json](./273890-rui-wa-tomo-o-yobu.json) |
 | Ruiga Pirates | 274367 | [274367-ruiga-pirates.json](./274367-ruiga-pirates.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
+| Ruin | 169603 | [169603-ruin.json](./169603-ruin.json) |
 | Ruin | 17021 | [17021-ruin.json](./17021-ruin.json) |
 | Ruin | 174083 | [174083-ruin.json](./174083-ruin.json) |
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
