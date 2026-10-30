@@ -7568,7 +7568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 206320 | [206320-chrono-trigger.json](./206320-chrono-trigger.json) |
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
-| Chrono Trigger | 89828 | [89828-chrono-trigger.json](./89828-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono Trigger: Crimson Echoes | 38266 | [38266-chrono-trigger-crimson-echoes.json](./38266-chrono-trigger-crimson-echoes.json) |
 | Chrono Trigger: Jet Bike Special | 38105 | [38105-chrono-trigger-jet-bike-special.json](./38105-chrono-trigger-jet-bike-special.json) |
