@@ -7592,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louma | 265116 | [265116-louma.json](./265116-louma.json) |
 | Lounge Café | 390247 | [390247-lounge-cafe.json](./390247-lounge-cafe.json) |
 | Lounge Lord | 178833 | [178833-lounge-lord.json](./178833-lounge-lord.json) |
+| Lounge zone | 163658 | [163658-lounge-zone.json](./163658-lounge-zone.json) |
 | Louny Balloony | 217378 | [217378-louny-balloony.json](./217378-louny-balloony.json) |
 | Loutra | 379947 | [379947-loutra.json](./379947-loutra.json) |
 | LouveSystems' TrackMasters | 167607 | [167607-louvesystems-trackmasters.json](./167607-louvesystems-trackmasters.json) |
