@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T03:03:24.826Z",
-  "total_missing": 282146,
+  "generated_at": "2026-10-30T03:19:17.942Z",
+  "total_missing": 282198,
   "games": [
     {
       "igdb_id": 191680,
@@ -16660,6 +16660,11 @@
       "igdb_id": 392397,
       "game_name": "A Cup of Tea",
       "file": "missing/A/392397-a-cup-of-tea.json"
+    },
+    {
+      "igdb_id": 169597,
+      "game_name": "A Cure for Jessica",
+      "file": "missing/A/169597-a-cure-for-jessica.json"
     },
     {
       "igdb_id": 166669,
@@ -68257,6 +68262,11 @@
       "file": "missing/A/193090-apsis.json"
     },
     {
+      "igdb_id": 169600,
+      "game_name": "Apsis Online",
+      "file": "missing/A/169600-apsis-online.json"
+    },
+    {
       "igdb_id": 35534,
       "game_name": "APT",
       "file": "missing/A/35534-apt.json"
@@ -101472,6 +101482,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -124355,6 +124370,11 @@
       "igdb_id": 190412,
       "game_name": "Being Ball",
       "file": "missing/B/190412-being-ball.json"
+    },
+    {
+      "igdb_id": 169588,
+      "game_name": "Being Centered",
+      "file": "missing/B/169588-being-centered.json"
     },
     {
       "igdb_id": 280925,
@@ -170337,6 +170357,11 @@
       "file": "missing/B/76633-bubble-breeze-pop.json"
     },
     {
+      "igdb_id": 169610,
+      "game_name": "Bubble Bubble Ball",
+      "file": "missing/B/169610-bubble-bubble-ball.json"
+    },
+    {
       "igdb_id": 246114,
       "game_name": "Bubble Bubbling",
       "file": "missing/B/246114-bubble-bubbling.json"
@@ -215937,6 +215962,11 @@
       "file": "missing/C/123541-chronicles-of-arcadia.json"
     },
     {
+      "igdb_id": 169608,
+      "game_name": "Chronicles of Ash",
+      "file": "missing/C/169608-chronicles-of-ash.json"
+    },
+    {
       "igdb_id": 297367,
       "game_name": "Chronicles Of Crystal: Turn-Basde Epoch",
       "file": "missing/C/297367-chronicles-of-crystal-turn-basde-epoch.json"
@@ -232080,6 +232110,11 @@
       "igdb_id": 60903,
       "game_name": "Color Picker",
       "file": "missing/C/60903-color-picker.json"
+    },
+    {
+      "igdb_id": 169596,
+      "game_name": "Color Pixel Heroes",
+      "file": "missing/C/169596-color-pixel-heroes.json"
     },
     {
       "igdb_id": 225006,
@@ -307977,6 +308012,11 @@
       "file": "missing/D/117118-dezzan.json"
     },
     {
+      "igdb_id": 169609,
+      "game_name": "DF-41 Simulator",
+      "file": "missing/D/169609-df-41-simulator.json"
+    },
+    {
       "igdb_id": 396731,
       "game_name": "DFClicker",
       "file": "missing/D/396731-dfclicker.json"
@@ -308555,6 +308595,11 @@
       "igdb_id": 197094,
       "game_name": "Diamond Hands Arena",
       "file": "missing/D/197094-diamond-hands-arena.json"
+    },
+    {
+      "igdb_id": 169583,
+      "game_name": "Diamond Hands: To the Moon",
+      "file": "missing/D/169583-diamond-hands-to-the-moon.json"
     },
     {
       "igdb_id": 286649,
@@ -310700,6 +310745,11 @@
       "igdb_id": 392930,
       "game_name": "Differences Master",
       "file": "missing/D/392930-differences-master.json"
+    },
+    {
+      "igdb_id": 169592,
+      "game_name": "Different Stories VR",
+      "file": "missing/D/169592-different-stories-vr.json"
     },
     {
       "igdb_id": 213030,
@@ -373527,6 +373577,11 @@
       "file": "missing/E/109664-endless-battle.json"
     },
     {
+      "igdb_id": 169576,
+      "game_name": "Endless Battle: Return of Hero +1",
+      "file": "missing/E/169576-endless-battle-return-of-hero-1.json"
+    },
+    {
       "igdb_id": 186317,
       "game_name": "Endless Battlefield",
       "file": "missing/E/186317-endless-battlefield.json"
@@ -378150,6 +378205,11 @@
       "igdb_id": 104251,
       "game_name": "Equaland",
       "file": "missing/E/104251-equaland.json"
+    },
+    {
+      "igdb_id": 169591,
+      "game_name": "Equaline",
+      "file": "missing/E/169591-equaline.json"
     },
     {
       "igdb_id": 339761,
@@ -448387,6 +448447,11 @@
       "file": "missing/F/205031-fright-night.json"
     },
     {
+      "igdb_id": 169574,
+      "game_name": "Fright Night Sex Fest",
+      "file": "missing/F/169574-fright-night-sex-fest.json"
+    },
+    {
       "igdb_id": 376511,
       "game_name": "Fright Train",
       "file": "missing/F/376511-fright-train.json"
@@ -455470,6 +455535,11 @@
       "igdb_id": 286501,
       "game_name": "Furry Fetishists",
       "file": "missing/F/286501-furry-fetishists.json"
+    },
+    {
+      "igdb_id": 169579,
+      "game_name": "Furry Finder: Dating Visual Novel",
+      "file": "missing/F/169579-furry-finder-dating-visual-novel.json"
     },
     {
       "igdb_id": 310485,
@@ -525832,6 +525902,11 @@
       "file": "missing/H/110751-heliophobia.json"
     },
     {
+      "igdb_id": 169602,
+      "game_name": "Heliopolis Six",
+      "file": "missing/H/169602-heliopolis-six.json"
+    },
+    {
       "igdb_id": 128836,
       "game_name": "Helios",
       "file": "missing/H/128836-helios.json"
@@ -525860,6 +525935,11 @@
       "igdb_id": 334542,
       "game_name": "Helios Hotel: The Night Shift",
       "file": "missing/H/334542-helios-hotel-the-night-shift.json"
+    },
+    {
+      "igdb_id": 169582,
+      "game_name": "Helios Rising Heroes",
+      "file": "missing/H/169582-helios-rising-heroes.json"
     },
     {
       "igdb_id": 153848,
@@ -526060,6 +526140,11 @@
       "igdb_id": 229366,
       "game_name": "Hell Awaits",
       "file": "missing/H/229366-hell-awaits.json"
+    },
+    {
+      "igdb_id": 169606,
+      "game_name": "Hell Blasters",
+      "file": "missing/H/169606-hell-blasters.json"
     },
     {
       "igdb_id": 378804,
@@ -584177,6 +584262,11 @@
       "file": "missing/I/325865-inn-hand.json"
     },
     {
+      "igdb_id": 169604,
+      "game_name": "Inn Legend",
+      "file": "missing/I/169604-inn-legend.json"
+    },
+    {
       "igdb_id": 156608,
       "game_name": "Inn Mage",
       "file": "missing/I/156608-inn-mage.json"
@@ -594470,6 +594560,11 @@
       "igdb_id": 132808,
       "game_name": "It's Hard Being a Meatball",
       "file": "missing/I/132808-its-hard-being-a-meatball.json"
+    },
+    {
+      "igdb_id": 169595,
+      "game_name": "It's Harvest Time!",
+      "file": "missing/I/169595-its-harvest-time.json"
     },
     {
       "igdb_id": 370474,
@@ -605990,6 +606085,11 @@
       "igdb_id": 337282,
       "game_name": "Jixo: The Season of Joy - Collector's Edition",
       "file": "missing/J/337282-jixo-the-season-of-joy-collectors-edition.json"
+    },
+    {
+      "igdb_id": 169571,
+      "game_name": "Jixxaw",
+      "file": "missing/J/169571-jixxaw.json"
     },
     {
       "igdb_id": 158398,
@@ -620612,6 +620712,11 @@
       "file": "missing/K/128655-kavalmaja.json"
     },
     {
+      "igdb_id": 169586,
+      "game_name": "Kavel",
+      "file": "missing/K/169586-kavel.json"
+    },
+    {
       "igdb_id": 153378,
       "game_name": "Kaverini Nuuk Adventures",
       "file": "missing/K/153378-kaverini-nuuk-adventures.json"
@@ -627355,6 +627460,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -640255,6 +640365,11 @@
       "igdb_id": 110228,
       "game_name": "Kraken Skulls",
       "file": "missing/K/110228-kraken-skulls.json"
+    },
+    {
+      "igdb_id": 169587,
+      "game_name": "Kraken Smash: Volleyball",
+      "file": "missing/K/169587-kraken-smash-volleyball.json"
     },
     {
       "igdb_id": 129429,
@@ -746722,6 +746837,11 @@
       "file": "missing/M/70401-minimum-nanonic.json"
     },
     {
+      "igdb_id": 169580,
+      "game_name": "Minimum Wage: Influence the Election",
+      "file": "missing/M/169580-minimum-wage-influence-the-election.json"
+    },
+    {
       "igdb_id": 370179,
       "game_name": "Mining And Achievements",
       "file": "missing/M/370179-mining-and-achievements.json"
@@ -774195,6 +774315,11 @@
       "igdb_id": 193501,
       "game_name": "Murder by Moonlight 2: Crimson Night",
       "file": "missing/M/193501-murder-by-moonlight-2-crimson-night.json"
+    },
+    {
+      "igdb_id": 169577,
+      "game_name": "Murder by Moonlight: Call of the Wolf",
+      "file": "missing/M/169577-murder-by-moonlight-call-of-the-wolf.json"
     },
     {
       "igdb_id": 23972,
@@ -831742,6 +831867,11 @@
       "file": "missing/O/173233-once-upon-a-time-in-the-colony.json"
     },
     {
+      "igdb_id": 169573,
+      "game_name": "Once Upon a Time in the Gold Rush VR: Shoot and Ride",
+      "file": "missing/O/169573-once-upon-a-time-in-the-gold-rush-vr-shoot-and-ride.json"
+    },
+    {
       "igdb_id": 223569,
       "game_name": "Once Upon a Time on Halloween",
       "file": "missing/O/223569-once-upon-a-time-on-halloween.json"
@@ -853965,6 +854095,11 @@
       "igdb_id": 149517,
       "game_name": "Pandemia",
       "file": "missing/P/149517-pandemia.json"
+    },
+    {
+      "igdb_id": 169589,
+      "game_name": "Pandemia: Virus Outbreak",
+      "file": "missing/P/169589-pandemia-virus-outbreak.json"
     },
     {
       "igdb_id": 147934,
@@ -911377,6 +911512,11 @@
       "file": "missing/P/189835-present-cannon-rebirth.json"
     },
     {
+      "igdb_id": 169605,
+      "game_name": "Present Danger",
+      "file": "missing/P/169605-present-danger.json"
+    },
+    {
       "igdb_id": 64374,
       "game_name": "Present For You",
       "file": "missing/P/64374-present-for-you.json"
@@ -942342,6 +942482,11 @@
       "file": "missing/R/163979-ragdoll-laser-battle.json"
     },
     {
+      "igdb_id": 169601,
+      "game_name": "RagDoll MadDoll",
+      "file": "missing/R/169601-ragdoll-maddoll.json"
+    },
+    {
       "igdb_id": 78684,
       "game_name": "Ragdoll Masters",
       "file": "missing/R/78684-ragdoll-masters.json"
@@ -948110,6 +948255,11 @@
       "igdb_id": 78607,
       "game_name": "Rat on the Run",
       "file": "missing/R/78607-rat-on-the-run.json"
+    },
+    {
+      "igdb_id": 169584,
+      "game_name": "Rat Prison",
+      "file": "missing/R/169584-rat-prison.json"
     },
     {
       "igdb_id": 302814,
@@ -983882,6 +984032,11 @@
       "file": "missing/R/564-rogue-warrior.json"
     },
     {
+      "igdb_id": 169581,
+      "game_name": "Rogue Wars",
+      "file": "missing/R/169581-rogue-wars.json"
+    },
+    {
       "igdb_id": 314422,
       "game_name": "Rogue Waters",
       "file": "missing/R/314422-rogue-waters.json"
@@ -991960,6 +992115,11 @@
       "igdb_id": 301823,
       "game_name": "Ruiga Pirates: Cursed Seas",
       "file": "missing/R/301823-ruiga-pirates-cursed-seas.json"
+    },
+    {
+      "igdb_id": 169603,
+      "game_name": "Ruin",
+      "file": "missing/R/169603-ruin.json"
     },
     {
       "igdb_id": 17021,
@@ -1051937,6 +1052097,11 @@
       "file": "missing/S/90228-skumring.json"
     },
     {
+      "igdb_id": 169590,
+      "game_name": "SkunkHunter 101",
+      "file": "missing/S/169590-skunkhunter-101.json"
+    },
+    {
       "igdb_id": 46731,
       "game_name": "Skunny Kart",
       "file": "missing/S/46731-skunny-kart.json"
@@ -1086702,6 +1086867,11 @@
       "file": "missing/S/105193-spacebourne.json"
     },
     {
+      "igdb_id": 169594,
+      "game_name": "Spacebug",
+      "file": "missing/S/169594-spacebug.json"
+    },
+    {
       "igdb_id": 115807,
       "game_name": "SpaceBullet",
       "file": "missing/S/115807-spacebullet.json"
@@ -1087050,6 +1087220,11 @@
       "igdb_id": 117052,
       "game_name": "Spaceland: Sci-Fi Indie Tactics",
       "file": "missing/S/117052-spaceland-sci-fi-indie-tactics.json"
+    },
+    {
+      "igdb_id": 169599,
+      "game_name": "Spacelandia",
+      "file": "missing/S/169599-spacelandia.json"
     },
     {
       "igdb_id": 139192,
@@ -1093830,6 +1094005,11 @@
       "igdb_id": 408487,
       "game_name": "Spinning Image",
       "file": "missing/S/408487-spinning-image.json"
+    },
+    {
+      "igdb_id": 169572,
+      "game_name": "Spinning Kid 2",
+      "file": "missing/S/169572-spinning-kid-2.json"
     },
     {
       "igdb_id": 31581,
@@ -1126360,6 +1126540,11 @@
       "igdb_id": 278897,
       "game_name": "Succubus 2069",
       "file": "missing/S/278897-succubus-2069.json"
+    },
+    {
+      "igdb_id": 169578,
+      "game_name": "Succubus Affection",
+      "file": "missing/S/169578-succubus-affection.json"
     },
     {
       "igdb_id": 339651,
@@ -1171617,6 +1171802,11 @@
       "file": "missing/T/292234-tears-of-fish.json"
     },
     {
+      "igdb_id": 169593,
+      "game_name": "Tears of Luna",
+      "file": "missing/T/169593-tears-of-luna.json"
+    },
+    {
       "igdb_id": 224574,
       "game_name": "Tears of Magic",
       "file": "missing/T/224574-tears-of-magic.json"
@@ -1185962,6 +1186152,11 @@
       "file": "missing/T/374223-the-beast.json"
     },
     {
+      "igdb_id": 169585,
+      "game_name": "The Beast Awoke to Eat Your Darlings",
+      "file": "missing/T/169585-the-beast-awoke-to-eat-your-darlings.json"
+    },
+    {
       "igdb_id": 178824,
       "game_name": "The Beast in the Maze",
       "file": "missing/T/178824-the-beast-in-the-maze.json"
@@ -1193525,6 +1193720,11 @@
       "igdb_id": 214233,
       "game_name": "The Darkest Files",
       "file": "missing/T/214233-the-darkest-files.json"
+    },
+    {
+      "igdb_id": 169607,
+      "game_name": "The Darkest Island",
+      "file": "missing/T/169607-the-darkest-island.json"
     },
     {
       "igdb_id": 171841,
@@ -1313082,6 +1313282,11 @@
       "file": "missing/U/126415-uncle-neighbor.json"
     },
     {
+      "igdb_id": 169598,
+      "game_name": "Uncle Nook's Monster Emporium",
+      "file": "missing/U/169598-uncle-nooks-monster-emporium.json"
+    },
+    {
       "igdb_id": 272717,
       "game_name": "Uncle Nook's Survivors",
       "file": "missing/U/272717-uncle-nooks-survivors.json"
@@ -1397147,9 +1397352,64 @@
       "file": "missing/Y/20043-yu-gi-oh-legacy-of-the-duelist.json"
     },
     {
+      "igdb_id": 169560,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: 5D's For the Future",
+      "file": "missing/Y/169560-yu-gi-oh-legacy-of-the-duelist-5ds-for-the-future.json"
+    },
+    {
+      "igdb_id": 169567,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Declan vs Celina",
+      "file": "missing/Y/169567-yu-gi-oh-legacy-of-the-duelist-arc-v-declan-vs-celina.json"
+    },
+    {
+      "igdb_id": 169566,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Jack Atlas vs Yuya",
+      "file": "missing/Y/169566-yu-gi-oh-legacy-of-the-duelist-arc-v-jack-atlas-vs-yuya.json"
+    },
+    {
+      "igdb_id": 169561,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Shay vs Dennis",
+      "file": "missing/Y/169561-yu-gi-oh-legacy-of-the-duelist-arc-v-shay-vs-dennis.json"
+    },
+    {
+      "igdb_id": 169564,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Yugo’s Synchro Dimension",
+      "file": "missing/Y/169564-yu-gi-oh-legacy-of-the-duelist-arc-v-yugo-s-synchro-dimension.json"
+    },
+    {
+      "igdb_id": 169568,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Arc-V Gong v. Kit",
+      "file": "missing/Y/169568-yu-gi-oh-legacy-of-the-duelist-arc-v-gong-v-kit.json"
+    },
+    {
+      "igdb_id": 169563,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Arc-V Yuto v. Sylvio",
+      "file": "missing/Y/169563-yu-gi-oh-legacy-of-the-duelist-arc-v-yuto-v-sylvio.json"
+    },
+    {
+      "igdb_id": 169570,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Arc-V Zuzu v. Julia",
+      "file": "missing/Y/169570-yu-gi-oh-legacy-of-the-duelist-arc-v-zuzu-v-julia.json"
+    },
+    {
+      "igdb_id": 169569,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: GX - Leaders",
+      "file": "missing/Y/169569-yu-gi-oh-legacy-of-the-duelist-gx-leaders.json"
+    },
+    {
+      "igdb_id": 169565,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: GX Lost Duels",
+      "file": "missing/Y/169565-yu-gi-oh-legacy-of-the-duelist-gx-lost-duels.json"
+    },
+    {
       "igdb_id": 114905,
       "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
       "file": "missing/Y/114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json"
+    },
+    {
+      "igdb_id": 169562,
+      "game_name": "Yu-Gi-Oh! Legacy of the Duelist: Waking the Dragons - Joey’s Journey",
+      "file": "missing/Y/169562-yu-gi-oh-legacy-of-the-duelist-waking-the-dragons-joey-s-journey.json"
     },
     {
       "igdb_id": 159298,
