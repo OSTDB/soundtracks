@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.D. Cows and D.U.M.B. Ducks Bundle | 331533 | [331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json](./331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json) |
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
+| M.A.R.S.S | 148230 | [148230-m-a-r-s-s.json](./148230-m-a-r-s-s.json) |
 | M.A.S.S. Builder | 78063 | [78063-m-a-s-s-builder.json](./78063-m-a-s-s-builder.json) |
 | M.A.T | 47018 | [47018-m-a-t.json](./47018-m-a-t.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
@@ -1704,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong by Dogmelon | 101489 | [101489-mahjong-by-dogmelon.json](./101489-mahjong-by-dogmelon.json) |
 | Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
 | Mahjong Carnaval | 149803 | [149803-mahjong-carnaval.json](./149803-mahjong-carnaval.json) |
+| Mahjong Carnaval 2 | 148206 | [148206-mahjong-carnaval-2.json](./148206-mahjong-carnaval-2.json) |
 | Mahjong Carnival | 59735 | [59735-mahjong-carnival.json](./59735-mahjong-carnival.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Challenge | 55266 | [55266-mahjong-challenge.json](./55266-mahjong-challenge.json) |
@@ -5736,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Monogatari: Honobono Tenchou Ikusei Game | 61383 | [61383-mcdonalds-monogatari-honobono-tenchou-ikusei-game.json](./61383-mcdonalds-monogatari-honobono-tenchou-ikusei-game.json) |
 | McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
+| McDonald's Video Game | 148201 | [148201-mcdonalds-video-game.json](./148201-mcdonalds-video-game.json) |
 | McDonald's Work Challenge | 218936 | [218936-mcdonalds-work-challenge.json](./218936-mcdonalds-work-challenge.json) |
 | McDonald's: Golden Arches Adventure | 282742 | [282742-mcdonalds-golden-arches-adventure.json](./282742-mcdonalds-golden-arches-adventure.json) |
 | McDonald's: Minedonalds | 325359 | [325359-mcdonalds-minedonalds.json](./325359-mcdonalds-minedonalds.json) |
@@ -10268,6 +10271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | Mighty Tank | 221890 | [221890-mighty-tank.json](./221890-mighty-tank.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
+| Mighty the Armadillo in Sonic the Hedgehog | 148232 | [148232-mighty-the-armadillo-in-sonic-the-hedgehog.json](./148232-mighty-the-armadillo-in-sonic-the-hedgehog.json) |
 | Mighty Tyranitar | 73139 | [73139-mighty-tyranitar.json](./73139-mighty-tyranitar.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
 | Mighty Warriors: Rise of the East | 58116 | [58116-mighty-warriors-rise-of-the-east.json](./58116-mighty-warriors-rise-of-the-east.json) |
@@ -10721,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Keeper | 296974 | [296974-mind-keeper.json](./296974-mind-keeper.json) |
 | Mind Labyrinth | 85291 | [85291-mind-labyrinth.json](./85291-mind-labyrinth.json) |
 | Mind Labyrinth VR Dreams | 100311 | [100311-mind-labyrinth-vr-dreams.json](./100311-mind-labyrinth-vr-dreams.json) |
+| Mind Lock | 148217 | [148217-mind-lock.json](./148217-mind-lock.json) |
 | Mind Loop | 322063 | [322063-mind-loop.json](./322063-mind-loop.json) |
 | Mind Lure | 373667 | [373667-mind-lure.json](./373667-mind-lure.json) |
 | Mind Machine | 70240 | [70240-mind-machine.json](./70240-mind-machine.json) |
@@ -14339,6 +14344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Racer | 20466 | [20466-monster-racer.json](./20466-monster-racer.json) |
 | Monster Racers | 72742 | [72742-monster-racers.json](./72742-monster-racers.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
+| Monster Radar Plus | 148202 | [148202-monster-radar-plus.json](./148202-monster-radar-plus.json) |
 | Monster Rain | 110226 | [110226-monster-rain.json](./110226-monster-rain.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher 1 DX | 184782 | [184782-monster-rancher-1-dx.json](./184782-monster-rancher-1-dx.json) |
@@ -15610,6 +15616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
 | Moshi Play | 381913 | [381913-moshi-play.json](./381913-moshi-play.json) |
 | Moshi, Kono Sekai ni Kami-sama ga Iru to Suru Naraba. | 131914 | [131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json](./131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json) |
+| Moshikashite? Obake no Shatekiya | 148186 | [148186-moshikashite-obake-no-shatekiya.json](./148186-moshikashite-obake-no-shatekiya.json) |
 | Moshinken Monogatari | 410898 | [410898-moshinken-monogatari.json](./410898-moshinken-monogatari.json) |
 | Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
@@ -16332,6 +16339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moxie 2 // Overdrive | 422460 | [422460-moxie-2-overdrive.json](./422460-moxie-2-overdrive.json) |
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
 | Mòxīn: Bōyún Guǐchuán | 156922 | [156922-moxin-boyun-guichuan.json](./156922-moxin-boyun-guichuan.json) |
+| Moxina | 148191 | [148191-moxina.json](./148191-moxina.json) |
 | Moy 6 | 228897 | [228897-moy-6.json](./228897-moy-6.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
@@ -18722,6 +18730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet Hooligan: Ugly Christmas Sweater Pack | 279156 | [279156-my-pet-hooligan-ugly-christmas-sweater-pack.json](./279156-my-pet-hooligan-ugly-christmas-sweater-pack.json) |
 | My Pet Hotel | 17048 | [17048-my-pet-hotel.json](./17048-my-pet-hotel.json) |
 | My Pet Hotel 2 | 17049 | [17049-my-pet-hotel-2.json](./17049-my-pet-hotel-2.json) |
+| My Pet Pony | 148184 | [148184-my-pet-pony.json](./148184-my-pet-pony.json) |
 | My Pet Protector | 387940 | [387940-my-pet-protector.json](./387940-my-pet-protector.json) |
 | My Pet Protector 2 | 413085 | [413085-my-pet-protector-2.json](./413085-my-pet-protector-2.json) |
 | My Pet Puppy 3D | 65470 | [65470-my-pet-puppy-3d.json](./65470-my-pet-puppy-3d.json) |
