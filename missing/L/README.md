@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserwars | 70799 | [70799-laserwars.json](./70799-laserwars.json) |
 | Laserworks | 184316 | [184316-laserworks.json](./184316-laserworks.json) |
 | LaserZone | 133356 | [133356-laserzone.json](./133356-laserzone.json) |
+| Lashek | 149157 | [149157-lashek.json](./149157-lashek.json) |
 | Lass ich Sliden | 295084 | [295084-lass-ich-sliden.json](./295084-lass-ich-sliden.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso | 346094 | [346094-lasso.json](./346094-lasso.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Mage Standing | 141498 | [141498-last-mage-standing.json](./141498-last-mage-standing.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
 | Last Mage Survivors | 257498 | [257498-last-mage-survivors.json](./257498-last-mage-survivors.json) |
+| Last Man | 149160 | [149160-last-man.json](./149160-last-man.json) |
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
 | Last Man Running | 424653 | [424653-last-man-running.json](./424653-last-man-running.json) |
 | Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
@@ -1285,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
 | Last One Standing: Royal Massacre | 180389 | [180389-last-one-standing-royal-massacre.json](./180389-last-one-standing-royal-massacre.json) |
+| Last Ops | 149155 | [149155-last-ops.json](./149155-last-ops.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Origin | 123283 | [123283-last-origin.json](./123283-last-origin.json) |
 | Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
@@ -5466,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little One | 118638 | [118638-little-one.json](./118638-little-one.json) |
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
 | Little Otter's Fishing Life | 386944 | [386944-little-otters-fishing-life.json](./386944-little-otters-fishing-life.json) |
+| Little Packaging Crew | 149257 | [149257-little-packaging-crew.json](./149257-little-packaging-crew.json) |
 | Little Panda Restaurant | 108177 | [108177-little-panda-restaurant.json](./108177-little-panda-restaurant.json) |
 | Little Panda: Dinosaur Care | 234441 | [234441-little-panda-dinosaur-care.json](./234441-little-panda-dinosaur-care.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
@@ -8820,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Rescue | 40007 | [40007-lunar-rescue.json](./40007-lunar-rescue.json) |
 | Lunar Rescue Mission | 197755 | [197755-lunar-rescue-mission.json](./197755-lunar-rescue-mission.json) |
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
+| Lunar Rover | 149181 | [149181-lunar-rover.json](./149181-lunar-rover.json) |
 | Lunar Rover Patrol | 69734 | [69734-lunar-rover-patrol.json](./69734-lunar-rover-patrol.json) |
 | Lunar Siege | 236115 | [236115-lunar-siege.json](./236115-lunar-siege.json) |
 | Lunar Soil | 93776 | [93776-lunar-soil.json](./93776-lunar-soil.json) |
