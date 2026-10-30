@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Thrones | 356004 | [356004-a-game-of-thrones.json](./356004-a-game-of-thrones.json) |
 | A Game of Thrones: Genesis | 15058 | [15058-a-game-of-thrones-genesis.json](./15058-a-game-of-thrones-genesis.json) |
 | A Game of Thrones: The Board Game - Digital Edition | 139376 | [139376-a-game-of-thrones-the-board-game-digital-edition.json](./139376-a-game-of-thrones-the-board-game-digital-edition.json) |
+| A Game of Thrones: The Board Game - Digital Edition: A Feast for Crows | 163656 | [163656-a-game-of-thrones-the-board-game-digital-edition-a-feast-for-crows.json](./163656-a-game-of-thrones-the-board-game-digital-edition-a-feast-for-crows.json) |
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
 | A Game That Saves the Muscles Caught in the Ceiling of the Gymnasium | 207065 | [207065-a-game-that-saves-the-muscles-caught-in-the-ceiling-of-the-gymnasium.json](./207065-a-game-that-saves-the-muscles-caught-in-the-ceiling-of-the-gymnasium.json) |
@@ -1821,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
 | Abrez | 368517 | [368517-abrez.json](./368517-abrez.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
+| Abridged | 163653 | [163653-abridged.json](./163653-abridged.json) |
 | Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
