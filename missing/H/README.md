@@ -1989,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
 | Harshlands | 228879 | [228879-harshlands.json](./228879-harshlands.json) |
 | Hartacon Tactics | 21983 | [21983-hartacon-tactics.json](./21983-hartacon-tactics.json) |
+| Harthorn | 148203 | [148203-harthorn.json](./148203-harthorn.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
 | Harts Island | 153492 | [153492-harts-island.json](./153492-harts-island.json) |
 | Haru | 148855 | [148855-haru.json](./148855-haru.json) |
@@ -5773,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagourds | 182893 | [182893-hexagourds.json](./182893-hexagourds.json) |
 | Hexagroove: Tactical DJ | 123323 | [123323-hexagroove-tactical-dj.json](./123323-hexagroove-tactical-dj.json) |
 | Hexagun | 125098 | [125098-hexagun.json](./125098-hexagun.json) |
+| Hexahedra | 148188 | [148188-hexahedra.json](./148188-hexahedra.json) |
 | Hexahedral | 314461 | [314461-hexahedral.json](./314461-hexahedral.json) |
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
@@ -8965,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
 | Horny Girl Hentai Puzzle | 158399 | [158399-horny-girl-hentai-puzzle.json](./158399-horny-girl-hentai-puzzle.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
+| Horny Heart | 148176 | [148176-horny-heart.json](./148176-horny-heart.json) |
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
 | Horny Hotel Maids | 242437 | [242437-horny-hotel-maids.json](./242437-horny-hotel-maids.json) |
 | Horny Housewives | 276645 | [276645-horny-housewives.json](./276645-horny-housewives.json) |
