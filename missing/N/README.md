@@ -5755,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noneday | 387549 | [387549-noneday.json](./387549-noneday.json) |
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
 | Nonessential | 179074 | [179074-nonessential.json](./179074-nonessential.json) |
+| Nonestory P1 | 155395 | [155395-nonestory-p1.json](./155395-nonestory-p1.json) |
 | Nonet Concerto | 137984 | [137984-nonet-concerto.json](./137984-nonet-concerto.json) |
 | Nonet Concerto Distortion | 137992 | [137992-nonet-concerto-distortion.json](./137992-nonet-concerto-distortion.json) |
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
