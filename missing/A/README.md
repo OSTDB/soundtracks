@@ -13366,6 +13366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashley: The Emptiness Inside | 134397 | [134397-ashley-the-emptiness-inside.json](./134397-ashley-the-emptiness-inside.json) |
 | Ashley: The One-Spell Mage | 318622 | [318622-ashley-the-one-spell-mage.json](./318622-ashley-the-one-spell-mage.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
+| Ashmedai: Queen of Lust | 160019 | [160019-ashmedai-queen-of-lust.json](./160019-ashmedai-queen-of-lust.json) |
 | Ashram Online | 419128 | [419128-ashram-online.json](./419128-ashram-online.json) |
 | Ashrun Survivors | 410416 | [410416-ashrun-survivors.json](./410416-ashrun-survivors.json) |
 | Ashton's Family Resort | 52420 | [52420-ashtons-family-resort.json](./52420-ashtons-family-resort.json) |
@@ -13795,6 +13796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
 | Astelight Shissouki | 59172 | [59172-astelight-shissouki.json](./59172-astelight-shissouki.json) |
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
+| Astellia Royal | 160000 | [160000-astellia-royal.json](./160000-astellia-royal.json) |
 | Aster | 264447 | [264447-aster.json](./264447-aster.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
@@ -15883,6 +15885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
 | Avoid Them: Breakthrough Gaming Arcade - Challenge Mode Edition | 207050 | [207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json](./207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Avoid: Sensory Overload | 17169 | [17169-avoid-sensory-overload.json](./17169-avoid-sensory-overload.json) |
+| Avoid! | 160045 | [160045-avoid.json](./160045-avoid.json) |
 | Avoider | 57056 | [57056-avoider.json](./57056-avoider.json) |
 | Avoidon | 126435 | [126435-avoidon.json](./126435-avoidon.json) |
 | Avoids | 240851 | [240851-avoids.json](./240851-avoids.json) |
