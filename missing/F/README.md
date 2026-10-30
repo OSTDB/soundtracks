@@ -10798,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends & Dragons | 146504 | [146504-friends-and-dragons.json](./146504-friends-and-dragons.json) |
 | Friends & Foes | 333991 | [333991-friends-and-foes.json](./333991-friends-and-foes.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
+| Friends for the Apocalypse | 126222 | [126222-friends-for-the-apocalypse.json](./126222-friends-for-the-apocalypse.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
 | Friends Killing Friends | 146085 | [146085-friends-killing-friends.json](./146085-friends-killing-friends.json) |
 | Friends Marble | 91337 | [91337-friends-marble.json](./91337-friends-marble.json) |
