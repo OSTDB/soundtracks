@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
 | Davis Cup Tennis | 49175 | [49175-davis-cup-tennis.json](./49175-davis-cup-tennis.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
+| Davy Dreams of Flying | 128819 | [128819-davy-dreams-of-flying.json](./128819-davy-dreams-of-flying.json) |
 | Davy Jones C'est Mort | 71152 | [71152-davy-jones-cest-mort.json](./71152-davy-jones-cest-mort.json) |
 | Davy Jones Dating Simulator | 282710 | [282710-davy-jones-dating-simulator.json](./282710-davy-jones-dating-simulator.json) |
 | Davy Jones is Back | 71241 | [71241-davy-jones-is-back.json](./71241-davy-jones-is-back.json) |
@@ -9644,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Disrupt | 415226 | [415226-disrupt.json](./415226-disrupt.json) |
 | Disrupt | 9923 | [9923-disrupt.json](./9923-disrupt.json) |
+| Disruption | 128772 | [128772-disruption.json](./128772-disruption.json) |
 | Disruptive | 260585 | [260585-disruptive.json](./260585-disruptive.json) |
 | Disruptive Compassion | 364496 | [364496-disruptive-compassion.json](./364496-disruptive-compassion.json) |
 | Disruptor | 20654 | [20654-disruptor.json](./20654-disruptor.json) |
@@ -10651,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokee the Dog and the Musical Rain | 70615 | [70615-dokee-the-dog-and-the-musical-rain.json](./70615-dokee-the-dog-and-the-musical-rain.json) |
 | Doki Boki International Hentai Language School | 370255 | [370255-doki-boki-international-hentai-language-school.json](./370255-doki-boki-international-hentai-language-school.json) |
 | Doki Boom Dash | 362736 | [362736-doki-boom-dash.json](./362736-doki-boom-dash.json) |
+| Doki Doki | 128788 | [128788-doki-doki.json](./128788-doki-doki.json) |
 | Doki Doki 2nd Anniversary | 334013 | [334013-doki-doki-2nd-anniversary.json](./334013-doki-doki-2nd-anniversary.json) |
 | Doki Doki A Brand New Day | 334012 | [334012-doki-doki-a-brand-new-day.json](./334012-doki-doki-a-brand-new-day.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
@@ -15827,6 +15830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of Summoners | 67602 | [67602-duel-of-summoners.json](./67602-duel-of-summoners.json) |
 | Duel of Sword | 188290 | [188290-duel-of-sword.json](./188290-duel-of-sword.json) |
 | Duel of Sword | 196548 | [196548-duel-of-sword.json](./196548-duel-of-sword.json) |
+| Duel on Board | 128768 | [128768-duel-on-board.json](./128768-duel-on-board.json) |
 | Duel Otters | 188264 | [188264-duel-otters.json](./188264-duel-otters.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel Puzzle Wars | 114688 | [114688-duel-puzzle-wars.json](./114688-duel-puzzle-wars.json) |
