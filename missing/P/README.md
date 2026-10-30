@@ -539,6 +539,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
+| Pagan: Emporium | 127566 | [127566-pagan-emporium.json](./127566-pagan-emporium.json) |
+| Pagan: Technopolis | 127565 | [127565-pagan-technopolis.json](./127565-pagan-technopolis.json) |
 | Paganitzu | 35549 | [35549-paganitzu.json](./35549-paganitzu.json) |
 | Paganitzu Part 1: Romancing the Rose | 50428 | [50428-paganitzu-part-1-romancing-the-rose.json](./50428-paganitzu-part-1-romancing-the-rose.json) |
 | Paganitzu Part 2: The Silver Dagger | 50477 | [50477-paganitzu-part-2-the-silver-dagger.json](./50477-paganitzu-part-2-the-silver-dagger.json) |
@@ -10254,6 +10256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Rejuvenation | 139328 | [139328-pokemon-rejuvenation.json](./139328-pokemon-rejuvenation.json) |
 | Pokemon Reloaded | 343908 | [343908-pokemon-reloaded.json](./343908-pokemon-reloaded.json) |
 | Pokémon Reminiscencia | 280747 | [280747-pokemon-reminiscencia.json](./280747-pokemon-reminiscencia.json) |
+| Pokémon Renegade Platinum | 127564 | [127564-pokemon-renegade-platinum.json](./127564-pokemon-renegade-platinum.json) |
 | Pokémon RenHERgade Platinum | 387603 | [387603-pokemon-renhergade-platinum.json](./387603-pokemon-renhergade-platinum.json) |
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
 | Pokémon Revolution Online | 129561 | [129561-pokemon-revolution-online.json](./129561-pokemon-revolution-online.json) |
@@ -12108,7 +12111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Dolls FX | 79614 | [79614-power-dolls-fx.json](./79614-power-dolls-fx.json) |
 | Power Dolls: Detachment of Limited Line Service | 50326 | [50326-power-dolls-detachment-of-limited-line-service.json](./50326-power-dolls-detachment-of-limited-line-service.json) |
 | Power Down | 52203 | [52203-power-down.json](./52203-power-down.json) |
-| Power Drift | 12719 | [12719-power-drift.json](./12719-power-drift.json) |
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
 | Power Drive | 12720 | [12720-power-drive.json](./12720-power-drive.json) |
 | Power Drive 2000 | 60239 | [60239-power-drive-2000.json](./60239-power-drive-2000.json) |
@@ -15087,7 +15089,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PRTs | 176277 | [176277-prts.json](./176277-prts.json) |
 | Pru the Pigeon | 277758 | [277758-pru-the-pigeon.json](./277758-pru-the-pigeon.json) |
 | Prueba Humana | 361231 | [361231-prueba-humana.json](./361231-prueba-humana.json) |
-| Prune | 18134 | [18134-prune.json](./18134-prune.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | Prvá Akcia | 93224 | [93224-prva-akcia.json](./93224-prva-akcia.json) |
