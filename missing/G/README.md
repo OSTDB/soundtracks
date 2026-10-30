@@ -5001,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Nippon! 2015 | 166656 | [166656-go-go-nippon-2015.json](./166656-go-go-nippon-2015.json) |
 | Go! Go! Nippon! 2016 | 166659 | [166659-go-go-nippon-2016.json](./166659-go-go-nippon-2016.json) |
 | Go! Go! Nippon!: My First Trip to Japan | 16675 | [16675-go-go-nippon-my-first-trip-to-japan.json](./16675-go-go-nippon-my-first-trip-to-japan.json) |
+| Go! Go! Pogo Cat! | 137251 | [137251-go-go-pogo-cat.json](./137251-go-go-pogo-cat.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
 | Go! Go! Tank | 48997 | [48997-go-go-tank.json](./48997-go-go-tank.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
+| Goddess of Genesis | 137258 | [137258-goddess-of-genesis.json](./137258-goddess-of-genesis.json) |
 | Goddess of Genesis S | 188323 | [188323-goddess-of-genesis-s.json](./188323-goddess-of-genesis-s.json) |
 | Goddess of Hentai | 281341 | [281341-goddess-of-hentai.json](./281341-goddess-of-hentai.json) |
 | Goddess of immortality | 260279 | [260279-goddess-of-immortality.json](./260279-goddess-of-immortality.json) |
@@ -6545,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gormiti: La Lotta Oscura | 137847 | [137847-gormiti-la-lotta-oscura.json](./137847-gormiti-la-lotta-oscura.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
 | Gormiti: The Lords of Nature! | 51032 | [51032-gormiti-the-lords-of-nature.json](./51032-gormiti-the-lords-of-nature.json) |
+| Gormiti: The Masters of the Gorm Island | 137260 | [137260-gormiti-the-masters-of-the-gorm-island.json](./137260-gormiti-the-masters-of-the-gorm-island.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
 | Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
 | Goro 2 | 74655 | [74655-goro-2.json](./74655-goro-2.json) |
