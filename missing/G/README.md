@@ -5457,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
 | Godshard Chronicles | 189844 | [189844-godshard-chronicles.json](./189844-godshard-chronicles.json) |
 | Godslayer Arena | 295851 | [295851-godslayer-arena.json](./295851-godslayer-arena.json) |
+| Godslayer: One | 169035 | [169035-godslayer-one.json](./169035-godslayer-one.json) |
 | Godspeed | 271131 | [271131-godspeed.json](./271131-godspeed.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
