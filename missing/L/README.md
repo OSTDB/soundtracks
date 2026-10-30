@@ -5916,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamatron: 2112 | 50117 | [50117-llamatron-2112.json](./50117-llamatron-2112.json) |
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
 | Llhore | 122939 | [122939-llhore.json](./122939-llhore.json) |
+| LLK | 127530 | [127530-llk.json](./127530-llk.json) |
 | Lllooot! | 354382 | [354382-lllooot.json](./354382-lllooot.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
 | LLMxQuiz | 369911 | [369911-llmxquiz.json](./369911-llmxquiz.json) |
@@ -5971,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
 | Loan Shark | 350592 | [350592-loan-shark.json](./350592-loan-shark.json) |
 | Loan Wolf | 177505 | [177505-loan-wolf.json](./177505-loan-wolf.json) |
+| Loathe the Game | 127533 | [127533-loathe-the-game.json](./127533-loathe-the-game.json) |
 | Loathsome Cleft | 313034 | [313034-loathsome-cleft.json](./313034-loathsome-cleft.json) |
 | Lobber | 257987 | [257987-lobber.json](./257987-lobber.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
@@ -7489,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Resolve | 313293 | [313293-lost-resolve.json](./313293-lost-resolve.json) |
 | Lost Retrograde | 203844 | [203844-lost-retrograde.json](./203844-lost-retrograde.json) |
 | Lost Rift | 336143 | [336143-lost-rift.json](./336143-lost-rift.json) |
+| Lost Roads | 127510 | [127510-lost-roads.json](./127510-lost-roads.json) |
 | Lost Robot | 163781 | [163781-lost-robot.json](./163781-lost-robot.json) |
 | Lost Ronin | 83850 | [83850-lost-ronin.json](./83850-lost-ronin.json) |
 | Lost Room: Escape | 324723 | [324723-lost-room-escape.json](./324723-lost-room-escape.json) |
@@ -8564,6 +8567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion | 90109 | [90109-luigis-mansion.json](./90109-luigis-mansion.json) |
 | Luigi's Mansion 2 HD | 254328 | [254328-luigis-mansion-2-hd.json](./254328-luigis-mansion-2-hd.json) |
 | Luigi's Mansion 3 | 109455 | [109455-luigis-mansion-3.json](./109455-luigis-mansion-3.json) |
+| Luigi's Mansion 3: Multiplayer Pack - Part 1 | 127549 | [127549-luigis-mansion-3-multiplayer-pack-part-1.json](./127549-luigis-mansion-3-multiplayer-pack-part-1.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
 | Luigi's Mansion 64 | 218072 | [218072-luigis-mansion-64.json](./218072-luigis-mansion-64.json) |
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
