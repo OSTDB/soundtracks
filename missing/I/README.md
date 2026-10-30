@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
 | Infinita Strada Hana | 395246 | [395246-infinita-strada-hana.json](./395246-infinita-strada-hana.json) |
 | InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
+| InfinitasDM: Teeth of the Bloodwolf | 174506 | [174506-infinitasdm-teeth-of-the-bloodwolf.json](./174506-infinitasdm-teeth-of-the-bloodwolf.json) |
 | Infinite Abyss | 132528 | [132528-infinite-abyss.json](./132528-infinite-abyss.json) |
 | Infinite Alliance | 345923 | [345923-infinite-alliance.json](./345923-infinite-alliance.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
