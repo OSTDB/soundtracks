@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have to Burn the Rope | 64078 | [64078-you-have-to-burn-the-rope.json](./64078-you-have-to-burn-the-rope.json) |
 | You Have To Climb Out | 308350 | [308350-you-have-to-climb-out.json](./308350-you-have-to-climb-out.json) |
 | You Have to Go to Work | 176421 | [176421-you-have-to-go-to-work.json](./176421-you-have-to-go-to-work.json) |
+| You Have to Play This Game | 167472 | [167472-you-have-to-play-this-game.json](./167472-you-have-to-play-this-game.json) |
 | You Have to Win the Game | 7556 | [7556-you-have-to-win-the-game.json](./7556-you-have-to-win-the-game.json) |
 | You Know My Name? | 312507 | [312507-you-know-my-name.json](./312507-you-know-my-name.json) |
 | You Know The Drill | 322212 | [322212-you-know-the-drill.json](./322212-you-know-the-drill.json) |
