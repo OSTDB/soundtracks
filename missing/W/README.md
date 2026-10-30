@@ -3599,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
 | Wheelie Rider 3D | 106658 | [106658-wheelie-rider-3d.json](./106658-wheelie-rider-3d.json) |
 | Wheelies | 365104 | [365104-wheelies.json](./365104-wheelies.json) |
+| Wheelin' Wallie | 125615 | [125615-wheelin-wallie.json](./125615-wheelin-wallie.json) |
 | Wheelman | 6638 | [6638-wheelman.json](./6638-wheelman.json) |
 | WheelMates | 387496 | [387496-wheelmates.json](./387496-wheelmates.json) |
 | Wheels | 170425 | [170425-wheels.json](./170425-wheels.json) |
@@ -8202,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
+| Wrestling Superstars | 125616 | [125616-wrestling-superstars.json](./125616-wrestling-superstars.json) |
 | Wrestling Universe: Fire Pro Women - Dome Super Female Big Battle: All Japan Women VS J.W.P. | 37627 | [37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json](./37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json) |
 | Wrestling With Emotions | 138546 | [138546-wrestling-with-emotions.json](./138546-wrestling-with-emotions.json) |
 | Wret | 352871 | [352871-wret.json](./352871-wret.json) |
