@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quiet Air | 229561 | [229561-a-quiet-air.json](./229561-a-quiet-air.json) |
 | A Quiet Mind | 100669 | [100669-a-quiet-mind.json](./100669-a-quiet-mind.json) |
 | A Quiet Place: The Road Ahead | 294453 | [294453-a-quiet-place-the-road-ahead.json](./294453-a-quiet-place-the-road-ahead.json) |
+| A Rabbit and the Mystic Fog | 157345 | [157345-a-rabbit-and-the-mystic-fog.json](./157345-a-rabbit-and-the-mystic-fog.json) |
 | A Rabbit Fable | 58087 | [58087-a-rabbit-fable.json](./58087-a-rabbit-fable.json) |
 | A Ragdoll Rage Game | 364048 | [364048-a-ragdoll-rage-game.json](./364048-a-ragdoll-rage-game.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
@@ -6024,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Dominion: The Acronian Encounter | 24756 | [24756-alien-dominion-the-acronian-encounter.json](./24756-alien-dominion-the-acronian-encounter.json) |
 | Alien Dropout | 15593 | [15593-alien-dropout.json](./15593-alien-dropout.json) |
 | Alien Drug Lords: The Chyropian Connection | 14242 | [14242-alien-drug-lords-the-chyropian-connection.json](./14242-alien-drug-lords-the-chyropian-connection.json) |
+| Alien Duel Elements | 157337 | [157337-alien-duel-elements.json](./157337-alien-duel-elements.json) |
 | Alien Earth | 11294 | [11294-alien-earth.json](./11294-alien-earth.json) |
 | Alien Egg: Ascent | 137671 | [137671-alien-egg-ascent.json](./137671-alien-egg-ascent.json) |
 | Alien Engine | 207897 | [207897-alien-engine.json](./207897-alien-engine.json) |
@@ -13886,6 +13888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterlode | 105218 | [105218-asterlode.json](./105218-asterlode.json) |
 | AsterMaster | 418795 | [418795-astermaster.json](./418795-astermaster.json) |
 | Asterminer | 158507 | [158507-asterminer.json](./158507-asterminer.json) |
+| Astero | 157342 | [157342-astero.json](./157342-astero.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asterogue | 184854 | [184854-asterogue.json](./184854-asterogue.json) |
@@ -14433,6 +14436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura's Wrath Episode 15.5 | 217921 | [217921-asuras-wrath-episode-15-5.json](./217921-asuras-wrath-episode-15-5.json) |
 | Asura's Wrath: Lost Episode 1 | 182447 | [182447-asuras-wrath-lost-episode-1.json](./182447-asuras-wrath-lost-episode-1.json) |
 | Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
+| Asura's Wrath: Part IV Nirvana | 157312 | [157312-asuras-wrath-part-iv-nirvana.json](./157312-asuras-wrath-part-iv-nirvana.json) |
 | Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
 | Asurya's Embers | 287065 | [287065-asuryas-embers.json](./287065-asuryas-embers.json) |
 | ASV Trident | 192542 | [192542-asv-trident.json](./192542-asv-trident.json) |
@@ -14604,6 +14608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ataxx | 14480 | [14480-ataxx.json](./14480-ataxx.json) |
 | ATC Flight Operator | 338176 | [338176-atc-flight-operator.json](./338176-atc-flight-operator.json) |
 | ATC Ground Point | 319410 | [319410-atc-ground-point.json](./319410-atc-ground-point.json) |
+| ATC Infinite | 157318 | [157318-atc-infinite.json](./157318-atc-infinite.json) |
 | ATC: Tower & Ground | 413117 | [413117-atc-tower-and-ground.json](./413117-atc-tower-and-ground.json) |
 | ATCo2 | 214115 | [214115-atco2.json](./214115-atco2.json) |
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
