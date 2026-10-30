@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Legends | 130833 | [130833-land-of-legends.json](./130833-land-of-legends.json) |
 | Land of Legends: Heroes of Loria | 247561 | [247561-land-of-legends-heroes-of-loria.json](./247561-land-of-legends-heroes-of-loria.json) |
 | Land of Livia | 398028 | [398028-land-of-livia.json](./398028-land-of-livia.json) |
+| Land of Mu | 164191 | [164191-land-of-mu.json](./164191-land-of-mu.json) |
 | Land of Mushrooms: Co-Op mode - Play with Friends | 324497 | [324497-land-of-mushrooms-co-op-mode-play-with-friends.json](./324497-land-of-mushrooms-co-op-mode-play-with-friends.json) |
 | Land of Mushrooms: Forest of Nightmares - Background | 324469 | [324469-land-of-mushrooms-forest-of-nightmares-background.json](./324469-land-of-mushrooms-forest-of-nightmares-background.json) |
 | Land of Mushrooms: Kawaii Animals - Skin Set | 324429 | [324429-land-of-mushrooms-kawaii-animals-skin-set.json](./324429-land-of-mushrooms-kawaii-animals-skin-set.json) |
@@ -7336,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Legends: The Weeping Woman - Collector's Edition | 34592 | [34592-lost-legends-the-weeping-woman-collectors-edition.json](./34592-lost-legends-the-weeping-woman-collectors-edition.json) |
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Letters | 110909 | [110909-lost-letters.json](./110909-lost-letters.json) |
+| Lost Lies | 164178 | [164178-lost-lies.json](./164178-lost-lies.json) |
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
 | Lost Light | 148295 | [148295-lost-light.json](./148295-lost-light.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
