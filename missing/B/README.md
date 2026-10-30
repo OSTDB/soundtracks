@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5022,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Dangerous | 343371 | [343371-beautiful-dangerous.json](./343371-beautiful-dangerous.json) |
 | Beautiful Defenders | 364031 | [364031-beautiful-defenders.json](./364031-beautiful-defenders.json) |
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
+| Beautiful Desolation: Deluxe Edition | 154188 | [154188-beautiful-desolation-deluxe-edition.json](./154188-beautiful-desolation-deluxe-edition.json) |
 | Beautiful Dreamer | 58703 | [58703-beautiful-dreamer.json](./58703-beautiful-dreamer.json) |
 | Beautiful Escape Dolls | 351566 | [351566-beautiful-escape-dolls.json](./351566-beautiful-escape-dolls.json) |
 | Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
@@ -10011,8 +10013,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRayne | 1015 | [1015-bloodrayne.json](./1015-bloodrayne.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
 | BloodRayne Absolute Bundle | 186537 | [186537-bloodrayne-absolute-bundle.json](./186537-bloodrayne-absolute-bundle.json) |
+| BloodRayne Complete Bundle | 154184 | [154184-bloodrayne-complete-bundle.json](./154184-bloodrayne-complete-bundle.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
 | BloodRayne: Terminal Cut | 140689 | [140689-bloodrayne-terminal-cut.json](./140689-bloodrayne-terminal-cut.json) |
+| BloodRayne: Terminal Cut Bundle | 154186 | [154186-bloodrayne-terminal-cut-bundle.json](./154186-bloodrayne-terminal-cut-bundle.json) |
 | BloodRayne: The Shroud | 77344 | [77344-bloodrayne-the-shroud.json](./77344-bloodrayne-the-shroud.json) |
 | BloodRealm: Battlegrounds | 17587 | [17587-bloodrealm-battlegrounds.json](./17587-bloodrealm-battlegrounds.json) |
 | BloodRealm: War of Gods | 341055 | [341055-bloodrealm-war-of-gods.json](./341055-bloodrealm-war-of-gods.json) |
@@ -13971,6 +13975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigador Killers | 119625 | [119625-brigador-killers.json](./119625-brigador-killers.json) |
+| Brigador: Up-Armored Edition | 154206 | [154206-brigador-up-armored-edition.json](./154206-brigador-up-armored-edition.json) |
 | Brigand: Nightmare | 314725 | [314725-brigand-nightmare.json](./314725-brigand-nightmare.json) |
 | Brigand: Oaxaca | 28045 | [28045-brigand-oaxaca.json](./28045-brigand-oaxaca.json) |
 | Brigand: Panama | 142756 | [142756-brigand-panama.json](./142756-brigand-panama.json) |
