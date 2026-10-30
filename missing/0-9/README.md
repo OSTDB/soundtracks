@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Tetris | 84680 | [84680-3-d-tetris.json](./84680-3-d-tetris.json) |
 | 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
 | 3-D Ultra Lionel Train Town Deluxe | 73627 | [73627-3-d-ultra-lionel-train-town-deluxe.json](./73627-3-d-ultra-lionel-train-town-deluxe.json) |
+| 3-D Ultra Minigolf | 136087 | [136087-3-d-ultra-minigolf.json](./136087-3-d-ultra-minigolf.json) |
 | 3-D Ultra NASCAR Pinball | 50469 | [50469-3-d-ultra-nascar-pinball.json](./50469-3-d-ultra-nascar-pinball.json) |
 | 3-D Ultra Pinball | 50472 | [50472-3-d-ultra-pinball.json](./50472-3-d-ultra-pinball.json) |
 | 3-D Ultra Pinball: Creep Night | 50471 | [50471-3-d-ultra-pinball-creep-night.json](./50471-3-d-ultra-pinball-creep-night.json) |
