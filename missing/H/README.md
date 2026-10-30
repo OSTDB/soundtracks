@@ -10584,6 +10584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger in Paradise | 152798 | [152798-hunger-in-paradise.json](./152798-hunger-in-paradise.json) |
 | Hunger Lane | 403687 | [403687-hunger-lane.json](./403687-hunger-lane.json) |
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
+| Hungover | 131792 | [131792-hungover.json](./131792-hungover.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
 | Hungry | 201646 | [201646-hungry.json](./201646-hungry.json) |
 | Hungry | 307789 | [307789-hungry.json](./307789-hungry.json) |
