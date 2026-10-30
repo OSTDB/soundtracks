@@ -2812,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manipulate: Sacrifice | 150968 | [150968-manipulate-sacrifice.json](./150968-manipulate-sacrifice.json) |
 | Manipulated | 28109 | [28109-manipulated.json](./28109-manipulated.json) |
 | Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
+| Manipulator I:The Hand Behind | 164201 | [164201-manipulator-i-the-hand-behind.json](./164201-manipulator-i-the-hand-behind.json) |
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
 | Manipulus | 322631 | [322631-manipulus.json](./322631-manipulus.json) |
 | Manitas Kitchen | 250796 | [250796-manitas-kitchen.json](./250796-manitas-kitchen.json) |
@@ -19541,6 +19542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
 | Mystical Fighter | 45772 | [45772-mystical-fighter.json](./45772-mystical-fighter.json) |
 | Mystical Herbalists | 380195 | [380195-mystical-herbalists.json](./380195-mystical-herbalists.json) |
+| Mystical Lights | 164176 | [164176-mystical-lights.json](./164176-mystical-lights.json) |
 | Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
 | Mystical Mayhem | 156038 | [156038-mystical-mayhem.json](./156038-mystical-mayhem.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
