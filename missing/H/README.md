@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmful | 216170 | [216170-harmful.json](./216170-harmful.json) |
 | Harmful Park | 44878 | [44878-harmful-park.json](./44878-harmful-park.json) |
 | Harmful: The Second Tape | 187884 | [187884-harmful-the-second-tape.json](./187884-harmful-the-second-tape.json) |
+| Harmless Demons | 138399 | [138399-harmless-demons.json](./138399-harmless-demons.json) |
 | Harmless Lies | 337041 | [337041-harmless-lies.json](./337041-harmless-lies.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmolinks | 404384 | [404384-harmolinks.json](./404384-harmolinks.json) |
@@ -2038,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukoharu | 389951 | [389951-harukoharu.json](./389951-harukoharu.json) |
 | Harukoi Otome: Greetings from the Maidens' Garden | 23432 | [23432-harukoi-otome-greetings-from-the-maidens-garden.json](./23432-harukoi-otome-greetings-from-the-maidens-garden.json) |
 | Harukuru: Spring has Come True? | 332633 | [332633-harukuru-spring-has-come-true.json](./332633-harukuru-spring-has-come-true.json) |
+| Harum Scarum | 138992 | [138992-harum-scarum.json](./138992-harum-scarum.json) |
 | Haruna: Spring | 398513 | [398513-haruna-spring.json](./398513-haruna-spring.json) |
 | Haruoto Alice Gram: Snow Drop | 113585 | [113585-haruoto-alice-gram-snow-drop.json](./113585-haruoto-alice-gram-snow-drop.json) |
 | Harusame Youbi | 71191 | [71191-harusame-youbi.json](./71191-harusame-youbi.json) |
@@ -2048,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Cafe | 294386 | [294386-harvest-cafe.json](./294386-harvest-cafe.json) |
 | Harvest Days | 308511 | [308511-harvest-days.json](./308511-harvest-days.json) |
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
+| Harvest Green | 138429 | [138429-harvest-green.json](./138429-harvest-green.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Havoc | 276664 | [276664-harvest-havoc.json](./276664-harvest-havoc.json) |
 | Harvest Health | 236868 | [236868-harvest-health.json](./236868-harvest-health.json) |
@@ -2242,6 +2245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi Monogatari | 330102 | [330102-hatsukoi-monogatari.json](./330102-hatsukoi-monogatari.json) |
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
 | Hatsukoi Sankaime | 259615 | [259615-hatsukoi-sankaime.json](./259615-hatsukoi-sankaime.json) |
+| Hatsukoi Valentine | 138995 | [138995-hatsukoi-valentine.json](./138995-hatsukoi-valentine.json) |
+| Hatsukoi Valentine Special | 138996 | [138996-hatsukoi-valentine-special.json](./138996-hatsukoi-valentine-special.json) |
 | Hatsukoi, Mikan ni Tsuki Tsuzuku | 394076 | [394076-hatsukoi-mikan-ni-tsuki-tsuzuku.json](./394076-hatsukoi-mikan-ni-tsuki-tsuzuku.json) |
 | Hatsukoi! | 122109 | [122109-hatsukoi.json](./122109-hatsukoi.json) |
 | Hatsumira: From the Future Undying | 197543 | [197543-hatsumira-from-the-future-undying.json](./197543-hatsumira-from-the-future-undying.json) |
@@ -6556,6 +6561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Tomatoes 3 | 330784 | [330784-hidden-tomatoes-3.json](./330784-hidden-tomatoes-3.json) |
 | Hidden Town | 189010 | [189010-hidden-town.json](./189010-hidden-town.json) |
 | Hidden Treasures in the Forest of Dreams | 182327 | [182327-hidden-treasures-in-the-forest-of-dreams.json](./182327-hidden-treasures-in-the-forest-of-dreams.json) |
+| Hidden Valley Tower Defense | 138406 | [138406-hidden-valley-tower-defense.json](./138406-hidden-valley-tower-defense.json) |
 | Hidden Village Top-Down 3D | 255264 | [255264-hidden-village-top-down-3d.json](./255264-hidden-village-top-down-3d.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
 | Hidden Water | 192712 | [192712-hidden-water.json](./192712-hidden-water.json) |
@@ -10920,6 +10926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
 | Hurtful Tower | 178223 | [178223-hurtful-tower.json](./178223-hurtful-tower.json) |
 | Huru Beach Party | 24769 | [24769-huru-beach-party.json](./24769-huru-beach-party.json) |
+| Husbandry | 138403 | [138403-husbandry.json](./138403-husbandry.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
 | Hush - Into the Darkness | 50155 | [50155-hush-into-the-darkness.json](./50155-hush-into-the-darkness.json) |
