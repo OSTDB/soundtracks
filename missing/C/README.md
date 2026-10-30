@@ -3284,11 +3284,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
 | Castlevania: Circle of the Moon GBC | 215764 | [215764-castlevania-circle-of-the-moon-gbc.json](./215764-castlevania-circle-of-the-moon-gbc.json) |
 | Castlevania: Circle of the Realm | 208308 | [208308-castlevania-circle-of-the-realm.json](./208308-castlevania-circle-of-the-realm.json) |
+| Castlevania: Dawn of Dissonance - A Juste Story Mode Hack | 173398 | [173398-castlevania-dawn-of-dissonance-a-juste-story-mode-hack.json](./173398-castlevania-dawn-of-dissonance-a-juste-story-mode-hack.json) |
 | Castlevania: Dawn of Sorrow | 1136 | [1136-castlevania-dawn-of-sorrow.json](./1136-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 336029 | [336029-castlevania-dawn-of-sorrow.json](./336029-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 398837 | [398837-castlevania-dawn-of-sorrow.json](./398837-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
+| Castlevania: Dawn of Sorrow No Required Touch Screen | 173399 | [173399-castlevania-dawn-of-sorrow-no-required-touch-screen.json](./173399-castlevania-dawn-of-sorrow-no-required-touch-screen.json) |
 | Castlevania: Dracula X | 16476 | [16476-castlevania-dracula-x.json](./16476-castlevania-dracula-x.json) |
 | Castlevania: Dracula X | 222418 | [222418-castlevania-dracula-x.json](./222418-castlevania-dracula-x.json) |
 | Castlevania: Eternity of Sorrow | 383624 | [383624-castlevania-eternity-of-sorrow.json](./383624-castlevania-eternity-of-sorrow.json) |
@@ -3327,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Resurrection | 67824 | [67824-castlevania-resurrection.json](./67824-castlevania-resurrection.json) |
 | Castlevania: Rondo of Blood | 1139 | [1139-castlevania-rondo-of-blood.json](./1139-castlevania-rondo-of-blood.json) |
 | Castlevania: Rondo of Blood | 222228 | [222228-castlevania-rondo-of-blood.json](./222228-castlevania-rondo-of-blood.json) |
+| Castlevania: Rondo of Ruin | 173396 | [173396-castlevania-rondo-of-ruin.json](./173396-castlevania-rondo-of-ruin.json) |
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
 | Castlevania: Seal of the Eclipse | 240147 | [240147-castlevania-seal-of-the-eclipse.json](./240147-castlevania-seal-of-the-eclipse.json) |
 | Castlevania: Serenade Under the Moon | 213859 | [213859-castlevania-serenade-under-the-moon.json](./213859-castlevania-serenade-under-the-moon.json) |
@@ -7353,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Elyria | 58484 | [58484-chronicles-of-elyria.json](./58484-chronicles-of-elyria.json) |
 | Chronicles of Emerland | 52509 | [52509-chronicles-of-emerland.json](./52509-chronicles-of-emerland.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
+| Chronicles of Etia: A Samhain Story | 173429 | [173429-chronicles-of-etia-a-samhain-story.json](./173429-chronicles-of-etia-a-samhain-story.json) |
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
 | Chronicles of Immortality in the Cloud Abyss | 379087 | [379087-chronicles-of-immortality-in-the-cloud-abyss.json](./379087-chronicles-of-immortality-in-the-cloud-abyss.json) |
 | Chronicles of Lilith | 149833 | [149833-chronicles-of-lilith.json](./149833-chronicles-of-lilith.json) |
@@ -13776,6 +13780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid Simulator | 187718 | [187718-covid-simulator.json](./187718-covid-simulator.json) |
 | Covid Tale: ignorance | 147166 | [147166-covid-tale-ignorance.json](./147166-covid-tale-ignorance.json) |
 | Covid-19 | 147170 | [147170-covid-19.json](./147170-covid-19.json) |
+| Covid-19 (Corona Virus) | 173386 | [173386-covid-19-corona-virus.json](./173386-covid-19-corona-virus.json) |
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Covid: Survive the PlanDemic | 168085 | [168085-covid-survive-the-plandemic.json](./168085-covid-survive-the-plandemic.json) |
@@ -17037,6 +17042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Simulator | 146562 | [146562-cuckold-simulator.json](./146562-cuckold-simulator.json) |
 | Cuckoldry Festival: Former Pro Wrestler Mother Trifled by the Huge Dick of her Son's Friend | 98497 | [98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json](./98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
+| Cuckoo Curling | 173394 | [173394-cuckoo-curling.json](./173394-cuckoo-curling.json) |
 | Cuckoo Curling | 200311 | [200311-cuckoo-curling.json](./200311-cuckoo-curling.json) |
 | Cuckoo Mask | 253983 | [253983-cuckoo-mask.json](./253983-cuckoo-mask.json) |
 | CuckTales | 309448 | [309448-cucktales.json](./309448-cucktales.json) |
