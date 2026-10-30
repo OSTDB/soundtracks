@@ -862,7 +862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6426,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wire | 131957 | [131957-beyond-the-wire.json](./131957-beyond-the-wire.json) |
 | Beyond the Wizard | 119666 | [119666-beyond-the-wizard.json](./119666-beyond-the-wizard.json) |
 | Beyond These Stars | 239002 | [239002-beyond-these-stars.json](./239002-beyond-these-stars.json) |
+| Beyond This Side | 131818 | [131818-beyond-this-side.json](./131818-beyond-this-side.json) |
 | Beyond Time | 73207 | [73207-beyond-time.json](./73207-beyond-time.json) |
 | Beyond Tokyo | 157447 | [157447-beyond-tokyo.json](./157447-beyond-tokyo.json) |
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
@@ -8472,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
 | Blackstone | 67147 | [67147-blackstone.json](./67147-blackstone.json) |
 | Blackstone | 83927 | [83927-blackstone.json](./83927-blackstone.json) |
+| Blackstone Academy for the Magical Arts | 131757 | [131757-blackstone-academy-for-the-magical-arts.json](./131757-blackstone-academy-for-the-magical-arts.json) |
 | Blackstorm | 158132 | [158132-blackstorm.json](./158132-blackstorm.json) |
 | Blacksword Games | 109166 | [109166-blacksword-games.json](./109166-blacksword-games.json) |
 | Blacktea With Moon | 100156 | [100156-blacktea-with-moon.json](./100156-blacktea-with-moon.json) |
@@ -9124,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
 | Blind Panic | 72526 | [72526-blind-panic.json](./72526-blind-panic.json) |
 | Blind People Simulator | 57612 | [57612-blind-people-simulator.json](./57612-blind-people-simulator.json) |
+| Blind Quest: The Enchanted Castle | 131779 | [131779-blind-quest-the-enchanted-castle.json](./131779-blind-quest-the-enchanted-castle.json) |
 | Blind Quest: The Frost Demon | 167264 | [167264-blind-quest-the-frost-demon.json](./167264-blind-quest-the-frost-demon.json) |
 | Blind Quest: The Ivy Queen | 295498 | [295498-blind-quest-the-ivy-queen.json](./295498-blind-quest-the-ivy-queen.json) |
 | Blind Rage | 411498 | [411498-blind-rage.json](./411498-blind-rage.json) |
