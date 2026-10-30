@@ -7326,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Bats | 234468 | [234468-amazing-bats.json](./234468-amazing-bats.json) |
 | Amazing Birds Hunter | 244085 | [244085-amazing-birds-hunter.json](./244085-amazing-birds-hunter.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
+| Amazing Brick | 143297 | [143297-amazing-brick.json](./143297-amazing-brick.json) |
 | Amazing Bumpman | 12292 | [12292-amazing-bumpman.json](./12292-amazing-bumpman.json) |
 | Amazing Cat Saves the World From Space Blobs | 185460 | [185460-amazing-cat-saves-the-world-from-space-blobs.json](./185460-amazing-cat-saves-the-world-from-space-blobs.json) |
 | Amazing Chicken Adventures | 173262 | [173262-amazing-chicken-adventures.json](./173262-amazing-chicken-adventures.json) |
@@ -13228,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent of Eternity | 343427 | [343427-ascent-of-eternity.json](./343427-ascent-of-eternity.json) |
 | Ascent of Kings | 85506 | [85506-ascent-of-kings.json](./85506-ascent-of-kings.json) |
 | Ascent of the Last Colossus | 393010 | [393010-ascent-of-the-last-colossus.json](./393010-ascent-of-the-last-colossus.json) |
+| Ascent of Titan | 143296 | [143296-ascent-of-titan.json](./143296-ascent-of-titan.json) |
 | Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
 | Ascent Spirit | 84073 | [84073-ascent-spirit.json](./84073-ascent-spirit.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
@@ -14677,6 +14679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Premium Box | 379939 | [379939-atelier-firis-the-alchemist-and-the-mysterious-journey-premium-box.json](./379939-atelier-firis-the-alchemist-and-the-mysterious-journey-premium-box.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Shanon | 170837 | [170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json](./170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json) |
+| Atelier Firis: The Alchemist and the Mysterious Journey DX | 143278 | [143278-atelier-firis-the-alchemist-and-the-mysterious-journey-dx.json](./143278-atelier-firis-the-alchemist-and-the-mysterious-journey-dx.json) |
 | Atelier Iris 2: The Azoth of Destiny | 20510 | [20510-atelier-iris-2-the-azoth-of-destiny.json](./20510-atelier-iris-2-the-azoth-of-destiny.json) |
 | Atelier Iris: Eternal Mana | 19634 | [19634-atelier-iris-eternal-mana.json](./19634-atelier-iris-eternal-mana.json) |
 | Atelier Iris: Eternal Mana 2 After Episode | 314917 | [314917-atelier-iris-eternal-mana-2-after-episode.json](./314917-atelier-iris-eternal-mana-2-after-episode.json) |
@@ -14705,6 +14708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Lucia | 238145 | [238145-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-lucia.json](./238145-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-lucia.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Quest: Loads of Exp Quest | 238143 | [238143-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-loads-of-exp-quest.json](./238143-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-loads-of-exp-quest.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Quest: Piles of Coll Quest | 238142 | [238142-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-piles-of-coll-quest.json](./238142-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-piles-of-coll-quest.json) |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX | 143279 | [143279-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-dx.json](./143279-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-dx.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
 | Atelier Marie Plus: The Alchemist of Salburg | 308190 | [308190-atelier-marie-plus-the-alchemist-of-salburg.json](./308190-atelier-marie-plus-the-alchemist-of-salburg.json) |
@@ -14715,6 +14719,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Marie: The Alchemist of Salburg | 26439 | [26439-atelier-marie-the-alchemist-of-salburg.json](./26439-atelier-marie-the-alchemist-of-salburg.json) |
 | Atelier Meruru: The Apprentice of Arland | 7277 | [7277-atelier-meruru-the-apprentice-of-arland.json](./7277-atelier-meruru-the-apprentice-of-arland.json) |
 | Atelier Meruru: The Apprentice of Arland DX | 105032 | [105032-atelier-meruru-the-apprentice-of-arland-dx.json](./105032-atelier-meruru-the-apprentice-of-arland-dx.json) |
+| Atelier Mysterious Trilogy DX: Premium Box | 143284 | [143284-atelier-mysterious-trilogy-dx-premium-box.json](./143284-atelier-mysterious-trilogy-dx-premium-box.json) |
+| Atelier Mysterious Trilogy DX: Special Collection Box | 143283 | [143283-atelier-mysterious-trilogy-dx-special-collection-box.json](./143283-atelier-mysterious-trilogy-dx-special-collection-box.json) |
 | Atelier Online: Alchemists of Braceir | 196529 | [196529-atelier-online-alchemists-of-braceir.json](./196529-atelier-online-alchemists-of-braceir.json) |
 | Atelier Questboard | 130323 | [130323-atelier-questboard.json](./130323-atelier-questboard.json) |
 | Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator | 260817 | [260817-atelier-resleriana-forgotten-alchemy-and-the-polar-night-liberator.json](./260817-atelier-resleriana-forgotten-alchemy-and-the-polar-night-liberator.json) |
@@ -15302,6 +15308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aufschwung Ost | 12395 | [12395-aufschwung-ost.json](./12395-aufschwung-ost.json) |
 | AUGG | 145902 | [145902-augg.json](./145902-augg.json) |
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
+| Augma II Arc I | 143309 | [143309-augma-ii-arc-i.json](./143309-augma-ii-arc-i.json) |
 | Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
 | Augmental Puzzles | 398544 | [398544-augmental-puzzles.json](./398544-augmental-puzzles.json) |
 | Augmented AR Jungle Adventure | 175311 | [175311-augmented-ar-jungle-adventure.json](./175311-augmented-ar-jungle-adventure.json) |
