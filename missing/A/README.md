@@ -10504,6 +10504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
 | Aqua Adventure: Blue Lilty | 65996 | [65996-aqua-adventure-blue-lilty.json](./65996-aqua-adventure-blue-lilty.json) |
 | Aqua Aqua | 43549 | [43549-aqua-aqua.json](./43549-aqua-aqua.json) |
+| Aqua Boy | 172918 | [172918-aqua-boy.json](./172918-aqua-boy.json) |
 | Aqua Bubble | 70214 | [70214-aqua-bubble.json](./70214-aqua-bubble.json) |
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
 | Aqua Cube | 82583 | [82583-aqua-cube.json](./82583-aqua-cube.json) |
