@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Sing Deutsche Hits 2 | 268208 | [268208-we-sing-deutsche-hits-2.json](./268208-we-sing-deutsche-hits-2.json) |
 | We Sing Down Under | 5269 | [5269-we-sing-down-under.json](./5269-we-sing-down-under.json) |
 | We Sing Pop! | 5271 | [5271-we-sing-pop.json](./5271-we-sing-pop.json) |
+| We Sing Pop!: Solus Edition | 168556 | [168556-we-sing-pop-solus-edition.json](./168556-we-sing-pop-solus-edition.json) |
 | We Sing Superstar Quiz | 63900 | [63900-we-sing-superstar-quiz.json](./63900-we-sing-superstar-quiz.json) |
 | We Sing UK Hits | 5274 | [5274-we-sing-uk-hits.json](./5274-we-sing-uk-hits.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
