@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handwriting HD | 93838 | [93838-handwriting-hd.json](./93838-handwriting-hd.json) |
 | Handy | 120835 | [120835-handy.json](./120835-handy.json) |
 | Handy Caps | 73728 | [73728-handy-caps.json](./73728-handy-caps.json) |
+| Handy Dandy | 132418 | [132418-handy-dandy.json](./132418-handy-dandy.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
 | Handy Harry's Haunted House Services | 143508 | [143508-handy-harrys-haunted-house-services.json](./143508-handy-harrys-haunted-house-services.json) |
 | Handy Harvy | 142068 | [142068-handy-harvy.json](./142068-handy-harvy.json) |
@@ -1825,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hareraiser II | 238889 | [238889-hareraiser-ii.json](./238889-hareraiser-ii.json) |
 | Hareraiser: Finale | 276008 | [276008-hareraiser-finale.json](./276008-hareraiser-finale.json) |
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
+| Hargrave | 132429 | [132429-hargrave.json](./132429-hargrave.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
 | Harlem Blade II: Dark Angel | 249630 | [249630-harlem-blade-ii-dark-angel.json](./249630-harlem-blade-ii-dark-angel.json) |
