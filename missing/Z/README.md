@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup!: DLC | 169712 | [169712-zup-dlc.json](./169712-zup-dlc.json) |
 | Zupapa! | 47577 | [47577-zupapa.json](./47577-zupapa.json) |
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
+| ZuPs! Snow in Summer | 165289 | [165289-zups-snow-in-summer.json](./165289-zups-snow-in-summer.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zurd Hunt | 351539 | [351539-zurd-hunt.json](./351539-zurd-hunt.json) |
 | Zuria | 204433 | [204433-zuria.json](./204433-zuria.json) |
