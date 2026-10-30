@@ -4427,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Doomer | 300445 | [300445-final-doomer.json](./300445-final-doomer.json) |
 | Final Dose | 239831 | [239831-final-dose.json](./239831-final-dose.json) |
 | Final Dream | 340973 | [340973-final-dream.json](./340973-final-dream.json) |
+| Final Drive: Nitro | 137237 | [137237-final-drive-nitro.json](./137237-final-drive-nitro.json) |
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
@@ -7630,6 +7631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
 | Flutter VR | 101662 | [101662-flutter-vr.json](./101662-flutter-vr.json) |
+| Flutter: Starlight | 137248 | [137248-flutter-starlight.json](./137248-flutter-starlight.json) |
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
 | Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
@@ -9866,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
 | Foxyland 2 | 116875 | [116875-foxyland-2.json](./116875-foxyland-2.json) |
+| Foxyland Collection | 137252 | [137252-foxyland-collection.json](./137252-foxyland-collection.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPAH: Foul Play Air Hockey | 197653 | [197653-fpah-foul-play-air-hockey.json](./197653-fpah-foul-play-air-hockey.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
