@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omar Sharif on Bridge | 73490 | [73490-omar-sharif-on-bridge.json](./73490-omar-sharif-on-bridge.json) |
 | Omashu: Snail Racing | 357219 | [357219-omashu-snail-racing.json](./357219-omashu-snail-racing.json) |
 | Omawari-san: Koitsu Desu. - Kai | 376687 | [376687-omawari-san-koitsu-desu-kai.json](./376687-omawari-san-koitsu-desu-kai.json) |
+| Omaze | 151973 | [151973-omaze.json](./151973-omaze.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Ombra | 120894 | [120894-ombra.json](./120894-ombra.json) |
 | OMD, Noobs! | 303826 | [303826-omd-noobs.json](./303826-omd-noobs.json) |
@@ -2855,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnsenVR | 75804 | [75804-onsenvr.json](./75804-onsenvr.json) |
 | Onset | 119395 | [119395-onset.json](./119395-onset.json) |
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
+| Onslaught | 151935 | [151935-onslaught.json](./151935-onslaught.json) |
 | Onslaught | 259137 | [259137-onslaught.json](./259137-onslaught.json) |
 | Onslaught | 341510 | [341510-onslaught.json](./341510-onslaught.json) |
 | Onslaught | 69201 | [69201-onslaught.json](./69201-onslaught.json) |
