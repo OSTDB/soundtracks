@@ -2797,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoji Heian Memoirs | 181504 | [181504-onmyoji-heian-memoirs.json](./181504-onmyoji-heian-memoirs.json) |
 | Onmyoji in the Otherworld: Sayaka's Story | 172005 | [172005-onmyoji-in-the-otherworld-sayakas-story.json](./172005-onmyoji-in-the-otherworld-sayakas-story.json) |
 | Onmyoji: Beyond Time | 298981 | [298981-onmyoji-beyond-time.json](./298981-onmyoji-beyond-time.json) |
+| Onmyoji: The World | 175028 | [175028-onmyoji-the-world.json](./175028-onmyoji-the-world.json) |
 | Onmyou Taisenki: Byakko Enbu | 78491 | [78491-onmyou-taisenki-byakko-enbu.json](./78491-onmyou-taisenki-byakko-enbu.json) |
 | Onmyou Taisenki: Hasha no In | 78492 | [78492-onmyou-taisenki-hasha-no-in.json](./78492-onmyou-taisenki-hasha-no-in.json) |
 | Onmyou Taisenki: Zeroshiki | 49735 | [49735-onmyou-taisenki-zeroshiki.json](./49735-onmyou-taisenki-zeroshiki.json) |
@@ -5241,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
 | Owarai Yoiko no Game-dou: Oyaji Sagashite 3-choume | 228631 | [228631-owarai-yoiko-no-game-dou-oyaji-sagashite-3-choume.json](./228631-owarai-yoiko-no-game-dou-oyaji-sagashite-3-choume.json) |
+| Owaranai Yuugure ni Kieta Kimi | 175047 | [175047-owaranai-yuugure-ni-kieta-kimi.json](./175047-owaranai-yuugure-ni-kieta-kimi.json) |
 | Oware3D | 207863 | [207863-oware3d.json](./207863-oware3d.json) |
 | Owari | 37389 | [37389-owari.json](./37389-owari.json) |
 | Owari no Kane ga Naru mae ni: Chapter 1 - Plus Edition | 259721 | [259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json](./259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json) |
