@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are a slave! | 171882 | [171882-you-are-a-slave.json](./171882-you-are-a-slave.json) |
 | You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
 | You Are a Whale Part 1 | 151642 | [151642-you-are-a-whale-part-1.json](./151642-you-are-a-whale-part-1.json) |
+| You Are Alone | 159483 | [159483-you-are-alone.json](./159483-you-are-alone.json) |
 | You are an Ancient Chinese Poet in Exile | 326768 | [326768-you-are-an-ancient-chinese-poet-in-exile.json](./326768-you-are-an-ancient-chinese-poet-in-exile.json) |
 | You Are an Ancient Poet at the Neo-Orchid Pavilion | 367188 | [367188-you-are-an-ancient-poet-at-the-neo-orchid-pavilion.json](./367188-you-are-an-ancient-poet-at-the-neo-orchid-pavilion.json) |
 | You are Awake Now | 234716 | [234716-you-are-awake-now.json](./234716-you-are-awake-now.json) |
