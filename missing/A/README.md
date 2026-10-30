@@ -5936,6 +5936,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Archeologist | 411075 | [411075-alien-archeologist.json](./411075-alien-archeologist.json) |
 | Alien Arena | 39532 | [39532-alien-arena.json](./39532-alien-arena.json) |
 | Alien Arena: Warriors of Mars | 51937 | [51937-alien-arena-warriors-of-mars.json](./51937-alien-arena-warriors-of-mars.json) |
+| Alien Arena: Warriors Of Mars - Map Pack 1 | 168014 | [168014-alien-arena-warriors-of-mars-map-pack-1.json](./168014-alien-arena-warriors-of-mars-map-pack-1.json) |
+| Alien Arena: Warriors Of Mars - Map Pack 2 | 168015 | [168015-alien-arena-warriors-of-mars-map-pack-2.json](./168015-alien-arena-warriors-of-mars-map-pack-2.json) |
+| Alien Arena: Warriors Of Mars - Map Pack 3 | 168030 | [168030-alien-arena-warriors-of-mars-map-pack-3.json](./168030-alien-arena-warriors-of-mars-map-pack-3.json) |
+| Alien Arena: Warriors Of Mars - Map Pack 4 | 168012 | [168012-alien-arena-warriors-of-mars-map-pack-4.json](./168012-alien-arena-warriors-of-mars-map-pack-4.json) |
+| Alien Arena: Warriors Of Mars - Map Pack 5 | 168016 | [168016-alien-arena-warriors-of-mars-map-pack-5.json](./168016-alien-arena-warriors-of-mars-map-pack-5.json) |
+| Alien Arena: Warriors Of Mars - Map Pack 7 | 168018 | [168018-alien-arena-warriors-of-mars-map-pack-7.json](./168018-alien-arena-warriors-of-mars-map-pack-7.json) |
+| Alien Arena: Warriors Of Mars - Map Pack 8 | 168013 | [168013-alien-arena-warriors-of-mars-map-pack-8.json](./168013-alien-arena-warriors-of-mars-map-pack-8.json) |
 | Alien Assault | 66623 | [66623-alien-assault.json](./66623-alien-assault.json) |
 | Alien Attack | 245129 | [245129-alien-attack.json](./245129-alien-attack.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
@@ -15504,6 +15511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automount | 341637 | [341637-automount.json](./341637-automount.json) |
 | Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
 | Autonauts vs Piratebots | 207729 | [207729-autonauts-vs-piratebots.json](./207729-autonauts-vs-piratebots.json) |
+| Autonima | 168034 | [168034-autonima.json](./168034-autonima.json) |
 | Autonomous | 63767 | [63767-autonomous.json](./63767-autonomous.json) |
 | Autonomous Anarchy | 289732 | [289732-autonomous-anarchy.json](./289732-autonomous-anarchy.json) |
 | Autonomous Gods | 382557 | [382557-autonomous-gods.json](./382557-autonomous-gods.json) |
