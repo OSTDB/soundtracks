@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
 | EIsland Hop | 254073 | [254073-eisland-hop.json](./254073-eisland-hop.json) |
+| Eithéa | 128195 | [128195-eithea.json](./128195-eithea.json) |
 | Either | 174528 | [174528-either.json](./174528-either.json) |
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eitr | 11181 | [11181-eitr.json](./11181-eitr.json) |
@@ -3072,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
 | Emu Otori Clicker | 341993 | [341993-emu-otori-clicker.json](./341993-emu-otori-clicker.json) |
+| Emu War! | 128180 | [128180-emu-war.json](./128180-emu-war.json) |
 | Emüd | 60842 | [60842-emud.json](./60842-emud.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
 | Emulate Thrill | 284181 | [284181-emulate-thrill.json](./284181-emulate-thrill.json) |
@@ -7209,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorers of Palan | 416843 | [416843-explorers-of-palan.json](./416843-explorers-of-palan.json) |
 | Explorers of Space | 305452 | [305452-explorers-of-space.json](./305452-explorers-of-space.json) |
 | Explorers of Space | 47265 | [47265-explorers-of-space.json](./47265-explorers-of-space.json) |
+| Explorers of the Abyss | 128179 | [128179-explorers-of-the-abyss.json](./128179-explorers-of-the-abyss.json) |
 | Explorers of the Brick Universe | 404528 | [404528-explorers-of-the-brick-universe.json](./404528-explorers-of-the-brick-universe.json) |
 | Explorers: Deluxe Edition | 152280 | [152280-explorers-deluxe-edition.json](./152280-explorers-deluxe-edition.json) |
 | Explorers: The Game | 174242 | [174242-explorers-the-game.json](./174242-explorers-the-game.json) |
