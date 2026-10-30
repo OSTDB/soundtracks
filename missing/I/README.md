@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
 | ICoreBreach | 175115 | [175115-icorebreach.json](./175115-icorebreach.json) |
+| Icorp | 151388 | [151388-icorp.json](./151388-icorp.json) |
 | Icosi-Do | 209391 | [209391-icosi-do.json](./209391-icosi-do.json) |
 | ICP: The Gathering | 105537 | [105537-icp-the-gathering.json](./105537-icp-the-gathering.json) |
 | ICU: Intensive Care Unit 8 | 405772 | [405772-icu-intensive-care-unit-8.json](./405772-icu-intensive-care-unit-8.json) |
