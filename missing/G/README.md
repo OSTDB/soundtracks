@@ -5640,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Graves | 345281 | [345281-gold-and-graves.json](./345281-gold-and-graves.json) |
+| Gold Cliff | 145225 | [145225-gold-cliff.json](./145225-gold-cliff.json) |
 | Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
 | Gold Crusader | 30517 | [30517-gold-crusader.json](./30517-gold-crusader.json) |
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
