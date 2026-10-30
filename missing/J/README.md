@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| J & J's Vegas Pack: Black-Jack | 131135 | [131135-j-and-js-vegas-pack-black-jack.json](./131135-j-and-js-vegas-pack-black-jack.json) |
 | J and the Sewer World | 285598 | [285598-j-and-the-sewer-world.json](./285598-j-and-the-sewer-world.json) |
 | J_O_U_R_N_E_Y | 390696 | [390696-j-o-u-r-n-e-y.json](./390696-j-o-u-r-n-e-y.json) |
 | J-Girl | 110141 | [110141-j-girl.json](./110141-j-girl.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ski Rush | 147714 | [147714-jet-ski-rush.json](./147714-jet-ski-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
 | Jet Skiing Race | 290899 | [290899-jet-skiing-race.json](./290899-jet-skiing-race.json) |
+| Jet Spin | 131114 | [131114-jet-spin.json](./131114-jet-spin.json) |
 | Jet Storm 2: 3D | 241573 | [241573-jet-storm-2-3d.json](./241573-jet-storm-2-3d.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | Jet Up | 264748 | [264748-jet-up.json](./264748-jet-up.json) |
@@ -3280,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
 | Junior Arithmancer | 138149 | [138149-junior-arithmancer.json](./138149-junior-arithmancer.json) |
+| Junior Board Games | 131127 | [131127-junior-board-games.json](./131127-junior-board-games.json) |
 | Junior Brain Trainer | 23270 | [23270-junior-brain-trainer.json](./23270-junior-brain-trainer.json) |
 | Junior Brain Trainer 2 | 210004 | [210004-junior-brain-trainer-2.json](./210004-junior-brain-trainer-2.json) |
 | Junior Brain Trainer: Math Edition | 209854 | [209854-junior-brain-trainer-math-edition.json](./209854-junior-brain-trainer-math-edition.json) |
