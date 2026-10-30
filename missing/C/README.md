@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rooms: Sticker Decor! | 423864 | [423864-cat-rooms-sticker-decor.json](./423864-cat-rooms-sticker-decor.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Sandbox | 277738 | [277738-cat-sandbox.json](./277738-cat-sandbox.json) |
+| Cat Saves Halloween | 145233 | [145233-cat-saves-halloween.json](./145233-cat-saves-halloween.json) |
 | Cat Scratch | 59719 | [59719-cat-scratch.json](./59719-cat-scratch.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Search in Feudal Japan | 284798 | [284798-cat-search-in-feudal-japan.json](./284798-cat-search-in-feudal-japan.json) |
@@ -9993,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize ~Guardian of Rebirth~ Collector's Edition | 122652 | [122652-code-realize-guardian-of-rebirth-collectors-edition.json](./122652-code-realize-guardian-of-rebirth-collectors-edition.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
 | Code: Replicant | 298986 | [298986-code-replicant.json](./298986-code-replicant.json) |
+| Code: Seed Seihi no Uta | 145170 | [145170-code-seed-seihi-no-uta.json](./145170-code-seed-seihi-no-uta.json) |
 | Code: Sentinel | 295202 | [295202-code-sentinel.json](./295202-code-sentinel.json) |
 | Code: Star Dungeon | 155448 | [155448-code-star-dungeon.json](./155448-code-star-dungeon.json) |
 | Code: Terraform | 401030 | [401030-code-terraform.json](./401030-code-terraform.json) |
@@ -11892,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
 | Conductor Destructor | 182038 | [182038-conductor-destructor.json](./182038-conductor-destructor.json) |
+| Conductor: Creative Joy Engine | 145217 | [145217-conductor-creative-joy-engine.json](./145217-conductor-creative-joy-engine.json) |
 | Conductor: Eternal Service | 373582 | [373582-conductor-eternal-service.json](./373582-conductor-eternal-service.json) |
 | Conductus | 402437 | [402437-conductus.json](./402437-conductus.json) |
 | Conduits | 338883 | [338883-conduits.json](./338883-conduits.json) |
@@ -17495,6 +17498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Cards | 422033 | [422033-curse-of-cards.json](./422033-curse-of-cards.json) |
+| Curse of D'sparil | 145206 | [145206-curse-of-dsparil.json](./145206-curse-of-dsparil.json) |
 | Curse of Dares | 303673 | [303673-curse-of-dares.json](./303673-curse-of-dares.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
 | Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
