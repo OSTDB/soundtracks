@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Trenches | 175142 | [175142-table-trenches.json](./175142-table-trenches.json) |
 | Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
+| Tabletop Adventures | 129967 | [129967-tabletop-adventures.json](./129967-tabletop-adventures.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
 | Tabletop Defense | 363674 | [363674-tabletop-defense.json](./363674-tabletop-defense.json) |
 | Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
@@ -7289,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawn Era | 341941 | [341941-the-dawn-era.json](./341941-the-dawn-era.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
 | The Dawn Obscura | 341494 | [341494-the-dawn-obscura.json](./341494-the-dawn-obscura.json) |
+| The Dawn of Art | 129991 | [129991-the-dawn-of-art.json](./129991-the-dawn-of-art.json) |
 | The Dawn of Lily | 126280 | [126280-the-dawn-of-lily.json](./126280-the-dawn-of-lily.json) |
 | The Dawn Of Slenderman | 321358 | [321358-the-dawn-of-slenderman.json](./321358-the-dawn-of-slenderman.json) |
 | The Dawn: Sniper's Way | 189207 | [189207-the-dawn-snipers-way.json](./189207-the-dawn-snipers-way.json) |
@@ -7939,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
 | The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
+| The Ember Saga: A New Fire | 129959 | [129959-the-ember-saga-a-new-fire.json](./129959-the-ember-saga-a-new-fire.json) |
 | The Embodiment of Scarlet Hair Portable: I'm Lovin' It | 403446 | [403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json](./403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json) |
 | The Emerald Maiden: Symphony of Dreams | 20363 | [20363-the-emerald-maiden-symphony-of-dreams.json](./20363-the-emerald-maiden-symphony-of-dreams.json) |
 | The Emeralds' Awakening | 326721 | [326721-the-emeralds-awakening.json](./326721-the-emeralds-awakening.json) |
@@ -9996,6 +9999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Crash Dummies | 365652 | [365652-the-incredible-crash-dummies.json](./365652-the-incredible-crash-dummies.json) |
 | The Incredible Crash Dummies | 365654 | [365654-the-incredible-crash-dummies.json](./365654-the-incredible-crash-dummies.json) |
 | The Incredible Crash Dummies | 365655 | [365655-the-incredible-crash-dummies.json](./365655-the-incredible-crash-dummies.json) |
+| The incredible friends | 129972 | [129972-the-incredible-friends.json](./129972-the-incredible-friends.json) |
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 368893 | [368893-the-incredible-hulk.json](./368893-the-incredible-hulk.json) |
 | The Incredible Hulk | 4928 | [4928-the-incredible-hulk.json](./4928-the-incredible-hulk.json) |
@@ -13451,6 +13455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit: Infinity - Healer | 168187 | [168187-the-pit-infinity-healer.json](./168187-the-pit-infinity-healer.json) |
 | The Pit: Infinity - Juggernaut | 168186 | [168186-the-pit-infinity-juggernaut.json](./168186-the-pit-infinity-juggernaut.json) |
 | The Pix | 101994 | [101994-the-pix.json](./101994-the-pix.json) |
+| The Pixel Boy's Adventures | 129946 | [129946-the-pixel-boys-adventures.json](./129946-the-pixel-boys-adventures.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
 | The Pixel Pulps Collection: Special Edition | 300750 | [300750-the-pixel-pulps-collection-special-edition.json](./300750-the-pixel-pulps-collection-special-edition.json) |
 | The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
@@ -22032,6 +22037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Hero | 352148 | [352148-toilet-hero.json](./352148-toilet-hero.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
+| Toilet Ninjas | 129963 | [129963-toilet-ninjas.json](./129963-toilet-ninjas.json) |
 | Toilet of the Gods | 140874 | [140874-toilet-of-the-gods.json](./140874-toilet-of-the-gods.json) |
 | Toilet Paper Please | 297332 | [297332-toilet-paper-please.json](./297332-toilet-paper-please.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
