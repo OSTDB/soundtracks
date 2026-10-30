@@ -9813,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Slice of Life | 22215 | [22215-divine-slice-of-life.json](./22215-divine-slice-of-life.json) |
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
+| Divine Stone | 150375 | [150375-divine-stone.json](./150375-divine-stone.json) |
 | Divine Trials | 311757 | [311757-divine-trials.json](./311757-divine-trials.json) |
 | Divine Twins | 285022 | [285022-divine-twins.json](./285022-divine-twins.json) |
 | Divine W: Perfect Wonderland | 219787 | [219787-divine-w-perfect-wonderland.json](./219787-divine-w-perfect-wonderland.json) |
@@ -13800,6 +13801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake & Josh | 6385 | [6385-drake-and-josh.json](./6385-drake-and-josh.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake of the 99 Dragons | 5815 | [5815-drake-of-the-99-dragons.json](./5815-drake-of-the-99-dragons.json) |
+| Drake's Odds: Survive | 150385 | [150385-drakes-odds-survive.json](./150385-drakes-odds-survive.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
 | Drakeling Labs | 90130 | [90130-drakeling-labs.json](./90130-drakeling-labs.json) |
