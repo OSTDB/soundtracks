@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaKuro Master | 209847 | [209847-kakuro-master.json](./209847-kakuro-master.json) |
 | Kakuro Puzzle Addict Unlimited Addition | 209846 | [209846-kakuro-puzzle-addict-unlimited-addition.json](./209846-kakuro-puzzle-addict-unlimited-addition.json) |
 | Kakuro++ | 311557 | [311557-kakuro.json](./311557-kakuro.json) |
+| Kakuromaniacs | 154750 | [154750-kakuromaniacs.json](./154750-kakuromaniacs.json) |
 | Kakusankibou | 80899 | [80899-kakusankibou.json](./80899-kakusankibou.json) |
 | Kakutou Haou Densetsu Algunos | 37586 | [37586-kakutou-haou-densetsu-algunos.json](./37586-kakutou-haou-densetsu-algunos.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle-hen | 228569 | [228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json](./228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelipot | 121851 | [121851-kelipot.json](./121851-kelipot.json) |
 | Kellogg's Football Tigers | 336444 | [336444-kelloggs-football-tigers.json](./336444-kelloggs-football-tigers.json) |
 | Kellogg's Frosties Gr-r-rand Prix | 398944 | [398944-kelloggs-frosties-gr-r-rand-prix.json](./398944-kelloggs-frosties-gr-r-rand-prix.json) |
+| Kellogg's Gut Bacteria Reef | 154767 | [154767-kelloggs-gut-bacteria-reef.json](./154767-kelloggs-gut-bacteria-reef.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
@@ -2506,7 +2508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5049,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon's Gate | 66177 | [66177-kowloons-gate.json](./66177-kowloons-gate.json) |
 | Kowloon's Gate Suzaku | 403947 | [403947-kowloons-gate-suzaku.json](./403947-kowloons-gate-suzaku.json) |
 | Kowloon's Gate VR: Suzaku | 49511 | [49511-kowloons-gate-vr-suzaku.json](./49511-kowloons-gate-vr-suzaku.json) |
+| Kowloon's Rhizome: A Day of the Fire | 154861 | [154861-kowloons-rhizome-a-day-of-the-fire.json](./154861-kowloons-rhizome-a-day-of-the-fire.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 1 | 255804 | [255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json](./255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 2 | 255806 | [255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json](./255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 3 | 255807 | [255807-kowloons-rhizome-a-day-of-the-fire-vol-3.json](./255807-kowloons-rhizome-a-day-of-the-fire-vol-3.json) |
