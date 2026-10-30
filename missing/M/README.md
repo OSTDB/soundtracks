@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Madness | 337527 | [337527-magic-madness.json](./337527-magic-madness.json) |
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
+| Magic Manny | 159513 | [159513-magic-manny.json](./159513-magic-manny.json) |
 | Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Masks | 99685 | [99685-magic-masks.json](./99685-magic-masks.json) |
@@ -5099,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MathsJack | 56567 | [56567-mathsjack.json](./56567-mathsjack.json) |
 | Mathuba | 198121 | [198121-mathuba.json](./198121-mathuba.json) |
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
+| Matias Candia: Lord Doomer | 159491 | [159491-matias-candia-lord-doomer.json](./159491-matias-candia-lord-doomer.json) |
 | Matilda | 406546 | [406546-matilda.json](./406546-matilda.json) |
 | Matilda 2 | 409609 | [409609-matilda-2.json](./409609-matilda-2.json) |
 | Mating Zone | 59888 | [59888-mating-zone.json](./59888-mating-zone.json) |
@@ -13147,6 +13149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoHo | 176877 | [176877-moho.json](./176877-moho.json) |
 | Mohrta | 298795 | [298795-mohrta.json](./298795-mohrta.json) |
 | MoHun Online | 290316 | [290316-mohun-online.json](./290316-mohun-online.json) |
+| Moi Mei 2 | 159485 | [159485-moi-mei-2.json](./159485-moi-mei-2.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moi Moi Heroes | 275125 | [275125-moi-moi-heroes.json](./275125-moi-moi-heroes.json) |
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
@@ -14871,6 +14874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshot | 312045 | [312045-moonshot.json](./312045-moonshot.json) |
 | Moonshot Mission | 370439 | [370439-moonshot-mission.json](./370439-moonshot-mission.json) |
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
+| Moonshot: The Great Espionage | 159516 | [159516-moonshot-the-great-espionage.json](./159516-moonshot-the-great-espionage.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | Moonspire | 41179 | [41179-moonspire.json](./41179-moonspire.json) |
@@ -19715,6 +19719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos: Book One | 344543 | [344543-mythos-book-one.json](./344543-mythos-book-one.json) |
 | Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
+| Mythrealm | 159514 | [159514-mythrealm.json](./159514-mythrealm.json) |
 | Mythrera | 238676 | [238676-mythrera.json](./238676-mythrera.json) |
 | Myths & Fairy Tales Bundle | 274418 | [274418-myths-and-fairy-tales-bundle.json](./274418-myths-and-fairy-tales-bundle.json) |
 | Myths & Rites | 381296 | [381296-myths-and-rites.json](./381296-myths-and-rites.json) |
