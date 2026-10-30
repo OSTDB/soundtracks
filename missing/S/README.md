@@ -10840,6 +10840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Simulator: Winter Sports | 281906 | [281906-ski-simulator-winter-sports.json](./281906-ski-simulator-winter-sports.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Ski Sport: Jumping VR | 29700 | [29700-ski-sport-jumping-vr.json](./29700-ski-sport-jumping-vr.json) |
+| Ski Stunt Simulator | 143271 | [143271-ski-stunt-simulator.json](./143271-ski-stunt-simulator.json) |
 | Ski Yeet | 409831 | [409831-ski-yeet.json](./409831-ski-yeet.json) |
 | Ski Zoo | 244091 | [244091-ski-zoo.json](./244091-ski-zoo.json) |
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
