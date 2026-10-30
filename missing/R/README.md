@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Planet: Survive | 327919 | [327919-red-planet-survive.json](./327919-red-planet-survive.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Protocol | 412491 | [412491-red-protocol.json](./412491-red-protocol.json) |
+| Red Rage | 166416 | [166416-red-rage.json](./166416-red-rage.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
 | Red Remover Blast | 253266 | [253266-red-remover-blast.json](./253266-red-remover-blast.json) |
 | Red Riddles | 376135 | [376135-red-riddles.json](./376135-red-riddles.json) |
@@ -9804,6 +9805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Out | 159550 | [159550-root-out.json](./159550-root-out.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
 | Root: Hirelings & Landmarks | 385182 | [385182-root-hirelings-and-landmarks.json](./385182-root-hirelings-and-landmarks.json) |
+| Root: The Clockwork Expansion | 166432 | [166432-root-the-clockwork-expansion.json](./166432-root-the-clockwork-expansion.json) |
 | Root: The Marauder Expansion | 364037 | [364037-root-the-marauder-expansion.json](./364037-root-the-marauder-expansion.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
 | Root: The Underworld Expansion | 243518 | [243518-root-the-underworld-expansion.json](./243518-root-the-underworld-expansion.json) |
