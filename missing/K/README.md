@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kem Alpha 1 | 267830 | [267830-kem-alpha-1.json](./267830-kem-alpha-1.json) |
 | Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
+| Kemco RPG Selection Vol. 4 | 136652 | [136652-kemco-rpg-selection-vol-4.json](./136652-kemco-rpg-selection-vol-4.json) |
 | Kemco RPG Selection Vol. 6 | 140887 | [140887-kemco-rpg-selection-vol-6.json](./140887-kemco-rpg-selection-vol-6.json) |
 | Kemco RPG Selection Vol. 7 | 146017 | [146017-kemco-rpg-selection-vol-7.json](./146017-kemco-rpg-selection-vol-7.json) |
 | Kemco RPG Selection Vol. 9 | 186664 | [186664-kemco-rpg-selection-vol-9.json](./186664-kemco-rpg-selection-vol-9.json) |
@@ -2529,7 +2530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
