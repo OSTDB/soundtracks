@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoGeo Online Collection Complete Box: Gekkan | 381232 | [381232-neogeo-online-collection-complete-box-gekkan.json](./381232-neogeo-online-collection-complete-box-gekkan.json) |
 | NeoGeo Online Collection Complete Box: Joukan | 381224 | [381224-neogeo-online-collection-complete-box-joukan.json](./381224-neogeo-online-collection-complete-box-joukan.json) |
 | Neogeo Pocket Color Selection Vol. 2: Steelbook Bundle | 284482 | [284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json](./284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json) |
+| Neogeo Pocket Color Selection Vol.1 | 147661 | [147661-neogeo-pocket-color-selection-vol-1.json](./147661-neogeo-pocket-color-selection-vol-1.json) |
 | Neogeo Pocket Color Selection Vol.2 | 225497 | [225497-neogeo-pocket-color-selection-vol-2.json](./225497-neogeo-pocket-color-selection-vol-2.json) |
 | NeoGeometry | 113176 | [113176-neogeometry.json](./113176-neogeometry.json) |
 | NeoHack | 373830 | [373830-neohack.json](./373830-neohack.json) |
@@ -2438,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerd Survivors | 272740 | [272740-nerd-survivors.json](./272740-nerd-survivors.json) |
 | Nerd: Tracing Dayline | 318273 | [318273-nerd-tracing-dayline.json](./318273-nerd-tracing-dayline.json) |
 | Nerd's Guide to Surviving High School | 210369 | [210369-nerds-guide-to-surviving-high-school.json](./210369-nerds-guide-to-surviving-high-school.json) |
+| Nerdook Bundle Vol. 1 | 147664 | [147664-nerdook-bundle-vol-1.json](./147664-nerdook-bundle-vol-1.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nerdtastic Norman & The Soul Fragments | 295400 | [295400-nerdtastic-norman-and-the-soul-fragments.json](./295400-nerdtastic-norman-and-the-soul-fragments.json) |
@@ -2987,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Soccer Manager | 109583 | [109583-new-star-soccer-manager.json](./109583-new-star-soccer-manager.json) |
 | New Star Tennis | 77108 | [77108-new-star-tennis.json](./77108-new-star-tennis.json) |
 | New Stars | 393822 | [393822-new-stars.json](./393822-new-stars.json) |
+| New State Mobile | 143915 | [143915-new-state-mobile.json](./143915-new-state-mobile.json) |
 | New Story of Seasons | 117535 | [117535-new-story-of-seasons.json](./117535-new-story-of-seasons.json) |
 | New Supaplex | 94895 | [94895-new-supaplex.json](./94895-new-supaplex.json) |
 | New Super Abandoned: Discovery Island | 242480 | [242480-new-super-abandoned-discovery-island.json](./242480-new-super-abandoned-discovery-island.json) |
@@ -3300,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
 | NFL Blitz 2000: Gold Edition | 39598 | [39598-nfl-blitz-2000-gold-edition.json](./39598-nfl-blitz-2000-gold-edition.json) |
+| NFL Blitz 2001 | 144563 | [144563-nfl-blitz-2001.json](./144563-nfl-blitz-2001.json) |
 | NFL Blitz 2001 | 47752 | [47752-nfl-blitz-2001.json](./47752-nfl-blitz-2001.json) |
 | NFL Blitz 2003 | 248464 | [248464-nfl-blitz-2003.json](./248464-nfl-blitz-2003.json) |
 | NFL Blitz 2003 | 47365 | [47365-nfl-blitz-2003.json](./47365-nfl-blitz-2003.json) |
@@ -5723,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad: Steppeborn Saga | 340957 | [340957-nomad-steppeborn-saga.json](./340957-nomad-steppeborn-saga.json) |
 | Nomadica | 292430 | [292430-nomadica.json](./292430-nomadica.json) |
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
+| Nomads of Driftland: The Forgotten Passage | 144556 | [144556-nomads-of-driftland-the-forgotten-passage.json](./144556-nomads-of-driftland-the-forgotten-passage.json) |
 | Nomads of the Fallen Star | 113640 | [113640-nomads-of-the-fallen-star.json](./113640-nomads-of-the-fallen-star.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Noman's Dungeon | 181177 | [181177-nomans-dungeon.json](./181177-nomans-dungeon.json) |
@@ -5931,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoReason's Speedmaps | 222622 | [222622-noreasons-speedmaps.json](./222622-noreasons-speedmaps.json) |
 | NoReason's Speedmaps 2 | 221850 | [221850-noreasons-speedmaps-2.json](./221850-noreasons-speedmaps-2.json) |
 | NoReason's Speedmaps 3 | 222620 | [222620-noreasons-speedmaps-3.json](./222620-noreasons-speedmaps-3.json) |
+| NoReload Heroes: Enhanced Edition | 143879 | [143879-noreload-heroes-enhanced-edition.json](./143879-noreload-heroes-enhanced-edition.json) |
 | Noren | 158583 | [158583-noren.json](./158583-noren.json) |
 | Noreya: The Gold Project | 211738 | [211738-noreya-the-gold-project.json](./211738-noreya-the-gold-project.json) |
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
@@ -6017,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Shore | 349265 | [349265-north-shore.json](./349265-north-shore.json) |
 | North Star Mining Co. | 327163 | [327163-north-star-mining-co.json](./327163-north-star-mining-co.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
+| North Town | 143902 | [143902-north-town.json](./143902-north-town.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
