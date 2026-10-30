@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vee is Calling | 76549 | [76549-vee-is-calling.json](./76549-vee-is-calling.json) |
 | Vee Rethak: Deep Under the Mountain | 29652 | [29652-vee-rethak-deep-under-the-mountain.json](./29652-vee-rethak-deep-under-the-mountain.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
+| Veg Out Crew | 158357 | [158357-veg-out-crew.json](./158357-veg-out-crew.json) |
 | Vega | 235272 | [235272-vega.json](./235272-vega.json) |
 | Vega Conflict | 23627 | [23627-vega-conflict.json](./23627-vega-conflict.json) |
 | Vega Conflict: Bastion Cruiser Pack | 168309 | [168309-vega-conflict-bastion-cruiser-pack.json](./168309-vega-conflict-bastion-cruiser-pack.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void: Icarus | 365254 | [365254-void-icarus.json](./365254-void-icarus.json) |
 | void.Resign | 130329 | [130329-void-resign.json](./130329-void-resign.json) |
 | Void's Ballad | 163734 | [163734-voids-ballad.json](./163734-voids-ballad.json) |
+| Void's Blight | 158346 | [158346-voids-blight.json](./158346-voids-blight.json) |
 | Void's Calling ep. 2 | 196093 | [196093-voids-calling-ep-2.json](./196093-voids-calling-ep-2.json) |
 | Void's Rage | 381274 | [381274-voids-rage.json](./381274-voids-rage.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
