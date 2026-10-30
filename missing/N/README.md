@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Joe & Mac: Caveman Ninja | 215620 | [215620-new-joe-and-mac-caveman-ninja.json](./215620-new-joe-and-mac-caveman-ninja.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Kind of Adventure | 35089 | [35089-new-kind-of-adventure.json](./35089-new-kind-of-adventure.json) |
+| New King | 132395 | [132395-new-king.json](./132395-new-king.json) |
 | New Lands | 193241 | [193241-new-lands.json](./193241-new-lands.json) |
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
 | New Lands 2 | 254061 | [254061-new-lands-2.json](./254061-new-lands-2.json) |
@@ -5256,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Place For Bravery | 23690 | [23690-no-place-for-bravery.json](./23690-no-place-for-bravery.json) |
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
 | No Place To Hide | 274855 | [274855-no-place-to-hide.json](./274855-no-place-to-hide.json) |
+| No Plan B | 132448 | [132448-no-plan-b.json](./132448-no-plan-b.json) |
 | No Play No Die | 233534 | [233534-no-play-no-die.json](./233534-no-play-no-die.json) |
 | No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
 | No Pressure: Hive War | 274961 | [274961-no-pressure-hive-war.json](./274961-no-pressure-hive-war.json) |
