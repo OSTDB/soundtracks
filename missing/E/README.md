@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
 | Eternal Afterlife | 257851 | [257851-eternal-afterlife.json](./257851-eternal-afterlife.json) |
+| Eternal Alien | 128821 | [128821-eternal-alien.json](./128821-eternal-alien.json) |
 | Eternal Arena | 38691 | [38691-eternal-arena.json](./38691-eternal-arena.json) |
 | Eternal Battle VR | 262819 | [262819-eternal-battle-vr.json](./262819-eternal-battle-vr.json) |
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
@@ -6042,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even20: The Interference of Parallels | 373096 | [373096-even20-the-interference-of-parallels.json](./373096-even20-the-interference-of-parallels.json) |
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
 | EvenFlo | 58111 | [58111-evenflo.json](./58111-evenflo.json) |
+| Evenicle 2 | 128796 | [128796-evenicle-2.json](./128796-evenicle-2.json) |
 | Evening | 360501 | [360501-evening.json](./360501-evening.json) |
 | Evening Chaos | 81125 | [81125-evening-chaos.json](./81125-evening-chaos.json) |
 | EVEning Course | 417966 | [417966-evening-course.json](./417966-evening-course.json) |
