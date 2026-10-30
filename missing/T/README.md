@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taolu | 209944 | [209944-taolu.json](./209944-taolu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
 | TAOTH: The Adventures of the Herkulez | 76349 | [76349-taoth-the-adventures-of-the-herkulez.json](./76349-taoth-the-adventures-of-the-herkulez.json) |
+| TaoYaoTa | 150354 | [150354-taoyaota.json](./150354-taoyaota.json) |
 | Taoyuan Adventure | 160174 | [160174-taoyuan-adventure.json](./160174-taoyuan-adventure.json) |
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
 | Tap 4 Sex | 339416 | [339416-tap-4-sex.json](./339416-tap-4-sex.json) |
@@ -6481,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chipmunks | 217948 | [217948-the-chipmunks.json](./217948-the-chipmunks.json) |
 | The Chiral Night: Rhythm Carnival | 230197 | [230197-the-chiral-night-rhythm-carnival.json](./230197-the-chiral-night-rhythm-carnival.json) |
 | The Choco Of Dunkers 2003 | 97488 | [97488-the-choco-of-dunkers-2003.json](./97488-the-choco-of-dunkers-2003.json) |
+| The Choice of Life: Middle Ages 2 | 150348 | [150348-the-choice-of-life-middle-ages-2.json](./150348-the-choice-of-life-middle-ages-2.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choices Of Priori | 412546 | [412546-the-choices-of-priori.json](./412546-the-choices-of-priori.json) |
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
@@ -7163,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Legions | 32361 | [32361-the-dark-legions.json](./32361-the-dark-legions.json) |
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
+| The Dark Method | 150353 | [150353-the-dark-method.json](./150353-the-dark-method.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
 | The Dark Mod | 50344 | [50344-the-dark-mod.json](./50344-the-dark-mod.json) |
 | The Dark Pictures Anthology: House of Ashes - Pazuzu Edition | 152103 | [152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json](./152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json) |
@@ -11945,6 +11948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Painter | 386120 | [386120-the-lost-painter.json](./386120-the-lost-painter.json) |
 | The Lost Penguin | 302038 | [302038-the-lost-penguin.json](./302038-the-lost-penguin.json) |
 | The Lost Pisces | 26987 | [26987-the-lost-pisces.json](./26987-the-lost-pisces.json) |
+| The Lost Planet Zenox | 150370 | [150370-the-lost-planet-zenox.json](./150370-the-lost-planet-zenox.json) |
 | The Lost Post | 252938 | [252938-the-lost-post.json](./252938-the-lost-post.json) |
 | The Lost Prince | 261737 | [261737-the-lost-prince.json](./261737-the-lost-prince.json) |
 | The Lost Residents | 180447 | [180447-the-lost-residents.json](./180447-the-lost-residents.json) |
@@ -16886,6 +16890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wayhaven Chronicles: Book One | 88043 | [88043-the-wayhaven-chronicles-book-one.json](./88043-the-wayhaven-chronicles-book-one.json) |
 | The Wayhaven Chronicles: Book Three | 224639 | [224639-the-wayhaven-chronicles-book-three.json](./224639-the-wayhaven-chronicles-book-three.json) |
 | The Wayhaven Chronicles: Book Two | 130146 | [130146-the-wayhaven-chronicles-book-two.json](./130146-the-wayhaven-chronicles-book-two.json) |
+| The Ways of Uron | 150352 | [150352-the-ways-of-uron.json](./150352-the-ways-of-uron.json) |
 | The Waystone's Toll: A Diorama Mini-Dungeon | 139873 | [139873-the-waystones-toll-a-diorama-mini-dungeon.json](./139873-the-waystones-toll-a-diorama-mini-dungeon.json) |
 | The Wayward Isles | 28536 | [28536-the-wayward-isles.json](./28536-the-wayward-isles.json) |
 | The Wayward Tower | 329031 | [329031-the-wayward-tower.json](./329031-the-wayward-tower.json) |
