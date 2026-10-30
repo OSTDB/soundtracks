@@ -7632,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Lies: Teen Romance Love Story Game | 102555 | [102555-love-and-lies-teen-romance-love-story-game.json](./102555-love-and-lies-teen-romance-love-story-game.json) |
 | Love and Order | 35731 | [35731-love-and-order.json](./35731-love-and-order.json) |
 | Love and Passion | 224506 | [224506-love-and-passion.json](./224506-love-and-passion.json) |
+| Love and Romance: A Study of Intimacy | 166427 | [166427-love-and-romance-a-study-of-intimacy.json](./166427-love-and-romance-a-study-of-intimacy.json) |
 | Love and Sex: First Base | 383555 | [383555-love-and-sex-first-base.json](./383555-love-and-sex-first-base.json) |
 | Love and Sex: Second Base - For A Fistful Of Waifu | 312049 | [312049-love-and-sex-second-base-for-a-fistful-of-waifu.json](./312049-love-and-sex-second-base-for-a-fistful-of-waifu.json) |
 | Love and War: Act I | 122860 | [122860-love-and-war-act-i.json](./122860-love-and-war-act-i.json) |
