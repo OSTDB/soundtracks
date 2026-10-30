@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
+| SCP: Breakout Story | 137837 | [137837-scp-breakout-story.json](./137837-scp-breakout-story.json) |
 | SCP: CB Multiplayer Reborn | 350939 | [350939-scp-cb-multiplayer-reborn.json](./350939-scp-cb-multiplayer-reborn.json) |
 | SCP: Chamberz | 270580 | [270580-scp-chamberz.json](./270580-scp-chamberz.json) |
 | SCP: Classified Site | 228128 | [228128-scp-classified-site.json](./228128-scp-classified-site.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scram! | 265294 | [265294-scram.json](./265294-scram.json) |
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
 | Scramballed! | 241178 | [241178-scramballed.json](./241178-scramballed.json) |
+| Scrambl'd | 137819 | [137819-scrambld.json](./137819-scrambld.json) |
 | Scramble | 168574 | [168574-scramble.json](./168574-scramble.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
@@ -7925,6 +7927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmubedi Boo | 147665 | [147665-shmubedi-boo.json](./147665-shmubedi-boo.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | SHMUP | 393007 | [393007-shmup.json](./393007-shmup.json) |
+| Shmup Arena | 137831 | [137831-shmup-arena.json](./137831-shmup-arena.json) |
 | Shmup Ball | 186052 | [186052-shmup-ball.json](./186052-shmup-ball.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
 | Shmup Collection | 133583 | [133583-shmup-collection.json](./133583-shmup-collection.json) |
@@ -11157,6 +11160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Diver | 239491 | [239491-sky-diver.json](./239491-sky-diver.json) |
 | Sky Diving: Parachute Flight Simulator | 329431 | [329431-sky-diving-parachute-flight-simulator.json](./329431-sky-diving-parachute-flight-simulator.json) |
 | Sky Division | 246786 | [246786-sky-division.json](./246786-sky-division.json) |
+| Sky Dog | 137804 | [137804-sky-dog.json](./137804-sky-dog.json) |
 | Sky Dominion | 292561 | [292561-sky-dominion.json](./292561-sky-dominion.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
@@ -16471,6 +16475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Kihei Votoms | 85861 | [85861-soukou-kihei-votoms.json](./85861-soukou-kihei-votoms.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
 | Soukou Kihei Votoms: Uoodo-Kummen Hen | 77845 | [77845-soukou-kihei-votoms-uoodo-kummen-hen.json](./77845-soukou-kihei-votoms-uoodo-kummen-hen.json) |
+| Soukou Musume | 137825 | [137825-soukou-musume.json](./137825-soukou-musume.json) |
 | Soukou Musume (Armored Girls) | 71599 | [71599-soukou-musume-armored-girls.json](./71599-soukou-musume-armored-girls.json) |
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
 | Soukyuu Guren-tai | 44759 | [44759-soukyuu-guren-tai.json](./44759-soukyuu-guren-tai.json) |
@@ -16591,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Butterflies: The Lobby | 284889 | [284889-soul-of-butterflies-the-lobby.json](./284889-soul-of-butterflies-the-lobby.json) |
 | Soul of Darkness | 47798 | [47798-soul-of-darkness.json](./47798-soul-of-darkness.json) |
 | Soul of Deva | 38955 | [38955-soul-of-deva.json](./38955-soul-of-deva.json) |
+| Soul of Eden | 137846 | [137846-soul-of-eden.json](./137846-soul-of-eden.json) |
 | Soul of Giga | 142720 | [142720-soul-of-giga.json](./142720-soul-of-giga.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Hometown | 216782 | [216782-soul-of-hometown.json](./216782-soul-of-hometown.json) |
@@ -24144,6 +24150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stíny noci | 397831 | [397831-stiny-noci.json](./397831-stiny-noci.json) |
 | Stip | 347491 | [347491-stip.json](./347491-stip.json) |
 | Stirge Hunters | 389600 | [389600-stirge-hunters.json](./389600-stirge-hunters.json) |
+| Stirring Abyss | 137824 | [137824-stirring-abyss.json](./137824-stirring-abyss.json) |
 | Stirring Tea Perfection | 367349 | [367349-stirring-tea-perfection.json](./367349-stirring-tea-perfection.json) |
 | Stitch | 229562 | [229562-stitch.json](./229562-stitch.json) |
 | Stitch Head | 388232 | [388232-stitch-head.json](./388232-stitch-head.json) |
