@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
 | Bad North | 78550 | [78550-bad-north.json](./78550-bad-north.json) |
 | Bad North: Jotunn Edition | 302647 | [302647-bad-north-jotunn-edition.json](./302647-bad-north-jotunn-edition.json) |
+| Bad North: Jotunn Edition - Deluxe Edition | 124968 | [124968-bad-north-jotunn-edition-deluxe-edition.json](./124968-bad-north-jotunn-edition-deluxe-edition.json) |
 | Bad Note | 111865 | [111865-bad-note.json](./111865-bad-note.json) |
 | Bad Omens: 8th Apartment | 308007 | [308007-bad-omens-8th-apartment.json](./308007-bad-omens-8th-apartment.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
@@ -863,7 +864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: DLC Bundle Pack | 227671 | [227671-battle-brothers-dlc-bundle-pack.json](./227671-battle-brothers-dlc-bundle-pack.json) |
 | Battle Brothers: Lindwurm | 155347 | [155347-battle-brothers-lindwurm.json](./155347-battle-brothers-lindwurm.json) |
 | Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
+| Battle Brothers: Warriors of the North | 124963 | [124963-battle-brothers-warriors-of-the-north.json](./124963-battle-brothers-warriors-of-the-north.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
 | Battle Bugs | 333490 | [333490-battle-bugs.json](./333490-battle-bugs.json) |
@@ -9211,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
 | Blither | 250157 | [250157-blither.json](./250157-blither.json) |
+| Blitter Boy: Operation Monster Mall | 125006 | [125006-blitter-boy-operation-monster-mall.json](./125006-blitter-boy-operation-monster-mall.json) |
 | Blitz | 308289 | [308289-blitz.json](./308289-blitz.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
