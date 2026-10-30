@@ -5725,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese: The Cheese Collector | 319092 | [319092-cheese-the-cheese-collector.json](./319092-cheese-the-cheese-collector.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
 | CheeseCatToe | 363353 | [363353-cheesecattoe.json](./363353-cheesecattoe.json) |
+| CheeseCube | 156317 | [156317-cheesecube.json](./156317-cheesecube.json) |
 | Cheeseland Mistery | 384176 | [384176-cheeseland-mistery.json](./384176-cheeseland-mistery.json) |
 | CheeseLords | 378440 | [378440-cheeselords.json](./378440-cheeselords.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
