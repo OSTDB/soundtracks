@@ -5258,7 +5258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serum | 216721 | [216721-serum.json](./216721-serum.json) |
 | Serum | 273863 | [273863-serum.json](./273863-serum.json) |
 | Serum X | 95229 | [95229-serum-x.json](./95229-serum-x.json) |
-| Servant of the Lake | 350179 | [350179-servant-of-the-lake.json](./350179-servant-of-the-lake.json) |
 | Servants of Sumomon | 217134 | [217134-servants-of-sumomon.json](./217134-servants-of-sumomon.json) |
 | Serve & Protect Bundle | 311048 | [311048-serve-and-protect-bundle.json](./311048-serve-and-protect-bundle.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
@@ -12266,7 +12265,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Well | 362787 | [362787-slime-well.json](./362787-slime-well.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-ing | 245728 | [245728-slime-ing.json](./245728-slime-ing.json) |
-| Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
 | Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
 | Slime-san: Superslime Edition | 96019 | [96019-slime-san-superslime-edition.json](./96019-slime-san-superslime-edition.json) |
 | Slime, Fire and Soul | 287794 | [287794-slime-fire-and-soul.json](./287794-slime-fire-and-soul.json) |
@@ -17579,7 +17577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
