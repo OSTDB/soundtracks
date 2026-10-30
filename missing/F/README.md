@@ -2890,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatale | 15989 | [15989-fatale.json](./15989-fatale.json) |
 | FatalZone | 258907 | [258907-fatalzone.json](./258907-fatalzone.json) |
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
+| FatCat with Hat: Reload the Powergun | 133634 | [133634-fatcat-with-hat-reload-the-powergun.json](./133634-fatcat-with-hat-reload-the-powergun.json) |
 | Fate | 10998 | [10998-fate.json](./10998-fate.json) |
 | Fate | 159588 | [159588-fate.json](./159588-fate.json) |
 | Fate | 364622 | [364622-fate.json](./364622-fate.json) |
@@ -4817,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Space: The Rescue | 187062 | [187062-final-space-the-rescue.json](./187062-final-space-the-rescue.json) |
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
 | Final Stand Waves | 394672 | [394672-final-stand-waves.json](./394672-final-stand-waves.json) |
+| Final Stand: Ragnarok | 133589 | [133589-final-stand-ragnarok.json](./133589-final-stand-ragnarok.json) |
 | Final Star | 113440 | [113440-final-star.json](./113440-final-star.json) |
 | Final Star Force | 40986 | [40986-final-star-force.json](./40986-final-star-force.json) |
 | Final Stardust | 188814 | [188814-final-stardust.json](./188814-final-stardust.json) |
@@ -10549,6 +10551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
+| Freezing Skies | 133616 | [133616-freezing-skies.json](./133616-freezing-skies.json) |
 | Freezing What If... | 340258 | [340258-freezing-what-if.json](./340258-freezing-what-if.json) |
 | Freezy Match | 393121 | [393121-freezy-match.json](./393121-freezy-match.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
@@ -12198,6 +12201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
 | Furitsu Metatopology Daigaku Fuzoku Joshi Koukou | 308286 | [308286-furitsu-metatopology-daigaku-fuzoku-joshi-koukou.json](./308286-furitsu-metatopology-daigaku-fuzoku-joshi-koukou.json) |
 | Furius Legacy | 209763 | [209763-furius-legacy.json](./209763-furius-legacy.json) |
+| FuriusAO | 133635 | [133635-furiusao.json](./133635-furiusao.json) |
 | Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
 | FurnCap | 145985 | [145985-furncap.json](./145985-furncap.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
