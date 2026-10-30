@@ -5457,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled Stars | 19941 | [19941-bejeweled-stars.json](./19941-bejeweled-stars.json) |
 | Beki, Do You Copy? | 372731 | [372731-beki-do-you-copy.json](./372731-beki-do-you-copy.json) |
 | Bekkouame | 93708 | [93708-bekkouame.json](./93708-bekkouame.json) |
+| Beku | 171759 | [171759-beku.json](./171759-beku.json) |
 | Bel & Poppy | 184979 | [184979-bel-and-poppy.json](./184979-bel-and-poppy.json) |
 | Bel's Fanfare | 385696 | [385696-bels-fanfare.json](./385696-bels-fanfare.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
@@ -8801,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Entropy Effect - Rachel Character Pack | 350338 | [350338-blazblue-entropy-effect-rachel-character-pack.json](./350338-blazblue-entropy-effect-rachel-character-pack.json) |
 | BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | BlazBlue: Entropy Effect x Dead Cells | 339611 | [339611-blazblue-entropy-effect-x-dead-cells.json](./339611-blazblue-entropy-effect-x-dead-cells.json) |
+| Blaze | 171722 | [171722-blaze.json](./171722-blaze.json) |
 | Blaze & Blade Busters | 43787 | [43787-blaze-and-blade-busters.json](./43787-blaze-and-blade-busters.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
