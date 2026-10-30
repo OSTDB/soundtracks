@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Island | 107611 | [107611-ogre-island.json](./107611-ogre-island.json) |
 | Ogre Labs | 310703 | [310703-ogre-labs.json](./310703-ogre-labs.json) |
 | Ogre Man | 325906 | [325906-ogre-man.json](./325906-ogre-man.json) |
+| Ogre Smash | 137269 | [137269-ogre-smash.json](./137269-ogre-smash.json) |
 | Ogre Stampede | 413480 | [413480-ogre-stampede.json](./413480-ogre-stampede.json) |
 | Ogre: Console Edition | 202050 | [202050-ogre-console-edition.json](./202050-ogre-console-edition.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
@@ -3233,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Escape | 367768 | [367768-operation-escape.json](./367768-operation-escape.json) |
 | Operation: Forge the Deep | 216610 | [216610-operation-forge-the-deep.json](./216610-operation-forge-the-deep.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
+| Operation: Harsh Doorstop | 137280 | [137280-operation-harsh-doorstop.json](./137280-operation-harsh-doorstop.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Hostage Rescue - Close Quarters Combat | 208989 | [208989-operation-hostage-rescue-close-quarters-combat.json](./208989-operation-hostage-rescue-close-quarters-combat.json) |
 | Operation: Inner Space | 69216 | [69216-operation-inner-space.json](./69216-operation-inner-space.json) |
