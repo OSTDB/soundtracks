@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kashiwagi Shigetaka no Top Water Bassing | 37967 | [37967-kashiwagi-shigetaka-no-top-water-bassing.json](./37967-kashiwagi-shigetaka-no-top-water-bassing.json) |
 | Kasiori | 146821 | [146821-kasiori.json](./146821-kasiori.json) |
 | Kaskade | 351782 | [351782-kaskade.json](./351782-kaskade.json) |
+| Kasmo | 156824 | [156824-kasmo.json](./156824-kasmo.json) |
 | Kaspar i Nudådalen | 297547 | [297547-kaspar-i-nudadalen.json](./297547-kaspar-i-nudadalen.json) |
 | Kasparov Chessmate | 23528 | [23528-kasparov-chessmate.json](./23528-kasparov-chessmate.json) |
 | Kasparov's Gambit | 47114 | [47114-kasparovs-gambit.json](./47114-kasparovs-gambit.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3514,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Trilogy | 136718 | [136718-kiss-trilogy.json](./136718-kiss-trilogy.json) |
 | Kiss Trilogy: Premium Edition | 136826 | [136826-kiss-trilogy-premium-edition.json](./136826-kiss-trilogy-premium-edition.json) |
 | KISS U | 194891 | [194891-kiss-u.json](./194891-kiss-u.json) |
+| Kiss Upload | 156839 | [156839-kiss-upload.json](./156839-kiss-upload.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kiss: Psycho Circus - The Nightmare Child | 9096 | [9096-kiss-psycho-circus-the-nightmare-child.json](./9096-kiss-psycho-circus-the-nightmare-child.json) |
 | Kiss/Off | 189994 | [189994-kiss-off.json](./189994-kiss-off.json) |
