@@ -5102,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alchemist | 207373 | [207373-the-alchemist.json](./207373-the-alchemist.json) |
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
 | The Alchemist & His Battle-Scarred Homunculus | 315048 | [315048-the-alchemist-and-his-battle-scarred-homunculus.json](./315048-the-alchemist-and-his-battle-scarred-homunculus.json) |
+| The Alchemist Alekki | 158901 | [158901-the-alchemist-alekki.json](./158901-the-alchemist-alekki.json) |
 | The Alchemist of Nafiljar | 244906 | [244906-the-alchemist-of-nafiljar.json](./244906-the-alchemist-of-nafiljar.json) |
 | The Alchemist Shop: An Apprentice's Life | 213308 | [213308-the-alchemist-shop-an-apprentices-life.json](./213308-the-alchemist-shop-an-apprentices-life.json) |
 | The Alchemist's Cards | 397784 | [397784-the-alchemists-cards.json](./397784-the-alchemists-cards.json) |
@@ -6299,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case Book of Arne: Interlude | 308216 | [308216-the-case-book-of-arne-interlude.json](./308216-the-case-book-of-arne-interlude.json) |
 | The Case of Andrew D. | 299370 | [299370-the-case-of-andrew-d.json](./299370-the-case-of-andrew-d.json) |
 | The Case of Arcadia Springs | 385301 | [385301-the-case-of-arcadia-springs.json](./385301-the-case-of-arcadia-springs.json) |
+| The Case of Maneki | 158864 | [158864-the-case-of-maneki.json](./158864-the-case-of-maneki.json) |
 | The Case of the Cautious Condor | 70968 | [70968-the-case-of-the-cautious-condor.json](./70968-the-case-of-the-cautious-condor.json) |
 | The Case of the City Botucaiba | 257415 | [257415-the-case-of-the-city-botucaiba.json](./257415-the-case-of-the-city-botucaiba.json) |
 | The Case of the Dark Strangler | 337678 | [337678-the-case-of-the-dark-strangler.json](./337678-the-case-of-the-dark-strangler.json) |
@@ -6993,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Dragmoria | 337309 | [337309-the-curse-of-dragmoria.json](./337309-the-curse-of-dragmoria.json) |
 | The Curse of Eclipse | 235807 | [235807-the-curse-of-eclipse.json](./235807-the-curse-of-eclipse.json) |
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
+| The Curse of Fafnir | 158871 | [158871-the-curse-of-fafnir.json](./158871-the-curse-of-fafnir.json) |
 | The Curse of Feldar Vale | 161558 | [161558-the-curse-of-feldar-vale.json](./161558-the-curse-of-feldar-vale.json) |
 | The Curse of Grimsey Island | 204372 | [204372-the-curse-of-grimsey-island.json](./204372-the-curse-of-grimsey-island.json) |
 | The Curse of Illmoore Bay | 169874 | [169874-the-curse-of-illmoore-bay.json](./169874-the-curse-of-illmoore-bay.json) |
@@ -7374,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Denpa Men: They Came By Wave | 9662 | [9662-the-denpa-men-they-came-by-wave.json](./9662-the-denpa-men-they-came-by-wave.json) |
 | The Departure | 81981 | [81981-the-departure.json](./81981-the-departure.json) |
 | The Depraved Vampire Slut | 152207 | [152207-the-depraved-vampire-slut.json](./152207-the-depraved-vampire-slut.json) |
+| The Depths | 158902 | [158902-the-depths.json](./158902-the-depths.json) |
 | The Depths of Avalon | 339207 | [339207-the-depths-of-avalon.json](./339207-the-depths-of-avalon.json) |
 | The Depths of Depravity | 345133 | [345133-the-depths-of-depravity.json](./345133-the-depths-of-depravity.json) |
 | The Depths of Despair | 317305 | [317305-the-depths-of-despair.json](./317305-the-depths-of-despair.json) |
@@ -9377,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Happiest Days of Your Life | 13870 | [13870-the-happiest-days-of-your-life.json](./13870-the-happiest-days-of-your-life.json) |
 | The Happy Dismal Town | 192718 | [192718-the-happy-dismal-town.json](./192718-the-happy-dismal-town.json) |
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
+| The Happy Little Virus | 158903 | [158903-the-happy-little-virus.json](./158903-the-happy-little-virus.json) |
 | The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
 | The Harakin | 385968 | [385968-the-harakin.json](./385968-the-harakin.json) |
 | The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
@@ -9630,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hospital | 231534 | [231534-the-hospital.json](./231534-the-hospital.json) |
 | The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
 | The Hospital: Allison's Diary | 74923 | [74923-the-hospital-allisons-diary.json](./74923-the-hospital-allisons-diary.json) |
+| The Host | 158888 | [158888-the-host.json](./158888-the-host.json) |
 | The Host | 334057 | [334057-the-host.json](./334057-the-host.json) |
 | The Hostage | 259480 | [259480-the-hostage.json](./259480-the-hostage.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
@@ -20539,6 +20545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Heroes | 341375 | [341375-time-of-heroes.json](./341375-time-of-heroes.json) |
+| Time of Piracy | 158882 | [158882-time-of-piracy.json](./158882-time-of-piracy.json) |
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Silence | 30886 | [30886-time-of-silence.json](./30886-time-of-silence.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
