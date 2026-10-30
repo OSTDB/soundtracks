@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
 | Dairoku: Agents of Sakuratani | 146180 | [146180-dairoku-agents-of-sakuratani.json](./146180-dairoku-agents-of-sakuratani.json) |
 | Dairy Dash | 90700 | [90700-dairy-dash.json](./90700-dairy-dash.json) |
+| Dairy Dave | 157316 | [157316-dairy-dave.json](./157316-dairy-dave.json) |
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Dairy Princess | 126845 | [126845-dairy-princess.json](./126845-dairy-princess.json) |
 | Daiseiou | 64492 | [64492-daiseiou.json](./64492-daiseiou.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dal'X | 94601 | [94601-dalx.json](./94601-dalx.json) |
 | Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
 | Dalafri | 324809 | [324809-dalafri.json](./324809-dalafri.json) |
+| Daldos | 157339 | [157339-daldos.json](./157339-daldos.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
 | Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
@@ -8333,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
 | Dimetrosaur | 107403 | [107403-dimetrosaur.json](./107403-dimetrosaur.json) |
+| Dimetrosaur 2 | 157320 | [157320-dimetrosaur-2.json](./157320-dimetrosaur-2.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Diminishing Light: Wheeled Carnage | 294029 | [294029-diminishing-light-wheeled-carnage.json](./294029-diminishing-light-wheeled-carnage.json) |
 | Diminutive | 100309 | [100309-diminutive.json](./100309-diminutive.json) |
