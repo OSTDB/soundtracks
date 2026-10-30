@@ -7763,6 +7763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amneron's Legacy | 152152 | [152152-amnerons-legacy.json](./152152-amnerons-legacy.json) |
 | Amnesia | 14436 | [14436-amnesia.json](./14436-amnesia.json) |
 | Amnesia | 153784 | [153784-amnesia.json](./153784-amnesia.json) |
+| Amnesia | 166440 | [166440-amnesia.json](./166440-amnesia.json) |
 | Amnesia | 8637 | [8637-amnesia.json](./8637-amnesia.json) |
 | Amnesia Crowd | 62754 | [62754-amnesia-crowd.json](./62754-amnesia-crowd.json) |
 | Amnesia for Nintendo Switch | 136829 | [136829-amnesia-for-nintendo-switch.json](./136829-amnesia-for-nintendo-switch.json) |
@@ -11788,6 +11789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcticfox | 14517 | [14517-arcticfox.json](./14517-arcticfox.json) |
 | Arcticide | 249053 | [249053-arcticide.json](./249053-arcticide.json) |
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
+| Arctictopia | 166403 | [166403-arctictopia.json](./166403-arctictopia.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
 | Arcturus | 352103 | [352103-arcturus.json](./352103-arcturus.json) |
 | Arcturus | 421400 | [421400-arcturus.json](./421400-arcturus.json) |
@@ -15099,6 +15101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attuned | 361050 | [361050-attuned.json](./361050-attuned.json) |
 | Atuel | 213274 | [213274-atuel.json](./213274-atuel.json) |
 | Atulos Online | 33343 | [33343-atulos-online.json](./33343-atulos-online.json) |
+| Atulos Online: Reaper & Orc | 166421 | [166421-atulos-online-reaper-and-orc.json](./166421-atulos-online-reaper-and-orc.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | Atum | 232634 | [232634-atum.json](./232634-atum.json) |
 | ATV Bike Games | 294255 | [294255-atv-bike-games.json](./294255-atv-bike-games.json) |
@@ -16183,6 +16186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayumi-chan Monogatari: Jisshaban | 41411 | [41411-ayumi-chan-monogatari-jisshaban.json](./41411-ayumi-chan-monogatari-jisshaban.json) |
 | Ayumi: Enhanced Edition | 32192 | [32192-ayumi-enhanced-edition.json](./32192-ayumi-enhanced-edition.json) |
 | Ayumi's Little Adventure | 216010 | [216010-ayumis-little-adventure.json](./216010-ayumis-little-adventure.json) |
+| Ayumu Kasuga's Mail Order Life | 166443 | [166443-ayumu-kasugas-mail-order-life.json](./166443-ayumu-kasugas-mail-order-life.json) |
 | AyuPac | 222825 | [222825-ayupac.json](./222825-ayupac.json) |
 | Ayyylando | 219658 | [219658-ayyylando.json](./219658-ayyylando.json) |
 | AZ Rockets | 98891 | [98891-az-rockets.json](./98891-az-rockets.json) |
@@ -16265,6 +16269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azul Baronis | 331992 | [331992-azul-baronis.json](./331992-azul-baronis.json) |
 | Azumanga Daioh Puzzle Bobble | 39646 | [39646-azumanga-daioh-puzzle-bobble.json](./39646-azumanga-daioh-puzzle-bobble.json) |
 | Azumanga Daioh! The Druglord Game | 210509 | [210509-azumanga-daioh-the-druglord-game.json](./210509-azumanga-daioh-the-druglord-game.json) |
+| Azumanga Donjara Daiou | 166444 | [166444-azumanga-donjara-daiou.json](./166444-azumanga-donjara-daiou.json) |
 | Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
 | Azumanga RPG | 222347 | [222347-azumanga-rpg.json](./222347-azumanga-rpg.json) |
 | Azumanga: The Fighting T-Style | 222493 | [222493-azumanga-the-fighting-t-style.json](./222493-azumanga-the-fighting-t-style.json) |
