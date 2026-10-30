@@ -5689,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
+| Sexy Airlines | 140834 | [140834-sexy-airlines.json](./140834-sexy-airlines.json) |
 | Sexy Anime Puzzle Game: A Hentai Girl Puzzle Adventure | 366537 | [366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json](./366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json) |
 | Sexy Apocalypse Girls | 294966 | [294966-sexy-apocalypse-girls.json](./294966-sexy-apocalypse-girls.json) |
 | Sexy Beach | 22419 | [22419-sexy-beach.json](./22419-sexy-beach.json) |
@@ -5957,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
 | Shadow of Aten | 72963 | [72963-shadow-of-aten.json](./72963-shadow-of-aten.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
+| Shadow of Aya | 140811 | [140811-shadow-of-aya.json](./140811-shadow-of-aya.json) |
 | Shadow of Azrael 2 | 291180 | [291180-shadow-of-azrael-2.json](./291180-shadow-of-azrael-2.json) |
 | Shadow of Babel | 184496 | [184496-shadow-of-babel.json](./184496-shadow-of-babel.json) |
 | Shadow of Backrooms | 335214 | [335214-shadow-of-backrooms.json](./335214-shadow-of-backrooms.json) |
@@ -6988,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Runner | 273798 | [273798-shell-runner.json](./273798-shell-runner.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell Shockers | 111890 | [111890-shell-shockers.json](./111890-shell-shockers.json) |
+| Shell Shuffle | 139621 | [139621-shell-shuffle.json](./139621-shell-shuffle.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shell's Kitchen | 275413 | [275413-shells-kitchen.json](./275413-shells-kitchen.json) |
 | Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
@@ -7828,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiritsu Berubara Gakuen: Versailles no Bara Re*imagination | 136943 | [136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json](./136943-shiritsu-berubara-gakuen-versailles-no-bara-re-imagination.json) |
 | Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2 | 44769 | [44769-shiritsu-justice-gakuen-nekketsu-seishun-nikki-2.json](./44769-shiritsu-justice-gakuen-nekketsu-seishun-nikki-2.json) |
 | Shirley Muldowney's Top Fuel Challenge | 69542 | [69542-shirley-muldowneys-top-fuel-challenge.json](./69542-shirley-muldowneys-top-fuel-challenge.json) |
+| Shiro | 139585 | [139585-shiro.json](./139585-shiro.json) |
 | Shiro | 220333 | [220333-shiro.json](./220333-shiro.json) |
 | SHiRO 011 | 97028 | [97028-shiro-011.json](./97028-shiro-011.json) |
 | Shiro Enkai | 379873 | [379873-shiro-enkai.json](./379873-shiro-enkai.json) |
@@ -14342,6 +14346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sok Max | 82364 | [82364-sok-max.json](./82364-sok-max.json) |
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
 | Sok Min: Pro | 196129 | [196129-sok-min-pro.json](./196129-sok-min-pro.json) |
+| Sok Pro | 139622 | [139622-sok-pro.json](./139622-sok-pro.json) |
 | Sok-Stories | 129425 | [129425-sok-stories.json](./129425-sok-stories.json) |
 | Sok-Worlds | 132036 | [132036-sok-worlds.json](./132036-sok-worlds.json) |
 | Sokama | 318532 | [318532-sokama.json](./318532-sokama.json) |
@@ -15169,6 +15174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
 | Song in the Smoke: Rekindled | 243871 | [243871-song-in-the-smoke-rekindled.json](./243871-song-in-the-smoke-rekindled.json) |
 | Song Master | 42404 | [42404-song-master.json](./42404-song-master.json) |
+| Song of Asirra | 140800 | [140800-song-of-asirra.json](./140800-song-of-asirra.json) |
 | Song of Calamity | 142966 | [142966-song-of-calamity.json](./142966-song-of-calamity.json) |
 | Song of Farca | 145773 | [145773-song-of-farca.json](./145773-song-of-farca.json) |
 | Song of Feathers | 337579 | [337579-song-of-feathers.json](./337579-song-of-feathers.json) |
@@ -16649,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Trader | 333476 | [333476-soul-trader.json](./333476-soul-trader.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
+| Soul Void | 140826 | [140826-soul-void.json](./140826-soul-void.json) |
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
 | Soul War | 262889 | [262889-soul-war.json](./262889-soul-war.json) |
 | Soul Warden | 277990 | [277990-soul-warden.json](./277990-soul-warden.json) |
@@ -16673,6 +16680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
 | Soulbond | 269996 | [269996-soulbond.json](./269996-soulbond.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
+| Soulbound | 139578 | [139578-soulbound.json](./139578-soulbound.json) |
 | Soulbound | 247967 | [247967-soulbound.json](./247967-soulbound.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | Soulbound Roguelike | 348115 | [348115-soulbound-roguelike.json](./348115-soulbound-roguelike.json) |
@@ -17165,6 +17173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
 | Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
+| Space Cadet | 140824 | [140824-space-cadet.json](./140824-space-cadet.json) |
 | Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Calibur | 382562 | [382562-space-calibur.json](./382562-space-calibur.json) |
@@ -23627,6 +23636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Tunes | 265289 | [265289-stellar-tunes.json](./265289-stellar-tunes.json) |
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
 | Stellar Version 1.0 | 252671 | [252671-stellar-version-1-0.json](./252671-stellar-version-1-0.json) |
+| Stellar Wanderer | 139632 | [139632-stellar-wanderer.json](./139632-stellar-wanderer.json) |
 | Stellar Wanderer DX | 283577 | [283577-stellar-wanderer-dx.json](./283577-stellar-wanderer-dx.json) |
 | Stellar War | 173260 | [173260-stellar-war.json](./173260-stellar-war.json) |
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
@@ -26992,6 +27002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundel Bolong Revenge | 188343 | [188343-sundel-bolong-revenge.json](./188343-sundel-bolong-revenge.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | Sunder For People Who Don't Have Time To Play Sunder | 296041 | [296041-sunder-for-people-who-dont-have-time-to-play-sunder.json](./296041-sunder-for-people-who-dont-have-time-to-play-sunder.json) |
+| Sunder Islands | 140820 | [140820-sunder-islands.json](./140820-sunder-islands.json) |
 | Sunder Siege | 400711 | [400711-sunder-siege.json](./400711-sunder-siege.json) |
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
 | Sundered | 24428 | [24428-sundered.json](./24428-sundered.json) |
@@ -31818,6 +31829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword sand Shotguns | 258071 | [258071-sword-sand-shotguns.json](./258071-sword-sand-shotguns.json) |
 | Sword Shop | 182738 | [182738-sword-shop.json](./182738-sword-shop.json) |
 | Sword Slayer | 63789 | [63789-sword-slayer.json](./63789-sword-slayer.json) |
+| Sword Slinger | 139613 | [139613-sword-slinger.json](./139613-sword-slinger.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword Snap | 384328 | [384328-sword-snap.json](./384328-sword-snap.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
