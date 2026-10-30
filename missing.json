@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T12:50:20.853Z",
-  "total_missing": 284098,
+  "generated_at": "2026-10-30T13:05:36.404Z",
+  "total_missing": 284148,
   "games": [
     {
       "igdb_id": 191680,
@@ -127967,6 +127967,11 @@
       "file": "missing/B/44422-best-shot-pro-golf.json"
     },
     {
+      "igdb_id": 148743,
+      "game_name": "Best Sniper Legacy",
+      "file": "missing/B/148743-best-sniper-legacy.json"
+    },
+    {
       "igdb_id": 86698,
       "game_name": "Best Solitaire Greatest Hits",
       "file": "missing/B/86698-best-solitaire-greatest-hits.json"
@@ -139465,6 +139470,11 @@
       "igdb_id": 366408,
       "game_name": "Blackjack Carnival",
       "file": "missing/B/366408-blackjack-carnival.json"
+    },
+    {
+      "igdb_id": 148770,
+      "game_name": "Blackjack Championship",
+      "file": "missing/B/148770-blackjack-championship.json"
     },
     {
       "igdb_id": 383681,
@@ -187462,9 +187472,34 @@
       "file": "missing/C/164749-capcom-arcade-stadium-packs-1-2-and-3.json"
     },
     {
+      "igdb_id": 148748,
+      "game_name": "Capcom Arcade Stadium: 1941 - Counter Attack",
+      "file": "missing/C/148748-capcom-arcade-stadium-1941-counter-attack.json"
+    },
+    {
+      "igdb_id": 148754,
+      "game_name": "Capcom Arcade Stadium: 1942",
+      "file": "missing/C/148754-capcom-arcade-stadium-1942.json"
+    },
+    {
       "igdb_id": 234302,
       "game_name": "Capcom Arcade Stadium: Battle Circuit",
       "file": "missing/C/234302-capcom-arcade-stadium-battle-circuit.json"
+    },
+    {
+      "igdb_id": 148760,
+      "game_name": "Capcom Arcade Stadium: Bionic Commando",
+      "file": "missing/C/148760-capcom-arcade-stadium-bionic-commando.json"
+    },
+    {
+      "igdb_id": 148746,
+      "game_name": "Capcom Arcade Stadium: Carrier Air Wing",
+      "file": "missing/C/148746-capcom-arcade-stadium-carrier-air-wing.json"
+    },
+    {
+      "igdb_id": 148759,
+      "game_name": "Capcom Arcade Stadium: Commando",
+      "file": "missing/C/148759-capcom-arcade-stadium-commando.json"
     },
     {
       "igdb_id": 150654,
@@ -187472,14 +187507,39 @@
       "file": "missing/C/150654-capcom-arcade-stadium-dynasty-wars.json"
     },
     {
+      "igdb_id": 148750,
+      "game_name": "Capcom Arcade Stadium: Final Fight",
+      "file": "missing/C/148750-capcom-arcade-stadium-final-fight.json"
+    },
+    {
+      "igdb_id": 148752,
+      "game_name": "Capcom Arcade Stadium: Forgotten Worlds",
+      "file": "missing/C/148752-capcom-arcade-stadium-forgotten-worlds.json"
+    },
+    {
       "igdb_id": 173796,
       "game_name": "Capcom Arcade Stadium: Ghosts 'n Goblins",
       "file": "missing/C/173796-capcom-arcade-stadium-ghosts-n-goblins.json"
     },
     {
+      "igdb_id": 148751,
+      "game_name": "Capcom Arcade Stadium: Ghouls 'n Ghosts",
+      "file": "missing/C/148751-capcom-arcade-stadium-ghouls-n-ghosts.json"
+    },
+    {
+      "igdb_id": 148757,
+      "game_name": "Capcom Arcade Stadium: Legendary Wings",
+      "file": "missing/C/148757-capcom-arcade-stadium-legendary-wings.json"
+    },
+    {
       "igdb_id": 150656,
       "game_name": "Capcom Arcade Stadium: Mega Twins",
       "file": "missing/C/150656-capcom-arcade-stadium-mega-twins.json"
+    },
+    {
+      "igdb_id": 148756,
+      "game_name": "Capcom Arcade Stadium: Pirate Ship Higemaru",
+      "file": "missing/C/148756-capcom-arcade-stadium-pirate-ship-higemaru.json"
     },
     {
       "igdb_id": 234309,
@@ -187492,9 +187552,39 @@
       "file": "missing/C/234248-capcom-arcade-stadium-progear.json"
     },
     {
+      "igdb_id": 148758,
+      "game_name": "Capcom Arcade Stadium: Section Z",
+      "file": "missing/C/148758-capcom-arcade-stadium-section-z.json"
+    },
+    {
+      "igdb_id": 148744,
+      "game_name": "Capcom Arcade Stadium: Senjo no Okami II",
+      "file": "missing/C/148744-capcom-arcade-stadium-senjo-no-okami-ii.json"
+    },
+    {
+      "igdb_id": 148747,
+      "game_name": "Capcom Arcade Stadium: Street Fighter II - The World Warrior",
+      "file": "missing/C/148747-capcom-arcade-stadium-street-fighter-ii-the-world-warrior.json"
+    },
+    {
+      "igdb_id": 148745,
+      "game_name": "Capcom Arcade Stadium: Strider",
+      "file": "missing/C/148745-capcom-arcade-stadium-strider.json"
+    },
+    {
       "igdb_id": 150655,
       "game_name": "Capcom Arcade Stadium: Tatakai no Banka",
       "file": "missing/C/150655-capcom-arcade-stadium-tatakai-no-banka.json"
+    },
+    {
+      "igdb_id": 148749,
+      "game_name": "Capcom Arcade Stadium: Varth - Operation Thunderstorm",
+      "file": "missing/C/148749-capcom-arcade-stadium-varth-operation-thunderstorm.json"
+    },
+    {
+      "igdb_id": 148753,
+      "game_name": "Capcom Arcade Stadium: Vulgus",
+      "file": "missing/C/148753-capcom-arcade-stadium-vulgus.json"
     },
     {
       "igdb_id": 40129,
@@ -205147,9 +205237,19 @@
       "file": "missing/C/296608-challenge-love.json"
     },
     {
+      "igdb_id": 148769,
+      "game_name": "Challenge ME : Word Puzzles",
+      "file": "missing/C/148769-challenge-me-word-puzzles.json"
+    },
+    {
       "igdb_id": 21640,
       "game_name": "Challenge Me: Brain Puzzles",
       "file": "missing/C/21640-challenge-me-brain-puzzles.json"
+    },
+    {
+      "igdb_id": 148768,
+      "game_name": "Challenge Me: Brain Puzzles 2",
+      "file": "missing/C/148768-challenge-me-brain-puzzles-2.json"
     },
     {
       "igdb_id": 21639,
@@ -264622,6 +264722,11 @@
       "file": "missing/C/380099-cube-fight.json"
     },
     {
+      "igdb_id": 148774,
+      "game_name": "Cube Flip",
+      "file": "missing/C/148774-cube-flip.json"
+    },
+    {
       "igdb_id": 349876,
       "game_name": "Cube Foundry",
       "file": "missing/C/349876-cube-foundry.json"
@@ -289435,6 +289540,11 @@
       "igdb_id": 20336,
       "game_name": "Dead Nation: Road to Devastation",
       "file": "missing/D/20336-dead-nation-road-to-devastation.json"
+    },
+    {
+      "igdb_id": 148764,
+      "game_name": "Dead Night",
+      "file": "missing/D/148764-dead-night.json"
     },
     {
       "igdb_id": 405727,
@@ -325512,6 +325622,11 @@
       "file": "missing/D/28074-dogolrax.json"
     },
     {
+      "igdb_id": 148783,
+      "game_name": "Dogot Games",
+      "file": "missing/D/148783-dogot-games.json"
+    },
+    {
       "igdb_id": 251632,
       "game_name": "Dogotchi: Virtual Pet",
       "file": "missing/D/251632-dogotchi-virtual-pet.json"
@@ -345152,6 +345267,11 @@
       "file": "missing/D/184924-dreaming-of-you.json"
     },
     {
+      "igdb_id": 148771,
+      "game_name": "Dreaming on the last light",
+      "file": "missing/D/148771-dreaming-on-the-last-light.json"
+    },
+    {
       "igdb_id": 191824,
       "game_name": "Dreaming Rainbow",
       "file": "missing/D/191824-dreaming-rainbow.json"
@@ -354887,6 +355007,11 @@
       "file": "missing/D/295808-dungeon-slime-hero.json"
     },
     {
+      "igdb_id": 148736,
+      "game_name": "Dungeon Slime: Puzzle's Adventure",
+      "file": "missing/D/148736-dungeon-slime-puzzles-adventure.json"
+    },
+    {
       "igdb_id": 178000,
       "game_name": "Dungeon Solitaire",
       "file": "missing/D/178000-dungeon-solitaire.json"
@@ -356250,6 +356375,11 @@
       "igdb_id": 68203,
       "game_name": "Dungeons of Chaos",
       "file": "missing/D/68203-dungeons-of-chaos.json"
+    },
+    {
+      "igdb_id": 148742,
+      "game_name": "Dungeons of Clay",
+      "file": "missing/D/148742-dungeons-of-clay.json"
     },
     {
       "igdb_id": 42156,
@@ -378737,6 +378867,11 @@
       "file": "missing/E/391864-entrance-8-iriguchi.json"
     },
     {
+      "igdb_id": 148785,
+      "game_name": "Entrapment",
+      "file": "missing/E/148785-entrapment.json"
+    },
+    {
       "igdb_id": 215790,
       "game_name": "Entre Laços e Amassos",
       "file": "missing/E/215790-entre-lacos-e-amassos.json"
@@ -382967,6 +383102,11 @@
       "file": "missing/E/101498-escape-from-sin-city.json"
     },
     {
+      "igdb_id": 148765,
+      "game_name": "Escape from Skull Dungeon",
+      "file": "missing/E/148765-escape-from-skull-dungeon.json"
+    },
+    {
       "igdb_id": 302507,
       "game_name": "Escape from Somnium",
       "file": "missing/E/302507-escape-from-somnium.json"
@@ -385095,6 +385235,11 @@
       "igdb_id": 138642,
       "game_name": "Escaping Hell",
       "file": "missing/E/138642-escaping-hell.json"
+    },
+    {
+      "igdb_id": 148784,
+      "game_name": "Escaping maze",
+      "file": "missing/E/148784-escaping-maze.json"
     },
     {
       "igdb_id": 306956,
@@ -401225,6 +401370,11 @@
       "igdb_id": 125459,
       "game_name": "Falcata",
       "file": "missing/F/125459-falcata.json"
+    },
+    {
+      "igdb_id": 148761,
+      "game_name": "Falco Axe",
+      "file": "missing/F/148761-falco-axe.json"
     },
     {
       "igdb_id": 311216,
@@ -508007,6 +508157,11 @@
       "file": "missing/G/40151-gun-dealer-94.json"
     },
     {
+      "igdb_id": 148778,
+      "game_name": "Gun Dog Rock Rapid",
+      "file": "missing/G/148778-gun-dog-rock-rapid.json"
+    },
+    {
       "igdb_id": 32888,
       "game_name": "Gun Done",
       "file": "missing/G/32888-gun-done.json"
@@ -514120,6 +514275,11 @@
       "igdb_id": 196837,
       "game_name": "Half-Life: Residual Point",
       "file": "missing/H/196837-half-life-residual-point.json"
+    },
+    {
+      "igdb_id": 148775,
+      "game_name": "Half-Life: Restored",
+      "file": "missing/H/148775-half-life-restored.json"
     },
     {
       "igdb_id": 350502,
@@ -544820,6 +544980,11 @@
       "igdb_id": 78916,
       "game_name": "Higgledy Piggledy",
       "file": "missing/H/78916-higgledy-piggledy.json"
+    },
+    {
+      "igdb_id": 148739,
+      "game_name": "Higgs Boson: Minimal Puzzle",
+      "file": "missing/H/148739-higgs-boson-minimal-puzzle.json"
     },
     {
       "igdb_id": 344492,
@@ -707877,6 +708042,11 @@
       "file": "missing/M/381740-maous-crucible.json"
     },
     {
+      "igdb_id": 148779,
+      "game_name": "Màoxiǎn Shíguāngjī",
+      "file": "missing/M/148779-maoxian-shiguangji.json"
+    },
+    {
       "igdb_id": 370228,
       "game_name": "Màoxiǎn Xiǎofēnduì",
       "file": "missing/M/370228-maoxian-xiaofendui.json"
@@ -806162,6 +806332,11 @@
       "file": "missing/N/195548-nevereverland.json"
     },
     {
+      "igdb_id": 148737,
+      "game_name": "Neverfix Station",
+      "file": "missing/N/148737-neverfix-station.json"
+    },
+    {
       "igdb_id": 298064,
       "game_name": "NeverGoingHome",
       "file": "missing/N/298064-nevergoinghome.json"
@@ -819180,6 +819355,11 @@
       "igdb_id": 272963,
       "game_name": "No.HazedHeart",
       "file": "missing/N/272963-no-hazedheart.json"
+    },
+    {
+      "igdb_id": 148763,
+      "game_name": "No.L85",
+      "file": "missing/N/148763-no-l85.json"
     },
     {
       "igdb_id": 34283,
@@ -890682,6 +890862,11 @@
       "file": "missing/P/372189-pixel-harvester.json"
     },
     {
+      "igdb_id": 148741,
+      "game_name": "Pixel Head Soccer",
+      "file": "missing/P/148741-pixel-head-soccer.json"
+    },
+    {
       "igdb_id": 103789,
       "game_name": "Pixel Hentai Mosaic",
       "file": "missing/P/103789-pixel-hentai-mosaic.json"
@@ -899505,6 +899690,11 @@
       "igdb_id": 352783,
       "game_name": "Plug-in PET",
       "file": "missing/P/352783-plug-in-pet.json"
+    },
+    {
+      "igdb_id": 148777,
+      "game_name": "Plugged",
+      "file": "missing/P/148777-plugged.json"
     },
     {
       "igdb_id": 132614,
@@ -987322,6 +987512,11 @@
       "file": "missing/R/403001-rocket-shooting.json"
     },
     {
+      "igdb_id": 148773,
+      "game_name": "Rocket Skates VR",
+      "file": "missing/R/148773-rocket-skates-vr.json"
+    },
+    {
       "igdb_id": 119647,
       "game_name": "Rocket Sky!",
       "file": "missing/R/119647-rocket-sky.json"
@@ -990630,6 +990825,11 @@
       "igdb_id": 148717,
       "game_name": "Roketz",
       "file": "missing/R/148717-roketz.json"
+    },
+    {
+      "igdb_id": 148740,
+      "game_name": "Roketz",
+      "file": "missing/R/148740-roketz.json"
     },
     {
       "igdb_id": 20190,
@@ -1023937,6 +1024137,11 @@
       "file": "missing/S/310246-secrets-of-shadows.json"
     },
     {
+      "igdb_id": 148738,
+      "game_name": "Secrets of Soil",
+      "file": "missing/S/148738-secrets-of-soil.json"
+    },
+    {
       "igdb_id": 45885,
       "game_name": "Secrets of Tatjana",
       "file": "missing/S/45885-secrets-of-tatjana.json"
@@ -1048430,6 +1048635,11 @@
       "igdb_id": 145242,
       "game_name": "Siege Survival: Gloria Victis",
       "file": "missing/S/145242-siege-survival-gloria-victis.json"
+    },
+    {
+      "igdb_id": 148782,
+      "game_name": "Siege the Day",
+      "file": "missing/S/148782-siege-the-day.json"
     },
     {
       "igdb_id": 218301,
@@ -1090147,6 +1090357,11 @@
       "file": "missing/S/293215-space-girls-band.json"
     },
     {
+      "igdb_id": 148776,
+      "game_name": "Space Gladiators: The Hole",
+      "file": "missing/S/148776-space-gladiators-the-hole.json"
+    },
+    {
       "igdb_id": 188819,
       "game_name": "Space Gliders",
       "file": "missing/S/188819-space-gliders.json"
@@ -1117420,6 +1117635,11 @@
       "igdb_id": 94973,
       "game_name": "Start Blackthorn Castle",
       "file": "missing/S/94973-start-blackthorn-castle.json"
+    },
+    {
+      "igdb_id": 148780,
+      "game_name": "Start From School",
+      "file": "missing/S/148780-start-from-school.json"
     },
     {
       "igdb_id": 87060,
@@ -1155557,6 +1155777,11 @@
       "file": "missing/S/110896-survival.json"
     },
     {
+      "igdb_id": 148766,
+      "game_name": "Survival",
+      "file": "missing/S/148766-survival.json"
+    },
+    {
       "igdb_id": 235263,
       "game_name": "Survival",
       "file": "missing/S/235263-survival.json"
@@ -1182105,6 +1182330,11 @@
       "igdb_id": 271312,
       "game_name": "Temple of the Thousand-Faced Moon",
       "file": "missing/T/271312-temple-of-the-thousand-faced-moon.json"
+    },
+    {
+      "igdb_id": 148767,
+      "game_name": "Temple of the Wumpus",
+      "file": "missing/T/148767-temple-of-the-wumpus.json"
     },
     {
       "igdb_id": 60419,
@@ -1240577,6 +1240807,11 @@
       "file": "missing/T/22200-the-snowman-and-the-snowdog.json"
     },
     {
+      "igdb_id": 148762,
+      "game_name": "The Snowman's Journey",
+      "file": "missing/T/148762-the-snowmans-journey.json"
+    },
+    {
       "igdb_id": 217119,
       "game_name": "The Sob Island",
       "file": "missing/T/217119-the-sob-island.json"
@@ -1285415,6 +1285650,11 @@
       "igdb_id": 148663,
       "game_name": "Tout Savoir: 5E",
       "file": "missing/T/148663-tout-savoir-5e.json"
+    },
+    {
+      "igdb_id": 148735,
+      "game_name": "Tout Savoir: CE2",
+      "file": "missing/T/148735-tout-savoir-ce2.json"
     },
     {
       "igdb_id": 147346,
@@ -1349947,6 +1350187,11 @@
       "file": "missing/V/163805-vr-paper-airplane-hunting.json"
     },
     {
+      "igdb_id": 148772,
+      "game_name": "VR Parallel World",
+      "file": "missing/V/148772-vr-parallel-world.json"
+    },
+    {
       "igdb_id": 249673,
       "game_name": "VR Party Pack",
       "file": "missing/V/249673-vr-party-pack.json"
@@ -1354285,6 +1354530,11 @@
       "igdb_id": 310183,
       "game_name": "Wanderer's Shade",
       "file": "missing/W/310183-wanderers-shade.json"
+    },
+    {
+      "igdb_id": 148734,
+      "game_name": "Wanderers",
+      "file": "missing/W/148734-wanderers.json"
     },
     {
       "igdb_id": 185030,
