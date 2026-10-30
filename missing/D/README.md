@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daito Giken Koushiki Pachi-Slot Simulator: Yoshimune | 56995 | [56995-daito-giken-koushiki-pachi-slot-simulator-yoshimune.json](./56995-daito-giken-koushiki-pachi-slot-simulator-yoshimune.json) |
 | Daito Giken Koushiki Pachislot Simulator: 24- Twenty-Four | 65550 | [65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json](./65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
+| Daitoshokan no Hitsujikai | 133018 | [133018-daitoshokan-no-hitsujikai.json](./133018-daitoshokan-no-hitsujikai.json) |
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
 | Daitoshokan no Hitsujikai: Library Party | 60960 | [60960-daitoshokan-no-hitsujikai-library-party.json](./60960-daitoshokan-no-hitsujikai-library-party.json) |
 | Daiva Story 1: Flames of Vlitra | 392848 | [392848-daiva-story-1-flames-of-vlitra.json](./392848-daiva-story-1-flames-of-vlitra.json) |
@@ -4369,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debt | 192816 | [192816-debt.json](./192816-debt.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Debt of Life | 419903 | [419903-debt-of-life.json](./419903-debt-of-life.json) |
+| Debteh | 133035 | [133035-debteh.json](./133035-debteh.json) |
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
 | Debtors' Club | 267807 | [267807-debtors-club.json](./267807-debtors-club.json) |
@@ -7069,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
 | Detention: Deluxe Edition | 52885 | [52885-detention-deluxe-edition.json](./52885-detention-deluxe-edition.json) |
 | Deteriation Game | 229744 | [229744-deteriation-game.json](./229744-deteriation-game.json) |
+| Determinable Unstable | 132999 | [132999-determinable-unstable.json](./132999-determinable-unstable.json) |
 | Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
 | Determinant | 169826 | [169826-determinant.json](./169826-determinant.json) |
 | Deterrence | 224334 | [224334-deterrence.json](./224334-deterrence.json) |
@@ -13322,6 +13325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Evo | 188810 | [188810-dragon-evo.json](./188810-dragon-evo.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
+| Dragon Extinction | 133020 | [133020-dragon-extinction.json](./133020-dragon-extinction.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
 | Dragon Eye Online | 113566 | [113566-dragon-eye-online.json](./113566-dragon-eye-online.json) |
 | Dragon Eyes | 282749 | [282749-dragon-eyes.json](./282749-dragon-eyes.json) |
@@ -15627,6 +15631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
 | Duck Duchy | 164168 | [164168-duck-duchy.json](./164168-duck-duchy.json) |
 | Duck Duck Adventure | 330644 | [330644-duck-duck-adventure.json](./330644-duck-duck-adventure.json) |
+| Duck Duck Goose | 133037 | [133037-duck-duck-goose.json](./133037-duck-duck-goose.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
 | Duck Duck Plays the Blues | 182994 | [182994-duck-duck-plays-the-blues.json](./182994-duck-duck-plays-the-blues.json) |
