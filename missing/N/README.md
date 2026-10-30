@@ -2914,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Gunbound | 132534 | [132534-new-gunbound.json](./132534-new-gunbound.json) |
 | New Gundam Breaker: Build G Sound Edition | 136768 | [136768-new-gundam-breaker-build-g-sound-edition.json](./136768-new-gundam-breaker-build-g-sound-edition.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
+| New Gundam Breaker: Premium Edition | 136654 | [136654-new-gundam-breaker-premium-edition.json](./136654-new-gundam-breaker-premium-edition.json) |
 | New Hire | 226132 | [226132-new-hire.json](./226132-new-hire.json) |
 | New Home | 339391 | [339391-new-home.json](./339391-new-home.json) |
 | New Home: Medieval Village | 153903 | [153903-new-home-medieval-village.json](./153903-new-home-medieval-village.json) |
@@ -5528,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Sphere of Influence - Scenario 7: Battle of Tetorigawa | 168093 | [168093-nobunagas-ambition-sphere-of-influence-scenario-7-battle-of-tetorigawa.json](./168093-nobunagas-ambition-sphere-of-influence-scenario-7-battle-of-tetorigawa.json) |
 | Nobunaga's Ambition: Sphere of Influence - Scenario 8: The One-eyed Dragon | 168107 | [168107-nobunagas-ambition-sphere-of-influence-scenario-8-the-one-eyed-dragon.json](./168107-nobunagas-ambition-sphere-of-influence-scenario-8-the-one-eyed-dragon.json) |
 | Nobunaga's Ambition: Sphere of Influence - Scenario 9: Shingen's Final Step | 168092 | [168092-nobunagas-ambition-sphere-of-influence-scenario-9-shingens-final-step.json](./168092-nobunagas-ambition-sphere-of-influence-scenario-9-shingens-final-step.json) |
+| Nobunaga's Ambition: Sphere of Influence with Power-Up Kit | 136677 | [136677-nobunagas-ambition-sphere-of-influence-with-power-up-kit.json](./136677-nobunagas-ambition-sphere-of-influence-with-power-up-kit.json) |
 | Nobunaga's Ambition: Taishi | 28244 | [28244-nobunagas-ambition-taishi.json](./28244-nobunagas-ambition-taishi.json) |
 | Nobunaga's Ambition: Taishi - Birth of Nobunaga Scenario | 150673 | [150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json](./150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json) |
 | Nobunaga's Ambition: Taishi - Mount Tennozan Scenario | 150670 | [150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json](./150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json) |
