@@ -5897,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
 | Evan, Daniel and Friends. Vol 2 | 238970 | [238970-evan-daniel-and-friends-vol-2.json](./238970-evan-daniel-and-friends-vol-2.json) |
+| Evan's Remains: Deluxe Edition | 154192 | [154192-evans-remains-deluxe-edition.json](./154192-evans-remains-deluxe-edition.json) |
 | Evander Holyfield's 'Real Deal' Boxing | 46545 | [46545-evander-holyfields-real-deal-boxing.json](./46545-evander-holyfields-real-deal-boxing.json) |
 | Evander Holyfield's Real Deal Boxing | 45557 | [45557-evander-holyfields-real-deal-boxing.json](./45557-evander-holyfields-real-deal-boxing.json) |
 | Evanesce | 256644 | [256644-evanesce.json](./256644-evanesce.json) |
