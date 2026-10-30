@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
 | Mage Battle Arena | 370436 | [370436-mage-battle-arena.json](./370436-mage-battle-arena.json) |
 | Mage Bros. | 210408 | [210408-mage-bros.json](./210408-mage-bros.json) |
+| Mage Chess | 171221 | [171221-mage-chess.json](./171221-mage-chess.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
 | Mage Fight | 420484 | [420484-mage-fight.json](./420484-mage-fight.json) |
 | Mage Food Truck | 345801 | [345801-mage-food-truck.json](./345801-mage-food-truck.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
 | Majestic Majolical | 227709 | [227709-majestic-majolical.json](./227709-majestic-majolical.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
+| Majestic Part I: Alien Encounter | 171232 | [171232-majestic-part-i-alien-encounter.json](./171232-majestic-part-i-alien-encounter.json) |
 | Majestic Prince Shooting Hero | 62058 | [62058-majestic-prince-shooting-hero.json](./62058-majestic-prince-shooting-hero.json) |
 | Majestic Trials | 59792 | [59792-majestic-trials.json](./59792-majestic-trials.json) |
 | Majestic-12 | 94035 | [94035-majestic-12.json](./94035-majestic-12.json) |
@@ -2880,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
+| Mantra II: The Blood of Saric | 171234 | [171234-mantra-ii-the-blood-of-saric.json](./171234-mantra-ii-the-blood-of-saric.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
 | Manual | 319421 | [319421-manual.json](./319421-manual.json) |
 | Manual Intervention | 135060 | [135060-manual-intervention.json](./135060-manual-intervention.json) |
@@ -12320,6 +12323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Slayer | 217221 | [217221-mist-slayer.json](./217221-mist-slayer.json) |
 | Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
 | Mist Survivor | 296982 | [296982-mist-survivor.json](./296982-mist-survivor.json) |
+| Mist Train Girls | 171218 | [171218-mist-train-girls.json](./171218-mist-train-girls.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake | 222195 | [222195-mistake.json](./222195-mistake.json) |
 | Mistake -1 | 222194 | [222194-mistake-1.json](./222194-mistake-1.json) |
@@ -13691,6 +13695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopolka | 68592 | [68592-monopolka.json](./68592-monopolka.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
+| Monopoly | 171236 | [171236-monopoly.json](./171236-monopoly.json) |
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
 | Monopoly | 199430 | [199430-monopoly.json](./199430-monopoly.json) |
 | Monopoly | 228550 | [228550-monopoly.json](./228550-monopoly.json) |
@@ -16745,6 +16750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudborne | 242538 | [242538-mudborne.json](./242538-mudborne.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
 | Muddy Heights 2 | 32939 | [32939-muddy-heights-2.json](./32939-muddy-heights-2.json) |
+| Muddy Water | 171252 | [171252-muddy-water.json](./171252-muddy-water.json) |
 | Mudflood | 408066 | [408066-mudflood.json](./408066-mudflood.json) |
 | MudGate | 217009 | [217009-mudgate.json](./217009-mudgate.json) |
 | Mudkip Adventures | 287903 | [287903-mudkip-adventures.json](./287903-mudkip-adventures.json) |
@@ -19186,6 +19192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery House: Secret Stealth | 88133 | [88133-mystery-house-secret-stealth.json](./88133-mystery-house-secret-stealth.json) |
 | Mystery in London: On the Trail of Jack the Ripper | 67184 | [67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json](./67184-mystery-in-london-on-the-trail-of-jack-the-ripper.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
+| Mystery Island | 171238 | [171238-mystery-island.json](./171238-mystery-island.json) |
 | Mystery Island II | 147865 | [147865-mystery-island-ii.json](./147865-mystery-island-ii.json) |
 | Mystery Island: Enigmatic Painting | 373684 | [373684-mystery-island-enigmatic-painting.json](./373684-mystery-island-enigmatic-painting.json) |
 | Mystery Island: Hidden Object Games | 121568 | [121568-mystery-island-hidden-object-games.json](./121568-mystery-island-hidden-object-games.json) |
