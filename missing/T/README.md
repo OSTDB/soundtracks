@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
 | Tales of Tirunia | 379430 | [379430-tales-of-tirunia.json](./379430-tales-of-tirunia.json) |
+| Tales of Tomorrow: Experiment | 126762 | [126762-tales-of-tomorrow-experiment.json](./126762-tales-of-tomorrow-experiment.json) |
 | Tales of Tonbrook | 360336 | [360336-tales-of-tonbrook.json](./360336-tales-of-tonbrook.json) |
 | Tales of Tsuki: Moon Guardians | 235920 | [235920-tales-of-tsuki-moon-guardians.json](./235920-tales-of-tsuki-moon-guardians.json) |
 | Tales of Tuscany | 341407 | [341407-tales-of-tuscany.json](./341407-tales-of-tuscany.json) |
@@ -3541,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Shot | 310268 | [310268-ten-shot.json](./310268-ten-shot.json) |
 | Ten Tales from the Record of the Adamant Gambit | 198024 | [198024-ten-tales-from-the-record-of-the-adamant-gambit.json](./198024-ten-tales-from-the-record-of-the-adamant-gambit.json) |
 | Ten Ten | 318463 | [318463-ten-ten.json](./318463-ten-ten.json) |
+| Ten Thousand Coins: The Golden Merchant | 126804 | [126804-ten-thousand-coins-the-golden-merchant.json](./126804-ten-thousand-coins-the-golden-merchant.json) |
 | Ten Thousand Immortals | 284287 | [284287-ten-thousand-immortals.json](./284287-ten-thousand-immortals.json) |
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
@@ -5046,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Little Miss Scatterbrain | 73559 | [73559-the-adventures-of-little-miss-scatterbrain.json](./73559-the-adventures-of-little-miss-scatterbrain.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
 | The Adventures of Little Wurfel | 370225 | [370225-the-adventures-of-little-wurfel.json](./370225-the-adventures-of-little-wurfel.json) |
+| The Adventures of Looppy | 126785 | [126785-the-adventures-of-looppy.json](./126785-the-adventures-of-looppy.json) |
 | The Adventures of Lwanda Magere | 169147 | [169147-the-adventures-of-lwanda-magere.json](./169147-the-adventures-of-lwanda-magere.json) |
 | The Adventures of Maddog Williams in the Dungeons of Duridian | 9664 | [9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | The Adventures of Major Havoc | 18468 | [18468-the-adventures-of-major-havoc.json](./18468-the-adventures-of-major-havoc.json) |
@@ -7414,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Definitive Subsistence Update | 374288 | [374288-the-definitive-subsistence-update.json](./374288-the-definitive-subsistence-update.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
+| The Delirium Vacation | 126794 | [126794-the-delirium-vacation.json](./126794-the-delirium-vacation.json) |
 | The Deliverer | 180643 | [180643-the-deliverer.json](./180643-the-deliverer.json) |
 | The DeLuca Family: Season 1 | 297721 | [297721-the-deluca-family-season-1.json](./297721-the-deluca-family-season-1.json) |
 | The Delusion of Dream | 180437 | [180437-the-delusion-of-dream.json](./180437-the-delusion-of-dream.json) |
@@ -11192,6 +11196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 3: Wisdom and Lunacy | 79800 | [79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json](./79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
+| The Legend of Dark Witch Renovation | 126813 | [126813-the-legend-of-dark-witch-renovation.json](./126813-the-legend-of-dark-witch-renovation.json) |
 | The Legend of Dark Witch Renovation: Day Stage | 172090 | [172090-the-legend-of-dark-witch-renovation-day-stage.json](./172090-the-legend-of-dark-witch-renovation-day-stage.json) |
 | The Legend of Darkness | 323608 | [323608-the-legend-of-darkness.json](./323608-the-legend-of-darkness.json) |
 | The Legend of Demon-Slaying Heroes | 355213 | [355213-the-legend-of-demon-slaying-heroes.json](./355213-the-legend-of-demon-slaying-heroes.json) |
@@ -11851,6 +11856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loop VR | 97919 | [97919-the-loop-vr.json](./97919-the-loop-vr.json) |
 | The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
 | The Loopler | 377087 | [377087-the-loopler.json](./377087-the-loopler.json) |
+| The Looter | 126817 | [126817-the-looter.json](./126817-the-looter.json) |
 | The Lorax: Truffula Shuffula | 271068 | [271068-the-lorax-truffula-shuffula.json](./271068-the-lorax-truffula-shuffula.json) |
 | The Lord of Hexa | 288839 | [288839-the-lord-of-hexa.json](./288839-the-lord-of-hexa.json) |
 | The Lord of Lightning | 241843 | [241843-the-lord-of-lightning.json](./241843-the-lord-of-lightning.json) |
@@ -16781,6 +16787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
+| The Walker | 126764 | [126764-the-walker.json](./126764-the-walker.json) |
 | The Walker | 203619 | [203619-the-walker.json](./203619-the-walker.json) |
 | The Walker | 52030 | [52030-the-walker.json](./52030-the-walker.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
@@ -20798,6 +20805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
 | Time Travel Shanty | 172330 | [172330-time-travel-shanty.json](./172330-time-travel-shanty.json) |
 | Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
+| Time Travel Trainer | 126777 | [126777-time-travel-trainer.json](./126777-time-travel-trainer.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Traveler | 24804 | [24804-time-traveler.json](./24804-time-traveler.json) |
 | Time Traveler: Escape Room VR | 288608 | [288608-time-traveler-escape-room-vr.json](./288608-time-traveler-escape-room-vr.json) |
@@ -27706,6 +27714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
 | Triangle Wizard | 65549 | [65549-triangle-wizard.json](./65549-triangle-wizard.json) |
 | Triangle: Cursed Town | 343690 | [343690-triangle-cursed-town.json](./343690-triangle-cursed-town.json) |
+| TriangleStorm | 126791 | [126791-trianglestorm.json](./126791-trianglestorm.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
 | Triangulate | 52768 | [52768-triangulate.json](./52768-triangulate.json) |
