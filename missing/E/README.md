@@ -4653,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Monkey Island | 63 | [63-escape-from-monkey-island.json](./63-escape-from-monkey-island.json) |
 | Escape From Monster | 163294 | [163294-escape-from-monster.json](./163294-escape-from-monster.json) |
 | Escape from Monster Manor | 4337 | [4337-escape-from-monster-manor.json](./4337-escape-from-monster-manor.json) |
+| Escape From Monsterland | 155919 | [155919-escape-from-monsterland.json](./155919-escape-from-monsterland.json) |
 | Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
 | Escape from Mutation Station | 320729 | [320729-escape-from-mutation-station.json](./320729-escape-from-mutation-station.json) |
 | Escape from Nalaxion | 260158 | [260158-escape-from-nalaxion.json](./260158-escape-from-nalaxion.json) |
@@ -5019,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
 | Escape the Testing Facility | 337659 | [337659-escape-the-testing-facility.json](./337659-escape-the-testing-facility.json) |
 | Escape the Tower | 331283 | [331283-escape-the-tower.json](./331283-escape-the-tower.json) |
+| Escape the Underground | 155912 | [155912-escape-the-underground.json](./155912-escape-the-underground.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Unknown: Awaken the Realm | 243856 | [243856-escape-the-unknown-awaken-the-realm.json](./243856-escape-the-unknown-awaken-the-realm.json) |
 | Escape the Virus: Shoot 'Em Up! | 85119 | [85119-escape-the-virus-shoot-em-up.json](./85119-escape-the-virus-shoot-em-up.json) |
@@ -5189,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
 | Esper Dream 2: Aratanaru Tatakai | 48505 | [48505-esper-dream-2-aratanaru-tatakai.json](./48505-esper-dream-2-aratanaru-tatakai.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
+| Esper Uprising: Hearts of Crystal | 155905 | [155905-esper-uprising-hearts-of-crystal.json](./155905-esper-uprising-hearts-of-crystal.json) |
 | Esper X Guide | 375540 | [375540-esper-x-guide.json](./375540-esper-x-guide.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
 | Esper: The Collection | 23894 | [23894-esper-the-collection.json](./23894-esper-the-collection.json) |
