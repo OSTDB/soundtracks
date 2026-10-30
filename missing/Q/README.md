@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
 | Quantum: Recharged | 257945 | [257945-quantum-recharged.json](./257945-quantum-recharged.json) |
 | Quantum:Fantasy | 235590 | [235590-quantum-fantasy.json](./235590-quantum-fantasy.json) |
+| Quantumleaper | 126807 | [126807-quantumleaper.json](./126807-quantumleaper.json) |
 | QuantumPulse 2A | 333349 | [333349-quantumpulse-2a.json](./333349-quantumpulse-2a.json) |
 | QuantumVR | 394625 | [394625-quantumvr.json](./394625-quantumvr.json) |
 | QuaQua | 188778 | [188778-quaqua.json](./188778-quaqua.json) |
