@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Solitaire | 54172 | [54172-magic-solitaire.json](./54172-magic-solitaire.json) |
 | Magic Sort! | 392972 | [392972-magic-sort.json](./392972-magic-sort.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
+| Magic Stone Guardians | 167501 | [167501-magic-stone-guardians.json](./167501-magic-stone-guardians.json) |
 | Magic Stone Knights | 251441 | [251441-magic-stone-knights.json](./251441-magic-stone-knights.json) |
 | Magic Storm | 310808 | [310808-magic-storm.json](./310808-magic-storm.json) |
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
+| Matraquinha Pair | 167491 | [167491-matraquinha-pair.json](./167491-matraquinha-pair.json) |
 | Matreshka | 304529 | [304529-matreshka.json](./304529-matreshka.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matrimelee | 92937 | [92937-matrimelee.json](./92937-matrimelee.json) |
