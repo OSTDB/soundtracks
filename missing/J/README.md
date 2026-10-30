@@ -3453,10 +3453,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Prehistoric Marine Species Pack | 259955 | [259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json](./259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json) |
 | Jurassic World Evolution 3 | 347650 | [347650-jurassic-world-evolution-3.json](./347650-jurassic-world-evolution-3.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
+| Jurassic World Evolution: Carnivore Dinosaur Pack | 152605 | [152605-jurassic-world-evolution-carnivore-dinosaur-pack.json](./152605-jurassic-world-evolution-carnivore-dinosaur-pack.json) |
 | Jurassic World Evolution: Cretaceous Dinosaur Pack | 113368 | [113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json](./113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json) |
 | Jurassic World Evolution: Deluxe Dinosaur Pack | 226794 | [226794-jurassic-world-evolution-deluxe-dinosaur-pack.json](./226794-jurassic-world-evolution-deluxe-dinosaur-pack.json) |
 | Jurassic World Evolution: Dinosaur Collection | 227420 | [227420-jurassic-world-evolution-dinosaur-collection.json](./227420-jurassic-world-evolution-dinosaur-collection.json) |
 | Jurassic World Evolution: Expansion Collection | 164587 | [164587-jurassic-world-evolution-expansion-collection.json](./164587-jurassic-world-evolution-expansion-collection.json) |
+| Jurassic World Evolution: Herbivore Dinosaur Pack | 152607 | [152607-jurassic-world-evolution-herbivore-dinosaur-pack.json](./152607-jurassic-world-evolution-herbivore-dinosaur-pack.json) |
+| Jurassic World Evolution: Raptor Squad Skin Collection | 152606 | [152606-jurassic-world-evolution-raptor-squad-skin-collection.json](./152606-jurassic-world-evolution-raptor-squad-skin-collection.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
 | Jurassic World Revealed | 104259 | [104259-jurassic-world-revealed.json](./104259-jurassic-world-revealed.json) |
 | Jurassic World VRSE | 315071 | [315071-jurassic-world-vrse.json](./315071-jurassic-world-vrse.json) |
