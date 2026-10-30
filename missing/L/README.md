@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LavaCat Minigame Trilogy | 77417 | [77417-lavacat-minigame-trilogy.json](./77417-lavacat-minigame-trilogy.json) |
 | LavaCat Run | 77416 | [77416-lavacat-run.json](./77416-lavacat-run.json) |
 | Lavalads | 402268 | [402268-lavalads.json](./402268-lavalads.json) |
+| Lavalamp | 150372 | [150372-lavalamp.json](./150372-lavalamp.json) |
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
 | Lavender | 186625 | [186625-lavender.json](./186625-lavender.json) |
 | Lavender Field | 347353 | [347353-lavender-field.json](./347353-lavender-field.json) |
@@ -7013,6 +7014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
 | Lost | 120010 | [120010-lost.json](./120010-lost.json) |
 | Lost | 139715 | [139715-lost.json](./139715-lost.json) |
+| Lost | 150342 | [150342-lost.json](./150342-lost.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
 | Lost | 327379 | [327379-lost.json](./327379-lost.json) |
 | Lost | 383470 | [383470-lost.json](./383470-lost.json) |
@@ -7085,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cats | 265797 | [265797-lost-cats.json](./265797-lost-cats.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
+| Lost Century | 150377 | [150377-lost-century.json](./150377-lost-century.json) |
 | Lost Chakras | 305821 | [305821-lost-chakras.json](./305821-lost-chakras.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
 | Lost Chiko | 223778 | [223778-lost-chiko.json](./223778-lost-chiko.json) |
@@ -9029,6 +9032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luv Me Buddies Wonderland | 85264 | [85264-luv-me-buddies-wonderland.json](./85264-luv-me-buddies-wonderland.json) |
 | Luv Me Buddies Wonderland | 85265 | [85265-luv-me-buddies-wonderland.json](./85265-luv-me-buddies-wonderland.json) |
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
+| LuvSic | 150363 | [150363-luvsic.json](./150363-luvsic.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux Alliance | 37003 | [37003-lux-alliance.json](./37003-lux-alliance.json) |
 | Lux Delux | 35965 | [35965-lux-delux.json](./35965-lux-delux.json) |
