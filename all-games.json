@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T23:01:47.475Z",
-  "total_soundtracks": 2738,
+  "generated_at": "2026-10-30T23:05:53.467Z",
+  "total_soundtracks": 2739,
   "games": [
     {
       "igdb_id": 7522,
@@ -21525,6 +21525,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/pony-town-library-update-original-game-soundtrack-single/1662381051?uo=4",
           "album_link_url": "https://album.link/i/1662381051"
+        }
+      ]
+    },
+    {
+      "igdb_id": 95028,
+      "game_name": "Pool Panic",
+      "game_url": "https://ostdb.net/games/pool-panic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735c1b0d269a772e5c58b6ba9a",
+      "albums": [
+        {
+          "album_name": "Pool Panic (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3zamPdyHeGbcVrAaZd4ER7",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
