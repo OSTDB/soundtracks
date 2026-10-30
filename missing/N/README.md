@@ -3934,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Striker | 37324 | [37324-night-striker.json](./37324-night-striker.json) |
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
+| Night Tail | 150902 | [150902-night-tail.json](./150902-night-tail.json) |
 | Night Terrors: Bloody Mary | 111439 | [111439-night-terrors-bloody-mary.json](./111439-night-terrors-bloody-mary.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Tide | 184323 | [184323-night-tide.json](./184323-night-tide.json) |
@@ -5995,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
 | Norse: Oath of Blood | 336868 | [336868-norse-oath-of-blood.json](./336868-norse-oath-of-blood.json) |
 | Norseman | 41560 | [41560-norseman.json](./41560-norseman.json) |
+| Norsk: Epistle | 150853 | [150853-norsk-epistle.json](./150853-norsk-epistle.json) |
 | North | 20393 | [20393-north.json](./20393-north.json) |
 | North & South | 1874 | [1874-north-and-south.json](./1874-north-and-south.json) |
 | North American Hunting Extravaganza | 51079 | [51079-north-american-hunting-extravaganza.json](./51079-north-american-hunting-extravaganza.json) |
