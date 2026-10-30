@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
 | Legacy of Shnaus: Horror Room Escape | 386196 | [386196-legacy-of-shnaus-horror-room-escape.json](./386196-legacy-of-shnaus-horror-room-escape.json) |
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
+| Legacy of Sin: The Father Sacrifice | 129984 | [129984-legacy-of-sin-the-father-sacrifice.json](./129984-legacy-of-sin-the-father-sacrifice.json) |
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
 | Legacy of Svarog | 59050 | [59050-legacy-of-svarog.json](./59050-legacy-of-svarog.json) |
 | Legacy of the Ancients | 19794 | [19794-legacy-of-the-ancients.json](./19794-legacy-of-the-ancients.json) |
@@ -5112,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Downcast | 387510 | [387510-lisa-the-downcast.json](./387510-lisa-the-downcast.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Heartless | 345354 | [345354-lisa-the-heartless.json](./345354-lisa-the-heartless.json) |
+| Lisa: The Hopeful | 129962 | [129962-lisa-the-hopeful.json](./129962-lisa-the-hopeful.json) |
 | Lisa: The Joyful - Arkantos | 222093 | [222093-lisa-the-joyful-arkantos.json](./222093-lisa-the-joyful-arkantos.json) |
 | Lisa: The Joyful - Definitive Edition | 252189 | [252189-lisa-the-joyful-definitive-edition.json](./252189-lisa-the-joyful-definitive-edition.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
@@ -6168,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lodoss-tou Senki: Fuku Zinduke | 66143 | [66143-lodoss-tou-senki-fuku-zinduke.json](./66143-lodoss-tou-senki-fuku-zinduke.json) |
 | Lodventure | 190475 | [190475-lodventure.json](./190475-lodventure.json) |
 | Loe: Legend of Enomoto | 278072 | [278072-loe-legend-of-enomoto.json](./278072-loe-legend-of-enomoto.json) |
+| Loek | 129976 | [129976-loek.json](./129976-loek.json) |
 | Lofelia's Cozy Corner | 416097 | [416097-lofelias-cozy-corner.json](./416097-lofelias-cozy-corner.json) |
 | Lofi Ball | 256276 | [256276-lofi-ball.json](./256276-lofi-ball.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
@@ -6407,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Knight | 226874 | [226874-lone-knight.json](./226874-lone-knight.json) |
 | Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
 | Lone Lamp | 289239 | [289239-lone-lamp.json](./289239-lone-lamp.json) |
+| Lone Land | 129981 | [129981-lone-land.json](./129981-lone-land.json) |
 | Lone Leader | 31578 | [31578-lone-leader.json](./31578-lone-leader.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
