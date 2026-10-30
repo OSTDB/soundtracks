@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palindrome Syndrome: Escape Room | 139604 | [139604-palindrome-syndrome-escape-room.json](./139604-palindrome-syndrome-escape-room.json) |
 | Palingenesis | 329082 | [329082-palingenesis.json](./329082-palingenesis.json) |
 | Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
+| Palisade | 135455 | [135455-palisade.json](./135455-palisade.json) |
 | Palisade Guardian | 387946 | [387946-palisade-guardian.json](./387946-palisade-guardian.json) |
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palitron | 58199 | [58199-palitron.json](./58199-palitron.json) |
@@ -3668,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin-kun Wars | 39396 | [39396-penguin-kun-wars.json](./39396-penguin-kun-wars.json) |
 | Penguin: Sokoban Adventure | 313459 | [313459-penguin-sokoban-adventure.json](./313459-penguin-sokoban-adventure.json) |
 | Penguin's ArcticDex | 405899 | [405899-penguins-arcticdex.json](./405899-penguins-arcticdex.json) |
+| Penguin's Dogma | 135428 | [135428-penguins-dogma.json](./135428-penguins-dogma.json) |
 | Penguin's Love | 361639 | [361639-penguins-love.json](./361639-penguins-love.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
 | PenguinLinks v2 | 253268 | [253268-penguinlinks-v2.json](./253268-penguinlinks-v2.json) |
@@ -14484,6 +14486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Search | 325637 | [325637-project-search.json](./325637-project-search.json) |
 | Project Sekai: Ayakashi Yokochou no Natsuyasumi | 411777 | [411777-project-sekai-ayakashi-yokochou-no-natsuyasumi.json](./411777-project-sekai-ayakashi-yokochou-no-natsuyasumi.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
+| Project Senko | 135479 | [135479-project-senko.json](./135479-project-senko.json) |
 | Project Sentinel: Zero Tolerance | 411974 | [411974-project-sentinel-zero-tolerance.json](./411974-project-sentinel-zero-tolerance.json) |
 | Project Sever | 368581 | [368581-project-sever.json](./368581-project-sever.json) |
 | Project SF2 | 174833 | [174833-project-sf2.json](./174833-project-sf2.json) |
