@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapo Xulé vs. Os Invasores do Brejo | 70287 | [70287-sapo-xule-vs-os-invasores-do-brejo.json](./70287-sapo-xule-vs-os-invasores-do-brejo.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
+| Sapper | 127519 | [127519-sapper.json](./127519-sapper.json) |
 | Sapper boom! | 102958 | [102958-sapper-boom.json](./102958-sapper-boom.json) |
 | Sapper Robot | 211657 | [211657-sapper-robot.json](./211657-sapper-robot.json) |
 | Sapper Simulator | 169123 | [169123-sapper-simulator.json](./169123-sapper-simulator.json) |
@@ -9160,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigformation | 235369 | [235369-sigformation.json](./235369-sigformation.json) |
 | Sigh of the Abyss | 207584 | [207584-sigh-of-the-abyss.json](./207584-sigh-of-the-abyss.json) |
 | Sigh of the Abyss: Shadow Bonds | 190313 | [190313-sigh-of-the-abyss-shadow-bonds.json](./190313-sigh-of-the-abyss-shadow-bonds.json) |
+| Sighchology Research Lab | 127534 | [127534-sighchology-research-lab.json](./127534-sighchology-research-lab.json) |
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight Insomnia | 364381 | [364381-sight-insomnia.json](./364381-sight-insomnia.json) |
@@ -10560,6 +10562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Gun Shootout: Gunfights of the Wild West | 65907 | [65907-six-gun-shootout-gunfights-of-the-wild-west.json](./65907-six-gun-shootout-gunfights-of-the-wild-west.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
+| Six-step Mystery | 127537 | [127537-six-step-mystery.json](./127537-six-step-mystery.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
 | Six. Eight. Two. | 281258 | [281258-six-eight-two.json](./281258-six-eight-two.json) |
 | Sixide | 285494 | [285494-sixide.json](./285494-sixide.json) |
@@ -11116,7 +11119,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
+| Skullgirls Encore: Big Band | 127555 | [127555-skullgirls-encore-big-band.json](./127555-skullgirls-encore-big-band.json) |
+| Skullgirls Encore: Eliza | 127553 | [127553-skullgirls-encore-eliza.json](./127553-skullgirls-encore-eliza.json) |
 | Skullgirls Encore: Five Characters & Complete Colors Pack | 127568 | [127568-skullgirls-encore-five-characters-and-complete-colors-pack.json](./127568-skullgirls-encore-five-characters-and-complete-colors-pack.json) |
+| Skullgirls Encore: Robo-Fortune | 127552 | [127552-skullgirls-encore-robo-fortune.json](./127552-skullgirls-encore-robo-fortune.json) |
+| Skullgirls Encore: Squigly | 127554 | [127554-skullgirls-encore-squigly.json](./127554-skullgirls-encore-squigly.json) |
 | Skullgirls Mobile | 28551 | [28551-skullgirls-mobile.json](./28551-skullgirls-mobile.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
 | Skullgirls: 2nd Encore - Annie | 167349 | [167349-skullgirls-2nd-encore-annie.json](./167349-skullgirls-2nd-encore-annie.json) |
@@ -17222,6 +17229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Blaster (Lines) | 169881 | [169881-space-blaster-lines.json](./169881-space-blaster-lines.json) |
 | Space Blasters | 346769 | [346769-space-blasters.json](./346769-space-blasters.json) |
 | Space Blaze | 127182 | [127182-space-blaze.json](./127182-space-blaze.json) |
+| Space Block Buster | 127508 | [127508-space-block-buster.json](./127508-space-block-buster.json) |
 | Space BlocKing | 233431 | [233431-space-blocking.json](./233431-space-blocking.json) |
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Boat | 175653 | [175653-space-boat.json](./175653-space-boat.json) |
@@ -25534,6 +25542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Red Cell | 67093 | [67093-strike-force-red-cell.json](./67093-strike-force-red-cell.json) |
 | Strike Force: Dragon VIP | 97208 | [97208-strike-force-dragon-vip.json](./97208-strike-force-dragon-vip.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
+| Strike Master Apocalypse | 127507 | [127507-strike-master-apocalypse.json](./127507-strike-master-apocalypse.json) |
 | Strike Master Bowling | 295666 | [295666-strike-master-bowling.json](./295666-strike-master-bowling.json) |
 | Strike of Horror | 112856 | [112856-strike-of-horror.json](./112856-strike-of-horror.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
