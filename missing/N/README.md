@@ -5728,6 +5728,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Euclidean Minesweeper | 398902 | [398902-non-euclidean-minesweeper.json](./398902-non-euclidean-minesweeper.json) |
 | Non-League Manager | 419205 | [419205-non-league-manager.json](./419205-non-league-manager.json) |
 | Non-Linear Text Quests | 103924 | [103924-non-linear-text-quests.json](./103924-non-linear-text-quests.json) |
+| Non-Linear Text Quests: Return of Red Riding Hood Enhanced Edition | 170714 | [170714-non-linear-text-quests-return-of-red-riding-hood-enhanced-edition.json](./170714-non-linear-text-quests-return-of-red-riding-hood-enhanced-edition.json) |
+| Non-Linear Text Quests: The Barbarian and the Subterranean Caves | 170713 | [170713-non-linear-text-quests-the-barbarian-and-the-subterranean-caves.json](./170713-non-linear-text-quests-the-barbarian-and-the-subterranean-caves.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Non-Stop Space Probe | 237389 | [237389-non-stop-space-probe.json](./237389-non-stop-space-probe.json) |
 | Non-Virtual Reality Games | 371033 | [371033-non-virtual-reality-games.json](./371033-non-virtual-reality-games.json) |
