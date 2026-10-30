@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Anima | 294364 | [294364-hand-of-anima.json](./294364-hand-of-anima.json) |
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
+| Hand of Fate 2: Outlands and Outsiders | 155303 | [155303-hand-of-fate-2-outlands-and-outsiders.json](./155303-hand-of-fate-2-outlands-and-outsiders.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of Fate: Deluxe Edition | 118664 | [118664-hand-of-fate-deluxe-edition.json](./118664-hand-of-fate-deluxe-edition.json) |
 | Hand of Fate: Hordes | 334544 | [334544-hand-of-fate-hordes.json](./334544-hand-of-fate-hordes.json) |
@@ -4432,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fetish Tycoon | 177707 | [177707-hentai-fetish-tycoon.json](./177707-hentai-fetish-tycoon.json) |
 | Hentai Fetishes: Yuri | 379548 | [379548-hentai-fetishes-yuri.json](./379548-hentai-fetishes-yuri.json) |
 | Hentai Fight Club | 163011 | [163011-hentai-fight-club.json](./163011-hentai-fight-club.json) |
+| Hentai Fighter | 155333 | [155333-hentai-fighter.json](./155333-hentai-fighter.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Forest | 110681 | [110681-hentai-forest.json](./110681-hentai-forest.json) |
 | Hentai Forever | 149425 | [149425-hentai-forever.json](./149425-hentai-forever.json) |
@@ -9622,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Paraíso | 401868 | [401868-hotel-paraiso.json](./401868-hotel-paraiso.json) |
 | Hotel Paris | 160013 | [160013-hotel-paris.json](./160013-hotel-paris.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
+| Hotel Renovation 2 | 155396 | [155396-hotel-renovation-2.json](./155396-hotel-renovation-2.json) |
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
 | Hotel Renovator: Five Star Edition | 250420 | [250420-hotel-renovator-five-star-edition.json](./250420-hotel-renovator-five-star-edition.json) |
 | Hotel Renovator: Futuristic Furniture Set | 250421 | [250421-hotel-renovator-futuristic-furniture-set.json](./250421-hotel-renovator-futuristic-furniture-set.json) |
