@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
 | Magical Manifest | 382546 | [382546-magical-manifest.json](./382546-magical-manifest.json) |
+| Magical Marriage Lunatics!! | 139023 | [139023-magical-marriage-lunatics.json](./139023-magical-marriage-lunatics.json) |
 | Magical Massage | 323014 | [323014-magical-massage.json](./323014-magical-massage.json) |
 | Magical Maze | 147749 | [147749-magical-maze.json](./147749-magical-maze.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama Die and Retry | 232953 | [232953-mama-die-and-retry.json](./232953-mama-die-and-retry.json) |
 | Mama Farm | 95612 | [95612-mama-farm.json](./95612-mama-farm.json) |
 | Mama Hawk | 89024 | [89024-mama-hawk.json](./89024-mama-hawk.json) |
+| Mama ni Aitai | 138424 | [138424-mama-ni-aitai.json](./138424-mama-ni-aitai.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
 | Mama Soybean's Delicious Oyster Sauce | 183842 | [183842-mama-soybeans-delicious-oyster-sauce.json](./183842-mama-soybeans-delicious-oyster-sauce.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
@@ -2616,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man/Woman | 181747 | [181747-man-woman.json](./181747-man-woman.json) |
 | Mana | 280309 | [280309-mana.json](./280309-mana.json) |
 | Mana Balls | 116190 | [116190-mana-balls.json](./116190-mana-balls.json) |
+| Mana Blast | 138415 | [138415-mana-blast.json](./138415-mana-blast.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
 | Mana Expel | 264747 | [264747-mana-expel.json](./264747-mana-expel.json) |
@@ -6079,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
 | Mechatroniks Attack | 30850 | [30850-mechatroniks-attack.json](./30850-mechatroniks-attack.json) |
 | MechaWing! | 244782 | [244782-mechawing.json](./244782-mechawing.json) |
+| Mechblaze | 138967 | [138967-mechblaze.json](./138967-mechblaze.json) |
 | Mechborn | 384809 | [384809-mechborn.json](./384809-mechborn.json) |
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
@@ -11662,6 +11666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Maze | 197772 | [197772-minimal-maze.json](./197772-minimal-maze.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | Minimalism | 29648 | [29648-minimalism.json](./29648-minimalism.json) |
+| Minimalist | 138976 | [138976-minimalist.json](./138976-minimalist.json) |
 | Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
 | Minimalist Bundle | 164691 | [164691-minimalist-bundle.json](./164691-minimalist-bundle.json) |
 | Minimalist Farm Tycoon | 294098 | [294098-minimalist-farm-tycoon.json](./294098-minimalist-farm-tycoon.json) |
