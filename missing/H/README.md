@@ -9896,6 +9896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Horror: 7 Psychos | 320468 | [320468-house-of-horror-7-psychos.json](./320468-house-of-horror-7-psychos.json) |
 | House of Horror: Outside is Better | 326223 | [326223-house-of-horror-outside-is-better.json](./326223-house-of-horror-outside-is-better.json) |
 | House of Horrors | 296415 | [296415-house-of-horrors.json](./296415-house-of-horrors.json) |
+| House of Ignotus | 125606 | [125606-house-of-ignotus.json](./125606-house-of-ignotus.json) |
 | House of Jigsaw: A Day at the Park | 273479 | [273479-house-of-jigsaw-a-day-at-the-park.json](./273479-house-of-jigsaw-a-day-at-the-park.json) |
 | House of Jigsaw: Amazing Birds | 273480 | [273480-house-of-jigsaw-amazing-birds.json](./273480-house-of-jigsaw-amazing-birds.json) |
 | House of Jigsaw: Amazing Colors of the World | 273483 | [273483-house-of-jigsaw-amazing-colors-of-the-world.json](./273483-house-of-jigsaw-amazing-colors-of-the-world.json) |
