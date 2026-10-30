@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faded Stories: Full Moon | 263094 | [263094-faded-stories-full-moon.json](./263094-faded-stories-full-moon.json) |
 | Faded Stories: Greenberg | 190176 | [190176-faded-stories-greenberg.json](./190176-faded-stories-greenberg.json) |
 | Fadedlands: The Reckless Squad | 348316 | [348316-fadedlands-the-reckless-squad.json](./348316-fadedlands-the-reckless-squad.json) |
+| Fadeout: Underground | 154747 | [154747-fadeout-underground.json](./154747-fadeout-underground.json) |
 | Faderhead's Fist Full of Fuck You 2.0 | 97688 | [97688-faderheads-fist-full-of-fuck-you-2-0.json](./97688-faderheads-fist-full-of-fuck-you-2-0.json) |
 | FadeZone | 121283 | [121283-fadezone.json](./121283-fadezone.json) |
 | Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
@@ -8406,6 +8407,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Pirate Hero Skin | 241964 | [241964-for-honor-pirate-hero-skin.json](./241964-for-honor-pirate-hero-skin.json) |
 | For Honor: Prince Yi – Tiandi Hero Skin | 408968 | [408968-for-honor-prince-yi-tiandi-hero-skin.json](./408968-for-honor-prince-yi-tiandi-hero-skin.json) |
 | For Honor: Raider Hero Skin | 227315 | [227315-for-honor-raider-hero-skin.json](./227315-for-honor-raider-hero-skin.json) |
+| For Honor: Season 15 - Resistance | 154736 | [154736-for-honor-season-15-resistance.json](./154736-for-honor-season-15-resistance.json) |
+| For Honor: Season 16 - Mayhem | 154739 | [154739-for-honor-season-16-mayhem.json](./154739-for-honor-season-16-mayhem.json) |
+| For Honor: Season 17 - Asunder | 154740 | [154740-for-honor-season-17-asunder.json](./154740-for-honor-season-17-asunder.json) |
+| For Honor: Season 18 - Mirage | 154741 | [154741-for-honor-season-18-mirage.json](./154741-for-honor-season-18-mirage.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
