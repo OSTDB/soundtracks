@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
 | Negligee | 28207 | [28207-negligee.json](./28207-negligee.json) |
 | Negligee | 283135 | [283135-negligee.json](./283135-negligee.json) |
+| Negligee: Girls Night | 153041 | [153041-negligee-girls-night.json](./153041-negligee-girls-night.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
 | Negligee: Opposites Attract | 160126 | [160126-negligee-opposites-attract.json](./160126-negligee-opposites-attract.json) |
 | Negligee: Spring Clean | 159218 | [159218-negligee-spring-clean.json](./159218-negligee-spring-clean.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Atsume 2 | 288044 | [288044-neko-atsume-2.json](./288044-neko-atsume-2.json) |
 | Neko Atsume VR | 68317 | [68317-neko-atsume-vr.json](./68317-neko-atsume-vr.json) |
 | Neko Atsume: Kitty Collector+ | 240858 | [240858-neko-atsume-kitty-collector.json](./240858-neko-atsume-kitty-collector.json) |
+| Neko Beach | 153068 | [153068-neko-beach.json](./153068-neko-beach.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
 | Neko Bento 2 | 362206 | [362206-neko-bento-2.json](./362206-neko-bento-2.json) |
 | Neko Café Stories | 369697 | [369697-neko-cafe-stories.json](./369697-neko-cafe-stories.json) |
