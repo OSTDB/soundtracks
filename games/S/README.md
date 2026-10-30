@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27369757576afa66b9a1d23551b" width="60" /> | [S.T.A.L.K.E.R. 2: Cost of Hope](https://ostdb.net/games/s-t-a-l-k-e-r-2-cost-of-hope) | **S.T.A.L.K.E.R. 2: Cost of Hope (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2A52YuE3mWvaBMzciDLAe6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27353d5b26a3f0351960557117a" width="60" /> | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://ostdb.net/games/s-t-a-l-k-e-r-2-heart-of-chornobyl) | **S.T.A.L.K.E.R. 2: Heart of Chornobyl (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5FJkW0gvOl3pX1XNxyGols) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a5d2303003b7934126eff60" width="60" /> | [SCHiM](https://ostdb.net/games/schim) | **SCHiM (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7yuIdwEWlOAl8aeqkJMr3w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bab97666065c2cf048f2bb" width="60" /> | [SaGa Frontier](https://ostdb.net/games/saga-frontier) | **SaGa Frontier Original SoundTrack** · [Spotify](https://open.spotify.com/album/7md7YyJpvjOFH1UgdTFFZ9) |
