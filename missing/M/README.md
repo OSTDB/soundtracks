@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage the Ascension: Refuge | 27423 | [27423-mage-the-ascension-refuge.json](./27423-mage-the-ascension-refuge.json) |
 | Mage Tower | 187191 | [187191-mage-tower.json](./187191-mage-tower.json) |
 | Mage Tower, A Tower Defense Card Game | 246803 | [246803-mage-tower-a-tower-defense-card-game.json](./246803-mage-tower-a-tower-defense-card-game.json) |
+| Mage Tower: Call of Zadeus | 171725 | [171725-mage-tower-call-of-zadeus.json](./171725-mage-tower-call-of-zadeus.json) |
 | Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
 | Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
@@ -17445,6 +17446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Must Love Jaws | 182883 | [182883-must-love-jaws.json](./182883-must-love-jaws.json) |
 | Must Pop Words | 240036 | [240036-must-pop-words.json](./240036-must-pop-words.json) |
+| Must Reach | 171734 | [171734-must-reach.json](./171734-must-reach.json) |
 | Must. Eat. Birds! | 67214 | [67214-must-eat-birds.json](./67214-must-eat-birds.json) |
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
