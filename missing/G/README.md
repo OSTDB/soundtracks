@@ -3639,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins | 6807 | [6807-ghosts-n-goblins.json](./6807-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
+| Ghosts 4 Everybody | 132421 | [132421-ghosts-4-everybody.json](./132421-ghosts-4-everybody.json) |
 | Ghosts and Apples | 180963 | [180963-ghosts-and-apples.json](./180963-ghosts-and-apples.json) |
 | Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginsei Shogi: Aun Toushin Kongou Raizan | 219024 | [219024-ginsei-shogi-aun-toushin-kongou-raizan.json](./219024-ginsei-shogi-aun-toushin-kongou-raizan.json) |
 | Ginsei Shogi: Kyoutendo Toufuu Raijin | 56159 | [56159-ginsei-shogi-kyoutendo-toufuu-raijin.json](./56159-ginsei-shogi-kyoutendo-toufuu-raijin.json) |
 | Ginsei Table Games Wii | 83448 | [83448-ginsei-table-games-wii.json](./83448-ginsei-table-games-wii.json) |
+| Ginseng Hero | 132399 | [132399-ginseng-hero.json](./132399-ginseng-hero.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
 | Gintama Sumaho Battle Chronicle | 381893 | [381893-gintama-sumaho-battle-chronicle.json](./381893-gintama-sumaho-battle-chronicle.json) |
@@ -5423,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godhood | 106679 | [106679-godhood.json](./106679-godhood.json) |
 | Godhood: Deluxe Edition | 154207 | [154207-godhood-deluxe-edition.json](./154207-godhood-deluxe-edition.json) |
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
+| Godking: Master of Rituals | 132411 | [132411-godking-master-of-rituals.json](./132411-godking-master-of-rituals.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
 | Godless | 165161 | [165161-godless.json](./165161-godless.json) |
