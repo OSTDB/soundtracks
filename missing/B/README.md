@@ -5958,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Fighter | 283991 | [283991-best-fighter.json](./283991-best-fighter.json) |
 | Best Forklift Operator | 190338 | [190338-best-forklift-operator.json](./190338-best-forklift-operator.json) |
 | Best Friend | 133110 | [133110-best-friend.json](./133110-best-friend.json) |
+| Best Friend | 157856 | [157856-best-friend.json](./157856-best-friend.json) |
 | Best Friend | 215489 | [215489-best-friend.json](./215489-best-friend.json) |
 | Best Friends | 313956 | [313956-best-friends.json](./313956-best-friends.json) |
 | Best Friends | 94526 | [94526-best-friends.json](./94526-best-friends.json) |
@@ -7986,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Crystals | 127700 | [127700-black-crystals.json](./127700-black-crystals.json) |
 | Black Cycle | 226194 | [226194-black-cycle.json](./226194-black-cycle.json) |
 | Black Dahlia | 12405 | [12405-black-dahlia.json](./12405-black-dahlia.json) |
+| Black Datura & Red Goat | 157828 | [157828-black-datura-and-red-goat.json](./157828-black-datura-and-red-goat.json) |
 | Black Dawn | 125312 | [125312-black-dawn.json](./125312-black-dawn.json) |
 | Black Dawn | 45503 | [45503-black-dawn.json](./45503-black-dawn.json) |
 | Black Dawn II | 124725 | [124725-black-dawn-ii.json](./124725-black-dawn-ii.json) |
@@ -15392,6 +15394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletproof | 235697 | [235697-bulletproof.json](./235697-bulletproof.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
+| Bullets | 157864 | [157864-bullets.json](./157864-bullets.json) |
 | Bullets | 368483 | [368483-bullets.json](./368483-bullets.json) |
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
 | Bullets and More VR: BAM VR | 31401 | [31401-bullets-and-more-vr-bam-vr.json](./31401-bullets-and-more-vr-bam-vr.json) |
