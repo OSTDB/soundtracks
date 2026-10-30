@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth 2 | 96302 | [96302-labyrinth-2.json](./96302-labyrinth-2.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
+| Labyrinth de Terre | 130509 | [130509-labyrinth-de-terre.json](./130509-labyrinth-de-terre.json) |
 | Labyrinth Deck | 184720 | [184720-labyrinth-deck.json](./184720-labyrinth-deck.json) |
 | Labyrinth DeLux: A Crusoe Quest | 192229 | [192229-labyrinth-delux-a-crusoe-quest.json](./192229-labyrinth-delux-a-crusoe-quest.json) |
 | Labyrinth Escape | 41901 | [41901-labyrinth-escape.json](./41901-labyrinth-escape.json) |
@@ -6866,6 +6867,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Liberty Quest II: Pure White | 416022 | [416022-lord-liberty-quest-ii-pure-white.json](./416022-lord-liberty-quest-ii-pure-white.json) |
 | Lord Mayor | 32376 | [32376-lord-mayor.json](./32376-lord-mayor.json) |
 | Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
+| Lord Monarch First | 130550 | [130550-lord-monarch-first.json](./130550-lord-monarch-first.json) |
+| Lord Monarch Online | 130552 | [130552-lord-monarch-online.json](./130552-lord-monarch-online.json) |
+| Lord Monarch Original | 130549 | [130549-lord-monarch-original.json](./130549-lord-monarch-original.json) |
+| Lord Monarch Pro | 130555 | [130555-lord-monarch-pro.json](./130555-lord-monarch-pro.json) |
+| Lord Monarch: Shin Gaia Oukokuki | 130557 | [130557-lord-monarch-shin-gaia-oukokuki.json](./130557-lord-monarch-shin-gaia-oukokuki.json) |
 | Lord Monarch: Tokoton Sentou Densetsu | 46074 | [46074-lord-monarch-tokoton-sentou-densetsu.json](./46074-lord-monarch-tokoton-sentou-densetsu.json) |
 | Lord Nine: Infinite Class | 358986 | [358986-lord-nine-infinite-class.json](./358986-lord-nine-infinite-class.json) |
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
