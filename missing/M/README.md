@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malice & Greed | 143568 | [143568-malice-and-greed.json](./143568-malice-and-greed.json) |
 | Malice in Wonderland | 403366 | [403366-malice-in-wonderland.json](./403366-malice-in-wonderland.json) |
 | Malice Within | 337590 | [337590-malice-within.json](./337590-malice-within.json) |
+| Malice: Two Sisters | 125641 | [125641-malice-two-sisters.json](./125641-malice-two-sisters.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Malicious | 26582 | [26582-malicious.json](./26582-malicious.json) |
 | Malicious Mages | 216652 | [216652-malicious-mages.json](./216652-malicious-mages.json) |
@@ -12619,6 +12620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsumete Knight R: Daibouken-hen | 166164 | [166164-mitsumete-knight-r-daibouken-hen.json](./166164-mitsumete-knight-r-daibouken-hen.json) |
 | Mitsurugi Kamui Hikae | 8822 | [8822-mitsurugi-kamui-hikae.json](./8822-mitsurugi-kamui-hikae.json) |
 | Mitt Babyzoo | 288106 | [288106-mitt-babyzoo.json](./288106-mitt-babyzoo.json) |
+| Mittelamerika-Krise | 125589 | [125589-mittelamerika-krise.json](./125589-mittelamerika-krise.json) |
 | Mittelland AD: Origins | 408533 | [408533-mittelland-ad-origins.json](./408533-mittelland-ad-origins.json) |
 | Mittin | 222286 | [222286-mittin.json](./222286-mittin.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
@@ -13260,6 +13262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
 | Moero!! Jaleco Collection | 49721 | [49721-moero-jaleco-collection.json](./49721-moero-jaleco-collection.json) |
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
+| Moero!! Pro Yaguu: Home Run Kyousou | 125652 | [125652-moero-pro-yaguu-home-run-kyousou.json](./125652-moero-pro-yaguu-home-run-kyousou.json) |
 | Moero!! Pro Yakyuu 2016 | 218985 | [218985-moero-pro-yakyuu-2016.json](./218985-moero-pro-yakyuu-2016.json) |
 | Moero!! Pro Yakyuu Homerun Kyousou | 40387 | [40387-moero-pro-yakyuu-homerun-kyousou.json](./40387-moero-pro-yakyuu-homerun-kyousou.json) |
 | Moero!! Pro Yakyuu Rookies | 37566 | [37566-moero-pro-yakyuu-rookies.json](./37566-moero-pro-yakyuu-rookies.json) |
@@ -15284,6 +15287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morkredd: Ra Edition | 164721 | [164721-morkredd-ra-edition.json](./164721-morkredd-ra-edition.json) |
 | Morkull: Ascend to the Gods | 390674 | [390674-morkull-ascend-to-the-gods.json](./390674-morkull-ascend-to-the-gods.json) |
 | Morkull: Ragast's Rage - Collector's Edition | 324770 | [324770-morkull-ragasts-rage-collectors-edition.json](./324770-morkull-ragasts-rage-collectors-edition.json) |
+| Morky | 125619 | [125619-morky.json](./125619-morky.json) |
 | Morlush | 203563 | [203563-morlush.json](./203563-morlush.json) |
 | Mormonoids From The Deep | 246414 | [246414-mormonoids-from-the-deep.json](./246414-mormonoids-from-the-deep.json) |
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
@@ -16229,6 +16233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
 | Mountain Peak Battle Mess | 147685 | [147685-mountain-peak-battle-mess.json](./147685-mountain-peak-battle-mess.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
+| Mountain Skiing | 125620 | [125620-mountain-skiing.json](./125620-mountain-skiing.json) |
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
 | Mountain Sports | 214894 | [214894-mountain-sports.json](./214894-mountain-sports.json) |
 | Mountain Tanks | 87744 | [87744-mountain-tanks.json](./87744-mountain-tanks.json) |
@@ -16441,6 +16446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
+| Mozg Procesor | 125621 | [125621-mozg-procesor.json](./125621-mozg-procesor.json) |
 | Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
 | MP Orbit | 273225 | [273225-mp-orbit.json](./273225-mp-orbit.json) |
@@ -16669,6 +16675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Gray and the Island Invasion | 177729 | [177729-mr-gray-and-the-island-invasion.json](./177729-mr-gray-and-the-island-invasion.json) |
 | Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
+| Mr. Grumpy | 125622 | [125622-mr-grumpy.json](./125622-mr-grumpy.json) |
 | Mr. Healer | 223271 | [223271-mr-healer.json](./223271-mr-healer.json) |
 | Mr. Heli | 10446 | [10446-mr-heli.json](./10446-mr-heli.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
