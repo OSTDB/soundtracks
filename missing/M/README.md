@@ -4623,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Orion 1+2 | 155305 | [155305-master-of-orion-1-2.json](./155305-master-of-orion-1-2.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
+| Master of Orion: Elerian Fiefdoms | 150881 | [150881-master-of-orion-elerian-fiefdoms.json](./150881-master-of-orion-elerian-fiefdoms.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
 | Master of Orion: Retro Fleets | 170132 | [170132-master-of-orion-retro-fleets.json](./170132-master-of-orion-retro-fleets.json) |
 | Master of Orion: Terran Khanate | 170130 | [170130-master-of-orion-terran-khanate.json](./170130-master-of-orion-terran-khanate.json) |
@@ -4749,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
 | Masterpieced | 231543 | [231543-masterpieced.json](./231543-masterpieced.json) |
+| MasterPlan | 150888 | [150888-masterplan.json](./150888-masterplan.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
 | MasterQuest Fantasy | 378977 | [378977-masterquest-fantasy.json](./378977-masterquest-fantasy.json) |
 | Masters '98: Harukanaru Augusta | 47744 | [47744-masters-98-harukanaru-augusta.json](./47744-masters-98-harukanaru-augusta.json) |
@@ -7888,6 +7890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
 | Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
 | Memorize 3 | 100753 | [100753-memorize-3.json](./100753-memorize-3.json) |
+| Memorize Cards | 150859 | [150859-memorize-cards.json](./150859-memorize-cards.json) |
 | Memorize the Cards | 301382 | [301382-memorize-the-cards.json](./301382-memorize-the-cards.json) |
 | Memorize the Evidence: 1-Minute Memory Mystery | 409540 | [409540-memorize-the-evidence-1-minute-memory-mystery.json](./409540-memorize-the-evidence-1-minute-memory-mystery.json) |
 | Memorize V | 164229 | [164229-memorize-v.json](./164229-memorize-v.json) |
@@ -18361,6 +18364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hobby: Needlework Galore - Tiny Home | 311731 | [311731-my-hobby-needlework-galore-tiny-home.json](./311731-my-hobby-needlework-galore-tiny-home.json) |
 | My Hobby: Needlework Galore - Vintage | 312054 | [312054-my-hobby-needlework-galore-vintage.json](./312054-my-hobby-needlework-galore-vintage.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
+| My Holiday 2 | 150866 | [150866-my-holiday-2.json](./150866-my-holiday-2.json) |
 | My Holiday Car | 106996 | [106996-my-holiday-car.json](./106996-my-holiday-car.json) |
 | My Holiday Car: Sunrise City | 104455 | [104455-my-holiday-car-sunrise-city.json](./104455-my-holiday-car-sunrise-city.json) |
 | My Holiness the Gobliness | 235355 | [235355-my-holiness-the-gobliness.json](./235355-my-holiness-the-gobliness.json) |
