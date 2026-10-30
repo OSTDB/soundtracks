@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newfound Courage: Winter's Fair | 151063 | [151063-newfound-courage-winters-fair.json](./151063-newfound-courage-winters-fair.json) |
 | Newgothic Movement 1 | 186762 | [186762-newgothic-movement-1.json](./186762-newgothic-movement-1.json) |
 | Newgothic Movement 2 | 275571 | [275571-newgothic-movement-2.json](./275571-newgothic-movement-2.json) |
+| Newgrounds High Visual Novel | 141429 | [141429-newgrounds-high-visual-novel.json](./141429-newgrounds-high-visual-novel.json) |
 | Newgrounds Rumble | 92467 | [92467-newgrounds-rumble.json](./92467-newgrounds-rumble.json) |
 | NewHrdGame | 367715 | [367715-newhrdgame.json](./367715-newhrdgame.json) |
 | Newly Wed AV Debut - Cuckoldry Honeymoon- | 279449 | [279449-newly-wed-av-debut-cuckoldry-honeymoon.json](./279449-newly-wed-av-debut-cuckoldry-honeymoon.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Chicken 3: The World's Hardest Game | 247433 | [247433-ninja-chicken-3-the-worlds-hardest-game.json](./247433-ninja-chicken-3-the-worlds-hardest-game.json) |
 | Ninja Chicken for Mac | 104561 | [104561-ninja-chicken-for-mac.json](./104561-ninja-chicken-for-mac.json) |
 | Ninja Chop!! | 270607 | [270607-ninja-chop.json](./270607-ninja-chop.json) |
+| Ninja Chowdown | 141445 | [141445-ninja-chowdown.json](./141445-ninja-chowdown.json) |
 | Ninja Chowdown: Glaze of Glory | 290513 | [290513-ninja-chowdown-glaze-of-glory.json](./290513-ninja-chowdown-glaze-of-glory.json) |
 | Ninja Clan | 311498 | [311498-ninja-clan.json](./311498-ninja-clan.json) |
 | Ninja Climb | 274847 | [274847-ninja-climb.json](./274847-ninja-climb.json) |
@@ -4650,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Rabbit | 214491 | [214491-ninja-rabbit.json](./214491-ninja-rabbit.json) |
 | Ninja Rabbits | 15272 | [15272-ninja-rabbits.json](./15272-ninja-rabbits.json) |
 | Ninja Raiden | 181787 | [181787-ninja-raiden.json](./181787-ninja-raiden.json) |
+| Ninja Ranger: Shinobi Arashi Superhero's Gaiden | 141447 | [141447-ninja-ranger-shinobi-arashi-superheros-gaiden.json](./141447-ninja-ranger-shinobi-arashi-superheros-gaiden.json) |
 | Ninja Reflex | 5076 | [5076-ninja-reflex.json](./5076-ninja-reflex.json) |
 | Ninja Reflex: Steamworks Edition | 82011 | [82011-ninja-reflex-steamworks-edition.json](./82011-ninja-reflex-steamworks-edition.json) |
 | Ninja Relo | 208076 | [208076-ninja-relo.json](./208076-ninja-relo.json) |
