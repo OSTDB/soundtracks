@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Sunflower | 180669 | [180669-legend-of-sunflower.json](./180669-legend-of-sunflower.json) |
 | Legend of Taigong | 254647 | [254647-legend-of-taigong.json](./254647-legend-of-taigong.json) |
 | Legend of Talisman | 237601 | [237601-legend-of-talisman.json](./237601-legend-of-talisman.json) |
+| Legend of the 9 Swords: Side Story | 126787 | [126787-legend-of-the-9-swords-side-story.json](./126787-legend-of-the-9-swords-side-story.json) |
 | Legend of the Amazon Women | 13800 | [13800-legend-of-the-amazon-women.json](./13800-legend-of-the-amazon-women.json) |
 | Legend of the Ancient Dragon | 73249 | [73249-legend-of-the-ancient-dragon.json](./73249-legend-of-the-ancient-dragon.json) |
 | Legend of the Ancient Sword | 55818 | [55818-legend-of-the-ancient-sword.json](./55818-legend-of-the-ancient-sword.json) |
