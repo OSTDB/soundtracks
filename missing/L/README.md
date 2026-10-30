@@ -9004,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Professor | 369158 | [369158-lustful-professor.json](./369158-lustful-professor.json) |
 | Lustful Pussies | 204179 | [204179-lustful-pussies.json](./204179-lustful-pussies.json) |
 | Lustful Roommates | 367287 | [367287-lustful-roommates.json](./367287-lustful-roommates.json) |
+| Lustful Tribe | 153038 | [153038-lustful-tribe.json](./153038-lustful-tribe.json) |
 | Lustless | 241251 | [241251-lustless.json](./241251-lustless.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
 | Lustrous Heart | 298994 | [298994-lustrous-heart.json](./298994-lustrous-heart.json) |
