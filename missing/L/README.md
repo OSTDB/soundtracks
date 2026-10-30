@@ -5346,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Horror Raiser | 216185 | [216185-little-horror-raiser.json](./216185-little-horror-raiser.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
 | Little House | 341833 | [341833-little-house.json](./341833-little-house.json) |
+| Little Ideology | 134849 | [134849-little-ideology.json](./134849-little-ideology.json) |
 | Little Idle Monsters | 119376 | [119376-little-idle-monsters.json](./119376-little-idle-monsters.json) |
 | Little Incrementisle | 410039 | [410039-little-incrementisle.json](./410039-little-incrementisle.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
@@ -5990,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
 | Localhost | 68110 | [68110-localhost.json](./68110-localhost.json) |
 | Locally Sourced Anthology I: A Space Atlas | 309188 | [309188-locally-sourced-anthology-i-a-space-atlas.json](./309188-locally-sourced-anthology-i-a-space-atlas.json) |
+| Location Withheld: Demake | 134876 | [134876-location-withheld-demake.json](./134876-location-withheld-demake.json) |
 | Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
 | Loch Mess | 157400 | [157400-loch-mess.json](./157400-loch-mess.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
@@ -8070,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Day | 185379 | [185379-lovely-day.json](./185379-lovely-day.json) |
 | Lovely Deco House | 402426 | [402426-lovely-deco-house.json](./402426-lovely-deco-house.json) |
 | Lovely Defenders | 279554 | [279554-lovely-defenders.json](./279554-lovely-defenders.json) |
+| Lovely Fairy Action | 134850 | [134850-lovely-fairy-action.json](./134850-lovely-fairy-action.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
@@ -8367,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Lord: The Coin Pusher of Fate | 377622 | [377622-lucky-lord-the-coin-pusher-of-fate.json](./377622-lucky-lord-the-coin-pusher-of-fate.json) |
+| Lucky Luke | 134833 | [134833-lucky-luke.json](./134833-lucky-luke.json) |
 | Lucky Luke | 198806 | [198806-lucky-luke.json](./198806-lucky-luke.json) |
 | Lucky Luke | 200331 | [200331-lucky-luke.json](./200331-lucky-luke.json) |
 | Lucky Luke | 200334 | [200334-lucky-luke.json](./200334-lucky-luke.json) |
