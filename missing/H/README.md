@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
 | Happy Princess: Another Fairytale | 77904 | [77904-happy-princess-another-fairytale.json](./77904-happy-princess-another-fairytale.json) |
 | Happy Puppy | 346396 | [346396-happy-puppy.json](./346396-happy-puppy.json) |
+| Happy Puzzle | 157346 | [157346-happy-puzzle.json](./157346-happy-puzzle.json) |
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
@@ -2952,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
 | Heart Snatcher | 366392 | [366392-heart-snatcher.json](./366392-heart-snatcher.json) |
 | Heart to Heart | 114832 | [114832-heart-to-heart.json](./114832-heart-to-heart.json) |
+| Heart World | 157329 | [157329-heart-world.json](./157329-heart-world.json) |
 | Heart-Pounding Dating Prep | 81870 | [81870-heart-pounding-dating-prep.json](./81870-heart-pounding-dating-prep.json) |
 | Heart-Pounding Office Puzzle with My Boss | 418326 | [418326-heart-pounding-office-puzzle-with-my-boss.json](./418326-heart-pounding-office-puzzle-with-my-boss.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
@@ -4969,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heph | 30121 | [30121-heph.json](./30121-heph.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
+| Hepta Beats | 157347 | [157347-hepta-beats.json](./157347-hepta-beats.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
 | Her Age, My Sex, Your Location | 354813 | [354813-her-age-my-sex-your-location.json](./354813-her-age-my-sex-your-location.json) |
