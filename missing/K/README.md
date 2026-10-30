@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karlson Run | 202578 | [202578-karlson-run.json](./202578-karlson-run.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
+| Karma | 167466 | [167466-karma.json](./167466-karma.json) |
 | Karma | 34965 | [34965-karma.json](./34965-karma.json) |
 | Karma | 356868 | [356868-karma.json](./356868-karma.json) |
 | Karma | 415474 | [415474-karma.json](./415474-karma.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Smartphone Version | 208222 | [208222-karumaruka-circle-smartphone-version.json](./208222-karumaruka-circle-smartphone-version.json) |
 | Karvan | 217187 | [217187-karvan.json](./217187-karvan.json) |
+| Karvaros | 167507 | [167507-karvaros.json](./167507-karvaros.json) |
 | Kary | 286958 | [286958-kary.json](./286958-kary.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
 | Karza Football Man 2017 | 233159 | [233159-karza-football-man-2017.json](./233159-karza-football-man-2017.json) |
@@ -1716,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kewbii | 215592 | [215592-kewbii.json](./215592-kewbii.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
+| Key | 167497 | [167497-key.json](./167497-key.json) |
 | Key | 217484 | [217484-key.json](./217484-key.json) |
 | Key | 393589 | [393589-key.json](./393589-key.json) |
 | Key 10th Memorial BOX | 168031 | [168031-key-10th-memorial-box.json](./168031-key-10th-memorial-box.json) |
@@ -4607,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kommissar Rex | 217734 | [217734-kommissar-rex.json](./217734-kommissar-rex.json) |
 | Komocchi | 62538 | [62538-komocchi.json](./62538-komocchi.json) |
 | Komodo 3K Arena | 393110 | [393110-komodo-3k-arena.json](./393110-komodo-3k-arena.json) |
+| Komora: Real World Escape | 167506 | [167506-komora-real-world-escape.json](./167506-komora-real-world-escape.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
 | Kompete | 271681 | [271681-kompete.json](./271681-kompete.json) |
