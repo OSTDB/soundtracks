@@ -4501,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Genesis Mini | 213368 | [213368-sega-genesis-mini.json](./213368-sega-genesis-mini.json) |
 | Sega Genesis Mini 2 | 215742 | [215742-sega-genesis-mini-2.json](./215742-sega-genesis-mini-2.json) |
 | Sega Genesis Ultimate Portable Game Player | 202787 | [202787-sega-genesis-ultimate-portable-game-player.json](./202787-sega-genesis-ultimate-portable-game-player.json) |
+| Sega Golden Gun | 124432 | [124432-sega-golden-gun.json](./124432-sega-golden-gun.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
 | Sega GT 2002 | 6039 | [6039-sega-gt-2002.json](./6039-sega-gt-2002.json) |
 | Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
@@ -9930,6 +9931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 10: The Doko Demo Kanji Quiz | 203404 | [203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json](./203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json) |
 | Simple DS Series Vol. 11: Mou Ichido Kayoeru - The Otona no Shougakkou | 203405 | [203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json](./203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json) |
 | Simple DS Series Vol. 14: The Jidousha Kyoushuujo DS | 203406 | [203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json](./203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json) |
+| Simple DS Series Vol. 18: The Soukou Kihei Gun Ground | 124411 | [124411-simple-ds-series-vol-18-the-soukou-kihei-gun-ground.json](./124411-simple-ds-series-vol-18-the-soukou-kihei-gun-ground.json) |
 | Simple DS Series Vol. 20: The Senkan | 203407 | [203407-simple-ds-series-vol-20-the-senkan.json](./203407-simple-ds-series-vol-20-the-senkan.json) |
 | Simple DS Series Vol. 25: The Koushounin | 63626 | [63626-simple-ds-series-vol-25-the-koushounin.json](./63626-simple-ds-series-vol-25-the-koushounin.json) |
 | Simple DS Series Vol. 26: The Quiz 30,000-Mon | 203408 | [203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json](./203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json) |
@@ -11594,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slabs | 103812 | [103812-slabs.json](./103812-slabs.json) |
+| SlabWell: The Quest For Kaktun's Alpaca | 124402 | [124402-slabwell-the-quest-for-kaktuns-alpaca.json](./124402-slabwell-the-quest-for-kaktuns-alpaca.json) |
 | Slack Off Master | 309420 | [309420-slack-off-master.json](./309420-slack-off-master.json) |
 | Slackball | 392905 | [392905-slackball.json](./392905-slackball.json) |
 | Slacker Dungeon | 190904 | [190904-slacker-dungeon.json](./190904-slacker-dungeon.json) |
@@ -12864,6 +12867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Remix: Version 1.4.0 | 255787 | [255787-smash-remix-version-1-4-0.json](./255787-smash-remix-version-1-4-0.json) |
 | Smash Remix: Version 2.0.0 | 351064 | [351064-smash-remix-version-2-0-0.json](./351064-smash-remix-version-2-0-0.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
+| Smash Ringtail Cat | 124436 | [124436-smash-ringtail-cat.json](./124436-smash-ringtail-cat.json) |
 | Smash Room | 244432 | [244432-smash-room.json](./244432-smash-room.json) |
 | Smash Runner | 259164 | [259164-smash-runner.json](./259164-smash-runner.json) |
 | Smash Runner! | 223912 | [223912-smash-runner.json](./223912-smash-runner.json) |
@@ -14889,6 +14893,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Harmony | 190396 | [190396-solitaire-harmony.json](./190396-solitaire-harmony.json) |
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
+| Solitaire Jack Frost: Winter Adventures 2 | 124385 | [124385-solitaire-jack-frost-winter-adventures-2.json](./124385-solitaire-jack-frost-winter-adventures-2.json) |
+| Solitaire Jack Frost: Winter Adventures 3 | 124384 | [124384-solitaire-jack-frost-winter-adventures-3.json](./124384-solitaire-jack-frost-winter-adventures-3.json) |
 | Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
 | Solitaire Journey | 220162 | [220162-solitaire-journey.json](./220162-solitaire-journey.json) |
 | Solitaire Kingdom Supreme | 175323 | [175323-solitaire-kingdom-supreme.json](./175323-solitaire-kingdom-supreme.json) |
@@ -14897,6 +14903,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Klondike Minimal | 147646 | [147646-solitaire-klondike-minimal.json](./147646-solitaire-klondike-minimal.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Knights | 93747 | [93747-solitaire-knights.json](./93747-solitaire-knights.json) |
+| Solitaire Legend of the Pirates 2 | 124388 | [124388-solitaire-legend-of-the-pirates-2.json](./124388-solitaire-legend-of-the-pirates-2.json) |
+| Solitaire Legend of the Pirates 3 | 124387 | [124387-solitaire-legend-of-the-pirates-3.json](./124387-solitaire-legend-of-the-pirates-3.json) |
 | Solitaire Legends Collection | 53627 | [53627-solitaire-legends-collection.json](./53627-solitaire-legends-collection.json) |
 | Solitaire Legends: Sakura Dreams | 405915 | [405915-solitaire-legends-sakura-dreams.json](./405915-solitaire-legends-sakura-dreams.json) |
 | Solitaire Lounge | 25703 | [25703-solitaire-lounge.json](./25703-solitaire-lounge.json) |
@@ -27369,6 +27377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
 | Super Alloy Ranger | 200550 | [200550-super-alloy-ranger.json](./200550-super-alloy-ranger.json) |
 | Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
+| Super Alpine Racer | 124423 | [124423-super-alpine-racer.json](./124423-super-alpine-racer.json) |
 | Super Amazeballs | 29452 | [29452-super-amazeballs.json](./29452-super-amazeballs.json) |
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
 | Super Ancient Keys | 321450 | [321450-super-ancient-keys.json](./321450-super-ancient-keys.json) |
@@ -28375,6 +28384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mando | 223437 | [223437-super-mando.json](./223437-super-mando.json) |
 | Super Mano Bros: Jungle World | 320923 | [320923-super-mano-bros-jungle-world.json](./320923-super-mano-bros-jungle-world.json) |
 | Super Mansion | 72695 | [72695-super-mansion.json](./72695-super-mansion.json) |
+| Super Maou Land | 124443 | [124443-super-maou-land.json](./124443-super-maou-land.json) |
 | Super Marathon | 72986 | [72986-super-marathon.json](./72986-super-marathon.json) |
 | Super Marble Brothers | 169352 | [169352-super-marble-brothers.json](./169352-super-marble-brothers.json) |
 | Super Mari All Star - Mari Collection Games | 100809 | [100809-super-mari-all-star-mari-collection-games.json](./100809-super-mari-all-star-mari-collection-games.json) |
