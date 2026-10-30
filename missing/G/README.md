@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
 | Gang Beasts Rick And Morty 2 | 95892 | [95892-gang-beasts-rick-and-morty-2.json](./95892-gang-beasts-rick-and-morty-2.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
+| Gang District | 126776 | [126776-gang-district.json](./126776-gang-district.json) |
 | Gang Human Wrestling | 193816 | [193816-gang-human-wrestling.json](./193816-gang-human-wrestling.json) |
 | Gang Man | 279066 | [279066-gang-man.json](./279066-gang-man.json) |
 | Gang Man Shooter | 351691 | [351691-gang-man-shooter.json](./351691-gang-man-shooter.json) |
@@ -3701,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Ghouls & Guardians | 348982 | [348982-ghouls-and-guardians.json](./348982-ghouls-and-guardians.json) |
 | Ghouls Grooves and Garlic | 416354 | [416354-ghouls-grooves-and-garlic.json](./416354-ghouls-grooves-and-garlic.json) |
+| Ghouls Underground | 126800 | [126800-ghouls-underground.json](./126800-ghouls-underground.json) |
 | Ghouls vs Humans: Classic Reborn | 361501 | [361501-ghouls-vs-humans-classic-reborn.json](./361501-ghouls-vs-humans-classic-reborn.json) |
 | GhoulScrapers | 316008 | [316008-ghoulscrapers.json](./316008-ghoulscrapers.json) |
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
