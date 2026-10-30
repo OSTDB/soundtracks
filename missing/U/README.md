@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
 | Urplace | 177212 | [177212-urplace.json](./177212-urplace.json) |
 | Urquel, the black dragon | 182722 | [182722-urquel-the-black-dragon.json](./182722-urquel-the-black-dragon.json) |
+| Ursa | 150381 | [150381-ursa.json](./150381-ursa.json) |
 | Ursid | 367572 | [367572-ursid.json](./367572-ursid.json) |
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urthwurm | 100045 | [100045-urthwurm.json](./100045-urthwurm.json) |
