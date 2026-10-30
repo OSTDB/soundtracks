@@ -6399,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Arcade | 109542 | [109542-pineapple-arcade.json](./109542-pineapple-arcade.json) |
 | Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
 | Pineapple Heroes | 56875 | [56875-pineapple-heroes.json](./56875-pineapple-heroes.json) |
+| Pineapple Island | 157858 | [157858-pineapple-island.json](./157858-pineapple-island.json) |
 | Pineapple on Pizza | 240496 | [240496-pineapple-on-pizza.json](./240496-pineapple-on-pizza.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Pen | 87169 | [87169-pineapple-pen.json](./87169-pineapple-pen.json) |
@@ -9296,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pack: Strategy Games | 84719 | [84719-pocket-pack-strategy-games.json](./84719-pocket-pack-strategy-games.json) |
 | Pocket Pack: Words & Numbers | 85346 | [85346-pocket-pack-words-and-numbers.json](./85346-pocket-pack-words-and-numbers.json) |
 | Pocket Pandas | 114730 | [114730-pocket-pandas.json](./114730-pocket-pandas.json) |
+| Pocket Penguin: A Game Boy Style Adventure | 157831 | [157831-pocket-penguin-a-game-boy-style-adventure.json](./157831-pocket-penguin-a-game-boy-style-adventure.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
 | Pocket Ping Pong 2005 | 77092 | [77092-pocket-ping-pong-2005.json](./77092-pocket-ping-pong-2005.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
@@ -13302,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisonfall | 237203 | [237203-prisonfall.json](./237203-prisonfall.json) |
 | Prisonnier II | 143437 | [143437-prisonnier-ii.json](./143437-prisonnier-ii.json) |
 | Prisonscape | 61560 | [61560-prisonscape.json](./61560-prisonscape.json) |
+| PrisonShow | 157827 | [157827-prisonshow.json](./157827-prisonshow.json) |
 | PrisonSoul: Reunion | 296456 | [296456-prisonsoul-reunion.json](./296456-prisonsoul-reunion.json) |
 | Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
 | Pristine world | 32978 | [32978-pristine-world.json](./32978-pristine-world.json) |
