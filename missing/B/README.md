@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2363,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barely Intersex | 419616 | [419616-barely-intersex.json](./419616-barely-intersex.json) |
+| Barely Racing | 149170 | [149170-barely-racing.json](./149170-barely-racing.json) |
 | Barely Working | 254015 | [254015-barely-working.json](./254015-barely-working.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Barf and Beer | 92615 | [92615-barf-and-beer.json](./92615-barf-and-beer.json) |
