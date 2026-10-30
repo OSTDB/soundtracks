@@ -10719,6 +10719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Knight Legend | 223333 | [223333-fright-knight-legend.json](./223333-fright-knight-legend.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
+| Fright Night Sex Fest | 169574 | [169574-fright-night-sex-fest.json](./169574-fright-night-sex-fest.json) |
 | Fright Train | 376511 | [376511-fright-train.json](./376511-fright-train.json) |
 | FrightDiary | 368818 | [368818-frightdiary.json](./368818-frightdiary.json) |
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
@@ -12136,6 +12137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Femboys: Fantasy | 290798 | [290798-furry-femboys-fantasy.json](./290798-furry-femboys-fantasy.json) |
 | Furry Femmes: Making an Obedient Bitch | 235659 | [235659-furry-femmes-making-an-obedient-bitch.json](./235659-furry-femmes-making-an-obedient-bitch.json) |
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
+| Furry Finder: Dating Visual Novel | 169579 | [169579-furry-finder-dating-visual-novel.json](./169579-furry-finder-dating-visual-novel.json) |
 | Furry from Outer Space | 310485 | [310485-furry-from-outer-space.json](./310485-furry-from-outer-space.json) |
 | Furry Furries | 244386 | [244386-furry-furries.json](./244386-furry-furries.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
