@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 19: Anderson Group | 116015 | [116015-farming-simulator-19-anderson-group.json](./116015-farming-simulator-19-anderson-group.json) |
 | Farming Simulator 19: Anderson Group Equipment Pack | 166098 | [166098-farming-simulator-19-anderson-group-equipment-pack.json](./166098-farming-simulator-19-anderson-group-equipment-pack.json) |
 | Farming Simulator 19: Bourgault DLC | 166099 | [166099-farming-simulator-19-bourgault-dlc.json](./166099-farming-simulator-19-bourgault-dlc.json) |
+| Farming Simulator 19: Collector's Edition | 136038 | [136038-farming-simulator-19-collectors-edition.json](./136038-farming-simulator-19-collectors-edition.json) |
 | Farming Simulator 19: Day One Edition | 136148 | [136148-farming-simulator-19-day-one-edition.json](./136148-farming-simulator-19-day-one-edition.json) |
 | Farming Simulator 19: Grimme Equipment Pack | 166101 | [166101-farming-simulator-19-grimme-equipment-pack.json](./166101-farming-simulator-19-grimme-equipment-pack.json) |
 | Farming Simulator 19: Holmer Terra Variant DLC | 166100 | [166100-farming-simulator-19-holmer-terra-variant-dlc.json](./166100-farming-simulator-19-holmer-terra-variant-dlc.json) |
@@ -3596,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernbus Coach Simulator: Map Poland | 332014 | [332014-fernbus-coach-simulator-map-poland.json](./332014-fernbus-coach-simulator-map-poland.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
 | Fernbus Simulator: Interlink HD | 311109 | [311109-fernbus-simulator-interlink-hd.json](./311109-fernbus-simulator-interlink-hd.json) |
+| Fernbus Simulator: Platinum Edition | 136081 | [136081-fernbus-simulator-platinum-edition.json](./136081-fernbus-simulator-platinum-edition.json) |
 | Fernbus Simulator: Top Class DD | 197492 | [197492-fernbus-simulator-top-class-dd.json](./197492-fernbus-simulator-top-class-dd.json) |
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
@@ -3908,7 +3910,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 2001: Major League Soccer | 240243 | [240243-fifa-2001-major-league-soccer.json](./240243-fifa-2001-major-league-soccer.json) |
 | FIFA 2001: Major League Soccer | 698 | [698-fifa-2001-major-league-soccer.json](./698-fifa-2001-major-league-soccer.json) |
 | FIFA 21 | 134101 | [134101-fifa-21.json](./134101-fifa-21.json) |
+| FIFA 21: Champions Edition | 136062 | [136062-fifa-21-champions-edition.json](./136062-fifa-21-champions-edition.json) |
 | FIFA 21: Legacy Edition | 136335 | [136335-fifa-21-legacy-edition.json](./136335-fifa-21-legacy-edition.json) |
+| FIFA 21: Ultimate Edition | 136056 | [136056-fifa-21-ultimate-edition.json](./136056-fifa-21-ultimate-edition.json) |
 | FIFA 22 | 154986 | [154986-fifa-22.json](./154986-fifa-22.json) |
 | FIFA 22 | 240455 | [240455-fifa-22.json](./240455-fifa-22.json) |
 | FIFA 22: Legacy Edition | 155102 | [155102-fifa-22-legacy-edition.json](./155102-fifa-22-legacy-edition.json) |
@@ -11699,6 +11703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuji-yama Daibakuhatsu | 345632 | [345632-fuji-yama-daibakuhatsu.json](./345632-fuji-yama-daibakuhatsu.json) |
 | FuJianStrike | 391014 | [391014-fujianstrike.json](./391014-fujianstrike.json) |
 | Fujii | 118161 | [118161-fujii.json](./118161-fujii.json) |
+| Fujiwara BitterSweet | 136030 | [136030-fujiwara-bittersweet.json](./136030-fujiwara-bittersweet.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
 | Fujyoshi | 97665 | [97665-fujyoshi.json](./97665-fujyoshi.json) |
 | Fukakutei Sekai no Tantei Shinshi | 122877 | [122877-fukakutei-sekai-no-tantei-shinshi.json](./122877-fukakutei-sekai-no-tantei-shinshi.json) |
