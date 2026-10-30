@@ -5864,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing for Numbers | 374417 | [374417-fishing-for-numbers.json](./374417-fishing-for-numbers.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
+| Fishing Frenzy | 173437 | [173437-fishing-frenzy.json](./173437-fishing-frenzy.json) |
 | Fishing Game | 213550 | [213550-fishing-game.json](./213550-fishing-game.json) |
 | Fishing Girl | 67078 | [67078-fishing-girl.json](./67078-fishing-girl.json) |
 | Fishing Grind | 319285 | [319285-fishing-grind.json](./319285-fishing-grind.json) |
@@ -12471,6 +12472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fúyǔ Lù | 82042 | [82042-fuyu-lu.json](./82042-fuyu-lu.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
+| Fuyu no Tsuma | 173438 | [173438-fuyu-no-tsuma.json](./173438-fuyu-no-tsuma.json) |
 | Fuyu Uso: Snow World End | 379634 | [379634-fuyu-uso-snow-world-end.json](./379634-fuyu-uso-snow-world-end.json) |
 | Fuyuiro no Muffler | 97742 | [97742-fuyuiro-no-muffler.json](./97742-fuyuiro-no-muffler.json) |
 | Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
