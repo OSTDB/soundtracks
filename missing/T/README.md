@@ -4494,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetromino Chill | 186197 | [186197-tetromino-chill.json](./186197-tetromino-chill.json) |
 | Tetromino Colormix | 185306 | [185306-tetromino-colormix.json](./185306-tetromino-colormix.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
+| Tetrominos AR | 175541 | [175541-tetrominos-ar.json](./175541-tetrominos-ar.json) |
 | TetroMosaic, Happy Halloweeen | 375411 | [375411-tetromosaic-happy-halloweeen.json](./375411-tetromosaic-happy-halloweeen.json) |
 | TetroMosaic, Racy: Automata | 362192 | [362192-tetromosaic-racy-automata.json](./362192-tetromosaic-racy-automata.json) |
 | TetroMosaic, Unicorn | 378785 | [378785-tetromosaic-unicorn.json](./378785-tetromosaic-unicorn.json) |
@@ -5303,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ark of Horizon | 117162 | [117162-the-ark-of-horizon.json](./117162-the-ark-of-horizon.json) |
 | The Arkane Collection | 331402 | [331402-the-arkane-collection.json](./331402-the-arkane-collection.json) |
 | The Arm Wrestling Classic | 214525 | [214525-the-arm-wrestling-classic.json](./214525-the-arm-wrestling-classic.json) |
+| The Armada SpaceShip Combat Fleet is Here! Help the Armada Fleet to Landing! | 175536 | [175536-the-armada-spaceship-combat-fleet-is-here-help-the-armada-fleet-to-landing.json](./175536-the-armada-spaceship-combat-fleet-is-here-help-the-armada-fleet-to-landing.json) |
 | The Armament Project | 63727 | [63727-the-armament-project.json](./63727-the-armament-project.json) |
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Armclaw Experiment | 99166 | [99166-the-armclaw-experiment.json](./99166-the-armclaw-experiment.json) |
@@ -8118,6 +8120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The F.A. Premier League Football Manager 2001 | 66505 | [66505-the-f-a-premier-league-football-manager-2001.json](./66505-the-f-a-premier-league-football-manager-2001.json) |
 | The F.A. Premier League Manager 2002 | 62041 | [62041-the-f-a-premier-league-manager-2002.json](./62041-the-f-a-premier-league-manager-2002.json) |
 | The F.A. Premier League Stars | 43790 | [43790-the-f-a-premier-league-stars.json](./43790-the-f-a-premier-league-stars.json) |
+| The Fab-Phonics 'Up, Up and Away' | 175546 | [175546-the-fab-phonics-up-up-and-away.json](./175546-the-fab-phonics-up-up-and-away.json) |
 | The Fable of a Rabbit | 156980 | [156980-the-fable-of-a-rabbit.json](./156980-the-fable-of-a-rabbit.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
 | The Fable of Ruby | 38498 | [38498-the-fable-of-ruby.json](./38498-the-fable-of-ruby.json) |
@@ -8470,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
 | The First Step | 215745 | [215745-the-first-step.json](./215745-the-first-step.json) |
 | The First Stitch | 71176 | [71176-the-first-stitch.json](./71176-the-first-stitch.json) |
+| The First Tactics | 175538 | [175538-the-first-tactics.json](./175538-the-first-tactics.json) |
 | The First Templar | 6994 | [6994-the-first-templar.json](./6994-the-first-templar.json) |
 | The First Templar: Special Edition | 154539 | [154539-the-first-templar-special-edition.json](./154539-the-first-templar-special-edition.json) |
 | The First Thing You Do When You Become A Girl | 97827 | [97827-the-first-thing-you-do-when-you-become-a-girl.json](./97827-the-first-thing-you-do-when-you-become-a-girl.json) |
@@ -17739,6 +17743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Things.smc | 269696 | [269696-things-smc.json](./269696-things-smc.json) |
 | Things.smc 2: Booni's Island.smc | 269701 | [269701-things-smc-2-boonis-island-smc.json](./269701-things-smc-2-boonis-island-smc.json) |
 | Think | 100765 | [100765-think.json](./100765-think.json) |
+| Think | 175547 | [175547-think.json](./175547-think.json) |
 | Think a Little | 289182 | [289182-think-a-little.json](./289182-think-a-little.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
@@ -18359,6 +18364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
 | Thumbling | 289947 | [289947-thumbling.json](./289947-thumbling.json) |
 | Thumper | 10960 | [10960-thumper.json](./10960-thumper.json) |
+| Thumper: Pocket Edition+ | 175552 | [175552-thumper-pocket-edition.json](./175552-thumper-pocket-edition.json) |
 | Thumpies | 66730 | [66730-thumpies.json](./66730-thumpies.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
 | Thunder | 249655 | [249655-thunder.json](./249655-thunder.json) |
@@ -27192,6 +27198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
 | Triangle Mania | 118082 | [118082-triangle-mania.json](./118082-triangle-mania.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
+| Triangle Shooter: The Invaders | 175544 | [175544-triangle-shooter-the-invaders.json](./175544-triangle-shooter-the-invaders.json) |
 | Triangle Strategy | 143610 | [143610-triangle-strategy.json](./143610-triangle-strategy.json) |
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Triangle Strategy: Tacticians's Limited Edition | 203811 | [203811-triangle-strategy-tacticianss-limited-edition.json](./203811-triangle-strategy-tacticianss-limited-edition.json) |
@@ -27334,6 +27341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Tracks 2010 | 249710 | [249710-tricky-tracks-2010.json](./249710-tricky-tracks-2010.json) |
 | Tricky Trail RC | 30667 | [30667-tricky-trail-rc.json](./30667-tricky-trail-rc.json) |
 | Tricky Treat | 277716 | [277716-tricky-treat.json](./277716-tricky-treat.json) |
+| Tricky Tringle | 175524 | [175524-tricky-tringle.json](./175524-tricky-tringle.json) |
 | Tricky Truck | 20183 | [20183-tricky-truck.json](./20183-tricky-truck.json) |
 | Tricky Truck | 22651 | [22651-tricky-truck.json](./22651-tricky-truck.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
@@ -28721,6 +28729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Balls | 347208 | [347208-turbo-balls.json](./347208-turbo-balls.json) |
 | Turbo Battle Tanks | 184871 | [184871-turbo-battle-tanks.json](./184871-turbo-battle-tanks.json) |
+| Turbo Bike Race | 175507 | [175507-turbo-bike-race.json](./175507-turbo-bike-race.json) |
 | Turbo Boom! | 129625 | [129625-turbo-boom.json](./129625-turbo-boom.json) |
 | Turbo Boost Racing | 317554 | [317554-turbo-boost-racing.json](./317554-turbo-boost-racing.json) |
 | Turbo Booster | 265653 | [265653-turbo-booster.json](./265653-turbo-booster.json) |
