@@ -1311,9 +1311,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War | 76410 | [76410-warhammer-40-000-gladius-relics-of-war.json](./76410-warhammer-40-000-gladius-relics-of-war.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
+| Warhammer 40,000: Gladius - Relics of War: Assault Pack | 153086 | [153086-warhammer-40-000-gladius-relics-of-war-assault-pack.json](./153086-warhammer-40-000-gladius-relics-of-war-assault-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Craftworld Aeldari | 148965 | [148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json](./148965-warhammer-40-000-gladius-relics-of-war-craftworld-aeldari.json) |
 | Warhammer 40,000: Gladius - Relics of War: Escalation Pack | 223542 | [223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json](./223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Firepower Pack | 250912 | [250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json](./250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json) |
+| Warhammer 40,000: Gladius - Relics of War: Fortification Pack | 153084 | [153084-warhammer-40-000-gladius-relics-of-war-fortification-pack.json](./153084-warhammer-40-000-gladius-relics-of-war-fortification-pack.json) |
+| Warhammer 40,000: Gladius - Relics of War: Reinforcement Pack | 153085 | [153085-warhammer-40-000-gladius-relics-of-war-reinforcement-pack.json](./153085-warhammer-40-000-gladius-relics-of-war-reinforcement-pack.json) |
+| Warhammer 40,000: Gladius - Relics of War: Specialist Pack | 153083 | [153083-warhammer-40-000-gladius-relics-of-war-specialist-pack.json](./153083-warhammer-40-000-gladius-relics-of-war-specialist-pack.json) |
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
@@ -6899,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
 | Wordland | 150404 | [150404-wordland.json](./150404-wordland.json) |
 | Wordland 2 | 151265 | [151265-wordland-2.json](./151265-wordland-2.json) |
+| Wordland 3 | 153072 | [153072-wordland-3.json](./153072-wordland-3.json) |
 | Wordland: Let's Travel | 204928 | [204928-wordland-lets-travel.json](./204928-wordland-lets-travel.json) |
 | Wordlase | 28429 | [28429-wordlase.json](./28429-wordlase.json) |
 | Wordle | 265847 | [265847-wordle.json](./265847-wordle.json) |
