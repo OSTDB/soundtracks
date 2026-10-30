@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-O-X | 290312 | [290312-p-o-x.json](./290312-p-o-x.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P-Walker's Simulation | 36820 | [36820-p-walkers-simulation.json](./36820-p-walkers-simulation.json) |
+| P.A.I.N.T. | 161522 | [161522-p-a-i-n-t.json](./161522-p-a-i-n-t.json) |
 | P.A.M.E.L.A. | 9216 | [9216-p-a-m-e-l-a.json](./9216-p-a-m-e-l-a.json) |
 | P.A.M.U | 184808 | [184808-p-a-m-u.json](./184808-p-a-m-u.json) |
 | P.A.S. | 105431 | [105431-p-a-s.json](./105431-p-a-s.json) |
@@ -7183,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel Fixel | 289020 | [289020-pixel-fixel.json](./289020-pixel-fixel.json) |
+| Pixel Fixer | 161556 | [161556-pixel-fixer.json](./161556-pixel-fixer.json) |
 | Pixel Flip | 336703 | [336703-pixel-flip.json](./336703-pixel-flip.json) |
 | Pixel Flow! | 418252 | [418252-pixel-flow.json](./418252-pixel-flow.json) |
 | Pixel Fodder | 34858 | [34858-pixel-fodder.json](./34858-pixel-fodder.json) |
