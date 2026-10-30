@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Superstars 2011 | 66207 | [66207-baseball-superstars-2011.json](./66207-baseball-superstars-2011.json) |
 | Baseball Superstars 2012 | 38707 | [38707-baseball-superstars-2012.json](./38707-baseball-superstars-2012.json) |
 | Baseball Superstars 2013 | 38708 | [38708-baseball-superstars-2013.json](./38708-baseball-superstars-2013.json) |
+| Baseball Superstars 2020 | 138391 | [138391-baseball-superstars-2020.json](./138391-baseball-superstars-2020.json) |
 | Baseball Superstars 2023 | 250168 | [250168-baseball-superstars-2023.json](./250168-baseball-superstars-2023.json) |
 | Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
 | Baseball Trivia | 89633 | [89633-baseball-trivia.json](./89633-baseball-trivia.json) |
@@ -8837,6 +8839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
 | Blau | 402453 | [402453-blau.json](./402453-blau.json) |
 | Blautopf VR: Geheimnis der Lau | 119772 | [119772-blautopf-vr-geheimnis-der-lau.json](./119772-blautopf-vr-geheimnis-der-lau.json) |
+| Blaynix | 138431 | [138431-blaynix.json](./138431-blaynix.json) |
 | BlayzBloo: Super Melee Brawlers Battle Royale | 67246 | [67246-blayzbloo-super-melee-brawlers-battle-royale.json](./67246-blayzbloo-super-melee-brawlers-battle-royale.json) |
 | BlazBlue (Tentative Title) | 86364 | [86364-blazblue-tentative-title.json](./86364-blazblue-tentative-title.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
@@ -9867,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Nova | 190322 | [190322-blood-nova.json](./190322-blood-nova.json) |
 | Blood Oath | 350061 | [350061-blood-oath.json](./350061-blood-oath.json) |
 | Blood Oath | 64716 | [64716-blood-oath.json](./64716-blood-oath.json) |
+| Blood Oath: When the Sword Rises | 138409 | [138409-blood-oath-when-the-sword-rises.json](./138409-blood-oath-when-the-sword-rises.json) |
 | Blood of a Demon | 387703 | [387703-blood-of-a-demon.json](./387703-blood-of-a-demon.json) |
 | Blood of Bahamut | 70641 | [70641-blood-of-bahamut.json](./70641-blood-of-bahamut.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
@@ -10103,6 +10107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwatch | 211121 | [211121-bloodwatch.json](./211121-bloodwatch.json) |
+| Bloodway Infinity | 138394 | [138394-bloodway-infinity.json](./138394-bloodway-infinity.json) |
 | Bloodwheels | 41166 | [41166-bloodwheels.json](./41166-bloodwheels.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
 | Bloodwolf | 142899 | [142899-bloodwolf.json](./142899-bloodwolf.json) |
@@ -13666,6 +13671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | Breakout: Recharged | 187471 | [187471-breakout-recharged.json](./187471-breakout-recharged.json) |
 | Breakout! | 356542 | [356542-breakout.json](./356542-breakout.json) |
+| Breakpoint | 139006 | [139006-breakpoint.json](./139006-breakpoint.json) |
 | Breakpoint | 358640 | [358640-breakpoint.json](./358640-breakpoint.json) |
 | Breakpoint: Viper Squad | 340868 | [340868-breakpoint-viper-squad.json](./340868-breakpoint-viper-squad.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
