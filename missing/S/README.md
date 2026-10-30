@@ -8943,6 +8943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege! | 28494 | [28494-siege.json](./28494-siege.json) |
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
 | Siegecaster | 331169 | [331169-siegecaster.json](./331169-siegecaster.json) |
+| Siegecraft Defender | 175525 | [175525-siegecraft-defender.json](./175525-siegecraft-defender.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
 | Siegeturtle | 364242 | [364242-siegeturtle.json](./364242-siegeturtle.json) |
@@ -20846,6 +20847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacklands 2000 | 298028 | [298028-stacklands-2000.json](./298028-stacklands-2000.json) |
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
 | Stackmancy | 340000 | [340000-stackmancy.json](./340000-stackmancy.json) |
+| StackMatch 2: Treasure Hunter | 175513 | [175513-stackmatch-2-treasure-hunter.json](./175513-stackmatch-2-treasure-hunter.json) |
 | Stackmon | 389118 | [389118-stackmon.json](./389118-stackmon.json) |
 | Stackoban | 184351 | [184351-stackoban.json](./184351-stackoban.json) |
 | Stackopolis | 276778 | [276778-stackopolis.json](./276778-stackopolis.json) |
