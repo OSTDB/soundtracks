@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
 | Farmer Simulator 17 : New Harvest | 96557 | [96557-farmer-simulator-17-new-harvest.json](./96557-farmer-simulator-17-new-harvest.json) |
 | Farmer Simulator Evolution | 288161 | [288161-farmer-simulator-evolution.json](./288161-farmer-simulator-evolution.json) |
+| Farmer Supreme | 140814 | [140814-farmer-supreme.json](./140814-farmer-supreme.json) |
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
 | Farmer Toon | 197005 | [197005-farmer-toon.json](./197005-farmer-toon.json) |
@@ -6302,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
 | Five Nights at Freddy's: Blood & Gears | 331177 | [331177-five-nights-at-freddys-blood-and-gears.json](./331177-five-nights-at-freddys-blood-and-gears.json) |
+| Five Nights at Freddy's: Core Collection | 140169 | [140169-five-nights-at-freddys-core-collection.json](./140169-five-nights-at-freddys-core-collection.json) |
 | Five Nights At Freddy's: Guard Vs Guard | 176667 | [176667-five-nights-at-freddys-guard-vs-guard.json](./176667-five-nights-at-freddys-guard-vs-guard.json) |
 | Five Nights at Freddy's: Help Wanted | 241473 | [241473-five-nights-at-freddys-help-wanted.json](./241473-five-nights-at-freddys-help-wanted.json) |
 | Five Nights at Freddy's: Help Wanted - Bundle | 240281 | [240281-five-nights-at-freddys-help-wanted-bundle.json](./240281-five-nights-at-freddys-help-wanted-bundle.json) |
@@ -7135,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipo: Gravity Adventure | 233456 | [233456-flipo-gravity-adventure.json](./233456-flipo-gravity-adventure.json) |
 | Flipol | 167596 | [167596-flipol.json](./167596-flipol.json) |
 | Flipominos | 58467 | [58467-flipominos.json](./58467-flipominos.json) |
+| Flipon | 140170 | [140170-flipon.json](./140170-flipon.json) |
 | FlipOut! | 2622 | [2622-flipout.json](./2622-flipout.json) |
 | Flippant | 407855 | [407855-flippant.json](./407855-flippant.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
@@ -9782,6 +9785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Den Remake | 222653 | [222653-fox-den-remake.json](./222653-fox-den-remake.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
+| Fox face kills! | 139592 | [139592-fox-face-kills.json](./139592-fox-face-kills.json) |
 | Fox Flare Night | 361674 | [361674-fox-flare-night.json](./361674-fox-flare-night.json) |
 | Fox Game | 278889 | [278889-fox-game.json](./278889-fox-game.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
@@ -9823,6 +9827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxCode | 300451 | [300451-foxcode.json](./300451-foxcode.json) |
 | Foxcrate | 266978 | [266978-foxcrate.json](./266978-foxcrate.json) |
 | Foxcrate | 383928 | [383928-foxcrate.json](./383928-foxcrate.json) |
+| Foxen Island | 140797 | [140797-foxen-island.json](./140797-foxen-island.json) |
 | Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
 | Foxes Need to Eat | 265864 | [265864-foxes-need-to-eat.json](./265864-foxes-need-to-eat.json) |
 | Foxes' Festival | 325909 | [325909-foxes-festival.json](./325909-foxes-festival.json) |
@@ -10080,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame of Reference | 119594 | [119594-frame-of-reference.json](./119594-frame-of-reference.json) |
 | Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
 | Frame Out | 98051 | [98051-frame-out.json](./98051-frame-out.json) |
+| Frame Outsiders | 139618 | [139618-frame-outsiders.json](./139618-frame-outsiders.json) |
 | Frame Sense Trainer | 367377 | [367377-frame-sense-trainer.json](./367377-frame-sense-trainer.json) |
 | Frame Zero | 372090 | [372090-frame-zero.json](./372090-frame-zero.json) |
 | Frame: Portals on Steroids | 203311 | [203311-frame-portals-on-steroids.json](./203311-frame-portals-on-steroids.json) |
