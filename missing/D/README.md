@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daley Thompson's Super-Test | 13565 | [13565-daley-thompsons-super-test.json](./13565-daley-thompsons-super-test.json) |
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
 | Dalig the Ghost Killer | 415795 | [415795-dalig-the-ghost-killer.json](./415795-dalig-the-ghost-killer.json) |
+| Dallen Clicker Ultimate | 149768 | [149768-dallen-clicker-ultimate.json](./149768-dallen-clicker-ultimate.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
 | Dalmatians 2 | 44846 | [44846-dalmatians-2.json](./44846-dalmatians-2.json) |
 | Dalmatians 3 | 43473 | [43473-dalmatians-3.json](./43473-dalmatians-3.json) |
@@ -4516,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckmate! | 249005 | [249005-deckmate.json](./249005-deckmate.json) |
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
 | Deckrypt | 416590 | [416590-deckrypt.json](./416590-deckrypt.json) |
+| Decks & Daggers | 149809 | [149809-decks-and-daggers.json](./149809-decks-and-daggers.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
 | Decks Against Destiny | 215543 | [215543-decks-against-destiny.json](./215543-decks-against-destiny.json) |
 | Decks of Power | 235842 | [235842-decks-of-power.json](./235842-decks-of-power.json) |
@@ -5265,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeIz | 236805 | [236805-deiz.json](./236805-deiz.json) |
 | Déjà Boom | 364657 | [364657-deja-boom.json](./364657-deja-boom.json) |
 | Deja View: A Spot the Difference Game | 344290 | [344290-deja-view-a-spot-the-difference-game.json](./344290-deja-view-a-spot-the-difference-game.json) |
+| Deja Vu | 149779 | [149779-deja-vu.json](./149779-deja-vu.json) |
 | Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
 | Déjà Vu | 193653 | [193653-deja-vu.json](./193653-deja-vu.json) |
 | Deja Vu 2: Lost in Las Vegas!! | 12418 | [12418-deja-vu-2-lost-in-las-vegas.json](./12418-deja-vu-2-lost-in-las-vegas.json) |
@@ -14707,6 +14710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
 | Drift Legends 2 | 266258 | [266258-drift-legends-2.json](./266258-drift-legends-2.json) |
+| Drift Long Racing | 149783 | [149783-drift-long-racing.json](./149783-drift-long-racing.json) |
 | Drift Long Racing: CyberCity | 247335 | [247335-drift-long-racing-cybercity.json](./247335-drift-long-racing-cybercity.json) |
 | Drift Long Racing: JapaneseCity | 247338 | [247338-drift-long-racing-japanesecity.json](./247338-drift-long-racing-japanesecity.json) |
 | Drift Long Racing: JapaneseNightCity | 247336 | [247336-drift-long-racing-japanesenightcity.json](./247336-drift-long-racing-japanesenightcity.json) |
