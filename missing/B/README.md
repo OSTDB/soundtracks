@@ -3162,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Athletess Daiundoukai | 45419 | [45419-battle-athletess-daiundoukai.json](./45419-battle-athletess-daiundoukai.json) |
 | Battle Axe | 141511 | [141511-battle-axe.json](./141511-battle-axe.json) |
 | Battle Axe & Final Vendetta Bundle | 311110 | [311110-battle-axe-and-final-vendetta-bundle.json](./311110-battle-axe-and-final-vendetta-bundle.json) |
+| Battle Axe: Badge Edition | 143285 | [143285-battle-axe-badge-edition.json](./143285-battle-axe-badge-edition.json) |
 | Battle B-Daman | 49365 | [49365-battle-b-daman.json](./49365-battle-b-daman.json) |
 | Battle B-Daman: Fire Spirits! | 49364 | [49364-battle-b-daman-fire-spirits.json](./49364-battle-b-daman-fire-spirits.json) |
 | Battle Babes | 294016 | [294016-battle-babes.json](./294016-battle-babes.json) |
@@ -7880,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitterheim | 201959 | [201959-bitterheim.json](./201959-bitterheim.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
 | Bittersweet | 133953 | [133953-bittersweet.json](./133953-bittersweet.json) |
+| Bittersweet Birthday | 143255 | [143255-bittersweet-birthday.json](./143255-bittersweet-birthday.json) |
 | Bittersweet Blossoms | 346214 | [346214-bittersweet-blossoms.json](./346214-bittersweet-blossoms.json) |
 | BitterSweet Detectives' Tea Party | 256111 | [256111-bittersweet-detectives-tea-party.json](./256111-bittersweet-detectives-tea-party.json) |
 | Bittersweet Dream | 229672 | [229672-bittersweet-dream.json](./229672-bittersweet-dream.json) |
