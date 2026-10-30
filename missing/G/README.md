@@ -5444,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
 | Godo | 169812 | [169812-godo.json](./169812-godo.json) |
 | Gododo | 148902 | [148902-gododo.json](./148902-gododo.json) |
+| GodOrEvil.1 | 129368 | [129368-godorevil-1.json](./129368-godorevil-1.json) |
 | Godot Kart | 142917 | [142917-godot-kart.json](./142917-godot-kart.json) |
 | GodPey | 84328 | [84328-godpey.json](./84328-godpey.json) |
 | Godproof | 357429 | [357429-godproof.json](./357429-godproof.json) |
