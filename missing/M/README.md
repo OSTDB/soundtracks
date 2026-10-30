@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madora | 333340 | [333340-madora.json](./333340-madora.json) |
 | Madorica Real Estate 2 | 225483 | [225483-madorica-real-estate-2.json](./225483-madorica-real-estate-2.json) |
 | Madoris R | 147748 | [147748-madoris-r.json](./147748-madoris-r.json) |
+| Madoro-Mu | 166436 | [166436-madoro-mu.json](./166436-madoro-mu.json) |
 | Madoromi Travel | 289225 | [289225-madoromi-travel.json](./289225-madoromi-travel.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
 | Madotsuki's Story | 229260 | [229260-madotsukis-story.json](./229260-madotsukis-story.json) |
@@ -13024,6 +13025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | Modyssey | 323234 | [323234-modyssey.json](./323234-modyssey.json) |
 | Moe | 113853 | [113853-moe.json](./113853-moe.json) |
+| Moe Can Change: Me & MyRoid | 166442 | [166442-moe-can-change-me-and-myroid.json](./166442-moe-can-change-me-and-myroid.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
 | Moe Era | 123931 | [123931-moe-era.json](./123931-moe-era.json) |
 | Moe Girl | 188426 | [188426-moe-girl.json](./188426-moe-girl.json) |
@@ -14282,6 +14284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Scout | 284840 | [284840-monster-scout.json](./284840-monster-scout.json) |
 | Monster Seek | 168219 | [168219-monster-seek.json](./168219-monster-seek.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
+| Monster Shooter | 166418 | [166418-monster-shooter.json](./166418-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
 | Monster Shooter: The Lost Levels | 89807 | [89807-monster-shooter-the-lost-levels.json](./89807-monster-shooter-the-lost-levels.json) |
 | Monster Shop Simulator | 406858 | [406858-monster-shop-simulator.json](./406858-monster-shop-simulator.json) |
@@ -17606,6 +17609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muv-Luv: Tactics Kalidasa at Nightmare | 407990 | [407990-muv-luv-tactics-kalidasa-at-nightmare.json](./407990-muv-luv-tactics-kalidasa-at-nightmare.json) |
 | Muyagangho | 224405 | [224405-muyagangho.json](./224405-muyagangho.json) |
+| Muyuu | 166437 | [166437-muyuu.json](./166437-muyuu.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzzle Flash | 62073 | [62073-muzzle-flash.json](./62073-muzzle-flash.json) |
 | Muzzle Run | 247304 | [247304-muzzle-run.json](./247304-muzzle-run.json) |
@@ -17736,6 +17740,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP: The Official Motocross Videogame Compact | 36113 | [36113-mxgp-the-official-motocross-videogame-compact.json](./36113-mxgp-the-official-motocross-videogame-compact.json) |
 | MXGP2: The Official Motocross Videogame | 20391 | [20391-mxgp2-the-official-motocross-videogame.json](./20391-mxgp2-the-official-motocross-videogame.json) |
 | MXGP2: The Official Motocross Videogame - Day One Edition | 89839 | [89839-mxgp2-the-official-motocross-videogame-day-one-edition.json](./89839-mxgp2-the-official-motocross-videogame-day-one-edition.json) |
+| MXGP3: The Official Motocross Videogame - Additional Tracks | 166429 | [166429-mxgp3-the-official-motocross-videogame-additional-tracks.json](./166429-mxgp3-the-official-motocross-videogame-additional-tracks.json) |
+| MXGP3: The Official Motocross Videogame - Monster Energy SMX Riders Cup | 166430 | [166430-mxgp3-the-official-motocross-videogame-monster-energy-smx-riders-cup.json](./166430-mxgp3-the-official-motocross-videogame-monster-energy-smx-riders-cup.json) |
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
 | My 1/6 Lover | 111404 | [111404-my-1-6-lover.json](./111404-my-1-6-lover.json) |
 | My 11 Heroes | 234508 | [234508-my-11-heroes.json](./234508-my-11-heroes.json) |
