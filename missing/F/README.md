@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Outlet Simulator | 301945 | [301945-factory-outlet-simulator.json](./301945-factory-outlet-simulator.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | Factory Planner | 349645 | [349645-factory-planner.json](./349645-factory-planner.json) |
+| Factory Rally Madness | 131763 | [131763-factory-rally-madness.json](./131763-factory-rally-madness.json) |
 | Factory Simulator: Clothing & Outlet | 326435 | [326435-factory-simulator-clothing-and-outlet.json](./326435-factory-simulator-clothing-and-outlet.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Tower | 293011 | [293011-factory-tower.json](./293011-factory-tower.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmscapes | 50452 | [50452-farmscapes.json](./50452-farmscapes.json) |
 | Farmside | 239457 | [239457-farmside.json](./239457-farmside.json) |
 | Farmstead Story | 180933 | [180933-farmstead-story.json](./180933-farmstead-story.json) |
+| Farmtale | 131747 | [131747-farmtale.json](./131747-farmtale.json) |
 | Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
 | FarmTD | 332376 | [332376-farmtd.json](./332376-farmtd.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
@@ -3432,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felbound | 295826 | [295826-felbound.json](./295826-felbound.json) |
 | Felicat’s Urban Odyssey | 253958 | [253958-felicat-s-urban-odyssey.json](./253958-felicat-s-urban-odyssey.json) |
 | Felicity's Door | 381104 | [381104-felicitys-door.json](./381104-felicitys-door.json) |
+| Feline | 131798 | [131798-feline.json](./131798-feline.json) |
 | Feline | 171559 | [171559-feline.json](./171559-feline.json) |
 | Feline Fever Dream | 416641 | [416641-feline-fever-dream.json](./416641-feline-fever-dream.json) |
 | Feline Forensics and the Meowseum Mystery | 299368 | [299368-feline-forensics-and-the-meowseum-mystery.json](./299368-feline-forensics-and-the-meowseum-mystery.json) |
@@ -5785,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Hunters: The Most Ridiculous Fishing Simulator | 337714 | [337714-fish-hunters-the-most-ridiculous-fishing-simulator.json](./337714-fish-hunters-the-most-ridiculous-fishing-simulator.json) |
 | Fish Idle 2: Underwater Mystery | 304607 | [304607-fish-idle-2-underwater-mystery.json](./304607-fish-idle-2-underwater-mystery.json) |
 | Fish In | 402572 | [402572-fish-in.json](./402572-fish-in.json) |
+| Fish Kermesse | 131791 | [131791-fish-kermesse.json](./131791-fish-kermesse.json) |
 | Fish Kingdoms | 231938 | [231938-fish-kingdoms.json](./231938-fish-kingdoms.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Kisser | 410893 | [410893-fish-kisser.json](./410893-fish-kisser.json) |
@@ -7384,6 +7388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
 | Floppy From Outer Space | 183347 | [183347-floppy-from-outer-space.json](./183347-floppy-from-outer-space.json) |
+| Floppy Heroes 2 | 131777 | [131777-floppy-heroes-2.json](./131777-floppy-heroes-2.json) |
 | Floppy Jump 3-in-1 | 385550 | [385550-floppy-jump-3-in-1.json](./385550-floppy-jump-3-in-1.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
