@@ -12545,6 +12545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dòuluó Dàlù: Wángguó Yìnjì | 147033 | [147033-douluo-dalu-wangguo-yinji.json](./147033-douluo-dalu-wangguo-yinji.json) |
 | Doupleri | 295082 | [295082-doupleri.json](./295082-doupleri.json) |
 | Douri Hazure | 151842 | [151842-douri-hazure.json](./151842-douri-hazure.json) |
+| Douse | 126175 | [126175-douse.json](./126175-douse.json) |
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
 | Dovadula's Burn | 125020 | [125020-dovadulas-burn.json](./125020-dovadulas-burn.json) |
@@ -14468,6 +14469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamals: Dream Quest | 43086 | [43086-dreamals-dream-quest.json](./43086-dreamals-dream-quest.json) |
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
 | Dreamau Adventures | 188345 | [188345-dreamau-adventures.json](./188345-dreamau-adventures.json) |
+| DreamBall | 126193 | [126193-dreamball.json](./126193-dreamball.json) |
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
 | Dreamblaster | 38764 | [38764-dreamblaster.json](./38764-dreamblaster.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
