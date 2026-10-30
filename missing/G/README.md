@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardener the Ripper | 101291 | [101291-gardener-the-ripper.json](./101291-gardener-the-ripper.json) |
 | Gardener's Path | 185953 | [185953-gardeners-path.json](./185953-gardeners-path.json) |
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
+| Gardenia | 173395 | [173395-gardenia.json](./173395-gardenia.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
 | Gardening by Choice: Flowers and Foliage | 45886 | [45886-gardening-by-choice-flowers-and-foliage.json](./45886-gardening-by-choice-flowers-and-foliage.json) |
 | Gardening Guide | 67616 | [67616-gardening-guide.json](./67616-gardening-guide.json) |
@@ -3233,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
 | Gex 64: Enter the Gecko | 47758 | [47758-gex-64-enter-the-gecko.json](./47758-gex-64-enter-the-gecko.json) |
 | Gex Jr. | 195089 | [195089-gex-jr.json](./195089-gex-jr.json) |
+| Gex the Gecko in Sonic the Hedgehog | 173406 | [173406-gex-the-gecko-in-sonic-the-hedgehog.json](./173406-gex-the-gecko-in-sonic-the-hedgehog.json) |
 | Gex Trilogy | 256406 | [256406-gex-trilogy.json](./256406-gex-trilogy.json) |
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
