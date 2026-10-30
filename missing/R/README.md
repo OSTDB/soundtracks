@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Mania 2 | 71722 | [71722-racing-mania-2.json](./71722-racing-mania-2.json) |
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Moto | 350770 | [350770-racing-moto.json](./350770-racing-moto.json) |
+| Racing Outlaws | 149166 | [149166-racing-outlaws.json](./149166-racing-outlaws.json) |
 | Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
 | Racing Rebels Mud Clash | 347101 | [347101-racing-rebels-mud-clash.json](./347101-racing-rebels-mud-clash.json) |
@@ -4346,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of Fate: A Penny Macey Mystery | 355593 | [355593-relics-of-fate-a-penny-macey-mystery.json](./355593-relics-of-fate-a-penny-macey-mystery.json) |
 | Relics of Gods | 11352 | [11352-relics-of-gods.json](./11352-relics-of-gods.json) |
 | Relics of the Fallen | 182690 | [182690-relics-of-the-fallen.json](./182690-relics-of-the-fallen.json) |
+| Relics of the Lost Age | 149180 | [149180-relics-of-the-lost-age.json](./149180-relics-of-the-lost-age.json) |
 | Relics of the Oracle | 302630 | [302630-relics-of-the-oracle.json](./302630-relics-of-the-oracle.json) |
 | Relics of Wayne: Greymoor | 379588 | [379588-relics-of-wayne-greymoor.json](./379588-relics-of-wayne-greymoor.json) |
 | Relics: A Dark-fantasy Deck-Survivor | 361837 | [361837-relics-a-dark-fantasy-deck-survivor.json](./361837-relics-a-dark-fantasy-deck-survivor.json) |
@@ -4395,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
 | Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
+| Remalmok | 149259 | [149259-remalmok.json](./149259-remalmok.json) |
 | Remanence | 339145 | [339145-remanence.json](./339145-remanence.json) |
 | Remanence | 401456 | [401456-remanence.json](./401456-remanence.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
@@ -5873,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversed Front | 224632 | [224632-reversed-front.json](./224632-reversed-front.json) |
 | Reversed Rebecca | 235682 | [235682-reversed-rebecca.json](./235682-reversed-rebecca.json) |
 | ReverseRoom | 238511 | [238511-reverseroom.json](./238511-reverseroom.json) |
+| ReversEstory | 149156 | [149156-reversestory.json](./149156-reversestory.json) |
 | Reversi | 17541 | [17541-reversi.json](./17541-reversi.json) |
 | Reversi | 230720 | [230720-reversi.json](./230720-reversi.json) |
 | Reversi | 288835 | [288835-reversi.json](./288835-reversi.json) |
@@ -9613,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rome Empire War: Strategy Games | 175702 | [175702-rome-empire-war-strategy-games.json](./175702-rome-empire-war-strategy-games.json) |
 | Rome Frontiers | 261727 | [261727-rome-frontiers.json](./261727-rome-frontiers.json) |
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
+| Rome Reborn: The Colosseum District | 149242 | [149242-rome-reborn-the-colosseum-district.json](./149242-rome-reborn-the-colosseum-district.json) |
 | Rome: AD 92 | 2525 | [2525-rome-ad-92.json](./2525-rome-ad-92.json) |
 | Rome: Caesar's Will | 73781 | [73781-rome-caesars-will.json](./73781-rome-caesars-will.json) |
 | Rome: Card Battles | 414490 | [414490-rome-card-battles.json](./414490-rome-card-battles.json) |
@@ -10047,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotate Game | 176163 | [176163-rotate-game.json](./176163-rotate-game.json) |
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
+| Rotate to Find the Difference | 149164 | [149164-rotate-to-find-the-difference.json](./149164-rotate-to-find-the-difference.json) |
 | Rotate: Collective | 258611 | [258611-rotate-collective.json](./258611-rotate-collective.json) |
 | Rotate: Professional Virtual Aviation Network | 76126 | [76126-rotate-professional-virtual-aviation-network.json](./76126-rotate-professional-virtual-aviation-network.json) |
 | RotatePDF: A Corporate Tale | 214446 | [214446-rotatepdf-a-corporate-tale.json](./214446-rotatepdf-a-corporate-tale.json) |
