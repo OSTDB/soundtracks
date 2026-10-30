@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Wars | 108994 | [108994-kart-wars.json](./108994-kart-wars.json) |
 | Karta Centauri | 369614 | [369614-karta-centauri.json](./369614-karta-centauri.json) |
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
+| Karting | 149185 | [149185-karting.json](./149185-karting.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
 | Karting of Banban | 324816 | [324816-karting-of-banban.json](./324816-karting-of-banban.json) |
 | Karting Superstars | 265034 | [265034-karting-superstars.json](./265034-karting-superstars.json) |
@@ -1731,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
 | Key and Lokk | 408505 | [408505-key-and-lokk.json](./408505-key-and-lokk.json) |
 | Key Defence | 122339 | [122339-key-defence.json](./122339-key-defence.json) |
+| Key Escape | 149247 | [149247-key-escape.json](./149247-key-escape.json) |
 | Key Finder | 358940 | [358940-key-finder.json](./358940-key-finder.json) |
 | Key Girl | 397895 | [397895-key-girl.json](./397895-key-girl.json) |
 | Key Gunner | 333659 | [333659-key-gunner.json](./333659-key-gunner.json) |
@@ -2511,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2594,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindergarten of Hell | 343841 | [343841-kindergarten-of-hell.json](./343841-kindergarten-of-hell.json) |
 | Kindergarten Secret | 234102 | [234102-kindergarten-secret.json](./234102-kindergarten-secret.json) |
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
+| KindFolx | 149255 | [149255-kindfolx.json](./149255-kindfolx.json) |
 | Kindled Cavern | 29816 | [29816-kindled-cavern.json](./29816-kindled-cavern.json) |
 | Kindling Spirits | 178363 | [178363-kindling-spirits.json](./178363-kindling-spirits.json) |
 | Kindling: The Last Light | 183365 | [183365-kindling-the-last-light.json](./183365-kindling-the-last-light.json) |
