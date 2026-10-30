@@ -4392,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whole Lotta Lies | 255536 | [255536-whole-lotta-lies.json](./255536-whole-lotta-lies.json) |
 | Whole New Ball Game | 304313 | [304313-whole-new-ball-game.json](./304313-whole-new-ball-game.json) |
 | Whole Note | 322037 | [322037-whole-note.json](./322037-whole-note.json) |
+| Whole Record of Wife Whose Clitoris Is Finally Dissected | 131136 | [131136-whole-record-of-wife-whose-clitoris-is-finally-dissected.json](./131136-whole-record-of-wife-whose-clitoris-is-finally-dissected.json) |
 | Wholesome Adventure Bundle | 277721 | [277721-wholesome-adventure-bundle.json](./277721-wholesome-adventure-bundle.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Monster Girl Academia | 237791 | [237791-wholesome-monster-girl-academia.json](./237791-wholesome-monster-girl-academia.json) |
