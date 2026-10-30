@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
 | Temple of the Lost | 107410 | [107410-temple-of-the-lost.json](./107410-temple-of-the-lost.json) |
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
+| Temple of the Wumpus | 148767 | [148767-temple-of-the-wumpus.json](./148767-temple-of-the-wumpus.json) |
 | Temple of Yog | 60419 | [60419-temple-of-yog.json](./60419-temple-of-yog.json) |
 | Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
 | Temple Raider | 181596 | [181596-temple-raider.json](./181596-temple-raider.json) |
@@ -15127,6 +15128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Snowman and the Snowdog | 22200 | [22200-the-snowman-and-the-snowdog.json](./22200-the-snowman-and-the-snowdog.json) |
+| The Snowman's Journey | 148762 | [148762-the-snowmans-journey.json](./148762-the-snowmans-journey.json) |
 | The Sob Island | 217119 | [217119-the-sob-island.json](./217119-the-sob-island.json) |
 | The Soccer Player Manager | 180478 | [180478-the-soccer-player-manager.json](./180478-the-soccer-player-manager.json) |
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
@@ -24095,6 +24097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tousui Kitan | 97698 | [97698-tousui-kitan.json](./97698-tousui-kitan.json) |
 | Tout Savoir: 3E | 150237 | [150237-tout-savoir-3e.json](./150237-tout-savoir-3e.json) |
 | Tout Savoir: 5E | 148663 | [148663-tout-savoir-5e.json](./148663-tout-savoir-5e.json) |
+| Tout Savoir: CE2 | 148735 | [148735-tout-savoir-ce2.json](./148735-tout-savoir-ce2.json) |
 | Tout Savoir: CM1 | 147346 | [147346-tout-savoir-cm1.json](./147346-tout-savoir-cm1.json) |
 | Tout Savoir: CM2 | 124105 | [124105-tout-savoir-cm2.json](./124105-tout-savoir-cm2.json) |
 | Toute l'Aventure 2 | 94662 | [94662-toute-laventure-2.json](./94662-toute-laventure-2.json) |
