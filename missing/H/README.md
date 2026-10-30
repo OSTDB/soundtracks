@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpooneer | 400323 | [400323-harpooneer.json](./400323-harpooneer.json) |
 | Harpoons & Balls | 57083 | [57083-harpoons-and-balls.json](./57083-harpoons-and-balls.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
+| Harpy Gaiden | 130551 | [130551-harpy-gaiden.json](./130551-harpy-gaiden.json) |
 | Harpy Monster Bird Simulator 3D | 88802 | [88802-harpy-monster-bird-simulator-3d.json](./88802-harpy-monster-bird-simulator-3d.json) |
 | Harpy Raiders | 248024 | [248024-harpy-raiders.json](./248024-harpy-raiders.json) |
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
@@ -8501,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Gildong-jeon | 145612 | [145612-hong-gildong-jeon.json](./145612-hong-gildong-jeon.json) |
 | Hong Gildong-jeon 2 | 297656 | [297656-hong-gildong-jeon-2.json](./297656-hong-gildong-jeon-2.json) |
 | Hong Kong | 47251 | [47251-hong-kong.json](./47251-hong-kong.json) |
+| Hong Kong 2020 | 130505 | [130505-hong-kong-2020.json](./130505-hong-kong-2020.json) |
 | Hong Kong 2097 | 374971 | [374971-hong-kong-2097.json](./374971-hong-kong-2097.json) |
 | Hong Kong 2099 | 311683 | [311683-hong-kong-2099.json](./311683-hong-kong-2099.json) |
 | Hong Kong 97 | 9616 | [9616-hong-kong-97.json](./9616-hong-kong-97.json) |
@@ -9133,6 +9135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tomb | 295869 | [295869-horror-tomb.json](./295869-horror-tomb.json) |
 | Horror Tooth | 177280 | [177280-horror-tooth.json](./177280-horror-tooth.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
+| Horror Vacui | 130560 | [130560-horror-vacui.json](./130560-horror-vacui.json) |
 | Horror Villa | 157539 | [157539-horror-villa.json](./157539-horror-villa.json) |
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
 | Horror Zombies from the Crypt | 12145 | [12145-horror-zombies-from-the-crypt.json](./12145-horror-zombies-from-the-crypt.json) |
