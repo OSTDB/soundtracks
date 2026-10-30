@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
 | A Cup of Eternity | 382212 | [382212-a-cup-of-eternity.json](./382212-a-cup-of-eternity.json) |
 | A Cup of Tea | 392397 | [392397-a-cup-of-tea.json](./392397-a-cup-of-tea.json) |
+| A Cure for Jessica | 169597 | [169597-a-cure-for-jessica.json](./169597-a-cure-for-jessica.json) |
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
@@ -10506,6 +10507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
 | April's Diary | 249014 | [249014-aprils-diary.json](./249014-aprils-diary.json) |
 | Apsis | 193090 | [193090-apsis.json](./193090-apsis.json) |
+| Apsis Online | 169600 | [169600-apsis-online.json](./169600-apsis-online.json) |
 | APT | 35534 | [35534-apt.json](./35534-apt.json) |
 | Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
 | Apt. Map | 227438 | [227438-apt-map.json](./227438-apt-map.json) |
