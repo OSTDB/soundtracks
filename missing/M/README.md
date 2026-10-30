@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | Magicsea Online | 349787 | [349787-magicsea-online.json](./349787-magicsea-online.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
+| MagicShop3D | 165921 | [165921-magicshop3d.json](./165921-magicshop3d.json) |
 | Magiculon's Tower | 372622 | [372622-magiculons-tower.json](./372622-magiculons-tower.json) |
 | Magicus | 227904 | [227904-magicus.json](./227904-magicus.json) |
 | Magidoll | 196588 | [196588-magidoll.json](./196588-magidoll.json) |
@@ -12044,6 +12045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miserere | 124550 | [124550-miserere.json](./124550-miserere.json) |
 | Miseria | 397630 | [397630-miseria.json](./397630-miseria.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
+| Misericorde: Volume One | 165896 | [165896-misericorde-volume-one.json](./165896-misericorde-volume-one.json) |
 | Misery | 342489 | [342489-misery.json](./342489-misery.json) |
 | Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
 | Misery Nights | 392008 | [392008-misery-nights.json](./392008-misery-nights.json) |
@@ -13882,6 +13884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Eggs | 69197 | [69197-monster-eggs.json](./69197-monster-eggs.json) |
 | Monster Elevator | 319188 | [319188-monster-elevator.json](./319188-monster-elevator.json) |
 | Monster Energy Supercross 25: The Official Video Game | 336380 | [336380-monster-energy-supercross-25-the-official-video-game.json](./336380-monster-energy-supercross-25-the-official-video-game.json) |
+| Monster Energy Supercross 3: Special Edition | 165883 | [165883-monster-energy-supercross-3-special-edition.json](./165883-monster-energy-supercross-3-special-edition.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
 | Monster Energy Supercross 6: The Official Videogame | 228861 | [228861-monster-energy-supercross-6-the-official-videogame.json](./228861-monster-energy-supercross-6-the-official-videogame.json) |
 | Monster Energy Supercross: Special Edition | 175533 | [175533-monster-energy-supercross-special-edition.json](./175533-monster-energy-supercross-special-edition.json) |
@@ -16890,6 +16893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Theft Auto | 140059 | [140059-multi-theft-auto.json](./140059-multi-theft-auto.json) |
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
+| Multia Space Program | 165913 | [165913-multia-space-program.json](./165913-multia-space-program.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicraft | 39187 | [39187-multicraft.json](./39187-multicraft.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
