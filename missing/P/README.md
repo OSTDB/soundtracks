@@ -8154,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plains of Pain | 235621 | [235621-plains-of-pain.json](./235621-plains-of-pain.json) |
 | Plairdes | 224936 | [224936-plairdes.json](./224936-plairdes.json) |
 | Plambra Dash: The Parkour Game Part II | 361605 | [361605-plambra-dash-the-parkour-game-part-ii.json](./361605-plambra-dash-the-parkour-game-part-ii.json) |
+| Plan 8 | 125632 | [125632-plan-8.json](./125632-plan-8.json) |
 | Plan 9 From Outer Space | 12717 | [12717-plan-9-from-outer-space.json](./12717-plan-9-from-outer-space.json) |
 | Plan 9 From Planet Kr1x | 301114 | [301114-plan-9-from-planet-kr1x.json](./301114-plan-9-from-planet-kr1x.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
