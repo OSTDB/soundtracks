@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
+| Advanced Lord Monarch | 130548 | [130548-advanced-lord-monarch.json](./130548-advanced-lord-monarch.json) |
 | Advanced NetWars | 78001 | [78001-advanced-netwars.json](./78001-advanced-netwars.json) |
 | Advanced Pasta Cooking Simulator | 215766 | [215766-advanced-pasta-cooking-simulator.json](./215766-advanced-pasta-cooking-simulator.json) |
 | Advanced PET 2 | 353148 | [353148-advanced-pet-2.json](./353148-advanced-pet-2.json) |
@@ -8618,6 +8619,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels with Scaly Wings | 27068 | [27068-angels-with-scaly-wings.json](./27068-angels-with-scaly-wings.json) |
 | AngelShooter | 99466 | [99466-angelshooter.json](./99466-angelshooter.json) |
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
+| Angelus 2: Holy Night | 130536 | [130536-angelus-2-holy-night.json](./130536-angelus-2-holy-night.json) |
+| Angelus: Akuma no Fukuin | 130535 | [130535-angelus-akuma-no-fukuin.json](./130535-angelus-akuma-no-fukuin.json) |
 | Angelwood | 149778 | [149778-angelwood.json](./149778-angelwood.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger Birds | 259407 | [259407-anger-birds.json](./259407-anger-birds.json) |
@@ -8753,6 +8756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
 | Angry Celt Warrior | 157124 | [157124-angry-celt-warrior.json](./157124-angry-celt-warrior.json) |
 | Angry Chef World Tour | 381671 | [381671-angry-chef-world-tour.json](./381671-angry-chef-world-tour.json) |
+| Angry Chicken: Egg Madness! | 130527 | [130527-angry-chicken-egg-madness.json](./130527-angry-chicken-egg-madness.json) |
 | Angry Choice | 268147 | [268147-angry-choice.json](./268147-angry-choice.json) |
 | Angry Cubes | 369522 | [369522-angry-cubes.json](./369522-angry-cubes.json) |
 | Angry Dad | 189869 | [189869-angry-dad.json](./189869-angry-dad.json) |
