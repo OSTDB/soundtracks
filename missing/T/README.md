@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
 | Target Party | 254302 | [254302-target-party.json](./254302-target-party.json) |
 | Target Pinball | 307399 | [307399-target-pinball.json](./307399-target-pinball.json) |
+| Target Plus | 145867 | [145867-target-plus.json](./145867-target-plus.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Runner | 149690 | [149690-target-runner.json](./149690-target-runner.json) |
 | Target Rush | 292042 | [292042-target-rush.json](./292042-target-rush.json) |
@@ -15374,6 +15375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stones | 371482 | [371482-the-stones.json](./371482-the-stones.json) |
 | The Stones of the Pharaoh | 421368 | [421368-the-stones-of-the-pharaoh.json](./421368-the-stones-of-the-pharaoh.json) |
 | The Stonks Market | 146698 | [146698-the-stonks-market.json](./146698-the-stonks-market.json) |
+| The Store is Closed | 145859 | [145859-the-store-is-closed.json](./145859-the-store-is-closed.json) |
 | The Storied Sword | 327462 | [327462-the-storied-sword.json](./327462-the-storied-sword.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
 | The Storm | 149400 | [149400-the-storm.json](./149400-the-storm.json) |
@@ -30176,5 +30178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyto Online | 30789 | [30789-tyto-online.json](./30789-tyto-online.json) |
 | Tzakol in Exile | 189112 | [189112-tzakol-in-exile.json](./189112-tzakol-in-exile.json) |
 | Tzar: The Burden of the Crown | 9691 | [9691-tzar-the-burden-of-the-crown.json](./9691-tzar-the-burden-of-the-crown.json) |
+| Tzared | 145882 | [145882-tzared.json](./145882-tzared.json) |
 | Tzimtzum | 343856 | [343856-tzimtzum.json](./343856-tzimtzum.json) |
 | Tzompantli | 30941 | [30941-tzompantli.json](./30941-tzompantli.json) |
