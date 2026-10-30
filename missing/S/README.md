@@ -12098,6 +12098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime: Isekai Memories | 178301 | [178301-slime-isekai-memories.json](./178301-slime-isekai-memories.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
 | Slime.io: Devour the Сity | 223911 | [223911-slime-io-devour-the-ity.json](./223911-slime-io-devour-the-ity.json) |
+| Slime's Journey | 170683 | [170683-slimes-journey.json](./170683-slimes-journey.json) |
 | Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
 | Slime's Revenge | 152651 | [152651-slimes-revenge.json](./152651-slimes-revenge.json) |
 | Slimeblade | 420012 | [420012-slimeblade.json](./420012-slimeblade.json) |
