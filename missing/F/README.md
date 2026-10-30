@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Endless Adventure | 194141 | [194141-fairy-tail-endless-adventure.json](./194141-fairy-tail-endless-adventure.json) |
 | Fairy Tail: Fierce Fight | 349254 | [349254-fairy-tail-fierce-fight.json](./349254-fairy-tail-fierce-fight.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
+| Fairy Tail: Friendship! | 165901 | [165901-fairy-tail-friendship.json](./165901-fairy-tail-friendship.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
 | Fairy Tail: Hero's Journey | 59806 | [59806-fairy-tail-heros-journey.json](./59806-fairy-tail-heros-journey.json) |
 | Fairy Tail: Portable Guild | 44480 | [44480-fairy-tail-portable-guild.json](./44480-fairy-tail-portable-guild.json) |
@@ -7707,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Doggy | 270571 | [270571-flying-doggy.json](./270571-flying-doggy.json) |
 | Flying Duckling | 91245 | [91245-flying-duckling.json](./91245-flying-duckling.json) |
 | Flying Feathers | 13847 | [13847-flying-feathers.json](./13847-flying-feathers.json) |
+| Flying Felix | 165905 | [165905-flying-felix.json](./165905-flying-felix.json) |
 | Flying Ferret | 295834 | [295834-flying-ferret.json](./295834-flying-ferret.json) |
 | Flying Fish Quest | 192313 | [192313-flying-fish-quest.json](./192313-flying-fish-quest.json) |
 | Flying Fortress II | 172651 | [172651-flying-fortress-ii.json](./172651-flying-fortress-ii.json) |
