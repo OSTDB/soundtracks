@@ -4727,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
 | Limited Rescue | 235039 | [235039-limited-rescue.json](./235039-limited-rescue.json) |
 | Limited Space | 406337 | [406337-limited-space.json](./406337-limited-space.json) |
+| Limiter! | 140810 | [140810-limiter.json](./140810-limiter.json) |
 | Limitless | 298066 | [298066-limitless.json](./298066-limitless.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
@@ -4957,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
 | Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
+| Linklight | 139620 | [139620-linklight.json](./139620-linklight.json) |
 | Linkling | 390061 | [390061-linkling.json](./390061-linkling.json) |
 | Linko: Relaxing Loop | 232310 | [232310-linko-relaxing-loop.json](./232310-linko-relaxing-loop.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
@@ -5303,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Gardens | 128385 | [128385-little-gardens.json](./128385-little-gardens.json) |
 | Little Genius Kids | 89542 | [89542-little-genius-kids.json](./89542-little-genius-kids.json) |
 | Little Ghost | 25455 | [25455-little-ghost.json](./25455-little-ghost.json) |
+| Little Ghost Project | 140778 | [140778-little-ghost-project.json](./140778-little-ghost-project.json) |
 | Little Ghosthunter | 249889 | [249889-little-ghosthunter.json](./249889-little-ghosthunter.json) |
 | Little Ghosties | 405158 | [405158-little-ghosties.json](./405158-little-ghosties.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
@@ -7349,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Judgment: Digital Ultimate Edition | 173164 | [173164-lost-judgment-digital-ultimate-edition.json](./173164-lost-judgment-digital-ultimate-edition.json) |
 | Lost Judgment: School Stories Expansion Pack | 264071 | [264071-lost-judgment-school-stories-expansion-pack.json](./264071-lost-judgment-school-stories-expansion-pack.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
+| Lost Keys | 139597 | [139597-lost-keys.json](./139597-lost-keys.json) |
 | Lost King's Lullaby | 115537 | [115537-lost-kings-lullaby.json](./115537-lost-kings-lullaby.json) |
 | Lost Kingdom | 269183 | [269183-lost-kingdom.json](./269183-lost-kingdom.json) |
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
@@ -8789,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar 2: Eternal Blue Complete - Collector's Edition | 43699 | [43699-lunar-2-eternal-blue-complete-collectors-edition.json](./43699-lunar-2-eternal-blue-complete-collectors-edition.json) |
 | Lunar Ascendant | 263101 | [263101-lunar-ascendant.json](./263101-lunar-ascendant.json) |
 | Lunar Assault 64 | 145457 | [145457-lunar-assault-64.json](./145457-lunar-assault-64.json) |
+| Lunar Axe | 139627 | [139627-lunar-axe.json](./139627-lunar-axe.json) |
 | Lunar Ball | 92281 | [92281-lunar-ball.json](./92281-lunar-ball.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
 | Lunar Chrysalis | 406077 | [406077-lunar-chrysalis.json](./406077-lunar-chrysalis.json) |
