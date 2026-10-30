@@ -2388,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Warriors: Vietnam | 23786 | [23786-elite-warriors-vietnam.json](./23786-elite-warriors-vietnam.json) |
 | Elite X: Street Racer | 282842 | [282842-elite-x-street-racer.json](./282842-elite-x-street-racer.json) |
 | Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
+| Elite: Dangerous - Legendary Edition | 136034 | [136034-elite-dangerous-legendary-edition.json](./136034-elite-dangerous-legendary-edition.json) |
 | Elite: Dangerous - Odyssey | 134873 | [134873-elite-dangerous-odyssey.json](./134873-elite-dangerous-odyssey.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 2001 | 94376 | [94376-elitserien-2001.json](./94376-elitserien-2001.json) |
@@ -6524,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvilvEvil | 153752 | [153752-evilvevil.json](./153752-evilvevil.json) |
 | Eviron's Chronicles | 161378 | [161378-evirons-chronicles.json](./161378-evirons-chronicles.json) |
 | EviscerateThisGirl.com | 260064 | [260064-evisceratethisgirl-com.json](./260064-evisceratethisgirl-com.json) |
+| Eviternity | 136040 | [136040-eviternity.json](./136040-eviternity.json) |
 | Eviternity II | 279772 | [279772-eviternity-ii.json](./279772-eviternity-ii.json) |
 | Evkworld | 120379 | [120379-evkworld.json](./120379-evkworld.json) |
 | Evo Defense | 395564 | [395564-evo-defense.json](./395564-evo-defense.json) |
