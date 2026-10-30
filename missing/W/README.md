@@ -3247,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WGT by Topgolf | 86781 | [86781-wgt-by-topgolf.json](./86781-wgt-by-topgolf.json) |
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
 | WGT Golf: Birdie Bundle | 168433 | [168433-wgt-golf-birdie-bundle.json](./168433-wgt-golf-birdie-bundle.json) |
+| WGT Golf: Long Drive Bundle | 170133 | [170133-wgt-golf-long-drive-bundle.json](./170133-wgt-golf-long-drive-bundle.json) |
 | WGV: Dreamcatcher | 338380 | [338380-wgv-dreamcatcher.json](./338380-wgv-dreamcatcher.json) |
 | Whac-a-Mole | 421420 | [421420-whac-a-mole.json](./421420-whac-a-mole.json) |
 | Whac-A-Mole | 413717 | [413717-whac-a-mole.json](./413717-whac-a-mole.json) |
