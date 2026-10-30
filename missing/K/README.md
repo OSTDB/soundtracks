@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Cross Dimension 0079 | 67615 | [67615-kidou-senshi-gundam-cross-dimension-0079.json](./67615-kidou-senshi-gundam-cross-dimension-0079.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
 | Kidou Senshi Gundam: Gihren no Yabou | 76598 | [76598-kidou-senshi-gundam-gihren-no-yabou.json](./76598-kidou-senshi-gundam-gihren-no-yabou.json) |
+| Kidou Senshi Gundam: Giren no Yabou - Kouryaku Shireisho | 176117 | [176117-kidou-senshi-gundam-giren-no-yabou-kouryaku-shireisho.json](./176117-kidou-senshi-gundam-giren-no-yabou-kouryaku-shireisho.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
 | Kidou Senshi Gundam: Gundam vs. Gundam | 269497 | [269497-kidou-senshi-gundam-gundam-vs-gundam.json](./269497-kidou-senshi-gundam-gundam-vs-gundam.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
@@ -2990,10 +2991,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Final Mix: Platinum Limited Edition | 151255 | [151255-kingdom-hearts-final-mix-platinum-limited-edition.json](./151255-kingdom-hearts-final-mix-platinum-limited-edition.json) |
 | Kingdom Hearts Gummiship Studio | 405370 | [405370-kingdom-hearts-gummiship-studio.json](./405370-kingdom-hearts-gummiship-studio.json) |
 | Kingdom Hearts HD 1.5 + 2.5 Remix | 27979 | [27979-kingdom-hearts-hd-1-5-2-5-remix.json](./27979-kingdom-hearts-hd-1-5-2-5-remix.json) |
+| Kingdom Hearts HD 1.5 + 2.5 Remix: Cloud Version | 176090 | [176090-kingdom-hearts-hd-1-5-2-5-remix-cloud-version.json](./176090-kingdom-hearts-hd-1-5-2-5-remix-cloud-version.json) |
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.5 Remix | 7841 | [7841-kingdom-hearts-hd-2-5-remix.json](./7841-kingdom-hearts-hd-2-5-remix.json) |
 | Kingdom Hearts HD 2.5 Remix: Limited Edition | 45159 | [45159-kingdom-hearts-hd-2-5-remix-limited-edition.json](./45159-kingdom-hearts-hd-2-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue | 14159 | [14159-kingdom-hearts-hd-2-8-final-chapter-prologue.json](./14159-kingdom-hearts-hd-2-8-final-chapter-prologue.json) |
+| Kingdom Hearts HD 2.8 Final Chapter Prologue: Cloud Version | 176091 | [176091-kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version.json](./176091-kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition | 44535 | [44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json](./44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json) |
 | Kingdom Hearts II Final Mix | 221998 | [221998-kingdom-hearts-ii-final-mix.json](./221998-kingdom-hearts-ii-final-mix.json) |
 | Kingdom Hearts II Final Mix: Free Flow Virtuoso Improvements Implementation | 419929 | [419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json](./419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json) |
@@ -3117,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
 | Kingdom Watcher | 81050 | [81050-kingdom-watcher.json](./81050-kingdom-watcher.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
+| Kingdom Workshop | 176101 | [176101-kingdom-workshop.json](./176101-kingdom-workshop.json) |
 | Kingdom-Heroes | 114071 | [114071-kingdom-heroes.json](./114071-kingdom-heroes.json) |
 | Kingdom, Dungeon, and Hero | 274314 | [274314-kingdom-dungeon-and-hero.json](./274314-kingdom-dungeon-and-hero.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
