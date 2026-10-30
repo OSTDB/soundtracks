@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You (Can)Not Survive | 112713 | [112713-you-can-not-survive.json](./112713-you-can-not-survive.json) |
 | You All Know! Arm Tank Volley | 390269 | [390269-you-all-know-arm-tank-volley.json](./390269-you-all-know-arm-tank-volley.json) |
 | You Alone Can Defeat Evil | 335795 | [335795-you-alone-can-defeat-evil.json](./335795-you-alone-can-defeat-evil.json) |
+| You and I and the Long, Long Drive | 173427 | [173427-you-and-i-and-the-long-long-drive.json](./173427-you-and-i-and-the-long-long-drive.json) |
 | You and I, at the End of That Summer | 375293 | [375293-you-and-i-at-the-end-of-that-summer.json](./375293-you-and-i-at-the-end-of-that-summer.json) |
 | You and Me | 200348 | [200348-you-and-me.json](./200348-you-and-me.json) |
 | You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
