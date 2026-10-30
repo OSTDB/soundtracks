@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maou Company | 292050 | [292050-maou-company.json](./292050-maou-company.json) |
 | Maou Shoujo Eri | 262262 | [262262-maou-shoujo-eri.json](./262262-maou-shoujo-eri.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
+| Màoxiǎn Shíguāngjī | 148779 | [148779-maoxian-shiguangji.json](./148779-maoxian-shiguangji.json) |
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map Game: Or Something | 149905 | [149905-map-game-or-something.json](./149905-map-game-or-something.json) |
 | Map Hopper | 180682 | [180682-map-hopper.json](./180682-map-hopper.json) |
