@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Boyfriend Plus | 210521 | [210521-vampire-boyfriend-plus.json](./210521-vampire-boyfriend-plus.json) |
 | Vampire Brides: Love Over Death | 65857 | [65857-vampire-brides-love-over-death.json](./65857-vampire-brides-love-over-death.json) |
+| Vampire Castle | 171251 | [171251-vampire-castle.json](./171251-vampire-castle.json) |
 | Vampire Castle | 50365 | [50365-vampire-castle.json](./50365-vampire-castle.json) |
 | Vampire Cat | 342097 | [342097-vampire-cat.json](./342097-vampire-cat.json) |
 | Vampire Circus | 297481 | [297481-vampire-circus.json](./297481-vampire-circus.json) |
