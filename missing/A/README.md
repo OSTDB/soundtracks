@@ -5250,6 +5250,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
 | Akashicforce | 116199 | [116199-akashicforce.json](./116199-akashicforce.json) |
+| Akashicforce: Inundation of Brigade | 124441 | [124441-akashicforce-inundation-of-brigade.json](./124441-akashicforce-inundation-of-brigade.json) |
+| Akashicverse: Malicious Wake | 124442 | [124442-akashicverse-malicious-wake.json](./124442-akashicverse-malicious-wake.json) |
 | Akashicverse: Pandemonic Nightmare | 152210 | [152210-akashicverse-pandemonic-nightmare.json](./152210-akashicverse-pandemonic-nightmare.json) |
 | Akatori | 140375 | [140375-akatori.json](./140375-akatori.json) |
 | Akatsuki Blitzkampf | 80207 | [80207-akatsuki-blitzkampf.json](./80207-akatsuki-blitzkampf.json) |
@@ -14195,6 +14197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Breakers | 19953 | [19953-astral-breakers.json](./19953-astral-breakers.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
+| Astral Chronicles | 124444 | [124444-astral-chronicles.json](./124444-astral-chronicles.json) |
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Court DX | 368081 | [368081-astral-court-dx.json](./368081-astral-court-dx.json) |
@@ -15301,6 +15304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quads Bike Stunt Racing 3D | 296774 | [296774-atv-quads-bike-stunt-racing-3d.json](./296774-atv-quads-bike-stunt-racing-3d.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
 | ATV Racing | 142042 | [142042-atv-racing.json](./142042-atv-racing.json) |
+| ATV Slam | 124433 | [124433-atv-slam.json](./124433-atv-slam.json) |
 | ATV Stand Up Power Sports: Dirt Bike Racing Game | 108907 | [108907-atv-stand-up-power-sports-dirt-bike-racing-game.json](./108907-atv-stand-up-power-sports-dirt-bike-racing-game.json) |
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
