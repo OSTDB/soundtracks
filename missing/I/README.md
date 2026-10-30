@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichorian Tales | 415923 | [415923-ichorian-tales.json](./415923-ichorian-tales.json) |
 | Ichorless | 365180 | [365180-ichorless.json](./365180-ichorless.json) |
 | Ichorous | 287888 | [287888-ichorous.json](./287888-ichorous.json) |
+| Ichth.ys | 149771 | [149771-ichth-ys.json](./149771-ichth-ys.json) |
 | Icing: Love Coating | 194541 | [194541-icing-love-coating.json](./194541-icing-love-coating.json) |
 | Icity | 31157 | [31157-icity.json](./31157-icity.json) |
 | Icky | 84077 | [84077-icky.json](./84077-icky.json) |
@@ -2565,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
 | In Ruins | 418307 | [418307-in-ruins.json](./418307-in-ruins.json) |
 | In Search of Dr. Riptide | 69578 | [69578-in-search-of-dr-riptide.json](./69578-in-search-of-dr-riptide.json) |
+| In Search of Fon Vitae | 149784 | [149784-in-search-of-fon-vitae.json](./149784-in-search-of-fon-vitae.json) |
 | In Search of Freedom | 383563 | [383563-in-search-of-freedom.json](./383563-in-search-of-freedom.json) |
 | In Search of Heroes! | 303584 | [303584-in-search-of-heroes.json](./303584-in-search-of-heroes.json) |
 | In Search of Immortality | 255554 | [255554-in-search-of-immortality.json](./255554-in-search-of-immortality.json) |
