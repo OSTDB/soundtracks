@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain Runner | 287062 | [287062-rain-runner.json](./287062-rain-runner.json) |
+| Rain Shower | 145212 | [145212-rain-shower.json](./145212-rain-shower.json) |
 | Rain Shower | 231745 | [231745-rain-shower.json](./231745-rain-shower.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
 | Rain Tactics | 274384 | [274384-rain-tactics.json](./274384-rain-tactics.json) |
@@ -4984,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 3: Nemesis - Seamless HD Project | 322046 | [322046-resident-evil-3-nemesis-seamless-hd-project.json](./322046-resident-evil-3-nemesis-seamless-hd-project.json) |
 | Resident Evil 3: The Lord of the Necropolis | 350982 | [350982-resident-evil-3-the-lord-of-the-necropolis.json](./350982-resident-evil-3-the-lord-of-the-necropolis.json) |
 | Resident Evil 3: The Only One | 280718 | [280718-resident-evil-3-the-only-one.json](./280718-resident-evil-3-the-only-one.json) |
+| Resident Evil 4 and Resident Evil Code: Veronica X Bundle | 145201 | [145201-resident-evil-4-and-resident-evil-code-veronica-x-bundle.json](./145201-resident-evil-4-and-resident-evil-code-veronica-x-bundle.json) |
 | Resident Evil 4 HD Project | 262541 | [262541-resident-evil-4-hd-project.json](./262541-resident-evil-4-hd-project.json) |
 | Resident Evil 4: A Nightmare of Evil | 351585 | [351585-resident-evil-4-a-nightmare-of-evil.json](./351585-resident-evil-4-a-nightmare-of-evil.json) |
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
@@ -5003,7 +5005,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Zeebo Edition | 227780 | [227780-resident-evil-4-zeebo-edition.json](./227780-resident-evil-4-zeebo-edition.json) |
 | Resident Evil 5 Remastered | 23215 | [23215-resident-evil-5-remastered.json](./23215-resident-evil-5-remastered.json) |
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
+| Resident Evil 5: Deluxe Edition | 145193 | [145193-resident-evil-5-deluxe-edition.json](./145193-resident-evil-5-deluxe-edition.json) |
 | Resident Evil 5: Desperate Escape | 21654 | [21654-resident-evil-5-desperate-escape.json](./21654-resident-evil-5-desperate-escape.json) |
+| Resident Evil 5: e-Capcom Limited Edition | 145197 | [145197-resident-evil-5-e-capcom-limited-edition.json](./145197-resident-evil-5-e-capcom-limited-edition.json) |
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
 | Resident Evil 5: Lost in Nightmares | 21666 | [21666-resident-evil-5-lost-in-nightmares.json](./21666-resident-evil-5-lost-in-nightmares.json) |
 | Resident Evil 5: Versus | 23014 | [23014-resident-evil-5-versus.json](./23014-resident-evil-5-versus.json) |
@@ -5974,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
 | Revolution: War of Independence | 212304 | [212304-revolution-war-of-independence.json](./212304-revolution-war-of-independence.json) |
+| Revolution! | 145203 | [145203-revolution.json](./145203-revolution.json) |
 | Revolution's Eternal Debt | 389085 | [389085-revolutions-eternal-debt.json](./389085-revolutions-eternal-debt.json) |
 | Revolutionary Quest | 292594 | [292594-revolutionary-quest.json](./292594-revolutionary-quest.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
@@ -8197,6 +8202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
 | Robots Attack on Vapeland | 95282 | [95282-robots-attack-on-vapeland.json](./95282-robots-attack-on-vapeland.json) |
 | Robots Coop | 174736 | [174736-robots-coop.json](./174736-robots-coop.json) |
+| Robots Evolved | 145307 | [145307-robots-evolved.json](./145307-robots-evolved.json) |
 | Robots Go Home! | 116452 | [116452-robots-go-home.json](./116452-robots-go-home.json) |
 | Robots in the Wild | 32086 | [32086-robots-in-the-wild.json](./32086-robots-in-the-wild.json) |
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
