@@ -5670,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Fishing: Lilies | 170762 | [170762-euro-fishing-lilies.json](./170762-euro-fishing-lilies.json) |
 | Euro Fishing: Manor Farm Lake | 170759 | [170759-euro-fishing-manor-farm-lake.json](./170759-euro-fishing-manor-farm-lake.json) |
 | Euro Fishing: The Moat | 151065 | [151065-euro-fishing-the-moat.json](./151065-euro-fishing-the-moat.json) |
+| Euro Fishing: Ultimate Edition | 165878 | [165878-euro-fishing-ultimate-edition.json](./165878-euro-fishing-ultimate-edition.json) |
 | Euro Fishing: Urban Edition | 52979 | [52979-euro-fishing-urban-edition.json](./52979-euro-fishing-urban-edition.json) |
 | Euro Fishing: Waldsee | 170764 | [170764-euro-fishing-waldsee.json](./170764-euro-fishing-waldsee.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
