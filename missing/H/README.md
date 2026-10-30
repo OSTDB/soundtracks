@@ -9971,6 +9971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How do you like it, Elon Musk? | 113364 | [113364-how-do-you-like-it-elon-musk.json](./113364-how-do-you-like-it-elon-musk.json) |
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Does Into Game? | 406921 | [406921-how-does-into-game.json](./406921-how-does-into-game.json) |
+| How does it work!? | 158347 | [158347-how-does-it-work.json](./158347-how-does-it-work.json) |
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
 | How Fish Is Made | 187151 | [187151-how-fish-is-made.json](./187151-how-fish-is-made.json) |
 | How I Escaped Futa Prison | 235810 | [235810-how-i-escaped-futa-prison.json](./235810-how-i-escaped-futa-prison.json) |
