@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganush | 112830 | [112830-ganush.json](./112830-ganush.json) |
 | Ganyang Setan Alas: The Game | 327167 | [327167-ganyang-setan-alas-the-game.json](./327167-ganyang-setan-alas-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
+| Ganzworker | 131774 | [131774-ganzworker.json](./131774-ganzworker.json) |
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
 | Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
 | Gap Year | 380825 | [380825-gap-year.json](./380825-gap-year.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomwood | 134127 | [134127-gloomwood.json](./134127-gloomwood.json) |
 | Gloomy Clues | 360152 | [360152-gloomy-clues.json](./360152-gloomy-clues.json) |
 | Gloomy Detective and Devil Girl | 309982 | [309982-gloomy-detective-and-devil-girl.json](./309982-gloomy-detective-and-devil-girl.json) |
+| Gloomy Eyes | 131773 | [131773-gloomy-eyes.json](./131773-gloomy-eyes.json) |
 | Gloomy Eyes | 320289 | [320289-gloomy-eyes.json](./320289-gloomy-eyes.json) |
 | Gloomy Eyes + Arise: A Simple Story | 377274 | [377274-gloomy-eyes-arise-a-simple-story.json](./377274-gloomy-eyes-arise-a-simple-story.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
@@ -6839,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grammar Monsters | 56981 | [56981-grammar-monsters.json](./56981-grammar-monsters.json) |
 | Grammar Nazi | 93417 | [93417-grammar-nazi.json](./93417-grammar-nazi.json) |
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
+| Grampy Katz in: The Big Date | 131793 | [131793-grampy-katz-in-the-big-date.json](./131793-grampy-katz-in-the-big-date.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
@@ -7328,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
 | Grass Life Sim 2 | 374910 | [374910-grass-life-sim-2.json](./374910-grass-life-sim-2.json) |
 | Grass Max | 33831 | [33831-grass-max.json](./33831-grass-max.json) |
+| Grass Mud Horse | 131797 | [131797-grass-mud-horse.json](./131797-grass-mud-horse.json) |
 | Grass Toucher | 373091 | [373091-grass-toucher.json](./373091-grass-toucher.json) |
 | Grassassins | 310049 | [310049-grassassins.json](./310049-grassassins.json) |
 | Grassfires of Veldstar | 183328 | [183328-grassfires-of-veldstar.json](./183328-grassfires-of-veldstar.json) |
@@ -7784,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
 | Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
+| Great British Railway Journeys | 131761 | [131761-great-british-railway-journeys.json](./131761-great-british-railway-journeys.json) |
 | Great Cause of the Three Kingdoms | 81074 | [81074-great-cause-of-the-three-kingdoms.json](./81074-great-cause-of-the-three-kingdoms.json) |
 | Great Clips 500 | 85935 | [85935-great-clips-500.json](./85935-great-clips-500.json) |
 | Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
