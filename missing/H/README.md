@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hack And Slash Fury: Warrior Armor | 334524 | [334524-hack-and-slash-fury-warrior-armor.json](./334524-hack-and-slash-fury-warrior-armor.json) |
 | Hack Back | 353760 | [353760-hack-back.json](./353760-hack-back.json) |
+| Hack Bomb Boma-ye | 153058 | [153058-hack-bomb-boma-ye.json](./153058-hack-bomb-boma-ye.json) |
 | Hack Deep | 291711 | [291711-hack-deep.json](./291711-hack-deep.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
 | Hack FPS: Anniversary Edition | 205015 | [205015-hack-fps-anniversary-edition.json](./205015-hack-fps-anniversary-edition.json) |
@@ -4598,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Emma | 162997 | [162997-hentai-jigsaw-emma.json](./162997-hentai-jigsaw-emma.json) |
 | Hentai Jigsaw Flora | 162994 | [162994-hentai-jigsaw-flora.json](./162994-hentai-jigsaw-flora.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
+| Hentai Jigsaw Photo Studio: Fruit Girls | 153062 | [153062-hentai-jigsaw-photo-studio-fruit-girls.json](./153062-hentai-jigsaw-photo-studio-fruit-girls.json) |
 | Hentai Jigsaw Photo Studio: Neko Girls | 286747 | [286747-hentai-jigsaw-photo-studio-neko-girls.json](./286747-hentai-jigsaw-photo-studio-neko-girls.json) |
 | Hentai Jigsaw Puzzle | 252056 | [252056-hentai-jigsaw-puzzle.json](./252056-hentai-jigsaw-puzzle.json) |
 | Hentai Jigsaw Puzzle 2 | 188496 | [188496-hentai-jigsaw-puzzle-2.json](./188496-hentai-jigsaw-puzzle-2.json) |
@@ -6494,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Series 2 | 274371 | [274371-hidden-series-2.json](./274371-hidden-series-2.json) |
 | Hidden Shapes Animals: VR | 209322 | [209322-hidden-shapes-animals-vr.json](./209322-hidden-shapes-animals-vr.json) |
+| Hidden Shapes Old West | 153081 | [153081-hidden-shapes-old-west.json](./153081-hidden-shapes-old-west.json) |
 | Hidden Shapes: Animals | 162214 | [162214-hidden-shapes-animals.json](./162214-hidden-shapes-animals.json) |
 | Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
 | Hidden Shapes: Black Skull | 162217 | [162217-hidden-shapes-black-skull.json](./162217-hidden-shapes-black-skull.json) |
@@ -7765,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Core | 403779 | [403779-hold-the-core.json](./403779-hold-the-core.json) |
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
+| Hold the Dots! | 153044 | [153044-hold-the-dots.json](./153044-hold-the-dots.json) |
 | Hold The Line | 395363 | [395363-hold-the-line.json](./395363-hold-the-line.json) |
 | Hold The Line | 408209 | [408209-hold-the-line.json](./408209-hold-the-line.json) |
 | Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
@@ -9444,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Sprint Trip With A Married Woman | 97506 | [97506-hot-sprint-trip-with-a-married-woman.json](./97506-hot-sprint-trip-with-a-married-woman.json) |
 | Hot Squat | 30574 | [30574-hot-squat.json](./30574-hot-squat.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
+| Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
 | Hot Throttle | 124467 | [124467-hot-throttle.json](./124467-hot-throttle.json) |
@@ -10968,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybris | 12150 | [12150-hybris.json](./12150-hybris.json) |
 | Hybris: Pulse of Ruin | 103599 | [103599-hybris-pulse-of-ruin.json](./103599-hybris-pulse-of-ruin.json) |
 | Hyde | 192967 | [192967-hyde.json](./192967-hyde.json) |
+| Hyde & Seek | 153060 | [153060-hyde-and-seek.json](./153060-hyde-and-seek.json) |
 | Hyde and Seek | 193950 | [193950-hyde-and-seek.json](./193950-hyde-and-seek.json) |
 | Hyde and Zeke | 166782 | [166782-hyde-and-zeke.json](./166782-hyde-and-zeke.json) |
 | Hyde's Haunt & Seek | 217160 | [217160-hydes-haunt-and-seek.json](./217160-hydes-haunt-and-seek.json) |
