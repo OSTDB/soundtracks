@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danchizuma no Yuuwaku | 58773 | [58773-danchizuma-no-yuuwaku.json](./58773-danchizuma-no-yuuwaku.json) |
 | Dancin' Divas | 203961 | [203961-dancin-divas.json](./203961-dancin-divas.json) |
 | Dancing | 246458 | [246458-dancing.json](./246458-dancing.json) |
+| Dancing Angel | 160007 | [160007-dancing-angel.json](./160007-dancing-angel.json) |
 | Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fantasy Saga | 322429 | [322429-dark-fantasy-saga.json](./322429-dark-fantasy-saga.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
 | Dark Fantasy: Jigsaw Puzzle | 111774 | [111774-dark-fantasy-jigsaw-puzzle.json](./111774-dark-fantasy-jigsaw-puzzle.json) |
+| Dark Farm | 160044 | [160044-dark-farm.json](./160044-dark-farm.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
 | Dark Farts: Parody Smell Edition | 383045 | [383045-dark-farts-parody-smell-edition.json](./383045-dark-farts-parody-smell-edition.json) |
 | Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
@@ -15554,6 +15556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
 | Duckman | 345943 | [345943-duckman.json](./345943-duckman.json) |
+| DuckMan | 160043 | [160043-duckman.json](./160043-duckman.json) |
 | Duckman: The Graphic Adventures of a Private Dick | 71418 | [71418-duckman-the-graphic-adventures-of-a-private-dick.json](./71418-duckman-the-graphic-adventures-of-a-private-dick.json) |
 | Duckoleon | 375219 | [375219-duckoleon.json](./375219-duckoleon.json) |
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
