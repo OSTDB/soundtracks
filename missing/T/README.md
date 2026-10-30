@@ -1746,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Hunter 2 | 267207 | [267207-tank-hunter-2.json](./267207-tank-hunter-2.json) |
 | Tank Hunter Tow Operator | 240679 | [240679-tank-hunter-tow-operator.json](./240679-tank-hunter-tow-operator.json) |
 | Tank Hurricane | 131326 | [131326-tank-hurricane.json](./131326-tank-hurricane.json) |
+| Tank Impact | 126227 | [126227-tank-impact.json](./126227-tank-impact.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
 | Tank it! | 30834 | [30834-tank-it.json](./30834-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
@@ -2904,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoccult: Covenant | 153764 | [153764-technoccult-covenant.json](./153764-technoccult-covenant.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | TechnoClash | 4535 | [4535-technoclash.json](./4535-technoclash.json) |
+| Technojuice | 126213 | [126213-technojuice.json](./126213-technojuice.json) |
 | Technolites | 109509 | [109509-technolites.json](./109509-technolites.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
 | Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
@@ -6079,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Warriors | 250259 | [250259-the-book-of-warriors.json](./250259-the-book-of-warriors.json) |
 | The Book of Watermarks | 127557 | [127557-the-book-of-watermarks.json](./127557-the-book-of-watermarks.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
+| The Book of Yorle | 126187 | [126187-the-book-of-yorle.json](./126187-the-book-of-yorle.json) |
 | The Book of Yorle: Save the Countryside | 174154 | [174154-the-book-of-yorle-save-the-countryside.json](./174154-the-book-of-yorle-save-the-countryside.json) |
 | The Book of Yorle: Save the Kingdom | 172065 | [172065-the-book-of-yorle-save-the-kingdom.json](./172065-the-book-of-yorle-save-the-kingdom.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
@@ -6557,6 +6560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Hercules II: Wrath of Kronos | 193600 | [193600-the-chronicles-of-hercules-ii-wrath-of-kronos.json](./193600-the-chronicles-of-hercules-ii-wrath-of-kronos.json) |
 | The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
 | The Chronicles of Jonah and the Whale | 113480 | [113480-the-chronicles-of-jonah-and-the-whale.json](./113480-the-chronicles-of-jonah-and-the-whale.json) |
+| The Chronicles of Joseph of Egypt | 126217 | [126217-the-chronicles-of-joseph-of-egypt.json](./126217-the-chronicles-of-joseph-of-egypt.json) |
 | The Chronicles of King Arthur: Episode 1 - Excalibur | 112952 | [112952-the-chronicles-of-king-arthur-episode-1-excalibur.json](./112952-the-chronicles-of-king-arthur-episode-1-excalibur.json) |
 | The Chronicles of King Arthur: Episode 2 - Knights of the Round Table | 117630 | [117630-the-chronicles-of-king-arthur-episode-2-knights-of-the-round-table.json](./117630-the-chronicles-of-king-arthur-episode-2-knights-of-the-round-table.json) |
 | The Chronicles of Moses and the Exodus | 151082 | [151082-the-chronicles-of-moses-and-the-exodus.json](./151082-the-chronicles-of-moses-and-the-exodus.json) |
@@ -18589,6 +18593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thug Life | 377562 | [377562-thug-life.json](./377562-thug-life.json) |
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thugs Law | 114827 | [114827-thugs-law.json](./114827-thugs-law.json) |
+| Thugsters Battle Royale | 126233 | [126233-thugsters-battle-royale.json](./126233-thugsters-battle-royale.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thule | 297329 | [297329-thule.json](./297329-thule.json) |
 | Thumb Buggy | 243086 | [243086-thumb-buggy.json](./243086-thumb-buggy.json) |
