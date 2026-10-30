@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
 | RC Revolution | 247924 | [247924-rc-revolution.json](./247924-rc-revolution.json) |
 | RC Robot Adventure Game | 223953 | [223953-rc-robot-adventure-game.json](./223953-rc-robot-adventure-game.json) |
+| RC Rush | 152566 | [152566-rc-rush.json](./152566-rc-rush.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Simulation 2.0 | 34978 | [34978-rc-simulation-2-0.json](./34978-rc-simulation-2-0.json) |
 | RC Spy Drone 2018 | 102548 | [102548-rc-spy-drone-2018.json](./102548-rc-spy-drone-2018.json) |
@@ -2413,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Take | 151802 | [151802-re-take.json](./151802-re-take.json) |
 | Re:Touring | 244609 | [244609-re-touring.json](./244609-re-touring.json) |
 | Re:Turn - One Way Trip | 138021 | [138021-re-turn-one-way-trip.json](./138021-re-turn-one-way-trip.json) |
+| Re:Turn 2 - Runaway | 152611 | [152611-re-turn-2-runaway.json](./152611-re-turn-2-runaway.json) |
 | Re:Ver Project - Tokyo | 327755 | [327755-re-ver-project-tokyo.json](./327755-re-ver-project-tokyo.json) |
 | Re:Vessel | 202321 | [202321-re-vessel.json](./202321-re-vessel.json) |
 | Re:Zero - Infinity | 193944 | [193944-re-zero-infinity.json](./193944-re-zero-infinity.json) |
@@ -6747,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riley & Rochelle | 210694 | [210694-riley-and-rochelle.json](./210694-riley-and-rochelle.json) |
 | Riley in the Abyss | 239704 | [239704-riley-in-the-abyss.json](./239704-riley-in-the-abyss.json) |
 | Riley Short: Analog Boy - Episode 1 | 37051 | [37051-riley-short-analog-boy-episode-1.json](./37051-riley-short-analog-boy-episode-1.json) |
+| Riley Short: Sibling Circuitry | 152597 | [152597-riley-short-sibling-circuitry.json](./152597-riley-short-sibling-circuitry.json) |
 | Riley's Letter Recycle | 311701 | [311701-rileys-letter-recycle.json](./311701-rileys-letter-recycle.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
 | Rim | 398381 | [398381-rim.json](./398381-rim.json) |
