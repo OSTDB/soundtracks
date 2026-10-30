@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautical Dispute | 257856 | [257856-nautical-dispute.json](./257856-nautical-dispute.json) |
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
+| Nauticalypse | 159495 | [159495-nauticalypse.json](./159495-nauticalypse.json) |
 | Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
 | Nauticrawl | 116363 | [116363-nauticrawl.json](./116363-nauticrawl.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Office | 201791 | [201791-night-at-the-office.json](./201791-night-at-the-office.json) |
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
 | Night at Vibri's | 406951 | [406951-night-at-vibris.json](./406951-night-at-vibris.json) |
+| Night Attack: Touge | 159501 | [159501-night-attack-touge.json](./159501-night-attack-touge.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Bici | 380144 | [380144-night-bici.json](./380144-night-bici.json) |
 | Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
@@ -6133,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Another Dungeon?! | 172921 | [172921-not-another-dungeon.json](./172921-not-another-dungeon.json) |
 | Not Another Hero | 57498 | [57498-not-another-hero.json](./57498-not-another-hero.json) |
 | Not Another Needle Game | 223051 | [223051-not-another-needle-game.json](./223051-not-another-needle-game.json) |
+| Not Another Princess Game | 159500 | [159500-not-another-princess-game.json](./159500-not-another-princess-game.json) |
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
 | Not Anyone's Business but My Own | 240100 | [240100-not-anyones-business-but-my-own.json](./240100-not-anyones-business-but-my-own.json) |
 | Not Born to be King | 231842 | [231842-not-born-to-be-king.json](./231842-not-born-to-be-king.json) |
