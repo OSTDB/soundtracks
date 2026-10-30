@@ -8768,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing Kafka | 297978 | [297978-playing-kafka.json](./297978-playing-kafka.json) |
 | Playing Prague | 414139 | [414139-playing-prague.json](./414139-playing-prague.json) |
+| Playing Pride & Prejudice 1: An Austen Armoire | 171742 | [171742-playing-pride-and-prejudice-1-an-austen-armoire.json](./171742-playing-pride-and-prejudice-1-an-austen-armoire.json) |
 | Playing with Fire | 194758 | [194758-playing-with-fire.json](./194758-playing-with-fire.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playing With Language: Games in English | 63775 | [63775-playing-with-language-games-in-english.json](./63775-playing-with-language-games-in-english.json) |
