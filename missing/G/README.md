@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Yonbaiken: Tenshi no Daigyakushu | 207177 | [207177-genso-yonbaiken-tenshi-no-daigyakushu.json](./207177-genso-yonbaiken-tenshi-no-daigyakushu.json) |
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
 | Gensokyo Defenders | 96386 | [96386-gensokyo-defenders.json](./96386-gensokyo-defenders.json) |
+| Gensokyo Ninja Warrior | 134845 | [134845-gensokyo-ninja-warrior.json](./134845-gensokyo-ninja-warrior.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
 | Gensokyo Pro Wrestling Muscle Tag Match | 287891 | [287891-gensokyo-pro-wrestling-muscle-tag-match.json](./287891-gensokyo-pro-wrestling-muscle-tag-match.json) |
@@ -3748,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Trucks Driving Simulator | 90355 | [90355-giant-trucks-driving-simulator.json](./90355-giant-trucks-driving-simulator.json) |
 | Giant Waifu Wash Simulator | 406570 | [406570-giant-waifu-wash-simulator.json](./406570-giant-waifu-wash-simulator.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
+| Giant's Chalice | 134877 | [134877-giants-chalice.json](./134877-giants-chalice.json) |
 | Giant’s Heart | 349948 | [349948-giant-s-heart.json](./349948-giant-s-heart.json) |
 | Giant's Path | 393442 | [393442-giants-path.json](./393442-giants-path.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
@@ -6142,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
 | Gonner | 19002 | [19002-gonner.json](./19002-gonner.json) |
 | Gonner: Press Jump to Die Edition | 51831 | [51831-gonner-press-jump-to-die-edition.json](./51831-gonner-press-jump-to-die-edition.json) |
+| Gonner2 | 134862 | [134862-gonner2.json](./134862-gonner2.json) |
 | Gonner2: Lose Your Head Bundle | 154963 | [154963-gonner2-lose-your-head-bundle.json](./154963-gonner2-lose-your-head-bundle.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
 | Gonshit infarct | 253510 | [253510-gonshit-infarct.json](./253510-gonshit-infarct.json) |
@@ -7907,6 +7910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green | 106762 | [106762-green.json](./106762-green.json) |
 | Green | 106971 | [106971-green.json](./106971-green.json) |
 | Green | 133321 | [133321-green.json](./133321-green.json) |
+| Green 9 Deal | 134846 | [134846-green-9-deal.json](./134846-green-9-deal.json) |
 | Green Alert | 368274 | [368274-green-alert.json](./368274-green-alert.json) |
 | Green Bakery | 332278 | [332278-green-bakery.json](./332278-green-bakery.json) |
 | Green Biker Dude | 317088 | [317088-green-biker-dude.json](./317088-green-biker-dude.json) |
@@ -8382,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
+| Grime & Gaslight | 134870 | [134870-grime-and-gaslight.json](./134870-grime-and-gaslight.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
 | Grime Reapers | 385362 | [385362-grime-reapers.json](./385362-grime-reapers.json) |
 | Grime: Colors of Rot | 222950 | [222950-grime-colors-of-rot.json](./222950-grime-colors-of-rot.json) |
