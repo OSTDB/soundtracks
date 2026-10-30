@@ -6033,13 +6033,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgale | 389393 | [389393-northgale.json](./389393-northgale.json) |
 | Northgard | 18918 | [18918-northgard.json](./18918-northgard.json) |
 | Northgard Battlegrounds | 398523 | [398523-northgard-battlegrounds.json](./398523-northgard-battlegrounds.json) |
+| Northgard: Brundr & Kaelinn, Clan of the Lynx | 154200 | [154200-northgard-brundr-and-kaelinn-clan-of-the-lynx.json](./154200-northgard-brundr-and-kaelinn-clan-of-the-lynx.json) |
 | Northgard: Cross of Vidar Expansion Pack | 230821 | [230821-northgard-cross-of-vidar-expansion-pack.json](./230821-northgard-cross-of-vidar-expansion-pack.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Gardariki, Clan of the Hippogriff | 366866 | [366866-northgard-gardariki-clan-of-the-hippogriff.json](./366866-northgard-gardariki-clan-of-the-hippogriff.json) |
 | Northgard: Garm, Clan of the Hounds | 302201 | [302201-northgard-garm-clan-of-the-hounds.json](./302201-northgard-garm-clan-of-the-hounds.json) |
+| Northgard: Himminbrjotir, Clan of the Ox | 154197 | [154197-northgard-himminbrjotir-clan-of-the-ox.json](./154197-northgard-himminbrjotir-clan-of-the-ox.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | Northgard: Kernev, Clan of the Stoat | 263604 | [263604-northgard-kernev-clan-of-the-stoat.json](./263604-northgard-kernev-clan-of-the-stoat.json) |
+| Northgard: Lyngbakr, Clan of the Kraken | 154198 | [154198-northgard-lyngbakr-clan-of-the-kraken.json](./154198-northgard-lyngbakr-clan-of-the-kraken.json) |
+| Northgard: Nidhogg, Clan of the Dragon | 154201 | [154201-northgard-nidhogg-clan-of-the-dragon.json](./154201-northgard-nidhogg-clan-of-the-dragon.json) |
 | Northgard: Ratatoskr, Clan of the Squirrel | 159702 | [159702-northgard-ratatoskr-clan-of-the-squirrel.json](./159702-northgard-ratatoskr-clan-of-the-squirrel.json) |
+| Northgard: Sváfnir, Clan of the Snake | 154196 | [154196-northgard-svafnir-clan-of-the-snake.json](./154196-northgard-svafnir-clan-of-the-snake.json) |
+| Northgard: Svardilfari, Clan of the Horse | 154199 | [154199-northgard-svardilfari-clan-of-the-horse.json](./154199-northgard-svardilfari-clan-of-the-horse.json) |
 | Northgard: The Viking Age Edition | 145535 | [145535-northgard-the-viking-age-edition.json](./145535-northgard-the-viking-age-edition.json) |
 | Northgard: Vordr, Clan of the Owl | 276976 | [276976-northgard-vordr-clan-of-the-owl.json](./276976-northgard-vordr-clan-of-the-owl.json) |
 | NorthHold | 395269 | [395269-northhold.json](./395269-northhold.json) |
