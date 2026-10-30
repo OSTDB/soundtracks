@@ -5314,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate | 47160 | [47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json](./47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
+| Is It Wrong to Try to Shoot 'em Up Girls in a Dungeon? | 163130 | [163130-is-it-wrong-to-try-to-shoot-em-up-girls-in-a-dungeon.json](./163130-is-it-wrong-to-try-to-shoot-em-up-girls-in-a-dungeon.json) |
 | Is it you? | 188869 | [188869-is-it-you.json](./188869-is-it-you.json) |
 | Is It You? | 212569 | [212569-is-it-you.json](./212569-is-it-you.json) |
 | Is Land of Mysterious | 211973 | [211973-is-land-of-mysterious.json](./211973-is-land-of-mysterious.json) |
