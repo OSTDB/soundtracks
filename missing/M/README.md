@@ -13579,6 +13579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monaco: What's Yours Is Mine | 8739 | [8739-monaco-whats-yours-is-mine.json](./8739-monaco-whats-yours-is-mine.json) |
+| Monaco: What's Yours Is Mine - Complete Edition | 124988 | [124988-monaco-whats-yours-is-mine-complete-edition.json](./124988-monaco-whats-yours-is-mine-complete-edition.json) |
 | Monadi.sys | 410703 | [410703-monadi-sys.json](./410703-monadi-sys.json) |
 | Monads | 109428 | [109428-monads.json](./109428-monads.json) |
 | Monads II | 166842 | [166842-monads-ii.json](./166842-monads-ii.json) |
