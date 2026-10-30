@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally King | 408922 | [408922-rally-king.json](./408922-rally-king.json) |
 | Rally Legends | 104787 | [104787-rally-legends.json](./104787-rally-legends.json) |
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
+| Rally Mechanic Simulator | 155397 | [155397-rally-mechanic-simulator.json](./155397-rally-mechanic-simulator.json) |
 | Rally Mechanic Simulator Rally: Pack - Hybrid Horizon | 357033 | [357033-rally-mechanic-simulator-rally-pack-hybrid-horizon.json](./357033-rally-mechanic-simulator-rally-pack-hybrid-horizon.json) |
 | Rally Mechanic Simulator: Chaya Alexis | 359576 | [359576-rally-mechanic-simulator-chaya-alexis.json](./359576-rally-mechanic-simulator-chaya-alexis.json) |
 | Rally Mechanic Simulator: Chaya Falcon Mk1 | 359577 | [359577-rally-mechanic-simulator-chaya-falcon-mk1.json](./359577-rally-mechanic-simulator-chaya-falcon-mk1.json) |
@@ -9123,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueOut | 258910 | [258910-rogueout.json](./258910-rogueout.json) |
 | RoguePool | 392751 | [392751-roguepool.json](./392751-roguepool.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
+| Rogues Adventure | 155401 | [155401-rogues-adventure.json](./155401-rogues-adventure.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues Like Us | 32357 | [32357-rogues-like-us.json](./32357-rogues-like-us.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
