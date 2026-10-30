@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Business Style | 195013 | [195013-mahjong-business-style.json](./195013-mahjong-business-style.json) |
 | Mahjong by Dogmelon | 101489 | [101489-mahjong-by-dogmelon.json](./101489-mahjong-by-dogmelon.json) |
 | Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
+| Mahjong Carnaval | 149803 | [149803-mahjong-carnaval.json](./149803-mahjong-carnaval.json) |
 | Mahjong Carnival | 59735 | [59735-mahjong-carnival.json](./59735-mahjong-carnival.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Challenge | 55266 | [55266-mahjong-challenge.json](./55266-mahjong-challenge.json) |
@@ -10336,6 +10337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miki's World: The Lost Tiara | 256658 | [256658-mikis-world-the-lost-tiara.json](./256658-mikis-world-the-lost-tiara.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
 | Mikmak World | 401056 | [401056-mikmak-world.json](./401056-mikmak-world.json) |
+| Miko Adventures Puffball | 149774 | [149774-miko-adventures-puffball.json](./149774-miko-adventures-puffball.json) |
 | Miko Funk | 370428 | [370428-miko-funk.json](./370428-miko-funk.json) |
 | Miko Gakkou Monogatari: Kaede Episode | 36177 | [36177-miko-gakkou-monogatari-kaede-episode.json](./36177-miko-gakkou-monogatari-kaede-episode.json) |
 | Miko Gakkou Monogatari: Sanae Episode | 62526 | [62526-miko-gakkou-monogatari-sanae-episode.json](./62526-miko-gakkou-monogatari-sanae-episode.json) |
@@ -10724,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Maze | 154978 | [154978-mind-maze.json](./154978-mind-maze.json) |
 | Mind Maze: Campaign "Triplex" | 170169 | [170169-mind-maze-campaign-triplex.json](./170169-mind-maze-campaign-triplex.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
+| Mind Mirror | 149798 | [149798-mind-mirror.json](./149798-mind-mirror.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind of the Eyes | 223339 | [223339-mind-of-the-eyes.json](./223339-mind-of-the-eyes.json) |
 | Mind of the Midwest | 293606 | [293606-mind-of-the-midwest.json](./293606-mind-of-the-midwest.json) |
