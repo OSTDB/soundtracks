@@ -5773,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
 | Demon Queen Melissa | 116228 | [116228-demon-queen-melissa.json](./116228-demon-queen-melissa.json) |
 | Demon Quest | 343059 | [343059-demon-quest.json](./343059-demon-quest.json) |
+| Demon Quest '85 | 151963 | [151963-demon-quest-85.json](./151963-demon-quest-85.json) |
 | Demon Raiders: Bloody Gems of Blood | 351788 | [351788-demon-raiders-bloody-gems-of-blood.json](./351788-demon-raiders-bloody-gems-of-blood.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
@@ -8420,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
 | Ding. | 183932 | [183932-ding.json](./183932-ding.json) |
 | Dingbats | 391092 | [391092-dingbats.json](./391092-dingbats.json) |
+| Dingdang Rompers Dating Game | 151948 | [151948-dingdang-rompers-dating-game.json](./151948-dingdang-rompers-dating-game.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | DingDongVG's Summer Resort | 312289 | [312289-dingdongvgs-summer-resort.json](./312289-dingdongvgs-summer-resort.json) |
 | Dinghai: The Ocean Pillar | 404908 | [404908-dinghai-the-ocean-pillar.json](./404908-dinghai-the-ocean-pillar.json) |
@@ -11241,6 +11243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
 | Don´t Hang Up | 374654 | [374654-don-t-hang-up.json](./374654-don-t-hang-up.json) |
+| Dona Vasa | 151953 | [151953-dona-vasa.json](./151953-dona-vasa.json) |
 | Donald & Goofy | 281885 | [281885-donald-and-goofy.json](./281885-donald-and-goofy.json) |
 | Donald & Margarida | 281883 | [281883-donald-and-margarida.json](./281883-donald-and-margarida.json) |
 | Donald and Xi at the 2021 Olympics | 383438 | [383438-donald-and-xi-at-the-2021-olympics.json](./383438-donald-and-xi-at-the-2021-olympics.json) |
