@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pages of Time | 340879 | [340879-pages-of-time.json](./340879-pages-of-time.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
+| Pagliacci | 176655 | [176655-pagliacci.json](./176655-pagliacci.json) |
 | Pagliaccionautas | 332285 | [332285-pagliaccionautas.json](./332285-pagliaccionautas.json) |
 | Pago Forest: Dragon's Revenge | 174011 | [174011-pago-forest-dragons-revenge.json](./174011-pago-forest-dragons-revenge.json) |
 | Pago Forest: Tower Defense | 133053 | [133053-pago-forest-tower-defense.json](./133053-pago-forest-tower-defense.json) |
@@ -3479,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekoratchi | 256977 | [256977-pekoratchi.json](./256977-pekoratchi.json) |
 | Peku | 117383 | [117383-peku.json](./117383-peku.json) |
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
+| Pelagium Origins | 176633 | [176633-pelagium-origins.json](./176633-pelagium-origins.json) |
 | Pelago | 303984 | [303984-pelago.json](./303984-pelago.json) |
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
@@ -3887,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark Zero | 1465 | [1465-perfect-dark-zero.json](./1465-perfect-dark-zero.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
+| Perfect Day | 176629 | [176629-perfect-day.json](./176629-perfect-day.json) |
 | Perfect Decision | 168704 | [168704-perfect-decision.json](./168704-perfect-decision.json) |
 | Perfect Dice | 247933 | [247933-perfect-dice.json](./247933-perfect-dice.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
@@ -5824,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikubo | 302681 | [302681-pikubo.json](./302681-pikubo.json) |
 | Pikuniku | 55190 | [55190-pikuniku.json](./55190-pikuniku.json) |
 | Pikuniku 2 | 405455 | [405455-pikuniku-2.json](./405455-pikuniku-2.json) |
+| Pikuniku Online | 176627 | [176627-pikuniku-online.json](./176627-pikuniku-online.json) |
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
 | PikuPiku | 349972 | [349972-pikupiku.json](./349972-pikupiku.json) |
 | Pila | 186417 | [186417-pila.json](./186417-pila.json) |
@@ -5894,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Champ | 275512 | [275512-pillow-champ.json](./275512-pillow-champ.json) |
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
+| Pillow of Stone | 176641 | [176641-pillow-of-stone.json](./176641-pillow-of-stone.json) |
 | Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
 | Pillow Simulator | 155956 | [155956-pillow-simulator.json](./155956-pillow-simulator.json) |
 | Pillowfight Girls | 350196 | [350196-pillowfight-girls.json](./350196-pillowfight-girls.json) |
@@ -12014,6 +12019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Off! | 94608 | [94608-power-off.json](./94608-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Overwhelming | 30739 | [30739-power-overwhelming.json](./30739-power-overwhelming.json) |
+| Power Pair | 176630 | [176630-power-pair.json](./176630-power-pair.json) |
 | Power Pals | 165728 | [165728-power-pals.json](./165728-power-pals.json) |
 | Power Peach Sis. | 48562 | [48562-power-peach-sis.json](./48562-power-peach-sis.json) |
 | Power Pegged | 80799 | [80799-power-pegged.json](./80799-power-pegged.json) |
@@ -14879,6 +14885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
 | Proxima B | 391708 | [391708-proxima-b.json](./391708-proxima-b.json) |
+| Proxima Centauri b | 176622 | [176622-proxima-centauri-b.json](./176622-proxima-centauri-b.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Proximity Shift | 283795 | [283795-proximity-shift.json](./283795-proximity-shift.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
