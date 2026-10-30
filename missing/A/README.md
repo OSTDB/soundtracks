@@ -11228,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ryukyu | 345113 | [345113-arcade-archives-ryukyu.json](./345113-arcade-archives-ryukyu.json) |
 | Arcade Archives: Saboten Bombers | 147120 | [147120-arcade-archives-saboten-bombers.json](./147120-arcade-archives-saboten-bombers.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
+| Arcade Archives: Sasuke vs Commander | 129955 | [129955-arcade-archives-sasuke-vs-commander.json](./129955-arcade-archives-sasuke-vs-commander.json) |
 | Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
 | Arcade Archives: Scramble | 75699 | [75699-arcade-archives-scramble.json](./75699-arcade-archives-scramble.json) |
 | Arcade Archives: Scramble Formation | 278567 | [278567-arcade-archives-scramble-formation.json](./278567-arcade-archives-scramble-formation.json) |
