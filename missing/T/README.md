@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Legends | 90492 | [90492-tales-of-legends.json](./90492-tales-of-legends.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
+| Tales of Luminaria | 165355 | [165355-tales-of-luminaria.json](./165355-tales-of-luminaria.json) |
 | Tales of Lunar Scales | 331735 | [331735-tales-of-lunar-scales.json](./331735-tales-of-lunar-scales.json) |
 | Tales of Lunea | 74713 | [74713-tales-of-lunea.json](./74713-tales-of-lunea.json) |
 | Tales of Maj'Eyal: Ashes of Urh'Rok | 8797 | [8797-tales-of-majeyal-ashes-of-urhrok.json](./8797-tales-of-majeyal-ashes-of-urhrok.json) |
@@ -4426,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Attack | 133313 | [133313-tetris-attack.json](./133313-tetris-attack.json) |
 | Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
+| Tetris Beat | 165353 | [165353-tetris-beat.json](./165353-tetris-beat.json) |
 | Tetris Blast | 48969 | [48969-tetris-blast.json](./48969-tetris-blast.json) |
 | Tetris Bliss | 260536 | [260536-tetris-bliss.json](./260536-tetris-bliss.json) |
 | Tetris Blitz | 63150 | [63150-tetris-blitz.json](./63150-tetris-blitz.json) |
@@ -10726,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Goodbye | 308181 | [308181-the-last-goodbye.json](./308181-the-last-goodbye.json) |
 | The Last Grape | 240980 | [240980-the-last-grape.json](./240980-the-last-grape.json) |
+| The Last Guardian VR | 165341 | [165341-the-last-guardian-vr.json](./165341-the-last-guardian-vr.json) |
 | The Last Guardian: Collector's Edition | 38490 | [38490-the-last-guardian-collectors-edition.json](./38490-the-last-guardian-collectors-edition.json) |
 | The Last Guardian: First-Press Limited Edition | 166983 | [166983-the-last-guardian-first-press-limited-edition.json](./166983-the-last-guardian-first-press-limited-edition.json) |
 | The Last Guardian: Limited Edition | 405004 | [405004-the-last-guardian-limited-edition.json](./405004-the-last-guardian-limited-edition.json) |
@@ -10922,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Song of Witch | 398371 | [398371-the-last-song-of-witch.json](./398371-the-last-song-of-witch.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
+| The Last Spark | 165297 | [165297-the-last-spark.json](./165297-the-last-spark.json) |
 | The Last Spell: Elves of Amberwald | 341399 | [341399-the-last-spell-elves-of-amberwald.json](./341399-the-last-spell-elves-of-amberwald.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
 | The Last Spin | 298632 | [298632-the-last-spin.json](./298632-the-last-spin.json) |
@@ -11987,6 +11991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Machine That Breathes | 121341 | [121341-the-machine-that-breathes.json](./121341-the-machine-that-breathes.json) |
 | The Machine's Garden | 152045 | [152045-the-machines-garden.json](./152045-the-machines-garden.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
+| The Machines Arena | 165283 | [165283-the-machines-arena.json](./165283-the-machines-arena.json) |
 | The Mad Pantser | 339185 | [339185-the-mad-pantser.json](./339185-the-mad-pantser.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
@@ -17129,6 +17134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Gangs | 201546 | [201546-the-world-of-gangs.json](./201546-the-world-of-gangs.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World of Golden Eggs: Nori Nori Uta Dekichatte Kei | 124089 | [124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json](./124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json) |
+| The World of Golden Eggs: Norinori Rhythm-kei | 165340 | [165340-the-world-of-golden-eggs-norinori-rhythm-kei.json](./165340-the-world-of-golden-eggs-norinori-rhythm-kei.json) |
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
 | The World of Legend VR | 75824 | [75824-the-world-of-legend-vr.json](./75824-the-world-of-legend-vr.json) |
 | The World of Magic | 174728 | [174728-the-world-of-magic.json](./174728-the-world-of-magic.json) |
@@ -20289,6 +20295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
 | Time Bandit | 26460 | [26460-time-bandit.json](./26460-time-bandit.json) |
+| Time Bandit: Part 1 - Appendages of the Machine | 165328 | [165328-time-bandit-part-1-appendages-of-the-machine.json](./165328-time-bandit-part-1-appendages-of-the-machine.json) |
 | Time Barbarian Extreme!! | 108639 | [108639-time-barbarian-extreme.json](./108639-time-barbarian-extreme.json) |
 | Time Blazer | 193303 | [193303-time-blazer.json](./193303-time-blazer.json) |
 | Time Bokan Series: Bokan Desuyo | 43759 | [43759-time-bokan-series-bokan-desuyo.json](./43759-time-bokan-series-bokan-desuyo.json) |
@@ -20685,6 +20692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy and Titus | 98304 | [98304-timothy-and-titus.json](./98304-timothy-and-titus.json) |
 | Timothy Leary's Mind Mirror | 26454 | [26454-timothy-learys-mind-mirror.json](./26454-timothy-learys-mind-mirror.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
+| Timothy's Night | 165303 | [165303-timothys-night.json](./165303-timothys-night.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
@@ -22508,6 +22516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
 | Tonka Search and Rescue | 7955 | [7955-tonka-search-and-rescue.json](./7955-tonka-search-and-rescue.json) |
 | Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
+| Tonka Workshop | 165293 | [165293-tonka-workshop.json](./165293-tonka-workshop.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tonka: Rescue Patrol | 4202 | [4202-tonka-rescue-patrol.json](./4202-tonka-rescue-patrol.json) |
 | Tonkachi Mario | 200555 | [200555-tonkachi-mario.json](./200555-tonkachi-mario.json) |
