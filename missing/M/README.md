@@ -8799,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Max: Wild West | 123900 | [123900-metal-max-wild-west.json](./123900-metal-max-wild-west.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
+| Metal Mind | 126226 | [126226-metal-mind.json](./126226-metal-mind.json) |
 | Metal Miners | 212680 | [212680-metal-miners.json](./212680-metal-miners.json) |
 | Metal Mission 2015: Dino Island | 259567 | [259567-metal-mission-2015-dino-island.json](./259567-metal-mission-2015-dino-island.json) |
 | Metal Morph | 42556 | [42556-metal-morph.json](./42556-metal-morph.json) |
@@ -13997,6 +13998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
 | Monster Brothel | 336491 | [336491-monster-brothel.json](./336491-monster-brothel.json) |
 | Monster Brother | 287536 | [287536-monster-brother.json](./287536-monster-brother.json) |
+| Monster Bugs Eat People | 126189 | [126189-monster-bugs-eat-people.json](./126189-monster-bugs-eat-people.json) |
 | Monster Builder | 110216 | [110216-monster-builder.json](./110216-monster-builder.json) |
 | Monster Burner | 64156 | [64156-monster-burner.json](./64156-monster-burner.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
@@ -19945,6 +19947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Stolen Spring - Collector's Edition | 28742 | [28742-myths-of-the-world-stolen-spring-collectors-edition.json](./28742-myths-of-the-world-stolen-spring-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
 | Myths of the World: The Heart of Desolation | 104506 | [104506-myths-of-the-world-the-heart-of-desolation.json](./104506-myths-of-the-world-the-heart-of-desolation.json) |
+| Myths of the World: The Heart of Desolation - Collector's Edition | 126220 | [126220-myths-of-the-world-the-heart-of-desolation-collectors-edition.json](./126220-myths-of-the-world-the-heart-of-desolation-collectors-edition.json) |
 | Myths of the World: The Whispering Marsh | 100052 | [100052-myths-of-the-world-the-whispering-marsh.json](./100052-myths-of-the-world-the-whispering-marsh.json) |
 | Myths of the World: Under the Surface - Collector's Edition | 345418 | [345418-myths-of-the-world-under-the-surface-collectors-edition.json](./345418-myths-of-the-world-under-the-surface-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
