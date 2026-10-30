@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Game | 133734 | [133734-hamster-game.json](./133734-hamster-game.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
+| Hamster Logic 3D | 172355 | [172355-hamster-logic-3d.json](./172355-hamster-logic-3d.json) |
 | Hamster Mapster | 400521 | [400521-hamster-mapster.json](./400521-hamster-mapster.json) |
 | Hamster Monogatari 2 GBA | 49591 | [49591-hamster-monogatari-2-gba.json](./49591-hamster-monogatari-2-gba.json) |
 | Hamster Monogatari 3 GBA | 49590 | [49590-hamster-monogatari-3-gba.json](./49590-hamster-monogatari-3-gba.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Machines & Construction | 266261 | [266261-heavy-machines-and-construction.json](./266261-heavy-machines-and-construction.json) |
 | Heavy Metal | 12141 | [12141-heavy-metal.json](./12141-heavy-metal.json) |
 | Heavy Metal | 46797 | [46797-heavy-metal.json](./46797-heavy-metal.json) |
+| Heavy Metal Babes | 172332 | [172332-heavy-metal-babes.json](./172332-heavy-metal-babes.json) |
 | Heavy Metal Death Can | 386835 | [386835-heavy-metal-death-can.json](./386835-heavy-metal-death-can.json) |
 | Heavy Metal Machines | 36171 | [36171-heavy-metal-machines.json](./36171-heavy-metal-machines.json) |
 | Heavy Metal Paradroid | 296216 | [296216-heavy-metal-paradroid.json](./296216-heavy-metal-paradroid.json) |
