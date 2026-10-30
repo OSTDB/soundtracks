@@ -2559,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
 | Scenes from the Heart | 335769 | [335769-scenes-from-the-heart.json](./335769-scenes-from-the-heart.json) |
+| Scenic Forest Valley | 134250 | [134250-scenic-forest-valley.json](./134250-scenic-forest-valley.json) |
 | Scenic Route's Generations | 244084 | [244084-scenic-routes-generations.json](./244084-scenic-routes-generations.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scent of Ashes | 401712 | [401712-scent-of-ashes.json](./401712-scent-of-ashes.json) |
@@ -7531,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinehill | 245912 | [245912-shinehill.json](./245912-shinehill.json) |
 | Shiner | 241270 | [241270-shiner.json](./241270-shiner.json) |
 | Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
+| Shines Over II | 134252 | [134252-shines-over-ii.json](./134252-shines-over-ii.json) |
 | Shines Over: The Damned | 287034 | [287034-shines-over-the-damned.json](./287034-shines-over-the-damned.json) |
 | Shing! | 120045 | [120045-shing.json](./120045-shing.json) |
 | Shing!: Limited Edition | 222951 | [222951-shing-limited-edition.json](./222951-shing-limited-edition.json) |
@@ -8691,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shufflepuck Cantina Deluxe | 62608 | [62608-shufflepuck-cantina-deluxe.json](./62608-shufflepuck-cantina-deluxe.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
 | Shuffleshot | 39388 | [39388-shuffleshot.json](./39388-shuffleshot.json) |
+| Shuffs | 134253 | [134253-shuffs.json](./134253-shuffs.json) |
 | Shugo Chara! 3-tsu no Tamago to Koisuru Joker | 70669 | [70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json](./70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json) |
 | Shugo Chara! Amu no Niji-iro Chara Change | 70666 | [70666-shugo-chara-amu-no-niji-iro-chara-change.json](./70666-shugo-chara-amu-no-niji-iro-chara-change.json) |
 | Shugo Chara! Spirit! Chara Formation-Rhythm | 124276 | [124276-shugo-chara-spirit-chara-formation-rhythm.json](./124276-shugo-chara-spirit-chara-formation-rhythm.json) |
@@ -9326,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Cold Heart | 282700 | [282700-silent-hill-cold-heart.json](./282700-silent-hill-cold-heart.json) |
 | Silent Hill: Homecoming | 485 | [485-silent-hill-homecoming.json](./485-silent-hill-homecoming.json) |
 | Silent Hill: Mobile 3 | 134265 | [134265-silent-hill-mobile-3.json](./134265-silent-hill-mobile-3.json) |
+| Silent Hill: Mobile DX | 134261 | [134261-silent-hill-mobile-dx.json](./134261-silent-hill-mobile-dx.json) |
 | Silent Hill: Orphan | 59007 | [59007-silent-hill-orphan.json](./59007-silent-hill-orphan.json) |
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
@@ -14441,6 +14445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | Sokogeek | 403321 | [403321-sokogeek.json](./403321-sokogeek.json) |
+| Sokogeon | 134254 | [134254-sokogeon.json](./134254-sokogeon.json) |
 | SokoGhost: Unfinished Business | 390021 | [390021-sokoghost-unfinished-business.json](./390021-sokoghost-unfinished-business.json) |
 | Sokoku | 369349 | [369349-sokoku.json](./369349-sokoku.json) |
 | SokoLab | 244173 | [244173-sokolab.json](./244173-sokolab.json) |
@@ -15119,6 +15124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sometimes Always Monsters | 20122 | [20122-sometimes-always-monsters.json](./20122-sometimes-always-monsters.json) |
 | Sometimes Always Monsters: Author Outfits | 155375 | [155375-sometimes-always-monsters-author-outfits.json](./155375-sometimes-always-monsters-author-outfits.json) |
 | Sometimes They Come Back | 204858 | [204858-sometimes-they-come-back.json](./204858-sometimes-they-come-back.json) |
+| Sometimes to Deal With the Difficulty of Being Alive I Need to Believe There Is a Possibility That Life Is Not Real | 134256 | [134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json](./134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere Better | 145839 | [145839-somewhere-better.json](./145839-somewhere-better.json) |
@@ -16617,6 +16623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Deva | 38955 | [38955-soul-of-deva.json](./38955-soul-of-deva.json) |
 | Soul of Eden | 137846 | [137846-soul-of-eden.json](./137846-soul-of-eden.json) |
 | Soul of Giga | 142720 | [142720-soul-of-giga.json](./142720-soul-of-giga.json) |
+| Soul of Hero | 134259 | [134259-soul-of-hero.json](./134259-soul-of-hero.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Hometown | 216782 | [216782-soul-of-hometown.json](./216782-soul-of-hometown.json) |
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
@@ -18679,6 +18686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | SpecTrek | 354367 | [354367-spectrek.json](./354367-spectrek.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
+| Spectres of the Cold | 134260 | [134260-spectres-of-the-cold.json](./134260-spectres-of-the-cold.json) |
 | Spectrewoods | 154987 | [154987-spectrewoods.json](./154987-spectrewoods.json) |
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
 | Spectrobes GBA | 360025 | [360025-spectrobes-gba.json](./360025-spectrobes-gba.json) |
@@ -22128,6 +22136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Clone Wars - Republic Heroes | 210 | [210-star-wars-the-clone-wars-republic-heroes.json](./210-star-wars-the-clone-wars-republic-heroes.json) |
 | Star Wars: The Empire Strikes Back | 12594 | [12594-star-wars-the-empire-strikes-back.json](./12594-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 12732 | [12732-star-wars-the-empire-strikes-back.json](./12732-star-wars-the-empire-strikes-back.json) |
+| Star Wars: The Empire Strikes Back | 134209 | [134209-star-wars-the-empire-strikes-back.json](./134209-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 5706 | [5706-star-wars-the-empire-strikes-back.json](./5706-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
