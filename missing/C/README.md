@@ -10125,6 +10125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Smith | 337067 | [337067-coin-smith.json](./337067-coin-smith.json) |
 | Coin Tavern | 411316 | [411316-coin-tavern.json](./411316-coin-tavern.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
+| Coin Treasures | 171226 | [171226-coin-treasures.json](./171226-coin-treasures.json) |
 | Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
 | Coin X Union | 339312 | [339312-coin-x-union.json](./339312-coin-x-union.json) |
 | Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
@@ -10494,6 +10495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
 | Color Breakers 2 | 338877 | [338877-color-breakers-2.json](./338877-color-breakers-2.json) |
 | Color Bump 3D | 305840 | [305840-color-bump-3d.json](./305840-color-bump-3d.json) |
+| Color by Number | 171229 | [171229-color-by-number.json](./171229-color-by-number.json) |
 | Color by Number - Modern Art | 102240 | [102240-color-by-number-modern-art.json](./102240-color-by-number-modern-art.json) |
 | Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
 | Color by Number: Medieval Portrait | 367346 | [367346-color-by-number-medieval-portrait.json](./367346-color-by-number-medieval-portrait.json) |
@@ -13595,6 +13597,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike NEO: White Memories | 143558 | [143558-counter-strike-neo-white-memories.json](./143558-counter-strike-neo-white-memories.json) |
 | Counter-Strike Nexon | 16957 | [16957-counter-strike-nexon.json](./16957-counter-strike-nexon.json) |
 | Counter-Strike Nexon: 11th Anniversary Fever Pack | 368446 | [368446-counter-strike-nexon-11th-anniversary-fever-pack.json](./368446-counter-strike-nexon-11th-anniversary-fever-pack.json) |
+| Counter-Strike Nexon: Studio - Zombies: Dragon Set + Permanent Character | 171202 | [171202-counter-strike-nexon-studio-zombies-dragon-set-permanent-character.json](./171202-counter-strike-nexon-studio-zombies-dragon-set-permanent-character.json) |
+| Counter-Strike Nexon: Studio - Zombies: Oz's Trio | 171201 | [171201-counter-strike-nexon-studio-zombies-ozs-trio.json](./171201-counter-strike-nexon-studio-zombies-ozs-trio.json) |
+| Counter-Strike Nexon: Studio - Zombies: Rivals | 171203 | [171203-counter-strike-nexon-studio-zombies-rivals.json](./171203-counter-strike-nexon-studio-zombies-rivals.json) |
 | Counter-Strike Online | 77251 | [77251-counter-strike-online.json](./77251-counter-strike-online.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
