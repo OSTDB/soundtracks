@@ -7540,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Resonance Refrain: Premium Fan Box - Limited Edition | 212320 | [212320-shining-resonance-refrain-premium-fan-box-limited-edition.json](./212320-shining-resonance-refrain-premium-fan-box-limited-edition.json) |
 | Shining Song Starnova | 52062 | [52062-shining-song-starnova.json](./52062-shining-song-starnova.json) |
 | Shining Song Starnova: Idol Empire | 129476 | [129476-shining-song-starnova-idol-empire.json](./129476-shining-song-starnova-idol-empire.json) |
+| Shining Song Starnova: Limited Edition | 154210 | [154210-shining-song-starnova-limited-edition.json](./154210-shining-song-starnova-limited-edition.json) |
 | Shining Soul | 6593 | [6593-shining-soul.json](./6593-shining-soul.json) |
 | Shining Soul II | 6594 | [6594-shining-soul-ii.json](./6594-shining-soul-ii.json) |
 | Shining Star | 222772 | [222772-shining-star.json](./222772-shining-star.json) |
@@ -14568,6 +14569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
 | Soldier of Fortune: Payback | 3113 | [3113-soldier-of-fortune-payback.json](./3113-soldier-of-fortune-payback.json) |
+| Soldier of Fortune: Platinum Edition | 154226 | [154226-soldier-of-fortune-platinum-edition.json](./154226-soldier-of-fortune-platinum-edition.json) |
 | Soldier of Light | 54717 | [54717-soldier-of-light.json](./54717-soldier-of-light.json) |
 | Soldier of Steel | 22134 | [22134-soldier-of-steel.json](./22134-soldier-of-steel.json) |
 | Soldier of the Empire | 255611 | [255611-soldier-of-the-empire.json](./255611-soldier-of-the-empire.json) |
@@ -18303,6 +18305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
 | Sparkling Memories | 372208 | [372208-sparkling-memories.json](./372208-sparkling-memories.json) |
 | Sparkling Memory | 246546 | [246546-sparkling-memory.json](./246546-sparkling-memory.json) |
+| Sparklite: Deluxe Edition | 154216 | [154216-sparklite-deluxe-edition.json](./154216-sparklite-deluxe-edition.json) |
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparkour | 34852 | [34852-sparkour.json](./34852-sparkour.json) |
 | Sparks: Episode One | 170803 | [170803-sparks-episode-one.json](./170803-sparks-episode-one.json) |
@@ -21274,6 +21277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Control I & II | 154237 | [154237-star-control-i-and-ii.json](./154237-star-control-i-and-ii.json) |
 | Star Control II | 1046 | [1046-star-control-ii.json](./1046-star-control-ii.json) |
 | Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
+| Star Control: Origins - Galactic Edition | 154224 | [154224-star-control-origins-galactic-edition.json](./154224-star-control-origins-galactic-edition.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
 | Star Court | 184774 | [184774-star-court.json](./184774-star-court.json) |
@@ -21530,6 +21534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Realms: United - Assault | 163289 | [163289-star-realms-united-assault.json](./163289-star-realms-united-assault.json) |
 | Star Realms: United - Heroes | 163281 | [163281-star-realms-united-heroes.json](./163281-star-realms-united-heroes.json) |
 | Star Realms: United - Missions | 163291 | [163291-star-realms-united-missions.json](./163291-star-realms-united-missions.json) |
+| Star Renegades: Deluxe Edition | 154222 | [154222-star-renegades-deluxe-edition.json](./154222-star-renegades-deluxe-edition.json) |
 | Star Renegades: Enter the Dragoon | 169276 | [169276-star-renegades-enter-the-dragoon.json](./169276-star-renegades-enter-the-dragoon.json) |
 | Star Renegades: Guardian of the Metaverse | 169275 | [169275-star-renegades-guardian-of-the-metaverse.json](./169275-star-renegades-guardian-of-the-metaverse.json) |
 | Star Renegades: Prime Dimension | 193206 | [193206-star-renegades-prime-dimension.json](./193206-star-renegades-prime-dimension.json) |
@@ -25502,6 +25507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: On the Edge of Chaos | 141254 | [141254-stronghold-on-the-edge-of-chaos.json](./141254-stronghold-on-the-edge-of-chaos.json) |
 | Stronghold: Warlords | 119368 | [119368-stronghold-warlords.json](./119368-stronghold-warlords.json) |
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
+| Stronghold: Warlords - Special Edition | 154182 | [154182-stronghold-warlords-special-edition.json](./154182-stronghold-warlords-special-edition.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
 | Stronghold2D | 183858 | [183858-stronghold2d.json](./183858-stronghold2d.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
@@ -26952,6 +26958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider Academy | 35976 | [35976-sunrider-academy.json](./35976-sunrider-academy.json) |
 | Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
+| Sunrider: Liberation Day - Captain's Edition | 154208 | [154208-sunrider-liberation-day-captains-edition.json](./154208-sunrider-liberation-day-captains-edition.json) |
 | Sunrider: Mask of Arcadius | 17639 | [17639-sunrider-mask-of-arcadius.json](./17639-sunrider-mask-of-arcadius.json) |
 | Sunrise | 186088 | [186088-sunrise.json](./186088-sunrise.json) |
 | Sunrise 7 | 135159 | [135159-sunrise-7.json](./135159-sunrise-7.json) |
@@ -30815,6 +30822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
 | Suzerain: Expanded Edition | 373584 | [373584-suzerain-expanded-edition.json](./373584-suzerain-expanded-edition.json) |
 | Suzerain: Kingdom of Rizia | 249958 | [249958-suzerain-kingdom-of-rizia.json](./249958-suzerain-kingdom-of-rizia.json) |
+| Suzerain: Presidential Edition | 154219 | [154219-suzerain-presidential-edition.json](./154219-suzerain-presidential-edition.json) |
 | Suzu ga Utau Hi | 263400 | [263400-suzu-ga-utau-hi.json](./263400-suzu-ga-utau-hi.json) |
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
