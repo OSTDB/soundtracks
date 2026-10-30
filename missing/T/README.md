@@ -11505,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
 | The Life of an Astronaut | 179027 | [179027-the-life-of-an-astronaut.json](./179027-the-life-of-an-astronaut.json) |
 | The Life of Arthur | 220692 | [220692-the-life-of-arthur.json](./220692-the-life-of-arthur.json) |
+| The Life of Bally | 167467 | [167467-the-life-of-bally.json](./167467-the-life-of-bally.json) |
 | The Life of Buzludzha | 364228 | [364228-the-life-of-buzludzha.json](./364228-the-life-of-buzludzha.json) |
 | The Life of Frederick Sommer | 148987 | [148987-the-life-of-frederick-sommer.json](./148987-the-life-of-frederick-sommer.json) |
 | The Life of Greather | 31998 | [31998-the-life-of-greather.json](./31998-the-life-of-greather.json) |
@@ -22370,6 +22371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombs of Myra | 323111 | [323111-tombs-of-myra.json](./323111-tombs-of-myra.json) |
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
 | TombStar | 138867 | [138867-tombstar.json](./138867-tombstar.json) |
+| Tombstone | 167470 | [167470-tombstone.json](./167470-tombstone.json) |
 | Tombstone City | 44377 | [44377-tombstone-city.json](./44377-tombstone-city.json) |
 | Tombstone City: 21st Century | 73720 | [73720-tombstone-city-21st-century.json](./73720-tombstone-city-21st-century.json) |
 | Tombstone Tactics | 421821 | [421821-tombstone-tactics.json](./421821-tombstone-tactics.json) |
