@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara, Space Rocks | 409424 | [409424-sayonara-space-rocks.json](./409424-sayonara-space-rocks.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
+| Sayri: The Beginning | 130521 | [130521-sayri-the-beginning.json](./130521-sayri-the-beginning.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
 | SBK 14: Official Mobile Game | 238673 | [238673-sbk-14-official-mobile-game.json](./238673-sbk-14-official-mobile-game.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
@@ -5788,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SFD | 105676 | [105676-sfd.json](./105676-sfd.json) |
 | Sfera | 346923 | [346923-sfera.json](./346923-sfera.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
+| SFG Soccer: Football Fever | 130523 | [130523-sfg-soccer-football-fever.json](./130523-sfg-soccer-football-fever.json) |
 | Sfinx | 228956 | [228956-sfinx.json](./228956-sfinx.json) |
 | SFPD Homicide / Case File: The Body in the Bay | 78441 | [78441-sfpd-homicide-case-file-the-body-in-the-bay.json](./78441-sfpd-homicide-case-file-the-body-in-the-bay.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
@@ -19676,6 +19678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Roll | 273860 | [273860-spiral-roll.json](./273860-spiral-roll.json) |
 | Spiral Smash | 244871 | [244871-spiral-smash.json](./244871-spiral-smash.json) |
+| Spiral Storm | 130514 | [130514-spiral-storm.json](./130514-spiral-storm.json) |
 | Spiral to Despair | 154309 | [154309-spiral-to-despair.json](./154309-spiral-to-despair.json) |
 | Spiral Up | 250812 | [250812-spiral-up.json](./250812-spiral-up.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
@@ -24622,6 +24625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
 | Storyngton Hall | 320291 | [320291-storyngton-hall.json](./320291-storyngton-hall.json) |
 | Storynth | 137568 | [137568-storynth.json](./137568-storynth.json) |
+| Storyscape | 130554 | [130554-storyscape.json](./130554-storyscape.json) |
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | StorySpark | 303283 | [303283-storyspark.json](./303283-storyspark.json) |
@@ -25373,6 +25377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Totochèr | 288760 | [288760-street-totocher.json](./288760-street-totocher.json) |
 | Street Trace: NYC | 21306 | [21306-street-trace-nyc.json](./21306-street-trace-nyc.json) |
 | Street Tuning Evolution | 112494 | [112494-street-tuning-evolution.json](./112494-street-tuning-evolution.json) |
+| Street Uni X | 130529 | [130529-street-uni-x.json](./130529-street-uni-x.json) |
 | Street Vendor Simulator | 347330 | [347330-street-vendor-simulator.json](./347330-street-vendor-simulator.json) |
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
@@ -28068,6 +28073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
 | Super Jacked Up Tomato Face Johnson | 222851 | [222851-super-jacked-up-tomato-face-johnson.json](./222851-super-jacked-up-tomato-face-johnson.json) |
+| Super Jagabata 2 | 130507 | [130507-super-jagabata-2.json](./130507-super-jagabata-2.json) |
 | Super Jagger Bomb | 216729 | [216729-super-jagger-bomb.json](./216729-super-jagger-bomb.json) |
 | Super Jagger Bomb 2: Go East | 328088 | [328088-super-jagger-bomb-2-go-east.json](./328088-super-jagger-bomb-2-go-east.json) |
 | Super Jagua | 31656 | [31656-super-jagua.json](./31656-super-jagua.json) |
