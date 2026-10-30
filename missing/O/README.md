@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneShot | 23181 | [23181-oneshot.json](./23181-oneshot.json) |
 | OneShot Challenge | 392416 | [392416-oneshot-challenge.json](./392416-oneshot-challenge.json) |
 | Oneshot Voca | 92400 | [92400-oneshot-voca.json](./92400-oneshot-voca.json) |
+| OneShot: Aftermath | 170173 | [170173-oneshot-aftermath.json](./170173-oneshot-aftermath.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
 | OneShot: Frostide | 327023 | [327023-oneshot-frostide.json](./327023-oneshot-frostide.json) |
 | OneShot: Solstice | 408574 | [408574-oneshot-solstice.json](./408574-oneshot-solstice.json) |
