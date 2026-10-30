@@ -4999,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos Dere.GB | 260851 | [260851-phobos-dere-gb.json](./260851-phobos-dere-gb.json) |
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
+| Phobos Mission Control | 138968 | [138968-phobos-mission-control.json](./138968-phobos-mission-control.json) |
 | Phobos Revisited | 313166 | [313166-phobos-revisited.json](./313166-phobos-revisited.json) |
 | Phobos Vector Prime | 108933 | [108933-phobos-vector-prime.json](./108933-phobos-vector-prime.json) |
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
@@ -5033,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Kaos Engines | 198293 | [198293-phoenix-point-kaos-engines.json](./198293-phoenix-point-kaos-engines.json) |
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
 | Phoenix Point: Living Weapons Pack | 152056 | [152056-phoenix-point-living-weapons-pack.json](./152056-phoenix-point-living-weapons-pack.json) |
+| Phoenix Point: Year One Edition | 138979 | [138979-phoenix-point-year-one-edition.json](./138979-phoenix-point-year-one-edition.json) |
 | Phoenix Point: Year One Edition - Festering Skies | 159694 | [159694-phoenix-point-year-one-edition-festering-skies.json](./159694-phoenix-point-year-one-edition-festering-skies.json) |
 | Phoenix R/C Pro Simulator v5.5 | 125934 | [125934-phoenix-r-c-pro-simulator-v5-5.json](./125934-phoenix-r-c-pro-simulator-v5-5.json) |
 | Phoenix Reborn Games Big Christmas bundle | 331484 | [331484-phoenix-reborn-games-big-christmas-bundle.json](./331484-phoenix-reborn-games-big-christmas-bundle.json) |
@@ -5515,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
 | Picta Mori | 222660 | [222660-picta-mori.json](./222660-picta-mori.json) |
 | Pictables | 232114 | [232114-pictables.json](./232114-pictables.json) |
+| Pictar.io | 138423 | [138423-pictar-io.json](./138423-pictar-io.json) |
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Pictective | 373272 | [373272-pictective.json](./373272-pictective.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
@@ -7885,6 +7888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Zippyron | 392351 | [392351-pixicharm-zippyron.json](./392351-pixicharm-zippyron.json) |
 | Pixie | 76171 | [76171-pixie.json](./76171-pixie.json) |
 | Pixie Farm VR | 169483 | [169483-pixie-farm-vr.json](./169483-pixie-farm-vr.json) |
+| Pixie Hollow | 138974 | [138974-pixie-hollow.json](./138974-pixie-hollow.json) |
 | Pixie Panic Garden | 110526 | [110526-pixie-panic-garden.json](./110526-pixie-panic-garden.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | Pixie Plates | 399654 | [399654-pixie-plates.json](./399654-pixie-plates.json) |
@@ -10943,6 +10947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon War | 406163 | [406163-polygon-war.json](./406163-polygon-war.json) |
 | Polygon Wars | 331730 | [331730-polygon-wars.json](./331730-polygon-wars.json) |
 | Polygon World VR | 156957 | [156957-polygon-world-vr.json](./156957-polygon-world-vr.json) |
+| Polygon: Life | 138437 | [138437-polygon-life.json](./138437-polygon-life.json) |
 | Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
@@ -12111,6 +12116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Lords: Quest for Volcan | 40924 | [40924-power-lords-quest-for-volcan.json](./40924-power-lords-quest-for-volcan.json) |
 | Power Math | 209898 | [209898-power-math.json](./209898-power-math.json) |
 | Power Meter | 341464 | [341464-power-meter.json](./341464-power-meter.json) |
+| Power Miners | 139002 | [139002-power-miners.json](./139002-power-miners.json) |
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Nazoler | 289752 | [289752-power-nazoler.json](./289752-power-nazoler.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
