@@ -3145,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
 | Jumpy Dog | 172752 | [172752-jumpy-dog.json](./172752-jumpy-dog.json) |
 | Jumpy Dunk! | 96755 | [96755-jumpy-dunk.json](./96755-jumpy-dunk.json) |
+| Jumpy Frogs | 175512 | [175512-jumpy-frogs.json](./175512-jumpy-frogs.json) |
 | Jumpy Haha | 367957 | [367957-jumpy-haha.json](./367957-jumpy-haha.json) |
 | Jumpy Horse | 88163 | [88163-jumpy-horse.json](./88163-jumpy-horse.json) |
 | Jumpy Horse Breeding | 87891 | [87891-jumpy-horse-breeding.json](./87891-jumpy-horse-breeding.json) |
