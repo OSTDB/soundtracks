@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuaries | 364280 | [364280-sanctuaries.json](./364280-sanctuaries.json) |
 | Sanctuaries | 404390 | [404390-sanctuaries.json](./404390-sanctuaries.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
+| Sanctuary | 176640 | [176640-sanctuary.json](./176640-sanctuary.json) |
 | Sanctuary | 178333 | [178333-sanctuary.json](./178333-sanctuary.json) |
 | Sanctuary Island | 150772 | [150772-sanctuary-island.json](./150772-sanctuary-island.json) |
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
@@ -15060,6 +15061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
 | Songs of Syx | 123861 | [123861-songs-of-syx.json](./123861-songs-of-syx.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
+| Songs of the Eons | 176614 | [176614-songs-of-the-eons.json](./176614-songs-of-the-eons.json) |
 | Songs of the Hmong | 250243 | [250243-songs-of-the-hmong.json](./250243-songs-of-the-hmong.json) |
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
@@ -16442,6 +16444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
+| Soul Stealer | 176669 | [176669-soul-stealer.json](./176669-soul-stealer.json) |
 | Soul Stitcher | 270484 | [270484-soul-stitcher.json](./270484-soul-stitcher.json) |
 | Soul Street | 275511 | [275511-soul-street.json](./275511-soul-street.json) |
 | Soul Strike | 297712 | [297712-soul-strike.json](./297712-soul-strike.json) |
@@ -30180,6 +30183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surveillance Simulator | 287736 | [287736-surveillance-simulator.json](./287736-surveillance-simulator.json) |
 | Survev.io | 324557 | [324557-survev-io.json](./324557-survev-io.json) |
 | SurvHive | 32377 | [32377-survhive.json](./32377-survhive.json) |
+| Survi.io | 176636 | [176636-survi-io.json](./176636-survi-io.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
 | SurviRail: Deep Space | 412193 | [412193-survirail-deep-space.json](./412193-survirail-deep-space.json) |
