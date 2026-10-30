@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark War: Survival | 329651 | [329651-dark-war-survival.json](./329651-dark-war-survival.json) |
 | Dark Watcher | 258586 | [258586-dark-watcher.json](./258586-dark-watcher.json) |
 | Dark Watching: Chapter 1 | 383633 | [383633-dark-watching-chapter-1.json](./383633-dark-watching-chapter-1.json) |
+| Dark Water | 129993 | [129993-dark-water.json](./129993-dark-water.json) |
 | Dark Water: Slime Invader | 147076 | [147076-dark-water-slime-invader.json](./147076-dark-water-slime-invader.json) |
 | Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
 | Dark Wind: War on Wheels | 78069 | [78069-dark-wind-war-on-wheels.json](./78069-dark-wind-war-on-wheels.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
 | Dead Don't Die | 301092 | [301092-dead-dont-die.json](./301092-dead-dont-die.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
+| Dead Dreams | 129987 | [129987-dead-dreams.json](./129987-dead-dreams.json) |
 | Dead Drop | 281441 | [281441-dead-drop.json](./281441-dead-drop.json) |
 | Dead Drop | 29562 | [29562-dead-drop.json](./29562-dead-drop.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
@@ -4043,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
 | Death Game Royale | 231418 | [231418-death-game-royale.json](./231418-death-game-royale.json) |
 | Death Gasp | 120732 | [120732-death-gasp.json](./120732-death-gasp.json) |
+| Death Gasp VR | 129975 | [129975-death-gasp-vr.json](./129975-death-gasp-vr.json) |
 | Death Gate | 2488 | [2488-death-gate.json](./2488-death-gate.json) |
 | Death Gaze | 184962 | [184962-death-gaze.json](./184962-death-gaze.json) |
 | Death Gear | 188338 | [188338-death-gear.json](./188338-death-gear.json) |
