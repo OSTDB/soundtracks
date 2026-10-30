@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombaliens | 185370 | [185370-zombaliens.json](./185370-zombaliens.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
 | Zombardment | 161647 | [161647-zombardment.json](./161647-zombardment.json) |
+| Zombase | 161555 | [161555-zombase.json](./161555-zombase.json) |
 | Zombase | 377134 | [377134-zombase.json](./377134-zombase.json) |
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
 | ZomBay | 287002 | [287002-zombay.json](./287002-zombay.json) |
