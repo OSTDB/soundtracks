@@ -7785,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Sword | 367752 | [367752-flying-sword.json](./367752-flying-sword.json) |
 | Flying Tank | 260602 | [260602-flying-tank.json](./260602-flying-tank.json) |
+| Flying Things | 151402 | [151402-flying-things.json](./151402-flying-things.json) |
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
 | Flying Tigers | 269764 | [269764-flying-tigers.json](./269764-flying-tigers.json) |
 | Flying Tigers II | 269763 | [269763-flying-tigers-ii.json](./269763-flying-tigers-ii.json) |
@@ -9911,6 +9912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured | 174010 | [174010-fractured.json](./174010-fractured.json) |
 | Fractured | 391691 | [391691-fractured.json](./391691-fractured.json) |
 | Fractured Alliance | 265588 | [265588-fractured-alliance.json](./265588-fractured-alliance.json) |
+| Fractured Atmosphere | 151399 | [151399-fractured-atmosphere.json](./151399-fractured-atmosphere.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
 | Fractured Blooms | 347648 | [347648-fractured-blooms.json](./347648-fractured-blooms.json) |
 | Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
