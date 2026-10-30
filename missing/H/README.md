@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanano Puzzle | 124570 | [124570-hanano-puzzle.json](./124570-hanano-puzzle.json) |
 | Hanano Puzzle 2 | 177237 | [177237-hanano-puzzle-2.json](./177237-hanano-puzzle-2.json) |
+| Hanaoni: Koi Someru Toki Towa no Shirushi | 140785 | [140785-hanaoni-koi-someru-toki-towa-no-shirushi.json](./140785-hanaoni-koi-someru-toki-towa-no-shirushi.json) |
 | Hanapon Princess | 135790 | [135790-hanapon-princess.json](./135790-hanapon-princess.json) |
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanasaka Tenshi Tenten-kun no Beat Breaker | 228500 | [228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json](./228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json) |
@@ -2370,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel | 31063 | [31063-haunted-hotel.json](./31063-haunted-hotel.json) |
+| Haunted Hotel 19: Lost Time | 140183 | [140183-haunted-hotel-19-lost-time.json](./140183-haunted-hotel-19-lost-time.json) |
 | Haunted Hotel II: Believe the Lies | 36450 | [36450-haunted-hotel-ii-believe-the-lies.json](./36450-haunted-hotel-ii-believe-the-lies.json) |
 | Haunted Hotel XVI: Beyond the Page - Collector's Edition | 261151 | [261151-haunted-hotel-xvi-beyond-the-page-collectors-edition.json](./261151-haunted-hotel-xvi-beyond-the-page-collectors-edition.json) |
 | Haunted Hotel: A Past Redeemed | 182399 | [182399-haunted-hotel-a-past-redeemed.json](./182399-haunted-hotel-a-past-redeemed.json) |
@@ -2675,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazel Rush | 413010 | [413010-hazel-rush.json](./413010-hazel-rush.json) |
 | Hazel Sky | 131883 | [131883-hazel-sky.json](./131883-hazel-sky.json) |
 | Hazel Sky: Deluxe Edition | 227180 | [227180-hazel-sky-deluxe-edition.json](./227180-hazel-sky-deluxe-edition.json) |
+| Hazel the Plant Witch | 140790 | [140790-hazel-the-plant-witch.json](./140790-hazel-the-plant-witch.json) |
 | Hazelnut Bastille | 36927 | [36927-hazelnut-bastille.json](./36927-hazelnut-bastille.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
 | Hazelnut Latte | 294175 | [294175-hazelnut-latte.json](./294175-hazelnut-latte.json) |
@@ -7235,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippocampus | 118034 | [118034-hippocampus.json](./118034-hippocampus.json) |
 | Hippodrom | 68565 | [68565-hippodrom.json](./68565-hippodrom.json) |
 | Hippodrome | 39680 | [39680-hippodrome.json](./39680-hippodrome.json) |
+| Hippoxxus | 140812 | [140812-hippoxxus.json](./140812-hippoxxus.json) |
 | Hippy Girls | 243062 | [243062-hippy-girls.json](./243062-hippy-girls.json) |
 | Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
 | Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
@@ -7269,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
 | Hired: Assassin Simulator | 244673 | [244673-hired-assassin-simulator.json](./244673-hired-assassin-simulator.json) |
 | Hirilun | 151062 | [151062-hirilun.json](./151062-hirilun.json) |
+| Hiro's Escape | 139603 | [139603-hiros-escape.json](./139603-hiros-escape.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
 | Hirogami | 317871 | [317871-hirogami.json](./317871-hirogami.json) |
@@ -7573,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
 | Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
+| Hive Mind | 139636 | [139636-hive-mind.json](./139636-hive-mind.json) |
 | Hive P v. S | 191378 | [191378-hive-p-v-s.json](./191378-hive-p-v-s.json) |
 | Hive Preserver | 177165 | [177165-hive-preserver.json](./177165-hive-preserver.json) |
 | Hive Quest | 104030 | [104030-hive-quest.json](./104030-hive-quest.json) |
@@ -8371,6 +8377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Hometown Store | 385637 | [385637-hometown-store.json](./385637-hometown-store.json) |
 | Hometown Story | 6808 | [6808-hometown-story.json](./6808-hometown-story.json) |
+| Hometown War | 140833 | [140833-hometown-war.json](./140833-hometown-war.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homeward | 237273 | [237273-homeward.json](./237273-homeward.json) |
 | Homeward | 271395 | [271395-homeward.json](./271395-homeward.json) |
@@ -8964,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horn Sounds | 262887 | [262887-horn-sounds.json](./262887-horn-sounds.json) |
 | Horn Swaggle Islands | 67828 | [67828-horn-swaggle-islands.json](./67828-horn-swaggle-islands.json) |
 | Horn-Nie | 291037 | [291037-horn-nie.json](./291037-horn-nie.json) |
+| Horned Knight | 139586 | [139586-horned-knight.json](./139586-horned-knight.json) |
 | Horned Monster | 188339 | [188339-horned-monster.json](./188339-horned-monster.json) |
 | Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
 | Hornets | 202613 | [202613-hornets.json](./202613-hornets.json) |
@@ -9821,6 +9829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
 | House Mansion Flipper | 330233 | [330233-house-mansion-flipper.json](./330233-house-mansion-flipper.json) |
 | House Number 666 | 123863 | [123863-house-number-666.json](./123863-house-number-666.json) |
+| House of 1,000 Doors: Serpent Flame | 140197 | [140197-house-of-1-000-doors-serpent-flame.json](./140197-house-of-1-000-doors-serpent-flame.json) |
 | House of 1000 Doors: Evil Inside | 116059 | [116059-house-of-1000-doors-evil-inside.json](./116059-house-of-1000-doors-evil-inside.json) |
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
@@ -10865,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Sniper | 296765 | [296765-hunting-sniper.json](./296765-hunting-sniper.json) |
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting the Hunter | 370994 | [370994-hunting-the-hunter.json](./370994-hunting-the-hunter.json) |
+| Hunting Unicorn | 140161 | [140161-hunting-unicorn.json](./140161-hunting-unicorn.json) |
 | Hunting Unlimited | 69183 | [69183-hunting-unlimited.json](./69183-hunting-unlimited.json) |
 | Hunting Unlimited 2 | 24100 | [24100-hunting-unlimited-2.json](./24100-hunting-unlimited-2.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
