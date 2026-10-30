@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Command | 403062 | [403062-battleship-command.json](./403062-battleship-command.json) |
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
 | Battleship Empire | 103104 | [103104-battleship-empire.json](./103104-battleship-empire.json) |
+| Battleship Godios | 151960 | [151960-battleship-godios.json](./151960-battleship-godios.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
 | Battleship Lonewolf 2 | 86604 | [86604-battleship-lonewolf-2.json](./86604-battleship-lonewolf-2.json) |
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
@@ -11595,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogie Bunnies | 21812 | [21812-boogie-bunnies.json](./21812-boogie-bunnies.json) |
 | Boogie Cruise | 352517 | [352517-boogie-cruise.json](./352517-boogie-cruise.json) |
 | Boogie Fungi | 368456 | [368456-boogie-fungi.json](./368456-boogie-fungi.json) |
+| Boogie Loops | 151961 | [151961-boogie-loops.json](./151961-boogie-loops.json) |
 | Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
 | BoogieBall Game | 130022 | [130022-boogieball-game.json](./130022-boogieball-game.json) |
