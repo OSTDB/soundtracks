@@ -5481,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario | 150668 | [150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json](./150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json) |
 | Nobunaga's Ambition: Souzou - Itsukushima Scenario | 150675 | [150675-nobunagas-ambition-souzou-itsukushima-scenario.json](./150675-nobunagas-ambition-souzou-itsukushima-scenario.json) |
 | Nobunaga's Ambition: Souzou - Nagashinonotatakai Scenario | 150662 | [150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json](./150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json) |
+| Nobunaga's Ambition: Souzou - Power Up Kit | 151386 | [151386-nobunagas-ambition-souzou-power-up-kit.json](./151386-nobunagas-ambition-souzou-power-up-kit.json) |
 | Nobunaga's Ambition: Souzou - Shingenjouraku Scenario | 150674 | [150674-nobunagas-ambition-souzou-shingenjouraku-scenario.json](./150674-nobunagas-ambition-souzou-shingenjouraku-scenario.json) |
 | Nobunaga's Ambition: Souzou - Tenkafubu Scenario | 150661 | [150661-nobunagas-ambition-souzou-tenkafubu-scenario.json](./150661-nobunagas-ambition-souzou-tenkafubu-scenario.json) |
 | Nobunaga's Ambition: Souzou - Tennouzan Scenario | 150667 | [150667-nobunagas-ambition-souzou-tennouzan-scenario.json](./150667-nobunagas-ambition-souzou-tennouzan-scenario.json) |
