@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang Nations | 60592 | [60592-gang-nations.json](./60592-gang-nations.json) |
 | Gang of Dragon | 381227 | [381227-gang-of-dragon.json](./381227-gang-of-dragon.json) |
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
+| Gang of Four: The Card Game | 174485 | [174485-gang-of-four-the-card-game.json](./174485-gang-of-four-the-card-game.json) |
 | Gang of Frogs | 369326 | [369326-gang-of-frogs.json](./369326-gang-of-frogs.json) |
 | Gang Start | 208178 | [208178-gang-start.json](./208178-gang-start.json) |
 | Gang Wars | 150778 | [150778-gang-wars.json](./150778-gang-wars.json) |
@@ -5426,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Nowhere | 387040 | [387040-gods-of-nowhere.json](./387040-gods-of-nowhere.json) |
 | Gods of Sand | 140268 | [140268-gods-of-sand.json](./140268-gods-of-sand.json) |
 | Gods of Savvarah: Part 1 | 224727 | [224727-gods-of-savvarah-part-1.json](./224727-gods-of-savvarah-part-1.json) |
+| Gods of Sparta | 174480 | [174480-gods-of-sparta.json](./174480-gods-of-sparta.json) |
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
 | Gods of the Fallen Land | 51413 | [51413-gods-of-the-fallen-land.json](./51413-gods-of-the-fallen-land.json) |
 | Gods of the Grid | 414265 | [414265-gods-of-the-grid.json](./414265-gods-of-the-grid.json) |
@@ -9115,6 +9117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Dungeoneering: Deluxe Edition | 54075 | [54075-guild-of-dungeoneering-deluxe-edition.json](./54075-guild-of-dungeoneering-deluxe-edition.json) |
 | Guild of Dungeoneering: Deluxe Ice Cream Edition | 51828 | [51828-guild-of-dungeoneering-deluxe-ice-cream-edition.json](./51828-guild-of-dungeoneering-deluxe-ice-cream-edition.json) |
 | Guild of Dungeoneering: Ice Cream Headaches | 51827 | [51827-guild-of-dungeoneering-ice-cream-headaches.json](./51827-guild-of-dungeoneering-ice-cream-headaches.json) |
+| Guild of Dungeoneering: Pirate's Cove | 174519 | [174519-guild-of-dungeoneering-pirates-cove.json](./174519-guild-of-dungeoneering-pirates-cove.json) |
 | Guild of Dungeoneering: Ultimate Edition | 152105 | [152105-guild-of-dungeoneering-ultimate-edition.json](./152105-guild-of-dungeoneering-ultimate-edition.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
