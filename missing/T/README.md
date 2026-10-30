@@ -2899,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technotopia | 291318 | [291318-technotopia.json](./291318-technotopia.json) |
 | TechnoTsunami | 132601 | [132601-technotsunami.json](./132601-technotsunami.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
+| Techpack | 164189 | [164189-techpack.json](./164189-techpack.json) |
 | Techpack Adventure | 335752 | [335752-techpack-adventure.json](./335752-techpack-adventure.json) |
 | Techtonica | 194465 | [194465-techtonica.json](./194465-techtonica.json) |
 | TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
@@ -7998,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape | 219555 | [219555-the-escape.json](./219555-the-escape.json) |
 | The Escape | 365256 | [365256-the-escape.json](./365256-the-escape.json) |
 | The Escape From Atlantis | 48312 | [48312-the-escape-from-atlantis.json](./48312-the-escape-from-atlantis.json) |
+| The Escape from Bungalow | 164182 | [164182-the-escape-from-bungalow.json](./164182-the-escape-from-bungalow.json) |
 | The Escape from the Hen-Roost | 69866 | [69866-the-escape-from-the-hen-roost.json](./69866-the-escape-from-the-hen-roost.json) |
 | The Escape Room Chronicles ep 4: The 24-Hour TV Station | 324122 | [324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json](./324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json) |
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
@@ -15329,6 +15331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of Miss Mouse | 306026 | [306026-the-story-of-miss-mouse.json](./306026-the-story-of-miss-mouse.json) |
 | The Story of My Life | 114774 | [114774-the-story-of-my-life.json](./114774-the-story-of-my-life.json) |
 | The Story of Red Cloud | 361223 | [361223-the-story-of-red-cloud.json](./361223-the-story-of-red-cloud.json) |
+| The Story of the Flood | 164171 | [164171-the-story-of-the-flood.json](./164171-the-story-of-the-flood.json) |
 | The Story of the Goddess Ankhanessa: Journey to the East | 181193 | [181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json](./181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
 | The StoryTale | 36467 | [36467-the-storytale.json](./36467-the-storytale.json) |
@@ -24267,6 +24270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
 | Towerlings | 387089 | [387089-towerlings.json](./387089-towerlings.json) |
 | TowerMadness HD | 96896 | [96896-towermadness-hd.json](./96896-towermadness-hd.json) |
+| TowerMancer | 164198 | [164198-towermancer.json](./164198-towermancer.json) |
 | TowerMancer II | 382337 | [382337-towermancer-ii.json](./382337-towermancer-ii.json) |
 | Towermouth | 419865 | [419865-towermouth.json](./419865-towermouth.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
@@ -26963,6 +26967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
 | Treasure of Big Totem: The Narrative | 315441 | [315441-treasure-of-big-totem-the-narrative.json](./315441-treasure-of-big-totem-the-narrative.json) |
 | Treasure of Cutlass Reef | 261211 | [261211-treasure-of-cutlass-reef.json](./261211-treasure-of-cutlass-reef.json) |
+| Treasure of Cutuma 3rd | 164205 | [164205-treasure-of-cutuma-3rd.json](./164205-treasure-of-cutuma-3rd.json) |
 | Treasure of Cutuma 3rd: Call of Guru | 173440 | [173440-treasure-of-cutuma-3rd-call-of-guru.json](./173440-treasure-of-cutuma-3rd-call-of-guru.json) |
 | Treasure of Cutuma 3rd: Family Doctor | 173441 | [173441-treasure-of-cutuma-3rd-family-doctor.json](./173441-treasure-of-cutuma-3rd-family-doctor.json) |
 | Treasure of Nadia | 127644 | [127644-treasure-of-nadia.json](./127644-treasure-of-nadia.json) |
