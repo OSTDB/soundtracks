@@ -2274,7 +2274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waternet | 233609 | [233609-waternet.json](./233609-waternet.json) |
 | Waternet | 318871 | [318871-waternet.json](./318871-waternet.json) |
 | Waterpark Simulator | 151019 | [151019-waterpark-simulator.json](./151019-waterpark-simulator.json) |
-| Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Waterpark Simulator 2025 | 391857 | [391857-waterpark-simulator-2025.json](./391857-waterpark-simulator-2025.json) |
 | Waterpark Simulator 25 | 371604 | [371604-waterpark-simulator-25.json](./371604-waterpark-simulator-25.json) |
 | Waterpark Tycoon | 53133 | [53133-waterpark-tycoon.json](./53133-waterpark-tycoon.json) |
