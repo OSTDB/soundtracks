@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Origin | 10949 | [10949-ys-origin.json](./10949-ys-origin.json) |
 | Ys Origin: Special Edition | 167141 | [167141-ys-origin-special-edition.json](./167141-ys-origin-special-edition.json) |
 | Ys Strategy | 15456 | [15456-ys-strategy.json](./15456-ys-strategy.json) |
+| Ys V: Lost Kefin, Kingdom of Sand | 168535 | [168535-ys-v-lost-kefin-kingdom-of-sand.json](./168535-ys-v-lost-kefin-kingdom-of-sand.json) |
 | Ys VI: The Ark of Napishtim | 200897 | [200897-ys-vi-the-ark-of-napishtim.json](./200897-ys-vi-the-ark-of-napishtim.json) |
 | YS VIII Mobile | 139223 | [139223-ys-viii-mobile.json](./139223-ys-viii-mobile.json) |
 | Ys VIII: Lacrimosa of Dana | 27304 | [27304-ys-viii-lacrimosa-of-dana.json](./27304-ys-viii-lacrimosa-of-dana.json) |
