@@ -10975,6 +10975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huuma Mina: The Game | 82501 | [82501-huuma-mina-the-game.json](./82501-huuma-mina-the-game.json) |
 | Huuma Mina: The Secret of Immortality | 137373 | [137373-huuma-mina-the-secret-of-immortality.json](./137373-huuma-mina-the-secret-of-immortality.json) |
 | Huusuienbu: Chapter Spring and Summer | 55706 | [55706-huusuienbu-chapter-spring-and-summer.json](./55706-huusuienbu-chapter-spring-and-summer.json) |
+| Huuuge Casino | 131137 | [131137-huuuge-casino.json](./131137-huuuge-casino.json) |
 | Huxley Pig | 67653 | [67653-huxley-pig.json](./67653-huxley-pig.json) |
 | Huxley: The Dystopia | 73011 | [73011-huxley-the-dystopia.json](./73011-huxley-the-dystopia.json) |
 | Huygens Principle | 51477 | [51477-huygens-principle.json](./51477-huygens-principle.json) |
