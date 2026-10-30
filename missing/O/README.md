@@ -3390,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbis - Throw them all! | 134980 | [134980-orbis-throw-them-all.json](./134980-orbis-throw-them-all.json) |
 | Orbis Fractura | 368587 | [368587-orbis-fractura.json](./368587-orbis-fractura.json) |
 | Orbis Fugae | 129613 | [129613-orbis-fugae.json](./129613-orbis-fugae.json) |
+| Orbis Multiplex | 176625 | [176625-orbis-multiplex.json](./176625-orbis-multiplex.json) |
 | Orbis Sepia: The End of Worlds | 168582 | [168582-orbis-sepia-the-end-of-worlds.json](./168582-orbis-sepia-the-end-of-worlds.json) |
 | Orbisia | 197129 | [197129-orbisia.json](./197129-orbisia.json) |
 | Orbit | 237266 | [237266-orbit.json](./237266-orbit.json) |
