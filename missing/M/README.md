@@ -9293,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MHRD | 29883 | [29883-mhrd.json](./29883-mhrd.json) |
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
+| Mì Chángshēng | 126763 | [126763-mi-changsheng.json](./126763-mi-changsheng.json) |
 | Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
 | Mi Mejor Regalo | 417985 | [417985-mi-mejor-regalo.json](./417985-mi-mejor-regalo.json) |
 | Mi Mi Mi | 119795 | [119795-mi-mi-mi.json](./119795-mi-mi-mi.json) |
@@ -12276,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Miss Popularity | 90458 | [90458-miss-popularity.json](./90458-miss-popularity.json) |
 | Miss Princess Miss Pri | 204400 | [204400-miss-princess-miss-pri.json](./204400-miss-princess-miss-pri.json) |
+| Miss Right? | 126765 | [126765-miss-right.json](./126765-miss-right.json) |
 | Miss Rosen's Wowtastic! Marching Band | 316732 | [316732-miss-rosens-wowtastic-marching-band.json](./316732-miss-rosens-wowtastic-marching-band.json) |
 | Miss Sasami is Losing Her Mind! | 409190 | [409190-miss-sasami-is-losing-her-mind.json](./409190-miss-sasami-is-losing-her-mind.json) |
 | Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
@@ -16594,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Twigs | 114435 | [114435-mr-twigs.json](./114435-mr-twigs.json) |
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr Wino | 60246 | [60246-mr-wino.json](./60246-mr-wino.json) |
+| Mr Zig | 126810 | [126810-mr-zig.json](./126810-mr-zig.json) |
 | Mr. "Bargain Expert" | 413075 | [413075-mr-bargain-expert.json](./413075-mr-bargain-expert.json) |
 | Mr. Akun's Jump | 287737 | [287737-mr-akuns-jump.json](./287737-mr-akuns-jump.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
