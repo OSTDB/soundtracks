@@ -4567,7 +4567,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
 | Outbreak Bundle | 83761 | [83761-outbreak-bundle.json](./83761-outbreak-bundle.json) |
+| Outbreak Co-Op Anthology | 164710 | [164710-outbreak-co-op-anthology.json](./164710-outbreak-co-op-anthology.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
+| Outbreak Definitive Collection | 164738 | [164738-outbreak-definitive-collection.json](./164738-outbreak-definitive-collection.json) |
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
 | Outbreak in Space VR | 81956 | [81956-outbreak-in-space-vr.json](./81956-outbreak-in-space-vr.json) |
 | Outbreak Island | 165386 | [165386-outbreak-island.json](./165386-outbreak-island.json) |
@@ -4625,12 +4627,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outbreak: The Full Monty Collection | 331417 | [331417-outbreak-the-full-monty-collection.json](./331417-outbreak-the-full-monty-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
+| Outbreak: The New Nightmare - Definitive Edition | 164736 | [164736-outbreak-the-new-nightmare-definitive-edition.json](./164736-outbreak-the-new-nightmare-definitive-edition.json) |
 | Outbreak: The New Nightmare - Revisited | 261358 | [261358-outbreak-the-new-nightmare-revisited.json](./261358-outbreak-the-new-nightmare-revisited.json) |
 | Outbreak: The Nightmare Chronicles | 90135 | [90135-outbreak-the-nightmare-chronicles.json](./90135-outbreak-the-nightmare-chronicles.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 2 | 168843 | [168843-outbreak-the-nightmare-chronicles-chapter-2.json](./168843-outbreak-the-nightmare-chronicles-chapter-2.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 3 | 168688 | [168688-outbreak-the-nightmare-chronicles-chapter-3.json](./168688-outbreak-the-nightmare-chronicles-chapter-3.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
 | Outbreak: The Nightmare Chronicles - Definitive Collection | 228940 | [228940-outbreak-the-nightmare-chronicles-definitive-collection.json](./228940-outbreak-the-nightmare-chronicles-definitive-collection.json) |
+| Outbreak: The Nightmare Chronicles - Definitive Edition | 164713 | [164713-outbreak-the-nightmare-chronicles-definitive-edition.json](./164713-outbreak-the-nightmare-chronicles-definitive-edition.json) |
 | Outbreak: The Nightmare Chronicles - Reinvestigated | 261362 | [261362-outbreak-the-nightmare-chronicles-reinvestigated.json](./261362-outbreak-the-nightmare-chronicles-reinvestigated.json) |
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
 | Outbreak: Zombies For Days Collection | 308586 | [308586-outbreak-zombies-for-days-collection.json](./308586-outbreak-zombies-for-days-collection.json) |
