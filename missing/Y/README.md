@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzie | 92892 | [92892-yahtzie.json](./92892-yahtzie.json) |
 | Yaiba: Ninja Gaiden Z | 5617 | [5617-yaiba-ninja-gaiden-z.json](./5617-yaiba-ninja-gaiden-z.json) |
 | Yak EzParrot's Adventure | 176761 | [176761-yak-ezparrots-adventure.json](./176761-yak-ezparrots-adventure.json) |
+| Yaka no Shitone | 153667 | [153667-yaka-no-shitone.json](./153667-yaka-no-shitone.json) |
 | Yakan Kouen | 396482 | [396482-yakan-kouen.json](./396482-yakan-kouen.json) |
 | Yakari: The Mystery of Four - Seasons | 84934 | [84934-yakari-the-mystery-of-four-seasons.json](./84934-yakari-the-mystery-of-four-seasons.json) |
 | Yakata Nightmare Project | 58780 | [58780-yakata-nightmare-project.json](./58780-yakata-nightmare-project.json) |
