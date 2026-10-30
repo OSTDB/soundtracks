@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Farm | 359286 | [359286-fantastic-farm.json](./359286-fantastic-farm.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
 | Fantastic Findings Hidden Seasons | 342827 | [342827-fantastic-findings-hidden-seasons.json](./342827-fantastic-findings-hidden-seasons.json) |
+| Fantastic Fishing | 132401 | [132401-fantastic-fishing.json](./132401-fantastic-fishing.json) |
 | Fantastic Fist | 258100 | [258100-fantastic-fist.json](./258100-fantastic-fist.json) |
 | Fantastic Football Fan Party | 268130 | [268130-fantastic-football-fan-party.json](./268130-fantastic-football-fan-party.json) |
 | Fantastic Fortune | 163157 | [163157-fantastic-fortune.json](./163157-fantastic-fortune.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Evidence: Cursed Island | 139773 | [139773-fatal-evidence-cursed-island.json](./139773-fatal-evidence-cursed-island.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Evidence: The Missing | 139774 | [139774-fatal-evidence-the-missing.json](./139774-fatal-evidence-the-missing.json) |
+| Fatal Evidence: The Missing - Collector's Edition | 132447 | [132447-fatal-evidence-the-missing-collectors-edition.json](./132447-fatal-evidence-the-missing-collectors-edition.json) |
 | Fatal Falls | 295825 | [295825-fatal-falls.json](./295825-fatal-falls.json) |
 | Fatal Fight | 33318 | [33318-fatal-fight.json](./33318-fatal-fight.json) |
 | Fatal Flash | 98227 | [98227-fatal-flash.json](./98227-fatal-flash.json) |
@@ -5362,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Flush | 107220 | [107220-fire-flush.json](./107220-fire-flush.json) |
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
+| Fire for Effect | 132438 | [132438-fire-for-effect.json](./132438-fire-for-effect.json) |
 | Fire From Heaven | 73888 | [73888-fire-from-heaven.json](./73888-fire-from-heaven.json) |
 | Fire Fu | 102618 | [102618-fire-fu.json](./102618-fire-fu.json) |
 | Fire Galaxy | 73352 | [73352-fire-galaxy.json](./73352-fire-galaxy.json) |
@@ -6659,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Harpy Daddy | 345830 | [345830-flappy-harpy-daddy.json](./345830-flappy-harpy-daddy.json) |
 | Flappy Helix | 265757 | [265757-flappy-helix.json](./265757-flappy-helix.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
+| Flappy Hypership Out of Control | 132446 | [132446-flappy-hypership-out-of-control.json](./132446-flappy-hypership-out-of-control.json) |
 | Flappy Limited '85 | 47528 | [47528-flappy-limited-85.json](./47528-flappy-limited-85.json) |
 | Flappy Lovers 2 | 235140 | [235140-flappy-lovers-2.json](./235140-flappy-lovers-2.json) |
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
