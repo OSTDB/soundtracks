@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of Sonria | 64154 | [64154-war-of-sonria.json](./64154-war-of-sonria.json) |
+| War of Stealth Assassin | 145960 | [145960-war-of-stealth-assassin.json](./145960-war-of-stealth-assassin.json) |
 | War of Tanks: Blitzkrieg | 288435 | [288435-war-of-tanks-blitzkrieg.json](./288435-war-of-tanks-blitzkrieg.json) |
 | War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
 | War of the Ancients | 110222 | [110222-war-of-the-ancients.json](./110222-war-of-the-ancients.json) |
@@ -3828,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where We Remain | 242922 | [242922-where-we-remain.json](./242922-where-we-remain.json) |
 | Where We Used to Play | 385956 | [385956-where-we-used-to-play.json](./385956-where-we-used-to-play.json) |
 | Where wh..? | 305971 | [305971-where-wh.json](./305971-where-wh.json) |
+| Where Wind Becomes Quiet | 147003 | [147003-where-wind-becomes-quiet.json](./147003-where-wind-becomes-quiet.json) |
 | Where Winds Meet: Hidden Mountain | 405087 | [405087-where-winds-meet-hidden-mountain.json](./405087-where-winds-meet-hidden-mountain.json) |
 | Where Winds Meet: Live to Game | 384243 | [384243-where-winds-meet-live-to-game.json](./384243-where-winds-meet-live-to-game.json) |
 | Where Winds Meet: Spring's Bliss | 388906 | [388906-where-winds-meet-springs-bliss.json](./388906-where-winds-meet-springs-bliss.json) |
@@ -5777,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches & Vampires Ghost Pirates of Ashburry | 47812 | [47812-witches-and-vampires-ghost-pirates-of-ashburry.json](./47812-witches-and-vampires-ghost-pirates-of-ashburry.json) |
 | Witches & Vampires: The Secrets of Ashburry | 47813 | [47813-witches-and-vampires-the-secrets-of-ashburry.json](./47813-witches-and-vampires-the-secrets-of-ashburry.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
+| Witches and Bandits and Swords (Oh My) | 147013 | [147013-witches-and-bandits-and-swords-oh-my.json](./147013-witches-and-bandits-and-swords-oh-my.json) |
 | Witches at Summer's End | 225518 | [225518-witches-at-summers-end.json](./225518-witches-at-summers-end.json) |
 | Witches Craft | 103956 | [103956-witches-craft.json](./103956-witches-craft.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
@@ -7177,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World End Coed | 159763 | [159763-world-end-coed.json](./159763-world-end-coed.json) |
 | World End Diner | 152715 | [152715-world-end-diner.json](./152715-world-end-diner.json) |
 | World End Economica | 23438 | [23438-world-end-economica.json](./23438-world-end-economica.json) |
+| World End Economica Complete | 145966 | [145966-world-end-economica-complete.json](./145966-world-end-economica-complete.json) |
 | World End Economica: Episode.03 | 31319 | [31319-world-end-economica-episode-03.json](./31319-world-end-economica-episode-03.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
@@ -7467,7 +7471,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Anshan Pack | 155372 | [155372-world-of-warships-anshan-pack.json](./155372-world-of-warships-anshan-pack.json) |
 | World of Warships: Aurora Steam Edition | 196120 | [196120-world-of-warships-aurora-steam-edition.json](./196120-world-of-warships-aurora-steam-edition.json) |
 | World of Warships: DLC to Celebrate the Year of the Dragon | 289326 | [289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json](./289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json) |
+| World of Warships: Godzilla - Apex Monster | 147042 | [147042-world-of-warships-godzilla-apex-monster.json](./147042-world-of-warships-godzilla-apex-monster.json) |
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
+| World of Warships: Kong - Primordial Rage | 147041 | [147041-world-of-warships-kong-primordial-rage.json](./147041-world-of-warships-kong-primordial-rage.json) |
 | World of Warships: Legends | 107250 | [107250-world-of-warships-legends.json](./107250-world-of-warships-legends.json) |
 | World of Warships: Legends - A Tale of Bravery | 334551 | [334551-world-of-warships-legends-a-tale-of-bravery.json](./334551-world-of-warships-legends-a-tale-of-bravery.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
