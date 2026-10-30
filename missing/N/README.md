@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namida no Sokoban Special | 41295 | [41295-namida-no-sokoban-special.json](./41295-namida-no-sokoban-special.json) |
 | Namiko | 64127 | [64127-namiko.json](./64127-namiko.json) |
 | Nammo | 368794 | [368794-nammo.json](./368794-nammo.json) |
+| Namnokh | 158880 | [158880-namnokh.json](./158880-namnokh.json) |
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
