@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellowlooper | 167521 | [167521-yellowlooper.json](./167521-yellowlooper.json) |
 | YellowPips | 384185 | [384185-yellowpips.json](./384185-yellowpips.json) |
 | Yellowtoy | 118116 | [118116-yellowtoy.json](./118116-yellowtoy.json) |
+| Yeminj | 150384 | [150384-yeminj.json](./150384-yeminj.json) |
 | Yemita | 183306 | [183306-yemita.json](./183306-yemita.json) |
 | Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
 | Yendorian Tales Book I | 2514 | [2514-yendorian-tales-book-i.json](./2514-yendorian-tales-book-i.json) |
