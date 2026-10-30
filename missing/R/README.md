@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Commander: Battle of Britain ’40 | 418701 | [418701-radio-commander-battle-of-britain-40.json](./418701-radio-commander-battle-of-britain-40.json) |
 | Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
 | Radio Commander: Pacific '41 | 212140 | [212140-radio-commander-pacific-41.json](./212140-radio-commander-pacific-41.json) |
+| Radio Commander: Squad Management | 172329 | [172329-radio-commander-squad-management.json](./172329-radio-commander-squad-management.json) |
 | Radio Controlled Racer | 93155 | [93155-radio-controlled-racer.json](./93155-radio-controlled-racer.json) |
 | Radio Decay | 404937 | [404937-radio-decay.json](./404937-radio-decay.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
@@ -2052,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raving Rabbids Travel in Time Browser | 83902 | [83902-raving-rabbids-travel-in-time-browser.json](./83902-raving-rabbids-travel-in-time-browser.json) |
 | Raving Rabbids: Alive and Kicking | 20221 | [20221-raving-rabbids-alive-and-kicking.json](./20221-raving-rabbids-alive-and-kicking.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
+| Ravished Realms | 172359 | [172359-ravished-realms.json](./172359-ravished-realms.json) |
 | Ravisod | 272170 | [272170-ravisod.json](./272170-ravisod.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
 | Ravva and the Cyclops Curse | 110675 | [110675-ravva-and-the-cyclops-curse.json](./110675-ravva-and-the-cyclops-curse.json) |
@@ -5431,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Unicorn Attack | 372501 | [372501-retro-unicorn-attack.json](./372501-retro-unicorn-attack.json) |
 | Retro Vaders: Reloaded | 133725 | [133725-retro-vaders-reloaded.json](./133725-retro-vaders-reloaded.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
+| Retro War | 172313 | [172313-retro-war.json](./172313-retro-war.json) |
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
 | Retro Wars: Episodio IV 1/4 | 341538 | [341538-retro-wars-episodio-iv-1-4.json](./341538-retro-wars-episodio-iv-1-4.json) |
 | Retro Wave | 306370 | [306370-retro-wave.json](./306370-retro-wave.json) |
@@ -5903,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution 3 | 261098 | [261098-revolution-3.json](./261098-revolution-3.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
 | Revolution Core | 422073 | [422073-revolution-core.json](./422073-revolution-core.json) |
+| Revolution Diabolique | 172317 | [172317-revolution-diabolique.json](./172317-revolution-diabolique.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution Kart DS | 338848 | [338848-revolution-kart-ds.json](./338848-revolution-kart-ds.json) |
@@ -9079,6 +9083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogues' Tales | 174779 | [174779-rogues-tales.json](./174779-rogues-tales.json) |
 | Roguescape | 131936 | [131936-roguescape.json](./131936-roguescape.json) |
 | RogueScape | 404080 | [404080-roguescape.json](./404080-roguescape.json) |
+| Rogueslide | 172308 | [172308-rogueslide.json](./172308-rogueslide.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | RogueStone | 196418 | [196418-roguestone.json](./196418-roguestone.json) |
 | RogueStone 2: Open World | 249947 | [249947-roguestone-2-open-world.json](./249947-roguestone-2-open-world.json) |
