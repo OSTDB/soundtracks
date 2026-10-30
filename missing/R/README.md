@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain of Flames | 134917 | [134917-rain-of-flames.json](./134917-rain-of-flames.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
+| Rain of Reflections: Set Free | 138971 | [138971-rain-of-reflections-set-free.json](./138971-rain-of-reflections-set-free.json) |
 | Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
 | Rain on Your Parade | 129057 | [129057-rain-on-your-parade.json](./129057-rain-on-your-parade.json) |
 | Rain on Your Parade + Just Crow Things | 331909 | [331909-rain-on-your-parade-just-crow-things.json](./331909-rain-on-your-parade-just-crow-things.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rascal | 94445 | [94445-rascal.json](./94445-rascal.json) |
 | Rascal Racers | 43806 | [43806-rascal-racers.json](./43806-rascal-racers.json) |
 | Rascal Revolt | 153444 | [153444-rascal-revolt.json](./153444-rascal-revolt.json) |
+| Rascal’s Escape | 139017 | [139017-rascal-s-escape.json](./139017-rascal-s-escape.json) |
 | Rascallz: Tiki Tiki | 385610 | [385610-rascallz-tiki-tiki.json](./385610-rascallz-tiki-tiki.json) |
 | Rascals | 110130 | [110130-rascals.json](./110130-rascals.json) |
 | Rasek | 231317 | [231317-rasek.json](./231317-rasek.json) |
@@ -2028,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenbound: Hammers of Ávalt | 255152 | [255152-ravenbound-hammers-of-avalt.json](./255152-ravenbound-hammers-of-avalt.json) |
 | Ravenclaw Common Room VR | 406721 | [406721-ravenclaw-common-room-vr.json](./406721-ravenclaw-common-room-vr.json) |
 | Ravendawn | 140863 | [140863-ravendawn.json](./140863-ravendawn.json) |
+| Ravenfall | 138421 | [138421-ravenfall.json](./138421-ravenfall.json) |
 | Ravenfield | 26481 | [26481-ravenfield.json](./26481-ravenfield.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
@@ -2631,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Fishing 3D | 275448 | [275448-real-fishing-3d.json](./275448-real-fishing-3d.json) |
 | Real Fishing Pro 3D | 93703 | [93703-real-fishing-pro-3d.json](./93703-real-fishing-pro-3d.json) |
 | Real Fishing VR | 115634 | [115634-real-fishing-vr.json](./115634-real-fishing-vr.json) |
+| Real Flight 9 | 138408 | [138408-real-flight-9.json](./138408-real-flight-9.json) |
 | Real Football | 174812 | [174812-real-football.json](./174812-real-football.json) |
 | Real Football 2014 | 116349 | [116349-real-football-2014.json](./116349-real-football-2014.json) |
 | Real Football 2015 | 116350 | [116350-real-football-2015.json](./116350-real-football-2015.json) |
@@ -4487,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant: From the Ashes - Complete Edition | 164747 | [164747-remnant-from-the-ashes-complete-edition.json](./164747-remnant-from-the-ashes-complete-edition.json) |
 | Remnant: From the Ashes - Subject 2923 | 134829 | [134829-remnant-from-the-ashes-subject-2923.json](./134829-remnant-from-the-ashes-subject-2923.json) |
 | Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
+| Remnant: Planar Wars 3D | 138433 | [138433-remnant-planar-wars-3d.json](./138433-remnant-planar-wars-3d.json) |
 | Remnants | 134335 | [134335-remnants.json](./134335-remnants.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
 | Remnants of a Beautiful Day | 94055 | [94055-remnants-of-a-beautiful-day.json](./94055-remnants-of-a-beautiful-day.json) |
@@ -5289,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resultarias | 145848 | [145848-resultarias.json](./145848-resultarias.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurface.exe | 372834 | [372834-resurface-exe.json](./372834-resurface-exe.json) |
+| Resurgence | 138985 | [138985-resurgence.json](./138985-resurgence.json) |
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
@@ -5521,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | Retrocausality | 237247 | [237247-retrocausality.json](./237247-retrocausality.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
+| Retrocycles | 138417 | [138417-retrocycles.json](./138417-retrocycles.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
 | Retrograde | 145866 | [145866-retrograde.json](./145866-retrograde.json) |
@@ -5821,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverb | 304536 | [304536-reverb.json](./304536-reverb.json) |
 | Reverb Arcade | 256145 | [256145-reverb-arcade.json](./256145-reverb-arcade.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
+| ReverC | 138994 | [138994-reverc.json](./138994-reverc.json) |
 | Reverence | 193732 | [193732-reverence.json](./193732-reverence.json) |
 | Reverence: The Ultimate Combat Experience | 32493 | [32493-reverence-the-ultimate-combat-experience.json](./32493-reverence-the-ultimate-combat-experience.json) |
 | Reverend | 305123 | [305123-reverend.json](./305123-reverend.json) |
@@ -7379,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivalia Online | 383048 | [383048-rivalia-online.json](./383048-rivalia-online.json) |
 | Rivalia: Dungeon Raiders | 211670 | [211670-rivalia-dungeon-raiders.json](./211670-rivalia-dungeon-raiders.json) |
 | Rivalry | 33817 | [33817-rivalry.json](./33817-rivalry.json) |
+| Rivals | 139007 | [139007-rivals.json](./139007-rivals.json) |
 | Rivals at War | 59631 | [59631-rivals-at-war.json](./59631-rivals-at-war.json) |
 | Rivals at War: 2084 | 59630 | [59630-rivals-at-war-2084.json](./59630-rivals-at-war-2084.json) |
 | Rivals at War: Firefight | 59628 | [59628-rivals-at-war-firefight.json](./59628-rivals-at-war-firefight.json) |
@@ -9096,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Slots | 386872 | [386872-rogue-slots.json](./386872-rogue-slots.json) |
 | Rogue Snake | 345353 | [345353-rogue-snake.json](./345353-rogue-snake.json) |
 | Rogue Snow: Everwinter | 155824 | [155824-rogue-snow-everwinter.json](./155824-rogue-snow-everwinter.json) |
+| Rogue Souls | 138438 | [138438-rogue-souls.json](./138438-rogue-souls.json) |
 | Rogue Soulstone | 201659 | [201659-rogue-soulstone.json](./201659-rogue-soulstone.json) |
 | Rogue Spear | 22056 | [22056-rogue-spear.json](./22056-rogue-spear.json) |
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
@@ -10790,6 +10800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
 | Ruina: Haito no Monogatari | 152475 | [152475-ruina-haito-no-monogatari.json](./152475-ruina-haito-no-monogatari.json) |
+| Ruinarch | 138411 | [138411-ruinarch.json](./138411-ruinarch.json) |
 | Ruinarch + Legend of Keepers: Overlord Bundle | 284748 | [284748-ruinarch-legend-of-keepers-overlord-bundle.json](./284748-ruinarch-legend-of-keepers-overlord-bundle.json) |
 | Ruinas | 308318 | [308318-ruinas.json](./308318-ruinas.json) |
 | Ruinas de Maimará | 326145 | [326145-ruinas-de-maimara.json](./326145-ruinas-de-maimara.json) |
@@ -11195,6 +11206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Infinite | 195025 | [195025-rune-infinite.json](./195025-rune-infinite.json) |
 | Rune Jade | 77572 | [77572-rune-jade.json](./77572-rune-jade.json) |
+| Rune Knights | 138412 | [138412-rune-knights.json](./138412-rune-knights.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Lord | 117609 | [117609-rune-lord.json](./117609-rune-lord.json) |
 | Rune Monster | 402883 | [402883-rune-monster.json](./402883-rune-monster.json) |
