@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
 | Seeds of Calamity | 194561 | [194561-seeds-of-calamity.json](./194561-seeds-of-calamity.json) |
 | Seeds of Chaos | 138017 | [138017-seeds-of-chaos.json](./138017-seeds-of-chaos.json) |
+| Seeds of Friendship | 150383 | [150383-seeds-of-friendship.json](./150383-seeds-of-friendship.json) |
 | Seeds of Hope: The Last Stand | 184561 | [184561-seeds-of-hope-the-last-stand.json](./184561-seeds-of-hope-the-last-stand.json) |
 | Seeds of Love | 120204 | [120204-seeds-of-love.json](./120204-seeds-of-love.json) |
 | Seeds of Paradise | 296607 | [296607-seeds-of-paradise.json](./296607-seeds-of-paradise.json) |
@@ -11465,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skystead Ranch | 258560 | [258560-skystead-ranch.json](./258560-skystead-ranch.json) |
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
+| Skythrone | 150347 | [150347-skythrone.json](./150347-skythrone.json) |
 | SkyTrip America | 208916 | [208916-skytrip-america.json](./208916-skytrip-america.json) |
 | Skytropolis | 74255 | [74255-skytropolis.json](./74255-skytropolis.json) |
 | Skyts | 279042 | [279042-skyts.json](./279042-skyts.json) |
@@ -17522,6 +17524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
 | Space Junk | 179541 | [179541-space-junk.json](./179541-space-junk.json) |
+| Space Junk Heroes | 150345 | [150345-space-junk-heroes.json](./150345-space-junk-heroes.json) |
 | Space Junk Patrol | 33933 | [33933-space-junk-patrol.json](./33933-space-junk-patrol.json) |
 | Space Junk Rage | 180041 | [180041-space-junk-rage.json](./180041-space-junk-rage.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
@@ -24199,6 +24202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop and Breathe | 334005 | [334005-stop-and-breathe.json](./334005-stop-and-breathe.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop and Go! HD | 90806 | [90806-stop-and-go-hd.json](./90806-stop-and-go-hd.json) |
+| Stop and Move | 150360 | [150360-stop-and-move.json](./150360-stop-and-move.json) |
 | Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
 | Stop Ball | 273013 | [273013-stop-ball.json](./273013-stop-ball.json) |
 | Stop Burying Me Alive, Beautiful! | 270154 | [270154-stop-burying-me-alive-beautiful.json](./270154-stop-burying-me-alive-beautiful.json) |
@@ -25160,6 +25164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Racing: Tokyo Rush | 147075 | [147075-street-racing-tokyo-rush.json](./147075-street-racing-tokyo-rush.json) |
+| Street Racing: United | 150379 | [150379-street-racing-united.json](./150379-street-racing-united.json) |
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Rider | 369456 | [369456-street-rider.json](./369456-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
