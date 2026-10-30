@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Manager | 320444 | [320444-mall-manager.json](./320444-mall-manager.json) |
 | Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
+| Mall Master | 132407 | [132407-mall-master.json](./132407-mall-master.json) |
 | Mall of America Tycoon | 67895 | [67895-mall-of-america-tycoon.json](./67895-mall-of-america-tycoon.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall of Mayhem: All Skins Pack | 254087 | [254087-mall-of-mayhem-all-skins-pack.json](./254087-mall-of-mayhem-all-skins-pack.json) |
@@ -15687,6 +15688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosquito Alive | 241563 | [241563-mosquito-alive.json](./241563-mosquito-alive.json) |
 | Mosquito Must Die | 243842 | [243842-mosquito-must-die.json](./243842-mosquito-must-die.json) |
 | Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
+| Mosquitoes and zombies | 132410 | [132410-mosquitoes-and-zombies.json](./132410-mosquitoes-and-zombies.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
 | Moss Moss | 393732 | [393732-moss-moss.json](./393732-moss-moss.json) |
