@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
 | Rasetsu Fumaden | 207676 | [207676-rasetsu-fumaden.json](./207676-rasetsu-fumaden.json) |
+| Rasetsu Fuumaden | 153051 | [153051-rasetsu-fuumaden.json](./153051-rasetsu-fuumaden.json) |
 | Rasetsu Xan | 200868 | [200868-rasetsu-xan.json](./200868-rasetsu-xan.json) |
 | Rashlander | 116832 | [116832-rashlander.json](./116832-rashlander.json) |
 | Rashness | 185390 | [185390-rashness.json](./185390-rashness.json) |
@@ -4403,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember | 350935 | [350935-remember.json](./350935-remember.json) |
 | Remember Easter | 341380 | [341380-remember-easter.json](./341380-remember-easter.json) |
 | Remember Mary | 177961 | [177961-remember-mary.json](./177961-remember-mary.json) |
+| Remember Me | 153070 | [153070-remember-me.json](./153070-remember-me.json) |
 | Remember Me | 372230 | [372230-remember-me.json](./372230-remember-me.json) |
 | Remember Me Before Andromeda | 364366 | [364366-remember-me-before-andromeda.json](./364366-remember-me-before-andromeda.json) |
 | Remember Places? | 177346 | [177346-remember-places.json](./177346-remember-places.json) |
@@ -4651,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reparathor | 183722 | [183722-reparathor.json](./183722-reparathor.json) |
 | Reparative | 177376 | [177376-reparative.json](./177376-reparative.json) |
 | Repartiendo Máscaras por Carratraca | 388511 | [388511-repartiendo-mascaras-por-carratraca.json](./388511-repartiendo-mascaras-por-carratraca.json) |
+| Repeat | 153033 | [153033-repeat.json](./153033-repeat.json) |
 | Repeat After Death | 327162 | [327162-repeat-after-death.json](./327162-repeat-after-death.json) |
 | Repeat After Me | 258598 | [258598-repeat-after-me.json](./258598-repeat-after-me.json) |
 | Repeat It Back To Me | 397840 | [397840-repeat-it-back-to-me.json](./397840-repeat-it-back-to-me.json) |
@@ -7876,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboban: Colors | 302938 | [302938-roboban-colors.json](./302938-roboban-colors.json) |
 | Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
 | RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
+| Robobo TM | 153077 | [153077-robobo-tm.json](./153077-robobo-tm.json) |
 | RoboBunnies In Space! | 111495 | [111495-robobunnies-in-space.json](./111495-robobunnies-in-space.json) |
 | Robocalypse | 21454 | [21454-robocalypse.json](./21454-robocalypse.json) |
 | Robocalypse: Beaver Defense | 69126 | [69126-robocalypse-beaver-defense.json](./69126-robocalypse-beaver-defense.json) |
