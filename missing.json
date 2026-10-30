@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T02:49:13.333Z",
-  "total_missing": 282098,
+  "generated_at": "2026-10-30T03:03:24.826Z",
+  "total_missing": 282146,
   "games": [
     {
       "igdb_id": 191680,
@@ -90882,6 +90882,11 @@
       "file": "missing/A/14879-attack-on-titan.json"
     },
     {
+      "igdb_id": 170146,
+      "game_name": "Attack on Titan 2: Biological Research Scout Mission",
+      "file": "missing/A/170146-attack-on-titan-2-biological-research-scout-mission.json"
+    },
+    {
       "igdb_id": 118888,
       "game_name": "Attack on Titan 2: Deluxe Edition",
       "file": "missing/A/118888-attack-on-titan-2-deluxe-edition.json"
@@ -101465,11 +101470,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -128305,6 +128305,11 @@
       "igdb_id": 147869,
       "game_name": "Beyond Enemy Lines: Essentials",
       "file": "missing/B/147869-beyond-enemy-lines-essentials.json"
+    },
+    {
+      "igdb_id": 170165,
+      "game_name": "Beyond Enemy Lines: Operation - Arctic Hawk",
+      "file": "missing/B/170165-beyond-enemy-lines-operation-arctic-hawk.json"
     },
     {
       "igdb_id": 115599,
@@ -210417,6 +210422,11 @@
       "file": "missing/C/36308-chicken-invaders-4.json"
     },
     {
+      "igdb_id": 170138,
+      "game_name": "Chicken Invaders 4: Easter Edition",
+      "file": "missing/C/170138-chicken-invaders-4-easter-edition.json"
+    },
+    {
       "igdb_id": 11716,
       "game_name": "Chicken Invaders 4: Ultimate Omelette",
       "file": "missing/C/11716-chicken-invaders-4-ultimate-omelette.json"
@@ -223990,6 +224000,11 @@
       "igdb_id": 120121,
       "game_name": "Click Space Miner 2",
       "file": "missing/C/120121-click-space-miner-2.json"
+    },
+    {
+      "igdb_id": 170121,
+      "game_name": "Click Space Miner 2: Deluxe Edition",
+      "file": "missing/C/170121-click-space-miner-2-deluxe-edition.json"
     },
     {
       "igdb_id": 365716,
@@ -254947,6 +254962,11 @@
       "file": "missing/C/10619-cricket-07.json"
     },
     {
+      "igdb_id": 170123,
+      "game_name": "Cricket 19: Ultimate Edition",
+      "file": "missing/C/170123-cricket-19-ultimate-edition.json"
+    },
+    {
       "igdb_id": 79891,
       "game_name": "Cricket 2000",
       "file": "missing/C/79891-cricket-2000.json"
@@ -285247,6 +285267,11 @@
       "file": "missing/D/325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json"
     },
     {
+      "igdb_id": 170164,
+      "game_name": "DCS World: Black Shark 2 - Republic Campaign",
+      "file": "missing/D/170164-dcs-world-black-shark-2-republic-campaign.json"
+    },
+    {
       "igdb_id": 324663,
       "game_name": "DCS World: Black Shark 3",
       "file": "missing/D/324663-dcs-world-black-shark-3.json"
@@ -285292,6 +285317,21 @@
       "file": "missing/D/162860-dcs-world-f-15c.json"
     },
     {
+      "igdb_id": 170152,
+      "game_name": "DCS World: F-15C - Aggressors BFM Campaign",
+      "file": "missing/D/170152-dcs-world-f-15c-aggressors-bfm-campaign.json"
+    },
+    {
+      "igdb_id": 170150,
+      "game_name": "DCS World: F-15C - Red Flag Campaign",
+      "file": "missing/D/170150-dcs-world-f-15c-red-flag-campaign.json"
+    },
+    {
+      "igdb_id": 170155,
+      "game_name": "DCS World: F-15C - The Georgian War Campaign",
+      "file": "missing/D/170155-dcs-world-f-15c-the-georgian-war-campaign.json"
+    },
+    {
       "igdb_id": 254774,
       "game_name": "DCS World: F-15E",
       "file": "missing/D/254774-dcs-world-f-15e.json"
@@ -285320,6 +285360,16 @@
       "igdb_id": 274977,
       "game_name": "DCS World: F-4E Phantom II by Heatblur Simulations",
       "file": "missing/D/274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json"
+    },
+    {
+      "igdb_id": 170154,
+      "game_name": "DCS World: F-5E - Aggressors Air Combat Maneuver Campaign",
+      "file": "missing/D/170154-dcs-world-f-5e-aggressors-air-combat-maneuver-campaign.json"
+    },
+    {
+      "igdb_id": 170153,
+      "game_name": "DCS World: F-5E - Aggressors Basic Fighter Maneuvers Campaign",
+      "file": "missing/D/170153-dcs-world-f-5e-aggressors-basic-fighter-maneuvers-campaign.json"
     },
     {
       "igdb_id": 321853,
@@ -285437,6 +285487,16 @@
       "file": "missing/D/261935-dcs-world-mi-24p-the-border-prequel-campaign-by-armen-murazyan.json"
     },
     {
+      "igdb_id": 170156,
+      "game_name": "DCS World: Mi-8MTV2 - Oilfield Campaign",
+      "file": "missing/D/170156-dcs-world-mi-8mtv2-oilfield-campaign.json"
+    },
+    {
+      "igdb_id": 170145,
+      "game_name": "DCS World: Mi-8MTV2 - The Border Campaign",
+      "file": "missing/D/170145-dcs-world-mi-8mtv2-the-border-campaign.json"
+    },
+    {
       "igdb_id": 325910,
       "game_name": "DCS World: Mi-8MTV2 and Ka-50: Memory of a Hero Campaign by Stone Sky",
       "file": "missing/D/325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json"
@@ -285502,9 +285562,19 @@
       "file": "missing/D/304372-dcs-world-oh-58d-kiowa-warrior.json"
     },
     {
+      "igdb_id": 170151,
+      "game_name": "DCS World: P-51D - High Stakes Campaign",
+      "file": "missing/D/170151-dcs-world-p-51d-high-stakes-campaign.json"
+    },
+    {
       "igdb_id": 205076,
       "game_name": "DCS World: South Atlantic",
       "file": "missing/D/205076-dcs-world-south-atlantic.json"
+    },
+    {
+      "igdb_id": 170168,
+      "game_name": "DCS World: Spitfire - Epsom Campaign",
+      "file": "missing/D/170168-dcs-world-spitfire-epsom-campaign.json"
     },
     {
       "igdb_id": 325541,
@@ -285522,6 +285592,11 @@
       "file": "missing/D/162867-dcs-world-su-27.json"
     },
     {
+      "igdb_id": 170157,
+      "game_name": "DCS World: Su-27 - The Ultimate Argument Campaign",
+      "file": "missing/D/170157-dcs-world-su-27-the-ultimate-argument-campaign.json"
+    },
+    {
       "igdb_id": 162866,
       "game_name": "DCS World: Su-33",
       "file": "missing/D/162866-dcs-world-su-33.json"
@@ -285530,6 +285605,11 @@
       "igdb_id": 162856,
       "game_name": "DCS World: The Museum Relic Campaign",
       "file": "missing/D/162856-dcs-world-the-museum-relic-campaign.json"
+    },
+    {
+      "igdb_id": 170149,
+      "game_name": "DCS World: UH-1H - Argo Campaign",
+      "file": "missing/D/170149-dcs-world-uh-1h-argo-campaign.json"
     },
     {
       "igdb_id": 195403,
@@ -312820,6 +312900,11 @@
       "igdb_id": 169300,
       "game_name": "Diner Bros: Sushi Bros",
       "file": "missing/D/169300-diner-bros-sushi-bros.json"
+    },
+    {
+      "igdb_id": 170170,
+      "game_name": "Diner Bros: Taco Amigos Campaign",
+      "file": "missing/D/170170-diner-bros-taco-amigos-campaign.json"
     },
     {
       "igdb_id": 318138,
@@ -497262,9 +497347,39 @@
       "file": "missing/G/50035-gremlins-unleashed.json"
     },
     {
+      "igdb_id": 170140,
+      "game_name": "Gremlins, Inc.: Agents of Chaos",
+      "file": "missing/G/170140-gremlins-inc-agents-of-chaos.json"
+    },
+    {
+      "igdb_id": 170141,
+      "game_name": "Gremlins, Inc.: Astral Gamblers",
+      "file": "missing/G/170141-gremlins-inc-astral-gamblers.json"
+    },
+    {
+      "igdb_id": 170144,
+      "game_name": "Gremlins, Inc.: Card Game",
+      "file": "missing/G/170144-gremlins-inc-card-game.json"
+    },
+    {
+      "igdb_id": 170143,
+      "game_name": "Gremlins, Inc.: Card Game, Print & Play Set",
+      "file": "missing/G/170143-gremlins-inc-card-game-print-and-play-set.json"
+    },
+    {
+      "igdb_id": 170142,
+      "game_name": "Gremlins, Inc.: Famous Figures",
+      "file": "missing/G/170142-gremlins-inc-famous-figures.json"
+    },
+    {
       "igdb_id": 53069,
       "game_name": "Gremlins, Inc.: The Governor Edition",
       "file": "missing/G/53069-gremlins-inc-the-governor-edition.json"
+    },
+    {
+      "igdb_id": 170139,
+      "game_name": "Gremlins, Inc.: Uninvited Guests",
+      "file": "missing/G/170139-gremlins-inc-uninvited-guests.json"
     },
     {
       "igdb_id": 49232,
@@ -627242,11 +627357,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -711777,6 +711887,21 @@
       "file": "missing/M/169972-master-of-orion-gnolam-league.json"
     },
     {
+      "igdb_id": 170132,
+      "game_name": "Master of Orion: Retro Fleets",
+      "file": "missing/M/170132-master-of-orion-retro-fleets.json"
+    },
+    {
+      "igdb_id": 170130,
+      "game_name": "Master of Orion: Terran Khanate",
+      "file": "missing/M/170130-master-of-orion-terran-khanate.json"
+    },
+    {
+      "igdb_id": 170131,
+      "game_name": "Master of Orion: Trilarian Shoal",
+      "file": "missing/M/170131-master-of-orion-trilarian-shoal.json"
+    },
+    {
       "igdb_id": 335398,
       "game_name": "Master of Piece",
       "file": "missing/M/335398-master-of-piece.json"
@@ -741980,6 +742105,11 @@
       "igdb_id": 154978,
       "game_name": "Mind Maze",
       "file": "missing/M/154978-mind-maze.json"
+    },
+    {
+      "igdb_id": 170169,
+      "game_name": "Mind Maze: Campaign \"Triplex\"",
+      "file": "missing/M/170169-mind-maze-campaign-triplex.json"
     },
     {
       "igdb_id": 209509,
@@ -782887,9 +783017,24 @@
       "file": "missing/M/121980-my-train-arrives.json"
     },
     {
+      "igdb_id": 170129,
+      "game_name": "My Train Arrives: Big cities",
+      "file": "missing/M/170129-my-train-arrives-big-cities.json"
+    },
+    {
+      "igdb_id": 170128,
+      "game_name": "My Train Arrives: City pack",
+      "file": "missing/M/170128-my-train-arrives-city-pack.json"
+    },
+    {
       "igdb_id": 193586,
       "game_name": "My Train Arrives: In ten years",
       "file": "missing/M/193586-my-train-arrives-in-ten-years.json"
+    },
+    {
+      "igdb_id": 170127,
+      "game_name": "My Train Arrives: Neighbouring cities",
+      "file": "missing/M/170127-my-train-arrives-neighbouring-cities.json"
     },
     {
       "igdb_id": 274927,
@@ -834635,6 +834780,11 @@
       "igdb_id": 92400,
       "game_name": "Oneshot Voca",
       "file": "missing/O/92400-oneshot-voca.json"
+    },
+    {
+      "igdb_id": 170173,
+      "game_name": "OneShot: Aftermath",
+      "file": "missing/O/170173-oneshot-aftermath.json"
     },
     {
       "igdb_id": 166079,
@@ -891347,6 +891497,11 @@
       "file": "missing/P/321592-plastic-trick.json"
     },
     {
+      "igdb_id": 170134,
+      "game_name": "Plasticalypse: Submarine Adventures",
+      "file": "missing/P/170134-plasticalypse-submarine-adventures.json"
+    },
+    {
       "igdb_id": 144025,
       "game_name": "Plasticalypse: TrashSub Adventures",
       "file": "missing/P/144025-plasticalypse-trashsub-adventures.json"
@@ -918085,6 +918240,11 @@
       "igdb_id": 81069,
       "game_name": "Project Amalthea: Battlegrounds",
       "file": "missing/P/81069-project-amalthea-battlegrounds.json"
+    },
+    {
+      "igdb_id": 170158,
+      "game_name": "Project Amalthea: Campaign",
+      "file": "missing/P/170158-project-amalthea-campaign.json"
     },
     {
       "igdb_id": 103925,
@@ -1014317,6 +1014477,11 @@
       "file": "missing/S/171618-sea-dogs-to-each-his-own-hero-of-the-nation.json"
     },
     {
+      "igdb_id": 170125,
+      "game_name": "Sea Dogs: To Each His Own - The Caleuche",
+      "file": "missing/S/170125-sea-dogs-to-each-his-own-the-caleuche.json"
+    },
+    {
       "igdb_id": 172348,
       "game_name": "Sea Dogs: To Each His Own - The Final Lesson",
       "file": "missing/S/172348-sea-dogs-to-each-his-own-the-final-lesson.json"
@@ -1020647,9 +1020812,24 @@
       "file": "missing/S/124778-sengoku-jidai-gold.json"
     },
     {
+      "igdb_id": 170159,
+      "game_name": "Sengoku Jidai: Bjeongja Horan Campaign - 2nd Manchu Invasion of Korea 1636",
+      "file": "missing/S/170159-sengoku-jidai-bjeongja-horan-campaign-2nd-manchu-invasion-of-korea-1636.json"
+    },
+    {
+      "igdb_id": 170161,
+      "game_name": "Sengoku Jidai: Gempei Kassen",
+      "file": "missing/S/170161-sengoku-jidai-gempei-kassen.json"
+    },
+    {
       "igdb_id": 184473,
       "game_name": "Sengoku Jidai: Genko Campaign - 2nd Mongol Invasion of Japan 1281",
       "file": "missing/S/184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json"
+    },
+    {
+      "igdb_id": 170160,
+      "game_name": "Sengoku Jidai: Genko MP Skirmishes",
+      "file": "missing/S/170160-sengoku-jidai-genko-mp-skirmishes.json"
     },
     {
       "igdb_id": 68437,
@@ -1083397,6 +1083577,16 @@
       "file": "missing/S/154596-space-hulk-deathwing-enhanced-edition-infested-mines.json"
     },
     {
+      "igdb_id": 170167,
+      "game_name": "Space Hulk: Defilement of Honour Campaign",
+      "file": "missing/S/170167-space-hulk-defilement-of-honour-campaign.json"
+    },
+    {
+      "igdb_id": 170166,
+      "game_name": "Space Hulk: Harbinger of Torment Campaign",
+      "file": "missing/S/170166-space-hulk-harbinger-of-torment-campaign.json"
+    },
+    {
       "igdb_id": 168865,
       "game_name": "Space Hulk: Space Wolves Chapter",
       "file": "missing/S/168865-space-hulk-space-wolves-chapter.json"
@@ -1086875,6 +1087065,16 @@
       "igdb_id": 169318,
       "game_name": "Spacelords: Aneska Deluxe Character Pack",
       "file": "missing/S/169318-spacelords-aneska-deluxe-character-pack.json"
+    },
+    {
+      "igdb_id": 170162,
+      "game_name": "Spacelords: Raiders of the Broken Planet - Alien Myths Campaign",
+      "file": "missing/S/170162-spacelords-raiders-of-the-broken-planet-alien-myths-campaign.json"
+    },
+    {
+      "igdb_id": 170171,
+      "game_name": "Spacelords: Raiders of the Broken Planet - Wardog Fury Campaign",
+      "file": "missing/S/170171-spacelords-raiders-of-the-broken-planet-wardog-fury-campaign.json"
     },
     {
       "igdb_id": 169317,
@@ -1091320,6 +1091520,21 @@
       "igdb_id": 18010,
       "game_name": "Spellweaver",
       "file": "missing/S/18010-spellweaver.json"
+    },
+    {
+      "igdb_id": 170135,
+      "game_name": "Spellweaver Chronicles: The Holy Child",
+      "file": "missing/S/170135-spellweaver-chronicles-the-holy-child.json"
+    },
+    {
+      "igdb_id": 170137,
+      "game_name": "Spellweaver: Duke's Zombies Deck",
+      "file": "missing/S/170137-spellweaver-dukes-zombies-deck.json"
+    },
+    {
+      "igdb_id": 170136,
+      "game_name": "Spellweaver: Vampire Overlord Deck",
+      "file": "missing/S/170136-spellweaver-vampire-overlord-deck.json"
     },
     {
       "igdb_id": 322968,
@@ -1099955,6 +1100170,11 @@
       "igdb_id": 151508,
       "game_name": "Squares Rage",
       "file": "missing/S/151508-squares-rage.json"
+    },
+    {
+      "igdb_id": 170120,
+      "game_name": "Squares Rage: Character - Crying Chris",
+      "file": "missing/S/170120-squares-rage-character-crying-chris.json"
     },
     {
       "igdb_id": 143944,
@@ -1147462,6 +1147682,11 @@
       "file": "missing/S/55661-surface-game-of-gods-collectors-edition.json"
     },
     {
+      "igdb_id": 170122,
+      "game_name": "Surface: Lost Tales - Collector's Edition",
+      "file": "missing/S/170122-surface-lost-tales-collectors-edition.json"
+    },
+    {
       "igdb_id": 102812,
       "game_name": "Surface: Project Dawn",
       "file": "missing/S/102812-surface-project-dawn.json"
@@ -1182145,6 +1182370,11 @@
       "igdb_id": 34651,
       "game_name": "The Adventures of Fatman",
       "file": "missing/T/34651-the-adventures-of-fatman.json"
+    },
+    {
+      "igdb_id": 170124,
+      "game_name": "The Adventures of Fatman: Intergalactic Indigestion",
+      "file": "missing/T/170124-the-adventures-of-fatman-intergalactic-indigestion.json"
     },
     {
       "igdb_id": 65920,
@@ -1224205,6 +1224435,11 @@
       "igdb_id": 50866,
       "game_name": "The Political Machine 2008",
       "file": "missing/T/50866-the-political-machine-2008.json"
+    },
+    {
+      "igdb_id": 170172,
+      "game_name": "The Political Machine 2016: Campaign DLC",
+      "file": "missing/T/170172-the-political-machine-2016-campaign-dlc.json"
     },
     {
       "igdb_id": 129073,
@@ -1358125,6 +1358360,11 @@
       "igdb_id": 168433,
       "game_name": "WGT Golf: Birdie Bundle",
       "file": "missing/W/168433-wgt-golf-birdie-bundle.json"
+    },
+    {
+      "igdb_id": 170133,
+      "game_name": "WGT Golf: Long Drive Bundle",
+      "file": "missing/W/170133-wgt-golf-long-drive-bundle.json"
     },
     {
       "igdb_id": 338380,
