@@ -11797,6 +11797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
 | Conflict FPS | 306208 | [306208-conflict-fps.json](./306208-conflict-fps.json) |
+| Conflict of Heroes: Ghost Divisions | 174514 | [174514-conflict-of-heroes-ghost-divisions.json](./174514-conflict-of-heroes-ghost-divisions.json) |
 | Conflict of Lords | 267809 | [267809-conflict-of-lords.json](./267809-conflict-of-lords.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
@@ -16790,6 +16791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Samurai: RUN! | 36290 | [36290-cube-samurai-run.json](./36290-cube-samurai-run.json) |
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
 | Cube Shift | 182715 | [182715-cube-shift.json](./182715-cube-shift.json) |
+| Cube Shifu | 174492 | [174492-cube-shifu.json](./174492-cube-shifu.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
