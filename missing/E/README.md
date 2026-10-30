@@ -7301,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Skiing VR | 30736 | [30736-extreme-skiing-vr.json](./30736-extreme-skiing-vr.json) |
 | Extreme Skill | 80466 | [80466-extreme-skill.json](./80466-extreme-skill.json) |
 | Extreme Skydiving | 175159 | [175159-extreme-skydiving.json](./175159-extreme-skydiving.json) |
+| Extreme Slasherman | 176656 | [176656-extreme-slasherman.json](./176656-extreme-slasherman.json) |
 | Extreme Snow Break | 43791 | [43791-extreme-snow-break.json](./43791-extreme-snow-break.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
 | Extreme Social Distancing | 163761 | [163761-extreme-social-distancing.json](./163761-extreme-social-distancing.json) |
