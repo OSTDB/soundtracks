@@ -6874,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Bikers: Moto Racing Simulator | 342405 | [342405-highway-bikers-moto-racing-simulator.json](./342405-highway-bikers-moto-racing-simulator.json) |
 | Highway Blossoms | 20688 | [20688-highway-blossoms.json](./20688-highway-blossoms.json) |
 | Highway Blossoms: Next Exit | 139123 | [139123-highway-blossoms-next-exit.json](./139123-highway-blossoms-next-exit.json) |
+| Highway Builder | 150868 | [150868-highway-builder.json](./150868-highway-builder.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Cross | 220429 | [220429-highway-cross.json](./220429-highway-cross.json) |
