@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Laserstorm | 336689 | [336689-laserstorm.json](./336689-laserstorm.json) |
 | Lasertag | 397898 | [397898-lasertag.json](./397898-lasertag.json) |
+| Lasertron | 157350 | [157350-lasertron.json](./157350-lasertron.json) |
 | Laservasion | 121454 | [121454-laservasion.json](./121454-laservasion.json) |
 | Laserwars | 70799 | [70799-laserwars.json](./70799-laserwars.json) |
 | Laserworks | 184316 | [184316-laserworks.json](./184316-laserworks.json) |
@@ -3772,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǐ Èr Nián Yǒng Chuǎng Héhuān Zōng | 373708 | [373708-li-er-nian-yong-chuang-hehuan-zong.json](./373708-li-er-nian-yong-chuang-hehuan-zong.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
 | Li Shui | 374138 | [374138-li-shui.json](./374138-li-shui.json) |
+| Li Tan | 157321 | [157321-li-tan.json](./157321-li-tan.json) |
 | Li-Lo | 285502 | [285502-li-lo.json](./285502-li-lo.json) |
 | Li'l Red | 272357 | [272357-lil-red.json](./272357-lil-red.json) |
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
@@ -5681,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liú Yǐn | 375417 | [375417-liu-yin.json](./375417-liu-yin.json) |
 | Liùdào Fēng Yān | 398176 | [398176-liudao-feng-yan.json](./398176-liudao-feng-yan.json) |
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
+| Liúyán Zhēntàn | 157348 | [157348-liuyan-zhentan.json](./157348-liuyan-zhentan.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
 | Live | 85682 | [85682-live.json](./85682-live.json) |
