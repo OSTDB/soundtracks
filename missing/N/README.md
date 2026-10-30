@@ -392,10 +392,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
 | Nano Squadron | 391986 | [391986-nano-squadron.json](./391986-nano-squadron.json) |
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
+| Nano4x: Supremacy | 176618 | [176618-nano4x-supremacy.json](./176618-nano4x-supremacy.json) |
 | NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
 | Nanobots | 143456 | [143456-nanobots.json](./143456-nanobots.json) |
 | Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
 | Nanobots | 33325 | [33325-nanobots.json](./33325-nanobots.json) |
+| Nanociv | 176620 | [176620-nanociv.json](./176620-nanociv.json) |
 | NaNoCollabMo: Autumn Harvest | 281315 | [281315-nanocollabmo-autumn-harvest.json](./281315-nanocollabmo-autumn-harvest.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoDeath | 305939 | [305939-nanodeath.json](./305939-nanodeath.json) |
@@ -2021,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
 | Neo XYX | 45814 | [45814-neo-xyx.json](./45814-neo-xyx.json) |
+| Neo-Brutalism of Tomorrow | 176644 | [176644-neo-brutalism-of-tomorrow.json](./176644-neo-brutalism-of-tomorrow.json) |
 | Neo-Gensokyo Zero | 184860 | [184860-neo-gensokyo-zero.json](./184860-neo-gensokyo-zero.json) |
 | Neo-Kaizo DS | 314126 | [314126-neo-kaizo-ds.json](./314126-neo-kaizo-ds.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
@@ -2173,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fighter | 211720 | [211720-neon-fighter.json](./211720-neon-fighter.json) |
 | Neon Flash 2 | 195464 | [195464-neon-flash-2.json](./195464-neon-flash-2.json) |
 | Neon Flight | 297796 | [297796-neon-flight.json](./297796-neon-flight.json) |
+| Neon Flux | 176626 | [176626-neon-flux.json](./176626-neon-flux.json) |
 | Neon FM | 55996 | [55996-neon-fm.json](./55996-neon-fm.json) |
 | Neon Force Pushers | 99037 | [99037-neon-force-pushers.json](./99037-neon-force-pushers.json) |
 | Neon Fury | 120335 | [120335-neon-fury.json](./120335-neon-fury.json) |
@@ -2888,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Home: Medieval Village | 153903 | [153903-new-home-medieval-village.json](./153903-new-home-medieval-village.json) |
 | New Homestead | 159721 | [159721-new-homestead.json](./159721-new-homestead.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
+| New Horizons Remastered | 176654 | [176654-new-horizons-remastered.json](./176654-new-horizons-remastered.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Ice York | 104435 | [104435-new-ice-york.json](./104435-new-ice-york.json) |
 | New Immortal | 283049 | [283049-new-immortal.json](./283049-new-immortal.json) |
