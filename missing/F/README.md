@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FBC: Firebreak | 320144 | [320144-fbc-firebreak.json](./320144-fbc-firebreak.json) |
 | FBC: Firebreak - Breakpoint | 371013 | [371013-fbc-firebreak-breakpoint.json](./371013-fbc-firebreak-breakpoint.json) |
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
+| FBI Agent Simulator | 155898 | [155898-fbi-agent-simulator.json](./155898-fbi-agent-simulator.json) |
 | FBI Hostage Rescue | 46458 | [46458-fbi-hostage-rescue.json](./46458-fbi-hostage-rescue.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
 | FBI-13 | 299697 | [299697-fbi-13.json](./299697-fbi-13.json) |
@@ -3665,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever Golf | 314137 | [314137-fever-golf.json](./314137-fever-golf.json) |
 | Fever Meme | 350483 | [350483-fever-meme.json](./350483-fever-meme.json) |
 | Fever Move | 246279 | [246279-fever-move.json](./246279-fever-move.json) |
+| Fever: Fight the Fever | 155837 | [155837-fever-fight-the-fever.json](./155837-fever-fight-the-fever.json) |
 | Feverdream: Rainbow Chaser | 333985 | [333985-feverdream-rainbow-chaser.json](./333985-feverdream-rainbow-chaser.json) |
 | Fevered Fantasy | 392308 | [392308-fevered-fantasy.json](./392308-fevered-fantasy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
@@ -9763,6 +9765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox XII | 349211 | [349211-fox-xii.json](./349211-fox-xii.json) |
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | Fox! Hen! Bag! | 157860 | [157860-fox-hen-bag.json](./157860-fox-hen-bag.json) |
+| Fox's Holiday | 155906 | [155906-foxs-holiday.json](./155906-foxs-holiday.json) |
 | Fox's Peter Pan & The Pirates | 198741 | [198741-foxs-peter-pan-and-the-pirates.json](./198741-foxs-peter-pan-and-the-pirates.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
 | Fox4Elite | 241878 | [241878-fox4elite.json](./241878-fox4elite.json) |
@@ -10552,6 +10555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
 | Freudian Slipgate | 313031 | [313031-freudian-slipgate.json](./313031-freudian-slipgate.json) |
 | Freudian Slipgate 2 | 313032 | [313032-freudian-slipgate-2.json](./313032-freudian-slipgate-2.json) |
+| Freus | 155915 | [155915-freus.json](./155915-freus.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
 | Freyja's Demise | 299844 | [299844-freyjas-demise.json](./299844-freyjas-demise.json) |
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
@@ -11272,6 +11276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Froot Loops: The Quest for Froot Loops Treasure | 267505 | [267505-froot-loops-the-quest-for-froot-loops-treasure.json](./267505-froot-loops-the-quest-for-froot-loops-treasure.json) |
 | Frooty Loops | 364695 | [364695-frooty-loops.json](./364695-frooty-loops.json) |
+| Frop | 155839 | [155839-frop.json](./155839-frop.json) |
 | Frost | 32851 | [32851-frost.json](./32851-frost.json) |
 | Frost | 88972 | [88972-frost.json](./88972-frost.json) |
 | Frost & Flame: King of Avalon | 271382 | [271382-frost-and-flame-king-of-avalon.json](./271382-frost-and-flame-king-of-avalon.json) |
