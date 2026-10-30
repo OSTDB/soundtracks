@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Hearts | 99020 | [99020-panzer-hearts.json](./99020-panzer-hearts.json) |
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Kliker Mk I Yanks | 360623 | [360623-panzer-kliker-mk-i-yanks.json](./360623-panzer-kliker-mk-i-yanks.json) |
+| Panzer Knights | 148190 | [148190-panzer-knights.json](./148190-panzer-knights.json) |
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
