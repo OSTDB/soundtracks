@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Neutral Host Edition | 300638 | [300638-halo-neutral-host-edition.json](./300638-halo-neutral-host-edition.json) |
 | Halo: New Covenant | 332316 | [332316-halo-new-covenant.json](./332316-halo-new-covenant.json) |
 | Halo: Operation - Solar Flare | 351087 | [351087-halo-operation-solar-flare.json](./351087-halo-operation-solar-flare.json) |
+| Halo: Out With a Whimper | 165332 | [165332-halo-out-with-a-whimper.json](./165332-halo-out-with-a-whimper.json) |
 | Halo: Project Chozo | 414595 | [414595-halo-project-chozo.json](./414595-halo-project-chozo.json) |
 | Halo: Reach - Anniversary Map Pack | 176904 | [176904-halo-reach-anniversary-map-pack.json](./176904-halo-reach-anniversary-map-pack.json) |
 | Halo: Reach - Defiant Map Pack | 176905 | [176905-halo-reach-defiant-map-pack.json](./176905-halo-reach-defiant-map-pack.json) |
