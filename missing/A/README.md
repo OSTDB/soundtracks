@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airspace Defender | 306929 | [306929-airspace-defender.json](./306929-airspace-defender.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
 | Airstrike | 94382 | [94382-airstrike.json](./94382-airstrike.json) |
+| AirStrike 2 | 137272 | [137272-airstrike-2.json](./137272-airstrike-2.json) |
 | AirStrike 3D: Operation W.A.T. | 70123 | [70123-airstrike-3d-operation-w-a-t.json](./70123-airstrike-3d-operation-w-a-t.json) |
 | AirStrike Command: Tactical Assault Operation | 309046 | [309046-airstrike-command-tactical-assault-operation.json](./309046-airstrike-command-tactical-assault-operation.json) |
 | AirStrike Command: Tactical Assault Operation & Helicopter Battle Arena Simulator | 395885 | [395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json](./395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json) |
@@ -10108,6 +10109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao no Mama de... | 420562 | [420562-ao-no-mama-de.json](./420562-ao-no-mama-de.json) |
 | Ao Oni | 46941 | [46941-ao-oni.json](./46941-ao-oni.json) |
 | Ao Oni 2 | 54708 | [54708-ao-oni-2.json](./54708-ao-oni-2.json) |
+| Ao Oni 3 | 137259 | [137259-ao-oni-3.json](./137259-ao-oni-3.json) |
 | Ao Oni R | 320006 | [320006-ao-oni-r.json](./320006-ao-oni-r.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
