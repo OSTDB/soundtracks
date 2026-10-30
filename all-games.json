@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T22:45:50.838Z",
-  "total_soundtracks": 2725,
+  "generated_at": "2026-10-30T22:55:55.029Z",
+  "total_soundtracks": 2727,
   "games": [
     {
       "igdb_id": 7522,
@@ -5134,6 +5134,20 @@
     },
     {
       "igdb_id": 263446,
+      "game_name": "Chrono Trigger",
+      "game_url": "https://ostdb.net/games/chrono-trigger",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b9cccd9497d99a869dcbb8af",
+      "albums": [
+        {
+          "album_name": "CHRONO TRIGGER Original Soundtrack【DS Edition】",
+          "spotify_url": "https://open.spotify.com/album/2kOD9QzcUkeT57RJkNvQpH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 89828,
       "game_name": "Chrono Trigger",
       "game_url": "https://ostdb.net/games/chrono-trigger",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273b9cccd9497d99a869dcbb8af",
@@ -27157,6 +27171,20 @@
         {
           "album_name": "Succubus (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7p4f5DzzEPa1s4FbgiSmEn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22399,
+      "game_name": "Sudden Strike 4",
+      "game_url": "https://ostdb.net/games/sudden-strike-4",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273408ba98250735a91c7050453",
+      "albums": [
+        {
+          "album_name": "Sudden Strike 4 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3vxAGJ5iZUaR7TNEsaZfmJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
