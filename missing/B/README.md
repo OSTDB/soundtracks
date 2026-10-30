@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
 | Barbarous: Tavern of Emyr | 126471 | [126471-barbarous-tavern-of-emyr.json](./126471-barbarous-tavern-of-emyr.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
+| BarbarQ 2 | 175018 | [175018-barbarq-2.json](./175018-barbarq-2.json) |
 | Barbatus no Majo | 337004 | [337004-barbatus-no-majo.json](./337004-barbatus-no-majo.json) |
 | Barbe-Yeux | 420203 | [420203-barbe-yeux.json](./420203-barbe-yeux.json) |
 | Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
@@ -9390,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Trucks Multiplayer Racing | 337655 | [337655-block-trucks-multiplayer-racing.json](./337655-block-trucks-multiplayer-racing.json) |
 | Block Tuner | 124253 | [124253-block-tuner.json](./124253-block-tuner.json) |
 | Block Twist Challenge | 338250 | [338250-block-twist-challenge.json](./338250-block-twist-challenge.json) |
+| Block vs. Block | 175053 | [175053-block-vs-block.json](./175053-block-vs-block.json) |
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
 | Block Warriors | 55236 | [55236-block-warriors.json](./55236-block-warriors.json) |
 | Block Warriors: Definitive Edition | 195917 | [195917-block-warriors-definitive-edition.json](./195917-block-warriors-definitive-edition.json) |
