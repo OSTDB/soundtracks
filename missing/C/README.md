@@ -4728,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centroid | 133971 | [133971-centroid.json](./133971-centroid.json) |
 | Centropods | 45355 | [45355-centropods.json](./45355-centropods.json) |
 | Centum | 299590 | [299590-centum.json](./299590-centum.json) |
+| Centurion Rex | 172334 | [172334-centurion-rex.json](./172334-centurion-rex.json) |
 | Centurion: Defender of Rome | 8257 | [8257-centurion-defender-of-rome.json](./8257-centurion-defender-of-rome.json) |
 | Century 0: Parasitic Tower | 216798 | [216798-century-0-parasitic-tower.json](./216798-century-0-parasitic-tower.json) |
 | Century City | 243743 | [243743-century-city.json](./243743-century-city.json) |
