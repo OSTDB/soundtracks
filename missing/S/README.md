@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Factory | 396748 | [396748-sausage-factory.json](./396748-sausage-factory.json) |
 | Sausage Fest | 137988 | [137988-sausage-fest.json](./137988-sausage-fest.json) |
 | Sausage Fiesta | 153363 | [153363-sausage-fiesta.json](./153363-sausage-fiesta.json) |
+| Sausage Hunter | 143901 | [143901-sausage-hunter.json](./143901-sausage-hunter.json) |
 | Sausage Legend 2 | 193877 | [193877-sausage-legend-2.json](./193877-sausage-legend-2.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Sausage Sports Club | 29954 | [29954-sausage-sports-club.json](./29954-sausage-sports-club.json) |
@@ -3873,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks | 81151 | [81151-seaworld-adventure-parks.json](./81151-seaworld-adventure-parks.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
+| SeaWorld Adventure Parks Tycoon 2 | 144645 | [144645-seaworld-adventure-parks-tycoon-2.json](./144645-seaworld-adventure-parks-tycoon-2.json) |
 | Sebastian | 397025 | [397025-sebastian.json](./397025-sebastian.json) |
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
 | Sebastian's Sea Urchin Symphony | 246518 | [246518-sebastians-sea-urchin-symphony.json](./246518-sebastians-sea-urchin-symphony.json) |
@@ -6540,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Shooter | 141493 | [141493-shape-shooter.json](./141493-shape-shooter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape Sorter - Early Learning | 106371 | [106371-shape-sorter-early-learning.json](./106371-shape-sorter-early-learning.json) |
+| Shape Storm | 143891 | [143891-shape-storm.json](./143891-shape-storm.json) |
 | Shape Suitable | 165616 | [165616-shape-suitable.json](./165616-shape-suitable.json) |
 | Shape Survivor | 310817 | [310817-shape-survivor.json](./310817-shape-survivor.json) |
 | Shape Survivors | 407859 | [407859-shape-survivors.json](./407859-shape-survivors.json) |
@@ -7224,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift | 32446 | [32446-shift.json](./32446-shift.json) |
+| SHiFT | 144517 | [144517-shift.json](./144517-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift 2 | 273276 | [273276-shift-2.json](./273276-shift-2.json) |
 | Shift 247 | 94411 | [94411-shift-247.json](./94411-shift-247.json) |
@@ -9876,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 34: The Haisha-San | 63624 | [63624-simple-ds-series-vol-34-the-haisha-san.json](./63624-simple-ds-series-vol-34-the-haisha-san.json) |
 | Simple DS Series vol. 39: The Shouboutai | 266677 | [266677-simple-ds-series-vol-39-the-shouboutai.json](./266677-simple-ds-series-vol-39-the-shouboutai.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
+| Simple Farm | 143982 | [143982-simple-farm.json](./143982-simple-farm.json) |
 | Simple Fear | 157046 | [157046-simple-fear.json](./157046-simple-fear.json) |
 | Simple Fight 2 | 310135 | [310135-simple-fight-2.json](./310135-simple-fight-2.json) |
 | Simple Fish Adventure | 163209 | [163209-simple-fish-adventure.json](./163209-simple-fish-adventure.json) |
@@ -13082,6 +13087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Attack | 374133 | [374133-snack-attack.json](./374133-snack-attack.json) |
 | Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
 | Snack Attack II | 25151 | [25151-snack-attack-ii.json](./25151-snack-attack-ii.json) |
+| Snack clearing | 143905 | [143905-snack-clearing.json](./143905-snack-clearing.json) |
 | Snack Escort | 390576 | [390576-snack-escort.json](./390576-snack-escort.json) |
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack King | 66562 | [66562-snack-king.json](./66562-snack-king.json) |
@@ -14614,6 +14620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Girl Amazon | 40170 | [40170-soldier-girl-amazon.json](./40170-soldier-girl-amazon.json) |
 | Soldier in the darkness | 150773 | [150773-soldier-in-the-darkness.json](./150773-soldier-in-the-darkness.json) |
 | Soldier Killer | 54501 | [54501-soldier-killer.json](./54501-soldier-killer.json) |
+| Soldier Matt Sowards | 143980 | [143980-soldier-matt-sowards.json](./143980-soldier-matt-sowards.json) |
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
 | Soldier of Failure: Operation Zombie | 75653 | [75653-soldier-of-failure-operation-zombie.json](./75653-soldier-of-failure-operation-zombie.json) |
 | Soldier of Fortune | 135691 | [135691-soldier-of-fortune.json](./135691-soldier-of-fortune.json) |
@@ -17025,6 +17032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space 2: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 207068 | [207068-space-2-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./207068-space-2-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
 | Space 2: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207067 | [207067-space-2-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207067-space-2-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Space 2: Breakthrough Gaming Arcade - Challenge Mode Edition | 207066 | [207066-space-2-breakthrough-gaming-arcade-challenge-mode-edition.json](./207066-space-2-breakthrough-gaming-arcade-challenge-mode-edition.json) |
+| Space Abyss | 144559 | [144559-space-abyss.json](./144559-space-abyss.json) |
 | Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
 | Space Academy | 235394 | [235394-space-academy.json](./235394-space-academy.json) |
 | Space Accident | 191000 | [191000-space-accident.json](./191000-space-accident.json) |
@@ -17964,6 +17972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
 | Space Toads Mayhem | 25799 | [25799-space-toads-mayhem.json](./25799-space-toads-mayhem.json) |
 | Space Tournament | 260292 | [260292-space-tournament.json](./260292-space-tournament.json) |
+| Space Tow Truck | 143912 | [143912-space-tow-truck.json](./143912-space-tow-truck.json) |
 | Space Tower | 126507 | [126507-space-tower.json](./126507-space-tower.json) |
 | Space Tower Defense | 195556 | [195556-space-tower-defense.json](./195556-space-tower-defense.json) |
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
@@ -21129,6 +21138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
 | Staggering Beauty | 337136 | [337136-staggering-beauty.json](./337136-staggering-beauty.json) |
 | Staggering Through the Dark | 156843 | [156843-staggering-through-the-dark.json](./156843-staggering-through-the-dark.json) |
+| Staggy the Boy Scout Slayer II | 144518 | [144518-staggy-the-boy-scout-slayer-ii.json](./144518-staggy-the-boy-scout-slayer-ii.json) |
 | Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
@@ -23144,6 +23154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
 | Stealth Kill VR Missions | 310677 | [310677-stealth-kill-vr-missions.json](./310677-stealth-kill-vr-missions.json) |
+| Stealth Master | 143976 | [143976-stealth-master.json](./143976-stealth-master.json) |
 | Stealth Master: Assassin Ninja | 261421 | [261421-stealth-master-assassin-ninja.json](./261421-stealth-master-assassin-ninja.json) |
 | Stealth Mystery: Secret Key | 88925 | [88925-stealth-mystery-secret-key.json](./88925-stealth-mystery-secret-key.json) |
 | Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
@@ -24754,6 +24765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato-Scruffy | 266963 | [266963-strato-scruffy.json](./266963-strato-scruffy.json) |
 | Strato-Spear | 268443 | [268443-strato-spear.json](./268443-strato-spear.json) |
 | Strato'S Sylph | 82702 | [82702-stratos-sylph.json](./82702-stratos-sylph.json) |
+| Strato's Sylph Asterism | 143918 | [143918-stratos-sylph-asterism.json](./143918-stratos-sylph-asterism.json) |
 | StratoBash | 28764 | [28764-stratobash.json](./28764-stratobash.json) |
 | Stratogun | 333116 | [333116-stratogun.json](./333116-stratogun.json) |
 | Stratos | 125700 | [125700-stratos.json](./125700-stratos.json) |
