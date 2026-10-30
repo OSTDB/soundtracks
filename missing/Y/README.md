@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You vs. Boo | 307665 | [307665-you-vs-boo.json](./307665-you-vs-boo.json) |
 | You vs. Wild | 256863 | [256863-you-vs-wild.json](./256863-you-vs-wild.json) |
 | You vs. Wild: Out Cold | 256855 | [256855-you-vs-wild-out-cold.json](./256855-you-vs-wild-out-cold.json) |
+| You Were Hallucinating the Whole Time | 128817 | [128817-you-were-hallucinating-the-whole-time.json](./128817-you-were-hallucinating-the-whole-time.json) |
 | You Were Made for Loneliness | 139387 | [139387-you-were-made-for-loneliness.json](./139387-you-were-made-for-loneliness.json) |
 | You Were There | 397106 | [397106-you-were-there.json](./397106-you-were-there.json) |
 | You Will Die | 66639 | [66639-you-will-die.json](./66639-you-will-die.json) |
