@@ -4766,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line of Sight | 27577 | [27577-line-of-sight.json](./27577-line-of-sight.json) |
 | Line of Sight: Starters Pack | 156102 | [156102-line-of-sight-starters-pack.json](./156102-line-of-sight-starters-pack.json) |
 | Line of Taste: Pizza Crust | 391228 | [391228-line-of-taste-pizza-crust.json](./391228-line-of-taste-pizza-crust.json) |
+| Line of War | 158381 | [158381-line-of-war.json](./158381-line-of-war.json) |
 | Line Path | 201580 | [201580-line-path.json](./201580-line-path.json) |
 | Line Physics: Draw Lines to Solve Puzzles | 105777 | [105777-line-physics-draw-lines-to-solve-puzzles.json](./105777-line-physics-draw-lines-to-solve-puzzles.json) |
 | Line Physics: Drawing Puzzle | 106976 | [106976-line-physics-drawing-puzzle.json](./106976-line-physics-drawing-puzzle.json) |
