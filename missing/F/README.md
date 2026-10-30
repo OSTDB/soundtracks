@@ -6578,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Fire | 90184 | [90184-flappy-fire.json](./90184-flappy-fire.json) |
 | Flappy Galaxy | 74184 | [74184-flappy-galaxy.json](./74184-flappy-galaxy.json) |
+| Flappy Galaxy: Master Level | 171211 | [171211-flappy-galaxy-master-level.json](./171211-flappy-galaxy-master-level.json) |
 | Flappy Golf | 107648 | [107648-flappy-golf.json](./107648-flappy-golf.json) |
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Golf Party | 372089 | [372089-flappy-golf-party.json](./372089-flappy-golf-party.json) |
@@ -7370,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow | 395829 | [395829-flow.json](./395829-flow.json) |
 | Flow Dot | 105328 | [105328-flow-dot.json](./105328-flow-dot.json) |
 | Flow Factory | 295835 | [295835-flow-factory.json](./295835-flow-factory.json) |
+| Flow Fit | 171231 | [171231-flow-fit.json](./171231-flow-fit.json) |
 | Flow Fit: Sudoku | 207045 | [207045-flow-fit-sudoku.json](./207045-flow-fit-sudoku.json) |
 | Flow Fox | 307907 | [307907-flow-fox.json](./307907-flow-fox.json) |
 | Flow Free | 109184 | [109184-flow-free.json](./109184-flow-free.json) |
@@ -8303,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footprints Combination | 309565 | [309565-footprints-combination.json](./309565-footprints-combination.json) |
 | FootRock | 74735 | [74735-footrock.json](./74735-footrock.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
+| FootRock 2: VR | 171208 | [171208-footrock-2-vr.json](./171208-footrock-2-vr.json) |
 | Footsies | 122007 | [122007-footsies.json](./122007-footsies.json) |
 | Footsies Rollback Edition | 139359 | [139359-footsies-rollback-edition.json](./139359-footsies-rollback-edition.json) |
 | FootSkull | 182174 | [182174-footskull.json](./182174-footskull.json) |
