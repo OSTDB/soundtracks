@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies, Run! | 65192 | [65192-zombies-run.json](./65192-zombies-run.json) |
 | Zombies: Faulty Towers | 121327 | [121327-zombies-faulty-towers.json](./121327-zombies-faulty-towers.json) |
 | Zombies: The Last Survivor | 194820 | [194820-zombies-the-last-survivor.json](./194820-zombies-the-last-survivor.json) |
+| Zombies! | 168564 | [168564-zombies.json](./168564-zombies.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | zombies! ARgh! | 99173 | [99173-zombies-argh.json](./99173-zombies-argh.json) |
 | Zombies!!! | 70687 | [70687-zombies.json](./70687-zombies.json) |
