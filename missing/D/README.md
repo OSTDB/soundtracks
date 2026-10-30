@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Places | 107473 | [107473-dark-places.json](./107473-dark-places.json) |
 | Dark Planet | 175625 | [175625-dark-planet.json](./175625-dark-planet.json) |
 | Dark Planet: Battle for Natrolis | 23457 | [23457-dark-planet-battle-for-natrolis.json](./23457-dark-planet-battle-for-natrolis.json) |
+| Dark Podval | 164174 | [164174-dark-podval.json](./164174-dark-podval.json) |
 | Dark Points | 408616 | [408616-dark-points.json](./408616-dark-points.json) |
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
@@ -4956,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
 | Defence to death | 28762 | [28762-defence-to-death.json](./28762-defence-to-death.json) |
 | Defence War | 131322 | [131322-defence-war.json](./131322-defence-war.json) |
+| Defence Your Organism | 164202 | [164202-defence-your-organism.json](./164202-defence-your-organism.json) |
 | DefenceOrder | 196509 | [196509-defenceorder.json](./196509-defenceorder.json) |
 | Defend 99 | 309935 | [309935-defend-99.json](./309935-defend-99.json) |
 | Defend Against Cats | 388169 | [388169-defend-against-cats.json](./388169-defend-against-cats.json) |
@@ -14632,6 +14634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
 | Drift Journey | 213232 | [213232-drift-journey.json](./213232-drift-journey.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
+| Drift King | 164199 | [164199-drift-king.json](./164199-drift-king.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
@@ -15314,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
 | Dry School | 217791 | [217791-dry-school.json](./217791-dry-school.json) |
 | Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
+| Dryad | 164163 | [164163-dryad.json](./164163-dryad.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
 | Dryft City Kyngs | 236158 | [236158-dryft-city-kyngs.json](./236158-dryft-city-kyngs.json) |
 | Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
@@ -15462,6 +15466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
 | Duck Dodgers Starring Daffy Duck | 3336 | [3336-duck-dodgers-starring-daffy-duck.json](./3336-duck-dodgers-starring-daffy-duck.json) |
 | Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
+| Duck Duchy | 164168 | [164168-duck-duchy.json](./164168-duck-duchy.json) |
 | Duck Duck Adventure | 330644 | [330644-duck-duck-adventure.json](./330644-duck-duck-adventure.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
