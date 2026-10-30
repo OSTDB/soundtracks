@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
 | Absolute Skat | 91861 | [91861-absolute-skat.json](./91861-absolute-skat.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
+| Absolute Tactics: Daughters of Mercy | 151385 | [151385-absolute-tactics-daughters-of-mercy.json](./151385-absolute-tactics-daughters-of-mercy.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
 | Absolute Tennis Manager 2 | 379082 | [379082-absolute-tennis-manager-2.json](./379082-absolute-tennis-manager-2.json) |
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
@@ -3309,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer's Gambit: Dungeons of Fortune | 270009 | [270009-adventurers-gambit-dungeons-of-fortune.json](./270009-adventurers-gambit-dungeons-of-fortune.json) |
 | Adventurer's Gate | 357783 | [357783-adventurers-gate.json](./357783-adventurers-gate.json) |
 | Adventurers Guild Inc. | 325334 | [325334-adventurers-guild-inc.json](./325334-adventurers-guild-inc.json) |
+| Adventurers of Tamora | 151377 | [151377-adventurers-of-tamora.json](./151377-adventurers-of-tamora.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
 | Adventures Diary of Merchant | 115579 | [115579-adventures-diary-of-merchant.json](./115579-adventures-diary-of-merchant.json) |
@@ -6011,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cat 3 | 169493 | [169493-alien-cat-3.json](./169493-alien-cat-3.json) |
 | Alien Cat 5 | 158658 | [158658-alien-cat-5.json](./158658-alien-cat-5.json) |
 | Alien Cat 6 | 157475 | [157475-alien-cat-6.json](./157475-alien-cat-6.json) |
+| Alien Cat 7 | 151391 | [151391-alien-cat-7.json](./151391-alien-cat-7.json) |
 | Alien Cat 8 | 149854 | [149854-alien-cat-8.json](./149854-alien-cat-8.json) |
 | Alien Challenge | 39524 | [39524-alien-challenge.json](./39524-alien-challenge.json) |
 | Alien Cleaner | 299527 | [299527-alien-cleaner.json](./299527-alien-cleaner.json) |
@@ -14227,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
 | Astro Fighters | 334190 | [334190-astro-fighters.json](./334190-astro-fighters.json) |
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
+| Astro Fighters 2178 | 151412 | [151412-astro-fighters-2178.json](./151412-astro-fighters-2178.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Golf | 122706 | [122706-astro-golf.json](./122706-astro-golf.json) |
 | Astro Ike | 204805 | [204805-astro-ike.json](./204805-astro-ike.json) |
