@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le jeu du chômeur | 387285 | [387285-le-jeu-du-chomeur.json](./387285-le-jeu-du-chomeur.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
 | Le Maître des Âmes | 94596 | [94596-le-maitre-des-ames.json](./94596-le-maitre-des-ames.json) |
+| Le Manège Enchanté | 165291 | [165291-le-manege-enchante.json](./165291-le-manege-enchante.json) |
 | Le Manoir | 385441 | [385441-le-manoir.json](./385441-le-manoir.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
 | Le Mans | 65279 | [65279-le-mans.json](./65279-le-mans.json) |
