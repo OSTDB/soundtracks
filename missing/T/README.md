@@ -9236,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Order | 184941 | [184941-the-great-order.json](./184941-the-great-order.json) |
 | The Great Palermo | 146002 | [146002-the-great-palermo.json](./146002-the-great-palermo.json) |
 | The Great Pickle Adventure | 157833 | [157833-the-great-pickle-adventure.json](./157833-the-great-pickle-adventure.json) |
+| The Great Plague Exodus | 149158 | [149158-the-great-plague-exodus.json](./149158-the-great-plague-exodus.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Reading Adventure | 207115 | [207115-the-great-reading-adventure.json](./207115-the-great-reading-adventure.json) |
@@ -18192,6 +18193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrax Lair | 23235 | [23235-thrax-lair.json](./23235-thrax-lair.json) |
 | Thread | 201455 | [201455-thread.json](./201455-thread.json) |
 | thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
+| Thread Fred | 149258 | [149258-thread-fred.json](./149258-thread-fred.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
 | Threadbound | 182979 | [182979-threadbound.json](./182979-threadbound.json) |
 | Threaded | 191001 | [191001-threaded.json](./191001-threaded.json) |
@@ -30114,6 +30116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyran | 33937 | [33937-tyran.json](./33937-tyran.json) |
 | Tyrania: A Kinetic Visual Novel | 161579 | [161579-tyrania-a-kinetic-visual-novel.json](./161579-tyrania-a-kinetic-visual-novel.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
+| Tyrannis | 149260 | [149260-tyrannis.json](./149260-tyrannis.json) |
 | Tyrannis: Co-Prosperity | 253824 | [253824-tyrannis-co-prosperity.json](./253824-tyrannis-co-prosperity.json) |
 | Tyrannizer | 270741 | [270741-tyrannizer.json](./270741-tyrannizer.json) |
 | Tyrannosaurus Tex | 159036 | [159036-tyrannosaurus-tex.json](./159036-tyrannosaurus-tex.json) |
