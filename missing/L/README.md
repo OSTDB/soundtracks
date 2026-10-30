@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.O.L. Surprise Ball Pop | 89778 | [89778-l-o-l-surprise-ball-pop.json](./89778-l-o-l-surprise-ball-pop.json) |
 | L.O.L. Surprise! B.B.s Born to Travel | 203810 | [203810-l-o-l-surprise-b-b-s-born-to-travel.json](./203810-l-o-l-surprise-b-b-s-born-to-travel.json) |
 | L.O.L. Surprise! Movie Night | 163146 | [163146-l-o-l-surprise-movie-night.json](./163146-l-o-l-surprise-movie-night.json) |
+| L.O.L. Surprise! Remix: We Rule the World | 138983 | [138983-l-o-l-surprise-remix-we-rule-the-world.json](./138983-l-o-l-surprise-remix-we-rule-the-world.json) |
 | L.O.L. Surprise! Roller Dreams Racing | 271399 | [271399-l-o-l-surprise-roller-dreams-racing.json](./271399-l-o-l-surprise-roller-dreams-racing.json) |
 | L.O.L. Surprise!: Laptop Divertido | 297739 | [297739-l-o-l-surprise-laptop-divertido.json](./297739-l-o-l-surprise-laptop-divertido.json) |
 | L.O.L. Surprise!: Laptop Tech | 297742 | [297742-l-o-l-surprise-laptop-tech.json](./297742-l-o-l-surprise-laptop-tech.json) |
@@ -2611,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of Snooker: One Shot | 170937 | [170937-legends-of-snooker-one-shot.json](./170937-legends-of-snooker-one-shot.json) |
 | Legends of Solitaire: Curse of the Dragons | 34532 | [34532-legends-of-solitaire-curse-of-the-dragons.json](./34532-legends-of-solitaire-curse-of-the-dragons.json) |
+| Legends of Solitaire: Diamond Relic | 138396 | [138396-legends-of-solitaire-diamond-relic.json](./138396-legends-of-solitaire-diamond-relic.json) |
 | Legends of Starkadia | 290902 | [290902-legends-of-starkadia.json](./290902-legends-of-starkadia.json) |
 | Legends of Talia: Arcadia | 74461 | [74461-legends-of-talia-arcadia.json](./74461-legends-of-talia-arcadia.json) |
 | Legends of the Brawl | 216599 | [216599-legends-of-the-brawl.json](./216599-legends-of-the-brawl.json) |
@@ -4329,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
+| Lightbreak | 139003 | [139003-lightbreak.json](./139003-lightbreak.json) |
 | Lightbringer | 100302 | [100302-lightbringer.json](./100302-lightbringer.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightclusters | 289552 | [289552-lightclusters.json](./289552-lightclusters.json) |
@@ -8848,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Soil | 93776 | [93776-lunar-soil.json](./93776-lunar-soil.json) |
 | Lunar Stone: Origin of Blood | 30578 | [30578-lunar-stone-origin-of-blood.json](./30578-lunar-stone-origin-of-blood.json) |
 | Lunar Timepiece: Shadow of Twelve | 121343 | [121343-lunar-timepiece-shadow-of-twelve.json](./121343-lunar-timepiece-shadow-of-twelve.json) |
+| Lunar Wing: Toki wo Koeta Seisen | 138970 | [138970-lunar-wing-toki-wo-koeta-seisen.json](./138970-lunar-wing-toki-wo-koeta-seisen.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
 | Lunar: Silver Star Harmony | 13909 | [13909-lunar-silver-star-harmony.json](./13909-lunar-silver-star-harmony.json) |
