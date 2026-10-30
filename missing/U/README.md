@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Life Bundle | 273005 | [273005-underwater-life-bundle.json](./273005-underwater-life-bundle.json) |
 | Underwater Puzzle: Echter Puzzlespass für Unterwegs | 252656 | [252656-underwater-puzzle-echter-puzzlespass-fur-unterwegs.json](./252656-underwater-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Underwater Rescue | 189374 | [189374-underwater-rescue.json](./189374-underwater-rescue.json) |
+| Underwater Wars | 132425 | [132425-underwater-wars.json](./132425-underwater-wars.json) |
 | Underwater World | 204924 | [204924-underwater-world.json](./204924-underwater-world.json) |
 | Underwater World: DLC Pack | 263150 | [263150-underwater-world-dlc-pack.json](./263150-underwater-world-dlc-pack.json) |
 | Underwater: Stay Alive | 114194 | [114194-underwater-stay-alive.json](./114194-underwater-stay-alive.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
 | Until the Last | 59144 | [59144-until-the-last.json](./59144-until-the-last.json) |
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
+| Until the Last Plane | 132414 | [132414-until-the-last-plane.json](./132414-until-the-last-plane.json) |
 | Until the Last Plane 1942 | 278347 | [278347-until-the-last-plane-1942.json](./278347-until-the-last-plane-1942.json) |
 | Until the Night | 202734 | [202734-until-the-night.json](./202734-until-the-night.json) |
 | Until Then | 134165 | [134165-until-then.json](./134165-until-then.json) |
