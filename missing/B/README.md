@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball and Trap | 100739 | [100739-ball-and-trap.json](./100739-ball-and-trap.json) |
 | Ball Animals | 238349 | [238349-ball-animals.json](./238349-ball-animals.json) |
 | Ball at Work: A Fun and Unique Game of Skill and Patience! | 139870 | [139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json](./139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json) |
+| Ball at Work: A Fun and Unique Game of Skill and Patience! - Boss Edition! | 174474 | [174474-ball-at-work-a-fun-and-unique-game-of-skill-and-patience-boss-edition.json](./174474-ball-at-work-a-fun-and-unique-game-of-skill-and-patience-boss-edition.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
 | Ball Attraction | 123989 | [123989-ball-attraction.json](./123989-ball-attraction.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
 | Basault VR | 190062 | [190062-basault-vr.json](./190062-basault-vr.json) |
 | Bascatball Coach | 174299 | [174299-bascatball-coach.json](./174299-bascatball-coach.json) |
+| BasCatball Jupiter: Basketball & Cat | 174509 | [174509-bascatball-jupiter-basketball-and-cat.json](./174509-bascatball-jupiter-basketball-and-cat.json) |
 | BasCatball Saturn: Basketball & Cat | 169396 | [169396-bascatball-saturn-basketball-and-cat.json](./169396-bascatball-saturn-basketball-and-cat.json) |
 | Base Attack | 40589 | [40589-base-attack.json](./40589-base-attack.json) |
 | Base Blitz | 327854 | [327854-base-blitz.json](./327854-base-blitz.json) |
@@ -3247,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ducks | 38979 | [38979-battle-ducks.json](./38979-battle-ducks.json) |
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Echoes | 283984 | [283984-battle-echoes.json](./283984-battle-echoes.json) |
+| Battle Ella | 174524 | [174524-battle-ella.json](./174524-battle-ella.json) |
 | Battle Engine Aquila | 344462 | [344462-battle-engine-aquila.json](./344462-battle-engine-aquila.json) |
 | Battle Engine Aquila | 5741 | [5741-battle-engine-aquila.json](./5741-battle-engine-aquila.json) |
 | Battle Factory Showdown | 306805 | [306805-battle-factory-showdown.json](./306805-battle-factory-showdown.json) |
@@ -4220,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Boys: You and Me | 214669 | [214669-beach-boys-you-and-me.json](./214669-beach-boys-you-and-me.json) |
 | Beach Buddies Brawl | 333674 | [333674-beach-buddies-brawl.json](./333674-beach-buddies-brawl.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
+| Beach Buggy Racing 2: Island Adventure - Oddball Car Pack | 174494 | [174494-beach-buggy-racing-2-island-adventure-oddball-car-pack.json](./174494-beach-buggy-racing-2-island-adventure-oddball-car-pack.json) |
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
 | Beach Bums | 307001 | [307001-beach-bums.json](./307001-beach-bums.json) |
 | Beach Buzzin Chopper | 42779 | [42779-beach-buzzin-chopper.json](./42779-beach-buzzin-chopper.json) |
@@ -10189,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blortasia | 32178 | [32178-blortasia.json](./32178-blortasia.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blosharper: Battle of Blossoms | 405561 | [405561-blosharper-battle-of-blossoms.json](./405561-blosharper-battle-of-blossoms.json) |
+| Blosics | 174479 | [174479-blosics.json](./174479-blosics.json) |
 | Blosics | 261920 | [261920-blosics.json](./261920-blosics.json) |
 | Blosics 2 | 320867 | [320867-blosics-2.json](./320867-blosics-2.json) |
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
@@ -15344,6 +15349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullets Squared | 146527 | [146527-bullets-squared.json](./146527-bullets-squared.json) |
 | Bullets Tracks: Son Of | 363574 | [363574-bullets-tracks-son-of.json](./363574-bullets-tracks-son-of.json) |
 | Bulletstorm VR | 251567 | [251567-bulletstorm-vr.json](./251567-bulletstorm-vr.json) |
+| Bulletstorm: Duke Nukem's Bulletstorm Tour | 174501 | [174501-bulletstorm-duke-nukems-bulletstorm-tour.json](./174501-bulletstorm-duke-nukems-bulletstorm-tour.json) |
 | Bulletstorm: Duke of Switch Edition | 116680 | [116680-bulletstorm-duke-of-switch-edition.json](./116680-bulletstorm-duke-of-switch-edition.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
 | Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
