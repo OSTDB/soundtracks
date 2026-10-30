@@ -5363,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Station Renovation | 211256 | [211256-fire-station-renovation.json](./211256-fire-station-renovation.json) |
 | Fire Story | 205869 | [205869-fire-story.json](./205869-fire-story.json) |
 | Fire Strike | 317044 | [317044-fire-strike.json](./317044-fire-strike.json) |
+| Fire Survival | 172360 | [172360-fire-survival.json](./172360-fire-survival.json) |
 | Fire Theft | 141749 | [141749-fire-theft.json](./141749-fire-theft.json) |
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
@@ -10064,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
+| Franky the Bumwalker: Reborn | 172327 | [172327-franky-the-bumwalker-reborn.json](./172327-franky-the-bumwalker-reborn.json) |
 | Franky's Adventures | 283562 | [283562-frankys-adventures.json](./283562-frankys-adventures.json) |
 | Frankystein | 97451 | [97451-frankystein.json](./97451-frankystein.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
@@ -12091,6 +12093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Scarecrows Oh My! | 321525 | [321525-furries-and-scalies-and-scarecrows-oh-my.json](./321525-furries-and-scalies-and-scarecrows-oh-my.json) |
 | Furries & Scalies: Friendswood | 128972 | [128972-furries-and-scalies-friendswood.json](./128972-furries-and-scalies-friendswood.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times | 130284 | [130284-furries-and-scalies-super-scary-halloween-spooky-times.json](./130284-furries-and-scalies-super-scary-halloween-spooky-times.json) |
+| Furries & Scalies: Super Scary Halloween Spooky Times Part II | 172320 | [172320-furries-and-scalies-super-scary-halloween-spooky-times-part-ii.json](./172320-furries-and-scalies-super-scary-halloween-spooky-times-part-ii.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times Part II - Richard III's Tiny Terrors | 226186 | [226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json](./226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
 | Furry 2 | 87807 | [87807-furry-2.json](./87807-furry-2.json) |
