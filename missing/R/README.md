@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Kanojo | 22469 | [22469-real-kanojo.json](./22469-real-kanojo.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Life Flappy Bird | 360627 | [360627-real-life-flappy-bird.json](./360627-real-life-flappy-bird.json) |
+| Real Life Plus Ver. Kaname Komatsuzaki | 133036 | [133036-real-life-plus-ver-kaname-komatsuzaki.json](./133036-real-life-plus-ver-kaname-komatsuzaki.json) |
 | Real Life Simulator | 407365 | [407365-real-life-simulator.json](./407365-real-life-simulator.json) |
 | Real Lives | 93439 | [93439-real-lives.json](./93439-real-lives.json) |
 | Real Madrid Club Football | 141135 | [141135-real-madrid-club-football.json](./141135-real-madrid-club-football.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
 | Red Frame | 403320 | [403320-red-frame.json](./403320-red-frame.json) |
 | Red Frontier | 374885 | [374885-red-frontier.json](./374885-red-frontier.json) |
+| Red Frontier 2 | 133026 | [133026-red-frontier-2.json](./133026-red-frontier-2.json) |
 | Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
 | Red Galaxy | 418869 | [418869-red-galaxy.json](./418869-red-galaxy.json) |
@@ -5724,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Réussir: Code de la Route - Bonus ASSR 1 - ASSR 2: Permis AM - French Highway Code | 298157 | [298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json](./298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json) |
 | Réussir: Code de la Route - Nouvelle édition | 144206 | [144206-reussir-code-de-la-route-nouvelle-edition.json](./144206-reussir-code-de-la-route-nouvelle-edition.json) |
 | Réussir: Code de la Route - Nouvelle Edition: French Highway Code | 227127 | [227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json](./227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json) |
+| Rev | 133003 | [133003-rev.json](./133003-rev.json) |
 | Rev Grav | 322065 | [322065-rev-grav.json](./322065-rev-grav.json) |
 | Rev Limit | 231509 | [231509-rev-limit.json](./231509-rev-limit.json) |
 | Rev to Vertex | 211604 | [211604-rev-to-vertex.json](./211604-rev-to-vertex.json) |
@@ -6723,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Walker | 293677 | [293677-rift-walker.json](./293677-rift-walker.json) |
 | Rift War Tower Defense | 351185 | [351185-rift-war-tower-defense.json](./351185-rift-war-tower-defense.json) |
 | Rift Wars | 378145 | [378145-rift-wars.json](./378145-rift-wars.json) |
+| Rift Wizard | 133045 | [133045-rift-wizard.json](./133045-rift-wizard.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift Wizard 3 | 400404 | [400404-rift-wizard-3.json](./400404-rift-wizard-3.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
@@ -10695,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rude Breaker | 190046 | [190046-rude-breaker.json](./190046-rude-breaker.json) |
 | Rude Chess | 290351 | [290351-rude-chess.json](./290351-rude-chess.json) |
 | Rude Racers | 120839 | [120839-rude-racers.json](./120839-rude-racers.json) |
+| Rude Racers: 2D Combat Racing | 133021 | [133021-rude-racers-2d-combat-racing.json](./133021-rude-racers-2d-combat-racing.json) |
 | Rude Supermarket Simulator | 417383 | [417383-rude-supermarket-simulator.json](./417383-rude-supermarket-simulator.json) |
 | Rudimentary Unfinished Shooter Entry | 413891 | [413891-rudimentary-unfinished-shooter-entry.json](./413891-rudimentary-unfinished-shooter-entry.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
