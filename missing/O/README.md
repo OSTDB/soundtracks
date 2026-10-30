@@ -2659,7 +2659,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onirical | 369358 | [369358-onirical.json](./369358-onirical.json) |
 | Onirike: Collector's Edition | 146124 | [146124-onirike-collectors-edition.json](./146124-onirike-collectors-edition.json) |
 | Onírillo | 302718 | [302718-onirillo.json](./302718-onirillo.json) |
+| Onirim: Crossroads and Dead Ends | 170715 | [170715-onirim-crossroads-and-dead-ends.json](./170715-onirim-crossroads-and-dead-ends.json) |
 | Onirim: Solitaire Card Game | 52282 | [52282-onirim-solitaire-card-game.json](./52282-onirim-solitaire-card-game.json) |
+| Onirim: The Door to the Oniverse | 170716 | [170716-onirim-the-door-to-the-oniverse.json](./170716-onirim-the-door-to-the-oniverse.json) |
 | Oniris Basket VR | 31615 | [31615-oniris-basket-vr.json](./31615-oniris-basket-vr.json) |
 | Onirogu | 181780 | [181780-onirogu.json](./181780-onirogu.json) |
 | Onironauta | 68601 | [68601-onironauta.json](./68601-onironauta.json) |
