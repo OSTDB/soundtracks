@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
 | Z-Arena | 28153 | [28153-z-arena.json](./28153-z-arena.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
+| Z-Blood Mission | 167464 | [167464-z-blood-mission.json](./167464-z-blood-mission.json) |
 | Z-Collapse | 190464 | [190464-z-collapse.json](./190464-z-collapse.json) |
 | Z-End | 74691 | [74691-z-end.json](./74691-z-end.json) |
 | Z-Exemplar | 26010 | [26010-z-exemplar.json](./26010-z-exemplar.json) |
@@ -884,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero-4 Champ RR | 60307 | [60307-zero-4-champ-rr.json](./60307-zero-4-champ-rr.json) |
 | Zero-4 Champ RR-Z | 58090 | [58090-zero-4-champ-rr-z.json](./58090-zero-4-champ-rr-z.json) |
 | Zero-5 | 381933 | [381933-zero-5.json](./381933-zero-5.json) |
+| Zero-based World | 167489 | [167489-zero-based-world.json](./167489-zero-based-world.json) |
 | Zero-G | 30011 | [30011-zero-g.json](./30011-zero-g.json) |
 | Zero-G Gunfight | 150931 | [150931-zero-g-gunfight.json](./150931-zero-g-gunfight.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
