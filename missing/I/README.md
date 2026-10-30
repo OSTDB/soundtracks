@@ -4660,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Hive | 276749 | [276749-into-the-hive.json](./276749-into-the-hive.json) |
 | Into the Ice: Nazis of Neuschwabenland | 38802 | [38802-into-the-ice-nazis-of-neuschwabenland.json](./38802-into-the-ice-nazis-of-neuschwabenland.json) |
 | Into the Inferno | 258629 | [258629-into-the-inferno.json](./258629-into-the-inferno.json) |
+| Into the Infinite | 132417 | [132417-into-the-infinite.json](./132417-into-the-infinite.json) |
 | Into the Knight | 157959 | [157959-into-the-knight.json](./157959-into-the-knight.json) |
 | Into the Light | 157424 | [157424-into-the-light.json](./157424-into-the-light.json) |
 | Into the Loop | 153843 | [153843-into-the-loop.json](./153843-into-the-loop.json) |
@@ -5037,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
 | Iosis | 224634 | [224634-iosis.json](./224634-iosis.json) |
 | IOSoccer | 82994 | [82994-iosoccer.json](./82994-iosoccer.json) |
+| Iota | 132431 | [132431-iota.json](./132431-iota.json) |
 | IOUA | 233888 | [233888-ioua.json](./233888-ioua.json) |
 | Ipad Baby | 282808 | [282808-ipad-baby.json](./282808-ipad-baby.json) |
 | iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
