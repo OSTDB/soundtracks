@@ -2535,7 +2535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2624,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindling Spirits | 178363 | [178363-kindling-spirits.json](./178363-kindling-spirits.json) |
 | Kindling: The Last Light | 183365 | [183365-kindling-the-last-light.json](./183365-kindling-the-last-light.json) |
 | Kindness | 177813 | [177813-kindness.json](./177813-kindness.json) |
+| Kindness Coins | 128786 | [128786-kindness-coins.json](./128786-kindness-coins.json) |
 | Kindred | 295896 | [295896-kindred.json](./295896-kindred.json) |
 | Kindred | 313888 | [313888-kindred.json](./313888-kindred.json) |
 | Kindred [SnowBound] | 402522 | [402522-kindred-snowbound.json](./402522-kindred-snowbound.json) |
@@ -5139,6 +5139,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krakatoa | 45368 | [45368-krakatoa.json](./45368-krakatoa.json) |
 | Krakels ABC: Den galna dammsugaren | 97704 | [97704-krakels-abc-den-galna-dammsugaren.json](./97704-krakels-abc-den-galna-dammsugaren.json) |
 | Krakels ABC: Det Magiska Äventyret | 97703 | [97703-krakels-abc-det-magiska-aventyret.json](./97703-krakels-abc-det-magiska-aventyret.json) |
+| Krakels ABC: Läsa | 128795 | [128795-krakels-abc-lasa.json](./128795-krakels-abc-lasa.json) |
+| Krakels ABC: Ordlek | 128794 | [128794-krakels-abc-ordlek.json](./128794-krakels-abc-ordlek.json) |
+| Krakels ABC: Stava | 128793 | [128793-krakels-abc-stava.json](./128793-krakels-abc-stava.json) |
 | Krakels ABC: Storm Över Allemansland | 97705 | [97705-krakels-abc-storm-over-allemansland.json](./97705-krakels-abc-storm-over-allemansland.json) |
 | Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
 | Kraken Academy: End of the World Edition | 169200 | [169200-kraken-academy-end-of-the-world-edition.json](./169200-kraken-academy-end-of-the-world-edition.json) |
