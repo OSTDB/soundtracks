@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jumper | 175792 | [175792-cat-jumper.json](./175792-cat-jumper.json) |
 | Cat Karting | 366951 | [366951-cat-karting.json](./366951-cat-karting.json) |
 | Cat Killer | 249176 | [249176-cat-killer.json](./249176-cat-killer.json) |
+| Cat Knight | 151408 | [151408-cat-knight.json](./151408-cat-knight.json) |
 | Cat Knights | 90096 | [90096-cat-knights.json](./90096-cat-knights.json) |
 | Cat Lab! | 344527 | [344527-cat-lab.json](./344527-cat-lab.json) |
 | Cat Lady | 119282 | [119282-cat-lady.json](./119282-cat-lady.json) |
@@ -8006,8 +8007,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
 | Cities in Motion | 1010 | [1010-cities-in-motion.json](./1010-cities-in-motion.json) |
 | Cities in Motion 2 Complete Edition | 317561 | [317561-cities-in-motion-2-complete-edition.json](./317561-cities-in-motion-2-complete-edition.json) |
+| Cities in Motion 2: Back to the Past | 151424 | [151424-cities-in-motion-2-back-to-the-past.json](./151424-cities-in-motion-2-back-to-the-past.json) |
 | Cities in Motion 2: Bus Mania | 52734 | [52734-cities-in-motion-2-bus-mania.json](./52734-cities-in-motion-2-bus-mania.json) |
 | Cities in Motion 2: European Cities | 52733 | [52733-cities-in-motion-2-european-cities.json](./52733-cities-in-motion-2-european-cities.json) |
+| Cities in Motion 2: European Vehicle Pack | 151423 | [151423-cities-in-motion-2-european-vehicle-pack.json](./151423-cities-in-motion-2-european-vehicle-pack.json) |
+| Cities in Motion 2: Lofty Landmarks | 151422 | [151422-cities-in-motion-2-lofty-landmarks.json](./151422-cities-in-motion-2-lofty-landmarks.json) |
 | Cities in Motion 2: Marvellous Monorails | 52730 | [52730-cities-in-motion-2-marvellous-monorails.json](./52730-cities-in-motion-2-marvellous-monorails.json) |
 | Cities in Motion 2: Olden Times | 151426 | [151426-cities-in-motion-2-olden-times.json](./151426-cities-in-motion-2-olden-times.json) |
 | Cities in Motion 2: Players Choice Vehicle Pack | 151425 | [151425-cities-in-motion-2-players-choice-vehicle-pack.json](./151425-cities-in-motion-2-players-choice-vehicle-pack.json) |
@@ -8015,12 +8019,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities in Motion 2: Wending Waterbuses | 52725 | [52725-cities-in-motion-2-wending-waterbuses.json](./52725-cities-in-motion-2-wending-waterbuses.json) |
 | Cities in Motion Collection | 51701 | [51701-cities-in-motion-collection.json](./51701-cities-in-motion-collection.json) |
 | Cities in Motion Complete Collection | 52731 | [52731-cities-in-motion-complete-collection.json](./52731-cities-in-motion-complete-collection.json) |
+| Cities in Motion: Design Classics | 151415 | [151415-cities-in-motion-design-classics.json](./151415-cities-in-motion-design-classics.json) |
 | Cities In Motion: Design Dreams | 404074 | [404074-cities-in-motion-design-dreams.json](./404074-cities-in-motion-design-dreams.json) |
 | Cities in Motion: Design Marvels | 52723 | [52723-cities-in-motion-design-marvels.json](./52723-cities-in-motion-design-marvels.json) |
 | Cities in Motion: Design Now | 52722 | [52722-cities-in-motion-design-now.json](./52722-cities-in-motion-design-now.json) |
+| Cities in Motion: Design Quirks | 151421 | [151421-cities-in-motion-design-quirks.json](./151421-cities-in-motion-design-quirks.json) |
 | Cities in Motion: German Cities | 52728 | [52728-cities-in-motion-german-cities.json](./52728-cities-in-motion-german-cities.json) |
+| Cities in Motion: London | 151418 | [151418-cities-in-motion-london.json](./151418-cities-in-motion-london.json) |
+| Cities in Motion: Metro Stations | 151419 | [151419-cities-in-motion-metro-stations.json](./151419-cities-in-motion-metro-stations.json) |
+| Cities in Motion: Paris | 151420 | [151420-cities-in-motion-paris.json](./151420-cities-in-motion-paris.json) |
+| Cities in Motion: St. Petersburg | 151416 | [151416-cities-in-motion-st-petersburg.json](./151416-cities-in-motion-st-petersburg.json) |
 | Cities in Motion: Tokyo | 52724 | [52724-cities-in-motion-tokyo.json](./52724-cities-in-motion-tokyo.json) |
 | Cities in Motion: Ulm | 52721 | [52721-cities-in-motion-ulm.json](./52721-cities-in-motion-ulm.json) |
+| Cities in Motion: US Cities | 151417 | [151417-cities-in-motion-us-cities.json](./151417-cities-in-motion-us-cities.json) |
 | Cities of the World Jigsaw Puzzles - Amsterdam | 248707 | [248707-cities-of-the-world-jigsaw-puzzles-amsterdam.json](./248707-cities-of-the-world-jigsaw-puzzles-amsterdam.json) |
 | Cities of the World Jigsaw Puzzles - Istanbul | 248712 | [248712-cities-of-the-world-jigsaw-puzzles-istanbul.json](./248712-cities-of-the-world-jigsaw-puzzles-istanbul.json) |
 | Cities of the World Jigsaw Puzzles - London | 248708 | [248708-cities-of-the-world-jigsaw-puzzles-london.json](./248708-cities-of-the-world-jigsaw-puzzles-london.json) |
@@ -8398,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | CityLights - San Francisco | 112904 | [112904-citylights-san-francisco.json](./112904-citylights-san-francisco.json) |
 | CityManager | 128833 | [128833-citymanager.json](./128833-citymanager.json) |
+| CityPunk | 151382 | [151382-citypunk.json](./151382-citypunk.json) |
 | Citypurger | 323411 | [323411-citypurger.json](./323411-citypurger.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | CityRunner | 155409 | [155409-cityrunner.json](./155409-cityrunner.json) |
