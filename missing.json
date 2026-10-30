@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T19:48:52.965Z",
-  "total_missing": 285446,
+  "generated_at": "2026-10-30T20:05:34.960Z",
+  "total_missing": 285498,
   "games": [
     {
       "igdb_id": 191680,
@@ -56147,6 +56147,11 @@
       "file": "missing/A/251061-an-inner-walk.json"
     },
     {
+      "igdb_id": 132427,
+      "game_name": "An Interesting Journey of Monsieur PAF",
+      "file": "missing/A/132427-an-interesting-journey-of-monsieur-paf.json"
+    },
+    {
       "igdb_id": 381762,
       "game_name": "An Introvert's Nightmare",
       "file": "missing/A/381762-an-introverts-nightmare.json"
@@ -102572,6 +102577,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -120427,6 +120437,11 @@
       "file": "missing/B/315236-bear-miner.json"
     },
     {
+      "igdb_id": 132436,
+      "game_name": "Bear Party: Adventure",
+      "file": "missing/B/132436-bear-party-adventure.json"
+    },
+    {
       "igdb_id": 330487,
       "game_name": "Bear Shooter",
       "file": "missing/B/330487-bear-shooter.json"
@@ -136480,6 +136495,11 @@
       "igdb_id": 267903,
       "game_name": "Birola World",
       "file": "missing/B/267903-birola-world.json"
+    },
+    {
+      "igdb_id": 132416,
+      "game_name": "Birth ME Code",
+      "file": "missing/B/132416-birth-me-code.json"
     },
     {
       "igdb_id": 115344,
@@ -152700,6 +152720,11 @@
       "igdb_id": 391029,
       "game_name": "Bochi Collection",
       "file": "missing/B/391029-bochi-collection.json"
+    },
+    {
+      "igdb_id": 132396,
+      "game_name": "Bock Bock",
+      "file": "missing/B/132396-bock-bock.json"
     },
     {
       "igdb_id": 272644,
@@ -174902,6 +174927,11 @@
       "file": "missing/B/91125-building-the-great-wall-of-china.json"
     },
     {
+      "igdb_id": 132402,
+      "game_name": "Building the Universe",
+      "file": "missing/B/132402-building-the-universe.json"
+    },
+    {
       "igdb_id": 107268,
       "game_name": "Buildings Have Feelings Too!",
       "file": "missing/B/107268-buildings-have-feelings-too.json"
@@ -181285,6 +181315,11 @@
       "igdb_id": 117726,
       "game_name": "C.H.A.O.S Tournament",
       "file": "missing/C/117726-c-h-a-o-s-tournament.json"
+    },
+    {
+      "igdb_id": 132413,
+      "game_name": "C.H.A.S.E.D.",
+      "file": "missing/C/132413-c-h-a-s-e-d.json"
     },
     {
       "igdb_id": 265402,
@@ -282537,6 +282572,11 @@
       "file": "missing/D/139798-dark-romance-ashville.json"
     },
     {
+      "igdb_id": 132432,
+      "game_name": "Dark Romance: Ashville - Collector's Edition",
+      "file": "missing/D/132432-dark-romance-ashville-collectors-edition.json"
+    },
+    {
       "igdb_id": 146516,
       "game_name": "Dark Romance: Curse of Bluebeard - Collector's Edition",
       "file": "missing/D/146516-dark-romance-curse-of-bluebeard-collectors-edition.json"
@@ -283845,6 +283885,11 @@
       "igdb_id": 59252,
       "game_name": "Darkestville Castle",
       "file": "missing/D/59252-darkestville-castle.json"
+    },
+    {
+      "igdb_id": 132398,
+      "game_name": "Darkevo",
+      "file": "missing/D/132398-darkevo.json"
     },
     {
       "igdb_id": 303455,
@@ -304887,6 +304932,11 @@
       "file": "missing/D/360742-deodar.json"
     },
     {
+      "igdb_id": 132409,
+      "game_name": "Deodato's Cannibal",
+      "file": "missing/D/132409-deodatos-cannibal.json"
+    },
+    {
       "igdb_id": 376205,
       "game_name": "Deorum",
       "file": "missing/D/376205-deorum.json"
@@ -323810,6 +323860,11 @@
       "igdb_id": 215921,
       "game_name": "Divinus Vanitas",
       "file": "missing/D/215921-divinus-vanitas.json"
+    },
+    {
+      "igdb_id": 132445,
+      "game_name": "Divisadero",
+      "file": "missing/D/132445-divisadero.json"
     },
     {
       "igdb_id": 217209,
@@ -356112,6 +356167,11 @@
       "file": "missing/D/178859-dungeon-of-choices.json"
     },
     {
+      "igdb_id": 132444,
+      "game_name": "Dungeon of Dark",
+      "file": "missing/D/132444-dungeon-of-dark.json"
+    },
+    {
       "igdb_id": 378235,
       "game_name": "Dungeon of Departure",
       "file": "missing/D/378235-dungeon-of-departure.json"
@@ -365135,6 +365195,11 @@
       "igdb_id": 203942,
       "game_name": "Echo's Climb",
       "file": "missing/E/203942-echos-climb.json"
+    },
+    {
+      "igdb_id": 132405,
+      "game_name": "Echo's Esker",
+      "file": "missing/E/132405-echos-esker.json"
     },
     {
       "igdb_id": 166752,
@@ -376792,6 +376857,11 @@
       "file": "missing/E/64137-enamel.json"
     },
     {
+      "igdb_id": 132440,
+      "game_name": "Enamored Risks",
+      "file": "missing/E/132440-enamored-risks.json"
+    },
+    {
       "igdb_id": 206233,
       "game_name": "EnantiO",
       "file": "missing/E/206233-enantio.json"
@@ -384597,6 +384667,11 @@
       "file": "missing/E/406563-escape-from-ground.json"
     },
     {
+      "igdb_id": 132441,
+      "game_name": "Escape from Gulag",
+      "file": "missing/E/132441-escape-from-gulag.json"
+    },
+    {
       "igdb_id": 372603,
       "game_name": "Escape From Hadrian's Wall",
       "file": "missing/E/372603-escape-from-hadrians-wall.json"
@@ -389307,6 +389382,11 @@
       "file": "missing/E/193967-eternium-mage-and-minions.json"
     },
     {
+      "igdb_id": 132404,
+      "game_name": "Eternower",
+      "file": "missing/E/132404-eternower.json"
+    },
+    {
       "igdb_id": 209628,
       "game_name": "Eternum",
       "file": "missing/E/209628-eternum.json"
@@ -389865,6 +389945,11 @@
       "igdb_id": 302513,
       "game_name": "Euphoria Games Bundle",
       "file": "missing/E/302513-euphoria-games-bundle.json"
+    },
+    {
+      "igdb_id": 132403,
+      "game_name": "Euphoria: Supreme Mechanics",
+      "file": "missing/E/132403-euphoria-supreme-mechanics.json"
     },
     {
       "igdb_id": 287033,
@@ -407737,6 +407822,11 @@
       "file": "missing/F/342827-fantastic-findings-hidden-seasons.json"
     },
     {
+      "igdb_id": 132401,
+      "game_name": "Fantastic Fishing",
+      "file": "missing/F/132401-fantastic-fishing.json"
+    },
+    {
       "igdb_id": 258100,
       "game_name": "Fantastic Fist",
       "file": "missing/F/258100-fantastic-fist.json"
@@ -413540,6 +413630,11 @@
       "igdb_id": 139774,
       "game_name": "Fatal Evidence: The Missing",
       "file": "missing/F/139774-fatal-evidence-the-missing.json"
+    },
+    {
+      "igdb_id": 132447,
+      "game_name": "Fatal Evidence: The Missing - Collector's Edition",
+      "file": "missing/F/132447-fatal-evidence-the-missing-collectors-edition.json"
     },
     {
       "igdb_id": 295825,
@@ -426242,6 +426337,11 @@
       "file": "missing/F/277588-fire-fly.json"
     },
     {
+      "igdb_id": 132438,
+      "game_name": "Fire for Effect",
+      "file": "missing/F/132438-fire-for-effect.json"
+    },
+    {
       "igdb_id": 73888,
       "game_name": "Fire From Heaven",
       "file": "missing/F/73888-fire-from-heaven.json"
@@ -432725,6 +432825,11 @@
       "igdb_id": 309373,
       "game_name": "Flappy Horse",
       "file": "missing/F/309373-flappy-horse.json"
+    },
+    {
+      "igdb_id": 132446,
+      "game_name": "Flappy Hypership Out of Control",
+      "file": "missing/F/132446-flappy-hypership-out-of-control.json"
     },
     {
       "igdb_id": 47528,
@@ -480922,6 +481027,11 @@
       "file": "missing/G/63647-ghosts-n-goblins-gold-knights-ii.json"
     },
     {
+      "igdb_id": 132421,
+      "game_name": "Ghosts 4 Everybody",
+      "file": "missing/G/132421-ghosts-4-everybody.json"
+    },
+    {
       "igdb_id": 180963,
       "game_name": "Ghosts and Apples",
       "file": "missing/G/180963-ghosts-and-apples.json"
@@ -482430,6 +482540,11 @@
       "igdb_id": 83448,
       "game_name": "Ginsei Table Games Wii",
       "file": "missing/G/83448-ginsei-table-games-wii.json"
+    },
+    {
+      "igdb_id": 132399,
+      "game_name": "Ginseng Hero",
+      "file": "missing/G/132399-ginseng-hero.json"
     },
     {
       "igdb_id": 116356,
@@ -489840,6 +489955,11 @@
       "igdb_id": 161172,
       "game_name": "Godkiller",
       "file": "missing/G/161172-godkiller.json"
+    },
+    {
+      "igdb_id": 132411,
+      "game_name": "Godking: Master of Rituals",
+      "file": "missing/G/132411-godking-master-of-rituals.json"
     },
     {
       "igdb_id": 202666,
@@ -520062,6 +520182,11 @@
       "file": "missing/H/73728-handy-caps.json"
     },
     {
+      "igdb_id": 132418,
+      "game_name": "Handy Dandy",
+      "file": "missing/H/132418-handy-dandy.json"
+    },
+    {
       "igdb_id": 385602,
       "game_name": "Handy Farm: Roguelike",
       "file": "missing/H/385602-handy-farm-roguelike.json"
@@ -523230,6 +523355,11 @@
       "igdb_id": 274989,
       "game_name": "Hareshi Moyakana",
       "file": "missing/H/274989-hareshi-moyakana.json"
+    },
+    {
+      "igdb_id": 132429,
+      "game_name": "Hargrave",
+      "file": "missing/H/132429-hargrave.json"
     },
     {
       "igdb_id": 406882,
@@ -594912,6 +595042,11 @@
       "file": "missing/I/258629-into-the-inferno.json"
     },
     {
+      "igdb_id": 132417,
+      "game_name": "Into the Infinite",
+      "file": "missing/I/132417-into-the-infinite.json"
+    },
+    {
       "igdb_id": 157959,
       "game_name": "Into the Knight",
       "file": "missing/I/157959-into-the-knight.json"
@@ -596795,6 +596930,11 @@
       "igdb_id": 82994,
       "game_name": "IOSoccer",
       "file": "missing/I/82994-iosoccer.json"
+    },
+    {
+      "igdb_id": 132431,
+      "game_name": "Iota",
+      "file": "missing/I/132431-iota.json"
     },
     {
       "igdb_id": 233888,
@@ -634437,6 +634577,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -658352,6 +658497,11 @@
       "file": "missing/L/412486-launch-window.json"
     },
     {
+      "igdb_id": 132408,
+      "game_name": "Launched!",
+      "file": "missing/L/132408-launched.json"
+    },
+    {
       "igdb_id": 358923,
       "game_name": "Launcher",
       "file": "missing/L/358923-launcher.json"
@@ -672230,6 +672380,11 @@
       "igdb_id": 75671,
       "game_name": "Light x Shadow",
       "file": "missing/L/75671-light-x-shadow.json"
+    },
+    {
+      "igdb_id": 132420,
+      "game_name": "Light Years Apart",
+      "file": "missing/L/132420-light-years-apart.json"
     },
     {
       "igdb_id": 63577,
@@ -708905,6 +709060,11 @@
       "igdb_id": 70681,
       "game_name": "Mall Maniacs",
       "file": "missing/M/70681-mall-maniacs.json"
+    },
+    {
+      "igdb_id": 132407,
+      "game_name": "Mall Master",
+      "file": "missing/M/132407-mall-master.json"
     },
     {
       "igdb_id": 67895,
@@ -775037,6 +775197,11 @@
       "file": "missing/M/320607-mosquito-simulator.json"
     },
     {
+      "igdb_id": 132410,
+      "game_name": "Mosquitoes and zombies",
+      "file": "missing/M/132410-mosquitoes-and-zombies.json"
+    },
+    {
       "igdb_id": 379040,
       "game_name": "Mosquiturros",
       "file": "missing/M/379040-mosquiturros.json"
@@ -810907,6 +811072,11 @@
       "file": "missing/N/35089-new-kind-of-adventure.json"
     },
     {
+      "igdb_id": 132395,
+      "game_name": "New King",
+      "file": "missing/N/132395-new-king.json"
+    },
+    {
       "igdb_id": 193241,
       "game_name": "New Lands",
       "file": "missing/N/193241-new-lands.json"
@@ -822535,6 +822705,11 @@
       "igdb_id": 274855,
       "game_name": "No Place To Hide",
       "file": "missing/N/274855-no-place-to-hide.json"
+    },
+    {
+      "igdb_id": 132448,
+      "game_name": "No Plan B",
+      "file": "missing/N/132448-no-plan-b.json"
     },
     {
       "igdb_id": 233534,
@@ -894617,6 +894792,11 @@
       "file": "missing/P/241411-pixel-family-fun-ultimate-edition.json"
     },
     {
+      "igdb_id": 132424,
+      "game_name": "Pixel Fight",
+      "file": "missing/P/132424-pixel-fight.json"
+    },
+    {
       "igdb_id": 134645,
       "game_name": "Pixel Fireplace",
       "file": "missing/P/134645-pixel-fireplace.json"
@@ -921290,6 +921470,11 @@
       "igdb_id": 174003,
       "game_name": "Premier Manager 08",
       "file": "missing/P/174003-premier-manager-08.json"
+    },
+    {
+      "igdb_id": 132394,
+      "game_name": "Premier Manager 10",
+      "file": "missing/P/132394-premier-manager-10.json"
     },
     {
       "igdb_id": 73617,
@@ -967195,6 +967380,11 @@
       "igdb_id": 59925,
       "game_name": "Red Pixel",
       "file": "missing/R/59925-red-pixel.json"
+    },
+    {
+      "igdb_id": 132428,
+      "game_name": "Red Planet Farming",
+      "file": "missing/R/132428-red-planet-farming.json"
     },
     {
       "igdb_id": 291178,
@@ -1078567,6 +1078757,11 @@
       "file": "missing/S/308548-so-many-words.json"
     },
     {
+      "igdb_id": 132433,
+      "game_name": "So May It Be: A Witch Dating Simulator",
+      "file": "missing/S/132433-so-may-it-be-a-witch-dating-simulator.json"
+    },
+    {
       "igdb_id": 245814,
       "game_name": "So Much Stuff 2",
       "file": "missing/S/245814-so-much-stuff-2.json"
@@ -1096652,6 +1096847,11 @@
       "file": "missing/S/245975-space-lines-ultimate-edition.json"
     },
     {
+      "igdb_id": 132423,
+      "game_name": "Space Lint",
+      "file": "missing/S/132423-space-lint.json"
+    },
+    {
       "igdb_id": 182390,
       "game_name": "Space Lords",
       "file": "missing/S/182390-space-lords.json"
@@ -1099285,6 +1099485,11 @@
       "igdb_id": 103675,
       "game_name": "Spacefarers!",
       "file": "missing/S/103675-spacefarers.json"
+    },
+    {
+      "igdb_id": 132430,
+      "game_name": "Spacefighter Rukia",
+      "file": "missing/S/132430-spacefighter-rukia.json"
     },
     {
       "igdb_id": 349175,
@@ -1107490,6 +1107695,11 @@
       "igdb_id": 316635,
       "game_name": "Spiritual Bond: Breaking the Curse, Intertwining Fates",
       "file": "missing/S/316635-spiritual-bond-breaking-the-curse-intertwining-fates.json"
+    },
+    {
+      "igdb_id": 132397,
+      "game_name": "Spiritual Calling VR",
+      "file": "missing/S/132397-spiritual-calling-vr.json"
     },
     {
       "igdb_id": 212440,
@@ -1157437,6 +1157647,11 @@
       "file": "missing/S/134332-super-thor-quest.json"
     },
     {
+      "igdb_id": 132412,
+      "game_name": "Super Thrustforce: Orbital Meat Police",
+      "file": "missing/S/132412-super-thrustforce-orbital-meat-police.json"
+    },
+    {
       "igdb_id": 4471,
       "game_name": "Super Thunder Blade",
       "file": "missing/S/4471-super-thunder-blade.json"
@@ -1203532,6 +1203747,11 @@
       "file": "missing/T/24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json"
     },
     {
+      "igdb_id": 132450,
+      "game_name": "The Chronicles of Robin Hood - The King of Thieves",
+      "file": "missing/T/132450-the-chronicles-of-robin-hood-the-king-of-thieves.json"
+    },
+    {
       "igdb_id": 244266,
       "game_name": "The Chronicles of Rovania: Darkest Bridge",
       "file": "missing/T/244266-the-chronicles-of-rovania-darkest-bridge.json"
@@ -1236432,6 +1236652,11 @@
       "file": "missing/T/312723-the-out-door.json"
     },
     {
+      "igdb_id": 132449,
+      "game_name": "The Outbound Ghost",
+      "file": "missing/T/132449-the-outbound-ghost.json"
+    },
+    {
       "igdb_id": 140970,
       "game_name": "The Outbreak",
       "file": "missing/T/140970-the-outbreak.json"
@@ -1261285,6 +1261510,11 @@
       "igdb_id": 69931,
       "game_name": "This Means War!",
       "file": "missing/T/69931-this-means-war.json"
+    },
+    {
+      "igdb_id": 132443,
+      "game_name": "This Means Warp",
+      "file": "missing/T/132443-this-means-warp.json"
     },
     {
       "igdb_id": 258695,
@@ -1295782,6 +1296012,11 @@
       "file": "missing/T/405870-traffic-stop-anomaly.json"
     },
     {
+      "igdb_id": 132426,
+      "game_name": "Traffic Storm",
+      "file": "missing/T/132426-traffic-storm.json"
+    },
+    {
       "igdb_id": 87282,
       "game_name": "Traffic Tour",
       "file": "missing/T/87282-traffic-tour.json"
@@ -1300165,6 +1300400,11 @@
       "igdb_id": 108347,
       "game_name": "Train Station Renovation",
       "file": "missing/T/108347-train-station-renovation.json"
+    },
+    {
+      "igdb_id": 132415,
+      "game_name": "Train Station Renovation: First Job",
+      "file": "missing/T/132415-train-station-renovation-first-job.json"
     },
     {
       "igdb_id": 195217,
@@ -1330822,6 +1331062,11 @@
       "file": "missing/U/189374-underwater-rescue.json"
     },
     {
+      "igdb_id": 132425,
+      "game_name": "Underwater Wars",
+      "file": "missing/U/132425-underwater-wars.json"
+    },
+    {
       "igdb_id": 204924,
       "game_name": "Underwater World",
       "file": "missing/U/204924-underwater-world.json"
@@ -1335270,6 +1335515,11 @@
       "igdb_id": 399077,
       "game_name": "Until the Last Philomel",
       "file": "missing/U/399077-until-the-last-philomel.json"
+    },
+    {
+      "igdb_id": 132414,
+      "game_name": "Until the Last Plane",
+      "file": "missing/U/132414-until-the-last-plane.json"
     },
     {
       "igdb_id": 278347,
@@ -1371417,6 +1371667,11 @@
       "file": "missing/W/34843-weapons-genius.json"
     },
     {
+      "igdb_id": 132437,
+      "game_name": "Weapons Genius VR",
+      "file": "missing/W/132437-weapons-genius-vr.json"
+    },
+    {
       "igdb_id": 199990,
       "game_name": "Weapons of Ra",
       "file": "missing/W/199990-weapons-of-ra.json"
@@ -1388255,6 +1388510,11 @@
       "igdb_id": 117648,
       "game_name": "Wizardas",
       "file": "missing/W/117648-wizardas.json"
+    },
+    {
+      "igdb_id": 132439,
+      "game_name": "WizardChess",
+      "file": "missing/W/132439-wizardchess.json"
     },
     {
       "igdb_id": 33264,
