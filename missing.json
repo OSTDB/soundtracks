@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T03:19:17.942Z",
-  "total_missing": 282198,
+  "generated_at": "2026-10-30T03:33:15.169Z",
+  "total_missing": 282246,
   "games": [
     {
       "igdb_id": 191680,
@@ -90192,6 +90192,16 @@
       "file": "missing/A/154542-atomicrops-deluxe-edition.json"
     },
     {
+      "igdb_id": 169049,
+      "game_name": "Atomicrops: Doom & Bloom",
+      "file": "missing/A/169049-atomicrops-doom-and-bloom.json"
+    },
+    {
+      "igdb_id": 169048,
+      "game_name": "Atomicrops: Feline Good",
+      "file": "missing/A/169048-atomicrops-feline-good.json"
+    },
+    {
       "igdb_id": 167929,
       "game_name": "Atomicrops: Invasive Species",
       "file": "missing/A/167929-atomicrops-invasive-species.json"
@@ -101482,11 +101492,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -110902,6 +110907,11 @@
       "file": "missing/B/54794-basic-programming.json"
     },
     {
+      "igdb_id": 169029,
+      "game_name": "Basic Rogue",
+      "file": "missing/B/169029-basic-rogue.json"
+    },
+    {
       "igdb_id": 127728,
       "game_name": "Basic Warfare",
       "file": "missing/B/127728-basic-warfare.json"
@@ -115942,6 +115952,11 @@
       "file": "missing/B/3091-battlefield-4-china-rising.json"
     },
     {
+      "igdb_id": 169034,
+      "game_name": "Battlefield 4: Community Operations",
+      "file": "missing/B/169034-battlefield-4-community-operations.json"
+    },
+    {
       "igdb_id": 3095,
       "game_name": "Battlefield 4: Dragon's Teeth",
       "file": "missing/B/3095-battlefield-4-dragons-teeth.json"
@@ -115952,9 +115967,19 @@
       "file": "missing/B/3096-battlefield-4-final-stand.json"
     },
     {
+      "igdb_id": 169033,
+      "game_name": "Battlefield 4: Legacy Operations",
+      "file": "missing/B/169033-battlefield-4-legacy-operations.json"
+    },
+    {
       "igdb_id": 51530,
       "game_name": "Battlefield 4: Limited Edition",
       "file": "missing/B/51530-battlefield-4-limited-edition.json"
+    },
+    {
+      "igdb_id": 169032,
+      "game_name": "Battlefield 4: Night Operations",
+      "file": "missing/B/169032-battlefield-4-night-operations.json"
     },
     {
       "igdb_id": 26098,
@@ -140785,6 +140810,16 @@
       "igdb_id": 116416,
       "game_name": "Blaster Master Zero II",
       "file": "missing/B/116416-blaster-master-zero-ii.json"
+    },
+    {
+      "igdb_id": 169043,
+      "game_name": "Blaster Master Zero II: Copen from \"Luminous Avenger iX\"",
+      "file": "missing/B/169043-blaster-master-zero-ii-copen-from-luminous-avenger-ix.json"
+    },
+    {
+      "igdb_id": 169044,
+      "game_name": "Blaster Master Zero II: Empress from \"Dragon Marked For Death\"",
+      "file": "missing/B/169044-blaster-master-zero-ii-empress-from-dragon-marked-for-death.json"
     },
     {
       "igdb_id": 145058,
@@ -275972,6 +276007,11 @@
       "file": "missing/D/345965-danger-world.json"
     },
     {
+      "igdb_id": 169031,
+      "game_name": "Danger Zombies",
+      "file": "missing/D/169031-danger-zombies.json"
+    },
+    {
       "igdb_id": 277687,
       "game_name": "Danger Zone",
       "file": "missing/D/277687-danger-zone.json"
@@ -365902,6 +365942,11 @@
       "file": "missing/E/99684-el-principio-del-fin.json"
     },
     {
+      "igdb_id": 169047,
+      "game_name": "El Puppster",
+      "file": "missing/E/169047-el-puppster.json"
+    },
+    {
       "igdb_id": 130290,
       "game_name": "El Remedio de Aldorf",
       "file": "missing/E/130290-el-remedio-de-aldorf.json"
@@ -367150,6 +367195,11 @@
       "igdb_id": 171488,
       "game_name": "Electronic Super Joy 2: Groove Wizard's Tower",
       "file": "missing/E/171488-electronic-super-joy-2-groove-wizards-tower.json"
+    },
+    {
+      "igdb_id": 169042,
+      "game_name": "Electronic Super Joy: A Hot Sticky Mess",
+      "file": "missing/E/169042-electronic-super-joy-a-hot-sticky-mess.json"
     },
     {
       "igdb_id": 156066,
@@ -455747,6 +455797,11 @@
       "file": "missing/F/240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json"
     },
     {
+      "igdb_id": 169040,
+      "game_name": "Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs - The Meerkats from Arkham",
+      "file": "missing/F/169040-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs-the-meerkats-from-arkham.json"
+    },
+    {
       "igdb_id": 164600,
       "game_name": "Furry Shakespeare: Dreamin' of One Lazy Dead Midsummer",
       "file": "missing/F/164600-furry-shakespeare-dreamin-of-one-lazy-dead-midsummer.json"
@@ -455755,6 +455810,11 @@
       "igdb_id": 133180,
       "game_name": "Furry Shakespeare: Emperor Penguin Lear",
       "file": "missing/F/133180-furry-shakespeare-emperor-penguin-lear.json"
+    },
+    {
+      "igdb_id": 169038,
+      "game_name": "Furry Shakespeare: Hamlet(s)",
+      "file": "missing/F/169038-furry-shakespeare-hamlet-s.json"
     },
     {
       "igdb_id": 128973,
@@ -455767,6 +455827,11 @@
       "file": "missing/F/152805-furry-shakespeare-oops-all-dragons.json"
     },
     {
+      "igdb_id": 169037,
+      "game_name": "Furry Shakespeare: The Reverse Hamlet Championships",
+      "file": "missing/F/169037-furry-shakespeare-the-reverse-hamlet-championships.json"
+    },
+    {
       "igdb_id": 115492,
       "game_name": "Furry Shakespeare: To Date or Not to Date Cat Girls?",
       "file": "missing/F/115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json"
@@ -455775,6 +455840,11 @@
       "igdb_id": 253951,
       "game_name": "Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience",
       "file": "missing/F/253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json"
+    },
+    {
+      "igdb_id": 169039,
+      "game_name": "Furry Shakespeare: To Date or Not to Date Cat Girls? - Winter's Tale",
+      "file": "missing/F/169039-furry-shakespeare-to-date-or-not-to-date-cat-girls-winters-tale.json"
     },
     {
       "igdb_id": 290884,
@@ -484810,6 +484880,11 @@
       "igdb_id": 295851,
       "game_name": "Godslayer Arena",
       "file": "missing/G/295851-godslayer-arena.json"
+    },
+    {
+      "igdb_id": 169035,
+      "game_name": "Godslayer: One",
+      "file": "missing/G/169035-godslayer-one.json"
     },
     {
       "igdb_id": 271131,
@@ -627460,11 +627535,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -777082,9 +777152,19 @@
       "file": "missing/M/288051-mx-vs-atv-legends-yamaha-pack-2023.json"
     },
     {
+      "igdb_id": 169055,
+      "game_name": "MX vs. ATV All Out: 2011 Honda TRX450R",
+      "file": "missing/M/169055-mx-vs-atv-all-out-2011-honda-trx450r.json"
+    },
+    {
       "igdb_id": 315218,
       "game_name": "MX vs. ATV All Out: 2011 Kawasaki KFX450R",
       "file": "missing/M/315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json"
+    },
+    {
+      "igdb_id": 169052,
+      "game_name": "MX vs. ATV All Out: 2011 KTM 450 SX",
+      "file": "missing/M/169052-mx-vs-atv-all-out-2011-ktm-450-sx.json"
     },
     {
       "igdb_id": 315219,
@@ -777092,9 +777172,54 @@
       "file": "missing/M/315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json"
     },
     {
+      "igdb_id": 169068,
+      "game_name": "MX vs. ATV All Out: 2017 Honda CRF 250R",
+      "file": "missing/M/169068-mx-vs-atv-all-out-2017-honda-crf-250r.json"
+    },
+    {
+      "igdb_id": 169063,
+      "game_name": "MX vs. ATV All Out: 2017 Honda CRF 450R",
+      "file": "missing/M/169063-mx-vs-atv-all-out-2017-honda-crf-450r.json"
+    },
+    {
       "igdb_id": 315220,
       "game_name": "MX vs. ATV All Out: 2017 Husqvarna FC 250",
       "file": "missing/M/315220-mx-vs-atv-all-out-2017-husqvarna-fc-250.json"
+    },
+    {
+      "igdb_id": 169060,
+      "game_name": "MX vs. ATV All Out: 2017 Husqvarna FC 350",
+      "file": "missing/M/169060-mx-vs-atv-all-out-2017-husqvarna-fc-350.json"
+    },
+    {
+      "igdb_id": 169065,
+      "game_name": "MX vs. ATV All Out: 2017 Husqvarna FC 450",
+      "file": "missing/M/169065-mx-vs-atv-all-out-2017-husqvarna-fc-450.json"
+    },
+    {
+      "igdb_id": 169054,
+      "game_name": "MX vs. ATV All Out: 2017 Husqvarna TC 125",
+      "file": "missing/M/169054-mx-vs-atv-all-out-2017-husqvarna-tc-125.json"
+    },
+    {
+      "igdb_id": 169075,
+      "game_name": "MX vs. ATV All Out: 2017 Husqvarna TC 250",
+      "file": "missing/M/169075-mx-vs-atv-all-out-2017-husqvarna-tc-250.json"
+    },
+    {
+      "igdb_id": 169076,
+      "game_name": "MX vs. ATV All Out: 2017 Kawasaki KX 250F",
+      "file": "missing/M/169076-mx-vs-atv-all-out-2017-kawasaki-kx-250f.json"
+    },
+    {
+      "igdb_id": 169062,
+      "game_name": "MX vs. ATV All Out: 2017 Kawasaki KX 450F",
+      "file": "missing/M/169062-mx-vs-atv-all-out-2017-kawasaki-kx-450f.json"
+    },
+    {
+      "igdb_id": 169067,
+      "game_name": "MX vs. ATV All Out: 2017 KTM 125 SX",
+      "file": "missing/M/169067-mx-vs-atv-all-out-2017-ktm-125-sx.json"
     },
     {
       "igdb_id": 315210,
@@ -777102,14 +777227,64 @@
       "file": "missing/M/315210-mx-vs-atv-all-out-2017-ktm-250-sx.json"
     },
     {
+      "igdb_id": 169051,
+      "game_name": "MX vs. ATV All Out: 2017 KTM 250 SX-F",
+      "file": "missing/M/169051-mx-vs-atv-all-out-2017-ktm-250-sx-f.json"
+    },
+    {
+      "igdb_id": 169056,
+      "game_name": "MX vs. ATV All Out: 2017 KTM 350 SX-F",
+      "file": "missing/M/169056-mx-vs-atv-all-out-2017-ktm-350-sx-f.json"
+    },
+    {
+      "igdb_id": 169077,
+      "game_name": "MX vs. ATV All Out: 2017 KTM 450 SX-F",
+      "file": "missing/M/169077-mx-vs-atv-all-out-2017-ktm-450-sx-f.json"
+    },
+    {
+      "igdb_id": 169074,
+      "game_name": "MX vs. ATV All Out: 2017 Suzuki RM-Z250",
+      "file": "missing/M/169074-mx-vs-atv-all-out-2017-suzuki-rm-z250.json"
+    },
+    {
+      "igdb_id": 169066,
+      "game_name": "MX vs. ATV All Out: 2017 Suzuki RM-Z450",
+      "file": "missing/M/169066-mx-vs-atv-all-out-2017-suzuki-rm-z450.json"
+    },
+    {
+      "igdb_id": 169061,
+      "game_name": "MX vs. ATV All Out: 2017 Yamaha YXZ1000R SS SE",
+      "file": "missing/M/169061-mx-vs-atv-all-out-2017-yamaha-yxz1000r-ss-se.json"
+    },
+    {
       "igdb_id": 315215,
       "game_name": "MX vs. ATV All Out: 2017 Yamaha YZ125",
       "file": "missing/M/315215-mx-vs-atv-all-out-2017-yamaha-yz125.json"
     },
     {
+      "igdb_id": 169069,
+      "game_name": "MX vs. ATV All Out: 2018 Polaris RZR XP 1000",
+      "file": "missing/M/169069-mx-vs-atv-all-out-2018-polaris-rzr-xp-1000.json"
+    },
+    {
+      "igdb_id": 169071,
+      "game_name": "MX vs. ATV All Out: 2018 Polaris RZR XP Turbo Dynamix",
+      "file": "missing/M/169071-mx-vs-atv-all-out-2018-polaris-rzr-xp-turbo-dynamix.json"
+    },
+    {
       "igdb_id": 206779,
       "game_name": "MX vs. ATV All Out: 2020 Pro Nationals Edition",
       "file": "missing/M/206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json"
+    },
+    {
+      "igdb_id": 169059,
+      "game_name": "MX vs. ATV All Out: Goat Farm",
+      "file": "missing/M/169059-mx-vs-atv-all-out-goat-farm.json"
+    },
+    {
+      "igdb_id": 169053,
+      "game_name": "MX vs. ATV All Out: Hometown MX Nationals",
+      "file": "missing/M/169053-mx-vs-atv-all-out-hometown-mx-nationals.json"
     },
     {
       "igdb_id": 315213,
@@ -777145,6 +777320,41 @@
       "igdb_id": 67625,
       "game_name": "MX vs. ATV: All Out",
       "file": "missing/M/67625-mx-vs-atv-all-out.json"
+    },
+    {
+      "igdb_id": 169070,
+      "game_name": "MX vs. ATV: All Out - 2017 Yamaha YFZ450R",
+      "file": "missing/M/169070-mx-vs-atv-all-out-2017-yamaha-yfz450r.json"
+    },
+    {
+      "igdb_id": 169050,
+      "game_name": "MX vs. ATV: All Out - 2017 Yamaha YXZ1000R",
+      "file": "missing/M/169050-mx-vs-atv-all-out-2017-yamaha-yxz1000r.json"
+    },
+    {
+      "igdb_id": 169072,
+      "game_name": "MX vs. ATV: All Out - 2017 Yamaha YZ250",
+      "file": "missing/M/169072-mx-vs-atv-all-out-2017-yamaha-yz250.json"
+    },
+    {
+      "igdb_id": 169058,
+      "game_name": "MX vs. ATV: All Out - 2017 Yamaha YZ250F",
+      "file": "missing/M/169058-mx-vs-atv-all-out-2017-yamaha-yz250f.json"
+    },
+    {
+      "igdb_id": 169064,
+      "game_name": "MX vs. ATV: All Out - 2017 Yamaha YZ450F",
+      "file": "missing/M/169064-mx-vs-atv-all-out-2017-yamaha-yz450f.json"
+    },
+    {
+      "igdb_id": 169057,
+      "game_name": "MX vs. ATV: All Out - 2018 AMA Arenacross",
+      "file": "missing/M/169057-mx-vs-atv-all-out-2018-ama-arenacross.json"
+    },
+    {
+      "igdb_id": 169073,
+      "game_name": "MX vs. ATV: All Out - 2018 Yamaha YXZ1000R",
+      "file": "missing/M/169073-mx-vs-atv-all-out-2018-yamaha-yxz1000r.json"
     },
     {
       "igdb_id": 115472,
@@ -781525,6 +781735,16 @@
       "igdb_id": 169086,
       "game_name": "My Neighborhood Arcade: InfiniMath Unit",
       "file": "missing/M/169086-my-neighborhood-arcade-infinimath-unit.json"
+    },
+    {
+      "igdb_id": 169080,
+      "game_name": "My Neighborhood Arcade: Number Crunchers",
+      "file": "missing/M/169080-my-neighborhood-arcade-number-crunchers.json"
+    },
+    {
+      "igdb_id": 169078,
+      "game_name": "My Neighborhood Arcade: Pathfinder",
+      "file": "missing/M/169078-my-neighborhood-arcade-pathfinder.json"
     },
     {
       "igdb_id": 169085,
@@ -1085662,6 +1085882,11 @@
       "file": "missing/S/68761-space-ship-commander.json"
     },
     {
+      "igdb_id": 169045,
+      "game_name": "Space Ship Drift",
+      "file": "missing/S/169045-space-ship-drift.json"
+    },
+    {
       "igdb_id": 165378,
       "game_name": "Space Ship: The Game",
       "file": "missing/S/165378-space-ship-the-game.json"
@@ -1177917,6 +1178142,11 @@
       "file": "missing/T/423270-terraform-co-factory-and-city.json"
     },
     {
+      "igdb_id": 169030,
+      "game_name": "Terraform Inc",
+      "file": "missing/T/169030-terraform-inc.json"
+    },
+    {
       "igdb_id": 238605,
       "game_name": "Terraforma",
       "file": "missing/T/238605-terraforma.json"
@@ -1198670,6 +1198900,11 @@
       "igdb_id": 264572,
       "game_name": "The Fairway Club",
       "file": "missing/T/264572-the-fairway-club.json"
+    },
+    {
+      "igdb_id": 169046,
+      "game_name": "The fairy tale you don't know",
+      "file": "missing/T/169046-the-fairy-tale-you-dont-know.json"
     },
     {
       "igdb_id": 140405,
@@ -1279625,6 +1279860,11 @@
       "igdb_id": 416853,
       "game_name": "Toy Chute: Sort Chute Organizer!",
       "file": "missing/T/416853-toy-chute-sort-chute-organizer.json"
+    },
+    {
+      "igdb_id": 169036,
+      "game_name": "Toy Clash: Commander of Toys",
+      "file": "missing/T/169036-toy-clash-commander-of-toys.json"
     },
     {
       "igdb_id": 212429,
