@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
 | Gachi Heroes | 110694 | [110694-gachi-heroes.json](./110694-gachi-heroes.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
+| Gachi Revenge | 158889 | [158889-gachi-revenge.json](./158889-gachi-revenge.json) |
 | Gachi Run: Running of the Slaves | 159508 | [159508-gachi-run-running-of-the-slaves.json](./159508-gachi-run-running-of-the-slaves.json) |
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
 | Gachi: Space Orgasm | 235786 | [235786-gachi-space-orgasm.json](./235786-gachi-space-orgasm.json) |
@@ -7883,6 +7884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Light | 393827 | [393827-green-light.json](./393827-green-light.json) |
 | Green Light District | 416837 | [416837-green-light-district.json](./416837-green-light-district.json) |
 | Green Magic | 359080 | [359080-green-magic.json](./359080-green-magic.json) |
+| Green Marquis | 158898 | [158898-green-marquis.json](./158898-green-marquis.json) |
 | Green Memories | 247130 | [247130-green-memories.json](./247130-green-memories.json) |
 | Green Mirror | 30598 | [30598-green-mirror.json](./30598-green-mirror.json) |
 | Green Mist Over Portland | 400558 | [400558-green-mist-over-portland.json](./400558-green-mist-over-portland.json) |
