@@ -11254,7 +11254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool of Death | 32795 | [32795-pool-of-death.json](./32795-pool-of-death.json) |
 | Pool of Madness | 295749 | [295749-pool-of-madness.json](./295749-pool-of-madness.json) |
-| Pool Panic | 95028 | [95028-pool-panic.json](./95028-pool-panic.json) |
 | Pool Paradise | 4073 | [4073-pool-paradise.json](./4073-pool-paradise.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Party | 226713 | [226713-pool-party.json](./226713-pool-party.json) |
