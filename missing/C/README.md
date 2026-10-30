@@ -14856,6 +14856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
+| Crazy City | 126769 | [126769-crazy-city.json](./126769-crazy-city.json) |
 | Crazy City Golf | 423215 | [423215-crazy-city-golf.json](./423215-crazy-city-golf.json) |
 | Crazy Click Thursday | 219746 | [219746-crazy-click-thursday.json](./219746-crazy-click-thursday.json) |
 | Crazy Climber | 218249 | [218249-crazy-climber.json](./218249-crazy-climber.json) |
@@ -16423,7 +16424,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Rebellion! | 373136 | [373136-crush-the-rebellion.json](./373136-crush-the-rebellion.json) |
 | Crush Them All | 97523 | [97523-crush-them-all.json](./97523-crush-them-all.json) |
 | Crush Them! | 203780 | [203780-crush-them.json](./203780-crush-them.json) |
-| Crush Your Enemies | 17027 | [17027-crush-your-enemies.json](./17027-crush-your-enemies.json) |
 | Crush Your Enemies: Complete Plundered Edition | 52856 | [52856-crush-your-enemies-complete-plundered-edition.json](./52856-crush-your-enemies-complete-plundered-edition.json) |
 | Crush! Deluxe | 71721 | [71721-crush-deluxe.json](./71721-crush-deluxe.json) |
 | Crush3D | 22922 | [22922-crush3d.json](./22922-crush3d.json) |
