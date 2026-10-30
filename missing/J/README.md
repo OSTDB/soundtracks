@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pro | 91316 | [91316-jigsaw-puzzle-pro.json](./91316-jigsaw-puzzle-pro.json) |
 | Jigsaw Puzzle Utopia | 322071 | [322071-jigsaw-puzzle-utopia.json](./322071-jigsaw-puzzle-utopia.json) |
 | Jigsaw Puzzle Villa | 220206 | [220206-jigsaw-puzzle-villa.json](./220206-jigsaw-puzzle-villa.json) |
+| Jigsaw Puzzle VR | 153074 | [153074-jigsaw-puzzle-vr.json](./153074-jigsaw-puzzle-vr.json) |
 | Jigsaw Puzzle World | 244344 | [244344-jigsaw-puzzle-world.json](./244344-jigsaw-puzzle-world.json) |
 | Jigsaw Puzzle World Memories | 244366 | [244366-jigsaw-puzzle-world-memories.json](./244366-jigsaw-puzzle-world-memories.json) |
 | Jigsaw Puzzle World: Agricultural Machinery | 293070 | [293070-jigsaw-puzzle-world-agricultural-machinery.json](./293070-jigsaw-puzzle-world-agricultural-machinery.json) |
