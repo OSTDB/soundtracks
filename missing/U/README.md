@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Futa Corruption | 236123 | [236123-unexpected-futa-corruption.json](./236123-unexpected-futa-corruption.json) |
 | Unexpected Journey | 361585 | [361585-unexpected-journey.json](./361585-unexpected-journey.json) |
 | Unexpected Pigeon Race | 324722 | [324722-unexpected-pigeon-race.json](./324722-unexpected-pigeon-race.json) |
+| Unexpected Sequence | 128156 | [128156-unexpected-sequence.json](./128156-unexpected-sequence.json) |
 | Unexpected Tasks | 416987 | [416987-unexpected-tasks.json](./416987-unexpected-tasks.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | Unexplored 2: The Wayfarer's Legacy | 119343 | [119343-unexplored-2-the-wayfarers-legacy.json](./119343-unexplored-2-the-wayfarers-legacy.json) |
