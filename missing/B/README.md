@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4621,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Legend: Avicii | 175320 | [175320-beat-legend-avicii.json](./175320-beat-legend-avicii.json) |
+| Beat Me If You Can | 156841 | [156841-beat-me-if-you-can.json](./156841-beat-me-if-you-can.json) |
 | Beat Me! | 125670 | [125670-beat-me.json](./125670-beat-me.json) |
 | Beat Me! Puppetonia Tournament | 156515 | [156515-beat-me-puppetonia-tournament.json](./156515-beat-me-puppetonia-tournament.json) |
 | Beat Meet | 325907 | [325907-beat-meet.json](./325907-beat-meet.json) |
@@ -7622,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birzzle | 341849 | [341849-birzzle.json](./341849-birzzle.json) |
 | Biscats | 259445 | [259445-biscats.json](./259445-biscats.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
+| Biscuitts 2 | 156814 | [156814-biscuitts-2.json](./156814-biscuitts-2.json) |
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
 | Biscuitts 5 | 247606 | [247606-biscuitts-5.json](./247606-biscuitts-5.json) |
 | Bish Bash Bots | 244419 | [244419-bish-bash-bots.json](./244419-bish-bash-bots.json) |
@@ -11610,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
 | Book of Myths | 174616 | [174616-book-of-myths.json](./174616-book-of-myths.json) |
 | Book of Potentia 2 | 43161 | [43161-book-of-potentia-2.json](./43161-book-of-potentia-2.json) |
+| Book of Shadows | 156860 | [156860-book-of-shadows.json](./156860-book-of-shadows.json) |
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
 | Book of Sophia | 158869 | [158869-book-of-sophia.json](./158869-book-of-sophia.json) |
 | Book of Spells | 303357 | [303357-book-of-spells.json](./303357-book-of-spells.json) |
@@ -11705,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Slayer | 234671 | [234671-boom-slayer.json](./234671-boom-slayer.json) |
 | Boom Slingers | 142879 | [142879-boom-slingers.json](./142879-boom-slingers.json) |
 | Boom Squad | 74978 | [74978-boom-squad.json](./74978-boom-squad.json) |
+| Boom Stick | 156853 | [156853-boom-stick.json](./156853-boom-stick.json) |
 | Boom Stick in the Mud | 275209 | [275209-boom-stick-in-the-mud.json](./275209-boom-stick-in-the-mud.json) |
 | Boom Voyage | 288112 | [288112-boom-voyage.json](./288112-boom-voyage.json) |
 | Boom Wars | 188436 | [188436-boom-wars.json](./188436-boom-wars.json) |
@@ -15763,6 +15768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger in Partyland | 63725 | [63725-burger-in-partyland.json](./63725-burger-in-partyland.json) |
 | Burger Island 2: The Missing Ingredient | 206694 | [206694-burger-island-2-the-missing-ingredient.json](./206694-burger-island-2-the-missing-ingredient.json) |
 | Burger Jack | 65447 | [65447-burger-jack.json](./65447-burger-jack.json) |
+| Burger Joint | 156851 | [156851-burger-joint.json](./156851-burger-joint.json) |
 | Burger Joint Simulator | 401614 | [401614-burger-joint-simulator.json](./401614-burger-joint-simulator.json) |
 | Burger King Foot Lettuce | 380546 | [380546-burger-king-foot-lettuce.json](./380546-burger-king-foot-lettuce.json) |
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
