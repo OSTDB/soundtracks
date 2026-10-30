@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nainai no Meitantei | 387117 | [387117-nainai-no-meitantei.json](./387117-nainai-no-meitantei.json) |
 | Nainai's Recipe | 152085 | [152085-nainais-recipe.json](./152085-nainais-recipe.json) |
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
+| Nair | 151951 | [151951-nair.json](./151951-nair.json) |
 | Nair Pico | 364265 | [364265-nair-pico.json](./364265-nair-pico.json) |
 | Nairi: Tower of Shirin | 57192 | [57192-nairi-tower-of-shirin.json](./57192-nairi-tower-of-shirin.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
@@ -2969,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Slippery Samurai | 169715 | [169715-new-slippery-samurai.json](./169715-new-slippery-samurai.json) |
 | New Solitaire | 88871 | [88871-new-solitaire.json](./88871-new-solitaire.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
+| New Spirits | 151964 | [151964-new-spirits.json](./151964-new-spirits.json) |
 | New Spring: Survival | 235907 | [235907-new-spring-survival.json](./235907-new-spring-survival.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
 | New Star Grand Prix | 67064 | [67064-new-star-grand-prix.json](./67064-new-star-grand-prix.json) |
