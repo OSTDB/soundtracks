@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
 | Battle Life Online | 154868 | [154868-battle-life-online.json](./154868-battle-life-online.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
+| Battle Lust | 152615 | [152615-battle-lust.json](./152615-battle-lust.json) |
 | Battle Mage | 236729 | [236729-battle-mage.json](./236729-battle-mage.json) |
 | Battle Mage : Card Caster | 127166 | [127166-battle-mage-card-caster.json](./127166-battle-mage-card-caster.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
@@ -3549,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Robot Retsuden | 44424 | [44424-battle-robot-retsuden.json](./44424-battle-robot-retsuden.json) |
 | Battle Robots | 226256 | [226256-battle-robots.json](./226256-battle-robots.json) |
 | Battle Robots: Confrontation | 308027 | [308027-battle-robots-confrontation.json](./308027-battle-robots-confrontation.json) |
+| Battle Rollers | 152567 | [152567-battle-rollers.json](./152567-battle-rollers.json) |
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
 | Battle Royal | 42758 | [42758-battle-royal.json](./42758-battle-royal.json) |
 | Battle Royal: Battlegrounds Call | 328569 | [328569-battle-royal-battlegrounds-call.json](./328569-battle-royal-battlegrounds-call.json) |
@@ -5788,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
 | Beneath the Mind | 336630 | [336630-beneath-the-mind.json](./336630-beneath-the-mind.json) |
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
+| Beneath the Nexus | 152610 | [152610-beneath-the-nexus.json](./152610-beneath-the-nexus.json) |
 | Beneath the Pyramids | 280883 | [280883-beneath-the-pyramids.json](./280883-beneath-the-pyramids.json) |
 | Beneath The Rooftop Sky | 337696 | [337696-beneath-the-rooftop-sky.json](./337696-beneath-the-rooftop-sky.json) |
 | Beneath the shadows | 178377 | [178377-beneath-the-shadows.json](./178377-beneath-the-shadows.json) |
@@ -10837,6 +10840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodi Pripravljen: Be Prepared | 379887 | [379887-bodi-pripravljen-be-prepared.json](./379887-bodi-pripravljen-be-prepared.json) |
 | Bodian's Bay Wash | 405519 | [405519-bodians-bay-wash.json](./405519-bodians-bay-wash.json) |
 | Bodies Left Behind | 357437 | [357437-bodies-left-behind.json](./357437-bodies-left-behind.json) |
+| Bodies of Water VR | 152596 | [152596-bodies-of-water-vr.json](./152596-bodies-of-water-vr.json) |
 | Body and Brain Connection | 25189 | [25189-body-and-brain-connection.json](./25189-body-and-brain-connection.json) |
 | Body and Soul | 176977 | [176977-body-and-soul.json](./176977-body-and-soul.json) |
 | Body Blows | 11974 | [11974-body-blows.json](./11974-body-blows.json) |
