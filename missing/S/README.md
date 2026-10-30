@@ -4720,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfie Girls | 271596 | [271596-selfie-girls.json](./271596-selfie-girls.json) |
 | Selfie Worm | 404362 | [404362-selfie-worm.json](./404362-selfie-worm.json) |
 | Selfish Cupid | 254041 | [254041-selfish-cupid.json](./254041-selfish-cupid.json) |
+| Selfless Heroes | 131820 | [131820-selfless-heroes.json](./131820-selfless-heroes.json) |
 | Selfloss | 118622 | [118622-selfloss.json](./118622-selfloss.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
@@ -14037,6 +14038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snug Finder: More Fun | 219472 | [219472-snug-finder-more-fun.json](./219472-snug-finder-more-fun.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
 | Snuggle Truck | 9025 | [9025-snuggle-truck.json](./9025-snuggle-truck.json) |
+| Snugglebat | 131794 | [131794-snugglebat.json](./131794-snugglebat.json) |
 | Snusoed | 154389 | [154389-snusoed.json](./154389-snusoed.json) |
 | Snwbrd: Freestyle Snowboarding | 235196 | [235196-snwbrd-freestyle-snowboarding.json](./235196-snwbrd-freestyle-snowboarding.json) |
 | Snyatcher | 292387 | [292387-snyatcher.json](./292387-snyatcher.json) |
@@ -15491,6 +15493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Chaos Remake | 321992 | [321992-sonic-chaos-remake.json](./321992-sonic-chaos-remake.json) |
 | Sonic Chaos Revolution | 329946 | [329946-sonic-chaos-revolution.json](./329946-sonic-chaos-revolution.json) |
 | Sonic Charge | 331436 | [331436-sonic-charge.json](./331436-sonic-charge.json) |
+| Sonic Chopped & Screwed | 131788 | [131788-sonic-chopped-and-screwed.json](./131788-sonic-chopped-and-screwed.json) |
 | Sonic Chronicles: The Dark Brotherhood | 299874 | [299874-sonic-chronicles-the-dark-brotherhood.json](./299874-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Chrono Adventure | 19739 | [19739-sonic-chrono-adventure.json](./19739-sonic-chrono-adventure.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
@@ -17894,6 +17897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space Rogue | 23279 | [23279-space-rogue.json](./23279-space-rogue.json) |
 | Space Roguelike Adventure | 190386 | [190386-space-roguelike-adventure.json](./190386-space-roguelike-adventure.json) |
+| Space Routine | 131799 | [131799-space-routine.json](./131799-space-routine.json) |
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
 | Space Run : Super Car Endless Game 2014 | 106730 | [106730-space-run-super-car-endless-game-2014.json](./106730-space-run-super-car-endless-game-2014.json) |
@@ -20506,6 +20510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
+| Spring of Life | 131751 | [131751-spring-of-life.json](./131751-spring-of-life.json) |
 | Spring Puzzle | 235614 | [235614-spring-puzzle.json](./235614-spring-puzzle.json) |
 | Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
 | Spring Time Excellent Cherry Blossom Fun | 179507 | [179507-spring-time-excellent-cherry-blossom-fun.json](./179507-spring-time-excellent-cherry-blossom-fun.json) |
@@ -24179,6 +24184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stimulants | 262268 | [262268-stimulants.json](./262268-stimulants.json) |
 | Stimulation Clicker | 327636 | [327636-stimulation-clicker.json](./327636-stimulation-clicker.json) |
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
+| Sting | 131814 | [131814-sting.json](./131814-sting.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Sting of the Wasp | 217760 | [217760-sting-of-the-wasp.json](./217760-sting-of-the-wasp.json) |
@@ -24691,6 +24697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Brigade: The Thrice Damned 3 - Great Pyramid of Bes | 141059 | [141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json](./141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json) |
 | Strange Case: The Alchemist | 188293 | [188293-strange-case-the-alchemist.json](./188293-strange-case-the-alchemist.json) |
 | Strange Cases: The Faces of Vengeance | 397794 | [397794-strange-cases-the-faces-of-vengeance.json](./397794-strange-cases-the-faces-of-vengeance.json) |
+| Strange Creatures | 131759 | [131759-strange-creatures.json](./131759-strange-creatures.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
 | Strange Field Football | 145850 | [145850-strange-field-football.json](./145850-strange-field-football.json) |
@@ -31660,6 +31667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipey Maze | 233085 | [233085-swipey-maze.json](./233085-swipey-maze.json) |
 | Swipez Puzzle | 175083 | [175083-swipez-puzzle.json](./175083-swipez-puzzle.json) |
 | Swire Future | 158125 | [158125-swire-future.json](./158125-swire-future.json) |
+| Swiscape | 131765 | [131765-swiscape.json](./131765-swiscape.json) |
 | Swish Ball Clicker | 405591 | [405591-swish-ball-clicker.json](./405591-swish-ball-clicker.json) |
 | Swish Ball! | 238934 | [238934-swish-ball.json](./238934-swish-ball.json) |
 | Swiss Alps Jigsaw Puzzles | 158529 | [158529-swiss-alps-jigsaw-puzzles.json](./158529-swiss-alps-jigsaw-puzzles.json) |
