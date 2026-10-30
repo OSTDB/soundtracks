@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de 3 | 70657 | [70657-harukanaru-toki-no-naka-de-3.json](./70657-harukanaru-toki-no-naka-de-3.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
 | Harukanaru Toki no Naka De 3: Izayoiki | 219154 | [219154-harukanaru-toki-no-naka-de-3-izayoiki.json](./219154-harukanaru-toki-no-naka-de-3-izayoiki.json) |
+| Harukanaru Toki no Naka de 3: Unmei no Labyrinth | 136685 | [136685-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth.json](./136685-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth.json) |
 | Harukanaru Toki no Naka De 3: Unmei no Labyrinth Aizouban | 219155 | [219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json](./219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json) |
 | Harukanaru Toki no Naka de 4 | 70656 | [70656-harukanaru-toki-no-naka-de-4.json](./70656-harukanaru-toki-no-naka-de-4.json) |
 | Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
