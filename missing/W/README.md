@@ -5427,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
 | Winter War | 59316 | [59316-winter-war.json](./59316-winter-war.json) |
+| Winter Warfare: Survival | 173960 | [173960-winter-warfare-survival.json](./173960-winter-warfare-survival.json) |
 | Winter Wastelands | 166849 | [166849-winter-wastelands.json](./166849-winter-wastelands.json) |
 | Winter Winds | 307886 | [307886-winter-winds.json](./307886-winter-winds.json) |
 | Winter Witch | 359022 | [359022-winter-witch.json](./359022-winter-witch.json) |
@@ -6848,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordCookies Cross | 87002 | [87002-wordcookies-cross.json](./87002-wordcookies-cross.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Worddate | 202045 | [202045-worddate.json](./202045-worddate.json) |
+| Wordding | 173964 | [173964-wordding.json](./173964-wordding.json) |
 | Wordeal | 183811 | [183811-wordeal.json](./183811-wordeal.json) |
 | Worded! | 233051 | [233051-worded.json](./233051-worded.json) |
 | Wordeous | 141694 | [141694-wordeous.json](./141694-wordeous.json) |
