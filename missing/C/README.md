@@ -14482,6 +14482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawl Tactics | 211211 | [211211-crawl-tactics.json](./211211-crawl-tactics.json) |
 | Crawl to Edge | 234621 | [234621-crawl-to-edge.json](./234621-crawl-to-edge.json) |
 | Crawlco Block Knockers | 144623 | [144623-crawlco-block-knockers.json](./144623-crawlco-block-knockers.json) |
+| Crawler | 166933 | [166933-crawler.json](./166933-crawler.json) |
 | Crawler | 293038 | [293038-crawler.json](./293038-crawler.json) |
 | Crawler | 380096 | [380096-crawler.json](./380096-crawler.json) |
 | Crawlies | 181840 | [181840-crawlies.json](./181840-crawlies.json) |
@@ -15253,6 +15254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Scene | 21653 | [21653-crime-scene.json](./21653-crime-scene.json) |
 | Crime Scene | 232948 | [232948-crime-scene.json](./232948-crime-scene.json) |
 | Crime Scene Cleaner | 115830 | [115830-crime-scene-cleaner.json](./115830-crime-scene-cleaner.json) |
+| Crime Scene Technician | 166930 | [166930-crime-scene-technician.json](./166930-crime-scene-technician.json) |
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
 | Crime Shadows: Stolen Spotlight - Collector's Edition | 416616 | [416616-crime-shadows-stolen-spotlight-collectors-edition.json](./416616-crime-shadows-stolen-spotlight-collectors-edition.json) |
 | Crime Simulator | 301426 | [301426-crime-simulator.json](./301426-crime-simulator.json) |
@@ -18044,6 +18046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber Village | 401905 | [401905-cyber-village.json](./401905-cyber-village.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
+| Cyber War Apocalypse | 166934 | [166934-cyber-war-apocalypse.json](./166934-cyber-war-apocalypse.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
 | Cyber West: Hidden Object Games - Western | 232525 | [232525-cyber-west-hidden-object-games-western.json](./232525-cyber-west-hidden-object-games-western.json) |
 | Cyber Workshop | 292405 | [292405-cyber-workshop.json](./292405-cyber-workshop.json) |
