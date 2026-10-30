@@ -16371,6 +16371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azkend | 20368 | [20368-azkend.json](./20368-azkend.json) |
 | Azkend 2: The World Beneath | 19893 | [19893-azkend-2-the-world-beneath.json](./19893-azkend-2-the-world-beneath.json) |
 | Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
+| Azmar Quest | 134836 | [134836-azmar-quest.json](./134836-azmar-quest.json) |
 | Aznak | 199312 | [199312-aznak.json](./199312-aznak.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
 | Azooma Escape | 311549 | [311549-azooma-escape.json](./311549-azooma-escape.json) |
@@ -16460,6 +16461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurebreak Heroes | 121560 | [121560-azurebreak-heroes.json](./121560-azurebreak-heroes.json) |
 | Azurian Attack | 46771 | [46771-azurian-attack.json](./46771-azurian-attack.json) |
 | Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
+| Azusa 999 | 134825 | [134825-azusa-999.json](./134825-azusa-999.json) |
 | Azusa RP Online | 114790 | [114790-azusa-rp-online.json](./114790-azusa-rp-online.json) |
 | AzuTower | 289739 | [289739-azutower.json](./289739-azutower.json) |
 | Azy | 172066 | [172066-azy.json](./172066-azy.json) |
