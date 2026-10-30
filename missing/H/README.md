@@ -5231,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Pop | 151603 | [151603-hero-pop.json](./151603-hero-pop.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
+| Hero Raging Fire | 164180 | [164180-hero-raging-fire.json](./164180-hero-raging-fire.json) |
 | Hero Realms | 203785 | [203785-hero-realms.json](./203785-hero-realms.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
 | Hero Rescue 3 | 233511 | [233511-hero-rescue-3.json](./233511-hero-rescue-3.json) |
