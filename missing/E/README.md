@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eador: Imperium | 19404 | [19404-eador-imperium.json](./19404-eador-imperium.json) |
 | Eador: Masters of the Broken World | 7719 | [7719-eador-masters-of-the-broken-world.json](./7719-eador-masters-of-the-broken-world.json) |
 | Eador: Masters of the Broken World - Allied Forces | 9206 | [9206-eador-masters-of-the-broken-world-allied-forces.json](./9206-eador-masters-of-the-broken-world-allied-forces.json) |
+| Eager For Den | 158891 | [158891-eager-for-den.json](./158891-eager-for-den.json) |
 | Eagle | 13626 | [13626-eagle.json](./13626-eagle.json) |
 | Eagle Empire | 40915 | [40915-eagle-empire.json](./40915-eagle-empire.json) |
 | Eagle Eye Golf | 20583 | [20583-eagle-eye-golf.json](./20583-eagle-eye-golf.json) |
