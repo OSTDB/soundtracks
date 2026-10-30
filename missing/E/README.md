@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emagon | 60783 | [60783-emagon.json](./60783-emagon.json) |
 | Emaki | 275434 | [275434-emaki.json](./275434-emaki.json) |
 | Eman Quest | 179400 | [179400-eman-quest.json](./179400-eman-quest.json) |
+| Emanate | 173418 | [173418-emanate.json](./173418-emanate.json) |
 | Emancipator Go! | 217456 | [217456-emancipator-go.json](./217456-emancipator-go.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Emazing Mazes | 209200 | [209200-emazing-mazes.json](./209200-emazing-mazes.json) |
@@ -7063,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Kittens 2 | 336644 | [336644-exploding-kittens-2.json](./336644-exploding-kittens-2.json) |
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
 | Exploding Wall | 13652 | [13652-exploding-wall.json](./13652-exploding-wall.json) |
+| Exploit | 173424 | [173424-exploit.json](./173424-exploit.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Explora III: Sous le Signe du Serpent | 14181 | [14181-explora-iii-sous-le-signe-du-serpent.json](./14181-explora-iii-sous-le-signe-du-serpent.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
