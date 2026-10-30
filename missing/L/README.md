@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Anime Boy 2: Hentai Zombie Hell | 106194 | [106194-last-anime-boy-2-hentai-zombie-hell.json](./106194-last-anime-boy-2-hentai-zombie-hell.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
+| Last Archmage Journey of Light | 168010 | [168010-last-archmage-journey-of-light.json](./168010-last-archmage-journey-of-light.json) |
 | Last Armageddon | 48436 | [48436-last-armageddon.json](./48436-last-armageddon.json) |
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
 | Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
