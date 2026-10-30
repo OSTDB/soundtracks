@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Tails | 127228 | [127228-unicorn-tails.json](./127228-unicorn-tails.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Unicornicopia | 114131 | [114131-unicornicopia.json](./114131-unicornicopia.json) |
+| Unicorns on Unicycles | 158894 | [158894-unicorns-on-unicycles.json](./158894-unicorns-on-unicycles.json) |
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
 | Unicycle Hero | 87054 | [87054-unicycle-hero.json](./87054-unicycle-hero.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
