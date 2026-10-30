@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGa: Emerald Beyond | 266681 | [266681-saga-emerald-beyond.json](./266681-saga-emerald-beyond.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
+| Sagaia | 145878 | [145878-sagaia.json](./145878-sagaia.json) |
 | Sagakure | 116430 | [116430-sagakure.json](./116430-sagakure.json) |
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
@@ -9952,6 +9953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
 | Simply Sudoku | 85379 | [85379-simply-sudoku.json](./85379-simply-sudoku.json) |
 | Simply Survive | 246788 | [246788-simply-survive.json](./246788-simply-survive.json) |
+| SimPocalypse | 145846 | [145846-simpocalypse.json](./145846-simpocalypse.json) |
 | SimPoly Drive | 243522 | [243522-simpoly-drive.json](./243522-simpoly-drive.json) |
 | Simpsons Treehouse of horror | 102715 | [102715-simpsons-treehouse-of-horror.json](./102715-simpsons-treehouse-of-horror.json) |
 | SimRail: The Railway Simulator | 164278 | [164278-simrail-the-railway-simulator.json](./164278-simrail-the-railway-simulator.json) |
@@ -11400,6 +11402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland 1976 | 126349 | [126349-skyland-1976.json](./126349-skyland-1976.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skyland Farmer | 339079 | [339079-skyland-farmer.json](./339079-skyland-farmer.json) |
+| Skyland Rush: Air Raid Attack | 145963 | [145963-skyland-rush-air-raid-attack.json](./145963-skyland-rush-air-raid-attack.json) |
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
 | Skylanders SuperChargers: Dark Edition Starter Pack | 166979 | [166979-skylanders-superchargers-dark-edition-starter-pack.json](./166979-skylanders-superchargers-dark-edition-starter-pack.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
@@ -15062,6 +15065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sometimes They Come Back | 204858 | [204858-sometimes-they-come-back.json](./204858-sometimes-they-come-back.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
+| Somewhere Better | 145839 | [145839-somewhere-better.json](./145839-somewhere-better.json) |
 | Somewhere in a Clay Nowhere | 182371 | [182371-somewhere-in-a-clay-nowhere.json](./182371-somewhere-in-a-clay-nowhere.json) |
 | Somewhere in between | 235644 | [235644-somewhere-in-between.json](./235644-somewhere-in-between.json) |
 | Somewhere in Hell | 311364 | [311364-somewhere-in-hell.json](./311364-somewhere-in-hell.json) |
@@ -19050,6 +19054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsouls - Duel of Legends | 26908 | [26908-spellsouls-duel-of-legends.json](./26908-spellsouls-duel-of-legends.json) |
 | Spellsphere | 235435 | [235435-spellsphere.json](./235435-spellsphere.json) |
 | Spellstone | 26794 | [26794-spellstone.json](./26794-spellstone.json) |
+| Spellstorm | 145869 | [145869-spellstorm.json](./145869-spellstorm.json) |
 | Spellstrife | 287043 | [287043-spellstrife.json](./287043-spellstrife.json) |
 | Spellsword | 19905 | [19905-spellsword.json](./19905-spellsword.json) |
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
@@ -19674,6 +19679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Stones | 39178 | [39178-spirit-stones.json](./39178-spirit-stones.json) |
 | Spirit Summoner | 286020 | [286020-spirit-summoner.json](./286020-spirit-summoner.json) |
 | Spirit Swap | 298111 | [298111-spirit-swap.json](./298111-spirit-swap.json) |
+| Spirit Swap: Lofi Beats to Match-3 To | 145872 | [145872-spirit-swap-lofi-beats-to-match-3-to.json](./145872-spirit-swap-lofi-beats-to-match-3-to.json) |
 | Spirit Talk | 386950 | [386950-spirit-talk.json](./386950-spirit-talk.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirit Valley | 285319 | [285319-spirit-valley.json](./285319-spirit-valley.json) |
@@ -21793,6 +21799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Judgment Rites Movie & Sound Pack | 131180 | [131180-star-trek-judgment-rites-movie-and-sound-pack.json](./131180-star-trek-judgment-rites-movie-and-sound-pack.json) |
 | Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
 | Star Trek: Legacy | 7193 | [7193-star-trek-legacy.json](./7193-star-trek-legacy.json) |
+| Star Trek: Legends | 145883 | [145883-star-trek-legends.json](./145883-star-trek-legends.json) |
 | Star Trek: Legends - Complete Edition | 331851 | [331851-star-trek-legends-complete-edition.json](./331851-star-trek-legends-complete-edition.json) |
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
@@ -22404,6 +22411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight City | 223239 | [223239-starlight-city.json](./223239-starlight-city.json) |
 | Starlight Cove | 415987 | [415987-starlight-cove.json](./415987-starlight-cove.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
+| Starlight Glimmer Dress Up | 145837 | [145837-starlight-glimmer-dress-up.json](./145837-starlight-glimmer-dress-up.json) |
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
 | Starlight Inception | 16662 | [16662-starlight-inception.json](./16662-starlight-inception.json) |
 | Starlight Isle | 303191 | [303191-starlight-isle.json](./303191-starlight-isle.json) |
@@ -24577,6 +24585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Cases: The Faces of Vengeance | 397794 | [397794-strange-cases-the-faces-of-vengeance.json](./397794-strange-cases-the-faces-of-vengeance.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
+| Strange Field Football | 145850 | [145850-strange-field-football.json](./145850-strange-field-football.json) |
 | Strange Gravity | 177188 | [177188-strange-gravity.json](./177188-strange-gravity.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
