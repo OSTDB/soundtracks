@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Warehouse | 355233 | [355233-jewel-warehouse.json](./355233-jewel-warehouse.json) |
 | Jewel Wars | 146726 | [146726-jewel-wars.json](./146726-jewel-wars.json) |
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
+| Jewel Wizardry | 146569 | [146569-jewel-wizardry.json](./146569-jewel-wizardry.json) |
 | Jeweler Simulator | 291449 | [291449-jeweler-simulator.json](./291449-jeweler-simulator.json) |
 | JeweLife: Match 3 Jewels | 255053 | [255053-jewelife-match-3-jewels.json](./255053-jewelife-match-3-jewels.json) |
 | Jewellust | 61030 | [61030-jewellust.json](./61030-jewellust.json) |
@@ -3417,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park III: Park Builder | 6483 | [6483-jurassic-park-iii-park-builder.json](./6483-jurassic-park-iii-park-builder.json) |
 | Jurassic Park III: T-Rex Jaw Chomping Action Game | 198789 | [198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json](./198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json) |
 | Jurassic Park III: The DNA Factor | 6481 | [6481-jurassic-park-iii-the-dna-factor.json](./6481-jurassic-park-iii-the-dna-factor.json) |
+| Jurassic Park Part 2: The Chaos Continues | 147052 | [147052-jurassic-park-part-2-the-chaos-continues.json](./147052-jurassic-park-part-2-the-chaos-continues.json) |
 | Jurassic Park: Builder | 10531 | [10531-jurassic-park-builder.json](./10531-jurassic-park-builder.json) |
 | Jurassic Park: Rampage Edition | 10678 | [10678-jurassic-park-rampage-edition.json](./10678-jurassic-park-rampage-edition.json) |
 | Jurassic Park: Scan Command | 72570 | [72570-jurassic-park-scan-command.json](./72570-jurassic-park-scan-command.json) |
