@@ -9174,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Sudoku | 263324 | [263324-anime-sudoku.json](./263324-anime-sudoku.json) |
 | Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
 | Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
+| Anime Tetris | 173975 | [173975-anime-tetris.json](./173975-anime-tetris.json) |
 | Anime Thighs | 291943 | [291943-anime-thighs.json](./291943-anime-thighs.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
 | Anime Toy Shop Simulator: Japanese Style | 389920 | [389920-anime-toy-shop-simulator-japanese-style.json](./389920-anime-toy-shop-simulator-japanese-style.json) |
