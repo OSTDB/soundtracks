@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Case of Emergency, Release Raptor | 32619 | [32619-in-case-of-emergency-release-raptor.json](./32619-in-case-of-emergency-release-raptor.json) |
 | In Cell | 230928 | [230928-in-cell.json](./230928-in-cell.json) |
 | In Cold Blood | 9680 | [9680-in-cold-blood.json](./9680-in-cold-blood.json) |
+| In Cold Dark | 166937 | [166937-in-cold-dark.json](./166937-in-cold-dark.json) |
 | In Corporeal | 287220 | [287220-in-corporeal.json](./287220-in-corporeal.json) |
 | In Cubation | 73715 | [73715-in-cubation.json](./73715-in-cubation.json) |
 | In Darkness | 83570 | [83570-in-darkness.json](./83570-in-darkness.json) |
