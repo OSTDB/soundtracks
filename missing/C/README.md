@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain:Training | 106439 | [106439-captain-training.json](./106439-captain-training.json) |
 | Captain's Big Day | 176259 | [176259-captains-big-day.json](./176259-captains-big-day.json) |
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
+| Captain's Choice Bundle | 164706 | [164706-captains-choice-bundle.json](./164706-captains-choice-bundle.json) |
 | Captain's Room | 181130 | [181130-captains-room.json](./181130-captains-room.json) |
 | CaptainMarlene | 117385 | [117385-captainmarlene.json](./117385-captainmarlene.json) |
 | Captains & Dungeons | 157425 | [157425-captains-and-dungeons.json](./157425-captains-and-dungeons.json) |
@@ -1894,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC | 231841 | [231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json](./231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Rims | 285696 | [285696-car-mechanic-simulator-2021-rims.json](./285696-car-mechanic-simulator-2021-rims.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
+| Car Mechanic Simulator: Deluxe Edition | 164745 | [164745-car-mechanic-simulator-deluxe-edition.json](./164745-car-mechanic-simulator-deluxe-edition.json) |
 | Car Mechanic Simulator: Pocket Edition | 122871 | [122871-car-mechanic-simulator-pocket-edition.json](./122871-car-mechanic-simulator-pocket-edition.json) |
 | Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
 | Car Mechanic: City Driving | 263971 | [263971-car-mechanic-city-driving.json](./263971-car-mechanic-city-driving.json) |
@@ -2728,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Network: Trick or Treat Beat! | 185824 | [185824-cartoon-network-trick-or-treat-beat.json](./185824-cartoon-network-trick-or-treat-beat.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
+| Cartoon Puzzler Bundle | 164728 | [164728-cartoon-puzzler-bundle.json](./164728-cartoon-puzzler-bundle.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
 | Cartoon Roach: Fun Ninja Game | 175599 | [175599-cartoon-roach-fun-ninja-game.json](./175599-cartoon-roach-fun-ninja-game.json) |
 | Cartoon Toolbox Starring Felix the Cat | 144002 | [144002-cartoon-toolbox-starring-felix-the-cat.json](./144002-cartoon-toolbox-starring-felix-the-cat.json) |
@@ -11668,6 +11671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Chronicles 1 | 356210 | [356210-conan-chronicles-1.json](./356210-conan-chronicles-1.json) |
 | Conan Chronicles 2 | 356211 | [356211-conan-chronicles-2.json](./356211-conan-chronicles-2.json) |
 | Conan Exiles Enhanced | 402464 | [402464-conan-exiles-enhanced.json](./402464-conan-exiles-enhanced.json) |
+| Conan Exiles: Architects of Argos Pack | 164707 | [164707-conan-exiles-architects-of-argos-pack.json](./164707-conan-exiles-architects-of-argos-pack.json) |
 | Conan Exiles: Blood and Sand Pack | 164781 | [164781-conan-exiles-blood-and-sand-pack.json](./164781-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Blood and Sand Pack | 227160 | [227160-conan-exiles-blood-and-sand-pack.json](./227160-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Complete Edition | 118696 | [118696-conan-exiles-complete-edition.json](./118696-conan-exiles-complete-edition.json) |
@@ -11681,6 +11685,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Savage Edition | 164771 | [164771-conan-exiles-savage-edition.json](./164771-conan-exiles-savage-edition.json) |
 | Conan Exiles: Seekers of the Dawn | 113367 | [113367-conan-exiles-seekers-of-the-dawn.json](./113367-conan-exiles-seekers-of-the-dawn.json) |
 | Conan Exiles: Seekers of the Dawn Pack | 164775 | [164775-conan-exiles-seekers-of-the-dawn-pack.json](./164775-conan-exiles-seekers-of-the-dawn-pack.json) |
+| Conan Exiles: The Imperial East Pack | 164708 | [164708-conan-exiles-the-imperial-east-pack.json](./164708-conan-exiles-the-imperial-east-pack.json) |
+| Conan Exiles: The Riddle of Steel | 164720 | [164720-conan-exiles-the-riddle-of-steel.json](./164720-conan-exiles-the-riddle-of-steel.json) |
 | Conan Exiles: Treasures of Turan | 117416 | [117416-conan-exiles-treasures-of-turan.json](./117416-conan-exiles-treasures-of-turan.json) |
 | Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
 | Conan Room | 194321 | [194321-conan-room.json](./194321-conan-room.json) |
