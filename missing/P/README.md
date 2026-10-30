@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
 | Paperball | 128202 | [128202-paperball.json](./128202-paperball.json) |
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
+| Paperball: Deep Sea Pack | 166423 | [166423-paperball-deep-sea-pack.json](./166423-paperball-deep-sea-pack.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
 | Paperboy | 11762 | [11762-paperboy.json](./11762-paperboy.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Narcotica: Trafficker | 172981 | [172981-pax-narcotica-trafficker.json](./172981-pax-narcotica-trafficker.json) |
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
 | Pax Nova: Beyond the Rift | 170907 | [170907-pax-nova-beyond-the-rift.json](./170907-pax-nova-beyond-the-rift.json) |
+| Pax Nova: Frostborn | 166428 | [166428-pax-nova-frostborn.json](./166428-pax-nova-frostborn.json) |
 | Pax Nova: Tech Supremacy | 193223 | [193223-pax-nova-tech-supremacy.json](./193223-pax-nova-tech-supremacy.json) |
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
 | Pax Romana: Romulus | 70076 | [70076-pax-romana-romulus.json](./70076-pax-romana-romulus.json) |
@@ -4740,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Hellcat | 214415 | [214415-phantom-hellcat.json](./214415-phantom-hellcat.json) |
 | Phantom House | 348112 | [348112-phantom-house.json](./348112-phantom-house.json) |
 | Phantom Hunter | 243157 | [243157-phantom-hunter.json](./243157-phantom-hunter.json) |
+| Phantom Hysteria | 166394 | [166394-phantom-hysteria.json](./166394-phantom-hysteria.json) |
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
 | Phantom Incident | 348185 | [348185-phantom-incident.json](./348185-phantom-incident.json) |
 | Phantom Integration | 242386 | [242386-phantom-integration.json](./242386-phantom-integration.json) |
