@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season One | 141574 | [141574-call-of-duty-black-ops-cold-war-season-one.json](./141574-call-of-duty-black-ops-cold-war-season-one.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
+| Call of Duty: Black Ops Cold War - Season Three | 146505 | [146505-call-of-duty-black-ops-cold-war-season-three.json](./146505-call-of-duty-black-ops-cold-war-season-three.json) |
 | Call of Duty: Black Ops Cold War - Season Two | 144050 | [144050-call-of-duty-black-ops-cold-war-season-two.json](./144050-call-of-duty-black-ops-cold-war-season-two.json) |
 | Call of Duty: Black Ops Cold War - Ultimate Edition | 139887 | [139887-call-of-duty-black-ops-cold-war-ultimate-edition.json](./139887-call-of-duty-black-ops-cold-war-ultimate-edition.json) |
 | Call of Duty: Black Ops Collection | 136183 | [136183-call-of-duty-black-ops-collection.json](./136183-call-of-duty-black-ops-collection.json) |
@@ -1513,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape | 59713 | [59713-cape.json](./59713-cape.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
+| Cape's Escape Game | 147593 | [147593-capes-escape-game.json](./147593-capes-escape-game.json) |
 | Cape's Escape Game 2.5th Room | 148326 | [148326-capes-escape-game-2-5th-room.json](./148326-capes-escape-game-2-5th-room.json) |
 | Cape's Escape Game 2nd room | 143542 | [143542-capes-escape-game-2nd-room.json](./143542-capes-escape-game-2nd-room.json) |
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
@@ -4373,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Caravan | 369667 | [369667-caveman-caravan.json](./369667-caveman-caravan.json) |
 | Caveman Chuck | 109325 | [109325-caveman-chuck.json](./109325-caveman-chuck.json) |
+| Caveman Chuck: Prehistoric Adventure | 147598 | [147598-caveman-chuck-prehistoric-adventure.json](./147598-caveman-chuck-prehistoric-adventure.json) |
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
@@ -4382,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Ransom | 245952 | [245952-caveman-ransom.json](./245952-caveman-ransom.json) |
 | CaveMan Rock | 43504 | [43504-caveman-rock.json](./43504-caveman-rock.json) |
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
+| Caveman Tales | 147600 | [147600-caveman-tales.json](./147600-caveman-tales.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Caveman Zac | 388324 | [388324-caveman-zac.json](./388324-caveman-zac.json) |
 | Cavemaze 3D | 359720 | [359720-cavemaze-3d.json](./359720-cavemaze-3d.json) |
@@ -4460,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Caylus | 175231 | [175231-caylus.json](./175231-caylus.json) |
 | Cayne | 26968 | [26968-cayne.json](./26968-cayne.json) |
+| Cazzarion Adventureland | 147594 | [147594-cazzarion-adventureland.json](./147594-cazzarion-adventureland.json) |
 | Cazzarion: Astro Bouncer | 290418 | [290418-cazzarion-astro-bouncer.json](./290418-cazzarion-astro-bouncer.json) |
 | Cazzarion: Bomber Attack | 307637 | [307637-cazzarion-bomber-attack.json](./307637-cazzarion-bomber-attack.json) |
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
@@ -4924,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaincards | 179370 | [179370-chaincards.json](./179370-chaincards.json) |
 | Chaincards: A Poppo Story | 179347 | [179347-chaincards-a-poppo-story.json](./179347-chaincards-a-poppo-story.json) |
 | ChainDive | 66743 | [66743-chaindive.json](./66743-chaindive.json) |
+| Chained | 147601 | [147601-chained.json](./147601-chained.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Backrooms | 339721 | [339721-chained-backrooms.json](./339721-chained-backrooms.json) |
@@ -8361,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Siege: Faction Island | 29814 | [29814-city-siege-faction-island.json](./29814-city-siege-faction-island.json) |
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Skater Board Master | 104416 | [104416-city-skater-board-master.json](./104416-city-skater-board-master.json) |
+| City Skaters: Run Boy, Run Girl! | 147596 | [147596-city-skaters-run-boy-run-girl.json](./147596-city-skaters-run-boy-run-girl.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Smasher | 196542 | [196542-city-smasher.json](./196542-city-smasher.json) |
@@ -10630,6 +10637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Cross | 47769 | [47769-color-cross.json](./47769-color-cross.json) |
 | Color Crush | 387738 | [387738-color-crush.json](./387738-color-crush.json) |
+| Color Crush 2 | 147035 | [147035-color-crush-2.json](./147035-color-crush-2.json) |
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
 | Color Cubes | 42150 | [42150-color-cubes.json](./42150-color-cubes.json) |
@@ -13975,6 +13983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowboys vs. Zombies | 328545 | [328545-cowboys-vs-zombies.json](./328545-cowboys-vs-zombies.json) |
 | Cowboys vs. Zombies: Gold Edition | 413575 | [413575-cowboys-vs-zombies-gold-edition.json](./413575-cowboys-vs-zombies-gold-edition.json) |
+| Cowboys, Vampires, Pirates & Ghosts | 147030 | [147030-cowboys-vampires-pirates-and-ghosts.json](./147030-cowboys-vampires-pirates-and-ghosts.json) |
 | Cowculanes | 175377 | [175377-cowculanes.json](./175377-cowculanes.json) |
 | Cowgirl Adventures | 212202 | [212202-cowgirl-adventures.json](./212202-cowgirl-adventures.json) |
 | Cowgirl Boots | 141808 | [141808-cowgirl-boots.json](./141808-cowgirl-boots.json) |
@@ -17254,6 +17263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culinary Wizard | 351528 | [351528-culinary-wizard.json](./351528-culinary-wizard.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
 | Cull the Gods | 185487 | [185487-cull-the-gods.json](./185487-cull-the-gods.json) |
+| Culot.io | 146486 | [146486-culot-io.json](./146486-culot-io.json) |
 | Cult | 68774 | [68774-cult.json](./68774-cult.json) |
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
