@@ -4427,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrigram | 195489 | [195489-tetrigram.json](./195489-tetrigram.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
+| Tetrimus | 125607 | [125607-tetrimus.json](./125607-tetrimus.json) |
 | Tetripz | 93215 | [93215-tetripz.json](./93215-tetripz.json) |
 | Tetris | 130749 | [130749-tetris.json](./130749-tetris.json) |
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
