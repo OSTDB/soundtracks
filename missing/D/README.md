@@ -519,7 +519,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damage Chess | 420501 | [420501-damage-chess.json](./420501-damage-chess.json) |
 | Damage Control | 33302 | [33302-damage-control.json](./33302-damage-control.json) |
+| Damage Inc. Pacific Squadron WWII: F4F-FM2 "Panther" Wildcat | 170719 | [170719-damage-inc-pacific-squadron-wwii-f4f-fm2-panther-wildcat.json](./170719-damage-inc-pacific-squadron-wwii-f4f-fm2-panther-wildcat.json) |
 | Damage Inc. Pacific Squadron WWII: F6F-5N "Crusader" Hellcat | 170723 | [170723-damage-inc-pacific-squadron-wwii-f6f-5n-crusader-hellcat.json](./170723-damage-inc-pacific-squadron-wwii-f6f-5n-crusader-hellcat.json) |
+| Damage Inc. Pacific Squadron WWII: P-40N "Blackfin" Warhawk | 170721 | [170721-damage-inc-pacific-squadron-wwii-p-40n-blackfin-warhawk.json](./170721-damage-inc-pacific-squadron-wwii-p-40n-blackfin-warhawk.json) |
+| Damage Inc. Pacific Squadron WWII: P-61 "Mauler" Black Widow | 170720 | [170720-damage-inc-pacific-squadron-wwii-p-61-mauler-black-widow.json](./170720-damage-inc-pacific-squadron-wwii-p-61-mauler-black-widow.json) |
+| Damage Inc. Pacific Squadron WWII: P-80 "Bolt" Shooting Star | 170722 | [170722-damage-inc-pacific-squadron-wwii-p-80-bolt-shooting-star.json](./170722-damage-inc-pacific-squadron-wwii-p-80-bolt-shooting-star.json) |
 | Damage Inc.: Metallica | 25067 | [25067-damage-inc-metallica.json](./25067-damage-inc-metallica.json) |
 | Damage: Sadistic Butchering of Humanity | 30788 | [30788-damage-sadistic-butchering-of-humanity.json](./30788-damage-sadistic-butchering-of-humanity.json) |
 | Damaged | 181340 | [181340-damaged.json](./181340-damaged.json) |
@@ -2837,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: MiG-21bis Battle of Krasnodar Campaign | 195404 | [195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json](./195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json) |
 | DCS World: MiG-21bis Constant Peg Campaign by Bunyap Campaigns | 325721 | [325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json](./325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json) |
 | DCS World: MiG-29 | 162861 | [162861-dcs-world-mig-29.json](./162861-dcs-world-mig-29.json) |
+| DCS World: Mosquito FB VI | 170685 | [170685-dcs-world-mosquito-fb-vi.json](./170685-dcs-world-mosquito-fb-vi.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
 | DCS World: Mosquito FB VI Freeman's Folly Campaign by SUNTS Simulations | 408214 | [408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json](./408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json) |
 | DCS World: Normandy 2.0 | 323965 | [323965-dcs-world-normandy-2-0.json](./323965-dcs-world-normandy-2-0.json) |
@@ -15028,6 +15033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Zone | 46600 | [46600-drop-zone.json](./46600-drop-zone.json) |
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
 | Drop Zone: Under Fire | 59206 | [59206-drop-zone-under-fire.json](./59206-drop-zone-under-fire.json) |
+| Drop-Drop | 170675 | [170675-drop-drop.json](./170675-drop-drop.json) |
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
 | Drop! | 131340 | [131340-drop.json](./131340-drop.json) |
