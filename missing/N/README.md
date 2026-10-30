@@ -2633,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroNet: Mendax Proxy | 147903 | [147903-neuronet-mendax-proxy.json](./147903-neuronet-mendax-proxy.json) |
 | Neuronics | 92682 | [92682-neuronics.json](./92682-neuronics.json) |
 | Neuropathic | 204818 | [204818-neuropathic.json](./204818-neuropathic.json) |
+| Neurophobia | 173950 | [173950-neurophobia.json](./173950-neurophobia.json) |
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Neuroshima Convoy | 175511 | [175511-neuroshima-convoy.json](./175511-neuroshima-convoy.json) |
