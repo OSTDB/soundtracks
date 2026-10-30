@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xbird | 28424 | [28424-xbird.json](./28424-xbird.json) |
 | XBlaze Code: Embryo | 11636 | [11636-xblaze-code-embryo.json](./11636-xblaze-code-embryo.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
+| Xbox Buddies | 138977 | [138977-xbox-buddies.json](./138977-xbox-buddies.json) |
 | Xbox Fitness | 19172 | [19172-xbox-fitness.json](./19172-xbox-fitness.json) |
 | Xbox Live Arcade | 267539 | [267539-xbox-live-arcade.json](./267539-xbox-live-arcade.json) |
 | Xbox Live Arcade Unplugged: Volume 1 | 7257 | [7257-xbox-live-arcade-unplugged-volume-1.json](./7257-xbox-live-arcade-unplugged-volume-1.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuhivan's Autonomous Cube | 216479 | [216479-xuhivans-autonomous-cube.json](./216479-xuhivans-autonomous-cube.json) |
 | Xulaph Kaizo World | 267926 | [267926-xulaph-kaizo-world.json](./267926-xulaph-kaizo-world.json) |
 | Xump 2: Back to Space | 311040 | [311040-xump-2-back-to-space.json](./311040-xump-2-back-to-space.json) |
+| Xump: The Final Run | 138434 | [138434-xump-the-final-run.json](./138434-xump-the-final-run.json) |
 | Xump: The Final Run | 153828 | [153828-xump-the-final-run.json](./153828-xump-the-final-run.json) |
 | Xurb | 292382 | [292382-xurb.json](./292382-xurb.json) |
 | Xuxa | 281455 | [281455-xuxa.json](./281455-xuxa.json) |
