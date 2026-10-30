@@ -4965,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Manager 4 | 152471 | [152471-airline-manager-4.json](./152471-airline-manager-4.json) |
 | Airline Pilots | 112070 | [112070-airline-pilots.json](./112070-airline-pilots.json) |
 | Airline Simulator | 306760 | [306760-airline-simulator.json](./306760-airline-simulator.json) |
+| Airline Technician | 155842 | [155842-airline-technician.json](./155842-airline-technician.json) |
 | Airline Tycoon | 9957 | [9957-airline-tycoon.json](./9957-airline-tycoon.json) |
 | Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
@@ -7870,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Ranked (Unofficial) | 365589 | [365589-among-us-ranked-unofficial.json](./365589-among-us-ranked-unofficial.json) |
 | Among Us: The Fungle | 266689 | [266689-among-us-the-fungle.json](./266689-among-us-the-fungle.json) |
 | Among Us: The Tragedy of Ryohyukan | 239525 | [239525-among-us-the-tragedy-of-ryohyukan.json](./239525-among-us-the-tragedy-of-ryohyukan.json) |
+| Among Waifus | 155902 | [155902-among-waifus.json](./155902-among-waifus.json) |
 | Among Waifus 18+ | 188409 | [188409-among-waifus-18.json](./188409-among-waifus-18.json) |
 | Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
 | Among Water: Meditation Idle | 256757 | [256757-among-water-meditation-idle.json](./256757-among-water-meditation-idle.json) |
