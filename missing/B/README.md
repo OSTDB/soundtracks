@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bots Battle Arena | 166699 | [166699-bad-bots-battle-arena.json](./166699-bad-bots-battle-arena.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Boy Brother | 376758 | [376758-bad-boy-brother.json](./376758-bad-boy-brother.json) |
+| Bad Boy Simulator | 150874 | [150874-bad-boy-simulator.json](./150874-bad-boy-simulator.json) |
 | Bad Boy's Bad Day | 271664 | [271664-bad-boys-bad-day.json](./271664-bad-boys-bad-day.json) |
 | Bad Boys Do It Better! | 238905 | [238905-bad-boys-do-it-better.json](./238905-bad-boys-do-it-better.json) |
 | Bad Burgers | 252950 | [252950-bad-burgers.json](./252950-bad-burgers.json) |
@@ -857,7 +858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2416,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
+| Barn Finders: Amerykan Dream | 150886 | [150886-barn-finders-amerykan-dream.json](./150886-barn-finders-amerykan-dream.json) |
 | Barn Runner 2: The Ejection Rejection | 299081 | [299081-barn-runner-2-the-ejection-rejection.json](./299081-barn-runner-2-the-ejection-rejection.json) |
 | Barn Runner: Christmas Soup | 299083 | [299083-barn-runner-christmas-soup.json](./299083-barn-runner-christmas-soup.json) |
 | Barn Runner: The Mayor's New Dress | 299082 | [299082-barn-runner-the-mayors-new-dress.json](./299082-barn-runner-the-mayors-new-dress.json) |
@@ -2587,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basault VR | 190062 | [190062-basault-vr.json](./190062-basault-vr.json) |
 | Bascatball Coach | 174299 | [174299-bascatball-coach.json](./174299-bascatball-coach.json) |
 | BasCatball Jupiter: Basketball & Cat | 174509 | [174509-bascatball-jupiter-basketball-and-cat.json](./174509-bascatball-jupiter-basketball-and-cat.json) |
+| BasCatball Mars: Basketball & Cat | 150899 | [150899-bascatball-mars-basketball-and-cat.json](./150899-bascatball-mars-basketball-and-cat.json) |
 | BasCatball Saturn: Basketball & Cat | 169396 | [169396-bascatball-saturn-basketball-and-cat.json](./169396-bascatball-saturn-basketball-and-cat.json) |
 | Base Attack | 40589 | [40589-base-attack.json](./40589-base-attack.json) |
 | Base Blitz | 327854 | [327854-base-blitz.json](./327854-base-blitz.json) |
@@ -3563,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Royale Trainer | 80451 | [80451-battle-royale-trainer.json](./80451-battle-royale-trainer.json) |
 | Battle Royale Tycoon | 103608 | [103608-battle-royale-tycoon.json](./103608-battle-royale-tycoon.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
+| Battle Royale: For Your Heart! | 150873 | [150873-battle-royale-for-your-heart.json](./150873-battle-royale-for-your-heart.json) |
 | Battle Run | 330208 | [330208-battle-run.json](./330208-battle-run.json) |
 | Battle Run | 330303 | [330303-battle-run.json](./330303-battle-run.json) |
 | Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
@@ -9499,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbusters | 12940 | [12940-blockbusters.json](./12940-blockbusters.json) |
 | Blockbusters | 153814 | [153814-blockbusters.json](./153814-blockbusters.json) |
 | Blockbusters: Gold Run | 13408 | [13408-blockbusters-gold-run.json](./13408-blockbusters-gold-run.json) |
+| BlockBustersVR | 150862 | [150862-blockbustersvr.json](./150862-blockbustersvr.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
 | Blockd Blast | 239239 | [239239-blockd-blast.json](./239239-blockd-blast.json) |
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
@@ -13891,6 +13895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge | 131267 | [131267-bridge.json](./131267-bridge.json) |
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
+| Bridge 2 Code | 150876 | [150876-bridge-2-code.json](./150876-bridge-2-code.json) |
 | Bridge 2000 | 12408 | [12408-bridge-2000.json](./12408-bridge-2000.json) |
 | Bridge 3000 | 206491 | [206491-bridge-3000.json](./206491-bridge-3000.json) |
 | Bridge 4.0 | 362440 | [362440-bridge-4-0.json](./362440-bridge-4-0.json) |
