@@ -3516,12 +3516,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helionaut | 136730 | [136730-helionaut.json](./136730-helionaut.json) |
 | Heliopedia | 175891 | [175891-heliopedia.json](./175891-heliopedia.json) |
 | Heliophobia | 110751 | [110751-heliophobia.json](./110751-heliophobia.json) |
+| Heliopolis Six | 169602 | [169602-heliopolis-six.json](./169602-heliopolis-six.json) |
 | Helios | 128836 | [128836-helios.json](./128836-helios.json) |
 | Helios | 185086 | [185086-helios.json](./185086-helios.json) |
 | Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
 | Helios Equinox | 361642 | [361642-helios-equinox.json](./361642-helios-equinox.json) |
 | Helios Horizon | 290496 | [290496-helios-horizon.json](./290496-helios-horizon.json) |
 | Helios Hotel: The Night Shift | 334542 | [334542-helios-hotel-the-night-shift.json](./334542-helios-hotel-the-night-shift.json) |
+| Helios Rising Heroes | 169582 | [169582-helios-rising-heroes.json](./169582-helios-rising-heroes.json) |
 | Heliotropism | 153848 | [153848-heliotropism.json](./153848-heliotropism.json) |
 | Helipopper | 317433 | [317433-helipopper.json](./317433-helipopper.json) |
 | HeliSquad: Covert Operations | 204338 | [204338-helisquad-covert-operations.json](./204338-helisquad-covert-operations.json) |
@@ -3562,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Apartment | 415448 | [415448-hell-apartment.json](./415448-hell-apartment.json) |
 | Hell Architect | 117590 | [117590-hell-architect.json](./117590-hell-architect.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
+| Hell Blasters | 169606 | [169606-hell-blasters.json](./169606-hell-blasters.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
 | Hell Boba Café | 216605 | [216605-hell-boba-cafe.json](./216605-hell-boba-cafe.json) |
 | Hell Bound Monsters | 188837 | [188837-hell-bound-monsters.json](./188837-hell-bound-monsters.json) |
