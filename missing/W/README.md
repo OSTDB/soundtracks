@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
 | Watcher | 280155 | [280155-watcher.json](./280155-watcher.json) |
+| Watcher Chronicles | 161547 | [161547-watcher-chronicles.json](./161547-watcher-chronicles.json) |
 | Watcher From the Void | 374796 | [374796-watcher-from-the-void.json](./374796-watcher-from-the-void.json) |
 | Watchers of the Universe: I'm Outta Here! | 244404 | [244404-watchers-of-the-universe-im-outta-here.json](./244404-watchers-of-the-universe-im-outta-here.json) |
 | Watchers: Batter Up Pack | 161186 | [161186-watchers-batter-up-pack.json](./161186-watchers-batter-up-pack.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfhound | 305000 | [305000-wolfhound.json](./305000-wolfhound.json) |
 | Wolfhound: The Last of the Grey Dogs | 250522 | [250522-wolfhound-the-last-of-the-grey-dogs.json](./250522-wolfhound-the-last-of-the-grey-dogs.json) |
 | Wolfhound: The Way of the Warrior | 250521 | [250521-wolfhound-the-way-of-the-warrior.json](./250521-wolfhound-the-way-of-the-warrior.json) |
+| Wolfie's Break Out | 161535 | [161535-wolfies-break-out.json](./161535-wolfies-break-out.json) |
 | WolfKnights | 59930 | [59930-wolfknights.json](./59930-wolfknights.json) |
 | Wolflame | 19305 | [19305-wolflame.json](./19305-wolflame.json) |
 | Wolfling | 182509 | [182509-wolfling.json](./182509-wolfling.json) |
