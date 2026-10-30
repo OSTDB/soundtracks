@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mountain of One | 240040 | [240040-a-mountain-of-one.json](./240040-a-mountain-of-one.json) |
 | A Murder in Fairyland | 140176 | [140176-a-murder-in-fairyland.json](./140176-a-murder-in-fairyland.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
+| A Murder of Scarecrows | 138973 | [138973-a-murder-of-scarecrows.json](./138973-a-murder-of-scarecrows.json) |
 | a Museum of Dubious Splendors | 90075 | [90075-a-museum-of-dubious-splendors.json](./90075-a-museum-of-dubious-splendors.json) |
 | A Museum of Self & Space | 148950 | [148950-a-museum-of-self-and-space.json](./148950-a-museum-of-self-and-space.json) |
 | A Musical Story: Digital Deluxe Edition | 193735 | [193735-a-musical-story-digital-deluxe-edition.json](./193735-a-musical-story-digital-deluxe-edition.json) |
@@ -2488,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | Acko's Mach-Bike Race | 343701 | [343701-ackos-mach-bike-race.json](./343701-ackos-mach-bike-race.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
+| Aclla: Taiyou no Miko to Sora no Shinpei | 138430 | [138430-aclla-taiyou-no-miko-to-sora-no-shinpei.json](./138430-aclla-taiyou-no-miko-to-sora-no-shinpei.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
 | Acme, Inc. | 290330 | [290330-acme-inc.json](./290330-acme-inc.json) |
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
@@ -9830,6 +9832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarctic Grave | 405940 | [405940-antarctic-grave.json](./405940-antarctic-grave.json) |
 | Antarctic Heritage Trust | 133114 | [133114-antarctic-heritage-trust.json](./133114-antarctic-heritage-trust.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
+| Antarctica 88 | 138398 | [138398-antarctica-88.json](./138398-antarctica-88.json) |
 | Antarctica Condition I | 175573 | [175573-antarctica-condition-i.json](./175573-antarctica-condition-i.json) |
 | Antares | 125343 | [125343-antares.json](./125343-antares.json) |
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
@@ -14005,6 +14008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
 | Asteroid-Hunter | 103220 | [103220-asteroid-hunter.json](./103220-asteroid-hunter.json) |
 | Asteróide | 289202 | [289202-asteroide.json](./289202-asteroide.json) |
+| Asteroidea | 139000 | [139000-asteroidea.json](./139000-asteroidea.json) |
 | Asteroides | 186690 | [186690-asteroides.json](./186690-asteroides.json) |
 | Asteroidia | 369915 | [369915-asteroidia.json](./369915-asteroidia.json) |
 | Asteroidiga | 126541 | [126541-asteroidiga.json](./126541-asteroidiga.json) |
@@ -15747,6 +15751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avani: The Primal Land | 144538 | [144538-avani-the-primal-land.json](./144538-avani-the-primal-land.json) |
+| Avant | 138436 | [138436-avant.json](./138436-avant.json) |
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
 | Avant-Garde: Napoleonic Battles | 270497 | [270497-avant-garde-napoleonic-battles.json](./270497-avant-garde-napoleonic-battles.json) |
 | Avante! Atlantis | 321806 | [321806-avante-atlantis.json](./321806-avante-atlantis.json) |
