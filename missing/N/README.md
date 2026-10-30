@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuro Horror | 220447 | [220447-neuro-horror.json](./220447-neuro-horror.json) |
 | Neuro Hunter | 71491 | [71491-neuro-hunter.json](./71491-neuro-hunter.json) |
 | Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
+| Neuro Skazka | 142038 | [142038-neuro-skazka.json](./142038-neuro-skazka.json) |
 | Neuroarena: Black Duel Master | 363569 | [363569-neuroarena-black-duel-master.json](./363569-neuroarena-black-duel-master.json) |
 | NeuroCorp | 391735 | [391735-neurocorp.json](./391735-neurocorp.json) |
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
@@ -3429,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
 | NHL 21: Deluxe Edition | 140900 | [140900-nhl-21-deluxe-edition.json](./140900-nhl-21-deluxe-edition.json) |
 | NHL 21: Great Eight Edition | 140901 | [140901-nhl-21-great-eight-edition.json](./140901-nhl-21-great-eight-edition.json) |
+| NHL 21: Rewind Bundle | 142607 | [142607-nhl-21-rewind-bundle.json](./142607-nhl-21-rewind-bundle.json) |
 | NHL 21: Ultimate Edition | 166971 | [166971-nhl-21-ultimate-edition.json](./166971-nhl-21-ultimate-edition.json) |
 | NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
 | NHL 22: X-Factor Edition | 172557 | [172557-nhl-22-x-factor-edition.json](./172557-nhl-22-x-factor-edition.json) |
@@ -4585,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
+| Ninja Issen | 142597 | [142597-ninja-issen.json](./142597-ninja-issen.json) |
 | Ninja JaJaMaru Collection | 119644 | [119644-ninja-jajamaru-collection.json](./119644-ninja-jajamaru-collection.json) |
 | Ninja JaJaMaru Legendary Ninja Collection | 362161 | [362161-ninja-jajamaru-legendary-ninja-collection.json](./362161-ninja-jajamaru-legendary-ninja-collection.json) |
 | Ninja JajaMaru Yokai Night Parade | 414846 | [414846-ninja-jajamaru-yokai-night-parade.json](./414846-ninja-jajamaru-yokai-night-parade.json) |
@@ -4995,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Castle | 234276 | [234276-nixxsz-castle.json](./234276-nixxsz-castle.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
+| Nixy and the Seeds of Doom | 142021 | [142021-nixy-and-the-seeds-of-doom.json](./142021-nixy-and-the-seeds-of-doom.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
 | Nizero Shogi | 361584 | [361584-nizero-shogi.json](./361584-nizero-shogi.json) |
 | Nizhan Future | 290372 | [290372-nizhan-future.json](./290372-nizhan-future.json) |
