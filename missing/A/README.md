@@ -3684,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affraid | 385267 | [385267-affraid.json](./385267-affraid.json) |
 | Afghan Hero Girl | 225701 | [225701-afghan-hero-girl.json](./225701-afghan-hero-girl.json) |
 | Afghanistan '11 | 29744 | [29744-afghanistan-11.json](./29744-afghanistan-11.json) |
+| Afghanistan '11: Royal Marines | 172322 | [172322-afghanistan-11-royal-marines.json](./172322-afghanistan-11-royal-marines.json) |
 | AFK Arena | 125930 | [125930-afk-arena.json](./125930-afk-arena.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Chess | 272641 | [272641-afk-chess.json](./272641-afk-chess.json) |
@@ -4131,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Heroes: The Beginning | 187985 | [187985-age-of-heroes-the-beginning.json](./187985-age-of-heroes-the-beginning.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of History II: Definitive Edition | 399162 | [399162-age-of-history-ii-definitive-edition.json](./399162-age-of-history-ii-definitive-edition.json) |
+| Age of ILCoin VR: Retribution | 172354 | [172354-age-of-ilcoin-vr-retribution.json](./172354-age-of-ilcoin-vr-retribution.json) |
 | Age of Irata | 213429 | [213429-age-of-irata.json](./213429-age-of-irata.json) |
 | Age of Japan | 52377 | [52377-age-of-japan.json](./52377-age-of-japan.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
@@ -6708,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alon | 152986 | [152986-alon.json](./152986-alon.json) |
 | Alon | 311568 | [311568-alon.json](./311568-alon.json) |
 | Alone | 153218 | [153218-alone.json](./153218-alone.json) |
+| Alone | 172309 | [172309-alone.json](./172309-alone.json) |
 | Alone | 195984 | [195984-alone.json](./195984-alone.json) |
 | Alone | 196110 | [196110-alone.json](./196110-alone.json) |
 | Alone | 257181 | [257181-alone.json](./257181-alone.json) |
