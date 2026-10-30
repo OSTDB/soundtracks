@@ -15791,6 +15791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
 | Crossfar | 207640 | [207640-crossfar.json](./207640-crossfar.json) |
 | Crossfire | 13535 | [13535-crossfire.json](./13535-crossfire.json) |
+| Crossfire | 154175 | [154175-crossfire.json](./154175-crossfire.json) |
 | Crossfire | 183918 | [183918-crossfire.json](./183918-crossfire.json) |
 | Crossfire | 404692 | [404692-crossfire.json](./404692-crossfire.json) |
 | Crossfire | 9739 | [9739-crossfire.json](./9739-crossfire.json) |
