@@ -3403,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures Of Willy Dickhard | 385695 | [385695-adventures-of-willy-dickhard.json](./385695-adventures-of-willy-dickhard.json) |
 | Adventures of Yogi Bear | 8010 | [8010-adventures-of-yogi-bear.json](./8010-adventures-of-yogi-bear.json) |
 | Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
+| Adventures Through McDonaldland | 133595 | [133595-adventures-through-mcdonaldland.json](./133595-adventures-through-mcdonaldland.json) |
 | Adventures to Go | 274849 | [274849-adventures-to-go.json](./274849-adventures-to-go.json) |
 | Adventures With a Girl | 168602 | [168602-adventures-with-a-girl.json](./168602-adventures-with-a-girl.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
@@ -7297,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amatsuko | 383153 | [383153-amatsuko.json](./383153-amatsuko.json) |
 | Amaura on the High Seas | 238364 | [238364-amaura-on-the-high-seas.json](./238364-amaura-on-the-high-seas.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
+| Amayado Bus Stop | 133586 | [133586-amayado-bus-stop.json](./133586-amayado-bus-stop.json) |
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
 | Amayui Labyrinth Meister | 191634 | [191634-amayui-labyrinth-meister.json](./191634-amayui-labyrinth-meister.json) |
 | Amaz'd | 367747 | [367747-amazd.json](./367747-amazd.json) |
@@ -7975,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amusement Park | 377097 | [377097-amusement-park.json](./377097-amusement-park.json) |
 | Amusement Park | 52390 | [52390-amusement-park.json](./52390-amusement-park.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
+| Amusement Planet Phantasmagoria | 133627 | [133627-amusement-planet-phantasmagoria.json](./133627-amusement-planet-phantasmagoria.json) |
 | Amusia | 311187 | [311187-amusia.json](./311187-amusia.json) |
 | Amy & Trip in Sonic the Hedgehog 2 | 361499 | [361499-amy-and-trip-in-sonic-the-hedgehog-2.json](./361499-amy-and-trip-in-sonic-the-hedgehog-2.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
@@ -8133,6 +8136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaphora | 274916 | [274916-anaphora.json](./274916-anaphora.json) |
 | Anarch | 184403 | [184403-anarch.json](./184403-anarch.json) |
 | Anarchitects | 299597 | [299597-anarchitects.json](./299597-anarchitects.json) |
+| Anarchy | 133631 | [133631-anarchy.json](./133631-anarchy.json) |
 | Anarchy | 14163 | [14163-anarchy.json](./14163-anarchy.json) |
 | Anarchy | 201298 | [201298-anarchy.json](./201298-anarchy.json) |
 | Anarchy Arcade | 30373 | [30373-anarchy-arcade.json](./30373-anarchy-arcade.json) |
@@ -11982,6 +11986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 88: Ikkakujuu no Kiseki | 60922 | [60922-area-88-ikkakujuu-no-kiseki.json](./60922-area-88-ikkakujuu-no-kiseki.json) |
 | Area Cooperation Economic Simulation: North Korea (ACES) | 114260 | [114260-area-cooperation-economic-simulation-north-korea-aces.json](./114260-area-cooperation-economic-simulation-north-korea-aces.json) |
 | Area D | 102870 | [102870-area-d.json](./102870-area-d.json) |
+| Area F2 | 133607 | [133607-area-f2.json](./133607-area-f2.json) |
 | Area Man Lives | 130141 | [130141-area-man-lives.json](./130141-area-man-lives.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
@@ -15385,6 +15390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Battler Dunbine: Seisenshi Densetsu | 64754 | [64754-aura-battler-dunbine-seisenshi-densetsu.json](./64754-aura-battler-dunbine-seisenshi-densetsu.json) |
 | Aura Farmers | 329698 | [329698-aura-farmers.json](./329698-aura-farmers.json) |
 | Aura Kingdom | 8746 | [8746-aura-kingdom.json](./8746-aura-kingdom.json) |
+| Aura Kingdom 2 | 133637 | [133637-aura-kingdom-2.json](./133637-aura-kingdom-2.json) |
 | Aura Kingdom 2: Evolution | 265752 | [265752-aura-kingdom-2-evolution.json](./265752-aura-kingdom-2-evolution.json) |
 | Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
 | Aura of Worlds | 55866 | [55866-aura-of-worlds.json](./55866-aura-of-worlds.json) |
@@ -15725,6 +15731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava Airborne | 96207 | [96207-ava-airborne.json](./96207-ava-airborne.json) |
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
+| AVA: An Interactive Fairy Tale | 133593 | [133593-ava-an-interactive-fairy-tale.json](./133593-ava-an-interactive-fairy-tale.json) |
 | AVA: Dark History | 123856 | [123856-ava-dark-history.json](./123856-ava-dark-history.json) |
 | AVA: Dog Tag | 116760 | [116760-ava-dog-tag.json](./116760-ava-dog-tag.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
