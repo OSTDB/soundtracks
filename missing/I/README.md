@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Traveled Back to 5 Days Before the Apocalypse | 379554 | [379554-i-traveled-back-to-5-days-before-the-apocalypse.json](./379554-i-traveled-back-to-5-days-before-the-apocalypse.json) |
 | I Unplugged the Kids | 412243 | [412243-i-unplugged-the-kids.json](./412243-i-unplugged-the-kids.json) |
 | I Walk Among Zombies Vol. 0 | 163740 | [163740-i-walk-among-zombies-vol-0.json](./163740-i-walk-among-zombies-vol-0.json) |
+| I Walk Among Zombies Vol. 3 | 161519 | [161519-i-walk-among-zombies-vol-3.json](./161519-i-walk-among-zombies-vol-3.json) |
 | I Wani Hug that Gator! | 197078 | [197078-i-wani-hug-that-gator.json](./197078-i-wani-hug-that-gator.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
@@ -3442,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Void | 311202 | [311202-infinite-void.json](./311202-infinite-void.json) |
 | Infinite Warrior | 175317 | [175317-infinite-warrior.json](./175317-infinite-warrior.json) |
 | Infinite Waves TD | 224707 | [224707-infinite-waves-td.json](./224707-infinite-waves-td.json) |
+| Infinite Way | 161508 | [161508-infinite-way.json](./161508-infinite-way.json) |
 | Infinite White: Hyperbolic Time Chamber Simulator | 273460 | [273460-infinite-white-hyperbolic-time-chamber-simulator.json](./273460-infinite-white-hyperbolic-time-chamber-simulator.json) |
 | Infinite Wii | 313418 | [313418-infinite-wii.json](./313418-infinite-wii.json) |
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
@@ -5616,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
 | Isle TD | 81006 | [81006-isle-td.json](./81006-isle-td.json) |
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
+| Isle Vatra | 161521 | [161521-isle-vatra.json](./161521-isle-vatra.json) |
 | Isles | 209323 | [209323-isles.json](./209323-isles.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Arcana | 422652 | [422652-isles-of-arcana.json](./422652-isles-of-arcana.json) |
