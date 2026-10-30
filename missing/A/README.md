@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
+| Absolute Zero | 153078 | [153078-absolute-zero.json](./153078-absolute-zero.json) |
 | Absolute-Full-Life | 316948 | [316948-absolute-full-life.json](./316948-absolute-full-life.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
@@ -8614,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
 | Angriff vom Saturn | 100033 | [100033-angriff-vom-saturn.json](./100033-angriff-vom-saturn.json) |
+| Angry Alligator | 153046 | [153046-angry-alligator.json](./153046-angry-alligator.json) |
 | Angry Angry Dad | 183222 | [183222-angry-angry-dad.json](./183222-angry-angry-dad.json) |
 | Angry Angry Shark | 161619 | [161619-angry-angry-shark.json](./161619-angry-angry-shark.json) |
 | Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
