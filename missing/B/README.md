@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6284,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Curtains | 279460 | [279460-beyond-the-curtains.json](./279460-beyond-the-curtains.json) |
 | Beyond the Dark | 179396 | [179396-beyond-the-dark.json](./179396-beyond-the-dark.json) |
 | Beyond the Dark Nightwatch | 403828 | [403828-beyond-the-dark-nightwatch.json](./403828-beyond-the-dark-nightwatch.json) |
+| Beyond the Darkness | 172920 | [172920-beyond-the-darkness.json](./172920-beyond-the-darkness.json) |
 | Beyond the Dawn | 118630 | [118630-beyond-the-dawn.json](./118630-beyond-the-dawn.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Diorama: Caribou World | 163810 | [163810-beyond-the-diorama-caribou-world.json](./163810-beyond-the-diorama-caribou-world.json) |
@@ -11551,6 +11553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Inside | 392921 | [392921-book-inside.json](./392921-book-inside.json) |
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
 | Book of Abominations | 346384 | [346384-book-of-abominations.json](./346384-book-of-abominations.json) |
+| Book of Adventum | 172949 | [172949-book-of-adventum.json](./172949-book-of-adventum.json) |
 | Book of Aliens | 127235 | [127235-book-of-aliens.json](./127235-book-of-aliens.json) |
 | Book of Beasts | 141179 | [141179-book-of-beasts.json](./141179-book-of-beasts.json) |
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
