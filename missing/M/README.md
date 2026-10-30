@@ -3918,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars 2120 | 154293 | [154293-mars-2120.json](./154293-mars-2120.json) |
 | Mars 3D | 159197 | [159197-mars-3d.json](./159197-mars-3d.json) |
 | Mars Accident | 157477 | [157477-mars-accident.json](./157477-mars-accident.json) |
+| Mars After Midnight | 151949 | [151949-mars-after-midnight.json](./151949-mars-after-midnight.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
 | Mars Attracts | 314419 | [314419-mars-attracts.json](./314419-mars-attracts.json) |
 | Mars Base | 194273 | [194273-mars-base.json](./194273-mars-base.json) |
@@ -16642,6 +16643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Pumpkin and a Cat Reporter: Adventure Bundle | 218512 | [218512-mr-pumpkin-and-a-cat-reporter-adventure-bundle.json](./218512-mr-pumpkin-and-a-cat-reporter-adventure-bundle.json) |
 | Mr. Pumpkin Series Bundle | 173799 | [173799-mr-pumpkin-series-bundle.json](./173799-mr-pumpkin-series-bundle.json) |
 | Mr. Puniverse | 28563 | [28563-mr-puniverse.json](./28563-mr-puniverse.json) |
+| Mr. Rainer's Solve-It Service | 151942 | [151942-mr-rainers-solve-it-service.json](./151942-mr-rainers-solve-it-service.json) |
 | Mr. Rental: The Video Game | 326592 | [326592-mr-rental-the-video-game.json](./326592-mr-rental-the-video-game.json) |
 | Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
