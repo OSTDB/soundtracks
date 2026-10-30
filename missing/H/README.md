@@ -3136,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathcliff: Spot On | 84526 | [84526-heathcliff-spot-on.json](./84526-heathcliff-spot-on.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
 | Heathen Engineering's Terran | 33909 | [33909-heathen-engineerings-terran.json](./33909-heathen-engineerings-terran.json) |
+| Heathen's Forge | 176658 | [176658-heathens-forge.json](./176658-heathens-forge.json) |
 | Heather Wreath: The Reporter | 340423 | [340423-heather-wreath-the-reporter.json](./340423-heather-wreath-the-reporter.json) |
 | Heathkit DND | 2881 | [2881-heathkit-dnd.json](./2881-heathkit-dnd.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
@@ -11265,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypersonic GP | 393407 | [393407-hypersonic-gp.json](./393407-hypersonic-gp.json) |
 | Hyperspace | 297489 | [297489-hyperspace.json](./297489-hyperspace.json) |
 | Hyperspace | 303551 | [303551-hyperspace.json](./303551-hyperspace.json) |
+| Hyperspace Colonization | 176616 | [176616-hyperspace-colonization.json](./176616-hyperspace-colonization.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Dogfights | 97931 | [97931-hyperspace-dogfights.json](./97931-hyperspace-dogfights.json) |
 | Hyperspace Harvest | 211010 | [211010-hyperspace-harvest.json](./211010-hyperspace-harvest.json) |
