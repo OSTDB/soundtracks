@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: Dark Carnival | 274476 | [274476-incredible-dracula-dark-carnival.json](./274476-incredible-dracula-dark-carnival.json) |
 | Incredible Dracula: Legacy of the Valkyries | 152687 | [152687-incredible-dracula-legacy-of-the-valkyries.json](./152687-incredible-dracula-legacy-of-the-valkyries.json) |
 | Incredible Dracula: License to Relax - Collector's Edition | 341025 | [341025-incredible-dracula-license-to-relax-collectors-edition.json](./341025-incredible-dracula-license-to-relax-collectors-edition.json) |
+| Incredible Dracula: Ocean's Call | 129974 | [129974-incredible-dracula-oceans-call.json](./129974-incredible-dracula-oceans-call.json) |
 | Incredible Dracula: The Ice Kingdom | 125687 | [125687-incredible-dracula-the-ice-kingdom.json](./125687-incredible-dracula-the-ice-kingdom.json) |
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
 | Incredible Dracula: Vargosi Returns | 125708 | [125708-incredible-dracula-vargosi-returns.json](./125708-incredible-dracula-vargosi-returns.json) |
@@ -3220,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
 | Infectonator 2 | 95939 | [95939-infectonator-2.json](./95939-infectonator-2.json) |
 | Infectonator 3: Apocalypse | 76039 | [76039-infectonator-3-apocalypse.json](./76039-infectonator-3-apocalypse.json) |
+| Infectonator World Dominator | 129950 | [129950-infectonator-world-dominator.json](./129950-infectonator-world-dominator.json) |
 | Infector | 184464 | [184464-infector.json](./184464-infector.json) |
 | Infectra | 146752 | [146752-infectra.json](./146752-infectra.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
