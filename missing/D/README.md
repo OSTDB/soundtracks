@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fable | 116861 | [116861-dark-fable.json](./116861-dark-fable.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
+| Dark Fairy Tales: The Boogeyman | 138405 | [138405-dark-fairy-tales-the-boogeyman.json](./138405-dark-fairy-tales-the-boogeyman.json) |
 | Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
 | Dark Fantasia | 390032 | [390032-dark-fantasia.json](./390032-dark-fantasia.json) |
 | Dark Fantasy 2: Jigsaw Puzzle | 118146 | [118146-dark-fantasy-2-jigsaw-puzzle.json](./118146-dark-fantasy-2-jigsaw-puzzle.json) |
@@ -3907,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Red | 280724 | [280724-dear-red.json](./280724-dear-red.json) |
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear Stefan | 116011 | [116011-dear-stefan.json](./116011-dear-stefan.json) |
+| Dear Substance of Kin | 138975 | [138975-dear-substance-of-kin.json](./138975-dear-substance-of-kin.json) |
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
 | Dear, Ella | 232298 | [232298-dear-ella.json](./232298-dear-ella.json) |
@@ -4584,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
 | Ded Inside | 120776 | [120776-ded-inside.json](./120776-ded-inside.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
+| Dedalus | 138998 | [138998-dedalus.json](./138998-dedalus.json) |
 | Dedede Daggers | 183910 | [183910-dedede-daggers.json](./183910-dedede-daggers.json) |
 | Dedede's Drum Dash Deluxe | 61319 | [61319-dededes-drum-dash-deluxe.json](./61319-dededes-drum-dash-deluxe.json) |
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
@@ -5156,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Earth | 293596 | [293596-defense-of-the-earth.json](./293596-defense-of-the-earth.json) |
 | Defense of the Fantasy Robots | 110079 | [110079-defense-of-the-fantasy-robots.json](./110079-defense-of-the-fantasy-robots.json) |
 | Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
+| Defense of the Oasis | 138395 | [138395-defense-of-the-oasis.json](./138395-defense-of-the-oasis.json) |
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense Task Force | 83619 | [83619-defense-task-force.json](./83619-defense-task-force.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
@@ -10927,6 +10931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino for Mac | 89150 | [89150-domino-for-mac.json](./89150-domino-for-mac.json) |
+| Domino House | 138414 | [138414-domino-house.json](./138414-domino-house.json) |
 | Domino Lounge | 209121 | [209121-domino-lounge.json](./209121-domino-lounge.json) |
 | Domino Man | 23239 | [23239-domino-man.json](./23239-domino-man.json) |
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
@@ -12966,6 +12971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
 | Dragon 2 | 358914 | [358914-dragon-2.json](./358914-dragon-2.json) |
 | Dragon Abyss | 234573 | [234573-dragon-abyss.json](./234573-dragon-abyss.json) |
+| Dragon Acres | 138402 | [138402-dragon-acres.json](./138402-dragon-acres.json) |
 | Dragon Adventure VR | 68605 | [68605-dragon-adventure-vr.json](./68605-dragon-adventure-vr.json) |
 | Dragon Age II: All-Class Item Pack | 367423 | [367423-dragon-age-ii-all-class-item-pack.json](./367423-dragon-age-ii-all-class-item-pack.json) |
 | Dragon Age II: All-Class Item Pack II | 367424 | [367424-dragon-age-ii-all-class-item-pack-ii.json](./367424-dragon-age-ii-all-class-item-pack-ii.json) |
