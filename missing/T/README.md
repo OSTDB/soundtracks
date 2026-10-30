@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tap Sonic | 92492 | [92492-tap-sonic.json](./92492-tap-sonic.json) |
+| Tap Sonic: World Champion | 127514 | [127514-tap-sonic-world-champion.json](./127514-tap-sonic-world-champion.json) |
 | Tap Space: Reaction and Focus Training | 252552 | [252552-tap-space-reaction-and-focus-training.json](./252552-tap-space-reaction-and-focus-training.json) |
 | Tap Sports Baseball | 60398 | [60398-tap-sports-baseball.json](./60398-tap-sports-baseball.json) |
 | Tap Sports Baseball 2015 | 60403 | [60403-tap-sports-baseball-2015.json](./60403-tap-sports-baseball-2015.json) |
@@ -5151,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alchemist of Nafiljar | 244906 | [244906-the-alchemist-of-nafiljar.json](./244906-the-alchemist-of-nafiljar.json) |
 | The Alchemist Shop: An Apprentice's Life | 213308 | [213308-the-alchemist-shop-an-apprentices-life.json](./213308-the-alchemist-shop-an-apprentices-life.json) |
 | The Alchemist's Cards | 397784 | [397784-the-alchemists-cards.json](./397784-the-alchemists-cards.json) |
+| The Alchemist's House | 127527 | [127527-the-alchemists-house.json](./127527-the-alchemists-house.json) |
 | The Alcor Trivia Pro Classic Star Trek (Star-Log I) | 71672 | [71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json](./71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
@@ -6537,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
 | The Christmas Spirit: Golden Ticket - Collector's Edition | 193062 | [193062-the-christmas-spirit-golden-ticket-collectors-edition.json](./193062-the-christmas-spirit-golden-ticket-collectors-edition.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
+| The Christmas Spirit: Grimm Tales - Collector's Edition | 127501 | [127501-the-christmas-spirit-grimm-tales-collectors-edition.json](./127501-the-christmas-spirit-grimm-tales-collectors-edition.json) |
 | The Christmas Spirit: Journey Before Christmas - Collector's Edition | 170211 | [170211-the-christmas-spirit-journey-before-christmas-collectors-edition.json](./170211-the-christmas-spirit-journey-before-christmas-collectors-edition.json) |
 | The Christopher Redemption: I | 276811 | [276811-the-christopher-redemption-i.json](./276811-the-christopher-redemption-i.json) |
 | The Chroma: From the Wasteland | 367542 | [367542-the-chroma-from-the-wasteland.json](./367542-the-chroma-from-the-wasteland.json) |
@@ -11622,6 +11625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
 | The Library of Babel: Deluxe Edition | 231576 | [231576-the-library-of-babel-deluxe-edition.json](./231576-the-library-of-babel-deluxe-edition.json) |
 | The Library on the Lake | 416029 | [416029-the-library-on-the-lake.json](./416029-the-library-on-the-lake.json) |
+| The Lie | 127515 | [127515-the-lie.json](./127515-the-lie.json) |
 | The Lie: Cottage of Secrets | 103933 | [103933-the-lie-cottage-of-secrets.json](./103933-the-lie-cottage-of-secrets.json) |
 | The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
 | The Life and Deaths of Doctor M | 216578 | [216578-the-life-and-deaths-of-doctor-m.json](./216578-the-life-and-deaths-of-doctor-m.json) |
@@ -12163,6 +12167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magician's Handbook II: BlackLore | 53759 | [53759-the-magicians-handbook-ii-blacklore.json](./53759-the-magicians-handbook-ii-blacklore.json) |
 | The Magician's Handbook: Cursed Valley | 118180 | [118180-the-magicians-handbook-cursed-valley.json](./118180-the-magicians-handbook-cursed-valley.json) |
 | The Magician's Research | 123571 | [123571-the-magicians-research.json](./123571-the-magicians-research.json) |
+| The Magician's Workshop | 127506 | [127506-the-magicians-workshop.json](./127506-the-magicians-workshop.json) |
 | The Magick | 178230 | [178230-the-magick.json](./178230-the-magick.json) |
 | The Magister | 137351 | [137351-the-magister.json](./137351-the-magister.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
@@ -23227,6 +23232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchlight: Infinite - Cube of Rapacity | 249332 | [249332-torchlight-infinite-cube-of-rapacity.json](./249332-torchlight-infinite-cube-of-rapacity.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
+| Tore World | 127522 | [127522-tore-world.json](./127522-tore-world.json) |
 | Torebia: Island Odyssey | 392386 | [392386-torebia-island-odyssey.json](./392386-torebia-island-odyssey.json) |
 | Torecower | 235712 | [235712-torecower.json](./235712-torecower.json) |
 | Toree 3D: Jumbled Jam | 194765 | [194765-toree-3d-jumbled-jam.json](./194765-toree-3d-jumbled-jam.json) |
