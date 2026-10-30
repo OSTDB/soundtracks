@@ -4754,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Catacombs | 268866 | [268866-escape-from-the-catacombs.json](./268866-escape-from-the-catacombs.json) |
 | Escape from the Collector | 262488 | [262488-escape-from-the-collector.json](./262488-escape-from-the-collector.json) |
 | Escape From The Core | 329046 | [329046-escape-from-the-core.json](./329046-escape-from-the-core.json) |
+| Escape From the Cosmic Abyss | 137236 | [137236-escape-from-the-cosmic-abyss.json](./137236-escape-from-the-cosmic-abyss.json) |
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape from the Darkness | 259420 | [259420-escape-from-the-darkness.json](./259420-escape-from-the-darkness.json) |
 | Escape From the Depth | 242050 | [242050-escape-from-the-depth.json](./242050-escape-from-the-depth.json) |
