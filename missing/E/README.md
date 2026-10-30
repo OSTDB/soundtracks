@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes+ | 28586 | [28586-echoes.json](./28586-echoes.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echofall | 391560 | [391560-echofall.json](./391560-echofall.json) |
+| Echoic Memory | 151965 | [151965-echoic-memory.json](./151965-echoic-memory.json) |
 | Echoing Silence | 332957 | [332957-echoing-silence.json](./332957-echoing-silence.json) |
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
 | Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
@@ -6737,6 +6738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executive Assault | 11585 | [11585-executive-assault.json](./11585-executive-assault.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
+| Executive Golf DX | 151968 | [151968-executive-golf-dx.json](./151968-executive-golf-dx.json) |
 | Executive Hockey | 82396 | [82396-executive-hockey.json](./82396-executive-hockey.json) |
 | Executive Suite | 69666 | [69666-executive-suite.json](./69666-executive-suite.json) |
 | Executor | 220019 | [220019-executor.json](./220019-executor.json) |
