@@ -7685,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice City Roller HD | 354971 | [354971-dice-city-roller-hd.json](./354971-dice-city-roller-hd.json) |
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Crypt | 266317 | [266317-dice-crypt.json](./266317-dice-crypt.json) |
+| Dice Defenders | 124394 | [124394-dice-defenders.json](./124394-dice-defenders.json) |
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
 | Dice Delve | 184454 | [184454-dice-delve.json](./184454-dice-delve.json) |
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
@@ -10404,6 +10405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodo Drop | 184707 | [184707-dodo-drop.json](./184707-dodo-drop.json) |
 | Dodo Duckie | 342305 | [342305-dodo-duckie.json](./342305-dodo-duckie.json) |
 | Dodo Fly: New World | 241824 | [241824-dodo-fly-new-world.json](./241824-dodo-fly-new-world.json) |
+| Dodo Peak | 124397 | [124397-dodo-peak.json](./124397-dodo-peak.json) |
 | DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
