@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
 | Adventures in Math | 14225 | [14225-adventures-in-math.json](./14225-adventures-in-math.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
+| Adventures in Morality: An Interactive Case Study | 159475 | [159475-adventures-in-morality-an-interactive-case-study.json](./159475-adventures-in-morality-an-interactive-case-study.json) |
 | Adventures in Odyssey 3D CD-ROM | 206093 | [206093-adventures-in-odyssey-3d-cd-rom.json](./206093-adventures-in-odyssey-3d-cd-rom.json) |
 | Adventures in Odyssey and the Great Escape | 66067 | [66067-adventures-in-odyssey-and-the-great-escape.json](./66067-adventures-in-odyssey-and-the-great-escape.json) |
 | Adventures in Odyssey and the Treasure of the Incas | 80366 | [80366-adventures-in-odyssey-and-the-treasure-of-the-incas.json](./80366-adventures-in-odyssey-and-the-treasure-of-the-incas.json) |
@@ -9213,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
 | Anime Solitaire | 334820 | [334820-anime-solitaire.json](./334820-anime-solitaire.json) |
 | Anime Spa | 279757 | [279757-anime-spa.json](./279757-anime-spa.json) |
+| Anime Squad | 159518 | [159518-anime-squad.json](./159518-anime-squad.json) |
 | Anime Standing | 142969 | [142969-anime-standing.json](./142969-anime-standing.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
@@ -14809,6 +14811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
 | Atlas Fallen: Reign of Sand | 311747 | [311747-atlas-fallen-reign-of-sand.json](./311747-atlas-fallen-reign-of-sand.json) |
 | Atlas Fallen: Signature Edition | 241961 | [241961-atlas-fallen-signature-edition.json](./241961-atlas-fallen-signature-edition.json) |
+| Atlas Falling | 159477 | [159477-atlas-falling.json](./159477-atlas-falling.json) |
 | Atlas Gate | 230483 | [230483-atlas-gate.json](./230483-atlas-gate.json) |
 | Atlas Hands | 349090 | [349090-atlas-hands.json](./349090-atlas-hands.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
