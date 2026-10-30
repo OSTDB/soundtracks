@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Lift | 230703 | [230703-panic-lift.json](./230703-panic-lift.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
+| Panic Mode | 154761 | [154761-panic-mode.json](./154761-panic-mode.json) |
 | Panic Museum | 245707 | [245707-panic-museum.json](./245707-panic-museum.json) |
 | Panic on Ice | 239559 | [239559-panic-on-ice.json](./239559-panic-on-ice.json) |
 | Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
@@ -10897,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Fantasy | 193813 | [193813-polygon-fantasy.json](./193813-polygon-fantasy.json) |
 | Polygon Fantasy Battle Simulator | 270007 | [270007-polygon-fantasy-battle-simulator.json](./270007-polygon-fantasy-battle-simulator.json) |
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
+| Polygon Hunter | 154745 | [154745-polygon-hunter.json](./154745-polygon-hunter.json) |
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
 | Polygon of Reality | 188998 | [188998-polygon-of-reality.json](./188998-polygon-of-reality.json) |
@@ -15826,6 +15828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Blue | 327038 | [327038-purgatory-blue.json](./327038-purgatory-blue.json) |
+| Purgatory: Can't Escape! | 154850 | [154850-purgatory-cant-escape.json](./154850-purgatory-cant-escape.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Purgatory: Mark's Creepy Story | 235291 | [235291-purgatory-marks-creepy-story.json](./235291-purgatory-marks-creepy-story.json) |
 | Purgatory: War of the Damned | 10729 | [10729-purgatory-war-of-the-damned.json](./10729-purgatory-war-of-the-damned.json) |
