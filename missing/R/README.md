@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racket: Nx | 33913 | [33913-racket-nx.json](./33913-racket-nx.json) |
 | Racketeers | 258911 | [258911-racketeers.json](./258911-racketeers.json) |
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
+| Rackham's Shambala Adventure | 127523 | [127523-rackhams-shambala-adventure.json](./127523-rackhams-shambala-adventure.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoon Lagoon | 128847 | [128847-racoon-lagoon.json](./128847-racoon-lagoon.json) |
 | Racoon the Thief | 256187 | [256187-racoon-the-thief.json](./256187-racoon-the-thief.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage 3 | 229889 | [229889-rage-3.json](./229889-rage-3.json) |
 | Rage Against the Machine | 143291 | [143291-rage-against-the-machine.json](./143291-rage-against-the-machine.json) |
 | Rage Against the Zombies | 30490 | [30490-rage-against-the-zombies.json](./30490-rage-against-the-zombies.json) |
+| Rage Among the Stars | 127547 | [127547-rage-among-the-stars.json](./127547-rage-among-the-stars.json) |
 | Rage Bait | 379399 | [379399-rage-bait.json](./379399-rage-bait.json) |
 | Rage Boy | 110076 | [110076-rage-boy.json](./110076-rage-boy.json) |
 | Rage Chicken 2 | 180998 | [180998-rage-chicken-2.json](./180998-rage-chicken-2.json) |
@@ -2310,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Revolution | 247924 | [247924-rc-revolution.json](./247924-rc-revolution.json) |
 | RC Robot Adventure Game | 223953 | [223953-rc-robot-adventure-game.json](./223953-rc-robot-adventure-game.json) |
 | RC Rush | 152566 | [152566-rc-rush.json](./152566-rc-rush.json) |
+| RC Service Simulator | 127521 | [127521-rc-service-simulator.json](./127521-rc-service-simulator.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Simulation 2.0 | 34978 | [34978-rc-simulation-2-0.json](./34978-rc-simulation-2-0.json) |
 | RC Spy Drone 2018 | 102548 | [102548-rc-spy-drone-2018.json](./102548-rc-spy-drone-2018.json) |
@@ -2818,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Trash Game | 137872 | [137872-really-trash-game.json](./137872-really-trash-game.json) |
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
+| Realm | 127516 | [127516-realm.json](./127516-realm.json) |
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
 | Realm | 361078 | [361078-realm.json](./361078-realm.json) |
 | Realm | 44457 | [44457-realm.json](./44457-realm.json) |
