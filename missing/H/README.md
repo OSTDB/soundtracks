@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Nuclear | 369704 | [369704-happy-nuclear.json](./369704-happy-nuclear.json) |
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
 | Happy Orchard | 185530 | [185530-happy-orchard.json](./185530-happy-orchard.json) |
+| Happy Oshare Time | 161509 | [161509-happy-oshare-time.json](./161509-happy-oshare-time.json) |
 | Happy Pairs | 267512 | [267512-happy-pairs.json](./267512-happy-pairs.json) |
 | Happy Pairs | 71185 | [71185-happy-pairs.json](./71185-happy-pairs.json) |
 | Happy Penguin VR | 28930 | [28930-happy-penguin-vr.json](./28930-happy-penguin-vr.json) |
@@ -4294,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
 | Hentai Ayumi | 244081 | [244081-hentai-ayumi.json](./244081-hentai-ayumi.json) |
 | Hentai Bad Girls | 280267 | [280267-hentai-bad-girls.json](./280267-hentai-bad-girls.json) |
+| Hentai Balloons | 161549 | [161549-hentai-balloons.json](./161549-hentai-balloons.json) |
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Heavy Attraction | 380701 | [380701-hentai-balls-3d-heavy-attraction.json](./380701-hentai-balls-3d-heavy-attraction.json) |
 | Hentai Balls 3D: Perfect Motion | 386540 | [386540-hentai-balls-3d-perfect-motion.json](./386540-hentai-balls-3d-perfect-motion.json) |
@@ -5190,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Mages | 197632 | [197632-hero-mages.json](./197632-hero-mages.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
 | Hero Masters | 104812 | [104812-hero-masters.json](./104812-hero-masters.json) |
+| Hero Mini Maker | 161526 | [161526-hero-mini-maker.json](./161526-hero-mini-maker.json) |
 | Hero Mission | 173412 | [173412-hero-mission.json](./173412-hero-mission.json) |
 | Hero Must Die | 60035 | [60035-hero-must-die.json](./60035-hero-must-die.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
