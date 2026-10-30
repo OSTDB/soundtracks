@@ -6950,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Versus - Lobby Avatar (Gold Ship) | 332665 | [332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json](./332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json) |
 | Granblue Fantasy: Versus - Lumacie | 156320 | [156320-granblue-fantasy-versus-lumacie.json](./156320-granblue-fantasy-versus-lumacie.json) |
 | Granblue Fantasy: Versus - Narmaya | 156326 | [156326-granblue-fantasy-versus-narmaya.json](./156326-granblue-fantasy-versus-narmaya.json) |
+| Granblue Fantasy: Versus - Premium Edition | 134242 | [134242-granblue-fantasy-versus-premium-edition.json](./134242-granblue-fantasy-versus-premium-edition.json) |
 | Granblue Fantasy: Versus - Seox | 233643 | [233643-granblue-fantasy-versus-seox.json](./233643-granblue-fantasy-versus-seox.json) |
 | Granblue Fantasy: Versus - Soriz | 156327 | [156327-granblue-fantasy-versus-soriz.json](./156327-granblue-fantasy-versus-soriz.json) |
 | Granblue Fantasy: Versus - Yuel | 156329 | [156329-granblue-fantasy-versus-yuel.json](./156329-granblue-fantasy-versus-yuel.json) |
