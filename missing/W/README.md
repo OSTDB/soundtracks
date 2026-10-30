@@ -37,7 +37,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wabbit | 40603 | [40603-wabbit.json](./40603-wabbit.json) |
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
 | Wacca | 122641 | [122641-wacca.json](./122641-wacca.json) |
+| Wacca Lily | 154744 | [154744-wacca-lily.json](./154744-wacca-lily.json) |
 | Wacca Lily R | 154811 | [154811-wacca-lily-r.json](./154811-wacca-lily-r.json) |
+| Wacca S | 154743 | [154743-wacca-s.json](./154743-wacca-s.json) |
 | Waccha PriMagi! Studio | 276064 | [276064-waccha-primagi-studio.json](./276064-waccha-primagi-studio.json) |
 | Wacha-wacha Puzzle: Neito to Norowareshi Shukufuku no Mori | 206408 | [206408-wacha-wacha-puzzle-neito-to-norowareshi-shukufuku-no-mori.json](./206408-wacha-wacha-puzzle-neito-to-norowareshi-shukufuku-no-mori.json) |
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
@@ -5345,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winshu | 204927 | [204927-winshu.json](./204927-winshu.json) |
 | Winslow | 367483 | [367483-winslow.json](./367483-winslow.json) |
 | Winter | 127791 | [127791-winter.json](./127791-winter.json) |
+| Winter | 154860 | [154860-winter.json](./154860-winter.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter | 226686 | [226686-winter.json](./226686-winter.json) |
 | Winter and Luig | 398153 | [398153-winter-and-luig.json](./398153-winter-and-luig.json) |
@@ -7235,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Neverland 2: Pluto Kyouwakoku Monogatari - Experience of Fiction Life | 297750 | [297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json](./297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json) |
 | World Neverland: Waaneba Island | 419853 | [419853-world-neverland-waaneba-island.json](./419853-world-neverland-waaneba-island.json) |
 | World of Aircraft: Glider Simulator | 148872 | [148872-world-of-aircraft-glider-simulator.json](./148872-world-of-aircraft-glider-simulator.json) |
+| World of Airports | 154759 | [154759-world-of-airports.json](./154759-world-of-airports.json) |
 | World of Anikids | 52123 | [52123-world-of-anikids.json](./52123-world-of-anikids.json) |
 | World of Art: Learn with Jigsaw Puzzles | 162216 | [162216-world-of-art-learn-with-jigsaw-puzzles.json](./162216-world-of-art-learn-with-jigsaw-puzzles.json) |
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
@@ -7889,6 +7893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
 | Worms: Revolution Extreme | 53032 | [53032-worms-revolution-extreme.json](./53032-worms-revolution-extreme.json) |
 | Worms: Special Edition | 88828 | [88828-worms-special-edition.json](./88828-worms-special-edition.json) |
+| Worms: The Director's Cut | 154748 | [154748-worms-the-directors-cut.json](./154748-worms-the-directors-cut.json) |
 | Worms: The Revolution Collection | 44577 | [44577-worms-the-revolution-collection.json](./44577-worms-the-revolution-collection.json) |
 | Worms: Ultimate Mayhem | 9333 | [9333-worms-ultimate-mayhem.json](./9333-worms-ultimate-mayhem.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
@@ -8213,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
 | Wubble Bubbles | 94975 | [94975-wubble-bubbles.json](./94975-wubble-bubbles.json) |
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
+| Wubbzy's Amazing Adventure | 154780 | [154780-wubbzys-amazing-adventure.json](./154780-wubbzys-amazing-adventure.json) |
 | Wudao | 284604 | [284604-wudao.json](./284604-wudao.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
 | Wúgòu zhī Liàn: Zhànfàng Yú Chūn zhī Huāhǎi | 403636 | [403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json](./403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json) |
