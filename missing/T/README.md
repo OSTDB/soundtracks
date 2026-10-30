@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraFirmaGreg | 407783 | [407783-terrafirmagreg.json](./407783-terrafirmagreg.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraform Co: Factory and City | 423270 | [423270-terraform-co-factory-and-city.json](./423270-terraform-co-factory-and-city.json) |
+| Terraform Inc | 169030 | [169030-terraform-inc.json](./169030-terraform-inc.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
 | Terraformental | 360919 | [360919-terraformental.json](./360919-terraformental.json) |
 | Terraformer Expedition to Mars | 17352 | [17352-terraformer-expedition-to-mars.json](./17352-terraformer-expedition-to-mars.json) |
@@ -8177,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairly OddParents: Shadow Showdown | 3912 | [3912-the-fairly-oddparents-shadow-showdown.json](./3912-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairway Club | 264572 | [264572-the-fairway-club.json](./264572-the-fairway-club.json) |
+| The fairy tale you don't know | 169046 | [169046-the-fairy-tale-you-dont-know.json](./169046-the-fairy-tale-you-dont-know.json) |
 | The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
 | The Faked | 373756 | [373756-the-faked.json](./373756-the-faked.json) |
@@ -24367,6 +24369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Car Race | 391353 | [391353-toy-car-race.json](./391353-toy-car-race.json) |
 | Toy Chase | 156912 | [156912-toy-chase.json](./156912-toy-chase.json) |
 | Toy Chute: Sort Chute Organizer! | 416853 | [416853-toy-chute-sort-chute-organizer.json](./416853-toy-chute-sort-chute-organizer.json) |
+| Toy Clash: Commander of Toys | 169036 | [169036-toy-clash-commander-of-toys.json](./169036-toy-clash-commander-of-toys.json) |
 | Toy Collector | 212429 | [212429-toy-collector.json](./212429-toy-collector.json) |
 | Toy Commander | 10125 | [10125-toy-commander.json](./10125-toy-commander.json) |
 | Toy Cowboy Royale: RPG Dragon's Challenge | 378955 | [378955-toy-cowboy-royale-rpg-dragons-challenge.json](./378955-toy-cowboy-royale-rpg-dragons-challenge.json) |
