@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandea Stones | 212609 | [212609-pandea-stones.json](./212609-pandea-stones.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
 | Pandemia | 149517 | [149517-pandemia.json](./149517-pandemia.json) |
+| Pandemia: Virus Outbreak | 169589 | [169589-pandemia-virus-outbreak.json](./169589-pandemia-virus-outbreak.json) |
 | Pandemic | 147934 | [147934-pandemic.json](./147934-pandemic.json) |
 | Pandemic Bunny | 149371 | [149371-pandemic-bunny.json](./149371-pandemic-bunny.json) |
 | Pandemic Express: Zombie Escape | 110294 | [110294-pandemic-express-zombie-escape.json](./110294-pandemic-express-zombie-escape.json) |
@@ -12502,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presences: Dark Awakening | 250549 | [250549-presences-dark-awakening.json](./250549-presences-dark-awakening.json) |
 | Present | 77268 | [77268-present.json](./77268-present.json) |
 | Present Cannon Rebirth | 189835 | [189835-present-cannon-rebirth.json](./189835-present-cannon-rebirth.json) |
+| Present Danger | 169605 | [169605-present-danger.json](./169605-present-danger.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
 | Present Panic | 320213 | [320213-present-panic.json](./320213-present-panic.json) |
