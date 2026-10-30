@@ -14011,6 +14011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Patrol | 390560 | [390560-asteroid-patrol.json](./390560-asteroid-patrol.json) |
 | Asteroid Quarry | 84770 | [84770-asteroid-quarry.json](./84770-asteroid-quarry.json) |
 | Asteroid Quest! | 100766 | [100766-asteroid-quest.json](./100766-asteroid-quest.json) |
+| Asteroid Quest! (Classic) | 135452 | [135452-asteroid-quest-classic.json](./135452-asteroid-quest-classic.json) |
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
 | Asteroid Requiem | 351052 | [351052-asteroid-requiem.json](./351052-asteroid-requiem.json) |
 | Asteroid RKD | 109298 | [109298-asteroid-rkd.json](./109298-asteroid-rkd.json) |
@@ -14694,6 +14695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATC Ground Point | 319410 | [319410-atc-ground-point.json](./319410-atc-ground-point.json) |
 | ATC Infinite | 157318 | [157318-atc-infinite.json](./157318-atc-infinite.json) |
 | ATC: Tower & Ground | 413117 | [413117-atc-tower-and-ground.json](./413117-atc-tower-and-ground.json) |
+| Atchafalaya Arcade | 135453 | [135453-atchafalaya-arcade.json](./135453-atchafalaya-arcade.json) |
 | ATCo2 | 214115 | [214115-atco2.json](./214115-atco2.json) |
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | ATCsimulator | 80922 | [80922-atcsimulator.json](./80922-atcsimulator.json) |
