@@ -6050,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | North Town | 143902 | [143902-north-town.json](./143902-north-town.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
+| Northbound: Long Road Ahead | 133014 | [133014-northbound-long-road-ahead.json](./133014-northbound-long-road-ahead.json) |
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
 | Northeast Past | 407787 | [407787-northeast-past.json](./407787-northeast-past.json) |
