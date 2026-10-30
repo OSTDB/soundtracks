@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T.: The Extra-Terrestrial - Search for Dragora | 201277 | [201277-e-t-the-extra-terrestrial-search-for-dragora.json](./201277-e-t-the-extra-terrestrial-search-for-dragora.json) |
 | E.T.: The Extra-Terrestrial and the Cosmic Garden | 49936 | [49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json](./49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json) |
 | E.T.: The Green Planet | 64395 | [64395-e-t-the-green-planet.json](./64395-e-t-the-green-planet.json) |
+| E.T.E | 175044 | [175044-e-t-e.json](./175044-e-t-e.json) |
 | E.T.E Chronicle | 208847 | [208847-e-t-e-chronicle.json](./208847-e-t-e-chronicle.json) |
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
 | E.x.p.l.o.r.: A New World | 148962 | [148962-e-x-p-l-o-r-a-new-world.json](./148962-e-x-p-l-o-r-a-new-world.json) |
@@ -6598,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
 | Excalibots | 135712 | [135712-excalibots.json](./135712-excalibots.json) |
 | ExcaliBug | 71155 | [71155-excalibug.json](./71155-excalibug.json) |
+| Excalibur | 175033 | [175033-excalibur.json](./175033-excalibur.json) |
 | Excalibur | 204292 | [204292-excalibur.json](./204292-excalibur.json) |
 | Excalibur | 23951 | [23951-excalibur.json](./23951-excalibur.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
