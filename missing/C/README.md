@@ -10283,6 +10283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsed | 118801 | [118801-collapsed.json](./118801-collapsed.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
 | Collapsed Horizon | 333031 | [333031-collapsed-horizon.json](./333031-collapsed-horizon.json) |
+| Collapsible D | 175516 | [175516-collapsible-d.json](./175516-collapsible-d.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
 | Collapsing HD | 175289 | [175289-collapsing-hd.json](./175289-collapsing-hd.json) |
 | Collapsus | 99413 | [99413-collapsus.json](./99413-collapsus.json) |
@@ -10926,6 +10927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
 | ColorSweeper | 319413 | [319413-colorsweeper.json](./319413-colorsweeper.json) |
 | Colortone: Remixed | 189880 | [189880-colortone-remixed.json](./189880-colortone-remixed.json) |
+| Colortoons Chikara | 175535 | [175535-colortoons-chikara.json](./175535-colortoons-chikara.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | Coloruid | 409892 | [409892-coloruid.json](./409892-coloruid.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
@@ -14763,6 +14765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Nick's Picks: King Graham's Board Game Challenge | 69760 | [69760-crazy-nicks-picks-king-grahams-board-game-challenge.json](./69760-crazy-nicks-picks-king-grahams-board-game-challenge.json) |
 | Crazy Oafish Ultra Blocks: Big Sale | 30534 | [30534-crazy-oafish-ultra-blocks-big-sale.json](./30534-crazy-oafish-ultra-blocks-big-sale.json) |
 | Crazy Oce | 143544 | [143544-crazy-oce.json](./143544-crazy-oce.json) |
+| Crazy Office Dentist | 175540 | [175540-crazy-office-dentist.json](./175540-crazy-office-dentist.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Otto | 32506 | [32506-crazy-otto.json](./32506-crazy-otto.json) |
