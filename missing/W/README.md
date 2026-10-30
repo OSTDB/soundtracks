@@ -7465,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: 15th Anniversary - Collector's Edition | 136120 | [136120-world-of-warcraft-15th-anniversary-collectors-edition.json](./136120-world-of-warcraft-15th-anniversary-collectors-edition.json) |
 | World of Warcraft: Assault on Blackwing Lair | 345158 | [345158-world-of-warcraft-assault-on-blackwing-lair.json](./345158-world-of-warcraft-assault-on-blackwing-lair.json) |
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
+| World of Warcraft: Battle for Azeroth - Collector's Edition | 136033 | [136033-world-of-warcraft-battle-for-azeroth-collectors-edition.json](./136033-world-of-warcraft-battle-for-azeroth-collectors-edition.json) |
 | World of Warcraft: Burning Crusade Classic | 143683 | [143683-world-of-warcraft-burning-crusade-classic.json](./143683-world-of-warcraft-burning-crusade-classic.json) |
 | World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
@@ -7894,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
 | Worms Battle: Wormageddon | 132069 | [132069-worms-battle-wormageddon.json](./132069-worms-battle-wormageddon.json) |
 | Worms Battlegrounds | 8967 | [8967-worms-battlegrounds.json](./8967-worms-battlegrounds.json) |
+| Worms Battlegrounds + Worms W.M.D | 136080 | [136080-worms-battlegrounds-worms-w-m-d.json](./136080-worms-battlegrounds-worms-w-m-d.json) |
 | Worms Blast | 248469 | [248469-worms-blast.json](./248469-worms-blast.json) |
 | Worms Clan Wars | 7082 | [7082-worms-clan-wars.json](./7082-worms-clan-wars.json) |
 | Worms Collection 1 | 145833 | [145833-worms-collection-1.json](./145833-worms-collection-1.json) |
@@ -8119,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Backwoods Bangers Car Pack | 223693 | [223693-wreckfest-backwoods-bangers-car-pack.json](./223693-wreckfest-backwoods-bangers-car-pack.json) |
 | Wreckfest: Banger Racing Car Pack | 223694 | [223694-wreckfest-banger-racing-car-pack.json](./223694-wreckfest-banger-racing-car-pack.json) |
 | Wreckfest: Complete Edition | 164788 | [164788-wreckfest-complete-edition.json](./164788-wreckfest-complete-edition.json) |
+| Wreckfest: Deluxe Edition | 136035 | [136035-wreckfest-deluxe-edition.json](./136035-wreckfest-deluxe-edition.json) |
 | Wreckfest: Getaway Car Pack | 223699 | [223699-wreckfest-getaway-car-pack.json](./223699-wreckfest-getaway-car-pack.json) |
 | Wreckfest: Goofy Roofs Pack | 223695 | [223695-wreckfest-goofy-roofs-pack.json](./223695-wreckfest-goofy-roofs-pack.json) |
 | Wreckfest: Modified Monsters Car Pack | 223696 | [223696-wreckfest-modified-monsters-car-pack.json](./223696-wreckfest-modified-monsters-car-pack.json) |
