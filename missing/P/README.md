@@ -5071,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix's Faye | 348184 | [348184-phoenixs-faye.json](./348184-phoenixs-faye.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
 | Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
+| Phogbound | 158905 | [158905-phogbound.json](./158905-phogbound.json) |
 | Pholee | 294000 | [294000-pholee.json](./294000-pholee.json) |
 | Phone | 218998 | [218998-phone.json](./218998-phone.json) |
 | Phone Evolution | 194113 | [194113-phone-evolution.json](./194113-phone-evolution.json) |
@@ -7801,6 +7802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelShips Retro | 71145 | [71145-pixelships-retro.json](./71145-pixelships-retro.json) |
 | Pixelshire | 203740 | [203740-pixelshire.json](./203740-pixelshire.json) |
 | PixelSlime | 223613 | [223613-pixelslime.json](./223613-pixelslime.json) |
+| Pixelstar Hero | 158885 | [158885-pixelstar-hero.json](./158885-pixelstar-hero.json) |
 | PixelTerra | 257247 | [257247-pixelterra.json](./257247-pixelterra.json) |
 | PixelTown | 183283 | [183283-pixeltown.json](./183283-pixeltown.json) |
 | PixelTown | 194144 | [194144-pixeltown.json](./194144-pixeltown.json) |
@@ -8218,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Lev | 150452 | [150452-planet-lev.json](./150452-planet-lev.json) |
 | Planet Love Story | 407895 | [407895-planet-love-story.json](./407895-planet-love-story.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
+| Planet Miner | 158899 | [158899-planet-miner.json](./158899-planet-miner.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
 | Planet Miners | 323141 | [323141-planet-miners.json](./323141-planet-miners.json) |
 | Planet Minigolf | 21575 | [21575-planet-minigolf.json](./21575-planet-minigolf.json) |
