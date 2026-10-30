@@ -7804,6 +7804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Egg | 327287 | [327287-the-egg.json](./327287-the-egg.json) |
 | The Egg | 354651 | [354651-the-egg.json](./354651-the-egg.json) |
 | The Egg | 403231 | [403231-the-egg.json](./403231-the-egg.json) |
+| The Egg of Basan | 134857 | [134857-the-egg-of-basan.json](./134857-the-egg-of-basan.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Egyptian Prophecy: The Fate of Ramses | 17414 | [17414-the-egyptian-prophecy-the-fate-of-ramses.json](./17414-the-egyptian-prophecy-the-fate-of-ramses.json) |
@@ -9345,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Nightmare of Nibras | 207792 | [207792-the-grim-nightmare-of-nibras.json](./207792-the-grim-nightmare-of-nibras.json) |
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grim Reaper Who Reaped My Heart | 134642 | [134642-the-grim-reaper-who-reaped-my-heart.json](./134642-the-grim-reaper-who-reaped-my-heart.json) |
+| The Grimoire of Alice | 134858 | [134858-the-grimoire-of-alice.json](./134858-the-grimoire-of-alice.json) |
 | The Grimsworth Reports: Woodfall | 75004 | [75004-the-grimsworth-reports-woodfall.json](./75004-the-grimsworth-reports-woodfall.json) |
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
 | The Grinch | 265046 | [265046-the-grinch.json](./265046-the-grinch.json) |
@@ -9519,6 +9521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart of Tales | 177499 | [177499-the-heart-of-tales.json](./177499-the-heart-of-tales.json) |
 | The Heart of the Earth | 382842 | [382842-the-heart-of-the-earth.json](./382842-the-heart-of-the-earth.json) |
 | The Heart Pumps Clay | 122891 | [122891-the-heart-pumps-clay.json](./122891-the-heart-pumps-clay.json) |
+| The Heart's Illumination | 134859 | [134859-the-hearts-illumination.json](./134859-the-hearts-illumination.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Hearth and Harbour | 366973 | [366973-the-hearth-and-harbour.json](./366973-the-hearth-and-harbour.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
@@ -10864,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
 | The Last Knight: Day One | 83194 | [83194-the-last-knight-day-one.json](./83194-the-last-knight-day-one.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
+| The Last Librarian | 134827 | [134827-the-last-librarian.json](./134827-the-last-librarian.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
 | The Last Light | 328436 | [328436-the-last-light.json](./328436-the-last-light.json) |
@@ -23882,6 +23886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Hero of Ice Fairy: Rose Idol | 360024 | [360024-touhou-hero-of-ice-fairy-rose-idol.json](./360024-touhou-hero-of-ice-fairy-rose-idol.json) |
 | Touhou Hisouten: Scarlet Weather Rhapsody | 27160 | [27160-touhou-hisouten-scarlet-weather-rhapsody.json](./27160-touhou-hisouten-scarlet-weather-rhapsody.json) |
 | Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe | 27157 | [27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json](./27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json) |
+| Touhou History Eater | 134860 | [134860-touhou-history-eater.json](./134860-touhou-history-eater.json) |
 | Touhou Houtenkyou: Treasure Castle Labyrinth | 276761 | [276761-touhou-houtenkyou-treasure-castle-labyrinth.json](./276761-touhou-houtenkyou-treasure-castle-labyrinth.json) |
 | Touhou Hyouibana: Antinomy of Common Flowers | 76829 | [76829-touhou-hyouibana-antinomy-of-common-flowers.json](./76829-touhou-hyouibana-antinomy-of-common-flowers.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
