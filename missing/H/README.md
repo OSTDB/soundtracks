@@ -4321,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Bodysuit | 223067 | [223067-hentai-bodysuit.json](./223067-hentai-bodysuit.json) |
 | Hentai Boy | 149427 | [149427-hentai-boy.json](./149427-hentai-boy.json) |
 | Hentai Breaker | 365416 | [365416-hentai-breaker.json](./365416-hentai-breaker.json) |
+| Hentai Breakout City | 160029 | [160029-hentai-breakout-city.json](./160029-hentai-breakout-city.json) |
 | Hentai Breeding Simulator | 309474 | [309474-hentai-breeding-simulator.json](./309474-hentai-breeding-simulator.json) |
 | Hentai Brick Breaker 2 | 161162 | [161162-hentai-brick-breaker-2.json](./161162-hentai-brick-breaker-2.json) |
 | Hentai Bunny | 286990 | [286990-hentai-bunny.json](./286990-hentai-bunny.json) |
@@ -5115,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermes & Gry: A Crooked Plan | 176308 | [176308-hermes-and-gry-a-crooked-plan.json](./176308-hermes-and-gry-a-crooked-plan.json) |
 | Hermes e Renato: Joselito Contra a Farofada | 253187 | [253187-hermes-e-renato-joselito-contra-a-farofada.json](./253187-hermes-e-renato-joselito-contra-a-farofada.json) |
 | Hermes: Rescue Mission | 126331 | [126331-hermes-rescue-mission.json](./126331-hermes-rescue-mission.json) |
+| Hermes: Sibyls' Prophecy | 160010 | [160010-hermes-sibyls-prophecy.json](./160010-hermes-sibyls-prophecy.json) |
 | Hermes: The Fury of Megaera | 255245 | [255245-hermes-the-fury-of-megaera.json](./255245-hermes-the-fury-of-megaera.json) |
 | Hermes: Tricks of Thanatos | 166041 | [166041-hermes-tricks-of-thanatos.json](./166041-hermes-tricks-of-thanatos.json) |
 | Hermes: War of the Gods | 127089 | [127089-hermes-war-of-the-gods.json](./127089-hermes-war-of-the-gods.json) |
@@ -5744,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Survivors | 249855 | [249855-hexagon-survivors.json](./249855-hexagon-survivors.json) |
 | Hexagon Tribute | 224458 | [224458-hexagon-tribute.json](./224458-hexagon-tribute.json) |
 | Hexagon Ultra VR | 291865 | [291865-hexagon-ultra-vr.json](./291865-hexagon-ultra-vr.json) |
+| Hexagon World | 160001 | [160001-hexagon-world.json](./160001-hexagon-world.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexagonal Tower | 195109 | [195109-hexagonal-tower.json](./195109-hexagonal-tower.json) |
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
@@ -9605,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel on the Grate | 180015 | [180015-hotel-on-the-grate.json](./180015-hotel-on-the-grate.json) |
 | Hotel Owner Simulator | 321320 | [321320-hotel-owner-simulator.json](./321320-hotel-owner-simulator.json) |
 | Hotel Paraíso | 401868 | [401868-hotel-paraiso.json](./401868-hotel-paraiso.json) |
+| Hotel Paris | 160013 | [160013-hotel-paris.json](./160013-hotel-paris.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
 | Hotel Renovator: Five Star Edition | 250420 | [250420-hotel-renovator-five-star-edition.json](./250420-hotel-renovator-five-star-edition.json) |
