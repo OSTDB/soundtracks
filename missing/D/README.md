@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger World | 345965 | [345965-danger-world.json](./345965-danger-world.json) |
+| Danger Zombies | 169031 | [169031-danger-zombies.json](./169031-danger-zombies.json) |
 | Danger Zone | 277687 | [277687-danger-zone.json](./277687-danger-zone.json) |
 | Danger Zone 2 | 104231 | [104231-danger-zone-2.json](./104231-danger-zone-2.json) |
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
