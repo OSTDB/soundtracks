@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyen: The Skeleton Amulet | 402754 | [402754-kyen-the-skeleton-amulet.json](./402754-kyen-the-skeleton-amulet.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
+| Kyle is Famous: Kyle is Santa | 171209 | [171209-kyle-is-famous-kyle-is-santa.json](./171209-kyle-is-famous-kyle-is-santa.json) |
 | Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
 | Kyle Rittenhouse's Turkey Shoot | 206540 | [206540-kyle-rittenhouses-turkey-shoot.json](./206540-kyle-rittenhouses-turkey-shoot.json) |
 | Kyle Simulator | 120133 | [120133-kyle-simulator.json](./120133-kyle-simulator.json) |
