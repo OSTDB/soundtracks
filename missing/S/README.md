@@ -5020,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
 | Separated Worlds | 279525 | [279525-separated-worlds.json](./279525-separated-worlds.json) |
 | Separation | 144160 | [144160-separation.json](./144160-separation.json) |
+| Separation Anxiety | 153673 | [153673-separation-anxiety.json](./153673-separation-anxiety.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sepas Channel | 100270 | [100270-sepas-channel.json](./100270-sepas-channel.json) |
@@ -7135,6 +7136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherman's Quest | 336997 | [336997-shermans-quest.json](./336997-shermans-quest.json) |
 | Sherpa's Caravan | 374567 | [374567-sherpas-caravan.json](./374567-sherpas-caravan.json) |
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
+| Sherwood Classic | 153682 | [153682-sherwood-classic.json](./153682-sherwood-classic.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Shh, Zombies | 21979 | [21979-shh-zombies.json](./21979-shh-zombies.json) |
@@ -7370,6 +7372,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V | 26775 | [26775-shin-megami-tensei-v.json](./26775-shin-megami-tensei-v.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: Digital Deluxe Edition | 238340 | [238340-shin-megami-tensei-v-digital-deluxe-edition.json](./238340-shin-megami-tensei-v-digital-deluxe-edition.json) |
+| Shin Megami Tensei V: Fall of Man Premium Edition | 153640 | [153640-shin-megami-tensei-v-fall-of-man-premium-edition.json](./153640-shin-megami-tensei-v-fall-of-man-premium-edition.json) |
+| Shin Megami Tensei V: Steelbook Launch Edition | 153639 | [153639-shin-megami-tensei-v-steelbook-launch-edition.json](./153639-shin-megami-tensei-v-steelbook-launch-edition.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Holy Will and Profane Dissent | 297317 | [297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json](./297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Sakura Cinders of the East | 297318 | [297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json](./297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json) |
@@ -8245,6 +8249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Empire Tycoon | 157083 | [157083-shopping-empire-tycoon.json](./157083-shopping-empire-tycoon.json) |
 | Shopping Fever | 330812 | [330812-shopping-fever.json](./330812-shopping-fever.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
+| Shopping Mahjong connect | 153665 | [153665-shopping-mahjong-connect.json](./153665-shopping-mahjong-connect.json) |
 | Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
 | Shopping Mall Girl: Classy Look | 310465 | [310465-shopping-mall-girl-classy-look.json](./310465-shopping-mall-girl-classy-look.json) |
 | Shopping Mall Girl: Complete Edition | 328775 | [328775-shopping-mall-girl-complete-edition.json](./328775-shopping-mall-girl-complete-edition.json) |
@@ -8429,7 +8434,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show Me What You Got | 97178 | [97178-show-me-what-you-got.json](./97178-show-me-what-you-got.json) |
 | Show Yourself | 350372 | [350372-show-yourself.json](./350372-show-yourself.json) |
 | Showa American Story | 186613 | [186613-showa-american-story.json](./186613-showa-american-story.json) |
+| Showa Candy Shop | 153669 | [153669-showa-candy-shop.json](./153669-showa-candy-shop.json) |
 | Showa Candy Shop 2 | 90380 | [90380-showa-candy-shop-2.json](./90380-showa-candy-shop-2.json) |
+| Showa Candy Shop 3 | 153671 | [153671-showa-candy-shop-3.json](./153671-showa-candy-shop-3.json) |
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
 | Showcar Simulator: German Lowriders | 59341 | [59341-showcar-simulator-german-lowriders.json](./59341-showcar-simulator-german-lowriders.json) |
 | Showdown | 28525 | [28525-showdown.json](./28525-showdown.json) |
@@ -27137,6 +27144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
 | Super Arcade Soccer 2021 | 140421 | [140421-super-arcade-soccer-2021.json](./140421-super-arcade-soccer-2021.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
+| Super Archer | 153650 | [153650-super-archer.json](./153650-super-archer.json) |
 | Super Armand | 134266 | [134266-super-armand.json](./134266-super-armand.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 | 29484 | [29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json](./29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
@@ -29966,6 +29974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman | 68440 | [68440-superman.json](./68440-superman.json) |
 | Superman | 81521 | [81521-superman.json](./81521-superman.json) |
+| Superman Activity Center | 153678 | [153678-superman-activity-center.json](./153678-superman-activity-center.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman Returns: Fortress of Solitude | 19074 | [19074-superman-returns-fortress-of-solitude.json](./19074-superman-returns-fortress-of-solitude.json) |
 | Superman Returns: The Videogame | 47867 | [47867-superman-returns-the-videogame.json](./47867-superman-returns-the-videogame.json) |
