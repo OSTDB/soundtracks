@@ -6351,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Journey: Plan A | 263639 | [263639-evil-journey-plan-a.json](./263639-evil-journey-plan-a.json) |
 | Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
+| Evil Mansion | 172924 | [172924-evil-mansion.json](./172924-evil-mansion.json) |
 | Evil Maze | 174499 | [174499-evil-maze.json](./174499-evil-maze.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
 | Evil Maze 2: Lava Dungeon | 193292 | [193292-evil-maze-2-lava-dungeon.json](./193292-evil-maze-2-lava-dungeon.json) |
