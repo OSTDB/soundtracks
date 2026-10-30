@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
+| Sakura Hime | 176092 | [176092-sakura-hime.json](./176092-sakura-hime.json) |
 | Sakura Hime 2 | 193261 | [193261-sakura-hime-2.json](./193261-sakura-hime-2.json) |
 | Sakura Hime 3 | 224843 | [224843-sakura-hime-3.json](./224843-sakura-hime-3.json) |
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
@@ -9473,6 +9474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
 | SIM Chef: Restaurant management | 197047 | [197047-sim-chef-restaurant-management.json](./197047-sim-chef-restaurant-management.json) |
 | Sim Cinema Deluxe | 139154 | [139154-sim-cinema-deluxe.json](./139154-sim-cinema-deluxe.json) |
+| Sim Companies | 176094 | [176094-sim-companies.json](./176094-sim-companies.json) |
 | SIM Dispatcher | 140311 | [140311-sim-dispatcher.json](./140311-sim-dispatcher.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
@@ -13141,6 +13143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakeout | 138725 | [138725-snakeout.json](./138725-snakeout.json) |
 | SnakeQR | 146844 | [146844-snakeqr.json](./146844-snakeqr.json) |
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
+| Snakeroot. | 176131 | [176131-snakeroot.json](./176131-snakeroot.json) |
 | Snakes | 195497 | [195497-snakes.json](./195497-snakes.json) |
 | Snakes | 201995 | [201995-snakes.json](./201995-snakes.json) |
 | Snakes 'n' Ladders: Origins - Episode 1 | 30590 | [30590-snakes-n-ladders-origins-episode-1.json](./30590-snakes-n-ladders-origins-episode-1.json) |
@@ -31709,6 +31712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of Eternity | 59852 | [59852-symphony-of-eternity.json](./59852-symphony-of-eternity.json) |
 | Symphony Of Motion | 321236 | [321236-symphony-of-motion.json](./321236-symphony-of-motion.json) |
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
+| Symphony of Seven Souls | 176082 | [176082-symphony-of-seven-souls.json](./176082-symphony-of-seven-souls.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of Stars | 114255 | [114255-symphony-of-stars.json](./114255-symphony-of-stars.json) |
 | Symphony of the Machine | 28238 | [28238-symphony-of-the-machine.json](./28238-symphony-of-the-machine.json) |
