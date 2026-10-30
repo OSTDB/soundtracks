@@ -3079,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Enemy Within - Shadows Edition | 238332 | [238332-batman-the-enemy-within-shadows-edition.json](./238332-batman-the-enemy-within-shadows-edition.json) |
 | Batman: The Junkyard Challenge | 298937 | [298937-batman-the-junkyard-challenge.json](./298937-batman-the-junkyard-challenge.json) |
 | Batman: The Telltale Series - Episode 2: Children of Arkham | 26964 | [26964-batman-the-telltale-series-episode-2-children-of-arkham.json](./26964-batman-the-telltale-series-episode-2-children-of-arkham.json) |
+| Batman: The Telltale Series - Shadows Mode | 127561 | [127561-batman-the-telltale-series-shadows-mode.json](./127561-batman-the-telltale-series-shadows-mode.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
 | Batman: The Video Game | 49227 | [49227-batman-the-video-game.json](./49227-batman-the-video-game.json) |
@@ -10592,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
 | Bluebird of Happiness | 213470 | [213470-bluebird-of-happiness.json](./213470-bluebird-of-happiness.json) |
+| BlueBoi | 127558 | [127558-blueboi.json](./127558-blueboi.json) |
 | BlueBoi Remastered | 134908 | [134908-blueboi-remastered.json](./134908-blueboi-remastered.json) |
 | Bluebush Chess | 74058 | [74058-bluebush-chess.json](./74058-bluebush-chess.json) |
 | BlueCloud Summit | 254005 | [254005-bluecloud-summit.json](./254005-bluecloud-summit.json) |
@@ -11411,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
 | Bomberpet | 189064 | [189064-bomberpet.json](./189064-bomberpet.json) |
 | Bomberrage | 374433 | [374433-bomberrage.json](./374433-bomberrage.json) |
+| BomberX | 127525 | [127525-bomberx.json](./127525-bomberx.json) |
 | BomberZone | 32628 | [32628-bomberzone.json](./32628-bomberzone.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | BombGears | 110713 | [110713-bombgears.json](./110713-bombgears.json) |
@@ -13829,6 +13832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | BRG's Alice in Wonderland Visual Novel | 118772 | [118772-brgs-alice-in-wonderland-visual-novel.json](./118772-brgs-alice-in-wonderland-visual-novel.json) |
 | BRG's Red Riding Hood | 179415 | [179415-brgs-red-riding-hood.json](./179415-brgs-red-riding-hood.json) |
+| BRG's Tale of the Gallant Jiraiya | 127502 | [127502-brgs-tale-of-the-gallant-jiraiya.json](./127502-brgs-tale-of-the-gallant-jiraiya.json) |
 | Brian Bloodaxe | 13438 | [13438-brian-bloodaxe.json](./13438-brian-bloodaxe.json) |
 | Brian Clough's Football Fortunes | 12283 | [12283-brian-cloughs-football-fortunes.json](./12283-brian-cloughs-football-fortunes.json) |
 | Brian Jacks Superstar Challenge | 13439 | [13439-brian-jacks-superstar-challenge.json](./13439-brian-jacks-superstar-challenge.json) |
