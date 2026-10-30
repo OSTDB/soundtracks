@@ -5341,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Set a Watch: Digital Edition | 341982 | [341982-set-a-watch-digital-edition.json](./341982-set-a-watch-digital-edition.json) |
 | Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
+| Set Sail: Caribbean | 124991 | [124991-set-sail-caribbean.json](./124991-set-sail-caribbean.json) |
 | Set Sail! Arena | 302897 | [302897-set-sail-arena.json](./302897-set-sail-arena.json) |
 | Set with Friends | 319614 | [319614-set-with-friends.json](./319614-set-with-friends.json) |
 | Set Yourself on Fire | 306616 | [306616-set-yourself-on-fire.json](./306616-set-yourself-on-fire.json) |
@@ -17579,6 +17580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23770,6 +23772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Cosmic Storms | 298124 | [298124-stellaris-cosmic-storms.json](./298124-stellaris-cosmic-storms.json) |
 | Stellaris: Digital Anniversary Edition | 28539 | [28539-stellaris-digital-anniversary-edition.json](./28539-stellaris-digital-anniversary-edition.json) |
 | Stellaris: Distant Stars | 114427 | [114427-stellaris-distant-stars.json](./114427-stellaris-distant-stars.json) |
+| Stellaris: Federations | 124993 | [124993-stellaris-federations.json](./124993-stellaris-federations.json) |
 | Stellaris: First Contact | 231845 | [231845-stellaris-first-contact.json](./231845-stellaris-first-contact.json) |
 | Stellaris: Galaxy Command | 138570 | [138570-stellaris-galaxy-command.json](./138570-stellaris-galaxy-command.json) |
 | Stellaris: Galaxy Edition | 53670 | [53670-stellaris-galaxy-edition.json](./53670-stellaris-galaxy-edition.json) |
@@ -26323,6 +26326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4: European Battlefields Edition | 104244 | [104244-sudden-strike-4-european-battlefields-edition.json](./104244-sudden-strike-4-european-battlefields-edition.json) |
 | Sudden Strike 4: Finland - Winter Storm | 124799 | [124799-sudden-strike-4-finland-winter-storm.json](./124799-sudden-strike-4-finland-winter-storm.json) |
 | Sudden Strike 4: Steelbook Edition | 166280 | [166280-sudden-strike-4-steelbook-edition.json](./166280-sudden-strike-4-steelbook-edition.json) |
+| Sudden Strike 4: The Pacific War | 125002 | [125002-sudden-strike-4-the-pacific-war.json](./125002-sudden-strike-4-the-pacific-war.json) |
 | Sudden Strike 5 | 355088 | [355088-sudden-strike-5.json](./355088-sudden-strike-5.json) |
 | Sudden Strike Anthology | 85819 | [85819-sudden-strike-anthology.json](./85819-sudden-strike-anthology.json) |
 | Sudden Strike Gold | 36717 | [36717-sudden-strike-gold.json](./36717-sudden-strike-gold.json) |
@@ -27173,6 +27177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunless Sea | 8925 | [8925-sunless-sea.json](./8925-sunless-sea.json) |
 | Sunless Sea: Zubmariner Edition | 218845 | [218845-sunless-sea-zubmariner-edition.json](./218845-sunless-sea-zubmariner-edition.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
+| Sunless Skies: Sovereign Edition | 124994 | [124994-sunless-skies-sovereign-edition.json](./124994-sunless-skies-sovereign-edition.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
 | Sunlit | 229593 | [229593-sunlit.json](./229593-sunlit.json) |
 | Sunlit Trail: Complete Edition | 410674 | [410674-sunlit-trail-complete-edition.json](./410674-sunlit-trail-complete-edition.json) |
@@ -31943,6 +31948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: Ground Pounders | 10378 | [10378-sword-of-the-stars-ground-pounders.json](./10378-sword-of-the-stars-ground-pounders.json) |
 | Sword of the Stars: The Pit - Juggernaut | 8779 | [8779-sword-of-the-stars-the-pit-juggernaut.json](./8779-sword-of-the-stars-the-pit-juggernaut.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
+| Sword of the Stars: The Pit - Osmium Edition: Juggernaut | 125000 | [125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json](./125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
