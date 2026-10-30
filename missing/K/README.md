@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalidazkoph | 135794 | [135794-kalidazkoph.json](./135794-kalidazkoph.json) |
 | Kalikan | 255868 | [255868-kalikan.json](./255868-kalikan.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
+| Kalimba: The Dark Void - Coop | 174518 | [174518-kalimba-the-dark-void-coop.json](./174518-kalimba-the-dark-void-coop.json) |
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
 | Kalin no Tsurugi | 41286 | [41286-kalin-no-tsurugi.json](./41286-kalin-no-tsurugi.json) |
 | Kalinur | 212068 | [212068-kalinur.json](./212068-kalinur.json) |
@@ -3575,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kite | 31757 | [31757-kite.json](./31757-kite.json) |
 | Kite Fight | 213267 | [213267-kite-fight.json](./213267-kite-fight.json) |
 | Kite Hunter | 333147 | [333147-kite-hunter.json](./333147-kite-hunter.json) |
+| Kite Trip | 174505 | [174505-kite-trip.json](./174505-kite-trip.json) |
 | Kiteboard Hero | 175339 | [175339-kiteboard-hero.json](./175339-kiteboard-hero.json) |
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
 | Kiteretsu Boy's Gangagan | 54927 | [54927-kiteretsu-boys-gangagan.json](./54927-kiteretsu-boys-gangagan.json) |
