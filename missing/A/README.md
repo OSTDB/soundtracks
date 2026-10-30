@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Filled With the Sound of Rain | 339723 | [339723-a-night-filled-with-the-sound-of-rain.json](./339723-a-night-filled-with-the-sound-of-rain.json) |
 | A Night for Flesh and Roses | 344838 | [344838-a-night-for-flesh-and-roses.json](./344838-a-night-for-flesh-and-roses.json) |
 | A Night In Berlin | 138472 | [138472-a-night-in-berlin.json](./138472-a-night-in-berlin.json) |
+| A Night in Berry | 171253 | [171253-a-night-in-berry.json](./171253-a-night-in-berry.json) |
 | A Night in Crazytown | 58084 | [58084-a-night-in-crazytown.json](./58084-a-night-in-crazytown.json) |
 | A Night In Kyosaka | 154086 | [154086-a-night-in-kyosaka.json](./154086-a-night-in-kyosaka.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
