@@ -3548,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibiruman: 2080 | 185503 | [185503-nibiruman-2080.json](./185503-nibiruman-2080.json) |
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
 | Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
+| Nice Bowling | 129953 | [129953-nice-bowling.json](./129953-nice-bowling.json) |
 | Nice Day for Fishing | 324939 | [324939-nice-day-for-fishing.json](./324939-nice-day-for-fishing.json) |
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
@@ -5363,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No Zombie Land: Lucy | 367282 | [367282-no-zombie-land-lucy.json](./367282-no-zombie-land-lucy.json) |
 | No-Appointment Gals: Olympos | 78522 | [78522-no-appointment-gals-olympos.json](./78522-no-appointment-gals-olympos.json) |
+| No-Brainer Heroes | 129947 | [129947-no-brainer-heroes.json](./129947-no-brainer-heroes.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No-Go | 202195 | [202195-no-go.json](./202195-no-go.json) |
 | No-good Noelle | 281242 | [281242-no-good-noelle.json](./281242-no-good-noelle.json) |
@@ -5606,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
+| Nocturne: Prelude | 129986 | [129986-nocturne-prelude.json](./129986-nocturne-prelude.json) |
 | NocturneRecomp | 408841 | [408841-nocturnerecomp.json](./408841-nocturnerecomp.json) |
 | Nod | 184700 | [184700-nod.json](./184700-nod.json) |
 | Nod If You Can Hear Me | 177824 | [177824-nod-if-you-can-hear-me.json](./177824-nod-if-you-can-hear-me.json) |
@@ -5820,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
 | Nonogram - The Greatest Painter | 87774 | [87774-nonogram-the-greatest-painter.json](./87774-nonogram-the-greatest-painter.json) |
 | Nonogram 3D: Mega Puzzle | 289449 | [289449-nonogram-3d-mega-puzzle.json](./289449-nonogram-3d-mega-puzzle.json) |
+| Nonogram Animal Griddlers | 129969 | [129969-nonogram-animal-griddlers.json](./129969-nonogram-animal-griddlers.json) |
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
 | Nonogram Color | 249635 | [249635-nonogram-color.json](./249635-nonogram-color.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
