@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroKing | 278497 | [278497-zeroking.json](./278497-zeroking.json) |
 | Zeromiss | 327210 | [327210-zeromiss.json](./327210-zeromiss.json) |
 | Zeron | 106304 | [106304-zeron.json](./106304-zeron.json) |
+| Zerone | 172338 | [172338-zerone.json](./172338-zerone.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
 | Zerone Episode 1 Gunner | 114870 | [114870-zerone-episode-1-gunner.json](./114870-zerone-episode-1-gunner.json) |
 | ZeroOut | 406514 | [406514-zeroout.json](./406514-zeroout.json) |
