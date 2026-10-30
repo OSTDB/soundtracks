@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Alone | 34045 | [34045-relic-alone.json](./34045-relic-alone.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Guardian | 258339 | [258339-relic-guardian.json](./258339-relic-guardian.json) |
+| Relic Guardians: Complete | 168050 | [168050-relic-guardians-complete.json](./168050-relic-guardians-complete.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Hunt | 340706 | [340706-relic-hunt.json](./340706-relic-hunt.json) |
 | Relic Hunt | 361602 | [361602-relic-hunt.json](./361602-relic-hunt.json) |
@@ -6155,6 +6156,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
 | Rhythm Witch: Beat Death | 319447 | [319447-rhythm-witch-beat-death.json](./319447-rhythm-witch-beat-death.json) |
+| Rhythm World: Master Project - Electronica | 168007 | [168007-rhythm-world-master-project-electronica.json](./168007-rhythm-world-master-project-electronica.json) |
+| Rhythm World: Master Project - Japanese Burnt | 168008 | [168008-rhythm-world-master-project-japanese-burnt.json](./168008-rhythm-world-master-project-japanese-burnt.json) |
+| Rhythm World: Master Project - Japanese Soft | 168009 | [168009-rhythm-world-master-project-japanese-soft.json](./168009-rhythm-world-master-project-japanese-soft.json) |
+| Rhythm World: Master Project - Mix! Mix! | 168006 | [168006-rhythm-world-master-project-mix-mix.json](./168006-rhythm-world-master-project-mix-mix.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
 | RhythMania | 327047 | [327047-rhythmania.json](./327047-rhythmania.json) |
 | RhythMario 64.5: Crescendo of Cosmic Beast | 307365 | [307365-rhythmario-64-5-crescendo-of-cosmic-beast.json](./307365-rhythmario-64-5-crescendo-of-cosmic-beast.json) |
@@ -10420,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rrrr | 112768 | [112768-rrrr.json](./112768-rrrr.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
 | Rrrr3 | 168059 | [168059-rrrr3.json](./168059-rrrr3.json) |
+| Rrrr3: Piranha | 168051 | [168051-rrrr3-piranha.json](./168051-rrrr3-piranha.json) |
 | RrrrrAbbits | 339983 | [339983-rrrrrabbits.json](./339983-rrrrrabbits.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
 | RS Boxing Champions | 233162 | [233162-rs-boxing-champions.json](./233162-rs-boxing-champions.json) |
