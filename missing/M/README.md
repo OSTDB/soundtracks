@@ -1848,8 +1848,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Woods | 255507 | [255507-mahjong-woods.json](./255507-mahjong-woods.json) |
 | Mahjong World | 145551 | [145551-mahjong-world.json](./145551-mahjong-world.json) |
 | Mahjong World Contest | 25545 | [25545-mahjong-world-contest.json](./25545-mahjong-world-contest.json) |
+| Mahjong World Contest 2 | 158356 | [158356-mahjong-world-contest-2.json](./158356-mahjong-world-contest-2.json) |
 | Mahjong World W | 145550 | [145550-mahjong-world-w.json](./145550-mahjong-world-w.json) |
 | Mahjong World's Greatest Cities and Temples | 65545 | [65545-mahjong-worlds-greatest-cities-and-temples.json](./65545-mahjong-worlds-greatest-cities-and-temples.json) |
+| Mahjong Worlds | 158359 | [158359-mahjong-worlds.json](./158359-mahjong-worlds.json) |
 | Mahjong Xiāoxiāolè | 117683 | [117683-mahjong-xiaoxiaole.json](./117683-mahjong-xiaoxiaole.json) |
 | Mahjong Yin And Yang | 251356 | [251356-mahjong-yin-and-yang.json](./251356-mahjong-yin-and-yang.json) |
 | Mahjong: Dream C Club | 47431 | [47431-mahjong-dream-c-club.json](./47431-mahjong-dream-c-club.json) |
@@ -7836,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Misery | 297345 | [297345-memories-of-misery.json](./297345-memories-of-misery.json) |
 | Memories of Planet | 223324 | [223324-memories-of-planet.json](./223324-memories-of-planet.json) |
 | Memories of Replica | 225348 | [225348-memories-of-replica.json](./225348-memories-of-replica.json) |
+| Memories of Tomorrow | 158369 | [158369-memories-of-tomorrow.json](./158369-memories-of-tomorrow.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
 | Memories of Wilderness | 208081 | [208081-memories-of-wilderness.json](./208081-memories-of-wilderness.json) |
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
@@ -16157,6 +16160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
 | Mouton Noir | 396643 | [396643-mouton-noir.json](./396643-mouton-noir.json) |
 | Movafort | 212190 | [212190-movafort.json](./212190-movafort.json) |
+| Move 'n' Bloom | 158361 | [158361-move-n-bloom.json](./158361-move-n-bloom.json) |
 | Move 78 | 157207 | [157207-move-78.json](./157207-move-78.json) |
 | Move Animals | 220160 | [220160-move-animals.json](./220160-move-animals.json) |
 | Move Ball to Green | 291518 | [291518-move-ball-to-green.json](./291518-move-ball-to-green.json) |
