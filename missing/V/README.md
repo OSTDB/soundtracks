@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Knights: Typing Battle | 29053 | [29053-valiant-knights-typing-battle.json](./29053-valiant-knights-typing-battle.json) |
 | Valiant Rooster | 262413 | [262413-valiant-rooster.json](./262413-valiant-rooster.json) |
 | Valiant Saga | 336470 | [336470-valiant-saga.json](./336470-valiant-saga.json) |
+| Valiant Tactics | 137277 | [137277-valiant-tactics.json](./137277-valiant-tactics.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
 | Valiant: Resurrection | 35281 | [35281-valiant-resurrection.json](./35281-valiant-resurrection.json) |
 | ValiDate: Struggling Singles in your Area | 139144 | [139144-validate-struggling-singles-in-your-area.json](./139144-validate-struggling-singles-in-your-area.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers III | 99458 | [99458-viking-brothers-iii.json](./99458-viking-brothers-iii.json) |
 | Viking Brothers IV | 99436 | [99436-viking-brothers-iv.json](./99436-viking-brothers-iv.json) |
 | Viking Brothers VI: Collector's Edition | 416149 | [416149-viking-brothers-vi-collectors-edition.json](./416149-viking-brothers-vi-collectors-edition.json) |
+| Viking Butcher | 137278 | [137278-viking-butcher.json](./137278-viking-butcher.json) |
 | Viking Chef: Feast Frenzy | 263076 | [263076-viking-chef-feast-frenzy.json](./263076-viking-chef-feast-frenzy.json) |
 | Viking Chess: Hnefatafl | 121878 | [121878-viking-chess-hnefatafl.json](./121878-viking-chess-hnefatafl.json) |
 | Viking City Builder | 138984 | [138984-viking-city-builder.json](./138984-viking-city-builder.json) |
