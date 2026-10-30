@@ -2355,6 +2355,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Castle | 315360 | [315360-haunted-castle.json](./315360-haunted-castle.json) |
 | Haunted Castle II | 218849 | [218849-haunted-castle-ii.json](./218849-haunted-castle-ii.json) |
 | Haunted Childhood | 73487 | [73487-haunted-childhood.json](./73487-haunted-childhood.json) |
+| Haunted Cities | 128782 | [128782-haunted-cities.json](./128782-haunted-cities.json) |
+| Haunted Cities Volume 2 | 128784 | [128784-haunted-cities-volume-2.json](./128784-haunted-cities-volume-2.json) |
+| Haunted Cities Volume 3 | 128785 | [128785-haunted-cities-volume-3.json](./128785-haunted-cities-volume-3.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Cleaner | 403937 | [403937-haunted-cleaner.json](./403937-haunted-cleaner.json) |
 | Haunted Club Manager 88 | 391705 | [391705-haunted-club-manager-88.json](./391705-haunted-club-manager-88.json) |
@@ -6468,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Items Find | 405154 | [405154-hidden-objects-items-find.json](./405154-hidden-objects-items-find.json) |
 | Hidden Objects: London - My Paradise: My Kitchen | 90802 | [90802-hidden-objects-london-my-paradise-my-kitchen.json](./90802-hidden-objects-london-my-paradise-my-kitchen.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
+| Hidden Objects: Mystery Crimes | 128818 | [128818-hidden-objects-mystery-crimes.json](./128818-hidden-objects-mystery-crimes.json) |
 | Hidden Objects: Mystery Stories | 47787 | [47787-hidden-objects-mystery-stories.json](./47787-hidden-objects-mystery-stories.json) |
 | Hidden Objects: Mystery Tree House - Dog Adventure: Find the Evidence Story | 101970 | [101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json](./101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json) |
 | Hidden Objects: New York Rain Storm - The Pharaohs Treasure Hunt: Spa Massage Meditation Center - California | 88348 | [88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json](./88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json) |
@@ -8247,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home In Alien | 285566 | [285566-home-in-alien.json](./285566-home-in-alien.json) |
 | Home Invaders | 393975 | [393975-home-invaders.json](./393975-home-invaders.json) |
 | Home Invasion | 415491 | [415491-home-invasion.json](./415491-home-invasion.json) |
+| Home Is Where Chip Is | 128804 | [128804-home-is-where-chip-is.json](./128804-home-is-where-chip-is.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home is Where the Heart is | 318704 | [318704-home-is-where-the-heart-is.json](./318704-home-is-where-the-heart-is.json) |
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
