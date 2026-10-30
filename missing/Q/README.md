@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QBz | 78079 | [78079-qbz.json](./78079-qbz.json) |
 | QChat | 243510 | [243510-qchat.json](./243510-qchat.json) |
 | Qdice | 232975 | [232975-qdice.json](./232975-qdice.json) |
+| Qdice.wtf | 137843 | [137843-qdice-wtf.json](./137843-qdice-wtf.json) |
 | QED Refine/Succeed | 125392 | [125392-qed-refine-succeed.json](./125392-qed-refine-succeed.json) |
 | Qelochia | 384498 | [384498-qelochia.json](./384498-qelochia.json) |
 | QField | 171989 | [171989-qfield.json](./171989-qfield.json) |
