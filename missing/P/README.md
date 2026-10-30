@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
 | Pale | 337011 | [337011-pale.json](./337011-pale.json) |
 | Pale Abyss | 331783 | [331783-pale-abyss.json](./331783-pale-abyss.json) |
+| Pale Cachexia | 145865 | [145865-pale-cachexia.json](./145865-pale-cachexia.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
 | Pale Echoes | 35068 | [35068-pale-echoes.json](./35068-pale-echoes.json) |
@@ -13637,6 +13638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis | 421217 | [421217-pro-tennis.json](./421217-pro-tennis.json) |
 | Pro Tennis Simulator | 12724 | [12724-pro-tennis-simulator.json](./12724-pro-tennis-simulator.json) |
+| Pro Tennis Tour 2 | 145881 | [145881-pro-tennis-tour-2.json](./145881-pro-tennis-tour-2.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Virtual Racing | 356510 | [356510-pro-virtual-racing.json](./356510-pro-virtual-racing.json) |
