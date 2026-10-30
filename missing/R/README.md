@@ -5180,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restart Heart | 341858 | [341858-restart-heart.json](./341858-restart-heart.json) |
 | Restart ShuHan Dynasty: Origin | 330663 | [330663-restart-shuhan-dynasty-origin.json](./330663-restart-shuhan-dynasty-origin.json) |
 | Restart Your Life Adventures of Tylenol | 207668 | [207668-restart-your-life-adventures-of-tylenol.json](./207668-restart-your-life-adventures-of-tylenol.json) |
+| Restart Zero | 159498 | [159498-restart-zero.json](./159498-restart-zero.json) |
 | Restart: Dawn | 208144 | [208144-restart-dawn.json](./208144-restart-dawn.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
