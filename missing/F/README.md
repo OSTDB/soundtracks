@@ -6955,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Unlimited | 3352 | [3352-flight-unlimited.json](./3352-flight-unlimited.json) |
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
 | Flight Unlimited 2K18 | 43104 | [43104-flight-unlimited-2k18.json](./43104-flight-unlimited-2k18.json) |
+| Flight Unlimited Helicopter | 174488 | [174488-flight-unlimited-helicopter.json](./174488-flight-unlimited-helicopter.json) |
 | Flight Unlimited II | 714 | [714-flight-unlimited-ii.json](./714-flight-unlimited-ii.json) |
 | Flight Unlimited III | 715 | [715-flight-unlimited-iii.json](./715-flight-unlimited-iii.json) |
 | Flight Unlimited Las Vegas | 34909 | [34909-flight-unlimited-las-vegas.json](./34909-flight-unlimited-las-vegas.json) |
@@ -11368,6 +11369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
 | Fruit Couple | 334798 | [334798-fruit-couple.json](./334798-fruit-couple.json) |
 | Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
+| Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
 | Fruit for the Village | 59868 | [59868-fruit-for-the-village.json](./59868-fruit-for-the-village.json) |
