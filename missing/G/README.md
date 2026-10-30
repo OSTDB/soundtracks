@@ -2731,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gennady | 252013 | [252013-gennady.json](./252013-gennady.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
 | Geno the Fallen King | 126410 | [126410-geno-the-fallen-king.json](./126410-geno-the-fallen-king.json) |
+| Genocide | 142635 | [142635-genocide.json](./142635-genocide.json) |
 | Genocide | 142652 | [142652-genocide.json](./142652-genocide.json) |
 | Genocide | 212859 | [212859-genocide.json](./212859-genocide.json) |
 | Genocide | 56419 | [56419-genocide.json](./56419-genocide.json) |
@@ -3069,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gestüt: Ein Leben für die Pferde | 136369 | [136369-gestut-ein-leben-fur-die-pferde.json](./136369-gestut-ein-leben-fur-die-pferde.json) |
 | Gesui Oukoku | 412251 | [412251-gesui-oukoku.json](./412251-gesui-oukoku.json) |
 | Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
+| Get 'em Gary | 142073 | [142073-get-em-gary.json](./142073-get-em-gary.json) |
 | Get 'Em Hard | 141577 | [141577-get-em-hard.json](./141577-get-em-hard.json) |
 | Get 10 Quest | 147680 | [147680-get-10-quest.json](./147680-get-10-quest.json) |
 | Get a Body Language Expert, Pronto! | 339597 | [339597-get-a-body-language-expert-pronto.json](./339597-get-a-body-language-expert-pronto.json) |
@@ -4602,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
 | Glory of Generals: Pacific War | 89039 | [89039-glory-of-generals-pacific-war.json](./89039-glory-of-generals-pacific-war.json) |
 | Glory of Heracles | 21766 | [21766-glory-of-heracles.json](./21766-glory-of-heracles.json) |
+| Glory of Rome | 142022 | [142022-glory-of-rome.json](./142022-glory-of-rome.json) |
 | Glory of the Arena | 217349 | [217349-glory-of-the-arena.json](./217349-glory-of-the-arena.json) |
 | Glory of the Colosseum | 167576 | [167576-glory-of-the-colosseum.json](./167576-glory-of-the-colosseum.json) |
 | Glory of the Self- Styled Diehard girl | 96746 | [96746-glory-of-the-self-styled-diehard-girl.json](./96746-glory-of-the-self-styled-diehard-girl.json) |
@@ -5736,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Farm | 233620 | [233620-golden-farm.json](./233620-golden-farm.json) |
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
 | Golden Force | 139960 | [139960-golden-force.json](./139960-golden-force.json) |
+| Golden Force: Limited Edition | 142608 | [142608-golden-force-limited-edition.json](./142608-golden-force-limited-edition.json) |
 | Golden Freddy's Debauchery Simulator | 374112 | [374112-golden-freddys-debauchery-simulator.json](./374112-golden-freddys-debauchery-simulator.json) |
 | Golden Freddy's Debauchery Simulator 1986 | 374116 | [374116-golden-freddys-debauchery-simulator-1986.json](./374116-golden-freddys-debauchery-simulator-1986.json) |
 | Golden Galaxy | 243956 | [243956-golden-galaxy.json](./243956-golden-galaxy.json) |
@@ -9068,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Ember | 26692 | [26692-guardians-of-ember.json](./26692-guardians-of-ember.json) |
 | Guardians of Gaia | 217263 | [217263-guardians-of-gaia.json](./217263-guardians-of-gaia.json) |
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
+| Guardians of Gemstones | 142057 | [142057-guardians-of-gemstones.json](./142057-guardians-of-gemstones.json) |
 | Guardians of Gold | 90223 | [90223-guardians-of-gold.json](./90223-guardians-of-gold.json) |
 | Guardians of Graxia | 16225 | [16225-guardians-of-graxia.json](./16225-guardians-of-graxia.json) |
 | Guardians of Graxia: Elves & Dwarves | 170320 | [170320-guardians-of-graxia-elves-and-dwarves.json](./170320-guardians-of-graxia-elves-and-dwarves.json) |
