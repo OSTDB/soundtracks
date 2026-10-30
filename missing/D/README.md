@@ -9015,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Liberation - Paths to Madness | 194259 | [194259-disciples-liberation-paths-to-madness.json](./194259-disciples-liberation-paths-to-madness.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
+| Disco Ball | 149159 | [149159-disco-ball.json](./149159-disco-ball.json) |
 | Disco Bear | 102064 | [102064-disco-bear.json](./102064-disco-bear.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
@@ -13334,6 +13335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Lair | 298548 | [298548-dragon-lair.json](./298548-dragon-lair.json) |
 | Dragon Lair Depths | 251005 | [251005-dragon-lair-depths.json](./251005-dragon-lair-depths.json) |
 | Dragon Land | 101958 | [101958-dragon-land.json](./101958-dragon-land.json) |
+| Dragon Little Fighters 2 | 149171 | [149171-dragon-little-fighters-2.json](./149171-dragon-little-fighters-2.json) |
 | Dragon Lords 3D | 51506 | [51506-dragon-lords-3d.json](./51506-dragon-lords-3d.json) |
 | Dragon Lore II: The Heart of the Dragon Man | 71412 | [71412-dragon-lore-ii-the-heart-of-the-dragon-man.json](./71412-dragon-lore-ii-the-heart-of-the-dragon-man.json) |
 | Dragon Maiden: Blossoms of the Past | 369759 | [369759-dragon-maiden-blossoms-of-the-past.json](./369759-dragon-maiden-blossoms-of-the-past.json) |
