@@ -7273,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun World | 307855 | [307855-pixel-gun-world.json](./307855-pixel-gun-world.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
 | Pixel Harvester | 372189 | [372189-pixel-harvester.json](./372189-pixel-harvester.json) |
+| Pixel Head Soccer | 148741 | [148741-pixel-head-soccer.json](./148741-pixel-head-soccer.json) |
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
 | Pixel Heroes Adventure | 338660 | [338660-pixel-heroes-adventure.json](./338660-pixel-heroes-adventure.json) |
 | Pixel Heroes: Byte & Magic | 10699 | [10699-pixel-heroes-byte-and-magic.json](./10699-pixel-heroes-byte-and-magic.json) |
@@ -9038,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
 | Plug-in PET | 352783 | [352783-plug-in-pet.json](./352783-plug-in-pet.json) |
+| Plugged | 148777 | [148777-plugged.json](./148777-plugged.json) |
 | PlugMax | 132614 | [132614-plugmax.json](./132614-plugmax.json) |
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
 | Plum Blossom Divination | 265521 | [265521-plum-blossom-divination.json](./265521-plum-blossom-divination.json) |
