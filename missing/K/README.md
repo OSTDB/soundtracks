@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Score | 83160 | [83160-killer-score.json](./83160-killer-score.json) |
 | Killer Shark | 18203 | [18203-killer-shark.json](./18203-killer-shark.json) |
+| Killer Sudoku | 153688 | [153688-killer-sudoku.json](./153688-killer-sudoku.json) |
 | Killer Sudoku | 387569 | [387569-killer-sudoku.json](./387569-killer-sudoku.json) |
 | Killer Tank | 47098 | [47098-killer-tank.json](./47098-killer-tank.json) |
 | Killer Trait | 333190 | [333190-killer-trait.json](./333190-killer-trait.json) |
@@ -5670,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyokkou no Marriage | 317099 | [317099-kyokkou-no-marriage.json](./317099-kyokkou-no-marriage.json) |
 | Kyokkou no Marriage: Episode Lia | 317100 | [317100-kyokkou-no-marriage-episode-lia.json](./317100-kyokkou-no-marriage-episode-lia.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
+| Kyokujitsu ni Kokoro Arawasu | 153685 | [153685-kyokujitsu-ni-kokoro-arawasu.json](./153685-kyokujitsu-ni-kokoro-arawasu.json) |
 | Kyomu | 166420 | [166420-kyomu.json](./166420-kyomu.json) |
 | Kyonshies 2 | 36900 | [36900-kyonshies-2.json](./36900-kyonshies-2.json) |
 | Kyonyuu Fantasy 3 if | 77824 | [77824-kyonyuu-fantasy-3-if.json](./77824-kyonyuu-fantasy-3-if.json) |
