@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
 | Rabbids & Ladders | 228663 | [228663-rabbids-and-ladders.json](./228663-rabbids-and-ladders.json) |
 | Rabbids Arby's Rush | 324867 | [324867-rabbids-arbys-rush.json](./324867-rabbids-arbys-rush.json) |
+| Rabbids at Versailles | 171258 | [171258-rabbids-at-versailles.json](./171258-rabbids-at-versailles.json) |
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
 | Rabbids Coding! | 125162 | [125162-rabbids-coding.json](./125162-rabbids-coding.json) |
 | Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
@@ -581,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radica Junior Bass Fishin' | 403834 | [403834-radica-junior-bass-fishin.json](./403834-radica-junior-bass-fishin.json) |
 | Radical Aces | 320919 | [320919-radical-aces.json](./320919-radical-aces.json) |
 | Radical Bomber!! Jirai-kun | 41392 | [41392-radical-bomber-jirai-kun.json](./41392-radical-bomber-jirai-kun.json) |
+| Radical Castle | 171241 | [171241-radical-castle.json](./171241-radical-castle.json) |
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
 | Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
@@ -8140,6 +8142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robotz | 405876 | [405876-robotz.json](./405876-robotz.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
+| RoboWar | 171242 | [171242-robowar.json](./171242-robowar.json) |
 | RoboWarrior | 8473 | [8473-robowarrior.json](./8473-robowarrior.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | RoboWars | 10779 | [10779-robowars.json](./10779-robowars.json) |
