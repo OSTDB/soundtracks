@@ -13499,6 +13499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin’s Creed Black Flag Resynced: Collector’s Edition | 412816 | [412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json](./412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json) |
 | Assassin's Creed Black Flag Resynced: Deluxe Edition | 409613 | [409613-assassins-creed-black-flag-resynced-deluxe-edition.json](./409613-assassins-creed-black-flag-resynced-deluxe-edition.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
+| Assassin's Creed Bundle: Assassin's Creed Valhalla, Assassin's Creed Odyssey, and Assassin's Creed Origins | 164698 | [164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json](./164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json) |
 | Assassin's Creed Chronicles: India | 14902 | [14902-assassins-creed-chronicles-india.json](./14902-assassins-creed-chronicles-india.json) |
 | Assassin's Creed Ezio Auditore Pack | 219007 | [219007-assassins-creed-ezio-auditore-pack.json](./219007-assassins-creed-ezio-auditore-pack.json) |
 | Assassin's Creed I+II Welcome Pack | 145406 | [145406-assassins-creed-i-ii-welcome-pack.json](./145406-assassins-creed-i-ii-welcome-pack.json) |
@@ -13585,6 +13586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Unity: Arno's Chronicles | 251353 | [251353-assassins-creed-unity-arnos-chronicles.json](./251353-assassins-creed-unity-arnos-chronicles.json) |
 | Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
+| Assassin's Creed Valhalla + Immortals Fenyx Rising Bundle | 164694 | [164694-assassins-creed-valhalla-immortals-fenyx-rising-bundle.json](./164694-assassins-creed-valhalla-immortals-fenyx-rising-bundle.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
 | Assassin's Creed Valhalla: Complete Edition | 191960 | [191960-assassins-creed-valhalla-complete-edition.json](./191960-assassins-creed-valhalla-complete-edition.json) |
