@@ -5746,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGarden | 180050 | [180050-sgarden.json](./180050-sgarden.json) |
 | SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
 | Sgrizam | 85748 | [85748-sgrizam.json](./85748-sgrizam.json) |
+| SGS Afrika Korps | 161542 | [161542-sgs-afrika-korps.json](./161542-sgs-afrika-korps.json) |
 | SGS Afrika Korps: Tunisia | 174061 | [174061-sgs-afrika-korps-tunisia.json](./174061-sgs-afrika-korps-tunisia.json) |
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
 | SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
@@ -7995,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Bubble | 208947 | [208947-shoot-bubble.json](./208947-shoot-bubble.json) |
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
 | Shoot Coin Yen: Exchange Puzzle | 227495 | [227495-shoot-coin-yen-exchange-puzzle.json](./227495-shoot-coin-yen-exchange-puzzle.json) |
+| Shoot Covid-19 | 161531 | [161531-shoot-covid-19.json](./161531-shoot-covid-19.json) |
 | Shoot Defense 3D | 220059 | [220059-shoot-defense-3d.json](./220059-shoot-defense-3d.json) |
 | Shoot For Fun's Sake | 263960 | [263960-shoot-for-funs-sake.json](./263960-shoot-for-funs-sake.json) |
 | Shoot For The Stars | 335902 | [335902-shoot-for-the-stars.json](./335902-shoot-for-the-stars.json) |
@@ -12571,6 +12573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Terrors: Pilgrim's Hook | 79249 | [79249-small-town-terrors-pilgrims-hook.json](./79249-small-town-terrors-pilgrims-hook.json) |
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
 | Small Void | 365200 | [365200-small-void.json](./365200-small-void.json) |
+| Small War | 161507 | [161507-small-war.json](./161507-small-war.json) |
 | Small Wars: Mohicans | 294376 | [294376-small-wars-mohicans.json](./294376-small-wars-mohicans.json) |
 | Small World | 217779 | [217779-small-world.json](./217779-small-world.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
@@ -12979,6 +12982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smuta | 294643 | [294643-smuta.json](./294643-smuta.json) |
 | Smuta: Inception | 204892 | [204892-smuta-inception.json](./204892-smuta-inception.json) |
 | Smuta: Zov serdtsa | 366715 | [366715-smuta-zov-serdtsa.json](./366715-smuta-zov-serdtsa.json) |
+| Smutty Scrolls | 161553 | [161553-smutty-scrolls.json](./161553-smutty-scrolls.json) |
 | SMW | 250505 | [250505-smw.json](./250505-smw.json) |
 | SMW For Your Kids Only | 290235 | [290235-smw-for-your-kids-only.json](./290235-smw-for-your-kids-only.json) |
 | SMW Quest for Gaming | 267950 | [267950-smw-quest-for-gaming.json](./267950-smw-quest-for-gaming.json) |
@@ -18527,6 +18531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectron | 40912 | [40912-spectron.json](./40912-spectron.json) |
 | Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
+| Spectrum | 161517 | [161517-spectrum.json](./161517-spectrum.json) |
 | Spectrum | 192785 | [192785-spectrum.json](./192785-spectrum.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum | 34009 | [34009-spectrum.json](./34009-spectrum.json) |
@@ -19699,6 +19704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
 | Splash Jump | 159713 | [159713-splash-jump.json](./159713-splash-jump.json) |
 | Splash Jumper | 220837 | [220837-splash-jumper.json](./220837-splash-jumper.json) |
+| Splash King's Tournament | 161520 | [161520-splash-kings-tournament.json](./161520-splash-kings-tournament.json) |
 | Splash Lake | 37610 | [37610-splash-lake.json](./37610-splash-lake.json) |
 | Splash of Color | 393631 | [393631-splash-of-color.json](./393631-splash-of-color.json) |
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
@@ -20053,6 +20059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky's Jump Scare Mansion | 35577 | [35577-spookys-jump-scare-mansion.json](./35577-spookys-jump-scare-mansion.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
+| Spookyard | 161546 | [161546-spookyard.json](./161546-spookyard.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
 | Spookyman | 54951 | [54951-spookyman.json](./54951-spookyman.json) |
 | Spookynakki | 275810 | [275810-spookynakki.json](./275810-spookynakki.json) |
@@ -21055,6 +21062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
 | Stalked At Home | 395259 | [395259-stalked-at-home.json](./395259-stalked-at-home.json) |
 | Stalked in Solitude | 334257 | [334257-stalked-in-solitude.json](./334257-stalked-in-solitude.json) |
+| Stalker | 161511 | [161511-stalker.json](./161511-stalker.json) |
 | Stalker 1: Path of Fire | 63351 | [63351-stalker-1-path-of-fire.json](./63351-stalker-1-path-of-fire.json) |
 | Stalker 2 | 314379 | [314379-stalker-2.json](./314379-stalker-2.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
@@ -25935,6 +25943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Successfully Learning Mathematics: Year 5 | 85401 | [85401-successfully-learning-mathematics-year-5.json](./85401-successfully-learning-mathematics-year-5.json) |
 | Succession - Rack-O style game | 103935 | [103935-succession-rack-o-style-game.json](./103935-succession-rack-o-style-game.json) |
 | Successor | 203066 | [203066-successor.json](./203066-successor.json) |
+| Successor of the Key | 161527 | [161527-successor-of-the-key.json](./161527-successor-of-the-key.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
 | Successor to Your Throne | 271935 | [271935-successor-to-your-throne.json](./271935-successor-to-your-throne.json) |
 | Succubers! Dark Covenant | 320229 | [320229-succubers-dark-covenant.json](./320229-succubers-dark-covenant.json) |
@@ -27324,6 +27333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chroma Bots: Season One | 283682 | [283682-super-chroma-bots-season-one.json](./283682-super-chroma-bots-season-one.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Chuckie Egg | 96709 | [96709-super-chuckie-egg.json](./96709-super-chuckie-egg.json) |
+| Super Circuit Breakers | 161557 | [161557-super-circuit-breakers.json](./161557-super-circuit-breakers.json) |
 | Super City | 222990 | [222990-super-city.json](./222990-super-city.json) |
 | Super City | 399730 | [399730-super-city.json](./399730-super-city.json) |
 | Super City: Special Edition | 90808 | [90808-super-city-special-edition.json](./90808-super-city-special-edition.json) |
@@ -30133,6 +30143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
 | Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
+| Supreme AI: Arena | 161538 | [161538-supreme-ai-arena.json](./161538-supreme-ai-arena.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
 | Supreme Car Race on Highway Simulator: Ultimate Driving Games Poly Experience | 231038 | [231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json](./231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json) |
 | Supreme Challenge | 70071 | [70071-supreme-challenge.json](./70071-supreme-challenge.json) |
@@ -31633,6 +31644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword's Soul Duel | 159636 | [159636-swords-soul-duel.json](./159636-swords-soul-duel.json) |
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
+| SwordBall | 161529 | [161529-swordball.json](./161529-swordball.json) |
 | Swordbird Song: The Iron Owl Tower | 254364 | [254364-swordbird-song-the-iron-owl-tower.json](./254364-swordbird-song-the-iron-owl-tower.json) |
 | SwordBorn | 356051 | [356051-swordborn.json](./356051-swordborn.json) |
 | SwordBounce | 101294 | [101294-swordbounce.json](./101294-swordbounce.json) |
@@ -32173,6 +32185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Flaw Recruit | 79880 | [79880-system-flaw-recruit.json](./79880-system-flaw-recruit.json) |
 | System Goose Overload | 90651 | [90651-system-goose-overload.json](./90651-system-goose-overload.json) |
 | System Intrusion | 169367 | [169367-system-intrusion.json](./169367-system-intrusion.json) |
+| System Invaders | 161525 | [161525-system-invaders.json](./161525-system-invaders.json) |
 | System Malfunction | 304512 | [304512-system-malfunction.json](./304512-system-malfunction.json) |
 | System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
 | System of Souls | 204995 | [204995-system-of-souls.json](./204995-system-of-souls.json) |
