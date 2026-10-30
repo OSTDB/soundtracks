@@ -5482,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Melody | 166555 | [166555-eternal-melody.json](./166555-eternal-melody.json) |
 | Eternal Melody | 176115 | [176115-eternal-melody.json](./176115-eternal-melody.json) |
 | Eternal Memento | 418251 | [418251-eternal-memento.json](./418251-eternal-memento.json) |
+| Eternal Memory for a Poltergeist | 134841 | [134841-eternal-memory-for-a-poltergeist.json](./134841-eternal-memory-for-a-poltergeist.json) |
 | Eternal Night | 192710 | [192710-eternal-night.json](./192710-eternal-night.json) |
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
 | Eternal Night Metro | 348222 | [348222-eternal-night-metro.json](./348222-eternal-night-metro.json) |
