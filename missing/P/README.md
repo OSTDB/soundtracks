@@ -13850,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress Bar Simulator | 130747 | [130747-progress-bar-simulator.json](./130747-progress-bar-simulator.json) |
 | Progress Bar Simulator DLC - H.O.R.S.E. 1st | 141662 | [141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json](./141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json) |
 | Progress Chess | 275547 | [275547-progress-chess.json](./275547-progress-chess.json) |
+| Progress Game | 151400 | [151400-progress-game.json](./151400-progress-game.json) |
 | Progress Knight | 177814 | [177814-progress-knight.json](./177814-progress-knight.json) |
 | Progress Knight: Multiplayer | 327663 | [327663-progress-knight-multiplayer.json](./327663-progress-knight-multiplayer.json) |
 | Progress Knight: Remastered | 327662 | [327662-progress-knight-remastered.json](./327662-progress-knight-remastered.json) |
@@ -16056,6 +16057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Destroys Alien | 230901 | [230901-putin-destroys-alien.json](./230901-putin-destroys-alien.json) |
 | Putin In Jail | 214427 | [214427-putin-in-jail.json](./214427-putin-in-jail.json) |
 | Putin Jigsaw | 343309 | [343309-putin-jigsaw.json](./343309-putin-jigsaw.json) |
+| Putin kills: Christmas | 151375 | [151375-putin-kills-christmas.json](./151375-putin-kills-christmas.json) |
 | Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
 | Putin Orcs Defender | 204421 | [204421-putin-orcs-defender.json](./204421-putin-orcs-defender.json) |
