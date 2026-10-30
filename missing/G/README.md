@@ -7049,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto VI: Ultimate Edition | 407999 | [407999-grand-theft-auto-vi-ultimate-edition.json](./407999-grand-theft-auto-vi-ultimate-edition.json) |
 | Grand Theft Auto VI: Vintage Vice City Pack | 408002 | [408002-grand-theft-auto-vi-vintage-vice-city-pack.json](./408002-grand-theft-auto-vi-vintage-vice-city-pack.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
+| Grand Theft Auto: Brasil | 163114 | [163114-grand-theft-auto-brasil.json](./163114-grand-theft-auto-brasil.json) |
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
 | Grand Theft Auto: Collector's Edition | 43853 | [43853-grand-theft-auto-collectors-edition.json](./43853-grand-theft-auto-collectors-edition.json) |
@@ -7064,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: London Special Edition | 43687 | [43687-grand-theft-auto-london-special-edition.json](./43687-grand-theft-auto-london-special-edition.json) |
 | Grand Theft Auto: Misterix | 253324 | [253324-grand-theft-auto-misterix.json](./253324-grand-theft-auto-misterix.json) |
 | Grand Theft Auto: Montevideo City | 191486 | [191486-grand-theft-auto-montevideo-city.json](./191486-grand-theft-auto-montevideo-city.json) |
+| Grand Theft Auto: Rio de Janeiro | 163113 | [163113-grand-theft-auto-rio-de-janeiro.json](./163113-grand-theft-auto-rio-de-janeiro.json) |
 | Grand Theft Auto: San Andreas - Flame's Story | 320920 | [320920-grand-theft-auto-san-andreas-flames-story.json](./320920-grand-theft-auto-san-andreas-flames-story.json) |
 | Grand Theft Auto: San Andreas - The Definitive Edition | 178126 | [178126-grand-theft-auto-san-andreas-the-definitive-edition.json](./178126-grand-theft-auto-san-andreas-the-definitive-edition.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
