@@ -3545,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fēng zhī Gǔ II | 343186 | [343186-feng-zhi-gu-ii.json](./343186-feng-zhi-gu-ii.json) |
 | Feng-Shui Master | 256708 | [256708-feng-shui-master.json](./256708-feng-shui-master.json) |
 | Fengdu: Chronicles of Battle | 318064 | [318064-fengdu-chronicles-of-battle.json](./318064-fengdu-chronicles-of-battle.json) |
+| Fēnghuǒ Dàqín | 126778 | [126778-fenghuo-daqin.json](./126778-fenghuo-daqin.json) |
 | Fèngjīng Mìshì | 395958 | [395958-fengjing-mishi.json](./395958-fengjing-mishi.json) |
 | Fēngkuáng Pào Pào Bǔyú | 369187 | [369187-fengkuang-pao-pao-buyu.json](./369187-fengkuang-pao-pao-buyu.json) |
 | Féngmó zhī Shí | 156692 | [156692-fengmo-zhi-shi.json](./156692-fengmo-zhi-shi.json) |
