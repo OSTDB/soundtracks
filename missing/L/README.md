@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Souls | 195971 | [195971-last-souls.json](./195971-last-souls.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
+| Last Stand | 143303 | [143303-last-stand.json](./143303-last-stand.json) |
 | Last Stand | 220603 | [220603-last-stand.json](./220603-last-stand.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand Halloween | 359902 | [359902-last-stand-halloween.json](./359902-last-stand-halloween.json) |
@@ -3821,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Liar's Pub | 327440 | [327440-liars-pub.json](./327440-liars-pub.json) |
 | Liars Race in Lost Ruins | 224968 | [224968-liars-race-in-lost-ruins.json](./224968-liars-race-in-lost-ruins.json) |
+| Liars Village | 143248 | [143248-liars-village.json](./143248-liars-village.json) |
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
@@ -5147,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lithium City | 134543 | [134543-lithium-city.json](./134543-lithium-city.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
 | Lithium: Inmate 39 - Relapsed Edition | 123846 | [123846-lithium-inmate-39-relapsed-edition.json](./123846-lithium-inmate-39-relapsed-edition.json) |
+| LithoBreak | 143263 | [143263-lithobreak.json](./143263-lithobreak.json) |
 | Lithoi: Trials of Memory | 172002 | [172002-lithoi-trials-of-memory.json](./172002-lithoi-trials-of-memory.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
@@ -6117,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locus Alba | 395985 | [395985-locus-alba.json](./395985-locus-alba.json) |
 | Locus Solus | 32243 | [32243-locus-solus.json](./32243-locus-solus.json) |
 | Locust Hunter | 310821 | [310821-locust-hunter.json](./310821-locust-hunter.json) |
+| Locust, U.S.A. | 143275 | [143275-locust-u-s-a.json](./143275-locust-u-s-a.json) |
 | Lode Runner | 166708 | [166708-lode-runner.json](./166708-lode-runner.json) |
 | Lode Runner | 197939 | [197939-lode-runner.json](./197939-lode-runner.json) |
 | Lode Runner | 282565 | [282565-lode-runner.json](./282565-lode-runner.json) |
@@ -6368,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London's Aesop | 177903 | [177903-londons-aesop.json](./177903-londons-aesop.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone | 181160 | [181160-lone.json](./181160-lone.json) |
+| Lone & Vita | 143306 | [143306-lone-and-vita.json](./143306-lone-and-vita.json) |
 | Lone Bastion | 199322 | [199322-lone-bastion.json](./199322-lone-bastion.json) |
 | Lone Bird in the Tree | 374438 | [374438-lone-bird-in-the-tree.json](./374438-lone-bird-in-the-tree.json) |
 | Lone Chef | 388208 | [388208-lone-chef.json](./388208-lone-chef.json) |
@@ -7095,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cats | 265797 | [265797-lost-cats.json](./265797-lost-cats.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
+| Lost Caves | 143259 | [143259-lost-caves.json](./143259-lost-caves.json) |
 | Lost Century | 150377 | [150377-lost-century.json](./150377-lost-century.json) |
 | Lost Chakras | 305821 | [305821-lost-chakras.json](./305821-lost-chakras.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
