@@ -15027,6 +15027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on the Deathstar | 181203 | [181203-attack-on-the-deathstar.json](./181203-attack-on-the-deathstar.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
+| Attack on Titan 2: Biological Research Scout Mission | 170146 | [170146-attack-on-titan-2-biological-research-scout-mission.json](./170146-attack-on-titan-2-biological-research-scout-mission.json) |
 | Attack on Titan 2: Deluxe Edition | 118888 | [118888-attack-on-titan-2-deluxe-edition.json](./118888-attack-on-titan-2-deluxe-edition.json) |
 | Attack on Titan 2: Second Victory | 170829 | [170829-attack-on-titan-2-second-victory.json](./170829-attack-on-titan-2-second-victory.json) |
 | Attack on Titan 2: Singular Target | 200426 | [200426-attack-on-titan-2-singular-target.json](./200426-attack-on-titan-2-singular-target.json) |
