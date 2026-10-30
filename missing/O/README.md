@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Era | 214286 | [214286-oil-era.json](./214286-oil-era.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
 | Oil Manager | 215627 | [215627-oil-manager.json](./215627-oil-manager.json) |
+| Oil Panic | 145208 | [145208-oil-panic.json](./145208-oil-panic.json) |
 | Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
 | Oil Panic | 231724 | [231724-oil-panic.json](./231724-oil-panic.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
@@ -2218,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night at Flumpty's 3 | 178400 | [178400-one-night-at-flumptys-3.json](./178400-one-night-at-flumptys-3.json) |
 | One Night At Freddy's | 273951 | [273951-one-night-at-freddys.json](./273951-one-night-at-freddys.json) |
 | One Night At Herobrine's | 280446 | [280446-one-night-at-herobrines.json](./280446-one-night-at-herobrines.json) |
+| One Night at Preddiz's | 145228 | [145228-one-night-at-preddizs.json](./145228-one-night-at-preddizs.json) |
 | One Night at the Steeze | 343838 | [343838-one-night-at-the-steeze.json](./343838-one-night-at-the-steeze.json) |
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
