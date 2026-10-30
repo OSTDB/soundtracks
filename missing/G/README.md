@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
 | Geometry Arena 2 | 215880 | [215880-geometry-arena-2.json](./215880-geometry-arena-2.json) |
 | Geometry Ball Escape | 164795 | [164795-geometry-ball-escape.json](./164795-geometry-ball-escape.json) |
+| Geometry Ball Jump | 164719 | [164719-geometry-ball-jump.json](./164719-geometry-ball-jump.json) |
 | Geometry Blaster | 324583 | [324583-geometry-blaster.json](./324583-geometry-blaster.json) |
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
 | Geometry Breakers | 369172 | [369172-geometry-breakers.json](./369172-geometry-breakers.json) |
