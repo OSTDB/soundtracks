@@ -5714,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | Lively Knight | 313412 | [313412-lively-knight.json](./313412-lively-knight.json) |
 | LiveMeat | 289547 | [289547-livemeat.json](./289547-livemeat.json) |
+| LiveOnIdol | 165923 | [165923-liveonidol.json](./165923-liveonidol.json) |
 | Liverpool | 94409 | [94409-liverpool.json](./94409-liverpool.json) |
 | Liverpool Club Football | 267878 | [267878-liverpool-club-football.json](./267878-liverpool-club-football.json) |
 | Liverpool Club Football 2005 | 267899 | [267899-liverpool-club-football-2005.json](./267899-liverpool-club-football-2005.json) |
