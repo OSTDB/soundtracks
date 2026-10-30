@@ -6809,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo Sport: Collector's Edition | 138775 | [138775-gran-turismo-sport-collectors-edition.json](./138775-gran-turismo-sport-collectors-edition.json) |
 | Gran Turismo Sport: Day One Edition | 138770 | [138770-gran-turismo-sport-day-one-edition.json](./138770-gran-turismo-sport-day-one-edition.json) |
 | Gran Turismo Sport: Digital Deluxe Edition | 138776 | [138776-gran-turismo-sport-digital-deluxe-edition.json](./138776-gran-turismo-sport-digital-deluxe-edition.json) |
+| Gran Turismo Sport: Limited Edition | 168552 | [168552-gran-turismo-sport-limited-edition.json](./168552-gran-turismo-sport-limited-edition.json) |
 | Gran Turismo Sport: Spec II | 138777 | [138777-gran-turismo-sport-spec-ii.json](./138777-gran-turismo-sport-spec-ii.json) |
 | Gran Turismo Sport: Steelbook Edition | 138771 | [138771-gran-turismo-sport-steelbook-edition.json](./138771-gran-turismo-sport-steelbook-edition.json) |
 | Grana Embrace Chapter 1 | 125815 | [125815-grana-embrace-chapter-1.json](./125815-grana-embrace-chapter-1.json) |
