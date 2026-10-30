@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Fellow Traveler - Collector's Edition | 143274 | [143274-paranormal-files-fellow-traveler-collectors-edition.json](./143274-paranormal-files-fellow-traveler-collectors-edition.json) |
 | Paranormal Files: Ghost Chapter | 187936 | [187936-paranormal-files-ghost-chapter.json](./187936-paranormal-files-ghost-chapter.json) |
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
+| Paranormal Files: Hook Man's Legend | 140171 | [140171-paranormal-files-hook-mans-legend.json](./140171-paranormal-files-hook-mans-legend.json) |
 | Paranormal Files: Hook Man's Legend - Collector's Edition | 123967 | [123967-paranormal-files-hook-mans-legend-collectors-edition.json](./123967-paranormal-files-hook-mans-legend-collectors-edition.json) |
 | Paranormal Files: Price of a Secret - Collector's Edition | 236147 | [236147-paranormal-files-price-of-a-secret-collectors-edition.json](./236147-paranormal-files-price-of-a-secret-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
@@ -5657,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Escape | 185003 | [185003-pig-escape.json](./185003-pig-escape.json) |
 | Pig Escape | 336453 | [336453-pig-escape.json](./336453-pig-escape.json) |
 | Pig Farm Mix | 208154 | [208154-pig-farm-mix.json](./208154-pig-farm-mix.json) |
+| Pig Jump | 140173 | [140173-pig-jump.json](./140173-pig-jump.json) |
 | Pig King | 407443 | [407443-pig-king.json](./407443-pig-king.json) |
 | Pig Knight | 332619 | [332619-pig-knight.json](./332619-pig-knight.json) |
 | Pig Newton | 40403 | [40403-pig-newton.json](./40403-pig-newton.json) |
@@ -10799,6 +10801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polt | 398311 | [398311-polt.json](./398311-polt.json) |
 | Polter Geists | 394637 | [394637-polter-geists.json](./394637-polter-geists.json) |
 | Polter Guest | 148313 | [148313-polter-guest.json](./148313-polter-guest.json) |
+| Polter Pals | 139582 | [139582-polter-pals.json](./139582-polter-pals.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
 | Poltergeist | 44346 | [44346-poltergeist.json](./44346-poltergeist.json) |
@@ -10999,6 +11002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polytrack | 293354 | [293354-polytrack.json](./293354-polytrack.json) |
 | Polyturbo Drift Racing Simulator | 275036 | [275036-polyturbo-drift-racing-simulator.json](./275036-polyturbo-drift-racing-simulator.json) |
 | Polyturned | 238383 | [238383-polyturned.json](./238383-polyturned.json) |
+| Polyville Canyon | 140795 | [140795-polyville-canyon.json](./140795-polyville-canyon.json) |
 | Polywar | 326772 | [326772-polywar.json](./326772-polywar.json) |
 | Polywar | 33496 | [33496-polywar.json](./33496-polywar.json) |
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
@@ -14478,6 +14482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Silver Shield | 297893 | [297893-project-silver-shield.json](./297893-project-silver-shield.json) |
 | Project Silverfish | 298641 | [298641-project-silverfish.json](./298641-project-silverfish.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
+| Project Sky | 140813 | [140813-project-sky.json](./140813-project-sky.json) |
 | Project SkyBlade (Working title) | 131475 | [131475-project-skyblade-working-title.json](./131475-project-skyblade-working-title.json) |
 | Project Skylab | 106509 | [106509-project-skylab.json](./106509-project-skylab.json) |
 | Project Skylab 2 | 110106 | [110106-project-skylab-2.json](./110106-project-skylab-2.json) |
