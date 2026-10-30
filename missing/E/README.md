@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
 | El Pescador | 174033 | [174033-el-pescador.json](./174033-el-pescador.json) |
 | El Principio del Fin | 99684 | [99684-el-principio-del-fin.json](./99684-el-principio-del-fin.json) |
+| El Puppster | 169047 | [169047-el-puppster.json](./169047-el-puppster.json) |
 | El Remedio de Aldorf | 130290 | [130290-el-remedio-de-aldorf.json](./130290-el-remedio-de-aldorf.json) |
 | El Restaurante de Sam | 412426 | [412426-el-restaurante-de-sam.json](./412426-el-restaurante-de-sam.json) |
 | El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Super Joy 2 | 120745 | [120745-electronic-super-joy-2.json](./120745-electronic-super-joy-2.json) |
 | Electronic Super Joy 2: Gold Edition | 170187 | [170187-electronic-super-joy-2-gold-edition.json](./170187-electronic-super-joy-2-gold-edition.json) |
 | Electronic Super Joy 2: Groove Wizard's Tower | 171488 | [171488-electronic-super-joy-2-groove-wizards-tower.json](./171488-electronic-super-joy-2-groove-wizards-tower.json) |
+| Electronic Super Joy: A Hot Sticky Mess | 169042 | [169042-electronic-super-joy-a-hot-sticky-mess.json](./169042-electronic-super-joy-a-hot-sticky-mess.json) |
 | Electronic Super Joy: Bonus Content Pack! | 156066 | [156066-electronic-super-joy-bonus-content-pack.json](./156066-electronic-super-joy-bonus-content-pack.json) |
 | Electronic Super Joy: Groove City | 17402 | [17402-electronic-super-joy-groove-city.json](./17402-electronic-super-joy-groove-city.json) |
 | Electronic Table Soccer | 41547 | [41547-electronic-table-soccer.json](./41547-electronic-table-soccer.json) |
