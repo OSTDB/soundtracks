@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sales, Science & Spirits | 384554 | [384554-sales-science-and-spirits.json](./384554-sales-science-and-spirits.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Saligia | 163014 | [163014-saligia.json](./163014-saligia.json) |
+| Sally | 125594 | [125594-sally.json](./125594-sally.json) |
 | Sally | 152186 | [152186-sally.json](./152186-sally.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Spa HD | 87725 | [87725-sallys-spa-hd.json](./87725-sallys-spa-hd.json) |
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
+| Sally2 | 125595 | [125595-sally2.json](./125595-sally2.json) |
 | Sally6 | 124723 | [124723-sally6.json](./124723-sally6.json) |
 | Salmon City | 388166 | [388166-salmon-city.json](./388166-salmon-city.json) |
 | Salmon Man | 274318 | [274318-salmon-man.json](./274318-salmon-man.json) |
@@ -17577,7 +17579,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20660,6 +20661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
 | Sputnik | 168701 | [168701-sputnik.json](./168701-sputnik.json) |
 | Sputnik Eyes | 97757 | [97757-sputnik-eyes.json](./97757-sputnik-eyes.json) |
+| SPV3 | 125649 | [125649-spv3.json](./125649-spv3.json) |
 | Spy 1 Lovecraftian | 289437 | [289437-spy-1-lovecraftian.json](./289437-spy-1-lovecraftian.json) |
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
@@ -26128,6 +26130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subs | 119600 | [119600-subs.json](./119600-subs.json) |
 | Subs | 280959 | [280959-subs.json](./280959-subs.json) |
+| Subscribe To My Adventure | 125612 | [125612-subscribe-to-my-adventure.json](./125612-subscribe-to-my-adventure.json) |
 | Subself: Lies Deep | 407848 | [407848-subself-lies-deep.json](./407848-subself-lies-deep.json) |
 | Subside | 265550 | [265550-subside.json](./265550-subside.json) |
 | Subsideria | 86591 | [86591-subsideria.json](./86591-subsideria.json) |
