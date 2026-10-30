@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.U.M. Slay Uncool Monsters: Rogue | 168251 | [168251-s-u-m-slay-uncool-monsters-rogue.json](./168251-s-u-m-slay-uncool-monsters-rogue.json) |
 | S.U.M. Slay Uncool Monsters: Wizard | 168249 | [168249-s-u-m-slay-uncool-monsters-wizard.json](./168249-s-u-m-slay-uncool-monsters-wizard.json) |
 | S.U.S | 391638 | [391638-s-u-s.json](./391638-s-u-s.json) |
+| S.W.A.N.: Chernobyl Unexplored | 129362 | [129362-s-w-a-n-chernobyl-unexplored.json](./129362-s-w-a-n-chernobyl-unexplored.json) |
 | S.W.I.N.E. | 51224 | [51224-s-w-i-n-e.json](./51224-s-w-i-n-e.json) |
 | S.X.E. Slider | 298247 | [298247-s-x-e-slider.json](./298247-s-x-e-slider.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
@@ -10132,6 +10133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Die | 256856 | [256856-sine-die.json](./256856-sine-die.json) |
 | Sine Mora | 10832 | [10832-sine-mora.json](./10832-sine-mora.json) |
 | Sine Mora EX | 27666 | [27666-sine-mora-ex.json](./27666-sine-mora-ex.json) |
+| Sine Wave City | 129393 | [129393-sine-wave-city.json](./129393-sine-wave-city.json) |
 | Sinemareul Butakae | 215846 | [215846-sinemareul-butakae.json](./215846-sinemareul-butakae.json) |
 | Sinergy | 268964 | [268964-sinergy.json](./268964-sinergy.json) |
 | Sineus Arena Survivors | 384856 | [384856-sineus-arena-survivors.json](./384856-sineus-arena-survivors.json) |
@@ -17563,7 +17565,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24841,6 +24842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Conquest | 72934 | [72934-strategic-conquest.json](./72934-strategic-conquest.json) |
 | Strategic Depth | 184868 | [184868-strategic-depth.json](./184868-strategic-depth.json) |
 | Strategic Mind Complete Franchise Bundle | 274431 | [274431-strategic-mind-complete-franchise-bundle.json](./274431-strategic-mind-complete-franchise-bundle.json) |
+| Strategic Mind: Blitzkrieg | 129365 | [129365-strategic-mind-blitzkrieg.json](./129365-strategic-mind-blitzkrieg.json) |
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
 | Strategic Mind: Spectre of Communism | 148300 | [148300-strategic-mind-spectre-of-communism.json](./148300-strategic-mind-spectre-of-communism.json) |
