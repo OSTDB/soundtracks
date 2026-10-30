@@ -6010,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing: North Atlantic - A.F. Theriault | 261868 | [261868-fishing-north-atlantic-a-f-theriault.json](./261868-fishing-north-atlantic-a-f-theriault.json) |
 | Fishing: North Atlantic - Complete Edition | 207385 | [207385-fishing-north-atlantic-complete-edition.json](./207385-fishing-north-atlantic-complete-edition.json) |
 | Fishing: North Atlantic - Enhanced Edition | 188055 | [188055-fishing-north-atlantic-enhanced-edition.json](./188055-fishing-north-atlantic-enhanced-edition.json) |
+| Fishing: North Atlantic - Scallops Expansion | 163660 | [163660-fishing-north-atlantic-scallops-expansion.json](./163660-fishing-north-atlantic-scallops-expansion.json) |
 | Fishing? | 316952 | [316952-fishing.json](./316952-fishing.json) |
 | FishingCard | 373870 | [373870-fishingcard.json](./373870-fishingcard.json) |
 | FishingStrike | 100879 | [100879-fishingstrike.json](./100879-fishingstrike.json) |
