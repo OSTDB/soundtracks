@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Mini Racers | 33694 | [33694-eight-mini-racers.json](./33694-eight-mini-racers.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
 | Eight Sweets | 184907 | [184907-eight-sweets.json](./184907-eight-sweets.json) |
+| Eight Thirty, Nowhere | 153652 | [153652-eight-thirty-nowhere.json](./153652-eight-thirty-nowhere.json) |
 | Eight Winds | 253747 | [253747-eight-winds.json](./253747-eight-winds.json) |
 | Eight-Minute Empire | 43080 | [43080-eight-minute-empire.json](./43080-eight-minute-empire.json) |
 | Eight-Minute Empire: Archipelago of Azra Map | 171947 | [171947-eight-minute-empire-archipelago-of-azra-map.json](./171947-eight-minute-empire-archipelago-of-azra-map.json) |
