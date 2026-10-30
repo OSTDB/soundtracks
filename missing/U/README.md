@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
 | Unhappy Cinderella | 257186 | [257186-unhappy-cinderella.json](./257186-unhappy-cinderella.json) |
 | Unhappy Ever After | 30617 | [30617-unhappy-ever-after.json](./30617-unhappy-ever-after.json) |
+| Unhappy Ever After: Blood Tales | 170692 | [170692-unhappy-ever-after-blood-tales.json](./170692-unhappy-ever-after-blood-tales.json) |
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | UnHappy Place | 213781 | [213781-unhappy-place.json](./213781-unhappy-place.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
@@ -3211,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utawarerumono Zan: Premium Edition | 136709 | [136709-utawarerumono-zan-premium-edition.json](./136709-utawarerumono-zan-premium-edition.json) |
 | Utawarerumono: Lost Flag | 120286 | [120286-utawarerumono-lost-flag.json](./120286-utawarerumono-lost-flag.json) |
 | Utawarerumono: Mask of Deception | 13548 | [13548-utawarerumono-mask-of-deception.json](./13548-utawarerumono-mask-of-deception.json) |
+| Utawarerumono: Mask of Deception - Tamaki Samurai Ver. | 170710 | [170710-utawarerumono-mask-of-deception-tamaki-samurai-ver.json](./170710-utawarerumono-mask-of-deception-tamaki-samurai-ver.json) |
 | Utawarerumono: Mask of Truth - Launch Edition | 212576 | [212576-utawarerumono-mask-of-truth-launch-edition.json](./212576-utawarerumono-mask-of-truth-launch-edition.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
 | Utawarerumono: Prelude to the Fallen | 77493 | [77493-utawarerumono-prelude-to-the-fallen.json](./77493-utawarerumono-prelude-to-the-fallen.json) |
