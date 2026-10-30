@@ -863,7 +863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1375,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Physics Draw Puzzles 2 | 187356 | [187356-ball-physics-draw-puzzles-2.json](./187356-ball-physics-draw-puzzles-2.json) |
 | Ball Picker: Clean Up the Golf Yard | 412590 | [412590-ball-picker-clean-up-the-golf-yard.json](./412590-ball-picker-clean-up-the-golf-yard.json) |
 | Ball Pit King 3D | 276257 | [276257-ball-pit-king-3d.json](./276257-ball-pit-king-3d.json) |
+| Ball Pit Simulator | 126805 | [126805-ball-pit-simulator.json](./126805-ball-pit-simulator.json) |
 | Ball Platformer | 88053 | [88053-ball-platformer.json](./88053-ball-platformer.json) |
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Posse | 142090 | [142090-ball-posse.json](./142090-ball-posse.json) |
@@ -11906,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boot & Shoot | 202066 | [202066-boot-and-shoot.json](./202066-boot-and-shoot.json) |
 | Boot Camp Academy | 51005 | [51005-boot-camp-academy.json](./51005-boot-camp-academy.json) |
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
+| Boot Camp Fitness | 126815 | [126815-boot-camp-fitness.json](./126815-boot-camp-fitness.json) |
 | Boot Camp Tycoon: Built for Victory | 206464 | [206464-boot-camp-tycoon-built-for-victory.json](./206464-boot-camp-tycoon-built-for-victory.json) |
 | Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
 | Boot Hill Heroes | 17264 | [17264-boot-hill-heroes.json](./17264-boot-hill-heroes.json) |
