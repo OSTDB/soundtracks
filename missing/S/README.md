@@ -4854,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Warriors 4 DX: 15th Anniversary Box | 136948 | [136948-sengoku-warriors-4-dx-15th-anniversary-box.json](./136948-sengoku-warriors-4-dx-15th-anniversary-box.json) |
 | Sengoku Yaraideka | 289021 | [289021-sengoku-yaraideka.json](./289021-sengoku-yaraideka.json) |
 | Sengoku: A Time of Warriors and Demons | 165747 | [165747-sengoku-a-time-of-warriors-and-demons.json](./165747-sengoku-a-time-of-warriors-and-demons.json) |
+| Senile Showdown: Arthfightus | 133613 | [133613-senile-showdown-arthfightus.json](./133613-senile-showdown-arthfightus.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
 | Senile Zombies | 311180 | [311180-senile-zombies.json](./311180-senile-zombies.json) |
 | Senior Sunset | 384060 | [384060-senior-sunset.json](./384060-senior-sunset.json) |
@@ -6052,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Pulse | 273793 | [273793-shadow-pulse.json](./273793-shadow-pulse.json) |
 | Shadow Puppet | 336687 | [336687-shadow-puppet.json](./336687-shadow-puppet.json) |
 | Shadow Puppeteer | 7819 | [7819-shadow-puppeteer.json](./7819-shadow-puppeteer.json) |
+| Shadow Puppets & Beijing opera | 133632 | [133632-shadow-puppets-and-beijing-opera.json](./133632-shadow-puppets-and-beijing-opera.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
 | Shadow Quest | 372738 | [372738-shadow-quest.json](./372738-shadow-quest.json) |
@@ -6703,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Go | 406781 | [406781-shark-go.json](./406781-shark-go.json) |
 | Shark Hunt | 346097 | [346097-shark-hunt.json](./346097-shark-hunt.json) |
 | Shark Hunter | 41572 | [41572-shark-hunter.json](./41572-shark-hunter.json) |
+| Shark In Aquarium | 133633 | [133633-shark-in-aquarium.json](./133633-shark-in-aquarium.json) |
 | Shark Island | 385792 | [385792-shark-island.json](./385792-shark-island.json) |
 | Shark Jaws | 18202 | [18202-shark-jaws.json](./18202-shark-jaws.json) |
 | Shark Mart | 402445 | [402445-shark-mart.json](./402445-shark-mart.json) |
