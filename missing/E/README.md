@@ -3410,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
 | Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
+| Endless Savagery | 143921 | [143921-endless-savagery.json](./143921-endless-savagery.json) |
 | Endless Season | 166583 | [166583-endless-season.json](./166583-endless-season.json) |
 | Endless Shift | 374831 | [374831-endless-shift.json](./374831-endless-shift.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
@@ -4401,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erogods: Olympus | 275043 | [275043-erogods-olympus.json](./275043-erogods-olympus.json) |
 | Erogods: Sunrise | 312085 | [312085-erogods-sunrise.json](./312085-erogods-sunrise.json) |
 | EroHPuzzle | 339763 | [339763-erohpuzzle.json](./339763-erohpuzzle.json) |
+| Eroica | 144525 | [144525-eroica.json](./144525-eroica.json) |
 | Erolyn Chan Fight | 113174 | [113174-erolyn-chan-fight.json](./113174-erolyn-chan-fight.json) |
 | Eronoctosis: Put Yourself Together | 163899 | [163899-eronoctosis-put-yourself-together.json](./163899-eronoctosis-put-yourself-together.json) |
 | Erophone | 156555 | [156555-erophone.json](./156555-erophone.json) |
@@ -6413,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil God Korone | 179934 | [179934-evil-god-korone.json](./179934-evil-god-korone.json) |
 | Evil God Land | 165734 | [165734-evil-god-land.json](./165734-evil-god-land.json) |
 | Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
+| Evil Heart Fever | 143984 | [143984-evil-heart-fever.json](./143984-evil-heart-fever.json) |
 | Evil Holiday | 287193 | [287193-evil-holiday.json](./287193-evil-holiday.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
