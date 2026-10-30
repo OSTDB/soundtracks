@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5432,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being a DIK: Season 3 | 338648 | [338648-being-a-dik-season-3.json](./338648-being-a-dik-season-3.json) |
 | Being a Penguin | 197026 | [197026-being-a-penguin.json](./197026-being-a-penguin.json) |
 | Being Ball | 190412 | [190412-being-ball.json](./190412-being-ball.json) |
+| Being Centered | 169588 | [169588-being-centered.json](./169588-being-centered.json) |
 | Being Dead Simulator | 280925 | [280925-being-dead-simulator.json](./280925-being-dead-simulator.json) |
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
 | Being Her Darkest Friend | 60216 | [60216-being-her-darkest-friend.json](./60216-being-her-darkest-friend.json) |
@@ -14628,6 +14630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
+| Bubble Bubble Ball | 169610 | [169610-bubble-bubble-ball.json](./169610-bubble-bubble-ball.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Bunny | 294840 | [294840-bubble-bunny.json](./294840-bubble-bunny.json) |
 | Bubble Burst | 113274 | [113274-bubble-burst.json](./113274-bubble-burst.json) |
