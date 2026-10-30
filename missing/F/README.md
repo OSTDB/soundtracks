@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Jump II: Saikyou no 7-nin | 48499 | [48499-famicom-jump-ii-saikyou-no-7-nin.json](./48499-famicom-jump-ii-saikyou-no-7-nin.json) |
 | Famicom Jump: Hero Retsuden | 48500 | [48500-famicom-jump-hero-retsuden.json](./48500-famicom-jump-hero-retsuden.json) |
 | Famicom Meijinsen | 48330 | [48330-famicom-meijinsen.json](./48330-famicom-meijinsen.json) |
+| Famicom Mini Collection | 137808 | [137808-famicom-mini-collection.json](./137808-famicom-mini-collection.json) |
 | Famicom Mini: Balloon Fight | 170260 | [170260-famicom-mini-balloon-fight.json](./170260-famicom-mini-balloon-fight.json) |
 | Famicom Mini: Clu Clu Land | 170252 | [170252-famicom-mini-clu-clu-land.json](./170252-famicom-mini-clu-clu-land.json) |
 | Famicom Mini: Dai-2-ji Super Robot Taisen | 170948 | [170948-famicom-mini-dai-2-ji-super-robot-taisen.json](./170948-famicom-mini-dai-2-ji-super-robot-taisen.json) |
@@ -2808,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
 | Fatal Bullet | 193946 | [193946-fatal-bullet.json](./193946-fatal-bullet.json) |
 | Fatal Claw | 291325 | [291325-fatal-claw.json](./291325-fatal-claw.json) |
+| Fatal Core | 137829 | [137829-fatal-core.json](./137829-fatal-core.json) |
 | Fatal Craft | 83253 | [83253-fatal-craft.json](./83253-fatal-craft.json) |
 | Fatal Curse | 156901 | [156901-fatal-curse.json](./156901-fatal-curse.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
