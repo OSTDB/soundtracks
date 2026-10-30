@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Y-Break | 332593 | [332593-a-bibelot-y-break.json](./332593-a-bibelot-y-break.json) |
 | A Bibelot: Y-Type | 324951 | [324951-a-bibelot-y-type.json](./324951-a-bibelot-y-type.json) |
 | A Bike Ride to the Creek | 266135 | [266135-a-bike-ride-to-the-creek.json](./266135-a-bike-ride-to-the-creek.json) |
+| A Bird Hunt: Retro Bird Hunting Game | 175543 | [175543-a-bird-hunt-retro-bird-hunting-game.json](./175543-a-bird-hunt-retro-bird-hunting-game.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
 | A Birthday Present | 254033 | [254033-a-birthday-present.json](./254033-a-birthday-present.json) |
 | A Bit of Light | 179020 | [179020-a-bit-of-light.json](./179020-a-bit-of-light.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
 | Access Denied: Escape | 240807 | [240807-access-denied-escape.json](./240807-access-denied-escape.json) |
 | Access: EnTree | 312667 | [312667-access-entree.json](./312667-access-entree.json) |
+| Accessible MasterMind | 175523 | [175523-accessible-mastermind.json](./175523-accessible-mastermind.json) |
 | AcChen | 175581 | [175581-acchen.json](./175581-acchen.json) |
 | Accident | 202774 | [202774-accident.json](./202774-accident.json) |
 | Accident | 97907 | [97907-accident.json](./97907-accident.json) |
@@ -4038,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conquest III | 9949 | [9949-age-of-conquest-iii.json](./9949-age-of-conquest-iii.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Conquest: Asia | 174583 | [174583-age-of-conquest-asia.json](./174583-age-of-conquest-asia.json) |
+| Age of Conquest: South America | 175515 | [175515-age-of-conquest-south-america.json](./175515-age-of-conquest-south-america.json) |
 | Age of Damnation | 374943 | [374943-age-of-damnation.json](./374943-age-of-damnation.json) |
 | Age of Darkness: Die Suche nach Relict | 118291 | [118291-age-of-darkness-die-suche-nach-relict.json](./118291-age-of-darkness-die-suche-nach-relict.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
@@ -5074,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airtime Media | 297435 | [297435-airtime-media.json](./297435-airtime-media.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
 | AirTycoon 5 | 106756 | [106756-airtycoon-5.json](./106756-airtycoon-5.json) |
+| AirTycoon Online 2 | 175548 | [175548-airtycoon-online-2.json](./175548-airtycoon-online-2.json) |
 | AirTycoon Online. | 256247 | [256247-airtycoon-online.json](./256247-airtycoon-online.json) |
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
