@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Road Home | 29890 | [29890-a-long-road-home.json](./29890-a-long-road-home.json) |
+| A Long Stroll | 126775 | [126775-a-long-stroll.json](./126775-a-long-stroll.json) |
 | A long Time | 158358 | [158358-a-long-time.json](./158358-a-long-time.json) |
 | A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
 | A Long Walk Home | 278325 | [278325-a-long-walk-home.json](./278325-a-long-walk-home.json) |
@@ -3814,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
+| After Gloom | 126772 | [126772-after-gloom.json](./126772-after-gloom.json) |
 | After He Was Gone | 203836 | [203836-after-he-was-gone.json](./203836-after-he-was-gone.json) |
 | After Heaven | 364851 | [364851-after-heaven.json](./364851-after-heaven.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
@@ -13178,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arya Vaiv | 69710 | [69710-arya-vaiv.json](./69710-arya-vaiv.json) |
 | Aryze | 419625 | [419625-aryze.json](./419625-aryze.json) |
 | ARZombi | 103569 | [103569-arzombi.json](./103569-arzombi.json) |
+| Arzt Simulator | 126768 | [126768-arzt-simulator.json](./126768-arzt-simulator.json) |
 | As A Vampire | 382553 | [382553-as-a-vampire.json](./382553-as-a-vampire.json) |
 | As Above AtumRa So Below | 235772 | [235772-as-above-atumra-so-below.json](./235772-as-above-atumra-so-below.json) |
 | As Above So Below | 217455 | [217455-as-above-so-below.json](./217455-as-above-so-below.json) |
@@ -16045,7 +16048,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
 | Avon | 328979 | [328979-avon.json](./328979-avon.json) |
 | Avopug Show | 217346 | [217346-avopug-show.json](./217346-avopug-show.json) |
-| Avorion | 27114 | [27114-avorion.json](./27114-avorion.json) |
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | Avowed: Premium Edition | 322516 | [322516-avowed-premium-edition.json](./322516-avowed-premium-edition.json) |
