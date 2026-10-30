@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
 | Bagman | 25829 | [25829-bagman.json](./25829-bagman.json) |
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
+| Bagman for iPad | 175537 | [175537-bagman-for-ipad.json](./175537-bagman-for-ipad.json) |
 | Bago | 83449 | [83449-bago.json](./83449-bago.json) |
 | Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
 | Baguette Wars | 313638 | [313638-baguette-wars.json](./313638-baguette-wars.json) |
@@ -9075,6 +9076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinx 2: Masters of Time and Space | 5752 | [5752-blinx-2-masters-of-time-and-space.json](./5752-blinx-2-masters-of-time-and-space.json) |
 | Blip | 92920 | [92920-blip.json](./92920-blip.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
+| Blip 1977: The Digital Game | 175528 | [175528-blip-1977-the-digital-game.json](./175528-blip-1977-the-digital-game.json) |
 | BLiP Football | 93418 | [93418-blip-football.json](./93418-blip-football.json) |
 | Blip's Supermassive Adventure | 322707 | [322707-blips-supermassive-adventure.json](./322707-blips-supermassive-adventure.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
@@ -9544,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
+| Blocky Cars Speed Racer: Underground Highway Reckless Edition | 175504 | [175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json](./175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json) |
 | Blocky Castle: Tower Challenge | 188304 | [188304-blocky-castle-tower-challenge.json](./188304-blocky-castle-tower-challenge.json) |
 | Blocky Cops | 102697 | [102697-blocky-cops.json](./102697-blocky-cops.json) |
 | Blocky Dungeon | 203913 | [203913-blocky-dungeon.json](./203913-blocky-dungeon.json) |
@@ -13575,6 +13578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
 | Breath of Ghosts 2 | 208856 | [208856-breath-of-ghosts-2.json](./208856-breath-of-ghosts-2.json) |
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
+| Breath of Light: Relaxing Puzzler | 175551 | [175551-breath-of-light-relaxing-puzzler.json](./175551-breath-of-light-relaxing-puzzler.json) |
 | Breath of Spirits | 152736 | [152736-breath-of-spirits.json](./152736-breath-of-spirits.json) |
 | Breath of the Depth | 265483 | [265483-breath-of-the-depth.json](./265483-breath-of-the-depth.json) |
 | Breath of the Gods | 223310 | [223310-breath-of-the-gods.json](./223310-breath-of-the-gods.json) |
@@ -14681,6 +14685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
 | Bubble Shooter Star | 214288 | [214288-bubble-shooter-star.json](./214288-bubble-shooter-star.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
+| Bubble Shooter: HD | 175505 | [175505-bubble-shooter-hd.json](./175505-bubble-shooter-hd.json) |
 | Bubble Shooter: Original Bear | 97260 | [97260-bubble-shooter-original-bear.json](./97260-bubble-shooter-original-bear.json) |
 | Bubble Shooter! Extreme | 216079 | [216079-bubble-shooter-extreme.json](./216079-bubble-shooter-extreme.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
