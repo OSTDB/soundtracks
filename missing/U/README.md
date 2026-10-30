@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Sheriff | 223386 | [223386-underground-sheriff.json](./223386-underground-sheriff.json) |
 | Underground Station | 313227 | [313227-underground-station.json](./313227-underground-station.json) |
 | Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
+| Underground Warriors | 175059 | [175059-underground-warriors.json](./175059-underground-warriors.json) |
 | Underground-Mining-Simulator 2011 | 53938 | [53938-underground-mining-simulator-2011.json](./53938-underground-mining-simulator-2011.json) |
 | Underground: Chapter 1 | 367555 | [367555-underground-chapter-1.json](./367555-underground-chapter-1.json) |
 | Underground: World War | 302319 | [302319-underground-world-war.json](./302319-underground-world-war.json) |
