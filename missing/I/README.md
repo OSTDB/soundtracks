@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In League | 103952 | [103952-in-league.json](./103952-in-league.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
 | In Loving, Oblivion | 372761 | [372761-in-loving-oblivion.json](./372761-in-loving-oblivion.json) |
+| In Marte: The First Moon | 172312 | [172312-in-marte-the-first-moon.json](./172312-in-marte-the-first-moon.json) |
 | In Memoriam | 303586 | [303586-in-memoriam.json](./303586-in-memoriam.json) |
 | In Memory of Mrs Frog | 416595 | [416595-in-memory-of-mrs-frog.json](./416595-in-memory-of-mrs-frog.json) |
 | In Memory of the Eternity | 183370 | [183370-in-memory-of-the-eternity.json](./183370-in-memory-of-the-eternity.json) |
@@ -4772,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasia | 414161 | [414161-invasia.json](./414161-invasia.json) |
 | Invasion | 100298 | [100298-invasion.json](./100298-invasion.json) |
 | Invasion | 109448 | [109448-invasion.json](./109448-invasion.json) |
+| Invasion | 172358 | [172358-invasion.json](./172358-invasion.json) |
 | Invasion | 274895 | [274895-invasion.json](./274895-invasion.json) |
 | Invasion | 320342 | [320342-invasion.json](./320342-invasion.json) |
 | Invasion | 343614 | [343614-invasion.json](./343614-invasion.json) |
