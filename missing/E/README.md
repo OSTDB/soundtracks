@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Fantasy Golf | 74705 | [74705-eagle-fantasy-golf.json](./74705-eagle-fantasy-golf.json) |
 | Eagle Fighter | 41808 | [41808-eagle-fighter.json](./41808-eagle-fighter.json) |
 | Eagle Hunting Journey | 224315 | [224315-eagle-hunting-journey.json](./224315-eagle-hunting-journey.json) |
+| Eagle Island | 149816 | [149816-eagle-island.json](./149816-eagle-island.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
 | Eagle Island Twist | 150781 | [150781-eagle-island-twist.json](./150781-eagle-island-twist.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elly's Cake Cafe | 167549 | [167549-ellys-cake-cafe.json](./167549-ellys-cake-cafe.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elman España: Anarchy | 121364 | [121364-elman-espana-anarchy.json](./121364-elman-espana-anarchy.json) |
+| Elmarion: Dragon's Princess | 149791 | [149791-elmarion-dragons-princess.json](./149791-elmarion-dragons-princess.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage Gothic | 17210 | [17210-elminage-gothic.json](./17210-elminage-gothic.json) |
