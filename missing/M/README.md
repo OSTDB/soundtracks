@@ -9023,6 +9023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
 | Metro Exodus: Spartan Collector's Edition | 112094 | [112094-metro-exodus-spartan-collectors-edition.json](./112094-metro-exodus-spartan-collectors-edition.json) |
 | Metro Exodus: The Two Colonels | 121753 | [121753-metro-exodus-the-two-colonels.json](./121753-metro-exodus-the-two-colonels.json) |
+| Metro Franchise Bundle | 154180 | [154180-metro-franchise-bundle.json](./154180-metro-franchise-bundle.json) |
 | Metro Gravity | 310157 | [310157-metro-gravity.json](./310157-metro-gravity.json) |
 | Metro Manager LA | 224706 | [224706-metro-manager-la.json](./224706-metro-manager-la.json) |
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
@@ -12443,6 +12444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistmoon Falls | 212085 | [212085-mistmoon-falls.json](./212085-mistmoon-falls.json) |
 | Mistonia's Hope: The Lost Delight | 274882 | [274882-mistonias-hope-the-lost-delight.json](./274882-mistonias-hope-the-lost-delight.json) |
 | Mistover | 116145 | [116145-mistover.json](./116145-mistover.json) |
+| Mistover: Dr. Faust's Otherworldly Adventure | 154179 | [154179-mistover-dr-fausts-otherworldly-adventure.json](./154179-mistover-dr-fausts-otherworldly-adventure.json) |
 | Mistover: Limited Edition | 166270 | [166270-mistover-limited-edition.json](./166270-mistover-limited-edition.json) |
 | Mistpaw Ravine | 373277 | [373277-mistpaw-ravine.json](./373277-mistpaw-ravine.json) |
 | Mistress Marigold's Home Improvement | 369774 | [369774-mistress-marigolds-home-improvement.json](./369774-mistress-marigolds-home-improvement.json) |
@@ -14866,6 +14868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlighter | 227752 | [227752-moonlighter.json](./227752-moonlighter.json) |
 | Moonlighter 2: The Endless Vault | 324570 | [324570-moonlighter-2-the-endless-vault.json](./324570-moonlighter-2-the-endless-vault.json) |
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
+| Moonlighter: Complete Edition | 154212 | [154212-moonlighter-complete-edition.json](./154212-moonlighter-complete-edition.json) |
 | Moonlit | 141094 | [141094-moonlit.json](./141094-moonlit.json) |
 | Moonlit | 263437 | [263437-moonlit.json](./263437-moonlit.json) |
 | Moonlit | 401862 | [401862-moonlit.json](./401862-moonlit.json) |
@@ -17153,6 +17156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Choice: Mystery Game | 266265 | [266265-murder-by-choice-mystery-game.json](./266265-murder-by-choice-mystery-game.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Moonlight: Call of the Wolf | 169577 | [169577-murder-by-moonlight-call-of-the-wolf.json](./169577-murder-by-moonlight-call-of-the-wolf.json) |
+| Murder by Numbers: Collector's Edition | 154217 | [154217-murder-by-numbers-collectors-edition.json](./154217-murder-by-numbers-collectors-edition.json) |
 | Murder by the Dozen | 23972 | [23972-murder-by-the-dozen.json](./23972-murder-by-the-dozen.json) |
 | Murder Cases | 246808 | [246808-murder-cases.json](./246808-murder-cases.json) |
 | Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
@@ -17616,6 +17620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Survivors | 382324 | [382324-mutant-survivors.json](./382324-mutant-survivors.json) |
 | Mutant Year Zero: Road to Eden | 89560 | [89560-mutant-year-zero-road-to-eden.json](./89560-mutant-year-zero-road-to-eden.json) |
 | Mutant Year Zero: Road to Eden - Deluxe Edition | 121623 | [121623-mutant-year-zero-road-to-eden-deluxe-edition.json](./121623-mutant-year-zero-road-to-eden-deluxe-edition.json) |
+| Mutant Year Zero: Road to Eden - Fan Edition | 154204 | [154204-mutant-year-zero-road-to-eden-fan-edition.json](./154204-mutant-year-zero-road-to-eden-fan-edition.json) |
 | Mutant: War of Mercenaries | 208068 | [208068-mutant-war-of-mercenaries.json](./208068-mutant-war-of-mercenaries.json) |
 | MutantDungeon | 402862 | [402862-mutantdungeon.json](./402862-mutantdungeon.json) |
 | Mutantity | 250887 | [250887-mutantity.json](./250887-mutantity.json) |
