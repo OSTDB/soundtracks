@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EOPN: Test RS | 285549 | [285549-eopn-test-rs.json](./285549-eopn-test-rs.json) |
 | Eormor: Shattered Lands | 120918 | [120918-eormor-shattered-lands.json](./120918-eormor-shattered-lands.json) |
 | Eos | 147330 | [147330-eos.json](./147330-eos.json) |
+| Eos 27 | 173952 | [173952-eos-27.json](./173952-eos-27.json) |
 | EOS Black | 393554 | [393554-eos-black.json](./393554-eos-black.json) |
 | EOS RED | 299201 | [299201-eos-red.json](./299201-eos-red.json) |
 | EOS-503 | 256991 | [256991-eos-503.json](./256991-eos-503.json) |
