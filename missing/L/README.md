@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lament of Kyoto: Origins | 223267 | [223267-lament-of-kyoto-origins.json](./223267-lament-of-kyoto-origins.json) |
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
 | Lamentations | 318699 | [318699-lamentations.json](./318699-lamentations.json) |
+| Lamento: Beyond the Void | 135483 | [135483-lamento-beyond-the-void.json](./135483-lamento-beyond-the-void.json) |
 | Laments of a Platinum Rose | 384199 | [384199-laments-of-a-platinum-rose.json](./384199-laments-of-a-platinum-rose.json) |
 | Lamentum: Digital Deluxe | 336142 | [336142-lamentum-digital-deluxe.json](./336142-lamentum-digital-deluxe.json) |
 | Lami: A Cup of Code & Coffee | 341680 | [341680-lami-a-cup-of-code-and-coffee.json](./341680-lami-a-cup-of-code-and-coffee.json) |
@@ -4365,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighting End VR | 29677 | [29677-lighting-end-vr.json](./29677-lighting-end-vr.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
 | Lightkeeper | 375543 | [375543-lightkeeper.json](./375543-lightkeeper.json) |
+| Lightless: The 21st Sacrifice | 135482 | [135482-lightless-the-21st-sacrifice.json](./135482-lightless-the-21st-sacrifice.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightman | 121385 | [121385-lightman.json](./121385-lightman.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
