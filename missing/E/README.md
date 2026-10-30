@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
 | Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
 | Echolink: Recursion | 406946 | [406946-echolink-recursion.json](./406946-echolink-recursion.json) |
+| Echolocaution | 145171 | [145171-echolocaution.json](./145171-echolocaution.json) |
 | Echomnesia | 346537 | [346537-echomnesia.json](./346537-echomnesia.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | Echoria: Ancient Echoes | 125115 | [125115-echoria-ancient-echoes.json](./125115-echoria-ancient-echoes.json) |
@@ -1497,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggson | 362772 | [362772-eggson.json](./362772-eggson.json) |
 | EggSort | 261316 | [261316-eggsort.json](./261316-eggsort.json) |
 | Eggsplorer | 240620 | [240620-eggsplorer.json](./240620-eggsplorer.json) |
+| Eggsplosion | 145202 | [145202-eggsplosion.json](./145202-eggsplosion.json) |
 | Eggsplosion | 304284 | [304284-eggsplosion.json](./304284-eggsplosion.json) |
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
 | Eggstraction | 294300 | [294300-eggstraction.json](./294300-eggstraction.json) |
@@ -3963,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic | 12066 | [12066-epic.json](./12066-epic.json) |
 | Epic | 342746 | [342746-epic.json](./342746-epic.json) |
 | Epic + Inferno: The Odyssey Continues Bundle | 227382 | [227382-epic-inferno-the-odyssey-continues-bundle.json](./227382-epic-inferno-the-odyssey-continues-bundle.json) |
+| Epic 2 | 145204 | [145204-epic-2.json](./145204-epic-2.json) |
 | Epic 90's Journey: The Legend of Elesha | 94869 | [94869-epic-90s-journey-the-legend-of-elesha.json](./94869-epic-90s-journey-the-legend-of-elesha.json) |
 | Epic Adventures: Cursed Onboard | 116724 | [116724-epic-adventures-cursed-onboard.json](./116724-epic-adventures-cursed-onboard.json) |
 | Epic Adventures: La Jangada | 114353 | [114353-epic-adventures-la-jangada.json](./114353-epic-adventures-la-jangada.json) |
