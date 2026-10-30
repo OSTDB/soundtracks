@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voipas | 115556 | [115556-voipas.json](./115556-voipas.json) |
 | Voir Dire | 298019 | [298019-voir-dire.json](./298019-voir-dire.json) |
 | Voivod: The Nuclear Warrior | 339785 | [339785-voivod-the-nuclear-warrior.json](./339785-voivod-the-nuclear-warrior.json) |
+| Vojo | 158906 | [158906-vojo.json](./158906-vojo.json) |
 | Vol'Talkes - The AI War | 35846 | [35846-voltalkes-the-ai-war.json](./35846-voltalkes-the-ai-war.json) |
 | Volantia: Kingdom in the Sky | 71019 | [71019-volantia-kingdom-in-the-sky.json](./71019-volantia-kingdom-in-the-sky.json) |
 | Volar | 241423 | [241423-volar.json](./241423-volar.json) |
