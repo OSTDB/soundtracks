@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7939,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarr Adventure | 224677 | [224677-bizarr-adventure.json](./224677-bizarr-adventure.json) |
 | Bizarre | 272138 | [272138-bizarre.json](./272138-bizarre.json) |
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
+| Bizarre Barber | 128174 | [128174-bizarre-barber.json](./128174-bizarre-barber.json) |
 | Bizarre Earthquake | 33385 | [33385-bizarre-earthquake.json](./33385-bizarre-earthquake.json) |
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
 | Bizarre Journey | 103164 | [103164-bizarre-journey.json](./103164-bizarre-journey.json) |
@@ -14124,6 +14126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | BrightGunner | 343585 | [343585-brightgunner.json](./343585-brightgunner.json) |
+| Brightis | 128192 | [128192-brightis.json](./128192-brightis.json) |
 | Brightside | 404695 | [404695-brightside.json](./404695-brightside.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
@@ -15697,6 +15700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker 22 | 203892 | [203892-bunker-22.json](./203892-bunker-22.json) |
 | Bunker 2322 | 196263 | [196263-bunker-2322.json](./196263-bunker-2322.json) |
 | Bunker 3D | 323655 | [323655-bunker-3d.json](./323655-bunker-3d.json) |
+| Bunker 56 | 128184 | [128184-bunker-56.json](./128184-bunker-56.json) |
 | Bunker 58 | 29638 | [29638-bunker-58.json](./29638-bunker-58.json) |
 | Bunker Builder & Construction Simulator | 328562 | [328562-bunker-builder-and-construction-simulator.json](./328562-bunker-builder-and-construction-simulator.json) |
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
