@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Ernie: International Fun Station | 328423 | [328423-underground-ernie-international-fun-station.json](./328423-underground-ernie-international-fun-station.json) |
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
 | Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
+| Underground Hangovers | 146470 | [146470-underground-hangovers.json](./146470-underground-hangovers.json) |
 | Underground Keeper II | 171732 | [171732-underground-keeper-ii.json](./171732-underground-keeper-ii.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Lords | 197051 | [197051-underground-lords.json](./197051-underground-lords.json) |
@@ -2172,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe II | 13089 | [13089-universe-ii.json](./13089-universe-ii.json) |
 | Universe in Fire | 29237 | [29237-universe-in-fire.json](./29237-universe-in-fire.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
+| Universe Prison | 147045 | [147045-universe-prison.json](./147045-universe-prison.json) |
 | Universe Rhythm Shooting | 337606 | [337606-universe-rhythm-shooting.json](./337606-universe-rhythm-shooting.json) |
 | Universe Size Comparison VR | 295281 | [295281-universe-size-comparison-vr.json](./295281-universe-size-comparison-vr.json) |
 | Universe Slime | 373864 | [373864-universe-slime.json](./373864-universe-slime.json) |
