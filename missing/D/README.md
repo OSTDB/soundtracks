@@ -12540,6 +12540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
 | Dr Ludwig and the Devil | 282602 | [282602-dr-ludwig-and-the-devil.json](./282602-dr-ludwig-and-the-devil.json) |
+| Dr Milos Revenge | 163088 | [163088-dr-milos-revenge.json](./163088-dr-milos-revenge.json) |
 | Dr Muddles and the Cursed Library | 289773 | [289773-dr-muddles-and-the-cursed-library.json](./289773-dr-muddles-and-the-cursed-library.json) |
 | Dr Nakamoto's Digital Eggs | 200039 | [200039-dr-nakamotos-digital-eggs.json](./200039-dr-nakamotos-digital-eggs.json) |
 | Dr Pig's Hospital | 95301 | [95301-dr-pigs-hospital.json](./95301-dr-pigs-hospital.json) |
@@ -17227,6 +17228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopian Debugger | 239689 | [239689-dystopian-debugger.json](./239689-dystopian-debugger.json) |
 | Dystopian Drift | 125664 | [125664-dystopian-drift.json](./125664-dystopian-drift.json) |
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
+| Dystopicon | 163134 | [163134-dystopicon.json](./163134-dystopicon.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | Dystropicana | 184188 | [184188-dystropicana.json](./184188-dystropicana.json) |
