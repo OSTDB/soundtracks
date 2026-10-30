@@ -11168,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stare | 385644 | [385644-dont-stare.json](./385644-dont-stare.json) |
 | Don't Starve Alone Pack Plus | 227173 | [227173-dont-starve-alone-pack-plus.json](./227173-dont-starve-alone-pack-plus.json) |
 | Don't Starve Elsewhere | 397822 | [397822-dont-starve-elsewhere.json](./397822-dont-starve-elsewhere.json) |
+| Don't Starve Mega Pack 2020 | 154751 | [154751-dont-starve-mega-pack-2020.json](./154751-dont-starve-mega-pack-2020.json) |
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
@@ -11179,6 +11180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Nintendo Switch Edition | 96169 | [96169-dont-starve-nintendo-switch-edition.json](./96169-dont-starve-nintendo-switch-edition.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Starve: Reign of Giants | 52177 | [52177-dont-starve-reign-of-giants.json](./52177-dont-starve-reign-of-giants.json) |
+| Don't Starve: Reign of Giants Console Edition | 154749 | [154749-dont-starve-reign-of-giants-console-edition.json](./154749-dont-starve-reign-of-giants-console-edition.json) |
 | Don't Starve: Shipwrecked | 88917 | [88917-dont-starve-shipwrecked.json](./88917-dont-starve-shipwrecked.json) |
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
 | Don't Step White Tile: It's Me! | 232113 | [232113-dont-step-white-tile-its-me.json](./232113-dont-step-white-tile-its-me.json) |
@@ -13648,6 +13650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
 | Dragon's Wrath | 114136 | [114136-dragons-wrath.json](./114136-dragons-wrath.json) |
 | Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
+| Dragonary | 154779 | [154779-dragonary.json](./154779-dragonary.json) |
 | Dragonball Evolution: The Game | 2571 | [2571-dragonball-evolution-the-game.json](./2571-dragonball-evolution-the-game.json) |
 | DragonBall Heroes: Ultimate Mission 2 | 61952 | [61952-dragonball-heroes-ultimate-mission-2.json](./61952-dragonball-heroes-ultimate-mission-2.json) |
 | DragonBasic Space Invaders | 274864 | [274864-dragonbasic-space-invaders.json](./274864-dragonbasic-space-invaders.json) |
