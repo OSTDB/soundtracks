@@ -9577,6 +9577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blocks! | 314228 | [314228-blocks.json](./314228-blocks.json) |
+| Blocks!: Hammer of the Scots | 150343 | [150343-blocks-hammer-of-the-scots.json](./150343-blocks-hammer-of-the-scots.json) |
 | BlockShip Wars: Roguelike | 81689 | [81689-blockship-wars-roguelike.json](./81689-blockship-wars-roguelike.json) |
 | Blockships | 27999 | [27999-blockships.json](./27999-blockships.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
