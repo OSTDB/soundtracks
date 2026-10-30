@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
+| Pagan: Autogeny | 126211 | [126211-pagan-autogeny.json](./126211-pagan-autogeny.json) |
 | Pagan: Emporium | 127566 | [127566-pagan-emporium.json](./127566-pagan-emporium.json) |
 | Pagan: Technopolis | 127565 | [127565-pagan-technopolis.json](./127565-pagan-technopolis.json) |
 | Paganitzu | 35549 | [35549-paganitzu.json](./35549-paganitzu.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
 | Path Builder | 318244 | [318244-path-builder.json](./318244-path-builder.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
+| Path of Adventure | 126174 | [126174-path-of-adventure.json](./126174-path-of-adventure.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
 | Path Of Balls | 332793 | [332793-path-of-balls.json](./332793-path-of-balls.json) |
@@ -5205,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phromg Game | 201468 | [201468-phromg-game.json](./201468-phromg-game.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
 | Phucker in the Gulag | 117474 | [117474-phucker-in-the-gulag.json](./117474-phucker-in-the-gulag.json) |
+| Phucker in the Rome | 126185 | [126185-phucker-in-the-rome.json](./126185-phucker-in-the-rome.json) |
 | Phucker in the Woods: Volume 0 | 184769 | [184769-phucker-in-the-woods-volume-0.json](./184769-phucker-in-the-woods-volume-0.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyakh | 221168 | [221168-phyakh.json](./221168-phyakh.json) |
@@ -14878,6 +14881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
 | Property Brothers Home Design | 187801 | [187801-property-brothers-home-design.json](./187801-property-brothers-home-design.json) |
+| Property Tycoon | 126184 | [126184-property-tycoon.json](./126184-property-tycoon.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
 | Prophan Escape | 274534 | [274534-prophan-escape.json](./274534-prophan-escape.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
