@@ -6134,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of Goal | 416340 | [416340-fist-of-goal.json](./416340-fist-of-goal.json) |
 | Fist of Heaven & Hell | 120117 | [120117-fist-of-heaven-and-hell.json](./120117-fist-of-heaven-and-hell.json) |
 | Fist of Physics | 32130 | [32130-fist-of-physics.json](./32130-fist-of-physics.json) |
+| Fist of the Forgotten | 128143 | [128143-fist-of-the-forgotten.json](./128143-fist-of-the-forgotten.json) |
 | Fist of the North Star | 172517 | [172517-fist-of-the-north-star.json](./172517-fist-of-the-north-star.json) |
 | Fist of the North Star | 215174 | [215174-fist-of-the-north-star.json](./215174-fist-of-the-north-star.json) |
 | Fist of the North Star 6 | 42414 | [42414-fist-of-the-north-star-6.json](./42414-fist-of-the-north-star-6.json) |
@@ -7248,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipy's Tesla! Let's invent the future! | 99470 | [99470-flipys-tesla-lets-invent-the-future.json](./99470-flipys-tesla-lets-invent-the-future.json) |
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
 | Flirt | 130362 | [130362-flirt.json](./130362-flirt.json) |
+| Flirt Balls | 128162 | [128162-flirt-balls.json](./128162-flirt-balls.json) |
 | Flirtatious | 171433 | [171433-flirtatious.json](./171433-flirtatious.json) |
 | Flirtatious: Fallen Angels | 157541 | [157541-flirtatious-fallen-angels.json](./157541-flirtatious-fallen-angels.json) |
 | Flirting | 177919 | [177919-flirting.json](./177919-flirting.json) |
@@ -12198,6 +12200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
 | Furious Bikers | 322114 | [322114-furious-bikers.json](./322114-furious-bikers.json) |
 | Furious Bounce | 261879 | [261879-furious-bounce.json](./261879-furious-bounce.json) |
+| Furious Drivers | 128142 | [128142-furious-drivers.json](./128142-furious-drivers.json) |
 | Furious Driving | 87159 | [87159-furious-driving.json](./87159-furious-driving.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
 | Furious Fish | 307392 | [307392-furious-fish.json](./307392-furious-fish.json) |
