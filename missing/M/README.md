@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
 | Magnum Kiki Ippatsu: Empire City 1931 | 48431 | [48431-magnum-kiki-ippatsu-empire-city-1931.json](./48431-magnum-kiki-ippatsu-empire-city-1931.json) |
+| Magnum Opus | 150362 | [150362-magnum-opus.json](./150362-magnum-opus.json) |
 | Magnum Opus | 417296 | [417296-magnum-opus.json](./417296-magnum-opus.json) |
 | Magnum Quest | 166527 | [166527-magnum-quest.json](./166527-magnum-quest.json) |
 | Magnus Failure | 154243 | [154243-magnus-failure.json](./154243-magnus-failure.json) |
@@ -11716,6 +11717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minishoot' Adventures | 191761 | [191761-minishoot-adventures.json](./191761-minishoot-adventures.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
+| MiniStrike | 150371 | [150371-ministrike.json](./150371-ministrike.json) |
 | Ministry of Broadcast: Badge Edition | 324766 | [324766-ministry-of-broadcast-badge-edition.json](./324766-ministry-of-broadcast-badge-edition.json) |
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
 | Ministry of Pandemic | 157469 | [157469-ministry-of-pandemic.json](./157469-ministry-of-pandemic.json) |
