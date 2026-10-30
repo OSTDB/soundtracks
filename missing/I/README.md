@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Play That Picture Puzzle with Numbers All Day! | 360520 | [360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json](./360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json) |
 | I Wanna Ponder | 361758 | [361758-i-wanna-ponder.json](./361758-i-wanna-ponder.json) |
 | I wanna Reach the Top | 201007 | [201007-i-wanna-reach-the-top.json](./201007-i-wanna-reach-the-top.json) |
+| I Wanna Run the Marathon | 124996 | [124996-i-wanna-run-the-marathon.json](./124996-i-wanna-run-the-marathon.json) |
 | I Wanna Take the Time Machine | 79520 | [79520-i-wanna-take-the-time-machine.json](./79520-i-wanna-take-the-time-machine.json) |
 | I Wanna Take the Time-Machine 2 | 187366 | [187366-i-wanna-take-the-time-machine-2.json](./187366-i-wanna-take-the-time-machine-2.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: Vargosi Returns | 125708 | [125708-incredible-dracula-vargosi-returns.json](./125708-incredible-dracula-vargosi-returns.json) |
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
 | Incredible Jack | 351535 | [351535-incredible-jack.json](./351535-incredible-jack.json) |
+| Incredible Machine Mega Pack | 124970 | [124970-incredible-machine-mega-pack.json](./124970-incredible-machine-mega-pack.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
 | Incredible Shrinking Sphere | 13071 | [13071-incredible-shrinking-sphere.json](./13071-incredible-shrinking-sphere.json) |
