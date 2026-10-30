@@ -985,6 +985,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
 | War to the Core | 249815 | [249815-war-to-the-core.json](./249815-war-to-the-core.json) |
+| War Tortoise | 144548 | [144548-war-tortoise.json](./144548-war-tortoise.json) |
+| War Tortoise 2 | 144549 | [144549-war-tortoise-2.json](./144549-war-tortoise-2.json) |
 | War Train | 53144 | [53144-war-train.json](./53144-war-train.json) |
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Trigger | 288466 | [288466-war-trigger.json](./288466-war-trigger.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Tempestfall | 145080 | [145080-warhammer-age-of-sigmar-tempestfall.json](./145080-warhammer-age-of-sigmar-tempestfall.json) |
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
 | Warhammer Classics: Complete Collection | 398313 | [398313-warhammer-classics-complete-collection.json](./398313-warhammer-classics-complete-collection.json) |
+| Warhammer Combat Cards | 143313 | [143313-warhammer-combat-cards.json](./143313-warhammer-combat-cards.json) |
 | Warhammer Fantasy Classics | 398312 | [398312-warhammer-fantasy-classics.json](./398312-warhammer-fantasy-classics.json) |
 | Warhammer Online: Age of Reckoning | 215 | [215-warhammer-online-age-of-reckoning.json](./215-warhammer-online-age-of-reckoning.json) |
 | Warhammer Online: Return of Reckoning | 398835 | [398835-warhammer-online-return-of-reckoning.json](./398835-warhammer-online-return-of-reckoning.json) |
@@ -1693,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
 | Warped Times | 211104 | [211104-warped-times.json](./211104-warped-times.json) |
 | Warped Universe | 366030 | [366030-warped-universe.json](./366030-warped-universe.json) |
+| WarpedSpace | 143311 | [143311-warpedspace.json](./143311-warpedspace.json) |
 | Warpfire | 364554 | [364554-warpfire.json](./364554-warpfire.json) |
 | Warpfire.io | 412425 | [412425-warpfire-io.json](./412425-warpfire-io.json) |
 | Warpflux | 189882 | [189882-warpflux.json](./189882-warpflux.json) |
@@ -4539,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wika Wicked's Egg | 199450 | [199450-wika-wickeds-egg.json](./199450-wika-wickeds-egg.json) |
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
 | Wiki's Wild Ride | 261759 | [261759-wikis-wild-ride.json](./261759-wikis-wild-ride.json) |
+| WikiAdventure | 143253 | [143253-wikiadventure.json](./143253-wikiadventure.json) |
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
 | WikiGame | 318710 | [318710-wikigame.json](./318710-wikigame.json) |
 | WikiMasters | 419615 | [419615-wikimasters.json](./419615-wikimasters.json) |
