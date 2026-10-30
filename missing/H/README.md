@@ -5936,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
 | Hexuma: Das Auge des Kal | 84271 | [84271-hexuma-das-auge-des-kal.json](./84271-hexuma-das-auge-des-kal.json) |
+| Hexurb | 158858 | [158858-hexurb.json](./158858-hexurb.json) |
 | Hexvade | 75903 | [75903-hexvade.json](./75903-hexvade.json) |
 | Hexwell | 418573 | [418573-hexwell.json](./418573-hexwell.json) |
 | HexWind | 365690 | [365690-hexwind.json](./365690-hexwind.json) |
