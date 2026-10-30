@@ -6171,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Game | 215358 | [215358-good-game.json](./215358-good-game.json) |
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
 | Good Girl Gone Bad | 127911 | [127911-good-girl-gone-bad.json](./127911-good-girl-gone-bad.json) |
+| Good Girls | 148175 | [148175-good-girls.json](./148175-good-girls.json) |
 | Good Girls: Angels With Dirty Intentions | 399638 | [399638-good-girls-angels-with-dirty-intentions.json](./399638-good-girls-angels-with-dirty-intentions.json) |
 | Good Girls: Seduction Starts With a Smile | 406066 | [406066-good-girls-seduction-starts-with-a-smile.json](./406066-good-girls-seduction-starts-with-a-smile.json) |
 | Good Girls: Sweet Faces | 405909 | [405909-good-girls-sweet-faces.json](./405909-good-girls-sweet-faces.json) |
@@ -7788,6 +7789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Utopia | 129016 | [129016-great-utopia.json](./129016-great-utopia.json) |
 | Great Wall March | 265212 | [265212-great-wall-march.json](./265212-great-wall-march.json) |
 | Great Wall Street Fortune Hunt | 41545 | [41545-great-wall-street-fortune-hunt.json](./41545-great-wall-street-fortune-hunt.json) |
+| Great Warriors | 148213 | [148213-great-warriors.json](./148213-great-warriors.json) |
 | Great White Shark Attack Sim | 106127 | [106127-great-white-shark-attack-sim.json](./106127-great-white-shark-attack-sim.json) |
 | Great Witcher | 128295 | [128295-great-witcher.json](./128295-great-witcher.json) |
 | Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
@@ -7895,6 +7897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Heights | 322094 | [322094-green-heights.json](./322094-green-heights.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
 | Green Hell VR: The Spirits of Amazonia Part 1 | 305825 | [305825-green-hell-vr-the-spirits-of-amazonia-part-1.json](./305825-green-hell-vr-the-spirits-of-amazonia-part-1.json) |
+| Green Hill Paradise Act 2: Final Mix | 148223 | [148223-green-hill-paradise-act-2-final-mix.json](./148223-green-hill-paradise-act-2-final-mix.json) |
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
 | Green Horizon: VR Golf | 382531 | [382531-green-horizon-vr-golf.json](./382531-green-horizon-vr-golf.json) |
 | Green House | 93380 | [93380-green-house.json](./93380-green-house.json) |
@@ -10032,6 +10035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gura's Birthday | 161177 | [161177-guras-birthday.json](./161177-guras-birthday.json) |
 | Guragura Oden | 296948 | [296948-guragura-oden.json](./296948-guragura-oden.json) |
 | Guranbo | 49596 | [49596-guranbo.json](./49596-guranbo.json) |
+| GuraQuest | 148181 | [148181-guraquest.json](./148181-guraquest.json) |
 | GuraQuest | 363320 | [363320-guraquest.json](./363320-guraquest.json) |
 | Gurei | 235913 | [235913-gurei.json](./235913-gurei.json) |
 | Guren | 79784 | [79784-guren.json](./79784-guren.json) |
