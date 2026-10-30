@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack FPS: Anniversary Edition | 205015 | [205015-hack-fps-anniversary-edition.json](./205015-hack-fps-anniversary-edition.json) |
 | Hack Frauds | 218059 | [218059-hack-frauds.json](./218059-hack-frauds.json) |
 | Hack Grid | 169852 | [169852-hack-grid.json](./169852-hack-grid.json) |
+| Hack Jump | 159494 | [159494-hack-jump.json](./159494-hack-jump.json) |
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack n Slash | 8438 | [8438-hack-n-slash.json](./8438-hack-n-slash.json) |
 | Hack n Slash Prototype | 352243 | [352243-hack-n-slash-prototype.json](./352243-hack-n-slash-prototype.json) |
@@ -1194,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handyman Legend | 220032 | [220032-handyman-legend.json](./220032-handyman-legend.json) |
 | Handyman: House Repair and Flip | 378758 | [378758-handyman-house-repair-and-flip.json](./378758-handyman-house-repair-and-flip.json) |
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
+| Hanefield Asylum | 159502 | [159502-hanefield-asylum.json](./159502-hanefield-asylum.json) |
 | HaneHolo! | 372619 | [372619-haneholo.json](./372619-haneholo.json) |
 | Haneru no Tobira Wii: Kirigirisu | 266282 | [266282-haneru-no-tobira-wii-kirigirisu.json](./266282-haneru-no-tobira-wii-kirigirisu.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
@@ -2906,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
 | Heart of Darkness | 6433 | [6433-heart-of-darkness.json](./6433-heart-of-darkness.json) |
 | Heart of Dixie | 101302 | [101302-heart-of-dixie.json](./101302-heart-of-dixie.json) |
+| Heart of Dungeon | 159521 | [159521-heart-of-dungeon.json](./159521-heart-of-dungeon.json) |
 | Heart of Enya | 149479 | [149479-heart-of-enya.json](./149479-heart-of-enya.json) |
 | Heart of Eternity | 370658 | [370658-heart-of-eternity.json](./370658-heart-of-eternity.json) |
 | Heart of Evil | 165441 | [165441-heart-of-evil.json](./165441-heart-of-evil.json) |
