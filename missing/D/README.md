@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Impact | 375919 | [375919-dead-impact.json](./375919-dead-impact.json) |
 | Dead In Antares | 334669 | [334669-dead-in-antares.json](./334669-dead-in-antares.json) |
 | Dead In Bermuda | 18440 | [18440-dead-in-bermuda.json](./18440-dead-in-bermuda.json) |
+| Dead in the Tropics | 171762 | [171762-dead-in-the-tropics.json](./171762-dead-in-the-tropics.json) |
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
 | Dead In Vinland | 54820 | [54820-dead-in-vinland.json](./54820-dead-in-vinland.json) |
 | Dead In Vinland: The Battle of the Heodenings | 114430 | [114430-dead-in-vinland-the-battle-of-the-heodenings.json](./114430-dead-in-vinland-the-battle-of-the-heodenings.json) |
@@ -6989,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
 | Deus Ex Machina | 26432 | [26432-deus-ex-machina.json](./26432-deus-ex-machina.json) |
+| Deus Ex Machina: Episode 1 | 171724 | [171724-deus-ex-machina-episode-1.json](./171724-deus-ex-machina-episode-1.json) |
 | Deus Ex Machina: Game of the Year - 30th Anniversary Collector's Edition | 91098 | [91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json](./91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json) |
 | Deus Ex: Breach | 30494 | [30494-deus-ex-breach.json](./30494-deus-ex-breach.json) |
 | Deus Ex: Collection | 52883 | [52883-deus-ex-collection.json](./52883-deus-ex-collection.json) |
@@ -7043,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastating Fog | 285018 | [285018-devastating-fog.json](./285018-devastating-fog.json) |
 | Devastation | 9274 | [9274-devastation.json](./9274-devastation.json) |
 | Devastation - Annihilate the Alien Race | 128927 | [128927-devastation-annihilate-the-alien-race.json](./128927-devastation-annihilate-the-alien-race.json) |
+| Devastation 2: Repatriation | 171747 | [171747-devastation-2-repatriation.json](./171747-devastation-2-repatriation.json) |
 | Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
 | Devastator Arena | 105210 | [105210-devastator-arena.json](./105210-devastator-arena.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
@@ -10138,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Worlds Apart | 185810 | [185810-doctor-who-worlds-apart.json](./185810-doctor-who-worlds-apart.json) |
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
+| Doctor Xenophon's Laboratory | 171746 | [171746-doctor-xenophons-laboratory.json](./171746-doctor-xenophons-laboratory.json) |
 | Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
 | Doctordle | 394399 | [394399-doctordle.json](./394399-doctordle.json) |
 | Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
@@ -14494,6 +14498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
 | Dreii | 36296 | [36296-dreii.json](./36296-dreii.json) |
+| Drekirökr: Dusk of the Dragon | 171731 | [171731-drekirokr-dusk-of-the-dragon.json](./171731-drekirokr-dusk-of-the-dragon.json) |
 | Drelbs | 13841 | [13841-drelbs.json](./13841-drelbs.json) |
 | Drema | 157383 | [157383-drema.json](./157383-drema.json) |
 | Dremica | 393655 | [393655-dremica.json](./393655-dremica.json) |
@@ -15034,6 +15039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
+| Droplet: States of Matter | 171756 | [171756-droplet-states-of-matter.json](./171756-droplet-states-of-matter.json) |
 | Droplets | 327338 | [327338-droplets.json](./327338-droplets.json) |
 | Droplette | 291169 | [291169-droplette.json](./291169-droplette.json) |
 | Droplitz | 10250 | [10250-droplitz.json](./10250-droplitz.json) |
