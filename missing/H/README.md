@@ -8699,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoosegow: Prison Survival | 399926 | [399926-hoosegow-prison-survival.json](./399926-hoosegow-prison-survival.json) |
 | Hoover Dam | 272923 | [272923-hoover-dam.json](./272923-hoover-dam.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
+| Hoovernauts | 149248 | [149248-hoovernauts.json](./149248-hoovernauts.json) |
 | Hoozuki no Yakusai | 376674 | [376674-hoozuki-no-yakusai.json](./376674-hoozuki-no-yakusai.json) |
 | Hop | 86964 | [86964-hop.json](./86964-hop.json) |
 | Hop - Endless Arcade Hopper | 87167 | [87167-hop-endless-arcade-hopper.json](./87167-hop-endless-arcade-hopper.json) |
@@ -10449,6 +10450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humankind: Heritage Edition | 204916 | [204916-humankind-heritage-edition.json](./204916-humankind-heritage-edition.json) |
 | HumanKind: The Awakening | 55611 | [55611-humankind-the-awakening.json](./55611-humankind-the-awakening.json) |
 | Humankind: Together We Rule | 220818 | [220818-humankind-together-we-rule.json](./220818-humankind-together-we-rule.json) |
+| Humanless | 149184 | [149184-humanless.json](./149184-humanless.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Humanoid | 393495 | [393495-humanoid.json](./393495-humanoid.json) |
 | Humanoid 47 | 128599 | [128599-humanoid-47.json](./128599-humanoid-47.json) |
