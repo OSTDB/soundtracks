@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncursed | 331985 | [331985-uncursed.json](./331985-uncursed.json) |
 | Undake 30 UraGame Daisakusen | 341155 | [341155-undake-30-uragame-daisakusen.json](./341155-undake-30-uragame-daisakusen.json) |
 | Undake30 SameGame Daisakusen | 178914 | [178914-undake30-samegame-daisakusen.json](./178914-undake30-samegame-daisakusen.json) |
+| Undarkened: Revival | 172936 | [172936-undarkened-revival.json](./172936-undarkened-revival.json) |
 | Undaunted Normandy | 211992 | [211992-undaunted-normandy.json](./211992-undaunted-normandy.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undawning: The New Moon | 371047 | [371047-undawning-the-new-moon.json](./371047-undawning-the-new-moon.json) |
@@ -1969,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UniBall | 34331 | [34331-uniball.json](./34331-uniball.json) |
 | Unibat | 252225 | [252225-unibat.json](./252225-unibat.json) |
 | Uniboom: War of Unicorns | 164921 | [164921-uniboom-war-of-unicorns.json](./164921-uniboom-war-of-unicorns.json) |
+| Uniborne | 172939 | [172939-uniborne.json](./172939-uniborne.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
 | Unichrome: A 1-Bit Unicorn Adventure | 204925 | [204925-unichrome-a-1-bit-unicorn-adventure.json](./204925-unichrome-a-1-bit-unicorn-adventure.json) |
 | Unicopia | 311737 | [311737-unicopia.json](./311737-unicopia.json) |
