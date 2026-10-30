@@ -6221,6 +6221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Survival | 287688 | [287688-wolf-survival.json](./287688-wolf-survival.json) |
 | Wolf Tails | 99604 | [99604-wolf-tails.json](./99604-wolf-tails.json) |
 | Wolf Tales: Online RPG Sim | 145950 | [145950-wolf-tales-online-rpg-sim.json](./145950-wolf-tales-online-rpg-sim.json) |
+| Wolf Territory | 155825 | [155825-wolf-territory.json](./155825-wolf-territory.json) |
 | Wolf The Lone Hunt | 274968 | [274968-wolf-the-lone-hunt.json](./274968-wolf-the-lone-hunt.json) |
 | Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
 | Wolf: The Evolution Story | 108350 | [108350-wolf-the-evolution-story.json](./108350-wolf-the-evolution-story.json) |
