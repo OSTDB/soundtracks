@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dream: Memories | 133929 | [133929-bad-dream-memories.json](./133929-bad-dream-memories.json) |
 | Bad Dream: Purgatory | 244724 | [244724-bad-dream-purgatory.json](./244724-bad-dream-purgatory.json) |
 | Bad Dream: Series | 179624 | [179624-bad-dream-series.json](./179624-bad-dream-series.json) |
+| Bad Dream: Stories | 167496 | [167496-bad-dream-stories.json](./167496-bad-dream-stories.json) |
 | Bad Dreams | 154299 | [154299-bad-dreams.json](./154299-bad-dreams.json) |
 | Bad Dreams | 69571 | [69571-bad-dreams.json](./69571-bad-dreams.json) |
 | Bad Dreams: Free Dive | 266974 | [266974-bad-dreams-free-dive.json](./266974-bad-dreams-free-dive.json) |
@@ -9502,6 +9503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
 | BlockJump | 273822 | [273822-blockjump.json](./273822-blockjump.json) |
 | Blockle | 36497 | [36497-blockle.json](./36497-blockle.json) |
+| BlockLock | 167468 | [167468-blocklock.json](./167468-blocklock.json) |
 | Blocklords | 262888 | [262888-blocklords.json](./262888-blocklords.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
@@ -11977,6 +11979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
 | Born Punk | 128459 | [128459-born-punk.json](./128459-born-punk.json) |
 | Born to Fight | 269598 | [269598-born-to-fight.json](./269598-born-to-fight.json) |
+| Born to Kill | 167460 | [167460-born-to-kill.json](./167460-born-to-kill.json) |
 | Born to Rise | 256335 | [256335-born-to-rise.json](./256335-born-to-rise.json) |
 | Born to Rock | 60765 | [60765-born-to-rock.json](./60765-born-to-rock.json) |
 | Born Under the Rain | 124529 | [124529-born-under-the-rain.json](./124529-born-under-the-rain.json) |
@@ -16271,6 +16274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Music | 98996 | [98996-button-music.json](./98996-button-music.json) |
 | Button Pressing Simulator | 156526 | [156526-button-pressing-simulator.json](./156526-button-pressing-simulator.json) |
 | Button Prison | 337526 | [337526-button-prison.json](./337526-button-prison.json) |
+| Button Soccer League | 167500 | [167500-button-soccer-league.json](./167500-button-soccer-league.json) |
 | Button Sorter | 358934 | [358934-button-sorter.json](./358934-button-sorter.json) |
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
 | Button VR | 231302 | [231302-button-vr.json](./231302-button-vr.json) |
