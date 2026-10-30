@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis: The Wizardry Adventure | 2500 | [2500-nemesis-the-wizardry-adventure.json](./2500-nemesis-the-wizardry-adventure.json) |
 | Nemesisters | 184196 | [184196-nemesisters.json](./184196-nemesisters.json) |
 | Nemexia | 142976 | [142976-nemexia.json](./142976-nemexia.json) |
+| Nemezis: Mysterious Journey III | 139607 | [139607-nemezis-mysterious-journey-iii.json](./139607-nemezis-mysterious-journey-iii.json) |
 | Nemezis: Mysterious Journey III - Deluxe Edition | 159692 | [159692-nemezis-mysterious-journey-iii-deluxe-edition.json](./159692-nemezis-mysterious-journey-iii-deluxe-edition.json) |
 | Nemire | 199306 | [199306-nemire.json](./199306-nemire.json) |
 | Nemixar | 396003 | [396003-nemixar.json](./396003-nemixar.json) |
@@ -2790,12 +2791,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevertales: Faryon | 187926 | [187926-nevertales-faryon.json](./187926-nevertales-faryon.json) |
 | Nevertales: Faryon - Collector's Edition | 170190 | [170190-nevertales-faryon-collectors-edition.json](./170190-nevertales-faryon-collectors-edition.json) |
 | Nevertales: Forgotten Pages | 187919 | [187919-nevertales-forgotten-pages.json](./187919-nevertales-forgotten-pages.json) |
+| Nevertales: Hearthbridge Cabinet | 140200 | [140200-nevertales-hearthbridge-cabinet.json](./140200-nevertales-hearthbridge-cabinet.json) |
 | Nevertales: Hearthbridge Cabinet - Collector's Edition | 132557 | [132557-nevertales-hearthbridge-cabinet-collectors-edition.json](./132557-nevertales-hearthbridge-cabinet-collectors-edition.json) |
 | Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
 | Nevertales: Legends - Collector's Edition | 76513 | [76513-nevertales-legends-collectors-edition.json](./76513-nevertales-legends-collectors-edition.json) |
+| Nevertales: Shattered Image | 140201 | [140201-nevertales-shattered-image.json](./140201-nevertales-shattered-image.json) |
+| Nevertales: Smoke and Mirrors | 140202 | [140202-nevertales-smoke-and-mirrors.json](./140202-nevertales-smoke-and-mirrors.json) |
 | Nevertales: Smoke and Mirrors - Collector's Edition | 28615 | [28615-nevertales-smoke-and-mirrors-collectors-edition.json](./28615-nevertales-smoke-and-mirrors-collectors-edition.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
 | Nevertales: The Abomination | 187941 | [187941-nevertales-the-abomination.json](./187941-nevertales-the-abomination.json) |
+| Nevertales: The Beauty Within | 140203 | [140203-nevertales-the-beauty-within.json](./140203-nevertales-the-beauty-within.json) |
 | Nevertales: The Beauty Within - Collector's Edition | 32786 | [32786-nevertales-the-beauty-within-collectors-edition.json](./32786-nevertales-the-beauty-within-collectors-edition.json) |
 | Neverwards | 342159 | [342159-neverwards.json](./342159-neverwards.json) |
 | Neverway | 339608 | [339608-neverway.json](./339608-neverway.json) |
@@ -3675,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nidia | 57189 | [57189-nidia.json](./57189-nidia.json) |
 | Nidus | 245762 | [245762-nidus.json](./245762-nidus.json) |
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
+| Nienix: Cosmic Warfare | 139629 | [139629-nienix-cosmic-warfare.json](./139629-nienix-cosmic-warfare.json) |
 | Nièpán zhī Lù | 116728 | [116728-niepan-zhi-lu.json](./116728-niepan-zhi-lu.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
 | NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
@@ -4067,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Before Disney: Halloween Edition | 270751 | [270751-nightmare-before-disney-halloween-edition.json](./270751-nightmare-before-disney-halloween-edition.json) |
 | Nightmare Below Disney | 270671 | [270671-nightmare-below-disney.json](./270671-nightmare-below-disney.json) |
 | Nightmare Boy: Mongano's Edition | 167047 | [167047-nightmare-boy-monganos-edition.json](./167047-nightmare-boy-monganos-edition.json) |
+| Nightmare Boy: Special Edition | 140167 | [140167-nightmare-boy-special-edition.json](./140167-nightmare-boy-special-edition.json) |
 | Nightmare Break | 340550 | [340550-nightmare-break.json](./340550-nightmare-break.json) |
 | Nightmare Breaker | 230312 | [230312-nightmare-breaker.json](./230312-nightmare-breaker.json) |
 | Nightmare Burger Hell | 181885 | [181885-nightmare-burger-hell.json](./181885-nightmare-burger-hell.json) |
@@ -4416,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Hole Ninja | 298818 | [298818-nine-hole-ninja.json](./298818-nine-hole-ninja.json) |
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
+| Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
 | Nine Men's Morris Multiplayer | 351063 | [351063-nine-mens-morris-multiplayer.json](./351063-nine-mens-morris-multiplayer.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
 | Nine of Wands | 163106 | [163106-nine-of-wands.json](./163106-nine-of-wands.json) |
