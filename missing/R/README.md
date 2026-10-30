@@ -3630,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ruin | 120826 | [120826-red-ruin.json](./120826-red-ruin.json) |
 | Red Ruins | 304466 | [304466-red-ruins.json](./304466-red-ruins.json) |
 | Red Runner | 184938 | [184938-red-runner.json](./184938-red-runner.json) |
+| Red Rush | 129391 | [129391-red-rush.json](./129391-red-rush.json) |
 | Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
 | Red Sauce: The Leftovers | 420775 | [420775-red-sauce-the-leftovers.json](./420775-red-sauce-the-leftovers.json) |
 | Red Scorpion | 47144 | [47144-red-scorpion.json](./47144-red-scorpion.json) |
@@ -4310,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relax Industry | 343808 | [343808-relax-industry.json](./343808-relax-industry.json) |
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
 | Relax Memory Game | 155903 | [155903-relax-memory-game.json](./155903-relax-memory-game.json) |
+| Relax Simulator | 129359 | [129359-relax-simulator.json](./129359-relax-simulator.json) |
 | Relax Walk VR | 37020 | [37020-relax-walk-vr.json](./37020-relax-walk-vr.json) |
 | Relaxation balls | 30765 | [30765-relaxation-balls.json](./30765-relaxation-balls.json) |
 | Relaxe | 346928 | [346928-relaxe.json](./346928-relaxe.json) |
