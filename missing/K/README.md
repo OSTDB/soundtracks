@@ -2491,7 +2491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5380,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda: Showdown of Legendary Legends - Rhino Armor Li and Jombie Master Bear | 170758 | [170758-kung-fu-panda-showdown-of-legendary-legends-rhino-armor-li-and-jombie-master-bear.json](./170758-kung-fu-panda-showdown-of-legendary-legends-rhino-armor-li-and-jombie-master-bear.json) |
 | Kung Fu Panda: Showdown of Legendary Legends - Spirit Realm | 170757 | [170757-kung-fu-panda-showdown-of-legendary-legends-spirit-realm.json](./170757-kung-fu-panda-showdown-of-legendary-legends-spirit-realm.json) |
 | Kung Fu Panda: Showdown of Legendary Legends - Warrior Po and Jombie Master Chicken | 170756 | [170756-kung-fu-panda-showdown-of-legendary-legends-warrior-po-and-jombie-master-chicken.json](./170756-kung-fu-panda-showdown-of-legendary-legends-warrior-po-and-jombie-master-chicken.json) |
+| Kung Fu Pets | 173409 | [173409-kung-fu-pets.json](./173409-kung-fu-pets.json) |
 | Kung Fu Rider | 16128 | [16128-kung-fu-rider.json](./16128-kung-fu-rider.json) |
 | Kung Fu Road | 62620 | [62620-kung-fu-road.json](./62620-kung-fu-road.json) |
 | Kung Fu School | 230888 | [230888-kung-fu-school.json](./230888-kung-fu-school.json) |
