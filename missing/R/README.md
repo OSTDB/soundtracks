@@ -7863,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood | 23575 | [23575-robin-hood.json](./23575-robin-hood.json) |
 | Robin Hood Archer | 420173 | [420173-robin-hood-archer.json](./420173-robin-hood-archer.json) |
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
+| Robin Hood: Country Heroes | 126781 | [126781-robin-hood-country-heroes.json](./126781-robin-hood-country-heroes.json) |
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
 | Robin Hood: Hail to the King | 155964 | [155964-robin-hood-hail-to-the-king.json](./155964-robin-hood-hail-to-the-king.json) |
 | Robin Hood: Legend Quest | 12748 | [12748-robin-hood-legend-quest.json](./12748-robin-hood-legend-quest.json) |
@@ -10421,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Dental | 389526 | [389526-royal-dental.json](./389526-royal-dental.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
+| Royal Detective: The Last Charm - Collector's Edition | 126790 | [126790-royal-detective-the-last-charm-collectors-edition.json](./126790-royal-detective-the-last-charm-collectors-edition.json) |
 | Royal Diamonds | 246556 | [246556-royal-diamonds.json](./246556-royal-diamonds.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
 | Royal Duality | 191515 | [191515-royal-duality.json](./191515-royal-duality.json) |
