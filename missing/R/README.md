@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Zombie War Simulator | 237297 | [237297-real-zombie-war-simulator.json](./237297-real-zombie-war-simulator.json) |
 | Real-Gostop VR | 293664 | [293664-real-gostop-vr.json](./293664-real-gostop-vr.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
+| Real-time Tactical 2D | 162054 | [162054-real-time-tactical-2d.json](./162054-real-time-tactical-2d.json) |
 | RealBX VR | 29481 | [29481-realbx-vr.json](./29481-realbx-vr.json) |
 | RealDol | 384336 | [384336-realdol.json](./384336-realdol.json) |
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
@@ -9506,7 +9507,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 3rd Wave: The Battle for Hebei | 164488 | [164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json](./164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 4th Wave: The Battle for Wu | 164496 | [164496-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-4th-wave-the-battle-for-wu.json](./164496-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-4th-wave-the-battle-for-wu.json) |
 | Romance of the Three Kingdoms XIII with Power-Up Kit | 136703 | [136703-romance-of-the-three-kingdoms-xiii-with-power-up-kit.json](./136703-romance-of-the-three-kingdoms-xiii-with-power-up-kit.json) |
+| Romance of the Three Kingdoms XIII: Additional Scenario - Campaign Against Lu Bu | 162059 | [162059-romance-of-the-three-kingdoms-xiii-additional-scenario-campaign-against-lu-bu.json](./162059-romance-of-the-three-kingdoms-xiii-additional-scenario-campaign-against-lu-bu.json) |
+| Romance of the Three Kingdoms XIII: Additional Scenario - The God of War, Surrounded | 162061 | [162061-romance-of-the-three-kingdoms-xiii-additional-scenario-the-god-of-war-surrounded.json](./162061-romance-of-the-three-kingdoms-xiii-additional-scenario-the-god-of-war-surrounded.json) |
+| Romance of the Three Kingdoms XIII: Additional Scenario - Thirteen Heroes | 162058 | [162058-romance-of-the-three-kingdoms-xiii-additional-scenario-thirteen-heroes.json](./162058-romance-of-the-three-kingdoms-xiii-additional-scenario-thirteen-heroes.json) |
 | Romance of the Three Kingdoms XIII: Ancient Officers Officer Data Set | 164503 | [164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json](./164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json) |
+| Romance of the Three Kingdoms XIII: Best Scenario for RTK Japan - The Tyrant Returns | 162060 | [162060-romance-of-the-three-kingdoms-xiii-best-scenario-for-rtk-japan-the-tyrant-returns.json](./162060-romance-of-the-three-kingdoms-xiii-best-scenario-for-rtk-japan-the-tyrant-returns.json) |
+| Romance of the Three Kingdoms XIII: Fame and Strategy Expansion Pack | 162062 | [162062-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack.json](./162062-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack.json) |
 | Romance of the Three Kingdoms XIII: Fame and Strategy Expansion Pack Bundle | 82420 | [82420-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack-bundle.json](./82420-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack-bundle.json) |
 | Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 3 | 225915 | [225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json](./225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json) |
 | Romance of the Three Kingdoms XIII: Scenario - A Yellow Sky | 164492 | [164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json](./164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json) |
