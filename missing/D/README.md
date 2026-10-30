@@ -3109,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Exposure | 379698 | [379698-dead-exposure.json](./379698-dead-exposure.json) |
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
+| Dead Eyes | 175522 | [175522-dead-eyes.json](./175522-dead-eyes.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
 | Dead Faces | 285414 | [285414-dead-faces.json](./285414-dead-faces.json) |
 | Dead Fantasia | 393009 | [393009-dead-fantasia.json](./393009-dead-fantasia.json) |
@@ -10254,6 +10255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog | 314401 | [314401-dog.json](./314401-dog.json) |
 | Dog Adventure | 187192 | [187192-dog-adventure.json](./187192-dog-adventure.json) |
 | Dog Adventure | 343612 | [343612-dog-adventure.json](./343612-dog-adventure.json) |
+| Dog Agility 3D | 175506 | [175506-dog-agility-3d.json](./175506-dog-agility-3d.json) |
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog And Goblin | 275748 | [275748-dog-and-goblin.json](./275748-dog-and-goblin.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
