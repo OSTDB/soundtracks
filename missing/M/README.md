@@ -15935,6 +15935,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorsport Manager 4 | 267311 | [267311-motorsport-manager-4.json](./267311-motorsport-manager-4.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
+| Motorsport Manager: Challenge Pack | 163647 | [163647-motorsport-manager-challenge-pack.json](./163647-motorsport-manager-challenge-pack.json) |
+| Motorsport Manager: Create Your Own Team | 163648 | [163648-motorsport-manager-create-your-own-team.json](./163648-motorsport-manager-create-your-own-team.json) |
+| Motorsport Manager: Endurance Series | 163649 | [163649-motorsport-manager-endurance-series.json](./163649-motorsport-manager-endurance-series.json) |
 | MotorSport Revolution | 17718 | [17718-motorsport-revolution.json](./17718-motorsport-revolution.json) |
 | MotorStorm | 2553 | [2553-motorstorm.json](./2553-motorstorm.json) |
 | Motorstorm Pacific Rift: Adrenaline Expansion | 277234 | [277234-motorstorm-pacific-rift-adrenaline-expansion.json](./277234-motorstorm-pacific-rift-adrenaline-expansion.json) |
