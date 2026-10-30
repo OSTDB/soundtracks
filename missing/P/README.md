@@ -13831,6 +13831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 1v1 | 103383 | [103383-project-1v1.json](./103383-project-1v1.json) |
 | Project 1v1 (working title) | 131448 | [131448-project-1v1-working-title.json](./131448-project-1v1-working-title.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
+| Project 24/36 | 175040 | [175040-project-24-36.json](./175040-project-24-36.json) |
 | Project 3 VR | 98586 | [98586-project-3-vr.json](./98586-project-3-vr.json) |
 | Project 37 | 110224 | [110224-project-37.json](./110224-project-37.json) |
 | Project 38 | 324261 | [324261-project-38.json](./324261-project-38.json) |
@@ -14496,6 +14497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
 | Project: ARK | 316029 | [316029-project-ark.json](./316029-project-ark.json) |
+| Project: Arrival | 175006 | [175006-project-arrival.json](./175006-project-arrival.json) |
 | Project: Ascesis | 391530 | [391530-project-ascesis.json](./391530-project-ascesis.json) |
 | Project: Aurora | 155503 | [155503-project-aurora.json](./155503-project-aurora.json) |
 | Project: Bits | 29741 | [29741-project-bits.json](./29741-project-bits.json) |
@@ -16095,6 +16097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle 10 | 256221 | [256221-puzzle-10.json](./256221-puzzle-10.json) |
 | Puzzle 26: The 7th Day | 252556 | [252556-puzzle-26-the-7th-day.json](./252556-puzzle-26-the-7th-day.json) |
 | Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
+| Puzzle 9 | 175009 | [175009-puzzle-9.json](./175009-puzzle-9.json) |
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
 | Puzzle Adventure Blockle | 54529 | [54529-puzzle-adventure-blockle.json](./54529-puzzle-adventure-blockle.json) |
 | Puzzle Adventure: Mystery Clue | 194125 | [194125-puzzle-adventure-mystery-clue.json](./194125-puzzle-adventure-mystery-clue.json) |
@@ -16366,6 +16369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
 | Puzzle Pirates | 15129 | [15129-puzzle-pirates.json](./15129-puzzle-pirates.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
+| Puzzle Planet | 175012 | [175012-puzzle-planet.json](./175012-puzzle-planet.json) |
 | Puzzle Planet | 277115 | [277115-puzzle-planet.json](./277115-puzzle-planet.json) |
 | Puzzle Player | 322038 | [322038-puzzle-player.json](./322038-puzzle-player.json) |
 | Puzzle Playground | 308502 | [308502-puzzle-playground.json](./308502-puzzle-playground.json) |
@@ -16676,6 +16680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyon-pyon Kyaruru no Mahjong-Biyori | 279678 | [279678-pyon-pyon-kyaruru-no-mahjong-biyori.json](./279678-pyon-pyon-kyaruru-no-mahjong-biyori.json) |
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
+| Pyracubes | 175055 | [175055-pyracubes.json](./175055-pyracubes.json) |
 | Pyracurse | 28483 | [28483-pyracurse.json](./28483-pyracurse.json) |
 | Pyradice | 302337 | [302337-pyradice.json](./302337-pyradice.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
