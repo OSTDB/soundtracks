@@ -11998,6 +11998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SligStorm | 279453 | [279453-sligstorm.json](./279453-sligstorm.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
+| Slikoban | 159519 | [159519-slikoban.json](./159519-slikoban.json) |
 | Slim World | 101930 | [101930-slim-world.json](./101930-slim-world.json) |
 | Slime | 285052 | [285052-slime.json](./285052-slime.json) |
 | Slime | 407438 | [407438-slime.json](./407438-slime.json) |
@@ -24221,6 +24222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories: The Path of Destinies & Omensight Bundle | 225949 | [225949-stories-the-path-of-destinies-and-omensight-bundle.json](./225949-stories-the-path-of-destinies-and-omensight-bundle.json) |
 | Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
+| Storm & Calm | 159497 | [159497-storm-and-calm.json](./159497-storm-and-calm.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
 | Storm Area 51: September 20th 2019 | 120998 | [120998-storm-area-51-september-20th-2019.json](./120998-storm-area-51-september-20th-2019.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
