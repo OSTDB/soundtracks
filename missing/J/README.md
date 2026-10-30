@@ -3548,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 3: XL Edition | 36448 | [36448-just-cause-3-xl-edition.json](./36448-just-cause-3-xl-edition.json) |
 | Just Cause 3: XXL Edition | 118703 | [118703-just-cause-3-xxl-edition.json](./118703-just-cause-3-xxl-edition.json) |
 | Just Cause 4 | 103261 | [103261-just-cause-4.json](./103261-just-cause-4.json) |
+| Just Cause 4: Black Market Pack | 164732 | [164732-just-cause-4-black-market-pack.json](./164732-just-cause-4-black-market-pack.json) |
 | Just Cause 4: Danger Rising | 121529 | [121529-just-cause-4-danger-rising.json](./121529-just-cause-4-danger-rising.json) |
 | Just Cause 4: Dare Devils of Destruction | 117492 | [117492-just-cause-4-dare-devils-of-destruction.json](./117492-just-cause-4-dare-devils-of-destruction.json) |
 | Just Cause 4: Day One Edition | 201031 | [201031-just-cause-4-day-one-edition.json](./201031-just-cause-4-day-one-edition.json) |
