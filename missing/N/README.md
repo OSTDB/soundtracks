@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nana: Live Staff Daiboshuu! Shoshinsha Kangei | 65421 | [65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json](./65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json) |
+| Nanaca Crash!!! | 139012 | [139012-nanaca-crash.json](./139012-nanaca-crash.json) |
 | Nanafushigi: Nanase to Fushigi no Otome-dou | 200950 | [200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json](./200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json) |
 | Nanairo Reincarnation | 113845 | [113845-nanairo-reincarnation.json](./113845-nanairo-reincarnation.json) |
 | Nanaka: Fushigi no Meikyuuroku | 200951 | [200951-nanaka-fushigi-no-meikyuuroku.json](./200951-nanaka-fushigi-no-meikyuuroku.json) |
@@ -439,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanovoid | 244908 | [244908-nanovoid.json](./244908-nanovoid.json) |
 | Nanovor | 234177 | [234177-nanovor.json](./234177-nanovor.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
+| Nanowars | 138989 | [138989-nanowars.json](./138989-nanowars.json) |
 | Nanoworld | 126369 | [126369-nanoworld.json](./126369-nanoworld.json) |
 | Nanpure 10000 + Puzzle no Mado | 136971 | [136971-nanpure-10000-puzzle-no-mado.json](./136971-nanpure-10000-puzzle-no-mado.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
@@ -3141,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newbie Kaizo World | 268348 | [268348-newbie-kaizo-world.json](./268348-newbie-kaizo-world.json) |
 | Newbie Life | 262384 | [262384-newbie-life.json](./262384-newbie-life.json) |
 | Newcastle United Club Football 2005 | 267896 | [267896-newcastle-united-club-football-2005.json](./267896-newcastle-united-club-football-2005.json) |
+| NewCity | 137816 | [137816-newcity.json](./137816-newcity.json) |
 | NewCity | 274427 | [274427-newcity.json](./274427-newcity.json) |
 | Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
 | Newcomer: A Language Learning RPG | 250899 | [250899-newcomer-a-language-learning-rpg.json](./250899-newcomer-a-language-learning-rpg.json) |
@@ -5677,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Bloom | 401461 | [401461-noir-bloom.json](./401461-noir-bloom.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
 | Noir Detective | 185411 | [185411-noir-detective.json](./185411-noir-detective.json) |
+| Noir Fury | 138969 | [138969-noir-fury.json](./138969-noir-fury.json) |
 | Noir Lords | 356556 | [356556-noir-lords.json](./356556-noir-lords.json) |
 | Noir Mafia Simulator: 1960s American Crime | 365562 | [365562-noir-mafia-simulator-1960s-american-crime.json](./365562-noir-mafia-simulator-1960s-american-crime.json) |
 | Noir Punk | 150240 | [150240-noir-punk.json](./150240-noir-punk.json) |
