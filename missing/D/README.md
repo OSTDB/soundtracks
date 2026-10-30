@@ -4133,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
 | Death Trial | 357670 | [357670-death-trial.json](./357670-death-trial.json) |
+| Death Trials | 171224 | [171224-death-trials.json](./171224-death-trials.json) |
 | Death Trips | 124611 | [124611-death-trips.json](./124611-death-trips.json) |
 | Death Under Tuscan Skies: A Dana Knightstone Novel | 257829 | [257829-death-under-tuscan-skies-a-dana-knightstone-novel.json](./257829-death-under-tuscan-skies-a-dana-knightstone-novel.json) |
 | Death Under Tuscan Skies: A Dana Knightstone Novel - Collector's Edition | 257830 | [257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json](./257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json) |
