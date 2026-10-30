@@ -3054,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
 | Industrial Demise | 112165 | [112165-industrial-demise.json](./112165-industrial-demise.json) |
 | Industrial Fear | 310648 | [310648-industrial-fear.json](./310648-industrial-fear.json) |
+| Industrial Firefighters | 171763 | [171763-industrial-firefighters.json](./171763-industrial-firefighters.json) |
 | Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
 | Industrial Legion | 398570 | [398570-industrial-legion.json](./398570-industrial-legion.json) |
 | Industrial Petting | 113736 | [113736-industrial-petting.json](./113736-industrial-petting.json) |
