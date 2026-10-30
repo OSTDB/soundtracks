@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagnetWorks | 306407 | [306407-magnetworks.json](./306407-magnetworks.json) |
 | Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
 | Magnibox | 116051 | [116051-magnibox.json](./116051-magnibox.json) |
+| Magnificent 5 | 129995 | [129995-magnificent-5.json](./129995-magnificent-5.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnificent Moths | 354916 | [354916-magnificent-moths.json](./354916-magnificent-moths.json) |
 | Magnificent Ships: Volume 2 | 34664 | [34664-magnificent-ships-volume-2.json](./34664-magnificent-ships-volume-2.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
 | Master Bill | 63092 | [63092-master-bill.json](./63092-master-bill.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
+| Master Blaster | 129961 | [129961-master-blaster.json](./129961-master-blaster.json) |
 | Master Blaster | 268078 | [268078-master-blaster.json](./268078-master-blaster.json) |
 | Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
 | Master Blaster VR | 149851 | [149851-master-blaster-vr.json](./149851-master-blaster-vr.json) |
@@ -10476,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | MilitAnt | 20877 | [20877-militant.json](./20877-militant.json) |
 | Militaristic Rain of Terror | 188461 | [188461-militaristic-rain-of-terror.json](./188461-militaristic-rain-of-terror.json) |
+| Military | 129942 | [129942-military.json](./129942-military.json) |
 | Military Action Pack Volume 1 | 80786 | [80786-military-action-pack-volume-1.json](./80786-military-action-pack-volume-1.json) |
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
@@ -14448,6 +14451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Shooter: The Lost Levels | 89807 | [89807-monster-shooter-the-lost-levels.json](./89807-monster-shooter-the-lost-levels.json) |
 | Monster Shop Simulator | 406858 | [406858-monster-shop-simulator.json](./406858-monster-shop-simulator.json) |
 | Monster Shopper | 236432 | [236432-monster-shopper.json](./236432-monster-shopper.json) |
+| Monster Showdown | 129971 | [129971-monster-showdown.json](./129971-monster-showdown.json) |
 | Monster Slayer | 152985 | [152985-monster-slayer.json](./152985-monster-slayer.json) |
 | Monster Slayer Extermination | 215602 | [215602-monster-slayer-extermination.json](./215602-monster-slayer-extermination.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
