@@ -4181,10 +4181,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Royal: P5D Featherman Costume & BGM Set | 405352 | [405352-persona-5-royal-p5d-featherman-costume-and-bgm-set.json](./405352-persona-5-royal-p5d-featherman-costume-and-bgm-set.json) |
 | Persona 5 Royal: Persona Bundle | 405358 | [405358-persona-5-royal-persona-bundle.json](./405358-persona-5-royal-persona-bundle.json) |
 | Persona 5 Royal: Persona Q2 Costume & BGM Special Set | 405346 | [405346-persona-5-royal-persona-q2-costume-and-bgm-special-set.json](./405346-persona-5-royal-persona-q2-costume-and-bgm-special-set.json) |
+| Persona 5 Royal: Phantom Thieves Edition | 134220 | [134220-persona-5-royal-phantom-thieves-edition.json](./134220-persona-5-royal-phantom-thieves-edition.json) |
 | Persona 5 Royal: SMT Strange Journey Redux Costume & BGM Set | 405355 | [405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json](./405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json) |
+| Persona 5 Royal: Straight Flush Edition | 134241 | [134241-persona-5-royal-straight-flush-edition.json](./134241-persona-5-royal-straight-flush-edition.json) |
 | Persona 5 Royal: Tracksuit Costume Set | 405353 | [405353-persona-5-royal-tracksuit-costume-set.json](./405353-persona-5-royal-tracksuit-costume-set.json) |
 | Persona 5 Royal: Velvet Room Costume & BGM Set | 405351 | [405351-persona-5-royal-velvet-room-costume-and-bgm-set.json](./405351-persona-5-royal-velvet-room-costume-and-bgm-set.json) |
 | Persona 5 Scramble: The Phantom Strikers - Limited Edition | 142606 | [142606-persona-5-scramble-the-phantom-strikers-limited-edition.json](./142606-persona-5-scramble-the-phantom-strikers-limited-edition.json) |
+| Persona 5 Scramble: The Phantom Strikers - Otakara BOX | 134245 | [134245-persona-5-scramble-the-phantom-strikers-otakara-box.json](./134245-persona-5-scramble-the-phantom-strikers-otakara-box.json) |
 | Persona 5 Strikers: Digital Deluxe Edition | 237861 | [237861-persona-5-strikers-digital-deluxe-edition.json](./237861-persona-5-strikers-digital-deluxe-edition.json) |
 | Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
 | Persona 5 Tactica: Digital Deluxe Edition | 270805 | [270805-persona-5-tactica-digital-deluxe-edition.json](./270805-persona-5-tactica-digital-deluxe-edition.json) |
@@ -11587,6 +11590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porkérion 2 | 246586 | [246586-porkerion-2.json](./246586-porkerion-2.json) |
 | Porkérion 3 | 246589 | [246589-porkerion-3.json](./246589-porkerion-3.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
+| Porklike: Wurst Comes to Worst | 134206 | [134206-porklike-wurst-comes-to-worst.json](./134206-porklike-wurst-comes-to-worst.json) |
 | Porklike: Wurst Comes to Worst Gameboy | 311700 | [311700-porklike-wurst-comes-to-worst-gameboy.json](./311700-porklike-wurst-comes-to-worst-gameboy.json) |
 | Porkotyler's Captain Dodger | 241434 | [241434-porkotylers-captain-dodger.json](./241434-porkotylers-captain-dodger.json) |
 | Porkpolis | 47058 | [47058-porkpolis.json](./47058-porkpolis.json) |
