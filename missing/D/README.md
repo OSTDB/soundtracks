@@ -9607,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant castle | 99130 | [99130-distant-castle.json](./99130-distant-castle.json) |
 | Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
+| Distant Dials | 153057 | [153057-distant-dials.json](./153057-distant-dials.json) |
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Garden | 309742 | [309742-distant-garden.json](./309742-distant-garden.json) |
 | Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
