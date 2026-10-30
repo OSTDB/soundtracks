@@ -20057,6 +20057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Battle for Bikini Bottom | 261266 | [261266-spongebob-squarepants-battle-for-bikini-bottom.json](./261266-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Beta Mod | 413219 | [413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json](./413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | 119239 | [119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json](./119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json) |
+| SpongeBob Squarepants: Battle For Bikini Bottom - Rehydrated: Shiny Edition | 136031 | [136031-spongebob-squarepants-battle-for-bikini-bottom-rehydrated-shiny-edition.json](./136031-spongebob-squarepants-battle-for-bikini-bottom-rehydrated-shiny-edition.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Second Strike | 410036 | [410036-spongebob-squarepants-battle-for-bikini-bottom-second-strike.json](./410036-spongebob-squarepants-battle-for-bikini-bottom-second-strike.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme | 308374 | [308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json](./308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom Deluxe | 358255 | [358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json](./358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json) |
@@ -21975,6 +21976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Special Edition | 299474 | [299474-star-wars-outlaws-special-edition.json](./299474-star-wars-outlaws-special-edition.json) |
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
 | Star Wars Outlaws: Wild Card | 315804 | [315804-star-wars-outlaws-wild-card.json](./315804-star-wars-outlaws-wild-card.json) |
+| Star Wars Pinball | 136076 | [136076-star-wars-pinball.json](./136076-star-wars-pinball.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Pinball: The Empire Strikes Back | 22196 | [22196-star-wars-pinball-the-empire-strikes-back.json](./22196-star-wars-pinball-the-empire-strikes-back.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
@@ -25360,6 +25362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 4 Classic Edition | 384320 | [384320-streets-of-rage-4-classic-edition.json](./384320-streets-of-rage-4-classic-edition.json) |
 | Streets of Rage 4: Anniversary Edition | 155168 | [155168-streets-of-rage-4-anniversary-edition.json](./155168-streets-of-rage-4-anniversary-edition.json) |
 | Streets of Rage 4: Mr X. Nightmare | 152126 | [152126-streets-of-rage-4-mr-x-nightmare.json](./152126-streets-of-rage-4-mr-x-nightmare.json) |
+| Streets of Rage 4: Signature Edition | 136048 | [136048-streets-of-rage-4-signature-edition.json](./136048-streets-of-rage-4-signature-edition.json) |
 | Streets of Rage 4: Special Edition | 167055 | [167055-streets-of-rage-4-special-edition.json](./167055-streets-of-rage-4-special-edition.json) |
 | Streets of Rage Remake | 72327 | [72327-streets-of-rage-remake.json](./72327-streets-of-rage-remake.json) |
 | Streets of Rage Zombies | 272336 | [272336-streets-of-rage-zombies.json](./272336-streets-of-rage-zombies.json) |
