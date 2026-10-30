@@ -3299,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead Nation: Apocalypse Edition | 20063 | [20063-dead-nation-apocalypse-edition.json](./20063-dead-nation-apocalypse-edition.json) |
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
+| Dead Night | 148764 | [148764-dead-night.json](./148764-dead-night.json) |
 | Dead Night Highway | 405727 | [405727-dead-night-highway.json](./405727-dead-night-highway.json) |
 | Dead Ninja Mortal Shadow | 280729 | [280729-dead-ninja-mortal-shadow.json](./280729-dead-ninja-mortal-shadow.json) |
 | Dead No-Head | 187404 | [187404-dead-no-head.json](./187404-dead-no-head.json) |
@@ -10513,6 +10514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogmelon Solitaire | 87101 | [87101-dogmelon-solitaire.json](./87101-dogmelon-solitaire.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
 | Dogolrax | 28074 | [28074-dogolrax.json](./28074-dogolrax.json) |
+| Dogot Games | 148783 | [148783-dogot-games.json](./148783-dogot-games.json) |
 | Dogotchi: Virtual Pet | 251632 | [251632-dogotchi-virtual-pet.json](./251632-dogotchi-virtual-pet.json) |
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
@@ -14441,6 +14443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Mary | 58386 | [58386-dreaming-mary.json](./58386-dreaming-mary.json) |
 | Dreaming Network | 312599 | [312599-dreaming-network.json](./312599-dreaming-network.json) |
 | Dreaming of You | 184924 | [184924-dreaming-of-you.json](./184924-dreaming-of-you.json) |
+| Dreaming on the last light | 148771 | [148771-dreaming-on-the-last-light.json](./148771-dreaming-on-the-last-light.json) |
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Sarah | 8702 | [8702-dreaming-sarah.json](./8702-dreaming-sarah.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
@@ -16388,6 +16391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Slime 2: Puzzle in the Dark Forest | 156941 | [156941-dungeon-slime-2-puzzle-in-the-dark-forest.json](./156941-dungeon-slime-2-puzzle-in-the-dark-forest.json) |
 | Dungeon Slime Collection | 208837 | [208837-dungeon-slime-collection.json](./208837-dungeon-slime-collection.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
+| Dungeon Slime: Puzzle's Adventure | 148736 | [148736-dungeon-slime-puzzles-adventure.json](./148736-dungeon-slime-puzzles-adventure.json) |
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
 | Dungeon Solitaire | 341127 | [341127-dungeon-solitaire.json](./341127-dungeon-solitaire.json) |
 | Dungeon Solver | 133338 | [133338-dungeon-solver.json](./133338-dungeon-solver.json) |
@@ -16661,6 +16665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Blood and Dream | 257836 | [257836-dungeons-of-blood-and-dream.json](./257836-dungeons-of-blood-and-dream.json) |
 | Dungeons of Bonk | 184243 | [184243-dungeons-of-bonk.json](./184243-dungeons-of-bonk.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
+| Dungeons of Clay | 148742 | [148742-dungeons-of-clay.json](./148742-dungeons-of-clay.json) |
 | Dungeons of Daggorath | 42156 | [42156-dungeons-of-daggorath.json](./42156-dungeons-of-daggorath.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
 | Dungeons of Dolkara | 297910 | [297910-dungeons-of-dolkara.json](./297910-dungeons-of-dolkara.json) |
