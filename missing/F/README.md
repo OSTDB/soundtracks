@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Kart Race | 188231 | [188231-fairytale-kart-race.json](./188231-fairytale-kart-race.json) |
 | Fairytale Mosaics: Beauty and Beast | 126839 | [126839-fairytale-mosaics-beauty-and-beast.json](./126839-fairytale-mosaics-beauty-and-beast.json) |
 | Fairytale Mosaics: Beauty and the Beast 2 | 99574 | [99574-fairytale-mosaics-beauty-and-the-beast-2.json](./99574-fairytale-mosaics-beauty-and-the-beast-2.json) |
+| Fairytale Mosaics: Cinderella | 155406 | [155406-fairytale-mosaics-cinderella.json](./155406-fairytale-mosaics-cinderella.json) |
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
 | Fairytale Mosaics. Beauty and the Beast | 94788 | [94788-fairytale-mosaics-beauty-and-the-beast.json](./94788-fairytale-mosaics-beauty-and-the-beast.json) |
 | Fairytale Requiem | 59271 | [59271-fairytale-requiem.json](./59271-fairytale-requiem.json) |
@@ -3169,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear of Sleep | 391107 | [391107-fear-of-sleep.json](./391107-fear-of-sleep.json) |
 | Fear of the dark | 185499 | [185499-fear-of-the-dark.json](./185499-fear-of-the-dark.json) |
+| Fear of the Dark | 155403 | [155403-fear-of-the-dark.json](./155403-fear-of-the-dark.json) |
 | Fear of the Dark | 186487 | [186487-fear-of-the-dark.json](./186487-fear-of-the-dark.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear of The Unknown | 169810 | [169810-fear-of-the-unknown.json](./169810-fear-of-the-unknown.json) |
@@ -5827,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher's Road | 387121 | [387121-fishers-road.json](./387121-fishers-road.json) |
 | Fisher's Wharf | 261395 | [261395-fishers-wharf.json](./261395-fishers-wharf.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
+| Fisherman Classic | 155306 | [155306-fisherman-classic.json](./155306-fisherman-classic.json) |
 | Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
 | Fisherman: Idle Fishing Clicker | 183814 | [183814-fisherman-idle-fishing-clicker.json](./183814-fisherman-idle-fishing-clicker.json) |
 | Fisherman’s Bait: Marlin Challenge | 270623 | [270623-fisherman-s-bait-marlin-challenge.json](./270623-fisherman-s-bait-marlin-challenge.json) |
@@ -11106,6 +11109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Depths | 9632 | [9632-from-the-depths.json](./9632-from-the-depths.json) |
 | From The Dust | 318853 | [318853-from-the-dust.json](./318853-from-the-dust.json) |
 | From The Forgotten | 340262 | [340262-from-the-forgotten.json](./340262-from-the-forgotten.json) |
+| From the Grave | 155400 | [155400-from-the-grave.json](./155400-from-the-grave.json) |
 | From the life of a thief | 398652 | [398652-from-the-life-of-a-thief.json](./398652-from-the-life-of-a-thief.json) |
 | From The Mystery Zone | 307798 | [307798-from-the-mystery-zone.json](./307798-from-the-mystery-zone.json) |
 | From The Night | 289823 | [289823-from-the-night.json](./289823-from-the-night.json) |
