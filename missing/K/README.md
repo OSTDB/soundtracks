@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanaete! Magical Star | 376684 | [376684-kanaete-magical-star.json](./376684-kanaete-magical-star.json) |
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
+| Kanapocalypse | 171744 | [171744-kanapocalypse.json](./171744-kanapocalypse.json) |
 | Kanashibari | 235788 | [235788-kanashibari.json](./235788-kanashibari.json) |
 | Kanashimi Arabesque | 294807 | [294807-kanashimi-arabesque.json](./294807-kanashimi-arabesque.json) |
 | Kanata no Ningyo Hime | 416574 | [416574-kanata-no-ningyo-hime.json](./416574-kanata-no-ningyo-hime.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken Follett's The Pillars of the Earth | 19297 | [19297-ken-folletts-the-pillars-of-the-earth.json](./19297-ken-folletts-the-pillars-of-the-earth.json) |
 | Ken ga Kimi for S | 144572 | [144572-ken-ga-kimi-for-s.json](./144572-ken-ga-kimi-for-s.json) |
 | Ken ga Kimi: Momoyo Tsuzuri | 129997 | [129997-ken-ga-kimi-momoyo-tsuzuri.json](./129997-ken-ga-kimi-momoyo-tsuzuri.json) |
+| Ken ga Toki | 171773 | [171773-ken-ga-toki.json](./171773-ken-ga-toki.json) |
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
 | Ken Griffey Jr.'s Slugfest | 249120 | [249120-ken-griffey-jr-s-slugfest.json](./249120-ken-griffey-jr-s-slugfest.json) |
@@ -4606,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
 | Kompete | 271681 | [271681-kompete.json](./271681-kompete.json) |
+| Komrad | 171774 | [171774-komrad.json](./171774-komrad.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | KON: Knights of Night | 57545 | [57545-kon-knights-of-night.json](./57545-kon-knights-of-night.json) |
 | Kona | 14404 | [14404-kona.json](./14404-kona.json) |
