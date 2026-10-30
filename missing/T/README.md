@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | Tau | 256210 | [256210-tau.json](./256210-tau.json) |
 | Tau Ceti | 26342 | [26342-tau-ceti.json](./26342-tau-ceti.json) |
+| Tau Cubis | 157855 | [157855-tau-cubis.json](./157855-tau-cubis.json) |
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
@@ -9218,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great One Hand Challenge | 98574 | [98574-the-great-one-hand-challenge.json](./98574-the-great-one-hand-challenge.json) |
 | The Great Order | 184941 | [184941-the-great-order.json](./184941-the-great-order.json) |
 | The Great Palermo | 146002 | [146002-the-great-palermo.json](./146002-the-great-palermo.json) |
+| The Great Pickle Adventure | 157833 | [157833-the-great-pickle-adventure.json](./157833-the-great-pickle-adventure.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Reading Adventure | 207115 | [207115-the-great-reading-adventure.json](./207115-the-great-reading-adventure.json) |
@@ -22511,6 +22513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
 | Tomb Sweeper | 163696 | [163696-tomb-sweeper.json](./163696-tomb-sweeper.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
+| Tomb Typing | 157850 | [157850-tomb-typing.json](./157850-tomb-typing.json) |
 | Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
 | Tomba! 2: The Evil Swine Return Special Edition | 377890 | [377890-tomba-2-the-evil-swine-return-special-edition.json](./377890-tomba-2-the-evil-swine-return-special-edition.json) |
