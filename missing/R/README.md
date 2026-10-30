@@ -4492,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult Of Remute | 321789 | [321789-remute-the-cult-of-remute.json](./321789-remute-the-cult-of-remute.json) |
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Remute: There Is Hope | 321800 | [321800-remute-there-is-hope.json](./321800-remute-there-is-hope.json) |
+| Remy Raccoon and the Lost Temple | 172904 | [172904-remy-raccoon-and-the-lost-temple.json](./172904-remy-raccoon-and-the-lost-temple.json) |
 | Remy Raccoon and the Lost Temple: Festive Frolics - Volume 1 | 393591 | [393591-remy-raccoon-and-the-lost-temple-festive-frolics-volume-1.json](./393591-remy-raccoon-and-the-lost-temple-festive-frolics-volume-1.json) |
 | Remy Raccoon and the Lost Temple: Festive Frolics - Volume 2 | 393592 | [393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json](./393592-remy-raccoon-and-the-lost-temple-festive-frolics-volume-2.json) |
 | Remy Raccoon and the Lost Temple: Halloween Hijinks - Volume 1 | 393590 | [393590-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-1.json](./393590-remy-raccoon-and-the-lost-temple-halloween-hijinks-volume-1.json) |
@@ -8106,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobotRiot: Hyper Edition | 99491 | [99491-robotriot-hyper-edition.json](./99491-robotriot-hyper-edition.json) |
 | Robotron X | 9186 | [9186-robotron-x.json](./9186-robotron-x.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
+| Robotry! | 172906 | [172906-robotry.json](./172906-robotry.json) |
 | Robots | 176770 | [176770-robots.json](./176770-robots.json) |
 | Robots | 248488 | [248488-robots.json](./248488-robots.json) |
 | Robots | 248489 | [248489-robots.json](./248489-robots.json) |
@@ -9506,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
 | Romans from Mars (Free-to-Play) | 116845 | [116845-romans-from-mars-free-to-play.json](./116845-romans-from-mars-free-to-play.json) |
 | Romans From Mars 360 | 81126 | [81126-romans-from-mars-360.json](./81126-romans-from-mars-360.json) |
+| Romans: Age of Caesar | 172932 | [172932-romans-age-of-caesar.json](./172932-romans-age-of-caesar.json) |
 | Romantasia | 118282 | [118282-romantasia.json](./118282-romantasia.json) |
 | Romantic Date: The Perfect Boy | 213807 | [213807-romantic-date-the-perfect-boy.json](./213807-romantic-date-the-perfect-boy.json) |
 | Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
