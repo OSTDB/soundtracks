@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Romania | 369676 | [369676-mafia-romania.json](./369676-mafia-romania.json) |
 | Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
 | Mafia Simulator | 304570 | [304570-mafia-simulator.json](./304570-mafia-simulator.json) |
+| Mafia Slots | 147009 | [147009-mafia-slots.json](./147009-mafia-slots.json) |
 | Mafia Solitaire | 381057 | [381057-mafia-solitaire.json](./381057-mafia-solitaire.json) |
 | Mafia Solitaire 2 | 336986 | [336986-mafia-solitaire-2.json](./336986-mafia-solitaire-2.json) |
 | Mafia Thief | 277870 | [277870-mafia-thief.json](./277870-mafia-thief.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Masks | 99685 | [99685-magic-masks.json](./99685-magic-masks.json) |
+| Magic Match Adventures | 146478 | [146478-magic-match-adventures.json](./146478-magic-match-adventures.json) |
 | Magic matchstick | 68580 | [68580-magic-matchstick.json](./68580-magic-matchstick.json) |
 | Magic Math | 267551 | [267551-magic-math.json](./267551-magic-math.json) |
 | Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
@@ -1192,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
 | Magic Solitaire | 54172 | [54172-magic-solitaire.json](./54172-magic-solitaire.json) |
 | Magic Sort! | 392972 | [392972-magic-sort.json](./392972-magic-sort.json) |
+| Magic Spheres | 146500 | [146500-magic-spheres.json](./146500-magic-spheres.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Stone Guardians | 167501 | [167501-magic-stone-guardians.json](./167501-magic-stone-guardians.json) |
 | Magic Stone Knights | 251441 | [251441-magic-stone-knights.json](./251441-magic-stone-knights.json) |
@@ -2926,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Many Mini Typing Games | 295147 | [295147-many-mini-typing-games.json](./295147-many-mini-typing-games.json) |
 | Many Minigames | 369532 | [369532-many-minigames.json](./369532-many-minigames.json) |
 | Many Nights a Whisper | 335230 | [335230-many-nights-a-whisper.json](./335230-many-nights-a-whisper.json) |
+| Many Years Ago | 146483 | [146483-many-years-ago.json](./146483-many-years-ago.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
@@ -8886,6 +8890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphic Force | 39385 | [39385-metamorphic-force.json](./39385-metamorphic-force.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metamorphism | 259461 | [259461-metamorphism.json](./259461-metamorphism.json) |
+| Metamorphos | 147027 | [147027-metamorphos.json](./147027-metamorphos.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
 | Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
 | Metamorphosis | 333893 | [333893-metamorphosis.json](./333893-metamorphosis.json) |
@@ -9032,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Conflict: The Origin | 75070 | [75070-metro-conflict-the-origin.json](./75070-metro-conflict-the-origin.json) |
 | Metro Connect | 234463 | [234463-metro-connect.json](./234463-metro-connect.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
+| Metro Exodus: Complete Edition | 147016 | [147016-metro-exodus-complete-edition.json](./147016-metro-exodus-complete-edition.json) |
 | Metro Exodus: Day One Edition | 136166 | [136166-metro-exodus-day-one-edition.json](./136166-metro-exodus-day-one-edition.json) |
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
@@ -16135,6 +16141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
+| Mountain Peak Battle Mess | 147685 | [147685-mountain-peak-battle-mess.json](./147685-mountain-peak-battle-mess.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
 | Mountain Sports | 214894 | [214894-mountain-sports.json](./214894-mountain-sports.json) |
@@ -17399,6 +17406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama HD | 47442 | [47442-mushihimesama-hd.json](./47442-mushihimesama-hd.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
+| Mushishi: Amefuru Sato | 147012 | [147012-mushishi-amefuru-sato.json](./147012-mushishi-amefuru-sato.json) |
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
 | Mushoku Tensei: Game ni Nattemo Honki Dasu | 174711 | [174711-mushoku-tensei-game-ni-nattemo-honki-dasu.json](./174711-mushoku-tensei-game-ni-nattemo-honki-dasu.json) |
 | Mushroam | 348387 | [348387-mushroam.json](./348387-mushroam.json) |
@@ -19305,6 +19313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Black Crown | 140229 | [140229-mystery-case-files-black-crown.json](./140229-mystery-case-files-black-crown.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
 | Mystery Case Files: Broken Hour | 56174 | [56174-mystery-case-files-broken-hour.json](./56174-mystery-case-files-broken-hour.json) |
+| Mystery Case Files: Crossfade - Collector's Edition | 146511 | [146511-mystery-case-files-crossfade-collectors-edition.json](./146511-mystery-case-files-crossfade-collectors-edition.json) |
 | Mystery Case Files: Dire Grove | 5514 | [5514-mystery-case-files-dire-grove.json](./5514-mystery-case-files-dire-grove.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove | 140230 | [140230-mystery-case-files-dire-grove-sacred-grove.json](./140230-mystery-case-files-dire-grove-sacred-grove.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
@@ -19567,6 +19576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
 | Mystic Defense | 30581 | [30581-mystic-defense.json](./30581-mystic-defense.json) |
 | Mystic Destinies: Serendipity of Aeons | 33805 | [33805-mystic-destinies-serendipity-of-aeons.json](./33805-mystic-destinies-serendipity-of-aeons.json) |
+| Mystic Diamonds | 146571 | [146571-mystic-diamonds.json](./146571-mystic-diamonds.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Duel: Heroes Realm | 299419 | [299419-mystic-duel-heroes-realm.json](./299419-mystic-duel-heroes-realm.json) |
 | Mystic Emporium | 56906 | [56906-mystic-emporium.json](./56906-mystic-emporium.json) |
