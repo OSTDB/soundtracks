@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
 | Gachi Heroes | 110694 | [110694-gachi-heroes.json](./110694-gachi-heroes.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
+| Gachi Run: Running of the Slaves | 159508 | [159508-gachi-run-running-of-the-slaves.json](./159508-gachi-run-running-of-the-slaves.json) |
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
 | Gachi: Space Orgasm | 235786 | [235786-gachi-space-orgasm.json](./235786-gachi-space-orgasm.json) |
 | Gachimuchi | 75195 | [75195-gachimuchi.json](./75195-gachimuchi.json) |
@@ -7240,6 +7241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrappleWell | 204144 | [204144-grapplewell.json](./204144-grapplewell.json) |
 | Grapplin' Apples | 409351 | [409351-grapplin-apples.json](./409351-grapplin-apples.json) |
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
+| Grappling Ball | 159499 | [159499-grappling-ball.json](./159499-grappling-ball.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Gunners: Arena FPS | 273772 | [273772-grappling-gunners-arena-fps.json](./273772-grappling-gunners-arena-fps.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
@@ -10037,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gussun Oyoyo | 64740 | [64740-gussun-oyoyo.json](./64740-gussun-oyoyo.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
+| Gustav Vasa: Adventure in the Dales | 159487 | [159487-gustav-vasa-adventure-in-the-dales.json](./159487-gustav-vasa-adventure-in-the-dales.json) |
 | Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
 | Gut Eater | 350956 | [350956-gut-eater.json](./350956-gut-eater.json) |
 | Gut Fear Boundary | 393377 | [393377-gut-fear-boundary.json](./393377-gut-fear-boundary.json) |
