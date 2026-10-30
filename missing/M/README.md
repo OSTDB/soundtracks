@@ -4511,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Blaster | 268078 | [268078-master-blaster.json](./268078-master-blaster.json) |
 | Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
 | Master Blaster VR | 149851 | [149851-master-blaster-vr.json](./149851-master-blaster-vr.json) |
+| Master Boy | 172352 | [172352-master-boy.json](./172352-master-boy.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
 | Master Builder Simulator | 287720 | [287720-master-builder-simulator.json](./287720-master-builder-simulator.json) |
@@ -11823,6 +11824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Pool | 306934 | [306934-miracle-pool.json](./306934-miracle-pool.json) |
 | Miracle Ropit's Adventure in 2100 | 64685 | [64685-miracle-ropits-adventure-in-2100.json](./64685-miracle-ropits-adventure-in-2100.json) |
 | Miracle Snack Shop | 113331 | [113331-miracle-snack-shop.json](./113331-miracle-snack-shop.json) |
+| Miracle Snack Shop: Philia After Story | 172342 | [172342-miracle-snack-shop-philia-after-story.json](./172342-miracle-snack-shop-philia-after-story.json) |
 | Miracle Space Race | 43779 | [43779-miracle-space-race.json](./43779-miracle-space-race.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
 | Miracle Sweeper | 235492 | [235492-miracle-sweeper.json](./235492-miracle-sweeper.json) |
@@ -18972,6 +18974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriad Death | 336758 | [336758-myriad-death.json](./336758-myriad-death.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
+| Myriad: A Rogue Adventure | 172336 | [172336-myriad-a-rogue-adventure.json](./172336-myriad-a-rogue-adventure.json) |
 | Myriads: Renaissance | 176168 | [176168-myriads-renaissance.json](./176168-myriads-renaissance.json) |
 | Myriavora | 154584 | [154584-myriavora.json](./154584-myriavora.json) |
 | Myridian: The Last Stand | 128969 | [128969-myridian-the-last-stand.json](./128969-myridian-the-last-stand.json) |
