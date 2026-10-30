@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
 | CamGirl Simulator | 326461 | [326461-camgirl-simulator.json](./326461-camgirl-simulator.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
+| CamGirls: Sophie X Rias | 162056 | [162056-camgirls-sophie-x-rias.json](./162056-camgirls-sophie-x-rias.json) |
 | Camgoo Sixplay | 93123 | [93123-camgoo-sixplay.json](./93123-camgoo-sixplay.json) |
 | Camille and Laura | 311871 | [311871-camille-and-laura.json](./311871-camille-and-laura.json) |
 | Caminho Estreito | 262149 | [262149-caminho-estreito.json](./262149-caminho-estreito.json) |
@@ -13706,6 +13707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | County Cricket | 13525 | [13525-county-cricket.json](./13525-county-cricket.json) |
 | County Fair | 59967 | [59967-county-fair.json](./59967-county-fair.json) |
 | County Fair | 80405 | [80405-county-fair.json](./80405-county-fair.json) |
+| County Hospital | 162049 | [162049-county-hospital.json](./162049-county-hospital.json) |
 | County Hospital 2 | 211697 | [211697-county-hospital-2.json](./211697-county-hospital-2.json) |
 | County Hospital Outbreak | 405700 | [405700-county-hospital-outbreak.json](./405700-county-hospital-outbreak.json) |
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
