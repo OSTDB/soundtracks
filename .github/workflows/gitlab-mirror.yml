@@ -1,0 +1,32 @@
+
+name: Mirror to GitLab
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gitlab-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    name: Sync GitHub to GitLab
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mirror repository
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          git clone --mirror \
+            https://github.com/OSTDB/soundtracks.git \
+            mirror.git
+
+          git -C mirror.git push --mirror \
+            "https://oauth2:${GITLAB_TOKEN}@gitlab.com/ostdb/soundtracks.git"
