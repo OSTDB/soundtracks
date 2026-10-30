@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.IV Evolution: Hatsubai Kinen Gentei Set | 307056 | [307056-a-iv-evolution-hatsubai-kinen-gentei-set.json](./307056-a-iv-evolution-hatsubai-kinen-gentei-set.json) |
 | A.J.'s World of Discovery | 73176 | [73176-a-j-s-world-of-discovery.json](./73176-a-j-s-world-of-discovery.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
+| A.L.B. | 165906 | [165906-a-l-b.json](./165906-a-l-b.json) |
 | A.L.I.G.N.E.D | 317168 | [317168-a-l-i-g-n-e-d.json](./317168-a-l-i-g-n-e-d.json) |
 | A.L.T. | 239590 | [239590-a-l-t.json](./239590-a-l-t.json) |
 | A.M.C.: Astro Marine Corps | 11881 | [11881-a-m-c-astro-marine-corps.json](./11881-a-m-c-astro-marine-corps.json) |
@@ -4792,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
 | Air Offensive: The Art of Flying | 52371 | [52371-air-offensive-the-art-of-flying.json](./52371-air-offensive-the-art-of-flying.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
+| Air Penguin 2 | 165907 | [165907-air-penguin-2.json](./165907-air-penguin-2.json) |
 | Air Plane Simulator | 216150 | [216150-air-plane-simulator.json](./216150-air-plane-simulator.json) |
 | Air Port Panic | 300008 | [300008-air-port-panic.json](./300008-air-port-panic.json) |
 | Air Power: Battle in the Skies | 22622 | [22622-air-power-battle-in-the-skies.json](./22622-air-power-battle-in-the-skies.json) |
@@ -8667,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bunnies: Colossal Carrot Crusade - Desert | 403417 | [403417-angry-bunnies-colossal-carrot-crusade-desert.json](./403417-angry-bunnies-colossal-carrot-crusade-desert.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
 | Angry Bunny | 123872 | [123872-angry-bunny.json](./123872-angry-bunny.json) |
+| Angry Bunny Race: Jungle Road | 165899 | [165899-angry-bunny-race-jungle-road.json](./165899-angry-bunny-race-jungle-road.json) |
 | Angry Business Man | 64843 | [64843-angry-business-man.json](./64843-angry-business-man.json) |
 | Angry Capybara | 405913 | [405913-angry-capybara.json](./405913-angry-capybara.json) |
 | Angry Cat | 212815 | [212815-angry-cat.json](./212815-angry-cat.json) |
@@ -13732,6 +13735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
 | Assetto Corsa Competizione: Day One Edition | 171275 | [171275-assetto-corsa-competizione-day-one-edition.json](./171275-assetto-corsa-competizione-day-one-edition.json) |
 | Assetto Corsa Competizione: GT Racing Game Bundle | 288862 | [288862-assetto-corsa-competizione-gt-racing-game-bundle.json](./288862-assetto-corsa-competizione-gt-racing-game-bundle.json) |
+| Assetto Corsa Competizione: GT4 Pack DLC | 165873 | [165873-assetto-corsa-competizione-gt4-pack-dlc.json](./165873-assetto-corsa-competizione-gt4-pack-dlc.json) |
 | Assetto Corsa Competizione: Intercontinental GT Pack | 164853 | [164853-assetto-corsa-competizione-intercontinental-gt-pack.json](./164853-assetto-corsa-competizione-intercontinental-gt-pack.json) |
 | Assetto Corsa EVO | 266155 | [266155-assetto-corsa-evo.json](./266155-assetto-corsa-evo.json) |
 | Assetto Corsa Evoluzione | 400702 | [400702-assetto-corsa-evoluzione.json](./400702-assetto-corsa-evoluzione.json) |
