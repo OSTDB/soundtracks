@@ -497,7 +497,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 13 Social | 243260 | [243260-madden-nfl-13-social.json](./243260-madden-nfl-13-social.json) |
 | Madden NFL 15 | 7882 | [7882-madden-nfl-15.json](./7882-madden-nfl-15.json) |
 | Madden NFL 16 | 11072 | [11072-madden-nfl-16.json](./11072-madden-nfl-16.json) |
+| Madden NFL 16: Deluxe Edition | 166961 | [166961-madden-nfl-16-deluxe-edition.json](./166961-madden-nfl-16-deluxe-edition.json) |
 | Madden NFL 17 | 243658 | [243658-madden-nfl-17.json](./243658-madden-nfl-17.json) |
+| Madden NFL 17: Deluxe Edition | 166966 | [166966-madden-nfl-17-deluxe-edition.json](./166966-madden-nfl-17-deluxe-edition.json) |
 | Madden NFL 18 | 28706 | [28706-madden-nfl-18.json](./28706-madden-nfl-18.json) |
 | Madden NFL 19: Hall of Fame Edition | 103213 | [103213-madden-nfl-19-hall-of-fame-edition.json](./103213-madden-nfl-19-hall-of-fame-edition.json) |
 | Madden NFL 20 | 114286 | [114286-madden-nfl-20.json](./114286-madden-nfl-20.json) |
@@ -2882,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantis Burn Racing: Elite Class | 170305 | [170305-mantis-burn-racing-elite-class.json](./170305-mantis-burn-racing-elite-class.json) |
 | Mantis Burn Racing: Snowbound Pack | 170306 | [170306-mantis-burn-racing-snowbound-pack.json](./170306-mantis-burn-racing-snowbound-pack.json) |
 | Mantis Clicker | 414787 | [414787-mantis-clicker.json](./414787-mantis-clicker.json) |
+| Mantle | 166938 | [166938-mantle.json](./166938-mantle.json) |
 | Mantle | 368461 | [368461-mantle.json](./368461-mantle.json) |
 | Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
@@ -8785,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
 | Metal Storm X | 257240 | [257240-metal-storm-x.json](./257240-metal-storm-x.json) |
+| Metal Strike | 166928 | [166928-metal-strike.json](./166928-metal-strike.json) |
 | Metal Strike | 367343 | [367343-metal-strike.json](./367343-metal-strike.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
 | Metal Surge | 369218 | [369218-metal-surge.json](./369218-metal-surge.json) |
