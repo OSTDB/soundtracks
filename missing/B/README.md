@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Crush Simulator | 319432 | [319432-balls-crush-simulator.json](./319432-balls-crush-simulator.json) |
 | Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
 | Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
+| Balls Mania! | 173970 | [173970-balls-mania.json](./173970-balls-mania.json) |
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Destiny | 328892 | [328892-balls-of-destiny.json](./328892-balls-of-destiny.json) |
 | Balls of Fame Holiday Bundle | 227700 | [227700-balls-of-fame-holiday-bundle.json](./227700-balls-of-fame-holiday-bundle.json) |
