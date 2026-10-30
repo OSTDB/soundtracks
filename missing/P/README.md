@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangolin Love: Day 4 - The Philippines | 375815 | [375815-pangolin-love-day-4-the-philippines.json](./375815-pangolin-love-day-4-the-philippines.json) |
 | Pangs: You Are Hungry | 377697 | [377697-pangs-you-are-hungry.json](./377697-pangs-you-are-hungry.json) |
 | PangYa | 22593 | [22593-pangya.json](./22593-pangya.json) |
+| Pangya Mobile | 137250 | [137250-pangya-mobile.json](./137250-pangya-mobile.json) |
 | Pangya: Fantasy Golf | 42809 | [42809-pangya-fantasy-golf.json](./42809-pangya-fantasy-golf.json) |
 | Pangya: United | 242060 | [242060-pangya-united.json](./242060-pangya-united.json) |
 | Panic | 245858 | [245858-panic.json](./245858-panic.json) |
@@ -7922,6 +7923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixvault | 116066 | [116066-pixvault.json](./116066-pixvault.json) |
 | Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
 | Pixxle: A Pixel Puzzle Game | 91147 | [91147-pixxle-a-pixel-puzzle-game.json](./91147-pixxle-a-pixel-puzzle-game.json) |
+| Pixygarden | 137285 | [137285-pixygarden.json](./137285-pixygarden.json) |
 | PixZomb | 334808 | [334808-pixzomb.json](./334808-pixzomb.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
@@ -8274,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Cubes Survival Games | 88442 | [88442-planet-of-cubes-survival-games.json](./88442-planet-of-cubes-survival-games.json) |
 | Planet of Lana Collection | 393897 | [393897-planet-of-lana-collection.json](./393897-planet-of-lana-collection.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
+| Planet of Luck | 137238 | [137238-planet-of-luck.json](./137238-planet-of-luck.json) |
 | Planet of Pirates | 115533 | [115533-planet-of-pirates.json](./115533-planet-of-pirates.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
 | Planet of the Apes | 282414 | [282414-planet-of-the-apes.json](./282414-planet-of-the-apes.json) |
@@ -12541,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Buggy Racing Tour | 68617 | [68617-premier-buggy-racing-tour.json](./68617-premier-buggy-racing-tour.json) |
 | Premier Collection | 137826 | [137826-premier-collection.json](./137826-premier-collection.json) |
 | Premier Collection II | 137863 | [137863-premier-collection-ii.json](./137863-premier-collection-ii.json) |
+| Premier Collection III | 137242 | [137242-premier-collection-iii.json](./137242-premier-collection-iii.json) |
 | Premier Eleven | 83433 | [83433-premier-eleven.json](./83433-premier-eleven.json) |
 | Premier Manager | 321435 | [321435-premier-manager.json](./321435-premier-manager.json) |
 | Premier Manager | 4483 | [4483-premier-manager.json](./4483-premier-manager.json) |
@@ -14687,6 +14691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Quantum Leap | 221818 | [221818-project-quantum-leap.json](./221818-project-quantum-leap.json) |
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
+| Project: Ragnarok | 137284 | [137284-project-ragnarok.json](./137284-project-ragnarok.json) |
 | Project: Run | 393466 | [393466-project-run.json](./393466-project-run.json) |
 | Project: Shiba | 257228 | [257228-project-shiba.json](./257228-project-shiba.json) |
 | Project: Skyscape | 158618 | [158618-project-skyscape.json](./158618-project-skyscape.json) |
