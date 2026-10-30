@@ -1936,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Time In Roswell | 122117 | [122117-once-upon-a-time-in-roswell.json](./122117-once-upon-a-time-in-roswell.json) |
 | Once Upon a Time in the 70s | 325545 | [325545-once-upon-a-time-in-the-70s.json](./325545-once-upon-a-time-in-the-70s.json) |
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
+| Once Upon a Time in the Gold Rush VR: Shoot and Ride | 169573 | [169573-once-upon-a-time-in-the-gold-rush-vr-shoot-and-ride.json](./169573-once-upon-a-time-in-the-gold-rush-vr-shoot-and-ride.json) |
 | Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
 | Once Upon a Time There was a Twin-Tailed Sister Princess Who Was Very Unfriendly. | 272738 | [272738-once-upon-a-time-there-was-a-twin-tailed-sister-princess-who-was-very-unfriendly.json](./272738-once-upon-a-time-there-was-a-twin-tailed-sister-princess-who-was-very-unfriendly.json) |
 | Once Upon A Time: Little Red Riding Hood | 57574 | [57574-once-upon-a-time-little-red-riding-hood.json](./57574-once-upon-a-time-little-red-riding-hood.json) |
