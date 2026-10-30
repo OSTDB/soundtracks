@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Trip | 188900 | [188900-acid-trip.json](./188900-acid-trip.json) |
 | Acid Web | 327450 | [327450-acid-web.json](./327450-acid-web.json) |
 | Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
+| Acidbomb | 146502 | [146502-acidbomb.json](./146502-acidbomb.json) |
 | AcidFreecell | 205968 | [205968-acidfreecell.json](./205968-acidfreecell.json) |
 | AcidSolitaire | 205969 | [205969-acidsolitaire.json](./205969-acidsolitaire.json) |
 | Acidsoul | 78753 | [78753-acidsoul.json](./78753-acidsoul.json) |
@@ -8944,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Night Market | 326859 | [326859-animal-night-market.json](./326859-animal-night-market.json) |
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
+| Animal Pals Bubble Pop | 147590 | [147590-animal-pals-bubble-pop.json](./147590-animal-pals-bubble-pop.json) |
 | Animal Parkour | 291860 | [291860-animal-parkour.json](./291860-animal-parkour.json) |
 | Animal Party Puzzles: Meet All the Friends | 356524 | [356524-animal-party-puzzles-meet-all-the-friends.json](./356524-animal-party-puzzles-meet-all-the-friends.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
@@ -9051,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Collision | 199375 | [199375-animals-collision.json](./199375-animals-collision.json) |
 | Animals Drop | 288168 | [288168-animals-drop.json](./288168-animals-drop.json) |
 | Animals Fight | 192764 | [192764-animals-fight.json](./192764-animals-fight.json) |
+| Animals for Toddlers | 147595 | [147595-animals-for-toddlers.json](./147595-animals-for-toddlers.json) |
 | Animals In Buildings | 177311 | [177311-animals-in-buildings.json](./177311-animals-in-buildings.json) |
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
 | Animals Jigsaw Puzzle: games for kids | 90449 | [90449-animals-jigsaw-puzzle-games-for-kids.json](./90449-animals-jigsaw-puzzle-games-for-kids.json) |
@@ -9638,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day to Die | 373752 | [373752-another-day-to-die.json](./373752-another-day-to-die.json) |
 | Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
+| Another Derby! | 147032 | [147032-another-derby.json](./147032-another-derby.json) |
 | Another Dimension | 231427 | [231427-another-dimension.json](./231427-another-dimension.json) |
 | Another Door | 284403 | [284403-another-door.json](./284403-another-door.json) |
 | Another Dungeon | 164761 | [164761-another-dungeon.json](./164761-another-dungeon.json) |
@@ -10102,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Namida | 69151 | [69151-aoi-namida.json](./69151-aoi-namida.json) |
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
 | Aoi Shiro: HD Remaster | 246873 | [246873-aoi-shiro-hd-remaster.json](./246873-aoi-shiro-hd-remaster.json) |
+| Aoi Sora no Neosphere | 146570 | [146570-aoi-sora-no-neosphere.json](./146570-aoi-sora-no-neosphere.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
 | Aoi Umi no Tristia: Hatsumei Koubou Funtou ki | 407995 | [407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json](./407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json) |
@@ -11748,6 +11753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architect of Ruin | 369990 | [369990-architect-of-ruin.json](./369990-architect-of-ruin.json) |
 | Architect of the Union | 286669 | [286669-architect-of-the-union.json](./286669-architect-of-the-union.json) |
 | Architect Simulator | 303345 | [303345-architect-simulator.json](./303345-architect-simulator.json) |
+| Architect: Episode 1 | 146503 | [146503-architect-episode-1.json](./146503-architect-episode-1.json) |
 | Architect: Land of Exiles | 344792 | [344792-architect-land-of-exiles.json](./344792-architect-land-of-exiles.json) |
 | Architects of Giants | 402550 | [402550-architects-of-giants.json](./402550-architects-of-giants.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
@@ -16202,6 +16208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axon Hero | 217278 | [217278-axon-hero.json](./217278-axon-hero.json) |
 | Axona | 283969 | [283969-axona.json](./283969-axona.json) |
 | Axria Retro World | 124568 | [124568-axria-retro-world.json](./124568-axria-retro-world.json) |
+| AXS | 147663 | [147663-axs.json](./147663-axs.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | Axyos | 17740 | [17740-axyos.json](./17740-axyos.json) |
 | Axyos: Battlecards | 115522 | [115522-axyos-battlecards.json](./115522-axyos-battlecards.json) |
