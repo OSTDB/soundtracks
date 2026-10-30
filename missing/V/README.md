@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigil in the Mist | 409755 | [409755-vigil-in-the-mist.json](./409755-vigil-in-the-mist.json) |
 | Vigil of Glory - Part I | 130255 | [130255-vigil-of-glory-part-i.json](./130255-vigil-of-glory-part-i.json) |
 | Vigilance | 93480 | [93480-vigilance.json](./93480-vigilance.json) |
+| Vigilance 2099 | 168541 | [168541-vigilance-2099.json](./168541-vigilance-2099.json) |
 | Vigilance on Talos V | 70820 | [70820-vigilance-on-talos-v.json](./70820-vigilance-on-talos-v.json) |
 | Vigilancer 2099 | 228480 | [228480-vigilancer-2099.json](./228480-vigilancer-2099.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
@@ -3211,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voronium - Locust Sols | 106411 | [106411-voronium-locust-sols.json](./106411-voronium-locust-sols.json) |
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
+| Vortex | 168527 | [168527-vortex.json](./168527-vortex.json) |
 | Vortex | 324730 | [324730-vortex.json](./324730-vortex.json) |
 | Vortex | 411634 | [411634-vortex.json](./411634-vortex.json) |
 | Vortex | 417487 | [417487-vortex.json](./417487-vortex.json) |
