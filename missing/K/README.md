@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
 | Kedama no Gonjiro | 112092 | [112092-kedama-no-gonjiro.json](./112092-kedama-no-gonjiro.json) |
 | Kedama's Adventure | 202516 | [202516-kedamas-adventure.json](./202516-kedamas-adventure.json) |
+| Kedemara: The Orphan's Ballad | 127545 | [127545-kedemara-the-orphans-ballad.json](./127545-kedemara-the-orphans-ballad.json) |
 | Keebee | 348162 | [348162-keebee.json](./348162-keebee.json) |
 | Keef the Thief: A Boy and His Lockpick | 8930 | [8930-keef-the-thief-a-boy-and-his-lockpick.json](./8930-keef-the-thief-a-boy-and-his-lockpick.json) |
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
