@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vira | 244118 | [244118-vira.json](./244118-vira.json) |
 | Vira!!! | 389461 | [389461-vira.json](./389461-vira.json) |
 | Viractal: Will You Trust Your Party? | 341985 | [341985-viractal-will-you-trust-your-party.json](./341985-viractal-will-you-trust-your-party.json) |
+| Virage Rally | 129988 | [129988-virage-rally.json](./129988-virage-rally.json) |
 | Virago | 189823 | [189823-virago.json](./189823-virago.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
