@@ -7237,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Deadliest Catch: 2024 Premium Edition | 304778 | [304778-world-of-deadliest-catch-2024-premium-edition.json](./304778-world-of-deadliest-catch-2024-premium-edition.json) |
 | World of Dragons: Dragon Simulator | 88219 | [88219-world-of-dragons-dragon-simulator.json](./88219-world-of-dragons-dragon-simulator.json) |
 | World of Elemental | 358505 | [358505-world-of-elemental.json](./358505-world-of-elemental.json) |
+| World of Empires 2 | 176619 | [176619-world-of-empires-2.json](./176619-world-of-empires-2.json) |
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
 | World of Epicia | 195627 | [195627-world-of-epicia.json](./195627-world-of-epicia.json) |
 | World of Fantasy: Zero | 155366 | [155366-world-of-fantasy-zero.json](./155366-world-of-fantasy-zero.json) |
