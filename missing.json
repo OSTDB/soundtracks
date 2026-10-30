@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T11:34:23.544Z",
-  "total_missing": 283848,
+  "generated_at": "2026-10-30T11:49:04.575Z",
+  "total_missing": 283898,
   "games": [
     {
       "igdb_id": 191680,
@@ -4635,6 +4635,11 @@
       "igdb_id": 97108,
       "game_name": "12",
       "file": "missing/0-9/97108-12.json"
+    },
+    {
+      "igdb_id": 151376,
+      "game_name": "12 Bananas",
+      "file": "missing/0-9/151376-12-bananas.json"
     },
     {
       "igdb_id": 349287,
@@ -25122,6 +25127,11 @@
       "file": "missing/A/91558-absolute-solitaire-and-patience.json"
     },
     {
+      "igdb_id": 151385,
+      "game_name": "Absolute Tactics: Daughters of Mercy",
+      "file": "missing/A/151385-absolute-tactics-daughters-of-mercy.json"
+    },
+    {
       "igdb_id": 227209,
       "game_name": "Absolute Talent",
       "file": "missing/A/227209-absolute-talent.json"
@@ -32290,6 +32300,11 @@
       "igdb_id": 325334,
       "game_name": "Adventurers Guild Inc.",
       "file": "missing/A/325334-adventurers-guild-inc.json"
+    },
+    {
+      "igdb_id": 151377,
+      "game_name": "Adventurers of Tamora",
+      "file": "missing/A/151377-adventurers-of-tamora.json"
     },
     {
       "igdb_id": 386860,
@@ -45810,6 +45825,11 @@
       "igdb_id": 157475,
       "game_name": "Alien Cat 6",
       "file": "missing/A/157475-alien-cat-6.json"
+    },
+    {
+      "igdb_id": 151391,
+      "game_name": "Alien Cat 7",
+      "file": "missing/A/151391-alien-cat-7.json"
     },
     {
       "igdb_id": 149854,
@@ -86945,6 +86965,11 @@
       "igdb_id": 375991,
       "game_name": "Astro Fighters 2",
       "file": "missing/A/375991-astro-fighters-2.json"
+    },
+    {
+      "igdb_id": 151412,
+      "game_name": "Astro Fighters 2178",
+      "file": "missing/A/151412-astro-fighters-2178.json"
     },
     {
       "igdb_id": 346140,
@@ -134207,6 +134232,11 @@
       "file": "missing/B/366419-bioleech.json"
     },
     {
+      "igdb_id": 151380,
+      "game_name": "Biologger",
+      "file": "missing/B/151380-biologger.json"
+    },
+    {
       "igdb_id": 68775,
       "game_name": "Biologica!",
       "file": "missing/B/68775-biologica.json"
@@ -176062,6 +176092,11 @@
       "file": "missing/B/324986-bunny-mazes.json"
     },
     {
+      "igdb_id": 151406,
+      "game_name": "Bunny Memory",
+      "file": "missing/B/151406-bunny-memory.json"
+    },
+    {
       "igdb_id": 106579,
       "game_name": "Bunny Minesweeper",
       "file": "missing/B/106579-bunny-minesweeper.json"
@@ -197840,6 +197875,11 @@
       "igdb_id": 249176,
       "game_name": "Cat Killer",
       "file": "missing/C/249176-cat-killer.json"
+    },
+    {
+      "igdb_id": 151408,
+      "game_name": "Cat Knight",
+      "file": "missing/C/151408-cat-knight.json"
     },
     {
       "igdb_id": 90096,
@@ -220077,6 +220117,11 @@
       "file": "missing/C/317561-cities-in-motion-2-complete-edition.json"
     },
     {
+      "igdb_id": 151424,
+      "game_name": "Cities in Motion 2: Back to the Past",
+      "file": "missing/C/151424-cities-in-motion-2-back-to-the-past.json"
+    },
+    {
       "igdb_id": 52734,
       "game_name": "Cities in Motion 2: Bus Mania",
       "file": "missing/C/52734-cities-in-motion-2-bus-mania.json"
@@ -220085,6 +220130,16 @@
       "igdb_id": 52733,
       "game_name": "Cities in Motion 2: European Cities",
       "file": "missing/C/52733-cities-in-motion-2-european-cities.json"
+    },
+    {
+      "igdb_id": 151423,
+      "game_name": "Cities in Motion 2: European Vehicle Pack",
+      "file": "missing/C/151423-cities-in-motion-2-european-vehicle-pack.json"
+    },
+    {
+      "igdb_id": 151422,
+      "game_name": "Cities in Motion 2: Lofty Landmarks",
+      "file": "missing/C/151422-cities-in-motion-2-lofty-landmarks.json"
     },
     {
       "igdb_id": 52730,
@@ -220122,6 +220177,11 @@
       "file": "missing/C/52731-cities-in-motion-complete-collection.json"
     },
     {
+      "igdb_id": 151415,
+      "game_name": "Cities in Motion: Design Classics",
+      "file": "missing/C/151415-cities-in-motion-design-classics.json"
+    },
+    {
       "igdb_id": 404074,
       "game_name": "Cities In Motion: Design Dreams",
       "file": "missing/C/404074-cities-in-motion-design-dreams.json"
@@ -220137,9 +220197,34 @@
       "file": "missing/C/52722-cities-in-motion-design-now.json"
     },
     {
+      "igdb_id": 151421,
+      "game_name": "Cities in Motion: Design Quirks",
+      "file": "missing/C/151421-cities-in-motion-design-quirks.json"
+    },
+    {
       "igdb_id": 52728,
       "game_name": "Cities in Motion: German Cities",
       "file": "missing/C/52728-cities-in-motion-german-cities.json"
+    },
+    {
+      "igdb_id": 151418,
+      "game_name": "Cities in Motion: London",
+      "file": "missing/C/151418-cities-in-motion-london.json"
+    },
+    {
+      "igdb_id": 151419,
+      "game_name": "Cities in Motion: Metro Stations",
+      "file": "missing/C/151419-cities-in-motion-metro-stations.json"
+    },
+    {
+      "igdb_id": 151420,
+      "game_name": "Cities in Motion: Paris",
+      "file": "missing/C/151420-cities-in-motion-paris.json"
+    },
+    {
+      "igdb_id": 151416,
+      "game_name": "Cities in Motion: St. Petersburg",
+      "file": "missing/C/151416-cities-in-motion-st-petersburg.json"
     },
     {
       "igdb_id": 52724,
@@ -220150,6 +220235,11 @@
       "igdb_id": 52721,
       "game_name": "Cities in Motion: Ulm",
       "file": "missing/C/52721-cities-in-motion-ulm.json"
+    },
+    {
+      "igdb_id": 151417,
+      "game_name": "Cities in Motion: US Cities",
+      "file": "missing/C/151417-cities-in-motion-us-cities.json"
     },
     {
       "igdb_id": 248707,
@@ -222035,6 +222125,11 @@
       "igdb_id": 128833,
       "game_name": "CityManager",
       "file": "missing/C/128833-citymanager.json"
+    },
+    {
+      "igdb_id": 151382,
+      "game_name": "CityPunk",
+      "file": "missing/C/151382-citypunk.json"
     },
     {
       "igdb_id": 323411,
@@ -302037,6 +302132,11 @@
       "file": "missing/D/12044-demoniak.json"
     },
     {
+      "igdb_id": 151397,
+      "game_name": "Demonic Blade",
+      "file": "missing/D/151397-demonic-blade.json"
+    },
+    {
       "igdb_id": 192305,
       "game_name": "Demonic Bundle",
       "file": "missing/D/192305-demonic-bundle.json"
@@ -304695,6 +304795,11 @@
       "igdb_id": 95169,
       "game_name": "Desert of Vice",
       "file": "missing/D/95169-desert-of-vice.json"
+    },
+    {
+      "igdb_id": 151394,
+      "game_name": "Desert Parkour",
+      "file": "missing/D/151394-desert-parkour.json"
     },
     {
       "igdb_id": 275232,
@@ -321705,6 +321810,11 @@
       "igdb_id": 241498,
       "game_name": "DivineRPG",
       "file": "missing/D/241498-divinerpg.json"
+    },
+    {
+      "igdb_id": 151409,
+      "game_name": "Divinest Light",
+      "file": "missing/D/151409-divinest-light.json"
     },
     {
       "igdb_id": 184722,
@@ -356002,6 +356112,11 @@
       "file": "missing/D/96639-dungeons-of-the-dead.json"
     },
     {
+      "igdb_id": 151396,
+      "game_name": "Dungeons of the Deep",
+      "file": "missing/D/151396-dungeons-of-the-deep.json"
+    },
+    {
       "igdb_id": 105025,
       "game_name": "Dungeons of the Fallen",
       "file": "missing/D/105025-dungeons-of-the-fallen.json"
@@ -389115,6 +389230,11 @@
       "igdb_id": 217020,
       "game_name": "Evening Vibes",
       "file": "missing/E/217020-evening-vibes.json"
+    },
+    {
+      "igdb_id": 151405,
+      "game_name": "Evenness Sensory Space",
+      "file": "missing/E/151405-evenness-sensory-space.json"
     },
     {
       "igdb_id": 175116,
@@ -435857,6 +435977,11 @@
       "file": "missing/F/260602-flying-tank.json"
     },
     {
+      "igdb_id": 151402,
+      "game_name": "Flying Things",
+      "file": "missing/F/151402-flying-things.json"
+    },
+    {
       "igdb_id": 130873,
       "game_name": "Flying Tickets",
       "file": "missing/F/130873-flying-tickets.json"
@@ -446485,6 +446610,11 @@
       "igdb_id": 265588,
       "game_name": "Fractured Alliance",
       "file": "missing/F/265588-fractured-alliance.json"
+    },
+    {
+      "igdb_id": 151399,
+      "game_name": "Fractured Atmosphere",
+      "file": "missing/F/151399-fractured-atmosphere.json"
     },
     {
       "igdb_id": 352290,
@@ -510097,6 +510227,11 @@
       "file": "missing/G/395712-gurmple-champs.json"
     },
     {
+      "igdb_id": 151392,
+      "game_name": "Gurney to Gurney",
+      "file": "missing/G/151392-gurney-to-gurney.json"
+    },
+    {
       "igdb_id": 108971,
       "game_name": "Guro Dere",
       "file": "missing/G/108971-guro-dere.json"
@@ -573625,6 +573760,11 @@
       "igdb_id": 175115,
       "game_name": "ICoreBreach",
       "file": "missing/I/175115-icorebreach.json"
+    },
+    {
+      "igdb_id": 151388,
+      "game_name": "Icorp",
+      "file": "missing/I/151388-icorp.json"
     },
     {
       "igdb_id": 209391,
@@ -650332,6 +650472,11 @@
       "file": "missing/L/330670-landing.json"
     },
     {
+      "igdb_id": 151404,
+      "game_name": "Landing Confirmed",
+      "file": "missing/L/151404-landing-confirmed.json"
+    },
+    {
       "igdb_id": 209260,
       "game_name": "Landing Gear",
       "file": "missing/L/209260-landing-gear.json"
@@ -651360,6 +651505,11 @@
       "igdb_id": 15780,
       "game_name": "Larva Mortus",
       "file": "missing/L/15780-larva-mortus.json"
+    },
+    {
+      "igdb_id": 151387,
+      "game_name": "Las Aventuras de Chocu: El Videojuego",
+      "file": "missing/L/151387-las-aventuras-de-chocu-el-videojuego.json"
     },
     {
       "igdb_id": 317098,
@@ -665650,6 +665800,11 @@
       "igdb_id": 340866,
       "game_name": "Leyline Chronicles",
       "file": "missing/L/340866-leyline-chronicles.json"
+    },
+    {
+      "igdb_id": 151401,
+      "game_name": "Leyline Knights",
+      "file": "missing/L/151401-leyline-knights.json"
     },
     {
       "igdb_id": 29640,
@@ -688162,6 +688317,11 @@
       "file": "missing/L/26803-lucid-trips.json"
     },
     {
+      "igdb_id": 151384,
+      "game_name": "Lucid: Parables of the Ubermensch",
+      "file": "missing/L/151384-lucid-parables-of-the-ubermensch.json"
+    },
+    {
       "igdb_id": 80553,
       "game_name": "Lucid9: Inciting Incident",
       "file": "missing/L/80553-lucid9-inciting-incident.json"
@@ -695460,6 +695620,11 @@
       "igdb_id": 241277,
       "game_name": "Madgun",
       "file": "missing/M/241277-madgun.json"
+    },
+    {
+      "igdb_id": 151411,
+      "game_name": "MadGuns",
+      "file": "missing/M/151411-madguns.json"
     },
     {
       "igdb_id": 140449,
@@ -750585,6 +750750,11 @@
       "igdb_id": 177684,
       "game_name": "Minimal Freeman",
       "file": "missing/M/177684-minimal-freeman.json"
+    },
+    {
+      "igdb_id": 151389,
+      "game_name": "Minimal Maze",
+      "file": "missing/M/151389-minimal-maze.json"
     },
     {
       "igdb_id": 197772,
@@ -819082,6 +819252,11 @@
       "file": "missing/N/150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json"
     },
     {
+      "igdb_id": 151386,
+      "game_name": "Nobunaga's Ambition: Souzou - Power Up Kit",
+      "file": "missing/N/151386-nobunagas-ambition-souzou-power-up-kit.json"
+    },
+    {
       "igdb_id": 150674,
       "game_name": "Nobunaga's Ambition: Souzou - Shingenjouraku Scenario",
       "file": "missing/N/150674-nobunagas-ambition-souzou-shingenjouraku-scenario.json"
@@ -849035,6 +849210,11 @@
       "igdb_id": 359985,
       "game_name": "Out of Moves: Another Try",
       "file": "missing/O/359985-out-of-moves-another-try.json"
+    },
+    {
+      "igdb_id": 151398,
+      "game_name": "Out of Oblivion",
+      "file": "missing/O/151398-out-of-oblivion.json"
     },
     {
       "igdb_id": 192652,
@@ -922772,6 +922952,11 @@
       "file": "missing/P/275547-progress-chess.json"
     },
     {
+      "igdb_id": 151400,
+      "game_name": "Progress Game",
+      "file": "missing/P/151400-progress-game.json"
+    },
+    {
       "igdb_id": 177814,
       "game_name": "Progress Knight",
       "file": "missing/P/177814-progress-knight.json"
@@ -933800,6 +933985,11 @@
       "igdb_id": 343309,
       "game_name": "Putin Jigsaw",
       "file": "missing/P/343309-putin-jigsaw.json"
+    },
+    {
+      "igdb_id": 151375,
+      "game_name": "Putin kills: Christmas",
+      "file": "missing/P/151375-putin-kills-christmas.json"
     },
     {
       "igdb_id": 393108,
@@ -964162,6 +964352,11 @@
       "file": "missing/R/35461-regimental-chess.json"
     },
     {
+      "igdb_id": 151395,
+      "game_name": "Regiments",
+      "file": "missing/R/151395-regiments.json"
+    },
+    {
       "igdb_id": 270935,
       "game_name": "Regiments: Winds of Change",
       "file": "missing/R/270935-regiments-winds-of-change.json"
@@ -975470,6 +975665,11 @@
       "igdb_id": 143454,
       "game_name": "Rico London",
       "file": "missing/R/143454-rico-london.json"
+    },
+    {
+      "igdb_id": 151403,
+      "game_name": "Rico-Jump",
+      "file": "missing/R/151403-rico-jump.json"
     },
     {
       "igdb_id": 125184,
@@ -1060122,6 +1060322,11 @@
       "file": "missing/S/360759-slampunks.json"
     },
     {
+      "igdb_id": 151414,
+      "game_name": "Slams City. Hitler's Escape.",
+      "file": "missing/S/151414-slams-city-hitlers-escape.json"
+    },
+    {
       "igdb_id": 9742,
       "game_name": "Slamscape",
       "file": "missing/S/9742-slamscape.json"
@@ -1074435,6 +1074640,11 @@
       "igdb_id": 231236,
       "game_name": "Sol Cresta: Wing Galiber II",
       "file": "missing/S/231236-sol-cresta-wing-galiber-ii.json"
+    },
+    {
+      "igdb_id": 151407,
+      "game_name": "SOL Cycling",
+      "file": "missing/S/151407-sol-cycling.json"
     },
     {
       "igdb_id": 35026,
@@ -1095337,6 +1095547,11 @@
       "file": "missing/S/184132-spectrum-valley.json"
     },
     {
+      "igdb_id": 151381,
+      "game_name": "Spectrum VR",
+      "file": "missing/S/151381-spectrum-vr.json"
+    },
+    {
       "igdb_id": 35827,
       "game_name": "Spectrum: First Light",
       "file": "missing/S/35827-spectrum-first-light.json"
@@ -1099825,6 +1100040,11 @@
       "igdb_id": 408487,
       "game_name": "Spinning Image",
       "file": "missing/S/408487-spinning-image.json"
+    },
+    {
+      "igdb_id": 151393,
+      "game_name": "Spinning Kid",
+      "file": "missing/S/151393-spinning-kid.json"
     },
     {
       "igdb_id": 169572,
@@ -1131355,6 +1131575,11 @@
       "igdb_id": 126555,
       "game_name": "Subcube",
       "file": "missing/S/126555-subcube.json"
+    },
+    {
+      "igdb_id": 151410,
+      "game_name": "SubDivide",
+      "file": "missing/S/151410-subdivide.json"
     },
     {
       "igdb_id": 132770,
@@ -1164325,6 +1164550,11 @@
       "igdb_id": 94130,
       "game_name": "Table Soccer",
       "file": "missing/T/94130-table-soccer.json"
+    },
+    {
+      "igdb_id": 151413,
+      "game_name": "Table Soccer Club",
+      "file": "missing/T/151413-table-soccer-club.json"
     },
     {
       "igdb_id": 147953,
@@ -1252752,6 +1252982,11 @@
       "file": "missing/T/53796-thief-collection.json"
     },
     {
+      "igdb_id": 151378,
+      "game_name": "Thief Girls Quartet",
+      "file": "missing/T/151378-thief-girls-quartet.json"
+    },
+    {
       "igdb_id": 9227,
       "game_name": "Thief Gold",
       "file": "missing/T/9227-thief-gold.json"
@@ -1332680,6 +1332915,11 @@
       "igdb_id": 28264,
       "game_name": "Valhalla Hills: Definitive Edition",
       "file": "missing/V/28264-valhalla-hills-definitive-edition.json"
+    },
+    {
+      "igdb_id": 151390,
+      "game_name": "Valhalla Hills: Fire Mountains",
+      "file": "missing/V/151390-valhalla-hills-fire-mountains.json"
     },
     {
       "igdb_id": 171639,
@@ -1413457,6 +1413697,11 @@
       "file": "missing/Z/77787-zodiac.json"
     },
     {
+      "igdb_id": 151379,
+      "game_name": "Zodiac Angel",
+      "file": "missing/Z/151379-zodiac-angel.json"
+    },
+    {
       "igdb_id": 66437,
       "game_name": "Zodiac Axis",
       "file": "missing/Z/66437-zodiac-axis.json"
@@ -1418365,6 +1418610,11 @@
       "igdb_id": 195905,
       "game_name": "Zovid-19 Remake",
       "file": "missing/Z/195905-zovid-19-remake.json"
+    },
+    {
+      "igdb_id": 151383,
+      "game_name": "Zoxel",
+      "file": "missing/Z/151383-zoxel.json"
     },
     {
       "igdb_id": 204210,
