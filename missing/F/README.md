@@ -11637,6 +11637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugitif: Les Aventures de Jack Bludfield - Part 1 | 98918 | [98918-fugitif-les-aventures-de-jack-bludfield-part-1.json](./98918-fugitif-les-aventures-de-jack-bludfield-part-1.json) |
 | Fugitive | 249871 | [249871-fugitive.json](./249871-fugitive.json) |
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
+| Fugitive Criminal | 149794 | [149794-fugitive-criminal.json](./149794-fugitive-criminal.json) |
 | Fugitive Flight | 395835 | [395835-fugitive-flight.json](./395835-fugitive-flight.json) |
 | Fugitive Hunter | 24101 | [24101-fugitive-hunter.json](./24101-fugitive-hunter.json) |
 | Fugitive Shift | 183836 | [183836-fugitive-shift.json](./183836-fugitive-shift.json) |
