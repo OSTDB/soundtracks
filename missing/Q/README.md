@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake VR | 196018 | [196018-quake-vr.json](./196018-quake-vr.json) |
 | Quake: A Roman Wilderness of Pain | 196709 | [196709-quake-a-roman-wilderness-of-pain.json](./196709-quake-a-roman-wilderness-of-pain.json) |
 | Quake: A Verdant Dawn | 196450 | [196450-quake-a-verdant-dawn.json](./196450-quake-a-verdant-dawn.json) |
+| Quake: Abyss of Pandemonium | 165308 | [165308-quake-abyss-of-pandemonium.json](./165308-quake-abyss-of-pandemonium.json) |
 | Quake: Alkaline Jam | 196802 | [196802-quake-alkaline-jam.json](./196802-quake-alkaline-jam.json) |
 | Quake: Altars of Storm | 196460 | [196460-quake-altars-of-storm.json](./196460-quake-altars-of-storm.json) |
 | Quake: Arcade Tournament Edition | 405632 | [405632-quake-arcade-tournament-edition.json](./405632-quake-arcade-tournament-edition.json) |
