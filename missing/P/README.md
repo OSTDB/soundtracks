@@ -2987,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
 | PawnShop Simulator | 325525 | [325525-pawnshop-simulator.json](./325525-pawnshop-simulator.json) |
+| Pawnshop Tycoon | 128177 | [128177-pawnshop-tycoon.json](./128177-pawnshop-tycoon.json) |
 | Pawperty Damage | 238571 | [238571-pawperty-damage.json](./238571-pawperty-damage.json) |
 | Pawperty Damage: Free Character Skin Pack | 259679 | [259679-pawperty-damage-free-character-skin-pack.json](./259679-pawperty-damage-free-character-skin-pack.json) |
 | Pawprints Match | 359410 | [359410-pawprints-match.json](./359410-pawprints-match.json) |
@@ -3769,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentapuzzle | 85334 | [85334-pentapuzzle.json](./85334-pentapuzzle.json) |
 | Pentaquin: Deeds of Twilight | 158052 | [158052-pentaquin-deeds-of-twilight.json](./158052-pentaquin-deeds-of-twilight.json) |
 | Pentari: First Light | 72034 | [72034-pentari-first-light.json](./72034-pentari-first-light.json) |
+| Pentasma | 128183 | [128183-pentasma.json](./128183-pentasma.json) |
 | Pentavolt | 359077 | [359077-pentavolt.json](./359077-pentavolt.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
 | Pente Grammai | 384138 | [384138-pente-grammai.json](./384138-pente-grammai.json) |
