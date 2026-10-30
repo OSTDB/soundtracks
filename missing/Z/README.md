@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy Kids Racing | 246971 | [246971-ziggy-kids-racing.json](./246971-ziggy-kids-racing.json) |
 | Ziggy Putts | 58188 | [58188-ziggy-putts.json](./58188-ziggy-putts.json) |
 | Ziggy Road | 235136 | [235136-ziggy-road.json](./235136-ziggy-road.json) |
+| Ziggy the Chaser | 138410 | [138410-ziggy-the-chaser.json](./138410-ziggy-the-chaser.json) |
 | Ziggy Zaggy | 276120 | [276120-ziggy-zaggy.json](./276120-ziggy-zaggy.json) |
 | Ziggy's Chase | 27400 | [27400-ziggys-chase.json](./27400-ziggys-chase.json) |
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
@@ -1883,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
 | ZombMe | 343795 | [343795-zombme.json](./343795-zombme.json) |
 | Zombnami | 308921 | [308921-zombnami.json](./308921-zombnami.json) |
+| Zombo Buster Advance | 138393 | [138393-zombo-buster-advance.json](./138393-zombo-buster-advance.json) |
 | Zomboard | 336055 | [336055-zomboard.json](./336055-zomboard.json) |
 | Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
 | Zombocalypse | 345383 | [345383-zombocalypse.json](./345383-zombocalypse.json) |
