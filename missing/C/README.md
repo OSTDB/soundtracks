@@ -2133,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Master | 298367 | [298367-card-master.json](./298367-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
 | Card Monsters | 55828 | [55828-card-monsters.json](./55828-card-monsters.json) |
+| Card Nation | 141402 | [141402-card-nation.json](./141402-card-nation.json) |
 | Card Night at Gigi's | 407854 | [407854-card-night-at-gigis.json](./407854-card-night-at-gigis.json) |
 | Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
 | Card of Darkness | 122759 | [122759-card-of-darkness.json](./122759-card-of-darkness.json) |
@@ -7526,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Knight | 305315 | [305315-chrono-knight.json](./305315-chrono-knight.json) |
 | Chrono Ma:Gia | 86680 | [86680-chrono-ma-gia.json](./86680-chrono-ma-gia.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
+| Chrono Odyssey | 141444 | [141444-chrono-odyssey.json](./141444-chrono-odyssey.json) |
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
 | Chrono Project | 105146 | [105146-chrono-project.json](./105146-chrono-project.json) |
 | Chrono Quest | 14179 | [14179-chrono-quest.json](./14179-chrono-quest.json) |
@@ -15476,6 +15478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
 | Crimson Capes | 305969 | [305969-crimson-capes.json](./305969-crimson-capes.json) |
 | Crimson Colosseum | 133112 | [133112-crimson-colosseum.json](./133112-crimson-colosseum.json) |
+| Crimson Company | 141438 | [141438-crimson-company.json](./141438-crimson-company.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
 | Crimson Crime: Sniper Mission | 220163 | [220163-crimson-crime-sniper-mission.json](./220163-crimson-crime-sniper-mission.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
