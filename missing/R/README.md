@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Size Matters | 308039 | [308039-ratchet-and-clank-size-matters.json](./308039-ratchet-and-clank-size-matters.json) |
 | Ratchet & Clank: Special Limited Edition | 212322 | [212322-ratchet-and-clank-special-limited-edition.json](./212322-ratchet-and-clank-special-limited-edition.json) |
 | Ratchet: Deadlocked | 1790 | [1790-ratchet-deadlocked.json](./1790-ratchet-deadlocked.json) |
+| Ratcheteer | 151977 | [151977-ratcheteer.json](./151977-ratcheteer.json) |
 | Ratcheteer DX | 362332 | [362332-ratcheteer-dx.json](./362332-ratcheteer-dx.json) |
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | Ratdoodle Adventure | 381982 | [381982-ratdoodle-adventure.json](./381982-ratdoodle-adventure.json) |
@@ -2206,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Lum'o'Grams | 330064 | [330064-rayman-lumograms.json](./330064-rayman-lumograms.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
+| Rayman Raving Rabbids | 151927 | [151927-rayman-raving-rabbids.json](./151927-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 193362 | [193362-rayman-raving-rabbids.json](./193362-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 193363 | [193363-rayman-raving-rabbids.json](./193363-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 193366 | [193366-rayman-raving-rabbids.json](./193366-rayman-raving-rabbids.json) |
@@ -7006,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
 | Rise of Glory | 66422 | [66422-rise-of-glory.json](./66422-rise-of-glory.json) |
 | Rise of Gun | 243514 | [243514-rise-of-gun.json](./243514-rise-of-gun.json) |
+| Rise of Hegemony | 151947 | [151947-rise-of-hegemony.json](./151947-rise-of-hegemony.json) |
 | Rise of Heroes | 67671 | [67671-rise-of-heroes.json](./67671-rise-of-heroes.json) |
 | Rise of Immortals | 1053 | [1053-rise-of-immortals.json](./1053-rise-of-immortals.json) |
 | Rise of Immortals: Battle for Graxia | 2046 | [2046-rise-of-immortals-battle-for-graxia.json](./2046-rise-of-immortals-battle-for-graxia.json) |
@@ -9346,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
 | Rollers of the Realm | 16823 | [16823-rollers-of-the-realm.json](./16823-rollers-of-the-realm.json) |
+| Rollers of the Realm: Reunion | 151943 | [151943-rollers-of-the-realm-reunion.json](./151943-rollers-of-the-realm-reunion.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rollie Panda Hat Edition | 105672 | [105672-rollie-panda-hat-edition.json](./105672-rollie-panda-hat-edition.json) |
@@ -9459,6 +9463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Roma VR: Domus | 191037 | [191037-roma-vr-domus.json](./191037-roma-vr-domus.json) |
 | Romace | 297572 | [297572-romace.json](./297572-romace.json) |
+| RomaHeta | 151952 | [151952-romaheta.json](./151952-romaheta.json) |
 | Roman Adventures - Britons. Season 2 | 126914 | [126914-roman-adventures-britons-season-2.json](./126914-roman-adventures-britons-season-2.json) |
 | Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
 | Roman Empire | 13752 | [13752-roman-empire.json](./13752-roman-empire.json) |
