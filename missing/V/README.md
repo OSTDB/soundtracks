@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectors | 172042 | [172042-vectors.json](./172042-vectors.json) |
 | VectorWave | 38804 | [38804-vectorwave.json](./38804-vectorwave.json) |
 | Vectrace | 46507 | [46507-vectrace.json](./46507-vectrace.json) |
+| Vectradius | 143315 | [143315-vectradius.json](./143315-vectradius.json) |
 | Vectrexagon | 46518 | [46518-vectrexagon.json](./46518-vectrexagon.json) |
 | Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
@@ -1210,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vending Mayhem | 276737 | [276737-vending-mayhem.json](./276737-vending-mayhem.json) |
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
 | Vendrán las aves | 329630 | [329630-vendran-las-aves.json](./329630-vendran-las-aves.json) |
+| Veneficium | 144539 | [144539-veneficium.json](./144539-veneficium.json) |
 | Veneficium: A witch's tale | 169903 | [169903-veneficium-a-witchs-tale.json](./169903-veneficium-a-witchs-tale.json) |
 | Venera 31 | 399257 | [399257-venera-31.json](./399257-venera-31.json) |
 | Venetian Blinds | 40748 | [40748-venetian-blinds.json](./40748-venetian-blinds.json) |
