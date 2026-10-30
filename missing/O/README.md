@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One in a Thousand: Clover Book | 417358 | [417358-one-in-a-thousand-clover-book.json](./417358-one-in-a-thousand-clover-book.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
 | One in the Back | 370247 | [370247-one-in-the-back.json](./370247-one-in-the-back.json) |
+| One Incident In A Small Town | 126216 | [126216-one-incident-in-a-small-town.json](./126216-one-incident-in-a-small-town.json) |
 | One Jump Bomb | 108234 | [108234-one-jump-bomb.json](./108234-one-jump-bomb.json) |
 | One Just Night | 278487 | [278487-one-just-night.json](./278487-one-just-night.json) |
 | One King Is Enough | 348581 | [348581-one-king-is-enough.json](./348581-one-king-is-enough.json) |
@@ -4391,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Hero! Two | 169611 | [169611-our-hero-two.json](./169611-our-hero-two.json) |
 | Our Home | 207806 | [207806-our-home.json](./207806-our-home.json) |
 | Our Home | 357732 | [357732-our-home.json](./357732-our-home.json) |
+| Our Homeland | 126235 | [126235-our-homeland.json](./126235-our-homeland.json) |
 | Our House | 120011 | [120011-our-house.json](./120011-our-house.json) |
 | Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
 | Our Journey | 279267 | [279267-our-journey.json](./279267-our-journey.json) |
