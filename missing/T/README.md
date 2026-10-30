@@ -5556,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 2: Deluxe Edition | 51708 | [51708-the-banner-saga-2-deluxe-edition.json](./51708-the-banner-saga-2-deluxe-edition.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
+| The Banner Saga 3: Deluxe Edition | 154211 | [154211-the-banner-saga-3-deluxe-edition.json](./154211-the-banner-saga-3-deluxe-edition.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
 | The Banner Saga Complete Pack | 51954 | [51954-the-banner-saga-complete-pack.json](./51954-the-banner-saga-complete-pack.json) |
 | The Banner Saga Trilogy | 109108 | [109108-the-banner-saga-trilogy.json](./109108-the-banner-saga-trilogy.json) |
@@ -8215,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
 | The Faked | 373756 | [373756-the-faked.json](./373756-the-faked.json) |
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
+| The Falconeer: Deluxe Edition | 154187 | [154187-the-falconeer-deluxe-edition.json](./154187-the-falconeer-deluxe-edition.json) |
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Falconeer: Revolution Remaster | 121709 | [121709-the-falconeer-revolution-remaster.json](./121709-the-falconeer-revolution-remaster.json) |
 | The Falconeer: The Hunter | 148243 | [148243-the-falconeer-the-hunter.json](./148243-the-falconeer-the-hunter.json) |
@@ -8520,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First Project | 144584 | [144584-the-first-project.json](./144584-the-first-project.json) |
+| The First Samurai + The Second Samurai Bundle | 154183 | [154183-the-first-samurai-the-second-samurai-bundle.json](./154183-the-first-samurai-the-second-samurai-bundle.json) |
 | The First Settlement VR | 311550 | [311550-the-first-settlement-vr.json](./311550-the-first-settlement-vr.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
@@ -20749,6 +20752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless: The Forgotten Town - Collector's Edition | 30066 | [30066-timeless-the-forgotten-town-collectors-edition.json](./30066-timeless-the-forgotten-town-collectors-edition.json) |
 | Timeless: The Lost Castle | 74248 | [74248-timeless-the-lost-castle.json](./74248-timeless-the-lost-castle.json) |
 | Timelie: Game of the Year Edition | 169192 | [169192-timelie-game-of-the-year-edition.json](./169192-timelie-game-of-the-year-edition.json) |
+| Timelie: Hell Loop | 154185 | [154185-timelie-hell-loop.json](./154185-timelie-hell-loop.json) |
 | Timeline | 197554 | [197554-timeline.json](./197554-timeline.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
