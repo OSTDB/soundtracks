@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
 | People's Tactics | 69556 | [69556-peoples-tactics.json](./69556-peoples-tactics.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
+| Peopledown | 168057 | [168057-peopledown.json](./168057-peopledown.json) |
 | Peoplemon | 140920 | [140920-peoplemon.json](./140920-peoplemon.json) |
 | PeoplePackages | 74939 | [74939-peoplepackages.json](./74939-peoplepackages.json) |
 | Peopletale Online | 176790 | [176790-peopletale-online.json](./176790-peopletale-online.json) |
@@ -5165,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physics Balls | 101107 | [101107-physics-balls.json](./101107-physics-balls.json) |
 | Physics Overdrive | 252935 | [252935-physics-overdrive.json](./252935-physics-overdrive.json) |
 | Physics Playground | 372071 | [372071-physics-playground.json](./372071-physics-playground.json) |
+| Physics Sandbox VR | 168047 | [168047-physics-sandbox-vr.json](./168047-physics-sandbox-vr.json) |
 | Physics World | 158144 | [158144-physics-world.json](./158144-physics-world.json) |
 | Physics World: Evolution | 373306 | [373306-physics-world-evolution.json](./373306-physics-world-evolution.json) |
 | Physics! Fun | 297236 | [297236-physics-fun.json](./297236-physics-fun.json) |
@@ -12229,6 +12231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerstation 17 | 337433 | [337433-powerstation-17.json](./337433-powerstation-17.json) |
 | Powerstation 64 | 273249 | [273249-powerstation-64.json](./273249-powerstation-64.json) |
 | PowersVR | 29540 | [29540-powersvr.json](./29540-powersvr.json) |
+| Powertrip | 167998 | [167998-powertrip.json](./167998-powertrip.json) |
 | Powertris | 147136 | [147136-powertris.json](./147136-powertris.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
 | PowerUp Elevation | 106318 | [106318-powerup-elevation.json](./106318-powerup-elevation.json) |
