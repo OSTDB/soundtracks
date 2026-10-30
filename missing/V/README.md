@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vehicle No. 4 | 364835 | [364835-vehicle-no-4.json](./364835-vehicle-no-4.json) |
 | Vehicle Simulator | 34243 | [34243-vehicle-simulator.json](./34243-vehicle-simulator.json) |
 | Vehicle VR | 38731 | [38731-vehicle-vr.json](./38731-vehicle-vr.json) |
+| Vehicle! Vehicle! Vehicle!!! | 135442 | [135442-vehicle-vehicle-vehicle.json](./135442-vehicle-vehicle-vehicle.json) |
 | VehiCraft | 116047 | [116047-vehicraft.json](./116047-vehicraft.json) |
 | Vehicular Rampage | 219520 | [219520-vehicular-rampage.json](./219520-vehicular-rampage.json) |
 | Veigues Tactical Gladiator | 37733 | [37733-veigues-tactical-gladiator.json](./37733-veigues-tactical-gladiator.json) |
