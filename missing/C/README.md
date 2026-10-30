@@ -3202,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
 | Castle of the Red Prince | 186632 | [186632-castle-of-the-red-prince.json](./186632-castle-of-the-red-prince.json) |
+| Castle of the Underdogs | 129370 | [129370-castle-of-the-underdogs.json](./129370-castle-of-the-underdogs.json) |
 | Castle of the Underdogs | 245987 | [245987-castle-of-the-underdogs.json](./245987-castle-of-the-underdogs.json) |
 | Castle of the Winds | 14446 | [14446-castle-of-the-winds.json](./14446-castle-of-the-winds.json) |
 | Castle of the Winds 2 | 14447 | [14447-castle-of-the-winds-2.json](./14447-castle-of-the-winds-2.json) |
@@ -8763,6 +8764,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic British Motor Racing | 4766 | [4766-classic-british-motor-racing.json](./4766-classic-british-motor-racing.json) |
 | Classic Car Racing | 27469 | [27469-classic-car-racing.json](./27469-classic-car-racing.json) |
 | Classic Car Simulator Car Driving | 277356 | [277356-classic-car-simulator-car-driving.json](./277356-classic-car-simulator-car-driving.json) |
+| Classic Card Game Canasta | 129373 | [129373-classic-card-game-canasta.json](./129373-classic-card-game-canasta.json) |
+| Classic Card Game Euchre | 129374 | [129374-classic-card-game-euchre.json](./129374-classic-card-game-euchre.json) |
+| Classic Card Game Gin Rummy | 129375 | [129375-classic-card-game-gin-rummy.json](./129375-classic-card-game-gin-rummy.json) |
+| Classic Card Game Hearts | 129377 | [129377-classic-card-game-hearts.json](./129377-classic-card-game-hearts.json) |
+| Classic Card Game Old Maid | 129360 | [129360-classic-card-game-old-maid.json](./129360-classic-card-game-old-maid.json) |
+| Classic Card Game Pinochle | 129376 | [129376-classic-card-game-pinochle.json](./129376-classic-card-game-pinochle.json) |
 | Classic Card Game Spades | 129439 | [129439-classic-card-game-spades.json](./129439-classic-card-game-spades.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
 | Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
@@ -9197,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
+| Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
 | Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
 | Cliff Johnson's Labyrinth of Crete | 55831 | [55831-cliff-johnsons-labyrinth-of-crete.json](./55831-cliff-johnsons-labyrinth-of-crete.json) |
 | Cliff Kingdom | 401152 | [401152-cliff-kingdom.json](./401152-cliff-kingdom.json) |
@@ -9754,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
+| Clutchball | 129409 | [129409-clutchball.json](./129409-clutchball.json) |
 | Clutter 1000 | 149844 | [149844-clutter-1000.json](./149844-clutter-1000.json) |
 | Clutter 12: It's About Time - Collector's Edition | 195433 | [195433-clutter-12-its-about-time-collectors-edition.json](./195433-clutter-12-its-about-time-collectors-edition.json) |
 | Clutter 14 | 322436 | [322436-clutter-14.json](./322436-clutter-14.json) |
@@ -11361,6 +11370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
 | Come on Picot | 47559 | [47559-come-on-picot.json](./47559-come-on-picot.json) |
 | Come on Up | 182161 | [182161-come-on-up.json](./182161-come-on-up.json) |
+| Come on-be with you | 129386 | [129386-come-on-be-with-you.json](./129386-come-on-be-with-you.json) |
 | Come on,Fantasy baby! | 325730 | [325730-come-on-fantasy-baby.json](./325730-come-on-fantasy-baby.json) |
 | Come On! | 246275 | [246275-come-on.json](./246275-come-on.json) |
 | Come Out Guys | 389680 | [389680-come-out-guys.json](./389680-come-out-guys.json) |
@@ -13766,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
 | Counter Delta: The Bullet Rain | 192065 | [192065-counter-delta-the-bullet-rain.json](./192065-counter-delta-the-bullet-rain.json) |
 | Counter Fight | 30643 | [30643-counter-fight.json](./30643-counter-fight.json) |
+| Counter Fight 4 | 129385 | [129385-counter-fight-4.json](./129385-counter-fight-4.json) |
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
 | Counter Force | 393042 | [393042-counter-force.json](./393042-counter-force.json) |
 | Counter Force | 4773 | [4773-counter-force.json](./4773-counter-force.json) |
@@ -17672,6 +17683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: Twisted Tower | 247419 | [247419-cursed-fables-twisted-tower.json](./247419-cursed-fables-twisted-tower.json) |
 | Cursed Fables: Twisted Tower - Collector's Edition | 236203 | [236203-cursed-fables-twisted-tower-collectors-edition.json](./236203-cursed-fables-twisted-tower-collectors-edition.json) |
 | Cursed Frontier | 374572 | [374572-cursed-frontier.json](./374572-cursed-frontier.json) |
+| Cursed Gem | 129411 | [129411-cursed-gem.json](./129411-cursed-gem.json) |
 | Cursed Ghost | 389918 | [389918-cursed-ghost.json](./389918-cursed-ghost.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
 | Cursed Halls | 244217 | [244217-cursed-halls.json](./244217-cursed-halls.json) |
