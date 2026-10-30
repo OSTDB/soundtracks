@@ -6488,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All I Do Is Dream | 57519 | [57519-all-i-do-is-dream.json](./57519-all-i-do-is-dream.json) |
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
 | All I Want for Christmas Collection | 218378 | [218378-all-i-want-for-christmas-collection.json](./218378-all-i-want-for-christmas-collection.json) |
+| All I Want is For All My Friends to Become Insanely Powerful | 128778 | [128778-all-i-want-is-for-all-my-friends-to-become-insanely-powerful.json](./128778-all-i-want-is-for-all-my-friends-to-become-insanely-powerful.json) |
 | All I Want to Do is Dance! | 214369 | [214369-all-i-want-to-do-is-dance.json](./214369-all-i-want-to-do-is-dance.json) |
 | All I Wanted Was a Bouncy Ball | 177197 | [177197-all-i-wanted-was-a-bouncy-ball.json](./177197-all-i-wanted-was-a-bouncy-ball.json) |
 | All Idleness and Ephemera | 248783 | [248783-all-idleness-and-ephemera.json](./248783-all-idleness-and-ephemera.json) |
@@ -7175,6 +7176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
 | Alyssa's Unlikely Trap | 278630 | [278630-alyssas-unlikely-trap.json](./278630-alyssas-unlikely-trap.json) |
 | Alyup | 406344 | [406344-alyup.json](./406344-alyup.json) |
+| ALZ | 128789 | [128789-alz.json](./128789-alz.json) |
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
 | Alzheimer's: Memories | 160230 | [160230-alzheimers-memories.json](./160230-alzheimers-memories.json) |
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
@@ -10507,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
 | App Driver + John The Zombie | 328571 | [328571-app-driver-john-the-zombie.json](./328571-app-driver-john-the-zombie.json) |
 | App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
+| App Escape | 128810 | [128810-app-escape.json](./128810-app-escape.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
 | Apparatus | 204796 | [204796-apparatus.json](./204796-apparatus.json) |
@@ -15381,6 +15384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | Augmentors | 112252 | [112252-augmentors.json](./112252-augmentors.json) |
+| Augur | 128811 | [128811-augur.json](./128811-augur.json) |
 | Augur & Haruspex | 183377 | [183377-augur-and-haruspex.json](./183377-augur-and-haruspex.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
 | Augury | 211081 | [211081-augury.json](./211081-augury.json) |
