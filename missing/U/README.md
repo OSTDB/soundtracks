@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uh-Oh! | 223950 | [223950-uh-oh.json](./223950-uh-oh.json) |
 | Uh? | 419847 | [419847-uh.json](./419847-uh.json) |
 | Uhilant | 337294 | [337294-uhilant.json](./337294-uhilant.json) |
+| UHR-Warlords | 175526 | [175526-uhr-warlords.json](./175526-uhr-warlords.json) |
 | UIFO Defense HD | 128026 | [128026-uifo-defense-hd.json](./128026-uifo-defense-hd.json) |
 | UIM | 261711 | [261711-uim.json](./261711-uim.json) |
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
