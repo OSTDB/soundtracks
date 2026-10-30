@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Creatures | 114528 | [114528-fantastic-creatures.json](./114528-fantastic-creatures.json) |
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
 | Fantastic Dream | 254917 | [254917-fantastic-dream.json](./254917-fantastic-dream.json) |
+| Fantastic Farm | 146507 | [146507-fantastic-farm.json](./146507-fantastic-farm.json) |
 | Fantastic Farm | 359286 | [359286-fantastic-farm.json](./359286-fantastic-farm.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
 | Fantastic Findings Hidden Seasons | 342827 | [342827-fantastic-findings-hidden-seasons.json](./342827-fantastic-findings-hidden-seasons.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy to Kill | 423305 | [423305-fantasy-to-kill.json](./423305-fantasy-to-kill.json) |
 | Fantasy Toonz: Embers of Creation | 167356 | [167356-fantasy-toonz-embers-of-creation.json](./167356-fantasy-toonz-embers-of-creation.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
+| Fantasy Tower Defense | 147671 | [147671-fantasy-tower-defense.json](./147671-fantasy-tower-defense.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
 | Fantasy Tower Defense | 357834 | [357834-fantasy-tower-defense.json](./357834-fantasy-tower-defense.json) |
 | Fantasy Tower Defense Ultimate | 289764 | [289764-fantasy-tower-defense-ultimate.json](./289764-fantasy-tower-defense-ultimate.json) |
@@ -2336,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Together: Wedding Pack | 223576 | [223576-farm-together-wedding-pack.json](./223576-farm-together-wedding-pack.json) |
 | Farm Town | 62237 | [62237-farm-town.json](./62237-farm-town.json) |
 | Farm Tribe | 32783 | [32783-farm-tribe.json](./32783-farm-tribe.json) |
+| Farm Tribe: Dragon Island | 146484 | [146484-farm-tribe-dragon-island.json](./146484-farm-tribe-dragon-island.json) |
 | Farm Under Fire | 199377 | [199377-farm-under-fire.json](./199377-farm-under-fire.json) |
 | Farm Up | 87693 | [87693-farm-up.json](./87693-farm-up.json) |
 | Farm Vet | 357386 | [357386-farm-vet.json](./357386-farm-vet.json) |
@@ -2367,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Against Potatoes Idle | 199507 | [199507-farmer-against-potatoes-idle.json](./199507-farmer-against-potatoes-idle.json) |
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
 | Farmer Bundle | 271840 | [271840-farmer-bundle.json](./271840-farmer-bundle.json) |
+| Farmer Crates | 146566 | [146566-farmer-crates.json](./146566-farmer-crates.json) |
 | Farmer Drift! | 246430 | [246430-farmer-drift.json](./246430-farmer-drift.json) |
 | Farmer Fran: Running Out of Sunlight! | 185012 | [185012-farmer-fran-running-out-of-sunlight.json](./185012-farmer-fran-running-out-of-sunlight.json) |
 | Farmer Life Simulator | 152707 | [152707-farmer-life-simulator.json](./152707-farmer-life-simulator.json) |
@@ -4571,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X-2: Last Mission | 247245 | [247245-final-fantasy-x-2-last-mission.json](./247245-final-fantasy-x-2-last-mission.json) |
 | Final Fantasy X: Fantasy War | 266285 | [266285-final-fantasy-x-fantasy-war.json](./266285-final-fantasy-x-fantasy-war.json) |
 | Final Fantasy X/X-2 HD Remaster | 14144 | [14144-final-fantasy-x-x-2-hd-remaster.json](./14144-final-fantasy-x-x-2-hd-remaster.json) |
+| Final Fantasy X/X-2 HD Remaster Twin Pack | 147011 | [147011-final-fantasy-x-x-2-hd-remaster-twin-pack.json](./147011-final-fantasy-x-x-2-hd-remaster-twin-pack.json) |
 | Final Fantasy X/X-2 HD Remaster: Collector's Edition | 147086 | [147086-final-fantasy-x-x-2-hd-remaster-collectors-edition.json](./147086-final-fantasy-x-x-2-hd-remaster-collectors-edition.json) |
 | Final Fantasy X/X-2 HD Remaster: Limited Edition | 41836 | [41836-final-fantasy-x-x-2-hd-remaster-limited-edition.json](./41836-final-fantasy-x-x-2-hd-remaster-limited-edition.json) |
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
@@ -5161,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finto | 419640 | [419640-finto.json](./419640-finto.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
 | Fio: Figure It Out! | 186584 | [186584-fio-figure-it-out.json](./186584-fio-figure-it-out.json) |
+| Fiona Finch and the Finest Flowers | 146491 | [146491-fiona-finch-and-the-finest-flowers.json](./146491-fiona-finch-and-the-finest-flowers.json) |
 | Fiona's Dream of Atlantis | 294228 | [294228-fionas-dream-of-atlantis.json](./294228-fionas-dream-of-atlantis.json) |
 | Fionna Fights: Adventure Time | 61138 | [61138-fionna-fights-adventure-time.json](./61138-fionna-fights-adventure-time.json) |
 | Fiora | 363686 | [363686-fiora.json](./363686-fiora.json) |
@@ -5904,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing for Numbers | 374417 | [374417-fishing-for-numbers.json](./374417-fishing-for-numbers.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
 | Fishing Frenzy | 173437 | [173437-fishing-frenzy.json](./173437-fishing-frenzy.json) |
+| Fishing Frenzy! | 146494 | [146494-fishing-frenzy.json](./146494-fishing-frenzy.json) |
 | Fishing Game | 213550 | [213550-fishing-game.json](./213550-fishing-game.json) |
 | Fishing Girl | 67078 | [67078-fishing-girl.json](./67078-fishing-girl.json) |
 | Fishing Grind | 319285 | [319285-fishing-grind.json](./319285-fishing-grind.json) |
@@ -6438,6 +6445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix-It Felix Jr. | 250928 | [250928-fix-it-felix-jr.json](./250928-fix-it-felix-jr.json) |
 | Fix-It Felix Jr. | 39486 | [39486-fix-it-felix-jr.json](./39486-fix-it-felix-jr.json) |
 | Fix-It Felix Sr. | 304541 | [304541-fix-it-felix-sr.json](./304541-fix-it-felix-sr.json) |
+| Fix-it-up: Kate's Adventure | 146476 | [146476-fix-it-up-kates-adventure.json](./146476-fix-it-up-kates-adventure.json) |
 | Fixat! | 129774 | [129774-fixat.json](./129774-fixat.json) |
 | Fixation | 316811 | [316811-fixation.json](./316811-fixation.json) |
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
@@ -7674,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
 | Fly Swatter | 359725 | [359725-fly-swatter.json](./359725-fly-swatter.json) |
 | Fly Tales | 211630 | [211630-fly-tales.json](./211630-fly-tales.json) |
+| Fly the Bird | 147673 | [147673-fly-the-bird.json](./147673-fly-the-bird.json) |
 | Fly the Cloud | 151137 | [151137-fly-the-cloud.json](./151137-fly-the-cloud.json) |
 | Fly the Plane | 105430 | [105430-fly-the-plane.json](./105430-fly-the-plane.json) |
 | Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
@@ -8906,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Spirit | 327923 | [327923-forgotten-spirit.json](./327923-forgotten-spirit.json) |
+| Forgotten Spirits | 147024 | [147024-forgotten-spirits.json](./147024-forgotten-spirits.json) |
 | Forgotten Symphony | 266420 | [266420-forgotten-symphony.json](./266420-forgotten-symphony.json) |
 | Forgotten Tales | 318150 | [318150-forgotten-tales.json](./318150-forgotten-tales.json) |
 | Forgotten Tales RPG | 318149 | [318149-forgotten-tales-rpg.json](./318149-forgotten-tales-rpg.json) |
@@ -10728,6 +10738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendlyWare P.C. Arcade | 70091 | [70091-friendlyware-p-c-arcade.json](./70091-friendlyware-p-c-arcade.json) |
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
 | Friends | 397611 | [397611-friends.json](./397611-friends.json) |
+| Friends & Dragons | 146504 | [146504-friends-and-dragons.json](./146504-friends-and-dragons.json) |
 | Friends & Foes | 333991 | [333991-friends-and-foes.json](./333991-friends-and-foes.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
@@ -11116,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
 | From Scratch | 230746 | [230746-from-scratch.json](./230746-from-scratch.json) |
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
+| From Shadows | 147675 | [147675-from-shadows.json](./147675-from-shadows.json) |
 | From Shadows | 29680 | [29680-from-shadows.json](./29680-from-shadows.json) |
 | From Space: Mission Pack - Concrete Jungle | 271920 | [271920-from-space-mission-pack-concrete-jungle.json](./271920-from-space-mission-pack-concrete-jungle.json) |
 | From Space: Mission Pack - Molten Iron | 271919 | [271919-from-space-mission-pack-molten-iron.json](./271919-from-space-mission-pack-molten-iron.json) |
