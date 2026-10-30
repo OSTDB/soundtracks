@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Your Nightmares | 271156 | [271156-watch-your-nightmares.json](./271156-watch-your-nightmares.json) |
 | Watch Your Plastic Duck | 218659 | [218659-watch-your-plastic-duck.json](./218659-watch-your-plastic-duck.json) |
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
+| Watch&Run | 150386 | [150386-watch-and-run.json](./150386-watch-and-run.json) |
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
 | Watcher | 280155 | [280155-watcher.json](./280155-watcher.json) |
 | Watcher Chronicles | 161547 | [161547-watcher-chronicles.json](./161547-watcher-chronicles.json) |
@@ -5427,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Sadness Simulator | 366953 | [366953-winter-sadness-simulator.json](./366953-winter-sadness-simulator.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
 | Winter Ski Park: Snow Driver | 96611 | [96611-winter-ski-park-snow-driver.json](./96611-winter-ski-park-snow-driver.json) |
+| Winter Sleigh | 150349 | [150349-winter-sleigh.json](./150349-winter-sleigh.json) |
 | Winter Solitaire | 115525 | [115525-winter-solitaire.json](./115525-winter-solitaire.json) |
 | Winter Sports 2010: The Great Tournament | 21089 | [21089-winter-sports-2010-the-great-tournament.json](./21089-winter-sports-2010-the-great-tournament.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
