@@ -6260,6 +6260,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Show | 381674 | [381674-shadows-show.json](./381674-shadows-show.json) |
 | Shadows Unveiled: Agnes | 293145 | [293145-shadows-unveiled-agnes.json](./293145-shadows-unveiled-agnes.json) |
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
+| Shadows: Awakening - Necrophage's Curse | 155327 | [155327-shadows-awakening-necrophages-curse.json](./155327-shadows-awakening-necrophages-curse.json) |
+| Shadows: Awakening - The Chromaton Chronicles | 155328 | [155328-shadows-awakening-the-chromaton-chronicles.json](./155328-shadows-awakening-the-chromaton-chronicles.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | ShadowSide | 81194 | [81194-shadowside.json](./81194-shadowside.json) |
 | Shadowspear Knight’s Quest | 248431 | [248431-shadowspear-knight-s-quest.json](./248431-shadowspear-knight-s-quest.json) |
