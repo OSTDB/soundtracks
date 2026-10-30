@@ -4628,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
 | Seiya Monogatari: Anearth Fantasy Stories | 65978 | [65978-seiya-monogatari-anearth-fantasy-stories.json](./65978-seiya-monogatari-anearth-fantasy-stories.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
+| Seiyuu Danshi! | 133039 | [133039-seiyuu-danshi.json](./133039-seiyuu-danshi.json) |
 | Seiyuu Danshi!: After Stories | 224471 | [224471-seiyuu-danshi-after-stories.json](./224471-seiyuu-danshi-after-stories.json) |
 | Seize Halloween Knight | 233186 | [233186-seize-halloween-knight.json](./233186-seize-halloween-knight.json) |
 | Seize the Cheese | 386875 | [386875-seize-the-cheese.json](./386875-seize-the-cheese.json) |
@@ -23988,6 +23989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
+| Stickman BMX | 133031 | [133031-stickman-bmx.json](./133031-stickman-bmx.json) |
 | Stickman Browser | 296404 | [296404-stickman-browser.json](./296404-stickman-browser.json) |
 | Stickman Clans | 145200 | [145200-stickman-clans.json](./145200-stickman-clans.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
@@ -27119,6 +27121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunlit | 229593 | [229593-sunlit.json](./229593-sunlit.json) |
 | Sunlit Trail: Complete Edition | 410674 | [410674-sunlit-trail-complete-edition.json](./410674-sunlit-trail-complete-edition.json) |
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
+| Sunlust | 132998 | [132998-sunlust.json](./132998-sunlust.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunny Beach Dolls | 418836 | [418836-sunny-beach-dolls.json](./418836-sunny-beach-dolls.json) |
@@ -30617,6 +30620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Academy | 223379 | [223379-survival-academy.json](./223379-survival-academy.json) |
 | Survival Advanced | 280089 | [280089-survival-advanced.json](./280089-survival-advanced.json) |
 | Survival Adventures Collection | 332487 | [332487-survival-adventures-collection.json](./332487-survival-adventures-collection.json) |
+| Survival Africa | 133009 | [133009-survival-africa.json](./133009-survival-africa.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
 | Survival and Rise: Being Alive | 335202 | [335202-survival-and-rise-being-alive.json](./335202-survival-and-rise-being-alive.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
