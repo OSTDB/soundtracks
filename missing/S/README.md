@@ -17577,6 +17577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30791,6 +30792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
 | Survivania | 307233 | [307233-survivania.json](./307233-survivania.json) |
+| Survive | 126202 | [126202-survive.json](./126202-survive.json) |
 | Survive | 193436 | [193436-survive.json](./193436-survive.json) |
 | Survive | 52256 | [52256-survive.json](./52256-survive.json) |
 | Survive | 79821 | [79821-survive.json](./79821-survive.json) |
