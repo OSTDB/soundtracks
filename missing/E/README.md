@@ -5919,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
 | Euroscope | 123260 | [123260-euroscope.json](./123260-euroscope.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
+| Eutergeläuter | 125653 | [125653-eutergelauter.json](./125653-eutergelauter.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
 | EV Station Simulator | 326434 | [326434-ev-station-simulator.json](./326434-ev-station-simulator.json) |
 | Ev.io | 142732 | [142732-ev-io.json](./142732-ev-io.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
 | Everwayne | 295617 | [295617-everwayne.json](./295617-everwayne.json) |
 | Everweave | 341397 | [341397-everweave.json](./341397-everweave.json) |
+| Everwild | 125623 | [125623-everwild.json](./125623-everwild.json) |
 | Everwind | 342138 | [342138-everwind.json](./342138-everwind.json) |
 | EverWing | 56924 | [56924-everwing.json](./56924-everwing.json) |
 | EverWorld | 163774 | [163774-everworld.json](./163774-everworld.json) |
