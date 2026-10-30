@@ -8506,6 +8506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Descendant: Season 3 | 347660 | [347660-the-first-descendant-season-3.json](./347660-the-first-descendant-season-3.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
 | The First Explorers | 263100 | [263100-the-first-explorers.json](./263100-the-first-explorers.json) |
+| The First Friend | 156854 | [156854-the-first-friend.json](./156854-the-first-friend.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
 | The First Greek Odyssey | 175843 | [175843-the-first-greek-odyssey.json](./175843-the-first-greek-odyssey.json) |
 | The First Island | 176200 | [176200-the-first-island.json](./176200-the-first-island.json) |
@@ -8756,6 +8757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fright Before Christmas | 202560 | [202560-the-fright-before-christmas.json](./202560-the-fright-before-christmas.json) |
 | The Frightening Nightmare of Little Eddy | 184996 | [184996-the-frightening-nightmare-of-little-eddy.json](./184996-the-frightening-nightmare-of-little-eddy.json) |
 | The Frog Festival | 382987 | [382987-the-frog-festival.json](./382987-the-frog-festival.json) |
+| The Frog Game | 156823 | [156823-the-frog-game.json](./156823-the-frog-game.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
 | The Frog Prince | 149224 | [149224-the-frog-prince.json](./149224-the-frog-prince.json) |
 | The Frog That Leapt Too Far | 381667 | [381667-the-frog-that-leapt-too-far.json](./381667-the-frog-that-leapt-too-far.json) |
@@ -9796,6 +9798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
 | The Icarus Effect | 363927 | [363927-the-icarus-effect.json](./363927-the-icarus-effect.json) |
 | The Icarus Experiment | 317307 | [317307-the-icarus-experiment.json](./317307-the-icarus-experiment.json) |
+| The Ice Caves | 156822 | [156822-the-ice-caves.json](./156822-the-ice-caves.json) |
 | The Ice Cream Culprit | 309164 | [309164-the-ice-cream-culprit.json](./309164-the-ice-cream-culprit.json) |
 | The Ice Cream Shop | 374923 | [374923-the-ice-cream-shop.json](./374923-the-ice-cream-shop.json) |
 | The Ice-Bound Concordance | 15181 | [15181-the-ice-bound-concordance.json](./15181-the-ice-bound-concordance.json) |
@@ -10716,6 +10719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Earth Man | 166951 | [166951-the-last-earth-man.json](./166951-the-last-earth-man.json) |
 | The Last Element | 385288 | [385288-the-last-element.json](./385288-the-last-element.json) |
+| The Last Element: Looking For Tomorrow | 156818 | [156818-the-last-element-looking-for-tomorrow.json](./156818-the-last-element-looking-for-tomorrow.json) |
 | The Last Elf | 414786 | [414786-the-last-elf.json](./414786-the-last-elf.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
 | The Last Error | 32855 | [32855-the-last-error.json](./32855-the-last-error.json) |
@@ -23263,6 +23267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
 | Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
+| Total Dark | 156834 | [156834-total-dark.json](./156834-total-dark.json) |
 | Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
 | Total Distortion | 13787 | [13787-total-distortion.json](./13787-total-distortion.json) |
 | Total Domination | 194782 | [194782-total-domination.json](./194782-total-domination.json) |
@@ -25097,12 +25102,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2020: Canadian National Oakville Subdivision - Hamilton: Oakville Route | 156871 | [156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json](./156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json) |
 | Train Sim World 2020: East Coastway - Brighton: Eastbourne & Seaford Route | 156873 | [156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json](./156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json) |
 | Train Sim World 2020: Hauptstrecke Rhein-Ruhr - Duisburg: Bochum Route | 156868 | [156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json](./156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json) |
+| Train Sim World 2020: Long Island Rail Road - New York: Hicksville Route | 156862 | [156862-train-sim-world-2020-long-island-rail-road-new-york-hicksville-route.json](./156862-train-sim-world-2020-long-island-rail-road-new-york-hicksville-route.json) |
 | Train Sim World 2020: Main Spessart Bahn - Aschaffenburg: Gemünden Route | 156867 | [156867-train-sim-world-2020-main-spessart-bahn-aschaffenburg-gemunden-route.json](./156867-train-sim-world-2020-main-spessart-bahn-aschaffenburg-gemunden-route.json) |
 | Train Sim World 2020: Northeast Corridor New York | 156866 | [156866-train-sim-world-2020-northeast-corridor-new-york.json](./156866-train-sim-world-2020-northeast-corridor-new-york.json) |
 | Train Sim World 2020: Northern Trans-Pennine - Manchester: Leeds Route | 156865 | [156865-train-sim-world-2020-northern-trans-pennine-manchester-leeds-route.json](./156865-train-sim-world-2020-northern-trans-pennine-manchester-leeds-route.json) |
 | Train Sim World 2020: Peninsula Corridor - San Francisco: San Jose Route | 156870 | [156870-train-sim-world-2020-peninsula-corridor-san-francisco-san-jose-route.json](./156870-train-sim-world-2020-peninsula-corridor-san-francisco-san-jose-route.json) |
 | Train Sim World 2020: Rapid Transit | 156864 | [156864-train-sim-world-2020-rapid-transit.json](./156864-train-sim-world-2020-rapid-transit.json) |
 | Train Sim World 2020: Rhein-Ruhr Osten - Wuppertal: Hagen Route | 156863 | [156863-train-sim-world-2020-rhein-ruhr-osten-wuppertal-hagen-route.json](./156863-train-sim-world-2020-rhein-ruhr-osten-wuppertal-hagen-route.json) |
+| Train Sim World 2020: Ruhr-Sieg Nord - Hagen: Finnentrop Route | 156861 | [156861-train-sim-world-2020-ruhr-sieg-nord-hagen-finnentrop-route.json](./156861-train-sim-world-2020-ruhr-sieg-nord-hagen-finnentrop-route.json) |
 | Train Sim World 2020: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route | 156869 | [156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json](./156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json) |
 | Train Sim World 2020: West Somerset Railway Route | 156872 | [156872-train-sim-world-2020-west-somerset-railway-route.json](./156872-train-sim-world-2020-west-somerset-railway-route.json) |
 | Train Sim World 3 | 213113 | [213113-train-sim-world-3.json](./213113-train-sim-world-3.json) |
@@ -26574,6 +26581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitors in the Hood | 258081 | [258081-traitors-in-the-hood.json](./258081-traitors-in-the-hood.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
 | Trajectory | 29471 | [29471-trajectory.json](./29471-trajectory.json) |
+| Trajectory Fracture | 156827 | [156827-trajectory-fracture.json](./156827-trajectory-fracture.json) |
 | Trajectory of summer flower Ⅱ | 289922 | [289922-trajectory-of-summer-flower-ii.json](./289922-trajectory-of-summer-flower-ii.json) |
 | Trajes Fatais Minimal | 176844 | [176844-trajes-fatais-minimal.json](./176844-trajes-fatais-minimal.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
