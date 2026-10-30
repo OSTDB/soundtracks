@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
 | Tales From Aturian: Battle of Cleaved Fields | 278367 | [278367-tales-from-aturian-battle-of-cleaved-fields.json](./278367-tales-from-aturian-battle-of-cleaved-fields.json) |
 | Tales from Candleforth | 226609 | [226609-tales-from-candleforth.json](./226609-tales-from-candleforth.json) |
+| Tales from Candlekeep: Qawasha the Human Druid | 174513 | [174513-tales-from-candlekeep-qawasha-the-human-druid.json](./174513-tales-from-candlekeep-qawasha-the-human-druid.json) |
 | Tales from Candlekeep: Tomb of Annihilation | 55805 | [55805-tales-from-candlekeep-tomb-of-annihilation.json](./55805-tales-from-candlekeep-tomb-of-annihilation.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
 | Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
@@ -4810,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The A-Team | 418886 | [418886-the-a-team.json](./418886-the-a-team.json) |
 | The A.Typical RPG | 125185 | [125185-the-a-typical-rpg.json](./125185-the-a-typical-rpg.json) |
 | The A500 Mini | 275245 | [275245-the-a500-mini.json](./275245-the-a500-mini.json) |
+| The Abandoned | 174471 | [174471-the-abandoned.json](./174471-the-abandoned.json) |
 | The Abandoned Factory | 276396 | [276396-the-abandoned-factory.json](./276396-the-abandoned-factory.json) |
 | The Abandoned House | 321441 | [321441-the-abandoned-house.json](./321441-the-abandoned-house.json) |
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
@@ -7353,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Depths: Prehistoric Survival | 166724 | [166724-the-depths-prehistoric-survival.json](./166724-the-depths-prehistoric-survival.json) |
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
+| The Descendant: Rest of Season | 174510 | [174510-the-descendant-rest-of-season.json](./174510-the-descendant-rest-of-season.json) |
 | The Descent | 212890 | [212890-the-descent.json](./212890-the-descent.json) |
 | The Descent | 231521 | [231521-the-descent.json](./231521-the-descent.json) |
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
@@ -9351,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The hardest game in the universe 2: New DLC | 290009 | [290009-the-hardest-game-in-the-universe-2-new-dlc.json](./290009-the-hardest-game-in-the-universe-2-new-dlc.json) |
 | The Hardest Game in the Universe: DLC 3 | 306069 | [306069-the-hardest-game-in-the-universe-dlc-3.json](./306069-the-hardest-game-in-the-universe-dlc-3.json) |
 | The Hardest Game in the Universe: Kangel | 170905 | [170905-the-hardest-game-in-the-universe-kangel.json](./170905-the-hardest-game-in-the-universe-kangel.json) |
+| The Hardest Game in the Universe: Super Douglinhas | 174516 | [174516-the-hardest-game-in-the-universe-super-douglinhas.json](./174516-the-hardest-game-in-the-universe-super-douglinhas.json) |
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
 | The Hardest Thing | 81911 | [81911-the-hardest-thing.json](./81911-the-hardest-thing.json) |
 | The Hardy Boys: The Hidden Theft | 4903 | [4903-the-hardy-boys-the-hidden-theft.json](./4903-the-hardy-boys-the-hidden-theft.json) |
@@ -13180,6 +13184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The People's Sky | 408256 | [408256-the-peoples-sky.json](./408256-the-peoples-sky.json) |
 | The People's Tree 2021 | 394783 | [394783-the-peoples-tree-2021.json](./394783-the-peoples-tree-2021.json) |
 | The Pepper Prince: Episode 1 - Red Hot Chili Wedding | 113532 | [113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json](./113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json) |
+| The Pepper Prince: Episode 2 - The Sadness | 174493 | [174493-the-pepper-prince-episode-2-the-sadness.json](./174493-the-pepper-prince-episode-2-the-sadness.json) |
 | The Pepper Prince: Episode 3 - Into Thin Air | 302136 | [302136-the-pepper-prince-episode-3-into-thin-air.json](./302136-the-pepper-prince-episode-3-into-thin-air.json) |
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
@@ -22534,6 +22539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Stewart's All-American Racing: The Dirt Track at Charlotte | 169917 | [169917-tony-stewarts-all-american-racing-the-dirt-track-at-charlotte.json](./169917-tony-stewarts-all-american-racing-the-dirt-track-at-charlotte.json) |
 | Tony Stewart's All-American Racing: The Dirt Track at Las Vegas Motor Speedway | 169918 | [169918-tony-stewarts-all-american-racing-the-dirt-track-at-las-vegas-motor-speedway.json](./169918-tony-stewarts-all-american-racing-the-dirt-track-at-las-vegas-motor-speedway.json) |
 | Tony Stewart's Sprint Car Racing | 129734 | [129734-tony-stewarts-sprint-car-racing.json](./129734-tony-stewarts-sprint-car-racing.json) |
+| Tony Stewart's Sprint Car Racing: Knoxville Raceway | 174497 | [174497-tony-stewarts-sprint-car-racing-knoxville-raceway.json](./174497-tony-stewarts-sprint-car-racing-knoxville-raceway.json) |
 | Tony the Mole | 363012 | [363012-tony-the-mole.json](./363012-tony-the-mole.json) |
 | Tony Tough 2: A Rake's Progress | 69904 | [69904-tony-tough-2-a-rakes-progress.json](./69904-tony-tough-2-a-rakes-progress.json) |
 | Tony Tough and the Night of Roasted Moths | 10792 | [10792-tony-tough-and-the-night-of-roasted-moths.json](./10792-tony-tough-and-the-night-of-roasted-moths.json) |
@@ -28771,6 +28777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Kart Racer | 416554 | [416554-turbo-kart-racer.json](./416554-turbo-kart-racer.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
+| Turbo League | 174522 | [174522-turbo-league.json](./174522-turbo-league.json) |
 | Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
 | Turbo Learning: Mega Math | 148128 | [148128-turbo-learning-mega-math.json](./148128-turbo-learning-mega-math.json) |
 | Turbo Light Rush | 207707 | [207707-turbo-light-rush.json](./207707-turbo-light-rush.json) |
