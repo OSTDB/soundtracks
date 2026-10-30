@@ -12259,6 +12259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
 | The Medium: Cloud Version | 255226 | [255226-the-medium-cloud-version.json](./255226-the-medium-cloud-version.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
+| The Medium: Two Worlds Special Edition | 153643 | [153643-the-medium-two-worlds-special-edition.json](./153643-the-medium-two-worlds-special-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Mega FMV Bundle | 243800 | [243800-the-mega-fmv-bundle.json](./243800-the-mega-fmv-bundle.json) |
 | The Meldstorm | 129002 | [129002-the-meldstorm.json](./129002-the-meldstorm.json) |
@@ -12490,6 +12491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Morgue: Hospital Escape | 177286 | [177286-the-morgue-hospital-escape.json](./177286-the-morgue-hospital-escape.json) |
 | The Morlov Affair | 78895 | [78895-the-morlov-affair.json](./78895-the-morlov-affair.json) |
 | The Morning Adventure | 49711 | [49711-the-morning-adventure.json](./49711-the-morning-adventure.json) |
+| The Morning Star | 153672 | [153672-the-morning-star.json](./153672-the-morning-star.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
@@ -17632,6 +17634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
 | Thermo Nuclear War Games | 63749 | [63749-thermo-nuclear-war-games.json](./63749-thermo-nuclear-war-games.json) |
 | Thermo Puzzle | 194381 | [194381-thermo-puzzle.json](./194381-thermo-puzzle.json) |
+| Thermo Sudoku | 153687 | [153687-thermo-sudoku.json](./153687-thermo-sudoku.json) |
 | Thermonuclear | 167363 | [167363-thermonuclear.json](./167363-thermonuclear.json) |
 | Thermopylae: The Last Stand | 417556 | [417556-thermopylae-the-last-stand.json](./417556-thermopylae-the-last-stand.json) |
 | Thesaurus | 326659 | [326659-thesaurus.json](./326659-thesaurus.json) |
@@ -26673,6 +26676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
 | Transcender Starship | 118767 | [118767-transcender-starship.json](./118767-transcender-starship.json) |
 | Transcending the Rainbow | 388562 | [388562-transcending-the-rainbow.json](./388562-transcending-the-rainbow.json) |
+| TranscendPang | 153632 | [153632-transcendpang.json](./153632-transcendpang.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transcriptions of Time | 413818 | [413818-transcriptions-of-time.json](./413818-transcriptions-of-time.json) |
 | Transfer | 182769 | [182769-transfer.json](./182769-transfer.json) |
