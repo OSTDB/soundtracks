@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivious Garden: Carmina Burana | 17850 | [17850-oblivious-garden-carmina-burana.json](./17850-oblivious-garden-carmina-burana.json) |
 | Oblivious Garden: Carmina Burana - Oblivious Garden: White Day | 171914 | [171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json](./171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json) |
 | Oblivistar | 264674 | [264674-oblivistar.json](./264674-oblivistar.json) |
+| Oblivity: Find your perfect Sensitivity | 171743 | [171743-oblivity-find-your-perfect-sensitivity.json](./171743-oblivity-find-your-perfect-sensitivity.json) |
 | Oblivium | 375318 | [375318-oblivium.json](./375318-oblivium.json) |
 | Obliviverse: Idle Adventures | 216675 | [216675-obliviverse-idle-adventures.json](./216675-obliviverse-idle-adventures.json) |
 | Obludia | 17657 | [17657-obludia.json](./17657-obludia.json) |
@@ -1632,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni-Play Horse Racing | 73642 | [73642-omni-play-horse-racing.json](./73642-omni-play-horse-racing.json) |
 | Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
+| Omniblast | 171745 | [171745-omniblast.json](./171745-omniblast.json) |
 | Omnibus | 19871 | [19871-omnibus.json](./19871-omnibus.json) |
 | OmniBus: Game of the Year Edition | 51862 | [51862-omnibus-game-of-the-year-edition.json](./51862-omnibus-game-of-the-year-edition.json) |
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
@@ -1842,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
 | On the Wind's Breath | 247864 | [247864-on-the-winds-breath.json](./247864-on-the-winds-breath.json) |
 | On the Wings: Birth of a Hero | 199585 | [199585-on-the-wings-birth-of-a-hero.json](./199585-on-the-wings-birth-of-a-hero.json) |
+| On the Wire | 171739 | [171739-on-the-wire.json](./171739-on-the-wire.json) |
 | On Thy Knees | 393483 | [393483-on-thy-knees.json](./393483-on-thy-knees.json) |
 | On Track | 292509 | [292509-on-track.json](./292509-on-track.json) |
 | On Tuesday, Trevor Found His Shovel | 267553 | [267553-on-tuesday-trevor-found-his-shovel.json](./267553-on-tuesday-trevor-found-his-shovel.json) |
