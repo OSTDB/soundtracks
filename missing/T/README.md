@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Sword | 240728 | [240728-tap-sword.json](./240728-tap-sword.json) |
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
 | Tap Tap Arcade | 58901 | [58901-tap-tap-arcade.json](./58901-tap-tap-arcade.json) |
+| Tap Tap Beer: Tavern Edition | 173985 | [173985-tap-tap-beer-tavern-edition.json](./173985-tap-tap-beer-tavern-edition.json) |
 | Tap Tap Blocks | 27647 | [27647-tap-tap-blocks.json](./27647-tap-tap-blocks.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
 | Tap tap cartoonist - Cartoon999 | 95824 | [95824-tap-tap-cartoonist-cartoon999.json](./95824-tap-tap-cartoonist-cartoon999.json) |
@@ -9926,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infinity Road | 341160 | [341160-the-infinity-road.json](./341160-the-infinity-road.json) |
 | The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
 | The Infirmity | 267428 | [267428-the-infirmity.json](./267428-the-infirmity.json) |
+| The Informant Chronicles: Chronicle 1 - Riverside Danger Part 1 | 173948 | [173948-the-informant-chronicles-chronicle-1-riverside-danger-part-1.json](./173948-the-informant-chronicles-chronicle-1-riverside-danger-part-1.json) |
 | The Inheritance | 281364 | [281364-the-inheritance.json](./281364-the-inheritance.json) |
 | The Inheritance of Crimson Manor | 149163 | [149163-the-inheritance-of-crimson-manor.json](./149163-the-inheritance-of-crimson-manor.json) |
 | The Inheritance of Crimson Manor: Victorian Edition | 324776 | [324776-the-inheritance-of-crimson-manor-victorian-edition.json](./324776-the-inheritance-of-crimson-manor-victorian-edition.json) |
@@ -10481,6 +10483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Korean War | 59308 | [59308-the-korean-war.json](./59308-the-korean-war.json) |
 | The Koshan Conspiracy | 69926 | [69926-the-koshan-conspiracy.json](./69926-the-koshan-conspiracy.json) |
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
+| The Kotonoha Sisters and the Legend of Lysant Island | 173998 | [173998-the-kotonoha-sisters-and-the-legend-of-lysant-island.json](./173998-the-kotonoha-sisters-and-the-legend-of-lysant-island.json) |
 | The Kraken Wakes | 213425 | [213425-the-kraken-wakes.json](./213425-the-kraken-wakes.json) |
 | The Krampus | 289995 | [289995-the-krampus.json](./289995-the-krampus.json) |
 | The Krampus Game | 381965 | [381965-the-krampus-game.json](./381965-the-krampus-game.json) |
@@ -15721,6 +15724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thor Trilogy | 71967 | [71967-the-thor-trilogy.json](./71967-the-thor-trilogy.json) |
 | The Thorn of Warldia | 190886 | [190886-the-thorn-of-warldia.json](./190886-the-thorn-of-warldia.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
+| The Thought Police Hotline: Episode 1 | 173991 | [173991-the-thought-police-hotline-episode-1.json](./173991-the-thought-police-hotline-episode-1.json) |
 | The Thought Saved for Last | 63539 | [63539-the-thought-saved-for-last.json](./63539-the-thought-saved-for-last.json) |
 | The Thread of Fate | 335383 | [335383-the-thread-of-fate.json](./335383-the-thread-of-fate.json) |
 | The Threat of North | 112157 | [112157-the-threat-of-north.json](./112157-the-threat-of-north.json) |
@@ -20446,6 +20450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time To Wake Up | 356259 | [356259-time-to-wake-up.json](./356259-time-to-wake-up.json) |
 | Time Transit VR | 113727 | [113727-time-transit-vr.json](./113727-time-transit-vr.json) |
+| Time Trap 2: Search and Find Objects Game - Hidden Pictures | 173978 | [173978-time-trap-2-search-and-find-objects-game-hidden-pictures.json](./173978-time-trap-2-search-and-find-objects-game-hidden-pictures.json) |
 | Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
 | Time Trap: Hidden Objects | 51978 | [51978-time-trap-hidden-objects.json](./51978-time-trap-hidden-objects.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
@@ -23618,6 +23623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
 | Touhou Misfortune Mirror's Tale | 335060 | [335060-touhou-misfortune-mirrors-tale.json](./335060-touhou-misfortune-mirrors-tale.json) |
 | Touhou Mix | 193870 | [193870-touhou-mix.json](./193870-touhou-mix.json) |
+| Touhou Money Stocks Shops | 173987 | [173987-touhou-money-stocks-shops.json](./173987-touhou-money-stocks-shops.json) |
 | Touhou Monjusen: Bubbling Imaginary Treasures | 321034 | [321034-touhou-monjusen-bubbling-imaginary-treasures.json](./321034-touhou-monjusen-bubbling-imaginary-treasures.json) |
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
 | Touhou Monster TD: Nagae Iku | 192155 | [192155-touhou-monster-td-nagae-iku.json](./192155-touhou-monster-td-nagae-iku.json) |
