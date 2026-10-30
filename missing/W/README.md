@@ -3490,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's in the Picture: Animals | 23983 | [23983-whats-in-the-picture-animals.json](./23983-whats-in-the-picture-animals.json) |
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
 | What's it? Flags | 241194 | [241194-whats-it-flags.json](./241194-whats-it-flags.json) |
+| What's Left | 126209 | [126209-whats-left.json](./126209-whats-left.json) |
 | What's left of Rave Rough | 316468 | [316468-whats-left-of-rave-rough.json](./316468-whats-left-of-rave-rough.json) |
 | What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
 | What's Missing? | 204981 | [204981-whats-missing.json](./204981-whats-missing.json) |
@@ -3952,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
 | Whimsical Quest | 111421 | [111421-whimsical-quest.json](./111421-whimsical-quest.json) |
+| Whimsy | 126214 | [126214-whimsy.json](./126214-whimsy.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whimsy Koi | 384307 | [384307-whimsy-koi.json](./384307-whimsy-koi.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
@@ -5721,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunters: Stolen Beauty | 140211 | [140211-witch-hunters-stolen-beauty.json](./140211-witch-hunters-stolen-beauty.json) |
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
+| Witch Loraine's Death Game | 126215 | [126215-witch-loraines-death-game.json](./126215-witch-loraines-death-game.json) |
 | Witch Machine | 398023 | [398023-witch-machine.json](./398023-witch-machine.json) |
 | Witch Machine: Spilled Vessel | 398025 | [398025-witch-machine-spilled-vessel.json](./398025-witch-machine-spilled-vessel.json) |
 | Witch Maker | 334321 | [334321-witch-maker.json](./334321-witch-maker.json) |
@@ -5917,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Way | 253807 | [253807-withering-way.json](./253807-withering-way.json) |
 | Withers | 166570 | [166570-withers.json](./166570-withers.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
+| Within | 126195 | [126195-within.json](./126195-within.json) |
 | Within | 240050 | [240050-within.json](./240050-within.json) |
 | Within | 377145 | [377145-within.json](./377145-within.json) |
 | Within | 391217 | [391217-within.json](./391217-within.json) |
@@ -6197,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WMS Slots: Zeus II | 53114 | [53114-wms-slots-zeus-ii.json](./53114-wms-slots-zeus-ii.json) |
 | WN | 74455 | [74455-wn.json](./74455-wn.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
+| Wǒ de Shòu'ěr Hòugōng: Xùzhāng | 126234 | [126234-wo-de-shouer-hougong-xuzhang.json](./126234-wo-de-shouer-hougong-xuzhang.json) |
 | Wǒ de Tǎnkè Wǒ de Tuán | 369854 | [369854-wo-de-tanke-wo-de-tuan.json](./369854-wo-de-tanke-wo-de-tuan.json) |
 | Wo Long 2: Wings of Ember | 405070 | [405070-wo-long-2-wings-of-ember.json](./405070-wo-long-2-wings-of-ember.json) |
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
