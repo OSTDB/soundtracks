@@ -3740,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fido Dido | 93010 | [93010-fido-dido.json](./93010-fido-dido.json) |
 | FIE Swordplay | 152225 | [152225-fie-swordplay.json](./152225-fie-swordplay.json) |
 | Fief Lord | 348986 | [348986-fief-lord.json](./348986-fief-lord.json) |
+| Fief: the Medieval Manor Simulation | 176624 | [176624-fief-the-medieval-manor-simulation.json](./176624-fief-the-medieval-manor-simulation.json) |
 | Fiefdom | 329623 | [329623-fiefdom.json](./329623-fiefdom.json) |
 | Field | 203183 | [203183-field.json](./203183-field.json) |
 | Field & Stream - Trophy Hunting | 115759 | [115759-field-and-stream-trophy-hunting.json](./115759-field-and-stream-trophy-hunting.json) |
@@ -6238,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
 | Five Nights at Freddy's: Blood & Gears | 331177 | [331177-five-nights-at-freddys-blood-and-gears.json](./331177-five-nights-at-freddys-blood-and-gears.json) |
+| Five Nights At Freddy's: Guard Vs Guard | 176667 | [176667-five-nights-at-freddys-guard-vs-guard.json](./176667-five-nights-at-freddys-guard-vs-guard.json) |
 | Five Nights at Freddy's: Help Wanted | 241473 | [241473-five-nights-at-freddys-help-wanted.json](./241473-five-nights-at-freddys-help-wanted.json) |
 | Five Nights at Freddy's: Help Wanted - Bundle | 240281 | [240281-five-nights-at-freddys-help-wanted-bundle.json](./240281-five-nights-at-freddys-help-wanted-bundle.json) |
 | Five Nights at Freddy's: Help Wanted - Curse of Dreadbear | 169108 | [169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json](./169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json) |
