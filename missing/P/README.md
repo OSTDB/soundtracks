@@ -6934,6 +6934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pistol Cat | 404895 | [404895-pistol-cat.json](./404895-pistol-cat.json) |
 | Pistol Daimyo no Bouken | 40089 | [40089-pistol-daimyo-no-bouken.json](./40089-pistol-daimyo-no-bouken.json) |
+| Pistol Master! | 155841 | [155841-pistol-master.json](./155841-pistol-master.json) |
 | Pistol shooting: Realistic gun simulator | 164074 | [164074-pistol-shooting-realistic-gun-simulator.json](./164074-pistol-shooting-realistic-gun-simulator.json) |
 | Pistol Whip | 119341 | [119341-pistol-whip.json](./119341-pistol-whip.json) |
 | Pistola | 202750 | [202750-pistola.json](./202750-pistola.json) |
@@ -8338,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planeta Dollynho | 181570 | [181570-planeta-dollynho.json](./181570-planeta-dollynho.json) |
 | Planetarian | 44468 | [44468-planetarian.json](./44468-planetarian.json) |
 | Planetarian HD | 28685 | [28685-planetarian-hd.json](./28685-planetarian-hd.json) |
+| Planetarian: Snow Globe | 155835 | [155835-planetarian-snow-globe.json](./155835-planetarian-snow-globe.json) |
 | Planetarian: The Reverie of a Little Planet & Snow Globe | 303870 | [303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json](./303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
 | PlanetariumVR | 372220 | [372220-planetariumvr.json](./372220-planetariumvr.json) |
@@ -8966,6 +8968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasurepunk: Drug Dealer | 202193 | [202193-pleasurepunk-drug-dealer.json](./202193-pleasurepunk-drug-dealer.json) |
 | Plebby Quest: The Promised Land | 174132 | [174132-plebby-quest-the-promised-land.json](./174132-plebby-quest-the-promised-land.json) |
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
+| Plecos Keep | 155911 | [155911-plecos-keep.json](./155911-plecos-keep.json) |
 | Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
 | Pleiads | 40009 | [40009-pleiads.json](./40009-pleiads.json) |
 | Pleim | 202500 | [202500-pleim.json](./202500-pleim.json) |
@@ -10511,6 +10514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
+| Pokoh | 155914 | [155914-pokoh.json](./155914-pokoh.json) |
 | Pokon Factory Survival | 150936 | [150936-pokon-factory-survival.json](./150936-pokon-factory-survival.json) |
 | Pokonyan! Balloon | 140850 | [140850-pokonyan-balloon.json](./140850-pokonyan-balloon.json) |
 | Pokonyan! Henpokorin Adventure | 135497 | [135497-pokonyan-henpokorin-adventure.json](./135497-pokonyan-henpokorin-adventure.json) |
@@ -15088,6 +15092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Eclipse: Reload | 257766 | [257766-psychic-eclipse-reload.json](./257766-psychic-eclipse-reload.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
+| Psychic Guardian Super Splendor | 155834 | [155834-psychic-guardian-super-splendor.json](./155834-psychic-guardian-super-splendor.json) |
 | Psychic Idle | 281288 | [281288-psychic-idle.json](./281288-psychic-idle.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Kung Fu Master | 392086 | [392086-psychic-kung-fu-master.json](./392086-psychic-kung-fu-master.json) |
