@@ -4467,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kogaion | 410646 | [410646-kogaion.json](./410646-kogaion.json) |
 | Koganei-sou to Konjiki no Agehachou | 394580 | [394580-koganei-sou-to-konjiki-no-agehachou.json](./394580-koganei-sou-to-konjiki-no-agehachou.json) |
 | Kogarashi | 204173 | [204173-kogarashi.json](./204173-kogarashi.json) |
+| Kogasa's Lunar Fright Mission | 134848 | [134848-kogasas-lunar-fright-mission.json](./134848-kogasas-lunar-fright-mission.json) |
 | Kogent Defender | 102916 | [102916-kogent-defender.json](./102916-kogent-defender.json) |
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
 | Kogi | 209824 | [209824-kogi.json](./209824-kogi.json) |
