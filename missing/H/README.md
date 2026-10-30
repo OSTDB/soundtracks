@@ -5171,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Mages | 197632 | [197632-hero-mages.json](./197632-hero-mages.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
 | Hero Masters | 104812 | [104812-hero-masters.json](./104812-hero-masters.json) |
+| Hero Mission | 173412 | [173412-hero-mission.json](./173412-hero-mission.json) |
 | Hero Must Die | 60035 | [60035-hero-must-die.json](./60035-hero-must-die.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero Nexus | 216032 | [216032-hero-nexus.json](./216032-hero-nexus.json) |
@@ -7831,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Lemmings | 92819 | [92819-holiday-lemmings.json](./92819-holiday-lemmings.json) |
 | Holiday Maker | 74396 | [74396-holiday-maker.json](./74396-holiday-maker.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
+| Holiday Mosaics: Halloween Puzzles | 173439 | [173439-holiday-mosaics-halloween-puzzles.json](./173439-holiday-mosaics-halloween-puzzles.json) |
 | Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Holiday Rush | 146586 | [146586-holiday-rush.json](./146586-holiday-rush.json) |
@@ -8537,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hontou ni Atta Real Otogi-banashi | 251611 | [251611-hontou-ni-atta-real-otogi-banashi.json](./251611-hontou-ni-atta-real-otogi-banashi.json) |
 | Hontou no Negaigoto | 413744 | [413744-hontou-no-negaigoto.json](./413744-hontou-no-negaigoto.json) |
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
+| Honya Monogatari | 173415 | [173415-honya-monogatari.json](./173415-honya-monogatari.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
 | Hood Ninja | 321932 | [321932-hood-ninja.json](./321932-hood-ninja.json) |
 | Hood RPG | 326099 | [326099-hood-rpg.json](./326099-hood-rpg.json) |
