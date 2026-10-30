@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sashimi Slayer | 395795 | [395795-sashimi-slayer.json](./395795-sashimi-slayer.json) |
 | Sashinomi Suika-chan | 396558 | [396558-sashinomi-suika-chan.json](./396558-sashinomi-suika-chan.json) |
 | Sasquatch Loves Soup | 179564 | [179564-sasquatch-loves-soup.json](./179564-sasquatch-loves-soup.json) |
+| Sasquatchers | 151978 | [151978-sasquatchers.json](./151978-sasquatchers.json) |
 | Sass vs. Fash: Girlballs of Steel | 165311 | [165311-sass-vs-fash-girlballs-of-steel.json](./165311-sass-vs-fash-girlballs-of-steel.json) |
 | Sassa'Shoom | 421812 | [421812-sassashoom.json](./421812-sassashoom.json) |
 | Sassy Cybergirl | 255269 | [255269-sassy-cybergirl.json](./255269-sassy-cybergirl.json) |
@@ -13107,6 +13108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snailshell | 386352 | [386352-snailshell.json](./386352-snailshell.json) |
 | SnailShock Grand Supreme Tournament | 338413 | [338413-snailshock-grand-supreme-tournament.json](./338413-snailshock-grand-supreme-tournament.json) |
 | Snaip of Doomsday | 412902 | [412902-snaip-of-doomsday.json](./412902-snaip-of-doomsday.json) |
+| Snak | 151979 | [151979-snak.json](./151979-snak.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake | 125831 | [125831-snake.json](./125831-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
@@ -18916,6 +18918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellchain | 181672 | [181672-spellchain.json](./181672-spellchain.json) |
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
+| Spellcorked! | 151980 | [151980-spellcorked.json](./151980-spellcorked.json) |
 | Spellcraft | 209279 | [209279-spellcraft.json](./209279-spellcraft.json) |
 | Spellcrafter | 17690 | [17690-spellcrafter.json](./17690-spellcrafter.json) |
 | Spellcrafter: The Path of Magic | 200298 | [200298-spellcrafter-the-path-of-magic.json](./200298-spellcrafter-the-path-of-magic.json) |
@@ -30818,6 +30821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suto Mani: Strobe Mania | 222637 | [222637-suto-mani-strobe-mania.json](./222637-suto-mani-strobe-mania.json) |
 | Sutobasu Yarou Shou | 42426 | [42426-sutobasu-yarou-shou.json](./42426-sutobasu-yarou-shou.json) |
 | Sutopuri Nurie | 193783 | [193783-sutopuri-nurie.json](./193783-sutopuri-nurie.json) |
+| Sutte Hakkun | 151967 | [151967-sutte-hakkun.json](./151967-sutte-hakkun.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Sutte Hakkun GB | 142903 | [142903-sutte-hakkun-gb.json](./142903-sutte-hakkun-gb.json) |
