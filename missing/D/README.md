@@ -5010,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defect Process | 173029 | [173029-defect-process.json](./173029-defect-process.json) |
 | Defective | 343738 | [343738-defective.json](./343738-defective.json) |
 | Defective | 55730 | [55730-defective.json](./55730-defective.json) |
+| Defective Holiday | 133630 | [133630-defective-holiday.json](./133630-defective-holiday.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence Mission | 246324 | [246324-defence-mission.json](./246324-defence-mission.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
