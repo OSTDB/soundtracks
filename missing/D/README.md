@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancin' Divas | 203961 | [203961-dancin-divas.json](./203961-dancin-divas.json) |
 | Dancing | 246458 | [246458-dancing.json](./246458-dancing.json) |
 | Dancing Angel | 160007 | [160007-dancing-angel.json](./160007-dancing-angel.json) |
+| Dancing Arrow: Beat Smash | 127541 | [127541-dancing-arrow-beat-smash.json](./127541-dancing-arrow-beat-smash.json) |
 | Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
@@ -9618,6 +9619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
 | Disparate Realities | 222621 | [222621-disparate-realities.json](./222621-disparate-realities.json) |
 | Disparity | 68495 | [68495-disparity.json](./68495-disparity.json) |
+| Dispatch | 127531 | [127531-dispatch.json](./127531-dispatch.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
 | Dispatch Madness | 289262 | [289262-dispatch-madness.json](./289262-dispatch-madness.json) |
 | Dispatched | 415504 | [415504-dispatched.json](./415504-dispatched.json) |
@@ -14834,6 +14836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Master 2026 Simulator: Driving Sim | 401384 | [401384-drift-master-2026-simulator-driving-sim.json](./401384-drift-master-2026-simulator-driving-sim.json) |
 | Drift Master Simulator | 315922 | [315922-drift-master-simulator.json](./315922-drift-master-simulator.json) |
 | Drift Master Simulator 2024: Rich Racer DLC | 316231 | [316231-drift-master-simulator-2024-rich-racer-dlc.json](./316231-drift-master-simulator-2024-rich-racer-dlc.json) |
+| Drift Masters | 127539 | [127539-drift-masters.json](./127539-drift-masters.json) |
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
 | Drift Mine Satellite | 263648 | [263648-drift-mine-satellite.json](./263648-drift-mine-satellite.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
