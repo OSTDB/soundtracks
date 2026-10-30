@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Dentist | 159017 | [159017-zoo-dentist.json](./159017-zoo-dentist.json) |
 | Zoo Dentist: Extended Edition | 199932 | [199932-zoo-dentist-extended-edition.json](./199932-zoo-dentist-extended-edition.json) |
 | Zoo Disc Golf | 59039 | [59039-zoo-disc-golf.json](./59039-zoo-disc-golf.json) |
+| Zoo Economy | 139608 | [139608-zoo-economy.json](./139608-zoo-economy.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Frenzy | 66891 | [66891-zoo-frenzy.json](./66891-zoo-frenzy.json) |
 | Zoo Fun | 283114 | [283114-zoo-fun.json](./283114-zoo-fun.json) |
@@ -2160,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zortch 2 | 349249 | [349249-zortch-2.json](./349249-zortch-2.json) |
 | Zorton Brothers | 93141 | [93141-zorton-brothers.json](./93141-zorton-brothers.json) |
 | Zory | 383381 | [383381-zory.json](./383381-zory.json) |
+| Zorya: The Celestial Sisters | 139609 | [139609-zorya-the-celestial-sisters.json](./139609-zorya-the-celestial-sisters.json) |
 | Zorya: The Celestial Sisters - Stellar Edition | 193688 | [193688-zorya-the-celestial-sisters-stellar-edition.json](./193688-zorya-the-celestial-sisters-stellar-edition.json) |
 | Zossed in Space | 282455 | [282455-zossed-in-space.json](./282455-zossed-in-space.json) |
 | Zosu Ocean VR | 248820 | [248820-zosu-ocean-vr.json](./248820-zosu-ocean-vr.json) |
