@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jets'n'Guns 2 | 112638 | [112638-jetsnguns-2.json](./112638-jetsnguns-2.json) |
 | Jets'n'Guns Gold | 30372 | [30372-jetsnguns-gold.json](./30372-jetsnguns-gold.json) |
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
+| Jetscout: Mystery of the Valunians | 139590 | [139590-jetscout-mystery-of-the-valunians.json](./139590-jetscout-mystery-of-the-valunians.json) |
 | Jetscout: Mystery of Valunians | 174211 | [174211-jetscout-mystery-of-valunians.json](./174211-jetscout-mystery-of-valunians.json) |
 | Jetset | 84327 | [84327-jetset.json](./84327-jetset.json) |
 | JetSet Secrets | 64262 | [64262-jetset-secrets.json](./64262-jetset-secrets.json) |
