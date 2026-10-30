@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Cargo, Please! | 395719 | [395719-cargo-please.json](./395719-cargo-please.json) |
 | Cargo: Co-Op Delivery Simulator in Post Apocalyptic World | 362761 | [362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json](./362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json) |
+| Cargo: TD on Rails | 173958 | [173958-cargo-td-on-rails.json](./173958-cargo-td-on-rails.json) |
 | Cargobros | 264776 | [264776-cargobros.json](./264776-cargobros.json) |
 | Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
 | Cargor | 382415 | [382415-cargor.json](./382415-cargor.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
 | Cat in the Box | 410181 | [410181-cat-in-the-box.json](./410181-cat-in-the-box.json) |
 | Cat Inside | 108343 | [108343-cat-inside.json](./108343-cat-inside.json) |
+| Cat Interstellar: Episode II | 173994 | [173994-cat-interstellar-episode-ii.json](./173994-cat-interstellar-episode-ii.json) |
 | Cat Island | 188271 | [188271-cat-island.json](./188271-cat-island.json) |
 | Cat Island Petrichor | 368803 | [368803-cat-island-petrichor.json](./368803-cat-island-petrichor.json) |
 | Cat Isle | 371378 | [371378-cat-isle.json](./371378-cat-isle.json) |
@@ -15113,6 +15115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
 | Crewcial | 395346 | [395346-crewcial.json](./395346-crewcial.json) |
 | Crewed | 402465 | [402465-crewed.json](./402465-crewed.json) |
+| Crewin: The Wrath Of Athys | 173953 | [173953-crewin-the-wrath-of-athys.json](./173953-crewin-the-wrath-of-athys.json) |
 | Crewmate Rush Space Escape Runner | 414539 | [414539-crewmate-rush-space-escape-runner.json](./414539-crewmate-rush-space-escape-runner.json) |
 | Crewmember Pigeon and the Case of the Burgled Buttons | 188593 | [188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json](./188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json) |
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
@@ -17493,6 +17496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Travels: Flame of the Banshee | 177872 | [177872-cursed-travels-flame-of-the-banshee.json](./177872-cursed-travels-flame-of-the-banshee.json) |
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
+| Cursed Treasure 2: Ultimate Edition - Tower Defense | 173979 | [173979-cursed-treasure-2-ultimate-edition-tower-defense.json](./173979-cursed-treasure-2-ultimate-edition-tower-defense.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
 | Cursed Weekend | 153374 | [153374-cursed-weekend.json](./153374-cursed-weekend.json) |
 | Cursed West | 31728 | [31728-cursed-west.json](./31728-cursed-west.json) |
