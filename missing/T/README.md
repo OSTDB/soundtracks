@@ -7667,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Ultimate Edition | 159705 | [159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json](./159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json) |
 | The Dungeon Paradox | 114806 | [114806-the-dungeon-paradox.json](./114806-the-dungeon-paradox.json) |
 | The Dungeon Power | 44204 | [44204-the-dungeon-power.json](./44204-the-dungeon-power.json) |
+| The Dungeon Revealed | 171248 | [171248-the-dungeon-revealed.json](./171248-the-dungeon-revealed.json) |
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Dungeoning | 17310 | [17310-the-dungeoning.json](./17310-the-dungeoning.json) |
 | The Dungeons of Castle Madness | 22403 | [22403-the-dungeons-of-castle-madness.json](./22403-the-dungeons-of-castle-madness.json) |
@@ -17397,6 +17398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Their Story. | 404398 | [404398-their-story.json](./404398-their-story.json) |
 | Thekku Island | 389376 | [389376-thekku-island.json](./389376-thekku-island.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
+| Theldrow | 171249 | [171249-theldrow.json](./171249-theldrow.json) |
 | Thelma Fantastic | 389165 | [389165-thelma-fantastic.json](./389165-thelma-fantastic.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Thelos | 216443 | [216443-thelos.json](./216443-thelos.json) |
@@ -29438,6 +29440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted: Enhanced Edition | 54335 | [54335-twisted-enhanced-edition.json](./54335-twisted-enhanced-edition.json) |
 | Twisted: The Game Show | 4321 | [4321-twisted-the-game-show.json](./4321-twisted-the-game-show.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
+| Twisted! Deluxe | 171250 | [171250-twisted-deluxe.json](./171250-twisted-deluxe.json) |
 | Twistedland VR | 160132 | [160132-twistedland-vr.json](./160132-twistedland-vr.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | Twister - Best Ride Simulators | 96804 | [96804-twister-best-ride-simulators.json](./96804-twister-best-ride-simulators.json) |
