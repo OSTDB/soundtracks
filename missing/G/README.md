@@ -9623,7 +9623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Games 3D Offline Fps Games | 296769 | [296769-gun-games-3d-offline-fps-games.json](./296769-gun-games-3d-offline-fps-games.json) |
 | Gun Glade | 397627 | [397627-gun-glade.json](./397627-gun-glade.json) |
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
-| Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Gun Pixies H H | 222105 | [222105-gun-gun-pixies-h-h.json](./222105-gun-gun-pixies-h-h.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
