@@ -11386,6 +11386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Heroes of the Water Margin | 330499 | [330499-the-legend-of-the-heroes-of-the-water-margin.json](./330499-the-legend-of-the-heroes-of-the-water-margin.json) |
 | The Legend of the Last Dragon | 180952 | [180952-the-legend-of-the-last-dragon.json](./180952-the-legend-of-the-last-dragon.json) |
+| The Legend of the Prophet & the Assassin | 125010 | [125010-the-legend-of-the-prophet-and-the-assassin.json](./125010-the-legend-of-the-prophet-and-the-assassin.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Soulforce: Heroes of the Abyss | 204183 | [204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json](./204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json) |
@@ -12780,6 +12781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nascent Necromancer | 264586 | [264586-the-nascent-necromancer.json](./264586-the-nascent-necromancer.json) |
 | The National Library of Geometric Impossibilities | 356577 | [356577-the-national-library-of-geometric-impossibilities.json](./356577-the-national-library-of-geometric-impossibilities.json) |
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
+| The Nations: Gold Edition | 124974 | [124974-the-nations-gold-edition.json](./124974-the-nations-gold-edition.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Naughty List Curse | 341360 | [341360-the-naughty-list-curse.json](./341360-the-naughty-list-curse.json) |
 | The Navigator | 106505 | [106505-the-navigator.json](./106505-the-navigator.json) |
@@ -30282,6 +30284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrannosaurus Tex | 159036 | [159036-tyrannosaurus-tex.json](./159036-tyrannosaurus-tex.json) |
 | Tyranny: Archon Edition | 51797 | [51797-tyranny-archon-edition.json](./51797-tyranny-archon-edition.json) |
 | Tyranny: Commander Edition | 51796 | [51796-tyranny-commander-edition.json](./51796-tyranny-commander-edition.json) |
+| Tyranny: Deluxe Edition | 124978 | [124978-tyranny-deluxe-edition.json](./124978-tyranny-deluxe-edition.json) |
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
 | Tyranny: Overlord Edition | 51795 | [51795-tyranny-overlord-edition.json](./51795-tyranny-overlord-edition.json) |
 | Tyranny: Tales from the Tiers | 51794 | [51794-tyranny-tales-from-the-tiers.json](./51794-tyranny-tales-from-the-tiers.json) |
