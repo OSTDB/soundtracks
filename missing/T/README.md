@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
 | Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
+| Tenami | 139011 | [139011-tenami.json](./139011-tenami.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenbin no La Dea: Ikusa Megami Memoria | 258818 | [258818-tenbin-no-la-dea-ikusa-megami-memoria.json](./258818-tenbin-no-la-dea-ikusa-megami-memoria.json) |
@@ -6995,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cube of Love | 339210 | [339210-the-cube-of-love.json](./339210-the-cube-of-love.json) |
 | The Cube, Save Us | 366870 | [366870-the-cube-save-us.json](./366870-the-cube-save-us.json) |
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
+| The Cubedex of Brass and Wood | 138418 | [138418-the-cubedex-of-brass-and-wood.json](./138418-the-cubedex-of-brass-and-wood.json) |
 | The Cubes | 373067 | [373067-the-cubes.json](./373067-the-cubes.json) |
 | The Cubicle. | 33273 | [33273-the-cubicle.json](./33273-the-cubicle.json) |
 | The Cubiw Dungeon | 393818 | [393818-the-cubiw-dungeon.json](./393818-the-cubiw-dungeon.json) |
@@ -15342,6 +15344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
 | The Stacks | 40616 | [40616-the-stacks.json](./40616-the-stacks.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
+| The Stairway | 138435 | [138435-the-stairway.json](./138435-the-stairway.json) |
 | The Stairway 7 | 295332 | [295332-the-stairway-7.json](./295332-the-stairway-7.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
 | The Stalin Subway: Red Veil | 17579 | [17579-the-stalin-subway-red-veil.json](./17579-the-stalin-subway-red-veil.json) |
@@ -17227,6 +17230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
 | The World Ends With You: Live Remix | 288144 | [288144-the-world-ends-with-you-live-remix.json](./288144-the-world-ends-with-you-live-remix.json) |
 | The World Ends With You: Noise Busters | 306596 | [306596-the-world-ends-with-you-noise-busters.json](./306596-the-world-ends-with-you-noise-busters.json) |
+| The World Had Been Sad Since Tuesday | 139016 | [139016-the-world-had-been-sad-since-tuesday.json](./139016-the-world-had-been-sad-since-tuesday.json) |
 | The World Has Gone | 282040 | [282040-the-world-has-gone.json](./282040-the-world-has-gone.json) |
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World II | 200305 | [200305-the-world-ii.json](./200305-the-world-ii.json) |
@@ -20532,6 +20536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Bokan Series: Bokan to Ippatsu! Doronbo | 43764 | [43764-time-bokan-series-bokan-to-ippatsu-doronbo.json](./43764-time-bokan-series-bokan-to-ippatsu-doronbo.json) |
 | Time Bomb Race | 259689 | [259689-time-bomb-race.json](./259689-time-bomb-race.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
+| Time Break Chronicles | 138400 | [138400-time-break-chronicles.json](./138400-time-break-chronicles.json) |
 | Time Breaker | 256666 | [256666-time-breaker.json](./256666-time-breaker.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
 | Time Carnage | 30587 | [30587-time-carnage.json](./30587-time-carnage.json) |
@@ -24532,6 +24537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Aghasba | 250636 | [250636-towers-of-aghasba.json](./250636-towers-of-aghasba.json) |
 | Towers of Altrac | 36165 | [36165-towers-of-altrac.json](./36165-towers-of-altrac.json) |
 | Towers of Altrac - Epic Defense Battles | 54188 | [54188-towers-of-altrac-epic-defense-battles.json](./54188-towers-of-altrac-epic-defense-battles.json) |
+| Towers of Everland | 138390 | [138390-towers-of-everland.json](./138390-towers-of-everland.json) |
 | Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
 | Towers of Minimalism | 123986 | [123986-towers-of-minimalism.json](./123986-towers-of-minimalism.json) |
 | Towers of Oz | 54187 | [54187-towers-of-oz.json](./54187-towers-of-oz.json) |
@@ -29773,6 +29779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
 | Twins of the Sun: Arena of Heroes | 383094 | [383094-twins-of-the-sun-arena-of-heroes.json](./383094-twins-of-the-sun-arena-of-heroes.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
+| Twins Story: Kimi ni Tsutaetakute... | 138988 | [138988-twins-story-kimi-ni-tsutaetakute.json](./138988-twins-story-kimi-ni-tsutaetakute.json) |
 | Twinsanity: Omicron | 177374 | [177374-twinsanity-omicron.json](./177374-twinsanity-omicron.json) |
 | Twinsanity: Trapped in Time | 323018 | [323018-twinsanity-trapped-in-time.json](./323018-twinsanity-trapped-in-time.json) |
 | Twinsen's Little Big Adventure 2 Classic | 79653 | [79653-twinsens-little-big-adventure-2-classic.json](./79653-twinsens-little-big-adventure-2-classic.json) |
