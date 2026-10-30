@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maison Ikkoku Kanketsu Special | 91764 | [91764-maison-ikkoku-kanketsu-special.json](./91764-maison-ikkoku-kanketsu-special.json) |
 | Maison Ikkoku: Omoide no Photograph | 160301 | [160301-maison-ikkoku-omoide-no-photograph.json](./160301-maison-ikkoku-omoide-no-photograph.json) |
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
+| Maison Rouge | 172922 | [172922-maison-rouge.json](./172922-maison-rouge.json) |
 | Maisons de repos | 333714 | [333714-maisons-de-repos.json](./333714-maisons-de-repos.json) |
 | Maitetsu: Pure Station | 126483 | [126483-maitetsu-pure-station.json](./126483-maitetsu-pure-station.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Hachiroku Cover Limited Edition | 167008 | [167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json](./167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json) |
@@ -2821,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MannaRites | 140566 | [140566-mannarites.json](./140566-mannarites.json) |
 | MannaRites Gold | 265328 | [265328-mannarites-gold.json](./265328-mannarites-gold.json) |
 | MannaWars | 166045 | [166045-mannawars.json](./166045-mannawars.json) |
+| Mannaz | 172902 | [172902-mannaz.json](./172902-mannaz.json) |
 | ManneKin: Hessler Storage | 215611 | [215611-mannekin-hessler-storage.json](./215611-mannekin-hessler-storage.json) |
 | Mannequin | 266075 | [266075-mannequin.json](./266075-mannequin.json) |
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
@@ -5893,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Mastery | 246805 | [246805-mech-mastery.json](./246805-mech-mastery.json) |
 | Mech Mechanic Simulator | 116068 | [116068-mech-mechanic-simulator.json](./116068-mech-mechanic-simulator.json) |
 | Mech Merc Company | 121498 | [121498-mech-merc-company.json](./121498-mech-merc-company.json) |
+| Mech Mind Ninja | 172915 | [172915-mech-mind-ninja.json](./172915-mech-mind-ninja.json) |
 | Mech My Day | 392861 | [392861-mech-my-day.json](./392861-mech-my-day.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
@@ -7859,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 95230 | [95230-memory.json](./95230-memory.json) |
 | Memory Adventures in the Jungle | 336481 | [336481-memory-adventures-in-the-jungle.json](./336481-memory-adventures-in-the-jungle.json) |
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
+| Memory Booster | 172912 | [172912-memory-booster.json](./172912-memory-booster.json) |
 | Memory Brew: Tales of Underworld | 406573 | [406573-memory-brew-tales-of-underworld.json](./406573-memory-brew-tales-of-underworld.json) |
 | Memory Card Flip | 417340 | [417340-memory-card-flip.json](./417340-memory-card-flip.json) |
 | Memory Card Monsters: Expanded Content 3 | 168080 | [168080-memory-card-monsters-expanded-content-3.json](./168080-memory-card-monsters-expanded-content-3.json) |
