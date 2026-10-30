@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Guardian | 264785 | [264785-castle-guardian.json](./264785-castle-guardian.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle Hearts | 358746 | [358746-castle-hearts.json](./358746-castle-hearts.json) |
+| Castle Heck | 150338 | [150338-castle-heck.json](./150338-castle-heck.json) |
 | Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
 | Castle Hunter | 214317 | [214317-castle-hunter.json](./214317-castle-hunter.json) |
@@ -4112,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Heat: Summer Fling | 234737 | [234737-cats-in-heat-summer-fling.json](./234737-cats-in-heat-summer-fling.json) |
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
 | Cats in Pixels by Louisselle | 363168 | [363168-cats-in-pixels-by-louisselle.json](./363168-cats-in-pixels-by-louisselle.json) |
+| Cats In Space | 150365 | [150365-cats-in-space.json](./150365-cats-in-space.json) |
 | Cats in the Ancient City of Gu Su | 294358 | [294358-cats-in-the-ancient-city-of-gu-su.json](./294358-cats-in-the-ancient-city-of-gu-su.json) |
 | Cats in the Shell | 408988 | [408988-cats-in-the-shell.json](./408988-cats-in-the-shell.json) |
 | Cats in Wonderland | 304839 | [304839-cats-in-wonderland.json](./304839-cats-in-wonderland.json) |
@@ -6067,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessCraft | 189885 | [189885-chesscraft.json](./189885-chesscraft.json) |
 | Chessemble | 372052 | [372052-chessemble.json](./372052-chessemble.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
+| Chessers | 150357 | [150357-chessers.json](./150357-chessers.json) |
 | ChessFinity | 333331 | [333331-chessfinity.json](./333331-chessfinity.json) |
 | Chessformer | 163683 | [163683-chessformer.json](./163683-chessformer.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
@@ -6233,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicka Wars \| Chicken Meat | 34741 | [34741-chicka-wars-chicken-meat.json](./34741-chicka-wars-chicken-meat.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
 | Chickado | 262853 | [262853-chickado.json](./262853-chickado.json) |
+| Chickamauga Battles | 150361 | [150361-chickamauga-battles.json](./150361-chickamauga-battles.json) |
 | Chickcharge | 413055 | [413055-chickcharge.json](./413055-chickcharge.json) |
 | Chicken | 314230 | [314230-chicken.json](./314230-chicken.json) |
 | Chicken | 94716 | [94716-chicken.json](./94716-chicken.json) |
@@ -6996,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppy Waters | 350765 | [350765-choppy-waters.json](./350765-choppy-waters.json) |
 | Choppy Waves | 402724 | [402724-choppy-waves.json](./402724-choppy-waves.json) |
 | Chopsticks Online | 364451 | [364451-chopsticks-online.json](./364451-chopsticks-online.json) |
+| Chora | 150351 | [150351-chora.json](./150351-chora.json) |
 | Chordata | 280459 | [280459-chordata.json](./280459-chordata.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
@@ -7145,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Countdown | 303733 | [303733-christmas-countdown.json](./303733-christmas-countdown.json) |
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
+| Christmas Day | 150359 | [150359-christmas-day.json](./150359-christmas-day.json) |
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
 | Christmas Dentist | 107086 | [107086-christmas-dentist.json](./107086-christmas-dentist.json) |
 | Christmas Drift: Delivery Simulator | 325716 | [325716-christmas-drift-delivery-simulator.json](./325716-christmas-drift-delivery-simulator.json) |
@@ -10781,6 +10787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Shooting | 370468 | [370468-colorful-shooting.json](./370468-colorful-shooting.json) |
 | Colorful Slots | 406525 | [406525-colorful-slots.json](./406525-colorful-slots.json) |
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
+| Colorful Trip | 150337 | [150337-colorful-trip.json](./150337-colorful-trip.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
 | Colorider | 213324 | [213324-colorider.json](./213324-colorider.json) |
@@ -11003,6 +11010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors and Numbers | 192033 | [192033-colors-and-numbers.json](./192033-colors-and-numbers.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors Assemble | 217137 | [217137-colors-assemble.json](./217137-colors-assemble.json) |
+| Colors of the Cube | 150382 | [150382-colors-of-the-cube.json](./150382-colors-of-the-cube.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
 | Colors of War | 66583 | [66583-colors-of-war.json](./66583-colors-of-war.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
