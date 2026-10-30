@@ -2299,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Racing | 8172 | [8172-virtua-racing.json](./8172-virtua-racing.json) |
 | Virtua Racing Deluxe | 45880 | [45880-virtua-racing-deluxe.json](./45880-virtua-racing-deluxe.json) |
 | Virtua Racing Demake | 181251 | [181251-virtua-racing-demake.json](./181251-virtua-racing-demake.json) |
+| Virtua Sonic | 148229 | [148229-virtua-sonic.json](./148229-virtua-sonic.json) |
 | Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
 | Virtua Striker | 46765 | [46765-virtua-striker.json](./46765-virtua-striker.json) |
 | Virtua Striker 2 | 39472 | [39472-virtua-striker-2.json](./39472-virtua-striker-2.json) |
