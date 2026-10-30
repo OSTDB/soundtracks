@@ -7304,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biolab Disaster | 301134 | [301134-biolab-disaster.json](./301134-biolab-disaster.json) |
 | Biolab Wars | 121066 | [121066-biolab-wars.json](./121066-biolab-wars.json) |
 | Bioleech | 366419 | [366419-bioleech.json](./366419-bioleech.json) |
+| Biologger | 151380 | [151380-biologger.json](./151380-biologger.json) |
 | Biologica! | 68775 | [68775-biologica.json](./68775-biologica.json) |
 | Biological Incident | 322622 | [322622-biological-incident.json](./322622-biological-incident.json) |
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
@@ -15675,6 +15676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Mahjo | 111384 | [111384-bunny-mahjo.json](./111384-bunny-mahjo.json) |
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
+| Bunny Memory | 151406 | [151406-bunny-memory.json](./151406-bunny-memory.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
 | Bunny Park | 127749 | [127749-bunny-park.json](./127749-bunny-park.json) |
