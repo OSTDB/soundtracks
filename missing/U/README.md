@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uboat Attack: Vortice DLC | 316234 | [316234-uboat-attack-vortice-dlc.json](./316234-uboat-attack-vortice-dlc.json) |
 | Uboat Attack: Zeppelin DLC | 316233 | [316233-uboat-attack-zeppelin-dlc.json](./316233-uboat-attack-zeppelin-dlc.json) |
 | Uboat Commander | 155878 | [155878-uboat-commander.json](./155878-uboat-commander.json) |
+| Uboat Mechanic Simulator | 176103 | [176103-uboat-mechanic-simulator.json](./176103-uboat-mechanic-simulator.json) |
 | UBoat: The Silent Wolf | 217469 | [217469-uboat-the-silent-wolf.json](./217469-uboat-the-silent-wolf.json) |
 | UBoat: Type IX - Distant Coasts | 398830 | [398830-uboat-type-ix-distant-coasts.json](./398830-uboat-type-ix-distant-coasts.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Uno: Party! Mania | 323831 | [323831-uno-party-mania.json](./323831-uno-party-mania.json) |
 | Uno: Small World | 61393 | [61393-uno-small-world.json](./61393-uno-small-world.json) |
+| Uno: The Call of Yara | 176112 | [176112-uno-the-call-of-yara.json](./176112-uno-the-call-of-yara.json) |
 | Uno: Winter Theme DLC | 153165 | [153165-uno-winter-theme-dlc.json](./153165-uno-winter-theme-dlc.json) |
 | UNO! Mobile | 142109 | [142109-uno-mobile.json](./142109-uno-mobile.json) |
 | Uno/Skip-Bo | 78905 | [78905-uno-skip-bo.json](./78905-uno-skip-bo.json) |
