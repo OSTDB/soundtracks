@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KanColle Kai | 11461 | [11461-kancolle-kai.json](./11461-kancolle-kai.json) |
 | Kanda Alice mo Suiri Suru. | 210404 | [210404-kanda-alice-mo-suiri-suru.json](./210404-kanda-alice-mo-suiri-suru.json) |
 | Kandagawa Jet Girls | 121202 | [121202-kandagawa-jet-girls.json](./121202-kandagawa-jet-girls.json) |
+| Kandagawa Jet Girls DX Jet Pack: Limited Edition | 166975 | [166975-kandagawa-jet-girls-dx-jet-pack-limited-edition.json](./166975-kandagawa-jet-girls-dx-jet-pack-limited-edition.json) |
 | Kandagawa Jet Girls: DX Jet Pack | 136700 | [136700-kandagawa-jet-girls-dx-jet-pack.json](./136700-kandagawa-jet-girls-dx-jet-pack.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
 | Kandagawa Jet Girls: Racing Hearts Edition | 136195 | [136195-kandagawa-jet-girls-racing-hearts-edition.json](./136195-kandagawa-jet-girls-racing-hearts-edition.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Killer | 29062 | [29062-keyboard-killer.json](./29062-keyboard-killer.json) |
 | Keyboard Killers | 61648 | [61648-keyboard-killers.json](./61648-keyboard-killers.json) |
 | Keyboard Kommander | 125418 | [125418-keyboard-kommander.json](./125418-keyboard-kommander.json) |
+| Keyboard Master | 166940 | [166940-keyboard-master.json](./166940-keyboard-master.json) |
 | Keyboard Party | 363036 | [363036-keyboard-party.json](./363036-keyboard-party.json) |
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
 | Keyboard Smash | 410954 | [410954-keyboard-smash.json](./410954-keyboard-smash.json) |
