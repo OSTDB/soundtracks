@@ -3607,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Simulator | 301238 | [301238-battle-simulator.json](./301238-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
+| Battle Sky Brigade: Harpooner | 124401 | [124401-battle-sky-brigade-harpooner.json](./124401-battle-sky-brigade-harpooner.json) |
 | Battle Slimes | 101409 | [101409-battle-slimes.json](./101409-battle-slimes.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Snails | 252912 | [252912-battle-snails.json](./252912-battle-snails.json) |
@@ -6164,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BetterVR | 386425 | [386425-bettervr.json](./386425-bettervr.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
 | Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
+| Betty Bat's Treasure Hunt | 124435 | [124435-betty-bats-treasure-hunt.json](./124435-betty-bats-treasure-hunt.json) |
 | Betty Boop's Double Shift | 8455 | [8455-betty-boops-double-shift.json](./8455-betty-boops-double-shift.json) |
 | Betty's Beer Bar | 70365 | [70365-bettys-beer-bar.json](./70365-bettys-beer-bar.json) |
 | Betű Kereső | 137966 | [137966-betu-kereso.json](./137966-betu-kereso.json) |
@@ -9012,6 +9014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
 | Bleak House | 311468 | [311468-bleak-house.json](./311468-bleak-house.json) |
 | Bleak Remastered | 291874 | [291874-bleak-remastered.json](./291874-bleak-remastered.json) |
+| Bleak Sword | 124400 | [124400-bleak-sword.json](./124400-bleak-sword.json) |
 | Bleak Sword DX | 235203 | [235203-bleak-sword-dx.json](./235203-bleak-sword-dx.json) |
 | Bleak Winter | 259043 | [259043-bleak-winter.json](./259043-bleak-winter.json) |
 | Bleak: Welcome to Glimmer | 35419 | [35419-bleak-welcome-to-glimmer.json](./35419-bleak-welcome-to-glimmer.json) |
