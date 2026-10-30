@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victoria II | 11037 | [11037-victoria-ii.json](./11037-victoria-ii.json) |
 | Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
+| Victoria II: Civil War Edition | 124982 | [124982-victoria-ii-civil-war-edition.json](./124982-victoria-ii-civil-war-edition.json) |
 | Victoria II: German Unit Pack | 170690 | [170690-victoria-ii-german-unit-pack.json](./170690-victoria-ii-german-unit-pack.json) |
 | Victoria II: Heart of Darkness | 11039 | [11039-victoria-ii-heart-of-darkness.json](./11039-victoria-ii-heart-of-darkness.json) |
 | Victoria II: Interwar Cavalry Unit Pack | 226893 | [226893-victoria-ii-interwar-cavalry-unit-pack.json](./226893-victoria-ii-interwar-cavalry-unit-pack.json) |
