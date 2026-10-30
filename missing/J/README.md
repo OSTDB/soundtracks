@@ -2776,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juiced 2: Hot Import Nights | 7024 | [7024-juiced-2-hot-import-nights.json](./7024-juiced-2-hot-import-nights.json) |
 | Juiced Fruit Racing | 369719 | [369719-juiced-fruit-racing.json](./369719-juiced-fruit-racing.json) |
 | Juiced! | 133349 | [133349-juiced.json](./133349-juiced.json) |
+| Juicy Army | 128182 | [128182-juicy-army.json](./128182-juicy-army.json) |
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
 | Juicy Bois: Conflict | 190403 | [190403-juicy-bois-conflict.json](./190403-juicy-bois-conflict.json) |
