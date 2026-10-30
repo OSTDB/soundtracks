@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Boats | 161155 | [161155-paper-boats.json](./161155-paper-boats.json) |
 | Paper Bowser World | 135130 | [135130-paper-bowser-world.json](./135130-paper-bowser-world.json) |
 | Paper Bowser World 3 | 381763 | [381763-paper-bowser-world-3.json](./381763-paper-bowser-world-3.json) |
+| Paper Brexit | 143878 | [143878-paper-brexit.json](./143878-paper-brexit.json) |
 | Paper Bride | 190178 | [190178-paper-bride.json](./190178-paper-bride.json) |
 | Paper Bride 2: Zangling Village | 200630 | [200630-paper-bride-2-zangling-village.json](./200630-paper-bride-2-zangling-village.json) |
 | Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
@@ -1716,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradigm: Reboot | 193887 | [193887-paradigm-reboot.json](./193887-paradigm-reboot.json) |
 | Paradigmfetish | 223137 | [223137-paradigmfetish.json](./223137-paradigmfetish.json) |
 | Paradise | 119555 | [119555-paradise.json](./119555-paradise.json) |
+| Paradise | 144545 | [144545-paradise.json](./144545-paradise.json) |
 | Paradise | 176107 | [176107-paradise.json](./176107-paradise.json) |
 | Paradise | 184046 | [184046-paradise.json](./184046-paradise.json) |
 | Paradise | 20527 | [20527-paradise.json](./20527-paradise.json) |
@@ -10466,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Smash | 21351 | [21351-poker-smash.json](./21351-poker-smash.json) |
 | Poker Soul | 213571 | [213571-poker-soul.json](./213571-poker-soul.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
+| Poker Squadrons: Battle of Britain | 143917 | [143917-poker-squadrons-battle-of-britain.json](./143917-poker-squadrons-battle-of-britain.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
 | Poker Squares | 40607 | [40607-poker-squares.json](./40607-poker-squares.json) |
 | Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
@@ -15124,6 +15127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Eclipse | 288174 | [288174-psychic-eclipse.json](./288174-psychic-eclipse.json) |
 | Psychic Eclipse Code: Green | 289357 | [289357-psychic-eclipse-code-green.json](./289357-psychic-eclipse-code-green.json) |
 | Psychic Eclipse: Reload | 257766 | [257766-psychic-eclipse-reload.json](./257766-psychic-eclipse-reload.json) |
+| Psychic Emotion 6 | 144634 | [144634-psychic-emotion-6.json](./144634-psychic-emotion-6.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Guardian Super Splendor | 155834 | [155834-psychic-guardian-super-splendor.json](./155834-psychic-guardian-super-splendor.json) |
