@@ -4796,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
 | Centipede & Millipede | 74408 | [74408-centipede-and-millipede.json](./74408-centipede-and-millipede.json) |
 | Centipede Channel F | 311682 | [311682-centipede-channel-f.json](./311682-centipede-channel-f.json) |
+| Centipede Chaos | 124434 | [124434-centipede-chaos.json](./124434-centipede-chaos.json) |
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Centipede: Evolved | 329639 | [329639-centipede-evolved.json](./329639-centipede-evolved.json) |
 | Centipede: Sega Version | 398660 | [398660-centipede-sega-version.json](./398660-centipede-sega-version.json) |
@@ -15414,6 +15415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
 | Cricket Revolution | 14941 | [14941-cricket-revolution.json](./14941-cricket-revolution.json) |
+| Cricket Through the Ages | 124398 | [124398-cricket-through-the-ages.json](./124398-cricket-through-the-ages.json) |
 | Cricket: Jae's Really Peculiar Game | 138882 | [138882-cricket-jaes-really-peculiar-game.json](./138882-cricket-jaes-really-peculiar-game.json) |
 | CricktoGame | 110862 | [110862-cricktogame.json](./110862-cricktogame.json) |
 | CricVRX: VR Cricket | 120772 | [120772-cricvrx-vr-cricket.json](./120772-cricvrx-vr-cricket.json) |
