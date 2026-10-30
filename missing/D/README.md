@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Escape 4D | 62800 | [62800-dark-escape-4d.json](./62800-dark-escape-4d.json) |
 | Dark Eternal | 9654 | [9654-dark-eternal.json](./9654-dark-eternal.json) |
 | Dark Eternal: Dissolution | 9581 | [9581-dark-eternal-dissolution.json](./9581-dark-eternal-dissolution.json) |
+| Dark Existence | 150894 | [150894-dark-existence.json](./150894-dark-existence.json) |
 | Dark Eyed Angels | 260222 | [260222-dark-eyed-angels.json](./260222-dark-eyed-angels.json) |
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
 | Dark Eyes: BattleGate | 37555 | [37555-dark-eyes-battlegate.json](./37555-dark-eyes-battlegate.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Seraphim | 314614 | [314614-dark-seraphim.json](./314614-dark-seraphim.json) |
 | Dark Shadows | 419377 | [419377-dark-shadows.json](./419377-dark-shadows.json) |
+| Dark Sheep | 150884 | [150884-dark-sheep.json](./150884-dark-sheep.json) |
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side | 12053 | [12053-dark-side.json](./12053-dark-side.json) |
@@ -7973,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Bombers | 135759 | [135759-dig-bombers.json](./135759-dig-bombers.json) |
 | Dig Deep | 208732 | [208732-dig-deep.json](./208732-dig-deep.json) |
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
+| Dig Deep: Race to the Core! | 150895 | [150895-dig-deep-race-to-the-core.json](./150895-dig-deep-race-to-the-core.json) |
 | Dig Deeper | 358464 | [358464-dig-deeper.json](./358464-dig-deeper.json) |
 | Dig Dig Boom | 235417 | [235417-dig-dig-boom.json](./235417-dig-dig-boom.json) |
 | Dig Dig Burrito! | 391996 | [391996-dig-dig-burrito.json](./391996-dig-dig-burrito.json) |
@@ -10377,6 +10380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Fight | 39768 | [39768-dog-fight.json](./39768-dog-fight.json) |
 | Dog Fight Super Ultra Deluxe | 109647 | [109647-dog-fight-super-ultra-deluxe.json](./109647-dog-fight-super-ultra-deluxe.json) |
 | Dog Forest | 349718 | [349718-dog-forest.json](./349718-dog-forest.json) |
+| Dog Fox Bunny | 150864 | [150864-dog-fox-bunny.json](./150864-dog-fox-bunny.json) |
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Go To The Moon | 366544 | [366544-dog-go-to-the-moon.json](./366544-dog-go-to-the-moon.json) |
