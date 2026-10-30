@@ -4163,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmo of Giza | 184491 | [184491-gizmo-of-giza.json](./184491-gizmo-of-giza.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | Gizmondo Motocross 2005 | 79756 | [79756-gizmondo-motocross-2005.json](./79756-gizmondo-motocross-2005.json) |
+| Gizmos: Interstellar Voyage | 160012 | [160012-gizmos-interstellar-voyage.json](./160012-gizmos-interstellar-voyage.json) |
 | Gizmos: Jungle Adventures | 294399 | [294399-gizmos-jungle-adventures.json](./294399-gizmos-jungle-adventures.json) |
 | Gizmos: Riddle of the Universe | 384676 | [384676-gizmos-riddle-of-the-universe.json](./384676-gizmos-riddle-of-the-universe.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
@@ -5902,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Escape | 281387 | [281387-golf-escape.json](./281387-golf-escape.json) |
 | Golf Evolution Simulation | 265082 | [265082-golf-evolution-simulation.json](./265082-golf-evolution-simulation.json) |
 | Golf Extreme | 81941 | [81941-golf-extreme.json](./81941-golf-extreme.json) |
+| Golf For Fun | 160005 | [160005-golf-for-fun.json](./160005-golf-for-fun.json) |
 | Golf For Fun in Ice | 173229 | [173229-golf-for-fun-in-ice.json](./173229-golf-for-fun-in-ice.json) |
 | Golf for Workgroups | 30109 | [30109-golf-for-workgroups.json](./30109-golf-for-workgroups.json) |
 | Golf Galore | 104875 | [104875-golf-galore.json](./104875-golf-galore.json) |
@@ -7606,6 +7608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Shot | 31756 | [31756-gravity-shot.json](./31756-gravity-shot.json) |
 | Gravity Shots | 107112 | [107112-gravity-shots.json](./107112-gravity-shots.json) |
 | Gravity Simulator | 101768 | [101768-gravity-simulator.json](./101768-gravity-simulator.json) |
+| Gravity Snake | 160050 | [160050-gravity-snake.json](./160050-gravity-snake.json) |
 | Gravity Sphere | 309870 | [309870-gravity-sphere.json](./309870-gravity-sphere.json) |
 | Gravity Spin | 110948 | [110948-gravity-spin.json](./110948-gravity-spin.json) |
 | Gravity Station | 382333 | [382333-gravity-station.json](./382333-gravity-station.json) |
