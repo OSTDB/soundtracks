@@ -4033,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
+| Terra Nova: Strategy of Survival | 130533 | [130533-terra-nova-strategy-of-survival.json](./130533-terra-nova-strategy-of-survival.json) |
 | Terra Nova: Strike Force Centauri | 70 | [70-terra-nova-strike-force-centauri.json](./70-terra-nova-strike-force-centauri.json) |
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
 | Terra Phantastica | 64084 | [64084-terra-phantastica.json](./64084-terra-phantastica.json) |
