@@ -16582,6 +16582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Slime in Dungeon | 327974 | [327974-mr-slime-in-dungeon.json](./327974-mr-slime-in-dungeon.json) |
 | Mr.Space!! | 66493 | [66493-mr-space.json](./66493-mr-space.json) |
 | Mr.T Survival | 249295 | [249295-mr-t-survival.json](./249295-mr-t-survival.json) |
+| Mr.Tomatos | 176631 | [176631-mr-tomatos.json](./176631-mr-tomatos.json) |
 | Mr.Treemp | 190040 | [190040-mr-treemp.json](./190040-mr-treemp.json) |
 | mr.Vegan | 103639 | [103639-mr-vegan.json](./103639-mr-vegan.json) |
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
