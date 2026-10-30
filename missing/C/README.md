@@ -8016,9 +8016,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus! | 289735 | [289735-circus.json](./289735-circus.json) |
 | CircusTroupe | 235779 | [235779-circustroupe.json](./235779-circustroupe.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
+| Cirno the Rice Fairy! | 134837 | [134837-cirno-the-rice-fairy.json](./134837-cirno-the-rice-fairy.json) |
 | Cirno! Lifts a Boulder | 386967 | [386967-cirno-lifts-a-boulder.json](./386967-cirno-lifts-a-boulder.json) |
 | Cirno's Battle of Faith | 152500 | [152500-cirnos-battle-of-faith.json](./152500-cirnos-battle-of-faith.json) |
+| Cirno's BlockBuster | 134838 | [134838-cirnos-blockbuster.json](./134838-cirnos-blockbuster.json) |
 | Cirno's Card Class | 334561 | [334561-cirnos-card-class.json](./334561-cirnos-card-class.json) |
+| Cirno's Frog Freeze | 134839 | [134839-cirnos-frog-freeze.json](./134839-cirnos-frog-freeze.json) |
 | Cirno's Lost Chirumiru | 264097 | [264097-cirnos-lost-chirumiru.json](./264097-cirnos-lost-chirumiru.json) |
 | Cirno's Not So Ice Day | 362896 | [362896-cirnos-not-so-ice-day.json](./362896-cirnos-not-so-ice-day.json) |
 | Cirno's Perfect Punchout!! | 219035 | [219035-cirnos-perfect-punchout.json](./219035-cirnos-perfect-punchout.json) |
@@ -12755,6 +12758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
 | Cooking Championship | 204325 | [204325-cooking-championship.json](./204325-cooking-championship.json) |
 | Cooking Chaos | 246492 | [246492-cooking-chaos.json](./246492-cooking-chaos.json) |
+| Cooking Cirno: Former Hell's Kitchen | 134840 | [134840-cooking-cirno-former-hells-kitchen.json](./134840-cooking-cirno-former-hells-kitchen.json) |
 | Cooking City: Summer Party | 187892 | [187892-cooking-city-summer-party.json](./187892-cooking-city-summer-party.json) |
 | Cooking Clash | 388150 | [388150-cooking-clash.json](./388150-cooking-clash.json) |
 | Cooking Coach | 69128 | [69128-cooking-coach.json](./69128-cooking-coach.json) |
@@ -13200,6 +13204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party: Book of Shadows | 11318 | [11318-corpse-party-book-of-shadows.json](./11318-corpse-party-book-of-shadows.json) |
 | Corpse Party: Cross Fear | 135889 | [135889-corpse-party-cross-fear.json](./135889-corpse-party-cross-fear.json) |
 | Corpse Party: Rebuilt | 151849 | [151849-corpse-party-rebuilt.json](./151849-corpse-party-rebuilt.json) |
+| Corpse Reviver | 134865 | [134865-corpse-reviver.json](./134865-corpse-reviver.json) |
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsefall | 167547 | [167547-corpsefall.json](./167547-corpsefall.json) |
