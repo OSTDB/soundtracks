@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | Vectrix | 121974 | [121974-vectrix.json](./121974-vectrix.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
+| Vectromirror 0 | 159488 | [159488-vectromirror-0.json](./159488-vectromirror-0.json) |
 | Vectron | 287572 | [287572-vectron.json](./287572-vectron.json) |
 | Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
 | Vectronom | 107182 | [107182-vectronom.json](./107182-vectronom.json) |
@@ -1048,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeggieTales: LarryBoy and the Bad Apple | 248629 | [248629-veggietales-larryboy-and-the-bad-apple.json](./248629-veggietales-larryboy-and-the-bad-apple.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
 | Veggy World | 51156 | [51156-veggy-world.json](./51156-veggy-world.json) |
+| Vegteria | 159524 | [159524-vegteria.json](./159524-vegteria.json) |
 | Vehicle Cavalier | 64199 | [64199-vehicle-cavalier.json](./64199-vehicle-cavalier.json) |
 | Vehicle Construction Kit | 375588 | [375588-vehicle-construction-kit.json](./375588-vehicle-construction-kit.json) |
 | Vehicle No. 4 | 364835 | [364835-vehicle-no-4.json](./364835-vehicle-no-4.json) |
@@ -1911,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
 | Viking Ghost | 62002 | [62002-viking-ghost.json](./62002-viking-ghost.json) |
+| Viking Heroes 2 | 159496 | [159496-viking-heroes-2.json](./159496-viking-heroes-2.json) |
 | Viking Heroes 4 | 252319 | [252319-viking-heroes-4.json](./252319-viking-heroes-4.json) |
 | Viking Heroes 5 | 286232 | [286232-viking-heroes-5.json](./286232-viking-heroes-5.json) |
 | Viking Heroes V: Collector's Edition | 308487 | [308487-viking-heroes-v-collectors-edition.json](./308487-viking-heroes-v-collectors-edition.json) |
@@ -3479,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR King of Battle Cards | 155674 | [155674-vr-king-of-battle-cards.json](./155674-vr-king-of-battle-cards.json) |
 | VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
+| VR Long March | 159512 | [159512-vr-long-march.json](./159512-vr-long-march.json) |
 | VR Lunar Base Skirmish: Control the Moon | 165749 | [165749-vr-lunar-base-skirmish-control-the-moon.json](./165749-vr-lunar-base-skirmish-control-the-moon.json) |
 | VR Luxury Life (Be a Billionaire) | 163037 | [163037-vr-luxury-life-be-a-billionaire.json](./163037-vr-luxury-life-be-a-billionaire.json) |
 | VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
