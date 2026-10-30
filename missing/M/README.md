@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical Disaster X | 182052 | [182052-magical-disaster-x.json](./182052-magical-disaster-x.json) |
 | Magical DoReMi: Puzzle Carnival | 325725 | [325725-magical-doremi-puzzle-carnival.json](./325725-magical-doremi-puzzle-carnival.json) |
+| Magical Drop | 170676 | [170676-magical-drop.json](./170676-magical-drop.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
 | Magical Drop CPC | 170778 | [170778-magical-drop-cpc.json](./170778-magical-drop-cpc.json) |
@@ -15865,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcross Mania 2 | 200477 | [200477-motorcross-mania-2.json](./200477-motorcross-mania-2.json) |
 | Motorcycle Biker Simulator | 169141 | [169141-motorcycle-biker-simulator.json](./169141-motorcycle-biker-simulator.json) |
+| Motorcycle Biker Simulator: Motorcycle 4 | 170681 | [170681-motorcycle-biker-simulator-motorcycle-4.json](./170681-motorcycle-biker-simulator-motorcycle-4.json) |
 | Motorcycle Boy | 366743 | [366743-motorcycle-boy.json](./366743-motorcycle-boy.json) |
 | Motorcycle Club | 11959 | [11959-motorcycle-club.json](./11959-motorcycle-club.json) |
 | Motorcycle Combat | 326197 | [326197-motorcycle-combat.json](./326197-motorcycle-combat.json) |
@@ -17575,6 +17577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv Unlimited: The Day After - Episode 00 | 143336 | [143336-muv-luv-unlimited-the-day-after-episode-00.json](./143336-muv-luv-unlimited-the-day-after-episode-00.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 Remastered | 164423 | [164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json](./164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json) |
 | Muv-Luv Unlimited: The Day After - Episode 01 | 143337 | [143337-muv-luv-unlimited-the-day-after-episode-01.json](./143337-muv-luv-unlimited-the-day-after-episode-01.json) |
+| Muv-Luv Unlimited: The Day After - Episode 01 Remastered | 170717 | [170717-muv-luv-unlimited-the-day-after-episode-01-remastered.json](./170717-muv-luv-unlimited-the-day-after-episode-01-remastered.json) |
 | Muv-Luv Unlimited: The Day After - Episode 02 | 143338 | [143338-muv-luv-unlimited-the-day-after-episode-02.json](./143338-muv-luv-unlimited-the-day-after-episode-02.json) |
 | Muv-Luv Unlimited: The Day After - Episode 02 Remastered | 318706 | [318706-muv-luv-unlimited-the-day-after-episode-02-remastered.json](./318706-muv-luv-unlimited-the-day-after-episode-02-remastered.json) |
 | Muv-Luv Unlimited: The Day After - Episode 03 | 143339 | [143339-muv-luv-unlimited-the-day-after-episode-03.json](./143339-muv-luv-unlimited-the-day-after-episode-03.json) |
