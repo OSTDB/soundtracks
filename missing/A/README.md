@@ -4522,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | AI Solitaire: Painted Ladies | 303139 | [303139-ai-solitaire-painted-ladies.json](./303139-ai-solitaire-painted-ladies.json) |
 | AI Solitaire: Solitaire Favorites Pack | 303140 | [303140-ai-solitaire-solitaire-favorites-pack.json](./303140-ai-solitaire-solitaire-favorites-pack.json) |
+| Ai space | 153680 | [153680-ai-space.json](./153680-ai-space.json) |
 | AI Stories | 286768 | [286768-ai-stories.json](./286768-ai-stories.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
 | Ai To Noroi: School Simulator | 296442 | [296442-ai-to-noroi-school-simulator.json](./296442-ai-to-noroi-school-simulator.json) |
@@ -4533,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
 | AI Under Test | 203734 | [203734-ai-under-test.json](./203734-ai-under-test.json) |
 | AI Vendetta | 122032 | [122032-ai-vendetta.json](./122032-ai-vendetta.json) |
+| Ai wa, Nikushimi ni Yoku Niteiru Nikushimi wa, Ai ni Yoku Niteiru | 153664 | [153664-ai-wa-nikushimi-ni-yoku-niteiru-nikushimi-wa-ai-ni-yoku-niteiru.json](./153664-ai-wa-nikushimi-ni-yoku-niteiru-nikushimi-wa-ai-ni-yoku-niteiru.json) |
 | AI War 2 | 25648 | [25648-ai-war-2.json](./25648-ai-war-2.json) |
 | AI War 2: The Neinzul Abyss | 174138 | [174138-ai-war-2-the-neinzul-abyss.json](./174138-ai-war-2-the-neinzul-abyss.json) |
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
@@ -5206,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akari: School Trip | 233654 | [233654-akari-school-trip.json](./233654-akari-school-trip.json) |
 | Akari: The Five Eyed Fox | 211026 | [211026-akari-the-five-eyed-fox.json](./211026-akari-the-five-eyed-fox.json) |
+| Akasen Gairo: Shouwa 33 Nen no Hatsuyuki | 153663 | [153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json](./153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json) |
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
@@ -6900,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
 | Alpha Wing 2 | 263423 | [263423-alpha-wing-2.json](./263423-alpha-wing-2.json) |
 | Alpha Zen | 232476 | [232476-alpha-zen.json](./232476-alpha-zen.json) |
+| Alpha Zone 3D | 153633 | [153633-alpha-zone-3d.json](./153633-alpha-zone-3d.json) |
 | Alpha Zylon | 17629 | [17629-alpha-zylon.json](./17629-alpha-zylon.json) |
 | Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
@@ -16197,6 +16201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi Yaji | 283806 | [283806-ayakashi-yaji.json](./283806-ayakashi-yaji.json) |
 | Ayakashi Yokocho no Natsuyasumi | 414273 | [414273-ayakashi-yokocho-no-natsuyasumi.json](./414273-ayakashi-yokocho-no-natsuyasumi.json) |
 | Ayakashi: Ghost Guild | 39179 | [39179-ayakashi-ghost-guild.json](./39179-ayakashi-ghost-guild.json) |
+| Ayakashi: Romance Reborn | 153683 | [153683-ayakashi-romance-reborn.json](./153683-ayakashi-romance-reborn.json) |
 | Ayakashi: Romance Reborn Dawn Chapter & Twilight Chapter | 147817 | [147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json](./147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
 | Ayakashibito: Genyou Ibunroku Portable | 257853 | [257853-ayakashibito-genyou-ibunroku-portable.json](./257853-ayakashibito-genyou-ibunroku-portable.json) |
