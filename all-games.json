@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T22:41:39.307Z",
-  "total_soundtracks": 2724,
+  "generated_at": "2026-10-30T22:45:50.838Z",
+  "total_soundtracks": 2725,
   "games": [
     {
       "igdb_id": 7522,
@@ -22106,6 +22106,20 @@
           "album_name": "Rainbow Six: Siege X (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4815THJn6Kj6Kx6Cku9hTY",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 81086,
+      "game_name": "Rainswept",
+      "game_url": "https://ostdb.net/games/rainswept",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ee1ab9109e6053936f8f4aed",
+      "albums": [
+        {
+          "album_name": "Rainswept (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1N5rFddUUVycGt9AlAEbfd",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
