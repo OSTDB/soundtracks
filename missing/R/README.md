@@ -10853,6 +10853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined Nurse | 324183 | [324183-ruined-nurse.json](./324183-ruined-nurse.json) |
 | Ruined Vacation | 313960 | [313960-ruined-vacation.json](./313960-ruined-vacation.json) |
 | Ruiner 2 | 393936 | [393936-ruiner-2.json](./393936-ruiner-2.json) |
+| Ruinic | 128144 | [128144-ruinic.json](./128144-ruinic.json) |
 | Ruins | 183198 | [183198-ruins.json](./183198-ruins.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
