@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oripathy | 267579 | [267579-oripathy.json](./267579-oripathy.json) |
 | Orisinal Collection | 397867 | [397867-orisinal-collection.json](./397867-orisinal-collection.json) |
 | Orisinal: Morning Sunshine | 194618 | [194618-orisinal-morning-sunshine.json](./194618-orisinal-morning-sunshine.json) |
+| Orison of Mercury | 134871 | [134871-orison-of-mercury.json](./134871-orison-of-mercury.json) |
 | Orisries | 314635 | [314635-orisries.json](./314635-orisries.json) |
 | Orium | 381782 | [381782-orium.json](./381782-orium.json) |
 | Orius | 283337 | [283337-orius.json](./283337-orius.json) |
@@ -4155,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Others | 117662 | [117662-others.json](./117662-others.json) |
 | Others | 125933 | [125933-others.json](./125933-others.json) |
 | Others | 373744 | [373744-others.json](./373744-others.json) |
+| Otherside | 134824 | [134824-otherside.json](./134824-otherside.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
 | Otherside Tapes: Favela | 422100 | [422100-otherside-tapes-favela.json](./422100-otherside-tapes-favela.json) |
