@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Sword | 377264 | [377264-wandering-sword.json](./377264-wandering-sword.json) |
 | Wandering Sword: Mount Pack - Majestic Steeds | 377263 | [377263-wandering-sword-mount-pack-majestic-steeds.json](./377263-wandering-sword-mount-pack-majestic-steeds.json) |
 | Wandering Sword: Secrets of the Eastern Sea | 341672 | [341672-wandering-sword-secrets-of-the-eastern-sea.json](./341672-wandering-sword-secrets-of-the-eastern-sea.json) |
+| Wandering Through the Vines | 129396 | [129396-wandering-through-the-vines.json](./129396-wandering-through-the-vines.json) |
 | Wandering Trails: A Hiking Game | 152742 | [152742-wandering-trails-a-hiking-game.json](./152742-wandering-trails-a-hiking-game.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wandering Wolf | 165959 | [165959-wandering-wolf.json](./165959-wandering-wolf.json) |
