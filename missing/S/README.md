@@ -3503,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dogs: To Each His Own - Flying the Jolly Roger | 172374 | [172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json](./172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json) |
 | Sea Dogs: To Each His Own - Happily Ever After | 155408 | [155408-sea-dogs-to-each-his-own-happily-ever-after.json](./155408-sea-dogs-to-each-his-own-happily-ever-after.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
+| Sea Dogs: To Each His Own - The Caleuche | 170125 | [170125-sea-dogs-to-each-his-own-the-caleuche.json](./170125-sea-dogs-to-each-his-own-the-caleuche.json) |
 | Sea Dogs: To Each His Own - The Final Lesson | 172348 | [172348-sea-dogs-to-each-his-own-the-final-lesson.json](./172348-sea-dogs-to-each-his-own-the-final-lesson.json) |
 | Sea Dove | 246792 | [246792-sea-dove.json](./246792-sea-dove.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
@@ -4769,7 +4770,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Hime 7: Senun Tsuranuku Guren no Ishi - Limited Edition | 167028 | [167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json](./167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json) |
 | Sengoku IXA | 289017 | [289017-sengoku-ixa.json](./289017-sengoku-ixa.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
+| Sengoku Jidai: Bjeongja Horan Campaign - 2nd Manchu Invasion of Korea 1636 | 170159 | [170159-sengoku-jidai-bjeongja-horan-campaign-2nd-manchu-invasion-of-korea-1636.json](./170159-sengoku-jidai-bjeongja-horan-campaign-2nd-manchu-invasion-of-korea-1636.json) |
+| Sengoku Jidai: Gempei Kassen | 170161 | [170161-sengoku-jidai-gempei-kassen.json](./170161-sengoku-jidai-gempei-kassen.json) |
 | Sengoku Jidai: Genko Campaign - 2nd Mongol Invasion of Japan 1281 | 184473 | [184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json](./184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json) |
+| Sengoku Jidai: Genko MP Skirmishes | 170160 | [170160-sengoku-jidai-genko-mp-skirmishes.json](./170160-sengoku-jidai-genko-mp-skirmishes.json) |
 | Sengoku Jidai: Mandate of Heaven | 68437 | [68437-sengoku-jidai-mandate-of-heaven.json](./68437-sengoku-jidai-mandate-of-heaven.json) |
 | Sengoku Jidai: Shadow of the Shogun | 34582 | [34582-sengoku-jidai-shadow-of-the-shogun.json](./34582-sengoku-jidai-shadow-of-the-shogun.json) |
 | Sengoku Kakumei Gaiden | 49786 | [49786-sengoku-kakumei-gaiden.json](./49786-sengoku-kakumei-gaiden.json) |
@@ -17318,6 +17322,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Deathwing - Enhanced Edition | 154595 | [154595-space-hulk-deathwing-enhanced-edition.json](./154595-space-hulk-deathwing-enhanced-edition.json) |
 | Space Hulk: Deathwing - Enhanced Edition | 95068 | [95068-space-hulk-deathwing-enhanced-edition.json](./95068-space-hulk-deathwing-enhanced-edition.json) |
 | Space Hulk: Deathwing - Enhanced Edition: Infested Mines | 154596 | [154596-space-hulk-deathwing-enhanced-edition-infested-mines.json](./154596-space-hulk-deathwing-enhanced-edition-infested-mines.json) |
+| Space Hulk: Defilement of Honour Campaign | 170167 | [170167-space-hulk-defilement-of-honour-campaign.json](./170167-space-hulk-defilement-of-honour-campaign.json) |
+| Space Hulk: Harbinger of Torment Campaign | 170166 | [170166-space-hulk-harbinger-of-torment-campaign.json](./170166-space-hulk-harbinger-of-torment-campaign.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
 | Space Hulk: Tactics | 86269 | [86269-space-hulk-tactics.json](./86269-space-hulk-tactics.json) |
@@ -18014,6 +18020,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacelines from the Far Out | 139192 | [139192-spacelines-from-the-far-out.json](./139192-spacelines-from-the-far-out.json) |
 | Spacelord | 183936 | [183936-spacelord.json](./183936-spacelord.json) |
 | Spacelords: Aneska Deluxe Character Pack | 169318 | [169318-spacelords-aneska-deluxe-character-pack.json](./169318-spacelords-aneska-deluxe-character-pack.json) |
+| Spacelords: Raiders of the Broken Planet - Alien Myths Campaign | 170162 | [170162-spacelords-raiders-of-the-broken-planet-alien-myths-campaign.json](./170162-spacelords-raiders-of-the-broken-planet-alien-myths-campaign.json) |
+| Spacelords: Raiders of the Broken Planet - Wardog Fury Campaign | 170171 | [170171-spacelords-raiders-of-the-broken-planet-wardog-fury-campaign.json](./170171-spacelords-raiders-of-the-broken-planet-wardog-fury-campaign.json) |
 | Spacelords: Schneider Deluxe Character Pack | 169317 | [169317-spacelords-schneider-deluxe-character-pack.json](./169317-spacelords-schneider-deluxe-character-pack.json) |
 | Spacelords: Sööma Deluxe Character Pack | 169302 | [169302-spacelords-sooma-deluxe-character-pack.json](./169302-spacelords-sooma-deluxe-character-pack.json) |
 | Spacelords: the unofficial visual novel | 183054 | [183054-spacelords-the-unofficial-visual-novel.json](./183054-spacelords-the-unofficial-visual-novel.json) |
@@ -18903,6 +18911,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellUp | 233102 | [233102-spellup.json](./233102-spellup.json) |
 | Spellwake | 108373 | [108373-spellwake.json](./108373-spellwake.json) |
 | Spellweaver | 18010 | [18010-spellweaver.json](./18010-spellweaver.json) |
+| Spellweaver Chronicles: The Holy Child | 170135 | [170135-spellweaver-chronicles-the-holy-child.json](./170135-spellweaver-chronicles-the-holy-child.json) |
+| Spellweaver: Duke's Zombies Deck | 170137 | [170137-spellweaver-dukes-zombies-deck.json](./170137-spellweaver-dukes-zombies-deck.json) |
+| Spellweaver: Vampire Overlord Deck | 170136 | [170136-spellweaver-vampire-overlord-deck.json](./170136-spellweaver-vampire-overlord-deck.json) |
 | Spellwheel | 322968 | [322968-spellwheel.json](./322968-spellwheel.json) |
 | Spellworm | 124054 | [124054-spellworm.json](./124054-spellworm.json) |
 | Spellwrath | 28149 | [28149-spellwrath.json](./28149-spellwrath.json) |
@@ -20630,6 +20641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
 | Squares Puzzle | 334824 | [334824-squares-puzzle.json](./334824-squares-puzzle.json) |
 | Squares Rage | 151508 | [151508-squares-rage.json](./151508-squares-rage.json) |
+| Squares Rage: Character - Crying Chris | 170120 | [170120-squares-rage-character-crying-chris.json](./170120-squares-rage-character-crying-chris.json) |
 | Squares Story | 143944 | [143944-squares-story.json](./143944-squares-story.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
 | Squarewave Maker | 90139 | [90139-squarewave-maker.json](./90139-squarewave-maker.json) |
@@ -30130,6 +30142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Game of Gods | 139746 | [139746-surface-game-of-gods.json](./139746-surface-game-of-gods.json) |
 | Surface: Game of Gods - Collector's Edition | 55661 | [55661-surface-game-of-gods-collectors-edition.json](./55661-surface-game-of-gods-collectors-edition.json) |
+| Surface: Lost Tales - Collector's Edition | 170122 | [170122-surface-lost-tales-collectors-edition.json](./170122-surface-lost-tales-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surface: Reel Life | 139747 | [139747-surface-reel-life.json](./139747-surface-reel-life.json) |
 | Surface: Reel Life - Collector's Edition | 29619 | [29619-surface-reel-life-collectors-edition.json](./29619-surface-reel-life-collectors-edition.json) |
