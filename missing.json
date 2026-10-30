@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T05:18:22.166Z",
-  "total_missing": 282596,
+  "generated_at": "2026-10-30T05:34:12.304Z",
+  "total_missing": 282648,
   "games": [
     {
       "igdb_id": 191680,
@@ -83267,6 +83267,11 @@
       "file": "missing/A/8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json"
     },
     {
+      "igdb_id": 164698,
+      "game_name": "Assassin's Creed Bundle: Assassin's Creed Valhalla, Assassin's Creed Odyssey, and Assassin's Creed Origins",
+      "file": "missing/A/164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json"
+    },
+    {
       "igdb_id": 14902,
       "game_name": "Assassin's Creed Chronicles: India",
       "file": "missing/A/14902-assassins-creed-chronicles-india.json"
@@ -83695,6 +83700,11 @@
       "igdb_id": 316131,
       "game_name": "Assassin's Creed Unity: Underground Armory Pack",
       "file": "missing/A/316131-assassins-creed-unity-underground-armory-pack.json"
+    },
+    {
+      "igdb_id": 164694,
+      "game_name": "Assassin's Creed Valhalla + Immortals Fenyx Rising Bundle",
+      "file": "missing/A/164694-assassins-creed-valhalla-immortals-fenyx-rising-bundle.json"
     },
     {
       "igdb_id": 228706,
@@ -101657,6 +101667,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -118550,6 +118565,11 @@
       "igdb_id": 110044,
       "game_name": "Beach Buggy Racing 2",
       "file": "missing/B/110044-beach-buggy-racing-2.json"
+    },
+    {
+      "igdb_id": 164743,
+      "game_name": "Beach Buggy Racing 2: Hot Wheels Edition",
+      "file": "missing/B/164743-beach-buggy-racing-2-hot-wheels-edition.json"
     },
     {
       "igdb_id": 174494,
@@ -154307,6 +154327,11 @@
       "file": "missing/B/410830-bone-marrow-2.json"
     },
     {
+      "igdb_id": 164700,
+      "game_name": "Bone Marrow: Console Edition",
+      "file": "missing/B/164700-bone-marrow-console-edition.json"
+    },
+    {
       "igdb_id": 146877,
       "game_name": "Bone Mayhem",
       "file": "missing/B/146877-bone-mayhem.json"
@@ -175017,6 +175042,11 @@
       "file": "missing/B/199886-bundle-cats-dog.json"
     },
     {
+      "igdb_id": 164722,
+      "game_name": "Bundle Epopeia Puzzle Games",
+      "file": "missing/B/164722-bundle-epopeia-puzzle-games.json"
+    },
+    {
       "igdb_id": 317526,
       "game_name": "Bundle of Joy",
       "file": "missing/B/317526-bundle-of-joy.json"
@@ -188162,6 +188192,11 @@
       "file": "missing/C/403130-captains-call.json"
     },
     {
+      "igdb_id": 164706,
+      "game_name": "Captain's Choice Bundle",
+      "file": "missing/C/164706-captains-choice-bundle.json"
+    },
+    {
       "igdb_id": 181130,
       "game_name": "Captain's Room",
       "file": "missing/C/181130-captains-room.json"
@@ -188935,6 +188970,11 @@
       "igdb_id": 119714,
       "game_name": "Car Mechanic Simulator VR",
       "file": "missing/C/119714-car-mechanic-simulator-vr.json"
+    },
+    {
+      "igdb_id": 164745,
+      "game_name": "Car Mechanic Simulator: Deluxe Edition",
+      "file": "missing/C/164745-car-mechanic-simulator-deluxe-edition.json"
     },
     {
       "igdb_id": 122871,
@@ -193105,6 +193145,11 @@
       "igdb_id": 335068,
       "game_name": "Cartoon Pet Game",
       "file": "missing/C/335068-cartoon-pet-game.json"
+    },
+    {
+      "igdb_id": 164728,
+      "game_name": "Cartoon Puzzler Bundle",
+      "file": "missing/C/164728-cartoon-puzzler-bundle.json"
     },
     {
       "igdb_id": 239216,
@@ -237812,6 +237857,11 @@
       "file": "missing/C/402464-conan-exiles-enhanced.json"
     },
     {
+      "igdb_id": 164707,
+      "game_name": "Conan Exiles: Architects of Argos Pack",
+      "file": "missing/C/164707-conan-exiles-architects-of-argos-pack.json"
+    },
+    {
       "igdb_id": 164781,
       "game_name": "Conan Exiles: Blood and Sand Pack",
       "file": "missing/C/164781-conan-exiles-blood-and-sand-pack.json"
@@ -237875,6 +237925,16 @@
       "igdb_id": 164775,
       "game_name": "Conan Exiles: Seekers of the Dawn Pack",
       "file": "missing/C/164775-conan-exiles-seekers-of-the-dawn-pack.json"
+    },
+    {
+      "igdb_id": 164708,
+      "game_name": "Conan Exiles: The Imperial East Pack",
+      "file": "missing/C/164708-conan-exiles-the-imperial-east-pack.json"
+    },
+    {
+      "igdb_id": 164720,
+      "game_name": "Conan Exiles: The Riddle of Steel",
+      "file": "missing/C/164720-conan-exiles-the-riddle-of-steel.json"
     },
     {
       "igdb_id": 117416,
@@ -358157,6 +358217,11 @@
       "file": "missing/E/209176-ea-replay-2.json"
     },
     {
+      "igdb_id": 164701,
+      "game_name": "EA Speed & Seed Bundle",
+      "file": "missing/E/164701-ea-speed-and-seed-bundle.json"
+    },
+    {
       "igdb_id": 220088,
       "game_name": "EA Sports",
       "file": "missing/E/220088-ea-sports.json"
@@ -405622,6 +405687,11 @@
       "file": "missing/F/53011-far-cry-5-gold-edition.json"
     },
     {
+      "igdb_id": 164718,
+      "game_name": "Far Cry 5: Gold Edition + Far Cry: New Dawn - Deluxe Edition Bundle",
+      "file": "missing/F/164718-far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle.json"
+    },
+    {
       "igdb_id": 83887,
       "game_name": "Far Cry 5: Resistance Edition",
       "file": "missing/F/83887-far-cry-5-resistance-edition.json"
@@ -423237,6 +423307,11 @@
       "file": "missing/F/310756-firework-syndrome.json"
     },
     {
+      "igdb_id": 164744,
+      "game_name": "Firework: A Modern Tale",
+      "file": "missing/F/164744-firework-a-modern-tale.json"
+    },
+    {
       "igdb_id": 216066,
       "game_name": "Fireworks",
       "file": "missing/F/216066-fireworks.json"
@@ -425310,6 +425385,11 @@
       "igdb_id": 170483,
       "game_name": "Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack",
       "file": "missing/F/170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json"
+    },
+    {
+      "igdb_id": 164731,
+      "game_name": "Fishing Sim World: Pro Tour + The Catch: Carp & Coarse",
+      "file": "missing/F/164731-fishing-sim-world-pro-tour-the-catch-carp-and-coarse.json"
     },
     {
       "igdb_id": 109306,
@@ -472787,6 +472867,11 @@
       "file": "missing/G/164795-geometry-ball-escape.json"
     },
     {
+      "igdb_id": 164719,
+      "game_name": "Geometry Ball Jump",
+      "file": "missing/G/164719-geometry-ball-jump.json"
+    },
+    {
       "igdb_id": 324583,
       "game_name": "Geometry Blaster",
       "file": "missing/G/324583-geometry-blaster.json"
@@ -517712,6 +517797,11 @@
       "file": "missing/H/32302-hardcube.json"
     },
     {
+      "igdb_id": 164695,
+      "game_name": "HardCube + Mystery Mine Bundle",
+      "file": "missing/H/164695-hardcube-mystery-mine-bundle.json"
+    },
+    {
       "igdb_id": 220033,
       "game_name": "HardCube 2",
       "file": "missing/H/220033-hardcube-2.json"
@@ -535780,6 +535870,11 @@
       "igdb_id": 17531,
       "game_name": "Heroes & Legends: Conquerors of Kolhar",
       "file": "missing/H/17531-heroes-and-legends-conquerors-of-kolhar.json"
+    },
+    {
+      "igdb_id": 164735,
+      "game_name": "Heroes & Villains Bundle",
+      "file": "missing/H/164735-heroes-and-villains-bundle.json"
     },
     {
       "igdb_id": 70847,
@@ -562002,6 +562097,11 @@
       "file": "missing/H/89147-hunt-down-the-freeman.json"
     },
     {
+      "igdb_id": 164741,
+      "game_name": "Hunt Ducks",
+      "file": "missing/H/164741-hunt-ducks.json"
+    },
+    {
       "igdb_id": 55248,
       "game_name": "Hunt For Gods",
       "file": "missing/H/55248-hunt-for-gods.json"
@@ -563012,6 +563112,11 @@
       "file": "missing/H/130000-hunting-simulator-2.json"
     },
     {
+      "igdb_id": 164746,
+      "game_name": "Hunting Simulator 2: Bear Hunter Edition",
+      "file": "missing/H/164746-hunting-simulator-2-bear-hunter-edition.json"
+    },
+    {
       "igdb_id": 224221,
       "game_name": "Hunting Simulator 2: Bear Hunter Pack",
       "file": "missing/H/224221-hunting-simulator-2-bear-hunter-pack.json"
@@ -563020,6 +563125,11 @@
       "igdb_id": 224220,
       "game_name": "Hunting Simulator 2: Beretta Weapon Pack",
       "file": "missing/H/224220-hunting-simulator-2-beretta-weapon-pack.json"
+    },
+    {
+      "igdb_id": 164716,
+      "game_name": "Hunting Simulator 2: Elite Edition",
+      "file": "missing/H/164716-hunting-simulator-2-elite-edition.json"
     },
     {
       "igdb_id": 323189,
@@ -614487,6 +614597,11 @@
       "file": "missing/J/103261-just-cause-4.json"
     },
     {
+      "igdb_id": 164732,
+      "game_name": "Just Cause 4: Black Market Pack",
+      "file": "missing/J/164732-just-cause-4-black-market-pack.json"
+    },
+    {
       "igdb_id": 121529,
       "game_name": "Just Cause 4: Danger Rising",
       "file": "missing/J/121529-just-cause-4-danger-rising.json"
@@ -628320,6 +628435,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -665470,6 +665590,11 @@
       "igdb_id": 353774,
       "game_name": "Light Night Street",
       "file": "missing/L/353774-light-night-street.json"
+    },
+    {
+      "igdb_id": 164696,
+      "game_name": "Light Nite",
+      "file": "missing/L/164696-light-nite.json"
     },
     {
       "igdb_id": 279655,
@@ -711997,6 +712122,11 @@
       "file": "missing/M/103600-masked-forces-3.json"
     },
     {
+      "igdb_id": 164702,
+      "game_name": "Masked Ninja Action",
+      "file": "missing/M/164702-masked-ninja-action.json"
+    },
+    {
       "igdb_id": 36519,
       "game_name": "Masked Shooters",
       "file": "missing/M/36519-masked-shooters.json"
@@ -747742,6 +747872,11 @@
       "file": "missing/M/367010-minimalist-box.json"
     },
     {
+      "igdb_id": 164691,
+      "game_name": "Minimalist Bundle",
+      "file": "missing/M/164691-minimalist-bundle.json"
+    },
+    {
       "igdb_id": 294098,
       "game_name": "Minimalist Farm Tycoon",
       "file": "missing/M/294098-minimalist-farm-tycoon.json"
@@ -753205,6 +753340,11 @@
       "igdb_id": 143260,
       "game_name": "MLB The Show 21",
       "file": "missing/M/143260-mlb-the-show-21.json"
+    },
+    {
+      "igdb_id": 164688,
+      "game_name": "MLB The Show 21: Digital Deluxe Edition",
+      "file": "missing/M/164688-mlb-the-show-21-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 146034,
@@ -759437,6 +759577,11 @@
       "file": "missing/M/170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json"
     },
     {
+      "igdb_id": 164689,
+      "game_name": "Monster Energy Supercross: The Official Videogame 4 - Special Edition",
+      "file": "missing/M/164689-monster-energy-supercross-the-official-videogame-4-special-edition.json"
+    },
+    {
       "igdb_id": 197589,
       "game_name": "Monster Energy Supercross: The Official Videogame 5 - Legends Pack Vol. 1",
       "file": "missing/M/197589-monster-energy-supercross-the-official-videogame-5-legends-pack-vol-1.json"
@@ -765440,6 +765585,11 @@
       "igdb_id": 100157,
       "game_name": "Morkredd",
       "file": "missing/M/100157-morkredd.json"
+    },
+    {
+      "igdb_id": 164721,
+      "game_name": "Morkredd: Ra Edition",
+      "file": "missing/M/164721-morkredd-ra-edition.json"
     },
     {
       "igdb_id": 390674,
@@ -778250,6 +778400,11 @@
       "igdb_id": 169071,
       "game_name": "MX vs. ATV All Out: 2018 Polaris RZR XP Turbo Dynamix",
       "file": "missing/M/169071-mx-vs-atv-all-out-2018-polaris-rzr-xp-turbo-dynamix.json"
+    },
+    {
+      "igdb_id": 164723,
+      "game_name": "MX vs. ATV All Out: 2020 AMA Pro Motocross Championship",
+      "file": "missing/M/164723-mx-vs-atv-all-out-2020-ama-pro-motocross-championship.json"
     },
     {
       "igdb_id": 206779,
@@ -846277,9 +846432,19 @@
       "file": "missing/O/83761-outbreak-bundle.json"
     },
     {
+      "igdb_id": 164710,
+      "game_name": "Outbreak Co-Op Anthology",
+      "file": "missing/O/164710-outbreak-co-op-anthology.json"
+    },
+    {
       "igdb_id": 340740,
       "game_name": "Outbreak Contagion Co-Op Collection",
       "file": "missing/O/340740-outbreak-contagion-co-op-collection.json"
+    },
+    {
+      "igdb_id": 164738,
+      "game_name": "Outbreak Definitive Collection",
+      "file": "missing/O/164738-outbreak-definitive-collection.json"
     },
     {
       "igdb_id": 200177,
@@ -846567,6 +846732,11 @@
       "file": "missing/O/234305-outbreak-the-new-nightmare-definitive-collection.json"
     },
     {
+      "igdb_id": 164736,
+      "game_name": "Outbreak: The New Nightmare - Definitive Edition",
+      "file": "missing/O/164736-outbreak-the-new-nightmare-definitive-edition.json"
+    },
+    {
       "igdb_id": 261358,
       "game_name": "Outbreak: The New Nightmare - Revisited",
       "file": "missing/O/261358-outbreak-the-new-nightmare-revisited.json"
@@ -846595,6 +846765,11 @@
       "igdb_id": 228940,
       "game_name": "Outbreak: The Nightmare Chronicles - Definitive Collection",
       "file": "missing/O/228940-outbreak-the-nightmare-chronicles-definitive-collection.json"
+    },
+    {
+      "igdb_id": 164713,
+      "game_name": "Outbreak: The Nightmare Chronicles - Definitive Edition",
+      "file": "missing/O/164713-outbreak-the-nightmare-chronicles-definitive-edition.json"
     },
     {
       "igdb_id": 261362,
@@ -865470,6 +865645,11 @@
       "igdb_id": 164579,
       "game_name": "Payday 2: Crimewave Edition - GOAT Simulator Heists",
       "file": "missing/P/164579-payday-2-crimewave-edition-goat-simulator-heists.json"
+    },
+    {
+      "igdb_id": 164742,
+      "game_name": "Payday 2: Crimewave Edition - Scarface Heist",
+      "file": "missing/P/164742-payday-2-crimewave-edition-scarface-heist.json"
     },
     {
       "igdb_id": 255475,
@@ -940492,6 +940672,11 @@
       "file": "missing/R/24109-r-type-final.json"
     },
     {
+      "igdb_id": 164704,
+      "game_name": "R-Type Final 2: Digital Deluxe Edition",
+      "file": "missing/R/164704-r-type-final-2-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 155065,
       "game_name": "R-Type Final 2: DLC Set 1",
       "file": "missing/R/155065-r-type-final-2-dlc-set-1.json"
@@ -976067,6 +976252,11 @@
       "file": "missing/R/3173-risk-of-rain.json"
     },
     {
+      "igdb_id": 164715,
+      "game_name": "Risk of Rain 1 + 2 Bundle",
+      "file": "missing/R/164715-risk-of-rain-1-2-bundle.json"
+    },
+    {
       "igdb_id": 201040,
       "game_name": "Risk of Rain 2 + Survivors of the Void",
       "file": "missing/R/201040-risk-of-rain-2-survivors-of-the-void.json"
@@ -997750,6 +997940,11 @@
       "igdb_id": 146116,
       "game_name": "Rust: Console Edition - Day One",
       "file": "missing/R/146116-rust-console-edition-day-one.json"
+    },
+    {
+      "igdb_id": 164705,
+      "game_name": "Rust: Console Edition - Deluxe",
+      "file": "missing/R/164705-rust-console-edition-deluxe.json"
     },
     {
       "igdb_id": 259752,
@@ -1021945,6 +1022140,11 @@
       "igdb_id": 114920,
       "game_name": "Self-Reliance",
       "file": "missing/S/114920-self-reliance.json"
+    },
+    {
+      "igdb_id": 164740,
+      "game_name": "Self: Where's My Father",
+      "file": "missing/S/164740-self-wheres-my-father.json"
     },
     {
       "igdb_id": 17176,
@@ -1048322,6 +1048522,11 @@
       "file": "missing/S/193852-simulator-of-llo-neighbor.json"
     },
     {
+      "igdb_id": 164697,
+      "game_name": "Simulator Pack: Car Mechanic Simulator and Gold Rush: The Game - Double Bundle",
+      "file": "missing/S/164697-simulator-pack-car-mechanic-simulator-and-gold-rush-the-game-double-bundle.json"
+    },
+    {
       "igdb_id": 251110,
       "game_name": "Simulator Pack: Gas Station Simulator and Treasure Hunter Simulator",
       "file": "missing/S/251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json"
@@ -1065855,6 +1066060,11 @@
       "igdb_id": 197352,
       "game_name": "Sniper Ghost Warrior Contracts 2: Complete Edition",
       "file": "missing/S/197352-sniper-ghost-warrior-contracts-2-complete-edition.json"
+    },
+    {
+      "igdb_id": 164690,
+      "game_name": "Sniper Ghost Warrior Contracts 2: Deluxe Arsenal Edition",
+      "file": "missing/S/164690-sniper-ghost-warrior-contracts-2-deluxe-arsenal-edition.json"
     },
     {
       "igdb_id": 370318,
@@ -1084567,6 +1084777,11 @@
       "file": "missing/S/310403-space-engineers-signal-pack.json"
     },
     {
+      "igdb_id": 164714,
+      "game_name": "Space Engineers: Ultimate Edition 2020",
+      "file": "missing/S/164714-space-engineers-ultimate-edition-2020.json"
+    },
+    {
       "igdb_id": 187967,
       "game_name": "Space Engineers: Ultimate Edition 2021",
       "file": "missing/S/187967-space-engineers-ultimate-edition-2021.json"
@@ -1101760,6 +1101975,11 @@
       "igdb_id": 156054,
       "game_name": "Square vs Triangles",
       "file": "missing/S/156054-square-vs-triangles.json"
+    },
+    {
+      "igdb_id": 164739,
+      "game_name": "Square vs Triangles",
+      "file": "missing/S/164739-square-vs-triangles.json"
     },
     {
       "igdb_id": 246779,
@@ -1155737,6 +1155957,11 @@
       "file": "missing/S/335735-sword-and-siege-crusades-book-i.json"
     },
     {
+      "igdb_id": 164724,
+      "game_name": "Sword & Sorcery Bundle",
+      "file": "missing/S/164724-sword-and-sorcery-bundle.json"
+    },
+    {
       "igdb_id": 257892,
       "game_name": "Sword & Spatula",
       "file": "missing/S/257892-sword-and-spatula.json"
@@ -1168747,6 +1168972,11 @@
       "file": "missing/T/210872-tanks-boom-boom.json"
     },
     {
+      "igdb_id": 164727,
+      "game_name": "Tanks Bundle",
+      "file": "missing/T/164727-tanks-bundle.json"
+    },
+    {
       "igdb_id": 40724,
       "game_name": "Tanks But No Tanks",
       "file": "missing/T/40724-tanks-but-no-tanks.json"
@@ -1180617,6 +1180847,11 @@
       "file": "missing/T/28592-tesla-vs-lovecraft.json"
     },
     {
+      "igdb_id": 164692,
+      "game_name": "Tesla vs Lovecraft: Game of the Year Edition",
+      "file": "missing/T/164692-tesla-vs-lovecraft-game-of-the-year-edition.json"
+    },
+    {
       "igdb_id": 63177,
       "game_name": "Tesla Wars",
       "file": "missing/T/63177-tesla-wars.json"
@@ -1191032,6 +1191267,11 @@
       "file": "missing/T/122350-the-cases-of-the-thousands-shogi-records.json"
     },
     {
+      "igdb_id": 164725,
+      "game_name": "The Casino Collection: Ruleta, Vídeo Póker, Tragaperras, Craps, Baccarat, Five-Card Draw Poker, Texas hold 'em, Blackjack and Page One",
+      "file": "missing/T/164725-the-casino-collection-ruleta-video-poker-tragaperras-craps-baccarat-five-card-draw-poker-texas-hold-em-blackjack-and-page-one.json"
+    },
+    {
       "igdb_id": 257940,
       "game_name": "The Casino Empire",
       "file": "missing/T/257940-the-casino-empire.json"
@@ -1199770,6 +1200010,11 @@
       "igdb_id": 154961,
       "game_name": "The Evil Within Bundle",
       "file": "missing/T/154961-the-evil-within-bundle.json"
+    },
+    {
+      "igdb_id": 164730,
+      "game_name": "The Evil Within Digital Bundle",
+      "file": "missing/T/164730-the-evil-within-digital-bundle.json"
     },
     {
       "igdb_id": 146135,
@@ -1270432,6 +1270677,11 @@
       "file": "missing/T/146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json"
     },
     {
+      "igdb_id": 164711,
+      "game_name": "Tom Clancy's The Division 2: Warlords of New York Edition",
+      "file": "missing/T/164711-tom-clancys-the-division-2-warlords-of-new-york-edition.json"
+    },
+    {
       "igdb_id": 152165,
       "game_name": "Tom Clancy's The Division 2: Year 1 Pass",
       "file": "missing/T/152165-tom-clancys-the-division-2-year-1-pass.json"
@@ -1336062,6 +1336312,11 @@
       "file": "missing/V/18734-violett.json"
     },
     {
+      "igdb_id": 164712,
+      "game_name": "Violett Remastered",
+      "file": "missing/V/164712-violett-remastered.json"
+    },
+    {
       "igdb_id": 58005,
       "game_name": "Violetta: Rhythm & Music",
       "file": "missing/V/58005-violetta-rhythm-and-music.json"
@@ -1354620,6 +1354875,11 @@
       "igdb_id": 164573,
       "game_name": "Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle",
       "file": "missing/W/164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json"
+    },
+    {
+      "igdb_id": 164703,
+      "game_name": "Watch Dogs 1 + Watch Dogs 2 Standard Editions Bundle",
+      "file": "missing/W/164703-watch-dogs-1-watch-dogs-2-standard-editions-bundle.json"
     },
     {
       "igdb_id": 226879,
