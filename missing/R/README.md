@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
 | Rainbows, Toilets & Unicorns: Influencerama | 171407 | [171407-rainbows-toilets-and-unicorns-influencerama.json](./171407-rainbows-toilets-and-unicorns-influencerama.json) |
 | Rainbows, Toilets & Unicorns: Outraged & Offended | 171569 | [171569-rainbows-toilets-and-unicorns-outraged-and-offended.json](./171569-rainbows-toilets-and-unicorns-outraged-and-offended.json) |
+| Rainbows, Toilets & Unicorns: Political Drama | 171764 | [171764-rainbows-toilets-and-unicorns-political-drama.json](./171764-rainbows-toilets-and-unicorns-political-drama.json) |
 | Rainboy | 178082 | [178082-rainboy.json](./178082-rainboy.json) |
 | Rainchaser | 315623 | [315623-rainchaser.json](./315623-rainchaser.json) |
 | Raincore | 400214 | [400214-raincore.json](./400214-raincore.json) |
@@ -8288,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Star Ate My Hamster | 12751 | [12751-rock-star-ate-my-hamster.json](./12751-rock-star-ate-my-hamster.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock Star Manager | 186680 | [186680-rock-star-manager.json](./186680-rock-star-manager.json) |
+| Rock Star Simulator | 171752 | [171752-rock-star-simulator.json](./171752-rock-star-simulator.json) |
 | Rock the Goat | 239615 | [239615-rock-the-goat.json](./239615-rock-the-goat.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
