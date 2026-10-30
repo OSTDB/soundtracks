@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapellmeister | 197517 | [197517-kapellmeister.json](./197517-kapellmeister.json) |
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapi Hospital | 260739 | [260739-kapi-hospital.json](./260739-kapi-hospital.json) |
+| Kapia | 139625 | [139625-kapia.json](./139625-kapia.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kapital Punishment 22XX | 236439 | [236439-kapital-punishment-22xx.json](./236439-kapital-punishment-22xx.json) |
 | Kapital: Sparks of Revolution | 144827 | [144827-kapital-sparks-of-revolution.json](./144827-kapital-sparks-of-revolution.json) |
@@ -870,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karen's Fault | 265101 | [265101-karens-fault.json](./265101-karens-fault.json) |
 | Kareshi no Mawari ni itara Iya na Onna Tomodachi wo Kobushi de Wakaraseru Game | 373699 | [373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json](./373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json) |
 | Karga | 296458 | [296458-karga.json](./296458-karga.json) |
+| Kargast | 139633 | [139633-kargast.json](./139633-kargast.json) |
 | Kargo | 197478 | [197478-kargo.json](./197478-kargo.json) |
 | Kargo: A neo-noir adventure | 217492 | [217492-kargo-a-neo-noir-adventure.json](./217492-kargo-a-neo-noir-adventure.json) |
 | Kari | 150497 | [150497-kari.json](./150497-kari.json) |
@@ -5203,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriss Kross by Powgi | 91256 | [91256-kriss-kross-by-powgi.json](./91256-kriss-kross-by-powgi.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kristal Mağara | 235269 | [235269-kristal-magara.json](./235269-kristal-magara.json) |
+| Kristala | 140793 | [140793-kristala.json](./140793-kristala.json) |
 | Kristi Sky Islands | 423299 | [423299-kristi-sky-islands.json](./423299-kristi-sky-islands.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
