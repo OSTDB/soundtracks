@@ -4363,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glide Hockey | 80149 | [80149-glide-hockey.json](./80149-glide-hockey.json) |
 | Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
 | Glider 4.0 | 72313 | [72313-glider-4-0.json](./72313-glider-4-0.json) |
+| Glider Classic | 128791 | [128791-glider-classic.json](./128791-glider-classic.json) |
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Sim | 160085 | [160085-glider-sim.json](./160085-glider-sim.json) |
@@ -6471,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gopnik | 153461 | [153461-gopnik.json](./153461-gopnik.json) |
 | Gopnik Simulator | 100399 | [100399-gopnik-simulator.json](./100399-gopnik-simulator.json) |
 | GoPogo | 235681 | [235681-gopogo.json](./235681-gopogo.json) |
+| GOR - Gorilla Office Rampage! | 128802 | [128802-gor-gorilla-office-rampage.json](./128802-gor-gorilla-office-rampage.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
 | Gorasul: Legacy of the Dragon | 22053 | [22053-gorasul-legacy-of-the-dragon.json](./22053-gorasul-legacy-of-the-dragon.json) |
