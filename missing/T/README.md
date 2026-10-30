@@ -11441,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
 | The Legend of Zelda: Link's Awakening - Artbook Set | 136899 | [136899-the-legend-of-zelda-links-awakening-artbook-set.json](./136899-the-legend-of-zelda-links-awakening-artbook-set.json) |
 | The Legend of Zelda: Link's Awakening - Dreamer Edition | 136334 | [136334-the-legend-of-zelda-links-awakening-dreamer-edition.json](./136334-the-legend-of-zelda-links-awakening-dreamer-edition.json) |
+| The Legend of Zelda: Link's Awakening - Limited Edition | 134231 | [134231-the-legend-of-zelda-links-awakening-limited-edition.json](./134231-the-legend-of-zelda-links-awakening-limited-edition.json) |
 | The Legend of Zelda: Link's Awakening Coop | 324008 | [324008-the-legend-of-zelda-links-awakening-coop.json](./324008-the-legend-of-zelda-links-awakening-coop.json) |
 | The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
 | The Legend of Zelda: Link's Awakening DX Randomizer | 242028 | [242028-the-legend-of-zelda-links-awakening-dx-randomizer.json](./242028-the-legend-of-zelda-links-awakening-dx-randomizer.json) |
@@ -22429,6 +22430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Gold Edition | 112648 | [112648-tom-clancys-the-division-2-gold-edition.json](./112648-tom-clancys-the-division-2-gold-edition.json) |
 | Tom Clancy's The Division 2: Gold Steelbook Edition | 79862 | [79862-tom-clancys-the-division-2-gold-steelbook-edition.json](./79862-tom-clancys-the-division-2-gold-steelbook-edition.json) |
 | Tom Clancy’s The Division 2: Into the Dark Bundle | 408897 | [408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json](./408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json) |
+| Tom Clancy's The Division 2: Limited Edition | 134236 | [134236-tom-clancys-the-division-2-limited-edition.json](./134236-tom-clancys-the-division-2-limited-edition.json) |
 | Tom Clancy's The Division 2: New York DLC Bundle | 377722 | [377722-tom-clancys-the-division-2-new-york-dlc-bundle.json](./377722-tom-clancys-the-division-2-new-york-dlc-bundle.json) |
 | Tom Clancy’s The Division 2: Red Eye Pack | 377721 | [377721-tom-clancy-s-the-division-2-red-eye-pack.json](./377721-tom-clancy-s-the-division-2-red-eye-pack.json) |
 | Tom Clancy's The Division 2: Season 1 - First Rogue | 305236 | [305236-tom-clancys-the-division-2-season-1-first-rogue.json](./305236-tom-clancys-the-division-2-season-1-first-rogue.json) |
