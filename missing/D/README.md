@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Survivor's Guilt | 341080 | [341080-danganronpa-survivors-guilt.json](./341080-danganronpa-survivors-guilt.json) |
 | Danganronpa: Survivor's Guilt - Origin | 411334 | [411334-danganronpa-survivors-guilt-origin.json](./411334-danganronpa-survivors-guilt-origin.json) |
 | Danganronpa/Zero: The Fangame - Despair Through Memetic Waves | 413639 | [413639-danganronpa-zero-the-fangame-despair-through-memetic-waves.json](./413639-danganronpa-zero-the-fangame-despair-through-memetic-waves.json) |
+| Danger Ahead | 165927 | [165927-danger-ahead.json](./165927-danger-ahead.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
 | Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
@@ -4297,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debauchery & Magic | 420588 | [420588-debauchery-and-magic.json](./420588-debauchery-and-magic.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Deber | 294931 | [294931-deber.json](./294931-deber.json) |
+| Debie Zone | 165894 | [165894-debie-zone.json](./165894-debie-zone.json) |
 | Debilitating Dream | 312596 | [312596-debilitating-dream.json](./312596-debilitating-dream.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
@@ -6148,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
 | Der einzig wahre Auserwählte | 83205 | [83205-der-einzig-wahre-auserwahlte.json](./83205-der-einzig-wahre-auserwahlte.json) |
 | Der flinke Architekt | 91870 | [91870-der-flinke-architekt.json](./91870-der-flinke-architekt.json) |
+| Der Geisterjäger: The Ghost Hunter | 165924 | [165924-der-geisterjager-the-ghost-hunter.json](./165924-der-geisterjager-the-ghost-hunter.json) |
 | Der Geistermeister | 369648 | [369648-der-geistermeister.json](./369648-der-geistermeister.json) |
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
 | Der Gesundheitscoach | 268139 | [268139-der-gesundheitscoach.json](./268139-der-gesundheitscoach.json) |
@@ -7152,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5 + Vergil | 165882 | [165882-devil-may-cry-5-vergil.json](./165882-devil-may-cry-5-vergil.json) |
 | Devil May Cry 5: Collector's Edition | 112662 | [112662-devil-may-cry-5-collectors-edition.json](./112662-devil-may-cry-5-collectors-edition.json) |
 | Devil May Cry 5: Deluxe Edition | 111750 | [111750-devil-may-cry-5-deluxe-edition.json](./111750-devil-may-cry-5-deluxe-edition.json) |
+| Devil May Cry 5: Deluxe Edition + Vergil | 165875 | [165875-devil-may-cry-5-deluxe-edition-vergil.json](./165875-devil-may-cry-5-deluxe-edition-vergil.json) |
 | Devil May Cry 5: Mega Buster | 370873 | [370873-devil-may-cry-5-mega-buster.json](./370873-devil-may-cry-5-mega-buster.json) |
 | Devil May Cry 5: Monkey Business | 370875 | [370875-devil-may-cry-5-monkey-business.json](./370875-devil-may-cry-5-monkey-business.json) |
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
@@ -10631,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Mahjong Color | 75456 | [75456-dokodemo-mahjong-color.json](./75456-dokodemo-mahjong-color.json) |
 | Dokodemo Pop'n Music | 227745 | [227745-dokodemo-popn-music.json](./227745-dokodemo-popn-music.json) |
 | Dokodemo Taikyoku: Yakuman Advance | 49586 | [49586-dokodemo-taikyoku-yakuman-advance.json](./49586-dokodemo-taikyoku-yakuman-advance.json) |
+| Dokomademo Aoku... | 165912 | [165912-dokomademo-aoku.json](./165912-dokomademo-aoku.json) |
 | Doku Girls | 336421 | [336421-doku-girls.json](./336421-doku-girls.json) |
 | Doku Girls 2 | 368762 | [368762-doku-girls-2.json](./368762-doku-girls-2.json) |
 | Doku Girls 3 | 370805 | [370805-doku-girls-3.json](./370805-doku-girls-3.json) |
@@ -12902,6 +12907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Android 21 - Lab Coat | 263393 | [263393-dragon-ball-fighterz-android-21-lab-coat.json](./263393-dragon-ball-fighterz-android-21-lab-coat.json) |
 | Dragon Ball FighterZ: Bardock | 144702 | [144702-dragon-ball-fighterz-bardock.json](./144702-dragon-ball-fighterz-bardock.json) |
 | Dragon Ball FighterZ: Broly | 144701 | [144701-dragon-ball-fighterz-broly.json](./144701-dragon-ball-fighterz-broly.json) |
+| Dragon Ball FighterZ: Broly (DBS) | 165885 | [165885-dragon-ball-fighterz-broly-dbs.json](./165885-dragon-ball-fighterz-broly-dbs.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack | 366823 | [366823-dragon-ball-fighterz-commentator-voice-pack.json](./366823-dragon-ball-fighterz-commentator-voice-pack.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 2 | 366820 | [366820-dragon-ball-fighterz-commentator-voice-pack-2.json](./366820-dragon-ball-fighterz-commentator-voice-pack-2.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 3 | 366821 | [366821-dragon-ball-fighterz-commentator-voice-pack-3.json](./366821-dragon-ball-fighterz-commentator-voice-pack-3.json) |
@@ -12913,12 +12919,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
 | Dragon Ball FighterZ: FighterZ Pass | 144714 | [144714-dragon-ball-fighterz-fighterz-pass.json](./144714-dragon-ball-fighterz-fighterz-pass.json) |
 | Dragon Ball FighterZ: FighterZ Pass 3 | 200834 | [200834-dragon-ball-fighterz-fighterz-pass-3.json](./200834-dragon-ball-fighterz-fighterz-pass-3.json) |
+| Dragon Ball FighterZ: Gogeta - SSGSS | 165891 | [165891-dragon-ball-fighterz-gogeta-ssgss.json](./165891-dragon-ball-fighterz-gogeta-ssgss.json) |
+| Dragon Ball FighterZ: Gogeta (SS4) | 165886 | [165886-dragon-ball-fighterz-gogeta-ss4.json](./165886-dragon-ball-fighterz-gogeta-ss4.json) |
 | Dragon Ball FighterZ: Goku | 144706 | [144706-dragon-ball-fighterz-goku.json](./144706-dragon-ball-fighterz-goku.json) |
+| Dragon Ball FighterZ: Goku (Ultra Instinct) | 165887 | [165887-dragon-ball-fighterz-goku-ultra-instinct.json](./165887-dragon-ball-fighterz-goku-ultra-instinct.json) |
+| Dragon Ball FighterZ: Janemba | 165890 | [165890-dragon-ball-fighterz-janemba.json](./165890-dragon-ball-fighterz-janemba.json) |
+| Dragon Ball FighterZ: Jiren | 165888 | [165888-dragon-ball-fighterz-jiren.json](./165888-dragon-ball-fighterz-jiren.json) |
+| Dragon Ball FighterZ: Kefla | 165893 | [165893-dragon-ball-fighterz-kefla.json](./165893-dragon-ball-fighterz-kefla.json) |
 | Dragon Ball FighterZ: Legendary Edition | 288859 | [288859-dragon-ball-fighterz-legendary-edition.json](./288859-dragon-ball-fighterz-legendary-edition.json) |
+| Dragon Ball FighterZ: Master Roshi | 165889 | [165889-dragon-ball-fighterz-master-roshi.json](./165889-dragon-ball-fighterz-master-roshi.json) |
 | Dragon Ball FighterZ: Stamps Girls Pack | 366819 | [366819-dragon-ball-fighterz-stamps-girls-pack.json](./366819-dragon-ball-fighterz-stamps-girls-pack.json) |
+| Dragon Ball FighterZ: Super Baby 2 | 165884 | [165884-dragon-ball-fighterz-super-baby-2.json](./165884-dragon-ball-fighterz-super-baby-2.json) |
 | Dragon Ball FighterZ: Super Edition | 200680 | [200680-dragon-ball-fighterz-super-edition.json](./200680-dragon-ball-fighterz-super-edition.json) |
 | Dragon Ball FighterZ: Vegeta | 144707 | [144707-dragon-ball-fighterz-vegeta.json](./144707-dragon-ball-fighterz-vegeta.json) |
 | Dragon Ball FighterZ: Vegito (SSGSS) | 144705 | [144705-dragon-ball-fighterz-vegito-ssgss.json](./144705-dragon-ball-fighterz-vegito-ssgss.json) |
+| Dragon Ball FighterZ: Videl | 165892 | [165892-dragon-ball-fighterz-videl.json](./165892-dragon-ball-fighterz-videl.json) |
 | Dragon Ball FighterZ: Yami Yugi | 385623 | [385623-dragon-ball-fighterz-yami-yugi.json](./385623-dragon-ball-fighterz-yami-yugi.json) |
 | Dragon Ball FighterZ: Zamasu (Fused) | 144704 | [144704-dragon-ball-fighterz-zamasu-fused.json](./144704-dragon-ball-fighterz-zamasu-fused.json) |
 | Dragon Ball Fusions | 19314 | [19314-dragon-ball-fusions.json](./19314-dragon-ball-fusions.json) |
@@ -13782,6 +13797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw a Line Adventure | 220418 | [220418-draw-a-line-adventure.json](./220418-draw-a-line-adventure.json) |
 | Draw a Perfect Circle | 328844 | [328844-draw-a-perfect-circle.json](./328844-draw-a-perfect-circle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
+| Draw a Stickman: Epic & Epic 2 | 165876 | [165876-draw-a-stickman-epic-and-epic-2.json](./165876-draw-a-stickman-epic-and-epic-2.json) |
 | Draw a Stickman: Epic 2 | 34433 | [34433-draw-a-stickman-epic-2.json](./34433-draw-a-stickman-epic-2.json) |
 | Draw a Stickman: Epic 3 | 132523 | [132523-draw-a-stickman-epic-3.json](./132523-draw-a-stickman-epic-3.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
