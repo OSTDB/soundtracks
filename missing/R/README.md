@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
 | Rally Fusion: Race of Champions | 5998 | [5998-rally-fusion-race-of-champions.json](./5998-rally-fusion-race-of-champions.json) |
 | Rally Horizon | 316938 | [316938-rally-horizon.json](./316938-rally-horizon.json) |
+| Rally Jump Racer | 175527 | [175527-rally-jump-racer.json](./175527-rally-jump-racer.json) |
 | Rally King | 408922 | [408922-rally-king.json](./408922-rally-king.json) |
 | Rally Legends | 104787 | [104787-rally-legends.json](./104787-rally-legends.json) |
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retroid | 181176 | [181176-retroid.json](./181176-retroid.json) |
 | Retroid | 268414 | [268414-retroid.json](./268414-retroid.json) |
 | Retroid: Cartridge Protocol | 361006 | [361006-retroid-cartridge-protocol.json](./361006-retroid-cartridge-protocol.json) |
+| Retroids | 175521 | [175521-retroids.json](./175521-retroids.json) |
 | Retroids | 56850 | [56850-retroids.json](./56850-retroids.json) |
 | Retrojam 2 | 319545 | [319545-retrojam-2.json](./319545-retrojam-2.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
@@ -7365,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River, Carry Me Away | 185310 | [185310-river-carry-me-away.json](./185310-river-carry-me-away.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | Riverflow | 252267 | [252267-riverflow.json](./252267-riverflow.json) |
+| Rivers Mahjong: China HD | 175556 | [175556-rivers-mahjong-china-hd.json](./175556-rivers-mahjong-china-hd.json) |
 | Rivers of Chaos | 296343 | [296343-rivers-of-chaos.json](./296343-rivers-of-chaos.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riverside Gals | 294099 | [294099-riverside-gals.json](./294099-riverside-gals.json) |
