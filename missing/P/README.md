@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Up | 303111 | [303111-pair-up.json](./303111-pair-up.json) |
 | Pair Up | 359285 | [359285-pair-up.json](./359285-pair-up.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
+| Pair-a-Site | 129371 | [129371-pair-a-site.json](./129371-pair-a-site.json) |
 | Pairidaeza | 178467 | [178467-pairidaeza.json](./178467-pairidaeza.json) |
 | Paironix | 408949 | [408949-paironix.json](./408949-paironix.json) |
 | Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
@@ -2494,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passed Out | 213912 | [213912-passed-out.json](./213912-passed-out.json) |
 | Passenger Camel Taxi Driving | 227217 | [227217-passenger-camel-taxi-driving.json](./227217-passenger-camel-taxi-driving.json) |
 | Passenger Rush | 227956 | [227956-passenger-rush.json](./227956-passenger-rush.json) |
+| Passenger Seat | 129408 | [129408-passenger-seat.json](./129408-passenger-seat.json) |
 | Passenger: Gone | 348398 | [348398-passenger-gone.json](./348398-passenger-gone.json) |
 | Passengers | 179528 | [179528-passengers.json](./179528-passengers.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
@@ -3655,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Panic | 162838 | [162838-penguin-panic.json](./162838-penguin-panic.json) |
 | Penguin Panic! | 311564 | [311564-penguin-panic.json](./311564-penguin-panic.json) |
 | Penguin Paradise | 231808 | [231808-penguin-paradise.json](./231808-penguin-paradise.json) |
+| Penguin Park 3D | 129410 | [129410-penguin-park-3d.json](./129410-penguin-park-3d.json) |
 | Penguin Piste | 134950 | [134950-penguin-piste.json](./134950-penguin-piste.json) |
 | Penguin Plop | 406636 | [406636-penguin-plop.json](./406636-penguin-plop.json) |
 | Penguin Pounder | 104513 | [104513-penguin-pounder.json](./104513-penguin-pounder.json) |
