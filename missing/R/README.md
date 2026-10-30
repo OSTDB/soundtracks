@@ -4097,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regimental Chess | 35461 | [35461-regimental-chess.json](./35461-regimental-chess.json) |
 | Regiments | 151395 | [151395-regiments.json](./151395-regiments.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
+| Regina & Mac | 130519 | [130519-regina-and-mac.json](./130519-regina-and-mac.json) |
 | Regina & Mac World | 147186 | [147186-regina-and-mac-world.json](./147186-regina-and-mac-world.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
@@ -4225,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reindeer Rescue | 80355 | [80355-reindeer-rescue.json](./80355-reindeer-rescue.json) |
 | Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
 | Reine des Fleurs | 86190 | [86190-reine-des-fleurs.json](./86190-reine-des-fleurs.json) |
+| Reiner Knizia Yellow & Yangtze | 130524 | [130524-reiner-knizia-yellow-and-yangtze.json](./130524-reiner-knizia-yellow-and-yangtze.json) |
 | Reiner Knizia's Kingdoms | 224994 | [224994-reiner-knizias-kingdoms.json](./224994-reiner-knizias-kingdoms.json) |
 | Reiner Knizia's Medici HD | 103540 | [103540-reiner-knizias-medici-hd.json](./103540-reiner-knizias-medici-hd.json) |
 | Reiner Knizia's Money | 200050 | [200050-reiner-knizias-money.json](./200050-reiner-knizias-money.json) |
@@ -4618,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rendezvous: Shadows of the Past | 199444 | [199444-rendezvous-shadows-of-the-past.json](./199444-rendezvous-shadows-of-the-past.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Rendition | 172498 | [172498-rendition.json](./172498-rendition.json) |
+| Renditions of the Awakening | 130520 | [130520-renditions-of-the-awakening.json](./130520-renditions-of-the-awakening.json) |
 | Rendsword | 279566 | [279566-rendsword.json](./279566-rendsword.json) |
 | Renegade | 191644 | [191644-renegade.json](./191644-renegade.json) |
 | Renegade | 255243 | [255243-renegade.json](./255243-renegade.json) |
@@ -5780,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant Survivors | 400235 | [400235-revenant-survivors.json](./400235-revenant-survivors.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenant: Through the Veil | 352288 | [352288-revenant-through-the-veil.json](./352288-revenant-through-the-veil.json) |
+| Revenant's Reach | 130518 | [130518-revenants-reach.json](./130518-revenants-reach.json) |
 | Revenant's Reach | 385405 | [385405-revenants-reach.json](./385405-revenants-reach.json) |
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | RevenBlade | 133588 | [133588-revenblade.json](./133588-revenblade.json) |
