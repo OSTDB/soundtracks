@@ -5811,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2015 | 60928 | [60928-golden-tee-2015.json](./60928-golden-tee-2015.json) |
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
+| Golden Tee 2020 | 143302 | [143302-golden-tee-2020.json](./143302-golden-tee-2020.json) |
 | Golden Tee Arcade Classics | 350460 | [350460-golden-tee-arcade-classics.json](./350460-golden-tee-arcade-classics.json) |
 | Golden Tee Classic | 39355 | [39355-golden-tee-classic.json](./39355-golden-tee-classic.json) |
 | Golden Tee Golf | 17263 | [17263-golden-tee-golf.json](./17263-golden-tee-golf.json) |
@@ -7088,6 +7089,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V | 134709 | [134709-grand-theft-auto-v.json](./134709-grand-theft-auto-v.json) |
 | Grand Theft Auto V Enhanced | 334254 | [334254-grand-theft-auto-v-enhanced.json](./334254-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
+| Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle | 143295 | [143295-grand-theft-auto-v-premium-edition-and-great-white-shark-card-bundle.json](./143295-grand-theft-auto-v-premium-edition-and-great-white-shark-card-bundle.json) |
+| Grand Theft Auto V: Premium Edition & Megalodon Shark Card Bundle | 143293 | [143293-grand-theft-auto-v-premium-edition-and-megalodon-shark-card-bundle.json](./143293-grand-theft-auto-v-premium-edition-and-megalodon-shark-card-bundle.json) |
 | Grand Theft Auto V: Premium Online Edition | 98077 | [98077-grand-theft-auto-v-premium-online-edition.json](./98077-grand-theft-auto-v-premium-online-edition.json) |
 | Grand Theft Auto V: Special Edition | 45131 | [45131-grand-theft-auto-v-special-edition.json](./45131-grand-theft-auto-v-special-edition.json) |
 | Grand Theft Auto V: Story Mode | 239060 | [239060-grand-theft-auto-v-story-mode.json](./239060-grand-theft-auto-v-story-mode.json) |
