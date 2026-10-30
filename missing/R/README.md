@@ -3683,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
 | Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
+| Redaxium | 163664 | [163664-redaxium.json](./163664-redaxium.json) |
 | Redaxium 2 | 207294 | [207294-redaxium-2.json](./207294-redaxium-2.json) |
 | REday -1 | 377931 | [377931-reday-1.json](./377931-reday-1.json) |
 | Redbean | 412464 | [412464-redbean.json](./412464-redbean.json) |
