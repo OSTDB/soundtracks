@@ -1853,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks and Turrets 3 | 247439 | [247439-tanks-and-turrets-3.json](./247439-tanks-and-turrets-3.json) |
 | Tanks Blitz | 352188 | [352188-tanks-blitz.json](./352188-tanks-blitz.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
+| Tanks Bundle | 164727 | [164727-tanks-bundle.json](./164727-tanks-bundle.json) |
 | Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
@@ -4227,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
 | Tesla VR | 368353 | [368353-tesla-vr.json](./368353-tesla-vr.json) |
 | Tesla vs Lovecraft | 28592 | [28592-tesla-vs-lovecraft.json](./28592-tesla-vs-lovecraft.json) |
+| Tesla vs Lovecraft: Game of the Year Edition | 164692 | [164692-tesla-vs-lovecraft-game-of-the-year-edition.json](./164692-tesla-vs-lovecraft-game-of-the-year-edition.json) |
 | Tesla Wars | 63177 | [63177-tesla-wars.json](./63177-tesla-wars.json) |
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
@@ -6310,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of Theo | 352510 | [352510-the-case-of-theo.json](./352510-the-case-of-theo.json) |
 | The Casebook of Terry Winter | 53707 | [53707-the-casebook-of-terry-winter.json](./53707-the-casebook-of-terry-winter.json) |
 | The Cases of the Thousands Shogi Records | 122350 | [122350-the-cases-of-the-thousands-shogi-records.json](./122350-the-cases-of-the-thousands-shogi-records.json) |
+| The Casino Collection: Ruleta, Vídeo Póker, Tragaperras, Craps, Baccarat, Five-Card Draw Poker, Texas hold 'em, Blackjack and Page One | 164725 | [164725-the-casino-collection-ruleta-video-poker-tragaperras-craps-baccarat-five-card-draw-poker-texas-hold-em-blackjack-and-page-one.json](./164725-the-casino-collection-ruleta-video-poker-tragaperras-craps-baccarat-five-card-draw-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Cassandra Galleries | 86022 | [86022-the-cassandra-galleries.json](./86022-the-cassandra-galleries.json) |
@@ -8058,6 +8061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
 | The Evil Unleashed | 313836 | [313836-the-evil-unleashed.json](./313836-the-evil-unleashed.json) |
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
+| The Evil Within Digital Bundle | 164730 | [164730-the-evil-within-digital-bundle.json](./164730-the-evil-within-digital-bundle.json) |
 | The Evil Within Double Feature | 146135 | [146135-the-evil-within-double-feature.json](./146135-the-evil-within-double-feature.json) |
 | The Evil Within: Limited Edition | 41607 | [41607-the-evil-within-limited-edition.json](./41607-the-evil-within-limited-edition.json) |
 | The Evil Within: The Assignment | 9183 | [9183-the-evil-within-the-assignment.json](./9183-the-evil-within-the-assignment.json) |
@@ -22189,6 +22193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Season Three: Concealed Agenda | 209316 | [209316-tom-clancys-the-division-2-warlords-of-new-york-season-three-concealed-agenda.json](./209316-tom-clancys-the-division-2-warlords-of-new-york-season-three-concealed-agenda.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season Two: Keener’s Legacy | 209315 | [209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json](./209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Ultimate Edition | 146156 | [146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json](./146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json) |
+| Tom Clancy's The Division 2: Warlords of New York Edition | 164711 | [164711-tom-clancys-the-division-2-warlords-of-new-york-edition.json](./164711-tom-clancys-the-division-2-warlords-of-new-york-edition.json) |
 | Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
 | Tom Clancy's The Division Franchise Bundle | 164857 | [164857-tom-clancys-the-division-franchise-bundle.json](./164857-tom-clancys-the-division-franchise-bundle.json) |
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
