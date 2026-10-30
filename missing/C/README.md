@@ -1454,13 +1454,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium Pack 2: Arcade Revolution | 141633 | [141633-capcom-arcade-stadium-pack-2-arcade-revolution.json](./141633-capcom-arcade-stadium-pack-2-arcade-revolution.json) |
 | Capcom Arcade Stadium Pack 3: Arcade Evolution | 141635 | [141635-capcom-arcade-stadium-pack-3-arcade-evolution.json](./141635-capcom-arcade-stadium-pack-3-arcade-evolution.json) |
 | Capcom Arcade Stadium Packs 1, 2, and 3 | 164749 | [164749-capcom-arcade-stadium-packs-1-2-and-3.json](./164749-capcom-arcade-stadium-packs-1-2-and-3.json) |
+| Capcom Arcade Stadium: 1941 - Counter Attack | 148748 | [148748-capcom-arcade-stadium-1941-counter-attack.json](./148748-capcom-arcade-stadium-1941-counter-attack.json) |
+| Capcom Arcade Stadium: 1942 | 148754 | [148754-capcom-arcade-stadium-1942.json](./148754-capcom-arcade-stadium-1942.json) |
 | Capcom Arcade Stadium: Battle Circuit | 234302 | [234302-capcom-arcade-stadium-battle-circuit.json](./234302-capcom-arcade-stadium-battle-circuit.json) |
+| Capcom Arcade Stadium: Bionic Commando | 148760 | [148760-capcom-arcade-stadium-bionic-commando.json](./148760-capcom-arcade-stadium-bionic-commando.json) |
+| Capcom Arcade Stadium: Carrier Air Wing | 148746 | [148746-capcom-arcade-stadium-carrier-air-wing.json](./148746-capcom-arcade-stadium-carrier-air-wing.json) |
+| Capcom Arcade Stadium: Commando | 148759 | [148759-capcom-arcade-stadium-commando.json](./148759-capcom-arcade-stadium-commando.json) |
 | Capcom Arcade Stadium: Dynasty Wars | 150654 | [150654-capcom-arcade-stadium-dynasty-wars.json](./150654-capcom-arcade-stadium-dynasty-wars.json) |
+| Capcom Arcade Stadium: Final Fight | 148750 | [148750-capcom-arcade-stadium-final-fight.json](./148750-capcom-arcade-stadium-final-fight.json) |
+| Capcom Arcade Stadium: Forgotten Worlds | 148752 | [148752-capcom-arcade-stadium-forgotten-worlds.json](./148752-capcom-arcade-stadium-forgotten-worlds.json) |
 | Capcom Arcade Stadium: Ghosts 'n Goblins | 173796 | [173796-capcom-arcade-stadium-ghosts-n-goblins.json](./173796-capcom-arcade-stadium-ghosts-n-goblins.json) |
+| Capcom Arcade Stadium: Ghouls 'n Ghosts | 148751 | [148751-capcom-arcade-stadium-ghouls-n-ghosts.json](./148751-capcom-arcade-stadium-ghouls-n-ghosts.json) |
+| Capcom Arcade Stadium: Legendary Wings | 148757 | [148757-capcom-arcade-stadium-legendary-wings.json](./148757-capcom-arcade-stadium-legendary-wings.json) |
 | Capcom Arcade Stadium: Mega Twins | 150656 | [150656-capcom-arcade-stadium-mega-twins.json](./150656-capcom-arcade-stadium-mega-twins.json) |
+| Capcom Arcade Stadium: Pirate Ship Higemaru | 148756 | [148756-capcom-arcade-stadium-pirate-ship-higemaru.json](./148756-capcom-arcade-stadium-pirate-ship-higemaru.json) |
 | Capcom Arcade Stadium: Powered Gear - Strategic Variant Armor Equipment | 234309 | [234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json](./234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json) |
 | Capcom Arcade Stadium: Progear | 234248 | [234248-capcom-arcade-stadium-progear.json](./234248-capcom-arcade-stadium-progear.json) |
+| Capcom Arcade Stadium: Section Z | 148758 | [148758-capcom-arcade-stadium-section-z.json](./148758-capcom-arcade-stadium-section-z.json) |
+| Capcom Arcade Stadium: Senjo no Okami II | 148744 | [148744-capcom-arcade-stadium-senjo-no-okami-ii.json](./148744-capcom-arcade-stadium-senjo-no-okami-ii.json) |
+| Capcom Arcade Stadium: Street Fighter II - The World Warrior | 148747 | [148747-capcom-arcade-stadium-street-fighter-ii-the-world-warrior.json](./148747-capcom-arcade-stadium-street-fighter-ii-the-world-warrior.json) |
+| Capcom Arcade Stadium: Strider | 148745 | [148745-capcom-arcade-stadium-strider.json](./148745-capcom-arcade-stadium-strider.json) |
 | Capcom Arcade Stadium: Tatakai no Banka | 150655 | [150655-capcom-arcade-stadium-tatakai-no-banka.json](./150655-capcom-arcade-stadium-tatakai-no-banka.json) |
+| Capcom Arcade Stadium: Varth - Operation Thunderstorm | 148749 | [148749-capcom-arcade-stadium-varth-operation-thunderstorm.json](./148749-capcom-arcade-stadium-varth-operation-thunderstorm.json) |
+| Capcom Arcade Stadium: Vulgus | 148753 | [148753-capcom-arcade-stadium-vulgus.json](./148753-capcom-arcade-stadium-vulgus.json) |
 | Capcom baseball | 40129 | [40129-capcom-baseball.json](./40129-capcom-baseball.json) |
 | Capcom Beat 'Em Up Bundle | 109456 | [109456-capcom-beat-em-up-bundle.json](./109456-capcom-beat-em-up-bundle.json) |
 | Capcom Beat 'Em Up Bundle: Collector's Box | 167077 | [167077-capcom-beat-em-up-bundle-collectors-box.json](./167077-capcom-beat-em-up-bundle-collectors-box.json) |
@@ -4991,7 +5007,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
 | Challenge Love | 296608 | [296608-challenge-love.json](./296608-challenge-love.json) |
+| Challenge ME : Word Puzzles | 148769 | [148769-challenge-me-word-puzzles.json](./148769-challenge-me-word-puzzles.json) |
 | Challenge Me: Brain Puzzles | 21640 | [21640-challenge-me-brain-puzzles.json](./21640-challenge-me-brain-puzzles.json) |
+| Challenge Me: Brain Puzzles 2 | 148768 | [148768-challenge-me-brain-puzzles-2.json](./148768-challenge-me-brain-puzzles-2.json) |
 | Challenge Me: Math Workout | 21639 | [21639-challenge-me-math-workout.json](./21639-challenge-me-math-workout.json) |
 | Challenge N°1 | 289296 | [289296-challenge-n-1.json](./289296-challenge-n-1.json) |
 | Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
@@ -16884,6 +16902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Farmer | 213840 | [213840-cube-farmer.json](./213840-cube-farmer.json) |
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
 | Cube Fight | 380099 | [380099-cube-fight.json](./380099-cube-fight.json) |
+| Cube Flip | 148774 | [148774-cube-flip.json](./148774-cube-flip.json) |
 | Cube Foundry | 349876 | [349876-cube-foundry.json](./349876-cube-foundry.json) |
 | Cube Full of Mines: Slate Map | 155378 | [155378-cube-full-of-mines-slate-map.json](./155378-cube-full-of-mines-slate-map.json) |
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
