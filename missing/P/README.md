@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pay for Picture: Vol.01 | 335335 | [335335-pay-for-picture-vol-01.json](./335335-pay-for-picture-vol-01.json) |
 | Pay Me In Colors | 287764 | [287764-pay-me-in-colors.json](./287764-pay-me-in-colors.json) |
 | Pay Respects | 176202 | [176202-pay-respects.json](./176202-pay-respects.json) |
+| Pay to Jump | 137832 | [137832-pay-to-jump.json](./137832-pay-to-jump.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | PayaPaya | 243724 | [243724-payapaya.json](./243724-payapaya.json) |
 | Payasos & Balazos | 373828 | [373828-payasos-and-balazos.json](./373828-payasos-and-balazos.json) |
@@ -12058,6 +12059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
 | Power Chips & High Roller | 209910 | [209910-power-chips-and-high-roller.json](./209910-power-chips-and-high-roller.json) |
+| Power Climb | 137822 | [137822-power-climb.json](./137822-power-climb.json) |
 | Power Crisis | 332860 | [332860-power-crisis.json](./332860-power-crisis.json) |
 | Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
 | Power Diggerz | 22052 | [22052-power-diggerz.json](./22052-power-diggerz.json) |
@@ -12537,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
 | Premier Battle | 70038 | [70038-premier-battle.json](./70038-premier-battle.json) |
 | Premier Buggy Racing Tour | 68617 | [68617-premier-buggy-racing-tour.json](./68617-premier-buggy-racing-tour.json) |
+| Premier Collection | 137826 | [137826-premier-collection.json](./137826-premier-collection.json) |
 | Premier Collection II | 137863 | [137863-premier-collection-ii.json](./137863-premier-collection-ii.json) |
 | Premier Eleven | 83433 | [83433-premier-eleven.json](./83433-premier-eleven.json) |
 | Premier Manager | 321435 | [321435-premier-manager.json](./321435-premier-manager.json) |
