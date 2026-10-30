@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyville 2 | 305751 | [305751-joyville-2.json](./305751-joyville-2.json) |
 | JPDE: Sonata of Fire | 178042 | [178042-jpde-sonata-of-fire.json](./178042-jpde-sonata-of-fire.json) |
 | JPEG | 408591 | [408591-jpeg.json](./408591-jpeg.json) |
+| JPN Burst | 158345 | [158345-jpn-burst.json](./158345-jpn-burst.json) |
 | JQ: Beautiful Japan | 358647 | [358647-jq-beautiful-japan.json](./358647-jq-beautiful-japan.json) |
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
 | JQ: cosmos | 117116 | [117116-jq-cosmos.json](./117116-jq-cosmos.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
 | Jump Us | 187269 | [187269-jump-us.json](./187269-jump-us.json) |
 | Jump Warrior | 182799 | [182799-jump-warrior.json](./182799-jump-warrior.json) |
+| Jump With Dragons | 158338 | [158338-jump-with-dragons.json](./158338-jump-with-dragons.json) |
 | Jump with Friends | 118131 | [118131-jump-with-friends.json](./118131-jump-with-friends.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
 | Jump You+ | 332351 | [332351-jump-you.json](./332351-jump-you.json) |
