@@ -2530,6 +2530,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
 | Barro GT: Pack #2 | 322731 | [322731-barro-gt-pack-2.json](./322731-barro-gt-pack-2.json) |
 | Barro Racing | 156139 | [156139-barro-racing.json](./156139-barro-racing.json) |
+| Barro Racing: Bugs | 168027 | [168027-barro-racing-bugs.json](./168027-barro-racing-bugs.json) |
+| Barro Racing: Formula | 168028 | [168028-barro-racing-formula.json](./168028-barro-racing-formula.json) |
+| Barro Racing: GT | 168026 | [168026-barro-racing-gt.json](./168026-barro-racing-gt.json) |
+| Barro Racing: Rally | 168029 | [168029-barro-racing-rally.json](./168029-barro-racing-rally.json) |
 | Barro T23 | 246957 | [246957-barro-t23.json](./246957-barro-t23.json) |
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
 | Barro T23: Pack #2 | 322732 | [322732-barro-t23-pack-2.json](./322732-barro-t23-pack-2.json) |
