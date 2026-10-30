@@ -5181,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espire: MR Missions | 377649 | [377649-espire-mr-missions.json](./377649-espire-mr-missions.json) |
 | Espitene | 368070 | [368070-espitene.json](./368070-espitene.json) |
 | ESPN Baseball 2K4 | 43249 | [43249-espn-baseball-2k4.json](./43249-espn-baseball-2k4.json) |
+| ESPN Baseball Tonight | 176096 | [176096-espn-baseball-tonight.json](./176096-espn-baseball-tonight.json) |
 | ESPN Baseball Tonight | 5380 | [5380-espn-baseball-tonight.json](./5380-espn-baseball-tonight.json) |
 | ESPN Baseball: Interactive Hitting | 38850 | [38850-espn-baseball-interactive-hitting.json](./38850-espn-baseball-interactive-hitting.json) |
 | ESPN College Hoops | 5823 | [5823-espn-college-hoops.json](./5823-espn-college-hoops.json) |
@@ -5404,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Mansion | 323743 | [323743-eternal-mansion.json](./323743-eternal-mansion.json) |
 | Eternal Maze | 65836 | [65836-eternal-maze.json](./65836-eternal-maze.json) |
 | Eternal Melody | 166555 | [166555-eternal-melody.json](./166555-eternal-melody.json) |
+| Eternal Melody | 176115 | [176115-eternal-melody.json](./176115-eternal-melody.json) |
 | Eternal Memento | 418251 | [418251-eternal-memento.json](./418251-eternal-memento.json) |
 | Eternal Night | 192710 | [192710-eternal-night.json](./192710-eternal-night.json) |
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
@@ -7286,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Power | 44727 | [44727-extreme-power.json](./44727-extreme-power.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
+| Extreme Race | 176122 | [176122-extreme-race.json](./176122-extreme-race.json) |
 | Extreme Race | 186679 | [186679-extreme-race.json](./186679-extreme-race.json) |
 | Extreme Racing | 158420 | [158420-extreme-racing.json](./158420-extreme-racing.json) |
 | Extreme Racing on Highway | 115582 | [115582-extreme-racing-on-highway.json](./115582-extreme-racing-on-highway.json) |
