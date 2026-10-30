@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
 | Schrodinger's cat simulator | 127819 | [127819-schrodingers-cat-simulator.json](./127819-schrodingers-cat-simulator.json) |
+| Schrodinger's Catgirl | 158341 | [158341-schrodingers-catgirl.json](./158341-schrodingers-catgirl.json) |
 | Schrodinger's Catgirl | 409882 | [409882-schrodingers-catgirl.json](./409882-schrodingers-catgirl.json) |
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
 | Schrödinger's Dungeon | 381845 | [381845-schrodingers-dungeon.json](./381845-schrodingers-dungeon.json) |
@@ -4228,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seduction: A Monk's Fate | 207110 | [207110-seduction-a-monks-fate.json](./207110-seduction-a-monks-fate.json) |
 | Seductive Shadows | 288916 | [288916-seductive-shadows.json](./288916-seductive-shadows.json) |
 | Seductive Solitude | 225080 | [225080-seductive-solitude.json](./225080-seductive-solitude.json) |
+| Seductive Tombs | 158382 | [158382-seductive-tombs.json](./158382-seductive-tombs.json) |
 | Seductive Tombs: Beach Love | 163767 | [163767-seductive-tombs-beach-love.json](./163767-seductive-tombs-beach-love.json) |
 | See | 141815 | [141815-see.json](./141815-see.json) |
 | See How the Cat Jumps | 379668 | [379668-see-how-the-cat-jumps.json](./379668-see-how-the-cat-jumps.json) |
@@ -16861,6 +16863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: The Fractured But Whole - Towelie: Your Gaming Bud | 153698 | [153698-south-park-the-fractured-but-whole-towelie-your-gaming-bud.json](./153698-south-park-the-fractured-but-whole-towelie-your-gaming-bud.json) |
 | South Park: The Stick of Truth - Super Samurai Spaceman Pack | 74744 | [74744-south-park-the-stick-of-truth-super-samurai-spaceman-pack.json](./74744-south-park-the-stick-of-truth-super-samurai-spaceman-pack.json) |
 | South Park: The Stick of Truth - Ultimate Fellowship Pack | 74743 | [74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json](./74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json) |
+| South Pass | 158362 | [158362-south-pass.json](./158362-south-pass.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
 | South Scrimshaw, Part One | 183581 | [183581-south-scrimshaw-part-one.json](./183581-south-scrimshaw-part-one.json) |
 | South Scrimshaw, Part Two | 285550 | [285550-south-scrimshaw-part-two.json](./285550-south-scrimshaw-part-two.json) |
@@ -17183,6 +17186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Diva | 318151 | [318151-space-diva.json](./318151-space-diva.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
 | Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
+| Space Dogfight | 158377 | [158377-space-dogfight.json](./158377-space-dogfight.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
 | Space Dogs Squadron | 65337 | [65337-space-dogs-squadron.json](./65337-space-dogs-squadron.json) |
 | Space Doubt | 26420 | [26420-space-doubt.json](./26420-space-doubt.json) |
