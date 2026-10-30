@@ -4828,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Camp | 36063 | [36063-wildlife-camp.json](./36063-wildlife-camp.json) |
 | Wildlife Greenhouse | 393431 | [393431-wildlife-greenhouse.json](./393431-wildlife-greenhouse.json) |
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
+| Wildlife Match | 152612 | [152612-wildlife-match.json](./152612-wildlife-match.json) |
 | Wildlife Matters | 280438 | [280438-wildlife-matters.json](./280438-wildlife-matters.json) |
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
