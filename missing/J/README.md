@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 131472 | [131472-jeopardy.json](./131472-jeopardy.json) |
 | Jeopardy! | 131547 | [131547-jeopardy.json](./131547-jeopardy.json) |
 | Jeopardy! | 146802 | [146802-jeopardy.json](./146802-jeopardy.json) |
+| Jeopardy! | 176097 | [176097-jeopardy.json](./176097-jeopardy.json) |
 | Jeopardy! | 199428 | [199428-jeopardy.json](./199428-jeopardy.json) |
 | Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
 | Jeopardy! | 261998 | [261998-jeopardy.json](./261998-jeopardy.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jericho Road | 14135 | [14135-jericho-road.json](./14135-jericho-road.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerking Off in Class Simulator | 367843 | [367843-jerking-off-in-class-simulator.json](./367843-jerking-off-in-class-simulator.json) |
+| Jerma & Otto: The Curse of the Late Streamer | 176105 | [176105-jerma-and-otto-the-curse-of-the-late-streamer.json](./176105-jerma-and-otto-the-curse-of-the-late-streamer.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | Jerma's Big Adventure | 165471 | [165471-jermas-big-adventure.json](./165471-jermas-big-adventure.json) |
 | JermaSlots | 138008 | [138008-jermaslots.json](./138008-jermaslots.json) |
@@ -1778,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
 | Jikkyou Pawafuru Puroyakyu | 284189 | [284189-jikkyou-pawafuru-puroyakyu.json](./284189-jikkyou-pawafuru-puroyakyu.json) |
 | Jikkyou Pawafuru Puroyakyu '95 | 63563 | [63563-jikkyou-pawafuru-puroyakyu-95.json](./63563-jikkyou-pawafuru-puroyakyu-95.json) |
+| Jikkyou Pawafuru Puroyakyu '95: Kaimaku-ban | 176120 | [176120-jikkyou-pawafuru-puroyakyu-95-kaimaku-ban.json](./176120-jikkyou-pawafuru-puroyakyu-95-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '97: Kaimaku-ban | 229566 | [229566-jikkyou-pawafuru-puroyakyu-97-kaimaku-ban.json](./229566-jikkyou-pawafuru-puroyakyu-97-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '98: Kaimaku-ban | 229571 | [229571-jikkyou-pawafuru-puroyakyu-98-kaimaku-ban.json](./229571-jikkyou-pawafuru-puroyakyu-98-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '98: Kettei-ban | 229572 | [229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json](./229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json) |
