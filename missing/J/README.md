@@ -3702,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Roll | 285689 | [285689-just-roll.json](./285689-just-roll.json) |
 | Just Roll With It | 112763 | [112763-just-roll-with-it.json](./112763-just-roll-with-it.json) |
 | Just Run! | 102141 | [102141-just-run.json](./102141-just-run.json) |
+| Just Shake It | 158893 | [158893-just-shake-it.json](./158893-just-shake-it.json) |
 | Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
 | Just Shapes & Beats: Hardcore Edition | 118174 | [118174-just-shapes-and-beats-hardcore-edition.json](./118174-just-shapes-and-beats-hardcore-edition.json) |
 | Just Shoot | 191433 | [191433-just-shoot.json](./191433-just-shoot.json) |
