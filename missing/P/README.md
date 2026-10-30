@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Paraiso | 299390 | [299390-paraiso.json](./299390-paraiso.json) |
+| Paraiso Island | 133025 | [133025-paraiso-island.json](./133025-paraiso-island.json) |
 | Paralax VR Aim Trainer | 172361 | [172361-paralax-vr-aim-trainer.json](./172361-paralax-vr-aim-trainer.json) |
 | ParaLegends | 357177 | [357177-paralegends.json](./357177-paralegends.json) |
 | ParaLily | 126258 | [126258-paralily.json](./126258-paralily.json) |
