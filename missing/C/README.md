@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Kingdom | 66957 | [66957-cartoon-kingdom.json](./66957-cartoon-kingdom.json) |
 | Cartoon Kreedz | 123880 | [123880-cartoon-kreedz.json](./123880-cartoon-kreedz.json) |
 | Cartoon Line: Part One | 13244 | [13244-cartoon-line-part-one.json](./13244-cartoon-line-part-one.json) |
+| Cartoon Network Arcade | 125012 | [125012-cartoon-network-arcade.json](./125012-cartoon-network-arcade.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
 | Cartoon Network Journeys VR | 124165 | [124165-cartoon-network-journeys-vr.json](./124165-cartoon-network-journeys-vr.json) |
 | Cartoon Network Racing | 2785 | [2785-cartoon-network-racing.json](./2785-cartoon-network-racing.json) |
@@ -7673,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubby Pixel Mega Bundle | 218457 | [218457-chubby-pixel-mega-bundle.json](./218457-chubby-pixel-mega-bundle.json) |
 | Chubmen's Strange Case File: Chapter of Corridor | 163242 | [163242-chubmens-strange-case-file-chapter-of-corridor.json](./163242-chubmens-strange-case-file-chapter-of-corridor.json) |
 | Chuchel | 57263 | [57263-chuchel.json](./57263-chuchel.json) |
+| Chuchel: Cherry Edition | 124964 | [124964-chuchel-cherry-edition.json](./124964-chuchel-cherry-edition.json) |
 | ChuChu Rocket! | 6347 | [6347-chuchu-rocket.json](./6347-chuchu-rocket.json) |
 | ChuChu Rocket! Universe | 122316 | [122316-chuchu-rocket-universe.json](./122316-chuchu-rocket-universe.json) |
 | Chuck Ball Idol | 178652 | [178652-chuck-ball-idol.json](./178652-chuck-ball-idol.json) |
@@ -9421,6 +9423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
 | Close Combat : Panthers in the Fog | 35328 | [35328-close-combat-panthers-in-the-fog.json](./35328-close-combat-panthers-in-the-fog.json) |
 | Close Combat 4: Battle of the Bulge | 24125 | [24125-close-combat-4-battle-of-the-bulge.json](./24125-close-combat-4-battle-of-the-bulge.json) |
+| Close Combat 5: Invasion: Normandy - Utah Beach to Cherbourg | 124960 | [124960-close-combat-5-invasion-normandy-utah-beach-to-cherbourg.json](./124960-close-combat-5-invasion-normandy-utah-beach-to-cherbourg.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
 | Close Combat: Cross of Iron | 63189 | [63189-close-combat-cross-of-iron.json](./63189-close-combat-cross-of-iron.json) |
@@ -16324,6 +16327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunchdown | 397696 | [397696-crunchdown.json](./397696-crunchdown.json) |
 | Cruncher | 60202 | [60202-cruncher.json](./60202-cruncher.json) |
 | Crunchies Munchies | 336084 | [336084-crunchies-munchies.json](./336084-crunchies-munchies.json) |
+| CrunchTime | 124986 | [124986-crunchtime.json](./124986-crunchtime.json) |
 | Crunchy Lunch | 183235 | [183235-crunchy-lunch.json](./183235-crunchy-lunch.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
 | Crunda | 333043 | [333043-crunda.json](./333043-crunda.json) |
