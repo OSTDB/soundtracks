@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawgivers | 127880 | [127880-lawgivers.json](./127880-lawgivers.json) |
 | Lawin Catch The Kim | 265339 | [265339-lawin-catch-the-kim.json](./265339-lawin-catch-the-kim.json) |
 | Lawl | 130727 | [130727-lawl.json](./130727-lawl.json) |
+| Lawless Lands: Blood Pit | 174472 | [174472-lawless-lands-blood-pit.json](./174472-lawless-lands-blood-pit.json) |
 | Lawless Lands: Grizzly Pet Pack | 167714 | [167714-lawless-lands-grizzly-pet-pack.json](./167714-lawless-lands-grizzly-pet-pack.json) |
 | Lawless Lands: Herding Hound | 167715 | [167715-lawless-lands-herding-hound.json](./167715-lawless-lands-herding-hound.json) |
 | Lawless Lands: Runemaster | 165945 | [165945-lawless-lands-runemaster.json](./165945-lawless-lands-runemaster.json) |
@@ -5196,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cities: Sandbox Update | 251574 | [251574-little-cities-sandbox-update.json](./251574-little-cities-sandbox-update.json) |
 | Little Cities: Snowy Islands DLC | 251572 | [251572-little-cities-snowy-islands-dlc.json](./251572-little-cities-snowy-islands-dlc.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
+| Little Climber | 174482 | [174482-little-climber.json](./174482-little-climber.json) |
 | Little Computer People | 12179 | [12179-little-computer-people.json](./12179-little-computer-people.json) |
 | Little Corner Tea House | 327278 | [327278-little-corner-tea-house.json](./327278-little-corner-tea-house.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
