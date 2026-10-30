@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Chronicles | 64388 | [64388-valhalla-chronicles.json](./64388-valhalla-chronicles.json) |
 | Valhalla Hills | 12080 | [12080-valhalla-hills.json](./12080-valhalla-hills.json) |
 | Valhalla Hills: Definitive Edition | 28264 | [28264-valhalla-hills-definitive-edition.json](./28264-valhalla-hills-definitive-edition.json) |
+| Valhalla Hills: Fire Mountains | 151390 | [151390-valhalla-hills-fire-mountains.json](./151390-valhalla-hills-fire-mountains.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla Hills: Two-Horned Helmet Edition | 51791 | [51791-valhalla-hills-two-horned-helmet-edition.json](./51791-valhalla-hills-two-horned-helmet-edition.json) |
 | Valhalla Knights | 20073 | [20073-valhalla-knights.json](./20073-valhalla-knights.json) |
