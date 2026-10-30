@@ -21003,6 +21003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinhead | 46593 | [46593-tinhead.json](./46593-tinhead.json) |
 | Tinheung & Sayuri | 211061 | [211061-tinheung-and-sayuri.json](./211061-tinheung-and-sayuri.json) |
 | Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
+| Tinieblas Jr's Adventures | 129387 | [129387-tinieblas-jrs-adventures.json](./129387-tinieblas-jrs-adventures.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
 | Tinies Farter | 403704 | [403704-tinies-farter.json](./403704-tinies-farter.json) |
 | Tinja | 81647 | [81647-tinja.json](./81647-tinja.json) |
