@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
 | Tail Tale | 73338 | [73338-tail-tale.json](./73338-tail-tale.json) |
 | Tail to Nose | 39505 | [39505-tail-to-nose.json](./39505-tail-to-nose.json) |
+| Tail to Nose: Great Championship | 137245 | [137245-tail-to-nose-great-championship.json](./137245-tail-to-nose-great-championship.json) |
 | Tail Trail | 157403 | [157403-tail-trail.json](./157403-tail-trail.json) |
 | Tail-Tale | 194300 | [194300-tail-tale.json](./194300-tail-tale.json) |
 | Tailbound | 278565 | [278565-tailbound.json](./278565-tailbound.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 10x10 Project | 257285 | [257285-the-10x10-project.json](./257285-the-10x10-project.json) |
 | The 11th Hour | 2203 | [2203-the-11th-hour.json](./2203-the-11th-hour.json) |
 | The 11th Power | 405364 | [405364-the-11th-power.json](./405364-the-11th-power.json) |
+| The 11th Snood | 137256 | [137256-the-11th-snood.json](./137256-the-11th-snood.json) |
 | The 12 Days of Doomas! | 262565 | [262565-the-12-days-of-doomas.json](./262565-the-12-days-of-doomas.json) |
 | The 12th Annual Vanilla Level Design Contest: Collaboration Hack | 228321 | [228321-the-12th-annual-vanilla-level-design-contest-collaboration-hack.json](./228321-the-12th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 13th Doll: A Fan Game of The 7th Guest | 120368 | [120368-the-13th-doll-a-fan-game-of-the-7th-guest.json](./120368-the-13th-doll-a-fan-game-of-the-7th-guest.json) |
@@ -18159,6 +18161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
 | Thomas the Tank Engine & Friends | 128845 | [128845-thomas-the-tank-engine-and-friends.json](./128845-thomas-the-tank-engine-and-friends.json) |
+| Thomas the Tank Engine & Friends | 137268 | [137268-thomas-the-tank-engine-and-friends.json](./137268-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 284218 | [284218-thomas-the-tank-engine-and-friends.json](./284218-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 289757 | [289757-thomas-the-tank-engine-and-friends.json](./289757-thomas-the-tank-engine-and-friends.json) |
 | Thomas The Tank Engine & Friends | 261192 | [261192-thomas-the-tank-engine-and-friends.json](./261192-thomas-the-tank-engine-and-friends.json) |
@@ -18589,6 +18592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunder Shooting | 195061 | [195061-thunder-shooting.json](./195061-thunder-shooting.json) |
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
+| Thunder Storm LX-3 | 137249 | [137249-thunder-storm-lx-3.json](./137249-thunder-storm-lx-3.json) |
 | Thunder Storm LX-3 & Road Blaster | 55870 | [55870-thunder-storm-lx-3-and-road-blaster.json](./55870-thunder-storm-lx-3-and-road-blaster.json) |
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
 | Thunder Tier One | 35073 | [35073-thunder-tier-one.json](./35073-thunder-tier-one.json) |
@@ -29329,6 +29333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
 | Turn on All the Lights | 149830 | [149830-turn-on-all-the-lights.json](./149830-turn-on-all-the-lights.json) |
+| Turn on the Light | 137283 | [137283-turn-on-the-light.json](./137283-turn-on-the-light.json) |
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
 | Turn on the lights! Brain Game | 245782 | [245782-turn-on-the-lights-brain-game.json](./245782-turn-on-the-lights-brain-game.json) |
