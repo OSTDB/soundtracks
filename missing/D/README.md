@@ -10307,6 +10307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Does Money Grow on Trees | 184999 | [184999-does-money-grow-on-trees.json](./184999-does-money-grow-on-trees.json) |
 | Does not Commute | 59294 | [59294-does-not-commute.json](./59294-does-not-commute.json) |
 | Does The Moon Dream | 363054 | [363054-does-the-moon-dream.json](./363054-does-the-moon-dream.json) |
+| Dofamine | 156826 | [156826-dofamine.json](./156826-dofamine.json) |
 | Dofbox | 397178 | [397178-dofbox.json](./397178-dofbox.json) |
 | Dofense | 211547 | [211547-dofense.json](./211547-dofense.json) |
 | Dofus | 18337 | [18337-dofus.json](./18337-dofus.json) |
@@ -13486,6 +13487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Star Varnir: DLC Bundle | 227383 | [227383-dragon-star-varnir-dlc-bundle.json](./227383-dragon-star-varnir-dlc-bundle.json) |
 | Dragon Stone: Legendary Archer | 126991 | [126991-dragon-stone-legendary-archer.json](./126991-dragon-stone-legendary-archer.json) |
+| Dragon Storm | 156848 | [156848-dragon-storm.json](./156848-dragon-storm.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
 | Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
 | Dragon Super: Saiyan Ball Z | 100847 | [100847-dragon-super-saiyan-ball-z.json](./100847-dragon-super-saiyan-ball-z.json) |
