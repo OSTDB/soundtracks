@@ -6874,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleetbreakers | 342190 | [342190-fleetbreakers.json](./342190-fleetbreakers.json) |
 | FleetComm | 35312 | [35312-fleetcomm.json](./35312-fleetcomm.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
+| Fleeting Iris | 129358 | [129358-fleeting-iris.json](./129358-fleeting-iris.json) |
 | Fleeting Iris: Alansya Chronicles Ren'Py Edition | 302042 | [302042-fleeting-iris-alansya-chronicles-renpy-edition.json](./302042-fleeting-iris-alansya-chronicles-renpy-edition.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
 | Fleeting Shores | 392220 | [392220-fleeting-shores.json](./392220-fleeting-shores.json) |
