@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electigirl: High Tension Beauty | 333198 | [333198-electigirl-high-tension-beauty.json](./333198-electigirl-high-tension-beauty.json) |
 | Electio | 391307 | [391307-electio.json](./391307-electio.json) |
 | Election | 13630 | [13630-election.json](./13630-election.json) |
+| Election 2020: Battle for the Throne | 149249 | [149249-election-2020-battle-for-the-throne.json](./149249-election-2020-battle-for-the-throne.json) |
 | Election Day | 340995 | [340995-election-day.json](./340995-election-day.json) |
 | Election Day | 415126 | [415126-election-day.json](./415126-election-day.json) |
 | Election Manager 2016 | 94887 | [94887-election-manager-2016.json](./94887-election-manager-2016.json) |
