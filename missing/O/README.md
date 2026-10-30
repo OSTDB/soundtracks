@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obulis | 14856 | [14856-obulis.json](./14856-obulis.json) |
 | Obunga | 213225 | [213225-obunga.json](./213225-obunga.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
+| Ocak | 158875 | [158875-ocak.json](./158875-ocak.json) |
 | Ocarina of Time + Majora's Mask Crossover Randomizer | 231548 | [231548-ocarina-of-time-majoras-mask-crossover-randomizer.json](./231548-ocarina-of-time-majoras-mask-crossover-randomizer.json) |
 | Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
 | Ocarina of Time: Chaos Edition | 294568 | [294568-ocarina-of-time-chaos-edition.json](./294568-ocarina-of-time-chaos-edition.json) |
@@ -1813,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Rusty Trails | 19479 | [19479-on-rusty-trails.json](./19479-on-rusty-trails.json) |
 | On S’en Grille Une? | 386879 | [386879-on-s-en-grille-une.json](./386879-on-s-en-grille-une.json) |
 | On Scene: The Horror Stories of Fred & Karen | 164321 | [164321-on-scene-the-horror-stories-of-fred-and-karen.json](./164321-on-scene-the-horror-stories-of-fred-and-karen.json) |
+| On Space | 158879 | [158879-on-space.json](./158879-on-space.json) |
 | On Streaming | 415261 | [415261-on-streaming.json](./415261-on-streaming.json) |
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
@@ -2482,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One's Lonesome, Two's Company | 212804 | [212804-ones-lonesome-twos-company.json](./212804-ones-lonesome-twos-company.json) |
 | One's Own Exile | 344011 | [344011-ones-own-exile.json](./344011-ones-own-exile.json) |
 | One/Iro | 363666 | [363666-one-iro.json](./363666-one-iro.json) |
+| One4 | 158881 | [158881-one4.json](./158881-one4.json) |
 | OneBit Arena | 223556 | [223556-onebit-arena.json](./223556-onebit-arena.json) |
 | OneBit Berzerk | 208430 | [208430-onebit-berzerk.json](./208430-onebit-berzerk.json) |
 | OneBit Demon Attack | 292055 | [292055-onebit-demon-attack.json](./292055-onebit-demon-attack.json) |
