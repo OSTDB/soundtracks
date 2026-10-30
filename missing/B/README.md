@@ -6282,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond Space Remastered | 108616 | [108616-beyond-space-remastered.json](./108616-beyond-space-remastered.json) |
 | Beyond Stories: Jester | 338231 | [338231-beyond-stories-jester.json](./338231-beyond-stories-jester.json) |
+| Beyond Sunset | 164206 | [164206-beyond-sunset.json](./164206-beyond-sunset.json) |
 | Beyond Tenmei | 303714 | [303714-beyond-tenmei.json](./303714-beyond-tenmei.json) |
 | Beyond Terra | 177737 | [177737-beyond-terra.json](./177737-beyond-terra.json) |
 | Beyond Terra | 292501 | [292501-beyond-terra.json](./292501-beyond-terra.json) |
@@ -14466,6 +14467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brwanjeya | 233896 | [233896-brwanjeya.json](./233896-brwanjeya.json) |
 | Brxken Inside | 235890 | [235890-brxken-inside.json](./235890-brxken-inside.json) |
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
+| Bryant's Freeski | 164204 | [164204-bryants-freeski.json](./164204-bryants-freeski.json) |
 | Bryce Tiles | 236740 | [236740-bryce-tiles.json](./236740-bryce-tiles.json) |
 | BS Bokujou Monogatari | 134429 | [134429-bs-bokujou-monogatari.json](./134429-bs-bokujou-monogatari.json) |
 | BS Bokujou Monogatari: Dai-1-wa | 179913 | [179913-bs-bokujou-monogatari-dai-1-wa.json](./179913-bs-bokujou-monogatari-dai-1-wa.json) |
