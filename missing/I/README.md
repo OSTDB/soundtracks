@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Touched Tips with a Femboy | 385244 | [385244-i-touched-tips-with-a-femboy.json](./385244-i-touched-tips-with-a-femboy.json) |
 | I Traveled Back to 5 Days Before the Apocalypse | 379554 | [379554-i-traveled-back-to-5-days-before-the-apocalypse.json](./379554-i-traveled-back-to-5-days-before-the-apocalypse.json) |
 | I Unplugged the Kids | 412243 | [412243-i-unplugged-the-kids.json](./412243-i-unplugged-the-kids.json) |
+| I wa Sanjutsu Nari | 141426 | [141426-i-wa-sanjutsu-nari.json](./141426-i-wa-sanjutsu-nari.json) |
 | I Walk Among Zombies Vol. 0 | 163740 | [163740-i-walk-among-zombies-vol-0.json](./163740-i-walk-among-zombies-vol-0.json) |
 | I Walk Among Zombies Vol. 3 | 161519 | [161519-i-walk-among-zombies-vol-3.json](./161519-i-walk-among-zombies-vol-3.json) |
 | I Wani Hug that Gator! | 197078 | [197078-i-wani-hug-that-gator.json](./197078-i-wani-hug-that-gator.json) |
