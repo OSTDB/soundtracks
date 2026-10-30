@@ -4169,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated as a Rookie | 302798 | [302798-reincarnated-as-a-rookie.json](./302798-reincarnated-as-a-rookie.json) |
 | Reincarnatio | 260270 | [260270-reincarnatio.json](./260270-reincarnatio.json) |
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
+| Reincarnation of Ocean | 160028 | [160028-reincarnation-of-ocean.json](./160028-reincarnation-of-ocean.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnation: A Demon's Day Out | 387952 | [387952-reincarnation-a-demons-day-out.json](./387952-reincarnation-a-demons-day-out.json) |
 | Reincarnation: Hero of the Gun | 371924 | [371924-reincarnation-hero-of-the-gun.json](./371924-reincarnation-hero-of-the-gun.json) |
@@ -7500,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Engineer | 292948 | [292948-road-engineer.json](./292948-road-engineer.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
+| Road Flash | 160008 | [160008-road-flash.json](./160008-road-flash.json) |
 | Road Gangs Simulator | 172989 | [172989-road-gangs-simulator.json](./172989-road-gangs-simulator.json) |
 | Road Hell | 317564 | [317564-road-hell.json](./317564-road-hell.json) |
 | Road Hero | 287547 | [287547-road-hero.json](./287547-road-hero.json) |
@@ -9336,6 +9338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
 | Rolling | 6017 | [6017-rolling.json](./6017-rolling.json) |
 | Rolling Adventure | 163152 | [163152-rolling-adventure.json](./163152-rolling-adventure.json) |
+| Rolling Arcade | 160020 | [160020-rolling-arcade.json](./160020-rolling-arcade.json) |
 | Rolling Atop It | 256379 | [256379-rolling-atop-it.json](./256379-rolling-atop-it.json) |
 | Rolling Ball | 345116 | [345116-rolling-ball.json](./345116-rolling-ball.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
