@@ -4759,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Guild | 214306 | [214306-final-guild.json](./214306-final-guild.json) |
 | Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
+| Final Heroes | 124419 | [124419-final-heroes.json](./124419-final-heroes.json) |
 | Final Hope: The Plot | 160101 | [160101-final-hope-the-plot.json](./160101-final-hope-the-plot.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Hunter: Wild Animal Hunting | 101561 | [101561-final-hunter-wild-animal-hunting.json](./101561-final-hunter-wild-animal-hunting.json) |
@@ -6764,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashout 3D | 39206 | [39206-flashout-3d.json](./39206-flashout-3d.json) |
 | Flashout 3D: Enhanced Edition | 214676 | [214676-flashout-3d-enhanced-edition.json](./214676-flashout-3d-enhanced-edition.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
+| Flashover MegaSector | 124440 | [124440-flashover-megasector.json](./124440-flashover-megasector.json) |
 | Flashpoint Campaigns: Red Storm | 139724 | [139724-flashpoint-campaigns-red-storm.json](./139724-flashpoint-campaigns-red-storm.json) |
 | Flashpoint Campaigns: Southern Storm | 143429 | [143429-flashpoint-campaigns-southern-storm.json](./143429-flashpoint-campaigns-southern-storm.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
@@ -9427,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress | 86214 | [86214-fortress.json](./86214-fortress.json) |
 | Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
+| Fortress 3 | 124409 | [124409-fortress-3.json](./124409-fortress-3.json) |
 | Fortress Building Puzzle | 196479 | [196479-fortress-building-puzzle.json](./196479-fortress-building-puzzle.json) |
 | Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
 | Fortress Conquest | 175219 | [175219-fortress-conquest.json](./175219-fortress-conquest.json) |
@@ -9447,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Saga | 259634 | [259634-fortress-saga.json](./259634-fortress-saga.json) |
 | Fortress Under Siege | 89795 | [89795-fortress-under-siege.json](./89795-fortress-under-siege.json) |
 | Fortress Underground | 49515 | [49515-fortress-underground.json](./49515-fortress-underground.json) |
+| Fortress V2 | 124408 | [124408-fortress-v2.json](./124408-fortress-v2.json) |
 | Fortress VR | 239730 | [239730-fortress-vr.json](./239730-fortress-vr.json) |
 | Fortress-Life | 350390 | [350390-fortress-life.json](./350390-fortress-life.json) |
 | FortressCraft Evolved!: Adventures Pack | 168202 | [168202-fortresscraft-evolved-adventures-pack.json](./168202-fortresscraft-evolved-adventures-pack.json) |
