@@ -13657,6 +13657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monke Island: Rise of the Beast | 283115 | [283115-monke-island-rise-of-the-beast.json](./283115-monke-island-rise-of-the-beast.json) |
 | Monke Survivor | 408515 | [408515-monke-survivor.json](./408515-monke-survivor.json) |
 | Monkee Game | 269230 | [269230-monkee-game.json](./269230-monkee-game.json) |
+| Monken Crusher | 135445 | [135445-monken-crusher.json](./135445-monken-crusher.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
 | Monkey Adventure | 201542 | [201542-monkey-adventure.json](./201542-monkey-adventure.json) |
