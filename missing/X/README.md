@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xociety | 354214 | [354214-xociety.json](./354214-xociety.json) |
 | Xod.io | 130942 | [130942-xod-io.json](./130942-xod-io.json) |
 | xoEl Empire | 29542 | [29542-xoel-empire.json](./29542-xoel-empire.json) |
+| Xol | 155394 | [155394-xol.json](./155394-xol.json) |
 | Xolitaire | 91246 | [91246-xolitaire.json](./91246-xolitaire.json) |
 | Xolo & the Forgotten Gods | 350414 | [350414-xolo-and-the-forgotten-gods.json](./350414-xolo-and-the-forgotten-gods.json) |
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
