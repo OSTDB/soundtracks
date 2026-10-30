@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Liberation Force | 17627 | [17627-pacific-liberation-force.json](./17627-pacific-liberation-force.json) |
+| Pacific Life | 157315 | [157315-pacific-life.json](./157315-pacific-life.json) |
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Rim | 3763 | [3763-pacific-rim.json](./3763-pacific-rim.json) |
 | Pacific Storm | 14884 | [14884-pacific-storm.json](./14884-pacific-storm.json) |
@@ -9098,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
+| Plushie Dungeon | 157335 | [157335-plushie-dungeon.json](./157335-plushie-dungeon.json) |
 | Plushie from the Sky | 168705 | [168705-plushie-from-the-sky.json](./168705-plushie-from-the-sky.json) |
 | Plushiemon | 344009 | [344009-plushiemon.json](./344009-plushiemon.json) |
 | Plushy's Playground: Into the Slide | 413207 | [413207-plushys-playground-into-the-slide.json](./413207-plushys-playground-into-the-slide.json) |
@@ -13652,6 +13654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro-Putt Domo | 68059 | [68059-pro-putt-domo.json](./68059-pro-putt-domo.json) |
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
 | Probability King | 403962 | [403962-probability-king.json](./403962-probability-king.json) |
+| Probability Race | 157327 | [157327-probability-race.json](./157327-probability-race.json) |
 | Probably Archery | 13362 | [13362-probably-archery.json](./13362-probably-archery.json) |
 | Probably Art | 328976 | [328976-probably-art.json](./328976-probably-art.json) |
 | Probably Nothing | 367054 | [367054-probably-nothing.json](./367054-probably-nothing.json) |
