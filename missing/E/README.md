@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden: Project New Earth | 286228 | [286228-eden-project-new-earth.json](./286228-eden-project-new-earth.json) |
 | Eden: World Builder Simulator | 259626 | [259626-eden-world-builder-simulator.json](./259626-eden-world-builder-simulator.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
+| Eden's Aegis | 143307 | [143307-edens-aegis.json](./143307-edens-aegis.json) |
 | Eden's Eclipse | 405559 | [405559-edens-eclipse.json](./405559-edens-eclipse.json) |
 | Eden's Guardian | 265806 | [265806-edens-guardian.json](./265806-edens-guardian.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
@@ -4476,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | Erwin's Timewarp | 34689 | [34689-erwins-timewarp.json](./34689-erwins-timewarp.json) |
 | Erz Online | 346225 | [346225-erz-online.json](./346225-erz-online.json) |
+| Erzurum | 143289 | [143289-erzurum.json](./143289-erzurum.json) |
 | Es | 131273 | [131273-es.json](./131273-es.json) |
 | ES Games | 334784 | [334784-es-games.json](./334784-es-games.json) |
 | Es Un Día Normal y Eso Es Casi Milagroso | 346642 | [346642-es-un-dia-normal-y-eso-es-casi-milagroso.json](./346642-es-un-dia-normal-y-eso-es-casi-milagroso.json) |
@@ -6680,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
 | Excalibots | 135712 | [135712-excalibots.json](./135712-excalibots.json) |
 | ExcaliBug | 71155 | [71155-excalibug.json](./71155-excalibug.json) |
+| Excalibur | 143254 | [143254-excalibur.json](./143254-excalibur.json) |
 | Excalibur | 175033 | [175033-excalibur.json](./175033-excalibur.json) |
 | Excalibur | 204292 | [204292-excalibur.json](./204292-excalibur.json) |
 | Excalibur | 23951 | [23951-excalibur.json](./23951-excalibur.json) |
