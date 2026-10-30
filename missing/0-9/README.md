@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Redacted] | 292844 | [292844-redacted.json](./292844-redacted.json) |
 | [Redacted] | 396399 | [396399-redacted.json](./396399-redacted.json) |
 | [Redacted] the Safehouse | 398337 | [398337-redacted-the-safehouse.json](./398337-redacted-the-safehouse.json) |
+| [Siberia] | 125005 | [125005-siberia.json](./125005-siberia.json) |
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
 | [Untitled] | 261441 | [261441-untitled.json](./261441-untitled.json) |
@@ -2918,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Realms | 92383 | [92383-8-realms.json](./92383-8-realms.json) |
 | 8 To Glory | 125321 | [125321-8-to-glory.json](./125321-8-to-glory.json) |
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
+| 8-Ball Pocket | 125014 | [125014-8-ball-pocket.json](./125014-8-ball-pocket.json) |
 | 8-Ball Pool | 293238 | [293238-8-ball-pool.json](./293238-8-ball-pool.json) |
 | 8-Bit Adventures 1: Bundle | 186538 | [186538-8-bit-adventures-1-bundle.json](./186538-8-bit-adventures-1-bundle.json) |
 | 8-Bit Adventures 1+2 Bundle | 237592 | [237592-8-bit-adventures-1-2-bundle.json](./237592-8-bit-adventures-1-2-bundle.json) |
