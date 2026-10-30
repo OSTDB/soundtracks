@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re;member | 145461 | [145461-re-member.json](./145461-re-member.json) |
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
 | Re: Aetatis | 174769 | [174769-re-aetatis.json](./174769-re-aetatis.json) |
+| Re: Ashesz | 175016 | [175016-re-ashesz.json](./175016-re-ashesz.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
 | RE: Crank Sim | 278570 | [278570-re-crank-sim.json](./278570-re-crank-sim.json) |
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
@@ -5900,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution Kart DS | 338848 | [338848-revolution-kart-ds.json](./338848-revolution-kart-ds.json) |
+| Revolution Offroad | 175011 | [175011-revolution-offroad.json](./175011-revolution-offroad.json) |
 | Revolution Triumph | 151520 | [151520-revolution-triumph.json](./151520-revolution-triumph.json) |
 | Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
 | Revolution: Path of a Weaponsmith | 157416 | [157416-revolution-path-of-a-weaponsmith.json](./157416-revolution-path-of-a-weaponsmith.json) |
