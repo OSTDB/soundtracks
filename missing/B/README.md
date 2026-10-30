@@ -9128,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blip | 92920 | [92920-blip.json](./92920-blip.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
 | Blip 1977: The Digital Game | 175528 | [175528-blip-1977-the-digital-game.json](./175528-blip-1977-the-digital-game.json) |
+| Blip Blup | 153634 | [153634-blip-blup.json](./153634-blip-blup.json) |
 | BLiP Football | 93418 | [93418-blip-football.json](./93418-blip-football.json) |
 | Blip's Supermassive Adventure | 322707 | [322707-blips-supermassive-adventure.json](./322707-blips-supermassive-adventure.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
