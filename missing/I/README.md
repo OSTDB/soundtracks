@@ -5637,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Arcana | 422652 | [422652-isles-of-arcana.json](./422652-isles-of-arcana.json) |
 | Isles of Derek | 73726 | [73726-isles-of-derek.json](./73726-isles-of-derek.json) |
 | Isles of Etherion | 187874 | [187874-isles-of-etherion.json](./187874-isles-of-etherion.json) |
+| Isles of Limbo | 153670 | [153670-isles-of-limbo.json](./153670-isles-of-limbo.json) |
 | Isles of Monsters | 286782 | [286782-isles-of-monsters.json](./286782-isles-of-monsters.json) |
 | Isles of Rain | 346554 | [346554-isles-of-rain.json](./346554-isles-of-rain.json) |
 | Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
@@ -6153,6 +6154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izumi Jiken File Vol. 2 - Tasogare-hen | 292109 | [292109-izumi-jiken-file-vol-2-tasogare-hen.json](./292109-izumi-jiken-file-vol-2-tasogare-hen.json) |
 | Izumi Jiken File Vol. 3 - Yujuku-hen | 292113 | [292113-izumi-jiken-file-vol-3-yujuku-hen.json](./292113-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | Izumo | 58168 | [58168-izumo.json](./58168-izumo.json) |
+| Izumo 0 | 153684 | [153684-izumo-0.json](./153684-izumo-0.json) |
 | Izumo 3 | 401172 | [401172-izumo-3.json](./401172-izumo-3.json) |
 | Izumo 4 | 401173 | [401173-izumo-4.json](./401173-izumo-4.json) |
 | Izuna | 268840 | [268840-izuna.json](./268840-izuna.json) |
