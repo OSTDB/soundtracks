@@ -6006,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revn | 131342 | [131342-revn.json](./131342-revn.json) |
 | Revoke | 93726 | [93726-revoke.json](./93726-revoke.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
+| Revolgear II | 124390 | [124390-revolgear-ii.json](./124390-revolgear-ii.json) |
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
 | Revolgear II: Second Brightness | 267195 | [267195-revolgear-ii-second-brightness.json](./267195-revolgear-ii-second-brightness.json) |
 | Revolgear Zero | 373901 | [373901-revolgear-zero.json](./373901-revolgear-zero.json) |
