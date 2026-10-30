@@ -8070,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
+| Analytical World | 156845 | [156845-analytical-world.json](./156845-analytical-world.json) |
 | Anamnesis | 254026 | [254026-anamnesis.json](./254026-anamnesis.json) |
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
 | Anamorphosis | 167125 | [167125-anamorphosis.json](./167125-anamorphosis.json) |
@@ -16020,6 +16021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Land | 146029 | [146029-awesome-land.json](./146029-awesome-land.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
+| Awesome Mix Tape | 156835 | [156835-awesome-mix-tape.json](./156835-awesome-mix-tape.json) |
 | Awesome Pea 2 | 126998 | [126998-awesome-pea-2.json](./126998-awesome-pea-2.json) |
 | Awesome Pea 3 | 265551 | [265551-awesome-pea-3.json](./265551-awesome-pea-3.json) |
 | Awesome Pea Collection | 138459 | [138459-awesome-pea-collection.json](./138459-awesome-pea-collection.json) |
