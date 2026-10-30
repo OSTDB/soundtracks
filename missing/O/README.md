@@ -3208,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
 | Operation Teddy Bear | 137505 | [137505-operation-teddy-bear.json](./137505-operation-teddy-bear.json) |
 | Operation Temple | 293874 | [293874-operation-temple.json](./293874-operation-temple.json) |
+| Operation Thunder Hurricane | 127511 | [127511-operation-thunder-hurricane.json](./127511-operation-thunder-hurricane.json) |
 | Operation Thunderbolt | 12191 | [12191-operation-thunderbolt.json](./12191-operation-thunderbolt.json) |
 | Operation TP | 169482 | [169482-operation-tp.json](./169482-operation-tp.json) |
 | Operation Trick-Or-Treat | 333657 | [333657-operation-trick-or-treat.json](./333657-operation-trick-or-treat.json) |
@@ -3512,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
 | Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
 | Orbitals: Deluxe Edition | 407108 | [407108-orbitals-deluxe-edition.json](./407108-orbitals-deluxe-edition.json) |
+| Orbitblazers | 127509 | [127509-orbitblazers.json](./127509-orbitblazers.json) |
 | Orbitect | 156858 | [156858-orbitect.json](./156858-orbitect.json) |
 | Orbiteers | 371566 | [371566-orbiteers.json](./371566-orbiteers.json) |
 | Orbiter | 15330 | [15330-orbiter.json](./15330-orbiter.json) |
