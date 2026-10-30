@@ -7355,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
+| Chronicles of Ash | 169608 | [169608-chronicles-of-ash.json](./169608-chronicles-of-ash.json) |
 | Chronicles Of Crystal: Turn-Basde Epoch | 297367 | [297367-chronicles-of-crystal-turn-basde-epoch.json](./297367-chronicles-of-crystal-turn-basde-epoch.json) |
 | Chronicles of cyberpunk | 75931 | [75931-chronicles-of-cyberpunk.json](./75931-chronicles-of-cyberpunk.json) |
 | Chronicles of Cyberpunk: Deep Sleep | 155499 | [155499-chronicles-of-cyberpunk-deep-sleep.json](./155499-chronicles-of-cyberpunk-deep-sleep.json) |
@@ -10583,6 +10584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
 | Color Phase | 157922 | [157922-color-phase.json](./157922-color-phase.json) |
 | Color Picker | 60903 | [60903-color-picker.json](./60903-color-picker.json) |
+| Color Pixel Heroes | 169596 | [169596-color-pixel-heroes.json](./169596-color-pixel-heroes.json) |
 | Color Pixel Heroes: Expansion Pack 1 | 225006 | [225006-color-pixel-heroes-expansion-pack-1.json](./225006-color-pixel-heroes-expansion-pack-1.json) |
 | Color Pixel Heroes: Expansion Pack 2 | 225007 | [225007-color-pixel-heroes-expansion-pack-2.json](./225007-color-pixel-heroes-expansion-pack-2.json) |
 | Color Puzzle | 230686 | [230686-color-puzzle.json](./230686-color-puzzle.json) |
