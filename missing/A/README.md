@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Trainer X | 403223 | [403223-aim-trainer-x.json](./403223-aim-trainer-x.json) |
 | Aim Trainer: Shooting Range | 277744 | [277744-aim-trainer-shooting-range.json](./277744-aim-trainer-shooting-range.json) |
 | Aim Trainer: With Cats | 375579 | [375579-aim-trainer-with-cats.json](./375579-aim-trainer-with-cats.json) |
+| Aim XR | 163132 | [163132-aim-xr.json](./163132-aim-xr.json) |
 | Aim Zen | 283887 | [283887-aim-zen.json](./283887-aim-zen.json) |
 | Aim: Warmup | 164161 | [164161-aim-warmup.json](./164161-aim-warmup.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
@@ -7134,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I Still Me | 406519 | [406519-am-i-still-me.json](./406519-am-i-still-me.json) |
 | Am I The Asshole? | 373829 | [373829-am-i-the-asshole.json](./373829-am-i-the-asshole.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
+| Am Madness | 163091 | [163091-am-madness.json](./163091-am-madness.json) |
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Ama-Hina | 38715 | [38715-ama-hina.json](./38715-ama-hina.json) |
