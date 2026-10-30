@@ -12179,12 +12179,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
 | Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs | 240137 | [240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json](./240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json) |
+| Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs - The Meerkats from Arkham | 169040 | [169040-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs-the-meerkats-from-arkham.json](./169040-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs-the-meerkats-from-arkham.json) |
 | Furry Shakespeare: Dreamin' of One Lazy Dead Midsummer | 164600 | [164600-furry-shakespeare-dreamin-of-one-lazy-dead-midsummer.json](./164600-furry-shakespeare-dreamin-of-one-lazy-dead-midsummer.json) |
 | Furry Shakespeare: Emperor Penguin Lear | 133180 | [133180-furry-shakespeare-emperor-penguin-lear.json](./133180-furry-shakespeare-emperor-penguin-lear.json) |
+| Furry Shakespeare: Hamlet(s) | 169038 | [169038-furry-shakespeare-hamlet-s.json](./169038-furry-shakespeare-hamlet-s.json) |
 | Furry Shakespeare: Love's Lizards Lost | 128973 | [128973-furry-shakespeare-loves-lizards-lost.json](./128973-furry-shakespeare-loves-lizards-lost.json) |
 | Furry Shakespeare: Oops! All Dragons! | 152805 | [152805-furry-shakespeare-oops-all-dragons.json](./152805-furry-shakespeare-oops-all-dragons.json) |
+| Furry Shakespeare: The Reverse Hamlet Championships | 169037 | [169037-furry-shakespeare-the-reverse-hamlet-championships.json](./169037-furry-shakespeare-the-reverse-hamlet-championships.json) |
 | Furry Shakespeare: To Date or Not to Date Cat Girls? | 115492 | [115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json](./115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience | 253951 | [253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json](./253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json) |
+| Furry Shakespeare: To Date or Not to Date Cat Girls? - Winter's Tale | 169039 | [169039-furry-shakespeare-to-date-or-not-to-date-cat-girls-winters-tale.json](./169039-furry-shakespeare-to-date-or-not-to-date-cat-girls-winters-tale.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? If Made Today | 290884 | [290884-furry-shakespeare-to-date-or-not-to-date-cat-girls-if-made-today.json](./290884-furry-shakespeare-to-date-or-not-to-date-cat-girls-if-made-today.json) |
 | Furry Shakespeare: To Date Or Not To Date Spooky Cat Girls 2?! | 290901 | [290901-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls-2.json](./290901-furry-shakespeare-to-date-or-not-to-date-spooky-cat-girls-2.json) |
 | Furry Shakespeare: Two Incredibly Ripped, Absolutely Shredded Noble Kinsmen | 196471 | [196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json](./196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json) |
