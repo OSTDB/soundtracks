@@ -6791,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco Pixel 5 | 158104 | [158104-choco-pixel-5.json](./158104-choco-pixel-5.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
 | Choco Pixel 7 | 158591 | [158591-choco-pixel-7.json](./158591-choco-pixel-7.json) |
+| Choco Pixel D | 150855 | [150855-choco-pixel-d.json](./150855-choco-pixel-d.json) |
 | Choco Pixel S | 156828 | [156828-choco-pixel-s.json](./156828-choco-pixel-s.json) |
 | Choco Puzzle | 357980 | [357980-choco-puzzle.json](./357980-choco-puzzle.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
@@ -7290,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrith: Ai no Tabidachi | 137980 | [137980-chrith-ai-no-tabidachi.json](./137980-chrith-ai-no-tabidachi.json) |
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
 | Chroisen 2 | 188388 | [188388-chroisen-2.json](./188388-chroisen-2.json) |
+| Chroma | 150871 | [150871-chroma.json](./150871-chroma.json) |
 | Chroma | 172046 | [172046-chroma.json](./172046-chroma.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
 | Chroma | 319875 | [319875-chroma.json](./319875-chroma.json) |
@@ -10357,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collaborate | 184262 | [184262-collaborate.json](./184262-collaborate.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse | 13505 | [13505-collapse.json](./13505-collapse.json) |
+| Collapse | 150882 | [150882-collapse.json](./150882-collapse.json) |
 | Collapse | 26507 | [26507-collapse.json](./26507-collapse.json) |
 | Collapse | 310937 | [310937-collapse.json](./310937-collapse.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
@@ -13312,6 +13315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Dawn | 141183 | [141183-cosmic-dawn.json](./141183-cosmic-dawn.json) |
 | Cosmic Decode | 338889 | [338889-cosmic-decode.json](./338889-cosmic-decode.json) |
 | Cosmic Destroyer | 373304 | [373304-cosmic-destroyer.json](./373304-cosmic-destroyer.json) |
+| Cosmic Disco | 150883 | [150883-cosmic-disco.json](./150883-cosmic-disco.json) |
 | Cosmic Distortion | 412281 | [412281-cosmic-distortion.json](./412281-cosmic-distortion.json) |
 | Cosmic DJ | 14400 | [14400-cosmic-dj.json](./14400-cosmic-dj.json) |
 | Cosmic Dream | 380091 | [380091-cosmic-dream.json](./380091-cosmic-dream.json) |
