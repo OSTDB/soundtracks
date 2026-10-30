@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castrol Honda Superbike World Champions | 47086 | [47086-castrol-honda-superbike-world-champions.json](./47086-castrol-honda-superbike-world-champions.json) |
 | Castrol Honda World Superbike Team VTR | 278858 | [278858-castrol-honda-world-superbike-team-vtr.json](./278858-castrol-honda-world-superbike-team-vtr.json) |
 | Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
+| Casual Birder | 151962 | [151962-casual-birder.json](./151962-casual-birder.json) |
 | Casual Coins | 197687 | [197687-casual-coins.json](./197687-casual-coins.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
@@ -14297,6 +14298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankies Workshop: Whirlbot Assembly 2 | 68897 | [68897-crankies-workshop-whirlbot-assembly-2.json](./68897-crankies-workshop-whirlbot-assembly-2.json) |
 | Crankies Workshop: Zazzbot Assembly | 218311 | [218311-crankies-workshop-zazzbot-assembly.json](./218311-crankies-workshop-zazzbot-assembly.json) |
 | Crankin Car | 230745 | [230745-crankin-car.json](./230745-crankin-car.json) |
+| Crankin's Time Travel Adventure | 151957 | [151957-crankins-time-travel-adventure.json](./151957-crankins-time-travel-adventure.json) |
 | CrankLander | 413588 | [413588-cranklander.json](./413588-cranklander.json) |
 | CranKnight | 339703 | [339703-cranknight.json](./339703-cranknight.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
