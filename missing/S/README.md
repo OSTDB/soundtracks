@@ -4674,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
 | Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
+| Self: Where's My Father | 164740 | [164740-self-wheres-my-father.json](./164740-self-wheres-my-father.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
 | Selfie Girls | 271596 | [271596-selfie-girls.json](./271596-selfie-girls.json) |
@@ -9949,6 +9950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator of Ukraine 1991: Play for USA | 293116 | [293116-simulator-of-ukraine-1991-play-for-usa.json](./293116-simulator-of-ukraine-1991-play-for-usa.json) |
 | Simulator of Ukraine 1991: The Great Sea | 312461 | [312461-simulator-of-ukraine-1991-the-great-sea.json](./312461-simulator-of-ukraine-1991-the-great-sea.json) |
 | Simulator of НЗllo Neighbor | 193852 | [193852-simulator-of-llo-neighbor.json](./193852-simulator-of-llo-neighbor.json) |
+| Simulator Pack: Car Mechanic Simulator and Gold Rush: The Game - Double Bundle | 164697 | [164697-simulator-pack-car-mechanic-simulator-and-gold-rush-the-game-double-bundle.json](./164697-simulator-pack-car-mechanic-simulator-and-gold-rush-the-game-double-bundle.json) |
 | Simulator Pack: Gas Station Simulator and Treasure Hunter Simulator | 251110 | [251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json](./251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json) |
 | Simulator RKM | 373215 | [373215-simulator-rkm.json](./373215-simulator-rkm.json) |
 | Simulator Simulator | 128586 | [128586-simulator-simulator.json](./128586-simulator-simulator.json) |
@@ -13456,6 +13458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts 2 | 138980 | [138980-sniper-ghost-warrior-contracts-2.json](./138980-sniper-ghost-warrior-contracts-2.json) |
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
 | Sniper Ghost Warrior Contracts 2: Complete Edition | 197352 | [197352-sniper-ghost-warrior-contracts-2-complete-edition.json](./197352-sniper-ghost-warrior-contracts-2-complete-edition.json) |
+| Sniper Ghost Warrior Contracts 2: Deluxe Arsenal Edition | 164690 | [164690-sniper-ghost-warrior-contracts-2-deluxe-arsenal-edition.json](./164690-sniper-ghost-warrior-contracts-2-deluxe-arsenal-edition.json) |
 | Sniper Ghost Warrior Contracts: Arsenal Pack | 370318 | [370318-sniper-ghost-warrior-contracts-arsenal-pack.json](./370318-sniper-ghost-warrior-contracts-arsenal-pack.json) |
 | Sniper Ghost Warrior Contracts: Complete Edition | 141649 | [141649-sniper-ghost-warrior-contracts-complete-edition.json](./141649-sniper-ghost-warrior-contracts-complete-edition.json) |
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
@@ -17197,6 +17200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Engineers: Decorative Pack #3 | 264508 | [264508-space-engineers-decorative-pack-3.json](./264508-space-engineers-decorative-pack-3.json) |
 | Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
+| Space Engineers: Ultimate Edition 2020 | 164714 | [164714-space-engineers-ultimate-edition-2020.json](./164714-space-engineers-ultimate-edition-2020.json) |
 | Space Engineers: Ultimate Edition 2021 | 187967 | [187967-space-engineers-ultimate-edition-2021.json](./187967-space-engineers-ultimate-edition-2021.json) |
 | Space Engineers: Ultimate Edition 2023 | 280417 | [280417-space-engineers-ultimate-edition-2023.json](./280417-space-engineers-ultimate-edition-2023.json) |
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
@@ -20636,6 +20640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Smash | 394465 | [394465-square-smash.json](./394465-square-smash.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
+| Square vs Triangles | 164739 | [164739-square-vs-triangles.json](./164739-square-vs-triangles.json) |
 | Square Wave | 246779 | [246779-square-wave.json](./246779-square-wave.json) |
 | Square Weapons Dungeon | 122026 | [122026-square-weapons-dungeon.json](./122026-square-weapons-dungeon.json) |
 | Square Word: Back to Work | 260545 | [260545-square-word-back-to-work.json](./260545-square-word-back-to-work.json) |
@@ -31429,6 +31434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword & Shield Simulator | 212091 | [212091-sword-and-shield-simulator.json](./212091-sword-and-shield-simulator.json) |
 | Sword & Siege Crusades: Book II | 402956 | [402956-sword-and-siege-crusades-book-ii.json](./402956-sword-and-siege-crusades-book-ii.json) |
 | Sword & Siege: Crusades Book I | 335735 | [335735-sword-and-siege-crusades-book-i.json](./335735-sword-and-siege-crusades-book-i.json) |
+| Sword & Sorcery Bundle | 164724 | [164724-sword-and-sorcery-bundle.json](./164724-sword-and-sorcery-bundle.json) |
 | Sword & Spatula | 257892 | [257892-sword-and-spatula.json](./257892-sword-and-spatula.json) |
 | Sword and Adventurer | 133115 | [133115-sword-and-adventurer.json](./133115-sword-and-adventurer.json) |
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
