@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
 | Pathologic Classic HD | 13204 | [13204-pathologic-classic-hd.json](./13204-pathologic-classic-hd.json) |
 | Pathological | 74085 | [74085-pathological.json](./74085-pathological.json) |
+| Pathological Tires | 163092 | [163092-pathological-tires.json](./163092-pathological-tires.json) |
 | Pathology | 270734 | [270734-pathology.json](./270734-pathology.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
 | Pathos | 75594 | [75594-pathos.json](./75594-pathos.json) |
@@ -5409,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | Picolarium | 178605 | [178605-picolarium.json](./178605-picolarium.json) |
+| PiColumns | 163136 | [163136-picolumns.json](./163136-picolumns.json) |
 | Picoman Go | 284321 | [284321-picoman-go.json](./284321-picoman-go.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
 | Picontier | 70860 | [70860-picontier.json](./70860-picontier.json) |
@@ -9897,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
 | Pokemon Definitive Platinum | 315820 | [315820-pokemon-definitive-platinum.json](./315820-pokemon-definitive-platinum.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
+| Pokémon Diamond | 163099 | [163099-pokemon-diamond.json](./163099-pokemon-diamond.json) |
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
 | Pokémon Dream Radar | 24945 | [24945-pokemon-dream-radar.json](./24945-pokemon-dream-radar.json) |
@@ -9995,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Grape | 203217 | [203217-pokemon-grape.json](./203217-pokemon-grape.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokémon Gray | 228904 | [228904-pokemon-gray.json](./228904-pokemon-gray.json) |
+| Pokémon GS Chronicles | 163125 | [163125-pokemon-gs-chronicles.json](./163125-pokemon-gs-chronicles.json) |
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
 | Pokémon Hero | 314728 | [314728-pokemon-hero.json](./314728-pokemon-hero.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
@@ -10011,6 +10015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Insurgence | 18989 | [18989-pokemon-insurgence.json](./18989-pokemon-insurgence.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Island | 324004 | [324004-pokemon-island.json](./324004-pokemon-island.json) |
+| Pokémon Jade | 163100 | [163100-pokemon-jade.json](./163100-pokemon-jade.json) |
 | Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
 | Pokémon Jaspe | 180959 | [180959-pokemon-jaspe.json](./180959-pokemon-jaspe.json) |
 | Pokemon Kaisen | 384836 | [384836-pokemon-kaisen.json](./384836-pokemon-kaisen.json) |
@@ -10220,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
 | Pokémon Spirits of the Storm | 397766 | [397766-pokemon-spirits-of-the-storm.json](./397766-pokemon-spirits-of-the-storm.json) |
+| Pokémon Stadium | 163098 | [163098-pokemon-stadium.json](./163098-pokemon-stadium.json) |
 | Pokémon Stadium 2 | 2290 | [2290-pokemon-stadium-2.json](./2290-pokemon-stadium-2.json) |
 | Pokémon Stadium Club | 357347 | [357347-pokemon-stadium-club.json](./357347-pokemon-stadium-club.json) |
 | Pokémon Stadium Fusion | 262412 | [262412-pokemon-stadium-fusion.json](./262412-pokemon-stadium-fusion.json) |
