@@ -11837,11 +11837,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Joushiki-ryoku TV | 268372 | [268372-minna-no-joushiki-ryoku-tv.json](./268372-minna-no-joushiki-ryoku-tv.json) |
 | Minna no Konbini | 67260 | [67260-minna-no-konbini.json](./67260-minna-no-konbini.json) |
 | Minna no Mahjong DS | 130789 | [130789-minna-no-mahjong-ds.json](./130789-minna-no-mahjong-ds.json) |
+| Minna no Mona Mona 1 | 130542 | [130542-minna-no-mona-mona-1.json](./130542-minna-no-mona-mona-1.json) |
+| Minna no Mona Mona 2 | 130543 | [130543-minna-no-mona-mona-2.json](./130543-minna-no-mona-mona-2.json) |
+| Minna no Mona Mona 3 | 130544 | [130544-minna-no-mona-mona-3.json](./130544-minna-no-mona-mona-3.json) |
 | Minna no Mozoo | 302794 | [302794-minna-no-mozoo.json](./302794-minna-no-mozoo.json) |
 | Minna no Oekakiya-san | 276046 | [276046-minna-no-oekakiya-san.json](./276046-minna-no-oekakiya-san.json) |
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
 | Minna no Radio Controlled GP | 165435 | [165435-minna-no-radio-controlled-gp.json](./165435-minna-no-radio-controlled-gp.json) |
 | Minna no Radio Controlled GP + Variety Set | 165434 | [165434-minna-no-radio-controlled-gp-variety-set.json](./165434-minna-no-radio-controlled-gp-variety-set.json) |
+| Minna no Romana 1 | 130559 | [130559-minna-no-romana-1.json](./130559-minna-no-romana-1.json) |
+| Minna no Romana 2 | 130540 | [130540-minna-no-romana-2.json](./130540-minna-no-romana-2.json) |
+| Minna no Romana 3 | 130541 | [130541-minna-no-romana-3.json](./130541-minna-no-romana-3.json) |
 | Minna no Shiiku Series 1: Boku no Kabuto Mushi | 49730 | [49730-minna-no-shiiku-series-1-boku-no-kabuto-mushi.json](./49730-minna-no-shiiku-series-1-boku-no-kabuto-mushi.json) |
 | Minna no Shiiku Series 2: Boku no Kuwagata | 49732 | [49732-minna-no-shiiku-series-2-boku-no-kuwagata.json](./49732-minna-no-shiiku-series-2-boku-no-kuwagata.json) |
 | Minna no Shiiku Series: Boku no Kabuto - Kuwagata | 49731 | [49731-minna-no-shiiku-series-boku-no-kabuto-kuwagata.json](./49731-minna-no-shiiku-series-boku-no-kabuto-kuwagata.json) |
@@ -13561,6 +13567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monads | 109428 | [109428-monads.json](./109428-monads.json) |
 | Monads II | 166842 | [166842-monads-ii.json](./166842-monads-ii.json) |
 | Monarch Cocoon | 379847 | [379847-monarch-cocoon.json](./379847-monarch-cocoon.json) |
+| Monarch Monarch | 130556 | [130556-monarch-monarch.json](./130556-monarch-monarch.json) |
 | Monarch of Greed - Act 1 | 75631 | [75631-monarch-of-greed-act-1.json](./75631-monarch-of-greed-act-1.json) |
 | Monarch: Medieval Remastered | 117134 | [117134-monarch-medieval-remastered.json](./117134-monarch-medieval-remastered.json) |
 | Monarch: The Butterfly King | 106734 | [106734-monarch-the-butterfly-king.json](./106734-monarch-the-butterfly-king.json) |
@@ -14392,6 +14399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 3: Monster Roadtrip XXL | 260900 | [260900-monster-prom-3-monster-roadtrip-xxl.json](./260900-monster-prom-3-monster-roadtrip-xxl.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Prom 4: Monster Con XXL | 375413 | [375413-monster-prom-4-monster-con-xxl.json](./375413-monster-prom-4-monster-con-xxl.json) |
+| Monster Prom Reverse | 130512 | [130512-monster-prom-reverse.json](./130512-monster-prom-reverse.json) |
 | Monster Prom: Hotseat Edition | 144089 | [144089-monster-prom-hotseat-edition.json](./144089-monster-prom-hotseat-edition.json) |
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
 | Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
