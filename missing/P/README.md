@@ -8526,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Soul | 239810 | [239810-plastic-soul.json](./239810-plastic-soul.json) |
 | Plastic Tactics Online | 276620 | [276620-plastic-tactics-online.json](./276620-plastic-tactics-online.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
+| Plasticalypse: Submarine Adventures | 170134 | [170134-plasticalypse-submarine-adventures.json](./170134-plasticalypse-submarine-adventures.json) |
 | Plasticalypse: TrashSub Adventures | 144025 | [144025-plasticalypse-trashsub-adventures.json](./144025-plasticalypse-trashsub-adventures.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Plasticity | 119192 | [119192-plasticity.json](./119192-plasticity.json) |
@@ -13874,6 +13875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Alpha | 324347 | [324347-project-alpha.json](./324347-project-alpha.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
 | Project Amalthea: Battlegrounds | 81069 | [81069-project-amalthea-battlegrounds.json](./81069-project-amalthea-battlegrounds.json) |
+| Project Amalthea: Campaign | 170158 | [170158-project-amalthea-campaign.json](./170158-project-amalthea-campaign.json) |
 | Project Amaranth | 103925 | [103925-project-amaranth.json](./103925-project-amaranth.json) |
 | Project Anderson & The Legacy of Cthulhu | 25437 | [25437-project-anderson-and-the-legacy-of-cthulhu.json](./25437-project-anderson-and-the-legacy-of-cthulhu.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
