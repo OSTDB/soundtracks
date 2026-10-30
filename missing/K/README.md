@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
 | Kaitou Joker: Toki wo Koeru Kaitou to Ushinawareta Houseki | 393962 | [393962-kaitou-joker-toki-wo-koeru-kaitou-to-ushinawareta-houseki.json](./393962-kaitou-joker-toki-wo-koeru-kaitou-to-ushinawareta-houseki.json) |
 | Kaitou Rousseau | 214573 | [214573-kaitou-rousseau.json](./214573-kaitou-rousseau.json) |
+| Kaitou Saint Tail | 148222 | [148222-kaitou-saint-tail.json](./148222-kaitou-saint-tail.json) |
 | Kaitou Saint Tail | 45273 | [45273-kaitou-saint-tail.json](./45273-kaitou-saint-tail.json) |
 | Kaitou Saint Tail: Saint Tail to One, Two, Three! | 283817 | [283817-kaitou-saint-tail-saint-tail-to-one-two-three.json](./283817-kaitou-saint-tail-saint-tail-to-one-two-three.json) |
 | Kaitou Tantei Blonde Lady | 236834 | [236834-kaitou-tantei-blonde-lady.json](./236834-kaitou-tantei-blonde-lady.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
+| Kido: Ride on Time | 148179 | [148179-kido-ride-on-time.json](./148179-kido-ride-on-time.json) |
 | Kidou Butou-den G Gundam | 42371 | [42371-kidou-butou-den-g-gundam.json](./42371-kidou-butou-den-g-gundam.json) |
 | Kidou Club G: Braver Burst | 206549 | [206549-kidou-club-g-braver-burst.json](./206549-kidou-club-g-braver-burst.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
@@ -2513,7 +2515,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4934,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmo & Klax: Treehouse-Party | 95693 | [95693-kosmo-and-klax-treehouse-party.json](./95693-kosmo-and-klax-treehouse-party.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
 | Kosmo Killer | 120627 | [120627-kosmo-killer.json](./120627-kosmo-killer.json) |
+| Kosmo Laika: Guide to Space | 148210 | [148210-kosmo-laika-guide-to-space.json](./148210-kosmo-laika-guide-to-space.json) |
 | Kosmo Laika: Space and Beyond | 164247 | [164247-kosmo-laika-space-and-beyond.json](./164247-kosmo-laika-space-and-beyond.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
 | Kosmo Spin | 6208 | [6208-kosmo-spin.json](./6208-kosmo-spin.json) |
