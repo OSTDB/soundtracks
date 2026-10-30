@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T05:49:26.649Z",
-  "total_missing": 282698,
+  "generated_at": "2026-10-30T06:04:00.658Z",
+  "total_missing": 282748,
   "games": [
     {
       "igdb_id": 191680,
@@ -17837,6 +17837,11 @@
       "file": "missing/A/139376-a-game-of-thrones-the-board-game-digital-edition.json"
     },
     {
+      "igdb_id": 163656,
+      "game_name": "A Game of Thrones: The Board Game - Digital Edition: A Feast for Crows",
+      "file": "missing/A/163656-a-game-of-thrones-the-board-game-digital-edition-a-feast-for-crows.json"
+    },
+    {
       "igdb_id": 308544,
       "game_name": "A Game of Turnabouts",
       "file": "missing/A/308544-a-game-of-turnabouts.json"
@@ -24820,6 +24825,11 @@
       "igdb_id": 25751,
       "game_name": "Abribus",
       "file": "missing/A/25751-abribus.json"
+    },
+    {
+      "igdb_id": 163653,
+      "game_name": "Abridged",
+      "file": "missing/A/163653-abridged.json"
     },
     {
       "igdb_id": 163860,
@@ -157817,6 +157827,11 @@
       "file": "missing/B/387704-bot-vinnik-chess-legendary-queens.json"
     },
     {
+      "igdb_id": 163686,
+      "game_name": "BOT.vinnik Chess: Opening Traps",
+      "file": "missing/B/163686-bot-vinnik-chess-opening-traps.json"
+    },
+    {
       "igdb_id": 223498,
       "game_name": "BOT.vinnik Chess: Prodigies",
       "file": "missing/B/223498-bot-vinnik-chess-prodigies.json"
@@ -163660,6 +163675,11 @@
       "igdb_id": 274483,
       "game_name": "Brawl Chess: Fantasy Edition",
       "file": "missing/B/274483-brawl-chess-fantasy-edition.json"
+    },
+    {
+      "igdb_id": 163684,
+      "game_name": "Brawl Chess: Gambit",
+      "file": "missing/B/163684-brawl-chess-gambit.json"
     },
     {
       "igdb_id": 218453,
@@ -197147,6 +197167,11 @@
       "file": "missing/C/173994-cat-interstellar-episode-ii.json"
     },
     {
+      "igdb_id": 163666,
+      "game_name": "CAT Interstellar: Recast",
+      "file": "missing/C/163666-cat-interstellar-recast.json"
+    },
+    {
       "igdb_id": 188271,
       "game_name": "Cat Island",
       "file": "missing/C/188271-cat-island.json"
@@ -207847,6 +207872,11 @@
       "file": "missing/C/373534-checkmate-in-the-wild-west-chess-adventure.json"
     },
     {
+      "igdb_id": 163685,
+      "game_name": "Checkmate Kings",
+      "file": "missing/C/163685-checkmate-kings.json"
+    },
+    {
       "igdb_id": 331813,
       "game_name": "Checkmate Survivors",
       "file": "missing/C/331813-checkmate-survivors.json"
@@ -209082,6 +209112,11 @@
       "file": "missing/C/175197-chess-boss.json"
     },
     {
+      "igdb_id": 163688,
+      "game_name": "Chess Brain",
+      "file": "missing/C/163688-chess-brain.json"
+    },
+    {
       "igdb_id": 157156,
       "game_name": "Chess Brain: Dark Troops",
       "file": "missing/C/157156-chess-brain-dark-troops.json"
@@ -209632,6 +209667,11 @@
       "file": "missing/C/102828-chess.json"
     },
     {
+      "igdb_id": 163679,
+      "game_name": "Chess++",
+      "file": "missing/C/163679-chess.json"
+    },
+    {
       "igdb_id": 337544,
       "game_name": "Chess10",
       "file": "missing/C/337544-chess10.json"
@@ -209710,6 +209750,11 @@
       "igdb_id": 333331,
       "game_name": "ChessFinity",
       "file": "missing/C/333331-chessfinity.json"
+    },
+    {
+      "igdb_id": 163683,
+      "game_name": "Chessformer",
+      "file": "missing/C/163683-chessformer.json"
     },
     {
       "igdb_id": 195611,
@@ -209900,6 +209945,11 @@
       "igdb_id": 413719,
       "game_name": "Chessmate",
       "file": "missing/C/413719-chessmate.json"
+    },
+    {
+      "igdb_id": 163690,
+      "game_name": "Chessmates",
+      "file": "missing/C/163690-chessmates.json"
     },
     {
       "igdb_id": 233376,
@@ -215955,6 +216005,11 @@
       "igdb_id": 63008,
       "game_name": "Chromancer",
       "file": "missing/C/63008-chromancer.json"
+    },
+    {
+      "igdb_id": 163661,
+      "game_name": "Chromancy",
+      "file": "missing/C/163661-chromancy.json"
     },
     {
       "igdb_id": 338523,
@@ -256947,6 +257002,11 @@
       "file": "missing/C/345832-crit-happens.json"
     },
     {
+      "igdb_id": 163659,
+      "game_name": "Critadel",
+      "file": "missing/C/163659-critadel.json"
+    },
+    {
       "igdb_id": 326203,
       "game_name": "Criteria",
       "file": "missing/C/326203-criteria.json"
@@ -271605,6 +271665,11 @@
       "igdb_id": 222798,
       "game_name": "Cyphernaut",
       "file": "missing/C/222798-cyphernaut.json"
+    },
+    {
+      "igdb_id": 163651,
+      "game_name": "Cypherpunk Essentials",
+      "file": "missing/C/163651-cypherpunk-essentials.json"
     },
     {
       "igdb_id": 62633,
@@ -425630,6 +425695,11 @@
       "igdb_id": 188055,
       "game_name": "Fishing: North Atlantic - Enhanced Edition",
       "file": "missing/F/188055-fishing-north-atlantic-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 163660,
+      "game_name": "Fishing: North Atlantic - Scallops Expansion",
+      "file": "missing/F/163660-fishing-north-atlantic-scallops-expansion.json"
     },
     {
       "igdb_id": 316952,
@@ -610327,6 +610397,11 @@
       "file": "missing/J/268568-jubeat-prop.json"
     },
     {
+      "igdb_id": 163657,
+      "game_name": "jubeat Qubell",
+      "file": "missing/J/163657-jubeat-qubell.json"
+    },
+    {
       "igdb_id": 91903,
       "game_name": "Jubeat Ripples",
       "file": "missing/J/91903-jubeat-ripples.json"
@@ -630812,6 +630887,11 @@
       "file": "missing/K/61049-kingdom-builder.json"
     },
     {
+      "igdb_id": 163691,
+      "game_name": "Kingdom Chess",
+      "file": "missing/K/163691-kingdom-chess.json"
+    },
+    {
       "igdb_id": 89714,
       "game_name": "Kingdom Chronicles",
       "file": "missing/K/89714-kingdom-chronicles.json"
@@ -634405,6 +634485,11 @@
       "igdb_id": 239886,
       "game_name": "Kitty & Friends: Blast of Fun",
       "file": "missing/K/239886-kitty-and-friends-blast-of-fun.json"
+    },
+    {
+      "igdb_id": 163652,
+      "game_name": "Kitty Adventure",
+      "file": "missing/K/163652-kitty-adventure.json"
     },
     {
       "igdb_id": 392829,
@@ -682590,6 +682675,11 @@
       "igdb_id": 178833,
       "game_name": "Lounge Lord",
       "file": "missing/L/178833-lounge-lord.json"
+    },
+    {
+      "igdb_id": 163658,
+      "game_name": "Lounge zone",
+      "file": "missing/L/163658-lounge-zone.json"
     },
     {
       "igdb_id": 217378,
@@ -769835,6 +769925,21 @@
       "igdb_id": 105772,
       "game_name": "Motorsport Manager Mobile 3",
       "file": "missing/M/105772-motorsport-manager-mobile-3.json"
+    },
+    {
+      "igdb_id": 163647,
+      "game_name": "Motorsport Manager: Challenge Pack",
+      "file": "missing/M/163647-motorsport-manager-challenge-pack.json"
+    },
+    {
+      "igdb_id": 163648,
+      "game_name": "Motorsport Manager: Create Your Own Team",
+      "file": "missing/M/163648-motorsport-manager-create-your-own-team.json"
+    },
+    {
+      "igdb_id": 163649,
+      "game_name": "Motorsport Manager: Endurance Series",
+      "file": "missing/M/163649-motorsport-manager-endurance-series.json"
     },
     {
       "igdb_id": 17718,
@@ -880727,6 +880832,11 @@
       "file": "missing/P/353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json"
     },
     {
+      "igdb_id": 163671,
+      "game_name": "Pinball Arcade: Alvin G. and Co. Pack",
+      "file": "missing/P/163671-pinball-arcade-alvin-g-and-co-pack.json"
+    },
+    {
       "igdb_id": 349342,
       "game_name": "Pinball Arcade: Banzai Run",
       "file": "missing/P/349342-pinball-arcade-banzai-run.json"
@@ -880797,6 +880907,11 @@
       "file": "missing/P/349345-pinball-arcade-doctor-who.json"
     },
     {
+      "igdb_id": 163672,
+      "game_name": "Pinball Arcade: Doctor Who - Master of Time",
+      "file": "missing/P/163672-pinball-arcade-doctor-who-master-of-time.json"
+    },
+    {
       "igdb_id": 349353,
       "game_name": "Pinball Arcade: Earthshaker!",
       "file": "missing/P/349353-pinball-arcade-earthshaker.json"
@@ -880855,6 +880970,26 @@
       "igdb_id": 353264,
       "game_name": "Pinball Arcade: Gorgar",
       "file": "missing/P/353264-pinball-arcade-gorgar.json"
+    },
+    {
+      "igdb_id": 163676,
+      "game_name": "Pinball Arcade: Gottlieb EM Pack",
+      "file": "missing/P/163676-pinball-arcade-gottlieb-em-pack.json"
+    },
+    {
+      "igdb_id": 163673,
+      "game_name": "Pinball Arcade: Gottlieb Pack 1",
+      "file": "missing/P/163673-pinball-arcade-gottlieb-pack-1.json"
+    },
+    {
+      "igdb_id": 163675,
+      "game_name": "Pinball Arcade: Gottlieb Pack 2",
+      "file": "missing/P/163675-pinball-arcade-gottlieb-pack-2.json"
+    },
+    {
+      "igdb_id": 163674,
+      "game_name": "Pinball Arcade: Gottlieb Pack 3",
+      "file": "missing/P/163674-pinball-arcade-gottlieb-pack-3.json"
     },
     {
       "igdb_id": 353213,
@@ -881050,6 +881185,21 @@
       "igdb_id": 353249,
       "game_name": "Pinball Arcade: Star Trek Vengeance Premium",
       "file": "missing/P/353249-pinball-arcade-star-trek-vengeance-premium.json"
+    },
+    {
+      "igdb_id": 163668,
+      "game_name": "Pinball Arcade: Stern Pack 1",
+      "file": "missing/P/163668-pinball-arcade-stern-pack-1.json"
+    },
+    {
+      "igdb_id": 163669,
+      "game_name": "Pinball Arcade: Stern Pack 2",
+      "file": "missing/P/163669-pinball-arcade-stern-pack-2.json"
+    },
+    {
+      "igdb_id": 163670,
+      "game_name": "Pinball Arcade: Stern Pack 3",
+      "file": "missing/P/163670-pinball-arcade-stern-pack-3.json"
     },
     {
       "igdb_id": 353270,
@@ -959000,6 +959150,11 @@
       "igdb_id": 197384,
       "game_name": "Redactle",
       "file": "missing/R/197384-redactle.json"
+    },
+    {
+      "igdb_id": 163664,
+      "game_name": "Redaxium",
+      "file": "missing/R/163664-redaxium.json"
     },
     {
       "igdb_id": 207294,
@@ -1073887,6 +1074042,11 @@
       "file": "missing/S/178644-somewhere-in-space.json"
     },
     {
+      "igdb_id": 163663,
+      "game_name": "Somewhere in the Shadow",
+      "file": "missing/S/163663-somewhere-in-the-shadow.json"
+    },
+    {
       "igdb_id": 273723,
       "game_name": "Somewhere in Time",
       "file": "missing/S/273723-somewhere-in-time.json"
@@ -1074505,6 +1074665,11 @@
       "igdb_id": 154980,
       "game_name": "Songs for a Hero: Definitive Edition",
       "file": "missing/S/154980-songs-for-a-hero-definitive-edition.json"
+    },
+    {
+      "igdb_id": 163667,
+      "game_name": "Songs for a Hero: Songs for the Dead",
+      "file": "missing/S/163667-songs-for-a-hero-songs-for-the-dead.json"
     },
     {
       "igdb_id": 216893,
@@ -1089490,6 +1089655,11 @@
       "igdb_id": 154871,
       "game_name": "SpaceScape",
       "file": "missing/S/154871-spacescape.json"
+    },
+    {
+      "igdb_id": 163655,
+      "game_name": "SpaceSeals",
+      "file": "missing/S/163655-spaceseals.json"
     },
     {
       "igdb_id": 356047,
@@ -1121905,6 +1122075,16 @@
       "igdb_id": 28583,
       "game_name": "Strategy & Tactics: Wargame Collection",
       "file": "missing/S/28583-strategy-and-tactics-wargame-collection.json"
+    },
+    {
+      "igdb_id": 163677,
+      "game_name": "Strategy & Tactics: Wargame Collection - USSR vs USA!",
+      "file": "missing/S/163677-strategy-and-tactics-wargame-collection-ussr-vs-usa.json"
+    },
+    {
+      "igdb_id": 163678,
+      "game_name": "Strategy & Tactics: Wargame Collection - Vikings!",
+      "file": "missing/S/163678-strategy-and-tactics-wargame-collection-vikings.json"
     },
     {
       "igdb_id": 262518,
@@ -1166075,6 +1166255,11 @@
       "igdb_id": 239747,
       "game_name": "Tales of the Magic Ball",
       "file": "missing/T/239747-tales-of-the-magic-ball.json"
+    },
+    {
+      "igdb_id": 163654,
+      "game_name": "Tales of the Mirror",
+      "file": "missing/T/163654-tales-of-the-mirror.json"
     },
     {
       "igdb_id": 95992,
@@ -1230272,6 +1230457,11 @@
       "file": "missing/T/382502-the-rooster-files.json"
     },
     {
+      "igdb_id": 163689,
+      "game_name": "The Rooster's Chess",
+      "file": "missing/T/163689-the-roosters-chess.json"
+    },
+    {
       "igdb_id": 203621,
       "game_name": "The Roots",
       "file": "missing/T/203621-the-roots.json"
@@ -1255002,6 +1255192,21 @@
       "file": "missing/T/189713-tiger-fighter-1931-tora-mp100.json"
     },
     {
+      "igdb_id": 163639,
+      "game_name": "Tiger Fighter 1931: Tora!Tora! MP001",
+      "file": "missing/T/163639-tiger-fighter-1931-tora-tora-mp001.json"
+    },
+    {
+      "igdb_id": 163641,
+      "game_name": "Tiger Fighter 1931: Tora!Tora! MP004",
+      "file": "missing/T/163641-tiger-fighter-1931-tora-tora-mp004.json"
+    },
+    {
+      "igdb_id": 163640,
+      "game_name": "Tiger Fighter 1931: Tora!Tora! MP005",
+      "file": "missing/T/163640-tiger-fighter-1931-tora-tora-mp005.json"
+    },
+    {
       "igdb_id": 173625,
       "game_name": "Tiger Fighter 1931: Tora!Tora! MP006",
       "file": "missing/T/173625-tiger-fighter-1931-tora-tora-mp006.json"
@@ -1255440,6 +1255645,31 @@
       "igdb_id": 173582,
       "game_name": "Tiger Fighter 1931: Tora!Tora! MP100",
       "file": "missing/T/173582-tiger-fighter-1931-tora-tora-mp100.json"
+    },
+    {
+      "igdb_id": 163642,
+      "game_name": "Tiger Fighter 1931: Tora!Tora!Tora! MP001",
+      "file": "missing/T/163642-tiger-fighter-1931-tora-tora-tora-mp001.json"
+    },
+    {
+      "igdb_id": 163643,
+      "game_name": "Tiger Fighter 1931: Tora!Tora!Tora! MP002",
+      "file": "missing/T/163643-tiger-fighter-1931-tora-tora-tora-mp002.json"
+    },
+    {
+      "igdb_id": 163644,
+      "game_name": "Tiger Fighter 1931: Tora!Tora!Tora! MP003",
+      "file": "missing/T/163644-tiger-fighter-1931-tora-tora-tora-mp003.json"
+    },
+    {
+      "igdb_id": 163646,
+      "game_name": "Tiger Fighter 1931: Tora!Tora!Tora! MP004",
+      "file": "missing/T/163646-tiger-fighter-1931-tora-tora-tora-mp004.json"
+    },
+    {
+      "igdb_id": 163645,
+      "game_name": "Tiger Fighter 1931: Tora!Tora!Tora! MP005",
+      "file": "missing/T/163645-tiger-fighter-1931-tora-tora-tora-mp005.json"
     },
     {
       "igdb_id": 173535,
@@ -1271780,6 +1272010,11 @@
       "igdb_id": 304371,
       "game_name": "Tomb Stalkers",
       "file": "missing/T/304371-tomb-stalkers.json"
+    },
+    {
+      "igdb_id": 163696,
+      "game_name": "Tomb Sweeper",
+      "file": "missing/T/163696-tomb-sweeper.json"
     },
     {
       "igdb_id": 99610,
@@ -1312327,6 +1312562,11 @@
       "file": "missing/U/232419-ultimate-sackboy.json"
     },
     {
+      "igdb_id": 163662,
+      "game_name": "Ultimate Sadou: Tea or Coffee?",
+      "file": "missing/U/163662-ultimate-sadou-tea-or-coffee.json"
+    },
+    {
       "igdb_id": 183312,
       "game_name": "Ultimate salmon simulator 2019",
       "file": "missing/U/183312-ultimate-salmon-simulator-2019.json"
@@ -1318450,6 +1318690,11 @@
       "igdb_id": 33590,
       "game_name": "Unending Galaxy",
       "file": "missing/U/33590-unending-galaxy.json"
+    },
+    {
+      "igdb_id": 163681,
+      "game_name": "Unending War: Grand-Strategy Chess",
+      "file": "missing/U/163681-unending-war-grand-strategy-chess.json"
     },
     {
       "igdb_id": 3018,
@@ -1341395,6 +1341640,11 @@
       "igdb_id": 287574,
       "game_name": "Volleyball",
       "file": "missing/V/287574-volleyball.json"
+    },
+    {
+      "igdb_id": 163694,
+      "game_name": "Volleyball Challenge",
+      "file": "missing/V/163694-volleyball-challenge.json"
     },
     {
       "igdb_id": 43244,
