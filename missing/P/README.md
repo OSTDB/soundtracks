@@ -2734,8 +2734,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
+| Pathfinder: Kingmaker - Beneath the Stolen Lands | 124975 | [124975-pathfinder-kingmaker-beneath-the-stolen-lands.json](./124975-pathfinder-kingmaker-beneath-the-stolen-lands.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
+| Pathfinder: Kingmaker - Imperial Edition | 124981 | [124981-pathfinder-kingmaker-imperial-edition.json](./124981-pathfinder-kingmaker-imperial-edition.json) |
 | Pathfinder: Kingmaker - Royal Ascension | 134569 | [134569-pathfinder-kingmaker-royal-ascension.json](./134569-pathfinder-kingmaker-royal-ascension.json) |
+| Pathfinder: Kingmaker - The Wildcards | 124972 | [124972-pathfinder-kingmaker-the-wildcards.json](./124972-pathfinder-kingmaker-the-wildcards.json) |
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
 | Pathfinder: Wrath of the Righteous - A Visitor from Distant Lands | 193129 | [193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json](./193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json) |
 | Pathfinder: Wrath of the Righteous - Commander Edition | 166283 | [166283-pathfinder-wrath-of-the-righteous-commander-edition.json](./166283-pathfinder-wrath-of-the-righteous-commander-edition.json) |
@@ -5970,6 +5973,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity II: Deadfire - Obsidian Edition | 83895 | [83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json](./83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json) |
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
+| Pillars of Eternity II: Deadfire - Seeker, Slayer, Survivor | 124957 | [124957-pillars-of-eternity-ii-deadfire-seeker-slayer-survivor.json](./124957-pillars-of-eternity-ii-deadfire-seeker-slayer-survivor.json) |
+| Pillars of Eternity II: Deadfire - The Forgotten Sanctum | 124962 | [124962-pillars-of-eternity-ii-deadfire-the-forgotten-sanctum.json](./124962-pillars-of-eternity-ii-deadfire-the-forgotten-sanctum.json) |
 | Pillars of Eternity II: Deadfire - Ultimate Collector's Edition | 136131 | [136131-pillars-of-eternity-ii-deadfire-ultimate-collectors-edition.json](./136131-pillars-of-eternity-ii-deadfire-ultimate-collectors-edition.json) |
 | Pillars of Eternity II: Deadfire - Ultimate Edition | 127257 | [127257-pillars-of-eternity-ii-deadfire-ultimate-edition.json](./127257-pillars-of-eternity-ii-deadfire-ultimate-edition.json) |
 | Pillars of Eternity: Champion Edition | 51890 | [51890-pillars-of-eternity-champion-edition.json](./51890-pillars-of-eternity-champion-edition.json) |
@@ -10708,6 +10713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Car Simulator | 236170 | [236170-police-car-simulator.json](./236170-police-car-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
 | Police Car: Gangster Chase | 233471 | [233471-police-car-gangster-chase.json](./233471-police-car-gangster-chase.json) |
+| Police Chase | 124989 | [124989-police-chase.json](./124989-police-chase.json) |
 | Police Chase | 157550 | [157550-police-chase.json](./157550-police-chase.json) |
 | Police Chase | 209338 | [209338-police-chase.json](./209338-police-chase.json) |
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
@@ -12403,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
 | Powwow Bound: A Menominee Homecoming | 373288 | [373288-powwow-bound-a-menominee-homecoming.json](./373288-powwow-bound-a-menominee-homecoming.json) |
+| Pox | 124995 | [124995-pox.json](./124995-pox.json) |
 | Pox Nora | 9595 | [9595-pox-nora.json](./9595-pox-nora.json) |
 | Poxel.io | 349951 | [349951-poxel-io.json](./349951-poxel-io.json) |
 | Poy Poy | 45092 | [45092-poy-poy.json](./45092-poy-poy.json) |
