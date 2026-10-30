@@ -14299,7 +14299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Legacy: New Horizons 2 | 296858 | [296858-monster-legacy-new-horizons-2.json](./296858-monster-legacy-new-horizons-2.json) |
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
-| Monster Legends | 59437 | [59437-monster-legends.json](./59437-monster-legends.json) |
 | Monster Lily | 390568 | [390568-monster-lily.json](./390568-monster-lily.json) |
 | Monster Line of Defense | 258887 | [258887-monster-line-of-defense.json](./258887-monster-line-of-defense.json) |
 | Monster Logic | 115362 | [115362-monster-logic.json](./115362-monster-logic.json) |
