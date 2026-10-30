@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser: Sea of Sword | 411065 | [411065-langrisser-sea-of-sword.json](./411065-langrisser-sea-of-sword.json) |
 | Language Adventure | 240699 | [240699-language-adventure.json](./240699-language-adventure.json) |
 | Language Learning Simulator: Alphabet | 309722 | [309722-language-learning-simulator-alphabet.json](./309722-language-learning-simulator-alphabet.json) |
+| Language Worm | 126221 | [126221-language-worm.json](./126221-language-worm.json) |
 | LanguageGuessr | 259618 | [259618-languageguessr.json](./259618-languageguessr.json) |
 | Languish | 148796 | [148796-languish.json](./148796-languish.json) |
 | Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
+| Law of Life | 126203 | [126203-law-of-life.json](./126203-law-of-life.json) |
 | Law of the West | 26259 | [26259-law-of-the-west.json](./26259-law-of-the-west.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
 | Law: Transporter | 292425 | [292425-law-transporter.json](./292425-law-transporter.json) |
@@ -8143,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lover Bands | 117280 | [117280-lover-bands.json](./117280-lover-bands.json) |
 | Lover Boy | 40367 | [40367-lover-boy.json](./40367-lover-boy.json) |
 | Lover Interface | 341104 | [341104-lover-interface.json](./341104-lover-interface.json) |
+| LoveR Kiss | 126180 | [126180-lover-kiss.json](./126180-lover-kiss.json) |
 | LoveR Kiss: Costume Deluxe Pack | 136945 | [136945-lover-kiss-costume-deluxe-pack.json](./136945-lover-kiss-costume-deluxe-pack.json) |
 | LoveR Kiss: Endless Memories | 355544 | [355544-lover-kiss-endless-memories.json](./355544-lover-kiss-endless-memories.json) |
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
