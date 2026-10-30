@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
 | Edifice | 406145 | [406145-edifice.json](./406145-edifice.json) |
+| Edifice of Fiends | 167499 | [167499-edifice-of-fiends.json](./167499-edifice-of-fiends.json) |
 | Edingir Odyssey | 249004 | [249004-edingir-odyssey.json](./249004-edingir-odyssey.json) |
 | Editarrr | 270519 | [270519-editarrr.json](./270519-editarrr.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational Suite | 268294 | [268294-educational-suite.json](./268294-educational-suite.json) |
 | Educational Virtual Reality Campus | 341608 | [341608-educational-virtual-reality-campus.json](./341608-educational-virtual-reality-campus.json) |
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
+| EduNumbers | 167481 | [167481-edunumbers.json](./167481-edunumbers.json) |
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
 | Edward's Journey | 258075 | [258075-edwards-journey.json](./258075-edwards-journey.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
@@ -1932,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElectricScribe | 44222 | [44222-electricscribe.json](./44222-electricscribe.json) |
 | ElectricVLab | 107367 | [107367-electricvlab.json](./107367-electricvlab.json) |
 | Electrified | 168238 | [168238-electrified.json](./168238-electrified.json) |
+| Electrify | 167503 | [167503-electrify.json](./167503-electrify.json) |
 | Electro Air Hockey | 323960 | [323960-electro-air-hockey.json](./323960-electro-air-hockey.json) |
 | Electro Air Hockey: Under the Mallet | 323957 | [323957-electro-air-hockey-under-the-mallet.json](./323957-electro-air-hockey-under-the-mallet.json) |
 | Electro Bop Boxing League | 329580 | [329580-electro-bop-boxing-league.json](./329580-electro-bop-boxing-league.json) |
@@ -6003,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everbark | 397202 | [397202-everbark.json](./397202-everbark.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
 | Everblade | 192806 | [192806-everblade.json](./192806-everblade.json) |
+| Everblood Arena | 167479 | [167479-everblood-arena.json](./167479-everblood-arena.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Everblue 2 | 9656 | [9656-everblue-2.json](./9656-everblue-2.json) |
