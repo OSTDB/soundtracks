@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentle Officer | 311869 | [311869-gentle-officer.json](./311869-gentle-officer.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
+| Gentlemen Dispute | 136086 | [136086-gentlemen-dispute.json](./136086-gentlemen-dispute.json) |
 | Gentlemen of Fortune: Maelstrom | 176651 | [176651-gentlemen-of-fortune-maelstrom.json](./176651-gentlemen-of-fortune-maelstrom.json) |
 | Gentlemen's Club | 286415 | [286415-gentlemens-club.json](./286415-gentlemens-club.json) |
 | Gentlemen's Puzzle Club | 252254 | [252254-gentlemens-puzzle-club.json](./252254-gentlemens-puzzle-club.json) |
@@ -6263,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Sleep Company | 340319 | [340319-good-sleep-company.json](./340319-good-sleep-company.json) |
 | Good Soup | 309319 | [309319-good-soup.json](./309319-good-soup.json) |
 | Good Soup | 381134 | [381134-good-soup.json](./381134-good-soup.json) |
+| Good Sudoku | 136044 | [136044-good-sudoku.json](./136044-good-sudoku.json) |
 | Good Vibes | 178500 | [178500-good-vibes.json](./178500-good-vibes.json) |
 | Good-bye Old World | 183317 | [183317-good-bye-old-world.json](./183317-good-bye-old-world.json) |
 | Good-Bye to Youtopia | 321546 | [321546-good-bye-to-youtopia.json](./321546-good-bye-to-youtopia.json) |
@@ -8065,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlins 2: The New Batch | 264994 | [264994-gremlins-2-the-new-batch.json](./264994-gremlins-2-the-new-batch.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Gremlins Unleashed | 50035 | [50035-gremlins-unleashed.json](./50035-gremlins-unleashed.json) |
+| Gremlins vs Automatons | 136046 | [136046-gremlins-vs-automatons.json](./136046-gremlins-vs-automatons.json) |
 | Gremlins, Inc.: Agents of Chaos | 170140 | [170140-gremlins-inc-agents-of-chaos.json](./170140-gremlins-inc-agents-of-chaos.json) |
 | Gremlins, Inc.: Astral Gamblers | 170141 | [170141-gremlins-inc-astral-gamblers.json](./170141-gremlins-inc-astral-gamblers.json) |
 | Gremlins, Inc.: Card Game | 170144 | [170144-gremlins-inc-card-game.json](./170144-gremlins-inc-card-game.json) |
