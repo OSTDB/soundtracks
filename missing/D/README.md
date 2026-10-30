@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Chapter 5 | 258364 | [258364-dark-deception-chapter-5.json](./258364-dark-deception-chapter-5.json) |
 | Dark Deception: Complete Edition | 169206 | [169206-dark-deception-complete-edition.json](./169206-dark-deception-complete-edition.json) |
 | Dark Deception: Malicious Mall | 301122 | [301122-dark-deception-malicious-mall.json](./301122-dark-deception-malicious-mall.json) |
+| Dark Deception: Monsters & Mortals | 167508 | [167508-dark-deception-monsters-and-mortals.json](./167508-dark-deception-monsters-and-mortals.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - Monstrum | 168923 | [168923-dark-deception-monsters-and-mortals-monstrum.json](./168923-dark-deception-monsters-and-mortals-monstrum.json) |
 | Dark Deception: Monsters & Mortals - Poppy Playtime Panic | 230147 | [230147-dark-deception-monsters-and-mortals-poppy-playtime-panic.json](./230147-dark-deception-monsters-and-mortals-poppy-playtime-panic.json) |
@@ -9696,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divide By Sheep 2 | 333981 | [333981-divide-by-sheep-2.json](./333981-divide-by-sheep-2.json) |
 | Divide et Impera | 356254 | [356254-divide-et-impera.json](./356254-divide-et-impera.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
+| Divided Dungeon | 167477 | [167477-divided-dungeon.json](./167477-divided-dungeon.json) |
 | Divided Empire: Sengoku | 423235 | [423235-divided-empire-sengoku.json](./423235-divided-empire-sengoku.json) |
 | Divided Ground: Middle East Conflict | 61987 | [61987-divided-ground-middle-east-conflict.json](./61987-divided-ground-middle-east-conflict.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
@@ -15166,6 +15168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Master | 359311 | [359311-drum-master.json](./359311-drum-master.json) |
 | Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
 | Drum Studio | 98824 | [98824-drum-studio.json](./98824-drum-studio.json) |
+| Drum'n'Bass Massacre | 167483 | [167483-drumnbass-massacre.json](./167483-drumnbass-massacre.json) |
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
 | Drumblox | 267313 | [267313-drumblox.json](./267313-drumblox.json) |
 | Drumguy | 329050 | [329050-drumguy.json](./329050-drumguy.json) |
