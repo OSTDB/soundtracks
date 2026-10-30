@@ -6291,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickado | 262853 | [262853-chickado.json](./262853-chickado.json) |
 | Chickamauga Battles | 150361 | [150361-chickamauga-battles.json](./150361-chickamauga-battles.json) |
 | Chickcharge | 413055 | [413055-chickcharge.json](./413055-chickcharge.json) |
+| Chickduck & Catduck | 131822 | [131822-chickduck-and-catduck.json](./131822-chickduck-and-catduck.json) |
 | Chicken | 314230 | [314230-chicken.json](./314230-chicken.json) |
 | Chicken | 94716 | [94716-chicken.json](./94716-chicken.json) |
 | Chicken & Egg | 224992 | [224992-chicken-and-egg.json](./224992-chicken-and-egg.json) |
@@ -8071,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadelum | 284973 | [284973-citadelum.json](./284973-citadelum.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
+| Citampi Stories: Offline Love and Life Sim RPG | 131816 | [131816-citampi-stories-offline-love-and-life-sim-rpg.json](./131816-citampi-stories-offline-love-and-life-sim-rpg.json) |
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
 | Cities in Motion | 1010 | [1010-cities-in-motion.json](./1010-cities-in-motion.json) |
 | Cities in Motion 2 Complete Edition | 317561 | [317561-cities-in-motion-2-complete-edition.json](./317561-cities-in-motion-2-complete-edition.json) |
