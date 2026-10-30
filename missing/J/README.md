@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jixo 3: Hidden Horizons - Collector's Edition | 362853 | [362853-jixo-3-hidden-horizons-collectors-edition.json](./362853-jixo-3-hidden-horizons-collectors-edition.json) |
 | Jixo 4: Magical Nights - Collector’s Edition | 416784 | [416784-jixo-4-magical-nights-collector-s-edition.json](./416784-jixo-4-magical-nights-collector-s-edition.json) |
 | Jixo: The Season of Joy - Collector's Edition | 337282 | [337282-jixo-the-season-of-joy-collectors-edition.json](./337282-jixo-the-season-of-joy-collectors-edition.json) |
+| Jixxaw | 169571 | [169571-jixxaw.json](./169571-jixxaw.json) |
 | Jixxaw: Party Time | 158398 | [158398-jixxaw-party-time.json](./158398-jixxaw-party-time.json) |
 | Jìyì de Zhǔrén | 373718 | [373718-jiyi-de-zhuren.json](./373718-jiyi-de-zhuren.json) |
 | JJ | 48451 | [48451-jj.json](./48451-jj.json) |
