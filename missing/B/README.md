@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8465,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Bones | 31781 | [31781-blade-and-bones.json](./31781-blade-and-bones.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
 | Blade & Soul | 16741 | [16741-blade-and-soul.json](./16741-blade-and-soul.json) |
+| Blade & Soul 2 | 145841 | [145841-blade-and-soul-2.json](./145841-blade-and-soul-2.json) |
 | Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
 | Blade & Soul M | 188235 | [188235-blade-and-soul-m.json](./188235-blade-and-soul-m.json) |
 | Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
@@ -8811,6 +8813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastris: Mole Patrol | 271254 | [271254-blastris-mole-patrol.json](./271254-blastris-mole-patrol.json) |
 | Blastroid | 390803 | [390803-blastroid.json](./390803-blastroid.json) |
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
+| Blastronaut | 145877 | [145877-blastronaut.json](./145877-blastronaut.json) |
 | Blasty Bubs | 56401 | [56401-blasty-bubs.json](./56401-blasty-bubs.json) |
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
 | Blau | 402453 | [402453-blau.json](./402453-blau.json) |
@@ -13257,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
 | Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
+| BraveMatch | 145965 | [145965-bravematch.json](./145965-bravematch.json) |
 | BraverBots | 233032 | [233032-braverbots.json](./233032-braverbots.json) |
 | Bravers | 158915 | [158915-bravers.json](./158915-bravers.json) |
 | Bravery | 211141 | [211141-bravery.json](./211141-bravery.json) |
