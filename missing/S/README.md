@@ -4118,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab DLC | 377112 | [377112-secrets-of-salem-the-phantom-cab-dlc.json](./377112-secrets-of-salem-the-phantom-cab-dlc.json) |
 | Secrets of Shadows | 310246 | [310246-secrets-of-shadows.json](./310246-secrets-of-shadows.json) |
+| Secrets of Soil | 148738 | [148738-secrets-of-soil.json](./148738-secrets-of-soil.json) |
 | Secrets of Tatjana | 45885 | [45885-secrets-of-tatjana.json](./45885-secrets-of-tatjana.json) |
 | Secrets of Temple Isle | 216847 | [216847-secrets-of-temple-isle.json](./216847-secrets-of-temple-isle.json) |
 | Secrets of the Ark: A Broken Sword Game | 1152 | [1152-secrets-of-the-ark-a-broken-sword-game.json](./1152-secrets-of-the-ark-a-broken-sword-game.json) |
@@ -9017,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
+| Siege the Day | 148782 | [148782-siege-the-day.json](./148782-siege-the-day.json) |
 | Siege Worlds | 218301 | [218301-siege-worlds.json](./218301-siege-worlds.json) |
 | Siege: The Card Game | 33895 | [33895-siege-the-card-game.json](./33895-siege-the-card-game.json) |
 | Siege: World War II | 233404 | [233404-siege-world-war-ii.json](./233404-siege-world-war-ii.json) |
@@ -17359,6 +17361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Girls | 258820 | [258820-space-girls.json](./258820-space-girls.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
+| Space Gladiators: The Hole | 148776 | [148776-space-gladiators-the-hole.json](./148776-space-gladiators-the-hole.json) |
 | Space Gliders | 188819 | [188819-space-gliders.json](./188819-space-gliders.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
 | Space God | 86614 | [86614-space-god.json](./86614-space-god.json) |
@@ -22813,6 +22816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Again | 195353 | [195353-start-again.json](./195353-start-again.json) |
 | Start Again: A Prologue | 144092 | [144092-start-again-a-prologue.json](./144092-start-again-a-prologue.json) |
 | Start Blackthorn Castle | 94973 | [94973-start-blackthorn-castle.json](./94973-start-blackthorn-castle.json) |
+| Start From School | 148780 | [148780-start-from-school.json](./148780-start-from-school.json) |
 | Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
 | Start Running | 291858 | [291858-start-running.json](./291858-start-running.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
@@ -30440,6 +30444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survius | 322684 | [322684-survius.json](./322684-survius.json) |
 | Surviv.io | 77412 | [77412-surviv-io.json](./77412-surviv-io.json) |
 | Survival | 110896 | [110896-survival.json](./110896-survival.json) |
+| Survival | 148766 | [148766-survival.json](./148766-survival.json) |
 | Survival | 235263 | [235263-survival.json](./235263-survival.json) |
 | Survival | 24910 | [24910-survival.json](./24910-survival.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
