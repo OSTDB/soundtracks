@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of Digs! | 221624 | [221624-queen-of-digs.json](./221624-queen-of-digs.json) |
+| Queen of Honor | 166955 | [166955-queen-of-honor.json](./166955-queen-of-honor.json) |
 | Queen of Minecarts | 227901 | [227901-queen-of-minecarts.json](./227901-queen-of-minecarts.json) |
 | Queen of Moths | 253515 | [253515-queen-of-moths.json](./253515-queen-of-moths.json) |
 | Queen of Mountain | 158669 | [158669-queen-of-mountain.json](./158669-queen-of-mountain.json) |
