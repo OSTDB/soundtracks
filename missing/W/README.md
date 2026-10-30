@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
 | Walk It! | 364614 | [364614-walk-it.json](./364614-walk-it.json) |
+| Walk Master | 165342 | [165342-walk-master.json](./165342-walk-master.json) |
 | Walk of Life | 346648 | [346648-walk-of-life.json](./346648-walk-of-life.json) |
 | Walk on Arrow | 104956 | [104956-walk-on-arrow.json](./104956-walk-on-arrow.json) |
 | Walk on Mars | 147068 | [147068-walk-on-mars.json](./147068-walk-on-mars.json) |
@@ -2024,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
 | Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
 | Wasteland 2: Director's Cut - Digital Deluxe Edition | 53134 | [53134-wasteland-2-directors-cut-digital-deluxe-edition.json](./53134-wasteland-2-directors-cut-digital-deluxe-edition.json) |
+| Wasteland 3: Colorado Collection | 165320 | [165320-wasteland-3-colorado-collection.json](./165320-wasteland-3-colorado-collection.json) |
 | Wasteland 3: Day One Edition | 139893 | [139893-wasteland-3-day-one-edition.json](./139893-wasteland-3-day-one-edition.json) |
 | Wasteland Alone | 373640 | [373640-wasteland-alone.json](./373640-wasteland-alone.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
@@ -2324,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
 | WaveOfTimeLite | 102893 | [102893-waveoftimelite.json](./102893-waveoftimelite.json) |
 | WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
+| Waver: A Typing Adventure | 165302 | [165302-waver-a-typing-adventure.json](./165302-waver-a-typing-adventure.json) |
 | Waverly Hills | 150920 | [150920-waverly-hills.json](./150920-waverly-hills.json) |
 | Waves | 13547 | [13547-waves.json](./13547-waves.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
