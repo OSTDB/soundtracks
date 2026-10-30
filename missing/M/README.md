@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Lands | 269958 | [269958-magical-lands.json](./269958-magical-lands.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
 | Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
+| Magical Maiden Madison | 128775 | [128775-magical-maiden-madison.json](./128775-magical-maiden-madison.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
 | Magical Manifest | 382546 | [382546-magical-manifest.json](./382546-magical-manifest.json) |
 | Magical Marriage Lunatics!! | 139023 | [139023-magical-marriage-lunatics.json](./139023-magical-marriage-lunatics.json) |
@@ -2757,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mangetsu no Yume | 282512 | [282512-mangetsu-no-yume.json](./282512-mangetsu-no-yume.json) |
 | Manggis: Night Market Survivor | 422537 | [422537-manggis-night-market-survivor.json](./422537-manggis-night-market-survivor.json) |
+| Mangia | 128780 | [128780-mangia.json](./128780-mangia.json) |
 | Manglepaw | 199307 | [199307-manglepaw.json](./199307-manglepaw.json) |
 | Mango | 153803 | [153803-mango.json](./153803-mango.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
