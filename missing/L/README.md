@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn Buster for Hire | 194947 | [194947-lawn-buster-for-hire.json](./194947-lawn-buster-for-hire.json) |
 | Lawn Care ASMR Cleaning | 409758 | [409758-lawn-care-asmr-cleaning.json](./409758-lawn-care-asmr-cleaning.json) |
 | Lawn Darts | 359327 | [359327-lawn-darts.json](./359327-lawn-darts.json) |
+| Lawn Invaders | 171222 | [171222-lawn-invaders.json](./171222-lawn-invaders.json) |
 | Lawn Mower Racing | 353956 | [353956-lawn-mower-racing.json](./353956-lawn-mower-racing.json) |
 | Lawn Mowing Simulator | 145134 | [145134-lawn-mowing-simulator.json](./145134-lawn-mowing-simulator.json) |
 | Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
