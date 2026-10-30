@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
 | Yabai Girls: Hot Hiker | 365549 | [365549-yabai-girls-hot-hiker.json](./365549-yabai-girls-hot-hiker.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
+| Yabai Mantis VR | 155838 | [155838-yabai-mantis-vr.json](./155838-yabai-mantis-vr.json) |
 | Yabai Otoko ni Nanpa Sareru Game | 347737 | [347737-yabai-otoko-ni-nanpa-sareru-game.json](./347737-yabai-otoko-ni-nanpa-sareru-game.json) |
 | Yabba Dabba Doo! | 26344 | [26344-yabba-dabba-doo.json](./26344-yabba-dabba-doo.json) |
 | Yachoukitan | 321818 | [321818-yachoukitan.json](./321818-yachoukitan.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youmu Konpaku & Dungeon of Lewd Creatures | 155460 | [155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json](./155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json) |
 | Youmu-Youmu Ball | 341301 | [341301-youmu-youmu-ball.json](./341301-youmu-youmu-ball.json) |
 | Youmu's Cube Adventure | 365153 | [365153-youmus-cube-adventure.json](./365153-youmus-cube-adventure.json) |
+| Young Archaeologist | 155831 | [155831-young-archaeologist.json](./155831-young-archaeologist.json) |
 | Young Bird Endless Flight | 333526 | [333526-young-bird-endless-flight.json](./333526-young-bird-endless-flight.json) |
 | Young Conker | 330693 | [330693-young-conker.json](./330693-young-conker.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
