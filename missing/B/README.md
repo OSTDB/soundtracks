@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7562,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Tapper: Purple Platoon Panic | 297567 | [297567-bird-tapper-purple-platoon-panic.json](./297567-bird-tapper-purple-platoon-panic.json) |
 | Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
 | Bird Watch: Central Park | 256670 | [256670-bird-watch-central-park.json](./256670-bird-watch-central-park.json) |
+| Bird Watcher: The Interactive Birding Game | 130528 | [130528-bird-watcher-the-interactive-birding-game.json](./130528-bird-watcher-the-interactive-birding-game.json) |
 | Bird Watching Simulator | 260559 | [260559-bird-watching-simulator.json](./260559-bird-watching-simulator.json) |
 | Bird Week | 48543 | [48543-bird-week.json](./48543-bird-week.json) |
 | Bird Year | 295206 | [295206-bird-year.json](./295206-bird-year.json) |
@@ -10522,6 +10524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Rider: Collector's Edition | 167046 | [167046-blue-rider-collectors-edition.json](./167046-blue-rider-collectors-edition.json) |
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Roses: Yousei to Aoi Hitomi no Senshi-tachi | 56538 | [56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json](./56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json) |
+| Blue Sabers: Operation Orbital Hammer | 130510 | [130510-blue-sabers-operation-orbital-hammer.json](./130510-blue-sabers-operation-orbital-hammer.json) |
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Screen Adventures | 31519 | [31519-blue-screen-adventures.json](./31519-blue-screen-adventures.json) |
 | Blue Sheep | 34306 | [34306-blue-sheep.json](./34306-blue-sheep.json) |
@@ -10581,6 +10584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluebeard: An Interactive Tale | 397022 | [397022-bluebeard-an-interactive-tale.json](./397022-bluebeard-an-interactive-tale.json) |
 | Bluebeard's Castle | 417390 | [417390-bluebeards-castle.json](./417390-bluebeards-castle.json) |
 | Bluebeard's Castle: Son of the Heartless | 417391 | [417391-bluebeards-castle-son-of-the-heartless.json](./417391-bluebeards-castle-son-of-the-heartless.json) |
+| Blueberry | 130534 | [130534-blueberry.json](./130534-blueberry.json) |
 | Blueberry Garden | 9983 | [9983-blueberry-garden.json](./9983-blueberry-garden.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
@@ -15332,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
 | Building Crush! | 112183 | [112183-building-crush.json](./112183-building-crush.json) |
 | Building Destruction | 219214 | [219214-building-destruction.json](./219214-building-destruction.json) |
+| Building Hopper | 130546 | [130546-building-hopper.json](./130546-building-hopper.json) |
 | Building Jumper | 365047 | [365047-building-jumper.json](./365047-building-jumper.json) |
 | Building Manager | 401833 | [401833-building-manager.json](./401833-building-manager.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
@@ -16031,6 +16036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Out | 306920 | [306920-burning-out.json](./306920-burning-out.json) |
+| Burning Point | 130538 | [130538-burning-point.json](./130538-burning-point.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
 | Burning Rainbow | 380499 | [380499-burning-rainbow.json](./380499-burning-rainbow.json) |
 | Burning Rangers Tribute | 335632 | [335632-burning-rangers-tribute.json](./335632-burning-rangers-tribute.json) |
