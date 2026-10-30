@@ -2532,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across Age II | 38713 | [38713-across-age-ii.json](./38713-across-age-ii.json) |
 | Across Crime | 413637 | [413637-across-crime.json](./413637-across-crime.json) |
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
+| Across Killzone | 150896 | [150896-across-killzone.json](./150896-across-killzone.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the demon realm | 150546 | [150546-across-the-demon-realm.json](./150546-across-the-demon-realm.json) |
 | Across the Distant Skies | 337844 | [337844-across-the-distant-skies.json](./337844-across-the-distant-skies.json) |
@@ -8088,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
 | Analytical World | 156845 | [156845-analytical-world.json](./156845-analytical-world.json) |
+| Anamnesis | 150856 | [150856-anamnesis.json](./150856-anamnesis.json) |
 | Anamnesis | 254026 | [254026-anamnesis.json](./254026-anamnesis.json) |
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
 | Anamorphosis | 167125 | [167125-anamorphosis.json](./167125-anamorphosis.json) |
@@ -9271,6 +9273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime: Japanese Goblins | 293364 | [293364-anime-japanese-goblins.json](./293364-anime-japanese-goblins.json) |
 | Anime: Jigsaw Puzzles | 162218 | [162218-anime-jigsaw-puzzles.json](./162218-anime-jigsaw-puzzles.json) |
 | Anime: Match the Memory | 369540 | [369540-anime-match-the-memory.json](./369540-anime-match-the-memory.json) |
+| Anime: Space Sniper | 150879 | [150879-anime-space-sniper.json](./150879-anime-space-sniper.json) |
 | Anime: World War II | 148702 | [148702-anime-world-war-ii.json](./148702-anime-world-war-ii.json) |
 | Anime: World War II - Nazi Zombies | 172372 | [172372-anime-world-war-ii-nazi-zombies.json](./172372-anime-world-war-ii-nazi-zombies.json) |
 | Animeahikoaprinceaverse A4: Prince Akihiko & Princess A | 303154 | [303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json](./303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json) |
@@ -11837,6 +11840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcturus | 352103 | [352103-arcturus.json](./352103-arcturus.json) |
 | Arcturus | 421400 | [421400-arcturus.json](./421400-arcturus.json) |
 | Arcturus Proving Grounds | 61711 | [61711-arcturus-proving-grounds.json](./61711-arcturus-proving-grounds.json) |
+| Arcus | 150901 | [150901-arcus.json](./150901-arcus.json) |
 | Arcus | 80836 | [80836-arcus.json](./80836-arcus.json) |
 | Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
 | Arcus I-II-III | 46394 | [46394-arcus-i-ii-iii.json](./46394-arcus-i-ii-iii.json) |
@@ -14534,6 +14538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At the Tale End | 108882 | [108882-at-the-tale-end.json](./108882-at-the-tale-end.json) |
 | At What Cost | 382376 | [382376-at-what-cost.json](./382376-at-what-cost.json) |
 | At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
+| At Your Feet | 150897 | [150897-at-your-feet.json](./150897-at-your-feet.json) |
 | At Your Feet | 306512 | [306512-at-your-feet.json](./306512-at-your-feet.json) |
 | At Your Service | 204423 | [204423-at-your-service.json](./204423-at-your-service.json) |
 | Ata Hoshev SheAta Haham | 79123 | [79123-ata-hoshev-sheata-haham.json](./79123-ata-hoshev-sheata-haham.json) |
