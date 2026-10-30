@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satawn | 405573 | [405573-satawn.json](./405573-satawn.json) |
 | Satay Club mini | 95681 | [95681-satay-club-mini.json](./95681-satay-club-mini.json) |
 | Satay Shop Tycoon | 261110 | [261110-satay-shop-tycoon.json](./261110-satay-shop-tycoon.json) |
+| Satazius Next | 147678 | [147678-satazius-next.json](./147678-satazius-next.json) |
 | Sate | 273432 | [273432-sate.json](./273432-sate.json) |
 | Satebo's Word Game | 265176 | [265176-satebos-word-game.json](./265176-satebos-word-game.json) |
 | Sated | 405122 | [405122-sated.json](./405122-sated.json) |
@@ -2510,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
 | Scavenger | 92066 | [92066-scavenger.json](./92066-scavenger.json) |
+| Scavenger by Fiona | 146501 | [146501-scavenger-by-fiona.json](./146501-scavenger-by-fiona.json) |
 | Scavenger Hunt | 214335 | [214335-scavenger-hunt.json](./214335-scavenger-hunt.json) |
 | Scavenger Hunt Find Hidden Objects | 393890 | [393890-scavenger-hunt-find-hidden-objects.json](./393890-scavenger-hunt-find-hidden-objects.json) |
 | Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
@@ -3051,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Keter | 190925 | [190925-scp-keter.json](./190925-scp-keter.json) |
 | SCP: Kikan no Kanata - The Will of a Single Tale: Hon-pen - Dai 1-bu | 114833 | [114833-scp-kikan-no-kanata-the-will-of-a-single-tale-hon-pen-dai-1-bu.json](./114833-scp-kikan-no-kanata-the-will-of-a-single-tale-hon-pen-dai-1-bu.json) |
+| SCP: Labrat | 147043 | [147043-scp-labrat.json](./147043-scp-labrat.json) |
 | SCP: Liberation | 125908 | [125908-scp-liberation.json](./125908-scp-liberation.json) |
 | SCP: Maintain & Control | 202098 | [202098-scp-maintain-and-control.json](./202098-scp-maintain-and-control.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
@@ -3682,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seal Breaker | 181202 | [181202-seal-breaker.json](./181202-seal-breaker.json) |
+| Seal Electric Railway | 147668 | [147668-seal-electric-railway.json](./147668-seal-electric-railway.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal Guardian | 76392 | [76392-seal-guardian.json](./76392-seal-guardian.json) |
 | Seal M | 267580 | [267580-seal-m.json](./267580-seal-m.json) |
@@ -5812,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
 | Shades of Heroes | 126843 | [126843-shades-of-heroes.json](./126843-shades-of-heroes.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
+| Shades of Rayna | 147017 | [147017-shades-of-rayna.json](./147017-shades-of-rayna.json) |
 | Shades of Rayna: Lasher Class | 280379 | [280379-shades-of-rayna-lasher-class.json](./280379-shades-of-rayna-lasher-class.json) |
 | Shades of Sakura | 161616 | [161616-shades-of-sakura.json](./161616-shades-of-sakura.json) |
 | Shades: Combat Militia | 223918 | [223918-shades-combat-militia.json](./223918-shades-combat-militia.json) |
@@ -6914,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Love | 157007 | [157007-sheep-love.json](./157007-sheep-love.json) |
 | Sheep Monologue | 383506 | [383506-sheep-monologue.json](./383506-sheep-monologue.json) |
 | Sheep N Sheep: Match 3 Tiles | 223916 | [223916-sheep-n-sheep-match-3-tiles.json](./223916-sheep-n-sheep-match-3-tiles.json) |
+| Sheep Patrol | 147659 | [147659-sheep-patrol.json](./147659-sheep-patrol.json) |
 | Sheep Quest | 171775 | [171775-sheep-quest.json](./171775-sheep-quest.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
 | Sheep Running | 347039 | [347039-sheep-running.json](./347039-sheep-running.json) |
@@ -7271,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
+| Shikaku Shapes | 147662 | [147662-shikaku-shapes.json](./147662-shikaku-shapes.json) |
 | Shikakui Atama wo Maru Kusuru Advance: Kanji Keisan-hen | 49781 | [49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json](./49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json) |
 | Shikakui Atama wo Maru Kusuru Advance: Kokugo Sansuu Shakai Rika-hen | 49780 | [49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json](./49780-shikakui-atama-wo-maru-kusuru-advance-kokugo-sansuu-shakai-rika-hen.json) |
 | Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen | 409001 | [409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json](./409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json) |
@@ -7590,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 339235 | [339235-shinobi.json](./339235-shinobi.json) |
 | Shinobi | 6899 | [6899-shinobi.json](./6899-shinobi.json) |
 | Shinobi | 86252 | [86252-shinobi.json](./86252-shinobi.json) |
+| Shinobi Blade | 147666 | [147666-shinobi-blade.json](./147666-shinobi-blade.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
 | Shinobi III: Return of the Ninja Master | 2623 | [2623-shinobi-iii-return-of-the-ninja-master.json](./2623-shinobi-iii-return-of-the-ninja-master.json) |
@@ -7895,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmooblin Blaster | 346557 | [346557-shmooblin-blaster.json](./346557-shmooblin-blaster.json) |
 | Shmoup | 283533 | [283533-shmoup.json](./283533-shmoup.json) |
 | Shmoupity Shmoup | 316493 | [316493-shmoupity-shmoup.json](./316493-shmoupity-shmoup.json) |
+| Shmubedi Boo | 147665 | [147665-shmubedi-boo.json](./147665-shmubedi-boo.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | SHMUP | 393007 | [393007-shmup.json](./393007-shmup.json) |
 | Shmup Ball | 186052 | [186052-shmup-ball.json](./186052-shmup-ball.json) |
@@ -8014,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot & Destroy | 318527 | [318527-shoot-and-destroy.json](./318527-shoot-and-destroy.json) |
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
 | Shoot & Sow | 271591 | [271591-shoot-and-sow.json](./271591-shoot-and-sow.json) |
+| Shoot 1UP DX | 147660 | [147660-shoot-1up-dx.json](./147660-shoot-1up-dx.json) |
 | Shoot 2048 - reinvention of the classic puzzle | 102670 | [102670-shoot-2048-reinvention-of-the-classic-puzzle.json](./102670-shoot-2048-reinvention-of-the-classic-puzzle.json) |
 | Shoot 2nd | 97666 | [97666-shoot-2nd.json](./97666-shoot-2nd.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
@@ -9518,6 +9528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Nornir | 68990 | [68990-silver-nornir.json](./68990-silver-nornir.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
 | Silver Pines | 313597 | [313597-silver-pines.json](./313597-silver-pines.json) |
+| Silver Screen Story | 147683 | [147683-silver-screen-story.json](./147683-silver-screen-story.json) |
 | Silver Sonic: Rise of the Death Egg | 231467 | [231467-silver-sonic-rise-of-the-death-egg.json](./231467-silver-sonic-rise-of-the-death-egg.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
 | Silver Soul | 162076 | [162076-silver-soul.json](./162076-silver-soul.json) |
@@ -10048,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinbad: Legend of the Seven Seas | 27605 | [27605-sinbad-legend-of-the-seven-seas.json](./27605-sinbad-legend-of-the-seven-seas.json) |
 | Sinbadexpress | 367987 | [367987-sinbadexpress.json](./367987-sinbadexpress.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
+| Since Memories: Off the Starry Sky | 147007 | [147007-since-memories-off-the-starry-sky.json](./147007-since-memories-off-the-starry-sky.json) |
 | Since November | 327853 | [327853-since-november.json](./327853-since-november.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
 | Sinclair User DoubleHits 5 | 85759 | [85759-sinclair-user-doublehits-5.json](./85759-sinclair-user-doublehits-5.json) |
@@ -10149,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
 | SingStar: Wiggles | 15179 | [15179-singstar-wiggles.json](./15179-singstar-wiggles.json) |
 | Singular Stone | 182230 | [182230-singular-stone.json](./182230-singular-stone.json) |
+| Singularis | 146485 | [146485-singularis.json](./146485-singularis.json) |
 | Singularity | 171896 | [171896-singularity.json](./171896-singularity.json) |
 | Singularity | 302486 | [302486-singularity.json](./302486-singularity.json) |
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
@@ -10711,6 +10724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
 | Skelly Selest | 96277 | [96277-skelly-selest.json](./96277-skelly-selest.json) |
+| Skelly Selest & Straimium Immortaly Double Pack | 146996 | [146996-skelly-selest-and-straimium-immortaly-double-pack.json](./146996-skelly-selest-and-straimium-immortaly-double-pack.json) |
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Skeppskatten går iland | 327005 | [327005-skeppskatten-gar-iland.json](./327005-skeppskatten-gar-iland.json) |
@@ -12707,6 +12721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Bandits Racing | 174727 | [174727-smash-bandits-racing.json](./174727-smash-bandits-racing.json) |
 | Smash Bash Crash | 81134 | [81134-smash-bash-crash.json](./81134-smash-bash-crash.json) |
 | Smash Bear | 294939 | [294939-smash-bear.json](./294939-smash-bear.json) |
+| Smash Boats | 147677 | [147677-smash-boats.json](./147677-smash-boats.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
 | Smash Boy Ver.KZ | 106547 | [106547-smash-boy-ver-kz.json](./106547-smash-boy-ver-kz.json) |
 | Smash Bros. Rumble | 210677 | [210677-smash-bros-rumble.json](./210677-smash-bros-rumble.json) |
@@ -14850,6 +14865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Treasure of Time | 181582 | [181582-solitaire-treasure-of-time.json](./181582-solitaire-treasure-of-time.json) |
 | Solitaire: Ultimate Collection | 66691 | [66691-solitaire-ultimate-collection.json](./66691-solitaire-ultimate-collection.json) |
 | Solitaire: Victorian Picnic | 99986 | [99986-solitaire-victorian-picnic.json](./99986-solitaire-victorian-picnic.json) |
+| Solitaire: Victorian Picnic 2 | 147031 | [147031-solitaire-victorian-picnic-2.json](./147031-solitaire-victorian-picnic-2.json) |
 | Solitaire's Journey | 47022 | [47022-solitaires-journey.json](./47022-solitaires-journey.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
 | Solitairica | 24464 | [24464-solitairica.json](./24464-solitairica.json) |
@@ -17206,6 +17222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
 | Space Crusade | 7648 | [7648-space-crusade.json](./7648-space-crusade.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
+| Space Crusaders | 146574 | [146574-space-crusaders.json](./146574-space-crusaders.json) |
 | Space Crusaders | 211582 | [211582-space-crusaders.json](./211582-space-crusaders.json) |
 | Space Cube Racers | 149789 | [149789-space-cube-racers.json](./149789-space-cube-racers.json) |
 | Space Cube Tower Defense | 169096 | [169096-space-cube-tower-defense.json](./169096-space-cube-tower-defense.json) |
@@ -18789,6 +18806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
 | Speedway | 94328 | [94328-speedway.json](./94328-speedway.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
+| Speedway Bundle Stock & Truck | 147672 | [147672-speedway-bundle-stock-and-truck.json](./147672-speedway-bundle-stock-and-truck.json) |
 | Speedway Challenge 20 | 156931 | [156931-speedway-challenge-20.json](./156931-speedway-challenge-20.json) |
 | Speedway Challenge 2019 | 121301 | [121301-speedway-challenge-2019.json](./121301-speedway-challenge-2019.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
@@ -27730,6 +27748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Formation Soccer 96: World Club Edition | 42359 | [42359-super-formation-soccer-96-world-club-edition.json](./42359-super-formation-soccer-96-world-club-edition.json) |
 | Super Formation Soccer II | 42363 | [42363-super-formation-soccer-ii.json](./42363-super-formation-soccer-ii.json) |
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
+| Super Fox | 146575 | [146575-super-fox.json](./146575-super-fox.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
 | Super Freaks 1: Ultimate Edition | 268057 | [268057-super-freaks-1-ultimate-edition.json](./268057-super-freaks-1-ultimate-edition.json) |
@@ -29135,6 +29154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super RMN Bros. | 355166 | [355166-super-rmn-bros.json](./355166-super-rmn-bros.json) |
 | Super Road Blaster | 44444 | [44444-super-road-blaster.json](./44444-super-road-blaster.json) |
 | Super Road Champions | 230767 | [230767-super-road-champions.json](./230767-super-road-champions.json) |
+| Super Robin | 147040 | [147040-super-robin.json](./147040-super-robin.json) |
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
 | Super Robin Hood | 39134 | [39134-super-robin-hood.json](./39134-super-robin-hood.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
@@ -29693,6 +29713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tokusatsu Taisen 2001 | 43905 | [43905-super-tokusatsu-taisen-2001.json](./43905-super-tokusatsu-taisen-2001.json) |
 | Super Tony Land | 81210 | [81210-super-tony-land.json](./81210-super-tony-land.json) |
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
+| Super Totally Ultimate Dad Showdown | 147026 | [147026-super-totally-ultimate-dad-showdown.json](./147026-super-totally-ultimate-dad-showdown.json) |
 | Super Tower Rush | 182788 | [182788-super-tower-rush.json](./182788-super-tower-rush.json) |
 | Super Tower Rush | 50849 | [50849-super-tower-rush.json](./50849-super-tower-rush.json) |
 | Super Toxicboy | 130165 | [130165-super-toxicboy.json](./130165-super-toxicboy.json) |
@@ -29870,6 +29891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperCluster: Void | 29105 | [29105-supercluster-void.json](./29105-supercluster-void.json) |
 | SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
 | SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
+| Supercontinent LTD | 146472 | [146472-supercontinent-ltd.json](./146472-supercontinent-ltd.json) |
 | Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
 | Supercow | 68432 | [68432-supercow.json](./68432-supercow.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
