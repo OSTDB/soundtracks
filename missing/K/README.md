@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaijuu Kitan Oboro: Jyuuya Kuuko Mangekyou | 114546 | [114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json](./114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json) |
 | Kaijuu Monogatari | 48446 | [48446-kaijuu-monogatari.json](./48446-kaijuu-monogatari.json) |
 | Kaijuu Senki | 166658 | [166658-kaijuu-senki.json](./166658-kaijuu-senki.json) |
+| Kaikan | 147047 | [147047-kaikan.json](./147047-kaikan.json) |
 | Kaikan | 264553 | [264553-kaikan.json](./264553-kaikan.json) |
 | Kaikan Phrase: Datenshi Kourin | 269753 | [269753-kaikan-phrase-datenshi-kourin.json](./269753-kaikan-phrase-datenshi-kourin.json) |
 | Kaikatana | 158367 | [158367-kaikatana.json](./158367-kaikatana.json) |
@@ -2321,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
 | Killed Until Dead | 12358 | [12358-killed-until-dead.json](./12358-killed-until-dead.json) |
 | Killego | 384097 | [384097-killego.json](./384097-killego.json) |
+| Killer 19 | 147023 | [147023-killer-19.json](./147023-killer-19.json) |
 | Killer 3D Pool | 49187 | [49187-killer-3d-pool.json](./49187-killer-3d-pool.json) |
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
@@ -4307,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knossu | 220571 | [220571-knossu.json](./220571-knossu.json) |
 | Knot Fiction! | 144202 | [144202-knot-fiction.json](./144202-knot-fiction.json) |
 | Knot in 3D | 79303 | [79303-knot-in-3d.json](./79303-knot-in-3d.json) |
+| Knot Me! | 146474 | [146474-knot-me.json](./146474-knot-me.json) |
 | Knot My Job | 410403 | [410403-knot-my-job.json](./410403-knot-my-job.json) |
 | Knot: Serpent Arena | 392923 | [392923-knot-serpent-arena.json](./392923-knot-serpent-arena.json) |
 | KnotBot | 132549 | [132549-knotbot.json](./132549-knotbot.json) |
