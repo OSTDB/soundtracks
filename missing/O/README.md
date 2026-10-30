@@ -3489,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
 | Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
 | Orbitals: Deluxe Edition | 407108 | [407108-orbitals-deluxe-edition.json](./407108-orbitals-deluxe-edition.json) |
+| Orbitect | 156858 | [156858-orbitect.json](./156858-orbitect.json) |
 | Orbiteers | 371566 | [371566-orbiteers.json](./371566-orbiteers.json) |
 | Orbiter | 15330 | [15330-orbiter.json](./15330-orbiter.json) |
 | Orbiter 2016 | 139258 | [139258-orbiter-2016.json](./139258-orbiter-2016.json) |
@@ -3845,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ork | 385386 | [385386-ork.json](./385386-ork.json) |
 | Ork Attack: The Return | 223865 | [223865-ork-attack-the-return.json](./223865-ork-attack-the-return.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
+| Orkana Conflict VR | 156837 | [156837-orkana-conflict-vr.json](./156837-orkana-conflict-vr.json) |
 | Orkastle | 378247 | [378247-orkastle.json](./378247-orkastle.json) |
 | Orken | 384839 | [384839-orken.json](./384839-orken.json) |
 | Orkendale: The Scarred Land | 291322 | [291322-orkendale-the-scarred-land.json](./291322-orkendale-the-scarred-land.json) |
