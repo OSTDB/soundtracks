@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad X: Trans Europ Express VT 11.5 | 171026 | [171026-railroad-x-trans-europ-express-vt-11-5.json](./171026-railroad-x-trans-europ-express-vt-11-5.json) |
 | Railroader | 197113 | [197113-railroader.json](./197113-railroader.json) |
 | Railroads of America | 197733 | [197733-railroads-of-america.json](./197733-railroads-of-america.json) |
+| Railroads Online | 173428 | [173428-railroads-online.json](./173428-railroads-online.json) |
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Extended Edition | 331852 | [331852-railroads-online-extended-edition.json](./331852-railroads-online-extended-edition.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
@@ -1852,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Attack! | 3415 | [3415-rat-attack.json](./3415-rat-attack.json) |
 | Rat Bastard | 184771 | [184771-rat-bastard.json](./184771-rat-bastard.json) |
 | Rat Catcher | 257862 | [257862-rat-catcher.json](./257862-rat-catcher.json) |
+| Rat Chaos | 173423 | [173423-rat-chaos.json](./173423-rat-chaos.json) |
 | Rat Chef | 207597 | [207597-rat-chef.json](./207597-rat-chef.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
