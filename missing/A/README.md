@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
 | Abaddon | 376840 | [376840-abaddon.json](./376840-abaddon.json) |
 | Abaddon | 67097 | [67097-abaddon.json](./67097-abaddon.json) |
+| Abaddon: Princess of the Decay | 151945 | [151945-abaddon-princess-of-the-decay.json](./151945-abaddon-princess-of-the-decay.json) |
 | Abaddon's Veil | 255600 | [255600-abaddons-veil.json](./255600-abaddons-veil.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | AbalaBurn | 43819 | [43819-abalaburn.json](./43819-abalaburn.json) |
@@ -2857,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adivinhe a Cor! | 282805 | [282805-adivinhe-a-cor.json](./282805-adivinhe-a-cor.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | Adjacency | 29306 | [29306-adjacency.json](./29306-adjacency.json) |
+| ADK Damashii | 151930 | [151930-adk-damashii.json](./151930-adk-damashii.json) |
 | ADK Damashii | 79572 | [79572-adk-damashii.json](./79572-adk-damashii.json) |
 | ADK World | 61322 | [61322-adk-world.json](./61322-adk-world.json) |
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
@@ -10444,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apparatus: Exanimus | 361328 | [361328-apparatus-exanimus.json](./361328-apparatus-exanimus.json) |
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
+| Apparition | 151958 | [151958-apparition.json](./151958-apparition.json) |
 | Apparition: Player vs. Players | 376821 | [376821-apparition-player-vs-players.json](./376821-apparition-player-vs-players.json) |
 | Apparitions | 202537 | [202537-apparitions.json](./202537-apparitions.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
@@ -13161,6 +13164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendant One | 107613 | [107613-ascendant-one.json](./107613-ascendant-one.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
 | Ascendant's Roguelike | 242964 | [242964-ascendants-roguelike.json](./242964-ascendants-roguelike.json) |
+| Ascendants Rising | 151944 | [151944-ascendants-rising.json](./151944-ascendants-rising.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
 | Ascendaria | 336120 | [336120-ascendaria.json](./336120-ascendaria.json) |
 | Ascended | 158608 | [158608-ascended.json](./158608-ascended.json) |
