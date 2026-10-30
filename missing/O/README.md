@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanspirit Dennis: Mighty Pirate | 327231 | [327231-oceanspirit-dennis-mighty-pirate.json](./327231-oceanspirit-dennis-mighty-pirate.json) |
 | Oceanum Mortis | 120810 | [120810-oceanum-mortis.json](./120810-oceanum-mortis.json) |
 | Oceanview Mall | 336450 | [336450-oceanview-mall.json](./336450-oceanview-mall.json) |
+| Oceanwork | 147010 | [147010-oceanwork.json](./147010-oceanwork.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Ocha no Ma Battle | 299030 | [299030-ocha-no-ma-battle.json](./299030-ocha-no-ma-battle.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
 | Odd Shape Out! | 336403 | [336403-odd-shape-out.json](./336403-odd-shape-out.json) |
 | Odd Shop | 424048 | [424048-odd-shop.json](./424048-odd-shop.json) |
+| ODD Society | 146490 | [146490-odd-society.json](./146490-odd-society.json) |
 | Odd Town | 278965 | [278965-odd-town.json](./278965-odd-town.json) |
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
 | Odd\|\|Even | 33196 | [33196-odd-even.json](./33196-odd-even.json) |
