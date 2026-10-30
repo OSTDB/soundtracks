@@ -4262,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OtterQuest | 188488 | [188488-otterquest.json](./188488-otterquest.json) |
 | OttGiu | 321535 | [321535-ottgiu.json](./321535-ottgiu.json) |
 | Otti: House Keeper | 138470 | [138470-otti-house-keeper.json](./138470-otti-house-keeper.json) |
+| Otti: The House Keeper | 142592 | [142592-otti-the-house-keeper.json](./142592-otti-the-house-keeper.json) |
 | Ottifanten: Ostfriesen Lemminge in Not | 410100 | [410100-ottifanten-ostfriesen-lemminge-in-not.json](./410100-ottifanten-ostfriesen-lemminge-in-not.json) |
 | Otto | 103268 | [103268-otto.json](./103268-otto.json) |
 | Otto and the Ancient Worlds | 102382 | [102382-otto-and-the-ancient-worlds.json](./102382-otto-and-the-ancient-worlds.json) |
@@ -4519,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Sight: Stage Fright | 387593 | [387593-out-of-sight-stage-fright.json](./387593-out-of-sight-stage-fright.json) |
 | Out of Skull | 334334 | [334334-out-of-skull.json](./334334-out-of-skull.json) |
 | Out of Space | 111772 | [111772-out-of-space.json](./111772-out-of-space.json) |
+| Out of Space: Couch Edition | 141443 | [141443-out-of-space-couch-edition.json](./141443-out-of-space-couch-edition.json) |
 | Out of Stock! | 346588 | [346588-out-of-stock.json](./346588-out-of-stock.json) |
 | Out of Sync | 397159 | [397159-out-of-sync.json](./397159-out-of-sync.json) |
 | Out of Sync: Complete Cherry Bomb Edition | 397166 | [397166-out-of-sync-complete-cherry-bomb-edition.json](./397166-out-of-sync-complete-cherry-bomb-edition.json) |
@@ -4676,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcast | 354890 | [354890-outcast.json](./354890-outcast.json) |
 | Outcast 1.1 | 36084 | [36084-outcast-1-1.json](./36084-outcast-1-1.json) |
 | Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
+| Outcast in Mars | 142627 | [142627-outcast-in-mars.json](./142627-outcast-in-mars.json) |
 | Outcast Odyssey | 59877 | [59877-outcast-odyssey.json](./59877-outcast-odyssey.json) |
 | Outcast on Mars | 157132 | [157132-outcast-on-mars.json](./157132-outcast-on-mars.json) |
 | Outcast Tales | 106319 | [106319-outcast-tales.json](./106319-outcast-tales.json) |
