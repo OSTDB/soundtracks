@@ -10092,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AO3dle | 369853 | [369853-ao3dle.json](./369853-ao3dle.json) |
 | AO3dle | 372439 | [372439-ao3dle.json](./372439-ao3dle.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
+| AOD: Art of Defense | 150369 | [150369-aod-art-of-defense.json](./150369-aod-art-of-defense.json) |
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
 | Aoi Namida | 69151 | [69151-aoi-namida.json](./69151-aoi-namida.json) |
@@ -10426,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
 | Apostate | 240760 | [240760-apostate.json](./240760-apostate.json) |
 | Apostle | 115592 | [115592-apostle.json](./115592-apostle.json) |
+| Apostle 3D | 150358 | [150358-apostle-3d.json](./150358-apostle-3d.json) |
 | Apostle: Rebellion | 173199 | [173199-apostle-rebellion.json](./173199-apostle-rebellion.json) |
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
 | Apothecarium: The Renaissance of Evil | 59907 | [59907-apothecarium-the-renaissance-of-evil.json](./59907-apothecarium-the-renaissance-of-evil.json) |
@@ -15067,6 +15069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
 | Attack of the Gigant Zombie vs Unity chan | 87996 | [87996-attack-of-the-gigant-zombie-vs-unity-chan.json](./87996-attack-of-the-gigant-zombie-vs-unity-chan.json) |
 | Attack of the Gooobers | 50545 | [50545-attack-of-the-gooobers.json](./50545-attack-of-the-gooobers.json) |
+| Attack of the Karens | 150376 | [150376-attack-of-the-karens.json](./150376-attack-of-the-karens.json) |
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
 | Attack of the Killer Swarm | 78922 | [78922-attack-of-the-killer-swarm.json](./78922-attack-of-the-killer-swarm.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
@@ -15702,6 +15705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
 | Avant-Garde: Napoleonic Battles | 270497 | [270497-avant-garde-napoleonic-battles.json](./270497-avant-garde-napoleonic-battles.json) |
 | Avante! Atlantis | 321806 | [321806-avante-atlantis.json](./321806-avante-atlantis.json) |
+| Avanti: The Joy of Driving | 150350 | [150350-avanti-the-joy-of-driving.json](./150350-avanti-the-joy-of-driving.json) |
 | Avanzar | 217179 | [217179-avanzar.json](./217179-avanzar.json) |
 | Avara | 78569 | [78569-avara.json](./78569-avara.json) |
 | Avara Aftershock 1.5 | 339141 | [339141-avara-aftershock-1-5.json](./339141-avara-aftershock-1-5.json) |
