@@ -3684,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nife Wars | 398832 | [398832-nife-wars.json](./398832-nife-wars.json) |
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
+| Niflhel Survival | 152594 | [152594-niflhel-survival.json](./152594-niflhel-survival.json) |
 | Niflhel's Fables: The Book of Gypsies | 199315 | [199315-niflhels-fables-the-book-of-gypsies.json](./199315-niflhels-fables-the-book-of-gypsies.json) |
 | Nifty Drifty | 197701 | [197701-nifty-drifty.json](./197701-nifty-drifty.json) |
 | Nifty Island | 282824 | [282824-nifty-island.json](./282824-nifty-island.json) |
