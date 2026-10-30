@@ -4523,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
 | Beast Market | 416107 | [416107-beast-market.json](./416107-beast-market.json) |
 | Beast Mask | 392750 | [392750-beast-mask.json](./392750-beast-mask.json) |
+| Beast Master | 137834 | [137834-beast-master.json](./137834-beast-master.json) |
 | Beast Master and Prince: Flower & Snow | 60331 | [60331-beast-master-and-prince-flower-and-snow.json](./60331-beast-master-and-prince-flower-and-snow.json) |
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
 | Beast Mode | 332652 | [332652-beast-mode.json](./332652-beast-mode.json) |
@@ -5070,7 +5071,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
 | Beauty and the Beast | 63376 | [63376-beauty-and-the-beast.json](./63376-beauty-and-the-beast.json) |
+| Beauty and the Beast: Hidden Object Fairy Tale | 137807 | [137807-beauty-and-the-beast-hidden-object-fairy-tale.json](./137807-beauty-and-the-beast-hidden-object-fairy-tale.json) |
 | Beauty and the Beast: Perfect Match | 31554 | [31554-beauty-and-the-beast-perfect-match.json](./31554-beauty-and-the-beast-perfect-match.json) |
+| Beauty and the Silent Beast | 137801 | [137801-beauty-and-the-silent-beast.json](./137801-beauty-and-the-silent-beast.json) |
 | Beauty and the Thug | 371621 | [371621-beauty-and-the-thug.json](./371621-beauty-and-the-thug.json) |
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
 | Beauty Clicker | 371612 | [371612-beauty-clicker.json](./371612-beauty-clicker.json) |
