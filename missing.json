@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T22:57:01.998Z",
-  "total_missing": 285979,
+  "generated_at": "2026-10-30T23:02:39.980Z",
+  "total_missing": 285968,
   "games": [
     {
       "igdb_id": 191680,
@@ -102697,11 +102697,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -117152,11 +117147,6 @@
       "file": "missing/B/96215-battlefield-run.json"
     },
     {
-      "igdb_id": 82528,
-      "game_name": "Battlefield 1: Apocalypse",
-      "file": "missing/B/82528-battlefield-1-apocalypse.json"
-    },
-    {
       "igdb_id": 112636,
       "game_name": "Battlefield 1: Deluxe Collector's Edition",
       "file": "missing/B/112636-battlefield-1-deluxe-collectors-edition.json"
@@ -118725,11 +118715,6 @@
       "igdb_id": 236235,
       "game_name": "BattleZ",
       "file": "missing/B/236235-battlez.json"
-    },
-    {
-      "igdb_id": 14368,
-      "game_name": "Battlezone",
-      "file": "missing/B/14368-battlezone.json"
     },
     {
       "igdb_id": 276519,
@@ -511677,11 +511662,6 @@
       "file": "missing/G/287749-gun-gladiator.json"
     },
     {
-      "igdb_id": 31439,
-      "game_name": "Gun Godz",
-      "file": "missing/G/31439-gun-godz.json"
-    },
-    {
       "igdb_id": 27281,
       "game_name": "Gun Gun Pixies",
       "file": "missing/G/27281-gun-gun-pixies.json"
@@ -534065,11 +534045,6 @@
       "igdb_id": 385390,
       "game_name": "Hellbound",
       "file": "missing/H/385390-hellbound.json"
-    },
-    {
-      "igdb_id": 76037,
-      "game_name": "Hellbound",
-      "file": "missing/H/76037-hellbound.json"
     },
     {
       "igdb_id": 266603,
@@ -606102,11 +606077,6 @@
       "file": "missing/J/197941-james-pond-codename-robocod.json"
     },
     {
-      "igdb_id": 4274,
-      "game_name": "James Pond: Underwater Agent",
-      "file": "missing/J/4274-james-pond-underwater-agent.json"
-    },
-    {
       "igdb_id": 127820,
       "game_name": "James Town Courier Frog MD",
       "file": "missing/J/127820-james-town-courier-frog-md.json"
@@ -635610,11 +635580,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -835290,11 +835255,6 @@
       "igdb_id": 177856,
       "game_name": "Octagonis",
       "file": "missing/O/177856-octagonis.json"
-    },
-    {
-      "igdb_id": 89749,
-      "game_name": "Octahedron",
-      "file": "missing/O/89749-octahedron.json"
     },
     {
       "igdb_id": 32844,
@@ -1079307,6 +1079267,11 @@
       "file": "missing/S/77675-snow-memoria-wasureenu-omoi.json"
     },
     {
+      "igdb_id": 125654,
+      "game_name": "Snow Mercy",
+      "file": "missing/S/125654-snow-mercy.json"
+    },
+    {
       "igdb_id": 235748,
       "game_name": "Snow Moon Flower",
       "file": "missing/S/235748-snow-moon-flower.json"
@@ -1098087,11 +1098052,6 @@
       "file": "missing/S/53641-space-hulk-sword-of-halcyon-campaign.json"
     },
     {
-      "igdb_id": 86269,
-      "game_name": "Space Hulk: Tactics",
-      "file": "missing/S/86269-space-hulk-tactics.json"
-    },
-    {
       "igdb_id": 63195,
       "game_name": "Space Hunk",
       "file": "missing/S/63195-space-hunk.json"
@@ -1098105,6 +1098065,11 @@
       "igdb_id": 84892,
       "game_name": "Space Hunted",
       "file": "missing/S/84892-space-hunted.json"
+    },
+    {
+      "igdb_id": 129956,
+      "game_name": "Space Hunted: The Lost Levels",
+      "file": "missing/S/129956-space-hunted-the-lost-levels.json"
     },
     {
       "igdb_id": 142222,
@@ -1147637,11 +1147602,6 @@
       "file": "missing/S/219582-super-bloo-kid-adventure.json"
     },
     {
-      "igdb_id": 31160,
-      "game_name": "Super Blood Hockey",
-      "file": "missing/S/31160-super-blood-hockey.json"
-    },
-    {
       "igdb_id": 410956,
       "game_name": "Super Blood Hockey: Rogue Manager",
       "file": "missing/S/410956-super-blood-hockey-rogue-manager.json"
@@ -1181155,11 +1181115,6 @@
       "igdb_id": 374157,
       "game_name": "Tangled Words",
       "file": "missing/T/374157-tangled-words.json"
-    },
-    {
-      "igdb_id": 38754,
-      "game_name": "Tangledeep",
-      "file": "missing/T/38754-tangledeep.json"
     },
     {
       "igdb_id": 154499,
@@ -1331817,11 +1331772,6 @@
       "file": "missing/U/190982-under-night-in-birth.json"
     },
     {
-      "igdb_id": 20290,
-      "game_name": "Under Night In-Birth Exe:Late",
-      "file": "missing/U/20290-under-night-in-birth-exe-late.json"
-    },
-    {
       "igdb_id": 121369,
       "game_name": "Under Night In-Birth Exe:Late[cl-r]",
       "file": "missing/U/121369-under-night-in-birth-exe-late-cl-r.json"
@@ -1341970,11 +1341920,6 @@
       "igdb_id": 367198,
       "game_name": "Vacation Romance",
       "file": "missing/V/367198-vacation-romance.json"
-    },
-    {
-      "igdb_id": 76878,
-      "game_name": "Vacation Simulator",
-      "file": "missing/V/76878-vacation-simulator.json"
     },
     {
       "igdb_id": 135123,
