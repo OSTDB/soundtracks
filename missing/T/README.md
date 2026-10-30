@@ -15200,6 +15200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
 | The Sock Epic | 178805 | [178805-the-sock-epic.json](./178805-the-sock-epic.json) |
 | The Soft Rumor of Spreading Weeds | 394439 | [394439-the-soft-rumor-of-spreading-weeds.json](./394439-the-soft-rumor-of-spreading-weeds.json) |
+| The Software Toolworks CD Game Pack II | 131134 | [131134-the-software-toolworks-cd-game-pack-ii.json](./131134-the-software-toolworks-cd-game-pack-ii.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The SOL Device | 104524 | [104524-the-sol-device.json](./104524-the-sol-device.json) |
@@ -17619,6 +17620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
+| ThePaindog's BattleChat | 131145 | [131145-thepaindogs-battlechat.json](./131145-thepaindogs-battlechat.json) |
 | TheParcelEscape | 394073 | [394073-theparcelescape.json](./394073-theparcelescape.json) |
 | ThePoliticalUnderground | 285488 | [285488-thepoliticalunderground.json](./285488-thepoliticalunderground.json) |
 | Thera 1 | 225796 | [225796-thera-1.json](./225796-thera-1.json) |
