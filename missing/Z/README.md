@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Trigger | 31737 | [31737-zombie-trigger.json](./31737-zombie-trigger.json) |
 | Zombie Tycoon | 9295 | [9295-zombie-tycoon.json](./9295-zombie-tycoon.json) |
 | Zombie Typing | 374384 | [374384-zombie-typing.json](./374384-zombie-typing.json) |
+| Zombie Valley | 126223 | [126223-zombie-valley.json](./126223-zombie-valley.json) |
 | Zombie Vampires | 187285 | [187285-zombie-vampires.json](./187285-zombie-vampires.json) |
 | Zombie Variant | 130161 | [130161-zombie-variant.json](./130161-zombie-variant.json) |
 | Zombie Vegas | 190172 | [190172-zombie-vegas.json](./190172-zombie-vegas.json) |
