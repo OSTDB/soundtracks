@@ -3954,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insanity's Grip | 260232 | [260232-insanitys-grip.json](./260232-insanitys-grip.json) |
 | Insanity's Requiem | 145468 | [145468-insanitys-requiem.json](./145468-insanitys-requiem.json) |
+| Insanium | 150887 | [150887-insanium.json](./150887-insanium.json) |
 | Insanus Express | 114368 | [114368-insanus-express.json](./114368-insanus-express.json) |
 | InsanZ: Dr.Test | 170811 | [170811-insanz-dr-test.json](./170811-insanz-dr-test.json) |
 | InsanZ: Kill the Engine | 170810 | [170810-insanz-kill-the-engine.json](./170810-insanz-kill-the-engine.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island of Mogambo | 268986 | [268986-island-of-mogambo.json](./268986-island-of-mogambo.json) |
+| Island of Penance | 150877 | [150877-island-of-penance.json](./150877-island-of-penance.json) |
 | Island of Ruin | 391622 | [391622-island-of-ruin.json](./391622-island-of-ruin.json) |
 | Island of Sacrifice | 326008 | [326008-island-of-sacrifice.json](./326008-island-of-sacrifice.json) |
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
