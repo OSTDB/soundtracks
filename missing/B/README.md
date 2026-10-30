@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2934,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
+| Bat Castle | 125592 | [125592-bat-castle.json](./125592-bat-castle.json) |
 | Bat Egg | 165556 | [165556-bat-egg.json](./165556-bat-egg.json) |
 | Bat Enchanter Witch | 228284 | [228284-bat-enchanter-witch.json](./228284-bat-enchanter-witch.json) |
 | Bat Fizz | 343936 | [343936-bat-fizz.json](./343936-bat-fizz.json) |
@@ -8662,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladestorm: The Hundred Years' War | 6919 | [6919-bladestorm-the-hundred-years-war.json](./6919-bladestorm-the-hundred-years-war.json) |
 | Bladeweave | 420011 | [420011-bladeweave.json](./420011-bladeweave.json) |
 | Blagger | 8527 | [8527-blagger.json](./8527-blagger.json) |
+| Blagger Goes to Hollywood | 125596 | [125596-blagger-goes-to-hollywood.json](./125596-blagger-goes-to-hollywood.json) |
 | Blagmoz | 271672 | [271672-blagmoz.json](./271672-blagmoz.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
@@ -13282,6 +13285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Heart | 246317 | [246317-brave-heart.json](./246317-brave-heart.json) |
 | Brave Hero | 160190 | [160190-brave-hero.json](./160190-brave-hero.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
+| Brave Hero Yuusha | 125605 | [125605-brave-hero-yuusha.json](./125605-brave-hero-yuusha.json) |
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
 | Brave Hero: Puzzle Dungeon Card | 285370 | [285370-brave-hero-puzzle-dungeon-card.json](./285370-brave-hero-puzzle-dungeon-card.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
