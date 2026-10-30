@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kari | 150497 | [150497-kari.json](./150497-kari.json) |
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Kari ni A-kun to Shiyou | 380182 | [380182-kari-ni-a-kun-to-shiyou.json](./380182-kari-ni-a-kun-to-shiyou.json) |
+| Kari: Stranded on the Shores of Vanaheim | 137257 | [137257-kari-stranded-on-the-shores-of-vanaheim.json](./137257-kari-stranded-on-the-shores-of-vanaheim.json) |
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
 | Karim and the 60 Thieves | 348905 | [348905-karim-and-the-60-thieves.json](./348905-karim-and-the-60-thieves.json) |
 | Karin's Instruction | 292757 | [292757-karins-instruction.json](./292757-karins-instruction.json) |
@@ -2416,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killflow | 400500 | [400500-killflow.json](./400500-killflow.json) |
 | Killgore | 396642 | [396642-killgore.json](./396642-killgore.json) |
 | Killgun | 399045 | [399045-killgun.json](./399045-killgun.json) |
+| Killigan's Treasure | 137292 | [137292-killigans-treasure.json](./137292-killigans-treasure.json) |
 | Killing a Superstar | 160228 | [160228-killing-a-superstar.json](./160228-killing-a-superstar.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
@@ -3333,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kino no Tabi II: The Beautiful World | 141757 | [141757-kino-no-tabi-ii-the-beautiful-world.json](./141757-kino-no-tabi-ii-the-beautiful-world.json) |
 | KinoCon! Defend My Sweet Home! | 204396 | [204396-kinocon-defend-my-sweet-home.json](./204396-kinocon-defend-my-sweet-home.json) |
 | Kinoko | 138584 | [138584-kinoko.json](./138584-kinoko.json) |
+| Kinoko & Gal | 137266 | [137266-kinoko-and-gal.json](./137266-kinoko-and-gal.json) |
 | Kinoko-nun | 379907 | [379907-kinoko-nun.json](./379907-kinoko-nun.json) |
 | KiNoKoe: Tree's Voice | 217259 | [217259-kinokoe-trees-voice.json](./217259-kinokoe-trees-voice.json) |
 | Kinophobia | 375931 | [375931-kinophobia.json](./375931-kinophobia.json) |
