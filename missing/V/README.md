@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
 | Vertical Runner | 388329 | [388329-vertical-runner.json](./388329-vertical-runner.json) |
 | Vertical Slice | 144755 | [144755-vertical-slice.json](./144755-vertical-slice.json) |
+| Vertical Slice: A Game Dev Story | 157310 | [157310-vertical-slice-a-game-dev-story.json](./157310-vertical-slice-a-game-dev-story.json) |
 | Vertical Strike Endless Challenge | 28293 | [28293-vertical-strike-endless-challenge.json](./28293-vertical-strike-endless-challenge.json) |
 | Verticality | 306971 | [306971-verticality.json](./306971-verticality.json) |
 | Verticopolis | 410821 | [410821-verticopolis.json](./410821-verticopolis.json) |
@@ -2550,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Attack | 284168 | [284168-virus-attack.json](./284168-virus-attack.json) |
 | Virus Attack | 421409 | [421409-virus-attack.json](./421409-virus-attack.json) |
 | Virus Attack! | 231551 | [231551-virus-attack.json](./231551-virus-attack.json) |
+| Virus Blast | 157332 | [157332-virus-blast.json](./157332-virus-blast.json) |
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
