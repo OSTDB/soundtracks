@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Bones | 123464 | [123464-captain-bones.json](./123464-captain-bones.json) |
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
 | Captain Buttface | 258093 | [258093-captain-buttface.json](./258093-captain-buttface.json) |
+| Captain Clive: Danger From Dione | 138413 | [138413-captain-clive-danger-from-dione.json](./138413-captain-clive-danger-from-dione.json) |
 | Captain Coffer 2D | 157474 | [157474-captain-coffer-2d.json](./157474-captain-coffer-2d.json) |
 | Captain CoinCoin | 289281 | [289281-captain-coincoin.json](./289281-captain-coincoin.json) |
 | Captain Collision | 165748 | [165748-captain-collision.json](./165748-captain-collision.json) |
@@ -7609,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
 | Chronosurge: Echoes of the Void | 371855 | [371855-chronosurge-echoes-of-the-void.json](./371855-chronosurge-echoes-of-the-void.json) |
 | ChronoTecture: The Eprologue | 167350 | [167350-chronotecture-the-eprologue.json](./167350-chronotecture-the-eprologue.json) |
+| Chronotopophobia | 139014 | [139014-chronotopophobia.json](./139014-chronotopophobia.json) |
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
 | Chronotura | 180393 | [180393-chronotura.json](./180393-chronotura.json) |
 | ChronoVenture | 321285 | [321285-chronoventure.json](./321285-chronoventure.json) |
@@ -12644,6 +12646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
 | Cook-Off Party | 50688 | [50688-cook-off-party.json](./50688-cook-off-party.json) |
+| Cook-Out: A Sandwich Tale | 138392 | [138392-cook-out-a-sandwich-tale.json](./138392-cook-out-a-sandwich-tale.json) |
 | Cook, Serve, Delicious, Trilogy! | 278655 | [278655-cook-serve-delicious-trilogy.json](./278655-cook-serve-delicious-trilogy.json) |
 | Cook, Serve, Delicious! 2!! | 23236 | [23236-cook-serve-delicious-2.json](./23236-cook-serve-delicious-2.json) |
 | Cook, Serve, Delicious! 3?! | 121500 | [121500-cook-serve-delicious-3.json](./121500-cook-serve-delicious-3.json) |
@@ -14266,6 +14269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
 | Craft Fighter | 139129 | [139129-craft-fighter.json](./139129-craft-fighter.json) |
 | Craft Hero | 194264 | [194264-craft-hero.json](./194264-craft-hero.json) |
+| Craft In Abyss | 138387 | [138387-craft-in-abyss.json](./138387-craft-in-abyss.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
 | Craft Keep VR | 26932 | [26932-craft-keep-vr.json](./26932-craft-keep-vr.json) |
 | Craft Lands | 289776 | [289776-craft-lands.json](./289776-craft-lands.json) |
@@ -14465,6 +14469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
 | Crash Bandicoot: Warped | 135451 | [135451-crash-bandicoot-warped.json](./135451-crash-bandicoot-warped.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
+| Crash Bash Live! | 138993 | [138993-crash-bash-live.json](./138993-crash-bash-live.json) |
 | Crash Bash: Collector's Edition | 45212 | [45212-crash-bash-collectors-edition.json](./45212-crash-bash-collectors-edition.json) |
 | Crash Birds | 256198 | [256198-crash-birds.json](./256198-crash-birds.json) |
 | Crash Bugs Cake Defense | 353954 | [353954-crash-bugs-cake-defense.json](./353954-crash-bugs-cake-defense.json) |
@@ -16607,6 +16612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Caverns | 177420 | [177420-crystal-caverns.json](./177420-crystal-caverns.json) |
 | Crystal Caverns | 339344 | [339344-crystal-caverns.json](./339344-crystal-caverns.json) |
 | Crystal Caves | 8483 | [8483-crystal-caves.json](./8483-crystal-caves.json) |
+| Crystal Caves HD | 138981 | [138981-crystal-caves-hd.json](./138981-crystal-caves-hd.json) |
 | Crystal Caves Volume 1: Troubles with Twibbles | 51394 | [51394-crystal-caves-volume-1-troubles-with-twibbles.json](./51394-crystal-caves-volume-1-troubles-with-twibbles.json) |
 | Crystal Caves Volume 2: Slugging it Out | 51393 | [51393-crystal-caves-volume-2-slugging-it-out.json](./51393-crystal-caves-volume-2-slugging-it-out.json) |
 | Crystal Caves Volume 3: Milo Versus the Supernova | 51392 | [51392-crystal-caves-volume-3-milo-versus-the-supernova.json](./51392-crystal-caves-volume-3-milo-versus-the-supernova.json) |
