@@ -863,7 +863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11458,6 +11457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomight | 99443 | [99443-bomight.json](./99443-bomight.json) |
 | BomjMan | 120746 | [120746-bomjman.json](./120746-bomjman.json) |
 | Bomsy | 74681 | [74681-bomsy.json](./74681-bomsy.json) |
+| Bomtiles | 126228 | [126228-bomtiles.json](./126228-bomtiles.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
 | Bon Bon Paradise | 109481 | [109481-bon-bon-paradise.json](./109481-bon-bon-paradise.json) |
 | Bon Vivant: Plan the Perfect Party | 410695 | [410695-bon-vivant-plan-the-perfect-party.json](./410695-bon-vivant-plan-the-perfect-party.json) |
@@ -12012,6 +12012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Psycho Krieg and the Fantastic Fustercluck | 138354 | [138354-borderlands-3-psycho-krieg-and-the-fantastic-fustercluck.json](./138354-borderlands-3-psycho-krieg-and-the-fantastic-fustercluck.json) |
 | Borderlands 3: Season Pass 2 | 293719 | [293719-borderlands-3-season-pass-2.json](./293719-borderlands-3-season-pass-2.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
+| Borderlands 3: Takedown at the Maliwan Blacksite | 126181 | [126181-borderlands-3-takedown-at-the-maliwan-blacksite.json](./126181-borderlands-3-takedown-at-the-maliwan-blacksite.json) |
 | Borderlands 3: Ultimate Edition | 140899 | [140899-borderlands-3-ultimate-edition.json](./140899-borderlands-3-ultimate-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
