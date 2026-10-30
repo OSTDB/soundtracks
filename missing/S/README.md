@@ -4737,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
 | Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
 | Sengo Muramasa DX: Guren no Kettou | 145393 | [145393-sengo-muramasa-dx-guren-no-kettou.json](./145393-sengo-muramasa-dx-guren-no-kettou.json) |
+| Sengo Muramasa DX: Guren no Kettou - Limited Edition | 166960 | [166960-sengo-muramasa-dx-guren-no-kettou-limited-edition.json](./166960-sengo-muramasa-dx-guren-no-kettou-limited-edition.json) |
 | Sengoku | 27946 | [27946-sengoku.json](./27946-sengoku.json) |
 | Sengoku | 5433 | [5433-sengoku.json](./5433-sengoku.json) |
 | Sengoku 2 | 46785 | [46785-sengoku-2.json](./46785-sengoku-2.json) |
@@ -8047,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter Buddies | 159530 | [159530-shooter-buddies.json](./159530-shooter-buddies.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
 | Shooter Dual Pack I Necromunda: Hired Gun + Space Hulk: Deathwing - Enhanced Edition | 194260 | [194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json](./194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json) |
+| Shooter for Dummies | 166923 | [166923-shooter-for-dummies.json](./166923-shooter-for-dummies.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter League | 191443 | [191443-shooter-league.json](./191443-shooter-league.json) |
 | Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
@@ -11595,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughterhouse | 376815 | [376815-slaughterhouse.json](./376815-slaughterhouse.json) |
 | Slaughtertrain | 179457 | [179457-slaughtertrain.json](./179457-slaughtertrain.json) |
 | Slaughtra | 344408 | [344408-slaughtra.json](./344408-slaughtra.json) |
+| Slav Dangerous | 166931 | [166931-slav-dangerous.json](./166931-slav-dangerous.json) |
 | Slav or Not | 368971 | [368971-slav-or-not.json](./368971-slav-or-not.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slava Ukraini! | 201582 | [201582-slava-ukraini.json](./201582-slava-ukraini.json) |
