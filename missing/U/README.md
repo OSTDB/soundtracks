@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uranium Gays | 376054 | [376054-uranium-gays.json](./376054-uranium-gays.json) |
 | Uranium Mario 64 | 338828 | [338828-uranium-mario-64.json](./338828-uranium-mario-64.json) |
 | Uranus | 161632 | [161632-uranus.json](./161632-uranus.json) |
+| Uranus | 168035 | [168035-uranus.json](./168035-uranus.json) |
 | Uranus | 313454 | [313454-uranus.json](./313454-uranus.json) |
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
 | Urayama | 298619 | [298619-urayama.json](./298619-urayama.json) |
@@ -2964,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Fantasy: Vampires vs Werewolves | 169359 | [169359-urban-fantasy-vampires-vs-werewolves.json](./169359-urban-fantasy-vampires-vs-werewolves.json) |
 | Urban Farmer | 216852 | [216852-urban-farmer.json](./216852-urban-farmer.json) |
 | Urban Fight | 154900 | [154900-urban-fight.json](./154900-urban-fight.json) |
+| Urban Fight: DLC | 168033 | [168033-urban-fight-dlc.json](./168033-urban-fight-dlc.json) |
 | Urban Fighters: Battle Stars | 241804 | [241804-urban-fighters-battle-stars.json](./241804-urban-fighters-battle-stars.json) |
 | Urban Flow | 137659 | [137659-urban-flow.json](./137659-urban-flow.json) |
 | Urban Flow Chaos Control | 385173 | [385173-urban-flow-chaos-control.json](./385173-urban-flow-chaos-control.json) |
@@ -3163,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
 | Usotsuki Shangurira | 132090 | [132090-usotsuki-shangurira.json](./132090-usotsuki-shangurira.json) |
+| Uspavanka | 168000 | [168000-uspavanka.json](./168000-uspavanka.json) |
 | USS Tempest: Spaceship Simulator | 190894 | [190894-uss-tempest-spaceship-simulator.json](./190894-uss-tempest-spaceship-simulator.json) |
 | USSR Chan: Hentai Puzzle Game | 163545 | [163545-ussr-chan-hentai-puzzle-game.json](./163545-ussr-chan-hentai-puzzle-game.json) |
 | Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
