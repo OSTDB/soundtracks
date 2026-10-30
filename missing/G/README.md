@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentle Officer | 311869 | [311869-gentle-officer.json](./311869-gentle-officer.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
+| Gentlemen of Fortune: Maelstrom | 176651 | [176651-gentlemen-of-fortune-maelstrom.json](./176651-gentlemen-of-fortune-maelstrom.json) |
 | Gentlemen's Club | 286415 | [286415-gentlemens-club.json](./286415-gentlemens-club.json) |
 | Gentlemen's Puzzle Club | 252254 | [252254-gentlemens-puzzle-club.json](./252254-gentlemens-puzzle-club.json) |
 | GentleMoon 2 | 32902 | [32902-gentlemoon-2.json](./32902-gentlemoon-2.json) |
@@ -4537,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloop | 390745 | [390745-gloop.json](./390745-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
 | Gloopalaxy | 393983 | [393983-gloopalaxy.json](./393983-gloopalaxy.json) |
+| Glor.IO | 176670 | [176670-glor-io.json](./176670-glor-io.json) |
 | Glorace: Phantastic Carnival | 67813 | [67813-glorace-phantastic-carnival.json](./67813-glorace-phantastic-carnival.json) |
 | Glorch's Great Escape: Walking is for Chumps | 30691 | [30691-glorchs-great-escape-walking-is-for-chumps.json](./30691-glorchs-great-escape-walking-is-for-chumps.json) |
 | Glorg | 286653 | [286653-glorg.json](./286653-glorg.json) |
