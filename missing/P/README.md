@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare: Stick Julius Caesar (With a Dagger) - War on Xmas | 156179 | [156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json](./156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json) |
 | Paper Shakespeare: The Legend of Rainbow Hollow | 118256 | [118256-paper-shakespeare-the-legend-of-rainbow-hollow.json](./118256-paper-shakespeare-the-legend-of-rainbow-hollow.json) |
 | Paper Shakespeare: To Date or Not to Date? | 90804 | [90804-paper-shakespeare-to-date-or-not-to-date.json](./90804-paper-shakespeare-to-date-or-not-to-date.json) |
+| Paper Shakespeare: To Date or Not to Date? - Charity Scene: Seriously, Why Are There Still Nazis? | 174503 | [174503-paper-shakespeare-to-date-or-not-to-date-charity-scene-seriously-why-are-there-still-nazis.json](./174503-paper-shakespeare-to-date-or-not-to-date-charity-scene-seriously-why-are-there-still-nazis.json) |
 | Paper Shakespeare: To Date or Not to Date? - The Merry War | 174148 | [174148-paper-shakespeare-to-date-or-not-to-date-the-merry-war.json](./174148-paper-shakespeare-to-date-or-not-to-date-the-merry-war.json) |
 | Paper Shakespeare: To Date or Not to Date? 2 | 127208 | [127208-paper-shakespeare-to-date-or-not-to-date-2.json](./127208-paper-shakespeare-to-date-or-not-to-date-2.json) |
 | Paper Shakespeare: Very Naked Hamlet | 171577 | [171577-paper-shakespeare-very-naked-hamlet.json](./171577-paper-shakespeare-very-naked-hamlet.json) |
@@ -6694,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Coast Escape 3 | 315642 | [315642-pirate-coast-escape-3.json](./315642-pirate-coast-escape-3.json) |
 | Pirate Coast Escape 4 | 315644 | [315644-pirate-coast-escape-4.json](./315644-pirate-coast-escape-4.json) |
 | Pirate Code | 62727 | [62727-pirate-code.json](./62727-pirate-code.json) |
+| Pirate Code: Rise of the Kraken | 174512 | [174512-pirate-code-rise-of-the-kraken.json](./174512-pirate-code-rise-of-the-kraken.json) |
 | Pirate Coin Dozer | 60624 | [60624-pirate-coin-dozer.json](./60624-pirate-coin-dozer.json) |
 | Pirate Combat Trainer | 310162 | [310162-pirate-combat-trainer.json](./310162-pirate-combat-trainer.json) |
 | Pirate Commander | 139689 | [139689-pirate-commander.json](./139689-pirate-commander.json) |
@@ -9347,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocky & Rocky Reshrined | 144285 | [144285-pocky-and-rocky-reshrined.json](./144285-pocky-and-rocky-reshrined.json) |
 | Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
 | Poco a Poco | 177449 | [177449-poco-a-poco.json](./177449-poco-a-poco.json) |
+| Poco In Dungeon: Pico In Cave | 174517 | [174517-poco-in-dungeon-pico-in-cave.json](./174517-poco-in-dungeon-pico-in-cave.json) |
 | Poco Loco | 400546 | [400546-poco-loco.json](./400546-poco-loco.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
