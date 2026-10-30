@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfectly Balanced | 175073 | [175073-perfectly-balanced.json](./175073-perfectly-balanced.json) |
 | Perfectly Perilous Provisions | 135630 | [135630-perfectly-perilous-provisions.json](./135630-perfectly-perilous-provisions.json) |
 | Performan | 40405 | [40405-performan.json](./40405-performan.json) |
+| Performer | 150341 | [150341-performer.json](./150341-performer.json) |
 | Performous | 63242 | [63242-performous.json](./63242-performous.json) |
 | Perfumare | 179864 | [179864-perfumare.json](./179864-perfumare.json) |
 | Perfume Atelier | 366944 | [366944-perfume-atelier.json](./366944-perfume-atelier.json) |
@@ -8814,6 +8815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
 | Playing Games | 216576 | [216576-playing-games.json](./216576-playing-games.json) |
+| Playing God | 150344 | [150344-playing-god.json](./150344-playing-god.json) |
 | Playing God VR | 179923 | [179923-playing-god-vr.json](./179923-playing-god-vr.json) |
 | Playing History - The Plague | 34628 | [34628-playing-history-the-plague.json](./34628-playing-history-the-plague.json) |
 | Playing History 2 - Slave Trade | 12073 | [12073-playing-history-2-slave-trade.json](./12073-playing-history-2-slave-trade.json) |
