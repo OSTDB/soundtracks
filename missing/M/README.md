@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
 | Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
+| Maiden and Swordsman | 129392 | [129392-maiden-and-swordsman.json](./129392-maiden-and-swordsman.json) |
 | Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
 | Maiden Gear | 212043 | [212043-maiden-gear.json](./212043-maiden-gear.json) |
@@ -4917,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match: Isekai Journey | 417613 | [417613-match-isekai-journey.json](./417613-match-isekai-journey.json) |
 | Match! The 12 CZ Wars | 372064 | [372064-match-the-12-cz-wars.json](./372064-match-the-12-cz-wars.json) |
 | Matcha | 211159 | [211159-matcha.json](./211159-matcha.json) |
+| Matcha Warriors | 129394 | [129394-matcha-warriors.json](./129394-matcha-warriors.json) |
 | Matchball Tennis | 54207 | [54207-matchball-tennis.json](./54207-matchball-tennis.json) |
 | Matchblocks | 74741 | [74741-matchblocks.json](./74741-matchblocks.json) |
 | Matchbox Caterpillar Construction Zone 2: Gold Mining | 208789 | [208789-matchbox-caterpillar-construction-zone-2-gold-mining.json](./208789-matchbox-caterpillar-construction-zone-2-gold-mining.json) |
@@ -5012,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster Ages 8-9 | 59342 | [59342-math-blaster-ages-8-9.json](./59342-math-blaster-ages-8-9.json) |
 | Math Blaster HyperBlast 2 HD | 93652 | [93652-math-blaster-hyperblast-2-hd.json](./93652-math-blaster-hyperblast-2-hd.json) |
 | Math Blaster in the Prime Adventure | 47927 | [47927-math-blaster-in-the-prime-adventure.json](./47927-math-blaster-in-the-prime-adventure.json) |
+| Math Blaster Jr. | 129397 | [129397-math-blaster-jr.json](./129397-math-blaster-jr.json) |
 | Math Blaster Mystery | 129504 | [129504-math-blaster-mystery.json](./129504-math-blaster-mystery.json) |
 | Math Blaster Mystery: Pre-Algebra | 66338 | [66338-math-blaster-mystery-pre-algebra.json](./66338-math-blaster-mystery-pre-algebra.json) |
 | Math Blaster Mystery: The Great Brain Robbery | 10672 | [10672-math-blaster-mystery-the-great-brain-robbery.json](./10672-math-blaster-mystery-the-great-brain-robbery.json) |
@@ -6206,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Vanguard | 1313 | [1313-medal-of-honor-vanguard.json](./1313-medal-of-honor-vanguard.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | Medal of Honor: Warfighter - Digital Deluxe Edition | 202061 | [202061-medal-of-honor-warfighter-digital-deluxe-edition.json](./202061-medal-of-honor-warfighter-digital-deluxe-edition.json) |
+| Medal of Legends | 129356 | [129356-medal-of-legends.json](./129356-medal-of-legends.json) |
 | Medal of Valor 4 | 105803 | [105803-medal-of-valor-4.json](./105803-medal-of-valor-4.json) |
 | Medal Tree | 370014 | [370014-medal-tree.json](./370014-medal-tree.json) |
 | Medal Winners 24 | 293554 | [293554-medal-winners-24.json](./293554-medal-winners-24.json) |
@@ -12409,6 +12413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Impossibubble | 239134 | [239134-mission-impossibubble.json](./239134-mission-impossibubble.json) |
 | Mission in Snowdriftland | 143095 | [143095-mission-in-snowdriftland.json](./143095-mission-in-snowdriftland.json) |
 | Mission In Space | 221755 | [221755-mission-in-space.json](./221755-mission-in-space.json) |
+| Mission Indeed 2.0 FPS | 129383 | [129383-mission-indeed-2-0-fps.json](./129383-mission-indeed-2-0-fps.json) |
 | Mission Jupiter | 13015 | [13015-mission-jupiter.json](./13015-mission-jupiter.json) |
 | Mission LunaTrix | 338048 | [338048-mission-lunatrix.json](./338048-mission-lunatrix.json) |
 | Mission Mars | 147390 | [147390-mission-mars.json](./147390-mission-mars.json) |
