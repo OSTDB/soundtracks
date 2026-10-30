@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
 | Operation: Tango - Challenge Mode | 182256 | [182256-operation-tango-challenge-mode.json](./182256-operation-tango-challenge-mode.json) |
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
+| Operation: Vicus | 149780 | [149780-operation-vicus.json](./149780-operation-vicus.json) |
 | Operation: Vietnam | 20760 | [20760-operation-vietnam.json](./20760-operation-vietnam.json) |
 | Operation7: Revolution | 127836 | [127836-operation7-revolution.json](./127836-operation7-revolution.json) |
 | Operation7: Showdown | 384739 | [384739-operation7-showdown.json](./384739-operation7-showdown.json) |
