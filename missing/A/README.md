@@ -5785,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfie Atkins Game Collection | 385142 | [385142-alfie-atkins-game-collection.json](./385142-alfie-atkins-game-collection.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
 | Alfonzo's Arctic Adventure | 122808 | [122808-alfonzos-arctic-adventure.json](./122808-alfonzos-arctic-adventure.json) |
+| Alfonzo's Bowling Challenge | 131789 | [131789-alfonzos-bowling-challenge.json](./131789-alfonzos-bowling-challenge.json) |
 | Alfred Chicken | 118492 | [118492-alfred-chicken.json](./118492-alfred-chicken.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 76821 | [76821-alfred-chicken.json](./76821-alfred-chicken.json) |
@@ -11790,6 +11791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipelago: Navigable VR Comic | 29822 | [29822-archipelago-navigable-vr-comic.json](./29822-archipelago-navigable-vr-comic.json) |
 | Archipelagos 2000 | 94602 | [94602-archipelagos-2000.json](./94602-archipelagos-2000.json) |
 | Archipeo | 407384 | [407384-archipeo.json](./407384-archipeo.json) |
+| ArchiTac | 131782 | [131782-architac.json](./131782-architac.json) |
 | Architect | 182900 | [182900-architect.json](./182900-architect.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
 | Architect Life: A House Design Simulator | 144766 | [144766-architect-life-a-house-design-simulator.json](./144766-architect-life-a-house-design-simulator.json) |
