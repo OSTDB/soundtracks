@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violeta | 327043 | [327043-violeta.json](./327043-violeta.json) |
 | Violetshift | 260501 | [260501-violetshift.json](./260501-violetshift.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
+| Violett Remastered | 164712 | [164712-violett-remastered.json](./164712-violett-remastered.json) |
 | Violetta: Rhythm & Music | 58005 | [58005-violetta-rhythm-and-music.json](./58005-violetta-rhythm-and-music.json) |
 | Violetti Goottii | 150389 | [150389-violetti-goottii.json](./150389-violetti-goottii.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
