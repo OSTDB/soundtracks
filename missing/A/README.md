@@ -7768,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | AMG | 153143 | [153143-amg.json](./153143-amg.json) |
 | AMG2 | 208206 | [208206-amg2.json](./208206-amg2.json) |
+| Ami | 129369 | [129369-ami.json](./129369-ami.json) |
 | Ami | 276791 | [276791-ami.json](./276791-ami.json) |
 | Ami's Room | 216211 | [216211-amis-room.json](./216211-amis-room.json) |
 | Amicade | 254027 | [254027-amicade.json](./254027-amicade.json) |
@@ -9822,6 +9823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Colony | 42163 | [42163-ant-colony.json](./42163-ant-colony.json) |
 | Ant Colony: Wild Forest | 336448 | [336448-ant-colony-wild-forest.json](./336448-ant-colony-wild-forest.json) |
 | Ant Destroyer 2 | 102596 | [102596-ant-destroyer-2.json](./102596-ant-destroyer-2.json) |
+| Ant Detective 2 | 129372 | [129372-ant-detective-2.json](./129372-ant-detective-2.json) |
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Farm Simulator | 277847 | [277847-ant-farm-simulator.json](./277847-ant-farm-simulator.json) |
 | Ant Fight | 245287 | [245287-ant-fight.json](./245287-ant-fight.json) |
