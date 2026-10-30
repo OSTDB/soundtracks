@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
 | TankBlitz | 28791 | [28791-tankblitz.json](./28791-tankblitz.json) |
 | Tankbot Battle | 319425 | [319425-tankbot-battle.json](./319425-tankbot-battle.json) |
+| Tankbox | 153034 | [153034-tankbox.json](./153034-tankbox.json) |
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
 | TankDestruction | 114916 | [114916-tankdestruction.json](./114916-tankdestruction.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
@@ -9309,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gristmill | 187272 | [187272-the-gristmill.json](./187272-the-gristmill.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
 | The Groom of Gallagher Mansion | 249060 | [249060-the-groom-of-gallagher-mansion.json](./249060-the-groom-of-gallagher-mansion.json) |
+| The Grotto Diary | 153067 | [153067-the-grotto-diary.json](./153067-the-grotto-diary.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
 | The Groundskeeper | 255836 | [255836-the-groundskeeper.json](./255836-the-groundskeeper.json) |
@@ -17470,6 +17472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Weapon Pack 2 | 206804 | [206804-thehunter-call-of-the-wild-weapon-pack-2.json](./206804-thehunter-call-of-the-wild-weapon-pack-2.json) |
 | TheHunter: Call of the Wild - Weapon Pack 3 | 206800 | [206800-thehunter-call-of-the-wild-weapon-pack-3.json](./206800-thehunter-call-of-the-wild-weapon-pack-3.json) |
 | TheHunter: Call of the Wild - Wild Goose Chase Gear | 206816 | [206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json](./206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json) |
+| TheHunter: Call of the Wild - Yukon Valley | 153079 | [153079-thehunter-call-of-the-wild-yukon-valley.json](./153079-thehunter-call-of-the-wild-yukon-valley.json) |
 | TheHunter: Call of the Wild - Yukon Valley Cosmetic Pack | 280374 | [280374-thehunter-call-of-the-wild-yukon-valley-cosmetic-pack.json](./280374-thehunter-call-of-the-wild-yukon-valley-cosmetic-pack.json) |
 | TheHunter: Primal | 10347 | [10347-thehunter-primal.json](./10347-thehunter-primal.json) |
 | Their Aftermath | 364386 | [364386-their-aftermath.json](./364386-their-aftermath.json) |
@@ -26820,6 +26823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transylvanian Tower | 45312 | [45312-transylvanian-tower.json](./45312-transylvanian-tower.json) |
 | Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
 | Trap | 98772 | [98772-trap.json](./98772-trap.json) |
+| Trap Adventure | 153040 | [153040-trap-adventure.json](./153040-trap-adventure.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
 | Trap Adventure Deluxe | 383697 | [383697-trap-adventure-deluxe.json](./383697-trap-adventure-deluxe.json) |
 | Trap Again | 356885 | [356885-trap-again.json](./356885-trap-again.json) |
@@ -27591,6 +27595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribes 3: Rivals | 278321 | [278321-tribes-3-rivals.json](./278321-tribes-3-rivals.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
 | Tribes Extreme | 206074 | [206074-tribes-extreme.json](./206074-tribes-extreme.json) |
+| Tribes of Midgard: Deluxe Edition | 153053 | [153053-tribes-of-midgard-deluxe-edition.json](./153053-tribes-of-midgard-deluxe-edition.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
