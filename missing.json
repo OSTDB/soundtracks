@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T06:20:58.664Z",
-  "total_missing": 282798,
+  "generated_at": "2026-10-30T06:33:08.958Z",
+  "total_missing": 282846,
   "games": [
     {
       "igdb_id": 191680,
@@ -101727,11 +101727,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -177485,6 +177480,46 @@
       "igdb_id": 75103,
       "game_name": "Bus Driver Simulator 2019",
       "file": "missing/B/75103-bus-driver-simulator-2019.json"
+    },
+    {
+      "igdb_id": 162573,
+      "game_name": "Bus Driver Simulator 2019: European Minibus",
+      "file": "missing/B/162573-bus-driver-simulator-2019-european-minibus.json"
+    },
+    {
+      "igdb_id": 162578,
+      "game_name": "Bus Driver Simulator 2019: Hungarian Legend",
+      "file": "missing/B/162578-bus-driver-simulator-2019-hungarian-legend.json"
+    },
+    {
+      "igdb_id": 162579,
+      "game_name": "Bus Driver Simulator 2019: Modern City Bus",
+      "file": "missing/B/162579-bus-driver-simulator-2019-modern-city-bus.json"
+    },
+    {
+      "igdb_id": 162572,
+      "game_name": "Bus Driver Simulator 2019: Murom Suburbs",
+      "file": "missing/B/162572-bus-driver-simulator-2019-murom-suburbs.json"
+    },
+    {
+      "igdb_id": 162576,
+      "game_name": "Bus Driver Simulator 2019: Old Legend",
+      "file": "missing/B/162576-bus-driver-simulator-2019-old-legend.json"
+    },
+    {
+      "igdb_id": 162575,
+      "game_name": "Bus Driver Simulator 2019: Russian Soul",
+      "file": "missing/B/162575-bus-driver-simulator-2019-russian-soul.json"
+    },
+    {
+      "igdb_id": 162574,
+      "game_name": "Bus Driver Simulator 2019: Soviet Legend",
+      "file": "missing/B/162574-bus-driver-simulator-2019-soviet-legend.json"
+    },
+    {
+      "igdb_id": 162577,
+      "game_name": "Bus Driver Simulator 2019: Tourist",
+      "file": "missing/B/162577-bus-driver-simulator-2019-tourist.json"
     },
     {
       "igdb_id": 187111,
@@ -528062,6 +528097,11 @@
       "file": "missing/H/311705-hells-house.json"
     },
     {
+      "igdb_id": 162569,
+      "game_name": "Hell's Island",
+      "file": "missing/H/162569-hells-island.json"
+    },
+    {
       "igdb_id": 361650,
       "game_name": "Hell's Kitchen",
       "file": "missing/H/361650-hells-kitchen.json"
@@ -628700,11 +628740,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -1284487,6 +1284522,11 @@
       "file": "missing/T/104721-train-conductor.json"
     },
     {
+      "igdb_id": 162570,
+      "game_name": "Train Conductor",
+      "file": "missing/T/162570-train-conductor.json"
+    },
+    {
       "igdb_id": 96303,
       "game_name": "Train Conductor 2: USA",
       "file": "missing/T/96303-train-conductor-2-usa.json"
@@ -1286372,6 +1286412,11 @@
       "file": "missing/T/162354-train-simulator-2021-first-capital-connect-class-321-emu.json"
     },
     {
+      "igdb_id": 162537,
+      "game_name": "Train Simulator 2021: Frankfurt High Speed - Frankfurt: Karlsruhe Route Extension",
+      "file": "missing/T/162537-train-simulator-2021-frankfurt-high-speed-frankfurt-karlsruhe-route-extension.json"
+    },
+    {
       "igdb_id": 162337,
       "game_name": "Train Simulator 2021: Freightliner Class 57/0 Loco",
       "file": "missing/T/162337-train-simulator-2021-freightliner-class-57-0-loco.json"
@@ -1287127,6 +1287172,16 @@
       "file": "missing/T/156337-train-simulator-br-class-105-dmu-add-on.json"
     },
     {
+      "igdb_id": 162561,
+      "game_name": "Train Simulator: BR Class 40 '40145' Loco Add-On",
+      "file": "missing/T/162561-train-simulator-br-class-40-40145-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162562,
+      "game_name": "Train Simulator: BR Standard Class 2MT Loco Add-On",
+      "file": "missing/T/162562-train-simulator-br-standard-class-2mt-loco-add-on.json"
+    },
+    {
       "igdb_id": 156460,
       "game_name": "Train Simulator: Bristol-Exeter Route Add-On",
       "file": "missing/T/156460-train-simulator-bristol-exeter-route-add-on.json"
@@ -1287192,6 +1287247,11 @@
       "file": "missing/T/91804-train-simulator-chuo-sen-201-kei.json"
     },
     {
+      "igdb_id": 162557,
+      "game_name": "Train Simulator: Class J94 ‘Memories of Maerdy’ Loco Add-On",
+      "file": "missing/T/162557-train-simulator-class-j94-memories-of-maerdy-loco-add-on.json"
+    },
+    {
       "igdb_id": 156410,
       "game_name": "Train Simulator: Clear Creek Narrow Gauge Route Add-On",
       "file": "missing/T/156410-train-simulator-clear-creek-narrow-gauge-route-add-on.json"
@@ -1287217,6 +1287277,11 @@
       "file": "missing/T/156445-train-simulator-corris-railway-route-add-on.json"
     },
     {
+      "igdb_id": 162556,
+      "game_name": "Train Simulator: CRH380D EMU Add-On",
+      "file": "missing/T/162556-train-simulator-crh380d-emu-add-on.json"
+    },
+    {
       "igdb_id": 156449,
       "game_name": "Train Simulator: CSX Hanover Subdivision: Hanover - Hagerstown Route Add-On",
       "file": "missing/T/156449-train-simulator-csx-hanover-subdivision-hanover-hagerstown-route-add-on.json"
@@ -1287227,9 +1287292,29 @@
       "file": "missing/T/191017-train-simulator-csx-sd45-2-loco.json"
     },
     {
+      "igdb_id": 162543,
+      "game_name": "Train Simulator: DB BR 112.1 Loco Add-On",
+      "file": "missing/T/162543-train-simulator-db-br-112-1-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162553,
+      "game_name": "Train Simulator: DB BR 151 Loco Add-On",
+      "file": "missing/T/162553-train-simulator-db-br-151-loco-add-on.json"
+    },
+    {
       "igdb_id": 191014,
       "game_name": "Train Simulator: DB BR 187 Loco",
       "file": "missing/T/191014-train-simulator-db-br-187-loco.json"
+    },
+    {
+      "igdb_id": 162550,
+      "game_name": "Train Simulator: DB BR 218 Loco Add-On",
+      "file": "missing/T/162550-train-simulator-db-br-218-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162549,
+      "game_name": "Train Simulator: DB BR 440 ‘Coradia Continental’ Loco Add-On",
+      "file": "missing/T/162549-train-simulator-db-br-440-coradia-continental-loco-add-on.json"
     },
     {
       "igdb_id": 91802,
@@ -1287287,6 +1287372,11 @@
       "file": "missing/T/156351-train-simulator-ennstalbahn-bishofshofen-selzthal-route-add-on.json"
     },
     {
+      "igdb_id": 162548,
+      "game_name": "Train Simulator: EWS & Freightliner Class 08s Loco Add-On",
+      "file": "missing/T/162548-train-simulator-ews-and-freightliner-class-08s-loco-add-on.json"
+    },
+    {
       "igdb_id": 156488,
       "game_name": "Train Simulator: Falmouth Branch Route Add-On",
       "file": "missing/T/156488-train-simulator-falmouth-branch-route-add-on.json"
@@ -1287305,6 +1287395,11 @@
       "igdb_id": 156338,
       "game_name": "Train Simulator: Fife Circle Line: Edinburgh - Dunfermline Route Add-On",
       "file": "missing/T/156338-train-simulator-fife-circle-line-edinburgh-dunfermline-route-add-on.json"
+    },
+    {
+      "igdb_id": 162564,
+      "game_name": "Train Simulator: First Capital Connect Class 377 EMU Add-On",
+      "file": "missing/T/162564-train-simulator-first-capital-connect-class-377-emu-add-on.json"
     },
     {
       "igdb_id": 227134,
@@ -1287330,6 +1287425,11 @@
       "igdb_id": 156361,
       "game_name": "Train Simulator: Frankfurt U-Bahn Route Add-On",
       "file": "missing/T/156361-train-simulator-frankfurt-u-bahn-route-add-on.json"
+    },
+    {
+      "igdb_id": 162542,
+      "game_name": "Train Simulator: GEML BR Class 315 EMU Add-On",
+      "file": "missing/T/162542-train-simulator-geml-br-class-315-emu-add-on.json"
     },
     {
       "igdb_id": 156478,
@@ -1287365,6 +1287465,11 @@
       "igdb_id": 156446,
       "game_name": "Train Simulator: Guiguang High Speed Railway: Guilin - Hezhou Route Add-On",
       "file": "missing/T/156446-train-simulator-guiguang-high-speed-railway-guilin-hezhou-route-add-on.json"
+    },
+    {
+      "igdb_id": 162552,
+      "game_name": "Train Simulator: GWR Class 14XX Loco Add-On",
+      "file": "missing/T/162552-train-simulator-gwr-class-14xx-loco-add-on.json"
     },
     {
       "igdb_id": 156391,
@@ -1287497,6 +1287602,11 @@
       "file": "missing/T/156383-train-simulator-longhai-railway-lingbao-mianchi-route-add-on.json"
     },
     {
+      "igdb_id": 162545,
+      "game_name": "Train Simulator: Los Angeles Commuter Rail F59PH Loco Add-On",
+      "file": "missing/T/162545-train-simulator-los-angeles-commuter-rail-f59ph-loco-add-on.json"
+    },
+    {
       "igdb_id": 156464,
       "game_name": "Train Simulator: Malmesbury Branch Route Add-On",
       "file": "missing/T/156464-train-simulator-malmesbury-branch-route-add-on.json"
@@ -1287510,6 +1287620,11 @@
       "igdb_id": 156348,
       "game_name": "Train Simulator: Marsdonshire Route Add-On",
       "file": "missing/T/156348-train-simulator-marsdonshire-route-add-on.json"
+    },
+    {
+      "igdb_id": 162567,
+      "game_name": "Train Simulator: Metro-North P32 AC-DM 'Genesis' Loco Add-On",
+      "file": "missing/T/162567-train-simulator-metro-north-p32-ac-dm-genesis-loco-add-on.json"
     },
     {
       "igdb_id": 156484,
@@ -1287602,9 +1287717,24 @@
       "file": "missing/T/323658-train-simulator-nanbu-juukan-tetsudou.json"
     },
     {
+      "igdb_id": 162538,
+      "game_name": "Train Simulator: New Haven DL-109 Loco Add-On",
+      "file": "missing/T/162538-train-simulator-new-haven-dl-109-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162536,
+      "game_name": "Train Simulator: New Haven E-33 Loco Add-On",
+      "file": "missing/T/162536-train-simulator-new-haven-e-33-loco-add-on.json"
+    },
+    {
       "igdb_id": 191025,
       "game_name": "Train Simulator: New Zealand DJ Loco Pack",
       "file": "missing/T/191025-train-simulator-new-zealand-dj-loco-pack.json"
+    },
+    {
+      "igdb_id": 162539,
+      "game_name": "Train Simulator: NJ TRANSIT Arrow III EMU Add-On",
+      "file": "missing/T/162539-train-simulator-nj-transit-arrow-iii-emu-add-on.json"
     },
     {
       "igdb_id": 156390,
@@ -1287652,6 +1287782,21 @@
       "file": "missing/T/156380-train-simulator-northeast-corridor-washington-dc-baltimore-route-add-on.json"
     },
     {
+      "igdb_id": 162568,
+      "game_name": "Train Simulator: Nuremberg & Regensburg Bahn",
+      "file": "missing/T/162568-train-simulator-nuremberg-and-regensburg-bahn.json"
+    },
+    {
+      "igdb_id": 162544,
+      "game_name": "Train Simulator: ÖBB 1142 Loco Add-On",
+      "file": "missing/T/162544-train-simulator-obb-1142-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162546,
+      "game_name": "Train Simulator: ÖBB 4023 ‘Talent' EMU Add-On",
+      "file": "missing/T/162546-train-simulator-obb-4023-talent-emu-add-on.json"
+    },
+    {
       "igdb_id": 212598,
       "game_name": "Train Simulator: ÖBB 4746 Cityjet EMU",
       "file": "missing/T/212598-train-simulator-obb-4746-cityjet-emu.json"
@@ -1287697,6 +1287842,16 @@
       "file": "missing/T/156473-train-simulator-promontory-summit-route-add-on.json"
     },
     {
+      "igdb_id": 162551,
+      "game_name": "Train Simulator: PRR GE 44 Loco Add-On",
+      "file": "missing/T/162551-train-simulator-prr-ge-44-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162540,
+      "game_name": "Train Simulator: PRR GG1 Loco Add-On",
+      "file": "missing/T/162540-train-simulator-prr-gg1-loco-add-on.json"
+    },
+    {
       "igdb_id": 156482,
       "game_name": "Train Simulator: Rascal & Cottonwood Route Add-On",
       "file": "missing/T/156482-train-simulator-rascal-and-cottonwood-route-add-on.json"
@@ -1287705,6 +1287860,11 @@
       "igdb_id": 156447,
       "game_name": "Train Simulator: Raton Pass: Trinidad - Raton Route Add-On",
       "file": "missing/T/156447-train-simulator-raton-pass-trinidad-raton-route-add-on.json"
+    },
+    {
+      "igdb_id": 162558,
+      "game_name": "Train Simulator: Regional Railways BR Class 142 'Pacer' DMU",
+      "file": "missing/T/162558-train-simulator-regional-railways-br-class-142-pacer-dmu.json"
     },
     {
       "igdb_id": 156491,
@@ -1287735,6 +1287895,11 @@
       "igdb_id": 191023,
       "game_name": "Train Simulator: Salzburg - Mühldorf Route",
       "file": "missing/T/191023-train-simulator-salzburg-muhldorf-route.json"
+    },
+    {
+      "igdb_id": 162554,
+      "game_name": "Train Simulator: ScotRail Class 68 Loco Add-on",
+      "file": "missing/T/162554-train-simulator-scotrail-class-68-loco-add-on.json"
     },
     {
       "igdb_id": 323661,
@@ -1287787,6 +1287952,21 @@
       "file": "missing/T/156443-train-simulator-south-western-main-line-southampton-bournemouth-route-add-on.json"
     },
     {
+      "igdb_id": 162559,
+      "game_name": "Train Simulator: Southern Class 421 ‘4CIG’ EMU Add-On",
+      "file": "missing/T/162559-train-simulator-southern-class-421-4cig-emu-add-on.json"
+    },
+    {
+      "igdb_id": 162547,
+      "game_name": "Train Simulator: Southern Pacific GE 44 Loco Add-On",
+      "file": "missing/T/162547-train-simulator-southern-pacific-ge-44-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162560,
+      "game_name": "Train Simulator: Southern Pacific SD45T-2 Loco Add-On",
+      "file": "missing/T/162560-train-simulator-southern-pacific-sd45t-2-loco-add-on.json"
+    },
+    {
       "igdb_id": 154254,
       "game_name": "Train Simulator: Southern Pacific U33C Loco Add-On",
       "file": "missing/T/154254-train-simulator-southern-pacific-u33c-loco-add-on.json"
@@ -1287815,6 +1287995,11 @@
       "igdb_id": 156349,
       "game_name": "Train Simulator: Surselva Line: Reichenau-Tamins - Disentis/Mustér Route Add-On",
       "file": "missing/T/156349-train-simulator-surselva-line-reichenau-tamins-disentis-muster-route-add-on.json"
+    },
+    {
+      "igdb_id": 162555,
+      "game_name": "Train Simulator: SŽ Series 363 Loco Add-On",
+      "file": "missing/T/162555-train-simulator-sz-series-363-loco-add-on.json"
     },
     {
       "igdb_id": 156470,
@@ -1287877,6 +1288062,16 @@
       "file": "missing/T/162338-train-simulator-uk-military-wagon-pack.json"
     },
     {
+      "igdb_id": 162563,
+      "game_name": "Train Simulator: Union Pacific DD35 Add-On",
+      "file": "missing/T/162563-train-simulator-union-pacific-dd35-add-on.json"
+    },
+    {
+      "igdb_id": 162566,
+      "game_name": "Train Simulator: Union Pacific DDA40X Centennial Loco Add-On",
+      "file": "missing/T/162566-train-simulator-union-pacific-dda40x-centennial-loco-add-on.json"
+    },
+    {
       "igdb_id": 195436,
       "game_name": "Train Simulator: Union Pacific F3 Loco",
       "file": "missing/T/195436-train-simulator-union-pacific-f3-loco.json"
@@ -1287895,6 +1288090,16 @@
       "igdb_id": 156343,
       "game_name": "Train Simulator: Union Pacific Heritage SD70ACes Loco Add-On",
       "file": "missing/T/156343-train-simulator-union-pacific-heritage-sd70aces-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162541,
+      "game_name": "Train Simulator: Union Pacific SD45 Loco Add-On",
+      "file": "missing/T/162541-train-simulator-union-pacific-sd45-loco-add-on.json"
+    },
+    {
+      "igdb_id": 162565,
+      "game_name": "Train Simulator: Union Pacific U50 Loco Add-On",
+      "file": "missing/T/162565-train-simulator-union-pacific-u50-loco-add-on.json"
     },
     {
       "igdb_id": 156453,
@@ -1291707,6 +1291912,11 @@
       "file": "missing/T/162686-trainz-a-new-era-bnsf-ge-dash-9-44cw-warbonnet.json"
     },
     {
+      "igdb_id": 162636,
+      "game_name": "Trainz: A New Era - BNSF GP38-2 Pumpkins 2 Pack",
+      "file": "missing/T/162636-trainz-a-new-era-bnsf-gp38-2-pumpkins-2-pack.json"
+    },
+    {
       "igdb_id": 162626,
       "game_name": "Trainz: A New Era - C&O 2-6-6-6 H8: New River Mining Coal Run",
       "file": "missing/T/162626-trainz-a-new-era-c-and-o-2-6-6-6-h8-new-river-mining-coal-run.json"
@@ -1291735,6 +1291945,11 @@
       "igdb_id": 162663,
       "game_name": "Trainz: A New Era - CO17-1171 Russian Loco and Tender",
       "file": "missing/T/162663-trainz-a-new-era-co17-1171-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 162635,
+      "game_name": "Trainz: A New Era - CO17-1374 Russian Loco and Tender",
+      "file": "missing/T/162635-trainz-a-new-era-co17-1374-russian-loco-and-tender.json"
     },
     {
       "igdb_id": 162682,
@@ -1291832,6 +1292047,11 @@
       "file": "missing/T/162668-trainz-a-new-era-laaers-car-transporter.json"
     },
     {
+      "igdb_id": 162638,
+      "game_name": "Trainz: A New Era - LMS Coronation Scot",
+      "file": "missing/T/162638-trainz-a-new-era-lms-coronation-scot.json"
+    },
+    {
       "igdb_id": 162631,
       "game_name": "Trainz: A New Era - Newcastle Shunter",
       "file": "missing/T/162631-trainz-a-new-era-newcastle-shunter.json"
@@ -1291870,6 +1292090,11 @@
       "igdb_id": 162644,
       "game_name": "Trainz: A New Era - PRR GP9 (2 Pack)",
       "file": "missing/T/162644-trainz-a-new-era-prr-gp9-2-pack.json"
+    },
+    {
+      "igdb_id": 162633,
+      "game_name": "Trainz: A New Era - PRR T1",
+      "file": "missing/T/162633-trainz-a-new-era-prr-t1.json"
     },
     {
       "igdb_id": 162652,
@@ -1292017,6 +1292242,11 @@
       "file": "missing/T/162691-trainz-a-new-era-sncf-agc-languedoc.json"
     },
     {
+      "igdb_id": 162634,
+      "game_name": "Trainz: A New Era - Southern Pacific GE CW44-9",
+      "file": "missing/T/162634-trainz-a-new-era-southern-pacific-ge-cw44-9.json"
+    },
+    {
       "igdb_id": 162661,
       "game_name": "Trainz: A New Era - TE3-1072",
       "file": "missing/T/162661-trainz-a-new-era-te3-1072.json"
@@ -1292025,6 +1292255,11 @@
       "igdb_id": 162658,
       "game_name": "Trainz: A New Era - TE3-2068",
       "file": "missing/T/162658-trainz-a-new-era-te3-2068.json"
+    },
+    {
+      "igdb_id": 162637,
+      "game_name": "Trainz: A New Era - TE7-083",
+      "file": "missing/T/162637-trainz-a-new-era-te7-083.json"
     },
     {
       "igdb_id": 162653,
@@ -1309315,6 +1309550,11 @@
       "igdb_id": 167352,
       "game_name": "Typing Fingers",
       "file": "missing/T/167352-typing-fingers.json"
+    },
+    {
+      "igdb_id": 162571,
+      "game_name": "Typing Fingers: Enemy",
+      "file": "missing/T/162571-typing-fingers-enemy.json"
     },
     {
       "igdb_id": 374350,
