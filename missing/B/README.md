@@ -7316,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Outbreak Survive | 356225 | [356225-biohazard-outbreak-survive.json](./356225-biohazard-outbreak-survive.json) |
 | Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
 | Biohazard RE: 2 - Z Version: Deluxe Edition | 218546 | [218546-biohazard-re-2-z-version-deluxe-edition.json](./218546-biohazard-re-2-z-version-deluxe-edition.json) |
+| Biohazard RE: 3 - Z Version | 134239 | [134239-biohazard-re-3-z-version.json](./134239-biohazard-re-3-z-version.json) |
 | Biohazard RE:3 - Cloud Z Version | 251752 | [251752-biohazard-re-3-cloud-z-version.json](./251752-biohazard-re-3-cloud-z-version.json) |
 | Biohazard Revival Selection | 44553 | [44553-biohazard-revival-selection.json](./44553-biohazard-revival-selection.json) |
 | Biohazard Survival Door | 356237 | [356237-biohazard-survival-door.json](./356237-biohazard-survival-door.json) |
