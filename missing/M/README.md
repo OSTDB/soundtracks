@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
 | Madden NFL 22 | 243665 | [243665-madden-nfl-22.json](./243665-madden-nfl-22.json) |
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
+| Madden NFL 22: MVP Edition | 153048 | [153048-madden-nfl-22-mvp-edition.json](./153048-madden-nfl-22-mvp-edition.json) |
 | Madden NFL 23 | 203376 | [203376-madden-nfl-23.json](./203376-madden-nfl-23.json) |
 | Madden NFL 23 | 243668 | [243668-madden-nfl-23.json](./243668-madden-nfl-23.json) |
 | Madden NFL 23 Mobile Football | 232618 | [232618-madden-nfl-23-mobile-football.json](./232618-madden-nfl-23-mobile-football.json) |
@@ -7698,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltylancer: Ginga Shoujo Keisatsu 2086 | 60977 | [60977-meltylancer-ginga-shoujo-keisatsu-2086.json](./60977-meltylancer-ginga-shoujo-keisatsu-2086.json) |
 | Meltylancer: The 3rd Planet | 60973 | [60973-meltylancer-the-3rd-planet.json](./60973-meltylancer-the-3rd-planet.json) |
 | Meltylancer: The Melting Pot Police | 340399 | [340399-meltylancer-the-melting-pot-police.json](./340399-meltylancer-the-melting-pot-police.json) |
+| MeltyMoment | 153052 | [153052-meltymoment.json](./153052-meltymoment.json) |
 | MeltyMoment Mini Fandisc: Aoi & Kagami Version | 413642 | [413642-meltymoment-mini-fandisc-aoi-and-kagami-version.json](./413642-meltymoment-mini-fandisc-aoi-and-kagami-version.json) |
 | MeltyMoment Mini Fandisc: Sumire & Chiemi Version | 413645 | [413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json](./413645-meltymoment-mini-fandisc-sumire-and-chiemi-version.json) |
 | Meltys Quest | 74368 | [74368-meltys-quest.json](./74368-meltys-quest.json) |
@@ -8507,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesmerize: Trace | 209526 | [209526-mesmerize-trace.json](./209526-mesmerize-trace.json) |
 | Mesmerizer | 313193 | [313193-mesmerizer.json](./313193-mesmerizer.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
+| Mesobira Island | 153059 | [153059-mesobira-island.json](./153059-mesobira-island.json) |
 | Mesoké | 392109 | [392109-mesoke.json](./392109-mesoke.json) |
 | Mesonoxian | 201630 | [201630-mesonoxian.json](./201630-mesonoxian.json) |
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
@@ -10926,6 +10929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Dungeons: Echoing Void | 164849 | [164849-minecraft-dungeons-echoing-void.json](./164849-minecraft-dungeons-echoing-void.json) |
 | Minecraft Dungeons: Flames of the Nether | 146161 | [146161-minecraft-dungeons-flames-of-the-nether.json](./146161-minecraft-dungeons-flames-of-the-nether.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
+| Minecraft Dungeons: Hidden Depths | 153049 | [153049-minecraft-dungeons-hidden-depths.json](./153049-minecraft-dungeons-hidden-depths.json) |
 | Minecraft Dungeons: Howling Peaks | 142160 | [142160-minecraft-dungeons-howling-peaks.json](./142160-minecraft-dungeons-howling-peaks.json) |
 | Minecraft Dungeons: Jungle Awakens | 135565 | [135565-minecraft-dungeons-jungle-awakens.json](./135565-minecraft-dungeons-jungle-awakens.json) |
 | Minecraft Dungeons: Ultimate DLC Bundle | 164846 | [164846-minecraft-dungeons-ultimate-dlc-bundle.json](./164846-minecraft-dungeons-ultimate-dlc-bundle.json) |
@@ -12005,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Layers | 98557 | [98557-mirror-layers.json](./98557-mirror-layers.json) |
 | Mirror Lover | 187706 | [187706-mirror-lover.json](./187706-mirror-lover.json) |
+| Mirror Magic | 153069 | [153069-mirror-magic.json](./153069-mirror-magic.json) |
 | Mirror Maker | 113690 | [113690-mirror-maker.json](./113690-mirror-maker.json) |
 | Mirror Match | 363965 | [363965-mirror-match.json](./363965-mirror-match.json) |
 | Mirror Mirror | 230701 | [230701-mirror-mirror.json](./230701-mirror-mirror.json) |
@@ -14511,6 +14516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters of Moldred | 310265 | [310265-monsters-of-moldred.json](./310265-monsters-of-moldred.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
 | Monsters of the North | 212083 | [212083-monsters-of-the-north.json](./212083-monsters-of-the-north.json) |
+| Monsters Per Second | 153042 | [153042-monsters-per-second.json](./153042-monsters-per-second.json) |
 | Monsters sandbox | 127085 | [127085-monsters-sandbox.json](./127085-monsters-sandbox.json) |
 | Monsters Tap Tap Music Battle University | 253273 | [253273-monsters-tap-tap-music-battle-university.json](./253273-monsters-tap-tap-music-battle-university.json) |
 | Monsters University | 137564 | [137564-monsters-university.json](./137564-monsters-university.json) |
@@ -18000,6 +18006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
 | My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
+| My Cute Pagangirl | 153037 | [153037-my-cute-pagangirl.json](./153037-my-cute-pagangirl.json) |
 | My Cute Succubus | 224528 | [224528-my-cute-succubus.json](./224528-my-cute-succubus.json) |
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
