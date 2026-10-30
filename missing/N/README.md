@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Pirates of the Sword Coast | 124906 | [124906-neverwinter-nights-pirates-of-the-sword-coast.json](./124906-neverwinter-nights-pirates-of-the-sword-coast.json) |
 | Neverwinter Nights: ShadowGuard | 125300 | [125300-neverwinter-nights-shadowguard.json](./125300-neverwinter-nights-shadowguard.json) |
 | Neverwinter Nights: Shadows of Undrentide | 7899 | [7899-neverwinter-nights-shadows-of-undrentide.json](./7899-neverwinter-nights-shadows-of-undrentide.json) |
+| Neverwinter Nights: Tyrants of the Moonsea | 124967 | [124967-neverwinter-nights-tyrants-of-the-moonsea.json](./124967-neverwinter-nights-tyrants-of-the-moonsea.json) |
 | Neverwinter Nights: Witch's Wake | 125301 | [125301-neverwinter-nights-witchs-wake.json](./125301-neverwinter-nights-witchs-wake.json) |
 | Neverwinter Nights: Wyvern Crown of Cormyr | 124892 | [124892-neverwinter-nights-wyvern-crown-of-cormyr.json](./124892-neverwinter-nights-wyvern-crown-of-cormyr.json) |
 | Neverwinter: Curse of Icewind Dale | 224450 | [224450-neverwinter-curse-of-icewind-dale.json](./224450-neverwinter-curse-of-icewind-dale.json) |
@@ -4193,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares Before Disney | 242467 | [242467-nightmares-before-disney.json](./242467-nightmares-before-disney.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
 | Nightmares from the Deep Collection | 53419 | [53419-nightmares-from-the-deep-collection.json](./53419-nightmares-from-the-deep-collection.json) |
+| Nightmares from the Deep: A Hidden Object Adventure | 124990 | [124990-nightmares-from-the-deep-a-hidden-object-adventure.json](./124990-nightmares-from-the-deep-a-hidden-object-adventure.json) |
 | Nightmares from the Deep: Cursed Heart | 140247 | [140247-nightmares-from-the-deep-cursed-heart.json](./140247-nightmares-from-the-deep-cursed-heart.json) |
 | Nightmares from the Deep: Cursed Heart - Collector's Edition | 54250 | [54250-nightmares-from-the-deep-cursed-heart-collectors-edition.json](./54250-nightmares-from-the-deep-cursed-heart-collectors-edition.json) |
 | Nightmares from the Deep: Davy Jones | 140248 | [140248-nightmares-from-the-deep-davy-jones.json](./140248-nightmares-from-the-deep-davy-jones.json) |
