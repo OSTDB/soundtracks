@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Train Full of Money | 177769 | [177769-a-train-full-of-money.json](./177769-a-train-full-of-money.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
+| A Traveler's Photo Album | 155301 | [155301-a-travelers-photo-album.json](./155301-a-travelers-photo-album.json) |
 | A Treat and Some Tricks | 312852 | [312852-a-treat-and-some-tricks.json](./312852-a-treat-and-some-tricks.json) |
 | A Trip down Market Street | 175587 | [175587-a-trip-down-market-street.json](./175587-a-trip-down-market-street.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
