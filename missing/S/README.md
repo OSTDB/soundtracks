@@ -9068,6 +9068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sight Insomnia | 364381 | [364381-sight-insomnia.json](./364381-sight-insomnia.json) |
 | Sight Of The Victim: Passenger 23 | 335631 | [335631-sight-of-the-victim-passenger-23.json](./335631-sight-of-the-victim-passenger-23.json) |
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
+| Sightbringer | 157851 | [157851-sightbringer.json](./157851-sightbringer.json) |
 | Sightings from the Deep | 313754 | [313754-sightings-from-the-deep.json](./313754-sightings-from-the-deep.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | SightLineVR | 74763 | [74763-sightlinevr.json](./74763-sightlinevr.json) |
@@ -12106,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Slayer | 298419 | [298419-slime-slayer.json](./298419-slime-slayer.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
+| Slime Sprint | 157859 | [157859-slime-sprint.json](./157859-slime-sprint.json) |
 | Slime Squisher | 331657 | [331657-slime-squisher.json](./331657-slime-squisher.json) |
 | Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
 | Slime Survivor | 256395 | [256395-slime-survivor.json](./256395-slime-survivor.json) |
@@ -20522,6 +20524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy-Trek Adventure | 70060 | [70060-spy-trek-adventure.json](./70060-spy-trek-adventure.json) |
 | Spy's Demise | 23315 | [23315-spys-demise.json](./23315-spys-demise.json) |
 | Spy/Cell | 404994 | [404994-spy-cell.json](./404994-spy-cell.json) |
+| Spycity | 157849 | [157849-spycity.json](./157849-spycity.json) |
 | Spycraft: The Great Game | 2232 | [2232-spycraft-the-great-game.json](./2232-spycraft-the-great-game.json) |
 | Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
 | Spyer | 203735 | [203735-spyer.json](./203735-spyer.json) |
@@ -26128,6 +26131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku for Kids | 67237 | [67237-sudoku-for-kids.json](./67237-sudoku-for-kids.json) |
 | Sudoku for Kids | 88625 | [88625-sudoku-for-kids.json](./88625-sudoku-for-kids.json) |
 | Sudoku for PSP Mini | 131459 | [131459-sudoku-for-psp-mini.json](./131459-sudoku-for-psp-mini.json) |
+| Sudoku Forever | 157852 | [157852-sudoku-forever.json](./157852-sudoku-forever.json) |
 | Sudoku G1 | 266910 | [266910-sudoku-g1.json](./266910-sudoku-g1.json) |
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
 | Sudoku Haven | 408723 | [408723-sudoku-haven.json](./408723-sudoku-haven.json) |
@@ -30391,6 +30395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Dead Poly | 267818 | [267818-survival-dead-poly.json](./267818-survival-dead-poly.json) |
 | Survival Dead Poly: Bow | 274637 | [274637-survival-dead-poly-bow.json](./274637-survival-dead-poly-bow.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
+| Survival Draw | 157861 | [157861-survival-draw.json](./157861-survival-draw.json) |
 | Survival Driver | 29637 | [29637-survival-driver.json](./29637-survival-driver.json) |
 | Survival driver 2: Heavy vehicles | 55277 | [55277-survival-driver-2-heavy-vehicles.json](./55277-survival-driver-2-heavy-vehicles.json) |
 | Survival Engine | 167561 | [167561-survival-engine.json](./167561-survival-engine.json) |
