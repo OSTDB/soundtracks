@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads Up! Hot Dogs | 175345 | [175345-heads-up-hot-dogs.json](./175345-heads-up-hot-dogs.json) |
 | Heads Up! Netflix Edition | 362897 | [362897-heads-up-netflix-edition.json](./362897-heads-up-netflix-edition.json) |
 | Heads Up! Phones Down Edition | 275797 | [275797-heads-up-phones-down-edition.json](./275797-heads-up-phones-down-edition.json) |
+| Heads Will Roll | 165919 | [165919-heads-will-roll.json](./165919-heads-will-roll.json) |
 | Heads Will Roll: Reforged | 197592 | [197592-heads-will-roll-reforged.json](./197592-heads-will-roll-reforged.json) |
 | Heads Will Roll: Reforged - Happily Ever After | 286551 | [286551-heads-will-roll-reforged-happily-ever-after.json](./286551-heads-will-roll-reforged-happily-ever-after.json) |
 | Heads Will Roll: Reforged - Not a Hero | 296904 | [296904-heads-will-roll-reforged-not-a-hero.json](./296904-heads-will-roll-reforged-not-a-hero.json) |
