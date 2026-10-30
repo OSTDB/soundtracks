@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenga | 91317 | [91317-jenga.json](./91317-jenga.json) |
 | Jenga Cat | 336649 | [336649-jenga-cat.json](./336649-jenga-cat.json) |
 | Jenga World Tour | 4941 | [4941-jenga-world-tour.json](./4941-jenga-world-tour.json) |
+| Jenka's Nightmare | 132990 | [132990-jenkas-nightmare.json](./132990-jenkas-nightmare.json) |
 | Jenni's Dong has got it Goin' On: The Jenni Trilogy | 226854 | [226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json](./226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json) |
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
