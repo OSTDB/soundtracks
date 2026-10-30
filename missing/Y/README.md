@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume no Kirby | 223861 | [223861-yume-no-kirby.json](./223861-yume-no-kirby.json) |
 | Yume no Mata Yume | 166438 | [166438-yume-no-mata-yume.json](./166438-yume-no-mata-yume.json) |
 | Yume no Office | 255546 | [255546-yume-no-office.json](./255546-yume-no-office.json) |
+| Yume no Pro Yakyuu | 141425 | [141425-yume-no-pro-yakyuu.json](./141425-yume-no-pro-yakyuu.json) |
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
 | Yume Noroi | 166426 | [166426-yume-noroi.json](./166426-yume-noroi.json) |
 | Yume Nyaki | 201639 | [201639-yume-nyaki.json](./201639-yume-nyaki.json) |
