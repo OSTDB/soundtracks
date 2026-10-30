@@ -7283,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminator | 238557 | [238557-exterminator.json](./238557-exterminator.json) |
 | Exterminator | 290376 | [290376-exterminator.json](./290376-exterminator.json) |
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
+| Exterminator Simulator | 129966 | [129966-exterminator-simulator.json](./129966-exterminator-simulator.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminatus: A Grim Odyssey | 370472 | [370472-exterminatus-a-grim-odyssey.json](./370472-exterminatus-a-grim-odyssey.json) |
 | Exterminatus: Rival Species 2 | 350395 | [350395-exterminatus-rival-species-2.json](./350395-exterminatus-rival-species-2.json) |
