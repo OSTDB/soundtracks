@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara's Mysterious Restorations | 210213 | [210213-laras-mysterious-restorations.json](./210213-laras-mysterious-restorations.json) |
 | Laraan | 32303 | [32303-laraan.json](./32303-laraan.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
+| Larax & Zaco | 129402 | [129402-larax-and-zaco.json](./129402-larax-and-zaco.json) |
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
 | Larcin Lazer | 169792 | [169792-larcin-lazer.json](./169792-larcin-lazer.json) |
 | Larentia | 330748 | [330748-larentia.json](./330748-larentia.json) |
@@ -6699,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Train | 179447 | [179447-loop-train.json](./179447-loop-train.json) |
 | Loop x Loop | 414105 | [414105-loop-x-loop.json](./414105-loop-x-loop.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
+| Loop-Loop DX | 129382 | [129382-loop-loop-dx.json](./129382-loop-loop-dx.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
 | Loop2Loop | 183776 | [183776-loop2loop.json](./183776-loop2loop.json) |
