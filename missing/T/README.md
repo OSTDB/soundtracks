@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman Codes | 406518 | [406518-talisman-codes.json](./406518-talisman-codes.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman Ultimate Upgrade Bundle | 404556 | [404556-talisman-ultimate-upgrade-bundle.json](./404556-talisman-ultimate-upgrade-bundle.json) |
+| Talisman: Complete Runestone Deck | 168518 | [168518-talisman-complete-runestone-deck.json](./168518-talisman-complete-runestone-deck.json) |
 | Talisman: Digital 5th Edition | 302175 | [302175-talisman-digital-5th-edition.json](./302175-talisman-digital-5th-edition.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
 | Talisman: Digital Edition | 10952 | [10952-talisman-digital-edition.json](./10952-talisman-digital-edition.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - Witch Hunter | 149077 | [149077-talisman-digital-edition-witch-hunter.json](./149077-talisman-digital-edition-witch-hunter.json) |
 | Talisman: Digital Edition - Woodsman | 149068 | [149068-talisman-digital-edition-woodsman.json](./149068-talisman-digital-edition-woodsman.json) |
 | Talisman: Expansion Pack #3 | 252617 | [252617-talisman-expansion-pack-3.json](./252617-talisman-expansion-pack-3.json) |
+| Talisman: Legendary Deck | 168516 | [168516-talisman-legendary-deck.json](./168516-talisman-legendary-deck.json) |
 | Talisman: Origins | 117644 | [117644-talisman-origins.json](./117644-talisman-origins.json) |
 | Talisman: Origins - Beyond the Veil | 149003 | [149003-talisman-origins-beyond-the-veil.json](./149003-talisman-origins-beyond-the-veil.json) |
 | Talisman: Origins - The Eternal Conflict | 149005 | [149005-talisman-origins-the-eternal-conflict.json](./149005-talisman-origins-the-eternal-conflict.json) |
@@ -1383,9 +1385,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: The Dungeon Expansion - Legendary Deck | 344576 | [344576-talisman-the-dungeon-expansion-legendary-deck.json](./344576-talisman-the-dungeon-expansion-legendary-deck.json) |
 | Talisman: The Firelands | 149057 | [149057-talisman-the-firelands.json](./149057-talisman-the-firelands.json) |
 | Talisman: The Harbinger | 149022 | [149022-talisman-the-harbinger.json](./149022-talisman-the-harbinger.json) |
+| Talisman: The Highland Expansion - Legendary Deck | 168517 | [168517-talisman-the-highland-expansion-legendary-deck.json](./168517-talisman-the-highland-expansion-legendary-deck.json) |
 | Talisman: The Horus Heresy | 18086 | [18086-talisman-the-horus-heresy.json](./18086-talisman-the-horus-heresy.json) |
 | Talisman: The Nether Realm | 149015 | [149015-talisman-the-nether-realm.json](./149015-talisman-the-nether-realm.json) |
 | Talisman: The Realm of Souls | 149012 | [149012-talisman-the-realm-of-souls.json](./149012-talisman-the-realm-of-souls.json) |
+| Talisman: The Reaper Expansion - Legendary Deck | 168515 | [168515-talisman-the-reaper-expansion-legendary-deck.json](./168515-talisman-the-reaper-expansion-legendary-deck.json) |
 | Talisman: The Woodland | 149081 | [149081-talisman-the-woodland.json](./149081-talisman-the-woodland.json) |
 | Talismania Deluxe | 27814 | [27814-talismania-deluxe.json](./27814-talismania-deluxe.json) |
 | Talk About Something in the Nowhere | 419142 | [419142-talk-about-something-in-the-nowhere.json](./419142-talk-about-something-in-the-nowhere.json) |
@@ -12044,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
 | The Maiden and the Cow | 349087 | [349087-the-maiden-and-the-cow.json](./349087-the-maiden-and-the-cow.json) |
+| The Maiden, the Butler, and the Witch | 168566 | [168566-the-maiden-the-butler-and-the-witch.json](./168566-the-maiden-the-butler-and-the-witch.json) |
 | The Mailroom | 365273 | [365273-the-mailroom.json](./365273-the-mailroom.json) |
 | The Maimed God's Saga | 348380 | [348380-the-maimed-gods-saga.json](./348380-the-maimed-gods-saga.json) |
 | The Main Event | 39499 | [39499-the-main-event.json](./39499-the-main-event.json) |
@@ -15828,6 +15833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tooth Fae | 374729 | [374729-the-tooth-fae.json](./374729-the-tooth-fae.json) |
 | The Top | 214124 | [214124-the-top.json](./214124-the-top.json) |
 | The Top Hat Club | 265742 | [265742-the-top-hat-club.json](./265742-the-top-hat-club.json) |
+| The Top of the Dream | 168562 | [168562-the-top-of-the-dream.json](./168562-the-top-of-the-dream.json) |
 | The Toroidal Tower | 182130 | [182130-the-toroidal-tower.json](./182130-the-toroidal-tower.json) |
 | The Tortile Chamber | 182156 | [182156-the-tortile-chamber.json](./182156-the-tortile-chamber.json) |
 | The Tortoise and the Hare | 304524 | [304524-the-tortoise-and-the-hare.json](./304524-the-tortoise-and-the-hare.json) |
@@ -18541,6 +18547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiandao | 419957 | [419957-tiandao.json](./419957-tiandao.json) |
 | Tiāndào: Gōngdé Chāojí Bāo | 347223 | [347223-tiandao-gongde-chaoji-bao.json](./347223-tiandao-gongde-chaoji-bao.json) |
 | Tiāndào: Gōngdé Dà Lǐ Bāo | 347224 | [347224-tiandao-gongde-da-li-bao.json](./347224-tiandao-gongde-da-li-bao.json) |
+| Tiani | 168528 | [168528-tiani.json](./168528-tiani.json) |
 | Tianji: Shadow of the Ancients | 416886 | [416886-tianji-shadow-of-the-ancients.json](./416886-tianji-shadow-of-the-ancients.json) |
 | Tianlao Sokoban | 107820 | [107820-tianlao-sokoban.json](./107820-tianlao-sokoban.json) |
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
@@ -23562,6 +23569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer: Foresight | 289024 | [289024-touhou-genso-wanderer-foresight.json](./289024-touhou-genso-wanderer-foresight.json) |
 | Touhou Genso Wanderer: Foresight - Reimu Hakurei Elegant Shrine Maiden Robe | 317669 | [317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json](./317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json) |
 | Touhou Genso Wanderer: Foresight - Reimu Hakurei Winter Costume | 310484 | [310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json](./310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json) |
+| Touhou Genso Wanderer: Limited Edition | 168553 | [168553-touhou-genso-wanderer-limited-edition.json](./168553-touhou-genso-wanderer-limited-edition.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth | 100675 | [100675-touhou-genso-wanderer-lotus-labyrinth.json](./100675-touhou-genso-wanderer-lotus-labyrinth.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth - Lotus Friends | 212591 | [212591-touhou-genso-wanderer-lotus-labyrinth-lotus-friends.json](./212591-touhou-genso-wanderer-lotus-labyrinth-lotus-friends.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth R | 173124 | [173124-touhou-genso-wanderer-lotus-labyrinth-r.json](./173124-touhou-genso-wanderer-lotus-labyrinth-r.json) |
@@ -24534,6 +24542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traceur's Dreamlab VR | 148820 | [148820-traceurs-dreamlab-vr.json](./148820-traceurs-dreamlab-vr.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
+| Track | 168567 | [168567-track.json](./168567-track.json) |
 | Track & Burn | 176093 | [176093-track-and-burn.json](./176093-track-and-burn.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track & Field | 266658 | [266658-track-and-field.json](./266658-track-and-field.json) |
