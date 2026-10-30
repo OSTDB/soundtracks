@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14141,6 +14142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliant Hamsters! | 62569 | [62569-brilliant-hamsters.json](./62569-brilliant-hamsters.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
 | Brilliant Shadows: Part One of the Book of Gray Magic | 34291 | [34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json](./34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json) |
+| Brimhelm | 129384 | [129384-brimhelm.json](./129384-brimhelm.json) |
 | Brimstone | 25894 | [25894-brimstone.json](./25894-brimstone.json) |
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
 | Brimstone | 347874 | [347874-brimstone.json](./347874-brimstone.json) |
