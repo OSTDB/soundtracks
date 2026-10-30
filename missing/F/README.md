@@ -5163,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire & Forget: The Final Assault | 53041 | [53041-fire-and-forget-the-final-assault.json](./53041-fire-and-forget-the-final-assault.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Light: Thrones of Tyberion | 364878 | [364878-fire-and-light-thrones-of-tyberion.json](./364878-fire-and-light-thrones-of-tyberion.json) |
+| Fire & Maneuver | 159490 | [159490-fire-and-maneuver.json](./159490-fire-and-maneuver.json) |
 | Fire & Maneuver: American Civil War | 211899 | [211899-fire-and-maneuver-american-civil-war.json](./211899-fire-and-maneuver-american-civil-war.json) |
 | Fire & Reign | 195959 | [195959-fire-and-reign.json](./195959-fire-and-reign.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
@@ -6768,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flay the Obscene: Reversed | 263412 | [263412-flay-the-obscene-reversed.json](./263412-flay-the-obscene-reversed.json) |
 | Flayl | 249829 | [249829-flayl.json](./249829-flayl.json) |
 | FLChess | 334812 | [334812-flchess.json](./334812-flchess.json) |
+| FLChess 2 | 159505 | [159505-flchess-2.json](./159505-flchess-2.json) |
 | Flea Market Simulator '24 | 285326 | [285326-flea-market-simulator-24.json](./285326-flea-market-simulator-24.json) |
 | Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
 | Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
@@ -9812,6 +9814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Seduce: Hentai | 248436 | [248436-fps-seduce-hentai.json](./248436-fps-seduce-hentai.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
+| FPS Tactics | 159492 | [159492-fps-tactics.json](./159492-fps-tactics.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
 | FPS Training | 130278 | [130278-fps-training.json](./130278-fps-training.json) |
 | FPS War | 240389 | [240389-fps-war.json](./240389-fps-war.json) |
