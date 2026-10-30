@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Hat | 137515 | [137515-magical-hat.json](./137515-magical-hat.json) |
 | Magical Hat no Buttobi Turbo! Daibouken | 4472 | [4472-magical-hat-no-buttobi-turbo-daibouken.json](./4472-magical-hat-no-buttobi-turbo-daibouken.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
+| Magical Hop | 133623 | [133623-magical-hop.json](./133623-magical-hop.json) |
 | Magical Houshin | 248471 | [248471-magical-houshin.json](./248471-magical-houshin.json) |
 | Magical Houshin | 49707 | [49707-magical-houshin.json](./49707-magical-houshin.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday | 392860 | [392860-mayday.json](./392860-mayday.json) |
 | MayDay MayDie | 405973 | [405973-mayday-maydie.json](./405973-mayday-maydie.json) |
+| Mayday Memory | 133602 | [133602-mayday-memory.json](./133602-mayday-memory.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
@@ -12415,6 +12417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission to Jupiter | 387635 | [387635-mission-to-jupiter.json](./387635-mission-to-jupiter.json) |
 | Mission to Mars | 387554 | [387554-mission-to-mars.json](./387554-mission-to-mars.json) |
 | Mission To Mars 3D | 259566 | [259566-mission-to-mars-3d.json](./259566-mission-to-mars-3d.json) |
+| Mission to McDonaldland | 133594 | [133594-mission-to-mcdonaldland.json](./133594-mission-to-mcdonaldland.json) |
 | Mission to Mercury | 388209 | [388209-mission-to-mercury.json](./388209-mission-to-mercury.json) |
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
 | Mission to Saturn | 387565 | [387565-mission-to-saturn.json](./387565-mission-to-saturn.json) |
@@ -14919,6 +14922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight | 422035 | [422035-moonlight.json](./422035-moonlight.json) |
 | MoonLight | 344831 | [344831-moonlight.json](./344831-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
+| Moonlight Basket | 133629 | [133629-moonlight-basket.json](./133629-moonlight-basket.json) |
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
