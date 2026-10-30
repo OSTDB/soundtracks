@@ -3672,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feydome: Fairy Dress Up | 272323 | [272323-feydome-fairy-dress-up.json](./272323-feydome-fairy-dress-up.json) |
 | Feyght | 189043 | [189043-feyght.json](./189043-feyght.json) |
 | Feyhearth: the Art of Handling Extraordinary Clientele | 396354 | [396354-feyhearth-the-art-of-handling-extraordinary-clientele.json](./396354-feyhearth-the-art-of-handling-extraordinary-clientele.json) |
+| Feylin | 164188 | [164188-feylin.json](./164188-feylin.json) |
 | Feyruna - Fairy Forest | 73134 | [73134-feyruna-fairy-forest.json](./73134-feyruna-fairy-forest.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
 | Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
@@ -6171,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Days of Hell | 261631 | [261631-five-days-of-hell.json](./261631-five-days-of-hell.json) |
 | Five dreams | 189953 | [189953-five-dreams.json](./189953-five-dreams.json) |
 | Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
+| Five Elements Chess | 164179 | [164179-five-elements-chess.json](./164179-five-elements-chess.json) |
 | Five elements for 24! | 289252 | [289252-five-elements-for-24.json](./289252-five-elements-for-24.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Finger Discount | 297077 | [297077-five-finger-discount.json](./297077-five-finger-discount.json) |
