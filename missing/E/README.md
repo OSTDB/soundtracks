@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
 | Enigma | 257825 | [257825-enigma.json](./257825-enigma.json) |
 | Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
+| Enigma Adventure Studio | 131133 | [131133-enigma-adventure-studio.json](./131133-enigma-adventure-studio.json) |
 | Enigma Awaken | 311517 | [311517-enigma-awaken.json](./311517-enigma-awaken.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
