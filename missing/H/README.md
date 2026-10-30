@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H-Hour: World's Elite | 17229 | [17229-h-hour-worlds-elite.json](./17229-h-hour-worlds-elite.json) |
 | H-Isekai Loves | 164091 | [164091-h-isekai-loves.json](./164091-h-isekai-loves.json) |
 | H-Rescue | 227667 | [227667-h-rescue.json](./227667-h-rescue.json) |
+| H-Sniper: World War II | 173992 | [173992-h-sniper-world-war-ii.json](./173992-h-sniper-world-war-ii.json) |
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
 | H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
