@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogenic | 349463 | [349463-pathogenic.json](./349463-pathogenic.json) |
 | Pathologic | 8074 | [8074-pathologic.json](./8074-pathologic.json) |
 | Pathologic 2 | 55322 | [55322-pathologic-2.json](./55322-pathologic-2.json) |
+| Pathologic 2 + Marble Nest DLC Bundle | 165881 | [165881-pathologic-2-marble-nest-dlc-bundle.json](./165881-pathologic-2-marble-nest-dlc-bundle.json) |
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
 | Pathologic Classic HD | 13204 | [13204-pathologic-classic-hd.json](./13204-pathologic-classic-hd.json) |
@@ -4650,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online | 21968 | [21968-phantasy-star-online.json](./21968-phantasy-star-online.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
+| Phantasy Star Online 2 New Genesis: Aelio Nadar Deluxe Edition | 165879 | [165879-phantasy-star-online-2-new-genesis-aelio-nadar-deluxe-edition.json](./165879-phantasy-star-online-2-new-genesis-aelio-nadar-deluxe-edition.json) |
 | Phantasy Star Online 2 New Genesis: Cloud Version | 222058 | [222058-phantasy-star-online-2-new-genesis-cloud-version.json](./222058-phantasy-star-online-2-new-genesis-cloud-version.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
 | Phantasy Star Online 2 New Genesis: Sonic Collab - Suits/C-Space Pack | 252612 | [252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json](./252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json) |
@@ -5169,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physician of Armiosion | 401160 | [401160-physician-of-armiosion.json](./401160-physician-of-armiosion.json) |
 | Physician Simulator | 407364 | [407364-physician-simulator.json](./407364-physician-simulator.json) |
 | Physics Balls | 101107 | [101107-physics-balls.json](./101107-physics-balls.json) |
+| Physics Cake | 165925 | [165925-physics-cake.json](./165925-physics-cake.json) |
 | Physics Overdrive | 252935 | [252935-physics-overdrive.json](./252935-physics-overdrive.json) |
 | Physics Playground | 372071 | [372071-physics-playground.json](./372071-physics-playground.json) |
 | Physics Sandbox VR | 168047 | [168047-physics-sandbox-vr.json](./168047-physics-sandbox-vr.json) |
@@ -8241,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Quiz: Learn & Discover - Mystery & Myth | 227773 | [227773-planet-quiz-learn-and-discover-mystery-and-myth.json](./227773-planet-quiz-learn-and-discover-mystery-and-myth.json) |
 | Planet Quiz: Learn & Discover - Trivia | 227782 | [227782-planet-quiz-learn-and-discover-trivia.json](./227782-planet-quiz-learn-and-discover-trivia.json) |
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
+| Planet Racing | 165908 | [165908-planet-racing.json](./165908-planet-racing.json) |
 | Planet Rescue: Animal Emergency | 139116 | [139116-planet-rescue-animal-emergency.json](./139116-planet-rescue-animal-emergency.json) |
 | Planet Rescue: Wildlife Vet | 149267 | [149267-planet-rescue-wildlife-vet.json](./149267-planet-rescue-wildlife-vet.json) |
 | Planet Reserve | 104140 | [104140-planet-reserve.json](./104140-planet-reserve.json) |
