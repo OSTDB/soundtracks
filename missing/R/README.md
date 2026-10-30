@@ -6736,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
 | Rims Racing: Bahrain International Circuit | 174477 | [174477-rims-racing-bahrain-international-circuit.json](./174477-rims-racing-bahrain-international-circuit.json) |
+| Rims Racing: Ultimate Edition | 165880 | [165880-rims-racing-ultimate-edition.json](./165880-rims-racing-ultimate-edition.json) |
 | Rimward Basilisk | 367758 | [367758-rimward-basilisk.json](./367758-rimward-basilisk.json) |
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
 | RimWorld: Biotech | 220558 | [220558-rimworld-biotech.json](./220558-rimworld-biotech.json) |
@@ -10752,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler's Reign | 201636 | [201636-rulers-reign.json](./201636-rulers-reign.json) |
 | Rulers of Cospaia | 379719 | [379719-rulers-of-cospaia.json](./379719-rulers-of-cospaia.json) |
 | Rules & Rodents | 337435 | [337435-rules-and-rodents.json](./337435-rules-and-rodents.json) |
+| Rules of Alchemy | 165917 | [165917-rules-of-alchemy.json](./165917-rules-of-alchemy.json) |
 | Rules of Destruction | 55679 | [55679-rules-of-destruction.json](./55679-rules-of-destruction.json) |
 | Rules of Engagement | 14421 | [14421-rules-of-engagement.json](./14421-rules-of-engagement.json) |
 | Rules of Engagement 2 | 14420 | [14420-rules-of-engagement-2.json](./14420-rules-of-engagement-2.json) |
