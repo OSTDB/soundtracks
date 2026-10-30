@@ -7502,6 +7502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost with Dinosaurs | 55633 | [55633-lost-with-dinosaurs.json](./55633-lost-with-dinosaurs.json) |
+| Lost Within | 154758 | [154758-lost-within.json](./154758-lost-within.json) |
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost Word of Jenny: Ushinawareta Message | 48434 | [48434-lost-word-of-jenny-ushinawareta-message.json](./48434-lost-word-of-jenny-ushinawareta-message.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
