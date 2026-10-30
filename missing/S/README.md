@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaiBorRai | 292674 | [292674-saiborrai.json](./292674-saiborrai.json) |
 | Saicoro-Puzzle Kura:ssic | 228932 | [228932-saicoro-puzzle-kura-ssic.json](./228932-saicoro-puzzle-kura-ssic.json) |
 | Saier's Light | 103177 | [103177-saiers-light.json](./103177-saiers-light.json) |
+| Saighead | 164183 | [164183-saighead.json](./164183-saighead.json) |
 | Saigo no Nindou | 265040 | [265040-saigo-no-nindou.json](./265040-saigo-no-nindou.json) |
 | Saigo no Uta | 166588 | [166588-saigo-no-uta.json](./166588-saigo-no-uta.json) |
 | Saigon: The Final Days | 73871 | [73871-saigon-the-final-days.json](./73871-saigon-the-final-days.json) |
@@ -5318,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settris | 252269 | [252269-settris.json](./252269-settris.json) |
 | Setuna: Legend of Hamburger 2 | 391108 | [391108-setuna-legend-of-hamburger-2.json](./391108-setuna-legend-of-hamburger-2.json) |
 | Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
+| Setvr | 164185 | [164185-setvr.json](./164185-setvr.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
 | Sev Zero | 21650 | [21650-sev-zero.json](./21650-sev-zero.json) |
@@ -10830,6 +10832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies of Valor | 60865 | [60865-skies-of-valor.json](./60865-skies-of-valor.json) |
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
+| Skiiiiiiiiiiiiiiid | 164170 | [164170-skiiiiiiiiiiiiiiid.json](./164170-skiiiiiiiiiiiiiiid.json) |
 | Skiing | 359299 | [359299-skiing.json](./359299-skiing.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skiing | 5686 | [5686-skiing.json](./5686-skiing.json) |
@@ -16699,6 +16702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulworker Academia | 143053 | [143053-soulworker-academia.json](./143053-soulworker-academia.json) |
 | Soulworker Urban Strategy | 249680 | [249680-soulworker-urban-strategy.json](./249680-soulworker-urban-strategy.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
+| Soulz | 164173 | [164173-soulz.json](./164173-soulz.json) |
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
 | Sound Balling 2 | 379542 | [379542-sound-balling-2.json](./379542-sound-balling-2.json) |
 | Sound Balling 3 | 334756 | [334756-sound-balling-3.json](./334756-sound-balling-3.json) |
@@ -16786,6 +16790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Source Multiplayer Pack | 299099 | [299099-source-multiplayer-pack.json](./299099-source-multiplayer-pack.json) |
 | Source of Power | 179359 | [179359-source-of-power.json](./179359-source-of-power.json) |
+| Source of Survival | 164195 | [164195-source-of-survival.json](./164195-source-of-survival.json) |
 | Source of the Nile: Digital Edition | 293587 | [293587-source-of-the-nile-digital-edition.json](./293587-source-of-the-nile-digital-edition.json) |
 | Sourcebound | 423224 | [423224-sourcebound.json](./423224-sourcebound.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
@@ -16884,6 +16889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Jump Game | 127188 | [127188-soviet-jump-game.json](./127188-soviet-jump-game.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
+| Soviet Simulator | 164194 | [164194-soviet-simulator.json](./164194-soviet-simulator.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
 | Soviet Union 2010 | 267567 | [267567-soviet-union-2010.json](./267567-soviet-union-2010.json) |
 | Soviet Union 2011 | 404414 | [404414-soviet-union-2011.json](./404414-soviet-union-2011.json) |
@@ -20101,6 +20107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
+| Sport Mode | 164166 | [164166-sport-mode.json](./164166-sport-mode.json) |
 | Sport of Kings | 83384 | [83384-sport-of-kings.json](./83384-sport-of-kings.json) |
 | Sport Shooter | 157411 | [157411-sport-shooter.json](./157411-sport-shooter.json) |
 | Sport Shooter: The Eight Galleries | 360914 | [360914-sport-shooter-the-eight-galleries.json](./360914-sport-shooter-the-eight-galleries.json) |
@@ -26504,6 +26511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Delusion: The Girl Only I Can See | 411331 | [411331-summer-delusion-the-girl-only-i-can-see.json](./411331-summer-delusion-the-girl-only-i-can-see.json) |
 | Summer Dino | 239254 | [239254-summer-dino.json](./239254-summer-dino.json) |
+| Summer Dream L-vest-ry | 164193 | [164193-summer-dream-l-vest-ry.json](./164193-summer-dream-l-vest-ry.json) |
 | Summer Events | 41013 | [41013-summer-events.json](./41013-summer-events.json) |
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
 | Summer Fling | 22210 | [22210-summer-fling.json](./22210-summer-fling.json) |
