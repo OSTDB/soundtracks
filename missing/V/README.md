@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity 2X: Dual Core DLC Pack | 250377 | [250377-velocity-2x-dual-core-dlc-pack.json](./250377-velocity-2x-dual-core-dlc-pack.json) |
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
 | Velocity High Speed | 337016 | [337016-velocity-high-speed.json](./337016-velocity-high-speed.json) |
+| Velocity Legends: Action Racing Game | 173983 | [173983-velocity-legends-action-racing-game.json](./173983-velocity-legends-action-racing-game.json) |
 | Velocity One | 357199 | [357199-velocity-one.json](./357199-velocity-one.json) |
 | Velocity Racing: 1000 | 359572 | [359572-velocity-racing-1000.json](./359572-velocity-racing-1000.json) |
 | Velocity Raptor | 145388 | [145388-velocity-raptor.json](./145388-velocity-raptor.json) |
