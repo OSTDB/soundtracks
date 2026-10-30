@@ -862,7 +862,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3536,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Poet | 274914 | [274914-battle-poet.json](./274914-battle-poet.json) |
 | Battle Poker | 51087 | [51087-battle-poker.json](./51087-battle-poker.json) |
 | Battle Polygon | 129022 | [129022-battle-polygon.json](./129022-battle-polygon.json) |
+| Battle Prime | 133596 | [133596-battle-prime.json](./133596-battle-prime.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
 | Battle Puzzle 2048: Queens of the Abyss | 385140 | [385140-battle-puzzle-2048-queens-of-the-abyss.json](./385140-battle-puzzle-2048-queens-of-the-abyss.json) |
@@ -4890,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatfinder | 341983 | [341983-beatfinder.json](./341983-beatfinder.json) |
 | Beatification | 207143 | [207143-beatification.json](./207143-beatification.json) |
 | Beating A Dead Horse With A One-Trick Pony | 111508 | [111508-beating-a-dead-horse-with-a-one-trick-pony.json](./111508-beating-a-dead-horse-with-a-one-trick-pony.json) |
+| Beatitas | 133620 | [133620-beatitas.json](./133620-beatitas.json) |
 | BeatJunkies | 168134 | [168134-beatjunkies.json](./168134-beatjunkies.json) |
 | Beatle Quest | 249628 | [249628-beatle-quest.json](./249628-beatle-quest.json) |
 | Beatless | 174641 | [174641-beatless.json](./174641-beatless.json) |
@@ -5069,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Summer | 367578 | [367578-beautiful-summer.json](./367578-beautiful-summer.json) |
 | Beautiful Ugly | 343375 | [343375-beautiful-ugly.json](./343375-beautiful-ugly.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
+| Beautiful World | 133624 | [133624-beautiful-world.json](./133624-beautiful-world.json) |
 | Beautify Day | 117606 | [117606-beautify-day.json](./117606-beautify-day.json) |
 | Beauty Academy | 84781 | [84781-beauty-academy.json](./84781-beauty-academy.json) |
 | Beauty Agent | 160123 | [160123-beauty-agent.json](./160123-beauty-agent.json) |
@@ -10176,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Pigs 1996 | 199236 | [199236-bloody-pigs-1996.json](./199236-bloody-pigs-1996.json) |
 | Bloody Pulp Fiction | 142685 | [142685-bloody-pulp-fiction.json](./142685-bloody-pulp-fiction.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
+| Bloody Rage | 133590 | [133590-bloody-rage.json](./133590-bloody-rage.json) |
 | Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
 | Bloody Roads, California | 89781 | [89781-bloody-roads-california.json](./89781-bloody-roads-california.json) |
