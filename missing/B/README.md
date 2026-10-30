@@ -15517,6 +15517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
 | Bunker Protection | 281973 | [281973-bunker-protection.json](./281973-bunker-protection.json) |
 | Bunker Renovator | 216649 | [216649-bunker-renovator.json](./216649-bunker-renovator.json) |
+| Bunker Survival | 176098 | [176098-bunker-survival.json](./176098-bunker-survival.json) |
 | Bunker Tidy Up | 417324 | [417324-bunker-tidy-up.json](./417324-bunker-tidy-up.json) |
 | Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
 | Bunker's Shadow | 293113 | [293113-bunkers-shadow.json](./293113-bunkers-shadow.json) |
