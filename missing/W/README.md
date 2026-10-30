@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
 | Watch Dogs + Watch Dogs 2 Double Pack | 136697 | [136697-watch-dogs-watch-dogs-2-double-pack.json](./136697-watch-dogs-watch-dogs-2-double-pack.json) |
 | Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle | 164573 | [164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json](./164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json) |
+| Watch Dogs 1 + Watch Dogs 2 Standard Editions Bundle | 164703 | [164703-watch-dogs-1-watch-dogs-2-standard-editions-bundle.json](./164703-watch-dogs-1-watch-dogs-2-standard-editions-bundle.json) |
 | Watch Dogs 2: Mega Pack | 226879 | [226879-watch-dogs-2-mega-pack.json](./226879-watch-dogs-2-mega-pack.json) |
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
 | Watch Dogs 2: Private Eye Pack | 399907 | [399907-watch-dogs-2-private-eye-pack.json](./399907-watch-dogs-2-private-eye-pack.json) |
