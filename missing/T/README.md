@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantalus | 330577 | [330577-tantalus.json](./330577-tantalus.json) |
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | TanTan Teo | 395987 | [395987-tantan-teo.json](./395987-tantan-teo.json) |
+| Tantei Bokumetsu | 143281 | [143281-tantei-bokumetsu.json](./143281-tantei-bokumetsu.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
 | Tantei Gakuen Q: Kyuukyoku no Trick ni Idome! | 49824 | [49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json](./49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json) |
 | Tantei Gakuen Q: Meitantei Hakimida! | 49853 | [49853-tantei-gakuen-q-meitantei-hakimida.json](./49853-tantei-gakuen-q-meitantei-hakimida.json) |
@@ -6697,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
+| The Commission 1920 | 143304 | [143304-the-commission-1920.json](./143304-the-commission-1920.json) |
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
 | The Communist Manifesto | 345427 | [345427-the-communist-manifesto.json](./345427-the-communist-manifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
@@ -10566,6 +10568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
 | The Korean War | 59308 | [59308-the-korean-war.json](./59308-the-korean-war.json) |
 | The Koshan Conspiracy | 69926 | [69926-the-koshan-conspiracy.json](./69926-the-koshan-conspiracy.json) |
+| The Kostka | 143249 | [143249-the-kostka.json](./143249-the-kostka.json) |
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
 | The Kotonoha Sisters and the Legend of Lysant Island | 173998 | [173998-the-kotonoha-sisters-and-the-legend-of-lysant-island.json](./173998-the-kotonoha-sisters-and-the-legend-of-lysant-island.json) |
 | The Kraken Wakes | 213425 | [213425-the-kraken-wakes.json](./213425-the-kraken-wakes.json) |
