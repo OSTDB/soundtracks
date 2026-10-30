@@ -8634,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
 | Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
+| Hoop the Loop | 167461 | [167461-hoop-the-loop.json](./167461-hoop-the-loop.json) |
 | HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
 | Hoopin' It Up | 137859 | [137859-hoopin-it-up.json](./137859-hoopin-it-up.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
