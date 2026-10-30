@@ -4724,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterChef: Learn to Cook! - Meat, Dairy & Seafood | 324481 | [324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json](./324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json) |
 | MasterChef: Learn to Cook! - Vegetables & Grains | 324482 | [324482-masterchef-learn-to-cook-vegetables-and-grains.json](./324482-masterchef-learn-to-cook-vegetables-and-grains.json) |
 | MasterChef: Learn to Cook! - Veggie Special | 385165 | [385165-masterchef-learn-to-cook-veggie-special.json](./385165-masterchef-learn-to-cook-veggie-special.json) |
+| MasterChef: Let's Cook | 165294 | [165294-masterchef-lets-cook.json](./165294-masterchef-lets-cook.json) |
 | MasterCube | 59901 | [59901-mastercube.json](./59901-mastercube.json) |
 | Mastermind | 341711 | [341711-mastermind.json](./341711-mastermind.json) |
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
@@ -6150,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Pacific Assault - Director's Edition | 131852 | [131852-medal-of-honor-pacific-assault-directors-edition.json](./131852-medal-of-honor-pacific-assault-directors-edition.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
+| Medal of Honor: Underground | 165307 | [165307-medal-of-honor-underground.json](./165307-medal-of-honor-underground.json) |
 | Medal of Honor: Vanguard | 1313 | [1313-medal-of-honor-vanguard.json](./1313-medal-of-honor-vanguard.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | Medal of Honor: Warfighter - Digital Deluxe Edition | 202061 | [202061-medal-of-honor-warfighter-digital-deluxe-edition.json](./202061-medal-of-honor-warfighter-digital-deluxe-edition.json) |
@@ -9062,6 +9064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Incursion | 213830 | [213830-metroid-incursion.json](./213830-metroid-incursion.json) |
 | Metroid Mother | 372197 | [372197-metroid-mother.json](./372197-metroid-mother.json) |
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
+| Metroid Oil Spill | 165290 | [165290-metroid-oil-spill.json](./165290-metroid-oil-spill.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
 | Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
 | Metroid Prime 2: Echoes - Double Trouble | 388563 | [388563-metroid-prime-2-echoes-double-trouble.json](./388563-metroid-prime-2-echoes-double-trouble.json) |
