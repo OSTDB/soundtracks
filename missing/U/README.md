@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead zombies | 127765 | [127765-undead-zombies.json](./127765-undead-zombies.json) |
 | Undead Zone | 241828 | [241828-undead-zone.json](./241828-undead-zone.json) |
 | Undead: Rise of Betrayed King | 278503 | [278503-undead-rise-of-betrayed-king.json](./278503-undead-rise-of-betrayed-king.json) |
+| Undeadly | 152564 | [152564-undeadly.json](./152564-undeadly.json) |
 | Undeads | 281913 | [281913-undeads.json](./281913-undeads.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Apart | 199491 | [199491-universe-apart.json](./199491-universe-apart.json) |
 | Universe at War: Earth Assault | 7230 | [7230-universe-at-war-earth-assault.json](./7230-universe-at-war-earth-assault.json) |
 | Universe Dawn | 336994 | [336994-universe-dawn.json](./336994-universe-dawn.json) |
+| Universe Generator: The Golden Sword | 152600 | [152600-universe-generator-the-golden-sword.json](./152600-universe-generator-the-golden-sword.json) |
 | Universe Has No Favorites | 286093 | [286093-universe-has-no-favorites.json](./286093-universe-has-no-favorites.json) |
 | Universe Horizon | 334869 | [334869-universe-horizon.json](./334869-universe-horizon.json) |
 | Universe II | 13089 | [13089-universe-ii.json](./13089-universe-ii.json) |
