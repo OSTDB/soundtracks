@@ -6730,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry | 382524 | [382524-chivalry.json](./382524-chivalry.json) |
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
+| Chivalry 2: Steelbook Edition | 153644 | [153644-chivalry-2-steelbook-edition.json](./153644-chivalry-2-steelbook-edition.json) |
 | Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
 | Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
 | Chivalry: Medieval Warfare | 2358 | [2358-chivalry-medieval-warfare.json](./2358-chivalry-medieval-warfare.json) |
@@ -8242,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
 | City of Murals | 190923 | [190923-city-of-murals.json](./190923-city-of-murals.json) |
+| City of Muse | 153654 | [153654-city-of-muse.json](./153654-city-of-muse.json) |
 | City of Nightmares | 317980 | [317980-city-of-nightmares.json](./317980-city-of-nightmares.json) |
 | City of None | 329226 | [329226-city-of-none.json](./329226-city-of-none.json) |
 | City of Ragdolls | 153497 | [153497-city-of-ragdolls.json](./153497-city-of-ragdolls.json) |
@@ -11020,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossus Down | 140641 | [140641-colossus-down.json](./140641-colossus-down.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colossus Mah Jong | 13507 | [13507-colossus-mah-jong.json](./13507-colossus-mah-jong.json) |
+| Colossus Mission | 153651 | [153651-colossus-mission.json](./153651-colossus-mission.json) |
 | Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
 | Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
 | Colour Chain | 314841 | [314841-colour-chain.json](./314841-colour-chain.json) |
@@ -11913,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
+| Conjure Cards | 153629 | [153629-conjure-cards.json](./153629-conjure-cards.json) |
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
 | Conjurers | 328362 | [328362-conjurers.json](./328362-conjurers.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
@@ -13556,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Guardian Force Saturn Tribute: Special Edition | 166980 | [166980-cotton-guardian-force-saturn-tribute-special-edition.json](./166980-cotton-guardian-force-saturn-tribute-special-edition.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
+| Cotton Rock 'n' Roll: 30th Anniversary - Limited Edition | 153648 | [153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json](./153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json) |
 | Cotton Rock n Roll 2 | 336949 | [336949-cotton-rock-n-roll-2.json](./336949-cotton-rock-n-roll-2.json) |
 | Cotton Rock with You: Oriental Night Dreams | 409886 | [409886-cotton-rock-with-you-oriental-night-dreams.json](./409886-cotton-rock-with-you-oriental-night-dreams.json) |
 | Cotton Tale | 255255 | [255255-cotton-tale.json](./255255-cotton-tale.json) |
