@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrageous Grounds: The Maze | 31739 | [31739-outrageous-grounds-the-maze.json](./31739-outrageous-grounds-the-maze.json) |
 | Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
 | Outrealm | 81641 | [81641-outrealm.json](./81641-outrealm.json) |
+| Outrevenge | 172337 | [172337-outrevenge.json](./172337-outrevenge.json) |
 | Outride Obama | 272175 | [272175-outride-obama.json](./272175-outride-obama.json) |
 | Outrider Mako | 119655 | [119655-outrider-mako.json](./119655-outrider-mako.json) |
 | Outriders: Complete Edition | 286513 | [286513-outriders-complete-edition.json](./286513-outriders-complete-edition.json) |
