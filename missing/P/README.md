@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.U.R.G.A.T.O.R.Y | 173971 | [173971-p-u-r-g-a-t-o-r-y.json](./173971-p-u-r-g-a-t-o-r-y.json) |
 | P.W. Project Witch | 327156 | [327156-p-w-project-witch.json](./327156-p-w-project-witch.json) |
 | P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
+| P0 | 159517 | [159517-p0.json](./159517-p0.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
@@ -5212,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot he Youkoso!! | 45955 | [45955-pia-carrot-he-youkoso.json](./45955-pia-carrot-he-youkoso.json) |
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
+| Pianistic | 159479 | [159479-pianistic.json](./159479-pianistic.json) |
 | Piano at 5 am | 247431 | [247431-piano-at-5-am.json](./247431-piano-at-5-am.json) |
 | Piano at 5 am Encore | 366722 | [366722-piano-at-5-am-encore.json](./366722-piano-at-5-am-encore.json) |
 | Piano Bar | 108368 | [108368-piano-bar.json](./108368-piano-bar.json) |
@@ -9424,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poem, Poem! | 112220 | [112220-poem-poem.json](./112220-poem-poem.json) |
 | Poems & Codes | 244281 | [244281-poems-and-codes.json](./244281-poems-and-codes.json) |
 | Poena | 202237 | [202237-poena.json](./202237-poena.json) |
+| Poet Squad | 159511 | [159511-poet-squad.json](./159511-poet-squad.json) |
 | Poetic Trio | 369880 | [369880-poetic-trio.json](./369880-poetic-trio.json) |
 | PoeticRambling | 300663 | [300663-poeticrambling.json](./300663-poeticrambling.json) |
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
