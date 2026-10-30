@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Interactive | 246224 | [246224-zone-interactive.json](./246224-zone-interactive.json) |
 | Zone Mini | 246226 | [246226-zone-mini.json](./246226-zone-mini.json) |
 | Zone of Action | 138557 | [138557-zone-of-action.json](./138557-zone-of-action.json) |
+| Zone of Death | 164169 | [164169-zone-of-death.json](./164169-zone-of-death.json) |
 | Zone of Lacryma | 32241 | [32241-zone-of-lacryma.json](./32241-zone-of-lacryma.json) |
 | Zone of the Enders | 1472 | [1472-zone-of-the-enders.json](./1472-zone-of-the-enders.json) |
 | Zone of the Enders HD Collection | 24230 | [24230-zone-of-the-enders-hd-collection.json](./24230-zone-of-the-enders-hd-collection.json) |
