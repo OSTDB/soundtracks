@@ -9296,6 +9296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian of Nature | 252780 | [252780-the-guardian-of-nature.json](./252780-the-guardian-of-nature.json) |
 | The Guardian of the Evil | 82674 | [82674-the-guardian-of-the-evil.json](./82674-the-guardian-of-the-evil.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
+| The Guardians of Peace | 166409 | [166409-the-guardians-of-peace.json](./166409-the-guardians-of-peace.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest | 18184 | [18184-the-guest.json](./18184-the-guest.json) |
 | The Guest | 258393 | [258393-the-guest.json](./258393-the-guest.json) |
@@ -29085,6 +29086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Ship | 38554 | [38554-turtle-ship.json](./38554-turtle-ship.json) |
 | Turtle Tale | 79280 | [79280-turtle-tale.json](./79280-turtle-tale.json) |
 | Turtle VR | 128448 | [128448-turtle-vr.json](./128448-turtle-vr.json) |
+| Turtle vs. Portal | 166411 | [166411-turtle-vs-portal.json](./166411-turtle-vs-portal.json) |
 | Turtle Wax | 317430 | [317430-turtle-wax.json](./317430-turtle-wax.json) |
 | Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
 | Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
