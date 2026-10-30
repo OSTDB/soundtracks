@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
 | Earl vs. the Mutants | 267803 | [267803-earl-vs-the-mutants.json](./267803-earl-vs-the-mutants.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
+| Earl's Day Off | 133001 | [133001-earls-day-off.json](./133001-earls-day-off.json) |
 | Earl's Minecart Adventures | 237218 | [237218-earls-minecart-adventures.json](./237218-earls-minecart-adventures.json) |
 | Early Bird | 368229 | [368229-early-bird.json](./368229-early-bird.json) |
 | Early Bird Gets the Space Worm | 390469 | [390469-early-bird-gets-the-space-worm.json](./390469-early-bird-gets-the-space-worm.json) |
@@ -4013,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Combo Redux | 387903 | [387903-epic-combo-redux.json](./387903-epic-combo-redux.json) |
 | Epic Combo! | 387904 | [387904-epic-combo.json](./387904-epic-combo.json) |
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
+| Epic Conquest 2 | 133011 | [133011-epic-conquest-2.json](./133011-epic-conquest-2.json) |
 | Epic Crime Wars | 67168 | [67168-epic-crime-wars.json](./67168-epic-crime-wars.json) |
 | Epic Drag Puzools | 101632 | [101632-epic-drag-puzools.json](./101632-epic-drag-puzools.json) |
 | Epic Dragon | 236352 | [236352-epic-dragon.json](./236352-epic-dragon.json) |
@@ -6390,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Corporation | 306329 | [306329-evil-corporation.json](./306329-evil-corporation.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
+| Evil Cult | 133010 | [133010-evil-cult.json](./133010-evil-cult.json) |
 | Evil Dark | 311225 | [311225-evil-dark.json](./311225-evil-dark.json) |
 | Evil Dead Pinball | 219100 | [219100-evil-dead-pinball.json](./219100-evil-dead-pinball.json) |
 | Evil Dead: A Fistful of Boomstick | 5827 | [5827-evil-dead-a-fistful-of-boomstick.json](./5827-evil-dead-a-fistful-of-boomstick.json) |
