@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Slime | 202506 | [202506-dark-slime.json](./202506-dark-slime.json) |
 | Dark Soil | 101441 | [101441-dark-soil.json](./101441-dark-soil.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
+| Dark Solitaire: Mystical Circus | 161536 | [161536-dark-solitaire-mystical-circus.json](./161536-dark-solitaire-mystical-circus.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
 | Dark Soul.Ace 2 | 341843 | [341843-dark-soul-ace-2.json](./341843-dark-soul-ace-2.json) |
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
@@ -10093,6 +10094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Docking Ships | 250787 | [250787-docking-ships.json](./250787-docking-ships.json) |
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
+| DockYard | 161524 | [161524-dockyard.json](./161524-dockyard.json) |
 | Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
 | Doctor Arcana and The Secret of Shadowspire | 271076 | [271076-doctor-arcana-and-the-secret-of-shadowspire.json](./271076-doctor-arcana-and-the-secret-of-shadowspire.json) |
 | Doctor Bunny | 141127 | [141127-doctor-bunny.json](./141127-doctor-bunny.json) |
@@ -10844,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Rally | 77114 | [77114-domino-rally.json](./77114-domino-rally.json) |
 | Domino Royale | 88851 | [88851-domino-royale.json](./88851-domino-royale.json) |
 | Domino Sandbox | 164257 | [164257-domino-sandbox.json](./164257-domino-sandbox.json) |
+| Domino Simulator | 161523 | [161523-domino-simulator.json](./161523-domino-simulator.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino Solitaire | 83430 | [83430-domino-solitaire.json](./83430-domino-solitaire.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
