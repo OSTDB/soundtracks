@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of Orion | 11507 | [11507-master-of-orion.json](./11507-master-of-orion.json) |
 | Master of Orion | 67 | [67-master-of-orion.json](./67-master-of-orion.json) |
+| Master of Orion 1+2 | 155305 | [155305-master-of-orion-1-2.json](./155305-master-of-orion-1-2.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
@@ -9476,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microcosmum 2 | 158865 | [158865-microcosmum-2.json](./158865-microcosmum-2.json) |
 | Microcosmum: Survival of Cells | 34896 | [34896-microcosmum-survival-of-cells.json](./34896-microcosmum-survival-of-cells.json) |
 | Microcosmum: Survival of Cells - Campaign "Aliens" | 168053 | [168053-microcosmum-survival-of-cells-campaign-aliens.json](./168053-microcosmum-survival-of-cells-campaign-aliens.json) |
+| Microcosmum: Survival of Cells - Campaign "Hot and Cold" | 155337 | [155337-microcosmum-survival-of-cells-campaign-hot-and-cold.json](./155337-microcosmum-survival-of-cells-campaign-hot-and-cold.json) |
 | Microcosmum: Survival of Cells - Campaign "Mutations" | 168054 | [168054-microcosmum-survival-of-cells-campaign-mutations.json](./168054-microcosmum-survival-of-cells-campaign-mutations.json) |
 | Microcosmum: Survival of Cells - Campaign "New life" | 168055 | [168055-microcosmum-survival-of-cells-campaign-new-life.json](./168055-microcosmum-survival-of-cells-campaign-new-life.json) |
 | Microcosmum: Survival of Cells - Campaign Static | 174130 | [174130-microcosmum-survival-of-cells-campaign-static.json](./174130-microcosmum-survival-of-cells-campaign-static.json) |
@@ -17525,6 +17527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
 | Musketeer: Le Sang des Chevaliers | 222632 | [222632-musketeer-le-sang-des-chevaliers.json](./222632-musketeer-le-sang-des-chevaliers.json) |
 | Musle vs Zombies | 179371 | [179371-musle-vs-zombies.json](./179371-musle-vs-zombies.json) |
+| Muslim 3D | 155302 | [155302-muslim-3d.json](./155302-muslim-3d.json) |
 | Muso | 310985 | [310985-muso.json](./310985-muso.json) |
 | Musou Glory | 304240 | [304240-musou-glory.json](./304240-musou-glory.json) |
 | Musou Orochi 2 Special | 407843 | [407843-musou-orochi-2-special.json](./407843-musou-orochi-2-special.json) |
