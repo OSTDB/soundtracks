@@ -14645,6 +14645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Base | 167032 | [167032-moon-base.json](./167032-moon-base.json) |
 | Moon Bingo | 306031 | [306031-moon-bingo.json](./306031-moon-bingo.json) |
+| Moon Blob | 160024 | [160024-moon-blob.json](./160024-moon-blob.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
 | Moon Break | 358892 | [358892-moon-break.json](./358892-moon-break.json) |
 | Moon Bride | 376040 | [376040-moon-bride.json](./376040-moon-bride.json) |
