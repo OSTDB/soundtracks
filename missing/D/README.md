@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
 | Dance Dance Revolution Universe 3 | 6955 | [6955-dance-dance-revolution-universe-3.json](./6955-dance-dance-revolution-universe-3.json) |
 | Dance Dance Revolution USA | 66659 | [66659-dance-dance-revolution-usa.json](./66659-dance-dance-revolution-usa.json) |
+| Dance Dance Revolution V | 137261 | [137261-dance-dance-revolution-v.json](./137261-dance-dance-revolution-v.json) |
 | Dance Dance Revolution World | 305995 | [305995-dance-dance-revolution-world.json](./305995-dance-dance-revolution-world.json) |
 | Dance Dance Revolution X2 | 43218 | [43218-dance-dance-revolution-x2.json](./43218-dance-dance-revolution-x2.json) |
 | Dance Dance Revolution X3 VS 2ndMix | 98239 | [98239-dance-dance-revolution-x3-vs-2ndmix.json](./98239-dance-dance-revolution-x3-vs-2ndmix.json) |
@@ -4260,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | Deathgasm | 352381 | [352381-deathgasm.json](./352381-deathgasm.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
+| Deathground | 137282 | [137282-deathground.json](./137282-deathground.json) |
 | DeathGuessr | 419182 | [419182-deathguessr.json](./419182-deathguessr.json) |
 | Deathkeep | 4270 | [4270-deathkeep.json](./4270-deathkeep.json) |
 | Deathland Drifters | 303463 | [303463-deathland-drifters.json](./303463-deathland-drifters.json) |
@@ -12898,6 +12900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Basketball 2025 | 336058 | [336058-draft-day-sports-college-basketball-2025.json](./336058-draft-day-sports-college-basketball-2025.json) |
 | Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
 | Draft Day Sports: College Football 2020 | 128974 | [128974-draft-day-sports-college-football-2020.json](./128974-draft-day-sports-college-football-2020.json) |
+| Draft Day Sports: College Football 2021 | 137267 | [137267-draft-day-sports-college-football-2021.json](./137267-draft-day-sports-college-football-2021.json) |
 | Draft Day Sports: College Football 2022 | 191527 | [191527-draft-day-sports-college-football-2022.json](./191527-draft-day-sports-college-football-2022.json) |
 | Draft Day Sports: College Football 2023 | 213984 | [213984-draft-day-sports-college-football-2023.json](./213984-draft-day-sports-college-football-2023.json) |
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
@@ -12917,6 +12920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
 | Draft Day Sports: Pro Football 26 | 375899 | [375899-draft-day-sports-pro-football-26.json](./375899-draft-day-sports-pro-football-26.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
+| Draft of Darkness | 137247 | [137247-draft-of-darkness.json](./137247-draft-of-darkness.json) |
 | Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
 | Draft: In the Woods | 240611 | [240611-draft-in-the-woods.json](./240611-draft-in-the-woods.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
@@ -14069,6 +14073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Tomb | 317785 | [317785-dread-tomb.json](./317785-dread-tomb.json) |
 | Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
 | Dread X Collection | 137056 | [137056-dread-x-collection.json](./137056-dread-x-collection.json) |
+| Dread X Collection 2 | 137297 | [137297-dread-x-collection-2.json](./137297-dread-x-collection-2.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
 | Dread X Collection 5 | 196045 | [196045-dread-x-collection-5.json](./196045-dread-x-collection-5.json) |
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
@@ -16118,6 +16123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Construction Co | 96196 | [96196-dungeon-construction-co.json](./96196-dungeon-construction-co.json) |
 | Dungeon Consultant | 139648 | [139648-dungeon-consultant.json](./139648-dungeon-consultant.json) |
 | Dungeon Conundrum | 190887 | [190887-dungeon-conundrum.json](./190887-dungeon-conundrum.json) |
+| Dungeon Core | 137281 | [137281-dungeon-core.json](./137281-dungeon-core.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
 | Dungeon Crasher | 184240 | [184240-dungeon-crasher.json](./184240-dungeon-crasher.json) |
