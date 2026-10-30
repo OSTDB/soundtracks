@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
+| Rage 2: TerrorMania | 125636 | [125636-rage-2-terrormania.json](./125636-rage-2-terrormania.json) |
 | Rage 3 | 229889 | [229889-rage-3.json](./229889-rage-3.json) |
 | Rage Against the Machine | 143291 | [143291-rage-against-the-machine.json](./143291-rage-against-the-machine.json) |
 | Rage Against the Zombies | 30490 | [30490-rage-against-the-zombies.json](./30490-rage-against-the-zombies.json) |
@@ -2861,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of the Mad God | 8188 | [8188-realm-of-the-mad-god.json](./8188-realm-of-the-mad-god.json) |
 | Realm of the Mad God: Free Welcome Pack | 289006 | [289006-realm-of-the-mad-god-free-welcome-pack.json](./289006-realm-of-the-mad-god-free-welcome-pack.json) |
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
+| Realm of the Ruthless | 125610 | [125610-realm-of-the-ruthless.json](./125610-realm-of-the-ruthless.json) |
 | Realm of the Titans | 91797 | [91797-realm-of-the-titans.json](./91797-realm-of-the-titans.json) |
 | Realm of the Undead | 273799 | [273799-realm-of-the-undead.json](./273799-realm-of-the-undead.json) |
 | Realm of the Undead | 73594 | [73594-realm-of-the-undead.json](./73594-realm-of-the-undead.json) |
@@ -3517,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Frame | 403320 | [403320-red-frame.json](./403320-red-frame.json) |
 | Red Frontier | 374885 | [374885-red-frontier.json](./374885-red-frontier.json) |
 | Red Frontier 2 | 133026 | [133026-red-frontier-2.json](./133026-red-frontier-2.json) |
+| Red Frost | 125588 | [125588-red-frost.json](./125588-red-frost.json) |
 | Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
 | Red Galaxy | 418869 | [418869-red-galaxy.json](./418869-red-galaxy.json) |
@@ -11110,6 +11113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Rabbit Run | 34282 | [34282-run-rabbit-run.json](./34282-run-rabbit-run.json) |
 | Run Ralph Run | 158112 | [158112-run-ralph-run.json](./158112-run-ralph-run.json) |
 | Run Ran! Side Scrollers | 270018 | [270018-run-ran-side-scrollers.json](./270018-run-ran-side-scrollers.json) |
+| Run Rob Run! | 125608 | [125608-run-rob-run.json](./125608-run-rob-run.json) |
 | Run Roll Rumble | 120936 | [120936-run-roll-rumble.json](./120936-run-roll-rumble.json) |
 | Run Ronaldo Run | 252823 | [252823-run-ronaldo-run.json](./252823-run-ronaldo-run.json) |
 | RUN ROOMS: VR | 75403 | [75403-run-rooms-vr.json](./75403-run-rooms-vr.json) |
