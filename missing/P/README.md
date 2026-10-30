@@ -3660,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Pengy | 15337 | [15337-pengy.json](./15337-pengy.json) |
 | Penile Devastation | 271059 | [271059-penile-devastation.json](./271059-penile-devastation.json) |
+| Penimorta | 166954 | [166954-penimorta.json](./166954-penimorta.json) |
 | Peninsular War Battles | 55459 | [55459-peninsular-war-battles.json](./55459-peninsular-war-battles.json) |
 | Penis Bird | 418629 | [418629-penis-bird.json](./418629-penis-bird.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
@@ -14309,6 +14310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Proxima | 250185 | [250185-project-proxima.json](./250185-project-proxima.json) |
 | Project Ptocheia | 179573 | [179573-project-ptocheia.json](./179573-project-ptocheia.json) |
 | Project Pulsation | 53482 | [53482-project-pulsation.json](./53482-project-pulsation.json) |
+| Project Pulse | 166946 | [166946-project-pulse.json](./166946-project-pulse.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
 | Project R2 | 367829 | [367829-project-r2.json](./367829-project-r2.json) |
@@ -16747,6 +16749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Raiders | 242974 | [242974-pyramid-raiders.json](./242974-pyramid-raiders.json) |
 | Pyramid Runner | 238356 | [238356-pyramid-runner.json](./238356-pyramid-runner.json) |
 | Pyramid Runner | 301695 | [301695-pyramid-runner.json](./301695-pyramid-runner.json) |
+| Pyramid Rush | 166950 | [166950-pyramid-rush.json](./166950-pyramid-rush.json) |
 | Pyramid Schemes and Cults | 280300 | [280300-pyramid-schemes-and-cults.json](./280300-pyramid-schemes-and-cults.json) |
 | Pyramid Shooter | 89515 | [89515-pyramid-shooter.json](./89515-pyramid-shooter.json) |
 | Pyramid Solitaire | 304761 | [304761-pyramid-solitaire.json](./304761-pyramid-solitaire.json) |
