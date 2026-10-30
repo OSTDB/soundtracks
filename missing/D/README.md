@@ -3623,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlands Duel: Time Rift Rumble | 301232 | [301232-deadlands-duel-time-rift-rumble.json](./301232-deadlands-duel-time-rift-rumble.json) |
 | Deadlands Noir: That Old Time Religion | 34911 | [34911-deadlands-noir-that-old-time-religion.json](./34911-deadlands-noir-that-old-time-religion.json) |
 | DeadlandVR | 102590 | [102590-deadlandvr.json](./102590-deadlandvr.json) |
+| Deadlane | 140805 | [140805-deadlane.json](./140805-deadlane.json) |
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
 | Deadliest Catch: Sea of Chaos | 20448 | [20448-deadliest-catch-sea-of-chaos.json](./20448-deadliest-catch-sea-of-chaos.json) |
 | Deadliest Catch: The Game | 111232 | [111232-deadliest-catch-the-game.json](./111232-deadliest-catch-the-game.json) |
@@ -5768,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
 | Demon Knives | 337587 | [337587-demon-knives.json](./337587-demon-knives.json) |
 | Demon Legacy | 124536 | [124536-demon-legacy.json](./124536-demon-legacy.json) |
+| Demon Legend | 140791 | [140791-demon-legend.json](./140791-demon-legend.json) |
 | Demon Lily and the Noir Maid | 397055 | [397055-demon-lily-and-the-noir-maid.json](./397055-demon-lily-and-the-noir-maid.json) |
 | Demon Loop | 252578 | [252578-demon-loop.json](./252578-demon-loop.json) |
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
@@ -7084,6 +7086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deul | 38507 | [38507-deul.json](./38507-deul.json) |
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
+| Deus Ex Ceviche | 140160 | [140160-deus-ex-ceviche.json](./140160-deus-ex-ceviche.json) |
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
 | Deus Ex Machina | 26432 | [26432-deus-ex-machina.json](./26432-deus-ex-machina.json) |
 | Deus Ex Machina: Episode 1 | 171724 | [171724-deus-ex-machina-episode-1.json](./171724-deus-ex-machina-episode-1.json) |
@@ -10584,6 +10587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dojo City | 311155 | [311155-dojo-city.json](./311155-dojo-city.json) |
 | Dojo Corridor | 147350 | [147350-dojo-corridor.json](./147350-dojo-corridor.json) |
 | Dojo Raiders | 411976 | [411976-dojo-raiders.json](./411976-dojo-raiders.json) |
+| Dojoran | 139593 | [139593-dojoran.json](./139593-dojoran.json) |
 | Doka 2 Trade | 126439 | [126439-doka-2-trade.json](./126439-doka-2-trade.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
 | Doka 2: Kishki Edition | 111387 | [111387-doka-2-kishki-edition.json](./111387-doka-2-kishki-edition.json) |
@@ -11752,6 +11756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
 | Doom Sweeper | 259034 | [259034-doom-sweeper.json](./259034-doom-sweeper.json) |
+| Doom the Way id Did | 140172 | [140172-doom-the-way-id-did.json](./140172-doom-the-way-id-did.json) |
 | Doom the Way id Did: The Lost Episodes | 141065 | [141065-doom-the-way-id-did-the-lost-episodes.json](./141065-doom-the-way-id-did-the-lost-episodes.json) |
 | Doom Tournament | 202843 | [202843-doom-tournament.json](./202843-doom-tournament.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
@@ -11951,6 +11956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelganger: Dawn of the Inverted Souls | 61306 | [61306-doppelganger-dawn-of-the-inverted-souls.json](./61306-doppelganger-dawn-of-the-inverted-souls.json) |
 | Doppelganger: Nightmare Realm | 253527 | [253527-doppelganger-nightmare-realm.json](./253527-doppelganger-nightmare-realm.json) |
+| Doppeljobs | 140180 | [140180-doppeljobs.json](./140180-doppeljobs.json) |
 | Doppelpartment | 357126 | [357126-doppelpartment.json](./357126-doppelpartment.json) |
 | Doppelpass | 94402 | [94402-doppelpass.json](./94402-doppelpass.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
@@ -14417,6 +14423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamcutter | 224329 | [224329-dreamcutter.json](./224329-dreamcutter.json) |
 | Dreamcutter: Steelbook Limited Edition | 300476 | [300476-dreamcutter-steelbook-limited-edition.json](./300476-dreamcutter-steelbook-limited-edition.json) |
 | Dreamdale: Fairy Adventure | 216070 | [216070-dreamdale-fairy-adventure.json](./216070-dreamdale-fairy-adventure.json) |
+| Dreamdasher | 140802 | [140802-dreamdasher.json](./140802-dreamdasher.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
 | Dreamdisc | 177796 | [177796-dreamdisc.json](./177796-dreamdisc.json) |
 | DreamEcho | 374358 | [374358-dreamecho.json](./374358-dreamecho.json) |
@@ -14586,6 +14593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamsend: Wintersong | 411537 | [411537-dreamsend-wintersong.json](./411537-dreamsend-wintersong.json) |
 | Dreamsettler | 196002 | [196002-dreamsettler.json](./196002-dreamsettler.json) |
 | Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
+| Dreamshard: Deckbuilding Roguelike | 139634 | [139634-dreamshard-deckbuilding-roguelike.json](./139634-dreamshard-deckbuilding-roguelike.json) |
 | Dreamshift | 383797 | [383797-dreamshift.json](./383797-dreamshift.json) |
 | DreamShock | 316159 | [316159-dreamshock.json](./316159-dreamshock.json) |
 | Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
