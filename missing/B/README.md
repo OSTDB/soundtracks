@@ -855,7 +855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1501,6 +1500,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Challenge | 57632 | [57632-balloon-challenge.json](./57632-balloon-challenge.json) |
 | Balloon Chase Journey | 265561 | [265561-balloon-chase-journey.json](./265561-balloon-chase-journey.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
+| Balloon De Fight | 173417 | [173417-balloon-de-fight.json](./173417-balloon-de-fight.json) |
+| Balloon De Fight'2000 | 173416 | [173416-balloon-de-fight2000.json](./173416-balloon-de-fight2000.json) |
 | Balloon De Fight'99 | 173077 | [173077-balloon-de-fight99.json](./173077-balloon-de-fight99.json) |
 | Balloon Diaspora | 60453 | [60453-balloon-diaspora.json](./60453-balloon-diaspora.json) |
 | Balloon Duel | 194845 | [194845-balloon-duel.json](./194845-balloon-duel.json) |
