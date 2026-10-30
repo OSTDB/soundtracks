@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egnaro | 209769 | [209769-egnaro.json](./209769-egnaro.json) |
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
 | Ego :: Exit Protocol | 368285 | [368285-ego-exit-protocol.json](./368285-ego-exit-protocol.json) |
+| Ego Death | 158364 | [158364-ego-death.json](./158364-ego-death.json) |
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
 | Ego Hearts | 114105 | [114105-ego-hearts.json](./114105-ego-hearts.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
@@ -3193,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Lines | 188903 | [188903-end-of-lines.json](./188903-end-of-lines.json) |
 | End of Night | 211972 | [211972-end-of-night.json](./211972-end-of-night.json) |
 | End of Overlord | 375902 | [375902-end-of-overlord.json](./375902-end-of-overlord.json) |
+| End of Panduora | 158375 | [158375-end-of-panduora.json](./158375-end-of-panduora.json) |
 | End of Realms | 121413 | [121413-end-of-realms.json](./121413-end-of-realms.json) |
 | End of Serenity | 61466 | [61466-end-of-serenity.json](./61466-end-of-serenity.json) |
 | End of Sonic Inflation | 140540 | [140540-end-of-sonic-inflation.json](./140540-end-of-sonic-inflation.json) |
@@ -6405,6 +6407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
 | Evil School | 410052 | [410052-evil-school.json](./410052-evil-school.json) |
 | Evil Seal | 46449 | [46449-evil-seal.json](./46449-evil-seal.json) |
+| Evil Shogun | 158386 | [158386-evil-shogun.json](./158386-evil-shogun.json) |
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
 | Evil Spirit Hunter | 409413 | [409413-evil-spirit-hunter.json](./409413-evil-spirit-hunter.json) |
