@@ -7690,6 +7690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood: Twi-Lumina | 400268 | [400268-melty-blood-twi-lumina.json](./400268-melty-blood-twi-lumina.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
+| Melty Blood: Type Lumina - Melty Blood Archives | 153649 | [153649-melty-blood-type-lumina-melty-blood-archives.json](./153649-melty-blood-type-lumina-melty-blood-archives.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
 | Meltylancer Re-inforce | 340415 | [340415-meltylancer-re-inforce.json](./340415-meltylancer-re-inforce.json) |
 | Meltylancer Re-inforce | 60976 | [60976-meltylancer-re-inforce.json](./60976-meltylancer-re-inforce.json) |
@@ -9064,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Dread | 15698 | [15698-metroid-dread.json](./15698-metroid-dread.json) |
 | Metroid Dread | 233651 | [233651-metroid-dread.json](./233651-metroid-dread.json) |
 | Metroid Dread Demake | 195336 | [195336-metroid-dread-demake.json](./195336-metroid-dread-demake.json) |
+| Metroid Dread: Special Edition | 153646 | [153646-metroid-dread-special-edition.json](./153646-metroid-dread-special-edition.json) |
 | Metroid Dreadnought | 142221 | [142221-metroid-dreadnought.json](./142221-metroid-dreadnought.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
 | Metroid Fool | 295024 | [295024-metroid-fool.json](./295024-metroid-fool.json) |
