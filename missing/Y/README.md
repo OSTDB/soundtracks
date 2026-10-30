@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshima: Hentai Simulator | 326304 | [326304-yoshima-hentai-simulator.json](./326304-yoshima-hentai-simulator.json) |
 | Yoshimi Yahtzee | 202039 | [202039-yoshimi-yahtzee.json](./202039-yoshimi-yahtzee.json) |
 | Yoshimi-kun wa Game Bakkari | 356152 | [356152-yoshimi-kun-wa-game-bakkari.json](./356152-yoshimi-kun-wa-game-bakkari.json) |
+| Yoshimitsu Hatsumi | 159999 | [159999-yoshimitsu-hatsumi.json](./159999-yoshimitsu-hatsumi.json) |
 | Yoshimoto Mahjong Club | 382990 | [382990-yoshimoto-mahjong-club.json](./382990-yoshimoto-mahjong-club.json) |
 | Yoshinoya | 43426 | [43426-yoshinoya.json](./43426-yoshinoya.json) |
 | Yoshitsune-ki | 263951 | [263951-yoshitsune-ki.json](./263951-yoshitsune-ki.json) |
@@ -1075,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Must Escape | 343870 | [343870-you-must-escape.json](./343870-you-must-escape.json) |
 | You Must Escape 2 | 71197 | [71197-you-must-escape-2.json](./71197-you-must-escape-2.json) |
 | You Must Retry | 312508 | [312508-you-must-retry.json](./312508-you-must-retry.json) |
+| You Must Survive | 160048 | [160048-you-must-survive.json](./160048-you-must-survive.json) |
 | You need to Buy a Phone Charger | 361338 | [361338-you-need-to-buy-a-phone-charger.json](./361338-you-need-to-buy-a-phone-charger.json) |
 | You Need to Summon a Demon | 419868 | [419868-you-need-to-summon-a-demon.json](./419868-you-need-to-summon-a-demon.json) |
 | You Never Listen | 123909 | [123909-you-never-listen.json](./123909-you-never-listen.json) |
