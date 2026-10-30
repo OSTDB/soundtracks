@@ -6957,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikmin 269 DX: Director's Cut | 321833 | [321833-bikmin-269-dx-directors-cut.json](./321833-bikmin-269-dx-directors-cut.json) |
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
 | Bikrash | 180527 | [180527-bikrash.json](./180527-bikrash.json) |
+| Bilal Go! | 160038 | [160038-bilal-go.json](./160038-bilal-go.json) |
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bilbo: The Four Corners of the World | 52460 | [52460-bilbo-the-four-corners-of-the-world.json](./52460-bilbo-the-four-corners-of-the-world.json) |
@@ -7281,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard: Escape Room | 258461 | [258461-biohazard-escape-room.json](./258461-biohazard-escape-room.json) |
 | Biohazard: Siberia | 324324 | [324324-biohazard-siberia.json](./324324-biohazard-siberia.json) |
 | Biohazard: The Mercenaries 3D & Revelations | 140931 | [140931-biohazard-the-mercenaries-3d-and-revelations.json](./140931-biohazard-the-mercenaries-3d-and-revelations.json) |
+| Bioid | 160047 | [160047-bioid.json](./160047-bioid.json) |
 | Biok | 175223 | [175223-biok.json](./175223-biok.json) |
 | BioKept | 391679 | [391679-biokept.json](./391679-biokept.json) |
 | Biolab Disaster | 301134 | [301134-biolab-disaster.json](./301134-biolab-disaster.json) |
@@ -12662,6 +12664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxed Out | 384737 | [384737-boxed-out.json](./384737-boxed-out.json) |
 | Boxed Tower: Actual Tower Defense | 251754 | [251754-boxed-tower-actual-tower-defense.json](./251754-boxed-tower-actual-tower-defense.json) |
 | Boxed Up! | 386837 | [386837-boxed-up.json](./386837-boxed-up.json) |
+| Boxed-In | 160037 | [160037-boxed-in.json](./160037-boxed-in.json) |
 | BoxEngine | 90208 | [90208-boxengine.json](./90208-boxengine.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxer Rebellion | 92975 | [92975-boxer-rebellion.json](./92975-boxer-rebellion.json) |
@@ -13170,6 +13173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Odyssea | 26976 | [26976-brave-odyssea.json](./26976-brave-odyssea.json) |
 | Brave Paradise | 177898 | [177898-brave-paradise.json](./177898-brave-paradise.json) |
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
+| Brave point kill | 159998 | [159998-brave-point-kill.json](./159998-brave-point-kill.json) |
 | Brave Princess Milia | 192240 | [192240-brave-princess-milia.json](./192240-brave-princess-milia.json) |
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
