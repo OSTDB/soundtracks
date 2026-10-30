@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T22:55:55.029Z",
-  "total_soundtracks": 2727,
+  "generated_at": "2026-10-30T23:01:47.475Z",
+  "total_soundtracks": 2738,
   "games": [
     {
       "igdb_id": 7522,
@@ -2777,6 +2777,20 @@
       ]
     },
     {
+      "igdb_id": 82528,
+      "game_name": "Battlefield 1: Apocalypse",
+      "game_url": "https://ostdb.net/games/battlefield-1-apocalypse",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27308ccd99c2c21925e35c68434",
+      "albums": [
+        {
+          "album_name": "Battlefield 1: Apocalypse (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2FRBG35Iyble4XL9AVg9qf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28966,
       "game_name": "Battlefield 1: In the Name of the Tsar",
       "game_url": "https://ostdb.net/games/battlefield-1-in-the-name-of-the-tsar",
@@ -3028,6 +3042,20 @@
           "album_name": "Battletoads (Original Soundtrack)",
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/battletoads-original-soundtrack/1533321474?uo=4",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14368,
+      "game_name": "Battlezone",
+      "game_url": "https://ostdb.net/games/battlezone",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733b22e40a5ee7f3304d0ec05c",
+      "albums": [
+        {
+          "album_name": "Battlezone (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0kVnS5MqWP3FAWroTynZQC",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -12663,6 +12691,20 @@
       ]
     },
     {
+      "igdb_id": 31439,
+      "game_name": "Gun Godz",
+      "game_url": "https://ostdb.net/games/gun-godz",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273afe81e69603eb45b4018e971",
+      "albums": [
+        {
+          "album_name": "Gun Godz Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6qrtNl0i27kJp3kxg45CYc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3076,
       "game_name": "Guns of Icarus Online",
       "game_url": "https://ostdb.net/games/guns-of-icarus-online",
@@ -13400,6 +13442,20 @@
           "album_name": "Hellblade: Senua's Sacrifice (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1ihHcMdKtZ3qY5eRXYxcl8",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 76037,
+      "game_name": "Hellbound",
+      "game_url": "https://ostdb.net/games/hellbound",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737228a58906cd212c04a41132",
+      "albums": [
+        {
+          "album_name": "Hellbound (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ayyjSgTVvwSOZZYBQfTYE",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -14815,6 +14871,20 @@
         {
           "album_name": "Jalopy (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1obIRfqViUuJVYUbyrVy2G",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 4274,
+      "game_name": "James Pond: Underwater Agent",
+      "game_url": "https://ostdb.net/games/james-pond-underwater-agent",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ce0bb83d587c062c1d2f2bdf",
+      "albums": [
+        {
+          "album_name": "James Pond: Underwater Agent Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/38AOdm5YjXpsNRHArGO5nv",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19957,6 +20027,20 @@
         {
           "album_name": "Observer: System Redux (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2bcxH5LYM5nZhPCZs6DDt8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 89749,
+      "game_name": "Octahedron",
+      "game_url": "https://ostdb.net/games/octahedron",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733f3aa589afc331fd14dcb7b8",
+      "albums": [
+        {
+          "album_name": "Octahedron (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6uK4FzmYomhN57EtGnrz5q",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25863,6 +25947,20 @@
       ]
     },
     {
+      "igdb_id": 86269,
+      "game_name": "Space Hulk: Tactics",
+      "game_url": "https://ostdb.net/games/space-hulk-tactics",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731e9ca889b2f6147c581b2cc5",
+      "albums": [
+        {
+          "album_name": "Space Hulk: Tactics (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7Cehl4TrXO7JZJO66Ytz7F",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 33,
       "game_name": "Space Quest 6: The Spinal Frontier",
       "game_url": "https://ostdb.net/games/space-quest-6-the-spinal-frontier",
@@ -27233,6 +27331,20 @@
       ]
     },
     {
+      "igdb_id": 31160,
+      "game_name": "Super Blood Hockey",
+      "game_url": "https://ostdb.net/games/super-blood-hockey",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732e77f00989f4923938aeec75",
+      "albums": [
+        {
+          "album_name": "Super Blood Hockey (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/23xUYlCaYeyieGP18lVINr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 46768,
       "game_name": "Super Dodge Ball",
       "game_url": "https://ostdb.net/games/super-dodge-ball",
@@ -27707,6 +27819,20 @@
         {
           "album_name": "Tangle Tower (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3gPVEByPWdRqWmAHJ4y4wl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 38754,
+      "game_name": "Tangledeep",
+      "game_url": "https://ostdb.net/games/tangledeep",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739e629298c99682e4795dc27c",
+      "albums": [
+        {
+          "album_name": "Tangledeep (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4h4BgbuBa5NvtaEuIvhFPQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31647,6 +31773,20 @@
       ]
     },
     {
+      "igdb_id": 20290,
+      "game_name": "Under Night In-Birth Exe:Late",
+      "game_url": "https://ostdb.net/games/under-night-in-birth-exe-late",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27351bfd009cdf2d5151e916f88",
+      "albums": [
+        {
+          "album_name": "UNDER NIGHT IN-BIRTH Exe:Late (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5WTedFXaATQBsthGztJbG5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 41819,
       "game_name": "Under Night In-Birth Exe:Late[st]",
       "game_url": "https://ostdb.net/games/under-night-in-birth-exe-late-st",
@@ -31933,6 +32073,20 @@
         {
           "album_name": "V Rising (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5CVGUeoWJc1g2KNVqHixHG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 76878,
+      "game_name": "Vacation Simulator",
+      "game_url": "https://ostdb.net/games/vacation-simulator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739d3e71a793738a0bd3b9e05b",
+      "albums": [
+        {
+          "album_name": "Vacation Simulator (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1UcvHkTsPlcas69aqpbjQc",
           "apple_music_url": "",
           "album_link_url": ""
         }
