@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
 | Mages | 115780 | [115780-mages.json](./115780-mages.json) |
 | Mages | 170844 | [170844-mages.json](./170844-mages.json) |
+| Mages and Treasures | 140787 | [140787-mages-and-treasures.json](./140787-mages-and-treasures.json) |
 | Mages Defense | 152633 | [152633-mages-defense.json](./152633-mages-defense.json) |
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | MageSlayer | 8695 | [8695-mageslayer.json](./8695-mageslayer.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnitude: Lambda | 356505 | [356505-magnitude-lambda.json](./356505-magnitude-lambda.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
+| Magnolia Manor | 140162 | [140162-magnolia-manor.json](./140162-magnolia-manor.json) |
 | Magnum Kiki Ippatsu: Empire City 1931 | 48431 | [48431-magnum-kiki-ippatsu-empire-city-1931.json](./48431-magnum-kiki-ippatsu-empire-city-1931.json) |
 | Magnum Opus | 150362 | [150362-magnum-opus.json](./150362-magnum-opus.json) |
 | Magnum Opus | 417296 | [417296-magnum-opus.json](./417296-magnum-opus.json) |
@@ -2479,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mallory and the Marble Sanctum | 144693 | [144693-mallory-and-the-marble-sanctum.json](./144693-mallory-and-the-marble-sanctum.json) |
 | Mallow & The Street of the Fallen | 376861 | [376861-mallow-and-the-street-of-the-fallen.json](./376861-mallow-and-the-street-of-the-fallen.json) |
 | Mallows | 26456 | [26456-mallows.json](./26456-mallows.json) |
+| Malmyr | 140789 | [140789-malmyr.json](./140789-malmyr.json) |
 | Malody | 76901 | [76901-malody.json](./76901-malody.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
@@ -5409,7 +5412,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Monster Mayhem: Episode 3 - Terror in Tikal! | 337134 | [337134-mayan-monster-mayhem-episode-3-terror-in-tikal.json](./337134-mayan-monster-mayhem-episode-3-terror-in-tikal.json) |
 | Mayan Monster Mayhem: Episode 4 - The Temple of Lost Souls | 337135 | [337135-mayan-monster-mayhem-episode-4-the-temple-of-lost-souls.json](./337135-mayan-monster-mayhem-episode-4-the-temple-of-lost-souls.json) |
 | Mayan Prophecies Collection | 144872 | [144872-mayan-prophecies-collection.json](./144872-mayan-prophecies-collection.json) |
+| Mayan Prophecies: Blood Moon | 140186 | [140186-mayan-prophecies-blood-moon.json](./140186-mayan-prophecies-blood-moon.json) |
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
+| Mayan Prophecies: Cursed Island | 140187 | [140187-mayan-prophecies-cursed-island.json](./140187-mayan-prophecies-cursed-island.json) |
+| Mayan Prophecies: Ship of Spirits | 140188 | [140188-mayan-prophecies-ship-of-spirits.json](./140188-mayan-prophecies-ship-of-spirits.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
 | Mayas' Virtual Brush | 63741 | [63741-mayas-virtual-brush.json](./63741-mayas-virtual-brush.json) |
 | Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
@@ -5662,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Pedestal of Trials | 187671 | [187671-maze-pedestal-of-trials.json](./187671-maze-pedestal-of-trials.json) |
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
 | Maze: Sinister Play - Collector's Edition | 170215 | [170215-maze-sinister-play-collectors-edition.json](./170215-maze-sinister-play-collectors-edition.json) |
+| Maze: Subject 360 | 140189 | [140189-maze-subject-360.json](./140189-maze-subject-360.json) |
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: Subject 360 HD | 95346 | [95346-maze-subject-360-hd.json](./95346-maze-subject-360-hd.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
@@ -7857,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
 | Memories of Castlemouse | 346793 | [346793-memories-of-castlemouse.json](./346793-memories-of-castlemouse.json) |
+| Memories of Fireflies | 139596 | [139596-memories-of-fireflies.json](./139596-memories-of-fireflies.json) |
 | Memories of Home | 51568 | [51568-memories-of-home.json](./51568-memories-of-home.json) |
 | Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
@@ -8494,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merri Puzzle | 39765 | [39765-merri-puzzle.json](./39765-merri-puzzle.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
 | Merrily Perilly | 104028 | [104028-merrily-perilly.json](./104028-merrily-perilly.json) |
+| Merriment Carrying Caravan | 140159 | [140159-merriment-carrying-caravan.json](./140159-merriment-carrying-caravan.json) |
 | Merror | 374641 | [374641-merror.json](./374641-merror.json) |
 | Merry Bear | 285958 | [285958-merry-bear.json](./285958-merry-bear.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
@@ -8528,6 +8537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meshuda | 406213 | [406213-meshuda.json](./406213-meshuda.json) |
 | Mesih | 281386 | [281386-mesih.json](./281386-mesih.json) |
 | Mesmalie | 361116 | [361116-mesmalie.json](./361116-mesmalie.json) |
+| Mesmer | 139631 | [139631-mesmer.json](./139631-mesmer.json) |
 | Mesmerize: Distort | 99979 | [99979-mesmerize-distort.json](./99979-mesmerize-distort.json) |
 | Mesmerize: Trace | 209526 | [209526-mesmerize-trace.json](./209526-mesmerize-trace.json) |
 | Mesmerizer | 313193 | [313193-mesmerizer.json](./313193-mesmerizer.json) |
@@ -10013,8 +10023,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
 | Midnight Mysteries: Ghostwriting | 59874 | [59874-midnight-mysteries-ghostwriting.json](./59874-midnight-mysteries-ghostwriting.json) |
 | Midnight Mysteries: Ghostwriting - Collector’s Edition | 239231 | [239231-midnight-mysteries-ghostwriting-collector-s-edition.json](./239231-midnight-mysteries-ghostwriting-collector-s-edition.json) |
+| Midnight Mysteries: Salem Witch Trials | 140190 | [140190-midnight-mysteries-salem-witch-trials.json](./140190-midnight-mysteries-salem-witch-trials.json) |
 | Midnight Mysteries: Salem Witch Trials - Collector's Edition | 94888 | [94888-midnight-mysteries-salem-witch-trials-collectors-edition.json](./94888-midnight-mysteries-salem-witch-trials-collectors-edition.json) |
 | Midnight Mysteries: The Edgar Allan Poe Conspiracy | 10549 | [10549-midnight-mysteries-the-edgar-allan-poe-conspiracy.json](./10549-midnight-mysteries-the-edgar-allan-poe-conspiracy.json) |
+| Midnight Mysteries: Witches of Abraham | 140191 | [140191-midnight-mysteries-witches-of-abraham.json](./140191-midnight-mysteries-witches-of-abraham.json) |
 | Midnight Mysteries: Witches of Abraham - Collector's Edition | 36150 | [36150-midnight-mysteries-witches-of-abraham-collectors-edition.json](./36150-midnight-mysteries-witches-of-abraham-collectors-edition.json) |
 | Midnight Myths | 307195 | [307195-midnight-myths.json](./307195-midnight-myths.json) |
 | Midnight of Despair | 291167 | [291167-midnight-of-despair.json](./291167-midnight-of-despair.json) |
@@ -10837,6 +10849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindflux: Dead Man Walking | 319701 | [319701-mindflux-dead-man-walking.json](./319701-mindflux-dead-man-walking.json) |
 | Mindform | 292367 | [292367-mindform.json](./292367-mindform.json) |
 | Mindframe Arena | 98276 | [98276-mindframe-arena.json](./98276-mindframe-arena.json) |
+| Mindframe: The Secret Design | 140192 | [140192-mindframe-the-secret-design.json](./140192-mindframe-the-secret-design.json) |
 | Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
 | Mindfunk in 13 Days | 397938 | [397938-mindfunk-in-13-days.json](./397938-mindfunk-in-13-days.json) |
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
@@ -11836,6 +11849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mino Monsters 2: Evolution | 38735 | [38735-mino-monsters-2-evolution.json](./38735-mino-monsters-2-evolution.json) |
 | Mino Saga | 81040 | [81040-mino-saga.json](./81040-mino-saga.json) |
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
+| Minor Arcana | 140179 | [140179-minor-arcana.json](./140179-minor-arcana.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
 | Minor Leader | 121285 | [121285-minor-leader.json](./121285-minor-leader.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
@@ -12808,10 +12822,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai 3: Trade Mission | 58646 | [58646-moai-3-trade-mission.json](./58646-moai-3-trade-mission.json) |
 | Moai 3: Trade Mission - Collector's Edition | 33654 | [33654-moai-3-trade-mission-collectors-edition.json](./33654-moai-3-trade-mission-collectors-edition.json) |
+| Moai 4: Terra Incognita | 140193 | [140193-moai-4-terra-incognita.json](./140193-moai-4-terra-incognita.json) |
 | Moai 4: Terra Incognita - Collector's Edition | 32571 | [32571-moai-4-terra-incognita-collectors-edition.json](./32571-moai-4-terra-incognita-collectors-edition.json) |
 | Moai 6: Unexpected Guests - Collector's Edition | 170205 | [170205-moai-6-unexpected-guests-collectors-edition.json](./170205-moai-6-unexpected-guests-collectors-edition.json) |
 | Moai 7: Mystery Coast | 171437 | [171437-moai-7-mystery-coast.json](./171437-moai-7-mystery-coast.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
+| Moai III: Trade Mission | 140194 | [140194-moai-iii-trade-mission.json](./140194-moai-iii-trade-mission.json) |
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
 | Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
 | Moai no Hihou | 41789 | [41789-moai-no-hihou.json](./41789-moai-no-hihou.json) |
@@ -13775,6 +13791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Mobius: Rights and Wrongs Forgotten - Limited Edition | 201046 | [201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json](./201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json) |
 | Monochrome Pixels | 310576 | [310576-monochrome-pixels.json](./310576-monochrome-pixels.json) |
 | Monochrome Racing | 52592 | [52592-monochrome-racing.json](./52592-monochrome-racing.json) |
+| Monochrome RPG | 140796 | [140796-monochrome-rpg.json](./140796-monochrome-rpg.json) |
 | Monochrome RPG Episode 1: The Maniacal Morning | 152894 | [152894-monochrome-rpg-episode-1-the-maniacal-morning.json](./152894-monochrome-rpg-episode-1-the-maniacal-morning.json) |
 | Monochrome Valentine | 183576 | [183576-monochrome-valentine.json](./183576-monochrome-valentine.json) |
 | Monochrome World | 133104 | [133104-monochrome-world.json](./133104-monochrome-world.json) |
@@ -15387,6 +15404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Time Lord of Apokolips Geras | 388869 | [388869-mortal-kombat-11-time-lord-of-apokolips-geras.json](./388869-mortal-kombat-11-time-lord-of-apokolips-geras.json) |
 | Mortal Kombat 11: Time Warriors Skin Pack | 388866 | [388866-mortal-kombat-11-time-warriors-skin-pack.json](./388866-mortal-kombat-11-time-warriors-skin-pack.json) |
 | Mortal Kombat 11: Ultimate | 139446 | [139446-mortal-kombat-11-ultimate.json](./139446-mortal-kombat-11-ultimate.json) |
+| Mortal Kombat 11: Ultimate - Kollector's Edition | 140163 | [140163-mortal-kombat-11-ultimate-kollectors-edition.json](./140163-mortal-kombat-11-ultimate-kollectors-edition.json) |
 | Mortal Kombat 11: Ultimate + Injustice 2 Legendary Edition Bundle | 164774 | [164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json](./164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json) |
 | Mortal Kombat 11: Ultimate Add-On Bundle | 238336 | [238336-mortal-kombat-11-ultimate-add-on-bundle.json](./238336-mortal-kombat-11-ultimate-add-on-bundle.json) |
 | Mortal Kombat 11: War Games Sonya Blade | 388871 | [388871-mortal-kombat-11-war-games-sonya-blade.json](./388871-mortal-kombat-11-war-games-sonya-blade.json) |
@@ -16789,6 +16807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: The Adventure of the McKirk Ritual - Collector's Edition | 186333 | [186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json](./186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json) |
 | Ms. Holmes: The Case of the Dancing Men - Collector's Edition | 253896 | [253896-ms-holmes-the-case-of-the-dancing-men-collectors-edition.json](./253896-ms-holmes-the-case-of-the-dancing-men-collectors-edition.json) |
 | Ms. Holmes: The Milverton Plot - Collector's Edition | 337244 | [337244-ms-holmes-the-milverton-plot-collectors-edition.json](./337244-ms-holmes-the-milverton-plot-collectors-edition.json) |
+| Ms. Holmes: The Monster of the Baskervilles | 140195 | [140195-ms-holmes-the-monster-of-the-baskervilles.json](./140195-ms-holmes-the-monster-of-the-baskervilles.json) |
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
 | Ms. Infinity's Math Mansion - Kindergarten | 73098 | [73098-ms-infinitys-math-mansion-kindergarten.json](./73098-ms-infinitys-math-mansion-kindergarten.json) |
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
@@ -19065,6 +19084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
 | My Very Hungry Caterpillar AR | 109544 | [109544-my-very-hungry-caterpillar-ar.json](./109544-my-very-hungry-caterpillar-ar.json) |
 | My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
+| My Very Own Light | 139599 | [139599-my-very-own-light.json](./139599-my-very-own-light.json) |
 | My Very Own Train Station | 179413 | [179413-my-very-own-train-station.json](./179413-my-very-own-train-station.json) |
 | My Vet Practice 3D - In the Country | 84709 | [84709-my-vet-practice-3d-in-the-country.json](./84709-my-vet-practice-3d-in-the-country.json) |
 | My Video Game Girlfriend | 206000 | [206000-my-video-game-girlfriend.json](./206000-my-video-game-girlfriend.json) |
@@ -19259,6 +19279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
 | Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
 | Mysteries of the Manor | 297752 | [297752-mysteries-of-the-manor.json](./297752-mysteries-of-the-manor.json) |
+| Mysteries of the Past: Shadow of the Daemon | 140196 | [140196-mysteries-of-the-past-shadow-of-the-daemon.json](./140196-mysteries-of-the-past-shadow-of-the-daemon.json) |
 | Mysteries of the Past: Shadow of the Daemon - Collector's Edition | 33581 | [33581-mysteries-of-the-past-shadow-of-the-daemon-collectors-edition.json](./33581-mysteries-of-the-past-shadow-of-the-daemon-collectors-edition.json) |
 | Mysteries of the Past: Shadow of the Deamon | 87275 | [87275-mysteries-of-the-past-shadow-of-the-deamon.json](./87275-mysteries-of-the-past-shadow-of-the-deamon.json) |
 | Mysteries Under Lake Ophelia | 178415 | [178415-mysteries-under-lake-ophelia.json](./178415-mysteries-under-lake-ophelia.json) |
