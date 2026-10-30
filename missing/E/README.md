@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Territory Fortress | 273010 | [273010-enemy-territory-fortress.json](./273010-enemy-territory-fortress.json) |
 | Enemy Trench | 266083 | [266083-enemy-trench.json](./266083-enemy-trench.json) |
 | Enemy Zero | 13549 | [13549-enemy-zero.json](./13549-enemy-zero.json) |
+| Enemy: Tempest of Violence | 145893 | [145893-enemy-tempest-of-violence.json](./145893-enemy-tempest-of-violence.json) |
 | Enen Angel | 107641 | [107641-enen-angel.json](./107641-enen-angel.json) |
 | Enenra | 182458 | [182458-enenra.json](./182458-enenra.json) |
 | Ener-G Dance Squad | 47921 | [47921-ener-g-dance-squad.json](./47921-ener-g-dance-squad.json) |
@@ -4315,6 +4316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erebus | 36919 | [36919-erebus.json](./36919-erebus.json) |
 | Erectus | 204839 | [204839-erectus.json](./204839-erectus.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
+| Eredan Arena | 145870 | [145870-eredan-arena.json](./145870-eredan-arena.json) |
 | Eredan iTCG | 76909 | [76909-eredan-itcg.json](./76909-eredan-itcg.json) |
 | Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
