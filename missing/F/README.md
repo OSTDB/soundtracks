@@ -1490,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Party: 30 Great Games Outdoor Fun | 50999 | [50999-family-party-30-great-games-outdoor-fun.json](./50999-family-party-30-great-games-outdoor-fun.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
 | Family Pet Dog Games | 296744 | [296744-family-pet-dog-games.json](./296744-family-pet-dog-games.json) |
+| Family Picross! | 142069 | [142069-family-picross.json](./142069-family-picross.json) |
 | Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
 | Family Project | 92699 | [92699-family-project.json](./92699-family-project.json) |
 | Family Quiz | 172089 | [172089-family-quiz.json](./172089-family-quiz.json) |
@@ -2354,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farma Force | 236319 | [236319-farma-force.json](./236319-farma-force.json) |
 | Farmageddon | 217127 | [217127-farmageddon.json](./217127-farmageddon.json) |
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
+| Farmageddon: A Cattle Royale | 142059 | [142059-farmageddon-a-cattle-royale.json](./142059-farmageddon-a-cattle-royale.json) |
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
 | Farmagia | 250918 | [250918-farmagia.json](./250918-farmagia.json) |
 | Farmagia: Afanc Skin - Baby Tomato | 324445 | [324445-farmagia-afanc-skin-baby-tomato.json](./324445-farmagia-afanc-skin-baby-tomato.json) |
@@ -2435,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17: Platinum Edition | 75868 | [75868-farming-simulator-17-platinum-edition.json](./75868-farming-simulator-17-platinum-edition.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
 | Farming Simulator 17: Ropa Pack | 90136 | [90136-farming-simulator-17-ropa-pack.json](./90136-farming-simulator-17-ropa-pack.json) |
+| Farming Simulator 19: Alpine Farming | 142604 | [142604-farming-simulator-19-alpine-farming.json](./142604-farming-simulator-19-alpine-farming.json) |
 | Farming Simulator 19: Alpine Farming Expansion | 166102 | [166102-farming-simulator-19-alpine-farming-expansion.json](./166102-farming-simulator-19-alpine-farming-expansion.json) |
 | Farming Simulator 19: Ambassador Edition | 202420 | [202420-farming-simulator-19-ambassador-edition.json](./202420-farming-simulator-19-ambassador-edition.json) |
 | Farming Simulator 19: Anderson Group | 116015 | [116015-farming-simulator-19-anderson-group.json](./116015-farming-simulator-19-anderson-group.json) |
@@ -12613,6 +12616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fwd | 177686 | [177686-fwd.json](./177686-fwd.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
 | Fwosty Poetwy | 179010 | [179010-fwosty-poetwy.json](./179010-fwosty-poetwy.json) |
+| FWsim - Fireworks Display Simulator | 142028 | [142028-fwsim-fireworks-display-simulator.json](./142028-fwsim-fireworks-display-simulator.json) |
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
 | FX Chess Plus | 92864 | [92864-fx-chess-plus.json](./92864-fx-chess-plus.json) |
 | FX Eleven | 62221 | [62221-fx-eleven.json](./62221-fx-eleven.json) |
