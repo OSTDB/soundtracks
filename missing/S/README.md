@@ -3354,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
 | Scrutator Tenebris | 382174 | [382174-scrutator-tenebris.json](./382174-scrutator-tenebris.json) |
+| Scrutinized | 136668 | [136668-scrutinized.json](./136668-scrutinized.json) |
 | ScruTiny in the Great Round | 172409 | [172409-scrutiny-in-the-great-round.json](./172409-scrutiny-in-the-great-round.json) |
 | Scruzzleword | 21582 | [21582-scruzzleword.json](./21582-scruzzleword.json) |
 | SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
@@ -3434,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 4 | 225078 | [225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json](./225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json) |
 | SD Gundam G Generation Cross Rays: Expansion Pack | 225079 | [225079-sd-gundam-g-generation-cross-rays-expansion-pack.json](./225079-sd-gundam-g-generation-cross-rays-expansion-pack.json) |
 | SD Gundam G Generation Cross Rays: Platinum Edition | 142371 | [142371-sd-gundam-g-generation-cross-rays-platinum-edition.json](./142371-sd-gundam-g-generation-cross-rays-platinum-edition.json) |
+| SD Gundam G Generation Cross Rays: Premium G Sound Edition | 136643 | [136643-sd-gundam-g-generation-cross-rays-premium-g-sound-edition.json](./136643-sd-gundam-g-generation-cross-rays-premium-g-sound-edition.json) |
 | SD Gundam G Generation Eternal | 208134 | [208134-sd-gundam-g-generation-eternal.json](./208134-sd-gundam-g-generation-eternal.json) |
 | SD Gundam G Generation Genesis | 75731 | [75731-sd-gundam-g-generation-genesis.json](./75731-sd-gundam-g-generation-genesis.json) |
 | SD Gundam G Generation Neo | 65981 | [65981-sd-gundam-g-generation-neo.json](./65981-sd-gundam-g-generation-neo.json) |
@@ -4909,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Peach Beach Splash | 25656 | [25656-senran-kagura-peach-beach-splash.json](./25656-senran-kagura-peach-beach-splash.json) |
 | Senran Kagura: Peach Beach Splash - No Shirt, No Shoes, All Service Edition | 136217 | [136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json](./136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
+| Senran Kagura: Peach Beach Splash - Sunshine Edition | 136669 | [136669-senran-kagura-peach-beach-splash-sunshine-edition.json](./136669-senran-kagura-peach-beach-splash-sunshine-edition.json) |
 | Senran Kagura: Shinovi Versus | 11536 | [11536-senran-kagura-shinovi-versus.json](./11536-senran-kagura-shinovi-versus.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
@@ -7456,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Persona 3 Portable - Collector's Edition | 41863 | [41863-shin-megami-tensei-persona-3-portable-collectors-edition.json](./41863-shin-megami-tensei-persona-3-portable-collectors-edition.json) |
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin Megami Tensei: Strange Journey 2 | 299176 | [299176-shin-megami-tensei-strange-journey-2.json](./299176-shin-megami-tensei-strange-journey-2.json) |
+| Shin Megami Tensei: Tokyo Requiem | 136615 | [136615-shin-megami-tensei-tokyo-requiem.json](./136615-shin-megami-tensei-tokyo-requiem.json) |
 | Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka | 46584 | [46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json](./46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 37626 | [37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 61304 | [61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
@@ -12253,6 +12257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | Slimes: Cannon Combat | 250841 | [250841-slimes-cannon-combat.json](./250841-slimes-cannon-combat.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
+| Slimesphere | 136632 | [136632-slimesphere.json](./136632-slimesphere.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
@@ -15586,6 +15591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Generations Collection | 28000 | [28000-sonic-generations-collection.json](./28000-sonic-generations-collection.json) |
 | Sonic Generations: A New Beginning | 330877 | [330877-sonic-generations-a-new-beginning.json](./330877-sonic-generations-a-new-beginning.json) |
 | Sonic Generations: Casino Night DLC | 133938 | [133938-sonic-generations-casino-night-dlc.json](./133938-sonic-generations-casino-night-dlc.json) |
+| Sonic Generations: Collector's Edition | 136662 | [136662-sonic-generations-collectors-edition.json](./136662-sonic-generations-collectors-edition.json) |
 | Sonic Generations: White Time and Space 20th Anniversary Set | 89889 | [89889-sonic-generations-white-time-and-space-20th-anniversary-set.json](./89889-sonic-generations-white-time-and-space-20th-anniversary-set.json) |
 | Sonic Genesis | 331990 | [331990-sonic-genesis.json](./331990-sonic-genesis.json) |
 | Sonic Genesis of the Azure Wind | 331714 | [331714-sonic-genesis-of-the-azure-wind.json](./331714-sonic-genesis-of-the-azure-wind.json) |
@@ -26779,6 +26785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Lesson: Allison Snow & Chisato Shinjo | 166976 | [166976-summer-lesson-allison-snow-and-chisato-shinjo.json](./166976-summer-lesson-allison-snow-and-chisato-shinjo.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Lesson: Hikari Miyamoto | 136765 | [136765-summer-lesson-hikari-miyamoto.json](./136765-summer-lesson-hikari-miyamoto.json) |
+| Summer Lesson: Hikari, Allison, and Chisato (3 in 1 Basic Game) | 136678 | [136678-summer-lesson-hikari-allison-and-chisato-3-in-1-basic-game.json](./136678-summer-lesson-hikari-allison-and-chisato-3-in-1-basic-game.json) |
 | Summer Loops | 224150 | [224150-summer-loops.json](./224150-summer-loops.json) |
 | Summer Love | 332342 | [332342-summer-love.json](./332342-summer-love.json) |
 | Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
@@ -29292,6 +29299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars OG: The Moon Dwellers - Limited Edition | 166306 | [166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json](./166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json) |
 | Super Robot Wars T: Premium Anime Song & Sound Edition | 136690 | [136690-super-robot-wars-t-premium-anime-song-and-sound-edition.json](./136690-super-robot-wars-t-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars V | 117578 | [117578-super-robot-wars-v.json](./117578-super-robot-wars-v.json) |
+| Super Robot Wars V: Premium Anime Song & Sound Edition | 136655 | [136655-super-robot-wars-v-premium-anime-song-and-sound-edition.json](./136655-super-robot-wars-v-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars X: Premium Anime Song & Sound Edition | 136755 | [136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json](./136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars X: Steelbook Edition | 167016 | [167016-super-robot-wars-x-steelbook-edition.json](./167016-super-robot-wars-x-steelbook-edition.json) |
@@ -31728,6 +31736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fractured Daydream - Premium Edition | 308793 | [308793-sword-art-online-fractured-daydream-premium-edition.json](./308793-sword-art-online-fractured-daydream-premium-edition.json) |
 | Sword Art Online: Fractured Daydream - Premium Upgrade | 331914 | [331914-sword-art-online-fractured-daydream-premium-upgrade.json](./331914-sword-art-online-fractured-daydream-premium-upgrade.json) |
 | Sword Art Online: Fractured Daydream - Symphony of a Dazzling Dawn | 356799 | [356799-sword-art-online-fractured-daydream-symphony-of-a-dazzling-dawn.json](./356799-sword-art-online-fractured-daydream-symphony-of-a-dazzling-dawn.json) |
+| Sword Art Online: Game Director's Edition | 136666 | [136666-sword-art-online-game-directors-edition.json](./136666-sword-art-online-game-directors-edition.json) |
 | Sword Art Online: Hollow Fragment | 9618 | [9618-sword-art-online-hollow-fragment.json](./9618-sword-art-online-hollow-fragment.json) |
 | Sword Art Online: Hollow Realization | 12632 | [12632-sword-art-online-hollow-realization.json](./12632-sword-art-online-hollow-realization.json) |
 | Sword Art Online: Hollow Realization - Limited Edition | 212317 | [212317-sword-art-online-hollow-realization-limited-edition.json](./212317-sword-art-online-hollow-realization-limited-edition.json) |
