@@ -7228,6 +7228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Family Fun | 231067 | [231067-pixel-family-fun.json](./231067-pixel-family-fun.json) |
 | Pixel Family Fun: Extended Edition | 251599 | [251599-pixel-family-fun-extended-edition.json](./251599-pixel-family-fun-extended-edition.json) |
 | Pixel Family Fun: Ultimate Edition | 241411 | [241411-pixel-family-fun-ultimate-edition.json](./241411-pixel-family-fun-ultimate-edition.json) |
+| Pixel Fight | 132424 | [132424-pixel-fight.json](./132424-pixel-fight.json) |
 | Pixel Fireplace | 134645 | [134645-pixel-fireplace.json](./134645-pixel-fireplace.json) |
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
@@ -12563,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 02/03 | 172369 | [172369-premier-manager-02-03.json](./172369-premier-manager-02-03.json) |
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
 | Premier Manager 08 | 174003 | [174003-premier-manager-08.json](./174003-premier-manager-08.json) |
+| Premier Manager 10 | 132394 | [132394-premier-manager-10.json](./132394-premier-manager-10.json) |
 | Premier Manager 2 | 73617 | [73617-premier-manager-2.json](./73617-premier-manager-2.json) |
 | Premier Manager 2000 | 43725 | [43725-premier-manager-2000.json](./43725-premier-manager-2000.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
