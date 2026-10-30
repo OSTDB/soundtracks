@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T22:36:38.621Z",
-  "total_missing": 285937,
+  "generated_at": "2026-10-30T22:43:05.338Z",
+  "total_missing": 285931,
   "games": [
     {
       "igdb_id": 191680,
@@ -102692,6 +102692,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -117520,11 +117525,6 @@
       "igdb_id": 52636,
       "game_name": "Battlefleet Gothic: Armada - Tau Empire",
       "file": "missing/B/52636-battlefleet-gothic-armada-tau-empire.json"
-    },
-    {
-      "igdb_id": 83844,
-      "game_name": "Battlefleet Gothic: Armada 2",
-      "file": "missing/B/83844-battlefleet-gothic-armada-2.json"
     },
     {
       "igdb_id": 120157,
@@ -518992,11 +518992,6 @@
       "file": "missing/H/354226-halo-wars-2-season-pass.json"
     },
     {
-      "igdb_id": 37383,
-      "game_name": "Halo Wars 2: Awakening the Nightmare",
-      "file": "missing/H/37383-halo-wars-2-awakening-the-nightmare.json"
-    },
-    {
       "igdb_id": 354217,
       "game_name": "Halo Wars 2: Colony Leader Pack",
       "file": "missing/H/354217-halo-wars-2-colony-leader-pack.json"
@@ -609837,11 +609832,6 @@
       "file": "missing/J/112638-jetsnguns-2.json"
     },
     {
-      "igdb_id": 30372,
-      "game_name": "Jets'n'Guns Gold",
-      "file": "missing/J/30372-jetsnguns-gold.json"
-    },
-    {
       "igdb_id": 284484,
       "game_name": "Jets'n'Guns: Complete Collection",
       "file": "missing/J/284484-jetsnguns-complete-collection.json"
@@ -635530,6 +635520,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -769330,11 +769325,6 @@
       "igdb_id": 224007,
       "game_name": "Monster Legends",
       "file": "missing/M/224007-monster-legends.json"
-    },
-    {
-      "igdb_id": 59437,
-      "game_name": "Monster Legends",
-      "file": "missing/M/59437-monster-legends.json"
     },
     {
       "igdb_id": 390568,
@@ -1036342,11 +1036332,6 @@
       "file": "missing/S/95229-serum-x.json"
     },
     {
-      "igdb_id": 350179,
-      "game_name": "Servant of the Lake",
-      "file": "missing/S/350179-servant-of-the-lake.json"
-    },
-    {
       "igdb_id": 217134,
       "game_name": "Servants of Sumomon",
       "file": "missing/S/217134-servants-of-sumomon.json"
@@ -1071382,11 +1071367,6 @@
       "file": "missing/S/245728-slime-ing.json"
     },
     {
-      "igdb_id": 28069,
-      "game_name": "Slime-san",
-      "file": "missing/S/28069-slime-san.json"
-    },
-    {
       "igdb_id": 112734,
       "game_name": "Slime-san: Content Creator",
       "file": "missing/S/112734-slime-san-content-creator.json"
@@ -1097950,11 +1097930,6 @@
       "igdb_id": 84892,
       "game_name": "Space Hunted",
       "file": "missing/S/84892-space-hunted.json"
-    },
-    {
-      "igdb_id": 129956,
-      "game_name": "Space Hunted: The Lost Levels",
-      "file": "missing/S/129956-space-hunted-the-lost-levels.json"
     },
     {
       "igdb_id": 142222,
@@ -1367650,11 +1367625,6 @@
       "igdb_id": 371272,
       "game_name": "Warhawk",
       "file": "missing/W/371272-warhawk.json"
-    },
-    {
-      "igdb_id": 79687,
-      "game_name": "Warhawk",
-      "file": "missing/W/79687-warhawk.json"
     },
     {
       "igdb_id": 21871,
