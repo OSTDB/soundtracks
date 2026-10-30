@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
 | Daffy Duck: Fowl Play | 25800 | [25800-daffy-duck-fowl-play.json](./25800-daffy-duck-fowl-play.json) |
 | Daffy Duck: The Marvin Missions | 8132 | [8132-daffy-duck-the-marvin-missions.json](./8132-daffy-duck-the-marvin-missions.json) |
+| Daffy Fish | 152570 | [152570-daffy-fish.json](./152570-daffy-fish.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
 | Daft Jump! | 108222 | [108222-daft-jump.json](./108222-daft-jump.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
@@ -5699,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Crasher | 188249 | [188249-demon-crasher.json](./188249-demon-crasher.json) |
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
+| Demon Cycle | 152578 | [152578-demon-cycle.json](./152578-demon-cycle.json) |
 | Demon Dash | 239530 | [239530-demon-dash.json](./239530-demon-dash.json) |
 | Demon Demon | 341678 | [341678-demon-demon.json](./341678-demon-demon.json) |
 | Demon Dodger | 255249 | [255249-demon-dodger.json](./255249-demon-dodger.json) |
@@ -5900,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
 | Demonlisher | 17813 | [17813-demonlisher.json](./17813-demonlisher.json) |
+| Demonlore | 152568 | [152568-demonlore.json](./152568-demonlore.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
 | Demonology: Incubus: Chapter 1 | 315244 | [315244-demonology-incubus-chapter-1.json](./315244-demonology-incubus-chapter-1.json) |
 | Demonology: Incubus: Chapter 2 | 315246 | [315246-demonology-incubus-chapter-2.json](./315246-demonology-incubus-chapter-2.json) |
@@ -7279,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Wish | 330645 | [330645-devils-wish.json](./330645-devils-wish.json) |
 | DevilConnection | 312736 | [312736-devilconnection.json](./312736-devilconnection.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
+| Devileader | 152576 | [152576-devileader.json](./152576-devileader.json) |
 | Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
 | Devilgotchi | 229844 | [229844-devilgotchi.json](./229844-devilgotchi.json) |
