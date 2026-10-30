@@ -13707,6 +13707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Strike | 15372 | [15372-snow-strike.json](./15372-snow-strike.json) |
 | Snow Survival | 151518 | [151518-snow-survival.json](./151518-snow-survival.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
+| Snow Trail | 155821 | [155821-snow-trail.json](./155821-snow-trail.json) |
 | Snow Trial | 88125 | [88125-snow-trial.json](./88125-snow-trial.json) |
 | Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
@@ -17667,6 +17668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
 | Space Prison | 244649 | [244649-space-prison.json](./244649-space-prison.json) |
 | Space Prison: Holo Dancer | 389553 | [389553-space-prison-holo-dancer.json](./389553-space-prison-holo-dancer.json) |
+| Space Probes | 155820 | [155820-space-probes.json](./155820-space-probes.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
 | Space Quest 0: Replicated | 349901 | [349901-space-quest-0-replicated.json](./349901-space-quest-0-replicated.json) |
@@ -20461,6 +20463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
 | Spy Drops Gaiden | 390464 | [390464-spy-drops-gaiden.json](./390464-spy-drops-gaiden.json) |
+| Spy Escape | 155840 | [155840-spy-escape.json](./155840-spy-escape.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Fox 3: Operation Ozone | 7653 | [7653-spy-fox-3-operation-ozone.json](./7653-spy-fox-3-operation-ozone.json) |
 | Spy Fox Dry: Cereal and Cheese Chase - Activity Game | 208772 | [208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json](./208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json) |
@@ -25097,6 +25100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Life Simulator | 374347 | [374347-street-life-simulator.json](./374347-street-life-simulator.json) |
+| Street Massacre | 155899 | [155899-street-massacre.json](./155899-street-massacre.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street Masters | 175196 | [175196-street-masters.json](./175196-street-masters.json) |
 | Street Ninja | 217946 | [217946-street-ninja.json](./217946-street-ninja.json) |
