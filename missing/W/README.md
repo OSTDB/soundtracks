@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Merkava Mk.3 Raam Segol Pack | 332081 | [332081-war-thunder-merkava-mk-3-raam-segol-pack.json](./332081-war-thunder-merkava-mk-3-raam-segol-pack.json) |
 | War Thunder: Object 120 Pack | 332079 | [332079-war-thunder-object-120-pack.json](./332079-war-thunder-object-120-pack.json) |
 | War Thunder: Object 140 Bundle | 331499 | [331499-war-thunder-object-140-bundle.json](./331499-war-thunder-object-140-bundle.json) |
+| War Thunder: Premium Package | 136649 | [136649-war-thunder-premium-package.json](./136649-war-thunder-premium-package.json) |
 | War Thunder: Reaper Pack | 156104 | [156104-war-thunder-reaper-pack.json](./156104-war-thunder-reaper-pack.json) |
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
 | War Thunder: Su-22M4 WTD 61 Bundle | 331504 | [331504-war-thunder-su-22m4-wtd-61-bundle.json](./331504-war-thunder-su-22m4-wtd-61-bundle.json) |
@@ -8302,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wunderwaffe | 105654 | [105654-wunderwaffe.json](./105654-wunderwaffe.json) |
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
+| Wuppo: Breft Festival Forever | 139009 | [139009-wuppo-breft-festival-forever.json](./139009-wuppo-breft-festival-forever.json) |
 | Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
 | Wuppo: Special Edition | 52121 | [52121-wuppo-special-edition.json](./52121-wuppo-special-edition.json) |
 | Wuppo: Super Deluxe Edition | 118903 | [118903-wuppo-super-deluxe-edition.json](./118903-wuppo-super-deluxe-edition.json) |
