@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scripted Souls | 200563 | [200563-scripted-souls.json](./200563-scripted-souls.json) |
 | Scriptic: Interactive Dramas | 191860 | [191860-scriptic-interactive-dramas.json](./191860-scriptic-interactive-dramas.json) |
 | Scriptorium: Master of Manuscripts | 313811 | [313811-scriptorium-master-of-manuscripts.json](./313811-scriptorium-master-of-manuscripts.json) |
+| Scriptum VR: The Neighbor's House Escape Room | 126784 | [126784-scriptum-vr-the-neighbors-house-escape-room.json](./126784-scriptum-vr-the-neighbors-house-escape-room.json) |
 | Scriptur | 190225 | [190225-scriptur.json](./190225-scriptur.json) |
 | Scripture | 192574 | [192574-scripture.json](./192574-scripture.json) |
 | Scrivalry | 58129 | [58129-scrivalry.json](./58129-scrivalry.json) |
@@ -17578,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30859,6 +30861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: The King Killer | 86588 | [86588-survive-the-king-killer.json](./86588-survive-the-king-killer.json) |
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
+| Survived | 126811 | [126811-survived.json](./126811-survived.json) |
 | Survived | 151052 | [151052-survived.json](./151052-survived.json) |
 | Survived By | 55218 | [55218-survived-by.json](./55218-survived-by.json) |
 | Survivesmith | 346628 | [346628-survivesmith.json](./346628-survivesmith.json) |
