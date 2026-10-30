@@ -14889,6 +14889,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomicrops Double Bundle | 263611 | [263611-atomicrops-double-bundle.json](./263611-atomicrops-double-bundle.json) |
 | Atomicrops: Deerly Beloved | 224435 | [224435-atomicrops-deerly-beloved.json](./224435-atomicrops-deerly-beloved.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
+| Atomicrops: Doom & Bloom | 169049 | [169049-atomicrops-doom-and-bloom.json](./169049-atomicrops-doom-and-bloom.json) |
+| Atomicrops: Feline Good | 169048 | [169048-atomicrops-feline-good.json](./169048-atomicrops-feline-good.json) |
 | Atomicrops: Invasive Species | 167929 | [167929-atomicrops-invasive-species.json](./167929-atomicrops-invasive-species.json) |
 | Atomicrops: Reap What You Bundle | 204273 | [204273-atomicrops-reap-what-you-bundle.json](./204273-atomicrops-reap-what-you-bundle.json) |
 | Atomicrops: Reap What You Crow | 196051 | [196051-atomicrops-reap-what-you-crow.json](./196051-atomicrops-reap-what-you-crow.json) |
