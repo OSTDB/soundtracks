@@ -2826,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoji Heian Memoirs | 181504 | [181504-onmyoji-heian-memoirs.json](./181504-onmyoji-heian-memoirs.json) |
 | Onmyoji in the Otherworld: Sayaka's Story | 172005 | [172005-onmyoji-in-the-otherworld-sayakas-story.json](./172005-onmyoji-in-the-otherworld-sayakas-story.json) |
 | Onmyoji: Beyond Time | 298981 | [298981-onmyoji-beyond-time.json](./298981-onmyoji-beyond-time.json) |
+| Onmyoji: The Card Game | 143262 | [143262-onmyoji-the-card-game.json](./143262-onmyoji-the-card-game.json) |
 | Onmyoji: The World | 175028 | [175028-onmyoji-the-world.json](./175028-onmyoji-the-world.json) |
 | Onmyou Taisenki: Byakko Enbu | 78491 | [78491-onmyou-taisenki-byakko-enbu.json](./78491-onmyou-taisenki-byakko-enbu.json) |
 | Onmyou Taisenki: Hasha no In | 78492 | [78492-onmyou-taisenki-hasha-no-in.json](./78492-onmyou-taisenki-hasha-no-in.json) |
@@ -4057,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Ostallian Core | 294298 | [294298-ostallian-core.json](./294298-ostallian-core.json) |
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
+| Osteoblasts | 143251 | [143251-osteoblasts.json](./143251-osteoblasts.json) |
 | Osteotic Bypass | 181623 | [181623-osteotic-bypass.json](./181623-osteotic-bypass.json) |
 | Ostera: The curse of... | 295145 | [295145-ostera-the-curse-of.json](./295145-ostera-the-curse-of.json) |
 | Osterballerei | 92972 | [92972-osterballerei.json](./92972-osterballerei.json) |
@@ -4286,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Oubey VR: Reise der Monaden | 292688 | [292688-oubey-vr-reise-der-monaden.json](./292688-oubey-vr-reise-der-monaden.json) |
 | Oubey VR: Samurai | 292693 | [292693-oubey-vr-samurai.json](./292693-oubey-vr-samurai.json) |
+| Oubliette | 144521 | [144521-oubliette.json](./144521-oubliette.json) |
 | Oubliette | 2869 | [2869-oubliette.json](./2869-oubliette.json) |
 | Oubliette | 385369 | [385369-oubliette.json](./385369-oubliette.json) |
 | Oubliette Fatalis | 279078 | [279078-oubliette-fatalis.json](./279078-oubliette-fatalis.json) |
