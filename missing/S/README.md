@@ -6795,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shave N Quit | 284412 | [284412-shave-n-quit.json](./284412-shave-n-quit.json) |
 | Shaverma: Ravshan Edition | 112943 | [112943-shaverma-ravshan-edition.json](./112943-shaverma-ravshan-edition.json) |
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
+| Shawarma or Shaverma | 165914 | [165914-shawarma-or-shaverma.json](./165914-shawarma-or-shaverma.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
 | Shawn Johnson Gymnastics | 365614 | [365614-shawn-johnson-gymnastics.json](./365614-shawn-johnson-gymnastics.json) |
@@ -7616,6 +7617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki GPX Cyber Formula: Road to the Infinity 4 | 58059 | [58059-shinseiki-gpx-cyber-formula-road-to-the-infinity-4.json](./58059-shinseiki-gpx-cyber-formula-road-to-the-infinity-4.json) |
 | Shinseiki Odysselya | 42367 | [42367-shinseiki-odysselya.json](./42367-shinseiki-odysselya.json) |
 | Shinseiki Odysselya II | 42366 | [42366-shinseiki-odysselya-ii.json](./42366-shinseiki-odysselya-ii.json) |
+| Shinseiki Yuusha Taisen | 165911 | [165911-shinseiki-yuusha-taisen.json](./165911-shinseiki-yuusha-taisen.json) |
 | Shinsen Renki | 163232 | [163232-shinsen-renki.json](./163232-shinsen-renki.json) |
 | Shinsen-den | 77406 | [77406-shinsen-den.json](./77406-shinsen-den.json) |
 | Shinsengumi Fukuchou no Yuuga na Hitotoki | 163348 | [163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json](./163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json) |
@@ -9620,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simov | 130639 | [130639-simov.json](./130639-simov.json) |
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
+| Simp Simulator | 165916 | [165916-simp-simulator.json](./165916-simp-simulator.json) |
 | Simp Simulator 2023 | 253857 | [253857-simp-simulator-2023.json](./253857-simp-simulator-2023.json) |
 | SIMP: Super Infection Massive Pathology | 336586 | [336586-simp-super-infection-massive-pathology.json](./336586-simp-super-infection-massive-pathology.json) |
 | SimPark | 16613 | [16613-simpark.json](./16613-simpark.json) |
@@ -30999,6 +31002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Cafe | 385252 | [385252-sweet-cafe.json](./385252-sweet-cafe.json) |
 | Sweet Calamity | 350587 | [350587-sweet-calamity.json](./350587-sweet-calamity.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
+| Sweet Candy | 165910 | [165910-sweet-candy.json](./165910-sweet-candy.json) |
 | Sweet Candy Mahjong | 31055 | [31055-sweet-candy-mahjong.json](./31055-sweet-candy-mahjong.json) |
 | Sweet Candy Maker Games | 96608 | [96608-sweet-candy-maker-games.json](./96608-sweet-candy-maker-games.json) |
 | Sweet Car Wash | 385687 | [385687-sweet-car-wash.json](./385687-sweet-car-wash.json) |
