@@ -16686,6 +16686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Pelicoins | 413021 | [413021-mr-pelicoins.json](./413021-mr-pelicoins.json) |
 | Mr. Pencil Presents DoodleCraft | 230332 | [230332-mr-pencil-presents-doodlecraft.json](./230332-mr-pencil-presents-doodlecraft.json) |
 | Mr. Pencil Saves Doodleburg | 137935 | [137935-mr-pencil-saves-doodleburg.json](./137935-mr-pencil-saves-doodleburg.json) |
+| Mr. Pencil: The Lost Colors of Doodleburg! | 137263 | [137263-mr-pencil-the-lost-colors-of-doodleburg.json](./137263-mr-pencil-the-lost-colors-of-doodleburg.json) |
 | Mr. Photographer | 292750 | [292750-mr-photographer.json](./292750-mr-photographer.json) |
 | Mr. Photographer: Into The Light | 350044 | [350044-mr-photographer-into-the-light.json](./350044-mr-photographer-into-the-light.json) |
 | Mr. Pibb: The 3D Interactive Game | 123586 | [123586-mr-pibb-the-3d-interactive-game.json](./123586-mr-pibb-the-3d-interactive-game.json) |
