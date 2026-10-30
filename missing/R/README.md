@@ -5747,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReVamp | 394666 | [394666-revamp.json](./394666-revamp.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Revasion | 190870 | [190870-revasion.json](./190870-revasion.json) |
+| Reveal | 128814 | [128814-reveal.json](./128814-reveal.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
 | Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
 | Reveal Your Monster | 392895 | [392895-reveal-your-monster.json](./392895-reveal-your-monster.json) |
@@ -8667,6 +8668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockFree | 165487 | [165487-rockfree.json](./165487-rockfree.json) |
 | Rockhopper | 291817 | [291817-rockhopper.json](./291817-rockhopper.json) |
 | Rockhounds | 391653 | [391653-rockhounds.json](./391653-rockhounds.json) |
+| Rockin' Night Crusade | 128777 | [128777-rockin-night-crusade.json](./128777-rockin-night-crusade.json) |
 | Rockin' Pretty | 69155 | [69155-rockin-pretty.json](./69155-rockin-pretty.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
