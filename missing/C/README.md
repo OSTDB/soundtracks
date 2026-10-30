@@ -8277,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City Noodle Shop Simulator | 326451 | [326451-city-noodle-shop-simulator.json](./326451-city-noodle-shop-simulator.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
+| City of Beats | 145845 | [145845-city-of-beats.json](./145845-city-of-beats.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
 | City of Brave | 150248 | [150248-city-of-brave.json](./150248-city-of-brave.json) |
 | City of Broken Dreamers: Book One | 172514 | [172514-city-of-broken-dreamers-book-one.json](./172514-city-of-broken-dreamers-book-one.json) |
@@ -18266,10 +18267,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberGroove | 262263 | [262263-cybergroove.json](./262263-cybergroove.json) |
 | CyberHeroes Arena | 218660 | [218660-cyberheroes-arena.json](./218660-cyberheroes-arena.json) |
 | CyberHeroes Arena DX | 235300 | [235300-cyberheroes-arena-dx.json](./235300-cyberheroes-arena-dx.json) |
+| CyberHive | 145967 | [145967-cyberhive.json](./145967-cyberhive.json) |
 | Cyberhold | 186156 | [186156-cyberhold.json](./186156-cyberhold.json) |
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
+| Cyberika | 145844 | [145844-cyberika.json](./145844-cyberika.json) |
 | CyberJudas | 78313 | [78313-cyberjudas.json](./78313-cyberjudas.json) |
 | Cyberjump | 264201 | [264201-cyberjump.json](./264201-cyberjump.json) |
 | Cyberkiller2049 | 320821 | [320821-cyberkiller2049.json](./320821-cyberkiller2049.json) |
@@ -18445,6 +18448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
 | Cybrus | 107610 | [107610-cybrus.json](./107610-cybrus.json) |
 | Cybus Adventure | 412927 | [412927-cybus-adventure.json](./412927-cybus-adventure.json) |
+| Cybxus Heart | 145842 | [145842-cybxus-heart.json](./145842-cybxus-heart.json) |
 | Cycene | 334851 | [334851-cycene.json](./334851-cycene.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
 | Cycle | 183700 | [183700-cycle.json](./183700-cycle.json) |
