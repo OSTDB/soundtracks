@@ -6436,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Chicken Game | 229603 | [229603-the-chicken-game.json](./229603-the-chicken-game.json) |
+| The Chicken's Fall | 172910 | [172910-the-chickens-fall.json](./172910-the-chickens-fall.json) |
 | The Chikafag and Chika | 165133 | [165133-the-chikafag-and-chika.json](./165133-the-chikafag-and-chika.json) |
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Children of Clay | 320420 | [320420-the-children-of-clay.json](./320420-the-children-of-clay.json) |
@@ -7729,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Egyptian Prophecy: The Fate of Ramses | 17414 | [17414-the-egyptian-prophecy-the-fate-of-ramses.json](./17414-the-egyptian-prophecy-the-fate-of-ramses.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Eigengrau Menagerie | 90480 | [90480-the-eigengrau-menagerie.json](./90480-the-eigengrau-menagerie.json) |
+| The Eightfold Path | 172919 | [172919-the-eightfold-path.json](./172919-the-eightfold-path.json) |
 | The Eighth Continent | 369383 | [369383-the-eighth-continent.json](./369383-the-eighth-continent.json) |
 | The Eigyoudou | 70594 | [70594-the-eigyoudou.json](./70594-the-eigyoudou.json) |
 | The Eire Raising Adventures of Seamus O'Mally | 73860 | [73860-the-eire-raising-adventures-of-seamus-omally.json](./73860-the-eire-raising-adventures-of-seamus-omally.json) |
@@ -8146,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faces of Evil Remastered Randomizer | 242113 | [242113-the-faces-of-evil-remastered-randomizer.json](./242113-the-faces-of-evil-remastered-randomizer.json) |
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
 | The Facility | 422081 | [422081-the-facility.json](./422081-the-facility.json) |
+| The Facility Project | 172942 | [172942-the-facility-project.json](./172942-the-facility-project.json) |
 | The Factory Must Fall | 394065 | [394065-the-factory-must-fall.json](./394065-the-factory-must-fall.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
 | The Factory Must Survive | 105207 | [105207-the-factory-must-survive.json](./105207-the-factory-must-survive.json) |
@@ -10966,6 +10969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Warrior | 47150 | [47150-the-last-warrior.json](./47150-the-last-warrior.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Werewolf | 235177 | [235177-the-last-werewolf.json](./235177-the-last-werewolf.json) |
+| The Last Will | 172938 | [172938-the-last-will.json](./172938-the-last-will.json) |
 | The Last Winter | 207576 | [207576-the-last-winter.json](./207576-the-last-winter.json) |
 | The Last Wish | 241847 | [241847-the-last-wish.json](./241847-the-last-wish.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
@@ -16412,6 +16416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
 | The Upper Hand | 311862 | [311862-the-upper-hand.json](./311862-the-upper-hand.json) |
 | The Uprising | 263365 | [263365-the-uprising.json](./263365-the-uprising.json) |
+| The Upturned | 172905 | [172905-the-upturned.json](./172905-the-upturned.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urbz: Sims in the City | 248680 | [248680-the-urbz-sims-in-the-city.json](./248680-the-urbz-sims-in-the-city.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
@@ -18124,6 +18129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Guys That Paint | 124674 | [124674-three-guys-that-paint.json](./124674-three-guys-that-paint.json) |
 | Three Heroes | 34990 | [34990-three-heroes.json](./34990-three-heroes.json) |
 | Three Hoops | 233076 | [233076-three-hoops.json](./233076-three-hoops.json) |
+| Three in a Rogue | 172908 | [172908-three-in-a-rogue.json](./172908-three-in-a-rogue.json) |
 | Three in One | 333684 | [333684-three-in-one.json](./333684-three-in-one.json) |
 | Three Jewels | 108161 | [108161-three-jewels.json](./108161-three-jewels.json) |
 | Three Kingdom: The Journey | 166618 | [166618-three-kingdom-the-journey.json](./166618-three-kingdom-the-journey.json) |
@@ -27020,6 +27026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trees Hate You | 382400 | [382400-trees-hate-you.json](./382400-trees-hate-you.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
+| Treffen | 172937 | [172937-treffen.json](./172937-treffen.json) |
 | Treflix: All for Kids | 366777 | [366777-treflix-all-for-kids.json](./366777-treflix-all-for-kids.json) |
 | Treflix: Comic Book Shame | 366789 | [366789-treflix-comic-book-shame.json](./366789-treflix-comic-book-shame.json) |
 | Treflix: Mini Games | 329433 | [329433-treflix-mini-games.json](./329433-treflix-mini-games.json) |
