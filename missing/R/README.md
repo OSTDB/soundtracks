@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Comrades: For the Great Justice | 52753 | [52753-red-comrades-for-the-great-justice.json](./52753-red-comrades-for-the-great-justice.json) |
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
 | Red Crimes: Hidden Murders | 108508 | [108508-red-crimes-hidden-murders.json](./108508-red-crimes-hidden-murders.json) |
+| Red Cross: Emergency Response Unit | 146498 | [146498-red-cross-emergency-response-unit.json](./146498-red-cross-emergency-response-unit.json) |
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
 | Red Crucible: Able Archer | 154061 | [154061-red-crucible-able-archer.json](./154061-red-crucible-able-archer.json) |
 | Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
@@ -3736,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reddoor | 213205 | [213205-reddoor.json](./213205-reddoor.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
 | Redeemer's Run | 264562 | [264562-redeemers-run.json](./264562-redeemers-run.json) |
+| Redeliver | 147036 | [147036-redeliver.json](./147036-redeliver.json) |
 | Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
 | Redemption Cemetery: At Death's Door Hidden | 96603 | [96603-redemption-cemetery-at-deaths-door-hidden.json](./96603-redemption-cemetery-at-deaths-door-hidden.json) |
@@ -3867,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reed ^_^ | 91141 | [91141-reed.json](./91141-reed.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
 | Reed Collection | 221993 | [221993-reed-collection.json](./221993-reed-collection.json) |
+| Reed the Robotanist | 146492 | [146492-reed-the-robotanist.json](./146492-reed-the-robotanist.json) |
 | Reed the Robotanist Plus | 211642 | [211642-reed-the-robotanist-plus.json](./211642-reed-the-robotanist-plus.json) |
 | Reederei | 94336 | [94336-reederei.json](./94336-reederei.json) |
 | Reeelz | 348952 | [348952-reeelz.json](./348952-reeelz.json) |
@@ -5384,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Dungeons | 65812 | [65812-retro-dungeons.json](./65812-retro-dungeons.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro Fears | 357200 | [357200-retro-fears.json](./357200-retro-fears.json) |
+| Retro Fighter: Dragon's Revenge | 147690 | [147690-retro-fighter-dragons-revenge.json](./147690-retro-fighter-dragons-revenge.json) |
 | Retro First Friday Collection #1 | 154616 | [154616-retro-first-friday-collection-1.json](./154616-retro-first-friday-collection-1.json) |
 | Retro First Friday Collection #2 | 154177 | [154177-retro-first-friday-collection-2.json](./154177-retro-first-friday-collection-2.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
@@ -5580,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Cyrus Cylinder | 319442 | [319442-return-of-the-cyrus-cylinder.json](./319442-return-of-the-cyrus-cylinder.json) |
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
 | Return of the Dinosaurs | 147214 | [147214-return-of-the-dinosaurs.json](./147214-return-of-the-dinosaurs.json) |
+| Return of the Heir | 147674 | [147674-return-of-the-heir.json](./147674-return-of-the-heir.json) |
 | Return of the Invaders | 40072 | [40072-return-of-the-invaders.json](./40072-return-of-the-invaders.json) |
 | Return of the Mutant Camels | 40961 | [40961-return-of-the-mutant-camels.json](./40961-return-of-the-mutant-camels.json) |
 | Return of the Ninja | 49858 | [49858-return-of-the-ninja.json](./49858-return-of-the-ninja.json) |
@@ -8242,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rochinko | 366572 | [366572-rochinko.json](./366572-rochinko.json) |
 | Rock - A True Story | 70852 | [70852-rock-a-true-story.json](./70852-rock-a-true-story.json) |
 | Rock 'Em Sock 'Em Robots | 146679 | [146679-rock-em-sock-em-robots.json](./146679-rock-em-sock-em-robots.json) |
+| Rock 'N Racing Bundle 3 in 1 | 147689 | [147689-rock-n-racing-bundle-3-in-1.json](./147689-rock-n-racing-bundle-3-in-1.json) |
 | Rock 'N Racing Bundle Grand Prix & Rally | 147793 | [147793-rock-n-racing-bundle-grand-prix-and-rally.json](./147793-rock-n-racing-bundle-grand-prix-and-rally.json) |
 | Rock 'N Racing Bundle Off Road & Grand Prix | 147797 | [147797-rock-n-racing-bundle-off-road-and-grand-prix.json](./147797-rock-n-racing-bundle-off-road-and-grand-prix.json) |
 | Rock 'N Racing Bundle Off Road & Rally | 147798 | [147798-rock-n-racing-bundle-off-road-and-rally.json](./147798-rock-n-racing-bundle-off-road-and-rally.json) |
@@ -9320,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollerball | 79731 | [79731-rollerball.json](./79731-rollerball.json) |
 | RollerBall | 245736 | [245736-rollerball.json](./245736-rollerball.json) |
 | Rollerball 464 | 380384 | [380384-rollerball-464.json](./380384-rollerball-464.json) |
+| RollerBall Fantasy Island | 146510 | [146510-rollerball-fantasy-island.json](./146510-rollerball-fantasy-island.json) |
 | RollerBaller | 158511 | [158511-rollerballer.json](./158511-rollerballer.json) |
 | RollerBlade | 395354 | [395354-rollerblade.json](./395354-rollerblade.json) |
 | Rollerblade Racer | 48204 | [48204-rollerblade-racer.json](./48204-rollerblade-racer.json) |
@@ -10193,6 +10200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
 | Roundguard | 97114 | [97114-roundguard.json](./97114-roundguard.json) |
 | Rounding Demon | 123505 | [123505-rounding-demon.json](./123505-rounding-demon.json) |
+| Roundout by Powgi | 147682 | [147682-roundout-by-powgi.json](./147682-roundout-by-powgi.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
 | Rounds of Reckoning | 230794 | [230794-rounds-of-reckoning.json](./230794-rounds-of-reckoning.json) |
@@ -10619,6 +10627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rucida's Dream | 202328 | [202328-rucidas-dream.json](./202328-rucidas-dream.json) |
 | Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
 | Rückblende | 81193 | [81193-ruckblende.json](./81193-ruckblende.json) |
+| Ruckingenur | 146499 | [146499-ruckingenur.json](./146499-ruckingenur.json) |
 | Ruckingenur CE | 401778 | [401778-ruckingenur-ce.json](./401778-ruckingenur-ce.json) |
 | Ruckingenur II | 401777 | [401777-ruckingenur-ii.json](./401777-ruckingenur-ii.json) |
 | Ruckus Rumble | 187678 | [187678-ruckus-rumble.json](./187678-ruckus-rumble.json) |
@@ -10810,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3 | 249172 | [249172-rule-the-waves-3.json](./249172-rule-the-waves-3.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
+| Rule the Waves II | 147020 | [147020-rule-the-waves-ii.json](./147020-rule-the-waves-ii.json) |
 | Rule with an Iron Fish | 55122 | [55122-rule-with-an-iron-fish.json](./55122-rule-with-an-iron-fish.json) |
 | Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
 | Rule: After Waking Up, Please Don't Call Me | 415848 | [415848-rule-after-waking-up-please-dont-call-me.json](./415848-rule-after-waking-up-please-dont-call-me.json) |
