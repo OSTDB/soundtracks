@@ -3080,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Fall: Age of the Magogs | 91807 | [91807-castle-fall-age-of-the-magogs.json](./91807-castle-fall-age-of-the-magogs.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Fantasia: Seima Taisen | 283329 | [283329-castle-fantasia-seima-taisen.json](./283329-castle-fantasia-seima-taisen.json) |
+| Castle Fight | 156813 | [156813-castle-fight.json](./156813-castle-fight.json) |
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Frankenstein | 391290 | [391290-castle-frankenstein.json](./391290-castle-frankenstein.json) |
@@ -4805,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceremonial Circles | 196448 | [196448-ceremonial-circles.json](./196448-ceremonial-circles.json) |
 | Ceremonial Speedmaps | 271193 | [271193-ceremonial-speedmaps.json](./271193-ceremonial-speedmaps.json) |
 | Ceremony of Innocence | 72092 | [72092-ceremony-of-innocence.json](./72092-ceremony-of-innocence.json) |
+| Ceres | 156817 | [156817-ceres.json](./156817-ceres.json) |
 | Ceres | 35707 | [35707-ceres.json](./35707-ceres.json) |
 | Ceres - Harvest Among The Stars | 388165 | [388165-ceres-harvest-among-the-stars.json](./388165-ceres-harvest-among-the-stars.json) |
 | Ceres M | 193938 | [193938-ceres-m.json](./193938-ceres-m.json) |
@@ -6515,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill with You: Lo-Fi Story | 342703 | [342703-chill-with-you-lo-fi-story.json](./342703-chill-with-you-lo-fi-story.json) |
 | Chill with You: SHIOI's Sparkling Scenes | 417331 | [417331-chill-with-you-shiois-sparkling-scenes.json](./417331-chill-with-you-shiois-sparkling-scenes.json) |
 | Chill X | 161260 | [161260-chill-x.json](./161260-chill-x.json) |
+| Chill Z | 156829 | [156829-chill-z.json](./156829-chill-z.json) |
 | Chillax | 261959 | [261959-chillax.json](./261959-chillax.json) |
 | Chillax | 303724 | [303724-chillax.json](./303724-chillax.json) |
 | Chillax VR | 155966 | [155966-chillax-vr.json](./155966-chillax-vr.json) |
@@ -6768,6 +6771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco Pixel 5 | 158104 | [158104-choco-pixel-5.json](./158104-choco-pixel-5.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
 | Choco Pixel 7 | 158591 | [158591-choco-pixel-7.json](./158591-choco-pixel-7.json) |
+| Choco Pixel S | 156828 | [156828-choco-pixel-s.json](./156828-choco-pixel-s.json) |
 | Choco Puzzle | 357980 | [357980-choco-puzzle.json](./357980-choco-puzzle.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
@@ -7298,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
 | ChromaGun VR | 118742 | [118742-chromagun-vr.json](./118742-chromagun-vr.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
+| Chromalition | 156819 | [156819-chromalition.json](./156819-chromalition.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromancy | 163661 | [163661-chromancy.json](./163661-chromancy.json) |
 | Chromapix | 338523 | [338523-chromapix.json](./338523-chromapix.json) |
@@ -16855,6 +16860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
 | Cube Racer | 74217 | [74217-cube-racer.json](./74217-cube-racer.json) |
+| Cube Racer 2 | 156859 | [156859-cube-racer-2.json](./156859-cube-racer-2.json) |
 | Cube Racer Free to play | 105036 | [105036-cube-racer-free-to-play.json](./105036-cube-racer-free-to-play.json) |
 | Cube Raiders | 140968 | [140968-cube-raiders.json](./140968-cube-raiders.json) |
 | Cube Railway | 312695 | [312695-cube-railway.json](./312695-cube-railway.json) |
