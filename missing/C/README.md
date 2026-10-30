@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat in the Box | 410181 | [410181-cat-in-the-box.json](./410181-cat-in-the-box.json) |
 | Cat Inside | 108343 | [108343-cat-inside.json](./108343-cat-inside.json) |
 | Cat Interstellar: Episode II | 173994 | [173994-cat-interstellar-episode-ii.json](./173994-cat-interstellar-episode-ii.json) |
+| CAT Interstellar: Recast | 163666 | [163666-cat-interstellar-recast.json](./163666-cat-interstellar-recast.json) |
 | Cat Island | 188271 | [188271-cat-island.json](./188271-cat-island.json) |
 | Cat Island Petrichor | 368803 | [368803-cat-island-petrichor.json](./368803-cat-island-petrichor.json) |
 | Cat Isle | 371378 | [371378-cat-isle.json](./371378-cat-isle.json) |
@@ -5660,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate II | 278859 | [278859-checkmate-ii.json](./278859-checkmate-ii.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
+| Checkmate Kings | 163685 | [163685-checkmate-kings.json](./163685-checkmate-kings.json) |
 | Checkmate Survivors | 331813 | [331813-checkmate-survivors.json](./331813-checkmate-survivors.json) |
 | Checkmate! | 108057 | [108057-checkmate.json](./108057-checkmate.json) |
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
@@ -5907,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Battle Quest | 240843 | [240843-chess-battle-quest.json](./240843-chess-battle-quest.json) |
 | Chess Bomb | 333236 | [333236-chess-bomb.json](./333236-chess-bomb.json) |
 | Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
+| Chess Brain | 163688 | [163688-chess-brain.json](./163688-chess-brain.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess But All At Once | 300493 | [300493-chess-but-all-at-once.json](./300493-chess-but-all-at-once.json) |
 | Chess Cards: Mate! Unlimited | 175309 | [175309-chess-cards-mate-unlimited.json](./175309-chess-cards-mate-unlimited.json) |
@@ -6017,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess! | 249932 | [249932-chess.json](./249932-chess.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
+| Chess++ | 163679 | [163679-chess.json](./163679-chess.json) |
 | Chess10 | 337544 | [337544-chess10.json](./337544-chess10.json) |
 | Chess88 | 92998 | [92998-chess88.json](./92998-chess88.json) |
 | Chessality | 149723 | [149723-chessality.json](./149723-chessality.json) |
@@ -6033,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessemble | 372052 | [372052-chessemble.json](./372052-chessemble.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | ChessFinity | 333331 | [333331-chessfinity.json](./333331-chessfinity.json) |
+| Chessformer | 163683 | [163683-chessformer.json](./163683-chessformer.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
 | Chesskoban | 181045 | [181045-chesskoban.json](./181045-chesskoban.json) |
@@ -6071,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster: Grandmaster Edition | 15884 | [15884-chessmaster-grandmaster-edition.json](./15884-chessmaster-grandmaster-edition.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
+| Chessmates | 163690 | [163690-chessmates.json](./163690-chessmates.json) |
 | Chessplode | 233376 | [233376-chessplode.json](./233376-chessplode.json) |
 | Chessplosion | 417253 | [417253-chessplosion.json](./417253-chessplosion.json) |
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
@@ -7282,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChromaGun VR | 118742 | [118742-chromagun-vr.json](./118742-chromagun-vr.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
+| Chromancy | 163661 | [163661-chromancy.json](./163661-chromancy.json) |
 | Chromapix | 338523 | [338523-chromapix.json](./338523-chromapix.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
 | Chromasia | 55345 | [55345-chromasia.json](./55345-chromasia.json) |
@@ -15479,6 +15486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
 | Cristiano Ronaldo: Kick'n'Run | 314597 | [314597-cristiano-ronaldo-kicknrun.json](./314597-cristiano-ronaldo-kicknrun.json) |
 | Crit Happens! | 345832 | [345832-crit-happens.json](./345832-crit-happens.json) |
+| Critadel | 163659 | [163659-critadel.json](./163659-critadel.json) |
 | Criteria | 326203 | [326203-criteria.json](./326203-criteria.json) |
 | Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
@@ -18409,6 +18417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypher Override | 417490 | [417490-cypher-override.json](./417490-cypher-override.json) |
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cyphernaut | 222798 | [222798-cyphernaut.json](./222798-cyphernaut.json) |
+| Cypherpunk Essentials | 163651 | [163651-cypherpunk-essentials.json](./163651-cypherpunk-essentials.json) |
 | Cyphers | 62633 | [62633-cyphers.json](./62633-cyphers.json) |
 | Cyphers Game VR | 200976 | [200976-cyphers-game-vr.json](./200976-cyphers-game-vr.json) |
 | Cypress Legacy | 328097 | [328097-cypress-legacy.json](./328097-cypress-legacy.json) |
