@@ -9988,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
 | Anxietyware | 179002 | [179002-anxietyware.json](./179002-anxietyware.json) |
 | ANXRacers: Drift Space | 214711 | [214711-anxracers-drift-space.json](./214711-anxracers-drift-space.json) |
+| Any Candy | 166927 | [166927-any-candy.json](./166927-any-candy.json) |
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
 | Any Fish | 171758 | [171758-any-fish.json](./171758-any-fish.json) |
 | Any Landing | 174621 | [174621-any-landing.json](./174621-any-landing.json) |
@@ -10072,6 +10073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOL Girls Museum | 313758 | [313758-aol-girls-museum.json](./313758-aol-girls-museum.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
 | Aonatsu Line | 214547 | [214547-aonatsu-line.json](./214547-aonatsu-line.json) |
+| Aonatsu Line: Limited Edition | 166965 | [166965-aonatsu-line-limited-edition.json](./166965-aonatsu-line-limited-edition.json) |
 | AonTheVoid Nevaeh | 386916 | [386916-aonthevoid-nevaeh.json](./386916-aonthevoid-nevaeh.json) |
 | Aooa | 345279 | [345279-aooa.json](./345279-aooa.json) |
 | Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
@@ -16275,6 +16277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azur Lane: Complete Deluxe Edition | 238327 | [238327-azur-lane-complete-deluxe-edition.json](./238327-azur-lane-complete-deluxe-edition.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
+| Azur Lane: Crosswave - Limited Edition | 166972 | [166972-azur-lane-crosswave-limited-edition.json](./166972-azur-lane-crosswave-limited-edition.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
 | Azurael's Circle: Chapter 1 | 107764 | [107764-azuraels-circle-chapter-1.json](./107764-azuraels-circle-chapter-1.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
