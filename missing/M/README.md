@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
 | Mandemon | 259510 | [259510-mandemon.json](./259510-mandemon.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
+| Mandew vs the Colorless Curse | 156840 | [156840-mandew-vs-the-colorless-curse.json](./156840-mandew-vs-the-colorless-curse.json) |
 | Mandew vs. The Forever Rain+ | 257773 | [257773-mandew-vs-the-forever-rain.json](./257773-mandew-vs-the-forever-rain.json) |
 | Mandora | 63939 | [63939-mandora.json](./63939-mandora.json) |
 | Mandragora Seeker in the Creep Zone | 329200 | [329200-mandragora-seeker-in-the-creep-zone.json](./329200-mandragora-seeker-in-the-creep-zone.json) |
@@ -10489,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium 5: Battle of the Millennium | 54240 | [54240-millennium-5-battle-of-the-millennium.json](./54240-millennium-5-battle-of-the-millennium.json) |
 | Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
 | Millennium Arcade | 295293 | [295293-millennium-arcade.json](./295293-millennium-arcade.json) |
+| Millennium Atoll | 156838 | [156838-millennium-atoll.json](./156838-millennium-atoll.json) |
 | Millennium Conflict | 213528 | [213528-millennium-conflict.json](./213528-millennium-conflict.json) |
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
@@ -12000,6 +12002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Match | 363965 | [363965-mirror-match.json](./363965-mirror-match.json) |
 | Mirror Mirror | 230701 | [230701-mirror-mirror.json](./230701-mirror-mirror.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
+| Mirror Movement | 156825 | [156825-mirror-movement.json](./156825-mirror-movement.json) |
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
 | Mirror Party | 190914 | [190914-mirror-party.json](./190914-mirror-party.json) |
@@ -13482,6 +13485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monativity Surveillance | 359542 | [359542-monativity-surveillance.json](./359542-monativity-surveillance.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
 | Monch! | 250975 | [250975-monch.json](./250975-monch.json) |
+| MonCon | 156852 | [156852-moncon.json](./156852-moncon.json) |
 | Monculi | 261095 | [261095-monculi.json](./261095-monculi.json) |
 | Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
 | Mondar's Dungeon | 181228 | [181228-mondars-dungeon.json](./181228-mondars-dungeon.json) |
@@ -18855,6 +18859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
 | My Sushi Story | 249678 | [249678-my-sushi-story.json](./249678-my-sushi-story.json) |
 | My Sweet Angel | 340342 | [340342-my-sweet-angel.json](./340342-my-sweet-angel.json) |
+| My Sweet Ants! | 156820 | [156820-my-sweet-ants.json](./156820-my-sweet-ants.json) |
 | My Sweet Artificial Lover | 242652 | [242652-my-sweet-artificial-lover.json](./242652-my-sweet-artificial-lover.json) |
 | My Sweet Bully | 206027 | [206027-my-sweet-bully.json](./206027-my-sweet-bully.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
