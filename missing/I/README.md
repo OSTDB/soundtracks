@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus M: Guild War | 309569 | [309569-icarus-m-guild-war.json](./309569-icarus-m-guild-war.json) |
 | Icarus Needs | 119505 | [119505-icarus-needs.json](./119505-icarus-needs.json) |
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
+| Icarus Proudbottom's Typing Party | 142078 | [142078-icarus-proudbottoms-typing-party.json](./142078-icarus-proudbottoms-typing-party.json) |
 | Icarus Proudbottom's World of Typing Weekly! | 61865 | [61865-icarus-proudbottoms-world-of-typing-weekly.json](./61865-icarus-proudbottoms-world-of-typing-weekly.json) |
 | Icarus Six Sixty Six | 81119 | [81119-icarus-six-sixty-six.json](./81119-icarus-six-sixty-six.json) |
 | Icarus Starship Command Simulator | 28799 | [28799-icarus-starship-command-simulator.json](./28799-icarus-starship-command-simulator.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Identikit | 210062 | [210062-identikit.json](./210062-identikit.json) |
 | Identikit | 354759 | [354759-identikit.json](./354759-identikit.json) |
+| Identity | 142595 | [142595-identity.json](./142595-identity.json) |
 | Identity | 26962 | [26962-identity.json](./26962-identity.json) |
 | Identity Escape | 315670 | [315670-identity-escape.json](./315670-identity-escape.json) |
 | Identity Forwarded | 220213 | [220213-identity-forwarded.json](./220213-identity-forwarded.json) |
