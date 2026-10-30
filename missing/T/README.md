@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
 | Table Party | 276641 | [276641-table-party.json](./276641-table-party.json) |
 | Table Soccer | 94130 | [94130-table-soccer.json](./94130-table-soccer.json) |
+| Table Soccer Club | 151413 | [151413-table-soccer-club.json](./151413-table-soccer-club.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
 | Table Space: Board and Card Game Sandbox | 389701 | [389701-table-space-board-and-card-game-sandbox.json](./389701-table-space-board-and-card-game-sandbox.json) |
 | Table Tanks | 229882 | [229882-table-tanks.json](./229882-table-tanks.json) |
@@ -17777,6 +17778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Bird | 109614 | [109614-thief-bird.json](./109614-thief-bird.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief Collection | 53796 | [53796-thief-collection.json](./53796-thief-collection.json) |
+| Thief Girls Quartet | 151378 | [151378-thief-girls-quartet.json](./151378-thief-girls-quartet.json) |
 | Thief Gold | 9227 | [9227-thief-gold.json](./9227-thief-gold.json) |
 | Thief II: The Metal Age | 1 | [1-thief-ii-the-metal-age.json](./1-thief-ii-the-metal-age.json) |
 | Thief in Cafe | 272705 | [272705-thief-in-cafe.json](./272705-thief-in-cafe.json) |
