@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oktoberfest Wiesn-Gaudi | 125168 | [125168-oktoberfest-wiesn-gaudi.json](./125168-oktoberfest-wiesn-gaudi.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
+| Oktogone Melee | 153076 | [153076-oktogone-melee.json](./153076-oktogone-melee.json) |
 | Oktoraid | 419866 | [419866-oktoraid.json](./419866-oktoraid.json) |
 | Oku | 345536 | [345536-oku.json](./345536-oku.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus: Fall For Eurydice | 144654 | [144654-orpheus-fall-for-eurydice.json](./144654-orpheus-fall-for-eurydice.json) |
 | Orpheus: Tale of a Lover | 258095 | [258095-orpheus-tale-of-a-lover.json](./258095-orpheus-tale-of-a-lover.json) |
 | Orpheus's Dream | 119766 | [119766-orpheuss-dream.json](./119766-orpheuss-dream.json) |
+| Orpiment | 153055 | [153055-orpiment.json](./153055-orpiment.json) |
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
 | Orr | 118773 | [118773-orr.json](./118773-orr.json) |
 | Orrb | 188916 | [188916-orrb.json](./188916-orrb.json) |
