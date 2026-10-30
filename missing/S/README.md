@@ -3407,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scyla | 337658 | [337658-scyla.json](./337658-scyla.json) |
 | Scyphojel, Space Jellyfish! | 354752 | [354752-scyphojel-space-jellyfish.json](./354752-scyphojel-space-jellyfish.json) |
 | Scythe | 133255 | [133255-scythe.json](./133255-scythe.json) |
+| Scythe II | 135481 | [135481-scythe-ii.json](./135481-scythe-ii.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | Scythe: Digital Edition - Invaders from Afar | 154948 | [154948-scythe-digital-edition-invaders-from-afar.json](./154948-scythe-digital-edition-invaders-from-afar.json) |
@@ -5377,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Deadly Sins: Anime Girls Fantasy Love | 410405 | [410405-seven-deadly-sins-anime-girls-fantasy-love.json](./410405-seven-deadly-sins-anime-girls-fantasy-love.json) |
 | Seven Demons | 168590 | [168590-seven-demons.json](./168590-seven-demons.json) |
+| Seven Doors | 135475 | [135475-seven-doors.json](./135475-seven-doors.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
 | Seven Favors | 399024 | [399024-seven-favors.json](./399024-seven-favors.json) |
@@ -6526,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin vs. Wutang 2 | 128276 | [128276-shaolin-vs-wutang-2.json](./128276-shaolin-vs-wutang-2.json) |
 | Shaolin vs. Wutang Legends | 365774 | [365774-shaolin-vs-wutang-legends.json](./365774-shaolin-vs-wutang-legends.json) |
 | Shaolin's Road | 45909 | [45909-shaolins-road.json](./45909-shaolins-road.json) |
+| Shaolin5 | 135432 | [135432-shaolin5.json](./135432-shaolin5.json) |
 | Shaoye | 113612 | [113612-shaoye.json](./113612-shaoye.json) |
 | Shape | 161603 | [161603-shape.json](./161603-shape.json) |
 | Shape | 323834 | [323834-shape.json](./323834-shape.json) |
@@ -8242,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Life Simulator | 333697 | [333697-shop-life-simulator.json](./333697-shop-life-simulator.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
+| Shop of Tentacles | 135433 | [135433-shop-of-tentacles.json](./135433-shop-of-tentacles.json) |
 | Shop Simulator: Pet Shop | 320842 | [320842-shop-simulator-pet-shop.json](./320842-shop-simulator-pet-shop.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
 | Shop Simulator: Waifu Pillows | 333226 | [333226-shop-simulator-waifu-pillows.json](./333226-shop-simulator-waifu-pillows.json) |
@@ -8596,6 +8600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrimpwrecked | 310079 | [310079-shrimpwrecked.json](./310079-shrimpwrecked.json) |
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
 | Shrine For the Gods of Lost Things | 141628 | [141628-shrine-for-the-gods-of-lost-things.json](./141628-shrine-for-the-gods-of-lost-things.json) |
+| Shrine II | 135474 | [135474-shrine-ii.json](./135474-shrine-ii.json) |
 | Shrine of Haunts | 347336 | [347336-shrine-of-haunts.json](./347336-shrine-of-haunts.json) |
 | Shrine of Tails | 192763 | [192763-shrine-of-tails.json](./192763-shrine-of-tails.json) |
 | Shrine of the Forest God | 333463 | [333463-shrine-of-the-forest-god.json](./333463-shrine-of-the-forest-god.json) |
@@ -14353,6 +14358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
 | Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
+| SOI's Singleplayer Adventure | 135473 | [135473-sois-singleplayer-adventure.json](./135473-sois-singleplayer-adventure.json) |
 | Soil of Rebirth | 373332 | [373332-soil-of-rebirth.json](./373332-soil-of-rebirth.json) |
 | Soilborn: Ant Empire | 372003 | [372003-soilborn-ant-empire.json](./372003-soilborn-ant-empire.json) |
 | Sojo | 260257 | [260257-sojo.json](./260257-sojo.json) |
@@ -14546,6 +14552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
 | Solar Fighters | 105185 | [105185-solar-fighters.json](./105185-solar-fighters.json) |
 | Solar Fox | 18708 | [18708-solar-fox.json](./18708-solar-fox.json) |
+| Solar Gladiators | 135447 | [135447-solar-gladiators.json](./135447-solar-gladiators.json) |
 | Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
@@ -22913,6 +22920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
 | StarStruck | 220503 | [220503-starstruck.json](./220503-starstruck.json) |
 | Starstruck Vagabond | 183227 | [183227-starstruck-vagabond.json](./183227-starstruck-vagabond.json) |
+| Starstruck: Hands of Time | 135434 | [135434-starstruck-hands-of-time.json](./135434-starstruck-hands-of-time.json) |
 | Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Starswirl Academy | 203835 | [203835-starswirl-academy.json](./203835-starswirl-academy.json) |
@@ -24879,6 +24887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Cat | 220508 | [220508-stray-cat.json](./220508-stray-cat.json) |
 | Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
 | Stray Cat Doors | 95811 | [95811-stray-cat-doors.json](./95811-stray-cat-doors.json) |
+| Stray Cat Doors 2 | 135435 | [135435-stray-cat-doors-2.json](./135435-stray-cat-doors-2.json) |
 | Stray Cats in Cozy Town: Night Lights | 312994 | [312994-stray-cats-in-cozy-town-night-lights.json](./312994-stray-cats-in-cozy-town-night-lights.json) |
 | Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
 | Stray Dog: Nobody Cares | 414475 | [414475-stray-dog-nobody-cares.json](./414475-stray-dog-nobody-cares.json) |
@@ -27887,6 +27896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Girl | 187301 | [187301-super-girl.json](./187301-super-girl.json) |
 | Super Glinx! | 73676 | [73676-super-glinx.json](./73676-super-glinx.json) |
 | Super Glitch Dash | 146221 | [146221-super-glitch-dash.json](./146221-super-glitch-dash.json) |
+| Super Glitter Rush | 135436 | [135436-super-glitter-rush.json](./135436-super-glitter-rush.json) |
 | Super Glove Ball | 48234 | [48234-super-glove-ball.json](./48234-super-glove-ball.json) |
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
 | Super Gloves Hero | 156597 | [156597-super-gloves-hero.json](./156597-super-gloves-hero.json) |
@@ -28003,6 +28013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
 | Super Indy Champ | 42358 | [42358-super-indy-champ.json](./42358-super-indy-champ.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
+| Super Intentional Bugs | 135476 | [135476-super-intentional-bugs.json](./135476-super-intentional-bugs.json) |
 | Super Intergalactic Gang | 33866 | [33866-super-intergalactic-gang.json](./33866-super-intergalactic-gang.json) |
 | Super Intern Story | 164212 | [164212-super-intern-story.json](./164212-super-intern-story.json) |
 | Super International Cricket | 42456 | [42456-super-international-cricket.json](./42456-super-international-cricket.json) |
@@ -31140,6 +31151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
 | Swapmeat | 304473 | [304473-swapmeat.json](./304473-swapmeat.json) |
 | Swapologic | 233517 | [233517-swapologic.json](./233517-swapologic.json) |
+| Swapon | 135437 | [135437-swapon.json](./135437-swapon.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
 | Swapperoo | 34274 | [34274-swapperoo.json](./34274-swapperoo.json) |
 | SwapPics: Knights vs Demons | 272914 | [272914-swappics-knights-vs-demons.json](./272914-swappics-knights-vs-demons.json) |
