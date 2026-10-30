@@ -12427,6 +12427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Wrestling Reborn | 190004 | [190004-arm-wrestling-reborn.json](./190004-arm-wrestling-reborn.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
+| Arma 2: Free | 131091 | [131091-arma-2-free.json](./131091-arma-2-free.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
 | Arma 2: Reinforcements | 27453 | [27453-arma-2-reinforcements.json](./27453-arma-2-reinforcements.json) |
 | Arma 3 Apex Edition | 204196 | [204196-arma-3-apex-edition.json](./204196-arma-3-apex-edition.json) |
