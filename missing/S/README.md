@@ -108,7 +108,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.C.K.E.R.: Nuclear Scavenger | 410017 | [410017-s-t-a-c-k-e-r-nuclear-scavenger.json](./410017-s-t-a-c-k-e-r-nuclear-scavenger.json) |
 | S.T.A.G. | 272454 | [272454-s-t-a-g.json](./272454-s-t-a-g.json) |
 | S.T.A.L.K.E.R. 1989 | 332905 | [332905-s-t-a-l-k-e-r-1989.json](./332905-s-t-a-l-k-e-r-1989.json) |
-| S.T.A.L.K.E.R. 2: Cost of Hope | 396025 | [396025-s-t-a-l-k-e-r-2-cost-of-hope.json](./396025-s-t-a-l-k-e-r-2-cost-of-hope.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition | 169175 | [169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json](./169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition | 169174 | [169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json](./169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json) |
@@ -7029,7 +7028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | ShellBlast | 54391 | [54391-shellblast.json](./54391-shellblast.json) |
 | Shellborne | 361597 | [361597-shellborne.json](./361597-shellborne.json) |
-| Shelldiver | 356430 | [356430-shelldiver.json](./356430-shelldiver.json) |
 | Shelldom | 330101 | [330101-shelldom.json](./330101-shelldom.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
 | Shelled Shinobi | 177225 | [177225-shelled-shinobi.json](./177225-shelled-shinobi.json) |
@@ -20308,6 +20306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
+| Spore Creatures | 127556 | [127556-spore-creatures.json](./127556-spore-creatures.json) |
 | Spore Creatures | 22587 | [22587-spore-creatures.json](./22587-spore-creatures.json) |
 | Spore Hero Arena | 21214 | [21214-spore-hero-arena.json](./21214-spore-hero-arena.json) |
 | Spore Monsters.io 3D | 105810 | [105810-spore-monsters-io-3d.json](./105810-spore-monsters-io-3d.json) |
