@@ -2789,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Peach | 296178 | [296178-wedding-peach.json](./296178-wedding-peach.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
+| Wedding Planner | 141422 | [141422-wedding-planner.json](./141422-wedding-planner.json) |
 | Wedding Salon | 205910 | [205910-wedding-salon.json](./205910-wedding-salon.json) |
 | Wedding Salon - Girls Makeup, Dressup and Makeover | 89196 | [89196-wedding-salon-girls-makeup-dressup-and-makeover.json](./89196-wedding-salon-girls-makeup-dressup-and-makeover.json) |
 | Wedding Witch | 264522 | [264522-wedding-witch.json](./264522-wedding-witch.json) |
@@ -4805,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderlocke | 356754 | [356754-wilderlocke.json](./356754-wilderlocke.json) |
 | Wildermyth: Off-hand Item Skin Pack | 324402 | [324402-wildermyth-off-hand-item-skin-pack.json](./324402-wildermyth-off-hand-item-skin-pack.json) |
 | Wildermyth: Omenroad | 322613 | [322613-wildermyth-omenroad.json](./322613-wildermyth-omenroad.json) |
+| Wilderness | 141393 | [141393-wilderness.json](./141393-wilderness.json) |
 | Wilderness | 377146 | [377146-wilderness.json](./377146-wilderness.json) |
 | Wilderness Campaign | 24802 | [24802-wilderness-campaign.json](./24802-wilderness-campaign.json) |
 | Wilderness Edge | 342880 | [342880-wilderness-edge.json](./342880-wilderness-edge.json) |
