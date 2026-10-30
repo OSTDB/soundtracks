@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Score | 83160 | [83160-killer-score.json](./83160-killer-score.json) |
 | Killer Shark | 18203 | [18203-killer-shark.json](./18203-killer-shark.json) |
+| Killer Station | 141424 | [141424-killer-station.json](./141424-killer-station.json) |
 | Killer Sudoku | 153688 | [153688-killer-sudoku.json](./153688-killer-sudoku.json) |
 | Killer Sudoku | 387569 | [387569-killer-sudoku.json](./387569-killer-sudoku.json) |
 | Killer Tank | 47098 | [47098-killer-tank.json](./47098-killer-tank.json) |
