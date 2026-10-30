@@ -11416,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushline | 382497 | [382497-rushline.json](./382497-rushline.json) |
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
 | Rushmore | 388331 | [388331-rushmore.json](./388331-rushmore.json) |
+| RushOut | 158886 | [158886-rushout.json](./158886-rushout.json) |
 | Rushuzen | 306362 | [306362-rushuzen.json](./306362-rushuzen.json) |
 | Ruskindo | 182910 | [182910-ruskindo.json](./182910-ruskindo.json) |
 | Rusl | 211651 | [211651-rusl.json](./211651-rusl.json) |
