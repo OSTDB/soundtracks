@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madfut 23 | 232128 | [232128-madfut-23.json](./232128-madfut-23.json) |
 | MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
 | Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
+| MadGuns | 151411 | [151411-madguns.json](./151411-madguns.json) |
 | Madhack | 140449 | [140449-madhack.json](./140449-madhack.json) |
 | Madhouse Madness | 247911 | [247911-madhouse-madness.json](./247911-madhouse-madness.json) |
 | Madhouse13 | 204553 | [204553-madhouse13.json](./204553-madhouse13.json) |
@@ -11614,6 +11615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | Minimal Fear | 184600 | [184600-minimal-fear.json](./184600-minimal-fear.json) |
 | Minimal Freeman | 177684 | [177684-minimal-freeman.json](./177684-minimal-freeman.json) |
+| Minimal Maze | 151389 | [151389-minimal-maze.json](./151389-minimal-maze.json) |
 | Minimal Maze | 197772 | [197772-minimal-maze.json](./197772-minimal-maze.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | Minimalism | 29648 | [29648-minimalism.json](./29648-minimalism.json) |
