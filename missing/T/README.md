@@ -2664,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teaching Gender-Affirming Care | 405151 | [405151-teaching-gender-affirming-care.json](./405151-teaching-gender-affirming-care.json) |
 | Teaching Simulator: Elite Class | 377972 | [377972-teaching-simulator-elite-class.json](./377972-teaching-simulator-elite-class.json) |
 | Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
+| Tead | 163096 | [163096-tead.json](./163096-tead.json) |
 | Teahouse of Souls | 210988 | [210988-teahouse-of-souls.json](./210988-teahouse-of-souls.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | TeaKnights | 408906 | [408906-teaknights.json](./408906-teaknights.json) |
@@ -16710,6 +16711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wand of Gamelon Remastered | 206135 | [206135-the-wand-of-gamelon-remastered.json](./206135-the-wand-of-gamelon-remastered.json) |
 | The Wand of Gamelon Remastered Randomizer | 242114 | [242114-the-wand-of-gamelon-remastered-randomizer.json](./242114-the-wand-of-gamelon-remastered-randomizer.json) |
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
+| The Wanderer | 163129 | [163129-the-wanderer.json](./163129-the-wanderer.json) |
 | The Wanderer | 193161 | [193161-the-wanderer.json](./193161-the-wanderer.json) |
 | The Wanderer | 320033 | [320033-the-wanderer.json](./320033-the-wanderer.json) |
 | The Wanderer Vibes: Neon | 153792 | [153792-the-wanderer-vibes-neon.json](./153792-the-wanderer-vibes-neon.json) |
@@ -17194,6 +17196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worst-Case Scenario Survival Trivia Challenge | 69914 | [69914-the-worst-case-scenario-survival-trivia-challenge.json](./69914-the-worst-case-scenario-survival-trivia-challenge.json) |
 | The Wraith of the Galaxy | 207350 | [207350-the-wraith-of-the-galaxy.json](./207350-the-wraith-of-the-galaxy.json) |
 | The Wranglers | 90186 | [90186-the-wranglers.json](./90186-the-wranglers.json) |
+| The Wratch's Den | 163128 | [163128-the-wratchs-den.json](./163128-the-wratchs-den.json) |
 | The Wrath of Sona | 275622 | [275622-the-wrath-of-sona.json](./275622-the-wrath-of-sona.json) |
 | The Wrath of the Goose King | 286051 | [286051-the-wrath-of-the-goose-king.json](./286051-the-wrath-of-the-goose-king.json) |
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
@@ -21207,6 +21210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Station | 217319 | [217319-titan-station.json](./217319-titan-station.json) |
 | Titan Station: VR | 276146 | [276146-titan-station-vr.json](./276146-titan-station-vr.json) |
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
+| Titan Tactics | 163135 | [163135-titan-tactics.json](./163135-titan-tactics.json) |
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
 | Titan: The Ascension | 244152 | [244152-titan-the-ascension.json](./244152-titan-the-ascension.json) |
@@ -28425,6 +28429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Feather River Canyon Scenario Pack 02 | 227224 | [227224-ts-marketplace-feather-river-canyon-scenario-pack-02.json](./227224-ts-marketplace-feather-river-canyon-scenario-pack-02.json) |
 | TS Marketplace: Fife Circle Scenario Pack 01 | 227292 | [227292-ts-marketplace-fife-circle-scenario-pack-01.json](./227292-ts-marketplace-fife-circle-scenario-pack-01.json) |
 | TS Marketplace: Frankfurt - Koblenz Scenario Pack 01 | 227280 | [227280-ts-marketplace-frankfurt-koblenz-scenario-pack-01.json](./227280-ts-marketplace-frankfurt-koblenz-scenario-pack-01.json) |
+| TS Marketplace: GP40-2 Mini Scenario Pack 01 Add-On | 163082 | [163082-ts-marketplace-gp40-2-mini-scenario-pack-01-add-on.json](./163082-ts-marketplace-gp40-2-mini-scenario-pack-01-add-on.json) |
 | TS Marketplace: GWR Churchward Panelled Toplights Pack 01 Add-On | 227303 | [227303-ts-marketplace-gwr-churchward-panelled-toplights-pack-01-add-on.json](./227303-ts-marketplace-gwr-churchward-panelled-toplights-pack-01-add-on.json) |
 | TS Marketplace: GWR Churchward Panelled Toplights Pack 02 Add-On | 227223 | [227223-ts-marketplace-gwr-churchward-panelled-toplights-pack-02-add-on.json](./227223-ts-marketplace-gwr-churchward-panelled-toplights-pack-02-add-on.json) |
 | TS Marketplace: GWR Churchward Panelled Toplights Pack 03 Add-On | 227305 | [227305-ts-marketplace-gwr-churchward-panelled-toplights-pack-03-add-on.json](./227305-ts-marketplace-gwr-churchward-panelled-toplights-pack-03-add-on.json) |
@@ -28452,6 +28457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Renewable Energy Pack | 227300 | [227300-ts-marketplace-renewable-energy-pack.json](./227300-ts-marketplace-renewable-energy-pack.json) |
 | TS Marketplace: Sdggmrss Taschenwagen Wagon Pack | 227228 | [227228-ts-marketplace-sdggmrss-taschenwagen-wagon-pack.json](./227228-ts-marketplace-sdggmrss-taschenwagen-wagon-pack.json) |
 | TS Marketplace: Seaboard SD50 Livery Pack | 227227 | [227227-ts-marketplace-seaboard-sd50-livery-pack.json](./227227-ts-marketplace-seaboard-sd50-livery-pack.json) |
+| TS Marketplace: South London Network Scenario Pack 01 | 163081 | [163081-ts-marketplace-south-london-network-scenario-pack-01.json](./163081-ts-marketplace-south-london-network-scenario-pack-01.json) |
 | TS Marketplace: Sps 466 Wagon | 254417 | [254417-ts-marketplace-sps-466-wagon.json](./254417-ts-marketplace-sps-466-wagon.json) |
 | TS Marketplace: Tehachapi Pass Scenario Pack 01 | 227230 | [227230-ts-marketplace-tehachapi-pass-scenario-pack-01.json](./227230-ts-marketplace-tehachapi-pass-scenario-pack-01.json) |
 | TS Marketplace: Union Pacific Scenario Pack 02 Add-On | 163041 | [163041-ts-marketplace-union-pacific-scenario-pack-02-add-on.json](./163041-ts-marketplace-union-pacific-scenario-pack-02-add-on.json) |
