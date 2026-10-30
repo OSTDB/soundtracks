@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Raid | 31808 | [31808-base-raid.json](./31808-base-raid.json) |
 | Base Squad 49 | 33026 | [33026-base-squad-49.json](./33026-base-squad-49.json) |
 | Base Under Attack! | 233193 | [233193-base-under-attack.json](./233193-base-under-attack.json) |
+| Base Wars | 176617 | [176617-base-wars.json](./176617-base-wars.json) |
 | Baseball | 11412 | [11412-baseball.json](./11412-baseball.json) |
 | Baseball | 128484 | [128484-baseball.json](./128484-baseball.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
@@ -11127,6 +11128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombcapsule | 280287 | [280287-bombcapsule.json](./280287-bombcapsule.json) |
 | BombDodger - | 99973 | [99973-bombdodger.json](./99973-bombdodger.json) |
 | Bombe | 230363 | [230363-bombe.json](./230363-bombe.json) |
+| Bombe à Rebours | 176637 | [176637-bombe-a-rebours.json](./176637-bombe-a-rebours.json) |
 | Bombeiro Mascarado | 183966 | [183966-bombeiro-mascarado.json](./183966-bombeiro-mascarado.json) |
 | Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
 | Bomber | 230682 | [230682-bomber.json](./230682-bomber.json) |
@@ -11470,6 +11472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonze Adventure | 38539 | [38539-bonze-adventure.json](./38539-bonze-adventure.json) |
 | Bonzo The Brave: Be Brave | 299269 | [299269-bonzo-the-brave-be-brave.json](./299269-bonzo-the-brave-be-brave.json) |
 | Boo & Friends: Spot the Difference | 59060 | [59060-boo-and-friends-spot-the-difference.json](./59060-boo-and-friends-spot-the-difference.json) |
+| Boo Boo | 176648 | [176648-boo-boo.json](./176648-boo-boo.json) |
 | Boo Boo Bananas | 101322 | [101322-boo-boo-bananas.json](./101322-boo-boo-bananas.json) |
 | Boo Boo Booster | 343325 | [343325-boo-boo-booster.json](./343325-boo-boo-booster.json) |
 | Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
@@ -14184,6 +14187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken World | 170244 | [170244-broken-world.json](./170244-broken-world.json) |
 | Broken World: Save Your Children | 345407 | [345407-broken-world-save-your-children.json](./345407-broken-world-save-your-children.json) |
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
+| BrokenFolx | 176642 | [176642-brokenfolx.json](./176642-brokenfolx.json) |
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
