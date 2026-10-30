@@ -3550,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchou's Deadline Dash! | 385442 | [385442-tenchous-deadline-dash.json](./385442-tenchous-deadline-dash.json) |
 | Tenchu 2: Birth of the Stealth Assassins | 4114 | [4114-tenchu-2-birth-of-the-stealth-assassins.json](./4114-tenchu-2-birth-of-the-stealth-assassins.json) |
 | Tenchu 3 Portable | 134329 | [134329-tenchu-3-portable.json](./134329-tenchu-3-portable.json) |
+| Tenchu Kurenai Portable | 148204 | [148204-tenchu-kurenai-portable.json](./148204-tenchu-kurenai-portable.json) |
 | Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
 | Tenchu: Stealth Assassins | 4113 | [4113-tenchu-stealth-assassins.json](./4113-tenchu-stealth-assassins.json) |
@@ -9991,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infinite Black | 32861 | [32861-the-infinite-black.json](./32861-the-infinite-black.json) |
 | The Infinite Black 2 | 221519 | [221519-the-infinite-black-2.json](./221519-the-infinite-black-2.json) |
 | The Infinite Grimoire | 401825 | [401825-the-infinite-grimoire.json](./401825-the-infinite-grimoire.json) |
+| The Infinite Trial of a Hopeless Man Running | 148233 | [148233-the-infinite-trial-of-a-hopeless-man-running.json](./148233-the-infinite-trial-of-a-hopeless-man-running.json) |
 | The Infinity Road | 341160 | [341160-the-infinity-road.json](./341160-the-infinity-road.json) |
 | The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
 | The Infirmity | 267428 | [267428-the-infirmity.json](./267428-the-infirmity.json) |
@@ -20433,6 +20435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
 | Tim Burton's The Nightmare Before Christmas: The Pumpkin King | 73651 | [73651-tim-burtons-the-nightmare-before-christmas-the-pumpkin-king.json](./73651-tim-burtons-the-nightmare-before-christmas-the-pumpkin-king.json) |
 | Tim Love's Cricket | 63184 | [63184-tim-loves-cricket.json](./63184-tim-loves-cricket.json) |
+| Tim power vigilante in the city! | 148187 | [148187-tim-power-vigilante-in-the-city.json](./148187-tim-power-vigilante-in-the-city.json) |
 | Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
 | Tim the Timber | 241198 | [241198-tim-the-timber.json](./241198-tim-the-timber.json) |
 | Tim Tooth | 204204 | [204204-tim-tooth.json](./204204-tim-tooth.json) |
@@ -23722,6 +23725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Diablo 2: Gensokyo Treasure Hunting | 185919 | [185919-touhou-diablo-2-gensokyo-treasure-hunting.json](./185919-touhou-diablo-2-gensokyo-treasure-hunting.json) |
 | Touhou Diablo: Treasure Hunter G | 191487 | [191487-touhou-diablo-treasure-hunter-g.json](./191487-touhou-diablo-treasure-hunter-g.json) |
 | Touhou DollDraft | 164598 | [164598-touhou-dolldraft.json](./164598-touhou-dolldraft.json) |
+| Touhou Doom: Hell on Gensokyo | 148193 | [148193-touhou-doom-hell-on-gensokyo.json](./148193-touhou-doom-hell-on-gensokyo.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
 | Touhou Dream Duel | 347095 | [347095-touhou-dream-duel.json](./347095-touhou-dream-duel.json) |
 | Touhou Dream Runner | 259437 | [259437-touhou-dream-runner.json](./259437-touhou-dream-runner.json) |
@@ -23737,6 +23741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fairy Knockout: One Fairy to Rule Them All | 203849 | [203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json](./203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json) |
 | Touhou Fan of Destiny | 109893 | [109893-touhou-fan-of-destiny.json](./109893-touhou-fan-of-destiny.json) |
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
+| Touhou Fantasia | 148225 | [148225-touhou-fantasia.json](./148225-touhou-fantasia.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Day | 128261 | [128261-touhou-fantasy-day.json](./128261-touhou-fantasy-day.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
@@ -24097,6 +24102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tousui Kitan | 97698 | [97698-tousui-kitan.json](./97698-tousui-kitan.json) |
 | Tout Savoir: 3E | 150237 | [150237-tout-savoir-3e.json](./150237-tout-savoir-3e.json) |
 | Tout Savoir: 5E | 148663 | [148663-tout-savoir-5e.json](./148663-tout-savoir-5e.json) |
+| Tout Savoir: 6E | 148180 | [148180-tout-savoir-6e.json](./148180-tout-savoir-6e.json) |
 | Tout Savoir: CE2 | 148735 | [148735-tout-savoir-ce2.json](./148735-tout-savoir-ce2.json) |
 | Tout Savoir: CM1 | 147346 | [147346-tout-savoir-cm1.json](./147346-tout-savoir-cm1.json) |
 | Tout Savoir: CM2 | 124105 | [124105-tout-savoir-cm2.json](./124105-tout-savoir-cm2.json) |
