@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Jump | 215494 | [215494-cannon-jump.json](./215494-cannon-jump.json) |
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
 | Cannon Lab 13 | 157443 | [157443-cannon-lab-13.json](./157443-cannon-lab-13.json) |
+| Cannon Lagoon | 137803 | [137803-cannon-lagoon.json](./137803-cannon-lagoon.json) |
 | Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
 | Cannon Rats | 239470 | [239470-cannon-rats.json](./239470-cannon-rats.json) |
@@ -10459,6 +10460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collection Pocket | 228493 | [228493-collection-pocket.json](./228493-collection-pocket.json) |
+| Collection Quest | 137828 | [137828-collection-quest.json](./137828-collection-quest.json) |
 | Collective Card Game | 112877 | [112877-collective-card-game.json](./112877-collective-card-game.json) |
 | Collective Unconscious | 301431 | [301431-collective-unconscious.json](./301431-collective-unconscious.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
@@ -17229,6 +17231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubytet | 191188 | [191188-cubytet.json](./191188-cubytet.json) |
 | Cubzh | 250020 | [250020-cubzh.json](./250020-cubzh.json) |
 | Cuccchi | 159156 | [159156-cuccchi.json](./159156-cuccchi.json) |
+| Cuccioli Cerca Amici | 137796 | [137796-cuccioli-cerca-amici.json](./137796-cuccioli-cerca-amici.json) |
 | Cucina Stellata: Starred Cuisine | 341891 | [341891-cucina-stellata-starred-cuisine.json](./341891-cucina-stellata-starred-cuisine.json) |
 | Cuckold Chair Simulator 2023 | 267303 | [267303-cuckold-chair-simulator-2023.json](./267303-cuckold-chair-simulator-2023.json) |
 | Cuckold House | 290891 | [290891-cuckold-house.json](./290891-cuckold-house.json) |
@@ -17426,6 +17429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuphead: Limited Edition | 249963 | [249963-cuphead-limited-edition.json](./249963-cuphead-limited-edition.json) |
 | Cupiclaw | 302430 | [302430-cupiclaw.json](./302430-cupiclaw.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
+| Cupid 2.0 | 137841 | [137841-cupid-2-0.json](./137841-cupid-2-0.json) |
 | Cupid Bistro!! | 72659 | [72659-cupid-bistro.json](./72659-cupid-bistro.json) |
 | Cupid Bistro!! 2 | 264338 | [264338-cupid-bistro-2.json](./264338-cupid-bistro-2.json) |
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
