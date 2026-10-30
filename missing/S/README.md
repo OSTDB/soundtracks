@@ -13818,6 +13818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
 | Snow Magic Piano Tiles | 96222 | [96222-snow-magic-piano-tiles.json](./96222-snow-magic-piano-tiles.json) |
 | Snow Memoria: Wasureenu Omoi | 77675 | [77675-snow-memoria-wasureenu-omoi.json](./77675-snow-memoria-wasureenu-omoi.json) |
+| Snow Mercy | 125654 | [125654-snow-mercy.json](./125654-snow-mercy.json) |
 | Snow Moon Flower | 235748 | [235748-snow-moon-flower.json](./235748-snow-moon-flower.json) |
 | Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
 | Snow Moto Racing Freedom | 29593 | [29593-snow-moto-racing-freedom.json](./29593-snow-moto-racing-freedom.json) |
@@ -17573,10 +17574,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Harbinger of Torment Campaign | 170166 | [170166-space-hulk-harbinger-of-torment-campaign.json](./170166-space-hulk-harbinger-of-torment-campaign.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
-| Space Hulk: Tactics | 86269 | [86269-space-hulk-tactics.json](./86269-space-hulk-tactics.json) |
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27482,7 +27483,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Blockbuster | 90923 | [90923-super-blockbuster.json](./90923-super-blockbuster.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
-| Super Blood Hockey | 31160 | [31160-super-blood-hockey.json](./31160-super-blood-hockey.json) |
 | Super Blood Hockey: Rogue Manager | 410956 | [410956-super-blood-hockey-rogue-manager.json](./410956-super-blood-hockey-rogue-manager.json) |
 | Super Bloom | 415743 | [415743-super-bloom.json](./415743-super-bloom.json) |
 | Super Blox | 113576 | [113576-super-blox.json](./113576-super-blox.json) |
