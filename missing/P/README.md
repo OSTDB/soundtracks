@@ -5333,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick me! Visual Novel | 349293 | [349293-pick-me-visual-novel.json](./349293-pick-me-visual-novel.json) |
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
+| Pick Pack Pup | 151974 | [151974-pick-pack-pup.json](./151974-pick-pack-pup.json) |
 | Pick Race 3D | 345707 | [345707-pick-race-3d.json](./345707-pick-race-3d.json) |
 | Pick the Star | 290323 | [290323-pick-the-star.json](./290323-pick-the-star.json) |
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
@@ -8244,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Blood Thirsty Santa | 125261 | [125261-planet-of-blood-thirsty-santa.json](./125261-planet-of-blood-thirsty-santa.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet of Cartmans 2 | 175902 | [175902-planet-of-cartmans-2.json](./175902-planet-of-cartmans-2.json) |
+| Planet of Crawlers | 151966 | [151966-planet-of-crawlers.json](./151966-planet-of-crawlers.json) |
 | Planet of Cubes | 182056 | [182056-planet-of-cubes.json](./182056-planet-of-cubes.json) |
 | Planet of Cubes Survival Games | 88442 | [88442-planet-of-cubes-survival-games.json](./88442-planet-of-cubes-survival-games.json) |
 | Planet of Lana Collection | 393897 | [393897-planet-of-lana-collection.json](./393897-planet-of-lana-collection.json) |
@@ -15667,6 +15669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
 | Puppe Yerde | 392753 | [392753-puppe-yerde.json](./392753-puppe-yerde.json) |
 | Pupper Park | 129428 | [129428-pupper-park.json](./129428-pupper-park.json) |
+| Pupper's Garden | 151954 | [151954-puppers-garden.json](./151954-puppers-garden.json) |
 | Puppergeist | 375515 | [375515-puppergeist.json](./375515-puppergeist.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
