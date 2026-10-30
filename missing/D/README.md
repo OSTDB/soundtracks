@@ -6802,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
 | Detective Agency Mosaics | 293979 | [293979-detective-agency-mosaics.json](./293979-detective-agency-mosaics.json) |
 | Detective Agency: Murder at the Manor | 369130 | [369130-detective-agency-murder-at-the-manor.json](./369130-detective-agency-murder-at-the-manor.json) |
+| Detective AI | 172935 | [172935-detective-ai.json](./172935-detective-ai.json) |
 | Detective AnnIntae: Missing Basketball Court | 306394 | [306394-detective-annintae-missing-basketball-court.json](./306394-detective-annintae-missing-basketball-court.json) |
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
@@ -8663,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diplomata the Game | 44108 | [44108-diplomata-the-game.json](./44108-diplomata-the-game.json) |
 | Diplomatic Relations | 179941 | [179941-diplomatic-relations.json](./179941-diplomatic-relations.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
+| Diptych | 172948 | [172948-diptych.json](./172948-diptych.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
 | Dire | 182830 | [182830-dire.json](./182830-dire.json) |
@@ -11687,6 +11689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Comet 2 | 175337 | [175337-doomsday-comet-2.json](./175337-doomsday-comet-2.json) |
 | Doomsday Contact | 219752 | [219752-doomsday-contact.json](./219752-doomsday-contact.json) |
 | Doomsday Dealer | 347769 | [347769-doomsday-dealer.json](./347769-doomsday-dealer.json) |
+| Doomsday Defense | 172926 | [172926-doomsday-defense.json](./172926-doomsday-defense.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday Diner | 363173 | [363173-doomsday-diner.json](./363173-doomsday-diner.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
