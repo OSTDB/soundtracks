@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
 | G-Mode Archives 03: Kururin Cafe | 137538 | [137538-g-mode-archives-03-kururin-cafe.json](./137538-g-mode-archives-03-kururin-cafe.json) |
 | G-Mode Archives 04: Beach Volleyball Girl Shizuku | 221780 | [221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json](./221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json) |
+| G-Mode Archives 05: Sukebooo Man | 137813 | [137813-g-mode-archives-05-sukebooo-man.json](./137813-g-mode-archives-05-sukebooo-man.json) |
 | G-Mode Archives 06: Shijou Saikyou Miyamoto Julia | 137617 | [137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json](./137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json) |
 | G-Mode Archives 07: Love Love Knuckle | 137356 | [137356-g-mode-archives-07-love-love-knuckle.json](./137356-g-mode-archives-07-love-love-knuckle.json) |
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
@@ -4177,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Up, Robot | 147049 | [147049-give-up-robot.json](./147049-give-up-robot.json) |
 | Giving Yourself Away | 340826 | [340826-giving-yourself-away.json](./340826-giving-yourself-away.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
+| Giza | 137839 | [137839-giza.json](./137839-giza.json) |
 | Gizmo | 112825 | [112825-gizmo.json](./112825-gizmo.json) |
 | Gizmo | 381052 | [381052-gizmo.json](./381052-gizmo.json) |
 | Gizmo of Giza | 184491 | [184491-gizmo-of-giza.json](./184491-gizmo-of-giza.json) |
@@ -5465,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
 | Gods of the Fallen Land | 51413 | [51413-gods-of-the-fallen-land.json](./51413-gods-of-the-fallen-land.json) |
 | Gods of the Grid | 414265 | [414265-gods-of-the-grid.json](./414265-gods-of-the-grid.json) |
+| Gods of Zushin | 137823 | [137823-gods-of-zushin.json](./137823-gods-of-zushin.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Unchained | 109087 | [109087-gods-unchained.json](./109087-gods-unchained.json) |
@@ -6539,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
 | Gormadae | 235389 | [235389-gormadae.json](./235389-gormadae.json) |
 | Gormiti: Agguato nella Valle | 137936 | [137936-gormiti-agguato-nella-valle.json](./137936-gormiti-agguato-nella-valle.json) |
+| Gormiti: La Lotta Oscura | 137847 | [137847-gormiti-la-lotta-oscura.json](./137847-gormiti-la-lotta-oscura.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
 | Gormiti: The Lords of Nature! | 51032 | [51032-gormiti-the-lords-of-nature.json](./51032-gormiti-the-lords-of-nature.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
