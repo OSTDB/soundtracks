@@ -3199,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Fútbol Selección Española Europa 2000 | 98953 | [98953-pc-futbol-seleccion-espanola-europa-2000.json](./98953-pc-futbol-seleccion-espanola-europa-2000.json) |
 | PC Futbol Stars | 130122 | [130122-pc-futbol-stars.json](./130122-pc-futbol-stars.json) |
 | PC Genjin 3 Special | 37663 | [37663-pc-genjin-3-special.json](./37663-pc-genjin-3-special.json) |
+| PC Hockey League | 160004 | [160004-pc-hockey-league.json](./160004-pc-hockey-league.json) |
 | PC Install Girl | 337177 | [337177-pc-install-girl.json](./337177-pc-install-girl.json) |
 | PC Jumps | 341587 | [341587-pc-jumps.json](./341587-pc-jumps.json) |
 | PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
@@ -14613,6 +14614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Skyscape | 158618 | [158618-project-skyscape.json](./158618-project-skyscape.json) |
 | Project: Snowblind | 5991 | [5991-project-snowblind.json](./5991-project-snowblind.json) |
 | Project: SnowBound | 341444 | [341444-project-snowbound.json](./341444-project-snowbound.json) |
+| Project: Solace | 160021 | [160021-project-solace.json](./160021-project-solace.json) |
 | Project: Space Station | 26242 | [26242-project-space-station.json](./26242-project-space-station.json) |
 | Project: Special Forces | 163864 | [163864-project-special-forces.json](./163864-project-special-forces.json) |
 | Project: Spread | 208140 | [208140-project-spread.json](./208140-project-spread.json) |
