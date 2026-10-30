@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opaldune | 288787 | [288787-opaldune.json](./288787-opaldune.json) |
 | Opalescence | 211049 | [211049-opalescence.json](./211049-opalescence.json) |
 | Opaline | 35246 | [35246-opaline.json](./35246-opaline.json) |
+| Opec Idle | 168041 | [168041-opec-idle.json](./168041-opec-idle.json) |
 | Open Bar | 161712 | [161712-open-bar.json](./161712-open-bar.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
 | Open Brush | 151999 | [151999-open-brush.json](./151999-open-brush.json) |
