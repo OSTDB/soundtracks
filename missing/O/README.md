@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
 | One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
 | One Piu Day | 107747 | [107747-one-piu-day.json](./107747-one-piu-day.json) |
+| One Pixel | 155895 | [155895-one-pixel.json](./155895-one-pixel.json) |
 | One Pixel TWB | 173388 | [173388-one-pixel-twb.json](./173388-one-pixel-twb.json) |
 | One Plus Two = 3 | 415036 | [415036-one-plus-two-3.json](./415036-one-plus-two-3.json) |
 | One Possible Future | 404702 | [404702-one-possible-future.json](./404702-one-possible-future.json) |
