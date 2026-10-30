@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rated. | 382386 | [382386-rated.json](./382386-rated.json) |
 | Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
+| Rathe: The Beginning | 158379 | [158379-rathe-the-beginning.json](./158379-rathe-the-beginning.json) |
 | Ratings War | 34357 | [34357-ratings-war.json](./34357-ratings-war.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | Ratking | 271600 | [271600-ratking.json](./271600-ratking.json) |
@@ -8045,6 +8046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Labs: Remake | 171568 | [171568-robot-labs-remake.json](./171568-robot-labs-remake.json) |
 | Robot Lawn Mower | 242971 | [242971-robot-lawn-mower.json](./242971-robot-lawn-mower.json) |
 | Robot Legions Reborn | 21629 | [21629-robot-legions-reborn.json](./21629-robot-legions-reborn.json) |
+| Robot Lord Rising | 158349 | [158349-robot-lord-rising.json](./158349-robot-lord-rising.json) |
 | Robot Maker | 385335 | [385335-robot-maker.json](./385335-robot-maker.json) |
 | Robot Master | 28788 | [28788-robot-master.json](./28788-robot-master.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
@@ -11455,6 +11457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Front | 34908 | [34908-russian-front.json](./34908-russian-front.json) |
 | Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
+| Russian Hentai 2 | 158342 | [158342-russian-hentai-2.json](./158342-russian-hentai-2.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
 | Russian Horror Story | 34761 | [34761-russian-horror-story.json](./34761-russian-horror-story.json) |
 | Russian Hunter | 203596 | [203596-russian-hunter.json](./203596-russian-hunter.json) |
