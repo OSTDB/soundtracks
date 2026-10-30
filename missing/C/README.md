@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Disaster and the Two Worlds of Riskara | 235664 | [235664-captain-disaster-and-the-two-worlds-of-riskara.json](./235664-captain-disaster-and-the-two-worlds-of-riskara.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
 | Captain Dodger: The Hidden Cargo | 242039 | [242039-captain-dodger-the-hidden-cargo.json](./242039-captain-dodger-the-hidden-cargo.json) |
+| Captain Downes and the Pirate Princess | 125613 | [125613-captain-downes-and-the-pirate-princess.json](./125613-captain-downes-and-the-pirate-princess.json) |
 | Captain Dynamo | 11990 | [11990-captain-dynamo.json](./11990-captain-dynamo.json) |
 | Captain Earth: Mind Labyrinth | 60987 | [60987-captain-earth-mind-labyrinth.json](./60987-captain-earth-mind-labyrinth.json) |
 | Captain Ed | 48539 | [48539-captain-ed.json](./48539-captain-ed.json) |
@@ -2269,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardiac | 125765 | [125765-cardiac.json](./125765-cardiac.json) |
 | Cardiac Powder | 226294 | [226294-cardiac-powder.json](./226294-cardiac-powder.json) |
 | Cardiac Unrest | 157427 | [157427-cardiac-unrest.json](./157427-cardiac-unrest.json) |
+| Cardiff_Insane Letters | 125645 | [125645-cardiff-insane-letters.json](./125645-cardiff-insane-letters.json) |
 | Cardiganical | 107777 | [107777-cardiganical.json](./107777-cardiganical.json) |
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
 | Cardinal Chains | 96221 | [96221-cardinal-chains.json](./96221-cardinal-chains.json) |
@@ -6516,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
 | Child of Light: The Golem's Plight Pack | 170390 | [170390-child-of-light-the-golems-plight-pack.json](./170390-child-of-light-the-golems-plight-pack.json) |
 | Child of Light: Ultimate Edition | 99781 | [99781-child-of-light-ultimate-edition.json](./99781-child-of-light-ultimate-edition.json) |
+| Child of Light: Ultimate Edition + Valiant Hearts: The Great War | 125587 | [125587-child-of-light-ultimate-edition-valiant-hearts-the-great-war.json](./125587-child-of-light-ultimate-edition-valiant-hearts-the-great-war.json) |
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Child of the Wind | 32835 | [32835-child-of-the-wind.json](./32835-child-of-the-wind.json) |
