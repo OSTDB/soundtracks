@@ -1975,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One | 6267 | [6267-one.json](./6267-one.json) |
 | One | 78060 | [78060-one.json](./78060-one.json) |
 | One Action Heroes | 177259 | [177259-one-action-heroes.json](./177259-one-action-heroes.json) |
+| One and One Story | 133034 | [133034-one-and-one-story.json](./133034-one-and-one-story.json) |
 | One Armed Bandit | 236354 | [236354-one-armed-bandit.json](./236354-one-armed-bandit.json) |
 | One Barbarian Futa Tribe Chapter 1: Violet | 297170 | [297170-one-barbarian-futa-tribe-chapter-1-violet.json](./297170-one-barbarian-futa-tribe-chapter-1-violet.json) |
 | One Barbarian Futa Tribe Chapter 2: Red | 297171 | [297171-one-barbarian-futa-tribe-chapter-2-red.json](./297171-one-barbarian-futa-tribe-chapter-2-red.json) |
