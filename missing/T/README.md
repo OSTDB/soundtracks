@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin 8 | 276405 | [276405-taiko-no-tatsujin-8.json](./276405-taiko-no-tatsujin-8.json) |
 | Taiko no Tatsujin 9 | 276409 | [276409-taiko-no-tatsujin-9.json](./276409-taiko-no-tatsujin-9.json) |
 | Taiko no Tatsujin Arcade | 85872 | [85872-taiko-no-tatsujin-arcade.json](./85872-taiko-no-tatsujin-arcade.json) |
+| Taiko no Tatsujin Plus: Shinkyoku Tori Houdai! | 175036 | [175036-taiko-no-tatsujin-plus-shinkyoku-tori-houdai.json](./175036-taiko-no-tatsujin-plus-shinkyoku-tori-houdai.json) |
 | Taiko no Tatsujin Portable | 60365 | [60365-taiko-no-tatsujin-portable.json](./60365-taiko-no-tatsujin-portable.json) |
 | Taiko no Tatsujin Portable 2 | 60363 | [60363-taiko-no-tatsujin-portable-2.json](./60363-taiko-no-tatsujin-portable-2.json) |
 | Taiko no Tatsujin Portable DX | 78348 | [78348-taiko-no-tatsujin-portable-dx.json](./78348-taiko-no-tatsujin-portable-dx.json) |
@@ -867,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takenoko: Tilt Five AR | 336726 | [336726-takenoko-tilt-five-ar.json](./336726-takenoko-tilt-five-ar.json) |
 | Takeout | 306368 | [306368-takeout.json](./306368-takeout.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
+| Takeover | 175041 | [175041-takeover.json](./175041-takeover.json) |
 | Takeover | 304587 | [304587-takeover.json](./304587-takeover.json) |
 | Takeover | 360505 | [360505-takeover.json](./360505-takeover.json) |
 | Takeover | 405600 | [405600-takeover.json](./405600-takeover.json) |
@@ -12040,6 +12042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
 | The Man From Fugue State | 171847 | [171847-the-man-from-fugue-state.json](./171847-the-man-from-fugue-state.json) |
 | The Man from the Window 2 | 272352 | [272352-the-man-from-the-window-2.json](./272352-the-man-from-the-window-2.json) |
+| The Man From U.N.C.L.E. - Mission: Berlin | 175019 | [175019-the-man-from-u-n-c-l-e-mission-berlin.json](./175019-the-man-from-u-n-c-l-e-mission-berlin.json) |
 | The Man I Love | 388807 | [388807-the-man-i-love.json](./388807-the-man-i-love.json) |
 | The Man in the Cape: Special Edition | 65816 | [65816-the-man-in-the-cape-special-edition.json](./65816-the-man-in-the-cape-special-edition.json) |
 | The Man in the Fields | 307850 | [307850-the-man-in-the-fields.json](./307850-the-man-in-the-fields.json) |
@@ -13938,6 +13941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
 | The Rising of the Follower | 181700 | [181700-the-rising-of-the-follower.json](./181700-the-rising-of-the-follower.json) |
 | The Rising of the Rose Ocelot | 82000 | [82000-the-rising-of-the-rose-ocelot.json](./82000-the-rising-of-the-rose-ocelot.json) |
+| The Rising of the Shield Hero | 175020 | [175020-the-rising-of-the-shield-hero.json](./175020-the-rising-of-the-shield-hero.json) |
 | The Rite of Ammon | 177306 | [177306-the-rite-of-ammon.json](./177306-the-rite-of-ammon.json) |
 | The Rite of Lilium | 386786 | [386786-the-rite-of-lilium.json](./386786-the-rite-of-lilium.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
@@ -17096,6 +17100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Pirates | 243858 | [243858-the-world-of-pirates.json](./243858-the-world-of-pirates.json) |
 | The World of Teo | 60382 | [60382-the-world-of-teo.json](./60382-the-world-of-teo.json) |
 | The World of the Candy Girl | 224538 | [224538-the-world-of-the-candy-girl.json](./224538-the-world-of-the-candy-girl.json) |
+| The World of War | 175032 | [175032-the-world-of-war.json](./175032-the-world-of-war.json) |
 | The World of War II: Frontlines of History | 283233 | [283233-the-world-of-war-ii-frontlines-of-history.json](./283233-the-world-of-war-ii-frontlines-of-history.json) |
 | The World of Xian | 156556 | [156556-the-world-of-xian.json](./156556-the-world-of-xian.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
@@ -28055,6 +28060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
 | Truck Simulator: Heavy Cargo Driver 2023 | 254637 | [254637-truck-simulator-heavy-cargo-driver-2023.json](./254637-truck-simulator-heavy-cargo-driver-2023.json) |
 | Truck Simulator: Offroad | 223879 | [223879-truck-simulator-offroad.json](./223879-truck-simulator-offroad.json) |
+| Truck Simulator: Ultimate | 175023 | [175023-truck-simulator-ultimate.json](./175023-truck-simulator-ultimate.json) |
 | Truck Simulator: World | 236249 | [236249-truck-simulator-world.json](./236249-truck-simulator-world.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
