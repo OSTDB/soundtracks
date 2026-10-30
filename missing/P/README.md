@@ -6757,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Fighting Simulator | 234023 | [234023-pirate-fighting-simulator.json](./234023-pirate-fighting-simulator.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
 | Pirate Flight | 100601 | [100601-pirate-flight.json](./100601-pirate-flight.json) |
+| Pirate Fox Detective: The Case of The Conspicuous Klawz Crew | 153658 | [153658-pirate-fox-detective-the-case-of-the-conspicuous-klawz-crew.json](./153658-pirate-fox-detective-the-case-of-the-conspicuous-klawz-crew.json) |
 | Pirate Ghost Ship | 390793 | [390793-pirate-ghost-ship.json](./390793-pirate-ghost-ship.json) |
 | Pirate Go: Bravo | 348445 | [348445-pirate-go-bravo.json](./348445-pirate-go-bravo.json) |
 | Pirate Gold | 92460 | [92460-pirate-gold.json](./92460-pirate-gold.json) |
@@ -10070,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mini Ambulation | 392331 | [392331-pokemon-mini-ambulation.json](./392331-pokemon-mini-ambulation.json) |
 | Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
+| Pokémon MMO 3D | 153675 | [153675-pokemon-mmo-3d.json](./153675-pokemon-mmo-3d.json) |
 | Pokémon Modern Emerald | 283549 | [283549-pokemon-modern-emerald.json](./283549-pokemon-modern-emerald.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
