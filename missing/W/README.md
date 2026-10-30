@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widower's Sky | 106116 | [106116-widowers-sky.json](./106116-widowers-sky.json) |
 | Wielders of the Essence | 378342 | [378342-wielders-of-the-essence.json](./378342-wielders-of-the-essence.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
+| Wiener Dog | 174489 | [174489-wiener-dog.json](./174489-wiener-dog.json) |
 | Wiener Wars | 216834 | [216834-wiener-wars.json](./216834-wiener-wars.json) |
 | Wienne | 127373 | [127373-wienne.json](./127373-wienne.json) |
 | WIF Soccer Battles | 395519 | [395519-wif-soccer-battles.json](./395519-wif-soccer-battles.json) |
@@ -6663,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
 | Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
+| Word Explorer! | 174504 | [174504-word-explorer.json](./174504-word-explorer.json) |
 | Word Factori | 154576 | [154576-word-factori.json](./154576-word-factori.json) |
 | Word Farm Adventure | 154793 | [154793-word-farm-adventure.json](./154793-word-farm-adventure.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
@@ -6729,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Rescue | 35506 | [35506-word-rescue.json](./35506-word-rescue.json) |
 | Word Rescue | 401147 | [401147-word-rescue.json](./401147-word-rescue.json) |
 | Word Rift | 404198 | [404198-word-rift.json](./404198-word-rift.json) |
+| Word Ring | 174473 | [174473-word-ring.json](./174473-word-ring.json) |
 | Word Rocket | 319191 | [319191-word-rocket.json](./319191-word-rocket.json) |
 | Word Safari: The Friendship Totems | 49472 | [49472-word-safari-the-friendship-totems.json](./49472-word-safari-the-friendship-totems.json) |
 | Word Safe | 233049 | [233049-word-safe.json](./233049-word-safe.json) |
