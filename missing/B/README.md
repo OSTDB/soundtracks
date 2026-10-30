@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4235,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Boys: You and Me | 214669 | [214669-beach-boys-you-and-me.json](./214669-beach-boys-you-and-me.json) |
 | Beach Buddies Brawl | 333674 | [333674-beach-buddies-brawl.json](./333674-beach-buddies-brawl.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
+| Beach Buggy Racing 2: Hot Wheels Edition | 164743 | [164743-beach-buggy-racing-2-hot-wheels-edition.json](./164743-beach-buggy-racing-2-hot-wheels-edition.json) |
 | Beach Buggy Racing 2: Island Adventure - Oddball Car Pack | 174494 | [174494-beach-buggy-racing-2-island-adventure-oddball-car-pack.json](./174494-beach-buggy-racing-2-island-adventure-oddball-car-pack.json) |
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
 | Beach Bums | 307001 | [307001-beach-bums.json](./307001-beach-bums.json) |
@@ -11386,6 +11388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Lover | 215477 | [215477-bone-lover.json](./215477-bone-lover.json) |
 | Bone Marrow | 129624 | [129624-bone-marrow.json](./129624-bone-marrow.json) |
 | Bone Marrow 2 | 410830 | [410830-bone-marrow-2.json](./410830-bone-marrow-2.json) |
+| Bone Marrow: Console Edition | 164700 | [164700-bone-marrow-console-edition.json](./164700-bone-marrow-console-edition.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Meal | 294366 | [294366-bone-meal.json](./294366-bone-meal.json) |
 | Bone n' Gone | 333877 | [333877-bone-n-gone.json](./333877-bone-n-gone.json) |
@@ -15528,6 +15531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle | 328983 | [328983-bundle.json](./328983-bundle.json) |
 | Bundle Cats + Dog | 199886 | [199886-bundle-cats-dog.json](./199886-bundle-cats-dog.json) |
+| Bundle Epopeia Puzzle Games | 164722 | [164722-bundle-epopeia-puzzle-games.json](./164722-bundle-epopeia-puzzle-games.json) |
 | Bundle of Joy | 317526 | [317526-bundle-of-joy.json](./317526-bundle-of-joy.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
