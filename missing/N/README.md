@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoCube | 55482 | [55482-neocube.json](./55482-neocube.json) |
 | Neodarlo | 380655 | [380655-neodarlo.json](./380655-neodarlo.json) |
 | Neodash | 148497 | [148497-neodash.json](./148497-neodash.json) |
+| NeoDefense: Tower Defense | 175542 | [175542-neodefense-tower-defense.json](./175542-neodefense-tower-defense.json) |
 | Neoditronix | 376666 | [376666-neoditronix.json](./376666-neoditronix.json) |
 | Neodori Forever | 202551 | [202551-neodori-forever.json](./202551-neodori-forever.json) |
 | Neodori Infinity | 330285 | [330285-neodori-infinity.json](./330285-neodori-infinity.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuropathic | 204818 | [204818-neuropathic.json](./204818-neuropathic.json) |
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
+| Neuroshima Convoy | 175511 | [175511-neuroshima-convoy.json](./175511-neuroshima-convoy.json) |
 | Neuroshima Hex | 22276 | [22276-neuroshima-hex.json](./22276-neuroshima-hex.json) |
 | Neurosis | 245760 | [245760-neurosis.json](./245760-neurosis.json) |
 | Neurosis | 385403 | [385403-neurosis.json](./385403-neurosis.json) |
@@ -4532,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girl | 158543 | [158543-ninja-girl.json](./158543-ninja-girl.json) |
 | Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
 | Ninja Girl Ayame | 82630 | [82630-ninja-girl-ayame.json](./82630-ninja-girl-ayame.json) |
+| Ninja Girl: RPG | 175550 | [175550-ninja-girl-rpg.json](./175550-ninja-girl-rpg.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Goemon and Immortal Jewels | 74202 | [74202-ninja-goemon-and-immortal-jewels.json](./74202-ninja-goemon-and-immortal-jewels.json) |
