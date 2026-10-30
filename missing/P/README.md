@@ -2882,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paul's Monster Adventure | 85331 | [85331-pauls-monster-adventure.json](./85331-pauls-monster-adventure.json) |
 | Paul's Shooting Adventure | 85332 | [85332-pauls-shooting-adventure.json](./85332-pauls-shooting-adventure.json) |
 | Paul's Shooting Adventure 2 | 85335 | [85335-pauls-shooting-adventure-2.json](./85335-pauls-shooting-adventure-2.json) |
+| Paul's World | 126809 | [126809-pauls-world.json](./126809-pauls-world.json) |
 | Paulblast! | 326108 | [326108-paulblast.json](./326108-paulblast.json) |
 | Pauli's Adventure Island | 264101 | [264101-paulis-adventure-island.json](./264101-paulis-adventure-island.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
@@ -4790,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Halls | 27199 | [27199-phantom-halls.json](./27199-phantom-halls.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
 | Phantom Hellcat | 214415 | [214415-phantom-hellcat.json](./214415-phantom-hellcat.json) |
+| Phantom Hills | 126767 | [126767-phantom-hills.json](./126767-phantom-hills.json) |
 | Phantom House | 348112 | [348112-phantom-house.json](./348112-phantom-house.json) |
 | Phantom Hunter | 243157 | [243157-phantom-hunter.json](./243157-phantom-hunter.json) |
 | Phantom Hysteria | 166394 | [166394-phantom-hysteria.json](./166394-phantom-hysteria.json) |
@@ -5381,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick the Star | 290323 | [290323-pick-the-star.json](./290323-pick-the-star.json) |
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
 | Pick Up | 94362 | [94362-pick-up.json](./94362-pick-up.json) |
+| Pick Your Poison | 126789 | [126789-pick-your-poison.json](./126789-pick-your-poison.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
 | Picka: 30 Days to Love | 199215 | [199215-picka-30-days-to-love.json](./199215-picka-30-days-to-love.json) |
@@ -7851,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels | 237448 | [237448-pixels.json](./237448-pixels.json) |
 | Pixels | 265566 | [265566-pixels.json](./265566-pixels.json) |
 | Pixels at Solstice | 184199 | [184199-pixels-at-solstice.json](./184199-pixels-at-solstice.json) |
+| Pixels can fight | 126797 | [126797-pixels-can-fight.json](./126797-pixels-can-fight.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
 | Pixels Filling Squares 3.0 | 95944 | [95944-pixels-filling-squares-3-0.json](./95944-pixels-filling-squares-3-0.json) |
 | Pixels filling Squares DX | 101729 | [101729-pixels-filling-squares-dx.json](./101729-pixels-filling-squares-dx.json) |
@@ -8902,6 +8906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
 | Playmobil: The Movie VR Adventures | 128438 | [128438-playmobil-the-movie-vr-adventures.json](./128438-playmobil-the-movie-vr-adventures.json) |
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
+| PLAYNE VR | 126761 | [126761-playne-vr.json](./126761-playne-vr.json) |
 | Playnicky | 221068 | [221068-playnicky.json](./221068-playnicky.json) |
 | PlayPark StreetBallers | 249691 | [249691-playpark-streetballers.json](./249691-playpark-streetballers.json) |
 | Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
@@ -13481,6 +13486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Idol Disc: Tokubetsu-hen Campaign Girl '97 | 213744 | [213744-private-idol-disc-tokubetsu-hen-campaign-girl-97.json](./213744-private-idol-disc-tokubetsu-hen-campaign-girl-97.json) |
 | Private Idol Disc: Tokubetsu-hen Kogyaru Daihyakka 100 | 213745 | [213745-private-idol-disc-tokubetsu-hen-kogyaru-daihyakka-100.json](./213745-private-idol-disc-tokubetsu-hen-kogyaru-daihyakka-100.json) |
 | Private Infiltrator | 62676 | [62676-private-infiltrator.json](./62676-private-infiltrator.json) |
+| Private Investigator Simulator | 126792 | [126792-private-investigator-simulator.json](./126792-private-investigator-simulator.json) |
 | Private Lesson with My Lover Teacher | 255111 | [255111-private-lesson-with-my-lover-teacher.json](./255111-private-lesson-with-my-lover-teacher.json) |
 | Private Lesson with My Lover Teacher 2 | 382782 | [382782-private-lesson-with-my-lover-teacher-2.json](./382782-private-lesson-with-my-lover-teacher-2.json) |
 | Private Lessons | 82309 | [82309-private-lessons.json](./82309-private-lessons.json) |
@@ -14041,6 +14047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ants | 398506 | [398506-project-ants.json](./398506-project-ants.json) |
 | Project Antumbra | 50438 | [50438-project-antumbra.json](./50438-project-antumbra.json) |
 | Project Aphotic | 285327 | [285327-project-aphotic.json](./285327-project-aphotic.json) |
+| Project Apocalypse | 126798 | [126798-project-apocalypse.json](./126798-project-apocalypse.json) |
 | Project Apoceus | 274913 | [274913-project-apoceus.json](./274913-project-apoceus.json) |
 | Project Apparatus | 297192 | [297192-project-apparatus.json](./297192-project-apparatus.json) |
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
@@ -15135,6 +15142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | Psicosis | 328938 | [328938-psicosis.json](./328938-psicosis.json) |
+| Psihanul | 126793 | [126793-psihanul.json](./126793-psihanul.json) |
 | Psikodelya | 116241 | [116241-psikodelya.json](./116241-psikodelya.json) |
 | Psikodelya: The Mansion of Madness | 170895 | [170895-psikodelya-the-mansion-of-madness.json](./170895-psikodelya-the-mansion-of-madness.json) |
 | Psikyo Collection Vol. 1 | 105048 | [105048-psikyo-collection-vol-1.json](./105048-psikyo-collection-vol-1.json) |
@@ -16556,6 +16564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Party | 132275 | [132275-puzzle-party.json](./132275-puzzle-party.json) |
 | Puzzle Party VR | 246948 | [246948-puzzle-party-vr.json](./246948-puzzle-party-vr.json) |
 | Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
+| Puzzle Patrol | 126796 | [126796-puzzle-patrol.json](./126796-puzzle-patrol.json) |
 | Puzzle Pedestrians | 144276 | [144276-puzzle-pedestrians.json](./144276-puzzle-pedestrians.json) |
 | Puzzle Pedestrians | 147840 | [147840-puzzle-pedestrians.json](./147840-puzzle-pedestrians.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
