@@ -4684,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semantics | 388255 | [388255-semantics.json](./388255-semantics.json) |
 | Semantle | 191636 | [191636-semantle.json](./191636-semantle.json) |
 | Seme COM Dungeon: Drururuaga | 59876 | [59876-seme-com-dungeon-drururuaga.json](./59876-seme-com-dungeon-drururuaga.json) |
+| Semester Begins! Xiaomi | 173385 | [173385-semester-begins-xiaomi.json](./173385-semester-begins-xiaomi.json) |
 | Semi-Sweet Tofu | 96904 | [96904-semi-sweet-tofu.json](./96904-semi-sweet-tofu.json) |
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
@@ -5703,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
 | SF: Onee-san Teacher | 83371 | [83371-sf-onee-san-teacher.json](./83371-sf-onee-san-teacher.json) |
+| SF2K: Class Dismissed | 173384 | [173384-sf2k-class-dismissed.json](./173384-sf2k-class-dismissed.json) |
 | Sf3ra | 362193 | [362193-sf3ra.json](./362193-sf3ra.json) |
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
@@ -6868,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Sheep Wolf | 112246 | [112246-sheep-sheep-wolf.json](./112246-sheep-sheep-wolf.json) |
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
+| Sheep's Quest | 173403 | [173403-sheeps-quest.json](./173403-sheeps-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
 | Sheep's Territory | 195458 | [195458-sheeps-territory.json](./195458-sheeps-territory.json) |
 | Sheepageddon | 108429 | [108429-sheepageddon.json](./108429-sheepageddon.json) |
@@ -16408,6 +16411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul of Hometown | 216782 | [216782-soul-of-hometown.json](./216782-soul-of-hometown.json) |
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
+| Soul of Phantasm | 173414 | [173414-soul-of-phantasm.json](./173414-soul-of-phantasm.json) |
 | Soul of Savarog | 301879 | [301879-soul-of-savarog.json](./301879-soul-of-savarog.json) |
 | Soul of Sovereignty: Prelude | 283407 | [283407-soul-of-sovereignty-prelude.json](./283407-soul-of-sovereignty-prelude.json) |
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
@@ -31836,6 +31840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synstasis | 95271 | [95271-synstasis.json](./95271-synstasis.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Syntaxia | 326573 | [326573-syntaxia.json](./326573-syntaxia.json) |
+| Synth | 173425 | [173425-synth.json](./173425-synth.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
 | Synth Beasts | 250479 | [250479-synth-beasts.json](./250479-synth-beasts.json) |
 | Synth Drift | 163887 | [163887-synth-drift.json](./163887-synth-drift.json) |
