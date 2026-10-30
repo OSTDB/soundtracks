@@ -3717,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Call: Home | 413159 | [413159-night-call-home.json](./413159-night-call-home.json) |
 | Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
+| Night Cascades | 172946 | [172946-night-cascades.json](./172946-night-cascades.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
 | Night Castle | 295075 | [295075-night-castle.json](./295075-night-castle.json) |
 | Night Catcher | 116079 | [116079-night-catcher.json](./116079-night-catcher.json) |
@@ -4289,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikakudori Solitaire | 89851 | [89851-nikakudori-solitaire.json](./89851-nikakudori-solitaire.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikhil Murthy's Syphilisation | 165742 | [165742-nikhil-murthys-syphilisation.json](./165742-nikhil-murthys-syphilisation.json) |
+| Niki in the Ship | 172916 | [172916-niki-in-the-ship.json](./172916-niki-in-the-ship.json) |
 | Nikita: Speedy Pirates | 253732 | [253732-nikita-speedy-pirates.json](./253732-nikita-speedy-pirates.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
@@ -6115,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
 | Not An NPC Game | 418297 | [418297-not-an-npc-game.json](./418297-not-an-npc-game.json) |
 | Not Another Advent Story | 210496 | [210496-not-another-advent-story.json](./210496-not-another-advent-story.json) |
+| Not Another Dungeon?! | 172921 | [172921-not-another-dungeon.json](./172921-not-another-dungeon.json) |
 | Not Another Hero | 57498 | [57498-not-another-hero.json](./57498-not-another-hero.json) |
 | Not Another Needle Game | 223051 | [223051-not-another-needle-game.json](./223051-not-another-needle-game.json) |
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
