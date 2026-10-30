@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Midnight Stroll | 205669 | [205669-a-midnight-stroll.json](./205669-a-midnight-stroll.json) |
 | A Midnight Village Story | 226221 | [226221-a-midnight-village-story.json](./226221-a-midnight-village-story.json) |
 | A Milky Way | 135237 | [135237-a-milky-way.json](./135237-a-milky-way.json) |
+| A Million Conquests | 149178 | [149178-a-million-conquests.json](./149178-a-million-conquests.json) |
 | A Million Lightyears Beyond | 210989 | [210989-a-million-lightyears-beyond.json](./210989-a-million-lightyears-beyond.json) |
 | A Million Minions | 206118 | [206118-a-million-minions.json](./206118-a-million-minions.json) |
 | A Million Murder Mysteries | 283909 | [283909-a-million-murder-mysteries.json](./283909-a-million-murder-mysteries.json) |
@@ -11635,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archangel Demon Rush | 396574 | [396574-archangel-demon-rush.json](./396574-archangel-demon-rush.json) |
 | Archangel: Hellfire | 36787 | [36787-archangel-hellfire.json](./36787-archangel-hellfire.json) |
 | Archangel: Hellfire - Fully Loaded | 171377 | [171377-archangel-hellfire-fully-loaded.json](./171377-archangel-hellfire-fully-loaded.json) |
+| Archangel: Nemesis | 149244 | [149244-archangel-nemesis.json](./149244-archangel-nemesis.json) |
 | ArcheAge | 6451 | [6451-archeage.json](./6451-archeage.json) |
 | ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
