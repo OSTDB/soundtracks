@@ -2536,7 +2536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3394,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
 | Kira-kira Star Night: Furusato Nouzei Fujimino-ban | 206343 | [206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json](./206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json) |
 | Kira-meki Oshare Salon!: Watashi no Shigoto wa Biyoushi-san | 149284 | [149284-kira-meki-oshare-salon-watashi-no-shigoto-wa-biyoushi-san.json](./149284-kira-meki-oshare-salon-watashi-no-shigoto-wa-biyoushi-san.json) |
+| Kira's Contract | 126206 | [126206-kiras-contract.json](./126206-kiras-contract.json) |
 | Kirakira | 67630 | [67630-kirakira.json](./67630-kirakira.json) |
 | Kirakira Monstars | 182464 | [182464-kirakira-monstars.json](./182464-kirakira-monstars.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
@@ -4364,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knowledge is Power: Decades | 103402 | [103402-knowledge-is-power-decades.json](./103402-knowledge-is-power-decades.json) |
 | Knowledge Keeper | 292921 | [292921-knowledge-keeper.json](./292921-knowledge-keeper.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
+| Knowledge Trainer: Trivia | 126190 | [126190-knowledge-trainer-trivia.json](./126190-knowledge-trainer-trivia.json) |
 | Knowledge, or Know Lady | 290941 | [290941-knowledge-or-know-lady.json](./290941-knowledge-or-know-lady.json) |
 | Known Mysteries | 330826 | [330826-known-mysteries.json](./330826-known-mysteries.json) |
 | Known Unknowns | 139309 | [139309-known-unknowns.json](./139309-known-unknowns.json) |
