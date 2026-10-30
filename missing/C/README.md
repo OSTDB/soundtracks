@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Cafe Rosa | 289269 | [289269-cafe-rosa.json](./289269-cafe-rosa.json) |
+| Cafe Simulator | 171741 | [171741-cafe-simulator.json](./171741-cafe-simulator.json) |
 | Cafe Simulator | 235790 | [235790-cafe-simulator.json](./235790-cafe-simulator.json) |
 | Cafe Simulator | 380048 | [380048-cafe-simulator.json](./380048-cafe-simulator.json) |
 | Cafe Space Angel | 180533 | [180533-cafe-space-angel.json](./180533-cafe-space-angel.json) |
@@ -6623,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese universities | 338515 | [338515-chinese-universities.json](./338515-chinese-universities.json) |
 | Chinese Zombie War | 62495 | [62495-chinese-zombie-war.json](./62495-chinese-zombie-war.json) |
 | Chinese-Style Takeaway | 418238 | [418238-chinese-style-takeaway.json](./418238-chinese-style-takeaway.json) |
+| ChineseZodiac | 171729 | [171729-chinesezodiac.json](./171729-chinesezodiac.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | ChingMing | 303730 | [303730-chingming.json](./303730-chingming.json) |
 | Chinhai | 38151 | [38151-chinhai.json](./38151-chinhai.json) |
@@ -8409,6 +8411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CKZ Origins | 87164 | [87164-ckz-origins.json](./87164-ckz-origins.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
 | Clad in Iron War of the Pacific 1879 | 231022 | [231022-clad-in-iron-war-of-the-pacific-1879.json](./231022-clad-in-iron-war-of-the-pacific-1879.json) |
+| Clad In Iron: Carolines 1885 | 171737 | [171737-clad-in-iron-carolines-1885.json](./171737-clad-in-iron-carolines-1885.json) |
 | Clad in Iron: Gulf of Mexico 1864 | 55607 | [55607-clad-in-iron-gulf-of-mexico-1864.json](./55607-clad-in-iron-gulf-of-mexico-1864.json) |
 | Clad in Iron: Philippines 1898 | 75343 | [75343-clad-in-iron-philippines-1898.json](./75343-clad-in-iron-philippines-1898.json) |
 | Clad in Iron: Philippines 1898 - Manila Bay 1898 | 170949 | [170949-clad-in-iron-philippines-1898-manila-bay-1898.json](./170949-clad-in-iron-philippines-1898-manila-bay-1898.json) |
@@ -10964,6 +10967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colosseum | 13504 | [13504-colosseum.json](./13504-colosseum.json) |
 | Colosseum | 320834 | [320834-colosseum.json](./320834-colosseum.json) |
 | Colosseum Coach | 395694 | [395694-colosseum-coach.json](./395694-colosseum-coach.json) |
+| Colosseum VR | 171754 | [171754-colosseum-vr.json](./171754-colosseum-vr.json) |
 | Colosseum: Road to Freedom | 22456 | [22456-colosseum-road-to-freedom.json](./22456-colosseum-road-to-freedom.json) |
 | Colosso Crystal Skulls | 99727 | [99727-colosso-crystal-skulls.json](./99727-colosso-crystal-skulls.json) |
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
@@ -11066,6 +11070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Labs | 155843 | [155843-combat-labs.json](./155843-combat-labs.json) |
 | Combat Leader | 24914 | [24914-combat-leader.json](./24914-combat-leader.json) |
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
+| Combat Magic: Spells and Swords | 171767 | [171767-combat-magic-spells-and-swords.json](./171767-combat-magic-spells-and-swords.json) |
 | Combat Martial Boss Edition | 104573 | [104573-combat-martial-boss-edition.json](./104573-combat-martial-boss-edition.json) |
 | Combat Master | 248376 | [248376-combat-master.json](./248376-combat-master.json) |
 | Combat Master: Battle to Death | 344555 | [344555-combat-master-battle-to-death.json](./344555-combat-master-battle-to-death.json) |
@@ -11961,6 +11966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer the Labyrinth | 422462 | [422462-conquer-the-labyrinth.json](./422462-conquer-the-labyrinth.json) |
 | Conquer the Skies | 207017 | [207017-conquer-the-skies.json](./207017-conquer-the-skies.json) |
 | Conquer the Tower | 377628 | [377628-conquer-the-tower.json](./377628-conquer-the-tower.json) |
+| Conquer the Universe | 171726 | [171726-conquer-the-universe.json](./171726-conquer-the-universe.json) |
 | Conquer the Universe | 207019 | [207019-conquer-the-universe.json](./207019-conquer-the-universe.json) |
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
 | Conquer The World | 356591 | [356591-conquer-the-world.json](./356591-conquer-the-world.json) |
@@ -18116,6 +18122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybermotion | 51492 | [51492-cybermotion.json](./51492-cybermotion.json) |
 | Cybermycha i więźniowie Drappa | 140925 | [140925-cybermycha-i-wiezniowie-drappa.json](./140925-cybermycha-i-wiezniowie-drappa.json) |
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
+| CyberNeon | 171753 | [171753-cyberneon.json](./171753-cyberneon.json) |
 | CyberNet Duel | 258525 | [258525-cybernet-duel.json](./258525-cybernet-duel.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
 | Cybernetic Hi-School | 73628 | [73628-cybernetic-hi-school.json](./73628-cybernetic-hi-school.json) |
