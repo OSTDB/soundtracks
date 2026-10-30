@@ -5293,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
 | Beerserker: The Stolen Brew | 420553 | [420553-beerserker-the-stolen-brew.json](./420553-beerserker-the-stolen-brew.json) |
+| Beerslinger | 142070 | [142070-beerslinger.json](./142070-beerslinger.json) |
 | Bees vs. Ants | 175164 | [175164-bees-vs-ants.json](./175164-bees-vs-ants.json) |
 | Bees vs. Zombees | 336468 | [336468-bees-vs-zombees.json](./336468-bees-vs-zombees.json) |
 | Beescuit | 332293 | [332293-beescuit.json](./332293-beescuit.json) |
@@ -5461,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beijing 2008 | 6910 | [6910-beijing-2008.json](./6910-beijing-2008.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Being | 92419 | [92419-being.json](./92419-being.json) |
+| Being & Becoming | 142618 | [142618-being-and-becoming.json](./142618-being-and-becoming.json) |
 | Being a DIK | 128462 | [128462-being-a-dik.json](./128462-being-a-dik.json) |
 | Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
 | Being a DIK: Season 3 | 338648 | [338648-being-a-dik-season-3.json](./338648-being-a-dik-season-3.json) |
@@ -5951,6 +5953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Berty the Giraffe | 344391 | [344391-berty-the-giraffe.json](./344391-berty-the-giraffe.json) |
 | Berusky | 135275 | [135275-berusky.json](./135275-berusky.json) |
+| Berusky 2 | 142045 | [142045-berusky-2.json](./142045-berusky-2.json) |
 | Bery'sCase | 290931 | [290931-beryscase.json](./290931-beryscase.json) |
 | Berzerk | 2391 | [2391-berzerk.json](./2391-berzerk.json) |
 | Berzerk | 282314 | [282314-berzerk.json](./282314-berzerk.json) |
@@ -6601,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Racing | 58023 | [58023-big-bang-racing.json](./58023-big-bang-racing.json) |
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
 | Big Bang Sudoku | 288255 | [288255-big-bang-sudoku.json](./288255-big-bang-sudoku.json) |
+| Big Bang West | 142051 | [142051-big-bang-west.json](./142051-big-bang-west.json) |
 | Big Bang West II | 338054 | [338054-big-bang-west-ii.json](./338054-big-bang-west-ii.json) |
 | Big Bash Boom | 112895 | [112895-big-bash-boom.json](./112895-big-bash-boom.json) |
 | Big Bash Cricket | 170402 | [170402-big-bash-cricket.json](./170402-big-bash-cricket.json) |
@@ -6947,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
 | Bike Unchained 3 | 304962 | [304962-bike-unchained-3.json](./304962-bike-unchained-3.json) |
 | Bike Xtreme | 101680 | [101680-bike-xtreme.json](./101680-bike-xtreme.json) |
+| Bikeflyter | 142643 | [142643-bikeflyter.json](./142643-bikeflyter.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
 | Bikepark: The Riders Game | 60945 | [60945-bikepark-the-riders-game.json](./60945-bikepark-the-riders-game.json) |
 | Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
@@ -7127,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Dungeon | 280085 | [280085-binary-dungeon.json](./280085-binary-dungeon.json) |
 | Binary Escape | 274351 | [274351-binary-escape.json](./274351-binary-escape.json) |
 | Binary Game | 369538 | [369538-binary-game.json](./369538-binary-game.json) |
+| Binary Gods | 142064 | [142064-binary-gods.json](./142064-binary-gods.json) |
 | Binary Heresy | 134983 | [134983-binary-heresy.json](./134983-binary-heresy.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
@@ -11715,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Ball for Kinect | 20305 | [20305-boom-ball-for-kinect.json](./20305-boom-ball-for-kinect.json) |
 | Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
+| Boom Beach: Frontlines | 142611 | [142611-boom-beach-frontlines.json](./142611-boom-beach-frontlines.json) |
 | Boom Bears on Stream | 191468 | [191468-boom-bears-on-stream.json](./191468-boom-bears-on-stream.json) |
 | Boom Beats | 42777 | [42777-boom-beats.json](./42777-boom-beats.json) |
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
@@ -12927,6 +12934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
 | Brain Exercises With Dr. Kawashima | 20278 | [20278-brain-exercises-with-dr-kawashima.json](./20278-brain-exercises-with-dr-kawashima.json) |
 | Brain Explode | 358737 | [358737-brain-explode.json](./358737-brain-explode.json) |
+| Brain Frame | 142612 | [142612-brain-frame.json](./142612-brain-frame.json) |
 | Brain Games | 167193 | [167193-brain-games.json](./167193-brain-games.json) |
 | Brain Games | 54843 | [54843-brain-games.json](./54843-brain-games.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
