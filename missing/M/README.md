@@ -4091,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martin The Let's Player | 257083 | [257083-martin-the-lets-player.json](./257083-martin-the-lets-player.json) |
 | Martin Wort's Special Report | 112310 | [112310-martin-worts-special-report.json](./112310-martin-worts-special-report.json) |
 | Marty and the Eldritch Horror | 176964 | [176964-marty-and-the-eldritch-horror.json](./176964-marty-and-the-eldritch-horror.json) |
+| Marty and the Trouble with Cheese | 144553 | [144553-marty-and-the-trouble-with-cheese.json](./144553-marty-and-the-trouble-with-cheese.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Marty Thinks 4th Dimensionally | 54807 | [54807-marty-thinks-4th-dimensionally.json](./54807-marty-thinks-4th-dimensionally.json) |
 | Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
@@ -5477,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem in Single Valley: Confessions | 133099 | [133099-mayhem-in-single-valley-confessions.json](./133099-mayhem-in-single-valley-confessions.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Mail | 272746 | [272746-mayhem-mail.json](./272746-mayhem-mail.json) |
+| Mayhem Mansion | 143975 | [143975-mayhem-mansion.json](./143975-mayhem-mansion.json) |
 | Mayhem Masters | 128247 | [128247-mayhem-masters.json](./128247-mayhem-masters.json) |
 | Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
@@ -6002,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechaconda | 348593 | [348593-mechaconda.json](./348593-mechaconda.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
 | MechaGore | 32586 | [32586-mechagore.json](./32586-mechagore.json) |
+| MechaHead League | 144546 | [144546-mechahead-league.json](./144546-mechahead-league.json) |
 | Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
 | MechaJourney | 369167 | [369167-mechajourney.json](./369167-mechajourney.json) |
 | Mechaknights Legends | 330107 | [330107-mechaknights-legends.json](./330107-mechaknights-legends.json) |
@@ -8599,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | Metacraft | 194130 | [194130-metacraft.json](./194130-metacraft.json) |
 | Metacube | 342779 | [342779-metacube.json](./342779-metacube.json) |
+| MetaDoom | 144550 | [144550-metadoom.json](./144550-metadoom.json) |
 | MetaDOS | 199923 | [199923-metados.json](./199923-metados.json) |
 | MetaDude | 254634 | [254634-metadude.json](./254634-metadude.json) |
 | Metaflora | 280704 | [280704-metaflora.json](./280704-metaflora.json) |
@@ -16062,6 +16066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto Shiritai Nippon no Meijou | 261369 | [261369-motto-shiritai-nippon-no-meijou.json](./261369-motto-shiritai-nippon-no-meijou.json) |
 | Motto Shiritai Uchuu no Hatena | 257759 | [257759-motto-shiritai-uchuu-no-hatena.json](./257759-motto-shiritai-uchuu-no-hatena.json) |
 | Motto Trump Shiyouyo! i-Mode de Grand Prix | 402735 | [402735-motto-trump-shiyouyo-i-mode-de-grand-prix.json](./402735-motto-trump-shiyouyo-i-mode-de-grand-prix.json) |
+| Motto! New Puzz Osomatsu-san: Shinpin Sotsugyou Keikaku | 144639 | [144639-motto-new-puzz-osomatsu-san-shinpin-sotsugyou-keikaku.json](./144639-motto-new-puzz-osomatsu-san-shinpin-sotsugyou-keikaku.json) |
 | Motto! Nyan to Wonderful 2 | 419631 | [419631-motto-nyan-to-wonderful-2.json](./419631-motto-nyan-to-wonderful-2.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
 | Motto! Stitch! DS: Rhythm de Rakugaki Daisakusen | 98569 | [98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json](./98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json) |
@@ -19293,6 +19298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
 | Mysterious Voyage: Set sail | 303069 | [303069-mysterious-voyage-set-sail.json](./303069-mysterious-voyage-set-sail.json) |
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
+| Mysterious World | 143920 | [143920-mysterious-world.json](./143920-mysterious-world.json) |
 | Mysterious: Dark Journey | 157976 | [157976-mysterious-dark-journey.json](./157976-mysterious-dark-journey.json) |
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
