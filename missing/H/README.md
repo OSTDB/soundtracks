@@ -6596,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide Your Butts! | 113004 | [113004-hide-your-butts.json](./113004-hide-your-butts.json) |
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
 | Hide.io | 102269 | [102269-hide-io.json](./102269-hide-io.json) |
+| Hide&Seek | 166425 | [166425-hide-and-seek.json](./166425-hide-and-seek.json) |
 | Hideandhunt | 204826 | [204826-hideandhunt.json](./204826-hideandhunt.json) |
 | Hideaway | 195946 | [195946-hideaway.json](./195946-hideaway.json) |
 | Hideaways Lost Island | 53212 | [53212-hideaways-lost-island.json](./53212-hideaways-lost-island.json) |
@@ -11188,6 +11189,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypercoven | 256784 | [256784-hypercoven.json](./256784-hypercoven.json) |
 | Hypercube: Source | 273293 | [273293-hypercube-source.json](./273293-hypercube-source.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
+| Hyperdevotion Noire: Goddess Black Heart - Ultimate Member “Compa” | 166400 | [166400-hyperdevotion-noire-goddess-black-heart-ultimate-member-compa.json](./166400-hyperdevotion-noire-goddess-black-heart-ultimate-member-compa.json) |
+| Hyperdevotion Noire: Goddess Black Heart - Ultimate Member “IF” | 166399 | [166399-hyperdevotion-noire-goddess-black-heart-ultimate-member-if.json](./166399-hyperdevotion-noire-goddess-black-heart-ultimate-member-if.json) |
+| Hyperdevotion Noire: Goddess Black Heart - Ultimate Member “Sting” | 166401 | [166401-hyperdevotion-noire-goddess-black-heart-ultimate-member-sting.json](./166401-hyperdevotion-noire-goddess-black-heart-ultimate-member-sting.json) |
+| Hyperdevotion Noire: Goddess Black Heart - Ultimate Party Member “Tiara” | 166402 | [166402-hyperdevotion-noire-goddess-black-heart-ultimate-party-member-tiara.json](./166402-hyperdevotion-noire-goddess-black-heart-ultimate-party-member-tiara.json) |
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
 | Hyperdimension Neptunia Mk2 | 7320 | [7320-hyperdimension-neptunia-mk2.json](./7320-hyperdimension-neptunia-mk2.json) |
 | Hyperdimension Neptunia Re;Birth 1 Plus: Limited Edition | 167043 | [167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json](./167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json) |
