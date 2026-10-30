@@ -10995,6 +10995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
 | Skumring | 90228 | [90228-skumring.json](./90228-skumring.json) |
+| SkunkHunter 101 | 169590 | [169590-skunkhunter-101.json](./169590-skunkhunter-101.json) |
 | Skunny Kart | 46731 | [46731-skunny-kart.json](./46731-skunny-kart.json) |
 | Skunny: In the Wild West | 70791 | [70791-skunny-in-the-wild-west.json](./70791-skunny-in-the-wild-west.json) |
 | Skunny: Lost in Space | 68705 | [68705-skunny-lost-in-space.json](./68705-skunny-lost-in-space.json) |
@@ -17947,6 +17948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
 | SpaceBound | 54741 | [54741-spacebound.json](./54741-spacebound.json) |
 | Spacebourne | 105193 | [105193-spacebourne.json](./105193-spacebourne.json) |
+| Spacebug | 169594 | [169594-spacebug.json](./169594-spacebug.json) |
 | SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
 | Spaceburgers: Journey to Green Haven | 374414 | [374414-spaceburgers-journey-to-green-haven.json](./374414-spaceburgers-journey-to-green-haven.json) |
 | SpaceCab | 368777 | [368777-spacecab.json](./368777-spacecab.json) |
@@ -18017,6 +18019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spaceland: Sci-Fi Indie Tactics | 117052 | [117052-spaceland-sci-fi-indie-tactics.json](./117052-spaceland-sci-fi-indie-tactics.json) |
+| Spacelandia | 169599 | [169599-spacelandia.json](./169599-spacelandia.json) |
 | Spacelines from the Far Out | 139192 | [139192-spacelines-from-the-far-out.json](./139192-spacelines-from-the-far-out.json) |
 | Spacelord | 183936 | [183936-spacelord.json](./183936-spacelord.json) |
 | Spacelords: Aneska Deluxe Character Pack | 169318 | [169318-spacelords-aneska-deluxe-character-pack.json](./169318-spacelords-aneska-deluxe-character-pack.json) |
@@ -19373,6 +19376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
 | Spinning Battles | 306323 | [306323-spinning-battles.json](./306323-spinning-battles.json) |
 | Spinning Image | 408487 | [408487-spinning-image.json](./408487-spinning-image.json) |
+| Spinning Kid 2 | 169572 | [169572-spinning-kid-2.json](./169572-spinning-kid-2.json) |
 | Spinning Maze | 31581 | [31581-spinning-maze.json](./31581-spinning-maze.json) |
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
 | Spinning Pong | 238387 | [238387-spinning-pong.json](./238387-spinning-pong.json) |
@@ -25878,6 +25882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuccuBoss | 367057 | [367057-succuboss.json](./367057-succuboss.json) |
 | Succubus | 77820 | [77820-succubus.json](./77820-succubus.json) |
 | Succubus 2069 | 278897 | [278897-succubus-2069.json](./278897-succubus-2069.json) |
+| Succubus Affection | 169578 | [169578-succubus-affection.json](./169578-succubus-affection.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
 | Succubus Dating | 203598 | [203598-succubus-dating.json](./203598-succubus-dating.json) |
