@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the heart | 188955 | [188955-find-the-heart.json](./188955-find-the-heart.json) |
 | Find the Invisible Cow | 159587 | [159587-find-the-invisible-cow.json](./159587-find-the-invisible-cow.json) |
 | Find the Key | 224532 | [224532-find-the-key.json](./224532-find-the-key.json) |
+| Find the Letter H | 160023 | [160023-find-the-letter-h.json](./160023-find-the-letter-h.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Lost Lights | 310155 | [310155-find-the-lost-lights.json](./310155-find-the-lost-lights.json) |
 | Find the Murderer | 193058 | [193058-find-the-murderer.json](./193058-find-the-murderer.json) |
