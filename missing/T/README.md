@@ -9992,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Insector | 187652 | [187652-the-insector.json](./187652-the-insector.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
 | The inside of a drawer | 129070 | [129070-the-inside-of-a-drawer.json](./129070-the-inside-of-a-drawer.json) |
+| The Insignia Project | 159520 | [159520-the-insignia-project.json](./159520-the-insignia-project.json) |
 | The Insomnia Town | 182853 | [182853-the-insomnia-town.json](./182853-the-insomnia-town.json) |
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
 | The Institute: A Becky Brogan Adventure | 125380 | [125380-the-institute-a-becky-brogan-adventure.json](./125380-the-institute-a-becky-brogan-adventure.json) |
@@ -10826,6 +10827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Nurse Joy | 321816 | [321816-the-last-nurse-joy.json](./321816-the-last-nurse-joy.json) |
 | The Last Oasis Before Chastity | 298121 | [298121-the-last-oasis-before-chastity.json](./298121-the-last-oasis-before-chastity.json) |
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
+| The Last of Anime | 159476 | [159476-the-last-of-anime.json](./159476-the-last-of-anime.json) |
 | The Last of Hero | 181583 | [181583-the-last-of-hero.json](./181583-the-last-of-hero.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
 | The Last of The Core | 241850 | [241850-the-last-of-the-core.json](./241850-the-last-of-the-core.json) |
@@ -14156,6 +14158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The S Factor: Sonia and Silver | 45579 | [45579-the-s-factor-sonia-and-silver.json](./45579-the-s-factor-sonia-and-silver.json) |
 | The S.H.O.W. | 412964 | [412964-the-s-h-o-w.json](./412964-the-s-h-o-w.json) |
 | The S.Sterling Co. | 204207 | [204207-the-s-sterling-co.json](./204207-the-s-sterling-co.json) |
+| The Sabotage | 159503 | [159503-the-sabotage.json](./159503-the-sabotage.json) |
 | The Saboten Man | 154782 | [154782-the-saboten-man.json](./154782-the-saboten-man.json) |
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
@@ -20595,6 +20598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
 | Time Surfer | 22175 | [22175-time-surfer.json](./22175-time-surfer.json) |
 | Time Survivors: Chapter 0 | 258108 | [258108-time-survivors-chapter-0.json](./258108-time-survivors-chapter-0.json) |
+| Time Tails | 159509 | [159509-time-tails.json](./159509-time-tails.json) |
 | Time Takers | 361861 | [361861-time-takers.json](./361861-time-takers.json) |
 | Time Tangle: Adventure Time | 61147 | [61147-time-tangle-adventure-time.json](./61147-time-tangle-adventure-time.json) |
 | Time Tenshi | 318022 | [318022-time-tenshi.json](./318022-time-tenshi.json) |
