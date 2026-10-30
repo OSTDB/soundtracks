@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village City Island Sim Build | 104606 | [104606-village-city-island-sim-build.json](./104606-village-city-island-sim-build.json) |
 | Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
 | Village Cult | 309452 | [309452-village-cult.json](./309452-village-cult.json) |
+| Village Defender | 149777 | [149777-village-defender.json](./149777-village-defender.json) |
 | Village Defender | 219516 | [219516-village-defender.json](./219516-village-defender.json) |
 | Village Defenders | 348906 | [348906-village-defenders.json](./348906-village-defenders.json) |
 | Village Defense | 181034 | [181034-village-defense.json](./181034-village-defense.json) |
