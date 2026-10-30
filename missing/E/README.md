@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagles Strike | 59314 | [59314-eagles-strike.json](./59314-eagles-strike.json) |
 | Eagletalon vs. Horde of the Flies | 127604 | [127604-eagletalon-vs-horde-of-the-flies.json](./127604-eagletalon-vs-horde-of-the-flies.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
+| Ealu | 165344 | [165344-ealu.json](./165344-ealu.json) |
 | Ear Cat | 100916 | [100916-ear-cat.json](./100916-ear-cat.json) |
 | Ear Clicker | 330496 | [330496-ear-clicker.json](./330496-ear-clicker.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
@@ -722,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Night: Beyond | 9515 | [9515-echo-night-beyond.json](./9515-echo-night-beyond.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo Nine | 43186 | [43186-echo-nine.json](./43186-echo-nine.json) |
+| Echo of Ayllu | 165310 | [165310-echo-of-ayllu.json](./165310-echo-of-ayllu.json) |
 | Echo of Combats | 114076 | [114076-echo-of-combats.json](./114076-echo-of-combats.json) |
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
 | Echo of Fear: Vol.1 Night Visit | 311528 | [311528-echo-of-fear-vol-1-night-visit.json](./311528-echo-of-fear-vol-1-night-visit.json) |
@@ -6015,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | Evercore Heroes: Ascension | 248841 | [248841-evercore-heroes-ascension.json](./248841-evercore-heroes-ascension.json) |
+| Everdale | 165321 | [165321-everdale.json](./165321-everdale.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdark: Undead Apocalypse | 366590 | [366590-everdark-undead-apocalypse.json](./366590-everdark-undead-apocalypse.json) |
 | Everdate: The Let's Play Dating Game | 244143 | [244143-everdate-the-lets-play-dating-game.json](./244143-everdate-the-lets-play-dating-game.json) |
