@@ -3845,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
 | Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
+| Entrapment | 148785 | [148785-entrapment.json](./148785-entrapment.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
 | Entre-Deux | 99445 | [99445-entre-deux.json](./99445-entre-deux.json) |
 | Entre.pontos | 180413 | [180413-entre-pontos.json](./180413-entre-pontos.json) |
@@ -4691,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Scientology Land | 237493 | [237493-escape-from-scientology-land.json](./237493-escape-from-scientology-land.json) |
 | Escape from Sharptooth Valley | 319159 | [319159-escape-from-sharptooth-valley.json](./319159-escape-from-sharptooth-valley.json) |
 | Escape from Sin City | 101498 | [101498-escape-from-sin-city.json](./101498-escape-from-sin-city.json) |
+| Escape from Skull Dungeon | 148765 | [148765-escape-from-skull-dungeon.json](./148765-escape-from-skull-dungeon.json) |
 | Escape from Somnium | 302507 | [302507-escape-from-somnium.json](./302507-escape-from-somnium.json) |
 | Escape From Space Shredder | 51734 | [51734-escape-from-space-shredder.json](./51734-escape-from-space-shredder.json) |
 | Escape From Spikes | 359210 | [359210-escape-from-spikes.json](./359210-escape-from-spikes.json) |
@@ -5117,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
 | Escaping Diddler | 321528 | [321528-escaping-diddler.json](./321528-escaping-diddler.json) |
 | Escaping Hell | 138642 | [138642-escaping-hell.json](./138642-escaping-hell.json) |
+| Escaping maze | 148784 | [148784-escaping-maze.json](./148784-escaping-maze.json) |
 | Escaping Wonderland | 306956 | [306956-escaping-wonderland.json](./306956-escaping-wonderland.json) |
 | Escapism Ltd. | 308869 | [308869-escapism-ltd.json](./308869-escapism-ltd.json) |
 | Escapology | 174582 | [174582-escapology.json](./174582-escapology.json) |
