@@ -4601,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Expert | 235049 | [235049-aim-expert.json](./235049-aim-expert.json) |
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
+| Aim for the Win: The Forge | 174507 | [174507-aim-for-the-win-the-forge.json](./174507-aim-for-the-win-the-forge.json) |
 | Aim God | 203784 | [203784-aim-god.json](./203784-aim-god.json) |
 | Aim Gods | 133724 | [133724-aim-gods.json](./133724-aim-gods.json) |
 | Aim Hero | 31547 | [31547-aim-hero.json](./31547-aim-hero.json) |
@@ -4828,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
 | Air Toons | 364397 | [364397-air-toons.json](./364397-air-toons.json) |
 | Air Traffic | 190928 | [190928-air-traffic.json](./190928-air-traffic.json) |
+| Air Traffic Blitz VR | 174500 | [174500-air-traffic-blitz-vr.json](./174500-air-traffic-blitz-vr.json) |
 | Air Traffic Commander | 60841 | [60841-air-traffic-commander.json](./60841-air-traffic-commander.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Control | 376854 | [376854-air-traffic-control.json](./376854-air-traffic-control.json) |
@@ -15423,6 +15425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatic War | 223390 | [223390-automatic-war.json](./223390-automatic-war.json) |
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automation | 165512 | [165512-automation.json](./165512-automation.json) |
+| Automation of Sorts | 174490 | [174490-automation-of-sorts.json](./174490-automation-of-sorts.json) |
 | Automation Station | 201069 | [201069-automation-station.json](./201069-automation-station.json) |
 | Automation: The Car Company Tycoon Game | 17239 | [17239-automation-the-car-company-tycoon-game.json](./17239-automation-the-car-company-tycoon-game.json) |
 | Automaton | 148852 | [148852-automaton.json](./148852-automaton.json) |
