@@ -6877,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
 | Lords of Exile | 133970 | [133970-lords-of-exile.json](./133970-lords-of-exile.json) |
 | Lords of Football | 10519 | [10519-lords-of-football.json](./10519-lords-of-football.json) |
+| Lords of Football: United States | 172347 | [172347-lords-of-football-united-states.json](./172347-lords-of-football-united-states.json) |
 | Lords of Kingdoms | 96662 | [96662-lords-of-kingdoms.json](./96662-lords-of-kingdoms.json) |
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
