@@ -3803,7 +3803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Hellbound | 360769 | [360769-hellbound.json](./360769-hellbound.json) |
 | Hellbound | 385390 | [385390-hellbound.json](./385390-hellbound.json) |
-| Hellbound | 76037 | [76037-hellbound.json](./76037-hellbound.json) |
 | Hellbound Ropes | 266603 | [266603-hellbound-ropes.json](./266603-hellbound-ropes.json) |
 | Hellbound, Inc. | 358272 | [358272-hellbound-inc.json](./358272-hellbound-inc.json) |
 | Hellbound: Survival Mode | 86764 | [86764-hellbound-survival-mode.json](./86764-hellbound-survival-mode.json) |
