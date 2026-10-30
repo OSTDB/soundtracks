@@ -5133,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions Arena | 296218 | [296218-champions-arena.json](./296218-champions-arena.json) |
 | Champions Forces | 129461 | [129461-champions-forces.json](./129461-champions-forces.json) |
+| Champions Legion | 133606 | [133606-champions-legion.json](./133606-champions-legion.json) |
 | Champions of Aerial | 75429 | [75429-champions-of-aerial.json](./75429-champions-of-aerial.json) |
 | Champions of Avan | 273843 | [273843-champions-of-avan.json](./273843-champions-of-avan.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
@@ -17360,6 +17361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
 | Cultist Simulator: Initiate Edition | 142313 | [142313-cultist-simulator-initiate-edition.json](./142313-cultist-simulator-initiate-edition.json) |
 | Cultist Simulator: The Lady Afterwards | 196087 | [196087-cultist-simulator-the-lady-afterwards.json](./196087-cultist-simulator-the-lady-afterwards.json) |
+| Cultists & Compounds | 133617 | [133617-cultists-and-compounds.json](./133617-cultists-and-compounds.json) |
 | Cultivating Happiness | 229218 | [229218-cultivating-happiness.json](./229218-cultivating-happiness.json) |
 | Cultivating Immortals | 274641 | [274641-cultivating-immortals.json](./274641-cultivating-immortals.json) |
 | Cultivation | 378388 | [378388-cultivation.json](./378388-cultivation.json) |
