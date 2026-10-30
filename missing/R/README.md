@@ -3891,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reed ^_^ | 91141 | [91141-reed.json](./91141-reed.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
 | Reed Collection | 221993 | [221993-reed-collection.json](./221993-reed-collection.json) |
+| Reed Remastered | 129952 | [129952-reed-remastered.json](./129952-reed-remastered.json) |
 | Reed the Robotanist | 146492 | [146492-reed-the-robotanist.json](./146492-reed-the-robotanist.json) |
 | Reed the Robotanist Plus | 211642 | [211642-reed-the-robotanist-plus.json](./211642-reed-the-robotanist-plus.json) |
 | Reederei | 94336 | [94336-reederei.json](./94336-reederei.json) |
