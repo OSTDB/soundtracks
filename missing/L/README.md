@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Legend II | 206443 | [206443-labyrinth-legend-ii.json](./206443-labyrinth-legend-ii.json) |
 | Labyrinth Legends | 21012 | [21012-labyrinth-legends.json](./21012-labyrinth-legends.json) |
 | Labyrinth Life: Deluxe Edition | 121418 | [121418-labyrinth-life-deluxe-edition.json](./121418-labyrinth-life-deluxe-edition.json) |
+| Labyrinth Life: Limited Edition | 166964 | [166964-labyrinth-life-limited-edition.json](./166964-labyrinth-life-limited-edition.json) |
 | Labyrinth Lunacy | 104694 | [104694-labyrinth-lunacy.json](./104694-labyrinth-lunacy.json) |
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
 | Labyrinth no Kanata | 6835 | [6835-labyrinth-no-kanata.json](./6835-labyrinth-no-kanata.json) |
@@ -1594,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawang Sewu: Basement B | 364238 | [364238-lawang-sewu-basement-b.json](./364238-lawang-sewu-basement-b.json) |
 | Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
 | Lawgivers | 127880 | [127880-lawgivers.json](./127880-lawgivers.json) |
+| Lawgivers II | 166935 | [166935-lawgivers-ii.json](./166935-lawgivers-ii.json) |
 | Lawin Catch The Kim | 265339 | [265339-lawin-catch-the-kim.json](./265339-lawin-catch-the-kim.json) |
 | Lawl | 130727 | [130727-lawl.json](./130727-lawl.json) |
 | Lawless Lands: Blood Pit | 174472 | [174472-lawless-lands-blood-pit.json](./174472-lawless-lands-blood-pit.json) |
@@ -5232,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Doll Village | 414841 | [414841-little-doll-village.json](./414841-little-doll-village.json) |
 | Little Dragon Adventure | 287323 | [287323-little-dragon-adventure.json](./287323-little-dragon-adventure.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
+| Little Dragons Cafe: Limited Edition | 166959 | [166959-little-dragons-cafe-limited-edition.json](./166959-little-dragons-cafe-limited-edition.json) |
 | Little Drift | 158106 | [158106-little-drift.json](./158106-little-drift.json) |
 | Little Droid | 258304 | [258304-little-droid.json](./258304-little-droid.json) |
 | Little Droid 2: Escape | 312144 | [312144-little-droid-2-escape.json](./312144-little-droid-2-escape.json) |
@@ -6885,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
 | Lords of Midnight: The Citadel | 69178 | [69178-lords-of-midnight-the-citadel.json](./69178-lords-of-midnight-the-citadel.json) |
+| Lords of Nether | 166949 | [166949-lords-of-nether.json](./166949-lords-of-nether.json) |
 | Lords of New York | 26850 | [26850-lords-of-new-york.json](./26850-lords-of-new-york.json) |
 | Lords of Nysera | 276633 | [276633-lords-of-nysera.json](./276633-lords-of-nysera.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
