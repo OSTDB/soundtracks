@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Misterio del Nilo | 104590 | [104590-el-misterio-del-nilo.json](./104590-el-misterio-del-nilo.json) |
 | El Mono | 387395 | [387395-el-mono.json](./387395-el-mono.json) |
 | El Monstruo de los Globos | 238900 | [238900-el-monstruo-de-los-globos.json](./238900-el-monstruo-de-los-globos.json) |
+| El Mucho | 157351 | [157351-el-mucho.json](./157351-el-mucho.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Ne Rue | 232943 | [232943-el-ne-rue.json](./232943-el-ne-rue.json) |
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
@@ -3500,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
 | Endure the Swarm | 297425 | [297425-endure-the-swarm.json](./297425-endure-the-swarm.json) |
 | Enduring Mountain | 213999 | [213999-enduring-mountain.json](./213999-enduring-mountain.json) |
+| Endurium | 157338 | [157338-endurium.json](./157338-endurium.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
 | Enduro Racer | 6666 | [6666-enduro-racer.json](./6666-enduro-racer.json) |
 | EndZ Village | 119630 | [119630-endz-village.json](./119630-endz-village.json) |
