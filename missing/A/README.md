@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Hint of Purple | 247877 | [247877-a-hint-of-purple.json](./247877-a-hint-of-purple.json) |
 | A Hole in my Room | 333050 | [333050-a-hole-in-my-room.json](./333050-a-hole-in-my-room.json) |
+| A Hole In Space | 167480 | [167480-a-hole-in-space.json](./167480-a-hole-in-space.json) |
 | A Hole New World | 31557 | [31557-a-hole-new-world.json](./31557-a-hole-new-world.json) |
 | A Hole New World: Deluxe Edition | 52536 | [52536-a-hole-new-world-deluxe-edition.json](./52536-a-hole-new-world-deluxe-edition.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
@@ -4747,6 +4748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Guardians | 11443 | [11443-air-guardians.json](./11443-air-guardians.json) |
 | Air Guitar Warrior for Kinect | 82375 | [82375-air-guitar-warrior-for-kinect.json](./82375-air-guitar-warrior-for-kinect.json) |
+| Air Gun Fighter | 167469 | [167469-air-gun-fighter.json](./167469-air-gun-fighter.json) |
 | Air Hares | 336684 | [336684-air-hares.json](./336684-air-hares.json) |
 | Air Hauler | 68098 | [68098-air-hauler.json](./68098-air-hauler.json) |
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
@@ -4931,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airheads Jump | 344007 | [344007-airheads-jump.json](./344007-airheads-jump.json) |
 | Airheart: Tales of Broken Wings | 26422 | [26422-airheart-tales-of-broken-wings.json](./26422-airheart-tales-of-broken-wings.json) |
 | Airheart: The Deluxe Edition | 52570 | [52570-airheart-the-deluxe-edition.json](./52570-airheart-the-deluxe-edition.json) |
+| Airhounds | 167484 | [167484-airhounds.json](./167484-airhounds.json) |
 | Airi's World | 51430 | [51430-airis-world.json](./51430-airis-world.json) |
 | Airia | 134380 | [134380-airia.json](./134380-airia.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault | 268480 | [268480-airjet-fighter-sky-dominators-aerial-assault.json](./268480-airjet-fighter-sky-dominators-aerial-assault.json) |
@@ -6772,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone: Chapter 1 | 296885 | [296885-alone-chapter-1.json](./296885-alone-chapter-1.json) |
 | Alone: Cold Winter | 239202 | [239202-alone-cold-winter.json](./239202-alone-cold-winter.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
+| Alone: Recode | 167475 | [167475-alone-recode.json](./167475-alone-recode.json) |
 | Alone: Zombiewoods | 385662 | [385662-alone-zombiewoods.json](./385662-alone-zombiewoods.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
 | Alone? VR | 31282 | [31282-alone-vr.json](./31282-alone-vr.json) |
@@ -12054,6 +12058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argus DX | 361326 | [361326-argus-dx.json](./361326-argus-dx.json) |
 | Argus Panoptes | 169122 | [169122-argus-panoptes.json](./169122-argus-panoptes.json) |
 | Argy Bargy | 135755 | [135755-argy-bargy.json](./135755-argy-bargy.json) |
+| Argy Bargy Legends | 167473 | [167473-argy-bargy-legends.json](./167473-argy-bargy-legends.json) |
 | Argyle Manor, Book 1: Away From The Sun | 291713 | [291713-argyle-manor-book-1-away-from-the-sun.json](./291713-argyle-manor-book-1-away-from-the-sun.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Ari In Wonderland: Episode 1 | 200646 | [200646-ari-in-wonderland-episode-1.json](./200646-ari-in-wonderland-episode-1.json) |
@@ -12281,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arko | 143972 | [143972-arko.json](./143972-arko.json) |
 | Arkona | 398632 | [398632-arkona.json](./398632-arkona.json) |
+| Arkos | 167471 | [167471-arkos.json](./167471-arkos.json) |
 | Arkos II | 244397 | [244397-arkos-ii.json](./244397-arkos-ii.json) |
 | Arkshot | 20982 | [20982-arkshot.json](./20982-arkshot.json) |
 | Arksync | 190360 | [190360-arksync.json](./190360-arksync.json) |
