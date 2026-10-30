@@ -8065,6 +8065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Incremental Game About Placing Blocks | 390177 | [390177-an-incremental-game-about-placing-blocks.json](./390177-an-incremental-game-about-placing-blocks.json) |
 | An Indie Game a Month: Unreal Journey | 190973 | [190973-an-indie-game-a-month-unreal-journey.json](./190973-an-indie-game-a-month-unreal-journey.json) |
 | An Inner Walk | 251061 | [251061-an-inner-walk.json](./251061-an-inner-walk.json) |
+| An Interesting Journey of Monsieur PAF | 132427 | [132427-an-interesting-journey-of-monsieur-paf.json](./132427-an-interesting-journey-of-monsieur-paf.json) |
 | An Introvert's Nightmare | 381762 | [381762-an-introverts-nightmare.json](./381762-an-introverts-nightmare.json) |
 | An Iou | 208669 | [208669-an-iou.json](./208669-an-iou.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
