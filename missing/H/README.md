@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker 2089 | 36763 | [36763-hacker-2089.json](./36763-hacker-2089.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
 | Hacker Clicker | 183903 | [183903-hacker-clicker.json](./183903-hacker-clicker.json) |
+| Hacker Evolution - 2019 HD remaster | 122605 | [122605-hacker-evolution-2019-hd-remaster.json](./122605-hacker-evolution-2019-hd-remaster.json) |
 | Hacker Evolution Duality | 10393 | [10393-hacker-evolution-duality.json](./10393-hacker-evolution-duality.json) |
 | Hacker Evolution Duality: Hacker Bootcamp | 171565 | [171565-hacker-evolution-duality-hacker-bootcamp.json](./171565-hacker-evolution-duality-hacker-bootcamp.json) |
 | Hacker Evolution Duality: Hardcore Package Part 1 | 169309 | [169309-hacker-evolution-duality-hardcore-package-part-1.json](./169309-hacker-evolution-duality-hardcore-package-part-1.json) |
@@ -8705,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hookeye | 417465 | [417465-hookeye.json](./417465-hookeye.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
+| Hooklings | 122590 | [122590-hooklings.json](./122590-hooklings.json) |
 | Hooks & Shotguns | 125704 | [125704-hooks-and-shotguns.json](./125704-hooks-and-shotguns.json) |
 | Hookscrap | 247357 | [247357-hookscrap.json](./247357-hookscrap.json) |
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
