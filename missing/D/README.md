@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku Daitoua Kouboushi 3: Dai-ni-ji Sekai Taisen Boppatsu! - Soujikugun Tai Rengougun Zen Sekaisen | 140293 | [140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json](./140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisenryaku Daitoua Kouboushi: Tora Tora Tora Ware Kishuu ni Seikou Seri | 140284 | [140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json](./140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json) |
+| Daisenryaku Exceed II | 83308 | [83308-daisenryaku-exceed-ii.json](./83308-daisenryaku-exceed-ii.json) |
 | Daisenryaku Expert | 44421 | [44421-daisenryaku-expert.json](./44421-daisenryaku-expert.json) |
 | Daisenryaku Expert WWII: War in Europe | 44420 | [44420-daisenryaku-expert-wwii-war-in-europe.json](./44420-daisenryaku-expert-wwii-war-in-europe.json) |
 | Daisenryaku II: Campaign Version | 41781 | [41781-daisenryaku-ii-campaign-version.json](./41781-daisenryaku-ii-campaign-version.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku: Players's Spirit | 166549 | [166549-daisenryaku-playerss-spirit.json](./166549-daisenryaku-playerss-spirit.json) |
 | Daish Assault - The Videogame | 36735 | [36735-daish-assault-the-videogame.json](./36735-daish-assault-the-videogame.json) |
 | Daisho: Survival of a Samurai | 254710 | [254710-daisho-survival-of-a-samurai.json](./254710-daisho-survival-of-a-samurai.json) |
+| Daishougai Keiba: Exciting Jockey | 83139 | [83139-daishougai-keiba-exciting-jockey.json](./83139-daishougai-keiba-exciting-jockey.json) |
 | Daisia | 74739 | [74739-daisia.json](./74739-daisia.json) |
 | Daisu-Kiss | 65886 | [65886-daisu-kiss.json](./65886-daisu-kiss.json) |
 | Daisy Chain | 104137 | [104137-daisy-chain.json](./104137-daisy-chain.json) |
