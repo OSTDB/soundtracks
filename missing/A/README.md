@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
 | Adventures of Dino Riki | 8741 | [8741-adventures-of-dino-riki.json](./8741-adventures-of-dino-riki.json) |
+| Adventures of Dragon | 81821 | [81821-adventures-of-dragon.json](./81821-adventures-of-dragon.json) |
 | Adventures of forsenE: The Hobo Knight | 116699 | [116699-adventures-of-forsene-the-hobo-knight.json](./116699-adventures-of-forsene-the-hobo-knight.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Isabelle Fine: Murder on Rails | 120057 | [120057-adventures-of-isabelle-fine-murder-on-rails.json](./120057-adventures-of-isabelle-fine-murder-on-rails.json) |
@@ -9664,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annunaki Clicker | 348786 | [348786-annunaki-clicker.json](./348786-annunaki-clicker.json) |
 | Annventure | 221769 | [221769-annventure.json](./221769-annventure.json) |
 | Annventure of a Lifetime | 221772 | [221772-annventure-of-a-lifetime.json](./221772-annventure-of-a-lifetime.json) |
+| Annwn: The Otherworld | 81834 | [81834-annwn-the-otherworld.json](./81834-annwn-the-otherworld.json) |
 | Annyversaire | 283912 | [283912-annyversaire.json](./283912-annyversaire.json) |
 | Ano Hi Mita Hana no Namae wo Boku-tachi ha Mada Shiranai | 122222 | [122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json](./122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
@@ -12877,6 +12879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
 | Army of Tentacles: Assault on Rainbow Unicorn Island | 226232 | [226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json](./226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json) |
+| Army of Tentacles: Not A Cthulhu Dating Sim - Black Goat of the Woods Edition | 81822 | [81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json](./81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json) |
 | Army of Two | 996 | [996-army-of-two.json](./996-army-of-two.json) |
 | Army Racer | 52426 | [52426-army-racer.json](./52426-army-racer.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
