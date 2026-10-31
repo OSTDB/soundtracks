@@ -4605,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilith Wants to Buy Your Soul | 244745 | [244745-lilith-wants-to-buy-your-soul.json](./244745-lilith-wants-to-buy-your-soul.json) |
 | Lilith Was Dead | 163839 | [163839-lilith-was-dead.json](./163839-lilith-was-dead.json) |
+| Lilith-M | 106240 | [106240-lilith-m.json](./106240-lilith-m.json) |
 | Lilith: Rise of the Fallen | 354939 | [354939-lilith-rise-of-the-fallen.json](./354939-lilith-rise-of-the-fallen.json) |
 | Lilith.pk3 | 227765 | [227765-lilith-pk3.json](./227765-lilith-pk3.json) |
 | Lilith's Game | 339998 | [339998-liliths-game.json](./339998-liliths-game.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
 | Lines Progress | 316919 | [316919-lines-progress.json](./316919-lines-progress.json) |
 | Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
+| Lines the Game | 106239 | [106239-lines-the-game.json](./106239-lines-the-game.json) |
 | Lines Universe | 204878 | [204878-lines-universe.json](./204878-lines-universe.json) |
 | Lines We Draw | 390987 | [390987-lines-we-draw.json](./390987-lines-we-draw.json) |
 | Lines X | 119522 | [119522-lines-x.json](./119522-lines-x.json) |
@@ -6761,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopdio | 321425 | [321425-loopdio.json](./321425-loopdio.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
 | Looped | 285506 | [285506-looped.json](./285506-looped.json) |
+| Looped - The horror game | 106219 | [106219-looped-the-horror-game.json](./106219-looped-the-horror-game.json) |
 | Looped Fellas | 184714 | [184714-looped-fellas.json](./184714-looped-fellas.json) |
 | Looped: Love at first sight | 310711 | [310711-looped-love-at-first-sight.json](./310711-looped-love-at-first-sight.json) |
 | Loopedal | 364642 | [364642-loopedal.json](./364642-loopedal.json) |
