@@ -12695,6 +12695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
 | President Elect | 24648 | [24648-president-elect.json](./24648-president-elect.json) |
 | President Erect VR | 30103 | [30103-president-erect-vr.json](./30103-president-erect-vr.json) |
+| President F.net | 117954 | [117954-president-f-net.json](./117954-president-f-net.json) |
 | President for a Day - Corruption | 35292 | [35292-president-for-a-day-corruption.json](./35292-president-for-a-day-corruption.json) |
 | President for a Day - Floodings | 35291 | [35291-president-for-a-day-floodings.json](./35291-president-for-a-day-floodings.json) |
 | President Forever | 71061 | [71061-president-forever.json](./71061-president-forever.json) |
@@ -16524,6 +16525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Guardians | 29155 | [29155-puzzle-guardians.json](./29155-puzzle-guardians.json) |
 | Puzzle Guys | 149835 | [149835-puzzle-guys.json](./149835-puzzle-guys.json) |
 | Puzzle Heart Match-3 Adventure | 99501 | [99501-puzzle-heart-match-3-adventure.json](./99501-puzzle-heart-match-3-adventure.json) |
+| Puzzle Herder | 117981 | [117981-puzzle-herder.json](./117981-puzzle-herder.json) |
 | Puzzle Hero | 206044 | [206044-puzzle-hero.json](./206044-puzzle-hero.json) |
 | Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
 | Puzzle Hub | 124461 | [124461-puzzle-hub.json](./124461-puzzle-hub.json) |
