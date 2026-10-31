@@ -666,11 +666,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak Zed | 116874 | [116874-galak-zed.json](./116874-galak-zed.json) |
 | Galak-Z: The Dimensional | 11203 | [11203-galak-z-the-dimensional.json](./11203-galak-z-the-dimensional.json) |
 | Galak-Z: The Virtual | 111039 | [111039-galak-z-the-virtual.json](./111039-galak-z-the-virtual.json) |
+| Galak-Z: The Void | 103069 | [103069-galak-z-the-void.json](./103069-galak-z-the-void.json) |
 | Galak-Z: The Void - Deluxe Edition | 115666 | [115666-galak-z-the-void-deluxe-edition.json](./115666-galak-z-the-void-deluxe-edition.json) |
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
 | Galak-Z: Variant Mobile | 105856 | [105856-galak-z-variant-mobile.json](./105856-galak-z-variant-mobile.json) |
 | Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
+| Galak-Z: Varient Mobile | 103085 | [103085-galak-z-varient-mobile.json](./103085-galak-z-varient-mobile.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | Galakzions | 14087 | [14087-galakzions.json](./14087-galakzions.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
@@ -5091,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
 | Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
+| Goat Evolution | 103091 | [103091-goat-evolution.json](./103091-goat-evolution.json) |
 | Goat Herd and the Gods | 169889 | [169889-goat-herd-and-the-gods.json](./169889-goat-herd-and-the-gods.json) |
 | Goat Life | 101619 | [101619-goat-life.json](./101619-goat-life.json) |
 | Goat Massacre | 340314 | [340314-goat-massacre.json](./340314-goat-massacre.json) |
@@ -8428,6 +8431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Time Traveler - Collector's Edition | 231357 | [231357-grim-tales-the-time-traveler-collectors-edition.json](./231357-grim-tales-the-time-traveler-collectors-edition.json) |
 | Grim Tales: The Vengeance | 83143 | [83143-grim-tales-the-vengeance.json](./83143-grim-tales-the-vengeance.json) |
 | Grim Tales: The Vengeance - Collector's Edition | 118337 | [118337-grim-tales-the-vengeance-collectors-edition.json](./118337-grim-tales-the-vengeance-collectors-edition.json) |
+| Grim Tales: The White Lady | 103071 | [103071-grim-tales-the-white-lady.json](./103071-grim-tales-the-white-lady.json) |
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
 | Grim Tales: The Wishes | 140221 | [140221-grim-tales-the-wishes.json](./140221-grim-tales-the-wishes.json) |
 | Grim Tales: The Wishes - Collector's Edition | 76483 | [76483-grim-tales-the-wishes-collectors-edition.json](./76483-grim-tales-the-wishes-collectors-edition.json) |
