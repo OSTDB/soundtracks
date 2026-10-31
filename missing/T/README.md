@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Forgotten | 333875 | [333875-tales-of-the-forgotten.json](./333875-tales-of-the-forgotten.json) |
 | Tales of the Heroes: Twin Brave | 42760 | [42760-tales-of-the-heroes-twin-brave.json](./42760-tales-of-the-heroes-twin-brave.json) |
 | Tales of the Lost: The Stranger | 358458 | [358458-tales-of-the-lost-the-stranger.json](./358458-tales-of-the-lost-the-stranger.json) |
+| Tales of the Lumminai | 76341 | [76341-tales-of-the-lumminai.json](./76341-tales-of-the-lumminai.json) |
 | Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
 | Tales of the Mirror | 163654 | [163654-tales-of-the-mirror.json](./163654-tales-of-the-mirror.json) |
 | Tales of the Neon Sea | 95992 | [95992-tales-of-the-neon-sea.json](./95992-tales-of-the-neon-sea.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
 | TalosFray | 130054 | [130054-talosfray.json](./130054-talosfray.json) |
 | Talparun | 268905 | [268905-talparun.json](./268905-talparun.json) |
+| Talsaluq: Tower of Infinity | 76301 | [76301-talsaluq-tower-of-infinity.json](./76301-talsaluq-tower-of-infinity.json) |
 | Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Talvisota: Winter War | 286414 | [286414-talvisota-winter-war.json](./286414-talvisota-winter-war.json) |
@@ -5010,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of 30 Cents | 284251 | [284251-the-adventure-of-30-cents.json](./284251-the-adventure-of-30-cents.json) |
 | The Adventure of Amethyst Knight | 368028 | [368028-the-adventure-of-amethyst-knight.json](./368028-the-adventure-of-amethyst-knight.json) |
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
+| The adventure of Kroos | 76323 | [76323-the-adventure-of-kroos.json](./76323-the-adventure-of-kroos.json) |
 | The Adventure of Little Ralph | 44856 | [44856-the-adventure-of-little-ralph.json](./44856-the-adventure-of-little-ralph.json) |
 | The Adventure of Natsuki Hinomiya | 390289 | [390289-the-adventure-of-natsuki-hinomiya.json](./390289-the-adventure-of-natsuki-hinomiya.json) |
 | The Adventure of Nayu | 142651 | [142651-the-adventure-of-nayu.json](./142651-the-adventure-of-nayu.json) |
@@ -18320,6 +18323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Normal | 288611 | [288611-this-is-normal.json](./288611-this-is-normal.json) |
 | This Is Not a Ball Game. | 243636 | [243636-this-is-not-a-ball-game.json](./243636-this-is-not-a-ball-game.json) |
 | This Is Not a Game About Catching Monsters | 181735 | [181735-this-is-not-a-game-about-catching-monsters.json](./181735-this-is-not-a-game-about-catching-monsters.json) |
+| This Is Not A Jumping Game | 76326 | [76326-this-is-not-a-jumping-game.json](./76326-this-is-not-a-jumping-game.json) |
 | This Is Not A Love Letter | 339951 | [339951-this-is-not-a-love-letter.json](./339951-this-is-not-a-love-letter.json) |
 | This Is Not Chess | 151514 | [151514-this-is-not-chess.json](./151514-this-is-not-chess.json) |
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
@@ -22784,6 +22788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom vs. Jerry: The Chase Is On! | 269769 | [269769-tom-vs-jerry-the-chase-is-on.json](./269769-tom-vs-jerry-the-chase-is-on.json) |
 | Tom's Adventure | 202668 | [202668-toms-adventure.json](./202668-toms-adventure.json) |
 | Tom's Adventure | 367838 | [367838-toms-adventure.json](./367838-toms-adventure.json) |
+| Tom's Mansion | 76322 | [76322-toms-mansion.json](./76322-toms-mansion.json) |
 | TomaDo! | 391137 | [391137-tomado.json](./391137-tomado.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
@@ -29013,6 +29018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Magician | 190330 | [190330-true-magician.json](./190330-true-magician.json) |
 | True Matrix Total Conversion | 218654 | [218654-true-matrix-total-conversion.json](./218654-true-matrix-total-conversion.json) |
 | True Maze Defiance | 250538 | [250538-true-maze-defiance.json](./250538-true-maze-defiance.json) |
+| True Mining Simulator | 76305 | [76305-true-mining-simulator.json](./76305-true-mining-simulator.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True North | 120030 | [120030-true-north.json](./120030-true-north.json) |
@@ -30231,6 +30237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinsen's Little Big Adventure Classic | 8515 | [8515-twinsens-little-big-adventure-classic.json](./8515-twinsens-little-big-adventure-classic.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
 | Twinship | 115365 | [115365-twinship.json](./115365-twinship.json) |
+| Twinstack | 76312 | [76312-twinstack.json](./76312-twinstack.json) |
 | Twinstick Arcade | 149464 | [149464-twinstick-arcade.json](./149464-twinstick-arcade.json) |
 | TwinStick: This Ain't No Picnic | 77259 | [77259-twinstick-this-aint-no-picnic.json](./77259-twinstick-this-aint-no-picnic.json) |
 | Twintris | 396767 | [396767-twintris.json](./396767-twintris.json) |
