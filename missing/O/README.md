@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
 | Observer Protocol: The Station - Second Shift | 349714 | [349714-observer-protocol-the-station-second-shift.json](./349714-observer-protocol-the-station-second-shift.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
+| Observers | 116691 | [116691-observers.json](./116691-observers.json) |
 | Observo | 203661 | [203661-observo.json](./203661-observo.json) |
 | Obsessed: Night Shift | 365267 | [365267-obsessed-night-shift.json](./365267-obsessed-night-shift.json) |
 | Obsessed: Trace | 382948 | [382948-obsessed-trace.json](./382948-obsessed-trace.json) |
@@ -2466,6 +2467,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
 | One Way Lane | 302780 | [302780-one-way-lane.json](./302780-one-way-lane.json) |
 | One Way to Die | 60205 | [60205-one-way-to-die.json](./60205-one-way-to-die.json) |
+| One Way to Die: Deluxe | 116653 | [116653-one-way-to-die-deluxe.json](./116653-one-way-to-die-deluxe.json) |
+| One Way to Die: Deluxe Edition | 116652 | [116652-one-way-to-die-deluxe-edition.json](./116652-one-way-to-die-deluxe-edition.json) |
 | One Way to Die: Steam Edition | 90613 | [90613-one-way-to-die-steam-edition.json](./90613-one-way-to-die-steam-edition.json) |
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way to Exit 2 | 172986 | [172986-one-way-to-exit-2.json](./172986-one-way-to-exit-2.json) |
@@ -2688,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onion House | 384920 | [384920-onion-house.json](./384920-onion-house.json) |
 | Oniria | 262176 | [262176-oniria.json](./262176-oniria.json) |
 | Oniria | 366610 | [366610-oniria.json](./366610-oniria.json) |
+| Oniria Crimes | 116677 | [116677-oniria-crimes.json](./116677-oniria-crimes.json) |
 | Oniria Crimes: Rounder Edition | 146142 | [146142-oniria-crimes-rounder-edition.json](./146142-oniria-crimes-rounder-edition.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Onirica | 216347 | [216347-onirica.json](./216347-onirica.json) |
