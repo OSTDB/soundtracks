@@ -4024,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent: Mission One | 294400 | [294400-secret-agent-mission-one.json](./294400-secret-agent-mission-one.json) |
 | Secret Agent: The Escape | 116806 | [116806-secret-agent-the-escape.json](./116806-secret-agent-the-escape.json) |
 | Secret Agents | 179197 | [179197-secret-agents.json](./179197-secret-agents.json) |
+| Secret Airport: Mystery Stealth | 91067 | [91067-secret-airport-mystery-stealth.json](./91067-secret-airport-mystery-stealth.json) |
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
 | Secret Backrooms | 204094 | [204094-secret-backrooms.json](./204094-secret-backrooms.json) |
 | Secret Backrooms 2 | 250865 | [250865-secret-backrooms-2.json](./250865-secret-backrooms-2.json) |
@@ -6235,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbound | 361621 | [361621-shadowbound.json](./361621-shadowbound.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | ShadowBox: Mausoleum of Natural History | 340601 | [340601-shadowbox-mausoleum-of-natural-history.json](./340601-shadowbox-mausoleum-of-natural-history.json) |
+| ShadowCalls | 91034 | [91034-shadowcalls.json](./91034-shadowcalls.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | ShadowCaster | 8691 | [8691-shadowcaster.json](./8691-shadowcaster.json) |
 | ShadowComm. Associate Studio: Enterprise Edition | 421199 | [421199-shadowcomm-associate-studio-enterprise-edition.json](./421199-shadowcomm-associate-studio-enterprise-edition.json) |
@@ -13367,6 +13369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake 2 | 81508 | [81508-snake-2.json](./81508-snake-2.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake 3310 | 177382 | [177382-snake-3310.json](./177382-snake-3310.json) |
+| Snake 3D Adventures | 91032 | [91032-snake-3d-adventures.json](./91032-snake-3d-adventures.json) |
 | Snake and Block: Free Game | 102527 | [102527-snake-and-block-free-game.json](./102527-snake-and-block-free-game.json) |
 | Snake and Rhino in the Sketchbook | 360120 | [360120-snake-and-rhino-in-the-sketchbook.json](./360120-snake-and-rhino-in-the-sketchbook.json) |
 | Snake Battle | 111657 | [111657-snake-battle.json](./111657-snake-battle.json) |
@@ -16636,6 +16639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorter | 388912 | [388912-sorter.json](./388912-sorter.json) |
 | Sorter - Toddler & Baby Educational Learning Games | 89021 | [89021-sorter-toddler-and-baby-educational-learning-games.json](./89021-sorter-toddler-and-baby-educational-learning-games.json) |
 | Sortik Systems | 338218 | [338218-sortik-systems.json](./338218-sortik-systems.json) |
+| Sorting Baby Blocks for Boys 3D Smart Shapes Games | 91059 | [91059-sorting-baby-blocks-for-boys-3d-smart-shapes-games.json](./91059-sorting-baby-blocks-for-boys-3d-smart-shapes-games.json) |
 | Sorting Baby Blocks: children's educational puzzle | 86837 | [86837-sorting-baby-blocks-childrens-educational-puzzle.json](./86837-sorting-baby-blocks-childrens-educational-puzzle.json) |
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | Sorting Sortilege | 176213 | [176213-sorting-sortilege.json](./176213-sorting-sortilege.json) |
@@ -32008,6 +32012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe That | 232326 | [232326-swipe-that.json](./232326-swipe-that.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
 | Swipe! | 38487 | [38487-swipe.json](./38487-swipe.json) |
+| Swiped | 91064 | [91064-swiped.json](./91064-swiped.json) |
 | Swiped! Double Shots of Love | 301410 | [301410-swiped-double-shots-of-love.json](./301410-swiped-double-shots-of-love.json) |
 | Swipepi | 267363 | [267363-swipepi.json](./267363-swipepi.json) |
 | Swiper | 127231 | [127231-swiper.json](./127231-swiper.json) |
