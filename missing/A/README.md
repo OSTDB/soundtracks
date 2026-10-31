@@ -6881,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aloft | 204375 | [204375-aloft.json](./204375-aloft.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
+| Alolan Volcanic Panic | 74818 | [74818-alolan-volcanic-panic.json](./74818-alolan-volcanic-panic.json) |
 | Alon | 152986 | [152986-alon.json](./152986-alon.json) |
 | Alon | 311568 | [311568-alon.json](./311568-alon.json) |
 | Alone | 153218 | [153218-alone.json](./153218-alone.json) |
@@ -7476,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Digital Game 2D | 393115 | [393115-amazing-digital-game-2d.json](./393115-amazing-digital-game-2d.json) |
 | Amazing Drawing: Coloring Book Simulator | 312092 | [312092-amazing-drawing-coloring-book-simulator.json](./312092-amazing-drawing-coloring-book-simulator.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
+| Amazing Emma | 74833 | [74833-amazing-emma.json](./74833-amazing-emma.json) |
 | Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
 | Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
 | Amazing Facts: World Proverbs True or False Quiz | 401107 | [401107-amazing-facts-world-proverbs-true-or-false-quiz.json](./401107-amazing-facts-world-proverbs-true-or-false-quiz.json) |
@@ -9851,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Level | 348453 | [348453-another-level.json](./348453-another-level.json) |
 | Another Man's Wife | 389629 | [389629-another-mans-wife.json](./389629-another-mans-wife.json) |
 | Another Memories | 45434 | [45434-another-memories.json](./45434-another-memories.json) |
+| Another Mind | 74800 | [74800-another-mind.json](./74800-another-mind.json) |
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
 | Another Museum | 217855 | [217855-another-museum.json](./217855-another-museum.json) |
 | Another Mythical Journey | 185091 | [185091-another-mythical-journey.json](./185091-another-mythical-journey.json) |
