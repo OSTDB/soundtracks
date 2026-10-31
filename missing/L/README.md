@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hour of an Epic to the Moon RPG | 274905 | [274905-last-hour-of-an-epic-to-the-moon-rpg.json](./274905-last-hour-of-an-epic-to-the-moon-rpg.json) |
 | Last Hours of Jack | 28668 | [28668-last-hours-of-jack.json](./28668-last-hours-of-jack.json) |
 | Last House Survival: Zombie Defense | 371422 | [371422-last-house-survival-zombie-defense.json](./371422-last-house-survival-zombie-defense.json) |
+| Last Hunt : Stealth Bigfoot | 106860 | [106860-last-hunt-stealth-bigfoot.json](./106860-last-hunt-stealth-bigfoot.json) |
 | Last Idea | 115448 | [115448-last-idea.json](./115448-last-idea.json) |
 | Last Imperial Prince | 45956 | [45956-last-imperial-prince.json](./45956-last-imperial-prince.json) |
 | Last in Orbit | 129063 | [129063-last-in-orbit.json](./129063-last-in-orbit.json) |
@@ -4405,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightman | 121385 | [121385-lightman.json](./121385-lightman.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
+| Lightmoth | 106841 | [106841-lightmoth.json](./106841-lightmoth.json) |
 | Lightner | 136242 | [136242-lightner.json](./136242-lightner.json) |
 | Lightners Live Plus | 347858 | [347858-lightners-live-plus.json](./347858-lightners-live-plus.json) |
 | Lightness | 214035 | [214035-lightness.json](./214035-lightness.json) |
@@ -4770,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limiter! | 140810 | [140810-limiter.json](./140810-limiter.json) |
 | Limitless | 298066 | [298066-limitless.json](./298066-limitless.json) |
 | Limitless Bit | 133622 | [133622-limitless-bit.json](./133622-limitless-bit.json) |
+| Limitless Checkers | 106846 | [106846-limitless-checkers.json](./106846-limitless-checkers.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limitless Survivor | 407171 | [407171-limitless-survivor.json](./407171-limitless-survivor.json) |
