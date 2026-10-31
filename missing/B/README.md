@@ -7721,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishi Bashi Special | 45047 | [45047-bishi-bashi-special.json](./45047-bishi-bashi-special.json) |
 | Bishi Bashi Special 2 | 44840 | [44840-bishi-bashi-special-2.json](./44840-bishi-bashi-special-2.json) |
 | Bishi Bashi Special 3: Step Champ | 55867 | [55867-bishi-bashi-special-3-step-champ.json](./55867-bishi-bashi-special-3-step-champ.json) |
+| BishiBashi Channel | 112573 | [112573-bishibashi-channel.json](./112573-bishibashi-channel.json) |
 | Bishojo Battlefield | 174646 | [174646-bishojo-battlefield.json](./174646-bishojo-battlefield.json) |
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
 | Bishoujo Battle Hanafuda Koi-Koi | 133146 | [133146-bishoujo-battle-hanafuda-koi-koi.json](./133146-bishoujo-battle-hanafuda-koi-koi.json) |
@@ -8530,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
 | Blacktower | 403767 | [403767-blacktower.json](./403767-blacktower.json) |
 | BlackVein | 347057 | [347057-blackvein.json](./347057-blackvein.json) |
+| Blackvoxel | 112566 | [112566-blackvoxel.json](./112566-blackvoxel.json) |
 | Blackwake | 14206 | [14206-blackwake.json](./14206-blackwake.json) |
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
@@ -8563,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade and Madness | 349996 | [349996-blade-and-madness.json](./349996-blade-and-madness.json) |
 | Blade and Wings: Future Fantasy 3D Anime MMORPG Game | 110819 | [110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json](./110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
+| Blade Arcus Rebellion from Shining | 112589 | [112589-blade-arcus-rebellion-from-shining.json](./112589-blade-arcus-rebellion-from-shining.json) |
 | Blade Arts: Tasogare no Miyako R'lyeh | 43855 | [43855-blade-arts-tasogare-no-miyako-rlyeh.json](./43855-blade-arts-tasogare-no-miyako-rlyeh.json) |
 | Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
 | Blade Assault: Launch Edition | 289354 | [289354-blade-assault-launch-edition.json](./289354-blade-assault-launch-edition.json) |
@@ -11499,6 +11502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombun | 349366 | [349366-bombun.json](./349366-bombun.json) |
 | Bombunter | 368617 | [368617-bombunter.json](./368617-bombunter.json) |
 | Bombuzal | 11976 | [11976-bombuzal.json](./11976-bombuzal.json) |
+| Bombyman | 112609 | [112609-bombyman.json](./112609-bombyman.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
 | Bomi Omyeon Kkochi Pigo | 304247 | [304247-bomi-omyeon-kkochi-pigo.json](./304247-bomi-omyeon-kkochi-pigo.json) |
