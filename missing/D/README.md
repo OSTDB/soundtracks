@@ -11130,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
 | Dominoid | 346641 | [346641-dominoid.json](./346641-dominoid.json) |
+| Dominoid | 82560 | [82560-dominoid.json](./82560-dominoid.json) |
 | Dominoir | 396033 | [396033-dominoir.json](./396033-dominoir.json) |
 | Dominongo | 417318 | [417318-dominongo.json](./417318-dominongo.json) |
 | DomiNoo | 262453 | [262453-dominoo.json](./262453-dominoo.json) |
@@ -16170,6 +16171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dum-Dum | 121349 | [121349-dum-dum.json](./121349-dum-dum.json) |
 | Dum-Dum Thoughts | 282521 | [282521-dum-dum-thoughts.json](./282521-dum-dum-thoughts.json) |
 | Dumb AF | 351806 | [351806-dumb-af.json](./351806-dumb-af.json) |
+| Dumb as Wizards | 82508 | [82508-dumb-as-wizards.json](./82508-dumb-as-wizards.json) |
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Chicken 2: One Way Out | 32895 | [32895-dumb-chicken-2-one-way-out.json](./32895-dumb-chicken-2-one-way-out.json) |
 | Dumb Dunks | 406867 | [406867-dumb-dunks.json](./406867-dumb-dunks.json) |
