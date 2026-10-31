@@ -6973,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshinsane | 336863 | [336863-fleshinsane.json](./336863-fleshinsane.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | Fleshwalk: An Experience | 405748 | [405748-fleshwalk-an-experience.json](./405748-fleshwalk-an-experience.json) |
+| Fleuch 2.0 | 94460 | [94460-fleuch-2-0.json](./94460-fleuch-2-0.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
 | Flewberry | 108747 | [108747-flewberry.json](./108747-flewberry.json) |
 | Flewfies Adventure | 148814 | [148814-flewfies-adventure.json](./148814-flewfies-adventure.json) |
