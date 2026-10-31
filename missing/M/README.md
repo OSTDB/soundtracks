@@ -2025,6 +2025,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-san no Iru Kurashi: Premium Edition | 167026 | [167026-maid-san-no-iru-kurashi-premium-edition.json](./167026-maid-san-no-iru-kurashi-premium-edition.json) |
 | Maid-san Slayer: The Soul Of Elegant Skill | 210584 | [210584-maid-san-slayer-the-soul-of-elegant-skill.json](./210584-maid-san-slayer-the-soul-of-elegant-skill.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
+| Maid-San's Bath Towel | 65297 | [65297-maid-sans-bath-towel.json](./65297-maid-sans-bath-towel.json) |
+| Maid-San's Caving Adventure | 65301 | [65301-maid-sans-caving-adventure.json](./65301-maid-sans-caving-adventure.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
 | Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
 | Maiden and Swordsman | 129392 | [129392-maiden-and-swordsman.json](./129392-maiden-and-swordsman.json) |
@@ -8224,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Vietnam | 9855 | [9855-men-of-war-vietnam.json](./9855-men-of-war-vietnam.json) |
 | Men of War: Vietnam - Special Edition | 51835 | [51835-men-of-war-vietnam-special-edition.json](./51835-men-of-war-vietnam-special-edition.json) |
 | Men on the Flying Trapeze | 250217 | [250217-men-on-the-flying-trapeze.json](./250217-men-on-the-flying-trapeze.json) |
+| Men vs Machines | 65228 | [65228-men-vs-machines.json](./65228-men-vs-machines.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | MENA Speed | 118663 | [118663-mena-speed.json](./118663-mena-speed.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
@@ -11624,6 +11627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
 | Mini Golf Worlds | 245799 | [245799-mini-golf-worlds.json](./245799-mini-golf-worlds.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
+| Mini Golf: Wacky Worlds | 65232 | [65232-mini-golf-wacky-worlds.json](./65232-mini-golf-wacky-worlds.json) |
 | Mini Gunn | 327639 | [327639-mini-gunn.json](./327639-mini-gunn.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
 | Mini Healer | 101692 | [101692-mini-healer.json](./101692-mini-healer.json) |
