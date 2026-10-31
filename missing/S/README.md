@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
 | SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
 | SAT Prep Reading 2008 | 91689 | [91689-sat-prep-reading-2008.json](./91689-sat-prep-reading-2008.json) |
+| SAT Prep Writing 2008 | 80286 | [80286-sat-prep-writing-2008.json](./80286-sat-prep-writing-2008.json) |
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
 | Satama Puzzle | 190461 | [190461-satama-puzzle.json](./190461-satama-puzzle.json) |
 | Satan | 311182 | [311182-satan.json](./311182-satan.json) |
@@ -3492,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Force | 49224 | [49224-sd-gundam-force.json](./49224-sd-gundam-force.json) |
 | SD Gundam Force: Showdown! | 44720 | [44720-sd-gundam-force-showdown.json](./44720-sd-gundam-force-showdown.json) |
 | SD Gundam G Generation | 66588 | [66588-sd-gundam-g-generation.json](./66588-sd-gundam-g-generation.json) |
+| SD Gundam G Generation 3D | 80280 | [80280-sd-gundam-g-generation-3d.json](./80280-sd-gundam-g-generation-3d.json) |
 | SD Gundam G Generation Cross Rays | 114152 | [114152-sd-gundam-g-generation-cross-rays.json](./114152-sd-gundam-g-generation-cross-rays.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 1 | 238486 | [238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json](./238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 2 | 238466 | [238466-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-2.json](./238466-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-2.json) |
@@ -17784,6 +17786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23590,6 +23593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam: Rails to Riches Complete Edition | 157531 | [157531-steam-rails-to-riches-complete-edition.json](./157531-steam-rails-to-riches-complete-edition.json) |
 | Steam'd Roller | 269102 | [269102-steamd-roller.json](./269102-steamd-roller.json) |
 | Steamalot: Epoch's Journey | 35435 | [35435-steamalot-epochs-journey.json](./35435-steamalot-epochs-journey.json) |
+| SteamBirds | 80247 | [80247-steambirds.json](./80247-steambirds.json) |
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
 | Steambirds: Survival | 58537 | [58537-steambirds-survival.json](./58537-steambirds-survival.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
@@ -25803,6 +25807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Commander and Privateer TwinPack | 72134 | [72134-strike-commander-and-privateer-twinpack.json](./72134-strike-commander-and-privateer-twinpack.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
 | Strike Daz Cans | 148325 | [148325-strike-daz-cans.json](./148325-strike-daz-cans.json) |
+| Strike Fighters | 80117 | [80117-strike-fighters.json](./80117-strike-fighters.json) |
 | Strike Fighters 2 | 62632 | [62632-strike-fighters-2.json](./62632-strike-fighters-2.json) |
 | Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
@@ -30407,6 +30412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged Robot Vulkaiser | 20019 | [20019-supercharged-robot-vulkaiser.json](./20019-supercharged-robot-vulkaiser.json) |
 | Supercharged World Cup | 102853 | [102853-supercharged-world-cup.json](./102853-supercharged-world-cup.json) |
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
+| SuperChess | 80293 | [80293-superchess.json](./80293-superchess.json) |
 | SuperCluster: Void | 29105 | [29105-supercluster-void.json](./29105-supercluster-void.json) |
 | SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
 | SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
