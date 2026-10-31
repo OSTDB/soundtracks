@@ -7505,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Gear: Demolition Arena | 98172 | [98172-extreme-gear-demolition-arena.json](./98172-extreme-gear-demolition-arena.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
+| Extreme Hangman | 67012 | [67012-extreme-hangman.json](./67012-extreme-hangman.json) |
 | Extreme Hangman 2 | 62255 | [62255-extreme-hangman-2.json](./62255-extreme-hangman-2.json) |
 | Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
 | Extreme Hunting | 39429 | [39429-extreme-hunting.json](./39429-extreme-hunting.json) |
