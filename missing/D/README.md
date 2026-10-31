@@ -6959,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
 | Destruction Time! | 153882 | [153882-destruction-time.json](./153882-destruction-time.json) |
+| Destructions | 98733 | [98733-destructions.json](./98733-destructions.json) |
 | Destructivator 2 | 127778 | [127778-destructivator-2.json](./127778-destructivator-2.json) |
 | Destructivator SE | 180984 | [180984-destructivator-se.json](./180984-destructivator-se.json) |
 | Destructive Contraptions | 156022 | [156022-destructive-contraptions.json](./156022-destructive-contraptions.json) |
@@ -8956,6 +8957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Evo | 90525 | [90525-dirt-bike-evo.json](./90525-dirt-bike-evo.json) |
 | Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
+| Dirt Bike Insanity | 98688 | [98688-dirt-bike-insanity.json](./98688-dirt-bike-insanity.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Bike Racer Simulator | 262848 | [262848-dirt-bike-racer-simulator.json](./262848-dirt-bike-racer-simulator.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
@@ -12645,6 +12647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doupleri | 295082 | [295082-doupleri.json](./295082-doupleri.json) |
 | Douri Hazure | 151842 | [151842-douri-hazure.json](./151842-douri-hazure.json) |
 | Douse | 126175 | [126175-douse.json](./126175-douse.json) |
+| Dousei | 98728 | [98728-dousei.json](./98728-dousei.json) |
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
 | Dovadula's Burn | 125020 | [125020-dovadulas-burn.json](./125020-dovadulas-burn.json) |
