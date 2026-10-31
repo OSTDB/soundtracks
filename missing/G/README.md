@@ -8896,6 +8896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Beets Clicker | 259556 | [259556-grow-beets-clicker.json](./259556-grow-beets-clicker.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Cannon | 269055 | [269055-grow-cannon.json](./269055-grow-cannon.json) |
+| Grow Comeback | 106289 | [106289-grow-comeback.json](./106289-grow-comeback.json) |
 | Grow Defense | 150378 | [150378-grow-defense.json](./150378-grow-defense.json) |
 | Grow Empire: Rome | 371942 | [371942-grow-empire-rome.json](./371942-grow-empire-rome.json) |
 | Grow Flow | 189295 | [189295-grow-flow.json](./189295-grow-flow.json) |
