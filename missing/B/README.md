@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Posse | 142090 | [142090-ball-posse.json](./142090-ball-posse.json) |
 | Ball Punchers | 235432 | [235432-ball-punchers.json](./235432-ball-punchers.json) |
+| Ball Race | 79498 | [79498-ball-race.json](./79498-ball-race.json) |
 | Ball Raider | 14281 | [14281-ball-raider.json](./14281-ball-raider.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Ranger | 174032 | [174032-ball-ranger.json](./174032-ball-ranger.json) |
@@ -4984,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania 6thMIX + Core Remix | 280863 | [280863-beatmania-6thmix-core-remix.json](./280863-beatmania-6thmix-core-remix.json) |
 | Beatmania 6thMix: The UK Underground Music | 79612 | [79612-beatmania-6thmix-the-uk-underground-music.json](./79612-beatmania-6thmix-the-uk-underground-music.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
+| Beatmania Append 3rdMix | 79505 | [79505-beatmania-append-3rdmix.json](./79505-beatmania-append-3rdmix.json) |
 | Beatmania Append 3rdMix Mini | 135555 | [135555-beatmania-append-3rdmix-mini.json](./135555-beatmania-append-3rdmix-mini.json) |
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
 | Beatmania Append ClubMix | 54706 | [54706-beatmania-append-clubmix.json](./54706-beatmania-append-clubmix.json) |
