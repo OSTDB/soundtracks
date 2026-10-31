@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaia's Decision | 127853 | [127853-gaias-decision.json](./127853-gaias-decision.json) |
 | Gaia's Melody: Echoed Melodies | 74231 | [74231-gaias-melody-echoed-melodies.json](./74231-gaias-melody-echoed-melodies.json) |
+| Gaia's Moon | 63025 | [63025-gaias-moon.json](./63025-gaias-moon.json) |
 | Gaiabreaker | 61316 | [61316-gaiabreaker.json](./61316-gaiabreaker.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
 | Gaiapolis | 39823 | [39823-gaiapolis.json](./39823-gaiapolis.json) |
@@ -4391,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass God | 381665 | [381665-glass-god.json](./381665-glass-god.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
 | Glass Heart Princess | 64163 | [64163-glass-heart-princess.json](./64163-glass-heart-princess.json) |
+| Glass Heart Princess: Platinum | 62935 | [62935-glass-heart-princess-platinum.json](./62935-glass-heart-princess-platinum.json) |
 | Glass Heart: Retold | 323237 | [323237-glass-heart-retold.json](./323237-glass-heart-retold.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
 | Glass Hime | 414106 | [414106-glass-hime.json](./414106-glass-hime.json) |
@@ -9668,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guǐyāchuáng | 386346 | [386346-guiyachuang.json](./386346-guiyachuang.json) |
 | GuJian | 54824 | [54824-gujian.json](./54824-gujian.json) |
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
+| GuJian Online | 63024 | [63024-gujian-online.json](./63024-gujian-online.json) |
 | Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulch Guardians | 252253 | [252253-gulch-guardians.json](./252253-gulch-guardians.json) |
