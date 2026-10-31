@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
 | Rainbow Robin | 123829 | [123829-rainbow-robin.json](./123829-rainbow-robin.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
+| Rainbow Run | 119979 | [119979-rainbow-run.json](./119979-rainbow-run.json) |
 | Rainbow Runner | 249586 | [249586-rainbow-runner.json](./249586-rainbow-runner.json) |
 | Rainbow Runner | 384529 | [384529-rainbow-runner.json](./384529-rainbow-runner.json) |
 | Rainbow Six Mobile | 200333 | [200333-rainbow-six-mobile.json](./200333-rainbow-six-mobile.json) |
@@ -3999,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflected Ray | 97227 | [97227-reflected-ray.json](./97227-reflected-ray.json) |
 | Reflectile | 247546 | [247546-reflectile.json](./247546-reflectile.json) |
 | Reflecting Fate | 43434 | [43434-reflecting-fate.json](./43434-reflecting-fate.json) |
+| Reflecting Reflections | 119983 | [119983-reflecting-reflections.json](./119983-reflecting-reflections.json) |
 | Reflection | 201694 | [201694-reflection.json](./201694-reflection.json) |
 | Reflection | 216955 | [216955-reflection.json](./216955-reflection.json) |
 | Reflection | 342538 | [342538-reflection.json](./342538-reflection.json) |
@@ -10287,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roundabout | 15852 | [15852-roundabout.json](./15852-roundabout.json) |
 | RoundAbout | 407955 | [407955-roundabout.json](./407955-roundabout.json) |
 | Roundabout 3 | 210567 | [210567-roundabout-3.json](./210567-roundabout-3.json) |
+| Roundabout Deluxe Edition Content | 119971 | [119971-roundabout-deluxe-edition-content.json](./119971-roundabout-deluxe-edition-content.json) |
 | Roundball: 2 on 2 Challenge | 48203 | [48203-roundball-2-on-2-challenge.json](./48203-roundball-2-on-2-challenge.json) |
 | Rounded | 156011 | [156011-rounded.json](./156011-rounded.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
@@ -11063,6 +11066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
 | Run For Coins | 54512 | [54512-run-for-coins.json](./54512-run-for-coins.json) |
 | Run For Cover | 117655 | [117655-run-for-cover.json](./117655-run-for-cover.json) |
+| Run for Eat | 119970 | [119970-run-for-eat.json](./119970-run-for-eat.json) |
 | Run For Exodus | 261665 | [261665-run-for-exodus.json](./261665-run-for-exodus.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
 | Run For Money | 199970 | [199970-run-for-money.json](./199970-run-for-money.json) |
