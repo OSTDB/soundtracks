@@ -7307,6 +7307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan III | 85875 | [85875-himitsu-chouhou-buin-00nanako-chan-iii.json](./85875-himitsu-chouhou-buin-00nanako-chan-iii.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
+| Himitsu no Ooku | 67771 | [67771-himitsu-no-ooku.json](./67771-himitsu-no-ooku.json) |
 | Himitsu Project | 137802 | [137802-himitsu-project.json](./137802-himitsu-project.json) |
 | Himitsu Sentai Metamor V | 107629 | [107629-himitsu-sentai-metamor-v.json](./107629-himitsu-sentai-metamor-v.json) |
 | Himmapan Marshmello Saga | 367516 | [367516-himmapan-marshmello-saga.json](./367516-himmapan-marshmello-saga.json) |
@@ -7391,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
 | Hirake! Ponkikki | 48472 | [48472-hirake-ponkikki.json](./48472-hirake-ponkikki.json) |
+| Hirameki Card Battle: Mekuruka | 67843 | [67843-hirameki-card-battle-mekuruka.json](./67843-hirameki-card-battle-mekuruka.json) |
 | Hirameki Puzzle Tetogram | 222178 | [222178-hirameki-puzzle-tetogram.json](./222178-hirameki-puzzle-tetogram.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hirata Shougo Interactive Ehon: Cinderella | 245479 | [245479-hirata-shougo-interactive-ehon-cinderella.json](./245479-hirata-shougo-interactive-ehon-cinderella.json) |
@@ -8141,6 +8143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
 | Hollowsk 1999 3D | 193601 | [193601-hollowsk-1999-3d.json](./193601-hollowsk-1999-3d.json) |
 | Holly 2: Magic Land | 24768 | [24768-holly-2-magic-land.json](./24768-holly-2-magic-land.json) |
+| Holly Hobbie & Friends | 67752 | [67752-holly-hobbie-and-friends.json](./67752-holly-hobbie-and-friends.json) |
 | Holly-Day Ice-Spionage | 285501 | [285501-holly-day-ice-spionage.json](./285501-holly-day-ice-spionage.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Holly: A Christmas Tale Deluxe | 54086 | [54086-holly-a-christmas-tale-deluxe.json](./54086-holly-a-christmas-tale-deluxe.json) |
