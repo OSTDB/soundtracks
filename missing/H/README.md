@@ -6791,6 +6791,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidey Ducks: Seasons | 315352 | [315352-hidey-ducks-seasons.json](./315352-hidey-ducks-seasons.json) |
 | Hidey Spot | 240972 | [240972-hidey-spot.json](./240972-hidey-spot.json) |
 | Hideyoshi Freeeeeze! | 80289 | [80289-hideyoshi-freeeeeze.json](./80289-hideyoshi-freeeeeze.json) |
+| Hideyoshi Pon! | 64634 | [64634-hideyoshi-pon.json](./64634-hideyoshi-pon.json) |
+| Hideyoshi Shooooooot! | 64632 | [64632-hideyoshi-shooooooot.json](./64632-hideyoshi-shooooooot.json) |
 | Hiding | 364849 | [364849-hiding.json](./364849-hiding.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
 | Hidiom | 158933 | [158933-hidiom.json](./158933-hidiom.json) |
