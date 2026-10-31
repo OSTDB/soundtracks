@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.I.N. | 41539 | [41539-w-i-n.json](./41539-w-i-n.json) |
 | W.I.T.C.H. | 374260 | [374260-w-i-t-c-h.json](./374260-w-i-t-c-h.json) |
 | W.I.T.S: Initiation | 287685 | [287685-w-i-t-s-initiation.json](./287685-w-i-t-s-initiation.json) |
+| W.L.O. Sekai Renai Kikousen | 66536 | [66536-w-l-o-sekai-renai-kikousen.json](./66536-w-l-o-sekai-renai-kikousen.json) |
 | W.O.L.F | 256333 | [256333-w-o-l-f.json](./256333-w-o-l-f.json) |
 | W.O.R.L.D.S: Win Own Reinvent Live Discover Sim | 106228 | [106228-w-o-r-l-d-s-win-own-reinvent-live-discover-sim.json](./106228-w-o-r-l-d-s-win-own-reinvent-live-discover-sim.json) |
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
