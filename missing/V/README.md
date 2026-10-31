@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virago: Trepidation | 219517 | [219517-virago-trepidation.json](./219517-virago-trepidation.json) |
 | Virago: What If | 374745 | [374745-virago-what-if.json](./374745-virago-what-if.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
+| Viral | 72457 | [72457-viral.json](./72457-viral.json) |
 | Viral Complex | 236867 | [236867-viral-complex.json](./236867-viral-complex.json) |
 | Viral Cry | 87821 | [87821-viral-cry.json](./87821-viral-cry.json) |
 | Viral Days | 251639 | [251639-viral-days.json](./251639-viral-days.json) |
