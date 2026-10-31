@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Hunting: Trophy Whitetail | 70239 | [70239-3d-hunting-trophy-whitetail.json](./70239-3d-hunting-trophy-whitetail.json) |
 | 3D Icon Quiz | 232060 | [232060-3d-icon-quiz.json](./232060-3d-icon-quiz.json) |
 | 3D Illusion Maze Path Puzzle | 100621 | [100621-3d-illusion-maze-path-puzzle.json](./100621-3d-illusion-maze-path-puzzle.json) |
+| 3D Infinity | 108136 | [108136-3d-infinity.json](./108136-3d-infinity.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Knifflis | 365464 | [365464-3d-knifflis.json](./365464-3d-knifflis.json) |
