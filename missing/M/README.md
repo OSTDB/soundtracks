@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.Stain | 147298 | [147298-m-stain.json](./147298-m-stain.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.U.D. TV | 9199 | [9199-m-u-d-tv.json](./9199-m-u-d-tv.json) |
+| M.U.D.S.: Mean Ugly Dirty Sport | 70199 | [70199-m-u-d-s-mean-ugly-dirty-sport.json](./70199-m-u-d-s-mean-ugly-dirty-sport.json) |
 | M.U.L.E. | 23895 | [23895-m-u-l-e.json](./23895-m-u-l-e.json) |
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Nations | 81912 | [81912-magic-nations.json](./81912-magic-nations.json) |
 | Magic New year Escape | 315700 | [315700-magic-new-year-escape.json](./315700-magic-new-year-escape.json) |
 | Magic New Year Escape 2 | 315701 | [315701-magic-new-year-escape-2.json](./315701-magic-new-year-escape-2.json) |
+| Magic Numbers | 70172 | [70172-magic-numbers.json](./70172-magic-numbers.json) |
 | Magic Numbers 2 | 58764 | [58764-magic-numbers-2.json](./58764-magic-numbers-2.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic of Endoria | 119396 | [119396-magic-of-endoria.json](./119396-magic-of-endoria.json) |
@@ -6459,6 +6461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Life | 352555 | [352555-medieval-life.json](./352555-medieval-life.json) |
 | Medieval Life Simulator | 384222 | [384222-medieval-life-simulator.json](./384222-medieval-life-simulator.json) |
 | Medieval Lords | 302240 | [302240-medieval-lords.json](./302240-medieval-lords.json) |
+| Medieval Lords: Build, Defend, Expand | 70178 | [70178-medieval-lords-build-defend-expand.json](./70178-medieval-lords-build-defend-expand.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
 | Medieval Machines Builder: First Siege | 277261 | [277261-medieval-machines-builder-first-siege.json](./277261-medieval-machines-builder-first-siege.json) |
@@ -9704,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microleague Baseball 4 | 51372 | [51372-microleague-baseball-4.json](./51372-microleague-baseball-4.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLeague Wrestling | 80307 | [80307-microleague-wrestling.json](./80307-microleague-wrestling.json) |
+| MicroLink Push Your Luck | 70253 | [70253-microlink-push-your-luck.json](./70253-microlink-push-your-luck.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | MicroMachines | 250475 | [250475-micromachines.json](./250475-micromachines.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
@@ -12042,6 +12046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minnie's Eggs-Aspirating Hen House | 246513 | [246513-minnies-eggs-aspirating-hen-house.json](./246513-minnies-eggs-aspirating-hen-house.json) |
 | Minnie's Fruit Fiasco | 246514 | [246514-minnies-fruit-fiasco.json](./246514-minnies-fruit-fiasco.json) |
 | Minnie's Pearls | 246515 | [246515-minnies-pearls.json](./246515-minnies-pearls.json) |
+| Minnnni-Golf | 70263 | [70263-minnnni-golf.json](./70263-minnnni-golf.json) |
 | Minnow | 405757 | [405757-minnow.json](./405757-minnow.json) |
 | Mino Monsters | 176697 | [176697-mino-monsters.json](./176697-mino-monsters.json) |
 | Mino Monsters 2: Evolution | 38735 | [38735-mino-monsters-2-evolution.json](./38735-mino-monsters-2-evolution.json) |
@@ -15236,6 +15241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonscape | 203252 | [203252-moonscape.json](./203252-moonscape.json) |
 | Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
 | MoonScavenger | 239720 | [239720-moonscavenger.json](./239720-moonscavenger.json) |
+| Moonshadow | 70161 | [70161-moonshadow.json](./70161-moonshadow.json) |
 | Moonshine | 144799 | [144799-moonshine.json](./144799-moonshine.json) |
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
