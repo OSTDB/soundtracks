@@ -6907,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
+| Graduation | 71310 | [71310-graduation.json](./71310-graduation.json) |
 | Graduation Life Simulator | 326302 | [326302-graduation-life-simulator.json](./326302-graduation-life-simulator.json) |
 | Graeme Souness Soccer Manager | 79084 | [79084-graeme-souness-soccer-manager.json](./79084-graeme-souness-soccer-manager.json) |
 | Graffism | 354384 | [354384-graffism.json](./354384-graffism.json) |
