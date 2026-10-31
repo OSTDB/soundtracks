@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
+| Race Horses Champions 2 | 108711 | [108711-race-horses-champions-2.json](./108711-race-horses-champions-2.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
 | Race in Desert | 234747 | [234747-race-in-desert.json](./234747-race-in-desert.json) |
 | Race Injection | 10867 | [10867-race-injection.json](./10867-race-injection.json) |
