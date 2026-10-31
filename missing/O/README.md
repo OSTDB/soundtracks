@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Must Fall: Battlegrounds | 14430 | [14430-one-must-fall-battlegrounds.json](./14430-one-must-fall-battlegrounds.json) |
 | One Nation Under the Old Gods | 372532 | [372532-one-nation-under-the-old-gods.json](./372532-one-nation-under-the-old-gods.json) |
 | One Night | 286505 | [286505-one-night.json](./286505-one-night.json) |
+| One Night | 86341 | [86341-one-night.json](./86341-one-night.json) |
 | One Night 2: The Beyond | 111009 | [111009-one-night-2-the-beyond.json](./111009-one-night-2-the-beyond.json) |
 | One Night as Freddy | 257673 | [257673-one-night-as-freddy.json](./257673-one-night-as-freddy.json) |
 | One Night At Barneys 3 | 235396 | [235396-one-night-at-barneys-3.json](./235396-one-night-at-barneys-3.json) |
