@@ -4946,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai War | 366526 | [366526-hentai-war.json](./366526-hentai-war.json) |
 | Hentai Warfare | 366527 | [366527-hentai-warfare.json](./366527-hentai-warfare.json) |
+| Hentai Weed Puzzles | 107526 | [107526-hentai-weed-puzzles.json](./107526-hentai-weed-puzzles.json) |
 | Hentai Weekend | 385621 | [385621-hentai-weekend.json](./385621-hentai-weekend.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Woman | 111585 | [111585-hentai-woman.json](./111585-hentai-woman.json) |
