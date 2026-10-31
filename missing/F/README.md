@@ -5598,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireman | 283009 | [283009-fireman.json](./283009-fireman.json) |
 | Fireman Fred | 14067 | [14067-fireman-fred.json](./14067-fireman-fred.json) |
 | Fireman Sam | 14068 | [14068-fireman-sam.json](./14068-fireman-sam.json) |
+| Fireman Sam: Junior Cadet | 100486 | [100486-fireman-sam-junior-cadet.json](./100486-fireman-sam-junior-cadet.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | Fireman! Fire Fighter Truck Driving Games for Kids | 104504 | [104504-fireman-fire-fighter-truck-driving-games-for-kids.json](./104504-fireman-fire-fighter-truck-driving-games-for-kids.json) |
 | Fireman's Quest | 115358 | [115358-firemans-quest.json](./115358-firemans-quest.json) |
@@ -7252,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipping Two Minutes | 267358 | [267358-flipping-two-minutes.json](./267358-flipping-two-minutes.json) |
 | FlipPix Art - Civilizations | 107561 | [107561-flippix-art-civilizations.json](./107561-flippix-art-civilizations.json) |
 | FlipPix Art - Dollhouse | 107118 | [107118-flippix-art-dollhouse.json](./107118-flippix-art-dollhouse.json) |
+| FlipPix Jigsaw - Dragons | 100517 | [100517-flippix-jigsaw-dragons.json](./100517-flippix-jigsaw-dragons.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
 | FlipPix Jigsaw - Time | 109231 | [109231-flippix-jigsaw-time.json](./109231-flippix-jigsaw-time.json) |
@@ -7531,6 +7533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
 | Flower Blooming Competition | 341835 | [341835-flower-blooming-competition.json](./341835-flower-blooming-competition.json) |
 | Flower Board | 174253 | [174253-flower-board.json](./174253-flower-board.json) |
+| Flower Board HD | 100513 | [100513-flower-board-hd.json](./100513-flower-board-hd.json) |
 | Flower Boy Athletic High | 203287 | [203287-flower-boy-athletic-high.json](./203287-flower-boy-athletic-high.json) |
 | Flower Cells | 216447 | [216447-flower-cells.json](./216447-flower-cells.json) |
 | Flower Daze | 366428 | [366428-flower-daze.json](./366428-flower-daze.json) |
@@ -10650,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | French Crime | 132048 | [132048-french-crime.json](./132048-french-crime.json) |
 | French Fries Pusher Friends | 285937 | [285937-french-fries-pusher-friends.json](./285937-french-fries-pusher-friends.json) |
 | French Meat | 143290 | [143290-french-meat.json](./143290-french-meat.json) |
+| French Tarot | 100488 | [100488-french-tarot.json](./100488-french-tarot.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
