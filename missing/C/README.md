@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Soccer 2018 | 104409 | [104409-car-soccer-2018.json](./104409-car-soccer-2018.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
+| Car Stunt Challenge 2018 | 103060 | [103060-car-stunt-challenge-2018.json](./103060-car-stunt-challenge-2018.json) |
 | Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
@@ -10097,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Dead Ends | 254612 | [254612-code-dead-ends.json](./254612-code-dead-ends.json) |
 | Code: Dino-H | 144159 | [144159-code-dino-h.json](./144159-code-dino-h.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
+| Code: Lunch-13 | 103066 | [103066-code-lunch-13.json](./103066-code-lunch-13.json) |
 | Code: Mirage | 193817 | [193817-code-mirage.json](./193817-code-mirage.json) |
 | Code: OOC | 413828 | [413828-code-ooc.json](./413828-code-ooc.json) |
 | Code: R | 193825 | [193825-code-r.json](./193825-code-r.json) |
