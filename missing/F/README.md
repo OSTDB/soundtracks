@@ -8060,6 +8060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follia: Dear Father | 118671 | [118671-follia-dear-father.json](./118671-follia-dear-father.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
+| Follow JC Go | 111329 | [111329-follow-jc-go.json](./111329-follow-jc-go.json) |
 | Follow My Steps | 216666 | [216666-follow-my-steps.json](./216666-follow-my-steps.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
 | Follow Nightmare | 391589 | [391589-follow-nightmare.json](./391589-follow-nightmare.json) |
@@ -8500,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Gryphon Hero | 170438 | [170438-for-honor-gryphon-hero.json](./170438-for-honor-gryphon-hero.json) |
 | For Honor: Juren - Hero | 408969 | [408969-for-honor-juren-hero.json](./408969-for-honor-juren-hero.json) |
 | For Honor: Kyoshin Hero | 170437 | [170437-for-honor-kyoshin-hero.json](./170437-for-honor-kyoshin-hero.json) |
+| For Honor: Marching Fire Edition | 111296 | [111296-for-honor-marching-fire-edition.json](./111296-for-honor-marching-fire-edition.json) |
 | For Honor: Marching Fire Expansion Pack | 227360 | [227360-for-honor-marching-fire-expansion-pack.json](./227360-for-honor-marching-fire-expansion-pack.json) |
 | For Honor: Master Katashi - Orochi Hero Skin | 305768 | [305768-for-honor-master-katashi-orochi-hero-skin.json](./305768-for-honor-master-katashi-orochi-hero-skin.json) |
 | For Honor: Medjay Hero | 227337 | [227337-for-honor-medjay-hero.json](./227337-for-honor-medjay-hero.json) |
@@ -9594,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 4: 2019 Porsche 911 Carrera S | 153719 | [153719-forza-horizon-4-2019-porsche-911-carrera-s.json](./153719-forza-horizon-4-2019-porsche-911-carrera-s.json) |
 | Forza Horizon 4: Best of Bond Car Pack | 140292 | [140292-forza-horizon-4-best-of-bond-car-pack.json](./140292-forza-horizon-4-best-of-bond-car-pack.json) |
 | Forza Horizon 4: Car Pass | 365709 | [365709-forza-horizon-4-car-pass.json](./365709-forza-horizon-4-car-pass.json) |
+| Forza Horizon 4: Deluxe Edition | 111318 | [111318-forza-horizon-4-deluxe-edition.json](./111318-forza-horizon-4-deluxe-edition.json) |
 | Forza Horizon 4: Expansions Bundle | 136391 | [136391-forza-horizon-4-expansions-bundle.json](./136391-forza-horizon-4-expansions-bundle.json) |
 | Forza Horizon 4: Formula Drift Car Pack | 140285 | [140285-forza-horizon-4-formula-drift-car-pack.json](./140285-forza-horizon-4-formula-drift-car-pack.json) |
 | Forza Horizon 4: Icons Car Pack | 153717 | [153717-forza-horizon-4-icons-car-pack.json](./153717-forza-horizon-4-icons-car-pack.json) |
@@ -9731,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Found | 176862 | [176862-found.json](./176862-found.json) |
 | Found Horror Game 11.exe | 74626 | [74626-found-horror-game-11-exe.json](./74626-found-horror-game-11-exe.json) |
 | Found it! | 283289 | [283289-found-it.json](./283289-found-it.json) |
+| Found: A Hidden Object Adventure | 111322 | [111322-found-a-hidden-object-adventure.json](./111322-found-a-hidden-object-adventure.json) |
 | Found'It | 183994 | [183994-foundit.json](./183994-foundit.json) |
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
 | Foundation of Nightmares | 81061 | [81061-foundation-of-nightmares.json](./81061-foundation-of-nightmares.json) |
@@ -10421,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Icecream | 328404 | [328404-free-icecream.json](./328404-free-icecream.json) |
 | Free Jazz Party Animals | 185271 | [185271-free-jazz-party-animals.json](./185271-free-jazz-party-animals.json) |
+| Free Kick | 111306 | [111306-free-kick.json](./111306-free-kick.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Puzzle | 407946 | [407946-free-puzzle.json](./407946-free-puzzle.json) |
