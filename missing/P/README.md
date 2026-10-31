@@ -15411,6 +15411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PTRL Stockcar Edition | 212136 | [212136-ptrl-stockcar-edition.json](./212136-ptrl-stockcar-edition.json) |
 | PTS: Coach | 383395 | [383395-pts-coach.json](./383395-pts-coach.json) |
 | Pual Blarp Ghoul Cop | 327945 | [327945-pual-blarp-ghoul-cop.json](./327945-pual-blarp-ghoul-cop.json) |
+| PUB Bubbles | 104360 | [104360-pub-bubbles.json](./104360-pub-bubbles.json) |
 | Pub Darts | 77101 | [77101-pub-darts.json](./77101-pub-darts.json) |
 | Pub Encounter | 33397 | [33397-pub-encounter.json](./33397-pub-encounter.json) |
 | Pub Fascination | 226735 | [226735-pub-fascination.json](./226735-pub-fascination.json) |
