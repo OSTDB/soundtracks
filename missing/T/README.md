@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | Talking Tom Gold Run | 87051 | [87051-talking-tom-gold-run.json](./87051-talking-tom-gold-run.json) |
+| Talking Tom Hero Dash | 119245 | [119245-talking-tom-hero-dash.json](./119245-talking-tom-hero-dash.json) |
 | Talking Tom Pool | 87043 | [87043-talking-tom-pool.json](./87043-talking-tom-pool.json) |
 | Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
 | TalkMan | 23141 | [23141-talkman.json](./23141-talkman.json) |
@@ -6953,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Call | 339211 | [339211-the-crimson-call.json](./339211-the-crimson-call.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
 | The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
+| The Crimson Diamond | 119214 | [119214-the-crimson-diamond.json](./119214-the-crimson-diamond.json) |
 | The Crimson Diamond: Chapter 1 | 129722 | [129722-the-crimson-diamond-chapter-1.json](./129722-the-crimson-diamond-chapter-1.json) |
 | The Crimson Flower that Divides: Lunar Coupling | 221211 | [221211-the-crimson-flower-that-divides-lunar-coupling.json](./221211-the-crimson-flower-that-divides-lunar-coupling.json) |
 | The Crimson Kingdom | 247860 | [247860-the-crimson-kingdom.json](./247860-the-crimson-kingdom.json) |
@@ -12449,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mighty Quest for Epic Loot | 217796 | [217796-the-mighty-quest-for-epic-loot.json](./217796-the-mighty-quest-for-epic-loot.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Migration | 176243 | [176243-the-migration.json](./176243-the-migration.json) |
+| The Migratory Trail | 119216 | [119216-the-migratory-trail.json](./119216-the-migratory-trail.json) |
 | The Mikado Birdgirl in Taichung | 142660 | [142660-the-mikado-birdgirl-in-taichung.json](./142660-the-mikado-birdgirl-in-taichung.json) |
 | The Miki Komori Project | 403952 | [403952-the-miki-komori-project.json](./403952-the-miki-komori-project.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
@@ -21311,6 +21314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Room 2 | 393734 | [393734-tiny-room-2.json](./393734-tiny-room-2.json) |
 | Tiny Room Stories: Pure Escape | 154306 | [154306-tiny-room-stories-pure-escape.json](./154306-tiny-room-stories-pure-escape.json) |
 | Tiny Room Stories: Town Mystery | 122907 | [122907-tiny-room-stories-town-mystery.json](./122907-tiny-room-stories-town-mystery.json) |
+| Tiny Royale | 119240 | [119240-tiny-royale.json](./119240-tiny-royale.json) |
 | Tiny RTS | 421831 | [421831-tiny-rts.json](./421831-tiny-rts.json) |
 | Tiny Sea Adventure | 58557 | [58557-tiny-sea-adventure.json](./58557-tiny-sea-adventure.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
@@ -21536,6 +21540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
 | Titan: The Ascension | 244152 | [244152-titan-the-ascension.json](./244152-titan-the-ascension.json) |
+| Titan's Tower | 119238 | [119238-titans-tower.json](./119238-titans-tower.json) |
 | Titan78 | 190147 | [190147-titan78.json](./190147-titan78.json) |
 | Titanclimb | 386089 | [386089-titanclimb.json](./386089-titanclimb.json) |
 | Titanfall 2: Angel City's Most Wanted Bundle | 170861 | [170861-titanfall-2-angel-citys-most-wanted-bundle.json](./170861-titanfall-2-angel-citys-most-wanted-bundle.json) |
@@ -23382,6 +23387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornuffalo: Full-Body Action with Vive Trackers | 170191 | [170191-tornuffalo-full-body-action-with-vive-trackers.json](./170191-tornuffalo-full-body-action-with-vive-trackers.json) |
 | Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
 | Toro | 34099 | [34099-toro.json](./34099-toro.json) |
+| Toro and Friends: Onsen Town | 119233 | [119233-toro-and-friends-onsen-town.json](./119233-toro-and-friends-onsen-town.json) |
 | Toro Farcito e la maledizione della Piramide | 394691 | [394691-toro-farcito-e-la-maledizione-della-piramide.json](./394691-toro-farcito-e-la-maledizione-della-piramide.json) |
 | Toro to Kyuujitsu | 178328 | [178328-toro-to-kyuujitsu.json](./178328-toro-to-kyuujitsu.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
