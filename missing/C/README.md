@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Travel | 364563 | [364563-castle-travel.json](./364563-castle-travel.json) |
 | Castle Tycoon Simulator | 393415 | [393415-castle-tycoon-simulator.json](./393415-castle-tycoon-simulator.json) |
 | Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
+| Castle Vox | 66453 | [66453-castle-vox.json](./66453-castle-vox.json) |
 | Castle Walker | 216410 | [216410-castle-walker.json](./216410-castle-walker.json) |
 | Castle War | 194102 | [194102-castle-war.json](./194102-castle-war.json) |
 | Castle War | 380055 | [380055-castle-war.json](./380055-castle-war.json) |
@@ -7257,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
 | Chouji Meikyuu Legion | 302247 | [302247-chouji-meikyuu-legion.json](./302247-chouji-meikyuu-legion.json) |
 | Choujikuu Yousai Macross | 48673 | [48673-choujikuu-yousai-macross.json](./48673-choujikuu-yousai-macross.json) |
+| Choujikuu Yousai Macross | 66470 | [66470-choujikuu-yousai-macross.json](./66470-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross 2036 | 37587 | [37587-choujikuu-yousai-macross-2036.json](./37587-choujikuu-yousai-macross-2036.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
@@ -14506,6 +14508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack-Up | 13528 | [13528-crack-up.json](./13528-crack-up.json) |
 | Crack'ed | 11298 | [11298-cracked.json](./11298-cracked.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
+| Crackdown 2: Project Sunburst | 66445 | [66445-crackdown-2-project-sunburst.json](./66445-crackdown-2-project-sunburst.json) |
 | Cracked | 214929 | [214929-cracked.json](./214929-cracked.json) |
 | Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
