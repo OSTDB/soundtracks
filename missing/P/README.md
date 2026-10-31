@@ -5428,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick the Star | 290323 | [290323-pick-the-star.json](./290323-pick-the-star.json) |
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
 | Pick Up | 94362 | [94362-pick-up.json](./94362-pick-up.json) |
+| Pick Up Pencils | 96444 | [96444-pick-up-pencils.json](./96444-pick-up-pencils.json) |
 | Pick Your Poison | 126789 | [126789-pick-your-poison.json](./126789-pick-your-poison.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
@@ -7790,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
 | Pixel Tactics Online | 148131 | [148131-pixel-tactics-online.json](./148131-pixel-tactics-online.json) |
 | Pixel Tank | 247319 | [247319-pixel-tank.json](./247319-pixel-tank.json) |
+| Pixel Tank War | 96409 | [96409-pixel-tank-war.json](./96409-pixel-tank-war.json) |
 | Pixel Tennis | 301077 | [301077-pixel-tennis.json](./301077-pixel-tennis.json) |
 | Pixel Texas Hold'em | 407545 | [407545-pixel-texas-holdem.json](./407545-pixel-texas-holdem.json) |
 | Pixel Theory: Leviatán | 325711 | [325711-pixel-theory-leviatan.json](./325711-pixel-theory-leviatan.json) |
@@ -8238,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
+| Plane War | 96463 | [96463-plane-war.json](./96463-plane-war.json) |
 | Plane Weaver | 91841 | [91841-plane-weaver.json](./91841-plane-weaver.json) |
 | Planecraft | 279494 | [279494-planecraft.json](./279494-planecraft.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
