@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Whiz Kid | 205914 | [205914-galactic-whiz-kid.json](./205914-galactic-whiz-kid.json) |
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
+| Galactica Unbound | 123225 | [123225-galactica-unbound.json](./123225-galactica-unbound.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
 | Galacticare: Supporter Pack | 302210 | [302210-galacticare-supporter-pack.json](./302210-galacticare-supporter-pack.json) |
 | Galacticare: The Voice Beyond | 337495 | [337495-galacticare-the-voice-beyond.json](./337495-galacticare-the-voice-beyond.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
 | Gearbits: Gear Angels | 287029 | [287029-gearbits-gear-angels.json](./287029-gearbits-gear-angels.json) |
 | Gearbits: Raider Expedition | 311094 | [311094-gearbits-raider-expedition.json](./311094-gearbits-raider-expedition.json) |
+| GearBlocks | 123193 | [123193-gearblocks.json](./123193-gearblocks.json) |
 | Gearcrack Arena | 8924 | [8924-gearcrack-arena.json](./8924-gearcrack-arena.json) |
 | Geared 2! | 92145 | [92145-geared-2.json](./92145-geared-2.json) |
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
