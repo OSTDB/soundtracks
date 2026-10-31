@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
 | LA Street Racing | 27553 | [27553-la-street-racing.json](./27553-la-street-racing.json) |
 | La Tailor Girl | 198353 | [198353-la-tailor-girl.json](./198353-la-tailor-girl.json) |
+| La Tale: Devil's garden - Rosengarten | 80964 | [80964-la-tale-devils-garden-rosengarten.json](./80964-la-tale-devils-garden-rosengarten.json) |
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
 | La Valle Magica | 145975 | [145975-la-valle-magica.json](./145975-la-valle-magica.json) |
