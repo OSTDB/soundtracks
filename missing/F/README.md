@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furry Bundle | 342397 | [342397-fast-and-furry-bundle.json](./342397-fast-and-furry-bundle.json) |
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
+| Fast and Furious Arcade | 98694 | [98694-fast-and-furious-arcade.json](./98694-fast-and-furious-arcade.json) |
 | Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
 | Fast as Duck | 277172 | [277172-fast-as-duck.json](./277172-fast-as-duck.json) |
 | Fast Ball Spitter | 412239 | [412239-fast-ball-spitter.json](./412239-fast-ball-spitter.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Craft | 358256 | [358256-feudal-craft.json](./358256-feudal-craft.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudal Kingdoms | 167545 | [167545-feudal-kingdoms.json](./167545-feudal-kingdoms.json) |
+| Feudal Lords | 98735 | [98735-feudal-lords.json](./98735-feudal-lords.json) |
 | Feudal Wars | 291162 | [291162-feudal-wars.json](./291162-feudal-wars.json) |
 | Feudal Wars | 58897 | [58897-feudal-wars.json](./58897-feudal-wars.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
@@ -3810,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidget Spinner In Space | 75315 | [75315-fidget-spinner-in-space.json](./75315-fidget-spinner-in-space.json) |
 | Fidget Spinner RPG | 199784 | [199784-fidget-spinner-rpg.json](./199784-fidget-spinner-rpg.json) |
 | Fidget Spinner Simulator | 51415 | [51415-fidget-spinner-simulator.json](./51415-fidget-spinner-simulator.json) |
+| Fidget Spinner Simulator 2018 | 98741 | [98741-fidget-spinner-simulator-2018.json](./98741-fidget-spinner-simulator-2018.json) |
 | Fidget Town | 220247 | [220247-fidget-town.json](./220247-fidget-town.json) |
 | Fidget Widget | 373057 | [373057-fidget-widget.json](./373057-fidget-widget.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
@@ -7714,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
 | Flutter VR | 101662 | [101662-flutter-vr.json](./101662-flutter-vr.json) |
+| Flutter: Butterfly Sanctuary | 98737 | [98737-flutter-butterfly-sanctuary.json](./98737-flutter-butterfly-sanctuary.json) |
 | Flutter: Starlight | 137248 | [137248-flutter-starlight.json](./137248-flutter-starlight.json) |
 | Flutter! | 304135 | [304135-flutter.json](./304135-flutter.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
@@ -10933,6 +10937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrightDiary | 368818 | [368818-frightdiary.json](./368818-frightdiary.json) |
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
+| Frightened Beetles | 98696 | [98696-frightened-beetles.json](./98696-frightened-beetles.json) |
 | Frightening Monastery | 340259 | [340259-frightening-monastery.json](./340259-frightening-monastery.json) |
 | Frightmare | 14079 | [14079-frightmare.json](./14079-frightmare.json) |
 | Frights | 310256 | [310256-frights.json](./310256-frights.json) |
