@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumPlose | 130089 | [130089-jumplose.json](./130089-jumplose.json) |
 | Jumpman | 107090 | [107090-jumpman.json](./107090-jumpman.json) |
 | JumpMan | 267798 | [267798-jumpman.json](./267798-jumpman.json) |
+| Jumpman Forever | 74840 | [74840-jumpman-forever.json](./74840-jumpman-forever.json) |
 | Jumpman Jr. | 79755 | [79755-jumpman-jr.json](./79755-jumpman-jr.json) |
 | Jumpman Lives! | 69868 | [69868-jumpman-lives.json](./69868-jumpman-lives.json) |
 | Jumpmaster | 303747 | [303747-jumpmaster.json](./303747-jumpmaster.json) |
