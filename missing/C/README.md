@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
 | Canary: Kono Omoi wo Uta ni Nosete | 269412 | [269412-canary-kono-omoi-wo-uta-ni-nosete.json](./269412-canary-kono-omoi-wo-uta-ni-nosete.json) |
 | Canary: Kono Omoi wo Uta ni Nosete | 319627 | [319627-canary-kono-omoi-wo-uta-ni-nosete.json](./319627-canary-kono-omoi-wo-uta-ni-nosete.json) |
+| Canasta | 99905 | [99905-canasta.json](./99905-canasta.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Canasta HD | 354965 | [354965-canasta-hd.json](./354965-canasta-hd.json) |
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
 | CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
+| CastleStorm: Complete Edition | 99924 | [99924-castlestorm-complete-edition.json](./99924-castlestorm-complete-edition.json) |
 | CastleStorm: Definitive Edition | 20294 | [20294-castlestorm-definitive-edition.json](./20294-castlestorm-definitive-edition.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
@@ -6024,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess 2 | 399406 | [399406-chess-2.json](./399406-chess-2.json) |
 | Chess 2000 | 286368 | [286368-chess-2000.json](./286368-chess-2000.json) |
 | Chess 2048 | 373335 | [373335-chess-2048.json](./373335-chess-2048.json) |
+| Chess 3D Ultimate | 99917 | [99917-chess-3d-ultimate.json](./99917-chess-3d-ultimate.json) |
 | Chess 4 Uzebox | 311361 | [311361-chess-4-uzebox.json](./311361-chess-4-uzebox.json) |
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
 | Chess Ace | 147861 | [147861-chess-ace.json](./147861-chess-ace.json) |
@@ -10895,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color TV-Game Racing 112 | 220550 | [220550-color-tv-game-racing-112.json](./220550-color-tv-game-racing-112.json) |
 | Color Valley: The Lost Balloon Adventure | 360049 | [360049-color-valley-the-lost-balloon-adventure.json](./360049-color-valley-the-lost-balloon-adventure.json) |
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
+| Color Wars | 99908 | [99908-color-wars.json](./99908-color-wars.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
 | Color Water Sort: Relax Edition | 310434 | [310434-color-water-sort-relax-edition.json](./310434-color-water-sort-relax-edition.json) |
@@ -15952,6 +15956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croquet Conundrum | 319662 | [319662-croquet-conundrum.json](./319662-croquet-conundrum.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
 | Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
+| Croquet Pro 2:6 Wicket Edition | 99899 | [99899-croquet-pro-2-6-wicket-edition.json](./99899-croquet-pro-2-6-wicket-edition.json) |
 | Croquettes Gang | 303089 | [303089-croquettes-gang.json](./303089-croquettes-gang.json) |
 | CroquettesClicker | 336138 | [336138-croquettesclicker.json](./336138-croquettesclicker.json) |
 | Crordle | 223555 | [223555-crordle.json](./223555-crordle.json) |
@@ -16750,6 +16755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
 | Crysis 3: Digital Deluxe Edition | 52850 | [52850-crysis-3-digital-deluxe-edition.json](./52850-crysis-3-digital-deluxe-edition.json) |
 | Crysis 3: Hunter Edition | 46635 | [46635-crysis-3-hunter-edition.json](./46635-crysis-3-hunter-edition.json) |
+| Crysis 3: Ultimate Edition | 99931 | [99931-crysis-3-ultimate-edition.json](./99931-crysis-3-ultimate-edition.json) |
 | Crysis Maximum Edition | 310642 | [310642-crysis-maximum-edition.json](./310642-crysis-maximum-edition.json) |
 | Crysis Remastered | 132164 | [132164-crysis-remastered.json](./132164-crysis-remastered.json) |
 | Crysis Remastered Trilogy | 150564 | [150564-crysis-remastered-trilogy.json](./150564-crysis-remastered-trilogy.json) |
@@ -18637,6 +18643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyberworm | 73606 | [73606-cyberworm.json](./73606-cyberworm.json) |
+| Cybo War | 99898 | [99898-cybo-war.json](./99898-cybo-war.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
 | Cyborg Arena 2 | 368432 | [368432-cyborg-arena-2.json](./368432-cyborg-arena-2.json) |
