@@ -9713,6 +9713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
+| Similars: Climb | 121194 | [121194-similars-climb.json](./121194-similars-climb.json) |
 | Similo | 95962 | [95962-similo.json](./95962-similo.json) |
 | Similo: History | 170927 | [170927-similo-history.json](./170927-similo-history.json) |
 | Similo: Spookies | 170926 | [170926-similo-spookies.json](./170926-similo-spookies.json) |
@@ -17606,6 +17607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30030,6 +30032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Whiplash | 160077 | [160077-super-whiplash.json](./160077-super-whiplash.json) |
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
 | Super Wiloo Deluxe | 415862 | [415862-super-wiloo-deluxe.json](./415862-super-wiloo-deluxe.json) |
+| Super Wiloo Demake | 121236 | [121236-super-wiloo-demake.json](./121236-super-wiloo-demake.json) |
 | Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
 | Super Wizard | 212431 | [212431-super-wizard.json](./212431-super-wizard.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
