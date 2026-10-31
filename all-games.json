@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-30T23:05:53.467Z",
-  "total_soundtracks": 2739,
+  "generated_at": "2026-10-31T21:05:55.068Z",
+  "total_soundtracks": 2759,
   "games": [
     {
       "igdb_id": 7522,
@@ -1319,6 +1319,20 @@
         {
           "album_name": "Angry Birds Space (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2ahYxY32maKsrZPBVtUp7E",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 60985,
+      "game_name": "Angry Birds Stella",
+      "game_url": "https://ostdb.net/games/angry-birds-stella",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734502bda261d6bd0dd45bbb2b",
+      "albums": [
+        {
+          "album_name": "Angry Birds Stella (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2LMKSNkJy0EbB53oWDiMfM",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5133,6 +5147,20 @@
       ]
     },
     {
+      "igdb_id": 35130,
+      "game_name": "Chronicon",
+      "game_url": "https://ostdb.net/games/chronicon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b2d35ad37265268ff26304cf",
+      "albums": [
+        {
+          "album_name": "Chronicon (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5sidGxAGdozW3diqAWOZcu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1802,
       "game_name": "Chrono Trigger",
       "game_url": "https://ostdb.net/games/chrono-trigger",
@@ -5431,6 +5459,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/code-violet-original-game-soundtrack/1866128877?uo=4",
           "album_link_url": "https://album.link/i/1866128877"
+        }
+      ]
+    },
+    {
+      "igdb_id": 56697,
+      "game_name": "Coffee Crisis",
+      "game_url": "https://ostdb.net/games/coffee-crisis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f820f4180f19b620392725de",
+      "albums": [
+        {
+          "album_name": "Coffee Crisis Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/58gXQ3se8pEilxQJGopJiX",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -9647,6 +9689,20 @@
       ]
     },
     {
+      "igdb_id": 26268,
+      "game_name": "Fae Tactics",
+      "game_url": "https://ostdb.net/games/fae-tactics",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733bd0258df82f42294c710b57",
+      "albums": [
+        {
+          "album_name": "Fae Tactics (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3bucKZ1DlhiRT1Xswk3Sfu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119313,
       "game_name": "Fall Guys",
       "game_url": "https://ostdb.net/games/fall-guys",
@@ -11057,6 +11113,20 @@
       ]
     },
     {
+      "igdb_id": 21961,
+      "game_name": "Fox n Forests",
+      "game_url": "https://ostdb.net/games/fox-n-forests",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ffb803f3f3981e9ffb49c390",
+      "albums": [
+        {
+          "album_name": "FOX N Forests (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7LxxbdyMX0BUFT7Fsfr2NP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 4872,
       "game_name": "Fragile Dreams: Farewell Ruins of the Moon",
       "game_url": "https://ostdb.net/games/fragile-dreams-farewell-ruins-of-the-moon",
@@ -11887,6 +11957,20 @@
       ]
     },
     {
+      "igdb_id": 26628,
+      "game_name": "Glittermitten Grove",
+      "game_url": "https://ostdb.net/games/glittermitten-grove",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c83529d2b1081b47f0e5250a",
+      "albums": [
+        {
+          "album_name": "Glittermitten Grove (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/76N27W5v97s4JrEWk1iCvL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 26102,
       "game_name": "Gnog",
       "game_url": "https://ostdb.net/games/gnog",
@@ -12189,6 +12273,20 @@
         {
           "album_name": "Good Pizza, Great Pizza (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0mYwLzFqbGYFR5Ss1zl4gx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 134589,
+      "game_name": "Goodbye Volcano High",
+      "game_url": "https://ostdb.net/games/goodbye-volcano-high",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734f49c6183727e1a4f60936fb",
+      "albums": [
+        {
+          "album_name": "Goodbye Volcano High (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7B47QhdvQAhE26VlmpPqpR",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14647,6 +14745,20 @@
       ]
     },
     {
+      "igdb_id": 21564,
+      "game_name": "Into the Stars",
+      "game_url": "https://ostdb.net/games/into-the-stars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27364cc287009e6de69af769f09",
+      "albums": [
+        {
+          "album_name": "Into the Stars (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1wpwOx3bWP7derE8VBnWVY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 144379,
       "game_name": "Intravenous",
       "game_url": "https://ostdb.net/games/intravenous",
@@ -15467,6 +15579,20 @@
         {
           "album_name": "Knights And Bikes (Original Soundtrack From The Videogame)",
           "spotify_url": "https://open.spotify.com/album/1DBLETuVrGDREmgHwqqQuZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20690,
+      "game_name": "Knights in the Nightmare",
+      "game_url": "https://ostdb.net/games/knights-in-the-nightmare",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738fe1ec9ff713bc75cfdef936",
+      "albums": [
+        {
+          "album_name": "Knights in the Nightmare Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1yPdP5RaYwjyj7hO0A1nTI",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -16601,6 +16727,20 @@
         {
           "album_name": "Lost Words: Beyond the Page (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4RITHM8VVoeUU3IftMddXo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21486,
+      "game_name": "LostWinds",
+      "game_url": "https://ostdb.net/games/lostwinds",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733cf43234bcba810da7388415",
+      "albums": [
+        {
+          "album_name": "LostWinds Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1XjSTX4osDPb2RGFtJqijG",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18037,6 +18177,20 @@
         {
           "album_name": "Milk Outside a Bag of Milk Outside a Bag of Milk (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2YBs94INDcFjQZ3GtJt23e",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26732,
+      "game_name": "Milkmaid of the Milky Way",
+      "game_url": "https://ostdb.net/games/milkmaid-of-the-milky-way",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273025e9e0c7645ac5deff9f623",
+      "albums": [
+        {
+          "album_name": "Milkmaid of the Milky Way (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1eUTQmYXtn0oKxeq3hexi8",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21833,6 +21987,20 @@
       ]
     },
     {
+      "igdb_id": 22791,
+      "game_name": "Princess Connect! Re:Dive",
+      "game_url": "https://ostdb.net/games/princess-connect-re-dive",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738a54d4dc5379a000df389fac",
+      "albums": [
+        {
+          "album_name": "PRINCESS CONNECT! Re:Dive ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/5QpiF0FZd8JIKHO4YOhy5w",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 5319,
       "game_name": "Project CARS",
       "game_url": "https://ostdb.net/games/project-cars",
@@ -21994,6 +22162,20 @@
           "album_name": "Thank you, 5urvivors (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6LWwIqfOPOJLxwhgwm8ECq",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20955,
+      "game_name": "Pumped BMX+",
+      "game_url": "https://ostdb.net/games/pumped-bmx",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b82cdeaa2f7754129ece3b7b",
+      "albums": [
+        {
+          "album_name": "Pumped BMX (Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/52SRQNqVhSMkNakrZO2TsA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -22559,6 +22741,20 @@
         {
           "album_name": "Redout 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5LxsPgfpMSah5XisI48txy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 30205,
+      "game_name": "Regalia: Of Men and Monarchs",
+      "game_url": "https://ostdb.net/games/regalia-of-men-and-monarchs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733a6b2c7a25e6f2fe1ea7e188",
+      "albums": [
+        {
+          "album_name": "Regalia: Of Men and Monarchs (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0rgMYF3zNeXzHB9FOTgwoJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23645,6 +23841,20 @@
         {
           "album_name": "Roots of Pacha (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5g8QWoUPmBs9SpH5DozhHs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 97114,
+      "game_name": "Roundguard",
+      "game_url": "https://ostdb.net/games/roundguard",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27324197299327f4e72b9611bbb",
+      "albums": [
+        {
+          "album_name": "Roundguard (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5ic2AEkOnu34dQx0GZOjkt",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26760,6 +26970,20 @@
           "album_name": "State of Decay 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3DfZXfUWuPAIGljNmyNvR1",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 37294,
+      "game_name": "Staxel",
+      "game_url": "https://ostdb.net/games/staxel",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273816e79aa4ba4dce5b923bbe2",
+      "albums": [
+        {
+          "album_name": "Staxel, Vol. 1 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0avxrbydvTRtOfpPaw4iVh",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -30561,6 +30785,20 @@
       ]
     },
     {
+      "igdb_id": 50506,
+      "game_name": "This Strange Realm of Mine",
+      "game_url": "https://ostdb.net/games/this-strange-realm-of-mine",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27377e263871328d5d1944ddc67",
+      "albums": [
+        {
+          "album_name": "This Strange Realm of Mine (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1mWeV84Kw9OSUryzgqEjrP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7706,
       "game_name": "This War of Mine",
       "game_url": "https://ostdb.net/games/this-war-of-mine",
@@ -31663,6 +31901,20 @@
         {
           "album_name": "Umurangi Generation Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/02iIjzyhAlM7b5MlnuUdtb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 89597,
+      "game_name": "Unbound: Worlds Apart",
+      "game_url": "https://ostdb.net/games/unbound-worlds-apart",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c2d511029a996e4388b5ab16",
+      "albums": [
+        {
+          "album_name": "Unbound: Worlds Apart (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6muvQbd7DMjIMKWDsnDUNS",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -33117,6 +33369,20 @@
       ]
     },
     {
+      "igdb_id": 20894,
+      "game_name": "We Are Doomed",
+      "game_url": "https://ostdb.net/games/we-are-doomed",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27356d9c90d7c35ffb3b1f20326",
+      "albums": [
+        {
+          "album_name": "WE ARE DOOMED Original Soundtrack ∞",
+          "spotify_url": "https://open.spotify.com/album/0zZyTL75BEcxs8nLNzwoyr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27870,
       "game_name": "We Know the Devil",
       "game_url": "https://ostdb.net/games/we-know-the-devil",
@@ -33925,6 +34191,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/composers-choice-original-game-soundtrack/1574533806?uo=4",
           "album_link_url": "https://album.link/i/1574533806"
+        }
+      ]
+    },
+    {
+      "igdb_id": 27518,
+      "game_name": "World to the West",
+      "game_url": "https://ostdb.net/games/world-to-the-west",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733c54de80f993626741352a41",
+      "albums": [
+        {
+          "album_name": "World to the West - Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1qh6LxpuzPV5azeZ8Cu41D",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
