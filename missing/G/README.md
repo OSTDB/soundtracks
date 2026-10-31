@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game ni Nattayo! Dokuro-chan: Kenkou Shindan Daisakusen | 248390 | [248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json](./248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
 | Game Nihonshi: Kakumeiji Oda Nobunaga | 214392 | [214392-game-nihonshi-kakumeiji-oda-nobunaga.json](./214392-game-nihonshi-kakumeiji-oda-nobunaga.json) |
+| Game no Kandume: Sega Games Can Vol.1 | 111300 | [111300-game-no-kandume-sega-games-can-vol-1.json](./111300-game-no-kandume-sega-games-can-vol-1.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
 | Game no Kanzume Vol. 2 | 59518 | [59518-game-no-kanzume-vol-2.json](./59518-game-no-kanzume-vol-2.json) |
 | Game no Tatsujin | 44404 | [44404-game-no-tatsujin.json](./44404-game-no-tatsujin.json) |
@@ -6182,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gongpoui Sullaejapgi | 220286 | [220286-gongpoui-sullaejapgi.json](./220286-gongpoui-sullaejapgi.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
 | Gonner | 19002 | [19002-gonner.json](./19002-gonner.json) |
+| Gonner: Blüberry Edition | 111319 | [111319-gonner-bluberry-edition.json](./111319-gonner-bluberry-edition.json) |
 | Gonner: Press Jump to Die Edition | 51831 | [51831-gonner-press-jump-to-die-edition.json](./51831-gonner-press-jump-to-die-edition.json) |
 | Gonner2 | 134862 | [134862-gonner2.json](./134862-gonner2.json) |
 | Gonner2: Lose Your Head Bundle | 154963 | [154963-gonner2-lose-your-head-bundle.json](./154963-gonner2-lose-your-head-bundle.json) |
