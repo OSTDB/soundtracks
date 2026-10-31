@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarudora Series Vol. 4: Yukiwari no Hana | 79348 | [79348-yarudora-series-vol-4-yukiwari-no-hana.json](./79348-yarudora-series-vol-4-yukiwari-no-hana.json) |
 | YAS: Yet Another Shooter | 219373 | [219373-yas-yet-another-shooter.json](./219373-yas-yet-another-shooter.json) |
 | Yasa Pets School | 107553 | [107553-yasa-pets-school.json](./107553-yasa-pets-school.json) |
+| Yasa Pets Village | 97048 | [97048-yasa-pets-village.json](./97048-yasa-pets-village.json) |
 | Yasai Ninja | 21861 | [21861-yasai-ninja.json](./21861-yasai-ninja.json) |
 | Yasashii Ori no Naka de | 388145 | [388145-yasashii-ori-no-naka-de.json](./388145-yasashii-ori-no-naka-de.json) |
 | Yasashii Tamagotchi | 229845 | [229845-yasashii-tamagotchi.json](./229845-yasashii-tamagotchi.json) |
