@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Rats: Redridge | 319651 | [319651-half-rats-redridge.json](./319651-half-rats-redridge.json) |
 | Halfbrick Blast Off | 92332 | [92332-halfbrick-blast-off.json](./92332-halfbrick-blast-off.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
+| HalfLight | 83971 | [83971-halflight.json](./83971-halflight.json) |
 | Halfling | 316562 | [316562-halfling.json](./316562-halfling.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
@@ -1680,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Nova | 73600 | [73600-hard-nova.json](./73600-hard-nova.json) |
 | Hard Nut to Crack | 314148 | [314148-hard-nut-to-crack.json](./314148-hard-nut-to-crack.json) |
 | Hard Office | 130628 | [130628-hard-office.json](./130628-hard-office.json) |
+| Hard Place | 83987 | [83987-hard-place.json](./83987-hard-place.json) |
 | Hard Platformers Bundle | 331529 | [331529-hard-platformers-bundle.json](./331529-hard-platformers-bundle.json) |
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
 | Hard Racing: Stunt Car Driving | 283264 | [283264-hard-racing-stunt-car-driving.json](./283264-hard-racing-stunt-car-driving.json) |
@@ -11404,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperboard Extreme | 369176 | [369176-hyperboard-extreme.json](./369176-hyperboard-extreme.json) |
 | HyperBody | 292518 | [292518-hyperbody.json](./292518-hyperbody.json) |
 | Hyperbolic Arcade Trading | 138503 | [138503-hyperbolic-arcade-trading.json](./138503-hyperbolic-arcade-trading.json) |
+| Hyperbolic Ignition | 84006 | [84006-hyperbolic-ignition.json](./84006-hyperbolic-ignition.json) |
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
 | Hyperborea | 332932 | [332932-hyperborea.json](./332932-hyperborea.json) |
@@ -11641,6 +11644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Age of Imprisonment | 338085 | [338085-hyrule-warriors-age-of-imprisonment.json](./338085-hyrule-warriors-age-of-imprisonment.json) |
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
+| Hyrule Warriors: Treasure Box | 83790 | [83790-hyrule-warriors-treasure-box.json](./83790-hyrule-warriors-treasure-box.json) |
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
 | Hyss | 112985 | [112985-hyss.json](./112985-hyss.json) |
 | Hysteria | 47172 | [47172-hysteria.json](./47172-hysteria.json) |
