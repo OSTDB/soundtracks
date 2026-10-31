@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gravity Golf | 387921 | [387921-galactic-gravity-golf.json](./387921-galactic-gravity-golf.json) |
 | Galactic Grinder | 253526 | [253526-galactic-grinder.json](./253526-galactic-grinder.json) |
 | Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
+| Galactic Gunner | 90299 | [90299-galactic-gunner.json](./90299-galactic-gunner.json) |
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
 | Galactic Heroes: Rise of the Black Alliance | 274559 | [274559-galactic-heroes-rise-of-the-black-alliance.json](./274559-galactic-heroes-rise-of-the-black-alliance.json) |
@@ -7937,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
 | Greeblings | 351110 | [351110-greeblings.json](./351110-greeblings.json) |
 | Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
+| Greece Defense TD | 90300 | [90300-greece-defense-td.json](./90300-greece-defense-td.json) |
 | Greed | 129623 | [129623-greed.json](./129623-greed.json) |
 | Greed | 171765 | [171765-greed.json](./171765-greed.json) |
 | Greed | 204991 | [204991-greed.json](./204991-greed.json) |
@@ -9009,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudge | 278516 | [278516-grudge.json](./278516-grudge.json) |
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
+| Grudgeball: Enter the Chaosphere - Regular Show's Extreme Sport of the Future | 90338 | [90338-grudgeball-enter-the-chaosphere-regular-shows-extreme-sport-of-the-future.json](./90338-grudgeball-enter-the-chaosphere-regular-shows-extreme-sport-of-the-future.json) |
 | Grudgeborn | 363158 | [363158-grudgeborn.json](./363158-grudgeborn.json) |
 | Grudger | 412019 | [412019-grudger.json](./412019-grudger.json) |
 | Gruel | 292396 | [292396-gruel.json](./292396-gruel.json) |
