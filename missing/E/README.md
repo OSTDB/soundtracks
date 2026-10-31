@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Marisa | 332517 | [332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json](./332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Markus | 332518 | [332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json](./332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
+| Eiyuu Densetsu Saga | 85787 | [85787-eiyuu-densetsu-saga.json](./85787-eiyuu-densetsu-saga.json) |
 | Eiyuu Shigan: Gal Act Heroism | 91760 | [91760-eiyuu-shigan-gal-act-heroism.json](./91760-eiyuu-shigan-gal-act-heroism.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
 | Eizoku | 134519 | [134519-eizoku.json](./134519-eizoku.json) |
@@ -1765,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Paso, Elsewhere 2 | 405159 | [405159-el-paso-elsewhere-2.json](./405159-el-paso-elsewhere-2.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
 | El Pescador | 174033 | [174033-el-pescador.json](./174033-el-pescador.json) |
+| El Poder Oscuro | 85789 | [85789-el-poder-oscuro.json](./85789-el-poder-oscuro.json) |
 | El Principio del Fin | 99684 | [99684-el-principio-del-fin.json](./99684-el-principio-del-fin.json) |
 | El Puppster | 169047 | [169047-el-puppster.json](./169047-el-puppster.json) |
 | El Remedio de Aldorf | 130290 | [130290-el-remedio-de-aldorf.json](./130290-el-remedio-de-aldorf.json) |
