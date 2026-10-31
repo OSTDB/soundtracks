@@ -12004,6 +12004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Scrabble De Luxe | 72281 | [72281-computer-scrabble-de-luxe.json](./72281-computer-scrabble-de-luxe.json) |
 | Computer Shrilow | 363679 | [363679-computer-shrilow.json](./363679-computer-shrilow.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
+| Computer Space Ball | 70832 | [70832-computer-space-ball.json](./70832-computer-space-ball.json) |
 | Computer Stocks & Bonds | 21926 | [21926-computer-stocks-and-bonds.json](./21926-computer-stocks-and-bonds.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
@@ -15347,6 +15348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
+| Crazy Valet CGE | 70749 | [70749-crazy-valet-cge.json](./70749-crazy-valet-cge.json) |
 | Crazy Veggies | 28787 | [28787-crazy-veggies.json](./28787-crazy-veggies.json) |
 | Crazy Voyage | 324289 | [324289-crazy-voyage.json](./324289-crazy-voyage.json) |
 | Crazy War | 283555 | [283555-crazy-war.json](./283555-crazy-war.json) |
@@ -17289,6 +17291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Life: Island Survival | 60151 | [60151-cube-life-island-survival.json](./60151-cube-life-island-survival.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
 | Cube Life: Island Survival HD | 85062 | [85062-cube-life-island-survival-hd.json](./85062-cube-life-island-survival-hd.json) |
+| Cube Life: Pixel Action Heroes | 70826 | [70826-cube-life-pixel-action-heroes.json](./70826-cube-life-pixel-action-heroes.json) |
 | Cube Link | 51966 | [51966-cube-link.json](./51966-cube-link.json) |
 | Cube Man | 115367 | [115367-cube-man.json](./115367-cube-man.json) |
 | Cube Master | 116966 | [116966-cube-master.json](./116966-cube-master.json) |
