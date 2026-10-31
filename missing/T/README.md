@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Fukushuu no Rinbu | 65320 | [65320-tantei-jinguji-saburo-fukushuu-no-rinbu.json](./65320-tantei-jinguji-saburo-fukushuu-no-rinbu.json) |
 | Tantei Jinguji Saburo: Fukushuu no Rondo | 151624 | [151624-tantei-jinguji-saburo-fukushuu-no-rondo.json](./151624-tantei-jinguji-saburo-fukushuu-no-rondo.json) |
 | Tantei Jinguji Saburo: Futa-iro no Shoujo | 347629 | [347629-tantei-jinguji-saburo-futa-iro-no-shoujo.json](./347629-tantei-jinguji-saburo-futa-iro-no-shoujo.json) |
+| Tantei Jinguji Saburo: Innocent Black | 77057 | [77057-tantei-jinguji-saburo-innocent-black.json](./77057-tantei-jinguji-saburo-innocent-black.json) |
 | Tantei Jinguji Saburo: Inochi Tatsu Kokugen | 347630 | [347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json](./347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json) |
 | Tantei Jinguji Saburo: Inu to Yobareta Otoko | 347628 | [347628-tantei-jinguji-saburo-inu-to-yobareta-otoko.json](./347628-tantei-jinguji-saburo-inu-to-yobareta-otoko.json) |
 | Tantei Jinguji Saburo: Kadan no Itte | 347615 | [347615-tantei-jinguji-saburo-kadan-no-itte.json](./347615-tantei-jinguji-saburo-kadan-no-itte.json) |
@@ -17397,6 +17398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard of Gloss | 400537 | [400537-the-wizard-of-gloss.json](./400537-the-wizard-of-gloss.json) |
 | The Wizard of Id's Wiz Math | 40903 | [40903-the-wizard-of-ids-wiz-math.json](./40903-the-wizard-of-ids-wiz-math.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
+| The Wizard of Oz | 77026 | [77026-the-wizard-of-oz.json](./77026-the-wizard-of-oz.json) |
 | The Wizard of Oz: Beyond the Yellow Brick Road | 21116 | [21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json](./21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wizard Sniffer | 123477 | [123477-the-wizard-sniffer.json](./123477-the-wizard-sniffer.json) |
@@ -18208,6 +18210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinking With Boxes | 339687 | [339687-thinking-with-boxes.json](./339687-thinking-with-boxes.json) |
 | Thinkrolls Kings & Queens | 101651 | [101651-thinkrolls-kings-and-queens.json](./101651-thinkrolls-kings-and-queens.json) |
 | Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
+| thinkSmart | 77046 | [77046-thinksmart.json](./77046-thinksmart.json) |
 | ThinkSmart Labyrinth | 209819 | [209819-thinksmart-labyrinth.json](./209819-thinksmart-labyrinth.json) |
 | ThinkSmart: Family! | 268428 | [268428-thinksmart-family.json](./268428-thinksmart-family.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
@@ -18437,6 +18440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
 | Thorgal | 290773 | [290773-thorgal.json](./290773-thorgal.json) |
 | Thorgard | 288610 | [288610-thorgard.json](./288610-thorgard.json) |
+| Thorium Wars | 77078 | [77078-thorium-wars.json](./77078-thorium-wars.json) |
 | Thorium Wars: Attack of the Skyfighter | 61511 | [61511-thorium-wars-attack-of-the-skyfighter.json](./61511-thorium-wars-attack-of-the-skyfighter.json) |
 | Thorn Demon Hunter | 201596 | [201596-thorn-demon-hunter.json](./201596-thorn-demon-hunter.json) |
 | Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
@@ -21755,6 +21759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic - Underwater Operation Simulator | 54191 | [54191-titanic-underwater-operation-simulator.json](./54191-titanic-underwater-operation-simulator.json) |
 | Titanic Escape Simulator | 411584 | [411584-titanic-escape-simulator.json](./411584-titanic-escape-simulator.json) |
 | Titanic II: Orchestra for Dying at Sea | 204471 | [204471-titanic-ii-orchestra-for-dying-at-sea.json](./204471-titanic-ii-orchestra-for-dying-at-sea.json) |
+| Titanic Mystery | 77028 | [77028-titanic-mystery.json](./77028-titanic-mystery.json) |
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
 | Titanic Panic | 101459 | [101459-titanic-panic.json](./101459-titanic-panic.json) |
 | Titanic Rescue | 360498 | [360498-titanic-rescue.json](./360498-titanic-rescue.json) |
@@ -23178,6 +23183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonya The Killer | 327134 | [327134-tonya-the-killer.json](./327134-tonya-the-killer.json) |
 | Tonzura-kun | 386520 | [386520-tonzura-kun.json](./386520-tonzura-kun.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
+| Tonzurakko | 77042 | [77042-tonzurakko.json](./77042-tonzurakko.json) |
 | Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
 | Too Angry To Die | 309916 | [309916-too-angry-to-die.json](./309916-too-angry-to-die.json) |
 | Too Bouncy? | 263340 | [263340-too-bouncy.json](./263340-too-bouncy.json) |
@@ -29316,6 +29322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori for V | 74795 | [74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json](./74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
+| Tsumu | 77073 | [77073-tsumu.json](./77073-tsumu.json) |
 | Tsumugi no Hanayome | 318859 | [318859-tsumugi-no-hanayome.json](./318859-tsumugi-no-hanayome.json) |
 | Tsumugu Logic | 202676 | [202676-tsumugu-logic.json](./202676-tsumugu-logic.json) |
 | Tsun Tsun Gumi 2: Moji-moji Pakkun | 230482 | [230482-tsun-tsun-gumi-2-moji-moji-pakkun.json](./230482-tsun-tsun-gumi-2-moji-moji-pakkun.json) |
