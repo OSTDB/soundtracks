@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
 | Hacker Clicker | 183903 | [183903-hacker-clicker.json](./183903-hacker-clicker.json) |
 | Hacker Evolution - 2019 HD remaster | 122605 | [122605-hacker-evolution-2019-hd-remaster.json](./122605-hacker-evolution-2019-hd-remaster.json) |
+| Hacker Evolution 2010 | 65862 | [65862-hacker-evolution-2010.json](./65862-hacker-evolution-2010.json) |
 | Hacker Evolution Duality | 10393 | [10393-hacker-evolution-duality.json](./10393-hacker-evolution-duality.json) |
 | Hacker Evolution Duality: Hacker Bootcamp | 171565 | [171565-hacker-evolution-duality-hacker-bootcamp.json](./171565-hacker-evolution-duality-hacker-bootcamp.json) |
 | Hacker Evolution Duality: Hardcore Package Part 1 | 169309 | [169309-hacker-evolution-duality-hardcore-package-part-1.json](./169309-hacker-evolution-duality-hardcore-package-part-1.json) |
@@ -3185,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
 | Hearts Premium HD | 86867 | [86867-hearts-premium-hd.json](./86867-hearts-premium-hd.json) |
+| Hearts Spades Euchre | 65870 | [65870-hearts-spades-euchre.json](./65870-hearts-spades-euchre.json) |
 | Hearts Tournament | 89770 | [89770-hearts-tournament.json](./89770-hearts-tournament.json) |
 | Hearts United | 201396 | [201396-hearts-united.json](./201396-hearts-united.json) |
 | Hearts War | 261952 | [261952-hearts-war.json](./261952-hearts-war.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higan: Eruthyll | 216031 | [216031-higan-eruthyll.json](./216031-higan-eruthyll.json) |
 | Higanbana | 122634 | [122634-higanbana.json](./122634-higanbana.json) |
 | Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
+| Higanbana no Saku Yoru ni: The First Night | 65719 | [65719-higanbana-no-saku-yoru-ni-the-first-night.json](./65719-higanbana-no-saku-yoru-ni-the-first-night.json) |
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
 | Higemaru Makaijima: Nanatsu no Shima Daibouken | 48473 | [48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json](./48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json) |
