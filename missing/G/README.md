@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
 | Gidget & The Mysterious Thievery of Hoppity Town | 200006 | [200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json](./200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
+| GIF: The Game of Inevitable Frustration | 117330 | [117330-gif-the-game-of-inevitable-frustration.json](./117330-gif-the-game-of-inevitable-frustration.json) |
 | Gift | 102076 | [102076-gift.json](./102076-gift.json) |
 | Gift | 132101 | [132101-gift.json](./132101-gift.json) |
 | Gift | 240745 | [240745-gift.json](./240745-gift.json) |
@@ -4847,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Gnosis | 388922 | [388922-gnosis.json](./388922-gnosis.json) |
 | Gnostic: Survivors | 262373 | [262373-gnostic-survivors.json](./262373-gnostic-survivors.json) |
+| Gnrblex | 117338 | [117338-gnrblex.json](./117338-gnrblex.json) |
 | GNU Chess | 194305 | [194305-gnu-chess.json](./194305-gnu-chess.json) |
 | GNU Go | 194306 | [194306-gnu-go.json](./194306-gnu-go.json) |
 | GNU Sudoku 64 | 264098 | [264098-gnu-sudoku-64.json](./264098-gnu-sudoku-64.json) |
