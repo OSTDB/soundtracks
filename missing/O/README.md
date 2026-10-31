@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
 | Obstruction | 107692 | [107692-obstruction.json](./107692-obstruction.json) |
+| Obstruction VR | 112017 | [112017-obstruction-vr.json](./112017-obstruction-vr.json) |
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
 | Obulis | 14856 | [14856-obulis.json](./14856-obulis.json) |
 | Obunga | 213225 | [213225-obunga.json](./213225-obunga.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohayo Gianthook!: Monster Fishing Adventure | 422074 | [422074-ohayo-gianthook-monster-fishing-adventure.json](./422074-ohayo-gianthook-monster-fishing-adventure.json) |
 | Ohayou, Somnia. | 395359 | [395359-ohayou-somnia.json](./395359-ohayou-somnia.json) |
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
+| Ohenro-San: Hosshin no Dojo | 111996 | [111996-ohenro-san-hosshin-no-dojo.json](./111996-ohenro-san-hosshin-no-dojo.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
 | OHM 2 | 273571 | [273571-ohm-2.json](./273571-ohm-2.json) |
