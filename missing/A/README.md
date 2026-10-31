@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hollow Heartbeat | 389012 | [389012-a-hollow-heartbeat.json](./389012-a-hollow-heartbeat.json) |
 | A Home Far Away | 124617 | [124617-a-home-far-away.json](./124617-a-home-far-away.json) |
 | A Home of Quiet | 421834 | [421834-a-home-of-quiet.json](./421834-a-home-of-quiet.json) |
+| A Homie Adventure | 123190 | [123190-a-homie-adventure.json](./123190-a-homie-adventure.json) |
 | A Horrible Evil Spider Head Love Story | 179040 | [179040-a-horrible-evil-spider-head-love-story.json](./179040-a-horrible-evil-spider-head-love-story.json) |
 | A Horror Game for Cowards | 312677 | [312677-a-horror-game-for-cowards.json](./312677-a-horror-game-for-cowards.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
@@ -6749,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
 | Alluring Neon Night Town | 417270 | [417270-alluring-neon-night-town.json](./417270-alluring-neon-night-town.json) |
 | Alluris | 118627 | [118627-alluris.json](./118627-alluris.json) |
+| Alluvium | 123209 | [123209-alluvium.json](./123209-alluvium.json) |
 | Allwheel.online | 114118 | [114118-allwheel-online.json](./114118-allwheel-online.json) |
 | Ally Gory: The Great Mushroom Hunt | 171998 | [171998-ally-gory-the-great-mushroom-hunt.json](./171998-ally-gory-the-great-mushroom-hunt.json) |
 | Ally Me or Vore | 397302 | [397302-ally-me-or-vore.json](./397302-ally-me-or-vore.json) |
@@ -16056,6 +16058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
 | Avoid Them: Breakthrough Gaming Arcade - Challenge Mode Edition | 207050 | [207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json](./207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json) |
+| Avoid: Classic Edition | 123227 | [123227-avoid-classic-edition.json](./123227-avoid-classic-edition.json) |
 | Avoid: Sensory Overload | 17169 | [17169-avoid-sensory-overload.json](./17169-avoid-sensory-overload.json) |
 | Avoid! | 160045 | [160045-avoid.json](./160045-avoid.json) |
 | Avoider | 57056 | [57056-avoider.json](./57056-avoider.json) |
@@ -16358,6 +16361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aydox | 90819 | [90819-aydox.json](./90819-aydox.json) |
 | Aye Aye Captain | 401886 | [401886-aye-aye-captain.json](./401886-aye-aye-captain.json) |
+| Aye Captain! | 123210 | [123210-aye-captain.json](./123210-aye-captain.json) |
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
 | Aye! My Liege | 397390 | [397390-aye-my-liege.json](./397390-aye-my-liege.json) |
