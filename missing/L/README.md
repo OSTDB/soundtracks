@@ -9009,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Outpost | 317545 | [317545-lunar-outpost.json](./317545-lunar-outpost.json) |
 | Lunar Pulse | 399416 | [399416-lunar-pulse.json](./399416-lunar-pulse.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
+| Lunar Racing Championship | 67855 | [67855-lunar-racing-championship.json](./67855-lunar-racing-championship.json) |
 | Lunar Radiation | 114671 | [114671-lunar-radiation.json](./114671-lunar-radiation.json) |
 | Lunar Remastered Collection | 317623 | [317623-lunar-remastered-collection.json](./317623-lunar-remastered-collection.json) |
 | Lunar Rescue | 40007 | [40007-lunar-rescue.json](./40007-lunar-rescue.json) |
