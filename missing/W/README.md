@@ -4754,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
 | Wild Life | 260862 | [260862-wild-life.json](./260862-wild-life.json) |
 | Wild Life: Rescue | 182058 | [182058-wild-life-rescue.json](./182058-wild-life-rescue.json) |
+| Wild Light | 74659 | [74659-wild-light.json](./74659-wild-light.json) |
 | Wild Lotus | 216835 | [216835-wild-lotus.json](./216835-wild-lotus.json) |
 | Wild Lynx Jigsaw | 357967 | [357967-wild-lynx-jigsaw.json](./357967-wild-lynx-jigsaw.json) |
 | Wild Lynx Jigsaw: Expansion Pack 1 | 357968 | [357968-wild-lynx-jigsaw-expansion-pack-1.json](./357968-wild-lynx-jigsaw-expansion-pack-1.json) |
