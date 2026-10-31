@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Beat | 21532 | [21532-tank-beat.json](./21532-tank-beat.json) |
 | Tank Blazers | 113155 | [113155-tank-blazers.json](./113155-tank-blazers.json) |
 | Tank Brawl | 33648 | [33648-tank-brawl.json](./33648-tank-brawl.json) |
+| Tank Brawl 2: Armor Fury | 83991 | [83991-tank-brawl-2-armor-fury.json](./83991-tank-brawl-2-armor-fury.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
 | Tank Brigade | 40617 | [40617-tank-brigade.json](./40617-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
@@ -12470,6 +12471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mega FMV Bundle | 243800 | [243800-the-mega-fmv-bundle.json](./243800-the-mega-fmv-bundle.json) |
 | The Meldstorm | 129002 | [129002-the-meldstorm.json](./129002-the-meldstorm.json) |
 | The Melody of Grisaia | 32910 | [32910-the-melody-of-grisaia.json](./32910-the-melody-of-grisaia.json) |
+| the Melody of Iris | 83976 | [83976-the-melody-of-iris.json](./83976-the-melody-of-iris.json) |
 | The Melting Apartment | 278282 | [278282-the-melting-apartment.json](./278282-the-melting-apartment.json) |
 | The Membrane | 403012 | [403012-the-membrane.json](./403012-the-membrane.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
@@ -18218,6 +18220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirstchasm | 278566 | [278566-thirstchasm.json](./278566-thirstchasm.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
 | Thirsty Bird | 403784 | [403784-thirsty-bird.json](./403784-thirsty-bird.json) |
+| Thirsty Bubble | 84004 | [84004-thirsty-bubble.json](./84004-thirsty-bubble.json) |
 | Thirsty Heroes | 156885 | [156885-thirsty-heroes.json](./156885-thirsty-heroes.json) |
 | Thirsty Nellan | 70111 | [70111-thirsty-nellan.json](./70111-thirsty-nellan.json) |
 | Thirsty Princess | 381575 | [381575-thirsty-princess.json](./381575-thirsty-princess.json) |
@@ -22466,6 +22469,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Mirage Sessions #FE | 5321 | [5321-tokyo-mirage-sessions-fe.json](./5321-tokyo-mirage-sessions-fe.json) |
 | Tokyo Mirage Sessions #FE: 3 Support Quest Set | 333630 | [333630-tokyo-mirage-sessions-fe-3-support-quest-set.json](./333630-tokyo-mirage-sessions-fe-3-support-quest-set.json) |
+| Tokyo Mirage Sessions #FE: Fortissimo Edition | 83792 | [83792-tokyo-mirage-sessions-fe-fortissimo-edition.json](./83792-tokyo-mirage-sessions-fe-fortissimo-edition.json) |
+| Tokyo Mirage Sessions #FE: Special Edition | 83791 | [83791-tokyo-mirage-sessions-fe-special-edition.json](./83791-tokyo-mirage-sessions-fe-special-edition.json) |
 | Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan | 67287 | [67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json](./67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json) |
 | Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
 | Tokyo Necro | 60484 | [60484-tokyo-necro.json](./60484-tokyo-necro.json) |
