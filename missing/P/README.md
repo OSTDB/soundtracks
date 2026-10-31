@@ -4417,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petch | 419876 | [419876-petch.json](./419876-petch.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Pete | 409638 | [409638-pete.json](./409638-pete.json) |
+| Pete Rose Baseball | 117320 | [117320-pete-rose-baseball.json](./117320-pete-rose-baseball.json) |
 | Pete Rose Baseball | 40623 | [40623-pete-rose-baseball.json](./40623-pete-rose-baseball.json) |
 | Pete Sampras Tennis | 368901 | [368901-pete-sampras-tennis.json](./368901-pete-sampras-tennis.json) |
 | Pete Sampras Tennis 96 | 70943 | [70943-pete-sampras-tennis-96.json](./70943-pete-sampras-tennis-96.json) |
@@ -14379,6 +14380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kunlun | 368051 | [368051-project-kunlun.json](./368051-project-kunlun.json) |
 | Project Kyzen | 312960 | [312960-project-kyzen.json](./312960-project-kyzen.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
+| Project Lambda | 117291 | [117291-project-lambda.json](./117291-project-lambda.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
 | Project Legion | 297189 | [297189-project-legion.json](./297189-project-legion.json) |
