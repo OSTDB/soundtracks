@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast: Casters of Chaos | 357153 | [357153-fast-casters-of-chaos.json](./357153-fast-casters-of-chaos.json) |
 | Fast:Run | 320392 | [320392-fast-run.json](./320392-fast-run.json) |
 | Fastar: Fantasy Fairy Story | 233468 | [233468-fastar-fantasy-fairy-story.json](./233468-fastar-fantasy-fairy-story.json) |
+| Fastar! | 78425 | [78425-fastar.json](./78425-fastar.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
 | FastCrawl | 77229 | [77229-fastcrawl.json](./77229-fastcrawl.json) |
@@ -8732,6 +8733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force Seven | 47232 | [47232-force-seven.json](./47232-force-seven.json) |
 | ForceBerg | 187238 | [187238-forceberg.json](./187238-forceberg.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
+| Forced Alliance: The Glarious Mandate | 78417 | [78417-forced-alliance-the-glarious-mandate.json](./78417-forced-alliance-the-glarious-mandate.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
 | Forced Showdown | 14578 | [14578-forced-showdown.json](./14578-forced-showdown.json) |
 | Forced Showdown: Deluxe Content | 51810 | [51810-forced-showdown-deluxe-content.json](./51810-forced-showdown-deluxe-content.json) |
@@ -11838,6 +11840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fuck Typing | 79958 | [79958-fuck-typing.json](./79958-fuck-typing.json) |
 | Fuck Who You Desire | 393382 | [393382-fuck-who-you-desire.json](./393382-fuck-who-you-desire.json) |
+| Fuck You | 78408 | [78408-fuck-you.json](./78408-fuck-you.json) |
 | Fuck You Witch | 293818 | [293818-fuck-you-witch.json](./293818-fuck-you-witch.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
