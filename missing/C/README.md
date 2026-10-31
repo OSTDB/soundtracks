@@ -4907,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cesspool | 186096 | [186096-cesspool.json](./186096-cesspool.json) |
 | Cesta bojovníka | 391800 | [391800-cesta-bojovnika.json](./391800-cesta-bojovnika.json) |
 | Ceteris Paribus | 244136 | [244136-ceteris-paribus.json](./244136-ceteris-paribus.json) |
+| Cetetorius | 121965 | [121965-cetetorius.json](./121965-cetetorius.json) |
 | Ceuswark Defenders | 419201 | [419201-ceuswark-defenders.json](./419201-ceuswark-defenders.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | CFL Football '99 | 78671 | [78671-cfl-football-99.json](./78671-cfl-football-99.json) |
@@ -7444,6 +7445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
 | Chromehounds | 6937 | [6937-chromehounds.json](./6937-chromehounds.json) |
 | ChromeRivals | 179983 | [179983-chromerivals.json](./179983-chromerivals.json) |
+| Chromium B.S.U. | 121935 | [121935-chromium-b-s-u.json](./121935-chromium-b-s-u.json) |
 | Chromium Man Clicker | 334834 | [334834-chromium-man-clicker.json](./334834-chromium-man-clicker.json) |
 | Chromo XY | 103558 | [103558-chromo-xy.json](./103558-chromo-xy.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
@@ -14375,6 +14377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craftica | 413011 | [413011-craftica.json](./413011-craftica.json) |
 | Craftimals: Build to the Sun | 65250 | [65250-craftimals-build-to-the-sun.json](./65250-craftimals-build-to-the-sun.json) |
 | Crafting and Building: Exploration Craft | 99108 | [99108-crafting-and-building-exploration-craft.json](./99108-crafting-and-building-exploration-craft.json) |
+| Crafting Block World | 121908 | [121908-crafting-block-world.json](./121908-crafting-block-world.json) |
 | Crafting Block World: Magic Dungeons Adventure | 254922 | [254922-crafting-block-world-magic-dungeons-adventure.json](./254922-crafting-block-world-magic-dungeons-adventure.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
 | Crafting Dead | 55517 | [55517-crafting-dead.json](./55517-crafting-dead.json) |
@@ -15472,6 +15475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Opera Fandisk: The Caterpillar Candids | 330602 | [330602-crime-opera-fandisk-the-caterpillar-candids.json](./330602-crime-opera-fandisk-the-caterpillar-candids.json) |
 | Crime Opera II: The Floodgate Effect | 330467 | [330467-crime-opera-ii-the-floodgate-effect.json](./330467-crime-opera-ii-the-floodgate-effect.json) |
+| Crime Opera: The Butterfly Effect | 121921 | [121921-crime-opera-the-butterfly-effect.json](./121921-crime-opera-the-butterfly-effect.json) |
 | Crime or Punishment | 294001 | [294001-crime-or-punishment.json](./294001-crime-or-punishment.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
 | Crime Patrol | 5373 | [5373-crime-patrol.json](./5373-crime-patrol.json) |
