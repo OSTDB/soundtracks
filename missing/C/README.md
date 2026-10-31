@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Stripe: Minarai Tenshi | 283327 | [283327-candy-stripe-minarai-tenshi.json](./283327-candy-stripe-minarai-tenshi.json) |
 | Candy Sugar Drop | 233475 | [233475-candy-sugar-drop.json](./233475-candy-sugar-drop.json) |
 | Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
+| Candy Toys | 77762 | [77762-candy-toys.json](./77762-candy-toys.json) |
 | Candy Trail | 359335 | [359335-candy-trail.json](./359335-candy-trail.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
@@ -10286,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
+| Coding for Carrots | 77733 | [77733-coding-for-carrots.json](./77733-coding-for-carrots.json) |
 | Coding With Doc | 372594 | [372594-coding-with-doc.json](./372594-coding-with-doc.json) |
 | CodStar | 316147 | [316147-codstar.json](./316147-codstar.json) |
 | Cody's Nightmare | 260526 | [260526-codys-nightmare.json](./260526-codys-nightmare.json) |
@@ -12394,6 +12396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the New World: Deluxe Edition | 2616 | [2616-conquest-of-the-new-world-deluxe-edition.json](./2616-conquest-of-the-new-world-deluxe-edition.json) |
 | Conquest of the Realms | 422488 | [422488-conquest-of-the-realms.json](./422488-conquest-of-the-realms.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
+| Conquest Online | 77718 | [77718-conquest-online.json](./77718-conquest-online.json) |
 | Conquest Tactics: Realm of Sin | 322448 | [322448-conquest-tactics-realm-of-sin.json](./322448-conquest-tactics-realm-of-sin.json) |
 | Conquest: Frontier Wars | 11278 | [11278-conquest-frontier-wars.json](./11278-conquest-frontier-wars.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
@@ -14833,6 +14836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity Evolution | 417288 | [417288-crash-twinsanity-evolution.json](./417288-crash-twinsanity-evolution.json) |
 | Crash vs. Spyro Racing | 269687 | [269687-crash-vs-spyro-racing.json](./269687-crash-vs-spyro-racing.json) |
 | Crash Wheels | 31657 | [31657-crash-wheels.json](./31657-crash-wheels.json) |
+| Crash World | 77711 | [77711-crash-world.json](./77711-crash-world.json) |
 | Crash Zone | 359746 | [359746-crash-zone.json](./359746-crash-zone.json) |
 | Crash-Course Domo | 68061 | [68061-crash-course-domo.json](./68061-crash-course-domo.json) |
 | Crash-Land Fantasy | 309481 | [309481-crash-land-fantasy.json](./309481-crash-land-fantasy.json) |
@@ -16844,6 +16848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptograms | 116955 | [116955-cryptograms.json](./116955-cryptograms.json) |
 | Cryptographer | 120052 | [120052-cryptographer.json](./120052-cryptographer.json) |
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
+| CryptoKitties | 77715 | [77715-cryptokitties.json](./77715-cryptokitties.json) |
 | Cryptoman | 133040 | [133040-cryptoman.json](./133040-cryptoman.json) |
 | CryptoMania: Movie Quotes | 271693 | [271693-cryptomania-movie-quotes.json](./271693-cryptomania-movie-quotes.json) |
 | CryptoMines | 176139 | [176139-cryptomines.json](./176139-cryptomines.json) |
