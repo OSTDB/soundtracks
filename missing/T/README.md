@@ -22612,6 +22612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell Trilogy HD | 20573 | [20573-tom-clancys-splinter-cell-trilogy-hd.json](./20573-tom-clancys-splinter-cell-trilogy-hd.json) |
 | Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition | 44568 | [44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json](./44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Digital Deluxe Edition | 53944 | [53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json](./53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json) |
+| Tom Clancy's Splinter Cell: Blacklist - Ultimate Edition | 99926 | [99926-tom-clancys-splinter-cell-blacklist-ultimate-edition.json](./99926-tom-clancys-splinter-cell-blacklist-ultimate-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Upper Echelon Edition | 76983 | [76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json](./76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 243020 | [243020-tom-clancys-splinter-cell-chaos-theory.json](./243020-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 243021 | [243021-tom-clancys-splinter-cell-chaos-theory.json](./243021-tom-clancys-splinter-cell-chaos-theory.json) |
@@ -24920,6 +24921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Kingdom 3 | 189897 | [189897-toy-kingdom-3.json](./189897-toy-kingdom-3.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
+| Toy Party: Match 3 Hexa Blast! | 99920 | [99920-toy-party-match-3-hexa-blast.json](./99920-toy-party-match-3-hexa-blast.json) |
 | Toy Racer | 46369 | [46369-toy-racer.json](./46369-toy-racer.json) |
 | Toy Raid | 68254 | [68254-toy-raid.json](./68254-toy-raid.json) |
 | Toy Road Constructor | 111601 | [111601-toy-road-constructor.json](./111601-toy-road-constructor.json) |
@@ -25335,6 +25337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
+| Train Driver Journey 6 - Highland Valley Industries | 99922 | [99922-train-driver-journey-6-highland-valley-industries.json](./99922-train-driver-journey-6-highland-valley-industries.json) |
 | Train Driver Journey 7 - Rosworth Vale | 96597 | [96597-train-driver-journey-7-rosworth-vale.json](./96597-train-driver-journey-7-rosworth-vale.json) |
 | Train Driver Journey 8 - Winter in the Alps | 89759 | [89759-train-driver-journey-8-winter-in-the-alps.json](./89759-train-driver-journey-8-winter-in-the-alps.json) |
 | Train Driver Simulator | 89056 | [89056-train-driver-simulator.json](./89056-train-driver-simulator.json) |
@@ -28806,6 +28809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
+| TruckSimulation 16 | 99937 | [99937-trucksimulation-16.json](./99937-trucksimulation-16.json) |
 | Trucky McTruckface | 399132 | [399132-trucky-mctruckface.json](./399132-trucky-mctruckface.json) |
 | Truckz Racing | 301515 | [301515-truckz-racing.json](./301515-truckz-racing.json) |
 | Truckzilla: Monster Truck Mega Ramp Mania | 269051 | [269051-truckzilla-monster-truck-mega-ramp-mania.json](./269051-truckzilla-monster-truck-mega-ramp-mania.json) |
