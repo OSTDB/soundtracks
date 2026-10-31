@@ -3133,6 +3133,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
+| Castle Conqueror Defender | 84592 | [84592-castle-conqueror-defender.json](./84592-castle-conqueror-defender.json) |
+| Castle Conqueror EX | 84591 | [84591-castle-conqueror-ex.json](./84591-castle-conqueror-ex.json) |
+| Castle Conqueror: Revolution | 84593 | [84593-castle-conqueror-revolution.json](./84593-castle-conqueror-revolution.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
 | Castle Craft: World War | 175031 | [175031-castle-craft-world-war.json](./175031-castle-craft-world-war.json) |
@@ -3588,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Food | 103231 | [103231-cat-food.json](./103231-cat-food.json) |
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
 | Cat Fred Evil Pet | 272860 | [272860-cat-fred-evil-pet.json](./272860-cat-fred-evil-pet.json) |
+| Cat Frenzy | 84590 | [84590-cat-frenzy.json](./84590-cat-frenzy.json) |
 | Cat From Hell 2 | 369364 | [369364-cat-from-hell-2.json](./369364-cat-from-hell-2.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
 | Cat Fu Mi | 109388 | [109388-cat-fu-mi.json](./109388-cat-fu-mi.json) |
@@ -4152,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Soup: Magic Recipe | 399748 | [399748-cats-and-soup-magic-recipe.json](./399748-cats-and-soup-magic-recipe.json) |
 | Cats Academy | 141766 | [141766-cats-academy.json](./141766-cats-academy.json) |
 | Cats and Cows | 377933 | [377933-cats-and-cows.json](./377933-cats-and-cows.json) |
+| Cats and Dogs 3D: Pets at Play | 84589 | [84589-cats-and-dogs-3d-pets-at-play.json](./84589-cats-and-dogs-3d-pets-at-play.json) |
 | Cats and Food 4: New Year | 169775 | [169775-cats-and-food-4-new-year.json](./169775-cats-and-food-4-new-year.json) |
 | Cats and Hats | 420767 | [420767-cats-and-hats.json](./420767-cats-and-hats.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
@@ -4981,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chagunitzu | 79586 | [79586-chagunitzu.json](./79586-chagunitzu.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
 | Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
+| Chain Blaster | 84578 | [84578-chain-blaster.json](./84578-chain-blaster.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Car Stunt Simulator: 3D Extreme Highway Car Driving Games | 233680 | [233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json](./233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
@@ -5710,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | Chat Wars! | 295144 | [295144-chat-wars.json](./295144-chat-wars.json) |
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
+| Chat-A-Lot | 84577 | [84577-chat-a-lot.json](./84577-chat-a-lot.json) |
 | ChatAid | 397600 | [397600-chataid.json](./397600-chataid.json) |
 | Chatan Yarakuu Shanku: The Karate Tournament | 62006 | [62006-chatan-yarakuu-shanku-the-karate-tournament.json](./62006-chatan-yarakuu-shanku-the-karate-tournament.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
