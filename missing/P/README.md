@@ -3748,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Blood | 214912 | [214912-penny-blood.json](./214912-penny-blood.json) |
 | Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
+| Penny Dell Jumbo Crosswords 3 | 99324 | [99324-penny-dell-jumbo-crosswords-3.json](./99324-penny-dell-jumbo-crosswords-3.json) |
 | Penny Dell Sudoku | 310702 | [310702-penny-dell-sudoku.json](./310702-penny-dell-sudoku.json) |
 | Penny Dragon | 183195 | [183195-penny-dragon.json](./183195-penny-dragon.json) |
 | Penny Dreadfuls: Sweeney Todd - Premium Edition | 208877 | [208877-penny-dreadfuls-sweeney-todd-premium-edition.json](./208877-penny-dreadfuls-sweeney-todd-premium-edition.json) |
@@ -7162,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Anarchy Online | 137974 | [137974-pixel-anarchy-online.json](./137974-pixel-anarchy-online.json) |
 | Pixel Aquarium | 400536 | [400536-pixel-aquarium.json](./400536-pixel-aquarium.json) |
 | Pixel Arcade | 319281 | [319281-pixel-arcade.json](./319281-pixel-arcade.json) |
+| Pixel Ars of Perfect Frontier | 99353 | [99353-pixel-ars-of-perfect-frontier.json](./99353-pixel-ars-of-perfect-frontier.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Art Monster: Color by Number | 391688 | [391688-pixel-art-monster-color-by-number.json](./391688-pixel-art-monster-color-by-number.json) |
