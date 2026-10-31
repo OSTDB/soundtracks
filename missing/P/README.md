@@ -12868,6 +12868,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride GP Grand Prix 2003 | 67048 | [67048-pride-gp-grand-prix-2003.json](./67048-pride-gp-grand-prix-2003.json) |
 | Pride of Eden | 188233 | [188233-pride-of-eden.json](./188233-pride-of-eden.json) |
 | Pride of Nations | 2068 | [2068-pride-of-nations.json](./2068-pride-of-nations.json) |
+| Pride of Nations: American Civil War 1862 | 119951 | [119951-pride-of-nations-american-civil-war-1862.json](./119951-pride-of-nations-american-civil-war-1862.json) |
+| Pride of Nations: Spanish-American War 1898 | 119950 | [119950-pride-of-nations-spanish-american-war-1898.json](./119950-pride-of-nations-spanish-american-war-1898.json) |
+| Pride of Nations: The Franco-Prussian War 1870 | 119952 | [119952-pride-of-nations-the-franco-prussian-war-1870.json](./119952-pride-of-nations-the-franco-prussian-war-1870.json) |
+| Pride of Nations: The Scramble for Africa | 119949 | [119949-pride-of-nations-the-scramble-for-africa.json](./119949-pride-of-nations-the-scramble-for-africa.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Pride Run | 104131 | [104131-pride-run.json](./104131-pride-run.json) |
 | Priest | 99688 | [99688-priest.json](./99688-priest.json) |
@@ -13015,6 +13019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primula | 216952 | [216952-primula.json](./216952-primula.json) |
 | Primus Chess | 87546 | [87546-primus-chess.json](./87546-primus-chess.json) |
 | Primus Numen | 381103 | [381103-primus-numen.json](./381103-primus-numen.json) |
+| Primus Vita: Artemis | 119973 | [119973-primus-vita-artemis.json](./119973-primus-vita-artemis.json) |
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
 | Prince Adventures | 293855 | [293855-prince-adventures.json](./293855-prince-adventures.json) |
