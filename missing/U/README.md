@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US Presidents Quiz Tutor | 90841 | [90841-us-presidents-quiz-tutor.json](./90841-us-presidents-quiz-tutor.json) |
 | US School Simulator Game | 296766 | [296766-us-school-simulator-game.json](./296766-us-school-simulator-game.json) |
 | US Spy: Mission in Russia | 129260 | [129260-us-spy-mission-in-russia.json](./129260-us-spy-mission-in-russia.json) |
+| US States For Kids | 102498 | [102498-us-states-for-kids.json](./102498-us-states-for-kids.json) |
 | Us vs. Them | 232014 | [232014-us-vs-them.json](./232014-us-vs-them.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
 | US War Trivia | 87561 | [87561-us-war-trivia.json](./87561-us-war-trivia.json) |
