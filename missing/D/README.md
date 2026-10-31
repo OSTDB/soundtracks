@@ -8986,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
 | Directive Nine | 157481 | [157481-directive-nine.json](./157481-directive-nine.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
+| Director of Football | 71856 | [71856-director-of-football.json](./71856-director-of-football.json) |
 | Directorate Novitiate | 330025 | [330025-directorate-novitiate.json](./330025-directorate-novitiate.json) |
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
@@ -9222,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Liberation - GOG Edition | 219776 | [219776-disciples-liberation-gog-edition.json](./219776-disciples-liberation-gog-edition.json) |
 | Disciples: Liberation - Paths to Madness | 194259 | [194259-disciples-liberation-paths-to-madness.json](./194259-disciples-liberation-paths-to-madness.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
+| Discipline: Teikoku no Tanjou | 71884 | [71884-discipline-teikoku-no-tanjou.json](./71884-discipline-teikoku-no-tanjou.json) |
 | Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
 | Disco Ball | 149159 | [149159-disco-ball.json](./149159-disco-ball.json) |
 | Disco Bear | 102064 | [102064-disco-bear.json](./102064-disco-bear.json) |
@@ -9618,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire | 248624 | [248624-disneys-atlantis-the-lost-empire.json](./248624-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 248625 | [248625-disneys-atlantis-the-lost-empire.json](./248625-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
+| Disney's Atlantis: The Lost Empire - Search for the Journal | 71876 | [71876-disneys-atlantis-the-lost-empire-search-for-the-journal.json](./71876-disneys-atlantis-the-lost-empire-search-for-the-journal.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
 | Disney's Beauty and the Beast | 198696 | [198696-disneys-beauty-and-the-beast.json](./198696-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast | 280811 | [280811-disneys-beauty-and-the-beast.json](./280811-disneys-beauty-and-the-beast.json) |
@@ -11121,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominion: Prosperity - 1st Edition | 203948 | [203948-dominion-prosperity-1st-edition.json](./203948-dominion-prosperity-1st-edition.json) |
 | Dominion: Renaissance | 191098 | [191098-dominion-renaissance.json](./191098-dominion-renaissance.json) |
 | Dominion: Seaside | 191111 | [191111-dominion-seaside.json](./191111-dominion-seaside.json) |
+| Dominions 2: The Ascension Wars | 71837 | [71837-dominions-2-the-ascension-wars.json](./71837-dominions-2-the-ascension-wars.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
 | Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
 | Dominions 5: Warriors of the Faith | 77769 | [77769-dominions-5-warriors-of-the-faith.json](./77769-dominions-5-warriors-of-the-faith.json) |
