@@ -15892,6 +15892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: The Price of Immortality - Collector's Edition | 368892 | [368892-puppetshow-the-price-of-immortality-collectors-edition.json](./368892-puppetshow-the-price-of-immortality-collectors-edition.json) |
 | Puppetsite | 417940 | [417940-puppetsite.json](./417940-puppetsite.json) |
 | PuppetsVR | 56872 | [56872-puppetsvr.json](./56872-puppetsvr.json) |
+| Puppies Out | 110009 | [110009-puppies-out.json](./110009-puppies-out.json) |
 | Puppies vs Undead | 86359 | [86359-puppies-vs-undead.json](./86359-puppies-vs-undead.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Puppis & Choler | 97522 | [97522-puppis-and-choler.json](./97522-puppis-and-choler.json) |
