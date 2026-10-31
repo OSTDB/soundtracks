@@ -10649,6 +10649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeways | 68281 | [68281-freeways.json](./68281-freeways.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | FreeWorld | 300503 | [300503-freeworld.json](./300503-freeworld.json) |
+| Freez' Bees | 92781 | [92781-freez-bees.json](./92781-freez-bees.json) |
 | Freezai's Mountain | 345358 | [345358-freezais-mountain.json](./345358-freezais-mountain.json) |
 | Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
 | Freeze Climbing | 28596 | [28596-freeze-climbing.json](./28596-freeze-climbing.json) |
