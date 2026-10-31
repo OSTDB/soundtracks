@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Inside | 297089 | [297089-enemy-inside.json](./297089-enemy-inside.json) |
 | Enemy Metal | 296367 | [296367-enemy-metal.json](./296367-enemy-metal.json) |
 | Enemy Mind | 17157 | [17157-enemy-mind.json](./17157-enemy-mind.json) |
+| Enemy Nations | 70174 | [70174-enemy-nations.json](./70174-enemy-nations.json) |
 | Enemy of the State | 204545 | [204545-enemy-of-the-state.json](./204545-enemy-of-the-state.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Enemy Remains | 144718 | [144718-enemy-remains.json](./144718-enemy-remains.json) |
@@ -6318,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
 | EverQuest: Terror of Luclin | 191366 | [191366-everquest-terror-of-luclin.json](./191366-everquest-terror-of-luclin.json) |
 | EverQuest: The Broken Mirror | 13184 | [13184-everquest-the-broken-mirror.json](./13184-everquest-the-broken-mirror.json) |
+| EverQuest: The Buried Sea | 70262 | [70262-everquest-the-buried-sea.json](./70262-everquest-the-buried-sea.json) |
 | EverQuest: The Darkened Sea | 61170 | [61170-everquest-the-darkened-sea.json](./61170-everquest-the-darkened-sea.json) |
 | EverQuest: The Legacy of Ykesha | 79688 | [79688-everquest-the-legacy-of-ykesha.json](./79688-everquest-the-legacy-of-ykesha.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
