@@ -4259,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
 | Beach Bike Water: Challenge Ra | 107671 | [107671-beach-bike-water-challenge-ra.json](./107671-beach-bike-water-challenge-ra.json) |
 | Beach Blanket Volleyball | 362416 | [362416-beach-blanket-volleyball.json](./362416-beach-blanket-volleyball.json) |
+| Beach Body Bros | 122581 | [122581-beach-body-bros.json](./122581-beach-body-bros.json) |
 | Beach Boing | 236987 | [236987-beach-boing.json](./236987-beach-boing.json) |
 | Beach Bounce | 35698 | [35698-beach-bounce.json](./35698-beach-bounce.json) |
 | Beach Bounce Remastered | 22216 | [22216-beach-bounce-remastered.json](./22216-beach-bounce-remastered.json) |
@@ -8872,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastroid | 390803 | [390803-blastroid.json](./390803-blastroid.json) |
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
 | Blastronaut | 145877 | [145877-blastronaut.json](./145877-blastronaut.json) |
+| Blastworld | 122603 | [122603-blastworld.json](./122603-blastworld.json) |
 | Blasty Bubs | 56401 | [56401-blasty-bubs.json](./56401-blasty-bubs.json) |
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
 | Blau | 402453 | [402453-blau.json](./402453-blau.json) |
@@ -13801,6 +13803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
 | Breekha | 278274 | [278274-breekha.json](./278274-breekha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
+| Breeza Budgie Bill | 122608 | [122608-breeza-budgie-bill.json](./122608-breeza-budgie-bill.json) |
 | Breeze | 211059 | [211059-breeze.json](./211059-breeze.json) |
 | Breeze Contest | 321848 | [321848-breeze-contest.json](./321848-breeze-contest.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
@@ -14432,6 +14435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broomball | 32147 | [32147-broomball.json](./32147-broomball.json) |
 | Broombot Battlegrounds | 235174 | [235174-broombot-battlegrounds.json](./235174-broombot-battlegrounds.json) |
 | Broomstick Exorcist | 344497 | [344497-broomstick-exorcist.json](./344497-broomstick-exorcist.json) |
+| Broomstick League | 122619 | [122619-broomstick-league.json](./122619-broomstick-league.json) |
 | BroomSweeper | 345662 | [345662-broomsweeper.json](./345662-broomsweeper.json) |
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
