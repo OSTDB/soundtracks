@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Mahjong | 131144 | [131144-v-mahjong.json](./131144-v-mahjong.json) |
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
 | V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
+| V Prototype | 122613 | [122613-v-prototype.json](./122613-v-prototype.json) |
 | V Rising: Dracula's Relics Pack | 226891 | [226891-v-rising-draculas-relics-pack.json](./226891-v-rising-draculas-relics-pack.json) |
 | V Rising: Founder's Pack - Eldest Bloodline | 297468 | [297468-v-rising-founders-pack-eldest-bloodline.json](./297468-v-rising-founders-pack-eldest-bloodline.json) |
 | V Rising: Haunted Nights Castle Pack | 272217 | [272217-v-rising-haunted-nights-castle-pack.json](./272217-v-rising-haunted-nights-castle-pack.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versailles Mysteries - The Royal Spy | 53931 | [53931-versailles-mysteries-the-royal-spy.json](./53931-versailles-mysteries-the-royal-spy.json) |
 | Versailles Mysteries 2: The Royal Spy | 11033 | [11033-versailles-mysteries-2-the-royal-spy.json](./11033-versailles-mysteries-2-the-royal-spy.json) |
 | Versailles Mysteries: Oscar and the Athanor | 11034 | [11034-versailles-mysteries-oscar-and-the-athanor.json](./11034-versailles-mysteries-oscar-and-the-athanor.json) |
+| VersaillesVR \| the Palace is yours | 122598 | [122598-versaillesvr-the-palace-is-yours.json](./122598-versaillesvr-the-palace-is-yours.json) |
 | Versalis | 365095 | [365095-versalis.json](./365095-versalis.json) |
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
 | Verse of Birth | 416561 | [416561-verse-of-birth.json](./416561-verse-of-birth.json) |
@@ -1918,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers 3 CE | 104452 | [104452-viking-brothers-3-ce.json](./104452-viking-brothers-3-ce.json) |
 | Viking Brothers III | 99458 | [99458-viking-brothers-iii.json](./99458-viking-brothers-iii.json) |
 | Viking Brothers IV | 99436 | [99436-viking-brothers-iv.json](./99436-viking-brothers-iv.json) |
+| Viking Brothers VI | 122588 | [122588-viking-brothers-vi.json](./122588-viking-brothers-vi.json) |
 | Viking Brothers VI: Collector's Edition | 416149 | [416149-viking-brothers-vi-collectors-edition.json](./416149-viking-brothers-vi-collectors-edition.json) |
 | Viking Butcher | 137278 | [137278-viking-butcher.json](./137278-viking-butcher.json) |
 | Viking Chef: Feast Frenzy | 263076 | [263076-viking-chef-feast-frenzy.json](./263076-viking-chef-feast-frenzy.json) |
