@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Games 5-in-1 Vol. 7 | 409803 | [409803-one-button-games-5-in-1-vol-7.json](./409803-one-button-games-5-in-1-vol-7.json) |
 | One Button Ninja Mayhem! | 184702 | [184702-one-button-ninja-mayhem.json](./184702-one-button-ninja-mayhem.json) |
 | One Button Nipple Golf | 176769 | [176769-one-button-nipple-golf.json](./176769-one-button-nipple-golf.json) |
+| One Button Travel | 113980 | [113980-one-button-travel.json](./113980-one-button-travel.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
 | One by One | 379645 | [379645-one-by-one.json](./379645-one-by-one.json) |
 | One By One | 181139 | [181139-one-by-one.json](./181139-one-by-one.json) |
@@ -4805,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
 | Outlast: Trinity | 28230 | [28230-outlast-trinity.json](./28230-outlast-trinity.json) |
 | Outlast: Whistleblower | 9223 | [9223-outlast-whistleblower.json](./9223-outlast-whistleblower.json) |
+| Outlaw | 113994 | [113994-outlaw.json](./113994-outlaw.json) |
 | Outlaw | 123065 | [123065-outlaw.json](./123065-outlaw.json) |
 | Outlaw 1997 | 148389 | [148389-outlaw-1997.json](./148389-outlaw-1997.json) |
 | Outlaw Chopper | 68018 | [68018-outlaw-chopper.json](./68018-outlaw-chopper.json) |
