@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
 | Unnecessary Evil | 176661 | [176661-unnecessary-evil.json](./176661-unnecessary-evil.json) |
 | Unnecessary Roughness | 79516 | [79516-unnecessary-roughness.json](./79516-unnecessary-roughness.json) |
+| Unnecessary Roughness '96 | 79515 | [79515-unnecessary-roughness-96.json](./79515-unnecessary-roughness-96.json) |
 | Unnecessary Roughness 95 | 47057 | [47057-unnecessary-roughness-95.json](./47057-unnecessary-roughness-95.json) |
 | UnNethack | 351140 | [351140-unnethack.json](./351140-unnethack.json) |
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
