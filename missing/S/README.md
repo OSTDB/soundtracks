@@ -11613,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slabs | 103812 | [103812-slabs.json](./103812-slabs.json) |
+| SlabWell | 117968 | [117968-slabwell.json](./117968-slabwell.json) |
 | SlabWell: The Quest For Kaktun's Alpaca | 124402 | [124402-slabwell-the-quest-for-kaktuns-alpaca.json](./124402-slabwell-the-quest-for-kaktuns-alpaca.json) |
 | Slack Off Master | 309420 | [309420-slack-off-master.json](./309420-slack-off-master.json) |
 | Slackball | 392905 | [392905-slackball.json](./392905-slackball.json) |
@@ -13082,6 +13083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smolitaire | 201994 | [201994-smolitaire.json](./201994-smolitaire.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smoop Can't Sleep! | 175847 | [175847-smoop-cant-sleep.json](./175847-smoop-cant-sleep.json) |
+| Smoosh! | 117990 | [117990-smoosh.json](./117990-smoosh.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
 | Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
 | Smooth Elevator | 184737 | [184737-smooth-elevator.json](./184737-smooth-elevator.json) |
@@ -17612,7 +17614,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20266,6 +20267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooks | 135717 | [135717-spooks.json](./135717-spooks.json) |
 | Spooks | 41137 | [41137-spooks.json](./41137-spooks.json) |
 | Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
+| Spooktective | 117953 | [117953-spooktective.json](./117953-spooktective.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookville: Cabin Escape | 291298 | [291298-spookville-cabin-escape.json](./291298-spookville-cabin-escape.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
@@ -26491,6 +26493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Quest | 33669 | [33669-sudoku-quest.json](./33669-sudoku-quest.json) |
 | Sudoku Quiz | 230706 | [230706-sudoku-quiz.json](./230706-sudoku-quiz.json) |
 | Sudoku Race | 267591 | [267591-sudoku-race.json](./267591-sudoku-race.json) |
+| Sudoku Relax | 117966 | [117966-sudoku-relax.json](./117966-sudoku-relax.json) |
 | Sudoku Relax 2 Summer Waves | 124064 | [124064-sudoku-relax-2-summer-waves.json](./124064-sudoku-relax-2-summer-waves.json) |
 | Sudoku Relax 3 Autumn Leaves | 125746 | [125746-sudoku-relax-3-autumn-leaves.json](./125746-sudoku-relax-3-autumn-leaves.json) |
 | Sudoku Relax 4 Winter Snow | 130041 | [130041-sudoku-relax-4-winter-snow.json](./130041-sudoku-relax-4-winter-snow.json) |
@@ -29231,6 +29234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Phantasy Fighters | 323101 | [323101-super-phantasy-fighters.json](./323101-super-phantasy-fighters.json) |
 | Super Phantom Cat | 90979 | [90979-super-phantom-cat.json](./90979-super-phantom-cat.json) |
 | Super Phantom Cat 2 | 89718 | [89718-super-phantom-cat-2.json](./89718-super-phantom-cat-2.json) |
+| Super Phantom Cat: Remake | 117965 | [117965-super-phantom-cat-remake.json](./117965-super-phantom-cat-remake.json) |
 | Super Pickleball Adventure | 329409 | [329409-super-pickleball-adventure.json](./329409-super-pickleball-adventure.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
