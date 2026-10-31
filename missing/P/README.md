@@ -4486,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
 | Pete's Peril | 215697 | [215697-petes-peril.json](./215697-petes-peril.json) |
 | Pete's World | 375575 | [375575-petes-world.json](./375575-petes-world.json) |
+| Peter and the Wolf | 72455 | [72455-peter-and-the-wolf.json](./72455-peter-and-the-wolf.json) |
 | Peter Beardsley's International Football | 15339 | [15339-peter-beardsleys-international-football.json](./15339-peter-beardsleys-international-football.json) |
 | Peter Flat's Inflatable Adventures | 356997 | [356997-peter-flats-inflatable-adventures.json](./356997-peter-flats-inflatable-adventures.json) |
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
@@ -5469,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
 | Pick Up | 94362 | [94362-pick-up.json](./94362-pick-up.json) |
 | Pick Up Pencils | 96444 | [96444-pick-up-pencils.json](./96444-pick-up-pencils.json) |
+| Pick up the Phone Booth and Die | 72463 | [72463-pick-up-the-phone-booth-and-die.json](./72463-pick-up-the-phone-booth-and-die.json) |
 | Pick Your Poison | 126789 | [126789-pick-your-poison.json](./126789-pick-your-poison.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
@@ -5803,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon Ascent | 179842 | [179842-pigeon-ascent.json](./179842-pigeon-ascent.json) |
 | Pigeon Coo-lette | 362394 | [362394-pigeon-coo-lette.json](./362394-pigeon-coo-lette.json) |
 | Pigeon Dev Games Collection | 140914 | [140914-pigeon-dev-games-collection.json](./140914-pigeon-dev-games-collection.json) |
+| Pigeon Fight | 72414 | [72414-pigeon-fight.json](./72414-pigeon-fight.json) |
 | Pigeon Game | 180442 | [180442-pigeon-game.json](./180442-pigeon-game.json) |
 | Pigeon Guild | 361068 | [361068-pigeon-guild.json](./361068-pigeon-guild.json) |
 | Pigeon Hater | 336116 | [336116-pigeon-hater.json](./336116-pigeon-hater.json) |
@@ -12837,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
 | President Elect | 24648 | [24648-president-elect.json](./24648-president-elect.json) |
 | President Erect VR | 30103 | [30103-president-erect-vr.json](./30103-president-erect-vr.json) |
+| President Evil | 72407 | [72407-president-evil.json](./72407-president-evil.json) |
 | President F.net | 117954 | [117954-president-f-net.json](./117954-president-f-net.json) |
 | President for a Day - Corruption | 35292 | [35292-president-for-a-day-corruption.json](./35292-president-for-a-day-corruption.json) |
 | President for a Day - Floodings | 35291 | [35291-president-for-a-day-floodings.json](./35291-president-for-a-day-floodings.json) |
