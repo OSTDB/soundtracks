@@ -4834,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 380798 | [380798-invaders.json](./380798-invaders.json) |
 | Invaders | 79070 | [79070-invaders.json](./79070-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
+| Invaders from Dimension X | 111348 | [111348-invaders-from-dimension-x.json](./111348-invaders-from-dimension-x.json) |
 | Invaders from the Third Dimension | 253524 | [253524-invaders-from-the-third-dimension.json](./253524-invaders-from-the-third-dimension.json) |
 | Invaders From Uranus | 269153 | [269153-invaders-from-uranus.json](./269153-invaders-from-uranus.json) |
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
@@ -5208,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Fisticle | 17529 | [17529-iron-fisticle.json](./17529-iron-fisticle.json) |
 | Iron Force | 343855 | [343855-iron-force.json](./343855-iron-force.json) |
 | Iron Force 2 | 243706 | [243706-iron-force-2.json](./243706-iron-force-2.json) |
+| Iron Fortress | 111305 | [111305-iron-fortress.json](./111305-iron-fortress.json) |
 | Iron Front: Liberation 1944 | 20830 | [20830-iron-front-liberation-1944.json](./20830-iron-front-liberation-1944.json) |
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
