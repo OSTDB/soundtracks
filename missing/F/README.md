@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Penguin Parade | 134916 | [134916-fairy-penguin-parade.json](./134916-fairy-penguin-parade.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Pinball: Yousei-tachi no Pinball | 41359 | [41359-fairy-pinball-yousei-tachi-no-pinball.json](./41359-fairy-pinball-yousei-tachi-no-pinball.json) |
+| Fairy Rescue | 105610 | [105610-fairy-rescue.json](./105610-fairy-rescue.json) |
 | Fairy Rush: Fly to Candyland | 200056 | [200056-fairy-rush-fly-to-candyland.json](./200056-fairy-rush-fly-to-candyland.json) |
 | Fairy Sister | 167384 | [167384-fairy-sister.json](./167384-fairy-sister.json) |
 | Fairy Song | 177952 | [177952-fairy-song.json](./177952-fairy-song.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
 | Fantasy Aquarium by DS | 69090 | [69090-fantasy-aquarium-by-ds.json](./69090-fantasy-aquarium-by-ds.json) |
 | Fantasy Aquarium World | 51030 | [51030-fantasy-aquarium-world.json](./51030-fantasy-aquarium-world.json) |
+| Fantasy Ball | 105597 | [105597-fantasy-ball.json](./105597-fantasy-ball.json) |
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battle Islands | 196979 | [196979-fantasy-battle-islands.json](./196979-fantasy-battle-islands.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
@@ -9019,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
 | Forgotten Warrior | 243728 | [243728-forgotten-warrior.json](./243728-forgotten-warrior.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
+| Forgotten World | 105639 | [105639-forgotten-world.json](./105639-forgotten-world.json) |
 | Forgotten Worlds | 6794 | [6794-forgotten-worlds.json](./6794-forgotten-worlds.json) |
 | Forgotten, Not Lost - A Kinetic Novel | 33132 | [33132-forgotten-not-lost-a-kinetic-novel.json](./33132-forgotten-not-lost-a-kinetic-novel.json) |
 | Forgotten: The Game | 173967 | [173967-forgotten-the-game.json](./173967-forgotten-the-game.json) |
@@ -11268,6 +11271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Psychothread | 278611 | [278611-from-the-psychothread.json](./278611-from-the-psychothread.json) |
 | From the Rain | 228871 | [228871-from-the-rain.json](./228871-from-the-rain.json) |
 | From the Shadows | 142329 | [142329-from-the-shadows.json](./142329-from-the-shadows.json) |
+| From the Sky | 105607 | [105607-from-the-sky.json](./105607-from-the-sky.json) |
 | From the Streets to the Script: A Carabanchel Story | 238500 | [238500-from-the-streets-to-the-script-a-carabanchel-story.json](./238500-from-the-streets-to-the-script-a-carabanchel-story.json) |
 | From the Sun to the Moon | 256084 | [256084-from-the-sun-to-the-moon.json](./256084-from-the-sun-to-the-moon.json) |
 | From the Top | 374439 | [374439-from-the-top.json](./374439-from-the-top.json) |
@@ -11745,6 +11749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel Harvest Together | 332960 | [332960-fuel-harvest-together.json](./332960-fuel-harvest-together.json) |
 | Fuel Me Up | 342719 | [342719-fuel-me-up.json](./342719-fuel-me-up.json) |
 | Fuel Overdose | 20841 | [20841-fuel-overdose.json](./20841-fuel-overdose.json) |
+| Fuel Renegades | 105598 | [105598-fuel-renegades.json](./105598-fuel-renegades.json) |
 | Fuel Station Simulator | 302224 | [302224-fuel-station-simulator.json](./302224-fuel-station-simulator.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Station: Drive & Pumping | 318955 | [318955-fuel-station-drive-and-pumping.json](./318955-fuel-station-drive-and-pumping.json) |
