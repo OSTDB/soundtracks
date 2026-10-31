@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad-Boon Strikes Back | 341706 | [341706-bad-boon-strikes-back.json](./341706-bad-boon-strikes-back.json) |
 | Bad-Draw | 330053 | [330053-bad-draw.json](./330053-bad-draw.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
+| Badaboo | 77071 | [77071-badaboo.json](./77071-badaboo.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
 | Badaboom: Deluxe Edition | 281948 | [281948-badaboom-deluxe-edition.json](./281948-badaboom-deluxe-edition.json) |
 | Badanamu First Step | 201094 | [201094-badanamu-first-step.json](./201094-badanamu-first-step.json) |
@@ -13482,6 +13483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
 | Brave Kaka | 246422 | [246422-brave-kaka.json](./246422-brave-kaka.json) |
 | Brave knight runner | 115496 | [115496-brave-knight-runner.json](./115496-brave-knight-runner.json) |
+| Brave Knight: Leverant Eiyuuden | 77024 | [77024-brave-knight-leverant-eiyuuden.json](./77024-brave-knight-leverant-eiyuuden.json) |
 | Brave Legacy | 296379 | [296379-brave-legacy.json](./296379-brave-legacy.json) |
 | Brave Meow World | 318061 | [318061-brave-meow-world.json](./318061-brave-meow-world.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
