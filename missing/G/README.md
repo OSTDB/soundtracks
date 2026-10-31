@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamblers Table | 342853 | [342853-gamblers-table.json](./342853-gamblers-table.json) |
 | Gambling Apocalypse Kaiji | 61395 | [61395-gambling-apocalypse-kaiji.json](./61395-gambling-apocalypse-kaiji.json) |
 | Gambling Forever | 347789 | [347789-gambling-forever.json](./347789-gambling-forever.json) |
+| Gambling Lord | 64042 | [64042-gambling-lord.json](./64042-gambling-lord.json) |
 | Gambling Paradise: The Escape Call VR | 237017 | [237017-gambling-paradise-the-escape-call-vr.json](./237017-gambling-paradise-the-escape-call-vr.json) |
 | Gambol | 328063 | [328063-gambol.json](./328063-gambol.json) |
 | Gambol 2 | 328061 | [328061-gambol-2.json](./328061-gambol-2.json) |
@@ -2325,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geico Golf | 264445 | [264445-geico-golf.json](./264445-geico-golf.json) |
 | Geico Pinball | 264446 | [264446-geico-pinball.json](./264446-geico-pinball.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
+| Geisha Novia | 64058 | [64058-geisha-novia.json](./64058-geisha-novia.json) |
 | Geisha's Heart: Romance Among the Cherry Blossoms | 378852 | [378852-geishas-heart-romance-among-the-cherry-blossoms.json](./378852-geishas-heart-romance-among-the-cherry-blossoms.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geist Heist | 403931 | [403931-geist-heist.json](./403931-geist-heist.json) |
