@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
 | Joyshot | 181914 | [181914-joyshot.json](./181914-joyshot.json) |
+| Joysound Dive | 91020 | [91020-joysound-dive.json](./91020-joysound-dive.json) |
 | JoySound.TV Plus | 136720 | [136720-joysound-tv-plus.json](./136720-joysound-tv-plus.json) |
 | Joyspring | 156046 | [156046-joyspring.json](./156046-joyspring.json) |
 | JoyTale | 222094 | [222094-joytale.json](./222094-joytale.json) |
@@ -2881,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbline 2+ for iPad | 95657 | [95657-jumbline-2-for-ipad.json](./95657-jumbline-2-for-ipad.json) |
 | Jumbly | 14138 | [14138-jumbly.json](./14138-jumbly.json) |
 | Jumbo Airport Story | 219930 | [219930-jumbo-airport-story.json](./219930-jumbo-airport-story.json) |
+| Jumbo Egg Hunt (Fun Easter Egg Hunting Adventure) | 91051 | [91051-jumbo-egg-hunt-fun-easter-egg-hunting-adventure.json](./91051-jumbo-egg-hunt-fun-easter-egg-hunting-adventure.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumbo: Jewel of Realms | 197165 | [197165-jumbo-jewel-of-realms.json](./197165-jumbo-jewel-of-realms.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
