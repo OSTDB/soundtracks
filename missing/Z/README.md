@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZetaZania Part 1: Vampire Pirates from Uranus | 336871 | [336871-zetazania-part-1-vampire-pirates-from-uranus.json](./336871-zetazania-part-1-vampire-pirates-from-uranus.json) |
 | Zether | 111582 | [111582-zether.json](./111582-zether.json) |
 | Zetrya: Dungeon Dive | 406138 | [406138-zetrya-dungeon-dive.json](./406138-zetrya-dungeon-dive.json) |
+| Zetsubou Prison | 123778 | [123778-zetsubou-prison.json](./123778-zetsubou-prison.json) |
 | Zettai Fukujuu Princess ~Kijoku Kakumeiroku~ | 133263 | [133263-zettai-fukujuu-princess-kijoku-kakumeiroku.json](./133263-zettai-fukujuu-princess-kijoku-kakumeiroku.json) |
 | Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm | 110334 | [110334-zettai-kaikyuu-gakuen-eden-with-roses-and-phantasm.json](./110334-zettai-kaikyuu-gakuen-eden-with-roses-and-phantasm.json) |
 | Zettai Karen Children DS: Dai-4 no Children | 72562 | [72562-zettai-karen-children-ds-dai-4-no-children.json](./72562-zettai-karen-children-ds-dai-4-no-children.json) |
@@ -1673,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Solitaire | 9306 | [9306-zombie-solitaire.json](./9306-zombie-solitaire.json) |
 | Zombie Solitaire 2 Chapter 1 | 37007 | [37007-zombie-solitaire-2-chapter-1.json](./37007-zombie-solitaire-2-chapter-1.json) |
 | Zombie Solitaire 2 Chapter 2 | 54828 | [54828-zombie-solitaire-2-chapter-2.json](./54828-zombie-solitaire-2-chapter-2.json) |
+| Zombie Soup | 123792 | [123792-zombie-soup.json](./123792-zombie-soup.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
 | Zombie Spree: The Dawn | 211957 | [211957-zombie-spree-the-dawn.json](./211957-zombie-spree-the-dawn.json) |
 | Zombie Squad | 235460 | [235460-zombie-squad.json](./235460-zombie-squad.json) |
