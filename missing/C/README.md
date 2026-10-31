@@ -5533,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
 | Charlie's Angels | 228920 | [228920-charlies-angels.json](./228920-charlies-angels.json) |
 | Charlie's Angels: Road Cyclone | 23757 | [23757-charlies-angels-road-cyclone.json](./23757-charlies-angels-road-cyclone.json) |
+| Charlie's Conscious | 110638 | [110638-charlies-conscious.json](./110638-charlies-conscious.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charlotte | 95227 | [95227-charlotte.json](./95227-charlotte.json) |
 | Charlotte: Dragon Slayer | 202727 | [202727-charlotte-dragon-slayer.json](./202727-charlotte-dragon-slayer.json) |
@@ -7514,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
 | Chronicles of Immortality in the Cloud Abyss | 379087 | [379087-chronicles-of-immortality-in-the-cloud-abyss.json](./379087-chronicles-of-immortality-in-the-cloud-abyss.json) |
 | Chronicles of Lilith | 149833 | [149833-chronicles-of-lilith.json](./149833-chronicles-of-lilith.json) |
+| Chronicles of Lurra | 110644 | [110644-chronicles-of-lurra.json](./110644-chronicles-of-lurra.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Magic: Divided Kingdoms | 94061 | [94061-chronicles-of-magic-divided-kingdoms.json](./94061-chronicles-of-magic-divided-kingdoms.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
@@ -7832,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
 | Cicadas: The IQA Edition | 123447 | [123447-cicadas-the-iqa-edition.json](./123447-cicadas-the-iqa-edition.json) |
 | Cicadia | 408916 | [408916-cicadia.json](./408916-cicadia.json) |
+| Cicads 3301 | 110647 | [110647-cicads-3301.json](./110647-cicads-3301.json) |
 | Ciclico | 349396 | [349396-ciclico.json](./349396-ciclico.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cid and Chocobo's Mysterious Dungeon: Labyrinth of Forgotten Time DS+ | 47875 | [47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json](./47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json) |
@@ -11217,6 +11220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
 | Colourful Maze | 112673 | [112673-colourful-maze.json](./112673-colourful-maze.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
+| Colourless | 110624 | [110624-colourless.json](./110624-colourless.json) |
 | ColourPod | 263379 | [263379-colourpod.json](./263379-colourpod.json) |
 | ColourPod 2: DimensionPod | 263381 | [263381-colourpod-2-dimensionpod.json](./263381-colourpod-2-dimensionpod.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
@@ -13353,6 +13357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted | 96626 | [96626-corrupted.json](./96626-corrupted.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
+| Corrupted Commander | 110626 | [110626-corrupted-commander.json](./110626-corrupted-commander.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
 | Corrupted Kingdoms | 232550 | [232550-corrupted-kingdoms.json](./232550-corrupted-kingdoms.json) |
 | Corrupted Paradise | 290809 | [290809-corrupted-paradise.json](./290809-corrupted-paradise.json) |
@@ -17215,6 +17220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeStrike | 412222 | [412222-cubestrike.json](./412222-cubestrike.json) |
 | Cubether | 221232 | [221232-cubether.json](./221232-cubether.json) |
 | Cubethon | 289542 | [289542-cubethon.json](./289542-cubethon.json) |
+| CubeTime | 110616 | [110616-cubetime.json](./110616-cubetime.json) |
 | Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
 | Cubettiny | 383651 | [383651-cubettiny.json](./383651-cubettiny.json) |
 | Cubeventure | 144865 | [144865-cubeventure.json](./144865-cubeventure.json) |
@@ -17326,6 +17332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cuboid Bouncer | 151618 | [151618-cuboid-bouncer.json](./151618-cuboid-bouncer.json) |
+| Cuboid Keeper | 110630 | [110630-cuboid-keeper.json](./110630-cuboid-keeper.json) |
 | Cuboid Stack | 249731 | [249731-cuboid-stack.json](./249731-cuboid-stack.json) |
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
