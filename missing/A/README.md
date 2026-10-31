@@ -7476,6 +7476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
 | Amazing Adventures: The Caribbean Secret | 20436 | [20436-amazing-adventures-the-caribbean-secret.json](./20436-amazing-adventures-the-caribbean-secret.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
+| Amazing Alex | 64629 | [64629-amazing-alex.json](./64629-amazing-alex.json) |
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
 | Amazing Bats | 234468 | [234468-amazing-bats.json](./234468-amazing-bats.json) |
 | Amazing Birds Hunter | 244085 | [244085-amazing-birds-hunter.json](./244085-amazing-birds-hunter.json) |
@@ -11097,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
 | Arbeiten Spiel! | 239237 | [239237-arbeiten-spiel.json](./239237-arbeiten-spiel.json) |
 | Arbiter | 204233 | [204233-arbiter.json](./204233-arbiter.json) |
+| Arbiter | 64693 | [64693-arbiter.json](./64693-arbiter.json) |
 | Arbitology: Dei Gratia Rex | 123832 | [123832-arbitology-dei-gratia-rex.json](./123832-arbitology-dei-gratia-rex.json) |
 | Arbo: Arena Tactics | 303341 | [303341-arbo-arena-tactics.json](./303341-arbo-arena-tactics.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
@@ -13909,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 3: Judgment of Atlantis | 124163 | [124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json](./124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Lost Tales of Greece | 241431 | [241431-assassins-creed-odyssey-the-lost-tales-of-greece.json](./241431-assassins-creed-odyssey-the-lost-tales-of-greece.json) |
 | Assassin's Creed Odyssey: Those Who Are Treasured | 325330 | [325330-assassins-creed-odyssey-those-who-are-treasured.json](./325330-assassins-creed-odyssey-those-who-are-treasured.json) |
+| Assassin's Creed Online: Alliance | 64765 | [64765-assassins-creed-online-alliance.json](./64765-assassins-creed-online-alliance.json) |
 | Assassin's Creed Origins + Odyssey Double Pack | 134215 | [134215-assassins-creed-origins-odyssey-double-pack.json](./134215-assassins-creed-origins-odyssey-double-pack.json) |
 | Assassin's Creed Origins: Secrets of the First Pyramids | 327770 | [327770-assassins-creed-origins-secrets-of-the-first-pyramids.json](./327770-assassins-creed-origins-secrets-of-the-first-pyramids.json) |
 | Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
@@ -13968,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
 | Assassin's Creed: Limited Edition | 118124 | [118124-assassins-creed-limited-edition.json](./118124-assassins-creed-limited-edition.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
+| Assassin's Creed: Memories | 64759 | [64759-assassins-creed-memories.json](./64759-assassins-creed-memories.json) |
 | Assassin's Creed: Modern Revolutions Pack | 219003 | [219003-assassins-creed-modern-revolutions-pack.json](./219003-assassins-creed-modern-revolutions-pack.json) |
 | Assassin's Creed: Multiplayer Rearmed | 77209 | [77209-assassins-creed-multiplayer-rearmed.json](./77209-assassins-creed-multiplayer-rearmed.json) |
 | Assassin's Creed: Naval Edition | 118861 | [118861-assassins-creed-naval-edition.json](./118861-assassins-creed-naval-edition.json) |
