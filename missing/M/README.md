@@ -3236,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of War Face Off | 60321 | [60321-march-of-war-face-off.json](./60321-march-of-war-face-off.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
+| March on Oz | 62941 | [62941-march-on-oz.json](./62941-march-on-oz.json) |
 | March to a Million | 56730 | [56730-march-to-a-million.json](./56730-march-to-a-million.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
 | March, March! European Warfare | 242962 | [242962-march-march-european-warfare.json](./242962-march-march-european-warfare.json) |
@@ -10555,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikeneko Holmes: Ghost Panic | 37360 | [37360-mikeneko-holmes-ghost-panic.json](./37360-mikeneko-holmes-ghost-panic.json) |
 | Mikey & Grover's Unexpected Adventures | 220417 | [220417-mikey-and-grovers-unexpected-adventures.json](./220417-mikey-and-grovers-unexpected-adventures.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
+| Mikey Hooks | 63021 | [63021-mikey-hooks.json](./63021-mikey-hooks.json) |
 | Mikey Jumps | 99317 | [99317-mikey-jumps.json](./99317-mikey-jumps.json) |
 | Mikeyeldey: The Album | 206476 | [206476-mikeyeldey-the-album.json](./206476-mikeyeldey-the-album.json) |
 | Mikeyeldey95 | 206475 | [206475-mikeyeldey95.json](./206475-mikeyeldey95.json) |
@@ -12887,6 +12889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
 | Miyako: Awayuki no Utage | 181498 | [181498-miyako-awayuki-no-utage.json](./181498-miyako-awayuki-no-utage.json) |
+| Miyako: Tsukiyomi no Yume | 62939 | [62939-miyako-tsukiyomi-no-yume.json](./62939-miyako-tsukiyomi-no-yume.json) |
 | Miyamori | 21965 | [21965-miyamori.json](./21965-miyamori.json) |
 | Miyamoto | 175328 | [175328-miyamoto.json](./175328-miyamoto.json) |
 | Miyamoto | 320443 | [320443-miyamoto.json](./320443-miyamoto.json) |
@@ -17717,6 +17720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murphy da yo Zenin Shuugou | 246576 | [246576-murphy-da-yo-zenin-shuugou.json](./246576-murphy-da-yo-zenin-shuugou.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
 | Murphy's Street | 137998 | [137998-murphys-street.json](./137998-murphys-street.json) |
+| Murray Mouse: Supercop | 63030 | [63030-murray-mouse-supercop.json](./63030-murray-mouse-supercop.json) |
 | Murtop | 232814 | [232814-murtop.json](./232814-murtop.json) |
 | Murus | 165123 | [165123-murus.json](./165123-murus.json) |
 | Musa | 298186 | [298186-musa.json](./298186-musa.json) |
