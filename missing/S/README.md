@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schmutznik | 153910 | [153910-schmutznik.json](./153910-schmutznik.json) |
 | Schnappi: 3 Fun-Games | 96526 | [96526-schnappi-3-fun-games.json](./96526-schnappi-3-fun-games.json) |
 | Schnee | 236901 | [236901-schnee.json](./236901-schnee.json) |
+| Schneewittchen Mädchen Spiele | 99316 | [99316-schneewittchen-madchen-spiele.json](./99316-schneewittchen-madchen-spiele.json) |
 | Schneider’s Curse | 340315 | [340315-schneider-s-curse.json](./340315-schneider-s-curse.json) |
 | Schnell Online | 255568 | [255568-schnell-online.json](./255568-schnell-online.json) |
 | Schnock n' Blopf | 100096 | [100096-schnock-n-blopf.json](./100096-schnock-n-blopf.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Beneath the Surface | 91240 | [91240-sea-of-lies-beneath-the-surface.json](./91240-sea-of-lies-beneath-the-surface.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
+| Sea of Lies: Burning Coast HD | 99325 | [99325-sea-of-lies-burning-coast-hd.json](./99325-sea-of-lies-burning-coast-hd.json) |
 | Sea of Lies: Leviathan Reef | 22109 | [22109-sea-of-lies-leviathan-reef.json](./22109-sea-of-lies-leviathan-reef.json) |
 | Sea of Lies: Leviathan Reef - Collector's Edition | 416360 | [416360-sea-of-lies-leviathan-reef-collectors-edition.json](./416360-sea-of-lies-leviathan-reef-collectors-edition.json) |
 | Sea of Lies: Mutiny of the Heart | 139729 | [139729-sea-of-lies-mutiny-of-the-heart.json](./139729-sea-of-lies-mutiny-of-the-heart.json) |
@@ -12067,6 +12069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
 | Slenderman: Shadow of the Forest | 340551 | [340551-slenderman-shadow-of-the-forest.json](./340551-slenderman-shadow-of-the-forest.json) |
 | Slenderman: The Game | 79818 | [79818-slenderman-the-game.json](./79818-slenderman-the-game.json) |
+| SlenderMan's Forest | 99338 | [99338-slendermans-forest.json](./99338-slendermans-forest.json) |
 | Slenderman's Shadow | 177282 | [177282-slendermans-shadow.json](./177282-slendermans-shadow.json) |
 | Slenderman's Shadow 7th Street | 50163 | [50163-slendermans-shadow-7th-street.json](./50163-slendermans-shadow-7th-street.json) |
 | Slendr | 64361 | [64361-slendr.json](./64361-slendr.json) |
@@ -12263,6 +12266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Factory | 367980 | [367980-slime-factory.json](./367980-slime-factory.json) |
 | Slime Fantasy: the search for the lost sword | 142686 | [142686-slime-fantasy-the-search-for-the-lost-sword.json](./142686-slime-fantasy-the-search-for-the-lost-sword.json) |
 | Slime Farm | 298271 | [298271-slime-farm.json](./298271-slime-farm.json) |
+| Slime Farmer 2 | 99345 | [99345-slime-farmer-2.json](./99345-slime-farmer-2.json) |
 | Slime Feet | 323031 | [323031-slime-feet.json](./323031-slime-feet.json) |
 | Slime Flight: VIP | 95826 | [95826-slime-flight-vip.json](./95826-slime-flight-vip.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
@@ -13933,6 +13937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Plowing Simulator | 218677 | [218677-snow-plowing-simulator.json](./218677-snow-plowing-simulator.json) |
 | Snow Plowing Simulator: Ski Resort | 374764 | [374764-snow-plowing-simulator-ski-resort.json](./374764-snow-plowing-simulator-ski-resort.json) |
 | Snow Problem | 342060 | [342060-snow-problem.json](./342060-snow-problem.json) |
+| Snow Queen Salon - Frosted Princess Makeover Game | 99347 | [99347-snow-queen-salon-frosted-princess-makeover-game.json](./99347-snow-queen-salon-frosted-princess-makeover-game.json) |
 | Snow Question | 268959 | [268959-snow-question.json](./268959-snow-question.json) |
 | Snow Racer 98 | 279215 | [279215-snow-racer-98.json](./279215-snow-racer-98.json) |
 | Snow Rider | 43336 | [43336-snow-rider.json](./43336-snow-rider.json) |
@@ -15018,6 +15023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Match 2 Cards. Thanksgiving Day | 199574 | [199574-solitaire-match-2-cards-thanksgiving-day.json](./199574-solitaire-match-2-cards-thanksgiving-day.json) |
 | Solitaire MegaPack | 102764 | [102764-solitaire-megapack.json](./102764-solitaire-megapack.json) |
 | Solitaire Mystery: Four Seasons | 91130 | [91130-solitaire-mystery-four-seasons.json](./91130-solitaire-mystery-four-seasons.json) |
+| Solitaire Mystery: Four Seasons HD | 99342 | [99342-solitaire-mystery-four-seasons-hd.json](./99342-solitaire-mystery-four-seasons-hd.json) |
 | Solitaire Mystery: Stolen Power | 55432 | [55432-solitaire-mystery-stolen-power.json](./55432-solitaire-mystery-stolen-power.json) |
 | Solitaire Noir | 226618 | [226618-solitaire-noir.json](./226618-solitaire-noir.json) |
 | Solitaire Paradise: Anime Bikini Babes | 410372 | [410372-solitaire-paradise-anime-bikini-babes.json](./410372-solitaire-paradise-anime-bikini-babes.json) |
@@ -19471,6 +19477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Hero | 407886 | [407886-spider-hero.json](./407886-spider-hero.json) |
+| Spider Hero Lava Floor 2: Craft Exploration | 99360 | [99360-spider-hero-lava-floor-2-craft-exploration.json](./99360-spider-hero-lava-floor-2-craft-exploration.json) |
 | Spider Hotel | 374371 | [374371-spider-hotel.json](./374371-spider-hotel.json) |
 | Spider Hunter | 234527 | [234527-spider-hunter.json](./234527-spider-hunter.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
@@ -28546,6 +28553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
 | Super Magus Parvomagnus | 368611 | [368611-super-magus-parvomagnus.json](./368611-super-magus-parvomagnus.json) |
 | Super Mahjong | 37814 | [37814-super-mahjong.json](./37814-super-mahjong.json) |
+| Super Mahjong | 99329 | [99329-super-mahjong.json](./99329-super-mahjong.json) |
 | Super Mahjong 2: Honkaku 4-nin Uchi | 37813 | [37813-super-mahjong-2-honkaku-4-nin-uchi.json](./37813-super-mahjong-2-honkaku-4-nin-uchi.json) |
 | Super Mahjong 3 | 37812 | [37812-super-mahjong-3.json](./37812-super-mahjong-3.json) |
 | Super Mahjong 3: Karakuchi | 59955 | [59955-super-mahjong-3-karakuchi.json](./59955-super-mahjong-3-karakuchi.json) |
@@ -31445,6 +31453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapologic | 233517 | [233517-swapologic.json](./233517-swapologic.json) |
 | Swapon | 135437 | [135437-swapon.json](./135437-swapon.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
+| Swapper Tiles | 99333 | [99333-swapper-tiles.json](./99333-swapper-tiles.json) |
 | Swapperoo | 34274 | [34274-swapperoo.json](./34274-swapperoo.json) |
 | SwapPics: Knights vs Demons | 272914 | [272914-swappics-knights-vs-demons.json](./272914-swappics-knights-vs-demons.json) |
 | Swappy World | 276973 | [276973-swappy-world.json](./276973-swappy-world.json) |
