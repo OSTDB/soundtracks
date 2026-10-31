@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
+| ABC Preschool car truck and engine dot puzzles | 88725 | [88725-abc-preschool-car-truck-and-engine-dot-puzzles.json](./88725-abc-preschool-car-truck-and-engine-dot-puzzles.json) |
 | ABC Search with Me | 198072 | [198072-abc-search-with-me.json](./198072-abc-search-with-me.json) |
 | ABC Search With Me: Adventure Bundle | 199851 | [199851-abc-search-with-me-adventure-bundle.json](./199851-abc-search-with-me-adventure-bundle.json) |
 | ABC Search with Me: Animal Pack | 199885 | [199885-abc-search-with-me-animal-pack.json](./199885-abc-search-with-me-animal-pack.json) |
@@ -7072,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphys Neo | 268875 | [268875-alphys-neo.json](./268875-alphys-neo.json) |
 | Alpine | 302820 | [302820-alpine.json](./302820-alpine.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
+| Alpine Crawler | 88732 | [88732-alpine-crawler.json](./88732-alpine-crawler.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Alpine Lake | 263964 | [263964-alpine-lake.json](./263964-alpine-lake.json) |
@@ -10623,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | ApoZomb | 224704 | [224704-apozomb.json](./224704-apozomb.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
+| APP Control | 88721 | [88721-app-control.json](./88721-app-control.json) |
 | App Driver + John The Zombie | 328571 | [328571-app-driver-john-the-zombie.json](./328571-app-driver-john-the-zombie.json) |
 | App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
 | App Escape | 128810 | [128810-app-escape.json](./128810-app-escape.json) |
