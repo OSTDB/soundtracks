@@ -4489,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of the Snow Witch | 17871 | [17871-caverns-of-the-snow-witch.json](./17871-caverns-of-the-snow-witch.json) |
 | Caverns of Titan | 47550 | [47550-caverns-of-titan.json](./47550-caverns-of-titan.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
+| Caverns of Venus 2 | 98207 | [98207-caverns-of-venus-2.json](./98207-caverns-of-venus-2.json) |
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
 | Caverns of Zoarre | 2874 | [2874-caverns-of-zoarre.json](./2874-caverns-of-zoarre.json) |
 | Caverns: Lost Sky | 113494 | [113494-caverns-lost-sky.json](./113494-caverns-lost-sky.json) |
