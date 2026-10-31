@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 More, Somehow Even Smaller, Mazes | 393460 | [393460-20-more-somehow-even-smaller-mazes.json](./393460-20-more-somehow-even-smaller-mazes.json) |
 | 20 Small Mazes | 272249 | [272249-20-small-mazes.json](./272249-20-small-mazes.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
+| 20 Tons | 83140 | [83140-20-tons.json](./83140-20-tons.json) |
 | 20 Trials to Heaven | 416104 | [416104-20-trials-to-heaven.json](./416104-20-trials-to-heaven.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
