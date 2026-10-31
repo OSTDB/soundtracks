@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts: Fragmented Keys | 332480 | [332480-kingdom-hearts-fragmented-keys.json](./332480-kingdom-hearts-fragmented-keys.json) |
 | Kingdom Hearts: Melody of Memory | 135108 | [135108-kingdom-hearts-melody-of-memory.json](./135108-kingdom-hearts-melody-of-memory.json) |
 | Kingdom Hearts: Union x Dark Road | 135639 | [135639-kingdom-hearts-union-x-dark-road.json](./135639-kingdom-hearts-union-x-dark-road.json) |
+| Kingdom Hearts: VR Experience | 109275 | [109275-kingdom-hearts-vr-experience.json](./109275-kingdom-hearts-vr-experience.json) |
 | Kingdom Heroes | 389713 | [389713-kingdom-heroes.json](./389713-kingdom-heroes.json) |
 | Kingdom Heroes 2 | 68091 | [68091-kingdom-heroes-2.json](./68091-kingdom-heroes-2.json) |
 | Kingdom Heroes 8 | 143523 | [143523-kingdom-heroes-8.json](./143523-kingdom-heroes-8.json) |
