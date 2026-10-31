@@ -9187,6 +9187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Zombie Fever | 240200 | [240200-disco-zombie-fever.json](./240200-disco-zombie-fever.json) |
 | Disco Zoo | 61514 | [61514-disco-zoo.json](./61514-disco-zoo.json) |
 | Discode Reverse | 97366 | [97366-discode-reverse.json](./97366-discode-reverse.json) |
+| Discode: Surface | 97612 | [97612-discode-surface.json](./97612-discode-surface.json) |
 | Discolight | 85084 | [85084-discolight.json](./85084-discolight.json) |
 | Discolored 2 | 216659 | [216659-discolored-2.json](./216659-discolored-2.json) |
 | Discolored Bundle | 332504 | [332504-discolored-bundle.json](./332504-discolored-bundle.json) |
