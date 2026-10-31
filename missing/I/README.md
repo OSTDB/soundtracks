@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Books | 204167 | [204167-in-your-books.json](./204167-in-your-books.json) |
 | In Your Dreams | 423911 | [423911-in-your-dreams.json](./423911-in-your-dreams.json) |
 | In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
+| In your Shadow | 112622 | [112622-in-your-shadow.json](./112622-in-your-shadow.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
 | In-Fisherman: Freshwater Trophies | 27543 | [27543-in-fisherman-freshwater-trophies.json](./27543-in-fisherman-freshwater-trophies.json) |
@@ -4993,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Cock: They never saw it cumming! | 154453 | [154453-invisible-cock-they-never-saw-it-cumming.json](./154453-invisible-cock-they-never-saw-it-cumming.json) |
 | Invisible Crush | 286781 | [286781-invisible-crush.json](./286781-invisible-crush.json) |
 | Invisible Fear | 274498 | [274498-invisible-fear.json](./274498-invisible-fear.json) |
+| Invisible Fist | 112581 | [112581-invisible-fist.json](./112581-invisible-fist.json) |
 | Invisible Flow | 278906 | [278906-invisible-flow.json](./278906-invisible-flow.json) |
 | Invisible Inc.: Contingency Plan | 68275 | [68275-invisible-inc-contingency-plan.json](./68275-invisible-inc-contingency-plan.json) |
 | Invisible Love | 286774 | [286774-invisible-love.json](./286774-invisible-love.json) |
