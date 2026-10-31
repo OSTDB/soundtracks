@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Tectonics | 35079 | [35079-fate-tectonics.json](./35079-fate-tectonics.json) |
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
 | Fate War | 360916 | [360916-fate-war.json](./360916-fate-war.json) |
+| Fate: Gates of Dawn | 73057 | [73057-fate-gates-of-dawn.json](./73057-fate-gates-of-dawn.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
