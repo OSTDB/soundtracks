@@ -13504,6 +13504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
 | The Path of Greatest Resistance | 32372 | [32372-the-path-of-greatest-resistance.json](./32372-the-path-of-greatest-resistance.json) |
 | The Path of Hercules | 356230 | [356230-the-path-of-hercules.json](./356230-the-path-of-hercules.json) |
+| The Path of Kara | 64072 | [64072-the-path-of-kara.json](./64072-the-path-of-kara.json) |
 | The Path of Motus | 68864 | [68864-the-path-of-motus.json](./68864-the-path-of-motus.json) |
 | The Path of Ren | 149379 | [149379-the-path-of-ren.json](./149379-the-path-of-ren.json) |
 | The Path of the Pumpkin | 125141 | [125141-the-path-of-the-pumpkin.json](./125141-the-path-of-the-pumpkin.json) |
@@ -14222,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Requiem of Shadows | 347855 | [347855-the-requiem-of-shadows.json](./347855-the-requiem-of-shadows.json) |
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
 | The Rescue of Mermaids | 118051 | [118051-the-rescue-of-mermaids.json](./118051-the-rescue-of-mermaids.json) |
+| The Rescue of Pops Ghostly | 64038 | [64038-the-rescue-of-pops-ghostly.json](./64038-the-rescue-of-pops-ghostly.json) |
 | The Rescue Squad | 164916 | [164916-the-rescue-squad.json](./164916-the-rescue-squad.json) |
 | The Research Age Deluxe | 170684 | [170684-the-research-age-deluxe.json](./170684-the-research-age-deluxe.json) |
 | The Research Facility No.507 | 90576 | [90576-the-research-facility-no-507.json](./90576-the-research-facility-no-507.json) |
@@ -14481,6 +14483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runemaster's Diary | 167588 | [167588-the-runemasters-diary.json](./167588-the-runemasters-diary.json) |
 | The Runes of Zendos | 299696 | [299696-the-runes-of-zendos.json](./299696-the-runes-of-zendos.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
+| The Runner | 64036 | [64036-the-runner.json](./64036-the-runner.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
 | The Running Man | 12756 | [12756-the-running-man.json](./12756-the-running-man.json) |
 | The Running Man | 168630 | [168630-the-running-man.json](./168630-the-running-man.json) |
