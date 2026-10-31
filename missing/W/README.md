@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Tank | 239718 | [239718-water-tank.json](./239718-water-tank.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
 | Water Warfare | 21212 | [21212-water-warfare.json](./21212-water-warfare.json) |
+| Water Wars | 123196 | [123196-water-wars.json](./123196-water-wars.json) |
 | Water We Doing? | 406626 | [406626-water-we-doing.json](./406626-water-we-doing.json) |
 | Water Wheel | 249401 | [249401-water-wheel.json](./249401-water-wheel.json) |
 | Water You Doing? | 406878 | [406878-water-you-doing.json](./406878-water-you-doing.json) |
@@ -4530,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widgets Odyssey 2 | 42787 | [42787-widgets-odyssey-2.json](./42787-widgets-odyssey-2.json) |
 | Widiland | 235089 | [235089-widiland.json](./235089-widiland.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
+| Widow's Woods - A Southfog Mini Adventure | 123206 | [123206-widows-woods-a-southfog-mini-adventure.json](./123206-widows-woods-a-southfog-mini-adventure.json) |
 | Widower's Sky | 106116 | [106116-widowers-sky.json](./106116-widowers-sky.json) |
 | Wielders of the Essence | 378342 | [378342-wielders-of-the-essence.json](./378342-wielders-of-the-essence.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
