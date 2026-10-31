@@ -15655,6 +15655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
 | Aurora Quest: Otaku no Seiza in Another World | 69765 | [69765-aurora-quest-otaku-no-seiza-in-another-world.json](./69765-aurora-quest-otaku-no-seiza-in-another-world.json) |
+| Aurora Trail | 80991 | [80991-aurora-trail.json](./80991-aurora-trail.json) |
 | Aurora: A Child's Journey | 145891 | [145891-aurora-a-childs-journey.json](./145891-aurora-a-childs-journey.json) |
 | Aurora: El Destino de los Mundos | 317071 | [317071-aurora-el-destino-de-los-mundos.json](./317071-aurora-el-destino-de-los-mundos.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
