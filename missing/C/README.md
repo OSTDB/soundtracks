@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Air Wing | 38534 | [38534-carrier-air-wing.json](./38534-carrier-air-wing.json) |
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
+| Carrier Battles 4 Guadalcanal: Pacific War Naval Warfare | 100511 | [100511-carrier-battles-4-guadalcanal-pacific-war-naval-warfare.json](./100511-carrier-battles-4-guadalcanal-pacific-war-naval-warfare.json) |
 | Carrier Battles 4 Guadalcanal: Submarines & Torpedo Alley Scenario | 193592 | [193592-carrier-battles-4-guadalcanal-submarines-and-torpedo-alley-scenario.json](./193592-carrier-battles-4-guadalcanal-submarines-and-torpedo-alley-scenario.json) |
 | Carrier Battles WW2: Admiral of the Fleet | 171481 | [171481-carrier-battles-ww2-admiral-of-the-fleet.json](./171481-carrier-battles-ww2-admiral-of-the-fleet.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
@@ -3034,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
 | Cast N | 299489 | [299489-cast-n.json](./299489-cast-n.json) |
 | Cast n Chill | 330638 | [330638-cast-n-chill.json](./330638-cast-n-chill.json) |
+| Cast of the Seven Godsends | 100489 | [100489-cast-of-the-seven-godsends.json](./100489-cast-of-the-seven-godsends.json) |
 | Cast of the Seven Godsends: Redux | 20994 | [20994-cast-of-the-seven-godsends-redux.json](./20994-cast-of-the-seven-godsends-redux.json) |
 | Cast or Pass | 324262 | [324262-cast-or-pass.json](./324262-cast-or-pass.json) |
 | Cast Out Colony | 247958 | [247958-cast-out-colony.json](./247958-cast-out-colony.json) |
@@ -3915,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Flex: Quest | 347722 | [347722-catch-flex-quest.json](./347722-catch-flex-quest.json) |
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
+| Catch It | 100487 | [100487-catch-it.json](./100487-catch-it.json) |
 | Catch It | 380611 | [380611-catch-it.json](./380611-catch-it.json) |
 | Catch it! | 179310 | [179310-catch-it.json](./179310-catch-it.json) |
 | Catch Me | 286968 | [286968-catch-me.json](./286968-catch-me.json) |
@@ -9474,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk Rage | 26429 | [26429-clonk-rage.json](./26429-clonk-rage.json) |
 | Clop | 64819 | [64819-clop.json](./64819-clop.json) |
 | Clorox: Sparkling Sudoku | 263433 | [263433-clorox-sparkling-sudoku.json](./263433-clorox-sparkling-sudoku.json) |
+| Close Air Support Hero | 100504 | [100504-close-air-support-hero.json](./100504-close-air-support-hero.json) |
 | Close Assault | 21923 | [21923-close-assault.json](./21923-close-assault.json) |
 | Close Call Extreme | 81003 | [81003-close-call-extreme.json](./81003-close-call-extreme.json) |
 | Close Castles | 61157 | [61157-close-castles.json](./61157-close-castles.json) |
@@ -10784,6 +10788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Fan | 315059 | [315059-color-fan.json](./315059-color-fan.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
 | Color Flash | 190424 | [190424-color-flash.json](./190424-color-flash.json) |
+| Color Flood | 100509 | [100509-color-flood.json](./100509-color-flood.json) |
 | Color Fusion Fever | 278165 | [278165-color-fusion-fever.json](./278165-color-fusion-fever.json) |
 | Color FX Basketball | 245539 | [245539-color-fx-basketball.json](./245539-color-fx-basketball.json) |
 | Color FX Solitaire | 245538 | [245538-color-fx-solitaire.json](./245538-color-fx-solitaire.json) |
@@ -12134,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjurers | 328362 | [328362-conjurers.json](./328362-conjurers.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conjury | 275739 | [275739-conjury.json](./275739-conjury.json) |
+| Conjury of Nature | 100536 | [100536-conjury-of-nature.json](./100536-conjury-of-nature.json) |
 | Conker: Live & Reloaded | 1425 | [1425-conker-live-and-reloaded.json](./1425-conker-live-and-reloaded.json) |
 | Conker's Bad Fur Day | 1286 | [1286-conkers-bad-fur-day.json](./1286-conkers-bad-fur-day.json) |
 | Conker's Bad Fur Day: Reloaded | 421201 | [421201-conkers-bad-fur-day-reloaded.json](./421201-conkers-bad-fur-day-reloaded.json) |
@@ -13780,6 +13786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
 | Cosy Housing | 391768 | [391768-cosy-housing.json](./391768-cosy-housing.json) |
+| CotBot Farm | 100496 | [100496-cotbot-farm.json](./100496-cotbot-farm.json) |
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
 | Cottage Garden | 74224 | [74224-cottage-garden.json](./74224-cottage-garden.json) |
@@ -14118,6 +14125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowardly Heroes | 182298 | [182298-cowardly-heroes.json](./182298-cowardly-heroes.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
 | Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
+| Cowboy : Attack of Wild Animal | 100533 | [100533-cowboy-attack-of-wild-animal.json](./100533-cowboy-attack-of-wild-animal.json) |
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
 | Cowboy Bebop | 45027 | [45027-cowboy-bebop.json](./45027-cowboy-bebop.json) |
 | Cowboy Busy: Mowdown | 409743 | [409743-cowboy-busy-mowdown.json](./409743-cowboy-busy-mowdown.json) |
@@ -14492,6 +14500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
 | Crane Quandry | 101009 | [101009-crane-quandry.json](./101009-crane-quandry.json) |
+| Crane Simulation 2016 : 3D Town Construction Game | 100515 | [100515-crane-simulation-2016-3d-town-construction-game.json](./100515-crane-simulation-2016-3d-town-construction-game.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Cranga!: Harbor Frenzy | 31544 | [31544-cranga-harbor-frenzy.json](./31544-cranga-harbor-frenzy.json) |
 | Cranium: Partyland Park | 230460 | [230460-cranium-partyland-park.json](./230460-cranium-partyland-park.json) |
