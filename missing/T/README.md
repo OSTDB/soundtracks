@@ -7374,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Dead Zone | 268137 | [268137-the-dead-zone.json](./268137-the-dead-zone.json) |
 | The Dead Zone 2 | 308890 | [308890-the-dead-zone-2.json](./308890-the-dead-zone-2.json) |
+| The Dead: Beginning | 114639 | [114639-the-dead-beginning.json](./114639-the-dead-beginning.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
 | The Deadliest Gambit | 313884 | [313884-the-deadliest-gambit.json](./313884-the-deadliest-gambit.json) |
 | The Deadliest Game | 313883 | [313883-the-deadliest-game.json](./313883-the-deadliest-game.json) |
@@ -18287,6 +18288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor: God of Thunder | 5219 | [5219-thor-god-of-thunder.json](./5219-thor-god-of-thunder.json) |
 | Thor: Son of Asgard | 65601 | [65601-thor-son-of-asgard.json](./65601-thor-son-of-asgard.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
+| Thor: War of Tapnarok | 114662 | [114662-thor-war-of-tapnarok.json](./114662-thor-war-of-tapnarok.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
 | Thorgal | 290773 | [290773-thorgal.json](./290773-thorgal.json) |
 | Thorgard | 288610 | [288610-thorgard.json](./288610-thorgard.json) |
@@ -21616,6 +21618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans Pinball | 124093 | [124093-titans-pinball.json](./124093-titans-pinball.json) |
 | Titans Tower | 84949 | [84949-titans-tower.json](./84949-titans-tower.json) |
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
+| Titawin | 114673 | [114673-titawin.json](./114673-titawin.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
 | Titeuf | 169133 | [169133-titeuf.json](./169133-titeuf.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
@@ -22005,6 +22008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
 | Toca Kitchen | 181589 | [181589-toca-kitchen.json](./181589-toca-kitchen.json) |
 | Toca Kitchen 2 | 95708 | [95708-toca-kitchen-2.json](./95708-toca-kitchen-2.json) |
+| Toca Kitchen Sushi | 114635 | [114635-toca-kitchen-sushi.json](./114635-toca-kitchen-sushi.json) |
 | Toca Lab: Elements | 74727 | [74727-toca-lab-elements.json](./74727-toca-lab-elements.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Life: Town | 74728 | [74728-toca-life-town.json](./74728-toca-life-town.json) |
@@ -25059,6 +25063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Rivals: Goblin Age | 328848 | [328848-trade-rivals-goblin-age.json](./328848-trade-rivals-goblin-age.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trade the Crash | 416028 | [416028-trade-the-crash.json](./416028-trade-the-crash.json) |
+| Trade Town | 114681 | [114681-trade-town.json](./114681-trade-town.json) |
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
 | Trader HD | 175085 | [175085-trader-hd.json](./175085-trader-hd.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
@@ -28064,6 +28069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
 | Trinity: Souls of Zill O'll | 7475 | [7475-trinity-souls-of-zill-oll.json](./7475-trinity-souls-of-zill-oll.json) |
 | Trinium Wars | 18923 | [18923-trinium-wars.json](./18923-trinium-wars.json) |
+| Trinket | 114653 | [114653-trinket.json](./114653-trinket.json) |
 | Trinket Bag Maker | 382569 | [382569-trinket-bag-maker.json](./382569-trinket-bag-maker.json) |
 | Trinkets | 355078 | [355078-trinkets.json](./355078-trinkets.json) |
 | Trino | 15012 | [15012-trino.json](./15012-trino.json) |
