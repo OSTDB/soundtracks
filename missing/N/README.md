@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario World: The Seven Crystals of Peace | 267935 | [267935-new-super-mario-world-the-seven-crystals-of-peace.json](./267935-new-super-mario-world-the-seven-crystals-of-peace.json) |
 | New Super Triv III | 307370 | [307370-new-super-triv-iii.json](./307370-new-super-triv-iii.json) |
 | New Supper Banana! | 366220 | [366220-new-supper-banana.json](./366220-new-supper-banana.json) |
+| New Survival Shooter! | 75548 | [75548-new-survival-shooter.json](./75548-new-survival-shooter.json) |
 | New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Tab | 184587 | [184587-new-tab.json](./184587-new-tab.json) |
 | New Tales from the Borderlands | 214139 | [214139-new-tales-from-the-borderlands.json](./214139-new-tales-from-the-borderlands.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Nap November | 383092 | [383092-no-nap-november.json](./383092-no-nap-november.json) |
 | No Need for Flowers | 334338 | [334338-no-need-for-flowers.json](./334338-no-need-for-flowers.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
+| No One | 75394 | [75394-no-one.json](./75394-no-one.json) |
 | No One But You | 19243 | [19243-no-one-but-you.json](./19243-no-one-but-you.json) |
 | No One Can Ever Know | 144882 | [144882-no-one-can-ever-know.json](./144882-no-one-can-ever-know.json) |
 | No One Can Stop Mr. Domino! | 4107 | [4107-no-one-can-stop-mr-domino.json](./4107-no-one-can-stop-mr-domino.json) |
