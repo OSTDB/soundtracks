@@ -6310,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wo Yao Da | 76098 | [76098-wo-yao-da.json](./76098-wo-yao-da.json) |
 | Wǒ Yǒu Shàngjiàng | 150244 | [150244-wo-you-shangjiang.json](./150244-wo-you-shangjiang.json) |
 | Woah Vicky | 96281 | [96281-woah-vicky.json](./96281-woah-vicky.json) |
+| Woahds! | 75389 | [75389-woahds.json](./75389-woahds.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
 | Wobbl | 192963 | [192963-wobbl.json](./192963-wobbl.json) |
 | Wobble | 246374 | [246374-wobble.json](./246374-wobble.json) |
