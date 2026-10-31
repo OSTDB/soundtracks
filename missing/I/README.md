@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Ember | 111963 | [111963-in-the-ember.json](./111963-in-the-ember.json) |
 | In the End | 191044 | [191044-in-the-end.json](./191044-in-the-end.json) |
 | In the Facade we Trust | 329474 | [329474-in-the-facade-we-trust.json](./329474-in-the-facade-we-trust.json) |
+| In the Fighting | 104954 | [104954-in-the-fighting.json](./104954-in-the-fighting.json) |
 | In the Footage | 250851 | [250851-in-the-footage.json](./250851-in-the-footage.json) |
 | In The Foundations | 325927 | [325927-in-the-foundations.json](./325927-in-the-foundations.json) |
 | In the Friend Zone | 59703 | [59703-in-the-friend-zone.json](./59703-in-the-friend-zone.json) |
