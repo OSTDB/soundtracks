@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Lunatic Edition | 304779 | [304779-johnny-trigger-lunatic-edition.json](./304779-johnny-trigger-lunatic-edition.json) |
 | Johnny Trigger: Triple Rebel Edition | 375143 | [375143-johnny-trigger-triple-rebel-edition.json](./375143-johnny-trigger-triple-rebel-edition.json) |
 | Johnny Turbo | 331374 | [331374-johnny-turbo.json](./331374-johnny-turbo.json) |
+| Johnny Turbo's Arcade: Express Raider | 105625 | [105625-johnny-turbos-arcade-express-raider.json](./105625-johnny-turbos-arcade-express-raider.json) |
 | Johnny Turbo's Arcade: Fighter's History | 114203 | [114203-johnny-turbos-arcade-fighters-history.json](./114203-johnny-turbos-arcade-fighters-history.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
 | Johnny Turbo's Arcade: Heavy Burger | 110755 | [110755-johnny-turbos-arcade-heavy-burger.json](./110755-johnny-turbos-arcade-heavy-burger.json) |
@@ -2687,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ju | 74382 | [74382-ju.json](./74382-ju.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
+| Juan v Juan | 105602 | [105602-juan-v-juan.json](./105602-juan-v-juan.json) |
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
 | Jubaku | 422123 | [422123-jubaku.json](./422123-jubaku.json) |
 | Jubeat | 154841 | [154841-jubeat.json](./154841-jubeat.json) |
