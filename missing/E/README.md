@@ -6074,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
+| Eve-Orb | 82526 | [82526-eve-orb.json](./82526-eve-orb.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | EVE: New Generation | 70779 | [70779-eve-new-generation.json](./70779-eve-new-generation.json) |
