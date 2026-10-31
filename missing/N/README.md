@@ -4917,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo no Golf | 315438 | [315438-nintendo-no-golf.json](./315438-nintendo-no-golf.json) |
 | Nintendo Pennant Chase Baseball | 67797 | [67797-nintendo-pennant-chase-baseball.json](./67797-nintendo-pennant-chase-baseball.json) |
 | Nintendo Pocket Football Club | 47645 | [47645-nintendo-pocket-football-club.json](./47645-nintendo-pocket-football-club.json) |
+| Nintendo PowerFest '94 | 85808 | [85808-nintendo-powerfest-94.json](./85808-nintendo-powerfest-94.json) |
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
 | Nintendo Puzzle Collection | 4049 | [4049-nintendo-puzzle-collection.json](./4049-nintendo-puzzle-collection.json) |
 | Nintendo RPG | 324005 | [324005-nintendo-rpg.json](./324005-nintendo-rpg.json) |
