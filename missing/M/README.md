@@ -4036,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Raid | 245455 | [245455-mars-raid.json](./245455-mars-raid.json) |
 | Mars Rapid Transit | 294194 | [294194-mars-rapid-transit.json](./294194-mars-rapid-transit.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
+| Mars Rising | 77029 | [77029-mars-rising.json](./77029-mars-rising.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Simulator: Red Planet | 29591 | [29591-mars-simulator-red-planet.json](./29591-mars-simulator-red-planet.json) |
 | Mars Survivor: Action Edition | 366785 | [366785-mars-survivor-action-edition.json](./366785-mars-survivor-action-edition.json) |
@@ -13086,6 +13087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam | 125966 | [125966-mobile-suit-gundam.json](./125966-mobile-suit-gundam.json) |
 | Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
 | Mobile Suit Gundam | 218264 | [218264-mobile-suit-gundam.json](./218264-mobile-suit-gundam.json) |
+| Mobile Suit Gundam | 77032 | [77032-mobile-suit-gundam.json](./77032-mobile-suit-gundam.json) |
 | Mobile Suit Gundam - Blood of Zeon | 45808 | [45808-mobile-suit-gundam-blood-of-zeon.json](./45808-mobile-suit-gundam-blood-of-zeon.json) |
 | Mobile Suit Gundam 00: Gundam Meisters | 72982 | [72982-mobile-suit-gundam-00-gundam-meisters.json](./72982-mobile-suit-gundam-00-gundam-meisters.json) |
 | Mobile Suit Gundam 0079 Card Builder | 79013 | [79013-mobile-suit-gundam-0079-card-builder.json](./79013-mobile-suit-gundam-0079-card-builder.json) |
@@ -13160,6 +13162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
 | Mobile Suit Gundam: Shin Gihren No Yabou | 56746 | [56746-mobile-suit-gundam-shin-gihren-no-yabou.json](./56746-mobile-suit-gundam-shin-gihren-no-yabou.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
+| Mobile Suit Z-Gundam | 77059 | [77059-mobile-suit-z-gundam.json](./77059-mobile-suit-z-gundam.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
 | Mobile Train Simulator | 72899 | [72899-mobile-train-simulator.json](./72899-mobile-train-simulator.json) |
 | Mobile Train Simulator + Densha de Go!: Tokyo Kyuukou-hen | 146602 | [146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json](./146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json) |
