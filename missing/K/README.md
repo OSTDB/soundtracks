@@ -5204,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken Smash: Volleyball | 169587 | [169587-kraken-smash-volleyball.json](./169587-kraken-smash-volleyball.json) |
 | Kraken's Curse | 129429 | [129429-krakens-curse.json](./129429-krakens-curse.json) |
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
+| Krakout Unlimited | 91576 | [91576-krakout-unlimited.json](./91576-krakout-unlimited.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
 | Kram Keep | 177209 | [177209-kram-keep.json](./177209-kram-keep.json) |
