@@ -14938,10 +14938,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Spriggan Powered: Dai-4-wa | 179869 | [179869-bs-spriggan-powered-dai-4-wa.json](./179869-bs-spriggan-powered-dai-4-wa.json) |
 | BS Spriggan Powered: Prelude | 179872 | [179872-bs-spriggan-powered-prelude.json](./179872-bs-spriggan-powered-prelude.json) |
 | BS Super Aleste | 266871 | [266871-bs-super-aleste.json](./266871-bs-super-aleste.json) |
+| BS Super Mario Collection | 67025 | [67025-bs-super-mario-collection.json](./67025-bs-super-mario-collection.json) |
 | BS Super Mario Collection: Dai-1-shuu | 179729 | [179729-bs-super-mario-collection-dai-1-shuu.json](./179729-bs-super-mario-collection-dai-1-shuu.json) |
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
 | BS Super Mario Collection: Dai-3-shuu | 179736 | [179736-bs-super-mario-collection-dai-3-shuu.json](./179736-bs-super-mario-collection-dai-3-shuu.json) |
 | BS Super Mario Collection: Dai-4-shuu | 179744 | [179744-bs-super-mario-collection-dai-4-shuu.json](./179744-bs-super-mario-collection-dai-4-shuu.json) |
+| BS Super Mario USA: Power Challenge | 67027 | [67027-bs-super-mario-usa-power-challenge.json](./67027-bs-super-mario-usa-power-challenge.json) |
 | BS Super Mario USA: Power Challenge - Dai-1-kai | 179972 | [179972-bs-super-mario-usa-power-challenge-dai-1-kai.json](./179972-bs-super-mario-usa-power-challenge-dai-1-kai.json) |
 | BS Super Mario USA: Power Challenge - Dai-2-kai | 179973 | [179973-bs-super-mario-usa-power-challenge-dai-2-kai.json](./179973-bs-super-mario-usa-power-challenge-dai-2-kai.json) |
 | BS Super Mario USA: Power Challenge - Dai-3-kai | 179974 | [179974-bs-super-mario-usa-power-challenge-dai-3-kai.json](./179974-bs-super-mario-usa-power-challenge-dai-3-kai.json) |
