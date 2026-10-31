@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Mercenaries | 16990 | [16990-galactic-civilizations-iii-mercenaries.json](./16990-galactic-civilizations-iii-mercenaries.json) |
 | Galactic Civilizations III: Mercenaries Expansion Pack | 163378 | [163378-galactic-civilizations-iii-mercenaries-expansion-pack.json](./163378-galactic-civilizations-iii-mercenaries-expansion-pack.json) |
 | Galactic Civilizations III: Precursor Worlds DLC | 163380 | [163380-galactic-civilizations-iii-precursor-worlds-dlc.json](./163380-galactic-civilizations-iii-precursor-worlds-dlc.json) |
+| Galactic Civilizations III: Retribution | 113995 | [113995-galactic-civilizations-iii-retribution.json](./113995-galactic-civilizations-iii-retribution.json) |
 | Galactic Civilizations III: Retribution Expansion | 163379 | [163379-galactic-civilizations-iii-retribution-expansion.json](./163379-galactic-civilizations-iii-retribution-expansion.json) |
 | Galactic Civilizations III: Revenge of the Snathi DLC | 163375 | [163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json](./163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json) |
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
@@ -1226,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Legends | 330384 | [330384-game-of-thrones-legends.json](./330384-game-of-thrones-legends.json) |
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
 | Game of Thrones: War for Westeros | 347638 | [347638-game-of-thrones-war-for-westeros.json](./347638-game-of-thrones-war-for-westeros.json) |
+| Game of Thrones: Winter is Coming | 114007 | [114007-game-of-thrones-winter-is-coming.json](./114007-game-of-thrones-winter-is-coming.json) |
 | Game of Vampires: Twilight Sun | 300265 | [300265-game-of-vampires-twilight-sun.json](./300265-game-of-vampires-twilight-sun.json) |
 | Game of War: Fire Age | 8685 | [8685-game-of-war-fire-age.json](./8685-game-of-war-fire-age.json) |
 | Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
@@ -10070,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslingers | 34097 | [34097-gunslingers.json](./34097-gunslingers.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
+| Gunslugs: Rogue Tactics | 114017 | [114017-gunslugs-rogue-tactics.json](./114017-gunslugs-rogue-tactics.json) |
 | Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
 | Gunsmith | 81232 | [81232-gunsmith.json](./81232-gunsmith.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
