@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Defense | 285923 | [285923-gachi-defense.json](./285923-gachi-defense.json) |
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
+| Gachi Gang | 100485 | [100485-gachi-gang.json](./100485-gachi-gang.json) |
 | Gachi Heroes | 110694 | [110694-gachi-heroes.json](./110694-gachi-heroes.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachi Revenge | 158889 | [158889-gachi-revenge.json](./158889-gachi-revenge.json) |
@@ -6249,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Dog | 176711 | [176711-good-dog.json](./176711-good-dog.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good doktor | 127532 | [127532-good-doktor.json](./127532-good-doktor.json) |
+| Good Dreams | 100532 | [100532-good-dreams.json](./100532-good-dreams.json) |
 | Good Dreams | 381132 | [381132-good-dreams.json](./381132-good-dreams.json) |
 | Good Eggzample | 68749 | [68749-good-eggzample.json](./68749-good-eggzample.json) |
 | Good Folk Cafe | 394821 | [394821-good-folk-cafe.json](./394821-good-folk-cafe.json) |
