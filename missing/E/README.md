@@ -7443,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Landings Pro | 86898 | [86898-extreme-landings-pro.json](./86898-extreme-landings-pro.json) |
 | Extreme Makeover: Home Edition | 262061 | [262061-extreme-makeover-home-edition.json](./262061-extreme-makeover-home-edition.json) |
 | Extreme Match | 105861 | [105861-extreme-match.json](./105861-extreme-match.json) |
+| Extreme Meatpunks Forever | 105004 | [105004-extreme-meatpunks-forever.json](./105004-extreme-meatpunks-forever.json) |
 | Extreme Meatpunks Forever: Bound by Ash | 142174 | [142174-extreme-meatpunks-forever-bound-by-ash.json](./142174-extreme-meatpunks-forever-bound-by-ash.json) |
 | Extreme Mining | 135035 | [135035-extreme-mining.json](./135035-extreme-mining.json) |
 | Extreme Motorcross | 209180 | [209180-extreme-motorcross.json](./209180-extreme-motorcross.json) |
