@@ -10260,6 +10260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodLust Shadowhunter | 17108 | [17108-bloodlust-shadowhunter.json](./17108-bloodlust-shadowhunter.json) |
 | Bloodlust: Santa Monica | 184751 | [184751-bloodlust-santa-monica.json](./184751-bloodlust-santa-monica.json) |
 | Bloodlust.exe | 370871 | [370871-bloodlust-exe.json](./370871-bloodlust-exe.json) |
+| BloodMasque | 62956 | [62956-bloodmasque.json](./62956-bloodmasque.json) |
 | Bloodmatch | 366728 | [366728-bloodmatch.json](./366728-bloodmatch.json) |
 | Bloodmoney | 362163 | [362163-bloodmoney.json](./362163-bloodmoney.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
