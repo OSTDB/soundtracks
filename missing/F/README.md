@@ -7085,6 +7085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight 787 - Advanced | 32843 | [32843-flight-787-advanced.json](./32843-flight-787-advanced.json) |
 | Flight 787: Advanced | 197630 | [197630-flight-787-advanced.json](./197630-flight-787-advanced.json) |
 | Flight Academy | 62999 | [62999-flight-academy.json](./62999-flight-academy.json) |
+| Flight Assignment: Airline Transport Pilot | 80275 | [80275-flight-assignment-airline-transport-pilot.json](./80275-flight-assignment-airline-transport-pilot.json) |
 | Flight Attendant Simulator | 153905 | [153905-flight-attendant-simulator.json](./153905-flight-attendant-simulator.json) |
 | Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
 | Flight Color | 252928 | [252928-flight-color.json](./252928-flight-color.json) |
