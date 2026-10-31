@@ -3095,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faust's Folly | 54952 | [54952-fausts-folly.json](./54952-fausts-folly.json) |
 | Faustão Dating Sim | 116655 | [116655-faustao-dating-sim.json](./116655-faustao-dating-sim.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
+| Faux | 115988 | [115988-faux.json](./115988-faux.json) |
 | Faux Gravity | 327661 | [327661-faux-gravity.json](./327661-faux-gravity.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
@@ -5366,6 +5367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Three Houses - Cindered Shadows | 132224 | [132224-fire-emblem-three-houses-cindered-shadows.json](./132224-fire-emblem-three-houses-cindered-shadows.json) |
 | Fire Emblem: Three Houses - Collector's Edition | 134235 | [134235-fire-emblem-three-houses-collectors-edition.json](./134235-fire-emblem-three-houses-collectors-edition.json) |
 | Fire Emblem: Three Houses - Expansion Pass | 293729 | [293729-fire-emblem-three-houses-expansion-pass.json](./293729-fire-emblem-three-houses-expansion-pass.json) |
+| Fire Emblem: Three Houses - Fódlan Collection | 115999 | [115999-fire-emblem-three-houses-fodlan-collection.json](./115999-fire-emblem-three-houses-fodlan-collection.json) |
 | Fire Emblem: Three Houses - Seasons of Warfare Edition | 136363 | [136363-fire-emblem-three-houses-seasons-of-warfare-edition.json](./136363-fire-emblem-three-houses-seasons-of-warfare-edition.json) |
 | Fire Emblem: Three Houses + Expansion Pass | 293730 | [293730-fire-emblem-three-houses-expansion-pass.json](./293730-fire-emblem-three-houses-expansion-pass.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
@@ -7824,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Fu | 109912 | [109912-flying-fu.json](./109912-flying-fu.json) |
 | Flying Girls | 149869 | [149869-flying-girls.json](./149869-flying-girls.json) |
 | Flying Gorilla | 201968 | [201968-flying-gorilla.json](./201968-flying-gorilla.json) |
+| Flying Guy | 116004 | [116004-flying-guy.json](./116004-flying-guy.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hamster HD | 52220 | [52220-flying-hamster-hd.json](./52220-flying-hamster-hd.json) |
 | Flying Hero | 64265 | [64265-flying-hero.json](./64265-flying-hero.json) |
@@ -12618,6 +12621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
 | Future Vox Imaginarium Dot Exe | 198444 | [198444-future-vox-imaginarium-dot-exe.json](./198444-future-vox-imaginarium-dot-exe.json) |
 | Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
+| Future War and World II Bundle | 116006 | [116006-future-war-and-world-ii-bundle.json](./116006-future-war-and-world-ii-bundle.json) |
 | Future War Tactics: SOF vs. Alien Invasion - Turn-based Strategy | 348829 | [348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json](./348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
