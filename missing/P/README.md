@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Dragoon Mini | 1670 | [1670-panzer-dragoon-mini.json](./1670-panzer-dragoon-mini.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
 | Panzer Dragoon Zwei: Remake | 113351 | [113351-panzer-dragoon-zwei-remake.json](./113351-panzer-dragoon-zwei-remake.json) |
+| Panzer Elite Action: Dunes of War | 79025 | [79025-panzer-elite-action-dunes-of-war.json](./79025-panzer-elite-action-dunes-of-war.json) |
 | Panzer Elite Action: Fields of Glory | 5978 | [5978-panzer-elite-action-fields-of-glory.json](./5978-panzer-elite-action-fields-of-glory.json) |
 | Panzer Elite: Special Edition | 51857 | [51857-panzer-elite-special-edition.json](./51857-panzer-elite-special-edition.json) |
 | Panzer Front | 22008 | [22008-panzer-front.json](./22008-panzer-front.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Simulator: Good Company Case | 124811 | [124811-pc-building-simulator-good-company-case.json](./124811-pc-building-simulator-good-company-case.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
 | PC Calciatori 2005 | 100036 | [100036-pc-calciatori-2005.json](./100036-pc-calciatori-2005.json) |
+| PC Classix | 79018 | [79018-pc-classix.json](./79018-pc-classix.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Engine Game Box | 261908 | [261908-pc-engine-game-box.json](./261908-pc-engine-game-box.json) |
@@ -4587,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson & Findus: Spökskrämmarmaskinen | 286108 | [286108-pettson-and-findus-spokskrammarmaskinen.json](./286108-pettson-and-findus-spokskrammarmaskinen.json) |
 | Pettson o Findus i Snickarbon | 265643 | [265643-pettson-o-findus-i-snickarbon.json](./265643-pettson-o-findus-i-snickarbon.json) |
 | Pettson o Findus i Trädgården | 70121 | [70121-pettson-o-findus-i-tradgarden.json](./70121-pettson-o-findus-i-tradgarden.json) |
+| Pettson o Findus och Mucklornas Värld | 79030 | [79030-pettson-o-findus-och-mucklornas-varld.json](./79030-pettson-o-findus-och-mucklornas-varld.json) |
 | Pettson o Findus: Julkalender | 286112 | [286112-pettson-o-findus-julkalender.json](./286112-pettson-o-findus-julkalender.json) |
 | Pettson's Inventions | 56886 | [56886-pettsons-inventions.json](./56886-pettsons-inventions.json) |
 | Pettson's Inventions 2 | 56885 | [56885-pettsons-inventions-2.json](./56885-pettsons-inventions-2.json) |
@@ -5662,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
 | Picture Treasure Hunt | 356526 | [356526-picture-treasure-hunt.json](./356526-picture-treasure-hunt.json) |
+| PictureBook Games: Pop-Up Pursuit | 79012 | [79012-picturebook-games-pop-up-pursuit.json](./79012-picturebook-games-pop-up-pursuit.json) |
 | PictureBook Games: The Royal Bluff | 77127 | [77127-picturebook-games-the-royal-bluff.json](./77127-picturebook-games-the-royal-bluff.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Pictures at an Exhibition | 409408 | [409408-pictures-at-an-exhibition.json](./409408-pictures-at-an-exhibition.json) |
@@ -12463,6 +12467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
 | Powerglove Reloaded | 187883 | [187883-powerglove-reloaded.json](./187883-powerglove-reloaded.json) |
+| PowerHits Movies | 79010 | [79010-powerhits-movies.json](./79010-powerhits-movies.json) |
 | PowerHits Sports | 85745 | [85745-powerhits-sports.json](./85745-powerhits-sports.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
