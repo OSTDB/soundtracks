@@ -8246,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodie Avenue | 250368 | [250368-foodie-avenue.json](./250368-foodie-avenue.json) |
 | Foodie Bear | 121608 | [121608-foodie-bear.json](./121608-foodie-bear.json) |
 | Foodie Blast: Block Puzzle | 411768 | [411768-foodie-blast-block-puzzle.json](./411768-foodie-blast-block-puzzle.json) |
+| Foodie Cuisine Fever | 88692 | [88692-foodie-cuisine-fever.json](./88692-foodie-cuisine-fever.json) |
 | Foodie Yama | 344439 | [344439-foodie-yama.json](./344439-foodie-yama.json) |
 | Foodie's Furniture | 358095 | [358095-foodies-furniture.json](./358095-foodies-furniture.json) |
 | Foodies | 174619 | [174619-foodies.json](./174619-foodies.json) |
@@ -8843,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Warden | 347496 | [347496-forest-warden.json](./347496-forest-warden.json) |
 | Forest Whiskers | 383948 | [383948-forest-whiskers.json](./383948-forest-whiskers.json) |
 | Forest Woodman | 127773 | [127773-forest-woodman.json](./127773-forest-woodman.json) |
+| Forest Zombies | 88682 | [88682-forest-zombies.json](./88682-forest-zombies.json) |
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forest's Secret | 138716 | [138716-forests-secret.json](./138716-forests-secret.json) |
 | Forestation | 76446 | [76446-forestation.json](./76446-forestation.json) |
@@ -10454,6 +10456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Billy | 256662 | [256662-free-billy.json](./256662-free-billy.json) |
 | Free Birds: Baby Turkey Trouble | 227825 | [227825-free-birds-baby-turkey-trouble.json](./227825-free-birds-baby-turkey-trouble.json) |
 | Free Bowling 3D | 68507 | [68507-free-bowling-3d.json](./68507-free-bowling-3d.json) |
+| Free Cell Collection | 88717 | [88717-free-cell-collection.json](./88717-free-cell-collection.json) |
 | Free Chess | 297904 | [297904-free-chess.json](./297904-free-chess.json) |
 | Free Chess: Blocky Set | 354204 | [354204-free-chess-blocky-set.json](./354204-free-chess-blocky-set.json) |
 | Free Chess: Brutalist Set | 336482 | [336482-free-chess-brutalist-set.json](./336482-free-chess-brutalist-set.json) |
@@ -11901,6 +11904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact | 353613 | [353613-full-contact.json](./353613-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Court Heroes | 235625 | [235625-full-court-heroes.json](./235625-full-court-heroes.json) |
+| Full Deck Poker Solitaire | 88733 | [88733-full-deck-poker-solitaire.json](./88733-full-deck-poker-solitaire.json) |
 | Full Deck Solitaire | 91173 | [91173-full-deck-solitaire.json](./91173-full-deck-solitaire.json) |
 | Full Drift Racing - Drifting & Racing Game | 114728 | [114728-full-drift-racing-drifting-and-racing-game.json](./114728-full-drift-racing-drifting-and-racing-game.json) |
 | Full English City | 310804 | [310804-full-english-city.json](./310804-full-english-city.json) |
@@ -12097,6 +12101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
 | FunBall 3D | 205858 | [205858-funball-3d.json](./205858-funball-3d.json) |
 | Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
+| Funbridge your bridge club | 88836 | [88836-funbridge-your-bridge-club.json](./88836-funbridge-your-bridge-club.json) |
 | Func Key | 383673 | [383673-func-key.json](./383673-func-key.json) |
 | Function | 119618 | [119618-function.json](./119618-function.json) |
 | Function Ball | 293503 | [293503-function-ball.json](./293503-function-ball.json) |
