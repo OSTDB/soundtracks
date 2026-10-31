@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Clans | 328923 | [328923-call-of-clans.json](./328923-call-of-clans.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
+| Call of Combat | 69006 | [69006-call-of-combat.json](./69006-call-of-combat.json) |
 | Call of Commander: Zombie Island | 201942 | [201942-call-of-commander-zombie-island.json](./201942-call-of-commander-zombie-island.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
 | Call of Cthulhu | 9176 | [9176-call-of-cthulhu.json](./9176-call-of-cthulhu.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch of the day | 302072 | [302072-catch-of-the-day.json](./302072-catch-of-the-day.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
+| Catch Simona in New York City | 69004 | [69004-catch-simona-in-new-york-city.json](./69004-catch-simona-in-new-york-city.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
 | Catch the Bowling Balls | 152229 | [152229-catch-the-bowling-balls.json](./152229-catch-the-bowling-balls.json) |
 | Catch the Bowling Balls: Challenge Mode Edition | 207053 | [207053-catch-the-bowling-balls-challenge-mode-edition.json](./207053-catch-the-bowling-balls-challenge-mode-edition.json) |
@@ -7965,6 +7967,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella: The Crystal Fairytale | 25543 | [25543-cinderella-the-crystal-fairytale.json](./25543-cinderella-the-crystal-fairytale.json) |
 | Cinderella's Castle Designer | 50427 | [50427-cinderellas-castle-designer.json](./50427-cinderellas-castle-designer.json) |
 | Cinderella's Dollhouse | 209034 | [209034-cinderellas-dollhouse.json](./209034-cinderellas-dollhouse.json) |
+| Cinderella's Fairy Tale | 69027 | [69027-cinderellas-fairy-tale.json](./69027-cinderellas-fairy-tale.json) |
+| Cinderella's Fairy Tale | 69032 | [69032-cinderellas-fairy-tale.json](./69032-cinderellas-fairy-tale.json) |
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
 | Cinderia | 345962 | [345962-cinderia.json](./345962-cinderia.json) |
 | Cinderline | 392394 | [392394-cinderline.json](./392394-cinderline.json) |
@@ -9367,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhorse | 18446 | [18446-cliffhorse.json](./18446-cliffhorse.json) |
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford the Big Red Dog: Phonics | 70075 | [70075-clifford-the-big-red-dog-phonics.json](./70075-clifford-the-big-red-dog-phonics.json) |
+| Clifford the Big Red Dog: Reading | 69060 | [69060-clifford-the-big-red-dog-reading.json](./69060-clifford-the-big-red-dog-reading.json) |
 | Clifford the Big Red Dog: Thinking Adventures | 70775 | [70775-clifford-the-big-red-dog-thinking-adventures.json](./70775-clifford-the-big-red-dog-thinking-adventures.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
 | Cliffs of War: Fortress Defenders | 34606 | [34606-cliffs-of-war-fortress-defenders.json](./34606-cliffs-of-war-fortress-defenders.json) |
@@ -18429,6 +18434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycle | 130047 | [130047-cyber-cycle.json](./130047-cyber-cycle.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
+| Cyber Daisenryaku | 69002 | [69002-cyber-daisenryaku.json](./69002-cyber-daisenryaku.json) |
 | Cyber Defense 2088 | 154896 | [154896-cyber-defense-2088.json](./154896-cyber-defense-2088.json) |
 | Cyber Diver | 176721 | [176721-cyber-diver.json](./176721-cyber-diver.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
@@ -18684,6 +18690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
 | CyberNeon | 171753 | [171753-cyberneon.json](./171753-cyberneon.json) |
 | CyberNet Duel | 258525 | [258525-cybernet-duel.json](./258525-cybernet-duel.json) |
+| Cybernetic Empire | 69001 | [69001-cybernetic-empire.json](./69001-cybernetic-empire.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
 | Cybernetic Hi-School | 73628 | [73628-cybernetic-hi-school.json](./73628-cybernetic-hi-school.json) |
 | Cybernetic Hi-School Part 2: Highway Buster | 70080 | [70080-cybernetic-hi-school-part-2-highway-buster.json](./70080-cybernetic-hi-school-part-2-highway-buster.json) |
