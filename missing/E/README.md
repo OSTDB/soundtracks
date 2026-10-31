@@ -4138,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic Mickey: Rebrushed - Costume Pack | 308842 | [308842-epic-mickey-rebrushed-costume-pack.json](./308842-epic-mickey-rebrushed-costume-pack.json) |
 | Epic Monster Quest | 271635 | [271635-epic-monster-quest.json](./271635-epic-monster-quest.json) |
+| Epic Monsters | 65168 | [65168-epic-monsters.json](./65168-epic-monsters.json) |
 | Epic Ninja | 220013 | [220013-epic-ninja.json](./220013-epic-ninja.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
 | Epic of Brave | 286021 | [286021-epic-of-brave.json](./286021-epic-of-brave.json) |
