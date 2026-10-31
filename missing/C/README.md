@@ -10259,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cog Owl | 211281 | [211281-cog-owl.json](./211281-cog-owl.json) |
 | COG: Back to the 80s | 192928 | [192928-cog-back-to-the-80s.json](./192928-cog-back-to-the-80s.json) |
 | Cog: The Rogue Machine | 270857 | [270857-cog-the-rogue-machine.json](./270857-cog-the-rogue-machine.json) |
+| Cogan's Run | 113992 | [113992-cogans-run.json](./113992-cogans-run.json) |
 | Cogen: Sword of Rewind | 142598 | [142598-cogen-sword-of-rewind.json](./142598-cogen-sword-of-rewind.json) |
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Cogen: Sword of Rewind - Additional Story ＆ Yuji Otori | 196103 | [196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json](./196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json) |
@@ -11233,6 +11234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns | 284379 | [284379-columns.json](./284379-columns.json) |
 | Columns | 311356 | [311356-columns.json](./311356-columns.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
+| Columns 2048: Match 3 Numbers | 114038 | [114038-columns-2048-match-3-numbers.json](./114038-columns-2048-match-3-numbers.json) |
 | Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
 | Columns II: The Voyage Through Time | 14985 | [14985-columns-ii-the-voyage-through-time.json](./14985-columns-ii-the-voyage-through-time.json) |
