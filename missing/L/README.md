@@ -4241,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light City District | 257912 | [257912-light-city-district.json](./257912-light-city-district.json) |
 | Light Crusader | 15073 | [15073-light-crusader.json](./15073-light-crusader.json) |
 | Light Cry | 268993 | [268993-light-cry.json](./268993-light-cry.json) |
+| Light Cube | 100529 | [100529-light-cube.json](./100529-light-cube.json) |
 | Light Cubed | 121443 | [121443-light-cubed.json](./121443-light-cubed.json) |
 | Light Cycle | 96525 | [96525-light-cycle.json](./96525-light-cycle.json) |
 | Light Dark | 273573 | [273573-light-dark.json](./273573-light-dark.json) |
@@ -4704,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lime Iro Ryuukitan X ~Koi, Oshiete Kudasai.~ | 153731 | [153731-lime-iro-ryuukitan-x-koi-oshiete-kudasai.json](./153731-lime-iro-ryuukitan-x-koi-oshiete-kudasai.json) |
 | Lime Iro Senkitan ~Meiji Nippon, Otome Sakimorisu.~ | 153735 | [153735-lime-iro-senkitan-meiji-nippon-otome-sakimorisu.json](./153735-lime-iro-senkitan-meiji-nippon-otome-sakimorisu.json) |
 | Lime Juice | 323719 | [323719-lime-juice.json](./323719-lime-juice.json) |
+| Lime Odyssey: The Chronicles of Orta | 100526 | [100526-lime-odyssey-the-chronicles-of-orta.json](./100526-lime-odyssey-the-chronicles-of-orta.json) |
 | Lime Stenched Dirt | 375555 | [375555-lime-stenched-dirt.json](./375555-lime-stenched-dirt.json) |
 | Lime Volleyball | 307590 | [307590-lime-volleyball.json](./307590-lime-volleyball.json) |
 | Limekaruza STG | 409888 | [409888-limekaruza-stg.json](./409888-limekaruza-stg.json) |
