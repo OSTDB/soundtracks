@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Side | 219730 | [219730-b-side.json](./219730-b-side.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Team | 193693 | [193693-b-team.json](./193693-b-team.json) |
+| B-Units Build it! | 65712 | [65712-b-units-build-it.json](./65712-b-units-build-it.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B:(ursed | 223862 | [223862-b-ursed.json](./223862-b-ursed.json) |
 | B. Braun Aesculap Spine VR | 107686 | [107686-b-braun-aesculap-spine-vr.json](./107686-b-braun-aesculap-spine-vr.json) |
@@ -876,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6352,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade X Xone | 314959 | [314959-beyblade-x-xone.json](./314959-beyblade-x-xone.json) |
 | Beyblade: Burst Rivals | 108628 | [108628-beyblade-burst-rivals.json](./108628-beyblade-burst-rivals.json) |
 | Beyblade: Evolution | 21566 | [21566-beyblade-evolution.json](./21566-beyblade-evolution.json) |
+| BeyBlade: Fighting Tournament | 65706 | [65706-beyblade-fighting-tournament.json](./65706-beyblade-fighting-tournament.json) |
 | Beyblade: G-Revolution | 9726 | [9726-beyblade-g-revolution.json](./9726-beyblade-g-revolution.json) |
 | Beyblade: Let it Rip! | 4653 | [4653-beyblade-let-it-rip.json](./4653-beyblade-let-it-rip.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
@@ -6986,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Top | 85927 | [85927-big-top.json](./85927-big-top.json) |
 | Big Top Best Kids Games Bundle | 303877 | [303877-big-top-best-kids-games-bundle.json](./303877-big-top-best-kids-games-bundle.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
+| Big Town Shootout | 65868 | [65868-big-town-shootout.json](./65868-big-town-shootout.json) |
 | Big Trouble in Little Chimney | 327122 | [327122-big-trouble-in-little-chimney.json](./327122-big-trouble-in-little-chimney.json) |
 | Big Trouble in Little China | 13397 | [13397-big-trouble-in-little-china.json](./13397-big-trouble-in-little-china.json) |
 | Big Trouble in Little Garden | 183280 | [183280-big-trouble-in-little-garden.json](./183280-big-trouble-in-little-garden.json) |
@@ -10920,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Boards and Blades 2 | 92401 | [92401-boards-and-blades-2.json](./92401-boards-and-blades-2.json) |
 | Boardwalk Arcade 2 | 292144 | [292144-boardwalk-arcade-2.json](./292144-boardwalk-arcade-2.json) |
+| Boardwalk Ball Toss | 65871 | [65871-boardwalk-ball-toss.json](./65871-boardwalk-ball-toss.json) |
 | Boardwalk Memories | 191565 | [191565-boardwalk-memories.json](./191565-boardwalk-memories.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
 | Boars in Rome | 380833 | [380833-boars-in-rome.json](./380833-boars-in-rome.json) |
@@ -14161,6 +14166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
 | Brick on the Head | 266101 | [266101-brick-on-the-head.json](./266101-brick-on-the-head.json) |
 | Brick People | 166071 | [166071-brick-people.json](./166071-brick-people.json) |
+| Brick People | 65701 | [65701-brick-people.json](./65701-brick-people.json) |
 | Brick Rage | 243079 | [243079-brick-rage.json](./243079-brick-rage.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
 | Brick Shot 2 | 68339 | [68339-brick-shot-2.json](./68339-brick-shot-2.json) |
