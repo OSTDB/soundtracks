@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Freezeria | 191917 | [191917-papas-freezeria.json](./191917-papas-freezeria.json) |
+| Papa's Freezeria to Go! | 95739 | [95739-papas-freezeria-to-go.json](./95739-papas-freezeria-to-go.json) |
 | Papa's Hot Doggeria | 210491 | [210491-papas-hot-doggeria.json](./210491-papas-hot-doggeria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
@@ -8734,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
+| Platform Challenge | 95754 | [95754-platform-challenge.json](./95754-platform-challenge.json) |
 | Platform Control | 315346 | [315346-platform-control.json](./315346-platform-control.json) |
 | Platform Game Maker | 257534 | [257534-platform-game-maker.json](./257534-platform-game-maker.json) |
 | Platform Golf | 81936 | [81936-platform-golf.json](./81936-platform-golf.json) |
@@ -12772,6 +12774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidential Rise | 348293 | [348293-presidential-rise.json](./348293-presidential-rise.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | Presidential Social Media Manager | 359345 | [359345-presidential-social-media-manager.json](./359345-presidential-social-media-manager.json) |
+| Presidential SpaceForce | 95780 | [95780-presidential-spaceforce.json](./95780-presidential-spaceforce.json) |
 | Presidents Tower Defense | 295158 | [295158-presidents-tower-defense.json](./295158-presidents-tower-defense.json) |
 | Presidents vs. Aliens | 175509 | [175509-presidents-vs-aliens.json](./175509-presidents-vs-aliens.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
@@ -16405,6 +16408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzingo | 252943 | [252943-puzzingo.json](./252943-puzzingo.json) |
 | Puzzl | 368433 | [368433-puzzl.json](./368433-puzzl.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
+| PuzzlAR: World Tour | 95766 | [95766-puzzlar-world-tour.json](./95766-puzzlar-world-tour.json) |
 | Puzzle | 119462 | [119462-puzzle.json](./119462-puzzle.json) |
 | Puzzle | 131268 | [131268-puzzle.json](./131268-puzzle.json) |
 | Puzzle | 287546 | [287546-puzzle.json](./287546-puzzle.json) |
