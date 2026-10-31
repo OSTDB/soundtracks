@@ -2929,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Administrators | 196569 | [196569-administrators.json](./196569-administrators.json) |
 | Admiral Nemo | 25428 | [25428-admiral-nemo.json](./25428-admiral-nemo.json) |
 | Admiral: Battle for Uranium | 261859 | [261859-admiral-battle-for-uranium.json](./261859-admiral-battle-for-uranium.json) |
+| Admiral: Sea Battles | 74094 | [74094-admiral-sea-battles.json](./74094-admiral-sea-battles.json) |
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
 | Adohiinage | 345439 | [345439-adohiinage.json](./345439-adohiinage.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
@@ -10055,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Aircraft Artillery | 292018 | [292018-anti-aircraft-artillery.json](./292018-anti-aircraft-artillery.json) |
 | Anti Chess | 56434 | [56434-anti-chess.json](./56434-anti-chess.json) |
 | Anti Frank's Wrath | 173255 | [173255-anti-franks-wrath.json](./173255-anti-franks-wrath.json) |
+| Anti Gravity Warriors VR | 74143 | [74143-anti-gravity-warriors-vr.json](./74143-anti-gravity-warriors-vr.json) |
 | Anti Hero Bundle | 147791 | [147791-anti-hero-bundle.json](./147791-anti-hero-bundle.json) |
 | Anti Pac-Man | 325557 | [325557-anti-pac-man.json](./325557-anti-pac-man.json) |
 | Anti Pong | 147878 | [147878-anti-pong.json](./147878-anti-pong.json) |
