@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barefort | 390612 | [390612-barefort.json](./390612-barefort.json) |
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
+| Barely Breakout! Underwater ReMix | 82551 | [82551-barely-breakout-underwater-remix.json](./82551-barely-breakout-underwater-remix.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barely Intersex | 419616 | [419616-barely-intersex.json](./419616-barely-intersex.json) |
 | Barely Racing | 149170 | [149170-barely-racing.json](./149170-barely-racing.json) |
@@ -3210,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena: Robot Apocalypse | 148886 | [148886-battle-arena-robot-apocalypse.json](./148886-battle-arena-robot-apocalypse.json) |
 | Battle Army | 81212 | [81212-battle-army.json](./81212-battle-army.json) |
 | Battle Athletess Daiundoukai | 45419 | [45419-battle-athletess-daiundoukai.json](./45419-battle-athletess-daiundoukai.json) |
+| Battle Athletess Daiundoukai GTO | 82515 | [82515-battle-athletess-daiundoukai-gto.json](./82515-battle-athletess-daiundoukai-gto.json) |
 | Battle Axe | 141511 | [141511-battle-axe.json](./141511-battle-axe.json) |
 | Battle Axe & Final Vendetta Bundle | 311110 | [311110-battle-axe-and-final-vendetta-bundle.json](./311110-battle-axe-and-final-vendetta-bundle.json) |
 | Battle Axe: Badge Edition | 143285 | [143285-battle-axe-badge-edition.json](./143285-battle-axe-badge-edition.json) |
@@ -10350,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Service | 155948 | [155948-bloody-service.json](./155948-bloody-service.json) |
 | Bloody Shrine | 284019 | [284019-bloody-shrine.json](./284019-bloody-shrine.json) |
 | Bloody Sky | 312153 | [312153-bloody-sky.json](./312153-bloody-sky.json) |
+| Bloody Skyscraper | 82363 | [82363-bloody-skyscraper.json](./82363-bloody-skyscraper.json) |
 | Bloody Slipgates | 271180 | [271180-bloody-slipgates.json](./271180-bloody-slipgates.json) |
 | Bloody Steel | 256913 | [256913-bloody-steel.json](./256913-bloody-steel.json) |
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
@@ -11312,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Alley | 21917 | [21917-bomb-alley.json](./21917-bomb-alley.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
+| Bomb Bay | 82361 | [82361-bomb-bay.json](./82361-bomb-bay.json) |
 | Bomb Bee N | 145395 | [145395-bomb-bee-n.json](./145395-bomb-bee-n.json) |
 | Bomb Blaster | 56840 | [56840-bomb-blaster.json](./56840-bomb-blaster.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
