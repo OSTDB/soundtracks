@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Robot | 102895 | [102895-virtual-pet-robot.json](./102895-virtual-pet-robot.json) |
 | Virtual Pet Tiger | 105669 | [105669-virtual-pet-tiger.json](./105669-virtual-pet-tiger.json) |
 | Virtual Pet Unicorn | 88151 | [88151-virtual-pet-unicorn.json](./88151-virtual-pet-unicorn.json) |
+| Virtual Pirate VR | 98697 | [98697-virtual-pirate-vr.json](./98697-virtual-pirate-vr.json) |
 | Virtual Pool | 20739 | [20739-virtual-pool.json](./20739-virtual-pool.json) |
 | Virtual Pool 2 | 71362 | [71362-virtual-pool-2.json](./71362-virtual-pool-2.json) |
 | Virtual Pool 3 | 938 | [938-virtual-pool-3.json](./938-virtual-pool-3.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Protocol | 385248 | [385248-vortex-protocol.json](./385248-vortex-protocol.json) |
 | Vortex Raider | 416723 | [416723-vortex-raider.json](./416723-vortex-raider.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
+| Vortex Rush | 98706 | [98706-vortex-rush.json](./98706-vortex-rush.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
 | Vortexika | 232612 | [232612-vortexika.json](./232612-vortexika.json) |
 | Vortexion | 318864 | [318864-vortexion.json](./318864-vortexion.json) |
