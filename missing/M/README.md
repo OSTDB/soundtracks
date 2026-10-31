@@ -16234,6 +16234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
 | Mountain Peak Battle Mess | 147685 | [147685-mountain-peak-battle-mess.json](./147685-mountain-peak-battle-mess.json) |
+| Mountain Rescue Simulator | 123737 | [123737-mountain-rescue-simulator.json](./123737-mountain-rescue-simulator.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
 | Mountain Skiing | 125620 | [125620-mountain-skiing.json](./125620-mountain-skiing.json) |
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
@@ -16445,6 +16446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moy 6 | 228897 | [228897-moy-6.json](./228897-moy-6.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
+| Moysenland | 123732 | [123732-moysenland.json](./123732-moysenland.json) |
 | Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
