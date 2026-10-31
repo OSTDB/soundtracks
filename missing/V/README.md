@@ -2855,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
 | Vlinder Life | 301133 | [301133-vlinder-life.json](./301133-vlinder-life.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
+| Vlogger Go Viral - Tube Tycoon | 99902 | [99902-vlogger-go-viral-tube-tycoon.json](./99902-vlogger-go-viral-tube-tycoon.json) |
 | Vlorp | 144850 | [144850-vlorp.json](./144850-vlorp.json) |
 | vMigo | 220275 | [220275-vmigo.json](./220275-vmigo.json) |
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
