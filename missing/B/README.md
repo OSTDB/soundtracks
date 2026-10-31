@@ -864,7 +864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2477,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron of Shell | 256772 | [256772-baron-of-shell.json](./256772-baron-of-shell.json) |
 | Baron von Puttyngton versus the Cancerous M.C. Escher Maze of Cheese | 80428 | [80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json](./80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json) |
 | Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
+| Baron: Fur is Gonna Fly | 123216 | [123216-baron-fur-is-gonna-fly.json](./123216-baron-fur-is-gonna-fly.json) |
 | Barony | 35189 | [35189-barony.json](./35189-barony.json) |
 | Barony: Deserters & Disciples | 387400 | [387400-barony-deserters-and-disciples.json](./387400-barony-deserters-and-disciples.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
@@ -6272,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Clouds | 74479 | [74479-beyond-clouds.json](./74479-beyond-clouds.json) |
 | Beyond Columns | 70450 | [70450-beyond-columns.json](./70450-beyond-columns.json) |
 | Beyond Crimson Stars | 128966 | [128966-beyond-crimson-stars.json](./128966-beyond-crimson-stars.json) |
+| Beyond Critical | 123191 | [123191-beyond-critical.json](./123191-beyond-critical.json) |
 | Beyond Dark | 54916 | [54916-beyond-dark.json](./54916-beyond-dark.json) |
 | Beyond Dark Castle | 11957 | [11957-beyond-dark-castle.json](./11957-beyond-dark-castle.json) |
 | Beyond Dark Castle | 334220 | [334220-beyond-dark-castle.json](./334220-beyond-dark-castle.json) |
@@ -7568,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Tale | 259132 | [259132-bird-tale.json](./259132-bird-tale.json) |
 | Bird Tapper vs the Krampus Fellowship Clan | 297568 | [297568-bird-tapper-vs-the-krampus-fellowship-clan.json](./297568-bird-tapper-vs-the-krampus-fellowship-clan.json) |
 | Bird Tapper: Purple Platoon Panic | 297567 | [297567-bird-tapper-purple-platoon-panic.json](./297567-bird-tapper-purple-platoon-panic.json) |
+| Bird View Burger Barn | 123242 | [123242-bird-view-burger-barn.json](./123242-bird-view-burger-barn.json) |
 | Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
 | Bird Watch: Central Park | 256670 | [256670-bird-watch-central-park.json](./256670-bird-watch-central-park.json) |
 | Bird Watcher: The Interactive Birding Game | 130528 | [130528-bird-watcher-the-interactive-birding-game.json](./130528-bird-watcher-the-interactive-birding-game.json) |
@@ -12611,6 +12613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowl Big | 411351 | [411351-bowl-big.json](./411351-bowl-big.json) |
 | Bowl Faster | 244409 | [244409-bowl-faster.json](./244409-bowl-faster.json) |
 | Bowl VR | 32315 | [32315-bowl-vr.json](./32315-bowl-vr.json) |
+| Bowl-Ed Over | 123236 | [123236-bowl-ed-over.json](./123236-bowl-ed-over.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowlatro | 369521 | [369521-bowlatro.json](./369521-bowlatro.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
