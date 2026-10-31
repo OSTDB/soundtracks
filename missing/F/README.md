@@ -7110,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of Pigarus | 144017 | [144017-flight-of-pigarus.json](./144017-flight-of-pigarus.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
 | Flight of the Asteroid Field | 359449 | [359449-flight-of-the-asteroid-field.json](./359449-flight-of-the-asteroid-field.json) |
+| Flight of the Athena | 76317 | [76317-flight-of-the-athena.json](./76317-flight-of-the-athena.json) |
 | Flight of the Baby Princess | 134842 | [134842-flight-of-the-baby-princess.json](./134842-flight-of-the-baby-princess.json) |
 | Flight of the Fireflies | 22339 | [22339-flight-of-the-fireflies.json](./22339-flight-of-the-fireflies.json) |
 | Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
@@ -7945,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
 | Flying Red Barrel: The Diary of a Little Aviator | 50841 | [50841-flying-red-barrel-the-diary-of-a-little-aviator.json](./50841-flying-red-barrel-the-diary-of-a-little-aviator.json) |
 | Flying Rock: Arena | 41927 | [41927-flying-rock-arena.json](./41927-flying-rock-arena.json) |
+| Flying Salvager | 76346 | [76346-flying-salvager.json](./76346-flying-salvager.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Saucer | 73751 | [73751-flying-saucer.json](./73751-flying-saucer.json) |
 | Flying Saucers | 230866 | [230866-flying-saucers.json](./230866-flying-saucers.json) |
