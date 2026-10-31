@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
 | Cafe Haven | 406157 | [406157-cafe-haven.json](./406157-cafe-haven.json) |
 | Cafe in the Clouds | 175923 | [175923-cafe-in-the-clouds.json](./175923-cafe-in-the-clouds.json) |
+| Café International | 113281 | [113281-cafe-international.json](./113281-cafe-international.json) |
 | Cafe Junkie | 59174 | [59174-cafe-junkie.json](./59174-cafe-junkie.json) |
 | Cafe Lindbergh: Summer Season | 269392 | [269392-cafe-lindbergh-summer-season.json](./269392-cafe-lindbergh-summer-season.json) |
 | Cafe Little Wish: Mahou no Recipe | 269393 | [269393-cafe-little-wish-mahou-no-recipe.json](./269393-cafe-little-wish-mahou-no-recipe.json) |
@@ -1915,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Jump Challenge | 215498 | [215498-car-jump-challenge.json](./215498-car-jump-challenge.json) |
 | Car Looper | 150533 | [150533-car-looper.json](./150533-car-looper.json) |
 | Car Maker Game: Fun Simulator | 105701 | [105701-car-maker-game-fun-simulator.json](./105701-car-maker-game-fun-simulator.json) |
+| Car Manufacture | 113301 | [113301-car-manufacture.json](./113301-car-manufacture.json) |
 | Car Mats | 219384 | [219384-car-mats.json](./219384-car-mats.json) |
 | Car Mayhem | 119511 | [119511-car-mayhem.json](./119511-car-mayhem.json) |
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
@@ -2032,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wars | 42214 | [42214-car-wars.json](./42214-car-wars.json) |
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
+| Car Wash Simulator | 113308 | [113308-car-wash-simulator.json](./113308-car-wash-simulator.json) |
 | Car Wash Simulator | 343750 | [343750-car-wash-simulator.json](./343750-car-wash-simulator.json) |
 | Car Wash TD: Tower Defense | 174070 | [174070-car-wash-td-tower-defense.json](./174070-car-wash-td-tower-defense.json) |
 | Car Washer: Summer of the Ninja | 35260 | [35260-car-washer-summer-of-the-ninja.json](./35260-car-washer-summer-of-the-ninja.json) |
@@ -10287,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
 | Cogwheel | 344725 | [344725-cogwheel.json](./344725-cogwheel.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
+| Cohabitation Guide | 113294 | [113294-cohabitation-guide.json](./113294-cohabitation-guide.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
 | Cohen's Towers | 23949 | [23949-cohens-towers.json](./23949-cohens-towers.json) |
 | Cohort Chess | 232881 | [232881-cohort-chess.json](./232881-cohort-chess.json) |
