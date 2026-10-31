@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
 | Warhammer: Snotling Fling | 34227 | [34227-warhammer-snotling-fling.json](./34227-warhammer-snotling-fling.json) |
 | Warhammer: The End Times - Vermintide: Digital Value Pack | 82405 | [82405-warhammer-the-end-times-vermintide-digital-value-pack.json](./82405-warhammer-the-end-times-vermintide-digital-value-pack.json) |
+| Warhammer: The Horus Heresy - Legions | 96402 | [96402-warhammer-the-horus-heresy-legions.json](./96402-warhammer-the-horus-heresy-legions.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Back to Ubersreik | 112087 | [112087-warhammer-vermintide-2-back-to-ubersreik.json](./112087-warhammer-vermintide-2-back-to-ubersreik.json) |
 | Warhammer: Vermintide 2 - Chaos Wastes | 148707 | [148707-warhammer-vermintide-2-chaos-wastes.json](./148707-warhammer-vermintide-2-chaos-wastes.json) |
@@ -3387,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
 | What A Trash Game | 104150 | [104150-what-a-trash-game.json](./104150-what-a-trash-game.json) |
+| What Are You Stupid | 96403 | [96403-what-are-you-stupid.json](./96403-what-are-you-stupid.json) |
 | What Awaits Us Below | 177295 | [177295-what-awaits-us-below.json](./177295-what-awaits-us-below.json) |
 | What Awaits, Aleksey? | 297897 | [297897-what-awaits-aleksey.json](./297897-what-awaits-aleksey.json) |
 | What Beats Rock | 309019 | [309019-what-beats-rock.json](./309019-what-beats-rock.json) |
@@ -6835,6 +6837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Game World | 339961 | [339961-word-game-world.json](./339961-word-game-world.json) |
 | Word Game: Episode 0 | 174067 | [174067-word-game-episode-0.json](./174067-word-game-episode-0.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
+| Word Games Master | 96442 | [96442-word-games-master.json](./96442-word-games-master.json) |
 | Word Games with the Mr. Men | 97796 | [97796-word-games-with-the-mr-men.json](./97796-word-games-with-the-mr-men.json) |
 | Word Gems | 90420 | [90420-word-gems.json](./90420-word-gems.json) |
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
@@ -7565,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Vespuccia Bundle | 406330 | [406330-world-of-vespuccia-bundle.json](./406330-world-of-vespuccia-bundle.json) |
 | World of Virtual Reality | 102898 | [102898-world-of-virtual-reality.json](./102898-world-of-virtual-reality.json) |
 | World of Voidia | 128342 | [128342-world-of-voidia.json](./128342-world-of-voidia.json) |
+| World of Walking Cities | 96456 | [96456-world-of-walking-cities.json](./96456-world-of-walking-cities.json) |
 | World of Warcraft Classic | 75379 | [75379-world-of-warcraft-classic.json](./75379-world-of-warcraft-classic.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: 15th Anniversary - Collector's Edition | 136120 | [136120-world-of-warcraft-15th-anniversary-collectors-edition.json](./136120-world-of-warcraft-15th-anniversary-collectors-edition.json) |
