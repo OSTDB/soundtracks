@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
 | F1 Race | 11689 | [11689-f1-race.json](./11689-f1-race.json) |
 | F1 Race Stars | 5311 | [5311-f1-race-stars.json](./5311-f1-race-stars.json) |
+| F1 Race Stars: Powered Up Edition | 85134 | [85134-f1-race-stars-powered-up-edition.json](./85134-f1-race-stars-powered-up-edition.json) |
 | F1 Racers | 187969 | [187969-f1-racers.json](./187969-f1-racers.json) |
 | F1 Racing Championship | 249118 | [249118-f1-racing-championship.json](./249118-f1-racing-championship.json) |
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Off | 40043 | [40043-face-off.json](./40043-face-off.json) |
 | Face on Fire | 143936 | [143936-face-on-fire.json](./143936-face-on-fire.json) |
 | Face Paint Party Salon | 96314 | [96314-face-paint-party-salon.json](./96314-face-paint-party-salon.json) |
+| Face Pilot: Fly With Your Nintendo DSi Camera! | 85135 | [85135-face-pilot-fly-with-your-nintendo-dsi-camera.json](./85135-face-pilot-fly-with-your-nintendo-dsi-camera.json) |
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
 | Face Shot | 403485 | [403485-face-shot.json](./403485-face-shot.json) |
 | Face Shot 2 | 403487 | [403487-face-shot-2.json](./403487-face-shot-2.json) |
@@ -335,7 +337,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faceball 2000 DX | 279728 | [279728-faceball-2000-dx.json](./279728-faceball-2000-dx.json) |
 | Faceball Captain | 356203 | [356203-faceball-captain.json](./356203-faceball-captain.json) |
+| FaceBreaker K.O. Party | 85129 | [85129-facebreaker-k-o-party.json](./85129-facebreaker-k-o-party.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
+| Faceez: Monsters! | 85131 | [85131-faceez-monsters.json](./85131-faceez-monsters.json) |
 | Faceless | 293539 | [293539-faceless.json](./293539-faceless.json) |
 | Faceless | 320882 | [320882-faceless.json](./320882-faceless.json) |
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
@@ -3674,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrum's Secrets: where is grandpa? | 34729 | [34729-ferrums-secrets-where-is-grandpa.json](./34729-ferrums-secrets-where-is-grandpa.json) |
 | Ferrum's Secrets: Where is grandpa? - Collector's edition | 53047 | [53047-ferrums-secrets-where-is-grandpa-collectors-edition.json](./53047-ferrums-secrets-where-is-grandpa-collectors-edition.json) |
 | Ferry Good Day | 391725 | [391725-ferry-good-day.json](./391725-ferry-good-day.json) |
+| Ferryman Puzzle | 85138 | [85138-ferryman-puzzle.json](./85138-ferryman-puzzle.json) |
 | Fertiliel: Cupid Simulator | 312460 | [312460-fertiliel-cupid-simulator.json](./312460-fertiliel-cupid-simulator.json) |
 | Fertilizer | 283551 | [283551-fertilizer.json](./283551-fertilizer.json) |
 | Ferulorum | 338689 | [338689-ferulorum.json](./338689-ferulorum.json) |
@@ -5912,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbowl Kid | 235787 | [235787-fishbowl-kid.json](./235787-fishbowl-kid.json) |
 | Fishbowl Racer | 198019 | [198019-fishbowl-racer.json](./198019-fishbowl-racer.json) |
 | FishCo | 206764 | [206764-fishco.json](./206764-fishco.json) |
+| Fishdom | 85147 | [85147-fishdom.json](./85147-fishdom.json) |
 | Fishdom Solitaire | 232297 | [232297-fishdom-solitaire.json](./232297-fishdom-solitaire.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fishdom: Seasons Under the Sea | 294387 | [294387-fishdom-seasons-under-the-sea.json](./294387-fishdom-seasons-under-the-sea.json) |
@@ -6555,6 +6561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fixora | 381994 | [381994-fixora.json](./381994-fixora.json) |
 | Fiz and the Rainbow Planet | 237217 | [237217-fiz-and-the-rainbow-planet.json](./237217-fiz-and-the-rainbow-planet.json) |
 | Fizik | 163747 | [163747-fizik.json](./163747-fizik.json) |
+| Fizz | 85148 | [85148-fizz.json](./85148-fizz.json) |
 | Fizz Quiz | 318058 | [318058-fizz-quiz.json](./318058-fizz-quiz.json) |
 | FizzBall | 71564 | [71564-fizzball.json](./71564-fizzball.json) |
 | Fizzburg | 413878 | [413878-fizzburg.json](./413878-fizzburg.json) |
@@ -6641,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
 | Flames & Fortune | 396752 | [396752-flames-and-fortune.json](./396752-flames-and-fortune.json) |
 | Flames of Damnation | 332349 | [332349-flames-of-damnation.json](./332349-flames-of-damnation.json) |
+| Flametail | 85146 | [85146-flametail.json](./85146-flametail.json) |
 | Flaming Core | 317054 | [317054-flaming-core.json](./317054-flaming-core.json) |
 | Flaming Flagon | 291968 | [291968-flaming-flagon.json](./291968-flaming-flagon.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
@@ -6664,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flannville | 288645 | [288645-flannville.json](./288645-flannville.json) |
 | Flannville 2 | 288646 | [288646-flannville-2.json](./288646-flannville-2.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
+| Flap Flap | 85145 | [85145-flap-flap.json](./85145-flap-flap.json) |
 | Flap Happy | 307102 | [307102-flap-happy.json](./307102-flap-happy.json) |
 | Flap Legends | 272447 | [272447-flap-legends.json](./272447-flap-legends.json) |
 | Flapbound | 251094 | [251094-flapbound.json](./251094-flapbound.json) |
@@ -6809,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
 | Flashback Mobile | 120561 | [120561-flashback-mobile.json](./120561-flashback-mobile.json) |
 | Flashback to Hell | 261172 | [261172-flashback-to-hell.json](./261172-flashback-to-hell.json) |
+| Flashback: 25th Anniversary - Collector's Edition | 85143 | [85143-flashback-25th-anniversary-collectors-edition.json](./85143-flashback-25th-anniversary-collectors-edition.json) |
 | Flashback: The Quest for Identity | 4275 | [4275-flashback-the-quest-for-identity.json](./4275-flashback-the-quest-for-identity.json) |
 | Flashbound | 381023 | [381023-flashbound.json](./381023-flashbound.json) |
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
@@ -6820,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
 | Flashing Lights: Visor Lights DLC | 293463 | [293463-flashing-lights-visor-lights-dlc.json](./293463-flashing-lights-visor-lights-dlc.json) |
 | FlashInvaders | 354008 | [354008-flashinvaders.json](./354008-flashinvaders.json) |
+| Flashlight | 85142 | [85142-flashlight.json](./85142-flashlight.json) |
 | Flashlight Party | 223936 | [223936-flashlight-party.json](./223936-flashlight-party.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
@@ -6892,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flavors of Fortune | 301882 | [301882-flavors-of-fortune.json](./301882-flavors-of-fortune.json) |
 | Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
 | Flavortown:VR | 118142 | [118142-flavortown-vr.json](./118142-flavortown-vr.json) |
+| Flavoured Cats | 85140 | [85140-flavoured-cats.json](./85140-flavoured-cats.json) |
 | Flavouride | 187757 | [187757-flavouride.json](./187757-flavouride.json) |
 | Flaw | 265539 | [265539-flaw.json](./265539-flaw.json) |
 | Flawed Tactics | 291905 | [291905-flawed-tactics.json](./291905-flawed-tactics.json) |
@@ -7021,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
 | Flick Field Goal 16 | 58208 | [58208-flick-field-goal-16.json](./58208-flick-field-goal-16.json) |
 | Flick Fishing | 79238 | [79238-flick-fishing.json](./79238-flick-fishing.json) |
+| Flick Golf 3D | 85141 | [85141-flick-golf-3d.json](./85141-flick-golf-3d.json) |
 | Flick Golf Extreme | 58206 | [58206-flick-golf-extreme.json](./58206-flick-golf-extreme.json) |
 | Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
 | Flick Home Run! | 88782 | [88782-flick-home-run.json](./88782-flick-home-run.json) |
@@ -7204,6 +7217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip That Coin! | 284573 | [284573-flip-that-coin.json](./284573-flip-that-coin.json) |
 | Flip the Birdie | 252711 | [252711-flip-the-birdie.json](./252711-flip-the-birdie.json) |
 | Flip the Buddy | 192076 | [192076-flip-the-buddy.json](./192076-flip-the-buddy.json) |
+| Flip the Core | 85153 | [85153-flip-the-core.json](./85153-flip-the-core.json) |
 | Flip the Rocket | 101102 | [101102-flip-the-rocket.json](./101102-flip-the-rocket.json) |
 | Flip the Table | 76371 | [76371-flip-the-table.json](./76371-flip-the-table.json) |
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
@@ -7311,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: The Bubonic Builders | 66911 | [66911-flips-the-bubonic-builders.json](./66911-flips-the-bubonic-builders.json) |
 | Flips: The Enchanted Wood | 66604 | [66604-flips-the-enchanted-wood.json](./66604-flips-the-enchanted-wood.json) |
 | Flips: The Folk of the Faraway Tree | 79866 | [79866-flips-the-folk-of-the-faraway-tree.json](./79866-flips-the-folk-of-the-faraway-tree.json) |
+| Flips: The Magic Faraway Tree | 85152 | [85152-flips-the-magic-faraway-tree.json](./85152-flips-the-magic-faraway-tree.json) |
 | Flips: Too Ghoul for School | 66663 | [66663-flips-too-ghoul-for-school.json](./66663-flips-too-ghoul-for-school.json) |
 | Flips! | 237383 | [237383-flips.json](./237383-flips.json) |
 | Flips¿de | 265349 | [265349-flips-de.json](./265349-flips-de.json) |
@@ -7645,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowershop Master Yuukarin! | 365749 | [365749-flowershop-master-yuukarin.json](./365749-flowershop-master-yuukarin.json) |
 | FlowerStick | 125968 | [125968-flowerstick.json](./125968-flowerstick.json) |
 | Flowerworks | 67252 | [67252-flowerworks.json](./67252-flowerworks.json) |
+| Flowerworks HD: Follie's Adventure | 85150 | [85150-flowerworks-hd-follies-adventure.json](./85150-flowerworks-hd-follies-adventure.json) |
 | Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
 | Flowerz | 91837 | [91837-flowerz.json](./91837-flowerz.json) |
 | Flowfall | 256669 | [256669-flowfall.json](./256669-flowfall.json) |
@@ -8482,6 +8498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
 | Football Trivia | 87292 | [87292-football-trivia.json](./87292-football-trivia.json) |
+| Football Up Online | 85151 | [85151-football-up-online.json](./85151-football-up-online.json) |
 | Football VR | 32092 | [32092-football-vr.json](./32092-football-vr.json) |
 | Football, Tactics & Glory | 35091 | [35091-football-tactics-and-glory.json](./35091-football-tactics-and-glory.json) |
 | Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
@@ -9029,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Lands: First Colony | 64724 | [64724-forgotten-lands-first-colony.json](./64724-forgotten-lands-first-colony.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
 | Forgotten Legends | 207631 | [207631-forgotten-legends.json](./207631-forgotten-legends.json) |
+| Forgotten Legions | 85149 | [85149-forgotten-legions.json](./85149-forgotten-legions.json) |
 | Forgotten Lore | 34723 | [34723-forgotten-lore.json](./34723-forgotten-lore.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
 | Forgotten Mechs | 295830 | [295830-forgotten-mechs.json](./295830-forgotten-mechs.json) |
@@ -9633,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 2 | 7326 | [7326-forza-horizon-2.json](./7326-forza-horizon-2.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
 | Forza Horizon 3 | 19539 | [19539-forza-horizon-3.json](./19539-forza-horizon-3.json) |
+| Forza Horizon 3: Deluxe Edition | 85132 | [85132-forza-horizon-3-deluxe-edition.json](./85132-forza-horizon-3-deluxe-edition.json) |
 | Forza Horizon 3: Hoonigan Car Pack | 140380 | [140380-forza-horizon-3-hoonigan-car-pack.json](./140380-forza-horizon-3-hoonigan-car-pack.json) |
 | Forza Horizon 3: Hot Wheels | 28542 | [28542-forza-horizon-3-hot-wheels.json](./28542-forza-horizon-3-hot-wheels.json) |
 | Forza Horizon 3: Motorsports All-Stars Car Pack | 140366 | [140366-forza-horizon-3-motorsports-all-stars-car-pack.json](./140366-forza-horizon-3-motorsports-all-stars-car-pack.json) |
@@ -10432,6 +10451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish: Het Verhaal van de Verdwenen Zeewierzaadjes | 301504 | [301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json](./301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json) |
 | Freddi Fish: Kelp Seed Mystery | 51029 | [51029-freddi-fish-kelp-seed-mystery.json](./51029-freddi-fish-kelp-seed-mystery.json) |
 | Freddi Fish's One Stop Fun Shop | 50296 | [50296-freddi-fishs-one-stop-fun-shop.json](./50296-freddi-fishs-one-stop-fun-shop.json) |
+| Freddie Flintoff's Power Play Cricket | 85155 | [85155-freddie-flintoffs-power-play-cricket.json](./85155-freddie-flintoffs-power-play-cricket.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
 | Freddy Farmer | 324186 | [324186-freddy-farmer.json](./324186-freddy-farmer.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
