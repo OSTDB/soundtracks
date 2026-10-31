@@ -5317,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
 | Degraman: Act I - Vincent, Cassel & Loner | 196088 | [196088-degraman-act-i-vincent-cassel-and-loner.json](./196088-degraman-act-i-vincent-cassel-and-loner.json) |
 | Degraman: Act II - Victor | 265571 | [265571-degraman-act-ii-victor.json](./265571-degraman-act-ii-victor.json) |
+| Degrees | 100498 | [100498-degrees.json](./100498-degrees.json) |
 | Degrees of Lewdity | 136941 | [136941-degrees-of-lewdity.json](./136941-degrees-of-lewdity.json) |
 | Degroid | 250552 | [250552-degroid.json](./250552-degroid.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
