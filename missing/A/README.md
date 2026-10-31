@@ -4750,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
 | Aimcademy | 273364 | [273364-aimcademy.json](./273364-aimcademy.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
+| AimerBall | 68513 | [68513-aimerball.json](./68513-aimerball.json) |
 | Aimi | 157948 | [157948-aimi.json](./157948-aimi.json) |
 | AimJJang | 379517 | [379517-aimjjang.json](./379517-aimjjang.json) |
 | Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
@@ -12628,6 +12629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arm Joe: Les Misérables | 50366 | [50366-arm-joe-les-miserables.json](./50366-arm-joe-les-miserables.json) |
 | Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
+| Arm Spirit | 68403 | [68403-arm-spirit.json](./68403-arm-spirit.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
 | Arm Wrestling Clicker | 231983 | [231983-arm-wrestling-clicker.json](./231983-arm-wrestling-clicker.json) |
 | Arm Wrestling Reborn | 190004 | [190004-arm-wrestling-reborn.json](./190004-arm-wrestling-reborn.json) |
