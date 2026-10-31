@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
 | Daisy Grotto | 264647 | [264647-daisy-grotto.json](./264647-daisy-grotto.json) |
+| Daisy Mae's Alien Buffet | 78422 | [78422-daisy-maes-alien-buffet.json](./78422-daisy-maes-alien-buffet.json) |
 | Daisy The Swimmer | 296882 | [296882-daisy-the-swimmer.json](./296882-daisy-the-swimmer.json) |
 | Daisy's Crazy Adventure | 314712 | [314712-daisys-crazy-adventure.json](./314712-daisys-crazy-adventure.json) |
 | Daisy's Dead | 422691 | [422691-daisys-dead.json](./422691-daisys-dead.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiva Story 5: The Cup of Soma | 41811 | [41811-daiva-story-5-the-cup-of-soma.json](./41811-daiva-story-5-the-cup-of-soma.json) |
 | Daiva Story 6: Imperial of Nirsartia | 65666 | [65666-daiva-story-6-imperial-of-nirsartia.json](./65666-daiva-story-6-imperial-of-nirsartia.json) |
 | Daiva Story 7: Light of Kari Yuga | 392851 | [392851-daiva-story-7-light-of-kari-yuga.json](./392851-daiva-story-7-light-of-kari-yuga.json) |
+| Daiyuugen | 78438 | [78438-daiyuugen.json](./78438-daiyuugen.json) |
 | Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
 | Dajjal's Minions | 26792 | [26792-dajjals-minions.json](./26792-dajjals-minions.json) |
 | Daka Dara | 115790 | [115790-daka-dara.json](./115790-daka-dara.json) |
@@ -2113,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dart Monkey 1.5143 | 341709 | [341709-dart-monkey-1-5143.json](./341709-dart-monkey-1-5143.json) |
 | Dart Racer | 258909 | [258909-dart-racer.json](./258909-dart-racer.json) |
 | Dart Rage | 50735 | [50735-dart-rage.json](./50735-dart-rage.json) |
+| Dart Star D*a*r*t*s | 78395 | [78395-dart-star-d-a-r-t-s.json](./78395-dart-star-d-a-r-t-s.json) |
 | Dart The Dog | 304701 | [304701-dart-the-dog.json](./304701-dart-the-dog.json) |
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
 | Darth Vader Tamagotchi | 329787 | [329787-darth-vader-tamagotchi.json](./329787-darth-vader-tamagotchi.json) |
@@ -7651,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diadra Empty | 17133 | [17133-diadra-empty.json](./17133-diadra-empty.json) |
 | Diadrum | 92123 | [92123-diadrum.json](./92123-diadrum.json) |
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
+| Diagnosis Murder | 78400 | [78400-diagnosis-murder.json](./78400-diagnosis-murder.json) |
 | Diagnosis: Multitude | 196434 | [196434-diagnosis-multitude.json](./196434-diagnosis-multitude.json) |
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
 | Dial Pilot | 106839 | [106839-dial-pilot.json](./106839-dial-pilot.json) |
@@ -8453,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
 | DigSite | 334333 | [334333-digsite.json](./334333-digsite.json) |
+| Dìguó Wángcháo (Yàsè Chuánshuō) | 78437 | [78437-diguo-wangchao-yase-chuanshuo.json](./78437-diguo-wangchao-yase-chuanshuo.json) |
 | DigWorld | 404408 | [404408-digworld.json](./404408-digworld.json) |
 | Diiwi Islands | 185358 | [185358-diiwi-islands.json](./185358-diiwi-islands.json) |
 | Dijeweled Remastered | 388905 | [388905-dijeweled-remastered.json](./388905-dijeweled-remastered.json) |
@@ -12216,6 +12221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon 2: Nobita no Toys Land Daibouken | 38128 | [38128-doraemon-2-nobita-no-toys-land-daibouken.json](./38128-doraemon-2-nobita-no-toys-land-daibouken.json) |
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
 | Doraemon 2: SOS! Otogi no Kuni | 78579 | [78579-doraemon-2-sos-otogi-no-kuni.json](./78579-doraemon-2-sos-otogi-no-kuni.json) |
+| Doraemon 3: Makai no Dungeon | 78393 | [78393-doraemon-3-makai-no-dungeon.json](./78393-doraemon-3-makai-no-dungeon.json) |
 | Doraemon 3: Nobita no Machi SOS! | 3474 | [3474-doraemon-3-nobita-no-machi-sos.json](./3474-doraemon-3-nobita-no-machi-sos.json) |
 | Doraemon 3: Nobita to Toki no Hougyoku | 38127 | [38127-doraemon-3-nobita-to-toki-no-hougyoku.json](./38127-doraemon-3-nobita-to-toki-no-hougyoku.json) |
 | Doraemon 4: Nobita to Tsuki no Oukoku | 78578 | [78578-doraemon-4-nobita-to-tsuki-no-oukoku.json](./78578-doraemon-4-nobita-to-tsuki-no-oukoku.json) |
@@ -13595,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Knight & Graffiti | 70822 | [70822-dragon-knight-and-graffiti.json](./70822-dragon-knight-and-graffiti.json) |
 | Dragon Knight 4 | 45959 | [45959-dragon-knight-4.json](./45959-dragon-knight-4.json) |
 | Dragon Knight 4 | 80844 | [80844-dragon-knight-4.json](./80844-dragon-knight-4.json) |
+| Dragon Knight 5 | 78427 | [78427-dragon-knight-5.json](./78427-dragon-knight-5.json) |
 | Dragon Knight II | 41779 | [41779-dragon-knight-ii.json](./41779-dragon-knight-ii.json) |
 | Dragon Knights Glorious | 65353 | [65353-dragon-knights-glorious.json](./65353-dragon-knights-glorious.json) |
 | Dragon Lair | 298548 | [298548-dragon-lair.json](./298548-dragon-lair.json) |
