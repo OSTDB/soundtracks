@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic RPG Idle | 189316 | [189316-generic-rpg-idle.json](./189316-generic-rpg-idle.json) |
 | Genesia Legacy: Ultimate Domain | 29493 | [29493-genesia-legacy-ultimate-domain.json](./29493-genesia-legacy-ultimate-domain.json) |
 | Genesis | 112652 | [112652-genesis.json](./112652-genesis.json) |
+| Genesis | 115984 | [115984-genesis.json](./115984-genesis.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 141479 | [141479-genesis.json](./141479-genesis.json) |
 | Genesis | 144583 | [144583-genesis.json](./144583-genesis.json) |
