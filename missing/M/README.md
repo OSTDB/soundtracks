@@ -9942,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
 | Middle School Zombie 2 | 297905 | [297905-middle-school-zombie-2.json](./297905-middle-school-zombie-2.json) |
 | Middle-earth: Shadow of Mordor - Game of the Year Edition | 25773 | [25773-middle-earth-shadow-of-mordor-game-of-the-year-edition.json](./25773-middle-earth-shadow-of-mordor-game-of-the-year-edition.json) |
+| Middle-earth: Shadow of Mordor - Legion Edition | 117985 | [117985-middle-earth-shadow-of-mordor-legion-edition.json](./117985-middle-earth-shadow-of-mordor-legion-edition.json) |
 | Middle-earth: Shadow of Mordor - Lord of the Hunt | 53360 | [53360-middle-earth-shadow-of-mordor-lord-of-the-hunt.json](./53360-middle-earth-shadow-of-mordor-lord-of-the-hunt.json) |
 | Middle-earth: Shadow of Mordor - The Bright Lord | 21596 | [21596-middle-earth-shadow-of-mordor-the-bright-lord.json](./21596-middle-earth-shadow-of-mordor-the-bright-lord.json) |
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
@@ -12904,6 +12905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
 | Moai no Hihou | 41789 | [41789-moai-no-hihou.json](./41789-moai-no-hihou.json) |
 | Moai V: Collector's Edition | 96693 | [96693-moai-v-collectors-edition.json](./96693-moai-v-collectors-edition.json) |
+| Moai VI: Unexpected Guests | 117980 | [117980-moai-vi-unexpected-guests.json](./117980-moai-vi-unexpected-guests.json) |
 | Moai-kun | 48424 | [48424-moai-kun.json](./48424-moai-kun.json) |
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
@@ -18583,6 +18585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Joyful Aquarium | 330902 | [330902-my-joyful-aquarium.json](./330902-my-joyful-aquarium.json) |
 | My Jurassic Darling | 231419 | [231419-my-jurassic-darling.json](./231419-my-jurassic-darling.json) |
 | My Jurassic Farm | 61473 | [61473-my-jurassic-farm.json](./61473-my-jurassic-farm.json) |
+| My Jurassic Farm 2018 | 117979 | [117979-my-jurassic-farm-2018.json](./117979-my-jurassic-farm-2018.json) |
 | My Keyboard is Full of Ants! | 408597 | [408597-my-keyboard-is-full-of-ants.json](./408597-my-keyboard-is-full-of-ants.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
