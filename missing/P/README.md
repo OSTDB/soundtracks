@@ -8277,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Studios Pack | 100304 | [100304-planet-coaster-studios-pack.json](./100304-planet-coaster-studios-pack.json) |
 | Planet Coaster: The Munsters Munster Koach Construction Kit | 168242 | [168242-planet-coaster-the-munsters-munster-koach-construction-kit.json](./168242-planet-coaster-the-munsters-munster-koach-construction-kit.json) |
 | Planet Coaster: Vintage & World's Fair Bundle | 225954 | [225954-planet-coaster-vintage-and-worlds-fair-bundle.json](./225954-planet-coaster-vintage-and-worlds-fair-bundle.json) |
+| Planet Coaster: Vintage Pack | 104964 | [104964-planet-coaster-vintage-pack.json](./104964-planet-coaster-vintage-pack.json) |
 | Planet Coaster: World's Fair Pack | 110841 | [110841-planet-coaster-worlds-fair-pack.json](./110841-planet-coaster-worlds-fair-pack.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
@@ -15044,6 +15045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Type | 92885 | [92885-proto-type.json](./92885-proto-type.json) |
 | Proto Zero | 406152 | [406152-proto-zero.json](./406152-proto-zero.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
+| Protoball | 104933 | [104933-protoball.json](./104933-protoball.json) |
 | ProtoBlue Tower | 373131 | [373131-protoblue-tower.json](./373131-protoblue-tower.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
 | Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
