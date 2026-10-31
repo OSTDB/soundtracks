@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Zombies | 77267 | [77267-call-of-duty-black-ops-zombies.json](./77267-call-of-duty-black-ops-zombies.json) |
 | Call of Duty: Black Ops 4 - Digital Deluxe Edition | 118732 | [118732-call-of-duty-black-ops-4-digital-deluxe-edition.json](./118732-call-of-duty-black-ops-4-digital-deluxe-edition.json) |
 | Call of Duty: Black Ops 4 - Specialist Edition | 102069 | [102069-call-of-duty-black-ops-4-specialist-edition.json](./102069-call-of-duty-black-ops-4-specialist-edition.json) |
+| Call of Duty: Black Ops 4 - Spectre Rising Edition | 118547 | [118547-call-of-duty-black-ops-4-spectre-rising-edition.json](./118547-call-of-duty-black-ops-4-spectre-rising-edition.json) |
 | Call of Duty: Black Ops 6 - Season 1 | 324925 | [324925-call-of-duty-black-ops-6-season-1.json](./324925-call-of-duty-black-ops-6-season-1.json) |
 | Call Of Duty: Black Ops 6 - Season 2 | 330137 | [330137-call-of-duty-black-ops-6-season-2.json](./330137-call-of-duty-black-ops-6-season-2.json) |
 | Call of Duty: Black Ops 6 - Season 3 | 362953 | [362953-call-of-duty-black-ops-6-season-3.json](./362953-call-of-duty-black-ops-6-season-3.json) |
@@ -6021,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
 | Chess Challenge! | 51126 | [51126-chess-challenge.json](./51126-chess-challenge.json) |
+| Chess Challenger | 118566 | [118566-chess-challenger.json](./118566-chess-challenger.json) |
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
 | Chess Classic Board Game | 219379 | [219379-chess-classic-board-game.json](./219379-chess-classic-board-game.json) |
 | Chess Club | 193694 | [193694-chess-club.json](./193694-chess-club.json) |
@@ -10798,6 +10800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Puzzle | 230686 | [230686-color-puzzle.json](./230686-color-puzzle.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
+| Color Rings Pro | 118572 | [118572-color-rings-pro.json](./118572-color-rings-pro.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
 | Color Road | 100877 | [100877-color-road.json](./100877-color-road.json) |
 | Color Road: Sweet & Shiny | 295699 | [295699-color-road-sweet-and-shiny.json](./295699-color-road-sweet-and-shiny.json) |
@@ -14638,6 +14641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Racing Nitro-Fueled: Mint Burst Paint Job | 325138 | [325138-crash-team-racing-nitro-fueled-mint-burst-paint-job.json](./325138-crash-team-racing-nitro-fueled-mint-burst-paint-job.json) |
 | Crash Team Racing Nitro-Fueled: Neon Circus Grand Prix | 324840 | [324840-crash-team-racing-nitro-fueled-neon-circus-grand-prix.json](./324840-crash-team-racing-nitro-fueled-neon-circus-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Nitro Tour Grand Prix | 324836 | [324836-crash-team-racing-nitro-fueled-nitro-tour-grand-prix.json](./324836-crash-team-racing-nitro-fueled-nitro-tour-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Nitros Oxide Edition | 118574 | [118574-crash-team-racing-nitro-fueled-nitros-oxide-edition.json](./118574-crash-team-racing-nitro-fueled-nitros-oxide-edition.json) |
 | Crash Team Racing Nitro-Fueled: Post-Grand Prix | 324844 | [324844-crash-team-racing-nitro-fueled-post-grand-prix.json](./324844-crash-team-racing-nitro-fueled-post-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Rustland Grand Prix | 324842 | [324842-crash-team-racing-nitro-fueled-rustland-grand-prix.json](./324842-crash-team-racing-nitro-fueled-rustland-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Spooky Grand Prix | 324839 | [324839-crash-team-racing-nitro-fueled-spooky-grand-prix.json](./324839-crash-team-racing-nitro-fueled-spooky-grand-prix.json) |
@@ -16592,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptantCrab | 110043 | [110043-cryptantcrab.json](./110043-cryptantcrab.json) |
 | CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
 | Cryptbound | 349773 | [349773-cryptbound.json](./349773-cryptbound.json) |
+| Crypterion | 118584 | [118584-crypterion.json](./118584-crypterion.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
