@@ -10059,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Adventures | 108271 | [108271-code-adventures.json](./108271-code-adventures.json) |
 | Code Age Brawls: Futatsu no Kodou | 287516 | [287516-code-age-brawls-futatsu-no-kodou.json](./287516-code-age-brawls-futatsu-no-kodou.json) |
+| Code Age Commanders: Tsugu Mono Tsugareru Mono | 91669 | [91669-code-age-commanders-tsugu-mono-tsugareru-mono.json](./91669-code-age-commanders-tsugu-mono-tsugareru-mono.json) |
 | Code Alpha: The Final Frontier | 284828 | [284828-code-alpha-the-final-frontier.json](./284828-code-alpha-the-final-frontier.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
 | Code Arcturus | 133097 | [133097-code-arcturus.json](./133097-code-arcturus.json) |
@@ -16607,6 +16608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crux Diaries | 345286 | [345286-crux-diaries.json](./345286-crux-diaries.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
+| Cruxade | 91638 | [91638-cruxade.json](./91638-cruxade.json) |
 | Cruxata | 17256 | [17256-cruxata.json](./17256-cruxata.json) |
 | CruxFlaw | 266616 | [266616-cruxflaw.json](./266616-cruxflaw.json) |
 | Cruz Brothers | 55293 | [55293-cruz-brothers.json](./55293-cruz-brothers.json) |
