@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caliban Below | 97069 | [97069-caliban-below.json](./97069-caliban-below.json) |
 | Caliber | 125779 | [125779-caliber.json](./125779-caliber.json) |
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
+| Caliber Fifty | 73440 | [73440-caliber-fifty.json](./73440-caliber-fifty.json) |
 | Calibration Sequence | 423278 | [423278-calibration-sequence.json](./423278-calibration-sequence.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calibre 10 Racing Series | 61981 | [61981-calibre-10-racing-series.json](./61981-calibre-10-racing-series.json) |
@@ -13636,6 +13637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Family | 4772 | [4772-cosmic-family.json](./4772-cosmic-family.json) |
 | Cosmic Fantasy 2 | 42003 | [42003-cosmic-fantasy-2.json](./42003-cosmic-fantasy-2.json) |
 | Cosmic Fantasy 3 | 332500 | [332500-cosmic-fantasy-3.json](./332500-cosmic-fantasy-3.json) |
+| Cosmic Fantasy 3: Bouken Shounen Rei | 73449 | [73449-cosmic-fantasy-3-bouken-shounen-rei.json](./73449-cosmic-fantasy-3-bouken-shounen-rei.json) |
 | Cosmic Fantasy 4: Ginga Shounen Densetsu - Gekitou-hen: Hikari no Umi no Naka de... | 79496 | [79496-cosmic-fantasy-4-ginga-shounen-densetsu-gekitou-hen-hikari-no-umi-no-naka-de.json](./79496-cosmic-fantasy-4-ginga-shounen-densetsu-gekitou-hen-hikari-no-umi-no-naka-de.json) |
 | Cosmic Fantasy 4: Ginga Shounen Densetsu - Totsunyuuhen: Densetsu he no Prelude | 92990 | [92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json](./92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json) |
 | Cosmic Fantasy 4: Prelude to Legend | 332501 | [332501-cosmic-fantasy-4-prelude-to-legend.json](./332501-cosmic-fantasy-4-prelude-to-legend.json) |
@@ -18871,6 +18873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
 | Cydoku | 260276 | [260276-cydoku.json](./260276-cydoku.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
+| Cydonia: Mars - The First Manned Mission | 73421 | [73421-cydonia-mars-the-first-manned-mission.json](./73421-cydonia-mars-the-first-manned-mission.json) |
 | Cygni: All Guns Blazing | 133904 | [133904-cygni-all-guns-blazing.json](./133904-cygni-all-guns-blazing.json) |
 | Cygnus Enterprises | 228913 | [228913-cygnus-enterprises.json](./228913-cygnus-enterprises.json) |
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
