@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Nightmare | 67853 | [67853-garfields-nightmare.json](./67853-garfields-nightmare.json) |
 | Garfield's Scary Scavenger Hunt | 124418 | [124418-garfields-scary-scavenger-hunt.json](./124418-garfields-scary-scavenger-hunt.json) |
 | Garfield's Scary Scavenger Hunt 2 | 98305 | [98305-garfields-scary-scavenger-hunt-2.json](./98305-garfields-scary-scavenger-hunt-2.json) |
+| Garfield's Typing Pal | 112022 | [112022-garfields-typing-pal.json](./112022-garfields-typing-pal.json) |
 | Garfield's Wild Ride | 25163 | [25163-garfields-wild-ride.json](./25163-garfields-wild-ride.json) |
 | Garfield+ | 319439 | [319439-garfield.json](./319439-garfield.json) |
 | Gargadusa's Tower | 392361 | [392361-gargadusas-tower.json](./392361-gargadusas-tower.json) |
@@ -4084,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls and Dungeons | 54869 | [54869-girls-and-dungeons.json](./54869-girls-and-dungeons.json) |
 | Girls and Quiz | 40710 | [40710-girls-and-quiz.json](./40710-girls-and-quiz.json) |
 | Girls and Robots | 266761 | [266761-girls-and-robots.json](./266761-girls-and-robots.json) |
+| Girls and Tests | 111974 | [111974-girls-and-tests.json](./111974-girls-and-tests.json) |
 | Girls are Weird | 302229 | [302229-girls-are-weird.json](./302229-girls-are-weird.json) |
 | Girls Band Cry First Riff | 369766 | [369766-girls-band-cry-first-riff.json](./369766-girls-band-cry-first-riff.json) |
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
@@ -8649,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groob | 249945 | [249945-groob.json](./249945-groob.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
+| Grooming Adventure | 111972 | [111972-grooming-adventure.json](./111972-grooming-adventure.json) |
 | Groon groon, babey! | 176216 | [176216-groon-groon-babey.json](./176216-groon-groon-babey.json) |
 | Grooove | 272346 | [272346-grooove.json](./272346-grooove.json) |
 | Groov | 69161 | [69161-groov.json](./69161-groov.json) |
