@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 292148 | [292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | Keith Courage in Alpha Zones | 42122 | [42122-keith-courage-in-alpha-zones.json](./42122-keith-courage-in-alpha-zones.json) |
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
+| Keith's Quest | 69018 | [69018-keiths-quest.json](./69018-keiths-quest.json) |
 | Keito | 384913 | [384913-keito.json](./384913-keito.json) |
 | Keiyaku Kanojo: Shinmai Kanojo to Hajimeru, Tottemo H de Pure na Renai Lesson | 409799 | [409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json](./409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json) |
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
@@ -2579,7 +2580,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4253,7 +4253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights End | 390270 | [390270-knights-end.json](./390270-knights-end.json) |
 | Knights Fight 2: New Blood | 188313 | [188313-knights-fight-2-new-blood.json](./188313-knights-fight-2-new-blood.json) |
 | Knights Hunt | 72501 | [72501-knights-hunt.json](./72501-knights-hunt.json) |
-| Knights in the Nightmare | 20690 | [20690-knights-in-the-nightmare.json](./20690-knights-in-the-nightmare.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
 | Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
 | Knights in Tight Spaces: Collector's Edition | 406335 | [406335-knights-in-tight-spaces-collectors-edition.json](./406335-knights-in-tight-spaces-collectors-edition.json) |
