@@ -5820,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheer We Go! | 91722 | [91722-cheer-we-go.json](./91722-cheer-we-go.json) |
 | Cheerios Play Time | 57593 | [57593-cheerios-play-time.json](./57593-cheerios-play-time.json) |
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
+| Cheerleader: reverse side of life | 96424 | [96424-cheerleader-reverse-side-of-life.json](./96424-cheerleader-reverse-side-of-life.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
 | Cheery Party | 148977 | [148977-cheery-party.json](./148977-cheery-party.json) |
@@ -6020,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 302809 | [302809-chess.json](./302809-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
 | Chess - tactics and strategy | 91100 | [91100-chess-tactics-and-strategy.json](./91100-chess-tactics-and-strategy.json) |
+| Chess - tChess Lite | 96446 | [96446-chess-tchess-lite.json](./96446-chess-tchess-lite.json) |
 | Chess - tChess Pro | 104610 | [104610-chess-tchess-pro.json](./104610-chess-tchess-pro.json) |
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
 | Chess 'n' Blocks | 320333 | [320333-chess-n-blocks.json](./320333-chess-n-blocks.json) |
@@ -8766,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Kings | 15200 | [15200-clash-of-kings.json](./15200-clash-of-kings.json) |
 | Clash of Legends | 108178 | [108178-clash-of-legends.json](./108178-clash-of-legends.json) |
+| Clash of Magic | 96461 | [96461-clash-of-magic.json](./96461-clash-of-magic.json) |
 | Clash of Magic VR | 86626 | [86626-clash-of-magic-vr.json](./86626-clash-of-magic-vr.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
@@ -9249,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | Clicker Kids | 394068 | [394068-clicker-kids.json](./394068-clicker-kids.json) |
 | Clicker Kingdom | 348136 | [348136-clicker-kingdom.json](./348136-clicker-kingdom.json) |
+| Clicker Planet | 96422 | [96422-clicker-planet.json](./96422-clicker-planet.json) |
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
 | Clicker Racing | 100716 | [100716-clicker-racing.json](./100716-clicker-racing.json) |
 | Clicker Time | 371837 | [371837-clicker-time.json](./371837-clicker-time.json) |
@@ -18292,6 +18296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Fight | 194916 | [194916-cyber-fight.json](./194916-cyber-fight.json) |
+| Cyber Fight | 96425 | [96425-cyber-fight.json](./96425-cyber-fight.json) |
 | Cyber Fight Challenge | 161541 | [161541-cyber-fight-challenge.json](./161541-cyber-fight-challenge.json) |
 | Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
 | Cyber Furry Girl | 230138 | [230138-cyber-furry-girl.json](./230138-cyber-furry-girl.json) |
