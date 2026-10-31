@@ -5169,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaping Wonderland | 306956 | [306956-escaping-wonderland.json](./306956-escaping-wonderland.json) |
 | Escapism Ltd. | 308869 | [308869-escapism-ltd.json](./308869-escapism-ltd.json) |
 | Escapology | 174582 | [174582-escapology.json](./174582-escapology.json) |
+| Escargot | 119975 | [119975-escargot.json](./119975-escargot.json) |
 | Escatpade | 374083 | [374083-escatpade.json](./374083-escatpade.json) |
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
 | Eschalon: Book I | 8206 | [8206-eschalon-book-i.json](./8206-eschalon-book-i.json) |
