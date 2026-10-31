@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hans Christian Andersen: The Ugly Prince Duckling | 70120 | [70120-hans-christian-andersen-the-ugly-prince-duckling.json](./70120-hans-christian-andersen-the-ugly-prince-duckling.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hans Klosss | 61508 | [61508-hans-klosss.json](./61508-hans-klosss.json) |
+| Hansaku Otome no Tame no Kiyukyoku | 97650 | [97650-hansaku-otome-no-tame-no-kiyukyoku.json](./97650-hansaku-otome-no-tame-no-kiyukyoku.json) |
 | Hanse | 26458 | [26458-hanse.json](./26458-hanse.json) |
 | Hanse - The Hanseatic League | 100340 | [100340-hanse-the-hanseatic-league.json](./100340-hanse-the-hanseatic-league.json) |
 | Hanse: Die Expedition | 85818 | [85818-hanse-die-expedition.json](./85818-hanse-die-expedition.json) |
@@ -3494,10 +3495,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
 | Heisting: Fully Armed Edition | 358667 | [358667-heisting-fully-armed-edition.json](./358667-heisting-fully-armed-edition.json) |
+| Heiwa Pachinko Graffiti Vol. 1 | 97659 | [97659-heiwa-pachinko-graffiti-vol-1.json](./97659-heiwa-pachinko-graffiti-vol-1.json) |
 | Heiwa Pachinko Graffiti Vol. 2 | 97662 | [97662-heiwa-pachinko-graffiti-vol-2.json](./97662-heiwa-pachinko-graffiti-vol-2.json) |
 | Heiwa Pachinko Soushingeki | 97660 | [97660-heiwa-pachinko-soushingeki.json](./97660-heiwa-pachinko-soushingeki.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
+| Heiwa Parlor! Pro: BunDori King Special | 97658 | [97658-heiwa-parlor-pro-bundori-king-special.json](./97658-heiwa-parlor-pro-bundori-king-special.json) |
+| Heiwa Parlor! Pro: Dolphin Ring Special | 97657 | [97657-heiwa-parlor-pro-dolphin-ring-special.json](./97657-heiwa-parlor-pro-dolphin-ring-special.json) |
+| Heiwa Parlor! Pro: Fujiko ni Omakase Special | 97655 | [97655-heiwa-parlor-pro-fujiko-ni-omakase-special.json](./97655-heiwa-parlor-pro-fujiko-ni-omakase-special.json) |
+| Heiwa Parlor! Pro: Inakappe Taishou Special | 97649 | [97649-heiwa-parlor-pro-inakappe-taishou-special.json](./97649-heiwa-parlor-pro-inakappe-taishou-special.json) |
 | Heiwa Parlor! Pro: Lupin Sansei Special | 97661 | [97661-heiwa-parlor-pro-lupin-sansei-special.json](./97661-heiwa-parlor-pro-lupin-sansei-special.json) |
+| Heiwa Parlor! Pro: Tsunatori Monogatari Special | 97645 | [97645-heiwa-parlor-pro-tsunatori-monogatari-special.json](./97645-heiwa-parlor-pro-tsunatori-monogatari-special.json) |
+| Heiwa Parlor! Pro: Western Special | 97643 | [97643-heiwa-parlor-pro-western-special.json](./97643-heiwa-parlor-pro-western-special.json) |
 | Héjīn Zǐdàn | 414116 | [414116-hejin-zidan.json](./414116-hejin-zidan.json) |
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
 | Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
@@ -7404,8 +7412,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachinko Station | 58321 | [58321-hissatsu-pachinko-station.json](./58321-hissatsu-pachinko-station.json) |
 | Hissatsu Pachinko Station 2 | 58320 | [58320-hissatsu-pachinko-station-2.json](./58320-hissatsu-pachinko-station-2.json) |
 | Hissatsu Pachinko Station 3 | 58316 | [58316-hissatsu-pachinko-station-3.json](./58316-hissatsu-pachinko-station-3.json) |
+| Hissatsu Pachinko Station Now | 97629 | [97629-hissatsu-pachinko-station-now.json](./97629-hissatsu-pachinko-station-now.json) |
 | Hissatsu Pachinko Station Now 8: Jarinko Chie | 133745 | [133745-hissatsu-pachinko-station-now-8-jarinko-chie.json](./133745-hissatsu-pachinko-station-now-8-jarinko-chie.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
+| Hissatsu Pachinko Station V5: Pink Lady | 97625 | [97625-hissatsu-pachinko-station-v5-pink-lady.json](./97625-hissatsu-pachinko-station-v5-pink-lady.json) |
 | Hissatsu Pachinko Station V9: Osomatsu-kun | 83426 | [83426-hissatsu-pachinko-station-v9-osomatsu-kun.json](./83426-hissatsu-pachinko-station-v9-osomatsu-kun.json) |
 | Hissatsu Pachinko Station: Monster House Special | 58317 | [58317-hissatsu-pachinko-station-monster-house-special.json](./58317-hissatsu-pachinko-station-monster-house-special.json) |
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
@@ -7623,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitou Dungeon | 283842 | [283842-hitou-dungeon.json](./283842-hitou-dungeon.json) |
 | Hitozuma Dorei Keikaku | 108925 | [108925-hitozuma-dorei-keikaku.json](./108925-hitozuma-dorei-keikaku.json) |
 | Hitozuma Dorei Kyoushi | 98029 | [98029-hitozuma-dorei-kyoushi.json](./98029-hitozuma-dorei-kyoushi.json) |
+| Hitozuma Dorei Kyoushi 2 | 97632 | [97632-hitozuma-dorei-kyoushi-2.json](./97632-hitozuma-dorei-kyoushi-2.json) |
 | Hitozuma Onnakyoshi: Married Female Teacher Sexual Libido Class | 97765 | [97765-hitozuma-onnakyoshi-married-female-teacher-sexual-libido-class.json](./97765-hitozuma-onnakyoshi-married-female-teacher-sexual-libido-class.json) |
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
 | Hitozuma Unyu Saimin NTR Ben | 59264 | [59264-hitozuma-unyu-saimin-ntr-ben.json](./59264-hitozuma-unyu-saimin-ntr-ben.json) |
