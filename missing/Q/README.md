@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
 | Quadrant M4 | 36981 | [36981-quadrant-m4.json](./36981-quadrant-m4.json) |
 | Quadrapassel | 122774 | [122774-quadrapassel.json](./122774-quadrapassel.json) |
+| Quadrapong | 79040 | [79040-quadrapong.json](./79040-quadrapong.json) |
 | QuadraPop | 225827 | [225827-quadrapop.json](./225827-quadrapop.json) |
 | Quadrata | 208109 | [208109-quadrata.json](./208109-quadrata.json) |
 | Quadratank | 225595 | [225595-quadratank.json](./225595-quadratank.json) |
@@ -664,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of Digs! | 221624 | [221624-queen-of-digs.json](./221624-queen-of-digs.json) |
+| Queen of Hearts | 79020 | [79020-queen-of-hearts.json](./79020-queen-of-hearts.json) |
 | Queen of Honor | 166955 | [166955-queen-of-honor.json](./166955-queen-of-honor.json) |
 | Queen of Minecarts | 227901 | [227901-queen-of-minecarts.json](./227901-queen-of-minecarts.json) |
 | Queen of Moths | 253515 | [253515-queen-of-moths.json](./253515-queen-of-moths.json) |
