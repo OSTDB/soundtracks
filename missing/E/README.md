@@ -3968,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
 | Eonia Revelations | 259172 | [259172-eonia-revelations.json](./259172-eonia-revelations.json) |
 | Eons Lost: Arrival | 185038 | [185038-eons-lost-arrival.json](./185038-eons-lost-arrival.json) |
+| Eons of War | 110661 | [110661-eons-of-war.json](./110661-eons-of-war.json) |
 | Eonwar | 217315 | [217315-eonwar.json](./217315-eonwar.json) |
 | EOPN: Test RS | 285549 | [285549-eopn-test-rs.json](./285549-eopn-test-rs.json) |
 | Eormor: Shattered Lands | 120918 | [120918-eormor-shattered-lands.json](./120918-eormor-shattered-lands.json) |
@@ -6612,6 +6613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolits | 145453 | [145453-evolits.json](./145453-evolits.json) |
 | Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
 | Evolo.Mine | 111967 | [111967-evolo-mine.json](./111967-evolo-mine.json) |
+| Evolo.SpiderSim | 110615 | [110615-evolo-spidersim.json](./110615-evolo-spidersim.json) |
 | Evolo.The Sun | 335447 | [335447-evolo-the-sun.json](./335447-evolo-the-sun.json) |
 | EvolRun | 339777 | [339777-evolrun.json](./339777-evolrun.json) |
 | EvoluShip | 199321 | [199321-evoluship.json](./199321-evoluship.json) |
@@ -7135,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
 | Expedição Antártica | 395802 | [395802-expedicao-antartica.json](./395802-expedicao-antartica.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
+| Expedition | 110612 | [110612-expedition.json](./110612-expedition.json) |
 | Expedition | 141078 | [141078-expedition.json](./141078-expedition.json) |
 | Expedition | 146495 | [146495-expedition.json](./146495-expedition.json) |
 | Expedition Agartha: Supporter Pack | 241987 | [241987-expedition-agartha-supporter-pack.json](./241987-expedition-agartha-supporter-pack.json) |
