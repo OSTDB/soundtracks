@@ -11357,6 +11357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Next Door | 56408 | [56408-from-next-door.json](./56408-from-next-door.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
 | From Other Suns | 27516 | [27516-from-other-suns.json](./27516-from-other-suns.json) |
+| From Out of a Dark Night Sky | 65881 | [65881-from-out-of-a-dark-night-sky.json](./65881-from-out-of-a-dark-night-sky.json) |
 | From Paris with Love 2: Passion with view | 196113 | [196113-from-paris-with-love-2-passion-with-view.json](./196113-from-paris-with-love-2-passion-with-view.json) |
 | From Paris with Love: Passion with View | 169255 | [169255-from-paris-with-love-passion-with-view.json](./169255-from-paris-with-love-passion-with-view.json) |
 | From Red to Green | 384006 | [384006-from-red-to-green.json](./384006-from-red-to-green.json) |
