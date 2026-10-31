@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Love Story | 37898 | [37898-pachi-slot-love-story.json](./37898-pachi-slot-love-story.json) |
 | Pachi-Slot Monogatari: Paru Kougyou Special | 37897 | [37897-pachi-slot-monogatari-paru-kougyou-special.json](./37897-pachi-slot-monogatari-paru-kougyou-special.json) |
 | Pachi-Slot Monogatari: Universal Special | 37896 | [37896-pachi-slot-monogatari-universal-special.json](./37896-pachi-slot-monogatari-universal-special.json) |
+| Pachi-Slot Teiou: Dream Slot - Heiwa SP | 97640 | [97640-pachi-slot-teiou-dream-slot-heiwa-sp.json](./97640-pachi-slot-teiou-dream-slot-heiwa-sp.json) |
 | Pachi-Slot Teiou: Golgo 13 Las Vegas | 100262 | [100262-pachi-slot-teiou-golgo-13-las-vegas.json](./100262-pachi-slot-teiou-golgo-13-las-vegas.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
@@ -334,11 +335,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko 365 Nichi | 136737 | [136737-pachinko-365-nichi.json](./136737-pachinko-365-nichi.json) |
 | Pachinko Challenger | 42237 | [42237-pachinko-challenger.json](./42237-pachinko-challenger.json) |
 | Pachinko CR Daiku no Gen-san GB | 55962 | [55962-pachinko-cr-daiku-no-gen-san-gb.json](./55962-pachinko-cr-daiku-no-gen-san-gb.json) |
+| Pachinko CR Mouretsu Genjin T | 97624 | [97624-pachinko-cr-mouretsu-genjin-t.json](./97624-pachinko-cr-mouretsu-genjin-t.json) |
 | Pachinko Dream | 386519 | [386519-pachinko-dream.json](./386519-pachinko-dream.json) |
 | Pachinko Fan: Shouri Sengen | 42236 | [42236-pachinko-fan-shouri-sengen.json](./42236-pachinko-fan-shouri-sengen.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
 | Pachinko Hissou Guide: Data no Ou-sama | 282469 | [282469-pachinko-hissou-guide-data-no-ou-sama.json](./282469-pachinko-hissou-guide-data-no-ou-sama.json) |
 | Pachinko II | 6124 | [6124-pachinko-ii.json](./6124-pachinko-ii.json) |
+| Pachinko Kaguya-hime | 97628 | [97628-pachinko-kaguya-hime.json](./97628-pachinko-kaguya-hime.json) |
 | Pachinko Kamen Rider | 91885 | [91885-pachinko-kamen-rider.json](./91885-pachinko-kamen-rider.json) |
 | Pachinko Kuunyan | 383507 | [383507-pachinko-kuunyan.json](./383507-pachinko-kuunyan.json) |
 | Pachinko Life | 402978 | [402978-pachinko-life.json](./402978-pachinko-life.json) |
@@ -347,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
 | Pachinko Pocket Parlor Guide | 75502 | [75502-pachinko-pocket-parlor-guide.json](./75502-pachinko-pocket-parlor-guide.json) |
 | Pachinko Ren Chan Tengoku | 42232 | [42232-pachinko-ren-chan-tengoku.json](./42232-pachinko-ren-chan-tengoku.json) |
+| Pachinko Saiyuuki | 97627 | [97627-pachinko-saiyuuki.json](./97627-pachinko-saiyuuki.json) |
 | Pachinko Star Wing II | 385717 | [385717-pachinko-star-wing-ii.json](./385717-pachinko-star-wing-ii.json) |
 | Pachinko Tetsujin: Shichiban Shoubu | 42231 | [42231-pachinko-tetsujin-shichiban-shoubu.json](./42231-pachinko-tetsujin-shichiban-shoubu.json) |
 | Pachinko Time | 131141 | [131141-pachinko-time.json](./131141-pachinko-time.json) |
@@ -384,6 +388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachislot Souten no Ken | 61493 | [61493-pachislot-souten-no-ken.json](./61493-pachislot-souten-no-ken.json) |
 | Pachislot Souten no Ken 2 | 61495 | [61495-pachislot-souten-no-ken-2.json](./61495-pachislot-souten-no-ken-2.json) |
 | Pachitte Chonmage | 109190 | [109190-pachitte-chonmage.json](./109190-pachitte-chonmage.json) |
+| Pachitte Chonmage Tatsujin 12: Pachinko Ultraman | 97616 | [97616-pachitte-chonmage-tatsujin-12-pachinko-ultraman.json](./97616-pachitte-chonmage-tatsujin-12-pachinko-ultraman.json) |
+| Pachitte Chonmage Tatsujin 2: CR Jurassic Park | 97615 | [97615-pachitte-chonmage-tatsujin-2-cr-jurassic-park.json](./97615-pachitte-chonmage-tatsujin-2-cr-jurassic-park.json) |
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pachoink! | 259696 | [259696-pachoink.json](./259696-pachoink.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
@@ -2529,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Pineview Forest | 17988 | [17988-passing-pineview-forest.json](./17988-passing-pineview-forest.json) |
 | Passing Shot | 12839 | [12839-passing-shot.json](./12839-passing-shot.json) |
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
+| Passing Wings | 97633 | [97633-passing-wings.json](./97633-passing-wings.json) |
 | Passion Bay | 402148 | [402148-passion-bay.json](./402148-passion-bay.json) |
 | Passion Industry | 385690 | [385690-passion-industry.json](./385690-passion-industry.json) |
 | Passion Puzzle: Hentai Maidens! | 356527 | [356527-passion-puzzle-hentai-maidens.json](./356527-passion-puzzle-hentai-maidens.json) |
@@ -15208,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psalm 2 | 402547 | [402547-psalm-2.json](./402547-psalm-2.json) |
 | Psalm VR | 343853 | [343853-psalm-vr.json](./343853-psalm-vr.json) |
 | PSBO | 57534 | [57534-psbo.json](./57534-psbo.json) |
+| PSD | 97647 | [97647-psd.json](./97647-psd.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
 | Psebay: Gravity Moto Trials | 188256 | [188256-psebay-gravity-moto-trials.json](./188256-psebay-gravity-moto-trials.json) |
 | Pseudo Collision | 389657 | [389657-pseudo-collision.json](./389657-pseudo-collision.json) |
