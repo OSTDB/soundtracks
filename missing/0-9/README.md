@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Xtreme | 305796 | [305796-2xtreme.json](./305796-2xtreme.json) |
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 | 169088 | [169088-3.json](./169088-3.json) |
+| 3 Beards | 74825 | [74825-3-beards.json](./74825-3-beards.json) |
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
 | 3 Billion Dreams for a Forgiveness Machine | 229539 | [229539-3-billion-dreams-for-a-forgiveness-machine.json](./229539-3-billion-dreams-for-a-forgiveness-machine.json) |
 | 3 Bingos Away From Hell | 413590 | [413590-3-bingos-away-from-hell.json](./413590-3-bingos-away-from-hell.json) |
