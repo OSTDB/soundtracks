@@ -3965,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellGunner | 28765 | [28765-hellgunner.json](./28765-hellgunner.json) |
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
 | Hellheim: A Norse Saga | 270487 | [270487-hellheim-a-norse-saga.json](./270487-hellheim-a-norse-saga.json) |
+| Hellhog XP | 71874 | [71874-hellhog-xp.json](./71874-hellhog-xp.json) |
 | Hellhole | 186266 | [186266-hellhole.json](./186266-hellhole.json) |
 | Hellhole Game | 390707 | [390707-hellhole-game.json](./390707-hellhole-game.json) |
 | Hellhounds | 59728 | [59728-hellhounds.json](./59728-hellhounds.json) |
