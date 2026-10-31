@@ -874,7 +874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -954,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadukPop | 266954 | [266954-badukpop.json](./266954-badukpop.json) |
 | Badventure | 267257 | [267257-badventure.json](./267257-badventure.json) |
 | BadZone | 406203 | [406203-badzone.json](./406203-badzone.json) |
+| BAE 2 | 81798 | [81798-bae-2.json](./81798-bae-2.json) |
 | Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Date-Hen | 269660 | [269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json](./269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Test-Hen | 269659 | [269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json](./269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json) |
@@ -8707,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Runner | 322 | [322-blade-runner.json](./322-blade-runner.json) |
 | Blade Runner | 339686 | [339686-blade-runner.json](./339686-blade-runner.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
+| Blade Runner 2049: Memory Lab | 81840 | [81840-blade-runner-2049-memory-lab.json](./81840-blade-runner-2049-memory-lab.json) |
 | Blade Runner 2049: Replicant Pursuit | 51529 | [51529-blade-runner-2049-replicant-pursuit.json](./51529-blade-runner-2049-replicant-pursuit.json) |
 | Blade Runner 9732 | 80854 | [80854-blade-runner-9732.json](./80854-blade-runner-9732.json) |
 | Blade Runner Rogue | 154853 | [154853-blade-runner-rogue.json](./154853-blade-runner-rogue.json) |
@@ -11998,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomer | 410649 | [410649-boomer.json](./410649-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
+| Boomer Rampage | 81828 | [81828-boomer-rampage.json](./81828-boomer-rampage.json) |
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Slayers | 193587 | [193587-boomer-slayers.json](./193587-boomer-slayers.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
