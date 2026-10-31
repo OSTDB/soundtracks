@@ -4148,7 +4148,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuse & Reuse | 348296 | [348296-refuse-and-reuse.json](./348296-refuse-and-reuse.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Regain Earth: First Strike | 139229 | [139229-regain-earth-first-strike.json](./139229-regain-earth-first-strike.json) |
-| Regalia: Of Men and Monarchs | 30205 | [30205-regalia-of-men-and-monarchs.json](./30205-regalia-of-men-and-monarchs.json) |
 | Regalia: Of Men and Monarchs - Paragons and Pajamas | 172162 | [172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json](./172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json) |
 | Regalia: Of Men and Monarchs - The Unending Grimoire | 84829 | [84829-regalia-of-men-and-monarchs-the-unending-grimoire.json](./84829-regalia-of-men-and-monarchs-the-unending-grimoire.json) |
 | Regalia: Royal Edition | 78118 | [78118-regalia-royal-edition.json](./78118-regalia-royal-edition.json) |
@@ -4554,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RemiLore: Lost Girl in the Lands of Lore | 103259 | [103259-remilore-lost-girl-in-the-lands-of-lore.json](./103259-remilore-lost-girl-in-the-lands-of-lore.json) |
 | REMinal | 404769 | [404769-reminal.json](./404769-reminal.json) |
 | Remindelight | 123405 | [123405-remindelight.json](./123405-remindelight.json) |
+| Remington Big Buck Trophy Hunt | 69059 | [69059-remington-big-buck-trophy-hunt.json](./69059-remington-big-buck-trophy-hunt.json) |
 | Remington Great American Bird Hunt | 51134 | [51134-remington-great-american-bird-hunt.json](./51134-remington-great-american-bird-hunt.json) |
 | Remington Super Slam Hunting Africa | 10764 | [10764-remington-super-slam-hunting-africa.json](./10764-remington-super-slam-hunting-africa.json) |
 | Remington Super Slam Hunting Alaska | 10765 | [10765-remington-super-slam-hunting-alaska.json](./10765-remington-super-slam-hunting-alaska.json) |
@@ -10425,7 +10425,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rounded Strategy | 102042 | [102042-rounded-strategy.json](./102042-rounded-strategy.json) |
 | Rounders | 220746 | [220746-rounders.json](./220746-rounders.json) |
 | Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
-| Roundguard | 97114 | [97114-roundguard.json](./97114-roundguard.json) |
 | Rounding Demon | 123505 | [123505-rounding-demon.json](./123505-rounding-demon.json) |
 | Roundout by Powgi | 147682 | [147682-roundout-by-powgi.json](./147682-roundout-by-powgi.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
@@ -10770,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Ski Jumping 2006 | 80865 | [80865-rtl-ski-jumping-2006.json](./80865-rtl-ski-jumping-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
+| RTL Skispringen Herausforderung 2001 | 69015 | [69015-rtl-skispringen-herausforderung-2001.json](./69015-rtl-skispringen-herausforderung-2001.json) |
 | RTL Winter Games 2007 | 152301 | [152301-rtl-winter-games-2007.json](./152301-rtl-winter-games-2007.json) |
 | RTL WLS 2000 | 186002 | [186002-rtl-wls-2000.json](./186002-rtl-wls-2000.json) |
 | RTM: The Last Days | 212209 | [212209-rtm-the-last-days.json](./212209-rtm-the-last-days.json) |
