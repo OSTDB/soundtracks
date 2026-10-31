@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last-Hit Defense | 224027 | [224027-last-hit-defense.json](./224027-last-hit-defense.json) |
 | LasTar | 395162 | [395162-lastar.json](./395162-lastar.json) |
 | Lastbane | 348773 | [348773-lastbane.json](./348773-lastbane.json) |
+| LastByteStanding | 105600 | [105600-lastbytestanding.json](./105600-lastbytestanding.json) |
 | LastDitch | 296529 | [296529-lastditch.json](./296529-lastditch.json) |
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
