@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Ship | 297338 | [297338-candy-ship.json](./297338-candy-ship.json) |
 | Candy Shop Simulator | 293129 | [293129-candy-shop-simulator.json](./293129-candy-shop-simulator.json) |
 | Candy Shop Simulator: Sweet Start | 346682 | [346682-candy-shop-simulator-sweet-start.json](./346682-candy-shop-simulator-sweet-start.json) |
+| Candy Show: Sweet Easter | 89619 | [89619-candy-show-sweet-easter.json](./89619-candy-show-sweet-easter.json) |
 | Candy Smash Factory | 96484 | [96484-candy-smash-factory.json](./96484-candy-smash-factory.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Star Break | 96009 | [96009-candy-star-break.json](./96009-candy-star-break.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitalism Lab | 27295 | [27295-capitalism-lab.json](./27295-capitalism-lab.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | Capitals | 60074 | [60074-capitals.json](./60074-capitals.json) |
+| Capitals Quizzer | 89582 | [89582-capitals-quizzer.json](./89582-capitals-quizzer.json) |
 | Capitals Quizzer: Countries Mode | 257440 | [257440-capitals-quizzer-countries-mode.json](./257440-capitals-quizzer-countries-mode.json) |
 | Capitals Quizzer: Currency Mode | 257461 | [257461-capitals-quizzer-currency-mode.json](./257461-capitals-quizzer-currency-mode.json) |
 | Capitals Quizzer: Globe Mode | 296525 | [296525-capitals-quizzer-globe-mode.json](./296525-capitals-quizzer-globe-mode.json) |
@@ -10077,6 +10079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Bunny | 183988 | [183988-code-bunny.json](./183988-code-bunny.json) |
 | Code Carbon | 24857 | [24857-code-carbon.json](./24857-code-carbon.json) |
 | Code Correction | 155466 | [155466-code-correction.json](./155466-code-correction.json) |
+| Code Cracker | 89613 | [89613-code-cracker.json](./89613-code-cracker.json) |
 | Code Dread | 173071 | [173071-code-dread.json](./173071-code-dread.json) |
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
