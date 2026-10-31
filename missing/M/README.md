@@ -10945,6 +10945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
+| Mind Twins | 81832 | [81832-mind-twins.json](./81832-mind-twins.json) |
 | Mind Twist | 378766 | [378766-mind-twist.json](./378766-mind-twist.json) |
 | Mind VR Exploration | 168110 | [168110-mind-vr-exploration.json](./168110-mind-vr-exploration.json) |
 | Mind Walker | 26379 | [26379-mind-walker.json](./26379-mind-walker.json) |
@@ -17758,6 +17759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushrooming | 378550 | [378550-mushrooming.json](./378550-mushrooming.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mushrooms vs. Goombas | 294534 | [294534-mushrooms-vs-goombas.json](./294534-mushrooms-vs-goombas.json) |
+| Mushrooms: Forest Walker | 81792 | [81792-mushrooms-forest-walker.json](./81792-mushrooms-forest-walker.json) |
 | Mushroots | 292961 | [292961-mushroots.json](./292961-mushroots.json) |
 | Mushrush | 292975 | [292975-mushrush.json](./292975-mushrush.json) |
 | Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
