@@ -3959,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orwell: Deluxe Edition | 51859 | [51859-orwell-deluxe-edition.json](./51859-orwell-deluxe-edition.json) |
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
 | Orwell: Keeping an Eye on You | 22704 | [22704-orwell-keeping-an-eye-on-you.json](./22704-orwell-keeping-an-eye-on-you.json) |
+| Orx | 118588 | [118588-orx.json](./118588-orx.json) |
 | Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
 | Oryouri Pon! | 344845 | [344845-oryouri-pon.json](./344845-oryouri-pon.json) |
 | Oryouri Pon! 1-gatsu-gou | 344849 | [344849-oryouri-pon-1-gatsu-gou.json](./344849-oryouri-pon-1-gatsu-gou.json) |
