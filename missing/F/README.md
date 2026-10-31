@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Anniversary: Heroes and Villains Content Pack | 226844 | [226844-fable-anniversary-heroes-and-villains-content-pack.json](./226844-fable-anniversary-heroes-and-villains-content-pack.json) |
 | Fable Anniversary: Scythe Content Pack | 226845 | [226845-fable-anniversary-scythe-content-pack.json](./226845-fable-anniversary-scythe-content-pack.json) |
 | Fable Clinic | 56768 | [56768-fable-clinic.json](./56768-fable-clinic.json) |
+| Fable For Two | 121239 | [121239-fable-for-two.json](./121239-fable-for-two.json) |
 | Fable Forts! | 261883 | [261883-fable-forts.json](./261883-fable-forts.json) |
 | Fable Fortune | 19388 | [19388-fable-fortune.json](./19388-fable-fortune.json) |
 | Fable Grove | 309476 | [309476-fable-grove.json](./309476-fable-grove.json) |
