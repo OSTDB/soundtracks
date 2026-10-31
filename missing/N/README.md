@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NagiQ 2: Treasure Hunt | 239555 | [239555-nagiq-2-treasure-hunt.json](./239555-nagiq-2-treasure-hunt.json) |
 | NaGongGan Infinite | 165773 | [165773-nagonggan-infinite.json](./165773-nagonggan-infinite.json) |
 | Nagual | 345948 | [345948-nagual.json](./345948-nagual.json) |
+| Nahan: The Ultimate 3D Puzzle Game | 73448 | [73448-nahan-the-ultimate-3d-puzzle-game.json](./73448-nahan-the-ultimate-3d-puzzle-game.json) |
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon at Waterloo | 25092 | [25092-napoleon-at-waterloo.json](./25092-napoleon-at-waterloo.json) |
 | Napoleon Dynamite: The Game | 2824 | [2824-napoleon-dynamite-the-game.json](./2824-napoleon-dynamite-the-game.json) |
 | Napoleon in Russia | 107539 | [107539-napoleon-in-russia.json](./107539-napoleon-in-russia.json) |
+| Napoleon In Russia: Borodino 1812 | 73438 | [73438-napoleon-in-russia-borodino-1812.json](./73438-napoleon-in-russia-borodino-1812.json) |
 | Napoleon Maiden | 150964 | [150964-napoleon-maiden.json](./150964-napoleon-maiden.json) |
 | Napoleon Solitaire | 132169 | [132169-napoleon-solitaire.json](./132169-napoleon-solitaire.json) |
 | Napoleon: Rule of Iron | 358985 | [358985-napoleon-rule-of-iron.json](./358985-napoleon-rule-of-iron.json) |
