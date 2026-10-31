@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Fantasy Classics | 398312 | [398312-warhammer-fantasy-classics.json](./398312-warhammer-fantasy-classics.json) |
 | Warhammer Online: Age of Reckoning | 215 | [215-warhammer-online-age-of-reckoning.json](./215-warhammer-online-age-of-reckoning.json) |
 | Warhammer Online: Return of Reckoning | 398835 | [398835-warhammer-online-return-of-reckoning.json](./398835-warhammer-online-return-of-reckoning.json) |
+| Warhammer Online: Wrath of Heroes | 65721 | [65721-warhammer-online-wrath-of-heroes.json](./65721-warhammer-online-wrath-of-heroes.json) |
 | Warhammer Pack: Hack and Slash | 224159 | [224159-warhammer-pack-hack-and-slash.json](./224159-warhammer-pack-hack-and-slash.json) |
 | Warhammer Quest | 8480 | [8480-warhammer-quest.json](./8480-warhammer-quest.json) |
 | Warhammer Quest 2: The End Times | 27930 | [27930-warhammer-quest-2-the-end-times.json](./27930-warhammer-quest-2-the-end-times.json) |
