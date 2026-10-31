@@ -4150,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets After Class | 303297 | [303297-secrets-after-class.json](./303297-secrets-after-class.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
+| Secrets and Treasure: The Lost Cities | 106253 | [106253-secrets-and-treasure-the-lost-cities.json](./106253-secrets-and-treasure-the-lost-cities.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
 | Secrets in Green | 326006 | [326006-secrets-in-green.json](./326006-secrets-in-green.json) |
 | Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
@@ -20862,6 +20863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spycraft: The Great Game | 2232 | [2232-spycraft-the-great-game.json](./2232-spycraft-the-great-game.json) |
 | Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
 | Spyer | 203735 | [203735-spyer.json](./203735-spyer.json) |
+| Spyglass Board Games | 106254 | [106254-spyglass-board-games.json](./106254-spyglass-board-games.json) |
 | Spyhack | 90138 | [90138-spyhack.json](./90138-spyhack.json) |
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
 | SpyHunter | 248443 | [248443-spyhunter.json](./248443-spyhunter.json) |
@@ -30526,6 +30528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supersports: The Alternative Olympics | 123008 | [123008-supersports-the-alternative-olympics.json](./123008-supersports-the-alternative-olympics.json) |
 | Superspy Steve | 385296 | [385296-superspy-steve.json](./385296-superspy-steve.json) |
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
+| Superstar | 106256 | [106256-superstar.json](./106256-superstar.json) |
 | Superstar Archery | 358829 | [358829-superstar-archery.json](./358829-superstar-archery.json) |
 | SuperStar Ateez | 175622 | [175622-superstar-ateez.json](./175622-superstar-ateez.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
@@ -31871,6 +31874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipey Maze | 233085 | [233085-swipey-maze.json](./233085-swipey-maze.json) |
 | Swipez Puzzle | 175083 | [175083-swipez-puzzle.json](./175083-swipez-puzzle.json) |
 | Swire Future | 158125 | [158125-swire-future.json](./158125-swire-future.json) |
+| Swirl - The Ice Cream Saga | 106220 | [106220-swirl-the-ice-cream-saga.json](./106220-swirl-the-ice-cream-saga.json) |
 | Swiscape | 131765 | [131765-swiscape.json](./131765-swiscape.json) |
 | Swish Ball Clicker | 405591 | [405591-swish-ball-clicker.json](./405591-swish-ball-clicker.json) |
 | Swish Ball! | 238934 | [238934-swish-ball.json](./238934-swish-ball.json) |
