@@ -2178,6 +2178,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Tap | 122612 | [122612-tap-tap-tap.json](./122612-tap-tap-tap.json) |
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
 | Tap Tap West | 95963 | [95963-tap-tap-west.json](./95963-tap-tap-west.json) |
+| Tap Tap: Dave Mathnews Band Revenge | 67740 | [67740-tap-tap-dave-mathnews-band-revenge.json](./67740-tap-tap-dave-mathnews-band-revenge.json) |
+| Tap Tap: Lady Gaga Revenge Edition | 67739 | [67739-tap-tap-lady-gaga-revenge-edition.json](./67739-tap-tap-lady-gaga-revenge-edition.json) |
 | Tap That Date! | 323993 | [323993-tap-that-date.json](./323993-tap-that-date.json) |
 | Tap the Ball DX | 241555 | [241555-tap-the-ball-dx.json](./241555-tap-the-ball-dx.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
@@ -6589,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cheetah Girls | 49367 | [49367-the-cheetah-girls.json](./49367-the-cheetah-girls.json) |
 | The Cheetah Girls: Passport to Fame | 220541 | [220541-the-cheetah-girls-passport-to-fame.json](./220541-the-cheetah-girls-passport-to-fame.json) |
 | The Cheetah Girls: Passport to Stardom | 117498 | [117498-the-cheetah-girls-passport-to-stardom.json](./117498-the-cheetah-girls-passport-to-stardom.json) |
+| The Cheetah Girls: Pop Star Sensations | 67759 | [67759-the-cheetah-girls-pop-star-sensations.json](./67759-the-cheetah-girls-pop-star-sensations.json) |
 | The Cheetahmen: The Creation | 63348 | [63348-the-cheetahmen-the-creation.json](./63348-the-cheetahmen-the-creation.json) |
 | The Chef | 71238 | [71238-the-chef.json](./71238-the-chef.json) |
 | The Chef's Shift | 247893 | [247893-the-chefs-shift.json](./247893-the-chefs-shift.json) |
@@ -9956,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Humans | 48657 | [48657-the-humans.json](./48657-the-humans.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Humans Collection | 103199 | [103199-the-humans-collection.json](./103199-the-humans-collection.json) |
+| The Humans: Meet the Ancestors | 67847 | [67847-the-humans-meet-the-ancestors.json](./67847-the-humans-meet-the-ancestors.json) |
 | The Humans: Meet the Ancestors | 78749 | [78749-the-humans-meet-the-ancestors.json](./78749-the-humans-meet-the-ancestors.json) |
 | The Humbling of a Holy Maiden | 192723 | [192723-the-humbling-of-a-holy-maiden.json](./192723-the-humbling-of-a-holy-maiden.json) |
 | The Hunchback of Notre Dame | 54301 | [54301-the-hunchback-of-notre-dame.json](./54301-the-hunchback-of-notre-dame.json) |
@@ -21762,6 +21766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Hunter | 110621 | [110621-titan-hunter.json](./110621-titan-hunter.json) |
 | Titan Hunters | 409703 | [409703-titan-hunters.json](./409703-titan-hunters.json) |
 | Titan Isles | 335131 | [335131-titan-isles.json](./335131-titan-isles.json) |
+| Titan Online | 67776 | [67776-titan-online.json](./67776-titan-online.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
 | Titan Quest | 99467 | [99467-titan-quest.json](./99467-titan-quest.json) |
 | Titan Quest Anniversary Edition | 32614 | [32614-titan-quest-anniversary-edition.json](./32614-titan-quest-anniversary-edition.json) |
@@ -23719,6 +23724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToSaVa | 409721 | [409721-tosava.json](./409721-tosava.json) |
 | Tosbik Around The World | 395752 | [395752-tosbik-around-the-world.json](./395752-tosbik-around-the-world.json) |
 | Toshi Tensou Keikaku: Eternal City | 37725 | [37725-toshi-tensou-keikaku-eternal-city.json](./37725-toshi-tensou-keikaku-eternal-city.json) |
+| Toshinden | 67761 | [67761-toshinden.json](./67761-toshinden.json) |
 | Toshinden 4 | 1416 | [1416-toshinden-4.json](./1416-toshinden-4.json) |
 | Toshinden Card Quest | 43946 | [43946-toshinden-card-quest.json](./43946-toshinden-card-quest.json) |
 | Toshishita Kanojo | 382783 | [382783-toshishita-kanojo.json](./382783-toshishita-kanojo.json) |
