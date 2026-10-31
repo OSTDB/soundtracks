@@ -8846,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds: Play & Learn | 386094 | [386094-angry-birds-play-and-learn.json](./386094-angry-birds-play-and-learn.json) |
 | Angry Birds: Pop! | 60224 | [60224-angry-birds-pop.json](./60224-angry-birds-pop.json) |
 | Angry Birds: Star Wars | 247344 | [247344-angry-birds-star-wars.json](./247344-angry-birds-star-wars.json) |
+| Angry Bots | 89584 | [89584-angry-bots.json](./89584-angry-bots.json) |
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
 | Angry Brides | 174079 | [174079-angry-brides.json](./174079-angry-brides.json) |
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
@@ -12129,6 +12130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51: Site 4 | 39836 | [39836-area-51-site-4.json](./39836-area-51-site-4.json) |
 | Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
 | Area 75 | 389177 | [389177-area-75.json](./389177-area-75.json) |
+| Area 86 | 89601 | [89601-area-86.json](./89601-area-86.json) |
 | Area 88 ~Etranger 1995~ | 60923 | [60923-area-88-etranger-1995.json](./60923-area-88-etranger-1995.json) |
 | Area 88: Ikkakujuu no Kiseki | 60922 | [60922-area-88-ikkakujuu-no-kiseki.json](./60922-area-88-ikkakujuu-no-kiseki.json) |
 | Area Cooperation Economic Simulation: North Korea (ACES) | 114260 | [114260-area-cooperation-economic-simulation-north-korea-aces.json](./114260-area-cooperation-economic-simulation-north-korea-aces.json) |
