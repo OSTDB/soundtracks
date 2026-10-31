@@ -11541,6 +11541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Inferno | 328245 | [328245-frozen-inferno.json](./328245-frozen-inferno.json) |
 | Frozen Injustice: Fridge Adventures | 324334 | [324334-frozen-injustice-fridge-adventures.json](./324334-frozen-injustice-fridge-adventures.json) |
 | Frozen Islands | 101936 | [101936-frozen-islands.json](./101936-frozen-islands.json) |
+| Frozen islands: new horizons | 101881 | [101881-frozen-islands-new-horizons.json](./101881-frozen-islands-new-horizons.json) |
 | Frozen Kingdom | 294390 | [294390-frozen-kingdom.json](./294390-frozen-kingdom.json) |
 | Frozen Knight | 109376 | [109376-frozen-knight.json](./109376-frozen-knight.json) |
 | Frozen Mahjong | 71255 | [71255-frozen-mahjong.json](./71255-frozen-mahjong.json) |
