@@ -12311,6 +12311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argo | 272353 | [272353-argo.json](./272353-argo.json) |
 | Argo | 36607 | [36607-argo.json](./36607-argo.json) |
 | Argo Adventure | 120885 | [120885-argo-adventure.json](./120885-argo-adventure.json) |
+| Argo Checkers | 73443 | [73443-argo-checkers.json](./73443-argo-checkers.json) |
 | Argo Online | 64268 | [64268-argo-online.json](./64268-argo-online.json) |
 | Argol: Kronoss' Castle | 229807 | [229807-argol-kronoss-castle.json](./229807-argol-kronoss-castle.json) |
 | Argolis | 140940 | [140940-argolis.json](./140940-argolis.json) |
@@ -13089,6 +13090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Inc. | 290283 | [290283-art-inc.json](./290283-art-inc.json) |
 | Art is Boom | 276877 | [276877-art-is-boom.json](./276877-art-is-boom.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
+| Art is Dead | 73447 | [73447-art-is-dead.json](./73447-art-is-dead.json) |
 | Art is Rifle | 255479 | [255479-art-is-rifle.json](./255479-art-is-rifle.json) |
 | Art Jigsaw Puzzles | 303666 | [303666-art-jigsaw-puzzles.json](./303666-art-jigsaw-puzzles.json) |
 | Art Mahjong 2 | 91526 | [91526-art-mahjong-2.json](./91526-art-mahjong-2.json) |
@@ -13211,6 +13213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Reading Games | 59948 | [59948-arthurs-reading-games.json](./59948-arthurs-reading-games.json) |
 | Arthur's Reading Race | 270021 | [270021-arthurs-reading-race.json](./270021-arthurs-reading-race.json) |
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
+| Arthur's Sand Castle Contest | 73575 | [73575-arthurs-sand-castle-contest.json](./73575-arthurs-sand-castle-contest.json) |
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Arthur's Teacher Trouble | 269997 | [269997-arthurs-teacher-trouble.json](./269997-arthurs-teacher-trouble.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
