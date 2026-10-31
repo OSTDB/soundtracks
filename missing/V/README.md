@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Robots: Robot Programming Simulator | 74518 | [74518-virtual-robots-robot-programming-simulator.json](./74518-virtual-robots-robot-programming-simulator.json) |
 | Virtual Rogue | 33375 | [33375-virtual-rogue.json](./33375-virtual-rogue.json) |
 | Virtual Safari | 205979 | [205979-virtual-safari.json](./205979-virtual-safari.json) |
+| Virtual Sailor 6 | 70255 | [70255-virtual-sailor-6.json](./70255-virtual-sailor-6.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
 | Virtual Silence | 94014 | [94014-virtual-silence.json](./94014-virtual-silence.json) |
 | Virtual Sister Happy Mom Newborn Baby Family Game | 95783 | [95783-virtual-sister-happy-mom-newborn-baby-family-game.json](./95783-virtual-sister-happy-mom-newborn-baby-family-game.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Skate: Winter Update | 380593 | [380593-virtual-skate-winter-update.json](./380593-virtual-skate-winter-update.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
 | Virtual Sniper | 387484 | [387484-virtual-sniper.json](./387484-virtual-sniper.json) |
+| Virtual Snooker | 70168 | [70168-virtual-snooker.json](./70168-virtual-snooker.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
 | Virtual Soldiers | 150246 | [150246-virtual-soldiers.json](./150246-virtual-soldiers.json) |
 | Virtual Sports | 29569 | [29569-virtual-sports.json](./29569-virtual-sports.json) |
@@ -3858,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
 | Vulcan Tower Defence | 234759 | [234759-vulcan-tower-defence.json](./234759-vulcan-tower-defence.json) |
 | Vulcan: The Tunisian Campaign | 72473 | [72473-vulcan-the-tunisian-campaign.json](./72473-vulcan-the-tunisian-campaign.json) |
+| Vulcanology: The MiniSeries Collection | 70165 | [70165-vulcanology-the-miniseries-collection.json](./70165-vulcanology-the-miniseries-collection.json) |
 | Vulcanus | 91843 | [91843-vulcanus.json](./91843-vulcanus.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
 | Vulgord's Tower | 151292 | [151292-vulgords-tower.json](./151292-vulgords-tower.json) |
