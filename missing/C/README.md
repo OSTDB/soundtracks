@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture the Flag | 73612 | [73612-capture-the-flag.json](./73612-capture-the-flag.json) |
 | Capture the Flag 1 | 173192 | [173192-capture-the-flag-1.json](./173192-capture-the-flag-1.json) |
 | Capture the Intelligence | 306725 | [306725-capture-the-intelligence.json](./306725-capture-the-intelligence.json) |
+| Capture the monster | 86469 | [86469-capture-the-monster.json](./86469-capture-the-monster.json) |
 | Capture the Pixel | 176188 | [176188-capture-the-pixel.json](./176188-capture-the-pixel.json) |
 | Captured | 312193 | [312193-captured.json](./312193-captured.json) |
 | Captured | 413918 | [413918-captured.json](./413918-captured.json) |
@@ -7051,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Choo Choo Survivor | 242622 | [242622-choo-choo-survivor.json](./242622-choo-choo-survivor.json) |
 | Choo-Choo Charles | 173432 | [173432-choo-choo-charles.json](./173432-choo-choo-charles.json) |
+| Choo-Choo! Train Rides! | 86463 | [86463-choo-choo-train-rides.json](./86463-choo-choo-train-rides.json) |
 | Choo-Choose | 292375 | [292375-choo-choose.json](./292375-choo-choose.json) |
 | Chooche | 175163 | [175163-chooche.json](./175163-chooche.json) |
 | Chooing | 303732 | [303732-chooing.json](./303732-chooing.json) |
@@ -15292,6 +15294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyBus | 9077 | [9077-crazybus.json](./9077-crazybus.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
 | CrazyCars3D | 33431 | [33431-crazycars3d.json](./33431-crazycars3d.json) |
+| CrazyCat | 86500 | [86500-crazycat.json](./86500-crazycat.json) |
 | CrazyCattle3D | 339875 | [339875-crazycattle3d.json](./339875-crazycattle3d.json) |
 | CrazyCubes - Mobile Low Poly Game | 117483 | [117483-crazycubes-mobile-low-poly-game.json](./117483-crazycubes-mobile-low-poly-game.json) |
 | CrazyDish | 402110 | [402110-crazydish.json](./402110-crazydish.json) |
