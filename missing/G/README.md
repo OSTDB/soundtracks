@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaias Lord | 92292 | [92292-gaias-lord.json](./92292-gaias-lord.json) |
 | GaiaSeed: Project Seed Trap | 43758 | [43758-gaiaseed-project-seed-trap.json](./43758-gaiaseed-project-seed-trap.json) |
 | Gaiflame | 43189 | [43189-gaiflame.json](./43189-gaiflame.json) |
+| Gaijin Charenji 1: Kiss or Kill | 122618 | [122618-gaijin-charenji-1-kiss-or-kill.json](./122618-gaijin-charenji-1-kiss-or-kill.json) |
 | Gaijin Mario | 315542 | [315542-gaijin-mario.json](./315542-gaijin-mario.json) |
 | Gaijin Troubles | 126630 | [126630-gaijin-troubles.json](./126630-gaijin-troubles.json) |
 | Gailardia 2: The One That Survived | 376696 | [376696-gailardia-2-the-one-that-survived.json](./376696-gailardia-2-the-one-that-survived.json) |
