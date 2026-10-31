@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T21:06:32.133Z",
-  "total_missing": 290320,
+  "generated_at": "2026-10-31T21:18:27.954Z",
+  "total_missing": 290370,
   "games": [
     {
       "igdb_id": 191680,
@@ -8085,6 +8085,11 @@
       "igdb_id": 272846,
       "game_name": "20th Century Frog",
       "file": "missing/0-9/272846-20th-century-frog.json"
+    },
+    {
+      "igdb_id": 69029,
+      "game_name": "20th Century Video Almanac",
+      "file": "missing/0-9/69029-20th-century-video-almanac.json"
     },
     {
       "igdb_id": 175786,
@@ -22782,6 +22787,11 @@
       "file": "missing/A/32169-a-week-of-circus-terror.json"
     },
     {
+      "igdb_id": 69023,
+      "game_name": "A Week of Garfield: Garfield no Isshukan",
+      "file": "missing/A/69023-a-week-of-garfield-garfield-no-isshukan.json"
+    },
+    {
       "igdb_id": 177893,
       "game_name": "A Weekend at Villa Apate",
       "file": "missing/A/177893-a-weekend-at-villa-apate.json"
@@ -33285,6 +33295,11 @@
       "igdb_id": 409368,
       "game_name": "Adventures of Norman the Cat",
       "file": "missing/A/409368-adventures-of-norman-the-cat.json"
+    },
+    {
+      "igdb_id": 69034,
+      "game_name": "Adventures of Pinocchio",
+      "file": "missing/A/69034-adventures-of-pinocchio.json"
     },
     {
       "igdb_id": 75208,
@@ -45920,6 +45935,11 @@
       "igdb_id": 118594,
       "game_name": "Alice in CyberCity",
       "file": "missing/A/118594-alice-in-cybercity.json"
+    },
+    {
+      "igdb_id": 69003,
+      "game_name": "Alice in Cyberland",
+      "file": "missing/A/69003-alice-in-cyberland.json"
     },
     {
       "igdb_id": 257962,
@@ -158362,6 +158382,11 @@
       "file": "missing/B/210264-bonds-of-the-skies.json"
     },
     {
+      "igdb_id": 69011,
+      "game_name": "Bonds of the Skies",
+      "file": "missing/B/69011-bonds-of-the-skies.json"
+    },
+    {
       "igdb_id": 249221,
       "game_name": "Bonds of Unity",
       "file": "missing/B/249221-bonds-of-unity.json"
@@ -183827,6 +183852,11 @@
       "file": "missing/B/125260-buzz-saw-blood-house.json"
     },
     {
+      "igdb_id": 69022,
+      "game_name": "Buzz: Brain of Oz",
+      "file": "missing/B/69022-buzz-brain-of-oz.json"
+    },
+    {
       "igdb_id": 23267,
       "game_name": "Buzz! Brain Bender",
       "file": "missing/B/23267-buzz-brain-bender.json"
@@ -187065,6 +187095,11 @@
       "igdb_id": 355222,
       "game_name": "Call of Clans: Random Legend Card Pack",
       "file": "missing/C/355222-call-of-clans-random-legend-card-pack.json"
+    },
+    {
+      "igdb_id": 69006,
+      "game_name": "Call of Combat",
+      "file": "missing/C/69006-call-of-combat.json"
     },
     {
       "igdb_id": 201942,
@@ -204160,6 +204195,11 @@
       "igdb_id": 368667,
       "game_name": "Catch Royale",
       "file": "missing/C/368667-catch-royale.json"
+    },
+    {
+      "igdb_id": 69004,
+      "game_name": "Catch Simona in New York City",
+      "file": "missing/C/69004-catch-simona-in-new-york-city.json"
     },
     {
       "igdb_id": 348273,
@@ -224162,6 +224202,16 @@
       "file": "missing/C/209034-cinderellas-dollhouse.json"
     },
     {
+      "igdb_id": 69027,
+      "game_name": "Cinderella's Fairy Tale",
+      "file": "missing/C/69027-cinderellas-fairy-tale.json"
+    },
+    {
+      "igdb_id": 69032,
+      "game_name": "Cinderella's Fairy Tale",
+      "file": "missing/C/69032-cinderellas-fairy-tale.json"
+    },
+    {
       "igdb_id": 184037,
       "game_name": "Cinderella's Spark",
       "file": "missing/C/184037-cinderellas-spark.json"
@@ -231170,6 +231220,11 @@
       "igdb_id": 70075,
       "game_name": "Clifford the Big Red Dog: Phonics",
       "file": "missing/C/70075-clifford-the-big-red-dog-phonics.json"
+    },
+    {
+      "igdb_id": 69060,
+      "game_name": "Clifford the Big Red Dog: Reading",
+      "file": "missing/C/69060-clifford-the-big-red-dog-reading.json"
     },
     {
       "igdb_id": 70775,
@@ -276492,6 +276547,11 @@
       "file": "missing/C/39829-cyber-cycles.json"
     },
     {
+      "igdb_id": 69002,
+      "game_name": "Cyber Daisenryaku",
+      "file": "missing/C/69002-cyber-daisenryaku.json"
+    },
+    {
       "igdb_id": 154896,
       "game_name": "Cyber Defense 2088",
       "file": "missing/C/154896-cyber-defense-2088.json"
@@ -277765,6 +277825,11 @@
       "igdb_id": 258525,
       "game_name": "CyberNet Duel",
       "file": "missing/C/258525-cybernet-duel.json"
+    },
+    {
+      "igdb_id": 69001,
+      "game_name": "Cybernetic Empire",
+      "file": "missing/C/69001-cybernetic-empire.json"
     },
     {
       "igdb_id": 161369,
@@ -305147,6 +305212,11 @@
       "file": "missing/D/188314-defender-iii.json"
     },
     {
+      "igdb_id": 69019,
+      "game_name": "Defender of Boston: The Rock Island Mystery",
+      "file": "missing/D/69019-defender-of-boston-the-rock-island-mystery.json"
+    },
+    {
       "igdb_id": 341090,
       "game_name": "Defender of Diosa",
       "file": "missing/D/341090-defender-of-diosa.json"
@@ -326972,6 +327042,11 @@
       "file": "missing/D/17829-disney-princess-enchanted-journey.json"
     },
     {
+      "igdb_id": 69051,
+      "game_name": "Disney Princess: Enchanted Learning",
+      "file": "missing/D/69051-disney-princess-enchanted-learning.json"
+    },
+    {
       "igdb_id": 5187,
       "game_name": "Disney Princess: Enchanting Storybooks",
       "file": "missing/D/5187-disney-princess-enchanting-storybooks.json"
@@ -327030,6 +327105,11 @@
       "igdb_id": 36227,
       "game_name": "Disney Princess: The Princess and The Frog",
       "file": "missing/D/36227-disney-princess-the-princess-and-the-frog.json"
+    },
+    {
+      "igdb_id": 69056,
+      "game_name": "Disney Princess: Worlds of Enchantment",
+      "file": "missing/D/69056-disney-princess-worlds-of-enchantment.json"
     },
     {
       "igdb_id": 60243,
@@ -339392,6 +339472,11 @@
       "file": "missing/D/149474-doombreaker.json"
     },
     {
+      "igdb_id": 69005,
+      "game_name": "Doombringer",
+      "file": "missing/D/69005-doombringer.json"
+    },
+    {
       "igdb_id": 383650,
       "game_name": "DoomBus",
       "file": "missing/D/383650-doombus.json"
@@ -340467,6 +340552,11 @@
       "file": "missing/D/275577-dora-the-explorer-twins-day.json"
     },
     {
+      "igdb_id": 69055,
+      "game_name": "Dora the Explorer: Wildlife Rescue",
+      "file": "missing/D/69055-dora-the-explorer-wildlife-rescue.json"
+    },
+    {
       "igdb_id": 209119,
       "game_name": "Dora the Explorer: World Adventure",
       "file": "missing/D/209119-dora-the-explorer-world-adventure.json"
@@ -340485,6 +340575,11 @@
       "igdb_id": 202095,
       "game_name": "Dora's Big Birthday Adventure",
       "file": "missing/D/202095-doras-big-birthday-adventure.json"
+    },
+    {
+      "igdb_id": 69050,
+      "game_name": "Dora's Camping Adventure",
+      "file": "missing/D/69050-doras-camping-adventure.json"
     },
     {
       "igdb_id": 47964,
@@ -394715,6 +394810,11 @@
       "igdb_id": 6398,
       "game_name": "ESPN X Games Skateboarding",
       "file": "missing/E/6398-espn-x-games-skateboarding.json"
+    },
+    {
+      "igdb_id": 69010,
+      "game_name": "ESPN's 2-Minute Drill",
+      "file": "missing/E/69010-espns-2-minute-drill.json"
     },
     {
       "igdb_id": 93571,
@@ -486902,6 +487002,16 @@
       "file": "missing/G/152278-get-packed-fully-loaded.json"
     },
     {
+      "igdb_id": 69043,
+      "game_name": "Get Puzzled!",
+      "file": "missing/G/69043-get-puzzled.json"
+    },
+    {
+      "igdb_id": 69061,
+      "game_name": "Get Puzzled!",
+      "file": "missing/G/69061-get-puzzled.json"
+    },
+    {
       "igdb_id": 230432,
       "game_name": "Get Ready for Kindergarten",
       "file": "missing/G/230432-get-ready-for-kindergarten.json"
@@ -528467,6 +528577,11 @@
       "file": "missing/H/60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json"
     },
     {
+      "igdb_id": 69054,
+      "game_name": "Hana to Otome ni Shukufuku wo: Harukaze No Okurimono",
+      "file": "missing/H/69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json"
+    },
+    {
       "igdb_id": 263345,
       "game_name": "Hana: Episode I",
       "file": "missing/H/263345-hana-episode-i.json"
@@ -568132,6 +568247,16 @@
       "file": "missing/H/209882-hoppie.json"
     },
     {
+      "igdb_id": 69025,
+      "game_name": "Hoppie II",
+      "file": "missing/H/69025-hoppie-ii.json"
+    },
+    {
+      "igdb_id": 69030,
+      "game_name": "Hoppie II",
+      "file": "missing/H/69030-hoppie-ii.json"
+    },
+    {
       "igdb_id": 235765,
       "game_name": "Hoppin",
       "file": "missing/H/235765-hoppin.json"
@@ -581080,6 +581205,11 @@
       "igdb_id": 287766,
       "game_name": "Hyperspace Deck Command",
       "file": "missing/H/287766-hyperspace-deck-command.json"
+    },
+    {
+      "igdb_id": 69016,
+      "game_name": "Hyperspace Delivery Boy!",
+      "file": "missing/H/69016-hyperspace-delivery-boy.json"
     },
     {
       "igdb_id": 97931,
@@ -640222,6 +640352,11 @@
       "file": "missing/K/15264-keith-van-erons-pro-soccer.json"
     },
     {
+      "igdb_id": 69018,
+      "game_name": "Keith's Quest",
+      "file": "missing/K/69018-keiths-quest.json"
+    },
+    {
       "igdb_id": 384913,
       "game_name": "Keito",
       "file": "missing/K/384913-keito.json"
@@ -672565,6 +672700,11 @@
       "igdb_id": 221488,
       "game_name": "Learning Factory: True Engineer Edition",
       "file": "missing/L/221488-learning-factory-true-engineer-edition.json"
+    },
+    {
+      "igdb_id": 69045,
+      "game_name": "Learning Game Scholastic Outwit",
+      "file": "missing/L/69045-learning-game-scholastic-outwit.json"
     },
     {
       "igdb_id": 217468,
@@ -759837,6 +759977,11 @@
       "file": "missing/M/75590-midnight-quest.json"
     },
     {
+      "igdb_id": 69052,
+      "game_name": "Midnight Race Club: Supercharged!",
+      "file": "missing/M/69052-midnight-race-club-supercharged.json"
+    },
+    {
       "igdb_id": 290523,
       "game_name": "Midnight Racer",
       "file": "missing/M/290523-midnight-racer.json"
@@ -780047,6 +780192,16 @@
       "file": "missing/M/69197-monster-eggs.json"
     },
     {
+      "igdb_id": 69026,
+      "game_name": "Monster Eggs II",
+      "file": "missing/M/69026-monster-eggs-ii.json"
+    },
+    {
+      "igdb_id": 69031,
+      "game_name": "Monster Eggs II",
+      "file": "missing/M/69031-monster-eggs-ii.json"
+    },
+    {
       "igdb_id": 319188,
       "game_name": "Monster Elevator",
       "file": "missing/M/319188-monster-elevator.json"
@@ -793735,6 +793890,16 @@
       "igdb_id": 137263,
       "game_name": "Mr. Pencil: The Lost Colors of Doodleburg!",
       "file": "missing/M/137263-mr-pencil-the-lost-colors-of-doodleburg.json"
+    },
+    {
+      "igdb_id": 69040,
+      "game_name": "Mr. Pencil's Learn to Draw and Write",
+      "file": "missing/M/69040-mr-pencils-learn-to-draw-and-write.json"
+    },
+    {
+      "igdb_id": 69058,
+      "game_name": "Mr. Pencil's Learn to Draw and Write",
+      "file": "missing/M/69058-mr-pencils-learn-to-draw-and-write.json"
     },
     {
       "igdb_id": 292750,
@@ -883162,6 +883327,11 @@
       "file": "missing/P/25626-paranormal-activity-the-vr-game.json"
     },
     {
+      "igdb_id": 69012,
+      "game_name": "Paranormal Agency",
+      "file": "missing/P/69012-paranormal-agency.json"
+    },
+    {
       "igdb_id": 294166,
       "game_name": "Paranormal Archives",
       "file": "missing/P/294166-paranormal-archives.json"
@@ -940242,6 +940412,11 @@
       "file": "missing/P/368375-princess-shall-prevail.json"
     },
     {
+      "igdb_id": 69024,
+      "game_name": "Princess Snow White",
+      "file": "missing/P/69024-princess-snow-white.json"
+    },
+    {
       "igdb_id": 320455,
       "game_name": "Princess Snow White: The Enchanted Mirror",
       "file": "missing/P/320455-princess-snow-white-the-enchanted-mirror.json"
@@ -988487,6 +988662,11 @@
       "file": "missing/R/123405-remindelight.json"
     },
     {
+      "igdb_id": 69059,
+      "game_name": "Remington Big Buck Trophy Hunt",
+      "file": "missing/R/69059-remington-big-buck-trophy-hunt.json"
+    },
+    {
       "igdb_id": 51134,
       "game_name": "Remington Great American Bird Hunt",
       "file": "missing/R/51134-remington-great-american-bird-hunt.json"
@@ -1019562,6 +1019742,11 @@
       "file": "missing/R/94245-rtl-skispringen-2003.json"
     },
     {
+      "igdb_id": 69015,
+      "game_name": "RTL Skispringen Herausforderung 2001",
+      "file": "missing/R/69015-rtl-skispringen-herausforderung-2001.json"
+    },
+    {
       "igdb_id": 152301,
       "game_name": "RTL Winter Games 2007",
       "file": "missing/R/152301-rtl-winter-games-2007.json"
@@ -1029890,6 +1030075,16 @@
       "igdb_id": 226767,
       "game_name": "Sakura Revolution: Blooming Maidens",
       "file": "missing/S/226767-sakura-revolution-blooming-maidens.json"
+    },
+    {
+      "igdb_id": 69038,
+      "game_name": "Sakura Sakura",
+      "file": "missing/S/69038-sakura-sakura.json"
+    },
+    {
+      "igdb_id": 69053,
+      "game_name": "Sakura Sakura",
+      "file": "missing/S/69053-sakura-sakura.json"
     },
     {
       "igdb_id": 269524,
@@ -1127832,6 +1128027,11 @@
       "file": "missing/S/165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json"
     },
     {
+      "igdb_id": 69062,
+      "game_name": "SpongeBob SquarePants Saves the Day",
+      "file": "missing/S/69062-spongebob-squarepants-saves-the-day.json"
+    },
+    {
       "igdb_id": 135810,
       "game_name": "SpongeBob SquarePants Saves the Krusty Krab",
       "file": "missing/S/135810-spongebob-squarepants-saves-the-krusty-krab.json"
@@ -1172517,6 +1172717,11 @@
       "file": "missing/S/194874-super-melee-adventure-64.json"
     },
     {
+      "igdb_id": 69009,
+      "game_name": "Super Memory",
+      "file": "missing/S/69009-super-memory.json"
+    },
+    {
       "igdb_id": 203604,
       "game_name": "Super Meteor",
       "file": "missing/S/203604-super-meteor.json"
@@ -1208587,6 +1208792,11 @@
       "file": "missing/T/305178-tempopo.json"
     },
     {
+      "igdb_id": 69008,
+      "game_name": "Temporal",
+      "file": "missing/T/69008-temporal.json"
+    },
+    {
       "igdb_id": 310211,
       "game_name": "Temporal Cross",
       "file": "missing/T/310211-temporal-cross.json"
@@ -1208995,6 +1209205,11 @@
       "igdb_id": 289364,
       "game_name": "Tenchi Muyo! Toko Muyo: Aniraji Collection",
       "file": "missing/T/289364-tenchi-muyo-toko-muyo-aniraji-collection.json"
+    },
+    {
+      "igdb_id": 69046,
+      "game_name": "Tenchi no Mon 2: Busouden",
+      "file": "missing/T/69046-tenchi-no-mon-2-busouden.json"
     },
     {
       "igdb_id": 287154,
@@ -1256627,6 +1256842,11 @@
       "file": "missing/T/47543-the-numarin.json"
     },
     {
+      "igdb_id": 69013,
+      "game_name": "The Number Devil: A Mathematical Adventure",
+      "file": "missing/T/69013-the-number-devil-a-mathematical-adventure.json"
+    },
+    {
       "igdb_id": 103953,
       "game_name": "The Number Puzzle",
       "file": "missing/T/103953-the-number-puzzle.json"
@@ -1283185,6 +1283405,11 @@
       "igdb_id": 394318,
       "game_name": "Thomas & Friends: Wonders of Sodor - James Addon",
       "file": "missing/T/394318-thomas-and-friends-wonders-of-sodor-james-addon.json"
+    },
+    {
+      "igdb_id": 69047,
+      "game_name": "Thomas and Friends: Calling All Engines",
+      "file": "missing/T/69047-thomas-and-friends-calling-all-engines.json"
     },
     {
       "igdb_id": 69068,
@@ -1346862,6 +1347087,11 @@
       "file": "missing/U/259851-ultimate-chump.json"
     },
     {
+      "igdb_id": 69057,
+      "game_name": "Ultimate Civil War Battles: Robert E. Lee vs. Ulysses S. Grant",
+      "file": "missing/U/69057-ultimate-civil-war-battles-robert-e-lee-vs-ulysses-s-grant.json"
+    },
+    {
       "igdb_id": 115536,
       "game_name": "Ultimate Coaster X",
       "file": "missing/U/115536-ultimate-coaster-x.json"
@@ -1363597,6 +1363827,11 @@
       "file": "missing/V/215675-valkyrie-champions.json"
     },
     {
+      "igdb_id": 69035,
+      "game_name": "Valkyrie Complex",
+      "file": "missing/V/69035-valkyrie-complex.json"
+    },
+    {
       "igdb_id": 62574,
       "game_name": "Valkyrie Crusade",
       "file": "missing/V/62574-valkyrie-crusade.json"
@@ -1367350,6 +1367585,11 @@
       "igdb_id": 416716,
       "game_name": "Velocipede II",
       "file": "missing/V/416716-velocipede-ii.json"
+    },
+    {
+      "igdb_id": 69020,
+      "game_name": "Velocispider",
+      "file": "missing/V/69020-velocispider.json"
     },
     {
       "igdb_id": 9184,
@@ -1395062,6 +1395302,11 @@
       "file": "missing/W/237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json"
     },
     {
+      "igdb_id": 69017,
+      "game_name": "Web of Deceit: Black Widow",
+      "file": "missing/W/69017-web-of-deceit-black-widow.json"
+    },
+    {
       "igdb_id": 81837,
       "game_name": "Web of Deceit: Deadly Sands - Collector's Edition",
       "file": "missing/W/81837-web-of-deceit-deadly-sands-collectors-edition.json"
@@ -1410510,6 +1410755,11 @@
       "igdb_id": 196331,
       "game_name": "Witch's Weapon",
       "file": "missing/W/196331-witchs-weapon.json"
+    },
+    {
+      "igdb_id": 69033,
+      "game_name": "Witch's Workshop",
+      "file": "missing/W/69033-witchs-workshop.json"
     },
     {
       "igdb_id": 111614,
