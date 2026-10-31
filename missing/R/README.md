@@ -10873,6 +10873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins | 183198 | [183198-ruins.json](./183198-ruins.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
+| Ruins Climber | 123243 | [123243-ruins-climber.json](./123243-ruins-climber.json) |
 | Ruins Escape | 293481 | [293481-ruins-escape.json](./293481-ruins-escape.json) |
 | Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
 | Ruins of Albion | 169148 | [169148-ruins-of-albion.json](./169148-ruins-of-albion.json) |
