@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepy Up | 400344 | [400344-keepy-up.json](./400344-keepy-up.json) |
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
 | Keezeh: The Spector of Time | 160268 | [160268-keezeh-the-spector-of-time.json](./160268-keezeh-the-spector-of-time.json) |
+| Kef-Li Goes to the Camp | 69632 | [69632-kef-li-goes-to-the-camp.json](./69632-kef-li-goes-to-the-camp.json) |
 | Kef-Li Learns Hebrew | 73504 | [73504-kef-li-learns-hebrew.json](./73504-kef-li-learns-hebrew.json) |
 | Keg & Quest | 385951 | [385951-keg-and-quest.json](./385951-keg-and-quest.json) |
 | Keg Bearer | 200127 | [200127-keg-bearer.json](./200127-keg-bearer.json) |
@@ -2578,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
