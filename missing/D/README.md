@@ -7033,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
 | Detective Dunkadoo | 386965 | [386965-detective-dunkadoo.json](./386965-detective-dunkadoo.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
+| Detective Failure | 103768 | [103768-detective-failure.json](./103768-detective-failure.json) |
 | Detective Fantasia DX | 207572 | [207572-detective-fantasia-dx.json](./207572-detective-fantasia-dx.json) |
 | Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
@@ -7445,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devive | 382367 | [382367-devive.json](./382367-devive.json) |
 | DevLife | 146642 | [146642-devlife.json](./146642-devlife.json) |
 | Devo Presents: Adventures of the Smart Patrol | 71739 | [71739-devo-presents-adventures-of-the-smart-patrol.json](./71739-devo-presents-adventures-of-the-smart-patrol.json) |
+| Devochka Quest | 103785 | [103785-devochka-quest.json](./103785-devochka-quest.json) |
 | Devoid | 229212 | [229212-devoid.json](./229212-devoid.json) |
 | Devoid | 367192 | [367192-devoid.json](./367192-devoid.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
@@ -11207,6 +11209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Feed | 65794 | [65794-dont-feed.json](./65794-dont-feed.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Feed the Cat | 373144 | [373144-dont-feed-the-cat.json](./373144-dont-feed-the-cat.json) |
+| Don't Feed the Slimes! | 103797 | [103797-dont-feed-the-slimes.json](./103797-dont-feed-the-slimes.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
 | Don't Flee | 238643 | [238643-dont-flee.json](./238643-dont-flee.json) |
 | Don't Flip First | 362408 | [362408-dont-flip-first.json](./362408-dont-flip-first.json) |
