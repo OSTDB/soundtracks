@@ -14950,6 +14950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Masterpieces Vol. I | 47570 | [47570-atari-masterpieces-vol-i.json](./47570-atari-masterpieces-vol-i.json) |
 | Atari Masterpieces Vol. II | 47569 | [47569-atari-masterpieces-vol-ii.json](./47569-atari-masterpieces-vol-ii.json) |
 | Atari Mini Arcade | 275243 | [275243-atari-mini-arcade.json](./275243-atari-mini-arcade.json) |
+| Atari Outlaw | 64065 | [64065-atari-outlaw.json](./64065-atari-outlaw.json) |
 | Atari Recharged Bundle | 230800 | [230800-atari-recharged-bundle.json](./230800-atari-recharged-bundle.json) |
 | Atari Recharged Collection 3 | 341962 | [341962-atari-recharged-collection-3.json](./341962-atari-recharged-collection-3.json) |
 | Atari Recharged Collection 4 | 341964 | [341964-atari-recharged-collection-4.json](./341964-atari-recharged-collection-4.json) |
