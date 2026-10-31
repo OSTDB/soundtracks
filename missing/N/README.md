@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
 | Nano4x: Supremacy | 176618 | [176618-nano4x-supremacy.json](./176618-nano4x-supremacy.json) |
 | NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
+| Nanobotic | 111962 | [111962-nanobotic.json](./111962-nanobotic.json) |
 | Nanobots | 143456 | [143456-nanobots.json](./143456-nanobots.json) |
 | Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
 | Nanobots | 33325 | [33325-nanobots.json](./33325-nanobots.json) |
@@ -3988,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Walk | 62008 | [62008-night-walk.json](./62008-night-walk.json) |
 | Night Walker | 231540 | [231540-night-walker.json](./231540-night-walker.json) |
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
+| Night Walker: Mayonaka no Tantei | 111999 | [111999-night-walker-mayonaka-no-tantei.json](./111999-night-walker-mayonaka-no-tantei.json) |
 | Night Wanderings | 150923 | [150923-night-wanderings.json](./150923-night-wanderings.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
 | Night Watch | 231811 | [231811-night-watch.json](./231811-night-watch.json) |
