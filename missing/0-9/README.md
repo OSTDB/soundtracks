@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Pool | 264475 | [264475-2048-pool.json](./264475-2048-pool.json) |
 | 2048 Puzzle: Evangelion Edition | 278840 | [278840-2048-puzzle-evangelion-edition.json](./278840-2048-puzzle-evangelion-edition.json) |
 | 2048 Puzzle: K-ON! Edition | 279669 | [279669-2048-puzzle-k-on-edition.json](./279669-2048-puzzle-k-on-edition.json) |
+| 2048 Q | 103739 | [103739-2048-q.json](./103739-2048-q.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Snake | 315813 | [315813-2048-snake.json](./315813-2048-snake.json) |
 | 2048 Solitaire | 104352 | [104352-2048-solitaire.json](./104352-2048-solitaire.json) |
