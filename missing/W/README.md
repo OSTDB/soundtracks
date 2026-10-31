@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
 | Warm Snow: The Ash of Nightmare | 234836 | [234836-warm-snow-the-ash-of-nightmare.json](./234836-warm-snow-the-ash-of-nightmare.json) |
 | Warm Snow: The End Of Karma | 277353 | [277353-warm-snow-the-end-of-karma.json](./277353-warm-snow-the-end-of-karma.json) |
+| Warm Village | 80949 | [80949-warm-village.json](./80949-warm-village.json) |
 | WarMA | 103948 | [103948-warma.json](./103948-warma.json) |
 | Warmace: Miniature Shop Simulator | 423203 | [423203-warmace-miniature-shop-simulator.json](./423203-warmace-miniature-shop-simulator.json) |
 | Warmada | 30798 | [30798-warmada.json](./30798-warmada.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | Waryong Three Kingdoms | 208741 | [208741-waryong-three-kingdoms.json](./208741-waryong-three-kingdoms.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
+| Warzone | 80966 | [80966-warzone.json](./80966-warzone.json) |
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
 | Warzone 2100 | 51297 | [51297-warzone-2100.json](./51297-warzone-2100.json) |
 | Warzone Acron | 422654 | [422654-warzone-acron.json](./422654-warzone-acron.json) |
@@ -4414,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: 2nd Edition | 311655 | [311655-who-wants-to-be-a-millionaire-2nd-edition.json](./311655-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: Hitchcock DLC Pack | 289323 | [289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json](./289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Junior | 308991 | [308991-who-wants-to-be-a-millionaire-junior.json](./308991-who-wants-to-be-a-millionaire-junior.json) |
+| Who Wants to Be a Millionaire: Kids Edition | 80863 | [80863-who-wants-to-be-a-millionaire-kids-edition.json](./80863-who-wants-to-be-a-millionaire-kids-edition.json) |
 | Who Wants to Be A Millionaire: Microsoft Games DLC Pack | 318439 | [318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json](./318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Music Edition | 311657 | [311657-who-wants-to-be-a-millionaire-music-edition.json](./311657-who-wants-to-be-a-millionaire-music-edition.json) |
 | Who Wants to Be a Millionaire: NBA/NHL/MLB/NFL DLC Pack | 289324 | [289324-who-wants-to-be-a-millionaire-nba-nhl-mlb-nfl-dlc-pack.json](./289324-who-wants-to-be-a-millionaire-nba-nhl-mlb-nfl-dlc-pack.json) |
