@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Zodongga Defense | 234576 | [234576-sacred-zodongga-defense.json](./234576-sacred-zodongga-defense.json) |
 | Sacred: Last Pixel of Ancaria | 382855 | [382855-sacred-last-pixel-of-ancaria.json](./382855-sacred-last-pixel-of-ancaria.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
+| Sacrifice Dungeon | 82360 | [82360-sacrifice-dungeon.json](./82360-sacrifice-dungeon.json) |
 | Sacrifice Girl: The Curse of Demon Snake | 112222 | [112222-sacrifice-girl-the-curse-of-demon-snake.json](./112222-sacrifice-girl-the-curse-of-demon-snake.json) |
 | Sacrifice of the Beloved | 115318 | [115318-sacrifice-of-the-beloved.json](./115318-sacrifice-of-the-beloved.json) |
 | Sacrifice Villains | 314808 | [314808-sacrifice-villains.json](./314808-sacrifice-villains.json) |
@@ -5135,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sephonie | 144724 | [144724-sephonie.json](./144724-sephonie.json) |
 | Sepia | 257287 | [257287-sepia.json](./257287-sepia.json) |
 | Sepia Go! | 248826 | [248826-sepia-go.json](./248826-sepia-go.json) |
+| Sepia Splinters | 82569 | [82569-sepia-splinters.json](./82569-sepia-splinters.json) |
 | Sepium | 390240 | [390240-sepium.json](./390240-sepium.json) |
 | Sept Jours, Sept Lieux, Sept Vies | 151284 | [151284-sept-jours-sept-lieux-sept-vies.json](./151284-sept-jours-sept-lieux-sept-vies.json) |
 | Septar | 408236 | [408236-septar.json](./408236-septar.json) |
