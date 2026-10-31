@@ -17607,7 +17607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18565,6 +18564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
 | Spårvagn | 142361 | [142361-sparvagn.json](./142361-sparvagn.json) |
+| Sparx | 120508 | [120508-sparx.json](./120508-sparx.json) |
 | Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
 | Spaß Taxi | 128396 | [128396-spa-taxi.json](./128396-spa-taxi.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
@@ -20019,6 +20019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatter | 195877 | [195877-splatter.json](./195877-splatter.json) |
 | Splatter World | 304076 | [304076-splatter-world.json](./304076-splatter-world.json) |
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
+| Splatterball Plus | 120515 | [120515-splatterball-plus.json](./120515-splatterball-plus.json) |
 | Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
 | Splatterhouse | 218366 | [218366-splatterhouse.json](./218366-splatterhouse.json) |
 | Splatterhouse | 7191 | [7191-splatterhouse.json](./7191-splatterhouse.json) |
@@ -22560,6 +22561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
 | Starithm | 244290 | [244290-starithm.json](./244290-starithm.json) |
 | Starium | 335796 | [335796-starium.json](./335796-starium.json) |
+| Starjammer | 120526 | [120526-starjammer.json](./120526-starjammer.json) |
 | Starjet Fights | 246778 | [246778-starjet-fights.json](./246778-starjet-fights.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Stark Tower Defense | 256093 | [256093-stark-tower-defense.json](./256093-stark-tower-defense.json) |
@@ -25356,6 +25358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Gears | 92348 | [92348-street-gears.json](./92348-street-gears.json) |
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
+| Street Gol: Gold Edition | 120520 | [120520-street-gol-gold-edition.json](./120520-street-gol-gold-edition.json) |
 | Street Harrier | 266328 | [266328-street-harrier.json](./266328-street-harrier.json) |
 | Street Hawk | 26215 | [26215-street-hawk.json](./26215-street-hawk.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
