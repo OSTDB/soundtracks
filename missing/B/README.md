@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Soccer | 44993 | [44993-backyard-soccer.json](./44993-backyard-soccer.json) |
 | Backyard Soccer | 50300 | [50300-backyard-soccer.json](./50300-backyard-soccer.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
+| Backyard Soccer: MLS Edition | 69634 | [69634-backyard-soccer-mls-edition.json](./69634-backyard-soccer-mls-edition.json) |
 | Backyard Sports Football: Rookie Rush | 47408 | [47408-backyard-sports-football-rookie-rush.json](./47408-backyard-sports-football-rookie-rush.json) |
 | Backyard Sports: Baseball 2007 | 49243 | [49243-backyard-sports-baseball-2007.json](./49243-backyard-sports-baseball-2007.json) |
 | Backyard Sports: Baseball 2007 | 72798 | [72798-backyard-sports-baseball-2007.json](./72798-backyard-sports-baseball-2007.json) |
@@ -6526,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Storm | 159001 | [159001-beyond-the-storm.json](./159001-beyond-the-storm.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
 | Beyond The Tales | 336653 | [336653-beyond-the-tales.json](./336653-beyond-the-tales.json) |
+| Beyond the Tesseract | 69646 | [69646-beyond-the-tesseract.json](./69646-beyond-the-tesseract.json) |
 | Beyond the Thaw | 170433 | [170433-beyond-the-thaw.json](./170433-beyond-the-thaw.json) |
 | Beyond the Threshold | 347561 | [347561-beyond-the-threshold.json](./347561-beyond-the-threshold.json) |
 | Beyond the Threshold | 71956 | [71956-beyond-the-threshold.json](./71956-beyond-the-threshold.json) |
@@ -14210,6 +14212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickscape | 186450 | [186450-brickscape.json](./186450-brickscape.json) |
 | Brickscapes: Bricks Breaker | 237283 | [237283-brickscapes-bricks-breaker.json](./237283-brickscapes-bricks-breaker.json) |
 | BrickShooter | 93208 | [93208-brickshooter.json](./93208-brickshooter.json) |
+| Brickshooter Egypt | 69622 | [69622-brickshooter-egypt.json](./69622-brickshooter-egypt.json) |
 | BricksVR | 144928 | [144928-bricksvr.json](./144928-bricksvr.json) |
 | BrickWar | 98220 | [98220-brickwar.json](./98220-brickwar.json) |
 | Bricky Boy | 152304 | [152304-bricky-boy.json](./152304-bricky-boy.json) |
