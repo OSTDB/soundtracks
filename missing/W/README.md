@@ -3668,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels | 170425 | [170425-wheels.json](./170425-wheels.json) |
 | Wheels Escape - Police Chase! | 99134 | [99134-wheels-escape-police-chase.json](./99134-wheels-escape-police-chase.json) |
 | Wheels of Destruction | 20735 | [20735-wheels-of-destruction.json](./20735-wheels-of-destruction.json) |
+| Wheels of Fire | 70259 | [70259-wheels-of-fire.json](./70259-wheels-of-fire.json) |
 | Wheels on Fire | 233067 | [233067-wheels-on-fire.json](./233067-wheels-on-fire.json) |
 | Wheels on Fire | 78030 | [78030-wheels-on-fire.json](./78030-wheels-on-fire.json) |
 | Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
@@ -5325,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winged Warrior II: The Alien Empire | 365238 | [365238-winged-warrior-ii-the-alien-empire.json](./365238-winged-warrior-ii-the-alien-empire.json) |
 | Winged Warrior III: The Nova Knight | 365274 | [365274-winged-warrior-iii-the-nova-knight.json](./365274-winged-warrior-iii-the-nova-knight.json) |
 | WingedStar: Descent | 200880 | [200880-wingedstar-descent.json](./200880-wingedstar-descent.json) |
+| WinGenius | 70198 | [70198-wingenius.json](./70198-wingenius.json) |
 | Winging It | 227786 | [227786-winging-it.json](./227786-winging-it.json) |
 | Winglancer | 68966 | [68966-winglancer.json](./68966-winglancer.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
