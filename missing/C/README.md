@@ -5592,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Ninja | 39832 | [39832-charlie-ninja.json](./39832-charlie-ninja.json) |
 | Charlie Sheen: Winning | 388111 | [388111-charlie-sheen-winning.json](./388111-charlie-sheen-winning.json) |
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
+| Charlie the Duck | 68368 | [68368-charlie-the-duck.json](./68368-charlie-the-duck.json) |
 | Charlie the Duck | 69730 | [69730-charlie-the-duck.json](./69730-charlie-the-duck.json) |
 | Charlie the Roach | 156883 | [156883-charlie-the-roach.json](./156883-charlie-the-roach.json) |
 | Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
@@ -8669,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: 1862 | 31079 | [31079-civil-war-1862.json](./31079-civil-war-1862.json) |
 | Civil War: 1863 | 33668 | [33668-civil-war-1863.json](./33668-civil-war-1863.json) |
 | Civil War: 1863 Gold | 107390 | [107390-civil-war-1863-gold.json](./107390-civil-war-1863-gold.json) |
+| Civil War: 1864 | 68373 | [68373-civil-war-1864.json](./68373-civil-war-1864.json) |
 | Civil War: 1864 Gold | 99176 | [99176-civil-war-1864-gold.json](./99176-civil-war-1864-gold.json) |
 | Civil War: 1865 | 28795 | [28795-civil-war-1865.json](./28795-civil-war-1865.json) |
 | Civil War: Battle of Petersburg | 29657 | [29657-civil-war-battle-of-petersburg.json](./29657-civil-war-battle-of-petersburg.json) |
@@ -18876,6 +18878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclical Recurrences | 408079 | [408079-cyclical-recurrences.json](./408079-cyclical-recurrences.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
 | Cycling Manager | 94619 | [94619-cycling-manager.json](./94619-cycling-manager.json) |
+| Cycling Manager 2 | 68221 | [68221-cycling-manager-2.json](./68221-cycling-manager-2.json) |
 | Cycling Manager 3 | 94644 | [94644-cycling-manager-3.json](./94644-cycling-manager-3.json) |
 | Cycling Manager 4 | 71573 | [71573-cycling-manager-4.json](./71573-cycling-manager-4.json) |
 | CyclingArcadeRaceSimulator | 368598 | [368598-cyclingarcaderacesimulator.json](./368598-cyclingarcaderacesimulator.json) |
