@@ -3757,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghunter | 322112 | [322112-ghunter.json](./322112-ghunter.json) |
 | Ghurka | 295672 | [295672-ghurka.json](./295672-ghurka.json) |
 | GHXYK2 Classics Vol. 1 | 57525 | [57525-ghxyk2-classics-vol-1.json](./57525-ghxyk2-classics-vol-1.json) |
+| GI Hero | 72458 | [72458-gi-hero.json](./72458-gi-hero.json) |
 | GI King!: Sanbiki no Yosouya | 277804 | [277804-gi-king-sanbiki-no-yosouya.json](./277804-gi-king-sanbiki-no-yosouya.json) |
 | GI Racing 2.0 | 32095 | [32095-gi-racing-2-0.json](./32095-gi-racing-2-0.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
@@ -4803,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
 | GM Forge - Virtual Tabletop | 100570 | [100570-gm-forge-virtual-tabletop.json](./100570-gm-forge-virtual-tabletop.json) |
+| GM Hockey 2009 | 72429 | [72429-gm-hockey-2009.json](./72429-gm-hockey-2009.json) |
 | GMDX | 144168 | [144168-gmdx.json](./144168-gmdx.json) |
 | GMH: Good Morning Human! | 289246 | [289246-gmh-good-morning-human.json](./289246-gmh-good-morning-human.json) |
 | GMOTA | 142178 | [142178-gmota.json](./142178-gmota.json) |
@@ -9017,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growing Up | 376045 | [376045-growing-up.json](./376045-growing-up.json) |
 | Growing Wild | 356751 | [356751-growing-wild.json](./356751-growing-wild.json) |
 | Growl | 6813 | [6813-growl.json](./6813-growl.json) |
+| Growlanser Collection | 72430 | [72430-growlanser-collection.json](./72430-growlanser-collection.json) |
 | Growlanser Generations | 21311 | [21311-growlanser-generations.json](./21311-growlanser-generations.json) |
 | Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
