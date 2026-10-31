@@ -5248,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins Keep Coming - Tower Defense | 75390 | [75390-goblins-keep-coming-tower-defense.json](./75390-goblins-keep-coming-tower-defense.json) |
 | Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
 | Goblins of Elderstone | 55262 | [55262-goblins-of-elderstone.json](./55262-goblins-of-elderstone.json) |
+| Goblins on Alien Planet | 103794 | [103794-goblins-on-alien-planet.json](./103794-goblins-on-alien-planet.json) |
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
 | Goblins With Guns | 364039 | [364039-goblins-with-guns.json](./364039-goblins-with-guns.json) |
 | Goblintown: Really Hard Driving Game | 341290 | [341290-goblintown-really-hard-driving-game.json](./341290-goblintown-really-hard-driving-game.json) |
