@@ -12099,6 +12099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lotus | 187844 | [187844-the-lotus.json](./187844-the-lotus.json) |
 | The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
 | The Loud House: Outta Control | 194336 | [194336-the-loud-house-outta-control.json](./194336-the-loud-house-outta-control.json) |
+| The Love | 121942 | [121942-the-love.json](./121942-the-love.json) |
 | The Love Boat: Puzzle Cruise | 138678 | [138678-the-love-boat-puzzle-cruise.json](./138678-the-love-boat-puzzle-cruise.json) |
 | The Love Bot | 53758 | [53758-the-love-bot.json](./53758-the-love-bot.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
@@ -14582,6 +14583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers Complete I-VI | 203045 | [203045-the-settlers-complete-i-vi.json](./203045-the-settlers-complete-i-vi.json) |
 | The Settlers II: 10th Anniversary - Vikings | 71922 | [71922-the-settlers-ii-10th-anniversary-vikings.json](./71922-the-settlers-ii-10th-anniversary-vikings.json) |
 | The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
+| The Settlers II: History Edition | 121948 | [121948-the-settlers-ii-history-edition.json](./121948-the-settlers-ii-history-edition.json) |
 | The Settlers II: Veni, Vidi, Vici | 2596 | [2596-the-settlers-ii-veni-vidi-vici.json](./2596-the-settlers-ii-veni-vidi-vici.json) |
 | The Settlers III | 3696 | [3696-the-settlers-iii.json](./3696-the-settlers-iii.json) |
 | The Settlers III: Gold Edition | 50291 | [50291-the-settlers-iii-gold-edition.json](./50291-the-settlers-iii-gold-edition.json) |
@@ -14589,6 +14591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers III: Ultimate Collection | 154448 | [154448-the-settlers-iii-ultimate-collection.json](./154448-the-settlers-iii-ultimate-collection.json) |
 | The Settlers IV: Gold Edition | 51916 | [51916-the-settlers-iv-gold-edition.json](./51916-the-settlers-iv-gold-edition.json) |
+| The Settlers IV: History Edition | 121949 | [121949-the-settlers-iv-history-edition.json](./121949-the-settlers-iv-history-edition.json) |
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers Mobile | 85862 | [85862-the-settlers-mobile.json](./85862-the-settlers-mobile.json) |
 | The Settlers Online | 23606 | [23606-the-settlers-online.json](./23606-the-settlers-online.json) |
@@ -24945,6 +24948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
+| Tracker | 121906 | [121906-tracker.json](./121906-tracker.json) |
 | Tracker | 36842 | [36842-tracker.json](./36842-tracker.json) |
 | Tracking Killer | 343050 | [343050-tracking-killer.json](./343050-tracking-killer.json) |
 | Trackless | 28322 | [28322-trackless.json](./28322-trackless.json) |
