@@ -7983,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitShift: BattleGrid | 32742 | [32742-bitshift-battlegrid.json](./32742-bitshift-battlegrid.json) |
 | BitSlaps | 364853 | [364853-bitslaps.json](./364853-bitslaps.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
+| BitStream | 91657 | [91657-bitstream.json](./91657-bitstream.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy | 242508 | [242508-bitsy.json](./242508-bitsy.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
@@ -9767,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocksworld | 306940 | [306940-blocksworld.json](./306940-blocksworld.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
 | Blocksy | 292059 | [292059-blocksy.json](./292059-blocksy.json) |
+| Blocktality | 91647 | [91647-blocktality.json](./91647-blocktality.json) |
 | BlockTanks | 324917 | [324917-blocktanks.json](./324917-blocktanks.json) |
 | BlockTanks.io | 137629 | [137629-blocktanks-io.json](./137629-blocktanks-io.json) |
 | Blocktiful | 237016 | [237016-blocktiful.json](./237016-blocktiful.json) |
