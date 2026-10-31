@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
 | Quester | 46852 | [46852-quester.json](./46852-quester.json) |
 | Questerium: Sinister Trinity HD - Collector's Edition | 36234 | [36234-questerium-sinister-trinity-hd-collectors-edition.json](./36234-questerium-sinister-trinity-hd-collectors-edition.json) |
+| Questery | 97082 | [97082-questery.json](./97082-questery.json) |
 | QuestEvent | 35542 | [35542-questevent.json](./35542-questevent.json) |
 | Questi Quest | 393079 | [393079-questi-quest.json](./393079-questi-quest.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
@@ -1048,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Carnival 2 -Meguriai Version- | 106284 | [106284-quiz-carnival-2-meguriai-version.json](./106284-quiz-carnival-2-meguriai-version.json) |
 | Quiz Climber | 94122 | [94122-quiz-climber.json](./94122-quiz-climber.json) |
+| Quiz Club | 97059 | [97059-quiz-club.json](./97059-quiz-club.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
 | Quiz Daisousa Sen: The Last Count Down | 75510 | [75510-quiz-daisousa-sen-the-last-count-down.json](./75510-quiz-daisousa-sen-the-last-count-down.json) |
