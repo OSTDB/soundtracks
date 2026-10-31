@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haitoku no Gakuen: Yami ni Sasagerareta Otome-tachi | 82524 | [82524-haitoku-no-gakuen-yami-ni-sasagerareta-otome-tachi.json](./82524-haitoku-no-gakuen-yami-ni-sasagerareta-otome-tachi.json) |
 | Haitoku Shirene: Anata no Shiranai Naraku no Soko | 314802 | [314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json](./314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json) |
 | Haitoku Silene | 157058 | [157058-haitoku-silene.json](./157058-haitoku-silene.json) |
+| Haiyore! Nyaruko-san Nafushigatai Game no Yona Mono | 64067 | [64067-haiyore-nyaruko-san-nafushigatai-game-no-yona-mono.json](./64067-haiyore-nyaruko-san-nafushigatai-game-no-yona-mono.json) |
 | Haiyuuenchi no Memento Memoria | 259056 | [259056-haiyuuenchi-no-memento-memoria.json](./259056-haiyuuenchi-no-memento-memoria.json) |
 | Hǎizéiwáng Jiējī Idle | 368443 | [368443-haizeiwang-jieji-idle.json](./368443-haizeiwang-jieji-idle.json) |
 | Hajiite! Block Rush | 344482 | [344482-hajiite-block-rush.json](./344482-hajiite-block-rush.json) |
@@ -3537,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Héjīn Zǐdàn | 414116 | [414116-hejin-zidan.json](./414116-hejin-zidan.json) |
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
 | Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
+| Hektik | 64052 | [64052-hektik.json](./64052-hektik.json) |
 | Hektor | 22673 | [22673-hektor.json](./22673-hektor.json) |
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
@@ -11264,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydroplant Tycoon | 343289 | [343289-hydroplant-tycoon.json](./343289-hydroplant-tycoon.json) |
 | Hydroponics Farm & Store Simulator | 320124 | [320124-hydroponics-farm-and-store-simulator.json](./320124-hydroponics-farm-and-store-simulator.json) |
 | Hydrosphere | 257291 | [257291-hydrosphere.json](./257291-hydrosphere.json) |
+| Hydrosub: 2021 | 64037 | [64037-hydrosub-2021.json](./64037-hydrosub-2021.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyena: Dogs of War | 128172 | [128172-hyena-dogs-of-war.json](./128172-hyena-dogs-of-war.json) |
