@@ -4318,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrors to Unveil: Last Trace | 383708 | [383708-terrors-to-unveil-last-trace.json](./383708-terrors-to-unveil-last-trace.json) |
 | Terrorstorm: Ground Zero | 396339 | [396339-terrorstorm-ground-zero.json](./396339-terrorstorm-ground-zero.json) |
 | Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
+| TerRover | 66541 | [66541-terrover.json](./66541-terrover.json) |
 | Terrovox | 197254 | [197254-terrovox.json](./197254-terrovox.json) |
 | Terry Poorflyer | 195002 | [195002-terry-poorflyer.json](./195002-terry-poorflyer.json) |
 | Terry Tales | 388274 | [388274-terry-tales.json](./388274-terry-tales.json) |
@@ -4911,6 +4912,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
 | The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
+| The 4th Unit 4 - Zero | 66325 | [66325-the-4th-unit-4-zero.json](./66325-the-4th-unit-4-zero.json) |
+| The 4th Unit 5 - D-Again | 66326 | [66326-the-4th-unit-5-d-again.json](./66326-the-4th-unit-5-d-again.json) |
 | The 4th Wall | 64126 | [64126-the-4th-wall.json](./64126-the-4th-wall.json) |
 | The 50 States Quiz | 103441 | [103441-the-50-states-quiz.json](./103441-the-50-states-quiz.json) |
 | The 52 Fragments | 278362 | [278362-the-52-fragments.json](./278362-the-52-fragments.json) |
@@ -5936,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Gay Adventure | 327403 | [327403-the-big-gay-adventure.json](./327403-the-big-gay-adventure.json) |
 | The Big Heap | 129720 | [129720-the-big-heap.json](./129720-the-big-heap.json) |
 | The Big Hollow: 1982 | 383455 | [383455-the-big-hollow-1982.json](./383455-the-big-hollow-1982.json) |
+| The Big House | 66462 | [66462-the-big-house.json](./66462-the-big-house.json) |
 | The Big Hunter | 254893 | [254893-the-big-hunter.json](./254893-the-big-hunter.json) |
 | The Big Journey | 69549 | [69549-the-big-journey.json](./69549-the-big-journey.json) |
 | The Big KO! | 15671 | [15671-the-big-ko.json](./15671-the-big-ko.json) |
@@ -12557,6 +12561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Messenger from Athens at Marathon | 422053 | [422053-the-messenger-from-athens-at-marathon.json](./422053-the-messenger-from-athens-at-marathon.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
 | The Metamorphosis | 142613 | [142613-the-metamorphosis.json](./142613-the-metamorphosis.json) |
+| The Meteor, the Stone, and a Long Glass of Sherbet | 66450 | [66450-the-meteor-the-stone-and-a-long-glass-of-sherbet.json](./66450-the-meteor-the-stone-and-a-long-glass-of-sherbet.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Meter is Running | 400816 | [400816-the-meter-is-running.json](./400816-the-meter-is-running.json) |
 | The Metronomicon: Deluxe Edition | 53761 | [53761-the-metronomicon-deluxe-edition.json](./53761-the-metronomicon-deluxe-edition.json) |
@@ -24120,6 +24125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
 | Touching Lights | 175608 | [175608-touching-lights.json](./175608-touching-lights.json) |
 | TouchMaster | 92770 | [92770-touchmaster.json](./92770-touchmaster.json) |
+| TouchMaster 8000 | 66455 | [66455-touchmaster-8000.json](./66455-touchmaster-8000.json) |
 | TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
 | TouchNothing | 305643 | [305643-touchnothing.json](./305643-touchnothing.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
