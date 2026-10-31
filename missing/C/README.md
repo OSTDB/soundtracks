@@ -10058,6 +10058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize - Bouquet of Rainbows | 41822 | [41822-code-realize-bouquet-of-rainbows.json](./41822-code-realize-bouquet-of-rainbows.json) |
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
+| Code: Realize ~Bouquet of Rainbows~ Limited Edition | 121210 | [121210-code-realize-bouquet-of-rainbows-limited-edition.json](./121210-code-realize-bouquet-of-rainbows-limited-edition.json) |
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
 | Code: Realize ~Guardian of Rebirth~ Collector's Edition | 122652 | [122652-code-realize-guardian-of-rebirth-collectors-edition.json](./122652-code-realize-guardian-of-rebirth-collectors-edition.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
@@ -12525,6 +12526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | Continuum Keeper | 348689 | [348689-continuum-keeper.json](./348689-continuum-keeper.json) |
 | ContiTireRace 2: The Continental Racing Game | 261351 | [261351-contitirerace-2-the-continental-racing-game.json](./261351-contitirerace-2-the-continental-racing-game.json) |
+| Contort Effect | 121184 | [121184-contort-effect.json](./121184-contort-effect.json) |
 | Contorted | 274578 | [274578-contorted.json](./274578-contorted.json) |
 | Contra | 186207 | [186207-contra.json](./186207-contra.json) |
 | Contra | 186208 | [186208-contra.json](./186208-contra.json) |
