@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zayzoo: An Earth Adventure | 66645 | [66645-zayzoo-an-earth-adventure.json](./66645-zayzoo-an-earth-adventure.json) |
 | Zayzoo: My Alien Classmate | 66643 | [66643-zayzoo-my-alien-classmate.json](./66643-zayzoo-my-alien-classmate.json) |
 | Zaz | 122710 | [122710-zaz.json](./122710-zaz.json) |
+| Zazmo Arcade Pack | 81819 | [81819-zazmo-arcade-pack.json](./81819-zazmo-arcade-pack.json) |
 | Zball | 167369 | [167369-zball.json](./167369-zball.json) |
 | Zball II | 149519 | [149519-zball-ii.json](./149519-zball-ii.json) |
 | Zball IV | 153316 | [153316-zball-iv.json](./153316-zball-iv.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombusters: Enhanced Edition | 184304 | [184304-zombusters-enhanced-edition.json](./184304-zombusters-enhanced-edition.json) |
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
+| Zomby Soldier | 81799 | [81799-zomby-soldier.json](./81799-zomby-soldier.json) |
 | Zomcade | 148825 | [148825-zomcade.json](./148825-zomcade.json) |
 | Zomcats Invasion | 277989 | [277989-zomcats-invasion.json](./277989-zomcats-invasion.json) |
 | ZomDay | 54476 | [54476-zomday.json](./54476-zomday.json) |
