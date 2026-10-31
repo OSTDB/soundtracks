@@ -3556,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Weapon | 306183 | [306183-lethal-weapon.json](./306183-lethal-weapon.json) |
 | Lethal Weapon | 306185 | [306185-lethal-weapon.json](./306185-lethal-weapon.json) |
 | Lethal Weapon | 39024 | [39024-lethal-weapon.json](./39024-lethal-weapon.json) |
+| Lethal Wedding | 123207 | [123207-lethal-wedding.json](./123207-lethal-wedding.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
 | Lethal Xcess | 15249 | [15249-lethal-xcess.json](./15249-lethal-xcess.json) |
 | Lethalmon | 358277 | [358277-lethalmon.json](./358277-lethalmon.json) |
