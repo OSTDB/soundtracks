@@ -4659,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory by Example | 31640 | [31640-glory-by-example.json](./31640-glory-by-example.json) |
 | Glory Days 2 | 21230 | [21230-glory-days-2.json](./21230-glory-days-2.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
+| Glory Destiny Online | 85806 | [85806-glory-destiny-online.json](./85806-glory-destiny-online.json) |
 | Glory Destiny: Reborn | 340307 | [340307-glory-destiny-reborn.json](./340307-glory-destiny-reborn.json) |
 | Glory Heyday | 175670 | [175670-glory-heyday.json](./175670-glory-heyday.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
@@ -9718,6 +9719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
 | Gun Lady | 286440 | [286440-gun-lady.json](./286440-gun-lady.json) |
 | Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
+| Gun Loco | 85782 | [85782-gun-loco.json](./85782-gun-loco.json) |
 | Gun Mage | 148940 | [148940-gun-mage.json](./148940-gun-mage.json) |
 | Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
