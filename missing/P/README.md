@@ -3593,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Racer XL | 406914 | [406914-pencil-racer-xl.json](./406914-pencil-racer-xl.json) |
 | Pencil Sharpening Simulator | 57172 | [57172-pencil-sharpening-simulator.json](./57172-pencil-sharpening-simulator.json) |
 | Pencil Story - Free Logic Game | 36487 | [36487-pencil-story-free-logic-game.json](./36487-pencil-story-free-logic-game.json) |
+| Pencil vs. Eraser | 120571 | [120571-pencil-vs-eraser.json](./120571-pencil-vs-eraser.json) |
 | Pencil Whipped | 72546 | [72546-pencil-whipped.json](./72546-pencil-whipped.json) |
 | Pencil! | 306927 | [306927-pencil.json](./306927-pencil.json) |
 | Pencilvania | 292755 | [292755-pencilvania.json](./292755-pencilvania.json) |
