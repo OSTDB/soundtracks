@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.I.T.C.H. | 374260 | [374260-w-i-t-c-h.json](./374260-w-i-t-c-h.json) |
 | W.I.T.S: Initiation | 287685 | [287685-w-i-t-s-initiation.json](./287685-w-i-t-s-initiation.json) |
 | W.O.L.F | 256333 | [256333-w-o-l-f.json](./256333-w-o-l-f.json) |
+| W.O.R.L.D.S: Win Own Reinvent Live Discover Sim | 106228 | [106228-w-o-r-l-d-s-win-own-reinvent-live-discover-sim.json](./106228-w-o-r-l-d-s-win-own-reinvent-live-discover-sim.json) |
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
 | W.R.M. | 214345 | [214345-w-r-m.json](./214345-w-r-m.json) |
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What If Your Girl Was a Frog 2 | 292772 | [292772-what-if-your-girl-was-a-frog-2.json](./292772-what-if-your-girl-was-a-frog-2.json) |
 | What if Your Girl Was a Frog? | 202553 | [202553-what-if-your-girl-was-a-frog.json](./202553-what-if-your-girl-was-a-frog.json) |
 | What in Carnation?! | 398810 | [398810-what-in-carnation.json](./398810-what-in-carnation.json) |
+| What in the World? | 106266 | [106266-what-in-the-world.json](./106266-what-in-the-world.json) |
 | What Is Death? | 390187 | [390187-what-is-death.json](./390187-what-is-death.json) |
 | What Is in the Black Box? | 326026 | [326026-what-is-in-the-black-box.json](./326026-what-is-in-the-black-box.json) |
 | What Is Love?: Vol. 1 | 203921 | [203921-what-is-love-vol-1.json](./203921-what-is-love-vol-1.json) |
@@ -7157,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Airports 2 | 68068 | [68068-world-airports-2.json](./68068-world-airports-2.json) |
 | World Annihilation Operations Parts I-IV | 235069 | [235069-world-annihilation-operations-parts-i-iv.json](./235069-world-annihilation-operations-parts-i-iv.json) |
 | World Apart | 98546 | [98546-world-apart.json](./98546-world-apart.json) |
+| World At Arms | 106268 | [106268-world-at-arms.json](./106268-world-at-arms.json) |
 | World At War 85 Digital | 216481 | [216481-world-at-war-85-digital.json](./216481-world-at-war-85-digital.json) |
 | World At War: Cobra | 343715 | [343715-world-at-war-cobra.json](./343715-world-at-war-cobra.json) |
 | World at War: Nazi Zombies Remastered | 299137 | [299137-world-at-war-nazi-zombies-remastered.json](./299137-world-at-war-nazi-zombies-remastered.json) |
