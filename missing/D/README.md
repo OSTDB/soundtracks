@@ -7420,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
 | Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
+| Devil's Land | 81827 | [81827-devils-land.json](./81827-devils-land.json) |
 | Devil's Liminal | 231173 | [231173-devils-liminal.json](./231173-devils-liminal.json) |
 | Devil's Logic | 405765 | [405765-devils-logic.json](./405765-devils-logic.json) |
 | Devil's Mansion | 267318 | [267318-devils-mansion.json](./267318-devils-mansion.json) |
@@ -13451,6 +13452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blaze | 272700 | [272700-dragon-blaze.json](./272700-dragon-blaze.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
 | Dragon Block C | 395101 | [395101-dragon-block-c.json](./395101-dragon-block-c.json) |
+| Dragon Boar and Lady Rabbit | 81801 | [81801-dragon-boar-and-lady-rabbit.json](./81801-dragon-boar-and-lady-rabbit.json) |
 | Dragon Bobby: The Story of a Life | 272995 | [272995-dragon-bobby-the-story-of-a-life.json](./272995-dragon-bobby-the-story-of-a-life.json) |
 | Dragon Bones | 184208 | [184208-dragon-bones.json](./184208-dragon-bones.json) |
 | Dragon Booster | 47891 | [47891-dragon-booster.json](./47891-dragon-booster.json) |
