@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Drawing's Journey | 84686 | [84686-a-drawings-journey.json](./84686-a-drawings-journey.json) |
 | A Dream 2 | 272121 | [272121-a-dream-2.json](./272121-a-dream-2.json) |
 | A Dream About a Room With Four Doors | 255855 | [255855-a-dream-about-a-room-with-four-doors.json](./255855-a-dream-about-a-room-with-four-doors.json) |
+| A Dream of Burning Sand | 113337 | [113337-a-dream-of-burning-sand.json](./113337-a-dream-of-burning-sand.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
@@ -1923,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
 | Abstract Driver | 250450 | [250450-abstract-driver.json](./250450-abstract-driver.json) |
 | Abstract Grind | 221097 | [221097-abstract-grind.json](./221097-abstract-grind.json) |
+| Abstract Hell | 113278 | [113278-abstract-hell.json](./113278-abstract-hell.json) |
 | Abstract Initiative | 44748 | [44748-abstract-initiative.json](./44748-abstract-initiative.json) |
 | Abstract Tales: Techno-World | 366386 | [366386-abstract-tales-techno-world.json](./366386-abstract-tales-techno-world.json) |
 | Abstract World | 201247 | [201247-abstract-world.json](./201247-abstract-world.json) |
@@ -8827,6 +8829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
 | Angry Piggies Space | 281332 | [281332-angry-piggies-space.json](./281332-angry-piggies-space.json) |
 | Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
+| Angry Punisher | 113288 | [113288-angry-punisher.json](./113288-angry-punisher.json) |
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
 | Angry Rock | 171448 | [171448-angry-rock.json](./171448-angry-rock.json) |
 | Angry Rocketeer Frenzy | 190018 | [190018-angry-rocketeer-frenzy.json](./190018-angry-rocketeer-frenzy.json) |
