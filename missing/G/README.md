@@ -8044,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green 9 Deal | 134846 | [134846-green-9-deal.json](./134846-green-9-deal.json) |
 | Green Alert | 368274 | [368274-green-alert.json](./368274-green-alert.json) |
 | Green Bakery | 332278 | [332278-green-bakery.json](./332278-green-bakery.json) |
+| Green Berets | 70763 | [70763-green-berets.json](./70763-green-berets.json) |
 | Green Biker Dude | 317088 | [317088-green-biker-dude.json](./317088-green-biker-dude.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
 | Green Cat | 36722 | [36722-green-cat.json](./36722-green-cat.json) |
