@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
 | Half-Life 2: Deeper Down | 184288 | [184288-half-life-2-deeper-down.json](./184288-half-life-2-deeper-down.json) |
+| Half-Life 2: Episode Three | 77080 | [77080-half-life-2-episode-three.json](./77080-half-life-2-episode-three.json) |
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
 | Half-Life 2: Genry's Great Escape From City 13 | 168040 | [168040-half-life-2-genrys-great-escape-from-city-13.json](./168040-half-life-2-genrys-great-escape-from-city-13.json) |
 | Half-Life 2: Lost Coast | 10395 | [10395-half-life-2-lost-coast.json](./10395-half-life-2-lost-coast.json) |
@@ -477,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
 | Half-Life 2: MMod - Minerva | 270708 | [270708-half-life-2-mmod-minerva.json](./270708-half-life-2-mmod-minerva.json) |
 | Half-Life 2: Survivor | 320851 | [320851-half-life-2-survivor.json](./320851-half-life-2-survivor.json) |
+| Half-Life 2: Survivor | 77081 | [77081-half-life-2-survivor.json](./77081-half-life-2-survivor.json) |
 | Half-Life 2: Very Hard Mod | 287486 | [287486-half-life-2-very-hard-mod.json](./287486-half-life-2-very-hard-mod.json) |
 | Half-Life 2: VR Mod | 28827 | [28827-half-life-2-vr-mod.json](./28827-half-life-2-vr-mod.json) |
 | Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
@@ -1389,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Animals Mini Golf | 226328 | [226328-happy-animals-mini-golf.json](./226328-happy-animals-mini-golf.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Architect | 95295 | [95295-happy-architect.json](./95295-happy-architect.json) |
+| Happy Bakery | 77066 | [77066-happy-bakery.json](./77066-happy-bakery.json) |
 | Happy Ball | 345938 | [345938-happy-ball.json](./345938-happy-ball.json) |
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
