@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pahelika: Revelations HD | 36164 | [36164-pahelika-revelations-hd.json](./36164-pahelika-revelations-hd.json) |
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
 | Pai | 292496 | [292496-pai.json](./292496-pai.json) |
+| Pai Touch! | 77064 | [77064-pai-touch.json](./77064-pai-touch.json) |
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
 | Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
 | Paign | 388159 | [388159-paign.json](./388159-paign.json) |
@@ -1795,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
 | Paradise Lost | 165941 | [165941-paradise-lost.json](./165941-paradise-lost.json) |
 | Paradise Lost | 193865 | [193865-paradise-lost.json](./193865-paradise-lost.json) |
+| Paradise Lost | 77077 | [77077-paradise-lost.json](./77077-paradise-lost.json) |
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
 | Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
 | Paradise Love | 379541 | [379541-paradise-love.json](./379541-paradise-love.json) |
@@ -2398,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Fowl | 204900 | [204900-party-fowl.json](./204900-party-fowl.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
+| Party Fun Pirate | 77065 | [77065-party-fun-pirate.json](./77065-party-fun-pirate.json) |
 | Party Game Box 100 | 268401 | [268401-party-game-box-100.json](./268401-party-game-box-100.json) |
 | Party Games | 296237 | [296237-party-games.json](./296237-party-games.json) |
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
@@ -3554,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle Fevers | 413527 | [413527-peggle-fevers.json](./413527-peggle-fevers.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
 | Peggle: Dual Shot | 21257 | [21257-peggle-dual-shot.json](./21257-peggle-dual-shot.json) |
+| Peggle: World of Warcraft Edition | 77022 | [77022-peggle-world-of-warcraft-edition.json](./77022-peggle-world-of-warcraft-edition.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Peggo! | 154819 | [154819-peggo.json](./154819-peggo.json) |
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
@@ -4044,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Partner | 207694 | [207694-perfect-partner.json](./207694-perfect-partner.json) |
 | Perfect Paths | 193721 | [193721-perfect-paths.json](./193721-perfect-paths.json) |
 | Perfect Performer: The Yellow Monkey | 301350 | [301350-perfect-performer-the-yellow-monkey.json](./301350-perfect-performer-the-yellow-monkey.json) |
+| Perfect Pinball | 77072 | [77072-perfect-pinball.json](./77072-perfect-pinball.json) |
 | Perfect Pixel Dungeon | 312605 | [312605-perfect-pixel-dungeon.json](./312605-perfect-pixel-dungeon.json) |
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
 | Perfect Porcelain | 391135 | [391135-perfect-porcelain.json](./391135-perfect-porcelain.json) |
@@ -7023,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates Of The Caribbean: Islands Of Fortune | 294649 | [294649-pirates-of-the-caribbean-islands-of-fortune.json](./294649-pirates-of-the-caribbean-islands-of-fortune.json) |
 | Pirates of the Caribbean: Isles Of War | 62529 | [62529-pirates-of-the-caribbean-isles-of-war.json](./62529-pirates-of-the-caribbean-isles-of-war.json) |
+| Pirates of the Caribbean: Master of the Seas | 77063 | [77063-pirates-of-the-caribbean-master-of-the-seas.json](./77063-pirates-of-the-caribbean-master-of-the-seas.json) |
 | Pirates of the Caribbean: New Horizons | 310699 | [310699-pirates-of-the-caribbean-new-horizons.json](./310699-pirates-of-the-caribbean-new-horizons.json) |
 | Pirates of the Caribbean: The Curse of the Black Pearl | 19218 | [19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json](./19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json) |
 | Pirates of the Caribbean: The Legend of Jack Sparrow | 23138 | [23138-pirates-of-the-caribbean-the-legend-of-jack-sparrow.json](./23138-pirates-of-the-caribbean-the-legend-of-jack-sparrow.json) |
@@ -7440,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Mage Quest | 179344 | [179344-pixel-mage-quest.json](./179344-pixel-mage-quest.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Mage Survival | 208153 | [208153-pixel-mage-survival.json](./208153-pixel-mage-survival.json) |
+| Pixel Man | 77084 | [77084-pixel-man.json](./77084-pixel-man.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Maze | 109353 | [109353-pixel-maze.json](./109353-pixel-maze.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
@@ -13661,6 +13668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Privateer 2: The Darkening | 810 | [810-privateer-2-the-darkening.json](./810-privateer-2-the-darkening.json) |
 | Privateer Escape | 204790 | [204790-privateer-escape.json](./204790-privateer-escape.json) |
 | Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
+| Privates | 77035 | [77035-privates.json](./77035-privates.json) |
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
 | Prize Denied | 339962 | [339962-prize-denied.json](./339962-prize-denied.json) |
 | Prize Driver | 64249 | [64249-prize-driver.json](./64249-prize-driver.json) |
