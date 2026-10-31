@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Camping | 155972 | [155972-zombie-camping.json](./155972-zombie-camping.json) |
 | Zombie Car Massacre | 55304 | [55304-zombie-car-massacre.json](./55304-zombie-car-massacre.json) |
 | Zombie Carnage 2 | 184476 | [184476-zombie-carnage-2.json](./184476-zombie-carnage-2.json) |
+| Zombie Castaways | 96450 | [96450-zombie-castaways.json](./96450-zombie-castaways.json) |
 | Zombie Catchers | 102689 | [102689-zombie-catchers.json](./102689-zombie-catchers.json) |
 | Zombie Chronicles: Max's Story | 355601 | [355601-zombie-chronicles-maxs-story.json](./355601-zombie-chronicles-maxs-story.json) |
 | Zombie City | 192275 | [192275-zombie-city.json](./192275-zombie-city.json) |
