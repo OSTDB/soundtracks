@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To... Chichester OVN 2 : Master Tormenter Grendel Jinx !? | 123961 | [123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json](./123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welcome To... Chichester: The Spy of America and the Long Vacation | 180082 | [180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json](./180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json) |
+| Welcome to... Chichester! | 103788 | [103788-welcome-to-chichester.json](./103788-welcome-to-chichester.json) |
 | Welcome_Owner | 179863 | [179863-welcome-owner.json](./179863-welcome-owner.json) |
 | Welcome, [Employee Name] | 402286 | [402286-welcome-employee-name.json](./402286-welcome-employee-name.json) |
 | Welcome, Get Out! | 269196 | [269196-welcome-get-out.json](./269196-welcome-get-out.json) |
