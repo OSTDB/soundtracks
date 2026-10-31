@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9812,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockwars | 120523 | [120523-blockwars.json](./120523-blockwars.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
 | Blockwick 2 | 35038 | [35038-blockwick-2.json](./35038-blockwick-2.json) |
+| Blockworks | 77751 | [77751-blockworks.json](./77751-blockworks.json) |
 | BlockWorld | 155318 | [155318-blockworld.json](./155318-blockworld.json) |
 | BlockWorld Ai | 317773 | [317773-blockworld-ai.json](./317773-blockworld-ai.json) |
 | Blockxy Puzzle Adventure | 328560 | [328560-blockxy-puzzle-adventure.json](./328560-blockxy-puzzle-adventure.json) |
@@ -15243,6 +15245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
 | Bucketz | 283556 | [283556-bucketz.json](./283556-bucketz.json) |
 | Bucketz Ride | 283557 | [283557-bucketz-ride.json](./283557-bucketz-ride.json) |
+| Buckle up! | 77742 | [77742-buckle-up.json](./77742-buckle-up.json) |
 | Buckler 2 | 116720 | [116720-buckler-2.json](./116720-buckler-2.json) |
 | Buckmasters Top Bow Championship | 122233 | [122233-buckmasters-top-bow-championship.json](./122233-buckmasters-top-bow-championship.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
