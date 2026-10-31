@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | Wheely 4: Time Travel | 102004 | [102004-wheely-4-time-travel.json](./102004-wheely-4-time-travel.json) |
+| Wheely World | 109265 | [109265-wheely-world.json](./109265-wheely-world.json) |
 | Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
 | Whemy the Witch | 349778 | [349778-whemy-the-witch.json](./349778-whemy-the-witch.json) |
@@ -8214,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wren | 126524 | [126524-wren.json](./126524-wren.json) |
 | Wren's Journey | 215656 | [215656-wrens-journey.json](./215656-wrens-journey.json) |
 | Wren's Resurgence | 288455 | [288455-wrens-resurgence.json](./288455-wrens-resurgence.json) |
+| Wrench | 109288 | [109288-wrench.json](./109288-wrench.json) |
 | Wrench Towers | 361250 | [361250-wrench-towers.json](./361250-wrench-towers.json) |
 | WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
 | Wrest | 127704 | [127704-wrest.json](./127704-wrest.json) |
