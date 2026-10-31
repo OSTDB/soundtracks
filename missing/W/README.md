@@ -7481,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of Mines! | 175146 | [175146-world-of-mines.json](./175146-world-of-mines.json) |
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
+| World of Mixed Martial Arts 2 | 77031 | [77031-world-of-mixed-martial-arts-2.json](./77031-world-of-mixed-martial-arts-2.json) |
 | World of Mixed Martial Arts 3 | 35885 | [35885-world-of-mixed-martial-arts-3.json](./35885-world-of-mixed-martial-arts-3.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
