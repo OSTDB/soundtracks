@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
 | Offcoast | 161560 | [161560-offcoast.json](./161560-offcoast.json) |
 | Offendron Warrior | 114267 | [114267-offendron-warrior.json](./114267-offendron-warrior.json) |
+| Offensive | 80277 | [80277-offensive.json](./80277-offensive.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
 | Office Aberrations | 366543 | [366543-office-aberrations.json](./366543-office-aberrations.json) |
