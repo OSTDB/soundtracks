@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Clash: Crazy Fun Shooter | 216096 | [216096-marble-clash-crazy-fun-shooter.json](./216096-marble-clash-crazy-fun-shooter.json) |
 | Marble Computing | 190399 | [190399-marble-computing.json](./190399-marble-computing.json) |
 | Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
+| Marble Craze | 94485 | [94485-marble-craze.json](./94485-marble-craze.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
 | Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
@@ -5830,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McFarlane's Evil Prophecy | 43633 | [43633-mcfarlanes-evil-prophecy.json](./43633-mcfarlanes-evil-prophecy.json) |
 | McGroovz Dance Craze | 209535 | [209535-mcgroovz-dance-craze.json](./209535-mcgroovz-dance-craze.json) |
 | McKenzie & Co. | 78442 | [78442-mckenzie-and-co.json](./78442-mckenzie-and-co.json) |
+| McKenzie & Co.: More Friends | 94465 | [94465-mckenzie-and-co-more-friends.json](./94465-mckenzie-and-co-more-friends.json) |
 | McOsu | 29160 | [29160-mcosu.json](./29160-mcosu.json) |
 | McPixel | 7553 | [7553-mcpixel.json](./7553-mcpixel.json) |
 | McPixel 3 | 191576 | [191576-mcpixel-3.json](./191576-mcpixel-3.json) |
@@ -8013,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory | 331940 | [331940-memory.json](./331940-memory.json) |
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
+| Memory | 94507 | [94507-memory.json](./94507-memory.json) |
 | Memory | 95230 | [95230-memory.json](./95230-memory.json) |
 | Memory Adventures in the Jungle | 336481 | [336481-memory-adventures-in-the-jungle.json](./336481-memory-adventures-in-the-jungle.json) |
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
@@ -8415,6 +8418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Race | 93733 | [93733-mercury-race.json](./93733-mercury-race.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Mercury: Cascade into Madness | 52257 | [52257-mercury-cascade-into-madness.json](./52257-mercury-cascade-into-madness.json) |
+| Mercy | 94470 | [94470-mercy.json](./94470-mercy.json) |
 | Mercy Incore | 388387 | [388387-mercy-incore.json](./388387-mercy-incore.json) |
 | Mercyful Flames: The Witches | 117587 | [117587-mercyful-flames-the-witches.json](./117587-mercyful-flames-the-witches.json) |
 | Mercyrail: Havenbound | 415191 | [415191-mercyrail-havenbound.json](./415191-mercyrail-havenbound.json) |
@@ -10356,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Match Puzzle Adventure | 259972 | [259972-mighty-match-puzzle-adventure.json](./259972-mighty-match-puzzle-adventure.json) |
 | Mighty Math | 222807 | [222807-mighty-math.json](./222807-mighty-math.json) |
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
+| Mighty Math Number Heroes | 94504 | [94504-mighty-math-number-heroes.json](./94504-mighty-math-number-heroes.json) |
 | Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
 | Mighty Max | 217719 | [217719-mighty-max.json](./217719-mighty-max.json) |
@@ -13734,6 +13739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Idol Exchanger | 228625 | [228625-money-idol-exchanger.json](./228625-money-idol-exchanger.json) |
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
+| Money Mad | 94479 | [94479-money-mad.json](./94479-money-mad.json) |
 | Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
 | Money Maker | 288806 | [288806-money-maker.json](./288806-money-maker.json) |
 | Money Maker | 343782 | [343782-money-maker.json](./343782-money-maker.json) |
@@ -15258,6 +15264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Mor | 340726 | [340726-mor.json](./340726-mor.json) |
 | Mora: Mining for Freedom | 373747 | [373747-mora-mining-for-freedom.json](./373747-mora-mining-for-freedom.json) |
+| Moraff's Blast I | 94462 | [94462-moraffs-blast-i.json](./94462-moraffs-blast-i.json) |
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
 | Moraff's MahJongg 2011 | 64776 | [64776-moraffs-mahjongg-2011.json](./64776-moraffs-mahjongg-2011.json) |
