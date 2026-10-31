@@ -2715,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Canada Table Hockey | 88129 | [88129-team-canada-table-hockey.json](./88129-team-canada-table-hockey.json) |
 | Team Conquest | 220053 | [220053-team-conquest.json](./220053-team-conquest.json) |
+| Team Crossword | 106255 | [106255-team-crossword.json](./106255-team-crossword.json) |
 | Team Deathmatch: Classic | 363287 | [363287-team-deathmatch-classic.json](./363287-team-deathmatch-classic.json) |
 | Team Dehdehbon | 372629 | [372629-team-dehdehbon.json](./372629-team-dehdehbon.json) |
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
@@ -3856,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacles Party With Nuns | 207627 | [207627-tentacles-party-with-nuns.json](./207627-tentacles-party-with-nuns.json) |
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacles: Enter the dolphin | 19504 | [19504-tentacles-enter-the-dolphin.json](./19504-tentacles-enter-the-dolphin.json) |
+| Tentacles: Enter the Mind | 106258 | [106258-tentacles-enter-the-mind.json](./106258-tentacles-enter-the-mind.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
 | Tentaculon | 57487 | [57487-tentaculon.json](./57487-tentaculon.json) |
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
@@ -16812,6 +16814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
 | The Voice Inside | 115486 | [115486-the-voice-inside.json](./115486-the-voice-inside.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
+| The Voice of Germany: I Want You | 106264 | [106264-the-voice-of-germany-i-want-you.json](./106264-the-voice-of-germany-i-want-you.json) |
 | The Voice Party | 421806 | [421806-the-voice-party.json](./421806-the-voice-party.json) |
 | The Voice: I Want You | 84953 | [84953-the-voice-i-want-you.json](./84953-the-voice-i-want-you.json) |
 | The Voice: La Plus Belle Voix | 268433 | [268433-the-voice-la-plus-belle-voix.json](./268433-the-voice-la-plus-belle-voix.json) |
@@ -18586,6 +18589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne Quest Deluxe | 122298 | [122298-throne-quest-deluxe.json](./122298-throne-quest-deluxe.json) |
 | Throne Requiem | 400655 | [400655-throne-requiem.json](./400655-throne-requiem.json) |
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
+| Throne Together | 106265 | [106265-throne-together.json](./106265-throne-together.json) |
 | Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
 | ThroneBreaker | 363662 | [363662-thronebreaker.json](./363662-thronebreaker.json) |
@@ -24498,6 +24502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Grimoiria | 285829 | [285829-tower-of-grimoiria.json](./285829-tower-of-grimoiria.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
 | Tower of Guns | 16880 | [16880-tower-of-guns.json](./16880-tower-of-guns.json) |
+| Tower of Guns: Special Edition | 106230 | [106230-tower-of-guns-special-edition.json](./106230-tower-of-guns-special-edition.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
 | Tower of Hidden Waifus | 276142 | [276142-tower-of-hidden-waifus.json](./276142-tower-of-hidden-waifus.json) |
@@ -29553,6 +29558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
+| Turn N Run | 106267 | [106267-turn-n-run.json](./106267-turn-n-run.json) |
 | Turn on All the Lights | 149830 | [149830-turn-on-all-the-lights.json](./149830-turn-on-all-the-lights.json) |
 | Turn on the Light | 137283 | [137283-turn-on-the-light.json](./137283-turn-on-the-light.json) |
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
@@ -29700,6 +29706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Wax | 317430 | [317430-turtle-wax.json](./317430-turtle-wax.json) |
 | Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
 | Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
+| Turtle's Quest | 106229 | [106229-turtles-quest.json](./106229-turtles-quest.json) |
 | TurtlePop: Journey to Freedom | 89568 | [89568-turtlepop-journey-to-freedom.json](./89568-turtlepop-journey-to-freedom.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
