@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Asobi no Omochabako | 226076 | [226076-hello-kitty-asobi-no-omochabako.json](./226076-hello-kitty-asobi-no-omochabako.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
+| Hello Kitty Cube World | 78878 | [78878-hello-kitty-cube-world.json](./78878-hello-kitty-cube-world.json) |
 | Hello Kitty Cutie World | 78586 | [78586-hello-kitty-cutie-world.json](./78586-hello-kitty-cutie-world.json) |
 | Hello Kitty Daily | 47853 | [47853-hello-kitty-daily.json](./47853-hello-kitty-daily.json) |
 | Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
@@ -4097,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: White Present | 284433 | [284433-hello-kitty-white-present.json](./284433-hello-kitty-white-present.json) |
 | Hello Kitty: Yume no Kuni Daibouken | 76186 | [76186-hello-kitty-yume-no-kuni-daibouken.json](./76186-hello-kitty-yume-no-kuni-daibouken.json) |
 | Hello Kitty's Big Fun Deluxe | 288138 | [288138-hello-kittys-big-fun-deluxe.json](./288138-hello-kittys-big-fun-deluxe.json) |
+| Hello Kitty's Big Fun Piano | 78877 | [78877-hello-kittys-big-fun-piano.json](./78877-hello-kittys-big-fun-piano.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Kitty's Cube Frenzy | 3687 | [3687-hello-kittys-cube-frenzy.json](./3687-hello-kittys-cube-frenzy.json) |
 | Hello Kitty's The Land of Hidden Objects: DokokanaArcana | 284432 | [284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json](./284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json) |
@@ -7838,6 +7840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hodge Dodge | 280345 | [280345-hodge-dodge.json](./280345-hodge-dodge.json) |
 | Hodgepodge Hunch | 249082 | [249082-hodgepodge-hunch.json](./249082-hodgepodge-hunch.json) |
 | Hodgepodge Hunch: Premium Pack - Sakura | 298260 | [298260-hodgepodge-hunch-premium-pack-sakura.json](./298260-hodgepodge-hunch-premium-pack-sakura.json) |
+| Hodj 'n' Podj | 79050 | [79050-hodj-n-podj.json](./79050-hodj-n-podj.json) |
 | Hodl Simulator | 159570 | [159570-hodl-simulator.json](./159570-hodl-simulator.json) |
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
@@ -7971,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole War: The Abyss | 347732 | [347732-hole-war-the-abyss.json](./347732-hole-war-the-abyss.json) |
 | Hole Your Horses: Champion Edition | 394098 | [394098-hole-your-horses-champion-edition.json](./394098-hole-your-horses-champion-edition.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
+| Hole-In-One Miniature Golf Deluxe | 78997 | [78997-hole-in-one-miniature-golf-deluxe.json](./78997-hole-in-one-miniature-golf-deluxe.json) |
 | Hole: Bottomless | 334927 | [334927-hole-bottomless.json](./334927-hole-bottomless.json) |
 | Hole.io | 104100 | [104100-hole-io.json](./104100-hole-io.json) |
 | Hole* | 408173 | [408173-hole.json](./408173-hole.json) |
@@ -8368,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
 | Home Restoration VR | 264772 | [264772-home-restoration-vr.json](./264772-home-restoration-vr.json) |
 | Home Run | 18414 | [18414-home-run.json](./18414-home-run.json) |
+| Home Run | 79021 | [79021-home-run.json](./79021-home-run.json) |
 | Home Run Derby | 73330 | [73330-home-run-derby.json](./73330-home-run-derby.json) |
 | Home Run Derby VR | 100337 | [100337-home-run-derby-vr.json](./100337-home-run-derby-vr.json) |
 | Home Run Derby: vs Fairy Tales | 255582 | [255582-home-run-derby-vs-fairy-tales.json](./255582-home-run-derby-vs-fairy-tales.json) |
