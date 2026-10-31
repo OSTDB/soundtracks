@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Light: Pyre of Hubris | 382986 | [382986-sacred-light-pyre-of-hubris.json](./382986-sacred-light-pyre-of-hubris.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
 | Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
+| Sacred Odyssey: Rise of Ayden | 65705 | [65705-sacred-odyssey-rise-of-ayden.json](./65705-sacred-odyssey-rise-of-ayden.json) |
 | Sacred Plus | 53570 | [53570-sacred-plus.json](./53570-sacred-plus.json) |
 | Sacred Seasons | 175627 | [175627-sacred-seasons.json](./175627-sacred-seasons.json) |
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
@@ -7572,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Deep Strange Journey - 25th Anniversary Special Box | 136903 | [136903-shin-megami-tensei-deep-strange-journey-25th-anniversary-special-box.json](./136903-shin-megami-tensei-deep-strange-journey-25th-anniversary-special-box.json) |
 | Shin Megami Tensei: Devil Children - Aka no Sho | 71306 | [71306-shin-megami-tensei-devil-children-aka-no-sho.json](./71306-shin-megami-tensei-devil-children-aka-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
+| Shin Megami Tensei: Devil Children - Honoo no Sho | 65864 | [65864-shin-megami-tensei-devil-children-honoo-no-sho.json](./65864-shin-megami-tensei-devil-children-honoo-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Messiah Riser | 49774 | [49774-shin-megami-tensei-devil-children-messiah-riser.json](./49774-shin-megami-tensei-devil-children-messiah-riser.json) |
 | Shin Megami Tensei: Devil Children - Puzzle de Call! | 49821 | [49821-shin-megami-tensei-devil-children-puzzle-de-call.json](./49821-shin-megami-tensei-devil-children-puzzle-de-call.json) |
@@ -17857,7 +17859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25494,6 +25495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Clean TD | 285673 | [285673-street-clean-td.json](./285673-street-clean-td.json) |
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
+| Street Cleaning Simulator | 65867 | [65867-street-cleaning-simulator.json](./65867-street-cleaning-simulator.json) |
 | Street Combat Fighting | 386541 | [386541-street-combat-fighting.json](./386541-street-combat-fighting.json) |
 | Street Cop | 48236 | [48236-street-cop.json](./48236-street-cop.json) |
 | Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
