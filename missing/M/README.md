@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagicArchitect | 284268 | [284268-magicarchitect.json](./284268-magicarchitect.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | Magicat | 376831 | [376831-magicat.json](./376831-magicat.json) |
+| MagiCats Builder | 104963 | [104963-magicats-builder.json](./104963-magicats-builder.json) |
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
 | MagiCats Worlds | 111530 | [111530-magicats-worlds.json](./111530-magicats-worlds.json) |
 | MagicBeans | 257857 | [257857-magicbeans.json](./257857-magicbeans.json) |
@@ -14232,6 +14233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Frontier G6 | 144181 | [144181-monster-hunter-frontier-g6.json](./144181-monster-hunter-frontier-g6.json) |
 | Monster Hunter Frontier Online | 7075 | [7075-monster-hunter-frontier-online.json](./7075-monster-hunter-frontier-online.json) |
 | Monster Hunter Frontier Z | 78360 | [78360-monster-hunter-frontier-z.json](./78360-monster-hunter-frontier-z.json) |
+| Monster Hunter Frontier ZZenith | 104999 | [104999-monster-hunter-frontier-zzenith.json](./104999-monster-hunter-frontier-zzenith.json) |
 | Monster Hunter G | 70413 | [70413-monster-hunter-g.json](./70413-monster-hunter-g.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
 | Monster Hunter i | 341145 | [341145-monster-hunter-i.json](./341145-monster-hunter-i.json) |
