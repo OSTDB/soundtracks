@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InoLab Trials | 320326 | [320326-inolab-trials.json](./320326-inolab-trials.json) |
 | Inomushi Goro Goro | 138520 | [138520-inomushi-goro-goro.json](./138520-inomushi-goro-goro.json) |
 | Inops | 114177 | [114177-inops.json](./114177-inops.json) |
+| Inordinate Desire | 85777 | [85777-inordinate-desire.json](./85777-inordinate-desire.json) |
 | Inori's House | 118624 | [118624-inoris-house.json](./118624-inoris-house.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
 | InorStreet | 329445 | [329445-inorstreet.json](./329445-inorstreet.json) |
