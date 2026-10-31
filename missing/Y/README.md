@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yog-Sothoth's Yard | 250278 | [250278-yog-sothoths-yard.json](./250278-yog-sothoths-yard.json) |
 | Yoga Bear | 177895 | [177895-yoga-bear.json](./177895-yoga-bear.json) |
+| Yoga Lesson VR | 105609 | [105609-yoga-lesson-vr.json](./105609-yoga-lesson-vr.json) |
 | Yoga Master | 84958 | [84958-yoga-master.json](./84958-yoga-master.json) |
 | Yoga Master Collection | 310439 | [310439-yoga-master-collection.json](./310439-yoga-master-collection.json) |
 | Yoga Master: Deluxe Edition | 237849 | [237849-yoga-master-deluxe-edition.json](./237849-yoga-master-deluxe-edition.json) |
