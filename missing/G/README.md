@@ -5124,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal Rush | 182147 | [182147-goal-rush.json](./182147-goal-rush.json) |
 | Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
 | Goal Storm '97 | 20141 | [20141-goal-storm-97.json](./20141-goal-storm-97.json) |
+| Goal to Go | 66534 | [66534-goal-to-go.json](./66534-goal-to-go.json) |
 | Goal! | 218001 | [218001-goal.json](./218001-goal.json) |
 | Goal! | 268132 | [268132-goal.json](./268132-goal.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
