@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048+# | 343995 | [343995-2048.json](./343995-2048.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
+| 2048Wars | 109987 | [109987-2048wars.json](./109987-2048wars.json) |
 | 2048x2048 | 358070 | [358070-2048x2048.json](./358070-2048x2048.json) |
 | 206 | 186710 | [186710-206.json](./186710-206.json) |
 | 2060 Cyber Racer | 91709 | [91709-2060-cyber-racer.json](./91709-2060-cyber-racer.json) |
@@ -2302,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3x3x3: A Mermaid's Tale | 128611 | [128611-3x3x3-a-mermaids-tale.json](./128611-3x3x3-a-mermaids-tale.json) |
 | 3x64 | 187649 | [187649-3x64.json](./187649-3x64.json) |
 | 3x9 Kingdom: Road of Adventures | 296229 | [296229-3x9-kingdom-road-of-adventures.json](./296229-3x9-kingdom-road-of-adventures.json) |
+| 3XN: Number Puzzle | 109990 | [109990-3xn-number-puzzle.json](./109990-3xn-number-puzzle.json) |
 | 3Xtinction | 274943 | [274943-3xtinction.json](./274943-3xtinction.json) |
 | 3xtinction: 2urvive Mercenaries Pack | 377375 | [377375-3xtinction-2urvive-mercenaries-pack.json](./377375-3xtinction-2urvive-mercenaries-pack.json) |
 | 3xtinction: Broken Mind Mercenaries Pack | 377376 | [377376-3xtinction-broken-mind-mercenaries-pack.json](./377376-3xtinction-broken-mind-mercenaries-pack.json) |
