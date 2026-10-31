@@ -6048,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Attack Team 2 | 102036 | [102036-alien-attack-team-2.json](./102036-alien-attack-team-2.json) |
 | Alien Attack: In Space | 34728 | [34728-alien-attack-in-space.json](./34728-alien-attack-in-space.json) |
+| Alien Attack: Pocket Edition | 105615 | [105615-alien-attack-pocket-edition.json](./105615-alien-attack-pocket-edition.json) |
 | Alien Attack: Zero | 167928 | [167928-alien-attack-zero.json](./167928-alien-attack-zero.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
@@ -6158,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hordes | 99390 | [99390-alien-hordes.json](./99390-alien-hordes.json) |
 | Alien Horizon | 200363 | [200363-alien-horizon.json](./200363-alien-horizon.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
+| Alien Hunt 3D | 105645 | [105645-alien-hunt-3d.json](./105645-alien-hunt-3d.json) |
 | Alien Hunter | 108804 | [108804-alien-hunter.json](./108804-alien-hunter.json) |
 | Alien Incident | 2168 | [2168-alien-incident.json](./2168-alien-incident.json) |
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
@@ -9836,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
 | Another World: Pirates And The Great Old Gods | 379450 | [379450-another-world-pirates-and-the-great-old-gods.json](./379450-another-world-pirates-and-the-great-old-gods.json) |
 | Another World: Thought Taboo | 230911 | [230911-another-world-thought-taboo.json](./230911-another-world-thought-taboo.json) |
+| Another world: Truck driver | 105637 | [105637-another-world-truck-driver.json](./105637-another-world-truck-driver.json) |
 | Another World/Flashback | 130804 | [130804-another-world-flashback.json](./130804-another-world-flashback.json) |
 | Another Zero | 313889 | [313889-another-zero.json](./313889-another-zero.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
@@ -10743,6 +10746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
 | Aqua Panic!: Inferno Pack | 224146 | [224146-aqua-panic-inferno-pack.json](./224146-aqua-panic-inferno-pack.json) |
 | Aqua Paradise: Boku no Suizokukan | 62543 | [62543-aqua-paradise-boku-no-suizokukan.json](./62543-aqua-paradise-boku-no-suizokukan.json) |
+| Aqua Park Tycoon | 105630 | [105630-aqua-park-tycoon.json](./105630-aqua-park-tycoon.json) |
 | Aqua Populo | 199347 | [199347-aqua-populo.json](./199347-aqua-populo.json) |
 | Aqua Pump | 93820 | [93820-aqua-pump.json](./93820-aqua-pump.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
@@ -12706,6 +12710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
 | Armored Suit Solgante | 303679 | [303679-armored-suit-solgante.json](./303679-armored-suit-solgante.json) |
 | Armored Suit Solgante: Expansion DLC | 339879 | [339879-armored-suit-solgante-expansion-dlc.json](./339879-armored-suit-solgante-expansion-dlc.json) |
+| Armored Train | 105596 | [105596-armored-train.json](./105596-armored-train.json) |
 | Armored Trooper Votoms: Dead Ash | 98262 | [98262-armored-trooper-votoms-dead-ash.json](./98262-armored-trooper-votoms-dead-ash.json) |
 | Armored Tussle | 275750 | [275750-armored-tussle.json](./275750-armored-tussle.json) |
 | Armored Unit | 37525 | [37525-armored-unit.json](./37525-armored-unit.json) |
