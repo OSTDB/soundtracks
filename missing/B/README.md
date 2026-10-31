@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bows | 253192 | [253192-battle-bows.json](./253192-battle-bows.json) |
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
+| Battle Brothers: Beasts & Exploration | 113990 | [113990-battle-brothers-beasts-and-exploration.json](./113990-battle-brothers-beasts-and-exploration.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
 | Battle Brothers: Complete Edition | 187045 | [187045-battle-brothers-complete-edition.json](./187045-battle-brothers-complete-edition.json) |
 | Battle Brothers: DLC Bundle Pack | 227671 | [227671-battle-brothers-dlc-bundle-pack.json](./227671-battle-brothers-dlc-bundle-pack.json) |
@@ -9816,6 +9817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Zombies | 172006 | [172006-blood-and-zombies.json](./172006-blood-and-zombies.json) |
 | Blood and Zombies: Gold Edition | 241966 | [241966-blood-and-zombies-gold-edition.json](./241966-blood-and-zombies-gold-edition.json) |
 | Blood Bar Tycoon | 290914 | [290914-blood-bar-tycoon.json](./290914-blood-bar-tycoon.json) |
+| Blood Bath at Red Falls | 113989 | [113989-blood-bath-at-red-falls.json](./113989-blood-bath-at-red-falls.json) |
 | Blood Beach | 51084 | [51084-blood-beach.json](./51084-blood-beach.json) |
 | Blood Bear | 365621 | [365621-blood-bear.json](./365621-blood-bear.json) |
 | Blood Beat Club | 301894 | [301894-blood-beat-club.json](./301894-blood-beat-club.json) |
@@ -13706,6 +13708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
 | Breaking & Entering | 200857 | [200857-breaking-and-entering.json](./200857-breaking-and-entering.json) |
 | Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
+| Breaking Bad: Criminal Elements | 114003 | [114003-breaking-bad-criminal-elements.json](./114003-breaking-bad-criminal-elements.json) |
 | Breaking Bad: VR Experience | 36757 | [36757-breaking-bad-vr-experience.json](./36757-breaking-bad-vr-experience.json) |
 | Breaking Bound | 289799 | [289799-breaking-bound.json](./289799-breaking-bound.json) |
 | Breaking Box: Rush! | 271088 | [271088-breaking-box-rush.json](./271088-breaking-box-rush.json) |
