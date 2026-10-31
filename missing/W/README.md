@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderers' Outpost | 406687 | [406687-wanderers-outpost.json](./406687-wanderers-outpost.json) |
 | WanderersTip | 352219 | [352219-wandererstip.json](./352219-wandererstip.json) |
 | Wanderfar | 158716 | [158716-wanderfar.json](./158716-wanderfar.json) |
+| Wanderfog | 105008 | [105008-wanderfog.json](./105008-wanderfog.json) |
 | Wanderful | 224617 | [224617-wanderful.json](./224617-wanderful.json) |
 | Wandering | 242077 | [242077-wandering.json](./242077-wandering.json) |
 | Wandering | 372432 | [372432-wandering.json](./372432-wandering.json) |
@@ -2466,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way Walkers: University 2 | 160088 | [160088-way-walkers-university-2.json](./160088-way-walkers-university-2.json) |
 | Way-z | 110933 | [110933-way-z.json](./110933-way-z.json) |
 | Wayblazer Dämmerung | 315312 | [315312-wayblazer-dammerung.json](./315312-wayblazer-dammerung.json) |
+| Wayblock | 104952 | [104952-wayblock.json](./104952-wayblock.json) |
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 178450 | [178450-wayfarer.json](./178450-wayfarer.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
@@ -3640,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels on the Bus! | 90377 | [90377-wheels-on-the-bus.json](./90377-wheels-on-the-bus.json) |
 | Wheels0 | 78628 | [78628-wheels0.json](./78628-wheels0.json) |
 | Wheelspin | 5177 | [5177-wheelspin.json](./5177-wheelspin.json) |
+| Wheelspin Frenzy | 104998 | [104998-wheelspin-frenzy.json](./104998-wheelspin-frenzy.json) |
 | Wheelsprung | 340856 | [340856-wheelsprung.json](./340856-wheelsprung.json) |
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
