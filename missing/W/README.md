@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch&Run | 150386 | [150386-watch-and-run.json](./150386-watch-and-run.json) |
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
 | Watcher | 280155 | [280155-watcher.json](./280155-watcher.json) |
+| Watcher | 83892 | [83892-watcher.json](./83892-watcher.json) |
 | Watcher Chronicles | 161547 | [161547-watcher-chronicles.json](./161547-watcher-chronicles.json) |
 | Watcher From the Void | 374796 | [374796-watcher-from-the-void.json](./374796-watcher-from-the-void.json) |
 | Watchers | 121185 | [121185-watchers.json](./121185-watchers.json) |
@@ -3999,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While (true) | 312594 | [312594-while-true.json](./312594-while-true.json) |
 | While 1: | 364620 | [364620-while-1.json](./364620-while-1.json) |
 | While Dreaming | 185357 | [185357-while-dreaming.json](./185357-while-dreaming.json) |
+| While I Sleep I am Debug | 84005 | [84005-while-i-sleep-i-am-debug.json](./84005-while-i-sleep-i-am-debug.json) |
 | While I'm Still Your Eyes | 229899 | [229899-while-im-still-your-eyes.json](./229899-while-im-still-your-eyes.json) |
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
 | While Sleeping | 312553 | [312553-while-sleeping.json](./312553-while-sleeping.json) |
@@ -4748,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Lynx Jigsaw | 357967 | [357967-wild-lynx-jigsaw.json](./357967-wild-lynx-jigsaw.json) |
 | Wild Lynx Jigsaw: Expansion Pack 1 | 357968 | [357968-wild-lynx-jigsaw-expansion-pack-1.json](./357968-wild-lynx-jigsaw-expansion-pack-1.json) |
 | Wild Lynx Jigsaw: Expansion Pack 2 | 357969 | [357969-wild-lynx-jigsaw-expansion-pack-2.json](./357969-wild-lynx-jigsaw-expansion-pack-2.json) |
+| Wild Mage - Phantom Twilight | 84001 | [84001-wild-mage-phantom-twilight.json](./84001-wild-mage-phantom-twilight.json) |
 | Wild Maiden | 194114 | [194114-wild-maiden.json](./194114-wild-maiden.json) |
 | Wild Man Jump | 305465 | [305465-wild-man-jump.json](./305465-wild-man-jump.json) |
 | Wild Man Jump | 305473 | [305473-wild-man-jump.json](./305473-wild-man-jump.json) |
