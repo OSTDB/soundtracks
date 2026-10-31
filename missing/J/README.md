@@ -3245,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStream | 107374 | [107374-jumpstream.json](./107374-jumpstream.json) |
 | Jumputi Heroes | 86425 | [86425-jumputi-heroes.json](./86425-jumputi-heroes.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
+| JumpWheel | 64068 | [64068-jumpwheel.json](./64068-jumpwheel.json) |
 | Jumpy 1D: Christmas Edition | 273950 | [273950-jumpy-1d-christmas-edition.json](./273950-jumpy-1d-christmas-edition.json) |
 | Jumpy Ball Happy Fun Time | 371302 | [371302-jumpy-ball-happy-fun-time.json](./371302-jumpy-ball-happy-fun-time.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
