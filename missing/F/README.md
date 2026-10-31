@@ -4104,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight for Freedom: Civil War | 294192 | [294192-fight-for-freedom-civil-war.json](./294192-fight-for-freedom-civil-war.json) |
 | Fight for Gold II | 111854 | [111854-fight-for-gold-ii.json](./111854-fight-for-gold-ii.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
+| Fight For Love | 113297 | [113297-fight-for-love.json](./113297-fight-for-love.json) |
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
 | Fight for Marseille | 109522 | [109522-fight-for-marseille.json](./109522-fight-for-marseille.json) |
 | Fight for that Ball | 148212 | [148212-fight-for-that-ball.json](./148212-fight-for-that-ball.json) |
@@ -11190,6 +11191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Beyond Prologue | 112624 | [112624-from-beyond-prologue.json](./112624-from-beyond-prologue.json) |
 | From By | 348422 | [348422-from-by.json](./348422-from-by.json) |
 | From Cheese | 370807 | [370807-from-cheese.json](./370807-from-cheese.json) |
+| From Darkness | 113319 | [113319-from-darkness.json](./113319-from-darkness.json) |
 | From Day to Day | 151106 | [151106-from-day-to-day.json](./151106-from-day-to-day.json) |
 | From Dusk Till Dawn | 22014 | [22014-from-dusk-till-dawn.json](./22014-from-dusk-till-dawn.json) |
 | From Dust | 3160 | [3160-from-dust.json](./3160-from-dust.json) |
