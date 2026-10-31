@@ -874,7 +874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3277,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: Warriors of the North | 124963 | [124963-battle-brothers-warriors-of-the-north.json](./124963-battle-brothers-warriors-of-the-north.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bruise 2 | 123740 | [123740-battle-bruise-2.json](./123740-battle-bruise-2.json) |
+| Battle Buddies VR | 74142 | [74142-battle-buddies-vr.json](./74142-battle-buddies-vr.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
 | Battle Bugs | 333490 | [333490-battle-bugs.json](./333490-battle-bugs.json) |
 | Battle Bundle I Stickman: Far East Battle and Battle of Archers | 180969 | [180969-battle-bundle-i-stickman-far-east-battle-and-battle-of-archers.json](./180969-battle-bundle-i-stickman-far-east-battle-and-battle-of-archers.json) |
@@ -3962,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleLive: ZombieGhetto | 216085 | [216085-battlelive-zombieghetto.json](./216085-battlelive-zombieghetto.json) |
 | Battleloot Adventure | 186442 | [186442-battleloot-adventure.json](./186442-battleloot-adventure.json) |
 | Battlemage Ascension | 407467 | [407467-battlemage-ascension.json](./407467-battlemage-ascension.json) |
+| Battlemage Training | 74137 | [74137-battlemage-training.json](./74137-battlemage-training.json) |
 | Battlemage VR | 113450 | [113450-battlemage-vr.json](./113450-battlemage-vr.json) |
 | Battlemage: Magic by Mail | 154355 | [154355-battlemage-magic-by-mail.json](./154355-battlemage-magic-by-mail.json) |
 | Battlemaidens | 411389 | [411389-battlemaidens.json](./411389-battlemaidens.json) |
@@ -9317,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
 | Blindside | 413154 | [413154-blindside.json](./413154-blindside.json) |
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
+| Blindsight | 74128 | [74128-blindsight.json](./74128-blindsight.json) |
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
 | Blindsighted | 287052 | [287052-blindsighted.json](./287052-blindsighted.json) |
@@ -9876,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blogick | 232324 | [232324-blogick.json](./232324-blogick.json) |
 | Blok Copy | 63783 | [63783-blok-copy.json](./63783-blok-copy.json) |
 | Blok Drop Chaos | 77800 | [77800-blok-drop-chaos.json](./77800-blok-drop-chaos.json) |
+| Blok Drop Neo | 74132 | [74132-blok-drop-neo.json](./74132-blok-drop-neo.json) |
 | Blok Shot VR | 309608 | [309608-blok-shot-vr.json](./309608-blok-shot-vr.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
@@ -12150,6 +12153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOPZ.io | 304751 | [304751-bopz-io.json](./304751-bopz-io.json) |
 | Bor Dungeon | 248005 | [248005-bor-dungeon.json](./248005-bor-dungeon.json) |
 | Boralaa | 217122 | [217122-boralaa.json](./217122-boralaa.json) |
+| Boratium Wars | 74134 | [74134-boratium-wars.json](./74134-boratium-wars.json) |
 | Borb the Birb | 135057 | [135057-borb-the-birb.json](./135057-borb-the-birb.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Borbs | 411526 | [411526-borbs.json](./411526-borbs.json) |
