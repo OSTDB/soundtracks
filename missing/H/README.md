@@ -11191,6 +11191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
 | Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
 | Hyper Light Knight | 140222 | [140222-hyper-light-knight.json](./140222-hyper-light-knight.json) |
+| Hyper Light Music | 123194 | [123194-hyper-light-music.json](./123194-hyper-light-music.json) |
 | Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
 | Hyper Marbles | 45728 | [45728-hyper-marbles.json](./45728-hyper-marbles.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
