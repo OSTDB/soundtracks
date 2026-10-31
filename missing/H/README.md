@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard | 186147 | [186147-hazard.json](./186147-hazard.json) |
 | Hazard | 377355 | [377355-hazard.json](./377355-hazard.json) |
+| Hazard | 98693 | [98693-hazard.json](./98693-hazard.json) |
 | Hazard Hill Idle | 247602 | [247602-hazard-hill-idle.json](./247602-hazard-hill-idle.json) |
 | Hazard Horizon | 239455 | [239455-hazard-horizon.json](./239455-hazard-horizon.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter 2022 | 220816 | [220816-helicopter-2022.json](./220816-helicopter-2022.json) |
 | Helicopter Escape 3D | 249679 | [249679-helicopter-escape-3d.json](./249679-helicopter-escape-3d.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
+| Helicopter Flight Simulator | 98685 | [98685-helicopter-flight-simulator.json](./98685-helicopter-flight-simulator.json) |
 | Helicopter Game | 199806 | [199806-helicopter-game.json](./199806-helicopter-game.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
 | Helicopter Mission | 73853 | [73853-helicopter-mission.json](./73853-helicopter-mission.json) |
@@ -3675,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Hunter: Anti-Nomen | 270032 | [270032-hell-hunter-anti-nomen.json](./270032-hell-hunter-anti-nomen.json) |
 | Hell Hunter: Damned Soul | 272380 | [272380-hell-hunter-damned-soul.json](./272380-hell-hunter-damned-soul.json) |
 | Hell in a Can | 271762 | [271762-hell-in-a-can.json](./271762-hell-in-a-can.json) |
+| Hell in Paradise | 98713 | [98713-hell-in-paradise.json](./98713-hell-in-paradise.json) |
 | Hell Inspector's Mod of Stupidity | 280765 | [280765-hell-inspectors-mod-of-stupidity.json](./280765-hell-inspectors-mod-of-stupidity.json) |
 | Hell Invades Heaven | 190165 | [190165-hell-invades-heaven.json](./190165-hell-invades-heaven.json) |
 | Hell Is Empty, Demons Are Playing Apokerlypse | 399129 | [399129-hell-is-empty-demons-are-playing-apokerlypse.json](./399129-hell-is-empty-demons-are-playing-apokerlypse.json) |
@@ -6205,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
 | Hidden Collection - Fun Seek and Find Hidden Object Puzzles | 90370 | [90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json](./90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json) |
+| Hidden Collection 2 HD - Fun Seek and Find Hidden Object Puzzles | 98721 | [98721-hidden-collection-2-hd-fun-seek-and-find-hidden-object-puzzles.json](./98721-hidden-collection-2-hd-fun-seek-and-find-hidden-object-puzzles.json) |
 | Hidden Corgi Mansion | 294186 | [294186-hidden-corgi-mansion.json](./294186-hidden-corgi-mansion.json) |
 | Hidden Cosmo Cats: Bonus Level | 291364 | [291364-hidden-cosmo-cats-bonus-level.json](./291364-hidden-cosmo-cats-bonus-level.json) |
 | Hidden Cube World Top-Down 3D | 213150 | [213150-hidden-cube-world-top-down-3d.json](./213150-hidden-cube-world-top-down-3d.json) |
@@ -6452,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Pot O' Gold | 98589 | [98589-hidden-object-pot-o-gold.json](./98589-hidden-object-pot-o-gold.json) |
 | Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
 | Hidden Object: Pumpkin Patch | 98578 | [98578-hidden-object-pumpkin-patch.json](./98578-hidden-object-pumpkin-patch.json) |
+| Hidden Object: Rainbow | 98699 | [98699-hidden-object-rainbow.json](./98699-hidden-object-rainbow.json) |
 | Hidden Object: Rapunzel | 98343 | [98343-hidden-object-rapunzel.json](./98343-hidden-object-rapunzel.json) |
 | Hidden Object: Romantic Places | 234437 | [234437-hidden-object-romantic-places.json](./234437-hidden-object-romantic-places.json) |
 | Hidden Object: Sakura Garden | 98342 | [98342-hidden-object-sakura-garden.json](./98342-hidden-object-sakura-garden.json) |
@@ -6483,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Victoria & Steve Vikings Adventures | 267337 | [267337-hidden-object-victoria-and-steve-vikings-adventures.json](./267337-hidden-object-victoria-and-steve-vikings-adventures.json) |
 | Hidden Object: Werewolves - The Nightwalkers | 98571 | [98571-hidden-object-werewolves-the-nightwalkers.json](./98571-hidden-object-werewolves-the-nightwalkers.json) |
 | Hidden Object: Wild Fantasy | 98327 | [98327-hidden-object-wild-fantasy.json](./98327-hidden-object-wild-fantasy.json) |
+| Hidden Object: Winter Wonderland | 98700 | [98700-hidden-object-winter-wonderland.json](./98700-hidden-object-winter-wonderland.json) |
 | Hidden Object: Wishful Thinking | 83633 | [83633-hidden-object-wishful-thinking.json](./83633-hidden-object-wishful-thinking.json) |
 | Hidden Object: Wolves | 98588 | [98588-hidden-object-wolves.json](./98588-hidden-object-wolves.json) |
 | Hidden Object: Wonderland | 98324 | [98324-hidden-object-wonderland.json](./98324-hidden-object-wonderland.json) |
@@ -6505,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Painted Forest | 415893 | [415893-hidden-objects-painted-forest.json](./415893-hidden-objects-painted-forest.json) |
 | Hidden objects Play peek a boo | 100015 | [100015-hidden-objects-play-peek-a-boo.json](./100015-hidden-objects-play-peek-a-boo.json) |
 | Hidden Objects Secret Places | 99092 | [99092-hidden-objects-secret-places.json](./99092-hidden-objects-secret-places.json) |
+| Hidden Objects Thanksgiving & 3 puzzle games | 98725 | [98725-hidden-objects-thanksgiving-and-3-puzzle-games.json](./98725-hidden-objects-thanksgiving-and-3-puzzle-games.json) |
 | Hidden Objects USA - New York, Florida, Vegas, Hollywood & Puzzle Travel Games | 70901 | [70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json](./70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json) |
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
@@ -6518,6 +6525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: New York Rain Storm - The Pharaohs Treasure Hunt: Spa Massage Meditation Center - California | 88348 | [88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json](./88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json) |
 | Hidden Objects: Romance with Chocolate | 104384 | [104384-hidden-objects-romance-with-chocolate.json](./104384-hidden-objects-romance-with-chocolate.json) |
 | Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
+| Hidden Objects: Secret Garden | 98701 | [98701-hidden-objects-secret-garden.json](./98701-hidden-objects-secret-garden.json) |
 | Hidden Objects: Secret Vampire Rooms - Lost Kingdom: My Village | 86700 | [86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json](./86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json) |
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
 | Hidden Objects: Sleeping Beauty | 195423 | [195423-hidden-objects-sleeping-beauty.json](./195423-hidden-objects-sleeping-beauty.json) |
