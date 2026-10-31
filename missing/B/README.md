@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
 | Bakemono Heights | 334874 | [334874-bakemono-heights.json](./334874-bakemono-heights.json) |
 | Bakemonogatari Portable | 42800 | [42800-bakemonogatari-portable.json](./42800-bakemonogatari-portable.json) |
+| Baker Business 2 | 99346 | [99346-baker-business-2.json](./99346-baker-business-2.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Baker Business 3: Halloween Pack | 263107 | [263107-baker-business-3-halloween-pack.json](./263107-baker-business-3-halloween-pack.json) |
 | Baker Business 3: Spring Pack | 243049 | [243049-baker-business-3-spring-pack.json](./243049-baker-business-3-spring-pack.json) |
@@ -6625,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
 | Bid War: Auction Simulator Storage Hunter | 254007 | [254007-bid-war-auction-simulator-storage-hunter.json](./254007-bid-war-auction-simulator-storage-hunter.json) |
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
+| Bidding Contest | 99312 | [99312-bidding-contest.json](./99312-bidding-contest.json) |
 | Biden My Time: A Joe Biden Garfield-Reading Simulator | 176737 | [176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json](./176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bienvenue au club Tom-Tom et Nana | 379190 | [379190-bienvenue-au-club-tom-tom-et-nana.json](./379190-bienvenue-au-club-tom-tom-et-nana.json) |
@@ -14351,6 +14353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
 | Bro YuanShen Survivors | 292481 | [292481-bro-yuanshen-survivors.json](./292481-bro-yuanshen-survivors.json) |
 | Bro, Where's My Head? | 151445 | [151445-bro-wheres-my-head.json](./151445-bro-wheres-my-head.json) |
+| Broad City High Score | 99352 | [99352-broad-city-high-score.json](./99352-broad-city-high-score.json) |
 | Broad Daylight | 319289 | [319289-broad-daylight.json](./319289-broad-daylight.json) |
 | Broad Sword | 270000 | [270000-broad-sword.json](./270000-broad-sword.json) |
 | Broadband Architect | 421849 | [421849-broadband-architect.json](./421849-broadband-architect.json) |
