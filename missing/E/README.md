@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf | 12061 | [12061-elf.json](./12061-elf.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
 | Elf Adventure: The Lost Castle | 344553 | [344553-elf-adventure-the-lost-castle.json](./344553-elf-adventure-the-lost-castle.json) |
+| Elf Bowling 3 | 71862 | [71862-elf-bowling-3.json](./71862-elf-bowling-3.json) |
 | Elf Bowling 6: Air Biscuits | 71801 | [71801-elf-bowling-6-air-biscuits.json](./71801-elf-bowling-6-air-biscuits.json) |
 | Elf Bowling 7 1/7: The Last Insult | 56539 | [56539-elf-bowling-7-1-7-the-last-insult.json](./56539-elf-bowling-7-1-7-the-last-insult.json) |
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
 | Enkai Buchou | 293146 | [293146-enkai-buchou.json](./293146-enkai-buchou.json) |
 | Enkai Buchou 2 | 293176 | [293176-enkai-buchou-2.json](./293176-enkai-buchou-2.json) |
+| Enkaku Sousa: Sanahe no 23 Hiai | 71882 | [71882-enkaku-sousa-sanahe-no-23-hiai.json](./71882-enkaku-sousa-sanahe-no-23-hiai.json) |
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enkate | 297090 | [297090-enkate.json](./297090-enkate.json) |
 | Enkeltbillet | 213890 | [213890-enkeltbillet.json](./213890-enkeltbillet.json) |
@@ -7458,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Bike X | 213142 | [213142-extreme-bike-x.json](./213142-extreme-bike-x.json) |
 | Extreme Bikers | 234473 | [234473-extreme-bikers.json](./234473-extreme-bikers.json) |
+| Extreme Bullrider | 71846 | [71846-extreme-bullrider.json](./71846-extreme-bullrider.json) |
 | Extreme Bus Driver 2024 | 261401 | [261401-extreme-bus-driver-2024.json](./261401-extreme-bus-driver-2024.json) |
 | Extreme Bus Driver Simulator | 261763 | [261763-extreme-bus-driver-simulator.json](./261763-extreme-bus-driver-simulator.json) |
 | Extreme Car Drift Simulator | 234197 | [234197-extreme-car-drift-simulator.json](./234197-extreme-car-drift-simulator.json) |
