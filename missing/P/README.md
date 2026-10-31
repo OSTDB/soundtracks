@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panacle: Back to Wild | 190177 | [190177-panacle-back-to-wild.json](./190177-panacle-back-to-wild.json) |
 | Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
 | Panama Canal Clash | 367547 | [367547-panama-canal-clash.json](./367547-panama-canal-clash.json) |
+| Panama Joe | 93302 | [93302-panama-joe.json](./93302-panama-joe.json) |
 | Panasonic Prime Smash! | 340350 | [340350-panasonic-prime-smash.json](./340350-panasonic-prime-smash.json) |
 | Pancake | 305467 | [305467-pancake.json](./305467-pancake.json) |
 | Pancake Bar Tycoon | 147152 | [147152-pancake-bar-tycoon.json](./147152-pancake-bar-tycoon.json) |
@@ -5245,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phozon | 38745 | [38745-phozon.json](./38745-phozon.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
+| Phrase Master | 93332 | [93332-phrase-master.json](./93332-phrase-master.json) |
 | Phrase Party! | 95916 | [95916-phrase-party.json](./95916-phrase-party.json) |
 | Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
@@ -5990,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim | 85593 | [85593-pilgrim.json](./85593-pilgrim.json) |
 | Pilgrim Adventures Complete | 53459 | [53459-pilgrim-adventures-complete.json](./53459-pilgrim-adventures-complete.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
+| Pilgrim Quest | 93320 | [93320-pilgrim-quest.json](./93320-pilgrim-quest.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
 | Pilgrim: Unto Shadow | 385685 | [385685-pilgrim-unto-shadow.json](./385685-pilgrim-unto-shadow.json) |
 | Pilgrim's Peril | 277200 | [277200-pilgrims-peril.json](./277200-pilgrims-peril.json) |
@@ -8067,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
 | Pizza Delivery: The Game | 110019 | [110019-pizza-delivery-the-game.json](./110019-pizza-delivery-the-game.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
+| Pizza Dude | 93301 | [93301-pizza-dude.json](./93301-pizza-dude.json) |
 | Pizza Empire | 151104 | [151104-pizza-empire.json](./151104-pizza-empire.json) |
 | Pizza Empire | 394630 | [394630-pizza-empire.json](./394630-pizza-empire.json) |
 | Pizza Empire! | 172048 | [172048-pizza-empire.json](./172048-pizza-empire.json) |
@@ -9166,6 +9170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plot's 3 | 91538 | [91538-plots-3.json](./91538-plots-3.json) |
 | Plotonium Destructive Edge X: Wings of Solitude | 362227 | [362227-plotonium-destructive-edge-x-wings-of-solitude.json](./362227-plotonium-destructive-edge-x-wings-of-solitude.json) |
 | Plotonium Explosive Smasher DX: Machine Slayer - Oh Yes! Edition | 362226 | [362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json](./362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json) |
+| Plots! 2 | 93336 | [93336-plots-2.json](./93336-plots-2.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plotwords | 394116 | [394116-plotwords.json](./394116-plotwords.json) |
 | Plover | 180432 | [180432-plover.json](./180432-plover.json) |
@@ -12437,6 +12442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
 | Powerplay Tennis | 394436 | [394436-powerplay-tennis.json](./394436-powerplay-tennis.json) |
+| Powerplay-Xtra | 93296 | [93296-powerplay-xtra.json](./93296-powerplay-xtra.json) |
 | Powerpuff Girls D: Battle in Megaville | 194875 | [194875-powerpuff-girls-d-battle-in-megaville.json](./194875-powerpuff-girls-d-battle-in-megaville.json) |
 | Powerpuff Girls: Bad Mojo Jojo | 3246 | [3246-powerpuff-girls-bad-mojo-jojo.json](./3246-powerpuff-girls-bad-mojo-jojo.json) |
 | Powerpuff Girls: Gamesville | 8007 | [8007-powerpuff-girls-gamesville.json](./8007-powerpuff-girls-gamesville.json) |
@@ -15280,6 +15286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
 | Psikyo Shooting Stars Bravo: Limited Edition | 136265 | [136265-psikyo-shooting-stars-bravo-limited-edition.json](./136265-psikyo-shooting-stars-bravo-limited-edition.json) |
 | Psikyo: Shooting Library Vol. 2 | 136951 | [136951-psikyo-shooting-library-vol-2.json](./136951-psikyo-shooting-library-vol-2.json) |
+| Psion Chess | 93330 | [93330-psion-chess.json](./93330-psion-chess.json) |
 | Psion Protocol | 216938 | [216938-psion-protocol.json](./216938-psion-protocol.json) |
 | Psionic | 164092 | [164092-psionic.json](./164092-psionic.json) |
 | Psionic Awake | 235376 | [235376-psionic-awake.json](./235376-psionic-awake.json) |
