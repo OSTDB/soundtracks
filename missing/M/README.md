@@ -13530,6 +13530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo Ichigo | 116421 | [116421-momo-ichigo.json](./116421-momo-ichigo.json) |
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
 | Momo no Hana ha Senketsu ni Somaru | 246020 | [246020-momo-no-hana-ha-senketsu-ni-somaru.json](./246020-momo-no-hana-ha-senketsu-ni-somaru.json) |
+| Momo Pop | 109965 | [109965-momo-pop.json](./109965-momo-pop.json) |
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
