@@ -4971,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CFL Football '99 | 78671 | [78671-cfl-football-99.json](./78671-cfl-football-99.json) |
 | CFS: Chinese Football Simulator | 392087 | [392087-cfs-chinese-football-simulator.json](./392087-cfs-chinese-football-simulator.json) |
 | CG Mukashi Banashi: Jiisan 2-do Bikkuri!! | 346144 | [346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json](./346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json) |
+| CG the Seven Virus Knights | 76313 | [76313-cg-the-seven-virus-knights.json](./76313-cg-the-seven-virus-knights.json) |
 | CGA Pumpkin Carver | 179741 | [179741-cga-pumpkin-carver.json](./179741-cga-pumpkin-carver.json) |
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
 | CGI: The Game | 234075 | [234075-cgi-the-game.json](./234075-cgi-the-game.json) |
@@ -14576,6 +14577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting Mama | 47810 | [47810-crafting-mama.json](./47810-crafting-mama.json) |
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
+| Crafting Tycoon | 76298 | [76298-crafting-tycoon.json](./76298-crafting-tycoon.json) |
 | Craftlings | 324569 | [324569-craftlings.json](./324569-craftlings.json) |
 | Craftmas | 105981 | [105981-craftmas.json](./105981-craftmas.json) |
 | Craftomation 101 | 184890 | [184890-craftomation-101.json](./184890-craftomation-101.json) |
