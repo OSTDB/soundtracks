@@ -1766,7 +1766,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Hana no Momoko Gumi | 57595 | [57595-mahjong-hana-no-momoko-gumi.json](./57595-mahjong-hana-no-momoko-gumi.json) |
 | Mahjong Hanjouki | 37938 | [37938-mahjong-hanjouki.json](./37938-mahjong-hanjouki.json) |
 | Mahjong Haoh Dan-kyu Battle 3 | 194776 | [194776-mahjong-haoh-dan-kyu-battle-3.json](./194776-mahjong-haoh-dan-kyu-battle-3.json) |
+| Mahjong Haoh: Battle Royale | 123220 | [123220-mahjong-haoh-battle-royale.json](./123220-mahjong-haoh-battle-royale.json) |
 | Mahjong Haoh: Dankyuu Battle II | 204352 | [204352-mahjong-haoh-dankyuu-battle-ii.json](./204352-mahjong-haoh-dankyuu-battle-ii.json) |
+| Mahjong Haoh: Jansou Battle | 123221 | [123221-mahjong-haoh-jansou-battle.json](./123221-mahjong-haoh-jansou-battle.json) |
+| Mahjong Haoh: Kaikyuu Battle | 123222 | [123222-mahjong-haoh-kaikyuu-battle.json](./123222-mahjong-haoh-kaikyuu-battle.json) |
+| Mahjong Haoh: Shinken Battle | 123219 | [123219-mahjong-haoh-shinken-battle.json](./123219-mahjong-haoh-shinken-battle.json) |
+| Mahjong Haoh: Taikai Battle | 123223 | [123223-mahjong-haoh-taikai-battle.json](./123223-mahjong-haoh-taikai-battle.json) |
 | Mahjong Haouden: Kaiser's Quest | 38098 | [38098-mahjong-haouden-kaisers-quest.json](./38098-mahjong-haouden-kaisers-quest.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
 | Mahjong Hot Gimmick Integral | 137932 | [137932-mahjong-hot-gimmick-integral.json](./137932-mahjong-hot-gimmick-integral.json) |
@@ -6561,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bloks: First Builders | 60838 | [60838-mega-bloks-first-builders.json](./60838-mega-bloks-first-builders.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
+| Mega Box | 123213 | [123213-mega-box.json](./123213-mega-box.json) |
 | Mega Brain Boost | 94017 | [94017-mega-brain-boost.json](./94017-mega-brain-boost.json) |
 | Mega Brain Switch | 230699 | [230699-mega-brain-switch.json](./230699-mega-brain-switch.json) |
 | Mega Bundle 15-in-1 | 401132 | [401132-mega-bundle-15-in-1.json](./401132-mega-bundle-15-in-1.json) |
@@ -9564,6 +9570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microfisher | 346914 | [346914-microfisher.json](./346914-microfisher.json) |
 | Microgames Jam Pack | 267222 | [267222-microgames-jam-pack.json](./267222-microgames-jam-pack.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
+| Microgravity | 123224 | [123224-microgravity.json](./123224-microgravity.json) |
 | MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
 | Microids Indie Bundle | 247359 | [247359-microids-indie-bundle.json](./247359-microids-indie-bundle.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
@@ -16419,6 +16426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out: Movers in Paradise | 143880 | [143880-moving-out-movers-in-paradise.json](./143880-moving-out-movers-in-paradise.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
 | Moving Simulator | 346719 | [346719-moving-simulator.json](./346719-moving-simulator.json) |
+| Moving Stories | 123195 | [123195-moving-stories.json](./123195-moving-stories.json) |
 | Moving Through Life | 238476 | [238476-moving-through-life.json](./238476-moving-through-life.json) |
 | Moving with the Moon: Mastering Universal Gravitation! | 382891 | [382891-moving-with-the-moon-mastering-universal-gravitation.json](./382891-moving-with-the-moon-mastering-universal-gravitation.json) |
 | Movit | 89651 | [89651-movit.json](./89651-movit.json) |
@@ -16852,6 +16860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Wise | 236844 | [236844-mr-wise.json](./236844-mr-wise.json) |
 | MrBeast: TeamSeas | 228316 | [228316-mrbeast-teamseas.json](./228316-mrbeast-teamseas.json) |
 | MRC: Multi-Racing Championship | 3544 | [3544-mrc-multi-racing-championship.json](./3544-mrc-multi-racing-championship.json) |
+| MRC6-454 | 123241 | [123241-mrc6-454.json](./123241-mrc6-454.json) |
 | MrClean.exe | 249097 | [249097-mrclean-exe.json](./249097-mrclean-exe.json) |
 | MrFox | 207770 | [207770-mrfox.json](./207770-mrfox.json) |
 | MRG: Matando Robôs Gigantes - O Jogo | 346776 | [346776-mrg-matando-robos-gigantes-o-jogo.json](./346776-mrg-matando-robos-gigantes-o-jogo.json) |
@@ -17402,6 +17411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder, She Wrote | 67185 | [67185-murder-she-wrote.json](./67185-murder-she-wrote.json) |
 | Murder... | 51772 | [51772-murder.json](./51772-murder.json) |
 | Murder&Spies | 326097 | [326097-murder-and-spies.json](./326097-murder-and-spies.json) |
+| Murdercide 2017 | 123212 | [123212-murdercide-2017.json](./123212-murdercide-2017.json) |
 | Murdered by Midnight | 174241 | [174241-murdered-by-midnight.json](./174241-murdered-by-midnight.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderlings | 305834 | [305834-murderlings.json](./305834-murderlings.json) |
