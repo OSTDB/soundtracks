@@ -869,7 +869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4697,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat of the Pixel Heat | 248833 | [248833-beat-of-the-pixel-heat.json](./248833-beat-of-the-pixel-heat.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
 | Beat Planet Music | 98807 | [98807-beat-planet-music.json](./98807-beat-planet-music.json) |
+| Beat Racer | 104989 | [104989-beat-racer.json](./104989-beat-racer.json) |
 | Beat Reality | 166924 | [166924-beat-reality.json](./166924-beat-reality.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
 | Beat Rhythm Fever | 350608 | [350608-beat-rhythm-fever.json](./350608-beat-rhythm-fever.json) |
@@ -10280,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
 | Bloody Rust | 315537 | [315537-bloody-rust.json](./315537-bloody-rust.json) |
 | Bloody Rust 2 | 315538 | [315538-bloody-rust-2.json](./315538-bloody-rust-2.json) |
+| Bloody sand | 104948 | [104948-bloody-sand.json](./104948-bloody-sand.json) |
 | Bloody Sand: The Gods Of Assyria | 150476 | [150476-bloody-sand-the-gods-of-assyria.json](./150476-bloody-sand-the-gods-of-assyria.json) |
 | Bloody Service | 155948 | [155948-bloody-service.json](./155948-bloody-service.json) |
 | Bloody Shrine | 284019 | [284019-bloody-shrine.json](./284019-bloody-shrine.json) |
@@ -11735,6 +11736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Boobs vs Aliens | 229234 | [229234-boobs-vs-aliens.json](./229234-boobs-vs-aliens.json) |
 | Boobs vs Zombies | 114292 | [114292-boobs-vs-zombies.json](./114292-boobs-vs-zombies.json) |
+| Boobserman | 104950 | [104950-boobserman.json](./104950-boobserman.json) |
 | Boobsle | 284269 | [284269-boobsle.json](./284269-boobsle.json) |
 | Booby and the Booby Trap | 121279 | [121279-booby-and-the-booby-trap.json](./121279-booby-and-the-booby-trap.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
