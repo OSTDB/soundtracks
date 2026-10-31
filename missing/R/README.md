@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally One: Race to Glory | 297518 | [297518-rally-one-race-to-glory.json](./297518-rally-one-race-to-glory.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
+| Rally Pop | 65313 | [65313-rally-pop.json](./65313-rally-pop.json) |
 | Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
 | Rally Race Car Simulator Poly: World Driver Arcade Real Driving Games Sim | 242016 | [242016-rally-race-car-simulator-poly-world-driver-arcade-real-driving-games-sim.json](./242016-rally-race-car-simulator-poly-world-driver-arcade-real-driving-games-sim.json) |
 | Rally Race: Offroad Simulator | 277727 | [277727-rally-race-offroad-simulator.json](./277727-rally-race-offroad-simulator.json) |
