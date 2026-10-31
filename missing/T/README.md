@@ -8053,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanted Cave 2 | 13674 | [13674-the-enchanted-cave-2.json](./13674-the-enchanted-cave-2.json) |
 | The Enchanted Kingdom: Elisa's Adventure | 54440 | [54440-the-enchanted-kingdom-elisas-adventure.json](./54440-the-enchanted-kingdom-elisas-adventure.json) |
 | The Enchanted Turnabout | 306619 | [306619-the-enchanted-turnabout.json](./306619-the-enchanted-turnabout.json) |
+| The Enchanted World | 95070 | [95070-the-enchanted-world.json](./95070-the-enchanted-world.json) |
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
 | The Enchanted Worlds 2 | 238917 | [238917-the-enchanted-worlds-2.json](./238917-the-enchanted-worlds-2.json) |
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
@@ -9346,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Escape | 28852 | [28852-the-great-escape.json](./28852-the-great-escape.json) |
 | The Great Escape | 310406 | [310406-the-great-escape.json](./310406-the-great-escape.json) |
 | The Great Escape | 5853 | [5853-the-great-escape.json](./5853-the-great-escape.json) |
+| The Great Fantasy Struggle | 95150 | [95150-the-great-fantasy-struggle.json](./95150-the-great-fantasy-struggle.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
 | The Great Fleece | 315914 | [315914-the-great-fleece.json](./315914-the-great-fleece.json) |
@@ -12289,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Main Menu | 418516 | [418516-the-main-menu.json](./418516-the-main-menu.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
+| The Majesty of Colors Remastered | 95084 | [95084-the-majesty-of-colors-remastered.json](./95084-the-majesty-of-colors-remastered.json) |
 | The Majors Pro Baseball | 45795 | [45795-the-majors-pro-baseball.json](./45795-the-majors-pro-baseball.json) |
 | The Maker of Masks | 323561 | [323561-the-maker-of-masks.json](./323561-the-maker-of-masks.json) |
 | The Maker Way | 392267 | [392267-the-maker-way.json](./392267-the-maker-way.json) |
@@ -24499,6 +24502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
 | Tower Empire Builder | 127096 | [127096-tower-empire-builder.json](./127096-tower-empire-builder.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
+| Tower Expanse | 95146 | [95146-tower-expanse.json](./95146-tower-expanse.json) |
 | Tower Factory | 278248 | [278248-tower-factory.json](./278248-tower-factory.json) |
 | Tower Fall | 211643 | [211643-tower-fall.json](./211643-tower-fall.json) |
 | Tower Field | 302328 | [302328-tower-field.json](./302328-tower-field.json) |
