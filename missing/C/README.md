@@ -8106,6 +8106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirno's Perfect Summer Vacation | 127713 | [127713-cirnos-perfect-summer-vacation.json](./127713-cirnos-perfect-summer-vacation.json) |
 | Cirno's Strongest Shaved Ice Operation! | 204248 | [204248-cirnos-strongest-shaved-ice-operation.json](./204248-cirnos-strongest-shaved-ice-operation.json) |
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
+| Cirque de Zale | 93327 | [93327-cirque-de-zale.json](./93327-cirque-de-zale.json) |
 | Cirque des Animaux | 383080 | [383080-cirque-des-animaux.json](./383080-cirque-des-animaux.json) |
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
 | Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
@@ -9476,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Evolution | 317060 | [317060-clone-evolution.json](./317060-clone-evolution.json) |
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
+| Clone Invader | 93333 | [93333-clone-invader.json](./93333-clone-invader.json) |
 | Clone Knights | 270527 | [270527-clone-knights.json](./270527-clone-knights.json) |
 | Clone Ranger | 242714 | [242714-clone-ranger.json](./242714-clone-ranger.json) |
 | Clone War | 295290 | [295290-clone-war.json](./295290-clone-war.json) |
@@ -10712,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony | 387083 | [387083-colony.json](./387083-colony.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
+| Colony 28 | 93315 | [93315-colony-28.json](./93315-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
 | Colony 7 | 281286 | [281286-colony-7.json](./281286-colony-7.json) |
 | Colony 7 | 8398 | [8398-colony-7.json](./8398-colony-7.json) |
@@ -10746,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color a Ninja | 199209 | [199209-color-a-ninja.json](./199209-color-a-ninja.json) |
 | Color Assembler | 35241 | [35241-color-assembler.json](./35241-color-assembler.json) |
 | Color Attack! | 410095 | [410095-color-attack.json](./410095-color-attack.json) |
+| Color Backgammon | 93328 | [93328-color-backgammon.json](./93328-color-backgammon.json) |
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
 | Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
@@ -15359,6 +15363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures After Calamity | 291517 | [291517-creatures-after-calamity.json](./291517-creatures-after-calamity.json) |
 | Creatures Alchemist | 97971 | [97971-creatures-alchemist.json](./97971-creatures-alchemist.json) |
 | Creatures by Candlelight | 262952 | [262952-creatures-by-candlelight.json](./262952-creatures-by-candlelight.json) |
+| Creatures Deluxe | 93312 | [93312-creatures-deluxe.json](./93312-creatures-deluxe.json) |
 | Creatures Exodus | 11279 | [11279-creatures-exodus.json](./11279-creatures-exodus.json) |
 | Creatures Family | 97970 | [97970-creatures-family.json](./97970-creatures-family.json) |
 | Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
@@ -16227,6 +16232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
 | Crossword | 271687 | [271687-crossword.json](./271687-crossword.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
+| Crossword | 93289 | [93289-crossword.json](./93289-crossword.json) |
 | Crossword AI | 417451 | [417451-crossword-ai.json](./417451-crossword-ai.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
 | Crossword City Chronicles | 166001 | [166001-crossword-city-chronicles.json](./166001-crossword-city-chronicles.json) |
