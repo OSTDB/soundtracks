@@ -8621,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Acrimony | 114222 | [114222-blade-of-acrimony.json](./114222-blade-of-acrimony.json) |
 | Blade of Agony | 146593 | [146593-blade-of-agony.json](./146593-blade-of-agony.json) |
+| Blade of Arena | 105644 | [105644-blade-of-arena.json](./105644-blade-of-arena.json) |
 | Blade of Chaos | 361454 | [361454-blade-of-chaos.json](./361454-blade-of-chaos.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Darkness | 173433 | [173433-blade-of-darkness.json](./173433-blade-of-darkness.json) |
@@ -9173,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
 | Blind and Schizophrenic | 242965 | [242965-blind-and-schizophrenic.json](./242965-blind-and-schizophrenic.json) |
+| Blind Bird | 105605 | [105605-blind-bird.json](./105605-blind-bird.json) |
 | Blind Blades | 31461 | [31461-blind-blades.json](./31461-blind-blades.json) |
 | Blind Bluff | 391527 | [391527-blind-bluff.json](./391527-blind-bluff.json) |
 | Blind Boris | 84061 | [84061-blind-boris.json](./84061-blind-boris.json) |
