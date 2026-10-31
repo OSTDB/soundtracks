@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valerosa | 264192 | [264192-valerosa.json](./264192-valerosa.json) |
 | Valet Hero | 65437 | [65437-valet-hero.json](./65437-valet-hero.json) |
 | Valet Parking 1989 | 85472 | [85472-valet-parking-1989.json](./85472-valet-parking-1989.json) |
+| Valet Parking Inc. | 91649 | [91649-valet-parking-inc.json](./91649-valet-parking-inc.json) |
 | Valete vos viatores | 212914 | [212914-valete-vos-viatores.json](./212914-valete-vos-viatores.json) |
 | Valfaris | 37145 | [37145-valfaris.json](./37145-valfaris.json) |
 | Valfaris & Slain Double Pack | 147826 | [147826-valfaris-and-slain-double-pack.json](./147826-valfaris-and-slain-double-pack.json) |
