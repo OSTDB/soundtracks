@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Champions | 344869 | [344869-castle-champions.json](./344869-castle-champions.json) |
 | Castle Chaos | 139156 | [139156-castle-chaos.json](./139156-castle-chaos.json) |
 | Castle Chase | 60935 | [60935-castle-chase.json](./60935-castle-chase.json) |
+| Castle Clamber | 95152 | [95152-castle-clamber.json](./95152-castle-clamber.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
 | Castle Clicker | 67920 | [67920-castle-clicker.json](./67920-castle-clicker.json) |
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
@@ -11276,6 +11277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
 | Columbus Discovery | 78317 | [78317-columbus-discovery.json](./78317-columbus-discovery.json) |
 | Columbus: Ougon no Yoake | 48534 | [48534-columbus-ougon-no-yoake.json](./48534-columbus-ougon-no-yoake.json) |
+| Column Climbers | 95079 | [95079-column-climbers.json](./95079-column-climbers.json) |
 | Column Dodger | 263005 | [263005-column-dodger.json](./263005-column-dodger.json) |
 | Column on the Sea | 122186 | [122186-column-on-the-sea.json](./122186-column-on-the-sea.json) |
 | Column Taker | 114962 | [114962-column-taker.json](./114962-column-taker.json) |
