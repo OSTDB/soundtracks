@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginsei Igo 3D | 222301 | [222301-ginsei-igo-3d.json](./222301-ginsei-igo-3d.json) |
 | Ginsei Igo: AI Teaches You How to Play Go | 366974 | [366974-ginsei-igo-ai-teaches-you-how-to-play-go.json](./366974-ginsei-igo-ai-teaches-you-how-to-play-go.json) |
 | Ginsei Igo: Next Generation | 83454 | [83454-ginsei-igo-next-generation.json](./83454-ginsei-igo-next-generation.json) |
+| Ginsei Mahjong | 118555 | [118555-ginsei-mahjong.json](./118555-ginsei-mahjong.json) |
 | Ginsei Shogi 3D | 222200 | [222200-ginsei-shogi-3d.json](./222200-ginsei-shogi-3d.json) |
 | Ginsei Shogi Portable: Silver Star Japan Ginsei Shogi Series | 83428 | [83428-ginsei-shogi-portable-silver-star-japan-ginsei-shogi-series.json](./83428-ginsei-shogi-portable-silver-star-japan-ginsei-shogi-series.json) |
 | Ginsei Shogi: Aun Toushin Kongou Raizan | 219024 | [219024-ginsei-shogi-aun-toushin-kongou-raizan.json](./219024-ginsei-shogi-aun-toushin-kongou-raizan.json) |
@@ -8089,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregg: Tower Defence | 295858 | [295858-gregg-tower-defence.json](./295858-gregg-tower-defence.json) |
 | Grégoire Lefèbvre Investigations: The Vow of Hate | 390670 | [390670-gregoire-lefebvre-investigations-the-vow-of-hate.json](./390670-gregoire-lefebvre-investigations-the-vow-of-hate.json) |
 | Gregor | 244330 | [244330-gregor.json](./244330-gregor.json) |
+| Gregor Hills Haunted Hospital | 118604 | [118604-gregor-hills-haunted-hospital.json](./118604-gregor-hills-haunted-hospital.json) |
 | Gregor's Notebook | 253938 | [253938-gregors-notebook.json](./253938-gregors-notebook.json) |
 | Gregore | 145413 | [145413-gregore.json](./145413-gregore.json) |
 | Gregory & the Hot Air Balloon | 72932 | [72932-gregory-and-the-hot-air-balloon.json](./72932-gregory-and-the-hot-air-balloon.json) |
