@@ -15486,6 +15486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morraff's Mahjongg 2005: Luxury Edition | 209188 | [209188-morraffs-mahjongg-2005-luxury-edition.json](./209188-morraffs-mahjongg-2005-luxury-edition.json) |
 | Morrigan's Isle | 324876 | [324876-morrigans-isle.json](./324876-morrigans-isle.json) |
 | Morris Cave | 213448 | [213448-morris-cave.json](./213448-morris-cave.json) |
+| Morris Games | 87916 | [87916-morris-games.json](./87916-morris-games.json) |
 | Morris Meets the Bikers | 354594 | [354594-morris-meets-the-bikers.json](./354594-morris-meets-the-bikers.json) |
 | Morriton Manor Stories: Nordic Whispers | 311715 | [311715-morriton-manor-stories-nordic-whispers.json](./311715-morriton-manor-stories-nordic-whispers.json) |
 | Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
@@ -18482,6 +18483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Grade Fantasy Adventure | 266304 | [266304-my-first-grade-fantasy-adventure.json](./266304-my-first-grade-fantasy-adventure.json) |
 | My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
 | My First Horse: Adventures on Seahorse Island | 238478 | [238478-my-first-horse-adventures-on-seahorse-island.json](./238478-my-first-horse-adventures-on-seahorse-island.json) |
+| My First Money | 87920 | [87920-my-first-money.json](./87920-my-first-money.json) |
 | My First Music Workshop | 105693 | [105693-my-first-music-workshop.json](./105693-my-first-music-workshop.json) |
 | My First Quantum Translocator | 320248 | [320248-my-first-quantum-translocator.json](./320248-my-first-quantum-translocator.json) |
 | My First Songs | 84715 | [84715-my-first-songs.json](./84715-my-first-songs.json) |
@@ -19705,6 +19707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Miniaturist | 183266 | [183266-mystery-miniaturist.json](./183266-mystery-miniaturist.json) |
+| Mystery Mosaics | 87894 | [87894-mystery-mosaics.json](./87894-mystery-mosaics.json) |
 | Mystery Mosaics 2 | 91090 | [91090-mystery-mosaics-2.json](./91090-mystery-mosaics-2.json) |
 | Mystery Murders: Jack the Ripper | 84703 | [84703-mystery-murders-jack-the-ripper.json](./84703-mystery-murders-jack-the-ripper.json) |
 | Mystery Murders: The Sleeping Palace | 84702 | [84702-mystery-murders-the-sleeping-palace.json](./84702-mystery-murders-the-sleeping-palace.json) |
