@@ -6823,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Party | 223994 | [223994-number-party.json](./223994-number-party.json) |
 | Number Place 10000 | 114130 | [114130-number-place-10000.json](./114130-number-place-10000.json) |
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
+| Number Puzzle | 106250 | [106250-number-puzzle.json](./106250-number-puzzle.json) |
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
 | Number Raiders | 230442 | [230442-number-raiders.json](./230442-number-raiders.json) |
 | Number Shoot VR | 292249 | [292249-number-shoot-vr.json](./292249-number-shoot-vr.json) |
@@ -6901,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nunholy | 297164 | [297164-nunholy.json](./297164-nunholy.json) |
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
 | Nunya | 323414 | [323414-nunya.json](./323414-nunya.json) |
+| NuPa | 106285 | [106285-nupa.json](./106285-nupa.json) |
 | Nurarihyon no Mago: Hyakki Ryouran Taisen | 47426 | [47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json](./47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json) |
 | Nurbits | 41902 | [41902-nurbits.json](./41902-nurbits.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
