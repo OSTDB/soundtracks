@@ -5277,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager: Season 00/01 | 24170 | [24170-championship-manager-season-00-01.json](./24170-championship-manager-season-00-01.json) |
 | Championship Manager: Season 01/02 | 5769 | [5769-championship-manager-season-01-02.json](./5769-championship-manager-season-01-02.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
+| Championship Manager: Season 1999/2000 | 71378 | [71378-championship-manager-season-1999-2000.json](./71378-championship-manager-season-1999-2000.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 292793 | [292793-championship-motocross-2001-featuring-ricky-carmichael.json](./292793-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
@@ -10230,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
 | Coded Soul: Uketsugareshi Idea | 67801 | [67801-coded-soul-uketsugareshi-idea.json](./67801-coded-soul-uketsugareshi-idea.json) |
 | Coded Soul: Uketsunagareshi Idea | 254635 | [254635-coded-soul-uketsunagareshi-idea.json](./254635-coded-soul-uketsunagareshi-idea.json) |
+| Coded X-Word | 71375 | [71375-coded-x-word.json](./71375-coded-x-word.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
