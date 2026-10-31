@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cubes | 246346 | [246346-magic-cubes.json](./246346-magic-cubes.json) |
 | Magic Darts | 48182 | [48182-magic-darts.json](./48182-magic-darts.json) |
 | Magic Defense | 155571 | [155571-magic-defense.json](./155571-magic-defense.json) |
+| Magic Destiny | 63519 | [63519-magic-destiny.json](./63519-magic-destiny.json) |
 | Magic Disc Golf | 189309 | [189309-magic-disc-golf.json](./189309-magic-disc-golf.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
 | Magic Doom | 275430 | [275430-magic-doom.json](./275430-magic-doom.json) |
@@ -19604,6 +19605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrne: The Quest | 29551 | [29551-myrne-the-quest.json](./29551-myrne-the-quest.json) |
 | MyrnEscapes | 200033 | [200033-myrnescapes.json](./200033-myrnescapes.json) |
 | Myror i Brallan | 305867 | [305867-myror-i-brallan.json](./305867-myror-i-brallan.json) |
+| MyRoyalCorgi | 63517 | [63517-myroyalcorgi.json](./63517-myroyalcorgi.json) |
 | MyRPG | 54223 | [54223-myrpg.json](./54223-myrpg.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myrtle Grove: A Clair V. Mystery | 388271 | [388271-myrtle-grove-a-clair-v-mystery.json](./388271-myrtle-grove-a-clair-v-mystery.json) |
