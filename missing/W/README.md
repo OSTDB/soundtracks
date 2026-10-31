@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War for the Overworld: The Under Games | 124819 | [124819-war-for-the-overworld-the-under-games.json](./124819-war-for-the-overworld-the-under-games.json) |
 | War for the Overworld: Underlord Edition | 51782 | [51782-war-for-the-overworld-underlord-edition.json](./51782-war-for-the-overworld-underlord-edition.json) |
 | War For the Seas | 194454 | [194454-war-for-the-seas.json](./194454-war-for-the-seas.json) |
+| WAR for the White House | 109991 | [109991-war-for-the-white-house.json](./109991-war-for-the-white-house.json) |
 | War From Above | 409394 | [409394-war-from-above.json](./409394-war-from-above.json) |
 | War Front: Turning Point | 21239 | [21239-war-front-turning-point.json](./21239-war-front-turning-point.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
@@ -1968,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartide | 389671 | [389671-wartide.json](./389671-wartide.json) |
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
 | Wartile | 18185 | [18185-wartile.json](./18185-wartile.json) |
+| Wartime X | 109992 | [109992-wartime-x.json](./109992-wartime-x.json) |
 | Wartop | 285922 | [285922-wartop.json](./285922-wartop.json) |
 | Wartorn | 328003 | [328003-wartorn.json](./328003-wartorn.json) |
 | WarTorn | 179473 | [179473-wartorn.json](./179473-wartorn.json) |
@@ -6721,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woon | 315253 | [315253-woon.json](./315253-woon.json) |
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
+| Wooparoopang | 109989 | [109989-wooparoopang.json](./109989-wooparoopang.json) |
 | Wooper no Juggling Game | 354236 | [354236-wooper-no-juggling-game.json](./354236-wooper-no-juggling-game.json) |
 | Woorld | 25867 | [25867-woorld.json](./25867-woorld.json) |
 | WoozyHero | 120739 | [120739-woozyhero.json](./120739-woozyhero.json) |
