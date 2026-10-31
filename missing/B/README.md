@@ -5610,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
 | Bella Sara | 269570 | [269570-bella-sara.json](./269570-bella-sara.json) |
 | Bella Sara 2: The Magic of Drasilmare | 84987 | [84987-bella-sara-2-the-magic-of-drasilmare.json](./84987-bella-sara-2-the-magic-of-drasilmare.json) |
+| Bella Sara: The Magical Horse Adventures | 92766 | [92766-bella-sara-the-magical-horse-adventures.json](./92766-bella-sara-the-magical-horse-adventures.json) |
 | Bella Wants Blood | 302981 | [302981-bella-wants-blood.json](./302981-bella-wants-blood.json) |
 | Bella-Anna's Head | 376554 | [376554-bella-annas-head.json](./376554-bella-annas-head.json) |
 | Bella: The girl in the Woods | 148836 | [148836-bella-the-girl-in-the-woods.json](./148836-bella-the-girl-in-the-woods.json) |
@@ -14380,6 +14381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix II Deluxe | 148451 | [148451-brix-ii-deluxe.json](./148451-brix-ii-deluxe.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
+| Brixout XP | 92788 | [92788-brixout-xp.json](./92788-brixout-xp.json) |
 | Bro YuanShen Survivors | 292481 | [292481-bro-yuanshen-survivors.json](./292481-bro-yuanshen-survivors.json) |
 | Bro, Where's My Head? | 151445 | [151445-bro-wheres-my-head.json](./151445-bro-wheres-my-head.json) |
 | Broad City High Score | 99352 | [99352-broad-city-high-score.json](./99352-broad-city-high-score.json) |
