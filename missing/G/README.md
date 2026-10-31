@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
+| Game Show Wizard | 70167 | [70167-game-show-wizard.json](./70167-game-show-wizard.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
 | Game Soup | 112966 | [112966-game-soup.json](./112966-game-soup.json) |
 | Game Stock Car | 63211 | [63211-game-stock-car.json](./63211-game-stock-car.json) |
@@ -10094,6 +10095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Blazing | 157370 | [157370-guns-blazing.json](./157370-guns-blazing.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
+| Guns Girls Lawyers Spies | 70254 | [70254-guns-girls-lawyers-spies.json](./70254-guns-girls-lawyers-spies.json) |
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
 | Guns N Stuff | 149890 | [149890-guns-n-stuff.json](./149890-guns-n-stuff.json) |
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
