@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Forest Simulator | 86924 | [86924-ultimate-forest-simulator.json](./86924-ultimate-forest-simulator.json) |
 | Ultimate Fort Night Survival: Royale Battle | 100906 | [100906-ultimate-fort-night-survival-royale-battle.json](./100906-ultimate-fort-night-survival-royale-battle.json) |
 | Ultimate Fox Simulator 2 | 406643 | [406643-ultimate-fox-simulator-2.json](./406643-ultimate-fox-simulator-2.json) |
+| Ultimate FPS | 114670 | [114670-ultimate-fps.json](./114670-ultimate-fps.json) |
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
 | Ultimate Frolf Chaos! | 394409 | [394409-ultimate-frolf-chaos.json](./394409-ultimate-frolf-chaos.json) |
 | Ultimate Front | 255142 | [255142-ultimate-front.json](./255142-ultimate-front.json) |
