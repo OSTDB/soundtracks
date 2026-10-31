@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanhorn 3: Legend of the Shadow Sea | 391260 | [391260-oceanhorn-3-legend-of-the-shadow-sea.json](./391260-oceanhorn-3-legend-of-the-shadow-sea.json) |
 | Oceanhorn: Chronos Dungeon | 142346 | [142346-oceanhorn-chronos-dungeon.json](./142346-oceanhorn-chronos-dungeon.json) |
 | Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
+| Oceania: Sea Animals Kids Story, Coloring & Games | 95108 | [95108-oceania-sea-animals-kids-story-coloring-and-games.json](./95108-oceania-sea-animals-kids-story-coloring-and-games.json) |
 | Oceanic Discoveries Duo | 271830 | [271830-oceanic-discoveries-duo.json](./271830-oceanic-discoveries-duo.json) |
 | Oceanides of the World's End: Legend of the Big-breasted Swimsuit Beauty Guardian | 344556 | [344556-oceanides-of-the-worlds-end-legend-of-the-big-breasted-swimsuit-beauty-guardian.json](./344556-oceanides-of-the-worlds-end-legend-of-the-big-breasted-swimsuit-beauty-guardian.json) |
 | Oceanlust: Erotic Descent | 309912 | [309912-oceanlust-erotic-descent.json](./309912-oceanlust-erotic-descent.json) |
@@ -532,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus Invasion | 395160 | [395160-octopus-invasion.json](./395160-octopus-invasion.json) |
 | Octopus Island | 265513 | [265513-octopus-island.json](./265513-octopus-island.json) |
 | Octopus Stressus | 312223 | [312223-octopus-stressus.json](./312223-octopus-stressus.json) |
+| Octopus Survival Simulator | 95104 | [95104-octopus-survival-simulator.json](./95104-octopus-survival-simulator.json) |
 | Octopus Trouble | 255145 | [255145-octopus-trouble.json](./255145-octopus-trouble.json) |
 | Octopuz | 265748 | [265748-octopuz.json](./265748-octopuz.json) |
 | OctoQuest | 165756 | [165756-octoquest.json](./165756-octoquest.json) |
@@ -4594,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Cube | 219626 | [219626-out-of-the-cube.json](./219626-out-of-the-cube.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
+| Out of the Loop | 95085 | [95085-out-of-the-loop.json](./95085-out-of-the-loop.json) |
 | Out of the Mist | 259121 | [259121-out-of-the-mist.json](./259121-out-of-the-mist.json) |
 | Out of the Ocean | 370075 | [370075-out-of-the-ocean.json](./370075-out-of-the-ocean.json) |
 | Out of the Ordinary | 351774 | [351774-out-of-the-ordinary.json](./351774-out-of-the-ordinary.json) |
