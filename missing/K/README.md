@@ -3386,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman: Dirty Challenger | 44412 | [44412-kinnikuman-dirty-challenger.json](./44412-kinnikuman-dirty-challenger.json) |
 | Kinnikuman: Kinniku-sei Oui Soudatsusen | 41324 | [41324-kinnikuman-kinniku-sei-oui-soudatsusen.json](./41324-kinnikuman-kinniku-sei-oui-soudatsusen.json) |
 | Kinnikuman: Muscle Generations | 65998 | [65998-kinnikuman-muscle-generations.json](./65998-kinnikuman-muscle-generations.json) |
+| Kinnikuman: Muscle Grand Prix Max | 77043 | [77043-kinnikuman-muscle-grand-prix-max.json](./77043-kinnikuman-muscle-grand-prix-max.json) |
 | Kinnikuman: Muscle Shot | 60595 | [60595-kinnikuman-muscle-shot.json](./60595-kinnikuman-muscle-shot.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
@@ -3939,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
 | Klitter | 390473 | [390473-klitter.json](./390473-klitter.json) |
+| Klix 2 | 77037 | [77037-klix-2.json](./77037-klix-2.json) |
 | Kloa: Child of the Forest | 209916 | [209916-kloa-child-of-the-forest.json](./209916-kloa-child-of-the-forest.json) |
 | Klocki | 20472 | [20472-klocki.json](./20472-klocki.json) |
 | Kloinks! | 335051 | [335051-kloinks.json](./335051-kloinks.json) |
