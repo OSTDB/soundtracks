@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Elite Action: Fields of Glory | 5978 | [5978-panzer-elite-action-fields-of-glory.json](./5978-panzer-elite-action-fields-of-glory.json) |
 | Panzer Elite: Special Edition | 51857 | [51857-panzer-elite-special-edition.json](./51857-panzer-elite-special-edition.json) |
 | Panzer Front | 22008 | [22008-panzer-front.json](./22008-panzer-front.json) |
+| Panzer Geekz | 106252 | [106252-panzer-geekz.json](./106252-panzer-geekz.json) |
 | Panzer General 3D Assault | 51856 | [51856-panzer-general-3d-assault.json](./51856-panzer-general-3d-assault.json) |
 | Panzer General III: Scorched Earth | 24154 | [24154-panzer-general-iii-scorched-earth.json](./24154-panzer-general-iii-scorched-earth.json) |
 | Panzer Girls | 203801 | [203801-panzer-girls.json](./203801-panzer-girls.json) |
@@ -4460,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Rabbit's Number Garden | 208865 | [208865-peter-rabbits-number-garden.json](./208865-peter-rabbits-number-garden.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter Talisman: Lord of the Harvest | 182257 | [182257-peter-talisman-lord-of-the-harvest.json](./182257-peter-talisman-lord-of-the-harvest.json) |
+| Peter World | 106282 | [106282-peter-world.json](./106282-peter-world.json) |
 | Peter's Adventures in English | 315455 | [315455-peters-adventures-in-english.json](./315455-peters-adventures-in-english.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's Day Out | 165366 | [165366-peters-day-out.json](./165366-peters-day-out.json) |
@@ -16480,6 +16482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Slitherlink | 225476 | [225476-puzzle-by-nikoli-w-slitherlink.json](./225476-puzzle-by-nikoli-w-slitherlink.json) |
 | Puzzle by Nikoli W Yajilin | 251395 | [251395-puzzle-by-nikoli-w-yajilin.json](./251395-puzzle-by-nikoli-w-yajilin.json) |
 | Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
+| Puzzle by Nikoli X: Sudoku | 106260 | [106260-puzzle-by-nikoli-x-sudoku.json](./106260-puzzle-by-nikoli-x-sudoku.json) |
 | Puzzle Cafe VR | 159780 | [159780-puzzle-cafe-vr.json](./159780-puzzle-cafe-vr.json) |
 | Puzzle Castle | 209373 | [209373-puzzle-castle.json](./209373-puzzle-castle.json) |
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
