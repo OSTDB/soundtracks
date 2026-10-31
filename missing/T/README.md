@@ -12271,6 +12271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School | 407103 | [407103-the-magic-school.json](./407103-the-magic-school.json) |
 | The Magic School Bus Explores Bugs | 70312 | [70312-the-magic-school-bus-explores-bugs.json](./70312-the-magic-school-bus-explores-bugs.json) |
 | The Magic School Bus Explores in the Age of Dinosaurs | 70456 | [70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json](./70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json) |
+| The Magic School Bus Explores the Human Body | 79495 | [79495-the-magic-school-bus-explores-the-human-body.json](./79495-the-magic-school-bus-explores-the-human-body.json) |
 | The Magic School Bus Explores the Ocean | 138253 | [138253-the-magic-school-bus-explores-the-ocean.json](./138253-the-magic-school-bus-explores-the-ocean.json) |
 | The Magic School Bus Explores the Rainforest | 66752 | [66752-the-magic-school-bus-explores-the-rainforest.json](./66752-the-magic-school-bus-explores-the-rainforest.json) |
 | The Magic School Bus Explores the Solar System | 67659 | [67659-the-magic-school-bus-explores-the-solar-system.json](./67659-the-magic-school-bus-explores-the-solar-system.json) |
@@ -22436,6 +22437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Babel | 11653 | [11653-tokyo-babel.json](./11653-tokyo-babel.json) |
 | Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
 | Tokyo Bus Guide | 72903 | [72903-tokyo-bus-guide.json](./72903-tokyo-bus-guide.json) |
+| Tokyo Bus Guide 2 | 79635 | [79635-tokyo-bus-guide-2.json](./79635-tokyo-bus-guide-2.json) |
 | Tokyo Butouhen OVA Ban | 416329 | [416329-tokyo-butouhen-ova-ban.json](./416329-tokyo-butouhen-ova-ban.json) |
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
 | Tokyo Chronos & Altedus: Beyond Chronos Twin Pack | 308616 | [308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json](./308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json) |
@@ -27647,6 +27649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 282746 | [282746-treasure-island.json](./282746-treasure-island.json) |
 | Treasure Island | 44397 | [44397-treasure-island.json](./44397-treasure-island.json) |
 | Treasure Island | 52523 | [52523-treasure-island.json](./52523-treasure-island.json) |
+| Treasure Island | 79649 | [79649-treasure-island.json](./79649-treasure-island.json) |
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
 | Treasure Island: The Gold Bag | 210210 | [210210-treasure-island-the-gold-bag.json](./210210-treasure-island-the-gold-bag.json) |
