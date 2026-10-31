@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QSteps 1 | 327142 | [327142-qsteps-1.json](./327142-qsteps-1.json) |
 | QSteps 2 | 327143 | [327143-qsteps-2.json](./327143-qsteps-2.json) |
 | QT | 130386 | [130386-qt.json](./130386-qt.json) |
+| QTE Champ | 79657 | [79657-qte-champ.json](./79657-qte-champ.json) |
 | QTI: Quantum Tunnel Idle | 388154 | [388154-qti-quantum-tunnel-idle.json](./388154-qti-quantum-tunnel-idle.json) |
 | Qti129 | 416191 | [416191-qti129.json](./416191-qti129.json) |
 | Qtz | 419999 | [419999-qtz.json](./419999-qtz.json) |
