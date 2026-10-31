@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkoi: Ai to Noroi to Valentine | 212263 | [212263-gakkoi-ai-to-noroi-to-valentine.json](./212263-gakkoi-ai-to-noroi-to-valentine.json) |
 | Gakkou de Atta Koii Hanashi | 212261 | [212261-gakkou-de-atta-koii-hanashi.json](./212261-gakkou-de-atta-koii-hanashi.json) |
 | Gakkou de Atta Kowai Hanashi | 44408 | [44408-gakkou-de-atta-kowai-hanashi.json](./44408-gakkou-de-atta-kowai-hanashi.json) |
+| Gakkou de Atta Kowai Hanashi S | 112565 | [112565-gakkou-de-atta-kowai-hanashi-s.json](./112565-gakkou-de-atta-kowai-hanashi-s.json) |
 | Gakkou no Kaidan DS | 269606 | [269606-gakkou-no-kaidan-ds.json](./269606-gakkou-no-kaidan-ds.json) |
 | Gakkou no Kaidan: Hyakuyoubako no Fuuin | 49566 | [49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json](./49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json) |
 | Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
