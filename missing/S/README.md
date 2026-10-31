@@ -3430,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScruTiny in the Great Round | 172409 | [172409-scrutiny-in-the-great-round.json](./172409-scrutiny-in-the-great-round.json) |
 | Scruzzleword | 21582 | [21582-scruzzleword.json](./21582-scruzzleword.json) |
 | SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
+| SCSIcide | 70766 | [70766-scsicide.json](./70766-scsicide.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
 | Scuba Brick | 247073 | [247073-scuba-brick.json](./247073-scuba-brick.json) |
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
 | Sesame Street: Flappy Bert | 62112 | [62112-sesame-street-flappy-bert.json](./62112-sesame-street-flappy-bert.json) |
 | Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
+| Sesame Street: Get Set to Learn | 70750 | [70750-sesame-street-get-set-to-learn.json](./70750-sesame-street-get-set-to-learn.json) |
 | Sesame Street: Let's Learn to Play Together | 59166 | [59166-sesame-street-lets-learn-to-play-together.json](./59166-sesame-street-lets-learn-to-play-together.json) |
 | Sesame Street: Lets Make a Word! | 71441 | [71441-sesame-street-lets-make-a-word.json](./71441-sesame-street-lets-make-a-word.json) |
 | Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
@@ -12972,6 +12974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
 | Smash 'N Grab | 361867 | [361867-smash-n-grab.json](./361867-smash-n-grab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
+| Smash & Magic | 70839 | [70839-smash-and-magic.json](./70839-smash-and-magic.json) |
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash and Bash Monsters | 277346 | [277346-smash-and-bash-monsters.json](./277346-smash-and-bash-monsters.json) |
 | Smash Ants! | 95299 | [95299-smash-ants.json](./95299-smash-ants.json) |
@@ -17830,6 +17833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
