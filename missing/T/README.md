@@ -5978,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Watchmen: Season 2 - Enduring Conflict | 170486 | [170486-the-black-watchmen-season-2-enduring-conflict.json](./170486-the-black-watchmen-season-2-enduring-conflict.json) |
 | The Black Watchmen: Whitechapel | 170487 | [170487-the-black-watchmen-whitechapel.json](./170487-the-black-watchmen-whitechapel.json) |
 | The Black Whale | 394792 | [394792-the-black-whale.json](./394792-the-black-whale.json) |
+| The Black Widow | 112627 | [112627-the-black-widow.json](./112627-the-black-widow.json) |
 | The Black Within | 244916 | [244916-the-black-within.json](./244916-the-black-within.json) |
 | The Blacklist: Conspiracy | 58266 | [58266-the-blacklist-conspiracy.json](./58266-the-blacklist-conspiracy.json) |
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
@@ -7081,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Crowley Manor | 25592 | [25592-the-curse-of-crowley-manor.json](./25592-the-curse-of-crowley-manor.json) |
 | The Curse of Death's Kiss | 298976 | [298976-the-curse-of-deaths-kiss.json](./298976-the-curse-of-deaths-kiss.json) |
 | The Curse of Dragmoria | 337309 | [337309-the-curse-of-dragmoria.json](./337309-the-curse-of-dragmoria.json) |
+| The Curse of Dwight Periwinkle | 112599 | [112599-the-curse-of-dwight-periwinkle.json](./112599-the-curse-of-dwight-periwinkle.json) |
 | The Curse of Eclipse | 235807 | [235807-the-curse-of-eclipse.json](./235807-the-curse-of-eclipse.json) |
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
 | The Curse of Fafnir | 158871 | [158871-the-curse-of-fafnir.json](./158871-the-curse-of-fafnir.json) |
@@ -20913,6 +20915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Zone | 86000 | [86000-time-zone.json](./86000-time-zone.json) |
 | Time Zone Arena | 117998 | [117998-time-zone-arena.json](./117998-time-zone-arena.json) |
 | Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
+| Time, Space and Matter | 112631 | [112631-time-space-and-matter.json](./112631-time-space-and-matter.json) |
 | Time's Abyss | 379103 | [379103-times-abyss.json](./379103-times-abyss.json) |
 | Time's Disillusion | 236960 | [236960-times-disillusion.json](./236960-times-disillusion.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
