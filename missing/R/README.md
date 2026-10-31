@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
 | Raft Wars 2 | 220138 | [220138-raft-wars-2.json](./220138-raft-wars-2.json) |
 | Raft Wars: Against Pirates | 234462 | [234462-raft-wars-against-pirates.json](./234462-raft-wars-against-pirates.json) |
+| Raft: Original Survival Game | 102538 | [102538-raft-original-survival-game.json](./102538-raft-original-survival-game.json) |
 | Rafting Frenzy | 253367 | [253367-rafting-frenzy.json](./253367-rafting-frenzy.json) |
 | Rag Doll | 348139 | [348139-rag-doll.json](./348139-rag-doll.json) |
 | Rag Doll Kung Fu | 19349 | [19349-rag-doll-kung-fu.json](./19349-rag-doll-kung-fu.json) |
@@ -1277,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Story Global | 197637 | [197637-rainbow-story-global.json](./197637-rainbow-story-global.json) |
 | Rainbow Tap | 203307 | [203307-rainbow-tap.json](./203307-rainbow-tap.json) |
 | Rainbow Tunnel | 182940 | [182940-rainbow-tunnel.json](./182940-rainbow-tunnel.json) |
+| Rainbow Unicorn Candy Salon | 102515 | [102515-rainbow-unicorn-candy-salon.json](./102515-rainbow-unicorn-candy-salon.json) |
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbow Warrior | 71711 | [71711-rainbow-warrior.json](./71711-rainbow-warrior.json) |
