@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Fighter Anti Disease | 149191 | [149191-nano-fighter-anti-disease.json](./149191-nano-fighter-anti-disease.json) |
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
 | Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
+| Nano Golf | 97041 | [97041-nano-golf.json](./97041-nano-golf.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
 | Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
 | Nano Player Pro: Mega Man | 317711 | [317711-nano-player-pro-mega-man.json](./317711-nano-player-pro-mega-man.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neosaurs | 197659 | [197659-neosaurs.json](./197659-neosaurs.json) |
 | Neospace | 230945 | [230945-neospace.json](./230945-neospace.json) |
 | NeoSprint | 295286 | [295286-neosprint.json](./295286-neosprint.json) |
+| NeoSticks | 97086 | [97086-neosticks.json](./97086-neosticks.json) |
 | Neotag League | 215629 | [215629-neotag-league.json](./215629-neotag-league.json) |
 | Neoteria | 61111 | [61111-neoteria.json](./61111-neoteria.json) |
 | NeoTokyo | 19676 | [19676-neotokyo.json](./19676-neotokyo.json) |
@@ -4711,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
 | Ninja Prime: Tap Quest | 241632 | [241632-ninja-prime-tap-quest.json](./241632-ninja-prime-tap-quest.json) |
 | Ninja Pug | 25770 | [25770-ninja-pug.json](./25770-ninja-pug.json) |
+| Ninja Puzzle | 97066 | [97066-ninja-puzzle.json](./97066-ninja-puzzle.json) |
 | Ninja Rabbit | 214491 | [214491-ninja-rabbit.json](./214491-ninja-rabbit.json) |
 | Ninja Rabbits | 15272 | [15272-ninja-rabbits.json](./15272-ninja-rabbits.json) |
 | Ninja Raiden | 181787 | [181787-ninja-raiden.json](./181787-ninja-raiden.json) |
