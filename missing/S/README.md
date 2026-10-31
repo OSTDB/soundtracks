@@ -5553,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven: Reboot | 82056 | [82056-seven-reboot.json](./82056-seven-reboot.json) |
 | Seven: The Days Long Gone - Digital Collector's Edition | 25875 | [25875-seven-the-days-long-gone-digital-collectors-edition.json](./25875-seven-the-days-long-gone-digital-collectors-edition.json) |
 | Seven's Code | 125361 | [125361-sevens-code.json](./125361-sevens-code.json) |
+| Sevencore | 64622 | [64622-sevencore.json](./64622-sevencore.json) |
 | Sevenfall | 387540 | [387540-sevenfall.json](./387540-sevenfall.json) |
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
 | Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
@@ -17864,6 +17865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20248,6 +20250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Dino | 297839 | [297839-splash-dino.json](./297839-splash-dino.json) |
 | Splash Dino 2 | 309719 | [309719-splash-dino-2.json](./309719-splash-dino-2.json) |
 | Splash Divers | 395524 | [395524-splash-divers.json](./395524-splash-divers.json) |
+| Splash Fighters | 64614 | [64614-splash-fighters.json](./64614-splash-fighters.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
 | Splash Jump | 159713 | [159713-splash-jump.json](./159713-splash-jump.json) |
@@ -20772,6 +20775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot H9 | 301309 | [301309-spot-h9.json](./301309-spot-h9.json) |
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
 | Spot It in the Picture! Worldwide Knowledge x Academic Quiz | 409516 | [409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json](./409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json) |
+| Spot It! Challenge | 64619 | [64619-spot-it-challenge.json](./64619-spot-it-challenge.json) |
 | Spot It! Mean Machines | 23679 | [23679-spot-it-mean-machines.json](./23679-spot-it-mean-machines.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
@@ -25127,6 +25131,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Brigade: The Thrice Damned 3 - Great Pyramid of Bes | 141059 | [141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json](./141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json) |
 | Strange Case: The Alchemist | 188293 | [188293-strange-case-the-alchemist.json](./188293-strange-case-the-alchemist.json) |
 | Strange Cases: The Faces of Vengeance | 397794 | [397794-strange-cases-the-faces-of-vengeance.json](./397794-strange-cases-the-faces-of-vengeance.json) |
+| Strange Cases: The Lighthouse Mystery | 64618 | [64618-strange-cases-the-lighthouse-mystery.json](./64618-strange-cases-the-lighthouse-mystery.json) |
+| Strange Cases: the Secrets of Grey Mist Lake | 64613 | [64613-strange-cases-the-secrets-of-grey-mist-lake.json](./64613-strange-cases-the-secrets-of-grey-mist-lake.json) |
+| Strange Cases: The Tarot Card Mystery | 64617 | [64617-strange-cases-the-tarot-card-mystery.json](./64617-strange-cases-the-tarot-card-mystery.json) |
 | Strange Creatures | 131759 | [131759-strange-creatures.json](./131759-strange-creatures.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
@@ -28166,6 +28173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Daisenryaku 68K | 400834 | [400834-super-daisenryaku-68k.json](./400834-super-daisenryaku-68k.json) |
 | Super Daisenryaku 98 | 400836 | [400836-super-daisenryaku-98.json](./400836-super-daisenryaku-98.json) |
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
+| Super Dancer Online | 64626 | [64626-super-dancer-online.json](./64626-super-dancer-online.json) |
 | Super Danganronpa Another 2 ~The Moon of Hope and Sun of Despair~ | 143215 | [143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json](./143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json) |
 | Super Danganronpa Another 2: Summer Camp | 411317 | [411317-super-danganronpa-another-2-summer-camp.json](./411317-super-danganronpa-another-2-summer-camp.json) |
 | Super Dangerous Trap | 95727 | [95727-super-dangerous-trap.json](./95727-super-dangerous-trap.json) |
