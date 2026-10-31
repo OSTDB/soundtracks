@@ -3390,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend: Forgotten Love Add-on | 168766 | [168766-endless-legend-forgotten-love-add-on.json](./168766-endless-legend-forgotten-love-add-on.json) |
 | Endless Legend: Guardians | 14603 | [14603-endless-legend-guardians.json](./14603-endless-legend-guardians.json) |
 | Endless Legend: Shadows | 14604 | [14604-endless-legend-shadows.json](./14604-endless-legend-shadows.json) |
+| Endless Legend: Symbiosis | 114035 | [114035-endless-legend-symbiosis.json](./114035-endless-legend-symbiosis.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Legend: The Lost Tales | 168767 | [168767-endless-legend-the-lost-tales.json](./168767-endless-legend-the-lost-tales.json) |
 | Endless Life | 339749 | [339749-endless-life.json](./339749-endless-life.json) |
@@ -3456,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
 | Endless Space 2: Harmonic Memories | 355694 | [355694-endless-space-2-harmonic-memories.json](./355694-endless-space-2-harmonic-memories.json) |
 | Endless Space 2: Lost Symphony | 355686 | [355686-endless-space-2-lost-symphony.json](./355686-endless-space-2-lost-symphony.json) |
+| Endless Space 2: Penumbra | 114034 | [114034-endless-space-2-penumbra.json](./114034-endless-space-2-penumbra.json) |
 | Endless Space 2: Supremacy | 148835 | [148835-endless-space-2-supremacy.json](./148835-endless-space-2-supremacy.json) |
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
 | Endless Space VIP | 339750 | [339750-endless-space-vip.json](./339750-endless-space-vip.json) |
