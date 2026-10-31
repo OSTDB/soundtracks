@@ -8410,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Games 2023 Offline | 296773 | [296773-football-games-2023-offline.json](./296773-football-games-2023-offline.json) |
 | Football Games Room | 100259 | [100259-football-games-room.json](./100259-football-games-room.json) |
 | Football General Manager | 90206 | [90206-football-general-manager.json](./90206-football-general-manager.json) |
+| Football Genius: The Ultimate Quiz | 67763 | [67763-football-genius-the-ultimate-quiz.json](./67763-football-genius-the-ultimate-quiz.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
 | Football Girls: Dream Team | 102374 | [102374-football-girls-dream-team.json](./102374-football-girls-dream-team.json) |
 | Football Glory | 93488 | [93488-football-glory.json](./93488-football-glory.json) |
