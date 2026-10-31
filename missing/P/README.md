@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
+| Panzer Panic | 66449 | [66449-panzer-panic.json](./66449-panzer-panic.json) |
 | Panzer Panic VR | 29537 | [29537-panzer-panic-vr.json](./29537-panzer-panic-vr.json) |
 | Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
 | Panzer Strategy | 83612 | [83612-panzer-strategy.json](./83612-panzer-strategy.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Mansion Chapter 2: The Orange Library | 397792 | [397792-phantom-mansion-chapter-2-the-orange-library.json](./397792-phantom-mansion-chapter-2-the-orange-library.json) |
 | Phantom Mansion II: Treasures of the Seven Seas - The Arabian Sea | 405128 | [405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json](./405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
+| Phantom of the Asteroids | 66539 | [66539-phantom-of-the-asteroids.json](./66539-phantom-of-the-asteroids.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom of the Grove | 337306 | [337306-phantom-of-the-grove.json](./337306-phantom-of-the-grove.json) |
 | Phantom of the Kill | 58459 | [58459-phantom-of-the-kill.json](./58459-phantom-of-the-kill.json) |
@@ -6042,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
 | Pilgrim: Unto Shadow | 385685 | [385685-pilgrim-unto-shadow.json](./385685-pilgrim-unto-shadow.json) |
 | Pilgrim's Peril | 277200 | [277200-pilgrims-peril.json](./277200-pilgrims-peril.json) |
+| Pilgrim's Punch-Out | 66466 | [66466-pilgrims-punch-out.json](./66466-pilgrims-punch-out.json) |
 | Pilgrimage | 178481 | [178481-pilgrimage.json](./178481-pilgrimage.json) |
 | Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
 | PilgrimAge | 276763 | [276763-pilgrimage.json](./276763-pilgrimage.json) |
@@ -9330,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plush Rangers | 386766 | [386766-plush-rangers.json](./386766-plush-rangers.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
+| Plushed | 66532 | [66532-plushed.json](./66532-plushed.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
 | Plushie Dungeon | 157335 | [157335-plushie-dungeon.json](./157335-plushie-dungeon.json) |
 | Plushie from the Sky | 168705 | [168705-plushie-from-the-sky.json](./168705-plushie-from-the-sky.json) |
@@ -15445,6 +15449,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic | 187201 | [187201-psychic.json](./187201-psychic.json) |
 | Psychic 5 | 39393 | [39393-psychic-5.json](./39393-psychic-5.json) |
 | Psychic Cat | 182224 | [182224-psychic-cat.json](./182224-psychic-cat.json) |
+| Psychic Dectetive Final: Solitude Part 1 | 66330 | [66330-psychic-dectetive-final-solitude-part-1.json](./66330-psychic-dectetive-final-solitude-part-1.json) |
+| Psychic Detective Final: Solitude Part 2 | 66329 | [66329-psychic-detective-final-solitude-part-2.json](./66329-psychic-detective-final-solitude-part-2.json) |
+| Psychic Detective Vol. 1: Invitation | 66336 | [66336-psychic-detective-vol-1-invitation.json](./66336-psychic-detective-vol-1-invitation.json) |
+| Psychic Detective Vol. 2: Memories | 66333 | [66333-psychic-detective-vol-2-memories.json](./66333-psychic-detective-vol-2-memories.json) |
+| Psychic Detective Vol. 3: Aya | 66334 | [66334-psychic-detective-vol-3-aya.json](./66334-psychic-detective-vol-3-aya.json) |
+| Psychic Detective Vol. 4: Orgel | 66331 | [66331-psychic-detective-vol-4-orgel.json](./66331-psychic-detective-vol-4-orgel.json) |
+| Psychic Detective Vol. 5: Nightmare | 66332 | [66332-psychic-detective-vol-5-nightmare.json](./66332-psychic-detective-vol-5-nightmare.json) |
 | Psychic Eclipse | 288174 | [288174-psychic-eclipse.json](./288174-psychic-eclipse.json) |
 | Psychic Eclipse Code: Green | 289357 | [289357-psychic-eclipse-code-green.json](./289357-psychic-eclipse-code-green.json) |
 | Psychic Eclipse: Reload | 257766 | [257766-psychic-eclipse-reload.json](./257766-psychic-eclipse-reload.json) |
