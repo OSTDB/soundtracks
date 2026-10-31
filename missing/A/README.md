@@ -7450,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Maze | 217486 | [217486-amazing-maze.json](./217486-amazing-maze.json) |
 | Amazing Maze / Tic-Tac-Toe | 169264 | [169264-amazing-maze-tic-tac-toe.json](./169264-amazing-maze-tic-tac-toe.json) |
 | Amazing Maze/Tic Tac Toe | 94148 | [94148-amazing-maze-tic-tac-toe.json](./94148-amazing-maze-tic-tac-toe.json) |
+| Amazing Moon: Frog in Space | 103089 | [103089-amazing-moon-frog-in-space.json](./103089-amazing-moon-frog-in-space.json) |
 | Amazing Online | 230131 | [230131-amazing-online.json](./230131-amazing-online.json) |
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
@@ -13080,6 +13081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Artesnaut | 419371 | [419371-artesnaut.json](./419371-artesnaut.json) |
+| Artful Balancer | 103046 | [103046-artful-balancer.json](./103046-artful-balancer.json) |
 | Artful Escape | 109982 | [109982-artful-escape.json](./109982-artful-escape.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
 | Arthdal Chronicles | 194153 | [194153-arthdal-chronicles.json](./194153-arthdal-chronicles.json) |
@@ -15683,6 +15685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Sport Racing & Drone Delivery: FPV Simulator | 394570 | [394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json](./394570-auto-sport-racing-and-drone-delivery-fpv-simulator.json) |
 | Auto Sport Racing Simulator | 381702 | [381702-auto-sport-racing-simulator.json](./381702-auto-sport-racing-simulator.json) |
 | Auto Test | 347705 | [347705-auto-test.json](./347705-auto-test.json) |
+| Auto Theft Gang Wars | 103061 | [103061-auto-theft-gang-wars.json](./103061-auto-theft-gang-wars.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
 | Auto Tuktuk Mafia | 411587 | [411587-auto-tuktuk-mafia.json](./411587-auto-tuktuk-mafia.json) |
 | Auto World Tycoon | 164240 | [164240-auto-world-tycoon.json](./164240-auto-world-tycoon.json) |
