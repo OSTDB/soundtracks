@@ -7025,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
 | NvmU | 229558 | [229558-nvmu.json](./229558-nvmu.json) |
 | Nvwa | 212087 | [212087-nvwa.json](./212087-nvwa.json) |
+| NW2Online | 77753 | [77753-nw2online.json](./77753-nw2online.json) |
 | NXT Takeover | 257227 | [257227-nxt-takeover.json](./257227-nxt-takeover.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | NY Race | 22047 | [22047-ny-race.json](./22047-ny-race.json) |
