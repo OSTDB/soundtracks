@@ -7428,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionic Slammer | 236324 | [236324-bionic-slammer.json](./236324-bionic-slammer.json) |
 | Bionic Tadpole | 203629 | [203629-bionic-tadpole.json](./203629-bionic-tadpole.json) |
+| BionicBlitz | 115325 | [115325-bionicblitz.json](./115325-bionicblitz.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
 | Bionicle Heroes | 200958 | [200958-bionicle-heroes.json](./200958-bionicle-heroes.json) |
 | Bionicle Heroes | 200959 | [200959-bionicle-heroes.json](./200959-bionicle-heroes.json) |
@@ -12412,6 +12413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Ball | 337045 | [337045-bounce-ball.json](./337045-bounce-ball.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Ball Blitz | 272382 | [272382-bounce-ball-blitz.json](./272382-bounce-ball-blitz.json) |
+| Bounce ball light | 115312 | [115312-bounce-ball-light.json](./115312-bounce-ball-light.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Castle | 211465 | [211465-bounce-castle.json](./211465-bounce-castle.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
@@ -15800,6 +15802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Alice in Wonderland | 302913 | [302913-bunny-alice-in-wonderland.json](./302913-bunny-alice-in-wonderland.json) |
 | Bunny Bastion | 419379 | [419379-bunny-bastion.json](./419379-bunny-bastion.json) |
 | Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
+| Bunny Beats | 115268 | [115268-bunny-beats.json](./115268-bunny-beats.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
 | Bunny Boiler | 241208 | [241208-bunny-boiler.json](./241208-bunny-boiler.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
