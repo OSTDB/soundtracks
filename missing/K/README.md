@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kana No Mado | 364728 | [364728-kana-no-mado.json](./364728-kana-no-mado.json) |
 | Kana Quest | 126495 | [126495-kana-quest.json](./126495-kana-quest.json) |
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
+| Kana Sniper | 108138 | [108138-kana-sniper.json](./108138-kana-sniper.json) |
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
 | Kana: Imouto - Limited Edition | 381889 | [381889-kana-imouto-limited-edition.json](./381889-kana-imouto-limited-edition.json) |
 | Kanade | 317332 | [317332-kanade.json](./317332-kanade.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Kassei: Road Cycling - Next Season | 410020 | [410020-kassei-road-cycling-next-season.json](./410020-kassei-road-cycling-next-season.json) |
 | Kassei: Road Cycling 2025 | 357207 | [357207-kassei-road-cycling-2025.json](./357207-kassei-road-cycling-2025.json) |
+| Kasshoku no Sei Senshi Aisha | 108119 | [108119-kasshoku-no-sei-senshi-aisha.json](./108119-kasshoku-no-sei-senshi-aisha.json) |
 | Kasumi | 285383 | [285383-kasumi.json](./285383-kasumi.json) |
 | Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
 | Kat Trap: Planet of the Cat-Men | 13010 | [13010-kat-trap-planet-of-the-cat-men.json](./13010-kat-trap-planet-of-the-cat-men.json) |
@@ -1173,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaveXplorer | 157179 | [157179-kavexplorer.json](./157179-kavexplorer.json) |
 | Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
 | Kawã na Terra dos Indígenas Maraguá | 283099 | [283099-kawa-na-terra-dos-indigenas-maragua.json](./283099-kawa-na-terra-dos-indigenas-maragua.json) |
+| Kawa no Kuma-san | 108132 | [108132-kawa-no-kuma-san.json](./108132-kawa-no-kuma-san.json) |
 | Kawaida's Journey | 124512 | [124512-kawaidas-journey.json](./124512-kawaidas-journey.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
@@ -2547,7 +2550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5824,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku Tiger Heli: Toaplan Arcade Garage | 158967 | [158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json](./158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
 | Kyuukyuu Enshi | 411330 | [411330-kyuukyuu-enshi.json](./411330-kyuukyuu-enshi.json) |
+| Kyuukyuu Sosei | 108134 | [108134-kyuukyuu-sosei.json](./108134-kyuukyuu-sosei.json) |
 | Kyuusei Senjutsu Niyoru Heisei Kaiun Koyomi | 268510 | [268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json](./268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json) |
 | Kyuutenkai: Fantasic Pinball | 71332 | [71332-kyuutenkai-fantasic-pinball.json](./71332-kyuutenkai-fantasic-pinball.json) |
 | Kyvir: Rebirth | 144996 | [144996-kyvir-rebirth.json](./144996-kyvir-rebirth.json) |
