@@ -4780,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Rapids | 44737 | [44737-wild-rapids.json](./44737-wild-rapids.json) |
 | Wild Rat | 149309 | [149309-wild-rat.json](./149309-wild-rat.json) |
 | Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
+| Wild Ride: Surf Shack | 73565 | [73565-wild-ride-surf-shack.json](./73565-wild-ride-surf-shack.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
 | Wild River Run | 230311 | [230311-wild-river-run.json](./230311-wild-river-run.json) |
 | Wild River Run: Map Pack - Sci-FI | 282211 | [282211-wild-river-run-map-pack-sci-fi.json](./282211-wild-river-run-map-pack-sci-fi.json) |
