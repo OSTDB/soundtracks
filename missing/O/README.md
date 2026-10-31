@@ -3249,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Sour Power | 346536 | [346536-operation-sour-power.json](./346536-operation-sour-power.json) |
 | Operation Space Force | 251769 | [251769-operation-space-force.json](./251769-operation-space-force.json) |
 | Operation Spacehog | 19228 | [19228-operation-spacehog.json](./19228-operation-spacehog.json) |
+| Operation Spruance: The Naval Warfare Simulation | 75527 | [75527-operation-spruance-the-naval-warfare-simulation.json](./75527-operation-spruance-the-naval-warfare-simulation.json) |
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Stutter | 406888 | [406888-operation-stutter.json](./406888-operation-stutter.json) |
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
