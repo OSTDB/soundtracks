@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
 | Danger: Electric Shock | 166620 | [166620-danger-electric-shock.json](./166620-danger-electric-shock.json) |
 | Danger: Escape Lab! | 150406 | [150406-danger-escape-lab.json](./150406-danger-escape-lab.json) |
+| Danger!Energy | 112593 | [112593-danger-energy.json](./112593-danger-energy.json) |
 | Dangerbots | 58499 | [58499-dangerbots.json](./58499-dangerbots.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
 | Dangeresque: The Roomisode Triungulate | 250906 | [250906-dangeresque-the-roomisode-triungulate.json](./250906-dangeresque-the-roomisode-triungulate.json) |
@@ -17104,6 +17105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustdrifter | 409187 | [409187-dustdrifter.json](./409187-dustdrifter.json) |
 | Dustdrive: The Lightspeed Project | 385424 | [385424-dustdrive-the-lightspeed-project.json](./385424-dustdrive-the-lightspeed-project.json) |
 | Dusted Dusk | 219404 | [219404-dusted-dusk.json](./219404-dusted-dusk.json) |
+| Duster | 112572 | [112572-duster.json](./112572-duster.json) |
 | Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
 | Dustforce | 94073 | [94073-dustforce.json](./94073-dustforce.json) |
 | Dustforce DX | 1340 | [1340-dustforce-dx.json](./1340-dustforce-dx.json) |
