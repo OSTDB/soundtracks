@@ -20475,6 +20475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Night: Remastered | 170369 | [170369-spooky-night-remastered.json](./170369-spooky-night-remastered.json) |
 | Spooky Paths | 188793 | [188793-spooky-paths.json](./188793-spooky-paths.json) |
 | Spooky Pixel Hero | 307816 | [307816-spooky-pixel-hero.json](./307816-spooky-pixel-hero.json) |
+| Spooky Runes | 88708 | [88708-spooky-runes.json](./88708-spooky-runes.json) |
 | Spooky Scary Spaces | 297440 | [297440-spooky-scary-spaces.json](./297440-spooky-scary-spaces.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
@@ -31265,6 +31266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors of Xcalibur | 334852 | [334852-survivors-of-xcalibur.json](./334852-survivors-of-xcalibur.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
+| Survivors: the Quest | 88716 | [88716-survivors-the-quest.json](./88716-survivors-the-quest.json) |
 | Survivors: Three Kingdoms | 224695 | [224695-survivors-three-kingdoms.json](./224695-survivors-three-kingdoms.json) |
 | Survivors: Viy | 107583 | [107583-survivors-viy.json](./107583-survivors-viy.json) |
 | SurviVR - Castle Defender | 120068 | [120068-survivr-castle-defender.json](./120068-survivr-castle-defender.json) |
