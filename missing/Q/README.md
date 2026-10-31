@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
 | Quiz Daisousa Sen: The Last Count Down | 75510 | [75510-quiz-daisousa-sen-the-last-count-down.json](./75510-quiz-daisousa-sen-the-last-count-down.json) |
 | Quiz Econosaurus | 97677 | [97677-quiz-econosaurus.json](./97677-quiz-econosaurus.json) |
+| Quiz en Français | 90325 | [90325-quiz-en-francais.json](./90325-quiz-en-francais.json) |
 | Quiz Express | 241339 | [241339-quiz-express.json](./241339-quiz-express.json) |
 | Quiz F1 1,2 Finish | 252336 | [252336-quiz-f1-1-2-finish.json](./252336-quiz-f1-1-2-finish.json) |
 | Quiz Game Museum | 418534 | [418534-quiz-game-museum.json](./418534-quiz-game-museum.json) |
