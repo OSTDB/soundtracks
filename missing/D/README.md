@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
 | Deadly Project | 386358 | [386358-deadly-project.json](./386358-deadly-project.json) |
 | Deadly Quiet | 342268 | [342268-deadly-quiet.json](./342268-deadly-quiet.json) |
+| Deadly Racer | 71292 | [71292-deadly-racer.json](./71292-deadly-racer.json) |
 | Deadly Racing Duel | 188801 | [188801-deadly-racing-duel.json](./188801-deadly-racing-duel.json) |
 | Deadly Rails | 337436 | [337436-deadly-rails.json](./337436-deadly-rails.json) |
 | Deadly Rain | 197506 | [197506-deadly-rain.json](./197506-deadly-rain.json) |
@@ -5838,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
 | Demon Cycle | 152578 | [152578-demon-cycle.json](./152578-demon-cycle.json) |
 | Demon Dash | 239530 | [239530-demon-dash.json](./239530-demon-dash.json) |
+| Demon Day | 71298 | [71298-demon-day.json](./71298-demon-day.json) |
 | Demon Demon | 341678 | [341678-demon-demon.json](./341678-demon-demon.json) |
 | Demon Dodger | 255249 | [255249-demon-dodger.json](./255249-demon-dodger.json) |
 | Demon Doif | 178289 | [178289-demon-doif.json](./178289-demon-doif.json) |
@@ -7224,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detriot | 219243 | [219243-detriot.json](./219243-detriot.json) |
 | Detrita Battlegrounds | 54494 | [54494-detrita-battlegrounds.json](./54494-detrita-battlegrounds.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
+| Detritus: The Daemons Quest | 71379 | [71379-detritus-the-daemons-quest.json](./71379-detritus-the-daemons-quest.json) |
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
 | Detroit Metal City DS: Death Shout | 70602 | [70602-detroit-metal-city-ds-death-shout.json](./70602-detroit-metal-city-ds-death-shout.json) |
 | Detroit: Become Human - Digital Deluxe Edition | 118902 | [118902-detroit-become-human-digital-deluxe-edition.json](./118902-detroit-become-human-digital-deluxe-edition.json) |
@@ -17641,6 +17644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
 | Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
+| Dynomite Deluxe | 71301 | [71301-dynomite-deluxe.json](./71301-dynomite-deluxe.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
 | Dynopunk: Welcome to Synth-City | 244703 | [244703-dynopunk-welcome-to-synth-city.json](./244703-dynopunk-welcome-to-synth-city.json) |
 | Dynos & Ghosts | 143563 | [143563-dynos-and-ghosts.json](./143563-dynos-and-ghosts.json) |
