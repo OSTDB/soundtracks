@@ -9316,6 +9316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climber: Sky is the Limit | 129701 | [129701-climber-sky-is-the-limit.json](./129701-climber-sky-is-the-limit.json) |
 | Climberia | 18355 | [18355-climberia.json](./18355-climberia.json) |
 | Climbing Back to the Mothership | 336698 | [336698-climbing-back-to-the-mothership.json](./336698-climbing-back-to-the-mothership.json) |
+| Climbing Block | 112009 | [112009-climbing-block.json](./112009-climbing-block.json) |
 | Climbing Challenge | 246434 | [246434-climbing-challenge.json](./246434-climbing-challenge.json) |
 | Climbing Challenge | 276672 | [276672-climbing-challenge.json](./276672-climbing-challenge.json) |
 | Climbing Flail | 119649 | [119649-climbing-flail.json](./119649-climbing-flail.json) |
