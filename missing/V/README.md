@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venice Master | 197205 | [197205-venice-master.json](./197205-venice-master.json) |
 | Venice Mystery | 64731 | [64731-venice-mystery.json](./64731-venice-mystery.json) |
 | Venice Taxi Boats | 218373 | [218373-venice-taxi-boats.json](./218373-venice-taxi-boats.json) |
+| Venineth | 112608 | [112608-venineth.json](./112608-venineth.json) |
 | Venison County | 387672 | [387672-venison-county.json](./387672-venison-county.json) |
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
 | Venny's Vinyl Shop | 381677 | [381677-vennys-vinyl-shop.json](./381677-vennys-vinyl-shop.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
 | VN Dating Sims: Masa SMA | 214623 | [214623-vn-dating-sims-masa-sma.json](./214623-vn-dating-sims-masa-sma.json) |
+| VNC: Virtual Nightclub | 112574 | [112574-vnc-virtual-nightclub.json](./112574-vnc-virtual-nightclub.json) |
 | Vnesis | 192737 | [192737-vnesis.json](./192737-vnesis.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | Vocabrawlary | 157089 | [157089-vocabrawlary.json](./157089-vocabrawlary.json) |
