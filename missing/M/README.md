@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong | 86409 | [86409-mahjong.json](./86409-mahjong.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | MahJong | 74936 | [74936-mahjong.json](./74936-mahjong.json) |
+| Mahjong - zMahjong Solitaire | 88695 | [88695-mahjong-zmahjong-solitaire.json](./88695-mahjong-zmahjong-solitaire.json) |
 | Mahjong 13 Tiles | 89017 | [89017-mahjong-13-tiles.json](./89017-mahjong-13-tiles.json) |
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
 | Mahjong 2 Classroom | 246266 | [246266-mahjong-2-classroom.json](./246266-mahjong-2-classroom.json) |
