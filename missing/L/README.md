@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning Land | 231859 | [231859-learning-land.json](./231859-learning-land.json) |
 | Learning Life: Mysteeri 24/7 | 193434 | [193434-learning-life-mysteeri-24-7.json](./193434-learning-life-mysteeri-24-7.json) |
 | Learning Numbers - Games for Kids 2+ | 90450 | [90450-learning-numbers-games-for-kids-2.json](./90450-learning-numbers-games-for-kids-2.json) |
+| Learning numbers is funny! | 88701 | [88701-learning-numbers-is-funny.json](./88701-learning-numbers-is-funny.json) |
 | Learning the Ropes | 364673 | [364673-learning-the-ropes.json](./364673-learning-the-ropes.json) |
 | Learning to Spell | 209892 | [209892-learning-to-spell.json](./209892-learning-to-spell.json) |
 | Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
@@ -3795,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
 | Lexica | 384573 | [384573-lexica.json](./384573-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
+| Lexical | 88706 | [88706-lexical.json](./88706-lexical.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicon | 352306 | [352306-lexicon.json](./352306-lexicon.json) |
 | Lexicon | 412907 | [412907-lexicon.json](./412907-lexicon.json) |
