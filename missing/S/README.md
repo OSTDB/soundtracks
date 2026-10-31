@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Standoff | 385921 | [385921-samurai-standoff.json](./385921-samurai-standoff.json) |
 | Samurai Story | 200495 | [200495-samurai-story.json](./200495-samurai-story.json) |
 | Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
+| Samurai Sudoku | 87906 | [87906-samurai-sudoku.json](./87906-samurai-sudoku.json) |
 | Samurai Survivor: Undefeated Blade | 244358 | [244358-samurai-survivor-undefeated-blade.json](./244358-samurai-survivor-undefeated-blade.json) |
 | Samurai Survivors | 244247 | [244247-samurai-survivors.json](./244247-samurai-survivors.json) |
 | Samurai Sword | 47247 | [47247-samurai-sword.json](./47247-samurai-sword.json) |
@@ -23227,6 +23228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Running | 291858 | [291858-start-running.json](./291858-start-running.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
 | Start the Enchanted Books | 91088 | [91088-start-the-enchanted-books.json](./91088-start-the-enchanted-books.json) |
+| Start the Lost Treasure | 87884 | [87884-start-the-lost-treasure.json](./87884-start-the-lost-treasure.json) |
 | Start the Party! | 20407 | [20407-start-the-party.json](./20407-start-the-party.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
 | Start with no dice | 184440 | [184440-start-with-no-dice.json](./184440-start-with-no-dice.json) |
@@ -24218,6 +24220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Sprint | 233169 | [233169-stick-sprint.json](./233169-stick-sprint.json) |
 | Stick Squad 3 | 101924 | [101924-stick-squad-3.json](./101924-stick-squad-3.json) |
 | Stick Stunt Biker | 289564 | [289564-stick-stunt-biker.json](./289564-stick-stunt-biker.json) |
+| Stick Stunt Biker 2 | 87927 | [87927-stick-stunt-biker-2.json](./87927-stick-stunt-biker-2.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
 | Stick to the end | 111522 | [111522-stick-to-the-end.json](./111522-stick-to-the-end.json) |
@@ -31059,6 +31062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Shot | 237205 | [237205-survival-shot.json](./237205-survival-shot.json) |
 | Survival Simulator | 166203 | [166203-survival-simulator.json](./166203-survival-simulator.json) |
 | Survival Simulator | 175714 | [175714-survival-simulator.json](./175714-survival-simulator.json) |
+| Survival Simulator | 87933 | [87933-survival-simulator.json](./87933-survival-simulator.json) |
 | Survival Sisters | 195693 | [195693-survival-sisters.json](./195693-survival-sisters.json) |
 | Survival Sisters: 2048＋1 | 253841 | [253841-survival-sisters-2048-1.json](./253841-survival-sisters-2048-1.json) |
 | Survival Space: Unlimited Shooting | 83571 | [83571-survival-space-unlimited-shooting.json](./83571-survival-space-unlimited-shooting.json) |
@@ -32861,6 +32865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Shock: Enhanced Edition | 12987 | [12987-system-shock-enhanced-edition.json](./12987-system-shock-enhanced-edition.json) |
 | System Shock: Rewired | 353370 | [353370-system-shock-rewired.json](./353370-system-shock-rewired.json) |
 | System Shooterz | 310139 | [310139-system-shooterz.json](./310139-system-shooterz.json) |
+| System Siege | 87763 | [87763-system-siege.json](./87763-system-siege.json) |
 | System Syzygy | 252684 | [252684-system-syzygy.json](./252684-system-syzygy.json) |
 | System Upkeep | 310123 | [310123-system-upkeep.json](./310123-system-upkeep.json) |
 | System Zero | 148896 | [148896-system-zero.json](./148896-system-zero.json) |
