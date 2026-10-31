@@ -3709,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Climbing | 150387 | [150387-penguin-climbing.json](./150387-penguin-climbing.json) |
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
+| Penguin Diner 2 | 64615 | [64615-penguin-diner-2.json](./64615-penguin-diner-2.json) |
 | Penguin Escape | 326236 | [326236-penguin-escape.json](./326236-penguin-escape.json) |
 | Penguin Festival | 335130 | [335130-penguin-festival.json](./335130-penguin-festival.json) |
 | Penguin Flight | 328443 | [328443-penguin-flight.json](./328443-penguin-flight.json) |
