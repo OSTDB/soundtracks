@@ -3409,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Mahjong | 388356 | [388356-lets-mahjong.json](./388356-lets-mahjong.json) |
 | Let's Make a Pro Baseball Team! 2 | 138100 | [138100-lets-make-a-pro-baseball-team-2.json](./138100-lets-make-a-pro-baseball-team-2.json) |
 | Let's Make a Soccer Team! | 91708 | [91708-lets-make-a-soccer-team.json](./91708-lets-make-a-soccer-team.json) |
+| Let's Mangaka DS Style | 77036 | [77036-lets-mangaka-ds-style.json](./77036-lets-mangaka-ds-style.json) |
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
 | Let's Meet Tomorrow | 342091 | [342091-lets-meet-tomorrow.json](./342091-lets-meet-tomorrow.json) |
 | Let's Meow Meow | 71949 | [71949-lets-meow-meow.json](./71949-lets-meow-meow.json) |
@@ -5502,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Martian | 153332 | [153332-little-martian.json](./153332-little-martian.json) |
 | Little Master Cricket | 278843 | [278843-little-master-cricket.json](./278843-little-master-cricket.json) |
 | Little Master: Niji Iro no Maseki | 42372 | [42372-little-master-niji-iro-no-maseki.json](./42372-little-master-niji-iro-no-maseki.json) |
+| Little Master: Niji-iro no Maseki | 77085 | [77085-little-master-niji-iro-no-maseki.json](./77085-little-master-niji-iro-no-maseki.json) |
 | Little Medusa | 106984 | [106984-little-medusa.json](./106984-little-medusa.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
