@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaCc and Bomber: Maze Blast | 302971 | [302971-pacc-and-bomber-maze-blast.json](./302971-pacc-and-bomber-maze-blast.json) |
 | Paccarat | 378250 | [378250-paccarat.json](./378250-paccarat.json) |
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
+| PacDoom III: Halloween Party | 71857 | [71857-pacdoom-iii-halloween-party.json](./71857-pacdoom-iii-halloween-party.json) |
 | Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
 | Pacer: Classic | 255811 | [255811-pacer-classic.json](./255811-pacer-classic.json) |
@@ -15223,6 +15224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoDungeon: Episode II | 405620 | [405620-protodungeon-episode-ii.json](./405620-protodungeon-episode-ii.json) |
 | ProtoDungeon: Episode III | 117646 | [117646-protodungeon-episode-iii.json](./117646-protodungeon-episode-iii.json) |
 | Protoform | 107113 | [107113-protoform.json](./107113-protoform.json) |
+| Protoganda: Strings | 71844 | [71844-protoganda-strings.json](./71844-protoganda-strings.json) |
 | Protogen Inc. | 372754 | [372754-protogen-inc.json](./372754-protogen-inc.json) |
 | Protogenisis | 118824 | [118824-protogenisis.json](./118824-protogenisis.json) |
 | ProtoHunter | 133743 | [133743-protohunter.json](./133743-protohunter.json) |
@@ -15550,6 +15552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pteranodon 2: Primal Island | 275722 | [275722-pteranodon-2-primal-island.json](./275722-pteranodon-2-primal-island.json) |
 | Pteranodon's Flight: The Flying Dinosaur Game | 151012 | [151012-pteranodons-flight-the-flying-dinosaur-game.json](./151012-pteranodons-flight-the-flying-dinosaur-game.json) |
 | Ptero Pursuit | 244099 | [244099-ptero-pursuit.json](./244099-ptero-pursuit.json) |
+| Pterodactyl | 71850 | [71850-pterodactyl.json](./71850-pterodactyl.json) |
 | Pterodactyl Attack | 284910 | [284910-pterodactyl-attack.json](./284910-pterodactyl-attack.json) |
 | Pterodalien | 76278 | [76278-pterodalien.json](./76278-pterodalien.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
@@ -17226,6 +17229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
 | Pyro Fighters | 171821 | [171821-pyro-fighters.json](./171821-pyro-fighters.json) |
+| Pyro II | 71863 | [71863-pyro-ii.json](./71863-pyro-ii.json) |
 | Pyro Jump | 54272 | [54272-pyro-jump.json](./54272-pyro-jump.json) |
 | Pyro Jump Rescue | 293149 | [293149-pyro-jump-rescue.json](./293149-pyro-jump-rescue.json) |
 | Pyro Sand | 146670 | [146670-pyro-sand.json](./146670-pyro-sand.json) |
