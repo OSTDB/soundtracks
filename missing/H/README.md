@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
 | Haunted Legends: The Stone Guest HD | 103907 | [103907-haunted-legends-the-stone-guest-hd.json](./103907-haunted-legends-the-stone-guest-hd.json) |
 | Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
+| Haunted Legends: The Undertaker - Collector's Edition | 81839 | [81839-haunted-legends-the-undertaker-collectors-edition.json](./81839-haunted-legends-the-undertaker-collectors-edition.json) |
 | Haunted Manager | 360081 | [360081-haunted-manager.json](./360081-haunted-manager.json) |
 | Haunted Manor 2 | 109018 | [109018-haunted-manor-2.json](./109018-haunted-manor-2.json) |
 | Haunted Manor HD | 91314 | [91314-haunted-manor-hd.json](./91314-haunted-manor-hd.json) |
