@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus 6: Golden Bear Challenge | 762 | [762-jack-nicklaus-6-golden-bear-challenge.json](./762-jack-nicklaus-6-golden-bear-challenge.json) |
 | Jack Nicklaus Cyber Golf | 270278 | [270278-jack-nicklaus-cyber-golf.json](./270278-jack-nicklaus-cyber-golf.json) |
 | Jack Nicklaus Golf | 49040 | [49040-jack-nicklaus-golf.json](./49040-jack-nicklaus-golf.json) |
+| Jack Nicklaus Golf & Course Design: Signature Edition | 69639 | [69639-jack-nicklaus-golf-and-course-design-signature-edition.json](./69639-jack-nicklaus-golf-and-course-design-signature-edition.json) |
 | Jack Nicklaus Online Golf Tour | 62272 | [62272-jack-nicklaus-online-golf-tour.json](./62272-jack-nicklaus-online-golf-tour.json) |
 | Jack Nicklaus Perfect Golf | 36378 | [36378-jack-nicklaus-perfect-golf.json](./36378-jack-nicklaus-perfect-golf.json) |
 | Jack Nicklaus presents The Major Championship Courses of 1989 | 74888 | [74888-jack-nicklaus-presents-the-major-championship-courses-of-1989.json](./74888-jack-nicklaus-presents-the-major-championship-courses-of-1989.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jill of the Jungle: Jill Goes Underground | 50338 | [50338-jill-of-the-jungle-jill-goes-underground.json](./50338-jill-of-the-jungle-jill-goes-underground.json) |
 | Jill of the Jungle: Jill Saves the Prince | 50337 | [50337-jill-of-the-jungle-jill-saves-the-prince.json](./50337-jill-of-the-jungle-jill-saves-the-prince.json) |
+| Jill of the Jungle: The Complete Trilogy | 69633 | [69633-jill-of-the-jungle-the-complete-trilogy.json](./69633-jill-of-the-jungle-the-complete-trilogy.json) |
 | Jill Saves the Prince | 9645 | [9645-jill-saves-the-prince.json](./9645-jill-saves-the-prince.json) |
 | Jillian Michael's Fitness Ultamatum 2009 | 50989 | [50989-jillian-michaels-fitness-ultamatum-2009.json](./50989-jillian-michaels-fitness-ultamatum-2009.json) |
 | Jillian Michaels Fitness Ultimatum 2011 | 65429 | [65429-jillian-michaels-fitness-ultimatum-2011.json](./65429-jillian-michaels-fitness-ultimatum-2011.json) |
