@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yapyap | 363307 | [363307-yapyap.json](./363307-yapyap.json) |
 | Yar's Revenge | 28721 | [28721-yars-revenge.json](./28721-yars-revenge.json) |
 | Yarasete! Teacher Sotsugyou | 59191 | [59191-yarasete-teacher-sotsugyou.json](./59191-yarasete-teacher-sotsugyou.json) |
+| Yarbay | 121963 | [121963-yarbay.json](./121963-yarbay.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
 | Yard Sale Hidden Treasures: Sunnyville | 66733 | [66733-yard-sale-hidden-treasures-sunnyville.json](./66733-yard-sale-hidden-treasures-sunnyville.json) |
