@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Heck | 150338 | [150338-castle-heck.json](./150338-castle-heck.json) |
 | Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
+| Castle Heroes | 120531 | [120531-castle-heroes.json](./120531-castle-heroes.json) |
 | Castle Hunter | 214317 | [214317-castle-hunter.json](./214317-castle-hunter.json) |
 | Castle Idler | 376112 | [376112-castle-idler.json](./376112-castle-idler.json) |
 | Castle in the Darkness II | 127028 | [127028-castle-in-the-darkness-ii.json](./127028-castle-in-the-darkness-ii.json) |
@@ -4416,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Ransom | 245952 | [245952-caveman-ransom.json](./245952-caveman-ransom.json) |
 | CaveMan Rock | 43504 | [43504-caveman-rock.json](./43504-caveman-rock.json) |
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
+| Caveman Tale | 120540 | [120540-caveman-tale.json](./120540-caveman-tale.json) |
 | Caveman Tales | 147600 | [147600-caveman-tales.json](./147600-caveman-tales.json) |
 | Caveman the Game | 128154 | [128154-caveman-the-game.json](./128154-caveman-the-game.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
@@ -5402,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
 | Chaos Stone Wars | 331382 | [331382-chaos-stone-wars.json](./331382-chaos-stone-wars.json) |
 | Chaos Storm: Strategy Edition | 236435 | [236435-chaos-storm-strategy-edition.json](./236435-chaos-storm-strategy-edition.json) |
+| Chaos Tavern | 120538 | [120538-chaos-tavern.json](./120538-chaos-tavern.json) |
 | Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
 | Chaos Town | 36819 | [36819-chaos-town.json](./36819-chaos-town.json) |
@@ -5565,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charon: Zhetan Chronicles | 253441 | [253441-charon-zhetan-chronicles.json](./253441-charon-zhetan-chronicles.json) |
 | Charon's Crossing | 264692 | [264692-charons-crossing.json](./264692-charons-crossing.json) |
 | Charon's Obol | 363052 | [363052-charons-obol.json](./363052-charons-obol.json) |
+| Charon's Return | 120566 | [120566-charons-return.json](./120566-charons-return.json) |
 | Charon's Sabbath | 280904 | [280904-charons-sabbath.json](./280904-charons-sabbath.json) |
 | Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
 | Charon's Staircase: Digital Deluxe Edition | 250417 | [250417-charons-staircase-digital-deluxe-edition.json](./250417-charons-staircase-digital-deluxe-edition.json) |
@@ -11198,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Column Dodger | 263005 | [263005-column-dodger.json](./263005-column-dodger.json) |
 | Column on the Sea | 122186 | [122186-column-on-the-sea.json](./122186-column-on-the-sea.json) |
 | Column Taker | 114962 | [114962-column-taker.json](./114962-column-taker.json) |
+| Columnae: A Past Under Construction | 120519 | [120519-columnae-a-past-under-construction.json](./120519-columnae-a-past-under-construction.json) |
 | Columns | 117538 | [117538-columns.json](./117538-columns.json) |
 | Columns | 182891 | [182891-columns.json](./182891-columns.json) |
 | Columns | 284379 | [284379-columns.json](./284379-columns.json) |
@@ -18421,6 +18426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpedia | 364522 | [364522-cyberpedia.json](./364522-cyberpedia.json) |
 | Cyberpet Graveyard | 176778 | [176778-cyberpet-graveyard.json](./176778-cyberpet-graveyard.json) |
 | CyberPigeon | 264679 | [264679-cyberpigeon.json](./264679-cyberpigeon.json) |
+| Cyberpink | 120532 | [120532-cyberpink.json](./120532-cyberpink.json) |
 | Cyberplug | 153343 | [153343-cyberplug.json](./153343-cyberplug.json) |
 | Cyberpoly | 201444 | [201444-cyberpoly.json](./201444-cyberpoly.json) |
 | Cyberpong VR | 58629 | [58629-cyberpong-vr.json](./58629-cyberpong-vr.json) |
