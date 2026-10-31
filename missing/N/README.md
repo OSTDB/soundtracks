@@ -5969,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora the girl | 378611 | [378611-nora-the-girl.json](./378611-nora-the-girl.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora to Oujo to Noraneko Heart 2: Dakimakura Cover Set | 136972 | [136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json](./136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json) |
+| Nora to Oujo to Noraneko Heart HD Version | 104996 | [104996-nora-to-oujo-to-noraneko-heart-hd-version.json](./104996-nora-to-oujo-to-noraneko-heart-hd-version.json) |
 | Nora to Toki no Koubou: Kiri no Mori no Majo | 65848 | [65848-nora-to-toki-no-koubou-kiri-no-mori-no-majo.json](./65848-nora-to-toki-no-koubou-kiri-no-mori-no-majo.json) |
 | Nora Wanna Rise | 291709 | [291709-nora-wanna-rise.json](./291709-nora-wanna-rise.json) |
 | Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
