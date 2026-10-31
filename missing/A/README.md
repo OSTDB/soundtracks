@@ -4972,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | AirAttack 1 | 407148 | [407148-airattack-1.json](./407148-airattack-1.json) |
+| AirAttack 2 | 87919 | [87919-airattack-2.json](./87919-airattack-2.json) |
 | AirAttack HD | 335055 | [335055-airattack-hd.json](./335055-airattack-hd.json) |
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
 | Airball | 146513 | [146513-airball.json](./146513-airball.json) |
@@ -5021,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airdrift | 203867 | [203867-airdrift.json](./203867-airdrift.json) |
 | Aireo Flight Simulator 2025 Edition | 328579 | [328579-aireo-flight-simulator-2025-edition.json](./328579-aireo-flight-simulator-2025-edition.json) |
 | Aireo FlightSimulator | 264563 | [264563-aireo-flightsimulator.json](./264563-aireo-flightsimulator.json) |
+| Airfield Mania | 87900 | [87900-airfield-mania.json](./87900-airfield-mania.json) |
 | Airfight | 67637 | [67637-airfight.json](./67637-airfight.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
@@ -16293,6 +16295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awara | 244395 | [244395-awara.json](./244395-awara.json) |
 | Award Winners: Platinum Edition | 115782 | [115782-award-winners-platinum-edition.json](./115782-award-winners-platinum-edition.json) |
 | Award Winning Game Pack | 266160 | [266160-award-winning-game-pack.json](./266160-award-winning-game-pack.json) |
+| Award. Room of fear | 87773 | [87773-award-room-of-fear.json](./87773-award-room-of-fear.json) |
 | Awarded Platformer Bundle | 273336 | [273336-awarded-platformer-bundle.json](./273336-awarded-platformer-bundle.json) |
 | Aware | 17667 | [17667-aware.json](./17667-aware.json) |
 | Aware | 395142 | [395142-aware.json](./395142-aware.json) |
