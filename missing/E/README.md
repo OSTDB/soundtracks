@@ -6469,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
 | Evil Journey: Plan A | 263639 | [263639-evil-journey-plan-a.json](./263639-evil-journey-plan-a.json) |
 | Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
+| Evil Lands | 120564 | [120564-evil-lands.json](./120564-evil-lands.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Mansion | 172924 | [172924-evil-mansion.json](./172924-evil-mansion.json) |
 | Evil Maze | 174499 | [174499-evil-maze.json](./174499-evil-maze.json) |
@@ -6853,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile | 342777 | [342777-exile.json](./342777-exile.json) |
 | Exile II: Crystal Souls | 7781 | [7781-exile-ii-crystal-souls.json](./7781-exile-ii-crystal-souls.json) |
 | Exile III: Ruined World | 19578 | [19578-exile-iii-ruined-world.json](./19578-exile-iii-ruined-world.json) |
+| Exile of the Gods | 120507 | [120507-exile-of-the-gods.json](./120507-exile-of-the-gods.json) |
 | Exile Online | 27669 | [27669-exile-online.json](./27669-exile-online.json) |
 | Exile Squadron | 123849 | [123849-exile-squadron.json](./123849-exile-squadron.json) |
 | Exile to Death | 32869 | [32869-exile-to-death.json](./32869-exile-to-death.json) |
@@ -7204,6 +7206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploration: Light | 269987 | [269987-exploration-light.json](./269987-exploration-light.json) |
 | Explore | 246441 | [246441-explore.json](./246441-explore.json) |
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
+| Explore Fushimi Inari | 120567 | [120567-explore-fushimi-inari.json](./120567-explore-fushimi-inari.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
