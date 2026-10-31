@@ -4304,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who am I: Remedy | 280363 | [280363-who-am-i-remedy.json](./280363-who-am-i-remedy.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
 | Who am I? | 328408 | [328408-who-am-i.json](./328408-who-am-i.json) |
+| Who am I? (Biblical) | 100514 | [100514-who-am-i-biblical.json](./100514-who-am-i-biblical.json) |
 | Who Am You? | 306335 | [306335-who-am-you.json](./306335-who-am-you.json) |
 | Who Are Ya | 239284 | [239284-who-are-ya.json](./239284-who-are-ya.json) |
 | Who Are You, Mr. Cooper? | 117394 | [117394-who-are-you-mr-cooper.json](./117394-who-are-you-mr-cooper.json) |
@@ -5893,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Lair of the Witch Queen & Witches' Legacy: Hunter and the Hunted | 201072 | [201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json](./201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json) |
 | Witches' Legacy: Slumbering Darkness | 140207 | [140207-witches-legacy-slumbering-darkness.json](./140207-witches-legacy-slumbering-darkness.json) |
 | Witches' Legacy: Slumbering Darkness - Collector's Edition | 29618 | [29618-witches-legacy-slumbering-darkness-collectors-edition.json](./29618-witches-legacy-slumbering-darkness-collectors-edition.json) |
+| Witches' Legacy: Slumbering Darkness HD | 100519 | [100519-witches-legacy-slumbering-darkness-hd.json](./100519-witches-legacy-slumbering-darkness-hd.json) |
 | Witches' Legacy: The Charleston Curse - Collector's Edition | 118036 | [118036-witches-legacy-the-charleston-curse-collectors-edition.json](./118036-witches-legacy-the-charleston-curse-collectors-edition.json) |
 | Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
 | Witches' Legacy: The Dark Throne | 140208 | [140208-witches-legacy-the-dark-throne.json](./140208-witches-legacy-the-dark-throne.json) |
