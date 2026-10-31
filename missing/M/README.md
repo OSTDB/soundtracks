@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Hell | 94256 | [94256-machine-hell.json](./94256-machine-hell.json) |
 | Machine Hunt | 30849 | [30849-machine-hunt.json](./30849-machine-hunt.json) |
+| Machine Hunter | 70760 | [70760-machine-hunter.json](./70760-machine-hunter.json) |
 | Machine Knight | 39006 | [39006-machine-knight.json](./39006-machine-knight.json) |
 | Machine Learning: Episode I | 90571 | [90571-machine-learning-episode-i.json](./90571-machine-learning-episode-i.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
@@ -9514,6 +9515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Schumacher Racing World Kart 2002 | 8853 | [8853-michael-schumacher-racing-world-kart-2002.json](./8853-michael-schumacher-racing-world-kart-2002.json) |
 | Michael Schumacher World Tour Kart 2004 | 64863 | [64863-michael-schumacher-world-tour-kart-2004.json](./64863-michael-schumacher-world-tour-kart-2004.json) |
 | Michael Test | 390220 | [390220-michael-test.json](./390220-michael-test.json) |
+| Michael Vaughan's Championship Cricket Manager | 70755 | [70755-michael-vaughans-championship-cricket-manager.json](./70755-michael-vaughans-championship-cricket-manager.json) |
 | Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
 | Michel Futbol Master + Super Skills | 93076 | [93076-michel-futbol-master-super-skills.json](./93076-michel-futbol-master-super-skills.json) |
 | Michel Teló Around the World | 248621 | [248621-michel-telo-around-the-world.json](./248621-michel-telo-around-the-world.json) |
@@ -14005,6 +14007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono | 29074 | [29074-mono.json](./29074-mono.json) |
 | Mono | 389926 | [389926-mono.json](./389926-mono.json) |
+| Mono | 70748 | [70748-mono.json](./70748-mono.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Mono-Space | 278923 | [278923-mono-space.json](./278923-mono-space.json) |
