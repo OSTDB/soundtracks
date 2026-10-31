@@ -12301,6 +12301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-ing | 245728 | [245728-slime-ing.json](./245728-slime-ing.json) |
 | Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
+| Slime-san: Creator | 113302 | [113302-slime-san-creator.json](./113302-slime-san-creator.json) |
 | Slime-san: Superslime Edition | 96019 | [96019-slime-san-superslime-edition.json](./96019-slime-san-superslime-edition.json) |
 | Slime, Fire and Soul | 287794 | [287794-slime-fire-and-soul.json](./287794-slime-fire-and-soul.json) |
 | Slime: Desulted | 183465 | [183465-slime-desulted.json](./183465-slime-desulted.json) |
@@ -13355,6 +13356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Switch | 232600 | [232600-snake-switch.json](./232600-snake-switch.json) |
 | Snake VR | 78551 | [78551-snake-vr.json](./78551-snake-vr.json) |
 | Snake VS Block Math | 86730 | [86730-snake-vs-block-math.json](./86730-snake-vs-block-math.json) |
+| Snake VS Block Numbers | 113321 | [113321-snake-vs-block-numbers.json](./113321-snake-vs-block-numbers.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
 | Snake Warriors: Training | 118913 | [118913-snake-warriors-training.json](./118913-snake-warriors-training.json) |
@@ -28088,6 +28090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Grid Runner | 291046 | [291046-super-grid-runner.json](./291046-super-grid-runner.json) |
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gridland | 197753 | [197753-super-gridland.json](./197753-super-gridland.json) |
+| Super Grower | 113325 | [113325-super-grower.json](./113325-super-grower.json) |
 | Super GTR Racing | 97115 | [97115-super-gtr-racing.json](./97115-super-gtr-racing.json) |
 | Super Gunfight | 189354 | [189354-super-gunfight.json](./189354-super-gunfight.json) |
 | Super GunWorld 2 | 27300 | [27300-super-gunworld-2.json](./27300-super-gunworld-2.json) |
