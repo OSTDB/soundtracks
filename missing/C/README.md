@@ -10819,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Clash | 369135 | [369135-color-clash.json](./369135-color-clash.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
 | Color Collar | 273801 | [273801-color-collar.json](./273801-color-collar.json) |
+| Color Commando | 85041 | [85041-color-commando.json](./85041-color-commando.json) |
 | Color Computer Games #1 | 71247 | [71247-color-computer-games-1.json](./71247-color-computer-games-1.json) |
 | Color Connect | 168679 | [168679-color-connect.json](./168679-color-connect.json) |
 | Color Connect | 397235 | [397235-color-connect.json](./397235-color-connect.json) |
@@ -11520,6 +11521,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come on-be with you | 129386 | [129386-come-on-be-with-you.json](./129386-come-on-be-with-you.json) |
 | Come on,Fantasy baby! | 325730 | [325730-come-on-fantasy-baby.json](./325730-come-on-fantasy-baby.json) |
 | Come On! | 246275 | [246275-come-on.json](./246275-come-on.json) |
+| Come On! Dragons | 85045 | [85045-come-on-dragons.json](./85045-come-on-dragons.json) |
+| Come On! Heroes | 85044 | [85044-come-on-heroes.json](./85044-come-on-heroes.json) |
 | Come Out Guys | 389680 | [389680-come-out-guys.json](./389680-come-out-guys.json) |
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
@@ -11592,6 +11595,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Sakka Series Touma Senki #5: Youjuu Rudo no Chousen | 41350 | [41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json](./41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json) |
 | Comic Store Arcade | 320791 | [320791-comic-store-arcade.json](./320791-comic-store-arcade.json) |
 | Comic Store Simulator | 335219 | [335219-comic-store-simulator.json](./335219-comic-store-simulator.json) |
+| Comic Workshop | 85043 | [85043-comic-workshop.json](./85043-comic-workshop.json) |
+| Comic Workshop 2 | 85042 | [85042-comic-workshop-2.json](./85042-comic-workshop-2.json) |
 | Comicado | 16858 | [16858-comicado.json](./16858-comicado.json) |
 | ComicBachiCooon!! | 293833 | [293833-comicbachicooon.json](./293833-comicbachicooon.json) |
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
@@ -13796,6 +13801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Quest: The Origin | 395857 | [395857-cosmos-quest-the-origin.json](./395857-cosmos-quest-the-origin.json) |
 | Cosmos Remake | 179032 | [179032-cosmos-remake.json](./179032-cosmos-remake.json) |
 | Cosmos Rings | 197752 | [197752-cosmos-rings.json](./197752-cosmos-rings.json) |
+| Cosmos X2 | 85054 | [85054-cosmos-x2.json](./85054-cosmos-x2.json) |
 | Cosmos: Stella Returns | 263981 | [263981-cosmos-stella-returns.json](./263981-cosmos-stella-returns.json) |
 | Cosmosa | 117548 | [117548-cosmosa.json](./117548-cosmosa.json) |
 | Cosmosapiens | 173210 | [173210-cosmosapiens.json](./173210-cosmosapiens.json) |
@@ -15011,6 +15017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: Approaching | 69708 | [69708-crazy-chicken-approaching.json](./69708-crazy-chicken-approaching.json) |
 | Crazy Chicken: Atlantis | 69089 | [69089-crazy-chicken-atlantis.json](./69089-crazy-chicken-atlantis.json) |
 | Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
+| Crazy Chicken: Director's Cut 3D | 85053 | [85053-crazy-chicken-directors-cut-3d.json](./85053-crazy-chicken-directors-cut-3d.json) |
 | Crazy Chicken: Heart of Tibet | 73582 | [73582-crazy-chicken-heart-of-tibet.json](./73582-crazy-chicken-heart-of-tibet.json) |
 | Crazy Chicken: Jewel of Darkness | 69076 | [69076-crazy-chicken-jewel-of-darkness.json](./69076-crazy-chicken-jewel-of-darkness.json) |
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
@@ -15113,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
+| Crazy Hamster | 85051 | [85051-crazy-hamster.json](./85051-crazy-hamster.json) |
 | Crazy Hands | 164865 | [164865-crazy-hands.json](./164865-crazy-hands.json) |
 | Crazy Hangover | 393913 | [393913-crazy-hangover.json](./393913-crazy-hangover.json) |
 | Crazy Hangover 2 | 393916 | [393916-crazy-hangover-2.json](./393916-crazy-hangover-2.json) |
@@ -15122,6 +15130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Home Run! | 87878 | [87878-crazy-home-run.json](./87878-crazy-home-run.json) |
 | Crazy Hospital | 220209 | [220209-crazy-hospital.json](./220209-crazy-hospital.json) |
 | Crazy Hotel Together | 390053 | [390053-crazy-hotel-together.json](./390053-crazy-hotel-together.json) |
+| Crazy Hunter | 85057 | [85057-crazy-hunter.json](./85057-crazy-hunter.json) |
 | Crazy Indian | 157555 | [157555-crazy-indian.json](./157555-crazy-indian.json) |
 | Crazy Indian: Minion Skins | 157556 | [157556-crazy-indian-minion-skins.json](./157556-crazy-indian-minion-skins.json) |
 | Crazy Indian: Monster Skins | 157557 | [157557-crazy-indian-monster-skins.json](./157557-crazy-indian-monster-skins.json) |
@@ -15251,6 +15260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Streets - Thrill Drive 4 | 65912 | [65912-crazy-streets-thrill-drive-4.json](./65912-crazy-streets-thrill-drive-4.json) |
 | Crazy Strike Bowling EX | 52164 | [52164-crazy-strike-bowling-ex.json](./52164-crazy-strike-bowling-ex.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
+| Crazy Sudoku | 85056 | [85056-crazy-sudoku.json](./85056-crazy-sudoku.json) |
 | Crazy Sue goes on | 37276 | [37276-crazy-sue-goes-on.json](./37276-crazy-sue-goes-on.json) |
 | Crazy Super Bunnies | 234692 | [234692-crazy-super-bunnies.json](./234692-crazy-super-bunnies.json) |
 | Crazy Tank | 110680 | [110680-crazy-tank.json](./110680-crazy-tank.json) |
@@ -16857,6 +16867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Cave: Lost Treasures | 193704 | [193704-crystal-cave-lost-treasures.json](./193704-crystal-cave-lost-treasures.json) |
 | Crystal Caverns | 177420 | [177420-crystal-caverns.json](./177420-crystal-caverns.json) |
 | Crystal Caverns | 339344 | [339344-crystal-caverns.json](./339344-crystal-caverns.json) |
+| Crystal Caverns of Amon-Ra | 85055 | [85055-crystal-caverns-of-amon-ra.json](./85055-crystal-caverns-of-amon-ra.json) |
 | Crystal Caves | 8483 | [8483-crystal-caves.json](./8483-crystal-caves.json) |
 | Crystal Caves HD | 138981 | [138981-crystal-caves-hd.json](./138981-crystal-caves-hd.json) |
 | Crystal Caves Volume 1: Troubles with Twibbles | 51394 | [51394-crystal-caves-volume-1-troubles-with-twibbles.json](./51394-crystal-caves-volume-1-troubles-with-twibbles.json) |
@@ -17146,6 +17157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
 | Cube Battler: Debugger Shou-hen | 70874 | [70874-cube-battler-debugger-shou-hen.json](./70874-cube-battler-debugger-shou-hen.json) |
 | Cube Blast: Match | 152613 | [152613-cube-blast-match.json](./152613-cube-blast-match.json) |
+| Cube Blitz | 85061 | [85061-cube-blitz.json](./85061-cube-blitz.json) |
 | Cube Boy | 418208 | [418208-cube-boy.json](./418208-cube-boy.json) |
 | Cube Burst 3D | 387740 | [387740-cube-burst-3d.json](./387740-cube-burst-3d.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
@@ -17216,6 +17228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Land Arena | 33288 | [33288-cube-land-arena.json](./33288-cube-land-arena.json) |
 | Cube Life: Island Survival | 60151 | [60151-cube-life-island-survival.json](./60151-cube-life-island-survival.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
+| Cube Life: Island Survival HD | 85062 | [85062-cube-life-island-survival-hd.json](./85062-cube-life-island-survival-hd.json) |
 | Cube Link | 51966 | [51966-cube-link.json](./51966-cube-link.json) |
 | Cube Man | 115367 | [115367-cube-man.json](./115367-cube-man.json) |
 | Cube Master | 116966 | [116966-cube-master.json](./116966-cube-master.json) |
@@ -17432,6 +17445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubit | 13536 | [13536-cubit.json](./13536-cubit.json) |
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
+| Cubit the Hardcore Platformer Robot HD | 85060 | [85060-cubit-the-hardcore-platformer-robot-hd.json](./85060-cubit-the-hardcore-platformer-robot-hd.json) |
 | Cubit: The Hardcore Platformer Robot | 47644 | [47644-cubit-the-hardcore-platformer-robot.json](./47644-cubit-the-hardcore-platformer-robot.json) |
 | Cubiti Dash 'n' Dodge | 308170 | [308170-cubiti-dash-n-dodge.json](./308170-cubiti-dash-n-dodge.json) |
 | Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
@@ -18220,6 +18234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute War: Zero | 86740 | [86740-cute-war-zero.json](./86740-cute-war-zero.json) |
 | Cute Warrior Girl | 369352 | [369352-cute-warrior-girl.json](./369352-cute-warrior-girl.json) |
 | Cute Warrior Girl 2 | 369536 | [369536-cute-warrior-girl-2.json](./369536-cute-warrior-girl-2.json) |
+| Cute Witch! Runner | 85058 | [85058-cute-witch-runner.json](./85058-cute-witch-runner.json) |
 | Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
 | Cute, Evil & Strange | 116411 | [116411-cute-evil-and-strange.json](./116411-cute-evil-and-strange.json) |
@@ -18238,6 +18253,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Crowd Control | 272776 | [272776-cutie-crowd-control.json](./272776-cutie-crowd-control.json) |
 | Cutie Garden | 188280 | [188280-cutie-garden.json](./188280-cutie-garden.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
+| Cutie Pets Go Fishing | 85070 | [85070-cutie-pets-go-fishing.json](./85070-cutie-pets-go-fishing.json) |
+| Cutie Pets Jump Rope | 85069 | [85069-cutie-pets-jump-rope.json](./85069-cutie-pets-jump-rope.json) |
+| Cutie Pets Pick Berries | 85068 | [85068-cutie-pets-pick-berries.json](./85068-cutie-pets-pick-berries.json) |
 | Cutie Q | 21674 | [21674-cutie-q.json](./21674-cutie-q.json) |
 | Cutie Smile: Kimi to Issho ni | 398994 | [398994-cutie-smile-kimi-to-issho-ni.json](./398994-cutie-smile-kimi-to-issho-ni.json) |
 | Cutie Squad: Crime War | 404263 | [404263-cutie-squad-crime-war.json](./404263-cutie-squad-crime-war.json) |
