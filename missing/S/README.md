@@ -5154,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | September 7th | 230769 | [230769-september-7th.json](./230769-september-7th.json) |
 | September is Halfway Over | 131552 | [131552-september-is-halfway-over.json](./131552-september-is-halfway-over.json) |
 | September Secrets | 82180 | [82180-september-secrets.json](./82180-september-secrets.json) |
+| Septentrion: Out of the Blue | 79661 | [79661-septentrion-out-of-the-blue.json](./79661-septentrion-out-of-the-blue.json) |
 | Septerra Core: Legacy of the Creator | 7844 | [7844-septerra-core-legacy-of-the-creator.json](./7844-septerra-core-legacy-of-the-creator.json) |
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
 | Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
@@ -10218,6 +10219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
 | Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
 | Sin(e)s | 255216 | [255216-sin-e-s.json](./255216-sin-e-s.json) |
+| sin(Surfing) | 79647 | [79647-sin-surfing.json](./79647-sin-surfing.json) |
 | Sina | 185008 | [185008-sina.json](./185008-sina.json) |
 | Sina | 291308 | [291308-sina.json](./291308-sina.json) |
 | Sinag | 293317 | [293317-sinag.json](./293317-sinag.json) |
@@ -10891,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
 | Skeleton Warriors: The Dark Crusade | 217688 | [217688-skeleton-warriors-the-dark-crusade.json](./217688-skeleton-warriors-the-dark-crusade.json) |
 | Skeleton Wave | 156894 | [156894-skeleton-wave.json](./156894-skeleton-wave.json) |
+| Skeleton+ | 79512 | [79512-skeleton.json](./79512-skeleton.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
 | Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
@@ -17786,7 +17789,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -25869,6 +25871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
 | Strikeforce Kitty 2 | 102018 | [102018-strikeforce-kitty-2.json](./102018-strikeforce-kitty-2.json) |
 | Strikeforce Kitty: Last Stand | 101904 | [101904-strikeforce-kitty-last-stand.json](./101904-strikeforce-kitty-last-stand.json) |
+| StrikeForce-Psi | 79509 | [79509-strikeforce-psi.json](./79509-strikeforce-psi.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker | 12783 | [12783-striker.json](./12783-striker.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
@@ -27634,6 +27637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super 3D Maze 16 | 325983 | [325983-super-3d-maze-16.json](./325983-super-3d-maze-16.json) |
 | Super 3D Table Tennis | 147072 | [147072-super-3d-table-tennis.json](./147072-super-3d-table-tennis.json) |
+| Super 4 in 1 Multicart | 79511 | [79511-super-4-in-1-multicart.json](./79511-super-4-in-1-multicart.json) |
 | Super 8 Football | 267552 | [267552-super-8-football.json](./267552-super-8-football.json) |
 | Super 80s World | 116013 | [116013-super-80s-world.json](./116013-super-80s-world.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
@@ -30033,6 +30037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sokoban | 38291 | [38291-super-sokoban.json](./38291-super-sokoban.json) |
 | Super Solitaire | 42450 | [42450-super-solitaire.json](./42450-super-solitaire.json) |
 | Super Solitaire: Card Game | 277890 | [277890-super-solitaire-card-game.json](./277890-super-solitaire-card-game.json) |
+| Super Solvers Mission: T.H.I.N.K. | 79501 | [79501-super-solvers-mission-t-h-i-n-k.json](./79501-super-solvers-mission-t-h-i-n-k.json) |
 | Super Solvers: Challenge of the Ancient Empires! | 72543 | [72543-super-solvers-challenge-of-the-ancient-empires.json](./72543-super-solvers-challenge-of-the-ancient-empires.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
@@ -30464,6 +30469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfly | 44367 | [44367-superfly.json](./44367-superfly.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
+| Superfrog/Arcade Pool | 79510 | [79510-superfrog-arcade-pool.json](./79510-superfrog-arcade-pool.json) |
 | Supergalactix | 248241 | [248241-supergalactix.json](./248241-supergalactix.json) |
 | Supergun | 241200 | [241200-supergun.json](./241200-supergun.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
