@@ -18726,6 +18726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Equestria Girls - Friendship Games: Motocross | 264225 | [264225-my-little-pony-equestria-girls-friendship-games-motocross.json](./264225-my-little-pony-equestria-girls-friendship-games-motocross.json) |
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
+| My Little Pony: Friendship Gardens | 108154 | [108154-my-little-pony-friendship-gardens.json](./108154-my-little-pony-friendship-gardens.json) |
 | My Little Pony: Friendship is Magic | 207046 | [207046-my-little-pony-friendship-is-magic.json](./207046-my-little-pony-friendship-is-magic.json) |
 | My Little Pony: Friendship Is Magic | 8443 | [8443-my-little-pony-friendship-is-magic.json](./8443-my-little-pony-friendship-is-magic.json) |
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
