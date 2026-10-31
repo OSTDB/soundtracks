@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nefarious Dreams | 330855 | [330855-nefarious-dreams.json](./330855-nefarious-dreams.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
 | Nefasto's Misadventure: Meeting Noeroze | 142181 | [142181-nefastos-misadventure-meeting-noeroze.json](./142181-nefastos-misadventure-meeting-noeroze.json) |
+| Nefertari: Journey to Eternity | 103751 | [103751-nefertari-journey-to-eternity.json](./103751-nefertari-journey-to-eternity.json) |
 | Neffy: Moonlight Labyrinth | 330778 | [330778-neffy-moonlight-labyrinth.json](./330778-neffy-moonlight-labyrinth.json) |
 | Neffy: Moonlight Labyrinth X | 369061 | [369061-neffy-moonlight-labyrinth-x.json](./369061-neffy-moonlight-labyrinth-x.json) |
 | Nefiriya and the Sands of Eternity | 331470 | [331470-nefiriya-and-the-sands-of-eternity.json](./331470-nefiriya-and-the-sands-of-eternity.json) |
