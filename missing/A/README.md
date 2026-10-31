@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
 | Absorb Invader | 303328 | [303328-absorb-invader.json](./303328-absorb-invader.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
+| Absorption | 113984 | [113984-absorption.json](./113984-absorption.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
 | Abstêmia | 289175 | [289175-abstemia.json](./289175-abstemia.json) |
 | AbsTRace | 391219 | [391219-abstrace.json](./391219-abstrace.json) |
@@ -3481,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon Flux | 80426 | [80426-aeon-flux.json](./80426-aeon-flux.json) |
 | Aeon Guard | 381196 | [381196-aeon-guard.json](./381196-aeon-guard.json) |
+| Aeon Must Die | 114037 | [114037-aeon-must-die.json](./114037-aeon-must-die.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
 | Aeon on Mosaic: Anemone | 284345 | [284345-aeon-on-mosaic-anemone.json](./284345-aeon-on-mosaic-anemone.json) |
 | Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
@@ -16295,6 +16297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Slasher | 333065 | [333065-axe-slasher.json](./333065-axe-slasher.json) |
 | Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
 | Axe, Bow & Staff | 33794 | [33794-axe-bow-and-staff.json](./33794-axe-bow-and-staff.json) |
+| AxE: Alliance vs Empire | 114013 | [114013-axe-alliance-vs-empire.json](./114013-axe-alliance-vs-empire.json) |
 | AxE: Alliance Vs Empire | 125351 | [125351-axe-alliance-vs-empire.json](./125351-axe-alliance-vs-empire.json) |
 | Axe: Survival | 111389 | [111389-axe-survival.json](./111389-axe-survival.json) |
 | Axe.io | 100358 | [100358-axe-io.json](./100358-axe-io.json) |
