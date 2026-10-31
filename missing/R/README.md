@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Blaster | 67691 | [67691-ragdoll-blaster.json](./67691-ragdoll-blaster.json) |
 | Ragdoll Blaster 2 | 66775 | [66775-ragdoll-blaster-2.json](./66775-ragdoll-blaster-2.json) |
 | Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
+| Ragdoll Boxing: Match of the Century | 106833 | [106833-ragdoll-boxing-match-of-the-century.json](./106833-ragdoll-boxing-match-of-the-century.json) |
 | Ragdoll Cannon | 316711 | [316711-ragdoll-cannon.json](./316711-ragdoll-cannon.json) |
 | Ragdoll Combat | 263071 | [263071-ragdoll-combat.json](./263071-ragdoll-combat.json) |
 | Ragdoll Destroyer | 252673 | [252673-ragdoll-destroyer.json](./252673-ragdoll-destroyer.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats, Bats, and Bones | 113164 | [113164-rats-bats-and-bones.json](./113164-rats-bats-and-bones.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
 | Rats! | 94105 | [94105-rats.json](./94105-rats.json) |
+| RatScrew | 106865 | [106865-ratscrew.json](./106865-ratscrew.json) |
 | RatScum | 364248 | [364248-ratscum.json](./364248-ratscum.json) |
 | Rätsel & Denkspiele | 91604 | [91604-ratsel-and-denkspiele.json](./91604-ratsel-and-denkspiele.json) |
 | Rätsel & Denkspiele Extra | 91602 | [91602-ratsel-and-denkspiele-extra.json](./91602-ratsel-and-denkspiele-extra.json) |
@@ -4117,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regalia: Of Men and Monarchs - The Unending Grimoire | 84829 | [84829-regalia-of-men-and-monarchs-the-unending-grimoire.json](./84829-regalia-of-men-and-monarchs-the-unending-grimoire.json) |
 | Regalia: Royal Edition | 78118 | [78118-regalia-royal-edition.json](./78118-regalia-royal-edition.json) |
 | Regarding Sasha | 350866 | [350866-regarding-sasha.json](./350866-regarding-sasha.json) |
+| Regency Love | 106876 | [106876-regency-love.json](./106876-regency-love.json) |
 | Regency Solitaire | 35745 | [35745-regency-solitaire.json](./35745-regency-solitaire.json) |
 | Regency Solitaire II | 237089 | [237089-regency-solitaire-ii.json](./237089-regency-solitaire-ii.json) |
 | Regeneration | 318279 | [318279-regeneration.json](./318279-regeneration.json) |
@@ -10639,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPGolf Legends | 151813 | [151813-rpgolf-legends.json](./151813-rpgolf-legends.json) |
 | RPM Racing | 42466 | [42466-rpm-racing.json](./42466-rpm-racing.json) |
 | RPM: Road Punk Mayhem | 304521 | [304521-rpm-road-punk-mayhem.json](./304521-rpm-road-punk-mayhem.json) |
+| RPS - Rock Paper Scissors | 106834 | [106834-rps-rock-paper-scissors.json](./106834-rps-rock-paper-scissors.json) |
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Hunger | 371426 | [371426-rps-hunger.json](./371426-rps-hunger.json) |
 | RPS Knights | 257244 | [257244-rps-knights.json](./257244-rps-knights.json) |
@@ -11821,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruuuuuun | 211036 | [211036-ruuuuuun.json](./211036-ruuuuuun.json) |
 | Ruvato: Original Complex | 142187 | [142187-ruvato-original-complex.json](./142187-ruvato-original-complex.json) |
 | RUVN Contest Reboot | 292759 | [292759-ruvn-contest-reboot.json](./292759-ruvn-contest-reboot.json) |
+| Ruya | 106853 | [106853-ruya.json](./106853-ruya.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ruzh Delta Z | 35230 | [35230-ruzh-delta-z.json](./35230-ruzh-delta-z.json) |
