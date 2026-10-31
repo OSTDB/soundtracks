@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zatsugaku Olympic Watanabe Wataru-Hen | 232827 | [232827-zatsugaku-olympic-watanabe-wataru-hen.json](./232827-zatsugaku-olympic-watanabe-wataru-hen.json) |
 | Zauberfläche | 85936 | [85936-zauberflache.json](./85936-zauberflache.json) |
+| Zauberstein | 92802 | [92802-zauberstein.json](./92802-zauberstein.json) |
 | Zaum Gadget | 259455 | [259455-zaum-gadget.json](./259455-zaum-gadget.json) |
 | Zavas | 232825 | [232825-zavas.json](./232825-zavas.json) |
 | Zavas II: The Prophecy of Mehitae | 232826 | [232826-zavas-ii-the-prophecy-of-mehitae.json](./232826-zavas-ii-the-prophecy-of-mehitae.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooma:Chapter 4 - "Temple of the Damned" | 168373 | [168373-zooma-chapter-4-temple-of-the-damned.json](./168373-zooma-chapter-4-temple-of-the-damned.json) |
 | Zoomageddon | 327170 | [327170-zoomageddon.json](./327170-zoomageddon.json) |
 | Zoomalia | 376443 | [376443-zoomalia.json](./376443-zoomalia.json) |
+| Zoombies: Animales de la Muerte | 92761 | [92761-zoombies-animales-de-la-muerte.json](./92761-zoombies-animales-de-la-muerte.json) |
 | Zoombinis | 34591 | [34591-zoombinis.json](./34591-zoombinis.json) |
 | Zoombinis: Island Odyssey | 68248 | [68248-zoombinis-island-odyssey.json](./68248-zoombinis-island-odyssey.json) |
 | Zoombinis: Mountain Rescue | 68249 | [68249-zoombinis-mountain-rescue.json](./68249-zoombinis-mountain-rescue.json) |
