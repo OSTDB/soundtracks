@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 28: Treasure Map | 100772 | [100772-fantasy-mosaics-28-treasure-map.json](./100772-fantasy-mosaics-28-treasure-map.json) |
 | Fantasy Mosaics 29: Alien Planet | 103898 | [103898-fantasy-mosaics-29-alien-planet.json](./103898-fantasy-mosaics-29-alien-planet.json) |
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
+| Fantasy Mosaics 30: Camping Trip | 109220 | [109220-fantasy-mosaics-30-camping-trip.json](./109220-fantasy-mosaics-30-camping-trip.json) |
 | Fantasy Mosaics 31: First Date | 381347 | [381347-fantasy-mosaics-31-first-date.json](./381347-fantasy-mosaics-31-first-date.json) |
 | Fantasy Mosaics 32: Santa's Hut | 381346 | [381346-fantasy-mosaics-32-santas-hut.json](./381346-fantasy-mosaics-32-santas-hut.json) |
 | Fantasy Mosaics 33: Inventor's Workshop | 143907 | [143907-fantasy-mosaics-33-inventors-workshop.json](./143907-fantasy-mosaics-33-inventors-workshop.json) |
@@ -7241,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Art - Dollhouse | 107118 | [107118-flippix-art-dollhouse.json](./107118-flippix-art-dollhouse.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
+| FlipPix Jigsaw - Time | 109231 | [109231-flippix-jigsaw-time.json](./109231-flippix-jigsaw-time.json) |
 | FlippUp | 356015 | [356015-flippup.json](./356015-flippup.json) |
 | Flippy | 88759 | [88759-flippy.json](./88759-flippy.json) |
 | Flippy Bard | 61309 | [61309-flippy-bard.json](./61309-flippy-bard.json) |
@@ -8164,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Stylist: Design Game | 214672 | [214672-food-stylist-design-game.json](./214672-food-stylist-design-game.json) |
 | Food Truck Chef | 105841 | [105841-food-truck-chef.json](./105841-food-truck-chef.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
+| Food Truck Rush | 109237 | [109237-food-truck-rush.json](./109237-food-truck-rush.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
 | Food Truck Simulator | 129109 | [129109-food-truck-simulator.json](./129109-food-truck-simulator.json) |
 | Food Truck Time Machine | 260299 | [260299-food-truck-time-machine.json](./260299-food-truck-time-machine.json) |
@@ -10529,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
+| Freedoom | 109266 | [109266-freedoom.json](./109266-freedoom.json) |
 | FreedroidRPG | 121934 | [121934-freedroidrpg.json](./121934-freedroidrpg.json) |
 | Freefall | 11297 | [11297-freefall.json](./11297-freefall.json) |
 | Freefall 3050 A.D. | 51180 | [51180-freefall-3050-a-d.json](./51180-freefall-3050-a-d.json) |
