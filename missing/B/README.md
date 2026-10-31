@@ -4166,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
 | Battojutsu | 147766 | [147766-battojutsu.json](./147766-battojutsu.json) |
 | Battow: Mages And Monsters | 327027 | [327027-battow-mages-and-monsters.json](./327027-battow-mages-and-monsters.json) |
+| Batty | 71849 | [71849-batty.json](./71849-batty.json) |
 | Batty Builders | 293716 | [293716-batty-builders.json](./293716-batty-builders.json) |
 | Batty Jumpers | 123257 | [123257-batty-jumpers.json](./123257-batty-jumpers.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
@@ -6523,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond The Tales | 336653 | [336653-beyond-the-tales.json](./336653-beyond-the-tales.json) |
 | Beyond the Thaw | 170433 | [170433-beyond-the-thaw.json](./170433-beyond-the-thaw.json) |
 | Beyond the Threshold | 347561 | [347561-beyond-the-threshold.json](./347561-beyond-the-threshold.json) |
+| Beyond the Threshold | 71956 | [71956-beyond-the-threshold.json](./71956-beyond-the-threshold.json) |
 | Beyond the Titanic | 73704 | [73704-beyond-the-titanic.json](./73704-beyond-the-titanic.json) |
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Unknown: A Matter of Time - Collector's Edition | 417302 | [417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json](./417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json) |
@@ -10163,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Within: Star's Shadow Armor | 323244 | [323244-blood-within-stars-shadow-armor.json](./323244-blood-within-stars-shadow-armor.json) |
 | Blood Within: Thunderstorm Armor | 323246 | [323246-blood-within-thunderstorm-armor.json](./323246-blood-within-thunderstorm-armor.json) |
 | Blood X Thirsty | 338258 | [338258-blood-x-thirsty.json](./338258-blood-x-thirsty.json) |
+| Blood Zero | 71847 | [71847-blood-zero.json](./71847-blood-zero.json) |
 | Blood-over- | 93069 | [93069-blood-over.json](./93069-blood-over.json) |
 | Blood, Fire, Death | 268601 | [268601-blood-fire-death.json](./268601-blood-fire-death.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
