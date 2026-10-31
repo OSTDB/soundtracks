@@ -4187,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hells Gate | 182683 | [182683-hells-gate.json](./182683-hells-gate.json) |
 | HellScape: Two Brothers | 128196 | [128196-hellscape-two-brothers.json](./128196-hellscape-two-brothers.json) |
 | Hellscaper | 394647 | [394647-hellscaper.json](./394647-hellscaper.json) |
+| Hellscreen | 89557 | [89557-hellscreen.json](./89557-hellscreen.json) |
 | Hellseed | 127607 | [127607-hellseed.json](./127607-hellseed.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
 | HellSign | 24989 | [24989-hellsign.json](./24989-hellsign.json) |
@@ -6512,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects - Country Style | 89164 | [89164-hidden-objects-country-style.json](./89164-hidden-objects-country-style.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
+| Hidden Objects - World Traveler | 89577 | [89577-hidden-objects-world-traveler.json](./89577-hidden-objects-world-traveler.json) |
 | Hidden Objects : Ancient Egyptian Objects | 96445 | [96445-hidden-objects-ancient-egyptian-objects.json](./96445-hidden-objects-ancient-egyptian-objects.json) |
 | Hidden Objects Ancient Greece | 88847 | [88847-hidden-objects-ancient-greece.json](./88847-hidden-objects-ancient-greece.json) |
 | Hidden Objects Christmas Game | 241214 | [241214-hidden-objects-christmas-game.json](./241214-hidden-objects-christmas-game.json) |
