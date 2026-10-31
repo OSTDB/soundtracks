@@ -869,7 +869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1314,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Blast: Space DLC | 356815 | [356815-ball-blast-space-dlc.json](./356815-ball-blast-space-dlc.json) |
 | Ball Blast: Space Edition | 364097 | [364097-ball-blast-space-edition.json](./364097-ball-blast-space-edition.json) |
 | Ball Blast: Wilds DLC | 356816 | [356816-ball-blast-wilds-dlc.json](./356816-ball-blast-wilds-dlc.json) |
+| Ball Blast! | 100502 | [100502-ball-blast.json](./100502-ball-blast.json) |
 | Ball Blaster | 246312 | [246312-ball-blaster.json](./246312-ball-blaster.json) |
 | Ball Blaster | 359386 | [359386-ball-blaster.json](./359386-ball-blaster.json) |
 | Ball Blitz! | 296615 | [296615-ball-blitz.json](./296615-ball-blitz.json) |
@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Game | 75197 | [75197-ball-game.json](./75197-ball-game.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
 | Ball Gates | 102105 | [102105-ball-gates.json](./102105-ball-gates.json) |
+| Ball Grabbers | 100482 | [100482-ball-grabbers.json](./100482-ball-grabbers.json) |
 | Ball Guys : Stumble & Fall | 393130 | [393130-ball-guys-stumble-and-fall.json](./393130-ball-guys-stumble-and-fall.json) |
 | Ball Hentai Puzzle | 273359 | [273359-ball-hentai-puzzle.json](./273359-ball-hentai-puzzle.json) |
 | Ball Heroes | 369633 | [369633-ball-heroes.json](./369633-ball-heroes.json) |
@@ -7590,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
 | Bird Game III | 400160 | [400160-bird-game-iii.json](./400160-bird-game-iii.json) |
+| Bird Hunt | 100508 | [100508-bird-hunt.json](./100508-bird-hunt.json) |
 | Bird Hunter | 246433 | [246433-bird-hunter.json](./246433-bird-hunter.json) |
 | Bird Hunter 2003: Legendary Hunting | 69525 | [69525-bird-hunter-2003-legendary-hunting.json](./69525-bird-hunter-2003-legendary-hunting.json) |
 | Bird Hunter: Wild Wings Edition | 73491 | [73491-bird-hunter-wild-wings-edition.json](./73491-bird-hunter-wild-wings-edition.json) |
@@ -14180,6 +14182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: The Christmas Curse | 397116 | [397116-bridge-to-another-world-the-christmas-curse.json](./397116-bridge-to-another-world-the-christmas-curse.json) |
 | Bridge to Another World: The Others | 140289 | [140289-bridge-to-another-world-the-others.json](./140289-bridge-to-another-world-the-others.json) |
 | Bridge to Another World: The Others - Collector's Edition | 75655 | [75655-bridge-to-another-world-the-others-collectors-edition.json](./75655-bridge-to-another-world-the-others-collectors-edition.json) |
+| Bridge to Another World: The Others HD | 100518 | [100518-bridge-to-another-world-the-others-hd.json](./100518-bridge-to-another-world-the-others-hd.json) |
 | Bridge to Another World: Through the Looking Glass | 397099 | [397099-bridge-to-another-world-through-the-looking-glass.json](./397099-bridge-to-another-world-through-the-looking-glass.json) |
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
 | Bridge Training | 206493 | [206493-bridge-training.json](./206493-bridge-training.json) |
@@ -15468,6 +15471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building 847 | 160214 | [160214-building-847.json](./160214-building-847.json) |
 | Building Academy: Jigsaw Puzzle | 89792 | [89792-building-academy-jigsaw-puzzle.json](./89792-building-academy-jigsaw-puzzle.json) |
 | Building Block Heroes | 55257 | [55257-building-block-heroes.json](./55257-building-block-heroes.json) |
+| Building Block Heroes: Rush Edition | 100479 | [100479-building-block-heroes-rush-edition.json](./100479-building-block-heroes-rush-edition.json) |
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
