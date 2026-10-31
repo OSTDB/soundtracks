@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Nova | 406092 | [406092-kill-the-nova.json](./406092-kill-the-nova.json) |
 | Kill the Old Gods | 56431 | [56431-kill-the-old-gods.json](./56431-kill-the-old-gods.json) |
 | Kill the Pineapple | 150355 | [150355-kill-the-pineapple.json](./150355-kill-the-pineapple.json) |
+| Kill the Plumber 2 | 101880 | [101880-kill-the-plumber-2.json](./101880-kill-the-plumber-2.json) |
 | Kill the Plumber World | 100732 | [100732-kill-the-plumber-world.json](./100732-kill-the-plumber-world.json) |
 | Kill the Prince?! | 178882 | [178882-kill-the-prince.json](./178882-kill-the-prince.json) |
 | Kill the Ragdoll Stickman 2 | 175549 | [175549-kill-the-ragdoll-stickman-2.json](./175549-kill-the-ragdoll-stickman-2.json) |
