@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap to It! | 234893 | [234893-zap-to-it.json](./234893-zap-to-it.json) |
 | Zap Zone | 30111 | [30111-zap-zone.json](./30111-zap-zone.json) |
 | Zap, Blast, Loot | 105272 | [105272-zap-blast-loot.json](./105272-zap-blast-loot.json) |
+| Zap! | 94483 | [94483-zap.json](./94483-zap.json) |
 | Zap'em | 25157 | [25157-zapem.json](./25157-zapem.json) |
 | Zap't'Balls | 95464 | [95464-zaptballs.json](./95464-zaptballs.json) |
 | Zap't'Balls: The Advanced Edition | 72002 | [72002-zaptballs-the-advanced-edition.json](./72002-zaptballs-the-advanced-edition.json) |
