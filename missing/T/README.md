@@ -14206,6 +14206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rhapsody of Zephyr Remastered | 416992 | [416992-the-rhapsody-of-zephyr-remastered.json](./416992-the-rhapsody-of-zephyr-remastered.json) |
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
+| The Rhys510 Flash Back | 89598 | [89598-the-rhys510-flash-back.json](./89598-the-rhys510-flash-back.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
 | The Ribbon Club ch1: Tea and Cake | 185267 | [185267-the-ribbon-club-ch1-tea-and-cake.json](./185267-the-ribbon-club-ch1-tea-and-cake.json) |
 | The Ribbon Club ch2: Spring Storm | 185281 | [185281-the-ribbon-club-ch2-spring-storm.json](./185281-the-ribbon-club-ch2-spring-storm.json) |
@@ -19084,6 +19085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
+| Tidy Your Room Simulator | 89604 | [89604-tidy-your-room-simulator.json](./89604-tidy-your-room-simulator.json) |
 | TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
@@ -23485,6 +23487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toriko: Gourmet Survival 2 | 64167 | [64167-toriko-gourmet-survival-2.json](./64167-toriko-gourmet-survival-2.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
+| Torimodosu | 89607 | [89607-torimodosu.json](./89607-torimodosu.json) |
 | Torin's Passage | 2223 | [2223-torins-passage.json](./2223-torins-passage.json) |
 | Torino 2006 | 6205 | [6205-torino-2006.json](./6205-torino-2006.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
