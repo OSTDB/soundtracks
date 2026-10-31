@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kahen Soukou Gunbike | 44756 | [44756-kahen-soukou-gunbike.json](./44756-kahen-soukou-gunbike.json) |
 | Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
 | Kai | 302610 | [302610-kai.json](./302610-kai.json) |
+| Kai Entity | 107510 | [107510-kai-entity.json](./107510-kai-entity.json) |
 | Kai Temple | 94910 | [94910-kai-temple.json](./94910-kai-temple.json) |
 | Kai UnEarthed | 361037 | [361037-kai-unearthed.json](./361037-kai-unearthed.json) |
 | Kai Yuan | 236948 | [236948-kai-yuan.json](./236948-kai-yuan.json) |
@@ -255,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiketsu Zorori: Mezase! Itazura King | 307269 | [307269-kaiketsu-zorori-mezase-itazura-king.json](./307269-kaiketsu-zorori-mezase-itazura-king.json) |
 | Kaiketsu! Nekoashi Otome-chan | 147223 | [147223-kaiketsu-nekoashi-otome-chan.json](./147223-kaiketsu-nekoashi-otome-chan.json) |
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Izayoi Jigoku | 131213 | [131213-kaiki-gensou-yumemonogatari-kaijuu-kitan-izayoi-jigoku.json](./131213-kaiki-gensou-yumemonogatari-kaijuu-kitan-izayoi-jigoku.json) |
+| Kaiki Gensou Yumemonogatari: Kaijuu Kitan Oboro Juuya | 107512 | [107512-kaiki-gensou-yumemonogatari-kaijuu-kitan-oboro-juuya.json](./107512-kaiki-gensou-yumemonogatari-kaijuu-kitan-oboro-juuya.json) |
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Ouja-den | 110137 | [110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json](./110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json) |
 | Kaiki Sando | 282243 | [282243-kaiki-sando.json](./282243-kaiki-sando.json) |
 | Kaiki: Okujou no Yuurei to Akuma no Gishiki | 283853 | [283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json](./283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json) |
