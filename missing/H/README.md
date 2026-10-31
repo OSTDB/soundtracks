@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardPunch: Sex Plague | 417403 | [417403-hardpunch-sex-plague.json](./417403-hardpunch-sex-plague.json) |
 | Hardrock Sex 3D | 215687 | [215687-hardrock-sex-3d.json](./215687-hardrock-sex-3d.json) |
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
+| Hardwar | 80278 | [80278-hardwar.json](./80278-hardwar.json) |
 | Hardware Engineering | 31400 | [31400-hardware-engineering.json](./31400-hardware-engineering.json) |
 | Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
 | Hardware Excalibur | 301632 | [301632-hardware-excalibur.json](./301632-hardware-excalibur.json) |
@@ -6764,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiderman | 411983 | [411983-hiderman.json](./411983-hiderman.json) |
 | Hidey Ducks: Seasons | 315352 | [315352-hidey-ducks-seasons.json](./315352-hidey-ducks-seasons.json) |
 | Hidey Spot | 240972 | [240972-hidey-spot.json](./240972-hidey-spot.json) |
+| Hideyoshi Freeeeeze! | 80289 | [80289-hideyoshi-freeeeeze.json](./80289-hideyoshi-freeeeeze.json) |
 | Hiding | 364849 | [364849-hiding.json](./364849-hiding.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
 | Hidiom | 158933 | [158933-hidiom.json](./158933-hidiom.json) |
