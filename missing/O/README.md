@@ -5505,3 +5505,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozzie's World | 398686 | [398686-ozzies-world.json](./398686-ozzies-world.json) |
 | Ozzy | 311332 | [311332-ozzy.json](./311332-ozzy.json) |
 | Ozzy & Drix | 49318 | [49318-ozzy-and-drix.json](./49318-ozzy-and-drix.json) |
+| Ozzy Versus the Universe I: Demons of Topaz | 72462 | [72462-ozzy-versus-the-universe-i-demons-of-topaz.json](./72462-ozzy-versus-the-universe-i-demons-of-topaz.json) |
