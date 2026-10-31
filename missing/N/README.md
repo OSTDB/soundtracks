@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napolitan Hotel | 336506 | [336506-napolitan-hotel.json](./336506-napolitan-hotel.json) |
 | Napped | 219648 | [219648-napped.json](./219648-napped.json) |
 | Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
+| NAR - Not Another Royale | 113276 | [113276-nar-not-another-royale.json](./113276-nar-not-another-royale.json) |
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
 | Naraba: The Labyrinth of Light | 206781 | [206781-naraba-the-labyrinth-of-light.json](./206781-naraba-the-labyrinth-of-light.json) |
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
@@ -1968,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemixar | 396003 | [396003-nemixar.json](./396003-nemixar.json) |
 | Nemiza's Verdict | 335832 | [335832-nemizas-verdict.json](./335832-nemizas-verdict.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
+| Nemo Dungeon | 113316 | [113316-nemo-dungeon.json](./113316-nemo-dungeon.json) |
 | Nemo is going to School | 264105 | [264105-nemo-is-going-to-school.json](./264105-nemo-is-going-to-school.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
 | Nemo's Aqua Pop | 216048 | [216048-nemos-aqua-pop.json](./216048-nemos-aqua-pop.json) |
