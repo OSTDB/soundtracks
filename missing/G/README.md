@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts'n Goblins Arcade | 41139 | [41139-ghostsn-goblins-arcade.json](./41139-ghostsn-goblins-arcade.json) |
 | Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
 | Ghostship | 417396 | [417396-ghostship.json](./417396-ghostship.json) |
+| GhostSlayer | 67039 | [67039-ghostslayer.json](./67039-ghostslayer.json) |
 | Ghostslayers | 325369 | [325369-ghostslayers.json](./325369-ghostslayers.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostus | 263329 | [263329-ghostus.json](./263329-ghostus.json) |
@@ -9883,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Guncrypt | 405589 | [405589-guncrypt.json](./405589-guncrypt.json) |
 | Gundam 0079: The War for Earth | 70795 | [70795-gundam-0079-the-war-for-earth.json](./70795-gundam-0079-the-war-for-earth.json) |
+| Gundam Assault Survive | 67126 | [67126-gundam-assault-survive.json](./67126-gundam-assault-survive.json) |
 | Gundam Battle Assault 2 | 45007 | [45007-gundam-battle-assault-2.json](./45007-gundam-battle-assault-2.json) |
 | Gundam Battle Chronicle | 66596 | [66596-gundam-battle-chronicle.json](./66596-gundam-battle-chronicle.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
