@@ -4406,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Caravan | 369667 | [369667-caveman-caravan.json](./369667-caveman-caravan.json) |
 | Caveman Chuck | 109325 | [109325-caveman-chuck.json](./109325-caveman-chuck.json) |
 | Caveman Chuck: Prehistoric Adventure | 147598 | [147598-caveman-chuck-prehistoric-adventure.json](./147598-caveman-chuck-prehistoric-adventure.json) |
+| Caveman Colony | 123198 | [123198-caveman-colony.json](./123198-caveman-colony.json) |
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
@@ -8964,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claybreaker: VR Clay Shooting | 41920 | [41920-claybreaker-vr-clay-shooting.json](./41920-claybreaker-vr-clay-shooting.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
 | ClayFighter 2: Judgment Clay | 73298 | [73298-clayfighter-2-judgment-clay.json](./73298-clayfighter-2-judgment-clay.json) |
+| ClayFighter: Call of Putty | 123208 | [123208-clayfighter-call-of-putty.json](./123208-clayfighter-call-of-putty.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
 | Claymore: Gingan no Majo | 123300 | [123300-claymore-gingan-no-majo.json](./123300-claymore-gingan-no-majo.json) |
@@ -15009,6 +15011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Maze | 93750 | [93750-crazy-maze.json](./93750-crazy-maze.json) |
 | Crazy Mazey | 59902 | [59902-crazy-mazey.json](./59902-crazy-mazey.json) |
 | Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
+| Crazy Mini Golf Arcade | 123215 | [123215-crazy-mini-golf-arcade.json](./123215-crazy-mini-golf-arcade.json) |
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
 | Crazy module | 284986 | [284986-crazy-module.json](./284986-crazy-module.json) |
 | Crazy Mom | 310550 | [310550-crazy-mom.json](./310550-crazy-mom.json) |
