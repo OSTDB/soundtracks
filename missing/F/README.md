@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarKae City | 183835 | [183835-farkae-city.json](./183835-farkae-city.json) |
 | Farkas: the Last Redhaft | 301088 | [301088-farkas-the-last-redhaft.json](./301088-farkas-the-last-redhaft.json) |
 | Farkeep | 171808 | [171808-farkeep.json](./171808-farkeep.json) |
+| Farkle Blast - Best Dice Betting Game | 87929 | [87929-farkle-blast-best-dice-betting-game.json](./87929-farkle-blast-best-dice-betting-game.json) |
 | Farkle Dice | 175607 | [175607-farkle-dice.json](./175607-farkle-dice.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle mania | 232290 | [232290-farkle-mania.json](./232290-farkle-mania.json) |
@@ -3696,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch | 206052 | [206052-fetch.json](./206052-fetch.json) |
 | Fetch | 30730 | [30730-fetch.json](./30730-fetch.json) |
 | Fetch | 381016 | [381016-fetch.json](./381016-fetch.json) |
+| Fetch - A Boy and his Dog | 87918 | [87918-fetch-a-boy-and-his-dog.json](./87918-fetch-a-boy-and-his-dog.json) |
 | Fetch & Match | 395168 | [395168-fetch-and-match.json](./395168-fetch-and-match.json) |
 | Fetch It Again | 90457 | [90457-fetch-it-again.json](./90457-fetch-it-again.json) |
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
@@ -5720,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Floor | 159797 | [159797-first-floor.json](./159797-first-floor.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
 | First Gen | 285328 | [285328-first-gen.json](./285328-first-gen.json) |
+| First Grade Learning Games | 87913 | [87913-first-grade-learning-games.json](./87913-first-grade-learning-games.json) |
 | First Hand | 280713 | [280713-first-hand.json](./280713-first-hand.json) |
 | First Hero: Epic of Gilgamesh | 170726 | [170726-first-hero-epic-of-gilgamesh.json](./170726-first-hero-epic-of-gilgamesh.json) |
 | First Impact: Rise of a Hero | 30712 | [30712-first-impact-rise-of-a-hero.json](./30712-first-impact-rise-of-a-hero.json) |
@@ -7056,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fliese | 234044 | [234044-fliese.json](./234044-fliese.json) |
 | Fliggles Rescue Adventure | 259557 | [259557-fliggles-rescue-adventure.json](./259557-fliggles-rescue-adventure.json) |
 | Flight 666 | 270570 | [270570-flight-666.json](./270570-flight-666.json) |
+| Flight 732 | 87932 | [87932-flight-732.json](./87932-flight-732.json) |
 | Flight 74 | 152730 | [152730-flight-74.json](./152730-flight-74.json) |
 | Flight 787 - Advanced | 32843 | [32843-flight-787-advanced.json](./32843-flight-787-advanced.json) |
 | Flight 787: Advanced | 197630 | [197630-flight-787-advanced.json](./197630-flight-787-advanced.json) |
