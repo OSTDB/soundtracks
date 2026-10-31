@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cāng zhī Lù | 154897 | [154897-cang-zhi-lu.json](./154897-cang-zhi-lu.json) |
 | Canghai Zhuansheng Tan | 348917 | [348917-canghai-zhuansheng-tan.json](./348917-canghai-zhuansheng-tan.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
+| CangLoong City | 101186 | [101186-cangloong-city.json](./101186-cangloong-city.json) |
 | Cāngyè | 108390 | [108390-cangye.json](./108390-cangye.json) |
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Canine | 239130 | [239130-canine.json](./239130-canine.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain MaCaw 2 | 238594 | [238594-captain-macaw-2.json](./238594-captain-macaw-2.json) |
 | Captain Mario | 307412 | [307412-captain-mario.json](./307412-captain-mario.json) |
+| Captain Mayfly | 101224 | [101224-captain-mayfly.json](./101224-captain-mayfly.json) |
 | Captain Mayo | 137491 | [137491-captain-mayo.json](./137491-captain-mayo.json) |
 | Captain McSpacebiff | 301981 | [301981-captain-mcspacebiff.json](./301981-captain-mcspacebiff.json) |
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
@@ -3232,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Void | 264713 | [264713-castle-of-void.json](./264713-castle-of-void.json) |
 | Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
 | Castle on Crimson Rock | 348967 | [348967-castle-on-crimson-rock.json](./348967-castle-on-crimson-rock.json) |
+| Castle Pals | 101182 | [101182-castle-pals.json](./101182-castle-pals.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
 | Castle Quest | 13997 | [13997-castle-quest.json](./13997-castle-quest.json) |
@@ -3515,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Break Head to Head | 226315 | [226315-cat-break-head-to-head.json](./226315-cat-break-head-to-head.json) |
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
 | Cat Burglar | 380058 | [380058-cat-burglar.json](./380058-cat-burglar.json) |
+| Cat Burglar: A Tail of Purrsuit | 101231 | [101231-cat-burglar-a-tail-of-purrsuit.json](./101231-cat-burglar-a-tail-of-purrsuit.json) |
 | Cat Busters: Collections | 144120 | [144120-cat-busters-collections.json](./144120-cat-busters-collections.json) |
 | Cat Cafe | 409371 | [409371-cat-cafe.json](./409371-cat-cafe.json) |
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
@@ -6425,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Rune | 176320 | [176320-chicken-rune.json](./176320-chicken-rune.json) |
 | Chicken Rush Deluxe | 341617 | [341617-chicken-rush-deluxe.json](./341617-chicken-rush-deluxe.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
+| Chicken Scream | 101190 | [101190-chicken-scream.json](./101190-chicken-scream.json) |
 | Chicken Shift | 40023 | [40023-chicken-shift.json](./40023-chicken-shift.json) |
 | Chicken Shoot | 248610 | [248610-chicken-shoot.json](./248610-chicken-shoot.json) |
 | Chicken Shoot | 248611 | [248611-chicken-shoot.json](./248611-chicken-shoot.json) |
@@ -8756,6 +8761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Robots | 50752 | [50752-clash-of-robots.json](./50752-clash-of-robots.json) |
 | Clash of Seven Heroes | 368284 | [368284-clash-of-seven-heroes.json](./368284-clash-of-seven-heroes.json) |
 | Clash of Sky | 196551 | [196551-clash-of-sky.json](./196551-clash-of-sky.json) |
+| Clash of Spells | 101228 | [101228-clash-of-spells.json](./101228-clash-of-spells.json) |
 | Clash of Steel: World War II | 14500 | [14500-clash-of-steel-world-war-ii.json](./14500-clash-of-steel-world-war-ii.json) |
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
 | Clash of Swords and Beams | 338530 | [338530-clash-of-swords-and-beams.json](./338530-clash-of-swords-and-beams.json) |
