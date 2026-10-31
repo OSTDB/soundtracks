@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8665,6 +8666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
 | Bladefall | 378429 | [378429-bladefall.json](./378429-bladefall.json) |
 | Bladeforge: Ascension Crusade | 417962 | [417962-bladeforge-ascension-crusade.json](./417962-bladeforge-ascension-crusade.json) |
+| Bladeheart: Ninja | 109221 | [109221-bladeheart-ninja.json](./109221-bladeheart-ninja.json) |
 | Bladeless Sword: Tale of Qin | 419987 | [419987-bladeless-sword-tale-of-qin.json](./419987-bladeless-sword-tale-of-qin.json) |
 | Bladeline VR | 111428 | [111428-bladeline-vr.json](./111428-bladeline-vr.json) |
 | Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
