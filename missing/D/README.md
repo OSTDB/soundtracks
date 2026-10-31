@@ -6095,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
+| DemonStar: Secret Missions 1 | 69732 | [69732-demonstar-secret-missions-1.json](./69732-demonstar-secret-missions-1.json) |
 | DemonSteele | 134443 | [134443-demonsteele.json](./134443-demonsteele.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonstration | 44353 | [44353-demonstration.json](./44353-demonstration.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Race Adventures | 296592 | [296592-desert-race-adventures.json](./296592-desert-race-adventures.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Racing 2018 | 107544 | [107544-desert-racing-2018.json](./107544-desert-racing-2018.json) |
+| Desert Racing of BarDos | 69636 | [69636-desert-racing-of-bardos.json](./69636-desert-racing-of-bardos.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
 | Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
 | Desert Revenant | 204835 | [204835-desert-revenant.json](./204835-desert-revenant.json) |
@@ -9285,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discover The World | 375321 | [375321-discover-the-world.json](./375321-discover-the-world.json) |
 | Discovered | 137519 | [137519-discovered.json](./137519-discovered.json) |
 | Discoverer | 123841 | [123841-discoverer.json](./123841-discoverer.json) |
+| Discoveries of the Deep | 69627 | [69627-discoveries-of-the-deep.json](./69627-discoveries-of-the-deep.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovering Endangered Wildlife | 262258 | [262258-discovering-endangered-wildlife.json](./262258-discovering-endangered-wildlife.json) |
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
@@ -12232,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Dora's Big Birthday Adventure | 50624 | [50624-dora-the-explorer-doras-big-birthday-adventure.json](./50624-dora-the-explorer-doras-big-birthday-adventure.json) |
 | Dora the Explorer: Dora's World Adventure! | 49230 | [49230-dora-the-explorer-doras-world-adventure.json](./49230-dora-the-explorer-doras-world-adventure.json) |
 | Dora the Explorer: Dora's Worldwide Rescue | 230375 | [230375-dora-the-explorer-doras-worldwide-rescue.json](./230375-dora-the-explorer-doras-worldwide-rescue.json) |
+| Dora the Explorer: Fairytale Adventure | 69723 | [69723-dora-the-explorer-fairytale-adventure.json](./69723-dora-the-explorer-fairytale-adventure.json) |
 | Dora the Explorer: Journey to the Purple Planet | 3892 | [3892-dora-the-explorer-journey-to-the-purple-planet.json](./3892-dora-the-explorer-journey-to-the-purple-planet.json) |
 | Dora the Explorer: Lost and Found Adventure | 209124 | [209124-dora-the-explorer-lost-and-found-adventure.json](./209124-dora-the-explorer-lost-and-found-adventure.json) |
 | Dora the Explorer: Lost City Adventure | 79365 | [79365-dora-the-explorer-lost-city-adventure.json](./79365-dora-the-explorer-lost-city-adventure.json) |
