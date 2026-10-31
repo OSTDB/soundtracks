@@ -6971,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit: The Game - Trial of the Griffin | 242416 | [242416-exit-the-game-trial-of-the-griffin.json](./242416-exit-the-game-trial-of-the-griffin.json) |
 | Exit/Corners | 101734 | [101734-exit-corners.json](./101734-exit-corners.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
+| Exit84 | 96415 | [96415-exit84.json](./96415-exit84.json) |
 | Exiting the White Room | 310598 | [310598-exiting-the-white-room.json](./310598-exiting-the-white-room.json) |
 | Exitium | 131457 | [131457-exitium.json](./131457-exitium.json) |
 | Exitium | 367909 | [367909-exitium.json](./367909-exitium.json) |
