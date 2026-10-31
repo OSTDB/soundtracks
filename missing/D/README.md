@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
 | Dark World | 129517 | [129517-dark-world.json](./129517-dark-world.json) |
+| Dark Worlds - Age of Wars | 90343 | [90343-dark-worlds-age-of-wars.json](./90343-dark-worlds-age-of-wars.json) |
 | Dark Wraith | 313999 | [313999-dark-wraith.json](./313999-dark-wraith.json) |
 | Dark Xingzer | 109318 | [109318-dark-xingzer.json](./109318-dark-xingzer.json) |
 | Dark Years | 13543 | [13543-dark-years.json](./13543-dark-years.json) |
@@ -5298,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
 | Deflex / ROX | 315624 | [315624-deflex-rox.json](./315624-deflex-rox.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
+| Defly.io | 90318 | [90318-defly-io.json](./90318-defly-io.json) |
 | Defoliation | 103079 | [103079-defoliation.json](./103079-defoliation.json) |
 | Deforb | 333464 | [333464-deforb.json](./333464-deforb.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
@@ -7534,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter's Laser Lab | 185830 | [185830-dexters-laser-lab.json](./185830-dexters-laser-lab.json) |
 | Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
 | Dexteritrip | 112818 | [112818-dexteritrip.json](./112818-dexteritrip.json) |
+| Dexterity | 90304 | [90304-dexterity.json](./90304-dexterity.json) |
 | Dexterity | 91263 | [91263-dexterity.json](./91263-dexterity.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
 | Dexterous: Time to Steal | 278159 | [278159-dexterous-time-to-steal.json](./278159-dexterous-time-to-steal.json) |
