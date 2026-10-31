@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Defense | 98526 | [98526-geometry-defense.json](./98526-geometry-defense.json) |
 | Geometry Defense: Infinite | 103821 | [103821-geometry-defense-infinite.json](./103821-geometry-defense-infinite.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
+| Geometry Duel | 77709 | [77709-geometry-duel.json](./77709-geometry-duel.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
 | Geometry Race | 252572 | [252572-geometry-race.json](./252572-geometry-race.json) |
@@ -3758,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GI Racing 2.0 | 32095 | [32095-gi-racing-2-0.json](./32095-gi-racing-2-0.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
+| Giana Sisters 2 | 77690 | [77690-giana-sisters-2.json](./77690-giana-sisters-2.json) |
 | Giana Sisters DS | 298945 | [298945-giana-sisters-ds.json](./298945-giana-sisters-ds.json) |
 | Giana Sisters: Dream Runners | 20879 | [20879-giana-sisters-dream-runners.json](./20879-giana-sisters-dream-runners.json) |
 | Giana Sisters: Project Radiant | 318533 | [318533-giana-sisters-project-radiant.json](./318533-giana-sisters-project-radiant.json) |
@@ -7160,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
 | Grand Prix Story | 65908 | [65908-grand-prix-story.json](./65908-grand-prix-story.json) |
+| Grand Prix Story 2 | 77736 | [77736-grand-prix-story-2.json](./77736-grand-prix-story-2.json) |
 | Grand Prix Tennis | 83378 | [83378-grand-prix-tennis.json](./83378-grand-prix-tennis.json) |
 | Grand Prix Unlimited | 73597 | [73597-grand-prix-unlimited.json](./73597-grand-prix-unlimited.json) |
 | Grand Pskov Story | 74930 | [74930-grand-pskov-story.json](./74930-grand-pskov-story.json) |
