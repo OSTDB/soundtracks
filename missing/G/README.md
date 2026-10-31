@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameDev Life Simulator | 236318 | [236318-gamedev-life-simulator.json](./236318-gamedev-life-simulator.json) |
 | Gamedev simulator | 130958 | [130958-gamedev-simulator.json](./130958-gamedev-simulator.json) |
 | GameDev Trash | 260573 | [260573-gamedev-trash.json](./260573-gamedev-trash.json) |
+| GameDevDan vs Life | 87761 | [87761-gamedevdan-vs-life.json](./87761-gamedevdan-vs-life.json) |
 | Gamedle | 401685 | [401685-gamedle.json](./401685-gamedle.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
