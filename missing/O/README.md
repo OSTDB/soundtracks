@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ode to the Odonata | 261169 | [261169-ode-to-the-odonata.json](./261169-ode-to-the-odonata.json) |
 | Odeio Sonhar | 307048 | [307048-odeio-sonhar.json](./307048-odeio-sonhar.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
+| Odekake! Earth Seeker | 62958 | [62958-odekake-earth-seeker.json](./62958-odekake-earth-seeker.json) |
 | Odell Lake | 93132 | [93132-odell-lake.json](./93132-odell-lake.json) |
 | Oden | 211025 | [211025-oden.json](./211025-oden.json) |
 | Oden | 334857 | [334857-oden.json](./334857-oden.json) |
