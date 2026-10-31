@@ -5993,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hextones: Spacetime | 152639 | [152639-hextones-spacetime.json](./152639-hextones-spacetime.json) |
 | HexTrains | 102953 | [102953-hextrains.json](./102953-hextrains.json) |
 | Hextreaming: Deep | 411505 | [411505-hextreaming-deep.json](./411505-hextreaming-deep.json) |
+| Hextris | 111308 | [111308-hextris.json](./111308-hextris.json) |
 | Hextris | 183898 | [183898-hextris.json](./183898-hextris.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
@@ -8684,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoofield | 229912 | [229912-hoofield.json](./229912-hoofield.json) |
 | Hoofobia | 279898 | [279898-hoofobia.json](./279898-hoofobia.json) |
 | Hook | 10225 | [10225-hook.json](./10225-hook.json) |
+| Hook | 111323 | [111323-hook.json](./111323-hook.json) |
 | Hook | 205927 | [205927-hook.json](./205927-hook.json) |
 | Hook | 214611 | [214611-hook.json](./214611-hook.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
@@ -10574,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
 | Humongous Classic Collection | 228741 | [228741-humongous-classic-collection.json](./228741-humongous-classic-collection.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
+| Humphrey (2004) | 111320 | [111320-humphrey-2004.json](./111320-humphrey-2004.json) |
 | Humpi and Hemicube | 271619 | [271619-humpi-and-hemicube.json](./271619-humpi-and-hemicube.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
