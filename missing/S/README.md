@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: Extreme Racing | 3595 | [3595-san-francisco-rush-extreme-racing.json](./3595-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: The Rock Alcatraz Edition | 122731 | [122731-san-francisco-rush-the-rock-alcatraz-edition.json](./122731-san-francisco-rush-the-rock-alcatraz-edition.json) |
+| San Matias: Mafia City | 86342 | [86342-san-matias-mafia-city.json](./86342-san-matias-mafia-city.json) |
 | San Xing Dui | 257235 | [257235-san-xing-dui.json](./257235-san-xing-dui.json) |
 | San Zoolin | 202132 | [202132-san-zoolin.json](./202132-san-zoolin.json) |
 | San-nin Mahjong | 54945 | [54945-san-nin-mahjong.json](./54945-san-nin-mahjong.json) |
@@ -5481,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Lovers in the House | 371912 | [371912-seven-lovers-in-the-house.json](./371912-seven-lovers-in-the-house.json) |
 | Seven Mortal Sins X-Tasy | 174741 | [174741-seven-mortal-sins-x-tasy.json](./174741-seven-mortal-sins-x-tasy.json) |
 | Seven Mysteries | 80506 | [80506-seven-mysteries.json](./80506-seven-mysteries.json) |
+| Seven Mysteries: The Last Page | 86461 | [86461-seven-mysteries-the-last-page.json](./86461-seven-mysteries-the-last-page.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
 | Seven Nights With Hanako | 414574 | [414574-seven-nights-with-hanako.json](./414574-seven-nights-with-hanako.json) |
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
@@ -12360,6 +12362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Slayer | 298419 | [298419-slime-slayer.json](./298419-slime-slayer.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
+| Slime Sports | 86501 | [86501-slime-sports.json](./86501-slime-sports.json) |
 | Slime Sprint | 157859 | [157859-slime-sprint.json](./157859-slime-sprint.json) |
 | Slime Squisher | 331657 | [331657-slime-squisher.json](./331657-slime-squisher.json) |
 | Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
@@ -17462,6 +17465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cavern | 18502 | [18502-space-cavern.json](./18502-space-cavern.json) |
 | Space Challenge | 96640 | [96640-space-challenge.json](./96640-space-challenge.json) |
 | Space Channel 5 Game App | 214953 | [214953-space-channel-5-game-app.json](./214953-space-channel-5-game-app.json) |
+| Space Channel 5 VR: Arakata Dancing Show | 86453 | [86453-space-channel-5-vr-arakata-dancing-show.json](./86453-space-channel-5-vr-arakata-dancing-show.json) |
 | Space Channel 5 VR: Kinda Funky News Flash | 109296 | [109296-space-channel-5-vr-kinda-funky-news-flash.json](./109296-space-channel-5-vr-kinda-funky-news-flash.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chaos | 374354 | [374354-space-chaos.json](./374354-space-chaos.json) |
@@ -17761,6 +17765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21948,6 +21953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Raiders | 25925 | [25925-star-raiders.json](./25925-star-raiders.json) |
 | Star Raiders II | 28713 | [28713-star-raiders-ii.json](./28713-star-raiders-ii.json) |
 | Star Rangers | 70074 | [70074-star-rangers.json](./70074-star-rangers.json) |
+| Star Rangers VR | 86488 | [86488-star-rangers-vr.json](./86488-star-rangers-vr.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
 | Star Reach | 68908 | [68908-star-reach.json](./68908-star-reach.json) |
@@ -24264,6 +24270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Adventure | 413419 | [413419-stickman-adventure.json](./413419-stickman-adventure.json) |
 | Stickman Adventures | 347781 | [347781-stickman-adventures.json](./347781-stickman-adventures.json) |
 | Stickman and the Sword of Legends | 246925 | [246925-stickman-and-the-sword-of-legends.json](./246925-stickman-and-the-sword-of-legends.json) |
+| Stickman Annihilation 2 | 86351 | [86351-stickman-annihilation-2.json](./86351-stickman-annihilation-2.json) |
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
 | Stickman Archer Fight | 86932 | [86932-stickman-archer-fight.json](./86932-stickman-archer-fight.json) |
 | Stickman Archer Online | 239550 | [239550-stickman-archer-online.json](./239550-stickman-archer-online.json) |
@@ -27352,6 +27359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunbirds | 89007 | [89007-sunbirds.json](./89007-sunbirds.json) |
 | SunBlockers | 388538 | [388538-sunblockers.json](./388538-sunblockers.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
+| Sunburnt | 86483 | [86483-sunburnt.json](./86483-sunburnt.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower | 90533 | [90533-suncore-chronicles-the-tower.json](./90533-suncore-chronicles-the-tower.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
@@ -28258,6 +28266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Golf World | 256751 | [256751-super-golf-world.json](./256751-super-golf-world.json) |
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
+| Super Goribei | 86336 | [86336-super-goribei.json](./86336-super-goribei.json) |
 | Super Gorilla Quest | 264235 | [264235-super-gorilla-quest.json](./264235-super-gorilla-quest.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
 | Super Gosu Cars | 201948 | [201948-super-gosu-cars.json](./201948-super-gosu-cars.json) |
@@ -29349,6 +29358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mushroom Kingdom Hearts 64 | 392013 | [392013-super-mushroom-kingdom-hearts-64.json](./392013-super-mushroom-kingdom-hearts-64.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
 | Super Nanaru | 183864 | [183864-super-nanaru.json](./183864-super-nanaru.json) |
+| Super Nanny Sleepytime Ultra HD Alpha Omega | 86459 | [86459-super-nanny-sleepytime-ultra-hd-alpha-omega.json](./86459-super-nanny-sleepytime-ultra-hd-alpha-omega.json) |
 | Super Nano Blaster | 194914 | [194914-super-nano-blaster.json](./194914-super-nano-blaster.json) |
 | Super Nano Jumpers | 36960 | [36960-super-nano-jumpers.json](./36960-super-nano-jumpers.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
