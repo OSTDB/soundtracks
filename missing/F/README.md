@@ -7907,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyout | 271036 | [271036-flyout.json](./271036-flyout.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
 | Flytrapped | 392491 | [392491-flytrapped.json](./392491-flytrapped.json) |
+| FlyWarzz | 108707 | [108707-flywarzz.json](./108707-flywarzz.json) |
 | FlyWings 2018 Flight Simulator | 113415 | [113415-flywings-2018-flight-simulator.json](./113415-flywings-2018-flight-simulator.json) |
 | FlyWings 2018 Flight Simulator: Aerobatic Family | 168883 | [168883-flywings-2018-flight-simulator-aerobatic-family.json](./168883-flywings-2018-flight-simulator-aerobatic-family.json) |
 | FlyWings 2018 Flight Simulator: Air Race Family | 168884 | [168884-flywings-2018-flight-simulator-air-race-family.json](./168884-flywings-2018-flight-simulator-air-race-family.json) |
@@ -10647,6 +10648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Fall | 347808 | [347808-frenzy-fall.json](./347808-frenzy-fall.json) |
 | Frenzy Force | 392104 | [392104-frenzy-force.json](./392104-frenzy-force.json) |
 | Frenzy Freak Fantasy | 370198 | [370198-frenzy-freak-fantasy.json](./370198-frenzy-freak-fantasy.json) |
+| Frenzy Fruits | 108704 | [108704-frenzy-fruits.json](./108704-frenzy-fruits.json) |
 | Frenzy Islands | 371211 | [371211-frenzy-islands.json](./371211-frenzy-islands.json) |
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frenzy Retribution | 122306 | [122306-frenzy-retribution.json](./122306-frenzy-retribution.json) |
