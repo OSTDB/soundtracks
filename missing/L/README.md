@@ -24,10 +24,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.3.3.T. | 248422 | [248422-l-3-3-t.json](./248422-l-3-3-t.json) |
 | L.A. 2 | 92125 | [92125-l-a-2.json](./92125-l-a-2.json) |
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
+| L.A. Funk | 117299 | [117299-l-a-funk.json](./117299-l-a-funk.json) |
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
 | L.A. Noire: The Complete Edition | 47398 | [47398-l-a-noire-the-complete-edition.json](./47398-l-a-noire-the-complete-edition.json) |
+| L.A. Noire: The Consul's Car | 117308 | [117308-l-a-noire-the-consuls-car.json](./117308-l-a-noire-the-consuls-car.json) |
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
 | L.A. Rush | 5899 | [5899-l-a-rush.json](./5899-l-a-rush.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
@@ -905,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
 | Laruaville 5 | 265602 | [265602-laruaville-5.json](./265602-laruaville-5.json) |
 | Laruaville 6 | 265537 | [265537-laruaville-6.json](./265537-laruaville-6.json) |
+| Laruaville 7 | 117333 | [117333-laruaville-7.json](./117333-laruaville-7.json) |
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
 | Laruaville 9 | 270047 | [270047-laruaville-9.json](./270047-laruaville-9.json) |
 | Laruaville Match 3 Puzzle | 246812 | [246812-laruaville-match-3-puzzle.json](./246812-laruaville-match-3-puzzle.json) |
@@ -4851,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
 | Lineage 2: Goddess of Destruction | 23530 | [23530-lineage-2-goddess-of-destruction.json](./23530-lineage-2-goddess-of-destruction.json) |
 | Lineage 2: Revolution | 75977 | [75977-lineage-2-revolution.json](./75977-lineage-2-revolution.json) |
+| Lineage 2M | 117296 | [117296-lineage-2m.json](./117296-lineage-2m.json) |
 | Lineage Eternal: Twilight Resistance | 72981 | [72981-lineage-eternal-twilight-resistance.json](./72981-lineage-eternal-twilight-resistance.json) |
 | Lineage II | 2971 | [2971-lineage-ii.json](./2971-lineage-ii.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
@@ -6272,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Town: The Library | 288063 | [288063-logic-town-the-library.json](./288063-logic-town-the-library.json) |
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
+| Logic World | 117352 | [117352-logic-world.json](./117352-logic-world.json) |
 | Logic: Electrons Connect | 153491 | [153491-logic-electrons-connect.json](./153491-logic-electrons-connect.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
@@ -6468,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loneliness | 139344 | [139344-loneliness.json](./139344-loneliness.json) |
 | Loneliness After: Chapter 1 | 88464 | [88464-loneliness-after-chapter-1.json](./88464-loneliness-after-chapter-1.json) |
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
+| Lonely | 117347 | [117347-lonely.json](./117347-lonely.json) |
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
 | Lonely Adventure | 115183 | [115183-lonely-adventure.json](./115183-lonely-adventure.json) |
 | Lonely Arts | 132577 | [132577-lonely-arts.json](./132577-lonely-arts.json) |
