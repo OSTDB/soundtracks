@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Recon | 57651 | [57651-3d-recon.json](./57651-3d-recon.json) |
 | 3D Retro Dungeon Puzzle Challenge | 100567 | [100567-3d-retro-dungeon-puzzle-challenge.json](./100567-3d-retro-dungeon-puzzle-challenge.json) |
 | 3D Reversi | 54936 | [54936-3d-reversi.json](./54936-3d-reversi.json) |
+| 3D Roller Coaster Designer | 74103 | [74103-3d-roller-coaster-designer.json](./74103-3d-roller-coaster-designer.json) |
 | 3D Rollercoaster Rush | 133916 | [133916-3d-rollercoaster-rush.json](./133916-3d-rollercoaster-rush.json) |
 | 3D Scooter Racing | 92790 | [92790-3d-scooter-racing.json](./92790-3d-scooter-racing.json) |
 | 3D Seiddab Attack | 28477 | [28477-3d-seiddab-attack.json](./28477-3d-seiddab-attack.json) |
