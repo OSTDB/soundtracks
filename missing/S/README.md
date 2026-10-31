@@ -14815,6 +14815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
 | Solid Runner | 44437 | [44437-solid-runner.json](./44437-solid-runner.json) |
+| Solid Soccer Cup! | 114659 | [114659-solid-soccer-cup.json](./114659-solid-soccer-cup.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
 | Solid Void: Halloween Nonograms | 422541 | [422541-solid-void-halloween-nonograms.json](./422541-solid-void-halloween-nonograms.json) |
 | Solid Void: Nature Puzzles | 333738 | [333738-solid-void-nature-puzzles.json](./333738-solid-void-nature-puzzles.json) |
@@ -17624,6 +17625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22424,6 +22426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardew Valley Expanded | 210537 | [210537-stardew-valley-expanded.json](./210537-stardew-valley-expanded.json) |
 | Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
 | Stardiver | 150279 | [150279-stardiver.json](./150279-stardiver.json) |
+| Stardoll | 114643 | [114643-stardoll.json](./114643-stardoll.json) |
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
 | Stardoll Dress Up Film Stars | 357215 | [357215-stardoll-dress-up-film-stars.json](./357215-stardoll-dress-up-film-stars.json) |
 | Stardoll Dress Up Movie Stars | 357213 | [357213-stardoll-dress-up-movie-stars.json](./357213-stardoll-dress-up-movie-stars.json) |
@@ -23176,6 +23179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Shift Racing | 231894 | [231894-static-shift-racing.json](./231894-static-shift-racing.json) |
 | Static Shock | 101455 | [101455-static-shock.json](./101455-static-shock.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
+| Static Sky | 114676 | [114676-static-sky.json](./114676-static-sky.json) |
 | Static Sky: And Yet It | 341159 | [341159-static-sky-and-yet-it.json](./341159-static-sky-and-yet-it.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
 | Static: Investigator Training | 35671 | [35671-static-investigator-training.json](./35671-static-investigator-training.json) |
