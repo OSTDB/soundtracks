@@ -6498,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken vs. Road | 319873 | [319873-chicken-vs-road.json](./319873-chicken-vs-road.json) |
 | Chicken Wars | 48001 | [48001-chicken-wars.json](./48001-chicken-wars.json) |
 | Chicken Wiggle | 54656 | [54656-chicken-wiggle.json](./54656-chicken-wiggle.json) |
+| Chicken with Chainguns | 74664 | [74664-chicken-with-chainguns.json](./74664-chicken-with-chainguns.json) |
 | Chicken with Dynamites | 174570 | [174570-chicken-with-dynamites.json](./174570-chicken-with-dynamites.json) |
 | Chicken! | 152982 | [152982-chicken.json](./152982-chicken.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
@@ -11464,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
 | Combat Online 2 | 414219 | [414219-combat-online-2.json](./414219-combat-online-2.json) |
 | Combat Pilot: Carrier Qualification | 392211 | [392211-combat-pilot-carrier-qualification.json](./392211-combat-pilot-carrier-qualification.json) |
+| Combat Queen | 74801 | [74801-combat-queen.json](./74801-combat-queen.json) |
 | Combat Raccoon | 54857 | [54857-combat-raccoon.json](./54857-combat-raccoon.json) |
 | Combat Racers | 33461 | [33461-combat-racers.json](./33461-combat-racers.json) |
 | Combat Rally | 326213 | [326213-combat-rally.json](./326213-combat-rally.json) |
@@ -13954,6 +13956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Pumpcula | 207655 | [207655-count-pumpcula.json](./207655-count-pumpcula.json) |
 | Count the Dead | 148787 | [148787-count-the-dead.json](./148787-count-the-dead.json) |
 | Count the Score | 407839 | [407839-count-the-score.json](./407839-count-the-score.json) |
+| Count to 10: Learn Numbers with Montessori | 74834 | [74834-count-to-10-learn-numbers-with-montessori.json](./74834-count-to-10-learn-numbers-with-montessori.json) |
 | Count to Ten | 301876 | [301876-count-to-ten.json](./301876-count-to-ten.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
