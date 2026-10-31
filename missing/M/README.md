@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 17: Deluxe Edition | 166966 | [166966-madden-nfl-17-deluxe-edition.json](./166966-madden-nfl-17-deluxe-edition.json) |
 | Madden NFL 18 | 28706 | [28706-madden-nfl-18.json](./28706-madden-nfl-18.json) |
 | Madden NFL 19: Hall of Fame Edition | 103213 | [103213-madden-nfl-19-hall-of-fame-edition.json](./103213-madden-nfl-19-hall-of-fame-edition.json) |
+| Madden NFL 19: Ultimate Super Bowl Edition | 114008 | [114008-madden-nfl-19-ultimate-super-bowl-edition.json](./114008-madden-nfl-19-ultimate-super-bowl-edition.json) |
 | Madden NFL 20 | 114286 | [114286-madden-nfl-20.json](./114286-madden-nfl-20.json) |
 | Madden NFL 20: Superstar Edition | 118152 | [118152-madden-nfl-20-superstar-edition.json](./118152-madden-nfl-20-superstar-edition.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
@@ -5237,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mausoleum | 408613 | [408613-mausoleum.json](./408613-mausoleum.json) |
 | Mausoleum of Memories | 295078 | [295078-mausoleum-of-memories.json](./295078-mausoleum-of-memories.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
+| Mausuke no Ojama the World | 114036 | [114036-mausuke-no-ojama-the-world.json](./114036-mausuke-no-ojama-the-world.json) |
 | Mave's Castle | 415323 | [415323-maves-castle.json](./415323-maves-castle.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
 | Maven | 92856 | [92856-maven.json](./92856-maven.json) |
