@@ -5993,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Through the Fey Realm | 294248 | [294248-alice-through-the-fey-realm.json](./294248-alice-through-the-fey-realm.json) |
 | Alice Through the Looking-Glass | 401059 | [401059-alice-through-the-looking-glass.json](./401059-alice-through-the-looking-glass.json) |
 | Alice to Marisa to Inakunatta Shanghai Ningyou | 214364 | [214364-alice-to-marisa-to-inakunatta-shanghai-ningyou.json](./214364-alice-to-marisa-to-inakunatta-shanghai-ningyou.json) |
+| Alice to Yume no Kuni no Shuunin-tachi | 83314 | [83314-alice-to-yume-no-kuni-no-shuunin-tachi.json](./83314-alice-to-yume-no-kuni-no-shuunin-tachi.json) |
 | Alice Trapped Beyond Wonderland | 165057 | [165057-alice-trapped-beyond-wonderland.json](./165057-alice-trapped-beyond-wonderland.json) |
 | Alice Trapped in Wonderland | 90668 | [90668-alice-trapped-in-wonderland.json](./90668-alice-trapped-in-wonderland.json) |
 | Alice Trapped in Wonderland | 91063 | [91063-alice-trapped-in-wonderland.json](./91063-alice-trapped-in-wonderland.json) |
@@ -8765,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angle Wars | 132598 | [132598-angle-wars.json](./132598-angle-wars.json) |
 | Angle. | 261162 | [261162-angle.json](./261162-angle.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
+| Angler Dangler | 83303 | [83303-angler-dangler.json](./83303-angler-dangler.json) |
 | Angler King | 249778 | [249778-angler-king.json](./249778-angler-king.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Angler's Journey | 350442 | [350442-anglers-journey.json](./350442-anglers-journey.json) |
@@ -12826,6 +12828,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
+| Army Defense | 83277 | [83277-army-defense.json](./83277-army-defense.json) |
+| Army Defense 2 | 83278 | [83278-army-defense-2.json](./83278-army-defense-2.json) |
+| Army Defense 3 | 83279 | [83279-army-defense-3.json](./83279-army-defense-3.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
