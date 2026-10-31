@@ -5493,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Good Boy | 295149 | [295149-chaotic-good-boy.json](./295149-chaotic-good-boy.json) |
 | Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
+| Chaotic Void | 83986 | [83986-chaotic-void.json](./83986-chaotic-void.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
 | Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
 | ChaoticNightmare | 189827 | [189827-chaoticnightmare.json](./189827-chaoticnightmare.json) |
@@ -6793,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Fighter III | 45736 | [45736-chinese-fighter-iii.json](./45736-chinese-fighter-iii.json) |
 | Chinese Game Company Simulator | 148798 | [148798-chinese-game-company-simulator.json](./148798-chinese-game-company-simulator.json) |
 | Chinese Hero | 19716 | [19716-chinese-hero.json](./19716-chinese-hero.json) |
+| Chinese Ink Painting Puzzle & Creator | 83996 | [83996-chinese-ink-painting-puzzle-and-creator.json](./83996-chinese-ink-painting-puzzle-and-creator.json) |
 | Chinese inn | 76683 | [76683-chinese-inn.json](./76683-chinese-inn.json) |
 | Chinese Inn | 109200 | [109200-chinese-inn.json](./109200-chinese-inn.json) |
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
@@ -17784,6 +17786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curly Monkey | 159233 | [159233-curly-monkey.json](./159233-curly-monkey.json) |
 | Curly Monkey 2 | 159234 | [159234-curly-monkey-2.json](./159234-curly-monkey-2.json) |
 | Curly Puzzle: World Heritage | 386181 | [386181-curly-puzzle-world-heritage.json](./386181-curly-puzzle-world-heritage.json) |
+| Curre | 83985 | [83985-curre.json](./83985-curre.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
 | Current: The Flow | 374713 | [374713-current-the-flow.json](./374713-current-the-flow.json) |
 | Currently Unstable | 260206 | [260206-currently-unstable.json](./260206-currently-unstable.json) |
@@ -18517,6 +18520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War Apocalypse | 166934 | [166934-cyber-war-apocalypse.json](./166934-cyber-war-apocalypse.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
+| Cyber Warrior | 83970 | [83970-cyber-warrior.json](./83970-cyber-warrior.json) |
 | Cyber West: Hidden Object Games - Western | 232525 | [232525-cyber-west-hidden-object-games-western.json](./232525-cyber-west-hidden-object-games-western.json) |
 | Cyber Workshop | 292405 | [292405-cyber-workshop.json](./292405-cyber-workshop.json) |
 | Cyber_Space | 179046 | [179046-cyber-space.json](./179046-cyber-space.json) |
