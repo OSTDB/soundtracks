@@ -8533,6 +8533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Arena: Season 3 | 144044 | [144044-rocket-arena-season-3.json](./144044-rocket-arena-season-3.json) |
 | Rocket Armor | 76363 | [76363-rocket-armor.json](./76363-rocket-armor.json) |
 | Rocket Assault | 104348 | [104348-rocket-assault.json](./104348-rocket-assault.json) |
+| Rocket Ball Cars League | 100494 | [100494-rocket-ball-cars-league.json](./100494-rocket-ball-cars-league.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Boots Mania: Space Train | 332909 | [332909-rocket-boots-mania-space-train.json](./332909-rocket-boots-mania-space-train.json) |
