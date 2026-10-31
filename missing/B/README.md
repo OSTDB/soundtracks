@@ -875,7 +875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6500,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Law: The Third Wave | 74077 | [74077-beyond-the-law-the-third-wave.json](./74077-beyond-the-law-the-third-wave.json) |
 | Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Lens | 244738 | [244738-beyond-the-lens.json](./244738-beyond-the-lens.json) |
+| Beyond the Limit: Ultimate Climb | 70730 | [70730-beyond-the-limit-ultimate-climb.json](./70730-beyond-the-limit-ultimate-climb.json) |
 | Beyond the Map | 332913 | [332913-beyond-the-map.json](./332913-beyond-the-map.json) |
 | Beyond the Marion | 338233 | [338233-beyond-the-marion.json](./338233-beyond-the-marion.json) |
 | Beyond the Mind | 103837 | [103837-beyond-the-mind.json](./103837-beyond-the-mind.json) |
@@ -16108,6 +16108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buraco | 364435 | [364435-buraco.json](./364435-buraco.json) |
 | Burai Fighter | 2382 | [2382-burai-fighter.json](./2382-burai-fighter.json) |
 | Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
+| Burai II: Yami Koutei no Gyakushuu | 70764 | [70764-burai-ii-yami-koutei-no-gyakushuu.json](./70764-burai-ii-yami-koutei-no-gyakushuu.json) |
 | Burai: Gekan Kanketsu-hen | 65292 | [65292-burai-gekan-kanketsu-hen.json](./65292-burai-gekan-kanketsu-hen.json) |
 | Burai: Joukan | 65293 | [65293-burai-joukan.json](./65293-burai-joukan.json) |
 | Buraigun: Galaxy Storm | 151561 | [151561-buraigun-galaxy-storm.json](./151561-buraigun-galaxy-storm.json) |
