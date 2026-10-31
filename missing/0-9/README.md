@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4:AM | 272220 | [272220-4-am.json](./272220-4-am.json) |
 | 4:Loop | 381217 | [381217-4-loop.json](./381217-4-loop.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
+| 4*4 Off Road Racer | 92258 | [92258-4-4-off-road-racer.json](./92258-4-4-off-road-racer.json) |
 | 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
 | 40 Minute-r | 318263 | [318263-40-minute-r.json](./318263-40-minute-r.json) |
 | 40 Sports Games in 1 | 356845 | [356845-40-sports-games-in-1.json](./356845-40-sports-games-in-1.json) |
