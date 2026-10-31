@@ -546,6 +546,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcotics Police: Crime And Punish | 254648 | [254648-narcotics-police-crime-and-punish.json](./254648-narcotics-police-crime-and-punish.json) |
 | Nareko The Mineral Appraiser | 403920 | [403920-nareko-the-mineral-appraiser.json](./403920-nareko-the-mineral-appraiser.json) |
 | Nargul: Humans are among us | 192553 | [192553-nargul-humans-are-among-us.json](./192553-nargul-humans-are-among-us.json) |
+| Nari Kids Park: Hug-tto! PreCure | 109261 | [109261-nari-kids-park-hug-tto-precure.json](./109261-nari-kids-park-hug-tto-precure.json) |
+| Nari Kids Park: Kaitou Sentai Lupinranger VS Keisatsu Sentai Patoranger | 109263 | [109263-nari-kids-park-kaitou-sentai-lupinranger-vs-keisatsu-sentai-patoranger.json](./109263-nari-kids-park-kaitou-sentai-lupinranger-vs-keisatsu-sentai-patoranger.json) |
+| Nari Kids Park: Ultraman R/B | 109264 | [109264-nari-kids-park-ultraman-r-b.json](./109264-nari-kids-park-ultraman-r-b.json) |
 | Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
 | Narinig Mo Ba? | 416098 | [416098-narinig-mo-ba.json](./416098-narinig-mo-ba.json) |
 | Narisokonai Eiyuuden: Taiyou to Tsuki no Monogatari | 67878 | [67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json](./67878-narisokonai-eiyuuden-taiyou-to-tsuki-no-monogatari.json) |
