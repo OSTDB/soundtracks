@@ -877,7 +877,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3446,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle High 2 A+ | 76497 | [76497-battle-high-2-a.json](./76497-battle-high-2-a.json) |
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
 | Battle High: San Bruno | 91792 | [91792-battle-high-san-bruno.json](./91792-battle-high-san-bruno.json) |
+| Battle High: Team-Up | 64701 | [64701-battle-high-team-up.json](./64701-battle-high-team-up.json) |
 | Battle Humanoid | 206410 | [206410-battle-humanoid.json](./206410-battle-humanoid.json) |
 | Battle Hunters | 121955 | [121955-battle-hunters.json](./121955-battle-hunters.json) |
 | Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
@@ -11254,6 +11254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335729 | [335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero 3D - Haneda All Stars | 222492 | [222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json](./222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json) |
+| Boku ha Koukuu Kanseikan: Airport Hero 3D - Honolulu | 64695 | [64695-boku-ha-koukuu-kanseikan-airport-hero-3d-honolulu.json](./64695-boku-ha-koukuu-kanseikan-airport-hero-3d-honolulu.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero Narita | 269486 | [269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json](./269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero Shinchitose | 269487 | [269487-boku-ha-koukuu-kanseikan-airport-hero-shinchitose.json](./269487-boku-ha-koukuu-kanseikan-airport-hero-shinchitose.json) |
 | Boku ha Plarail Untenshi: Shinkansen & Joukikikansha-hen | 344320 | [344320-boku-ha-plarail-untenshi-shinkansen-and-joukikikansha-hen.json](./344320-boku-ha-plarail-untenshi-shinkansen-and-joukikikansha-hen.json) |
