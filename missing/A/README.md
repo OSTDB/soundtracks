@@ -14077,6 +14077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Fire | 40722 | [40722-asteroid-fire.json](./40722-asteroid-fire.json) |
 | Asteroid Force | 189310 | [189310-asteroid-force.json](./189310-asteroid-force.json) |
 | Asteroid Forward | 369344 | [369344-asteroid-forward.json](./369344-asteroid-forward.json) |
+| Asteroid Hideout | 115945 | [115945-asteroid-hideout.json](./115945-asteroid-hideout.json) |
 | Asteroid Hunter | 67932 | [67932-asteroid-hunter.json](./67932-asteroid-hunter.json) |
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
@@ -14817,6 +14818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
 | Atelier Lulua: The Scion of Arland - Digital Deluxe Edition | 118934 | [118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json](./118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json) |
+| Atelier Lulua: The Scion of Arland - Limited Edition | 116000 | [116000-atelier-lulua-the-scion-of-arland-limited-edition.json](./116000-atelier-lulua-the-scion-of-arland-limited-edition.json) |
 | Atelier Lulua: The Scion of Arland - Premium Box | 136723 | [136723-atelier-lulua-the-scion-of-arland-premium-box.json](./136723-atelier-lulua-the-scion-of-arland-premium-box.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings | 36814 | [36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json](./36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Battle Mix Secret Teachings | 238144 | [238144-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-battle-mix-secret-teachings.json](./238144-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-battle-mix-secret-teachings.json) |
