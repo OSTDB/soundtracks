@@ -3539,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising Deluxe Remaster: Costume & BGM - Sheriff | 360163 | [360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json](./360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Tron Bonne | 360162 | [360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json](./360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
+| Dead Rising: The Survival | 64627 | [64627-dead-rising-the-survival.json](./64627-dead-rising-the-survival.json) |
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
 | Dead Rivals | 100892 | [100892-dead-rivals.json](./100892-dead-rivals.json) |
 | Dead Room | 301998 | [301998-dead-room.json](./301998-dead-room.json) |
@@ -5722,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delvedown | 184223 | [184223-delvedown.json](./184223-delvedown.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delver Quest | 384015 | [384015-delver-quest.json](./384015-delver-quest.json) |
+| Delver's Drop | 64697 | [64697-delvers-drop.json](./64697-delvers-drop.json) |
 | Delverium | 291342 | [291342-delverium.json](./291342-delverium.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
