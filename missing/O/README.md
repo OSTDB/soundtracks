@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
 | Off the Record | 180942 | [180942-off-the-record.json](./180942-off-the-record.json) |
 | Off the Record: Liberty Stone | 82141 | [82141-off-the-record-liberty-stone.json](./82141-off-the-record-liberty-stone.json) |
+| Off the Record: Liberty Stone - Collector's Edition | 81838 | [81838-off-the-record-liberty-stone-collectors-edition.json](./81838-off-the-record-liberty-stone-collectors-edition.json) |
 | Off the Record: Linden Shades - Collector's Edition | 32787 | [32787-off-the-record-linden-shades-collectors-edition.json](./32787-off-the-record-linden-shades-collectors-edition.json) |
 | Off The Record: The Art of Deception | 98411 | [98411-off-the-record-the-art-of-deception.json](./98411-off-the-record-the-art-of-deception.json) |
 | Off The Record: The Art of Deception HD | 100214 | [100214-off-the-record-the-art-of-deception-hd.json](./100214-off-the-record-the-art-of-deception-hd.json) |
@@ -3656,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
 | Orcs Will Never Be Slaves | 323687 | [323687-orcs-will-never-be-slaves.json](./323687-orcs-will-never-be-slaves.json) |
 | Orcus | 315444 | [315444-orcus.json](./315444-orcus.json) |
+| Orcz Evolve | 81721 | [81721-orcz-evolve.json](./81721-orcz-evolve.json) |
 | Orcz Evolve VR | 83172 | [83172-orcz-evolve-vr.json](./83172-orcz-evolve-vr.json) |
 | Ord. | 118314 | [118314-ord.json](./118314-ord.json) |
 | Ordeal | 149269 | [149269-ordeal.json](./149269-ordeal.json) |
@@ -5205,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlode | 260258 | [260258-overlode.json](./260258-overlode.json) |
 | Overlook | 195941 | [195941-overlook.json](./195941-overlook.json) |
 | Overlook Trail | 93732 | [93732-overlook-trail.json](./93732-overlook-trail.json) |
+| Overlook: Local multiplayer game - up to 16 players | 81829 | [81829-overlook-local-multiplayer-game-up-to-16-players.json](./81829-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
