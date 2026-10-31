@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Water Works | 407594 | [407594-empire-water-works.json](./407594-empire-water-works.json) |
 | Empire XP | 89590 | [89590-empire-xp.json](./89590-empire-xp.json) |
 | Empire Z | 106738 | [106738-empire-z.json](./106738-empire-z.json) |
+| Empire Z: Endless War | 87904 | [87904-empire-z-endless-war.json](./87904-empire-z-endless-war.json) |
 | Empire: Four Kingdoms | 38893 | [38893-empire-four-kingdoms.json](./38893-empire-four-kingdoms.json) |
 | Empire: Sound of the North | 311511 | [311511-empire-sound-of-the-north.json](./311511-empire-sound-of-the-north.json) |
 | Empire: Total War - Downloadable Content Collection | 77238 | [77238-empire-total-war-downloadable-content-collection.json](./77238-empire-total-war-downloadable-content-collection.json) |
@@ -3749,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmatis Bundle | 82382 | [82382-enigmatis-bundle.json](./82382-enigmatis-bundle.json) |
 | Enigmatis Collection | 52986 | [52986-enigmatis-collection.json](./52986-enigmatis-collection.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
+| EnigmBox | 87893 | [87893-enigmbox.json](./87893-enigmbox.json) |
 | Enigmes & Objets Cachés : Le destin de Marie-Antoinette | 46459 | [46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json](./46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json) |
 | Enigmi.net | 327205 | [327205-enigmi-net.json](./327205-enigmi-net.json) |
 | Enigmite's Prophecy | 194126 | [194126-enigmites-prophecy.json](./194126-enigmites-prophecy.json) |
@@ -5959,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Tennis Pro | 66949 | [66949-european-tennis-pro.json](./66949-european-tennis-pro.json) |
 | European War | 100604 | [100604-european-war.json](./100604-european-war.json) |
 | European War 2 | 90887 | [90887-european-war-2.json](./90887-european-war-2.json) |
+| European War 3 | 87915 | [87915-european-war-3.json](./87915-european-war-3.json) |
 | European War 5: Empire | 89709 | [89709-european-war-5-empire.json](./89709-european-war-5-empire.json) |
 | European War 6: 1914 | 208202 | [208202-european-war-6-1914.json](./208202-european-war-6-1914.json) |
 | European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
