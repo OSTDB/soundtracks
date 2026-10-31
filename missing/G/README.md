@@ -7930,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
+| Greedy Dwarf | 114656 | [114656-greedy-dwarf.json](./114656-greedy-dwarf.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
 | Greedy Goblin | 184219 | [184219-greedy-goblin.json](./184219-greedy-goblin.json) |
 | Greedy Goblins | 125787 | [125787-greedy-goblins.json](./125787-greedy-goblins.json) |
@@ -8880,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Defense | 150378 | [150378-grow-defense.json](./150378-grow-defense.json) |
 | Grow Empire: Rome | 371942 | [371942-grow-empire-rome.json](./371942-grow-empire-rome.json) |
 | Grow Flow | 189295 | [189295-grow-flow.json](./189295-grow-flow.json) |
+| Grow Forest | 114644 | [114644-grow-forest.json](./114644-grow-forest.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
 | Grow Heroes Vip | 107108 | [107108-grow-heroes-vip.json](./107108-grow-heroes-vip.json) |
 | Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
