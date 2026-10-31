@@ -5594,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
+| Delta Fighter | 70192 | [70192-delta-fighter.json](./70192-delta-fighter.json) |
 | Delta Force 2 | 9349 | [9349-delta-force-2.json](./9349-delta-force-2.json) |
 | Delta Force: Angel Falls | 9353 | [9353-delta-force-angel-falls.json](./9353-delta-force-angel-falls.json) |
 | Delta Force: Black Hawk Down | 200997 | [200997-delta-force-black-hawk-down.json](./200997-delta-force-black-hawk-down.json) |
@@ -12040,6 +12041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Lands | 159575 | [159575-doomed-lands.json](./159575-doomed-lands.json) |
 | Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
 | Doomed Otaku | 339981 | [339981-doomed-otaku.json](./339981-doomed-otaku.json) |
+| Doomed Planet | 70260 | [70260-doomed-planet.json](./70260-doomed-planet.json) |
 | Doomed Space Wars | 261284 | [261284-doomed-space-wars.json](./261284-doomed-space-wars.json) |
 | Doomed to Hell | 194195 | [194195-doomed-to-hell.json](./194195-doomed-to-hell.json) |
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
