@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
 | Mall Tycoon | 23450 | [23450-mall-tycoon.json](./23450-mall-tycoon.json) |
 | Mall Tycoon - Billionaires Club Game | 106773 | [106773-mall-tycoon-billionaires-club-game.json](./106773-mall-tycoon-billionaires-club-game.json) |
+| Mall Tycoon 2 | 73420 | [73420-mall-tycoon-2.json](./73420-mall-tycoon-2.json) |
 | Mall Tycoon 3 | 69181 | [69181-mall-tycoon-3.json](./69181-mall-tycoon-3.json) |
 | Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
 | Mallard Hunt | 228276 | [228276-mallard-hunt.json](./228276-mallard-hunt.json) |
@@ -10295,6 +10296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway Arcade | 93496 | [93496-midway-arcade.json](./93496-midway-arcade.json) |
 | Midway Arcade Origins | 7070 | [7070-midway-arcade-origins.json](./7070-midway-arcade-origins.json) |
 | Midway Arcade Treasures 2 | 4008 | [4008-midway-arcade-treasures-2.json](./4008-midway-arcade-treasures-2.json) |
+| Midway Arcade Treasures: Deluxe Edition | 73419 | [73419-midway-arcade-treasures-deluxe-edition.json](./73419-midway-arcade-treasures-deluxe-edition.json) |
 | Midway Arcade Treasures: Extended Play | 71407 | [71407-midway-arcade-treasures-extended-play.json](./71407-midway-arcade-treasures-extended-play.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
@@ -11034,6 +11036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindmist | 142653 | [142653-mindmist.json](./142653-mindmist.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
 | Mindread | 293992 | [293992-mindread.json](./293992-mindread.json) |
+| MindRover: The Europa Project | 73569 | [73569-mindrover-the-europa-project.json](./73569-mindrover-the-europa-project.json) |
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | Mindscape | 185293 | [185293-mindscape.json](./185293-mindscape.json) |
@@ -14893,6 +14896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montessori Music | 80465 | [80465-montessori-music.json](./80465-montessori-music.json) |
 | Montessori Nature | 102502 | [102502-montessori-nature.json](./102502-montessori-nature.json) |
 | Montevisoft | 28198 | [28198-montevisoft.json](./28198-montevisoft.json) |
+| Montezooma | 73437 | [73437-montezooma.json](./73437-montezooma.json) |
 | Montezuma Puzzle | 91341 | [91341-montezuma-puzzle.json](./91341-montezuma-puzzle.json) |
 | Montezuma Puzzle 3 | 68914 | [68914-montezuma-puzzle-3.json](./68914-montezuma-puzzle-3.json) |
 | Montezuma Puzzle 4 | 68913 | [68913-montezuma-puzzle-4.json](./68913-montezuma-puzzle-4.json) |
@@ -15340,6 +15344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
+| Moptown Parade | 73425 | [73425-moptown-parade.json](./73425-moptown-parade.json) |
 | Mor | 340726 | [340726-mor.json](./340726-mor.json) |
 | Mora: Mining for Freedom | 373747 | [373747-mora-mining-for-freedom.json](./373747-mora-mining-for-freedom.json) |
 | Moraff's Blast I | 94462 | [94462-moraffs-blast-i.json](./94462-moraffs-blast-i.json) |
@@ -16236,6 +16241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 3 | 5938 | [5938-motogp-3.json](./5938-motogp-3.json) |
 | MotoGP Arcade | 248689 | [248689-motogp-arcade.json](./248689-motogp-arcade.json) |
 | MotoGP Guru Racing 25/26 | 196554 | [196554-motogp-guru-racing-25-26.json](./196554-motogp-guru-racing-25-26.json) |
+| MotoGP: Ultimate Racing Technology 3 | 73433 | [73433-motogp-ultimate-racing-technology-3.json](./73433-motogp-ultimate-racing-technology-3.json) |
 | MotoGP4 | 20536 | [20536-motogp4.json](./20536-motogp4.json) |
 | Motoko Hime Adventure | 259489 | [259489-motoko-hime-adventure.json](./259489-motoko-hime-adventure.json) |
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
@@ -17978,6 +17984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant League Football | 46254 | [46254-mutant-league-football.json](./46254-mutant-league-football.json) |
 | Mutant League Hockey | 46253 | [46253-mutant-league-hockey.json](./46253-mutant-league-hockey.json) |
 | Mutant Legion | 330484 | [330484-mutant-legion.json](./330484-mutant-legion.json) |
+| Mutant Mahem | 73562 | [73562-mutant-mahem.json](./73562-mutant-mahem.json) |
 | Mutant Meltdown | 211148 | [211148-mutant-meltdown.json](./211148-mutant-meltdown.json) |
 | Mutant Monster Invasion | 292240 | [292240-mutant-monster-invasion.json](./292240-mutant-monster-invasion.json) |
 | Mutant Monsters | 334023 | [334023-mutant-monsters.json](./334023-mutant-monsters.json) |
