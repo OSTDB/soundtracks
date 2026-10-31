@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Forest | 386683 | [386683-endless-forest.json](./386683-endless-forest.json) |
 | Endless Forms Most Beautiful | 129540 | [129540-endless-forms-most-beautiful.json](./129540-endless-forms-most-beautiful.json) |
 | Endless Forms Most Beautiful 64 | 179659 | [179659-endless-forms-most-beautiful-64.json](./179659-endless-forms-most-beautiful-64.json) |
+| Endless Frontier Saga | 95733 | [95733-endless-frontier-saga.json](./95733-endless-frontier-saga.json) |
 | Endless Frontier Saga 2 | 99381 | [99381-endless-frontier-saga-2.json](./99381-endless-frontier-saga-2.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
 | Endless Fun: The Battle for Peanuts | 93765 | [93765-endless-fun-the-battle-for-peanuts.json](./93765-endless-fun-the-battle-for-peanuts.json) |
@@ -6355,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody’s Golf: Hot Shots | 337034 | [337034-everybody-s-golf-hot-shots.json](./337034-everybody-s-golf-hot-shots.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
 | Everybody's Putter Golf With Toro | 66090 | [66090-everybodys-putter-golf-with-toro.json](./66090-everybodys-putter-golf-with-toro.json) |
+| Everybody's RPG | 95742 | [95742-everybodys-rpg.json](./95742-everybodys-rpg.json) |
 | Everybody's RPG: Reborn | 147318 | [147318-everybodys-rpg-reborn.json](./147318-everybodys-rpg-reborn.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
 | Everybody's Solitary | 183817 | [183817-everybodys-solitary.json](./183817-everybodys-solitary.json) |
