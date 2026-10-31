@@ -14974,6 +14974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
 | Solitaire Journey | 220162 | [220162-solitaire-journey.json](./220162-solitaire-journey.json) |
 | Solitaire Kingdom Supreme | 175323 | [175323-solitaire-kingdom-supreme.json](./175323-solitaire-kingdom-supreme.json) |
+| Solitaire Kingdom Supreme HD | 104383 | [104383-solitaire-kingdom-supreme-hd.json](./104383-solitaire-kingdom-supreme-hd.json) |
 | Solitaire Klondike Black | 114046 | [114046-solitaire-klondike-black.json](./114046-solitaire-klondike-black.json) |
 | Solitaire Klondike Deluxe - classic card game | 86910 | [86910-solitaire-klondike-deluxe-classic-card-game.json](./86910-solitaire-klondike-deluxe-classic-card-game.json) |
 | Solitaire Klondike Fish | 228260 | [228260-solitaire-klondike-fish.json](./228260-solitaire-klondike-fish.json) |
@@ -24467,6 +24468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Skimming | 100718 | [100718-stone-skimming.json](./100718-stone-skimming.json) |
+| Stone Skimming | 104378 | [104378-stone-skimming.json](./104378-stone-skimming.json) |
 | Stone Smash | 64787 | [64787-stone-smash.json](./64787-stone-smash.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | Stone Story RPG | 56485 | [56485-stone-story-rpg.json](./56485-stone-story-rpg.json) |
