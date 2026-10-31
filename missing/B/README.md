@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baezult 2 | 30832 | [30832-baezult-2.json](./30832-baezult-2.json) |
 | Baff | 118340 | [118340-baff.json](./118340-baff.json) |
 | Baff 2 | 120095 | [120095-baff-2.json](./120095-baff-2.json) |
+| Baff 3 | 121961 | [121961-baff-3.json](./121961-baff-3.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
 | Baff C | 412384 | [412384-baff-c.json](./412384-baff-c.json) |
 | Baff F | 156881 | [156881-baff-f.json](./156881-baff-f.json) |
@@ -1015,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Bait & Tackle | 371542 | [371542-bait-and-tackle.json](./371542-bait-and-tackle.json) |
 | Bait Soul | 392005 | [392005-bait-soul.json](./392005-bait-soul.json) |
+| Bait! | 121936 | [121936-bait.json](./121936-bait.json) |
 | Baitcore | 415189 | [415189-baitcore.json](./415189-baitcore.json) |
 | Bàito | 312125 | [312125-baito.json](./312125-baito.json) |
 | Baito Fight!!: Part-time Devil Hunter | 271688 | [271688-baito-fight-part-time-devil-hunter.json](./271688-baito-fight-part-time-devil-hunter.json) |
@@ -1730,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Hell | 140861 | [140861-banana-hell.json](./140861-banana-hell.json) |
 | Banana Heroes: Fruit Survivor | 245371 | [245371-banana-heroes-fruit-survivor.json](./245371-banana-heroes-fruit-survivor.json) |
 | Banana Hunter | 192954 | [192954-banana-hunter.json](./192954-banana-hunter.json) |
+| Banana Invaders | 121903 | [121903-banana-invaders.json](./121903-banana-invaders.json) |
 | Banana Islands | 73773 | [73773-banana-islands.json](./73773-banana-islands.json) |
 | Banana Keeper | 391998 | [391998-banana-keeper.json](./391998-banana-keeper.json) |
 | Banana Kong | 63881 | [63881-banana-kong.json](./63881-banana-kong.json) |
@@ -3379,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
 | Battle High: San Bruno | 91792 | [91792-battle-high-san-bruno.json](./91792-battle-high-san-bruno.json) |
 | Battle Humanoid | 206410 | [206410-battle-humanoid.json](./206410-battle-humanoid.json) |
+| Battle Hunters | 121955 | [121955-battle-hunters.json](./121955-battle-hunters.json) |
 | Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle in the City | 161623 | [161623-battle-in-the-city.json](./161623-battle-in-the-city.json) |
@@ -4501,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
 | Bearzerk | 344983 | [344983-bearzerk.json](./344983-bearzerk.json) |
 | Bearzerkers | 17881 | [17881-bearzerkers.json](./17881-bearzerkers.json) |
+| Beast | 121907 | [121907-beast.json](./121907-beast.json) |
 | Beast | 202029 | [202029-beast.json](./202029-beast.json) |
 | Beast + Frag The Complete Shooter Collection | 336442 | [336442-beast-frag-the-complete-shooter-collection.json](./336442-beast-frag-the-complete-shooter-collection.json) |
 | Beast Agenda 2030 | 106539 | [106539-beast-agenda-2030.json](./106539-beast-agenda-2030.json) |
