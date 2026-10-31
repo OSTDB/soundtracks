@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Arrow Is Missing | 280738 | [280738-ice-arrow-is-missing.json](./280738-ice-arrow-is-missing.json) |
 | Ice Ball | 185466 | [185466-ice-ball.json](./185466-ice-ball.json) |
 | Ice Battle | 236933 | [236933-ice-battle.json](./236933-ice-battle.json) |
+| Ice Block | 77749 | [77749-ice-block.json](./77749-ice-block.json) |
 | Ice Block Puzzle | 297428 | [297428-ice-block-puzzle.json](./297428-ice-block-puzzle.json) |
 | Ice Breaker | 280330 | [280330-ice-breaker.json](./280330-ice-breaker.json) |
 | Ice Breaker: The Gathering | 318166 | [318166-ice-breaker-the-gathering.json](./318166-ice-breaker-the-gathering.json) |
@@ -1864,9 +1865,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikenai Kanojo no Yarisugi na Uwaki Karada ga Motomeru Abunai Otona no Giri-giri na Rennai Game | 233949 | [233949-ikenai-kanojo-no-yarisugi-na-uwaki-karada-ga-motomeru-abunai-otona-no-giri-giri-na-rennai-game.json](./233949-ikenai-kanojo-no-yarisugi-na-uwaki-karada-ga-motomeru-abunai-otona-no-giri-giri-na-rennai-game.json) |
 | Ikenfell | 23873 | [23873-ikenfell.json](./23873-ikenfell.json) |
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
+| Ikenie Reijou | 77738 | [77738-ikenie-reijou.json](./77738-ikenie-reijou.json) |
 | Iketsuki | 176130 | [176130-iketsuki.json](./176130-iketsuki.json) |
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikimono High: The Visual Novel | 180510 | [180510-ikimono-high-the-visual-novel.json](./180510-ikimono-high-the-visual-novel.json) |
+| Ikinari Happy Bell | 77757 | [77757-ikinari-happy-bell.json](./77757-ikinari-happy-bell.json) |
 | Ikinari Musician | 48462 | [48462-ikinari-musician.json](./48462-ikinari-musician.json) |
 | Ikisugi!? Before After | 241191 | [241191-ikisugi-before-after.json](./241191-ikisugi-before-after.json) |
 | Ikkaku Senkin | 206542 | [206542-ikkaku-senkin.json](./206542-ikkaku-senkin.json) |
@@ -4553,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internship Detective | 158389 | [158389-internship-detective.json](./158389-internship-detective.json) |
 | Internull | 247942 | [247942-internull.json](./247942-internull.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
+| InterPlanet | 77721 | [77721-interplanet.json](./77721-interplanet.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
 | Interplanetary Gardener | 151290 | [151290-interplanetary-gardener.json](./151290-interplanetary-gardener.json) |
 | Interplanetary Survey Simulator | 346929 | [346929-interplanetary-survey-simulator.json](./346929-interplanetary-survey-simulator.json) |
@@ -5046,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Services: Pixel Art Jigsaw Puzzle | 162208 | [162208-invisible-services-pixel-art-jigsaw-puzzle.json](./162208-invisible-services-pixel-art-jigsaw-puzzle.json) |
 | Invisible Sign: Isu | 221028 | [221028-invisible-sign-isu.json](./221028-invisible-sign-isu.json) |
 | Invisible Sign: Isu - Nemureru Mori | 221030 | [221030-invisible-sign-isu-nemureru-mori.json](./221030-invisible-sign-isu-nemureru-mori.json) |
+| Invisible Sun | 77692 | [77692-invisible-sun.json](./77692-invisible-sun.json) |
 | Invisible Wall | 348884 | [348884-invisible-wall.json](./348884-invisible-wall.json) |
 | Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
 | Invisible X | 261654 | [261654-invisible-x.json](./261654-invisible-x.json) |
