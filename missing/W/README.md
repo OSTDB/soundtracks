@@ -2609,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Happy Few | 9182 | [9182-we-happy-few.json](./9182-we-happy-few.json) |
 | We Happy Few: They Came From Below | 116682 | [116682-we-happy-few-they-came-from-below.json](./116682-we-happy-few-they-came-from-below.json) |
+| We Happy Few: Uncle Jack Live VR | 106852 | [106852-we-happy-few-uncle-jack-live-vr.json](./106852-we-happy-few-uncle-jack-live-vr.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
 | We Harvest Shadows | 314241 | [314241-we-harvest-shadows.json](./314241-we-harvest-shadows.json) |
 | We Have a Frog Problem | 228997 | [228997-we-have-a-frog-problem.json](./228997-we-have-a-frog-problem.json) |
@@ -4763,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Trax Racing | 225959 | [225959-wild-trax-racing.json](./225959-wild-trax-racing.json) |
 | Wild Tribe | 228001 | [228001-wild-tribe.json](./228001-wild-tribe.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
+| Wild Turkey Hunter VR | 106863 | [106863-wild-turkey-hunter-vr.json](./106863-wild-turkey-hunter-vr.json) |
 | Wild Unknown | 29472 | [29472-wild-unknown.json](./29472-wild-unknown.json) |
 | Wild Varmint Bounty Hunter | 118220 | [118220-wild-varmint-bounty-hunter.json](./118220-wild-varmint-bounty-hunter.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
