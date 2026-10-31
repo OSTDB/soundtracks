@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazi Bunker | 105252 | [105252-nazi-bunker.json](./105252-nazi-bunker.json) |
 | Nazi Elimination | 81988 | [81988-nazi-elimination.json](./81988-nazi-elimination.json) |
 | Nazi Labs | 367144 | [367144-nazi-labs.json](./367144-nazi-labs.json) |
+| Nazi Zombie Hunter | 104371 | [104371-nazi-zombie-hunter.json](./104371-nazi-zombie-hunter.json) |
 | Nazi Zombies: Portable | 248218 | [248218-nazi-zombies-portable.json](./248218-nazi-zombies-portable.json) |
 | NaziShoot | 72508 | [72508-nazishoot.json](./72508-nazishoot.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
