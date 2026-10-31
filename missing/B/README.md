@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle in the City | 161623 | [161623-battle-in-the-city.json](./161623-battle-in-the-city.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
+| Battle Ion | 87779 | [87779-battle-ion.json](./87779-battle-ion.json) |
 | Battle Island | 69491 | [69491-battle-island.json](./69491-battle-island.json) |
 | Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
 | Battle Islands: Commanders | 33479 | [33479-battle-islands-commanders.json](./33479-battle-islands-commanders.json) |
@@ -7732,6 +7733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdwatcher | 314969 | [314969-birdwatcher.json](./314969-birdwatcher.json) |
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birdwatching Notebook | 377414 | [377414-birdwatching-notebook.json](./377414-birdwatching-notebook.json) |
+| Birdy Trip | 87880 | [87880-birdy-trip.json](./87880-birdy-trip.json) |
 | Birger's Tale | 235608 | [235608-birgers-tale.json](./235608-birgers-tale.json) |
 | BiriBiriBeat | 227995 | [227995-biribiribeat.json](./227995-biribiribeat.json) |
 | Birk's Adventure | 145408 | [145408-birks-adventure.json](./145408-birks-adventure.json) |
@@ -13253,6 +13255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainfuck | 110888 | [110888-brainfuck.json](./110888-brainfuck.json) |
 | Brainfuck Challenge | 350781 | [350781-brainfuck-challenge.json](./350781-brainfuck-challenge.json) |
 | Brainium Solitaire | 87861 | [87861-brainium-solitaire.json](./87861-brainium-solitaire.json) |
+| Brainiversity | 87907 | [87907-brainiversity.json](./87907-brainiversity.json) |
 | Brainjogging for Kids | 88485 | [88485-brainjogging-for-kids.json](./88485-brainjogging-for-kids.json) |
 | Brainkilled | 351526 | [351526-brainkilled.json](./351526-brainkilled.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
@@ -14133,6 +14136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks of Camelot | 72267 | [72267-bricks-of-camelot.json](./72267-bricks-of-camelot.json) |
 | Bricks of Egypt 2: Tears of the Pharaohs | 71353 | [71353-bricks-of-egypt-2-tears-of-the-pharaohs.json](./71353-bricks-of-egypt-2-tears-of-the-pharaohs.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
+| Bricks: Block Puzzle Game | 87924 | [87924-bricks-block-puzzle-game.json](./87924-bricks-block-puzzle-game.json) |
 | Bricks4ever | 79569 | [79569-bricks4ever.json](./79569-bricks4ever.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Brickscape | 186450 | [186450-brickscape.json](./186450-brickscape.json) |
