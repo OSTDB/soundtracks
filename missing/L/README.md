@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lasers | 276638 | [276638-lasers.json](./276638-lasers.json) |
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Laserstorm | 336689 | [336689-laserstorm.json](./336689-laserstorm.json) |
+| Laserstrike | 122567 | [122567-laserstrike.json](./122567-laserstrike.json) |
 | Lasertag | 397898 | [397898-lasertag.json](./397898-lasertag.json) |
 | Lasertron | 157350 | [157350-lasertron.json](./157350-lasertron.json) |
 | Laservasion | 121454 | [121454-laservasion.json](./121454-laservasion.json) |
@@ -5775,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
 | Live to Win | 129622 | [129622-live-to-win.json](./129622-live-to-win.json) |
 | Live together Now | 278919 | [278919-live-together-now.json](./278919-live-together-now.json) |
+| Live Wire! | 122569 | [122569-live-wire.json](./122569-live-wire.json) |
 | Live x Evil | 220245 | [220245-live-x-evil.json](./220245-live-x-evil.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
