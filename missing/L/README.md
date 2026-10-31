@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
 | Laptick 2 | 56742 | [56742-laptick-2.json](./56742-laptick-2.json) |
 | Laptop Tycoon | 186603 | [186603-laptop-tycoon.json](./186603-laptop-tycoon.json) |
+| Lapya | 118593 | [118593-lapya.json](./118593-lapya.json) |
 | Lar | 281336 | [281336-lar.json](./281336-lar.json) |
 | Lara at the Movies: Blood from the Mummy's Tomb | 315558 | [315558-lara-at-the-movies-blood-from-the-mummys-tomb.json](./315558-lara-at-the-movies-blood-from-the-mummys-tomb.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
@@ -3992,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Diviner | 184803 | [184803-life-diviner.json](./184803-life-diviner.json) |
 | Life Dream | 331456 | [331456-life-dream.json](./331456-life-dream.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
+| Life ed | 118596 | [118596-life-ed.json](./118596-life-ed.json) |
 | Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
 | Life Eternal | 225235 | [225235-life-eternal.json](./225235-life-eternal.json) |
 | Life Finds A Way | 152622 | [152622-life-finds-a-way.json](./152622-life-finds-a-way.json) |
@@ -4363,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
 | LightFall | 234201 | [234201-lightfall.json](./234201-lightfall.json) |
+| Lightfield Hyper Edition | 118577 | [118577-lightfield-hyper-edition.json](./118577-lightfield-hyper-edition.json) |
 | Lightfire Defense | 207585 | [207585-lightfire-defense.json](./207585-lightfire-defense.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
@@ -8870,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Knights | 9887 | [9887-lunar-knights.json](./9887-lunar-knights.json) |
 | Lunar Laceration | 315716 | [315716-lunar-laceration.json](./315716-lunar-laceration.json) |
 | Lunar Lancer | 337090 | [337090-lunar-lancer.json](./337090-lunar-lancer.json) |
+| Lunar Lander | 118546 | [118546-lunar-lander.json](./118546-lunar-lander.json) |
 | Lunar Lander | 16973 | [16973-lunar-lander.json](./16973-lunar-lander.json) |
 | Lunar Lander | 187373 | [187373-lunar-lander.json](./187373-lunar-lander.json) |
 | Lunar Lander | 9128 | [9128-lunar-lander.json](./9128-lunar-lander.json) |
