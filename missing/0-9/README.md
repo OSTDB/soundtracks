@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Air Hockey | 154912 | [154912-3d-air-hockey.json](./154912-3d-air-hockey.json) |
 | 3D Alien Invasion | 210361 | [210361-3d-alien-invasion.json](./210361-3d-alien-invasion.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
+| 3D Armada | 93314 | [93314-3d-armada.json](./93314-3d-armada.json) |
 | 3D Atlas | 92624 | [92624-3d-atlas.json](./92624-3d-atlas.json) |
 | 3D Attack | 281225 | [281225-3d-attack.json](./281225-3d-attack.json) |
 | 3D Ball Blaster | 300007 | [300007-3d-ball-blaster.json](./300007-3d-ball-blaster.json) |
@@ -2107,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Knifflis | 365464 | [365464-3d-knifflis.json](./365464-3d-knifflis.json) |
+| 3D Lemmings Winterland | 93313 | [93313-3d-lemmings-winterland.json](./93313-3d-lemmings-winterland.json) |
 | 3D Lunattack | 28476 | [28476-3d-lunattack.json](./28476-3d-lunattack.json) |
 | 3D Magic Chess HD | 90089 | [90089-3d-magic-chess-hd.json](./90089-3d-magic-chess-hd.json) |
 | 3D Mahjong | 65552 | [65552-3d-mahjong.json](./65552-3d-mahjong.json) |
