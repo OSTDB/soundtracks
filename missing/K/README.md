@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandagawa Jet Girls: DX Jet Pack | 136700 | [136700-kandagawa-jet-girls-dx-jet-pack.json](./136700-kandagawa-jet-girls-dx-jet-pack.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
 | Kandagawa Jet Girls: Racing Hearts Edition | 136195 | [136195-kandagawa-jet-girls-racing-hearts-edition.json](./136195-kandagawa-jet-girls-racing-hearts-edition.json) |
+| Kandidat | 115322 | [115322-kandidat.json](./115322-kandidat.json) |
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
 | Kandinhale | 326743 | [326743-kandinhale.json](./326743-kandinhale.json) |
 | Kando Realm | 356684 | [356684-kando-realm.json](./356684-kando-realm.json) |
