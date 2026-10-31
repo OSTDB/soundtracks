@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
 | Land It | 387514 | [387514-land-it.json](./387514-land-it.json) |
 | Land it Rocket | 33328 | [33328-land-it-rocket.json](./33328-land-it-rocket.json) |
+| Land of an Endless Journey | 107509 | [107509-land-of-an-endless-journey.json](./107509-land-of-an-endless-journey.json) |
 | Land of Artificial Jellies | 294003 | [294003-land-of-artificial-jellies.json](./294003-land-of-artificial-jellies.json) |
 | Land of Borealia | 259090 | [259090-land-of-borealia.json](./259090-land-of-borealia.json) |
 | Land of Chaos Online | 65442 | [65442-land-of-chaos-online.json](./65442-land-of-chaos-online.json) |
@@ -657,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Mushrooms: The Front Yard - Background | 324475 | [324475-land-of-mushrooms-the-front-yard-background.json](./324475-land-of-mushrooms-the-front-yard-background.json) |
 | Land of Ngoto | 125360 | [125360-land-of-ngoto.json](./125360-land-of-ngoto.json) |
 | Land of Nod | 208439 | [208439-land-of-nod.json](./208439-land-of-nod.json) |
+| Land of Puzzles: Battles | 107506 | [107506-land-of-puzzles-battles.json](./107506-land-of-puzzles-battles.json) |
 | Land of Puzzles: Castles | 108036 | [108036-land-of-puzzles-castles.json](./108036-land-of-puzzles-castles.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
 | Land of Puzzles: Knights | 108383 | [108383-land-of-puzzles-knights.json](./108383-land-of-puzzles-knights.json) |
@@ -2306,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Arcadieu Bundle | 203726 | [203726-legend-of-arcadieu-bundle.json](./203726-legend-of-arcadieu-bundle.json) |
 | Legend of Asha | 390266 | [390266-legend-of-asha.json](./390266-legend-of-asha.json) |
 | Legend of Assassin: Egypt | 108069 | [108069-legend-of-assassin-egypt.json](./108069-legend-of-assassin-egypt.json) |
+| Legend of Assassin: Jungle | 107489 | [107489-legend-of-assassin-jungle.json](./107489-legend-of-assassin-jungle.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
 | Legend of Azcarth | 158505 | [158505-legend-of-azcarth.json](./158505-legend-of-azcarth.json) |
 | Legend of Ball | 103242 | [103242-legend-of-ball.json](./103242-legend-of-ball.json) |
@@ -6008,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loan Shark | 350592 | [350592-loan-shark.json](./350592-loan-shark.json) |
 | Loan Wolf | 177505 | [177505-loan-wolf.json](./177505-loan-wolf.json) |
 | Loathe the Game | 127533 | [127533-loathe-the-game.json](./127533-loathe-the-game.json) |
+| Loathing Heart | 107505 | [107505-loathing-heart.json](./107505-loathing-heart.json) |
 | Loathsome Cleft | 313034 | [313034-loathsome-cleft.json](./313034-loathsome-cleft.json) |
 | Lobber | 257987 | [257987-lobber.json](./257987-lobber.json) |
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
