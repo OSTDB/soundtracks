@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel: Choice | 33829 | [33829-babel-choice.json](./33829-babel-choice.json) |
 | Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
 | Babel: Tower to the Gods | 33535 | [33535-babel-tower-to-the-gods.json](./33535-babel-tower-to-the-gods.json) |
+| BabelBloX | 96410 | [96410-babelblox.json](./96410-babelblox.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes | 273250 | [273250-babes.json](./273250-babes.json) |
 | Babes & Balls Vol. 3: Gotcha Babes X-Treme | 218630 | [218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json](./218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6788,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Cock Simulator | 156194 | [156194-big-cock-simulator.json](./156194-big-cock-simulator.json) |
 | Big Company: Skytopia | 105526 | [105526-big-company-skytopia.json](./105526-big-company-skytopia.json) |
 | Big Craft Exploration 2 | 105839 | [105839-big-craft-exploration-2.json](./105839-big-craft-exploration-2.json) |
+| Big Crown: Showdown | 96452 | [96452-big-crown-showdown.json](./96452-big-crown-showdown.json) |
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big D Randy | 276269 | [276269-big-d-randy.json](./276269-big-d-randy.json) |
 | Big Dengi | 323417 | [323417-big-dengi.json](./323417-big-dengi.json) |
@@ -7514,6 +7517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock 2: Rapture Metro Pack | 374312 | [374312-bioshock-2-rapture-metro-pack.json](./374312-bioshock-2-rapture-metro-pack.json) |
 | BioShock 2: Special Edition | 47440 | [47440-bioshock-2-special-edition.json](./47440-bioshock-2-special-edition.json) |
 | BioShock 2: The Protector Trials | 214801 | [214801-bioshock-2-the-protector-trials.json](./214801-bioshock-2-the-protector-trials.json) |
+| BioShock 4 | 96406 | [96406-bioshock-4.json](./96406-bioshock-4.json) |
 | BioShock Infinite: Clash in the Clouds | 20115 | [20115-bioshock-infinite-clash-in-the-clouds.json](./20115-bioshock-infinite-clash-in-the-clouds.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: The Complete Edition | 41595 | [41595-bioshock-infinite-the-complete-edition.json](./41595-bioshock-infinite-the-complete-edition.json) |
@@ -7750,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
 | Biscuitts 5 | 247606 | [247606-biscuitts-5.json](./247606-biscuitts-5.json) |
 | Bish Bash Bots | 244419 | [244419-bish-bash-bots.json](./244419-bish-bash-bots.json) |
+| Bishi and the Alien Slime Invasion! | 96427 | [96427-bishi-and-the-alien-slime-invasion.json](./96427-bishi-and-the-alien-slime-invasion.json) |
 | Bishi Bachi Special 3 | 43866 | [43866-bishi-bachi-special-3.json](./43866-bishi-bachi-special-3.json) |
 | Bishi Bashi Championship Mini Game Senshuken | 38591 | [38591-bishi-bashi-championship-mini-game-senshuken.json](./38591-bishi-bashi-championship-mini-game-senshuken.json) |
 | Bishi Bashi Special | 316812 | [316812-bishi-bashi-special.json](./316812-bishi-bashi-special.json) |
