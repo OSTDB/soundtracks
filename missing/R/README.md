@@ -5921,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
 | Reverse Alice | 299521 | [299521-reverse-alice.json](./299521-reverse-alice.json) |
 | Reverse Basket | 87667 | [87667-reverse-basket.json](./87667-reverse-basket.json) |
+| Reverse Collapse: Code Name Bakery | 121203 | [121203-reverse-collapse-code-name-bakery.json](./121203-reverse-collapse-code-name-bakery.json) |
 | Reverse Collapse: F | 400301 | [400301-reverse-collapse-f.json](./400301-reverse-collapse-f.json) |
 | Reverse Crawl | 28182 | [28182-reverse-crawl.json](./28182-reverse-crawl.json) |
 | Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
@@ -9675,6 +9676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle | 147803 | [147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json](./147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json) |
 | Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang | 164500 | [164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json](./164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json) |
 | Romance of the Three Kingdoms: Legend of Shu Han | 305625 | [305625-romance-of-the-three-kingdoms-legend-of-shu-han.json](./305625-romance-of-the-three-kingdoms-legend-of-shu-han.json) |
+| Romance of the Three Kingdoms: The Legend of CaoCao | 121225 | [121225-romance-of-the-three-kingdoms-the-legend-of-caocao.json](./121225-romance-of-the-three-kingdoms-the-legend-of-caocao.json) |
 | Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
 | Romancia: Another Legend | 71968 | [71968-romancia-another-legend.json](./71968-romancia-another-legend.json) |
 | Romancia: Dragon Slayer Jr. | 41727 | [41727-romancia-dragon-slayer-jr.json](./41727-romancia-dragon-slayer-jr.json) |
