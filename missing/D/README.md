@@ -12203,6 +12203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doshin the Giant | 3894 | [3894-doshin-the-giant.json](./3894-doshin-the-giant.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
+| DoSK | 123798 | [123798-dosk.json](./123798-dosk.json) |
 | Dosmic | 365025 | [365025-dosmic.json](./365025-dosmic.json) |
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
 | DosQ | 119439 | [119439-dosq.json](./119439-dosq.json) |
@@ -12402,6 +12403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Hits | 130302 | [130302-double-hits.json](./130302-double-hits.json) |
 | Double Hooked | 317431 | [317431-double-hooked.json](./317431-double-hooked.json) |
 | Double Impact | 135886 | [135886-double-impact.json](./135886-double-impact.json) |
+| Double Invasion!! | 123811 | [123811-double-invasion.json](./123811-double-invasion.json) |
 | Double Jump | 160115 | [160115-double-jump.json](./160115-double-jump.json) |
 | Double Jump 2 | 151714 | [151714-double-jump-2.json](./151714-double-jump-2.json) |
 | Double Jump NFT | 200450 | [200450-double-jump-nft.json](./200450-double-jump-nft.json) |
@@ -12888,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Draconic Resurgence | 305491 | [305491-draconic-resurgence.json](./305491-draconic-resurgence.json) |
+| Draconic Route | 123747 | [123747-draconic-route.json](./123747-draconic-route.json) |
 | Draconis 8 | 334528 | [334528-draconis-8.json](./334528-draconis-8.json) |
 | Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
@@ -15414,6 +15417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumpfy Walls | 116061 | [116061-drumpfy-walls.json](./116061-drumpfy-walls.json) |
 | Drums | 187313 | [187313-drums.json](./187313-drums.json) |
 | Drums Hero PC | 37398 | [37398-drums-hero-pc.json](./37398-drums-hero-pc.json) |
+| Drums of War | 123803 | [123803-drums-of-war.json](./123803-drums-of-war.json) |
 | Drums of War | 307662 | [307662-drums-of-war.json](./307662-drums-of-war.json) |
 | Drums Rock | 202539 | [202539-drums-rock.json](./202539-drums-rock.json) |
 | Drums Rock: Alestorm - 'Keelhauled' | 322226 | [322226-drums-rock-alestorm-keelhauled.json](./322226-drums-rock-alestorm-keelhauled.json) |
