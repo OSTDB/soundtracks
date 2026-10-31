@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idun: Frontline Survival | 329284 | [329284-idun-frontline-survival.json](./329284-idun-frontline-survival.json) |
 | Idunn Gurdians | 121540 | [121540-idunn-gurdians.json](./121540-idunn-gurdians.json) |
 | Idutshane | 356838 | [356838-idutshane.json](./356838-idutshane.json) |
+| Idyllic | 114672 | [114672-idyllic.json](./114672-idyllic.json) |
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
 | Idylls of the Lunar Maria | 302923 | [302923-idylls-of-the-lunar-maria.json](./302923-idylls-of-the-lunar-maria.json) |
 | Ie Naki Ko - Suzu no Sentaku | 92276 | [92276-ie-naki-ko-suzu-no-sentaku.json](./92276-ie-naki-ko-suzu-no-sentaku.json) |
@@ -5077,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Dungeon | 199904 | [199904-iq-dungeon.json](./199904-iq-dungeon.json) |
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
+| IQ Safari: Playful Math with Leo | 114652 | [114652-iq-safari-playful-math-with-leo.json](./114652-iq-safari-playful-math-with-leo.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
 | IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
