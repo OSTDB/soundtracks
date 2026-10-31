@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Raging Skies | 403149 | [403149-raging-skies.json](./403149-raging-skies.json) |
+| Raging Thunder II | 66448 | [66448-raging-thunder-ii.json](./66448-raging-thunder-ii.json) |
 | RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
 | Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
@@ -10026,6 +10027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room to Grow | 143916 | [143916-room-to-grow.json](./143916-room-to-grow.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
+| Room Zoom: Race for Impact | 66540 | [66540-room-zoom-race-for-impact.json](./66540-room-zoom-race-for-impact.json) |
 | Room.txt | 408703 | [408703-room-txt.json](./408703-room-txt.json) |
 | Room13 | 17669 | [17669-room13.json](./17669-room13.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
