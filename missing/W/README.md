@@ -7779,7 +7779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tennis Stars | 49349 | [49349-world-tennis-stars.json](./49349-world-tennis-stars.json) |
 | World to Build | 124533 | [124533-world-to-build.json](./124533-world-to-build.json) |
 | World to Conquer | 223624 | [223624-world-to-conquer.json](./223624-world-to-conquer.json) |
-| World to the West | 27518 | [27518-world-to-the-west.json](./27518-world-to-the-west.json) |
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
 | World Tour Soccer 06 | 24180 | [24180-world-tour-soccer-06.json](./24180-world-tour-soccer-06.json) |
