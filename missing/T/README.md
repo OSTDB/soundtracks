@@ -6779,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
 | The Colour of Magic | 13508 | [13508-the-colour-of-magic.json](./13508-the-colour-of-magic.json) |
 | The Colour of Murder | 133253 | [133253-the-colour-of-murder.json](./133253-the-colour-of-murder.json) |
+| The Coma - light and darkness battleground | 80965 | [80965-the-coma-light-and-darkness-battleground.json](./80965-the-coma-light-and-darkness-battleground.json) |
 | The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
 | The Coma 2B: Catacomb | 293779 | [293779-the-coma-2b-catacomb.json](./293779-the-coma-2b-catacomb.json) |
@@ -12662,6 +12663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The MoneyMakers Rallye | 140433 | [140433-the-moneymakers-rallye.json](./140433-the-moneymakers-rallye.json) |
 | The Monitor Puzzle Kineko: Kinetic Connection | 41298 | [41298-the-monitor-puzzle-kineko-kinetic-connection.json](./41298-the-monitor-puzzle-kineko-kinetic-connection.json) |
 | The Monk | 268945 | [268945-the-monk.json](./268945-the-monk.json) |
+| The Monk and the Warrior: The Heart of the King | 80954 | [80954-the-monk-and-the-warrior-the-heart-of-the-king.json](./80954-the-monk-and-the-warrior-the-heart-of-the-king.json) |
 | The Monkey King: Flying Dojo | 341030 | [341030-the-monkey-king-flying-dojo.json](./341030-the-monkey-king-flying-dojo.json) |
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
@@ -24044,6 +24046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tougenkyou | 151807 | [151807-tougenkyou.json](./151807-tougenkyou.json) |
 | Tough Beans | 217681 | [217681-tough-beans.json](./217681-tough-beans.json) |
 | Tough Cat | 416966 | [416966-tough-cat.json](./416966-tough-cat.json) |
+| Tough Guy | 80783 | [80783-tough-guy.json](./80783-tough-guy.json) |
 | Tough Love Arena | 142114 | [142114-tough-love-arena.json](./142114-tough-love-arena.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Trucks: Modified Monsters | 73111 | [73111-tough-trucks-modified-monsters.json](./73111-tough-trucks-modified-monsters.json) |
@@ -29128,6 +29131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
 | Tryment | 318057 | [318057-tryment.json](./318057-tryment.json) |
+| Trynitz | 80973 | [80973-trynitz.json](./80973-trynitz.json) |
 | Tryon | 55751 | [55751-tryon.json](./55751-tryon.json) |
 | Tryp FPV | 207130 | [207130-tryp-fpv.json](./207130-tryp-fpv.json) |
 | Trypan | 392263 | [392263-trypan.json](./392263-trypan.json) |
