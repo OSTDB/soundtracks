@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2035,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Banzai Royale | 105476 | [105476-banzai-royale.json](./105476-banzai-royale.json) |
+| Banzai Run | 85772 | [85772-banzai-run.json](./85772-banzai-run.json) |
 | Banzo: Marks of Slavery | 105199 | [105199-banzo-marks-of-slavery.json](./105199-banzo-marks-of-slavery.json) |
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
 | Bao Bao's Cozy Cleaning Services | 375527 | [375527-bao-baos-cozy-cleaning-services.json](./375527-bao-baos-cozy-cleaning-services.json) |
@@ -3791,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecruiser Millennium | 61898 | [61898-battlecruiser-millennium.json](./61898-battlecruiser-millennium.json) |
 | Battlecruiser Millennium: Gold Edition | 205907 | [205907-battlecruiser-millennium-gold-edition.json](./205907-battlecruiser-millennium-gold-edition.json) |
 | BattleCry | 7210 | [7210-battlecry.json](./7210-battlecry.json) |
+| BattleCry | 85794 | [85794-battlecry.json](./85794-battlecry.json) |
 | Battlecry Berserkers | 277288 | [277288-battlecry-berserkers.json](./277288-battlecry-berserkers.json) |
 | BattleCry: Age of Myths | 335410 | [335410-battlecry-age-of-myths.json](./335410-battlecry-age-of-myths.json) |
 | BattleCry: World At War | 109364 | [109364-battlecry-world-at-war.json](./109364-battlecry-world-at-war.json) |
@@ -4529,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beards & Beaks | 79095 | [79095-beards-and-beaks.json](./79095-beards-and-beaks.json) |
 | Beards Go Underground | 399258 | [399258-beards-go-underground.json](./399258-beards-go-underground.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
+| Beardtopia: Requiem of the 'Stache! | 85775 | [85775-beardtopia-requiem-of-the-stache.json](./85775-beardtopia-requiem-of-the-stache.json) |
 | Beardy McStrongarm | 129457 | [129457-beardy-mcstrongarm.json](./129457-beardy-mcstrongarm.json) |
 | Beardy the Digger | 122143 | [122143-beardy-the-digger.json](./122143-beardy-the-digger.json) |
 | BearHammer | 105100 | [105100-bearhammer.json](./105100-bearhammer.json) |
@@ -11453,6 +11457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Party: Cute Anime Creatures Avatar | 274953 | [274953-bomber-party-cute-anime-creatures-avatar.json](./274953-bomber-party-cute-anime-creatures-avatar.json) |
 | Bomber Royale | 303349 | [303349-bomber-royale.json](./303349-bomber-royale.json) |
 | Bomber Run | 362432 | [362432-bomber-run.json](./362432-bomber-run.json) |
+| Bomber Warrior | 85711 | [85711-bomber-warrior.json](./85711-bomber-warrior.json) |
 | Bomber-Man | 247059 | [247059-bomber-man.json](./247059-bomber-man.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
 | Bomber-un | 95280 | [95280-bomber-un.json](./95280-bomber-un.json) |
@@ -14361,6 +14366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink of Broken | 381353 | [381353-brink-of-broken.json](./381353-brink-of-broken.json) |
 | Brink of Consciousness: Dorian Gray Syndrome | 50313 | [50313-brink-of-consciousness-dorian-gray-syndrome.json](./50313-brink-of-consciousness-dorian-gray-syndrome.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
+| Brink of Consciousness: The Lonely Hearts Murders - Collector's Edition | 85704 | [85704-brink-of-consciousness-the-lonely-hearts-murders-collectors-edition.json](./85704-brink-of-consciousness-the-lonely-hearts-murders-collectors-edition.json) |
 | Brink of Extinction | 75648 | [75648-brink-of-extinction.json](./75648-brink-of-extinction.json) |
 | Brink of War | 310250 | [310250-brink-of-war.json](./310250-brink-of-war.json) |
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
@@ -15763,6 +15769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Ball Brigade | 347727 | [347727-bully-ball-brigade.json](./347727-bully-ball-brigade.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
+| Bully Mobile | 85796 | [85796-bully-mobile.json](./85796-bully-mobile.json) |
 | Bully Online | 381884 | [381884-bully-online.json](./381884-bully-online.json) |
 | Bully Store | 101393 | [101393-bully-store.json](./101393-bully-store.json) |
 | Bully: Anniversary Edition | 88952 | [88952-bully-anniversary-edition.json](./88952-bully-anniversary-edition.json) |
