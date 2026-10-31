@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-Headed Boy | 358073 | [358073-2-headed-boy.json](./358073-2-headed-boy.json) |
 | 2-Hour Community Build Project | 308479 | [308479-2-hour-community-build-project.json](./308479-2-hour-community-build-project.json) |
 | 2-in-1 Checkers and Reversi | 52356 | [52356-2-in-1-checkers-and-reversi.json](./52356-2-in-1-checkers-and-reversi.json) |
+| 2-in-1 Fluid Intelligence | 76295 | [76295-2-in-1-fluid-intelligence.json](./76295-2-in-1-fluid-intelligence.json) |
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6-Hand Video Poker | 84672 | [84672-6-hand-video-poker.json](./84672-6-hand-video-poker.json) |
 | 6-in-1 Board Game Club | 223607 | [223607-6-in-1-board-game-club.json](./223607-6-in-1-board-game-club.json) |
 | 6-in-1 Fami Collection: NES Collection Nr 2 | 37642 | [37642-6-in-1-fami-collection-nes-collection-nr-2.json](./37642-6-in-1-fami-collection-nes-collection-nr-2.json) |
+| 6-in-1 IQ Scale Bundle | 76270 | [76270-6-in-1-iq-scale-bundle.json](./76270-6-in-1-iq-scale-bundle.json) |
 | 6-in-1 IQ Scale Bundle: Cube Match | 170740 | [170740-6-in-1-iq-scale-bundle-cube-match.json](./170740-6-in-1-iq-scale-bundle-cube-match.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
 | 6-in-1 IQ Scale Bundle: Starships | 170806 | [170806-6-in-1-iq-scale-bundle-starships.json](./170806-6-in-1-iq-scale-bundle-starships.json) |
