@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires Die | 346630 | [346630-vampires-die.json](./346630-vampires-die.json) |
 | Vampires Fable | 316731 | [316731-vampires-fable.json](./316731-vampires-fable.json) |
 | Vampires in your area | 330018 | [330018-vampires-in-your-area.json](./330018-vampires-in-your-area.json) |
+| Vampires Live | 79011 | [79011-vampires-live.json](./79011-vampires-live.json) |
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videocart-3: Video Blackjack | 41220 | [41220-videocart-3-video-blackjack.json](./41220-videocart-3-video-blackjack.json) |
 | Videocart-4: Spitfire | 41218 | [41218-videocart-4-spitfire.json](./41218-videocart-4-spitfire.json) |
 | Videocart-5: Space War | 41219 | [41219-videocart-5-space-war.json](./41219-videocart-5-space-war.json) |
+| Videocart-6: Math Quiz I - Addition, Subtraction | 78993 | [78993-videocart-6-math-quiz-i-addition-subtraction.json](./78993-videocart-6-math-quiz-i-addition-subtraction.json) |
 | Videocart-7: Math Quiz II - Multiplication & Division | 41216 | [41216-videocart-7-math-quiz-ii-multiplication-and-division.json](./41216-videocart-7-math-quiz-ii-multiplication-and-division.json) |
 | Videocart-8: Magic Numbers - Mind Reader & Nim | 41214 | [41214-videocart-8-magic-numbers-mind-reader-and-nim.json](./41214-videocart-8-magic-numbers-mind-reader-and-nim.json) |
 | Videocart-9: Drag Strip | 41213 | [41213-videocart-9-drag-strip.json](./41213-videocart-9-drag-strip.json) |
