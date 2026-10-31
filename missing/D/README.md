@@ -13049,6 +13049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racer USA | 43229 | [43229-drag-racer-usa.json](./43229-drag-racer-usa.json) |
 | Drag Racer V3 | 165118 | [165118-drag-racer-v3.json](./165118-drag-racer-v3.json) |
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
+| Drag Racing 3D | 109976 | [109976-drag-racing-3d.json](./109976-drag-racing-3d.json) |
 | Drag Racing Car Simulator | 275679 | [275679-drag-racing-car-simulator.json](./275679-drag-racing-car-simulator.json) |
 | Drag Racing Professionals: Dirt Mechanic Simulator | 315935 | [315935-drag-racing-professionals-dirt-mechanic-simulator.json](./315935-drag-racing-professionals-dirt-mechanic-simulator.json) |
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
@@ -13519,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Nest 2 | 193839 | [193839-dragon-nest-2.json](./193839-dragon-nest-2.json) |
 | Dragon Nest Classic | 339146 | [339146-dragon-nest-classic.json](./339146-dragon-nest-classic.json) |
 | Dragon Nest Escape | 315645 | [315645-dragon-nest-escape.json](./315645-dragon-nest-escape.json) |
+| Dragon Nest II | 109974 | [109974-dragon-nest-ii.json](./109974-dragon-nest-ii.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
 | Dragon Nest: Rebirth of Legend | 345998 | [345998-dragon-nest-rebirth-of-legend.json](./345998-dragon-nest-rebirth-of-legend.json) |
 | Dragon Ninja Byoka | 192628 | [192628-dragon-ninja-byoka.json](./192628-dragon-ninja-byoka.json) |
@@ -16456,6 +16458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mercenary | 182721 | [182721-dungeon-mercenary.json](./182721-dungeon-mercenary.json) |
 | Dungeon Merchant | 250872 | [250872-dungeon-merchant.json](./250872-dungeon-merchant.json) |
 | Dungeon Minesweeper | 275745 | [275745-dungeon-minesweeper.json](./275745-dungeon-minesweeper.json) |
+| Dungeon Mini | 109975 | [109975-dungeon-mini.json](./109975-dungeon-mini.json) |
 | Dungeon Misfits | 387423 | [387423-dungeon-misfits.json](./387423-dungeon-misfits.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Munchies: Collector's Edition | 289355 | [289355-dungeon-munchies-collectors-edition.json](./289355-dungeon-munchies-collectors-edition.json) |
@@ -17145,6 +17148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustwind: Resistance | 347081 | [347081-dustwind-resistance.json](./347081-dustwind-resistance.json) |
 | Dustwind: The Last Resort | 171988 | [171988-dustwind-the-last-resort.json](./171988-dustwind-the-last-resort.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
+| Dustwun: A Starfighter's Ballad | 109973 | [109973-dustwun-a-starfighters-ballad.json](./109973-dustwun-a-starfighters-ballad.json) |
 | Dusty Crib | 272996 | [272996-dusty-crib.json](./272996-dusty-crib.json) |
 | Dusty Derby | 276874 | [276874-dusty-derby.json](./276874-dusty-derby.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
