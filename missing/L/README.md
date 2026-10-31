@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
 | Legions | 264496 | [264496-legions.json](./264496-legions.json) |
+| Legions | 92785 | [92785-legions.json](./92785-legions.json) |
 | Legions At War | 97268 | [97268-legions-at-war.json](./97268-legions-at-war.json) |
 | Legions Masters | 130671 | [130671-legions-masters.json](./130671-legions-masters.json) |
 | Legions of Ashworld | 17575 | [17575-legions-of-ashworld.json](./17575-legions-of-ashworld.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexy Lightspeed: Secret Agent Showdown | 137937 | [137937-lexy-lightspeed-secret-agent-showdown.json](./137937-lexy-lightspeed-secret-agent-showdown.json) |
 | Lexy's Labyrinth | 356000 | [356000-lexys-labyrinth.json](./356000-lexys-labyrinth.json) |
 | Leyendas de Lhodrye: Arakhas el Oscuro | 84301 | [84301-leyendas-de-lhodrye-arakhas-el-oscuro.json](./84301-leyendas-de-lhodrye-arakhas-el-oscuro.json) |
+| Leyendas de Lhodrye: La Luz del Druida | 92772 | [92772-leyendas-de-lhodrye-la-luz-del-druida.json](./92772-leyendas-de-lhodrye-la-luz-del-druida.json) |
 | Leygref's Castle | 2883 | [2883-leygrefs-castle.json](./2883-leygrefs-castle.json) |
 | Leyla In Veil | 413762 | [413762-leyla-in-veil.json](./413762-leyla-in-veil.json) |
 | Leyline Chronicles | 340866 | [340866-leyline-chronicles.json](./340866-leyline-chronicles.json) |
