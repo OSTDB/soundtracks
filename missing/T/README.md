@@ -8008,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empty House: A Dementia Interactive Experience | 342014 | [342014-the-empty-house-a-dementia-interactive-experience.json](./342014-the-empty-house-a-dementia-interactive-experience.json) |
 | The Empty Kingdom | 102033 | [102033-the-empty-kingdom.json](./102033-the-empty-kingdom.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
+| The Emulator | 113306 | [113306-the-emulator.json](./113306-the-emulator.json) |
 | The Enchanted Books | 88172 | [88172-the-enchanted-books.json](./88172-the-enchanted-books.json) |
 | The Enchanted Cave | 197696 | [197696-the-enchanted-cave.json](./197696-the-enchanted-cave.json) |
 | The Enchanted Cave 2 | 13674 | [13674-the-enchanted-cave-2.json](./13674-the-enchanted-cave-2.json) |
@@ -18027,6 +18028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thingdle | 401683 | [401683-thingdle.json](./401683-thingdle.json) |
 | Thingio Side A: Let's Go! Thingio! | 323782 | [323782-thingio-side-a-lets-go-thingio.json](./323782-thingio-side-a-lets-go-thingio.json) |
 | Thingio Side B: The Grand Illusion | 323783 | [323783-thingio-side-b-the-grand-illusion.json](./323783-thingio-side-b-the-grand-illusion.json) |
+| Things As They Are | 113303 | [113303-things-as-they-are.json](./113303-things-as-they-are.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Things That Bounce and Explode | 149011 | [149011-things-that-bounce-and-explode.json](./149011-things-that-bounce-and-explode.json) |
 | Things That Go Bump | 194341 | [194341-things-that-go-bump.json](./194341-things-that-go-bump.json) |
@@ -27353,6 +27355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travis' Coward Combustion | 265721 | [265721-travis-coward-combustion.json](./265721-travis-coward-combustion.json) |
 | Travle | 265852 | [265852-travle.json](./265852-travle.json) |
 | TraVRsal | 177409 | [177409-travrsal.json](./177409-travrsal.json) |
+| Trawel | 113317 | [113317-trawel.json](./113317-trawel.json) |
 | Trawl | 33420 | [33420-trawl.json](./33420-trawl.json) |
 | Trawler’s Empire | 339905 | [339905-trawler-s-empire.json](./339905-trawler-s-empire.json) |
 | Trawler's Wake | 408729 | [408729-trawlers-wake.json](./408729-trawlers-wake.json) |
