@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanshin Tigers DS | 123320 | [123320-hanshin-tigers-ds.json](./123320-hanshin-tigers-ds.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
 | Hantu and Hunted | 408579 | [408579-hantu-and-hunted.json](./408579-hantu-and-hunted.json) |
+| Hanuman Chalisa 3D | 100507 | [100507-hanuman-chalisa-3d.json](./100507-hanuman-chalisa-3d.json) |
 | Hanx101 Trivia | 215154 | [215154-hanx101-trivia.json](./215154-hanx101-trivia.json) |
 | Hany Party Game | 65315 | [65315-hany-party-game.json](./65315-hany-party-game.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
@@ -5248,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Forces | 19141 | [19141-hero-forces.json](./19141-hero-forces.json) |
 | Hero Generations | 17301 | [17301-hero-generations.json](./17301-hero-generations.json) |
 | Hero Generations: ReGen | 33556 | [33556-hero-generations-regen.json](./33556-hero-generations-regen.json) |
+| Hero Go | 100480 | [100480-hero-go.json](./100480-hero-go.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Guider | 316030 | [316030-hero-guider.json](./316030-hero-guider.json) |
 | Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
@@ -9254,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing 2016 | 38770 | [38770-horse-racing-2016.json](./38770-horse-racing-2016.json) |
 | Horse Racing 3D 2015 | 88452 | [88452-horse-racing-3d-2015.json](./88452-horse-racing-3d-2015.json) |
 | Horse Racing Creating Derby | 341837 | [341837-horse-racing-creating-derby.json](./341837-horse-racing-creating-derby.json) |
+| Horse Racing Derby | 100506 | [100506-horse-racing-derby.json](./100506-horse-racing-derby.json) |
 | Horse Racing Manager | 27539 | [27539-horse-racing-manager.json](./27539-horse-racing-manager.json) |
 | Horse Racing Manager | 288809 | [288809-horse-racing-manager.json](./288809-horse-racing-manager.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
