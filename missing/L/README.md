@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
 | Lantern Light | 379701 | [379701-lantern-light.json](./379701-lantern-light.json) |
 | Lantern Light VR | 160039 | [160039-lantern-light-vr.json](./160039-lantern-light-vr.json) |
+| Lantern of Worlds | 68511 | [68511-lantern-of-worlds.json](./68511-lantern-of-worlds.json) |
 | Lantern of Worlds - The First Quest | 110646 | [110646-lantern-of-worlds-the-first-quest.json](./110646-lantern-of-worlds-the-first-quest.json) |
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
 | Lantern of Worlds: Layla's Quest | 368275 | [368275-lantern-of-worlds-laylas-quest.json](./368275-lantern-of-worlds-laylas-quest.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Eisenwald: Road to Iron Forest | 51842 | [51842-legends-of-eisenwald-road-to-iron-forest.json](./51842-legends-of-eisenwald-road-to-iron-forest.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
+| Legends of Equestria | 68393 | [68393-legends-of-equestria.json](./68393-legends-of-equestria.json) |
 | Legends of Ethernal | 109311 | [109311-legends-of-ethernal.json](./109311-legends-of-ethernal.json) |
 | Legends of Exidia | 67152 | [67152-legends-of-exidia.json](./67152-legends-of-exidia.json) |
 | Legends of Fate | 50857 | [50857-legends-of-fate.json](./50857-legends-of-fate.json) |
