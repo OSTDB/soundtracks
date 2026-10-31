@@ -13430,6 +13430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Arcanum: The Pirate Pack | 361897 | [361897-ashes-of-arcanum-the-pirate-pack.json](./361897-ashes-of-arcanum-the-pirate-pack.json) |
 | Ashes of Arcanum: The Witch Pack | 361895 | [361895-ashes-of-arcanum-the-witch-pack.json](./361895-ashes-of-arcanum-the-witch-pack.json) |
 | Ashes of Creation | 27420 | [27420-ashes-of-creation.json](./27420-ashes-of-creation.json) |
+| Ashes of Creation Apocalypse | 122597 | [122597-ashes-of-creation-apocalypse.json](./122597-ashes-of-creation-apocalypse.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Idunn: Tales of Fimbulwinter | 309427 | [309427-ashes-of-idunn-tales-of-fimbulwinter.json](./309427-ashes-of-idunn-tales-of-fimbulwinter.json) |
 | Ashes of Immortality II | 35456 | [35456-ashes-of-immortality-ii.json](./35456-ashes-of-immortality-ii.json) |
