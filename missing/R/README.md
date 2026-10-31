@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Rampallians | 406854 | [406854-rampallians.json](./406854-rampallians.json) |
 | Rampancy | 408131 | [408131-rampancy.json](./408131-rampancy.json) |
+| Rampant Kittens | 114660 | [114660-rampant-kittens.json](./114660-rampant-kittens.json) |
 | Rampart | 341282 | [341282-rampart.json](./341282-rampart.json) |
 | Rampart | 341283 | [341283-rampart.json](./341283-rampart.json) |
 | Rampart | 341389 | [341389-rampart.json](./341389-rampart.json) |
@@ -7849,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbers of the Lost Tomb | 41202 | [41202-robbers-of-the-lost-tomb.json](./41202-robbers-of-the-lost-tomb.json) |
 | Robbers Runners | 86717 | [86717-robbers-runners.json](./86717-robbers-runners.json) |
 | Robbery Bob | 19501 | [19501-robbery-bob.json](./19501-robbery-bob.json) |
+| Robbery Bob 2: Double Trouble | 114650 | [114650-robbery-bob-2-double-trouble.json](./114650-robbery-bob-2-double-trouble.json) |
 | Robbery Bob: Man of Steal | 35166 | [35166-robbery-bob-man-of-steal.json](./35166-robbery-bob-man-of-steal.json) |
 | Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
