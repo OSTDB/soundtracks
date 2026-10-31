@@ -5888,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexConnect | 235254 | [235254-hexconnect.json](./235254-hexconnect.json) |
 | Hexcraft: Harlequin Fair | 153342 | [153342-hexcraft-harlequin-fair.json](./153342-hexcraft-harlequin-fair.json) |
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
+| Hexcross | 123806 | [123806-hexcross.json](./123806-hexcross.json) |
 | Hexdo | 312822 | [312822-hexdo.json](./312822-hexdo.json) |
 | Hexdoku | 164902 | [164902-hexdoku.json](./164902-hexdoku.json) |
 | Hexed | 178262 | [178262-hexed.json](./178262-hexed.json) |
@@ -11442,6 +11443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
 | Hyperstar | 168649 | [168649-hyperstar.json](./168649-hyperstar.json) |
+| HyperStorm | 123741 | [123741-hyperstorm.json](./123741-hyperstorm.json) |
 | Hypersudoku Puzzle | 58258 | [58258-hypersudoku-puzzle.json](./58258-hypersudoku-puzzle.json) |
 | HyperTag | 77408 | [77408-hypertag.json](./77408-hypertag.json) |
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
