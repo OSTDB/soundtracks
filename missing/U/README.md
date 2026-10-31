@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Flickball Arena | 122021 | [122021-ultimate-flickball-arena.json](./122021-ultimate-flickball-arena.json) |
 | Ultimate Flight Simulator Pro | 233895 | [233895-ultimate-flight-simulator-pro.json](./233895-ultimate-flight-simulator-pro.json) |
 | Ultimate Flying Car | 233618 | [233618-ultimate-flying-car.json](./233618-ultimate-flying-car.json) |
+| Ultimate Flying Car Adventures | 108109 | [108109-ultimate-flying-car-adventures.json](./108109-ultimate-flying-car-adventures.json) |
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
 | Ultimate Football '95 | 69803 | [69803-ultimate-football-95.json](./69803-ultimate-football-95.json) |
 | Ultimate Forest Simulator | 86924 | [86924-ultimate-forest-simulator.json](./86924-ultimate-forest-simulator.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate NFL Coaches Club Football | 81470 | [81470-ultimate-nfl-coaches-club-football.json](./81470-ultimate-nfl-coaches-club-football.json) |
 | Ultimate Ninja: Hayate | 88901 | [88901-ultimate-ninja-hayate.json](./88901-ultimate-ninja-hayate.json) |
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
+| Ultimate Ninja:Ninja King | 108107 | [108107-ultimate-ninja-ninja-king.json](./108107-ultimate-ninja-ninja-king.json) |
 | Ultimate Noah's Ark | 45896 | [45896-ultimate-noahs-ark.json](./45896-ultimate-noahs-ark.json) |
 | Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
 | Ultimate Pac Pack | 85750 | [85750-ultimate-pac-pack.json](./85750-ultimate-pac-pack.json) |
