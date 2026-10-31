@@ -3548,7 +3548,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Gashapon Wars | 4098 | [4098-sd-gundam-gashapon-wars.json](./4098-sd-gundam-gashapon-wars.json) |
 | SD Gundam Generation: Axis Senki | 66477 | [66477-sd-gundam-generation-axis-senki.json](./66477-sd-gundam-generation-axis-senki.json) |
 | SD Gundam Generation: Babylonia Kenkoku Senki | 66476 | [66476-sd-gundam-generation-babylonia-kenkoku-senki.json](./66476-sd-gundam-generation-babylonia-kenkoku-senki.json) |
+| SD Gundam Generation: Colony Kaku Senki | 66475 | [66475-sd-gundam-generation-colony-kaku-senki.json](./66475-sd-gundam-generation-colony-kaku-senki.json) |
 | SD Gundam Generation: Gryps Senki | 66478 | [66478-sd-gundam-generation-gryps-senki.json](./66478-sd-gundam-generation-gryps-senki.json) |
+| SD Gundam Generation: Zanscare Senki | 66474 | [66474-sd-gundam-generation-zanscare-senki.json](./66474-sd-gundam-generation-zanscare-senki.json) |
 | SD Gundam GX | 38323 | [38323-sd-gundam-gx.json](./38323-sd-gundam-gx.json) |
 | SD Gundam Neo Battling | 40411 | [40411-sd-gundam-neo-battling.json](./40411-sd-gundam-neo-battling.json) |
 | SD Gundam Online | 23616 | [23616-sd-gundam-online.json](./23616-sd-gundam-online.json) |
@@ -11274,6 +11276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullboy Master | 237574 | [237574-skullboy-master.json](./237574-skullboy-master.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
+| SkullCracker | 66446 | [66446-skullcracker.json](./66446-skullcracker.json) |
 | Skulldash | 142377 | [142377-skulldash.json](./142377-skulldash.json) |
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
 | Skulldiggery | 80394 | [80394-skulldiggery.json](./80394-skulldiggery.json) |
@@ -13892,6 +13895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sno Pokeler | 237532 | [237532-sno-pokeler.json](./237532-sno-pokeler.json) |
 | Snø: Ultimate Freeriding | 317533 | [317533-sn-ultimate-freeriding.json](./317533-sn-ultimate-freeriding.json) |
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
+| SnoCross 2: Featuring Blair Morgan | 66473 | [66473-snocross-2-featuring-blair-morgan.json](./66473-snocross-2-featuring-blair-morgan.json) |
 | SnoCross Championship Racing | 45035 | [45035-snocross-championship-racing.json](./45035-snocross-championship-racing.json) |
 | Snogbert | 347805 | [347805-snogbert.json](./347805-snogbert.json) |
 | Snoggle | 172458 | [172458-snoggle.json](./172458-snoggle.json) |
@@ -14379,6 +14383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Academy Simulator | 240841 | [240841-soccer-academy-simulator.json](./240841-soccer-academy-simulator.json) |
 | Soccer Adventures | 139187 | [139187-soccer-adventures.json](./139187-soccer-adventures.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
+| Soccer Bashi | 66537 | [66537-soccer-bashi.json](./66537-soccer-bashi.json) |
 | Soccer Battle - PvP Football | 137333 | [137333-soccer-battle-pvp-football.json](./137333-soccer-battle-pvp-football.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
 | Soccer Battle Royale | 180476 | [180476-soccer-battle-royale.json](./180476-soccer-battle-royale.json) |
@@ -24593,6 +24598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
 | Sting | 131814 | [131814-sting.json](./131814-sting.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
+| Sting - All This Time | 66457 | [66457-sting-all-this-time.json](./66457-sting-all-this-time.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Sting of the Wasp | 217760 | [217760-sting-of-the-wasp.json](./217760-sting-of-the-wasp.json) |
 | Sting Operation | 300748 | [300748-sting-operation.json](./300748-sting-operation.json) |
@@ -26703,6 +26709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
 | Sudama Relation | 252814 | [252814-sudama-relation.json](./252814-sudama-relation.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
+| Sudden Attack | 66463 | [66463-sudden-attack.json](./66463-sudden-attack.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death | 299079 | [299079-sudden-death.json](./299079-sudden-death.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
