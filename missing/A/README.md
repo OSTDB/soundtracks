@@ -11825,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery by Thornbury Software | 84757 | [84757-archery-by-thornbury-software.json](./84757-archery-by-thornbury-software.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
 | Archery Club | 180961 | [180961-archery-club.json](./180961-archery-club.json) |
+| Archery Elite | 106222 | [106222-archery-elite.json](./106222-archery-elite.json) |
 | Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
 | Archery King | 401135 | [401135-archery-king.json](./401135-archery-king.json) |
 | Archery King | 88765 | [88765-archery-king.json](./88765-archery-king.json) |
