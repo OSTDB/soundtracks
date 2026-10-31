@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuki's Party Night | 286518 | [286518-yuukis-party-night.json](./286518-yuukis-party-night.json) |
 | Yuukoku no Femme Fatale | 317102 | [317102-yuukoku-no-femme-fatale.json](./317102-yuukoku-no-femme-fatale.json) |
 | Yuukuri Panic Escalation | 58838 | [58838-yuukuri-panic-escalation.json](./58838-yuukuri-panic-escalation.json) |
+| Yuukyuu Gensoukyoku 3: Perpetual Blue | 112575 | [112575-yuukyuu-gensoukyoku-3-perpetual-blue.json](./112575-yuukyuu-gensoukyoku-3-perpetual-blue.json) |
 | Yuukyuu Gensoukyoku Ensemble | 419854 | [419854-yuukyuu-gensoukyoku-ensemble.json](./419854-yuukyuu-gensoukyoku-ensemble.json) |
 | Yuukyuu Gensoukyoku Ensemble 2 | 419855 | [419855-yuukyuu-gensoukyoku-ensemble-2.json](./419855-yuukyuu-gensoukyoku-ensemble-2.json) |
 | Yuukyuu Gensoukyoku: 2nd Album | 125979 | [125979-yuukyuu-gensoukyoku-2nd-album.json](./125979-yuukyuu-gensoukyoku-2nd-album.json) |
