@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Nine Colored Deer | 287721 | [287721-legend-of-the-nine-colored-deer.json](./287721-legend-of-the-nine-colored-deer.json) |
 | Legend of the Otherworld | 288430 | [288430-legend-of-the-otherworld.json](./288430-legend-of-the-otherworld.json) |
 | Legend Of The Platforms | 370625 | [370625-legend-of-the-platforms.json](./370625-legend-of-the-platforms.json) |
+| Legend of the Red Dragon | 73573 | [73573-legend-of-the-red-dragon.json](./73573-legend-of-the-red-dragon.json) |
 | Legend of the River King GB | 20514 | [20514-legend-of-the-river-king-gb.json](./20514-legend-of-the-river-king-gb.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
 | Legend of the Silver Fox | 182734 | [182734-legend-of-the-silver-fox.json](./182734-legend-of-the-silver-fox.json) |
@@ -5113,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liong: the Dragon Dance | 144210 | [144210-liong-the-dragon-dance.json](./144210-liong-the-dragon-dance.json) |
 | Liong: the Lost Amulets | 144209 | [144209-liong-the-lost-amulets.json](./144209-liong-the-lost-amulets.json) |
 | Lionheart | 25687 | [25687-lionheart.json](./25687-lionheart.json) |
+| Lionheart | 73452 | [73452-lionheart.json](./73452-lionheart.json) |
 | Lionheart | 82018 | [82018-lionheart.json](./82018-lionheart.json) |
 | Lionheart Tactics | 102007 | [102007-lionheart-tactics.json](./102007-lionheart-tactics.json) |
 | Lionheart: Dark Moon | 75209 | [75209-lionheart-dark-moon.json](./75209-lionheart-dark-moon.json) |
