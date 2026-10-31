@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars and Roses | 187697 | [187697-wars-and-roses.json](./187697-wars-and-roses.json) |
 | Wars and Warriors: Joan of Arc | 17297 | [17297-wars-and-warriors-joan-of-arc.json](./17297-wars-and-warriors-joan-of-arc.json) |
 | Wars of Cards: Roma | 241781 | [241781-wars-of-cards-roma.json](./241781-wars-of-cards-roma.json) |
+| Wars of Glory | 108684 | [108684-wars-of-glory.json](./108684-wars-of-glory.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Wars of Prasia | 188381 | [188381-wars-of-prasia.json](./188381-wars-of-prasia.json) |
 | Wars of Succession | 79814 | [79814-wars-of-succession.json](./79814-wars-of-succession.json) |
@@ -5327,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
 | Wingsuit Dream | 190389 | [190389-wingsuit-dream.json](./190389-wingsuit-dream.json) |
+| Wingsuit Flying | 108688 | [108688-wingsuit-flying.json](./108688-wingsuit-flying.json) |
 | Wingsuit Hero | 235925 | [235925-wingsuit-hero.json](./235925-wingsuit-hero.json) |
 | Wingsuit Thrill | 216839 | [216839-wingsuit-thrill.json](./216839-wingsuit-thrill.json) |
 | WingSuit Wiley 2.0 | 251735 | [251735-wingsuit-wiley-2-0.json](./251735-wingsuit-wiley-2-0.json) |
@@ -6803,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
+| Word Home - Cat Puzzle Game | 108689 | [108689-word-home-cat-puzzle-game.json](./108689-word-home-cat-puzzle-game.json) |
 | Word Hunter | 83438 | [83438-word-hunter.json](./83438-word-hunter.json) |
 | Word Invaders! | 232479 | [232479-word-invaders.json](./232479-word-invaders.json) |
 | Word Invasion | 44363 | [44363-word-invasion.json](./44363-word-invasion.json) |
