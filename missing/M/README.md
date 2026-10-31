@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machiavelli | 405148 | [405148-machiavelli.json](./405148-machiavelli.json) |
 | Machiavelli the Prince | 14463 | [14463-machiavelli-the-prince.json](./14463-machiavelli-the-prince.json) |
 | Machiavelli's Ascent | 68549 | [68549-machiavellis-ascent.json](./68549-machiavellis-ascent.json) |
+| Machiavellian Suns | 101877 | [101877-machiavellian-suns.json](./101877-machiavellian-suns.json) |
 | Machick | 293342 | [293342-machick.json](./293342-machick.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machick 2: Journey to the East | 381066 | [381066-machick-2-journey-to-the-east.json](./381066-machick-2-journey-to-the-east.json) |
@@ -3939,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maroxyn Drarea | 350786 | [350786-maroxyn-drarea.json](./350786-maroxyn-drarea.json) |
 | Marquee Candle | 350021 | [350021-marquee-candle.json](./350021-marquee-candle.json) |
 | Marrakech | 188890 | [188890-marrakech.json](./188890-marrakech.json) |
+| Marrakesh Club | 101899 | [101899-marrakesh-club.json](./101899-marrakesh-club.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Marriage Royale: Prism Story | 269499 | [269499-marriage-royale-prism-story.json](./269499-marriage-royale-prism-story.json) |
 | Marriage to the Demon Wife! | 202197 | [202197-marriage-to-the-demon-wife.json](./202197-marriage-to-the-demon-wife.json) |
@@ -17800,6 +17802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Love Jaws | 182883 | [182883-must-love-jaws.json](./182883-must-love-jaws.json) |
 | Must Pop Words | 240036 | [240036-must-pop-words.json](./240036-must-pop-words.json) |
 | Must Reach | 171734 | [171734-must-reach.json](./171734-must-reach.json) |
+| Must-a-Mine | 101872 | [101872-must-a-mine.json](./101872-must-a-mine.json) |
 | Must. Eat. Birds! | 67214 | [67214-must-eat-birds.json](./67214-must-eat-birds.json) |
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
