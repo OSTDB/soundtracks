@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooooo | 304136 | [304136-ooooo.json](./304136-ooooo.json) |
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
+| Oopi's Quest | 120530 | [120530-oopis-quest.json](./120530-oopis-quest.json) |
 | Oopils | 405937 | [405937-oopils.json](./405937-oopils.json) |
 | Oops Airlines | 391222 | [391222-oops-airlines.json](./391222-oops-airlines.json) |
 | Oops You Started An Intergalactic War | 202020 | [202020-oops-you-started-an-intergalactic-war.json](./202020-oops-you-started-an-intergalactic-war.json) |
