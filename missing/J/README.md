@@ -3544,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jusou: Gakkou no Kaidan | 308906 | [308906-jusou-gakkou-no-kaidan.json](./308906-jusou-gakkou-no-kaidan.json) |
 | Just 1 Minute! Memory Test with Masterpieces | 316273 | [316273-just-1-minute-memory-test-with-masterpieces.json](./316273-just-1-minute-memory-test-with-masterpieces.json) |
 | Just 15 minutes | 151594 | [151594-just-15-minutes.json](./151594-just-15-minutes.json) |
+| Just 2048 | 89579 | [89579-just-2048.json](./89579-just-2048.json) |
 | Just a ball: Jumping in the space | 196478 | [196478-just-a-ball-jumping-in-the-space.json](./196478-just-a-ball-jumping-in-the-space.json) |
 | Just a Button | 63178 | [63178-just-a-button.json](./63178-just-a-button.json) |
 | Just a Chest | 212128 | [212128-just-a-chest.json](./212128-just-a-chest.json) |
