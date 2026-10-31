@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
 | Egypt II: The Heliopolis Prophecy | 43781 | [43781-egypt-ii-the-heliopolis-prophecy.json](./43781-egypt-ii-the-heliopolis-prophecy.json) |
 | Egypt in Space | 343998 | [343998-egypt-in-space.json](./343998-egypt-in-space.json) |
+| Egypt Jewels Quest | 104362 | [104362-egypt-jewels-quest.json](./104362-egypt-jewels-quest.json) |
 | Egypt Pharaoh Secret | 109213 | [109213-egypt-pharaoh-secret.json](./109213-egypt-pharaoh-secret.json) |
 | Egypt Picross. Pharaoh's Riddles. | 99990 | [99990-egypt-picross-pharaohs-riddles.json](./99990-egypt-picross-pharaohs-riddles.json) |
 | Egypt Series: The Prophecy - Part 1 | 88661 | [88661-egypt-series-the-prophecy-part-1.json](./88661-egypt-series-the-prophecy-part-1.json) |
