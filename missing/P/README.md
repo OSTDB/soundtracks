@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Quest 3D | 134828 | [134828-pac-quest-3d.json](./134828-pac-quest-3d.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac the Man 2 | 78960 | [78960-pac-the-man-2.json](./78960-pac-the-man-2.json) |
+| Pac the Man X | 80183 | [80183-pac-the-man-x.json](./80183-pac-the-man-x.json) |
 | Pac vs Ghosts | 371207 | [371207-pac-vs-ghosts.json](./371207-pac-vs-ghosts.json) |
 | Pac-01 | 267566 | [267566-pac-01.json](./267566-pac-01.json) |
 | Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemia | 149517 | [149517-pandemia.json](./149517-pandemia.json) |
 | Pandemia: Virus Outbreak | 169589 | [169589-pandemia-virus-outbreak.json](./169589-pandemia-virus-outbreak.json) |
 | Pandemic | 147934 | [147934-pandemic.json](./147934-pandemic.json) |
+| Pandemic 2.5 | 80264 | [80264-pandemic-2-5.json](./80264-pandemic-2-5.json) |
 | Pandemic Bunny | 149371 | [149371-pandemic-bunny.json](./149371-pandemic-bunny.json) |
 | Pandemic Express: Zombie Escape | 110294 | [110294-pandemic-express-zombie-escape.json](./110294-pandemic-express-zombie-escape.json) |
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
@@ -15773,6 +15775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pummel Party | 105322 | [105322-pummel-party.json](./105322-pummel-party.json) |
 | Pump | 179688 | [179688-pump.json](./179688-pump.json) |
 | Pump It Up | 79307 | [79307-pump-it-up.json](./79307-pump-it-up.json) |
+| Pump It Up : Prex 3 | 80257 | [80257-pump-it-up-prex-3.json](./80257-pump-it-up-prex-3.json) |
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Pump It Up Fiesta | 243133 | [243133-pump-it-up-fiesta.json](./243133-pump-it-up-fiesta.json) |
 | Pump It Up Fiesta 2 | 62274 | [62274-pump-it-up-fiesta-2.json](./62274-pump-it-up-fiesta-2.json) |
