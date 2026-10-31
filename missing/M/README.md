@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Maycabs | 85913 | [85913-magic-maycabs.json](./85913-magic-maycabs.json) |
 | Magic Maze | 337598 | [337598-magic-maze.json](./337598-magic-maze.json) |
 | Magic Maze | 54173 | [54173-magic-maze.json](./54173-magic-maze.json) |
+| Magic Mechsuit Akane | 105595 | [105595-magic-mechsuit-akane.json](./105595-magic-mechsuit-akane.json) |
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
 | Magic Mermaid | 89201 | [89201-magic-mermaid.json](./89201-magic-mermaid.json) |
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
