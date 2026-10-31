@@ -10008,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood girl | 177854 | [177854-blood-girl.json](./177854-blood-girl.json) |
 | Blood Golf | 264083 | [264083-blood-golf.json](./264083-blood-golf.json) |
 | Blood Harvest | 29565 | [29565-blood-harvest.json](./29565-blood-harvest.json) |
+| Blood Harvest 2 | 76343 | [76343-blood-harvest-2.json](./76343-blood-harvest-2.json) |
 | Blood High! | 376865 | [376865-blood-high.json](./376865-blood-high.json) |
 | Blood Hospital | 210992 | [210992-blood-hospital.json](./210992-blood-hospital.json) |
 | Blood Hunting | 259726 | [259726-blood-hunting.json](./259726-blood-hunting.json) |
@@ -13967,6 +13968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of the Pasture | 368821 | [368821-breath-of-the-pasture.json](./368821-breath-of-the-pasture.json) |
 | Breath of the Wasteland | 155936 | [155936-breath-of-the-wasteland.json](./155936-breath-of-the-wasteland.json) |
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
+| Breath of Warfare | 76277 | [76277-breath-of-warfare.json](./76277-breath-of-warfare.json) |
 | Breath: Toiki wa Akaneiro | 269675 | [269675-breath-toiki-wa-akaneiro.json](./269675-breath-toiki-wa-akaneiro.json) |
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
 | Breathe | 89392 | [89392-breathe.json](./89392-breathe.json) |
@@ -15332,6 +15334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
 | Bug Bash | 93309 | [93309-bug-bash.json](./93309-bug-bash.json) |
 | Bug Battle | 287025 | [287025-bug-battle.json](./287025-bug-battle.json) |
+| Bug Battle | 76316 | [76316-bug-battle.json](./76316-bug-battle.json) |
 | Bug Bite! | 256929 | [256929-bug-bite.json](./256929-bug-bite.json) |
 | Bug Bites! | 338860 | [338860-bug-bites.json](./338860-bug-bites.json) |
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
@@ -16027,6 +16030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
 | Bunny Mahjo | 111384 | [111384-bunny-mahjo.json](./111384-bunny-mahjo.json) |
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
+| Bunny Mania 2 | 76327 | [76327-bunny-mania-2.json](./76327-bunny-mania-2.json) |
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
 | Bunny Memory | 151406 | [151406-bunny-memory.json](./151406-bunny-memory.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
