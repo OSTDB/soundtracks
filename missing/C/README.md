@@ -17824,6 +17824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House Match 3 Puzzle | 246855 | [246855-cursed-house-match-3-puzzle.json](./246855-cursed-house-match-3-puzzle.json) |
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
 | Cursed Island | 189342 | [189342-cursed-island.json](./189342-cursed-island.json) |
+| Cursed Islands | 101868 | [101868-cursed-islands.json](./101868-cursed-islands.json) |
 | Cursed Isles | 72514 | [72514-cursed-isles.json](./72514-cursed-isles.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
@@ -18218,6 +18219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
 | Cyber Chaos | 295076 | [295076-cyber-chaos.json](./295076-cyber-chaos.json) |
 | Cyber Chaser | 383187 | [383187-cyber-chaser.json](./383187-cyber-chaser.json) |
+| Cyber Chaser: Counterthrust | 101866 | [101866-cyber-chaser-counterthrust.json](./101866-cyber-chaser-counterthrust.json) |
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
 | Cyber Circuit | 60840 | [60840-cyber-circuit.json](./60840-cyber-circuit.json) |
