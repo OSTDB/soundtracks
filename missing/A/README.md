@@ -9822,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ansatsu Kyoshitsu: Assassin Ikusei Keikaku!! | 59326 | [59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json](./59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json) |
 | Ansatsu Kyoshitsu: Korosensei Daihouimou!! | 60876 | [60876-ansatsu-kyoshitsu-korosensei-daihouimou.json](./60876-ansatsu-kyoshitsu-korosensei-daihouimou.json) |
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
+| Anshar Online | 119941 | [119941-anshar-online.json](./119941-anshar-online.json) |
 | AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
 | Ansible | 111528 | [111528-ansible.json](./111528-ansible.json) |
 | Ansoku | 236421 | [236421-ansoku.json](./236421-ansoku.json) |
@@ -14268,6 +14269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralith | 395380 | [395380-astralith.json](./395380-astralith.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
+| Astralojia: Episode 1 | 119982 | [119982-astralojia-episode-1.json](./119982-astralojia-episode-1.json) |
 | Astranded | 317045 | [317045-astranded.json](./317045-astranded.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
 | Astraphia | 365592 | [365592-astraphia.json](./365592-astraphia.json) |
