@@ -13688,6 +13688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Maker | 288806 | [288806-money-maker.json](./288806-money-maker.json) |
 | Money Maker | 343782 | [343782-money-maker.json](./343782-money-maker.json) |
 | Money Mansion | 170350 | [170350-money-mansion.json](./170350-money-mansion.json) |
+| Money Master | 107487 | [107487-money-master.json](./107487-money-master.json) |
 | Money Maze | 221897 | [221897-money-maze.json](./221897-money-maze.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Money Run | 302394 | [302394-money-money-run.json](./302394-money-money-run.json) |
@@ -17170,6 +17171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
 | Multia Space Program | 165913 | [165913-multia-space-program.json](./165913-multia-space-program.json) |
+| Multibombers | 107507 | [107507-multibombers.json](./107507-multibombers.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicraft | 39187 | [39187-multicraft.json](./39187-multicraft.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
@@ -17619,6 +17621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Pin | 246807 | [246807-mushroom-pin.json](./246807-mushroom-pin.json) |
 | Mushroom Pop | 420190 | [420190-mushroom-pop.json](./420190-mushroom-pop.json) |
 | Mushroom Quest | 104060 | [104060-mushroom-quest.json](./104060-mushroom-quest.json) |
+| Mushroom rain | 107498 | [107498-mushroom-rain.json](./107498-mushroom-rain.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
 | Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
 | Mushroom Survivors | 357709 | [357709-mushroom-survivors.json](./357709-mushroom-survivors.json) |
