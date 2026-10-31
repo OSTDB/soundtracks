@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
 | Nevertales: Legends - Collector's Edition | 76513 | [76513-nevertales-legends-collectors-edition.json](./76513-nevertales-legends-collectors-edition.json) |
 | Nevertales: Shattered Image | 140201 | [140201-nevertales-shattered-image.json](./140201-nevertales-shattered-image.json) |
+| Nevertales: Shattered Image HD | 102497 | [102497-nevertales-shattered-image-hd.json](./102497-nevertales-shattered-image-hd.json) |
 | Nevertales: Smoke and Mirrors | 140202 | [140202-nevertales-smoke-and-mirrors.json](./140202-nevertales-smoke-and-mirrors.json) |
 | Nevertales: Smoke and Mirrors - Collector's Edition | 28615 | [28615-nevertales-smoke-and-mirrors-collectors-edition.json](./28615-nevertales-smoke-and-mirrors-collectors-edition.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
