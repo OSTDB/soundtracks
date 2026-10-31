@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant | 136848 | [136848-valiant.json](./136848-valiant.json) |
 | Valiant | 19040 | [19040-valiant.json](./19040-valiant.json) |
 | Valiant | 257236 | [257236-valiant.json](./257236-valiant.json) |
+| Valiant Effort | 119283 | [119283-valiant-effort.json](./119283-valiant-effort.json) |
 | Valiant Force | 56568 | [56568-valiant-force.json](./56568-valiant-force.json) |
 | Valiant Force 2 | 228039 | [228039-valiant-force-2.json](./228039-valiant-force-2.json) |
 | Valiant Gears | 130226 | [130226-valiant-gears.json](./130226-valiant-gears.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator | 361061 | [361061-valkyrie-iteration-mecha-pilot-raising-pocket-simulator.json](./361061-valkyrie-iteration-mecha-pilot-raising-pocket-simulator.json) |
 | Valkyrie Nemesis | 195622 | [195622-valkyrie-nemesis.json](./195622-valkyrie-nemesis.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
+| Valkyrie of Phantasm | 119265 | [119265-valkyrie-of-phantasm.json](./119265-valkyrie-of-phantasm.json) |
 | Valkyrie Profile | 3998 | [3998-valkyrie-profile.json](./3998-valkyrie-profile.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
 | Valkyrie Profile Niffynee | 189996 | [189996-valkyrie-profile-niffynee.json](./189996-valkyrie-profile-niffynee.json) |
@@ -668,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampvasion | 410896 | [410896-vampvasion.json](./410896-vampvasion.json) |
 | Vampyr: Special Edition | 139984 | [139984-vampyr-special-edition.json](./139984-vampyr-special-edition.json) |
 | Vampyr: Talisman of Invocation | 69916 | [69916-vampyr-talisman-of-invocation.json](./69916-vampyr-talisman-of-invocation.json) |
+| Vampyr: The Hunters Heirlooms | 119287 | [119287-vampyr-the-hunters-heirlooms.json](./119287-vampyr-the-hunters-heirlooms.json) |
 | Vampyre Cross | 71576 | [71576-vampyre-cross.json](./71576-vampyre-cross.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Vamwolf Cross | 60333 | [60333-vamwolf-cross.json](./60333-vamwolf-cross.json) |
@@ -2580,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
+| Virus Explosion | 119250 | [119250-virus-explosion.json](./119250-virus-explosion.json) |
 | Virus Hunter | 323002 | [323002-virus-hunter.json](./323002-virus-hunter.json) |
 | Virus Infinite | 252591 | [252591-virus-infinite.json](./252591-virus-infinite.json) |
 | Virus Jigglin' Fever | 35474 | [35474-virus-jigglin-fever.json](./35474-virus-jigglin-fever.json) |
