@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
 | Wequer | 116036 | [116036-wequer.json](./116036-wequer.json) |
 | Wer Weiß Denn Sowas? | 110499 | [110499-wer-wei-denn-sowas.json](./110499-wer-wei-denn-sowas.json) |
+| Wer Weiß Denn Sowas?: Das 2. Spiel | 123779 | [123779-wer-wei-denn-sowas-das-2-spiel.json](./123779-wer-wei-denn-sowas-das-2-spiel.json) |
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
