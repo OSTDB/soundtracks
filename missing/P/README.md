@@ -2799,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathPix Bubble | 96533 | [96533-pathpix-bubble.json](./96533-pathpix-bubble.json) |
 | PathPix Color | 106552 | [106552-pathpix-color.json](./106552-pathpix-color.json) |
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
+| PathPix Joy | 106880 | [106880-pathpix-joy.json](./106880-pathpix-joy.json) |
 | Paths & Danger | 150957 | [150957-paths-and-danger.json](./150957-paths-and-danger.json) |
 | Paths of Fight: Samurai | 249845 | [249845-paths-of-fight-samurai.json](./249845-paths-of-fight-samurai.json) |
 | Paths of the Sentinels | 199277 | [199277-paths-of-the-sentinels.json](./199277-paths-of-the-sentinels.json) |
@@ -15879,6 +15880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppetmaster: Pose Viewer | 245741 | [245741-puppetmaster-pose-viewer.json](./245741-puppetmaster-pose-viewer.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | Puppets' Dream TD | 261639 | [261639-puppets-dream-td.json](./261639-puppets-dream-td.json) |
+| PuppetShow: Arrogance Effect | 106843 | [106843-puppetshow-arrogance-effect.json](./106843-puppetshow-arrogance-effect.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
 | PuppetShow: Fatal Mistake | 187931 | [187931-puppetshow-fatal-mistake.json](./187931-puppetshow-fatal-mistake.json) |
