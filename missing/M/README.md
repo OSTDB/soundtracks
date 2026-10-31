@@ -4158,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Marty Thinks 4th Dimensionally | 54807 | [54807-marty-thinks-4th-dimensionally.json](./54807-marty-thinks-4th-dimensionally.json) |
 | Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
+| Marty's Zapstack | 79633 | [79633-martys-zapstack.json](./79633-martys-zapstack.json) |
 | Martyr | 384148 | [384148-martyr.json](./384148-martyr.json) |
 | Martyrdom | 290520 | [290520-martyrdom.json](./290520-martyrdom.json) |
 | Maru | 123934 | [123934-maru.json](./123934-maru.json) |
@@ -9168,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrico | 19919 | [19919-metrico.json](./19919-metrico.json) |
 | Metris | 91515 | [91515-metris.json](./91515-metris.json) |
 | Metris & Co | 91606 | [91606-metris-and-co.json](./91606-metris-and-co.json) |
+| Metris 3 | 79660 | [79660-metris-3.json](./79660-metris-3.json) |
 | Metris 4 | 91521 | [91521-metris-4.json](./91521-metris-4.json) |
 | Metris 5 | 80251 | [80251-metris-5.json](./80251-metris-5.json) |
 | Metris II | 80249 | [80249-metris-ii.json](./80249-metris-ii.json) |
@@ -9748,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 3.0 | 3355 | [3355-microsoft-flight-simulator-3-0.json](./3355-microsoft-flight-simulator-3-0.json) |
 | Microsoft Flight Simulator 4.0 | 3356 | [3356-microsoft-flight-simulator-4-0.json](./3356-microsoft-flight-simulator-4-0.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
+| Microsoft Flight Simulator 4.0: Sound, Graphics & Aircraft Upgrade | 79497 | [79497-microsoft-flight-simulator-4-0-sound-graphics-and-aircraft-upgrade.json](./79497-microsoft-flight-simulator-4-0-sound-graphics-and-aircraft-upgrade.json) |
 | Microsoft Flight Simulator 5.1 | 3358 | [3358-microsoft-flight-simulator-5-1.json](./3358-microsoft-flight-simulator-5-1.json) |
 | Microsoft Flight Simulator 5.1: Scenery Pack | 209452 | [209452-microsoft-flight-simulator-5-1-scenery-pack.json](./209452-microsoft-flight-simulator-5-1-scenery-pack.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
@@ -11573,6 +11576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf MatchUp | 99578 | [99578-mini-golf-matchup.json](./99578-mini-golf-matchup.json) |
 | Mini Golf Mayhem | 129500 | [129500-mini-golf-mayhem.json](./129500-mini-golf-mayhem.json) |
 | Mini Golf Mundo | 32669 | [32669-mini-golf-mundo.json](./32669-mini-golf-mundo.json) |
+| Mini Golf Pur | 79640 | [79640-mini-golf-pur.json](./79640-mini-golf-pur.json) |
 | Mini Golf Quest | 386373 | [386373-mini-golf-quest.json](./386373-mini-golf-quest.json) |
 | Mini Golf Resort | 26587 | [26587-mini-golf-resort.json](./26587-mini-golf-resort.json) |
 | Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
