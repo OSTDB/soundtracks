@@ -3873,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League: Chronicles | 6485 | [6485-justice-league-chronicles.json](./6485-justice-league-chronicles.json) |
 | Justice League: Dangerous Pursuit | 338691 | [338691-justice-league-dangerous-pursuit.json](./338691-justice-league-dangerous-pursuit.json) |
 | Justice League: Earth's Final Defense | 63693 | [63693-justice-league-earths-final-defense.json](./63693-justice-league-earths-final-defense.json) |
+| Justice League: Heroes United | 67770 | [67770-justice-league-heroes-united.json](./67770-justice-league-heroes-united.json) |
 | Justice League: Injustice for All | 6484 | [6484-justice-league-injustice-for-all.json](./6484-justice-league-injustice-for-all.json) |
 | Justice League: Laptop Infantil | 297741 | [297741-justice-league-laptop-infantil.json](./297741-justice-league-laptop-infantil.json) |
 | Justice League: Save Planet Earth | 245459 | [245459-justice-league-save-planet-earth.json](./245459-justice-league-save-planet-earth.json) |
