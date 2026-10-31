@@ -4016,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life as a Lich | 295901 | [295901-life-as-a-lich.json](./295901-life-as-a-lich.json) |
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life at 12:47PM | 364239 | [364239-life-at-12-47pm.json](./364239-life-at-12-47pm.json) |
+| Life At Space | 74139 | [74139-life-at-space.json](./74139-life-at-space.json) |
 | Life Beyond | 90221 | [90221-life-beyond.json](./90221-life-beyond.json) |
 | Life Blood | 285538 | [285538-life-blood.json](./285538-life-blood.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
