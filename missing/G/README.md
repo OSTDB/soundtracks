@@ -9073,6 +9073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTJ: Grand Theft Japan | 390088 | [390088-gtj-grand-theft-japan.json](./390088-gtj-grand-theft-japan.json) |
 | gToons | 203646 | [203646-gtoons.json](./203646-gtoons.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
+| GTR Drift Simulator | 95781 | [95781-gtr-drift-simulator.json](./95781-gtr-drift-simulator.json) |
 | GTR Traffic Rivals | 100902 | [100902-gtr-traffic-rivals.json](./100902-gtr-traffic-rivals.json) |
 | GTR3 | 56269 | [56269-gtr3.json](./56269-gtr3.json) |
 | GTRevival | 271259 | [271259-gtrevival.json](./271259-gtrevival.json) |
