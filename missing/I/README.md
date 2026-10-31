@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
 | Infinity Treasures | 172969 | [172969-infinity-treasures.json](./172969-infinity-treasures.json) |
 | Infinity Trials | 245817 | [245817-infinity-trials.json](./245817-infinity-trials.json) |
+| Infinity Trip | 76344 | [76344-infinity-trip.json](./76344-infinity-trip.json) |
 | Infinity Valley | 152669 | [152669-infinity-valley.json](./152669-infinity-valley.json) |
 | Infinity Wanderer | 316585 | [316585-infinity-wanderer.json](./316585-infinity-wanderer.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
