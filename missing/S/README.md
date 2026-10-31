@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger's Rat | 21776 | [21776-schrodingers-rat.json](./21776-schrodingers-rat.json) |
 | Schrott | 250820 | [250820-schrott.json](./250820-schrott.json) |
 | Schtroumpfs | 200341 | [200341-schtroumpfs.json](./200341-schtroumpfs.json) |
+| Schuld | 106854 | [106854-schuld.json](./106854-schuld.json) |
 | Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 1 | 265083 | [265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json](./265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json) |
@@ -5964,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fight 2 | 39244 | [39244-shadow-fight-2.json](./39244-shadow-fight-2.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
 | Shadow Fight: Arena | 219604 | [219604-shadow-fight-arena.json](./219604-shadow-fight-arena.json) |
+| Shadow Fighter | 106875 | [106875-shadow-fighter.json](./106875-shadow-fighter.json) |
 | Shadow Fighter | 5524 | [5524-shadow-fighter.json](./5524-shadow-fighter.json) |
 | Shadow Fighter Legend | 105859 | [105859-shadow-fighter-legend.json](./105859-shadow-fighter-legend.json) |
 | Shadow Fold | 417456 | [417456-shadow-fold.json](./417456-shadow-fold.json) |
@@ -9348,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
 | Silent Debuggers | 44343 | [44343-silent-debuggers.json](./44343-silent-debuggers.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
+| Silent Depth Submarine Sim | 106835 | [106835-silent-depth-submarine-sim.json](./106835-silent-depth-submarine-sim.json) |
 | Silent Depth Submarine Simulator | 179471 | [179471-silent-depth-submarine-simulator.json](./179471-silent-depth-submarine-simulator.json) |
 | Silent Descent | 75182 | [75182-silent-descent.json](./75182-silent-descent.json) |
 | Silent Doom | 115176 | [115176-silent-doom.json](./115176-silent-doom.json) |
@@ -14294,6 +14297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Online: Ball 3D | 80456 | [80456-soccer-online-ball-3d.json](./80456-soccer-online-ball-3d.json) |
 | Soccer Party | 310813 | [310813-soccer-party.json](./310813-soccer-party.json) |
 | Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
+| Soccer Penalty Kicks | 106861 | [106861-soccer-penalty-kicks.json](./106861-soccer-penalty-kicks.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Physics Fight | 219901 | [219901-soccer-physics-fight.json](./219901-soccer-physics-fight.json) |
 | Soccer Pinball | 80790 | [80790-soccer-pinball.json](./80790-soccer-pinball.json) |
@@ -16464,6 +16468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorceress Idle | 220218 | [220218-sorceress-idle.json](./220218-sorceress-idle.json) |
 | Sorceress of Fortune | 200063 | [200063-sorceress-of-fortune.json](./200063-sorceress-of-fortune.json) |
 | Sorceress Services | 362889 | [362889-sorceress-services.json](./362889-sorceress-services.json) |
+| Sorceress Solitaire | 106878 | [106878-sorceress-solitaire.json](./106878-sorceress-solitaire.json) |
 | Sorcerian | 14486 | [14486-sorcerian.json](./14486-sorcerian.json) |
 | Sorcerian Additional Scenario Vol. 2: Sengoku Sorcerian | 137432 | [137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json](./137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json) |
 | Sorcerian Additional Scenario Vol. 3: Pyramid Sorcerian | 137360 | [137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json](./137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json) |
@@ -17661,7 +17666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20684,6 +20688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
 | Sprint Cars 2: Showdown at Eldora | 208777 | [208777-sprint-cars-2-showdown-at-eldora.json](./208777-sprint-cars-2-showdown-at-eldora.json) |
 | Sprint City | 384167 | [384167-sprint-city.json](./384167-sprint-city.json) |
+| Sprint Daytona Duel for Nascar HD | 106831 | [106831-sprint-daytona-duel-for-nascar-hd.json](./106831-sprint-daytona-duel-for-nascar-hd.json) |
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
@@ -27964,6 +27969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Drinker | 70306 | [70306-super-drinker.json](./70306-super-drinker.json) |
 | Super Droid Adventure | 233622 | [233622-super-droid-adventure.json](./233622-super-droid-adventure.json) |
 | Super Drop Jam | 71198 | [71198-super-drop-jam.json](./71198-super-drop-jam.json) |
+| Super Drop Land | 106870 | [106870-super-drop-land.json](./106870-super-drop-land.json) |
 | Super Drunken Guy | 251690 | [251690-super-drunken-guy.json](./251690-super-drunken-guy.json) |
 | Super Duck | 98302 | [98302-super-duck.json](./98302-super-duck.json) |
 | Super Duck! | 222363 | [222363-super-duck.json](./222363-super-duck.json) |
@@ -29877,6 +29883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Speed Machines | 47816 | [47816-super-speed-machines.json](./47816-super-speed-machines.json) |
 | Super Speed Race 64 | 136856 | [136856-super-speed-race-64.json](./136856-super-speed-race-64.json) |
 | Super Speed Race Jr. | 342139 | [342139-super-speed-race-jr.json](./342139-super-speed-race-jr.json) |
+| Super Spell Heroes | 106859 | [106859-super-spell-heroes.json](./106859-super-spell-heroes.json) |
 | Super Spelling Ducks | 280341 | [280341-super-spelling-ducks.json](./280341-super-spelling-ducks.json) |
 | Super Spike V'Ball | 48073 | [48073-super-spike-vball.json](./48073-super-spike-vball.json) |
 | Super Spike V'Ball/Nintendo World Cup | 93582 | [93582-super-spike-vball-nintendo-world-cup.json](./93582-super-spike-vball-nintendo-world-cup.json) |
