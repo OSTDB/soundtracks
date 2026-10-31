@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagaia | 145878 | [145878-sagaia.json](./145878-sagaia.json) |
 | Sagakure | 116430 | [116430-sagakure.json](./116430-sagakure.json) |
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
+| Sagashi ni Ikouyo | 85778 | [85778-sagashi-ni-ikouyo.json](./85778-sagashi-ni-ikouyo.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
 | Sage 3D | 105259 | [105259-sage-3d.json](./105259-sage-3d.json) |
 | SAGE 5: Event the Game | 321469 | [321469-sage-5-event-the-game.json](./321469-sage-5-event-the-game.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samawa Idle | 265304 | [265304-samawa-idle.json](./265304-samawa-idle.json) |
 | Samba de Amigo | 21807 | [21807-samba-de-amigo.json](./21807-samba-de-amigo.json) |
 | Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
+| Samba de Amigo ver. 2000 | 85768 | [85768-samba-de-amigo-ver-2000.json](./85768-samba-de-amigo-ver-2000.json) |
 | Samba de Amigo: Party Central | 236658 | [236658-samba-de-amigo-party-central.json](./236658-samba-de-amigo-party-central.json) |
 | Samba de Amigo: Party Central - Digital Deluxe Edition | 251097 | [251097-samba-de-amigo-party-central-digital-deluxe-edition.json](./251097-samba-de-amigo-party-central-digital-deluxe-edition.json) |
 | Samba de Amigo: Party-To-Go | 264096 | [264096-samba-de-amigo-party-to-go.json](./264096-samba-de-amigo-party-to-go.json) |
@@ -10834,6 +10836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skein | 74764 | [74764-skein.json](./74764-skein.json) |
 | Skel and Defense | 304319 | [304319-skel-and-defense.json](./304319-skel-and-defense.json) |
 | Skel Dungeon | 320572 | [320572-skel-dungeon.json](./320572-skel-dungeon.json) |
+| Skelagon | 85807 | [85807-skelagon.json](./85807-skelagon.json) |
 | Skelattack | 54837 | [54837-skelattack.json](./54837-skelattack.json) |
 | Skele Magic | 182944 | [182944-skele-magic.json](./182944-skele-magic.json) |
 | Skelecool: Remnants | 411028 | [411028-skelecool-remnants.json](./411028-skelecool-remnants.json) |
@@ -11222,6 +11225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldiggery | 80394 | [80394-skulldiggery.json](./80394-skulldiggery.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
+| Skullgirls Encore | 85703 | [85703-skullgirls-encore.json](./85703-skullgirls-encore.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls Encore: Big Band | 127555 | [127555-skullgirls-encore-big-band.json](./127555-skullgirls-encore-big-band.json) |
 | Skullgirls Encore: Eliza | 127553 | [127553-skullgirls-encore-eliza.json](./127553-skullgirls-encore-eliza.json) |
@@ -17498,6 +17502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Commander | 26806 | [26806-space-commander.json](./26806-space-commander.json) |
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
+| Space Commanders II | 85797 | [85797-space-commanders-ii.json](./85797-space-commanders-ii.json) |
 | Space Confetti | 178962 | [178962-space-confetti.json](./178962-space-confetti.json) |
 | Space Conflict: Runner | 241548 | [241548-space-conflict-runner.json](./241548-space-conflict-runner.json) |
 | Space Conquest | 44133 | [44133-space-conquest.json](./44133-space-conquest.json) |
@@ -17765,7 +17770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20801,6 +20805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint 4 | 61312 | [61312-sprint-4.json](./61312-sprint-4.json) |
 | Sprint 8 | 61311 | [61311-sprint-8.json](./61311-sprint-8.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
+| Sprint Car Racing | 85773 | [85773-sprint-car-racing.json](./85773-sprint-car-racing.json) |
 | Sprint Cars 2: Showdown at Eldora | 208777 | [208777-sprint-cars-2-showdown-at-eldora.json](./208777-sprint-cars-2-showdown-at-eldora.json) |
 | Sprint City | 384167 | [384167-sprint-city.json](./384167-sprint-city.json) |
 | Sprint Daytona Duel for Nascar HD | 106831 | [106831-sprint-daytona-duel-for-nascar-hd.json](./106831-sprint-daytona-duel-for-nascar-hd.json) |
@@ -25230,6 +25235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
 | Stray Souls | 183474 | [183474-stray-souls.json](./183474-stray-souls.json) |
 | Stray Souls: Cult Classic Edition | 274648 | [274648-stray-souls-cult-classic-edition.json](./274648-stray-souls-cult-classic-edition.json) |
+| Stray Souls: Dollhouse Story - Collector's Edition | 85705 | [85705-stray-souls-dollhouse-story-collectors-edition.json](./85705-stray-souls-dollhouse-story-collectors-edition.json) |
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
 | Stray Souls: Stolen Memories - Collector's Edition | 53676 | [53676-stray-souls-stolen-memories-collectors-edition.json](./53676-stray-souls-stolen-memories-collectors-edition.json) |
 | Stray Tekirs | 346127 | [346127-stray-tekirs.json](./346127-stray-tekirs.json) |
