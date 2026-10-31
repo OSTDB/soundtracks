@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Koi no Sousashitsu: Eternal Happiness | 60422 | [60422-abunai-koi-no-sousashitsu-eternal-happiness.json](./60422-abunai-koi-no-sousashitsu-eternal-happiness.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
+| Abundant | 97617 | [97617-abundant.json](./97617-abundant.json) |
 | Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
 | Abuse | 383503 | [383503-abuse.json](./383503-abuse.json) |
 | Abuzittin'in Maceraları II: İz Peşinde | 330333 | [330333-abuzittinin-maceralar-ii-iz-pesinde.json](./330333-abuzittinin-maceralar-ii-iz-pesinde.json) |
@@ -8500,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andrii's Horror | 52580 | [52580-andriis-horror.json](./52580-andriis-horror.json) |
 | Andrio's World | 247373 | [247373-andrios-world.json](./247373-andrios-world.json) |
 | Andro Dunos | 39622 | [39622-andro-dunos.json](./39622-andro-dunos.json) |
+| Andro Milk | 97656 | [97656-andro-milk.json](./97656-andro-milk.json) |
 | Andro's World | 99111 | [99111-andros-world.json](./99111-andros-world.json) |
 | Android | 150966 | [150966-android.json](./150966-android.json) |
 | Android | 391270 | [391270-android.json](./391270-android.json) |
@@ -8541,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ane Hara-Mix Two | 97767 | [97767-ane-hara-mix-two.json](./97767-ane-hara-mix-two.json) |
 | AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
 | AneeMate | 305989 | [305989-aneemate.json](./305989-aneemate.json) |
+| Anekan | 97621 | [97621-anekan.json](./97621-anekan.json) |
 | Anekan: Onechan Kansatsu Nikki | 108144 | [108144-anekan-onechan-kansatsu-nikki.json](./108144-anekan-onechan-kansatsu-nikki.json) |
 | Anekouji Naoko to Gin'iro no Shinigami | 60476 | [60476-anekouji-naoko-to-giniro-no-shinigami.json](./60476-anekouji-naoko-to-giniro-no-shinigami.json) |
 | Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
@@ -10863,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarius | 299557 | [299557-aquarius.json](./299557-aquarius.json) |
 | Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
 | Aquarius Days | 97744 | [97744-aquarius-days.json](./97744-aquarius-days.json) |
+| Aquarius Days 2 | 97648 | [97648-aquarius-days-2.json](./97648-aquarius-days-2.json) |
 | Aquascapers | 258345 | [258345-aquascapers.json](./258345-aquascapers.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquascapes: Collector's Edition | 356136 | [356136-aquascapes-collectors-edition.json](./356136-aquascapes-collectors-edition.json) |
