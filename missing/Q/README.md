@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickn | 191028 | [191028-quickn.json](./191028-quickn.json) |
 | Quickscope King | 407773 | [407773-quickscope-king.json](./407773-quickscope-king.json) |
 | Quickscope Simulator | 226086 | [226086-quickscope-simulator.json](./226086-quickscope-simulator.json) |
+| Quickshot | 89593 | [89593-quickshot.json](./89593-quickshot.json) |
 | Quicksilver | 92450 | [92450-quicksilver.json](./92450-quicksilver.json) |
 | QuickSolve | 174316 | [174316-quicksolve.json](./174316-quicksolve.json) |
 | Quicksort | 383735 | [383735-quicksort.json](./383735-quicksort.json) |
