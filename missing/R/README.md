@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready, Set, Party Collection | 335510 | [335510-ready-set-party-collection.json](./335510-ready-set-party-collection.json) |
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
 | Ready, Set, Read with Bananas & Jack | 148450 | [148450-ready-set-read-with-bananas-and-jack.json](./148450-ready-set-read-with-bananas-and-jack.json) |
+| Ready, Steady, Cook: The Game | 67738 | [67738-ready-steady-cook-the-game.json](./67738-ready-steady-cook-the-game.json) |
 | Ready, Steady, Ship! | 235535 | [235535-ready-steady-ship.json](./235535-ready-steady-ship.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | ReadySet Heroes | 116586 | [116586-readyset-heroes.json](./116586-readyset-heroes.json) |
@@ -8576,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock'n Bark | 171853 | [171853-rockn-bark.json](./171853-rockn-bark.json) |
 | Rock'n Wrestle | 39146 | [39146-rockn-wrestle.json](./39146-rockn-wrestle.json) |
 | Rock'n' Ball | 48206 | [48206-rockn-ball.json](./48206-rockn-ball.json) |
+| Rock'n'Roll | 67849 | [67849-rocknroll.json](./67849-rocknroll.json) |
 | Rock'n'Roll: Card Wargame | 163957 | [163957-rocknroll-card-wargame.json](./163957-rocknroll-card-wargame.json) |
 | Rocka Feller | 100122 | [100122-rocka-feller.json](./100122-rocka-feller.json) |
 | Rockabilly Kid | 171549 | [171549-rockabilly-kid.json](./171549-rockabilly-kid.json) |
