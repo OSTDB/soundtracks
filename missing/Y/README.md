@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaminabe Aries: Asu e no Chousenjou | 57913 | [57913-yaminabe-aries-asu-e-no-chousenjou.json](./57913-yaminabe-aries-asu-e-no-chousenjou.json) |
 | Yamiyo ni Sasayaku: Tantei Sagara Kyouichirou | 215192 | [215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json](./215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json) |
 | Yamizome Liberator | 327834 | [327834-yamizome-liberator.json](./327834-yamizome-liberator.json) |
+| Yammix: Bubble Smash | 109988 | [109988-yammix-bubble-smash.json](./109988-yammix-bubble-smash.json) |
 | YamYam | 37760 | [37760-yamyam.json](./37760-yamyam.json) |
 | Yan Love Remake | 296727 | [296727-yan-love-remake.json](./296727-yan-love-remake.json) |
 | Yan's World | 322103 | [322103-yans-world.json](./322103-yans-world.json) |
