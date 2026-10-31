@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Legends: Esports Manager | 279064 | [279064-league-of-legends-esports-manager.json](./279064-league-of-legends-esports-manager.json) |
 | League of Legends: Wild Rift | 124700 | [124700-league-of-legends-wild-rift.json](./124700-league-of-legends-wild-rift.json) |
 | League of Light | 47277 | [47277-league-of-light.json](./47277-league-of-light.json) |
+| League of Light: Dark Omens | 79026 | [79026-league-of-light-dark-omens.json](./79026-league-of-light-dark-omens.json) |
 | League of Light: Dark Omens - Collector's Edition | 31065 | [31065-league-of-light-dark-omens-collectors-edition.json](./31065-league-of-light-dark-omens-collectors-edition.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
