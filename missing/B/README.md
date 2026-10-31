@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Blitz | 181761 | [181761-bacon-blitz.json](./181761-bacon-blitz.json) |
+| Bacon Escape 2: Spaced Out! | 114647 | [114647-bacon-escape-2-spaced-out.json](./114647-bacon-escape-2-spaced-out.json) |
 | Bacon Grease | 277492 | [277492-bacon-grease.json](./277492-bacon-grease.json) |
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
 | Bacon Man: An Adventure | 36218 | [36218-bacon-man-an-adventure.json](./36218-bacon-man-an-adventure.json) |
@@ -865,7 +866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2431,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barkour | 313588 | [313588-barkour.json](./313588-barkour.json) |
 | Barles Charkley's Shut Up and Paint | 180507 | [180507-barles-charkleys-shut-up-and-paint.json](./180507-barles-charkleys-shut-up-and-paint.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
+| Barmark | 114665 | [114665-barmark.json](./114665-barmark.json) |
 | Barmy Burgers | 41185 | [41185-barmy-burgers.json](./41185-barmy-burgers.json) |
 | Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
@@ -5388,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Nightfall | 105159 | [105159-before-nightfall.json](./105159-before-nightfall.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
 | Before Nightfall: Summertime | 157352 | [157352-before-nightfall-summertime.json](./157352-before-nightfall-summertime.json) |
+| Before or After | 114638 | [114638-before-or-after.json](./114638-before-or-after.json) |
 | Before Resignation | 239688 | [239688-before-resignation.json](./239688-before-resignation.json) |
 | Before She’s Gone | 386177 | [386177-before-she-s-gone.json](./386177-before-she-s-gone.json) |
 | Before Sunset | 211446 | [211446-before-sunset.json](./211446-before-sunset.json) |
@@ -11275,6 +11277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Sweeper VR | 187179 | [187179-bomb-sweeper-vr.json](./187179-bomb-sweeper-vr.json) |
 | Bomb Sweeper: Mine Finder | 195936 | [195936-bomb-sweeper-mine-finder.json](./195936-bomb-sweeper-mine-finder.json) |
 | Bomb Sworders | 105678 | [105678-bomb-sworders.json](./105678-bomb-sworders.json) |
+| Bomb the 'Burb | 114667 | [114667-bomb-the-burb.json](./114667-bomb-the-burb.json) |
 | Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
 | Bomb the Hill | 400674 | [400674-bomb-the-hill.json](./400674-bomb-the-hill.json) |
 | Bomb the Monsters! | 35638 | [35638-bomb-the-monsters.json](./35638-bomb-the-monsters.json) |
@@ -11345,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Crew: U.S. Army Air Forces | 140184 | [140184-bomber-crew-u-s-army-air-forces.json](./140184-bomber-crew-u-s-army-air-forces.json) |
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
+| Bomber Friends | 114677 | [114677-bomber-friends.json](./114677-bomber-friends.json) |
 | Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
 | Bomber Man Special | 41799 | [41799-bomber-man-special.json](./41799-bomber-man-special.json) |
@@ -14536,6 +14540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Browning | 41980 | [41980-browning.json](./41980-browning.json) |
 | Browning African Safari Deluxe | 206686 | [206686-browning-african-safari-deluxe.json](./206686-browning-african-safari-deluxe.json) |
 | Browning Turkey Hunt Deluxe | 206687 | [206687-browning-turkey-hunt-deluxe.json](./206687-browning-turkey-hunt-deluxe.json) |
+| BrowserQuest | 114674 | [114674-browserquest.json](./114674-browserquest.json) |
 | Brox | 276808 | [276808-brox.json](./276808-brox.json) |
 | Brrrainz | 58474 | [58474-brrrainz.json](./58474-brrrainz.json) |
 | BRT: Billiards of the Round Table | 392952 | [392952-brt-billiards-of-the-round-table.json](./392952-brt-billiards-of-the-round-table.json) |
@@ -15413,6 +15418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
 | Buildmark | 148942 | [148942-buildmark.json](./148942-buildmark.json) |
 | BuildNow GG | 333186 | [333186-buildnow-gg.json](./333186-buildnow-gg.json) |
+| Buildo Rescue | 114669 | [114669-buildo-rescue.json](./114669-buildo-rescue.json) |
 | Buildodge | 148830 | [148830-buildodge.json](./148830-buildodge.json) |
 | Buildozer Simulator | 321489 | [321489-buildozer-simulator.json](./321489-buildozer-simulator.json) |
 | Buildville | 102745 | [102745-buildville.json](./102745-buildville.json) |
