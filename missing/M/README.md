@@ -13176,6 +13176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Extreme vs. Maxiboost - On | 128773 | [128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json](./128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
 | Mobile Suit Gundam: Federation vs. Zeon DX | 43205 | [43205-mobile-suit-gundam-federation-vs-zeon-dx.json](./43205-mobile-suit-gundam-federation-vs-zeon-dx.json) |
+| Mobile Suit Gundam: Final Shooting | 66471 | [66471-mobile-suit-gundam-final-shooting.json](./66471-mobile-suit-gundam-final-shooting.json) |
 | Mobile Suit Gundam: Giren no Yabou - Axis No Kyoui V | 56743 | [56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json](./56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json) |
 | Mobile Suit Gundam: Gundam vs. Gundam | 72783 | [72783-mobile-suit-gundam-gundam-vs-gundam.json](./72783-mobile-suit-gundam-gundam-vs-gundam.json) |
 | Mobile Suit Gundam: Gundam vs. Gundam Next | 75696 | [75696-mobile-suit-gundam-gundam-vs-gundam-next.json](./75696-mobile-suit-gundam-gundam-vs-gundam-next.json) |
@@ -13195,6 +13196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Shin Gihren No Yabou | 56746 | [56746-mobile-suit-gundam-shin-gihren-no-yabou.json](./56746-mobile-suit-gundam-shin-gihren-no-yabou.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Suit Z-Gundam | 77059 | [77059-mobile-suit-z-gundam.json](./77059-mobile-suit-z-gundam.json) |
+| Mobile Suit Zeta Gundam | 66472 | [66472-mobile-suit-zeta-gundam.json](./66472-mobile-suit-zeta-gundam.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
 | Mobile Train Simulator | 72899 | [72899-mobile-train-simulator.json](./72899-mobile-train-simulator.json) |
 | Mobile Train Simulator + Densha de Go!: Tokyo Kyuukou-hen | 146602 | [146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json](./146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json) |
@@ -13300,6 +13302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Assault Tanks | 155026 | [155026-modern-assault-tanks.json](./155026-modern-assault-tanks.json) |
 | Modern Attack | 391865 | [391865-modern-attack.json](./391865-modern-attack.json) |
 | Modern Campaigns: Danube Front '85 | 124738 | [124738-modern-campaigns-danube-front-85.json](./124738-modern-campaigns-danube-front-85.json) |
+| Modern Campaigns: Korea '85 | 66467 | [66467-modern-campaigns-korea-85.json](./66467-modern-campaigns-korea-85.json) |
 | Modern Campaigns: Middle East '67 | 124737 | [124737-modern-campaigns-middle-east-67.json](./124737-modern-campaigns-middle-east-67.json) |
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
 | Modern Cannon Strike | 239041 | [239041-modern-cannon-strike.json](./239041-modern-cannon-strike.json) |
@@ -16947,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Hopp's Playhouse 3 | 239687 | [239687-mr-hopps-playhouse-3.json](./239687-mr-hopps-playhouse-3.json) |
 | Mr. Hopp's Playhouse: The Toybox | 371547 | [371547-mr-hopps-playhouse-the-toybox.json](./371547-mr-hopps-playhouse-the-toybox.json) |
+| Mr. Jones Graveyard Shift | 66465 | [66465-mr-jones-graveyard-shift.json](./66465-mr-jones-graveyard-shift.json) |
 | Mr. Jones: Retrubition | 280090 | [280090-mr-jones-retrubition.json](./280090-mr-jones-retrubition.json) |
 | Mr. Jong | 329415 | [329415-mr-jong.json](./329415-mr-jong.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
