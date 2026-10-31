@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Series: Desafío Ruta 40 | 114792 | [114792-dakar-series-desafio-ruta-40.json](./114792-dakar-series-desafio-ruta-40.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dakkan Stiletto | 376683 | [376683-dakkan-stiletto.json](./376683-dakkan-stiletto.json) |
+| Dakko-chan House | 65234 | [65234-dakko-chan-house.json](./65234-dakko-chan-house.json) |
 | Dakkoshite! Chimpanzee | 67358 | [67358-dakkoshite-chimpanzee.json](./67358-dakkoshite-chimpanzee.json) |
 | Dakota Winchester's Adventures | 90222 | [90222-dakota-winchesters-adventures.json](./90222-dakota-winchesters-adventures.json) |
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
@@ -559,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damashi Game | 321830 | [321830-damashi-game.json](./321830-damashi-game.json) |
 | Damatte Watashi no Muko ni Nare! | 60369 | [60369-damatte-watashi-no-muko-ni-nare.json](./60369-damatte-watashi-no-muko-ni-nare.json) |
 | Damatte Watashi no Muko ni Nare! Reona After | 60370 | [60370-damatte-watashi-no-muko-ni-nare-reona-after.json](./60370-damatte-watashi-no-muko-ni-nare-reona-after.json) |
+| Dambusters | 65237 | [65237-dambusters.json](./65237-dambusters.json) |
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
 | Dami & Flo | 179461 | [179461-dami-and-flo.json](./179461-dami-and-flo.json) |
@@ -9505,6 +9507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Fairies: Tinker Bell and the Lost Treasure | 230409 | [230409-disney-fairies-tinker-bell-and-the-lost-treasure.json](./230409-disney-fairies-tinker-bell-and-the-lost-treasure.json) |
 | Disney Fairies: Tinker Bell and the Lost Treasure | 47790 | [47790-disney-fairies-tinker-bell-and-the-lost-treasure.json](./47790-disney-fairies-tinker-bell-and-the-lost-treasure.json) |
 | Disney Fairies: Tinker Bell's Adventure | 50099 | [50099-disney-fairies-tinker-bells-adventure.json](./50099-disney-fairies-tinker-bells-adventure.json) |
+| Disney Fairies: Tinkerbell and the Lost Treasure | 65155 | [65155-disney-fairies-tinkerbell-and-the-lost-treasure.json](./65155-disney-fairies-tinkerbell-and-the-lost-treasure.json) |
 | Disney Fireworks | 85089 | [85089-disney-fireworks.json](./85089-disney-fireworks.json) |
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
 | Disney Friends | 47859 | [47859-disney-friends.json](./47859-disney-friends.json) |
@@ -11818,6 +11821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Fit Hell-O-Ween | 214555 | [214555-doodle-fit-hell-o-ween.json](./214555-doodle-fit-hell-o-ween.json) |
 | Doodle Games Bundle | 147800 | [147800-doodle-games-bundle.json](./147800-doodle-games-bundle.json) |
 | Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
+| Doodle God 2 | 65158 | [65158-doodle-god-2.json](./65158-doodle-god-2.json) |
 | Doodle God Blitz | 68341 | [68341-doodle-god-blitz.json](./68341-doodle-god-blitz.json) |
 | Doodle God Blitz HD | 106080 | [106080-doodle-god-blitz-hd.json](./106080-doodle-god-blitz-hd.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
@@ -16572,6 +16576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
 | Dungeon Hunter | 23258 | [23258-dungeon-hunter.json](./23258-dungeon-hunter.json) |
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
+| Dungeon Hunter 2 | 65162 | [65162-dungeon-hunter-2.json](./65162-dungeon-hunter-2.json) |
 | Dungeon Hunter 3 | 18899 | [18899-dungeon-hunter-3.json](./18899-dungeon-hunter-3.json) |
 | Dungeon Hunter 6 | 273292 | [273292-dungeon-hunter-6.json](./273292-dungeon-hunter-6.json) |
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
