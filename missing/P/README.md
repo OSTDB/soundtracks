@@ -12382,6 +12382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerstar Golf: Rocky Ridge | 249724 | [249724-powerstar-golf-rocky-ridge.json](./249724-powerstar-golf-rocky-ridge.json) |
 | Powerstation 17 | 337433 | [337433-powerstation-17.json](./337433-powerstation-17.json) |
 | Powerstation 64 | 273249 | [273249-powerstation-64.json](./273249-powerstation-64.json) |
+| Powerstyx | 123245 | [123245-powerstyx.json](./123245-powerstyx.json) |
 | PowersVR | 29540 | [29540-powersvr.json](./29540-powersvr.json) |
 | Powertrip | 167998 | [167998-powertrip.json](./167998-powertrip.json) |
 | Powertris | 147136 | [147136-powertris.json](./147136-powertris.json) |
@@ -15165,6 +15166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psikodelya: The Mansion of Madness | 170895 | [170895-psikodelya-the-mansion-of-madness.json](./170895-psikodelya-the-mansion-of-madness.json) |
 | Psikyo Collection Vol. 1 | 105048 | [105048-psikyo-collection-vol-1.json](./105048-psikyo-collection-vol-1.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
+| Psikyo Collection Vol. 3 | 123239 | [123239-psikyo-collection-vol-3.json](./123239-psikyo-collection-vol-3.json) |
 | Psikyo Shooting Collection Vol. 2: Sengoku Ace + Sengoku Blade | 61496 | [61496-psikyo-shooting-collection-vol-2-sengoku-ace-sengoku-blade.json](./61496-psikyo-shooting-collection-vol-2-sengoku-ace-sengoku-blade.json) |
 | Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze | 70314 | [70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json](./70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json) |
 | Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
