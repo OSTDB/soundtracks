@@ -4398,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Monsters | 55936 | [55936-pet-monsters.json](./55936-pet-monsters.json) |
 | Pet Oddities: Desktop Shelter | 372461 | [372461-pet-oddities-desktop-shelter.json](./372461-pet-oddities-desktop-shelter.json) |
 | Pet Pad | 243423 | [243423-pet-pad.json](./243423-pet-pad.json) |
+| Pet Pals | 85886 | [85886-pet-pals.json](./85886-pet-pals.json) |
 | Pet Pals 2: Best of Friends | 229233 | [229233-pet-pals-2-best-of-friends.json](./229233-pet-pals-2-best-of-friends.json) |
 | Pet Pals: Animal Doctor | 5093 | [5093-pet-pals-animal-doctor.json](./5093-pet-pals-animal-doctor.json) |
 | Pet Pals: New Leash on Life | 64121 | [64121-pet-pals-new-leash-on-life.json](./64121-pet-pals-new-leash-on-life.json) |
@@ -6843,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piranha | 92881 | [92881-piranha.json](./92881-piranha.json) |
 | Piranha Feeding | 291836 | [291836-piranha-feeding.json](./291836-piranha-feeding.json) |
 | Piranha Panic | 114750 | [114750-piranha-panic.json](./114750-piranha-panic.json) |
+| Piranha-kun no Isshuukan | 85786 | [85786-piranha-kun-no-isshuukan.json](./85786-piranha-kun-no-isshuukan.json) |
 | Pirap Ilji: Geu Namjarobuteoui Talchul | 208655 | [208655-pirap-ilji-geu-namjarobuteoui-talchul.json](./208655-pirap-ilji-geu-namjarobuteoui-talchul.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Piratado 1 | 30743 | [30743-piratado-1.json](./30743-piratado-1.json) |
@@ -12225,6 +12227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
 | Power Diggerz | 22052 | [22052-power-diggerz.json](./22052-power-diggerz.json) |
 | Power Disc Slam | 59291 | [59291-power-disc-slam.json](./59291-power-disc-slam.json) |
+| Power Dolls | 85770 | [85770-power-dolls.json](./85770-power-dolls.json) |
 | Power Dolls 1 | 228982 | [228982-power-dolls-1.json](./228982-power-dolls-1.json) |
 | Power Dolls 2 Dash | 228976 | [228976-power-dolls-2-dash.json](./228976-power-dolls-2-dash.json) |
 | Power Dolls 3 | 228977 | [228977-power-dolls-3.json](./228977-power-dolls-3.json) |
@@ -12722,6 +12725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
 | Premier Manager 2006-07 | 136304 | [136304-premier-manager-2006-07.json](./136304-premier-manager-2006-07.json) |
 | Premier Manager 2010 | 91301 | [91301-premier-manager-2010.json](./91301-premier-manager-2010.json) |
+| Premier Manager 2011 | 85884 | [85884-premier-manager-2011.json](./85884-premier-manager-2011.json) |
 | Premier Manager 2012 | 65430 | [65430-premier-manager-2012.json](./65430-premier-manager-2012.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
 | Premier Manager 3 De-Luxe | 73484 | [73484-premier-manager-3-de-luxe.json](./73484-premier-manager-3-de-luxe.json) |
