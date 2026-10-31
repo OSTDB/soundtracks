@@ -2857,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
 | Heads-Up: Action Soccer | 208364 | [208364-heads-up-action-soccer.json](./208364-heads-up-action-soccer.json) |
 | Headshot | 91383 | [91383-headshot.json](./91383-headshot.json) |
+| Headshot Heroes | 113982 | [113982-headshot-heroes.json](./113982-headshot-heroes.json) |
 | Headshot Holdout | 418247 | [418247-headshot-holdout.json](./418247-headshot-holdout.json) |
 | Headshot Roulette | 356705 | [356705-headshot-roulette.json](./356705-headshot-roulette.json) |
 | Headshot! | 365725 | [365725-headshot.json](./365725-headshot.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herding Dog | 34307 | [34307-herding-dog.json](./34307-herding-dog.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
+| Here & Elsewhere | 114040 | [114040-here-and-elsewhere.json](./114040-here-and-elsewhere.json) |
 | Here & There with the Mr. Men | 97798 | [97798-here-and-there-with-the-mr-men.json](./97798-here-and-there-with-the-mr-men.json) |
 | Here Again | 410923 | [410923-here-again.json](./410923-here-again.json) |
 | here AND there | 118252 | [118252-here-and-there.json](./118252-here-and-there.json) |
