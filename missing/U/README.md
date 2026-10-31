@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMS II: Nations at War | 74007 | [74007-ums-ii-nations-at-war.json](./74007-ums-ii-nations-at-war.json) |
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
 | Umurangi Generation: Macro | 139015 | [139015-umurangi-generation-macro.json](./139015-umurangi-generation-macro.json) |
+| Un indien dans la ville | 117973 | [117973-un-indien-dans-la-ville.json](./117973-un-indien-dans-la-ville.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un Pas Fragile | 120003 | [120003-un-pas-fragile.json](./120003-un-pas-fragile.json) |
 | Un Paseo Por Villa Tronco | 396527 | [396527-un-paseo-por-villa-tronco.json](./396527-un-paseo-por-villa-tronco.json) |
@@ -1411,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead zombies | 127765 | [127765-undead-zombies.json](./127765-undead-zombies.json) |
 | Undead Zone | 241828 | [241828-undead-zone.json](./241828-undead-zone.json) |
 | Undead: Rise of Betrayed King | 278503 | [278503-undead-rise-of-betrayed-king.json](./278503-undead-rise-of-betrayed-king.json) |
+| Undead's Building | 117972 | [117972-undeads-building.json](./117972-undeads-building.json) |
 | Undeadly | 152564 | [152564-undeadly.json](./152564-undeadly.json) |
 | Undeads | 281913 | [281913-undeads.json](./281913-undeads.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
