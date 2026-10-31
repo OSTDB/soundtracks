@@ -4660,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
 | Seijuu Maden Beasts & Blades | 38247 | [38247-seijuu-maden-beasts-and-blades.json](./38247-seijuu-maden-beasts-and-blades.json) |
+| Seika no Mori | 77703 | [77703-seika-no-mori.json](./77703-seika-no-mori.json) |
 | Seikai Kishi Lynn Knight: Chikyuu wa Mamorete mo Kimo Otoko no Inshitsu Tanezuke Seme ni wa Katenakatta yo… | 59028 | [59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json](./59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json) |
 | Seikai no Monshou | 214550 | [214550-seikai-no-monshou.json](./214550-seikai-no-monshou.json) |
 | Seikai no Senki | 214549 | [214549-seikai-no-senki.json](./214549-seikai-no-senki.json) |
@@ -5497,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
 | Seven Nights With Hanako | 414574 | [414574-seven-nights-with-hanako.json](./414574-seven-nights-with-hanako.json) |
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
+| Seven Online Gamers: Offline | 77707 | [77707-seven-online-gamers-offline.json](./77707-seven-online-gamers-offline.json) |
 | Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Red Lines | 128837 | [128837-seven-red-lines.json](./128837-seven-red-lines.json) |
@@ -5670,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Kitten Sim-Date 5 | 305120 | [305120-sex-kitten-sim-date-5.json](./305120-sex-kitten-sim-date-5.json) |
 | Sex Latex | 272933 | [272933-sex-latex.json](./272933-sex-latex.json) |
 | Sex Lesson | 368086 | [368086-sex-lesson.json](./368086-sex-lesson.json) |
+| Sex Life | 77694 | [77694-sex-life.json](./77694-sex-life.json) |
 | Sex Magic | 295320 | [295320-sex-magic.json](./295320-sex-magic.json) |
 | Sex Massage | 276822 | [276822-sex-massage.json](./276822-sex-massage.json) |
 | Sex Massage 2 | 311579 | [311579-sex-massage-2.json](./311579-sex-massage-2.json) |
@@ -17795,7 +17798,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18982,6 +18984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum | 34009 | [34009-spectrum.json](./34009-spectrum.json) |
 | Spectrum 6 | 240838 | [240838-spectrum-6.json](./240838-spectrum-6.json) |
+| Spectrum Break | 77712 | [77712-spectrum-break.json](./77712-spectrum-break.json) |
 | Spectrum Descent | 304082 | [304082-spectrum-descent.json](./304082-spectrum-descent.json) |
 | Spectrum Forces | 178252 | [178252-spectrum-forces.json](./178252-spectrum-forces.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
@@ -22562,6 +22565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarBoost | 266998 | [266998-starboost.json](./266998-starboost.json) |
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
 | StarBooze Reborn | 357314 | [357314-starbooze-reborn.json](./357314-starbooze-reborn.json) |
+| StarBorders | 77705 | [77705-starborders.json](./77705-starborders.json) |
 | Starborn Space | 115027 | [115027-starborn-space.json](./115027-starborn-space.json) |
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
