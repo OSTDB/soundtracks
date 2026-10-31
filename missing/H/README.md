@@ -7843,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Trivia | 100702 | [100702-hockey-trivia.json](./100702-hockey-trivia.json) |
 | Hockey VR | 175154 | [175154-hockey-vr.json](./175154-hockey-vr.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
+| Hockey! / Soccer! | 69722 | [69722-hockey-soccer.json](./69722-hockey-soccer.json) |
 | Hockeysplit | 128976 | [128976-hockeysplit.json](./128976-hockeysplit.json) |
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
@@ -8439,6 +8440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
 | Home: Postmortem Edition | 146776 | [146776-home-postmortem-edition.json](./146776-home-postmortem-edition.json) |
 | Home's Embrace | 177403 | [177403-homes-embrace.json](./177403-homes-embrace.json) |
+| Homebase | 69720 | [69720-homebase.json](./69720-homebase.json) |
 | Homebody | 202698 | [202698-homebody.json](./202698-homebody.json) |
 | Homebound | 154317 | [154317-homebound.json](./154317-homebound.json) |
 | Homebound | 176709 | [176709-homebound.json](./176709-homebound.json) |
