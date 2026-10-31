@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H-Isekai Loves | 164091 | [164091-h-isekai-loves.json](./164091-h-isekai-loves.json) |
 | H-Rescue | 227667 | [227667-h-rescue.json](./227667-h-rescue.json) |
 | H-Sniper: World War II | 173992 | [173992-h-sniper-world-war-ii.json](./173992-h-sniper-world-war-ii.json) |
+| H.A.T.E.: Hostile All Terrain Encounter. | 72444 | [72444-h-a-t-e-hostile-all-terrain-encounter.json](./72444-h-a-t-e-hostile-all-terrain-encounter.json) |
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
 | H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
 | Hannya Bullet Hell | 151671 | [151671-hannya-bullet-hell.json](./151671-hannya-bullet-hell.json) |
+| Hanoi | 72433 | [72433-hanoi.json](./72433-hanoi.json) |
 | Hanoi Puzzles: Flip Match | 159810 | [159810-hanoi-puzzles-flip-match.json](./159810-hanoi-puzzles-flip-match.json) |
 | Hanoi Puzzles: Magnetrix | 159744 | [159744-hanoi-puzzles-magnetrix.json](./159744-hanoi-puzzles-magnetrix.json) |
 | Hanoi Puzzles: Solid Match | 156520 | [156520-hanoi-puzzles-solid-match.json](./156520-hanoi-puzzles-solid-match.json) |
@@ -2359,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HatTrick Beginnings | 272483 | [272483-hattrick-beginnings.json](./272483-hattrick-beginnings.json) |
 | Hattrick! | 93137 | [93137-hattrick.json](./93137-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
+| Haul Asteroid | 72418 | [72418-haul-asteroid.json](./72418-haul-asteroid.json) |
 | Haul Away Joe | 176393 | [176393-haul-away-joe.json](./176393-haul-away-joe.json) |
 | Haul My Home | 415256 | [415256-haul-my-home.json](./415256-haul-my-home.json) |
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
@@ -6143,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Octane | 12434 | [12434-hi-octane.json](./12434-hi-octane.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
+| Hi-Roller Battle | 72439 | [72439-hi-roller-battle.json](./72439-hi-roller-battle.json) |
 | Hi-Score Boi | 134904 | [134904-hi-score-boi.json](./134904-hi-score-boi.json) |
 | Hi-Tech Hell 2 | 269115 | [269115-hi-tech-hell-2.json](./269115-hi-tech-hell-2.json) |
 | Hi-Ten Bomberman | 77942 | [77942-hi-ten-bomberman.json](./77942-hi-ten-bomberman.json) |
