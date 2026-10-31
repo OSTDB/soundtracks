@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Ibiza Beach Party | 340341 | [340341-ibiza-beach-party.json](./340341-ibiza-beach-party.json) |
 | Ibiza Madness: Zombie vs. Demons | 406503 | [406503-ibiza-madness-zombie-vs-demons.json](./406503-ibiza-madness-zombie-vs-demons.json) |
+| Iblard: Laputa no Kaeru Machi | 111995 | [111995-iblard-laputa-no-kaeru-machi.json](./111995-iblard-laputa-no-kaeru-machi.json) |
 | iBlast Moki | 23256 | [23256-iblast-moki.json](./23256-iblast-moki.json) |
 | iBlast Moki 2 HD | 174235 | [174235-iblast-moki-2-hd.json](./174235-iblast-moki-2-hd.json) |
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
@@ -2641,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Dog House | 103996 | [103996-in-the-dog-house.json](./103996-in-the-dog-house.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
 | In the Drink | 288876 | [288876-in-the-drink.json](./288876-in-the-drink.json) |
+| In the Ember | 111963 | [111963-in-the-ember.json](./111963-in-the-ember.json) |
 | In the End | 191044 | [191044-in-the-end.json](./191044-in-the-end.json) |
 | In the Facade we Trust | 329474 | [329474-in-the-facade-we-trust.json](./329474-in-the-facade-we-trust.json) |
 | In the Footage | 250851 | [250851-in-the-footage.json](./250851-in-the-footage.json) |
@@ -5341,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironscale | 349647 | [349647-ironscale.json](./349647-ironscale.json) |
 | Ironseed 2: Consensus | 353800 | [353800-ironseed-2-consensus.json](./353800-ironseed-2-consensus.json) |
 | Ironsmith Medieval Simulator | 122862 | [122862-ironsmith-medieval-simulator.json](./122862-ironsmith-medieval-simulator.json) |
+| Ironsmith Simulator | 111975 | [111975-ironsmith-simulator.json](./111975-ironsmith-simulator.json) |
 | IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
 | IronSurvival | 155890 | [155890-ironsurvival.json](./155890-ironsurvival.json) |
 | Ironsword: Wizards & Warriors II | 48053 | [48053-ironsword-wizards-and-warriors-ii.json](./48053-ironsword-wizards-and-warriors-ii.json) |
