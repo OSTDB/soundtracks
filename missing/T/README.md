@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangrams Deluxe | 91027 | [91027-tangrams-deluxe.json](./91027-tangrams-deluxe.json) |
 | TangramsVR | 55767 | [55767-tangramsvr.json](./55767-tangramsvr.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
+| Tanigawa Kouji no Shogi Shinan | 63614 | [63614-tanigawa-kouji-no-shogi-shinan.json](./63614-tanigawa-kouji-no-shogi-shinan.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | Tanigawa Kouji no Shogi Shinan III | 48884 | [48884-tanigawa-kouji-no-shogi-shinan-iii.json](./48884-tanigawa-kouji-no-shogi-shinan-iii.json) |
 | Tanima | 204188 | [204188-tanima.json](./204188-tanima.json) |
@@ -10702,6 +10703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters: Heat of Battle | 191476 | [191476-the-king-of-fighters-heat-of-battle.json](./191476-the-king-of-fighters-heat-of-battle.json) |
 | The King of Fighters: Kyo | 43841 | [43841-the-king-of-fighters-kyo.json](./43841-the-king-of-fighters-kyo.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
+| The King of Fighters: NESTS Collection | 63516 | [63516-the-king-of-fighters-nests-collection.json](./63516-the-king-of-fighters-nests-collection.json) |
 | The King of Fighters: Sky Stage | 79083 | [79083-the-king-of-fighters-sky-stage.json](./79083-the-king-of-fighters-sky-stage.json) |
 | The King of Fighters: World | 26802 | [26802-the-king-of-fighters-world.json](./26802-the-king-of-fighters-world.json) |
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
@@ -13302,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
 | The Oregon Trail: 5th Edition | 68343 | [68343-the-oregon-trail-5th-edition.json](./68343-the-oregon-trail-5th-edition.json) |
+| The Oregon Trail: American Settler | 63611 | [63611-the-oregon-trail-american-settler.json](./63611-the-oregon-trail-american-settler.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
 | The Oregon Trail: Deluxe Edition | 300467 | [300467-the-oregon-trail-deluxe-edition.json](./300467-the-oregon-trail-deluxe-edition.json) |
@@ -25483,6 +25486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traildown: Downhill Mountain Biking | 226587 | [226587-traildown-downhill-mountain-biking.json](./226587-traildown-downhill-mountain-biking.json) |
 | Trailer Game | 390557 | [390557-trailer-game.json](./390557-trailer-game.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
+| Trailer Park King 3DD | 63615 | [63615-trailer-park-king-3dd.json](./63615-trailer-park-king-3dd.json) |
 | Trailer Park King Episode 2 | 85803 | [85803-trailer-park-king-episode-2.json](./85803-trailer-park-king-episode-2.json) |
 | Trailer Park Life | 232883 | [232883-trailer-park-life.json](./232883-trailer-park-life.json) |
 | Trailer Park Tycoon: Raccoon Ranch | 316488 | [316488-trailer-park-tycoon-raccoon-ranch.json](./316488-trailer-park-tycoon-raccoon-ranch.json) |
