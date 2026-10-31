@@ -2629,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawaii Resort | 86572 | [86572-hawaii-resort.json](./86572-hawaii-resort.json) |
 | Hawaiian Explorer: Lost Island | 53172 | [53172-hawaiian-explorer-lost-island.json](./53172-hawaiian-explorer-lost-island.json) |
 | Hawaiian Explorer: Pearl Harbor | 53171 | [53171-hawaiian-explorer-pearl-harbor.json](./53171-hawaiian-explorer-pearl-harbor.json) |
+| Hawaiian Odyssey Scenery Adventure | 70762 | [70762-hawaiian-odyssey-scenery-adventure.json](./70762-hawaiian-odyssey-scenery-adventure.json) |
 | Hawaiian Solitaire | 386142 | [386142-hawaiian-solitaire.json](./386142-hawaiian-solitaire.json) |
 | Hawk | 345941 | [345941-hawk.json](./345941-hawk.json) |
 | Hawk and Puma | 307423 | [307423-hawk-and-puma.json](./307423-hawk-and-puma.json) |
@@ -6676,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Tomatoes 3 | 330784 | [330784-hidden-tomatoes-3.json](./330784-hidden-tomatoes-3.json) |
 | Hidden Town | 189010 | [189010-hidden-town.json](./189010-hidden-town.json) |
 | Hidden Treasures in the Forest of Dreams | 182327 | [182327-hidden-treasures-in-the-forest-of-dreams.json](./182327-hidden-treasures-in-the-forest-of-dreams.json) |
+| Hidden Valley | 70825 | [70825-hidden-valley.json](./70825-hidden-valley.json) |
 | Hidden Valley Tower Defense | 138406 | [138406-hidden-valley-tower-defense.json](./138406-hidden-valley-tower-defense.json) |
 | Hidden Village Top-Down 3D | 255264 | [255264-hidden-village-top-down-3d.json](./255264-hidden-village-top-down-3d.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
@@ -10700,6 +10702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humphrey (2004) | 111320 | [111320-humphrey-2004.json](./111320-humphrey-2004.json) |
 | Humpi and Hemicube | 271619 | [271619-humpi-and-hemicube.json](./271619-humpi-and-hemicube.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
+| Humpty Dumpty meets the Fuzzy Wuzzies | 70736 | [70736-humpty-dumpty-meets-the-fuzzy-wuzzies.json](./70736-humpty-dumpty-meets-the-fuzzy-wuzzies.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
 | Humvee Assault: War 3D FPS | 268328 | [268328-humvee-assault-war-3d-fps.json](./268328-humvee-assault-war-3d-fps.json) |
