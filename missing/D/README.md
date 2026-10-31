@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Fall of the House of Usher - Collector's Edition | 81158 | [81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json](./81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Gold Bug - Collector's Edition | 32780 | [32780-dark-tales-edgar-allan-poes-the-gold-bug-collectors-edition.json](./32780-dark-tales-edgar-allan-poes-the-gold-bug-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Masque of the Red Death - Collector's Edition | 31688 | [31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json](./31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget | 68392 | [68392-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget.json](./68392-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget - Collector's Edition | 88477 | [88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json](./88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget HD | 108964 | [108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json](./108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json) |
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
@@ -5739,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
 | Demeo x Dungeons & Dragons: Battlemarked | 346959 | [346959-demeo-x-dungeons-and-dragons-battlemarked.json](./346959-demeo-x-dungeons-and-dragons-battlemarked.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
+| Demeritocracy or the Two Faces of Arias Ruth | 68388 | [68388-demeritocracy-or-the-two-faces-of-arias-ruth.json](./68388-demeritocracy-or-the-two-faces-of-arias-ruth.json) |
 | Demeter | 280059 | [280059-demeter.json](./280059-demeter.json) |
 | Demetria Spirit | 166843 | [166843-demetria-spirit.json](./166843-demetria-spirit.json) |
 | Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
@@ -16277,6 +16279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Defense | 223627 | [223627-dummy-defense.json](./223627-dummy-defense.json) |
 | Dummy Dungeon | 219763 | [219763-dummy-dungeon.json](./219763-dummy-dungeon.json) |
 | Dummy Guyz | 303493 | [303493-dummy-guyz.json](./303493-dummy-guyz.json) |
+| Dummy Life | 68372 | [68372-dummy-life.json](./68372-dummy-life.json) |
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
 | Dummy Pirates | 235171 | [235171-dummy-pirates.json](./235171-dummy-pirates.json) |
