@@ -3204,7 +3204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heartwood Online | 258374 | [258374-heartwood-online.json](./258374-heartwood-online.json) |
-| Heartworm | 132711 | [132711-heartworm.json](./132711-heartworm.json) |
 | Heat | 113542 | [113542-heat.json](./113542-heat.json) |
 | Heat | 183400 | [183400-heat.json](./183400-heat.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
