@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
 | Waver: A Typing Adventure | 165302 | [165302-waver-a-typing-adventure.json](./165302-waver-a-typing-adventure.json) |
 | Waverly Hills | 150920 | [150920-waverly-hills.json](./150920-waverly-hills.json) |
+| Waves | 104354 | [104354-waves.json](./104354-waves.json) |
 | Waves | 13547 | [13547-waves.json](./13547-waves.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves 2: Notorious | 30154 | [30154-waves-2-notorious.json](./30154-waves-2-notorious.json) |
