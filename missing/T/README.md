@@ -5462,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Armed Shadow | 339220 | [339220-the-armed-shadow.json](./339220-the-armed-shadow.json) |
 | The Army of Death | 273215 | [273215-the-army-of-death.json](./273215-the-army-of-death.json) |
 | The Arrangement | 73242 | [73242-the-arrangement.json](./73242-the-arrangement.json) |
+| The Arrival | 73566 | [73566-the-arrival.json](./73566-the-arrival.json) |
 | The Arrogance of Man | 394447 | [394447-the-arrogance-of-man.json](./394447-the-arrogance-of-man.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arrow Man | 71810 | [71810-the-arrow-man.json](./71810-the-arrow-man.json) |
@@ -8597,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Conflict | 71745 | [71745-the-final-conflict.json](./71745-the-final-conflict.json) |
 | The Final Confrontation | 273216 | [273216-the-final-confrontation.json](./273216-the-final-confrontation.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
+| The Final Crusade of Kroz | 73424 | [73424-the-final-crusade-of-kroz.json](./73424-the-final-crusade-of-kroz.json) |
 | The Final Cut of Lilith Cunningham | 422135 | [422135-the-final-cut-of-lilith-cunningham.json](./422135-the-final-cut-of-lilith-cunningham.json) |
 | The Final Day | 93923 | [93923-the-final-day.json](./93923-the-final-day.json) |
 | The Final Day of Spring | 183408 | [183408-the-final-day-of-spring.json](./183408-the-final-day-of-spring.json) |
@@ -9320,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grandma from Coco in Sonic 1 | 325693 | [325693-the-grandma-from-coco-in-sonic-1.json](./325693-the-grandma-from-coco-in-sonic-1.json) |
 | The Grandmaster | 118010 | [118010-the-grandmaster.json](./118010-the-grandmaster.json) |
 | The Granstream Saga | 19156 | [19156-the-granstream-saga.json](./19156-the-granstream-saga.json) |
+| The Graphic Adventure Creator | 73572 | [73572-the-graphic-adventure-creator.json](./73572-the-graphic-adventure-creator.json) |
 | The Grappler | 331394 | [331394-the-grappler.json](./331394-the-grappler.json) |
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
 | The Grass of Genesis | 305419 | [305419-the-grass-of-genesis.json](./305419-the-grass-of-genesis.json) |
@@ -13522,6 +13525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Bowl | 306390 | [306390-the-perfect-bowl.json](./306390-the-perfect-bowl.json) |
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect General | 4328 | [4328-the-perfect-general.json](./4328-the-perfect-general.json) |
+| The Perfect General Scenario Disk: World War II Battle Set | 73445 | [73445-the-perfect-general-scenario-disk-world-war-ii-battle-set.json](./73445-the-perfect-general-scenario-disk-world-war-ii-battle-set.json) |
 | The Perfect Match | 68420 | [68420-the-perfect-match.json](./68420-the-perfect-match.json) |
 | The Perfect Pencil | 199737 | [199737-the-perfect-pencil.json](./199737-the-perfect-pencil.json) |
 | The Perfect Portrait | 390015 | [390015-the-perfect-portrait.json](./390015-the-perfect-portrait.json) |
@@ -15220,6 +15224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Social | 15748 | [15748-the-sims-social.json](./15748-the-sims-social.json) |
 | The Sims: 4 Sleek Bathroom Kit | 341860 | [341860-the-sims-4-sleek-bathroom-kit.json](./341860-the-sims-4-sleek-bathroom-kit.json) |
 | The Sims: Bowling | 72891 | [72891-the-sims-bowling.json](./72891-the-sims-bowling.json) |
+| The Sims: Carnival - SnapCity | 73431 | [73431-the-sims-carnival-snapcity.json](./73431-the-sims-carnival-snapcity.json) |
 | The Sims: Complete Collection | 45116 | [45116-the-sims-complete-collection.json](./45116-the-sims-complete-collection.json) |
 | The Sims: Deluxe Edition | 45115 | [45115-the-sims-deluxe-edition.json](./45115-the-sims-deluxe-edition.json) |
 | The Sims: Double Deluxe | 45112 | [45112-the-sims-double-deluxe.json](./45112-the-sims-double-deluxe.json) |
