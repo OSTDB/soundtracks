@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Match 2 | 313740 | [313740-perfect-match-2.json](./313740-perfect-match-2.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 1 | 225641 | [225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json](./225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 2 | 225642 | [225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json](./225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json) |
+| Perfect Murder | 121969 | [121969-perfect-murder.json](./121969-perfect-murder.json) |
 | Perfect Murder | 209444 | [209444-perfect-murder.json](./209444-perfect-murder.json) |
 | Perfect New World | 175717 | [175717-perfect-new-world.json](./175717-perfect-new-world.json) |
 | Perfect Ninja Bundle | 331486 | [331486-perfect-ninja-bundle.json](./331486-perfect-ninja-bundle.json) |
@@ -8218,6 +8219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Ancrya Chronicles | 105557 | [105557-planet-ancrya-chronicles.json](./105557-planet-ancrya-chronicles.json) |
 | Planet Ancyra Chronicles | 38795 | [38795-planet-ancyra-chronicles.json](./38795-planet-ancyra-chronicles.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
+| Planet Automata | 121941 | [121941-planet-automata.json](./121941-planet-automata.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
 | Planet Bash | 55722 | [55722-planet-bash.json](./55722-planet-bash.json) |
@@ -10929,6 +10931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Puzzle: Furries | 170229 | [170229-poly-puzzle-furries.json](./170229-poly-puzzle-furries.json) |
 | Poly Puzzle: Furries 2 | 173069 | [173069-poly-puzzle-furries-2.json](./173069-poly-puzzle-furries-2.json) |
 | Poly Puzzle: Primates | 208820 | [208820-poly-puzzle-primates.json](./208820-poly-puzzle-primates.json) |
+| Poly Quest | 121916 | [121916-poly-quest.json](./121916-poly-quest.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Runner VR | 19038 | [19038-poly-runner-vr.json](./19038-poly-runner-vr.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
@@ -11830,6 +11833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possession Magenta | 60955 | [60955-possession-magenta.json](./60955-possession-magenta.json) |
 | Possession Obsession | 190419 | [190419-possession-obsession.json](./190419-possession-obsession.json) |
 | Possessioner | 213296 | [213296-possessioner.json](./213296-possessioner.json) |
+| Possessions | 121932 | [121932-possessions.json](./121932-possessions.json) |
 | Possessions | 269955 | [269955-possessions.json](./269955-possessions.json) |
 | Posshexor | 323810 | [323810-posshexor.json](./323810-posshexor.json) |
 | Possibility Space | 285152 | [285152-possibility-space.json](./285152-possibility-space.json) |
@@ -14573,6 +14577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Smile | 363673 | [363673-project-smile.json](./363673-project-smile.json) |
 | Project Snaqe | 189378 | [189378-project-snaqe.json](./189378-project-snaqe.json) |
+| Project SolarBot | 121918 | [121918-project-solarbot.json](./121918-project-solarbot.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Soul | 194119 | [194119-project-soul.json](./194119-project-soul.json) |
 | Project Space Hunter | 143252 | [143252-project-space-hunter.json](./143252-project-space-hunter.json) |
