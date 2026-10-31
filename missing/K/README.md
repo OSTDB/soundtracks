@@ -4078,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Maker | 175741 | [175741-knight-maker.json](./175741-knight-maker.json) |
 | Knight Move | 339229 | [339229-knight-move.json](./339229-knight-move.json) |
 | Knight Move | 41270 | [41270-knight-move.json](./41270-knight-move.json) |
+| Knight Moves | 78994 | [78994-knight-moves.json](./78994-knight-moves.json) |
 | Knight of Exile | 171421 | [171421-knight-of-exile.json](./171421-knight-of-exile.json) |
 | Knight of Flame Lily Akos 2 | 82655 | [82655-knight-of-flame-lily-akos-2.json](./82655-knight-of-flame-lily-akos-2.json) |
 | Knight of Legends | 199986 | [199986-knight-of-legends.json](./199986-knight-of-legends.json) |
