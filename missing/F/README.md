@@ -12822,6 +12822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuka: A Summer Memory | 206006 | [206006-fuuka-a-summer-memory.json](./206006-fuuka-a-summer-memory.json) |
 | Fuuraiki | 326096 | [326096-fuuraiki.json](./326096-fuuraiki.json) |
 | Fuuraiki | 64665 | [64665-fuuraiki.json](./64665-fuuraiki.json) |
+| Fuuraiki 2 | 64631 | [64631-fuuraiki-2.json](./64631-fuuraiki-2.json) |
 | Fuuraiki 3 | 60857 | [60857-fuuraiki-3.json](./60857-fuuraiki-3.json) |
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
 | Fuuu...! | 390168 | [390168-fuuu.json](./390168-fuuu.json) |
