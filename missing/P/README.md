@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Match | 15338 | [15338-perfect-match.json](./15338-perfect-match.json) |
 | Perfect Match | 313739 | [313739-perfect-match.json](./313739-perfect-match.json) |
 | Perfect Match 2 | 313740 | [313740-perfect-match-2.json](./313740-perfect-match-2.json) |
+| Perfect Memento of Touhou Question | 105633 | [105633-perfect-memento-of-touhou-question.json](./105633-perfect-memento-of-touhou-question.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 1 | 225641 | [225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json](./225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 2 | 225642 | [225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json](./225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json) |
 | Perfect Murder | 121969 | [121969-perfect-murder.json](./121969-perfect-murder.json) |
@@ -15586,6 +15587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull Chain | 421236 | [421236-pull-chain.json](./421236-pull-chain.json) |
 | Pull Dots | 67622 | [67622-pull-dots.json](./67622-pull-dots.json) |
 | Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
+| Pull Me Out | 105618 | [105618-pull-me-out.json](./105618-pull-me-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
 | Pull Stay | 126994 | [126994-pull-stay.json](./126994-pull-stay.json) |
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
