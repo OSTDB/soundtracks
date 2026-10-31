@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry's Autowalking Adventure to Rescue His Cheese | 278080 | [278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json](./278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json) |
 | Jerry's Merry Christmas | 310659 | [310659-jerrys-merry-christmas.json](./310659-jerrys-merry-christmas.json) |
 | Jersey Devil | 45077 | [45077-jersey-devil.json](./45077-jersey-devil.json) |
+| Jerusalem: The Three Roads to the Holy Land | 70735 | [70735-jerusalem-the-three-roads-to-the-holy-land.json](./70735-jerusalem-the-three-roads-to-the-holy-land.json) |
 | Jesse 'The Body' Ventura Wrestling Superstars | 46256 | [46256-jesse-the-body-ventura-wrestling-superstars.json](./46256-jesse-the-body-ventura-wrestling-superstars.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
@@ -1213,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetBound | 423209 | [423209-jetbound.json](./423209-jetbound.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
 | Jetbros | 44517 | [44517-jetbros.json](./44517-jetbros.json) |
+| Jetfighter | 70756 | [70756-jetfighter.json](./70756-jetfighter.json) |
 | JetFighter 2015 | 71275 | [71275-jetfighter-2015.json](./71275-jetfighter-2015.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
 | JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
@@ -2274,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Dynamite | 85212 | [85212-johnny-dynamite.json](./85212-johnny-dynamite.json) |
 | Johnny Graves: The Unchosen One | 32574 | [32574-johnny-graves-the-unchosen-one.json](./32574-johnny-graves-the-unchosen-one.json) |
 | Johnny Hardball: The Final Rebound | 390725 | [390725-johnny-hardball-the-final-rebound.json](./390725-johnny-hardball-the-final-rebound.json) |
+| Johnny Herbert's Grand Prix Championship 1998 | 70761 | [70761-johnny-herberts-grand-prix-championship-1998.json](./70761-johnny-herberts-grand-prix-championship-1998.json) |
 | Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
 | Johnny Impossible | 21013 | [21013-johnny-impossible.json](./21013-johnny-impossible.json) |
 | Johnny Kung-Fu | 21038 | [21038-johnny-kung-fu.json](./21038-johnny-kung-fu.json) |
