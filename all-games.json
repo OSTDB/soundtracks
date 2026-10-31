@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T21:20:50.017Z",
-  "total_soundtracks": 2760,
+  "generated_at": "2026-10-31T21:26:37.122Z",
+  "total_soundtracks": 2770,
   "games": [
     {
       "igdb_id": 7522,
@@ -1589,6 +1589,20 @@
         {
           "album_name": "Arcade Spirits (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2g8AEAbUFAZJvpEAjz1CCX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 145445,
+      "game_name": "Arches",
+      "game_url": "https://ostdb.net/games/arches",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c2c0ef849dc3c483bbf241a9",
+      "albums": [
+        {
+          "album_name": "Arches (The Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Wd5S7xcXMqsc6s86RmNJL",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5833,6 +5847,20 @@
       ]
     },
     {
+      "igdb_id": 152055,
+      "game_name": "Corpse Factory",
+      "game_url": "https://ostdb.net/games/corpse-factory",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735ee772a33a4845ad2596c2c7",
+      "albums": [
+        {
+          "album_name": "Corpse Factory (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1G9aWKg6akVmhHy8LXVbzY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27667,
       "game_name": "Cosmic Star Heroine",
       "game_url": "https://ostdb.net/games/cosmic-star-heroine",
@@ -9753,6 +9781,20 @@
       ]
     },
     {
+      "igdb_id": 165271,
+      "game_name": "Fall of Porcupine",
+      "game_url": "https://ostdb.net/games/fall-of-porcupine",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730ba02d2e6f8bf664990417e2",
+      "albums": [
+        {
+          "album_name": "Fall of Porcupine (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6AX5qImKiJH4iJWJfccX55",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 15,
       "game_name": "Fallout 3",
       "game_url": "https://ostdb.net/games/fallout-3",
@@ -11107,6 +11149,20 @@
         {
           "album_name": "Forza Motorsport 7 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/301hV3WoptLauT50U2kqML",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 102867,
+      "game_name": "Forza Street",
+      "game_url": "https://ostdb.net/games/forza-street",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27366df23ddecd9f83df771f987",
+      "albums": [
+        {
+          "album_name": "Forza Street (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6AcsHv54tCtm46oMA58f6y",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -16929,6 +16985,20 @@
       ]
     },
     {
+      "igdb_id": 89773,
+      "game_name": "Mable and the Wood",
+      "game_url": "https://ostdb.net/games/mable-and-the-wood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ba3829412fb39b832287bd89",
+      "albums": [
+        {
+          "album_name": "Mable and the Wood (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4MYc7XEgUB2SVvtkN0Wdc8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2990,
       "game_name": "Machinarium",
       "game_url": "https://ostdb.net/games/machinarium",
@@ -22559,6 +22629,20 @@
       ]
     },
     {
+      "igdb_id": 45089,
+      "game_name": "RayStorm",
+      "game_url": "https://ostdb.net/games/raystorm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27347eaa6df78ea36ba5f5b5164",
+      "albums": [
+        {
+          "album_name": "RAYSTORM ORIGINAL SOUNDTRACK (PCB Version)",
+          "spotify_url": "https://open.spotify.com/album/3w90duSyIPzCQu0r99JKYK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28489,
       "game_name": "Ready or Not",
       "game_url": "https://ostdb.net/games/ready-or-not",
@@ -26115,6 +26199,20 @@
       ]
     },
     {
+      "igdb_id": 155498,
+      "game_name": "Souldiers",
+      "game_url": "https://ostdb.net/games/souldiers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273170cf704152d1d5935c2caeb",
+      "albums": [
+        {
+          "album_name": "Souldiers (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/05nsWFAeX9b9Z1a9XqklAc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 210585,
       "game_name": "Soulstone Survivors",
       "game_url": "https://ostdb.net/games/soulstone-survivors",
@@ -28757,6 +28855,20 @@
           "spotify_url": "https://open.spotify.com/album/22hbndfpmPHrxemQ0B8rgt",
           "apple_music_url": "https://music.apple.com/us/album/the-cat-lady-album-music-from-the-video-game/1563562290",
           "album_link_url": "https://album.link/i/1563562290"
+        }
+      ]
+    },
+    {
+      "igdb_id": 75065,
+      "game_name": "The Colonists",
+      "game_url": "https://ostdb.net/games/the-colonists",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27392d19ccce1b7a8d23515a074",
+      "albums": [
+        {
+          "album_name": "The Colonists (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0fFo1ImTBz7R15BMpkKEaV",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -32137,6 +32249,20 @@
       ]
     },
     {
+      "igdb_id": 90213,
+      "game_name": "Unholy",
+      "game_url": "https://ostdb.net/games/unholy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e33e41beaa77437f87787817",
+      "albums": [
+        {
+          "album_name": "Unholy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1UhZRRHXP9jRKEMcnNmLjG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 68353,
       "game_name": "Unicorn Overlord",
       "game_url": "https://ostdb.net/games/unicorn-overlord",
@@ -32339,6 +32465,20 @@
         {
           "album_name": "Unworthy (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0Zsz42Uj8FlI09ikr8Mhfz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 50395,
+      "game_name": "Uru: Ages Beyond Myst",
+      "game_url": "https://ostdb.net/games/uru-ages-beyond-myst",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27351f7f190be96b0b08e8ac8b2",
+      "albums": [
+        {
+          "album_name": "Uru: Ages Beyond Myst (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6BM2LOzGnMQ2Mwn7fzSzBp",
           "apple_music_url": "",
           "album_link_url": ""
         }
