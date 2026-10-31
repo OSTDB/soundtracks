@@ -6180,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGB Rush 2 | 298393 | [298393-rgb-rush-2.json](./298393-rgb-rush-2.json) |
 | RGB Simulator | 237278 | [237278-rgb-simulator.json](./237278-rgb-simulator.json) |
 | RGB: Execution | 388519 | [388519-rgb-execution.json](./388519-rgb-execution.json) |
+| RGBCells | 105641 | [105641-rgbcells.json](./105641-rgbcells.json) |
 | RGBounce | 275836 | [275836-rgbounce.json](./275836-rgbounce.json) |
 | RGBverse | 29231 | [29231-rgbverse.json](./29231-rgbverse.json) |
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
@@ -11798,6 +11799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Spout Rescue Adventure | 140956 | [140956-rusty-spout-rescue-adventure.json](./140956-rusty-spout-rescue-adventure.json) |
 | Rusty Stings | 2962 | [2962-rusty-stings.json](./2962-rusty-stings.json) |
 | Rusty Strings | 397028 | [397028-rusty-strings.json](./397028-rusty-strings.json) |
+| Rusty Tank Survival | 105603 | [105603-rusty-tank-survival.json](./105603-rusty-tank-survival.json) |
 | Rusty Vein | 411714 | [411714-rusty-vein.json](./411714-rusty-vein.json) |
 | Rusty Wind Blows | 177969 | [177969-rusty-wind-blows.json](./177969-rusty-wind-blows.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
