@@ -11154,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Quest | 197000 | [197000-froggy-quest.json](./197000-froggy-quest.json) |
 | Froggy Quest | 229280 | [229280-froggy-quest.json](./229280-froggy-quest.json) |
 | Froggy Revenge | 418731 | [418731-froggy-revenge.json](./418731-froggy-revenge.json) |
+| Froggy Ribbit | 109969 | [109969-froggy-ribbit.json](./109969-froggy-ribbit.json) |
 | Froggy Shelf | 184341 | [184341-froggy-shelf.json](./184341-froggy-shelf.json) |
 | Froggy! | 418659 | [418659-froggy.json](./418659-froggy.json) |
 | Froggy's Adventures | 255654 | [255654-froggys-adventures.json](./255654-froggys-adventures.json) |
