@@ -6946,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Ace | 188364 | [188364-alpha-ace.json](./188364-alpha-ace.json) |
 | Alpha and Iota | 304516 | [304516-alpha-and-iota.json](./304516-alpha-and-iota.json) |
 | Alpha and Omega | 98810 | [98810-alpha-and-omega.json](./98810-alpha-and-omega.json) |
+| Alpha Ball | 99923 | [99923-alpha-ball.json](./99923-alpha-ball.json) |
 | Alpha Beam With Ernie | 3252 | [3252-alpha-beam-with-ernie.json](./3252-alpha-beam-with-ernie.json) |
 | Alpha Black Zero: Intrepid Protocol | 73232 | [73232-alpha-black-zero-intrepid-protocol.json](./73232-alpha-black-zero-intrepid-protocol.json) |
 | Alpha Blaster | 100284 | [100284-alpha-blaster.json](./100284-alpha-blaster.json) |
@@ -9057,6 +9058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
 | Animal Maid! | 97768 | [97768-animal-maid.json](./97768-animal-maid.json) |
 | Animal Math | 73475 | [73475-animal-math.json](./73475-animal-math.json) |
+| Animal Math Kindergarten Games | 99941 | [99941-animal-math-kindergarten-games.json](./99941-animal-math-kindergarten-games.json) |
 | Animal Memory | 151591 | [151591-animal-memory.json](./151591-animal-memory.json) |
 | Animal Night Market | 326859 | [326859-animal-night-market.json](./326859-animal-night-market.json) |
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
