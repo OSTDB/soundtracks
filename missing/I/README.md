@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus M: Guild War | 309569 | [309569-icarus-m-guild-war.json](./309569-icarus-m-guild-war.json) |
 | Icarus Needs | 119505 | [119505-icarus-needs.json](./119505-icarus-needs.json) |
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
+| Icarus Proudbottom Teaches Typing | 63032 | [63032-icarus-proudbottom-teaches-typing.json](./63032-icarus-proudbottom-teaches-typing.json) |
 | Icarus Proudbottom's Typing Party | 142078 | [142078-icarus-proudbottoms-typing-party.json](./142078-icarus-proudbottoms-typing-party.json) |
 | Icarus Proudbottom's World of Typing Weekly! | 61865 | [61865-icarus-proudbottoms-world-of-typing-weekly.json](./61865-icarus-proudbottoms-world-of-typing-weekly.json) |
 | Icarus Six Sixty Six | 81119 | [81119-icarus-six-sixty-six.json](./81119-icarus-six-sixty-six.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal: Unchained | 55038 | [55038-immortal-unchained.json](./55038-immortal-unchained.json) |
 | Immortal: Unchained - Storm Breaker | 118202 | [118202-immortal-unchained-storm-breaker.json](./118202-immortal-unchained-storm-breaker.json) |
 | Immortal's Way | 302068 | [302068-immortals-way.json](./302068-immortals-way.json) |
+| Immortalis | 62944 | [62944-immortalis.json](./62944-immortalis.json) |
 | Immortality | 355212 | [355212-immortality.json](./355212-immortality.json) |
 | Immortality Paradox | 267999 | [267999-immortality-paradox.json](./267999-immortality-paradox.json) |
 | ImmorTall | 385641 | [385641-immortall.json](./385641-immortall.json) |
@@ -5439,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irritated Mind: Fear of Warehouse | 272754 | [272754-irritated-mind-fear-of-warehouse.json](./272754-irritated-mind-fear-of-warehouse.json) |
 | Irritating Ship | 256776 | [256776-irritating-ship.json](./256776-irritating-ship.json) |
 | Irritating Stick | 92863 | [92863-irritating-stick.json](./92863-irritating-stick.json) |
+| Irritum | 62933 | [62933-irritum.json](./62933-irritum.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
 | Iruka ni Uroko ga Nai Wake | 273352 | [273352-iruka-ni-uroko-ga-nai-wake.json](./273352-iruka-ni-uroko-ga-nai-wake.json) |
 | Irukandji | 10461 | [10461-irukandji.json](./10461-irukandji.json) |
