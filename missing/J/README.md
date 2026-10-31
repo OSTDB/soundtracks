@@ -1213,11 +1213,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetBound | 423209 | [423209-jetbound.json](./423209-jetbound.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
 | Jetbros | 44517 | [44517-jetbros.json](./44517-jetbros.json) |
+| JetFighter 2015 | 71275 | [71275-jetfighter-2015.json](./71275-jetfighter-2015.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
 | JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
 | JetFighter III Classic | 78053 | [78053-jetfighter-iii-classic.json](./78053-jetfighter-iii-classic.json) |
 | JetFighter III Enhanced Campaign CD | 79565 | [79565-jetfighter-iii-enhanced-campaign-cd.json](./79565-jetfighter-iii-enhanced-campaign-cd.json) |
 | Jetfighter IV: Fortress America | 74105 | [74105-jetfighter-iv-fortress-america.json](./74105-jetfighter-iv-fortress-america.json) |
+| Jetfighter V: Homeland Protector | 71283 | [71283-jetfighter-v-homeland-protector.json](./71283-jetfighter-v-homeland-protector.json) |
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
@@ -2221,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Daly's ProStroke Golf | 21738 | [21738-john-dalys-prostroke-golf.json](./21738-john-dalys-prostroke-golf.json) |
 | John Deere American Farmer: Deluxe Edition | 210132 | [210132-john-deere-american-farmer-deluxe-edition.json](./210132-john-deere-american-farmer-deluxe-edition.json) |
 | John Deere: American Builder Deluxe | 79589 | [79589-john-deere-american-builder-deluxe.json](./79589-john-deere-american-builder-deluxe.json) |
+| John Deere: American Farmer | 71284 | [71284-john-deere-american-farmer.json](./71284-john-deere-american-farmer.json) |
 | John Deere: Busy Days in Deerfield Valley | 210131 | [210131-john-deere-busy-days-in-deerfield-valley.json](./210131-john-deere-busy-days-in-deerfield-valley.json) |
 | John Deere: Drive Green | 139805 | [139805-john-deere-drive-green.json](./139805-john-deere-drive-green.json) |
 | John Deere: Harvest in the Heartland | 20896 | [20896-john-deere-harvest-in-the-heartland.json](./20896-john-deere-harvest-in-the-heartland.json) |
@@ -3195,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Advanced Preschool: StoryLand | 77093 | [77093-jumpstart-advanced-preschool-storyland.json](./77093-jumpstart-advanced-preschool-storyland.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Adventures 4th Grade: Sapphire Falls | 406755 | [406755-jumpstart-adventures-4th-grade-sapphire-falls.json](./406755-jumpstart-adventures-4th-grade-sapphire-falls.json) |
+| JumpStart Adventures 5th Grade: Jo Hammet, Kid Detective | 71317 | [71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json](./71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json) |
 | JumpStart Artist | 294512 | [294512-jumpstart-artist.json](./294512-jumpstart-artist.json) |
 | JumpStart Baby | 144858 | [144858-jumpstart-baby.json](./144858-jumpstart-baby.json) |
 | JumpStart Escape from Adventure Island | 50725 | [50725-jumpstart-escape-from-adventure-island.json](./50725-jumpstart-escape-from-adventure-island.json) |
