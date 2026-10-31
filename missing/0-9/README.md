@@ -3218,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
 | Ａ Class | 245879 | [245879-a-class.json](./245879-a-class.json) |
 | À La Mine | 350473 | [350473-a-la-mine.json](./350473-a-la-mine.json) |
+| Àishén Cānguǎn 2 | 81808 | [81808-aishen-canguan-2.json](./81808-aishen-canguan-2.json) |
 | Àishén Cānguǎn Max | 86058 | [86058-aishen-canguan-max.json](./86058-aishen-canguan-max.json) |
 | Ājīn | 116291 | [116291-ajin.json](./116291-ajin.json) |
 | Álom | 229689 | [229689-alom.json](./229689-alom.json) |
