@@ -10773,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Patrol | 96900 | [96900-police-patrol.json](./96900-police-patrol.json) |
 | Police Patrol SImulator | 383394 | [383394-police-patrol-simulator.json](./383394-police-patrol-simulator.json) |
 | Police Precinct: Online | 197850 | [197850-police-precinct-online.json](./197850-police-precinct-online.json) |
+| Police Pursuit | 108108 | [108108-police-pursuit.json](./108108-police-pursuit.json) |
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
 | Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
 | Police Quest: In Pursuit of the Death Angel | 1924 | [1924-police-quest-in-pursuit-of-the-death-angel.json](./1924-police-quest-in-pursuit-of-the-death-angel.json) |
