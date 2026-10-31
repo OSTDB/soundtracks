@@ -5703,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
 | Sex Shop Simulator: X-RAY Desire | 385047 | [385047-sex-shop-simulator-x-ray-desire.json](./385047-sex-shop-simulator-x-ray-desire.json) |
 | Sex Shop Supermarket Simulator | 345361 | [345361-sex-shop-supermarket-simulator.json](./345361-sex-shop-supermarket-simulator.json) |
+| Sex Sim | 78405 | [78405-sex-sim.json](./78405-sex-sim.json) |
 | Sex Simulator 2: Cumshot Edition | 297931 | [297931-sex-simulator-2-cumshot-edition.json](./297931-sex-simulator-2-cumshot-edition.json) |
 | Sex Simulator: Bar Staff | 280342 | [280342-sex-simulator-bar-staff.json](./280342-sex-simulator-bar-staff.json) |
 | Sex Simulator: BDSM | 385042 | [385042-sex-simulator-bdsm.json](./385042-sex-simulator-bdsm.json) |
@@ -5786,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
+| Sexy Adventures on Porn Island | 78389 | [78389-sexy-adventures-on-porn-island.json](./78389-sexy-adventures-on-porn-island.json) |
 | Sexy Airlines | 140834 | [140834-sexy-airlines.json](./140834-sexy-airlines.json) |
 | Sexy Anime Puzzle Game: A Hentai Girl Puzzle Adventure | 366537 | [366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json](./366537-sexy-anime-puzzle-game-a-hentai-girl-puzzle-adventure.json) |
 | Sexy Apocalypse Girls | 294966 | [294966-sexy-apocalypse-girls.json](./294966-sexy-apocalypse-girls.json) |
@@ -14567,6 +14569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Software Company | 190355 | [190355-software-company.json](./190355-software-company.json) |
 | Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
 | Software Inc. | 35463 | [35463-software-inc.json](./35463-software-inc.json) |
+| Software Jukebox: Adventure/Fantasy | 78388 | [78388-software-jukebox-adventure-fantasy.json](./78388-software-jukebox-adventure-fantasy.json) |
 | Software Manager | 78597 | [78597-software-manager.json](./78597-software-manager.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | SOG: Vietnam | 345606 | [345606-sog-vietnam.json](./345606-sog-vietnam.json) |
@@ -18440,6 +18443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | Spacechase | 18503 | [18503-spacechase.json](./18503-spacechase.json) |
+| SpaceChem: 63 Corvi | 78431 | [78431-spacechem-63-corvi.json](./78431-spacechem-63-corvi.json) |
 | SpaceCiv | 408840 | [408840-spaceciv.json](./408840-spaceciv.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
 | SpaceCombat | 94862 | [94862-spacecombat.json](./94862-spacecombat.json) |
@@ -31467,6 +31471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
 | Suzu to Mari no Bouken: The Ghost of Friend | 206176 | [206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json](./206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json) |
+| Suzukaze no Melt: Where Wishes are Drawn to Each Other | 78406 | [78406-suzukaze-no-melt-where-wishes-are-drawn-to-each-other.json](./78406-suzukaze-no-melt-where-wishes-are-drawn-to-each-other.json) |
 | Suzuki Bakuhatsu | 43852 | [43852-suzuki-bakuhatsu.json](./43852-suzuki-bakuhatsu.json) |
 | Suzuki TT Superbikes: Real Road Racing | 20211 | [20211-suzuki-tt-superbikes-real-road-racing.json](./20211-suzuki-tt-superbikes-real-road-racing.json) |
 | Suzukuri Dungeon: Karin in the Mountain | 153812 | [153812-suzukuri-dungeon-karin-in-the-mountain.json](./153812-suzukuri-dungeon-karin-in-the-mountain.json) |
@@ -32605,6 +32610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symulator Farmy 2016 | 380494 | [380494-symulator-farmy-2016.json](./380494-symulator-farmy-2016.json) |
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
 | Syn-Chorus 01: The New Life | 339424 | [339424-syn-chorus-01-the-new-life.json](./339424-syn-chorus-01-the-new-life.json) |
+| Syn-Factor | 78411 | [78411-syn-factor.json](./78411-syn-factor.json) |
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
 | Synami's Speedmaps | 274946 | [274946-synamis-speedmaps.json](./274946-synamis-speedmaps.json) |
 | Synapse | 239381 | [239381-synapse.json](./239381-synapse.json) |
