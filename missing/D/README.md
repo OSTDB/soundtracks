@@ -13055,6 +13055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: The Path of the Dragon | 50431 | [50431-dracula-the-path-of-the-dragon.json](./50431-dracula-the-path-of-the-dragon.json) |
+| Dracula: The Path of the Dragon - Director's Cut | 87909 | [87909-dracula-the-path-of-the-dragon-directors-cut.json](./87909-dracula-the-path-of-the-dragon-directors-cut.json) |
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
 | Dracula's Castle | 163776 | [163776-draculas-castle.json](./163776-draculas-castle.json) |
@@ -14921,6 +14922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress Up Bear | 96029 | [96029-dress-up-bear.json](./96029-dress-up-bear.json) |
 | Dress Up Games for Girls & Kids: Fun Beauty Salon | 107562 | [107562-dress-up-games-for-girls-and-kids-fun-beauty-salon.json](./107562-dress-up-games-for-girls-and-kids-fun-beauty-salon.json) |
 | Dress-up | 103672 | [103672-dress-up.json](./103672-dress-up.json) |
+| Dress-Up Pups | 87895 | [87895-dress-up-pups.json](./87895-dress-up-pups.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
 | Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
