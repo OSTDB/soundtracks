@@ -2361,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
 | Scallywag: In the Lair of the Medusa | 50459 | [50459-scallywag-in-the-lair-of-the-medusa.json](./50459-scallywag-in-the-lair-of-the-medusa.json) |
+| Scallywags | 73081 | [73081-scallywags.json](./73081-scallywags.json) |
 | Scalpers' Spoils | 422126 | [422126-scalpers-spoils.json](./422126-scalpers-spoils.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
@@ -8660,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred and Tear: Explosive Kajun | 192702 | [192702-shred-and-tear-explosive-kajun.json](./192702-shred-and-tear-explosive-kajun.json) |
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred It! | 20017 | [20017-shred-it.json](./20017-shred-it.json) |
+| Shred Nebula | 73038 | [73038-shred-nebula.json](./73038-shred-nebula.json) |
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
 | Shred the Undead | 258381 | [258381-shred-the-undead.json](./258381-shred-the-undead.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
@@ -15517,6 +15519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs for a Hero: Songs for the Dead | 163667 | [163667-songs-for-a-hero-songs-for-the-dead.json](./163667-songs-for-a-hero-songs-for-the-dead.json) |
 | Songs from the Iron Sea | 216893 | [216893-songs-from-the-iron-sea.json](./216893-songs-from-the-iron-sea.json) |
 | Songs of Araiah | 140315 | [140315-songs-of-araiah.json](./140315-songs-of-araiah.json) |
+| Songs of Araiah: Re-Mastered Edition | 73076 | [73076-songs-of-araiah-re-mastered-edition.json](./73076-songs-of-araiah-re-mastered-edition.json) |
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
@@ -17813,6 +17816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18255,6 +18259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station 14 | 149853 | [149853-space-station-14.json](./149853-space-station-14.json) |
 | Space Station 51 | 192597 | [192597-space-station-51.json](./192597-space-station-51.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
+| Space Station Alpha | 73078 | [73078-space-station-alpha.json](./73078-space-station-alpha.json) |
 | Space Station Alpha: The Encounter | 208770 | [208770-space-station-alpha-the-encounter.json](./208770-space-station-alpha-the-encounter.json) |
 | Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
 | Space Station Defender | 293533 | [293533-space-station-defender.json](./293533-space-station-defender.json) |
