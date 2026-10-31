@@ -7994,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
+| Die Fugger II | 85791 | [85791-die-fugger-ii.json](./85791-die-fugger-ii.json) |
 | Die Gekirin | 137419 | [137419-die-gekirin.json](./137419-die-gekirin.json) |
 | Die Gekirin & Die Dekirin II Pack | 137457 | [137457-die-gekirin-and-die-dekirin-ii-pack.json](./137457-die-gekirin-and-die-dekirin-ii-pack.json) |
 | Die Gekirin II | 137463 | [137463-die-gekirin-ii.json](./137463-die-gekirin-ii.json) |
@@ -9453,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
 | Disney Friends | 47859 | [47859-disney-friends.json](./47859-disney-friends.json) |
 | Disney Frozen Adventures | 138679 | [138679-disney-frozen-adventures.json](./138679-disney-frozen-adventures.json) |
+| Disney Fun & Skills Pack | 85780 | [85780-disney-fun-and-skills-pack.json](./85780-disney-fun-and-skills-pack.json) |
 | Disney Game Shots: Sparamu | 324750 | [324750-disney-game-shots-sparamu.json](./324750-disney-game-shots-sparamu.json) |
 | Disney Golf | 19212 | [19212-disney-golf.json](./19212-disney-golf.json) |
 | Disney Heroes: Battle Mode | 96138 | [96138-disney-heroes-battle-mode.json](./96138-disney-heroes-battle-mode.json) |
@@ -10430,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: The Last Dalek | 232823 | [232823-doctor-who-the-last-dalek.json](./232823-doctor-who-the-last-dalek.json) |
 | Doctor Who: The Lonely Assassins | 144782 | [144782-doctor-who-the-lonely-assassins.json](./144782-doctor-who-the-lonely-assassins.json) |
+| Doctor Who: The Mazes of Time | 85771 | [85771-doctor-who-the-mazes-of-time.json](./85771-doctor-who-the-mazes-of-time.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Doctor Who: Time Vortex 360 | 263342 | [263342-doctor-who-time-vortex-360.json](./263342-doctor-who-time-vortex-360.json) |
 | Doctor Who: Worlds Apart | 185810 | [185810-doctor-who-worlds-apart.json](./185810-doctor-who-worlds-apart.json) |
@@ -16099,6 +16102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
 | Duke Nukem 3D: Kill-A-Ton Collection | 19730 | [19730-duke-nukem-3d-kill-a-ton-collection.json](./19730-duke-nukem-3d-kill-a-ton-collection.json) |
 | Duke Nukem 3D: Megaton Edition | 20868 | [20868-duke-nukem-3d-megaton-edition.json](./20868-duke-nukem-3d-megaton-edition.json) |
+| Duke Nukem 3D: Plutonium Pak | 85709 | [85709-duke-nukem-3d-plutonium-pak.json](./85709-duke-nukem-3d-plutonium-pak.json) |
 | Duke Nukem 64 | 10680 | [10680-duke-nukem-64.json](./10680-duke-nukem-64.json) |
 | Duke Nukem Collection 1 | 252052 | [252052-duke-nukem-collection-1.json](./252052-duke-nukem-collection-1.json) |
 | Duke Nukem Collection 2 | 252053 | [252053-duke-nukem-collection-2.json](./252053-duke-nukem-collection-2.json) |
