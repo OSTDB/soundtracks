@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sans Logique | 260179 | [260179-sans-logique.json](./260179-sans-logique.json) |
 | Sans Spielen's Epic Megalovania | 334250 | [334250-sans-spielens-epic-megalovania.json](./334250-sans-spielens-epic-megalovania.json) |
 | Sansagari | 362015 | [362015-sansagari.json](./362015-sansagari.json) |
+| Sansar | 95117 | [95117-sansar.json](./95117-sansar.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
 | Sansara Naga 1x2 | 49793 | [49793-sansara-naga-1x2.json](./49793-sansara-naga-1x2.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
@@ -9793,6 +9794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
 | Simon the Seahorse The Animated Adventure Game | 275714 | [275714-simon-the-seahorse-the-animated-adventure-game.json](./275714-simon-the-seahorse-the-animated-adventure-game.json) |
 | Simon the Sorcerer | 459 | [459-simon-the-sorcerer.json](./459-simon-the-sorcerer.json) |
+| Simon the Sorcerer 2: 25th Anniversary Edition | 95122 | [95122-simon-the-sorcerer-2-25th-anniversary-edition.json](./95122-simon-the-sorcerer-2-25th-anniversary-edition.json) |
 | Simon the Sorcerer 3D | 461 | [461-simon-the-sorcerer-3d.json](./461-simon-the-sorcerer-3d.json) |
 | Simon the Sorcerer 4: Chaos Happens | 462 | [462-simon-the-sorcerer-4-chaos-happens.json](./462-simon-the-sorcerer-4-chaos-happens.json) |
 | Simon the Sorcerer 5: Who'd Even Want Contact?! | 463 | [463-simon-the-sorcerer-5-whod-even-want-contact.json](./463-simon-the-sorcerer-5-whod-even-want-contact.json) |
@@ -10757,6 +10759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboard Park Tycoon: World Tour 2003 | 111166 | [111166-skateboard-park-tycoon-world-tour-2003.json](./111166-skateboard-park-tycoon-world-tour-2003.json) |
 | Skateboard Party 2 | 38937 | [38937-skateboard-party-2.json](./38937-skateboard-party-2.json) |
 | Skateboard Party 3 | 38936 | [38936-skateboard-party-3.json](./38936-skateboard-party-3.json) |
+| Skateboard Party 3 Pro | 95103 | [95103-skateboard-party-3-pro.json](./95103-skateboard-party-3-pro.json) |
 | Skateboarding | 358842 | [358842-skateboarding.json](./358842-skateboarding.json) |
 | Skateboarding 2: Breakthrough Gaming Arcade | 207076 | [207076-skateboarding-2-breakthrough-gaming-arcade.json](./207076-skateboarding-2-breakthrough-gaming-arcade.json) |
 | Skateboarding: Breakthrough Gaming Arcade | 143632 | [143632-skateboarding-breakthrough-gaming-arcade.json](./143632-skateboarding-breakthrough-gaming-arcade.json) |
@@ -13600,6 +13603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 23320 | [23320-sneakers.json](./23320-sneakers.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
+| SneakOps | 95072 | [95072-sneakops.json](./95072-sneakops.json) |
 | SneakR | 184950 | [184950-sneakr.json](./184950-sneakr.json) |
 | Sneaky All-Nighter | 340275 | [340275-sneaky-all-nighter.json](./340275-sneaky-all-nighter.json) |
 | Sneaky All-Nighter 2 | 379035 | [379035-sneaky-all-nighter-2.json](./379035-sneaky-all-nighter-2.json) |
@@ -14352,6 +14356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Rage | 35597 | [35597-soccer-rage.json](./35597-soccer-rage.json) |
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
+| Soccer Rally Arena | 95081 | [95081-soccer-rally-arena.json](./95081-soccer-rally-arena.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Runner | 252949 | [252949-soccer-runner.json](./252949-soccer-runner.json) |
 | Soccer Rush | 227463 | [227463-soccer-rush.json](./227463-soccer-rush.json) |
@@ -17982,6 +17987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
+| Space Pioneer | 95073 | [95073-space-pioneer.json](./95073-space-pioneer.json) |
 | Space Pirate Amai | 107513 | [107513-space-pirate-amai.json](./107513-space-pirate-amai.json) |
 | Space Pirate Dernshous | 229320 | [229320-space-pirate-dernshous.json](./229320-space-pirate-dernshous.json) |
 | Space Pirate King | 149769 | [149769-space-pirate-king.json](./149769-space-pirate-king.json) |
@@ -18274,6 +18280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Virus Escape | 363044 | [363044-space-virus-escape.json](./363044-space-virus-escape.json) |
 | Space Vomit | 361058 | [361058-space-vomit.json](./361058-space-vomit.json) |
+| Space Vomit | 95149 | [95149-space-vomit.json](./95149-space-vomit.json) |
 | Space Vortex | 297723 | [297723-space-vortex.json](./297723-space-vortex.json) |
 | Space Voyage: Episode 1 - A Big Soviet Adventure | 173954 | [173954-space-voyage-episode-1-a-big-soviet-adventure.json](./173954-space-voyage-episode-1-a-big-soviet-adventure.json) |
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
@@ -24279,6 +24286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Ski | 252948 | [252948-stickman-ski.json](./252948-stickman-ski.json) |
 | Stickman Soccer | 82315 | [82315-stickman-soccer.json](./82315-stickman-soccer.json) |
 | Stickman Soccer 2016 | 90737 | [90737-stickman-soccer-2016.json](./90737-stickman-soccer-2016.json) |
+| Stickman Soccer 2018 | 95061 | [95061-stickman-soccer-2018.json](./95061-stickman-soccer-2018.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
 | Stickman Super Athletics | 85390 | [85390-stickman-super-athletics.json](./85390-stickman-super-athletics.json) |
 | Stickman Synthwave Escape | 202733 | [202733-stickman-synthwave-escape.json](./202733-stickman-synthwave-escape.json) |
@@ -24934,6 +24942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
 | Strange Field Football | 145850 | [145850-strange-field-football.json](./145850-strange-field-football.json) |
+| Strange girl beside | 95137 | [95137-strange-girl-beside.json](./95137-strange-girl-beside.json) |
 | Strange Gravity | 177188 | [177188-strange-gravity.json](./177188-strange-gravity.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
