@@ -9131,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Dark Souls | 21331 | [21331-bleach-dark-souls.json](./21331-bleach-dark-souls.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
 | Bleach: Eternal Soul | 208215 | [208215-bleach-eternal-soul.json](./208215-bleach-eternal-soul.json) |
+| Bleach: Hanatareshi Yabou | 74799 | [74799-bleach-hanatareshi-yabou.json](./74799-bleach-hanatareshi-yabou.json) |
 | Bleach: Heat the Soul 2 | 44481 | [44481-bleach-heat-the-soul-2.json](./44481-bleach-heat-the-soul-2.json) |
 | Bleach: Heat the Soul 3 | 72793 | [72793-bleach-heat-the-soul-3.json](./72793-bleach-heat-the-soul-3.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
@@ -12719,6 +12720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundless: Digital Deluxe Edition | 118551 | [118551-boundless-digital-deluxe-edition.json](./118551-boundless-digital-deluxe-edition.json) |
 | Boundra | 62499 | [62499-boundra.json](./62499-boundra.json) |
 | BoundWorlds | 295501 | [295501-boundworlds.json](./295501-boundworlds.json) |
+| Bounsweet's Bouncy Adventure | 74816 | [74816-bounsweets-bouncy-adventure.json](./74816-bounsweets-bouncy-adventure.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
 | Bounties of Babylon | 278433 | [278433-bounties-of-babylon.json](./278433-bounties-of-babylon.json) |
 | Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
@@ -13456,6 +13458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Bow Archer: Princess Rescue Simulator! | 261108 | [261108-brave-bow-archer-princess-rescue-simulator.json](./261108-brave-bow-archer-princess-rescue-simulator.json) |
 | Brave Boy | 277697 | [277697-brave-boy.json](./277697-brave-boy.json) |
 | Brave Brigade | 39176 | [39176-brave-brigade.json](./39176-brave-brigade.json) |
+| Brave Bubble Dragon 2 | 74831 | [74831-brave-bubble-dragon-2.json](./74831-brave-bubble-dragon-2.json) |
 | Brave Bubble Heart | 247870 | [247870-brave-bubble-heart.json](./247870-brave-bubble-heart.json) |
 | Brave Builder Construct A Climb | 201577 | [201577-brave-builder-construct-a-climb.json](./201577-brave-builder-construct-a-climb.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
