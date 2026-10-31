@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalus Demise | 144081 | [144081-daedalus-demise.json](./144081-daedalus-demise.json) |
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
+| Daedalus: The Awakening of Golden Jazz | 106286 | [106286-daedalus-the-awakening-of-golden-jazz.json](./106286-daedalus-the-awakening-of-golden-jazz.json) |
 | Daedalus: You Have Been Chosen | 253534 | [253534-daedalus-you-have-been-chosen.json](./253534-daedalus-you-have-been-chosen.json) |
 | Daedaluz | 165938 | [165938-daedaluz.json](./165938-daedaluz.json) |
 | Daegeonmulju: Geonmulju Kiugi | 239012 | [239012-daegeonmulju-geonmulju-kiugi.json](./239012-daegeonmulju-geonmulju-kiugi.json) |
@@ -3027,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Air | 380242 | [380242-dead-air.json](./380242-dead-air.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
+| Dead Alliance: Multiplayer Edition | 106232 | [106232-dead-alliance-multiplayer-edition.json](./106232-dead-alliance-multiplayer-edition.json) |
 | Dead Alone | 263067 | [263067-dead-alone.json](./263067-dead-alone.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
 | Dead and Buried II | 123203 | [123203-dead-and-buried-ii.json](./123203-dead-and-buried-ii.json) |
@@ -4102,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Inn | 118605 | [118605-death-inn.json](./118605-death-inn.json) |
 | Death Inn Ⅱ :The Immortal Is Coming | 284288 | [284288-death-inn-ii-the-immortal-is-coming.json](./284288-death-inn-ii-the-immortal-is-coming.json) |
 | Death Insurance | 422037 | [422037-death-insurance.json](./422037-death-insurance.json) |
+| Death Invasion : Survival | 106221 | [106221-death-invasion-survival.json](./106221-death-invasion-survival.json) |
 | Death Is A Guest | 298512 | [298512-death-is-a-guest.json](./298512-death-is-a-guest.json) |
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
