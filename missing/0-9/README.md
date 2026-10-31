@@ -931,6 +931,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 112th Seed | 138458 | [138458-112th-seed.json](./138458-112th-seed.json) |
 | 114 Miles to Doctor Noodles Farm | 250501 | [250501-114-miles-to-doctor-noodles-farm.json](./250501-114-miles-to-doctor-noodles-farm.json) |
 | 1166 | 29715 | [29715-1166.json](./29715-1166.json) |
+| 1187: Episode One | 121211 | [121211-1187-episode-one.json](./121211-1187-episode-one.json) |
+| 1187: Rogue Train | 121212 | [121212-1187-rogue-train.json](./121212-1187-rogue-train.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
 | 11eyes: Tsumi to Batsu to Aganai no Shoujo | 5470 | [5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json](./5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
