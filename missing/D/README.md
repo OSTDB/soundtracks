@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Überleben: Dem Großen Sprung | 172488 | [172488-das-uberleben-dem-gro-en-sprung.json](./172488-das-uberleben-dem-gro-en-sprung.json) |
 | Das Verrückte Licht | 94517 | [94517-das-verruckte-licht.json](./94517-das-verruckte-licht.json) |
 | Dasaku | 137041 | [137041-dasaku.json](./137041-dasaku.json) |
+| Dasaku: Arisu to Kuroe, Musubareru Hi | 108118 | [108118-dasaku-arisu-to-kuroe-musubareru-hi.json](./108118-dasaku-arisu-to-kuroe-musubareru-hi.json) |
 | Dash | 341457 | [341457-dash.json](./341457-dash.json) |
 | Dash | 375922 | [375922-dash.json](./375922-dash.json) |
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
@@ -8170,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
+| Digger: A Quest for Hidden Gems | 108111 | [108111-digger-a-quest-for-hidden-gems.json](./108111-digger-a-quest-for-hidden-gems.json) |
 | Diggergun | 204370 | [204370-diggergun.json](./204370-diggergun.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
