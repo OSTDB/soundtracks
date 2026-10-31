@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenophage: Alien BloodSport | 47105 | [47105-xenophage-alien-bloodsport.json](./47105-xenophage-alien-bloodsport.json) |
 | Xenophobe | 12245 | [12245-xenophobe.json](./12245-xenophobe.json) |
 | Xenophobe | 290276 | [290276-xenophobe.json](./290276-xenophobe.json) |
+| Xenopods | 79492 | [79492-xenopods.json](./79492-xenopods.json) |
 | Xenopurge | 345292 | [345292-xenopurge.json](./345292-xenopurge.json) |
 | XenoRaptor | 17355 | [17355-xenoraptor.json](./17355-xenoraptor.json) |
 | Xenos Defense | 121480 | [121480-xenos-defense.json](./121480-xenos-defense.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xposed Reloaded | 187746 | [187746-xposed-reloaded.json](./187746-xposed-reloaded.json) |
 | Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
 | Xpressorcist | 197139 | [197139-xpressorcist.json](./197139-xpressorcist.json) |
+| XQuest | 79503 | [79503-xquest.json](./79503-xquest.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
 | XRacer 2: Evolution | 132472 | [132472-xracer-2-evolution.json](./132472-xracer-2-evolution.json) |
 | XRacing | 360123 | [360123-xracing.json](./360123-xracing.json) |
