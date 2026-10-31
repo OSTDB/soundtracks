@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Death Unchained | 135118 | [135118-in-death-unchained.json](./135118-in-death-unchained.json) |
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
+| In Dungeon | 87759 | [87759-in-dungeon.json](./87759-in-dungeon.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
 | In Extremis | 115429 | [115429-in-extremis.json](./115429-in-extremis.json) |
 | In Extremis | 31162 | [31162-in-extremis.json](./31162-in-extremis.json) |
