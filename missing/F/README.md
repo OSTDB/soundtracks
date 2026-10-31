@@ -3626,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernbus Simulator: Top Class DD | 197492 | [197492-fernbus-simulator-top-class-dd.json](./197492-fernbus-simulator-top-class-dd.json) |
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
+| Fernz Gate | 104942 | [104942-fernz-gate.json](./104942-fernz-gate.json) |
 | Ferocious | 152017 | [152017-ferocious.json](./152017-ferocious.json) |
 | Ferra | 344144 | [344144-ferra.json](./344144-ferra.json) |
 | Ferral Quest | 308182 | [308182-ferral-quest.json](./308182-ferral-quest.json) |
