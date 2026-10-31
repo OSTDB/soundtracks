@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.R.E.G.: The Generally Really Easy Game | 310077 | [310077-g-r-e-g-the-generally-really-easy-game.json](./310077-g-r-e-g-the-generally-really-easy-game.json) |
 | G'Luck! | 402865 | [402865-gluck.json](./402865-gluck.json) |
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
+| G1 Jockey 2 2001 | 80864 | [80864-g1-jockey-2-2001.json](./80864-g1-jockey-2-2001.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
 | G1 Jockey 3 | 23713 | [23713-g1-jockey-3.json](./23713-g1-jockey-3.json) |
 | G1 Jockey 4 | 4878 | [4878-g1-jockey-4.json](./4878-g1-jockey-4.json) |
@@ -7272,6 +7273,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand War: Rome | 244335 | [244335-grand-war-rome.json](./244335-grand-war-rome.json) |
 | Grand War: Rome - Free Strategy Game | 276670 | [276670-grand-war-rome-free-strategy-game.json](./276670-grand-war-rome-free-strategy-game.json) |
 | Grand Wars: Mafia City | 174725 | [174725-grand-wars-mafia-city.json](./174725-grand-wars-mafia-city.json) |
+| Grandam Overdrive | 80969 | [80969-grandam-overdrive.json](./80969-grandam-overdrive.json) |
+| Grandam Overdrive | 80970 | [80970-grandam-overdrive.json](./80970-grandam-overdrive.json) |
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
 | Grander Musashi RV | 228555 | [228555-grander-musashi-rv.json](./228555-grander-musashi-rv.json) |
 | Grandfather | 417497 | [417497-grandfather.json](./417497-grandfather.json) |
