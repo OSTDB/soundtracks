@@ -8842,6 +8842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grotesque Tactics 2: Dungeons and Donuts | 16149 | [16149-grotesque-tactics-2-dungeons-and-donuts.json](./16149-grotesque-tactics-2-dungeons-and-donuts.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grotesqueresque | 349745 | [349745-grotesqueresque.json](./349745-grotesqueresque.json) |
+| Grotoro | 97038 | [97038-grotoro.json](./97038-grotoro.json) |
 | Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
 | Grotto | 135631 | [135631-grotto.json](./135631-grotto.json) |
 | Grotto Beasts Arena | 293234 | [293234-grotto-beasts-arena.json](./293234-grotto-beasts-arena.json) |
