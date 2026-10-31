@@ -10495,6 +10495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
+| FreedroidRPG | 121934 | [121934-freedroidrpg.json](./121934-freedroidrpg.json) |
 | Freefall | 11297 | [11297-freefall.json](./11297-freefall.json) |
 | Freefall 3050 A.D. | 51180 | [51180-freefall-3050-a-d.json](./51180-freefall-3050-a-d.json) |
 | Freefall by MSX Murcia | 267563 | [267563-freefall-by-msx-murcia.json](./267563-freefall-by-msx-murcia.json) |
