@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bachelorette Party | 313834 | [313834-bachelorette-party.json](./313834-bachelorette-party.json) |
 | Bachelorette Party | 40640 | [40640-bachelorette-party.json](./40640-bachelorette-party.json) |
 | Bachi-bachi Pawer | 376882 | [376882-bachi-bachi-pawer.json](./376882-bachi-bachi-pawer.json) |
+| Bacillus | 119974 | [119974-bacillus.json](./119974-bacillus.json) |
 | Back | 309502 | [309502-back.json](./309502-back.json) |
 | Back & Forth | 136656 | [136656-back-and-forth.json](./136656-back-and-forth.json) |
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
@@ -864,7 +865,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12850,6 +12850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Bastards | 405132 | [405132-boxing-bastards.json](./405132-boxing-bastards.json) |
 | Boxing Bugs | 39412 | [39412-boxing-bugs.json](./39412-boxing-bugs.json) |
+| Boxing Cats CCG | 119935 | [119935-boxing-cats-ccg.json](./119935-boxing-cats-ccg.json) |
 | Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
 | Boxing Champs | 117800 | [117800-boxing-champs.json](./117800-boxing-champs.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
@@ -13570,6 +13571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break | 206489 | [206489-break.json](./206489-break.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
+| Break a Leg | 119934 | [119934-break-a-leg.json](./119934-break-a-leg.json) |
 | Break a Leg | 307054 | [307054-break-a-leg.json](./307054-break-a-leg.json) |
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
 | Break Arcade Games Out | 282230 | [282230-break-arcade-games-out.json](./282230-break-arcade-games-out.json) |
