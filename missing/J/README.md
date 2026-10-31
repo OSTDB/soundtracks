@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolt: Neon Breaker | 406234 | [406234-jolt-neon-breaker.json](./406234-jolt-neon-breaker.json) |
 | Joltstone | 421823 | [421823-joltstone.json](./421823-joltstone.json) |
 | Joltt: Battle Pillars | 351784 | [351784-joltt-battle-pillars.json](./351784-joltt-battle-pillars.json) |
+| Joltz | 99350 | [99350-joltz.json](./99350-joltz.json) |
 | Jomey | 287576 | [287576-jomey.json](./287576-jomey.json) |
 | Jomp The Jumper | 367155 | [367155-jomp-the-jumper.json](./367155-jomp-the-jumper.json) |
 | Jon Shafer's At the Gates | 8423 | [8423-jon-shafers-at-the-gates.json](./8423-jon-shafers-at-the-gates.json) |
