@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elarel | 83922 | [83922-elarel.json](./83922-elarel.json) |
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
 | Elarooh | 61086 | [61086-elarooh.json](./61086-elarooh.json) |
+| Elash | 113293 | [113293-elash.json](./113293-elash.json) |
 | Elasti'Carts | 224957 | [224957-elasticarts.json](./224957-elasticarts.json) |
 | Elastic car 2 (engineer mode) | 96004 | [96004-elastic-car-2-engineer-mode.json](./96004-elastic-car-2-engineer-mode.json) |
 | Elastic Fantastic | 167575 | [167575-elastic-fantastic.json](./167575-elastic-fantastic.json) |
