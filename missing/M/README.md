@@ -4796,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Masters of Chess | 29180 | [29180-masters-of-chess.json](./29180-masters-of-chess.json) |
+| Masters Of Conquest | 121930 | [121930-masters-of-conquest.json](./121930-masters-of-conquest.json) |
 | Masters of Fate Bundle: Bio Inc. Redemption & Cultist Simulator: Anthology | 331535 | [331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json](./331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json) |
 | Masters of Light | 285367 | [285367-masters-of-light.json](./285367-masters-of-light.json) |
 | Masters of Madness | 296849 | [296849-masters-of-madness.json](./296849-masters-of-madness.json) |
@@ -7941,6 +7942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Yubikiri no Kioku - Futari no Fuuryuuan | 413656 | [413656-memories-off-yubikiri-no-kioku-futari-no-fuuryuuan.json](./413656-memories-off-yubikiri-no-kioku-futari-no-fuuryuuan.json) |
 | Memories Off: Yubikiri no Kioku - Limited Edition | 413661 | [413661-memories-off-yubikiri-no-kioku-limited-edition.json](./413661-memories-off-yubikiri-no-kioku-limited-edition.json) |
 | Memories Off: Yubikiri no Kioku + Sweets Pack - Limited Edition | 413666 | [413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json](./413666-memories-off-yubikiri-no-kioku-sweets-pack-limited-edition.json) |
+| Memories on the Shoreline | 121914 | [121914-memories-on-the-shoreline.json](./121914-memories-on-the-shoreline.json) |
 | Memories Unveiled | 262485 | [262485-memories-unveiled.json](./262485-memories-unveiled.json) |
 | Memories With My Kitten | 344842 | [344842-memories-with-my-kitten.json](./344842-memories-with-my-kitten.json) |
 | Memories With You | 380602 | [380602-memories-with-you.json](./380602-memories-with-you.json) |
@@ -8173,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
 | Mental Hospital: Child of Evil | 173968 | [173968-mental-hospital-child-of-evil.json](./173968-mental-hospital-child-of-evil.json) |
+| Mental House | 121945 | [121945-mental-house.json](./121945-mental-house.json) |
 | Mental Math Madness | 301869 | [301869-mental-math-madness.json](./301869-mental-math-madness.json) |
 | Mental Math Tutor | 187186 | [187186-mental-math-tutor.json](./187186-mental-math-tutor.json) |
 | Mental Medicine | 405680 | [405680-mental-medicine.json](./405680-mental-medicine.json) |
@@ -12212,6 +12215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misery Nights | 392008 | [392008-misery-nights.json](./392008-misery-nights.json) |
 | Misery Street | 154063 | [154063-misery-street.json](./154063-misery-street.json) |
 | Misfiction | 177905 | [177905-misfiction.json](./177905-misfiction.json) |
+| Misfire | 121923 | [121923-misfire.json](./121923-misfire.json) |
 | Misfit | 108062 | [108062-misfit.json](./108062-misfit.json) |
 | Misfit Company | 400409 | [400409-misfit-company.json](./400409-misfit-company.json) |
 | Misfit: The Rebirth of Death | 392712 | [392712-misfit-the-rebirth-of-death.json](./392712-misfit-the-rebirth-of-death.json) |
@@ -13855,6 +13859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Mobius: Rights and Wrongs Forgotten | 198438 | [198438-monochrome-mobius-rights-and-wrongs-forgotten.json](./198438-monochrome-mobius-rights-and-wrongs-forgotten.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Limited Edition | 201046 | [201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json](./201046-monochrome-mobius-rights-and-wrongs-forgotten-limited-edition.json) |
+| Monochrome Order | 121902 | [121902-monochrome-order.json](./121902-monochrome-order.json) |
 | Monochrome Pixels | 310576 | [310576-monochrome-pixels.json](./310576-monochrome-pixels.json) |
 | Monochrome Racing | 52592 | [52592-monochrome-racing.json](./52592-monochrome-racing.json) |
 | Monochrome RPG | 140796 | [140796-monochrome-rpg.json](./140796-monochrome-rpg.json) |
