@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang On & Safari Hunt: The Combo Cartridge | 68907 | [68907-hang-on-and-safari-hunt-the-combo-cartridge.json](./68907-hang-on-and-safari-hunt-the-combo-cartridge.json) |
 | Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
 | Hang Pilot | 307858 | [307858-hang-pilot.json](./307858-hang-pilot.json) |
+| Hang Up | 110649 | [110649-hang-up.json](./110649-hang-up.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
 | Hang-On | 198633 | [198633-hang-on.json](./198633-hang-on.json) |
 | Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
