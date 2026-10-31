@@ -3536,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kismet | 19042 | [19042-kismet.json](./19042-kismet.json) |
 | Kismet Tapestry | 188931 | [188931-kismet-tapestry.json](./188931-kismet-tapestry.json) |
 | Kisou Jidaigeki Sugoroku: Shinobi No Roku | 377559 | [377559-kisou-jidaigeki-sugoroku-shinobi-no-roku.json](./377559-kisou-jidaigeki-sugoroku-shinobi-no-roku.json) |
+| Kisou Louga | 112577 | [112577-kisou-louga.json](./112577-kisou-louga.json) |
 | Kisou Louga II: The Ends of Shangrila | 108818 | [108818-kisou-louga-ii-the-ends-of-shangrila.json](./108818-kisou-louga-ii-the-ends-of-shangrila.json) |
 | Kisou Ryouhei Gunhound EX | 42872 | [42872-kisou-ryouhei-gunhound-ex.json](./42872-kisou-ryouhei-gunhound-ex.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
