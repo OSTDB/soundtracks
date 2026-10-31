@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
 | 30 Minutes to Rescue | 398035 | [398035-30-minutes-to-rescue.json](./398035-30-minutes-to-rescue.json) |
 | 30 minutes until my brain dies | 358080 | [358080-30-minutes-until-my-brain-dies.json](./358080-30-minutes-until-my-brain-dies.json) |
+| 30 Minutes... or Less! | 63609 | [63609-30-minutes-or-less.json](./63609-30-minutes-or-less.json) |
 | 30 Pferdespiele | 91609 | [91609-30-pferdespiele.json](./91609-30-pferdespiele.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 30 Sport Games in 1 | 256202 | [256202-30-sport-games-in-1.json](./256202-30-sport-games-in-1.json) |
@@ -2628,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
+| 5 Star Wrestling | 63596 | [63596-5-star-wrestling.json](./63596-5-star-wrestling.json) |
 | 5 Years | 274126 | [274126-5-years.json](./274126-5-years.json) |
 | 5-fun go ni Igai na Ketsumatsu: Monochrome no Toshokan | 292032 | [292032-5-fun-go-ni-igai-na-ketsumatsu-monochrome-no-toshokan.json](./292032-5-fun-go-ni-igai-na-ketsumatsu-monochrome-no-toshokan.json) |
 | 5-Game Super Pak | 79754 | [79754-5-game-super-pak.json](./79754-5-game-super-pak.json) |
