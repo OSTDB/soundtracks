@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabbage Patch Kids: Butterfly Chase | 198705 | [198705-cabbage-patch-kids-butterfly-chase.json](./198705-cabbage-patch-kids-butterfly-chase.json) |
 | Cabbage Patch Kids: Picture Show | 40902 | [40902-cabbage-patch-kids-picture-show.json](./40902-cabbage-patch-kids-picture-show.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
+| Cabbage Patch Kids: Where's My Pony? | 73048 | [73048-cabbage-patch-kids-wheres-my-pony.json](./73048-cabbage-patch-kids-wheres-my-pony.json) |
 | Cabbagers | 226277 | [226277-cabbagers.json](./226277-cabbagers.json) |
 | Cabbages and Kings | 71237 | [71237-cabbages-and-kings.json](./71237-cabbages-and-kings.json) |
 | Cabbibo's Play Pack | 135458 | [135458-cabbibos-play-pack.json](./135458-cabbibos-play-pack.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
 | Castle Raid 2 | 197762 | [197762-castle-raid-2.json](./197762-castle-raid-2.json) |
 | Castle Rain | 320025 | [320025-castle-rain.json](./320025-castle-rain.json) |
+| Castle Ralf | 73088 | [73088-castle-ralf.json](./73088-castle-ralf.json) |
 | Castle Ramble | 256433 | [256433-castle-ramble.json](./256433-castle-ramble.json) |
 | Castle Rathbone | 234840 | [234840-castle-rathbone.json](./234840-castle-rathbone.json) |
 | Castle Reborn | 202524 | [202524-castle-reborn.json](./202524-castle-reborn.json) |
@@ -15741,6 +15743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeSceneCleaners | 276258 | [276258-crimescenecleaners.json](./276258-crimescenecleaners.json) |
 | CrimeStory: In the restaurant | 219934 | [219934-crimestory-in-the-restaurant.json](./219934-crimestory-in-the-restaurant.json) |
 | CrimeTrip | 240866 | [240866-crimetrip.json](./240866-crimetrip.json) |
+| CrimeWave | 73152 | [73152-crimewave.json](./73152-crimewave.json) |
 | Criminal Archives: Alphabetic Murders | 417708 | [417708-criminal-archives-alphabetic-murders.json](./417708-criminal-archives-alphabetic-murders.json) |
 | Criminal Archives: Alphabetic Murders - Collector's Edition | 247497 | [247497-criminal-archives-alphabetic-murders-collectors-edition.json](./247497-criminal-archives-alphabetic-murders-collectors-edition.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
@@ -18766,6 +18769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberstrike | 22809 | [22809-cyberstrike.json](./22809-cyberstrike.json) |
 | Cyberstrike 2 | 22810 | [22810-cyberstrike-2.json](./22810-cyberstrike-2.json) |
 | CyberStrike Chronicles | 258634 | [258634-cyberstrike-chronicles.json](./258634-cyberstrike-chronicles.json) |
+| Cyberswine | 73086 | [73086-cyberswine.json](./73086-cyberswine.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
 | CyberTD | 221120 | [221120-cybertd.json](./221120-cybertd.json) |
