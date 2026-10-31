@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E008 | 153129 | [153129-e008.json](./153129-e008.json) |
 | E06-Anomaly | 118616 | [118616-e06-anomaly.json](./118616-e06-anomaly.json) |
 | E13ven Minute Train Ride | 340546 | [340546-e13ven-minute-train-ride.json](./340546-e13ven-minute-train-ride.json) |
+| E3.14 Center | 112594 | [112594-e3-14-center.json](./112594-e3-14-center.json) |
 | E30 Drift Car Simulator | 234532 | [234532-e30-drift-car-simulator.json](./234532-e30-drift-car-simulator.json) |
 | E3pdr | 249017 | [249017-e3pdr.json](./249017-e3pdr.json) |
 | E4C: Final Salvation | 328459 | [328459-e4c-final-salvation.json](./328459-e4c-final-salvation.json) |
@@ -1266,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
 | EeOneGuy Adventure | 32637 | [32637-eeoneguy-adventure.json](./32637-eeoneguy-adventure.json) |
 | EEP 14 | 100658 | [100658-eep-14.json](./100658-eep-14.json) |
+| EEP 15 | 112615 | [112615-eep-15.json](./112615-eep-15.json) |
 | EEP 17 | 193588 | [193588-eep-17.json](./193588-eep-17.json) |
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
 | Eerie Desolation | 272772 | [272772-eerie-desolation.json](./272772-eerie-desolation.json) |
