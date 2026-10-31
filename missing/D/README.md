@@ -2167,6 +2167,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das neue Dr. Brain Gehirn Jogging Vol.2 | 98815 | [98815-das-neue-dr-brain-gehirn-jogging-vol-2.json](./98815-das-neue-dr-brain-gehirn-jogging-vol-2.json) |
 | Das neue Dr.Brain Gehirnjogging Vol.3 | 98805 | [98805-das-neue-dr-brain-gehirnjogging-vol-3.json](./98805-das-neue-dr-brain-gehirnjogging-vol-3.json) |
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
+| Das Rätsel in Rom | 91636 | [91636-das-ratsel-in-rom.json](./91636-das-ratsel-in-rom.json) |
+| Das Rätsel um Gallien | 91637 | [91637-das-ratsel-um-gallien.json](./91637-das-ratsel-um-gallien.json) |
 | Das Stundenglas | 70307 | [70307-das-stundenglas.json](./70307-das-stundenglas.json) |
 | Das Teufelswad | 301970 | [301970-das-teufelswad.json](./301970-das-teufelswad.json) |
 | Das Tier | 141155 | [141155-das-tier.json](./141155-das-tier.json) |
@@ -2465,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David: Rise of the Shepherd | 372504 | [372504-david-rise-of-the-shepherd.json](./372504-david-rise-of-the-shepherd.json) |
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
 | Davids Funtime | 350928 | [350928-davids-funtime.json](./350928-davids-funtime.json) |
+| Davidson's Zoo Keeper | 91580 | [91580-davidsons-zoo-keeper.json](./91580-davidsons-zoo-keeper.json) |
 | Davie's Quest and The Magic Dress | 322852 | [322852-davies-quest-and-the-magic-dress.json](./322852-davies-quest-and-the-magic-dress.json) |
 | Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
@@ -7241,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deutsch 1.-4: Klasse - Fit fuers Gymnasium | 269746 | [269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json](./269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json) |
 | Deutsch 1.-4. Klasse 2012 | 269747 | [269747-deutsch-1-4-klasse-2012.json](./269747-deutsch-1-4-klasse-2012.json) |
 | Deutsch für Zwerge 2 | 91623 | [91623-deutsch-fur-zwerge-2.json](./91623-deutsch-fur-zwerge-2.json) |
+| Deutsch Pfiffikus 2 - 1995 | 91635 | [91635-deutsch-pfiffikus-2-1995.json](./91635-deutsch-pfiffikus-2-1995.json) |
 | Deutsch Pfiffikus 2009 | 91621 | [91621-deutsch-pfiffikus-2009.json](./91621-deutsch-pfiffikus-2009.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
 | Dev Guy | 35720 | [35720-dev-guy.json](./35720-dev-guy.json) |
@@ -8813,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunting: Ushinawareta Daichi | 85950 | [85950-dinosaur-hunting-ushinawareta-daichi.json](./85950-dinosaur-hunting-ushinawareta-daichi.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Island Escape | 276026 | [276026-dinosaur-island-escape.json](./276026-dinosaur-island-escape.json) |
+| Dinosaur Island VR | 91651 | [91651-dinosaur-island-vr.json](./91651-dinosaur-island-vr.json) |
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
 | Dinosaur King | 140907 | [140907-dinosaur-king.json](./140907-dinosaur-king.json) |
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
@@ -13473,6 +13478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Drop | 58481 | [58481-dragon-drop.json](./58481-dragon-drop.json) |
 | Dragon Eclipse | 272997 | [272997-dragon-eclipse.json](./272997-dragon-eclipse.json) |
 | Dragon Egg! | 37722 | [37722-dragon-egg.json](./37722-dragon-egg.json) |
+| Dragon Empires | 91674 | [91674-dragon-empires.json](./91674-dragon-empires.json) |
 | Dragon Essence: Color My World | 36964 | [36964-dragon-essence-color-my-world.json](./36964-dragon-essence-color-my-world.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Evo | 188810 | [188810-dragon-evo.json](./188810-dragon-evo.json) |
@@ -14717,6 +14723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Farm: House Furnitures | 324460 | [324460-dreamland-farm-house-furnitures.json](./324460-dreamland-farm-house-furnitures.json) |
 | Dreamland Farm: Kitchen Furnitures | 324461 | [324461-dreamland-farm-kitchen-furnitures.json](./324461-dreamland-farm-kitchen-furnitures.json) |
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
+| Dreamland Online | 91659 | [91659-dreamland-online.json](./91659-dreamland-online.json) |
 | Dreamland Solitaire | 123824 | [123824-dreamland-solitaire.json](./123824-dreamland-solitaire.json) |
 | Dreamland Solitaire Bundle | 309631 | [309631-dreamland-solitaire-bundle.json](./309631-dreamland-solitaire-bundle.json) |
 | Dreamland Solitaire: Dark Prophecy | 138478 | [138478-dreamland-solitaire-dark-prophecy.json](./138478-dreamland-solitaire-dark-prophecy.json) |
