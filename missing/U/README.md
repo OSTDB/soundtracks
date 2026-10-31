@@ -1066,6 +1066,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni Chiru: Shinjitsu to Gensou no Nocturne | 138162 | [138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json](./138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json) |
 | Umineko no Naku Koro ni Hane | 146817 | [146817-umineko-no-naku-koro-ni-hane.json](./146817-umineko-no-naku-koro-ni-hane.json) |
 | Umineko no Naku Koro ni Musu | 253758 | [253758-umineko-no-naku-koro-ni-musu.json](./253758-umineko-no-naku-koro-ni-musu.json) |
+| Umineko no Naku Koro ni Portable 1 | 65702 | [65702-umineko-no-naku-koro-ni-portable-1.json](./65702-umineko-no-naku-koro-ni-portable-1.json) |
+| Umineko no Naku Koro ni Portable 2 | 65704 | [65704-umineko-no-naku-koro-ni-portable-2.json](./65704-umineko-no-naku-koro-ni-portable-2.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku | 139987 | [139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json](./139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku - Limited Edition | 140001 | [140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json](./140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json) |
 | Umineko no Naku Koro ni Tsubasa | 125996 | [125996-umineko-no-naku-koro-ni-tsubasa.json](./125996-umineko-no-naku-koro-ni-tsubasa.json) |
