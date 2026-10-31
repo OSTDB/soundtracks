@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Stop: No Vacancy | 413462 | [413462-dead-stop-no-vacancy.json](./413462-dead-stop-no-vacancy.json) |
 | Dead Streets: Zombie Blitz | 326009 | [326009-dead-streets-zombie-blitz.json](./326009-dead-streets-zombie-blitz.json) |
 | Dead Stride | 399626 | [399626-dead-stride.json](./399626-dead-stride.json) |
+| Dead Superhero: comics action game in Crime City | 95747 | [95747-dead-superhero-comics-action-game-in-crime-city.json](./95747-dead-superhero-comics-action-game-in-crime-city.json) |
 | Dead Survival | 153979 | [153979-dead-survival.json](./153979-dead-survival.json) |
 | Dead Synchronicity: The Longest Night | 59947 | [59947-dead-synchronicity-the-longest-night.json](./59947-dead-synchronicity-the-longest-night.json) |
 | Dead Synchronicity: Tomorrow Comes Today | 194216 | [194216-dead-synchronicity-tomorrow-comes-today.json](./194216-dead-synchronicity-tomorrow-comes-today.json) |
@@ -11092,6 +11093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino Solitaire | 83430 | [83430-domino-solitaire.json](./83430-domino-solitaire.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
+| Domino World AR | 95752 | [95752-domino-world-ar.json](./95752-domino-world-ar.json) |
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
 | Dominoes | 60322 | [60322-dominoes.json](./60322-dominoes.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
