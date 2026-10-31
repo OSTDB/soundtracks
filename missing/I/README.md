@@ -4319,7 +4319,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interactive Sailing | 143543 | [143543-interactive-sailing.json](./143543-interactive-sailing.json) |
 | Interactive Sex: BDSM | 371354 | [371354-interactive-sex-bdsm.json](./371354-interactive-sex-bdsm.json) |
 | Interactive Sex: Threesome | 382009 | [382009-interactive-sex-threesome.json](./382009-interactive-sex-threesome.json) |
+| Interactive Storybook DS: Series 1 | 123235 | [123235-interactive-storybook-ds-series-1.json](./123235-interactive-storybook-ds-series-1.json) |
+| Interactive Storybook DS: Series 2 | 123234 | [123234-interactive-storybook-ds-series-2.json](./123234-interactive-storybook-ds-series-2.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
+| Interactive Storybook Series 3 | 123233 | [123233-interactive-storybook-series-3.json](./123233-interactive-storybook-series-3.json) |
 | Interactivity: The Interactive Experience | 123770 | [123770-interactivity-the-interactive-experience.json](./123770-interactivity-the-interactive-experience.json) |
 | Interalia | 354567 | [354567-interalia.json](./354567-interalia.json) |
 | Interastra | 147226 | [147226-interastra.json](./147226-interastra.json) |
