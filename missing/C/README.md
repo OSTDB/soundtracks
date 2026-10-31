@@ -12816,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Space | 161592 | [161592-cookie-space.json](./161592-cookie-space.json) |
 | Cookie Store | 150282 | [150282-cookie-store.json](./150282-cookie-store.json) |
 | Cookie Story Crush | 166302 | [166302-cookie-story-crush.json](./166302-cookie-story-crush.json) |
+| Cookie Tapper | 102545 | [102545-cookie-tapper.json](./102545-cookie-tapper.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
 | Cookie's Quiz Carnival | 106283 | [106283-cookies-quiz-carnival.json](./106283-cookies-quiz-carnival.json) |
@@ -14150,6 +14151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowgirl Sex Farm | 389756 | [389756-cowgirl-sex-farm.json](./389756-cowgirl-sex-farm.json) |
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
 | Cowgirl's Café | 311883 | [311883-cowgirls-cafe.json](./311883-cowgirls-cafe.json) |
+| Cowhands | 102500 | [102500-cowhands.json](./102500-cowhands.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
 | CowHunter | 73146 | [73146-cowhunter.json](./73146-cowhunter.json) |
 | Cowlifters: Clash for Cows | 174714 | [174714-cowlifters-clash-for-cows.json](./174714-cowlifters-clash-for-cows.json) |
