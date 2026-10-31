@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need For Drink | 29014 | [29014-need-for-drink.json](./29014-need-for-drink.json) |
 | Need for Drive: Car Racing | 251047 | [251047-need-for-drive-car-racing.json](./251047-need-for-drive-car-racing.json) |
 | Need for Drive: Open World Multiplayer Racing | 163830 | [163830-need-for-drive-open-world-multiplayer-racing.json](./163830-need-for-drive-open-world-multiplayer-racing.json) |
+| Need For Gornyak | 86472 | [86472-need-for-gornyak.json](./86472-need-for-gornyak.json) |
 | Need for Kill | 333213 | [333213-need-for-kill.json](./333213-need-for-kill.json) |
 | Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
 | Need for Race Street King & Formula Auto Sport Racing Pack | 385132 | [385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json](./385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json) |
