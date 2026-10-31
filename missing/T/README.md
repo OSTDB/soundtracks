@@ -14714,6 +14714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Fourth Edition | 3697 | [3697-the-settlers-fourth-edition.json](./3697-the-settlers-fourth-edition.json) |
 | The Settlers: Heritage of Kings | 3698 | [3698-the-settlers-heritage-of-kings.json](./3698-the-settlers-heritage-of-kings.json) |
 | The Settlers: Heritage of Kings - Expansion Disc | 124562 | [124562-the-settlers-heritage-of-kings-expansion-disc.json](./124562-the-settlers-heritage-of-kings-expansion-disc.json) |
+| The Settlers: Heritage of Kings - Gold Edition | 86492 | [86492-the-settlers-heritage-of-kings-gold-edition.json](./86492-the-settlers-heritage-of-kings-gold-edition.json) |
 | The Settlers: Heritage of Kings - Legends Expansion Disc | 124561 | [124561-the-settlers-heritage-of-kings-legends-expansion-disc.json](./124561-the-settlers-heritage-of-kings-legends-expansion-disc.json) |
 | The Settlers: History Collection | 110053 | [110053-the-settlers-history-collection.json](./110053-the-settlers-history-collection.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
@@ -16175,6 +16176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
 | The Tower | 282089 | [282089-the-tower.json](./282089-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
+| The Tower | 86462 | [86462-the-tower.json](./86462-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower Assassin's Creed | 97806 | [97806-the-tower-assassins-creed.json](./97806-the-tower-assassins-creed.json) |
 | The Tower Between Us | 145300 | [145300-the-tower-between-us.json](./145300-the-tower-between-us.json) |
@@ -22168,6 +22170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Games: puzzles, shapes | 103747 | [103747-toddler-games-puzzles-shapes.json](./103747-toddler-games-puzzles-shapes.json) |
 | Toddler Learning Game-EduKitty | 86788 | [86788-toddler-learning-game-edukitty.json](./86788-toddler-learning-game-edukitty.json) |
 | Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
+| Toddler Simulator | 86482 | [86482-toddler-simulator.json](./86482-toddler-simulator.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
 | Toddlers | 400096 | [400096-toddlers.json](./400096-toddlers.json) |
@@ -22787,6 +22790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider | 266697 | [266697-tomb-raider.json](./266697-tomb-raider.json) |
 | Tomb Raider 1+2+3 | 154439 | [154439-tomb-raider-1-2-3.json](./154439-tomb-raider-1-2-3.json) |
 | Tomb Raider Anthology | 44886 | [44886-tomb-raider-anthology.json](./44886-tomb-raider-anthology.json) |
+| Tomb Raider Arcade | 86503 | [86503-tomb-raider-arcade.json](./86503-tomb-raider-arcade.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Raider I-VI Remastered | 331905 | [331905-tomb-raider-i-vi-remastered.json](./331905-tomb-raider-i-vi-remastered.json) |
 | Tomb Raider I•II•III Remastered | 266683 | [266683-tomb-raider-i-ii-iii-remastered.json](./266683-tomb-raider-i-ii-iii-remastered.json) |
@@ -23569,6 +23573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torque Drift | 95835 | [95835-torque-drift.json](./95835-torque-drift.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
+| TorqueL: Physics Modified Edition | 86458 | [86458-torquel-physics-modified-edition.json](./86458-torquel-physics-modified-edition.json) |
 | Torrente | 94496 | [94496-torrente.json](./94496-torrente.json) |
 | Torrential | 232957 | [232957-torrential.json](./232957-torrential.json) |
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
