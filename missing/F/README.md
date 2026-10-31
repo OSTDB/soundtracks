@@ -4381,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filthy Animals: Halloween Heist | 196112 | [196112-filthy-animals-halloween-heist.json](./196112-filthy-animals-halloween-heist.json) |
 | Filthy Animals: Heist Simulator | 193203 | [193203-filthy-animals-heist-simulator.json](./193203-filthy-animals-heist-simulator.json) |
 | Filthy Apartments | 385273 | [385273-filthy-apartments.json](./385273-filthy-apartments.json) |
+| Filthy Frank Kart | 122580 | [122580-filthy-frank-kart.json](./122580-filthy-frank-kart.json) |
 | Filthy Hands | 90306 | [90306-filthy-hands.json](./90306-filthy-hands.json) |
 | Filthy Lucre | 19590 | [19590-filthy-lucre.json](./19590-filthy-lucre.json) |
 | Filthy Rich | 313881 | [313881-filthy-rich.json](./313881-filthy-rich.json) |
