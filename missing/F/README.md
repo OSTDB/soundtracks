@@ -6091,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Star | 86356 | [86356-fishing-star.json](./86356-fishing-star.json) |
 | Fishing Star: World Tour | 114012 | [114012-fishing-star-world-tour.json](./114012-fishing-star-world-tour.json) |
 | Fishing Stories | 244219 | [244219-fishing-stories.json](./244219-fishing-stories.json) |
+| Fishing Strike | 96449 | [96449-fishing-strike.json](./96449-fishing-strike.json) |
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing Superstars 2 | 109548 | [109548-fishing-superstars-2.json](./109548-fishing-superstars-2.json) |
 | Fishing Tale | 309555 | [309555-fishing-tale.json](./309555-fishing-tale.json) |
