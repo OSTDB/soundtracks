@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Angels | 23610 | [23610-league-of-angels.json](./23610-league-of-angels.json) |
 | League of Angels II | 21603 | [21603-league-of-angels-ii.json](./21603-league-of-angels-ii.json) |
 | League of Angels III | 112047 | [112047-league-of-angels-iii.json](./112047-league-of-angels-iii.json) |
+| League of Angels Series | 109967 | [109967-league-of-angels-series.json](./109967-league-of-angels-series.json) |
 | League of Angels: Pact | 254046 | [254046-league-of-angels-pact.json](./254046-league-of-angels-pact.json) |
 | League of Battle | 50522 | [50522-league-of-battle.json](./50522-league-of-battle.json) |
 | League of Battleship: Thunder War | 181584 | [181584-league-of-battleship-thunder-war.json](./181584-league-of-battleship-thunder-war.json) |
@@ -8546,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludopolis | 119984 | [119984-ludopolis.json](./119984-ludopolis.json) |
 | LudoRace | 311016 | [311016-ludorace.json](./311016-ludorace.json) |
 | Ludoria | 33778 | [33778-ludoria.json](./33778-ludoria.json) |
+| Ludoversity: A Spanish Adventure | 109966 | [109966-ludoversity-a-spanish-adventure.json](./109966-ludoversity-a-spanish-adventure.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Ludus | 128123 | [128123-ludus.json](./128123-ludus.json) |
