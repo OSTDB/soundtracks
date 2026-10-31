@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einar | 50540 | [50540-einar.json](./50540-einar.json) |
 | Einar: Loki's Traps | 171357 | [171357-einar-lokis-traps.json](./171357-einar-lokis-traps.json) |
 | Eindeloos Mahjong | 149282 | [149282-eindeloos-mahjong.json](./149282-eindeloos-mahjong.json) |
+| Einfach Genial | 92805 | [92805-einfach-genial.json](./92805-einfach-genial.json) |
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
 | Einheriar | 243574 | [243574-einheriar.json](./243574-einheriar.json) |
 | Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
 | Elvenar | 59764 | [59764-elvenar.json](./59764-elvenar.json) |
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
+| Elveon | 92755 | [92755-elveon.json](./92755-elveon.json) |
 | Elvera | 207651 | [207651-elvera.json](./207651-elvera.json) |
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves '87 | 246233 | [246233-elves-87.json](./246233-elves-87.json) |
@@ -6065,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evector: Acid Thirst | 149846 | [149846-evector-acid-thirst.json](./149846-evector-acid-thirst.json) |
 | Evel Knievel | 200330 | [200330-evel-knievel.json](./200330-evel-knievel.json) |
 | Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
+| Evel Knievel 3D Stunt Game | 92760 | [92760-evel-knievel-3d-stunt-game.json](./92760-evel-knievel-3d-stunt-game.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
 | Evelone Wrath | 260032 | [260032-evelone-wrath.json](./260032-evelone-wrath.json) |
