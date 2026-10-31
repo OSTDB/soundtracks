@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Master | 298367 | [298367-card-master.json](./298367-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
 | Card Monsters | 55828 | [55828-card-monsters.json](./55828-card-monsters.json) |
+| Card Monsters: Dungeon | 119986 | [119986-card-monsters-dungeon.json](./119986-card-monsters-dungeon.json) |
 | Card Nation | 141402 | [141402-card-nation.json](./141402-card-nation.json) |
 | Card Night at Gigi's | 407854 | [407854-card-night-at-gigis.json](./407854-card-night-at-gigis.json) |
 | Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
@@ -4567,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cebolinha Contra o Capitão Feio | 281891 | [281891-cebolinha-contra-o-capitao-feio.json](./281891-cebolinha-contra-o-capitao-feio.json) |
 | Cebus | 400341 | [400341-cebus.json](./400341-cebus.json) |
 | Cecco Collection | 138018 | [138018-cecco-collection.json](./138018-cecco-collection.json) |
+| Cecconoid | 119938 | [119938-cecconoid.json](./119938-cecconoid.json) |
 | Cecelia | 259498 | [259498-cecelia.json](./259498-cecelia.json) |
 | Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
@@ -8150,12 +8152,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - African Vibes | 227401 | [227401-cities-skylines-african-vibes.json](./227401-cities-skylines-african-vibes.json) |
 | Cities: Skylines - After Dark | 16604 | [16604-cities-skylines-after-dark.json](./16604-cities-skylines-after-dark.json) |
 | Cities: Skylines - Airports | 227412 | [227412-cities-skylines-airports.json](./227412-cities-skylines-airports.json) |
+| Cities: Skylines - Campus | 119954 | [119954-cities-skylines-campus.json](./119954-cities-skylines-campus.json) |
+| Cities: Skylines - Campus Radio | 119956 | [119956-cities-skylines-campus-radio.json](./119956-cities-skylines-campus-radio.json) |
+| Cities: Skylines - Carols, Candles and Candy | 119960 | [119960-cities-skylines-carols-candles-and-candy.json](./119960-cities-skylines-carols-candles-and-candy.json) |
 | Cities: Skylines - Coast to Coast Radio | 149996 | [149996-cities-skylines-coast-to-coast-radio.json](./149996-cities-skylines-coast-to-coast-radio.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
 | Cities: Skylines - Content Creator Pack: Africa in Miniature | 241801 | [241801-cities-skylines-content-creator-pack-africa-in-miniature.json](./241801-cities-skylines-content-creator-pack-africa-in-miniature.json) |
+| Cities: Skylines - Content Creator Pack: Art Deco | 119966 | [119966-cities-skylines-content-creator-pack-art-deco.json](./119966-cities-skylines-content-creator-pack-art-deco.json) |
 | Cities: Skylines - Content Creator Pack: Bridges & Piers | 149999 | [149999-cities-skylines-content-creator-pack-bridges-and-piers.json](./149999-cities-skylines-content-creator-pack-bridges-and-piers.json) |
 | Cities: Skylines - Content Creator Pack: Brooklyn & Queens | 249602 | [249602-cities-skylines-content-creator-pack-brooklyn-and-queens.json](./249602-cities-skylines-content-creator-pack-brooklyn-and-queens.json) |
+| Cities: Skylines - Content Creator Pack: European Suburbia | 119962 | [119962-cities-skylines-content-creator-pack-european-suburbia.json](./119962-cities-skylines-content-creator-pack-european-suburbia.json) |
 | Cities: Skylines - Content Creator Pack: Heart of Korea | 240928 | [240928-cities-skylines-content-creator-pack-heart-of-korea.json](./240928-cities-skylines-content-creator-pack-heart-of-korea.json) |
+| Cities: Skylines - Content Creator Pack: High-Tech Buildings | 119965 | [119965-cities-skylines-content-creator-pack-high-tech-buildings.json](./119965-cities-skylines-content-creator-pack-high-tech-buildings.json) |
 | Cities: Skylines - Content Creator Pack: Industrial Evolution | 249606 | [249606-cities-skylines-content-creator-pack-industrial-evolution.json](./249606-cities-skylines-content-creator-pack-industrial-evolution.json) |
 | Cities: Skylines - Content Creator Pack: Map Pack 2 | 227400 | [227400-cities-skylines-content-creator-pack-map-pack-2.json](./227400-cities-skylines-content-creator-pack-map-pack-2.json) |
 | Cities: Skylines - Content Creator Pack: Mid-Century Modern | 227396 | [227396-cities-skylines-content-creator-pack-mid-century-modern.json](./227396-cities-skylines-content-creator-pack-mid-century-modern.json) |
@@ -8167,18 +8175,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Content Creator Pack: Skyscrapers | 226302 | [226302-cities-skylines-content-creator-pack-skyscrapers.json](./226302-cities-skylines-content-creator-pack-skyscrapers.json) |
 | Cities: Skylines - Content Creator Pack: Sports Venues | 241800 | [241800-cities-skylines-content-creator-pack-sports-venues.json](./241800-cities-skylines-content-creator-pack-sports-venues.json) |
 | Cities: Skylines - Content Creator Pack: Train Stations | 149998 | [149998-cities-skylines-content-creator-pack-train-stations.json](./149998-cities-skylines-content-creator-pack-train-stations.json) |
+| Cities: Skylines - Content Creator Pack: University City | 119955 | [119955-cities-skylines-content-creator-pack-university-city.json](./119955-cities-skylines-content-creator-pack-university-city.json) |
+| Cities: Skylines - Country Road Radio | 119958 | [119958-cities-skylines-country-road-radio.json](./119958-cities-skylines-country-road-radio.json) |
+| Cities: Skylines - Deep Focus Radio | 119953 | [119953-cities-skylines-deep-focus-radio.json](./119953-cities-skylines-deep-focus-radio.json) |
+| Cities: Skylines - Deluxe Edition Upgrade Pack | 119968 | [119968-cities-skylines-deluxe-edition-upgrade-pack.json](./119968-cities-skylines-deluxe-edition-upgrade-pack.json) |
 | Cities: Skylines - Downtown Bundle | 215563 | [215563-cities-skylines-downtown-bundle.json](./215563-cities-skylines-downtown-bundle.json) |
 | Cities: Skylines - Financial Districts | 226303 | [226303-cities-skylines-financial-districts.json](./226303-cities-skylines-financial-districts.json) |
 | Cities: Skylines - Financial Districts Bundle | 231015 | [231015-cities-skylines-financial-districts-bundle.json](./231015-cities-skylines-financial-districts-bundle.json) |
+| Cities: Skylines - Green Cities | 119961 | [119961-cities-skylines-green-cities.json](./119961-cities-skylines-green-cities.json) |
 | Cities: Skylines - Hotels & Retreats | 249189 | [249189-cities-skylines-hotels-and-retreats.json](./249189-cities-skylines-hotels-and-retreats.json) |
 | Cities: Skylines - Hotels & Retreats Bundle | 252592 | [252592-cities-skylines-hotels-and-retreats-bundle.json](./252592-cities-skylines-hotels-and-retreats-bundle.json) |
 | Cities: Skylines - Industries | 110890 | [110890-cities-skylines-industries.json](./110890-cities-skylines-industries.json) |
 | Cities: Skylines - Mass Transit | 27462 | [27462-cities-skylines-mass-transit.json](./27462-cities-skylines-mass-transit.json) |
+| Cities: Skylines - Match Day | 119967 | [119967-cities-skylines-match-day.json](./119967-cities-skylines-match-day.json) |
 | Cities: Skylines - Mayor's Edition | 114766 | [114766-cities-skylines-mayors-edition.json](./114766-cities-skylines-mayors-edition.json) |
 | Cities: Skylines - Natural Disasters | 26141 | [26141-cities-skylines-natural-disasters.json](./26141-cities-skylines-natural-disasters.json) |
 | Cities: Skylines - Nintendo Switch Edition | 109464 | [109464-cities-skylines-nintendo-switch-edition.json](./109464-cities-skylines-nintendo-switch-edition.json) |
 | Cities: Skylines - Paradise Radio | 220001 | [220001-cities-skylines-paradise-radio.json](./220001-cities-skylines-paradise-radio.json) |
+| Cities: Skylines - Parklife | 119959 | [119959-cities-skylines-parklife.json](./119959-cities-skylines-parklife.json) |
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
+| Cities: Skylines - Pearls From the East | 119964 | [119964-cities-skylines-pearls-from-the-east.json](./119964-cities-skylines-pearls-from-the-east.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
 | Cities: Skylines - Platinum Edition | 136082 | [136082-cities-skylines-platinum-edition.json](./136082-cities-skylines-platinum-edition.json) |
 | Cities: Skylines - PlayStation 4 Edition | 94074 | [94074-cities-skylines-playstation-4-edition.json](./94074-cities-skylines-playstation-4-edition.json) |
@@ -8186,10 +8202,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
+| Cities: Skylines - Rock City Radio | 119963 | [119963-cities-skylines-rock-city-radio.json](./119963-cities-skylines-rock-city-radio.json) |
 | Cities: Skylines - Shoreline Radio | 220002 | [220002-cities-skylines-shoreline-radio.json](./220002-cities-skylines-shoreline-radio.json) |
 | Cities: Skylines - Snowfall | 16602 | [16602-cities-skylines-snowfall.json](./16602-cities-skylines-snowfall.json) |
 | Cities: Skylines - Sunny Breeze Radio | 149997 | [149997-cities-skylines-sunny-breeze-radio.json](./149997-cities-skylines-sunny-breeze-radio.json) |
 | Cities: Skylines - Sunset Harbor | 142107 | [142107-cities-skylines-sunset-harbor.json](./142107-cities-skylines-sunset-harbor.json) |
+| Cities: Skylines - Synthetic Dawn Radio | 119957 | [119957-cities-skylines-synthetic-dawn-radio.json](./119957-cities-skylines-synthetic-dawn-radio.json) |
 | Cities: Skylines - Ultimate Content Bundle | 215562 | [215562-cities-skylines-ultimate-content-bundle.json](./215562-cities-skylines-ultimate-content-bundle.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
 | Cities: Skylines - World Tour Bundle 2 | 243292 | [243292-cities-skylines-world-tour-bundle-2.json](./243292-cities-skylines-world-tour-bundle-2.json) |
