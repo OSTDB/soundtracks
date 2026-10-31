@@ -2743,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Tamer Town | 366097 | [366097-path-to-tamer-town.json](./366097-path-to-tamer-town.json) |
 | Path to the Creator | 290849 | [290849-path-to-the-creator.json](./290849-path-to-the-creator.json) |
 | Path to the Creator: DLC1 | 290850 | [290850-path-to-the-creator-dlc1.json](./290850-path-to-the-creator-dlc1.json) |
+| Path to the Cyber Land | 82513 | [82513-path-to-the-cyber-land.json](./82513-path-to-the-cyber-land.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
 | Path to the Sky | 35237 | [35237-path-to-the-sky.json](./35237-path-to-the-sky.json) |
 | Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
@@ -11723,6 +11724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populus Run | 145513 | [145513-populus-run.json](./145513-populus-run.json) |
 | PoPuP | 243523 | [243523-popup.json](./243523-popup.json) |
 | PopUp Blockers - Block Web Browser Simulator 2k16 | 100994 | [100994-popup-blockers-block-web-browser-simulator-2k16.json](./100994-popup-blockers-block-web-browser-simulator-2k16.json) |
+| Popup Dungeon | 82531 | [82531-popup-dungeon.json](./82531-popup-dungeon.json) |
 | Popup.exe | 398504 | [398504-popup-exe.json](./398504-popup-exe.json) |
 | Por um Punhado de Trólares | 298405 | [298405-por-um-punhado-de-trolares.json](./298405-por-um-punhado-de-trolares.json) |
 | Poradora vs. Monsters of the World | 324015 | [324015-poradora-vs-monsters-of-the-world.json](./324015-poradora-vs-monsters-of-the-world.json) |
@@ -16611,6 +16613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle City | 54275 | [54275-puzzle-city.json](./54275-puzzle-city.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
+| Puzzle Collection with Pani Pani | 82559 | [82559-puzzle-collection-with-pani-pani.json](./82559-puzzle-collection-with-pani-pani.json) |
 | Puzzle Collection: Complete Edition | 225760 | [225760-puzzle-collection-complete-edition.json](./225760-puzzle-collection-complete-edition.json) |
 | Puzzle Collection: New Pieces | 226317 | [226317-puzzle-collection-new-pieces.json](./226317-puzzle-collection-new-pieces.json) |
 | Puzzle Company | 348441 | [348441-puzzle-company.json](./348441-puzzle-company.json) |
@@ -17203,6 +17206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PySol Fan Club Edition | 141728 | [141728-pysol-fan-club-edition.json](./141728-pysol-fan-club-edition.json) |
 | Pyssla med Mamma Mu och Kråkan | 352515 | [352515-pyssla-med-mamma-mu-och-krakan.json](./352515-pyssla-med-mamma-mu-och-krakan.json) |
 | Pyst | 18920 | [18920-pyst.json](./18920-pyst.json) |
+| Pythagoras' Perpetual Motion Machine | 82514 | [82514-pythagoras-perpetual-motion-machine.json](./82514-pythagoras-perpetual-motion-machine.json) |
 | Pythagorea | 57739 | [57739-pythagorea.json](./57739-pythagorea.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythagorean Complex | 130288 | [130288-pythagorean-complex.json](./130288-pythagorean-complex.json) |
