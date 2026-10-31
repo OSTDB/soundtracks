@@ -1421,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Rush 2 | 322656 | [322656-ball-rush-2.json](./322656-ball-rush-2.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
+| Ball Shot: Fling to Hoop | 75555 | [75555-ball-shot-fling-to-hoop.json](./75555-ball-shot-fling-to-hoop.json) |
 | Ball Slinger | 176374 | [176374-ball-slinger.json](./176374-ball-slinger.json) |
 | Ball Sort | 240194 | [240194-ball-sort.json](./240194-ball-sort.json) |
 | Ball Sort Puzzle | 180152 | [180152-ball-sort-puzzle.json](./180152-ball-sort-puzzle.json) |
@@ -3062,11 +3063,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum | 240941 | [240941-batman-arkham-asylum.json](./240941-batman-arkham-asylum.json) |
 | Batman: Arkham Asylum - Game of the Year Edition | 27862 | [27862-batman-arkham-asylum-game-of-the-year-edition.json](./27862-batman-arkham-asylum-game-of-the-year-edition.json) |
 | Batman: Arkham Asylum - Play as the Joker Challenge Map | 25993 | [25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json](./25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json) |
+| Batman: Arkham City - Arkham City Skins Pack | 75545 | [75545-batman-arkham-city-arkham-city-skins-pack.json](./75545-batman-arkham-city-arkham-city-skins-pack.json) |
 | Batman: Arkham City - Armored Edition | 20834 | [20834-batman-arkham-city-armored-edition.json](./20834-batman-arkham-city-armored-edition.json) |
 | Batman: Arkham City - Batman Inc. Batsuit Skin | 138111 | [138111-batman-arkham-city-batman-inc-batsuit-skin.json](./138111-batman-arkham-city-batman-inc-batsuit-skin.json) |
 | Batman: Arkham City - Catwoman Bundle | 26116 | [26116-batman-arkham-city-catwoman-bundle.json](./26116-batman-arkham-city-catwoman-bundle.json) |
+| Batman: Arkham City - Challenge Map Pack | 75544 | [75544-batman-arkham-city-challenge-map-pack.json](./75544-batman-arkham-city-challenge-map-pack.json) |
 | Batman: Arkham City - Game of the Year Edition | 21704 | [21704-batman-arkham-city-game-of-the-year-edition.json](./21704-batman-arkham-city-game-of-the-year-edition.json) |
 | Batman: Arkham City - Harley Quinn's Revenge | 18442 | [18442-batman-arkham-city-harley-quinns-revenge.json](./18442-batman-arkham-city-harley-quinns-revenge.json) |
+| Batman: Arkham City - Nightwing Bundle | 75542 | [75542-batman-arkham-city-nightwing-bundle.json](./75542-batman-arkham-city-nightwing-bundle.json) |
+| Batman: Arkham City - Robin Bundle | 75543 | [75543-batman-arkham-city-robin-bundle.json](./75543-batman-arkham-city-robin-bundle.json) |
 | Batman: Arkham City - The Arkham Bundle | 138112 | [138112-batman-arkham-city-the-arkham-bundle.json](./138112-batman-arkham-city-the-arkham-bundle.json) |
 | Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
 | Batman: Arkham City Lockdown | 77258 | [77258-batman-arkham-city-lockdown.json](./77258-batman-arkham-city-lockdown.json) |
@@ -3091,8 +3096,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
 | Batman: Arkham Knight - Season Pass | 25970 | [25970-batman-arkham-knight-season-pass.json](./25970-batman-arkham-knight-season-pass.json) |
 | Batman: Arkham Knight - Special Edition Steelbook | 41611 | [41611-batman-arkham-knight-special-edition-steelbook.json](./41611-batman-arkham-knight-special-edition-steelbook.json) |
+| Batman: Arkham Origins - Black Mask Challenge Pack | 75534 | [75534-batman-arkham-origins-black-mask-challenge-pack.json](./75534-batman-arkham-origins-black-mask-challenge-pack.json) |
 | Batman: Arkham Origins - Cold, Cold Heart | 10028 | [10028-batman-arkham-origins-cold-cold-heart.json](./10028-batman-arkham-origins-cold-cold-heart.json) |
+| Batman: Arkham Origins - Deathstroke Challenge Pack | 75535 | [75535-batman-arkham-origins-deathstroke-challenge-pack.json](./75535-batman-arkham-origins-deathstroke-challenge-pack.json) |
+| Batman: Arkham Origins - Infinite Earths Skin Pack | 75533 | [75533-batman-arkham-origins-infinite-earths-skin-pack.json](./75533-batman-arkham-origins-infinite-earths-skin-pack.json) |
 | Batman: Arkham Origins - Initiation | 75531 | [75531-batman-arkham-origins-initiation.json](./75531-batman-arkham-origins-initiation.json) |
+| Batman: Arkham Origins - Knightfall Pack | 75541 | [75541-batman-arkham-origins-knightfall-pack.json](./75541-batman-arkham-origins-knightfall-pack.json) |
+| Batman: Arkham Origins - New Millennium Skins Pack | 75532 | [75532-batman-arkham-origins-new-millennium-skins-pack.json](./75532-batman-arkham-origins-new-millennium-skins-pack.json) |
+| Batman: Arkham Origins - Season Pass | 75529 | [75529-batman-arkham-origins-season-pass.json](./75529-batman-arkham-origins-season-pass.json) |
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
 | Batman: Arkham VR | 19563 | [19563-batman-arkham-vr.json](./19563-batman-arkham-vr.json) |
 | Batman: Back Street Brawl | 284216 | [284216-batman-back-street-brawl.json](./284216-batman-back-street-brawl.json) |
@@ -16807,6 +16818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bygg Hus med Mulle Meck | 97736 | [97736-bygg-hus-med-mulle-meck.json](./97736-bygg-hus-med-mulle-meck.json) |
 | Bygone Dreams | 149522 | [149522-bygone-dreams.json](./149522-bygone-dreams.json) |
 | Bygone Worlds: Drama at the Odeion | 76521 | [76521-bygone-worlds-drama-at-the-odeion.json](./76521-bygone-worlds-drama-at-the-odeion.json) |
+| Bygone Worlds: Ephesus | 75391 | [75391-bygone-worlds-ephesus.json](./75391-bygone-worlds-ephesus.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
 | Bylina | 319454 | [319454-bylina.json](./319454-bylina.json) |
 | Bylina: Lure of the Sorceress | 298720 | [298720-bylina-lure-of-the-sorceress.json](./298720-bylina-lure-of-the-sorceress.json) |
