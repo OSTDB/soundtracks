@@ -3603,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 64480 | [64480-wheel-of-fortune.json](./64480-wheel-of-fortune.json) |
 | Wheel of Fortune | 69177 | [69177-wheel-of-fortune.json](./69177-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
+| Wheel of Fortune 2 | 91671 | [91671-wheel-of-fortune-2.json](./91671-wheel-of-fortune-2.json) |
 | Wheel of Fortune Cartridge #1 | 198965 | [198965-wheel-of-fortune-cartridge-1.json](./198965-wheel-of-fortune-cartridge-1.json) |
 | Wheel of Fortune Cartridge #2 | 198966 | [198966-wheel-of-fortune-cartridge-2.json](./198966-wheel-of-fortune-cartridge-2.json) |
 | Wheel of Fortune Cartridge #3 | 198967 | [198967-wheel-of-fortune-cartridge-3.json](./198967-wheel-of-fortune-cartridge-3.json) |
@@ -5589,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterfest | 323923 | [323923-winterfest.json](./323923-winterfest.json) |
 | Winterfeud | 129584 | [129584-winterfeud.json](./129584-winterfeud.json) |
 | Winterflame : The Other Side | 9911 | [9911-winterflame-the-other-side.json](./9911-winterflame-the-other-side.json) |
+| Winterheart's Guild | 91668 | [91668-winterhearts-guild.json](./91668-winterhearts-guild.json) |
 | Winteristry | 55775 | [55775-winteristry.json](./55775-winteristry.json) |
 | Winterland | 249062 | [249062-winterland.json](./249062-winterland.json) |
 | Winterland Solitaire | 386137 | [386137-winterland-solitaire.json](./386137-winterland-solitaire.json) |
