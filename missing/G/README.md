@@ -7697,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
 | Gravity Field | 155951 | [155951-gravity-field.json](./155951-gravity-field.json) |
 | Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
+| Gravity Fighters | 98213 | [98213-gravity-fighters.json](./98213-gravity-fighters.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Flip X | 334912 | [334912-gravity-flip-x.json](./334912-gravity-flip-x.json) |
 | Gravity Flux | 208661 | [208661-gravity-flux.json](./208661-gravity-flux.json) |
