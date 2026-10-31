@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
 | Yogi Bear's Gold Rush | 49053 | [49053-yogi-bears-gold-rush.json](./49053-yogi-bears-gold-rush.json) |
+| Yogi Bear's Math Adventures | 70179 | [70179-yogi-bears-math-adventures.json](./70179-yogi-bears-math-adventures.json) |
 | Yogi's Big Clean Up | 70069 | [70069-yogis-big-clean-up.json](./70069-yogis-big-clean-up.json) |
 | Yogi's Great Escape | 12833 | [12833-yogis-great-escape.json](./12833-yogis-great-escape.json) |
 | YogKart | 176209 | [176209-yogkart.json](./176209-yogkart.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Kong: The Myth of the Magic Throne | 330612 | [330612-young-kong-the-myth-of-the-magic-throne.json](./330612-young-kong-the-myth-of-the-magic-throne.json) |
 | Young Mage | 244665 | [244665-young-mage.json](./244665-young-mage.json) |
 | Young Merlin | 11665 | [11665-young-merlin.json](./11665-young-merlin.json) |
+| Young Sherlock: The Legacy of Doyle | 70163 | [70163-young-sherlock-the-legacy-of-doyle.json](./70163-young-sherlock-the-legacy-of-doyle.json) |
 | Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Young Warriors | 174834 | [174834-young-warriors.json](./174834-young-warriors.json) |
