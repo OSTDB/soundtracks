@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central Spotlight: Gotye ft. Kimbra - "Somebody That I Used to Know" | 353208 | [353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json](./353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json) |
 | Dance Central Spotlight: Mark Ronson ft. Bruno Mars - "Uptown Funk" | 353210 | [353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json](./353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json) |
 | Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - "Don't Cha" | 353211 | [353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json](./353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json) |
+| Dance Central VR | 116661 | [116661-dance-central-vr.json](./116661-dance-central-vr.json) |
 | Dance Central: Cameo - "Word Up" | 353194 | [353194-dance-central-cameo-word-up.json](./353194-dance-central-cameo-word-up.json) |
 | Dance Central: Gwen Stefani - "Hollaback Girl" | 353197 | [353197-dance-central-gwen-stefani-hollaback-girl.json](./353197-dance-central-gwen-stefani-hollaback-girl.json) |
 | Dance Central: Paula Abdul - "Straight Up" | 353198 | [353198-dance-central-paula-abdul-straight-up.json](./353198-dance-central-paula-abdul-straight-up.json) |
