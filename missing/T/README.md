@@ -11905,6 +11905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Moon | 329410 | [329410-the-little-moon.json](./329410-the-little-moon.json) |
 | The Little Pixel That Could | 332377 | [332377-the-little-pixel-that-could.json](./332377-the-little-pixel-that-could.json) |
 | The Little Plane That Could | 213216 | [213216-the-little-plane-that-could.json](./213216-the-little-plane-that-could.json) |
+| The Little Prince VR | 72425 | [72425-the-little-prince-vr.json](./72425-the-little-prince-vr.json) |
 | The Little Raven & Friends: The Tricycle Story | 71971 | [71971-the-little-raven-and-friends-the-tricycle-story.json](./71971-the-little-raven-and-friends-the-tricycle-story.json) |
 | The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
@@ -23758,6 +23759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Jigsaw | 99745 | [99745-total-jigsaw.json](./99745-total-jigsaw.json) |
 | Total Loadout | 327749 | [327749-total-loadout.json](./327749-total-loadout.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
+| Total Mayhem | 72454 | [72454-total-mayhem.json](./72454-total-mayhem.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
 | Total Miner: Forge | 65845 | [65845-total-miner-forge.json](./65845-total-miner-forge.json) |
 | Total Overdose | 6213 | [6213-total-overdose.json](./6213-total-overdose.json) |
@@ -27135,6 +27137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trance World | 412007 | [412007-trance-world.json](./412007-trance-world.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
 | Trance, Trauma | 240633 | [240633-trance-trauma.json](./240633-trance-trauma.json) |
+| Trancelation | 72448 | [72448-trancelation.json](./72448-trancelation.json) |
 | TranceWave Neo | 304467 | [304467-trancewave-neo.json](./304467-trancewave-neo.json) |
 | Tranquil Cove | 189317 | [189317-tranquil-cove.json](./189317-tranquil-cove.json) |
 | Tranquil Garden | 121367 | [121367-tranquil-garden.json](./121367-tranquil-garden.json) |
@@ -29268,6 +29271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TSA: Thieves Strike Again | 211608 | [211608-tsa-thieves-strike-again.json](./211608-tsa-thieves-strike-again.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tsardoms: Total War | 356249 | [356249-tsardoms-total-war.json](./356249-tsardoms-total-war.json) |
+| Tsarevna: A Medieval Russia Quest | 72534 | [72534-tsarevna-a-medieval-russia-quest.json](./72534-tsarevna-a-medieval-russia-quest.json) |
 | Tsarevna: Age of Tales | 350213 | [350213-tsarevna-age-of-tales.json](./350213-tsarevna-age-of-tales.json) |
 | Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
 | TSI Cycles | 125274 | [125274-tsi-cycles.json](./125274-tsi-cycles.json) |
