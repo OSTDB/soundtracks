@@ -3239,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recca no Honoo: Flame of Recca - Final Burning | 61445 | [61445-recca-no-honoo-flame-of-recca-final-burning.json](./61445-recca-no-honoo-flame-of-recca-final-burning.json) |
+| Recca no Honoo: Flame of Recca - The Game | 63031 | [63031-recca-no-honoo-flame-of-recca-the-game.json](./63031-recca-no-honoo-flame-of-recca-the-game.json) |
 | Receiver | 8141 | [8141-receiver.json](./8141-receiver.json) |
 | Receiver 2 | 127489 | [127489-receiver-2.json](./127489-receiver-2.json) |
 | Receiver 2 & Receiver | 394471 | [394471-receiver-2-and-receiver.json](./394471-receiver-2-and-receiver.json) |
@@ -3264,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Death Race | 239108 | [239108-reckless-death-race.json](./239108-reckless-death-race.json) |
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
+| Reckless Getaway | 62940 | [62940-reckless-getaway.json](./62940-reckless-getaway.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Reckless Racing | 38702 | [38702-reckless-racing.json](./38702-reckless-racing.json) |
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
@@ -7674,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | Ro-Bounce | 201543 | [201543-ro-bounce.json](./201543-ro-bounce.json) |
 | Ro-Kyu-Bu! Himitsu no Otoshimono | 61406 | [61406-ro-kyu-bu-himitsu-no-otoshimono.json](./61406-ro-kyu-bu-himitsu-no-otoshimono.json) |
+| Ro-Kyu-Bu! Naisho no Shutter Chance | 63026 | [63026-ro-kyu-bu-naisho-no-shutter-chance.json](./63026-ro-kyu-bu-naisho-no-shutter-chance.json) |
 | Ro-Kyuu-Bu! | 61408 | [61408-ro-kyuu-bu.json](./61408-ro-kyuu-bu.json) |
 | RO: Idle Poring | 74770 | [74770-ro-idle-poring.json](./74770-ro-idle-poring.json) |
 | Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
@@ -9925,6 +9928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin's Way | 345810 | [345810-ronins-way.json](./345810-ronins-way.json) |
 | Ronister Adventure | 164898 | [164898-ronister-adventure.json](./164898-ronister-adventure.json) |
 | Roniu's Tale | 161178 | [161178-ronius-tale.json](./161178-ronius-tale.json) |
+| Ronja Rövardotter | 62947 | [62947-ronja-rovardotter.json](./62947-ronja-rovardotter.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
 | Ronnie O'Sullivan's Snooker | 64669 | [64669-ronnie-osullivans-snooker.json](./64669-ronnie-osullivans-snooker.json) |
