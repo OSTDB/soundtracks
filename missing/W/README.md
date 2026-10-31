@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Lurks Inside | 295095 | [295095-what-lurks-inside.json](./295095-what-lurks-inside.json) |
 | What Makes Us Special | 203213 | [203213-what-makes-us-special.json](./203213-what-makes-us-special.json) |
 | What makes you tick: A stitch in time | 22501 | [22501-what-makes-you-tick-a-stitch-in-time.json](./22501-what-makes-you-tick-a-stitch-in-time.json) |
+| What Makes You Tick? | 73059 | [73059-what-makes-you-tick.json](./73059-what-makes-you-tick.json) |
 | What Misaki holds in her hand is her deduction | 401725 | [401725-what-misaki-holds-in-her-hand-is-her-deduction.json](./401725-what-misaki-holds-in-her-hand-is-her-deduction.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What Never Was | 113512 | [113512-what-never-was.json](./113512-what-never-was.json) |
@@ -5367,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of WW2 | 174112 | [174112-wings-of-ww2.json](./174112-wings-of-ww2.json) |
 | Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
 | Wings Over Europe: Cold War Gone Hot | 23120 | [23120-wings-over-europe-cold-war-gone-hot.json](./23120-wings-over-europe-cold-war-gone-hot.json) |
+| Wings Over Israel | 73071 | [73071-wings-over-israel.json](./73071-wings-over-israel.json) |
 | Wings over Vietnam | 16320 | [16320-wings-over-vietnam.json](./16320-wings-over-vietnam.json) |
 | Wings Over Water | 397864 | [397864-wings-over-water.json](./397864-wings-over-water.json) |
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
