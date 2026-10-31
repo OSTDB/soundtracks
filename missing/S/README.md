@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Queen | 223358 | [223358-save-the-queen.json](./223358-save-the-queen.json) |
 | Save The Queen | 343783 | [343783-save-the-queen.json](./343783-save-the-queen.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
+| Save the Retrogames | 103742 | [103742-save-the-retrogames.json](./103742-save-the-retrogames.json) |
 | Save The Sailboat Race | 334231 | [334231-save-the-sailboat-race.json](./334231-save-the-sailboat-race.json) |
 | Save the School Flower Action | 195437 | [195437-save-the-school-flower-action.json](./195437-save-the-school-flower-action.json) |
 | Save the Shapes | 380604 | [380604-save-the-shapes.json](./380604-save-the-shapes.json) |
@@ -2806,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Soldier | 295742 | [295742-science-soldier.json](./295742-science-soldier.json) |
 | Science Trivia Quiz 100 Wonders | 409659 | [409659-science-trivia-quiz-100-wonders.json](./409659-science-trivia-quiz-100-wonders.json) |
 | Science: The Game | 293699 | [293699-science-the-game.json](./293699-science-the-game.json) |
+| Science:The world is in your hands | 103755 | [103755-science-the-world-is-in-your-hands.json](./103755-science-the-world-is-in-your-hands.json) |
 | Scientific Project: Optic | 258431 | [258431-scientific-project-optic.json](./258431-scientific-project-optic.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
@@ -12221,6 +12223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Cave | 188296 | [188296-slime-cave.json](./188296-slime-cave.json) |
+| Slime CCG | 103754 | [103754-slime-ccg.json](./103754-slime-ccg.json) |
 | Slime Changer | 372506 | [372506-slime-changer.json](./372506-slime-changer.json) |
 | Slime City: Trials | 389550 | [389550-slime-city-trials.json](./389550-slime-city-trials.json) |
 | Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
@@ -17673,7 +17676,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -31011,6 +31013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
 | Survive the Uprising | 224669 | [224669-survive-the-uprising.json](./224669-survive-the-uprising.json) |
+| Survive the West | 103753 | [103753-survive-the-west.json](./103753-survive-the-west.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Survive Till Morning | 223028 | [223028-survive-till-morning.json](./223028-survive-till-morning.json) |
 | Survive to Live! | 277730 | [277730-survive-to-live.json](./277730-survive-to-live.json) |
@@ -31869,6 +31872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe 3 | 256245 | [256245-swipe-3.json](./256245-swipe-3.json) |
 | Swipe Brick Breaker | 233415 | [233415-swipe-brick-breaker.json](./233415-swipe-brick-breaker.json) |
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
+| Swipe Fruit Smash | 103770 | [103770-swipe-fruit-smash.json](./103770-swipe-fruit-smash.json) |
 | Swipe Manager: Soccer 2018 | 252313 | [252313-swipe-manager-soccer-2018.json](./252313-swipe-manager-soccer-2018.json) |
 | Swipe Quest | 53695 | [53695-swipe-quest.json](./53695-swipe-quest.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
