@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPlague | 188981 | [188981-zplague.json](./188981-zplague.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | ZRun | 95366 | [95366-zrun.json](./95366-zrun.json) |
+| zStrike | 97046 | [97046-zstrike.json](./97046-zstrike.json) |
 | ZSX4 Guitarpocalypse | 80375 | [80375-zsx4-guitarpocalypse.json](./80375-zsx4-guitarpocalypse.json) |
 | Ztar Attack 0.5: Mario Escape from the Jail | 182287 | [182287-ztar-attack-0-5-mario-escape-from-the-jail.json](./182287-ztar-attack-0-5-mario-escape-from-the-jail.json) |
 | Ztar Attack 2: A Blast to the Past | 182288 | [182288-ztar-attack-2-a-blast-to-the-past.json](./182288-ztar-attack-2-a-blast-to-the-past.json) |
