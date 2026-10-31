@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget HD | 108964 | [108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json](./108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json) |
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Premature Burial - Collector's Edition | 115260 | [115260-dark-tales-edgar-allan-poes-the-premature-burial-collectors-edition.json](./115260-dark-tales-edgar-allan-poes-the-premature-burial-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Tell-Tale Heart - Collector's Edition | 105224 | [105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json](./105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json) |
 | Dark Tales: Lenore | 100642 | [100642-dark-tales-lenore.json](./100642-dark-tales-lenore.json) |
@@ -3997,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death By Taxes | 414473 | [414473-death-by-taxes.json](./414473-death-by-taxes.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Carnival | 130677 | [130677-death-carnival.json](./130677-death-carnival.json) |
+| Death Cave | 115267 | [115267-death-cave.json](./115267-death-cave.json) |
 | Death Circus | 339495 | [339495-death-circus.json](./339495-death-circus.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Code | 195950 | [195950-death-code.json](./195950-death-code.json) |
@@ -9254,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
 | Disgaea Mayhem | 335576 | [335576-disgaea-mayhem.json](./335576-disgaea-mayhem.json) |
 | Disgaea PC | 34392 | [34392-disgaea-pc.json](./34392-disgaea-pc.json) |
+| Disgaea RPG | 115271 | [115271-disgaea-rpg.json](./115271-disgaea-rpg.json) |
 | Disgaea: Afternoon of Darkness | 22528 | [22528-disgaea-afternoon-of-darkness.json](./22528-disgaea-afternoon-of-darkness.json) |
 | Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
 | Disgrace | 161563 | [161563-disgrace.json](./161563-disgrace.json) |
@@ -13620,6 +13623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest XI S: Echoes of an Elusive Age - Gorgeous Edition | 134248 | [134248-dragon-quest-xi-s-echoes-of-an-elusive-age-gorgeous-edition.json](./134248-dragon-quest-xi-s-echoes-of-an-elusive-age-gorgeous-edition.json) |
 | Dragon Quest XI: Echoes of an Elusive Age | 11667 | [11667-dragon-quest-xi-echoes-of-an-elusive-age.json](./11667-dragon-quest-xi-echoes-of-an-elusive-age.json) |
 | Dragon Quest XI: Echoes of an Elusive Age S - Ultimate Edition | 313423 | [313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json](./313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json) |
+| Dragon Quest XI: Sugisarishi Toki wo Motomete | 115277 | [115277-dragon-quest-xi-sugisarishi-toki-wo-motomete.json](./115277-dragon-quest-xi-sugisarishi-toki-wo-motomete.json) |
 | Dragon Quest XII: Beyond Dreams | 149978 | [149978-dragon-quest-xii-beyond-dreams.json](./149978-dragon-quest-xii-beyond-dreams.json) |
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
 | Dragon Quest: Monster Battle Road | 72551 | [72551-dragon-quest-monster-battle-road.json](./72551-dragon-quest-monster-battle-road.json) |
