@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo | 312566 | [312566-cargo.json](./312566-cargo.json) |
 | Cargo 19 | 325632 | [325632-cargo-19.json](./325632-cargo-19.json) |
 | Cargo 3 | 17752 | [17752-cargo-3.json](./17752-cargo-3.json) |
+| Cargo Bay Deluxe | 92799 | [92799-cargo-bay-deluxe.json](./92799-cargo-bay-deluxe.json) |
 | Cargo Breach | 372575 | [372575-cargo-breach.json](./372575-cargo-breach.json) |
 | Cargo Breach | 72511 | [72511-cargo-breach.json](./72511-cargo-breach.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
@@ -2484,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carl's Alien Shooting | 324327 | [324327-carls-alien-shooting.json](./324327-carls-alien-shooting.json) |
 | CarLife Simulator | 254000 | [254000-carlife-simulator.json](./254000-carlife-simulator.json) |
 | Carlo Adventure Legend | 138618 | [138618-carlo-adventure-legend.json](./138618-carlo-adventure-legend.json) |
+| Carlos | 92798 | [92798-carlos.json](./92798-carlos.json) |
 | Carlos and the Dark Order Mystery | 310546 | [310546-carlos-and-the-dark-order-mystery.json](./310546-carlos-and-the-dark-order-mystery.json) |
 | Carlos and the Murder Farm | 310547 | [310547-carlos-and-the-murder-farm.json](./310547-carlos-and-the-murder-farm.json) |
 | Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
@@ -7483,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
 | ChromaZone | 316704 | [316704-chromazone.json](./316704-chromazone.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
+| Chrome 2 | 92759 | [92759-chrome-2.json](./92759-chrome-2.json) |
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chrome Sweat | 251975 | [251975-chrome-sweat.json](./251975-chrome-sweat.json) |
@@ -14535,6 +14538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Simulation 2016 : 3D Town Construction Game | 100515 | [100515-crane-simulation-2016-3d-town-construction-game.json](./100515-crane-simulation-2016-3d-town-construction-game.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Cranga!: Harbor Frenzy | 31544 | [31544-cranga-harbor-frenzy.json](./31544-cranga-harbor-frenzy.json) |
+| Cranium | 92757 | [92757-cranium.json](./92757-cranium.json) |
 | Cranium: Partyland Park | 230460 | [230460-cranium-partyland-park.json](./230460-cranium-partyland-park.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Ball | 271689 | [271689-crank-and-watch-ball.json](./271689-crank-and-watch-ball.json) |
@@ -15011,6 +15015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Corn | 314362 | [314362-crazy-corn.json](./314362-crazy-corn.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
+| Crazy Cows | 92789 | [92789-crazy-cows.json](./92789-crazy-cows.json) |
 | Crazy Crab | 310987 | [310987-crazy-crab.json](./310987-crazy-crab.json) |
 | Crazy Crab | 353932 | [353932-crazy-crab.json](./353932-crazy-crab.json) |
 | Crazy Crab 2 | 354088 | [354088-crazy-crab-2.json](./354088-crazy-crab-2.json) |
@@ -17560,6 +17565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultivating Happiness | 229218 | [229218-cultivating-happiness.json](./229218-cultivating-happiness.json) |
 | Cultivating Immortals | 274641 | [274641-cultivating-immortals.json](./274641-cultivating-immortals.json) |
 | Cultivation | 378388 | [378388-cultivation.json](./378388-cultivation.json) |
+| Cultivation | 92756 | [92756-cultivation.json](./92756-cultivation.json) |
 | Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
 | Cultivation Magic World | 374882 | [374882-cultivation-magic-world.json](./374882-cultivation-magic-world.json) |
 | Cultivation of The Strong | 334527 | [334527-cultivation-of-the-strong.json](./334527-cultivation-of-the-strong.json) |
