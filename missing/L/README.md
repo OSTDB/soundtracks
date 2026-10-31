@@ -6843,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Grind Simulator | 143601 | [143601-loot-grind-simulator.json](./143601-loot-grind-simulator.json) |
 | Loot Hero | 62102 | [62102-loot-hero.json](./62102-loot-hero.json) |
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
+| Loot Heroes 2 | 101874 | [101874-loot-heroes-2.json](./101874-loot-heroes-2.json) |
 | Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Keeper | 111994 | [111994-loot-keeper.json](./111994-loot-keeper.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
