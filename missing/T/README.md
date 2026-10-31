@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
 | Tap Tap Revenge: NIN Edition | 70610 | [70610-tap-tap-revenge-nin-edition.json](./70610-tap-tap-revenge-nin-edition.json) |
 | Tap Tap Run | 193802 | [193802-tap-tap-run.json](./193802-tap-tap-run.json) |
+| Tap Tap Tap | 122612 | [122612-tap-tap-tap.json](./122612-tap-tap-tap.json) |
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
 | Tap Tap West | 95963 | [95963-tap-tap-west.json](./95963-tap-tap-west.json) |
 | Tap That Date! | 323993 | [323993-tap-that-date.json](./323993-tap-that-date.json) |
@@ -4393,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Offline | 235313 | [235313-tetra-offline.json](./235313-tetra-offline.json) |
 | Tetra Online | 140377 | [140377-tetra-online.json](./140377-tetra-online.json) |
 | Tetra Project | 119537 | [119537-tetra-project.json](./119537-tetra-project.json) |
+| Tetra Project | 122602 | [122602-tetra-project.json](./122602-tetra-project.json) |
 | Tetra Quest | 69493 | [69493-tetra-quest.json](./69493-tetra-quest.json) |
 | Tetra Rise | 379629 | [379629-tetra-rise.json](./379629-tetra-rise.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
@@ -5260,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancient Art of War in the Skies | 11901 | [11901-the-ancient-art-of-war-in-the-skies.json](./11901-the-ancient-art-of-war-in-the-skies.json) |
 | The Ancient Cat Temple | 197521 | [197521-the-ancient-cat-temple.json](./197521-the-ancient-cat-temple.json) |
 | The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
+| The Ancient Labyrinth | 122595 | [122595-the-ancient-labyrinth.json](./122595-the-ancient-labyrinth.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancient Magus' Bride: Midsummer Pilgrimage | 336511 | [336511-the-ancient-magus-bride-midsummer-pilgrimage.json](./336511-the-ancient-magus-bride-midsummer-pilgrimage.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
@@ -18273,6 +18276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Tatsu no Eikan: The Victorious Thoroughbreds | 166541 | [166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json](./166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json) |
 | Thoroughbred Tycoon | 25529 | [25529-thoroughbred-tycoon.json](./25529-thoroughbred-tycoon.json) |
 | Thoru Yamamoto's Mole Hole | 272480 | [272480-thoru-yamamotos-mole-hole.json](./272480-thoru-yamamotos-mole-hole.json) |
+| Those Chosen By God | 122574 | [122574-those-chosen-by-god.json](./122574-those-chosen-by-god.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Darn Nipples! | 60979 | [60979-those-darn-nipples.json](./60979-those-darn-nipples.json) |
 | Those Days | 179024 | [179024-those-days.json](./179024-those-days.json) |
@@ -18735,6 +18739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Flesh Consumed | 396452 | [396452-thy-flesh-consumed.json](./396452-thy-flesh-consumed.json) |
 | Thy Flesh Turned into a Draft Excluder | 140430 | [140430-thy-flesh-turned-into-a-draft-excluder.json](./140430-thy-flesh-turned-into-a-draft-excluder.json) |
 | Thy Flesh Vored | 262543 | [262543-thy-flesh-vored.json](./262543-thy-flesh-vored.json) |
+| Thy Kingdom Crumble | 122575 | [122575-thy-kingdom-crumble.json](./122575-thy-kingdom-crumble.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thy Sword | 210447 | [210447-thy-sword.json](./210447-thy-sword.json) |
 | Thy Sword | 68320 | [68320-thy-sword.json](./68320-thy-sword.json) |
@@ -30055,6 +30060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Interviewees | 176187 | [176187-two-interviewees.json](./176187-two-interviewees.json) |
 | Two Jong Cell!! | 227698 | [227698-two-jong-cell.json](./227698-two-jong-cell.json) |
 | Two Kinds of People | 410827 | [410827-two-kinds-of-people.json](./410827-two-kinds-of-people.json) |
+| Two Kingdoms | 122585 | [122585-two-kingdoms.json](./122585-two-kingdoms.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Lane | 270776 | [270776-two-lane.json](./270776-two-lane.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
