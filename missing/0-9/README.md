@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-choume no Tama: Tama and Friends - 3-choume Obake Panic!! | 49149 | [49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json](./49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json) |
 | 3-D Body Adventure | 129505 | [129505-3-d-body-adventure.json](./129505-3-d-body-adventure.json) |
 | 3-D Bomberman | 85953 | [85953-3-d-bomberman.json](./85953-3-d-bomberman.json) |
+| 3-D Bowling | 72431 | [72431-3-d-bowling.json](./72431-3-d-bowling.json) |
 | 3-D Dinosaur Adventure | 2294 | [2294-3-d-dinosaur-adventure.json](./2294-3-d-dinosaur-adventure.json) |
 | 3-D Docking Mission | 342821 | [342821-3-d-docking-mission.json](./342821-3-d-docking-mission.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
