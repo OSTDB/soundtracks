@@ -6010,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hextris | 111308 | [111308-hextris.json](./111308-hextris.json) |
 | Hextris | 183898 | [183898-hextris.json](./183898-hextris.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
+| Hextus | 104372 | [104372-hextus.json](./104372-hextus.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
 | Hexuma: Das Auge des Kal | 84271 | [84271-hexuma-das-auge-des-kal.json](./84271-hexuma-das-auge-des-kal.json) |
@@ -6508,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Mystery Stories | 47787 | [47787-hidden-objects-mystery-stories.json](./47787-hidden-objects-mystery-stories.json) |
 | Hidden Objects: Mystery Tree House - Dog Adventure: Find the Evidence Story | 101970 | [101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json](./101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json) |
 | Hidden Objects: New York Rain Storm - The Pharaohs Treasure Hunt: Spa Massage Meditation Center - California | 88348 | [88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json](./88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json) |
+| Hidden Objects: Romance with Chocolate | 104384 | [104384-hidden-objects-romance-with-chocolate.json](./104384-hidden-objects-romance-with-chocolate.json) |
 | Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
 | Hidden Objects: Secret Vampire Rooms - Lost Kingdom: My Village | 86700 | [86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json](./86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json) |
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
@@ -6859,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas: The Family Fortune | 70034 | [70034-high-seas-the-family-fortune.json](./70034-high-seas-the-family-fortune.json) |
 | High Seize | 6264 | [6264-high-seize.json](./6264-high-seize.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
+| High Speed Bridge Racing | 104374 | [104374-high-speed-bridge-racing.json](./104374-high-speed-bridge-racing.json) |
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Extreme Racing | 220822 | [220822-high-speed-extreme-racing.json](./220822-high-speed-extreme-racing.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
@@ -7453,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Back | 143658 | [143658-hit-back.json](./143658-hit-back.json) |
 | Hit Back | 342406 | [342406-hit-back.json](./342406-hit-back.json) |
 | Hit Confirmed | 164318 | [164318-hit-confirmed.json](./164318-hit-confirmed.json) |
+| Hit Devil Bear - Defence Homeland | 104377 | [104377-hit-devil-bear-defence-homeland.json](./104377-hit-devil-bear-defence-homeland.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
 | Hit Idol | 343213 | [343213-hit-idol.json](./343213-hit-idol.json) |
@@ -11352,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypercade | 126273 | [126273-hypercade.json](./126273-hypercade.json) |
 | Hypercar Evolution 2025 | 385977 | [385977-hypercar-evolution-2025.json](./385977-hypercar-evolution-2025.json) |
 | Hypercar Racing | 378762 | [378762-hypercar-racing.json](./378762-hypercar-racing.json) |
+| HyperCarsX | 104349 | [104349-hypercarsx.json](./104349-hypercarsx.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hypercharge: Unboxed - Complete Edition | 227408 | [227408-hypercharge-unboxed-complete-edition.json](./227408-hypercharge-unboxed-complete-edition.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
