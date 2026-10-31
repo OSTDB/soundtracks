@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarSphere | 253459 | [253459-warsphere.json](./253459-warsphere.json) |
 | WarSphere: The Worthy Branch | 289901 | [289901-warsphere-the-worthy-branch.json](./289901-warsphere-the-worthy-branch.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
+| Warsport | 93325 | [93325-warsport.json](./93325-warsport.json) |
 | Warstride Challenges | 148964 | [148964-warstride-challenges.json](./148964-warstride-challenges.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
 | Wart | 195350 | [195350-wart.json](./195350-wart.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wine Pong | 397155 | [397155-wine-pong.json](./397155-wine-pong.json) |
 | Wine Tycoon | 201074 | [201074-wine-tycoon.json](./201074-wine-tycoon.json) |
 | Winery Simulator | 216836 | [216836-winery-simulator.json](./216836-winery-simulator.json) |
+| WinFight | 93307 | [93307-winfight.json](./93307-winfight.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
 | Winfray | 228750 | [228750-winfray.json](./228750-winfray.json) |
 | Wing | 202164 | [202164-wing.json](./202164-wing.json) |
