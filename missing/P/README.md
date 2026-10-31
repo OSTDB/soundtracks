@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pardon My French Toast | 206041 | [206041-pardon-my-french-toast.json](./206041-pardon-my-french-toast.json) |
 | Pardus | 327913 | [327913-pardus.json](./327913-pardus.json) |
 | Pareicopse | 323598 | [323598-pareicopse.json](./323598-pareicopse.json) |
+| Pareidolia | 63594 | [63594-pareidolia.json](./63594-pareidolia.json) |
 | Pareidolia (or, Why I Saw Pac-Man Everywhere In 2020) | 143343 | [143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json](./143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | ParelVR | 410164 | [410164-parelvr.json](./410164-parelvr.json) |
@@ -4754,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasma | 90642 | [90642-phantasma.json](./90642-phantasma.json) |
 | Phantasma Hotel | 407340 | [407340-phantasma-hotel.json](./407340-phantasma-hotel.json) |
 | Phantasma Magic: Deluxe | 28832 | [28832-phantasma-magic-deluxe.json](./28832-phantasma-magic-deluxe.json) |
+| Phantasmaburbia | 63606 | [63606-phantasmaburbia.json](./63606-phantasmaburbia.json) |
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
 | Phantasmagoria 2: A Puzzle of Flesh | 222 | [222-phantasmagoria-2-a-puzzle-of-flesh.json](./222-phantasmagoria-2-a-puzzle-of-flesh.json) |
 | Phantasmal Exosteel | 377814 | [377814-phantasmal-exosteel.json](./377814-phantasmal-exosteel.json) |
