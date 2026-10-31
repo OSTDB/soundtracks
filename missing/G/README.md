@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxar | 358900 | [358900-galaxar.json](./358900-galaxar.json) |
 | Galaxi Barkonid | 66561 | [66561-galaxi-barkonid.json](./66561-galaxi-barkonid.json) |
 | Galaxi Taxi | 217365 | [217365-galaxi-taxi.json](./217365-galaxi-taxi.json) |
+| Galaxia | 92800 | [92800-galaxia.json](./92800-galaxia.json) |
 | Galaxia 7 | 60228 | [60228-galaxia-7.json](./60228-galaxia-7.json) |
 | Galaxia Conquestum | 55241 | [55241-galaxia-conquestum.json](./55241-galaxia-conquestum.json) |
 | Galaxia Reloaded | 175175 | [175175-galaxia-reloaded.json](./175175-galaxia-reloaded.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Splitter | 200953 | [200953-galaxy-splitter.json](./200953-galaxy-splitter.json) |
 | Galaxy Squad: Airplane Games | 256456 | [256456-galaxy-squad-airplane-games.json](./256456-galaxy-squad-airplane-games.json) |
 | Galaxy Stack | 113596 | [113596-galaxy-stack.json](./113596-galaxy-stack.json) |
+| Galaxy Stir | 92773 | [92773-galaxy-stir.json](./92773-galaxy-stir.json) |
 | Galaxy Storm | 233382 | [233382-galaxy-storm.json](./233382-galaxy-storm.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
 | Galaxy Survivors | 212839 | [212839-galaxy-survivors.json](./212839-galaxy-survivors.json) |
@@ -3043,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeraScopia | 236465 | [236465-gerascopia.json](./236465-gerascopia.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
+| Gerbil Riot of '67 | 92795 | [92795-gerbil-riot-of-67.json](./92795-gerbil-riot-of-67.json) |
 | Gerçeğin Ötesinde: Beyond Reality | 19152 | [19152-gercegin-otesinde-beyond-reality.json](./19152-gercegin-otesinde-beyond-reality.json) |
 | Gerda: A Flame in Winter - Modstand Bundle | 251114 | [251114-gerda-a-flame-in-winter-modstand-bundle.json](./251114-gerda-a-flame-in-winter-modstand-bundle.json) |
 | Gerel: Against the Corvus Empire | 196985 | [196985-gerel-against-the-corvus-empire.json](./196985-gerel-against-the-corvus-empire.json) |
