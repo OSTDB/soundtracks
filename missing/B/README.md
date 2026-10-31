@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balance of Power | 73206 | [73206-balance-of-power.json](./73206-balance-of-power.json) |
+| Balance of Power: 21st Century | 66327 | [66327-balance-of-power-21st-century.json](./66327-balance-of-power-21st-century.json) |
 | Balance of Power: The 1990 Edition | 14608 | [14608-balance-of-power-the-1990-edition.json](./14608-balance-of-power-the-1990-edition.json) |
 | Balance of Soccer | 102377 | [102377-balance-of-soccer.json](./102377-balance-of-soccer.json) |
 | Balance of Superpower | 275248 | [275248-balance-of-superpower.json](./275248-balance-of-superpower.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Stars II | 48296 | [48296-baseball-stars-ii.json](./48296-baseball-stars-ii.json) |
 | Baseball Stars Professional | 39595 | [39595-baseball-stars-professional.json](./39595-baseball-stars-professional.json) |
 | Baseball Stars: Pocket Sports Series | 85995 | [85995-baseball-stars-pocket-sports-series.json](./85995-baseball-stars-pocket-sports-series.json) |
+| Baseball Superstars 2010 | 66542 | [66542-baseball-superstars-2010.json](./66542-baseball-superstars-2010.json) |
 | Baseball Superstars 2011 | 66207 | [66207-baseball-superstars-2011.json](./66207-baseball-superstars-2011.json) |
 | Baseball Superstars 2012 | 38707 | [38707-baseball-superstars-2012.json](./38707-baseball-superstars-2012.json) |
 | Baseball Superstars 2013 | 38708 | [38708-baseball-superstars-2013.json](./38708-baseball-superstars-2013.json) |
@@ -11263,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
 | Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
 | Boku no Natsuyasumi | 44775 | [44775-boku-no-natsuyasumi.json](./44775-boku-no-natsuyasumi.json) |
+| Boku no Natsuyasumi 2: Umi no Bouken-hen | 66454 | [66454-boku-no-natsuyasumi-2-umi-no-bouken-hen.json](./66454-boku-no-natsuyasumi-2-umi-no-bouken-hen.json) |
 | Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen | 7379 | [7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json](./7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json) |
 | Boku no Natsuyasumi 4 | 67897 | [67897-boku-no-natsuyasumi-4.json](./67897-boku-no-natsuyasumi-4.json) |
 | Boku no Natsuyasumi Portable: Mushimushi Hakase to Teppenyama no Himitsu!! | 358630 | [358630-boku-no-natsuyasumi-portable-mushimushi-hakase-to-teppenyama-no-himitsu.json](./358630-boku-no-natsuyasumi-portable-mushimushi-hakase-to-teppenyama-no-himitsu.json) |
