@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Kai Watch Wibble Wobble | 79191 | [79191-yo-kai-watch-wibble-wobble.json](./79191-yo-kai-watch-wibble-wobble.json) |
 | Yo-Kai Watch Wibble Wobble: The Great Detective Nekomata | 397922 | [397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json](./397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json) |
 | Yo-kai Watch World | 104254 | [104254-yo-kai-watch-world.json](./104254-yo-kai-watch-world.json) |
+| Yo-kai Watch: Medal Wars | 109272 | [109272-yo-kai-watch-medal-wars.json](./109272-yo-kai-watch-medal-wars.json) |
 | Yo-Kai Watch: Puni-Puni | 199971 | [199971-yo-kai-watch-puni-puni.json](./199971-yo-kai-watch-puni-puni.json) |
 | Yo-Yo Shuriken | 134280 | [134280-yo-yo-shuriken.json](./134280-yo-yo-shuriken.json) |
 | Yo, Matias 2: Fantasmas y Calabazas | 343312 | [343312-yo-matias-2-fantasmas-y-calabazas.json](./343312-yo-matias-2-fantasmas-y-calabazas.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee and the Impossible Lair: Digital Deluxe Edition | 154557 | [154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json](./154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json) |
 | Yooka-Laylee and the Impossible Lair: Trowzer's Top Tonic Pack | 237816 | [237816-yooka-laylee-and-the-impossible-lair-trowzers-top-tonic-pack.json](./237816-yooka-laylee-and-the-impossible-lair-trowzers-top-tonic-pack.json) |
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
+| Yooka-Laylee: Collector's Edition | 109236 | [109236-yooka-laylee-collectors-edition.json](./109236-yooka-laylee-collectors-edition.json) |
 | Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
 | Yooka-Replaylee | 304740 | [304740-yooka-replaylee.json](./304740-yooka-replaylee.json) |
 | Yoomurjak's Ring | 117716 | [117716-yoomurjaks-ring.json](./117716-yoomurjaks-ring.json) |
