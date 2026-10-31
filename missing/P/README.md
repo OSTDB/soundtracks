@@ -7258,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cafe: Discovery Edition | 395682 | [395682-pixel-cafe-discovery-edition.json](./395682-pixel-cafe-discovery-edition.json) |
 | Pixel Cafe: Elite Edition | 397891 | [397891-pixel-cafe-elite-edition.json](./397891-pixel-cafe-elite-edition.json) |
 | Pixel Cafe: Full Edition | 358663 | [358663-pixel-cafe-full-edition.json](./358663-pixel-cafe-full-edition.json) |
+| Pixel Car | 74665 | [74665-pixel-car.json](./74665-pixel-car.json) |
 | Pixel Car Racer | 56154 | [56154-pixel-car-racer.json](./56154-pixel-car-racer.json) |
 | Pixel Card Crawl | 180120 | [180120-pixel-card-crawl.json](./180120-pixel-card-crawl.json) |
 | Pixel Cat's End | 225691 | [225691-pixel-cats-end.json](./225691-pixel-cats-end.json) |
@@ -14818,6 +14819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project Valkyrie | 192204 | [192204-project-valkyrie.json](./192204-project-valkyrie.json) |
 | Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
+| Project Veritex | 74839 | [74839-project-veritex.json](./74839-project-veritex.json) |
 | Project Vesperi | 260010 | [260010-project-vesperi.json](./260010-project-vesperi.json) |
 | Project Vic | 280885 | [280885-project-vic.json](./280885-project-vic.json) |
 | Project Vic 2 | 295339 | [295339-project-vic-2.json](./295339-project-vic-2.json) |
@@ -15139,6 +15141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect the Treasure | 368235 | [368235-protect-the-treasure.json](./368235-protect-the-treasure.json) |
 | Protect Your Fool | 126936 | [126936-protect-your-fool.json](./126936-protect-your-fool.json) |
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
+| Protect your planet | 74663 | [74663-protect-your-planet.json](./74663-protect-your-planet.json) |
 | Protect Your Soul | 199246 | [199246-protect-your-soul.json](./199246-protect-your-soul.json) |
 | Protect Zoey from the Zombies | 98595 | [98595-protect-zoey-from-the-zombies.json](./98595-protect-zoey-from-the-zombies.json) |
 | ProtectHeart | 286036 | [286036-protectheart.json](./286036-protectheart.json) |
