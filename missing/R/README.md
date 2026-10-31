@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok X: Next Generation | 153631 | [153631-ragnarok-x-next-generation.json](./153631-ragnarok-x-next-generation.json) |
 | Ragnarok: Back to Glory | 338348 | [338348-ragnarok-back-to-glory.json](./338348-ragnarok-back-to-glory.json) |
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
+| Ragnarok: Idle Poring | 110008 | [110008-ragnarok-idle-poring.json](./110008-ragnarok-idle-poring.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
 | Ragnarok: Path of Heroes | 60855 | [60855-ragnarok-path-of-heroes.json](./60855-ragnarok-path-of-heroes.json) |
 | Ragnarok: Tactics | 21702 | [21702-ragnarok-tactics.json](./21702-ragnarok-tactics.json) |
@@ -1114,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Mogul | 91548 | [91548-railway-mogul.json](./91548-railway-mogul.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
 | Railway Routes | 406520 | [406520-railway-routes.json](./406520-railway-routes.json) |
+| Railway Yard Master | 110007 | [110007-railway-yard-master.json](./110007-railway-yard-master.json) |
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
 | Railways: Train Simulator | 240650 | [240650-railways-train-simulator.json](./240650-railways-train-simulator.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
@@ -6810,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right Click To Activate Translator | 352362 | [352362-right-click-to-activate-translator.json](./352362-right-click-to-activate-translator.json) |
 | Right Click to Necromance | 175844 | [175844-right-click-to-necromance.json](./175844-right-click-to-necromance.json) |
 | Right or Die! | 289240 | [289240-right-or-die.json](./289240-right-or-die.json) |
+| Right Side Up | 110006 | [110006-right-side-up.json](./110006-right-side-up.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Right to Rule | 59753 | [59753-right-to-rule.json](./59753-right-to-rule.json) |
 | Right Way | 157047 | [157047-right-way.json](./157047-right-way.json) |
@@ -9151,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Raccoon | 358356 | [358356-rogue-raccoon.json](./358356-rogue-raccoon.json) |
 | Rogue Racer | 273785 | [273785-rogue-racer.json](./273785-rogue-racer.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
+| Rogue Raiders Online | 110005 | [110005-rogue-raiders-online.json](./110005-rogue-raiders-online.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Realms | 239748 | [239748-rogue-realms.json](./239748-rogue-realms.json) |
@@ -11573,6 +11577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush to Adventure | 55225 | [55225-rush-to-adventure.json](./55225-rush-to-adventure.json) |
+| Rush to Survive | 110004 | [110004-rush-to-survive.json](./110004-rush-to-survive.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush Ultimate | 337006 | [337006-rush-ultimate.json](./337006-rush-ultimate.json) |
 | Rush VR | 110864 | [110864-rush-vr.json](./110864-rush-vr.json) |
