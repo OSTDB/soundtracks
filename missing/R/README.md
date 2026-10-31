@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re.dive Wonderland | 369110 | [369110-re-dive-wonderland.json](./369110-re-dive-wonderland.json) |
 | Re.Poly | 120675 | [120675-re-poly.json](./120675-re-poly.json) |
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
+| Re[Map] | 117999 | [117999-re-map.json](./117999-re-map.json) |
 | Re/terra | 259049 | [259049-re-terra.json](./259049-re-terra.json) |
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
@@ -3351,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycling Center Simulator | 298400 | [298400-recycling-center-simulator.json](./298400-recycling-center-simulator.json) |
 | Recycling Shift | 366946 | [366946-recycling-shift.json](./366946-recycling-shift.json) |
 | Recycling Tycoon: Junk to Gems | 312413 | [312413-recycling-tycoon-junk-to-gems.json](./312413-recycling-tycoon-junk-to-gems.json) |
+| Red | 117991 | [117991-red.json](./117991-red.json) |
 | Red | 194873 | [194873-red.json](./194873-red.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
 | Red | 256661 | [256661-red.json](./256661-red.json) |
@@ -6904,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
 | Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
+| Ring the City | 118005 | [118005-ring-the-city.json](./118005-ring-the-city.json) |
 | Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
 | Ring Toss Simulator | 391003 | [391003-ring-toss-simulator.json](./391003-ring-toss-simulator.json) |
 | Ring War | 203662 | [203662-ring-war.json](./203662-ring-war.json) |
@@ -9469,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollie Panda Hat Edition | 105672 | [105672-rollie-panda-hat-edition.json](./105672-rollie-panda-hat-edition.json) |
 | Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
 | Rollin | 19227 | [19227-rollin.json](./19227-rollin.json) |
+| Rollin' Eggz | 117970 | [117970-rollin-eggz.json](./117970-rollin-eggz.json) |
 | Rollin' Gun | 317697 | [317697-rollin-gun.json](./317697-rollin-gun.json) |
 | Rollin' Rascal | 169232 | [169232-rollin-rascal.json](./169232-rollin-rascal.json) |
 | Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
@@ -10421,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roy Rattler | 298420 | [298420-roy-rattler.json](./298420-roy-rattler.json) |
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
 | Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
+| Royal Adviser | 117969 | [117969-royal-adviser.json](./117969-royal-adviser.json) |
 | Royal Affairs | 235926 | [235926-royal-affairs.json](./235926-royal-affairs.json) |
 | Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
@@ -11209,6 +11214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa | 295171 | [295171-runa.json](./295171-runa.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runa Illustra | 341659 | [341659-runa-illustra.json](./341659-runa-illustra.json) |
+| Runa's Date | 117997 | [117997-runas-date.json](./117997-runas-date.json) |
 | Runa's School Story | 114066 | [114066-runas-school-story.json](./114066-runas-school-story.json) |
 | Runabout 3D: Drive Impossible | 64850 | [64850-runabout-3d-drive-impossible.json](./64850-runabout-3d-drive-impossible.json) |
 | Runai | 368613 | [368613-runai.json](./368613-runai.json) |
