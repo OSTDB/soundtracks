@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
+| Rescue: The Beagles | 67034 | [67034-rescue-the-beagles.json](./67034-rescue-the-beagles.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
 | RescueBlade | 388121 | [388121-rescueblade.json](./388121-rescueblade.json) |
 | Rescued | 337545 | [337545-rescued.json](./337545-rescued.json) |
@@ -6273,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
 | Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
 | Rhyme Land | 306035 | [306035-rhyme-land.json](./306035-rhyme-land.json) |
+| Rhyme Player | 67037 | [67037-rhyme-player.json](./67037-rhyme-player.json) |
 | Rhyme Rider Kerorican | 37355 | [37355-rhyme-rider-kerorican.json](./37355-rhyme-rider-kerorican.json) |
 | Rhyme Star | 361719 | [361719-rhyme-star.json](./361719-rhyme-star.json) |
 | Rhyme-A-Line | 306034 | [306034-rhyme-a-line.json](./306034-rhyme-a-line.json) |
@@ -10139,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rop | 79183 | [79183-rop.json](./79183-rop.json) |
 | RoPan | 280082 | [280082-ropan.json](./280082-ropan.json) |
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
+| Rope 'n' Fly | 67018 | [67018-rope-n-fly.json](./67018-rope-n-fly.json) |
 | Rope & Ball | 262639 | [262639-rope-and-ball.json](./262639-rope-and-ball.json) |
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
 | Rope Apple Golf | 232130 | [232130-rope-apple-golf.json](./232130-rope-apple-golf.json) |
