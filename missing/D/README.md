@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius the Mailman | 294799 | [294799-darius-the-mailman.json](./294799-darius-the-mailman.json) |
 | Darius Twin | 6660 | [6660-darius-twin.json](./6660-darius-twin.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
+| Darius+ | 99336 | [99336-darius.json](./99336-darius.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
 | Dariusburst: Chronicle Saviours | 20090 | [20090-dariusburst-chronicle-saviours.json](./20090-dariusburst-chronicle-saviours.json) |
@@ -6583,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Design Your Own Railroad | 79963 | [79963-design-your-own-railroad.json](./79963-design-your-own-railroad.json) |
 | Designasaurus | 147228 | [147228-designasaurus.json](./147228-designasaurus.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
+| Desiigner's Panda Rush | 99354 | [99354-desiigners-panda-rush.json](./99354-desiigners-panda-rush.json) |
 | Desinformator | 365803 | [365803-desinformator.json](./365803-desinformator.json) |
 | Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
 | Désiré | 88080 | [88080-desire.json](./88080-desire.json) |
@@ -13092,6 +13094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
 | Drag Racing 3D | 109976 | [109976-drag-racing-3d.json](./109976-drag-racing-3d.json) |
 | Drag Racing Car Simulator | 275679 | [275679-drag-racing-car-simulator.json](./275679-drag-racing-car-simulator.json) |
+| Drag Racing Classic | 99331 | [99331-drag-racing-classic.json](./99331-drag-racing-classic.json) |
 | Drag Racing Professionals: Dirt Mechanic Simulator | 315935 | [315935-drag-racing-professionals-dirt-mechanic-simulator.json](./315935-drag-racing-professionals-dirt-mechanic-simulator.json) |
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
 | Drag Racing: Bike Edition | 235127 | [235127-drag-racing-bike-edition.json](./235127-drag-racing-bike-edition.json) |
