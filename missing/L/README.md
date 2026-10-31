@@ -9218,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
 | LuvSic | 150363 | [150363-luvsic.json](./150363-luvsic.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
+| Lux | 72442 | [72442-lux.json](./72442-lux.json) |
 | Lux Alliance | 37003 | [37003-lux-alliance.json](./37003-lux-alliance.json) |
 | Lux Delux | 35965 | [35965-lux-delux.json](./35965-lux-delux.json) |
 | Lux Delux: American History Lux | 163034 | [163034-lux-delux-american-history-lux.json](./163034-lux-delux-american-history-lux.json) |
