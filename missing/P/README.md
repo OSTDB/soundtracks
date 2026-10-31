@@ -2680,6 +2680,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile 2: The Third Edict | 380175 | [380175-path-of-exile-2-the-third-edict.json](./380175-path-of-exile-2-the-third-edict.json) |
 | Path of Exile Mobile | 125735 | [125735-path-of-exile-mobile.json](./125735-path-of-exile-mobile.json) |
+| Path of Exile: Ascendancy | 75571 | [75571-path-of-exile-ascendancy.json](./75571-path-of-exile-ascendancy.json) |
+| Path of Exile: Atlas of Worlds | 75572 | [75572-path-of-exile-atlas-of-worlds.json](./75572-path-of-exile-atlas-of-worlds.json) |
 | Path of Exile: Crucible | 257831 | [257831-path-of-exile-crucible.json](./257831-path-of-exile-crucible.json) |
 | Path of Exile: Curse of the Allflame | 411344 | [411344-path-of-exile-curse-of-the-allflame.json](./411344-path-of-exile-curse-of-the-allflame.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
@@ -2692,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Secrets of the Atlas | 350378 | [350378-path-of-exile-secrets-of-the-atlas.json](./350378-path-of-exile-secrets-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
+| Path of Exile: The Awakening | 75570 | [75570-path-of-exile-the-awakening.json](./75570-path-of-exile-the-awakening.json) |
 | Path of Exile: The Fall of Oriath | 51543 | [51543-path-of-exile-the-fall-of-oriath.json](./51543-path-of-exile-the-fall-of-oriath.json) |
 | Path of Exile: Trial of the Ancestors | 262570 | [262570-path-of-exile-trial-of-the-ancestors.json](./262570-path-of-exile-trial-of-the-ancestors.json) |
 | Path of Exile: War for the Atlas Bundle | 83765 | [83765-path-of-exile-war-for-the-atlas-bundle.json](./83765-path-of-exile-war-for-the-atlas-bundle.json) |
@@ -5376,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
 | Piatka | 55779 | [55779-piatka.json](./55779-piatka.json) |
+| PiAwk | 75550 | [75550-piawk.json](./75550-piawk.json) |
 | Pibby: Apocalypse | 266182 | [266182-pibby-apocalypse.json](./266182-pibby-apocalypse.json) |
 | Pibcremental | 403940 | [403940-pibcremental.json](./403940-pibcremental.json) |
 | Pic Guesser | 28736 | [28736-pic-guesser.json](./28736-pic-guesser.json) |
@@ -7187,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pivot XL | 99426 | [99426-pivot-xl.json](./99426-pivot-xl.json) |
 | Pivotal | 176151 | [176151-pivotal.json](./176151-pivotal.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
+| Pivoto | 75549 | [75549-pivoto.json](./75549-pivoto.json) |
 | Pivross | 96125 | [96125-pivross.json](./96125-pivross.json) |
 | Pivvot | 17285 | [17285-pivvot.json](./17285-pivvot.json) |
 | Piwall | 81939 | [81939-piwall.json](./81939-piwall.json) |
@@ -16748,6 +16753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Machine | 341431 | [341431-puzzle-machine.json](./341431-puzzle-machine.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
 | Puzzle Mania | 213913 | [213913-puzzle-mania.json](./213913-puzzle-mania.json) |
+| Puzzle Mania | 75538 | [75538-puzzle-mania.json](./75538-puzzle-mania.json) |
 | Puzzle Mania 2 | 213916 | [213916-puzzle-mania-2.json](./213916-puzzle-mania-2.json) |
 | Puzzle Mania: Chronicles of the Unicorn | 73523 | [73523-puzzle-mania-chronicles-of-the-unicorn.json](./73523-puzzle-mania-chronicles-of-the-unicorn.json) |
 | Puzzle Master | 108369 | [108369-puzzle-master.json](./108369-puzzle-master.json) |
