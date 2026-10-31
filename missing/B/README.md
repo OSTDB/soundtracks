@@ -4595,6 +4595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast of Reincarnation | 348180 | [348180-beast-of-reincarnation.json](./348180-beast-of-reincarnation.json) |
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Park | 281950 | [281950-beast-park.json](./281950-beast-park.json) |
+| Beast Quest | 90331 | [90331-beast-quest.json](./90331-beast-quest.json) |
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
 | Beast Saga | 334624 | [334624-beast-saga.json](./334624-beast-saga.json) |
 | Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
@@ -15229,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy City Inc. | 383458 | [383458-buddy-city-inc.json](./383458-buddy-city-inc.json) |
 | Buddy Collection | 241521 | [241521-buddy-collection.json](./241521-buddy-collection.json) |
 | Buddy Collection Extra: Kochousou no Kimyou na Go-nin | 222201 | [222201-buddy-collection-extra-kochousou-no-kimyou-na-go-nin.json](./222201-buddy-collection-extra-kochousou-no-kimyou-na-go-nin.json) |
+| Buddy Flip | 90328 | [90328-buddy-flip.json](./90328-buddy-flip.json) |
 | Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
