@@ -6193,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boons of IIUIR | 374690 | [374690-the-boons-of-iiuir.json](./374690-the-boons-of-iiuir.json) |
 | The Booty Creek Cheek Freak | 303318 | [303318-the-booty-creek-cheek-freak.json](./303318-the-booty-creek-cheek-freak.json) |
 | The Booze of Monkey Island | 321206 | [321206-the-booze-of-monkey-island.json](./321206-the-booze-of-monkey-island.json) |
+| The Border Lands | 64696 | [64696-the-border-lands.json](./64696-the-border-lands.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Bornless | 194855 | [194855-the-bornless.json](./194855-the-bornless.json) |
 | The Boss | 13426 | [13426-the-boss.json](./13426-the-boss.json) |
@@ -18914,6 +18915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder League Online | 195169 | [195169-thunder-league-online.json](./195169-thunder-league-online.json) |
 | Thunder of the DemonKing | 352110 | [352110-thunder-of-the-demonking.json](./352110-thunder-of-the-demonking.json) |
+| Thunder Offshore | 64756 | [64756-thunder-offshore.json](./64756-thunder-offshore.json) |
 | Thunder Paw | 117445 | [117445-thunder-paw.json](./117445-thunder-paw.json) |
 | Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
@@ -29653,6 +29655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
+| Tunnel Tail | 64755 | [64755-tunnel-tail.json](./64755-tunnel-tail.json) |
 | Tunnel Terror | 69514 | [69514-tunnel-terror.json](./69514-tunnel-terror.json) |
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
