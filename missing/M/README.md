@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mado Paf! | 229263 | [229263-mado-paf.json](./229263-mado-paf.json) |
 | Madohi Shiroki no Kamikakushi | 188784 | [188784-madohi-shiroki-no-kamikakushi.json](./188784-madohi-shiroki-no-kamikakushi.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
+| Madoka Etoile | 82570 | [82570-madoka-etoile.json](./82570-madoka-etoile.json) |
 | Madoka Magica Grief Syndrome | 27361 | [27361-madoka-magica-grief-syndrome.json](./27361-madoka-magica-grief-syndrome.json) |
 | Madoka Magica Magia Exedra | 307774 | [307774-madoka-magica-magia-exedra.json](./307774-madoka-magica-magia-exedra.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magink | 125877 | [125877-magink.json](./125877-magink.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magipanels | 218923 | [218923-magipanels.json](./218923-magipanels.json) |
+| Magipon! | 82562 | [82562-magipon.json](./82562-magipon.json) |
 | Magirune | 119399 | [119399-magirune.json](./119399-magirune.json) |
 | Magirune 2 | 197178 | [197178-magirune-2.json](./197178-magirune-2.json) |
 | Magiscapes | 319287 | [319287-magiscapes.json](./319287-magiscapes.json) |
@@ -1637,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic: Cage Closed | 20888 | [20888-magnetic-cage-closed.json](./20888-magnetic-cage-closed.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
+| Magnetism | 82566 | [82566-magnetism.json](./82566-magnetism.json) |
 | Magnetism Rally | 257263 | [257263-magnetism-rally.json](./257263-magnetism-rally.json) |
 | Magnetized | 31113 | [31113-magnetized.json](./31113-magnetized.json) |
 | Magnetized Knight | 115795 | [115795-magnetized-knight.json](./115795-magnetized-knight.json) |
@@ -2157,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majewelick Impact | 133730 | [133730-majewelick-impact.json](./133730-majewelick-impact.json) |
 | Majewelune World Special | 50370 | [50370-majewelune-world-special.json](./50370-majewelune-world-special.json) |
 | Maji de Daiya Runba | 257187 | [257187-maji-de-daiya-runba.json](./257187-maji-de-daiya-runba.json) |
+| Maji de DiaRunba! | 82553 | [82553-maji-de-diarunba.json](./82553-maji-de-diarunba.json) |
 | Maji de Watashi ni Koishinasai! A Plus Disk | 112295 | [112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json](./112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json) |
 | Maji de Watashi ni Koishinasai! A-1 | 112291 | [112291-maji-de-watashi-ni-koishinasai-a-1.json](./112291-maji-de-watashi-ni-koishinasai-a-1.json) |
 | Maji de Watashi ni Koishinasai! A-2 | 112292 | [112292-maji-de-watashi-ni-koishinasai-a-2.json](./112292-maji-de-watashi-ni-koishinasai-a-2.json) |
@@ -9342,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mewnbase | 54984 | [54984-mewnbase.json](./54984-mewnbase.json) |
 | Mewseum: Film Festival | 391165 | [391165-mewseum-film-festival.json](./391165-mewseum-film-festival.json) |
 | Mewseum: Masterpieces | 332971 | [332971-mewseum-masterpieces.json](./332971-mewseum-masterpieces.json) |
+| MewSim | 82552 | [82552-mewsim.json](./82552-mewsim.json) |
 | Mewts | 388949 | [388949-mewts.json](./388949-mewts.json) |
 | Mexe mexe tupi | 231204 | [231204-mexe-mexe-tupi.json](./231204-mexe-mexe-tupi.json) |
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
@@ -12045,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minty Fresh Adventure | 342826 | [342826-minty-fresh-adventure.json](./342826-minty-fresh-adventure.json) |
 | Minty Monkey | 307098 | [307098-minty-monkey.json](./307098-minty-monkey.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
+| Minus 48 Degrees | 82568 | [82568-minus-48-degrees.json](./82568-minus-48-degrees.json) |
 | Minus 8 | 195856 | [195856-minus-8.json](./195856-minus-8.json) |
 | Minus Nine | 396014 | [396014-minus-nine.json](./396014-minus-nine.json) |
 | Minus Zero | 33835 | [33835-minus-zero.json](./33835-minus-zero.json) |
@@ -14004,6 +14010,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolith: The Horror Comp | 280711 | [280711-monolith-the-horror-comp.json](./280711-monolith-the-horror-comp.json) |
 | Monolith's Dreamers | 343261 | [343261-monoliths-dreamers.json](./343261-monoliths-dreamers.json) |
 | Monolithic | 151269 | [151269-monolithic.json](./151269-monolithic.json) |
+| Monolithic Candle Chapter.1 | 82517 | [82517-monolithic-candle-chapter-1.json](./82517-monolithic-candle-chapter-1.json) |
+| Monolithic Candle Chapter.2 | 82518 | [82518-monolithic-candle-chapter-2.json](./82518-monolithic-candle-chapter-2.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
 | Monomals | 117017 | [117017-monomals.json](./117017-monomals.json) |
@@ -14952,6 +14960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon and Away | 414619 | [414619-moon-and-away.json](./414619-moon-and-away.json) |
 | Moon and Fang | 390752 | [390752-moon-and-fang.json](./390752-moon-and-fang.json) |
 | Moon and Lou | 153785 | [153785-moon-and-lou.json](./153785-moon-and-lou.json) |
+| Moon and the conductors | 82520 | [82520-moon-and-the-conductors.json](./82520-moon-and-the-conductors.json) |
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Base | 167032 | [167032-moon-base.json](./167032-moon-base.json) |
