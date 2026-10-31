@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
 | Harrier Combat Simulator | 73116 | [73116-harrier-combat-simulator.json](./73116-harrier-combat-simulator.json) |
 | Harrier Desse | 266329 | [266329-harrier-desse.json](./266329-harrier-desse.json) |
+| Harrier Jump Jet | 73977 | [73977-harrier-jump-jet.json](./73977-harrier-jump-jet.json) |
 | Harrier Strike Mission | 44080 | [44080-harrier-strike-mission.json](./44080-harrier-strike-mission.json) |
 | Harriet: From Slave to Hero | 195440 | [195440-harriet-from-slave-to-hero.json](./195440-harriet-from-slave-to-hero.json) |
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
@@ -8393,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Run King | 3947 | [3947-home-run-king.json](./3947-home-run-king.json) |
 | Home Run Nighter '90: The Pennant League | 48468 | [48468-home-run-nighter-90-the-pennant-league.json](./48468-home-run-nighter-90-the-pennant-league.json) |
 | Home Run Nighter: Pennant League!! | 48469 | [48469-home-run-nighter-pennant-league.json](./48469-home-run-nighter-pennant-league.json) |
+| Home Run Solitaire | 74115 | [74115-home-run-solitaire.json](./74115-home-run-solitaire.json) |
 | Home Run Stars | 20236 | [20236-home-run-stars.json](./20236-home-run-stars.json) |
 | Home Runtaro | 257009 | [257009-home-runtaro.json](./257009-home-runtaro.json) |
 | Home Safe and Silent | 160122 | [160122-home-safe-and-silent.json](./160122-home-safe-and-silent.json) |
