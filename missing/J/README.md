@@ -2861,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: The Curse Returns - Ultimate Movie Game Bundle | 312087 | [312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json](./312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
 | Jumanji: The Curse Returns - Winter Resort | 203786 | [203786-jumanji-the-curse-returns-winter-resort.json](./203786-jumanji-the-curse-returns-winter-resort.json) |
+| Jumanji: The Mobile Game | 98191 | [98191-jumanji-the-mobile-game.json](./98191-jumanji-the-mobile-game.json) |
 | Jumanji: The VR Adventure | 82350 | [82350-jumanji-the-vr-adventure.json](./82350-jumanji-the-vr-adventure.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
 | Jumba's Lab | 338408 | [338408-jumbas-lab.json](./338408-jumbas-lab.json) |
