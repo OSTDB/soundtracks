@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargon Chess | 46568 | [46568-sargon-chess.json](./46568-sargon-chess.json) |
 | Sargon I | 83263 | [83263-sargon-i.json](./83263-sargon-i.json) |
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
+| Sargon III | 70171 | [70171-sargon-iii.json](./70171-sargon-iii.json) |
 | Sargon's Lair | 107760 | [107760-sargons-lair.json](./107760-sargons-lair.json) |
 | Saria Reclaimed | 255637 | [255637-saria-reclaimed.json](./255637-saria-reclaimed.json) |
 | Sariel's Day Out | 371416 | [371416-sariels-day-out.json](./371416-sariels-day-out.json) |
@@ -2585,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger Zero | 334184 | [334184-scavenger-zero.json](./334184-scavenger-zero.json) |
 | Scavenger's Deep | 201132 | [201132-scavengers-deep.json](./201132-scavengers-deep.json) |
 | Scavengers | 91041 | [91041-scavengers.json](./91041-scavengers.json) |
+| Scavengers of the Mutant World | 70185 | [70185-scavengers-of-the-mutant-world.json](./70185-scavengers-of-the-mutant-world.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scawy Game | 414867 | [414867-scawy-game.json](./414867-scawy-game.json) |
 | SCE_2 | 392835 | [392835-sce-2.json](./392835-sce-2.json) |
@@ -13162,6 +13164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smiles Incorporated | 176285 | [176285-smiles-incorporated.json](./176285-smiles-incorporated.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
+| SmileTris Panic! | 70193 | [70193-smiletris-panic.json](./70193-smiletris-panic.json) |
 | SmileXCorp 3 | 236945 | [236945-smilexcorp-3.json](./236945-smilexcorp-3.json) |
 | Smiley | 403670 | [403670-smiley.json](./403670-smiley.json) |
 | Smiley Commandos | 69918 | [69918-smiley-commandos.json](./69918-smiley-commandos.json) |
@@ -15083,6 +15086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Dash TriPeaks Islands | 95846 | [95846-solitaire-dash-tripeaks-islands.json](./95846-solitaire-dash-tripeaks-islands.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
+| Solitaire Deluxe | 70257 | [70257-solitaire-deluxe.json](./70257-solitaire-deluxe.json) |
 | Solitaire Deluxe 2 | 88855 | [88855-solitaire-deluxe-2.json](./88855-solitaire-deluxe-2.json) |
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
 | Solitaire Detective 2: Accidental Witness | 336982 | [336982-solitaire-detective-2-accidental-witness.json](./336982-solitaire-detective-2-accidental-witness.json) |
@@ -16538,6 +16542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soothing Farmer | 216894 | [216894-soothing-farmer.json](./216894-soothing-farmer.json) |
 | Soothsayer: The Oraclepus Knows All | 243101 | [243101-soothsayer-the-oraclepus-knows-all.json](./243101-soothsayer-the-oraclepus-knows-all.json) |
 | Sooty & Sweep | 255896 | [255896-sooty-and-sweep.json](./255896-sooty-and-sweep.json) |
+| Sooty's Fun With Numbers | 70195 | [70195-sootys-fun-with-numbers.json](./70195-sootys-fun-with-numbers.json) |
 | Sooty's Revenge | 311284 | [311284-sootys-revenge.json](./311284-sootys-revenge.json) |
 | Sopa: Tale of the Stolen Potato | 197073 | [197073-sopa-tale-of-the-stolen-potato.json](./197073-sopa-tale-of-the-stolen-potato.json) |
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
@@ -17554,6 +17559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Colonizers: The Sandbox | 261425 | [261425-space-colonizers-the-sandbox.json](./261425-space-colonizers-the-sandbox.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
+| Space Combat | 70197 | [70197-space-combat.json](./70197-space-combat.json) |
 | Space Combat Simulator | 292677 | [292677-space-combat-simulator.json](./292677-space-combat-simulator.json) |
 | Space Combat: Galaxy Wars | 255726 | [255726-space-combat-galaxy-wars.json](./255726-space-combat-galaxy-wars.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
@@ -17833,7 +17839,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27938,6 +27943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
 | Super Bubble Pop | 248454 | [248454-super-bubble-pop.json](./248454-super-bubble-pop.json) |
 | Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
+| Super Bubsy | 70261 | [70261-super-bubsy.json](./70261-super-bubsy.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
 | Super Bug 2 | 288259 | [288259-super-bug-2.json](./288259-super-bug-2.json) |
 | Super Bug Hunters | 368996 | [368996-super-bug-hunters.json](./368996-super-bug-hunters.json) |
@@ -28469,6 +28475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hot Potato | 148168 | [148168-super-hot-potato.json](./148168-super-hot-potato.json) |
 | Super House of Dead Ninjas: True Ninja Pack | 263128 | [263128-super-house-of-dead-ninjas-true-ninja-pack.json](./263128-super-house-of-dead-ninjas-true-ninja-pack.json) |
 | Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
+| Super Huey III | 70256 | [70256-super-huey-iii.json](./70256-super-huey-iii.json) |
 | Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
 | Super Hyper Hippo | 315889 | [315889-super-hyper-hippo.json](./315889-super-hyper-hippo.json) |
