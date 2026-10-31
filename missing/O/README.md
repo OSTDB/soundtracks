@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Wonderland | 403157 | [403157-our-wonderland.json](./403157-our-wonderland.json) |
 | Our world has not decayed | 121302 | [121302-our-world-has-not-decayed.json](./121302-our-world-has-not-decayed.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
+| Our Worst Fears | 110610 | [110610-our-worst-fears.json](./110610-our-worst-fears.json) |
 | Our: Defense 2021 | 195900 | [195900-our-defense-2021.json](./195900-our-defense-2021.json) |
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
 | Ouranos! | 58567 | [58567-ouranos.json](./58567-ouranos.json) |
