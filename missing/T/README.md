@@ -4582,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Splash | 20766 | [20766-tetris-splash.json](./20766-tetris-splash.json) |
 | Tetris Time Warp | 333775 | [333775-tetris-time-warp.json](./333775-tetris-time-warp.json) |
 | Tetris Ultimate | 8194 | [8194-tetris-ultimate.json](./8194-tetris-ultimate.json) |
+| Tetris with Cardcaptor Sakura: Eternal Heart | 80285 | [80285-tetris-with-cardcaptor-sakura-eternal-heart.json](./80285-tetris-with-cardcaptor-sakura-eternal-heart.json) |
 | Tetris Worlds | 243183 | [243183-tetris-worlds.json](./243183-tetris-worlds.json) |
 | Tetris Worlds: Online Edition | 23709 | [23709-tetris-worlds-online-edition.json](./23709-tetris-worlds-online-edition.json) |
 | Tetris X | 43727 | [43727-tetris-x.json](./43727-tetris-x.json) |
@@ -10342,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joker's Wild Jr. | 45888 | [45888-the-jokers-wild-jr.json](./45888-the-jokers-wild-jr.json) |
 | The Jolly Gang's Misadventures in Africa | 53751 | [53751-the-jolly-gangs-misadventures-in-africa.json](./53751-the-jolly-gangs-misadventures-in-africa.json) |
 | The Jolly Gangs Spooky Adventure | 53752 | [53752-the-jolly-gangs-spooky-adventure.json](./53752-the-jolly-gangs-spooky-adventure.json) |
+| The Jongg CD | 80184 | [80184-the-jongg-cd.json](./80184-the-jongg-cd.json) |
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journalist | 280111 | [280111-the-journalist.json](./280111-the-journalist.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
@@ -14004,6 +14006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raintime | 121396 | [121396-the-raintime.json](./121396-the-raintime.json) |
 | The Rainy Night | 373693 | [373693-the-rainy-night.json](./373693-the-rainy-night.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
+| The Rake | 80256 | [80256-the-rake.json](./80256-the-rake.json) |
 | The Rake Sees You | 402713 | [402713-the-rake-sees-you.json](./402713-the-rake-sees-you.json) |
 | The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
 | The Rake: Hostel | 342195 | [342195-the-rake-hostel.json](./342195-the-rake-hostel.json) |
