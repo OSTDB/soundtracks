@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy: Zeuon no Fukkatsu | 41244 | [41244-dandy-zeuon-no-fukkatsu.json](./41244-dandy-zeuon-no-fukkatsu.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
+| Daneta3 | 98173 | [98173-daneta3.json](./98173-daneta3.json) |
 | Dang Darn Island | 373800 | [373800-dang-darn-island.json](./373800-dang-darn-island.json) |
 | Dangan | 246216 | [246216-dangan.json](./246216-dangan.json) |
 | Dangan GB | 116963 | [116963-dangan-gb.json](./116963-dangan-gb.json) |
@@ -8460,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Drive: Limited Edition | 167045 | [167045-dimension-drive-limited-edition.json](./167045-dimension-drive-limited-edition.json) |
 | Dimension Escape | 330111 | [330111-dimension-escape.json](./330111-dimension-escape.json) |
 | Dimension Fight | 286789 | [286789-dimension-fight.json](./286789-dimension-fight.json) |
+| Dimension Hunter VR | 98212 | [98212-dimension-hunter-vr.json](./98212-dimension-hunter-vr.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
 | Dimension of Dreams | 155881 | [155881-dimension-of-dreams.json](./155881-dimension-of-dreams.json) |
 | Dimension of Gameth | 110722 | [110722-dimension-of-gameth.json](./110722-dimension-of-gameth.json) |
@@ -12986,6 +12988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
 | Draconius GO | 74900 | [74900-draconius-go.json](./74900-draconius-go.json) |
+| Draconius GO: Catch a Dragon! | 98170 | [98170-draconius-go-catch-a-dragon.json](./98170-draconius-go-catch-a-dragon.json) |
 | Draconus: Cult of the Wyrm | 9189 | [9189-draconus-cult-of-the-wyrm.json](./9189-draconus-cult-of-the-wyrm.json) |
 | Dracoslayer | 273501 | [273501-dracoslayer.json](./273501-dracoslayer.json) |
 | Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
