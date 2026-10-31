@@ -27219,6 +27219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit | 113505 | [113505-transit.json](./113505-transit.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
 | Transit City Touch | 103068 | [103068-transit-city-touch.json](./103068-transit-city-touch.json) |
+| Transit King | 75530 | [75530-transit-king.json](./75530-transit-king.json) |
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
 | Transit Trauma | 179454 | [179454-transit-trauma.json](./179454-transit-trauma.json) |
 | Transition | 229838 | [229838-transition.json](./229838-transition.json) |
@@ -30668,6 +30669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrants Rafting | 405875 | [405875-tyrants-rafting.json](./405875-tyrants-rafting.json) |
 | Tyrants: Fight Through Time | 12183 | [12183-tyrants-fight-through-time.json](./12183-tyrants-fight-through-time.json) |
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
+| Tyred | 75539 | [75539-tyred.json](./75539-tyred.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrian 2000 | 14432 | [14432-tyrian-2000.json](./14432-tyrian-2000.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
