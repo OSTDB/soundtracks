@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warau Salesman 3 | 239576 | [239576-warau-salesman-3.json](./239576-warau-salesman-3.json) |
 | Warau Warawau | 147225 | [147225-warau-warawau.json](./147225-warau-warawau.json) |
 | Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
+| Warawara Invaders | 90323 | [90323-warawara-invaders.json](./90323-warawara-invaders.json) |
 | Warband | 402459 | [402459-warband.json](./402459-warband.json) |
 | Warband Survivors | 311177 | [311177-warband-survivors.json](./311177-warband-survivors.json) |
 | Warbanners | 44166 | [44166-warbanners.json](./44166-warbanners.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Happy Few | 9182 | [9182-we-happy-few.json](./9182-we-happy-few.json) |
+| We Happy Few: Deluxe Edition | 90296 | [90296-we-happy-few-deluxe-edition.json](./90296-we-happy-few-deluxe-edition.json) |
 | We Happy Few: They Came From Below | 116682 | [116682-we-happy-few-they-came-from-below.json](./116682-we-happy-few-they-came-from-below.json) |
 | We Happy Few: Uncle Jack Live VR | 106852 | [106852-we-happy-few-uncle-jack-live-vr.json](./106852-we-happy-few-uncle-jack-live-vr.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
@@ -5984,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With the Last Moonbeam | 247121 | [247121-with-the-last-moonbeam.json](./247121-with-the-last-moonbeam.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
+| With Your Destiny | 90317 | [90317-with-your-destiny.json](./90317-with-your-destiny.json) |
 | With Your Mom's Tits | 181487 | [181487-with-your-moms-tits.json](./181487-with-your-moms-tits.json) |
 | Wither | 376822 | [376822-wither.json](./376822-wither.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
