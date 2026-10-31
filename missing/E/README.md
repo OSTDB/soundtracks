@@ -6318,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody Shogi | 355852 | [355852-everybody-shogi.json](./355852-everybody-shogi.json) |
 | Everybody Wants My Girl | 370744 | [370744-everybody-wants-my-girl.json](./370744-everybody-wants-my-girl.json) |
 | Everybody Wham Wham | 142923 | [142923-everybody-wham-wham.json](./142923-everybody-wham-wham.json) |
+| Everybody, Hearts! | 117944 | [117944-everybody-hearts.json](./117944-everybody-hearts.json) |
 | Everybody's Golf | 28187 | [28187-everybodys-golf.json](./28187-everybodys-golf.json) |
 | Everybody's Golf Mobile | 44075 | [44075-everybodys-golf-mobile.json](./44075-everybodys-golf-mobile.json) |
 | Everybody's Golf Portable: Coca Cola Special Edition | 73361 | [73361-everybodys-golf-portable-coca-cola-special-edition.json](./73361-everybodys-golf-portable-coca-cola-special-edition.json) |
@@ -6482,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
 | Evil Nightmares | 219652 | [219652-evil-nightmares.json](./219652-evil-nightmares.json) |
+| Evil Nun | 117958 | [117958-evil-nun.json](./117958-evil-nun.json) |
 | Evil Nun 2: Origins | 269425 | [269425-evil-nun-2-origins.json](./269425-evil-nun-2-origins.json) |
 | Evil Nun Maze | 356568 | [356568-evil-nun-maze.json](./356568-evil-nun-maze.json) |
 | Evil Nun Rush | 208177 | [208177-evil-nun-rush.json](./208177-evil-nun-rush.json) |
