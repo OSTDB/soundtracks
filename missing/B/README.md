@@ -7153,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill's Hotel | 176754 | [176754-bills-hotel.json](./176754-bills-hotel.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
 | Billard | 40763 | [40763-billard.json](./40763-billard.json) |
+| Bille & Trille: Da Fantasien slap løs | 78394 | [78394-bille-and-trille-da-fantasien-slap-l-s.json](./78394-bille-and-trille-da-fantasien-slap-l-s.json) |
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
@@ -12138,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borbs | 411526 | [411526-borbs.json](./411526-borbs.json) |
 | Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
+| Border Break: Sega Network Robot Wars | 78434 | [78434-border-break-sega-network-robot-wars.json](./78434-border-break-sega-network-robot-wars.json) |
 | Border Clash | 266089 | [266089-border-clash.json](./266089-border-clash.json) |
 | Border Down | 6717 | [6717-border-down.json](./6717-border-down.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
@@ -13745,6 +13747,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break It | 199730 | [199730-break-it.json](./199730-break-it.json) |
+| Break it 1 | 78432 | [78432-break-it-1.json](./78432-break-it-1.json) |
+| Break It 3 | 78433 | [78433-break-it-3.json](./78433-break-it-3.json) |
 | Break It Down | 149912 | [149912-break-it-down.json](./149912-break-it-down.json) |
 | Break It Out | 99194 | [99194-break-it-out.json](./99194-break-it-out.json) |
 | Break It Out 2 | 196622 | [196622-break-it-out-2.json](./196622-break-it-out-2.json) |
@@ -14990,6 +14994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble 4 Friends | 121708 | [121708-bubble-bobble-4-friends.json](./121708-bubble-bobble-4-friends.json) |
 | Bubble Bobble 4 Friends: Special Edition | 136075 | [136075-bubble-bobble-4-friends-special-edition.json](./136075-bubble-bobble-4-friends-special-edition.json) |
 | Bubble Bobble 4 Friends: The Baron Is Back! | 139837 | [139837-bubble-bobble-4-friends-the-baron-is-back.json](./139837-bubble-bobble-4-friends-the-baron-is-back.json) |
+| Bubble Bobble Also Featuring Rainbow Islands | 78385 | [78385-bubble-bobble-also-featuring-rainbow-islands.json](./78385-bubble-bobble-also-featuring-rainbow-islands.json) |
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
 | Bubble Bobble Double Shot | 20672 | [20672-bubble-bobble-double-shot.json](./20672-bubble-bobble-double-shot.json) |
 | Bubble Bobble Evolution | 38483 | [38483-bubble-bobble-evolution.json](./38483-bubble-bobble-evolution.json) |
