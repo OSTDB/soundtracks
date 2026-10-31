@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Stewie 2.0 | 257843 | [257843-family-guy-stewie-2-0.json](./257843-family-guy-stewie-2-0.json) |
 | Family Guy: The Quest for Stuff | 38908 | [38908-family-guy-the-quest-for-stuff.json](./38908-family-guy-the-quest-for-stuff.json) |
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
+| Family Guy: Uncensored | 65231 | [65231-family-guy-uncensored.json](./65231-family-guy-uncensored.json) |
 | Family Hidden Secret | 368258 | [368258-family-hidden-secret.json](./368258-family-hidden-secret.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family in Puzzle House | 261163 | [261163-family-in-puzzle-house.json](./261163-family-in-puzzle-house.json) |
@@ -6242,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisticuffs: An Arcade Boxing Game | 240193 | [240193-fisticuffs-an-arcade-boxing-game.json](./240193-fisticuffs-an-arcade-boxing-game.json) |
 | Fists For Fighting Fx3 | 212305 | [212305-fists-for-fighting-fx3.json](./212305-fists-for-fighting-fx3.json) |
 | Fists of Invokers | 199500 | [199500-fists-of-invokers.json](./199500-fists-of-invokers.json) |
+| Fists of Resistance | 65374 | [65374-fists-of-resistance.json](./65374-fists-of-resistance.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit | 102731 | [102731-fit.json](./102731-fit.json) |
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
@@ -9833,6 +9835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foster's Home For Imaginary Friends: A Friend In Need | 277157 | [277157-fosters-home-for-imaginary-friends-a-friend-in-need.json](./277157-fosters-home-for-imaginary-friends-a-friend-in-need.json) |
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
 | Foster's Home for Imaginary Friends: Simply Smashing | 194807 | [194807-fosters-home-for-imaginary-friends-simply-smashing.json](./194807-fosters-home-for-imaginary-friends-simply-smashing.json) |
+| Foster's Home for Imaginary Friends: The Golden Paddleball | 65153 | [65153-fosters-home-for-imaginary-friends-the-golden-paddleball.json](./65153-fosters-home-for-imaginary-friends-the-golden-paddleball.json) |
 | Foster's Home for Imaginary Friends: Wilt's Wash N' Swoosh | 194806 | [194806-fosters-home-for-imaginary-friends-wilts-wash-n-swoosh.json](./194806-fosters-home-for-imaginary-friends-wilts-wash-n-swoosh.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Fostiator | 316793 | [316793-fostiator.json](./316793-fostiator.json) |
