@@ -5066,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster: Master the Basics | 59343 | [59343-math-blaster-master-the-basics.json](./59343-math-blaster-master-the-basics.json) |
 | Math Blaster! | 10668 | [10668-math-blaster.json](./10668-math-blaster.json) |
 | Math Blazer | 92643 | [92643-math-blazer.json](./92643-math-blazer.json) |
+| Math Blocks | 89559 | [89559-math-blocks.json](./89559-math-blocks.json) |
 | Math Bridges: Learn Bridging to friendly numbers | 97140 | [97140-math-bridges-learn-bridging-to-friendly-numbers.json](./97140-math-bridges-learn-bridging-to-friendly-numbers.json) |
 | Math C | 106554 | [106554-math-c.json](./106554-math-c.json) |
 | Math Castle | 46643 | [46643-math-castle.json](./46643-math-castle.json) |
@@ -17976,6 +17977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
 | Muv-Luv / Muv-Luv Alternative Remastered Double Pack | 308624 | [308624-muv-luv-muv-luv-alternative-remastered-double-pack.json](./308624-muv-luv-muv-luv-alternative-remastered-double-pack.json) |
 | Muv-Luv Alternative Remastered | 308622 | [308622-muv-luv-alternative-remastered.json](./308622-muv-luv-alternative-remastered.json) |
+| Muv-Luv Complete Set: Collector's Edition | 89569 | [89569-muv-luv-complete-set-collectors-edition.json](./89569-muv-luv-complete-set-collectors-edition.json) |
 | Muv-Luv Integrate | 154845 | [154845-muv-luv-integrate.json](./154845-muv-luv-integrate.json) |
 | Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
 | Muv-Luv Remastered | 308623 | [308623-muv-luv-remastered.json](./308623-muv-luv-remastered.json) |
@@ -19480,6 +19482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
 | MySims: Cozy Bundle | 315058 | [315058-mysims-cozy-bundle.json](./315058-mysims-cozy-bundle.json) |
+| MySolar: Build your Planets | 89576 | [89576-mysolar-build-your-planets.json](./89576-mysolar-build-your-planets.json) |
 | Mysperyence | 195113 | [195113-mysperyence.json](./195113-mysperyence.json) |
 | Mysperyence Story 1: The Curious Case of the Headless Magnate | 207899 | [207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json](./207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json) |
 | Myst | 236 | [236-myst.json](./236-myst.json) |
