@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Turning Simulator | 317266 | [317266-car-turning-simulator.json](./317266-car-turning-simulator.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
+| Car Tycoon | 71851 | [71851-car-tycoon.json](./71851-car-tycoon.json) |
 | Car vs Bike Racing | 104717 | [104717-car-vs-bike-racing.json](./104717-car-vs-bike-racing.json) |
 | Car vs. Cops | 90288 | [90288-car-vs-cops.json](./90288-car-vs-cops.json) |
 | Car War | 76388 | [76388-car-war.json](./76388-car-war.json) |
@@ -4819,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Celtic Village | 218637 | [218637-celtic-village.json](./218637-celtic-village.json) |
 | Celtic Warfare | 291821 | [291821-celtic-warfare.json](./291821-celtic-warfare.json) |
+| Celtica | 71838 | [71838-celtica.json](./71838-celtica.json) |
 | Celtique | 244604 | [244604-celtique.json](./244604-celtique.json) |
 | CelV Run | 284813 | [284813-celv-run.json](./284813-celv-run.json) |
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
