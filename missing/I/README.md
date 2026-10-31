@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I/O | 64950 | [64950-i-o.json](./64950-i-o.json) |
 | I/O Revision II | 260743 | [260743-i-o-revision-ii.json](./260743-i-o-revision-ii.json) |
 | I`m Isekai Hero | 296935 | [296935-i-m-isekai-hero.json](./296935-i-m-isekai-hero.json) |
+| I`m Turkey | 113309 | [113309-i-m-turkey.json](./113309-i-m-turkey.json) |
 | I3ergsteiger | 379034 | [379034-i3ergsteiger.json](./379034-i3ergsteiger.json) |
 | i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
 | Ia Scatter City | 258949 | [258949-ia-scatter-city.json](./258949-ia-scatter-city.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulsion | 82889 | [82889-impulsion.json](./82889-impulsion.json) |
 | Impulsive Button | 7572 | [7572-impulsive-button.json](./7572-impulsive-button.json) |
 | Impulsive Force | 187365 | [187365-impulsive-force.json](./187365-impulsive-force.json) |
+| Impulsow | 113286 | [113286-impulsow.json](./113286-impulsow.json) |
 | Impunes | 345147 | [345147-impunes.json](./345147-impunes.json) |
 | IMSA World Championship Racing | 237511 | [237511-imsa-world-championship-racing.json](./237511-imsa-world-championship-racing.json) |
 | Imscared | 33822 | [33822-imscared.json](./33822-imscared.json) |
