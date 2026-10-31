@@ -11820,6 +11820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
 | Bonoru Adventures | 303360 | [303360-bonoru-adventures.json](./303360-bonoru-adventures.json) |
 | Bonsai | 33529 | [33529-bonsai.json](./33529-bonsai.json) |
+| Bonsai Blast | 65235 | [65235-bonsai-blast.json](./65235-bonsai-blast.json) |
 | Bonsai Calendar | 142859 | [142859-bonsai-calendar.json](./142859-bonsai-calendar.json) |
 | Bonus Mania Slots Vol.5 | 25481 | [25481-bonus-mania-slots-vol-5.json](./25481-bonus-mania-slots-vol-5.json) |
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
