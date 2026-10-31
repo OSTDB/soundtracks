@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Diet | 194352 | [194352-happy-diet.json](./194352-happy-diet.json) |
 | Happy Drummer VR | 29993 | [29993-happy-drummer-vr.json](./29993-happy-drummer-vr.json) |
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
+| Happy Empire - The Marriage Voyage | 105650 | [105650-happy-empire-the-marriage-voyage.json](./105650-happy-empire-the-marriage-voyage.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
 | Happy Fall | 274388 | [274388-happy-fall.json](./274388-happy-fall.json) |
 | Happy Farm | 246337 | [246337-happy-farm.json](./246337-happy-farm.json) |
@@ -4360,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Balls v3 | 365410 | [365410-hentai-balls-v3.json](./365410-hentai-balls-v3.json) |
 | Hentai Barmaid | 389183 | [389183-hentai-barmaid.json](./389183-hentai-barmaid.json) |
 | Hentai Bath | 371039 | [371039-hentai-bath.json](./371039-hentai-bath.json) |
+| Hentai Battle Royale | 105632 | [105632-hentai-battle-royale.json](./105632-hentai-battle-royale.json) |
 | Hentai BDSM | 365411 | [365411-hentai-bdsm.json](./365411-hentai-bdsm.json) |
 | Hentai Beach | 343605 | [343605-hentai-beach.json](./343605-hentai-beach.json) |
 | Hentai Beach Girls | 167703 | [167703-hentai-beach-girls.json](./167703-hentai-beach-girls.json) |
@@ -6744,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Cars | 271269 | [271269-high-cars.json](./271269-high-cars.json) |
 | High Cars 2 | 325014 | [325014-high-cars-2.json](./325014-high-cars-2.json) |
 | High Cars 3 | 386368 | [386368-high-cars-3.json](./386368-high-cars-3.json) |
+| High Cats | 105646 | [105646-high-cats.json](./105646-high-cats.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Command: Europe 1939-'45 | 71806 | [71806-high-command-europe-1939-45.json](./71806-high-command-europe-1939-45.json) |
 | High Delivery | 397844 | [397844-high-delivery.json](./397844-high-delivery.json) |
@@ -9726,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Paraíso | 401868 | [401868-hotel-paraiso.json](./401868-hotel-paraiso.json) |
 | Hotel Paris | 160013 | [160013-hotel-paris.json](./160013-hotel-paris.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
+| Hotel Remorse | 105648 | [105648-hotel-remorse.json](./105648-hotel-remorse.json) |
 | Hotel Renovation 2 | 155396 | [155396-hotel-renovation-2.json](./155396-hotel-renovation-2.json) |
 | Hotel Renovator | 128151 | [128151-hotel-renovator.json](./128151-hotel-renovator.json) |
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
