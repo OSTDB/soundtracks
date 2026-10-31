@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
 | Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
 | Balltopia | 375529 | [375529-balltopia.json](./375529-balltopia.json) |
+| Balltris | 119291 | [119291-balltris.json](./119291-balltris.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
 | Bally Fears: The Paradox | 348110 | [348110-bally-fears-the-paradox.json](./348110-bally-fears-the-paradox.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
@@ -11727,6 +11729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
 | Book of Demons | 22747 | [22747-book-of-demons.json](./22747-book-of-demons.json) |
 | Book of Eos | 115388 | [115388-book-of-eos.json](./115388-book-of-eos.json) |
+| Book of Hours | 119228 | [119228-book-of-hours.json](./119228-book-of-hours.json) |
 | Book of Hours: Anthology Edition | 383428 | [383428-book-of-hours-anthology-edition.json](./383428-book-of-hours-anthology-edition.json) |
 | Book of Hours: House of Light | 294012 | [294012-book-of-hours-house-of-light.json](./294012-book-of-hours-house-of-light.json) |
 | Book of Hours: Perpetual Edition DLC | 262230 | [262230-book-of-hours-perpetual-edition-dlc.json](./262230-book-of-hours-perpetual-edition-dlc.json) |
@@ -14762,6 +14765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BTS Dream: TinyTan House | 216086 | [216086-bts-dream-tinytan-house.json](./216086-bts-dream-tinytan-house.json) |
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | BTS Universe Story | 139294 | [139294-bts-universe-story.json](./139294-bts-universe-story.json) |
+| BTS World | 119235 | [119235-bts-world.json](./119235-bts-world.json) |
 | Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
 | Bub Block | 157985 | [157985-bub-block.json](./157985-bub-block.json) |
 | Bub-O Burst | 319075 | [319075-bub-o-burst.json](./319075-bub-o-burst.json) |
