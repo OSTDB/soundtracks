@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sci-Fantasy Defence | 152641 | [152641-sci-fantasy-defence.json](./152641-sci-fantasy-defence.json) |
 | Sci-Fi | 60353 | [60353-sci-fi.json](./60353-sci-fi.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
+| Sci-fi Chess | 96418 | [96418-sci-fi-chess.json](./96418-sci-fi-chess.json) |
 | Sci-Fi Highway Racer | 105606 | [105606-sci-fi-highway-racer.json](./105606-sci-fi-highway-racer.json) |
 | Sci-Fi Pinball | 69691 | [69691-sci-fi-pinball.json](./69691-sci-fi-pinball.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
@@ -3654,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
 | Sea of Solitude: The Director's Cut | 141535 | [141535-sea-of-solitude-the-directors-cut.json](./141535-sea-of-solitude-the-directors-cut.json) |
 | Sea of Souls | 348277 | [348277-sea-of-souls.json](./348277-sea-of-souls.json) |
+| Sea of Squares | 96411 | [96411-sea-of-squares.json](./96411-sea-of-squares.json) |
 | Sea of Stars | 131890 | [131890-sea-of-stars.json](./131890-sea-of-stars.json) |
 | Sea of Stars: Dawn of Equinox | 318389 | [318389-sea-of-stars-dawn-of-equinox.json](./318389-sea-of-stars-dawn-of-equinox.json) |
 | Sea of Stars: Early Backer Limited Edition | 283826 | [283826-sea-of-stars-early-backer-limited-edition.json](./283826-sea-of-stars-early-backer-limited-edition.json) |
@@ -4644,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiken Densetsu: Final Fantasy Gaiden | 306594 | [306594-seiken-densetsu-final-fantasy-gaiden.json](./306594-seiken-densetsu-final-fantasy-gaiden.json) |
 | Seiken Densetsu: Rise of Mana | 62078 | [62078-seiken-densetsu-rise-of-mana.json](./62078-seiken-densetsu-rise-of-mana.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
+| Seikimatsu Days: Our Era's End | 96405 | [96405-seikimatsu-days-our-eras-end.json](./96405-seikimatsu-days-our-eras-end.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
 | Seiklus | 19116 | [19116-seiklus.json](./19116-seiklus.json) |
@@ -9264,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sigmund the Mouse | 184877 | [184877-sigmund-the-mouse.json](./184877-sigmund-the-mouse.json) |
 | Sign Craft: Simulator | 273426 | [273426-sign-craft-simulator.json](./273426-sign-craft-simulator.json) |
+| Sign Here: _________ | 96454 | [96454-sign-here.json](./96454-sign-here.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
 | Sign Me ABCs | 103659 | [103659-sign-me-abcs.json](./103659-sign-me-abcs.json) |
 | Sign Motion | 17805 | [17805-sign-motion.json](./17805-sign-motion.json) |
@@ -10084,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
 | Simply Sudoku | 85379 | [85379-simply-sudoku.json](./85379-simply-sudoku.json) |
 | Simply Survive | 246788 | [246788-simply-survive.json](./246788-simply-survive.json) |
+| SimplyTrivia | 96433 | [96433-simplytrivia.json](./96433-simplytrivia.json) |
 | SimPocalypse | 145846 | [145846-simpocalypse.json](./145846-simpocalypse.json) |
 | SimPoly Drive | 243522 | [243522-simpoly-drive.json](./243522-simpoly-drive.json) |
 | Simpsons Treehouse of horror | 102715 | [102715-simpsons-treehouse-of-horror.json](./102715-simpsons-treehouse-of-horror.json) |
@@ -17648,6 +17653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
 | Space God | 86614 | [86614-space-god.json](./86614-space-god.json) |
 | Space Gold Rush TD | 215717 | [215717-space-gold-rush-td.json](./215717-space-gold-rush-td.json) |
+| Space Googy | 96464 | [96464-space-googy.json](./96464-space-googy.json) |
 | Space Goose | 92309 | [92309-space-goose.json](./92309-space-goose.json) |
 | Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
@@ -17718,7 +17724,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27585,6 +27590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
 | Super Antonio | 313180 | [313180-super-antonio.json](./313180-super-antonio.json) |
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
+| Super Arc Light | 96413 | [96413-super-arc-light.json](./96413-super-arc-light.json) |
 | Super Arcade Boy in Goodbye Greenies | 252599 | [252599-super-arcade-boy-in-goodbye-greenies.json](./252599-super-arcade-boy-in-goodbye-greenies.json) |
 | Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
@@ -28185,6 +28191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
 | Super Gloves Hero | 156597 | [156597-super-gloves-hero.json](./156597-super-gloves-hero.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
+| Super Goalkeeper | 96447 | [96447-super-goalkeeper.json](./96447-super-goalkeeper.json) |
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
 | Super Golden Odyssey: 3d Platformer World | 348114 | [348114-super-golden-odyssey-3d-platformer-world.json](./348114-super-golden-odyssey-3d-platformer-world.json) |
@@ -29323,6 +29330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nin-e Sisters | 277150 | [277150-super-nin-e-sisters.json](./277150-super-nin-e-sisters.json) |
 | Super Ninja | 299411 | [299411-super-ninja.json](./299411-super-ninja.json) |
 | Super Ninja Boy | 42603 | [42603-super-ninja-boy.json](./42603-super-ninja-boy.json) |
+| Super Ninja Boy Run | 96408 | [96408-super-ninja-boy-run.json](./96408-super-ninja-boy-run.json) |
 | Super Ninja Bundle | 284869 | [284869-super-ninja-bundle.json](./284869-super-ninja-bundle.json) |
 | Super Ninja Hero VR | 31164 | [31164-super-ninja-hero-vr.json](./31164-super-ninja-hero-vr.json) |
 | Super Ninja Meow Cat | 115165 | [115165-super-ninja-meow-cat.json](./115165-super-ninja-meow-cat.json) |
@@ -29333,6 +29341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ninji Land 2: A Ninji's Journey | 253794 | [253794-super-ninji-land-2-a-ninjis-journey.json](./253794-super-ninji-land-2-a-ninjis-journey.json) |
 | Super Ninji Land Reawakened | 373554 | [373554-super-ninji-land-reawakened.json](./373554-super-ninji-land-reawakened.json) |
 | Super Nisqually | 73273 | [73273-super-nisqually.json](./73273-super-nisqually.json) |
+| Super Nitro Racing | 96412 | [96412-super-nitro-racing.json](./96412-super-nitro-racing.json) |
 | Super Nitrous Zoomer | 114982 | [114982-super-nitrous-zoomer.json](./114982-super-nitrous-zoomer.json) |
 | Super No Crying in Baseball | 132504 | [132504-super-no-crying-in-baseball.json](./132504-super-no-crying-in-baseball.json) |
 | Super Noah's Ark 3D | 11168 | [11168-super-noahs-ark-3d.json](./11168-super-noahs-ark-3d.json) |
@@ -32175,6 +32184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Dimacreation: Side Story - The Hunt of Rabbit | 97521 | [97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json](./97521-sword-of-the-dimacreation-side-story-the-hunt-of-rabbit.json) |
 | Sword of the Dimacreation: Side Story 2 - Triangle Christmas Chrityous | 97520 | [97520-sword-of-the-dimacreation-side-story-2-triangle-christmas-chrityous.json](./97520-sword-of-the-dimacreation-side-story-2-triangle-christmas-chrityous.json) |
 | Sword of the Dimacreation: Side Story 3 - The Last, But Never End | 97517 | [97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json](./97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json) |
+| Sword of the Guardian | 96414 | [96414-sword-of-the-guardian.json](./96414-sword-of-the-guardian.json) |
 | Sword of the Necromancer | 125885 | [125885-sword-of-the-necromancer.json](./125885-sword-of-the-necromancer.json) |
 | Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Revenant | 228280 | [228280-sword-of-the-necromancer-revenant.json](./228280-sword-of-the-necromancer-revenant.json) |
