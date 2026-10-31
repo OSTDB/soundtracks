@@ -5319,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KRTL: Jay Und Die Spielzeugdiebe | 94155 | [94155-krtl-jay-und-die-spielzeugdiebe.json](./94155-krtl-jay-und-die-spielzeugdiebe.json) |
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
 | Kruger 2 | 213795 | [213795-kruger-2.json](./213795-kruger-2.json) |
+| Kruistocht in Spijkerbroek: De Game | 92782 | [92782-kruistocht-in-spijkerbroek-de-game.json](./92782-kruistocht-in-spijkerbroek-de-game.json) |
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
 | Krum: Edge of Darkness | 34056 | [34056-krum-edge-of-darkness.json](./34056-krum-edge-of-darkness.json) |
