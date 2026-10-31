@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Metal Slug | 28452 | [28452-aca-neo-geo-metal-slug.json](./28452-aca-neo-geo-metal-slug.json) |
 | ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug 3 | 88910 | [88910-aca-neo-geo-metal-slug-3.json](./88910-aca-neo-geo-metal-slug-3.json) |
+| ACA Neo Geo: Metal Slug 4 | 106858 | [106858-aca-neo-geo-metal-slug-4.json](./106858-aca-neo-geo-metal-slug-4.json) |
 | ACA Neo Geo: Metal Slug 5 | 118571 | [118571-aca-neo-geo-metal-slug-5.json](./118571-aca-neo-geo-metal-slug-5.json) |
 | ACA Neo Geo: Metal Slug X | 99481 | [99481-aca-neo-geo-metal-slug-x.json](./99481-aca-neo-geo-metal-slug-x.json) |
 | ACA Neo Geo: Mutation Nation | 99477 | [99477-aca-neo-geo-mutation-nation.json](./99477-aca-neo-geo-mutation-nation.json) |
@@ -3599,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
 | Aeronuts | 58049 | [58049-aeronuts.json](./58049-aeronuts.json) |
 | Aeroplane Blaster | 181024 | [181024-aeroplane-blaster.json](./181024-aeroplane-blaster.json) |
+| Aeroplane Chess 3D | 106877 | [106877-aeroplane-chess-3d.json](./106877-aeroplane-chess-3d.json) |
 | Aeroplanoui | 105296 | [105296-aeroplanoui.json](./105296-aeroplanoui.json) |
 | Aeroporto 83 | 215545 | [215545-aeroporto-83.json](./215545-aeroporto-83.json) |
 | Aeropunx | 369180 | [369180-aeropunx.json](./369180-aeropunx.json) |
@@ -5104,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness 3 | 52387 | [52387-airport-madness-3.json](./52387-airport-madness-3.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
+| Airport Madness Mobile | 106864 | [106864-airport-madness-mobile.json](./106864-airport-madness-mobile.json) |
 | Airport Madness: World Edition | 35258 | [35258-airport-madness-world-edition.json](./35258-airport-madness-world-edition.json) |
 | Airport Manager | 379522 | [379522-airport-manager.json](./379522-airport-manager.json) |
 | Airport Mania: First Flight | 6476 | [6476-airport-mania-first-flight.json](./6476-airport-mania-first-flight.json) |
@@ -8517,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andy's Adventure Game | 316760 | [316760-andys-adventure-game.json](./316760-andys-adventure-game.json) |
 | Andy's Apple Farm | 177383 | [177383-andys-apple-farm.json](./177383-andys-apple-farm.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
+| Andy's Great Fossil Hunt | 106830 | [106830-andys-great-fossil-hunt.json](./106830-andys-great-fossil-hunt.json) |
 | Ane Hara-Mix Two | 97767 | [97767-ane-hara-mix-two.json](./97767-ane-hara-mix-two.json) |
 | AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
 | AneeMate | 305989 | [305989-aneemate.json](./305989-aneemate.json) |
@@ -10592,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Applaydu | 294979 | [294979-applaydu.json](./294979-applaydu.json) |
 | Apple | 309386 | [309386-apple.json](./309386-apple.json) |
 | Apple | 346077 | [346077-apple.json](./346077-apple.json) |
+| Apple Avengers | 106871 | [106871-apple-avengers.json](./106871-apple-avengers.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Bang! | 150046 | [150046-apple-bang.json](./150046-apple-bang.json) |
 | Apple Catch | 317457 | [317457-apple-catch.json](./317457-apple-catch.json) |
@@ -16253,6 +16258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
 | Awesome Shapes | 62411 | [62411-awesome-shapes.json](./62411-awesome-shapes.json) |
 | Awesome Space Delivery Company | 101687 | [101687-awesome-space-delivery-company.json](./101687-awesome-space-delivery-company.json) |
+| Awesome Sudoku | 106884 | [106884-awesome-sudoku.json](./106884-awesome-sudoku.json) |
 | Awesome Tank | 78076 | [78076-awesome-tank.json](./78076-awesome-tank.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
