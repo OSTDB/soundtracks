@@ -4506,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Pan's Playground | 98894 | [98894-peter-pans-playground.json](./98894-peter-pans-playground.json) |
 | Peter Paper | 140379 | [140379-peter-paper.json](./140379-peter-paper.json) |
 | Peter Penguin | 40677 | [40677-peter-penguin.json](./40677-peter-penguin.json) |
+| Peter Pepper's Ice Cream Factory | 73040 | [73040-peter-peppers-ice-cream-factory.json](./73040-peter-peppers-ice-cream-factory.json) |
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
 | Peter Rabbit: Let's Go! | 104458 | [104458-peter-rabbit-lets-go.json](./104458-peter-rabbit-lets-go.json) |
 | Peter Rabbit's Number Garden | 208865 | [208865-peter-rabbits-number-garden.json](./208865-peter-rabbits-number-garden.json) |
@@ -4650,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz: Dogz 2 | 5094 | [5094-petz-dogz-2.json](./5094-petz-dogz-2.json) |
 | Petz: Dogz Fashion | 123373 | [123373-petz-dogz-fashion.json](./123373-petz-dogz-fashion.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
+| Petz: Hamsterz 2 | 73041 | [73041-petz-hamsterz-2.json](./73041-petz-hamsterz-2.json) |
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
 | Petz: My Puppy Family | 47895 | [47895-petz-my-puppy-family.json](./47895-petz-my-puppy-family.json) |
 | Petz: Nursery | 44062 | [44062-petz-nursery.json](./44062-petz-nursery.json) |
@@ -12028,6 +12030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal: Brain Damaged - These Sunny Daze | 347105 | [347105-postal-brain-damaged-these-sunny-daze.json](./347105-postal-brain-damaged-these-sunny-daze.json) |
 | Postal: Classic and Uncut | 405310 | [405310-postal-classic-and-uncut.json](./405310-postal-classic-and-uncut.json) |
 | Postal: Fudge Pack | 359857 | [359857-postal-fudge-pack.json](./359857-postal-fudge-pack.json) |
+| Postal: Special Delivery | 73074 | [73074-postal-special-delivery.json](./73074-postal-special-delivery.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
