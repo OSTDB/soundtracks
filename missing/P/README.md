@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Simulator: Fractal Workshop | 159688 | [159688-pc-building-simulator-fractal-workshop.json](./159688-pc-building-simulator-fractal-workshop.json) |
 | PC Building Simulator: Good Company Case | 124811 | [124811-pc-building-simulator-good-company-case.json](./124811-pc-building-simulator-good-company-case.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
+| PC Calciatori 2004 | 71304 | [71304-pc-calciatori-2004.json](./71304-pc-calciatori-2004.json) |
 | PC Calciatori 2005 | 100036 | [100036-pc-calciatori-2005.json](./100036-pc-calciatori-2005.json) |
 | PC Classix | 79018 | [79018-pc-classix.json](./79018-pc-classix.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
@@ -4178,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
 | Perpetuo | 378496 | [378496-perpetuo.json](./378496-perpetuo.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
+| Perplex City | 71320 | [71320-perplex-city.json](./71320-perplex-city.json) |
 | Perplexigon | 36827 | [36827-perplexigon.json](./36827-perplexigon.json) |
 | Perplexity: Suburban Home | 116688 | [116688-perplexity-suburban-home.json](./116688-perplexity-suburban-home.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
@@ -7985,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels With Comics | 260247 | [260247-pixels-with-comics.json](./260247-pixels-with-comics.json) |
 | Pixels: Digital Creatures | 166831 | [166831-pixels-digital-creatures.json](./166831-pixels-digital-creatures.json) |
 | Pixelscape: Oceans | 32200 | [32200-pixelscape-oceans.json](./32200-pixelscape-oceans.json) |
+| PixelShips | 71300 | [71300-pixelships.json](./71300-pixelships.json) |
 | PixelShips Retro | 71145 | [71145-pixelships-retro.json](./71145-pixelships-retro.json) |
 | Pixelshire | 203740 | [203740-pixelshire.json](./203740-pixelshire.json) |
 | PixelSlime | 223613 | [223613-pixelslime.json](./223613-pixelslime.json) |
@@ -13396,6 +13399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Principia | 407911 | [407911-principia.json](./407911-principia.json) |
 | Principia: Master of Science | 32826 | [32826-principia-master-of-science.json](./32826-principia-master-of-science.json) |
 | Principle of Karma | 201447 | [201447-principle-of-karma.json](./201447-principle-of-karma.json) |
+| Principles of Evil: Volume II | 71272 | [71272-principles-of-evil-volume-ii.json](./71272-principles-of-evil-volume-ii.json) |
 | Pringles | 45559 | [45559-pringles.json](./45559-pringles.json) |
 | Pringles Chip Racer | 335431 | [335431-pringles-chip-racer.json](./335431-pringles-chip-racer.json) |
 | Prinny 1 & 2: Exploded and Reloaded | 133809 | [133809-prinny-1-and-2-exploded-and-reloaded.json](./133809-prinny-1-and-2-exploded-and-reloaded.json) |
