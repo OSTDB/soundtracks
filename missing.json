@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T20:50:37.866Z",
-  "total_missing": 290330,
+  "generated_at": "2026-10-31T21:06:32.133Z",
+  "total_missing": 290320,
   "games": [
     {
       "igdb_id": 191680,
@@ -104320,11 +104320,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -222492,11 +222487,6 @@
       "file": "missing/C/347635-chronicles-medieval.json"
     },
     {
-      "igdb_id": 35130,
-      "game_name": "Chronicon",
-      "file": "missing/C/35130-chronicon.json"
-    },
-    {
       "igdb_id": 114302,
       "game_name": "Chronicon Apocalyptica",
       "file": "missing/C/114302-chronicon-apocalyptica.json"
@@ -235990,11 +235980,6 @@
       "igdb_id": 90311,
       "game_name": "Coffee Crawl",
       "file": "missing/C/90311-coffee-crawl.json"
-    },
-    {
-      "igdb_id": 56697,
-      "game_name": "Coffee Crisis",
-      "file": "missing/C/56697-coffee-crisis.json"
     },
     {
       "igdb_id": 247466,
@@ -259715,6 +259700,11 @@
       "igdb_id": 47019,
       "game_name": "Crazy Chicken Remake",
       "file": "missing/C/47019-crazy-chicken-remake.json"
+    },
+    {
+      "igdb_id": 69065,
+      "game_name": "Crazy Chicken Soccer",
+      "file": "missing/C/69065-crazy-chicken-soccer.json"
     },
     {
       "igdb_id": 83239,
@@ -456467,11 +456457,6 @@
       "file": "missing/F/328850-fox-mcclouds-blazing-blueberry-blast-off.json"
     },
     {
-      "igdb_id": 21961,
-      "game_name": "Fox n Forests",
-      "file": "missing/F/21961-fox-n-forests.json"
-    },
-    {
       "igdb_id": 235423,
       "game_name": "Fox of the moon",
       "file": "missing/F/235423-fox-of-the-moon.json"
@@ -502855,11 +502840,6 @@
       "igdb_id": 267853,
       "game_name": "Goodbye Seoul",
       "file": "missing/G/267853-goodbye-seoul.json"
-    },
-    {
-      "igdb_id": 134589,
-      "game_name": "Goodbye Volcano High",
-      "file": "missing/G/134589-goodbye-volcano-high.json"
     },
     {
       "igdb_id": 376046,
@@ -605412,11 +605392,6 @@
       "file": "missing/I/223799-into-the-spiritwell.json"
     },
     {
-      "igdb_id": 21564,
-      "game_name": "Into the Stars",
-      "file": "missing/I/21564-into-the-stars.json"
-    },
-    {
       "igdb_id": 53235,
       "game_name": "Into the Stars - Deluxe",
       "file": "missing/I/53235-into-the-stars-deluxe.json"
@@ -645587,11 +645562,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -653955,11 +653925,6 @@
       "igdb_id": 72501,
       "game_name": "Knights Hunt",
       "file": "missing/K/72501-knights-hunt.json"
-    },
-    {
-      "igdb_id": 20690,
-      "game_name": "Knights in the Nightmare",
-      "file": "missing/K/20690-knights-in-the-nightmare.json"
     },
     {
       "igdb_id": 222421,
@@ -700595,11 +700560,6 @@
       "igdb_id": 342910,
       "game_name": "LostTicket",
       "file": "missing/L/342910-lostticket.json"
-    },
-    {
-      "igdb_id": 21486,
-      "game_name": "LostWinds",
-      "file": "missing/L/21486-lostwinds.json"
     },
     {
       "igdb_id": 112213,
@@ -871002,6 +870962,11 @@
       "file": "missing/O/245942-outway.json"
     },
     {
+      "igdb_id": 69066,
+      "game_name": "Outwit!",
+      "file": "missing/O/69066-outwit.json"
+    },
+    {
       "igdb_id": 419833,
       "game_name": "Outwith",
       "file": "missing/O/419833-outwith.json"
@@ -950572,6 +950537,11 @@
       "file": "missing/P/71790-psychic-force-complete.json"
     },
     {
+      "igdb_id": 69133,
+      "game_name": "Psychic Force Puzzle Taisen",
+      "file": "missing/P/69133-psychic-force-puzzle-taisen.json"
+    },
+    {
       "igdb_id": 155834,
       "game_name": "Psychic Guardian Super Splendor",
       "file": "missing/P/155834-psychic-guardian-super-splendor.json"
@@ -952610,11 +952580,6 @@
       "igdb_id": 114796,
       "game_name": "Pumped BMX Pro",
       "file": "missing/P/114796-pumped-bmx-pro.json"
-    },
-    {
-      "igdb_id": 20955,
-      "game_name": "Pumped BMX+",
-      "file": "missing/P/20955-pumped-bmx.json"
     },
     {
       "igdb_id": 59752,
@@ -986497,11 +986462,6 @@
       "file": "missing/R/139229-regain-earth-first-strike.json"
     },
     {
-      "igdb_id": 30205,
-      "game_name": "Regalia: Of Men and Monarchs",
-      "file": "missing/R/30205-regalia-of-men-and-monarchs.json"
-    },
-    {
       "igdb_id": 172162,
       "game_name": "Regalia: Of Men and Monarchs - Paragons and Pajamas",
       "file": "missing/R/172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json"
@@ -1017880,11 +1017840,6 @@
       "igdb_id": 98991,
       "game_name": "Rounders (Arena)",
       "file": "missing/R/98991-rounders-arena.json"
-    },
-    {
-      "igdb_id": 97114,
-      "game_name": "Roundguard",
-      "file": "missing/R/97114-roundguard.json"
     },
     {
       "igdb_id": 123505,
@@ -1115032,6 +1114987,11 @@
       "file": "missing/S/84892-space-hunted.json"
     },
     {
+      "igdb_id": 129956,
+      "game_name": "Space Hunted: The Lost Levels",
+      "file": "missing/S/129956-space-hunted-the-lost-levels.json"
+    },
+    {
       "igdb_id": 142222,
       "game_name": "Space Hunter",
       "file": "missing/S/142222-space-hunter.json"
@@ -1143407,11 +1143367,6 @@
       "file": "missing/S/82334-stax.json"
     },
     {
-      "igdb_id": 37294,
-      "game_name": "Staxel",
-      "file": "missing/S/37294-staxel.json"
-    },
-    {
       "igdb_id": 186167,
       "game_name": "Staxter",
       "file": "missing/S/186167-staxter.json"
@@ -1167885,6 +1167840,11 @@
       "igdb_id": 113325,
       "game_name": "Super Grower",
       "file": "missing/S/113325-super-grower.json"
+    },
+    {
+      "igdb_id": 69067,
+      "game_name": "Super GT 24h",
+      "file": "missing/S/69067-super-gt-24h.json"
     },
     {
       "igdb_id": 97115,
@@ -1219700,6 +1219660,11 @@
       "igdb_id": 230421,
       "game_name": "The Batman: Multiply, Divide and Conquer",
       "file": "missing/T/230421-the-batman-multiply-divide-and-conquer.json"
+    },
+    {
+      "igdb_id": 69064,
+      "game_name": "The Batman: Strength in Numbers",
+      "file": "missing/T/69064-the-batman-strength-in-numbers.json"
     },
     {
       "igdb_id": 338352,
@@ -1282985,11 +1282950,6 @@
       "igdb_id": 163790,
       "game_name": "This Starry Void",
       "file": "missing/T/163790-this-starry-void.json"
-    },
-    {
-      "igdb_id": 50506,
-      "game_name": "This Strange Realm of Mine",
-      "file": "missing/T/50506-this-strange-realm-of-mine.json"
     },
     {
       "igdb_id": 214162,
@@ -1350670,11 +1350630,6 @@
       "igdb_id": 21101,
       "game_name": "Unbound Saga",
       "file": "missing/U/21101-unbound-saga.json"
-    },
-    {
-      "igdb_id": 89597,
-      "game_name": "Unbound: Worlds Apart",
-      "file": "missing/U/89597-unbound-worlds-apart.json"
     },
     {
       "igdb_id": 396496,
@@ -1419970,11 +1419925,6 @@
       "igdb_id": 223624,
       "game_name": "World to Conquer",
       "file": "missing/W/223624-world-to-conquer.json"
-    },
-    {
-      "igdb_id": 27518,
-      "game_name": "World to the West",
-      "file": "missing/W/27518-world-to-the-west.json"
     },
     {
       "igdb_id": 5805,
