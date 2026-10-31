@@ -10577,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freefall 3050 A.D. | 51180 | [51180-freefall-3050-a-d.json](./51180-freefall-3050-a-d.json) |
 | Freefall by MSX Murcia | 267563 | [267563-freefall-by-msx-murcia.json](./267563-freefall-by-msx-murcia.json) |
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
+| FreeFlight | 95153 | [95153-freeflight.json](./95153-freeflight.json) |
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
 | FreeGen | 290380 | [290380-freegen.json](./290380-freegen.json) |
