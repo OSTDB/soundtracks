@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
 | Jade's Ascension | 120741 | [120741-jades-ascension.json](./120741-jades-ascension.json) |
+| Jade's Dungeon Descent | 103758 | [103758-jades-dungeon-descent.json](./103758-jades-dungeon-descent.json) |
 | Jade's Journey | 30624 | [30624-jades-journey.json](./30624-jades-journey.json) |
 | Jade's Journey 2 | 29166 | [29166-jades-journey-2.json](./29166-jades-journey-2.json) |
 | Jaded | 197962 | [197962-jaded.json](./197962-jaded.json) |
