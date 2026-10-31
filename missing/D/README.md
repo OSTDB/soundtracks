@@ -8656,6 +8656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Eggs: Rebirth | 33336 | [33336-dino-eggs-rebirth.json](./33336-dino-eggs-rebirth.json) |
 | Dino Eruption | 142658 | [142658-dino-eruption.json](./142658-dino-eruption.json) |
 | Dino Escape | 398905 | [398905-dino-escape.json](./398905-dino-escape.json) |
+| Dino Escape World: Survival Adventure Thriller | 89566 | [89566-dino-escape-world-survival-adventure-thriller.json](./89566-dino-escape-world-survival-adventure-thriller.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys | 401117 | [401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json](./401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls | 401722 | [401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json](./401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json) |
 | Dino Explore | 363328 | [363328-dino-explore.json](./363328-dino-explore.json) |
@@ -15964,6 +15965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DudeGo | 292967 | [292967-dudego.json](./292967-dudego.json) |
 | Dudelings: Arcade Sportsball | 287797 | [287797-dudelings-arcade-sportsball.json](./287797-dudelings-arcade-sportsball.json) |
 | Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
+| Duder | 89599 | [89599-duder.json](./89599-duder.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudeski | 187799 | [187799-dudeski.json](./187799-dudeski.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
@@ -16021,6 +16023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
 | Dueling Dungeon | 95584 | [95584-dueling-dungeon.json](./95584-dueling-dungeon.json) |
 | Dueling Network | 136180 | [136180-dueling-network.json](./136180-dueling-network.json) |
+| DuelingGun | 89570 | [89570-duelinggun.json](./89570-duelinggun.json) |
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelist: Idle Expedition | 400826 | [400826-duelist-idle-expedition.json](./400826-duelist-idle-expedition.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
