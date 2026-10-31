@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaver | 209979 | [209979-weaver.json](./209979-weaver.json) |
 | Weaverse | 107678 | [107678-weaverse.json](./107678-weaverse.json) |
 | Weaves of Fate | 53306 | [53306-weaves-of-fate.json](./53306-weaves-of-fate.json) |
+| Weaving | 118601 | [118601-weaving.json](./118601-weaving.json) |
 | Weaving Tides | 118076 | [118076-weaving-tides.json](./118076-weaving-tides.json) |
 | Web City 1 | 82834 | [82834-web-city-1.json](./82834-web-city-1.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
@@ -4317,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
 | Who Is Your Prince? In the Rich School | 255882 | [255882-who-is-your-prince-in-the-rich-school.json](./255882-who-is-your-prince-in-the-rich-school.json) |
 | Who Is Zombie | 192084 | [192084-who-is-zombie.json](./192084-who-is-zombie.json) |
+| Who Killed Her | 118582 | [118582-who-killed-her.json](./118582-who-killed-her.json) |
 | Who Killed Mr. White? | 164951 | [164951-who-killed-mr-white.json](./164951-who-killed-mr-white.json) |
 | Who Killed My Father Academy! | 134878 | [134878-who-killed-my-father-academy.json](./134878-who-killed-my-father-academy.json) |
 | Who Killed My Sister? | 122946 | [122946-who-killed-my-sister.json](./122946-who-killed-my-sister.json) |
@@ -5714,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
 | Witch College 2 | 129994 | [129994-witch-college-2.json](./129994-witch-college-2.json) |
 | Witch College Bundle | 214374 | [214374-witch-college-bundle.json](./214374-witch-college-bundle.json) |
+| Witch Combat | 118595 | [118595-witch-combat.json](./118595-witch-combat.json) |
 | Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
 | Witch Cry 2 | 301129 | [301129-witch-cry-2.json](./301129-witch-cry-2.json) |
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
@@ -8354,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
 | Wuppo: Breft Festival Forever | 139009 | [139009-wuppo-breft-festival-forever.json](./139009-wuppo-breft-festival-forever.json) |
 | Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
+| Wuppo: Deluxe Edition | 118560 | [118560-wuppo-deluxe-edition.json](./118560-wuppo-deluxe-edition.json) |
 | Wuppo: Special Edition | 52121 | [52121-wuppo-special-edition.json](./52121-wuppo-special-edition.json) |
 | Wuppo: Super Deluxe Edition | 118903 | [118903-wuppo-super-deluxe-edition.json](./118903-wuppo-super-deluxe-edition.json) |
 | Wuppo: Ultimate Edition | 52120 | [52120-wuppo-ultimate-edition.json](./52120-wuppo-ultimate-edition.json) |
