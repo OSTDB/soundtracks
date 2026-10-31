@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Time Circus | 262576 | [262576-happy-time-circus.json](./262576-happy-time-circus.json) |
 | Happy Time Circus II | 262577 | [262577-happy-time-circus-ii.json](./262577-happy-time-circus-ii.json) |
 | Happy toys | 112779 | [112779-happy-toys.json](./112779-happy-toys.json) |
+| Happy Tractor | 96407 | [96407-happy-tractor.json](./96407-happy-tractor.json) |
 | Happy Trails | 23685 | [23685-happy-trails.json](./23685-happy-trails.json) |
 | Happy Train | 100644 | [100644-happy-train.json](./100644-happy-train.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Los Angeles Detective Gold | 252568 | [252568-hidden-object-los-angeles-detective-gold.json](./252568-hidden-object-los-angeles-detective-gold.json) |
 | Hidden Object: Lost Princess | 98349 | [98349-hidden-object-lost-princess.json](./98349-hidden-object-lost-princess.json) |
 | Hidden Object: Lucky Leprechaun | 98582 | [98582-hidden-object-lucky-leprechaun.json](./98582-hidden-object-lucky-leprechaun.json) |
+| Hidden Object: Magic Forest | 96443 | [96443-hidden-object-magic-forest.json](./96443-hidden-object-magic-forest.json) |
 | Hidden Object: Magic of Easter | 83632 | [83632-hidden-object-magic-of-easter.json](./83632-hidden-object-magic-of-easter.json) |
 | Hidden Object: Magician's Quest | 98347 | [98347-hidden-object-magicians-quest.json](./98347-hidden-object-magicians-quest.json) |
 | Hidden Object: Manor Fable | 71206 | [71206-hidden-object-manor-fable.json](./71206-hidden-object-manor-fable.json) |
@@ -6506,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects - Country Style | 89164 | [89164-hidden-objects-country-style.json](./89164-hidden-objects-country-style.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
+| Hidden Objects : Ancient Egyptian Objects | 96445 | [96445-hidden-objects-ancient-egyptian-objects.json](./96445-hidden-objects-ancient-egyptian-objects.json) |
 | Hidden Objects Ancient Greece | 88847 | [88847-hidden-objects-ancient-greece.json](./88847-hidden-objects-ancient-greece.json) |
 | Hidden Objects Christmas Game | 241214 | [241214-hidden-objects-christmas-game.json](./241214-hidden-objects-christmas-game.json) |
 | Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
