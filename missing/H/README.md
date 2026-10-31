@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart.Marrow.Blood. | 377557 | [377557-heart-marrow-blood.json](./377557-heart-marrow-blood.json) |
 | Heart's Blight | 178918 | [178918-hearts-blight.json](./178918-hearts-blight.json) |
 | Heart's Medicine Collection | 53176 | [53176-hearts-medicine-collection.json](./53176-hearts-medicine-collection.json) |
+| Heart's Medicine: Doctor's Oath | 112025 | [112025-hearts-medicine-doctors-oath.json](./112025-hearts-medicine-doctors-oath.json) |
 | Heart's Medicine: Season One | 88660 | [88660-hearts-medicine-season-one.json](./88660-hearts-medicine-season-one.json) |
 | Heart's Medicine: Time to Heal | 32311 | [32311-hearts-medicine-time-to-heal.json](./32311-hearts-medicine-time-to-heal.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
@@ -4979,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Ultra Special | 316270 | [316270-hentai-world-ultra-special.json](./316270-hentai-world-ultra-special.json) |
 | Hentai World: Ultra Ultimate | 309050 | [309050-hentai-world-ultra-ultimate.json](./309050-hentai-world-ultra-ultimate.json) |
 | Hentai XXX Plus: Jigsaws Vol 1 | 288317 | [288317-hentai-xxx-plus-jigsaws-vol-1.json](./288317-hentai-xxx-plus-jigsaws-vol-1.json) |
+| Hentai Yuri Wet Adventure | 112002 | [112002-hentai-yuri-wet-adventure.json](./112002-hentai-yuri-wet-adventure.json) |
 | Hentai Zodiac Puzzle | 213723 | [213723-hentai-zodiac-puzzle.json](./213723-hentai-zodiac-puzzle.json) |
 | Hentai Zodiac Puzzle 2 | 213725 | [213725-hentai-zodiac-puzzle-2.json](./213725-hentai-zodiac-puzzle-2.json) |
 | Hentai: Area 51 | 148703 | [148703-hentai-area-51.json](./148703-hentai-area-51.json) |
