@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
 | Magna Carta: Tears of Blood - Deluxe Box Set | 43423 | [43423-magna-carta-tears-of-blood-deluxe-box-set.json](./43423-magna-carta-tears-of-blood-deluxe-box-set.json) |
+| Magna Carta: The Phantom of Avalanche | 69641 | [69641-magna-carta-the-phantom-of-avalanche.json](./69641-magna-carta-the-phantom-of-avalanche.json) |
 | Magna Driver | 181759 | [181759-magna-driver.json](./181759-magna-driver.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
 | Magna Fortuna: The Gargantuan Fate and a Girl of Eternity | 82638 | [82638-magna-fortuna-the-gargantuan-fate-and-a-girl-of-eternity.json](./82638-magna-fortuna-the-gargantuan-fate-and-a-girl-of-eternity.json) |
@@ -12072,6 +12073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur | 398656 | [398656-minotaur.json](./398656-minotaur.json) |
 | Minotaur | 75354 | [75354-minotaur.json](./75354-minotaur.json) |
 | Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
+| Minotaur China Shop | 69652 | [69652-minotaur-china-shop.json](./69652-minotaur-china-shop.json) |
 | Minotaur Hotel | 166032 | [166032-minotaur-hotel.json](./166032-minotaur-hotel.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
