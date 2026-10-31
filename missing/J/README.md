@@ -3207,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Skateboard Ninja: The Royale Sword Hero Dude Drive Adventure | 256360 | [256360-jumpy-skateboard-ninja-the-royale-sword-hero-dude-drive-adventure.json](./256360-jumpy-skateboard-ninja-the-royale-sword-hero-dude-drive-adventure.json) |
 | Jumpy Truck | 98393 | [98393-jumpy-truck.json](./98393-jumpy-truck.json) |
 | Jumpy: A Very Hard Game | 28098 | [28098-jumpy-a-very-hard-game.json](./28098-jumpy-a-very-hard-game.json) |
+| Jun Classic C.C. & Rope Club | 108149 | [108149-jun-classic-c-c-and-rope-club.json](./108149-jun-classic-c-c-and-rope-club.json) |
 | Juna: The Dreamwalker | 260315 | [260315-juna-the-dreamwalker.json](./260315-juna-the-dreamwalker.json) |
 | Junction | 109032 | [109032-junction.json](./109032-junction.json) |
 | June | 147218 | [147218-june.json](./147218-june.json) |
