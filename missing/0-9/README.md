@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Animal Preschool Games for Kids | 58575 | [58575-123-animal-preschool-games-for-kids.json](./58575-123-animal-preschool-games-for-kids.json) |
 | 123 Animal Second Grade Math for Kids | 58477 | [58477-123-animal-second-grade-math-for-kids.json](./58477-123-animal-second-grade-math-for-kids.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
+| 123 Kids Fun Education | 91076 | [91076-123-kids-fun-education.json](./91076-123-kids-fun-education.json) |
 | 123 Kids Fun Puzzle Gold | 89543 | [89543-123-kids-fun-puzzle-gold.json](./89543-123-kids-fun-puzzle-gold.json) |
 | 123 Kids Fun Puzzle Green | 89721 | [89721-123-kids-fun-puzzle-green.json](./89721-123-kids-fun-puzzle-green.json) |
 | 123 Kids Fun Puzzle Red | 89166 | [89166-123-kids-fun-puzzle-red.json](./89166-123-kids-fun-puzzle-red.json) |
@@ -2605,11 +2606,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5-in-1 Best Multiplayer & Couch Co-op Bundle | 267243 | [267243-5-in-1-best-multiplayer-and-couch-co-op-bundle.json](./267243-5-in-1-best-multiplayer-and-couch-co-op-bundle.json) |
 | 5-in-1 Bundle Brain Trainings | 84133 | [84133-5-in-1-bundle-brain-trainings.json](./84133-5-in-1-bundle-brain-trainings.json) |
 | 5-in-1 Fami Collection: NES Collection Nr 1 | 37644 | [37644-5-in-1-fami-collection-nes-collection-nr-1.json](./37644-5-in-1-fami-collection-nes-collection-nr-1.json) |
+| 5-in-1 Pack: Monument Builders - Destination USA | 91071 | [91071-5-in-1-pack-monument-builders-destination-usa.json](./91071-5-in-1-pack-monument-builders-destination-usa.json) |
 | 5-kyuu kara 1-kyuu Kanzen Taiou Saishin Kako Mondai: Nijishiken Taisaku - Eiken Kanzenban | 269536 | [269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json](./269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json) |
 | 5-Letter-Kruiswoord | 92793 | [92793-5-letter-kruiswoord.json](./92793-5-letter-kruiswoord.json) |
 | 5-Minute Maid | 392314 | [392314-5-minute-maid.json](./392314-5-minute-maid.json) |
 | 5-Nen Kanji Keisan Nigate Hunter DS | 269537 | [269537-5-nen-kanji-keisan-nigate-hunter-ds.json](./269537-5-nen-kanji-keisan-nigate-hunter-ds.json) |
 | 5-Star | 298942 | [298942-5-star.json](./298942-5-star.json) |
+| 5-Star 1000 Top Rated | 91008 | [91008-5-star-1000-top-rated.json](./91008-5-star-1000-top-rated.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
 | 5-Step Steve | 251585 | [251585-5-step-steve.json](./251585-5-step-steve.json) |
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
