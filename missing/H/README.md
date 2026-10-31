@@ -9364,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
 | Hoshiai no Sora | 398986 | [398986-hoshiai-no-sora.json](./398986-hoshiai-no-sora.json) |
 | Hoshigami: Ruining Blue Earth | 45223 | [45223-hoshigami-ruining-blue-earth.json](./45223-hoshigami-ruining-blue-earth.json) |
+| Hoshigari Empusa Portable | 91642 | [91642-hoshigari-empusa-portable.json](./91642-hoshigari-empusa-portable.json) |
 | Hoshigari Empusa! | 268646 | [268646-hoshigari-empusa.json](./268646-hoshigari-empusa.json) |
 | Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
 | Hoshiiro no Okurimono Portable | 218377 | [218377-hoshiiro-no-okurimono-portable.json](./218377-hoshiiro-no-okurimono-portable.json) |
@@ -9699,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
+| Hotball | 91663 | [91663-hotball.json](./91663-hotball.json) |
 | HotBlood Drift | 233168 | [233168-hotblood-drift.json](./233168-hotblood-drift.json) |
 | HotBunz | 235902 | [235902-hotbunz.json](./235902-hotbunz.json) |
 | HotCarts | 339143 | [339143-hotcarts.json](./339143-hotcarts.json) |
@@ -10082,6 +10084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Ship | 171944 | [171944-hover-ship.json](./171944-hover-ship.json) |
 | Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
 | Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
+| Hover Sprint | 91664 | [91664-hover-sprint.json](./91664-hover-sprint.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hover Tank 3D | 399596 | [399596-hover-tank-3d.json](./399596-hover-tank-3d.json) |
 | Hover Tank Arena | 121944 | [121944-hover-tank-arena.json](./121944-hover-tank-arena.json) |
@@ -11312,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Primate | 258575 | [258575-hyper-primate.json](./258575-hyper-primate.json) |
 | Hyper Princess Pitch | 79745 | [79745-hyper-princess-pitch.json](./79745-hyper-princess-pitch.json) |
 | Hyper Psychic Gauntlets | 150340 | [150340-hyper-psychic-gauntlets.json](./150340-hyper-psychic-gauntlets.json) |
+| Hyper Rails | 91650 | [91650-hyper-rails.json](./91650-hyper-rails.json) |
 | Hyper Rally | 29034 | [29034-hyper-rally.json](./29034-hyper-rally.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
