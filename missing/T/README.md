@@ -9637,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist mobile | 83914 | [83914-the-heist-mobile.json](./83914-the-heist-mobile.json) |
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
 | The Heist: Monaco | 313820 | [313820-the-heist-monaco.json](./313820-the-heist-monaco.json) |
+| The Heiwa Otenki Studio | 97639 | [97639-the-heiwa-otenki-studio.json](./97639-the-heiwa-otenki-studio.json) |
 | The Helios Incident | 382257 | [382257-the-helios-incident.json](./382257-the-helios-incident.json) |
 | The Hell Hives | 156053 | [156053-the-hell-hives.json](./156053-the-hell-hives.json) |
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
@@ -14836,6 +14837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ship | 221215 | [221215-the-ship.json](./221215-the-ship.json) |
 | The Ship: Murder Party | 5922 | [5922-the-ship-murder-party.json](./5922-the-ship-murder-party.json) |
 | The Shochu Bar | 341011 | [341011-the-shochu-bar.json](./341011-the-shochu-bar.json) |
+| The Shocker | 97630 | [97630-the-shocker.json](./97630-the-shocker.json) |
 | The Shocking World Mysteries | 399791 | [399791-the-shocking-world-mysteries.json](./399791-the-shocking-world-mysteries.json) |
 | The Shoe Dept. | 57481 | [57481-the-shoe-dept.json](./57481-the-shoe-dept.json) |
 | The Shogun Empire | 22130 | [22130-the-shogun-empire.json](./22130-the-shogun-empire.json) |
@@ -15913,6 +15915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tennis Master | 215247 | [215247-the-tennis-master.json](./215247-the-tennis-master.json) |
 | The Tension | 110764 | [110764-the-tension.json](./110764-the-tension.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
+| The Tentacle Hunter, Yuri | 97619 | [97619-the-tentacle-hunter-yuri.json](./97619-the-tentacle-hunter-yuri.json) |
 | The Tentacularly Adorned Royal Knightess | 82730 | [82730-the-tentacularly-adorned-royal-knightess.json](./82730-the-tentacularly-adorned-royal-knightess.json) |
 | The Tenth Line | 27973 | [27973-the-tenth-line.json](./27973-the-tenth-line.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
@@ -29123,6 +29126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
 | Tsubasa no Oka no Hime: A Red and Blue Moon Finite Loop | 255620 | [255620-tsubasa-no-oka-no-hime-a-red-and-blue-moon-finite-loop.json](./255620-tsubasa-no-oka-no-hime-a-red-and-blue-moon-finite-loop.json) |
 | Tsubasa+ | 188242 | [188242-tsubasa.json](./188242-tsubasa.json) |
+| Tsubomi | 97635 | [97635-tsubomi.json](./97635-tsubomi.json) |
 | TsucnenT's Treasures | 369225 | [369225-tsucnents-treasures.json](./369225-tsucnents-treasures.json) |
 | TsucnenT's Treasures II | 369226 | [369226-tsucnents-treasures-ii.json](./369226-tsucnents-treasures-ii.json) |
 | Tsugi no Giseisha wo Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami wo | 340532 | [340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json](./340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json) |
