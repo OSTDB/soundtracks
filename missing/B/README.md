@@ -7037,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Brickout | 370290 | [370290-bikini-brickout.json](./370290-bikini-brickout.json) |
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
 | Bikini Girls | 387080 | [387080-bikini-girls.json](./387080-bikini-girls.json) |
+| Bikini Heaven | 107494 | [107494-bikini-heaven.json](./107494-bikini-heaven.json) |
 | Bikini Horrors | 406521 | [406521-bikini-horrors.json](./406521-bikini-horrors.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bikini Island | 385819 | [385819-bikini-island.json](./385819-bikini-island.json) |
@@ -11723,6 +11724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs Hidden Rio De Janeiro | 344522 | [344522-boobs-hidden-rio-de-janeiro.json](./344522-boobs-hidden-rio-de-janeiro.json) |
 | Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
 | Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
+| Boobs Puzzle | 107528 | [107528-boobs-puzzle.json](./107528-boobs-puzzle.json) |
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Boobs vs Aliens | 229234 | [229234-boobs-vs-aliens.json](./229234-boobs-vs-aliens.json) |
 | Boobs vs Zombies | 114292 | [114292-boobs-vs-zombies.json](./114292-boobs-vs-zombies.json) |
@@ -13662,6 +13664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Block | 384279 | [384279-break-the-block.json](./384279-break-the-block.json) |
+| Break the Blocks | 107492 | [107492-break-the-blocks.json](./107492-break-the-blocks.json) |
 | Break the Cookie | 43164 | [43164-break-the-cookie.json](./43164-break-the-cookie.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
@@ -13734,6 +13737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
+| BreakHack | 107503 | [107503-breakhack.json](./107503-breakhack.json) |
 | Breaking & Entering | 200857 | [200857-breaking-and-entering.json](./200857-breaking-and-entering.json) |
 | Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
 | Breaking Bad: Criminal Elements | 114003 | [114003-breaking-bad-criminal-elements.json](./114003-breaking-bad-criminal-elements.json) |
