@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateless Night | 207621 | [207621-fateless-night.json](./207621-fateless-night.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fatermyth | 291159 | [291159-fatermyth.json](./291159-fatermyth.json) |
+| Fates & Constellations | 120534 | [120534-fates-and-constellations.json](./120534-fates-and-constellations.json) |
 | Fates Call: A New Beginning | 169480 | [169480-fates-call-a-new-beginning.json](./169480-fates-call-a-new-beginning.json) |
 | Fates Forever | 19247 | [19247-fates-forever.json](./19247-fates-forever.json) |
 | Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
@@ -6748,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashback 2: Collector's Edition | 283623 | [283623-flashback-2-collectors-edition.json](./283623-flashback-2-collectors-edition.json) |
 | Flashback 2: Limited Edition | 210910 | [210910-flashback-2-limited-edition.json](./210910-flashback-2-limited-edition.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
+| Flashback Mobile | 120561 | [120561-flashback-mobile.json](./120561-flashback-mobile.json) |
 | Flashback to Hell | 261172 | [261172-flashback-to-hell.json](./261172-flashback-to-hell.json) |
 | Flashback: The Quest for Identity | 4275 | [4275-flashback-the-quest-for-identity.json](./4275-flashback-the-quest-for-identity.json) |
 | Flashbound | 381023 | [381023-flashbound.json](./381023-flashbound.json) |
