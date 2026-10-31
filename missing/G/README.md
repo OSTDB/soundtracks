@@ -3713,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls 'n Ghosts | 262502 | [262502-ghouls-n-ghosts.json](./262502-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts | 262503 | [262503-ghouls-n-ghosts.json](./262503-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts | 262507 | [262507-ghouls-n-ghosts.json](./262507-ghouls-n-ghosts.json) |
+| Ghouls 'n Ghosts Mobile | 106879 | [106879-ghouls-n-ghosts-mobile.json](./106879-ghouls-n-ghosts-mobile.json) |
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Ghouls & Guardians | 348982 | [348982-ghouls-and-guardians.json](./348982-ghouls-and-guardians.json) |
