@@ -5221,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Dish | 413454 | [413454-goblin-dish.json](./413454-goblin-dish.json) |
 | Goblin Down | 247973 | [247973-goblin-down.json](./247973-goblin-down.json) |
 | Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
+| Goblin Gearshop | 81826 | [81826-goblin-gearshop.json](./81826-goblin-gearshop.json) |
 | Goblin Gladiators | 201414 | [201414-goblin-gladiators.json](./201414-goblin-gladiators.json) |
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
 | Goblin Gold Hunt | 379121 | [379121-goblin-gold-hunt.json](./379121-goblin-gold-hunt.json) |
