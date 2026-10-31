@@ -7562,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Life: Deluxe Edition | 331246 | [331246-ambulance-life-deluxe-edition.json](./331246-ambulance-life-deluxe-edition.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambulance Rescue | 101678 | [101678-ambulance-rescue.json](./101678-ambulance-rescue.json) |
+| Ambulance Rescue Driving | 108685 | [108685-ambulance-rescue-driving.json](./108685-ambulance-rescue-driving.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
 | Ambulance Simulator 911 Emergency | 293128 | [293128-ambulance-simulator-911-emergency.json](./293128-ambulance-simulator-911-emergency.json) |
 | Ambulance Simulator 911 Rescue | 370560 | [370560-ambulance-simulator-911-rescue.json](./370560-ambulance-simulator-911-rescue.json) |
@@ -12886,6 +12887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow of Laputa | 227979 | [227979-arrow-of-laputa.json](./227979-arrow-of-laputa.json) |
 | Arrow of Laputa: Kage Nashi Sensei to Kiron no Fuuken | 59210 | [59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json](./59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
+| Arrow Point | 108726 | [108726-arrow-point.json](./108726-arrow-point.json) |
 | Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | Arrow Survival: 15 Seconds | 372080 | [372080-arrow-survival-15-seconds.json](./372080-arrow-survival-15-seconds.json) |
@@ -16493,6 +16495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azito x Tatsunoko | 60963 | [60963-azito-x-tatsunoko.json](./60963-azito-x-tatsunoko.json) |
 | Azkend | 20368 | [20368-azkend.json](./20368-azkend.json) |
 | Azkend 2: The World Beneath | 19893 | [19893-azkend-2-the-world-beneath.json](./19893-azkend-2-the-world-beneath.json) |
+| Azkend HD | 108705 | [108705-azkend-hd.json](./108705-azkend-hd.json) |
 | Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
 | Azmar Quest | 134836 | [134836-azmar-quest.json](./134836-azmar-quest.json) |
 | Aznak | 199312 | [199312-aznak.json](./199312-aznak.json) |
