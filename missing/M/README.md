@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machi Koro With Everyone | 266751 | [266751-machi-koro-with-everyone.json](./266751-machi-koro-with-everyone.json) |
 | Machi no Pet-Ya-San DS 2: Wannyan 333-Hiki Daishuugou! | 133796 | [133796-machi-no-pet-ya-san-ds-2-wannyan-333-hiki-daishuugou.json](./133796-machi-no-pet-ya-san-ds-2-wannyan-333-hiki-daishuugou.json) |
 | Machi no Pet-Ya-San DS: Wan-chan 200-Hiki Daishuugou | 133795 | [133795-machi-no-pet-ya-san-ds-wan-chan-200-hiki-daishuugou.json](./133795-machi-no-pet-ya-san-ds-wan-chan-200-hiki-daishuugou.json) |
+| Machi-Ing Maker 3 x Tousouchuu | 78421 | [78421-machi-ing-maker-3-x-tousouchuu.json](./78421-machi-ing-maker-3-x-tousouchuu.json) |
 | Machi-ing Maker 4 | 65510 | [65510-machi-ing-maker-4.json](./65510-machi-ing-maker-4.json) |
 | Machi-ing Maker DS | 78333 | [78333-machi-ing-maker-ds.json](./78333-machi-ing-maker-ds.json) |
 | Machi: Above the Void | 253503 | [253503-machi-above-the-void.json](./253503-machi-above-the-void.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
 | Mahjong Egyptian: The Mystery of the Pharaoh | 238692 | [238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json](./238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json) |
+| Mahjong Elements | 78426 | [78426-mahjong-elements.json](./78426-mahjong-elements.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Elements HDX | 88370 | [88370-mahjong-elements-hdx.json](./88370-mahjong-elements-hdx.json) |
 | Mahjong Epic | 83414 | [83414-mahjong-epic.json](./83414-mahjong-epic.json) |
@@ -3001,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
 | Màoxiǎn Shíguāngjī | 148779 | [148779-maoxian-shiguangji.json](./148779-maoxian-shiguangji.json) |
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
+| Map | 78419 | [78419-map.json](./78419-map.json) |
 | Map Game: Or Something | 149905 | [149905-map-game-or-something.json](./149905-map-game-or-something.json) |
 | Map Hopper | 180682 | [180682-map-hopper.json](./180682-map-hopper.json) |
 | Map Map: A Game About Maps | 279120 | [279120-map-map-a-game-about-maps.json](./279120-map-map-a-game-about-maps.json) |
@@ -9961,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Golf 1998 Edition | 77008 | [77008-microsoft-golf-1998-edition.json](./77008-microsoft-golf-1998-edition.json) |
 | Microsoft Golf 1999 Edition | 62240 | [62240-microsoft-golf-1999-edition.json](./62240-microsoft-golf-1999-edition.json) |
 | Microsoft Golf 2.0 | 21860 | [21860-microsoft-golf-2-0.json](./21860-microsoft-golf-2-0.json) |
+| Microsoft Golf 2001 Edition | 78392 | [78392-microsoft-golf-2001-edition.json](./78392-microsoft-golf-2001-edition.json) |
 | Microsoft Golf 3.0 | 78572 | [78572-microsoft-golf-3-0.json](./78572-microsoft-golf-3-0.json) |
 | Microsoft Golf: Multimedia Edition | 314577 | [314577-microsoft-golf-multimedia-edition.json](./314577-microsoft-golf-multimedia-edition.json) |
 | Microsoft Hearts | 51353 | [51353-microsoft-hearts.json](./51353-microsoft-hearts.json) |
@@ -12430,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missão Bioma | 341277 | [341277-missao-bioma.json](./341277-missao-bioma.json) |
 | Missed Messages. | 118171 | [118171-missed-messages.json](./118171-missed-messages.json) |
 | Misshapen | 128977 | [128977-misshapen.json](./128977-misshapen.json) |
+| Misshitsu no Sacrifice | 78401 | [78401-misshitsu-no-sacrifice.json](./78401-misshitsu-no-sacrifice.json) |
 | Missi | 333971 | [333971-missi.json](./333971-missi.json) |
 | Missile Attack | 245437 | [245437-missile-attack.json](./245437-missile-attack.json) |
 | Missile Attack | 71157 | [71157-missile-attack.json](./71157-missile-attack.json) |
@@ -12683,6 +12688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistified | 254375 | [254375-mistified.json](./254375-mistified.json) |
 | Mistlands: Wheats & Demons | 351404 | [351404-mistlands-wheats-and-demons.json](./351404-mistlands-wheats-and-demons.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
+| Mistmare | 78398 | [78398-mistmare.json](./78398-mistmare.json) |
 | Mistmoon Falls | 212085 | [212085-mistmoon-falls.json](./212085-mistmoon-falls.json) |
 | Mistonia's Hope: The Lost Delight | 274882 | [274882-mistonias-hope-the-lost-delight.json](./274882-mistonias-hope-the-lost-delight.json) |
 | Mistover | 116145 | [116145-mistover.json](./116145-mistover.json) |
@@ -15941,6 +15947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mostly Intense Monster Defense | 120961 | [120961-mostly-intense-monster-defense.json](./120961-mostly-intense-monster-defense.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Mostroscopy | 269231 | [269231-mostroscopy.json](./269231-mostroscopy.json) |
+| Mot | 78418 | [78418-mot.json](./78418-mot.json) |
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
 | Mot's Grand Prix | 293749 | [293749-mots-grand-prix.json](./293749-mots-grand-prix.json) |
 | Mota Must Die | 397248 | [397248-mota-must-die.json](./397248-mota-must-die.json) |
