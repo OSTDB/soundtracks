@@ -4073,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
 | Inseedious | 292989 | [292989-inseedious.json](./292989-inseedious.json) |
 | Inselnova | 405707 | [405707-inselnova.json](./405707-inselnova.json) |
+| Insemination Diary of Milk, a Bursting Busty Cow Girl | 83293 | [83293-insemination-diary-of-milk-a-bursting-busty-cow-girl.json](./83293-insemination-diary-of-milk-a-bursting-busty-cow-girl.json) |
 | Insensato | 215196 | [215196-insensato.json](./215196-insensato.json) |
 | Inseparable | 140291 | [140291-inseparable.json](./140291-inseparable.json) |
 | Insert Before Flight | 192060 | [192060-insert-before-flight.json](./192060-insert-before-flight.json) |
@@ -5592,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Defense | 35096 | [35096-island-defense.json](./35096-island-defense.json) |
 | Island Designer | 296652 | [296652-island-designer.json](./296652-island-designer.json) |
 | Island Diary | 154583 | [154583-island-diary.json](./154583-island-diary.json) |
+| Island Dominated by Succubi: You Are A Sex Slave of Lewd Devils | 83290 | [83290-island-dominated-by-succubi-you-are-a-sex-slave-of-lewd-devils.json](./83290-island-dominated-by-succubi-you-are-a-sex-slave-of-lewd-devils.json) |
 | Island Domination | 160018 | [160018-island-domination.json](./160018-island-domination.json) |
 | Island Dwellers | 317874 | [317874-island-dwellers.json](./317874-island-dwellers.json) |
 | Island Elf | 207688 | [207688-island-elf.json](./207688-island-elf.json) |
