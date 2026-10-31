@@ -10882,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rufus Snackdown | 338401 | [338401-rufus-snackdown.json](./338401-rufus-snackdown.json) |
 | Rufus Snow Ride | 338404 | [338404-rufus-snow-ride.json](./338404-rufus-snow-ride.json) |
 | Rug Rats | 292037 | [292037-rug-rats.json](./292037-rug-rats.json) |
+| Rugby | 77083 | [77083-rugby.json](./77083-rugby.json) |
 | Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
