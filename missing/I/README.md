@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | Im Bannkreis | 405660 | [405660-im-bannkreis.json](./405660-im-bannkreis.json) |
+| Im Namen des Gesetzes | 69661 | [69661-im-namen-des-gesetzes.json](./69661-im-namen-des-gesetzes.json) |
 | Im Null | 319635 | [319635-im-null.json](./319635-im-null.json) |
 | Im1A2 Abrams | 93303 | [93303-im1a2-abrams.json](./93303-im1a2-abrams.json) |
 | IMA Miner | 199373 | [199373-ima-miner.json](./199373-ima-miner.json) |
@@ -2814,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | INC | 22331 | [22331-inc.json](./22331-inc.json) |
 | Inc: The Beginning | 370816 | [370816-inc-the-beginning.json](./370816-inc-the-beginning.json) |
 | Inca | 25890 | [25890-inca.json](./25890-inca.json) |
+| Inca | 69664 | [69664-inca.json](./69664-inca.json) |
 | Inca Blocks | 88019 | [88019-inca-blocks.json](./88019-inca-blocks.json) |
 | Inca Curse | 13008 | [13008-inca-curse.json](./13008-inca-curse.json) |
 | Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
