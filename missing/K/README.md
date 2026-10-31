@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinder Finders | 339398 | [339398-kinder-finders.json](./339398-kinder-finders.json) |
 | Kinder Pingui: Fresh Adventures | 186416 | [186416-kinder-pingui-fresh-adventures.json](./186416-kinder-pingui-fresh-adventures.json) |
 | Kinder World | 253710 | [253710-kinder-world.json](./253710-kinder-world.json) |
+| Kindercomp | 93331 | [93331-kindercomp.json](./93331-kindercomp.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
 | Kindergarten | 29526 | [29526-kindergarten.json](./29526-kindergarten.json) |
 | Kindergarten 2 | 118637 | [118637-kindergarten-2.json](./118637-kindergarten-2.json) |
