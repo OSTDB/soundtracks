@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball 707 | 30321 | [30321-paintball-707.json](./30321-paintball-707.json) |
 | Paintball Arena Challenge | 86998 | [86998-paintball-arena-challenge.json](./86998-paintball-arena-challenge.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
+| Paintball Chibis | 112007 | [112007-paintball-chibis.json](./112007-paintball-chibis.json) |
 | Paintball eXtreme | 34793 | [34793-paintball-extreme.json](./34793-paintball-extreme.json) |
 | Paintball Heroes | 25446 | [25446-paintball-heroes.json](./25446-paintball-heroes.json) |
 | Paintball King | 305566 | [305566-paintball-king.json](./305566-paintball-king.json) |
@@ -2170,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkdens | 212059 | [212059-parkdens.json](./212059-parkdens.json) |
 | Parked in the Dark | 128281 | [128281-parked-in-the-dark.json](./128281-parked-in-the-dark.json) |
 | Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
+| Parker & Lane: Criminal Justice | 112026 | [112026-parker-and-lane-criminal-justice.json](./112026-parker-and-lane-criminal-justice.json) |
 | Parker Brothers: Card Games | 100093 | [100093-parker-brothers-card-games.json](./100093-parker-brothers-card-games.json) |
 | Parket Evolution | 213780 | [213780-parket-evolution.json](./213780-parket-evolution.json) |
 | Parking 3D | 119624 | [119624-parking-3d.json](./119624-parking-3d.json) |
@@ -11359,6 +11361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poople | 420545 | [420545-poople.json](./420545-poople.json) |
 | Pooplers | 127599 | [127599-pooplers.json](./127599-pooplers.json) |
 | Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
+| Poopy Philosophy | 111970 | [111970-poopy-philosophy.json](./111970-poopy-philosophy.json) |
 | Poopy Time | 305407 | [305407-poopy-time.json](./305407-poopy-time.json) |
 | Poopy's Wonderland | 331796 | [331796-poopys-wonderland.json](./331796-poopys-wonderland.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
@@ -15689,6 +15692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Remover | 335743 | [335743-pumpkin-remover.json](./335743-pumpkin-remover.json) |
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
 | Pumpkin Ripper | 224723 | [224723-pumpkin-ripper.json](./224723-pumpkin-ripper.json) |
+| Pumpkin Run | 111973 | [111973-pumpkin-run.json](./111973-pumpkin-run.json) |
 | Pumpkin SculptrVR | 30753 | [30753-pumpkin-sculptrvr.json](./30753-pumpkin-sculptrvr.json) |
 | Pumpkin Simulator | 374348 | [374348-pumpkin-simulator.json](./374348-pumpkin-simulator.json) |
 | Pumpkin Slasher | 176231 | [176231-pumpkin-slasher.json](./176231-pumpkin-slasher.json) |
