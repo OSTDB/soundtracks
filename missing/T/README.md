@@ -3010,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Tavern: A Culinary Adventure | 327255 | [327255-teddy-tavern-a-culinary-adventure.json](./327255-teddy-tavern-a-culinary-adventure.json) |
 | Teddy Terror | 25845 | [25845-teddy-terror.json](./25845-teddy-terror.json) |
 | Teddy the Wanderer: Kayaking | 112121 | [112121-teddy-the-wanderer-kayaking.json](./112121-teddy-the-wanderer-kayaking.json) |
+| Teddy The Wanderer: Mountain Hike | 117964 | [117964-teddy-the-wanderer-mountain-hike.json](./117964-teddy-the-wanderer-mountain-hike.json) |
 | Teddy Together | 85430 | [85430-teddy-together.json](./85430-teddy-together.json) |
 | Teddy War II | 350341 | [350341-teddy-war-ii.json](./350341-teddy-war-ii.json) |
 | Teddy's Haven: A Fantasy Inspired Shop Simulator | 342807 | [342807-teddys-haven-a-fantasy-inspired-shop-simulator.json](./342807-teddys-haven-a-fantasy-inspired-shop-simulator.json) |
@@ -8935,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
 | The Game of Dungeons | 146632 | [146632-the-game-of-dungeons.json](./146632-the-game-of-dungeons.json) |
 | The Game of Fourtune | 207591 | [207591-the-game-of-fourtune.json](./207591-the-game-of-fourtune.json) |
+| The Game of Harmony | 117976 | [117976-the-game-of-harmony.json](./117976-the-game-of-harmony.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
 | The Game of Life | 34432 | [34432-the-game-of-life.json](./34432-the-game-of-life.json) |
 | The Game of Life | 88882 | [88882-the-game-of-life.json](./88882-the-game-of-life.json) |
@@ -10621,6 +10623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
 | The Knife of the Traitor | 178802 | [178802-the-knife-of-the-traitor.json](./178802-the-knife-of-the-traitor.json) |
 | The Knight | 234449 | [234449-the-knight.json](./234449-the-knight.json) |
+| The Knight & the Dragon | 117963 | [117963-the-knight-and-the-dragon.json](./117963-the-knight-and-the-dragon.json) |
 | The Knight Dance | 301377 | [301377-the-knight-dance.json](./301377-the-knight-dance.json) |
 | The Knight in Pajamas | 352314 | [352314-the-knight-in-pajamas.json](./352314-the-knight-in-pajamas.json) |
 | The Knight of Nephiart | 151700 | [151700-the-knight-of-nephiart.json](./151700-the-knight-of-nephiart.json) |
@@ -18167,6 +18170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Not the End | 129466 | [129466-this-is-not-the-end.json](./129466-this-is-not-the-end.json) |
 | This is Not Your House | 315439 | [315439-this-is-not-your-house.json](./315439-this-is-not-your-house.json) |
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
+| This Is Snooker | 117975 | [117975-this-is-snooker.json](./117975-this-is-snooker.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
 | This is the last time | 337550 | [337550-this-is-the-last-time.json](./337550-this-is-the-last-time.json) |
 | This is the Only Level 3 | 141673 | [141673-this-is-the-only-level-3.json](./141673-this-is-the-only-level-3.json) |
@@ -20888,6 +20892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
 | Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
 | Time Zone | 86000 | [86000-time-zone.json](./86000-time-zone.json) |
+| Time Zone Arena | 117998 | [117998-time-zone-arena.json](./117998-time-zone-arena.json) |
 | Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
 | Time's Abyss | 379103 | [379103-times-abyss.json](./379103-times-abyss.json) |
 | Time's Disillusion | 236960 | [236960-times-disillusion.json](./236960-times-disillusion.json) |
@@ -23897,6 +23902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku Maze | 304050 | [304050-touhou-danmaku-maze.json](./304050-touhou-danmaku-maze.json) |
 | Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete | 339125 | [339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json](./339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json) |
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
+| Touhou Dark Echoes | 118003 | [118003-touhou-dark-echoes.json](./118003-touhou-dark-echoes.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Diablo 2: Gensokyo Treasure Hunting | 185919 | [185919-touhou-diablo-2-gensokyo-treasure-hunting.json](./185919-touhou-diablo-2-gensokyo-treasure-hunting.json) |
 | Touhou Diablo: Treasure Hunter G | 191487 | [191487-touhou-diablo-treasure-hunter-g.json](./191487-touhou-diablo-treasure-hunter-g.json) |
@@ -29938,6 +29944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twirl and Hurl | 397109 | [397109-twirl-and-hurl.json](./397109-twirl-and-hurl.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
 | Twist | 88884 | [88884-twist.json](./88884-twist.json) |
+| Twist & Match | 117977 | [117977-twist-and-match.json](./117977-twist-and-match.json) |
 | Twist & Switch Bundle | 147767 | [147767-twist-and-switch-bundle.json](./147767-twist-and-switch-bundle.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twist 02: Baruklinting | 214627 | [214627-twist-02-baruklinting.json](./214627-twist-02-baruklinting.json) |
