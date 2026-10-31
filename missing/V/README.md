@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage | 381061 | [381061-voyage.json](./381061-voyage.json) |
 | Voyage Century | 92395 | [92395-voyage-century.json](./92395-voyage-century.json) |
 | Voyage en Premiere Classe! | 359455 | [359455-voyage-en-premiere-classe.json](./359455-voyage-en-premiere-classe.json) |
+| Voyage of the Dead | 121959 | [121959-voyage-of-the-dead.json](./121959-voyage-of-the-dead.json) |
 | Voyage of the Starship Lexicon | 60486 | [60486-voyage-of-the-starship-lexicon.json](./60486-voyage-of-the-starship-lexicon.json) |
 | Voyage of the Valkyrie | 24882 | [24882-voyage-of-the-valkyrie.json](./24882-voyage-of-the-valkyrie.json) |
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
