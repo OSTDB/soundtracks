@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Fishing | 373656 | [373656-rage-fishing.json](./373656-rage-fishing.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Hard | 67636 | [67636-rage-hard.json](./67636-rage-hard.json) |
+| Rage HD | 96441 | [96441-rage-hd.json](./96441-rage-hd.json) |
 | Rage Jump | 141019 | [141019-rage-jump.json](./141019-rage-jump.json) |
 | Rage Mountain Rally | 420485 | [420485-rage-mountain-rally.json](./420485-rage-mountain-rally.json) |
 | Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
@@ -6623,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride the Bullet | 35570 | [35570-ride-the-bullet.json](./35570-ride-the-bullet.json) |
 | Ride the Comix | 137007 | [137007-ride-the-comix.json](./137007-ride-the-comix.json) |
 | Ride the Tuft | 70036 | [70036-ride-the-tuft.json](./70036-ride-the-tuft.json) |
+| Ride to Canada | 96455 | [96455-ride-to-canada.json](./96455-ride-to-canada.json) |
 | Ride to Hell: Beatdown | 63559 | [63559-ride-to-hell-beatdown.json](./63559-ride-to-hell-beatdown.json) |
 | Ride to Hell: Retribution | 2110 | [2110-ride-to-hell-retribution.json](./2110-ride-to-hell-retribution.json) |
 | Ride to Hell: Route 666 | 63561 | [63561-ride-to-hell-route-666.json](./63561-ride-to-hell-route-666.json) |
@@ -9589,6 +9591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | Rolling Voltorb | 70084 | [70084-rolling-voltorb.json](./70084-rolling-voltorb.json) |
 | Rolling Wheels | 308993 | [308993-rolling-wheels.json](./308993-rolling-wheels.json) |
+| RollingBall: Unlimited World | 96428 | [96428-rollingball-unlimited-world.json](./96428-rollingball-unlimited-world.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | RollingSky2 | 126505 | [126505-rollingsky2.json](./126505-rollingsky2.json) |
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
@@ -10479,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roy Rattler | 298420 | [298420-roy-rattler.json](./298420-roy-rattler.json) |
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
 | Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
+| Royal Adventure | 96434 | [96434-royal-adventure.json](./96434-royal-adventure.json) |
 | Royal Adviser | 117969 | [117969-royal-adviser.json](./117969-royal-adviser.json) |
 | Royal Affairs | 235926 | [235926-royal-affairs.json](./235926-royal-affairs.json) |
 | Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
@@ -11699,6 +11703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Overkill | 134501 | [134501-russian-overkill.json](./134501-russian-overkill.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
+| Russian Prison Sport: Ochko | 96458 | [96458-russian-prison-sport-ochko.json](./96458-russian-prison-sport-ochko.json) |
 | Russian Prison Tattoo Simulator | 155884 | [155884-russian-prison-tattoo-simulator.json](./155884-russian-prison-tattoo-simulator.json) |
 | Russian Prisoner VS Nazi Zombies | 90177 | [90177-russian-prisoner-vs-nazi-zombies.json](./90177-russian-prisoner-vs-nazi-zombies.json) |
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
