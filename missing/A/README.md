@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Week in the Life of Asocial Giraffe | 333220 | [333220-a-week-in-the-life-of-asocial-giraffe.json](./333220-a-week-in-the-life-of-asocial-giraffe.json) |
 | A Week in the Office: Under the Table | 154976 | [154976-a-week-in-the-office-under-the-table.json](./154976-a-week-in-the-office-under-the-table.json) |
 | A Week of Circus Terror | 32169 | [32169-a-week-of-circus-terror.json](./32169-a-week-of-circus-terror.json) |
+| A Week of Garfield: Garfield no Isshukan | 69023 | [69023-a-week-of-garfield-garfield-no-isshukan.json](./69023-a-week-of-garfield-garfield-no-isshukan.json) |
 | A Weekend at Villa Apate | 177893 | [177893-a-weekend-at-villa-apate.json](./177893-a-weekend-at-villa-apate.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
 | A Weird Game About Sausage | 405185 | [405185-a-weird-game-about-sausage.json](./405185-a-weird-game-about-sausage.json) |
@@ -3437,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Mirror Domain | 294118 | [294118-adventures-of-mirror-domain.json](./294118-adventures-of-mirror-domain.json) |
 | Adventures of Mister Big T 2: Dimensional Problems | 372222 | [372222-adventures-of-mister-big-t-2-dimensional-problems.json](./372222-adventures-of-mister-big-t-2-dimensional-problems.json) |
 | Adventures of Norman the Cat | 409368 | [409368-adventures-of-norman-the-cat.json](./409368-adventures-of-norman-the-cat.json) |
+| Adventures of Pinocchio | 69034 | [69034-adventures-of-pinocchio.json](./69034-adventures-of-pinocchio.json) |
 | Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Quin85 | 209629 | [209629-adventures-of-quin85.json](./209629-adventures-of-quin85.json) |
@@ -5961,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
 | Alice Greenfingers 2 | 64732 | [64732-alice-greenfingers-2.json](./64732-alice-greenfingers-2.json) |
 | Alice in CyberCity | 118594 | [118594-alice-in-cybercity.json](./118594-alice-in-cybercity.json) |
+| Alice in Cyberland | 69003 | [69003-alice-in-cyberland.json](./69003-alice-in-cyberland.json) |
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
 | Alice in Dreamland | 240733 | [240733-alice-in-dreamland.json](./240733-alice-in-dreamland.json) |
 | Alice in Maniacland | 316479 | [316479-alice-in-maniacland.json](./316479-alice-in-maniacland.json) |
