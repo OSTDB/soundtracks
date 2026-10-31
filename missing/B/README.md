@@ -3886,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds: At Enemy Gates | 266615 | [266615-battlegrounds-at-enemy-gates.json](./266615-battlegrounds-at-enemy-gates.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGrounds: War, Tanks and Nukes | 169665 | [169665-battlegrounds-war-tanks-and-nukes.json](./169665-battlegrounds-war-tanks-and-nukes.json) |
+| Battlegrounds2D.io | 113318 | [113318-battlegrounds2d-io.json](./113318-battlegrounds2d-io.json) |
 | BattleGroupVR | 131215 | [131215-battlegroupvr.json](./131215-battlegroupvr.json) |
 | BattleGroupVR2 | 344170 | [344170-battlegroupvr2.json](./344170-battlegroupvr2.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
@@ -9465,6 +9466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
 | Block Fortress 2 | 318705 | [318705-block-fortress-2.json](./318705-block-fortress-2.json) |
 | Block Fortress: Empires | 119483 | [119483-block-fortress-empires.json](./119483-block-fortress-empires.json) |
+| Block Fuse | 113326 | [113326-block-fuse.json](./113326-block-fuse.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
 | Block Games:Avoid | 273764 | [273764-block-games-avoid.json](./273764-block-games-avoid.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
@@ -9854,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Bowl: Legendary Edition | 10055 | [10055-blood-bowl-legendary-edition.json](./10055-blood-bowl-legendary-edition.json) |
 | Blood Branched Sakura | 129754 | [129754-blood-branched-sakura.json](./129754-blood-branched-sakura.json) |
+| Blood Broker | 113304 | [113304-blood-broker.json](./113304-blood-broker.json) |
 | Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
 | Blood Brothers | 120125 | [120125-blood-brothers.json](./120125-blood-brothers.json) |
 | Blood Brothers | 127892 | [127892-blood-brothers.json](./127892-blood-brothers.json) |
