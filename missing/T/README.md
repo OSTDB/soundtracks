@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Chandar | 149681 | [149681-tales-of-chandar.json](./149681-tales-of-chandar.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
 | Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
+| Tales of Crestoria | 109283 | [109283-tales-of-crestoria.json](./109283-tales-of-crestoria.json) |
 | Tales of Demagost: Exodus | 373326 | [373326-tales-of-demagost-exodus.json](./373326-tales-of-demagost-exodus.json) |
 | Tales of Demons and Gods | 232898 | [232898-tales-of-demons-and-gods.json](./232898-tales-of-demons-and-gods.json) |
 | Tales of Destiny | 1201 | [1201-tales-of-destiny.json](./1201-tales-of-destiny.json) |
@@ -4843,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 3D Gamemaker | 270689 | [270689-the-3d-gamemaker.json](./270689-the-3d-gamemaker.json) |
 | The 3D Machine | 196817 | [196817-the-3d-machine.json](./196817-the-3d-machine.json) |
 | The 3rd Birthday | 7359 | [7359-the-3rd-birthday.json](./7359-the-3rd-birthday.json) |
+| The 3rd Millennium | 109262 | [109262-the-3rd-millennium.json](./109262-the-3rd-millennium.json) |
 | The 3rd Night | 281684 | [281684-the-3rd-night.json](./281684-the-3rd-night.json) |
 | The 4 Masters of Melody | 259767 | [259767-the-4-masters-of-melody.json](./259767-the-4-masters-of-melody.json) |
 | The 4 Sins | 286656 | [286656-the-4-sins.json](./286656-the-4-sins.json) |
@@ -16970,6 +16972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of Genesis IV: Spiral Genesis | 58763 | [58763-the-war-of-genesis-iv-spiral-genesis.json](./58763-the-war-of-genesis-iv-spiral-genesis.json) |
 | The War of Genesis Side Story 2: Tempest | 108756 | [108756-the-war-of-genesis-side-story-2-tempest.json](./108756-the-war-of-genesis-side-story-2-tempest.json) |
 | The War of Genesis Side Story I: Rhapsody of Zephyr | 47016 | [47016-the-war-of-genesis-side-story-i-rhapsody-of-zephyr.json](./47016-the-war-of-genesis-side-story-i-rhapsody-of-zephyr.json) |
+| The War of Genesis: Battle for Athena | 109244 | [109244-the-war-of-genesis-battle-for-athena.json](./109244-the-war-of-genesis-battle-for-athena.json) |
 | The War of Genesis: Battle of Antaria | 110293 | [110293-the-war-of-genesis-battle-of-antaria.json](./110293-the-war-of-genesis-battle-of-antaria.json) |
 | The War of Genesis: Remnants of Gray | 137626 | [137626-the-war-of-genesis-remnants-of-gray.json](./137626-the-war-of-genesis-remnants-of-gray.json) |
 | The War of the Willows | 59675 | [59675-the-war-of-the-willows.json](./59675-the-war-of-the-willows.json) |
@@ -17599,6 +17602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
 | TheHunter Classic | 23636 | [23636-thehunter-classic.json](./23636-thehunter-classic.json) |
 | TheHunter: Call of the Wild | 26381 | [26381-thehunter-call-of-the-wild.json](./26381-thehunter-call-of-the-wild.json) |
+| TheHunter: Call of the Wild - 2019 Edition | 109242 | [109242-thehunter-call-of-the-wild-2019-edition.json](./109242-thehunter-call-of-the-wild-2019-edition.json) |
 | TheHunter: Call of the Wild - 2021 Edition | 140946 | [140946-thehunter-call-of-the-wild-2021-edition.json](./140946-thehunter-call-of-the-wild-2021-edition.json) |
 | TheHunter: Call of the Wild - Alberta Hunting Preserve | 355064 | [355064-thehunter-call-of-the-wild-alberta-hunting-preserve.json](./355064-thehunter-call-of-the-wild-alberta-hunting-preserve.json) |
 | TheHunter: Call of the Wild - Ambusher Pack | 272290 | [272290-thehunter-call-of-the-wild-ambusher-pack.json](./272290-thehunter-call-of-the-wild-ambusher-pack.json) |
@@ -24683,6 +24687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Towerdefense Blobsmash | 344730 | [344730-towerdefense-blobsmash.json](./344730-towerdefense-blobsmash.json) |
 | Towered | 423897 | [423897-towered.json](./423897-towered.json) |
+| TowerFall | 109280 | [109280-towerfall.json](./109280-towerfall.json) |
 | Towerfall 8-Player | 133331 | [133331-towerfall-8-player.json](./133331-towerfall-8-player.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
@@ -27833,6 +27838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle: Cursed Town | 343690 | [343690-triangle-cursed-town.json](./343690-triangle-cursed-town.json) |
 | TriangleStorm | 126791 | [126791-trianglestorm.json](./126791-trianglestorm.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
+| Triangul8 | 109290 | [109290-triangul8.json](./109290-triangul8.json) |
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
 | Triangulate | 52768 | [52768-triangulate.json](./52768-triangulate.json) |
 | Triangulation | 181789 | [181789-triangulation.json](./181789-triangulation.json) |
@@ -28342,6 +28348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trogloxene | 178256 | [178256-trogloxene.json](./178256-trogloxene.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
+| Troisix | 109285 | [109285-troisix.json](./109285-troisix.json) |
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
 | Trojan | 270316 | [270316-trojan.json](./270316-trojan.json) |
 | Trojan | 287583 | [287583-trojan.json](./287583-trojan.json) |
@@ -28862,6 +28869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trupuzzle | 233723 | [233723-trupuzzle.json](./233723-trupuzzle.json) |
 | Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
 | Truss | 230370 | [230370-truss.json](./230370-truss.json) |
+| Truss Me! | 109232 | [109232-truss-me.json](./109232-truss-me.json) |
 | Trust | 341979 | [341979-trust.json](./341979-trust.json) |
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
 | Trust & Safety Tycoon | 343212 | [343212-trust-and-safety-tycoon.json](./343212-trust-and-safety-tycoon.json) |
