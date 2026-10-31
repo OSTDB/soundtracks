@@ -9829,6 +9829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunBlaze | 66892 | [66892-gunblaze.json](./66892-gunblaze.json) |
 | GunBlaze S | 66888 | [66888-gunblaze-s.json](./66888-gunblaze-s.json) |
 | GunBlocks | 168315 | [168315-gunblocks.json](./168315-gunblocks.json) |
+| Gunblood | 78397 | [78397-gunblood.json](./78397-gunblood.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | Gunborg: Dark Matters | 151140 | [151140-gunborg-dark-matters.json](./151140-gunborg-dark-matters.json) |
