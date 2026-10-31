@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darconika: The Cube of Soul | 32850 | [32850-darconika-the-cube-of-soul.json](./32850-darconika-the-cube-of-soul.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
+| Dare Course | 105616 | [105616-dare-course.json](./105616-dare-course.json) |
 | Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
 | Dare Devil | 182674 | [182674-dare-devil.json](./182674-dare-devil.json) |
 | Dare Devil Derby 3D | 43916 | [43916-dare-devil-derby-3d.json](./43916-dare-devil-derby-3d.json) |
@@ -6200,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depict1 | 186635 | [186635-depict1.json](./186635-depict1.json) |
 | Depixtion | 119465 | [119465-depixtion.json](./119465-depixtion.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
+| Deplau | 105642 | [105642-deplau.json](./105642-deplau.json) |
 | Deploy and Destroy: Ash vs ED | 103550 | [103550-deploy-and-destroy-ash-vs-ed.json](./103550-deploy-and-destroy-ash-vs-ed.json) |
 | Deployment | 80985 | [80985-deployment.json](./80985-deployment.json) |
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
@@ -10900,6 +10902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollhouse of Dead | 366724 | [366724-dollhouse-of-dead.json](./366724-dollhouse-of-dead.json) |
 | Dollhouse: Deluxe Edition | 120800 | [120800-dollhouse-deluxe-edition.json](./120800-dollhouse-deluxe-edition.json) |
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
+| DollKart | 105591 | [105591-dollkart.json](./105591-dollkart.json) |
 | Dollmaker | 325919 | [325919-dollmaker.json](./325919-dollmaker.json) |
 | Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
