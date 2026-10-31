@@ -3065,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to... Chichester 2: Part II - No Extra Regrets For the Future | 170400 | [170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json](./170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json) |
 | Welcome to... Chichester 2: Part II - No Regrets For the Future | 119985 | [119985-welcome-to-chichester-2-part-ii-no-regrets-for-the-future.json](./119985-welcome-to-chichester-2-part-ii-no-regrets-for-the-future.json) |
 | Welcome To... Chichester 2: Part III - NightFall | 130712 | [130712-welcome-to-chichester-2-part-iii-nightfall.json](./130712-welcome-to-chichester-2-part-iii-nightfall.json) |
+| Welcome To... Chichester 3 : The Demon Of Chichester And The Last Day | 115957 | [115957-welcome-to-chichester-3-the-demon-of-chichester-and-the-last-day.json](./115957-welcome-to-chichester-3-the-demon-of-chichester-and-the-last-day.json) |
 | Welcome To... Chichester 3: Original Episode | 169960 | [169960-welcome-to-chichester-3-original-episode.json](./169960-welcome-to-chichester-3-original-episode.json) |
 | Welcome To... Chichester OVN : The Beach | 118033 | [118033-welcome-to-chichester-ovn-the-beach.json](./118033-welcome-to-chichester-ovn-the-beach.json) |
 | Welcome To... Chichester OVN 2 : Master Tormenter Grendel Jinx !? | 123961 | [123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json](./123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json) |
