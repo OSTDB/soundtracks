@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
+| Thanksgiving Day Griddlers | 103784 | [103784-thanksgiving-day-griddlers.json](./103784-thanksgiving-day-griddlers.json) |
 | Thanksgiving Day Mosaic | 104343 | [104343-thanksgiving-day-mosaic.json](./104343-thanksgiving-day-mosaic.json) |
 | Thanksgivingistry | 55656 | [55656-thanksgivingistry.json](./55656-thanksgivingistry.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
@@ -11713,6 +11714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Life Together Online | 373827 | [373827-the-life-together-online.json](./373827-the-life-together-online.json) |
 | The Life We've Chosen | 288088 | [288088-the-life-weve-chosen.json](./288088-the-life-weve-chosen.json) |
+| The Life's Lane | 103773 | [103773-the-lifes-lane.json](./103773-the-lifes-lane.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
 | The Lift | 108320 | [108320-the-lift.json](./108320-the-lift.json) |
 | The Liftboy | 346377 | [346377-the-liftboy.json](./346377-the-liftboy.json) |
@@ -13535,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirates of Dark Water | 218350 | [218350-the-pirates-of-dark-water.json](./218350-the-pirates-of-dark-water.json) |
 | The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Pirates of Dark Water | 8104 | [8104-the-pirates-of-dark-water.json](./8104-the-pirates-of-dark-water.json) |
+| The Pirates of Sector 7 | 103787 | [103787-the-pirates-of-sector-7.json](./103787-the-pirates-of-sector-7.json) |
 | The Pirates: Kingdoms | 188298 | [188298-the-pirates-kingdoms.json](./188298-the-pirates-kingdoms.json) |
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
@@ -13798,6 +13801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
 | The Pursuing Realm | 128803 | [128803-the-pursuing-realm.json](./128803-the-pursuing-realm.json) |
 | The Pusher | 112676 | [112676-the-pusher.json](./112676-the-pusher.json) |
+| The Putinland: Divide & Conquer | 103774 | [103774-the-putinland-divide-and-conquer.json](./103774-the-putinland-divide-and-conquer.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
 | The Puzzle 11 | 90827 | [90827-the-puzzle-11.json](./90827-the-puzzle-11.json) |
 | The Puzzle Factory | 241783 | [241783-the-puzzle-factory.json](./241783-the-puzzle-factory.json) |
@@ -14726,6 +14730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Cosmos | 373142 | [373142-the-shadow-cosmos.json](./373142-the-shadow-cosmos.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Ayutthaya | 374649 | [374649-the-shadow-of-ayutthaya.json](./374649-the-shadow-of-ayutthaya.json) |
+| The Shadow of Hell | 103793 | [103793-the-shadow-of-hell.json](./103793-the-shadow-of-hell.json) |
 | The Shadow of Oberbaum Bridge | 184718 | [184718-the-shadow-of-oberbaum-bridge.json](./184718-the-shadow-of-oberbaum-bridge.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
 | The Shadow of Swallow | 333045 | [333045-the-shadow-of-swallow.json](./333045-the-shadow-of-swallow.json) |
@@ -22071,6 +22076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Life: Town | 74728 | [74728-toca-life-town.json](./74728-toca-life-town.json) |
 | Toca Life: Vacation | 181586 | [181586-toca-life-vacation.json](./181586-toca-life-vacation.json) |
+| Toca Mystery House | 103744 | [103744-toca-mystery-house.json](./103744-toca-mystery-house.json) |
 | Toca Pet Doctor | 74729 | [74729-toca-pet-doctor.json](./74729-toca-pet-doctor.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
@@ -22097,6 +22103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todd:Howard - You can (not) play forever | 113540 | [113540-todd-howard-you-can-not-play-forever.json](./113540-todd-howard-you-can-not-play-forever.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Flashcards HD: Baby Learning Games & Apps | 87576 | [87576-toddler-flashcards-hd-baby-learning-games-and-apps.json](./87576-toddler-flashcards-hd-baby-learning-games-and-apps.json) |
+| Toddler Games: puzzles, shapes | 103747 | [103747-toddler-games-puzzles-shapes.json](./103747-toddler-games-puzzles-shapes.json) |
 | Toddler Learning Game-EduKitty | 86788 | [86788-toddler-learning-game-edukitty.json](./86788-toddler-learning-game-edukitty.json) |
 | Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
