@@ -7968,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Jigsaw Valentine's Day 3 | 296813 | [296813-holiday-jigsaw-valentines-day-3.json](./296813-holiday-jigsaw-valentines-day-3.json) |
 | Holiday Jigsaw Valentines Day | 54087 | [54087-holiday-jigsaw-valentines-day.json](./54087-holiday-jigsaw-valentines-day.json) |
 | Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
+| Holiday Jigsaw: Christmas 4 | 99311 | [99311-holiday-jigsaw-christmas-4.json](./99311-holiday-jigsaw-christmas-4.json) |
 | Holiday Jigsaw: Halloween 3 | 106862 | [106862-holiday-jigsaw-halloween-3.json](./106862-holiday-jigsaw-halloween-3.json) |
 | Holiday Jigsaw: Halloween 4 | 108199 | [108199-holiday-jigsaw-halloween-4.json](./108199-holiday-jigsaw-halloween-4.json) |
 | Holiday Jigsaw: Thanksgiving Day | 192169 | [192169-holiday-jigsaw-thanksgiving-day.json](./192169-holiday-jigsaw-thanksgiving-day.json) |
