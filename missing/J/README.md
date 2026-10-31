@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Scalawag: The King of Shooters | 327158 | [327158-jet-scalawag-the-king-of-shooters.json](./327158-jet-scalawag-the-king-of-shooters.json) |
 | Jet Set Corps | 172947 | [172947-jet-set-corps.json](./172947-jet-set-corps.json) |
 | Jet Set Gertie | 380103 | [380103-jet-set-gertie.json](./380103-jet-set-gertie.json) |
+| Jet Set Go | 106244 | [106244-jet-set-go.json](./106244-jet-set-go.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
 | Jet Set Radio | 21004 | [21004-jet-set-radio.json](./21004-jet-set-radio.json) |
 | Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
