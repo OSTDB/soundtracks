@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sage Fusion 2 | 74848 | [74848-sage-fusion-2.json](./74848-sage-fusion-2.json) |
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
+| Sageball | 123788 | [123788-sageball.json](./123788-sageball.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
 | Sages of Vandaleria: Rebirth of an Empire | 313200 | [313200-sages-of-vandaleria-rebirth-of-an-empire.json](./313200-sages-of-vandaleria-rebirth-of-an-empire.json) |
 | Sagger | 220494 | [220494-sagger.json](./220494-sagger.json) |
@@ -9017,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side by Side Special 2000 | 43767 | [43767-side-by-side-special-2000.json](./43767-side-by-side-special-2000.json) |
 | Side by Size | 265297 | [265297-side-by-size.json](./265297-side-by-size.json) |
+| Side Decide | 123793 | [123793-side-decide.json](./123793-side-decide.json) |
 | Side Effect | 149825 | [149825-side-effect.json](./149825-side-effect.json) |
 | Side Effect | 190488 | [190488-side-effect.json](./190488-side-effect.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
@@ -10559,6 +10561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Sides of the World | 34930 | [34930-six-sides-of-the-world.json](./34930-six-sides-of-the-world.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
 | Six Souls: Requiem for Forgotten Birds | 263642 | [263642-six-souls-requiem-for-forgotten-birds.json](./263642-six-souls-requiem-for-forgotten-birds.json) |
+| Six Temples | 123785 | [123785-six-temples.json](./123785-six-temples.json) |
 | Six textures | 271297 | [271297-six-textures.json](./271297-six-textures.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Chamber Champion | 384663 | [384663-six-chamber-champion.json](./384663-six-chamber-champion.json) |
@@ -11536,6 +11539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skynet Simulator | 177429 | [177429-skynet-simulator.json](./177429-skynet-simulator.json) |
 | SkyNuggets | 304553 | [304553-skynuggets.json](./304553-skynuggets.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
+| Skyous | 123767 | [123767-skyous.json](./123767-skyous.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | Skyraid | 200845 | [200845-skyraid.json](./200845-skyraid.json) |
 | Skyraine | 53616 | [53616-skyraine.json](./53616-skyraine.json) |
@@ -17588,7 +17592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18985,6 +18988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy the Rollerskater 2 | 336016 | [336016-speedy-the-rollerskater-2.json](./336016-speedy-the-rollerskater-2.json) |
 | Speer DX | 201699 | [201699-speer-dx.json](./201699-speer-dx.json) |
 | Speglar | 291534 | [291534-speglar.json](./291534-speglar.json) |
+| Spek | 123733 | [123733-spek.json](./123733-spek.json) |
 | Spekel Sparks | 266237 | [266237-spekel-sparks.json](./266237-spekel-sparks.json) |
 | Spektakl: Banned Edition | 206954 | [206954-spektakl-banned-edition.json](./206954-spektakl-banned-edition.json) |
 | Spel-Ett | 100317 | [100317-spel-ett.json](./100317-spel-ett.json) |
@@ -25771,6 +25775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Structory | 246208 | [246208-structory.json](./246208-structory.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
+| Struggle | 123799 | [123799-struggle.json](./123799-struggle.json) |
 | Struggle F.O | 276603 | [276603-struggle-f-o.json](./276603-struggle-f-o.json) |
 | Struggle For Survival VR | 98757 | [98757-struggle-for-survival-vr.json](./98757-struggle-for-survival-vr.json) |
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
@@ -26832,6 +26837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Color Boi | 128805 | [128805-summer-color-boi.json](./128805-summer-color-boi.json) |
 | Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
+| Summer Daze at Hero-U | 123754 | [123754-summer-daze-at-hero-u.json](./123754-summer-daze-at-hero-u.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Delusion: The Girl Only I Can See | 411331 | [411331-summer-delusion-the-girl-only-i-can-see.json](./411331-summer-delusion-the-girl-only-i-can-see.json) |
 | Summer Dino | 239254 | [239254-summer-dino.json](./239254-summer-dino.json) |
