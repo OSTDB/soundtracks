@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les aventures de T'choupi a l'ecole | 269653 | [269653-les-aventures-de-tchoupi-a-lecole.json](./269653-les-aventures-de-tchoupi-a-lecole.json) |
 | Les Cartes Poker | 415968 | [415968-les-cartes-poker.json](./415968-les-cartes-poker.json) |
 | Les Chevaliers de l'An Mil | 356870 | [356870-les-chevaliers-de-lan-mil.json](./356870-les-chevaliers-de-lan-mil.json) |
+| Les Dictées de Rayman | 83787 | [83787-les-dictees-de-rayman.json](./83787-les-dictees-de-rayman.json) |
 | Les Fleursword | 54331 | [54331-les-fleursword.json](./54331-les-fleursword.json) |
 | Les Flics | 254643 | [254643-les-flics.json](./254643-les-flics.json) |
 | Les Grandes Odalisques | 191689 | [191689-les-grandes-odalisques.json](./191689-les-grandes-odalisques.json) |
