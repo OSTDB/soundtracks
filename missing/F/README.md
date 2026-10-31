@@ -6949,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeting Summer's End | 371121 | [371121-fleeting-summers-end.json](./371121-fleeting-summers-end.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Fleetoad Mac | 184928 | [184928-fleetoad-mac.json](./184928-fleetoad-mac.json) |
+| Fleets of Ascendancy | 86444 | [86444-fleets-of-ascendancy.json](./86444-fleets-of-ascendancy.json) |
 | Fleets of Heroes | 113384 | [113384-fleets-of-heroes.json](./113384-fleets-of-heroes.json) |
 | Fleish & Cherry in Crazy Hotel | 62054 | [62054-fleish-and-cherry-in-crazy-hotel.json](./62054-fleish-and-cherry-in-crazy-hotel.json) |
 | Flekkia | 415300 | [415300-flekkia.json](./415300-flekkia.json) |
