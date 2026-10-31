@@ -5141,6 +5141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Together | 41898 | [41898-escape-together.json](./41898-escape-together.json) |
 | Escape Treasure Island | 108874 | [108874-escape-treasure-island.json](./108874-escape-treasure-island.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
+| Escape Trick: Ninja Castle | 85128 | [85128-escape-trick-ninja-castle.json](./85128-escape-trick-ninja-castle.json) |
+| Escape Trick: The Secret of Rock City Prison | 85127 | [85127-escape-trick-the-secret-of-rock-city-prison.json](./85127-escape-trick-the-secret-of-rock-city-prison.json) |
 | Escape Tsunami: Take Brainrots! | 388523 | [388523-escape-tsunami-take-brainrots.json](./388523-escape-tsunami-take-brainrots.json) |
 | Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
 | Escape Vauban | 183179 | [183179-escape-vauban.json](./183179-escape-vauban.json) |
@@ -7254,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Kittens 2 | 336644 | [336644-exploding-kittens-2.json](./336644-exploding-kittens-2.json) |
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
 | Exploding Wall | 13652 | [13652-exploding-wall.json](./13652-exploding-wall.json) |
+| Explody Bomb | 85133 | [85133-explody-bomb.json](./85133-explody-bomb.json) |
 | Exploit | 173424 | [173424-exploit.json](./173424-exploit.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Explora III: Sous le Signe du Serpent | 14181 | [14181-explora-iii-sous-le-signe-du-serpent.json](./14181-explora-iii-sous-le-signe-du-serpent.json) |
