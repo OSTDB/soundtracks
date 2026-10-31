@@ -4488,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan in Disney's Return to Never Land | 44877 | [44877-peter-pan-in-disneys-return-to-never-land.json](./44877-peter-pan-in-disneys-return-to-never-land.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
+| Peter Pan: A Story Painting Adventure | 79494 | [79494-peter-pan-a-story-painting-adventure.json](./79494-peter-pan-a-story-painting-adventure.json) |
 | Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
 | Peter Pan's Playground | 98894 | [98894-peter-pans-playground.json](./98894-peter-pans-playground.json) |
 | Peter Paper | 140379 | [140379-peter-paper.json](./140379-peter-paper.json) |
@@ -9044,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
 | PlayStation Move Ape Escape | 20630 | [20630-playstation-move-ape-escape.json](./20630-playstation-move-ape-escape.json) |
 | PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
+| PlayStation Network Collection: Power Pack | 79651 | [79651-playstation-network-collection-power-pack.json](./79651-playstation-network-collection-power-pack.json) |
 | PlayStation Network Collection: Puzzle Pack | 80160 | [80160-playstation-network-collection-puzzle-pack.json](./80160-playstation-network-collection-puzzle-pack.json) |
 | PlayStation Vita Pets | 63011 | [63011-playstation-vita-pets.json](./63011-playstation-vita-pets.json) |
 | Plaything | 142827 | [142827-plaything.json](./142827-plaything.json) |
@@ -12850,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Your Luck | 172073 | [172073-press-your-luck.json](./172073-press-your-luck.json) |
 | Press Your Luck | 394523 | [394523-press-your-luck.json](./394523-press-your-luck.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
+| Press Your Luck | 79491 | [79491-press-your-luck.json](./79491-press-your-luck.json) |
 | Press-Switch | 217993 | [217993-press-switch.json](./217993-press-switch.json) |
 | Press&Release | 368987 | [368987-press-and-release.json](./368987-press-and-release.json) |
 | Pressing Under Pressure | 393618 | [393618-pressing-under-pressure.json](./393618-pressing-under-pressure.json) |
