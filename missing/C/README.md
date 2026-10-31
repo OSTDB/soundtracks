@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
 | Cannon Lab 13 | 157443 | [157443-cannon-lab-13.json](./157443-cannon-lab-13.json) |
 | Cannon Lagoon | 137803 | [137803-cannon-lagoon.json](./137803-cannon-lagoon.json) |
+| Cannon Man | 108691 | [108691-cannon-man.json](./108691-cannon-man.json) |
 | Cannon Master VIP | 109230 | [109230-cannon-master-vip.json](./109230-cannon-master-vip.json) |
 | Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
@@ -12287,6 +12288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquian 333 | 89035 | [89035-conquian-333.json](./89035-conquian-333.json) |
 | Conquicktory | 187791 | [187791-conquicktory.json](./187791-conquicktory.json) |
 | Conquist | 205089 | [205089-conquist.json](./205089-conquist.json) |
+| Conquist 2 | 108715 | [108715-conquist-2.json](./108715-conquist-2.json) |
 | Conquist Tournament | 235250 | [235250-conquist-tournament.json](./235250-conquist-tournament.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
@@ -13575,6 +13577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Shenanigans | 412208 | [412208-cosmic-shenanigans.json](./412208-cosmic-shenanigans.json) |
 | Cosmic Sheriff | 13519 | [13519-cosmic-sheriff.json](./13519-cosmic-sheriff.json) |
 | Cosmic Shock Absorber | 13520 | [13520-cosmic-shock-absorber.json](./13520-cosmic-shock-absorber.json) |
+| Cosmic Showdown | 108727 | [108727-cosmic-showdown.json](./108727-cosmic-showdown.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Smash | 6729 | [6729-cosmic-smash.json](./6729-cosmic-smash.json) |
 | Cosmic Snake 8473/3671 | 101250 | [101250-cosmic-snake-8473-3671.json](./101250-cosmic-snake-8473-3671.json) |
@@ -17402,6 +17405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
 | Cue Sports | 192039 | [192039-cue-sports.json](./192039-cue-sports.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
+| Cueist | 108701 | [108701-cueist.json](./108701-cueist.json) |
 | Cueist 2 | 213145 | [213145-cueist-2.json](./213145-cueist-2.json) |
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
@@ -17557,6 +17561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
 | Cupcakeroo! | 256792 | [256792-cupcakeroo.json](./256792-cupcakeroo.json) |
 | Cupcakes and Critters | 63560 | [63560-cupcakes-and-critters.json](./63560-cupcakes-and-critters.json) |
+| Cupcakes! XL | 108718 | [108718-cupcakes-xl.json](./108718-cupcakes-xl.json) |
 | CupCakoon | 122665 | [122665-cupcakoon.json](./122665-cupcakoon.json) |
 | Cuphead & The Delicious Last Course | 210917 | [210917-cuphead-and-the-delicious-last-course.json](./210917-cuphead-and-the-delicious-last-course.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
