@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Eats Car 2 | 227900 | [227900-car-eats-car-2.json](./227900-car-eats-car-2.json) |
 | Car Eats Car 3 | 102023 | [102023-car-eats-car-3.json](./102023-car-eats-car-3.json) |
 | Car Escape | 88602 | [88602-car-escape.json](./88602-car-escape.json) |
+| Car Escape 1-5 | 88697 | [88697-car-escape-1-5.json](./88697-car-escape-1-5.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
@@ -2153,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Game Bundle Vol.1 | 118917 | [118917-card-game-bundle-vol-1.json](./118917-card-game-bundle-vol-1.json) |
 | Card Game Classics | 105668 | [105668-card-game-classics.json](./105668-card-game-classics.json) |
+| Card Games | 88693 | [88693-card-games.json](./88693-card-games.json) |
 | Card Games for Windows | 80449 | [80449-card-games-for-windows.json](./80449-card-games-for-windows.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
 | Card Games: Solitaire and more | 232363 | [232363-card-games-solitaire-and-more.json](./232363-card-games-solitaire-and-more.json) |
@@ -6145,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Sphere | 112795 | [112795-chess-sphere.json](./112795-chess-sphere.json) |
+| Chess Studio | 88723 | [88723-chess-studio.json](./88723-chess-studio.json) |
 | Chess Sudoku | 100649 | [100649-chess-sudoku.json](./100649-chess-sudoku.json) |
 | Chess Sudoku | 153689 | [153689-chess-sudoku.json](./153689-chess-sudoku.json) |
 | Chess Survivors | 211384 | [211384-chess-survivors.json](./211384-chess-survivors.json) |
@@ -6761,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
 | Chinese Checkers | 100228 | [100228-chinese-checkers.json](./100228-chinese-checkers.json) |
 | Chinese Checkers | 71190 | [71190-chinese-checkers.json](./71190-chinese-checkers.json) |
+| Chinese Checkers | 88719 | [88719-chinese-checkers.json](./88719-chinese-checkers.json) |
 | Chinese Checkers | 91326 | [91326-chinese-checkers.json](./91326-chinese-checkers.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Checkers Master | 91251 | [91251-chinese-checkers-master.json](./91251-chinese-checkers-master.json) |
@@ -10796,6 +10800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
+| Color by Numbers - Vehicles | 88683 | [88683-color-by-numbers-vehicles.json](./88683-color-by-numbers-vehicles.json) |
 | Color Cannons+ | 107383 | [107383-color-cannons.json](./107383-color-cannons.json) |
 | Color Catch | 24817 | [24817-color-catch.json](./24817-color-catch.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
@@ -15932,6 +15937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc's World 2 | 89170 | [89170-crocs-world-2.json](./89170-crocs-world-2.json) |
 | Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
 | Croc's World 4 | 284758 | [284758-crocs-world-4.json](./284758-crocs-world-4.json) |
+| Croc's World Construction Kit (Level Maker) | 88729 | [88729-crocs-world-construction-kit-level-maker.json](./88729-crocs-world-construction-kit-level-maker.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | CrocApoca!! Crocodile maiden at the End of the World | 133157 | [133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json](./133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json) |
 | Crock | 184390 | [184390-crock.json](./184390-crock.json) |
