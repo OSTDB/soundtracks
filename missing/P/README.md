@@ -3720,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
 | Penn & Teller's Smoke and Mirrors | 46412 | [46412-penn-and-tellers-smoke-and-mirrors.json](./46412-penn-and-tellers-smoke-and-mirrors.json) |
+| Penn and Teller VR: Frankly Unfair, Unkind, Unnecessary & Underhanded | 116683 | [116683-penn-and-teller-vr-frankly-unfair-unkind-unnecessary-and-underhanded.json](./116683-penn-and-teller-vr-frankly-unfair-unkind-unnecessary-and-underhanded.json) |
 | Penn Guiny | 316369 | [316369-penn-guiny.json](./316369-penn-guiny.json) |
 | Penni's Adventure | 258505 | [258505-pennis-adventure.json](./258505-pennis-adventure.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
@@ -4118,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpetuo | 378496 | [378496-perpetuo.json](./378496-perpetuo.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
 | Perplexigon | 36827 | [36827-perplexigon.json](./36827-perplexigon.json) |
+| Perplexity: Suburban Home | 116688 | [116688-perplexity-suburban-home.json](./116688-perplexity-suburban-home.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
 | Perquisite Strata X | 246885 | [246885-perquisite-strata-x.json](./246885-perquisite-strata-x.json) |
 | Perraw - FPS Clone War | 34309 | [34309-perraw-fps-clone-war.json](./34309-perraw-fps-clone-war.json) |
@@ -6434,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball: Our Church and Halloween RPG - Machine #1 | 208619 | [208619-pinball-our-church-and-halloween-rpg-machine-1.json](./208619-pinball-our-church-and-halloween-rpg-machine-1.json) |
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
 | Pinball: Our Church and Halloween RPG - Machine #3 | 213632 | [213632-pinball-our-church-and-halloween-rpg-machine-3.json](./213632-pinball-our-church-and-halloween-rpg-machine-3.json) |
+| Pinball! | 116671 | [116671-pinball.json](./116671-pinball.json) |
 | PinballAdventure | 186475 | [186475-pinballadventure.json](./186475-pinballadventure.json) |
 | Pinballer | 195972 | [195972-pinballer.json](./195972-pinballer.json) |
 | Pinballers | 351545 | [351545-pinballers.json](./351545-pinballers.json) |
@@ -6623,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinochle HD | 90707 | [90707-pinochle-hd.json](./90707-pinochle-hd.json) |
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
 | Pinochle Pro | 90088 | [90088-pinochle-pro.json](./90088-pinochle-pro.json) |
+| Pinocle Games | 116669 | [116669-pinocle-games.json](./116669-pinocle-games.json) |
 | Pinono and the Magic Fiddle | 355101 | [355101-pinono-and-the-magic-fiddle.json](./355101-pinono-and-the-magic-fiddle.json) |
 | PinOut | 25565 | [25565-pinout.json](./25565-pinout.json) |
 | PinPin BallBall | 111605 | [111605-pinpin-ballball.json](./111605-pinpin-ballball.json) |
@@ -8871,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player of the Year | 404852 | [404852-player-of-the-year.json](./404852-player-of-the-year.json) |
 | Player Power | 156938 | [156938-player-power.json](./156938-player-power.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
+| Playerless: One Button Adventure | 116658 | [116658-playerless-one-button-adventure.json](./116658-playerless-one-button-adventure.json) |
 | PlayerOne | 125678 | [125678-playerone.json](./125678-playerone.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
@@ -16927,6 +16932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyjama Party | 184346 | [184346-pyjama-party.json](./184346-pyjama-party.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
+| Pyl: Dust | 116678 | [116678-pyl-dust.json](./116678-pyl-dust.json) |
 | Pylon Racer | 114886 | [114886-pylon-racer.json](./114886-pylon-racer.json) |
 | Pylon Town | 234192 | [234192-pylon-town.json](./234192-pylon-town.json) |
 | Pylon: Rogue | 27745 | [27745-pylon-rogue.json](./27745-pylon-rogue.json) |
