@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train: City Simulator | 85874 | [85874-a-train-city-simulator.json](./85874-a-train-city-simulator.json) |
 | A-Train: Trains, Power, Money | 98269 | [98269-a-train-trains-power-money.json](./98269-a-train-trains-power-money.json) |
 | A-Train9 Train Construction | 378607 | [378607-a-train9-train-construction.json](./378607-a-train9-train-construction.json) |
+| A-Type | 94502 | [94502-a-type.json](./94502-a-type.json) |
 | A-Vroom! | 123927 | [123927-a-vroom.json](./123927-a-vroom.json) |
 | A-Z | 390157 | [390157-a-z.json](./390157-a-z.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
@@ -4942,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air VR | 195906 | [195906-air-vr.json](./195906-air-vr.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
 | Air Warrior II | 376855 | [376855-air-warrior-ii.json](./376855-air-warrior-ii.json) |
+| Air Warrior II | 94486 | [94486-air-warrior-ii.json](./94486-air-warrior-ii.json) |
 | Air Warrior III | 376856 | [376856-air-warrior-iii.json](./376856-air-warrior-iii.json) |
 | Air Warrior III | 74086 | [74086-air-warrior-iii.json](./74086-air-warrior-iii.json) |
 | Air Wars | 23535 | [23535-air-wars.json](./23535-air-wars.json) |
@@ -7509,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazon: Guardians of Eden | 2307 | [2307-amazon-guardians-of-eden.json](./2307-amazon-guardians-of-eden.json) |
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Amazonia | 202189 | [202189-amazonia.json](./202189-amazonia.json) |
+| Amazônia | 94492 | [94492-amazonia.json](./94492-amazonia.json) |
 | Amazônia Viva: Animais em Extinção | 303330 | [303330-amazonia-viva-animais-em-extincao.json](./303330-amazonia-viva-animais-em-extincao.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
@@ -12607,6 +12610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon: For the Crimson Glory | 191374 | [191374-armageddon-for-the-crimson-glory.json](./191374-armageddon-for-the-crimson-glory.json) |
 | Armageddonica | 361832 | [361832-armageddonica.json](./361832-armageddonica.json) |
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
+| Armagetron | 94473 | [94473-armagetron.json](./94473-armagetron.json) |
 | Armagetron Advanced | 51244 | [51244-armagetron-advanced.json](./51244-armagetron-advanced.json) |
 | Armajet | 57939 | [57939-armajet.json](./57939-armajet.json) |
 | Armalyte | 13795 | [13795-armalyte.json](./13795-armalyte.json) |
@@ -14828,6 +14832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Greatest Hits: Volume 2 | 61729 | [61729-atari-greatest-hits-volume-2.json](./61729-atari-greatest-hits-volume-2.json) |
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
+| Atari Kids 2006 | 94478 | [94478-atari-kids-2006.json](./94478-atari-kids-2006.json) |
 | Atari Legends Vol. 1 | 185884 | [185884-atari-legends-vol-1.json](./185884-atari-legends-vol-1.json) |
 | Atari Lynx Collection 1 | 130345 | [130345-atari-lynx-collection-1.json](./130345-atari-lynx-collection-1.json) |
 | Atari Lynx Collection 2 | 134382 | [134382-atari-lynx-collection-2.json](./134382-atari-lynx-collection-2.json) |
