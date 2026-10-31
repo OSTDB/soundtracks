@@ -7501,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Pipe | 184712 | [184712-floppy-pipe.json](./184712-floppy-pipe.json) |
 | Floppy Turd | 233402 | [233402-floppy-turd.json](./233402-floppy-turd.json) |
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
+| Flora | 80956 | [80956-flora.json](./80956-flora.json) |
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
 | Flora and the Ceibo Seeds | 286019 | [286019-flora-and-the-ceibo-seeds.json](./286019-flora-and-the-ceibo-seeds.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
@@ -9973,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Soldier | 120955 | [120955-fox-soldier.json](./120955-fox-soldier.json) |
 | Fox Spirit: A Two-Tailed Adventure | 158039 | [158039-fox-spirit-a-two-tailed-adventure.json](./158039-fox-spirit-a-two-tailed-adventure.json) |
 | Fox Sports College Hoops '99 | 3498 | [3498-fox-sports-college-hoops-99.json](./3498-fox-sports-college-hoops-99.json) |
+| Fox Sports Hockey '99 | 80776 | [80776-fox-sports-hockey-99.json](./80776-fox-sports-hockey-99.json) |
 | Fox Sports Major League Baseball 2001 | 210125 | [210125-fox-sports-major-league-baseball-2001.json](./210125-fox-sports-major-league-baseball-2001.json) |
 | FOX Sports Racing | 23755 | [23755-fox-sports-racing.json](./23755-fox-sports-racing.json) |
 | Fox Sports Soccer '99 | 139246 | [139246-fox-sports-soccer-99.json](./139246-fox-sports-soccer-99.json) |
