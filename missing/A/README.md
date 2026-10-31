@@ -1391,10 +1391,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-2481 | 263580 | [263580-a-2481.json](./263580-a-2481.json) |
 | A-2481 Remastered: Death Vault | 394808 | [394808-a-2481-remastered-death-vault.json](./394808-a-2481-remastered-death-vault.json) |
 | A-7 | 98271 | [98271-a-7.json](./98271-a-7.json) |
+| A-B-C Bowler | 93958 | [93958-a-b-c-bowler.json](./93958-a-b-c-bowler.json) |
 | A-GA: Gekidou no Wakusei | 71939 | [71939-a-ga-gekidou-no-wakusei.json](./71939-a-ga-gekidou-no-wakusei.json) |
 | A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-Girl | 272640 | [272640-a-girl.json](./272640-a-girl.json) |
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
+| A-Go-Go | 93960 | [93960-a-go-go.json](./93960-a-go-go.json) |
 | A-Kei Otaku | 113587 | [113587-a-kei-otaku.json](./113587-a-kei-otaku.json) |
 | A-Kei Otaku Kanojo | 222069 | [222069-a-kei-otaku-kanojo.json](./222069-a-kei-otaku-kanojo.json) |
 | A-Maze Batz | 184207 | [184207-a-maze-batz.json](./184207-a-maze-batz.json) |
@@ -1453,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Vroom! | 123927 | [123927-a-vroom.json](./123927-a-vroom.json) |
 | A-Z | 390157 | [390157-a-z.json](./390157-a-z.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
+| A.B. Cop | 93951 | [93951-a-b-cop.json](./93951-a-b-cop.json) |
 | A.B.Cop Air Bike | 39363 | [39363-a-b-cop-air-bike.json](./39363-a-b-cop-air-bike.json) |
 | A.C.E | 338346 | [338346-a-c-e.json](./338346-a-c-e.json) |
 | A.C.E.: Air Combat Elite | 326027 | [326027-a-c-e-air-combat-elite.json](./326027-a-c-e-air-combat-elite.json) |
@@ -1825,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above the Waters | 145510 | [145510-above-the-waters.json](./145510-above-the-waters.json) |
 | Above VR | 30855 | [30855-above-vr.json](./30855-above-vr.json) |
 | ABPA Backgammon | 5653 | [5653-abpa-backgammon.json](./5653-abpa-backgammon.json) |
+| Abra Ca Dabra | 93959 | [93959-abra-ca-dabra.json](./93959-abra-ca-dabra.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
 | Abraca Drunk | 415113 | [415113-abraca-drunk.json](./415113-abraca-drunk.json) |
@@ -5857,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfredo's Stupendous Surprise | 71050 | [71050-alfredos-stupendous-surprise.json](./71050-alfredos-stupendous-surprise.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
 | Alganon | 35736 | [35736-alganon.json](./35736-alganon.json) |
+| Algar | 93941 | [93941-algar.json](./93941-algar.json) |
 | Algator Speedrun | 412887 | [412887-algator-speedrun.json](./412887-algator-speedrun.json) |
 | Algatraz | 358857 | [358857-algatraz.json](./358857-algatraz.json) |
 | Alge-Blaster 3 | 10673 | [10673-alge-blaster-3.json](./10673-alge-blaster-3.json) |
@@ -15979,9 +15984,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Arena | 195022 | [195022-avatar-arena.json](./195022-avatar-arena.json) |
 | Avatar Avenue | 77573 | [77573-avatar-avenue.json](./77573-avatar-avenue.json) |
 | Avatar Boogie | 92429 | [92429-avatar-boogie.json](./92429-avatar-boogie.json) |
+| Avatar Bumpercars | 93928 | [93928-avatar-bumpercars.json](./93928-avatar-bumpercars.json) |
 | Avatar Calendar | 92377 | [92377-avatar-calendar.json](./92377-avatar-calendar.json) |
 | Avatar Cannon | 92376 | [92376-avatar-cannon.json](./92376-avatar-cannon.json) |
 | Avatar Dairansen | 303216 | [303216-avatar-dairansen.json](./303216-avatar-dairansen.json) |
+| Avatar Dash! | 93927 | [93927-avatar-dash.json](./93927-avatar-dash.json) |
 | Avatar Deathmatch | 77582 | [77582-avatar-deathmatch.json](./77582-avatar-deathmatch.json) |
 | Avatar Deathmatch City | 77596 | [77596-avatar-deathmatch-city.json](./77596-avatar-deathmatch-city.json) |
 | Avatar Deluxe Blackjack | 92378 | [92378-avatar-deluxe-blackjack.json](./92378-avatar-deluxe-blackjack.json) |
@@ -16366,6 +16373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Gang | 151494 | [151494-axe-gang.json](./151494-axe-gang.json) |
 | Axe Ghost | 295353 | [295353-axe-ghost.json](./295353-axe-ghost.json) |
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
+| Axe in Face | 93933 | [93933-axe-in-face.json](./93933-axe-in-face.json) |
 | Axe Me Down | 250165 | [250165-axe-me-down.json](./250165-axe-me-down.json) |
 | Axe of Janissary | 233619 | [233619-axe-of-janissary.json](./233619-axe-of-janissary.json) |
 | Axe of Kolt | 15610 | [15610-axe-of-kolt.json](./15610-axe-of-kolt.json) |
