@@ -6785,7 +6785,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collider | 17769 | [17769-the-collider.json](./17769-the-collider.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
-| The Colonists | 75065 | [75065-the-colonists.json](./75065-the-colonists.json) |
 | The Colony | 113413 | [113413-the-colony.json](./113413-the-colony.json) |
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
