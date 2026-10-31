@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
 | Backyard Basketball 2001 | 50297 | [50297-backyard-basketball-2001.json](./50297-backyard-basketball-2001.json) |
+| Backyard Basketball 2004 | 94474 | [94474-backyard-basketball-2004.json](./94474-backyard-basketball-2004.json) |
 | Backyard Battles | 62812 | [62812-backyard-battles.json](./62812-backyard-battles.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
@@ -873,7 +874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9431,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
 | Bloc-Age: Path of the Oracle | 259124 | [259124-bloc-age-path-of-the-oracle.json](./259124-bloc-age-path-of-the-oracle.json) |
+| Blocco | 94466 | [94466-blocco.json](./94466-blocco.json) |
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
 | Block | 120081 | [120081-block.json](./120081-block.json) |
 | Block | 172653 | [172653-block.json](./172653-block.json) |
@@ -12680,6 +12681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunter | 251009 | [251009-bounty-hunter.json](./251009-bounty-hunter.json) |
 | Bounty Hunter | 72008 | [72008-bounty-hunter.json](./72008-bounty-hunter.json) |
 | Bounty Hunter 2099 Pinball | 206469 | [206469-bounty-hunter-2099-pinball.json](./206469-bounty-hunter-2099-pinball.json) |
+| Bounty Hunter Sara: Holy Mountain no Teiou | 94481 | [94481-bounty-hunter-sara-holy-mountain-no-teiou.json](./94481-bounty-hunter-sara-holy-mountain-no-teiou.json) |
 | Bounty Hunter: Ocean Diver | 95617 | [95617-bounty-hunter-ocean-diver.json](./95617-bounty-hunter-ocean-diver.json) |
 | Bounty Hunter: Space Detective | 95261 | [95261-bounty-hunter-space-detective.json](./95261-bounty-hunter-space-detective.json) |
 | Bounty Hunter: Space Lizard | 122730 | [122730-bounty-hunter-space-lizard.json](./122730-bounty-hunter-space-lizard.json) |
@@ -13709,6 +13711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Pattern | 211458 | [211458-break-pattern.json](./211458-break-pattern.json) |
 | Break Point | 257351 | [257351-break-point.json](./257351-break-point.json) |
 | Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
+| Break Point | 94456 | [94456-break-point.json](./94456-break-point.json) |
 | Break Point: Brace & Breach | 405567 | [405567-break-point-brace-and-breach.json](./405567-break-point-brace-and-breach.json) |
 | Break Sky | 168717 | [168717-break-sky.json](./168717-break-sky.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
