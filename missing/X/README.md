@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xi Coliseum | 334216 | [334216-xi-coliseum.json](./334216-xi-coliseum.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
 | XI Sai Jumbo | 165156 | [165156-xi-sai-jumbo.json](./165156-xi-sai-jumbo.json) |
+| Xī Yóujì | 64043 | [64043-xi-youji.json](./64043-xi-youji.json) |
 | Xi-Portal | 302333 | [302333-xi-portal.json](./302333-xi-portal.json) |
 | Xia-Xia | 9745 | [9745-xia-xia.json](./9745-xia-xia.json) |
 | Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
 | Xicon Exedra: Minor Advancement | 381786 | [381786-xicon-exedra-minor-advancement.json](./381786-xicon-exedra-minor-advancement.json) |
+| Xié'è Zhīzǐ | 64047 | [64047-xiee-zhizi.json](./64047-xiee-zhizi.json) |
 | XII Scripta/Alea | 384141 | [384141-xii-scripta-alea.json](./384141-xii-scripta-alea.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
 | XIII | 1987 | [1987-xiii.json](./1987-xiii.json) |
