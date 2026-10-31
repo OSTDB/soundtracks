@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
 | JetFighter III Classic | 78053 | [78053-jetfighter-iii-classic.json](./78053-jetfighter-iii-classic.json) |
 | JetFighter III Enhanced Campaign CD | 79565 | [79565-jetfighter-iii-enhanced-campaign-cd.json](./79565-jetfighter-iii-enhanced-campaign-cd.json) |
+| Jetfighter IV: Fortress America | 74105 | [74105-jetfighter-iv-fortress-america.json](./74105-jetfighter-iv-fortress-america.json) |
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
@@ -2752,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd | 340333 | [340333-judge-dredd.json](./340333-judge-dredd.json) |
 | Judge Dredd | 36742 | [36742-judge-dredd.json](./36742-judge-dredd.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
+| Judge Dredd Pinball | 74099 | [74099-judge-dredd-pinball.json](./74099-judge-dredd-pinball.json) |
 | Judge Dredd vs. Zombies | 63637 | [63637-judge-dredd-vs-zombies.json](./63637-judge-dredd-vs-zombies.json) |
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
@@ -3209,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Preschool | 315521 | [315521-jumpstart-preschool.json](./315521-jumpstart-preschool.json) |
 | JumpStart Reading for Second Graders | 144929 | [144929-jumpstart-reading-for-second-graders.json](./144929-jumpstart-reading-for-second-graders.json) |
 | JumpStart Spanish | 378540 | [378540-jumpstart-spanish.json](./378540-jumpstart-spanish.json) |
+| JumpStart Spelling | 73975 | [73975-jumpstart-spelling.json](./73975-jumpstart-spelling.json) |
 | Jumpstart Spy Masters: Max Strikes Back | 91800 | [91800-jumpstart-spy-masters-max-strikes-back.json](./91800-jumpstart-spy-masters-max-strikes-back.json) |
 | Jumpstart Spy Masters: Unmask the Prankster | 185887 | [185887-jumpstart-spy-masters-unmask-the-prankster.json](./185887-jumpstart-spy-masters-unmask-the-prankster.json) |
 | JumpStart Study Helpers Math Booster | 366185 | [366185-jumpstart-study-helpers-math-booster.json](./366185-jumpstart-study-helpers-math-booster.json) |
