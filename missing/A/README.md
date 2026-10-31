@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clumsy Flight | 208673 | [208673-a-clumsy-flight.json](./208673-a-clumsy-flight.json) |
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
 | A Cold Night | 180947 | [180947-a-cold-night.json](./180947-a-cold-night.json) |
+| A Collection of 10000 Sudoku Games | 91047 | [91047-a-collection-of-10000-sudoku-games.json](./91047-a-collection-of-10000-sudoku-games.json) |
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
 | A Collection of Intellivision Classic Games | 65901 | [65901-a-collection-of-intellivision-classic-games.json](./65901-a-collection-of-intellivision-classic-games.json) |
 | A Collection of Mini-Games | 263641 | [263641-a-collection-of-mini-games.json](./263641-a-collection-of-mini-games.json) |
@@ -2834,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addition and Subtraction 1 | 42191 | [42191-addition-and-subtraction-1.json](./42191-addition-and-subtraction-1.json) |
 | Addition and Subtraction 2 | 42193 | [42193-addition-and-subtraction-2.json](./42193-addition-and-subtraction-2.json) |
 | Addition and Subtraction 3 | 42192 | [42192-addition-and-subtraction-3.json](./42192-addition-and-subtraction-3.json) |
+| Addition Flash Cards Math Help Quiz Learning Games | 91058 | [91058-addition-flash-cards-math-help-quiz-learning-games.json](./91058-addition-flash-cards-math-help-quiz-learning-games.json) |
 | Addle Earth | 158119 | [158119-addle-earth.json](./158119-addle-earth.json) |
 | Addled | 207288 | [207288-addled.json](./207288-addled.json) |
 | Addmath | 239075 | [239075-addmath.json](./239075-addmath.json) |
@@ -5987,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice to Marisa to Inakunatta Shanghai Ningyou | 214364 | [214364-alice-to-marisa-to-inakunatta-shanghai-ningyou.json](./214364-alice-to-marisa-to-inakunatta-shanghai-ningyou.json) |
 | Alice Trapped Beyond Wonderland | 165057 | [165057-alice-trapped-beyond-wonderland.json](./165057-alice-trapped-beyond-wonderland.json) |
 | Alice Trapped in Wonderland | 90668 | [90668-alice-trapped-in-wonderland.json](./90668-alice-trapped-in-wonderland.json) |
+| Alice Trapped in Wonderland | 91063 | [91063-alice-trapped-in-wonderland.json](./91063-alice-trapped-in-wonderland.json) |
 | Alice VR: Roboto Factory | 171386 | [171386-alice-vr-roboto-factory.json](./171386-alice-vr-roboto-factory.json) |
 | Alice with Gatling | 219989 | [219989-alice-with-gatling.json](./219989-alice-with-gatling.json) |
 | Alice: Adventures in Wonderland | 66129 | [66129-alice-adventures-in-wonderland.json](./66129-alice-adventures-in-wonderland.json) |
@@ -6282,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Stars | 25535 | [25535-alien-stars.json](./25535-alien-stars.json) |
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
 | Alien Story: Fairy tale with games for kids | 89809 | [89809-alien-story-fairy-tale-with-games-for-kids.json](./89809-alien-story-fairy-tale-with-games-for-kids.json) |
+| Alien Story: Games for kids | 91074 | [91074-alien-story-games-for-kids.json](./91074-alien-story-games-for-kids.json) |
 | Alien street battle | 129675 | [129675-alien-street-battle.json](./129675-alien-street-battle.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
 | Alien Strike: Blasting the Intruders | 305974 | [305974-alien-strike-blasting-the-intruders.json](./305974-alien-strike-blasting-the-intruders.json) |
@@ -10934,6 +10938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Invaders | 63248 | [63248-ar-invaders.json](./63248-ar-invaders.json) |
 | Ar Luminae | 221848 | [221848-ar-luminae.json](./221848-ar-luminae.json) |
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
+| Ar nosurge Plus | 91029 | [91029-ar-nosurge-plus.json](./91029-ar-nosurge-plus.json) |
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | Ar nosurge: Ode to an Unborn Star | 7273 | [7273-ar-nosurge-ode-to-an-unborn-star.json](./7273-ar-nosurge-ode-to-an-unborn-star.json) |
 | Ar Nosurge: Ode to an Unborn Star DX | 139979 | [139979-ar-nosurge-ode-to-an-unborn-star-dx.json](./139979-ar-nosurge-ode-to-an-unborn-star-dx.json) |
@@ -16166,6 +16171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avicii Invector | 75245 | [75245-avicii-invector.json](./75245-avicii-invector.json) |
 | Avicii Invector: Magma Track Pack | 224445 | [224445-avicii-invector-magma-track-pack.json](./224445-avicii-invector-magma-track-pack.json) |
 | Avicii Invector: Tim Track Pack | 224446 | [224446-avicii-invector-tim-track-pack.json](./224446-avicii-invector-tim-track-pack.json) |
+| Avicii Vector | 91028 | [91028-avicii-vector.json](./91028-avicii-vector.json) |
 | Avicii: Gravity | 108980 | [108980-avicii-gravity.json](./108980-avicii-gravity.json) |
 | Avination | 64490 | [64490-avination.json](./64490-avination.json) |
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
