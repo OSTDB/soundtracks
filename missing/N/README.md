@@ -222,6 +222,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco classics volume 2 | 37328 | [37328-namco-classics-volume-2.json](./37328-namco-classics-volume-2.json) |
 | Namco Collection Vol. 1 | 220251 | [220251-namco-collection-vol-1.json](./220251-namco-collection-vol-1.json) |
 | Namco Collection Vol. 2 | 220252 | [220252-namco-collection-vol-2.json](./220252-namco-collection-vol-2.json) |
+| Namco Gallery Vol. 1 | 64030 | [64030-namco-gallery-vol-1.json](./64030-namco-gallery-vol-1.json) |
+| Namco Gallery Vol. 2 | 64028 | [64028-namco-gallery-vol-2.json](./64028-namco-gallery-vol-2.json) |
+| Namco Gallery Vol. 3 | 64029 | [64029-namco-gallery-vol-3.json](./64029-namco-gallery-vol-3.json) |
 | Namco Games Portal | 220254 | [220254-namco-games-portal.json](./220254-namco-games-portal.json) |
 | Namco High | 62502 | [62502-namco-high.json](./62502-namco-high.json) |
 | Namco History Vol. 1 | 220150 | [220150-namco-history-vol-1.json](./220150-namco-history-vol-1.json) |
@@ -4818,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja World 2 | 268105 | [268105-ninja-world-2.json](./268105-ninja-world-2.json) |
 | Ninja World 3 | 268106 | [268106-ninja-world-3.json](./268106-ninja-world-3.json) |
 | Ninja World Adventure | 299193 | [299193-ninja-world-adventure.json](./299193-ninja-world-adventure.json) |
+| Ninja-Kid | 64021 | [64021-ninja-kid.json](./64021-ninja-kid.json) |
 | Ninja-Kid II | 41742 | [41742-ninja-kid-ii.json](./41742-ninja-kid-ii.json) |
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
