@@ -4176,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
+| Fighter Royale: Last Ace Flying | 117345 | [117345-fighter-royale-last-ace-flying.json](./117345-fighter-royale-last-ace-flying.json) |
 | Fighter Saiyan: Super | 104398 | [104398-fighter-saiyan-super.json](./104398-fighter-saiyan-super.json) |
 | Fighter Street II | 276007 | [276007-fighter-street-ii.json](./276007-fighter-street-ii.json) |
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
@@ -12109,6 +12110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
+| Funky Python | 117318 | [117318-funky-python.json](./117318-funky-python.json) |
 | Funky Restaurant | 291965 | [291965-funky-restaurant.json](./291965-funky-restaurant.json) |
 | Funky Smugglers | 64278 | [64278-funky-smugglers.json](./64278-funky-smugglers.json) |
 | Funkyheart | 369894 | [369894-funkyheart.json](./369894-funkyheart.json) |
@@ -12121,6 +12123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
 | Funny Bubble | 40130 | [40130-funny-bubble.json](./40130-funny-bubble.json) |
 | Funny Bunny Gun | 216639 | [216639-funny-bunny-gun.json](./216639-funny-bunny-gun.json) |
+| Funny Bunny: Adventures | 117349 | [117349-funny-bunny-adventures.json](./117349-funny-bunny-adventures.json) |
 | Funny Car Wash | 222055 | [222055-funny-car-wash.json](./222055-funny-car-wash.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
