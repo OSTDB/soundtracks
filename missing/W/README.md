@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekend Solitaire: Railway | 386124 | [386124-weekend-solitaire-railway.json](./386124-weekend-solitaire-railway.json) |
 | Weekend Solitaire: Summer Village | 275162 | [275162-weekend-solitaire-summer-village.json](./275162-weekend-solitaire-summer-village.json) |
 | Weekend Solitaire: Voyage | 386140 | [386140-weekend-solitaire-voyage.json](./386140-weekend-solitaire-voyage.json) |
+| Weekend Warrior | 79504 | [79504-weekend-warrior.json](./79504-weekend-warrior.json) |
 | Weekend Warriors MMA | 236195 | [236195-weekend-warriors-mma.json](./236195-weekend-warriors-mma.json) |
 | Weekly Jump Heroes Battle! My Collection 2 | 188366 | [188366-weekly-jump-heroes-battle-my-collection-2.json](./188366-weekly-jump-heroes-battle-my-collection-2.json) |
 | Weekly Shonen Jump Jikkyou Jan-jan Stadium | 109051 | [109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json](./109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json) |
