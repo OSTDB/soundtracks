@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Games | 220257 | [220257-pac-man-games.json](./220257-pac-man-games.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man in a Tin | 219374 | [219374-pac-man-in-a-tin.json](./219374-pac-man-in-a-tin.json) |
+| Pac-Man Kart Rally | 65233 | [65233-pac-man-kart-rally.json](./65233-pac-man-kart-rally.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Mega Tunnel Battle | 140269 | [140269-pac-man-mega-tunnel-battle.json](./140269-pac-man-mega-tunnel-battle.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Deluxe Edition | 297307 | [297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json](./297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json) |
@@ -16675,6 +16676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
 | Puzzle by Nikoli S: Shikaku | 245913 | [245913-puzzle-by-nikoli-s-shikaku.json](./245913-puzzle-by-nikoli-s-shikaku.json) |
 | Puzzle by Nikoli S: Yajirin | 251479 | [251479-puzzle-by-nikoli-s-yajirin.json](./251479-puzzle-by-nikoli-s-yajirin.json) |
+| Puzzle by Nikoli V: Slitherlink | 65164 | [65164-puzzle-by-nikoli-v-slitherlink.json](./65164-puzzle-by-nikoli-v-slitherlink.json) |
 | Puzzle by Nikoli V: Sudoku | 64936 | [64936-puzzle-by-nikoli-v-sudoku.json](./64936-puzzle-by-nikoli-v-sudoku.json) |
 | Puzzle by Nikoli W Hashiwokakero | 236816 | [236816-puzzle-by-nikoli-w-hashiwokakero.json](./236816-puzzle-by-nikoli-w-hashiwokakero.json) |
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
