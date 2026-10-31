@@ -7394,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Race 2 | 88197 | [88197-christmas-race-2.json](./88197-christmas-race-2.json) |
 | Christmas Racing | 186573 | [186573-christmas-racing.json](./186573-christmas-racing.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
+| Christmas Rock'n'Roll | 67848 | [67848-christmas-rocknroll.json](./67848-christmas-rocknroll.json) |
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
 | Christmas Run 2 | 228333 | [228333-christmas-run-2.json](./228333-christmas-run-2.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
@@ -16176,6 +16177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross the Road | 230687 | [230687-cross-the-road.json](./230687-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
+| Cross Treasures | 67760 | [67760-cross-treasures.json](./67760-cross-treasures.json) |
 | Cross Word | 89514 | [89514-cross-word.json](./89514-cross-word.json) |
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
 | Cross World: Mishiranu Sora no Etatia | 350459 | [350459-cross-world-mishiranu-sora-no-etatia.json](./350459-cross-world-mishiranu-sora-no-etatia.json) |
