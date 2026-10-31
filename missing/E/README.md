@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Phantoms | 71924 | [71924-eco-phantoms.json](./71924-eco-phantoms.json) |
 | Eco Ronin | 323440 | [323440-eco-ronin.json](./323440-eco-ronin.json) |
 | Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
+| Eco Tales: My Item Shop | 114649 | [114649-eco-tales-my-item-shop.json](./114649-eco-tales-my-item-shop.json) |
 | Eco Tycoon: Project Green | 69081 | [69081-eco-tycoon-project-green.json](./69081-eco-tycoon-project-green.json) |
 | Eco Tycoon: Project Green | 69096 | [69096-eco-tycoon-project-green.json](./69096-eco-tycoon-project-green.json) |
 | Eco Warrior Simulator | 151281 | [151281-eco-warrior-simulator.json](./151281-eco-warrior-simulator.json) |
@@ -2144,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
 | Elemental, Querido Gunso | 234252 | [234252-elemental-querido-gunso.json](./234252-elemental-querido-gunso.json) |
 | Elemental: War of Magic | 20451 | [20451-elemental-war-of-magic.json](./20451-elemental-war-of-magic.json) |
+| Elementalia the Invasion | 114661 | [114661-elementalia-the-invasion.json](./114661-elementalia-the-invasion.json) |
 | Elementalism | 269464 | [269464-elementalism.json](./269464-elementalism.json) |
 | Elementalist | 309400 | [309400-elementalist.json](./309400-elementalist.json) |
 | Elementalist: 0 | 182995 | [182995-elementalist-0.json](./182995-elementalist-0.json) |
@@ -5663,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethoterria's Last Soldier | 398042 | [398042-ethoterrias-last-soldier.json](./398042-ethoterrias-last-soldier.json) |
 | Ethyrial | 133073 | [133073-ethyrial.json](./133073-ethyrial.json) |
 | Eti Yami: Mekanik Istila | 92630 | [92630-eti-yami-mekanik-istila.json](./92630-eti-yami-mekanik-istila.json) |
+| Etihad Al Abtal (Heroes United) | 114631 | [114631-etihad-al-abtal-heroes-united.json](./114631-etihad-al-abtal-heroes-united.json) |
 | Etiquette Elegance | 346195 | [346195-etiquette-elegance.json](./346195-etiquette-elegance.json) |
 | Eto | 339774 | [339774-eto.json](./339774-eto.json) |
 | Eto King | 259711 | [259711-eto-king.json](./259711-eto-king.json) |
