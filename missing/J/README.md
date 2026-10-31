@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
 | Jaws: Ultimate Predator | 19931 | [19931-jaws-ultimate-predator.json](./19931-jaws-ultimate-predator.json) |
 | Jaws! | 220588 | [220588-jaws.json](./220588-jaws.json) |
+| Jaws.io | 115306 | [115306-jaws-io.json](./115306-jaws-io.json) |
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
 | Jax Payne – Part 1 | 252102 | [252102-jax-payne-part-1.json](./252102-jax-payne-part-1.json) |
 | Jax: History Repeats Itself | 275725 | [275725-jax-history-repeats-itself.json](./275725-jax-history-repeats-itself.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Kids | 209858 | [209858-jungle-kids.json](./209858-jungle-kids.json) |
 | Jungle Kong | 339240 | [339240-jungle-kong.json](./339240-jungle-kong.json) |
 | Jungle Kong | 367844 | [367844-jungle-kong.json](./367844-jungle-kong.json) |
+| Jungle Legend | 115290 | [115290-jungle-legend.json](./115290-jungle-legend.json) |
 | Jungle Man | 354335 | [354335-jungle-man.json](./354335-jungle-man.json) |
 | Jungle Maths | 319585 | [319585-jungle-maths.json](./319585-jungle-maths.json) |
 | Jungle Max | 291568 | [291568-jungle-max.json](./291568-jungle-max.json) |
