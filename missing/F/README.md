@@ -6066,6 +6066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Simulator 2D | 185278 | [185278-fishing-simulator-2d.json](./185278-fishing-simulator-2d.json) |
 | Fishing Star | 85837 | [85837-fishing-star.json](./85837-fishing-star.json) |
 | Fishing Star | 86356 | [86356-fishing-star.json](./86356-fishing-star.json) |
+| Fishing Star: World Tour | 114012 | [114012-fishing-star-world-tour.json](./114012-fishing-star-world-tour.json) |
 | Fishing Stories | 244219 | [244219-fishing-stories.json](./244219-fishing-stories.json) |
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing Superstars 2 | 109548 | [109548-fishing-superstars-2.json](./109548-fishing-superstars-2.json) |
@@ -7581,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers: Le Volume sur Automne | 83393 | [83393-flowers-le-volume-sur-automne.json](./83393-flowers-le-volume-sur-automne.json) |
 | Flowers: Le Volume sur Hiver | 83392 | [83392-flowers-le-volume-sur-hiver.json](./83392-flowers-le-volume-sur-hiver.json) |
 | Flowers: Le Volume sur Printemps | 33272 | [33272-flowers-le-volume-sur-printemps.json](./33272-flowers-le-volume-sur-printemps.json) |
+| Flowers: Les Quatre Saisons | 114020 | [114020-flowers-les-quatre-saisons.json](./114020-flowers-les-quatre-saisons.json) |
 | Flowershop Master Yuukarin! | 365749 | [365749-flowershop-master-yuukarin.json](./365749-flowershop-master-yuukarin.json) |
 | FlowerStick | 125968 | [125968-flowerstick.json](./125968-flowerstick.json) |
 | Flowerworks | 67252 | [67252-flowerworks.json](./67252-flowerworks.json) |
@@ -7588,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowerz | 91837 | [91837-flowerz.json](./91837-flowerz.json) |
 | Flowfall | 256669 | [256669-flowfall.json](./256669-flowfall.json) |
 | Flowing Lights | 76657 | [76657-flowing-lights.json](./76657-flowing-lights.json) |
+| Flowlines Vs. | 114039 | [114039-flowlines-vs.json](./114039-flowlines-vs.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
 | FloWooooT | 410037 | [410037-flowoooot.json](./410037-flowoooot.json) |
 | Floworks | 408289 | [408289-floworks.json](./408289-floworks.json) |
@@ -7821,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Felix | 165905 | [165905-flying-felix.json](./165905-flying-felix.json) |
 | Flying Ferret | 295834 | [295834-flying-ferret.json](./295834-flying-ferret.json) |
 | Flying Fish Quest | 192313 | [192313-flying-fish-quest.json](./192313-flying-fish-quest.json) |
+| Flying Fortress | 113993 | [113993-flying-fortress.json](./113993-flying-fortress.json) |
 | Flying Fortress II | 172651 | [172651-flying-fortress-ii.json](./172651-flying-fortress-ii.json) |
 | Flying Frags World Tour | 156070 | [156070-flying-frags-world-tour.json](./156070-flying-frags-world-tour.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
