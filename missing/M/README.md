@@ -2743,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manchester United Europe | 13073 | [13073-manchester-united-europe.json](./13073-manchester-united-europe.json) |
 | Manchester United Manager 2005 | 22546 | [22546-manchester-united-manager-2005.json](./22546-manchester-united-manager-2005.json) |
 | Manchester United Premier League Champions | 72271 | [72271-manchester-united-premier-league-champions.json](./72271-manchester-united-premier-league-champions.json) |
+| Manchester United: The Double | 71867 | [71867-manchester-united-the-double.json](./71867-manchester-united-the-double.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
 | Manda no Yume | 201780 | [201780-manda-no-yume.json](./201780-manda-no-yume.json) |
 | Manda: Mario and Ana | 311151 | [311151-manda-mario-and-ana.json](./311151-manda-mario-and-ana.json) |
@@ -4798,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of War: Rule of Power | 199451 | [199451-master-of-war-rule-of-power.json](./199451-master-of-war-rule-of-power.json) |
 | Master of Weapon | 4532 | [4532-master-of-weapon.json](./4532-master-of-weapon.json) |
 | Master of Wills | 125873 | [125873-master-of-wills.json](./125873-master-of-wills.json) |
+| Master Poker | 71886 | [71886-master-poker.json](./71886-master-poker.json) |
 | Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
@@ -10506,6 +10508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Builds a Shelter | 174793 | [174793-mike-builds-a-shelter.json](./174793-mike-builds-a-shelter.json) |
 | Mike Goes on Hike | 110125 | [110125-mike-goes-on-hike.json](./110125-mike-goes-on-hike.json) |
 | Mike Gunner | 142137 | [142137-mike-gunner.json](./142137-mike-gunner.json) |
+| Mike Mulligan and His Steam Shovel | 71858 | [71858-mike-mulligan-and-his-steam-shovel.json](./71858-mike-mulligan-and-his-steam-shovel.json) |
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike Read's Computer Pop Quiz | 71706 | [71706-mike-reads-computer-pop-quiz.json](./71706-mike-reads-computer-pop-quiz.json) |
 | Mike Shadow: I Paid For It! | 329482 | [329482-mike-shadow-i-paid-for-it.json](./329482-mike-shadow-i-paid-for-it.json) |
@@ -12957,6 +12960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
 | MLB SlugFest: Loaded | 23537 | [23537-mlb-slugfest-loaded.json](./23537-mlb-slugfest-loaded.json) |
+| MLB Stickball | 71888 | [71888-mlb-stickball.json](./71888-mlb-stickball.json) |
 | MLB Superstars | 5011 | [5011-mlb-superstars.json](./5011-mlb-superstars.json) |
 | MLB Tap Baseball 2023 | 242462 | [242462-mlb-tap-baseball-2023.json](./242462-mlb-tap-baseball-2023.json) |
 | MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
@@ -15363,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's Maximum Mahjongg 2 | 24077 | [24077-moraffs-maximum-mahjongg-2.json](./24077-moraffs-maximum-mahjongg-2.json) |
 | Moraff's Maximum Mahjongg 3 | 202186 | [202186-moraffs-maximum-mahjongg-3.json](./202186-moraffs-maximum-mahjongg-3.json) |
 | Moraff's MoreJongg | 209193 | [209193-moraffs-morejongg.json](./209193-moraffs-morejongg.json) |
+| Moraff's Revenge | 71841 | [71841-moraffs-revenge.json](./71841-moraffs-revenge.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Moral King | 107413 | [107413-moral-king.json](./107413-moral-king.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
@@ -16644,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out: Digital Deluxe Edition | 186548 | [186548-moving-out-digital-deluxe-edition.json](./186548-moving-out-digital-deluxe-edition.json) |
 | Moving Out: Movers in Paradise | 143880 | [143880-moving-out-movers-in-paradise.json](./143880-moving-out-movers-in-paradise.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
+| Moving Puzzle: Cats | 71865 | [71865-moving-puzzle-cats.json](./71865-moving-puzzle-cats.json) |
 | Moving Puzzle: Jungle World | 93298 | [93298-moving-puzzle-jungle-world.json](./93298-moving-puzzle-jungle-world.json) |
 | Moving Simulator | 346719 | [346719-moving-simulator.json](./346719-moving-simulator.json) |
 | Moving Stories | 123195 | [123195-moving-stories.json](./123195-moving-stories.json) |
