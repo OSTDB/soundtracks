@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
 | Adventures of Dino Riki | 8741 | [8741-adventures-of-dino-riki.json](./8741-adventures-of-dino-riki.json) |
+| Adventures of forsenE: The Hobo Knight | 116699 | [116699-adventures-of-forsene-the-hobo-knight.json](./116699-adventures-of-forsene-the-hobo-knight.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Isabelle Fine: Murder on Rails | 120057 | [120057-adventures-of-isabelle-fine-murder-on-rails.json](./120057-adventures-of-isabelle-fine-murder-on-rails.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An NPC's Odyssey | 192080 | [192080-an-npcs-odyssey.json](./192080-an-npcs-odyssey.json) |
 | An Oath to the Stars | 28756 | [28756-an-oath-to-the-stars.json](./28756-an-oath-to-the-stars.json) |
 | An Occasional Dream | 55690 | [55690-an-occasional-dream.json](./55690-an-occasional-dream.json) |
+| An Occurrence at Owl Creek Bridge | 116670 | [116670-an-occurrence-at-owl-creek-bridge.json](./116670-an-occurrence-at-owl-creek-bridge.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
@@ -9758,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Piece of Candy: Sweet Fusions | 182856 | [182856-another-piece-of-candy-sweet-fusions.json](./182856-another-piece-of-candy-sweet-fusions.json) |
 | Another Pint | 361865 | [361865-another-pint.json](./361865-another-pint.json) |
 | Another Pokémon Game | 237798 | [237798-another-pokemon-game.json](./237798-another-pokemon-game.json) |
+| Another Pool | 116668 | [116668-another-pool.json](./116668-another-pool.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another Princess is in Our Castle | 228362 | [228362-another-princess-is-in-our-castle.json](./228362-another-princess-is-in-our-castle.json) |
 | Another Realm | 303150 | [303150-another-realm.json](./303150-another-realm.json) |
@@ -12123,6 +12126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
 | Arena Returns | 351798 | [351798-arena-returns.json](./351798-arena-returns.json) |
 | Arena Runner | 92817 | [92817-arena-runner.json](./92817-arena-runner.json) |
+| Arena Stars | 116694 | [116694-arena-stars.json](./116694-arena-stars.json) |
 | Arena Story: Rouge And Princess Knight | 239792 | [239792-arena-story-rouge-and-princess-knight.json](./239792-arena-story-rouge-and-princess-knight.json) |
 | Arena Survivors | 289796 | [289796-arena-survivors.json](./289796-arena-survivors.json) |
 | Arena Tails | 275530 | [275530-arena-tails.json](./275530-arena-tails.json) |
@@ -13844,6 +13848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Heroes | 20634 | [20634-assault-heroes.json](./20634-assault-heroes.json) |
 | Assault Lily Last Bullet | 139086 | [139086-assault-lily-last-bullet.json](./139086-assault-lily-last-bullet.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
+| Assault of the Robots | 116701 | [116701-assault-of-the-robots.json](./116701-assault-of-the-robots.json) |
 | Assault on Arnhem | 33307 | [33307-assault-on-arnhem.json](./33307-assault-on-arnhem.json) |
 | Assault on Everest | 356700 | [356700-assault-on-everest.json](./356700-assault-on-everest.json) |
 | Assault on Hardblood Hotel | 353230 | [353230-assault-on-hardblood-hotel.json](./353230-assault-on-hardblood-hotel.json) |
@@ -15157,6 +15162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Atrio: The Dark Wild | 121637 | [121637-atrio-the-dark-wild.json](./121637-atrio-the-dark-wild.json) |
 | Atrion Project | 261732 | [261732-atrion-project.json](./261732-atrion-project.json) |
+| Atrium | 116674 | [116674-atrium.json](./116674-atrium.json) |
 | Atrium Invasion | 165360 | [165360-atrium-invasion.json](./165360-atrium-invasion.json) |
 | Atrium Malum | 212173 | [212173-atrium-malum.json](./212173-atrium-malum.json) |
 | Atrium Mortis | 372500 | [372500-atrium-mortis.json](./372500-atrium-mortis.json) |
@@ -15542,6 +15548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auryn Quest | 94591 | [94591-auryn-quest.json](./94591-auryn-quest.json) |
 | Ausbruch | 271943 | [271943-ausbruch.json](./271943-ausbruch.json) |
 | Ausencia de Color | 395956 | [395956-ausencia-de-color.json](./395956-ausencia-de-color.json) |
+| Aussie Battler Tanks | 116703 | [116703-aussie-battler-tanks.json](./116703-aussie-battler-tanks.json) |
 | Aussie Bogan Hero | 244401 | [244401-aussie-bogan-hero.json](./244401-aussie-bogan-hero.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
