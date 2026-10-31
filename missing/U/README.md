@@ -1188,6 +1188,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblock: The Parking | 105245 | [105245-unblock-the-parking.json](./105245-unblock-the-parking.json) |
 | Unblocking | 195200 | [195200-unblocking.json](./195200-unblocking.json) |
 | Unblocky | 67907 | [67907-unblocky.json](./67907-unblocky.json) |
+| Unblocky 2 | 68367 | [68367-unblocky-2.json](./68367-unblocky-2.json) |
+| Unblocky 3 | 68366 | [68366-unblocky-3.json](./68366-unblocky-3.json) |
 | Unblocky 4 | 67906 | [67906-unblocky-4.json](./67906-unblocky-4.json) |
 | Unbodied | 311496 | [311496-unbodied.json](./311496-unbodied.json) |
 | unBorn | 95138 | [95138-unborn.json](./95138-unborn.json) |
