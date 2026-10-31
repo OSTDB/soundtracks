@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Final Challenge | 227747 | [227747-maze-final-challenge.json](./227747-maze-final-challenge.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze Game | 216256 | [216256-maze-game.json](./216256-maze-game.json) |
+| Maze Games - Teeter | 106845 | [106845-maze-games-teeter.json](./106845-maze-games-teeter.json) |
 | Maze Girl | 253907 | [253907-maze-girl.json](./253907-maze-girl.json) |
 | Maze Gobbler | 232303 | [232303-maze-gobbler.json](./232303-maze-gobbler.json) |
 | Maze Gold Run | 127267 | [127267-maze-gold-run.json](./127267-maze-gold-run.json) |
@@ -12561,6 +12562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Furry: Hot Muscles | 294031 | [294031-mister-furry-hot-muscles.json](./294031-mister-furry-hot-muscles.json) |
 | Mister Gas | 272457 | [272457-mister-gas.json](./272457-mister-gas.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
+| Mister Jump | 106872 | [106872-mister-jump.json](./106872-mister-jump.json) |
 | Mister Mosquito | 8966 | [8966-mister-mosquito.json](./8966-mister-mosquito.json) |
 | Mister Quizz Et La Malédiction Du Manoir | 85762 | [85762-mister-quizz-et-la-malediction-du-manoir.json](./85762-mister-quizz-et-la-malediction-du-manoir.json) |
 | Mister Rogers' Neighborhood | 138092 | [138092-mister-rogers-neighborhood.json](./138092-mister-rogers-neighborhood.json) |
@@ -13173,6 +13175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Defense HD | 294682 | [294682-modern-defense-hd.json](./294682-modern-defense-hd.json) |
 | Modern Fairway 4: Spec Ops in the Rough | 130029 | [130029-modern-fairway-4-spec-ops-in-the-rough.json](./130029-modern-fairway-4-spec-ops-in-the-rough.json) |
 | Modern Fantasy: Urban Legends | 212157 | [212157-modern-fantasy-urban-legends.json](./212157-modern-fantasy-urban-legends.json) |
+| Modern FPS: Combat Sniper 3D | 106868 | [106868-modern-fps-combat-sniper-3d.json](./106868-modern-fps-combat-sniper-3d.json) |
 | Modern Game Tycoon | 189801 | [189801-modern-game-tycoon.json](./189801-modern-game-tycoon.json) |
 | Modern Girl's Refined Choices | 208937 | [208937-modern-girls-refined-choices.json](./208937-modern-girls-refined-choices.json) |
 | Modern Jet-Fighter : Air War | 107116 | [107116-modern-jet-fighter-air-war.json](./107116-modern-jet-fighter-air-war.json) |
@@ -13528,6 +13531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mommy Maze | 216042 | [216042-mommy-maze.json](./216042-mommy-maze.json) |
 | Mommy-Goddess of Unconditional Love ~Wow, You Sure Gave It Your All Out There!~ | 353289 | [353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json](./353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json) |
 | Mommy's Warm Hot Spring: Poka-poka Mama Koi Onsen | 289203 | [289203-mommys-warm-hot-spring-poka-poka-mama-koi-onsen.json](./289203-mommys-warm-hot-spring-poka-poka-mama-koi-onsen.json) |
+| Momo - The Horror Game | 106842 | [106842-momo-the-horror-game.json](./106842-momo-the-horror-game.json) |
 | Momo and the Mine | 255512 | [255512-momo-and-the-mine.json](./255512-momo-and-the-mine.json) |
 | Momo Bunny: Cash Me or Crash Me!! | 369117 | [369117-momo-bunny-cash-me-or-crash-me.json](./369117-momo-bunny-cash-me-or-crash-me.json) |
 | Momo Horror Story | 239574 | [239574-momo-horror-story.json](./239574-momo-horror-story.json) |
@@ -19442,6 +19446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries Under Lake Ophelia | 178415 | [178415-mysteries-under-lake-ophelia.json](./178415-mysteries-under-lake-ophelia.json) |
 | Mysterious Adventure of Michael | 44205 | [44205-mysterious-adventure-of-michael.json](./44205-mysterious-adventure-of-michael.json) |
 | Mysterious Adventure of Michael 2 | 190103 | [190103-mysterious-adventure-of-michael-2.json](./190103-mysterious-adventure-of-michael-2.json) |
+| Mysterious Birds | 106881 | [106881-mysterious-birds.json](./106881-mysterious-birds.json) |
 | Mysterious Blocks | 157432 | [157432-mysterious-blocks.json](./157432-mysterious-blocks.json) |
 | Mysterious Blocks 2 | 152857 | [152857-mysterious-blocks-2.json](./152857-mysterious-blocks-2.json) |
 | Mysterious Castle | 205008 | [205008-mysterious-castle.json](./205008-mysterious-castle.json) |
