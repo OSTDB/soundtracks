@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
 | PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
 | Pablo Let's Go Bar | 169433 | [169433-pablo-lets-go-bar.json](./169433-pablo-lets-go-bar.json) |
+| Pablo's Fruit | 98209 | [98209-pablos-fruit.json](./98209-pablos-fruit.json) |
 | Pac 'n Roll Remix | 203270 | [203270-pac-n-roll-remix.json](./203270-pac-n-roll-remix.json) |
 | Pac & Pal | 18381 | [18381-pac-and-pal.json](./18381-pac-and-pal.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangolin Love: Day 4 - The Philippines | 375815 | [375815-pangolin-love-day-4-the-philippines.json](./375815-pangolin-love-day-4-the-philippines.json) |
 | Pangs: You Are Hungry | 377697 | [377697-pangs-you-are-hungry.json](./377697-pangs-you-are-hungry.json) |
 | PangYa | 22593 | [22593-pangya.json](./22593-pangya.json) |
+| Pangya M | 98188 | [98188-pangya-m.json](./98188-pangya-m.json) |
 | Pangya Mobile | 137250 | [137250-pangya-mobile.json](./137250-pangya-mobile.json) |
 | Pangya: Fantasy Golf | 42809 | [42809-pangya-fantasy-golf.json](./42809-pangya-fantasy-golf.json) |
 | Pangya: United | 242060 | [242060-pangya-united.json](./242060-pangya-united.json) |
@@ -14663,6 +14665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
 | Project Stocks | 273823 | [273823-project-stocks.json](./273823-project-stocks.json) |
 | Project Stormos | 62025 | [62025-project-stormos.json](./62025-project-stormos.json) |
+| Project Strange | 98162 | [98162-project-strange.json](./98162-project-strange.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
 | Project Subathon: Urban Explorer | 398161 | [398161-project-subathon-urban-explorer.json](./398161-project-subathon-urban-explorer.json) |
 | Project Subtrahend | 274948 | [274948-project-subtrahend.json](./274948-project-subtrahend.json) |
