@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Hue | 94971 | [94971-i-love-hue.json](./94971-i-love-hue.json) |
 | I Love Hue Too | 177555 | [177555-i-love-hue-too.json](./177555-i-love-hue-too.json) |
 | I Love Katamari | 6457 | [6457-i-love-katamari.json](./6457-i-love-katamari.json) |
+| I Love Kittens! | 73072 | [73072-i-love-kittens.json](./73072-i-love-kittens.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Me, I Love Me Not | 222737 | [222737-i-love-me-i-love-me-not.json](./222737-i-love-me-i-love-me-not.json) |
 | I Love Me, I Love Me Not | 313095 | [313095-i-love-me-i-love-me-not.json](./313095-i-love-me-i-love-me-not.json) |
@@ -1781,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igor: Objective Uikokahonia | 7652 | [7652-igor-objective-uikokahonia.json](./7652-igor-objective-uikokahonia.json) |
 | Igor: The Game | 212667 | [212667-igor-the-game.json](./212667-igor-the-game.json) |
 | Igor: The Game | 21269 | [21269-igor-the-game.json](./21269-igor-the-game.json) |
+| Igor: The Time Machine | 73060 | [73060-igor-the-time-machine.json](./73060-igor-the-time-machine.json) |
 | Igowin HD | 108722 | [108722-igowin-hd.json](./108722-igowin-hd.json) |
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
 | IGPX | 338690 | [338690-igpx.json](./338690-igpx.json) |
