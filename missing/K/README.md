@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazak | 239685 | [239685-kazak.json](./239685-kazak.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kazakh Drive | 138419 | [138419-kazakh-drive.json](./138419-kazakh-drive.json) |
+| Kazarma | 121251 | [121251-kazarma.json](./121251-kazarma.json) |
 | Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kaze no Noriko: Sanae-san no Yokai Taiji | 193628 | [193628-kaze-no-noriko-sanae-san-no-yokai-taiji.json](./193628-kaze-no-noriko-sanae-san-no-yokai-taiji.json) |
@@ -2540,7 +2541,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
