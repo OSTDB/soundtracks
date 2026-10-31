@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5330,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Strip | 367024 | [367024-beer-strip.json](./367024-beer-strip.json) |
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
 | Beer! | 83796 | [83796-beer.json](./83796-beer.json) |
+| Beer'em Up | 111341 | [111341-beerem-up.json](./111341-beerem-up.json) |
 | Beercrush | 378590 | [378590-beercrush.json](./378590-beercrush.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | BeerLeague Superstar | 154916 | [154916-beerleague-superstar.json](./154916-beerleague-superstar.json) |
@@ -8433,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
 | Blackjack Master | 86689 | [86689-blackjack-master.json](./86689-blackjack-master.json) |
 | BlackJack Math Cross Numbers | 238877 | [238877-blackjack-math-cross-numbers.json](./238877-blackjack-math-cross-numbers.json) |
+| Blackjack of Strip | 111340 | [111340-blackjack-of-strip.json](./111340-blackjack-of-strip.json) |
 | Blackjack Player | 88437 | [88437-blackjack-player.json](./88437-blackjack-player.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
@@ -9024,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach Party | 157487 | [157487-bleach-party.json](./157487-bleach-party.json) |
 | Bleach Soul Rising | 216091 | [216091-bleach-soul-rising.json](./216091-bleach-soul-rising.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
+| Bleach: Awakened Souls - Shinigami | 111315 | [111315-bleach-awakened-souls-shinigami.json](./111315-bleach-awakened-souls-shinigami.json) |
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Blade Battlers 2nd | 75997 | [75997-bleach-blade-battlers-2nd.json](./75997-bleach-blade-battlers-2nd.json) |
 | Bleach: Dark Souls | 21331 | [21331-bleach-dark-souls.json](./21331-bleach-dark-souls.json) |
@@ -12418,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce & Roll | 257807 | [257807-bounce-and-roll.json](./257807-bounce-and-roll.json) |
 | Bounce 2 | 356571 | [356571-bounce-2.json](./356571-bounce-2.json) |
 | Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
+| Bounce AHead | 111325 | [111325-bounce-ahead.json](./111325-bounce-ahead.json) |
 | Bounce and Pop | 227423 | [227423-bounce-and-pop.json](./227423-bounce-and-pop.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
 | Bounce ASMR | 288060 | [288060-bounce-asmr.json](./288060-bounce-asmr.json) |
