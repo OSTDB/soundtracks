@@ -7059,13 +7059,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Akatsuki no Monument | 49695 | [49695-detective-conan-akatsuki-no-monument.json](./49695-detective-conan-akatsuki-no-monument.json) |
 | Detective Conan: Aoki Houseki no Rinbukyoku - Rondo | 79556 | [79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json](./79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json) |
+| Detective Conan: Daieiteikoku no Isan | 74817 | [74817-detective-conan-daieiteikoku-no-isan.json](./74817-detective-conan-daieiteikoku-no-isan.json) |
 | Detective Conan: Giwaku no Gouka Ressha | 61423 | [61423-detective-conan-giwaku-no-gouka-ressha.json](./61423-detective-conan-giwaku-no-gouka-ressha.json) |
+| Detective Conan: Kako Kara no Zensoukyoku - Prelude | 74820 | [74820-detective-conan-kako-kara-no-zensoukyoku-prelude.json](./74820-detective-conan-kako-kara-no-zensoukyoku-prelude.json) |
 | Detective Conan: Kieta Hakase to Machigai Sagashi no Tou | 79555 | [79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json](./79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json) |
 | Detective Conan: Kiganshima Hihou Densetsu | 209495 | [209495-detective-conan-kiganshima-hihou-densetsu.json](./209495-detective-conan-kiganshima-hihou-densetsu.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
 | Detective Conan: Majutsushi no Chousenjou! | 37569 | [37569-detective-conan-majutsushi-no-chousenjou.json](./37569-detective-conan-majutsushi-no-chousenjou.json) |
 | Detective Conan: Marionette Symphony | 61418 | [61418-detective-conan-marionette-symphony.json](./61418-detective-conan-marionette-symphony.json) |
 | Detective Conan: Nishi no Meitantei Saidai no Kiki!? | 37568 | [37568-detective-conan-nishi-no-meitantei-saidai-no-kiki.json](./37568-detective-conan-nishi-no-meitantei-saidai-no-kiki.json) |
+| Detective Conan: Norowareta Kouro | 74819 | [74819-detective-conan-norowareta-kouro.json](./74819-detective-conan-norowareta-kouro.json) |
 | Detective Conan: Phantom Rhapsody | 61419 | [61419-detective-conan-phantom-rhapsody.json](./61419-detective-conan-phantom-rhapsody.json) |
 | Detective Conan: Trick Trick Vol. 1 | 84172 | [84172-detective-conan-trick-trick-vol-1.json](./84172-detective-conan-trick-trick-vol-1.json) |
 | Detective Conan: Tsuioku no Gensou | 21428 | [21428-detective-conan-tsuioku-no-gensou.json](./21428-detective-conan-tsuioku-no-gensou.json) |
@@ -10703,6 +10706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
 | Doggo Estates | 210998 | [210998-doggo-estates.json](./210998-doggo-estates.json) |
 | Doggo Garden Defense | 246012 | [246012-doggo-garden-defense.json](./246012-doggo-garden-defense.json) |
+| Doggo Jumpo | 74803 | [74803-doggo-jumpo.json](./74803-doggo-jumpo.json) |
 | Doggo Patrol | 223606 | [223606-doggo-patrol.json](./223606-doggo-patrol.json) |
 | Doggo Quest | 151047 | [151047-doggo-quest.json](./151047-doggo-quest.json) |
 | Doggo Walko | 178565 | [178565-doggo-walko.json](./178565-doggo-walko.json) |
@@ -13903,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon: The Bruce Lee Story | 18617 | [18617-dragon-the-bruce-lee-story.json](./18617-dragon-the-bruce-lee-story.json) |
 | Dragon: The Bruce Lee Story | 218422 | [218422-dragon-the-bruce-lee-story.json](./218422-dragon-the-bruce-lee-story.json) |
 | Dragon: The Game | 36282 | [36282-dragon-the-game.json](./36282-dragon-the-game.json) |
+| Dragon's Alphabet | 74841 | [74841-dragons-alphabet.json](./74841-dragons-alphabet.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Blade | 107603 | [107603-dragons-blade.json](./107603-dragons-blade.json) |
 | Dragon's Blade II | 107605 | [107605-dragons-blade-ii.json](./107605-dragons-blade-ii.json) |
@@ -16050,6 +16055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel Puzzle Wars | 114688 | [114688-duel-puzzle-wars.json](./114688-duel-puzzle-wars.json) |
 | Duel Revolution | 228746 | [228746-duel-revolution.json](./228746-duel-revolution.json) |
+| Duel Savior Destiny | 74838 | [74838-duel-savior-destiny.json](./74838-duel-savior-destiny.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
 | Duel Survival | 67913 | [67913-duel-survival.json](./67913-duel-survival.json) |
 | Duel Timers | 367371 | [367371-duel-timers.json](./367371-duel-timers.json) |
