@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
 | Lantern Light | 379701 | [379701-lantern-light.json](./379701-lantern-light.json) |
 | Lantern Light VR | 160039 | [160039-lantern-light-vr.json](./160039-lantern-light-vr.json) |
+| Lantern of Worlds - The First Quest | 110646 | [110646-lantern-of-worlds-the-first-quest.json](./110646-lantern-of-worlds-the-first-quest.json) |
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
 | Lantern of Worlds: Layla's Quest | 368275 | [368275-lantern-of-worlds-laylas-quest.json](./368275-lantern-of-worlds-laylas-quest.json) |
 | Lantern Push | 391838 | [391838-lantern-push.json](./391838-lantern-push.json) |
