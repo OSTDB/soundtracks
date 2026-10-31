@@ -2528,6 +2528,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nested Lands | 270136 | [270136-nested-lands.json](./270136-nested-lands.json) |
 | Nested Rooms | 186812 | [186812-nested-rooms.json](./186812-nested-rooms.json) |
 | Nestify | 403936 | [403936-nestify.json](./403936-nestify.json) |
+| Nestle Close | 97620 | [97620-nestle-close.json](./97620-nestle-close.json) |
+| Nestle Close 2 | 97618 | [97618-nestle-close-2.json](./97618-nestle-close-2.json) |
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
 | Net 24h: Vietnamese Internet Cafe Simulator | 391652 | [391652-net-24h-vietnamese-internet-cafe-simulator.json](./391652-net-24h-vietnamese-internet-cafe-simulator.json) |
 | Net Catcher: Netch | 218065 | [218065-net-catcher-netch.json](./218065-net-catcher-netch.json) |
@@ -3603,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nichibutsu Arcade Classics 2: Heiankyo Alien | 38180 | [38180-nichibutsu-arcade-classics-2-heiankyo-alien.json](./38180-nichibutsu-arcade-classics-2-heiankyo-alien.json) |
 | Nichibutsu Collection 1 | 37906 | [37906-nichibutsu-collection-1.json](./37906-nichibutsu-collection-1.json) |
 | Nichibutsu Collection 2 | 37905 | [37905-nichibutsu-collection-2.json](./37905-nichibutsu-collection-2.json) |
+| Nichibutsu Collection 2000: Otona no Asobi | 97610 | [97610-nichibutsu-collection-2000-otona-no-asobi.json](./97610-nichibutsu-collection-2000-otona-no-asobi.json) |
 | Nichibutsu Mahjong Collection | 251087 | [251087-nichibutsu-mahjong-collection.json](./251087-nichibutsu-mahjong-collection.json) |
 | Nichibutsu Mahjong III: Mahjong G Men | 48804 | [48804-nichibutsu-mahjong-iii-mahjong-g-men.json](./48804-nichibutsu-mahjong-iii-mahjong-g-men.json) |
 | Nichibutsu Mahjong: Joshikou Meijinsen | 98201 | [98201-nichibutsu-mahjong-joshikou-meijinsen.json](./98201-nichibutsu-mahjong-joshikou-meijinsen.json) |
@@ -6728,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Nuigurumi no Cakeya-san: Mahou no Patissiere | 158971 | [158971-nuigurumi-no-cakeya-san-mahou-no-patissiere.json](./158971-nuigurumi-no-cakeya-san-mahou-no-patissiere.json) |
 | Nukalypse Zombie Survival | 110663 | [110663-nukalypse-zombie-survival.json](./110663-nukalypse-zombie-survival.json) |
+| Nukanakucha! | 97613 | [97613-nukanakucha.json](./97613-nukanakucha.json) |
 | Nuke Babysitter Simulator \| Kim Edition | 81685 | [81685-nuke-babysitter-simulator-kim-edition.json](./81685-nuke-babysitter-simulator-kim-edition.json) |
 | Nuke Bomberman | 336681 | [336681-nuke-bomberman.json](./336681-nuke-bomberman.json) |
 | Nuke City | 208085 | [208085-nuke-city.json](./208085-nuke-city.json) |
