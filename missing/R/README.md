@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of the Battlemage | 32135 | [32135-rage-of-the-battlemage.json](./32135-rage-of-the-battlemage.json) |
 | Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
 | Rage of the Gladiator | 22113 | [22113-rage-of-the-gladiator.json](./22113-rage-of-the-gladiator.json) |
+| Rage of the Pumpkins | 104379 | [104379-rage-of-the-pumpkins.json](./104379-rage-of-the-pumpkins.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
 | Rage of Tiger 2: Blood, Money and Tears | 64350 | [64350-rage-of-tiger-2-blood-money-and-tears.json](./64350-rage-of-tiger-2-blood-money-and-tears.json) |
 | Rage of Towers | 264184 | [264184-rage-of-towers.json](./264184-rage-of-towers.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Driving 2: Ultimate Car Simulator | 208962 | [208962-real-driving-2-ultimate-car-simulator.json](./208962-real-driving-2-ultimate-car-simulator.json) |
 | Real Driving Sim | 147721 | [147721-real-driving-sim.json](./147721-real-driving-sim.json) |
 | Real Driving Simulator 23 | 252555 | [252555-real-driving-simulator-23.json](./252555-real-driving-simulator-23.json) |
+| Real Driving: Ultimate Car Simulator | 104350 | [104350-real-driving-ultimate-car-simulator.json](./104350-real-driving-ultimate-car-simulator.json) |
 | Real Drone Simulator | 298936 | [298936-real-drone-simulator.json](./298936-real-drone-simulator.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
@@ -8526,6 +8528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Arena: Season 2 | 144043 | [144043-rocket-arena-season-2.json](./144043-rocket-arena-season-2.json) |
 | Rocket Arena: Season 3 | 144044 | [144044-rocket-arena-season-3.json](./144044-rocket-arena-season-3.json) |
 | Rocket Armor | 76363 | [76363-rocket-armor.json](./76363-rocket-armor.json) |
+| Rocket Assault | 104348 | [104348-rocket-assault.json](./104348-rocket-assault.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Boots Mania: Space Train | 332909 | [332909-rocket-boots-mania-space-train.json](./332909-rocket-boots-mania-space-train.json) |
