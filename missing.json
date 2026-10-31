@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T21:22:01.027Z",
-  "total_missing": 290370,
+  "generated_at": "2026-10-31T21:28:12.001Z",
+  "total_missing": 290360,
   "games": [
     {
       "igdb_id": 191680,
@@ -75940,11 +75940,6 @@
       "igdb_id": 242563,
       "game_name": "Archery Tournament",
       "file": "missing/A/242563-archery-tournament.json"
-    },
-    {
-      "igdb_id": 145445,
-      "game_name": "Arches",
-      "file": "missing/A/145445-arches.json"
     },
     {
       "igdb_id": 184230,
@@ -251532,11 +251527,6 @@
       "file": "missing/C/238372-corpse-disaster-survivors.json"
     },
     {
-      "igdb_id": 152055,
-      "game_name": "Corpse Factory",
-      "file": "missing/C/152055-corpse-factory.json"
-    },
-    {
       "igdb_id": 298551,
       "game_name": "Corpse Killer",
       "file": "missing/C/298551-corpse-killer.json"
@@ -411082,11 +411072,6 @@
       "file": "missing/F/56480-fall-of-magic-digital-edition.json"
     },
     {
-      "igdb_id": 165271,
-      "game_name": "Fall of Porcupine",
-      "file": "missing/F/165271-fall-of-porcupine.json"
-    },
-    {
       "igdb_id": 254153,
       "game_name": "Fall of Porcupine: Save the World Edition",
       "file": "missing/F/254153-fall-of-porcupine-save-the-world-edition.json"
@@ -455585,11 +455570,6 @@
       "igdb_id": 137632,
       "game_name": "Forza Polpo",
       "file": "missing/F/137632-forza-polpo.json"
-    },
-    {
-      "igdb_id": 102867,
-      "game_name": "Forza Street",
-      "file": "missing/F/102867-forza-street.json"
     },
     {
       "igdb_id": 237369,
@@ -709500,11 +709480,6 @@
       "igdb_id": 188377,
       "game_name": "Mabinogi Mobile",
       "file": "missing/M/188377-mabinogi-mobile.json"
-    },
-    {
-      "igdb_id": 89773,
-      "game_name": "Mable and the Wood",
-      "file": "missing/M/89773-mable-and-the-wood.json"
     },
     {
       "igdb_id": 225197,
@@ -977332,11 +977307,6 @@
       "file": "missing/R/355087-rayngames.json"
     },
     {
-      "igdb_id": 45089,
-      "game_name": "RayStorm",
-      "file": "missing/R/45089-raystorm.json"
-    },
-    {
       "igdb_id": 47448,
       "game_name": "RayStorm HD",
       "file": "missing/R/47448-raystorm-hd.json"
@@ -1111202,11 +1111172,6 @@
       "file": "missing/S/216895-souldead.json"
     },
     {
-      "igdb_id": 155498,
-      "game_name": "Souldiers",
-      "file": "missing/S/155498-souldiers.json"
-    },
-    {
       "igdb_id": 203687,
       "game_name": "Souldiers: Digital Deluxe Edition",
       "file": "missing/S/203687-souldiers-digital-deluxe-edition.json"
@@ -1225050,11 +1225015,6 @@
       "igdb_id": 12008,
       "game_name": "The Colonel's Bequest",
       "file": "missing/T/12008-the-colonels-bequest.json"
-    },
-    {
-      "igdb_id": 75065,
-      "game_name": "The Colonists",
-      "file": "missing/T/75065-the-colonists.json"
     },
     {
       "igdb_id": 113413,
@@ -1354767,11 +1354727,6 @@
       "file": "missing/U/407330-unhold.json"
     },
     {
-      "igdb_id": 90213,
-      "game_name": "Unholy",
-      "file": "missing/U/90213-unholy.json"
-    },
-    {
       "igdb_id": 223888,
       "game_name": "Unholy Adventure",
       "file": "missing/U/223888-unholy-adventure.json"
@@ -1360640,11 +1360595,6 @@
       "igdb_id": 98073,
       "game_name": "Urtuk: The Desolation",
       "file": "missing/U/98073-urtuk-the-desolation.json"
-    },
-    {
-      "igdb_id": 50395,
-      "game_name": "Uru: Ages Beyond Myst",
-      "file": "missing/U/50395-uru-ages-beyond-myst.json"
     },
     {
       "igdb_id": 16202,
