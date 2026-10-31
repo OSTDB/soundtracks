@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teasing Master Takagi-san VR: 1st Semester | 160134 | [160134-teasing-master-takagi-san-vr-1st-semester.json](./160134-teasing-master-takagi-san-vr-1st-semester.json) |
 | Teasing Master Takagi-san VR: 2nd Semester | 188882 | [188882-teasing-master-takagi-san-vr-2nd-semester.json](./188882-teasing-master-takagi-san-vr-2nd-semester.json) |
 | Teatime with a Vampire | 301375 | [301375-teatime-with-a-vampire.json](./301375-teatime-with-a-vampire.json) |
+| Teazle | 78412 | [78412-teazle.json](./78412-teazle.json) |
 | Teazle 2 | 206609 | [206609-teazle-2.json](./206609-teazle-2.json) |
 | Tebb And The Chistorbes | 232961 | [232961-tebb-and-the-chistorbes.json](./232961-tebb-and-the-chistorbes.json) |
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
@@ -21785,6 +21786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
 | Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
 | Titjob Battle | 83363 | [83363-titjob-battle.json](./83363-titjob-battle.json) |
+| Title Fight | 78404 | [78404-title-fight.json](./78404-title-fight.json) |
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
 | Title Match Pro Wrestling | 12343 | [12343-title-match-pro-wrestling.json](./12343-title-match-pro-wrestling.json) |
 | Title_Pending | 144909 | [144909-title-pending.json](./144909-title-pending.json) |
@@ -27262,6 +27264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transregnum | 338950 | [338950-transregnum.json](./338950-transregnum.json) |
 | Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
 | Transversion | 57343 | [57343-transversion.json](./57343-transversion.json) |
+| Transworld | 78435 | [78435-transworld.json](./78435-transworld.json) |
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
 | TransWorld Surf | 4209 | [4209-transworld-surf.json](./4209-transworld-surf.json) |
 | Transworld Surf: Next Wave | 69158 | [69158-transworld-surf-next-wave.json](./69158-transworld-surf-next-wave.json) |
@@ -29960,6 +29963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV-Chan's Great Escape! | 358639 | [358639-tv-chans-great-escape.json](./358639-tv-chans-great-escape.json) |
 | TV189 | 112004 | [112004-tv189.json](./112004-tv189.json) |
 | TV1998 | 257354 | [257354-tv1998.json](./257354-tv1998.json) |
+| TVDJ | 78391 | [78391-tvdj.json](./78391-tvdj.json) |
 | TVG Journey | 197563 | [197563-tvg-journey.json](./197563-tvg-journey.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | TVhTk | 271945 | [271945-tvhtk.json](./271945-tvhtk.json) |
