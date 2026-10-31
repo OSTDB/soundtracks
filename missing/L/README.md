@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazerBlazer: Type A - Intercept | 271255 | [271255-lazerblazer-type-a-intercept.json](./271255-lazerblazer-type-a-intercept.json) |
 | LazerBlazer: Type B - Engage | 271256 | [271256-lazerblazer-type-b-engage.json](./271256-lazerblazer-type-b-engage.json) |
 | LazerBlazer: Type C - Confront | 271257 | [271257-lazerblazer-type-c-confront.json](./271257-lazerblazer-type-c-confront.json) |
+| Lazergoat: Invasion | 97035 | [97035-lazergoat-invasion.json](./97035-lazergoat-invasion.json) |
 | LazerGrrl | 112202 | [112202-lazergrrl.json](./112202-lazergrrl.json) |
 | Lazerhawk | 223266 | [223266-lazerhawk.json](./223266-lazerhawk.json) |
 | Lazers Hurt | 278260 | [278260-lazers-hurt.json](./278260-lazers-hurt.json) |
@@ -7182,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Beyond | 213542 | [213542-lost-beyond.json](./213542-lost-beyond.json) |
 | Lost Bits | 256702 | [256702-lost-bits.json](./256702-lost-bits.json) |
 | Lost Blade | 208171 | [208171-lost-blade.json](./208171-lost-blade.json) |
+| Lost Borderline | 97071 | [97071-lost-borderline.json](./97071-lost-borderline.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
@@ -7993,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Note | 97992 | [97992-love-note.json](./97992-love-note.json) |
 | Love Note 2 | 108924 | [108924-love-note-2.json](./108924-love-note-2.json) |
 | Love Notes | 190336 | [190336-love-notes.json](./190336-love-notes.json) |
+| Love Obsession VR | 97037 | [97037-love-obsession-vr.json](./97037-love-obsession-vr.json) |
 | Love of Dragons | 155846 | [155846-love-of-dragons.json](./155846-love-of-dragons.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
 | Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
