@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Jesus | 31871 | [31871-save-jesus.json](./31871-save-jesus.json) |
 | Save King | 248087 | [248087-save-king.json](./248087-save-king.json) |
 | Save Koch | 114808 | [114808-save-koch.json](./114808-save-koch.json) |
+| Save Larisa | 94506 | [94506-save-larisa.json](./94506-save-larisa.json) |
 | Save Mary | 40698 | [40698-save-mary.json](./40698-save-mary.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
 | Save Me Mr Tako: Definitive Edition | 143839 | [143839-save-me-mr-tako-definitive-edition.json](./143839-save-me-mr-tako-definitive-edition.json) |
@@ -7490,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
 | Shin Megami Tensei IV: Apocalypse | 19329 | [19329-shin-megami-tensei-iv-apocalypse.json](./19329-shin-megami-tensei-iv-apocalypse.json) |
 | Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
+| Shin Megami Tensei Trading Card: Card Summoner | 94503 | [94503-shin-megami-tensei-trading-card-card-summoner.json](./94503-shin-megami-tensei-trading-card-card-summoner.json) |
 | Shin Megami Tensei V | 26775 | [26775-shin-megami-tensei-v.json](./26775-shin-megami-tensei-v.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: Digital Deluxe Edition | 238340 | [238340-shin-megami-tensei-v-digital-deluxe-edition.json](./238340-shin-megami-tensei-v-digital-deluxe-edition.json) |
@@ -10115,6 +10117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulacrum | 305813 | [305813-simulacrum.json](./305813-simulacrum.json) |
 | Simulacrum: Chapter One | 122916 | [122916-simulacrum-chapter-one.json](./122916-simulacrum-chapter-one.json) |
 | Simulador Profesional de Fútbol | 70334 | [70334-simulador-profesional-de-futbol.json](./70334-simulador-profesional-de-futbol.json) |
+| Simulador Profesional de Tenis | 94455 | [94455-simulador-profesional-de-tenis.json](./94455-simulador-profesional-de-tenis.json) |
 | SimuLadron | 381630 | [381630-simuladron.json](./381630-simuladron.json) |
 | Simulakros | 265619 | [265619-simulakros.json](./265619-simulakros.json) |
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
@@ -14502,6 +14505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soft Serve | 252811 | [252811-soft-serve.json](./252811-soft-serve.json) |
 | Soft Wind | 169092 | [169092-soft-wind.json](./169092-soft-wind.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
+| SoftAid | 94480 | [94480-softaid.json](./94480-softaid.json) |
 | Softball Tengoku | 48907 | [48907-softball-tengoku.json](./48907-softball-tengoku.json) |
 | Softball: Breakthrough Gaming Arcade | 204999 | [204999-softball-breakthrough-gaming-arcade.json](./204999-softball-breakthrough-gaming-arcade.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
@@ -17525,6 +17529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Diner Simulator | 356048 | [356048-space-diner-simulator.json](./356048-space-diner-simulator.json) |
 | Space Dingus | 351387 | [351387-space-dingus.json](./351387-space-dingus.json) |
 | Space Diva | 318151 | [318151-space-diva.json](./318151-space-diva.json) |
+| Space Dodge'm | 94471 | [94471-space-dodgem.json](./94471-space-dodgem.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
 | Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
 | Space Dogfight | 158377 | [158377-space-dogfight.json](./158377-space-dogfight.json) |
@@ -17730,6 +17735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26164,6 +26170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
 | Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
 | Styscraper | 334230 | [334230-styscraper.json](./334230-styscraper.json) |
+| Styx | 94476 | [94476-styx.json](./94476-styx.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Styx: Final Shores | 371136 | [371136-styx-final-shores.json](./371136-styx-final-shores.json) |
 | Styx: Vertical Platformer | 181535 | [181535-styx-vertical-platformer.json](./181535-styx-vertical-platformer.json) |
