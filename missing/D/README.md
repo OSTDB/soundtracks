@@ -7387,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Station | 130676 | [130676-devil-station.json](./130676-devil-station.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
+| Devil Summoner: Kuzunoha Raidou tai Abaddon Ou Plus | 77075 | [77075-devil-summoner-kuzunoha-raidou-tai-abaddon-ou-plus.json](./77075-devil-summoner-kuzunoha-raidou-tai-abaddon-ou-plus.json) |
 | Devil Summoner: Soul Hackers | 6883 | [6883-devil-summoner-soul-hackers.json](./6883-devil-summoner-soul-hackers.json) |
 | Devil Summoner: Soul Hackers - Akuma Zensho | 145852 | [145852-devil-summoner-soul-hackers-akuma-zensho.json](./145852-devil-summoner-soul-hackers-akuma-zensho.json) |
 | Devil Summoner: Soul Hackers Intruder | 139069 | [139069-devil-summoner-soul-hackers-intruder.json](./139069-devil-summoner-soul-hackers-intruder.json) |
@@ -9588,6 +9589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin | 2473 | [2473-disneys-aladdin.json](./2473-disneys-aladdin.json) |
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's Aladdin in Nasira's Revenge | 10791 | [10791-disneys-aladdin-in-nasiras-revenge.json](./10791-disneys-aladdin-in-nasiras-revenge.json) |
+| Disney's Aladdin: Aladdin's Wonders of the World | 77061 | [77061-disneys-aladdin-aladdins-wonders-of-the-world.json](./77061-disneys-aladdin-aladdins-wonders-of-the-world.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
 | Disney's American Dragon: Jake Long - Attack of the Dark Dragon | 8464 | [8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json](./8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json) |
 | Disney's Animated Storybook: 101 Dalmatians | 204394 | [204394-disneys-animated-storybook-101-dalmatians.json](./204394-disneys-animated-storybook-101-dalmatians.json) |
@@ -13787,6 +13789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
+| Dragon Sin | 77055 | [77055-dragon-sin.json](./77055-dragon-sin.json) |
 | Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
 | Dragon Skies VR | 31573 | [31573-dragon-skies-vr.json](./31573-dragon-skies-vr.json) |
