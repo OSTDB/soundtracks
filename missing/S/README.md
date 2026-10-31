@@ -14875,6 +14875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soleil Survivor | 340355 | [340355-soleil-survivor.json](./340355-soleil-survivor.json) |
 | Solemn Knights: Entirely Ours | 254421 | [254421-solemn-knights-entirely-ours.json](./254421-solemn-knights-entirely-ours.json) |
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
+| Solenars Edge Heroes | 97033 | [97033-solenars-edge-heroes.json](./97033-solenars-edge-heroes.json) |
 | Solenars Edge II: Aurora of The Seventh Dawn | 133182 | [133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json](./133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json) |
 | Solenars Edge Rebirth | 50759 | [50759-solenars-edge-rebirth.json](./50759-solenars-edge-rebirth.json) |
 | Solenars Edge Rebirth: After Story | 174173 | [174173-solenars-edge-rebirth-after-story.json](./174173-solenars-edge-rebirth-after-story.json) |
@@ -29467,6 +29468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Punch Patrol | 139882 | [139882-super-punch-patrol.json](./139882-super-punch-patrol.json) |
 | Super Punch-Out!! | 9151 | [9151-super-punch-out.json](./9151-super-punch-out.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
+| Super Punchman | 97034 | [97034-super-punchman.json](./97034-super-punchman.json) |
 | Super Punchy Face | 181116 | [181116-super-punchy-face.json](./181116-super-punchy-face.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
 | Super Puyo Puyo | 42406 | [42406-super-puyo-puyo.json](./42406-super-puyo-puyo.json) |
