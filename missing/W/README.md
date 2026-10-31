@@ -2609,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
 | We Can Smell It (maybe) | 376632 | [376632-we-can-smell-it-maybe.json](./376632-we-can-smell-it-maybe.json) |
+| We can't get through the zombies | 81720 | [81720-we-cant-get-through-the-zombies.json](./81720-we-cant-get-through-the-zombies.json) |
 | We Carry the Fire | 257321 | [257321-we-carry-the-fire.json](./257321-we-carry-the-fire.json) |
 | We Cheer | 5263 | [5263-we-cheer.json](./5263-we-cheer.json) |
 | We Cheer 2 | 5264 | [5264-we-cheer-2.json](./5264-we-cheer-2.json) |
@@ -2798,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Koihime Musou | 64169 | [64169-web-koihime-musou.json](./64169-web-koihime-musou.json) |
 | Web Mystery: Yochimu wo Miru Neko | 59815 | [59815-web-mystery-yochimu-wo-miru-neko.json](./59815-web-mystery-yochimu-wo-miru-neko.json) |
 | Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
+| Web of Deceit: Deadly Sands - Collector's Edition | 81837 | [81837-web-of-deceit-deadly-sands-collectors-edition.json](./81837-web-of-deceit-deadly-sands-collectors-edition.json) |
 | Web of Deceit: Deadly Sands HD | 96547 | [96547-web-of-deceit-deadly-sands-hd.json](./96547-web-of-deceit-deadly-sands-hd.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
 | Web Phantom Brave | 366029 | [366029-web-phantom-brave.json](./366029-web-phantom-brave.json) |
