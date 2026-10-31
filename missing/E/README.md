@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Breaker | 213896 | [213896-eco-breaker.json](./213896-eco-breaker.json) |
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco City Planner | 381304 | [381304-eco-city-planner.json](./381304-eco-city-planner.json) |
+| Eco East Africa | 71318 | [71318-eco-east-africa.json](./71318-eco-east-africa.json) |
 | Eco ego | 382515 | [382515-eco-ego.json](./382515-eco-ego.json) |
 | Eco Farm Green | 327054 | [327054-eco-farm-green.json](./327054-eco-farm-green.json) |
 | Eco Hole | 169633 | [169633-eco-hole.json](./169633-eco-hole.json) |
@@ -2413,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: Navy SEALs - Weapons of Mass Destruction | 72523 | [72523-elite-forces-navy-seals-weapons-of-mass-destruction.json](./72523-elite-forces-navy-seals-weapons-of-mass-destruction.json) |
 | Elite Forces: Unit 77 | 21291 | [21291-elite-forces-unit-77.json](./21291-elite-forces-unit-77.json) |
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
+| Elite Forces: WWII Normandy | 71273 | [71273-elite-forces-wwii-normandy.json](./71273-elite-forces-wwii-normandy.json) |
 | Elite Hacker: Retro Hacking Evolution | 316569 | [316569-elite-hacker-retro-hacking-evolution.json](./316569-elite-hacker-retro-hacking-evolution.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Rogue | 258044 | [258044-elite-rogue.json](./258044-elite-rogue.json) |
@@ -6093,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
+| EVE Zero: Ark of the Matter | 71277 | [71277-eve-zero-ark-of-the-matter.json](./71277-eve-zero-ark-of-the-matter.json) |
 | Eve-Orb | 82526 | [82526-eve-orb.json](./82526-eve-orb.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
@@ -7081,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
 | Exodus Guilty | 80384 | [80384-exodus-guilty.json](./80384-exodus-guilty.json) |
+| Exodus Guilty Neos | 71305 | [71305-exodus-guilty-neos.json](./71305-exodus-guilty-neos.json) |
 | Exodus Guilty Vol. 1 Present | 61957 | [61957-exodus-guilty-vol-1-present.json](./61957-exodus-guilty-vol-1-present.json) |
 | Exodus Guilty Vol. 2 Past | 61955 | [61955-exodus-guilty-vol-2-past.json](./61955-exodus-guilty-vol-2-past.json) |
 | Exodus Guilty Vol. 3 Future | 61954 | [61954-exodus-guilty-vol-3-future.json](./61954-exodus-guilty-vol-3-future.json) |
