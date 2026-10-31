@@ -10999,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of the Lost | 258460 | [258460-ruins-of-the-lost.json](./258460-ruins-of-the-lost.json) |
 | Ruins of The Titan | 365069 | [365069-ruins-of-the-titan.json](./365069-ruins-of-the-titan.json) |
 | Ruins of the Unforgotten Souls | 299846 | [299846-ruins-of-the-unforgotten-souls.json](./299846-ruins-of-the-unforgotten-souls.json) |
+| Ruins of Wish: Ephemeral Traveler | 82516 | [82516-ruins-of-wish-ephemeral-traveler.json](./82516-ruins-of-wish-ephemeral-traveler.json) |
 | Ruins Survival | 114511 | [114511-ruins-survival.json](./114511-ruins-survival.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | Ruins: The Gate of Rebirth | 284256 | [284256-ruins-the-gate-of-rebirth.json](./284256-ruins-the-gate-of-rebirth.json) |
