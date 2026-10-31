@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Beauties: Hentai Photo Puzzle | 417279 | [417279-neon-beauties-hentai-photo-puzzle.json](./417279-neon-beauties-hentai-photo-puzzle.json) |
 | Neon Blast | 113548 | [113548-neon-blast.json](./113548-neon-blast.json) |
 | Neon Blast | 240936 | [240936-neon-blast.json](./240936-neon-blast.json) |
+| Neon Blight | 114025 | [114025-neon-blight.json](./114025-neon-blight.json) |
 | Neon Blitz | 311859 | [311859-neon-blitz.json](./311859-neon-blitz.json) |
 | Neon Blocks 87 | 90814 | [90814-neon-blocks-87.json](./90814-neon-blocks-87.json) |
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
@@ -6024,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Norman Cooks in "Search for the Don" | 71056 | [71056-norman-cooks-in-search-for-the-don.json](./71056-norman-cooks-in-search-for-the-don.json) |
 | Norman's Escape | 141495 | [141495-normans-escape.json](./141495-normans-escape.json) |
+| Norman's Great Illusion | 114019 | [114019-normans-great-illusion.json](./114019-normans-great-illusion.json) |
 | Norman's Night In | 115518 | [115518-normans-night-in.json](./115518-normans-night-in.json) |
 | Norman's Night in the Cave | 123204 | [123204-normans-night-in-the-cave.json](./123204-normans-night-in-the-cave.json) |
 | Norman's Sky | 179001 | [179001-normans-sky.json](./179001-normans-sky.json) |
@@ -6672,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nucleite | 285911 | [285911-nucleite.json](./285911-nucleite.json) |
 | Nucleuz Underground | 309369 | [309369-nucleuz-underground.json](./309369-nucleuz-underground.json) |
 | Nuclien | 56279 | [56279-nuclien.json](./56279-nuclien.json) |
+| Nucvivor | 113985 | [113985-nucvivor.json](./113985-nucvivor.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nude Crisis | 211603 | [211603-nude-crisis.json](./211603-nude-crisis.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
