@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocentrea | 98015 | [98015-innocentrea.json](./98015-innocentrea.json) |
 | Innoquous | 100063 | [100063-innoquous.json](./100063-innoquous.json) |
 | Innovazione Vostra | 227919 | [227919-innovazione-vostra.json](./227919-innovazione-vostra.json) |
+| Innovetica | 119945 | [119945-innovetica.json](./119945-innovetica.json) |
 | Innsmouth | 328939 | [328939-innsmouth.json](./328939-innsmouth.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insights: Maniac Vortex | 170974 | [170974-insights-maniac-vortex.json](./170974-insights-maniac-vortex.json) |
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
 | Insignia: Tactics | 175139 | [175139-insignia-tactics.json](./175139-insignia-tactics.json) |
+| Insignificant | 119940 | [119940-insignificant.json](./119940-insignificant.json) |
 | Insincere | 32725 | [32725-insincere.json](./32725-insincere.json) |
 | Insipid | 189293 | [189293-insipid.json](./189293-insipid.json) |
 | Insomnia | 224710 | [224710-insomnia.json](./224710-insomnia.json) |
