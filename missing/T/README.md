@@ -2943,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
 | Techwars Online | 95703 | [95703-techwars-online.json](./95703-techwars-online.json) |
+| Teck Boxing 3D | 110619 | [110619-teck-boxing-3d.json](./110619-teck-boxing-3d.json) |
 | Tecktonik World Tour | 92671 | [92671-tecktonik-world-tour.json](./92671-tecktonik-world-tour.json) |
 | Tecmo Baseball | 48228 | [48228-tecmo-baseball.json](./48228-tecmo-baseball.json) |
 | Tecmo Bowl | 198937 | [198937-tecmo-bowl.json](./198937-tecmo-bowl.json) |
@@ -12310,6 +12311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mars Agenda | 113508 | [113508-the-mars-agenda.json](./113508-the-mars-agenda.json) |
 | The Marson Home | 207913 | [207913-the-marson-home.json](./207913-the-marson-home.json) |
 | The Martial World of Drinking: Wu Song | 390603 | [390603-the-martial-world-of-drinking-wu-song.json](./390603-the-martial-world-of-drinking-wu-song.json) |
+| The Martian Job | 110637 | [110637-the-martian-job.json](./110637-the-martian-job.json) |
 | The Martian VR Experience | 25814 | [25814-the-martian-vr-experience.json](./25814-the-martian-vr-experience.json) |
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
 | The Marvellous Machine | 150540 | [150540-the-marvellous-machine.json](./150540-the-marvellous-machine.json) |
@@ -15899,6 +15901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The Testing Chamber | 195461 | [195461-the-testing-chamber.json](./195461-the-testing-chamber.json) |
+| The Testing Floor | 110645 | [110645-the-testing-floor.json](./110645-the-testing-floor.json) |
 | The TET Offensive | 323804 | [323804-the-tet-offensive.json](./323804-the-tet-offensive.json) |
 | The Tether | 419873 | [419873-the-tether.json](./419873-the-tether.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
@@ -21555,6 +21558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
 | Titan Fury | 317053 | [317053-titan-fury.json](./317053-titan-fury.json) |
+| Titan Hunter | 110621 | [110621-titan-hunter.json](./110621-titan-hunter.json) |
 | Titan Hunters | 409703 | [409703-titan-hunters.json](./409703-titan-hunters.json) |
 | Titan Isles | 335131 | [335131-titan-isles.json](./335131-titan-isles.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
@@ -28235,6 +28239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triune Discovery | 271052 | [271052-triune-discovery.json](./271052-triune-discovery.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Trivasion | 419324 | [419324-trivasion.json](./419324-trivasion.json) |
+| TrivaTune | 110648 | [110648-trivatune.json](./110648-trivatune.json) |
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
 | Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
 | Trivia 101 | 95590 | [95590-trivia-101.json](./95590-trivia-101.json) |
