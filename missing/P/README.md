@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peacemaker | 21433 | [21433-peacemaker.json](./21433-peacemaker.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peacemaker: Glorious Princess | 202485 | [202485-peacemaker-glorious-princess.json](./202485-peacemaker-glorious-princess.json) |
+| PeaceMaker: Israeli Palestinian Conflict | 87910 | [87910-peacemaker-israeli-palestinian-conflict.json](./87910-peacemaker-israeli-palestinian-conflict.json) |
 | Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
 | Peacemaker: The Die Is Cast | 419314 | [419314-peacemaker-the-die-is-cast.json](./419314-peacemaker-the-die-is-cast.json) |
 | Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
@@ -11269,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Arcadia | 273267 | [273267-pony-arcadia.json](./273267-pony-arcadia.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
 | Pony Craft | 205661 | [205661-pony-craft.json](./205661-pony-craft.json) |
+| Pony Dash | 87901 | [87901-pony-dash.json](./87901-pony-dash.json) |
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
 | Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
 | Pony Friends 2 | 51022 | [51022-pony-friends-2.json](./51022-pony-friends-2.json) |
@@ -16111,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory | 325999 | [325999-purgatory.json](./325999-purgatory.json) |
 | Purgatory | 383013 | [383013-purgatory.json](./383013-purgatory.json) |
 | Purgatory 2 | 145185 | [145185-purgatory-2.json](./145185-purgatory-2.json) |
+| Purgatory Ashes | 87769 | [87769-purgatory-ashes.json](./87769-purgatory-ashes.json) |
 | Purgatory Dungeoneer | 202581 | [202581-purgatory-dungeoneer.json](./202581-purgatory-dungeoneer.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
 | Purgatory Guardian | 130084 | [130084-purgatory-guardian.json](./130084-purgatory-guardian.json) |
