@@ -2900,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Racer | 382379 | [382379-realm-racer.json](./382379-realm-racer.json) |
 | Realm Revolutions | 81696 | [81696-realm-revolutions.json](./81696-realm-revolutions.json) |
 | Realm Royale Shadowfall Bundle | 115647 | [115647-realm-royale-shadowfall-bundle.json](./115647-realm-royale-shadowfall-bundle.json) |
+| Realm Runners | 95067 | [95067-realm-runners.json](./95067-realm-runners.json) |
 | Realm Survivors | 337163 | [337163-realm-survivors.json](./337163-realm-survivors.json) |
 | Realm Watch | 347371 | [347371-realm-watch.json](./347371-realm-watch.json) |
 | REalM: Walk of Soul | 34104 | [34104-realm-walk-of-soul.json](./34104-realm-walk-of-soul.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
 | Redemption Cemetery: Curse of the Raven | 63089 | [63089-redemption-cemetery-curse-of-the-raven.json](./63089-redemption-cemetery-curse-of-the-raven.json) |
 | Redemption Cemetery: Dead Park | 187929 | [187929-redemption-cemetery-dead-park.json](./187929-redemption-cemetery-dead-park.json) |
+| Redemption Cemetery: Evil | 95096 | [95096-redemption-cemetery-evil.json](./95096-redemption-cemetery-evil.json) |
 | Redemption Cemetery: Grave Testimony | 61078 | [61078-redemption-cemetery-grave-testimony.json](./61078-redemption-cemetery-grave-testimony.json) |
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
