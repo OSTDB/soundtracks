@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Venture | 85917 | [85917-kid-venture.json](./85917-kid-venture.json) |
 | Kid-Venture 2: Twas the Night Before Christmas | 55830 | [55830-kid-venture-2-twas-the-night-before-christmas.json](./55830-kid-venture-2-twas-the-night-before-christmas.json) |
 | Kid-Venture 3: Old McDonald's Farm | 55827 | [55827-kid-venture-3-old-mcdonalds-farm.json](./55827-kid-venture-3-old-mcdonalds-farm.json) |
+| Kid's - Paints and Colors | 88681 | [88681-kids-paints-and-colors.json](./88681-kids-paints-and-colors.json) |
 | Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
 | Kid's Art & Puzzle | 205110 | [205110-kids-art-and-puzzle.json](./205110-kids-art-and-puzzle.json) |
 | Kid's Art Coloring Book | 400191 | [400191-kids-art-coloring-book.json](./400191-kids-art-coloring-book.json) |
@@ -2162,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Trucks: Puzzles - Education Edition | 96183 | [96183-kids-trucks-puzzles-education-edition.json](./96183-kids-trucks-puzzles-education-edition.json) |
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
 | Kids vs Zombies: Donuts Brawl | 188283 | [188283-kids-vs-zombies-donuts-brawl.json](./188283-kids-vs-zombies-donuts-brawl.json) |
+| Kids Zoo Animal Jigsaw Puzzle Shapes | 88702 | [88702-kids-zoo-animal-jigsaw-puzzle-shapes.json](./88702-kids-zoo-animal-jigsaw-puzzle-shapes.json) |
 | Kids: Farm Coloring | 147783 | [147783-kids-farm-coloring.json](./147783-kids-farm-coloring.json) |
 | Kids: Farm Puzzle | 154590 | [154590-kids-farm-puzzle.json](./154590-kids-farm-puzzle.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
@@ -3035,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Chronicles HD | 102651 | [102651-kingdom-chronicles-hd.json](./102651-kingdom-chronicles-hd.json) |
 | Kingdom City Drowning Ep1 - The Champion | 55463 | [55463-kingdom-city-drowning-ep1-the-champion.json](./55463-kingdom-city-drowning-ep1-the-champion.json) |
 | Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
+| Kingdom Coins - Dozer of Coins Arcade Game | 88707 | [88707-kingdom-coins-dozer-of-coins-arcade-game.json](./88707-kingdom-coins-dozer-of-coins-arcade-game.json) |
 | Kingdom Coins Lucky Vegas - Dozer of Coins Arcade Game | 87080 | [87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json](./87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json) |
 | Kingdom Coins: Dozer of Coins Arcade Game - Pirate Booty Edition | 100028 | [100028-kingdom-coins-dozer-of-coins-arcade-game-pirate-booty-edition.json](./100028-kingdom-coins-dozer-of-coins-arcade-game-pirate-booty-edition.json) |
 | Kingdom Come: Deliverance - A Woman's Lot | 119899 | [119899-kingdom-come-deliverance-a-womans-lot.json](./119899-kingdom-come-deliverance-a-womans-lot.json) |
