@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
 | OctoRaid VR | 192604 | [192604-octoraid-vr.json](./192604-octoraid-vr.json) |
 | Octordle | 194880 | [194880-octordle.json](./194880-octordle.json) |
+| OctorSpace | 74141 | [74141-octorspace.json](./74141-octorspace.json) |
 | Octoshield VR | 32392 | [32392-octoshield-vr.json](./32392-octoshield-vr.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Octrons Challenge Reloaded | 229883 | [229883-octrons-challenge-reloaded.json](./229883-octrons-challenge-reloaded.json) |
