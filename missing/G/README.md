@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geoff Capes Strongman | 79164 | [79164-geoff-capes-strongman.json](./79164-geoff-capes-strongman.json) |
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | GeoFußball | 422707 | [422707-geofu-ball.json](./422707-geofu-ball.json) |
+| GeoGebra Mixed Reality | 104356 | [104356-geogebra-mixed-reality.json](./104356-geogebra-mixed-reality.json) |
 | Geograficus | 418226 | [418226-geograficus.json](./418226-geograficus.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geographical Adventures | 191450 | [191450-geographical-adventures.json](./191450-geographical-adventures.json) |
@@ -3655,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins | 307805 | [307805-ghosts-n-goblins.json](./307805-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins | 6807 | [6807-ghosts-n-goblins.json](./6807-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
+| Ghosts 'n Goblins Mobile | 104370 | [104370-ghosts-n-goblins-mobile.json](./104370-ghosts-n-goblins-mobile.json) |
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
 | Ghosts 4 Everybody | 132421 | [132421-ghosts-4-everybody.json](./132421-ghosts-4-everybody.json) |
 | Ghosts and Apples | 180963 | [180963-ghosts-and-apples.json](./180963-ghosts-and-apples.json) |
@@ -6269,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Job! | 261259 | [261259-good-job.json](./261259-good-job.json) |
 | Good Kill! | 304708 | [304708-good-kill.json](./304708-good-kill.json) |
 | Good Knight | 140784 | [140784-good-knight.json](./140784-good-knight.json) |
+| Good Knight Story | 104386 | [104386-good-knight-story.json](./104386-good-knight-story.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
 | Good Lord! Everyone at the Reunion For My Religious All-Girls School Is a Trans Man... And They're Hot?! | 307341 | [307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json](./307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json) |
 | Good Luck Baby! | 240712 | [240712-good-luck-baby.json](./240712-good-luck-baby.json) |
@@ -9268,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess who ? | 104929 | [104929-guess-who.json](./104929-guess-who.json) |
 | Guess Who? | 331927 | [331927-guess-who.json](./331927-guess-who.json) |
 | Guess Who? Fire Emblem: Three Houses Edition! | 176916 | [176916-guess-who-fire-emblem-three-houses-edition.json](./176916-guess-who-fire-emblem-three-houses-edition.json) |
+| Guess Word | 104345 | [104345-guess-word.json](./104345-guess-word.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
 | GuessMe! | 183809 | [183809-guessme.json](./183809-guessme.json) |
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
