@@ -2145,6 +2145,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Maze | 382548 | [382548-3d-maze.json](./382548-3d-maze.json) |
 | 3D Maze | 382550 | [382550-3d-maze.json](./382550-3d-maze.json) |
 | 3D Maze | 421216 | [421216-3d-maze.json](./421216-3d-maze.json) |
+| 3D Maze Man: Adventures in Winter Wonderland | 62961 | [62961-3d-maze-man-adventures-in-winter-wonderland.json](./62961-3d-maze-man-adventures-in-winter-wonderland.json) |
+| 3D Maze Man: Amazing Adventures | 62962 | [62962-3d-maze-man-amazing-adventures.json](./62962-3d-maze-man-amazing-adventures.json) |
 | 3D Mega Rides Avenger | 56918 | [56918-3d-mega-rides-avenger.json](./56918-3d-mega-rides-avenger.json) |
 | 3D Mersi | 299189 | [299189-3d-mersi.json](./299189-3d-mersi.json) |
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
@@ -2158,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Modern Tower | 357832 | [357832-3d-modern-tower.json](./357832-3d-modern-tower.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Movie Maker | 263635 | [263635-3d-movie-maker.json](./263635-3d-movie-maker.json) |
+| 3D Ms. Maze: Tropical Adventures | 62960 | [62960-3d-ms-maze-tropical-adventures.json](./62960-3d-ms-maze-tropical-adventures.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Ninja Fighter | 217715 | [217715-3d-ninja-fighter.json](./217715-3d-ninja-fighter.json) |
