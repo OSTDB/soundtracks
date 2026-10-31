@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution USA | 66659 | [66659-dance-dance-revolution-usa.json](./66659-dance-dance-revolution-usa.json) |
 | Dance Dance Revolution V | 137261 | [137261-dance-dance-revolution-v.json](./137261-dance-dance-revolution-v.json) |
 | Dance Dance Revolution World | 305995 | [305995-dance-dance-revolution-world.json](./305995-dance-dance-revolution-world.json) |
+| Dance Dance Revolution X | 73042 | [73042-dance-dance-revolution-x.json](./73042-dance-dance-revolution-x.json) |
 | Dance Dance Revolution X2 | 43218 | [43218-dance-dance-revolution-x2.json](./43218-dance-dance-revolution-x2.json) |
 | Dance Dance Revolution X3 VS 2ndMix | 98239 | [98239-dance-dance-revolution-x3-vs-2ndmix.json](./98239-dance-dance-revolution-x3-vs-2ndmix.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
@@ -7972,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
 | Didgery | 33867 | [33867-didgery.json](./33867-didgery.json) |
 | Didgery | 94109 | [94109-didgery.json](./94109-didgery.json) |
+| Didi & Ditto: First Grade - The Wolf King | 73150 | [73150-didi-and-ditto-first-grade-the-wolf-king.json](./73150-didi-and-ditto-first-grade-the-wolf-king.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didi: The Final Chapter | 294097 | [294097-didi-the-final-chapter.json](./294097-didi-the-final-chapter.json) |
 | Didj Racing: Tiki Tropics | 94158 | [94158-didj-racing-tiki-tropics.json](./94158-didj-racing-tiki-tropics.json) |
@@ -12834,6 +12836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Koushinkyoku: Dokodemo Daiundoukai | 49109 | [49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json](./49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json) |
 | Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai | 36753 | [36753-downtown-nekketsu-koushinkyoku-soreyuke-daiundoukai.json](./36753-downtown-nekketsu-koushinkyoku-soreyuke-daiundoukai.json) |
+| Downtown Nekketsu March Super-Awesome Field Day! | 73083 | [73083-downtown-nekketsu-march-super-awesome-field-day.json](./73083-downtown-nekketsu-march-super-awesome-field-day.json) |
 | Downtown Nekketsu Monogatari | 145363 | [145363-downtown-nekketsu-monogatari.json](./145363-downtown-nekketsu-monogatari.json) |
 | Downtown Nekketsu Monogatari | 37624 | [37624-downtown-nekketsu-monogatari.json](./37624-downtown-nekketsu-monogatari.json) |
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
