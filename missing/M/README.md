@@ -4555,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Attack | 214292 | [214292-massive-attack.json](./214292-massive-attack.json) |
 | Massive Decks | 146833 | [146833-massive-decks.json](./146833-massive-decks.json) |
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
+| Massive Effect | 115968 | [115968-massive-effect.json](./115968-massive-effect.json) |
 | Massive Galaxy | 89669 | [89669-massive-galaxy.json](./89669-massive-galaxy.json) |
 | Massive Warfare: Aftermath | 347878 | [347878-massive-warfare-aftermath.json](./347878-massive-warfare-aftermath.json) |
 | Massively Singleplayer | 422685 | [422685-massively-singleplayer.json](./422685-massively-singleplayer.json) |
@@ -7752,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
 | Melting Moon | 280935 | [280935-melting-moon.json](./280935-melting-moon.json) |
 | Melting Point | 219668 | [219668-melting-point.json](./219668-melting-point.json) |
+| Melting pot. | 115954 | [115954-melting-pot.json](./115954-melting-pot.json) |
 | Melting World Online | 102380 | [102380-melting-world-online.json](./102380-melting-world-online.json) |
 | Meltmare | 402848 | [402848-meltmare.json](./402848-meltmare.json) |
 | Meltwater | 130717 | [130717-meltwater.json](./130717-meltwater.json) |
@@ -8870,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Defense | 35593 | [35593-metal-slug-defense.json](./35593-metal-slug-defense.json) |
 | Metal Slug Defense: "KOF Pack" Vol.1 | 405013 | [405013-metal-slug-defense-kof-pack-vol-1.json](./405013-metal-slug-defense-kof-pack-vol-1.json) |
+| Metal Slug Infinity | 115990 | [115990-metal-slug-infinity.json](./115990-metal-slug-infinity.json) |
 | Metal Slug Mobile 3 | 141517 | [141517-metal-slug-mobile-3.json](./141517-metal-slug-mobile-3.json) |
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
 | Metal Slug Rush | 409737 | [409737-metal-slug-rush.json](./409737-metal-slug-rush.json) |
