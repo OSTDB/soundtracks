@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt Lake 2002 | 248694 | [248694-salt-lake-2002.json](./248694-salt-lake-2002.json) |
 | Salt Meat Factory | 303815 | [303815-salt-meat-factory.json](./303815-salt-meat-factory.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
+| Salt Thrust | 75393 | [75393-salt-thrust.json](./75393-salt-thrust.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
 | Salthe | 248139 | [248139-salthe.json](./248139-salthe.json) |
@@ -14423,6 +14424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Shooter | 247063 | [247063-soccer-shooter.json](./247063-soccer-shooter.json) |
 | Soccer Shootout | 345929 | [345929-soccer-shootout.json](./345929-soccer-shootout.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
+| Soccer Simulation | 75397 | [75397-soccer-simulation.json](./75397-soccer-simulation.json) |
 | Soccer Skills | 141461 | [141461-soccer-skills.json](./141461-soccer-skills.json) |
 | Soccer Slam! | 233536 | [233536-soccer-slam.json](./233536-soccer-slam.json) |
 | Soccer Slammers | 85382 | [85382-soccer-slammers.json](./85382-soccer-slammers.json) |
@@ -22332,6 +22334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Trilogy: Apprentice of the Force | 6609 | [6609-star-wars-trilogy-apprentice-of-the-force.json](./6609-star-wars-trilogy-apprentice-of-the-force.json) |
 | Star Wars Zero Company: Deluxe Edition | 415762 | [415762-star-wars-zero-company-deluxe-edition.json](./415762-star-wars-zero-company-deluxe-edition.json) |
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
+| Star Wars: Assault Team | 75564 | [75564-star-wars-assault-team.json](./75564-star-wars-assault-team.json) |
 | Star Wars: Attack Squadrons | 62510 | [62510-star-wars-attack-squadrons.json](./62510-star-wars-attack-squadrons.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
@@ -22390,16 +22393,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
 | Star Wars: Galactic Battlegrounds | 139 | [139-star-wars-galactic-battlegrounds.json](./139-star-wars-galactic-battlegrounds.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
+| Star Wars: Galactic Defense | 75565 | [75565-star-wars-galactic-defense.json](./75565-star-wars-galactic-defense.json) |
 | Star Wars: Galaxies - Starter Kit | 77212 | [77212-star-wars-galaxies-starter-kit.json](./77212-star-wars-galaxies-starter-kit.json) |
 | Star Wars: Galaxy of Heroes | 19577 | [19577-star-wars-galaxy-of-heroes.json](./19577-star-wars-galaxy-of-heroes.json) |
+| Star Wars: Grievous Getaway | 75559 | [75559-star-wars-grievous-getaway.json](./75559-star-wars-grievous-getaway.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
+| Star Wars: Heroes Path | 75566 | [75566-star-wars-heroes-path.json](./75566-star-wars-heroes-path.json) |
 | Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Gorax Fury Cosmetic Pack | 324394 | [324394-star-wars-hunters-gorax-fury-cosmetic-pack.json](./324394-star-wars-hunters-gorax-fury-cosmetic-pack.json) |
 | Star Wars: Hunters - Season 2: Empire Resurgent | 317322 | [317322-star-wars-hunters-season-2-empire-resurgent.json](./317322-star-wars-hunters-season-2-empire-resurgent.json) |
 | Star Wars: Hunters - Season 3: Echoes of the Rebellion | 314937 | [314937-star-wars-hunters-season-3-echoes-of-the-rebellion.json](./314937-star-wars-hunters-season-3-echoes-of-the-rebellion.json) |
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
+| Star Wars: Imperial Ace | 75560 | [75560-star-wars-imperial-ace.json](./75560-star-wars-imperial-ace.json) |
 | Star Wars: Imperial Assault | 198919 | [198919-star-wars-imperial-assault.json](./198919-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault - Legends of the Alliance | 76411 | [76411-star-wars-imperial-assault-legends-of-the-alliance.json](./76411-star-wars-imperial-assault-legends-of-the-alliance.json) |
@@ -22436,6 +22443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rebel Forces | 199016 | [199016-star-wars-rebel-forces.json](./199016-star-wars-rebel-forces.json) |
 | Star Wars: Rebel Forces Laser Game | 198925 | [198925-star-wars-rebel-forces-laser-game.json](./198925-star-wars-rebel-forces-laser-game.json) |
 | Star Wars: Rebellion | 151 | [151-star-wars-rebellion.json](./151-star-wars-rebellion.json) |
+| Star Wars: Republic Commando - Order 66 | 75562 | [75562-star-wars-republic-commando-order-66.json](./75562-star-wars-republic-commando-order-66.json) |
 | Star Wars: Republic Squadron | 220265 | [220265-star-wars-republic-squadron.json](./220265-star-wars-republic-squadron.json) |
 | Star Wars: Return of the Jedi | 12842 | [12842-star-wars-return-of-the-jedi.json](./12842-star-wars-return-of-the-jedi.json) |
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
@@ -22448,6 +22456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Super Bombad Racing | 18046 | [18046-star-wars-super-bombad-racing.json](./18046-star-wars-super-bombad-racing.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
+| Star Wars: The Battle Above Coruscant | 75561 | [75561-star-wars-the-battle-above-coruscant.json](./75561-star-wars-the-battle-above-coruscant.json) |
 | Star Wars: The Battle for Hoth | 66424 | [66424-star-wars-the-battle-for-hoth.json](./66424-star-wars-the-battle-for-hoth.json) |
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
 | Star Wars: The Clone Wars | 230403 | [230403-star-wars-the-clone-wars.json](./230403-star-wars-the-clone-wars.json) |
@@ -24107,6 +24116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step | 360115 | [360115-step.json](./360115-step.json) |
 | Step 'N Smush | 404791 | [404791-step-n-smush.json](./404791-step-n-smush.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
+| Step by star | 75528 | [75528-step-by-star.json](./75528-step-by-star.json) |
 | Step By Step Hero | 221099 | [221099-step-by-step-hero.json](./221099-step-by-step-hero.json) |
 | Step into the Abyss | 298123 | [298123-step-into-the-abyss.json](./298123-step-into-the-abyss.json) |
 | Step Into the Dark | 400365 | [400365-step-into-the-dark.json](./400365-step-into-the-dark.json) |
@@ -29602,6 +29612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Punchman | 97034 | [97034-super-punchman.json](./97034-super-punchman.json) |
 | Super Punchy Face | 181116 | [181116-super-punchy-face.json](./181116-super-punchy-face.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
+| Super Putty Squad | 75556 | [75556-super-putty-squad.json](./75556-super-putty-squad.json) |
 | Super Puyo Puyo | 42406 | [42406-super-puyo-puyo.json](./42406-super-puyo-puyo.json) |
 | Super Puyo Puyo 2 | 42470 | [42470-super-puyo-puyo-2.json](./42470-super-puyo-puyo-2.json) |
 | Super Puyo Puyo Tsuu Remix | 42544 | [42544-super-puyo-puyo-tsuu-remix.json](./42544-super-puyo-puyo-tsuu-remix.json) |
@@ -32153,6 +32164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
 | Switched Destiny | 333879 | [333879-switched-destiny.json](./333879-switched-destiny.json) |
 | Switcher | 105710 | [105710-switcher.json](./105710-switcher.json) |
+| Switchero - Dash n' retry | 75552 | [75552-switchero-dash-n-retry.json](./75552-switchero-dash-n-retry.json) |
 | Switcheroo | 340397 | [340397-switcheroo.json](./340397-switcheroo.json) |
 | Switcheroo | 59686 | [59686-switcheroo.json](./59686-switcheroo.json) |
 | Switcheroo! | 179325 | [179325-switcheroo.json](./179325-switcheroo.json) |
