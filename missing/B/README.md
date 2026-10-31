@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball PVP | 87279 | [87279-basketball-pvp.json](./87279-basketball-pvp.json) |
 | Basketball Rivals | 227267 | [227267-basketball-rivals.json](./227267-basketball-rivals.json) |
 | Basketball Serial Shooter | 355140 | [355140-basketball-serial-shooter.json](./355140-basketball-serial-shooter.json) |
+| Basketball Shoots | 103038 | [103038-basketball-shoots.json](./103038-basketball-shoots.json) |
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Simulator | 255061 | [255061-basketball-simulator.json](./255061-basketball-simulator.json) |
 | Basketball Simulator | 348153 | [348153-basketball-simulator.json](./348153-basketball-simulator.json) |
@@ -5344,6 +5345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer! | 83796 | [83796-beer.json](./83796-beer.json) |
 | Beer'em Up | 111341 | [111341-beerem-up.json](./111341-beerem-up.json) |
 | Beercrush | 378590 | [378590-beercrush.json](./378590-beercrush.json) |
+| Beerd leaver | 103082 | [103082-beerd-leaver.json](./103082-beerd-leaver.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | BeerLeague Superstar | 154916 | [154916-beerleague-superstar.json](./154916-beerleague-superstar.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
@@ -9555,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
 | Block Puzzle: Gem Legend | 232488 | [232488-block-puzzle-gem-legend.json](./232488-block-puzzle-gem-legend.json) |
 | Block Puzzle: Jewel Blast | 216134 | [216134-block-puzzle-jewel-blast.json](./216134-block-puzzle-jewel-blast.json) |
+| Block Puzzle: Star Finder | 103070 | [103070-block-puzzle-star-finder.json](./103070-block-puzzle-star-finder.json) |
 | Block Puzzle: Star Finder | 103165 | [103165-block-puzzle-star-finder.json](./103165-block-puzzle-star-finder.json) |
 | Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
 | Block Rancher | 310248 | [310248-block-rancher.json](./310248-block-rancher.json) |
@@ -14271,6 +14274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brinemegeddon | 278277 | [278277-brinemegeddon.json](./278277-brinemegeddon.json) |
 | Bring Back the Sun | 141671 | [141671-bring-back-the-sun.json](./141671-bring-back-the-sun.json) |
 | Bring Death | 211217 | [211217-bring-death.json](./211217-bring-death.json) |
+| Bring Her Home | 103045 | [103045-bring-her-home.json](./103045-bring-her-home.json) |
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring It On! | 204901 | [204901-bring-it-on.json](./204901-bring-it-on.json) |
 | Bring Me a Head! | 191412 | [191412-bring-me-a-head.json](./191412-bring-me-a-head.json) |
