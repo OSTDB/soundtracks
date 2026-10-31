@@ -3968,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marry a Deep One | 319748 | [319748-marry-a-deep-one.json](./319748-marry-a-deep-one.json) |
 | Marry Me, Misato! | 166667 | [166667-marry-me-misato.json](./166667-marry-me-misato.json) |
 | Mars | 281857 | [281857-mars.json](./281857-mars.json) |
+| Mars | 91026 | [91026-mars.json](./91026-mars.json) |
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 34234 | [34234-mars-2030.json](./34234-mars-2030.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
@@ -5160,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathews Bowhunting | 51063 | [51063-mathews-bowhunting.json](./51063-mathews-bowhunting.json) |
 | Mathfacts-Additionflashcards | 102647 | [102647-mathfacts-additionflashcards.json](./102647-mathfacts-additionflashcards.json) |
 | Mathfacts-Subractionflashcards | 102648 | [102648-mathfacts-subractionflashcards.json](./102648-mathfacts-subractionflashcards.json) |
+| MathFloat | 91075 | [91075-mathfloat.json](./91075-mathfloat.json) |
 | Mathica | 232870 | [232870-mathica.json](./232870-mathica.json) |
 | Mathigo | 350544 | [350544-mathigo.json](./350544-mathigo.json) |
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
@@ -5296,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawthorne | 201504 | [201504-mawthorne.json](./201504-mawthorne.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
 | Max & Ruby: Carnival Fair | 107047 | [107047-max-and-ruby-carnival-fair.json](./107047-max-and-ruby-carnival-fair.json) |
+| Max & Ruby: Grandma's Garden | 91053 | [91053-max-and-ruby-grandmas-garden.json](./91053-max-and-ruby-grandmas-garden.json) |
 | Max & the Magic Marker | 248557 | [248557-max-and-the-magic-marker.json](./248557-max-and-the-magic-marker.json) |
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
 | Max & the Magic Marker - Remastered | 96301 | [96301-max-and-the-magic-marker-remastered.json](./96301-max-and-the-magic-marker-remastered.json) |
@@ -11697,6 +11700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
 | Mini-Moni. Step Pyon Pyon Pyon | 243282 | [243282-mini-moni-step-pyon-pyon-pyon.json](./243282-mini-moni-step-pyon-pyon-pyon.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
+| Mini-U: The Bathroom | 91052 | [91052-mini-u-the-bathroom.json](./91052-mini-u-the-bathroom.json) |
 | Mini-Vaders | 266656 | [266656-mini-vaders.json](./266656-mini-vaders.json) |
 | Mini-Yonku Bakusou Kyoudai Let's & Go!! WGP Hyper Heat | 133647 | [133647-mini-yonku-bakusou-kyoudai-lets-and-go-wgp-hyper-heat.json](./133647-mini-yonku-bakusou-kyoudai-lets-and-go-wgp-hyper-heat.json) |
 | Mini-Yonku GB: Let's & Go!! All-Star Battle Max | 133646 | [133646-mini-yonku-gb-lets-and-go-all-star-battle-max.json](./133646-mini-yonku-gb-lets-and-go-all-star-battle-max.json) |
