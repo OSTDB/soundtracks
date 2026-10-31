@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judge Dredd Pinball | 74099 | [74099-judge-dredd-pinball.json](./74099-judge-dredd-pinball.json) |
 | Judge Dredd vs. Zombies | 63637 | [63637-judge-dredd-vs-zombies.json](./63637-judge-dredd-vs-zombies.json) |
+| Judge Dredd: Countdown Sector 106 | 64766 | [64766-judge-dredd-countdown-sector-106.json](./64766-judge-dredd-countdown-sector-106.json) |
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
 | Judge Sim | 397266 | [397266-judge-sim.json](./397266-judge-sim.json) |
