@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
+| Capcom Generations 4: Blazing Guns | 80862 | [80862-capcom-generations-4-blazing-guns.json](./80862-capcom-generations-4-blazing-guns.json) |
 | Capcom Generations 5: Street Fighter Collection 2 | 126269 | [126269-capcom-generations-5-street-fighter-collection-2.json](./126269-capcom-generations-5-street-fighter-collection-2.json) |
 | Capcom Home Arcade | 384578 | [384578-capcom-home-arcade.json](./384578-capcom-home-arcade.json) |
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
@@ -1831,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captured | 312193 | [312193-captured.json](./312193-captured.json) |
 | Captured | 413918 | [413918-captured.json](./413918-captured.json) |
 | Captured 2 | 340031 | [340031-captured-2.json](./340031-captured-2.json) |
+| Captured King | 80974 | [80974-captured-king.json](./80974-captured-king.json) |
 | Captured Nao: Final | 97835 | [97835-captured-nao-final.json](./97835-captured-nao-final.json) |
 | Captured Nao: Sexual Violation | 97842 | [97842-captured-nao-sexual-violation.json](./97842-captured-nao-sexual-violation.json) |
 | Captured Nightmare | 270517 | [270517-captured-nightmare.json](./270517-captured-nightmare.json) |
@@ -5115,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge N°1 | 289296 | [289296-challenge-n-1.json](./289296-challenge-n-1.json) |
 | Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
+| Challenge Park | 80989 | [80989-challenge-park.json](./80989-challenge-park.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
 | Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
 | Challenge Speedball | 157029 | [157029-challenge-speedball.json](./157029-challenge-speedball.json) |
@@ -9288,6 +9291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Age | 129655 | [129655-clicker-age.json](./129655-clicker-age.json) |
 | Clicker Arena | 273808 | [273808-clicker-arena.json](./273808-clicker-arena.json) |
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
+| Clicker bAdventure | 80945 | [80945-clicker-badventure.json](./80945-clicker-badventure.json) |
 | Clicker Cats: RPG Idle Heroes | 193710 | [193710-clicker-cats-rpg-idle-heroes.json](./193710-clicker-cats-rpg-idle-heroes.json) |
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
@@ -13551,6 +13555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Bouncer | 15918 | [15918-cosmic-bouncer.json](./15918-cosmic-bouncer.json) |
 | Cosmic Bowling | 100275 | [100275-cosmic-bowling.json](./100275-cosmic-bowling.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
+| Cosmic Buddies Town | 80948 | [80948-cosmic-buddies-town.json](./80948-cosmic-buddies-town.json) |
 | Cosmic Bugs | 72161 | [72161-cosmic-bugs.json](./72161-cosmic-bugs.json) |
 | Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
 | Cosmic Cannon | 327195 | [327195-cosmic-cannon.json](./327195-cosmic-cannon.json) |
