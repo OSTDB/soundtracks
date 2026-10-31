@@ -4257,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be My Princess 2 | 238421 | [238421-be-my-princess-2.json](./238421-be-my-princess-2.json) |
 | Be My Princess: Party | 238420 | [238420-be-my-princess-party.json](./238420-be-my-princess-party.json) |
 | Be my sword! | 225385 | [225385-be-my-sword.json](./225385-be-my-sword.json) |
+| Be My Valentine | 101865 | [101865-be-my-valentine.json](./101865-be-my-valentine.json) |
 | Be Not Afraid A.K.A. Seraphim Horror Show!? | 143552 | [143552-be-not-afraid-a-k-a-seraphim-horror-show.json](./143552-be-not-afraid-a-k-a-seraphim-horror-show.json) |
 | Be Not Afraid, But Run | 283990 | [283990-be-not-afraid-but-run.json](./283990-be-not-afraid-but-run.json) |
 | Be Not Afraid: Threads of Light | 383098 | [383098-be-not-afraid-threads-of-light.json](./383098-be-not-afraid-threads-of-light.json) |
@@ -4462,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
 | Bear Horror | 408726 | [408726-bear-horror.json](./408726-bear-horror.json) |
 | Bear Hunting 4: Summer | 100058 | [100058-bear-hunting-4-summer.json](./100058-bear-hunting-4-summer.json) |
+| Bear in Super Action Adventure | 101906 | [101906-bear-in-super-action-adventure.json](./101906-bear-in-super-action-adventure.json) |
 | Bear in Super Action Adventure 2 | 95984 | [95984-bear-in-super-action-adventure-2.json](./95984-bear-in-super-action-adventure-2.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear It | 277762 | [277762-bear-it.json](./277762-bear-it.json) |
@@ -9698,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks | 371455 | [371455-blocks.json](./371455-blocks.json) |
+| Blocks 2 | 101897 | [101897-blocks-2.json](./101897-blocks-2.json) |
 | Blocks Ahoy! | 387562 | [387562-blocks-ahoy.json](./387562-blocks-ahoy.json) |
 | Blocks and Bones | 270028 | [270028-blocks-and-bones.json](./270028-blocks-and-bones.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
@@ -9778,9 +9781,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Warriors: Amazing Race | 233196 | [233196-blocky-warriors-amazing-race.json](./233196-blocky-warriors-amazing-race.json) |
 | Blocky XMas | 101769 | [101769-blocky-xmas.json](./101769-blocky-xmas.json) |
 | Blocky.Go! | 234665 | [234665-blocky-go.json](./234665-blocky-go.json) |
+| Blocky's Escape | 101876 | [101876-blockys-escape.json](./101876-blockys-escape.json) |
 | Blocky's Short Quest | 348576 | [348576-blockys-short-quest.json](./348576-blockys-short-quest.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Bloclash | 389045 | [389045-bloclash.json](./389045-bloclash.json) |
+| Blocnog | 101886 | [101886-blocnog.json](./101886-blocnog.json) |
 | Blocos Mágicos | 359754 | [359754-blocos-magicos.json](./359754-blocos-magicos.json) |
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
 | Blodia | 38100 | [38100-blodia.json](./38100-blodia.json) |
@@ -13778,6 +13783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Point | 393532 | [393532-breaking-point.json](./393532-breaking-point.json) |
 | Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
 | Breaking the 4th wall | 128914 | [128914-breaking-the-4th-wall.json](./128914-breaking-the-4th-wall.json) |
+| Breaking the Bank | 101898 | [101898-breaking-the-bank.json](./101898-breaking-the-bank.json) |
 | Breaking the Barrier | 268670 | [268670-breaking-the-barrier.json](./268670-breaking-the-barrier.json) |
 | Breaking The Rules: The Roman Tournament | 52477 | [52477-breaking-the-rules-the-roman-tournament.json](./52477-breaking-the-rules-the-roman-tournament.json) |
 | Breaking the Silent Lies | 216611 | [216611-breaking-the-silent-lies.json](./216611-breaking-the-silent-lies.json) |
