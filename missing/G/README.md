@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
 | Gachi: Space Orgasm | 235786 | [235786-gachi-space-orgasm.json](./235786-gachi-space-orgasm.json) |
 | Gachimuchi | 75195 | [75195-gachimuchi.json](./75195-gachimuchi.json) |
+| Gachimuchi Arcade: Lustful Boys | 113296 | [113296-gachimuchi-arcade-lustful-boys.json](./113296-gachimuchi-arcade-lustful-boys.json) |
 | Gachimuchi Monthly Puzzle | 112761 | [112761-gachimuchi-monthly-puzzle.json](./112761-gachimuchi-monthly-puzzle.json) |
 | Gachimuchi Rebirth | 113652 | [113652-gachimuchi-rebirth.json](./113652-gachimuchi-rebirth.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
@@ -4076,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GirlPuzzle | 213783 | [213783-girlpuzzle.json](./213783-girlpuzzle.json) |
 | Girls & Blocks | 289420 | [289420-girls-and-blocks.json](./289420-girls-and-blocks.json) |
 | Girls & Dungeons 2 | 119635 | [119635-girls-and-dungeons-2.json](./119635-girls-and-dungeons-2.json) |
+| Girls & Sweets | 113287 | [113287-girls-and-sweets.json](./113287-girls-and-sweets.json) |
 | Girls Academy | 224048 | [224048-girls-academy.json](./224048-girls-academy.json) |
 | Girls and Dragons | 165922 | [165922-girls-and-dragons.json](./165922-girls-and-dragons.json) |
 | Girls and Dungeons | 54869 | [54869-girls-and-dungeons.json](./54869-girls-and-dungeons.json) |
@@ -5482,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Against Machines | 240703 | [240703-gods-against-machines.json](./240703-gods-against-machines.json) |
 | Gods and Generals | 73662 | [73662-gods-and-generals.json](./73662-gods-and-generals.json) |
 | Gods and Idols | 33950 | [33950-gods-and-idols.json](./33950-gods-and-idols.json) |
+| Gods and Kings | 113290 | [113290-gods-and-kings.json](./113290-gods-and-kings.json) |
 | Gods and Mages | 387746 | [387746-gods-and-mages.json](./387746-gods-and-mages.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
 | Gods Deify War | 374905 | [374905-gods-deify-war.json](./374905-gods-deify-war.json) |
