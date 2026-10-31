@@ -9848,6 +9848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
 | Divekick | 4759 | [4759-divekick.json](./4759-divekick.json) |
 | Divekick: Addition Edition + | 20226 | [20226-divekick-addition-edition.json](./20226-divekick-addition-edition.json) |
+| Divenia Episode One | 111986 | [111986-divenia-episode-one.json](./111986-divenia-episode-one.json) |
 | Diver | 178241 | [178241-diver.json](./178241-diver.json) |
 | Diver | 267291 | [267291-diver.json](./267291-diver.json) |
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
