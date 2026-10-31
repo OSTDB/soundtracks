@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Bear: Panic in Paradise | 6037 | [6037-naughty-bear-panic-in-paradise.json](./6037-naughty-bear-panic-in-paradise.json) |
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
+| Naughty Elves | 76319 | [76319-naughty-elves.json](./76319-naughty-elves.json) |
 | Naughty Girl 2 | 367915 | [367915-naughty-girl-2.json](./367915-naughty-girl-2.json) |
 | Naughty Kittens | 368765 | [368765-naughty-kittens.json](./368765-naughty-kittens.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
@@ -5172,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Ghost in Sky Elevator | 249011 | [249011-no-ghost-in-sky-elevator.json](./249011-no-ghost-in-sky-elevator.json) |
 | No Ghost in Stay Home | 152778 | [152778-no-ghost-in-stay-home.json](./152778-no-ghost-in-stay-home.json) |
 | No Give up | 316675 | [316675-no-give-up.json](./316675-no-give-up.json) |
+| No God for Us | 76333 | [76333-no-god-for-us.json](./76333-no-god-for-us.json) |
 | No Gods of Men | 346764 | [346764-no-gods-of-men.json](./346764-no-gods-of-men.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
