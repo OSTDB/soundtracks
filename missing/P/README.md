@@ -8509,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetarian: The Reverie of a Little Planet & Snow Globe | 303870 | [303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json](./303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
 | Planetarion | 93956 | [93956-planetarion.json](./93956-planetarion.json) |
+| Planetarium 2 - Zen Odyssey | 81715 | [81715-planetarium-2-zen-odyssey.json](./81715-planetarium-2-zen-odyssey.json) |
 | PlanetariumVR | 372220 | [372220-planetariumvr.json](./372220-planetariumvr.json) |
 | Planetarix | 108906 | [108906-planetarix.json](./108906-planetarix.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
@@ -14369,6 +14370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Eagle | 112960 | [112960-project-eagle.json](./112960-project-eagle.json) |
 | Project Eagle | 344958 | [344958-project-eagle.json](./344958-project-eagle.json) |
 | Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
+| Project Earth | 81712 | [81712-project-earth.json](./81712-project-earth.json) |
 | Project Earth: Starmageddon | 22062 | [22062-project-earth-starmageddon.json](./22062-project-earth-starmageddon.json) |
 | Project Earth: Starmageddon | 71055 | [71055-project-earth-starmageddon.json](./71055-project-earth-starmageddon.json) |
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
