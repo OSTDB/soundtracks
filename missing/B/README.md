@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6860,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Pharma: Marketing and Malpractice | 154418 | [154418-big-pharma-marketing-and-malpractice.json](./154418-big-pharma-marketing-and-malpractice.json) |
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Pixel Racing | 384023 | [384023-big-pixel-racing.json](./384023-big-pixel-racing.json) |
+| Big Pogo Man | 103778 | [103778-big-pogo-man.json](./103778-big-pogo-man.json) |
 | Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
 | Big Range Hunting | 305804 | [305804-big-range-hunting.json](./305804-big-range-hunting.json) |
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
@@ -13068,6 +13070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Box Quiz: Trivia Fun | 232471 | [232471-brain-box-quiz-trivia-fun.json](./232471-brain-box-quiz-trivia-fun.json) |
 | Brain Break | 141100 | [141100-brain-break.json](./141100-brain-break.json) |
 | Brain Breaker | 154870 | [154870-brain-breaker.json](./154870-brain-breaker.json) |
+| Brain Builders, Science 3-4 | 103760 | [103760-brain-builders-science-3-4.json](./103760-brain-builders-science-3-4.json) |
 | Brain Buster: Puzzle Pak | 77799 | [77799-brain-buster-puzzle-pak.json](./77799-brain-buster-puzzle-pak.json) |
 | Brain Cell | 237206 | [237206-brain-cell.json](./237206-brain-cell.json) |
 | Brain Challenge | 7281 | [7281-brain-challenge.json](./7281-brain-challenge.json) |
@@ -13157,6 +13160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Tester: Mind trick quiz | 231198 | [231198-brain-tester-mind-trick-quiz.json](./231198-brain-tester-mind-trick-quiz.json) |
 | Brain Tester: Mind trick quiz | 233650 | [233650-brain-tester-mind-trick-quiz.json](./233650-brain-tester-mind-trick-quiz.json) |
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
+| Brain Train Age | 103782 | [103782-brain-train-age.json](./103782-brain-train-age.json) |
 | Brain Trainer: Spot the Difference | 99384 | [99384-brain-trainer-spot-the-difference.json](./99384-brain-trainer-spot-the-difference.json) |
 | Brain Training 3D | 145312 | [145312-brain-training-3d.json](./145312-brain-training-3d.json) |
 | Brain Training For Dummies | 206486 | [206486-brain-training-for-dummies.json](./206486-brain-training-for-dummies.json) |
@@ -15858,6 +15862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Adventure | 86397 | [86397-bunny-adventure.json](./86397-bunny-adventure.json) |
 | Bunny Alice in Wonderland | 302913 | [302913-bunny-alice-in-wonderland.json](./302913-bunny-alice-in-wonderland.json) |
 | Bunny Bastion | 419379 | [419379-bunny-bastion.json](./419379-bunny-bastion.json) |
+| Bunny Battle Arena | 103763 | [103763-bunny-battle-arena.json](./103763-bunny-battle-arena.json) |
 | Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
 | Bunny Beats | 115268 | [115268-bunny-beats.json](./115268-bunny-beats.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
