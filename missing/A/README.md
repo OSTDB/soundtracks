@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Admeowture | 195118 | [195118-admeowture.json](./195118-admeowture.json) |
 | Admin | 179622 | [179622-admin.json](./179622-admin.json) |
 | Admin Simulator | 119597 | [119597-admin-simulator.json](./119597-admin-simulator.json) |
+| Admine | 86447 | [86447-admine.json](./86447-admine.json) |
 | Administrators | 196569 | [196569-administrators.json](./196569-administrators.json) |
 | Admiral Nemo | 25428 | [25428-admiral-nemo.json](./25428-admiral-nemo.json) |
 | Admiral: Battle for Uranium | 261859 | [261859-admiral-battle-for-uranium.json](./261859-admiral-battle-for-uranium.json) |
@@ -3205,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Forever | 207615 | [207615-adventure-forever.json](./207615-adventure-forever.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
+| Adventure Game | 86332 | [86332-adventure-game.json](./86332-adventure-game.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
 | Adventure II | 284228 | [284228-adventure-ii.json](./284228-adventure-ii.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
@@ -4014,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afternoon Paralysis | 381330 | [381330-afternoon-paralysis.json](./381330-afternoon-paralysis.json) |
 | Afternoon Spaghetti | 179840 | [179840-afternoon-spaghetti.json](./179840-afternoon-spaghetti.json) |
+| AfternoonEmpire | 86330 | [86330-afternoonempire.json](./86330-afternoonempire.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | Afterpulse | 58625 | [58625-afterpulse.json](./58625-afterpulse.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
