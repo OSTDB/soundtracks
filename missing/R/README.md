@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record Tripping | 242910 | [242910-record-tripping.json](./242910-record-tripping.json) |
 | Record_DrowsyVortex | 340713 | [340713-record-drowsyvortex.json](./340713-record-drowsyvortex.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
+| Recordbreaker | 111304 | [111304-recordbreaker.json](./111304-recordbreaker.json) |
 | Recordeca | 364689 | [364689-recordeca.json](./364689-recordeca.json) |
 | Recorded | 59691 | [59691-recorded.json](./59691-recorded.json) |
 | Recording the Predestined Time | 135013 | [135013-recording-the-predestined-time.json](./135013-recording-the-predestined-time.json) |
@@ -5036,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Seamless HD Project | 322045 | [322045-resident-evil-2-seamless-hd-project.json](./322045-resident-evil-2-seamless-hd-project.json) |
 | Resident Evil 2: Source | 283103 | [283103-resident-evil-2-source.json](./283103-resident-evil-2-source.json) |
 | Resident Evil 2: Special Edition | 280755 | [280755-resident-evil-2-special-edition.json](./280755-resident-evil-2-special-edition.json) |
+| Resident Evil 2: Steelbook Edition | 111326 | [111326-resident-evil-2-steelbook-edition.json](./111326-resident-evil-2-steelbook-edition.json) |
 | Resident Evil 2: The Ghost Survivors | 228709 | [228709-resident-evil-2-the-ghost-survivors.json](./228709-resident-evil-2-the-ghost-survivors.json) |
 | Resident Evil 2: Zombie Crisis | 339246 | [339246-resident-evil-2-zombie-crisis.json](./339246-resident-evil-2-zombie-crisis.json) |
 | Resident Evil 3: Collector's Edition | 136051 | [136051-resident-evil-3-collectors-edition.json](./136051-resident-evil-3-collectors-edition.json) |
@@ -7746,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Tripper | 150776 | [150776-road-tripper.json](./150776-road-tripper.json) |
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
+| Road Warriors | 111303 | [111303-road-warriors.json](./111303-road-warriors.json) |
 | Road Warriors 2 | 184824 | [184824-road-warriors-2.json](./184824-road-warriors-2.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
 | Road Works | 35687 | [35687-road-works.json](./35687-road-works.json) |
