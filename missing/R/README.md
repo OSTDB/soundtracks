@@ -11414,6 +11414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes Magica | 197541 | [197541-runes-magica.json](./197541-runes-magica.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Avalon | 25538 | [25538-runes-of-avalon.json](./25538-runes-of-avalon.json) |
+| Runes of Avalon - Path of Magic | 91003 | [91003-runes-of-avalon-path-of-magic.json](./91003-runes-of-avalon-path-of-magic.json) |
 | Runes of Brennos | 17977 | [17977-runes-of-brennos.json](./17977-runes-of-brennos.json) |
 | Runes of Chaos | 184177 | [184177-runes-of-chaos.json](./184177-runes-of-chaos.json) |
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
