@@ -3190,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newt | 228901 | [228901-newt.json](./228901-newt.json) |
 | Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
+| Newt's Voyage | 115971 | [115971-newts-voyage.json](./115971-newts-voyage.json) |
 | Newton | 324251 | [324251-newton.json](./324251-newton.json) |
 | Newton / Apple Tree | 312263 | [312263-newton-apple-tree.json](./312263-newton-apple-tree.json) |
 | Newton Coin | 334607 | [334607-newton-coin.json](./334607-newton-coin.json) |
@@ -7007,7 +7008,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanyanto Mori | 222477 | [222477-nyanyanto-mori.json](./222477-nyanyanto-mori.json) |
 | Nyanzou & Kumakichi: Let's make a flower garden | 271841 | [271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json](./271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json) |
 | Nyasha | 280076 | [280076-nyasha.json](./280076-nyasha.json) |
+| Nyasha Beach | 115950 | [115950-nyasha-beach.json](./115950-nyasha-beach.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
+| Nyasha Winter | 115952 | [115952-nyasha-winter.json](./115952-nyasha-winter.json) |
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
 | Nyaz | 311556 | [311556-nyaz.json](./311556-nyaz.json) |
 | Nyctoban | 252204 | [252204-nyctoban.json](./252204-nyctoban.json) |
