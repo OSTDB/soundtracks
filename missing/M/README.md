@@ -1374,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Lyrical Nanoha A's Portable: The Battle of Aces | 42836 | [42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json](./42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json) |
+| Magical Girl Lyrical Nanoha A's Portable: The Gears of Destiny | 80282 | [80282-magical-girl-lyrical-nanoha-as-portable-the-gears-of-destiny.json](./80282-magical-girl-lyrical-nanoha-as-portable-the-gears-of-destiny.json) |
 | Magical Girl Maho | 252311 | [252311-magical-girl-maho.json](./252311-magical-girl-maho.json) |
 | Magical Girl Momo | 82820 | [82820-magical-girl-momo.json](./82820-magical-girl-momo.json) |
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou no Palette | 77765 | [77765-mahou-no-palette.json](./77765-mahou-no-palette.json) |
 | Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
+| Mahou no Shippo na 3 | 80260 | [80260-mahou-no-shippo-na-3.json](./80260-mahou-no-shippo-na-3.json) |
 | Mahou no Shooter Putchin Pudding | 234829 | [234829-mahou-no-shooter-putchin-pudding.json](./234829-mahou-no-shooter-putchin-pudding.json) |
 | Mahou no Shoujo: Silky Lip | 46389 | [46389-mahou-no-shoujo-silky-lip.json](./46389-mahou-no-shoujo-silky-lip.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
@@ -2226,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K8 | 4989 | [4989-major-league-baseball-2k8.json](./4989-major-league-baseball-2k8.json) |
 | Major League Baseball 2K8: Fantasy All-Stars | 20781 | [20781-major-league-baseball-2k8-fantasy-all-stars.json](./20781-major-league-baseball-2k8-fantasy-all-stars.json) |
 | Major League Baseball 2K9 | 4990 | [4990-major-league-baseball-2k9.json](./4990-major-league-baseball-2k9.json) |
+| Major League Baseball 2K9: Fantasy All-Stars | 80116 | [80116-major-league-baseball-2k9-fantasy-all-stars.json](./80116-major-league-baseball-2k9-fantasy-all-stars.json) |
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Major League Curveball | 302428 | [302428-major-league-curveball.json](./302428-major-league-curveball.json) |
 | Major League Eating: The Game | 21790 | [21790-major-league-eating-the-game.json](./21790-major-league-eating-the-game.json) |
@@ -4911,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Day & International Match Day | 403172 | [403172-match-day-and-international-match-day.json](./403172-match-day-and-international-match-day.json) |
 | Match Day Collection | 56932 | [56932-match-day-collection.json](./56932-match-day-collection.json) |
 | Match Day II | 39122 | [39122-match-day-ii.json](./39122-match-day-ii.json) |
+| Match Day Manager | 80273 | [80273-match-day-manager.json](./80273-match-day-manager.json) |
 | Match Eleven | 230698 | [230698-match-eleven.json](./230698-match-eleven.json) |
 | Match Gem 99 | 261701 | [261701-match-gem-99.json](./261701-match-gem-99.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
@@ -7244,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Party a Tootuff Adventure | 126339 | [126339-mega-party-a-tootuff-adventure.json](./126339-mega-party-a-tootuff-adventure.json) |
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
 | Mega Phoenix | 41158 | [41158-mega-phoenix.json](./41158-mega-phoenix.json) |
+| Mega Pinball | 80119 | [80119-mega-pinball.json](./80119-mega-pinball.json) |
 | Mega Platformer Bundle | 331537 | [331537-mega-platformer-bundle.json](./331537-mega-platformer-bundle.json) |
 | Mega Plaza Shopping Center | 308466 | [308466-mega-plaza-shopping-center.json](./308466-mega-plaza-shopping-center.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
@@ -9164,6 +9169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metris | 91515 | [91515-metris.json](./91515-metris.json) |
 | Metris & Co | 91606 | [91606-metris-and-co.json](./91606-metris-and-co.json) |
 | Metris 4 | 91521 | [91521-metris-4.json](./91521-metris-4.json) |
+| Metris 5 | 80251 | [80251-metris-5.json](./80251-metris-5.json) |
+| Metris II | 80249 | [80249-metris-ii.json](./80249-metris-ii.json) |
 | Metris Soccer | 33295 | [33295-metris-soccer.json](./33295-metris-soccer.json) |
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
 | Metro | 253748 | [253748-metro.json](./253748-metro.json) |
