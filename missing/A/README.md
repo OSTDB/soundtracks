@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aima | 60507 | [60507-aima.json](./60507-aima.json) |
 | Aima Online | 62101 | [62101-aima-online.json](./62101-aima-online.json) |
+| Aima Wars: Steampunk & Orcs | 101247 | [101247-aima-wars-steampunk-and-orcs.json](./101247-aima-wars-steampunk-and-orcs.json) |
 | Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
 | Aimcademy | 273364 | [273364-aimcademy.json](./273364-aimcademy.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
@@ -7006,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet | 173422 | [173422-alphabet.json](./173422-alphabet.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet | 370480 | [370480-alphabet.json](./370480-alphabet.json) |
+| Alphabet ABC | 101189 | [101189-alphabet-abc.json](./101189-alphabet-abc.json) |
 | Alphabet Blocks | 66549 | [66549-alphabet-blocks.json](./66549-alphabet-blocks.json) |
 | Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
