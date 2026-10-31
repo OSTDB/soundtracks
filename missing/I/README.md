@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Harem Dungeon | 374907 | [374907-idle-harem-dungeon.json](./374907-idle-harem-dungeon.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
+| Idle Hero Defense - Fantasy Defense | 109224 | [109224-idle-hero-defense-fantasy-defense.json](./109224-idle-hero-defense-fantasy-defense.json) |
 | Idle Hero TD | 296314 | [296314-idle-hero-td.json](./296314-idle-hero-td.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
 | Idle Heroes | 56380 | [56380-idle-heroes.json](./56380-idle-heroes.json) |
