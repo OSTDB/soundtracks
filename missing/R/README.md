@@ -5720,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
 | Return of Heracles | 70752 | [70752-return-of-heracles.json](./70752-return-of-heracles.json) |
 | Return of Jelda | 78312 | [78312-return-of-jelda.json](./78312-return-of-jelda.json) |
+| Return of Junior's Revenge | 64062 | [64062-return-of-juniors-revenge.json](./64062-return-of-juniors-revenge.json) |
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
 | Return of Serenity | 208004 | [208004-return-of-serenity.json](./208004-return-of-serenity.json) |
@@ -10820,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
 | Rubber Toys | 38776 | [38776-rubber-toys.json](./38776-rubber-toys.json) |
 | Rubberduck Wave Racer | 245716 | [245716-rubberduck-wave-racer.json](./245716-rubberduck-wave-racer.json) |
+| Rubbish Blazon | 64059 | [64059-rubbish-blazon.json](./64059-rubbish-blazon.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubblar | 238661 | [238661-rubblar.json](./238661-rubblar.json) |
 | Rubble | 223250 | [223250-rubble.json](./223250-rubble.json) |
