@@ -2481,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Craze | 129090 | [129090-mall-craze.json](./129090-mall-craze.json) |
 | Mall Empire | 29478 | [29478-mall-empire.json](./29478-mall-empire.json) |
+| Mall Girl: Dressup, Shop & Spa | 99361 | [99361-mall-girl-dressup-shop-and-spa.json](./99361-mall-girl-dressup-shop-and-spa.json) |
 | Mall Heist | 277123 | [277123-mall-heist.json](./277123-mall-heist.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
 | Mall Manager | 320444 | [320444-mall-manager.json](./320444-mall-manager.json) |
@@ -6342,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Archery Simulator | 171443 | [171443-medieval-archery-simulator.json](./171443-medieval-archery-simulator.json) |
 | Medieval Arms | 180997 | [180997-medieval-arms.json](./180997-medieval-arms.json) |
 | Medieval Battle Simulator | 110656 | [110656-medieval-battle-simulator.json](./110656-medieval-battle-simulator.json) |
+| Medieval Battle: Europe | 99358 | [99358-medieval-battle-europe.json](./99358-medieval-battle-europe.json) |
 | Medieval Battle: Food Truck | 385960 | [385960-medieval-battle-food-truck.json](./385960-medieval-battle-food-truck.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
@@ -8046,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Lost-Pairs | 181017 | [181017-memory-lost-pairs.json](./181017-memory-lost-pairs.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match | 230700 | [230700-memory-match.json](./230700-memory-match.json) |
+| Memory Match - An Educational Game from School Zone | 99343 | [99343-memory-match-an-educational-game-from-school-zone.json](./99343-memory-match-an-educational-game-from-school-zone.json) |
 | Memory Match IQ Brain Training | 232477 | [232477-memory-match-iq-brain-training.json](./232477-memory-match-iq-brain-training.json) |
 | Memory Match Saga | 126303 | [126303-memory-match-saga.json](./126303-memory-match-saga.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
@@ -10457,6 +10460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikeneko Holmes: Ghost Panic | 37360 | [37360-mikeneko-holmes-ghost-panic.json](./37360-mikeneko-holmes-ghost-panic.json) |
 | Mikey & Grover's Unexpected Adventures | 220417 | [220417-mikey-and-grovers-unexpected-adventures.json](./220417-mikey-and-grovers-unexpected-adventures.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
+| Mikey Jumps | 99317 | [99317-mikey-jumps.json](./99317-mikey-jumps.json) |
 | Mikeyeldey: The Album | 206476 | [206476-mikeyeldey-the-album.json](./206476-mikeyeldey-the-album.json) |
 | Mikeyeldey95 | 206475 | [206475-mikeyeldey95.json](./206475-mikeyeldey95.json) |
 | Miki's World: The Lost Tiara | 256658 | [256658-mikis-world-the-lost-tiara.json](./256658-mikis-world-the-lost-tiara.json) |
@@ -11371,6 +11375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 408207 | [408207-minesweeper.json](./408207-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
+| Minesweeper | 99334 | [99334-minesweeper.json](./99334-minesweeper.json) |
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
 | Minesweeper & Dungeon RPG | 324153 | [324153-minesweeper-and-dungeon-rpg.json](./324153-minesweeper-and-dungeon-rpg.json) |
@@ -19669,6 +19674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
 | Mystery of Haunted Hollow: Point Click Escape Game | 91066 | [91066-mystery-of-haunted-hollow-point-click-escape-game.json](./91066-mystery-of-haunted-hollow-point-click-escape-game.json) |
+| Mystery of Hidden Book | 99314 | [99314-mystery-of-hidden-book.json](./99314-mystery-of-hidden-book.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
 | Mystery of Island | 190357 | [190357-mystery-of-island.json](./190357-mystery-of-island.json) |
 | Mystery of Lucy Green: The Devil's Diaries | 153158 | [153158-mystery-of-lucy-green-the-devils-diaries.json](./153158-mystery-of-lucy-green-the-devils-diaries.json) |
