@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochimono Puzzle King | 82582 | [82582-ochimono-puzzle-king.json](./82582-ochimono-puzzle-king.json) |
 | Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
 | Ochiru Part Tsuma: Toshishita Otoko to no Jouji ni Oboreta Hate ni... | 413706 | [413706-ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.json](./413706-ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.json) |
+| Ochkarik | 105634 | [105634-ochkarik.json](./105634-ochkarik.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
 | Ocnus Theory | 216602 | [216602-ocnus-theory.json](./216602-ocnus-theory.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
