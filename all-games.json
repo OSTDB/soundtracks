@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T21:05:55.068Z",
-  "total_soundtracks": 2759,
+  "generated_at": "2026-10-31T21:20:50.017Z",
+  "total_soundtracks": 2760,
   "games": [
     {
       "igdb_id": 7522,
@@ -13453,6 +13453,20 @@
           "spotify_url": "https://open.spotify.com/album/2EhDqRjaxd6HCdTu3PikCt",
           "apple_music_url": "",
           "album_link_url": "https://album.link/s/2EhDqRjaxd6HCdTu3PikCt"
+        }
+      ]
+    },
+    {
+      "igdb_id": 132711,
+      "game_name": "Heartworm",
+      "game_url": "https://ostdb.net/games/heartworm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27369a0565bb043a629086d5eb2",
+      "albums": [
+        {
+          "album_name": "Heartworm (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0booSpcX9oHbSUlSTl0WRX",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
