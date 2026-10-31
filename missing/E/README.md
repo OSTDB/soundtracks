@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
 | El Chavo kart | 62461 | [62461-el-chavo-kart.json](./62461-el-chavo-kart.json) |
+| El Chupacabra | 63608 | [63608-el-chupacabra.json](./63608-el-chupacabra.json) |
 | El Cid | 13629 | [13629-el-cid.json](./13629-el-cid.json) |
 | El Coco | 353884 | [353884-el-coco.json](./353884-el-coco.json) |
 | El Conquista | 362410 | [362410-el-conquista.json](./362410-el-conquista.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
 | El Salar | 332451 | [332451-el-salar.json](./332451-el-salar.json) |
 | El Séquito de Leonor de Aquitania | 321842 | [321842-el-sequito-de-leonor-de-aquitania.json](./321842-el-sequito-de-leonor-de-aquitania.json) |
+| El Shaddai for Android Vol. 1 | 63592 | [63592-el-shaddai-for-android-vol-1.json](./63592-el-shaddai-for-android-vol-1.json) |
 | El Shaddai: Ascension of the Metatron | 212311 | [212311-el-shaddai-ascension-of-the-metatron.json](./212311-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
 | El Silla | 139288 | [139288-el-silla.json](./139288-el-silla.json) |
