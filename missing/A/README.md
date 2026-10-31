@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aa Harimanada | 49121 | [49121-aa-harimanada.json](./49121-aa-harimanada.json) |
 | Aa Megami-sama | 77403 | [77403-aa-megami-sama.json](./77403-aa-megami-sama.json) |
 | AA Soldiers | 367759 | [367759-aa-soldiers.json](./367759-aa-soldiers.json) |
+| AA Touch Gun! | 112618 | [112618-aa-touch-gun.json](./112618-aa-touch-gun.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
 | AAA Clock 2: Color Set 1 | 314584 | [314584-aaa-clock-2-color-set-1.json](./314584-aaa-clock-2-color-set-1.json) |
@@ -8310,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Frog | 67645 | [67645-ancient-frog.json](./67645-ancient-frog.json) |
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
 | Ancient Frontier: Steel Shadows | 103412 | [103412-ancient-frontier-steel-shadows.json](./103412-ancient-frontier-steel-shadows.json) |
+| Ancient Frontier: Steel Shadows Beta | 112585 | [112585-ancient-frontier-steel-shadows-beta.json](./112585-ancient-frontier-steel-shadows-beta.json) |
 | Ancient Frontier: Tactics | 391310 | [391310-ancient-frontier-tactics.json](./391310-ancient-frontier-tactics.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
 | Ancient Future | 82040 | [82040-ancient-future.json](./82040-ancient-future.json) |
