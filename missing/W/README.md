@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in Europe: 1940 | 201517 | [201517-war-in-europe-1940.json](./201517-war-in-europe-1940.json) |
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
 | War In Other Space | 188803 | [188803-war-in-other-space.json](./188803-war-in-other-space.json) |
+| War in Pocket | 122579 | [122579-war-in-pocket.json](./122579-war-in-pocket.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
 | War in Spain 1936-39 | 388197 | [388197-war-in-spain-1936-39.json](./388197-war-in-spain-1936-39.json) |
@@ -4417,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whomper Stomper | 54934 | [54934-whomper-stomper.json](./54934-whomper-stomper.json) |
 | Whone | 161571 | [161571-whone.json](./161571-whone.json) |
 | Whoopi | 338368 | [338368-whoopi.json](./338368-whoopi.json) |
+| Whoops! | 122622 | [122622-whoops.json](./122622-whoops.json) |
 | Whooshy Dragon | 349932 | [349932-whooshy-dragon.json](./349932-whooshy-dragon.json) |
 | Whoowasit? | 381712 | [381712-whoowasit.json](./381712-whoowasit.json) |
 | Whoowasit? - Children's game of the year 2008 | 100727 | [100727-whoowasit-childrens-game-of-the-year-2008.json](./100727-whoowasit-childrens-game-of-the-year-2008.json) |
@@ -6140,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: The Return of Werdna - The Fourth Scenario | 2885 | [2885-wizardry-the-return-of-werdna-the-fourth-scenario.json](./2885-wizardry-the-return-of-werdna-the-fourth-scenario.json) |
 | Wizards | 129046 | [129046-wizards.json](./129046-wizards.json) |
 | Wizards | 131444 | [131444-wizards.json](./131444-wizards.json) |
+| Wizards & Dragons | 122626 | [122626-wizards-and-dragons.json](./122626-wizards-and-dragons.json) |
 | Wizards & Summons | 379394 | [379394-wizards-and-summons.json](./379394-wizards-and-summons.json) |
 | Wizards & Warriors | 218341 | [218341-wizards-and-warriors.json](./218341-wizards-and-warriors.json) |
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
