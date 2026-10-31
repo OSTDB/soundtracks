@@ -6900,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Stitch | 233056 | [233056-word-stitch.json](./233056-word-stitch.json) |
 | Word Strike | 232067 | [232067-word-strike.json](./232067-word-strike.json) |
 | Word Sudoku - Tapestry Twist | 89531 | [89531-word-sudoku-tapestry-twist.json](./89531-word-sudoku-tapestry-twist.json) |
+| Word Sudoku by Powgi | 111346 | [111346-word-sudoku-by-powgi.json](./111346-word-sudoku-by-powgi.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Symphony | 205882 | [205882-word-symphony.json](./205882-word-symphony.json) |
