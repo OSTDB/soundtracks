@@ -10968,6 +10968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Challenge 2014 | 87793 | [87793-ski-challenge-2014.json](./87793-ski-challenge-2014.json) |
 | Ski Challenge 2015 | 87794 | [87794-ski-challenge-2015.json](./87794-ski-challenge-2015.json) |
 | Ski Challenge 2016 | 87795 | [87795-ski-challenge-2016.json](./87795-ski-challenge-2016.json) |
+| Ski Command | 83142 | [83142-ski-command.json](./83142-ski-command.json) |
 | Ski Crazed | 138595 | [138595-ski-crazed.json](./138595-ski-crazed.json) |
 | Ski Doom VR | 167579 | [167579-ski-doom-vr.json](./167579-ski-doom-vr.json) |
 | Ski Drive: Biathlon | 113855 | [113855-ski-drive-biathlon.json](./113855-ski-drive-biathlon.json) |
@@ -17774,7 +17775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
