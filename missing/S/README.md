@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa-kun | 231762 | [231762-santa-kun.json](./231762-santa-kun.json) |
 | Santa: Make Christmas Happy! | 137861 | [137861-santa-make-christmas-happy.json](./137861-santa-make-christmas-happy.json) |
 | Santa's Adventure: Christmas Gifts Rush | 329430 | [329430-santas-adventure-christmas-gifts-rush.json](./329430-santas-adventure-christmas-gifts-rush.json) |
+| Santa's Baby Care & Nursery | 99903 | [99903-santas-baby-care-and-nursery.json](./99903-santas-baby-care-and-nursery.json) |
 | Santa's Bad Elf | 161716 | [161716-santas-bad-elf.json](./161716-santas-bad-elf.json) |
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
@@ -13007,6 +13008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
+| Smashy City | 99919 | [99919-smashy-city.json](./99919-smashy-city.json) |
 | Smashy Dash 2 | 100996 | [100996-smashy-dash-2.json](./100996-smashy-dash-2.json) |
 | Smashy Drift | 100784 | [100784-smashy-drift.json](./100784-smashy-drift.json) |
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
@@ -19339,6 +19341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker Black | 81451 | [81451-spelunker-black.json](./81451-spelunker-black.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
+| Spelunker HD: Ultimate Edition | 99946 | [99946-spelunker-hd-ultimate-edition.json](./99946-spelunker-hd-ultimate-edition.json) |
 | Spelunker II: 23 no Kagi | 98524 | [98524-spelunker-ii-23-no-kagi.json](./98524-spelunker-ii-23-no-kagi.json) |
 | Spelunker II: Yuusha he no Chousen | 78887 | [78887-spelunker-ii-yuusha-he-no-chousen.json](./78887-spelunker-ii-yuusha-he-no-chousen.json) |
 | Spelunker Party | 68534 | [68534-spelunker-party.json](./68534-spelunker-party.json) |
@@ -19822,6 +19825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
+| Spiral | 99942 | [99942-spiral.json](./99942-spiral.json) |
 | Spiral 3D | 99854 | [99854-spiral-3d.json](./99854-spiral-3d.json) |
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
 | Spiral Destiny | 19144 | [19144-spiral-destiny.json](./19144-spiral-destiny.json) |
@@ -25716,6 +25720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
 | Strike Solitaire | 54406 | [54406-strike-solitaire.json](./54406-strike-solitaire.json) |
 | Strike Solitaire 2 | 60236 | [60236-strike-solitaire-2.json](./60236-strike-solitaire-2.json) |
+| Strike Solitaire 3 | 99910 | [99910-strike-solitaire-3.json](./99910-strike-solitaire-3.json) |
 | Strike Squad | 84116 | [84116-strike-squad.json](./84116-strike-squad.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Suit Infinity | 9329 | [9329-strike-suit-infinity.json](./9329-strike-suit-infinity.json) |
@@ -31208,6 +31213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Frenzy | 53694 | [53694-sushi-frenzy.json](./53694-sushi-frenzy.json) |
 | Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
+| Sushi Go! | 99894 | [99894-sushi-go.json](./99894-sushi-go.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi Lick | 402686 | [402686-sushi-lick.json](./402686-sushi-lick.json) |
 | Sushi Loop | 409770 | [409770-sushi-loop.json](./409770-sushi-loop.json) |
