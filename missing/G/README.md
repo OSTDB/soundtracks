@@ -2525,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene Rain: Wind Tower | 123736 | [123736-gene-rain-wind-tower.json](./123736-gene-rain-wind-tower.json) |
 | Gene Rain: Wind Tower - Sky City's Rebirth | 170738 | [170738-gene-rain-wind-tower-sky-citys-rebirth.json](./170738-gene-rain-wind-tower-sky-citys-rebirth.json) |
 | Gene Rain: Wind Tower - Way to Heaven | 170739 | [170739-gene-rain-wind-tower-way-to-heaven.json](./170739-gene-rain-wind-tower-way-to-heaven.json) |
+| Gene Wars | 83785 | [83785-gene-wars.json](./83785-gene-wars.json) |
 | GeneBreak | 357180 | [357180-genebreak.json](./357180-genebreak.json) |
 | Geneforge | 8362 | [8362-geneforge.json](./8362-geneforge.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
@@ -5395,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Collector's Edition | 83824 | [83824-god-of-war-collectors-edition.json](./83824-god-of-war-collectors-edition.json) |
 | God of War: Digital Deluxe Edition | 83825 | [83825-god-of-war-digital-deluxe-edition.json](./83825-god-of-war-digital-deluxe-edition.json) |
 | God of War: Limited Edition | 115067 | [115067-god-of-war-limited-edition.json](./115067-god-of-war-limited-edition.json) |
+| God of War: Stone Mason's Edition | 83778 | [83778-god-of-war-stone-masons-edition.json](./83778-god-of-war-stone-masons-edition.json) |
 | God of Weapons | 246919 | [246919-god-of-weapons.json](./246919-god-of-weapons.json) |
 | God of Yoga | 377785 | [377785-god-of-yoga.json](./377785-god-of-yoga.json) |
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
@@ -8491,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
 | Grimace's Birthday | 369340 | [369340-grimaces-birthday.json](./369340-grimaces-birthday.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
+| Grimante | 83975 | [83975-grimante.json](./83975-grimante.json) |
 | Grimbound | 273775 | [273775-grimbound.json](./273775-grimbound.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
