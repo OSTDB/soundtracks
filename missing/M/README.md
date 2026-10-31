@@ -10217,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Puppeteer | 108881 | [108881-midnight-puppeteer.json](./108881-midnight-puppeteer.json) |
 | Midnight Quest | 75590 | [75590-midnight-quest.json](./75590-midnight-quest.json) |
+| Midnight Race Club: Supercharged! | 69052 | [69052-midnight-race-club-supercharged.json](./69052-midnight-race-club-supercharged.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Racing | 54203 | [54203-midnight-racing.json](./54203-midnight-racing.json) |
 | Midnight Racing: Long Night | 25414 | [25414-midnight-racing-long-night.json](./25414-midnight-racing-long-night.json) |
@@ -14259,6 +14260,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
 | Monster Dynamite | 115752 | [115752-monster-dynamite.json](./115752-monster-dynamite.json) |
 | Monster Eggs | 69197 | [69197-monster-eggs.json](./69197-monster-eggs.json) |
+| Monster Eggs II | 69026 | [69026-monster-eggs-ii.json](./69026-monster-eggs-ii.json) |
+| Monster Eggs II | 69031 | [69031-monster-eggs-ii.json](./69031-monster-eggs-ii.json) |
 | Monster Elevator | 319188 | [319188-monster-elevator.json](./319188-monster-elevator.json) |
 | Monster Energy Supercross 25: The Official Video Game | 336380 | [336380-monster-energy-supercross-25-the-official-video-game.json](./336380-monster-energy-supercross-25-the-official-video-game.json) |
 | Monster Energy Supercross 3: Special Edition | 165883 | [165883-monster-energy-supercross-3-special-edition.json](./165883-monster-energy-supercross-3-special-edition.json) |
@@ -16997,6 +17000,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Pencil Presents DoodleCraft | 230332 | [230332-mr-pencil-presents-doodlecraft.json](./230332-mr-pencil-presents-doodlecraft.json) |
 | Mr. Pencil Saves Doodleburg | 137935 | [137935-mr-pencil-saves-doodleburg.json](./137935-mr-pencil-saves-doodleburg.json) |
 | Mr. Pencil: The Lost Colors of Doodleburg! | 137263 | [137263-mr-pencil-the-lost-colors-of-doodleburg.json](./137263-mr-pencil-the-lost-colors-of-doodleburg.json) |
+| Mr. Pencil's Learn to Draw and Write | 69040 | [69040-mr-pencils-learn-to-draw-and-write.json](./69040-mr-pencils-learn-to-draw-and-write.json) |
+| Mr. Pencil's Learn to Draw and Write | 69058 | [69058-mr-pencils-learn-to-draw-and-write.json](./69058-mr-pencils-learn-to-draw-and-write.json) |
 | Mr. Photographer | 292750 | [292750-mr-photographer.json](./292750-mr-photographer.json) |
 | Mr. Photographer: Into The Light | 350044 | [350044-mr-photographer-into-the-light.json](./350044-mr-photographer-into-the-light.json) |
 | Mr. Pibb: The 3D Interactive Game | 123586 | [123586-mr-pibb-the-3d-interactive-game.json](./123586-mr-pibb-the-3d-interactive-game.json) |
