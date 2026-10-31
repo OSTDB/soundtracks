@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids ABC Order | 175314 | [175314-kids-abc-order.json](./175314-kids-abc-order.json) |
 | Kids Activity Centre Pro | 86708 | [86708-kids-activity-centre-pro.json](./86708-kids-activity-centre-pro.json) |
 | Kids Alphabet Games | 93819 | [93819-kids-alphabet-games.json](./93819-kids-alphabet-games.json) |
+| Kids animal puzzle and memory skill games | 90330 | [90330-kids-animal-puzzle-and-memory-skill-games.json](./90330-kids-animal-puzzle-and-memory-skill-games.json) |
 | Kids Animal Slide Puzzle 15 Mystic squares game | 100315 | [100315-kids-animal-slide-puzzle-15-mystic-squares-game.json](./100315-kids-animal-slide-puzzle-15-mystic-squares-game.json) |
 | Kids Baseball Practice League | 103139 | [103139-kids-baseball-practice-league.json](./103139-kids-baseball-practice-league.json) |
 | Kids Box | 226783 | [226783-kids-box.json](./226783-kids-box.json) |
@@ -4260,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
 | Knights of Pen & Paper: +1 Deluxier Edition | 53259 | [53259-knights-of-pen-and-paper-1-deluxier-edition.json](./53259-knights-of-pen-and-paper-1-deluxier-edition.json) |
 | Knights of Pen and Paper +1 Edition | 2934 | [2934-knights-of-pen-and-paper-1-edition.json](./2934-knights-of-pen-and-paper-1-edition.json) |
+| Knights of Pen and Paper 2: Free Edition | 90314 | [90314-knights-of-pen-and-paper-2-free-edition.json](./90314-knights-of-pen-and-paper-2-free-edition.json) |
 | Knights of Pen and Paper Bundle | 147620 | [147620-knights-of-pen-and-paper-bundle.json](./147620-knights-of-pen-and-paper-bundle.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
 | Knights of Pen and Paper: Haunted Fall | 171459 | [171459-knights-of-pen-and-paper-haunted-fall.json](./171459-knights-of-pen-and-paper-haunted-fall.json) |
@@ -4625,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kojou | 157928 | [157928-kojou.json](./157928-kojou.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
 | Kojum | 203053 | [203053-kojum.json](./203053-kojum.json) |
+| KoKing - The King Returns! | 90345 | [90345-koking-the-king-returns.json](./90345-koking-the-king-returns.json) |
 | Koko | 276337 | [276337-koko.json](./276337-koko.json) |
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
 | Koko Adventure | 54899 | [54899-koko-adventure.json](./54899-koko-adventure.json) |
