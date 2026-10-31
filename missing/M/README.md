@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M Doll | 233631 | [233631-m-doll.json](./233631-m-doll.json) |
 | M Hard | 257654 | [257654-m-hard.json](./257654-m-hard.json) |
 | M Hold'em | 247198 | [247198-m-holdem.json](./247198-m-holdem.json) |
+| M Mania | 86484 | [86484-m-mania.json](./86484-m-mania.json) |
 | M_Day | 277686 | [277686-m-day.json](./277686-m-day.json) |
 | M_rdle | 372094 | [372094-m-rdle.json](./372094-m-rdle.json) |
 | M-1 Abrams Battle Tank | 45775 | [45775-m-1-abrams-battle-tank.json](./45775-m-1-abrams-battle-tank.json) |
@@ -1707,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong | 131431 | [131431-mahjong.json](./131431-mahjong.json) |
 | Mahjong | 306028 | [306028-mahjong.json](./306028-mahjong.json) |
 | Mahjong | 31012 | [31012-mahjong.json](./31012-mahjong.json) |
+| Mahjong | 86350 | [86350-mahjong.json](./86350-mahjong.json) |
 | Mahjong | 86367 | [86367-mahjong.json](./86367-mahjong.json) |
 | Mahjong | 86409 | [86409-mahjong.json](./86409-mahjong.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
@@ -5094,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Gran Prix | 17260 | [17260-math-gran-prix.json](./17260-math-gran-prix.json) |
 | Math Gym | 186703 | [186703-math-gym.json](./186703-math-gym.json) |
 | Math Heads | 411096 | [411096-math-heads.json](./411096-math-heads.json) |
+| Math Hero | 86331 | [86331-math-hero.json](./86331-math-hero.json) |
 | Math Hero: Minimalist Puzzle | 163556 | [163556-math-hero-minimalist-puzzle.json](./163556-math-hero-minimalist-puzzle.json) |
 | Math Heroes | 238935 | [238935-math-heroes.json](./238935-math-heroes.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
@@ -8570,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin's Chess | 325875 | [325875-merlins-chess.json](./325875-merlins-chess.json) |
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
 | Merlion Pinball | 307560 | [307560-merlion-pinball.json](./307560-merlion-pinball.json) |
+| Mermaid Adventures: The Frozen Time | 86485 | [86485-mermaid-adventures-the-frozen-time.json](./86485-mermaid-adventures-the-frozen-time.json) |
 | Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
 | Mermaid Castle | 147740 | [147740-mermaid-castle.json](./147740-mermaid-castle.json) |
 | Mermaid Castle 2 | 264560 | [264560-mermaid-castle-2.json](./264560-mermaid-castle-2.json) |
@@ -11539,6 +11543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Castles | 145889 | [145889-mini-golf-castles.json](./145889-mini-golf-castles.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Club | 130078 | [130078-mini-golf-club.json](./130078-mini-golf-club.json) |
+| Mini Golf Game 3D | 86491 | [86491-mini-golf-game-3d.json](./86491-mini-golf-game-3d.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
 | Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
 | Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
@@ -14122,6 +14127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bonds | 332578 | [332578-monster-bonds.json](./332578-monster-bonds.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
+| Monster Breeder | 86498 | [86498-monster-breeder.json](./86498-monster-breeder.json) |
 | Monster Brothel | 336491 | [336491-monster-brothel.json](./336491-monster-brothel.json) |
 | Monster Brother | 287536 | [287536-monster-brother.json](./287536-monster-brother.json) |
 | Monster Bugs Eat People | 126189 | [126189-monster-bugs-eat-people.json](./126189-monster-bugs-eat-people.json) |
@@ -14941,6 +14947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Buggy | 288672 | [288672-moon-buggy.json](./288672-moon-buggy.json) |
 | Moon Buggy | 40930 | [40930-moon-buggy.json](./40930-moon-buggy.json) |
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
+| Moon Bullet | 86339 | [86339-moon-bullet.json](./86339-moon-bullet.json) |
 | Moon Carrier | 357135 | [357135-moon-carrier.json](./357135-moon-carrier.json) |
 | Moon Castle | 89404 | [89404-moon-castle.json](./89404-moon-castle.json) |
 | Moon Cheeser | 184695 | [184695-moon-cheeser.json](./184695-moon-cheeser.json) |
