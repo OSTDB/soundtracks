@@ -16776,6 +16776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Trader | 333476 | [333476-soul-trader.json](./333476-soul-trader.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
+| Soul Valley | 115956 | [115956-soul-valley.json](./115956-soul-valley.json) |
 | Soul Void | 140826 | [140826-soul-void.json](./140826-soul-void.json) |
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
 | Soul War | 262889 | [262889-soul-war.json](./262889-soul-war.json) |
@@ -16879,6 +16880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
 | Soulpath: The Final Journey | 154876 | [154876-soulpath-the-final-journey.json](./154876-soulpath-the-final-journey.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
+| Soulrun | 115955 | [115955-soulrun.json](./115955-soulrun.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
 | Souls | 290622 | [290622-souls.json](./290622-souls.json) |
 | Souls | 51417 | [51417-souls.json](./51417-souls.json) |
@@ -17815,6 +17817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mines | 344491 | [344491-space-mines.json](./344491-space-mines.json) |
 | Space Mining | 168718 | [168718-space-mining.json](./168718-space-mining.json) |
 | Space Mining | 84064 | [84064-space-mining.json](./84064-space-mining.json) |
+| Space Mining Clicker | 115965 | [115965-space-mining-clicker.json](./115965-space-mining-clicker.json) |
 | Space Misadventures | 326707 | [326707-space-misadventures.json](./326707-space-misadventures.json) |
 | Space Misadventures DX | 326708 | [326708-space-misadventures-dx.json](./326708-space-misadventures-dx.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
@@ -25315,6 +25318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Skies of Honor | 321652 | [321652-street-fighter-v-skies-of-honor.json](./321652-street-fighter-v-skies-of-honor.json) |
 | Street Fighter V: Special Shoryuken Edition | 75374 | [75374-street-fighter-v-special-shoryuken-edition.json](./75374-street-fighter-v-special-shoryuken-edition.json) |
 | Street Fighter V: Story Costume Pack Season 1-3 | 342577 | [342577-street-fighter-v-story-costume-pack-season-1-3.json](./342577-street-fighter-v-story-costume-pack-season-1-3.json) |
+| Street Fighter V: Type Arcade | 115992 | [115992-street-fighter-v-type-arcade.json](./115992-street-fighter-v-type-arcade.json) |
 | Street Fighter V: Zangief Costume Bundle | 388881 | [388881-street-fighter-v-zangief-costume-bundle.json](./388881-street-fighter-v-zangief-costume-bundle.json) |
 | Street Fighter V: Zeku | 332476 | [332476-street-fighter-v-zeku.json](./332476-street-fighter-v-zeku.json) |
 | Street Fighter VI 12 Peoples | 263664 | [263664-street-fighter-vi-12-peoples.json](./263664-street-fighter-vi-12-peoples.json) |
@@ -31099,6 +31103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Supply Co. | 145308 | [145308-sushi-supply-co.json](./145308-sushi-supply-co.json) |
 | Sushi Surf: Endless Run Fun | 196592 | [196592-sushi-surf-endless-run-fun.json](./196592-sushi-surf-endless-run-fun.json) |
 | Sushi Time | 10426 | [10426-sushi-time.json](./10426-sushi-time.json) |
+| Sushi Time! | 115985 | [115985-sushi-time.json](./115985-sushi-time.json) |
 | Sushi Time!: Complete Edition | 199840 | [199840-sushi-time-complete-edition.json](./199840-sushi-time-complete-edition.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Burger Race | 347490 | [347490-sushi-vs-burger-race.json](./347490-sushi-vs-burger-race.json) |
