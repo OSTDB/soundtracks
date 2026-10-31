@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
 | NASCAR Heat Evolution: Toyota Challenge Pack 1 | 157553 | [157553-nascar-heat-evolution-toyota-challenge-pack-1.json](./157553-nascar-heat-evolution-toyota-challenge-pack-1.json) |
 | NASCAR Heat Evolution: Toyota Challenge Pack 4 | 156195 | [156195-nascar-heat-evolution-toyota-challenge-pack-4.json](./156195-nascar-heat-evolution-toyota-challenge-pack-4.json) |
+| NASCAR Heat Mobile | 87881 | [87881-nascar-heat-mobile.json](./87881-nascar-heat-mobile.json) |
 | NASCAR Kart Racing | 5053 | [5053-nascar-kart-racing.json](./5053-nascar-kart-racing.json) |
 | NASCAR Manager | 233912 | [233912-nascar-manager.json](./233912-nascar-manager.json) |
 | Nascar Racers | 217748 | [217748-nascar-racers.json](./217748-nascar-racers.json) |
@@ -4381,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nik Super Gunventure | 282690 | [282690-nik-super-gunventure.json](./282690-nik-super-gunventure.json) |
 | Nika | 185456 | [185456-nika.json](./185456-nika.json) |
 | Nikakudori | 218983 | [218983-nikakudori.json](./218983-nikakudori.json) |
+| Nikakudori Reborn | 87926 | [87926-nikakudori-reborn.json](./87926-nikakudori-reborn.json) |
 | Nikakudori Solitaire | 89851 | [89851-nikakudori-solitaire.json](./89851-nikakudori-solitaire.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikhil Murthy's Syphilisation | 165742 | [165742-nikhil-murthys-syphilisation.json](./165742-nikhil-murthys-syphilisation.json) |
