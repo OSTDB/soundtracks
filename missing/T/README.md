@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
 | Tactical Mind 2 | 125278 | [125278-tactical-mind-2.json](./125278-tactical-mind-2.json) |
 | Tactical Mission: Target Rush | 293588 | [293588-tactical-mission-target-rush.json](./293588-tactical-mission-target-rush.json) |
+| Tactical Monsters Rumble Arena | 68509 | [68509-tactical-monsters-rumble-arena.json](./68509-tactical-monsters-rumble-arena.json) |
 | Tactical Nexus | 126929 | [126929-tactical-nexus.json](./126929-tactical-nexus.json) |
 | Tactical Nexus: Chapter 3 - Tactical Cloud- | 174134 | [174134-tactical-nexus-chapter-3-tactical-cloud.json](./174134-tactical-nexus-chapter-3-tactical-cloud.json) |
 | Tactical Nexus: Chapter 4 - Tactical Star | 174546 | [174546-tactical-nexus-chapter-4-tactical-star.json](./174546-tactical-nexus-chapter-4-tactical-star.json) |
@@ -1749,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Factory Simulator | 297878 | [297878-tank-factory-simulator.json](./297878-tank-factory-simulator.json) |
 | Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
 | Tank Force | 39504 | [39504-tank-force.json](./39504-tank-force.json) |
+| Tank Force | 68378 | [68378-tank-force.json](./68378-tank-force.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
 | Tank Frenzy | 288374 | [288374-tank-frenzy.json](./288374-tank-frenzy.json) |
 | Tank Frenzy Survivor | 339419 | [339419-tank-frenzy-survivor.json](./339419-tank-frenzy-survivor.json) |
@@ -2852,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
 | Tear Them All | 409861 | [409861-tear-them-all.json](./409861-tear-them-all.json) |
+| Tear: Owari to Hajimari no Shizuku | 68389 | [68389-tear-owari-to-hajimari-no-shizuku.json](./68389-tear-owari-to-hajimari-no-shizuku.json) |
 | Tearaway | 6363 | [6363-tearaway.json](./6363-tearaway.json) |
 | Tearaway Thomas | 57577 | [57577-tearaway-thomas.json](./57577-tearaway-thomas.json) |
 | Tearaway: Unfolded | 7606 | [7606-tearaway-unfolded.json](./7606-tearaway-unfolded.json) |
@@ -20947,6 +20950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
 | Time Knight Adventures | 164322 | [164322-time-knight-adventures.json](./164322-time-knight-adventures.json) |
 | Time Knight vs. Zombies | 253828 | [253828-time-knight-vs-zombies.json](./253828-time-knight-vs-zombies.json) |
+| Time Leap | 68395 | [68395-time-leap.json](./68395-time-leap.json) |
 | Time Leap Paradise Super Live! | 31077 | [31077-time-leap-paradise-super-live.json](./31077-time-leap-paradise-super-live.json) |
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
 | Time Loader | 140868 | [140868-time-loader.json](./140868-time-loader.json) |
@@ -21431,6 +21435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
 | Tiny Fishing Villages | 420478 | [420478-tiny-fishing-villages.json](./420478-tiny-fishing-villages.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
+| Tiny Force Deluxe | 68516 | [68516-tiny-force-deluxe.json](./68516-tiny-force-deluxe.json) |
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
 | Tiny Fragments | 142360 | [142360-tiny-fragments.json](./142360-tiny-fragments.json) |
 | Tiny Friends Desktop Pet | 387630 | [387630-tiny-friends-desktop-pet.json](./387630-tiny-friends-desktop-pet.json) |
@@ -22387,6 +22392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toing's Pops 2 | 285434 | [285434-toings-pops-2.json](./285434-toings-pops-2.json) |
 | Toite Susunde! Nazo Toki Castle | 222454 | [222454-toite-susunde-nazo-toki-castle.json](./222454-toite-susunde-nazo-toki-castle.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
+| Toji no Miko: Kizamishi Issen no Tomoshibi | 68382 | [68382-toji-no-miko-kizamishi-issen-no-tomoshibi.json](./68382-toji-no-miko-kizamishi-issen-no-tomoshibi.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
 | Tok Hardcore | 116868 | [116868-tok-hardcore.json](./116868-tok-hardcore.json) |
