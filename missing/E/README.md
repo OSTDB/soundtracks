@@ -6957,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
 | Exit 2: Directions | 43146 | [43146-exit-2-directions.json](./43146-exit-2-directions.json) |
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
+| Exit 4: Portal | 80951 | [80951-exit-4-portal.json](./80951-exit-4-portal.json) |
 | Exit 8 / Platform 8 | 404112 | [404112-exit-8-platform-8.json](./404112-exit-8-platform-8.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
 | Exit Doors | 240639 | [240639-exit-doors.json](./240639-exit-doors.json) |
