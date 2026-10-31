@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 100069 | [100069-fast-break.json](./100069-fast-break.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
+| Fast Break College Basketball | 66535 | [66535-fast-break-college-basketball.json](./66535-fast-break-college-basketball.json) |
 | Fast Break Pro Basketball 3 | 82314 | [82314-fast-break-pro-basketball-3.json](./82314-fast-break-pro-basketball-3.json) |
 | Fast Bubble | 28094 | [28094-fast-bubble.json](./28094-fast-bubble.json) |
 | Fast Burger Simulator | 230411 | [230411-fast-burger-simulator.json](./230411-fast-burger-simulator.json) |
@@ -7342,6 +7343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: More Bloody Horowitz | 66577 | [66577-flips-more-bloody-horowitz.json](./66577-flips-more-bloody-horowitz.json) |
 | Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
 | Flips: Percy Jackson | 67107 | [67107-flips-percy-jackson.json](./67107-flips-percy-jackson.json) |
+| Flips: Silent But Deadly | 66533 | [66533-flips-silent-but-deadly.json](./66533-flips-silent-but-deadly.json) |
 | Flips: Terror in Cubicle Four | 66966 | [66966-flips-terror-in-cubicle-four.json](./66966-flips-terror-in-cubicle-four.json) |
 | Flips: The Bubonic Builders | 66911 | [66911-flips-the-bubonic-builders.json](./66911-flips-the-bubonic-builders.json) |
 | Flips: The Enchanted Wood | 66604 | [66604-flips-the-enchanted-wood.json](./66604-flips-the-enchanted-wood.json) |
@@ -9263,6 +9265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One 2001 | 8299 | [8299-formula-one-2001.json](./8299-formula-one-2001.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
+| Formula One Arcade | 66335 | [66335-formula-one-arcade.json](./66335-formula-one-arcade.json) |
 | Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
 | Formula One: Built to Win | 48297 | [48297-formula-one-built-to-win.json](./48297-formula-one-built-to-win.json) |
 | Formula One: Championship Edition | 21397 | [21397-formula-one-championship-edition.json](./21397-formula-one-championship-edition.json) |
