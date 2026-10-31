@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Feed | 379566 | [379566-dead-feed.json](./379566-dead-feed.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Force | 299828 | [299828-dead-force.json](./299828-dead-force.json) |
+| Dead Forest | 117324 | [117324-dead-forest.json](./117324-dead-forest.json) |
 | Dead Freight | 345683 | [345683-dead-freight.json](./345683-dead-freight.json) |
 | Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
 | Dead Frog Tell No Tales | 182882 | [182882-dead-frog-tell-no-tales.json](./182882-dead-frog-tell-no-tales.json) |
@@ -9795,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DitherDream | 285020 | [285020-ditherdream.json](./285020-ditherdream.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
 | Dithered | 397910 | [397910-dithered.json](./397910-dithered.json) |
+| Dìtiě: Kǒngbù Mòbānchē | 117341 | [117341-ditie-kongbu-mobanche.json](./117341-ditie-kongbu-mobanche.json) |
 | Dito G1 | 266880 | [266880-dito-g1.json](./266880-dito-g1.json) |
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Dittori | 403316 | [403316-dittori.json](./403316-dittori.json) |
@@ -10897,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Spirit: Ocean Mission | 246622 | [246622-dolphin-spirit-ocean-mission.json](./246622-dolphin-spirit-ocean-mission.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
 | Dolphin Squadron | 213731 | [213731-dolphin-squadron.json](./213731-dolphin-squadron.json) |
+| Dolphin Stunt Rider | 117317 | [117317-dolphin-stunt-rider.json](./117317-dolphin-stunt-rider.json) |
 | Dolphin Swim | 116737 | [116737-dolphin-swim.json](./116737-dolphin-swim.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
 | Dolphin Trainer VR | 156946 | [156946-dolphin-trainer-vr.json](./156946-dolphin-trainer-vr.json) |
