@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T10:04:09.903Z",
-  "total_missing": 288180,
+  "generated_at": "2026-10-31T10:18:24.216Z",
+  "total_missing": 288229,
   "games": [
     {
       "igdb_id": 191680,
@@ -25660,6 +25660,11 @@
       "igdb_id": 299786,
       "game_name": "Abunai Tengu Densetsu",
       "file": "missing/A/299786-abunai-tengu-densetsu.json"
+    },
+    {
+      "igdb_id": 97617,
+      "game_name": "Abundant",
+      "file": "missing/A/97617-abundant.json"
     },
     {
       "igdb_id": 216777,
@@ -58422,6 +58427,11 @@
       "file": "missing/A/39622-andro-dunos.json"
     },
     {
+      "igdb_id": 97656,
+      "game_name": "Andro Milk",
+      "file": "missing/A/97656-andro-milk.json"
+    },
+    {
       "igdb_id": 99111,
       "game_name": "Andro's World",
       "file": "missing/A/99111-andros-world.json"
@@ -58625,6 +58635,11 @@
       "igdb_id": 305989,
       "game_name": "AneeMate",
       "file": "missing/A/305989-aneemate.json"
+    },
+    {
+      "igdb_id": 97621,
+      "game_name": "Anekan",
+      "file": "missing/A/97621-anekan.json"
     },
     {
       "igdb_id": 108144,
@@ -70260,6 +70275,11 @@
       "igdb_id": 97744,
       "game_name": "Aquarius Days",
       "file": "missing/A/97744-aquarius-days.json"
+    },
+    {
+      "igdb_id": 97648,
+      "game_name": "Aquarius Days 2",
+      "file": "missing/A/97648-aquarius-days-2.json"
     },
     {
       "igdb_id": 258345,
@@ -103480,11 +103500,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -141550,6 +141565,11 @@
       "igdb_id": 416674,
       "game_name": "Blacklode",
       "file": "missing/B/416674-blacklode.json"
+    },
+    {
+      "igdb_id": 97654,
+      "game_name": "Blackmail",
+      "file": "missing/B/97654-blackmail.json"
     },
     {
       "igdb_id": 222977,
@@ -190947,6 +190967,11 @@
       "file": "missing/C/58737-capsule-silence-xxiv.json"
     },
     {
+      "igdb_id": 97652,
+      "game_name": "Capsule: A Piece of Me",
+      "file": "missing/C/97652-capsule-a-piece-of-me.json"
+    },
+    {
       "igdb_id": 274296,
       "game_name": "CapsuleMan",
       "file": "missing/C/274296-capsuleman.json"
@@ -207685,6 +207710,11 @@
       "igdb_id": 232119,
       "game_name": "Chain Letter",
       "file": "missing/C/232119-chain-letter.json"
+    },
+    {
+      "igdb_id": 97641,
+      "game_name": "Chain Mail: Trip to the Panic World!",
+      "file": "missing/C/97641-chain-mail-trip-to-the-panic-world.json"
     },
     {
       "igdb_id": 243577,
@@ -254355,6 +254385,11 @@
       "igdb_id": 283332,
       "game_name": "CR Hissatsu Shigotonin Pachitte Chonmage @ VPACHI",
       "file": "missing/C/283332-cr-hissatsu-shigotonin-pachitte-chonmage-vpachi.json"
+    },
+    {
+      "igdb_id": 97614,
+      "game_name": "CR Nettou Pawapuro-kun: Pachitte Chonmage Tatsujin",
+      "file": "missing/C/97614-cr-nettou-pawapuro-kun-pachitte-chonmage-tatsujin.json"
     },
     {
       "igdb_id": 59377,
@@ -322835,6 +322870,11 @@
       "igdb_id": 97366,
       "game_name": "Discode Reverse",
       "file": "missing/D/97366-discode-reverse.json"
+    },
+    {
+      "igdb_id": 97612,
+      "game_name": "Discode: Surface",
+      "file": "missing/D/97612-discode-surface.json"
     },
     {
       "igdb_id": 85084,
@@ -525687,6 +525727,11 @@
       "file": "missing/H/61508-hans-klosss.json"
     },
     {
+      "igdb_id": 97650,
+      "game_name": "Hansaku Otome no Tame no Kiyukyoku",
+      "file": "missing/H/97650-hansaku-otome-no-tame-no-kiyukyoku.json"
+    },
+    {
       "igdb_id": 26458,
       "game_name": "Hanse",
       "file": "missing/H/26458-hanse.json"
@@ -536492,6 +536537,11 @@
       "file": "missing/H/358667-heisting-fully-armed-edition.json"
     },
     {
+      "igdb_id": 97659,
+      "game_name": "Heiwa Pachinko Graffiti Vol. 1",
+      "file": "missing/H/97659-heiwa-pachinko-graffiti-vol-1.json"
+    },
+    {
       "igdb_id": 97662,
       "game_name": "Heiwa Pachinko Graffiti Vol. 2",
       "file": "missing/H/97662-heiwa-pachinko-graffiti-vol-2.json"
@@ -536507,9 +536557,39 @@
       "file": "missing/H/3510-heiwa-pachinko-world-64.json"
     },
     {
+      "igdb_id": 97658,
+      "game_name": "Heiwa Parlor! Pro: BunDori King Special",
+      "file": "missing/H/97658-heiwa-parlor-pro-bundori-king-special.json"
+    },
+    {
+      "igdb_id": 97657,
+      "game_name": "Heiwa Parlor! Pro: Dolphin Ring Special",
+      "file": "missing/H/97657-heiwa-parlor-pro-dolphin-ring-special.json"
+    },
+    {
+      "igdb_id": 97655,
+      "game_name": "Heiwa Parlor! Pro: Fujiko ni Omakase Special",
+      "file": "missing/H/97655-heiwa-parlor-pro-fujiko-ni-omakase-special.json"
+    },
+    {
+      "igdb_id": 97649,
+      "game_name": "Heiwa Parlor! Pro: Inakappe Taishou Special",
+      "file": "missing/H/97649-heiwa-parlor-pro-inakappe-taishou-special.json"
+    },
+    {
       "igdb_id": 97661,
       "game_name": "Heiwa Parlor! Pro: Lupin Sansei Special",
       "file": "missing/H/97661-heiwa-parlor-pro-lupin-sansei-special.json"
+    },
+    {
+      "igdb_id": 97645,
+      "game_name": "Heiwa Parlor! Pro: Tsunatori Monogatari Special",
+      "file": "missing/H/97645-heiwa-parlor-pro-tsunatori-monogatari-special.json"
+    },
+    {
+      "igdb_id": 97643,
+      "game_name": "Heiwa Parlor! Pro: Western Special",
+      "file": "missing/H/97643-heiwa-parlor-pro-western-special.json"
     },
     {
       "igdb_id": 414116,
@@ -556042,6 +556122,11 @@
       "file": "missing/H/58316-hissatsu-pachinko-station-3.json"
     },
     {
+      "igdb_id": 97629,
+      "game_name": "Hissatsu Pachinko Station Now",
+      "file": "missing/H/97629-hissatsu-pachinko-station-now.json"
+    },
+    {
       "igdb_id": 133745,
       "game_name": "Hissatsu Pachinko Station Now 8: Jarinko Chie",
       "file": "missing/H/133745-hissatsu-pachinko-station-now-8-jarinko-chie.json"
@@ -556050,6 +556135,11 @@
       "igdb_id": 137100,
       "game_name": "Hissatsu Pachinko Station V2",
       "file": "missing/H/137100-hissatsu-pachinko-station-v2.json"
+    },
+    {
+      "igdb_id": 97625,
+      "game_name": "Hissatsu Pachinko Station V5: Pink Lady",
+      "file": "missing/H/97625-hissatsu-pachinko-station-v5-pink-lady.json"
     },
     {
       "igdb_id": 83426,
@@ -557135,6 +557225,11 @@
       "igdb_id": 98029,
       "game_name": "Hitozuma Dorei Kyoushi",
       "file": "missing/H/98029-hitozuma-dorei-kyoushi.json"
+    },
+    {
+      "igdb_id": 97632,
+      "game_name": "Hitozuma Dorei Kyoushi 2",
+      "file": "missing/H/97632-hitozuma-dorei-kyoushi-2.json"
     },
     {
       "igdb_id": 97765,
@@ -629452,6 +629547,16 @@
       "file": "missing/K/97507-kakka-to-ma-no-tsuku-present.json"
     },
     {
+      "igdb_id": 97609,
+      "game_name": "Kakkote Efuefu 7",
+      "file": "missing/K/97609-kakkote-efuefu-7.json"
+    },
+    {
+      "igdb_id": 97611,
+      "game_name": "Kakkote ToHato2",
+      "file": "missing/K/97611-kakkote-tohato2.json"
+    },
+    {
       "igdb_id": 284341,
       "game_name": "Kakkouke",
       "file": "missing/K/284341-kakkouke.json"
@@ -640495,11 +640600,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -771242,6 +771342,11 @@
       "file": "missing/M/95173-momoiro-closet.json"
     },
     {
+      "igdb_id": 97623,
+      "game_name": "Momoiro Nurse",
+      "file": "missing/M/97623-momoiro-nurse.json"
+    },
+    {
       "igdb_id": 416025,
       "game_name": "Momoiro Okami no Honoka-san: Ikenai, O-mo-te-na-shi",
       "file": "missing/M/416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json"
@@ -802487,6 +802592,11 @@
       "file": "missing/M/421455-mystic-fog-maze.json"
     },
     {
+      "igdb_id": 97631,
+      "game_name": "Mystic Force",
+      "file": "missing/M/97631-mystic-force.json"
+    },
+    {
       "igdb_id": 226424,
       "game_name": "Mystic Forest",
       "file": "missing/M/226424-mystic-forest.json"
@@ -816537,6 +816647,16 @@
       "file": "missing/N/403936-nestify.json"
     },
     {
+      "igdb_id": 97620,
+      "game_name": "Nestle Close",
+      "file": "missing/N/97620-nestle-close.json"
+    },
+    {
+      "igdb_id": 97618,
+      "game_name": "Nestle Close 2",
+      "file": "missing/N/97618-nestle-close-2.json"
+    },
+    {
       "igdb_id": 259548,
       "game_name": "Nestor the Nesting Bird",
       "file": "missing/N/259548-nestor-the-nesting-bird.json"
@@ -821910,6 +822030,11 @@
       "igdb_id": 37905,
       "game_name": "Nichibutsu Collection 2",
       "file": "missing/N/37905-nichibutsu-collection-2.json"
+    },
+    {
+      "igdb_id": 97610,
+      "game_name": "Nichibutsu Collection 2000: Otona no Asobi",
+      "file": "missing/N/97610-nichibutsu-collection-2000-otona-no-asobi.json"
     },
     {
       "igdb_id": 251087,
@@ -837537,6 +837662,11 @@
       "file": "missing/N/110663-nukalypse-zombie-survival.json"
     },
     {
+      "igdb_id": 97613,
+      "game_name": "Nukanakucha!",
+      "file": "missing/N/97613-nukanakucha.json"
+    },
+    {
       "igdb_id": 81685,
       "game_name": "Nuke Babysitter Simulator | Kim Edition",
       "file": "missing/N/81685-nuke-babysitter-simulator-kim-edition.json"
@@ -845472,6 +845602,11 @@
       "file": "missing/O/70400-ojousama-sousamou.json"
     },
     {
+      "igdb_id": 97634,
+      "game_name": "Ojyoku: Hokago no Ryojyokuki",
+      "file": "missing/O/97634-ojyoku-hokago-no-ryojyokuki.json"
+    },
+    {
       "igdb_id": 127160,
       "game_name": "OK Boomer",
       "file": "missing/O/127160-ok-boomer.json"
@@ -852590,6 +852725,11 @@
       "igdb_id": 385619,
       "game_name": "Onigashima",
       "file": "missing/O/385619-onigashima.json"
+    },
+    {
+      "igdb_id": 97626,
+      "game_name": "Onigashima Pachinko-ten",
+      "file": "missing/O/97626-onigashima-pachinko-ten.json"
     },
     {
       "igdb_id": 406103,
@@ -863152,6 +863292,11 @@
       "file": "missing/O/192020-outdoor-adventures-with-marisa-kirisame.json"
     },
     {
+      "igdb_id": 97622,
+      "game_name": "Outdoor Cosplay",
+      "file": "missing/O/97622-outdoor-cosplay.json"
+    },
+    {
       "igdb_id": 202697,
       "game_name": "Outdoor Life: Sportman's Challenge",
       "file": "missing/O/202697-outdoor-life-sportmans-challenge.json"
@@ -868332,6 +868477,11 @@
       "file": "missing/P/37896-pachi-slot-monogatari-universal-special.json"
     },
     {
+      "igdb_id": 97640,
+      "game_name": "Pachi-Slot Teiou: Dream Slot - Heiwa SP",
+      "file": "missing/P/97640-pachi-slot-teiou-dream-slot-heiwa-sp.json"
+    },
+    {
       "igdb_id": 100262,
       "game_name": "Pachi-Slot Teiou: Golgo 13 Las Vegas",
       "file": "missing/P/100262-pachi-slot-teiou-golgo-13-las-vegas.json"
@@ -868382,6 +868532,11 @@
       "file": "missing/P/55962-pachinko-cr-daiku-no-gen-san-gb.json"
     },
     {
+      "igdb_id": 97624,
+      "game_name": "Pachinko CR Mouretsu Genjin T",
+      "file": "missing/P/97624-pachinko-cr-mouretsu-genjin-t.json"
+    },
+    {
       "igdb_id": 386519,
       "game_name": "Pachinko Dream",
       "file": "missing/P/386519-pachinko-dream.json"
@@ -868405,6 +868560,11 @@
       "igdb_id": 6124,
       "game_name": "Pachinko II",
       "file": "missing/P/6124-pachinko-ii.json"
+    },
+    {
+      "igdb_id": 97628,
+      "game_name": "Pachinko Kaguya-hime",
+      "file": "missing/P/97628-pachinko-kaguya-hime.json"
     },
     {
       "igdb_id": 91885,
@@ -868445,6 +868605,11 @@
       "igdb_id": 42232,
       "game_name": "Pachinko Ren Chan Tengoku",
       "file": "missing/P/42232-pachinko-ren-chan-tengoku.json"
+    },
+    {
+      "igdb_id": 97627,
+      "game_name": "Pachinko Saiyuuki",
+      "file": "missing/P/97627-pachinko-saiyuuki.json"
     },
     {
       "igdb_id": 385717,
@@ -868630,6 +868795,16 @@
       "igdb_id": 109190,
       "game_name": "Pachitte Chonmage",
       "file": "missing/P/109190-pachitte-chonmage.json"
+    },
+    {
+      "igdb_id": 97616,
+      "game_name": "Pachitte Chonmage Tatsujin 12: Pachinko Ultraman",
+      "file": "missing/P/97616-pachitte-chonmage-tatsujin-12-pachinko-ultraman.json"
+    },
+    {
+      "igdb_id": 97615,
+      "game_name": "Pachitte Chonmage Tatsujin 2: CR Jurassic Park",
+      "file": "missing/P/97615-pachitte-chonmage-tatsujin-2-cr-jurassic-park.json"
     },
     {
       "igdb_id": 61913,
@@ -879355,6 +879530,11 @@
       "igdb_id": 64384,
       "game_name": "Passing Time",
       "file": "missing/P/64384-passing-time.json"
+    },
+    {
+      "igdb_id": 97633,
+      "game_name": "Passing Wings",
+      "file": "missing/P/97633-passing-wings.json"
     },
     {
       "igdb_id": 402148,
@@ -942750,6 +942930,11 @@
       "igdb_id": 57534,
       "game_name": "PSBO",
       "file": "missing/P/57534-psbo.json"
+    },
+    {
+      "igdb_id": 97647,
+      "game_name": "PSD",
+      "file": "missing/P/97647-psd.json"
     },
     {
       "igdb_id": 43063,
@@ -1070462,6 +1070647,11 @@
       "file": "missing/S/230756-sister-location-ma.json"
     },
     {
+      "igdb_id": 97642,
+      "game_name": "Sister Love",
+      "file": "missing/S/97642-sister-love.json"
+    },
+    {
       "igdb_id": 327395,
       "game_name": "Sister Lumina and the Hypnosis Cult",
       "file": "missing/S/327395-sister-lumina-and-the-hypnosis-cult.json"
@@ -1074037,6 +1074227,11 @@
       "file": "missing/S/71045-skunnys-desert-raid.json"
     },
     {
+      "igdb_id": 97638,
+      "game_name": "Skuran Kuzushi",
+      "file": "missing/S/97638-skuran-kuzushi.json"
+    },
+    {
       "igdb_id": 337543,
       "game_name": "Skvears",
       "file": "missing/S/337543-skvears.json"
@@ -1077075,6 +1077270,11 @@
       "igdb_id": 97989,
       "game_name": "Slave Girl",
       "file": "missing/S/97989-slave-girl.json"
+    },
+    {
+      "igdb_id": 97636,
+      "game_name": "Slave Girl 2",
+      "file": "missing/S/97636-slave-girl-2.json"
     },
     {
       "igdb_id": 111732,
@@ -1106477,6 +1106677,11 @@
       "file": "missing/S/84892-space-hunted.json"
     },
     {
+      "igdb_id": 129956,
+      "game_name": "Space Hunted: The Lost Levels",
+      "file": "missing/S/129956-space-hunted-the-lost-levels.json"
+    },
+    {
       "igdb_id": 142222,
       "game_name": "Space Hunter",
       "file": "missing/S/142222-space-hunter.json"
@@ -1124430,6 +1124635,11 @@
       "igdb_id": 82980,
       "game_name": "St. Yariman's Little Black Book: Complete",
       "file": "missing/S/82980-st-yarimans-little-black-book-complete.json"
+    },
+    {
+      "igdb_id": 97644,
+      "game_name": "St/P",
+      "file": "missing/S/97644-st-p.json"
     },
     {
       "igdb_id": 264620,
@@ -1230082,6 +1230292,11 @@
       "file": "missing/T/313820-the-heist-monaco.json"
     },
     {
+      "igdb_id": 97639,
+      "game_name": "The Heiwa Otenki Studio",
+      "file": "missing/T/97639-the-heiwa-otenki-studio.json"
+    },
+    {
       "igdb_id": 382257,
       "game_name": "The Helios Incident",
       "file": "missing/T/382257-the-helios-incident.json"
@@ -1256082,6 +1256297,11 @@
       "file": "missing/T/341011-the-shochu-bar.json"
     },
     {
+      "igdb_id": 97630,
+      "game_name": "The Shocker",
+      "file": "missing/T/97630-the-shocker.json"
+    },
+    {
       "igdb_id": 399791,
       "game_name": "The Shocking World Mysteries",
       "file": "missing/T/399791-the-shocking-world-mysteries.json"
@@ -1261465,6 +1261685,11 @@
       "igdb_id": 318401,
       "game_name": "The Tensor",
       "file": "missing/T/318401-the-tensor.json"
+    },
+    {
+      "igdb_id": 97619,
+      "game_name": "The Tentacle Hunter, Yuri",
+      "file": "missing/T/97619-the-tentacle-hunter-yuri.json"
     },
     {
       "igdb_id": 82730,
@@ -1327517,6 +1327742,11 @@
       "file": "missing/T/188242-tsubasa.json"
     },
     {
+      "igdb_id": 97635,
+      "game_name": "Tsubomi",
+      "file": "missing/T/97635-tsubomi.json"
+    },
+    {
       "igdb_id": 369225,
       "game_name": "TsucnenT's Treasures",
       "file": "missing/T/369225-tsucnents-treasures.json"
@@ -1391997,6 +1392227,11 @@
       "file": "missing/W/359546-white-noise.json"
     },
     {
+      "igdb_id": 97637,
+      "game_name": "White Note",
+      "file": "missing/W/97637-white-note.json"
+    },
+    {
       "igdb_id": 103634,
       "game_name": "White Nothing",
       "file": "missing/W/103634-white-nothing.json"
@@ -1422492,6 +1422727,11 @@
       "file": "missing/Y/320178-yogoe-hunter.json"
     },
     {
+      "igdb_id": 97651,
+      "game_name": "Yogoreta Seifuku Hakusyo: Shimai Hagareru",
+      "file": "missing/Y/97651-yogoreta-seifuku-hakusyo-shimai-hagareru.json"
+    },
+    {
       "igdb_id": 97779,
       "game_name": "Yogosareta Seifuku: Ryojyoku no Kusari",
       "file": "missing/Y/97779-yogosareta-seifuku-ryojyoku-no-kusari.json"
@@ -1428040,6 +1428280,11 @@
       "igdb_id": 81845,
       "game_name": "YumeCore",
       "file": "missing/Y/81845-yumecore.json"
+    },
+    {
+      "igdb_id": 97646,
+      "game_name": "Yumeichiya: Hotaru no Ongaeshi",
+      "file": "missing/Y/97646-yumeichiya-hotaru-no-ongaeshi.json"
     },
     {
       "igdb_id": 186553,
