@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFC Undisputed Forever | 410484 | [410484-ufc-undisputed-forever.json](./410484-ufc-undisputed-forever.json) |
+| UFC: Sudden Impact | 92763 | [92763-ufc-sudden-impact.json](./92763-ufc-sudden-impact.json) |
 | UFC: Tapout 2 | 6219 | [6219-ufc-tapout-2.json](./6219-ufc-tapout-2.json) |
 | UFC: Throwdown | 4221 | [4221-ufc-throwdown.json](./4221-ufc-throwdown.json) |
 | Ufflegrim | 118587 | [118587-ufflegrim.json](./118587-ufflegrim.json) |
@@ -255,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ufophilia | 368145 | [368145-ufophilia.json](./368145-ufophilia.json) |
 | UfoPilot : Astro-Creeps Elite | 35318 | [35318-ufopilot-astro-creeps-elite.json](./35318-ufopilot-astro-creeps-elite.json) |
 | UfoPilot: The Phadt Menace - Steam Edition | 162707 | [162707-ufopilot-the-phadt-menace-steam-edition.json](./162707-ufopilot-the-phadt-menace-steam-edition.json) |
+| UFOrce Drive | 92794 | [92794-uforce-drive.json](./92794-uforce-drive.json) |
 | UFOre: Space Idle | 389694 | [389694-ufore-space-idle.json](./389694-ufore-space-idle.json) |
 | UFOs Love Cows | 60513 | [60513-ufos-love-cows.json](./60513-ufos-love-cows.json) |
 | UfoScare | 236861 | [236861-ufoscare.json](./236861-ufoscare.json) |
