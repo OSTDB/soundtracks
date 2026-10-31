@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | Wheely 4: Time Travel | 102004 | [102004-wheely-4-time-travel.json](./102004-wheely-4-time-travel.json) |
+| Wheely 5: Armageddon | 101901 | [101901-wheely-5-armageddon.json](./101901-wheely-5-armageddon.json) |
 | Wheely World | 109265 | [109265-wheely-world.json](./109265-wheely-world.json) |
 | Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
@@ -3793,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is 2012? | 384073 | [384073-where-is-2012.json](./384073-where-is-2012.json) |
 | Where is 2013? | 384074 | [384074-where-is-2013.json](./384074-where-is-2013.json) |
 | Where is 2014? | 384077 | [384077-where-is-2014.json](./384077-where-is-2014.json) |
+| Where is 2015? | 101885 | [101885-where-is-2015.json](./101885-where-is-2015.json) |
 | Where is 2016? | 384116 | [384116-where-is-2016.json](./384116-where-is-2016.json) |
 | Where is 2017? | 384256 | [384256-where-is-2017.json](./384256-where-is-2017.json) |
 | Where is 2018? | 83340 | [83340-where-is-2018.json](./83340-where-is-2018.json) |
@@ -3803,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where is Billy? | 358653 | [358653-where-is-billy.json](./358653-where-is-billy.json) |
+| Where is cat? | 101875 | [101875-where-is-cat.json](./101875-where-is-cat.json) |
 | Where is Drake? | 280238 | [280238-where-is-drake.json](./280238-where-is-drake.json) |
 | Where is Earth? | 221109 | [221109-where-is-earth.json](./221109-where-is-earth.json) |
 | Where Is George | 287702 | [287702-where-is-george.json](./287702-where-is-george.json) |
@@ -4462,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whose Lawn Is It Anyway | 401034 | [401034-whose-lawn-is-it-anyway.json](./401034-whose-lawn-is-it-anyway.json) |
 | Whotfire | 346907 | [346907-whotfire.json](./346907-whotfire.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
+| Why Am I Dead: Rebirth | 101862 | [101862-why-am-i-dead-rebirth.json](./101862-why-am-i-dead-rebirth.json) |
 | Why Are My Prefects So Hot!!? | 419950 | [419950-why-are-my-prefects-so-hot.json](./419950-why-are-my-prefects-so-hot.json) |
 | Why Can't I Just Speak Normally to My High School Crush?! | 177190 | [177190-why-cant-i-just-speak-normally-to-my-high-school-crush.json](./177190-why-cant-i-just-speak-normally-to-my-high-school-crush.json) |
 | Why Chicken? Why? | 114973 | [114973-why-chicken-why.json](./114973-why-chicken-why.json) |
