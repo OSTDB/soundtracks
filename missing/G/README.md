@@ -143,12 +143,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series: Altered Weapon | 84653 | [84653-g-g-series-altered-weapon.json](./84653-g-g-series-altered-weapon.json) |
 | G.G Series: Assault Buster | 84655 | [84655-g-g-series-assault-buster.json](./84655-g-g-series-assault-buster.json) |
 | G.G Series: Black X Block | 84654 | [84654-g-g-series-black-x-block.json](./84654-g-g-series-black-x-block.json) |
+| G.G Series: Conveyor Konpou | 67773 | [67773-g-g-series-conveyor-konpou.json](./67773-g-g-series-conveyor-konpou.json) |
 | G.G Series: Conveyor Toy Packing | 84652 | [84652-g-g-series-conveyor-toy-packing.json](./84652-g-g-series-conveyor-toy-packing.json) |
 | G.G Series: Cosmo Rally!! | 84651 | [84651-g-g-series-cosmo-rally.json](./84651-g-g-series-cosmo-rally.json) |
 | G.G Series: D-Tank | 84546 | [84546-g-g-series-d-tank.json](./84546-g-g-series-d-tank.json) |
 | G.G Series: Dark Spirits | 84505 | [84505-g-g-series-dark-spirits.json](./84505-g-g-series-dark-spirits.json) |
 | G.G Series: Drift Circuit | 84649 | [84649-g-g-series-drift-circuit.json](./84649-g-g-series-drift-circuit.json) |
 | G.G Series: Drilling Attack!! | 84650 | [84650-g-g-series-drilling-attack.json](./84650-g-g-series-drilling-attack.json) |
+| G.G Series: Energy Chain | 67775 | [67775-g-g-series-energy-chain.json](./67775-g-g-series-energy-chain.json) |
 | G.G Series: Great Whip Adventure | 84567 | [84567-g-g-series-great-whip-adventure.json](./84567-g-g-series-great-whip-adventure.json) |
 | G.G Series: Hero Puzzle | 84569 | [84569-g-g-series-hero-puzzle.json](./84569-g-g-series-hero-puzzle.json) |
 | G.G Series: Horizontal Bar | 84501 | [84501-g-g-series-horizontal-bar.json](./84501-g-g-series-horizontal-bar.json) |
@@ -181,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: Star Brigade | 198747 | [198747-g-i-joe-star-brigade.json](./198747-g-i-joe-star-brigade.json) |
 | G.I. Joe: The Atlantis Factor | 8166 | [8166-g-i-joe-the-atlantis-factor.json](./8166-g-i-joe-the-atlantis-factor.json) |
 | G.I. Joe: The Rise of Cobra | 200914 | [200914-g-i-joe-the-rise-of-cobra.json](./200914-g-i-joe-the-rise-of-cobra.json) |
+| G.I. Joe: The Rise of Cobra - Basic Training | 67762 | [67762-g-i-joe-the-rise-of-cobra-basic-training.json](./67762-g-i-joe-the-rise-of-cobra-basic-training.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.I. Joe: Wrath of Cobra | 264313 | [264313-g-i-joe-wrath-of-cobra.json](./264313-g-i-joe-wrath-of-cobra.json) |
 | G.I.R.L.S. will be Girls | 397391 | [397391-g-i-r-l-s-will-be-girls.json](./397391-g-i-r-l-s-will-be-girls.json) |
@@ -1185,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Chaloupe | 105758 | [105758-game-of-chaloupe.json](./105758-game-of-chaloupe.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
 | Game of Crafts | 333992 | [333992-game-of-crafts.json](./333992-game-of-crafts.json) |
+| Game of da Dead | 67741 | [67741-game-of-da-dead.json](./67741-game-of-da-dead.json) |
 | Game of Dice | 374909 | [374909-game-of-dice.json](./374909-game-of-dice.json) |
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
 | Game of Dice | 58898 | [58898-game-of-dice.json](./58898-game-of-dice.json) |
@@ -7291,6 +7295,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand War: Rome | 244335 | [244335-grand-war-rome.json](./244335-grand-war-rome.json) |
 | Grand War: Rome - Free Strategy Game | 276670 | [276670-grand-war-rome-free-strategy-game.json](./276670-grand-war-rome-free-strategy-game.json) |
 | Grand Wars: Mafia City | 174725 | [174725-grand-wars-mafia-city.json](./174725-grand-wars-mafia-city.json) |
+| Grandad 2: In Search of Sandwiches | 67840 | [67840-grandad-2-in-search-of-sandwiches.json](./67840-grandad-2-in-search-of-sandwiches.json) |
+| Grandad and the Quest for the Holey Vest | 67841 | [67841-grandad-and-the-quest-for-the-holey-vest.json](./67841-grandad-and-the-quest-for-the-holey-vest.json) |
 | Grandam Overdrive | 80969 | [80969-grandam-overdrive.json](./80969-grandam-overdrive.json) |
 | Grandam Overdrive | 80970 | [80970-grandam-overdrive.json](./80970-grandam-overdrive.json) |
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
@@ -8882,6 +8888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Galaxy | 58280 | [58280-groove-galaxy.json](./58280-groove-galaxy.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
 | Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
+| Groove Jigoku V | 67774 | [67774-groove-jigoku-v.json](./67774-groove-jigoku-v.json) |
 | Groove on Fight | 39420 | [39420-groove-on-fight.json](./39420-groove-on-fight.json) |
 | Groove Planet | 58279 | [58279-groove-planet.json](./58279-groove-planet.json) |
 | Groove Racer | 344822 | [344822-groove-racer.json](./344822-groove-racer.json) |
