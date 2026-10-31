@@ -10074,6 +10074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigraviator: Viper Trails | 170426 | [170426-antigraviator-viper-trails.json](./170426-antigraviator-viper-trails.json) |
+| Antigravity | 85801 | [85801-antigravity.json](./85801-antigravity.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | Antihero | 26856 | [26856-antihero.json](./26856-antihero.json) |
 | Antihero Book Club | 51694 | [51694-antihero-book-club.json](./51694-antihero-book-club.json) |
