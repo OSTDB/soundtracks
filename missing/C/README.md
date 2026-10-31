@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadillac | 94896 | [94896-cadillac.json](./94896-cadillac.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadmium Red | 364694 | [364694-cadmium-red.json](./364694-cadmium-red.json) |
+| Cado | 93948 | [93948-cado.json](./93948-cado.json) |
 | Cadoom | 304824 | [304824-cadoom.json](./304824-cadoom.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
@@ -3130,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crashers: Painter Boss Paradise | 310640 | [310640-castle-crashers-painter-boss-paradise.json](./310640-castle-crashers-painter-boss-paradise.json) |
 | Castle Crashers: Pink Knight Pack | 170864 | [170864-castle-crashers-pink-knight-pack.json](./170864-castle-crashers-pink-knight-pack.json) |
 | Castle Crashing the Beard | 278319 | [278319-castle-crashing-the-beard.json](./278319-castle-crashing-the-beard.json) |
+| Castle Creator | 93950 | [93950-castle-creator.json](./93950-castle-creator.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Creeps TD | 106963 | [106963-castle-creeps-td.json](./106963-castle-creeps-td.json) |
 | Castle Crew | 420799 | [420799-castle-crew.json](./420799-castle-crew.json) |
@@ -8741,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash Force | 72405 | [72405-clash-force.json](./72405-clash-force.json) |
 | Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
 | Clash II | 150930 | [150930-clash-ii.json](./150930-clash-ii.json) |
+| Clash King | 93954 | [93954-clash-king.json](./93954-clash-king.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
 | Clash Mini | 172495 | [172495-clash-mini.json](./172495-clash-mini.json) |
 | Clash of Aliens | 175144 | [175144-clash-of-aliens.json](./175144-clash-of-aliens.json) |
@@ -9037,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayFighter: Call of Putty | 123208 | [123208-clayfighter-call-of-putty.json](./123208-clayfighter-call-of-putty.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
+| Claymore | 93919 | [93919-claymore.json](./93919-claymore.json) |
 | Claymore: Gingan no Majo | 123300 | [123300-claymore-gingan-no-majo.json](./123300-claymore-gingan-no-majo.json) |
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
@@ -12138,6 +12142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congestion 384 | 273727 | [273727-congestion-384.json](./273727-congestion-384.json) |
 | Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
+| Congkakcraze | 93964 | [93964-congkakcraze.json](./93964-congkakcraze.json) |
 | Conglomerate 451 | 116593 | [116593-conglomerate-451.json](./116593-conglomerate-451.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
 | Congo | 172468 | [172468-congo.json](./172468-congo.json) |
@@ -15144,6 +15149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Otto | 32506 | [32506-crazy-otto.json](./32506-crazy-otto.json) |
 | Crazy Pancake | 206412 | [206412-crazy-pancake.json](./206412-crazy-pancake.json) |
+| Crazy Penguin Catapult | 93922 | [93922-crazy-penguin-catapult.json](./93922-crazy-penguin-catapult.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
 | Crazy Penguin Wars | 302614 | [302614-crazy-penguin-wars.json](./302614-crazy-penguin-wars.json) |
@@ -17060,6 +17066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuadro | 84444 | [84444-cuadro.json](./84444-cuadro.json) |
 | Cuana | 227879 | [227879-cuana.json](./227879-cuana.json) |
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
+| Cubage | 93924 | [93924-cubage.json](./93924-cubage.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | Cubanoids | 110923 | [110923-cubanoids.json](./110923-cubanoids.json) |
 | CuBB | 122142 | [122142-cubb.json](./122142-cubb.json) |
