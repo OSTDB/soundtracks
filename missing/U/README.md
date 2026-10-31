@@ -2524,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreally Survivors | 330786 | [330786-unreally-survivors.json](./330786-unreally-survivors.json) |
 | UnReaMod | 265333 | [265333-unreamod.json](./265333-unreamod.json) |
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
+| Unrect | 81713 | [81713-unrect.json](./81713-unrect.json) |
 | Unregret | 386243 | [386243-unregret.json](./386243-unregret.json) |
 | Unrelaxing Quacks | 244200 | [244200-unrelaxing-quacks.json](./244200-unrelaxing-quacks.json) |
 | Unreliable Bio | 163215 | [163215-unreliable-bio.json](./163215-unreliable-bio.json) |
