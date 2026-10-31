@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raids Inc. | 244851 | [244851-raids-inc.json](./244851-raids-inc.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | RaidTitans | 128910 | [128910-raidtitans.json](./128910-raidtitans.json) |
+| Raifu Wars | 123800 | [123800-raifu-wars.json](./123800-raifu-wars.json) |
 | Raifu Wars: Puska Character | 207678 | [207678-raifu-wars-puska-character.json](./207678-raifu-wars-puska-character.json) |
 | Raige | 156044 | [156044-raige.json](./156044-raige.json) |
 | Raiju: Lightning Arena | 380478 | [380478-raiju-lightning-arena.json](./380478-raiju-lightning-arena.json) |
@@ -9504,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Red Ball Rush Up Sky | 104451 | [104451-rolling-red-ball-rush-up-sky.json](./104451-rolling-red-ball-rush-up-sky.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Ronny | 12752 | [12752-rolling-ronny.json](./12752-rolling-ronny.json) |
+| Rolling Rumble | 123781 | [123781-rolling-rumble.json](./123781-rolling-rumble.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Shapes | 35214 | [35214-rolling-shapes.json](./35214-rolling-shapes.json) |
 | Rolling Sky | 57247 | [57247-rolling-sky.json](./57247-rolling-sky.json) |
