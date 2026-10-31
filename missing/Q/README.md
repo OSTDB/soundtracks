@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Basement | 178783 | [178783-quiet-basement.json](./178783-quiet-basement.json) |
 | Quiet Bruise | 406665 | [406665-quiet-bruise.json](./406665-quiet-bruise.json) |
 | Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
+| Quiet City | 82557 | [82557-quiet-city.json](./82557-quiet-city.json) |
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
 | Quiet Express: Cabin 909 | 366348 | [366348-quiet-express-cabin-909.json](./366348-quiet-express-cabin-909.json) |
 | Quiet Farm | 190450 | [190450-quiet-farm.json](./190450-quiet-farm.json) |
