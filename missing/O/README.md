@@ -3337,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
 | Optical Illusions | 282729 | [282729-optical-illusions.json](./282729-optical-illusions.json) |
 | Optical Inquisitor | 95338 | [95338-optical-inquisitor.json](./95338-optical-inquisitor.json) |
+| Opticale | 119944 | [119944-opticale.json](./119944-opticale.json) |
 | Optika | 32137 | [32137-optika.json](./32137-optika.json) |
 | Optimal Conditions for a Sacrifice | 206536 | [206536-optimal-conditions-for-a-sacrifice.json](./206536-optimal-conditions-for-a-sacrifice.json) |
 | Optimum Link | 111665 | [111665-optimum-link.json](./111665-optimum-link.json) |
