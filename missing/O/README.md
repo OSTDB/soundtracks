@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School 8-in-1 bundle | 32557 | [32557-old-school-8-in-1-bundle.json](./32557-old-school-8-in-1-bundle.json) |
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
 | Old School Horror Game : Bright Day | 125679 | [125679-old-school-horror-game-bright-day.json](./125679-old-school-horror-game-bright-day.json) |
+| Old School Maze | 122582 | [122582-old-school-maze.json](./122582-old-school-maze.json) |
 | Old School Musical: Pocket Edition | 196416 | [196416-old-school-musical-pocket-edition.json](./196416-old-school-musical-pocket-edition.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
 | Old School Racer 2 | 114053 | [114053-old-school-racer-2.json](./114053-old-school-racer-2.json) |
@@ -2690,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Onirica | 216347 | [216347-onirica.json](./216347-onirica.json) |
 | Onirical | 369358 | [369358-onirical.json](./369358-onirical.json) |
+| Onirike | 122620 | [122620-onirike.json](./122620-onirike.json) |
 | Onirike: Collector's Edition | 146124 | [146124-onirike-collectors-edition.json](./146124-onirike-collectors-edition.json) |
 | Onírillo | 302718 | [302718-onirillo.json](./302718-onirillo.json) |
 | Onirim: Crossroads and Dead Ends | 170715 | [170715-onirim-crossroads-and-dead-ends.json](./170715-onirim-crossroads-and-dead-ends.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion's Belt Expedition | 341516 | [341516-orions-belt-expedition.json](./341516-orions-belt-expedition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
 | Orion's Odyssey | 85322 | [85322-orions-odyssey.json](./85322-orions-odyssey.json) |
+| Orion13 | 123813 | [123813-orion13.json](./123813-orion13.json) |
 | Orion71 Shooter Mayhem Arena | 310838 | [310838-orion71-shooter-mayhem-arena.json](./310838-orion71-shooter-mayhem-arena.json) |
 | Orions: Legend of Wizards | 23269 | [23269-orions-legend-of-wizards.json](./23269-orions-legend-of-wizards.json) |
 | Oriontis | 354937 | [354937-oriontis.json](./354937-oriontis.json) |
