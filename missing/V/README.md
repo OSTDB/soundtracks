@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varkana | 217662 | [217662-varkana.json](./217662-varkana.json) |
 | Varkij: Dream and Nightmare | 264530 | [264530-varkij-dream-and-nightmare.json](./264530-varkij-dream-and-nightmare.json) |
 | Varkon | 95368 | [95368-varkon.json](./95368-varkon.json) |
+| Världsmästarna | 71866 | [71866-varldsmastarna.json](./71866-varldsmastarna.json) |
 | Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
 | Varlet: Digital DX Edition | 358664 | [358664-varlet-digital-dx-edition.json](./358664-varlet-digital-dx-edition.json) |
 | Varmint's Eittris | 405759 | [405759-varmints-eittris.json](./405759-varmints-eittris.json) |
