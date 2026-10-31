@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Bones | 123464 | [123464-captain-bones.json](./123464-captain-bones.json) |
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
 | Captain Buttface | 258093 | [258093-captain-buttface.json](./258093-captain-buttface.json) |
+| Captain Cat | 119294 | [119294-captain-cat.json](./119294-captain-cat.json) |
 | Captain Clive: Danger From Dione | 138413 | [138413-captain-clive-danger-from-dione.json](./138413-captain-clive-danger-from-dione.json) |
 | Captain Coffer 2D | 157474 | [157474-captain-coffer-2d.json](./157474-captain-coffer-2d.json) |
 | Captain CoinCoin | 289281 | [289281-captain-coincoin.json](./289281-captain-coincoin.json) |
@@ -9677,6 +9678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
 | Club Marian | 167031 | [167031-club-marian.json](./167031-club-marian.json) |
 | Club Naughty | 30427 | [30427-club-naughty.json](./30427-club-naughty.json) |
+| Club Nintendo Picross | 119237 | [119237-club-nintendo-picross.json](./119237-club-nintendo-picross.json) |
 | Club Nintendo Picross Plus | 165121 | [165121-club-nintendo-picross-plus.json](./165121-club-nintendo-picross-plus.json) |
 | Club of fighters | 86537 | [86537-club-of-fighters.json](./86537-club-of-fighters.json) |
 | Club Penguin | 239001 | [239001-club-penguin.json](./239001-club-penguin.json) |
@@ -15216,6 +15218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creation and Conquest: The Future War | 119499 | [119499-creation-and-conquest-the-future-war.json](./119499-creation-and-conquest-the-future-war.json) |
 | Creation of a God | 291701 | [291701-creation-of-a-god.json](./291701-creation-of-a-god.json) |
 | Creative Console | 211705 | [211705-creative-console.json](./211705-creative-console.json) |
+| Creative Contraptions | 119280 | [119280-creative-contraptions.json](./119280-creative-contraptions.json) |
 | Creative Kill Chamber | 235240 | [235240-creative-kill-chamber.json](./235240-creative-kill-chamber.json) |
 | Creative Kill Chamber 2 | 316092 | [316092-creative-kill-chamber-2.json](./316092-creative-kill-chamber-2.json) |
 | Creative Reader: The Jungle Book | 327870 | [327870-creative-reader-the-jungle-book.json](./327870-creative-reader-the-jungle-book.json) |
