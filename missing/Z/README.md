@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Land | 239089 | [239089-zombie-land.json](./239089-zombie-land.json) |
 | Zombie Lane | 143126 | [143126-zombie-lane.json](./143126-zombie-lane.json) |
 | Zombie Lane Survival | 86599 | [86599-zombie-lane-survival.json](./86599-zombie-lane-survival.json) |
+| Zombie Last Stands | 103083 | [103083-zombie-last-stands.json](./103083-zombie-last-stands.json) |
 | Zombie Legion | 302767 | [302767-zombie-legion.json](./302767-zombie-legion.json) |
 | Zombie Life | 198886 | [198886-zombie-life.json](./198886-zombie-life.json) |
 | Zombie Liminal Fishing | 347049 | [347049-zombie-liminal-fishing.json](./347049-zombie-liminal-fishing.json) |
