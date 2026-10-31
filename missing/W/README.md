@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warbox Sandbox | 204926 | [204926-warbox-sandbox.json](./204926-warbox-sandbox.json) |
 | Warbringers of Angrul | 278246 | [278246-warbringers-of-angrul.json](./278246-warbringers-of-angrul.json) |
+| WarBrokers.io | 108120 | [108120-warbrokers-io.json](./108120-warbrokers-io.json) |
 | Warbrush | 125661 | [125661-warbrush.json](./125661-warbrush.json) |
 | Warcana | 265477 | [265477-warcana.json](./265477-warcana.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
@@ -5514,6 +5515,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Voices: Episode 2 - Nowhere of Me | 65741 | [65741-winter-voices-episode-2-nowhere-of-me.json](./65741-winter-voices-episode-2-nowhere-of-me.json) |
 | Winter Voices: Episode 3 - Like a Crow on a Wire | 65740 | [65740-winter-voices-episode-3-like-a-crow-on-a-wire.json](./65740-winter-voices-episode-3-like-a-crow-on-a-wire.json) |
 | Winter Voices: Episode 4 - Amethyst Rivers | 65739 | [65739-winter-voices-episode-4-amethyst-rivers.json](./65739-winter-voices-episode-4-amethyst-rivers.json) |
+| Winter Voices: Episode 5 - Overflow | 108127 | [108127-winter-voices-episode-5-overflow.json](./108127-winter-voices-episode-5-overflow.json) |
+| Winter Voices: Episode 6 - Falls | 108128 | [108128-winter-voices-episode-6-falls.json](./108128-winter-voices-episode-6-falls.json) |
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
@@ -5817,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
 | Witch's Library | 277119 | [277119-witchs-library.json](./277119-witchs-library.json) |
 | Witch's Mystery | 215654 | [215654-witchs-mystery.json](./215654-witchs-mystery.json) |
+| Witch's Pranks: Frog's Fortune | 108126 | [108126-witchs-pranks-frogs-fortune.json](./108126-witchs-pranks-frogs-fortune.json) |
 | Witch's Pranks: Frog's Fortune - Collector's Edition | 35929 | [35929-witchs-pranks-frogs-fortune-collectors-edition.json](./35929-witchs-pranks-frogs-fortune-collectors-edition.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
 | Witch's Rhythm Puzzle | 244594 | [244594-witchs-rhythm-puzzle.json](./244594-witchs-rhythm-puzzle.json) |
