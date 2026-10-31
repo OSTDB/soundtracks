@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Retro Dungeon Puzzle Challenge | 100567 | [100567-3d-retro-dungeon-puzzle-challenge.json](./100567-3d-retro-dungeon-puzzle-challenge.json) |
 | 3D Reversi | 54936 | [54936-3d-reversi.json](./54936-3d-reversi.json) |
 | 3D Rollercoaster Rush | 133916 | [133916-3d-rollercoaster-rush.json](./133916-3d-rollercoaster-rush.json) |
+| 3D Scooter Racing | 92790 | [92790-3d-scooter-racing.json](./92790-3d-scooter-racing.json) |
 | 3D Seiddab Attack | 28477 | [28477-3d-seiddab-attack.json](./28477-3d-seiddab-attack.json) |
 | 3D Shooting Tsukuuru | 60581 | [60581-3d-shooting-tsukuuru.json](./60581-3d-shooting-tsukuuru.json) |
 | 3D Skills Start Here | 293101 | [293101-3d-skills-start-here.json](./293101-3d-skills-start-here.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5-in-1 Bundle Brain Trainings | 84133 | [84133-5-in-1-bundle-brain-trainings.json](./84133-5-in-1-bundle-brain-trainings.json) |
 | 5-in-1 Fami Collection: NES Collection Nr 1 | 37644 | [37644-5-in-1-fami-collection-nes-collection-nr-1.json](./37644-5-in-1-fami-collection-nes-collection-nr-1.json) |
 | 5-kyuu kara 1-kyuu Kanzen Taiou Saishin Kako Mondai: Nijishiken Taisaku - Eiken Kanzenban | 269536 | [269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json](./269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json) |
+| 5-Letter-Kruiswoord | 92793 | [92793-5-letter-kruiswoord.json](./92793-5-letter-kruiswoord.json) |
 | 5-Minute Maid | 392314 | [392314-5-minute-maid.json](./392314-5-minute-maid.json) |
 | 5-Nen Kanji Keisan Nigate Hunter DS | 269537 | [269537-5-nen-kanji-keisan-nigate-hunter-ds.json](./269537-5-nen-kanji-keisan-nigate-hunter-ds.json) |
 | 5-Star | 298942 | [298942-5-star.json](./298942-5-star.json) |
@@ -3111,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9-nine-: Episode 4 | 144885 | [144885-9-nine-episode-4.json](./144885-9-nine-episode-4.json) |
 | 9: The Dark Side of Notre Dame | 63776 | [63776-9-the-dark-side-of-notre-dame.json](./63776-9-the-dark-side-of-notre-dame.json) |
 | 9: The Dark Side of Notre Dame - Collector's Edition | 416852 | [416852-9-the-dark-side-of-notre-dame-collectors-edition.json](./416852-9-the-dark-side-of-notre-dame-collectors-edition.json) |
+| 9: The Last Resort | 92783 | [92783-9-the-last-resort.json](./92783-9-the-last-resort.json) |
 | 9:05 | 204205 | [204205-9-05.json](./204205-9-05.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
 | 9.03m | 16837 | [16837-9-03m.json](./16837-9-03m.json) |
