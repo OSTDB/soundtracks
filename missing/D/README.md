@@ -4418,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deber | 294931 | [294931-deber.json](./294931-deber.json) |
 | Debie Zone | 165894 | [165894-debie-zone.json](./165894-debie-zone.json) |
 | Debilitating Dream | 312596 | [312596-debilitating-dream.json](./312596-debilitating-dream.json) |
+| DebloX | 92804 | [92804-deblox.json](./92804-deblox.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Debris | 151854 | [151854-debris.json](./151854-debris.json) |
