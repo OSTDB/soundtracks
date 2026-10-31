@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Impact | 157112 | [157112-waifu-impact.json](./157112-waifu-impact.json) |
 | Waifu Impact 2 | 321542 | [321542-waifu-impact-2.json](./321542-waifu-impact-2.json) |
 | Waifu Love | 161410 | [161410-waifu-love.json](./161410-waifu-love.json) |
+| Waifu Master | 105652 | [105652-waifu-master.json](./105652-waifu-master.json) |
 | Waifu Match! | 393437 | [393437-waifu-match.json](./393437-waifu-match.json) |
 | Waifu Museum | 223162 | [223162-waifu-museum.json](./223162-waifu-museum.json) |
 | Waifu or Laifu | 243750 | [243750-waifu-or-laifu.json](./243750-waifu-or-laifu.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpZone vs. The Dimension | 122148 | [122148-warpzone-vs-the-dimension.json](./122148-warpzone-vs-the-dimension.json) |
 | Warraff Online | 417397 | [417397-warraff-online.json](./417397-warraff-online.json) |
 | Warranty Man | 338397 | [338397-warranty-man.json](./338397-warranty-man.json) |
+| Warrecs | 105626 | [105626-warrecs.json](./105626-warrecs.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warrens Of Random | 389614 | [389614-warrens-of-random.json](./389614-warrens-of-random.json) |
 | Warrented Humanity | 351170 | [351170-warrented-humanity.json](./351170-warrented-humanity.json) |
@@ -3292,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
 | Wetware | 62828 | [62828-wetware.json](./62828-wetware.json) |
+| Wetwork | 105636 | [105636-wetwork.json](./105636-wetwork.json) |
 | Wex | 415847 | [415847-wex.json](./415847-wex.json) |
 | Wexew Mexem | 253783 | [253783-wexew-mexem.json](./253783-wexew-mexem.json) |
 | Weyrdlets: Fishing & Friends - Summer Update | 347863 | [347863-weyrdlets-fishing-and-friends-summer-update.json](./347863-weyrdlets-fishing-and-friends-summer-update.json) |
