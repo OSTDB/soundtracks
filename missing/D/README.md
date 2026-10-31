@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: DLC Bundle | 227112 | [227112-darksiders-iii-dlc-bundle.json](./227112-darksiders-iii-dlc-bundle.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
 | Darksiders: Fury's Collection - War and Death | 28408 | [28408-darksiders-furys-collection-war-and-death.json](./28408-darksiders-furys-collection-war-and-death.json) |
+| Darksiders: Genesis - Nephilim Edition | 121201 | [121201-darksiders-genesis-nephilim-edition.json](./121201-darksiders-genesis-nephilim-edition.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
 | Darksong Chronicles | 107604 | [107604-darksong-chronicles.json](./107604-darksong-chronicles.json) |
 | DarkSpace | 209027 | [209027-darkspace.json](./209027-darkspace.json) |
@@ -8823,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: Noir City | 293521 | [293521-diorama-builder-noir-city.json](./293521-diorama-builder-noir-city.json) |
 | Diorama Builder: Secret Bunker | 357156 | [357156-diorama-builder-secret-bunker.json](./357156-diorama-builder-secret-bunker.json) |
 | Diorama Builder: The Museum | 357154 | [357154-diorama-builder-the-museum.json](./357154-diorama-builder-the-museum.json) |
+| Diorama Detective | 121252 | [121252-diorama-detective.json](./121252-diorama-detective.json) |
 | Diorama Drift | 296897 | [296897-diorama-drift.json](./296897-diorama-drift.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Diorama No.1 - Blocked In | 33799 | [33799-diorama-no-1-blocked-in.json](./33799-diorama-no-1-blocked-in.json) |
@@ -9879,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
+| Divine Grimoire | 121205 | [121205-divine-grimoire.json](./121205-divine-grimoire.json) |
 | Divine Guardian | 260874 | [260874-divine-guardian.json](./260874-divine-guardian.json) |
 | Divine Heart Karen SP Season 2: Nari Henshin Heroine Crisis! | 80492 | [80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json](./80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json) |
 | Divine Heart Machina Gaiden 04 ~Onna Kanbu Toujoku Hen~ | 59083 | [59083-divine-heart-machina-gaiden-04-onna-kanbu-toujoku-hen.json](./59083-divine-heart-machina-gaiden-04-onna-kanbu-toujoku-hen.json) |
@@ -13411,6 +13414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Girl | 328416 | [328416-dragon-girl.json](./328416-dragon-girl.json) |
 | Dragon Glory | 68571 | [68571-dragon-glory.json](./68571-dragon-glory.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
+| Dragon Guide | 121182 | [121182-dragon-guide.json](./121182-dragon-guide.json) |
 | Dragon Half | 37635 | [37635-dragon-half.json](./37635-dragon-half.json) |
 | Dragon Heartburn | 310280 | [310280-dragon-heartburn.json](./310280-dragon-heartburn.json) |
 | Dragon Heroes Tactics | 175709 | [175709-dragon-heroes-tactics.json](./175709-dragon-heroes-tactics.json) |
@@ -13743,6 +13747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Chronicles: Ankoku Daimaou to Hokuto no Tsurugi | 362167 | [362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json](./362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json) |
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
+| Dragon's Crown Pro: Battle-Hardened Edition | 121206 | [121206-dragons-crown-pro-battle-hardened-edition.json](./121206-dragons-crown-pro-battle-hardened-edition.json) |
 | Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
 | Dragon's Curse | 210526 | [210526-dragons-curse.json](./210526-dragons-curse.json) |
 | Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
