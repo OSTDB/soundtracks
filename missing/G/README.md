@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Challenge | 342252 | [342252-geo-challenge.json](./342252-geo-challenge.json) |
 | Geo Composer | 89788 | [89788-geo-composer.json](./89788-geo-composer.json) |
+| Geo Fall | 88714 | [88714-geo-fall.json](./88714-geo-fall.json) |
 | Geo Fighter | 140270 | [140270-geo-fighter.json](./140270-geo-fighter.json) |
 | Geo Gods | 257471 | [257471-geo-gods.json](./257471-geo-gods.json) |
 | Geo IQ World Master | 381915 | [381915-geo-iq-world-master.json](./381915-geo-iq-world-master.json) |
@@ -6161,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gomoku | 274865 | [274865-gomoku.json](./274865-gomoku.json) |
 | Gomoku | 413065 | [413065-gomoku.json](./413065-gomoku.json) |
+| Gomoku | 88700 | [88700-gomoku.json](./88700-gomoku.json) |
 | Gomoku and Renju | 44350 | [44350-gomoku-and-renju.json](./44350-gomoku-and-renju.json) |
 | Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
