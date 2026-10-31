@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I.ttorney | 389529 | [389529-a-i-ttorney.json](./389529-a-i-ttorney.json) |
 | A.IV Evolution: Hatsubai Kinen Gentei Set | 307056 | [307056-a-iv-evolution-hatsubai-kinen-gentei-set.json](./307056-a-iv-evolution-hatsubai-kinen-gentei-set.json) |
 | A.J.'s World of Discovery | 73176 | [73176-a-j-s-world-of-discovery.json](./73176-a-j-s-world-of-discovery.json) |
+| A.L.A.N. | 76272 | [76272-a-l-a-n.json](./76272-a-l-a-n.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
 | A.L.B. | 165906 | [165906-a-l-b.json](./165906-a-l-b.json) |
 | A.L.I.G.N.E.D | 317168 | [317168-a-l-i-g-n-e-d.json](./317168-a-l-i-g-n-e-d.json) |
@@ -1866,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrupt Valley | 261745 | [261745-abrupt-valley.json](./261745-abrupt-valley.json) |
 | Abs vs. The Blood Queen | 138636 | [138636-abs-vs-the-blood-queen.json](./138636-abs-vs-the-blood-queen.json) |
 | Abscam | 247331 | [247331-abscam.json](./247331-abscam.json) |
+| Abscond | 76345 | [76345-abscond.json](./76345-abscond.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
@@ -3815,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Africa Corps Desert Storm 1941-1943 | 52362 | [52362-africa-corps-desert-storm-1941-1943.json](./52362-africa-corps-desert-storm-1941-1943.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
+| Africa Hunting | 76293 | [76293-africa-hunting.json](./76293-africa-hunting.json) |
 | Africa Wild | 90443 | [90443-africa-wild.json](./90443-africa-wild.json) |
 | African Adventure | 80804 | [80804-african-adventure.json](./80804-african-adventure.json) |
 | African Adventure: In Search of Dr. Livingston | 366265 | [366265-african-adventure-in-search-of-dr-livingston.json](./366265-african-adventure-in-search-of-dr-livingston.json) |
@@ -6251,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Phobia | 18481 | [18481-alien-phobia.json](./18481-alien-phobia.json) |
 | Alien Planet | 308337 | [308337-alien-planet.json](./308337-alien-planet.json) |
+| Alien Planet | 76279 | [76279-alien-planet.json](./76279-alien-planet.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Planet Explorer | 147191 | [147191-alien-planet-explorer.json](./147191-alien-planet-explorer.json) |
 | Alien Planet Survival | 241779 | [241779-alien-planet-survival.json](./241779-alien-planet-survival.json) |
@@ -6531,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All City King | 293081 | [293081-all-city-king.json](./293081-all-city-king.json) |
 | All Contact Lost | 68590 | [68590-all-contact-lost.json](./68590-all-contact-lost.json) |
 | All Cossacks and American Conquest | 144965 | [144965-all-cossacks-and-american-conquest.json](./144965-all-cossacks-and-american-conquest.json) |
+| All Cows In | 76335 | [76335-all-cows-in.json](./76335-all-cows-in.json) |
 | All Day Dying: Redux Edition | 229129 | [229129-all-day-dying-redux-edition.json](./229129-all-day-dying-redux-edition.json) |
 | All Day Nippon | 241880 | [241880-all-day-nippon.json](./241880-all-day-nippon.json) |
 | All Doe's Life | 301283 | [301283-all-does-life.json](./301283-all-does-life.json) |
@@ -8554,6 +8559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Helipad | 123465 | [123465-android-helipad.json](./123465-android-helipad.json) |
 | Android Hunter A | 23852 | [23852-android-hunter-a.json](./23852-android-hunter-a.json) |
 | Android John | 32276 | [32276-android-john.json](./32276-android-john.json) |
+| Android John 2.1 | 76339 | [76339-android-john-2-1.json](./76339-android-john-2-1.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Android Simulator | 203753 | [203753-android-simulator.json](./203753-android-simulator.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
@@ -10138,6 +10144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antistar: Rising | 315680 | [315680-antistar-rising.json](./315680-antistar-rising.json) |
 | Antistatic | 114215 | [114215-antistatic.json](./114215-antistatic.json) |
 | Antisuns | 303339 | [303339-antisuns.json](./303339-antisuns.json) |
+| Antiterror Strike | 76338 | [76338-antiterror-strike.json](./76338-antiterror-strike.json) |
 | Antitetrise | 111427 | [111427-antitetrise.json](./111427-antitetrise.json) |
 | Antithesis | 164885 | [164885-antithesis.json](./164885-antithesis.json) |
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
@@ -10727,6 +10734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
 | AppleSnake: Halloween Adventures | 84056 | [84056-applesnake-halloween-adventures.json](./84056-applesnake-halloween-adventures.json) |
+| AppleSnake2 | 76308 | [76308-applesnake2.json](./76308-applesnake2.json) |
 | Applesnatch! | 308307 | [308307-applesnatch.json](./308307-applesnatch.json) |
 | Applewood | 120599 | [120599-applewood.json](./120599-applewood.json) |
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
@@ -13010,6 +13018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrowmancer | 176690 | [176690-arrowmancer.json](./176690-arrowmancer.json) |
 | Arrowmania | 284355 | [284355-arrowmania.json](./284355-arrowmania.json) |
 | ArrowMongers | 240808 | [240808-arrowmongers.json](./240808-arrowmongers.json) |
+| Arrowpoint | 76304 | [76304-arrowpoint.json](./76304-arrowpoint.json) |
 | Arrows | 189337 | [189337-arrows.json](./189337-arrows.json) |
 | Arrows and Antiquity | 274377 | [274377-arrows-and-antiquity.json](./274377-arrows-and-antiquity.json) |
 | Arrows Left | 242505 | [242505-arrows-left.json](./242505-arrows-left.json) |
@@ -14728,6 +14737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
 | Asuka-san ha Nabikanai | 251635 | [251635-asuka-san-ha-nabikanai.json](./251635-asuka-san-ha-nabikanai.json) |
 | Asuka: The Ascent | 340840 | [340840-asuka-the-ascent.json](./340840-asuka-the-ascent.json) |
+| Asunder | 76283 | [76283-asunder.json](./76283-asunder.json) |
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
 | Asura | 28158 | [28158-asura.json](./28158-asura.json) |
 | Asura Blade: Sword of Dynasty | 38514 | [38514-asura-blade-sword-of-dynasty.json](./38514-asura-blade-sword-of-dynasty.json) |
