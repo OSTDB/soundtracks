@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feditor | 390550 | [390550-feditor.json](./390550-feditor.json) |
 | Fedora Spade: Death Wears a Fedora | 72296 | [72296-fedora-spade-death-wears-a-fedora.json](./72296-fedora-spade-death-wears-a-fedora.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
+| Fedora Spade: The Red Ring | 73428 | [73428-fedora-spade-the-red-ring.json](./73428-fedora-spade-the-red-ring.json) |
 | Fedya Mod | 394099 | [394099-fedya-mod.json](./394099-fedya-mod.json) |
 | Fee Payment & Cigarettes | 406282 | [406282-fee-payment-and-cigarettes.json](./406282-fee-payment-and-cigarettes.json) |
 | FeeBay Simulator | 404510 | [404510-feebay-simulator.json](./404510-feebay-simulator.json) |
