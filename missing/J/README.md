@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 4 | 47746 | [47746-jikkyou-pawafuru-puroyakyu-4.json](./47746-jikkyou-pawafuru-puroyakyu-4.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikkyou Pawafuru Puroyakyu 6 | 136734 | [136734-jikkyou-pawafuru-puroyakyu-6.json](./136734-jikkyou-pawafuru-puroyakyu-6.json) |
+| Jikkyou Pawafuru Puroyakyu 7 | 78876 | [78876-jikkyou-pawafuru-puroyakyu-7.json](./78876-jikkyou-pawafuru-puroyakyu-7.json) |
 | Jikkyou Pawafuru Puroyakyu 7: Kettei-ban | 229541 | [229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json](./229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 8 | 74702 | [74702-jikkyou-pawafuru-puroyakyu-8.json](./74702-jikkyou-pawafuru-puroyakyu-8.json) |
 | Jikkyou Pawafuru Puroyakyu 8: Kettei-ban | 229543 | [229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json](./229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json) |
@@ -1954,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jǐn Nǐ Yī Rén | 373712 | [373712-jin-ni-yi-ren.json](./373712-jin-ni-yi-ren.json) |
 | Jin Ping Mei | 303592 | [303592-jin-ping-mei.json](./303592-jin-ping-mei.json) |
 | Jìn Shì Shū | 373705 | [373705-jin-shi-shu.json](./373705-jin-shi-shu.json) |
+| Jin Yōng Kuài Dǎ | 79005 | [79005-jin-yong-kuai-da.json](./79005-jin-yong-kuai-da.json) |
 | Jinagan | 378610 | [378610-jinagan.json](./378610-jinagan.json) |
 | Jīnchǎnchǎn zhī Zhàn | 279168 | [279168-jinchanchan-zhi-zhan.json](./279168-jinchanchan-zhi-zhan.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
