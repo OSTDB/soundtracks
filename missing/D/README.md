@@ -4472,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay | 189966 | [189966-decay.json](./189966-decay.json) |
 | Decay | 254575 | [254575-decay.json](./254575-decay.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
+| Decay - Part 3 | 92220 | [92220-decay-part-3.json](./92220-decay-part-3.json) |
 | Decay in Crevice | 358621 | [358621-decay-in-crevice.json](./358621-decay-in-crevice.json) |
 | Decay of Logos | 56510 | [56510-decay-of-logos.json](./56510-decay-of-logos.json) |
 | Decay of Opulence | 318128 | [318128-decay-of-opulence.json](./318128-decay-of-opulence.json) |
