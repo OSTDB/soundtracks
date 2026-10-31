@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk in the Night | 372244 | [372244-a-walk-in-the-night.json](./372244-a-walk-in-the-night.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
 | A Walk in the Park | 312860 | [312860-a-walk-in-the-park.json](./312860-a-walk-in-the-park.json) |
+| A Walk in the Park | 70829 | [70829-a-walk-in-the-park.json](./70829-a-walk-in-the-park.json) |
 | A Walk in the Woods | 99117 | [99117-a-walk-in-the-woods.json](./99117-a-walk-in-the-woods.json) |
 | A Walk in the Woods: VR | 133888 | [133888-a-walk-in-the-woods-vr.json](./133888-a-walk-in-the-woods-vr.json) |
 | A Walk of Surrender | 183258 | [183258-a-walk-of-surrender.json](./183258-a-walk-of-surrender.json) |
