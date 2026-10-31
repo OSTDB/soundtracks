@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
 | Idol Manager: Virtual Venture | 401008 | [401008-idol-manager-virtual-venture.json](./401008-idol-manager-virtual-venture.json) |
+| Idol Masters | 110012 | [110012-idol-masters.json](./110012-idol-masters.json) |
 | Idol Party II | 372253 | [372253-idol-party-ii.json](./372253-idol-party-ii.json) |
 | Idol Planet | 297013 | [297013-idol-planet.json](./297013-idol-planet.json) |
 | Idol Project | 283713 | [283713-idol-project.json](./283713-idol-project.json) |
