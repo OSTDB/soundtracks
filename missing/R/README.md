@@ -5542,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
 | Retro Ride | 196982 | [196982-retro-ride.json](./196982-retro-ride.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
+| Retro Rocket Robot | 97081 | [97081-retro-rocket-robot.json](./97081-retro-rocket-robot.json) |
 | Retro Rollers Bundle | 254076 | [254076-retro-rollers-bundle.json](./254076-retro-rollers-bundle.json) |
 | Retro Royale | 112262 | [112262-retro-royale.json](./112262-retro-royale.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
