@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
 | Karl Boom | 126519 | [126519-karl-boom.json](./126519-karl-boom.json) |
 | Karl Marx and the Ring of Communism | 217367 | [217367-karl-marx-and-the-ring-of-communism.json](./217367-karl-marx-and-the-ring-of-communism.json) |
+| Karl Quappe | 117298 | [117298-karl-quappe.json](./117298-karl-quappe.json) |
 | Karl's Kooky Warehouse | 190346 | [190346-karls-kooky-warehouse.json](./190346-karls-kooky-warehouse.json) |
 | Karl's Tiny Adventure | 58505 | [58505-karls-tiny-adventure.json](./58505-karls-tiny-adventure.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
@@ -2541,7 +2542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5466,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Jesus and the Search for Celestial Gold | 122254 | [122254-kung-fu-jesus-and-the-search-for-celestial-gold.json](./122254-kung-fu-jesus-and-the-search-for-celestial-gold.json) |
 | Kung Fu Jumpu | 200303 | [200303-kung-fu-jumpu.json](./200303-kung-fu-jumpu.json) |
 | Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
+| Kung Fu Legend | 117344 | [117344-kung-fu-legend.json](./117344-kung-fu-legend.json) |
 | Kung Fu Panda | 320387 | [320387-kung-fu-panda.json](./320387-kung-fu-panda.json) |
 | Kung Fu Panda | 4964 | [4964-kung-fu-panda.json](./4964-kung-fu-panda.json) |
 | Kung Fu Panda 2 | 200906 | [200906-kung-fu-panda-2.json](./200906-kung-fu-panda-2.json) |
