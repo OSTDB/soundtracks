@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SafeGuard | 195542 | [195542-safeguard.json](./195542-safeguard.json) |
 | Safehouse | 232934 | [232934-safehouse.json](./232934-safehouse.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
+| Safetopia | 74836 | [74836-safetopia.json](./74836-safetopia.json) |
 | Safety | 212775 | [212775-safety.json](./212775-safety.json) |
 | Safety Corp. VR | 329094 | [329094-safety-corp-vr.json](./329094-safety-corp-vr.json) |
 | Safety Driving - The Motorbike Simulation | 54351 | [54351-safety-driving-the-motorbike-simulation.json](./54351-safety-driving-the-motorbike-simulation.json) |
@@ -18258,6 +18259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Racer | 197698 | [197698-space-station-racer.json](./197698-space-station-racer.json) |
 | Space Station Silicon Valley | 134275 | [134275-space-station-silicon-valley.json](./134275-space-station-silicon-valley.json) |
 | Space Station Silicon Valley | 3602 | [3602-space-station-silicon-valley.json](./3602-space-station-silicon-valley.json) |
+| Space Station Simulator | 74832 | [74832-space-station-simulator.json](./74832-space-station-simulator.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
 | Space Station Tycoon | 165282 | [165282-space-station-tycoon.json](./165282-space-station-tycoon.json) |
 | Space Station: Frontier | 233545 | [233545-space-station-frontier.json](./233545-space-station-frontier.json) |
@@ -20536,6 +20538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Spins: Remastered - Steam Edition | 128257 | [128257-spooky-spins-remastered-steam-edition.json](./128257-spooky-spins-remastered-steam-edition.json) |
 | Spooky Spirit Shooting Gallery | 227613 | [227613-spooky-spirit-shooting-gallery.json](./227613-spooky-spirit-shooting-gallery.json) |
 | Spooky Spirits | 91573 | [91573-spooky-spirits.json](./91573-spooky-spirits.json) |
+| Spooky Spotlight | 74809 | [74809-spooky-spotlight.json](./74809-spooky-spotlight.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
 | Spooky Starlets | 120692 | [120692-spooky-starlets.json](./120692-spooky-starlets.json) |
 | Spooky Station | 122836 | [122836-spooky-station.json](./122836-spooky-station.json) |
@@ -21180,6 +21183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square's Route | 33390 | [33390-squares-route.json](./33390-squares-route.json) |
 | Square's Tom Sawyer | 73518 | [73518-squares-tom-sawyer.json](./73518-squares-tom-sawyer.json) |
 | Squareball | 67212 | [67212-squareball.json](./67212-squareball.json) |
+| Squareboy vs Bullies | 74815 | [74815-squareboy-vs-bullies.json](./74815-squareboy-vs-bullies.json) |
 | Squareboy vs Bullies: Arena Edition | 75345 | [75345-squareboy-vs-bullies-arena-edition.json](./75345-squareboy-vs-bullies-arena-edition.json) |
 | SquareCells | 25209 | [25209-squarecells.json](./25209-squarecells.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
@@ -24598,6 +24602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Hearts: Wolf Knight | 285860 | [285860-stolen-hearts-wolf-knight.json](./285860-stolen-hearts-wolf-knight.json) |
 | Stolen Life | 338615 | [338615-stolen-life.json](./338615-stolen-life.json) |
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
+| Stolen Mouth | 74660 | [74660-stolen-mouth.json](./74660-stolen-mouth.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | Stolen Rage | 149394 | [149394-stolen-rage.json](./149394-stolen-rage.json) |
 | Stolen Realm | 140445 | [140445-stolen-realm.json](./140445-stolen-realm.json) |
