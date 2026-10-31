@@ -6450,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Mania | 49073 | [49073-pinball-mania.json](./49073-pinball-mania.json) |
 | Pinball Mania Plus | 314912 | [314912-pinball-mania-plus.json](./314912-pinball-mania-plus.json) |
 | Pinball Maniacs | 253262 | [253262-pinball-maniacs.json](./253262-pinball-maniacs.json) |
+| Pinball Massacre | 88728 | [88728-pinball-massacre.json](./88728-pinball-massacre.json) |
 | Pinball Master | 209959 | [209959-pinball-master.json](./209959-pinball-master.json) |
 | Pinball Masters | 295324 | [295324-pinball-masters.json](./295324-pinball-masters.json) |
 | Pinball Neon | 349214 | [349214-pinball-neon.json](./349214-pinball-neon.json) |
@@ -6566,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Cup | 247065 | [247065-ping-pong-cup.json](./247065-ping-pong-cup.json) |
 | Ping Pong Deluxe | 261132 | [261132-ping-pong-deluxe.json](./261132-ping-pong-deluxe.json) |
 | Ping Pong Fury | 154864 | [154864-ping-pong-fury.json](./154864-ping-pong-fury.json) |
+| Ping Pong HD | 88699 | [88699-ping-pong-hd.json](./88699-ping-pong-hd.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
 | Ping Pong Master | 108225 | [108225-ping-pong-master.json](./108225-ping-pong-master.json) |
 | Ping Pong Masters '93 | 65412 | [65412-ping-pong-masters-93.json](./65412-ping-pong-masters-93.json) |
@@ -8253,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Attack | 204155 | [204155-plane-attack.json](./204155-plane-attack.json) |
 | Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
+| Plane Control | 88689 | [88689-plane-control.json](./88689-plane-control.json) |
 | Plane Destroyer | 329627 | [329627-plane-destroyer.json](./329627-plane-destroyer.json) |
 | Plane Flight Simulator | 380171 | [380171-plane-flight-simulator.json](./380171-plane-flight-simulator.json) |
 | Plane Graveyard Simulator | 315337 | [315337-plane-graveyard-simulator.json](./315337-plane-graveyard-simulator.json) |
@@ -13957,6 +13960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Production City | 415009 | [415009-production-city.json](./415009-production-city.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Production Sound | 91161 | [91161-production-sound.json](./91161-production-sound.json) |
+| Proelia 2 | 88705 | [88705-proelia-2.json](./88705-proelia-2.json) |
 | Proelium | 110745 | [110745-proelium.json](./110745-proelium.json) |
 | Prof. Miyamoto's Soroban & Flash Anzan | 244825 | [244825-prof-miyamotos-soroban-and-flash-anzan.json](./244825-prof-miyamotos-soroban-and-flash-anzan.json) |
 | Profana | 373825 | [373825-profana.json](./373825-profana.json) |
