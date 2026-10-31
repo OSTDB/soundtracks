@@ -3881,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Zombies 2 | 93551 | [93551-tequila-zombies-2.json](./93551-tequila-zombies-2.json) |
 | Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
 | Tera | 7533 | [7533-tera.json](./7533-tera.json) |
+| Tera Origin | 117283 | [117283-tera-origin.json](./117283-tera-origin.json) |
 | Tera-Turbine | 184735 | [184735-tera-turbine.json](./184735-tera-turbine.json) |
 | Tera: La Cité des Crânes | 356857 | [356857-tera-la-cite-des-cranes.json](./356857-tera-la-cite-des-cranes.json) |
 | Terabey: The Room Builder | 183291 | [183291-terabey-the-room-builder.json](./183291-terabey-the-room-builder.json) |
@@ -12987,6 +12988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Note | 26518 | [26518-the-note.json](./26518-the-note.json) |
 | The Note of Red Evil | 367834 | [367834-the-note-of-red-evil.json](./367834-the-note-of-red-evil.json) |
+| The Nothing | 117285 | [117285-the-nothing.json](./117285-the-nothing.json) |
 | The Nothing | 44211 | [44211-the-nothing.json](./44211-the-nothing.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
@@ -13366,6 +13368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peak Climb VR | 215734 | [215734-the-peak-climb-vr.json](./215734-the-peak-climb-vr.json) |
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
 | The Peephole's Chronicles: Weird John | 150030 | [150030-the-peepholes-chronicles-weird-john.json](./150030-the-peepholes-chronicles-weird-john.json) |
+| The Pegasus Dream Tour | 117304 | [117304-the-pegasus-dream-tour.json](./117304-the-pegasus-dream-tour.json) |
 | The Pegasus Expedition: Grand Admiral Edition | 254413 | [254413-the-pegasus-expedition-grand-admiral-edition.json](./254413-the-pegasus-expedition-grand-admiral-edition.json) |
 | The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
 | The Pencil is cast! | 223272 | [223272-the-pencil-is-cast.json](./223272-the-pencil-is-cast.json) |
@@ -17029,6 +17032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of the Tiger | 26463 | [26463-the-way-of-the-tiger.json](./26463-the-way-of-the-tiger.json) |
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
+| The Way of Wrath | 117329 | [117329-the-way-of-wrath.json](./117329-the-way-of-wrath.json) |
 | The Way Remastered | 96202 | [96202-the-way-remastered.json](./96202-the-way-remastered.json) |
 | The Way The Gingerbread Cookie Crumbles | 311027 | [311027-the-way-the-gingerbread-cookie-crumbles.json](./311027-the-way-the-gingerbread-cookie-crumbles.json) |
 | The Way to Defeat the Archfiend | 87974 | [87974-the-way-to-defeat-the-archfiend.json](./87974-the-way-to-defeat-the-archfiend.json) |
@@ -20739,6 +20743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Lock VR 2 | 242138 | [242138-time-lock-vr-2.json](./242138-time-lock-vr-2.json) |
 | Time Locker | 58145 | [58145-time-locker.json](./58145-time-locker.json) |
 | Time Loop | 276590 | [276590-time-loop.json](./276590-time-loop.json) |
+| Time Loop Fighter | 117331 | [117331-time-loop-fighter.json](./117331-time-loop-fighter.json) |
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
 | Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
@@ -27165,6 +27170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Raccoon | 410864 | [410864-trash-raccoon.json](./410864-trash-raccoon.json) |
+| Trash Rage | 117343 | [117343-trash-rage.json](./117343-trash-rage.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Sorter Simulator | 365042 | [365042-trash-sorter-simulator.json](./365042-trash-sorter-simulator.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
