@@ -2608,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
 | Carrera Power Slide | 49308 | [49308-carrera-power-slide.json](./49308-carrera-power-slide.json) |
 | Carrera: Grand Prix | 146607 | [146607-carrera-grand-prix.json](./146607-carrera-grand-prix.json) |
+| Carreras de Velocidad | 115980 | [115980-carreras-de-velocidad.json](./115980-carreras-de-velocidad.json) |
 | Carreta Furacão: The Legend | 253742 | [253742-carreta-furacao-the-legend.json](./253742-carreta-furacao-the-legend.json) |
 | Carriages | 420477 | [420477-carriages.json](./420477-carriages.json) |
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
@@ -14685,6 +14686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash'em Derby | 139207 | [139207-crashem-derby.json](./139207-crashem-derby.json) |
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
+| CrashCourse VR | 115975 | [115975-crashcourse-vr.json](./115975-crashcourse-vr.json) |
 | CrashCrafter | 237597 | [237597-crashcrafter.json](./237597-crashcrafter.json) |
 | Crashday | 22516 | [22516-crashday.json](./22516-crashday.json) |
 | Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
@@ -17250,6 +17252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubical | 408745 | [408745-cubical.json](./408745-cubical.json) |
 | Cubicatch | 273809 | [273809-cubicatch.json](./273809-cubicatch.json) |
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
+| Cubicity: Slide puzzle | 115947 | [115947-cubicity-slide-puzzle.json](./115947-cubicity-slide-puzzle.json) |
 | Cubicle Farter | 296863 | [296863-cubicle-farter.json](./296863-cubicle-farter.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | Cubicle Simulator | 185296 | [185296-cubicle-simulator.json](./185296-cubicle-simulator.json) |
