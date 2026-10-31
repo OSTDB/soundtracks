@@ -4971,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
 | Matchmaking Inc. | 328921 | [328921-matchmaking-inc.json](./328921-matchmaking-inc.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
+| MatchMVP | 114651 | [114651-matchmvp.json](./114651-matchmvp.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Matchpoint: Tennis Championships - Legends DLC | 227316 | [227316-matchpoint-tennis-championships-legends-dlc.json](./227316-matchpoint-tennis-championships-legends-dlc.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
@@ -15366,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morpheus | 398019 | [398019-morpheus.json](./398019-morpheus.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
 | Morpheus | 73460 | [73460-morpheus.json](./73460-morpheus.json) |
+| Morphic Puzzle | 114636 | [114636-morphic-puzzle.json](./114636-morphic-puzzle.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
 | Morphing | 335215 | [335215-morphing.json](./335215-morphing.json) |
