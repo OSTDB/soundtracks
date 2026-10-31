@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namariel Legends: Iron Lord - Collector's Edition | 251484 | [251484-namariel-legends-iron-lord-collectors-edition.json](./251484-namariel-legends-iron-lord-collectors-edition.json) |
 | Namariel Legends: Iron Lord - Premium Edition | 36273 | [36273-namariel-legends-iron-lord-premium-edition.json](./36273-namariel-legends-iron-lord-premium-edition.json) |
 | Namaste Virtual Yoga Retreat | 81684 | [81684-namaste-virtual-yoga-retreat.json](./81684-namaste-virtual-yoga-retreat.json) |
+| Nambers | 101900 | [101900-nambers.json](./101900-nambers.json) |
 | Nambers Level Pack | 409245 | [409245-nambers-level-pack.json](./409245-nambers-level-pack.json) |
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
@@ -3218,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton's Cradle Puzzle Game | 147713 | [147713-newtons-cradle-puzzle-game.json](./147713-newtons-cradle-puzzle-game.json) |
 | Newton's Fourth Law | 328859 | [328859-newtons-fourth-law.json](./328859-newtons-fourth-law.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
+| Newton's Law | 101895 | [101895-newtons-law.json](./101895-newtons-law.json) |
 | Newton's Life at Home: Pixel Art Jigsaw Puzzle | 162219 | [162219-newtons-life-at-home-pixel-art-jigsaw-puzzle.json](./162219-newtons-life-at-home-pixel-art-jigsaw-puzzle.json) |
 | Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
 | Newtonian Horror | 184486 | [184486-newtonian-horror.json](./184486-newtonian-horror.json) |
