@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump 2 | 101536 | [101536-helix-jump-2.json](./101536-helix-jump-2.json) |
 | Helix Jump Ball | 106740 | [106740-helix-jump-ball.json](./106740-helix-jump-ball.json) |
 | Helix Jump Down | 102106 | [102106-helix-jump-down.json](./102106-helix-jump-down.json) |
+| Helix Jump Forever | 108687 | [108687-helix-jump-forever.json](./108687-helix-jump-forever.json) |
 | Helix Jump: Catch The Letters | 286192 | [286192-helix-jump-catch-the-letters.json](./286192-helix-jump-catch-the-letters.json) |
 | Helix Jump: Complete Edition | 283173 | [283173-helix-jump-complete-edition.json](./283173-helix-jump-complete-edition.json) |
 | Helix Jump: Letter Madness | 277896 | [277896-helix-jump-letter-madness.json](./277896-helix-jump-letter-madness.json) |
@@ -4194,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellworld! | 173183 | [173183-hellworld.json](./173183-hellworld.json) |
 | Helly-Drop | 354758 | [354758-helly-drop.json](./354758-helly-drop.json) |
 | Hellycoaster | 177453 | [177453-hellycoaster.json](./177453-hellycoaster.json) |
+| Helm Knight 2 | 108702 | [108702-helm-knight-2.json](./108702-helm-knight-2.json) |
 | Helm Realm | 126497 | [126497-helm-realm.json](./126497-helm-realm.json) |
 | Helmet | 231727 | [231727-helmet.json](./231727-helmet.json) |
 | Helmet | 91702 | [91702-helmet.json](./91702-helmet.json) |
@@ -8779,6 +8781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop - Endless Arcade Hopper | 87167 | [87167-hop-endless-arcade-hopper.json](./87167-hop-endless-arcade-hopper.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
+| Hop Ball: Hop to Crush Slices | 108723 | [108723-hop-ball-hop-to-crush-slices.json](./108723-hop-ball-hop-to-crush-slices.json) |
 | Hop Drop | 356427 | [356427-hop-drop.json](./356427-hop-drop.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop Hero: A Leap of Faith | 266146 | [266146-hop-hero-a-leap-of-faith.json](./266146-hop-hero-a-leap-of-faith.json) |
