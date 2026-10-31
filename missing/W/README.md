@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
 | Who Wants To Be King?! | 406257 | [406257-who-wants-to-be-king.json](./406257-who-wants-to-be-king.json) |
 | Who Wants to Beat Up a Millionaire | 45848 | [45848-who-wants-to-beat-up-a-millionaire.json](./45848-who-wants-to-beat-up-a-millionaire.json) |
+| Who Wants to Destroy an Alien | 107515 | [107515-who-wants-to-destroy-an-alien.json](./107515-who-wants-to-destroy-an-alien.json) |
 | Who Wants to Strip this Babe? Streamer Girl | 248924 | [248924-who-wants-to-strip-this-babe-streamer-girl.json](./248924-who-wants-to-strip-this-babe-streamer-girl.json) |
 | Who wants to strip this babe?: Hentai Teacher | 280445 | [280445-who-wants-to-strip-this-babe-hentai-teacher.json](./280445-who-wants-to-strip-this-babe-hentai-teacher.json) |
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
