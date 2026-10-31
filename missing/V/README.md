@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking's Drakkars | 95235 | [95235-vikings-drakkars.json](./95235-vikings-drakkars.json) |
 | Viking's Tavern | 355153 | [355153-vikings-tavern.json](./355153-vikings-tavern.json) |
 | Vikingard | 175700 | [175700-vikingard.json](./175700-vikingard.json) |
+| Vikingbyen 2 | 78416 | [78416-vikingbyen-2.json](./78416-vikingbyen-2.json) |
 | VikingJourney | 95671 | [95671-vikingjourney.json](./95671-vikingjourney.json) |
 | Vikings | 100048 | [100048-vikings.json](./100048-vikings.json) |
 | Vikings and Thrones | 240398 | [240398-vikings-and-thrones.json](./240398-vikings-and-thrones.json) |
@@ -3265,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoo Fishin' | 350020 | [350020-voodoo-fishin.json](./350020-voodoo-fishin.json) |
 | Voodoo Girl: Queen of the Darned | 70286 | [70286-voodoo-girl-queen-of-the-darned.json](./70286-voodoo-girl-queen-of-the-darned.json) |
 | Voodoo Island | 26263 | [26263-voodoo-island.json](./26263-voodoo-island.json) |
+| VooDoo Kid | 78413 | [78413-voodoo-kid.json](./78413-voodoo-kid.json) |
 | Voodoo Lockdown | 177213 | [177213-voodoo-lockdown.json](./177213-voodoo-lockdown.json) |
 | Voodoo Lunch | 14492 | [14492-voodoo-lunch.json](./14492-voodoo-lunch.json) |
 | Voodoo Nightmare | 218113 | [218113-voodoo-nightmare.json](./218113-voodoo-nightmare.json) |
