@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
 | Wacky Wings VR | 30162 | [30162-wacky-wings-vr.json](./30162-wacky-wings-vr.json) |
 | Wacky Winter | 124415 | [124415-wacky-winter.json](./124415-wacky-winter.json) |
+| Wacky Wizard | 70751 | [70751-wacky-wizard.json](./70751-wacky-wizard.json) |
 | Wacky Wizarding Dungeon | 169653 | [169653-wacky-wizarding-dungeon.json](./169653-wacky-wizarding-dungeon.json) |
 | Wacky Wonderland Wollop: A 3D Platformer for the Ages Game of the Year All Time: The Game | 259149 | [259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json](./259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json) |
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
@@ -4398,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Shot Johnny Rock? | 4281 | [4281-who-shot-johnny-rock.json](./4281-who-shot-johnny-rock.json) |
 | Who Shuffled My Shapes? | 200413 | [200413-who-shuffled-my-shapes.json](./200413-who-shuffled-my-shapes.json) |
+| Who Stole Hanukkah!? | 70746 | [70746-who-stole-hanukkah.json](./70746-who-stole-hanukkah.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Stole My Beard? | 132747 | [132747-who-stole-my-beard.json](./132747-who-stole-my-beard.json) |
 | Who Stole My Bone? | 177361 | [177361-who-stole-my-bone.json](./177361-who-stole-my-bone.json) |
@@ -5494,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Cats | 283039 | [283039-winter-cats.json](./283039-winter-cats.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Challenge 2008 | 53123 | [53123-winter-challenge-2008.json](./53123-winter-challenge-2008.json) |
+| Winter Challenge: World Class Competition | 70724 | [70724-winter-challenge-world-class-competition.json](./70724-winter-challenge-world-class-competition.json) |
 | Winter Clothing | 333968 | [333968-winter-clothing.json](./333968-winter-clothing.json) |
 | Winter Cold | 52297 | [52297-winter-cold.json](./52297-winter-cold.json) |
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
@@ -7268,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Snooker | 72787 | [72787-world-championship-snooker.json](./72787-world-championship-snooker.json) |
 | World Championship Snooker 2002 | 72788 | [72788-world-championship-snooker-2002.json](./72788-world-championship-snooker-2002.json) |
 | World Championship Snooker 2003 | 14547 | [14547-world-championship-snooker-2003.json](./14547-world-championship-snooker-2003.json) |
+| World Championship Snooker 2004 | 70728 | [70728-world-championship-snooker-2004.json](./70728-world-championship-snooker-2004.json) |
 | World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
 | World Championship Soccer II | 46686 | [46686-world-championship-soccer-ii.json](./46686-world-championship-soccer-ii.json) |
 | World Championship Spelling | 205880 | [205880-world-championship-spelling.json](./205880-world-championship-spelling.json) |
