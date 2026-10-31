@@ -5166,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Mathooze - The Math Puzzle Game! | 24964 | [24964-mathooze-the-math-puzzle-game.json](./24964-mathooze-the-math-puzzle-game.json) |
 | MathRat | 370905 | [370905-mathrat.json](./370905-mathrat.json) |
+| Maths and English with Rayman: Volume 2 | 98168 | [98168-maths-and-english-with-rayman-volume-2.json](./98168-maths-and-english-with-rayman-volume-2.json) |
 | Maths Challenge | 104482 | [104482-maths-challenge.json](./104482-maths-challenge.json) |
 | Maths Circus Act 6 | 76592 | [76592-maths-circus-act-6.json](./76592-maths-circus-act-6.json) |
 | Maths Pals | 341278 | [341278-maths-pals.json](./341278-maths-pals.json) |
@@ -5696,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Runner | 203741 | [203741-maze-runner.json](./203741-maze-runner.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
 | Maze Runner II | 242690 | [242690-maze-runner-ii.json](./242690-maze-runner-ii.json) |
+| Maze Runner: The Scorch Trials | 98193 | [98193-maze-runner-the-scorch-trials.json](./98193-maze-runner-the-scorch-trials.json) |
 | Maze Slaughter | 112616 | [112616-maze-slaughter.json](./112616-maze-slaughter.json) |
 | Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
 | Maze Survivor | 408979 | [408979-maze-survivor.json](./408979-maze-survivor.json) |
@@ -12098,6 +12100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage of Dragon | 84021 | [84021-mirage-of-dragon.json](./84021-mirage-of-dragon.json) |
 | Mirage of Tower | 385684 | [385684-mirage-of-tower.json](./385684-mirage-of-tower.json) |
 | Mirage Online Classic | 127807 | [127807-mirage-online-classic.json](./127807-mirage-online-classic.json) |
+| Mirage Realms | 98175 | [98175-mirage-realms.json](./98175-mirage-realms.json) |
 | Mirage Sugar Acacia | 385902 | [385902-mirage-sugar-acacia.json](./385902-mirage-sugar-acacia.json) |
 | Mirage: Arcane Warfare | 18147 | [18147-mirage-arcane-warfare.json](./18147-mirage-arcane-warfare.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
