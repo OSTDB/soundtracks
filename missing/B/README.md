@@ -4888,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Bird | 247076 | [247076-beat-the-bird.json](./247076-beat-the-bird.json) |
 | Beat the Blitz | 87962 | [87962-beat-the-blitz.json](./87962-beat-the-blitz.json) |
 | Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
+| Beat the Boss 3 | 91036 | [91036-beat-the-boss-3.json](./91036-beat-the-boss-3.json) |
 | Beat the Boss 4 | 88144 | [88144-beat-the-boss-4.json](./88144-beat-the-boss-4.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
@@ -12073,6 +12074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Calls: Miyu Pack | 226268 | [226268-booty-calls-miyu-pack.json](./226268-booty-calls-miyu-pack.json) |
 | Booty Diver | 68321 | [68321-booty-diver.json](./68321-booty-diver.json) |
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
+| BootyBuns & 21 | 91035 | [91035-bootybuns-and-21.json](./91035-bootybuns-and-21.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
 | Boovie | 120655 | [120655-boovie.json](./120655-boovie.json) |
 | Booze & Ooze | 327291 | [327291-booze-and-ooze.json](./327291-booze-and-ooze.json) |
@@ -15927,6 +15929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
 | Bunny Beats | 115268 | [115268-bunny-beats.json](./115268-bunny-beats.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
+| Bunny Blocker | 91040 | [91040-bunny-blocker.json](./91040-bunny-blocker.json) |
 | Bunny Boiler | 241208 | [241208-bunny-boiler.json](./241208-bunny-boiler.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
 | Bunny Bounce | 33450 | [33450-bunny-bounce.json](./33450-bunny-bounce.json) |
