@@ -10923,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar Nosurge: Ode to an Unborn Star DX | 139979 | [139979-ar-nosurge-ode-to-an-unborn-star-dx.json](./139979-ar-nosurge-ode-to-an-unborn-star-dx.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | AR Shot 2 | 344787 | [344787-ar-shot-2.json](./344787-ar-shot-2.json) |
+| AR Smash Tanks! | 95782 | [95782-ar-smash-tanks.json](./95782-ar-smash-tanks.json) |
 | Ar tonelico II: Melody of Metafalica | 43658 | [43658-ar-tonelico-ii-melody-of-metafalica.json](./43658-ar-tonelico-ii-melody-of-metafalica.json) |
 | Ar Tonelico Qoga: Knell of Ar Ciel | 7274 | [7274-ar-tonelico-qoga-knell-of-ar-ciel.json](./7274-ar-tonelico-qoga-knell-of-ar-ciel.json) |
 | Ar tonelico: Melody of Elemia | 21538 | [21538-ar-tonelico-melody-of-elemia.json](./21538-ar-tonelico-melody-of-elemia.json) |
@@ -12361,6 +12362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aris | 344428 | [344428-aris.json](./344428-aris.json) |
 | Aris Arcanum | 324531 | [324531-aris-arcanum.json](./324531-aris-arcanum.json) |
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
+| ARise | 95777 | [95777-arise.json](./95777-arise.json) |
 | Arise from Shadows | 215523 | [215523-arise-from-shadows.json](./215523-arise-from-shadows.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen | 120603 | [120603-arisen.json](./120603-arisen.json) |
@@ -16493,6 +16495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
 | Ayoub | 150474 | [150474-ayoub.json](./150474-ayoub.json) |
 | Ayoub: Episode 2 | 166173 | [166173-ayoub-episode-2.json](./166173-ayoub-episode-2.json) |
+| Aypupen | 95730 | [95730-aypupen.json](./95730-aypupen.json) |
 | Ayre | 185026 | [185026-ayre.json](./185026-ayre.json) |
 | Ayre and the Crystal Comet | 116260 | [116260-ayre-and-the-crystal-comet.json](./116260-ayre-and-the-crystal-comet.json) |
 | Ayrton Senna Kart Duel Special | 285994 | [285994-ayrton-senna-kart-duel-special.json](./285994-ayrton-senna-kart-duel-special.json) |
