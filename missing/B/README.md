@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5498,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholgar II | 350035 | [350035-beholgar-ii.json](./350035-beholgar-ii.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeHop Ranger And The Spicy Wizards | 299847 | [299847-behop-ranger-and-the-spicy-wizards.json](./299847-behop-ranger-and-the-spicy-wizards.json) |
+| Bèi Chóng Niáng Fǔyùzhe Fánzhí Hòudài | 115960 | [115960-bei-chong-niang-fuyuzhe-fanzhi-houdai.json](./115960-bei-chong-niang-fuyuzhe-fanzhi-houdai.json) |
 | Beijing 2008 | 6910 | [6910-beijing-2008.json](./6910-beijing-2008.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Being | 92419 | [92419-being.json](./92419-being.json) |
