@@ -3768,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nigepico | 256416 | [256416-nigepico.json](./256416-nigepico.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Niggle (Oh Hell!) | 102215 | [102215-niggle-oh-hell.json](./102215-niggle-oh-hell.json) |
+| Night | 93961 | [93961-night.json](./93961-night.json) |
 | Night & Day | 121219 | [121219-night-and-day.json](./121219-night-and-day.json) |
 | Night Agent: I'm the Savior | 266266 | [266266-night-agent-im-the-savior.json](./266266-night-agent-im-the-savior.json) |
 | Night and Day | 133406 | [133406-night-and-day.json](./133406-night-and-day.json) |
