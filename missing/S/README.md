@@ -4377,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl VIII | 170222 | [170222-seek-girl-viii.json](./170222-seek-girl-viii.json) |
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
 | Seek Girl:Fog I | 137981 | [137981-seek-girl-fog-i.json](./137981-seek-girl-fog-i.json) |
+| Seek Love | 111980 | [111980-seek-love.json](./111980-seek-love.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
 | Seek Not a Lighthouse | 75654 | [75654-seek-not-a-lighthouse.json](./75654-seek-not-a-lighthouse.json) |
 | Seek the Discrepancy | 268337 | [268337-seek-the-discrepancy.json](./268337-seek-the-discrepancy.json) |
@@ -4524,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
 | Sega GT Online | 6040 | [6040-sega-gt-online.json](./6040-sega-gt-online.json) |
 | Sega GT: European Edition | 46366 | [46366-sega-gt-european-edition.json](./46366-sega-gt-european-edition.json) |
+| Sega Heroes | 112014 | [112014-sega-heroes.json](./112014-sega-heroes.json) |
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
 | Sega Marine Fishing | 45838 | [45838-sega-marine-fishing.json](./45838-sega-marine-fishing.json) |
 | Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
@@ -6404,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakedown Rally | 287031 | [287031-shakedown-rally.json](./287031-shakedown-rally.json) |
 | Shakes and Fidget | 18090 | [18090-shakes-and-fidget.json](./18090-shakes-and-fidget.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
+| Shakes on a Plane | 111988 | [111988-shakes-on-a-plane.json](./111988-shakes-on-a-plane.json) |
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
 | Shakii the Wolf | 73195 | [73195-shakii-the-wolf.json](./73195-shakii-the-wolf.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
@@ -23271,6 +23274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
 | Stay Focus | 296992 | [296992-stay-focus.json](./296992-stay-focus.json) |
+| Stay Home | 112018 | [112018-stay-home.json](./112018-stay-home.json) |
 | Stay Home | 184055 | [184055-stay-home.json](./184055-stay-home.json) |
 | Stay Home | 255487 | [255487-stay-home.json](./255487-stay-home.json) |
 | Stay Home and Play With Waifu! | 368097 | [368097-stay-home-and-play-with-waifu.json](./368097-stay-home-and-play-with-waifu.json) |
@@ -23907,6 +23911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | Step Ups | 385432 | [385432-step-ups.json](./385432-step-ups.json) |
 | Stepan's Life | 260310 | [260310-stepans-life.json](./260310-stepans-life.json) |
+| Stepbystep | 111978 | [111978-stepbystep.json](./111978-stepbystep.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Steph IQ | 100611 | [100611-steph-iq.json](./100611-steph-iq.json) |
 | Stephen Huneck's PuzzleSpace | 58286 | [58286-stephen-hunecks-puzzlespace.json](./58286-stephen-hunecks-puzzlespace.json) |
@@ -30955,6 +30960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive to Live! | 277730 | [277730-survive-to-live.json](./277730-survive-to-live.json) |
 | Survive Together | 126438 | [126438-survive-together.json](./126438-survive-together.json) |
 | Survive Undead Rush | 322534 | [322534-survive-undead-rush.json](./322534-survive-undead-rush.json) |
+| Survive Zombies.exe | 111987 | [111987-survive-zombies-exe.json](./111987-survive-zombies-exe.json) |
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
 | Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
