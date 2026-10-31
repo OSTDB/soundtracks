@@ -3978,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty and Friends: Freeze Tag Party | 371418 | [371418-hello-kitty-and-friends-freeze-tag-party.json](./371418-hello-kitty-and-friends-freeze-tag-party.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty and Sanrio Friends Racing | 35243 | [35243-hello-kitty-and-sanrio-friends-racing.json](./35243-hello-kitty-and-sanrio-friends-racing.json) |
+| Hello Kitty AR Kawaii World | 121933 | [121933-hello-kitty-ar-kawaii-world.json](./121933-hello-kitty-ar-kawaii-world.json) |
 | Hello Kitty Asobi no Omochabako | 226076 | [226076-hello-kitty-asobi-no-omochabako.json](./226076-hello-kitty-asobi-no-omochabako.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
@@ -9812,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
 | House Builder: Medieval | 306216 | [306216-house-builder-medieval.json](./306216-house-builder-medieval.json) |
 | House Builder: The Atomic Age DLC | 293460 | [293460-house-builder-the-atomic-age-dlc.json](./293460-house-builder-the-atomic-age-dlc.json) |
+| House Call | 121951 | [121951-house-call.json](./121951-house-call.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
@@ -10005,6 +10007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hover Tank 3D | 399596 | [399596-hover-tank-3d.json](./399596-hover-tank-3d.json) |
+| Hover Tank Arena | 121944 | [121944-hover-tank-arena.json](./121944-hover-tank-arena.json) |
 | Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
 | Hover Warz | 321283 | [321283-hover-warz.json](./321283-hover-warz.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
@@ -10895,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Clash: Hunter Games | 235294 | [235294-hunting-clash-hunter-games.json](./235294-hunting-clash-hunter-games.json) |
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
 | Hunting Grounds: Whispers Of The Woods | 328323 | [328323-hunting-grounds-whispers-of-the-woods.json](./328323-hunting-grounds-whispers-of-the-woods.json) |
+| Hunting in Ancient Asia | 121917 | [121917-hunting-in-ancient-asia.json](./121917-hunting-in-ancient-asia.json) |
 | Hunting Life VR: Dove Season | 224953 | [224953-hunting-life-vr-dove-season.json](./224953-hunting-life-vr-dove-season.json) |
 | Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
