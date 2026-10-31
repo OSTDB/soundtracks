@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danse Macabre: Thin Ice | 139754 | [139754-danse-macabre-thin-ice.json](./139754-danse-macabre-thin-ice.json) |
 | Danse Macabre: Thin Ice - Collector's Edition | 22076 | [22076-danse-macabre-thin-ice-collectors-edition.json](./22076-danse-macabre-thin-ice-collectors-edition.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
+| Dante: RPG Construction Tool | 63511 | [63511-dante-rpg-construction-tool.json](./63511-dante-rpg-construction-tool.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
 | Dante's Hotel | 152821 | [152821-dantes-hotel.json](./152821-dantes-hotel.json) |
 | Dante's Inferno | 28854 | [28854-dantes-inferno.json](./28854-dantes-inferno.json) |
