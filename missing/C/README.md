@@ -9341,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
+| Clip Grip Power | 110014 | [110014-clip-grip-power.json](./110014-clip-grip-power.json) |
 | Clipped | 132588 | [132588-clipped.json](./132588-clipped.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
@@ -16510,6 +16511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushing Depths | 250777 | [250777-crushing-depths.json](./250777-crushing-depths.json) |
 | Crushing Depths | 392473 | [392473-crushing-depths.json](./392473-crushing-depths.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
+| CrushMon | 110016 | [110016-crushmon.json](./110016-crushmon.json) |
 | Crust Crusaders | 187788 | [187788-crust-crusaders.json](./187788-crust-crusaders.json) |
 | Crust Shump | 321042 | [321042-crust-shump.json](./321042-crust-shump.json) |
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
