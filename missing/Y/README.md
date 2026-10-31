@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YogKart | 176209 | [176209-yogkart.json](./176209-yogkart.json) |
 | YogLabs: Testing Initiative | 375233 | [375233-yoglabs-testing-initiative.json](./375233-yoglabs-testing-initiative.json) |
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
+| Yogoreta Seifuku Hakusyo: Shimai Hagareru | 97651 | [97651-yogoreta-seifuku-hakusyo-shimai-hagareru.json](./97651-yogoreta-seifuku-hakusyo-shimai-hagareru.json) |
 | Yogosareta Seifuku: Ryojyoku no Kusari | 97779 | [97779-yogosareta-seifuku-ryojyoku-no-kusari.json](./97779-yogosareta-seifuku-ryojyoku-no-kusari.json) |
 | Yogurt Commercial 3 | 146850 | [146850-yogurt-commercial-3.json](./146850-yogurt-commercial-3.json) |
 | Yogurt Royale | 177010 | [177010-yogurt-royale.json](./177010-yogurt-royale.json) |
@@ -1790,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
 | YumeCore | 81845 | [81845-yumecore.json](./81845-yumecore.json) |
+| Yumeichiya: Hotaru no Ongaeshi | 97646 | [97646-yumeichiya-hotaru-no-ongaeshi.json](./97646-yumeichiya-hotaru-no-ongaeshi.json) |
 | Yumeiri | 186553 | [186553-yumeiri.json](./186553-yumeiri.json) |
 | Yumeiro Cast: Take a Curtain Call | 315365 | [315365-yumeiro-cast-take-a-curtain-call.json](./315365-yumeiro-cast-take-a-curtain-call.json) |
 | Yumeiro Patisserie: My Sweets Cooking | 394778 | [394778-yumeiro-patisserie-my-sweets-cooking.json](./394778-yumeiro-patisserie-my-sweets-cooking.json) |
