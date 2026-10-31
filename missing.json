@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T01:19:32.656Z",
-  "total_missing": 286430,
+  "generated_at": "2026-10-31T01:33:22.594Z",
+  "total_missing": 286479,
   "games": [
     {
       "igdb_id": 191680,
@@ -64982,6 +64982,11 @@
       "file": "missing/A/245810-anseion.json"
     },
     {
+      "igdb_id": 119941,
+      "game_name": "Anshar Online",
+      "file": "missing/A/119941-anshar-online.json"
+    },
+    {
       "igdb_id": 132740,
       "game_name": "AnShi",
       "file": "missing/A/132740-anshi.json"
@@ -87247,6 +87252,11 @@
       "file": "missing/A/191226-astralojia.json"
     },
     {
+      "igdb_id": 119982,
+      "game_name": "Astralojia: Episode 1",
+      "file": "missing/A/119982-astralojia-episode-1.json"
+    },
+    {
       "igdb_id": 317045,
       "game_name": "Astranded",
       "file": "missing/A/317045-astranded.json"
@@ -100122,6 +100132,11 @@
       "file": "missing/B/376882-bachi-bachi-pawer.json"
     },
     {
+      "igdb_id": 119974,
+      "game_name": "Bacillus",
+      "file": "missing/B/119974-bacillus.json"
+    },
+    {
       "igdb_id": 309502,
       "game_name": "Back",
       "file": "missing/B/309502-back.json"
@@ -102870,11 +102885,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -162802,6 +162812,11 @@
       "file": "missing/B/39412-boxing-bugs.json"
     },
     {
+      "igdb_id": 119935,
+      "game_name": "Boxing Cats CCG",
+      "file": "missing/B/119935-boxing-cats-ccg.json"
+    },
+    {
       "igdb_id": 43425,
       "game_name": "Boxing Champions",
       "file": "missing/B/43425-boxing-champions.json"
@@ -166400,6 +166415,11 @@
       "igdb_id": 20534,
       "game_name": "Break 'Em All",
       "file": "missing/B/20534-break-em-all.json"
+    },
+    {
+      "igdb_id": 119934,
+      "game_name": "Break a Leg",
+      "file": "missing/B/119934-break-a-leg.json"
     },
     {
       "igdb_id": 307054,
@@ -192447,6 +192467,11 @@
       "file": "missing/C/55828-card-monsters.json"
     },
     {
+      "igdb_id": 119986,
+      "game_name": "Card Monsters: Dungeon",
+      "file": "missing/C/119986-card-monsters-dungeon.json"
+    },
+    {
       "igdb_id": 141402,
       "game_name": "Card Nation",
       "file": "missing/C/141402-card-nation.json"
@@ -204540,6 +204565,11 @@
       "igdb_id": 138018,
       "game_name": "Cecco Collection",
       "file": "missing/C/138018-cecco-collection.json"
+    },
+    {
+      "igdb_id": 119938,
+      "game_name": "Cecconoid",
+      "file": "missing/C/119938-cecconoid.json"
     },
     {
       "igdb_id": 259498,
@@ -222462,6 +222492,21 @@
       "file": "missing/C/227412-cities-skylines-airports.json"
     },
     {
+      "igdb_id": 119954,
+      "game_name": "Cities: Skylines - Campus",
+      "file": "missing/C/119954-cities-skylines-campus.json"
+    },
+    {
+      "igdb_id": 119956,
+      "game_name": "Cities: Skylines - Campus Radio",
+      "file": "missing/C/119956-cities-skylines-campus-radio.json"
+    },
+    {
+      "igdb_id": 119960,
+      "game_name": "Cities: Skylines - Carols, Candles and Candy",
+      "file": "missing/C/119960-cities-skylines-carols-candles-and-candy.json"
+    },
+    {
       "igdb_id": 149996,
       "game_name": "Cities: Skylines - Coast to Coast Radio",
       "file": "missing/C/149996-cities-skylines-coast-to-coast-radio.json"
@@ -222477,6 +222522,11 @@
       "file": "missing/C/241801-cities-skylines-content-creator-pack-africa-in-miniature.json"
     },
     {
+      "igdb_id": 119966,
+      "game_name": "Cities: Skylines - Content Creator Pack: Art Deco",
+      "file": "missing/C/119966-cities-skylines-content-creator-pack-art-deco.json"
+    },
+    {
       "igdb_id": 149999,
       "game_name": "Cities: Skylines - Content Creator Pack: Bridges & Piers",
       "file": "missing/C/149999-cities-skylines-content-creator-pack-bridges-and-piers.json"
@@ -222487,9 +222537,19 @@
       "file": "missing/C/249602-cities-skylines-content-creator-pack-brooklyn-and-queens.json"
     },
     {
+      "igdb_id": 119962,
+      "game_name": "Cities: Skylines - Content Creator Pack: European Suburbia",
+      "file": "missing/C/119962-cities-skylines-content-creator-pack-european-suburbia.json"
+    },
+    {
       "igdb_id": 240928,
       "game_name": "Cities: Skylines - Content Creator Pack: Heart of Korea",
       "file": "missing/C/240928-cities-skylines-content-creator-pack-heart-of-korea.json"
+    },
+    {
+      "igdb_id": 119965,
+      "game_name": "Cities: Skylines - Content Creator Pack: High-Tech Buildings",
+      "file": "missing/C/119965-cities-skylines-content-creator-pack-high-tech-buildings.json"
     },
     {
       "igdb_id": 249606,
@@ -222547,6 +222607,26 @@
       "file": "missing/C/149998-cities-skylines-content-creator-pack-train-stations.json"
     },
     {
+      "igdb_id": 119955,
+      "game_name": "Cities: Skylines - Content Creator Pack: University City",
+      "file": "missing/C/119955-cities-skylines-content-creator-pack-university-city.json"
+    },
+    {
+      "igdb_id": 119958,
+      "game_name": "Cities: Skylines - Country Road Radio",
+      "file": "missing/C/119958-cities-skylines-country-road-radio.json"
+    },
+    {
+      "igdb_id": 119953,
+      "game_name": "Cities: Skylines - Deep Focus Radio",
+      "file": "missing/C/119953-cities-skylines-deep-focus-radio.json"
+    },
+    {
+      "igdb_id": 119968,
+      "game_name": "Cities: Skylines - Deluxe Edition Upgrade Pack",
+      "file": "missing/C/119968-cities-skylines-deluxe-edition-upgrade-pack.json"
+    },
+    {
       "igdb_id": 215563,
       "game_name": "Cities: Skylines - Downtown Bundle",
       "file": "missing/C/215563-cities-skylines-downtown-bundle.json"
@@ -222560,6 +222640,11 @@
       "igdb_id": 231015,
       "game_name": "Cities: Skylines - Financial Districts Bundle",
       "file": "missing/C/231015-cities-skylines-financial-districts-bundle.json"
+    },
+    {
+      "igdb_id": 119961,
+      "game_name": "Cities: Skylines - Green Cities",
+      "file": "missing/C/119961-cities-skylines-green-cities.json"
     },
     {
       "igdb_id": 249189,
@@ -222582,6 +222667,11 @@
       "file": "missing/C/27462-cities-skylines-mass-transit.json"
     },
     {
+      "igdb_id": 119967,
+      "game_name": "Cities: Skylines - Match Day",
+      "file": "missing/C/119967-cities-skylines-match-day.json"
+    },
+    {
       "igdb_id": 114766,
       "game_name": "Cities: Skylines - Mayor's Edition",
       "file": "missing/C/114766-cities-skylines-mayors-edition.json"
@@ -222602,9 +222692,19 @@
       "file": "missing/C/220001-cities-skylines-paradise-radio.json"
     },
     {
+      "igdb_id": 119959,
+      "game_name": "Cities: Skylines - Parklife",
+      "file": "missing/C/119959-cities-skylines-parklife.json"
+    },
+    {
       "igdb_id": 205268,
       "game_name": "Cities: Skylines - Parklife Edition",
       "file": "missing/C/205268-cities-skylines-parklife-edition.json"
+    },
+    {
+      "igdb_id": 119964,
+      "game_name": "Cities: Skylines - Pearls From the East",
+      "file": "missing/C/119964-cities-skylines-pearls-from-the-east.json"
     },
     {
       "igdb_id": 257084,
@@ -222642,6 +222742,11 @@
       "file": "missing/C/237966-cities-skylines-remastered.json"
     },
     {
+      "igdb_id": 119963,
+      "game_name": "Cities: Skylines - Rock City Radio",
+      "file": "missing/C/119963-cities-skylines-rock-city-radio.json"
+    },
+    {
       "igdb_id": 220002,
       "game_name": "Cities: Skylines - Shoreline Radio",
       "file": "missing/C/220002-cities-skylines-shoreline-radio.json"
@@ -222660,6 +222765,11 @@
       "igdb_id": 142107,
       "game_name": "Cities: Skylines - Sunset Harbor",
       "file": "missing/C/142107-cities-skylines-sunset-harbor.json"
+    },
+    {
+      "igdb_id": 119957,
+      "game_name": "Cities: Skylines - Synthetic Dawn Radio",
+      "file": "missing/C/119957-cities-skylines-synthetic-dawn-radio.json"
     },
     {
       "igdb_id": 215562,
@@ -304077,6 +304187,11 @@
       "file": "missing/D/141138-demon-eclipse.json"
     },
     {
+      "igdb_id": 119946,
+      "game_name": "Demon Escape: Shadow Realm",
+      "file": "missing/D/119946-demon-escape-shadow-realm.json"
+    },
+    {
       "igdb_id": 391666,
       "game_name": "Demon Eye",
       "file": "missing/D/391666-demon-eye.json"
@@ -353152,6 +353267,11 @@
       "file": "missing/D/76211-du-lac-and-fey-dance-of-death.json"
     },
     {
+      "igdb_id": 119936,
+      "game_name": "Du-game",
+      "file": "missing/D/119936-du-game.json"
+    },
+    {
       "igdb_id": 42827,
       "game_name": "Duael Invaders",
       "file": "missing/D/42827-duael-invaders.json"
@@ -357015,6 +357135,11 @@
       "igdb_id": 32485,
       "game_name": "Dungeon Journey",
       "file": "missing/D/32485-dungeon-journey.json"
+    },
+    {
+      "igdb_id": 119972,
+      "game_name": "Dungeon Jump",
+      "file": "missing/D/119972-dungeon-jump.json"
     },
     {
       "igdb_id": 323796,
@@ -388470,6 +388595,11 @@
       "igdb_id": 174582,
       "game_name": "Escapology",
       "file": "missing/E/174582-escapology.json"
+    },
+    {
+      "igdb_id": 119975,
+      "game_name": "Escargot",
+      "file": "missing/E/119975-escargot.json"
     },
     {
       "igdb_id": 374083,
@@ -513527,6 +513657,11 @@
       "file": "missing/G/242441-gunfu-deadlands.json"
     },
     {
+      "igdb_id": 119981,
+      "game_name": "GunFu Heroes",
+      "file": "missing/G/119981-gunfu-heroes.json"
+    },
+    {
       "igdb_id": 208654,
       "game_name": "Gung 3D",
       "file": "missing/G/208654-gung-3d.json"
@@ -593127,6 +593262,11 @@
       "file": "missing/I/227919-innovazione-vostra.json"
     },
     {
+      "igdb_id": 119945,
+      "game_name": "Innovetica",
+      "file": "missing/I/119945-innovetica.json"
+    },
+    {
       "igdb_id": 328939,
       "game_name": "Innsmouth",
       "file": "missing/I/328939-innsmouth.json"
@@ -594135,6 +594275,11 @@
       "igdb_id": 175139,
       "game_name": "Insignia: Tactics",
       "file": "missing/I/175139-insignia-tactics.json"
+    },
+    {
+      "igdb_id": 119940,
+      "game_name": "Insignificant",
+      "file": "missing/I/119940-insignificant.json"
     },
     {
       "igdb_id": 32725,
@@ -636610,11 +636755,6 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
-    },
-    {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -695547,6 +695687,11 @@
       "file": "missing/L/146052-ludonarracon-supporter-pack-featuring-cyrano.json"
     },
     {
+      "igdb_id": 119984,
+      "game_name": "Ludopolis",
+      "file": "missing/L/119984-ludopolis.json"
+    },
+    {
       "igdb_id": 311016,
       "game_name": "LudoRace",
       "file": "missing/L/311016-ludorace.json"
@@ -717477,6 +717622,11 @@
       "file": "missing/M/323894-mario-roots.json"
     },
     {
+      "igdb_id": 119932,
+      "game_name": "Mario Royale",
+      "file": "missing/M/119932-mario-royale.json"
+    },
+    {
       "igdb_id": 262665,
       "game_name": "Mario Royale Deluxe",
       "file": "missing/M/262665-mario-royale-deluxe.json"
@@ -728180,6 +728330,11 @@
       "igdb_id": 324142,
       "game_name": "Me Go Store!",
       "file": "missing/M/324142-me-go-store.json"
+    },
+    {
+      "igdb_id": 119937,
+      "game_name": "me Igigu",
+      "file": "missing/M/119937-me-igigu.json"
     },
     {
       "igdb_id": 212521,
@@ -772442,6 +772597,11 @@
       "file": "missing/M/39005-monsterthon.json"
     },
     {
+      "igdb_id": 119943,
+      "game_name": "MonsterUp Candy Run",
+      "file": "missing/M/119943-monsterup-candy-run.json"
+    },
+    {
       "igdb_id": 156009,
       "game_name": "Monsterwolf",
       "file": "missing/M/156009-monsterwolf.json"
@@ -774560,6 +774720,11 @@
       "igdb_id": 70035,
       "game_name": "Moop and Dreadly in the Treasure on Bing Bong Island",
       "file": "missing/M/70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json"
+    },
+    {
+      "igdb_id": 119939,
+      "game_name": "Moor",
+      "file": "missing/M/119939-moor.json"
     },
     {
       "igdb_id": 349370,
@@ -850997,6 +851162,11 @@
       "file": "missing/O/95338-optical-inquisitor.json"
     },
     {
+      "igdb_id": 119944,
+      "game_name": "Opticale",
+      "file": "missing/O/119944-opticale.json"
+    },
+    {
       "igdb_id": 32137,
       "game_name": "Optika",
       "file": "missing/O/32137-optika.json"
@@ -925827,6 +925997,26 @@
       "file": "missing/P/2068-pride-of-nations.json"
     },
     {
+      "igdb_id": 119951,
+      "game_name": "Pride of Nations: American Civil War 1862",
+      "file": "missing/P/119951-pride-of-nations-american-civil-war-1862.json"
+    },
+    {
+      "igdb_id": 119950,
+      "game_name": "Pride of Nations: Spanish-American War 1898",
+      "file": "missing/P/119950-pride-of-nations-spanish-american-war-1898.json"
+    },
+    {
+      "igdb_id": 119952,
+      "game_name": "Pride of Nations: The Franco-Prussian War 1870",
+      "file": "missing/P/119952-pride-of-nations-the-franco-prussian-war-1870.json"
+    },
+    {
+      "igdb_id": 119949,
+      "game_name": "Pride of Nations: The Scramble for Africa",
+      "file": "missing/P/119949-pride-of-nations-the-scramble-for-africa.json"
+    },
+    {
       "igdb_id": 272561,
       "game_name": "Pride Quiz",
       "file": "missing/P/272561-pride-quiz.json"
@@ -926560,6 +926750,11 @@
       "igdb_id": 381103,
       "game_name": "Primus Numen",
       "file": "missing/P/381103-primus-numen.json"
+    },
+    {
+      "igdb_id": 119973,
+      "game_name": "Primus Vita: Artemis",
+      "file": "missing/P/119973-primus-vita-artemis.json"
     },
     {
       "igdb_id": 364489,
@@ -958822,6 +959017,11 @@
       "file": "missing/R/259243-rainbow-rockets.json"
     },
     {
+      "igdb_id": 119979,
+      "game_name": "Rainbow Run",
+      "file": "missing/R/119979-rainbow-run.json"
+    },
+    {
       "igdb_id": 249586,
       "game_name": "Rainbow Runner",
       "file": "missing/R/249586-rainbow-runner.json"
@@ -972550,6 +972750,11 @@
       "igdb_id": 43434,
       "game_name": "Reflecting Fate",
       "file": "missing/R/43434-reflecting-fate.json"
+    },
+    {
+      "igdb_id": 119983,
+      "game_name": "Reflecting Reflections",
+      "file": "missing/R/119983-reflecting-reflections.json"
     },
     {
       "igdb_id": 201694,
@@ -1003992,6 +1004197,11 @@
       "file": "missing/R/210567-roundabout-3.json"
     },
     {
+      "igdb_id": 119971,
+      "game_name": "Roundabout Deluxe Edition Content",
+      "file": "missing/R/119971-roundabout-deluxe-edition-content.json"
+    },
+    {
       "igdb_id": 48203,
       "game_name": "Roundball: 2 on 2 Challenge",
       "file": "missing/R/48203-roundball-2-on-2-challenge.json"
@@ -1007870,6 +1008080,11 @@
       "igdb_id": 117655,
       "game_name": "Run For Cover",
       "file": "missing/R/117655-run-for-cover.json"
+    },
+    {
+      "igdb_id": 119970,
+      "game_name": "Run for Eat",
+      "file": "missing/R/119970-run-for-eat.json"
     },
     {
       "igdb_id": 261665,
@@ -1099865,6 +1100080,11 @@
       "igdb_id": 84892,
       "game_name": "Space Hunted",
       "file": "missing/S/84892-space-hunted.json"
+    },
+    {
+      "igdb_id": 129956,
+      "game_name": "Space Hunted: The Lost Levels",
+      "file": "missing/S/129956-space-hunted-the-lost-levels.json"
     },
     {
       "igdb_id": 142222,
@@ -1197967,6 +1198187,11 @@
       "file": "missing/T/295362-text-adventure-engine-chicken-boy.json"
     },
     {
+      "igdb_id": 119989,
+      "game_name": "Text Adventure: Dungeon Empire",
+      "file": "missing/T/119989-text-adventure-dungeon-empire.json"
+    },
+    {
       "igdb_id": 227749,
       "game_name": "Text Adventure: Xianghua-hen",
       "file": "missing/T/227749-text-adventure-xianghua-hen.json"
@@ -1198400,6 +1198625,11 @@
       "igdb_id": 240259,
       "game_name": "That Endless Night: 1931",
       "file": "missing/T/240259-that-endless-night-1931.json"
+    },
+    {
+      "igdb_id": 119987,
+      "game_name": "That Flipping Mountain",
+      "file": "missing/T/119987-that-flipping-mountain.json"
     },
     {
       "igdb_id": 391720,
@@ -1226190,6 +1226420,11 @@
       "igdb_id": 280916,
       "game_name": "The Journey of Elisa",
       "file": "missing/T/280916-the-journey-of-elisa.json"
+    },
+    {
+      "igdb_id": 119942,
+      "game_name": "The Journey of Europe",
+      "file": "missing/T/119942-the-journey-of-europe.json"
     },
     {
       "igdb_id": 31500,
@@ -1377862,6 +1378097,11 @@
       "file": "missing/W/170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json"
     },
     {
+      "igdb_id": 119985,
+      "game_name": "Welcome to... Chichester 2: Part II - No Regrets For the Future",
+      "file": "missing/W/119985-welcome-to-chichester-2-part-ii-no-regrets-for-the-future.json"
+    },
+    {
       "igdb_id": 130712,
       "game_name": "Welcome To... Chichester 2: Part III - NightFall",
       "file": "missing/W/130712-welcome-to-chichester-2-part-iii-nightfall.json"
@@ -1428505,6 +1428745,11 @@
       "igdb_id": 179536,
       "game_name": "Zombie Rush",
       "file": "missing/Z/179536-zombie-rush.json"
+    },
+    {
+      "igdb_id": 119977,
+      "game_name": "Zombie Rush : Extinction",
+      "file": "missing/Z/119977-zombie-rush-extinction.json"
     },
     {
       "igdb_id": 260529,
