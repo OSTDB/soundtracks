@@ -4697,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmal Garrison | 300757 | [300757-phantasmal-garrison.json](./300757-phantasmal-garrison.json) |
 | Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
 | Phantasmat | 22114 | [22114-phantasmat.json](./22114-phantasmat.json) |
+| Phantasmat: Behind the Mask | 102544 | [102544-phantasmat-behind-the-mask.json](./102544-phantasmat-behind-the-mask.json) |
 | Phantasmat: Collector's Edition | 17280 | [17280-phantasmat-collectors-edition.json](./17280-phantasmat-collectors-edition.json) |
 | Phantasmat: Crucible Peak | 140316 | [140316-phantasmat-crucible-peak.json](./140316-phantasmat-crucible-peak.json) |
 | Phantasmat: Crucible Peak - Collector's Edition | 31066 | [31066-phantasmat-crucible-peak-collectors-edition.json](./31066-phantasmat-crucible-peak-collectors-edition.json) |
@@ -11214,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
 | Pony Friends 2 | 51022 | [51022-pony-friends-2.json](./51022-pony-friends-2.json) |
 | Pony Friends: Mini Breeds Edition | 68937 | [68937-pony-friends-mini-breeds-edition.json](./68937-pony-friends-mini-breeds-edition.json) |
+| Pony Girls Horse Care Resort | 102530 | [102530-pony-girls-horse-care-resort.json](./102530-pony-girls-horse-care-resort.json) |
 | Pony Island | 15734 | [15734-pony-island.json](./15734-pony-island.json) |
 | Pony island - cute paradise village | 87078 | [87078-pony-island-cute-paradise-village.json](./87078-pony-island-cute-paradise-village.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
@@ -12124,6 +12126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowBall Renaissance | 54508 | [54508-powball-renaissance.json](./54508-powball-renaissance.json) |
 | Powder | 49505 | [49505-powder.json](./49505-powder.json) |
 | Powder | 80803 | [80803-powder.json](./80803-powder.json) |
+| Powder & Iron: Napoleonic Wars | 102533 | [102533-powder-and-iron-napoleonic-wars.json](./102533-powder-and-iron-napoleonic-wars.json) |
 | Powder Game 2 | 143551 | [143551-powder-game-2.json](./143551-powder-game-2.json) |
 | Powder VR | 116864 | [116864-powder-vr.json](./116864-powder-vr.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
