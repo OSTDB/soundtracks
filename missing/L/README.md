@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lead the Meerkats | 85244 | [85244-lead-the-meerkats.json](./85244-lead-the-meerkats.json) |
 | Lead the Way | 196693 | [196693-lead-the-way.json](./196693-lead-the-way.json) |
 | Lead to Fire | 61154 | [61154-lead-to-fire.json](./61154-lead-to-fire.json) |
+| Lead Wars | 103076 | [103076-lead-wars.json](./103076-lead-wars.json) |
 | Lead: Rally | 279903 | [279903-lead-rally.json](./279903-lead-rally.json) |
 | Leaden Sky: Nightmares | 286100 | [286100-leaden-sky-nightmares.json](./286100-leaden-sky-nightmares.json) |
 | Leader | 170846 | [170846-leader.json](./170846-leader.json) |
