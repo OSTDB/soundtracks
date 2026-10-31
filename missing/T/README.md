@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeko | 347844 | [347844-teeko.json](./347844-teeko.json) |
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teemo Jump! | 150052 | [150052-teemo-jump.json](./150052-teemo-jump.json) |
+| Teen BMX Stunt Bike | 93935 | [93935-teen-bmx-stunt-bike.json](./93935-teen-bmx-stunt-bike.json) |
 | Teen Patti Gold | 169896 | [169896-teen-patti-gold.json](./169896-teen-patti-gold.json) |
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
 | Teen Titans | 4195 | [4195-teen-titans.json](./4195-teen-titans.json) |
@@ -8013,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elevator Game with Catgirls | 188990 | [188990-the-elevator-game-with-catgirls.json](./188990-the-elevator-game-with-catgirls.json) |
 | The Elf Maiden | 201489 | [201489-the-elf-maiden.json](./201489-the-elf-maiden.json) |
 | The Elf's Lewd Training | 150857 | [150857-the-elfs-lewd-training.json](./150857-the-elfs-lewd-training.json) |
+| The Elfin Wars | 93942 | [93942-the-elfin-wars.json](./93942-the-elfin-wars.json) |
 | The Eliminator | 24704 | [24704-the-eliminator.json](./24704-the-eliminator.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
 | The Elm Game | 171868 | [171868-the-elm-game.json](./171868-the-elm-game.json) |
@@ -8564,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Confrontation | 273216 | [273216-the-final-confrontation.json](./273216-the-final-confrontation.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
 | The Final Cut of Lilith Cunningham | 422135 | [422135-the-final-cut-of-lilith-cunningham.json](./422135-the-final-cut-of-lilith-cunningham.json) |
+| The Final Day | 93923 | [93923-the-final-day.json](./93923-the-final-day.json) |
 | The Final Day of Spring | 183408 | [183408-the-final-day-of-spring.json](./183408-the-final-day-of-spring.json) |
 | The Final Days of Olin Earl | 399750 | [399750-the-final-days-of-olin-earl.json](./399750-the-final-days-of-olin-earl.json) |
 | The Final Days: Blood Dawn | 87959 | [87959-the-final-days-blood-dawn.json](./87959-the-final-days-blood-dawn.json) |
@@ -29844,6 +29847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Night | 177800 | [177800-tv-night.json](./177800-tv-night.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
 | TV Pinball | 171267 | [171267-tv-pinball.json](./171267-tv-pinball.json) |
+| TV School House I | 93916 | [93916-tv-school-house-i.json](./93916-tv-school-house-i.json) |
 | TV School House II: Math Fun | 94125 | [94125-tv-school-house-ii-math-fun.json](./94125-tv-school-house-ii-math-fun.json) |
 | TV Show King | 21825 | [21825-tv-show-king.json](./21825-tv-show-king.json) |
 | TV Show King 2 | 50724 | [50724-tv-show-king-2.json](./50724-tv-show-king-2.json) |
