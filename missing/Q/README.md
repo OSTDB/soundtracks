@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qube Stories: Escape Adventure | 260711 | [260711-qube-stories-escape-adventure.json](./260711-qube-stories-escape-adventure.json) |
 | Qube: Against the Qlock | 8878 | [8878-qube-against-the-qlock.json](./8878-qube-against-the-qlock.json) |
 | QubeFall | 184395 | [184395-qubefall.json](./184395-qubefall.json) |
+| Qubes | 115324 | [115324-qubes.json](./115324-qubes.json) |
 | Qubes | 348943 | [348943-qubes.json](./348943-qubes.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
 | Qubic | 31906 | [31906-qubic.json](./31906-qubic.json) |
