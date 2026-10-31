@@ -5256,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
 | Rest In Peace | 174006 | [174006-rest-in-peace.json](./174006-rest-in-peace.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
+| Rest in Pieces | 115315 | [115315-rest-in-pieces.json](./115315-rest-in-pieces.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Resta um | 230716 | [230716-resta-um.json](./230716-resta-um.json) |
 | Restart | 240774 | [240774-restart.json](./240774-restart.json) |
@@ -5533,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
 | Retro Space Fighter | 147150 | [147150-retro-space-fighter.json](./147150-retro-space-fighter.json) |
+| Retro Space Shooter | 115327 | [115327-retro-space-shooter.json](./115327-retro-space-shooter.json) |
 | Retro Space Shooter | 350356 | [350356-retro-space-shooter.json](./350356-retro-space-shooter.json) |
 | Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
 | Retro Speed 2 | 244088 | [244088-retro-speed-2.json](./244088-retro-speed-2.json) |
@@ -11801,6 +11803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RV There Yet? St. Búttin Bay | 417609 | [417609-rv-there-yet-st-buttin-bay.json](./417609-rv-there-yet-st-buttin-bay.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RVF Honda | 12927 | [12927-rvf-honda.json](./12927-rvf-honda.json) |
+| RWBY Deckbuilding Game | 115305 | [115305-rwby-deckbuilding-game.json](./115305-rwby-deckbuilding-game.json) |
 | RWBY Fading Light | 184878 | [184878-rwby-fading-light.json](./184878-rwby-fading-light.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
 | RWBY: Crystal Match | 120203 | [120203-rwby-crystal-match.json](./120203-rwby-crystal-match.json) |
