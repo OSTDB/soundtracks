@@ -3533,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Tamer | 384853 | [384853-tempo-tamer.json](./384853-tempo-tamer.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
+| Temporal | 69008 | [69008-temporal.json](./69008-temporal.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Temporal Deadzone | 323420 | [323420-temporal-deadzone.json](./323420-temporal-deadzone.json) |
 | Temporal Distortion: Discovery | 330598 | [330598-temporal-distortion-discovery.json](./330598-temporal-distortion-discovery.json) |
@@ -3615,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi Muyo! Ryou-ouki: Gokuraku CD-ROM | 288135 | [288135-tenchi-muyo-ryou-ouki-gokuraku-cd-rom.json](./288135-tenchi-muyo-ryou-ouki-gokuraku-cd-rom.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
 | Tenchi Muyo! Toko Muyo: Aniraji Collection | 289364 | [289364-tenchi-muyo-toko-muyo-aniraji-collection.json](./289364-tenchi-muyo-toko-muyo-aniraji-collection.json) |
+| Tenchi no Mon 2: Busouden | 69046 | [69046-tenchi-no-mon-2-busouden.json](./69046-tenchi-no-mon-2-busouden.json) |
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau | 298800 | [298800-tenchi-wo-kurau.json](./298800-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau II: Sekiheki no Tatakai | 45019 | [45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json](./45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json) |
@@ -5748,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bathrooms | 288819 | [288819-the-bathrooms.json](./288819-the-bathrooms.json) |
 | The Batman | 84447 | [84447-the-batman.json](./84447-the-batman.json) |
 | The Batman: Multiply, Divide and Conquer | 230421 | [230421-the-batman-multiply-divide-and-conquer.json](./230421-the-batman-multiply-divide-and-conquer.json) |
+| The Batman: Strength in Numbers | 69064 | [69064-the-batman-strength-in-numbers.json](./69064-the-batman-strength-in-numbers.json) |
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
 | The Battery | 271341 | [271341-the-battery.json](./271341-the-battery.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
@@ -13139,6 +13142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nullpoint | 110263 | [110263-the-nullpoint.json](./110263-the-nullpoint.json) |
 | The Nullspace | 312316 | [312316-the-nullspace.json](./312316-the-nullspace.json) |
 | The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
+| The Number Devil: A Mathematical Adventure | 69013 | [69013-the-number-devil-a-mathematical-adventure.json](./69013-the-number-devil-a-mathematical-adventure.json) |
 | The Number Puzzle | 103953 | [103953-the-number-puzzle.json](./103953-the-number-puzzle.json) |
 | The Numbers I Keep In My Head | 375385 | [375385-the-numbers-i-keep-in-my-head.json](./375385-the-numbers-i-keep-in-my-head.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
@@ -18404,7 +18408,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Side Up | 272897 | [272897-this-side-up.json](./272897-this-side-up.json) |
 | This Starry Midnight We Make | 17776 | [17776-this-starry-midnight-we-make.json](./17776-this-starry-midnight-we-make.json) |
 | This Starry Void | 163790 | [163790-this-starry-void.json](./163790-this-starry-void.json) |
-| This Strange Realm of Mine | 50506 | [50506-this-strange-realm-of-mine.json](./50506-this-strange-realm-of-mine.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
 | This This Rice | 233368 | [233368-this-this-rice.json](./233368-this-this-rice.json) |
 | This Throne Is Mine: The Card Game | 171727 | [171727-this-throne-is-mine-the-card-game.json](./171727-this-throne-is-mine-the-card-game.json) |
@@ -18452,6 +18455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
+| Thomas and Friends: Calling All Engines | 69047 | [69047-thomas-and-friends-calling-all-engines.json](./69047-thomas-and-friends-calling-all-engines.json) |
 | Thomas and Friends: Calling All Engines | 69068 | [69068-thomas-and-friends-calling-all-engines.json](./69068-thomas-and-friends-calling-all-engines.json) |
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
 | Thomas and Friends: Misty Island Rescue | 85781 | [85781-thomas-and-friends-misty-island-rescue.json](./85781-thomas-and-friends-misty-island-rescue.json) |
