@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navcom 6: The Persian Gulf Defense | 65569 | [65569-navcom-6-the-persian-gulf-defense.json](./65569-navcom-6-the-persian-gulf-defense.json) |
 | Navicula Meatus | 319727 | [319727-navicula-meatus.json](./319727-navicula-meatus.json) |
 | Navigating the Labyrinth | 274549 | [274549-navigating-the-labyrinth.json](./274549-navigating-the-labyrinth.json) |
+| Navigator | 105612 | [105612-navigator.json](./105612-navigator.json) |
 | Navigator | 377348 | [377348-navigator.json](./377348-navigator.json) |
 | Navigatris | 94666 | [94666-navigatris.json](./94666-navigatris.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
