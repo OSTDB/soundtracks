@@ -4150,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
 | Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
+| Death Inc. | 64057 | [64057-death-inc.json](./64057-death-inc.json) |
 | Death Infection | 345377 | [345377-death-infection.json](./345377-death-infection.json) |
 | Death Inn | 118605 | [118605-death-inn.json](./118605-death-inn.json) |
 | Death Inn Ⅱ :The Immortal Is Coming | 284288 | [284288-death-inn-ii-the-immortal-is-coming.json](./284288-death-inn-ii-the-immortal-is-coming.json) |
