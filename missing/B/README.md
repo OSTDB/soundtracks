@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babushka Baba Yaga | 298001 | [298001-babushka-baba-yaga.json](./298001-babushka-baba-yaga.json) |
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
 | Babushka's Glitch Dungeon | 202482 | [202482-babushkas-glitch-dungeon.json](./202482-babushkas-glitch-dungeon.json) |
+| Baby Animals: Wooden Preschool Puzzle for Kids | 109981 | [109981-baby-animals-wooden-preschool-puzzle-for-kids.json](./109981-baby-animals-wooden-preschool-puzzle-for-kids.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
 | Baby Bee | 114233 | [114233-baby-bee.json](./114233-baby-bee.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
+| Baccarist | 109979 | [109979-baccarist.json](./109979-baccarist.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
 | Bacchikoi! | 224464 | [224464-bacchikoi.json](./224464-bacchikoi.json) |
 | Bacchikoi!: Expansion Pack | 224494 | [224494-bacchikoi-expansion-pack.json](./224494-bacchikoi-expansion-pack.json) |
@@ -866,7 +868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodgeball: Toukyuu Daigekitotsu! | 49148 | [49148-battle-dodgeball-toukyuu-daigekitotsu.json](./49148-battle-dodgeball-toukyuu-daigekitotsu.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
 | Battle Dome Redux | 126917 | [126917-battle-dome-redux.json](./126917-battle-dome-redux.json) |
+| Battle Dragon Galaxy | 109977 | [109977-battle-dragon-galaxy.json](./109977-battle-dragon-galaxy.json) |
 | Battle Drive | 369444 | [369444-battle-drive.json](./369444-battle-drive.json) |
 | Battle Droid T1 | 119500 | [119500-battle-droid-t1.json](./119500-battle-droid-t1.json) |
 | Battle Drones: Red Rock Resistance | 226237 | [226237-battle-drones-red-rock-resistance.json](./226237-battle-drones-red-rock-resistance.json) |
@@ -3681,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
 | Battle Tanks: World War II | 115159 | [115159-battle-tanks-world-war-ii.json](./115159-battle-tanks-world-war-ii.json) |
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
+| Battle Team | 109978 | [109978-battle-team.json](./109978-battle-team.json) |
 | Battle Teams 2 | 102862 | [102862-battle-teams-2.json](./102862-battle-teams-2.json) |
 | Battle Teams 2: Iconic Bundle | 302206 | [302206-battle-teams-2-iconic-bundle.json](./302206-battle-teams-2-iconic-bundle.json) |
 | Battle Teams 2: She Panda Gift Pack | 324285 | [324285-battle-teams-2-she-panda-gift-pack.json](./324285-battle-teams-2-she-panda-gift-pack.json) |
@@ -5463,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Enemy Lines | 39428 | [39428-behind-enemy-lines.json](./39428-behind-enemy-lines.json) |
 | Behind Every Great One | 112012 | [112012-behind-every-great-one.json](./112012-behind-every-great-one.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
+| Behind Stars and Under Hills | 110015 | [110015-behind-stars-and-under-hills.json](./110015-behind-stars-and-under-hills.json) |
 | Behind The Backrooms | 310245 | [310245-behind-the-backrooms.json](./310245-behind-the-backrooms.json) |
 | Behind the Beyond | 113361 | [113361-behind-the-beyond.json](./113361-behind-the-beyond.json) |
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
@@ -13995,6 +13999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
 | Brick Shot 2 | 68339 | [68339-brick-shot-2.json](./68339-brick-shot-2.json) |
 | Brick Stack VR | 32128 | [32128-brick-stack-vr.json](./32128-brick-stack-vr.json) |
+| Brick Stacker | 110013 | [110013-brick-stacker.json](./110013-brick-stacker.json) |
 | Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
 | Brick Zone | 64459 | [64459-brick-zone.json](./64459-brick-zone.json) |
 | Brick-Ball | 97437 | [97437-brick-ball.json](./97437-brick-ball.json) |
