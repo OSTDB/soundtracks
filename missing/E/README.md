@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
 | Easy Joe 2 | 399487 | [399487-easy-joe-2.json](./399487-easy-joe-2.json) |
+| Easy Joe 3 | 101864 | [101864-easy-joe-3.json](./101864-easy-joe-3.json) |
 | Easy Joe World | 78537 | [78537-easy-joe-world.json](./78537-easy-joe-world.json) |
 | Easy Learning: Classical Music | 273325 | [273325-easy-learning-classical-music.json](./273325-easy-learning-classical-music.json) |
 | Easy Piano | 25168 | [25168-easy-piano.json](./25168-easy-piano.json) |
