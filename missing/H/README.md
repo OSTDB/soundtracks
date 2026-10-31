@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Place Remake | 264734 | [264734-happy-place-remake.json](./264734-happy-place-remake.json) |
 | Happy Pong | 352380 | [352380-happy-pong.json](./352380-happy-pong.json) |
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
+| Happy Princess | 77701 | [77701-happy-princess.json](./77701-happy-princess.json) |
 | Happy Princess: Another Fairytale | 77904 | [77904-happy-princess-another-fairytale.json](./77904-happy-princess-another-fairytale.json) |
 | Happy Puppy | 346396 | [346396-happy-puppy.json](./346396-happy-puppy.json) |
 | Happy Puzzle | 157346 | [157346-happy-puzzle.json](./157346-happy-puzzle.json) |
@@ -5887,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexane | 214367 | [214367-hexane.json](./214367-hexane.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | Hexapoda | 244427 | [244427-hexapoda.json](./244427-hexapoda.json) |
+| Hexar.io | 77687 | [77687-hexar-io.json](./77687-hexar-io.json) |
 | Hexara | 404530 | [404530-hexara.json](./404530-hexara.json) |
 | Hexarchia | 175932 | [175932-hexarchia.json](./175932-hexarchia.json) |
 | Hexarchy | 139362 | [139362-hexarchy.json](./139362-hexarchy.json) |
@@ -6128,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku | 45287 | [45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json](./45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku - Limited Edition | 254439 | [254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json](./254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json) |
 | Hi-Leg Fantasy | 250188 | [250188-hi-leg-fantasy.json](./250188-hi-leg-fantasy.json) |
+| Hi-mi-tsu | 77704 | [77704-hi-mi-tsu.json](./77704-hi-mi-tsu.json) |
 | Hi-Octane | 12434 | [12434-hi-octane.json](./12434-hi-octane.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
@@ -11146,6 +11149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakki Ryouran no Yakata x Kawarazaki-ke no Ichizoku | 77868 | [77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json](./77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
+| Hyakki Yakou | 77706 | [77706-hyakki-yakou.json](./77706-hyakki-yakou.json) |
 | Hyakki Yakou: Kaidan Romance | 219136 | [219136-hyakki-yakou-kaidan-romance.json](./219136-hyakki-yakou-kaidan-romance.json) |
 | Hyakkiyakou | 64264 | [64264-hyakkiyakou.json](./64264-hyakkiyakou.json) |
 | Hyakko: Yorozuya Jikenbo! | 61452 | [61452-hyakko-yorozuya-jikenbo.json](./61452-hyakko-yorozuya-jikenbo.json) |
