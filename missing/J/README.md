@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Mou-juu-oh S | 82302 | [82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json](./82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json) |
 | Jissen Pachi-Slot Hisshouhou! Mr. Magic Neo | 82310 | [82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json](./82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json) |
 | Jissen Pachi-Slot Hisshouhou! Ore no Sora | 82307 | [82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json](./82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json) |
+| Jissen Pachi-Slot Hisshouhou! Salaryman Kintarou | 82300 | [82300-jissen-pachi-slot-hisshouhou-salaryman-kintarou.json](./82300-jissen-pachi-slot-hisshouhou-salaryman-kintarou.json) |
 | Jissen Pachi-Slot Hisshouhou! Sammy Revolution | 382841 | [382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json](./382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json) |
 | Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2 | 82305 | [82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json](./82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json) |
 | Jissen Pachi-Slot Hisshouhou! Savana Park | 82301 | [82301-jissen-pachi-slot-hisshouhou-savana-park.json](./82301-jissen-pachi-slot-hisshouhou-savana-park.json) |
