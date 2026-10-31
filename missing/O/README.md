@@ -2710,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniwaki Village | 331881 | [331881-oniwaki-village.json](./331881-oniwaki-village.json) |
 | Onizuka Katsuya Super Virtual Boxing: Shin Kentou-ou Densetsu | 44384 | [44384-onizuka-katsuya-super-virtual-boxing-shin-kentou-ou-densetsu.json](./44384-onizuka-katsuya-super-virtual-boxing-shin-kentou-ou-densetsu.json) |
 | Onka | 257317 | [257317-onka.json](./257317-onka.json) |
+| Onkou Cha-han | 119221 | [119221-onkou-cha-han.json](./119221-onkou-cha-han.json) |
 | Onksventure | 179847 | [179847-onksventure.json](./179847-onksventure.json) |
 | Online @ The Perfect Time | 208169 | [208169-online-the-perfect-time.json](./208169-online-the-perfect-time.json) |
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
@@ -4165,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
+| Othercell | 119230 | [119230-othercell.json](./119230-othercell.json) |
 | Otherland | 23637 | [23637-otherland.json](./23637-otherland.json) |
 | Otherland | 72560 | [72560-otherland.json](./72560-otherland.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
