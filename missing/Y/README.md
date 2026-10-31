@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoku aru Dasshutsu Game: Gakushu Tengoku | 320003 | [320003-yoku-aru-dasshutsu-game-gakushu-tengoku.json](./320003-yoku-aru-dasshutsu-game-gakushu-tengoku.json) |
 | Yoku's Island Express | 27367 | [27367-yokus-island-express.json](./27367-yokus-island-express.json) |
 | Yokubou Lock: Boku no Kanojo wa Shasei Kanrinin | 313262 | [313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json](./313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json) |
+| Yolanda: The Ultimate Challenge | 78390 | [78390-yolanda-the-ultimate-challenge.json](./78390-yolanda-the-ultimate-challenge.json) |
 | Yolk Heroes: A Long Tamago | 250985 | [250985-yolk-heroes-a-long-tamago.json](./250985-yolk-heroes-a-long-tamago.json) |
 | Yolked | 178292 | [178292-yolked.json](./178292-yolked.json) |
 | Yollen | 348698 | [348698-yollen.json](./348698-yollen.json) |
