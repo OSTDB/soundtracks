@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
 | Terra Memoria: Deluxe Edition | 292926 | [292926-terra-memoria-deluxe-edition.json](./292926-terra-memoria-deluxe-edition.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
+| Terra Monsters | 62951 | [62951-terra-monsters.json](./62951-terra-monsters.json) |
 | Terra Monsters 2: Land of Afer | 98190 | [98190-terra-monsters-2-land-of-afer.json](./98190-terra-monsters-2-land-of-afer.json) |
 | Terra Monsters 3 | 98189 | [98189-terra-monsters-3.json](./98189-terra-monsters-3.json) |
 | Terra Mystica | 37036 | [37036-terra-mystica.json](./37036-terra-mystica.json) |
@@ -4654,6 +4655,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
 | Tetsudou-ou | 48880 | [48880-tetsudou-ou.json](./48880-tetsudou-ou.json) |
+| Tetsudou-ou '96: Ikuze Okuban Chouja | 62953 | [62953-tetsudou-ou-96-ikuze-okuban-chouja.json](./62953-tetsudou-ou-96-ikuze-okuban-chouja.json) |
+| Tetsudou-ou 2: Sekai Seifuku no Yabou | 62952 | [62952-tetsudou-ou-2-sekai-seifuku-no-yabou.json](./62952-tetsudou-ou-2-sekai-seifuku-no-yabou.json) |
 | Tetsujin 28-Gou | 227116 | [227116-tetsujin-28-gou.json](./227116-tetsujin-28-gou.json) |
 | Tetsujou no Reigyo | 395110 | [395110-tetsujou-no-reigyo.json](./395110-tetsujou-no-reigyo.json) |
 | Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
@@ -9272,6 +9275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gods | 38509 | [38509-the-gods.json](./38509-the-gods.json) |
 | The Gods Are Fickle | 224658 | [224658-the-gods-are-fickle.json](./224658-the-gods-are-fickle.json) |
 | The Gods Fabled: Soil Frontier | 229836 | [229836-the-gods-fabled-soil-frontier.json](./229836-the-gods-fabled-soil-frontier.json) |
+| The Gods: Uprising | 63036 | [63036-the-gods-uprising.json](./63036-the-gods-uprising.json) |
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
 | The Gold River Project | 151463 | [151463-the-gold-river-project.json](./151463-the-gold-river-project.json) |
@@ -11524,6 +11528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Steel Empire | 270587 | [270587-the-legend-of-steel-empire.json](./270587-the-legend-of-steel-empire.json) |
 | The Legend of Studentenfutter | 185534 | [185534-the-legend-of-studentenfutter.json](./185534-the-legend-of-studentenfutter.json) |
+| The Legend of Styk | 62938 | [62938-the-legend-of-styk.json](./62938-the-legend-of-styk.json) |
 | The Legend of Sword and Fairy | 18928 | [18928-the-legend-of-sword-and-fairy.json](./18928-the-legend-of-sword-and-fairy.json) |
 | The Legend of Sword and Fairy 2 | 78448 | [78448-the-legend-of-sword-and-fairy-2.json](./78448-the-legend-of-sword-and-fairy-2.json) |
 | The Legend of Sword and Fairy 3 Prequel | 78466 | [78466-the-legend-of-sword-and-fairy-3-prequel.json](./78466-the-legend-of-sword-and-fairy-3-prequel.json) |
@@ -17580,6 +17585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World We Saved | 161646 | [161646-the-world-we-saved.json](./161646-the-world-we-saved.json) |
 | The World Well: Blood of Caro | 274372 | [274372-the-world-well-blood-of-caro.json](./274372-the-world-well-blood-of-caro.json) |
+| The World's Biggest Pac-Man | 62959 | [62959-the-worlds-biggest-pac-man.json](./62959-the-worlds-biggest-pac-man.json) |
 | The World's Easyest Game | 313542 | [313542-the-worlds-easyest-game.json](./313542-the-worlds-easyest-game.json) |
 | The World's Egg: For Those Who Dream | 278355 | [278355-the-worlds-egg-for-those-who-dream.json](./278355-the-worlds-egg-for-those-who-dream.json) |
 | The World's Greatest Baseball Game | 25790 | [25790-the-worlds-greatest-baseball-game.json](./25790-the-worlds-greatest-baseball-game.json) |
