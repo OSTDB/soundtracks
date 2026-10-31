@@ -11020,6 +11020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Wars | 331730 | [331730-polygon-wars.json](./331730-polygon-wars.json) |
 | Polygon World VR | 156957 | [156957-polygon-world-vr.json](./156957-polygon-world-vr.json) |
 | Polygon: Life | 138437 | [138437-polygon-life.json](./138437-polygon-life.json) |
+| Polygon's Royale | 115321 | [115321-polygons-royale.json](./115321-polygons-royale.json) |
 | Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
@@ -15845,6 +15846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
 | Puppet Theater | 359337 | [359337-puppet-theater.json](./359337-puppet-theater.json) |
 | Puppet War | 333153 | [333153-puppet-war.json](./333153-puppet-war.json) |
+| Puppet Zoo Pilomy | 115274 | [115274-puppet-zoo-pilomy.json](./115274-puppet-zoo-pilomy.json) |
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
 | Puppeteer: Control | 261836 | [261836-puppeteer-control.json](./261836-puppeteer-control.json) |
@@ -15857,6 +15859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Fatal Mistake | 187931 | [187931-puppetshow-fatal-mistake.json](./187931-puppetshow-fatal-mistake.json) |
 | PuppetShow: Fatal Mistake - Collector's Edition | 170196 | [170196-puppetshow-fatal-mistake-collectors-edition.json](./170196-puppetshow-fatal-mistake-collectors-edition.json) |
 | PuppetShow: Lightning Strikes | 140276 | [140276-puppetshow-lightning-strikes.json](./140276-puppetshow-lightning-strikes.json) |
+| PuppetShow: Lightning Strikes - Collector's Edition | 115259 | [115259-puppetshow-lightning-strikes-collectors-edition.json](./115259-puppetshow-lightning-strikes-collectors-edition.json) |
 | PuppetShow: Mystery of Joyville | 25926 | [25926-puppetshow-mystery-of-joyville.json](./25926-puppetshow-mystery-of-joyville.json) |
 | PuppetShow: Poetic Justice | 187912 | [187912-puppetshow-poetic-justice.json](./187912-puppetshow-poetic-justice.json) |
 | PuppetShow: Porcelain Smile | 140277 | [140277-puppetshow-porcelain-smile.json](./140277-puppetshow-porcelain-smile.json) |
