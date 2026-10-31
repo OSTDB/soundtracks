@@ -9088,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
 | Please Leave Me Alone | 301948 | [301948-please-leave-me-alone.json](./301948-please-leave-me-alone.json) |
 | Please Leave Me Alone, I Need to Poop | 291187 | [291187-please-leave-me-alone-i-need-to-poop.json](./291187-please-leave-me-alone-i-need-to-poop.json) |
+| Please Love My Computer Game | 86470 | [86470-please-love-my-computer-game.json](./86470-please-love-my-computer-game.json) |
 | Please One More Block | 410651 | [410651-please-one-more-block.json](./410651-please-one-more-block.json) |
 | Please Pay the Rent! | 368276 | [368276-please-pay-the-rent.json](./368276-please-pay-the-rent.json) |
 | Please Praise the SR Girls! | 419937 | [419937-please-praise-the-sr-girls.json](./419937-please-praise-the-sr-girls.json) |
