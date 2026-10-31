@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Survival | 228898 | [228898-hamster-survival.json](./228898-hamster-survival.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
 | Hamster Tycoon: Cake Maker | 294037 | [294037-hamster-tycoon-cake-maker.json](./294037-hamster-tycoon-cake-maker.json) |
+| Hamster Universe | 106236 | [106236-hamster-universe.json](./106236-hamster-universe.json) |
 | Hamster Valley | 214923 | [214923-hamster-valley.json](./214923-hamster-valley.json) |
 | Hamster, Eat, Run | 406668 | [406668-hamster-eat-run.json](./406668-hamster-eat-run.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
