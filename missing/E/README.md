@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elden Ring: Tarnished Edition | 338079 | [338079-elden-ring-tarnished-edition.json](./338079-elden-ring-tarnished-edition.json) |
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
+| Elden: Path of the Forgotten | 95139 | [95139-elden-path-of-the-forgotten.json](./95139-elden-path-of-the-forgotten.json) |
 | Elder Blaze | 242709 | [242709-elder-blaze.json](./242709-elder-blaze.json) |
 | Elder Chaos | 74564 | [74564-elder-chaos.json](./74564-elder-chaos.json) |
 | Elder Gate | 166660 | [166660-elder-gate.json](./166660-elder-gate.json) |
