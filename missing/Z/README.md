@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zé, Dedé e Mané | 178779 | [178779-ze-dede-e-mane.json](./178779-ze-dede-e-mane.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
 | Zeal-X2 | 281289 | [281289-zeal-x2.json](./281289-zeal-x2.json) |
+| Zealot | 119232 | [119232-zealot.json](./119232-zealot.json) |
 | Zealot | 233354 | [233354-zealot.json](./233354-zealot.json) |
 | Zealot's Curse | 296150 | [296150-zealots-curse.json](./296150-zealots-curse.json) |
 | Zeb's Trap | 359454 | [359454-zebs-trap.json](./359454-zebs-trap.json) |
