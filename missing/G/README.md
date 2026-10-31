@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Panic S: Extra Edition | 40144 | [40144-gals-panic-s-extra-edition.json](./40144-gals-panic-s-extra-edition.json) |
 | Gals Panic S2 | 40145 | [40145-gals-panic-s2.json](./40145-gals-panic-s2.json) |
 | Gals Panic S3 | 40143 | [40143-gals-panic-s3.json](./40143-gals-panic-s3.json) |
+| Gals Panic SS | 74822 | [74822-gals-panic-ss.json](./74822-gals-panic-ss.json) |
 | Gals Quest | 82704 | [82704-gals-quest.json](./82704-gals-quest.json) |
 | Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
 | Galtia V Edition | 148268 | [148268-galtia-v-edition.json](./148268-galtia-v-edition.json) |
