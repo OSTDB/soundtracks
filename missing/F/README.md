@@ -7170,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlightChess | 181061 | [181061-flightchess.json](./181061-flightchess.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
 | Flightless | 218283 | [218283-flightless.json](./218283-flightless.json) |
+| Flightless | 62931 | [62931-flightless.json](./62931-flightless.json) |
 | Flightless | 74678 | [74678-flightless.json](./74678-flightless.json) |
 | Flightless Bug | 410184 | [410184-flightless-bug.json](./410184-flightless-bug.json) |
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
@@ -11825,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
 | Frutiger Home | 368055 | [368055-frutiger-home.json](./368055-frutiger-home.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
+| Frutorious | 62949 | [62949-frutorious.json](./62949-frutorious.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
 | Fry Egg | 246274 | [246274-fry-egg.json](./246274-fry-egg.json) |
 | Fry Me Omelettes | 95969 | [95969-fry-me-omelettes.json](./95969-fry-me-omelettes.json) |
