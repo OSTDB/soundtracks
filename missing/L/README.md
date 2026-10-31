@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair of Goblins | 233029 | [233029-lair-of-goblins.json](./233029-lair-of-goblins.json) |
 | Lair of the Clockwork God | 117058 | [117058-lair-of-the-clockwork-god.json](./117058-lair-of-the-clockwork-god.json) |
 | Lair Of The Dragon Ogre | 271735 | [271735-lair-of-the-dragon-ogre.json](./271735-lair-of-the-dragon-ogre.json) |
+| Lair of the Evildoer | 65713 | [65713-lair-of-the-evildoer.json](./65713-lair-of-the-evildoer.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lair of the Morlocks | 112270 | [112270-lair-of-the-morlocks.json](./112270-lair-of-the-morlocks.json) |
 | Lair of the Three-Headed Hydra | 254869 | [254869-lair-of-the-three-headed-hydra.json](./254869-lair-of-the-three-headed-hydra.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
+| Left Behind 3: Rise of the Antichrist | 65727 | [65727-left-behind-3-rise-of-the-antichrist.json](./65727-left-behind-3-rise-of-the-antichrist.json) |
 | Left Behind: Eternal Forces | 20614 | [20614-left-behind-eternal-forces.json](./20614-left-behind-eternal-forces.json) |
 | Left Behind: Tribulation Forces | 68238 | [68238-left-behind-tribulation-forces.json](./68238-left-behind-tribulation-forces.json) |
 | Left Brain Right Brain | 20771 | [20771-left-brain-right-brain.json](./20771-left-brain-right-brain.json) |
