@@ -7864,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hohenheim: Skywards | 220430 | [220430-hohenheim-skywards.json](./220430-hohenheim-skywards.json) |
 | Hoi | 79765 | [79765-hoi.json](./79765-hoi.json) |
 | Hoi An Heritage | 214705 | [214705-hoi-an-heritage.json](./214705-hoi-an-heritage.json) |
+| Hoi Hoi | 78399 | [78399-hoi-hoi.json](./78399-hoi-hoi.json) |
 | Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
 | Hoist Sail for the Heliopause and Home | 7847 | [7847-hoist-sail-for-the-heliopause-and-home.json](./7847-hoist-sail-for-the-heliopause-and-home.json) |
 | Hojiya | 177962 | [177962-hojiya.json](./177962-hojiya.json) |
