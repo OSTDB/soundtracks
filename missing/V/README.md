@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of The Vanquished | 391101 | [391101-vault-of-the-vanquished.json](./391101-vault-of-the-vanquished.json) |
 | Vault of the Void | 127617 | [127617-vault-of-the-void.json](./127617-vault-of-the-void.json) |
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
+| Vault: Tomb of the King | 115303 | [115303-vault-tomb-of-the-king.json](./115303-vault-tomb-of-the-king.json) |
 | Vaulted | 253825 | [253825-vaulted.json](./253825-vaulted.json) |
 | Vaulted Valor | 374805 | [374805-vaulted-valor.json](./374805-vaulted-valor.json) |
 | Vaulting Over It | 350538 | [350538-vaulting-over-it.json](./350538-vaulting-over-it.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Walk English 3: Travel-hen | 230524 | [230524-virtual-walk-english-3-travel-hen.json](./230524-virtual-walk-english-3-travel-hen.json) |
 | Virtual Warfighter | 31621 | [31621-virtual-warfighter.json](./31621-virtual-warfighter.json) |
 | Virtual WarZone | 255850 | [255850-virtual-warzone.json](./255850-virtual-warzone.json) |
+| Virtual Wave | 115262 | [115262-virtual-wave.json](./115262-virtual-wave.json) |
 | Virtual World Primus | 172105 | [172105-virtual-world-primus.json](./172105-virtual-world-primus.json) |
 | Virtual World: Digital Girl | 379544 | [379544-virtual-world-digital-girl.json](./379544-virtual-world-digital-girl.json) |
 | Virtual-O | 31266 | [31266-virtual-o.json](./31266-virtual-o.json) |
