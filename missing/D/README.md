@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkbolt | 132712 | [132712-darkbolt.json](./132712-darkbolt.json) |
 | Darkborn | 25560 | [25560-darkborn.json](./25560-darkborn.json) |
 | Darkbound | 325333 | [325333-darkbound.json](./325333-darkbound.json) |
+| Darkcase: The Basement | 103074 | [103074-darkcase-the-basement.json](./103074-darkcase-the-basement.json) |
 | Darkcean | 284188 | [284188-darkcean.json](./284188-darkcean.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
@@ -5276,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
 | Deflex / ROX | 315624 | [315624-deflex-rox.json](./315624-deflex-rox.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
+| Defoliation | 103079 | [103079-defoliation.json](./103079-defoliation.json) |
 | Deforb | 333464 | [333464-deforb.json](./333464-deforb.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
 | Deformers | 207118 | [207118-deformers.json](./207118-deformers.json) |
@@ -11049,6 +11051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Effect | 81766 | [81766-domino-effect.json](./81766-domino-effect.json) |
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
+| Domino for iPad | 103086 | [103086-domino-for-ipad.json](./103086-domino-for-ipad.json) |
 | Domino for Mac | 89150 | [89150-domino-for-mac.json](./89150-domino-for-mac.json) |
 | Domino House | 138414 | [138414-domino-house.json](./138414-domino-house.json) |
 | Domino Lounge | 209121 | [209121-domino-lounge.json](./209121-domino-lounge.json) |
