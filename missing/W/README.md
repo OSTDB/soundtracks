@@ -5466,13 +5466,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 10 2025 | 322840 | [322840-winning-post-10-2025.json](./322840-winning-post-10-2025.json) |
 | Winning Post 10 2026 | 395978 | [395978-winning-post-10-2026.json](./395978-winning-post-10-2026.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
+| Winning Post 2: Final '97 | 63600 | [63600-winning-post-2-final-97.json](./63600-winning-post-2-final-97.json) |
 | Winning Post 2: Program '96 | 79807 | [79807-winning-post-2-program-96.json](./79807-winning-post-2-program-96.json) |
+| Winning Post 3 | 63599 | [63599-winning-post-3.json](./63599-winning-post-3.json) |
+| Winning Post 3: Program '98 | 63598 | [63598-winning-post-3-program-98.json](./63598-winning-post-3-program-98.json) |
 | Winning Post 4 | 78744 | [78744-winning-post-4.json](./78744-winning-post-4.json) |
+| Winning Post 4: Maximum | 63597 | [63597-winning-post-4-maximum.json](./63597-winning-post-4-maximum.json) |
+| Winning Post 4: Maximum 2001 | 63593 | [63593-winning-post-4-maximum-2001.json](./63593-winning-post-4-maximum-2001.json) |
+| Winning Post 4: Program 2000 | 63595 | [63595-winning-post-4-program-2000.json](./63595-winning-post-4-program-2000.json) |
 | Winning Post 5 Maximum 2003 | 354943 | [354943-winning-post-5-maximum-2003.json](./354943-winning-post-5-maximum-2003.json) |
 | Winning Post 6 | 65013 | [65013-winning-post-6.json](./65013-winning-post-6.json) |
 | Winning Post 6 2008 | 269509 | [269509-winning-post-6-2008.json](./269509-winning-post-6-2008.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Post 7 2012 | 65335 | [65335-winning-post-7-2012.json](./65335-winning-post-7-2012.json) |
+| Winning Post 7 2013 | 63604 | [63604-winning-post-7-2013.json](./63604-winning-post-7-2013.json) |
 | Winning Post 7 Maximum 2007 | 7484 | [7484-winning-post-7-maximum-2007.json](./7484-winning-post-7-maximum-2007.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
@@ -5480,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 9 2020 | 136784 | [136784-winning-post-9-2020.json](./136784-winning-post-9-2020.json) |
 | Winning Post 9: 2021 | 141651 | [141651-winning-post-9-2021.json](./141651-winning-post-9-2021.json) |
 | Winning Post 9: 2022 | 201030 | [201030-winning-post-9-2022.json](./201030-winning-post-9-2022.json) |
+| Winning Post EX | 63591 | [63591-winning-post-ex.json](./63591-winning-post-ex.json) |
 | Winning Post World | 59214 | [59214-winning-post-world.json](./59214-winning-post-world.json) |
 | Winning Putt | 21652 | [21652-winning-putt.json](./21652-winning-putt.json) |
 | Winning Putt: Golf Online | 33125 | [33125-winning-putt-golf-online.json](./33125-winning-putt-golf-online.json) |
