@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hana Saku DS Gardening Life | 229262 | [229262-hana-saku-ds-gardening-life.json](./229262-hana-saku-ds-gardening-life.json) |
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
+| Hana to Otome ni Shukufuku wo: Harukaze No Okurimono | 69054 | [69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json](./69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json) |
 | Hana: Episode I | 263345 | [263345-hana-episode-i.json](./263345-hana-episode-i.json) |
 | Hana: Episode II | 263346 | [263346-hana-episode-ii.json](./263346-hana-episode-ii.json) |
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
@@ -9004,6 +9005,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper Robo | 40057 | [40057-hopper-robo.json](./40057-hopper-robo.json) |
 | Hoppi's Adventure | 336402 | [336402-hoppis-adventure.json](./336402-hoppis-adventure.json) |
 | Hoppie | 209882 | [209882-hoppie.json](./209882-hoppie.json) |
+| Hoppie II | 69025 | [69025-hoppie-ii.json](./69025-hoppie-ii.json) |
+| Hoppie II | 69030 | [69030-hoppie-ii.json](./69030-hoppie-ii.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hoppin: Into the Woods | 374930 | [374930-hoppin-into-the-woods.json](./374930-hoppin-into-the-woods.json) |
 | Hopping Bunny | 287169 | [287169-hopping-bunny.json](./287169-hopping-bunny.json) |
@@ -11594,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace | 303551 | [303551-hyperspace.json](./303551-hyperspace.json) |
 | Hyperspace Colonization | 176616 | [176616-hyperspace-colonization.json](./176616-hyperspace-colonization.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
+| Hyperspace Delivery Boy! | 69016 | [69016-hyperspace-delivery-boy.json](./69016-hyperspace-delivery-boy.json) |
 | Hyperspace Dogfights | 97931 | [97931-hyperspace-dogfights.json](./97931-hyperspace-dogfights.json) |
 | Hyperspace Harvest | 211010 | [211010-hyperspace-harvest.json](./211010-hyperspace-harvest.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
