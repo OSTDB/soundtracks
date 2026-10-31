@@ -6248,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
+| Shadows and Dust | 122625 | [122625-shadows-and-dust.json](./122625-shadows-and-dust.json) |
 | Shadows and Lies | 116033 | [116033-shadows-and-lies.json](./116033-shadows-and-lies.json) |
 | Shadows Are Alive | 265526 | [265526-shadows-are-alive.json](./265526-shadows-are-alive.json) |
 | Shadows Behind the Throne | 176172 | [176172-shadows-behind-the-throne.json](./176172-shadows-behind-the-throne.json) |
@@ -8501,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show by Rock!! | 60352 | [60352-show-by-rock.json](./60352-show-by-rock.json) |
 | Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
+| Show do Milhão | 122616 | [122616-show-do-milhao.json](./122616-show-do-milhao.json) |
 | Show do Milhão | 256640 | [256640-show-do-milhao.json](./256640-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
 | Show do Milhão 2006 | 163341 | [163341-show-do-milhao-2006.json](./163341-show-do-milhao-2006.json) |
@@ -11191,6 +11193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
+| Sky Beneath | 122621 | [122621-sky-beneath.json](./122621-sky-beneath.json) |
 | Sky Bouncer | 241202 | [241202-sky-bouncer.json](./241202-sky-bouncer.json) |
 | Sky Bound Hero | 311857 | [311857-sky-bound-hero.json](./311857-sky-bound-hero.json) |
 | Sky Brawl | 111179 | [111179-sky-brawl.json](./111179-sky-brawl.json) |
@@ -13807,6 +13810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Buddies: Dog Sled Race | 333499 | [333499-snow-buddies-dog-sled-race.json](./333499-snow-buddies-dog-sled-race.json) |
+| Snow Clearing Driving Simulator | 122601 | [122601-snow-clearing-driving-simulator.json](./122601-snow-clearing-driving-simulator.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Cone Serenade | 287061 | [287061-snow-cone-serenade.json](./287061-snow-cone-serenade.json) |
 | Snow Cone Tycoon | 240850 | [240850-snow-cone-tycoon.json](./240850-snow-cone-tycoon.json) |
@@ -13826,6 +13830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Fortress | 26592 | [26592-snow-fortress.json](./26592-snow-fortress.json) |
 | Snow Fortress 2 | 258592 | [258592-snow-fortress-2.json](./258592-snow-fortress-2.json) |
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
+| Snow Island | 122586 | [122586-snow-island.json](./122586-snow-island.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Job | 4324 | [4324-snow-job.json](./4324-snow-job.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
@@ -14898,6 +14903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire FunPak | 265003 | [265003-solitaire-funpak.json](./265003-solitaire-funpak.json) |
 | Solitaire FunPak | 79683 | [79683-solitaire-funpak.json](./79683-solitaire-funpak.json) |
 | Solitaire Game Christmas | 201471 | [201471-solitaire-game-christmas.json](./201471-solitaire-game-christmas.json) |
+| Solitaire Game Halloween | 122587 | [122587-solitaire-game-halloween.json](./122587-solitaire-game-halloween.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
 | Solitaire Harmony | 190396 | [190396-solitaire-harmony.json](./190396-solitaire-harmony.json) |
@@ -27750,6 +27756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cuber | 29716 | [29716-super-cuber.json](./29716-super-cuber.json) |
 | Super Cubiform | 292492 | [292492-super-cubiform.json](./292492-super-cubiform.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
+| Super Cucho | 122607 | [122607-super-cucho.json](./122607-super-cucho.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
 | Super Cursor | 304286 | [304286-super-cursor.json](./304286-super-cursor.json) |
