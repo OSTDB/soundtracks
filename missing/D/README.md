@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Vinci Cannon 2 | 219919 | [219919-da-vinci-cannon-2.json](./219919-da-vinci-cannon-2.json) |
 | Da Vinci Pinball | 89149 | [89149-da-vinci-pinball.json](./89149-da-vinci-pinball.json) |
 | Da Vinci's Legacy | 328319 | [328319-da-vincis-legacy.json](./328319-da-vincis-legacy.json) |
+| Da Vinci's Secret | 93318 | [93318-da-vincis-secret.json](./93318-da-vincis-secret.json) |
 | Da Will | 274125 | [274125-da-will.json](./274125-da-will.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Da! Russian Quiz | 161258 | [161258-da-russian-quiz.json](./161258-da-russian-quiz.json) |
@@ -7636,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
 | Dialshift | 417466 | [417466-dialshift.json](./417466-dialshift.json) |
 | Diam's | 280869 | [280869-diams.json](./280869-diams.json) |
+| Diamaze | 93311 | [93311-diamaze.json](./93311-diamaze.json) |
 | Diamic Days | 413854 | [413854-diamic-days.json](./413854-diamic-days.json) |
 | Diamo XL | 68596 | [68596-diamo-xl.json](./68596-diamo-xl.json) |
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
