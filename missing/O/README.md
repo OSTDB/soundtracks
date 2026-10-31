@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On-Together | 347835 | [347835-on-together.json](./347835-on-together.json) |
 | On.Off | 178822 | [178822-on-off.json](./178822-on-off.json) |
 | On/off | 217798 | [217798-on-off.json](./217798-on-off.json) |
+| Ona-Ken! International | 113315 | [113315-ona-ken-international.json](./113315-ona-ken-international.json) |
 | Onaar | 59695 | [59695-onaar.json](./59695-onaar.json) |
 | Onager! | 59235 | [59235-onager.json](./59235-onager.json) |
 | OnAir Airline Manager | 327816 | [327816-onair-airline-manager.json](./327816-onair-airline-manager.json) |
@@ -2912,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
+| OO.Inc | 113310 | [113310-oo-inc.json](./113310-oo-inc.json) |
 | Ooble Gardens | 371845 | [371845-ooble-gardens.json](./371845-ooble-gardens.json) |
 | Oodlescape - The Apocalypse | 29598 | [29598-oodlescape-the-apocalypse.json](./29598-oodlescape-the-apocalypse.json) |
 | Ooe | 166397 | [166397-ooe.json](./166397-ooe.json) |
@@ -4552,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Out of Range | 403204 | [403204-out-of-range.json](./403204-out-of-range.json) |
 | Out of Reach | 181805 | [181805-out-of-reach.json](./181805-out-of-reach.json) |
+| Out of Reach: Treasure Royale | 113333 | [113333-out-of-reach-treasure-royale.json](./113333-out-of-reach-treasure-royale.json) |
 | Out of Scale: A Kurzgesagt Adventure | 272338 | [272338-out-of-scale-a-kurzgesagt-adventure.json](./272338-out-of-scale-a-kurzgesagt-adventure.json) |
 | Out of Service | 179922 | [179922-out-of-service.json](./179922-out-of-service.json) |
 | Out of Shape | 311148 | [311148-out-of-shape.json](./311148-out-of-shape.json) |
