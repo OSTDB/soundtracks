@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quatro Luzes | 34203 | [34203-quatro-luzes.json](./34203-quatro-luzes.json) |
 | Quatro!: Eclipse DLC | 298254 | [298254-quatro-eclipse-dlc.json](./298254-quatro-eclipse-dlc.json) |
 | Quatro!: This is fine DLC | 253368 | [253368-quatro-this-is-fine-dlc.json](./253368-quatro-this-is-fine-dlc.json) |
+| Quatrolon | 70745 | [70745-quatrolon.json](./70745-quatrolon.json) |
 | Quatros Noir | 298159 | [298159-quatros-noir.json](./298159-quatros-noir.json) |
 | Quattro Adventure | 48218 | [48218-quattro-adventure.json](./48218-quattro-adventure.json) |
 | Quattro Arcade | 48217 | [48217-quattro-arcade.json](./48217-quattro-arcade.json) |
