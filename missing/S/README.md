@@ -3407,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll the Pain Away | 274340 | [274340-scroll-the-pain-away.json](./274340-scroll-the-pain-away.json) |
 | Scrollden | 298456 | [298456-scrollden.json](./298456-scrollden.json) |
 | Scrolling Survivor | 177163 | [177163-scrolling-survivor.json](./177163-scrolling-survivor.json) |
+| Scrolling Walls | 73423 | [73423-scrolling-walls.json](./73423-scrolling-walls.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
@@ -8701,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Super Slam | 2628 | [2628-shrek-super-slam.json](./2628-shrek-super-slam.json) |
 | Shrek SuperSlam | 10628 | [10628-shrek-superslam.json](./10628-shrek-superslam.json) |
 | Shrek SuperSlam | 141642 | [141642-shrek-superslam.json](./141642-shrek-superslam.json) |
+| Shrek Swamp Fun with Early Math | 73427 | [73427-shrek-swamp-fun-with-early-math.json](./73427-shrek-swamp-fun-with-early-math.json) |
 | Shrek the Third | 200881 | [200881-shrek-the-third.json](./200881-shrek-the-third.json) |
 | Shrek the Third | 3669 | [3669-shrek-the-third.json](./3669-shrek-the-third.json) |
 | Shrek the Third: Arthur's School Day Adventure | 72995 | [72995-shrek-the-third-arthurs-school-day-adventure.json](./72995-shrek-the-third-arthurs-school-day-adventure.json) |
@@ -17811,7 +17813,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19399,6 +19400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellinkers | 125074 | [125074-spellinkers.json](./125074-spellinkers.json) |
 | Spellirium | 63549 | [63549-spellirium.json](./63549-spellirium.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
+| Spelljammer: Pirates of Realmspace | 73446 | [73446-spelljammer-pirates-of-realmspace.json](./73446-spelljammer-pirates-of-realmspace.json) |
 | SpellKeeper | 90255 | [90255-spellkeeper.json](./90255-spellkeeper.json) |
 | SpellKnights | 33500 | [33500-spellknights.json](./33500-spellknights.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
@@ -21647,6 +21649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standpoint | 10885 | [10885-standpoint.json](./10885-standpoint.json) |
 | Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
 | Stanislav | 214114 | [214114-stanislav.json](./214114-stanislav.json) |
+| Stanley Tiger Tales | 73453 | [73453-stanley-tiger-tales.json](./73453-stanley-tiger-tales.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Staplers! 4 | 67924 | [67924-staplers-4.json](./67924-staplers-4.json) |
@@ -25990,6 +25993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker II Plus | 39137 | [39137-strip-poker-ii-plus.json](./39137-strip-poker-ii-plus.json) |
 | Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
 | Strip Poker Professional rev. B | 79096 | [79096-strip-poker-professional-rev-b.json](./79096-strip-poker-professional-rev-b.json) |
+| Strip Poker Three | 73451 | [73451-strip-poker-three.json](./73451-strip-poker-three.json) |
 | Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
 | Strip Slot Sonja | 379642 | [379642-strip-slot-sonja.json](./379642-strip-slot-sonja.json) |
 | Strip-Poker | 71934 | [71934-strip-poker.json](./71934-strip-poker.json) |
@@ -31730,6 +31734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
 | Sweaty Palms | 63739 | [63739-sweaty-palms.json](./63739-sweaty-palms.json) |
 | Swedish Classics GP | 139868 | [139868-swedish-classics-gp.json](./139868-swedish-classics-gp.json) |
+| Swedish Touring Car Championship | 73422 | [73422-swedish-touring-car-championship.json](./73422-swedish-touring-car-championship.json) |
 | Swedish Touring Car Championship 2 | 71774 | [71774-swedish-touring-car-championship-2.json](./71774-swedish-touring-car-championship-2.json) |
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
@@ -32977,6 +32982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
+| Syyrah: The Warp Hunter | 73434 | [73434-syyrah-the-warp-hunter.json](./73434-syyrah-the-warp-hunter.json) |
 | Syzgy | 178018 | [178018-syzgy.json](./178018-syzgy.json) |
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
 | Syzygy | 137299 | [137299-syzygy.json](./137299-syzygy.json) |
