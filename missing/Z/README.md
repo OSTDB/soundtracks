@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zosu Ocean VR | 248820 | [248820-zosu-ocean-vr.json](./248820-zosu-ocean-vr.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
 | Zotrix | 23486 | [23486-zotrix.json](./23486-zotrix.json) |
+| Zotrix 2 | 109986 | [109986-zotrix-2.json](./109986-zotrix-2.json) |
 | Zotrix Bundle | 52098 | [52098-zotrix-bundle.json](./52098-zotrix-bundle.json) |
 | Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
