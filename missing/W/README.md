@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
 | We Are Sup | 288469 | [288469-we-are-sup.json](./288469-we-are-sup.json) |
 | We Are Terror: The First Days | 107762 | [107762-we-are-terror-the-first-days.json](./107762-we-are-terror-the-first-days.json) |
+| We Are the Caretakers | 116687 | [116687-we-are-the-caretakers.json](./116687-we-are-the-caretakers.json) |
 | We Are the Dwarves | 15485 | [15485-we-are-the-dwarves.json](./15485-we-are-the-dwarves.json) |
 | We are the Literature Club | 353411 | [353411-we-are-the-literature-club.json](./353411-we-are-the-literature-club.json) |
 | We are the Plague | 113565 | [113565-we-are-the-plague.json](./113565-we-are-the-plague.json) |
@@ -5171,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
 | Windstorm Double Pack | 259705 | [259705-windstorm-double-pack.json](./259705-windstorm-double-pack.json) |
+| Windstorm: An Unexpected Arrival | 116679 | [116679-windstorm-an-unexpected-arrival.json](./116679-windstorm-an-unexpected-arrival.json) |
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
 | Windstorm: Start of a Great Friendship | 186557 | [186557-windstorm-start-of-a-great-friendship.json](./186557-windstorm-start-of-a-great-friendship.json) |
 | Windstorm: Start of a Great Friendship - Remastered | 295730 | [295730-windstorm-start-of-a-great-friendship-remastered.json](./295730-windstorm-start-of-a-great-friendship-remastered.json) |
