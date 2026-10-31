@@ -6167,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! | 43850 | [43850-densha-de-go.json](./43850-densha-de-go.json) |
 | Densha de Go! 2 | 37286 | [37286-densha-de-go-2.json](./37286-densha-de-go-2.json) |
+| Densha de GO! 2 3000 | 80270 | [80270-densha-de-go-2-3000.json](./80270-densha-de-go-2-3000.json) |
 | Densha de GO! 3 Tsuukinhen | 63706 | [63706-densha-de-go-3-tsuukinhen.json](./63706-densha-de-go-3-tsuukinhen.json) |
 | Densha de Go! 3 Tsuukinhen: Daiyakaisei | 146532 | [146532-densha-de-go-3-tsuukinhen-daiyakaisei.json](./146532-densha-de-go-3-tsuukinhen-daiyakaisei.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
