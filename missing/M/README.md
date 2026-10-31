@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Fantasy | 232894 | [232894-magic-fantasy.json](./232894-magic-fantasy.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
 | Magic Farm 2: Fairy Lands - Premium Edition | 291715 | [291715-magic-farm-2-fairy-lands-premium-edition.json](./291715-magic-farm-2-fairy-lands-premium-edition.json) |
+| Magic Farm 3: The Ice Danger | 121180 | [121180-magic-farm-3-the-ice-danger.json](./121180-magic-farm-3-the-ice-danger.json) |
 | Magic Flight Academy | 102947 | [102947-magic-flight-academy.json](./102947-magic-flight-academy.json) |
 | Magic Floor | 309218 | [309218-magic-floor.json](./309218-magic-floor.json) |
 | Magic Floor | 309219 | [309219-magic-floor.json](./309219-magic-floor.json) |
@@ -11266,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Lou | 116918 | [116918-miner-lou.json](./116918-miner-lou.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
 | Miner Meltdown | 33936 | [33936-miner-meltdown.json](./33936-miner-meltdown.json) |
+| Miner Mike | 121196 | [121196-miner-mike.json](./121196-miner-mike.json) |
 | Miner Open Chests | 320581 | [320581-miner-open-chests.json](./320581-miner-open-chests.json) |
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
