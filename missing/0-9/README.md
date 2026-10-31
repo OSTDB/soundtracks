@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
 | 24H Stories: The Rule 7 | 283077 | [283077-24h-stories-the-rule-7.json](./283077-24h-stories-the-rule-7.json) |
 | 25 | 223926 | [223926-25.json](./223926-25.json) |
+| 25 Cadre of Death | 105635 | [105635-25-cadre-of-death.json](./105635-25-cadre-of-death.json) |
 | 25 Days in the Dark | 406509 | [406509-25-days-in-the-dark.json](./406509-25-days-in-the-dark.json) |
 | 25 in 1 Family Games Mega Collection | 385159 | [385159-25-in-1-family-games-mega-collection.json](./385159-25-in-1-family-games-mega-collection.json) |
 | 25 Layers of Pain | 172917 | [172917-25-layers-of-pain.json](./172917-25-layers-of-pain.json) |
