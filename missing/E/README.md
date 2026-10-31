@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eardis: Revolution Force | 112893 | [112893-eardis-revolution-force.json](./112893-eardis-revolution-force.json) |
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
+| Earl Bobby is looking for his Shoes | 93317 | [93317-earl-bobby-is-looking-for-his-shoes.json](./93317-earl-bobby-is-looking-for-his-shoes.json) |
 | Earl Grey | 181711 | [181711-earl-grey.json](./181711-earl-grey.json) |
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
 | Earl vs. the Mutants | 267803 | [267803-earl-vs-the-mutants.json](./267803-earl-vs-the-mutants.json) |
