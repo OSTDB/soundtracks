@@ -7289,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa And Granny Home Escape | 248177 | [248177-grandpa-and-granny-home-escape.json](./248177-grandpa-and-granny-home-escape.json) |
 | Grandpa and Me vs the Numbers | 414303 | [414303-grandpa-and-me-vs-the-numbers.json](./414303-grandpa-and-me-vs-the-numbers.json) |
 | Grandpa and the Zombies | 75624 | [75624-grandpa-and-the-zombies.json](./75624-grandpa-and-the-zombies.json) |
+| Grandpa Joe Plays the Open | 93391 | [93391-grandpa-joe-plays-the-open.json](./93391-grandpa-joe-plays-the-open.json) |
 | Grandpa Needs Fish | 407753 | [407753-grandpa-needs-fish.json](./407753-grandpa-needs-fish.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
