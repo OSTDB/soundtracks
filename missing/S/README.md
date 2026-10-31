@@ -8907,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuushoku Game | 42379 | [42379-shuushoku-game.json](./42379-shuushoku-game.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
+| Shuuz | 79042 | [79042-shuuz.json](./79042-shuuz.json) |
 | Shuv-It | 202002 | [202002-shuv-it.json](./202002-shuv-it.json) |
 | Shuvani | 256103 | [256103-shuvani.json](./256103-shuvani.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
@@ -9970,6 +9971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 40: The Touyou Sandai Uranjustsu | 56964 | [56964-simple-2000-series-vol-40-the-touyou-sandai-uranjustsu.json](./56964-simple-2000-series-vol-40-the-touyou-sandai-uranjustsu.json) |
 | Simple 2000 Series Vol. 44: The Hajimete no RPG - Densetsu no Keishousha | 203264 | [203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json](./203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json) |
 | Simple 2000 Series Vol. 45: The Koi to Namida to, Tsukioku to... - Thread Colors Sayonara no Mukougawa | 203265 | [203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json](./203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json) |
+| Simple 2000 Series Vol. 46: The Kanji Quiz - Challenge Kanji Kentei | 79015 | [79015-simple-2000-series-vol-46-the-kanji-quiz-challenge-kanji-kentei.json](./79015-simple-2000-series-vol-46-the-kanji-quiz-challenge-kanji-kentei.json) |
 | Simple 2000 Series Vol. 56: The Survival Game | 203275 | [203275-simple-2000-series-vol-56-the-survival-game.json](./203275-simple-2000-series-vol-56-the-survival-game.json) |
 | Simple 2000 Series Vol. 58: The Gekai | 203276 | [203276-simple-2000-series-vol-58-the-gekai.json](./203276-simple-2000-series-vol-58-the-gekai.json) |
 | Simple 2000 Series Vol. 59: The Uchuujin to Hanasou! Uchuujin-tte Naani? | 203277 | [203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json](./203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json) |
@@ -12659,6 +12661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania V: Zettai Shougeki II | 63764 | [63764-slotter-mania-v-zettai-shougeki-ii.json](./63764-slotter-mania-v-zettai-shougeki-ii.json) |
 | Slotter Mania: Core Tokonatsu no Netsusa! Oasis | 98871 | [98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json](./98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json) |
 | Slotter Mania: Gekinetsu Okisuro! Siosai Special | 98876 | [98876-slotter-mania-gekinetsu-okisuro-siosai-special.json](./98876-slotter-mania-gekinetsu-okisuro-siosai-special.json) |
+| Slotter Up Core 12: PinPon | 79035 | [79035-slotter-up-core-12-pinpon.json](./79035-slotter-up-core-12-pinpon.json) |
 | Slotter Up Core 5 | 204223 | [204223-slotter-up-core-5.json](./204223-slotter-up-core-5.json) |
 | Slotter Up Core 6 | 204224 | [204224-slotter-up-core-6.json](./204224-slotter-up-core-6.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
@@ -17789,6 +17792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
