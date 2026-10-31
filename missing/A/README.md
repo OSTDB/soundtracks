@@ -6156,6 +6156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
 | Alien Flex | 153148 | [153148-alien-flex.json](./153148-alien-flex.json) |
 | Alien Flowers | 229642 | [229642-alien-flowers.json](./229642-alien-flowers.json) |
+| Alien Food Frenzy | 83989 | [83989-alien-food-frenzy.json](./83989-alien-food-frenzy.json) |
 | Alien Force | 93201 | [93201-alien-force.json](./93201-alien-force.json) |
 | Alien Front | 206107 | [206107-alien-front.json](./206107-alien-front.json) |
 | Alien Front Online | 3711 | [3711-alien-front-online.json](./3711-alien-front-online.json) |
@@ -10495,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
 | Apocalipsis: Wormwood Edition | 114206 | [114206-apocalipsis-wormwood-edition.json](./114206-apocalipsis-wormwood-edition.json) |
+| Apocalyps zombie Race | 83997 | [83997-apocalyps-zombie-race.json](./83997-apocalyps-zombie-race.json) |
 | Apocalypse | 121273 | [121273-apocalypse.json](./121273-apocalypse.json) |
 | Apocalypse | 14260 | [14260-apocalypse.json](./14260-apocalypse.json) |
 | Apocalypse | 15547 | [15547-apocalypse.json](./15547-apocalypse.json) |
@@ -14187,6 +14189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Fire | 40722 | [40722-asteroid-fire.json](./40722-asteroid-fire.json) |
 | Asteroid Force | 189310 | [189310-asteroid-force.json](./189310-asteroid-force.json) |
 | Asteroid Forward | 369344 | [369344-asteroid-forward.json](./369344-asteroid-forward.json) |
+| Asteroid Girl | 83977 | [83977-asteroid-girl.json](./83977-asteroid-girl.json) |
 | Asteroid Hideout | 115945 | [115945-asteroid-hideout.json](./115945-asteroid-hideout.json) |
 | Asteroid Hunter | 67932 | [67932-asteroid-hunter.json](./67932-asteroid-hunter.json) |
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
@@ -14489,6 +14492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Invader | 281221 | [281221-astro-invader.json](./281221-astro-invader.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Invaders | 206236 | [206236-astro-invaders.json](./206236-astro-invaders.json) |
+| Astro Joust | 83983 | [83983-astro-joust.json](./83983-astro-joust.json) |
 | Astro Kitty: Space Mining | 422490 | [422490-astro-kitty-space-mining.json](./422490-astro-kitty-space-mining.json) |
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
@@ -15248,6 +15252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomix | 400813 | [400813-atomix.json](./400813-atomix.json) |
 | Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
 | Atomorf | 121376 | [121376-atomorf.json](./121376-atomorf.json) |
+| Atoms | 83992 | [83992-atoms.json](./83992-atoms.json) |
 | Atoms and Time | 269043 | [269043-atoms-and-time.json](./269043-atoms-and-time.json) |
 | Atoms Game | 110873 | [110873-atoms-game.json](./110873-atoms-game.json) |
 | Atoms! | 110874 | [110874-atoms.json](./110874-atoms.json) |
