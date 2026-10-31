@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
 | Patterns of Light | 68537 | [68537-patterns-of-light.json](./68537-patterns-of-light.json) |
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
+| Patton Strikes Back: The Battle of the Bulge | 73568 | [73568-patton-strikes-back-the-battle-of-the-bulge.json](./73568-patton-strikes-back-the-battle-of-the-bulge.json) |
 | Patton: Armored Assault | 210016 | [210016-patton-armored-assault.json](./210016-patton-armored-assault.json) |
 | Pau E Pedra | 362927 | [362927-pau-e-pedra.json](./362927-pau-e-pedra.json) |
 | Paug | 153874 | [153874-paug.json](./153874-paug.json) |
@@ -6536,6 +6537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine | 338225 | [338225-pine.json](./338225-pine.json) |
+| Pine Applin | 73441 | [73441-pine-applin.json](./73441-pine-applin.json) |
 | Pine Creek: The Book of Judith | 253215 | [253215-pine-creek-the-book-of-judith.json](./253215-pine-creek-the-book-of-judith.json) |
 | Pine Grove | 241566 | [241566-pine-grove.json](./241566-pine-grove.json) |
 | Pine Harbor | 257929 | [257929-pine-harbor.json](./257929-pine-harbor.json) |
@@ -7039,6 +7041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
 | Pirates of the Maverta | 187731 | [187731-pirates-of-the-maverta.json](./187731-pirates-of-the-maverta.json) |
 | Pirates of the Sea | 165770 | [165770-pirates-of-the-sea.json](./165770-pirates-of-the-sea.json) |
+| Pirates of Treasure Island | 73436 | [73436-pirates-of-treasure-island.json](./73436-pirates-of-treasure-island.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
