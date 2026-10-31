@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qti129 | 416191 | [416191-qti129.json](./416191-qti129.json) |
 | Qtz | 419999 | [419999-qtz.json](./419999-qtz.json) |
 | Qū Mèi: Jiàohuà | 98330 | [98330-qu-mei-jiaohua.json](./98330-qu-mei-jiaohua.json) |
+| Qu-tros | 112582 | [112582-qu-tros.json](./112582-qu-tros.json) |
 | QuAaargh!!! | 147306 | [147306-quaaargh.json](./147306-quaaargh.json) |
 | Quaantuum Strike | 336021 | [336021-quaantuum-strike.json](./336021-quaantuum-strike.json) |
 | Quack Attack | 293835 | [293835-quack-attack.json](./293835-quack-attack.json) |
