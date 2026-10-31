@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL Football | 88906 | [88906-madden-nfl-football.json](./88906-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
 | Madden Season 2 | 90917 | [90917-madden-season-2.json](./90917-madden-season-2.json) |
+| Maddening Euphoria | 74113 | [74113-maddening-euphoria.json](./74113-maddening-euphoria.json) |
 | Maddening Overload | 60326 | [60326-maddening-overload.json](./60326-maddening-overload.json) |
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made | 142620 | [142620-made.json](./142620-made.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe: Interactive Stories - The Tyrant's Bodyguard | 226078 | [226078-maybe-interactive-stories-the-tyrants-bodyguard.json](./226078-maybe-interactive-stories-the-tyrants-bodyguard.json) |
 | Maybe: Interactive Stories - Triangle of Kisses | 139694 | [139694-maybe-interactive-stories-triangle-of-kisses.json](./139694-maybe-interactive-stories-triangle-of-kisses.json) |
 | Maybe: Interactive Stories - Wild Pitch | 226073 | [226073-maybe-interactive-stories-wild-pitch.json](./226073-maybe-interactive-stories-wild-pitch.json) |
+| Maybot Run | 74124 | [74124-maybot-run.json](./74124-maybot-run.json) |
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday | 392860 | [392860-mayday.json](./392860-mayday.json) |
 | MayDay MayDie | 405973 | [405973-mayday-maydie.json](./405973-mayday-maydie.json) |
