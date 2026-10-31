@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
 | Racing Legends: Speed Evolution | 91131 | [91131-racing-legends-speed-evolution.json](./91131-racing-legends-speed-evolution.json) |
 | Racing Life | 396598 | [396598-racing-life.json](./396598-racing-life.json) |
+| Racing Live | 91579 | [91579-racing-live.json](./91579-racing-live.json) |
 | Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
 | Racing Madness 2 | 73334 | [73334-racing-madness-2.json](./73334-racing-madness-2.json) |
 | Racing Manager | 237004 | [237004-racing-manager.json](./237004-racing-manager.json) |
