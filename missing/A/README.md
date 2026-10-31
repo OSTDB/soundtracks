@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
 | Alphabet Zoo | 12291 | [12291-alphabet-zoo.json](./12291-alphabet-zoo.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
+| Alphabetic | 80269 | [80269-alphabetic.json](./80269-alphabetic.json) |
 | Alphabets Machine | 89695 | [89695-alphabets-machine.json](./89695-alphabets-machine.json) |
 | Alphabetto's | 411622 | [411622-alphabettos.json](./411622-alphabettos.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
@@ -14710,6 +14711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Final Burning Fest. | 77780 | [77780-asuka-120-final-burning-fest.json](./77780-asuka-120-final-burning-fest.json) |
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
 | Asuka 120% Maxima Burning Fest. | 92225 | [92225-asuka-120-maxima-burning-fest.json](./92225-asuka-120-maxima-burning-fest.json) |
+| Asuka 120% Special Burning Fest. | 80267 | [80267-asuka-120-special-burning-fest.json](./80267-asuka-120-special-burning-fest.json) |
 | Asuka Idol Journey | 399410 | [399410-asuka-idol-journey.json](./399410-asuka-idol-journey.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
 | Asuka-san ha Nabikanai | 251635 | [251635-asuka-san-ha-nabikanai.json](./251635-asuka-san-ha-nabikanai.json) |
