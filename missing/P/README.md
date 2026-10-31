@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns: Japan '46 | 131998 | [131998-panzer-campaigns-japan-46.json](./131998-panzer-campaigns-japan-46.json) |
 | Panzer Campaigns: Kharkov '42 Gold | 124714 | [124714-panzer-campaigns-kharkov-42-gold.json](./124714-panzer-campaigns-kharkov-42-gold.json) |
 | Panzer Campaigns: Market-Garden '44 Gold | 124729 | [124729-panzer-campaigns-market-garden-44-gold.json](./124729-panzer-campaigns-market-garden-44-gold.json) |
+| Panzer Campaigns: Mius '43 | 111317 | [111317-panzer-campaigns-mius-43.json](./111317-panzer-campaigns-mius-43.json) |
 | Panzer Campaigns: Moscow'41 | 142822 | [142822-panzer-campaigns-moscow41.json](./142822-panzer-campaigns-moscow41.json) |
 | Panzer Campaigns: Moscow'42 | 142823 | [142823-panzer-campaigns-moscow42.json](./142823-panzer-campaigns-moscow42.json) |
 | Panzer Campaigns: Normandy '44 Gold | 124727 | [124727-panzer-campaigns-normandy-44-gold.json](./124727-panzer-campaigns-normandy-44-gold.json) |
@@ -4058,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perilous Warp | 140357 | [140357-perilous-warp.json](./140357-perilous-warp.json) |
 | Perilous Wilde | 229911 | [229911-perilous-wilde.json](./229911-perilous-wilde.json) |
 | Perils of Baking | 103846 | [103846-perils-of-baking.json](./103846-perils-of-baking.json) |
+| Perils of Baking Refrosted | 111345 | [111345-perils-of-baking-refrosted.json](./111345-perils-of-baking-refrosted.json) |
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perils of Poom | 171257 | [171257-perils-of-poom.json](./171257-perils-of-poom.json) |
 | Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
@@ -7781,6 +7783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
 | Pixel With Your Friends | 308152 | [308152-pixel-with-your-friends.json](./308152-pixel-with-your-friends.json) |
 | Pixel Wizard | 356996 | [356996-pixel-wizard.json](./356996-pixel-wizard.json) |
+| Pixel World | 111336 | [111336-pixel-world.json](./111336-pixel-world.json) |
 | Pixel World | 388147 | [388147-pixel-world.json](./388147-pixel-world.json) |
 | Pixel Worlds | 36708 | [36708-pixel-worlds.json](./36708-pixel-worlds.json) |
 | Pixel Xiuzhen | 106508 | [106508-pixel-xiuzhen.json](./106508-pixel-xiuzhen.json) |
@@ -12572,6 +12575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predestination | 35997 | [35997-predestination.json](./35997-predestination.json) |
 | Predetermined | 145924 | [145924-predetermined.json](./145924-predetermined.json) |
+| Predicate | 111357 | [111357-predicate.json](./111357-predicate.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Prediction Game | 255019 | [255019-prediction-game.json](./255019-prediction-game.json) |
 | Predictors | 219666 | [219666-predictors.json](./219666-predictors.json) |
@@ -16600,6 +16604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Monarch: Egypt | 109335 | [109335-puzzle-monarch-egypt.json](./109335-puzzle-monarch-egypt.json) |
 | Puzzle Monarch: Nile River | 109334 | [109334-puzzle-monarch-nile-river.json](./109334-puzzle-monarch-nile-river.json) |
 | Puzzle Monarch: Vampires | 106446 | [106446-puzzle-monarch-vampires.json](./106446-puzzle-monarch-vampires.json) |
+| Puzzle Monkey | 111321 | [111321-puzzle-monkey.json](./111321-puzzle-monkey.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle My Mind | 95821 | [95821-puzzle-my-mind.json](./95821-puzzle-my-mind.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
