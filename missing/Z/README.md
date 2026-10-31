@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ze Field | 183172 | [183172-ze-field.json](./183172-ze-field.json) |
 | Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
 | Zé, Dedé e Mané | 178779 | [178779-ze-dede-e-mane.json](./178779-ze-dede-e-mane.json) |
+| Zeal | 117287 | [117287-zeal.json](./117287-zeal.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
 | Zeal-X2 | 281289 | [281289-zeal-x2.json](./281289-zeal-x2.json) |
 | Zealot | 119232 | [119232-zealot.json](./119232-zealot.json) |
