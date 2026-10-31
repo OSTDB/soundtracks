@@ -5691,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nofsky Zombies | 235838 | [235838-nofsky-zombies.json](./235838-nofsky-zombies.json) |
 | Noga | 264703 | [264703-noga.json](./264703-noga.json) |
 | Nogalious | 105438 | [105438-nogalious.json](./105438-nogalious.json) |
+| Nogalious MSX | 115263 | [115263-nogalious-msx.json](./115263-nogalious-msx.json) |
 | Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
 | Nogginknockers | 66381 | [66381-nogginknockers.json](./66381-nogginknockers.json) |
 | Nogginknockers 2 | 78507 | [78507-nogginknockers-2.json](./78507-nogginknockers-2.json) |
