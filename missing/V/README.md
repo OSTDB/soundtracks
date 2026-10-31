@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeance is Mine | 173089 | [173089-vengeance-is-mine.json](./173089-vengeance-is-mine.json) |
 | Vengeance of Excalibur | 72015 | [72015-vengeance-of-excalibur.json](./72015-vengeance-of-excalibur.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
+| Vengeance of the Chicken | 70837 | [70837-vengeance-of-the-chicken.json](./70837-vengeance-of-the-chicken.json) |
 | Vengeance RPG | 252551 | [252551-vengeance-rpg.json](./252551-vengeance-rpg.json) |
 | Vengeance: Lost Love | 43160 | [43160-vengeance-lost-love.json](./43160-vengeance-lost-love.json) |
 | Vengeance/Justification | 395573 | [395573-vengeance-justification.json](./395573-vengeance-justification.json) |
@@ -1550,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesyolye futbolisty | 367902 | [367902-vesyolye-futbolisty.json](./367902-vesyolye-futbolisty.json) |
 | Vesyolyi Povar | 245447 | [245447-vesyolyi-povar.json](./245447-vesyolyi-povar.json) |
 | Vet Emergency | 93024 | [93024-vet-emergency.json](./93024-vet-emergency.json) |
+| Vet Emergency 2 | 70726 | [70726-vet-emergency-2.json](./70726-vet-emergency-2.json) |
 | Veteran | 65004 | [65004-veteran.json](./65004-veteran.json) |
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
 | Veterans: Napoleonic Wars | 390282 | [390282-veterans-napoleonic-wars.json](./390282-veterans-napoleonic-wars.json) |
