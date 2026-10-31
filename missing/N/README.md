@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naïca | 118959 | [118959-naica.json](./118959-naica.json) |
 | Naiko's Room | 277797 | [277797-naikos-room.json](./277797-naikos-room.json) |
 | Nail 'n Scale | 49035 | [49035-nail-n-scale.json](./49035-nail-n-scale.json) |
+| Nail Doctor | 106873 | [106873-nail-doctor.json](./106873-nail-doctor.json) |
 | Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
 | Nail Salon: Style and Makeup Bag | 203714 | [203714-nail-salon-style-and-makeup-bag.json](./203714-nail-salon-style-and-makeup-bag.json) |
 | Nail Woman | 222770 | [222770-nail-woman.json](./222770-nail-woman.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Rider | 104618 | [104618-neon-rider.json](./104618-neon-rider.json) |
 | Neon Rider | 393778 | [393778-neon-rider.json](./393778-neon-rider.json) |
 | Neon Rider Classic | 290879 | [290879-neon-rider-classic.json](./290879-neon-rider-classic.json) |
+| Neon Rider Drives Sports Car | 106832 | [106832-neon-rider-drives-sports-car.json](./106832-neon-rider-drives-sports-car.json) |
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
 | Neon Road | 221368 | [221368-neon-road.json](./221368-neon-road.json) |
 | Neon Ronin | 197507 | [197507-neon-ronin.json](./197507-neon-ronin.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | Nightly Trash | 236238 | [236238-nightly-trash.json](./236238-nightly-trash.json) |
 | NightmAR Protocol | 158074 | [158074-nightmar-protocol.json](./158074-nightmar-protocol.json) |
+| Nightmara | 106855 | [106855-nightmara.json](./106855-nightmara.json) |
 | Nightmare | 118819 | [118819-nightmare.json](./118819-nightmare.json) |
 | Nightmare | 166042 | [166042-nightmare.json](./166042-nightmare.json) |
 | Nightmare | 192775 | [192775-nightmare.json](./192775-nightmare.json) |
