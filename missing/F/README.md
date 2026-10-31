@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 2: Pizza Party! for Mac | 87750 | [87750-farm-frenzy-2-pizza-party-for-mac.json](./87750-farm-frenzy-2-pizza-party-for-mac.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
+| Farm Frenzy 3: Ancient Rome HD | 103750 | [103750-farm-frenzy-3-ancient-rome-hd.json](./103750-farm-frenzy-3-ancient-rome-hd.json) |
 | Farm Frenzy 3: Ice Domain | 53010 | [53010-farm-frenzy-3-ice-domain.json](./53010-farm-frenzy-3-ice-domain.json) |
 | Farm Frenzy 3: Russian Village | 53034 | [53034-farm-frenzy-3-russian-village.json](./53034-farm-frenzy-3-russian-village.json) |
 | Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
@@ -6601,6 +6602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame VS Blaze | 27720 | [27720-flame-vs-blaze.json](./27720-flame-vs-blaze.json) |
 | Flame Zapper Kotsujin | 144086 | [144086-flame-zapper-kotsujin.json](./144086-flame-zapper-kotsujin.json) |
 | Flame, Forest & Flood | 404179 | [404179-flame-forest-and-flood.json](./404179-flame-forest-and-flood.json) |
+| Flamebound | 103786 | [103786-flamebound.json](./103786-flamebound.json) |
 | Flamebreak | 24622 | [24622-flamebreak.json](./24622-flamebreak.json) |
 | Flamecraft | 342916 | [342916-flamecraft.json](./342916-flamecraft.json) |
 | Flamefall | 342143 | [342143-flamefall.json](./342143-flamefall.json) |
@@ -11595,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Fusion! | 384197 | [384197-fruit-fusion.json](./384197-fruit-fusion.json) |
 | Fruit Game | 291387 | [291387-fruit-game.json](./291387-fruit-game.json) |
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
+| Fruit Hoop | 103765 | [103765-fruit-hoop.json](./103765-fruit-hoop.json) |
 | Fruit Hoop 2 | 358311 | [358311-fruit-hoop-2.json](./358311-fruit-hoop-2.json) |
 | Fruit Jammin' | 245807 | [245807-fruit-jammin.json](./245807-fruit-jammin.json) |
 | Fruit Juice | 168648 | [168648-fruit-juice.json](./168648-fruit-juice.json) |
