@@ -5758,6 +5758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Dust | 166947 | [166947-gold-dust.json](./166947-gold-dust.json) |
 | Gold Express | 118598 | [118598-gold-express.json](./118598-gold-express.json) |
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
+| Gold Fever | 77030 | [77030-gold-fever.json](./77030-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold for Retirement | 348181 | [348181-gold-for-retirement.json](./348181-gold-for-retirement.json) |
 | Gold Games 3 | 161710 | [161710-gold-games-3.json](./161710-gold-games-3.json) |
