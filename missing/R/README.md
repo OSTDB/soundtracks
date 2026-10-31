@@ -1640,6 +1640,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranch Escape | 233190 | [233190-ranch-escape.json](./233190-ranch-escape.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
 | Ranch Planet | 104270 | [104270-ranch-planet.json](./104270-ranch-planet.json) |
+| Ranch Rush | 93936 | [93936-ranch-rush.json](./93936-ranch-rush.json) |
+| Ranch Rush 2 | 93939 | [93939-ranch-rush-2.json](./93939-ranch-rush-2.json) |
 | Ranch Simulator | 121087 | [121087-ranch-simulator.json](./121087-ranch-simulator.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
 | Rancho Blast | 101232 | [101232-rancho-blast.json](./101232-rancho-blast.json) |
@@ -2140,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray Bibbia | 181598 | [181598-ray-bibbia.json](./181598-ray-bibbia.json) |
 | Ray Blade | 98027 | [98027-ray-blade.json](./98027-ray-blade.json) |
 | Ray Breaker | 98047 | [98047-ray-breaker.json](./98047-ray-breaker.json) |
+| Ray Crisis | 93955 | [93955-ray-crisis.json](./93955-ray-crisis.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
 | Ray Five | 97787 | [97787-ray-five.json](./97787-ray-five.json) |
 | Ray Forming | 97762 | [97762-ray-forming.json](./97762-ray-forming.json) |
@@ -2733,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
 | Real Soccer 2 | 91833 | [91833-real-soccer-2.json](./91833-real-soccer-2.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
+| Real Soccer 2008 | 93920 | [93920-real-soccer-2008.json](./93920-real-soccer-2008.json) |
 | Real Soccer 2009 | 20126 | [20126-real-soccer-2009.json](./20126-real-soccer-2009.json) |
 | Real Soccer 2010 | 67151 | [67151-real-soccer-2010.json](./67151-real-soccer-2010.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
