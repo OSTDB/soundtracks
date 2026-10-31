@@ -7039,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Fighter Tycoon | 216683 | [216683-pit-fighter-tycoon.json](./216683-pit-fighter-tycoon.json) |
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
+| Pit of Evil | 101230 | [101230-pit-of-evil.json](./101230-pit-of-evil.json) |
 | Pit of Fears | 346504 | [346504-pit-of-fears.json](./346504-pit-of-fears.json) |
 | Pit of Gerstan | 319880 | [319880-pit-of-gerstan.json](./319880-pit-of-gerstan.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
@@ -8182,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaguemon: Lost Diaries | 247362 | [247362-plaguemon-lost-diaries.json](./247362-plaguemon-lost-diaries.json) |
 | Plaguepunk Justice | 114516 | [114516-plaguepunk-justice.json](./114516-plaguepunk-justice.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
+| Plaid - A Unique Puzzle Game | 101193 | [101193-plaid-a-unique-puzzle-game.json](./101193-plaid-a-unique-puzzle-game.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
 | Plain Song | 368501 | [368501-plain-song.json](./368501-plain-song.json) |
 | Plain Song: Christmas Special | 368544 | [368544-plain-song-christmas-special.json](./368544-plain-song-christmas-special.json) |
