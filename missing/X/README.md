@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xbox Fitness | 19172 | [19172-xbox-fitness.json](./19172-xbox-fitness.json) |
 | Xbox Live Arcade | 267539 | [267539-xbox-live-arcade.json](./267539-xbox-live-arcade.json) |
 | Xbox Live Arcade Unplugged: Volume 1 | 7257 | [7257-xbox-live-arcade-unplugged-volume-1.json](./7257-xbox-live-arcade-unplugged-volume-1.json) |
+| Xbox Live Labs | 92266 | [92266-xbox-live-labs.json](./92266-xbox-live-labs.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
 | Xcalibur 2 | 257245 | [257245-xcalibur-2.json](./257245-xcalibur-2.json) |
 | XCavalypse | 33412 | [33412-xcavalypse.json](./33412-xcavalypse.json) |
