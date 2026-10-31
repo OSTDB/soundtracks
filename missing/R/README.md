@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
+| Rally Challenge | 70170 | [70170-rally-challenge.json](./70170-rally-challenge.json) |
 | Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
 | Rally Championship | 100201 | [100201-rally-championship.json](./100201-rally-championship.json) |
 | Rally Championship | 4080 | [4080-rally-championship.json](./4080-rally-championship.json) |
@@ -9050,6 +9051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ROD: Revolt of Defense | 31933 | [31933-rod-revolt-of-defense.json](./31933-rod-revolt-of-defense.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rode Kill: A Day in the Life | 73564 | [73564-rode-kill-a-day-in-the-life.json](./73564-rode-kill-a-day-in-the-life.json) |
+| Rode Quest 2: The Sweet Smell of Stenchie | 70176 | [70176-rode-quest-2-the-sweet-smell-of-stenchie.json](./70176-rode-quest-2-the-sweet-smell-of-stenchie.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
 | Rodea the Sky Soldier | 6872 | [6872-rodea-the-sky-soldier.json](./6872-rodea-the-sky-soldier.json) |
