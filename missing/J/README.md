@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Ripper | 20410 | [20410-jack-the-ripper.json](./20410-jack-the-ripper.json) |
 | Jack the Ripper - Letters from Hell | 122098 | [122098-jack-the-ripper-letters-from-hell.json](./122098-jack-the-ripper-letters-from-hell.json) |
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
+| Jack the Ripper: Letters from Hell - Extended Edition | 87887 | [87887-jack-the-ripper-letters-from-hell-extended-edition.json](./87887-jack-the-ripper-letters-from-hell-extended-edition.json) |
 | Jack troubles | 128310 | [128310-jack-troubles.json](./128310-jack-troubles.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack-In-A-Castle | 118440 | [118440-jack-in-a-castle.json](./118440-jack-in-a-castle.json) |
@@ -501,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jammed | 407151 | [407151-jammed.json](./407151-jammed.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammer Dash | 314807 | [314807-jammer-dash.json](./314807-jammer-dash.json) |
+| Jammerball | 87758 | [87758-jammerball.json](./87758-jammerball.json) |
 | Jammery | 177450 | [177450-jammery.json](./177450-jammery.json) |
 | Jammes | 38168 | [38168-jammes.json](./38168-jammes.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
