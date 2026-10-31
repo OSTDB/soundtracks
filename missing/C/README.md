@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2010 | 4736 | [4736-cabelas-big-game-hunter-2010.json](./4736-cabelas-big-game-hunter-2010.json) |
 | Cabela's Big Game Hunter 2012 | 6649 | [6649-cabelas-big-game-hunter-2012.json](./6649-cabelas-big-game-hunter-2012.json) |
 | Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
+| Cabela's Big Game Hunter II: Open Season | 70190 | [70190-cabelas-big-game-hunter-ii-open-season.json](./70190-cabelas-big-game-hunter-ii-open-season.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter III: The Next Harvest | 73693 | [73693-cabelas-big-game-hunter-iii-the-next-harvest.json](./73693-cabelas-big-game-hunter-iii-the-next-harvest.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
@@ -5278,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager: Season 01/02 | 5769 | [5769-championship-manager-season-01-02.json](./5769-championship-manager-season-01-02.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 1999/2000 | 71378 | [71378-championship-manager-season-1999-2000.json](./71378-championship-manager-season-1999-2000.json) |
+| Championship Manager: Season 96/97 | 70258 | [70258-championship-manager-season-96-97.json](./70258-championship-manager-season-96-97.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 292793 | [292793-championship-motocross-2001-featuring-ricky-carmichael.json](./292793-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
@@ -7540,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Valley Customs | 288794 | [288794-chrome-valley-customs.json](./288794-chrome-valley-customs.json) |
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
 | Chromehounds | 6937 | [6937-chromehounds.json](./6937-chromehounds.json) |
+| Chromentum | 70188 | [70188-chromentum.json](./70188-chromentum.json) |
 | ChromeRivals | 179983 | [179983-chromerivals.json](./179983-chromerivals.json) |
 | Chromium B.S.U. | 121935 | [121935-chromium-b-s-u.json](./121935-chromium-b-s-u.json) |
 | Chromium Man Clicker | 334834 | [334834-chromium-man-clicker.json](./334834-chromium-man-clicker.json) |
@@ -8926,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Fun Collection 5 in 1 | 90588 | [90588-classic-fun-collection-5-in-1.json](./90588-classic-fun-collection-5-in-1.json) |
 | Classic Game | 124572 | [124572-classic-game.json](./124572-classic-game.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
+| Classic Gamer: Colecovision Hits Volume One | 70187 | [70187-classic-gamer-colecovision-hits-volume-one.json](./70187-classic-gamer-colecovision-hits-volume-one.json) |
 | Classic Games | 87228 | [87228-classic-games.json](./87228-classic-games.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Games Collection Vol.2 | 219460 | [219460-classic-games-collection-vol-2.json](./219460-classic-games-collection-vol-2.json) |
@@ -18437,6 +18441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
 | Cyber Egg: Battle Champion | 58062 | [58062-cyber-egg-battle-champion.json](./58062-cyber-egg-battle-champion.json) |
 | Cyber Emoji Tale 2099 | 144004 | [144004-cyber-emoji-tale-2099.json](./144004-cyber-emoji-tale-2099.json) |
+| Cyber Empires | 70181 | [70181-cyber-empires.json](./70181-cyber-empires.json) |
 | Cyber Escape | 93793 | [93793-cyber-escape.json](./93793-cyber-escape.json) |
 | Cyber Evolution | 359865 | [359865-cyber-evolution.json](./359865-cyber-evolution.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
