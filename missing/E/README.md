@@ -6832,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executive Golf DX | 151968 | [151968-executive-golf-dx.json](./151968-executive-golf-dx.json) |
 | Executive Hockey | 82396 | [82396-executive-hockey.json](./82396-executive-hockey.json) |
 | Executive Suite | 69666 | [69666-executive-suite.json](./69666-executive-suite.json) |
+| Executor | 111356 | [111356-executor.json](./111356-executor.json) |
 | Executor | 220019 | [220019-executor.json](./220019-executor.json) |
 | Executrix's Folly | 180116 | [180116-executrixs-folly.json](./180116-executrixs-folly.json) |
 | Exed Exes | 6671 | [6671-exed-exes.json](./6671-exed-exes.json) |
