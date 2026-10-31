@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DangerousIsland | 195386 | [195386-dangerousisland.json](./195386-dangerousisland.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
 | Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
+| DangerSpace | 121909 | [121909-dangerspace.json](./121909-dangerspace.json) |
 | DangerZone VR | 166049 | [166049-dangerzone-vr.json](./166049-dangerzone-vr.json) |
 | Danghost | 216741 | [216741-danghost.json](./216741-danghost.json) |
 | Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Standing | 104256 | [104256-deadly-standing.json](./104256-deadly-standing.json) |
 | Deadly Stasis | 29213 | [29213-deadly-stasis.json](./29213-deadly-stasis.json) |
 | Deadly Station | 96523 | [96523-deadly-station.json](./96523-deadly-station.json) |
+| Deadly step | 121910 | [121910-deadly-step.json](./121910-deadly-step.json) |
 | Deadly Stigma | 106532 | [106532-deadly-stigma.json](./106532-deadly-stigma.json) |
 | Deadly Survival | 277022 | [277022-deadly-survival.json](./277022-deadly-survival.json) |
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
@@ -5550,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
 | Delta0 | 140267 | [140267-delta0.json](./140267-delta0.json) |
+| DeltaBlade 2700 | 121968 | [121968-deltablade-2700.json](./121968-deltablade-2700.json) |
 | DeltaBlade 2700 Re:Create | 264661 | [264661-deltablade-2700-re-create.json](./264661-deltablade-2700-re-create.json) |
 | Deltafall | 329604 | [329604-deltafall.json](./329604-deltafall.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
