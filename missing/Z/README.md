@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Arena | 28153 | [28153-z-arena.json](./28153-z-arena.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Blood Mission | 167464 | [167464-z-blood-mission.json](./167464-z-blood-mission.json) |
+| Z-Chess III | 70824 | [70824-z-chess-iii.json](./70824-z-chess-iii.json) |
 | Z-Collapse | 190464 | [190464-z-collapse.json](./190464-z-collapse.json) |
 | Z-End | 74691 | [74691-z-end.json](./74691-z-end.json) |
 | Z-Exemplar | 26010 | [26010-z-exemplar.json](./26010-z-exemplar.json) |
