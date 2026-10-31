@@ -907,6 +907,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saligia | 163014 | [163014-saligia.json](./163014-saligia.json) |
 | Sally | 125594 | [125594-sally.json](./125594-sally.json) |
 | Sally | 152186 | [152186-sally.json](./152186-sally.json) |
+| Sally 3 | 123199 | [123199-sally-3.json](./123199-sally-3.json) |
+| Sally 3 1/2 | 123200 | [123200-sally-3-1-2.json](./123200-sally-3-1-2.json) |
+| Sally 4 | 123201 | [123201-sally-4.json](./123201-sally-4.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
 | Sally and Snail | 365724 | [365724-sally-and-snail.json](./365724-sally-and-snail.json) |
@@ -2771,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sci-Fi Pinball | 69691 | [69691-sci-fi-pinball.json](./69691-sci-fi-pinball.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
 | SCI-Hard | 368255 | [368255-sci-hard.json](./368255-sci-hard.json) |
+| SciAnts Evolved | 123214 | [123214-sciants-evolved.json](./123214-sciants-evolved.json) |
 | Scicry | 390206 | [390206-scicry.json](./390206-scicry.json) |
 | Science Art: Jigsaw Puzzle | 106748 | [106748-science-art-jigsaw-puzzle.json](./106748-science-art-jigsaw-puzzle.json) |
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
@@ -5229,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
 | Seris the Devil Killer in Harbor Village | 83148 | [83148-seris-the-devil-killer-in-harbor-village.json](./83148-seris-the-devil-killer-in-harbor-village.json) |
+| Serizawa Hachidan no Tsume Shogi | 123218 | [123218-serizawa-hachidan-no-tsume-shogi.json](./123218-serizawa-hachidan-no-tsume-shogi.json) |
 | Serizawa Hachidan no Tsume Shogi | 6132 | [6132-serizawa-hachidan-no-tsume-shogi.json](./6132-serizawa-hachidan-no-tsume-shogi.json) |
 | Serizawa Nobuo no Birdie Try | 406567 | [406567-serizawa-nobuo-no-birdie-try.json](./406567-serizawa-nobuo-no-birdie-try.json) |
 | Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
@@ -9258,6 +9263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signus: The Artifact Wars | 70464 | [70464-signus-the-artifact-wars.json](./70464-signus-the-artifact-wars.json) |
 | Signy & Mino: Against All Gods | 301340 | [301340-signy-and-mino-against-all-gods.json](./301340-signy-and-mino-against-all-gods.json) |
 | Sigurat | 161625 | [161625-sigurat.json](./161625-sigurat.json) |
+| Sigurdr's Havoc | 123240 | [123240-sigurdrs-havoc.json](./123240-sigurdrs-havoc.json) |
 | Sigurður | 164608 | [164608-sigur-ur.json](./164608-sigur-ur.json) |
 | Siheyuan | 244325 | [244325-siheyuan.json](./244325-siheyuan.json) |
 | SiideQuest | 253529 | [253529-siidequest.json](./253529-siidequest.json) |
@@ -17592,6 +17598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20430,6 +20437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
+| Sports Scramble | 123205 | [123205-sports-scramble.json](./123205-sports-scramble.json) |
 | Sports Shooting USA | 39431 | [39431-sports-shooting-usa.json](./39431-sports-shooting-usa.json) |
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
 | Sports Story | 127303 | [127303-sports-story.json](./127303-sports-story.json) |
@@ -30233,6 +30241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 series: The Tetris | 98801 | [98801-superlite-1500-series-the-tetris.json](./98801-superlite-1500-series-the-tetris.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
 | SuperLite 2000 Table Hanafuda | 351068 | [351068-superlite-2000-table-hanafuda.json](./351068-superlite-2000-table-hanafuda.json) |
+| SuperLite 2000: Mahjong | 123217 | [123217-superlite-2000-mahjong.json](./123217-superlite-2000-mahjong.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
 | SuperLite 2000: Othello | 54938 | [54938-superlite-2000-othello.json](./54938-superlite-2000-othello.json) |
 | SuperLite 2000: Tokyo Bus Annai Kyou kara Kimi mo Untenshu | 56547 | [56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json](./56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json) |
@@ -31872,6 +31881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Lost Song | 11842 | [11842-sword-art-online-lost-song.json](./11842-sword-art-online-lost-song.json) |
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Memory Defrag | 25650 | [25650-sword-art-online-memory-defrag.json](./25650-sword-art-online-memory-defrag.json) |
+| Sword Art Online: Progress Link | 123226 | [123226-sword-art-online-progress-link.json](./123226-sword-art-online-progress-link.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Art Online: Variant Showdown | 196564 | [196564-sword-art-online-variant-showdown.json](./196564-sword-art-online-variant-showdown.json) |
 | Sword Boy | 183783 | [183783-sword-boy.json](./183783-sword-boy.json) |
