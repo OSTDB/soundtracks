@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers of the Trees | 169736 | [169736-keepers-of-the-trees.json](./169736-keepers-of-the-trees.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keeping You Close | 419320 | [419320-keeping-you-close.json](./419320-keeping-you-close.json) |
+| Keeplanet | 83967 | [83967-keeplanet.json](./83967-keeplanet.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
 | KeepShopkeeping | 108053 | [108053-keepshopkeeping.json](./108053-keepshopkeeping.json) |
 | KeepShopkeeping 2 | 119628 | [119628-keepshopkeeping-2.json](./119628-keepshopkeeping-2.json) |
