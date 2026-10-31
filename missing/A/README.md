@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across | 172028 | [172028-across.json](./172028-across.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Age DX | 38714 | [38714-across-age-dx.json](./38714-across-age-dx.json) |
+| Across Age HD | 102531 | [102531-across-age-hd.json](./102531-across-age-hd.json) |
 | Across Age II | 38713 | [38713-across-age-ii.json](./38713-across-age-ii.json) |
 | Across Crime | 413637 | [413637-across-crime.json](./413637-across-crime.json) |
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
@@ -5107,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness 2 | 52388 | [52388-airport-madness-2.json](./52388-airport-madness-2.json) |
 | Airport Madness 3 | 52387 | [52387-airport-madness-3.json](./52387-airport-madness-3.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
+| Airport Madness Challenge | 102506 | [102506-airport-madness-challenge.json](./102506-airport-madness-challenge.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
 | Airport Madness Mobile | 106864 | [106864-airport-madness-mobile.json](./106864-airport-madness-mobile.json) |
 | Airport Madness: World Edition | 35258 | [35258-airport-madness-world-edition.json](./35258-airport-madness-world-edition.json) |
@@ -6732,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alley Restaurant Tycoon | 304320 | [304320-alley-restaurant-tycoon.json](./304320-alley-restaurant-tycoon.json) |
 | Alleykat | 28850 | [28850-alleykat.json](./28850-alleykat.json) |
 | AlleyRat | 342175 | [342175-alleyrat.json](./342175-alleyrat.json) |
+| Alleys | 102508 | [102508-alleys.json](./102508-alleys.json) |
 | AlleyStrat | 342176 | [342176-alleystrat.json](./342176-alleystrat.json) |
 | Alleyway | 7751 | [7751-alleyway.json](./7751-alleyway.json) |
 | Alleyway DX | 279682 | [279682-alleyway-dx.json](./279682-alleyway-dx.json) |
@@ -11583,6 +11586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
 | Arcadians | 8525 | [8525-arcadians.json](./8525-arcadians.json) |
+| ArcadianX | 102543 | [102543-arcadianx.json](./102543-arcadianx.json) |
 | Arcadice | 353806 | [353806-arcadice.json](./353806-arcadice.json) |
 | Arcadie II: Cold Lands | 346625 | [346625-arcadie-ii-cold-lands.json](./346625-arcadie-ii-cold-lands.json) |
 | Arcadium | 137562 | [137562-arcadium.json](./137562-arcadium.json) |
