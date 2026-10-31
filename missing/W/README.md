@@ -3789,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the World is Carmen Sandiego? Enhanced Edition | 143640 | [143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json](./143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json) |
 | Where in the World Is Carmen Sandiego? Treasures of Knowledge | 58907 | [58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json](./58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json) |
 | Where in the World is Carmen Sandiego?: Deluxe Edition | 77217 | [77217-where-in-the-world-is-carmen-sandiego-deluxe-edition.json](./77217-where-in-the-world-is-carmen-sandiego-deluxe-edition.json) |
+| Where in the World is Monolisa? | 99310 | [99310-where-in-the-world-is-monolisa.json](./99310-where-in-the-world-is-monolisa.json) |
 | Where in Time is Carmen Sandiego? | 336633 | [336633-where-in-time-is-carmen-sandiego.json](./336633-where-in-time-is-carmen-sandiego.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
 | Where is 2009? | 384055 | [384055-where-is-2009.json](./384055-where-is-2009.json) |
@@ -7314,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Fantasy 2 | 302416 | [302416-world-fantasy-2.json](./302416-world-fantasy-2.json) |
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
 | World Fighting | 203263 | [203263-world-fighting.json](./203263-world-fighting.json) |
+| World Flags Quiz | 99357 | [99357-world-flags-quiz.json](./99357-world-flags-quiz.json) |
 | World Flight | 218854 | [218854-world-flight.json](./218854-world-flight.json) |
 | World Flipper | 130653 | [130653-world-flipper.json](./130653-world-flipper.json) |
 | World Football 98 | 260062 | [260062-world-football-98.json](./260062-world-football-98.json) |
@@ -8465,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE | 220132 | [220132-wwe.json](./220132-wwe.json) |
 | WWE '12 | 5294 | [5294-wwe-12.json](./5294-wwe-12.json) |
 | WWE '13 | 5295 | [5295-wwe-13.json](./5295-wwe-13.json) |
+| WWE 2K | 99359 | [99359-wwe-2k.json](./99359-wwe-2k.json) |
 | WWE 2K Battlegrounds: Digital Deluxe Edition | 139826 | [139826-wwe-2k-battlegrounds-digital-deluxe-edition.json](./139826-wwe-2k-battlegrounds-digital-deluxe-edition.json) |
 | WWE 2K15: Showcase Season Pass | 268862 | [268862-wwe-2k15-showcase-season-pass.json](./268862-wwe-2k15-showcase-season-pass.json) |
 | WWE 2K16 | 11057 | [11057-wwe-2k16.json](./11057-wwe-2k16.json) |
