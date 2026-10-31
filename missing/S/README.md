@@ -2438,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Sand Sojourn | 266202 | [266202-scarlet-sand-sojourn.json](./266202-scarlet-sand-sojourn.json) |
 | Scarlet Shift | 366588 | [366588-scarlet-shift.json](./366588-scarlet-shift.json) |
 | Scarlet Skips | 398972 | [398972-scarlet-skips.json](./398972-scarlet-skips.json) |
+| Scarlet Smiling Skull | 107501 | [107501-scarlet-smiling-skull.json](./107501-scarlet-smiling-skull.json) |
 | Scarlet Sorceress | 382217 | [382217-scarlet-sorceress.json](./382217-scarlet-sorceress.json) |
 | Scarlet Tale | 216930 | [216930-scarlet-tale.json](./216930-scarlet-tale.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
@@ -5124,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seq | 175080 | [175080-seq.json](./175080-seq.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence | 304526 | [304526-sequence.json](./304526-sequence.json) |
+| Sequence - Robot programming simulator | 107527 | [107527-sequence-robot-programming-simulator.json](./107527-sequence-robot-programming-simulator.json) |
 | Sequence Jump | 361854 | [361854-sequence-jump.json](./361854-sequence-jump.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
@@ -17409,6 +17411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
 | Space Cowboys: Riders of the Storm | 261113 | [261113-space-cowboys-riders-of-the-storm.json](./261113-space-cowboys-riders-of-the-storm.json) |
+| Space Cows | 107530 | [107530-space-cows.json](./107530-space-cows.json) |
 | Space Crab VS | 270147 | [270147-space-crab-vs.json](./270147-space-crab-vs.json) |
 | Space Craft | 159764 | [159764-space-craft.json](./159764-space-craft.json) |
 | Space Crafter | 187230 | [187230-space-crafter.json](./187230-space-crafter.json) |
@@ -17916,6 +17919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
+| Space Pirate Amai | 107513 | [107513-space-pirate-amai.json](./107513-space-pirate-amai.json) |
 | Space Pirate Dernshous | 229320 | [229320-space-pirate-dernshous.json](./229320-space-pirate-dernshous.json) |
 | Space Pirate King | 149769 | [149769-space-pirate-king.json](./149769-space-pirate-king.json) |
 | Space Pirate Sara | 139039 | [139039-space-pirate-sara.json](./139039-space-pirate-sara.json) |
