@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.I.P Client | 374975 | [374975-v-i-p-client.json](./374975-v-i-p-client.json) |
 | V.L.A.D.i.K | 114804 | [114804-v-l-a-d-i-k.json](./114804-v-l-a-d-i-k.json) |
 | V.O.D.K.A. Open World Survival Shooter | 144021 | [144021-v-o-d-k-a-open-world-survival-shooter.json](./144021-v-o-d-k-a-open-world-survival-shooter.json) |
+| V.O.I.D. | 105649 | [105649-v-o-i-d.json](./105649-v-o-i-d.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
 | V.R. Virtua Racing | 70773 | [70773-v-r-virtua-racing.json](./70773-v-r-virtua-racing.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Santa Skiing | 232295 | [232295-voxel-santa-skiing.json](./232295-voxel-santa-skiing.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
+| Voxel Shot for Nintendo Switch | 105608 | [105608-voxel-shot-for-nintendo-switch.json](./105608-voxel-shot-for-nintendo-switch.json) |
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
 | Voxel Tactics | 160016 | [160016-voxel-tactics.json](./160016-voxel-tactics.json) |
 | Voxel Tank VR | 74291 | [74291-voxel-tank-vr.json](./74291-voxel-tank-vr.json) |
