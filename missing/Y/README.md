@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YATB: You Are the Best - Egypt Chapter | 143943 | [143943-yatb-you-are-the-best-egypt-chapter.json](./143943-yatb-you-are-the-best-egypt-chapter.json) |
 | YATC | 62029 | [62029-yatc.json](./62029-yatc.json) |
 | Yaten's Horror Session | 284230 | [284230-yatens-horror-session.json](./284230-yatens-horror-session.json) |
+| Yatohime Zankikou | 77699 | [77699-yatohime-zankikou.json](./77699-yatohime-zankikou.json) |
 | Yatohime Zankikou Extra Kimagure Karasu to Yanchahime | 77927 | [77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json](./77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yatsumeguri | 309055 | [309055-yatsumeguri.json](./309055-yatsumeguri.json) |
