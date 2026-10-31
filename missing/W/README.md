@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmerise | 363053 | [363053-warmerise.json](./363053-warmerise.json) |
 | Warmle | 210589 | [210589-warmle.json](./210589-warmle.json) |
 | Warmode | 34735 | [34735-warmode.json](./34735-warmode.json) |
+| Warmonger | 87771 | [87771-warmonger.json](./87771-warmonger.json) |
 | Warmonger: Sins of the Naga | 199605 | [199605-warmonger-sins-of-the-naga.json](./199605-warmonger-sins-of-the-naga.json) |
 | Warmonger:45 | 338399 | [338399-warmonger-45.json](./338399-warmonger-45.json) |
 | Warmongers | 273392 | [273392-warmongers.json](./273392-warmongers.json) |
@@ -5183,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
 | Windhawk | 388110 | [388110-windhawk.json](./388110-windhawk.json) |
 | Windhelm | 226119 | [226119-windhelm.json](./226119-windhelm.json) |
+| Windin | 87879 | [87879-windin.json](./87879-windin.json) |
 | Winding Heat | 282431 | [282431-winding-heat.json](./282431-winding-heat.json) |
 | Winding Road | 180010 | [180010-winding-road.json](./180010-winding-road.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
@@ -7004,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Worm | 361732 | [361732-word-worm.json](./361732-word-worm.json) |
 | Word Worth | 101083 | [101083-word-worth.json](./101083-word-worth.json) |
 | Word Wow | 92094 | [92094-word-wow.json](./92094-word-wow.json) |
+| Word Wow - Help a worm out! | 87912 | [87912-word-wow-help-a-worm-out.json](./87912-word-wow-help-a-worm-out.json) |
 | Word Wow Around the World | 87298 | [87298-word-wow-around-the-world.json](./87298-word-wow-around-the-world.json) |
 | Word Wow Big City | 87127 | [87127-word-wow-big-city.json](./87127-word-wow-big-city.json) |
 | Word Wreck | 241329 | [241329-word-wreck.json](./241329-word-wreck.json) |
