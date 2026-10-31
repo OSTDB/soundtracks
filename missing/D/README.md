@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datbyel's Nebula | 309744 | [309744-datbyels-nebula.json](./309744-datbyels-nebula.json) |
 | Date A Live | 193790 | [193790-date-a-live.json](./193790-date-a-live.json) |
 | Date A Live Twin Edition: Rio Reincarnation | 11830 | [11830-date-a-live-twin-edition-rio-reincarnation.json](./11830-date-a-live-twin-edition-rio-reincarnation.json) |
+| Date A Live Twin Edition: Rio Reincarnation - Limited Edition | 86347 | [86347-date-a-live-twin-edition-rio-reincarnation-limited-edition.json](./86347-date-a-live-twin-edition-rio-reincarnation-limited-edition.json) |
 | Date A Live: Arusu Install | 11829 | [11829-date-a-live-arusu-install.json](./11829-date-a-live-arusu-install.json) |
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
 | Date A Live: Ren Dystopia | 114150 | [114150-date-a-live-ren-dystopia.json](./114150-date-a-live-ren-dystopia.json) |
@@ -11251,6 +11252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall | 266312 | [266312-dont-fall.json](./266312-dont-fall.json) |
 | Don't Fall | 348942 | [348942-dont-fall.json](./348942-dont-fall.json) |
 | Don't Fall | 365196 | [365196-dont-fall.json](./365196-dont-fall.json) |
+| Don't Fall | 86473 | [86473-dont-fall.json](./86473-dont-fall.json) |
 | Don't Fall Asleep | 149192 | [149192-dont-fall-asleep.json](./149192-dont-fall-asleep.json) |
 | Don't Fall: Aleph | 209919 | [209919-dont-fall-aleph.json](./209919-dont-fall-aleph.json) |
 | Don't Fall: Aleph - Refresh | 214694 | [214694-dont-fall-aleph-refresh.json](./214694-dont-fall-aleph-refresh.json) |
@@ -17134,6 +17136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk HD | 269503 | [269503-dusk-hd.json](./269503-dusk-hd.json) |
 | Dusk Hollow | 221371 | [221371-dusk-hollow.json](./221371-dusk-hollow.json) |
 | Dusk Hunters | 402561 | [402561-dusk-hunters.json](./402561-dusk-hunters.json) |
+| Dusk of Confinement | 86486 | [86486-dusk-of-confinement.json](./86486-dusk-of-confinement.json) |
 | Dusk of Dragons: Survivors | 256953 | [256953-dusk-of-dragons-survivors.json](./256953-dusk-of-dragons-survivors.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk of the wasteland age | 163351 | [163351-dusk-of-the-wasteland-age.json](./163351-dusk-of-the-wasteland-age.json) |
