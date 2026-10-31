@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamale Loco: Rumble in the Desert | 173076 | [173076-tamale-loco-rumble-in-the-desert.json](./173076-tamale-loco-rumble-in-the-desert.json) |
 | Tamale Loco: Rumble in the Desert 2 | 174563 | [174563-tamale-loco-rumble-in-the-desert-2.json](./174563-tamale-loco-rumble-in-the-desert-2.json) |
 | Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
+| Tamane with Happa and Friends | 82565 | [82565-tamane-with-happa-and-friends.json](./82565-tamane-with-happa-and-friends.json) |
 | TamaOtchi | 229850 | [229850-tamaotchi.json](./229850-tamaotchi.json) |
 | Tamara | 339483 | [339483-tamara.json](./339483-tamara.json) |
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
@@ -15225,6 +15226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sins | 267573 | [267573-the-sins.json](./267573-the-sins.json) |
 | The Sireen | 277324 | [277324-the-sireen.json](./277324-the-sireen.json) |
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
+| The Six Dragons | 82572 | [82572-the-six-dragons.json](./82572-the-six-dragons.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
 | The Sixth Faction | 217169 | [217169-the-sixth-faction.json](./217169-the-sixth-faction.json) |
@@ -18798,6 +18800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Blast Man | 50057 | [50057-thunder-blast-man.json](./50057-thunder-blast-man.json) |
 | Thunder Blaster Man | 48463 | [48463-thunder-blaster-man.json](./48463-thunder-blaster-man.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
+| Thunder Ceptor | 82510 | [82510-thunder-ceptor.json](./82510-thunder-ceptor.json) |
 | Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Cross II | 46774 | [46774-thunder-cross-ii.json](./46774-thunder-cross-ii.json) |
@@ -29251,6 +29254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
 | Tsukisas Arena | 149225 | [149225-tsukisas-arena.json](./149225-tsukisas-arena.json) |
+| Tsukkomi! Magical Balls | 82554 | [82554-tsukkomi-magical-balls.json](./82554-tsukkomi-magical-balls.json) |
 | Tsukodome | 280469 | [280469-tsukodome.json](./280469-tsukodome.json) |
 | Tsukue de Dodgeball | 144666 | [144666-tsukue-de-dodgeball.json](./144666-tsukue-de-dodgeball.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
