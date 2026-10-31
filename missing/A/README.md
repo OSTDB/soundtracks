@@ -6869,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark: The New Nightmare | 320336 | [320336-alone-in-the-dark-the-new-nightmare.json](./320336-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The Trilogy 1+2+3 | 148420 | [148420-alone-in-the-dark-the-trilogy-1-2-3.json](./148420-alone-in-the-dark-the-trilogy-1-2-3.json) |
 | Alone in the Dark: Vintage Horror Filter Pack | 336139 | [336139-alone-in-the-dark-vintage-horror-filter-pack.json](./336139-alone-in-the-dark-vintage-horror-filter-pack.json) |
+| Alone in the Forest VR | 100535 | [100535-alone-in-the-forest-vr.json](./100535-alone-in-the-forest-vr.json) |
 | Alone in the Grey | 151829 | [151829-alone-in-the-grey.json](./151829-alone-in-the-grey.json) |
 | Alone in the Grey | 201707 | [201707-alone-in-the-grey.json](./201707-alone-in-the-grey.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
@@ -9078,6 +9079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Puzzles Games: little boys & girls puzzle | 87217 | [87217-animal-puzzles-games-little-boys-and-girls-puzzle.json](./87217-animal-puzzles-games-little-boys-and-girls-puzzle.json) |
 | Animal Race Run VR | 303155 | [303155-animal-race-run-vr.json](./303155-animal-race-run-vr.json) |
+| Animal Records | 100520 | [100520-animal-records.json](./100520-animal-records.json) |
 | Animal Relay A | 229502 | [229502-animal-relay-a.json](./229502-animal-relay-a.json) |
 | Animal Relay B | 229504 | [229504-animal-relay-b.json](./229504-animal-relay-b.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
