@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Chopsticks | 338599 | [338599-ultimate-chopsticks.json](./338599-ultimate-chopsticks.json) |
 | Ultimate Christmas Puzzler 2 | 195429 | [195429-ultimate-christmas-puzzler-2.json](./195429-ultimate-christmas-puzzler-2.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
+| Ultimate Civil War Battles: Robert E. Lee vs. Ulysses S. Grant | 69057 | [69057-ultimate-civil-war-battles-robert-e-lee-vs-ulysses-s-grant.json](./69057-ultimate-civil-war-battles-robert-e-lee-vs-ulysses-s-grant.json) |
 | Ultimate Coaster X | 115536 | [115536-ultimate-coaster-x.json](./115536-ultimate-coaster-x.json) |
 | Ultimate Combat Fighting | 323317 | [323317-ultimate-combat-fighting.json](./323317-ultimate-combat-fighting.json) |
 | Ultimate Custom Night | 103629 | [103629-ultimate-custom-night.json](./103629-ultimate-custom-night.json) |
@@ -1200,7 +1201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbound Drift | 407900 | [407900-unbound-drift.json](./407900-unbound-drift.json) |
 | Unbound Eternity | 338592 | [338592-unbound-eternity.json](./338592-unbound-eternity.json) |
 | Unbound Saga | 21101 | [21101-unbound-saga.json](./21101-unbound-saga.json) |
-| Unbound: Worlds Apart | 89597 | [89597-unbound-worlds-apart.json](./89597-unbound-worlds-apart.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
 | Unbox | 19001 | [19001-unbox.json](./19001-unbox.json) |
 | Unbox The Cats | 337009 | [337009-unbox-the-cats.json](./337009-unbox-the-cats.json) |
