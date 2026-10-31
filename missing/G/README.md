@@ -4320,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass | 166487 | [166487-glass.json](./166487-glass.json) |
 | Glass | 171995 | [171995-glass.json](./171995-glass.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
+| Glass Breaker | 108116 | [108116-glass-breaker.json](./108116-glass-breaker.json) |
 | Glass Bridge | 215580 | [215580-glass-bridge.json](./215580-glass-bridge.json) |
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass City : The Dust | 76433 | [76433-glass-city-the-dust.json](./76433-glass-city-the-dust.json) |
@@ -8121,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
 | GregTech: New Horizons | 400822 | [400822-gregtech-new-horizons.json](./400822-gregtech-new-horizons.json) |
 | Grejsimojs | 287305 | [287305-grejsimojs.json](./287305-grejsimojs.json) |
+| Grell and Fella | 108113 | [108113-grell-and-fella.json](./108113-grell-and-fella.json) |
 | Gremlin Collection 1 | 185977 | [185977-gremlin-collection-1.json](./185977-gremlin-collection-1.json) |
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
 | Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
@@ -9885,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gungriffon Blaze | 21978 | [21978-gungriffon-blaze.json](./21978-gungriffon-blaze.json) |
+| GunGun Online: Shooting Game | 108153 | [108153-gungun-online-shooting-game.json](./108153-gungun-online-shooting-game.json) |
 | GunGun: Race Against Time | 297514 | [297514-gungun-race-against-time.json](./297514-gungun-race-against-time.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
