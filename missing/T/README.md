@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tectron: Omorashi Baby | 385826 | [385826-tectron-omorashi-baby.json](./385826-tectron-omorashi-baby.json) |
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
 | Ted by Dawn | 34963 | [34963-ted-by-dawn.json](./34963-ted-by-dawn.json) |
+| Ted Nugent - Wild Hunting Adventure | 118558 | [118558-ted-nugent-wild-hunting-adventure.json](./118558-ted-nugent-wild-hunting-adventure.json) |
 | TED Tumblewords | 322645 | [322645-ted-tumblewords.json](./322645-ted-tumblewords.json) |
 | Tedd'or | 195088 | [195088-teddor.json](./195088-teddor.json) |
 | Teddies and Rainbows | 95632 | [95632-teddies-and-rainbows.json](./95632-teddies-and-rainbows.json) |
@@ -10517,6 +10518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
 | The King of Fighters XIII: Global Match | 261086 | [261086-the-king-of-fighters-xiii-global-match.json](./261086-the-king-of-fighters-xiii-global-match.json) |
 | The King of Fighters XIII: Global Match: Deluxe Edition | 276942 | [276942-the-king-of-fighters-xiii-global-match-deluxe-edition.json](./276942-the-king-of-fighters-xiii-global-match-deluxe-edition.json) |
+| The King of Fighters XIII: Gold Edition | 118564 | [118564-the-king-of-fighters-xiii-gold-edition.json](./118564-the-king-of-fighters-xiii-gold-edition.json) |
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
 | The King of Fighters XIII: Mr. Karate | 404942 | [404942-the-king-of-fighters-xiii-mr-karate.json](./404942-the-king-of-fighters-xiii-mr-karate.json) |
 | The King of Fighters XIII: Nests Style Kyo | 404922 | [404922-the-king-of-fighters-xiii-nests-style-kyo.json](./404922-the-king-of-fighters-xiii-nests-style-kyo.json) |
@@ -13097,6 +13099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ones Who Answered | 410340 | [410340-the-ones-who-answered.json](./410340-the-ones-who-answered.json) |
 | The Oni Sellsword | 106403 | [106403-the-oni-sellsword.json](./106403-the-oni-sellsword.json) |
 | The Oni Taiji: Mezase! Nidaime Momotarou | 257855 | [257855-the-oni-taiji-mezase-nidaime-momotarou.json](./257855-the-oni-taiji-mezase-nidaime-momotarou.json) |
+| The Onion Knights: Definite Edition | 118578 | [118578-the-onion-knights-definite-edition.json](./118578-the-onion-knights-definite-edition.json) |
 | The Onion Knights: Definitive Edition | 29300 | [29300-the-onion-knights-definitive-edition.json](./29300-the-onion-knights-definitive-edition.json) |
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
 | The Only One | 128872 | [128872-the-only-one.json](./128872-the-only-one.json) |
@@ -15650,6 +15653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge 2: Public Enemy Weapon Pack | 223532 | [223532-the-surge-2-public-enemy-weapon-pack.json](./223532-the-surge-2-public-enemy-weapon-pack.json) |
 | The Surge: A Walk in the Park | 75285 | [75285-the-surge-a-walk-in-the-park.json](./75285-the-surge-a-walk-in-the-park.json) |
+| The Surge: Augmented Edition | 118552 | [118552-the-surge-augmented-edition.json](./118552-the-surge-augmented-edition.json) |
 | The Surge: Fire & Ice Weapon Pack | 69512 | [69512-the-surge-fire-and-ice-weapon-pack.json](./69512-the-surge-fire-and-ice-weapon-pack.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
 | The Surgeon | 222813 | [222813-the-surgeon.json](./222813-the-surgeon.json) |
@@ -27738,6 +27742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Wilderness | 109381 | [109381-trials-of-wilderness.json](./109381-trials-of-wilderness.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Trials Rising | 103316 | [103316-trials-rising.json](./103316-trials-rising.json) |
+| Trials Rising: Digital Gold Edition | 118562 | [118562-trials-rising-digital-gold-edition.json](./118562-trials-rising-digital-gold-edition.json) |
 | Trials Survivors | 373890 | [373890-trials-survivors.json](./373890-trials-survivors.json) |
 | Trials: Gold Pack | 219004 | [219004-trials-gold-pack.json](./219004-trials-gold-pack.json) |
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
