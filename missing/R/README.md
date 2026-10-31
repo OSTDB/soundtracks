@@ -8522,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockBeasts | 333047 | [333047-rockbeasts.json](./333047-rockbeasts.json) |
 | Rockbot | 39199 | [39199-rockbot.json](./39199-rockbot.json) |
 | Rockefeller: The Black Gold | 10781 | [10781-rockefeller-the-black-gold.json](./10781-rockefeller-the-black-gold.json) |
+| RockerBox Tycoon | 101863 | [101863-rockerbox-tycoon.json](./101863-rockerbox-tycoon.json) |
 | Rocket Adventure | 111448 | [111448-rocket-adventure.json](./111448-rocket-adventure.json) |
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
 | Rocket Arena | 118565 | [118565-rocket-arena.json](./118565-rocket-arena.json) |
@@ -11034,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Fighter: Unleashed | 35531 | [35531-rumble-fighter-unleashed.json](./35531-rumble-fighter-unleashed.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble Hockey | 137866 | [137866-rumble-hockey.json](./137866-rumble-hockey.json) |
+| Rumble in the Soup | 101883 | [101883-rumble-in-the-soup.json](./101883-rumble-in-the-soup.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
 | Rumble Road | 182026 | [182026-rumble-road.json](./182026-rumble-road.json) |
