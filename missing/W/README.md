@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Day 2: The Flower That Tells Lies - Ep.3 | 257484 | [257484-white-day-2-the-flower-that-tells-lies-ep-3.json](./257484-white-day-2-the-flower-that-tells-lies-ep-3.json) |
 | White Day VR: The Courage Test | 150390 | [150390-white-day-vr-the-courage-test.json](./150390-white-day-vr-the-courage-test.json) |
 | White Desert | 256973 | [256973-white-desert.json](./256973-white-desert.json) |
+| White Diamond | 82509 | [82509-white-diamond.json](./82509-white-diamond.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
 | White Girl | 165598 | [165598-white-girl.json](./165598-white-girl.json) |
@@ -8111,6 +8112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Chess: Esther Sauce | 183423 | [183423-worst-chess-esther-sauce.json](./183423-worst-chess-esther-sauce.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
+| Worst Guest | 82555 | [82555-worst-guest.json](./82555-worst-guest.json) |
 | Worst Idea | 295402 | [295402-worst-idea.json](./295402-worst-idea.json) |
 | Worst Nightmare | 151554 | [151554-worst-nightmare.json](./151554-worst-nightmare.json) |
 | Worst Shop in Town | 405073 | [405073-worst-shop-in-town.json](./405073-worst-shop-in-town.json) |
@@ -8696,5 +8698,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyvern Warriors | 410079 | [410079-wyvern-warriors.json](./410079-wyvern-warriors.json) |
 | Wyvern Wings | 109439 | [109439-wyvern-wings.json](./109439-wyvern-wings.json) |
 | Wyvia | 172963 | [172963-wyvia.json](./172963-wyvia.json) |
+| WyVRn | 82535 | [82535-wyvrn.json](./82535-wyvrn.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
 | Wzrds | 360754 | [360754-wzrds.json](./360754-wzrds.json) |
