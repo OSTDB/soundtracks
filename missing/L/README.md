@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
 | Learning Factory: Curious Mind Edition | 221489 | [221489-learning-factory-curious-mind-edition.json](./221489-learning-factory-curious-mind-edition.json) |
 | Learning Factory: True Engineer Edition | 221488 | [221488-learning-factory-true-engineer-edition.json](./221488-learning-factory-true-engineer-edition.json) |
+| Learning Game Scholastic Outwit | 69045 | [69045-learning-game-scholastic-outwit.json](./69045-learning-game-scholastic-outwit.json) |
 | Learning Geography: Countries of the World | 217468 | [217468-learning-geography-countries-of-the-world.json](./217468-learning-geography-countries-of-the-world.json) |
 | Learning jigsaw: Animals | 154307 | [154307-learning-jigsaw-animals.json](./154307-learning-jigsaw-animals.json) |
 | Learning Ladder: Year 3 | 327264 | [327264-learning-ladder-year-3.json](./327264-learning-ladder-year-3.json) |
@@ -7700,7 +7701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
 | LostTicket | 342910 | [342910-lostticket.json](./342910-lostticket.json) |
-| LostWinds | 21486 | [21486-lostwinds.json](./21486-lostwinds.json) |
 | LostX Dungeon | 112213 | [112213-lostx-dungeon.json](./112213-lostx-dungeon.json) |
 | Lostx Dungeon II | 116654 | [116654-lostx-dungeon-ii.json](./116654-lostx-dungeon-ii.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
