@@ -5765,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish or Die | 219239 | [219239-demolish-or-die.json](./219239-demolish-or-die.json) |
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
 | Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
+| Demolition | 88709 | [88709-demolition.json](./88709-demolition.json) |
 | Demolition Ball | 102930 | [102930-demolition-ball.json](./102930-demolition-ball.json) |
 | Demolition Company | 3175 | [3175-demolition-company.json](./3175-demolition-company.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
