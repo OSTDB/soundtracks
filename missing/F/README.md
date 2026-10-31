@@ -12735,6 +12735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
 | Fx Racer Unlimited | 175117 | [175117-fx-racer-unlimited.json](./175117-fx-racer-unlimited.json) |
+| FX-Unit Yuki: The Henshin Engine | 108121 | [108121-fx-unit-yuki-the-henshin-engine.json](./108121-fx-unit-yuki-the-henshin-engine.json) |
 | Fxxkable Kim | 379919 | [379919-fxxkable-kim.json](./379919-fxxkable-kim.json) |
 | Fxxx Me Royally!! Horny Magical Princess | 141710 | [141710-fxxx-me-royally-horny-magical-princess.json](./141710-fxxx-me-royally-horny-magical-princess.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
