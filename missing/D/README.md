@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Party Crunkmas | 87230 | [87230-dance-party-crunkmas.json](./87230-dance-party-crunkmas.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
+| Dance Reality | 115948 | [115948-dance-reality.json](./115948-dance-reality.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
 | Dance Station Stepper | 141588 | [141588-dance-station-stepper.json](./141588-dance-station-stepper.json) |
 | Dance Summit 2001: Bust a Move | 72953 | [72953-dance-summit-2001-bust-a-move.json](./72953-dance-summit-2001-bust-a-move.json) |
@@ -1445,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
 | Dark Gaze: Curse of the Black Nazar | 279853 | [279853-dark-gaze-curse-of-the-black-nazar.json](./279853-dark-gaze-curse-of-the-black-nazar.json) |
 | Dark Ghost RPG | 96879 | [96879-dark-ghost-rpg.json](./96879-dark-ghost-rpg.json) |
+| Dark Gnome | 115946 | [115946-dark-gnome.json](./115946-dark-gnome.json) |
 | Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
 | Dark Gravity | 128311 | [128311-dark-gravity.json](./128311-dark-gravity.json) |
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
@@ -2291,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data mining 4 | 113563 | [113563-data-mining-4.json](./113563-data-mining-4.json) |
 | Data mining 5 | 114313 | [114313-data-mining-5.json](./114313-data-mining-5.json) |
 | Data mining 6 | 115125 | [115125-data-mining-6.json](./115125-data-mining-6.json) |
+| Data mining 7 | 115953 | [115953-data-mining-7.json](./115953-data-mining-7.json) |
 | Data Mining 8 | 155344 | [155344-data-mining-8.json](./155344-data-mining-8.json) |
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
@@ -5037,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defect | 313764 | [313764-defect.json](./313764-defect.json) |
 | Defect detector | 219237 | [219237-defect-detector.json](./219237-defect-detector.json) |
 | Defect Process | 173029 | [173029-defect-process.json](./173029-defect-process.json) |
+| Defection | 115942 | [115942-defection.json](./115942-defection.json) |
 | Defective | 343738 | [343738-defective.json](./343738-defective.json) |
 | Defective | 55730 | [55730-defective.json](./55730-defective.json) |
 | Defective Holiday | 133630 | [133630-defective-holiday.json](./133630-defective-holiday.json) |
@@ -6903,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destructamundo | 17842 | [17842-destructamundo.json](./17842-destructamundo.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
+| Destruction | 115987 | [115987-destruction.json](./115987-destruction.json) |
 | Destruction AllStars: Season 1 - Hotshots | 412362 | [412362-destruction-allstars-season-1-hotshots.json](./412362-destruction-allstars-season-1-hotshots.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
@@ -8994,6 +8999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirtyblock | 195374 | [195374-dirtyblock.json](./195374-dirtyblock.json) |
 | Dis Assemble | 183977 | [183977-dis-assemble.json](./183977-dis-assemble.json) |
 | Dis Pontibus 2 | 203950 | [203950-dis-pontibus-2.json](./203950-dis-pontibus-2.json) |
+| Dis: The Game | 115966 | [115966-dis-the-game.json](./115966-dis-the-game.json) |
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
 | Disappearance Time | 71012 | [71012-disappearance-time.json](./71012-disappearance-time.json) |
 | Disappearance: Takeshi. You were right. That Abandoned Village is Too Bad | 283096 | [283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json](./283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json) |
@@ -17064,6 +17070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
 | Dust Front RTS | 271109 | [271109-dust-front-rts.json](./271109-dust-front-rts.json) |
 | Dust On Thorn | 405737 | [405737-dust-on-thorn.json](./405737-dust-on-thorn.json) |
+| Dust on Wheels | 115973 | [115973-dust-on-wheels.json](./115973-dust-on-wheels.json) |
 | Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
 | Dust Remains | 199316 | [199316-dust-remains.json](./199316-dust-remains.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
@@ -17145,6 +17152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
 | Dwarf | 83341 | [83341-dwarf.json](./83341-dwarf.json) |
+| Dwarf Block | 115964 | [115964-dwarf-block.json](./115964-dwarf-block.json) |
 | Dwarf Boozter | 353619 | [353619-dwarf-boozter.json](./353619-dwarf-boozter.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Core | 417611 | [417611-dwarf-core.json](./417611-dwarf-core.json) |
