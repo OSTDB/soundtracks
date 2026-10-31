@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Force | 273849 | [273849-galaxy-force.json](./273849-galaxy-force.json) |
 | Galaxy Force | 45651 | [45651-galaxy-force.json](./45651-galaxy-force.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
+| Galaxy Fräulein Yuna | 64691 | [64691-galaxy-fraulein-yuna.json](./64691-galaxy-fraulein-yuna.json) |
 | Galaxy Fräulein Yuna 2: Eien no Princess | 64689 | [64689-galaxy-fraulein-yuna-2-eien-no-princess.json](./64689-galaxy-fraulein-yuna-2-eien-no-princess.json) |
 | Galaxy Fräulein Yuna 3: Lightning Angel | 64144 | [64144-galaxy-fraulein-yuna-3-lightning-angel.json](./64144-galaxy-fraulein-yuna-3-lightning-angel.json) |
 | Galaxy Fräulein Yuna FX: Kanashimi no Siren | 281927 | [281927-galaxy-fraulein-yuna-fx-kanashimi-no-siren.json](./281927-galaxy-fraulein-yuna-fx-kanashimi-no-siren.json) |
@@ -1326,7 +1327,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game.exe | 153144 | [153144-game-exe.json](./153144-game-exe.json) |
 | Game.exe 2: Phantom Strike | 390382 | [390382-game-exe-2-phantom-strike.json](./390382-game-exe-2-phantom-strike.json) |
 | Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
+| Gamebook Adventures 2: The Siege of the Necromancer | 64762 | [64762-gamebook-adventures-2-the-siege-of-the-necromancer.json](./64762-gamebook-adventures-2-the-siege-of-the-necromancer.json) |
+| Gamebook Adventures 3: Slaves of Rema | 64767 | [64767-gamebook-adventures-3-slaves-of-rema.json](./64767-gamebook-adventures-3-slaves-of-rema.json) |
+| Gamebook Adventures 4: Revenant Rising | 64763 | [64763-gamebook-adventures-4-revenant-rising.json](./64763-gamebook-adventures-4-revenant-rising.json) |
+| Gamebook Adventures 5: Catacombs of the Undercity | 64761 | [64761-gamebook-adventures-5-catacombs-of-the-undercity.json](./64761-gamebook-adventures-5-catacombs-of-the-undercity.json) |
+| Gamebook Adventures 6: The Wizard from Tarnath Tor | 64760 | [64760-gamebook-adventures-6-the-wizard-from-tarnath-tor.json](./64760-gamebook-adventures-6-the-wizard-from-tarnath-tor.json) |
+| Gamebook Adventures 7: Temple of the Spider God | 64757 | [64757-gamebook-adventures-7-temple-of-the-spider-god.json](./64757-gamebook-adventures-7-temple-of-the-spider-god.json) |
 | Gamebook Adventures 8: Curse of the Assassin | 174344 | [174344-gamebook-adventures-8-curse-of-the-assassin.json](./174344-gamebook-adventures-8-curse-of-the-assassin.json) |
+| Gamebook Adventures 8: Infinite Universe | 64758 | [64758-gamebook-adventures-8-infinite-universe.json](./64758-gamebook-adventures-8-infinite-universe.json) |
 | Gamebook Adventures 9: Sultans of Rema | 175167 | [175167-gamebook-adventures-9-sultans-of-rema.json](./175167-gamebook-adventures-9-sultans-of-rema.json) |
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
 | GameBoy Wordle | 195209 | [195209-gameboy-wordle.json](./195209-gameboy-wordle.json) |
@@ -3454,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Land | 120586 | [120586-ghost-land.json](./120586-ghost-land.json) |
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
+| Ghost Mania | 64702 | [64702-ghost-mania.json](./64702-ghost-mania.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
 | Ghost Mansion Party | 77126 | [77126-ghost-mansion-party.json](./77126-ghost-mansion-party.json) |
 | Ghost Marine Shooter Pro | 87536 | [87536-ghost-marine-shooter-pro.json](./87536-ghost-marine-shooter-pro.json) |
