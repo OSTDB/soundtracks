@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanatorium | 82652 | [82652-sanatorium.json](./82652-sanatorium.json) |
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
 | Sanatory Hallways | 85367 | [85367-sanatory-hallways.json](./85367-sanatory-hallways.json) |
+| Sancho Ponchek | 101905 | [101905-sancho-ponchek.json](./101905-sancho-ponchek.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
 | Sanctified | 230176 | [230176-sanctified.json](./230176-sanctified.json) |
@@ -7185,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock | 353927 | [353927-sherlock.json](./353927-sherlock.json) |
 | Sherlock and Watson: A Study in Scarlet | 226624 | [226624-sherlock-and-watson-a-study-in-scarlet.json](./226624-sherlock-and-watson-a-study-in-scarlet.json) |
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
+| Sherlock Holmes 2 | 101911 | [101911-sherlock-holmes-2.json](./101911-sherlock-holmes-2.json) |
 | Sherlock Holmes and The Hound of The Baskervilles | 16357 | [16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json](./16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json) |
 | Sherlock Holmes and the Mystery of Osborne House | 47926 | [47926-sherlock-holmes-and-the-mystery-of-osborne-house.json](./47926-sherlock-holmes-and-the-mystery-of-osborne-house.json) |
 | Sherlock Holmes Collection | 46440 | [46440-sherlock-holmes-collection.json](./46440-sherlock-holmes-collection.json) |
@@ -8107,6 +8109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shokutama | 97828 | [97828-shokutama.json](./97828-shokutama.json) |
 | Shokutte Night | 97844 | [97844-shokutte-night.json](./97844-shokutte-night.json) |
 | Shonen Adventure: The Dual Blades Hero | 164859 | [164859-shonen-adventure-the-dual-blades-hero.json](./164859-shonen-adventure-the-dual-blades-hero.json) |
+| Shonen Idle | 101908 | [101908-shonen-idle.json](./101908-shonen-idle.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
 | Shoni Island | 306422 | [306422-shoni-island.json](./306422-shoni-island.json) |
 | Shoo, Box! | 157311 | [157311-shoo-box.json](./157311-shoo-box.json) |
@@ -13021,6 +13024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smell of Death | 33470 | [33470-smell-of-death.json](./33470-smell-of-death.json) |
 | Smells Like a Mushroom | 240795 | [240795-smells-like-a-mushroom.json](./240795-smells-like-a-mushroom.json) |
 | Smells Like A Mushroom: 100% Vegan Edition | 323892 | [323892-smells-like-a-mushroom-100-vegan-edition.json](./323892-smells-like-a-mushroom-100-vegan-edition.json) |
+| Smells Like Art | 101884 | [101884-smells-like-art.json](./101884-smells-like-art.json) |
 | Smells Like Burnt Rubber | 226623 | [226623-smells-like-burnt-rubber.json](./226623-smells-like-burnt-rubber.json) |
 | Smells Like Fear Blossoms | 364838 | [364838-smells-like-fear-blossoms.json](./364838-smells-like-fear-blossoms.json) |
 | Smells Like Grandma's | 271721 | [271721-smells-like-grandmas.json](./271721-smells-like-grandmas.json) |
@@ -17566,6 +17570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
 | Space Fishing | 302180 | [302180-space-fishing.json](./302180-space-fishing.json) |
 | Space Fist | 29681 | [29681-space-fist.json](./29681-space-fist.json) |
+| Space Flash Arena 2 | 101888 | [101888-space-flash-arena-2.json](./101888-space-flash-arena-2.json) |
 | Space Flex | 147399 | [147399-space-flex.json](./147399-space-flex.json) |
 | Space Flight - VR Showcase | 103432 | [103432-space-flight-vr-showcase.json](./103432-space-flight-vr-showcase.json) |
 | Space Flowers | 93761 | [93761-space-flowers.json](./93761-space-flowers.json) |
@@ -25736,6 +25741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikefleet Omega | 63147 | [63147-strikefleet-omega.json](./63147-strikefleet-omega.json) |
 | Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
 | Strikeforce Kitty 2 | 102018 | [102018-strikeforce-kitty-2.json](./102018-strikeforce-kitty-2.json) |
+| Strikeforce Kitty: Last Stand | 101904 | [101904-strikeforce-kitty-last-stand.json](./101904-strikeforce-kitty-last-stand.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker | 12783 | [12783-striker.json](./12783-striker.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
@@ -26732,6 +26738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Tanks Arena | 291506 | [291506-sugar-tanks-arena.json](./291506-sugar-tanks-arena.json) |
 | Sugar-Coated | 221038 | [221038-sugar-coated.json](./221038-sugar-coated.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
+| Sugar, Sugar 3 | 101910 | [101910-sugar-sugar-3.json](./101910-sugar-sugar-3.json) |
 | Sugar, Sugar: The Christmas Special | 319429 | [319429-sugar-sugar-the-christmas-special.json](./319429-sugar-sugar-the-christmas-special.json) |
 | Sugar's Delight | 172445 | [172445-sugars-delight.json](./172445-sugars-delight.json) |
 | Sugarbound | 334288 | [334288-sugarbound.json](./334288-sugarbound.json) |
