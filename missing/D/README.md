@@ -3646,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
 | DeadFright | 154429 | [154429-deadfright.json](./154429-deadfright.json) |
 | Deadful Leningrad: Developer Life Simulator | 422026 | [422026-deadful-leningrad-developer-life-simulator.json](./422026-deadful-leningrad-developer-life-simulator.json) |
+| Deadhaus Sonata | 111333 | [111333-deadhaus-sonata.json](./111333-deadhaus-sonata.json) |
 | Deadhead: Autorail | 412245 | [412245-deadhead-autorail.json](./412245-deadhead-autorail.json) |
 | Deadheat Road | 43799 | [43799-deadheat-road.json](./43799-deadheat-road.json) |
 | DeadHex | 270566 | [270566-deadhex.json](./270566-deadhex.json) |
@@ -4922,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Water | 85965 | [85965-deep-water.json](./85965-deep-water.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deep Within the Mist | 359344 | [359344-deep-within-the-mist.json](./359344-deep-within-the-mist.json) |
+| Deep: Final Mission | 111324 | [111324-deep-final-mission.json](./111324-deep-final-mission.json) |
 | Deep/Wing/Break | 199194 | [199194-deep-wing-break.json](./199194-deep-wing-break.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
@@ -7300,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Mega Buster | 370873 | [370873-devil-may-cry-5-mega-buster.json](./370873-devil-may-cry-5-mega-buster.json) |
 | Devil May Cry 5: Monkey Business | 370875 | [370875-devil-may-cry-5-monkey-business.json](./370875-devil-may-cry-5-monkey-business.json) |
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
+| Devil May Cry 5: Ultra Limited Edition | 111299 | [111299-devil-may-cry-5-ultra-limited-edition.json](./111299-devil-may-cry-5-ultra-limited-edition.json) |
 | Devil May Cry Dead Shot | 403068 | [403068-devil-may-cry-dead-shot.json](./403068-devil-may-cry-dead-shot.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
