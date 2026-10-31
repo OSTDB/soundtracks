@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Colmena | 86085 | [86085-la-colmena.json](./86085-la-colmena.json) |
 | LA Cops | 17080 | [17080-la-cops.json](./17080-la-cops.json) |
 | La Corona Encantada | 141850 | [141850-la-corona-encantada.json](./141850-la-corona-encantada.json) |
+| La Corona Mágica | 69635 | [69635-la-corona-magica.json](./69635-la-corona-magica.json) |
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La costurera | 333974 | [333974-la-costurera.json](./333974-la-costurera.json) |
 | La Crypte des Maudits | 320777 | [320777-la-crypte-des-maudits.json](./320777-la-crypte-des-maudits.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: Ufo Chase | 231181 | [231181-lawnmower-game-ufo-chase.json](./231181-lawnmower-game-ufo-chase.json) |
 | Lawnmower Game: UFO Chase 2 | 395365 | [395365-lawnmower-game-ufo-chase-2.json](./395365-lawnmower-game-ufo-chase-2.json) |
 | Lawnmower Maniac | 385874 | [385874-lawnmower-maniac.json](./385874-lawnmower-maniac.json) |
+| Lawnmower Racing Mania 2007 | 69728 | [69728-lawnmower-racing-mania-2007.json](./69728-lawnmower-racing-mania-2007.json) |
 | Lawnmower Runner | 398505 | [398505-lawnmower-runner.json](./398505-lawnmower-runner.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lawnpocalypse | 379370 | [379370-lawnpocalypse.json](./379370-lawnpocalypse.json) |
@@ -6200,6 +6202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Road | 137851 | [137851-loco-road.json](./137851-loco-road.json) |
 | Loco Shortline Operations | 192010 | [192010-loco-shortline-operations.json](./192010-loco-shortline-operations.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
+| Loco-Commotion | 69660 | [69660-loco-commotion.json](./69660-loco-commotion.json) |
 | Loco-Motion | 42161 | [42161-loco-motion.json](./42161-loco-motion.json) |
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
