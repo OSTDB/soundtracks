@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | Schastye | 158408 | [158408-schastye.json](./158408-schastye.json) |
 | Schatte: The Witch and the Fake Shadow | 74917 | [74917-schatte-the-witch-and-the-fake-shadow.json](./74917-schatte-the-witch-and-the-fake-shadow.json) |
+| Schatten der Dämmerung | 92259 | [92259-schatten-der-dammerung.json](./92259-schatten-der-dammerung.json) |
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
 | Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
@@ -5976,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
 | Shadow Empire | 125692 | [125692-shadow-empire.json](./125692-shadow-empire.json) |
 | Shadow Empire: Oceania | 225088 | [225088-shadow-empire-oceania.json](./225088-shadow-empire-oceania.json) |
+| Shadow Era | 92268 | [92268-shadow-era.json](./92268-shadow-era.json) |
 | Shadow Escaper | 63805 | [63805-shadow-escaper.json](./63805-shadow-escaper.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
 | Shadow Fang | 342273 | [342273-shadow-fang.json](./342273-shadow-fang.json) |
@@ -10277,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Chart Hits | 15192 | [15192-singstar-chart-hits.json](./15192-singstar-chart-hits.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
 | SingStar: Clásicos | 341410 | [341410-singstar-clasicos.json](./341410-singstar-clasicos.json) |
+| SingStar: Danske Hits | 92223 | [92223-singstar-danske-hits.json](./92223-singstar-danske-hits.json) |
 | SingStar: Deutsch Rock-Pop | 144150 | [144150-singstar-deutsch-rock-pop.json](./144150-singstar-deutsch-rock-pop.json) |
 | SingStar: Deutsch Rock-Pop vol 2 | 144151 | [144151-singstar-deutsch-rock-pop-vol-2.json](./144151-singstar-deutsch-rock-pop-vol-2.json) |
 | SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
@@ -20848,6 +20851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spud's Quest | 17687 | [17687-spuds-quest.json](./17687-spuds-quest.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
 | Spuds Unearthed | 113161 | [113161-spuds-unearthed.json](./113161-spuds-unearthed.json) |
+| Spuk im Wirtshaus | 92257 | [92257-spuk-im-wirtshaus.json](./92257-spuk-im-wirtshaus.json) |
 | Spunch Bob and Krabsburger Secret | 334911 | [334911-spunch-bob-and-krabsburger-secret.json](./334911-spunch-bob-and-krabsburger-secret.json) |
 | Spunk and Moxie | 25041 | [25041-spunk-and-moxie.json](./25041-spunk-and-moxie.json) |
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
