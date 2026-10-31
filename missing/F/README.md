@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2009 | 4837 | [4837-f1-2009.json](./4837-f1-2009.json) |
 | F1 2010 | 1375 | [1375-f1-2010.json](./1375-f1-2010.json) |
 | F1 2012 | 1373 | [1373-f1-2012.json](./1373-f1-2012.json) |
+| F1 2013: Classic Edition Game Bundle | 99925 | [99925-f1-2013-classic-edition-game-bundle.json](./99925-f1-2013-classic-edition-game-bundle.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2017 | 28951 | [28951-f1-2017.json](./28951-f1-2017.json) |
 | F1 2018 | 101439 | [101439-f1-2018.json](./101439-f1-2018.json) |
@@ -3920,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 14: Legacy Edition | 240420 | [240420-fifa-14-legacy-edition.json](./240420-fifa-14-legacy-edition.json) |
 | FIFA 15 | 240426 | [240426-fifa-15.json](./240426-fifa-15.json) |
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
+| FIFA 15: Legacy Edition | 99945 | [99945-fifa-15-legacy-edition.json](./99945-fifa-15-legacy-edition.json) |
 | FIFA 15: Ultimate Edition | 167025 | [167025-fifa-15-ultimate-edition.json](./167025-fifa-15-ultimate-edition.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
@@ -6721,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Planes | 183743 | [183743-flappy-planes.json](./183743-flappy-planes.json) |
 | Flappy Puffy | 385965 | [385965-flappy-puffy.json](./385965-flappy-puffy.json) |
 | Flappy Putin: Hardbass Gopnik | 202094 | [202094-flappy-putin-hardbass-gopnik.json](./202094-flappy-putin-hardbass-gopnik.json) |
+| Flappy Rainbow Unicorn | 99918 | [99918-flappy-rainbow-unicorn.json](./99918-flappy-rainbow-unicorn.json) |
 | Flappy Royale | 130743 | [130743-flappy-royale.json](./130743-flappy-royale.json) |
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
@@ -7257,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
 | FlipPix Jigsaw - Time | 109231 | [109231-flippix-jigsaw-time.json](./109231-flippix-jigsaw-time.json) |
+| FlipPix Jigsaw - Up | 99921 | [99921-flippix-jigsaw-up.json](./99921-flippix-jigsaw-up.json) |
 | FlippUp | 356015 | [356015-flippup.json](./356015-flippup.json) |
 | Flippy | 88759 | [88759-flippy.json](./88759-flippy.json) |
 | Flippy Bard | 61309 | [61309-flippy-bard.json](./61309-flippy-bard.json) |
@@ -12007,6 +12011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Hospital | 241814 | [241814-fun-hospital.json](./241814-fun-hospital.json) |
 | Fun House | 200396 | [200396-fun-house.json](./200396-fun-house.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
+| Fun Kid Racing | 99936 | [99936-fun-kid-racing.json](./99936-fun-kid-racing.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
 | Fun Machine | 193094 | [193094-fun-machine.json](./193094-fun-machine.json) |
 | Fun Match | 328658 | [328658-fun-match.json](./328658-fun-match.json) |
