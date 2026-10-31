@@ -12809,6 +12809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Story Crush | 166302 | [166302-cookie-story-crush.json](./166302-cookie-story-crush.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
+| Cookie's Quiz Carnival | 106283 | [106283-cookies-quiz-carnival.json](./106283-cookies-quiz-carnival.json) |
 | Cookie's Trails | 372762 | [372762-cookies-trails.json](./372762-cookies-trails.json) |
 | CookieRoute | 244812 | [244812-cookieroute.json](./244812-cookieroute.json) |
 | CookieRun: Crumble - Idle RPG | 412209 | [412209-cookierun-crumble-idle-rpg.json](./412209-cookierun-crumble-idle-rpg.json) |
@@ -16503,6 +16504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Castle TD | 399451 | [399451-crush-the-castle-td.json](./399451-crush-the-castle-td.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
+| Crush the Numbers | 106269 | [106269-crush-the-numbers.json](./106269-crush-the-numbers.json) |
 | Crush the Rebellion! | 373136 | [373136-crush-the-rebellion.json](./373136-crush-the-rebellion.json) |
 | Crush Them All | 97523 | [97523-crush-them-all.json](./97523-crush-them-all.json) |
 | Crush Them! | 203780 | [203780-crush-them.json](./203780-crush-them.json) |
