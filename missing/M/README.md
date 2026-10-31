@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majogami | 354209 | [354209-majogami.json](./354209-majogami.json) |
 | Majokko Cream-Chan Gokko Series 1: Wan Nyon Idol Gakuen | 49702 | [49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json](./49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json) |
 | Majokko Cream-Chan Gokko Series 2: Kisekae Angel | 49701 | [49701-majokko-cream-chan-gokko-series-2-kisekae-angel.json](./49701-majokko-cream-chan-gokko-series-2-kisekae-angel.json) |
+| Majokko Daisakusen: Little Witching Mischiefs | 122570 | [122570-majokko-daisakusen-little-witching-mischiefs.json](./122570-majokko-daisakusen-little-witching-mischiefs.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
 | Majong | 195047 | [195047-majong.json](./195047-majong.json) |
@@ -4630,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Illusion Express: Shuffle Games | 72941 | [72941-master-of-illusion-express-shuffle-games.json](./72941-master-of-illusion-express-shuffle-games.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Jewelry | 374031 | [374031-master-of-jewelry.json](./374031-master-of-jewelry.json) |
+| Master of LinCard | 122624 | [122624-master-of-lincard.json](./122624-master-of-lincard.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
 | Master of Magic | 147189 | [147189-master-of-magic.json](./147189-master-of-magic.json) |
 | Master of Magic | 6466 | [6466-master-of-magic.json](./6466-master-of-magic.json) |
@@ -6287,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
 | Medic: Pacific Corpsman | 137797 | [137797-medic-pacific-corpsman.json](./137797-medic-pacific-corpsman.json) |
 | Medic: Pacific War | 155428 | [155428-medic-pacific-war.json](./155428-medic-pacific-war.json) |
+| Medical 91 | 122571 | [122571-medical-91.json](./122571-medical-91.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicalat | 125780 | [125780-medicalat.json](./125780-medicalat.json) |
@@ -7671,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
 | Melo's Nightmare | 299367 | [299367-melos-nightmare.json](./299367-melos-nightmare.json) |
 | Meloa | 416388 | [416388-meloa.json](./416388-meloa.json) |
+| Melobeat | 122615 | [122615-melobeat.json](./122615-melobeat.json) |
 | Melobot: A Last Song | 199252 | [199252-melobot-a-last-song.json](./199252-melobot-a-last-song.json) |
 | Melod | 235145 | [235145-melod.json](./235145-melod.json) |
 | Melodia | 225365 | [225365-melodia.json](./225365-melodia.json) |
@@ -7723,6 +7727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
 | Melone in the Dark | 177404 | [177404-melone-in-the-dark.json](./177404-melone-in-the-dark.json) |
 | Melonizard | 245362 | [245362-melonizard.json](./245362-melonizard.json) |
+| Melopad | 122617 | [122617-melopad.json](./122617-melopad.json) |
 | Meloveyou | 183380 | [183380-meloveyou.json](./183380-meloveyou.json) |
 | Melpharia March | 420766 | [420766-melpharia-march.json](./420766-melpharia-march.json) |
 | Melpool Land | 213276 | [213276-melpool-land.json](./213276-melpool-land.json) |
@@ -15132,6 +15137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: Winter-Edition | 256675 | [256675-moorhuhn-winter-edition.json](./256675-moorhuhn-winter-edition.json) |
 | Moorko | 414155 | [414155-moorko.json](./414155-moorko.json) |
 | Moosa: Dirty Fate | 396026 | [396026-moosa-dirty-fate.json](./396026-moosa-dirty-fate.json) |
+| Moose Antipoo Adventure | 122584 | [122584-moose-antipoo-adventure.json](./122584-moose-antipoo-adventure.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
 | Moose Diver | 372977 | [372977-moose-diver.json](./372977-moose-diver.json) |
 | Moose In Canada | 239196 | [239196-moose-in-canada.json](./239196-moose-in-canada.json) |
