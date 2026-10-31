@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dair | 259764 | [259764-dair.json](./259764-dair.json) |
 | Dairanto!! Mario Bros. DDX | 321670 | [321670-dairanto-mario-bros-ddx.json](./321670-dairanto-mario-bros-ddx.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
+| Dairojo! Samurai Defenders | 85067 | [85067-dairojo-samurai-defenders.json](./85067-dairojo-samurai-defenders.json) |
 | Dairoku: Agents of Sakuratani | 146180 | [146180-dairoku-agents-of-sakuratani.json](./146180-dairoku-agents-of-sakuratani.json) |
 | Dairy Dash | 90700 | [90700-dairy-dash.json](./90700-dairy-dash.json) |
 | Dairy Dave | 157316 | [157316-dairy-dave.json](./157316-dairy-dave.json) |
@@ -727,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Of Death | 266887 | [266887-dance-of-death.json](./266887-dance-of-death.json) |
 | Dance of Decapods | 220965 | [220965-dance-of-decapods.json](./220965-dance-of-decapods.json) |
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
+| Dance of the Damned | 85066 | [85066-dance-of-the-damned.json](./85066-dance-of-the-damned.json) |
 | Dance of the Stereomancer | 364692 | [364692-dance-of-the-stereomancer.json](./364692-dance-of-the-stereomancer.json) |
 | Dance of the Vampires | 168323 | [168323-dance-of-the-vampires.json](./168323-dance-of-the-vampires.json) |
 | Dance of Theseus | 393986 | [393986-dance-of-theseus.json](./393986-dance-of-theseus.json) |
@@ -774,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danchizuma no Yuuwaku | 58773 | [58773-danchizuma-no-yuuwaku.json](./58773-danchizuma-no-yuuwaku.json) |
 | Dancin' Divas | 203961 | [203961-dancin-divas.json](./203961-dancin-divas.json) |
 | Dancing | 246458 | [246458-dancing.json](./246458-dancing.json) |
+| Dancing Academy | 85065 | [85065-dancing-academy.json](./85065-dancing-academy.json) |
 | Dancing Angel | 160007 | [160007-dancing-angel.json](./160007-dancing-angel.json) |
 | Dancing Arrow: Beat Smash | 127541 | [127541-dancing-arrow-beat-smash.json](./127541-dancing-arrow-beat-smash.json) |
 | Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
@@ -1012,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous platform | 178197 | [178197-dangerous-platform.json](./178197-dangerous-platform.json) |
 | Dangerous Pursuit | 371642 | [371642-dangerous-pursuit.json](./371642-dangerous-pursuit.json) |
 | Dangerous Relationship | 32273 | [32273-dangerous-relationship.json](./32273-dangerous-relationship.json) |
+| Dangerous Road | 85064 | [85064-dangerous-road.json](./85064-dangerous-road.json) |
 | Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
 | Dangerous Seduction | 238906 | [238906-dangerous-seduction.json](./238906-dangerous-seduction.json) |
@@ -1130,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare to Speed | 244089 | [244089-dare-to-speed.json](./244089-dare-to-speed.json) |
 | Dare to Spread | 238696 | [238696-dare-to-spread.json](./238696-dare-to-spread.json) |
 | Dare to Stay | 207014 | [207014-dare-to-stay.json](./207014-dare-to-stay.json) |
+| Dare Up Adrenaline | 85063 | [85063-dare-up-adrenaline.json](./85063-dare-up-adrenaline.json) |
 | Dare! Truth or Dare Would You? | 106867 | [106867-dare-truth-or-dare-would-you.json](./106867-dare-truth-or-dare-would-you.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredemo Kantan! Watanabe Akira no Tsume Shogi | 269751 | [269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json](./269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json) |
@@ -13231,6 +13236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Dio | 385628 | [385628-dragon-ball-fighterz-dio.json](./385628-dragon-ball-fighterz-dio.json) |
 | Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
+| Dragon Ball FighterZ: FighterZ Edition | 85144 | [85144-dragon-ball-fighterz-fighterz-edition.json](./85144-dragon-ball-fighterz-fighterz-edition.json) |
 | Dragon Ball FighterZ: FighterZ Pass | 144714 | [144714-dragon-ball-fighterz-fighterz-pass.json](./144714-dragon-ball-fighterz-fighterz-pass.json) |
 | Dragon Ball FighterZ: FighterZ Pass 2 | 165337 | [165337-dragon-ball-fighterz-fighterz-pass-2.json](./165337-dragon-ball-fighterz-fighterz-pass-2.json) |
 | Dragon Ball FighterZ: FighterZ Pass 3 | 200834 | [200834-dragon-ball-fighterz-fighterz-pass-3.json](./200834-dragon-ball-fighterz-fighterz-pass-3.json) |
@@ -13246,6 +13252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Stamps Girls Pack | 366819 | [366819-dragon-ball-fighterz-stamps-girls-pack.json](./366819-dragon-ball-fighterz-stamps-girls-pack.json) |
 | Dragon Ball FighterZ: Super Baby 2 | 165884 | [165884-dragon-ball-fighterz-super-baby-2.json](./165884-dragon-ball-fighterz-super-baby-2.json) |
 | Dragon Ball FighterZ: Super Edition | 200680 | [200680-dragon-ball-fighterz-super-edition.json](./200680-dragon-ball-fighterz-super-edition.json) |
+| Dragon Ball FighterZ: Ultimate Edition | 85139 | [85139-dragon-ball-fighterz-ultimate-edition.json](./85139-dragon-ball-fighterz-ultimate-edition.json) |
 | Dragon Ball FighterZ: Vegeta | 144707 | [144707-dragon-ball-fighterz-vegeta.json](./144707-dragon-ball-fighterz-vegeta.json) |
 | Dragon Ball FighterZ: Vegito (SSGSS) | 144705 | [144705-dragon-ball-fighterz-vegito-ssgss.json](./144705-dragon-ball-fighterz-vegito-ssgss.json) |
 | Dragon Ball FighterZ: Videl | 165892 | [165892-dragon-ball-fighterz-videl.json](./165892-dragon-ball-fighterz-videl.json) |
