@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Me, I Love Me Not | 222737 | [222737-i-love-me-i-love-me-not.json](./222737-i-love-me-i-love-me-not.json) |
 | I Love Me, I Love Me Not | 313095 | [313095-i-love-me-i-love-me-not.json](./313095-i-love-me-i-love-me-not.json) |
+| I Love My Brother | 81796 | [81796-i-love-my-brother.json](./81796-i-love-my-brother.json) |
 | I Love my Cats | 84542 | [84542-i-love-my-cats.json](./84542-i-love-my-cats.json) |
 | I Love My Dogs | 84541 | [84541-i-love-my-dogs.json](./84541-i-love-my-dogs.json) |
 | I Love My Job! | 177845 | [177845-i-love-my-job.json](./177845-i-love-my-job.json) |
@@ -5019,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible | 131556 | [131556-invisible.json](./131556-invisible.json) |
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
 | Invisible | 377175 | [377175-invisible.json](./377175-invisible.json) |
+| Invisible | 81632 | [81632-invisible.json](./81632-invisible.json) |
 | Invisible Apartment | 35719 | [35719-invisible-apartment.json](./35719-invisible-apartment.json) |
 | Invisible Apartment 2 | 336913 | [336913-invisible-apartment-2.json](./336913-invisible-apartment-2.json) |
 | Invisible Apartment 2 | 34492 | [34492-invisible-apartment-2.json](./34492-invisible-apartment-2.json) |
@@ -5632,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Challenge | 377621 | [377621-island-of-challenge.json](./377621-island-of-challenge.json) |
 | Island of Death | 137359 | [137359-island-of-death.json](./137359-island-of-death.json) |
 | Island of Death: Demons and Despair | 369313 | [369313-island-of-death-demons-and-despair.json](./369313-island-of-death-demons-and-despair.json) |
+| Island of Deception | 81810 | [81810-island-of-deception.json](./81810-island-of-deception.json) |
 | Island of Despair | 326801 | [326801-island-of-despair.json](./326801-island-of-despair.json) |
 | Island of Enchantment | 296940 | [296940-island-of-enchantment.json](./296940-island-of-enchantment.json) |
 | Island of Girls Dreams | 163205 | [163205-island-of-girls-dreams.json](./163205-island-of-girls-dreams.json) |
