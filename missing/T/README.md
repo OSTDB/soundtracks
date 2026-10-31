@@ -7820,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Early Years of Flight | 21380 | [21380-the-early-years-of-flight.json](./21380-the-early-years-of-flight.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Earth Dies Screaming | 22759 | [22759-the-earth-dies-screaming.json](./22759-the-earth-dies-screaming.json) |
+| The Earth is a Better Person than Me | 111335 | [111335-the-earth-is-a-better-person-than-me.json](./111335-the-earth-is-a-better-person-than-me.json) |
 | The Earth Is Flat | 298144 | [298144-the-earth-is-flat.json](./298144-the-earth-is-flat.json) |
 | The Earth Sucks | 337278 | [337278-the-earth-sucks.json](./337278-the-earth-sucks.json) |
 | The Easiest Way | 364660 | [364660-the-easiest-way.json](./364660-the-easiest-way.json) |
@@ -7914,6 +7915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Morrowind | 27030 | [27030-the-elder-scrolls-online-morrowind.json](./27030-the-elder-scrolls-online-morrowind.json) |
 | The Elder Scrolls Online: Morrowind - Collector's Edition | 136339 | [136339-the-elder-scrolls-online-morrowind-collectors-edition.json](./136339-the-elder-scrolls-online-morrowind-collectors-edition.json) |
 | The Elder Scrolls Online: Morrowind - Digital Collector's Edition | 53729 | [53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json](./53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json) |
+| The Elder Scrolls Online: Murkmire | 111297 | [111297-the-elder-scrolls-online-murkmire.json](./111297-the-elder-scrolls-online-murkmire.json) |
 | The Elder Scrolls Online: Necrom | 233587 | [233587-the-elder-scrolls-online-necrom.json](./233587-the-elder-scrolls-online-necrom.json) |
 | The Elder Scrolls Online: Orsinium | 23477 | [23477-the-elder-scrolls-online-orsinium.json](./23477-the-elder-scrolls-online-orsinium.json) |
 | The Elder Scrolls Online: Premium Edition | 136165 | [136165-the-elder-scrolls-online-premium-edition.json](./136165-the-elder-scrolls-online-premium-edition.json) |
@@ -11628,6 +11630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legendary Prophecy Of Light And Darkness: The Power To Save The World | 141494 | [141494-the-legendary-prophecy-of-light-and-darkness-the-power-to-save-the-world.json](./141494-the-legendary-prophecy-of-light-and-darkness-the-power-to-save-the-world.json) |
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
 | The Legendary Swords | 331369 | [331369-the-legendary-swords.json](./331369-the-legendary-swords.json) |
+| The Legends Gate: Awoken | 111302 | [111302-the-legends-gate-awoken.json](./111302-the-legends-gate-awoken.json) |
 | The Legends in Kylamar | 152698 | [152698-the-legends-in-kylamar.json](./152698-the-legends-in-kylamar.json) |
 | The Legends of Class One | 118628 | [118628-the-legends-of-class-one.json](./118628-the-legends-of-class-one.json) |
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
@@ -13839,6 +13842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
 | The Quest Trio | 124083 | [124083-the-quest-trio.json](./124083-the-quest-trio.json) |
+| The Quest: Caeworn Castle | 111332 | [111332-the-quest-caeworn-castle.json](./111332-the-quest-caeworn-castle.json) |
 | The Quest: Deluxe Edition | 53770 | [53770-the-quest-deluxe-edition.json](./53770-the-quest-deluxe-edition.json) |
 | The Quest: Hero of Lukomorye IV | 205602 | [205602-the-quest-hero-of-lukomorye-iv.json](./205602-the-quest-hero-of-lukomorye-iv.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
@@ -15282,6 +15286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
 | The Sock Epic | 178805 | [178805-the-sock-epic.json](./178805-the-sock-epic.json) |
 | The Soft Rumor of Spreading Weeds | 394439 | [394439-the-soft-rumor-of-spreading-weeds.json](./394439-the-soft-rumor-of-spreading-weeds.json) |
+| The Software Toolworks CD Game Pack | 111311 | [111311-the-software-toolworks-cd-game-pack.json](./111311-the-software-toolworks-cd-game-pack.json) |
 | The Software Toolworks CD Game Pack II | 131134 | [131134-the-software-toolworks-cd-game-pack-ii.json](./131134-the-software-toolworks-cd-game-pack-ii.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
@@ -16908,6 +16913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Hero | 194816 | [194816-the-walking-hero.json](./194816-the-walking-hero.json) |
 | The Walking Trade | 345095 | [345095-the-walking-trade.json](./345095-the-walking-trade.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
+| The Walking Vegetables: Radical! Edition | 111344 | [111344-the-walking-vegetables-radical-edition.json](./111344-the-walking-vegetables-radical-edition.json) |
 | The Walking Zombie | 75798 | [75798-the-walking-zombie.json](./75798-the-walking-zombie.json) |
 | The Wall | 13086 | [13086-the-wall.json](./13086-the-wall.json) |
 | The Wall | 176849 | [176849-the-wall.json](./176849-the-wall.json) |
@@ -29962,6 +29968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins & Dreams | 373223 | [373223-twins-and-dreams.json](./373223-twins-and-dreams.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
 | Twins Edge: Back and Forth | 187702 | [187702-twins-edge-back-and-forth.json](./187702-twins-edge-back-and-forth.json) |
+| Twins in Trouble | 111307 | [111307-twins-in-trouble.json](./111307-twins-in-trouble.json) |
 | Twins Minigame | 299570 | [299570-twins-minigame.json](./299570-twins-minigame.json) |
 | Twins Mother Simulator Game 3D | 296783 | [296783-twins-mother-simulator-game-3d.json](./296783-twins-mother-simulator-game-3d.json) |
 | Twins of Legacy: Elemental | 316850 | [316850-twins-of-legacy-elemental.json](./316850-twins-of-legacy-elemental.json) |
