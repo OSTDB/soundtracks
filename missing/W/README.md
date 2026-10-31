@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
 | Wibble | 199262 | [199262-wibble.json](./199262-wibble.json) |
 | Wibble Wobble | 177251 | [177251-wibble-wobble.json](./177251-wibble-wobble.json) |
+| Wibble World Giddy: Wibble Mania! | 73981 | [73981-wibble-world-giddy-wibble-mania.json](./73981-wibble-world-giddy-wibble-mania.json) |
 | Wibbling Wilf | 73099 | [73099-wibbling-wilf.json](./73099-wibbling-wilf.json) |
 | Wibbly Witches | 150403 | [150403-wibbly-witches.json](./150403-wibbly-witches.json) |
 | Wibbly-wobbly Tower | 178421 | [178421-wibbly-wobbly-tower.json](./178421-wibbly-wobbly-tower.json) |
