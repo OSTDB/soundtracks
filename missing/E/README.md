@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
 | Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
 | Electronic Market Simulator | 312456 | [312456-electronic-market-simulator.json](./312456-electronic-market-simulator.json) |
+| Electronic Popple | 69662 | [69662-electronic-popple.json](./69662-electronic-popple.json) |
 | Electronic Power House Pinball | 245494 | [245494-electronic-power-house-pinball.json](./245494-electronic-power-house-pinball.json) |
 | Electronic Quarterback | 245493 | [245493-electronic-quarterback.json](./245493-electronic-quarterback.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
@@ -2821,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Room: Code Blue | 201269 | [201269-emergency-room-code-blue.json](./201269-emergency-room-code-blue.json) |
 | Emergency Room: Disaster Strikes | 12424 | [12424-emergency-room-disaster-strikes.json](./12424-emergency-room-disaster-strikes.json) |
 | Emergency Room: Heroic Measures | 201270 | [201270-emergency-room-heroic-measures.json](./201270-emergency-room-heroic-measures.json) |
+| Emergency Room: Life or Death | 69625 | [69625-emergency-room-life-or-death.json](./69625-emergency-room-life-or-death.json) |
 | Emergency Rush | 415057 | [415057-emergency-rush.json](./415057-emergency-rush.json) |
 | Emergency: Fighters for Life | 79837 | [79837-emergency-fighters-for-life.json](./79837-emergency-fighters-for-life.json) |
 | Emergency: Road Services Simulator | 217410 | [217410-emergency-road-services-simulator.json](./217410-emergency-road-services-simulator.json) |
@@ -6324,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: The Legacy of Ykesha | 79688 | [79688-everquest-the-legacy-of-ykesha.json](./79688-everquest-the-legacy-of-ykesha.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
 | EverQuest: The Ruins of Kunark | 686 | [686-everquest-the-ruins-of-kunark.json](./686-everquest-the-ruins-of-kunark.json) |
+| EverQuest: The Scars of Velious | 69729 | [69729-everquest-the-scars-of-velious.json](./69729-everquest-the-scars-of-velious.json) |
 | EverQuest: The Serpent's Spine | 72908 | [72908-everquest-the-serpents-spine.json](./72908-everquest-the-serpents-spine.json) |
 | EverQuest: The Shadows of Luclin | 72544 | [72544-everquest-the-shadows-of-luclin.json](./72544-everquest-the-shadows-of-luclin.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
