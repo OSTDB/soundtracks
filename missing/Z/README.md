@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaggy Car | 308299 | [308299-zaggy-car.json](./308299-zaggy-car.json) |
 | ZagZag | 369904 | [369904-zagzag.json](./369904-zagzag.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
+| Zahalia | 86481 | [86481-zahalia.json](./86481-zahalia.json) |
 | Zahalia: The Curse of Zezor | 212102 | [212102-zahalia-the-curse-of-zezor.json](./212102-zahalia-the-curse-of-zezor.json) |
 | Zaharia | 62109 | [62109-zaharia.json](./62109-zaharia.json) |
 | Zahhak | 164245 | [164245-zahhak.json](./164245-zahhak.json) |
