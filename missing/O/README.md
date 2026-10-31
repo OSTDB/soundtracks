@@ -4279,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Yusha | 74165 | [74165-otome-yusha.json](./74165-otome-yusha.json) |
 | Otomedius | 1685 | [1685-otomedius.json](./1685-otomedius.json) |
 | Otomedius Excellent | 1695 | [1695-otomedius-excellent.json](./1695-otomedius-excellent.json) |
+| Otomedius X | 106251 | [106251-otomedius-x.json](./106251-otomedius-x.json) |
 | Otometeki Koi Kakumei Love Revo! Portable | 214560 | [214560-otometeki-koi-kakumei-love-revo-portable.json](./214560-otometeki-koi-kakumei-love-revo-portable.json) |
 | Otometeki Koi Kakumei Love Revo!! | 70678 | [70678-otometeki-koi-kakumei-love-revo.json](./70678-otometeki-koi-kakumei-love-revo.json) |
 | Otometeki Koi Kakumei Love Revo!! 100kg Kara Hajimaru Koi Monogatari | 214562 | [214562-otometeki-koi-kakumei-love-revo-100kg-kara-hajimaru-koi-monogatari.json](./214562-otometeki-koi-kakumei-love-revo-100kg-kara-hajimaru-koi-monogatari.json) |
