@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
+| Galactic Civilizations: Altarian Prophecy | 69624 | [69624-galactic-civilizations-altarian-prophecy.json](./69624-galactic-civilizations-altarian-prophecy.json) |
 | Galactic Clicker | 102029 | [102029-galactic-clicker.json](./102029-galactic-clicker.json) |
 | Galactic Coffee Shop | 348036 | [348036-galactic-coffee-shop.json](./348036-galactic-coffee-shop.json) |
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gasoline | 418900 | [418900-gasoline.json](./418900-gasoline.json) |
+| Gasparilla: Quest for the Key | 69628 | [69628-gasparilla-quest-for-the-key.json](./69628-gasparilla-quest-for-the-key.json) |
 | Gasping.2 | 303994 | [303994-gasping-2.json](./303994-gasping-2.json) |
 | Gassy GaoGao | 405545 | [405545-gassy-gaogao.json](./405545-gassy-gaogao.json) |
 | Gassy Getaway | 310076 | [310076-gassy-getaway.json](./310076-gassy-getaway.json) |
@@ -7170,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Rally II | 46750 | [46750-grand-prix-rally-ii.json](./46750-grand-prix-rally-ii.json) |
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
+| Grand Prix Simulator 2 | 69725 | [69725-grand-prix-simulator-2.json](./69725-grand-prix-simulator-2.json) |
 | Grand Prix Story | 65908 | [65908-grand-prix-story.json](./65908-grand-prix-story.json) |
 | Grand Prix Story 2 | 77736 | [77736-grand-prix-story-2.json](./77736-grand-prix-story-2.json) |
 | Grand Prix Tennis | 83378 | [83378-grand-prix-tennis.json](./83378-grand-prix-tennis.json) |
