@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D*sco Ep | 210511 | [210511-d-sco-ep.json](./210511-d-sco-ep.json) |
 | D/Generation | 12028 | [12028-d-generation.json](./12028-d-generation.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
+| D&D - Initiative Tracker | 101204 | [101204-d-and-d-initiative-tracker.json](./101204-d-and-d-initiative-tracker.json) |
 | D&D Classics | 246457 | [246457-d-and-d-classics.json](./246457-d-and-d-classics.json) |
 | D&D Lords of Waterdeep | 68484 | [68484-d-and-d-lords-of-waterdeep.json](./68484-d-and-d-lords-of-waterdeep.json) |
 | D&M: Dungeon and Monsters the Beginning | 227135 | [227135-d-and-m-dungeon-and-monsters-the-beginning.json](./227135-d-and-m-dungeon-and-monsters-the-beginning.json) |
@@ -2667,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daybringer | 133058 | [133058-daybringer.json](./133058-daybringer.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | Daycare Dungeon | 324947 | [324947-daycare-dungeon.json](./324947-daycare-dungeon.json) |
+| DayD Time Mayhem TD | 101195 | [101195-dayd-time-mayhem-td.json](./101195-dayd-time-mayhem-td.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
 | Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
@@ -3218,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Faces | 285414 | [285414-dead-faces.json](./285414-dead-faces.json) |
 | Dead Fantasia | 393009 | [393009-dead-fantasia.json](./393009-dead-fantasia.json) |
 | Dead Feed | 379566 | [379566-dead-feed.json](./379566-dead-feed.json) |
+| Dead Fish Head | 101223 | [101223-dead-fish-head.json](./101223-dead-fish-head.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Force | 299828 | [299828-dead-force.json](./299828-dead-force.json) |
 | Dead Forest | 117324 | [117324-dead-forest.json](./117324-dead-forest.json) |
@@ -3840,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadsigns | 149043 | [149043-deadsigns.json](./149043-deadsigns.json) |
 | Deadstar: The Game | 328344 | [328344-deadstar-the-game.json](./328344-deadstar-the-game.json) |
 | Deadstate Heroes | 424642 | [424642-deadstate-heroes.json](./424642-deadstate-heroes.json) |
+| Deadstick: Bush Flight Simulator | 101239 | [101239-deadstick-bush-flight-simulator.json](./101239-deadstick-bush-flight-simulator.json) |
 | Deadstone | 17916 | [17916-deadstone.json](./17916-deadstone.json) |
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
 | DeadStuck | 401720 | [401720-deadstuck.json](./401720-deadstuck.json) |
@@ -7589,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo: Battle Chest | 46976 | [46976-diablo-battle-chest.json](./46976-diablo-battle-chest.json) |
 | Diablo: The Abyss | 399033 | [399033-diablo-the-abyss.json](./399033-diablo-the-abyss.json) |
 | Diablo: The Hell 2 | 248386 | [248386-diablo-the-hell-2.json](./248386-diablo-the-hell-2.json) |
+| DiabloSlayer | 101207 | [101207-diabloslayer.json](./101207-diabloslayer.json) |
 | Diabolical Pitch | 19904 | [19904-diabolical-pitch.json](./19904-diabolical-pitch.json) |
 | Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
@@ -16351,6 +16356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: The Great Turkey Hunt! Mission & Costumes | 164357 | [164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json](./164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json) |
 | Dungeon Defenders: Warden Hero DLC | 364559 | [364559-dungeon-defenders-warden-hero-dlc.json](./364559-dungeon-defenders-warden-hero-dlc.json) |
 | Dungeon Defenders: Warping Core Challenge Mission Pack | 164346 | [164346-dungeon-defenders-warping-core-challenge-mission-pack.json](./164346-dungeon-defenders-warping-core-challenge-mission-pack.json) |
+| Dungeon Defense | 101216 | [101216-dungeon-defense.json](./101216-dungeon-defense.json) |
 | Dungeon Delights | 422160 | [422160-dungeon-delights.json](./422160-dungeon-delights.json) |
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
 | Dungeon Delvers | 201671 | [201671-dungeon-delvers.json](./201671-dungeon-delvers.json) |
