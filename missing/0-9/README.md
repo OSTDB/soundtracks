@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | -Sprout- | 170321 | [170321-sprout.json](./170321-sprout.json) |
 | -Top Bear- | 133863 | [133863-top-bear.json](./133863-top-bear.json) |
 | :) | 139909 | [139909-.json](./139909-.json) |
+| :) Sudoku + | 88712 | [88712-sudoku.json](./88712-sudoku.json) |
 | ! | 165498 | [165498-.json](./165498-.json) |
 | !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
 | !Hungry Blocks! | 338924 | [338924-hungry-blocks.json](./338924-hungry-blocks.json) |
