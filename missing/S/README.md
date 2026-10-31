@@ -7033,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
 | Shelfbound | 419358 | [419358-shelfbound.json](./419358-shelfbound.json) |
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
+| Shell | 111343 | [111343-shell.json](./111343-shell.json) |
 | Shell as Hard as Steel | 413847 | [413847-shell-as-hard-as-steel.json](./413847-shell-as-hard-as-steel.json) |
 | Shell Bless the Faithless | 342301 | [342301-shell-bless-the-faithless.json](./342301-shell-bless-the-faithless.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
@@ -7748,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinshou Sange: Chiru Hana | 384248 | [384248-shinshou-sange-chiru-hana.json](./384248-shinshou-sange-chiru-hana.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shinsou Kaiten!! Wan-wan Umi Monogatari: Sanyo Pachinko Paradise DX | 351072 | [351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json](./351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json) |
+| Shinsou Noise: Jushin Tantei no Jikenbo | 111328 | [111328-shinsou-noise-jushin-tantei-no-jikenbo.json](./111328-shinsou-noise-jushin-tantei-no-jikenbo.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
 | Shinsouban Crimson Empire: Circumstances to Serve a Noble | 60957 | [60957-shinsouban-crimson-empire-circumstances-to-serve-a-noble.json](./60957-shinsouban-crimson-empire-circumstances-to-serve-a-noble.json) |
 | Shinsouban Heart no Kuni no Alice: Wonderful Wonder World | 130009 | [130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json](./130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json) |
@@ -11401,6 +11403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky the Scraper | 256338 | [256338-sky-the-scraper.json](./256338-sky-the-scraper.json) |
 | Sky to Fly: Soulless Leviathan | 33143 | [33143-sky-to-fly-soulless-leviathan.json](./33143-sky-to-fly-soulless-leviathan.json) |
 | Sky Tower | 34625 | [34625-sky-tower.json](./34625-sky-tower.json) |
+| Sky Tracers | 111298 | [111298-sky-tracers.json](./111298-sky-tracers.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
 | Sky Traveler | 223384 | [223384-sky-traveler.json](./223384-sky-traveler.json) |
@@ -17640,7 +17643,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18171,6 +18173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
 | Space Turbo 2 | 201448 | [201448-space-turbo-2.json](./201448-space-turbo-2.json) |
 | Space Turret Gunner | 103961 | [103961-space-turret-gunner.json](./103961-space-turret-gunner.json) |
+| Space Tycoon | 111352 | [111352-space-tycoon.json](./111352-space-tycoon.json) |
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
 | Space UFO | 329991 | [329991-space-ufo.json](./329991-space-ufo.json) |
 | Space Universe | 32531 | [32531-space-universe.json](./32531-space-universe.json) |
@@ -18828,6 +18831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specvaders | 137557 | [137557-specvaders.json](./137557-specvaders.json) |
 | Specwar Tactics | 187159 | [187159-specwar-tactics.json](./187159-specwar-tactics.json) |
 | Spediteur | 293708 | [293708-spediteur.json](./293708-spediteur.json) |
+| SpedV | 111337 | [111337-spedv.json](./111337-spedv.json) |
 | Speebot | 74342 | [74342-speebot.json](./74342-speebot.json) |
 | Speechbound: A Language RPG | 265593 | [265593-speechbound-a-language-rpg.json](./265593-speechbound-a-language-rpg.json) |
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
@@ -23231,6 +23235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
 | Station.exe | 255534 | [255534-station-exe.json](./255534-station-exe.json) |
+| Stationary RPG | 111312 | [111312-stationary-rpg.json](./111312-stationary-rpg.json) |
 | Stationbreak | 406641 | [406641-stationbreak.json](./406641-stationbreak.json) |
 | Stationeers | 28013 | [28013-stationeers.json](./28013-stationeers.json) |
 | Stationeers: H.E.M Droid Species Pack | 227893 | [227893-stationeers-h-e-m-droid-species-pack.json](./227893-stationeers-h-e-m-droid-species-pack.json) |
@@ -28023,6 +28028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Formation Soccer 95: della Serie A - UCC Xaqua | 236673 | [236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json](./236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json) |
 | Super Formation Soccer 96: World Club Edition | 42359 | [42359-super-formation-soccer-96-world-club-edition.json](./42359-super-formation-soccer-96-world-club-edition.json) |
 | Super Formation Soccer II | 42363 | [42363-super-formation-soccer-ii.json](./42363-super-formation-soccer-ii.json) |
+| Super Fowlst | 111314 | [111314-super-fowlst.json](./111314-super-fowlst.json) |
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
 | Super Fox | 146575 | [146575-super-fox.json](./146575-super-fox.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
