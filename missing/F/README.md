@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
 | Fantasy Aquarium by DS | 69090 | [69090-fantasy-aquarium-by-ds.json](./69090-fantasy-aquarium-by-ds.json) |
 | Fantasy Aquarium World | 51030 | [51030-fantasy-aquarium-world.json](./51030-fantasy-aquarium-world.json) |
+| Fantasy Baby Animals | 99323 | [99323-fantasy-baby-animals.json](./99323-fantasy-baby-animals.json) |
 | Fantasy Ball | 105597 | [105597-fantasy-ball.json](./105597-fantasy-ball.json) |
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battle Islands | 196979 | [196979-fantasy-battle-islands.json](./196979-fantasy-battle-islands.json) |
@@ -2240,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm and Girls | 367046 | [367046-farm-and-girls.json](./367046-farm-and-girls.json) |
 | Farm and Mine | 184858 | [184858-farm-and-mine.json](./184858-farm-and-mine.json) |
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
+| Farm Animals Hospital Doctor 3 | 99341 | [99341-farm-animals-hospital-doctor-3.json](./99341-farm-animals-hospital-doctor-3.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
 | Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
 | Farm Business | 111990 | [111990-farm-business.json](./111990-farm-business.json) |
@@ -2726,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast or Dead VR | 215568 | [215568-fast-or-dead-vr.json](./215568-fast-or-dead-vr.json) |
+| Fast Racing | 99330 | [99330-fast-racing.json](./99330-fast-racing.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Riders: Unlimited Road | 228054 | [228054-fast-riders-unlimited-road.json](./228054-fast-riders-unlimited-road.json) |
 | Fast RMX | 26816 | [26816-fast-rmx.json](./26816-fast-rmx.json) |
@@ -6295,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Likes Please | 290787 | [290787-five-likes-please.json](./290787-five-likes-please.json) |
 | Five Likes Please: Historic Weapons Pack | 290789 | [290789-five-likes-please-historic-weapons-pack.json](./290789-five-likes-please-historic-weapons-pack.json) |
 | Five Likes Please: Neon Pack | 290788 | [290788-five-likes-please-neon-pack.json](./290788-five-likes-please-neon-pack.json) |
+| Five Little Monkeys HD | 99339 | [99339-five-little-monkeys-hd.json](./99339-five-little-monkeys-hd.json) |
 | Five little monkeys jumping on the bed for toddler | 102636 | [102636-five-little-monkeys-jumping-on-the-bed-for-toddler.json](./102636-five-little-monkeys-jumping-on-the-bed-for-toddler.json) |
 | Five Magical Amulets | 72525 | [72525-five-magical-amulets.json](./72525-five-magical-amulets.json) |
 | Five Minutes Till Christmas | 327133 | [327133-five-minutes-till-christmas.json](./327133-five-minutes-till-christmas.json) |
