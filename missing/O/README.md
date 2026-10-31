@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Night | 302400 | [302400-odd-night.json](./302400-odd-night.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
+| Odd One Out Zebra | 100522 | [100522-odd-one-out-zebra.json](./100522-odd-one-out-zebra.json) |
 | Odd Remedy | 323312 | [323312-odd-remedy.json](./323312-odd-remedy.json) |
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
 | Odd Shape Out! | 336403 | [336403-odd-shape-out.json](./336403-odd-shape-out.json) |
@@ -2516,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
 | One-Two-Three | 91910 | [91910-one-two-three.json](./91910-one-two-three.json) |
 | One-Way | 202317 | [202317-one-way.json](./202317-one-way.json) |
+| One-way Ticket | 100537 | [100537-one-way-ticket.json](./100537-one-way-ticket.json) |
 | One-way Ticket: Ep. 1 | 177797 | [177797-one-way-ticket-ep-1.json](./177797-one-way-ticket-ep-1.json) |
 | One, Two, Death | 389949 | [389949-one-two-death.json](./389949-one-two-death.json) |
 | One, Two, Three Fiancées?! | 269471 | [269471-one-two-three-fiancees.json](./269471-one-two-three-fiancees.json) |
