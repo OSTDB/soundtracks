@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Bread | 303449 | [303449-daily-bread.json](./303449-daily-bread.json) |
 | Daily Bubble | 224069 | [224069-daily-bubble.json](./224069-daily-bubble.json) |
 | Daily Burden | 390589 | [390589-daily-burden.json](./390589-daily-burden.json) |
+| Daily Celebrity Crossword | 78991 | [78991-daily-celebrity-crossword.json](./78991-daily-celebrity-crossword.json) |
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
 | Daily Dadish | 233003 | [233003-daily-dadish.json](./233003-daily-dadish.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
