@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Kitsune | 177353 | [177353-rebel-kitsune.json](./177353-rebel-kitsune.json) |
 | Rebel Maneuver Linus | 264451 | [264451-rebel-maneuver-linus.json](./264451-rebel-maneuver-linus.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
+| Rebel Moon | 69659 | [69659-rebel-moon.json](./69659-rebel-moon.json) |
 | Rebel Moon Rising | 57628 | [57628-rebel-moon-rising.json](./57628-rebel-moon-rising.json) |
 | Rebel Pirates | 371238 | [371238-rebel-pirates.json](./371238-rebel-pirates.json) |
 | Rebel Planet | 26479 | [26479-rebel-planet.json](./26479-rebel-planet.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescale | 108392 | [108392-rescale.json](./108392-rescale.json) |
 | ReScale | 183391 | [183391-rescale.json](./183391-rescale.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
+| Rescate En El Golfo | 69637 | [69637-rescate-en-el-golfo.json](./69637-rescate-en-el-golfo.json) |
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
 | Rescue 2013: Everyday Heroes | 24767 | [24767-rescue-2013-everyday-heroes.json](./24767-rescue-2013-everyday-heroes.json) |
@@ -6105,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution '76 | 208785 | [208785-revolution-76.json](./208785-revolution-76.json) |
 | Revolution 3 | 261098 | [261098-revolution-3.json](./261098-revolution-3.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
+| Revolution Classic Adventures | 69631 | [69631-revolution-classic-adventures.json](./69631-revolution-classic-adventures.json) |
 | Revolution Core | 422073 | [422073-revolution-core.json](./422073-revolution-core.json) |
 | Revolution Diabolique | 172317 | [172317-revolution-diabolique.json](./172317-revolution-diabolique.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
@@ -6477,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick Dangerous | 12202 | [12202-rick-dangerous.json](./12202-rick-dangerous.json) |
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
 | Rick Dangerous 2 | 308151 | [308151-rick-dangerous-2.json](./308151-rick-dangerous-2.json) |
+| Rick Davis' World Trophy Soccer | 69726 | [69726-rick-davis-world-trophy-soccer.json](./69726-rick-davis-world-trophy-soccer.json) |
 | Rick Henderson | 113529 | [113529-rick-henderson.json](./113529-rick-henderson.json) |
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
 | Rick Ribbit: Adventures in Early Learning | 62689 | [62689-rick-ribbit-adventures-in-early-learning.json](./62689-rick-ribbit-adventures-in-early-learning.json) |
