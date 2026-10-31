@@ -2313,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
 | Johnny Turbo's Arcade: Two Crude Dudes | 104710 | [104710-johnny-turbos-arcade-two-crude-dudes.json](./104710-johnny-turbos-arcade-two-crude-dudes.json) |
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
+| Johnny's Minefield | 77049 | [77049-johnnys-minefield.json](./77049-johnnys-minefield.json) |
 | Johns.Game | 90482 | [90482-johns-game.json](./90482-johns-game.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Johny Vayna | 251148 | [251148-johny-vayna.json](./251148-johny-vayna.json) |
@@ -2742,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judas Priest: Road to Valhalla | 175162 | [175162-judas-priest-road-to-valhalla.json](./175162-judas-priest-road-to-valhalla.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
 | Judero | 221649 | [221649-judero.json](./221649-judero.json) |
+| Judge | 77076 | [77076-judge.json](./77076-judge.json) |
 | Judge Dee | 10478 | [10478-judge-dee.json](./10478-judge-dee.json) |
 | Judge Dee: The City God Case | 64833 | [64833-judge-dee-the-city-god-case.json](./64833-judge-dee-the-city-god-case.json) |
 | Judge Dredd | 198785 | [198785-judge-dredd.json](./198785-judge-dredd.json) |
