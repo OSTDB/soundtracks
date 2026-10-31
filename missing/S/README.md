@@ -17770,6 +17770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27672,6 +27673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 | 29484 | [29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json](./29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
+| Super Army of Tentacles 3: The Search for Army of Tentacles 2: Black GOAT of the Woods Edition | 84580 | [84580-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-black-goat-of-the-woods-edition.json](./84580-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-black-goat-of-the-woods-edition.json) |
 | Super Arrow Online | 228135 | [228135-super-arrow-online.json](./228135-super-arrow-online.json) |
 | Super Arter | 287022 | [287022-super-arter.json](./287022-super-arter.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
