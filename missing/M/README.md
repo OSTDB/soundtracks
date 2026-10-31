@@ -121,7 +121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabinogi Duel | 23653 | [23653-mabinogi-duel.json](./23653-mabinogi-duel.json) |
 | Mabinogi II: Arena | 100551 | [100551-mabinogi-ii-arena.json](./100551-mabinogi-ii-arena.json) |
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
-| Mable and the Wood | 89773 | [89773-mable-and-the-wood.json](./89773-mable-and-the-wood.json) |
 | Maboroshi Caravan | 225197 | [225197-maboroshi-caravan.json](./225197-maboroshi-caravan.json) |
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
