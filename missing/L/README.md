@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagoon Lounge 2: The Secret Roommate | 290804 | [290804-lagoon-lounge-2-the-secret-roommate.json](./290804-lagoon-lounge-2-the-secret-roommate.json) |
 | Lagoon Lounge: The Poisonous Fountain | 102437 | [102437-lagoon-lounge-the-poisonous-fountain.json](./102437-lagoon-lounge-the-poisonous-fountain.json) |
 | Lagoona Bundle | 354044 | [354044-lagoona-bundle.json](./354044-lagoona-bundle.json) |
+| Lagoona: Kids' activity center | 99935 | [99935-lagoona-kids-activity-center.json](./99935-lagoona-kids-activity-center.json) |
 | Lagrange Point | 48576 | [48576-lagrange-point.json](./48576-lagrange-point.json) |
 | Lagsters | 109185 | [109185-lagsters.json](./109185-lagsters.json) |
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
