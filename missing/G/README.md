@@ -3622,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostly Simulator: Your Neighboring Ghost Story Collection | 407411 | [407411-ghostly-simulator-your-neighboring-ghost-story-collection.json](./407411-ghostly-simulator-your-neighboring-ghost-story-collection.json) |
 | Ghostly Whiskers | 384730 | [384730-ghostly-whiskers.json](./384730-ghostly-whiskers.json) |
 | GhostlyRyokan | 317894 | [317894-ghostlyryokan.json](./317894-ghostlyryokan.json) |
+| Ghostman: The Council Calamity | 105627 | [105627-ghostman-the-council-calamity.json](./105627-ghostman-the-council-calamity.json) |
 | Ghostmoons: Arcade | 357426 | [357426-ghostmoons-arcade.json](./357426-ghostmoons-arcade.json) |
 | Ghostmuncher Uniwars | 384779 | [384779-ghostmuncher-uniwars.json](./384779-ghostmuncher-uniwars.json) |
 | Ghostnote | 423279 | [423279-ghostnote.json](./423279-ghostnote.json) |
@@ -10200,6 +10201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
 | Gustav Vasa: Adventure in the Dales | 159487 | [159487-gustav-vasa-adventure-in-the-dales.json](./159487-gustav-vasa-adventure-in-the-dales.json) |
 | Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
+| Gustavo Kingdom Rebirth | 105611 | [105611-gustavo-kingdom-rebirth.json](./105611-gustavo-kingdom-rebirth.json) |
 | Gut Eater | 350956 | [350956-gut-eater.json](./350956-gut-eater.json) |
 | Gut Fear Boundary | 393377 | [393377-gut-fear-boundary.json](./393377-gut-fear-boundary.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
