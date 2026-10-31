@@ -6253,6 +6253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deponia Collection | 119068 | [119068-deponia-collection.json](./119068-deponia-collection.json) |
 | Deponia Doomsday | 19300 | [19300-deponia-doomsday.json](./19300-deponia-doomsday.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
+| Depopulation | 75398 | [75398-depopulation.json](./75398-depopulation.json) |
 | Deported 2: Build That Wall | 112784 | [112784-deported-2-build-that-wall.json](./112784-deported-2-build-that-wall.json) |
 | Deported: Drain the Swamp | 111422 | [111422-deported-drain-the-swamp.json](./111422-deported-drain-the-swamp.json) |
 | DepotDash | 385363 | [385363-depotdash.json](./385363-depotdash.json) |
@@ -7233,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Game of the Year Edition | 25358 | [25358-deus-ex-game-of-the-year-edition.json](./25358-deus-ex-game-of-the-year-edition.json) |
 | Deus Ex: Greasel of the Year Edition | 275624 | [275624-deus-ex-greasel-of-the-year-edition.json](./275624-deus-ex-greasel-of-the-year-edition.json) |
 | Deus Ex: Human Revolution - Augmented Edition | 47412 | [47412-deus-ex-human-revolution-augmented-edition.json](./47412-deus-ex-human-revolution-augmented-edition.json) |
+| Deus Ex: Human Revolution - Collector's Edition | 75569 | [75569-deus-ex-human-revolution-collectors-edition.json](./75569-deus-ex-human-revolution-collectors-edition.json) |
 | Deus Ex: Human Revolution - Complete Edition | 118891 | [118891-deus-ex-human-revolution-complete-edition.json](./118891-deus-ex-human-revolution-complete-edition.json) |
 | Deus Ex: Human Revolution - Director's Cut | 9740 | [9740-deus-ex-human-revolution-directors-cut.json](./9740-deus-ex-human-revolution-directors-cut.json) |
 | Deus Ex: Human Revolution - The Missing Link | 9533 | [9533-deus-ex-human-revolution-the-missing-link.json](./9533-deus-ex-human-revolution-the-missing-link.json) |
