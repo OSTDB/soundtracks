@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oligopoly | 71993 | [71993-oligopoly.json](./71993-oligopoly.json) |
 | Olimdal | 113558 | [113558-olimdal.json](./113558-olimdal.json) |
 | Olimpia OT | 415015 | [415015-olimpia-ot.json](./415015-olimpia-ot.json) |
+| Olimpiadas 92: Gimnasia Deportiva | 111310 | [111310-olimpiadas-92-gimnasia-deportiva.json](./111310-olimpiadas-92-gimnasia-deportiva.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
 | Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
