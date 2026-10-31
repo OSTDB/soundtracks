@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Rampage | 17622 | [17622-zoo-rampage.json](./17622-zoo-rampage.json) |
 | Zoo Rescue | 92301 | [92301-zoo-rescue.json](./92301-zoo-rescue.json) |
 | Zoo Rescue: Match 3 & Animals | 317878 | [317878-zoo-rescue-match-3-and-animals.json](./317878-zoo-rescue-match-3-and-animals.json) |
+| Zoo Resort 3D | 80281 | [80281-zoo-resort-3d.json](./80281-zoo-resort-3d.json) |
 | Zoo Seeker | 188794 | [188794-zoo-seeker.json](./188794-zoo-seeker.json) |
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
 | Zoo Sounds: Fun Educational Games for Kids | 95654 | [95654-zoo-sounds-fun-educational-games-for-kids.json](./95654-zoo-sounds-fun-educational-games-for-kids.json) |
