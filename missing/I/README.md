@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InstaDoom WAD Of The Year Edition | 217803 | [217803-instadoom-wad-of-the-year-edition.json](./217803-instadoom-wad-of-the-year-edition.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Install Wizard | 147353 | [147353-install-wizard.json](./147353-install-wizard.json) |
+| Installation 01 | 117289 | [117289-installation-01.json](./117289-installation-01.json) |
 | Instance Destroy | 244663 | [244663-instance-destroy.json](./244663-instance-destroy.json) |
 | Instant Anastasia | 356833 | [356833-instant-anastasia.json](./356833-instant-anastasia.json) |
 | Instant Armory | 303587 | [303587-instant-armory.json](./303587-instant-armory.json) |
