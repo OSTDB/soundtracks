@@ -5707,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Heir | 147674 | [147674-return-of-the-heir.json](./147674-return-of-the-heir.json) |
 | Return of the Invaders | 40072 | [40072-return-of-the-invaders.json](./40072-return-of-the-invaders.json) |
 | Return of the Mutant Camels | 40961 | [40961-return-of-the-mutant-camels.json](./40961-return-of-the-mutant-camels.json) |
+| Return of the Mutant Space Bats of Doom | 79514 | [79514-return-of-the-mutant-space-bats-of-doom.json](./79514-return-of-the-mutant-space-bats-of-doom.json) |
 | Return of the Ninja | 49858 | [49858-return-of-the-ninja.json](./49858-return-of-the-ninja.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
 | Return of the Quack | 300640 | [300640-return-of-the-quack.json](./300640-return-of-the-quack.json) |
@@ -10944,6 +10945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugrats: Totally Angelica | 2789 | [2789-rugrats-totally-angelica.json](./2789-rugrats-totally-angelica.json) |
 | Rúguǒ Yīshēng Zhǐ Yǒu Sān Shí Suì | 121646 | [121646-ruguo-yisheng-zhi-you-san-shi-sui.json](./121646-ruguo-yisheng-zhi-you-san-shi-sui.json) |
 | Ruh & the Glow | 178597 | [178597-ruh-and-the-glow.json](./178597-ruh-and-the-glow.json) |
+| Rui ha Tomo wo Yobu | 79650 | [79650-rui-ha-tomo-wo-yobu.json](./79650-rui-ha-tomo-wo-yobu.json) |
 | Rui wa Tomo o Yobu | 273890 | [273890-rui-wa-tomo-o-yobu.json](./273890-rui-wa-tomo-o-yobu.json) |
 | Ruiga Pirates | 274367 | [274367-ruiga-pirates.json](./274367-ruiga-pirates.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
