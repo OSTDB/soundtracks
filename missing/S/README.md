@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred: Last Pixel of Ancaria | 382855 | [382855-sacred-last-pixel-of-ancaria.json](./382855-sacred-last-pixel-of-ancaria.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrifice Girl: The Curse of Demon Snake | 112222 | [112222-sacrifice-girl-the-curse-of-demon-snake.json](./112222-sacrifice-girl-the-curse-of-demon-snake.json) |
+| Sacrifice of the Beloved | 115318 | [115318-sacrifice-of-the-beloved.json](./115318-sacrifice-of-the-beloved.json) |
 | Sacrifice Villains | 314808 | [314808-sacrifice-villains.json](./314808-sacrifice-villains.json) |
 | Sacrifice Your Friends | 121552 | [121552-sacrifice-your-friends.json](./121552-sacrifice-your-friends.json) |
 | Sacrifices | 279897 | [279897-sacrifices.json](./279897-sacrifices.json) |
@@ -19359,6 +19360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
+| Spicy Piggy | 115307 | [115307-spicy-piggy.json](./115307-spicy-piggy.json) |
 | Spicy Strip Poker | 385691 | [385691-spicy-strip-poker.json](./385691-spicy-strip-poker.json) |
 | Spidded | 172951 | [172951-spidded.json](./172951-spidded.json) |
 | Spider | 230674 | [230674-spider.json](./230674-spider.json) |
@@ -23278,6 +23280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay! Stay! Democratic People's Republic of Korea | 28861 | [28861-stay-stay-democratic-peoples-republic-of-korea.json](./28861-stay-stay-democratic-peoples-republic-of-korea.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
+| Stayer | 115266 | [115266-stayer.json](./115266-stayer.json) |
 | Stayhome Simulator | 368434 | [368434-stayhome-simulator.json](./368434-stayhome-simulator.json) |
 | Stayhomer | 171207 | [171207-stayhomer.json](./171207-stayhomer.json) |
 | Staying Fresh | 292364 | [292364-staying-fresh.json](./292364-staying-fresh.json) |
@@ -30543,6 +30546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Commander 2: Infinite War Battle Pack | 155169 | [155169-supreme-commander-2-infinite-war-battle-pack.json](./155169-supreme-commander-2-infinite-war-battle-pack.json) |
 | Supreme Commander: Forged Alliance | 888 | [888-supreme-commander-forged-alliance.json](./888-supreme-commander-forged-alliance.json) |
 | Supreme Commander: Gold Edition | 53689 | [53689-supreme-commander-gold-edition.json](./53689-supreme-commander-gold-edition.json) |
+| Supreme Courtship | 115296 | [115296-supreme-courtship.json](./115296-supreme-courtship.json) |
 | Supreme Duelist Stickman | 198310 | [198310-supreme-duelist-stickman.json](./198310-supreme-duelist-stickman.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
