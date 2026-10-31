@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Man | 107416 | [107416-family-man.json](./107416-family-man.json) |
 | Family Manners | 425470 | [425470-family-manners.json](./425470-family-manners.json) |
 | Family Mansion | 177249 | [177249-family-mansion.json](./177249-family-mansion.json) |
+| Family MegaHits II | 79007 | [79007-family-megahits-ii.json](./79007-family-megahits-ii.json) |
 | Family Mini Golf | 50744 | [50744-family-mini-golf.json](./50744-family-mini-golf.json) |
 | Family Mysteries 2: Echoes of Tomorrow | 132610 | [132610-family-mysteries-2-echoes-of-tomorrow.json](./132610-family-mysteries-2-echoes-of-tomorrow.json) |
 | Family Mysteries 3: Criminal Mindset | 135764 | [135764-family-mysteries-3-criminal-mindset.json](./135764-family-mysteries-3-criminal-mindset.json) |
