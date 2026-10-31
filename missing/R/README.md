@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Tactics I & II Cosmos: Deluxe Edition | 249962 | [249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json](./249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json) |
 | R-Type Tactics I & II Cosmos: Limited Edition | 276768 | [276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json](./276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
+| R: Rock'n Riders | 63513 | [63513-r-rockn-riders.json](./63513-r-rockn-riders.json) |
 | R?MJ: The Mystery Hospital | 54928 | [54928-r-mj-the-mystery-hospital.json](./54928-r-mj-the-mystery-hospital.json) |
 | R.A.I.D | 400673 | [400673-r-a-i-d.json](./400673-r-a-i-d.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
@@ -10726,7 +10727,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Tsukuuru 2 Taiou: Organic Stone | 150582 | [150582-rpg-tsukuuru-2-taiou-organic-stone.json](./150582-rpg-tsukuuru-2-taiou-organic-stone.json) |
 | RPG Tsukuuru 2 Taiou: Organic Stone Honpen | 151167 | [151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json](./151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json) |
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
+| RPG Tsukuuru 95 | 63512 | [63512-rpg-tsukuuru-95.json](./63512-rpg-tsukuuru-95.json) |
 | RPG Tsukuuru Advance | 49795 | [49795-rpg-tsukuuru-advance.json](./49795-rpg-tsukuuru-advance.json) |
+| RPG Tsukuuru DS+: Create the New World | 63508 | [63508-rpg-tsukuuru-ds-create-the-new-world.json](./63508-rpg-tsukuuru-ds-create-the-new-world.json) |
+| RPG Tsukuuru: Super Dante | 63509 | [63509-rpg-tsukuuru-super-dante.json](./63509-rpg-tsukuuru-super-dante.json) |
 | RPG Tycoon | 17654 | [17654-rpg-tycoon.json](./17654-rpg-tycoon.json) |
 | RPG Tycoon: Supply & Demand | 164507 | [164507-rpg-tycoon-supply-and-demand.json](./164507-rpg-tycoon-supply-and-demand.json) |
 | RPG Workshop Max | 232708 | [232708-rpg-workshop-max.json](./232708-rpg-workshop-max.json) |
