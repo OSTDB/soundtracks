@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ticket to Ride | 100037 | [100037-a-ticket-to-ride.json](./100037-a-ticket-to-ride.json) |
 | A Time of Life | 166666 | [166666-a-time-of-life.json](./166666-a-time-of-life.json) |
 | A Time of Tungsten | 57521 | [57521-a-time-of-tungsten.json](./57521-a-time-of-tungsten.json) |
+| A Time Paradox | 123777 | [123777-a-time-paradox.json](./123777-a-time-paradox.json) |
 | A Time Traveller's Guide to Past Delicacies | 285882 | [285882-a-time-travellers-guide-to-past-delicacies.json](./285882-a-time-travellers-guide-to-past-delicacies.json) |
 | A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
@@ -3622,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesir Online | 154825 | [154825-aesir-online.json](./154825-aesir-online.json) |
 | Aesop Rock's Black Hole Superette Experience | 346605 | [346605-aesop-rocks-black-hole-superette-experience.json](./346605-aesop-rocks-black-hole-superette-experience.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
+| Aesop's Fables: A New Approach | 123776 | [123776-aesops-fables-a-new-approach.json](./123776-aesops-fables-a-new-approach.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aesoteric Collection | 164209 | [164209-aesoteric-collection.json](./164209-aesoteric-collection.json) |
 | Aestheta | 349742 | [349742-aestheta.json](./349742-aestheta.json) |
@@ -3901,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After... Prologue | 405063 | [405063-after-prologue.json](./405063-after-prologue.json) |
 | After... Wasureenu Kizuna | 283252 | [283252-after-wasureenu-kizuna.json](./283252-after-wasureenu-kizuna.json) |
 | Afterbeat | 33564 | [33564-afterbeat.json](./33564-afterbeat.json) |
+| Afterbern | 123814 | [123814-afterbern.json](./123814-afterbern.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterblast | 357792 | [357792-afterblast.json](./357792-afterblast.json) |
 | AfterBreach: Mystery Shooter | 174591 | [174591-afterbreach-mystery-shooter.json](./174591-afterbreach-mystery-shooter.json) |
@@ -5060,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport CEO: Business Class Edition | 202127 | [202127-airport-ceo-business-class-edition.json](./202127-airport-ceo-business-class-edition.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
 | Airport CEO: Vintage | 203691 | [203691-airport-ceo-vintage.json](./203691-airport-ceo-vintage.json) |
+| Airport Contraband | 123765 | [123765-airport-contraband.json](./123765-airport-contraband.json) |
 | Airport Contraband Police | 267260 | [267260-airport-contraband-police.json](./267260-airport-contraband-police.json) |
 | Airport Control 25 | 379523 | [379523-airport-control-25.json](./379523-airport-control-25.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
