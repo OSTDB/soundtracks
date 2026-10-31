@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Symphonia: Dawn of the New World | 5210 | [5210-tales-of-symphonia-dawn-of-the-new-world.json](./5210-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Tarium: Awakening from the Ashes | 213538 | [213538-tales-of-tarium-awakening-from-the-ashes.json](./213538-tales-of-tarium-awakening-from-the-ashes.json) |
+| Tales of Terazul | 98187 | [98187-tales-of-terazul.json](./98187-tales-of-terazul.json) |
 | Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
 | Tales of Terror: Estate of the Heart | 19209 | [19209-tales-of-terror-estate-of-the-heart.json](./19209-tales-of-terror-estate-of-the-heart.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
@@ -2280,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
 | Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
+| Taregoro: Tarepanda no Iru Nichijou | 98164 | [98164-taregoro-tarepanda-no-iru-nichijou.json](./98164-taregoro-tarepanda-no-iru-nichijou.json) |
 | Tarek | 149491 | [149491-tarek.json](./149491-tarek.json) |
 | Targ | 24828 | [24828-targ.json](./24828-targ.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
@@ -3000,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
 | Ted by Dawn | 34963 | [34963-ted-by-dawn.json](./34963-ted-by-dawn.json) |
 | Ted Nugent - Wild Hunting Adventure | 118558 | [118558-ted-nugent-wild-hunting-adventure.json](./118558-ted-nugent-wild-hunting-adventure.json) |
+| Ted Remixed | 98210 | [98210-ted-remixed.json](./98210-ted-remixed.json) |
 | TED Tumblewords | 322645 | [322645-ted-tumblewords.json](./322645-ted-tumblewords.json) |
 | Tedd'or | 195088 | [195088-teddor.json](./195088-teddor.json) |
 | Teddies and Rainbows | 95632 | [95632-teddies-and-rainbows.json](./95632-teddies-and-rainbows.json) |
@@ -4062,6 +4065,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
 | Terra Memoria: Deluxe Edition | 292926 | [292926-terra-memoria-deluxe-edition.json](./292926-terra-memoria-deluxe-edition.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
+| Terra Monsters 2: Land of Afer | 98190 | [98190-terra-monsters-2-land-of-afer.json](./98190-terra-monsters-2-land-of-afer.json) |
+| Terra Monsters 3 | 98189 | [98189-terra-monsters-3.json](./98189-terra-monsters-3.json) |
 | Terra Mystica | 37036 | [37036-terra-mystica.json](./37036-terra-mystica.json) |
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
@@ -7004,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Croods: Prehistoric Party! | 25161 | [25161-the-croods-prehistoric-party.json](./25161-the-croods-prehistoric-party.json) |
 | The Crooked Man | 46989 | [46989-the-crooked-man.json](./46989-the-crooked-man.json) |
 | The Crosley Tower Horror | 399709 | [399709-the-crosley-tower-horror.json](./399709-the-crosley-tower-horror.json) |
+| The Cross Formula | 98174 | [98174-the-cross-formula.json](./98174-the-cross-formula.json) |
 | The Cross Horror Game | 120812 | [120812-the-cross-horror-game.json](./120812-the-cross-horror-game.json) |
 | The Crossing | 397852 | [397852-the-crossing.json](./397852-the-crossing.json) |
 | The Crossing | 51690 | [51690-the-crossing.json](./51690-the-crossing.json) |
@@ -9190,6 +9196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godfather II | 575 | [575-the-godfather-ii.json](./575-the-godfather-ii.json) |
 | The Godfather: Blackhand Edition | 20681 | [20681-the-godfather-blackhand-edition.json](./20681-the-godfather-blackhand-edition.json) |
 | The Godfather: City Wars | 355894 | [355894-the-godfather-city-wars.json](./355894-the-godfather-city-wars.json) |
+| The Godfather: Family Dynasty | 98192 | [98192-the-godfather-family-dynasty.json](./98192-the-godfather-family-dynasty.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
 | The Godkiller | 123228 | [123228-the-godkiller.json](./123228-the-godkiller.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
@@ -13313,6 +13320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pacifist's Great and Final Nightmare | 169629 | [169629-the-pacifists-great-and-final-nightmare.json](./169629-the-pacifists-great-and-final-nightmare.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
+| The Packet Queen | 98166 | [98166-the-packet-queen.json](./98166-the-packet-queen.json) |
 | The Pact | 251374 | [251374-the-pact.json](./251374-the-pact.json) |
 | The Pact | 374568 | [374568-the-pact.json](./374568-the-pact.json) |
 | The Pact | 401478 | [401478-the-pact.json](./401478-the-pact.json) |
@@ -23778,6 +23786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Total War: Warhammer Trilogy | 270579 | [270579-total-war-warhammer-trilogy.json](./270579-total-war-warhammer-trilogy.json) |
 | Total World Liberation | 224607 | [224607-total-world-liberation.json](./224607-total-world-liberation.json) |
+| Total World War | 98171 | [98171-total-world-war.json](./98171-total-world-war.json) |
 | Total Zugzwang | 310145 | [310145-total-zugzwang.json](./310145-total-zugzwang.json) |
 | Totale Roller Poursuite! | 359457 | [359457-totale-roller-poursuite.json](./359457-totale-roller-poursuite.json) |
 | Totaled! | 6214 | [6214-totaled.json](./6214-totaled.json) |
