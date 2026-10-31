@@ -5280,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Warriors: Fire Emblem Fates DLC Pack | 238324 | [238324-fire-emblem-warriors-fire-emblem-fates-dlc-pack.json](./238324-fire-emblem-warriors-fire-emblem-fates-dlc-pack.json) |
 | Fire Emblem Warriors: Limited Edition | 136159 | [136159-fire-emblem-warriors-limited-edition.json](./136159-fire-emblem-warriors-limited-edition.json) |
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
+| Fire Emblem Warriors: Special Edition | 117947 | [117947-fire-emblem-warriors-special-edition.json](./117947-fire-emblem-warriors-special-edition.json) |
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem World Cup | 323039 | [323039-fire-emblem-world-cup.json](./323039-fire-emblem-world-cup.json) |
