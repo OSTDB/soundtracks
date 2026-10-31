@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
 | Idlequarium | 348707 | [348707-idlequarium.json](./348707-idlequarium.json) |
 | IdleQuest | 360543 | [360543-idlequest.json](./360543-idlequest.json) |
+| Idlers and Dungeons | 78428 | [78428-idlers-and-dungeons.json](./78428-idlers-and-dungeons.json) |
 | Idlescape | 139325 | [139325-idlescape.json](./139325-idlescape.json) |
 | IdleTale | 340514 | [340514-idletale.json](./340514-idletale.json) |
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
