@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Live 2005 | 269390 | [269390-baseball-live-2005.json](./269390-baseball-live-2005.json) |
 | Baseball Mania | 56963 | [56963-baseball-mania.json](./56963-baseball-mania.json) |
+| Baseball Megastar | 104363 | [104363-baseball-megastar.json](./104363-baseball-megastar.json) |
 | Baseball Mogul | 605 | [605-baseball-mogul.json](./605-baseball-mogul.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
 | Baseball Mogul 2002 | 73591 | [73591-baseball-mogul-2002.json](./73591-baseball-mogul-2002.json) |
@@ -9712,6 +9713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blocks! | 314228 | [314228-blocks.json](./314228-blocks.json) |
 | Blocks!: Hammer of the Scots | 150343 | [150343-blocks-hammer-of-the-scots.json](./150343-blocks-hammer-of-the-scots.json) |
+| BlocksClassic | 104344 | [104344-blocksclassic.json](./104344-blocksclassic.json) |
 | BlockShip Wars: Roguelike | 81689 | [81689-blockship-wars-roguelike.json](./81689-blockship-wars-roguelike.json) |
 | Blockships | 27999 | [27999-blockships.json](./27999-blockships.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
@@ -9907,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Curse Legions | 334552 | [334552-blood-curse-legions.json](./334552-blood-curse-legions.json) |
 | Blood Day | 112469 | [112469-blood-day.json](./112469-blood-day.json) |
 | Blood Day | 180080 | [180080-blood-day.json](./180080-blood-day.json) |
+| Blood Domination | 104365 | [104365-blood-domination.json](./104365-blood-domination.json) |
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
 | Blood Drive | 6922 | [6922-blood-drive.json](./6922-blood-drive.json) |
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
@@ -15781,6 +15784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
+| Bunco Classic for iPad | 104355 | [104355-bunco-classic-for-ipad.json](./104355-bunco-classic-for-ipad.json) |
 | Bunco With Clara | 418598 | [418598-bunco-with-clara.json](./418598-bunco-with-clara.json) |
 | Bunderkin: The Ocular Eclipse | 406671 | [406671-bunderkin-the-ocular-eclipse.json](./406671-bunderkin-the-ocular-eclipse.json) |
 | Bundesfighter 2 Turbo | 246234 | [246234-bundesfighter-2-turbo.json](./246234-bundesfighter-2-turbo.json) |
