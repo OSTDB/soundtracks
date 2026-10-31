@@ -7046,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
 | Exoracer | 219092 | [219092-exoracer.json](./219092-exoracer.json) |
 | Exorcise | 304519 | [304519-exorcise.json](./304519-exorcise.json) |
+| Exorcise Demons | 121953 | [121953-exorcise-demons.json](./121953-exorcise-demons.json) |
 | Exorcised | 149238 | [149238-exorcised.json](./149238-exorcised.json) |
 | Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
 | Exorcism Express | 181153 | [181153-exorcism-express.json](./181153-exorcism-express.json) |
