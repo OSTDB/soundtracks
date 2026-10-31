@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
 | Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
+| Jesus vs. Muhammad | 100530 | [100530-jesus-vs-muhammad.json](./100530-jesus-vs-muhammad.json) |
 | JESUS: Kyoufu no Bio Monster | 48452 | [48452-jesus-kyoufu-no-bio-monster.json](./48452-jesus-kyoufu-no-bio-monster.json) |
 | Jet | 15087 | [15087-jet.json](./15087-jet.json) |
 | Jet & Sky | 215588 | [215588-jet-and-sky.json](./215588-jet-and-sky.json) |
@@ -3839,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice Ninja Casey | 326645 | [326645-justice-ninja-casey.json](./326645-justice-ninja-casey.json) |
 | Justice Online | 104711 | [104711-justice-online.json](./104711-justice-online.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
+| Justice Royale | 100525 | [100525-justice-royale.json](./100525-justice-royale.json) |
 | Justice Seeker: Unsafe Data | 236772 | [236772-justice-seeker-unsafe-data.json](./236772-justice-seeker-unsafe-data.json) |
 | Justice Strikes | 129017 | [129017-justice-strikes.json](./129017-justice-strikes.json) |
 | Justice Sucks: Tactical Vacuum Action | 138203 | [138203-justice-sucks-tactical-vacuum-action.json](./138203-justice-sucks-tactical-vacuum-action.json) |
