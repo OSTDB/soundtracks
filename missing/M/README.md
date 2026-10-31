@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magirune | 119399 | [119399-magirune.json](./119399-magirune.json) |
 | Magirune 2 | 197178 | [197178-magirune-2.json](./197178-magirune-2.json) |
 | Magiscapes | 319287 | [319287-magiscapes.json](./319287-magiscapes.json) |
+| Magische Kristalle | 93300 | [93300-magische-kristalle.json](./93300-magische-kristalle.json) |
 | Magissy | 169843 | [169843-magissy.json](./169843-magissy.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
@@ -7500,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megankreuzstilette | 252297 | [252297-megankreuzstilette.json](./252297-megankreuzstilette.json) |
 | Meganoid | 29184 | [29184-meganoid.json](./29184-meganoid.json) |
 | Meganoid: Chronicles | 370812 | [370812-meganoid-chronicles.json](./370812-meganoid-chronicles.json) |
+| Meganova | 93290 | [93290-meganova.json](./93290-meganova.json) |
 | Megapain | 398461 | [398461-megapain.json](./398461-megapain.json) |
 | MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
 | Megaplex | 94722 | [94722-megaplex.json](./94722-megaplex.json) |
@@ -11368,6 +11370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
 | Minerva Labyrinth | 344499 | [344499-minerva-labyrinth.json](./344499-minerva-labyrinth.json) |
+| MinerVGA | 93322 | [93322-minervga.json](./93322-minervga.json) |
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
 | Mines | 182033 | [182033-mines.json](./182033-mines.json) |
 | Mines | 205095 | [205095-mines.json](./205095-mines.json) |
@@ -16550,6 +16553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out: Digital Deluxe Edition | 186548 | [186548-moving-out-digital-deluxe-edition.json](./186548-moving-out-digital-deluxe-edition.json) |
 | Moving Out: Movers in Paradise | 143880 | [143880-moving-out-movers-in-paradise.json](./143880-moving-out-movers-in-paradise.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
+| Moving Puzzle: Jungle World | 93298 | [93298-moving-puzzle-jungle-world.json](./93298-moving-puzzle-jungle-world.json) |
 | Moving Simulator | 346719 | [346719-moving-simulator.json](./346719-moving-simulator.json) |
 | Moving Stories | 123195 | [123195-moving-stories.json](./123195-moving-stories.json) |
 | Moving Through Life | 238476 | [238476-moving-through-life.json](./238476-moving-through-life.json) |
