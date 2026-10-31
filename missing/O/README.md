@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hour And A Straight Line | 278986 | [278986-one-hour-and-a-straight-line.json](./278986-one-hour-and-a-straight-line.json) |
 | One Hour Left | 123951 | [123951-one-hour-left.json](./123951-one-hour-left.json) |
 | One Hour One Life | 56997 | [56997-one-hour-one-life.json](./56997-one-hour-one-life.json) |
+| One Hour One Life for Mobile | 108117 | [108117-one-hour-one-life-for-mobile.json](./108117-one-hour-one-life-for-mobile.json) |
 | One Hour With Mr. Hopp | 344303 | [344303-one-hour-with-mr-hopp.json](./344303-one-hour-with-mr-hopp.json) |
 | One Humanity | 261964 | [261964-one-humanity.json](./261964-one-humanity.json) |
 | One Hundred Times Me | 114818 | [114818-one-hundred-times-me.json](./114818-one-hundred-times-me.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
+| Osmanli'nin Onuru | 108130 | [108130-osmanlinin-onuru.json](./108130-osmanlinin-onuru.json) |
 | Osmathus Falling | 399430 | [399430-osmathus-falling.json](./399430-osmathus-falling.json) |
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
@@ -4292,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otonari-san | 238111 | [238111-otonari-san.json](./238111-otonari-san.json) |
 | Otoranger | 239595 | [239595-otoranger.json](./239595-otoranger.json) |
 | Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
+| Otose! Hitozuma Megami-sama | 108148 | [108148-otose-hitozuma-megami-sama.json](./108148-otose-hitozuma-megami-sama.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | OtoZ | 375359 | [375359-otoz.json](./375359-otoz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
