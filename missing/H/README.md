@@ -9291,6 +9291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
 | Horseshoe Crab Rescue! | 180970 | [180970-horseshoe-crab-rescue.json](./180970-horseshoe-crab-rescue.json) |
+| HorseWorld: Premium | 99938 | [99938-horseworld-premium.json](./99938-horseworld-premium.json) |
 | Horsey Game | 392467 | [392467-horsey-game.json](./392467-horsey-game.json) |
 | Horsey I | 362166 | [362166-horsey-i.json](./362166-horsey-i.json) |
 | Horsez | 248607 | [248607-horsez.json](./248607-horsez.json) |
@@ -9531,6 +9532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shot Challenge - Online | 103627 | [103627-hot-shot-challenge-online.json](./103627-hot-shot-challenge-online.json) |
 | Hot Shot Monkey | 349931 | [349931-hot-shot-monkey.json](./349931-hot-shot-monkey.json) |
 | Hot Shots | 339320 | [339320-hot-shots.json](./339320-hot-shots.json) |
+| Hot Shots Baseball | 99904 | [99904-hot-shots-baseball.json](./99904-hot-shots-baseball.json) |
 | Hot Shots Golf | 206487 | [206487-hot-shots-golf.json](./206487-hot-shots-golf.json) |
 | Hot Shots Golf | 36665 | [36665-hot-shots-golf.json](./36665-hot-shots-golf.json) |
 | Hot Shots Golf 2 | 232407 | [232407-hot-shots-golf-2.json](./232407-hot-shots-golf-2.json) |
