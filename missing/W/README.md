@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Petal | 304909 | [304909-wandering-petal.json](./304909-wandering-petal.json) |
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
 | Wandering Skies | 247477 | [247477-wandering-skies.json](./247477-wandering-skies.json) |
+| Wandering Star | 112628 | [112628-wandering-star.json](./112628-wandering-star.json) |
 | Wandering Sword | 202696 | [202696-wandering-sword.json](./202696-wandering-sword.json) |
 | Wandering Sword | 377264 | [377264-wandering-sword.json](./377264-wandering-sword.json) |
 | Wandering Sword: Mount Pack - Majestic Steeds | 377263 | [377263-wandering-sword-mount-pack-majestic-steeds.json](./377263-wandering-sword-mount-pack-majestic-steeds.json) |
