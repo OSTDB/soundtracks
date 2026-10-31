@@ -6750,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark | 110852 | [110852-shark.json](./110852-shark.json) |
+| Shark | 98687 | [98687-shark.json](./98687-shark.json) |
 | Shark Adventure | 192041 | [192041-shark-adventure.json](./192041-shark-adventure.json) |
 | Shark Assault Simulator | 202542 | [202542-shark-assault-simulator.json](./202542-shark-assault-simulator.json) |
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
@@ -10266,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Deutsch Rock-Pop vol 2 | 144151 | [144151-singstar-deutsch-rock-pop-vol-2.json](./144151-singstar-deutsch-rock-pop-vol-2.json) |
 | SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
 | SingStar: Frozen | 86080 | [86080-singstar-frozen.json](./86080-singstar-frozen.json) |
+| SingStar: Fussballhits | 98692 | [98692-singstar-fussballhits.json](./98692-singstar-fussballhits.json) |
 | SingStar: Hits | 43043 | [43043-singstar-hits.json](./43043-singstar-hits.json) |
 | SingStar: Hits 2 | 43044 | [43044-singstar-hits-2.json](./43044-singstar-hits-2.json) |
 | SingStar: Hottest Hits | 15175 | [15175-singstar-hottest-hits.json](./15175-singstar-hottest-hits.json) |
@@ -11277,6 +11279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Diver | 239491 | [239491-sky-diver.json](./239491-sky-diver.json) |
 | Sky Diving: Parachute Flight Simulator | 329431 | [329431-sky-diving-parachute-flight-simulator.json](./329431-sky-diving-parachute-flight-simulator.json) |
 | Sky Division | 246786 | [246786-sky-division.json](./246786-sky-division.json) |
+| Sky Dodge | 98714 | [98714-sky-dodge.json](./98714-sky-dodge.json) |
 | Sky Dog | 137804 | [137804-sky-dog.json](./137804-sky-dog.json) |
 | Sky Dominion | 292561 | [292561-sky-dominion.json](./292561-sky-dominion.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
@@ -17309,6 +17312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Avengers | 161569 | [161569-space-avengers.json](./161569-space-avengers.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Ball | 86751 | [86751-space-ball.json](./86751-space-ball.json) |
+| Space Ball Rolling | 98720 | [98720-space-ball-rolling.json](./98720-space-ball-rolling.json) |
 | Space Ball VR | 258602 | [258602-space-ball-vr.json](./258602-space-ball-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Ballers | 197163 | [197163-space-ballers.json](./197163-space-ballers.json) |
@@ -17703,7 +17707,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21077,6 +21080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaredance | 58308 | [58308-squaredance.json](./58308-squaredance.json) |
 | Squaredle | 213881 | [213881-squaredle.json](./213881-squaredle.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
+| Squarehead | 98704 | [98704-squarehead.json](./98704-squarehead.json) |
 | Squarelands | 34956 | [34956-squarelands.json](./34956-squarelands.json) |
 | Squarelaxy | 137350 | [137350-squarelaxy.json](./137350-squarelaxy.json) |
 | Squarelaxy | 183326 | [183326-squarelaxy.json](./183326-squarelaxy.json) |
@@ -32076,6 +32080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Progress Link | 123226 | [123226-sword-art-online-progress-link.json](./123226-sword-art-online-progress-link.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Art Online: Variant Showdown | 196564 | [196564-sword-art-online-variant-showdown.json](./196564-sword-art-online-variant-showdown.json) |
+| Sword Art Online's Legend | 98690 | [98690-sword-art-onlines-legend.json](./98690-sword-art-onlines-legend.json) |
 | Sword Boy | 183783 | [183783-sword-boy.json](./183783-sword-boy.json) |
 | Sword Bros | 75063 | [75063-sword-bros.json](./75063-sword-bros.json) |
 | Sword Chronicles: Awaken | 262378 | [262378-sword-chronicles-awaken.json](./262378-sword-chronicles-awaken.json) |
@@ -32109,6 +32114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Mans | 90211 | [90211-sword-mans.json](./90211-sword-mans.json) |
 | Sword Master | 278303 | [278303-sword-master.json](./278303-sword-master.json) |
 | Sword Master | 69900 | [69900-sword-master.json](./69900-sword-master.json) |
+| Sword Master | 98727 | [98727-sword-master.json](./98727-sword-master.json) |
 | Sword Master Story | 140896 | [140896-sword-master-story.json](./140896-sword-master-story.json) |
 | Sword n' Dragons | 275703 | [275703-sword-n-dragons.json](./275703-sword-n-dragons.json) |
 | Sword of Aragon | 72291 | [72291-sword-of-aragon.json](./72291-sword-of-aragon.json) |
