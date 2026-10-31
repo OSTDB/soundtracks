@@ -4878,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3 Bundle of 3 | 218716 | [218716-match-3-bundle-of-3.json](./218716-match-3-bundle-of-3.json) |
 | Match 3 Fantasy | 197389 | [197389-match-3-fantasy.json](./197389-match-3-fantasy.json) |
 | Match 3 Games | 98816 | [98816-match-3-games.json](./98816-match-3-games.json) |
+| Match 3 Jungle Treasure: Forgotten Jewels | 102513 | [102513-match-3-jungle-treasure-forgotten-jewels.json](./102513-match-3-jungle-treasure-forgotten-jewels.json) |
 | Match 3 Madness | 209552 | [209552-match-3-madness.json](./209552-match-3-madness.json) |
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
 | Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
@@ -5456,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Prophecies Collection | 144872 | [144872-mayan-prophecies-collection.json](./144872-mayan-prophecies-collection.json) |
 | Mayan Prophecies: Blood Moon | 140186 | [140186-mayan-prophecies-blood-moon.json](./140186-mayan-prophecies-blood-moon.json) |
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
+| Mayan Prophecies: Blood Moon HD | 102501 | [102501-mayan-prophecies-blood-moon-hd.json](./102501-mayan-prophecies-blood-moon-hd.json) |
 | Mayan Prophecies: Cursed Island | 140187 | [140187-mayan-prophecies-cursed-island.json](./140187-mayan-prophecies-cursed-island.json) |
 | Mayan Prophecies: Ship of Spirits | 140188 | [140188-mayan-prophecies-ship-of-spirits.json](./140188-mayan-prophecies-ship-of-spirits.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
@@ -5705,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Zen | 175296 | [175296-maze-zen.json](./175296-maze-zen.json) |
 | Maze: A VR Adventure | 160151 | [160151-maze-a-vr-adventure.json](./160151-maze-a-vr-adventure.json) |
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
+| Maze: Nightmare Realm | 102516 | [102516-maze-nightmare-realm.json](./102516-maze-nightmare-realm.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Maze: Path of Light - Complete Edition | 358666 | [358666-maze-path-of-light-complete-edition.json](./358666-maze-path-of-light-complete-edition.json) |
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
@@ -8631,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
 | Message Navi Vol. 2 | 222670 | [222670-message-navi-vol-2.json](./222670-message-navi-vol-2.json) |
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
+| Message Quest - adventures of Feste | 102526 | [102526-message-quest-adventures-of-feste.json](./102526-message-quest-adventures-of-feste.json) |
 | Messages From The Universe Graveyard | 304986 | [304986-messages-from-the-universe-graveyard.json](./304986-messages-from-the-universe-graveyard.json) |
 | Messenger | 370380 | [370380-messenger.json](./370380-messenger.json) |
 | Messiah | 9282 | [9282-messiah.json](./9282-messiah.json) |
@@ -10677,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
 | Millionaire Tycoon | 95921 | [95921-millionaire-tycoon.json](./95921-millionaire-tycoon.json) |
+| Millionaire Wedding - Lucky Bride Dress Up | 102537 | [102537-millionaire-wedding-lucky-bride-dress-up.json](./102537-millionaire-wedding-lucky-bride-dress-up.json) |
 | Millionaire: The Stock Market Simulation | 401794 | [401794-millionaire-the-stock-market-simulation.json](./401794-millionaire-the-stock-market-simulation.json) |
 | Millions of Billions of Suns | 398630 | [398630-millions-of-billions-of-suns.json](./398630-millions-of-billions-of-suns.json) |
 | Millions of Minions | 128203 | [128203-millions-of-minions.json](./128203-millions-of-minions.json) |
@@ -14777,6 +14782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonteCube Dodge | 117362 | [117362-montecube-dodge.json](./117362-montecube-dodge.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
 | Montessori Music | 80465 | [80465-montessori-music.json](./80465-montessori-music.json) |
+| Montessori Nature | 102502 | [102502-montessori-nature.json](./102502-montessori-nature.json) |
 | Montevisoft | 28198 | [28198-montevisoft.json](./28198-montevisoft.json) |
 | Montezuma Puzzle | 91341 | [91341-montezuma-puzzle.json](./91341-montezuma-puzzle.json) |
 | Montezuma Puzzle 3 | 68914 | [68914-montezuma-puzzle-3.json](./68914-montezuma-puzzle-3.json) |
@@ -19665,6 +19671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
 | Mystery of the Ancients: Deadly Cold | 140236 | [140236-mystery-of-the-ancients-deadly-cold.json](./140236-mystery-of-the-ancients-deadly-cold.json) |
 | Mystery of the Ancients: Deadly Cold - Collector's Edition | 117464 | [117464-mystery-of-the-ancients-deadly-cold-collectors-edition.json](./117464-mystery-of-the-ancients-deadly-cold-collectors-edition.json) |
+| Mystery of the Ancients: Deadly Cold HD | 102541 | [102541-mystery-of-the-ancients-deadly-cold-hd.json](./102541-mystery-of-the-ancients-deadly-cold-hd.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Ancients: Three Guardians | 140237 | [140237-mystery-of-the-ancients-three-guardians.json](./140237-mystery-of-the-ancients-three-guardians.json) |
 | Mystery of the Ancients: Three Guardians - Collector's Edition | 117133 | [117133-mystery-of-the-ancients-three-guardians-collectors-edition.json](./117133-mystery-of-the-ancients-three-guardians-collectors-edition.json) |
