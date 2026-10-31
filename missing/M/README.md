@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make A Scene: Easter | 96552 | [96552-make-a-scene-easter.json](./96552-make-a-scene-easter.json) |
 | Make A Scene: Farmyard | 232585 | [232585-make-a-scene-farmyard.json](./232585-make-a-scene-farmyard.json) |
 | Make A Scene: Polar Adventure | 103934 | [103934-make-a-scene-polar-adventure.json](./103934-make-a-scene-polar-adventure.json) |
+| Make A Scene: Safari | 99897 | [99897-make-a-scene-safari.json](./99897-make-a-scene-safari.json) |
 | Make a Scene: Transport | 103120 | [103120-make-a-scene-transport.json](./103120-make-a-scene-transport.json) |
 | Make a Scene: Under the Sea | 101073 | [101073-make-a-scene-under-the-sea.json](./101073-make-a-scene-under-the-sea.json) |
 | Make America Great Again | 36447 | [36447-make-america-great-again.json](./36447-make-america-great-again.json) |
@@ -2704,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manaya | 90411 | [90411-manaya.json](./90411-manaya.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Mancala | 89473 | [89473-mancala.json](./89473-mancala.json) |
+| Mancala Kalah | 99912 | [99912-mancala-kalah.json](./99912-mancala-kalah.json) |
 | Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Mancers of Magic | 295765 | [295765-mancers-of-magic.json](./295765-mancers-of-magic.json) |
@@ -11723,6 +11725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf Adventure: Cherry Blossom Valley | 221698 | [221698-minigolf-adventure-cherry-blossom-valley.json](./221698-minigolf-adventure-cherry-blossom-valley.json) |
 | Minigolf Blast | 95583 | [95583-minigolf-blast.json](./95583-minigolf-blast.json) |
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
+| MiniGolf in Frozen City | 99909 | [99909-minigolf-in-frozen-city.json](./99909-minigolf-in-frozen-city.json) |
 | MiniGolf Island | 235156 | [235156-minigolf-island.json](./235156-minigolf-island.json) |
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
 | Minigolf Maniacs | 209219 | [209219-minigolf-maniacs.json](./209219-minigolf-maniacs.json) |
@@ -18619,6 +18622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
 | My Hooptie | 369656 | [369656-my-hooptie.json](./369656-my-hooptie.json) |
+| My Horse | 99916 | [99916-my-horse.json](./99916-my-horse.json) |
 | My Horse & Me | 5030 | [5030-my-horse-and-me.json](./5030-my-horse-and-me.json) |
 | My Horse 3D: Best Friends | 147823 | [147823-my-horse-3d-best-friends.json](./147823-my-horse-3d-best-friends.json) |
 | My Horse Farm | 206774 | [206774-my-horse-farm.json](./206774-my-horse-farm.json) |
@@ -19286,6 +19290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
 | My Virgin Roommate | 264800 | [264800-my-virgin-roommate.json](./264800-my-virgin-roommate.json) |
 | My Virtual Friend | 330534 | [330534-my-virtual-friend.json](./330534-my-virtual-friend.json) |
+| My Virtual Girlfriend | 99906 | [99906-my-virtual-girlfriend.json](./99906-my-virtual-girlfriend.json) |
 | My Virtual Pet | 308508 | [308508-my-virtual-pet.json](./308508-my-virtual-pet.json) |
 | My Virtual Pet Louie the Pug | 250019 | [250019-my-virtual-pet-louie-the-pug.json](./250019-my-virtual-pet-louie-the-pug.json) |
 | My Virtual Tutor: Reading First Grade to Second Grade | 67662 | [67662-my-virtual-tutor-reading-first-grade-to-second-grade.json](./67662-my-virtual-tutor-reading-first-grade-to-second-grade.json) |
