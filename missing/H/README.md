@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon DS Cute | 47699 | [47699-harvest-moon-ds-cute.json](./47699-harvest-moon-ds-cute.json) |
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
 | Harvest Moon DS: Sunshine Islands | 3389 | [3389-harvest-moon-ds-sunshine-islands.json](./3389-harvest-moon-ds-sunshine-islands.json) |
+| Harvest Moon for Girl | 73430 | [73430-harvest-moon-for-girl.json](./73430-harvest-moon-for-girl.json) |
 | Harvest Moon GB | 3377 | [3377-harvest-moon-gb.json](./3377-harvest-moon-gb.json) |
 | Harvest Moon GBC | 220737 | [220737-harvest-moon-gbc.json](./220737-harvest-moon-gbc.json) |
 | Harvest Moon: A New Beginning | 3393 | [3393-harvest-moon-a-new-beginning.json](./3393-harvest-moon-a-new-beginning.json) |
@@ -11073,6 +11074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HuoChaiRenRPG | 149827 | [149827-huochairenrpg.json](./149827-huochairenrpg.json) |
 | Huǒshùyínhuā | 350981 | [350981-huoshuyinhua.json](./350981-huoshuyinhua.json) |
 | Hup Hup The Cupcake | 303558 | [303558-hup-hup-the-cupcake.json](./303558-hup-hup-the-cupcake.json) |
+| Hupchoo: The Gorps and the Sneezing Spell | 73574 | [73574-hupchoo-the-gorps-and-the-sneezing-spell.json](./73574-hupchoo-the-gorps-and-the-sneezing-spell.json) |
 | Hupsi | 177436 | [177436-hupsi.json](./177436-hupsi.json) |
 | Huracan Drift Simulator | 95875 | [95875-huracan-drift-simulator.json](./95875-huracan-drift-simulator.json) |
 | Hurdle Turtle | 66528 | [66528-hurdle-turtle.json](./66528-hurdle-turtle.json) |
