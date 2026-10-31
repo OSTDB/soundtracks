@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
 | Magical Paws 2: Heart Wishes | 143990 | [143990-magical-paws-2-heart-wishes.json](./143990-magical-paws-2-heart-wishes.json) |
+| Magical Pool | 64040 | [64040-magical-pool.json](./64040-magical-pool.json) |
 | Magical Pop'n | 9671 | [9671-magical-popn.json](./9671-magical-popn.json) |
 | Magical Princess | 339996 | [339996-magical-princess.json](./339996-magical-princess.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
@@ -10326,6 +10327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway Arcade Treasures: Deluxe Edition | 73419 | [73419-midway-arcade-treasures-deluxe-edition.json](./73419-midway-arcade-treasures-deluxe-edition.json) |
 | Midway Arcade Treasures: Extended Play | 71407 | [71407-midway-arcade-treasures-extended-play.json](./71407-midway-arcade-treasures-extended-play.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
+| Midway Presents Arcade Hits: Joust/Defender | 64031 | [64031-midway-presents-arcade-hits-joust-defender.json](./64031-midway-presents-arcade-hits-joust-defender.json) |
+| Midway Presents Arcade Hits: Moon Patrol/Spy Hunter | 64032 | [64032-midway-presents-arcade-hits-moon-patrol-spy-hunter.json](./64032-midway-presents-arcade-hits-moon-patrol-spy-hunter.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
 | Midway's Greatest Arcade Hits | 209512 | [209512-midways-greatest-arcade-hits.json](./209512-midways-greatest-arcade-hits.json) |
