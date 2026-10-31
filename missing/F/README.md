@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Mini: TwinBee | 170309 | [170309-famicom-mini-twinbee.json](./170309-famicom-mini-twinbee.json) |
 | Famicom Mini: Wrecking Crew | 170318 | [170318-famicom-mini-wrecking-crew.json](./170318-famicom-mini-wrecking-crew.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
+| Famicom Mukashibanashi: Shin Onigashima - Zengohen | 85774 | [85774-famicom-mukashibanashi-shin-onigashima-zengohen.json](./85774-famicom-mukashibanashi-shin-onigashima-zengohen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
 | Famicom Mukashibanashi: Yuuyuuki | 98885 | [98885-famicom-mukashibanashi-yuuyuuki.json](./98885-famicom-mukashibanashi-yuuyuuki.json) |
 | Famicom Mukashibanashi: Yuuyuuki - Kouhen | 41273 | [41273-famicom-mukashibanashi-yuuyuuki-kouhen.json](./41273-famicom-mukashibanashi-yuuyuuki-kouhen.json) |
@@ -1456,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Game Night 2 | 21786 | [21786-family-game-night-2.json](./21786-family-game-night-2.json) |
 | Family Game Night 4: The Game Show | 20220 | [20220-family-game-night-4-the-game-show.json](./20220-family-game-night-4-the-game-show.json) |
 | Family Game Night 4: The Game Show | 47421 | [47421-family-game-night-4-the-game-show.json](./47421-family-game-night-4-the-game-show.json) |
+| Family Game Night Fun Pack | 85798 | [85798-family-game-night-fun-pack.json](./85798-family-game-night-fun-pack.json) |
 | Family Game Pack | 131184 | [131184-family-game-pack.json](./131184-family-game-pack.json) |
 | Family Game Time | 209248 | [209248-family-game-time.json](./209248-family-game-time.json) |
 | Family Games | 270327 | [270327-family-games.json](./270327-family-games.json) |
