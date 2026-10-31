@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Grid | 52252 | [52252-laser-grid.json](./52252-laser-grid.json) |
 | Laser Guy (Harold) | 182646 | [182646-laser-guy-harold.json](./182646-laser-guy-harold.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
+| Laser Hawk | 71955 | [71955-laser-hawk.json](./71955-laser-hawk.json) |
 | Laser Heck | 132679 | [132679-laser-heck.json](./132679-laser-heck.json) |
 | Laser Hell | 384183 | [384183-laser-hell.json](./384183-laser-hell.json) |
 | Laser Kitty Pow Pow | 123347 | [123347-laser-kitty-pow-pow.json](./123347-laser-kitty-pow-pow.json) |
@@ -1893,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaderboard Executive Edition | 47185 | [47185-leaderboard-executive-edition.json](./47185-leaderboard-executive-edition.json) |
 | Leaderboard Tournament | 22526 | [22526-leaderboard-tournament.json](./22526-leaderboard-tournament.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
+| Leadfoot: Stadium Off-Road Racing | 71839 | [71839-leadfoot-stadium-off-road-racing.json](./71839-leadfoot-stadium-off-road-racing.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
 | Leading Jockey | 38108 | [38108-leading-jockey.json](./38108-leading-jockey.json) |
 | Leading Jockey 2 | 38107 | [38107-leading-jockey-2.json](./38107-leading-jockey-2.json) |
@@ -2471,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Otherworld | 288430 | [288430-legend-of-the-otherworld.json](./288430-legend-of-the-otherworld.json) |
 | Legend Of The Platforms | 370625 | [370625-legend-of-the-platforms.json](./370625-legend-of-the-platforms.json) |
 | Legend of the Red Dragon | 73573 | [73573-legend-of-the-red-dragon.json](./73573-legend-of-the-red-dragon.json) |
+| Legend of the Red Dragon II: New World | 71843 | [71843-legend-of-the-red-dragon-ii-new-world.json](./71843-legend-of-the-red-dragon-ii-new-world.json) |
 | Legend of the River King GB | 20514 | [20514-legend-of-the-river-king-gb.json](./20514-legend-of-the-river-king-gb.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
 | Legend of the Silver Fox | 182734 | [182734-legend-of-the-silver-fox.json](./182734-legend-of-the-silver-fox.json) |
@@ -7442,6 +7445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Roots | 298235 | [298235-lost-in-the-roots.json](./298235-lost-in-the-roots.json) |
 | Lost in the Sand | 215641 | [215641-lost-in-the-sand.json](./215641-lost-in-the-sand.json) |
 | Lost In The Shadows | 250816 | [250816-lost-in-the-shadows.json](./250816-lost-in-the-shadows.json) |
+| Lost in the Static | 71848 | [71848-lost-in-the-static.json](./71848-lost-in-the-static.json) |
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
 | Lost in the Storm | 190022 | [190022-lost-in-the-storm.json](./190022-lost-in-the-storm.json) |
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
@@ -8148,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovebrush Chronicles | 225508 | [225508-lovebrush-chronicles.json](./225508-lovebrush-chronicles.json) |
 | LoveBug Quest | 331652 | [331652-lovebug-quest.json](./331652-lovebug-quest.json) |
 | Lovebugz: An Anthro Insect Dating Sim | 298385 | [298385-lovebugz-an-anthro-insect-dating-sim.json](./298385-lovebugz-an-anthro-insect-dating-sim.json) |
+| LoveChess: The Greek Era | 71868 | [71868-lovechess-the-greek-era.json](./71868-lovechess-the-greek-era.json) |
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
 | Lovecraft Game | 199196 | [199196-lovecraft-game.json](./199196-lovecraft-game.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
