@@ -2136,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Magic Wars | 406228 | [406228-elemental-magic-wars.json](./406228-elemental-magic-wars.json) |
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
+| Elemental Masters | 80283 | [80283-elemental-masters.json](./80283-elemental-masters.json) |
 | Elemental Monster | 43026 | [43026-elemental-monster.json](./43026-elemental-monster.json) |
 | Elemental Monster: Online Card Game | 94071 | [94071-elemental-monster-online-card-game.json](./94071-elemental-monster-online-card-game.json) |
 | Elemental Ninja | 61119 | [61119-elemental-ninja.json](./61119-elemental-ninja.json) |
@@ -5808,6 +5809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Fishing: Urban Edition | 52979 | [52979-euro-fishing-urban-edition.json](./52979-euro-fishing-urban-edition.json) |
 | Euro Fishing: Waldsee | 170764 | [170764-euro-fishing-waldsee.json](./170764-euro-fishing-waldsee.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
+| Euro Soccer | 80279 | [80279-euro-soccer.json](./80279-euro-soccer.json) |
 | Euro Train Simulator | 202231 | [202231-euro-train-simulator.json](./202231-euro-train-simulator.json) |
 | Euro Train Simulator 2 | 202232 | [202232-euro-train-simulator-2.json](./202232-euro-train-simulator-2.json) |
 | Euro Truck Driver 2018 | 104408 | [104408-euro-truck-driver-2018.json](./104408-euro-truck-driver-2018.json) |
@@ -7177,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expansion | 285310 | [285310-expansion.json](./285310-expansion.json) |
 | Expansion Core | 201510 | [201510-expansion-core.json](./201510-expansion-core.json) |
+| Expansion Pack for Microsoft Flight Simulator for Windows 95 | 80291 | [80291-expansion-pack-for-microsoft-flight-simulator-for-windows-95.json](./80291-expansion-pack-for-microsoft-flight-simulator-for-windows-95.json) |
 | Expect No Mercy | 47103 | [47103-expect-no-mercy.json](./47103-expect-no-mercy.json) |
 | Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
 | Expedição Antártica | 395802 | [395802-expedicao-antartica.json](./395802-expedicao-antartica.json) |
