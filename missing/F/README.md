@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasya | 232937 | [232937-fantasya.json](./232937-fantasya.json) |
 | FantasyGolf | 26387 | [26387-fantasygolf.json](./26387-fantasygolf.json) |
 | FantasyKingdom | 306429 | [306429-fantasykingdom.json](./306429-fantasykingdom.json) |
+| Fantasyland | 97083 | [97083-fantasyland.json](./97083-fantasyland.json) |
 | Fantasyland 2041 A.D. | 282635 | [282635-fantasyland-2041-a-d.json](./282635-fantasyland-2041-a-d.json) |
 | Fantasyland: All Heroes | 170313 | [170313-fantasyland-all-heroes.json](./170313-fantasyland-all-heroes.json) |
 | Fantasynth | 54726 | [54726-fantasynth.json](./54726-fantasynth.json) |
@@ -6745,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Zegeta | 56542 | [56542-flappy-zegeta.json](./56542-flappy-zegeta.json) |
 | Flappy: The Angry Bird | 144272 | [144272-flappy-the-angry-bird.json](./144272-flappy-the-angry-bird.json) |
 | FlappyParrot | 369655 | [369655-flappyparrot.json](./369655-flappyparrot.json) |
+| FlappyU | 97074 | [97074-flappyu.json](./97074-flappyu.json) |
 | FlapTap Jo | 245756 | [245756-flaptap-jo.json](./245756-flaptap-jo.json) |
 | Flare Nuinui Quest | 210244 | [210244-flare-nuinui-quest.json](./210244-flare-nuinui-quest.json) |
 | Flare Nuinui Quest | 320719 | [320719-flare-nuinui-quest.json](./320719-flare-nuinui-quest.json) |
