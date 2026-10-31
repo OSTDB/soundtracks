@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradiddler | 175110 | [175110-paradiddler.json](./175110-paradiddler.json) |
 | Paradigm | 180394 | [180394-paradigm.json](./180394-paradigm.json) |
 | Paradigm | 27762 | [27762-paradigm.json](./27762-paradigm.json) |
+| Paradigm Blast | 113279 | [113279-paradigm-blast.json](./113279-paradigm-blast.json) |
 | Paradigm City | 121382 | [121382-paradigm-city.json](./121382-paradigm-city.json) |
 | Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
@@ -15363,6 +15364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsyPro | 391130 | [391130-psypro.json](./391130-psypro.json) |
 | PsyQik | 253882 | [253882-psyqik.json](./253882-psyqik.json) |
 | Psyscrolr | 85351 | [85351-psyscrolr.json](./85351-psyscrolr.json) |
+| PsyShift | 113284 | [113284-psyshift.json](./113284-psyshift.json) |
 | Psytraxx | 57356 | [57356-psytraxx.json](./57356-psytraxx.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | PsyUp | 392255 | [392255-psyup.json](./392255-psyup.json) |
@@ -16517,6 +16519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Game | 97201 | [97201-puzzle-game.json](./97201-puzzle-game.json) |
 | Puzzle Game Blast | 90741 | [90741-puzzle-game-blast.json](./90741-puzzle-game-blast.json) |
 | Puzzle Game Bundle | 198073 | [198073-puzzle-game-bundle.json](./198073-puzzle-game-bundle.json) |
+| Puzzle game for kids | 113313 | [113313-puzzle-game-for-kids.json](./113313-puzzle-game-for-kids.json) |
 | Puzzle Games | 98818 | [98818-puzzle-games.json](./98818-puzzle-games.json) |
 | Puzzle Games Bundle | 226316 | [226316-puzzle-games-bundle.json](./226316-puzzle-games-bundle.json) |
 | Puzzle Games Bundle: 5 in 1 - vol.2 | 266337 | [266337-puzzle-games-bundle-5-in-1-vol-2.json](./266337-puzzle-games-bundle-5-in-1-vol-2.json) |
