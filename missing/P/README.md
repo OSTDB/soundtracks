@@ -8166,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place Kick Master Football Championship | 247003 | [247003-place-kick-master-football-championship.json](./247003-place-kick-master-football-championship.json) |
 | Place Place | 185300 | [185300-place-place.json](./185300-place-place.json) |
 | Place: Weapon Workshop | 411079 | [411079-place-weapon-workshop.json](./411079-place-weapon-workshop.json) |
+| Placebo Effect | 95115 | [95115-placebo-effect.json](./95115-placebo-effect.json) |
 | Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
 | Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
 | Placeground | 292499 | [292499-placeground.json](./292499-placeground.json) |
@@ -8947,6 +8948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Both Sides | 122594 | [122594-playing-both-sides.json](./122594-playing-both-sides.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
+| Playing for a Better World | 95071 | [95071-playing-for-a-better-world.json](./95071-playing-for-a-better-world.json) |
 | Playing Games | 216576 | [216576-playing-games.json](./216576-playing-games.json) |
 | Playing God | 150344 | [150344-playing-god.json](./150344-playing-god.json) |
 | Playing God VR | 179923 | [179923-playing-god-vr.json](./179923-playing-god-vr.json) |
@@ -15761,6 +15763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Smasher VR | 123911 | [123911-pumpkin-smasher-vr.json](./123911-pumpkin-smasher-vr.json) |
 | Pumpkin Spice Paradise | 221063 | [221063-pumpkin-spice-paradise.json](./221063-pumpkin-spice-paradise.json) |
 | Pumpkin Spice Paradise 2 | 221064 | [221064-pumpkin-spice-paradise-2.json](./221064-pumpkin-spice-paradise-2.json) |
+| Pumpkin Stacker | 95134 | [95134-pumpkin-stacker.json](./95134-pumpkin-stacker.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
 | Pumpkin Surprise | 246528 | [246528-pumpkin-surprise.json](./246528-pumpkin-surprise.json) |
 | Pumpkin's Revenge | 341435 | [341435-pumpkins-revenge.json](./341435-pumpkins-revenge.json) |
