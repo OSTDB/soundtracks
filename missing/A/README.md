@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
 | Acuaria Pet Desktop | 377113 | [377113-acuaria-pet-desktop.json](./377113-acuaria-pet-desktop.json) |
+| Acucalypse | 75537 | [75537-acucalypse.json](./75537-acucalypse.json) |
 | Aculeata | 280675 | [280675-aculeata.json](./280675-aculeata.json) |
 | Acute Art VR Museum | 87945 | [87945-acute-art-vr-museum.json](./87945-acute-art-vr-museum.json) |
 | ACUVAC: A Suck And Blow Adventure | 318561 | [318561-acuvac-a-suck-and-blow-adventure.json](./318561-acuvac-a-suck-and-blow-adventure.json) |
@@ -13863,6 +13864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage: The Forty Thieves | 314612 | [314612-assassins-creed-mirage-the-forty-thieves.json](./314612-assassins-creed-mirage-the-forty-thieves.json) |
 | Assassin's Creed Mythology Pack | 218994 | [218994-assassins-creed-mythology-pack.json](./218994-assassins-creed-mythology-pack.json) |
 | Assassin's Creed Odyssey: Legacy of the First Blade | 112732 | [112732-assassins-creed-odyssey-legacy-of-the-first-blade.json](./112732-assassins-creed-odyssey-legacy-of-the-first-blade.json) |
+| Assassin's Creed Odyssey: Limited Edition | 75547 | [75547-assassins-creed-odyssey-limited-edition.json](./75547-assassins-creed-odyssey-limited-edition.json) |
 | Assassin's Creed Odyssey: Omega Edition | 229492 | [229492-assassins-creed-odyssey-omega-edition.json](./229492-assassins-creed-odyssey-omega-edition.json) |
 | Assassin's Creed Odyssey: The Blind King | 241432 | [241432-assassins-creed-odyssey-the-blind-king.json](./241432-assassins-creed-odyssey-the-blind-king.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis | 113098 | [113098-assassins-creed-odyssey-the-fate-of-atlantis.json](./113098-assassins-creed-odyssey-the-fate-of-atlantis.json) |
