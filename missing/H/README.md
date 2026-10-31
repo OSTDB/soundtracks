@@ -11267,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Team Recon | 138209 | [138209-hyper-team-recon.json](./138209-hyper-team-recon.json) |
 | Hyper Thruster | 409534 | [409534-hyper-thruster.json](./409534-hyper-thruster.json) |
 | Hyper Thunder Run 198X | 395575 | [395575-hyper-thunder-run-198x.json](./395575-hyper-thunder-run-198x.json) |
+| Hyper Time Disruptor | 120525 | [120525-hyper-time-disruptor.json](./120525-hyper-time-disruptor.json) |
 | Hyper Torque Racing | 259545 | [259545-hyper-torque-racing.json](./259545-hyper-torque-racing.json) |
 | Hyper Train Corporation | 102194 | [102194-hyper-train-corporation.json](./102194-hyper-train-corporation.json) |
 | Hyper Treasure: Macaronic Labyrinth | 174106 | [174106-hyper-treasure-macaronic-labyrinth.json](./174106-hyper-treasure-macaronic-labyrinth.json) |
