@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
 | 1001 BC: A Mediterranean Odyssey | 12353 | [12353-1001-bc-a-mediterranean-odyssey.json](./12353-1001-bc-a-mediterranean-odyssey.json) |
 | 1001 Black Raven Jigsaw | 199356 | [199356-1001-black-raven-jigsaw.json](./199356-1001-black-raven-jigsaw.json) |
+| 1001 BlockBusters | 84613 | [84613-1001-blockbusters.json](./84613-1001-blockbusters.json) |
 | 1001 Crosswords | 268070 | [268070-1001-crosswords.json](./268070-1001-crosswords.json) |
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
 | 1001 Hugs | 126261 | [126261-1001-hugs.json](./126261-1001-hugs.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cute Playland Dogs: Find & Paint | 320328 | [320328-101-cute-playland-dogs-find-and-paint.json](./320328-101-cute-playland-dogs-find-and-paint.json) |
 | 101 Dalmatians | 200492 | [200492-101-dalmatians.json](./200492-101-dalmatians.json) |
 | 101 Dalmatians: Escape from DeVil Manor | 47015 | [47015-101-dalmatians-escape-from-devil-manor.json](./47015-101-dalmatians-escape-from-devil-manor.json) |
+| 101 DinoPets 3D | 84614 | [84614-101-dinopets-3d.json](./84614-101-dinopets-3d.json) |
 | 101 Dogs Hidden in Amsterdam | 369993 | [369993-101-dogs-hidden-in-amsterdam.json](./369993-101-dogs-hidden-in-amsterdam.json) |
 | 101 Dogs Hidden in Australia | 382346 | [382346-101-dogs-hidden-in-australia.json](./382346-101-dogs-hidden-in-australia.json) |
 | 101 Dogs Hidden in Bangkok | 407530 | [407530-101-dogs-hidden-in-bangkok.json](./407530-101-dogs-hidden-in-bangkok.json) |
@@ -861,7 +863,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Vienna | 407535 | [407535-101-dogs-hidden-in-vienna.json](./407535-101-dogs-hidden-in-vienna.json) |
 | 101 Kid's Brainy Games | 180204 | [180204-101-kids-brainy-games.json](./180204-101-kids-brainy-games.json) |
 | 101 Kitty Pets | 100264 | [100264-101-kitty-pets.json](./100264-101-kitty-pets.json) |
+| 101 Minigolf World | 84621 | [84621-101-minigolf-world.json](./84621-101-minigolf-world.json) |
 | 101 Okey Plus | 368033 | [368033-101-okey-plus.json](./368033-101-okey-plus.json) |
+| 101 Penguin Pets 3D | 84620 | [84620-101-penguin-pets-3d.json](./84620-101-penguin-pets-3d.json) |
 | 101 Pony Pets | 91863 | [91863-101-pony-pets.json](./91863-101-pony-pets.json) |
 | 101 Pony Pets 3D | 84671 | [84671-101-pony-pets-3d.json](./84671-101-pony-pets-3d.json) |
 | 101 Puppy Pets | 91862 | [91862-101-puppy-pets.json](./91862-101-puppy-pets.json) |
@@ -1290,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1sland | 142339 | [142339-1sland.json](./142339-1sland.json) |
 | 1st CD-Edition | 112186 | [112186-1st-cd-edition.json](./112186-1st-cd-edition.json) |
+| 1st Class Poker & BlackJack | 84588 | [84588-1st-class-poker-and-blackjack.json](./84588-1st-class-poker-and-blackjack.json) |
 | 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
 | 1st Division Manager | 11871 | [11871-1st-division-manager.json](./11871-1st-division-manager.json) |
 | 1st Grade | 91743 | [91743-1st-grade.json](./91743-1st-grade.json) |
@@ -1762,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2nd Obakeidoro! Fest Bundle | 328985 | [328985-2nd-obakeidoro-fest-bundle.json](./328985-2nd-obakeidoro-fest-bundle.json) |
 | 2nd Shot | 358084 | [358084-2nd-shot.json](./358084-2nd-shot.json) |
 | 2Pupp | 203862 | [203862-2pupp.json](./203862-2pupp.json) |
+| 2Puzzle It: Fantasy | 84585 | [84585-2puzzle-it-fantasy.json](./84585-2puzzle-it-fantasy.json) |
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
 | 2Tax Gold | 268629 | [268629-2tax-gold.json](./268629-2tax-gold.json) |
 | 2Unreal5Underground | 327789 | [327789-2unreal5underground.json](./327789-2unreal5underground.json) |
@@ -1807,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Foot Ninja | 241472 | [241472-3-foot-ninja.json](./241472-3-foot-ninja.json) |
 | 3 Games in 1: Tak and the Power of Juju / SpongeBob SquarePants: SuperSponge / Rugrats: I Gotta Go Party | 82098 | [82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json](./82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json) |
 | 3 Hell | 348916 | [348916-3-hell.json](./348916-3-hell.json) |
+| 3 Heroes: Crystal Soul | 84586 | [84586-3-heroes-crystal-soul.json](./84586-3-heroes-crystal-soul.json) |
 | 3 Heures D'Agonie | 257264 | [257264-3-heures-dagonie.json](./257264-3-heures-dagonie.json) |
 | 3 Hit Blunders Bundle | 254418 | [254418-3-hit-blunders-bundle.json](./254418-3-hit-blunders-bundle.json) |
 | 3 in 1 College & Pro Football | 418709 | [418709-3-in-1-college-and-pro-football.json](./418709-3-in-1-college-and-pro-football.json) |
@@ -1885,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
 | 3-Demon | 14470 | [14470-3-demon.json](./14470-3-demon.json) |
 | 3-in-1 Animated Jigsaws Bundle | 399632 | [399632-3-in-1-animated-jigsaws-bundle.json](./399632-3-in-1-animated-jigsaws-bundle.json) |
+| 3-in-1 Bundle Brain Trainings | 84581 | [84581-3-in-1-bundle-brain-trainings.json](./84581-3-in-1-bundle-brain-trainings.json) |
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
 | 3-in-1 Easter Collection | 339066 | [339066-3-in-1-easter-collection.json](./339066-3-in-1-easter-collection.json) |
 | 3-in-1 fun bundle | 223575 | [223575-3-in-1-fun-bundle.json](./223575-3-in-1-fun-bundle.json) |
@@ -1898,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-pun Tenkatouitsu: Nishi Nippon Sengoku Quiz-hen | 261061 | [261061-3-pun-tenkatouitsu-nishi-nippon-sengoku-quiz-hen.json](./261061-3-pun-tenkatouitsu-nishi-nippon-sengoku-quiz-hen.json) |
 | 3-Pun Yosou Umaban Club | 91814 | [91814-3-pun-yosou-umaban-club.json](./91814-3-pun-yosou-umaban-club.json) |
 | 3, 2, 1, Survive! | 102387 | [102387-3-2-1-survive.json](./102387-3-2-1-survive.json) |
+| 3, 2, 1... WordsUp! | 84583 | [84583-3-2-1-wordsup.json](./84583-3-2-1-wordsup.json) |
 | 3, 2, 1...SuperCrash! | 42786 | [42786-3-2-1-supercrash.json](./42786-3-2-1-supercrash.json) |
 | 3,2,1...SuperCrash! + Dr. MiniGames | 409393 | [409393-3-2-1-supercrash-dr-minigames.json](./409393-3-2-1-supercrash-dr-minigames.json) |
 | 3:00 AM at The Krusty Krab | 177975 | [177975-3-00-am-at-the-krusty-krab.json](./177975-3-00-am-at-the-krusty-krab.json) |
@@ -1983,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 346471 | 362746 | [362746-346471.json](./362746-346471.json) |
 | 35 Card Solitaire | 300519 | [300519-35-card-solitaire.json](./300519-35-card-solitaire.json) |
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
+| 35 Junior Games | 84582 | [84582-35-junior-games.json](./84582-35-junior-games.json) |
 | 3571 The Game | 76396 | [76396-3571-the-game.json](./76396-3571-the-game.json) |
 | 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
