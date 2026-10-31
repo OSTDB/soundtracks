@@ -2573,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
 | CarneyVale Showtime | 92349 | [92349-carneyvale-showtime.json](./92349-carneyvale-showtime.json) |
+| Carniball | 64832 | [64832-carniball.json](./64832-carniball.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
 | Carnival | 277195 | [277195-carnival.json](./277195-carnival.json) |
 | Carnival | 277196 | [277196-carnival.json](./277196-carnival.json) |
@@ -10159,6 +10160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Geass: Lelouch of the Rebellion - Lost Stories | 175048 | [175048-code-geass-lelouch-of-the-rebellion-lost-stories.json](./175048-code-geass-lelouch-of-the-rebellion-lost-stories.json) |
 | Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou | 80162 | [80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json](./80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json) |
 | Code Has Price | 274309 | [274309-code-has-price.json](./274309-code-has-price.json) |
+| Code Hero | 64698 | [64698-code-hero.json](./64698-code-hero.json) |
 | Code Lyoko RDT | 346460 | [346460-code-lyoko-rdt.json](./346460-code-lyoko-rdt.json) |
 | Code Lyoko: Carthage Explorer | 128207 | [128207-code-lyoko-carthage-explorer.json](./128207-code-lyoko-carthage-explorer.json) |
 | Code Lyoko: Fall of X.A.N.A. | 8454 | [8454-code-lyoko-fall-of-x-a-n-a.json](./8454-code-lyoko-fall-of-x-a-n-a.json) |
@@ -10963,6 +10965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
 | Color Security | 151453 | [151453-color-security.json](./151453-color-security.json) |
+| Color Sense | 64621 | [64621-color-sense.json](./64621-color-sense.json) |
 | Color Sense Challenge | 268593 | [268593-color-sense-challenge.json](./268593-color-sense-challenge.json) |
 | Color Shape | 109528 | [109528-color-shape.json](./109528-color-shape.json) |
 | Color Shapes Match | 186432 | [186432-color-shapes-match.json](./186432-color-shapes-match.json) |
@@ -15342,6 +15345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
 | Crazy Street Traffic Race | 105520 | [105520-crazy-street-traffic-race.json](./105520-crazy-street-traffic-race.json) |
 | Crazy Streets - Thrill Drive 4 | 65912 | [65912-crazy-streets-thrill-drive-4.json](./65912-crazy-streets-thrill-drive-4.json) |
+| Crazy Strike Bowling | 64700 | [64700-crazy-strike-bowling.json](./64700-crazy-strike-bowling.json) |
 | Crazy Strike Bowling EX | 52164 | [52164-crazy-strike-bowling-ex.json](./52164-crazy-strike-bowling-ex.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Sudoku | 85056 | [85056-crazy-sudoku.json](./85056-crazy-sudoku.json) |
@@ -17922,6 +17926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Dungeon | 126580 | [126580-curse-of-the-dungeon.json](./126580-curse-of-the-dungeon.json) |
 | Curse of the Ethereal Dragon | 384301 | [384301-curse-of-the-ethereal-dragon.json](./384301-curse-of-the-ethereal-dragon.json) |
 | Curse of the Forsaken | 373610 | [373610-curse-of-the-forsaken.json](./373610-curse-of-the-forsaken.json) |
+| Curse of the Ghost Ship | 64624 | [64624-curse-of-the-ghost-ship.json](./64624-curse-of-the-ghost-ship.json) |
 | Curse of the Golden Skull Key | 271569 | [271569-curse-of-the-golden-skull-key.json](./271569-curse-of-the-golden-skull-key.json) |
 | Curse of the Great Forest | 40704 | [40704-curse-of-the-great-forest.json](./40704-curse-of-the-great-forest.json) |
 | Curse of the Juniper Tree | 301409 | [301409-curse-of-the-juniper-tree.json](./301409-curse-of-the-juniper-tree.json) |
