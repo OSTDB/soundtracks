@@ -6208,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardia | 218344 | [218344-wizardia.json](./218344-wizardia.json) |
 | Wizardians: In Defence of Magic | 126896 | [126896-wizardians-in-defence-of-magic.json](./126896-wizardians-in-defence-of-magic.json) |
 | WizardLand | 95528 | [95528-wizardland.json](./95528-wizardland.json) |
+| Wizardology | 67747 | [67747-wizardology.json](./67747-wizardology.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
 | Wizardry Dimguil | 139301 | [139301-wizardry-dimguil.json](./139301-wizardry-dimguil.json) |
