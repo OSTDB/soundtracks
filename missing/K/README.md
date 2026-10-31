@@ -2584,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3399,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman: Muscle Shot | 60595 | [60595-kinnikuman-muscle-shot.json](./60595-kinnikuman-muscle-shot.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
+| Kinnikuman: The Dream Match | 65728 | [65728-kinnikuman-the-dream-match.json](./65728-kinnikuman-the-dream-match.json) |
 | KinnikuNeko: Super Muscle Cat | 226869 | [226869-kinnikuneko-super-muscle-cat.json](./226869-kinnikuneko-super-muscle-cat.json) |
 | Kinny and the Cosmic Cauldron | 392078 | [392078-kinny-and-the-cosmic-cauldron.json](./392078-kinny-and-the-cosmic-cauldron.json) |
 | Kinny and the Lost Starlight | 295092 | [295092-kinny-and-the-lost-starlight.json](./295092-kinny-and-the-lost-starlight.json) |
