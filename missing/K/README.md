@@ -2559,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5834,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku Harikiri Stadium: Heisei Gannen-ban | 48635 | [48635-kyuukyoku-harikiri-stadium-heisei-gannen-ban.json](./48635-kyuukyoku-harikiri-stadium-heisei-gannen-ban.json) |
 | Kyuukyoku Mahjong | 37681 | [37681-kyuukyoku-mahjong.json](./37681-kyuukyoku-mahjong.json) |
 | Kyuukyoku Mahjong II | 37680 | [37680-kyuukyoku-mahjong-ii.json](./37680-kyuukyoku-mahjong-ii.json) |
+| Kyuukyoku no Sokoban | 98183 | [98183-kyuukyoku-no-sokoban.json](./98183-kyuukyoku-no-sokoban.json) |
 | Kyuukyoku Sentai Dadandarn | 40219 | [40219-kyuukyoku-sentai-dadandarn.json](./40219-kyuukyoku-sentai-dadandarn.json) |
 | Kyuukyoku Tiger | 170780 | [170780-kyuukyoku-tiger.json](./170780-kyuukyoku-tiger.json) |
 | Kyuukyoku Tiger Heli: Toaplan Arcade Garage | 158967 | [158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json](./158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json) |
