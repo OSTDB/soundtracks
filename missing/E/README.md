@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisenbahn X: Berliner S-Bahn | 172350 | [172350-eisenbahn-x-berliner-s-bahn.json](./172350-eisenbahn-x-berliner-s-bahn.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
+| Eishockey Manager | 94488 | [94488-eishockey-manager.json](./94488-eishockey-manager.json) |
 | EIsland Hop | 254073 | [254073-eisland-hop.json](./254073-eisland-hop.json) |
 | Eithéa | 128195 | [128195-eithea.json](./128195-eithea.json) |
 | Either | 174528 | [174528-either.json](./174528-either.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Uno | 233989 | [233989-electronic-uno.json](./233989-electronic-uno.json) |
 | Electronic Volleyball | 41573 | [41573-electronic-volleyball.json](./41573-electronic-volleyball.json) |
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
+| Electronica | 94497 | [94497-electronica.json](./94497-electronica.json) |
 | Electronics Circuits Simulator | 41919 | [41919-electronics-circuits-simulator.json](./41919-electronics-circuits-simulator.json) |
 | Electronics Puzzle Lab | 264799 | [264799-electronics-puzzle-lab.json](./264799-electronics-puzzle-lab.json) |
 | Electronics Puzzle Lab 1 & 2 Collection | 378830 | [378830-electronics-puzzle-lab-1-and-2-collection.json](./378830-electronics-puzzle-lab-1-and-2-collection.json) |
