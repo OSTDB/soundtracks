@@ -9078,6 +9078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
 | Meteoric Shower | 47176 | [47176-meteoric-shower.json](./47176-meteoric-shower.json) |
 | Meteoric VR | 207725 | [207725-meteoric-vr.json](./207725-meteoric-vr.json) |
+| Meteorite Defense Command | 101235 | [101235-meteorite-defense-command.json](./101235-meteorite-defense-command.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
 | Meteorite Miner | 250548 | [250548-meteorite-miner.json](./250548-meteorite-miner.json) |
 | Meteorite V Base | 191625 | [191625-meteorite-v-base.json](./191625-meteorite-v-base.json) |
@@ -20079,6 +20080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
 | Myths of the World: The Heart of Desolation | 104506 | [104506-myths-of-the-world-the-heart-of-desolation.json](./104506-myths-of-the-world-the-heart-of-desolation.json) |
 | Myths of the World: The Heart of Desolation - Collector's Edition | 126220 | [126220-myths-of-the-world-the-heart-of-desolation-collectors-edition.json](./126220-myths-of-the-world-the-heart-of-desolation-collectors-edition.json) |
+| Myths of the World: The Veil | 101234 | [101234-myths-of-the-world-the-veil.json](./101234-myths-of-the-world-the-veil.json) |
 | Myths of the World: The Whispering Marsh | 100052 | [100052-myths-of-the-world-the-whispering-marsh.json](./100052-myths-of-the-world-the-whispering-marsh.json) |
 | Myths of the World: Under the Surface - Collector's Edition | 345418 | [345418-myths-of-the-world-under-the-surface-collectors-edition.json](./345418-myths-of-the-world-under-the-surface-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
