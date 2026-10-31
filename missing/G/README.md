@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gector | 96220 | [96220-gector.json](./96220-gector.json) |
 | Gedaria: Fairytale Forest | 207781 | [207781-gedaria-fairytale-forest.json](./207781-gedaria-fairytale-forest.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
+| Gedonia | 121179 | [121179-gedonia.json](./121179-gedonia.json) |
 | Gee Bee | 2752 | [2752-gee-bee.json](./2752-gee-bee.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Geek Fighter | 90816 | [90816-geek-fighter.json](./90816-geek-fighter.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
 | Gem Break | 84637 | [84637-gem-break.json](./84637-gem-break.json) |
 | Gem Collapse | 233724 | [233724-gem-collapse.json](./233724-gem-collapse.json) |
+| Gem Collector | 121249 | [121249-gem-collector.json](./121249-gem-collector.json) |
 | Gem Crash | 112816 | [112816-gem-crash.json](./112816-gem-crash.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
 | Gem Defender: Soyjak Survivors | 271040 | [271040-gem-defender-soyjak-survivors.json](./271040-gem-defender-soyjak-survivors.json) |
@@ -3765,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giantfall | 381676 | [381676-giantfall.json](./381676-giantfall.json) |
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
 | Giants | 405057 | [405057-giants.json](./405057-giants.json) |
+| Giants Uprising | 121228 | [121228-giants-uprising.json](./121228-giants-uprising.json) |
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
 | Giants: Citizen Kabuto | 194235 | [194235-giants-citizen-kabuto.json](./194235-giants-citizen-kabuto.json) |
 | Giants: Citizen Kabuto | 34 | [34-giants-citizen-kabuto.json](./34-giants-citizen-kabuto.json) |
@@ -6325,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight Little Sandman | 110227 | [110227-goodnight-little-sandman.json](./110227-goodnight-little-sandman.json) |
 | Goodnight Meowmie | 176128 | [176128-goodnight-meowmie.json](./176128-goodnight-meowmie.json) |
 | Goodnight Rudy | 234589 | [234589-goodnight-rudy.json](./234589-goodnight-rudy.json) |
+| Goodnight Succubus | 121191 | [121191-goodnight-succubus.json](./121191-goodnight-succubus.json) |
 | Goodnight Tea | 249321 | [249321-goodnight-tea.json](./249321-goodnight-tea.json) |
 | Goodnight Universe | 271129 | [271129-goodnight-universe.json](./271129-goodnight-universe.json) |
 | Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
