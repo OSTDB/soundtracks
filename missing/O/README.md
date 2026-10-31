@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojou-sama to Himitsu no Otome | 132100 | [132100-ojou-sama-to-himitsu-no-otome.json](./132100-ojou-sama-to-himitsu-no-otome.json) |
 | Ojou-sama, Chijoku no hate ni Warau. | 108940 | [108940-ojou-sama-chijoku-no-hate-ni-warau.json](./108940-ojou-sama-chijoku-no-hate-ni-warau.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
+| Ojyoku: Hokago no Ryojyokuki | 97634 | [97634-ojyoku-hokago-no-ryojyokuki.json](./97634-ojyoku-hokago-no-ryojyokuki.json) |
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
 | OK K.O.! Let's Play Heroes | 80012 | [80012-ok-k-o-lets-play-heroes.json](./80012-ok-k-o-lets-play-heroes.json) |
 | OK, Dracula | 124507 | [124507-ok-dracula.json](./124507-ok-dracula.json) |
@@ -2648,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigami Korinden Oni | 67612 | [67612-onigami-korinden-oni.json](./67612-onigami-korinden-oni.json) |
 | Onigashima | 385619 | [385619-onigashima.json](./385619-onigashima.json) |
+| Onigashima Pachinko-ten | 97626 | [97626-onigashima-pachinko-ten.json](./97626-onigashima-pachinko-ten.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
 | Onigiri | 18132 | [18132-onigiri.json](./18132-onigiri.json) |
 | Onigiri Heroes | 174699 | [174699-onigiri-heroes.json](./174699-onigiri-heroes.json) |
@@ -4755,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcore: Desktop Adventure | 156612 | [156612-outcore-desktop-adventure.json](./156612-outcore-desktop-adventure.json) |
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
 | Outdoor Adventures With Marisa Kirisame | 192020 | [192020-outdoor-adventures-with-marisa-kirisame.json](./192020-outdoor-adventures-with-marisa-kirisame.json) |
+| Outdoor Cosplay | 97622 | [97622-outdoor-cosplay.json](./97622-outdoor-cosplay.json) |
 | Outdoor Life: Sportman's Challenge | 202697 | [202697-outdoor-life-sportmans-challenge.json](./202697-outdoor-life-sportmans-challenge.json) |
 | Outdoor Life: Sportsman's Challenge | 208774 | [208774-outdoor-life-sportsmans-challenge.json](./208774-outdoor-life-sportsmans-challenge.json) |
 | Outdoor Trivia Challenge | 70355 | [70355-outdoor-trivia-challenge.json](./70355-outdoor-trivia-challenge.json) |
