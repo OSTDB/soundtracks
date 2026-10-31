@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15,000 Sudoku Puzzles | 268914 | [268914-15-000-sudoku-puzzles.json](./268914-15-000-sudoku-puzzles.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 150,000 B.C. | 102404 | [102404-150-000-b-c.json](./102404-150-000-b-c.json) |
+| 1500 DS Spirits Vol. 1: Mahjong | 77021 | [77021-1500-ds-spirits-vol-1-mahjong.json](./77021-1500-ds-spirits-vol-1-mahjong.json) |
 | 1500 DS Spirits Vol. 3: Block Kuzushi | 69129 | [69129-1500-ds-spirits-vol-3-block-kuzushi.json](./69129-1500-ds-spirits-vol-3-block-kuzushi.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 1500 DS Spirits Vol. 5: Hanafuda | 79546 | [79546-1500-ds-spirits-vol-5-hanafuda.json](./79546-1500-ds-spirits-vol-5-hanafuda.json) |
