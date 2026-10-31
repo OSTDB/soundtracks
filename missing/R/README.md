@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
 | Rain in Rio | 94076 | [94076-rain-in-rio.json](./94076-rain-in-rio.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
+| Rain in the Month of January | 112019 | [112019-rain-in-the-month-of-january.json](./112019-rain-in-the-month-of-january.json) |
 | Rain Invasion | 129024 | [129024-rain-invasion.json](./129024-rain-invasion.json) |
 | Rain Island | 131762 | [131762-rain-island.json](./131762-rain-island.json) |
 | Rain Kills | 334559 | [334559-rain-kills.json](./334559-rain-kills.json) |
@@ -10512,6 +10513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Rescue | 133201 | [133201-royal-rescue.json](./133201-royal-rescue.json) |
 | Royal Revolt! | 336181 | [336181-royal-revolt.json](./336181-royal-revolt.json) |
 | Royal Riders | 190943 | [190943-royal-riders.json](./190943-royal-riders.json) |
+| Royal Roads | 111971 | [111971-royal-roads.json](./111971-royal-roads.json) |
 | Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
 | Royal Roads 3 Portal | 212653 | [212653-royal-roads-3-portal.json](./212653-royal-roads-3-portal.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
