@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinera | 422682 | [422682-vinera.json](./422682-vinera.json) |
 | Vinewing | 74434 | [74434-vinewing.json](./74434-vinewing.json) |
 | Vineyard Valley | 247328 | [247328-vineyard-valley.json](./247328-vineyard-valley.json) |
+| Vinhomes Metropolis VR Interior | 105009 | [105009-vinhomes-metropolis-vr-interior.json](./105009-vinhomes-metropolis-vr-interior.json) |
 | Vinios | 118107 | [118107-vinios.json](./118107-vinios.json) |
 | Vinland Tales | 324719 | [324719-vinland-tales.json](./324719-vinland-tales.json) |
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Terrarium++ | 143999 | [143999-void-terrarium.json](./143999-void-terrarium.json) |
 | Void Terrarium++: Deluxe Edition | 146162 | [146162-void-terrarium-deluxe-edition.json](./146162-void-terrarium-deluxe-edition.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
+| Void Troopers | 104995 | [104995-void-troopers.json](./104995-void-troopers.json) |
 | Void Vanguard | 419331 | [419331-void-vanguard.json](./419331-void-vanguard.json) |
 | Void Vanguards | 384045 | [384045-void-vanguards.json](./384045-void-vanguards.json) |
 | Void Vikings | 33573 | [33573-void-vikings.json](./33573-void-vikings.json) |
