@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.A.Z.I.O.N | 75512 | [75512-r-a-z-i-o-n.json](./75512-r-a-z-i-o-n.json) |
 | R.B.I. Baseball | 18022 | [18022-r-b-i-baseball.json](./18022-r-b-i-baseball.json) |
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
+| R.B.I. Baseball '94 | 92260 | [92260-r-b-i-baseball-94.json](./92260-r-b-i-baseball-94.json) |
 | R.B.I. Baseball 15 | 17962 | [17962-r-b-i-baseball-15.json](./17962-r-b-i-baseball-15.json) |
 | R.B.I. Baseball 16 | 23379 | [23379-r-b-i-baseball-16.json](./23379-r-b-i-baseball-16.json) |
 | R.B.I. Baseball 17 | 51539 | [51539-r-b-i-baseball-17.json](./51539-r-b-i-baseball-17.json) |
@@ -895,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raia Nova | 189911 | [189911-raia-nova.json](./189911-raia-nova.json) |
 | Raicing | 262821 | [262821-raicing.json](./262821-raicing.json) |
 | Raid | 170805 | [170805-raid.json](./170805-raid.json) |
+| Raid | 92219 | [92219-raid.json](./92219-raid.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid 2020 | 48211 | [48211-raid-2020.json](./48211-raid-2020.json) |
 | Raid Arena | 313305 | [313305-raid-arena.json](./313305-raid-arena.json) |
@@ -10363,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
+| Round-Up | 92222 | [92222-round-up.json](./92222-round-up.json) |
 | Roundabout | 15852 | [15852-roundabout.json](./15852-roundabout.json) |
 | RoundAbout | 407955 | [407955-roundabout.json](./407955-roundabout.json) |
 | Roundabout 3 | 210567 | [210567-roundabout-3.json](./210567-roundabout-3.json) |
