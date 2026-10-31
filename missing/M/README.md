@@ -4046,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Chronicle | 360132 | [360132-marshmallow-chronicle.json](./360132-marshmallow-chronicle.json) |
 | Marshmallow Duel | 70350 | [70350-marshmallow-duel.json](./70350-marshmallow-duel.json) |
 | Marshmallow Imouto Succubus | 266105 | [266105-marshmallow-imouto-succubus.json](./266105-marshmallow-imouto-succubus.json) |
+| Marshmallow in Fruit Land | 112015 | [112015-marshmallow-in-fruit-land.json](./112015-marshmallow-in-fruit-land.json) |
 | Marshmallow Infinity | 182539 | [182539-marshmallow-infinity.json](./182539-marshmallow-infinity.json) |
 | Marshmallow Madness | 122431 | [122431-marshmallow-madness.json](./122431-marshmallow-madness.json) |
 | Marshmallow Marvin | 331468 | [331468-marshmallow-marvin.json](./331468-marshmallow-marvin.json) |
@@ -13333,6 +13334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoHo | 176877 | [176877-moho.json](./176877-moho.json) |
 | Mohrta | 298795 | [298795-mohrta.json](./298795-mohrta.json) |
 | MoHun Online | 290316 | [290316-mohun-online.json](./290316-mohun-online.json) |
+| Moi Mei | 111966 | [111966-moi-mei.json](./111966-moi-mei.json) |
 | Moi Mei 2 | 159485 | [159485-moi-mei-2.json](./159485-moi-mei-2.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moi Moi Heroes | 275125 | [275125-moi-moi-heroes.json](./275125-moi-moi-heroes.json) |
@@ -16093,6 +16095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Show | 85957 | [85957-motor-show.json](./85957-motor-show.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
 | Motor Strike: Immortal Legends | 26210 | [26210-motor-strike-immortal-legends.json](./26210-motor-strike-immortal-legends.json) |
+| Motor Strike: Racing Rampage | 112010 | [112010-motor-strike-racing-rampage.json](./112010-motor-strike-racing-rampage.json) |
 | Motor Stunt Xtreme | 175596 | [175596-motor-stunt-xtreme.json](./175596-motor-stunt-xtreme.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
 | Motor Toon Grand Prix | 45109 | [45109-motor-toon-grand-prix.json](./45109-motor-toon-grand-prix.json) |
