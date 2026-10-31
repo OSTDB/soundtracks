@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing: Angler's Dream | 5121 | [5121-reel-fishing-anglers-dream.json](./5121-reel-fishing-anglers-dream.json) |
 | Reel Fishing: Days of Summer | 322079 | [322079-reel-fishing-days-of-summer.json](./322079-reel-fishing-days-of-summer.json) |
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
+| Reel Fishing: Road Trip Adventure | 116686 | [116686-reel-fishing-road-trip-adventure.json](./116686-reel-fishing-road-trip-adventure.json) |
 | Reel Fishing: The Great Outdoors | 74717 | [74717-reel-fishing-the-great-outdoors.json](./74717-reel-fishing-the-great-outdoors.json) |
 | Reel Fishing: Wild | 45836 | [45836-reel-fishing-wild.json](./45836-reel-fishing-wild.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
