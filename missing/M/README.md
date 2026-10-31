@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.E. | 30542 | [30542-m-a-c-e.json](./30542-m-a-c-e.json) |
+| M.A.C.E. Space Shooter | 106238 | [106238-m-a-c-e-space-shooter.json](./106238-m-a-c-e-space-shooter.json) |
 | M.A.C.E. TD | 87607 | [87607-m-a-c-e-td.json](./87607-m-a-c-e-td.json) |
 | M.A.C.E. Tower Defense | 43088 | [43088-m-a-c-e-tower-defense.json](./43088-m-a-c-e-tower-defense.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pen Tracing Book | 400061 | [400061-magic-pen-tracing-book.json](./400061-magic-pen-tracing-book.json) |
 | Magic Pengel: The Quest for Color | 11357 | [11357-magic-pengel-the-quest-for-color.json](./11357-magic-pengel-the-quest-for-color.json) |
 | Magic Petals | 100987 | [100987-magic-petals.json](./100987-magic-petals.json) |
+| Magic Piano Tiles 2018 | 106224 | [106224-magic-piano-tiles-2018.json](./106224-magic-piano-tiles-2018.json) |
 | Magic Piano Tiles 2018 - Music Game | 110594 | [110594-magic-piano-tiles-2018-music-game.json](./110594-magic-piano-tiles-2018-music-game.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pixel Survival | 233419 | [233419-magic-pixel-survival.json](./233419-magic-pixel-survival.json) |
@@ -2294,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
 | Make It Last: While You Can | 175842 | [175842-make-it-last-while-you-can.json](./175842-make-it-last-while-you-can.json) |
 | Make it Meme | 144934 | [144934-make-it-meme.json](./144934-make-it-meme.json) |
+| Make It Rain | 106249 | [106249-make-it-rain.json](./106249-make-it-rain.json) |
 | Make It Rain: The Love of Money | 61718 | [61718-make-it-rain-the-love-of-money.json](./61718-make-it-rain-the-love-of-money.json) |
 | Make It Stop! | 301349 | [301349-make-it-stop.json](./301349-make-it-stop.json) |
 | Make It True | 326679 | [326679-make-it-true.json](./326679-make-it-true.json) |
@@ -5511,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem 2020: Something Something Hindsight | 269133 | [269133-mayhem-2020-something-something-hindsight.json](./269133-mayhem-2020-something-something-hindsight.json) |
 | Mayhem 2022: Memento Moron | 269134 | [269134-mayhem-2022-memento-moron.json](./269134-mayhem-2022-memento-moron.json) |
 | Mayhem 2048 | 269125 | [269125-mayhem-2048.json](./269125-mayhem-2048.json) |
+| Mayhem 3D | 106248 | [106248-mayhem-3d.json](./106248-mayhem-3d.json) |
 | Mayhem À La Carte | 417462 | [417462-mayhem-a-la-carte.json](./417462-mayhem-a-la-carte.json) |
 | Mayhem Above | 55502 | [55502-mayhem-above.json](./55502-mayhem-above.json) |
 | Mayhem Brawler II: Best of Both Worlds | 264802 | [264802-mayhem-brawler-ii-best-of-both-worlds.json](./264802-mayhem-brawler-ii-best-of-both-worlds.json) |
@@ -11079,6 +11083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Angry Birds | 214370 | [214370-minecraft-angry-birds.json](./214370-minecraft-angry-birds.json) |
 | Minecraft: Annoying Difficulty | 298310 | [298310-minecraft-annoying-difficulty.json](./298310-minecraft-annoying-difficulty.json) |
 | Minecraft: Aotearoa New Zealand | 337537 | [337537-minecraft-aotearoa-new-zealand.json](./337537-minecraft-aotearoa-new-zealand.json) |
+| Minecraft: Apple TV Edition | 106242 | [106242-minecraft-apple-tv-edition.json](./106242-minecraft-apple-tv-edition.json) |
 | Minecraft: Armored Paws | 299217 | [299217-minecraft-armored-paws.json](./299217-minecraft-armored-paws.json) |
 | Minecraft: Armored Paws | 299218 | [299218-minecraft-armored-paws.json](./299218-minecraft-armored-paws.json) |
 | Minecraft: Astronaut Training Center | 316751 | [316751-minecraft-astronaut-training-center.json](./316751-minecraft-astronaut-training-center.json) |
@@ -14183,6 +14188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girls You-Ki Chan | 131748 | [131748-monster-girls-you-ki-chan.json](./131748-monster-girls-you-ki-chan.json) |
 | Monster Girls: the Advent | 182733 | [182733-monster-girls-the-advent.json](./182733-monster-girls-the-advent.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
+| Monster GO | 106243 | [106243-monster-go.json](./106243-monster-go.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Grinder Ultra | 280385 | [280385-monster-grinder-ultra.json](./280385-monster-grinder-ultra.json) |
 | Monster Guardians | 49716 | [49716-monster-guardians.json](./49716-monster-guardians.json) |
@@ -17295,6 +17301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchkin Digital | 220682 | [220682-munchkin-digital.json](./220682-munchkin-digital.json) |
 | Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
 | Munchkin Match | 90788 | [90788-munchkin-match.json](./90788-munchkin-match.json) |
+| Munchkin Match: Magic Home Building | 106223 | [106223-munchkin-match-magic-home-building.json](./106223-munchkin-match-magic-home-building.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
 | Munchman II | 42171 | [42171-munchman-ii.json](./42171-munchman-ii.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
