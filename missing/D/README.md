@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
 | Dead Alone | 263067 | [263067-dead-alone.json](./263067-dead-alone.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
+| Dead and Buried II | 123203 | [123203-dead-and-buried-ii.json](./123203-dead-and-buried-ii.json) |
 | Dead Ant | 245149 | [245149-dead-ant.json](./245149-dead-ant.json) |
 | Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
