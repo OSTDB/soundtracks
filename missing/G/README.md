@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giants: Citizen Kabuto | 194235 | [194235-giants-citizen-kabuto.json](./194235-giants-citizen-kabuto.json) |
 | Giants: Citizen Kabuto | 34 | [34-giants-citizen-kabuto.json](./34-giants-citizen-kabuto.json) |
 | Gibba Gibba! | 361055 | [361055-gibba-gibba.json](./361055-gibba-gibba.json) |
+| Gibbage | 91639 | [91639-gibbage.json](./91639-gibbage.json) |
 | Gibberish | 317378 | [317378-gibberish.json](./317378-gibberish.json) |
 | Gibbets 2 | 343809 | [343809-gibbets-2.json](./343809-gibbets-2.json) |
 | Gibbets: Bow Master | 107581 | [107581-gibbets-bow-master.json](./107581-gibbets-bow-master.json) |
@@ -6871,6 +6872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graduation Life Simulator | 326302 | [326302-graduation-life-simulator.json](./326302-graduation-life-simulator.json) |
 | Graeme Souness Soccer Manager | 79084 | [79084-graeme-souness-soccer-manager.json](./79084-graeme-souness-soccer-manager.json) |
 | Graffism | 354384 | [354384-graffism.json](./354384-graffism.json) |
+| Graffiti Ball | 91641 | [91641-graffiti-ball.json](./91641-graffiti-ball.json) |
 | Graffiti Bombing | 126973 | [126973-graffiti-bombing.json](./126973-graffiti-bombing.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
 | Graffiti Eraser | 116246 | [116246-graffiti-eraser.json](./116246-graffiti-eraser.json) |
