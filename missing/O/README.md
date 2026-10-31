@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
 | O Réquiem das Crianças | 385652 | [385652-o-requiem-das-criancas.json](./385652-o-requiem-das-criancas.json) |
+| O Resgate dos Bichos | 90303 | [90303-o-resgate-dos-bichos.json](./90303-o-resgate-dos-bichos.json) |
 | O Salão Encantado | 216274 | [216274-o-salao-encantado.json](./216274-o-salao-encantado.json) |
 | O Sítio do Picapau Amarelo: As Reinações de Narizinho | 286924 | [286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json](./286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json) |
 | O Sombrio: A Voz das Almas | 278832 | [278832-o-sombrio-a-voz-das-almas.json](./278832-o-sombrio-a-voz-das-almas.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Grids | 272255 | [272255-off-grids.json](./272255-off-grids.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
 | Off Road Racing | 367305 | [367305-off-road-racing.json](./367305-off-road-racing.json) |
+| Off Road Rumble | 90344 | [90344-off-road-rumble.json](./90344-off-road-rumble.json) |
 | Off Road Stars | 372693 | [372693-off-road-stars.json](./372693-off-road-stars.json) |
 | Off Road Together | 411660 | [411660-off-road-together.json](./411660-off-road-together.json) |
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
