@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
 | Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
 | Hammurabi | 311346 | [311346-hammurabi.json](./311346-hammurabi.json) |
+| Hammy | 91163 | [91163-hammy.json](./91163-hammy.json) |
 | Hammy Home: Hamster Simulation | 177184 | [177184-hammy-home-hamster-simulation.json](./177184-hammy-home-hamster-simulation.json) |
 | Hamos the Green Chariot | 145601 | [145601-hamos-the-green-chariot.json](./145601-hamos-the-green-chariot.json) |
 | Hampstead | 12953 | [12953-hampstead.json](./12953-hampstead.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
+| Himawari's Garden | 91042 | [91042-himawaris-garden.json](./91042-himawaris-garden.json) |
 | Himbo Harem Homicide | 196976 | [196976-himbo-harem-homicide.json](./196976-himbo-harem-homicide.json) |
 | Hime Cut | 330502 | [330502-hime-cut.json](./330502-hime-cut.json) |
 | Hime Girl Paradise: Mechikawa! Age Sakari Sensation! | 140934 | [140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json](./140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json) |
@@ -10222,6 +10224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Mech Friends and Influence Goblings | 184800 | [184800-how-to-mech-friends-and-influence-goblings.json](./184800-how-to-mech-friends-and-influence-goblings.json) |
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
 | How to Open a Locked Chest | 344282 | [344282-how-to-open-a-locked-chest.json](./344282-how-to-open-a-locked-chest.json) |
+| How to Play Craps - Tips and Strategies | 91050 | [91050-how-to-play-craps-tips-and-strategies.json](./91050-how-to-play-craps-tips-and-strategies.json) |
 | How to Punish a Witch | 163782 | [163782-how-to-punish-a-witch.json](./163782-how-to-punish-a-witch.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Ride Elevators Like a Human | 414761 | [414761-how-to-ride-elevators-like-a-human.json](./414761-how-to-ride-elevators-like-a-human.json) |
