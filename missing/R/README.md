@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbows, Toilets & Unicorns: Influencerama | 171407 | [171407-rainbows-toilets-and-unicorns-influencerama.json](./171407-rainbows-toilets-and-unicorns-influencerama.json) |
 | Rainbows, Toilets & Unicorns: Outraged & Offended | 171569 | [171569-rainbows-toilets-and-unicorns-outraged-and-offended.json](./171569-rainbows-toilets-and-unicorns-outraged-and-offended.json) |
 | Rainbows, Toilets & Unicorns: Political Drama | 171764 | [171764-rainbows-toilets-and-unicorns-political-drama.json](./171764-rainbows-toilets-and-unicorns-political-drama.json) |
+| RainbowTail | 75536 | [75536-rainbowtail.json](./75536-rainbowtail.json) |
 | Rainboy | 178082 | [178082-rainboy.json](./178082-rainboy.json) |
 | Rainchaser | 315623 | [315623-rainchaser.json](./315623-rainchaser.json) |
 | Raincore | 400214 | [400214-raincore.json](./400214-raincore.json) |
