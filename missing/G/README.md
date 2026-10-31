@@ -7478,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
 | Gravelord | 314330 | [314330-gravelord.json](./314330-gravelord.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
+| Gravely | 108699 | [108699-gravely.json](./108699-gravely.json) |
 | Gravely Silent: House of Deadlock | 209775 | [209775-gravely-silent-house-of-deadlock.json](./209775-gravely-silent-house-of-deadlock.json) |
 | Gravemyst | 336711 | [336711-gravemyst.json](./336711-gravemyst.json) |
 | Graven | 138982 | [138982-graven.json](./138982-graven.json) |
