@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain Train 2 | 29262 | [29262-pain-train-2.json](./29262-pain-train-2.json) |
 | Pain Train PainPocalypse | 52776 | [52776-pain-train-painpocalypse.json](./52776-pain-train-painpocalypse.json) |
 | Pain-T | 361288 | [361288-pain-t.json](./361288-pain-t.json) |
+| Pain-to-win | 83972 | [83972-pain-to-win.json](./83972-pain-to-win.json) |
 | Pain: Amusement Park | 21685 | [21685-pain-amusement-park.json](./21685-pain-amusement-park.json) |
 | Pain: Movie Studio | 21612 | [21612-pain-movie-studio.json](./21612-pain-movie-studio.json) |
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
@@ -6030,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
+| Pillars of Eternity II: Deadfire - Deluxe Edition | 83894 | [83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json](./83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json) |
 | Pillars of Eternity II: Deadfire - Obsidian Edition | 83895 | [83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json](./83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json) |
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
@@ -7819,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Tennis | 301077 | [301077-pixel-tennis.json](./301077-pixel-tennis.json) |
 | Pixel Texas Hold'em | 407545 | [407545-pixel-texas-holdem.json](./407545-pixel-texas-holdem.json) |
 | Pixel Theory: Leviatán | 325711 | [325711-pixel-theory-leviatan.json](./325711-pixel-theory-leviatan.json) |
+| Pixel to the West | 83964 | [83964-pixel-to-the-west.json](./83964-pixel-to-the-west.json) |
 | Pixel Top Down Shooter | 176345 | [176345-pixel-top-down-shooter.json](./176345-pixel-top-down-shooter.json) |
 | Pixel Town | 183872 | [183872-pixel-town.json](./183872-pixel-town.json) |
 | Pixel Town: Akanemachi Mystery 2 | 244311 | [244311-pixel-town-akanemachi-mystery-2.json](./244311-pixel-town-akanemachi-mystery-2.json) |
@@ -14712,6 +14715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Snaqe | 189378 | [189378-project-snaqe.json](./189378-project-snaqe.json) |
 | Project SolarBot | 121918 | [121918-project-solarbot.json](./121918-project-solarbot.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
+| Project Sonymon (Working Title) | 83784 | [83784-project-sonymon-working-title.json](./83784-project-sonymon-working-title.json) |
 | Project Soul | 194119 | [194119-project-soul.json](./194119-project-soul.json) |
 | Project Space Hunter | 143252 | [143252-project-space-hunter.json](./143252-project-space-hunter.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
