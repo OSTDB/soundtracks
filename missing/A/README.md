@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
 | Adv770 | 305203 | [305203-adv770.json](./305203-adv770.json) |
+| Adva-lines | 103791 | [103791-adva-lines.json](./103791-adva-lines.json) |
 | Advan Racing | 69754 | [69754-advan-racing.json](./69754-advan-racing.json) |
 | Advance | 185443 | [185443-advance.json](./185443-advance.json) |
 | Advance of the Reich | 59317 | [59317-advance-of-the-reich.json](./59317-advance-of-the-reich.json) |
@@ -11556,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade ZX Collection: Anteater | 304195 | [304195-arcade-zx-collection-anteater.json](./304195-arcade-zx-collection-anteater.json) |
 | Arcade ZX Collection: Botanic | 304194 | [304194-arcade-zx-collection-botanic.json](./304194-arcade-zx-collection-botanic.json) |
 | Arcade ZX Collection: Tetris | 304193 | [304193-arcade-zx-collection-tetris.json](./304193-arcade-zx-collection-tetris.json) |
+| Arcade-opoly | 103740 | [103740-arcade-opoly.json](./103740-arcade-opoly.json) |
 | Arcade! Classic Arcade Pack | 242137 | [242137-arcade-classic-arcade-pack.json](./242137-arcade-classic-arcade-pack.json) |
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
@@ -11742,6 +11744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaxer | 145565 | [145565-arcaxer.json](./145565-arcaxer.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
 | ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
+| ArcBall 3: Infinity | 103776 | [103776-arcball-3-infinity.json](./103776-arcball-3-infinity.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
 | Arcfall | 28686 | [28686-arcfall.json](./28686-arcfall.json) |
 | Arcflame Frontiers | 413099 | [413099-arcflame-frontiers.json](./413099-arcflame-frontiers.json) |
@@ -13509,6 +13512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Paradise | 379042 | [379042-ashes-of-paradise.json](./379042-ashes-of-paradise.json) |
 | Ashes of Resolve | 413503 | [413503-ashes-of-resolve.json](./413503-ashes-of-resolve.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
+| Ashes of the Ark | 103798 | [103798-ashes-of-the-ark.json](./103798-ashes-of-the-ark.json) |
 | Ashes of the Night | 121079 | [121079-ashes-of-the-night.json](./121079-ashes-of-the-night.json) |
 | Ashes of the Past | 271090 | [271090-ashes-of-the-past.json](./271090-ashes-of-the-past.json) |
 | Ashes of the Singularity II | 359885 | [359885-ashes-of-the-singularity-ii.json](./359885-ashes-of-the-singularity-ii.json) |
