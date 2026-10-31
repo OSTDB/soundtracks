@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in the South Pacific | 26397 | [26397-war-in-the-south-pacific.json](./26397-war-in-the-south-pacific.json) |
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War Inc InfantryZone | 125841 | [125841-war-inc-infantryzone.json](./125841-war-inc-infantryzone.json) |
+| War Inc. | 94459 | [94459-war-inc.json](./94459-war-inc.json) |
 | War is Hare | 274523 | [274523-war-is-hare.json](./274523-war-is-hare.json) |
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
@@ -5359,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan: Special Edition | 154223 | [154223-wingspan-special-edition.json](./154223-wingspan-special-edition.json) |
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
+| Wingstar | 94499 | [94499-wingstar.json](./94499-wingstar.json) |
 | Wingsuit Dream | 190389 | [190389-wingsuit-dream.json](./190389-wingsuit-dream.json) |
 | Wingsuit Flying | 108688 | [108688-wingsuit-flying.json](./108688-wingsuit-flying.json) |
 | Wingsuit Hero | 235925 | [235925-wingsuit-hero.json](./235925-wingsuit-hero.json) |
