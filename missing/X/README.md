@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-treme Quads | 66924 | [66924-x-treme-quads.json](./66924-x-treme-quads.json) |
 | X-Type | 301119 | [301119-x-type.json](./301119-x-type.json) |
 | X-War | 312515 | [312515-x-war.json](./312515-x-war.json) |
+| X-war: Clash of Zombies | 101218 | [101218-x-war-clash-of-zombies.json](./101218-x-war-clash-of-zombies.json) |
 | X-Wing Revival | 344281 | [344281-x-wing-revival.json](./344281-x-wing-revival.json) |
 | X-YZE | 370672 | [370672-x-yze.json](./370672-x-yze.json) |
 | X-Zero | 181210 | [181210-x-zero.json](./181210-x-zero.json) |
