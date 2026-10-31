@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkitect Dinos and Dynasties | 372662 | [372662-parkitect-dinos-and-dynasties.json](./372662-parkitect-dinos-and-dynasties.json) |
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
 | Parkitect: Taste of Adventure | 154203 | [154203-parkitect-taste-of-adventure.json](./154203-parkitect-taste-of-adventure.json) |
+| Parkland | 100484 | [100484-parkland.json](./100484-parkland.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
 | Parkour Assassin: Sprint Run | 329205 | [329205-parkour-assassin-sprint-run.json](./329205-parkour-assassin-sprint-run.json) |
@@ -15601,6 +15602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
 | Pull Me Out | 105618 | [105618-pull-me-out.json](./105618-pull-me-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
+| Pull My Tongue | 100500 | [100500-pull-my-tongue.json](./100500-pull-my-tongue.json) |
 | Pull Stay | 126994 | [126994-pull-stay.json](./126994-pull-stay.json) |
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
