@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paralax VR Aim Trainer | 172361 | [172361-paralax-vr-aim-trainer.json](./172361-paralax-vr-aim-trainer.json) |
 | ParaLegends | 357177 | [357177-paralegends.json](./357177-paralegends.json) |
 | ParaLily | 126258 | [126258-paralily.json](./126258-paralily.json) |
+| Paralines: The Last Paladin | 89610 | [89610-paralines-the-last-paladin.json](./89610-paralines-the-last-paladin.json) |
 | Parallax | 211628 | [211628-parallax.json](./211628-parallax.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
@@ -9715,6 +9716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PointWorks | 371555 | [371555-pointworks.json](./371555-pointworks.json) |
 | Pointy Ends | 149520 | [149520-pointy-ends.json](./149520-pointy-ends.json) |
 | Poipoil's Adventure | 82724 | [82724-poipoils-adventure.json](./82724-poipoils-adventure.json) |
+| Poisoft Thud Card | 89551 | [89551-poisoft-thud-card.json](./89551-poisoft-thud-card.json) |
 | Poison Control: Contaminated Edition | 139913 | [139913-poison-control-contaminated-edition.json](./139913-poison-control-contaminated-edition.json) |
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poison Noir: Desire, Time & Gangsters | 172341 | [172341-poison-noir-desire-time-and-gangsters.json](./172341-poison-noir-desire-time-and-gangsters.json) |
@@ -12753,6 +12755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool EduKidsRoom | 87266 | [87266-preschool-edukidsroom.json](./87266-preschool-edukidsroom.json) |
 | Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
 | Preschool EduKitty-Kids Games | 91177 | [91177-preschool-edukitty-kids-games.json](./91177-preschool-edukitty-kids-games.json) |
+| Preschool Game-EduKidsRoom | 89615 | [89615-preschool-game-edukidsroom.json](./89615-preschool-game-edukidsroom.json) |
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
 | Preschool Numbers - Play & Learn | 89700 | [89700-preschool-numbers-play-and-learn.json](./89700-preschool-numbers-play-and-learn.json) |
 | Prescience | 217373 | [217373-prescience.json](./217373-prescience.json) |
@@ -12802,6 +12805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | Presidential Social Media Manager | 359345 | [359345-presidential-social-media-manager.json](./359345-presidential-social-media-manager.json) |
 | Presidential SpaceForce | 95780 | [95780-presidential-spaceforce.json](./95780-presidential-spaceforce.json) |
+| Presidents Quizzer | 89588 | [89588-presidents-quizzer.json](./89588-presidents-quizzer.json) |
 | Presidents Tower Defense | 295158 | [295158-presidents-tower-defense.json](./295158-presidents-tower-defense.json) |
 | Presidents vs. Aliens | 175509 | [175509-presidents-vs-aliens.json](./175509-presidents-vs-aliens.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
