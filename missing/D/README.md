@@ -4027,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Architect | 215070 | [215070-death-architect.json](./215070-death-architect.json) |
 | Death Arena Reality Show | 101878 | [101878-death-arena-reality-show.json](./101878-death-arena-reality-show.json) |
 | Death at Cape Porto: A Dana Knightstone Novel - Collector's Edition | 228254 | [228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json](./228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json) |
+| Death at Fairing Point: A Dana Knightstone Novel | 65722 | [65722-death-at-fairing-point-a-dana-knightstone-novel.json](./65722-death-at-fairing-point-a-dana-knightstone-novel.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
 | Death Becomes You | 153884 | [153884-death-becomes-you.json](./153884-death-becomes-you.json) |
 | Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
