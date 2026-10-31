@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
 | Fèitǔ Xiǎohóngmào | 340970 | [340970-feitu-xiaohongmao.json](./340970-feitu-xiaohongmao.json) |
 | Fèitǔ Xiǎohóngmào | 348836 | [348836-feitu-xiaohongmao.json](./348836-feitu-xiaohongmao.json) |
+| Fēizhōu Tànxiǎn | 64046 | [64046-feizhou-tanxian.json](./64046-feizhou-tanxian.json) |
 | Felampire | 297844 | [297844-felampire.json](./297844-felampire.json) |
 | Felbound | 295826 | [295826-felbound.json](./295826-felbound.json) |
 | Felicat’s Urban Odyssey | 253958 | [253958-felicat-s-urban-odyssey.json](./253958-felicat-s-urban-odyssey.json) |
@@ -9218,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formless Adventure | 44232 | [44232-formless-adventure.json](./44232-formless-adventure.json) |
 | Formless Star | 343872 | [343872-formless-star.json](./343872-formless-star.json) |
+| Formosa Duel | 64048 | [64048-formosa-duel.json](./64048-formosa-duel.json) |
 | Formula 1 | 217961 | [217961-formula-1.json](./217961-formula-1.json) |
 | Formula 1 | 8294 | [8294-formula-1.json](./8294-formula-1.json) |
 | Formula 1 98 | 8296 | [8296-formula-1-98.json](./8296-formula-1-98.json) |
