@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenshi | 30225 | [30225-kenshi.json](./30225-kenshi.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
 | Kenshuui Tendou Dokuta | 92634 | [92634-kenshuui-tendou-dokuta.json](./92634-kenshuui-tendou-dokuta.json) |
+| Kentei TV! Wii: Minna de Gotouchi Quiz Battle | 67845 | [67845-kentei-tv-wii-minna-de-gotouchi-quiz-battle.json](./67845-kentei-tv-wii-minna-de-gotouchi-quiz-battle.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
 | Kentor and also Bloby in: Part 1 - The Krookening | 208825 | [208825-kentor-and-also-bloby-in-part-1-the-krookening.json](./208825-kentor-and-also-bloby-in-part-1-the-krookening.json) |
 | Kentoushi Gladiator Begins | 42871 | [42871-kentoushi-gladiator-begins.json](./42871-kentoushi-gladiator-begins.json) |
@@ -4776,6 +4777,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami GB Collection Vol. 4 | 50043 | [50043-konami-gb-collection-vol-4.json](./50043-konami-gb-collection-vol-4.json) |
 | Konami GT | 138086 | [138086-konami-gt.json](./138086-konami-gt.json) |
 | Konami Hyper Soccer | 48284 | [48284-konami-hyper-soccer.json](./48284-konami-hyper-soccer.json) |
+| Konami Kids Playground: Alphabet Circus | 67755 | [67755-konami-kids-playground-alphabet-circus.json](./67755-konami-kids-playground-alphabet-circus.json) |
+| Konami Kids Playground: Dinosaurs Shapes and Colors | 67756 | [67756-konami-kids-playground-dinosaurs-shapes-and-colors.json](./67756-konami-kids-playground-dinosaurs-shapes-and-colors.json) |
+| Konami Kids Playground: Frogger Hop, Skip & Jumpin' Fun | 67754 | [67754-konami-kids-playground-frogger-hop-skip-and-jumpin-fun.json](./67754-konami-kids-playground-frogger-hop-skip-and-jumpin-fun.json) |
+| Konami Kids Playground: Toy Pals Fun with Numbers | 67753 | [67753-konami-kids-playground-toy-pals-fun-with-numbers.json](./67753-konami-kids-playground-toy-pals-fun-with-numbers.json) |
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
 | Konami's Billiards | 41740 | [41740-konamis-billiards.json](./41740-konamis-billiards.json) |
 | Konami's Mahjong | 41745 | [41745-konamis-mahjong.json](./41745-konamis-mahjong.json) |
@@ -5530,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Fury | 180618 | [180618-kung-fu-fury.json](./180618-kung-fu-fury.json) |
 | Kung Fu High Impact | 20156 | [20156-kung-fu-high-impact.json](./20156-kung-fu-high-impact.json) |
 | Kung Fu House | 51201 | [51201-kung-fu-house.json](./51201-kung-fu-house.json) |
+| Kung Fu Hustle | 67749 | [67749-kung-fu-hustle.json](./67749-kung-fu-hustle.json) |
 | Kung Fu Jesus and the Search for Celestial Gold | 122254 | [122254-kung-fu-jesus-and-the-search-for-celestial-gold.json](./122254-kung-fu-jesus-and-the-search-for-celestial-gold.json) |
 | Kung Fu Jumpu | 200303 | [200303-kung-fu-jumpu.json](./200303-kung-fu-jumpu.json) |
 | Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
@@ -5638,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kupala | 392713 | [392713-kupala.json](./392713-kupala.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
 | Kupimon | 261979 | [261979-kupimon.json](./261979-kupimon.json) |
+| Kupu!! Mamegoma! | 67742 | [67742-kupu-mamegoma.json](./67742-kupu-mamegoma.json) |
 | Kur | 130250 | [130250-kur.json](./130250-kur.json) |
 | Kur Tu Teci, Gailīti Manu? | 307170 | [307170-kur-tu-teci-gailiti-manu.json](./307170-kur-tu-teci-gailiti-manu.json) |
 | Kur, Pelīte, Tu Tecēji? | 305384 | [305384-kur-pelite-tu-teceji.json](./305384-kur-pelite-tu-teceji.json) |
