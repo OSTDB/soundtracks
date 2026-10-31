@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
+| Dance Dance Revolution 3rdMix | 73426 | [73426-dance-dance-revolution-3rdmix.json](./73426-dance-dance-revolution-3rdmix.json) |
 | Dance Dance Revolution 4thMix | 79708 | [79708-dance-dance-revolution-4thmix.json](./79708-dance-dance-revolution-4thmix.json) |
 | Dance Dance Revolution A | 58120 | [58120-dance-dance-revolution-a.json](./58120-dance-dance-revolution-a.json) |
 | Dance Dance Revolution A20 | 124446 | [124446-dance-dance-revolution-a20.json](./124446-dance-dance-revolution-a20.json) |
@@ -4678,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decypher | 290633 | [290633-decypher.json](./290633-decypher.json) |
 | Ded | 30073 | [30073-ded.json](./30073-ded.json) |
 | Ded Inside | 120776 | [120776-ded-inside.json](./120776-ded-inside.json) |
+| Dedale | 73435 | [73435-dedale.json](./73435-dedale.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
 | Dedalus | 138998 | [138998-dedalus.json](./138998-dedalus.json) |
 | Dedede Daggers | 183910 | [183910-dedede-daggers.json](./183910-dedede-daggers.json) |
@@ -4960,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Therapy | 158868 | [158868-deep-therapy.json](./158868-deep-therapy.json) |
 | Deep Town | 98532 | [98532-deep-town.json](./98532-deep-town.json) |
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
+| Deep Trouble 2 | 73571 | [73571-deep-trouble-2.json](./73571-deep-trouble-2.json) |
 | Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
 | Deep Under the Sky | 17688 | [17688-deep-under-the-sky.json](./17688-deep-under-the-sky.json) |
 | Deep Vault 69 | 281431 | [281431-deep-vault-69.json](./281431-deep-vault-69.json) |
@@ -5028,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
 | Deer Avenger 2: Deer in the City | 68724 | [68724-deer-avenger-2-deer-in-the-city.json](./68724-deer-avenger-2-deer-in-the-city.json) |
+| Deer Avenger 3D | 73450 | [73450-deer-avenger-3d.json](./73450-deer-avenger-3d.json) |
 | Deer Avenger 4: The Rednecks Strike Back | 69770 | [69770-deer-avenger-4-the-rednecks-strike-back.json](./69770-deer-avenger-4-the-rednecks-strike-back.json) |
 | Deer Captor | 51120 | [51120-deer-captor.json](./51120-deer-captor.json) |
 | Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
@@ -9648,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Extremely Goofy Skateboarding | 78286 | [78286-disneys-extremely-goofy-skateboarding.json](./78286-disneys-extremely-goofy-skateboarding.json) |
 | Disney's Goof Troop | 205930 | [205930-disneys-goof-troop.json](./205930-disneys-goof-troop.json) |
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
+| Disney's Hades Challenge | 73439 | [73439-disneys-hades-challenge.json](./73439-disneys-hades-challenge.json) |
 | Disney's Herbie: Fully Loaded | 6434 | [6434-disneys-herbie-fully-loaded.json](./6434-disneys-herbie-fully-loaded.json) |
 | Disney's Herbie: Rescue Rally | 73552 | [73552-disneys-herbie-rescue-rally.json](./73552-disneys-herbie-rescue-rally.json) |
 | Disney's Hercules | 140649 | [140649-disneys-hercules.json](./140649-disneys-hercules.json) |
@@ -12324,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Doritos Crash Course: City Lights | 349720 | [349720-doritos-crash-course-city-lights.json](./349720-doritos-crash-course-city-lights.json) |
 | Dork's Dilemma? | 133681 | [133681-dorks-dilemma.json](./133681-dorks-dilemma.json) |
+| Dork's Dreams | 73442 | [73442-dorks-dreams.json](./73442-dorks-dreams.json) |
 | Dorke and Ymp | 32601 | [32601-dorke-and-ymp.json](./32601-dorke-and-ymp.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
