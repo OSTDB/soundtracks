@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
 | Mahjong Unlimited | 88641 | [88641-mahjong-unlimited.json](./88641-mahjong-unlimited.json) |
 | Mahjong Unlimited | 89091 | [89091-mahjong-unlimited.json](./89091-mahjong-unlimited.json) |
+| Mahjong Valentine's Day | 90291 | [90291-mahjong-valentines-day.json](./90291-mahjong-valentines-day.json) |
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
 | Mahjong Venice Mystery Classic | 99179 | [99179-mahjong-venice-mystery-classic.json](./99179-mahjong-venice-mystery-classic.json) |
 | Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
@@ -7239,6 +7240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Q*bert | 360128 | [360128-mega-q-bert.json](./360128-mega-q-bert.json) |
 | Mega Quiz Gaming | 108810 | [108810-mega-quiz-gaming.json](./108810-mega-quiz-gaming.json) |
 | Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
+| Mega Rage | 90335 | [90335-mega-rage.json](./90335-mega-rage.json) |
 | Mega Ramp Car Jumping | 306542 | [306542-mega-ramp-car-jumping.json](./306542-mega-ramp-car-jumping.json) |
 | Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
 | Mega Ramp V5 | 104400 | [104400-mega-ramp-v5.json](./104400-mega-ramp-v5.json) |
