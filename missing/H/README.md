@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
+| Haitoku no Gakuen: Yami ni Sasagerareta Otome-tachi | 82524 | [82524-haitoku-no-gakuen-yami-ni-sasagerareta-otome-tachi.json](./82524-haitoku-no-gakuen-yami-ni-sasagerareta-otome-tachi.json) |
 | Haitoku Shirene: Anata no Shiranai Naraku no Soko | 314802 | [314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json](./314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json) |
 | Haitoku Silene | 157058 | [157058-haitoku-silene.json](./157058-haitoku-silene.json) |
 | Haiyuuenchi no Memento Memoria | 259056 | [259056-haiyuuenchi-no-memento-memoria.json](./259056-haiyuuenchi-no-memento-memoria.json) |
