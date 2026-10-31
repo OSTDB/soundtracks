@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abraxas | 263384 | [263384-abraxas.json](./263384-abraxas.json) |
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
+| Abraxas Interactive's Push | 96438 | [96438-abraxas-interactives-push.json](./96438-abraxas-interactives-push.json) |
 | Abrez | 368517 | [368517-abrez.json](./368517-abrez.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abridged | 163653 | [163653-abridged.json](./163653-abridged.json) |
@@ -5662,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Merge Puzzle Game | 330932 | [330932-alchemy-merge-puzzle-game.json](./330932-alchemy-merge-puzzle-game.json) |
 | Alchemy Mysteries: Prague Legends | 17899 | [17899-alchemy-mysteries-prague-legends.json](./17899-alchemy-mysteries-prague-legends.json) |
 | Alchemy Odyssey 2: Tears of the Elements | 417519 | [417519-alchemy-odyssey-2-tears-of-the-elements.json](./417519-alchemy-odyssey-2-tears-of-the-elements.json) |
+| Alchemy of Castle | 96432 | [96432-alchemy-of-castle.json](./96432-alchemy-of-castle.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
 | Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
 | Alchemy Pipes Puzzle | 297727 | [297727-alchemy-pipes-puzzle.json](./297727-alchemy-pipes-puzzle.json) |
@@ -8639,6 +8641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
 | Angel's Feather: Kuro no Zanei | 51428 | [51428-angels-feather-kuro-no-zanei.json](./51428-angels-feather-kuro-no-zanei.json) |
+| Angel's Love | 96459 | [96459-angels-love.json](./96459-angels-love.json) |
 | Angel's Lullaby | 330360 | [330360-angels-lullaby.json](./330360-angels-lullaby.json) |
 | Angel's Present: A Marl Kingdom Story | 76591 | [76591-angels-present-a-marl-kingdom-story.json](./76591-angels-present-a-marl-kingdom-story.json) |
 | Angel's Punishment | 165599 | [165599-angels-punishment.json](./165599-angels-punishment.json) |
@@ -14000,6 +14003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Red Pack | 168897 | [168897-assetto-corsa-red-pack.json](./168897-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Red Pack | 225910 | [225910-assetto-corsa-red-pack.json](./225910-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
+| Assetto Corsa: Ultimate Edition | 96404 | [96404-assetto-corsa-ultimate-edition.json](./96404-assetto-corsa-ultimate-edition.json) |
 | Assia: Returning to Dreams | 257314 | [257314-assia-returning-to-dreams.json](./257314-assia-returning-to-dreams.json) |
 | Assigned Mech At Birth | 363923 | [363923-assigned-mech-at-birth.json](./363923-assigned-mech-at-birth.json) |
 | Assignment Due: Project Blue | 257555 | [257555-assignment-due-project-blue.json](./257555-assignment-due-project-blue.json) |
