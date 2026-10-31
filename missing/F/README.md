@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Lands: Rinka and the Fairy Gems | 52096 | [52096-fairy-lands-rinka-and-the-fairy-gems.json](./52096-fairy-lands-rinka-and-the-fairy-gems.json) |
 | Fairy Light | 115416 | [115416-fairy-light.json](./115416-fairy-light.json) |
 | Fairy Magic Skillz Tournaments | 232487 | [232487-fairy-magic-skillz-tournaments.json](./232487-fairy-magic-skillz-tournaments.json) |
+| Fairy Mahjong Premium - The New 3D Majong | 103087 | [103087-fairy-mahjong-premium-the-new-3d-majong.json](./103087-fairy-mahjong-premium-the-new-3d-majong.json) |
 | Fairy Massage | 347664 | [347664-fairy-massage.json](./347664-fairy-massage.json) |
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
 | Fairy of Sit-ups | 104418 | [104418-fairy-of-sit-ups.json](./104418-fairy-of-sit-ups.json) |
@@ -7091,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Unlimited II | 714 | [714-flight-unlimited-ii.json](./714-flight-unlimited-ii.json) |
 | Flight Unlimited III | 715 | [715-flight-unlimited-iii.json](./715-flight-unlimited-iii.json) |
 | Flight Unlimited Las Vegas | 34909 | [34909-flight-unlimited-las-vegas.json](./34909-flight-unlimited-las-vegas.json) |
+| Flight World Simulator | 103075 | [103075-flight-world-simulator.json](./103075-flight-world-simulator.json) |
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightChess | 181061 | [181061-flightchess.json](./181061-flightchess.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
@@ -8198,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoons: 2 in 1 Bundle | 231031 | [231031-food-truck-tycoons-2-in-1-bundle.json](./231031-food-truck-tycoons-2-in-1-bundle.json) |
 | Food Truck VR | 343329 | [343329-food-truck-vr.json](./343329-food-truck-vr.json) |
 | Food Tycoon | 200281 | [200281-food-tycoon.json](./200281-food-tycoon.json) |
+| Food Tycoonist | 103072 | [103072-food-tycoonist.json](./103072-food-tycoonist.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | Food War TD | 171439 | [171439-food-war-td.json](./171439-food-war-td.json) |
 | Foodfight! | 225838 | [225838-foodfight.json](./225838-foodfight.json) |
@@ -8740,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
 | Forest Heroes | 311581 | [311581-forest-heroes.json](./311581-forest-heroes.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
+| Forest Home | 103090 | [103090-forest-home.json](./103090-forest-home.json) |
 | Forest Horror | 252687 | [252687-forest-horror.json](./252687-forest-horror.json) |
 | Forest Hunt: VR | 295831 | [295831-forest-hunt-vr.json](./295831-forest-hunt-vr.json) |
 | Forest Island | 227246 | [227246-forest-island.json](./227246-forest-island.json) |
