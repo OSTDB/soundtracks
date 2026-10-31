@@ -3863,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
 | Rediscovering Earth | 183374 | [183374-rediscovering-earth.json](./183374-rediscovering-earth.json) |
+| Redisruption | 71873 | [71873-redisruption.json](./71873-redisruption.json) |
 | Reditum | 148898 | [148898-reditum.json](./148898-reditum.json) |
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
 | Redjack: Revenge of the Brethren | 18297 | [18297-redjack-revenge-of-the-brethren.json](./18297-redjack-revenge-of-the-brethren.json) |
@@ -11756,6 +11757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Fishing 4 | 56012 | [56012-russian-fishing-4.json](./56012-russian-fishing-4.json) |
 | Russian Fishing 4: Amber Lake | 161308 | [161308-russian-fishing-4-amber-lake.json](./161308-russian-fishing-4-amber-lake.json) |
 | Russian Fishing 4: Lower Tunguska River | 161307 | [161307-russian-fishing-4-lower-tunguska-river.json](./161307-russian-fishing-4-lower-tunguska-river.json) |
+| Russian Fool | 71853 | [71853-russian-fool.json](./71853-russian-fool.json) |
 | Russian Front | 34908 | [34908-russian-front.json](./34908-russian-front.json) |
 | Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
