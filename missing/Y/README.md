@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuzukuri Puzzle Yumeiro Yuramu | 263612 | [263612-yakuzukuri-puzzle-yumeiro-yuramu.json](./263612-yakuzukuri-puzzle-yumeiro-yuramu.json) |
 | Yakyosho | 201679 | [201679-yakyosho.json](./201679-yakyosho.json) |
 | Yakyuu Dou: The Way to Gloria | 66197 | [66197-yakyuu-dou-the-way-to-gloria.json](./66197-yakyuu-dou-the-way-to-gloria.json) |
+| Yakyuudou II | 91653 | [91653-yakyuudou-ii.json](./91653-yakyuudou-ii.json) |
 | Yakyuuken | 246486 | [246486-yakyuuken.json](./246486-yakyuuken.json) |
 | Yakyuuken | 248812 | [248812-yakyuuken.json](./248812-yakyuuken.json) |
 | Yakyuukyou | 67390 | [67390-yakyuukyou.json](./67390-yakyuukyou.json) |
