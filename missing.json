@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T12:19:13.890Z",
-  "total_missing": 288630,
+  "generated_at": "2026-10-31T12:34:11.430Z",
+  "total_missing": 288680,
   "games": [
     {
       "igdb_id": 191680,
@@ -12017,6 +12017,11 @@
       "file": "missing/0-9/295543-4-1-60co.json"
     },
     {
+      "igdb_id": 92258,
+      "game_name": "4*4 Off Road Racer",
+      "file": "missing/0-9/92258-4-4-off-road-racer.json"
+    },
+    {
       "igdb_id": 76539,
       "game_name": "40 Days",
       "file": "missing/0-9/76539-40-days.json"
@@ -18055,6 +18060,11 @@
       "igdb_id": 171034,
       "game_name": "A Game of Dwarves: Star Dwarves",
       "file": "missing/A/171034-a-game-of-dwarves-star-dwarves.json"
+    },
+    {
+      "igdb_id": 92320,
+      "game_name": "A Game of Hockey",
+      "file": "missing/A/92320-a-game-of-hockey.json"
     },
     {
       "igdb_id": 92621,
@@ -25405,6 +25415,11 @@
       "igdb_id": 253731,
       "game_name": "Absolute Instant",
       "file": "missing/A/253731-absolute-instant.json"
+    },
+    {
+      "igdb_id": 92256,
+      "game_name": "Absolute Kreuzworträtsel",
+      "file": "missing/A/92256-absolute-kreuzwortratsel.json"
     },
     {
       "igdb_id": 219697,
@@ -89387,6 +89402,11 @@
       "file": "missing/A/46088-asuka-120-limited-burning-fest.json"
     },
     {
+      "igdb_id": 92225,
+      "game_name": "Asuka 120% Maxima Burning Fest.",
+      "file": "missing/A/92225-asuka-120-maxima-burning-fest.json"
+    },
+    {
       "igdb_id": 399410,
       "game_name": "Asuka Idol Journey",
       "file": "missing/A/399410-asuka-idol-journey.json"
@@ -107145,6 +107165,11 @@
       "igdb_id": 4704,
       "game_name": "Balloon Pop",
       "file": "missing/B/4704-balloon-pop.json"
+    },
+    {
+      "igdb_id": 92321,
+      "game_name": "Balloon Pop 2",
+      "file": "missing/B/92321-balloon-pop-2.json"
     },
     {
       "igdb_id": 147925,
@@ -156977,6 +157002,11 @@
       "file": "missing/B/44572-bomberman-ultra.json"
     },
     {
+      "igdb_id": 92253,
+      "game_name": "Bomberman v1.8",
+      "file": "missing/B/92253-bomberman-v1-8.json"
+    },
+    {
       "igdb_id": 6925,
       "game_name": "Bomberman: Act Zero",
       "file": "missing/B/6925-bomberman-act-zero.json"
@@ -177057,6 +177087,11 @@
       "file": "missing/B/316103-buknight-the-order-of-the-golden-crest.json"
     },
     {
+      "igdb_id": 92230,
+      "game_name": "Buku Dominoes",
+      "file": "missing/B/92230-buku-dominoes.json"
+    },
+    {
       "igdb_id": 74407,
       "game_name": "Buku Sudoku",
       "file": "missing/B/74407-buku-sudoku.json"
@@ -180132,6 +180167,11 @@
       "file": "missing/B/203891-burn-depth.json"
     },
     {
+      "igdb_id": 92262,
+      "game_name": "Burn It All!",
+      "file": "missing/B/92262-burn-it-all.json"
+    },
+    {
       "igdb_id": 47991,
       "game_name": "Burn It Down",
       "file": "missing/B/47991-burn-it-down.json"
@@ -182790,6 +182830,11 @@
       "igdb_id": 221925,
       "game_name": "Buzzing Cars",
       "file": "missing/B/221925-buzzing-cars.json"
+    },
+    {
+      "igdb_id": 92234,
+      "game_name": "BuzzingCars",
+      "file": "missing/B/92234-buzzingcars.json"
     },
     {
       "igdb_id": 148866,
@@ -231787,6 +231832,11 @@
       "file": "missing/C/270745-club-backgammon.json"
     },
     {
+      "igdb_id": 92227,
+      "game_name": "Club Caribe",
+      "file": "missing/C/92227-club-caribe.json"
+    },
+    {
       "igdb_id": 180629,
       "game_name": "Club de Detectives: Caso 01",
       "file": "missing/C/180629-club-de-detectives-caso-01.json"
@@ -248145,6 +248195,11 @@
       "igdb_id": 100049,
       "game_name": "Cool army games for kids 6 year old and under boys",
       "file": "missing/C/100049-cool-army-games-for-kids-6-year-old-and-under-boys.json"
+    },
+    {
+      "igdb_id": 92263,
+      "game_name": "Cool Ball",
+      "file": "missing/C/92263-cool-ball.json"
     },
     {
       "igdb_id": 26130,
@@ -299785,6 +299840,11 @@
       "igdb_id": 272018,
       "game_name": "Decay",
       "file": "missing/D/272018-decay.json"
+    },
+    {
+      "igdb_id": 92220,
+      "game_name": "Decay - Part 3",
+      "file": "missing/D/92220-decay-part-3.json"
     },
     {
       "igdb_id": 358621,
@@ -408690,6 +408750,11 @@
       "igdb_id": 155885,
       "game_name": "Fallen from the sky",
       "file": "missing/F/155885-fallen-from-the-sky.json"
+    },
+    {
+      "igdb_id": 92261,
+      "game_name": "Fallen Frontier",
+      "file": "missing/F/92261-fallen-frontier.json"
     },
     {
       "igdb_id": 297733,
@@ -590387,6 +590452,11 @@
       "file": "missing/I/373866-improvised-tactics.json"
     },
     {
+      "igdb_id": 92269,
+      "game_name": "Improvisio",
+      "file": "missing/I/92269-improvisio.json"
+    },
+    {
       "igdb_id": 137027,
       "game_name": "Impulse",
       "file": "missing/I/137027-impulse.json"
@@ -596550,6 +596620,11 @@
       "igdb_id": 43854,
       "game_name": "Initial D",
       "file": "missing/I/43854-initial-d.json"
+    },
+    {
+      "igdb_id": 92218,
+      "game_name": "Initial D Arcade Stage",
+      "file": "missing/I/92218-initial-d-arcade-stage.json"
     },
     {
       "igdb_id": 201776,
@@ -625070,6 +625145,11 @@
       "igdb_id": 200191,
       "game_name": "JumpStart 3D Virtual World: Trouble in Town",
       "file": "missing/J/200191-jumpstart-3d-virtual-world-trouble-in-town.json"
+    },
+    {
+      "igdb_id": 92241,
+      "game_name": "JumpStart ABC's",
+      "file": "missing/J/92241-jumpstart-abcs.json"
     },
     {
       "igdb_id": 77094,
@@ -656100,6 +656180,11 @@
       "igdb_id": 5898,
       "game_name": "Kung Fu Chaos",
       "file": "missing/K/5898-kung-fu-chaos.json"
+    },
+    {
+      "igdb_id": 92267,
+      "game_name": "Kung Fu Charlies",
+      "file": "missing/K/92267-kung-fu-charlies.json"
     },
     {
       "igdb_id": 180198,
@@ -827387,6 +827472,11 @@
       "file": "missing/N/116214-nin-nin-ninja.json"
     },
     {
+      "igdb_id": 92226,
+      "game_name": "Nin2-Jump",
+      "file": "missing/N/92226-nin2-jump.json"
+    },
+    {
       "igdb_id": 316365,
       "game_name": "Nina & Yuri",
       "file": "missing/N/316365-nina-and-yuri.json"
@@ -828965,6 +829055,11 @@
       "igdb_id": 100935,
       "game_name": "Ninja Toy Warrior - Legendary Ninja Fight",
       "file": "missing/N/100935-ninja-toy-warrior-legendary-ninja-fight.json"
+    },
+    {
+      "igdb_id": 92221,
+      "game_name": "Ninja Train",
+      "file": "missing/N/92221-ninja-train.json"
     },
     {
       "igdb_id": 102726,
@@ -844875,6 +844970,11 @@
       "igdb_id": 183255,
       "game_name": "Office Dating Simulator 2020",
       "file": "missing/O/183255-office-dating-simulator-2020.json"
+    },
+    {
+      "igdb_id": 92224,
+      "game_name": "Office Disorders",
+      "file": "missing/O/92224-office-disorders.json"
     },
     {
       "igdb_id": 302341,
@@ -894607,6 +894707,11 @@
       "file": "missing/P/62745-pia-carrot-e-youkoso-3-3.json"
     },
     {
+      "igdb_id": 92254,
+      "game_name": "Pia Carrot e Youkoso!! 4",
+      "file": "missing/P/92254-pia-carrot-e-youkoso-4.json"
+    },
+    {
       "igdb_id": 72645,
       "game_name": "Pia Carrot e Youkoso!! G.O.",
       "file": "missing/P/72645-pia-carrot-e-youkoso-g-o.json"
@@ -937312,6 +937417,26 @@
       "file": "missing/P/37873-pro-yakyuu-nettou-puzzle-stadium.json"
     },
     {
+      "igdb_id": 92240,
+      "game_name": "Pro Yakyuu Spirits 2",
+      "file": "missing/P/92240-pro-yakyuu-spirits-2.json"
+    },
+    {
+      "igdb_id": 92238,
+      "game_name": "Pro Yakyuu Spirits 2004",
+      "file": "missing/P/92238-pro-yakyuu-spirits-2004.json"
+    },
+    {
+      "igdb_id": 92235,
+      "game_name": "Pro Yakyuu Spirits 2004 Climax",
+      "file": "missing/P/92235-pro-yakyuu-spirits-2004-climax.json"
+    },
+    {
+      "igdb_id": 92232,
+      "game_name": "Pro Yakyuu Spirits 2011",
+      "file": "missing/P/92232-pro-yakyuu-spirits-2011.json"
+    },
+    {
       "igdb_id": 44575,
       "game_name": "Pro Yakyuu Spirits 2012",
       "file": "missing/P/44575-pro-yakyuu-spirits-2012.json"
@@ -937340,6 +937465,26 @@
       "igdb_id": 91726,
       "game_name": "Pro Yakyuu Spirits 3",
       "file": "missing/P/91726-pro-yakyuu-spirits-3.json"
+    },
+    {
+      "igdb_id": 92239,
+      "game_name": "Pro Yakyuu Spirits 4",
+      "file": "missing/P/92239-pro-yakyuu-spirits-4.json"
+    },
+    {
+      "igdb_id": 92237,
+      "game_name": "Pro Yakyuu Spirits 5",
+      "file": "missing/P/92237-pro-yakyuu-spirits-5.json"
+    },
+    {
+      "igdb_id": 92236,
+      "game_name": "Pro Yakyuu Spirits 5 Kanzen-ban",
+      "file": "missing/P/92236-pro-yakyuu-spirits-5-kanzen-ban.json"
+    },
+    {
+      "igdb_id": 92233,
+      "game_name": "Pro Yakyuu Spirits 6",
+      "file": "missing/P/92233-pro-yakyuu-spirits-6.json"
     },
     {
       "igdb_id": 59344,
@@ -960237,6 +960382,11 @@
       "file": "missing/R/46203-r-b-i-baseball-93.json"
     },
     {
+      "igdb_id": 92260,
+      "game_name": "R.B.I. Baseball '94",
+      "file": "missing/R/92260-r-b-i-baseball-94.json"
+    },
+    {
       "igdb_id": 17962,
       "game_name": "R.B.I. Baseball 15",
       "file": "missing/R/17962-r-b-i-baseball-15.json"
@@ -964290,6 +964440,11 @@
       "igdb_id": 170805,
       "game_name": "Raid",
       "file": "missing/R/170805-raid.json"
+    },
+    {
+      "igdb_id": 92219,
+      "game_name": "Raid",
+      "file": "missing/R/92219-raid.json"
     },
     {
       "igdb_id": 30955,
@@ -1011632,6 +1011787,11 @@
       "file": "missing/R/407524-round-up-5-super-delta-force.json"
     },
     {
+      "igdb_id": 92222,
+      "game_name": "Round-Up",
+      "file": "missing/R/92222-round-up.json"
+    },
+    {
       "igdb_id": 15852,
       "game_name": "Roundabout",
       "file": "missing/R/15852-roundabout.json"
@@ -1032632,6 +1032792,11 @@
       "file": "missing/S/74917-schatte-the-witch-and-the-fake-shadow.json"
     },
     {
+      "igdb_id": 92259,
+      "game_name": "Schatten der Dämmerung",
+      "file": "missing/S/92259-schatten-der-dammerung.json"
+    },
+    {
       "igdb_id": 98954,
       "game_name": "SchattenJagd",
       "file": "missing/S/98954-schattenjagd.json"
@@ -1049445,6 +1049610,11 @@
       "igdb_id": 225088,
       "game_name": "Shadow Empire: Oceania",
       "file": "missing/S/225088-shadow-empire-oceania.json"
+    },
+    {
+      "igdb_id": 92268,
+      "game_name": "Shadow Era",
+      "file": "missing/S/92268-shadow-era.json"
     },
     {
       "igdb_id": 63805,
@@ -1070950,6 +1071120,11 @@
       "igdb_id": 341410,
       "game_name": "SingStar: Clásicos",
       "file": "missing/S/341410-singstar-clasicos.json"
+    },
+    {
+      "igdb_id": 92223,
+      "game_name": "SingStar: Danske Hits",
+      "file": "missing/S/92223-singstar-danske-hits.json"
     },
     {
       "igdb_id": 144150,
@@ -1123810,6 +1123985,11 @@
       "igdb_id": 113161,
       "game_name": "Spuds Unearthed",
       "file": "missing/S/113161-spuds-unearthed.json"
+    },
+    {
+      "igdb_id": 92257,
+      "game_name": "Spuk im Wirtshaus",
+      "file": "missing/S/92257-spuk-im-wirtshaus.json"
     },
     {
       "igdb_id": 334911,
@@ -1196745,6 +1196925,11 @@
       "igdb_id": 57586,
       "game_name": "Taxi Racer",
       "file": "missing/T/57586-taxi-racer.json"
+    },
+    {
+      "igdb_id": 92229,
+      "game_name": "Taxi Racer Gold",
+      "file": "missing/T/92229-taxi-racer-gold.json"
     },
     {
       "igdb_id": 237656,
@@ -1299952,6 +1300137,11 @@
       "file": "missing/T/250454-tooth-fairy-horse.json"
     },
     {
+      "igdb_id": 92322,
+      "game_name": "Tooth Invaders",
+      "file": "missing/T/92322-tooth-invaders.json"
+    },
+    {
       "igdb_id": 11236,
       "game_name": "Tooth Protectors",
       "file": "missing/T/11236-tooth-protectors.json"
@@ -1303750,6 +1303940,11 @@
       "igdb_id": 66099,
       "game_name": "Touge Max 2",
       "file": "missing/T/66099-touge-max-2.json"
+    },
+    {
+      "igdb_id": 92231,
+      "game_name": "Touge Max G",
+      "file": "missing/T/92231-touge-max-g.json"
     },
     {
       "igdb_id": 60621,
@@ -1312197,6 +1312392,11 @@
       "file": "missing/T/327582-train-simulator.json"
     },
     {
+      "igdb_id": 92251,
+      "game_name": "Train Simulator ＋ Densha de Go!: Tokyo Kyuukou-hen",
+      "file": "missing/T/92251-train-simulator-densha-de-go-tokyo-kyuukou-hen.json"
+    },
+    {
       "igdb_id": 5546,
       "game_name": "Train Simulator 2013",
       "file": "missing/T/5546-train-simulator-2013.json"
@@ -1313222,6 +1313422,26 @@
       "file": "missing/T/293395-train-simulator-classic-zcs-vtg-wagon-pack.json"
     },
     {
+      "igdb_id": 92245,
+      "game_name": "Train Simulator Plus: JR Higashi-Nihon Chuo-sen 2",
+      "file": "missing/T/92245-train-simulator-plus-jr-higashi-nihon-chuo-sen-2.json"
+    },
+    {
+      "igdb_id": 92244,
+      "game_name": "Train Simulator Plus: Keihan Denki Tetsudou",
+      "file": "missing/T/92244-train-simulator-plus-keihan-denki-tetsudou.json"
+    },
+    {
+      "igdb_id": 92248,
+      "game_name": "Train Simulator Plus: Kyoto-shiei Chikatetsu Karasuma-sen & Kinki-nippon Tetsudou Kyoto-sen",
+      "file": "missing/T/92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json"
+    },
+    {
+      "igdb_id": 92246,
+      "game_name": "Train Simulator Plus: Odakyu Dentetsu Odawara-sen 2",
+      "file": "missing/T/92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json"
+    },
+    {
       "igdb_id": 79179,
       "game_name": "Train Simulator Real: The Keihin Kyuukou",
       "file": "missing/T/79179-train-simulator-real-the-keihin-kyuukou.json"
@@ -1313752,6 +1313972,11 @@
       "file": "missing/T/323659-train-simulator-keihin-kyuukou-dentetsu-honsen-kurihamasen-600-gata.json"
     },
     {
+      "igdb_id": 92249,
+      "game_name": "Train Simulator: Keisei Toei Asakusa Keikyu-sen",
+      "file": "missing/T/92249-train-simulator-keisei-toei-asakusa-keikyu-sen.json"
+    },
+    {
       "igdb_id": 323667,
       "game_name": "Train Simulator: Kintetsu Minami Osaka-sen Yoshino-sen",
       "file": "missing/T/323667-train-simulator-kintetsu-minami-osaka-sen-yoshino-sen.json"
@@ -1313760,6 +1313985,11 @@
       "igdb_id": 156388,
       "game_name": "Train Simulator: Konstanz-Villingen Route Add-On",
       "file": "missing/T/156388-train-simulator-konstanz-villingen-route-add-on.json"
+    },
+    {
+      "igdb_id": 92250,
+      "game_name": "Train Simulator: Kyushu Shinkansen",
+      "file": "missing/T/92250-train-simulator-kyushu-shinkansen.json"
     },
     {
       "igdb_id": 156356,
@@ -1313890,6 +1314120,11 @@
       "igdb_id": 156411,
       "game_name": "Train Simulator: Midland Main Line: Sheffield - Derby Route Add-On",
       "file": "missing/T/156411-train-simulator-midland-main-line-sheffield-derby-route-add-on.json"
+    },
+    {
+      "igdb_id": 92247,
+      "game_name": "Train Simulator: Midosuji-sen",
+      "file": "missing/T/92247-train-simulator-midosuji-sen.json"
     },
     {
       "igdb_id": 156452,
@@ -1314060,6 +1314295,11 @@
       "igdb_id": 306074,
       "game_name": "Train Simulator: ÖBB 4748",
       "file": "missing/T/306074-train-simulator-obb-4748.json"
+    },
+    {
+      "igdb_id": 92252,
+      "game_name": "Train Simulator: Odakyu Electric Railway Odakyu Line Type 5000",
+      "file": "missing/T/92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json"
     },
     {
       "igdb_id": 156458,
@@ -1412687,6 +1412927,11 @@
       "file": "missing/W/366923-worm.json"
     },
     {
+      "igdb_id": 92255,
+      "game_name": "Worm",
+      "file": "missing/W/92255-worm.json"
+    },
+    {
       "igdb_id": 74069,
       "game_name": "Worm 2000",
       "file": "missing/W/74069-worm-2000.json"
@@ -1418695,6 +1418940,11 @@
       "igdb_id": 7257,
       "game_name": "Xbox Live Arcade Unplugged: Volume 1",
       "file": "missing/X/7257-xbox-live-arcade-unplugged-volume-1.json"
+    },
+    {
+      "igdb_id": 92266,
+      "game_name": "Xbox Live Labs",
+      "file": "missing/X/92266-xbox-live-labs.json"
     },
     {
       "igdb_id": 339813,
