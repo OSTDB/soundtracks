@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakeo | 301679 | [301679-rakeo.json](./301679-rakeo.json) |
 | Rakete | 134897 | [134897-rakete.json](./134897-rakete.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
+| Rakion | 92762 | [92762-rakion.json](./92762-rakion.json) |
 | Rakka: Wake 01 - Soot | 341302 | [341302-rakka-wake-01-soot.json](./341302-rakka-wake-01-soot.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
 | Raklem: War on Earth | 73456 | [73456-raklem-war-on-earth.json](./73456-raklem-war-on-earth.json) |
@@ -3453,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Brick Hotel | 163401 | [163401-red-brick-hotel.json](./163401-red-brick-hotel.json) |
 | Red Bull Air Race - The Game | 110187 | [110187-red-bull-air-race-the-game.json](./110187-red-bull-air-race-the-game.json) |
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
+| Red Bull BC One | 92767 | [92767-red-bull-bc-one.json](./92767-red-bull-bc-one.json) |
 | Red Bull Crashed Ice Kinect | 20237 | [20237-red-bull-crashed-ice-kinect.json](./20237-red-bull-crashed-ice-kinect.json) |
 | Red Bull Doodle Art: Global VR Gallery | 91294 | [91294-red-bull-doodle-art-global-vr-gallery.json](./91294-red-bull-doodle-art-global-vr-gallery.json) |
 | Red Bull Flugtag Flight Lab | 337431 | [337431-red-bull-flugtag-flight-lab.json](./337431-red-bull-flugtag-flight-lab.json) |
@@ -8097,6 +8099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboDoc Jr. | 364594 | [364594-robodoc-jr.json](./364594-robodoc-jr.json) |
 | Robodunk | 152176 | [152176-robodunk.json](./152176-robodunk.json) |
 | RoboFight.io | 122888 | [122888-robofight-io.json](./122888-robofight-io.json) |
+| Roboforge | 92779 | [92779-roboforge.json](./92779-roboforge.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
 | RoboGenesis | 110629 | [110629-robogenesis.json](./110629-robogenesis.json) |
 | Roboggled | 156933 | [156933-roboggled.json](./156933-roboggled.json) |
