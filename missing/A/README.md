@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Top-Down Job: Blood Gain | 109866 | [109866-a-top-down-job-blood-gain.json](./109866-a-top-down-job-blood-gain.json) |
+| A Topsy Turvy Life: The Turvys Strike Back | 65711 | [65711-a-topsy-turvy-life-the-turvys-strike-back.json](./65711-a-topsy-turvy-life-the-turvys-strike-back.json) |
 | A Topsy Turvy Life: Turvy Drops | 66578 | [66578-a-topsy-turvy-life-turvy-drops.json](./66578-a-topsy-turvy-life-turvy-drops.json) |
 | A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
 | A Total War Saga: Troy - Ajax & Diomedes | 166274 | [166274-a-total-war-saga-troy-ajax-and-diomedes.json](./166274-a-total-war-saga-troy-ajax-and-diomedes.json) |
@@ -10155,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Checkers | 398272 | [398272-antique-checkers.json](./398272-antique-checkers.json) |
 | Antique Dealer Simulator | 382832 | [382832-antique-dealer-simulator.json](./382832-antique-dealer-simulator.json) |
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
+| Antique Road Trip 2: Homecoming | 65725 | [65725-antique-road-trip-2-homecoming.json](./65725-antique-road-trip-2-homecoming.json) |
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
 | Antiques Roadshow | 52414 | [52414-antiques-roadshow.json](./52414-antiques-roadshow.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
@@ -12689,6 +12691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon | 45337 | [45337-armageddon.json](./45337-armageddon.json) |
 | Armageddon 2 | 271199 | [271199-armageddon-2.json](./271199-armageddon-2.json) |
 | Armageddon Empires | 21281 | [21281-armageddon-empires.json](./21281-armageddon-empires.json) |
+| Armageddon Man | 65865 | [65865-armageddon-man.json](./65865-armageddon-man.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armageddon Operation Dragon | 84978 | [84978-armageddon-operation-dragon.json](./84978-armageddon-operation-dragon.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
@@ -15261,6 +15264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cards | 169481 | [169481-atomic-cards.json](./169481-atomic-cards.json) |
+| Atomic City Adventures: The Case of the Black Dragon | 65718 | [65718-atomic-city-adventures-the-case-of-the-black-dragon.json](./65718-atomic-city-adventures-the-case-of-the-black-dragon.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Driver | 73731 | [73731-atomic-driver.json](./73731-atomic-driver.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
@@ -16363,7 +16367,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening the Charge | 349819 | [349819-awakening-the-charge.json](./349819-awakening-the-charge.json) |
 | Awakening the Light | 158553 | [158553-awakening-the-light.json](./158553-awakening-the-light.json) |
 | Awakening: Into the Stars | 236468 | [236468-awakening-into-the-stars.json](./236468-awakening-into-the-stars.json) |
+| Awakening: Moonfell Wood | 65723 | [65723-awakening-moonfell-wood.json](./65723-awakening-moonfell-wood.json) |
 | Awakening: The Dreamless Castle | 66087 | [66087-awakening-the-dreamless-castle.json](./66087-awakening-the-dreamless-castle.json) |
+| Awakening: The Goblin Kingdom | 65707 | [65707-awakening-the-goblin-kingdom.json](./65707-awakening-the-goblin-kingdom.json) |
 | Awakening: The Golden Age | 58000 | [58000-awakening-the-golden-age.json](./58000-awakening-the-golden-age.json) |
 | Awakening: The Golden Age - Collector's Edition | 29615 | [29615-awakening-the-golden-age-collectors-edition.json](./29615-awakening-the-golden-age-collectors-edition.json) |
 | Awakening: The Redleaf Forest | 57998 | [57998-awakening-the-redleaf-forest.json](./57998-awakening-the-redleaf-forest.json) |
