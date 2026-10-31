@@ -13587,6 +13587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momogical | 181683 | [181683-momogical.json](./181683-momogical.json) |
 | Momoiro Closet | 95173 | [95173-momoiro-closet.json](./95173-momoiro-closet.json) |
+| Momoiro Nurse | 97623 | [97623-momoiro-nurse.json](./97623-momoiro-nurse.json) |
 | Momoiro Okami no Honoka-san: Ikenai, O-mo-te-na-shi | 416025 | [416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json](./416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momoka | 333192 | [333192-momoka.json](./333192-momoka.json) |
@@ -19836,6 +19837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Fate | 145961 | [145961-mystic-fate.json](./145961-mystic-fate.json) |
 | Mystic Fishing: A Fantasy Fishing RPG | 356077 | [356077-mystic-fishing-a-fantasy-fishing-rpg.json](./356077-mystic-fishing-a-fantasy-fishing-rpg.json) |
 | Mystic Fog Maze | 421455 | [421455-mystic-fog-maze.json](./421455-mystic-fog-maze.json) |
+| Mystic Force | 97631 | [97631-mystic-force.json](./97631-mystic-force.json) |
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
 | Mystic Formula | 61414 | [61414-mystic-formula.json](./61414-mystic-formula.json) |
 | Mystic Gals | 304826 | [304826-mystic-gals.json](./304826-mystic-gals.json) |
