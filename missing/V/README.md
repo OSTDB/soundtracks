@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Wings: Zero Pilot Series | 59351 | [59351-victory-wings-zero-pilot-series.json](./59351-victory-wings-zero-pilot-series.json) |
 | Victory Zone: Real Pachinko Simulator | 255086 | [255086-victory-zone-real-pachinko-simulator.json](./255086-victory-zone-real-pachinko-simulator.json) |
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
+| Vid Grid | 71297 | [71297-vid-grid.json](./71297-vid-grid.json) |
 | Vida | 327710 | [327710-vida.json](./327710-vida.json) |
 | Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
 | Vidalia's Adventure | 360502 | [360502-vidalias-adventure.json](./360502-vidalias-adventure.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage | 381061 | [381061-voyage.json](./381061-voyage.json) |
 | Voyage Century | 92395 | [92395-voyage-century.json](./92395-voyage-century.json) |
 | Voyage en Premiere Classe! | 359455 | [359455-voyage-en-premiere-classe.json](./359455-voyage-en-premiere-classe.json) |
+| Voyage into the Unknown | 71315 | [71315-voyage-into-the-unknown.json](./71315-voyage-into-the-unknown.json) |
 | Voyage of the Dead | 121959 | [121959-voyage-of-the-dead.json](./121959-voyage-of-the-dead.json) |
 | Voyage of the Starship Lexicon | 60486 | [60486-voyage-of-the-starship-lexicon.json](./60486-voyage-of-the-starship-lexicon.json) |
 | Voyage of the Valkyrie | 24882 | [24882-voyage-of-the-valkyrie.json](./24882-voyage-of-the-valkyrie.json) |
