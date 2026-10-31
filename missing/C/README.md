@@ -9632,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud JourneyVR | 424669 | [424669-cloud-journeyvr.json](./424669-cloud-journeyvr.json) |
 | Cloud Jumper | 140817 | [140817-cloud-jumper.json](./140817-cloud-jumper.json) |
 | Cloud Keeper: Shrine of Dal | 356039 | [356039-cloud-keeper-shrine-of-dal.json](./356039-cloud-keeper-shrine-of-dal.json) |
+| Cloud Knights | 83324 | [83324-cloud-knights.json](./83324-cloud-knights.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
 | Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
 | Cloud Miners | 132589 | [132589-cloud-miners.json](./132589-cloud-miners.json) |
@@ -10104,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
+| Code Geass: Collapse Requiem | 83141 | [83141-code-geass-collapse-requiem.json](./83141-code-geass-collapse-requiem.json) |
 | Code Geass: Genesic Re;Code | 169915 | [169915-code-geass-genesic-re-code.json](./169915-code-geass-genesic-re-code.json) |
 | Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
 | Code Geass: Lelouch of the Rebellion - Lost Colors | 66411 | [66411-code-geass-lelouch-of-the-rebellion-lost-colors.json](./66411-code-geass-lelouch-of-the-rebellion-lost-colors.json) |
@@ -11712,7 +11714,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Blood | 50473 | [50473-commander-blood.json](./50473-commander-blood.json) |
 | Commander Bug Wars | 290860 | [290860-commander-bug-wars.json](./290860-commander-bug-wars.json) |
 | Commander Cherry's Puzzled Journey | 19950 | [19950-commander-cherrys-puzzled-journey.json](./19950-commander-cherrys-puzzled-journey.json) |
+| Commander Cool | 83329 | [83329-commander-cool.json](./83329-commander-cool.json) |
 | Commander Cool 2 | 35620 | [35620-commander-cool-2.json](./35620-commander-cool-2.json) |
+| Commander Cool: Time Leap | 83330 | [83330-commander-cool-time-leap.json](./83330-commander-cool-time-leap.json) |
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
 | Commander Keen | 119309 | [119309-commander-keen.json](./119309-commander-keen.json) |
 | Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
