@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro's Battleship | 85991 | [85991-hasbros-battleship.json](./85991-hasbros-battleship.json) |
 | Hasegawa Nozomi | 355180 | [355180-hasegawa-nozomi.json](./355180-hasegawa-nozomi.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
+| Hash Rush | 121248 | [121248-hash-rush.json](./121248-hash-rush.json) |
 | Hashasky Shougun no Daibouken | 212577 | [212577-hashasky-shougun-no-daibouken.json](./212577-hashasky-shougun-no-daibouken.json) |
 | Hashi Infinite | 404055 | [404055-hashi-infinite.json](./404055-hashi-infinite.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
