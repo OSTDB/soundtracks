@@ -4985,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phil the Pill: Interstellar | 237437 | [237437-phil-the-pill-interstellar.json](./237437-phil-the-pill-interstellar.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
+| PhilGood | 121189 | [121189-philgood.json](./121189-philgood.json) |
 | Philip Muwanga's Hexy Trench | 68536 | [68536-philip-muwangas-hexy-trench.json](./68536-philip-muwangas-hexy-trench.json) |
 | Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
@@ -13231,6 +13232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
 | Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
 | Princesses Never Lose! | 117701 | [117701-princesses-never-lose.json](./117701-princesses-never-lose.json) |
+| Princesses vs Dragons: Royal Rumble | 121187 | [121187-princesses-vs-dragons-royal-rumble.json](./121187-princesses-vs-dragons-royal-rumble.json) |
 | PrincessGuardians | 114563 | [114563-princessguardians.json](./114563-princessguardians.json) |
 | PrincessGuardiansParodyH | 118343 | [118343-princessguardiansparodyh.json](./118343-princessguardiansparodyh.json) |
 | Principia | 407911 | [407911-principia.json](./407911-principia.json) |
