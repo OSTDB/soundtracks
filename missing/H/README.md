@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement | 28221 | [28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json](./28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json) |
 | Hamlet: The Text Adventure | 146192 | [146192-hamlet-the-text-adventure.json](./146192-hamlet-the-text-adventure.json) |
 | Hammal | 287521 | [287521-hammal.json](./287521-hammal.json) |
+| Hammena Dreams | 109267 | [109267-hammena-dreams.json](./109267-hammena-dreams.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
 | Hammer & Harvest: Dwarven Roots | 396742 | [396742-hammer-and-harvest-dwarven-roots.json](./396742-hammer-and-harvest-dwarven-roots.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
@@ -1793,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
 | Hardwood Rivals | 246260 | [246260-hardwood-rivals.json](./246260-hardwood-rivals.json) |
+| Hardwood Solitaire IV | 109225 | [109225-hardwood-solitaire-iv.json](./109225-hardwood-solitaire-iv.json) |
 | Hardwork Simulator | 238879 | [238879-hardwork-simulator.json](./238879-hardwork-simulator.json) |
 | HardWorker Simulator | 187663 | [187663-hardworker-simulator.json](./187663-hardworker-simulator.json) |
 | Hardworking Hero | 187698 | [187698-hardworking-hero.json](./187698-hardworking-hero.json) |
