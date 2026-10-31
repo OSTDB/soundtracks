@@ -3162,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Chromite 1950 VR | 86506 | [86506-operation-chromite-1950-vr.json](./86506-operation-chromite-1950-vr.json) |
 | Operation Cobra | 85598 | [85598-operation-cobra.json](./85598-operation-cobra.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
+| Operation Creature Feature | 93953 | [93953-operation-creature-feature.json](./93953-operation-creature-feature.json) |
 | Operation Crimson | 412272 | [412272-operation-crimson.json](./412272-operation-crimson.json) |
 | Operation CrossCounter | 94043 | [94043-operation-crosscounter.json](./94043-operation-crosscounter.json) |
 | Operation CrossCounter | 94755 | [94755-operation-crosscounter.json](./94755-operation-crosscounter.json) |
