@@ -6628,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride to Hell: Beatdown | 63559 | [63559-ride-to-hell-beatdown.json](./63559-ride-to-hell-beatdown.json) |
 | Ride to Hell: Retribution | 2110 | [2110-ride-to-hell-retribution.json](./2110-ride-to-hell-retribution.json) |
 | Ride to Hell: Route 666 | 63561 | [63561-ride-to-hell-route-666.json](./63561-ride-to-hell-route-666.json) |
+| Ride to hill: Offroad Hill Climb | 95784 | [95784-ride-to-hill-offroad-hill-climb.json](./95784-ride-to-hill-offroad-hill-climb.json) |
 | Ride Up | 374890 | [374890-ride-up.json](./374890-ride-up.json) |
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
 | Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
@@ -10108,6 +10109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rorschach | 94150 | [94150-rorschach.json](./94150-rorschach.json) |
 | Rory McIlroy Golf | 23216 | [23216-rory-mcilroy-golf.json](./23216-rory-mcilroy-golf.json) |
 | Rory McIlroy PGA Tour | 9651 | [9651-rory-mcilroy-pga-tour.json](./9651-rory-mcilroy-pga-tour.json) |
+| Rory Relay | 95769 | [95769-rory-relay.json](./95769-rory-relay.json) |
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
 | Rory's Restaurant: Winter Rush | 190001 | [190001-rorys-restaurant-winter-rush.json](./190001-rorys-restaurant-winter-rush.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
@@ -11238,6 +11240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run to Infinity: Impossible Mode | 230778 | [230778-run-to-infinity-impossible-mode.json](./230778-run-to-infinity-impossible-mode.json) |
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
+| Run VR | 95731 | [95731-run-vr.json](./95731-run-vr.json) |
 | Run Willy! | 215866 | [215866-run-willy.json](./215866-run-willy.json) |
 | Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
 | Run x Gun | 275543 | [275543-run-x-gun.json](./275543-run-x-gun.json) |
