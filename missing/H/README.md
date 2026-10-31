@@ -10311,6 +10311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Train Your Dragon | 7012 | [7012-how-to-train-your-dragon.json](./7012-how-to-train-your-dragon.json) |
 | How to Train Your Dragon 2 | 50737 | [50737-how-to-train-your-dragon-2.json](./50737-how-to-train-your-dragon-2.json) |
+| How to Train Your Dragon: Flight of the Night Fury | 65230 | [65230-how-to-train-your-dragon-flight-of-the-night-fury.json](./65230-how-to-train-your-dragon-flight-of-the-night-fury.json) |
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
 | How To Walk Out The Door | 381958 | [381958-how-to-walk-out-the-door.json](./381958-how-to-walk-out-the-door.json) |
