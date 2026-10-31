@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
 | Harp & Chrysanthemum | 356213 | [356213-harp-and-chrysanthemum.json](./356213-harp-and-chrysanthemum.json) |
+| Harpman: Fight Against Evil | 114658 | [114658-harpman-fight-against-evil.json](./114658-harpman-fight-against-evil.json) |
 | Harpoon & Battleset 2 | 92827 | [92827-harpoon-and-battleset-2.json](./92827-harpoon-and-battleset-2.json) |
 | Harpoon Cat | 104835 | [104835-harpoon-cat.json](./104835-harpoon-cat.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
