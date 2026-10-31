@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | Airbreak | 316035 | [316035-airbreak.json](./316035-airbreak.json) |
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
+| AirBurst Extreme | 71889 | [71889-airburst-extreme.json](./71889-airburst-extreme.json) |
 | Aircar | 121309 | [121309-aircar.json](./121309-aircar.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
@@ -15729,6 +15730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austen Translation | 68768 | [68768-austen-translation.json](./68768-austen-translation.json) |
 | Austerity X | 407587 | [407587-austerity-x.json](./407587-austerity-x.json) |
+| Austerlitz: Napoleon's Greatest Victory | 71954 | [71954-austerlitz-napoleons-greatest-victory.json](./71954-austerlitz-napoleons-greatest-victory.json) |
 | Austin Mini Racing | 90933 | [90933-austin-mini-racing.json](./90933-austin-mini-racing.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers Pinball | 45085 | [45085-austin-powers-pinball.json](./45085-austin-powers-pinball.json) |
