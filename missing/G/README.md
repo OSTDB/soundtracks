@@ -6258,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Keeper | 216617 | [216617-goo-keeper.json](./216617-goo-keeper.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
+| Goo! Goo! Soundy | 73039 | [73039-goo-goo-soundy.json](./73039-goo-goo-soundy.json) |
 | Goob Wants an Android Girlfriend | 390244 | [390244-goob-wants-an-android-girlfriend.json](./390244-goob-wants-an-android-girlfriend.json) |
 | Gooba Ball | 300696 | [300696-gooba-ball.json](./300696-gooba-ball.json) |
 | GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
