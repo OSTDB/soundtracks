@@ -16552,6 +16552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Girls: Inner Flame | 410374 | [410374-puzzle-girls-inner-flame.json](./410374-puzzle-girls-inner-flame.json) |
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
 | Puzzle Girls: Seductive Nights | 410373 | [410373-puzzle-girls-seductive-nights.json](./410373-puzzle-girls-seductive-nights.json) |
+| Puzzle Glow : Brain Puzzle Game Collection | 109223 | [109223-puzzle-glow-brain-puzzle-game-collection.json](./109223-puzzle-glow-brain-puzzle-game-collection.json) |
 | Puzzle Go! | 251729 | [251729-puzzle-go.json](./251729-puzzle-go.json) |
 | Puzzle Gods | 232103 | [232103-puzzle-gods.json](./232103-puzzle-gods.json) |
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
