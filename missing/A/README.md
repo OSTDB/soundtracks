@@ -7669,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Most Eligible: Book 3 | 313693 | [313693-americas-most-eligible-book-3.json](./313693-americas-most-eligible-book-3.json) |
 | America's Next Top Model | 50613 | [50613-americas-next-top-model.json](./50613-americas-next-top-model.json) |
 | America's Next Top Model | 78528 | [78528-americas-next-top-model.json](./78528-americas-next-top-model.json) |
+| America's Next Top Model Game | 95128 | [95128-americas-next-top-model-game.json](./95128-americas-next-top-model-game.json) |
 | America's Next Top Pornstar | 304675 | [304675-americas-next-top-pornstar.json](./304675-americas-next-top-pornstar.json) |
 | America's Retribution | 98763 | [98763-americas-retribution.json](./98763-americas-retribution.json) |
 | America's Retribution Term 2 | 117796 | [117796-americas-retribution-term-2.json](./117796-americas-retribution-term-2.json) |
@@ -9166,6 +9167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalia Memories | 341141 | [341141-animalia-memories.json](./341141-animalia-memories.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
+| Animalia: Interactive Story & Animal Game Kids | 95109 | [95109-animalia-interactive-story-and-animal-game-kids.json](./95109-animalia-interactive-story-and-animal-game-kids.json) |
 | Animalia: The Quiz Game | 68752 | [68752-animalia-the-quiz-game.json](./68752-animalia-the-quiz-game.json) |
 | Animalism | 267290 | [267290-animalism.json](./267290-animalism.json) |
 | Animalistic | 211048 | [211048-animalistic.json](./211048-animalistic.json) |
@@ -12392,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arizona Sunshine II | 250628 | [250628-arizona-sunshine-ii.json](./250628-arizona-sunshine-ii.json) |
 | Arizona Sunshine VR Remake | 313768 | [313768-arizona-sunshine-vr-remake.json](./313768-arizona-sunshine-vr-remake.json) |
 | Arizona Sunshine: Dead Man | 171323 | [171323-arizona-sunshine-dead-man.json](./171323-arizona-sunshine-dead-man.json) |
+| ARK -the lost fairytale- | 95143 | [95143-ark-the-lost-fairytale.json](./95143-ark-the-lost-fairytale.json) |
 | Ark and Ade | 157022 | [157022-ark-and-ade.json](./157022-ark-and-ade.json) |
 | Ark Area | 40016 | [40016-ark-area.json](./40016-ark-area.json) |
 | ARK BOX Unlimited | 30576 | [30576-ark-box-unlimited.json](./30576-ark-box-unlimited.json) |
