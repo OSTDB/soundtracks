@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 217956 | [217956-jurassic-park.json](./217956-jurassic-park.json) |
 | Jurassic Park | 25880 | [25880-jurassic-park.json](./25880-jurassic-park.json) |
 | Jurassic Park | 4519 | [4519-jurassic-park.json](./4519-jurassic-park.json) |
+| Jurassic Park | 75526 | [75526-jurassic-park.json](./75526-jurassic-park.json) |
 | Jurassic Park : Aftermath | 8367 | [8367-jurassic-park-aftermath.json](./8367-jurassic-park-aftermath.json) |
 | Jurassic Park III | 40093 | [40093-jurassic-park-iii.json](./40093-jurassic-park-iii.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
