@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyphant escape | 115974 | [115974-jellyphant-escape.json](./115974-jellyphant-escape.json) |
 | JellyStar | 392090 | [392090-jellystar.json](./392090-jellystar.json) |
 | Jellyx | 120164 | [120164-jellyx.json](./120164-jellyx.json) |
+| Jen Burger Restaurant | 104364 | [104364-jen-burger-restaurant.json](./104364-jen-burger-restaurant.json) |
 | Jen Saves Ben | 223704 | [223704-jen-saves-ben.json](./223704-jen-saves-ben.json) |
 | Jendo: Origins | 161323 | [161323-jendo-origins.json](./161323-jendo-origins.json) |
 | Jenesis | 141115 | [141115-jenesis.json](./141115-jenesis.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet-Boot Jack | 79119 | [79119-jet-boot-jack.json](./79119-jet-boot-jack.json) |
 | Jet-Getters | 61715 | [61715-jet-getters.json](./61715-jet-getters.json) |
 | Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
+| Jet-Story 2018 | 104390 | [104390-jet-story-2018.json](./104390-jet-story-2018.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetbike Gang | 207233 | [207233-jetbike-gang.json](./207233-jetbike-gang.json) |
 | Jetboard Joust | 126670 | [126670-jetboard-joust.json](./126670-jetboard-joust.json) |
@@ -1747,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles: Fantasy Landscapes | 240098 | [240098-jigsaw-puzzles-fantasy-landscapes.json](./240098-jigsaw-puzzles-fantasy-landscapes.json) |
 | Jigsaw Puzzles: Master Artists of Old | 162207 | [162207-jigsaw-puzzles-master-artists-of-old.json](./162207-jigsaw-puzzles-master-artists-of-old.json) |
 | Jigsaw Puzzles: Photo Puzzles | 232304 | [232304-jigsaw-puzzles-photo-puzzles.json](./232304-jigsaw-puzzles-photo-puzzles.json) |
+| Jigsaw Puzzles: Puzzle Game | 104393 | [104393-jigsaw-puzzles-puzzle-game.json](./104393-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Puzzles+ by WallpaperFusion | 90451 | [90451-jigsaw-puzzles-by-wallpaperfusion.json](./90451-jigsaw-puzzles-by-wallpaperfusion.json) |
 | Jigsaw Realms: Lost Isles | 387412 | [387412-jigsaw-realms-lost-isles.json](./387412-jigsaw-realms-lost-isles.json) |
@@ -2826,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juken Jigoku | 127745 | [127745-juken-jigoku.json](./127745-juken-jigoku.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | Jules Verne's Journey to the center of the moon | 95908 | [95908-jules-vernes-journey-to-the-center-of-the-moon.json](./95908-jules-vernes-journey-to-the-center-of-the-moon.json) |
+| Jules Verne's Mystery of the Nautilus | 104368 | [104368-jules-vernes-mystery-of-the-nautilus.json](./104368-jules-vernes-mystery-of-the-nautilus.json) |
 | Jules Verne's Return to Mysterious Island - Director's Cut | 89046 | [89046-jules-vernes-return-to-mysterious-island-directors-cut.json](./89046-jules-vernes-return-to-mysterious-island-directors-cut.json) |
 | Jules Verne's Return to Mysterious Island 2 - Director's Cut Lite | 103989 | [103989-jules-vernes-return-to-mysterious-island-2-directors-cut-lite.json](./103989-jules-vernes-return-to-mysterious-island-2-directors-cut-lite.json) |
 | Julia Was Alone | 312967 | [312967-julia-was-alone.json](./312967-julia-was-alone.json) |
