@@ -8875,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoosegow | 207213 | [207213-hoosegow.json](./207213-hoosegow.json) |
 | Hoosegow: Prison Boss | 363694 | [363694-hoosegow-prison-boss.json](./363694-hoosegow-prison-boss.json) |
 | Hoosegow: Prison Survival | 399926 | [399926-hoosegow-prison-survival.json](./399926-hoosegow-prison-survival.json) |
+| Hoosier City | 70196 | [70196-hoosier-city.json](./70196-hoosier-city.json) |
 | Hoover Dam | 272923 | [272923-hoover-dam.json](./272923-hoover-dam.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hoovernauts | 149248 | [149248-hoovernauts.json](./149248-hoovernauts.json) |
@@ -9714,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Ultimate Stunt Edition | 169205 | [169205-hot-wheels-unleashed-ultimate-stunt-edition.json](./169205-hot-wheels-unleashed-ultimate-stunt-edition.json) |
 | Hot Wheels Velocity X | 243199 | [243199-hot-wheels-velocity-x.json](./243199-hot-wheels-velocity-x.json) |
 | Hot Wheels Velocity X | 2653 | [2653-hot-wheels-velocity-x.json](./2653-hot-wheels-velocity-x.json) |
+| Hot Wheels Williams F1: Team Racer | 70177 | [70177-hot-wheels-williams-f1-team-racer.json](./70177-hot-wheels-williams-f1-team-racer.json) |
 | Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
 | Hot Wheels: All Out | 49283 | [49283-hot-wheels-all-out.json](./49283-hot-wheels-all-out.json) |
 | Hot Wheels: Barbie Dream Camper | 262511 | [262511-hot-wheels-barbie-dream-camper.json](./262511-hot-wheels-barbie-dream-camper.json) |
