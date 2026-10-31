@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Concrete | 369223 | [369223-raw-concrete.json](./369223-raw-concrete.json) |
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
+| Raw Footage | 89605 | [89605-raw-footage.json](./89605-raw-footage.json) |
 | Raw Metal | 236316 | [236316-raw-metal.json](./236316-raw-metal.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Raw Pursuit | 209311 | [209311-raw-pursuit.json](./209311-raw-pursuit.json) |
@@ -9776,6 +9777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romans From Mars 360 | 81126 | [81126-romans-from-mars-360.json](./81126-romans-from-mars-360.json) |
 | Romans: Age of Caesar | 172932 | [172932-romans-age-of-caesar.json](./172932-romans-age-of-caesar.json) |
 | Romantasia | 118282 | [118282-romantasia.json](./118282-romantasia.json) |
+| Romantic | 89591 | [89591-romantic.json](./89591-romantic.json) |
 | Romantic Date: The Perfect Boy | 213807 | [213807-romantic-date-the-perfect-boy.json](./213807-romantic-date-the-perfect-boy.json) |
 | Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
 | Romantic Encounters at the Dome | 12753 | [12753-romantic-encounters-at-the-dome.json](./12753-romantic-encounters-at-the-dome.json) |
