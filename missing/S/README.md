@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Xing Dui | 257235 | [257235-san-xing-dui.json](./257235-san-xing-dui.json) |
 | San Zoolin | 202132 | [202132-san-zoolin.json](./202132-san-zoolin.json) |
 | San-nin Mahjong | 54945 | [54945-san-nin-mahjong.json](./54945-san-nin-mahjong.json) |
+| San-X Land: Theme Park de Asobou | 98165 | [98165-san-x-land-theme-park-de-asobou.json](./98165-san-x-land-theme-park-de-asobou.json) |
 | Sanabi | 144569 | [144569-sanabi.json](./144569-sanabi.json) |
 | Sanabi: A Haunted Day | 377665 | [377665-sanabi-a-haunted-day.json](./377665-sanabi-a-haunted-day.json) |
 | Sanabi: A Haunted Day - Signal Redux Edition | 396192 | [396192-sanabi-a-haunted-day-signal-redux-edition.json](./396192-sanabi-a-haunted-day-signal-redux-edition.json) |
@@ -14549,13 +14550,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban 2 | 407226 | [407226-sokoban-2.json](./407226-sokoban-2.json) |
 | Sokoban 3D | 255281 | [255281-sokoban-3d.json](./255281-sokoban-3d.json) |
+| Sokoban Basic | 98182 | [98182-sokoban-basic.json](./98182-sokoban-basic.json) |
+| Sokoban Basic 2 | 98179 | [98179-sokoban-basic-2.json](./98179-sokoban-basic-2.json) |
 | Sokoban Block Puzzle | 215315 | [215315-sokoban-block-puzzle.json](./215315-sokoban-block-puzzle.json) |
 | Sokoban Cats | 216053 | [216053-sokoban-cats.json](./216053-sokoban-cats.json) |
+| Sokoban Densetsu: Hikari to Yami no Kuni | 98181 | [98181-sokoban-densetsu-hikari-to-yami-no-kuni.json](./98181-sokoban-densetsu-hikari-to-yami-no-kuni.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
 | Sokoban In Sokoland | 177719 | [177719-sokoban-in-sokoland.json](./177719-sokoban-in-sokoland.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
+| Sokoban Nanmon Shinan | 98180 | [98180-sokoban-nanmon-shinan.json](./98180-sokoban-nanmon-shinan.json) |
 | Sokoban Next | 99478 | [99478-sokoban-next.json](./99478-sokoban-next.json) |
+| Sokoban Revenge | 98185 | [98185-sokoban-revenge.json](./98185-sokoban-revenge.json) |
+| Sokoban Revenge SX-68K: User no Gyakushuu-hen | 98184 | [98184-sokoban-revenge-sx-68k-user-no-gyakushuu-hen.json](./98184-sokoban-revenge-sx-68k-user-no-gyakushuu-hen.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokoban World | 38102 | [38102-sokoban-world.json](./38102-sokoban-world.json) |
 | Sokoban World 2 | 311344 | [311344-sokoban-world-2.json](./311344-sokoban-world-2.json) |
@@ -29505,7 +29512,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong P.V Custom | 342018 | [342018-super-real-mahjong-p-v-custom.json](./342018-super-real-mahjong-p-v-custom.json) |
 | Super Real Mahjong P7 | 119320 | [119320-super-real-mahjong-p7.json](./119320-super-real-mahjong-p7.json) |
 | Super Real Mahjong P7 | 342132 | [342132-super-real-mahjong-p7.json](./342132-super-real-mahjong-p7.json) |
+| Super Real Mahjong PI | 98198 | [98198-super-real-mahjong-pi.json](./98198-super-real-mahjong-pi.json) |
+| Super Real Mahjong PII | 98199 | [98199-super-real-mahjong-pii.json](./98199-super-real-mahjong-pii.json) |
+| Super Real Mahjong PII & PIII | 98196 | [98196-super-real-mahjong-pii-and-piii.json](./98196-super-real-mahjong-pii-and-piii.json) |
 | Super Real Mahjong PII & PIII Custom | 342017 | [342017-super-real-mahjong-pii-and-piii-custom.json](./342017-super-real-mahjong-pii-and-piii-custom.json) |
+| Super Real Mahjong PIII | 98195 | [98195-super-real-mahjong-piii.json](./98195-super-real-mahjong-piii.json) |
 | Super Real Mahjong PIV | 347616 | [347616-super-real-mahjong-piv.json](./347616-super-real-mahjong-piv.json) |
 | Super Real Mahjong PIV + Aishou Shindan | 347619 | [347619-super-real-mahjong-piv-aishou-shindan.json](./347619-super-real-mahjong-piv-aishou-shindan.json) |
 | Super Real Mahjong PIV Custom | 342013 | [342013-super-real-mahjong-piv-custom.json](./342013-super-real-mahjong-piv-custom.json) |
@@ -29514,6 +29525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong PV Paradise: All-Star 4-nin Uchi | 58679 | [58679-super-real-mahjong-pv-paradise-all-star-4-nin-uchi.json](./58679-super-real-mahjong-pv-paradise-all-star-4-nin-uchi.json) |
 | Super Real Mahjong PV: Paradise | 42227 | [42227-super-real-mahjong-pv-paradise.json](./42227-super-real-mahjong-pv-paradise.json) |
 | Super Real Mahjong PVI | 342131 | [342131-super-real-mahjong-pvi.json](./342131-super-real-mahjong-pvi.json) |
+| Super Real Mahjong PVI | 98194 | [98194-super-real-mahjong-pvi.json](./98194-super-real-mahjong-pvi.json) |
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
 | Super Real Mahjong Venus Returns | 410297 | [410297-super-real-mahjong-venus-returns.json](./410297-super-real-mahjong-venus-returns.json) |
 | Super Real Mahjong vs. | 307701 | [307701-super-real-mahjong-vs.json](./307701-super-real-mahjong-vs.json) |
