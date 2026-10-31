@@ -3646,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Table Sports | 50548 | [50548-vr-table-sports.json](./50548-vr-table-sports.json) |
 | VR Tennis | 247042 | [247042-vr-tennis.json](./247042-vr-tennis.json) |
 | VR Tennis Online | 53016 | [53016-vr-tennis-online.json](./53016-vr-tennis-online.json) |
+| VR the Anime Girls Method | 91065 | [91065-vr-the-anime-girls-method.json](./91065-vr-the-anime-girls-method.json) |
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
 | VR Thrills | 257804 | [257804-vr-thrills.json](./257804-vr-thrills.json) |
 | VR Time Machine Dinosaur Park (+ Cardboard) | 95785 | [95785-vr-time-machine-dinosaur-park-cardboard.json](./95785-vr-time-machine-dinosaur-park-cardboard.json) |
