@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
 | Galaxy Trek | 197717 | [197717-galaxy-trek.json](./197717-galaxy-trek.json) |
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
+| Galaxy Trek | 80258 | [80258-galaxy-trek.json](./80258-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
 | Galaxy War | 171857 | [171857-galaxy-war.json](./171857-galaxy-war.json) |
 | Galaxy War | 287514 | [287514-galaxy-war.json](./287514-galaxy-war.json) |
@@ -7930,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Pirate | 101882 | [101882-great-pirate.json](./101882-great-pirate.json) |
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
 | Great Powers At War | 325898 | [325898-great-powers-at-war.json](./325898-great-powers-at-war.json) |
+| Great Qin Warriors | 80276 | [80276-great-qin-warriors.json](./80276-great-qin-warriors.json) |
 | Great Race: Route 66 | 233111 | [233111-great-race-route-66.json](./233111-great-race-route-66.json) |
 | Great Sam | 26209 | [26209-great-sam.json](./26209-great-sam.json) |
 | Great Secrets: Da Vinci | 72529 | [72529-great-secrets-da-vinci.json](./72529-great-secrets-da-vinci.json) |
@@ -9978,6 +9980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunKinger Bonanza | 22016 | [22016-gunkinger-bonanza.json](./22016-gunkinger-bonanza.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
+| Gunlimb | 80115 | [80115-gunlimb.json](./80115-gunlimb.json) |
 | GunLives Shooting | 241808 | [241808-gunlives-shooting.json](./241808-gunlives-shooting.json) |
 | Gunlocked | 199248 | [199248-gunlocked.json](./199248-gunlocked.json) |
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
