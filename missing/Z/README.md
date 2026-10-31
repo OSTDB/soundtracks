@@ -829,7 +829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Gunner | 10447 | [10447-zero-gunner.json](./10447-zero-gunner.json) |
 | Zero Gunner 2 | 21014 | [21014-zero-gunner-2.json](./21014-zero-gunner-2.json) |
 | Zero Hero | 287678 | [287678-zero-hero.json](./287678-zero-hero.json) |
-| Zero Hour | 146042 | [146042-zero-hour.json](./146042-zero-hour.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero Hour Reforged | 421840 | [421840-zero-hour-reforged.json](./421840-zero-hour-reforged.json) |
 | Zero Hour: Aesthetics Pack "Gold" | 353348 | [353348-zero-hour-aesthetics-pack-gold.json](./353348-zero-hour-aesthetics-pack-gold.json) |
