@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare to Speed | 244089 | [244089-dare-to-speed.json](./244089-dare-to-speed.json) |
 | Dare to Spread | 238696 | [238696-dare-to-spread.json](./238696-dare-to-spread.json) |
 | Dare to Stay | 207014 | [207014-dare-to-stay.json](./207014-dare-to-stay.json) |
+| Dare! Truth or Dare Would You? | 106867 | [106867-dare-truth-or-dare-would-you.json](./106867-dare-truth-or-dare-would-you.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredemo Kantan! Watanabe Akira no Tsume Shogi | 269751 | [269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json](./269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json) |
 | Daredevil | 18254 | [18254-daredevil.json](./18254-daredevil.json) |
@@ -2494,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Decay | 322616 | [322616-dawn-of-decay.json](./322616-dawn-of-decay.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of Defiance | 305290 | [305290-dawn-of-defiance.json](./305290-dawn-of-defiance.json) |
+| Dawn of Destruction | 106844 | [106844-dawn-of-destruction.json](./106844-dawn-of-destruction.json) |
 | Dawn of Discovery | 662 | [662-dawn-of-discovery.json](./662-dawn-of-discovery.json) |
 | Dawn of Discovery: The Harbor | 66759 | [66759-dawn-of-discovery-the-harbor.json](./66759-dawn-of-discovery-the-harbor.json) |
 | Dawn of Discovery: Venice | 8227 | [8227-dawn-of-discovery-venice.json](./8227-dawn-of-discovery-venice.json) |
@@ -7592,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
 | Diagnosis: Multitude | 196434 | [196434-diagnosis-multitude.json](./196434-diagnosis-multitude.json) |
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
+| Dial Pilot | 106839 | [106839-dial-pilot.json](./106839-dial-pilot.json) |
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
 | Dialed In | 82854 | [82854-dialed-in.json](./82854-dialed-in.json) |
 | Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
@@ -15341,6 +15344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
 | Drop the Ball! | 89736 | [89736-drop-the-ball.json](./89736-drop-the-ball.json) |
+| Drop the Ballz | 106866 | [106866-drop-the-ballz.json](./106866-drop-the-ballz.json) |
 | Drop the Ballz | 106932 | [106932-drop-the-ballz.json](./106932-drop-the-ballz.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
 | Drop the Clock | 91223 | [91223-drop-the-clock.json](./91223-drop-the-clock.json) |
