@@ -11050,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumia Roller | 134855 | [134855-rumia-roller.json](./134855-rumia-roller.json) |
 | Rumia Throws! | 264255 | [264255-rumia-throws.json](./264255-rumia-throws.json) |
 | Rumic Harrier | 266330 | [266330-rumic-harrier.json](./266330-rumic-harrier.json) |
+| Rumii | 103764 | [103764-rumii.json](./103764-rumii.json) |
 | Ruminant 4444 | 399911 | [399911-ruminant-4444.json](./399911-ruminant-4444.json) |
 | Rumination | 364638 | [364638-rumination.json](./364638-rumination.json) |
 | Rummel & Rabalder: Dr. Franks Mask | 154830 | [154830-rummel-and-rabalder-dr-franks-mask.json](./154830-rummel-and-rabalder-dr-franks-mask.json) |
