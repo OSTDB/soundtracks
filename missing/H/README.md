@@ -3628,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helios Horizon | 290496 | [290496-helios-horizon.json](./290496-helios-horizon.json) |
 | Helios Hotel: The Night Shift | 334542 | [334542-helios-hotel-the-night-shift.json](./334542-helios-hotel-the-night-shift.json) |
 | Helios Rising Heroes | 169582 | [169582-helios-rising-heroes.json](./169582-helios-rising-heroes.json) |
+| Heliotrope: Sore wa Shi ni Itaru Kami no Ai | 68399 | [68399-heliotrope-sore-wa-shi-ni-itaru-kami-no-ai.json](./68399-heliotrope-sore-wa-shi-ni-itaru-kami-no-ai.json) |
 | Heliotropism | 153848 | [153848-heliotropism.json](./153848-heliotropism.json) |
 | Helipopper | 317433 | [317433-helipopper.json](./317433-helipopper.json) |
 | HeliSquad: Covert Operations | 204338 | [204338-helisquad-covert-operations.json](./204338-helisquad-covert-operations.json) |
