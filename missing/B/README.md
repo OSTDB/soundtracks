@@ -3183,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden 2 Plus | 225276 | [225276-battle-arena-toshinden-2-plus.json](./225276-battle-arena-toshinden-2-plus.json) |
 | Battle Arena Toshinden 3 | 1415 | [1415-battle-arena-toshinden-3.json](./1415-battle-arena-toshinden-3.json) |
 | Battle Arena Toshinden URA: Ultimate Revenge Attack | 77987 | [77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json](./77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json) |
+| Battle Arena: Euro Wars | 110620 | [110620-battle-arena-euro-wars.json](./110620-battle-arena-euro-wars.json) |
 | Battle Arena: Robot Apocalypse | 148886 | [148886-battle-arena-robot-apocalypse.json](./148886-battle-arena-robot-apocalypse.json) |
 | Battle Army | 81212 | [81212-battle-army.json](./81212-battle-army.json) |
 | Battle Athletess Daiundoukai | 45419 | [45419-battle-athletess-daiundoukai.json](./45419-battle-athletess-daiundoukai.json) |
@@ -8387,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
 | Blackfaun | 34279 | [34279-blackfaun.json](./34279-blackfaun.json) |
 | Blackfire Crusade | 403082 | [403082-blackfire-crusade.json](./403082-blackfire-crusade.json) |
+| Blackfoot Burrows | 110640 | [110640-blackfoot-burrows.json](./110640-blackfoot-burrows.json) |
 | Blackfrost: The Long Dark 2 | 325596 | [325596-blackfrost-the-long-dark-2.json](./325596-blackfrost-the-long-dark-2.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
@@ -9255,6 +9257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
 | Bliss | 17685 | [17685-bliss.json](./17685-bliss.json) |
+| Bliss Maze | 110658 | [110658-bliss-maze.json](./110658-bliss-maze.json) |
 | Bliss Valley | 336062 | [336062-bliss-valley.json](./336062-bliss-valley.json) |
 | Blister Blight | 290615 | [290615-blister-blight.json](./290615-blister-blight.json) |
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
@@ -15124,6 +15127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddies in a Ball | 349905 | [349905-buddies-in-a-ball.json](./349905-buddies-in-a-ball.json) |
 | Buddies in Boxes | 244126 | [244126-buddies-in-boxes.json](./244126-buddies-in-boxes.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
+| Buddinpals: Take One Home With You !! | 110639 | [110639-buddinpals-take-one-home-with-you.json](./110639-buddinpals-take-one-home-with-you.json) |
 | Buddy | 32558 | [32558-buddy.json](./32558-buddy.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
 | Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
