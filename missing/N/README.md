@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nao Kalfsins | 176827 | [176827-nao-kalfsins.json](./176827-nao-kalfsins.json) |
 | Nao's Love Triangle: Hentai Puzzle 18+ | 312690 | [312690-naos-love-triangle-hentai-puzzle-18.json](./312690-naos-love-triangle-hentai-puzzle-18.json) |
 | Naoki | 326270 | [326270-naoki.json](./326270-naoki.json) |
+| Naoki Tales | 98211 | [98211-naoki-tales.json](./98211-naoki-tales.json) |
 | Naoko to Hide-bou: Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou | 268486 | [268486-naoko-to-hide-bou-kanji-no-tensai-1-bushu-hen-bushu-no-namae-ga-tanoshii-chou-kioku-hou.json](./268486-naoko-to-hide-bou-kanji-no-tensai-1-bushu-hen-bushu-no-namae-ga-tanoshii-chou-kioku-hou.json) |
 | Naoko to Hide-bou: Sansuu no Tensai 1: Wa to Sa no Bunshoudai Tsurukamezan Part I | 268488 | [268488-naoko-to-hide-bou-sansuu-no-tensai-1-wa-to-sa-no-bunshoudai-tsurukamezan-part-i.json](./268488-naoko-to-hide-bou-sansuu-no-tensai-1-wa-to-sa-no-bunshoudai-tsurukamezan-part-i.json) |
 | Naoko to Hide-bou: Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I | 268489 | [268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json](./268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json) |
@@ -2464,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Neptunian Nightmare | 329484 | [329484-neptunian-nightmare.json](./329484-neptunian-nightmare.json) |
 | Neratte chu | 40989 | [40989-neratte-chu.json](./40989-neratte-chu.json) |
+| Neratte! Tobashite! Rilakkuma GuraGura Sweets Tower | 98177 | [98177-neratte-tobashite-rilakkuma-guragura-sweets-tower.json](./98177-neratte-tobashite-rilakkuma-guragura-sweets-tower.json) |
 | Nerd Blocks | 254673 | [254673-nerd-blocks.json](./254673-nerd-blocks.json) |
 | Nerd Bus | 184264 | [184264-nerd-bus.json](./184264-nerd-bus.json) |
 | Nerd Simulator | 312531 | [312531-nerd-simulator.json](./312531-nerd-simulator.json) |
@@ -3603,6 +3605,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nichibutsu Collection 2 | 37905 | [37905-nichibutsu-collection-2.json](./37905-nichibutsu-collection-2.json) |
 | Nichibutsu Mahjong Collection | 251087 | [251087-nichibutsu-mahjong-collection.json](./251087-nichibutsu-mahjong-collection.json) |
 | Nichibutsu Mahjong III: Mahjong G Men | 48804 | [48804-nichibutsu-mahjong-iii-mahjong-g-men.json](./48804-nichibutsu-mahjong-iii-mahjong-g-men.json) |
+| Nichibutsu Mahjong: Joshikou Meijinsen | 98201 | [98201-nichibutsu-mahjong-joshikou-meijinsen.json](./98201-nichibutsu-mahjong-joshikou-meijinsen.json) |
+| Nichibutsu Mahjong: Yoshimoto Gekijou-hen | 98200 | [98200-nichibutsu-mahjong-yoshimoto-gekijou-hen.json](./98200-nichibutsu-mahjong-yoshimoto-gekijou-hen.json) |
 | Nichijou: Uchuujin | 63077 | [63077-nichijou-uchuujin.json](./63077-nichijou-uchuujin.json) |
 | Nicholas' Weird Adventure | 387941 | [387941-nicholas-weird-adventure.json](./387941-nicholas-weird-adventure.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
