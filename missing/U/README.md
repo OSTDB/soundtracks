@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unleash Hell | 119643 | [119643-unleash-hell.json](./119643-unleash-hell.json) |
 | Unleash The Avatar | 395986 | [395986-unleash-the-avatar.json](./395986-unleash-the-avatar.json) |
 | Unleashed | 334938 | [334938-unleashed.json](./334938-unleashed.json) |
+| Unleashed | 80858 | [80858-unleashed.json](./80858-unleashed.json) |
 | Unless | 314962 | [314962-unless.json](./314962-unless.json) |
 | Unless Terminalia | 399081 | [399081-unless-terminalia.json](./399081-unless-terminalia.json) |
 | Unlich | 315711 | [315711-unlich.json](./315711-unlich.json) |
