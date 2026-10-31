@@ -7422,6 +7422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
+| Extreme DareDevil | 99349 | [99349-extreme-daredevil.json](./99349-extreme-daredevil.json) |
 | Extreme Dash | 262468 | [262468-extreme-dash.json](./262468-extreme-dash.json) |
 | Extreme Dash: Reloaded | 99453 | [99453-extreme-dash-reloaded.json](./99453-extreme-dash-reloaded.json) |
 | Extreme Demolition | 78541 | [78541-extreme-demolition.json](./78541-extreme-demolition.json) |
