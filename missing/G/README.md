@@ -2496,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene Rain | 105269 | [105269-gene-rain.json](./105269-gene-rain.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Gene Rain Wind Tower: Ultimate Edition | 249219 | [249219-gene-rain-wind-tower-ultimate-edition.json](./249219-gene-rain-wind-tower-ultimate-edition.json) |
+| Gene Rain: Wind Tower | 123736 | [123736-gene-rain-wind-tower.json](./123736-gene-rain-wind-tower.json) |
 | Gene Rain: Wind Tower - Sky City's Rebirth | 170738 | [170738-gene-rain-wind-tower-sky-citys-rebirth.json](./170738-gene-rain-wind-tower-sky-citys-rebirth.json) |
 | Gene Rain: Wind Tower - Way to Heaven | 170739 | [170739-gene-rain-wind-tower-way-to-heaven.json](./170739-gene-rain-wind-tower-way-to-heaven.json) |
 | GeneBreak | 357180 | [357180-genebreak.json](./357180-genebreak.json) |
@@ -9417,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Ultimate Edition Contents Kit | 255113 | [255113-guilty-gear-strive-ultimate-edition-contents-kit.json](./255113-guilty-gear-strive-ultimate-edition-contents-kit.json) |
 | Guilty Gear: Strive + Season Pass 1 | 254965 | [254965-guilty-gear-strive-season-pass-1.json](./254965-guilty-gear-strive-season-pass-1.json) |
 | Guilty Me | 254433 | [254433-guilty-me.json](./254433-guilty-me.json) |
+| Guilty Parade | 123766 | [123766-guilty-parade.json](./123766-guilty-parade.json) |
 | Guilty Parade: Episode 3 | 196050 | [196050-guilty-parade-episode-3.json](./196050-guilty-parade-episode-3.json) |
 | Guilty Parade: Episode 4 | 244423 | [244423-guilty-parade-episode-4.json](./244423-guilty-parade-episode-4.json) |
 | Guilty Party | 66982 | [66982-guilty-party.json](./66982-guilty-party.json) |
