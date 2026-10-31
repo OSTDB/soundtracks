@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: Spin Stadium | 142288 | [142288-ed-edd-n-eddy-spin-stadium.json](./142288-ed-edd-n-eddy-spin-stadium.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 248473 | [248473-ed-edd-n-eddy-the-mis-edventures.json](./248473-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
+| Ed, Edd n Eddy: The Mis-Edventures - Midway Promotional Game | 86460 | [86460-ed-edd-n-eddy-the-mis-edventures-midway-promotional-game.json](./86460-ed-edd-n-eddy-the-mis-edventures-midway-promotional-game.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
 | Ed, Edd, n' Eddy: Night of the Living Ed | 364540 | [364540-ed-edd-n-eddy-night-of-the-living-ed.json](./364540-ed-edd-n-eddy-night-of-the-living-ed.json) |
 | Ed's world story | 246850 | [246850-eds-world-story.json](./246850-eds-world-story.json) |
@@ -5536,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Magic | 122918 | [122918-eternal-magic.json](./122918-eternal-magic.json) |
 | Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
 | Eternal Mahjong | 237594 | [237594-eternal-mahjong.json](./237594-eternal-mahjong.json) |
+| Eternal Man: Forest | 86329 | [86329-eternal-man-forest.json](./86329-eternal-man-forest.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal Man: Mountain | 95194 | [95194-eternal-man-mountain.json](./95194-eternal-man-mountain.json) |
 | Eternal Man: Village | 90817 | [90817-eternal-man-village.json](./90817-eternal-man-village.json) |
