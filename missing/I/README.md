@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Awards 2 | 101701 | [101701-idle-awards-2.json](./101701-idle-awards-2.json) |
 | Idle Badger | 378007 | [378007-idle-badger.json](./378007-idle-badger.json) |
 | Idle Baker Boss | 211163 | [211163-idle-baker-boss.json](./211163-idle-baker-boss.json) |
+| Idle Ball Crush | 104389 | [104389-idle-ball-crush.json](./104389-idle-ball-crush.json) |
 | Idle Balls | 87047 | [87047-idle-balls.json](./87047-idle-balls.json) |
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
 | Idle Bank Tycoon | 228143 | [228143-idle-bank-tycoon.json](./228143-idle-bank-tycoon.json) |
@@ -1386,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Kitties Online | 314316 | [314316-idle-kitties-online.json](./314316-idle-kitties-online.json) |
+| Idle Knife | 104353 | [104353-idle-knife.json](./104353-idle-knife.json) |
 | Idle Knight | 407183 | [407183-idle-knight.json](./407183-idle-knight.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
 | Idle Knights | 220174 | [220174-idle-knights.json](./220174-idle-knights.json) |
