@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warbox Sandbox | 204926 | [204926-warbox-sandbox.json](./204926-warbox-sandbox.json) |
+| WarBreeds | 71308 | [71308-warbreeds.json](./71308-warbreeds.json) |
 | Warbringers of Angrul | 278246 | [278246-warbringers-of-angrul.json](./278246-warbringers-of-angrul.json) |
 | WarBrokers.io | 108120 | [108120-warbrokers-io.json](./108120-warbrokers-io.json) |
 | Warbrush | 125661 | [125661-warbrush.json](./125661-warbrush.json) |
@@ -3181,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf Stand-alone | 117823 | [117823-werewolf-stand-alone.json](./117823-werewolf-stand-alone.json) |
 | Werewolf Tycoon: Web Edition | 102031 | [102031-werewolf-tycoon-web-edition.json](./102031-werewolf-tycoon-web-edition.json) |
 | Werewolf Voice: Best Board Game | 130212 | [130212-werewolf-voice-best-board-game.json](./130212-werewolf-voice-best-board-game.json) |
+| Werewolf vs. Comanche 2.0 | 71319 | [71319-werewolf-vs-comanche-2-0.json](./71319-werewolf-vs-comanche-2-0.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Edition | 198092 | [198092-werewolf-the-apocalypse-earthblood-champion-of-gaia-edition.json](./198092-werewolf-the-apocalypse-earthblood-champion-of-gaia-edition.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack | 149967 | [149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json](./149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json) |
 | Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
@@ -5331,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingmen | 349940 | [349940-wingmen.json](./349940-wingmen.json) |
 | WingMen | 81908 | [81908-wingmen.json](./81908-wingmen.json) |
 | Wingmine | 388339 | [388339-wingmine.json](./388339-wingmine.json) |
+| WingNuts 2: Raina's Revenge | 71290 | [71290-wingnuts-2-rainas-revenge.json](./71290-wingnuts-2-rainas-revenge.json) |
 | WingNuts: Temporal Navigator | 201073 | [201073-wingnuts-temporal-navigator.json](./201073-wingnuts-temporal-navigator.json) |
 | Wings | 264454 | [264454-wings.json](./264454-wings.json) |
 | Wings | 282664 | [282664-wings.json](./282664-wings.json) |
