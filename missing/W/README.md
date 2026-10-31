@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterscape Solitaire: American Falls | 416139 | [416139-waterscape-solitaire-american-falls.json](./416139-waterscape-solitaire-american-falls.json) |
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Waterside Chirping | 105017 | [105017-waterside-chirping.json](./105017-waterside-chirping.json) |
+| Waterslide | 67021 | [67021-waterslide.json](./67021-waterslide.json) |
 | Waterslide Inferno | 397137 | [397137-waterslide-inferno.json](./397137-waterslide-inferno.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | WaterWays | 67881 | [67881-waterways.json](./67881-waterways.json) |
@@ -7372,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Fantasy 2 | 302416 | [302416-world-fantasy-2.json](./302416-world-fantasy-2.json) |
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
 | World Fighting | 203263 | [203263-world-fighting.json](./203263-world-fighting.json) |
+| World Fighting "The Ishu Kakatou Waza" | 67045 | [67045-world-fighting-the-ishu-kakatou-waza.json](./67045-world-fighting-the-ishu-kakatou-waza.json) |
 | World Flags Quiz | 99357 | [99357-world-flags-quiz.json](./99357-world-flags-quiz.json) |
 | World Flight | 218854 | [218854-world-flight.json](./218854-world-flight.json) |
 | World Flipper | 130653 | [130653-world-flipper.json](./130653-world-flipper.json) |
