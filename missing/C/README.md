@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
 | Cannon Lab 13 | 157443 | [157443-cannon-lab-13.json](./157443-cannon-lab-13.json) |
 | Cannon Lagoon | 137803 | [137803-cannon-lagoon.json](./137803-cannon-lagoon.json) |
+| Cannon Master VIP | 109230 | [109230-cannon-master-vip.json](./109230-cannon-master-vip.json) |
 | Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
 | Cannon Rats | 239470 | [239470-cannon-rats.json](./239470-cannon-rats.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan Manager | 420495 | [420495-caravan-manager.json](./420495-caravan-manager.json) |
 | Caravan Quest: Discover America | 336983 | [336983-caravan-quest-discover-america.json](./336983-caravan-quest-discover-america.json) |
 | Caravan Racers | 323854 | [323854-caravan-racers.json](./323854-caravan-racers.json) |
+| Caravan Stories | 109279 | [109279-caravan-stories.json](./109279-caravan-stories.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Caravan Trade Tycoon | 138673 | [138673-caravan-trade-tycoon.json](./138673-caravan-trade-tycoon.json) |
 | Caravan Village: Farming Life | 389590 | [389590-caravan-village-farming-life.json](./389590-caravan-village-farming-life.json) |
@@ -8733,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
 | Clash of Empire | 181581 | [181581-clash-of-empire.json](./181581-clash-of-empire.json) |
 | Clash Of Empires | 289292 | [289292-clash-of-empires.json](./289292-clash-of-empires.json) |
+| Clash of Empires: Zombies War | 109239 | [109239-clash-of-empires-zombies-war.json](./109239-clash-of-empires-zombies-war.json) |
 | Clash of Evil | 242139 | [242139-clash-of-evil.json](./242139-clash-of-evil.json) |
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
