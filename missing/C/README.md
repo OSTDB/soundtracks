@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Beauty | 389044 | [389044-call-of-beauty.json](./389044-call-of-beauty.json) |
 | Call of Bieber | 392330 | [392330-call-of-bieber.json](./392330-call-of-bieber.json) |
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
+| Call of Booty | 105617 | [105617-call-of-booty.json](./105617-call-of-booty.json) |
 | Call of Champions | 13175 | [13175-call-of-champions.json](./13175-call-of-champions.json) |
 | Call of Clans | 328923 | [328923-call-of-clans.json](./328923-call-of-clans.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
@@ -16279,6 +16280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of the Empire: Timeloop | 417714 | [417714-crown-of-the-empire-timeloop.json](./417714-crown-of-the-empire-timeloop.json) |
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
 | Crown of Thorns | 235359 | [235359-crown-of-thorns.json](./235359-crown-of-thorns.json) |
+| Crown of Worlds | 105622 | [105622-crown-of-worlds.json](./105622-crown-of-worlds.json) |
 | Crown of Zephyr | 230727 | [230727-crown-of-zephyr.json](./230727-crown-of-zephyr.json) |
 | Crown Siege | 386943 | [386943-crown-siege.json](./386943-crown-siege.json) |
 | Crown Simulator: Royal Life simulation | 326455 | [326455-crown-simulator-royal-life-simulation.json](./326455-crown-simulator-royal-life-simulation.json) |
@@ -17293,6 +17295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | CubicTourPlus. | 219936 | [219936-cubictourplus.json](./219936-cubictourplus.json) |
 | Cubicus | 174046 | [174046-cubicus.json](./174046-cubicus.json) |
+| Cubicus Arcanum | 105621 | [105621-cubicus-arcanum.json](./105621-cubicus-arcanum.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubie Adventure | 97967 | [97967-cubie-adventure.json](./97967-cubie-adventure.json) |
 | Cubieverse | 297339 | [297339-cubieverse.json](./297339-cubieverse.json) |
