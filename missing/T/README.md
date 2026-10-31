@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tangerine Tycoon | 407521 | [407521-tangerine-tycoon.json](./407521-tangerine-tycoon.json) |
 | Tanggal | 293318 | [293318-tanggal.json](./293318-tanggal.json) |
+| Tanggle's Magic Square | 65312 | [65312-tanggles-magic-square.json](./65312-tanggles-magic-square.json) |
 | Tangle Bee | 70445 | [70445-tangle-bee.json](./70445-tangle-bee.json) |
 | Tangled | 230404 | [230404-tangled.json](./230404-tangled.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
 | Tears To Tiara II: Heir Of The Overlord | 21874 | [21874-tears-to-tiara-ii-heir-of-the-overlord.json](./21874-tears-to-tiara-ii-heir-of-the-overlord.json) |
 | Tears to Tiara: Kakan no Daichi | 272670 | [272670-tears-to-tiara-kakan-no-daichi.json](./272670-tears-to-tiara-kakan-no-daichi.json) |
+| Tears: Contact | 65311 | [65311-tears-contact.json](./65311-tears-contact.json) |
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tearstone | 38760 | [38760-tearstone.json](./38760-tearstone.json) |
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
@@ -21941,6 +21943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNA Impact!: Cross the Line | 5229 | [5229-tna-impact-cross-the-line.json](./5229-tna-impact-cross-the-line.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
+| TNA Wrestling Impact! | 65170 | [65170-tna-wrestling-impact.json](./65170-tna-wrestling-impact.json) |
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
@@ -22296,6 +22299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todo List | 366329 | [366329-todo-list.json](./366329-todo-list.json) |
 | Todo Ryunosuke Tantei Nikki: Ogon no Rashinban | 386389 | [386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json](./386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json) |
 | Todo Ryuunosuke Tantei Nikki: Kohaku-iro no Yuigon | 281257 | [281257-todo-ryuunosuke-tantei-nikki-kohaku-iro-no-yuigon.json](./281257-todo-ryuunosuke-tantei-nikki-kohaku-iro-no-yuigon.json) |
+| Todo Ryuunosuke Tantei Nikki: Kohaku-iro no Yuigon | 65304 | [65304-todo-ryuunosuke-tantei-nikki-kohaku-iro-no-yuigon.json](./65304-todo-ryuunosuke-tantei-nikki-kohaku-iro-no-yuigon.json) |
 | Todomiro | 288594 | [288594-todomiro.json](./288594-todomiro.json) |
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
 | Toe II Toe | 235097 | [235097-toe-ii-toe.json](./235097-toe-ii-toe.json) |
@@ -22856,6 +22860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
 | Tomak: Save the Earth - Love Story | 59697 | [59697-tomak-save-the-earth-love-story.json](./59697-tomak-save-the-earth-love-story.json) |
+| Tomak: Save the Earth, Again | 65310 | [65310-tomak-save-the-earth-again.json](./65310-tomak-save-the-earth-again.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
 | Tómate un Descanso | 327435 | [327435-tomate-un-descanso.json](./327435-tomate-un-descanso.json) |
 | Tomato Adventure | 49844 | [49844-tomato-adventure.json](./49844-tomato-adventure.json) |
@@ -24109,6 +24114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch to Fate: Occult Romance | 255171 | [255171-touch-to-fate-occult-romance.json](./255171-touch-to-fate-occult-romance.json) |
 | Touch to Turn | 114031 | [114031-touch-to-turn.json](./114031-touch-to-turn.json) |
 | Touch Your Eyes | 275695 | [275695-touch-your-eyes.json](./275695-touch-your-eyes.json) |
+| Touch, Shot! Love Application | 65236 | [65236-touch-shot-love-application.json](./65236-touch-shot-love-application.json) |
 | Touch: Man to Man | 66773 | [66773-touch-man-to-man.json](./66773-touch-man-to-man.json) |
 | TouchBrickout | 90422 | [90422-touchbrickout.json](./90422-touchbrickout.json) |
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
