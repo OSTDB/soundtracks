@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabotage 1943 | 60940 | [60940-sabotage-1943.json](./60940-sabotage-1943.json) |
 | Sabotage City | 393820 | [393820-sabotage-city.json](./393820-sabotage-city.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
+| Sabotain: Break the Rules | 101185 | [101185-sabotain-break-the-rules.json](./101185-sabotain-break-the-rules.json) |
 | Sabotaj | 138972 | [138972-sabotaj.json](./138972-sabotaj.json) |
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur | 192134 | [192134-saboteur.json](./192134-saboteur.json) |
@@ -13783,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snolf: The Sonic Golf Experience | 143733 | [143733-snolf-the-sonic-golf-experience.json](./143733-snolf-the-sonic-golf-experience.json) |
 | Snolf: Tournament Edition | 201808 | [201808-snolf-tournament-edition.json](./201808-snolf-tournament-edition.json) |
 | Snoman's Land | 269690 | [269690-snomans-land.json](./269690-snomans-land.json) |
+| Snoobli | 101241 | [101241-snoobli.json](./101241-snoobli.json) |
 | Snood | 246388 | [246388-snood.json](./246388-snood.json) |
 | Snood 2: On Vacation | 19107 | [19107-snood-2-on-vacation.json](./19107-snood-2-on-vacation.json) |
 | Snood Adventure | 99174 | [99174-snood-adventure.json](./99174-snood-adventure.json) |
@@ -16792,6 +16794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Reaper | 128464 | [128464-soul-reaper.json](./128464-soul-reaper.json) |
 | Soul Reaper: Endless Harvest | 394407 | [394407-soul-reaper-endless-harvest.json](./394407-soul-reaper-endless-harvest.json) |
+| Soul Reaper: Unreap Commander | 101240 | [101240-soul-reaper-unreap-commander.json](./101240-soul-reaper-unreap-commander.json) |
 | Soul Rebellion | 108071 | [108071-soul-rebellion.json](./108071-soul-rebellion.json) |
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
@@ -30339,6 +30342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhex.io | 321839 | [321839-superhex-io.json](./321839-superhex-io.json) |
 | Superhoops Basketball 2016 | 237579 | [237579-superhoops-basketball-2016.json](./237579-superhoops-basketball-2016.json) |
+| Superhot JP | 101188 | [101188-superhot-jp.json](./101188-superhot-jp.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | SuperHot Quake | 195987 | [195987-superhot-quake.json](./195987-superhot-quake.json) |
 | Superhot Shooter 3D | 223902 | [223902-superhot-shooter-3d.json](./223902-superhot-shooter-3d.json) |
