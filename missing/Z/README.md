@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombitsu | 23484 | [23484-zombitsu.json](./23484-zombitsu.json) |
 | ZombiU 2 | 284514 | [284514-zombiu-2.json](./284514-zombiu-2.json) |
 | ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
+| ZomBlock: Survival | 101879 | [101879-zomblock-survival.json](./101879-zomblock-survival.json) |
 | ZombMe | 343795 | [343795-zombme.json](./343795-zombme.json) |
 | Zombnami | 308921 | [308921-zombnami.json](./308921-zombnami.json) |
 | Zombo Buster Advance | 138393 | [138393-zombo-buster-advance.json](./138393-zombo-buster-advance.json) |
