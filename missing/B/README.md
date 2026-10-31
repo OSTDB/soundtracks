@@ -874,7 +874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4165,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baunsudaun | 257530 | [257530-baunsudaun.json](./257530-baunsudaun.json) |
 | Bavity | 188919 | [188919-bavity.json](./188919-bavity.json) |
 | Bavovna included! | 226255 | [226255-bavovna-included.json](./226255-bavovna-included.json) |
+| Bawang Bie Ji | 80274 | [80274-bawang-bie-ji.json](./80274-bawang-bie-ji.json) |
 | Bax | 117435 | [117435-bax.json](./117435-bax.json) |
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
 | Baxter's Venture: Director's Cut | 34851 | [34851-baxters-venture-directors-cut.json](./34851-baxters-venture-directors-cut.json) |
@@ -9683,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockade Runner | 397236 | [397236-blockade-runner.json](./397236-blockade-runner.json) |
 | Blockade War Stories | 116772 | [116772-blockade-war-stories.json](./116772-blockade-war-stories.json) |
 | Blockage | 306966 | [306966-blockage.json](./306966-blockage.json) |
+| Blockage | 80294 | [80294-blockage.json](./80294-blockage.json) |
 | BlockAid | 32882 | [32882-blockaid.json](./32882-blockaid.json) |
 | Blockappend | 236764 | [236764-blockappend.json](./236764-blockappend.json) |
 | Blockara | 43493 | [43493-blockara.json](./43493-blockara.json) |
@@ -12230,6 +12231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
 | Borealis | 17537 | [17537-borealis.json](./17537-borealis.json) |
 | Boreas | 258571 | [258571-boreas.json](./258571-boreas.json) |
+| Bored Meeting | 80262 | [80262-bored-meeting.json](./80262-bored-meeting.json) |
 | Bored of the Rings | 12941 | [12941-bored-of-the-rings.json](./12941-bored-of-the-rings.json) |
 | Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
@@ -14815,6 +14817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
 | Bryant's Freeski | 164204 | [164204-bryants-freeski.json](./164204-bryants-freeski.json) |
 | Bryce Tiles | 236740 | [236740-bryce-tiles.json](./236740-bryce-tiles.json) |
+| Bryte | 80252 | [80252-bryte.json](./80252-bryte.json) |
 | BS Bokujou Monogatari | 134429 | [134429-bs-bokujou-monogatari.json](./134429-bs-bokujou-monogatari.json) |
 | BS Bokujou Monogatari: Dai-1-wa | 179913 | [179913-bs-bokujou-monogatari-dai-1-wa.json](./179913-bs-bokujou-monogatari-dai-1-wa.json) |
 | BS Bokujou Monogatari: Dai-2-wa | 179914 | [179914-bs-bokujou-monogatari-dai-2-wa.json](./179914-bs-bokujou-monogatari-dai-2-wa.json) |
