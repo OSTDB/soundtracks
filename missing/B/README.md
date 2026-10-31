@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
 | Babel of Ystilia | 236132 | [236132-babel-of-ystilia.json](./236132-babel-of-ystilia.json) |
+| Babel Rising 3D | 106225 | [106225-babel-rising-3d.json](./106225-babel-rising-3d.json) |
 | Babel Rising: Sky's the Limit | 10018 | [10018-babel-rising-skys-the-limit.json](./10018-babel-rising-skys-the-limit.json) |
 | Babel Running | 10019 | [10019-babel-running.json](./10019-babel-running.json) |
 | Babel Sword | 105064 | [105064-babel-sword.json](./105064-babel-sword.json) |
@@ -1686,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo Retro Run | 322439 | [322439-bamboo-retro-run.json](./322439-bamboo-retro-run.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
+| Bamse | 106273 | [106273-bamse.json](./106273-bamse.json) |
 | Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
