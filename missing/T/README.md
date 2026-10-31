@@ -4998,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
 | The Act: An Interactive Comedy | 300664 | [300664-the-act-an-interactive-comedy.json](./300664-the-act-an-interactive-comedy.json) |
+| The Action Pack | 69649 | [69649-the-action-pack.json](./69649-the-action-pack.json) |
 | The Activision Decathlon | 11855 | [11855-the-activision-decathlon.json](./11855-the-activision-decathlon.json) |
 | The Addams Family | 14207 | [14207-the-addams-family.json](./14207-the-addams-family.json) |
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
@@ -9775,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The Hilltop Mansion | 149878 | [149878-the-hilltop-mansion.json](./149878-the-hilltop-mansion.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
+| The History Channel: Alamo - Fight for Independence | 69651 | [69651-the-history-channel-alamo-fight-for-independence.json](./69651-the-history-channel-alamo-fight-for-independence.json) |
 | The History Channel: Battle for the Pacific | 4913 | [4913-the-history-channel-battle-for-the-pacific.json](./4913-the-history-channel-battle-for-the-pacific.json) |
 | The History Channel: Civil War - A Nation Divided | 7009 | [7009-the-history-channel-civil-war-a-nation-divided.json](./7009-the-history-channel-civil-war-a-nation-divided.json) |
 | The History Channel: Civil War - Great Battles | 70189 | [70189-the-history-channel-civil-war-great-battles.json](./70189-the-history-channel-civil-war-great-battles.json) |
@@ -10951,6 +10953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Earth Man | 166951 | [166951-the-last-earth-man.json](./166951-the-last-earth-man.json) |
+| The Last Eichhof | 69640 | [69640-the-last-eichhof.json](./69640-the-last-eichhof.json) |
 | The Last Element | 385288 | [385288-the-last-element.json](./385288-the-last-element.json) |
 | The Last Element: Looking For Tomorrow | 156818 | [156818-the-last-element-looking-for-tomorrow.json](./156818-the-last-element-looking-for-tomorrow.json) |
 | The Last Elf | 414786 | [414786-the-last-elf.json](./414786-the-last-elf.json) |
@@ -12333,6 +12336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magister | 137351 | [137351-the-magister.json](./137351-the-magister.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
+| The Magnetic Scrolls Collection | 69623 | [69623-the-magnetic-scrolls-collection.json](./69623-the-magnetic-scrolls-collection.json) |
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Magnificent Fragments | 53760 | [53760-the-magnificent-fragments.json](./53760-the-magnificent-fragments.json) |
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
@@ -14561,6 +14565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scorpion King | 185900 | [185900-the-scorpion-king.json](./185900-the-scorpion-king.json) |
 | The Scorpion King: Rise of the Akkadian | 4096 | [4096-the-scorpion-king-rise-of-the-akkadian.json](./4096-the-scorpion-king-rise-of-the-akkadian.json) |
 | The Scorpion King: Sword of Osiris | 49236 | [49236-the-scorpion-king-sword-of-osiris.json](./49236-the-scorpion-king-sword-of-osiris.json) |
+| The Scott Adams Collection | 69658 | [69658-the-scott-adams-collection.json](./69658-the-scott-adams-collection.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
 | The Scoundrels Guild: A Tale of Thieves | 60998 | [60998-the-scoundrels-guild-a-tale-of-thieves.json](./60998-the-scoundrels-guild-a-tale-of-thieves.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
@@ -21985,6 +21990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Get There | 348828 | [348828-to-get-there.json](./348828-to-get-there.json) |
 | To Grant a Wish | 350889 | [350889-to-grant-a-wish.json](./350889-to-grant-a-wish.json) |
 | To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
+| To Heart | 69724 | [69724-to-heart.json](./69724-to-heart.json) |
 | To Heaven | 392107 | [392107-to-heaven.json](./392107-to-heaven.json) |
 | To Hell and Back | 306327 | [306327-to-hell-and-back.json](./306327-to-hell-and-back.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
@@ -29471,6 +29477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TubeDudeMan | 342244 | [342244-tubedudeman.json](./342244-tubedudeman.json) |
 | Tuber Run | 114713 | [114713-tuber-run.json](./114713-tuber-run.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
+| Tubes | 69731 | [69731-tubes.json](./69731-tubes.json) |
 | Tubetastic World Splashfest | 117491 | [117491-tubetastic-world-splashfest.json](./117491-tubetastic-world-splashfest.json) |
 | TubeTwist: Quantum-Flux Edition | 73675 | [73675-tubetwist-quantum-flux-edition.json](./73675-tubetwist-quantum-flux-edition.json) |
 | Tubeway | 23945 | [23945-tubeway.json](./23945-tubeway.json) |
