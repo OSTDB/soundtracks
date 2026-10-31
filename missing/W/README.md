@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
 | Wacky Bird Hunter | 205942 | [205942-wacky-bird-hunter.json](./205942-wacky-bird-hunter.json) |
 | Wacky Burgers | 291347 | [291347-wacky-burgers.json](./291347-wacky-burgers.json) |
+| Wacky Cars | 102542 | [102542-wacky-cars.json](./102542-wacky-cars.json) |
 | Wacky Cartoon Racers | 138562 | [138562-wacky-cartoon-racers.json](./138562-wacky-cartoon-racers.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
 | Wacky Coursers | 389748 | [389748-wacky-coursers.json](./389748-wacky-coursers.json) |
@@ -1844,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors: Abyss - Samurai Warriors Western Japan Classic Costume Set | 379110 | [379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json](./379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json) |
 | Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
 | Warriors: Rise to Glory! | 82148 | [82148-warriors-rise-to-glory.json](./82148-warriors-rise-to-glory.json) |
+| Warriors' Market Mayhem VIP | 102532 | [102532-warriors-market-mayhem-vip.json](./102532-warriors-market-mayhem-vip.json) |
 | Warroid | 41784 | [41784-warroid.json](./41784-warroid.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
 | Wars Across the World: Agathocles 312 | 193190 | [193190-wars-across-the-world-agathocles-312.json](./193190-wars-across-the-world-agathocles-312.json) |
@@ -6846,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Maze by Powgi | 97167 | [97167-word-maze-by-powgi.json](./97167-word-maze-by-powgi.json) |
 | Word Mesh | 120072 | [120072-word-mesh.json](./120072-word-mesh.json) |
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
+| Word Moments - Free Brain Puzzle Games | 102547 | [102547-word-moments-free-brain-puzzle-games.json](./102547-word-moments-free-brain-puzzle-games.json) |
 | Word Monaco | 205881 | [205881-word-monaco.json](./205881-word-monaco.json) |
 | Word Monsters | 241196 | [241196-word-monsters.json](./241196-word-monsters.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
