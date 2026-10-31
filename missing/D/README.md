@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Room | 261106 | [261106-darkest-room.json](./261106-darkest-room.json) |
 | Darkest Valley | 139397 | [139397-darkest-valley.json](./139397-darkest-valley.json) |
 | Darkest Wave | 229818 | [229818-darkest-wave.json](./229818-darkest-wave.json) |
+| Darkest Wave | 76336 | [76336-darkest-wave.json](./76336-darkest-wave.json) |
 | Darkestville Castle | 59252 | [59252-darkestville-castle.json](./59252-darkestville-castle.json) |
 | Darkevo | 132398 | [132398-darkevo.json](./132398-darkevo.json) |
 | Darkfall | 303455 | [303455-darkfall.json](./303455-darkfall.json) |
@@ -13644,6 +13645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon of Illusion | 407283 | [407283-dragon-of-illusion.json](./407283-dragon-of-illusion.json) |
 | Dragon of Saiyu | 271383 | [271383-dragon-of-saiyu.json](./271383-dragon-of-saiyu.json) |
 | Dragon of Steelthorne | 287753 | [287753-dragon-of-steelthorne.json](./287753-dragon-of-steelthorne.json) |
+| Dragon Orb | 76334 | [76334-dragon-orb.json](./76334-dragon-orb.json) |
 | Dragon Pals | 23591 | [23591-dragon-pals.json](./23591-dragon-pals.json) |
 | Dragon Peak | 147837 | [147837-dragon-peak.json](./147837-dragon-peak.json) |
 | Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
@@ -16801,6 +16803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon: Faster & Deadlier | 197145 | [197145-dungeon-faster-and-deadlier.json](./197145-dungeon-faster-and-deadlier.json) |
 | Dungeon! | 290300 | [290300-dungeon.json](./290300-dungeon.json) |
 | Dungeon!: Order of the Raven | 400535 | [400535-dungeon-order-of-the-raven.json](./400535-dungeon-order-of-the-raven.json) |
+| Dungeon's Barrage | 76296 | [76296-dungeons-barrage.json](./76296-dungeons-barrage.json) |
 | Dungeon's Fall | 189125 | [189125-dungeons-fall.json](./189125-dungeons-fall.json) |
 | Dungeon's Hell | 163699 | [163699-dungeons-hell.json](./163699-dungeons-hell.json) |
 | Dungeon's Legion | 244122 | [244122-dungeons-legion.json](./244122-dungeons-legion.json) |
