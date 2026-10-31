@@ -2719,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
 | Days of Oblivion 2: Frozen Eternity | 67087 | [67087-days-of-oblivion-2-frozen-eternity.json](./67087-days-of-oblivion-2-frozen-eternity.json) |
+| Days of Prophecy | 117986 | [117986-days-of-prophecy.json](./117986-days-of-prophecy.json) |
 | Days of Purgatory | 76706 | [76706-days-of-purgatory.json](./76706-days-of-purgatory.json) |
 | Days of Reckoning: Last Battle | 402898 | [402898-days-of-reckoning-last-battle.json](./402898-days-of-reckoning-last-battle.json) |
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
@@ -9630,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disobedient Sheep | 115623 | [115623-disobedient-sheep.json](./115623-disobedient-sheep.json) |
 | Disobey - Revolt Simulator | 33031 | [33031-disobey-revolt-simulator.json](./33031-disobey-revolt-simulator.json) |
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
+| Disorder | 117946 | [117946-disorder.json](./117946-disorder.json) |
 | Disorder | 17827 | [17827-disorder.json](./17827-disorder.json) |
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
@@ -16677,6 +16679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
 | DungeonRoute | 369924 | [369924-dungeonroute.json](./369924-dungeonroute.json) |
 | Dungeons | 8849 | [8849-dungeons.json](./8849-dungeons.json) |
+| Dungeons & Aliens | 117945 | [117945-dungeons-and-aliens.json](./117945-dungeons-and-aliens.json) |
 | Dungeons & Bombs | 143488 | [143488-dungeons-and-bombs.json](./143488-dungeons-and-bombs.json) |
 | Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
 | Dungeons & Cardboard | 290898 | [290898-dungeons-and-cardboard.json](./290898-dungeons-and-cardboard.json) |
