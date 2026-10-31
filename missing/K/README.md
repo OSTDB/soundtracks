@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Course | 58307 | [58307-king-of-the-course.json](./58307-king-of-the-course.json) |
 | King of the Dead | 105647 | [105647-king-of-the-dead.json](./105647-king-of-the-dead.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
+| King of the Eggs | 75395 | [75395-king-of-the-eggs.json](./75395-king-of-the-eggs.json) |
 | King of the Hat | 54974 | [54974-king-of-the-hat.json](./54974-king-of-the-hat.json) |
 | King of the Hill | 365459 | [365459-king-of-the-hill.json](./365459-king-of-the-hill.json) |
 | King of the Hill | 408566 | [408566-king-of-the-hill.json](./408566-king-of-the-hill.json) |
@@ -4559,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi | 282480 | [282480-koi.json](./282480-koi.json) |
 | Koi de wa Naku: It's Not Love, but So where Near | 242420 | [242420-koi-de-wa-naku-its-not-love-but-so-where-near.json](./242420-koi-de-wa-naku-its-not-love-but-so-where-near.json) |
 | Koi Dojo | 308207 | [308207-koi-dojo.json](./308207-koi-dojo.json) |
+| Koi DX | 75557 | [75557-koi-dx.json](./75557-koi-dx.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
 | Koi Frenzy | 410725 | [410725-koi-frenzy.json](./410725-koi-frenzy.json) |
 | Koi ga Saku Koro Sakura Doki | 60939 | [60939-koi-ga-saku-koro-sakura-doki.json](./60939-koi-ga-saku-koro-sakura-doki.json) |
