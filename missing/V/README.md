@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veterum | 211815 | [211815-veterum.json](./211815-veterum.json) |
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
 | Vetitum_VRC | 319868 | [319868-vetitum-vrc.json](./319868-vetitum-vrc.json) |
+| Vetka | 113991 | [113991-vetka.json](./113991-vetka.json) |
 | Vetrex | 194988 | [194988-vetrex.json](./194988-vetrex.json) |
 | Vetrix | 137870 | [137870-vetrix.json](./137870-vetrix.json) |
 | Vetrix Worlds | 235646 | [235646-vetrix-worlds.json](./235646-vetrix-worlds.json) |
