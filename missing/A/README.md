@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghostly Tale | 123834 | [123834-a-ghostly-tale.json](./123834-a-ghostly-tale.json) |
 | A Gift of War | 189341 | [189341-a-gift-of-war.json](./189341-a-gift-of-war.json) |
 | A Girl A Rain | 415766 | [415766-a-girl-a-rain.json](./415766-a-girl-a-rain.json) |
+| A Girl Adrift | 119219 | [119219-a-girl-adrift.json](./119219-a-girl-adrift.json) |
 | A Girl in the City | 139722 | [139722-a-girl-in-the-city.json](./139722-a-girl-in-the-city.json) |
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
 | A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
+| A Summer with the Shiba Inu | 119229 | [119229-a-summer-with-the-shiba-inu.json](./119229-a-summer-with-the-shiba-inu.json) |
 | A Summer's End: Hong Kong 1986 | 131912 | [131912-a-summers-end-hong-kong-1986.json](./131912-a-summers-end-hong-kong-1986.json) |
 | A Sun of Salt | 107784 | [107784-a-sun-of-salt.json](./107784-a-sun-of-salt.json) |
 | A Super Effective Turnabout | 302597 | [302597-a-super-effective-turnabout.json](./302597-a-super-effective-turnabout.json) |
@@ -11038,6 +11040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
 | Arcade Archives: Aero Fighters | 280360 | [280360-arcade-archives-aero-fighters.json](./280360-arcade-archives-aero-fighters.json) |
 | Arcade Archives: Alpha Mission | 111459 | [111459-arcade-archives-alpha-mission.json](./111459-arcade-archives-alpha-mission.json) |
+| Arcade Archives: Alpine Ski | 119218 | [119218-arcade-archives-alpine-ski.json](./119218-arcade-archives-alpine-ski.json) |
 | Arcade Archives: Aqua Jet | 361237 | [361237-arcade-archives-aqua-jet.json](./361237-arcade-archives-aqua-jet.json) |
 | Arcade Archives: Arabian | 144673 | [144673-arcade-archives-arabian.json](./144673-arcade-archives-arabian.json) |
 | Arcade Archives: Argus | 107556 | [107556-arcade-archives-argus.json](./107556-arcade-archives-argus.json) |
@@ -12133,6 +12136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares Fighter 2 | 235181 | [235181-ares-fighter-2.json](./235181-ares-fighter-2.json) |
 | Ares Fighter 3 | 265809 | [265809-ares-fighter-3.json](./265809-ares-fighter-3.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
+| Ares Virus | 119288 | [119288-ares-virus.json](./119288-ares-virus.json) |
 | ARES: Automated Relay System | 400051 | [400051-ares-automated-relay-system.json](./400051-ares-automated-relay-system.json) |
 | Ares: Rise of Guardians | 194108 | [194108-ares-rise-of-guardians.json](./194108-ares-rise-of-guardians.json) |
 | Ares: The Iron Vanguard | 418196 | [418196-ares-the-iron-vanguard.json](./418196-ares-the-iron-vanguard.json) |
