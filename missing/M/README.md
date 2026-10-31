@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
+| Magical Drop Yurutto | 67846 | [67846-magical-drop-yurutto.json](./67846-magical-drop-yurutto.json) |
 | Magical Error wo Sagase | 268846 | [268846-magical-error-wo-sagase.json](./268846-magical-error-wo-sagase.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Fairy Force: Champion Edition | 220436 | [220436-magical-fairy-force-champion-edition.json](./220436-magical-fairy-force-champion-edition.json) |
@@ -6033,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
+| Mebius Drive | 67842 | [67842-mebius-drive.json](./67842-mebius-drive.json) |
 | Mebula | 56264 | [56264-mebula.json](./56264-mebula.json) |
 | Mec Me Loffa | 306312 | [306312-mec-me-loffa.json](./306312-mec-me-loffa.json) |
 | Mecanic | 213792 | [213792-mecanic.json](./213792-mecanic.json) |
