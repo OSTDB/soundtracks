@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrx 360: Eons of Time | 385994 | [385994-tetrx-360-eons-of-time.json](./385994-tetrx-360-eons-of-time.json) |
 | Tetsu 1: Densha de Battle! | 265849 | [265849-tetsu-1-densha-de-battle.json](./265849-tetsu-1-densha-de-battle.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
+| Tetsudou Musume DS: Terminal Memory | 71883 | [71883-tetsudou-musume-ds-terminal-memory.json](./71883-tetsudou-musume-ds-terminal-memory.json) |
 | Tetsudou Nippon! Memorial: JR Tokai KiHa 85 Tokkyuu Nanki-hen | 356242 | [356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json](./356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json) |
 | Tetsudou Nippon! Real Pro Tokkyu Soko! Nagoya Tetsudou-hen | 233956 | [233956-tetsudou-nippon-real-pro-tokkyu-soko-nagoya-tetsudou-hen.json](./233956-tetsudou-nippon-real-pro-tokkyu-soko-nagoya-tetsudou-hen.json) |
 | Tetsudou Nippon! Real Pro Tokyo - Kanagawa! Tokyu Dentetsu-hen | 366913 | [366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json](./366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json) |
@@ -17842,6 +17843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Architect | 298659 | [298659-theme-park-architect.json](./298659-theme-park-architect.json) |
 | Theme Park Fun 3D! | 216077 | [216077-theme-park-fun-3d.json](./216077-theme-park-fun-3d.json) |
 | Theme Park Jam | 319302 | [319302-theme-park-jam.json](./319302-theme-park-jam.json) |
+| Theme Park Mystery | 71861 | [71861-theme-park-mystery.json](./71861-theme-park-mystery.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
 | Theme Park Simulator: Collector's Edition | 140165 | [140165-theme-park-simulator-collectors-edition.json](./140165-theme-park-simulator-collectors-edition.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
@@ -18433,6 +18435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Special Delivery | 206224 | [206224-thomas-and-friends-special-delivery.json](./206224-thomas-and-friends-special-delivery.json) |
 | Thomas & Friends: Steaming Around Sodor | 145337 | [145337-thomas-and-friends-steaming-around-sodor.json](./145337-thomas-and-friends-steaming-around-sodor.json) |
 | Thomas & Friends: The Great Festival Adventure | 70654 | [70654-thomas-and-friends-the-great-festival-adventure.json](./70654-thomas-and-friends-the-great-festival-adventure.json) |
+| Thomas & Friends: Thomas Saves the Day! | 71871 | [71871-thomas-and-friends-thomas-saves-the-day.json](./71871-thomas-and-friends-thomas-saves-the-day.json) |
 | Thomas & Friends: Trouble on the Tracks | 50425 | [50425-thomas-and-friends-trouble-on-the-tracks.json](./50425-thomas-and-friends-trouble-on-the-tracks.json) |
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
@@ -23713,6 +23716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
 | Total Annihilation: Commander Pack | 98907 | [98907-total-annihilation-commander-pack.json](./98907-total-annihilation-commander-pack.json) |
 | Total Annihilation: Kingdoms | 11614 | [11614-total-annihilation-kingdoms.json](./11614-total-annihilation-kingdoms.json) |
+| Total Annihilation: Kingdoms - Iron Plague | 71852 | [71852-total-annihilation-kingdoms-iron-plague.json](./71852-total-annihilation-kingdoms-iron-plague.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
 | Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
