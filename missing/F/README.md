@@ -7634,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower on the Lines | 90336 | [90336-flower-on-the-lines.json](./90336-flower-on-the-lines.json) |
 | Flower Paradise | 151519 | [151519-flower-paradise.json](./151519-flower-paradise.json) |
 | Flower Power | 354058 | [354058-flower-power.json](./354058-flower-power.json) |
+| Flower Power | 70191 | [70191-flower-power.json](./70191-flower-power.json) |
 | Flower Power: The Adventures of Magical Plants | 324188 | [324188-flower-power-the-adventures-of-magical-plants.json](./324188-flower-power-the-adventures-of-magical-plants.json) |
 | Flower Quest | 182104 | [182104-flower-quest.json](./182104-flower-quest.json) |
 | Flower Shop | 190891 | [190891-flower-shop.json](./190891-flower-shop.json) |
