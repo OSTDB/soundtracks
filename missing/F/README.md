@@ -7119,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
 | Flip It | 309636 | [309636-flip-it.json](./309636-flip-it.json) |
 | Flip It 2 | 254698 | [254698-flip-it-2.json](./254698-flip-it-2.json) |
+| Flip Man! | 119253 | [119253-flip-man.json](./119253-flip-man.json) |
 | Flip Master | 88757 | [88757-flip-master.json](./88757-flip-master.json) |
 | Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
 | Flip Me Not | 405008 | [405008-flip-me-not.json](./405008-flip-me-not.json) |
@@ -12405,6 +12406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Roads Survivor | 243322 | [243322-fury-roads-survivor.json](./243322-fury-roads-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
+| Fury Survivor: Pixel Z | 119266 | [119266-fury-survivor-pixel-z.json](./119266-fury-survivor-pixel-z.json) |
 | Fury Turn | 220421 | [220421-fury-turn.json](./220421-fury-turn.json) |
 | Fury Unleashed: Bang Edition | 208748 | [208748-fury-unleashed-bang-edition.json](./208748-fury-unleashed-bang-edition.json) |
 | Fury! | 372209 | [372209-fury.json](./372209-fury.json) |
