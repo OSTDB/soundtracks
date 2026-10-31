@@ -8815,6 +8815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Dig | 181552 | [181552-dinosaur-dig.json](./181552-dinosaur-dig.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
+| Dinosaur Discovery | 83779 | [83779-dinosaur-discovery.json](./83779-dinosaur-discovery.json) |
 | Dinosaur Era | 248697 | [248697-dinosaur-era.json](./248697-dinosaur-era.json) |
 | Dinosaur Fossil Hunter | 102176 | [102176-dinosaur-fossil-hunter.json](./102176-dinosaur-fossil-hunter.json) |
 | Dinosaur Fossil Puzzles | 163168 | [163168-dinosaur-fossil-puzzles.json](./163168-dinosaur-fossil-puzzles.json) |
@@ -9589,6 +9590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
 | Disney's Beauty and the Beast | 198696 | [198696-disneys-beauty-and-the-beast.json](./198696-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast | 280811 | [280811-disneys-beauty-and-the-beast.json](./280811-disneys-beauty-and-the-beast.json) |
+| Disney's Beauty and the Beast | 83783 | [83783-disneys-beauty-and-the-beast.json](./83783-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast: A Board Game Adventure | 65583 | [65583-disneys-beauty-and-the-beast-a-board-game-adventure.json](./65583-disneys-beauty-and-the-beast-a-board-game-adventure.json) |
 | Disney's Beauty and the Beast: Belle's Quest | 46233 | [46233-disneys-beauty-and-the-beast-belles-quest.json](./46233-disneys-beauty-and-the-beast-belles-quest.json) |
 | Disney's Beauty and the Beast: LCD Wrist Game | 200503 | [200503-disneys-beauty-and-the-beast-lcd-wrist-game.json](./200503-disneys-beauty-and-the-beast-lcd-wrist-game.json) |
@@ -14552,6 +14554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of YukiHana | 396018 | [396018-dream-of-yukihana.json](./396018-dream-of-yukihana.json) |
 | Dream of ZhiJiang | 367712 | [367712-dream-of-zhijiang.json](./367712-dream-of-zhijiang.json) |
 | Dream On | 367008 | [367008-dream-on.json](./367008-dream-on.json) |
+| Dream on the Moon | 84002 | [84002-dream-on-the-moon.json](./84002-dream-on-the-moon.json) |
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
 | Dream Peak | 390781 | [390781-dream-peak.json](./390781-dream-peak.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
