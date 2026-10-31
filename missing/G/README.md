@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
 | Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
 | GeoSafari | 85945 | [85945-geosafari.json](./85945-geosafari.json) |
+| GeoSafari: Animals | 79629 | [79629-geosafari-animals.json](./79629-geosafari-animals.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
 | Geospots | 198103 | [198103-geospots.json](./198103-geospots.json) |
 | Geostorm | 74514 | [74514-geostorm.json](./74514-geostorm.json) |
@@ -9755,6 +9756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Mayhem Redux | 102021 | [102021-gun-mayhem-redux.json](./102021-gun-mayhem-redux.json) |
 | Gun Monkey! | 406559 | [406559-gun-monkey.json](./406559-gun-monkey.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
+| Gun Mute | 79644 | [79644-gun-mute.json](./79644-gun-mute.json) |
 | Gun Nose | 390152 | [390152-gun-nose.json](./390152-gun-nose.json) |
 | Gun of Fate: The Silver Gun of Ylia | 373149 | [373149-gun-of-fate-the-silver-gun-of-ylia.json](./373149-gun-of-fate-the-silver-gun-of-ylia.json) |
 | Gun on the Chickahominy | 148473 | [148473-gun-on-the-chickahominy.json](./148473-gun-on-the-chickahominy.json) |
