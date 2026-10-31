@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableTop Soccer: Redux | 280253 | [280253-tabletop-soccer-redux.json](./280253-tabletop-soccer-redux.json) |
 | Tabletop Speed | 235123 | [235123-tabletop-speed.json](./235123-tabletop-speed.json) |
 | Tabletop Tavern | 373282 | [373282-tabletop-tavern.json](./373282-tabletop-tavern.json) |
+| Tabletop Towers | 95778 | [95778-tabletop-towers.json](./95778-tabletop-towers.json) |
 | Tabletop Warriors | 190884 | [190884-tabletop-warriors.json](./190884-tabletop-warriors.json) |
 | Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
@@ -12209,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Machine That Breathes | 121341 | [121341-the-machine-that-breathes.json](./121341-the-machine-that-breathes.json) |
 | The Machine's Garden | 152045 | [152045-the-machines-garden.json](./152045-the-machines-garden.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
+| The Machines | 95765 | [95765-the-machines.json](./95765-the-machines.json) |
 | The Machines Arena | 165283 | [165283-the-machines-arena.json](./165283-the-machines-arena.json) |
 | The Mad Pantser | 339185 | [339185-the-mad-pantser.json](./339185-the-mad-pantser.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
@@ -28805,6 +28807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator: Ultimate | 175023 | [175023-truck-simulator-ultimate.json](./175023-truck-simulator-ultimate.json) |
 | Truck Simulator: World | 236249 | [236249-truck-simulator-world.json](./236249-truck-simulator-world.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
+| Truck Stars AR | 95771 | [95771-truck-stars-ar.json](./95771-truck-stars-ar.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
 | Truck World: Australia | 227320 | [227320-truck-world-australia.json](./227320-truck-world-australia.json) |
@@ -29632,6 +29635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
 | Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
+| Turn It On! | 95776 | [95776-turn-it-on.json](./95776-turn-it-on.json) |
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
 | Turn N Run | 106267 | [106267-turn-n-run.json](./106267-turn-n-run.json) |
