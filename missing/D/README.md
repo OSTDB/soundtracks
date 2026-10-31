@@ -3588,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Synchronicity: The Longest Night | 59947 | [59947-dead-synchronicity-the-longest-night.json](./59947-dead-synchronicity-the-longest-night.json) |
 | Dead Synchronicity: Tomorrow Comes Today | 194216 | [194216-dead-synchronicity-tomorrow-comes-today.json](./194216-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead Take | 347032 | [347032-dead-take.json](./347032-dead-take.json) |
+| Dead Target VR: Zombie Intensified | 80955 | [80955-dead-target-vr-zombie-intensified.json](./80955-dead-target-vr-zombie-intensified.json) |
 | Dead to Rights | 194267 | [194267-dead-to-rights.json](./194267-dead-to-rights.json) |
 | Dead to Rights II | 5810 | [5810-dead-to-rights-ii.json](./5810-dead-to-rights-ii.json) |
 | Dead to Rights: Reckoning | 3010 | [3010-dead-to-rights-reckoning.json](./3010-dead-to-rights-reckoning.json) |
