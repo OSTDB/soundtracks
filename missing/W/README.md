@@ -8353,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Manager 2023 | 226116 | [226116-wrestling-manager-2023.json](./226116-wrestling-manager-2023.json) |
 | Wrestling Mpire 2008 | 79374 | [79374-wrestling-mpire-2008.json](./79374-wrestling-mpire-2008.json) |
 | Wrestling MPire Remix: Career Edition | 186430 | [186430-wrestling-mpire-remix-career-edition.json](./186430-wrestling-mpire-remix-career-edition.json) |
+| Wrestling Revolution | 64049 | [64049-wrestling-revolution.json](./64049-wrestling-revolution.json) |
 | Wrestling Revolution 2D | 76990 | [76990-wrestling-revolution-2d.json](./76990-wrestling-revolution-2d.json) |
 | Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
 | Wrestling Revolution Pro | 91987 | [91987-wrestling-revolution-pro.json](./91987-wrestling-revolution-pro.json) |
