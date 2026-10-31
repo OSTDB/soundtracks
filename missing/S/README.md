@@ -11968,6 +11968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer | 197595 | [197595-slayer.json](./197595-slayer.json) |
 | Slayer | 252230 | [252230-slayer.json](./252230-slayer.json) |
 | Slayer | 260130 | [260130-slayer.json](./260130-slayer.json) |
+| Slayer | 72424 | [72424-slayer.json](./72424-slayer.json) |
 | Slayer Cat | 147362 | [147362-slayer-cat.json](./147362-slayer-cat.json) |
 | Slayer Knight | 297354 | [297354-slayer-knight.json](./297354-slayer-knight.json) |
 | Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
@@ -13820,6 +13821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Rescue | 291172 | [291172-sniper-rescue.json](./291172-sniper-rescue.json) |
 | Sniper Road | 190956 | [190956-sniper-road.json](./190956-sniper-road.json) |
 | Sniper Rush | 259435 | [259435-sniper-rush.json](./259435-sniper-rush.json) |
+| Sniper Rust VR | 72426 | [72426-sniper-rust-vr.json](./72426-sniper-rust-vr.json) |
 | Sniper Scope: Realistic Tactical Shooter | 336397 | [336397-sniper-scope-realistic-tactical-shooter.json](./336397-sniper-scope-realistic-tactical-shooter.json) |
 | Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
 | Sniper Shooter: Gun Shooting | 86982 | [86982-sniper-shooter-gun-shooting.json](./86982-sniper-shooter-gun-shooting.json) |
@@ -16865,6 +16867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Launcher | 208073 | [208073-soul-launcher.json](./208073-soul-launcher.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
 | Soul Link | 207644 | [207644-soul-link.json](./207644-soul-link.json) |
+| Soul Link Extension | 72440 | [72440-soul-link-extension.json](./72440-soul-link-extension.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
 | Soul Machine | 351707 | [351707-soul-machine.json](./351707-soul-machine.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
@@ -17703,6 +17706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Force | 346136 | [346136-space-force.json](./346136-space-force.json) |
 | Space Force | 346137 | [346137-space-force.json](./346137-space-force.json) |
+| Space Force | 72432 | [72432-space-force.json](./72432-space-force.json) |
 | Space Force Bargain Bin | 379412 | [379412-space-force-bargain-bin.json](./379412-space-force-bargain-bin.json) |
 | Space Force Squadron | 155860 | [155860-space-force-squadron.json](./155860-space-force-squadron.json) |
 | Space Force: Rogue Universe | 10259 | [10259-space-force-rogue-universe.json](./10259-space-force-rogue-universe.json) |
@@ -17783,6 +17787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harrier II | 398284 | [398284-space-harrier-ii.json](./398284-space-harrier-ii.json) |
 | Space Harrier II | 4498 | [4498-space-harrier-ii.json](./4498-space-harrier-ii.json) |
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
+| Space Haste 2 | 72536 | [72536-space-haste-2.json](./72536-space-haste-2.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hauler | 182800 | [182800-space-hauler.json](./182800-space-hauler.json) |
 | Space Haven | 103246 | [103246-space-haven.json](./103246-space-haven.json) |
