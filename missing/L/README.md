@@ -2257,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Soul Reaver Remastered | 324083 | [324083-legacy-of-kain-soul-reaver-remastered.json](./324083-legacy-of-kain-soul-reaver-remastered.json) |
 | Legacy of Kalevala | 304120 | [304120-legacy-of-kalevala.json](./304120-legacy-of-kalevala.json) |
 | Legacy of Lina | 110521 | [110521-legacy-of-lina.json](./110521-legacy-of-lina.json) |
+| Legacy of Medieval | 83283 | [83283-legacy-of-medieval.json](./83283-legacy-of-medieval.json) |
 | Legacy of Orsinium | 393944 | [393944-legacy-of-orsinium.json](./393944-legacy-of-orsinium.json) |
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
 | Legacy of Shnaus: Horror Room Escape | 386196 | [386196-legacy-of-shnaus-horror-room-escape.json](./386196-legacy-of-shnaus-horror-room-escape.json) |
@@ -3898,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberator | 15250 | [15250-liberator.json](./15250-liberator.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
 | Liberator | 18456 | [18456-liberator.json](./18456-liberator.json) |
+| Liberator / Space Fiends | 83300 | [83300-liberator-space-fiends.json](./83300-liberator-space-fiends.json) |
 | Liberator TD | 68573 | [68573-liberator-td.json](./68573-liberator-td.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | LiberoGrande | 40372 | [40372-liberogrande.json](./40372-liberogrande.json) |
@@ -6428,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoLdle | 327637 | [327637-loldle.json](./327637-loldle.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
+| Lolita Errand 2 | 83331 | [83331-lolita-errand-2.json](./83331-lolita-errand-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
 | Lollihop | 277811 | [277811-lollihop.json](./277811-lollihop.json) |
 | Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
@@ -8267,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loving Deads: The House of the Dead EX | 72769 | [72769-loving-deads-the-house-of-the-dead-ex.json](./72769-loving-deads-the-house-of-the-dead-ex.json) |
 | Loving Flesh | 177264 | [177264-loving-flesh.json](./177264-loving-flesh.json) |
 | Loving Life | 25494 | [25494-loving-life.json](./25494-loving-life.json) |
+| Loving Life with Hello Kitty & Friends | 83208 | [83208-loving-life-with-hello-kitty-and-friends.json](./83208-loving-life-with-hello-kitty-and-friends.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
 | Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
 | Lovingly Evil | 137879 | [137879-lovingly-evil.json](./137879-lovingly-evil.json) |
