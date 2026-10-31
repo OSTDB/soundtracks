@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking With Dinosaurs | 380813 | [380813-walking-with-dinosaurs.json](./380813-walking-with-dinosaurs.json) |
 | Walking-Race | 247053 | [247053-walking-race.json](./247053-walking-race.json) |
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
+| Walkr: Fitness Space Adventure | 115287 | [115287-walkr-fitness-space-adventure.json](./115287-walkr-fitness-space-adventure.json) |
 | Walks in Paris Dress Up | 106941 | [106941-walks-in-paris-dress-up.json](./106941-walks-in-paris-dress-up.json) |
 | WalkScape | 304729 | [304729-walkscape.json](./304729-walkscape.json) |
 | Walkure Romanze More & More | 194624 | [194624-walkure-romanze-more-and-more.json](./194624-walkure-romanze-more-and-more.json) |
@@ -1441,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Arcane Magic Deluxe | 53907 | [53907-warhammer-arcane-magic-deluxe.json](./53907-warhammer-arcane-magic-deluxe.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
 | Warhammer: Battle March | 20786 | [20786-warhammer-battle-march.json](./20786-warhammer-battle-march.json) |
+| Warhammer: Chaos & Conquest | 115298 | [115298-warhammer-chaos-and-conquest.json](./115298-warhammer-chaos-and-conquest.json) |
 | Warhammer: Chaosbane - Deluxe Edition | 115064 | [115064-warhammer-chaosbane-deluxe-edition.json](./115064-warhammer-chaosbane-deluxe-edition.json) |
 | Warhammer: Chaosbane - Magnus Edition | 115065 | [115065-warhammer-chaosbane-magnus-edition.json](./115065-warhammer-chaosbane-magnus-edition.json) |
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
