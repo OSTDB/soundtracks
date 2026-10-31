@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watashi ga Sekai wo Sukutta Hi | 408584 | [408584-watashi-ga-sekai-wo-sukutta-hi.json](./408584-watashi-ga-sekai-wo-sukutta-hi.json) |
 | Watashi ha Joyuu ni Naritai no | 202137 | [202137-watashi-ha-joyuu-ni-naritai-no.json](./202137-watashi-ha-joyuu-ni-naritai-no.json) |
 | Watashi Koso ga Gakuen no Joou-sama | 296192 | [296192-watashi-koso-ga-gakuen-no-joou-sama.json](./296192-watashi-koso-ga-gakuen-no-joou-sama.json) |
+| Watashi no Arika. | 77758 | [77758-watashi-no-arika.json](./77758-watashi-no-arika.json) |
 | Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
 | Watashi no Kare ha Pilot 2012 | 64834 | [64834-watashi-no-kare-ha-pilot-2012.json](./64834-watashi-no-kare-ha-pilot-2012.json) |
 | Watashi no Kokoro ha Kirei desu ka: Am I Kind Hearted? | 207663 | [207663-watashi-no-kokoro-ha-kirei-desu-ka-am-i-kind-hearted.json](./207663-watashi-no-kokoro-ha-kirei-desu-ka-am-i-kind-hearted.json) |
