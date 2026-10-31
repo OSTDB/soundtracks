@@ -868,7 +868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4962,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 18 Resort Anthem | 66726 | [66726-beatmania-iidx-18-resort-anthem.json](./66726-beatmania-iidx-18-resort-anthem.json) |
 | Beatmania IIDX 19 Lincle | 81478 | [81478-beatmania-iidx-19-lincle.json](./81478-beatmania-iidx-19-lincle.json) |
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
+| Beatmania IIDX 24 Sinobuz | 108141 | [108141-beatmania-iidx-24-sinobuz.json](./108141-beatmania-iidx-24-sinobuz.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
 | Beatmania IIDX 27 Heroic Verse | 127142 | [127142-beatmania-iidx-27-heroic-verse.json](./127142-beatmania-iidx-27-heroic-verse.json) |
 | Beatmania IIDX 29 CastHour | 163564 | [163564-beatmania-iidx-29-casthour.json](./163564-beatmania-iidx-29-casthour.json) |
@@ -5178,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
+| Becky Kansatsu Nikki | 108147 | [108147-becky-kansatsu-nikki.json](./108147-becky-kansatsu-nikki.json) |
 | Becky's Message | 273283 | [273283-beckys-message.json](./273283-beckys-message.json) |
 | Becloudead | 169806 | [169806-becloudead.json](./169806-becloudead.json) |
 | Becolor | 110245 | [110245-becolor.json](./110245-becolor.json) |
@@ -5443,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beggar's Life | 391612 | [391612-beggars-life.json](./391612-beggars-life.json) |
 | Beggar's Road | 406195 | [406195-beggars-road.json](./406195-beggars-road.json) |
 | Begie Ade: A lyric of Lie and Retribution | 153533 | [153533-begie-ade-a-lyric-of-lie-and-retribution.json](./153533-begie-ade-a-lyric-of-lie-and-retribution.json) |
+| Begin | 108131 | [108131-begin.json](./108131-begin.json) |
 | Beginner'sGame | 96643 | [96643-beginnersgame.json](./96643-beginnersgame.json) |
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | Beginning of the Rain | 248387 | [248387-beginning-of-the-rain.json](./248387-beginning-of-the-rain.json) |
@@ -6381,6 +6383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond The Blight | 419636 | [419636-beyond-the-blight.json](./419636-beyond-the-blight.json) |
 | Beyond the Board | 195954 | [195954-beyond-the-board.json](./195954-beyond-the-board.json) |
 | Beyond The Board | 289383 | [289383-beyond-the-board.json](./289383-beyond-the-board.json) |
+| Beyond the Bounds | 108115 | [108115-beyond-the-bounds.json](./108115-beyond-the-bounds.json) |
 | Beyond the Bow | 153789 | [153789-beyond-the-bow.json](./153789-beyond-the-bow.json) |
 | Beyond the Breach | 291863 | [291863-beyond-the-breach.json](./291863-beyond-the-breach.json) |
 | Beyond the Bridge | 338232 | [338232-beyond-the-bridge.json](./338232-beyond-the-bridge.json) |
@@ -6845,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
 | Big Nose the Caveman | 11960 | [11960-big-nose-the-caveman.json](./11960-big-nose-the-caveman.json) |
+| Big Nose's American Adventure | 108112 | [108112-big-noses-american-adventure.json](./108112-big-noses-american-adventure.json) |
 | Big Oil | 91864 | [91864-big-oil.json](./91864-big-oil.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
 | Big Orbit | 308450 | [308450-big-orbit.json](./308450-big-orbit.json) |
