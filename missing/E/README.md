@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elves Fantasy: Hentai Puzzle | 208229 | [208229-elves-fantasy-hentai-puzzle.json](./208229-elves-fantasy-hentai-puzzle.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
+| Elves Realm | 62943 | [62943-elves-realm.json](./62943-elves-realm.json) |
 | Elves vs Goblins Defender | 31609 | [31609-elves-vs-goblins-defender.json](./31609-elves-vs-goblins-defender.json) |
 | Elves vs. Goblins Mahjongg World | 275737 | [275737-elves-vs-goblins-mahjongg-world.json](./275737-elves-vs-goblins-mahjongg-world.json) |
 | Elves: The Enchanted Magic Heart | 330603 | [330603-elves-the-enchanted-magic-heart.json](./330603-elves-the-enchanted-magic-heart.json) |
@@ -6822,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Exapunks | 106122 | [106122-exapunks.json](./106122-exapunks.json) |
+| ExaSkeleton | 63019 | [63019-exaskeleton.json](./63019-exaskeleton.json) |
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Exaverse | 397601 | [397601-exaverse.json](./397601-exaverse.json) |
 | Exc. Reigai Jishou Kanshikyoku | 405018 | [405018-exc-reigai-jishou-kanshikyoku.json](./405018-exc-reigai-jishou-kanshikyoku.json) |
