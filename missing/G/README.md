@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget Trial | 137882 | [137882-gadget-trial.json](./137882-gadget-trial.json) |
 | Gadget Tycoon | 245892 | [245892-gadget-tycoon.json](./245892-gadget-tycoon.json) |
 | Gadget Tycoon | 77189 | [77189-gadget-tycoon.json](./77189-gadget-tycoon.json) |
+| Gadget: Invention, Travel & Adventure | 73567 | [73567-gadget-invention-travel-and-adventure.json](./73567-gadget-invention-travel-and-adventure.json) |
 | Gadget: Past as Future | 131905 | [131905-gadget-past-as-future.json](./131905-gadget-past-as-future.json) |
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
 | Gadkiy Ya 2 | 210318 | [210318-gadkiy-ya-2.json](./210318-gadkiy-ya-2.json) |
@@ -7691,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity | 291912 | [291912-gravity.json](./291912-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
 | Gravity Ace | 114912 | [114912-gravity-ace.json](./114912-gravity-ace.json) |
+| Gravity Angels Part 1: Alien Discovery | 73563 | [73563-gravity-angels-part-1-alien-discovery.json](./73563-gravity-angels-part-1-alien-discovery.json) |
 | Gravity Angels Part 2: The Betrayal | 229359 | [229359-gravity-angels-part-2-the-betrayal.json](./229359-gravity-angels-part-2-the-betrayal.json) |
 | Gravity Angels Part 3: Payback | 229360 | [229360-gravity-angels-part-3-payback.json](./229360-gravity-angels-part-3-payback.json) |
 | Gravity Angels Part 4: Death Force | 229361 | [229361-gravity-angels-part-4-death-force.json](./229361-gravity-angels-part-4-death-force.json) |
