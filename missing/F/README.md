@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fausseté Amour | 37628 | [37628-faussete-amour.json](./37628-faussete-amour.json) |
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
 | Faust's Folly | 54952 | [54952-fausts-folly.json](./54952-fausts-folly.json) |
+| Faustão Dating Sim | 116655 | [116655-faustao-dating-sim.json](./116655-faustao-dating-sim.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Faux Gravity | 327661 | [327661-faux-gravity.json](./327661-faux-gravity.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
@@ -3415,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeling Square? | 155711 | [155711-feeling-square.json](./155711-feeling-square.json) |
 | Feelings | 217215 | [217215-feelings.json](./217215-feelings.json) |
 | Feelings Adrift | 33959 | [33959-feelings-adrift.json](./33959-feelings-adrift.json) |
+| Feels | 116706 | [116706-feels.json](./116706-feels.json) |
 | FeeSoeeD | 51556 | [51556-feesoeed.json](./51556-feesoeed.json) |
 | Feet in the Snow | 234797 | [234797-feet-in-the-snow.json](./234797-feet-in-the-snow.json) |
 | Feet Paradise | 301885 | [301885-feet-paradise.json](./301885-feet-paradise.json) |
@@ -3581,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Boyfriend | 268659 | [268659-feral-boyfriend.json](./268659-feral-boyfriend.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
 | Feral Flowers | 182323 | [182323-feral-flowers.json](./182323-feral-flowers.json) |
+| Feral Frontier | 116692 | [116692-feral-frontier.json](./116692-feral-frontier.json) |
 | Feral Fury | 30735 | [30735-feral-fury.json](./30735-feral-fury.json) |
 | Feral Hearts | 198326 | [198326-feral-hearts.json](./198326-feral-hearts.json) |
 | Feral Rites | 23955 | [23955-feral-rites.json](./23955-feral-rites.json) |
@@ -7211,6 +7214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Soccer | 254359 | [254359-flipper-soccer.json](./254359-flipper-soccer.json) |
 | Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
 | Flippets | 321657 | [321657-flippets.json](./321657-flippets.json) |
+| Flippin Kaktus | 116663 | [116663-flippin-kaktus.json](./116663-flippin-kaktus.json) |
 | Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
 | Flippin Ninjas | 163149 | [163149-flippin-ninjas.json](./163149-flippin-ninjas.json) |
 | Flippin' Phones | 58884 | [58884-flippin-phones.json](./58884-flippin-phones.json) |
