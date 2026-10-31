@@ -5165,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathletix | 188434 | [188434-mathletix.json](./188434-mathletix.json) |
 | Mathmaria | 294052 | [294052-mathmaria.json](./294052-mathmaria.json) |
 | Mathmateer | 396760 | [396760-mathmateer.json](./396760-mathmateer.json) |
+| Mathology - Brain Game | 95768 | [95768-mathology-brain-game.json](./95768-mathology-brain-game.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Mathooze - The Math Puzzle Game! | 24964 | [24964-mathooze-the-math-puzzle-game.json](./24964-mathooze-the-math-puzzle-game.json) |
 | MathRat | 370905 | [370905-mathrat.json](./370905-mathrat.json) |
@@ -14067,6 +14068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
 | Monster Adventure | 194129 | [194129-monster-adventure.json](./194129-monster-adventure.json) |
 | Monster Adventure | 195891 | [195891-monster-adventure.json](./195891-monster-adventure.json) |
+| Monster Adventure | 95732 | [95732-monster-adventure.json](./95732-monster-adventure.json) |
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Adventures Crazy | 239230 | [239230-monster-adventures-crazy.json](./239230-monster-adventures-crazy.json) |
 | Monster Alchemy | 403768 | [403768-monster-alchemy.json](./403768-monster-alchemy.json) |
@@ -15472,6 +15474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morse Cod | 182901 | [182901-morse-cod.json](./182901-morse-cod.json) |
 | Morse Code | 103677 | [103677-morse-code.json](./103677-morse-code.json) |
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
+| Morse Toad Redux | 95764 | [95764-morse-toad-redux.json](./95764-morse-toad-redux.json) |
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
 | Morsels | 314931 | [314931-morsels.json](./314931-morsels.json) |
 | Morshu RTX | 144069 | [144069-morshu-rtx.json](./144069-morshu-rtx.json) |
@@ -17053,6 +17056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTB Downhill Simulator | 53389 | [53389-mtb-downhill-simulator.json](./53389-mtb-downhill-simulator.json) |
 | MTBF | 261698 | [261698-mtbf.json](./261698-mtbf.json) |
 | MTF: Moth To a Flame | 379980 | [379980-mtf-moth-to-a-flame.json](./379980-mtf-moth-to-a-flame.json) |
+| MTG XRay | 95728 | [95728-mtg-xray.json](./95728-mtg-xray.json) |
 | Mtion studio | 325292 | [325292-mtion-studio.json](./325292-mtion-studio.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
 | MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
@@ -18269,6 +18273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cozy Room: Zen | 366793 | [366793-my-cozy-room-zen.json](./366793-my-cozy-room-zen.json) |
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Craft : Creative & Survival | 97166 | [97166-my-craft-creative-and-survival.json](./97166-my-craft-creative-and-survival.json) |
+| My Craft Pixel Adventure | 95748 | [95748-my-craft-pixel-adventure.json](./95748-my-craft-pixel-adventure.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
 | My Craft: Pro Exploration | 96701 | [96701-my-craft-pro-exploration.json](./96701-my-craft-pro-exploration.json) |
 | My Crazy High School Romcom | 205894 | [205894-my-crazy-high-school-romcom.json](./205894-my-crazy-high-school-romcom.json) |
