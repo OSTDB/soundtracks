@@ -9601,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: History Edition | 135739 | [135739-anno-1701-history-edition.json](./135739-anno-1701-history-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
+| Anno 1701: The Curse of the Dragon | 71279 | [71279-anno-1701-the-curse-of-the-dragon.json](./71279-anno-1701-the-curse-of-the-dragon.json) |
 | Anno 1701: The Sunken Dragon | 8226 | [8226-anno-1701-the-sunken-dragon.json](./8226-anno-1701-the-sunken-dragon.json) |
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
 | Anno 1800: Amusements Pack | 227317 | [227317-anno-1800-amusements-pack.json](./227317-anno-1800-amusements-pack.json) |
