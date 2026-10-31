@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olimdal | 113558 | [113558-olimdal.json](./113558-olimdal.json) |
 | Olimpia OT | 415015 | [415015-olimpia-ot.json](./415015-olimpia-ot.json) |
 | Olimpiadas 92: Gimnasia Deportiva | 111310 | [111310-olimpiadas-92-gimnasia-deportiva.json](./111310-olimpiadas-92-gimnasia-deportiva.json) |
+| Olin in Emerald: Kingdom of Myrrh | 73069 | [73069-olin-in-emerald-kingdom-of-myrrh.json](./73069-olin-in-emerald-kingdom-of-myrrh.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
 | Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OLO game | 88816 | [88816-olo-game.json](./88816-olo-game.json) |
 | Olo Loco | 175224 | [175224-olo-loco.json](./175224-olo-loco.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
+| OloFight | 73066 | [73066-olofight.json](./73066-olofight.json) |
 | Oloo | 383417 | [383417-oloo.json](./383417-oloo.json) |
 | Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
@@ -1923,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once a Porn a Time: Porn and Cards | 306004 | [306004-once-a-porn-a-time-porn-and-cards.json](./306004-once-a-porn-a-time-porn-and-cards.json) |
 | Once A Stray | 114218 | [114218-once-a-stray.json](./114218-once-a-stray.json) |
 | Once a Tale | 238461 | [238461-once-a-tale.json](./238461-once-a-tale.json) |
+| Once and Future | 73068 | [73068-once-and-future.json](./73068-once-and-future.json) |
 | Once Be Human | 208149 | [208149-once-be-human.json](./208149-once-be-human.json) |
 | Once Before Us | 373838 | [373838-once-before-us.json](./373838-once-before-us.json) |
 | Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
