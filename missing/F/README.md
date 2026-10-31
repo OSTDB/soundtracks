@@ -3912,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiendish Freddy's Big Top O' Fun | 12095 | [12095-fiendish-freddys-big-top-o-fun.json](./12095-fiendish-freddys-big-top-o-fun.json) |
 | Fiendish Thieves | 156998 | [156998-fiendish-thieves.json](./156998-fiendish-thieves.json) |
 | Fiendrise | 331659 | [331659-fiendrise.json](./331659-fiendrise.json) |
+| Fiends | 83299 | [83299-fiends.json](./83299-fiends.json) |
 | Fiends of Imprisonment | 34265 | [34265-fiends-of-imprisonment.json](./34265-fiends-of-imprisonment.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | Fierce Dragon Godzilla: Metropolis Destruction!! | 75885 | [75885-fierce-dragon-godzilla-metropolis-destruction.json](./75885-fierce-dragon-godzilla-metropolis-destruction.json) |
@@ -6858,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
 | Flat Machine | 304316 | [304316-flat-machine.json](./304316-flat-machine.json) |
+| Flat Pack | 83287 | [83287-flat-pack.json](./83287-flat-pack.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
 | Flat Spot | 258129 | [258129-flat-spot.json](./258129-flat-spot.json) |
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
