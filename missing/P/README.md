@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning: Me and my Doctor's Life in the Hospital | 207648 | [207648-paradise-cleaning-me-and-my-doctors-life-in-the-hospital.json](./207648-paradise-cleaning-me-and-my-doctors-life-in-the-hospital.json) |
+| Paradise Cleaning! | 110652 | [110652-paradise-cleaning.json](./110652-paradise-cleaning.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Cleaning!: Sexual Massage shop - Akari | 246795 | [246795-paradise-cleaning-sexual-massage-shop-akari.json](./246795-paradise-cleaning-sexual-massage-shop-akari.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcel Push | 378825 | [378825-parcel-push.json](./378825-parcel-push.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
+| Parcheesi Boardgame Simulator | 110613 | [110613-parcheesi-boardgame-simulator.json](./110613-parcheesi-boardgame-simulator.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Parchisi | 209416 | [209416-parchisi.json](./209416-parchisi.json) |
 | Parchisi Star Online | 138606 | [138606-parchisi-star-online.json](./138606-parchisi-star-online.json) |
@@ -8796,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
 | Play Friends: Party Games | 342266 | [342266-play-friends-party-games.json](./342266-play-friends-party-games.json) |
+| Play Girls | 110611 | [110611-play-girls.json](./110611-play-girls.json) |
 | Play It Again Sam | 83374 | [83374-play-it-again-sam.json](./83374-play-it-again-sam.json) |
 | Play It Back | 364645 | [364645-play-it-back.json](./364645-play-it-back.json) |
 | Play Minigames with Reiko | 265771 | [265771-play-minigames-with-reiko.json](./265771-play-minigames-with-reiko.json) |
@@ -12500,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prank'd: Prank Your Way Around the World | 209928 | [209928-prankd-prank-your-way-around-the-world.json](./209928-prankd-prank-your-way-around-the-world.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
+| Pratagon | 110654 | [110654-pratagon.json](./110654-pratagon.json) |
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
 | Praxion-7 | 416332 | [416332-praxion-7.json](./416332-praxion-7.json) |
@@ -15499,6 +15503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puddle Knights | 126338 | [126338-puddle-knights.json](./126338-puddle-knights.json) |
 | Puddle Pirates | 176398 | [176398-puddle-pirates.json](./176398-puddle-pirates.json) |
 | Pudgy Party | 341412 | [341412-pudgy-party.json](./341412-pudgy-party.json) |
+| Pudji | 110628 | [110628-pudji.json](./110628-pudji.json) |
 | Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
 | Puella Magi Madoka Magica Portable | 11846 | [11846-puella-magi-madoka-magica-portable.json](./11846-puella-magi-madoka-magica-portable.json) |
@@ -15843,6 +15848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppergeist | 375515 | [375515-puppergeist.json](./375515-puppergeist.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
+| Puppet Blaster | 110669 | [110669-puppet-blaster.json](./110669-puppet-blaster.json) |
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
 | Puppet Knight | 91819 | [91819-puppet-knight.json](./91819-puppet-knight.json) |
