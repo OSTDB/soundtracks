@@ -8478,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock'n'Roll: Card Wargame | 163957 | [163957-rocknroll-card-wargame.json](./163957-rocknroll-card-wargame.json) |
 | Rocka Feller | 100122 | [100122-rocka-feller.json](./100122-rocka-feller.json) |
 | Rockabilly Kid | 171549 | [171549-rockabilly-kid.json](./171549-rockabilly-kid.json) |
+| RockaBowling VR | 117348 | [117348-rockabowling-vr.json](./117348-rockabowling-vr.json) |
 | Rockaroids | 63808 | [63808-rockaroids.json](./63808-rockaroids.json) |
 | Rockaroids Remix | 37703 | [37703-rockaroids-remix.json](./37703-rockaroids-remix.json) |
 | RockBeasts | 333047 | [333047-rockbeasts.json](./333047-rockbeasts.json) |
@@ -9891,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room of Depression | 216572 | [216572-room-of-depression.json](./216572-room-of-depression.json) |
 | Room of Doom | 18533 | [18533-room-of-doom.json](./18533-room-of-doom.json) |
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
+| Room of Pandora | 117326 | [117326-room-of-pandora.json](./117326-room-of-pandora.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room Planner | 183268 | [183268-room-planner.json](./183268-room-planner.json) |
 | Room Prison | 418835 | [418835-room-prison.json](./418835-room-prison.json) |
