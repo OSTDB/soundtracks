@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7991,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blablaland | 286667 | [286667-blablaland.json](./286667-blablaland.json) |
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Blabyrinth | 145227 | [145227-blabyrinth.json](./145227-blabyrinth.json) |
+| Black | 117992 | [117992-black.json](./117992-black.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black & Bruised | 3819 | [3819-black-and-bruised.json](./3819-black-and-bruised.json) |
 | Black & White | 308 | [308-black-and-white.json](./308-black-and-white.json) |
@@ -8067,6 +8069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Clover: Quartet Knights | 76736 | [76736-black-clover-quartet-knights.json](./76736-black-clover-quartet-knights.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Blue | 224123 | [224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json](./224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Wizard King | 224122 | [224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json](./224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json) |
+| Black Clover: Quartet Knights Deluxe Edition | 117984 | [117984-black-clover-quartet-knights-deluxe-edition.json](./117984-black-clover-quartet-knights-deluxe-edition.json) |
 | Black Coal | 207167 | [207167-black-coal.json](./207167-black-coal.json) |
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
 | Black College Football: The Xperience | 47439 | [47439-black-college-football-the-xperience.json](./47439-black-college-football-the-xperience.json) |
@@ -8675,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Time: Dismal Swamp | 155038 | [155038-blades-of-time-dismal-swamp.json](./155038-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Dismal Swamp | 170418 | [170418-blades-of-time-dismal-swamp.json](./170418-blades-of-time-dismal-swamp.json) |
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
+| Blades of Time: Remastered | 117949 | [117949-blades-of-time-remastered.json](./117949-blades-of-time-remastered.json) |
 | Blades of Triangulum | 41816 | [41816-blades-of-triangulum.json](./41816-blades-of-triangulum.json) |
 | Blades of Triangulum | 41817 | [41817-blades-of-triangulum.json](./41817-blades-of-triangulum.json) |
 | Blades of Vengeance | 45565 | [45565-blades-of-vengeance.json](./45565-blades-of-vengeance.json) |
