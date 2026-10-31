@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Coin Chapter 5 | 281955 | [281955-ball-coin-chapter-5.json](./281955-ball-coin-chapter-5.json) |
 | Ball Destiny | 291174 | [291174-ball-destiny.json](./291174-ball-destiny.json) |
 | Ball Dodge | 306048 | [306048-ball-dodge.json](./306048-ball-dodge.json) |
+| Ball Driver | 89592 | [89592-ball-driver.json](./89592-ball-driver.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
 | Ball Dude Adventures | 176475 | [176475-ball-dude-adventures.json](./176475-ball-dude-adventures.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
 | Battlefield V: Definitive Edition | 140898 | [140898-battlefield-v-definitive-edition.json](./140898-battlefield-v-definitive-edition.json) |
+| Battlefield V: Deluxe Edition | 89571 | [89571-battlefield-v-deluxe-edition.json](./89571-battlefield-v-deluxe-edition.json) |
 | Battlefield V: Year 2 Edition | 134372 | [134372-battlefield-v-year-2-edition.json](./134372-battlefield-v-year-2-edition.json) |
 | Battlefield Vietnam | 335 | [335-battlefield-vietnam.json](./335-battlefield-vietnam.json) |
 | Battlefield Waltz | 253726 | [253726-battlefield-waltz.json](./253726-battlefield-waltz.json) |
@@ -11932,6 +11934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
 | Boom Face | 169637 | [169637-boom-face.json](./169637-boom-face.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
+| Boom Fighters | 89586 | [89586-boom-fighters.json](./89586-boom-fighters.json) |
 | Boom Gear | 351555 | [351555-boom-gear.json](./351555-boom-gear.json) |
 | Boom Guys | 176141 | [176141-boom-guys.json](./176141-boom-guys.json) |
 | Boom Island | 68810 | [68810-boom-island.json](./68810-boom-island.json) |
@@ -15020,6 +15023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
 | Bubble Pirate Shooter | 220812 | [220812-bubble-pirate-shooter.json](./220812-bubble-pirate-shooter.json) |
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
+| Bubble Pop | 89466 | [89466-bubble-pop.json](./89466-bubble-pop.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
 | Bubble Pop: Shoot Bubbles | 97067 | [97067-bubble-pop-shoot-bubbles.json](./97067-bubble-pop-shoot-bubbles.json) |
@@ -15076,6 +15080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
 | Bubble Wars | 215480 | [215480-bubble-wars.json](./215480-bubble-wars.json) |
+| Bubble Whirl Shooter | 89616 | [89616-bubble-whirl-shooter.json](./89616-bubble-whirl-shooter.json) |
 | Bubble Witch 3 Saga | 78386 | [78386-bubble-witch-3-saga.json](./78386-bubble-witch-3-saga.json) |
 | Bubble With Djealy | 157966 | [157966-bubble-with-djealy.json](./157966-bubble-with-djealy.json) |
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
