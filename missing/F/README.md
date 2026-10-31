@@ -6761,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Octane | 174159 | [174159-flappy-octane.json](./174159-flappy-octane.json) |
 | Flappy Outside | 262222 | [262222-flappy-outside.json](./262222-flappy-outside.json) |
 | Flappy Person | 173213 | [173213-flappy-person.json](./173213-flappy-person.json) |
+| Flappy Pimba | 75554 | [75554-flappy-pimba.json](./75554-flappy-pimba.json) |
 | Flappy Pink Bird | 87075 | [87075-flappy-pink-bird.json](./87075-flappy-pink-bird.json) |
 | Flappy Pixel! | 249308 | [249308-flappy-pixel.json](./249308-flappy-pixel.json) |
 | Flappy Planes | 183743 | [183743-flappy-planes.json](./183743-flappy-planes.json) |
