@@ -3202,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inevitability | 36491 | [36491-inevitability.json](./36491-inevitability.json) |
 | Inevitable | 179067 | [179067-inevitable.json](./179067-inevitable.json) |
 | Inevitable Light | 287219 | [287219-inevitable-light.json](./287219-inevitable-light.json) |
+| Inevitable Outcome | 67014 | [67014-inevitable-outcome.json](./67014-inevitable-outcome.json) |
 | Inexistence | 18957 | [18957-inexistence.json](./18957-inexistence.json) |
 | Inexistence Rebirth | 133128 | [133128-inexistence-rebirth.json](./133128-inexistence-rebirth.json) |
 | Inexorable | 293002 | [293002-inexorable.json](./293002-inexorable.json) |
