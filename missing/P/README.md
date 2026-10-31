@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Girl | 99226 | [99226-pastel-girl.json](./99226-pastel-girl.json) |
 | Pastel Island | 268444 | [268444-pastel-island.json](./268444-pastel-island.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
+| Pastel Muse | 77716 | [77716-pastel-muse.json](./77716-pastel-muse.json) |
 | Pastel Parade | 280466 | [280466-pastel-parade.json](./280466-pastel-parade.json) |
 | Pastel Pop | 242143 | [242143-pastel-pop.json](./242143-pastel-pop.json) |
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
@@ -16644,6 +16645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Dazzle 3D | 160059 | [160059-puzzle-dazzle-3d.json](./160059-puzzle-dazzle-3d.json) |
 | Puzzle De Bowling | 70863 | [70863-puzzle-de-bowling.json](./70863-puzzle-de-bowling.json) |
 | Puzzle de Harvest Moon | 20897 | [20897-puzzle-de-harvest-moon.json](./20897-puzzle-de-harvest-moon.json) |
+| Puzzle de Maid | 77759 | [77759-puzzle-de-maid.json](./77759-puzzle-de-maid.json) |
 | Puzzle de Pon! R | 47579 | [47579-puzzle-de-pon-r.json](./47579-puzzle-de-pon-r.json) |
 | Puzzle de Shoubu yo! Wootama-chan | 282515 | [282515-puzzle-de-shoubu-yo-wootama-chan.json](./282515-puzzle-de-shoubu-yo-wootama-chan.json) |
 | Puzzle Defense | 143391 | [143391-puzzle-defense.json](./143391-puzzle-defense.json) |
