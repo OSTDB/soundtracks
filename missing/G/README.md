@@ -146,10 +146,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series: Conveyor Toy Packing | 84652 | [84652-g-g-series-conveyor-toy-packing.json](./84652-g-g-series-conveyor-toy-packing.json) |
 | G.G Series: Cosmo Rally!! | 84651 | [84651-g-g-series-cosmo-rally.json](./84651-g-g-series-cosmo-rally.json) |
 | G.G Series: D-Tank | 84546 | [84546-g-g-series-d-tank.json](./84546-g-g-series-d-tank.json) |
+| G.G Series: Dark Spirits | 84505 | [84505-g-g-series-dark-spirits.json](./84505-g-g-series-dark-spirits.json) |
 | G.G Series: Drift Circuit | 84649 | [84649-g-g-series-drift-circuit.json](./84649-g-g-series-drift-circuit.json) |
 | G.G Series: Drilling Attack!! | 84650 | [84650-g-g-series-drilling-attack.json](./84650-g-g-series-drilling-attack.json) |
 | G.G Series: Great Whip Adventure | 84567 | [84567-g-g-series-great-whip-adventure.json](./84567-g-g-series-great-whip-adventure.json) |
 | G.G Series: Hero Puzzle | 84569 | [84569-g-g-series-hero-puzzle.json](./84569-g-g-series-hero-puzzle.json) |
+| G.G Series: Horizontal Bar | 84501 | [84501-g-g-series-horizontal-bar.json](./84501-g-g-series-horizontal-bar.json) |
 | G.G Series: Ninja Karakuri Den | 84648 | [84648-g-g-series-ninja-karakuri-den.json](./84648-g-g-series-ninja-karakuri-den.json) |
 | G.G Series: Nyokki | 84568 | [84568-g-g-series-nyokki.json](./84568-g-g-series-nyokki.json) |
 | G.G Series: Run & Strike | 60080 | [60080-g-g-series-run-and-strike.json](./60080-g-g-series-run-and-strike.json) |
@@ -4667,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Hunters | 185280 | [185280-glory-hunters.json](./185280-glory-hunters.json) |
 | Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
 | Glory of Generals: Pacific War | 89039 | [89039-glory-of-generals-pacific-war.json](./89039-glory-of-generals-pacific-war.json) |
+| Glory of Generals: The Pacific | 84507 | [84507-glory-of-generals-the-pacific.json](./84507-glory-of-generals-the-pacific.json) |
 | Glory of Heracles | 21766 | [21766-glory-of-heracles.json](./21766-glory-of-heracles.json) |
 | Glory of Rome | 142022 | [142022-glory-of-rome.json](./142022-glory-of-rome.json) |
 | Glory of the Arena | 217349 | [217349-glory-of-the-arena.json](./217349-glory-of-the-arena.json) |
@@ -4877,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnomophobia | 381068 | [381068-gnomophobia.json](./381068-gnomophobia.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
+| Gnomz | 84506 | [84506-gnomz.json](./84506-gnomz.json) |
 | Gnorts vs. The Greylenoids | 381985 | [381985-gnorts-vs-the-greylenoids.json](./381985-gnorts-vs-the-greylenoids.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
@@ -4991,8 +4995,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Rescue | 238293 | [238293-go-rescue.json](./238293-go-rescue.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | GO Series: 10 Second Run | 80030 | [80030-go-series-10-second-run.json](./80030-go-series-10-second-run.json) |
+| GO Series: Defense Wars | 84504 | [84504-go-series-defense-wars.json](./84504-go-series-defense-wars.json) |
+| GO Series: Earth Saver | 84503 | [84503-go-series-earth-saver.json](./84503-go-series-earth-saver.json) |
+| GO Series: Fishing Resort | 84502 | [84502-go-series-fishing-resort.json](./84502-go-series-fishing-resort.json) |
 | GO Series: Picdun | 56903 | [56903-go-series-picdun.json](./56903-go-series-picdun.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
+| GO Series: Tower of Deus | 84499 | [84499-go-series-tower-of-deus.json](./84499-go-series-tower-of-deus.json) |
 | Go Soccer | 246445 | [246445-go-soccer.json](./246445-go-soccer.json) |
 | Go Some Balls: Only Up and Getting Over It | 276668 | [276668-go-some-balls-only-up-and-getting-over-it.json](./276668-go-some-balls-only-up-and-getting-over-it.json) |
 | Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
@@ -5054,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Hamster Chef! | 249392 | [249392-go-go-hamster-chef.json](./249392-go-go-hamster-chef.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
 | Go! Go! Hypergrind | 3933 | [3933-go-go-hypergrind.json](./3933-go-go-hypergrind.json) |
+| Go! Go! Island Rescue! | 84500 | [84500-go-go-island-rescue.json](./84500-go-go-island-rescue.json) |
 | Go! Go! Kokopolo 3D | 56295 | [56295-go-go-kokopolo-3d.json](./56295-go-go-kokopolo-3d.json) |
 | Go! Go! Kokopolo Anniversary Collection | 203793 | [203793-go-go-kokopolo-anniversary-collection.json](./203793-go-go-kokopolo-anniversary-collection.json) |
 | Go! Go! Kokopolo: Harmonious Forest Revenge | 65247 | [65247-go-go-kokopolo-harmonious-forest-revenge.json](./65247-go-go-kokopolo-harmonious-forest-revenge.json) |
