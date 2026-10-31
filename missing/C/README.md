@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Mania: Lights, Camera, Action! | 15047 | [15047-cake-mania-lights-camera-action.json](./15047-cake-mania-lights-camera-action.json) |
 | Cake Mania: To the Max! | 15048 | [15048-cake-mania-to-the-max.json](./15048-cake-mania-to-the-max.json) |
 | Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
+| Cake Match | 87885 | [87885-cake-match.json](./87885-cake-match.json) |
 | Cake Match Charm: Pop and jam | 200273 | [200273-cake-match-charm-pop-and-jam.json](./200273-cake-match-charm-pop-and-jam.json) |
 | Cake or Bomb? | 360922 | [360922-cake-or-bomb.json](./360922-cake-or-bomb.json) |
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
@@ -2035,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer 2018 | 104409 | [104409-car-soccer-2018.json](./104409-car-soccer-2018.json) |
+| Car Soccer League | 87911 | [87911-car-soccer-league.json](./87911-car-soccer-league.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
 | Car Stunt Challenge 2018 | 103060 | [103060-car-stunt-challenge-2018.json](./103060-car-stunt-challenge-2018.json) |
@@ -2736,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carsh | 320044 | [320044-carsh.json](./320044-carsh.json) |
 | Carsick Carventure | 276692 | [276692-carsick-carventure.json](./276692-carsick-carventure.json) |
 | Carste Magic | 392074 | [392074-carste-magic.json](./392074-carste-magic.json) |
+| Carsteroids | 87760 | [87760-carsteroids.json](./87760-carsteroids.json) |
 | Cart by Cart | 406723 | [406723-cart-by-cart.json](./406723-cart-by-cart.json) |
 | Cart Capers | 335393 | [335393-cart-capers.json](./335393-cart-capers.json) |
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
@@ -3759,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Trip | 322032 | [322032-cat-trip.json](./322032-cat-trip.json) |
 | Cat Tsunami | 388233 | [388233-cat-tsunami.json](./388233-cat-tsunami.json) |
 | Cat Veterinary: Emergency Hospital Close to Me | 328541 | [328541-cat-veterinary-emergency-hospital-close-to-me.json](./328541-cat-veterinary-emergency-hospital-close-to-me.json) |
+| Cat Vs Zombies | 87905 | [87905-cat-vs-zombies.json](./87905-cat-vs-zombies.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
 | Cat vs. Dog | 277869 | [277869-cat-vs-dog.json](./277869-cat-vs-dog.json) |
 | Cat vs. Dog | 323977 | [323977-cat-vs-dog.json](./323977-cat-vs-dog.json) |
@@ -8948,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
+| Classic Solitaire НD | 87921 | [87921-classic-solitaire-d.json](./87921-classic-solitaire-d.json) |
 | Classic Sonic 3D Adventure | 324961 | [324961-classic-sonic-3d-adventure.json](./324961-classic-sonic-3d-adventure.json) |
 | Classic Sonic Bundle | 276083 | [276083-classic-sonic-bundle.json](./276083-classic-sonic-bundle.json) |
 | Classic Space Adventure | 367357 | [367357-classic-space-adventure.json](./367357-classic-space-adventure.json) |
@@ -10680,6 +10685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Slam | 4541 | [4541-college-slam.json](./4541-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
+| Collide | 87772 | [87772-collide.json](./87772-collide.json) |
 | Collide-a-Ball 2 | 123297 | [123297-collide-a-ball-2.json](./123297-collide-a-ball-2.json) |
 | Collider | 116268 | [116268-collider.json](./116268-collider.json) |
 | Collider | 35186 | [35186-collider.json](./35186-collider.json) |
@@ -16431,6 +16437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucible of the Forgotten | 340585 | [340585-crucible-of-the-forgotten.json](./340585-crucible-of-the-forgotten.json) |
 | Crucible Of Time | 359041 | [359041-crucible-of-time.json](./359041-crucible-of-time.json) |
 | Crucible TD | 380098 | [380098-crucible-td.json](./380098-crucible-td.json) |
+| Crucible Trails: Initial Rupture | 87767 | [87767-crucible-trails-initial-rupture.json](./87767-crucible-trails-initial-rupture.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Crucifier | 394410 | [394410-crucifier.json](./394410-crucifier.json) |
 | Crude | 171388 | [171388-crude.json](./171388-crude.json) |
