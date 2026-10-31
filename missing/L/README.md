@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
 | Land Before Time: Adventure Valley | 318945 | [318945-land-before-time-adventure-valley.json](./318945-land-before-time-adventure-valley.json) |
 | Land Crashers | 114711 | [114711-land-crashers.json](./114711-land-crashers.json) |
+| Land der Hoffnung | 70747 | [70747-land-der-hoffnung.json](./70747-land-der-hoffnung.json) |
 | Land Develop | 387330 | [387330-land-develop.json](./387330-land-develop.json) |
 | Land Drifters | 238746 | [238746-land-drifters.json](./238746-land-drifters.json) |
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
@@ -5655,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Shell's Adventure | 156584 | [156584-little-shells-adventure.json](./156584-little-shells-adventure.json) |
 | Little Shop - World Traveler | 53277 | [53277-little-shop-world-traveler.json](./53277-little-shop-world-traveler.json) |
 | Little Shop of Junk | 128995 | [128995-little-shop-of-junk.json](./128995-little-shop-of-junk.json) |
+| Little Shop of Treasures | 70733 | [70733-little-shop-of-treasures.json](./70733-little-shop-of-treasures.json) |
 | Little Shop of Treasures 2 | 200885 | [200885-little-shop-of-treasures-2.json](./200885-little-shop-of-treasures-2.json) |
 | Little Shopping | 116126 | [116126-little-shopping.json](./116126-little-shopping.json) |
 | Little Shrimp: Legend Reborn | 271614 | [271614-little-shrimp-legend-reborn.json](./271614-little-shrimp-legend-reborn.json) |
@@ -9063,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch-O-Matic | 320121 | [320121-lunch-o-matic.json](./320121-lunch-o-matic.json) |
 | Lunch-Out 3: Waste Disposal 20XX | 371531 | [371531-lunch-out-3-waste-disposal-20xx.json](./371531-lunch-out-3-waste-disposal-20xx.json) |
 | Lunchtime at Lilly's | 229266 | [229266-lunchtime-at-lillys.json](./229266-lunchtime-at-lillys.json) |
+| Lunchtime of the Damned | 70838 | [70838-lunchtime-of-the-damned.json](./70838-lunchtime-of-the-damned.json) |
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
 | Lune | 32455 | [32455-lune.json](./32455-lune.json) |
 | Lunebug | 361916 | [361916-lunebug.json](./361916-lunebug.json) |
