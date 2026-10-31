@@ -5658,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Battle | 89178 | [89178-heroic-battle.json](./89178-heroic-battle.json) |
 | Heroic City | 235776 | [235776-heroic-city.json](./235776-heroic-city.json) |
 | Heroic Defender GoFalcon | 363913 | [363913-heroic-defender-gofalcon.json](./363913-heroic-defender-gofalcon.json) |
+| Heroic Episode | 98169 | [98169-heroic-episode.json](./98169-heroic-episode.json) |
 | Heroic Expedition | 146030 | [146030-heroic-expedition.json](./146030-heroic-expedition.json) |
 | Heroic Hop: A New Adventure Begins | 371985 | [371985-heroic-hop-a-new-adventure-begins.json](./371985-heroic-hop-a-new-adventure-begins.json) |
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
