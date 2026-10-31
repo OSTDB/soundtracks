@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Koihime Musou | 64169 | [64169-web-koihime-musou.json](./64169-web-koihime-musou.json) |
 | Web Mystery: Yochimu wo Miru Neko | 59815 | [59815-web-mystery-yochimu-wo-miru-neko.json](./59815-web-mystery-yochimu-wo-miru-neko.json) |
 | Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
+| Web of Deceit: Black Widow | 69017 | [69017-web-of-deceit-black-widow.json](./69017-web-of-deceit-black-widow.json) |
 | Web of Deceit: Deadly Sands - Collector's Edition | 81837 | [81837-web-of-deceit-deadly-sands-collectors-edition.json](./81837-web-of-deceit-deadly-sands-collectors-edition.json) |
 | Web of Deceit: Deadly Sands HD | 96547 | [96547-web-of-deceit-deadly-sands-hd.json](./96547-web-of-deceit-deadly-sands-hd.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
@@ -5896,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Rhythm Puzzle | 244594 | [244594-witchs-rhythm-puzzle.json](./244594-witchs-rhythm-puzzle.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
+| Witch's Workshop | 69033 | [69033-witchs-workshop.json](./69033-witchs-workshop.json) |
 | WitchAction | 111614 | [111614-witchaction.json](./111614-witchaction.json) |
 | Witcharoo | 271423 | [271423-witcharoo.json](./271423-witcharoo.json) |
 | Witchaven | 8687 | [8687-witchaven.json](./8687-witchaven.json) |
