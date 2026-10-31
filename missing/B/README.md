@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4979,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania GB2 Gotcha Mix | 92604 | [92604-beatmania-gb2-gotcha-mix.json](./92604-beatmania-gb2-gotcha-mix.json) |
 | Beatmania IIDX 10th style | 94025 | [94025-beatmania-iidx-10th-style.json](./94025-beatmania-iidx-10th-style.json) |
 | Beatmania IIDX 11 IIDX Red | 94026 | [94026-beatmania-iidx-11-iidx-red.json](./94026-beatmania-iidx-11-iidx-red.json) |
+| Beatmania IIDX 13 DistorteD | 94023 | [94023-beatmania-iidx-13-distorted.json](./94023-beatmania-iidx-13-distorted.json) |
 | Beatmania IIDX 17 Sirius | 66644 | [66644-beatmania-iidx-17-sirius.json](./66644-beatmania-iidx-17-sirius.json) |
 | Beatmania IIDX 18 Resort Anthem | 66726 | [66726-beatmania-iidx-18-resort-anthem.json](./66726-beatmania-iidx-18-resort-anthem.json) |
 | Beatmania IIDX 19 Lincle | 81478 | [81478-beatmania-iidx-19-lincle.json](./81478-beatmania-iidx-19-lincle.json) |
@@ -4997,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 5th style | 72913 | [72913-beatmania-iidx-5th-style.json](./72913-beatmania-iidx-5th-style.json) |
 | Beatmania IIDX 6th style | 72915 | [72915-beatmania-iidx-6th-style.json](./72915-beatmania-iidx-6th-style.json) |
 | Beatmania IIDX 7th style | 72914 | [72914-beatmania-iidx-7th-style.json](./72914-beatmania-iidx-7th-style.json) |
+| Beatmania IIDX 8th style | 94024 | [94024-beatmania-iidx-8th-style.json](./94024-beatmania-iidx-8th-style.json) |
 | Beatmania IIDX Club Version | 141046 | [141046-beatmania-iidx-club-version.json](./141046-beatmania-iidx-club-version.json) |
 | Beatmania IIDX Ultimate Mobile | 137264 | [137264-beatmania-iidx-ultimate-mobile.json](./137264-beatmania-iidx-ultimate-mobile.json) |
 | beatmania III -The latest evolution machine- | 61017 | [61017-beatmania-iii-the-latest-evolution-machine.json](./61017-beatmania-iii-the-latest-evolution-machine.json) |
@@ -12602,6 +12605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Hoops | 250159 | [250159-bouncy-hoops.json](./250159-bouncy-hoops.json) |
 | Bouncy Jump Ball | 231974 | [231974-bouncy-jump-ball.json](./231974-bouncy-jump-ball.json) |
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
+| Bouncy Mouse | 93947 | [93947-bouncy-mouse.json](./93947-bouncy-mouse.json) |
 | Bouncy Pork Simulator | 339394 | [339394-bouncy-pork-simulator.json](./339394-bouncy-pork-simulator.json) |
 | Bouncy Ropes | 104429 | [104429-bouncy-ropes.json](./104429-bouncy-ropes.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
