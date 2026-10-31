@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adelaide: A Tiny Adventure | 422548 | [422548-adelaide-a-tiny-adventure.json](./422548-adelaide-a-tiny-adventure.json) |
 | Adelamyth: Casual Idle RPG | 223932 | [223932-adelamyth-casual-idle-rpg.json](./223932-adelamyth-casual-idle-rpg.json) |
 | Adelantado Trilogy: Book One | 34214 | [34214-adelantado-trilogy-book-one.json](./34214-adelantado-trilogy-book-one.json) |
+| Adelantado Trilogy: Book Three | 77052 | [77052-adelantado-trilogy-book-three.json](./77052-adelantado-trilogy-book-three.json) |
 | Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
 | Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
 | Adelanto 4 Aztec Skulls | 95643 | [95643-adelanto-4-aztec-skulls.json](./95643-adelanto-4-aztec-skulls.json) |
@@ -14004,6 +14005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Suits Valken Declassified | 240410 | [240410-assault-suits-valken-declassified.json](./240410-assault-suits-valken-declassified.json) |
 | Assault Trooper | 47021 | [47021-assault-trooper.json](./47021-assault-trooper.json) |
 | Assault Wing | 274517 | [274517-assault-wing.json](./274517-assault-wing.json) |
+| Assault: Retribution | 77050 | [77050-assault-retribution.json](./77050-assault-retribution.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | AssaultCube Reloaded | 130611 | [130611-assaultcube-reloaded.json](./130611-assaultcube-reloaded.json) |
 | AssaultTech 1: BattleTech | 66071 | [66071-assaulttech-1-battletech.json](./66071-assaulttech-1-battletech.json) |
