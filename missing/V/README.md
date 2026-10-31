@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Jackpot | 416711 | [416711-vegas-jackpot.json](./416711-vegas-jackpot.json) |
 | Vegas Party | 51058 | [51058-vegas-party.json](./51058-vegas-party.json) |
 | Vegas Party | 85832 | [85832-vegas-party.json](./85832-vegas-party.json) |
+| Vegas Pool Sharks | 88685 | [88685-vegas-pool-sharks.json](./88685-vegas-pool-sharks.json) |
 | Vegas Royal Jackpot CSS | 232370 | [232370-vegas-royal-jackpot-css.json](./232370-vegas-royal-jackpot-css.json) |
 | Vegas Slot | 393954 | [393954-vegas-slot.json](./393954-vegas-slot.json) |
 | Vegas Slots | 299609 | [299609-vegas-slots.json](./299609-vegas-slots.json) |
