@@ -10973,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Drive: Biathlon | 113855 | [113855-ski-drive-biathlon.json](./113855-ski-drive-biathlon.json) |
 | Ski Game | 295464 | [295464-ski-game.json](./295464-ski-game.json) |
 | Ski Girl Superstar | 88799 | [88799-ski-girl-superstar.json](./88799-ski-girl-superstar.json) |
+| Ski Hard: Lorsbruck 1978 | 83965 | [83965-ski-hard-lorsbruck-1978.json](./83965-ski-hard-lorsbruck-1978.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump Challange 2024 | 280671 | [280671-ski-jump-challange-2024.json](./280671-ski-jump-challange-2024.json) |
 | Ski Jump Challenge | 143546 | [143546-ski-jump-challenge.json](./143546-ski-jump-challenge.json) |
@@ -11119,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skipp and Friends: Unexpected Journey | 134285 | [134285-skipp-and-friends-unexpected-journey.json](./134285-skipp-and-friends-unexpected-journey.json) |
+| Skipper | 83786 | [83786-skipper.json](./83786-skipper.json) |
 | Skipper & Skeeto: Tales from Paradise Park | 18992 | [18992-skipper-and-skeeto-tales-from-paradise-park.json](./18992-skipper-and-skeeto-tales-from-paradise-park.json) |
 | Skipper & Skeeto: The Revenge of Mr. Shade | 19003 | [19003-skipper-and-skeeto-the-revenge-of-mr-shade.json](./19003-skipper-and-skeeto-the-revenge-of-mr-shade.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
@@ -11532,6 +11534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydive! | 62234 | [62234-skydive.json](./62234-skydive.json) |
 | SkydiVeR | 114837 | [114837-skydiver.json](./114837-skydiver.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
+| Skydiving Simulator VR | 83978 | [83978-skydiving-simulator-vr.json](./83978-skydiving-simulator-vr.json) |
 | SkydiVR | 138432 | [138432-skydivr.json](./138432-skydivr.json) |
 | Skydome | 112175 | [112175-skydome.json](./112175-skydome.json) |
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
@@ -12397,6 +12400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime-ing | 245728 | [245728-slime-ing.json](./245728-slime-ing.json) |
 | Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
 | Slime-san: Creator | 113302 | [113302-slime-san-creator.json](./113302-slime-san-creator.json) |
+| Slime-san: Sheeple's Sequel | 83993 | [83993-slime-san-sheeples-sequel.json](./83993-slime-san-sheeples-sequel.json) |
 | Slime-san: Superslime Edition | 96019 | [96019-slime-san-superslime-edition.json](./96019-slime-san-superslime-edition.json) |
 | Slime, Fire and Soul | 287794 | [287794-slime-fire-and-soul.json](./287794-slime-fire-and-soul.json) |
 | Slime: Desulted | 183465 | [183465-slime-desulted.json](./183465-slime-desulted.json) |
@@ -22050,6 +22054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sky 2 | 33512 | [33512-star-sky-2.json](./33512-star-sky-2.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
 | Star Sled | 198159 | [198159-star-sled.json](./198159-star-sled.json) |
+| Star Sod | 84007 | [84007-star-sod.json](./84007-star-sod.json) |
 | Star Soldier | 295667 | [295667-star-soldier.json](./295667-star-soldier.json) |
 | Star Soldier | 311024 | [311024-star-soldier.json](./311024-star-soldier.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
@@ -23666,6 +23671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Alcimus | 113416 | [113416-steel-alcimus.json](./113416-steel-alcimus.json) |
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel and Flesh 2: New Lands | 216097 | [216097-steel-and-flesh-2-new-lands.json](./216097-steel-and-flesh-2-new-lands.json) |
+| Steel and Soul | 83968 | [83968-steel-and-soul.json](./83968-steel-and-soul.json) |
 | Steel Arena: Robot War | 90080 | [90080-steel-arena-robot-war.json](./90080-steel-arena-robot-war.json) |
 | Steel Ark | 361847 | [361847-steel-ark.json](./361847-steel-ark.json) |
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
@@ -29526,6 +29532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pong | 64120 | [64120-super-pong.json](./64120-super-pong.json) |
 | Super Pool | 13765 | [13765-super-pool.json](./13765-super-pool.json) |
 | Super Pool III | 172679 | [172679-super-pool-iii.json](./172679-super-pool-iii.json) |
+| Super Poop | 83994 | [83994-super-poop.json](./83994-super-poop.json) |
 | Super Pop and Drop | 206713 | [206713-super-pop-and-drop.json](./206713-super-pop-and-drop.json) |
 | Super Pork | 182921 | [182921-super-pork.json](./182921-super-pork.json) |
 | Super Portal 64 | 159277 | [159277-super-portal-64.json](./159277-super-portal-64.json) |
