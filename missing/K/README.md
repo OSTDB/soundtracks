@@ -2387,6 +2387,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Instinct | 324152 | [324152-killer-instinct.json](./324152-killer-instinct.json) |
 | Killer Instinct 2 | 264309 | [264309-killer-instinct-2.json](./264309-killer-instinct-2.json) |
 | Killer Instinct 2 | 2930 | [2930-killer-instinct-2.json](./2930-killer-instinct-2.json) |
+| Killer Instinct 2 Classic | 106235 | [106235-killer-instinct-2-classic.json](./106235-killer-instinct-2-classic.json) |
+| Killer Instinct Classic | 106237 | [106237-killer-instinct-classic.json](./106237-killer-instinct-classic.json) |
 | Killer Instinct Gold | 10613 | [10613-killer-instinct-gold.json](./10613-killer-instinct-gold.json) |
 | Killer Instinct: Anniversary Edition | 278293 | [278293-killer-instinct-anniversary-edition.json](./278293-killer-instinct-anniversary-edition.json) |
 | Killer Instinct: Definitive Edition | 25662 | [25662-killer-instinct-definitive-edition.json](./25662-killer-instinct-definitive-edition.json) |
@@ -2691,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
 | Kinectimals Mobile | 78499 | [78499-kinectimals-mobile.json](./78499-kinectimals-mobile.json) |
 | Kinectimals: Now with Bears! | 47416 | [47416-kinectimals-now-with-bears.json](./47416-kinectimals-now-with-bears.json) |
+| Kinectimals: Unleashed | 106245 | [106245-kinectimals-unleashed.json](./106245-kinectimals-unleashed.json) |
 | Kinese | 90529 | [90529-kinese.json](./90529-kinese.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
