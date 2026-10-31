@@ -3346,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Landriel | 107788 | [107788-battle-for-landriel.json](./107788-battle-for-landriel.json) |
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
 | Battle for Mars | 91783 | [91783-battle-for-mars.json](./91783-battle-for-mars.json) |
+| Battle For Murkuh! | 95763 | [95763-battle-for-murkuh.json](./95763-battle-for-murkuh.json) |
 | Battle for Normandy | 21866 | [21866-battle-for-normandy.json](./21866-battle-for-normandy.json) |
 | Battle for Orion 2 | 30279 | [30279-battle-for-orion-2.json](./30279-battle-for-orion-2.json) |
 | Battle For Presidency | 64653 | [64653-battle-for-presidency.json](./64653-battle-for-presidency.json) |
@@ -3572,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Plan | 393921 | [393921-battle-plan.json](./393921-battle-plan.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Planet | 15663 | [15663-battle-planet.json](./15663-battle-planet.json) |
+| Battle Planet AR | 95767 | [95767-battle-planet-ar.json](./95767-battle-planet-ar.json) |
 | Battle Planet: Judgement Day | 119242 | [119242-battle-planet-judgement-day.json](./119242-battle-planet-judgement-day.json) |
 | Battle Poet | 274914 | [274914-battle-poet.json](./274914-battle-poet.json) |
 | Battle Poker | 51087 | [51087-battle-poker.json](./51087-battle-poker.json) |
@@ -3642,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Siege Royale | 123760 | [123760-battle-siege-royale.json](./123760-battle-siege-royale.json) |
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Simulator | 301238 | [301238-battle-simulator.json](./301238-battle-simulator.json) |
+| Battle Simulator: Counter Stickman | 95745 | [95745-battle-simulator-counter-stickman.json](./95745-battle-simulator-counter-stickman.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Sky Brigade: Harpooner | 124401 | [124401-battle-sky-brigade-harpooner.json](./124401-battle-sky-brigade-harpooner.json) |
 | Battle Slimes | 101409 | [101409-battle-slimes.json](./101409-battle-slimes.json) |
@@ -5343,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer League Hockey | 241809 | [241809-beer-league-hockey.json](./241809-beer-league-hockey.json) |
 | Beer Manufacture Simulator | 373268 | [373268-beer-manufacture-simulator.json](./373268-beer-manufacture-simulator.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
+| Beer Pong AR | 95770 | [95770-beer-pong-ar.json](./95770-beer-pong-ar.json) |
 | Beer Pong Basement | 321230 | [321230-beer-pong-basement.json](./321230-beer-pong-basement.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
@@ -6961,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot | 377823 | [377823-bigfoot.json](./377823-bigfoot.json) |
 | Bigfoot Bonkers | 18117 | [18117-bigfoot-bonkers.json](./18117-bigfoot-bonkers.json) |
 | Bigfoot Evolution: French Classics | 60032 | [60032-bigfoot-evolution-french-classics.json](./60032-bigfoot-evolution-french-classics.json) |
+| BigFoot Finding | 95744 | [95744-bigfoot-finding.json](./95744-bigfoot-finding.json) |
 | Bigfoot Forest | 157489 | [157489-bigfoot-forest.json](./157489-bigfoot-forest.json) |
 | Bigfoot Hunter | 61902 | [61902-bigfoot-hunter.json](./61902-bigfoot-hunter.json) |
 | Bigfoot Hunting | 220157 | [220157-bigfoot-hunting.json](./220157-bigfoot-hunting.json) |
