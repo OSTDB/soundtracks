@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
 | Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
+| Caramel Pudding's Big Adventure | 82567 | [82567-caramel-puddings-big-adventure.json](./82567-caramel-puddings-big-adventure.json) |
 | Caramel Quest: Meitenkyou no Megami-zou | 374960 | [374960-caramel-quest-meitenkyou-no-megami-zou.json](./374960-caramel-quest-meitenkyou-no-megami-zou.json) |
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
@@ -7301,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
 | Christmas Day | 150359 | [150359-christmas-day.json](./150359-christmas-day.json) |
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
+| Christmas Delivery | 82512 | [82512-christmas-delivery.json](./82512-christmas-delivery.json) |
 | Christmas Dentist | 107086 | [107086-christmas-dentist.json](./107086-christmas-dentist.json) |
 | Christmas Drift: Delivery Simulator | 325716 | [325716-christmas-drift-delivery-simulator.json](./325716-christmas-drift-delivery-simulator.json) |
 | Christmas Dropini | 352341 | [352341-christmas-dropini.json](./352341-christmas-dropini.json) |
