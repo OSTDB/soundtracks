@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Life Clicker | 261153 | [261153-one-life-clicker.json](./261153-one-life-clicker.json) |
 | One Life to Alice | 260228 | [260228-one-life-to-alice.json](./260228-one-life-to-alice.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
+| One Line | 104382 | [104382-one-line.json](./104382-one-line.json) |
 | One Line | 189960 | [189960-one-line.json](./189960-one-line.json) |
 | One Line - One Touch Drawing | 101547 | [101547-one-line-one-touch-drawing.json](./101547-one-line-one-touch-drawing.json) |
 | One Line : Single Stroke Drawing | 106628 | [106628-one-line-single-stroke-drawing.json](./106628-one-line-single-stroke-drawing.json) |
