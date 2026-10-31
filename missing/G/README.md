@@ -2733,6 +2733,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz Youtubers 2 | 241928 | [241928-genius-quiz-youtubers-2.json](./241928-genius-quiz-youtubers-2.json) |
 | Genius Quiz Youtubers 3 | 241930 | [241930-genius-quiz-youtubers-3.json](./241930-genius-quiz-youtubers-3.json) |
 | Genius Quiz Yugi | 241927 | [241927-genius-quiz-yugi.json](./241927-genius-quiz-yugi.json) |
+| Genius Scientist: Bioruru | 82563 | [82563-genius-scientist-bioruru.json](./82563-genius-scientist-bioruru.json) |
+| Genius Scientist: Bioruru 2 | 82564 | [82564-genius-scientist-bioruru-2.json](./82564-genius-scientist-bioruru-2.json) |
 | Genius Shooter | 196540 | [196540-genius-shooter.json](./196540-genius-shooter.json) |
 | Genius Simulator | 418843 | [418843-genius-simulator.json](./418843-genius-simulator.json) |
 | Genius vs. Antichrist 1 | 201530 | [201530-genius-vs-antichrist-1.json](./201530-genius-vs-antichrist-1.json) |
@@ -4021,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Adventure | 181738 | [181738-girl-adventure.json](./181738-girl-adventure.json) |
 | Girl Agent | 157429 | [157429-girl-agent.json](./157429-girl-agent.json) |
 | Girl Amazon Survival | 35159 | [35159-girl-amazon-survival.json](./35159-girl-amazon-survival.json) |
+| Girl and chocolate | 82519 | [82519-girl-and-chocolate.json](./82519-girl-and-chocolate.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
 | Girl and Goblin | 103810 | [103810-girl-and-goblin.json](./103810-girl-and-goblin.json) |
 | Girl Blonde | 74178 | [74178-girl-blonde.json](./74178-girl-blonde.json) |
@@ -4340,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glamor & Girls | 382490 | [382490-glamor-and-girls.json](./382490-glamor-and-girls.json) |
 | Glamour Pinball | 256659 | [256659-glamour-pinball.json](./256659-glamour-pinball.json) |
 | Glamour Riot | 342681 | [342681-glamour-riot.json](./342681-glamour-riot.json) |
+| Glances | 82556 | [82556-glances.json](./82556-glances.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
 | Glass | 14094 | [14094-glass.json](./14094-glass.json) |
