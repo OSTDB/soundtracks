@@ -6834,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
 | Excellent Love Comedy | 367142 | [367142-excellent-love-comedy.json](./367142-excellent-love-comedy.json) |
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
+| Excelsior Phase One: Lysandia | 73045 | [73045-excelsior-phase-one-lysandia.json](./73045-excelsior-phase-one-lysandia.json) |
 | Excelsior Phase Two: Errondor | 68880 | [68880-excelsior-phase-two-errondor.json](./68880-excelsior-phase-two-errondor.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
 | Excessive Speed | 36921 | [36921-excessive-speed.json](./36921-excessive-speed.json) |
