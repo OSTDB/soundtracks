@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
 | Yahtzee With Buddies | 88777 | [88777-yahtzee-with-buddies.json](./88777-yahtzee-with-buddies.json) |
 | Yahtzee, Parcheesi & Aggravation Collection | 92836 | [92836-yahtzee-parcheesi-and-aggravation-collection.json](./92836-yahtzee-parcheesi-and-aggravation-collection.json) |
+| Yahtzee: Roll the Bones | 67758 | [67758-yahtzee-roll-the-bones.json](./67758-yahtzee-roll-the-bones.json) |
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
 | Yahtzie | 92892 | [92892-yahtzie.json](./92892-yahtzie.json) |
 | Yaiba: Ninja Gaiden Z | 5617 | [5617-yaiba-ninja-gaiden-z.json](./5617-yaiba-ninja-gaiden-z.json) |
