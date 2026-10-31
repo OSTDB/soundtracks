@@ -5222,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aly & AJ Adventure | 71969 | [71969-the-aly-and-aj-adventure.json](./71969-the-aly-and-aj-adventure.json) |
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
+| The Amazing Adventures of Lady Fanny Featherstone | 100534 | [100534-the-amazing-adventures-of-lady-fanny-featherstone.json](./100534-the-amazing-adventures-of-lady-fanny-featherstone.json) |
 | The Amazing American Circus | 140559 | [140559-the-amazing-american-circus.json](./140559-the-amazing-american-circus.json) |
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
 | The Amazing Ball | 159555 | [159555-the-amazing-ball.json](./159555-the-amazing-ball.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
 | The Beast of Gevaudan | 120103 | [120103-the-beast-of-gevaudan.json](./120103-the-beast-of-gevaudan.json) |
+| The Beast of Lycan Isle | 100505 | [100505-the-beast-of-lycan-isle.json](./100505-the-beast-of-lycan-isle.json) |
 | The Beast of Lycan Isle: Collector's Edition | 340991 | [340991-the-beast-of-lycan-isle-collectors-edition.json](./340991-the-beast-of-lycan-isle-collectors-edition.json) |
 | The Beast of Stormy Forest | 149898 | [149898-the-beast-of-stormy-forest.json](./149898-the-beast-of-stormy-forest.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
@@ -21953,6 +21955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
 | To Your Stations! | 135750 | [135750-to-your-stations.json](./135750-to-your-stations.json) |
 | To-Fu Collection | 206765 | [206765-to-fu-collection.json](./206765-to-fu-collection.json) |
+| To-Fu Fury | 100497 | [100497-to-fu-fury.json](./100497-to-fu-fury.json) |
 | To-Fu Ninja - Fruit Yama Style | 174565 | [174565-to-fu-ninja-fruit-yama-style.json](./174565-to-fu-ninja-fruit-yama-style.json) |
 | To-Fu Oh! Sushi | 252139 | [252139-to-fu-oh-sushi.json](./252139-to-fu-oh-sushi.json) |
 | To-Fu: The Trials of Chi | 364556 | [364556-to-fu-the-trials-of-chi.json](./364556-to-fu-the-trials-of-chi.json) |
@@ -24598,6 +24601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Offensive | 177836 | [177836-tower-offensive.json](./177836-tower-offensive.json) |
 | Tower Petroleum | 368295 | [368295-tower-petroleum.json](./368295-tower-petroleum.json) |
 | Tower Pets | 265458 | [265458-tower-pets.json](./265458-tower-pets.json) |
+| Tower Power | 100523 | [100523-tower-power.json](./100523-tower-power.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Quest | 58626 | [58626-tower-quest.json](./58626-tower-quest.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
@@ -28537,6 +28541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Farm HD | 175740 | [175740-tropical-farm-hd.json](./175740-tropical-farm-hd.json) |
 | Tropical Fish | 145178 | [145178-tropical-fish.json](./145178-tropical-fish.json) |
 | Tropical Fish Shop 2 | 33298 | [33298-tropical-fish-shop-2.json](./33298-tropical-fish-shop-2.json) |
+| Tropical Fish Shop: Annabel's Adventure | 100521 | [100521-tropical-fish-shop-annabels-adventure.json](./100521-tropical-fish-shop-annabels-adventure.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Heat Jet Ski Racing | 63155 | [63155-tropical-heat-jet-ski-racing.json](./63155-tropical-heat-jet-ski-racing.json) |
 | Tropical Liquor | 87764 | [87764-tropical-liquor.json](./87764-tropical-liquor.json) |
