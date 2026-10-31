@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
 | PCD | 256940 | [256940-pcd.json](./256940-pcd.json) |
 | PCDX | 313082 | [313082-pcdx.json](./313082-pcdx.json) |
+| PD Ultraman Invader | 64071 | [64071-pd-ultraman-invader.json](./64071-pd-ultraman-invader.json) |
 | PD Ultraman Link | 107621 | [107621-pd-ultraman-link.json](./107621-pd-ultraman-link.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
 | PDC World Championship Darts 2008 | 5092 | [5092-pdc-world-championship-darts-2008.json](./5092-pdc-world-championship-darts-2008.json) |
@@ -10518,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
 | Pokémon TCG Pocket: Ruler of the Skies | 412413 | [412413-pokemon-tcg-pocket-ruler-of-the-skies.json](./412413-pokemon-tcg-pocket-ruler-of-the-skies.json) |
 | Pokémon Team Rocket Blast Off | 61001 | [61001-pokemon-team-rocket-blast-off.json](./61001-pokemon-team-rocket-blast-off.json) |
+| Pokémon Team Turbo | 64034 | [64034-pokemon-team-turbo.json](./64034-pokemon-team-turbo.json) |
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
 | Pokémon Tetris | 25027 | [25027-pokemon-tetris.json](./25027-pokemon-tetris.json) |
 | Pokémon The Pit | 331084 | [331084-pokemon-the-pit.json](./331084-pokemon-the-pit.json) |
@@ -10617,6 +10619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Let’s Go, Pikachu! + Poké Ball Plus Pack | 136786 | [136786-pokemon-let-s-go-pikachu-poke-ball-plus-pack.json](./136786-pokemon-let-s-go-pikachu-poke-ball-plus-pack.json) |
 | Pokémon: Lost and Found | 323878 | [323878-pokemon-lost-and-found.json](./323878-pokemon-lost-and-found.json) |
 | Pokémon: Magikarp Jump | 32124 | [32124-pokemon-magikarp-jump.json](./32124-pokemon-magikarp-jump.json) |
+| Pokémon: Masters Arena | 64033 | [64033-pokemon-masters-arena.json](./64033-pokemon-masters-arena.json) |
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
@@ -11298,6 +11301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Quest | 132032 | [132032-pong-quest.json](./132032-pong-quest.json) |
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
+| Pong World | 64055 | [64055-pong-world.json](./64055-pong-world.json) |
 | Pong: 32 | 183779 | [183779-pong-32.json](./183779-pong-32.json) |
 | Pong: Evolved | 329631 | [329631-pong-evolved.json](./329631-pong-evolved.json) |
 | Pong: The Next Level | 265058 | [265058-pong-the-next-level.json](./265058-pong-the-next-level.json) |
@@ -13941,8 +13945,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
 | Pro Yakyuu Family Stadium | 218385 | [218385-pro-yakyuu-family-stadium.json](./218385-pro-yakyuu-family-stadium.json) |
 | Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
+| Pro Yakyuu Family Stadium: Home Run Contest | 64027 | [64027-pro-yakyuu-family-stadium-home-run-contest.json](./64027-pro-yakyuu-family-stadium-home-run-contest.json) |
+| Pro Yakyuu Family Stadium: Pennant Race | 64026 | [64026-pro-yakyuu-family-stadium-pennant-race.json](./64026-pro-yakyuu-family-stadium-pennant-race.json) |
+| Pro Yakyuu Famista 2011 | 64025 | [64025-pro-yakyuu-famista-2011.json](./64025-pro-yakyuu-famista-2011.json) |
 | Pro Yakyuu Famista 2020 | 136923 | [136923-pro-yakyuu-famista-2020.json](./136923-pro-yakyuu-famista-2020.json) |
 | Pro Yakyuu Famista Climax | 56953 | [56953-pro-yakyuu-famista-climax.json](./56953-pro-yakyuu-famista-climax.json) |
+| Pro Yakyuu Famista DS | 64024 | [64024-pro-yakyuu-famista-ds.json](./64024-pro-yakyuu-famista-ds.json) |
+| Pro Yakyuu Famista DS 2009 | 64023 | [64023-pro-yakyuu-famista-ds-2009.json](./64023-pro-yakyuu-famista-ds-2009.json) |
+| Pro Yakyuu Famista DS 2010 | 64022 | [64022-pro-yakyuu-famista-ds-2010.json](./64022-pro-yakyuu-famista-ds-2010.json) |
 | Pro Yakyuu Famista Evolution | 136969 | [136969-pro-yakyuu-famista-evolution.json](./136969-pro-yakyuu-famista-evolution.json) |
 | Pro Yakyuu Famista Returns | 60057 | [60057-pro-yakyuu-famista-returns.json](./60057-pro-yakyuu-famista-returns.json) |
 | Pro Yakyuu Fanstars League | 395234 | [395234-pro-yakyuu-fanstars-league.json](./395234-pro-yakyuu-fanstars-league.json) |
