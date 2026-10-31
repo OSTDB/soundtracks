@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.T | 47018 | [47018-m-a-t.json](./47018-m-a-t.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
 | M.A.V. | 17103 | [17103-m-a-v.json](./17103-m-a-v.json) |
+| M.A.X. 2: Mechanized Assault & Exploration | 80979 | [80979-m-a-x-2-mechanized-assault-and-exploration.json](./80979-m-a-x-2-mechanized-assault-and-exploration.json) |
 | M.A.X.: Mechanized Assault & Exploration | 775 | [775-m-a-x-mechanized-assault-and-exploration.json](./775-m-a-x-mechanized-assault-and-exploration.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
@@ -8426,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercurius Pretty | 94103 | [94103-mercurius-pretty.json](./94103-mercurius-pretty.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury Abbey | 172701 | [172701-mercury-abbey.json](./172701-mercury-abbey.json) |
+| Mercury Blue: Mini Episode | 80953 | [80953-mercury-blue-mini-episode.json](./80953-mercury-blue-mini-episode.json) |
 | Mercury Drops | 416758 | [416758-mercury-drops.json](./416758-mercury-drops.json) |
 | Mercury Elopement Syndrome | 395237 | [395237-mercury-elopement-syndrome.json](./395237-mercury-elopement-syndrome.json) |
 | Mercury Fallen | 69385 | [69385-mercury-fallen.json](./69385-mercury-fallen.json) |
@@ -18871,6 +18873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Harmony Quest | 138462 | [138462-my-little-pony-harmony-quest.json](./138462-my-little-pony-harmony-quest.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
 | My Little Pony: Mane Merge | 242387 | [242387-my-little-pony-mane-merge.json](./242387-my-little-pony-mane-merge.json) |
+| My Little Pony: Pinkie Pie's Party | 80769 | [80769-my-little-pony-pinkie-pies-party.json](./80769-my-little-pony-pinkie-pies-party.json) |
 | My Little Pony: Pinkie Pie's Party Parade | 76474 | [76474-my-little-pony-pinkie-pies-party-parade.json](./76474-my-little-pony-pinkie-pies-party-parade.json) |
 | My Little Pony: Pocket Ponies | 138461 | [138461-my-little-pony-pocket-ponies.json](./138461-my-little-pony-pocket-ponies.json) |
 | My Little Pony: Puzzle Party | 70864 | [70864-my-little-pony-puzzle-party.json](./70864-my-little-pony-puzzle-party.json) |
