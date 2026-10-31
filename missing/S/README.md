@@ -6927,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
 | She Doesn't Know | 414834 | [414834-she-doesnt-know.json](./414834-she-doesnt-know.json) |
 | She Doesn't Walk | 156021 | [156021-she-doesnt-walk.json](./156021-she-doesnt-walk.json) |
+| She Dreams Elsewhere | 103080 | [103080-she-dreams-elsewhere.json](./103080-she-dreams-elsewhere.json) |
 | She Fell Off | 260160 | [260160-she-fell-off.json](./260160-she-fell-off.json) |
 | She From The Future | 309364 | [309364-she-from-the-future.json](./309364-she-from-the-future.json) |
 | She Hates Unicorns | 189979 | [189979-she-hates-unicorns.json](./189979-she-hates-unicorns.json) |
@@ -18031,6 +18032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space Rogue | 23279 | [23279-space-rogue.json](./23279-space-rogue.json) |
 | Space Roguelike Adventure | 190386 | [190386-space-roguelike-adventure.json](./190386-space-roguelike-adventure.json) |
+| Space Roller Coaster VR | 103058 | [103058-space-roller-coaster-vr.json](./103058-space-roller-coaster-vr.json) |
 | Space Routine | 131799 | [131799-space-routine.json](./131799-space-routine.json) |
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
@@ -18154,6 +18156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Survivor | 420181 | [420181-space-survivor.json](./420181-space-survivor.json) |
 | Space Survivor VR AR | 404354 | [404354-space-survivor-vr-ar.json](./404354-space-survivor-vr-ar.json) |
 | Space Survivors | 319416 | [319416-space-survivors.json](./319416-space-survivors.json) |
+| Space Survivors Shooter | 103067 | [103067-space-survivors-shooter.json](./103067-space-survivors-shooter.json) |
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
 | Space Sweep & Invaders | 423227 | [423227-space-sweep-and-invaders.json](./423227-space-sweep-and-invaders.json) |
 | Space Sweeper | 59795 | [59795-space-sweeper.json](./59795-space-sweeper.json) |
@@ -20688,6 +20691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springy: A Bounce Adventure | 216876 | [216876-springy-a-bounce-adventure.json](./216876-springy-a-bounce-adventure.json) |
 | Sprinkfield | 241333 | [241333-sprinkfield.json](./241333-sprinkfield.json) |
 | Sprinkle Islands | 22163 | [22163-sprinkle-islands.json](./22163-sprinkle-islands.json) |
+| Sprinkle Junior | 103088 | [103088-sprinkle-junior.json](./103088-sprinkle-junior.json) |
 | Sprinklebottom and the Haunted Ruins | 385217 | [385217-sprinklebottom-and-the-haunted-ruins.json](./385217-sprinklebottom-and-the-haunted-ruins.json) |
 | Sprinkler & Ghost | 216249 | [216249-sprinkler-and-ghost.json](./216249-sprinkler-and-ghost.json) |
 | Sprint | 246481 | [246481-sprint.json](./246481-sprint.json) |
@@ -24247,6 +24251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman's Rainbow | 117127 | [117127-stickmans-rainbow.json](./117127-stickmans-rainbow.json) |
 | StickmanThug3D | 220506 | [220506-stickmanthug3d.json](./220506-stickmanthug3d.json) |
 | Stickmen Castle Defense | 183882 | [183882-stickmen-castle-defense.json](./183882-stickmen-castle-defense.json) |
+| Stickmen Empire | 103043 | [103043-stickmen-empire.json](./103043-stickmen-empire.json) |
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
 | Sticks Aim Trainer | 294818 | [294818-sticks-aim-trainer.json](./294818-sticks-aim-trainer.json) |
