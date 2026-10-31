@@ -7501,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack | 237996 | [237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json](./237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
+| Shin Megami Tensei IV & Apocalypse: Double Hero Pack | 89555 | [89555-shin-megami-tensei-iv-and-apocalypse-double-hero-pack.json](./89555-shin-megami-tensei-iv-and-apocalypse-double-hero-pack.json) |
 | Shin Megami Tensei IV: Apocalypse | 19329 | [19329-shin-megami-tensei-iv-apocalypse.json](./19329-shin-megami-tensei-iv-apocalypse.json) |
 | Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
 | Shin Megami Tensei Trading Card: Card Summoner | 94503 | [94503-shin-megami-tensei-trading-card-card-summoner.json](./94503-shin-megami-tensei-trading-card-card-summoner.json) |
@@ -12539,6 +12540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slithereens | 146177 | [146177-slithereens.json](./146177-slithereens.json) |
 | Slitherin' | 176363 | [176363-slitherin.json](./176363-slitherin.json) |
 | Slitherine's Legion | 200109 | [200109-slitherines-legion.json](./200109-slitherines-legion.json) |
+| Slithering Assassin - Snake vs Snake | 89468 | [89468-slithering-assassin-snake-vs-snake.json](./89468-slithering-assassin-snake-vs-snake.json) |
 | Slitherise | 318967 | [318967-slitherise.json](./318967-slitherise.json) |
 | Slitherlink | 201508 | [201508-slitherlink.json](./201508-slitherlink.json) |
 | Slitherlink by Nikoli | 85387 | [85387-slitherlink-by-nikoli.json](./85387-slitherlink-by-nikoli.json) |
@@ -15072,6 +15074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Mystery: Four Seasons HD | 99342 | [99342-solitaire-mystery-four-seasons-hd.json](./99342-solitaire-mystery-four-seasons-hd.json) |
 | Solitaire Mystery: Stolen Power | 55432 | [55432-solitaire-mystery-stolen-power.json](./55432-solitaire-mystery-stolen-power.json) |
 | Solitaire Noir | 226618 | [226618-solitaire-noir.json](./226618-solitaire-noir.json) |
+| Solitaire One | 89617 | [89617-solitaire-one.json](./89617-solitaire-one.json) |
 | Solitaire Overload | 91676 | [91676-solitaire-overload.json](./91676-solitaire-overload.json) |
 | Solitaire Paradise: Anime Bikini Babes | 410372 | [410372-solitaire-paradise-anime-bikini-babes.json](./410372-solitaire-paradise-anime-bikini-babes.json) |
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
@@ -17046,6 +17049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
+| Soulsmith | 89561 | [89561-soulsmith.json](./89561-soulsmith.json) |
 | Soulssss | 336952 | [336952-soulssss.json](./336952-soulssss.json) |
 | Soulstar X | 46427 | [46427-soulstar-x.json](./46427-soulstar-x.json) |
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
@@ -18181,6 +18185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Slurpies | 142211 | [142211-space-slurpies.json](./142211-space-slurpies.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
 | Space Smash | 115618 | [115618-space-smash.json](./115618-space-smash.json) |
+| Space Snake | 89620 | [89620-space-snake.json](./89620-space-snake.json) |
 | Space Snatcher | 414560 | [414560-space-snatcher.json](./414560-space-snatcher.json) |
 | Space Soldier | 153349 | [153349-space-soldier.json](./153349-space-soldier.json) |
 | Space Space | 125725 | [125725-space-space.json](./125725-space-space.json) |
@@ -21025,6 +21030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squab | 260531 | [260531-squab.json](./260531-squab.json) |
 | Squabble | 151597 | [151597-squabble.json](./151597-squabble.json) |
 | Squabble | 346738 | [346738-squabble.json](./346738-squabble.json) |
+| Squaby | 89578 | [89578-squaby.json](./89578-squaby.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
 | Squad 51 vs. the Flying Saucers | 143161 | [143161-squad-51-vs-the-flying-saucers.json](./143161-squad-51-vs-the-flying-saucers.json) |
@@ -24259,6 +24265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Archer Online | 239550 | [239550-stickman-archer-online.json](./239550-stickman-archer-online.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
 | Stickman Awakens | 233185 | [233185-stickman-awakens.json](./233185-stickman-awakens.json) |
+| Stickman Backflip Killer zone | 89596 | [89596-stickman-backflip-killer-zone.json](./89596-stickman-backflip-killer-zone.json) |
 | Stickman Badminton | 313547 | [313547-stickman-badminton.json](./313547-stickman-badminton.json) |
 | Stickman Base Jumper | 108645 | [108645-stickman-base-jumper.json](./108645-stickman-base-jumper.json) |
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
