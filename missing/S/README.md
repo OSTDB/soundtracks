@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara Agent | 267779 | [267779-samsara-agent.json](./267779-samsara-agent.json) |
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
 | Samsara Room | 75123 | [75123-samsara-room.json](./75123-samsara-room.json) |
+| Samsara: Deluxe Edition | 114050 | [114050-samsara-deluxe-edition.json](./114050-samsara-deluxe-edition.json) |
 | Samsara: Lost Soul | 28541 | [28541-samsara-lost-soul.json](./28541-samsara-lost-soul.json) |
 | Samsara: Stones of Eternity | 174249 | [174249-samsara-stones-of-eternity.json](./174249-samsara-stones-of-eternity.json) |
 | Samsaric Asymptotes | 266646 | [266646-samsaric-asymptotes.json](./266646-samsaric-asymptotes.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Brides | 208128 | [208128-shadow-brides.json](./208128-shadow-brides.json) |
 | Shadow Bridge | 414182 | [414182-shadow-bridge.json](./414182-shadow-bridge.json) |
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
+| Shadow Bug Rush | 114005 | [114005-shadow-bug-rush.json](./114005-shadow-bug-rush.json) |
 | Shadow Bundle: Shadow Quest and Nightshade Ninja Warrior | 266342 | [266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json](./266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
@@ -11834,6 +11836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slay the Zone | 235941 | [235941-slay-the-zone.json](./235941-slay-the-zone.json) |
 | Slay To The End | 293831 | [293831-slay-to-the-end.json](./293831-slay-to-the-end.json) |
+| Slay Together | 114043 | [114043-slay-together.json](./114043-slay-together.json) |
 | Slay Zombie | 214313 | [214313-slay-zombie.json](./214313-slay-zombie.json) |
 | Slayaway Camp | 25239 | [25239-slayaway-camp.json](./25239-slayaway-camp.json) |
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
@@ -14932,6 +14935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
 | Solitaire Journey | 220162 | [220162-solitaire-journey.json](./220162-solitaire-journey.json) |
 | Solitaire Kingdom Supreme | 175323 | [175323-solitaire-kingdom-supreme.json](./175323-solitaire-kingdom-supreme.json) |
+| Solitaire Klondike Black | 114046 | [114046-solitaire-klondike-black.json](./114046-solitaire-klondike-black.json) |
 | Solitaire Klondike Deluxe - classic card game | 86910 | [86910-solitaire-klondike-deluxe-classic-card-game.json](./86910-solitaire-klondike-deluxe-classic-card-game.json) |
 | Solitaire Klondike Fish | 228260 | [228260-solitaire-klondike-fish.json](./228260-solitaire-klondike-fish.json) |
 | Solitaire Klondike Minimal | 147646 | [147646-solitaire-klondike-minimal.json](./147646-solitaire-klondike-minimal.json) |
@@ -19424,6 +19428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire Gold | 146612 | [146612-spider-solitaire-gold.json](./146612-spider-solitaire-gold.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Solitarus | 88564 | [88564-spider-solitarus.json](./88564-spider-solitarus.json) |
+| Spider Square | 113981 | [113981-spider-square.json](./113981-spider-square.json) |
 | Spider Sub | 359467 | [359467-spider-sub.json](./359467-spider-sub.json) |
 | Spider Tanks | 175785 | [175785-spider-tanks.json](./175785-spider-tanks.json) |
 | Spider Tanks: Cores of Chaos | 380592 | [380592-spider-tanks-cores-of-chaos.json](./380592-spider-tanks-cores-of-chaos.json) |
@@ -25929,6 +25934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Hill | 90194 | [90194-stunt-hill.json](./90194-stunt-hill.json) |
 | Stunt Island | 50113 | [50113-stunt-island.json](./50113-stunt-island.json) |
 | Stunt Kids | 48235 | [48235-stunt-kids.json](./48235-stunt-kids.json) |
+| Stunt Kite Party | 114047 | [114047-stunt-kite-party.json](./114047-stunt-kite-party.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
 | Stunt Master | 337190 | [337190-stunt-master.json](./337190-stunt-master.json) |
 | Stunt Paradise | 251949 | [251949-stunt-paradise.json](./251949-stunt-paradise.json) |
@@ -31056,6 +31062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sus! | 377065 | [377065-sus.json](./377065-sus.json) |
 | Susan Taxpayer | 265722 | [265722-susan-taxpayer.json](./265722-susan-taxpayer.json) |
 | Susano O Densetsu | 37688 | [37688-susano-o-densetsu.json](./37688-susano-o-densetsu.json) |
+| Susanoh: Japanese Mythology RPG | 113997 | [113997-susanoh-japanese-mythology-rpg.json](./113997-susanoh-japanese-mythology-rpg.json) |
 | Susanoo | 409005 | [409005-susanoo.json](./409005-susanoo.json) |
 | SusDoku | 410008 | [410008-susdoku.json](./410008-susdoku.json) |
 | Sushi Academy | 47780 | [47780-sushi-academy.json](./47780-sushi-academy.json) |
