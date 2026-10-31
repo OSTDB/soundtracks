@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old World: Wrath of Gods | 330024 | [330024-old-world-wrath-of-gods.json](./330024-old-world-wrath-of-gods.json) |
 | Old Young: RPG Mini | 331922 | [331922-old-young-rpg-mini.json](./331922-old-young-rpg-mini.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
+| Oldage: Tactics Online | 74823 | [74823-oldage-tactics-online.json](./74823-oldage-tactics-online.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
 | OldComputerArchive.zip | 183178 | [183178-oldcomputerarchive-zip.json](./183178-oldcomputerarchive-zip.json) |
 | Olden Peak | 272654 | [272654-olden-peak.json](./272654-olden-peak.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open The Gate: Just A Little | 381672 | [381672-open-the-gate-just-a-little.json](./381672-open-the-gate-just-a-little.json) |
 | Open the Gates! | 149046 | [149046-open-the-gates.json](./149046-open-the-gates.json) |
 | Open Tournament | 135140 | [135140-open-tournament.json](./135140-open-tournament.json) |
+| Open Up Shut Up | 74805 | [74805-open-up-shut-up.json](./74805-open-up-shut-up.json) |
 | Open Up, Michael! | 414403 | [414403-open-up-michael.json](./414403-open-up-michael.json) |
 | Open Up! | 220559 | [220559-open-up.json](./220559-open-up.json) |
 | Open Wheel Manager | 117611 | [117611-open-wheel-manager.json](./117611-open-wheel-manager.json) |
@@ -4666,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outage Navigation | 398038 | [398038-outage-navigation.json](./398038-outage-navigation.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outback | 107412 | [107412-outback.json](./107412-outback.json) |
+| Outback Defender | 74842 | [74842-outback-defender.json](./74842-outback-defender.json) |
 | Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
 | Outback Pet Rescue 3D | 85321 | [85321-outback-pet-rescue-3d.json](./85321-outback-pet-rescue-3d.json) |
 | Outblast | 403928 | [403928-outblast.json](./403928-outblast.json) |
