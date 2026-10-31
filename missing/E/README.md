@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Road | 366422 | [366422-electric-road.json](./366422-electric-road.json) |
 | Electric Sheep | 406705 | [406705-electric-sheep.json](./406705-electric-sheep.json) |
 | Electric Sheep: A Cyberpunk Dystopia | 121496 | [121496-electric-sheep-a-cyberpunk-dystopia.json](./121496-electric-sheep-a-cyberpunk-dystopia.json) |
+| Electric Sleep | 115264 | [115264-electric-sleep.json](./115264-electric-sleep.json) |
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
 | Electric Trains | 197741 | [197741-electric-trains.json](./197741-electric-trains.json) |
 | Electric Zombies | 32610 | [32610-electric-zombies.json](./32610-electric-zombies.json) |
