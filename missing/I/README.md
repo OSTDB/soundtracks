@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
+| Imperium Romanum | 80770 | [80770-imperium-romanum.json](./80770-imperium-romanum.json) |
 | Imperium Romanum: Gold Edition | 27828 | [27828-imperium-romanum-gold-edition.json](./27828-imperium-romanum-gold-edition.json) |
 | Imperium: Galactic War | 120263 | [120263-imperium-galactic-war.json](./120263-imperium-galactic-war.json) |
 | Imperium: Galactic War Classic | 244922 | [244922-imperium-galactic-war-classic.json](./244922-imperium-galactic-war-classic.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible VR Ninja | 107696 | [107696-impossible-vr-ninja.json](./107696-impossible-vr-ninja.json) |
 | ImpossiBot | 223804 | [223804-impossibot.json](./223804-impossibot.json) |
 | ImpossiBowl | 264150 | [264150-impossibowl.json](./264150-impossibowl.json) |
+| Impossibox | 80981 | [80981-impossibox.json](./80981-impossibox.json) |
 | ImpossiBubble | 186823 | [186823-impossibubble.json](./186823-impossibubble.json) |
 | Imposter The Horror | 282045 | [282045-imposter-the-horror.json](./282045-imposter-the-horror.json) |
 | Imposters: Countdown | 233021 | [233021-imposters-countdown.json](./233021-imposters-countdown.json) |
