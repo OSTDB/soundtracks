@@ -7720,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Retribution | 98763 | [98763-americas-retribution.json](./98763-americas-retribution.json) |
 | America's Retribution Term 2 | 117796 | [117796-americas-retribution-term-2.json](./117796-americas-retribution-term-2.json) |
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
+| America's Toughest 18 | 73065 | [73065-americas-toughest-18.json](./73065-americas-toughest-18.json) |
 | American Airport Simulator | 247910 | [247910-american-airport-simulator.json](./247910-american-airport-simulator.json) |
 | American Angst | 139723 | [139723-american-angst.json](./139723-american-angst.json) |
 | American Art Jigsaw Puzzle | 90289 | [90289-american-art-jigsaw-puzzle.json](./90289-american-art-jigsaw-puzzle.json) |
@@ -10951,6 +10952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
 | Aquatron | 172456 | [172456-aquatron.json](./172456-aquatron.json) |
 | Aquattack | 12293 | [12293-aquattack.json](./12293-aquattack.json) |
+| Aquattack! | 73079 | [73079-aquattack.json](./73079-aquattack.json) |
 | Aquaventura | 14263 | [14263-aquaventura.json](./14263-aquaventura.json) |
 | Aquaventure | 11117 | [11117-aquaventure.json](./11117-aquaventure.json) |
 | Aquavern | 416677 | [416677-aquavern.json](./416677-aquavern.json) |
@@ -14272,6 +14274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 376807 | [376807-asteroids.json](./376807-asteroids.json) |
 | Asteroids | 80932 | [80932-asteroids.json](./80932-asteroids.json) |
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
+| Asteroids & Deluxe | 73043 | [73043-asteroids-and-deluxe.json](./73043-asteroids-and-deluxe.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
 | Asteroids ++ | 270049 | [270049-asteroids.json](./270049-asteroids.json) |
 | Asteroids and more asteroids | 217489 | [217489-asteroids-and-more-asteroids.json](./217489-asteroids-and-more-asteroids.json) |
