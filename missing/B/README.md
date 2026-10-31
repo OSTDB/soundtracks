@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
 | Ball Attraction | 123989 | [123989-ball-attraction.json](./123989-ball-attraction.json) |
 | Ball Bash | 251955 | [251955-ball-bash.json](./251955-ball-bash.json) |
+| Ball Blast | 101191 | [101191-ball-blast.json](./101191-ball-blast.json) |
 | Ball Blast | 356523 | [356523-ball-blast.json](./356523-ball-blast.json) |
 | Ball Blast: Dreamland DLC | 356814 | [356814-ball-blast-dreamland-dlc.json](./356814-ball-blast-dreamland-dlc.json) |
 | Ball Blast: Halloween Edition | 376248 | [376248-ball-blast-halloween-edition.json](./376248-ball-blast-halloween-edition.json) |
@@ -11399,6 +11400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Friends | 114677 | [114677-bomber-friends.json](./114677-bomber-friends.json) |
+| Bomber Hero | 101192 | [101192-bomber-hero.json](./101192-bomber-hero.json) |
 | Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
 | Bomber Man Special | 41799 | [41799-bomber-man-special.json](./41799-bomber-man-special.json) |
