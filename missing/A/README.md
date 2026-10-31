@@ -6160,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
 | Alien Invader | 92417 | [92417-alien-invader.json](./92417-alien-invader.json) |
+| Alien Invaders | 107490 | [107490-alien-invaders.json](./107490-alien-invaders.json) |
 | Alien Invaders | 281222 | [281222-alien-invaders.json](./281222-alien-invaders.json) |
 | Alien Invaders from the Planet Plorth | 77167 | [77167-alien-invaders-from-the-planet-plorth.json](./77167-alien-invaders-from-the-planet-plorth.json) |
 | Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
@@ -11679,6 +11680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
 | Arcane Treasures: Trading Card Game | 303343 | [303343-arcane-treasures-trading-card-game.json](./303343-arcane-treasures-trading-card-game.json) |
+| Arcane Trials | 107499 | [107499-arcane-trials.json](./107499-arcane-trials.json) |
 | Arcane Vale | 200290 | [200290-arcane-vale.json](./200290-arcane-vale.json) |
 | Arcane Walker | 154998 | [154998-arcane-walker.json](./154998-arcane-walker.json) |
 | Arcane Warlords | 247950 | [247950-arcane-warlords.json](./247950-arcane-warlords.json) |
