@@ -5956,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizards VS Humans | 395100 | [395100-lizards-vs-humans.json](./395100-lizards-vs-humans.json) |
 | LizardSpock | 233012 | [233012-lizardspock.json](./233012-lizardspock.json) |
 | liZboa | 91869 | [91869-lizboa.json](./91869-lizboa.json) |
+| Lizzie McGuire & That's So Raven | 91667 | [91667-lizzie-mcguire-and-thats-so-raven.json](./91667-lizzie-mcguire-and-thats-so-raven.json) |
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
@@ -8082,6 +8083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love You till the End | 280320 | [280320-love-you-till-the-end.json](./280320-love-you-till-the-end.json) |
 | Love You to Pieces | 392914 | [392914-love-you-to-pieces.json](./392914-love-you-to-pieces.json) |
 | Love Yourself | 268343 | [268343-love-yourself.json](./268343-love-yourself.json) |
+| Love Zombie | 91652 | [91652-love-zombie.json](./91652-love-zombie.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
 | Love, Death & Mummies: Zombie Romance Visual Novel | 303322 | [303322-love-death-and-mummies-zombie-romance-visual-novel.json](./303322-love-death-and-mummies-zombie-romance-visual-novel.json) |
 | Love, Death & Veggies | 186479 | [186479-love-death-and-veggies.json](./186479-love-death-and-veggies.json) |
@@ -8230,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lover Survivors | 303638 | [303638-lover-survivors.json](./303638-lover-survivors.json) |
 | Loverboy | 24906 | [24906-loverboy.json](./24906-loverboy.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
+| Loveroot Zero: Kiss Kiss * Labyrinth | 91660 | [91660-loveroot-zero-kiss-kiss-labyrinth.json](./91660-loveroot-zero-kiss-kiss-labyrinth.json) |
 | Loverowind | 148211 | [148211-loverowind.json](./148211-loverowind.json) |
 | LoverPretend | 141586 | [141586-loverpretend.json](./141586-loverpretend.json) |
 | Lovers ' Smiles | 111184 | [111184-lovers-smiles.json](./111184-lovers-smiles.json) |
