@@ -13696,6 +13696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Cop | 48314 | [48314-cosmos-cop.json](./48314-cosmos-cop.json) |
 | Cosmos Crash VR | 31761 | [31761-cosmos-crash-vr.json](./31761-cosmos-crash-vr.json) |
 | Cosmos Defenders | 85553 | [85553-cosmos-defenders.json](./85553-cosmos-defenders.json) |
+| Cosmos Defense | 107529 | [107529-cosmos-defense.json](./107529-cosmos-defense.json) |
 | Cosmos Iter | 386884 | [386884-cosmos-iter.json](./386884-cosmos-iter.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmos Milk Tea | 372728 | [372728-cosmos-milk-tea.json](./372728-cosmos-milk-tea.json) |
@@ -15443,6 +15444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage | 83492 | [83492-cribbage.json](./83492-cribbage.json) |
 | Cribbage Academy | 91279 | [91279-cribbage-academy.json](./91279-cribbage-academy.json) |
 | Cribbage Blitz | 125940 | [125940-cribbage-blitz.json](./125940-cribbage-blitz.json) |
+| Cribbage by Dodofox | 107541 | [107541-cribbage-by-dodofox.json](./107541-cribbage-by-dodofox.json) |
 | Cribbage Forever | 90023 | [90023-cribbage-forever.json](./90023-cribbage-forever.json) |
 | Cribbage HD | 91118 | [91118-cribbage-hd.json](./91118-cribbage-hd.json) |
 | Cribbage JD | 144781 | [144781-cribbage-jd.json](./144781-cribbage-jd.json) |
