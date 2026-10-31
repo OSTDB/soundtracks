@@ -5642,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroMaze | 99060 | [99060-retromaze.json](./99060-retromaze.json) |
 | Retromine | 382447 | [382447-retromine.json](./382447-retromine.json) |
 | RetroMMO | 140518 | [140518-retrommo.json](./140518-retrommo.json) |
+| Retron X | 85779 | [85779-retron-x.json](./85779-retron-x.json) |
 | Retroneer | 392359 | [392359-retroneer.json](./392359-retroneer.json) |
 | Retronika | 332467 | [332467-retronika.json](./332467-retronika.json) |
 | Retroninjacyberassassin | 149234 | [149234-retroninjacyberassassin.json](./149234-retroninjacyberassassin.json) |
