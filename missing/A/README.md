@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
 | ACA Neo Geo: Samurai Shodown IV | 103848 | [103848-aca-neo-geo-samurai-shodown-iv.json](./103848-aca-neo-geo-samurai-shodown-iv.json) |
+| ACA Neo Geo: Samurai Shodown V | 104993 | [104993-aca-neo-geo-samurai-shodown-v.json](./104993-aca-neo-geo-samurai-shodown-v.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Savage Reign | 111396 | [111396-aca-neo-geo-savage-reign.json](./111396-aca-neo-geo-savage-reign.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
@@ -6222,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Resource Manager | 418313 | [418313-alien-resource-manager.json](./418313-alien-resource-manager.json) |
 | Alien Resurrection | 272125 | [272125-alien-resurrection.json](./272125-alien-resurrection.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
+| Alien Revival | 105007 | [105007-alien-revival.json](./105007-alien-revival.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
 | Alien Rush | 376851 | [376851-alien-rush.json](./376851-alien-rush.json) |
 | Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
@@ -9880,6 +9882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anstoß 4 | 85734 | [85734-ansto-4.json](./85734-ansto-4.json) |
 | Anstoss 4: Edition 03/04 | 141468 | [141468-anstoss-4-edition-03-04.json](./141468-anstoss-4-edition-03-04.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
+| Anstoss Premier Manager | 104973 | [104973-anstoss-premier-manager.json](./104973-anstoss-premier-manager.json) |
 | Answer Back: Junior Quiz | 14257 | [14257-answer-back-junior-quiz.json](./14257-answer-back-junior-quiz.json) |
 | Answer Back: Senior Quiz | 14258 | [14258-answer-back-senior-quiz.json](./14258-answer-back-senior-quiz.json) |
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
@@ -10454,6 +10457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Gardening | 60210 | [60210-apocalypse-gardening.json](./60210-apocalypse-gardening.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
+| Apocalypse Hunters | 104991 | [104991-apocalypse-hunters.json](./104991-apocalypse-hunters.json) |
 | Apocalypse II | 42434 | [42434-apocalypse-ii.json](./42434-apocalypse-ii.json) |
 | Apocalypse Intern | 420223 | [420223-apocalypse-intern.json](./420223-apocalypse-intern.json) |
 | Apocalypse Island | 157392 | [157392-apocalypse-island.json](./157392-apocalypse-island.json) |
@@ -14870,6 +14874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX | 143279 | [143279-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-dx.json](./143279-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-dx.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
+| Atelier Marie Plus: The Alchemist of Salburg | 104982 | [104982-atelier-marie-plus-the-alchemist-of-salburg.json](./104982-atelier-marie-plus-the-alchemist-of-salburg.json) |
 | Atelier Marie Plus: The Alchemist of Salburg | 308190 | [308190-atelier-marie-plus-the-alchemist-of-salburg.json](./308190-atelier-marie-plus-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg | 236698 | [236698-atelier-marie-remake-the-alchemist-of-salburg.json](./236698-atelier-marie-remake-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg - Digital Deluxe Edition | 246875 | [246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json](./246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json) |
