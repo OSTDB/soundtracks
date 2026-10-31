@@ -3469,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heidi: The Game | 49479 | [49479-heidi-the-game.json](./49479-heidi-the-game.json) |
 | Heidi's Legacy: Mountains Calling | 347825 | [347825-heidis-legacy-mountains-calling.json](./347825-heidis-legacy-mountains-calling.json) |
 | Height | 380987 | [380987-height.json](./380987-height.json) |
+| Heileen | 63528 | [63528-heileen.json](./63528-heileen.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heileen 2: The Hands Of Fate | 17507 | [17507-heileen-2-the-hands-of-fate.json](./17507-heileen-2-the-hands-of-fate.json) |
 | Heileen 3: New Horizons | 36280 | [36280-heileen-3-new-horizons.json](./36280-heileen-3-new-horizons.json) |
@@ -6267,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cube World Top-Down 3D | 213150 | [213150-hidden-cube-world-top-down-3d.json](./213150-hidden-cube-world-top-down-3d.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
+| Hidden Dawn | 63521 | [63521-hidden-dawn.json](./63521-hidden-dawn.json) |
 | Hidden Deep | 111561 | [111561-hidden-deep.json](./111561-hidden-deep.json) |
 | Hidden Desert War: Top-Down 3D | 204829 | [204829-hidden-desert-war-top-down-3d.json](./204829-hidden-desert-war-top-down-3d.json) |
 | Hidden Desire | 220035 | [220035-hidden-desire.json](./220035-hidden-desire.json) |
@@ -10791,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Cats | 276646 | [276646-hungry-cats.json](./276646-hungry-cats.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
+| Hungry Corgis | 63527 | [63527-hungry-corgis.json](./63527-hungry-corgis.json) |
 | Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
 | Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
 | Hungry Dogs | 252251 | [252251-hungry-dogs.json](./252251-hungry-dogs.json) |
