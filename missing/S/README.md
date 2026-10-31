@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It?: The DVD Movie Game | 359901 | [359901-scene-it-the-dvd-movie-game.json](./359901-scene-it-the-dvd-movie-game.json) |
 | Scene of the Crime | 328661 | [328661-scene-of-the-crime.json](./328661-scene-of-the-crime.json) |
 | Scenery Collection: Set B | 85978 | [85978-scenery-collection-set-b.json](./85978-scenery-collection-set-b.json) |
+| Scenery Disk "Western European Tour" | 71295 | [71295-scenery-disk-western-european-tour.json](./71295-scenery-disk-western-european-tour.json) |
 | Scenery Disk 1 | 100076 | [100076-scenery-disk-1.json](./100076-scenery-disk-1.json) |
 | Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
@@ -3166,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble | 402336 | [402336-scrabble.json](./402336-scrabble.json) |
+| Scrabble | 71376 | [71376-scrabble.json](./71376-scrabble.json) |
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
 | Scrabble Classic | 85363 | [85363-scrabble-classic.json](./85363-scrabble-classic.json) |
@@ -7275,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition | 208999 | [208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json](./208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json) |
 | Sherlock Holmes: The Hunt for Moriarty | 280621 | [280621-sherlock-holmes-the-hunt-for-moriarty.json](./280621-sherlock-holmes-the-hunt-for-moriarty.json) |
 | Sherlock Holmes: The Mystery of the Mummy | 6786 | [6786-sherlock-holmes-the-mystery-of-the-mummy.json](./6786-sherlock-holmes-the-mystery-of-the-mummy.json) |
+| Sherlock Holmes: The Mystery of the Mummy | 71285 | [71285-sherlock-holmes-the-mystery-of-the-mummy.json](./71285-sherlock-holmes-the-mystery-of-the-mummy.json) |
 | Sherlock Holmes: The Mystery of the Persian Carpet | 14854 | [14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json](./14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json) |
 | Sherlock Holmes: The Silver Earring | 6812 | [6812-sherlock-holmes-the-silver-earring.json](./6812-sherlock-holmes-the-silver-earring.json) |
 | Sherlock Holmes: The Tea Shop Murder Mystery | 310948 | [310948-sherlock-holmes-the-tea-shop-murder-mystery.json](./310948-sherlock-holmes-the-tea-shop-murder-mystery.json) |
@@ -7553,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: 20XX | 137298 | [137298-shin-megami-tensei-20xx.json](./137298-shin-megami-tensei-20xx.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Deep Strange Journey - 25th Anniversary Special Box | 136903 | [136903-shin-megami-tensei-deep-strange-journey-25th-anniversary-special-box.json](./136903-shin-megami-tensei-deep-strange-journey-25th-anniversary-special-box.json) |
+| Shin Megami Tensei: Devil Children - Aka no Sho | 71306 | [71306-shin-megami-tensei-devil-children-aka-no-sho.json](./71306-shin-megami-tensei-devil-children-aka-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Messiah Riser | 49774 | [49774-shin-megami-tensei-devil-children-messiah-riser.json](./49774-shin-megami-tensei-devil-children-messiah-riser.json) |
@@ -11026,6 +11030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Region Simulator 2012 | 3177 | [3177-ski-region-simulator-2012.json](./3177-ski-region-simulator-2012.json) |
 | Ski Resort Extreme | 51400 | [51400-ski-resort-extreme.json](./51400-ski-resort-extreme.json) |
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
+| Ski Resort Tycoon | 71289 | [71289-ski-resort-tycoon.json](./71289-ski-resort-tycoon.json) |
 | Ski Resort Tycoon II | 73177 | [73177-ski-resort-tycoon-ii.json](./73177-ski-resort-tycoon-ii.json) |
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
 | Ski Run | 159047 | [159047-ski-run.json](./159047-ski-run.json) |
@@ -11292,6 +11297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skumring | 90228 | [90228-skumring.json](./90228-skumring.json) |
 | SkunkHunter 101 | 169590 | [169590-skunkhunter-101.json](./169590-skunkhunter-101.json) |
 | Skunny Kart | 46731 | [46731-skunny-kart.json](./46731-skunny-kart.json) |
+| Skunny: Back to the Forest | 71286 | [71286-skunny-back-to-the-forest.json](./71286-skunny-back-to-the-forest.json) |
 | Skunny: In the Wild West | 70791 | [70791-skunny-in-the-wild-west.json](./70791-skunny-in-the-wild-west.json) |
 | Skunny: Lost in Space | 68705 | [68705-skunny-lost-in-space.json](./68705-skunny-lost-in-space.json) |
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
@@ -14244,6 +14250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: The Bear's Adventures | 73857 | [73857-snowy-the-bears-adventures.json](./73857-snowy-the-bears-adventures.json) |
 | Snowy: Treasure Hunter | 52855 | [52855-snowy-treasure-hunter.json](./52855-snowy-treasure-hunter.json) |
 | Snowy: Treasure Hunter | 74010 | [74010-snowy-treasure-hunter.json](./74010-snowy-treasure-hunter.json) |
+| Snowy: Treasure Hunter 2 | 71299 | [71299-snowy-treasure-hunter-2.json](./71299-snowy-treasure-hunter-2.json) |
 | Snowy: Treasure Hunter 3 | 57584 | [57584-snowy-treasure-hunter-3.json](./57584-snowy-treasure-hunter-3.json) |
 | Snowyland | 187156 | [187156-snowyland.json](./187156-snowyland.json) |
 | SNQZ | 280623 | [280623-snqz.json](./280623-snqz.json) |
@@ -17823,7 +17830,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18989,6 +18995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre Vigil | 342785 | [342785-spectre-vigil.json](./342785-spectre-vigil.json) |
 | Spectre VR | 338645 | [338645-spectre-vr.json](./338645-spectre-vr.json) |
+| Spectre VR | 71280 | [71280-spectre-vr.json](./71280-spectre-vr.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | SpecTrek | 354367 | [354367-spectrek.json](./354367-spectrek.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
@@ -21968,6 +21975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mission: Remote Sectors | 336570 | [336570-star-mission-remote-sectors.json](./336570-star-mission-remote-sectors.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
+| Star Monkey | 71291 | [71291-star-monkey.json](./71291-star-monkey.json) |
 | Star Mountain | 301059 | [301059-star-mountain.json](./301059-star-mountain.json) |
 | Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
 | Star Nomad Elite | 175236 | [175236-star-nomad-elite.json](./175236-star-nomad-elite.json) |
@@ -22888,6 +22896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
 | Starlike | 188236 | [188236-starlike.json](./188236-starlike.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
+| StarLines Inc. | 71281 | [71281-starlines-inc.json](./71281-starlines-inc.json) |
 | Starlink Battle For Atlas: Lance Starship Pack | 305232 | [305232-starlink-battle-for-atlas-lance-starship-pack.json](./305232-starlink-battle-for-atlas-lance-starship-pack.json) |
 | Starlink: Battle for Atlas | 317065 | [317065-starlink-battle-for-atlas.json](./317065-starlink-battle-for-atlas.json) |
 | Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
@@ -32206,6 +32215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switcheroo! | 179325 | [179325-switcheroo.json](./179325-switcheroo.json) |
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | Switching Heroes | 395295 | [395295-switching-heroes.json](./395295-switching-heroes.json) |
+| Switchquiz | 71302 | [71302-switchquiz.json](./71302-switchquiz.json) |
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | Switzerland Omelette Deluxe | 351398 | [351398-switzerland-omelette-deluxe.json](./351398-switzerland-omelette-deluxe.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
