@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Dungeon | 58165 | [58165-ore-no-dungeon.json](./58165-ore-no-dungeon.json) |
 | Ore no Hitomi de Maruhadaka! Fukachi na Mirai to Misukasu Vision | 401162 | [401162-ore-no-hitomi-de-maruhadaka-fukachi-na-mirai-to-misukasu-vision.json](./401162-ore-no-hitomi-de-maruhadaka-fukachi-na-mirai-to-misukasu-vision.json) |
 | Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable | 66192 | [66192-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable.json](./66192-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable.json) |
+| Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai | 65174 | [65174-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable-ga-tsuzuku-wake-ga-nai.json](./65174-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable-ga-tsuzuku-wake-ga-nai.json) |
 | Ore no Imouto ga Konnani Kawaii Wake ga Nai. HappyenD | 62803 | [62803-ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-happyend.json](./62803-ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-happyend.json) |
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
 | Ore no Kanojo ga Gachi Hentai Sugiru | 97480 | [97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json](./97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json) |
