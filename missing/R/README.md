@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Master 3D | 421332 | [421332-race-master-3d.json](./421332-race-master-3d.json) |
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race me now | 154385 | [154385-race-me-now.json](./154385-race-me-now.json) |
+| Race n Chase 3D Car Racing Game | 107542 | [107542-race-n-chase-3d-car-racing-game.json](./107542-race-n-chase-3d-car-racing-game.json) |
 | Race of Life | 240079 | [240079-race-of-life.json](./240079-race-of-life.json) |
 | Race of the Nine Worlds | 352411 | [352411-race-of-the-nine-worlds.json](./352411-race-of-the-nine-worlds.json) |
 | Race On | 19363 | [19363-race-on.json](./19363-race-on.json) |
@@ -3169,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
 | Rebound RPG | 177690 | [177690-rebound-rpg.json](./177690-rebound-rpg.json) |
 | Rebound Rush | 360617 | [360617-rebound-rush.json](./360617-rebound-rush.json) |
+| Rebound VR | 107504 | [107504-rebound-vr.json](./107504-rebound-vr.json) |
 | RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
 | Rebuild | 100493 | [100493-rebuild.json](./100493-rebuild.json) |
 | Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
@@ -6879,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
 | Rimelands: Hammer of Thor | 123404 | [123404-rimelands-hammer-of-thor.json](./123404-rimelands-hammer-of-thor.json) |
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
+| Rimi Action RPG | 107500 | [107500-rimi-action-rpg.json](./107500-rimi-action-rpg.json) |
 | Rimland | 302214 | [302214-rimland.json](./302214-rimland.json) |
 | Rimo-Cocoron | 98366 | [98366-rimo-cocoron.json](./98366-rimo-cocoron.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
@@ -10172,6 +10175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | rOt | 88231 | [88231-rot.json](./88231-rot.json) |
 | Rot | 399759 | [399759-rot.json](./399759-rot.json) |
+| rOt 2 | 107519 | [107519-rot-2.json](./107519-rot-2.json) |
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
 | Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
 | Rot Gut | 34656 | [34656-rot-gut.json](./34656-rot-gut.json) |
