@@ -2576,7 +2576,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4476,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobayashi Clash of Conquest | 397932 | [397932-kobayashi-clash-of-conquest.json](./397932-kobayashi-clash-of-conquest.json) |
 | Kobayashi ga Kawai Sugite Tsurai!! Game Demo Kyun Moe Max ga Tomaranai | 202610 | [202610-kobayashi-ga-kawai-sugite-tsurai-game-demo-kyun-moe-max-ga-tomaranai.json](./202610-kobayashi-ga-kawai-sugite-tsurai-game-demo-kyun-moe-max-ga-tomaranai.json) |
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
+| Kobayashi Maru | 80288 | [80288-kobayashi-maru.json](./80288-kobayashi-maru.json) |
 | KobberParty - Castle Explorer | 130228 | [130228-kobberparty-castle-explorer.json](./130228-kobberparty-castle-explorer.json) |
 | Kobe Bryant in NBA Courtside | 3397 | [3397-kobe-bryant-in-nba-courtside.json](./3397-kobe-bryant-in-nba-courtside.json) |
 | Kobito Game Taizen | 416095 | [416095-kobito-game-taizen.json](./416095-kobito-game-taizen.json) |
@@ -4749,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kona's Crate | 54171 | [54171-konas-crate.json](./54171-konas-crate.json) |
 | Konae-chan no Doki-doki Penguin Kazoku | 134464 | [134464-konae-chan-no-doki-doki-penguin-kazoku.json](./134464-konae-chan-no-doki-doki-penguin-kazoku.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
+| Konami Antiques: MSX Collection Ultra Pack | 80292 | [80292-konami-antiques-msx-collection-ultra-pack.json](./80292-konami-antiques-msx-collection-ultra-pack.json) |
 | Konami Antiques: MSX Collection Vol. 1 | 44882 | [44882-konami-antiques-msx-collection-vol-1.json](./44882-konami-antiques-msx-collection-vol-1.json) |
 | Konami Antiques: MSX Collection Vol. 3 | 44777 | [44777-konami-antiques-msx-collection-vol-3.json](./44777-konami-antiques-msx-collection-vol-3.json) |
 | Konami Arcade Classics | 79704 | [79704-konami-arcade-classics.json](./79704-konami-arcade-classics.json) |
@@ -5830,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 3 | 37881 | [37881-kyouraku-sanyo-toyomaru-parlor-parlor-3.json](./37881-kyouraku-sanyo-toyomaru-parlor-parlor-3.json) |
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 4 | 37880 | [37880-kyouraku-sanyo-toyomaru-parlor-parlor-4.json](./37880-kyouraku-sanyo-toyomaru-parlor-parlor-4.json) |
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 5 | 37879 | [37879-kyouraku-sanyo-toyomaru-parlor-parlor-5.json](./37879-kyouraku-sanyo-toyomaru-parlor-parlor-5.json) |
+| Kyouraku: Sanyo - Toyomaru Parlor! Parlor! IV CR | 80271 | [80271-kyouraku-sanyo-toyomaru-parlor-parlor-iv-cr.json](./80271-kyouraku-sanyo-toyomaru-parlor-parlor-iv-cr.json) |
 | Kyouren no Utage | 150561 | [150561-kyouren-no-utage.json](./150561-kyouren-no-utage.json) |
 | Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
 | Kyouryuu Sentai Zyuranger | 48437 | [48437-kyouryuu-sentai-zyuranger.json](./48437-kyouryuu-sentai-zyuranger.json) |
