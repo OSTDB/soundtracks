@@ -5443,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumo | 120930 | [120930-kumo.json](./120930-kumo.json) |
 | Kumo: The Little Robot | 126986 | [126986-kumo-the-little-robot.json](./126986-kumo-the-little-robot.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
+| Kumpels | 112006 | [112006-kumpels.json](./112006-kumpels.json) |
 | Kun’tewiktuk: A Mi’kmaw Adventure | 303620 | [303620-kun-tewiktuk-a-mi-kmaw-adventure.json](./303620-kun-tewiktuk-a-mi-kmaw-adventure.json) |
 | Kunado Chronicles | 242122 | [242122-kunado-chronicles.json](./242122-kunado-chronicles.json) |
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
@@ -5619,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroinu Redux | 244746 | [244746-kuroinu-redux.json](./244746-kuroinu-redux.json) |
 | Kurokami-sama's Feast | 187065 | [187065-kurokami-samas-feast.json](./187065-kurokami-samas-feast.json) |
 | Kuroki run! | 184927 | [184927-kuroki-run.json](./184927-kuroki-run.json) |
+| Kuroki Shi no Kamen | 112030 | [112030-kuroki-shi-no-kamen.json](./112030-kuroki-shi-no-kamen.json) |
 | Kuroko no Basket: Kiseki no Game | 63055 | [63055-kuroko-no-basket-kiseki-no-game.json](./63055-kuroko-no-basket-kiseki-no-game.json) |
 | Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
 | Kuroko no Basket: Shouri he no Kiseki | 63054 | [63054-kuroko-no-basket-shouri-he-no-kiseki.json](./63054-kuroko-no-basket-shouri-he-no-kiseki.json) |
