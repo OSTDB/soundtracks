@@ -7327,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup USA 94 | 5464 | [5464-world-cup-usa-94.json](./5464-world-cup-usa-94.json) |
 | World Cup Year 94 | 57620 | [57620-world-cup-year-94.json](./57620-world-cup-year-94.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
+| World Dance: A Cultural Adventure... | 71840 | [71840-world-dance-a-cultural-adventure.json](./71840-world-dance-a-cultural-adventure.json) |
 | World Darts | 12873 | [12873-world-darts.json](./12873-world-darts.json) |
 | World Defense: Fragmented Reality | 35201 | [35201-world-defense-fragmented-reality.json](./35201-world-defense-fragmented-reality.json) |
 | World Destroyers | 30702 | [30702-world-destroyers.json](./30702-world-destroyers.json) |
