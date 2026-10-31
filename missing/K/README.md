@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kin'iro Loveriche: Golden Time - Limited Edition | 141188 | [141188-kiniro-loveriche-golden-time-limited-edition.json](./141188-kiniro-loveriche-golden-time-limited-edition.json) |
 | Kin's Chronicle | 149981 | [149981-kins-chronicle.json](./149981-kins-chronicle.json) |
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
+| Kinaman vs Gray Elephant | 96457 | [96457-kinaman-vs-gray-elephant.json](./96457-kinaman-vs-gray-elephant.json) |
 | Kinap | 374366 | [374366-kinap.json](./374366-kinap.json) |
 | Kind () Station | 357438 | [357438-kind-station.json](./357438-kind-station.json) |
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
