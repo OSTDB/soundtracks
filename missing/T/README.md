@@ -15253,6 +15253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slovak Run | 199999 | [199999-the-slovak-run.json](./199999-the-slovak-run.json) |
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
+| The Slugger | 94482 | [94482-the-slugger.json](./94482-the-slugger.json) |
 | The Slush Force | 235691 | [235691-the-slush-force.json](./235691-the-slush-force.json) |
 | The Sly Collection | 7458 | [7458-the-sly-collection.json](./7458-the-sly-collection.json) |
 | The Sly Fox | 122948 | [122948-the-sly-fox.json](./122948-the-sly-fox.json) |
@@ -23545,6 +23546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torque Drift | 95835 | [95835-torque-drift.json](./95835-torque-drift.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
+| Torrente | 94496 | [94496-torrente.json](./94496-torrente.json) |
 | Torrential | 232957 | [232957-torrential.json](./232957-torrential.json) |
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
@@ -27483,6 +27485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | Traxion 3000 | 319663 | [319663-traxion-3000.json](./319663-traxion-3000.json) |
 | TraxWorld | 190167 | [190167-traxworld.json](./190167-traxworld.json) |
+| Traxx | 94505 | [94505-traxx.json](./94505-traxx.json) |
 | Traxxpad: Portable Studio | 71039 | [71039-traxxpad-portable-studio.json](./71039-traxxpad-portable-studio.json) |
 | Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
 | Traysia | 397716 | [397716-traysia.json](./397716-traysia.json) |
