@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
 | Gear Heart | 284764 | [284764-gear-heart.json](./284764-gear-heart.json) |
+| Gear Jack | 101196 | [101196-gear-jack.json](./101196-gear-jack.json) |
 | Gear Notes: Ogre Slayer | 409796 | [409796-gear-notes-ogre-slayer.json](./409796-gear-notes-ogre-slayer.json) |
 | Gear Number Go Up | 391013 | [391013-gear-number-go-up.json](./391013-gear-number-go-up.json) |
 | Gear of Glass: Eolarn's war | 181077 | [181077-gear-of-glass-eolarns-war.json](./181077-gear-of-glass-eolarns-war.json) |
@@ -10235,6 +10236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutter: The Cursed | 223370 | [223370-gutter-the-cursed.json](./223370-gutter-the-cursed.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
+| Gutterball - Golden Pin Bowling | 101199 | [101199-gutterball-golden-pin-bowling.json](./101199-gutterball-golden-pin-bowling.json) |
 | Gutterball - Golden Pin Bowling | 88627 | [88627-gutterball-golden-pin-bowling.json](./88627-gutterball-golden-pin-bowling.json) |
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
 | Gutterball 3D | 70245 | [70245-gutterball-3d.json](./70245-gutterball-3d.json) |
