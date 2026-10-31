@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
 | Kids dinosaur puzzles and number games | 87086 | [87086-kids-dinosaur-puzzles-and-number-games.json](./87086-kids-dinosaur-puzzles-and-number-games.json) |
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
+| Kids Dinosaur Rex Slide Puzzle 15 Mystic squares | 89581 | [89581-kids-dinosaur-rex-slide-puzzle-15-mystic-squares.json](./89581-kids-dinosaur-rex-slide-puzzle-15-mystic-squares.json) |
 | Kids doctor : veterinarian | 99388 | [99388-kids-doctor-veterinarian.json](./99388-kids-doctor-veterinarian.json) |
 | Kids Doodle - Movie Kids Color & Draw | 86988 | [86988-kids-doodle-movie-kids-color-and-draw.json](./86988-kids-doodle-movie-kids-color-and-draw.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
