@@ -8790,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shǔshān: Chū Zhāng Wǎngluò Bǎn | 368546 | [368546-shushan-chu-zhang-wangluo-ban.json](./368546-shushan-chu-zhang-wangluo-ban.json) |
 | Shǔshān: Chū Zhāng Zhèngshì Bǎn | 368575 | [368575-shushan-chu-zhang-zhengshi-ban.json](./368575-shushan-chu-zhang-zhengshi-ban.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
+| Shut the Box Classic for iPad | 108713 | [108713-shut-the-box-classic-for-ipad.json](./108713-shut-the-box-classic-for-ipad.json) |
 | Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
 | Shut the Window | 94968 | [94968-shut-the-window.json](./94968-shut-the-window.json) |
 | Shut the Windows and Don't Look Outside | 337428 | [337428-shut-the-windows-and-dont-look-outside.json](./337428-shut-the-windows-and-dont-look-outside.json) |
@@ -11027,6 +11028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin & Bones | 135698 | [135698-skin-and-bones.json](./135698-skin-and-bones.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
+| Skin Doctor | 108696 | [108696-skin-doctor.json](./108696-skin-doctor.json) |
 | Skin Stealers | 128147 | [128147-skin-stealers.json](./128147-skin-stealers.json) |
 | Skin Witch | 126826 | [126826-skin-witch.json](./126826-skin-witch.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
@@ -12006,6 +12008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender Rising | 95676 | [95676-slender-rising.json](./95676-slender-rising.json) |
+| Slender Rising 2 | 108716 | [108716-slender-rising-2.json](./108716-slender-rising-2.json) |
 | Slender Threads | 127424 | [127424-slender-threads.json](./127424-slender-threads.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: A Crooked Manifestation | 346483 | [346483-slender-a-crooked-manifestation.json](./346483-slender-a-crooked-manifestation.json) |
@@ -12166,6 +12169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
 | Sliding Puzzle Collection | 128278 | [128278-sliding-puzzle-collection.json](./128278-sliding-puzzle-collection.json) |
 | Sliding Puzzle Deluxe: The Classic | 226356 | [226356-sliding-puzzle-deluxe-the-classic.json](./226356-sliding-puzzle-deluxe-the-classic.json) |
+| Sliding Puzzle Ocean | 108730 | [108730-sliding-puzzle-ocean.json](./108730-sliding-puzzle-ocean.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sliding Seas | 174584 | [174584-sliding-seas.json](./174584-sliding-seas.json) |
@@ -12929,6 +12933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
 | Smash Tennis | 44106 | [44106-smash-tennis.json](./44106-smash-tennis.json) |
+| Smash the Buddy: Kick Dude | 108700 | [108700-smash-the-buddy-kick-dude.json](./108700-smash-the-buddy-kick-dude.json) |
 | Smash Their Heads | 423272 | [423272-smash-their-heads.json](./423272-smash-their-heads.json) |
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
@@ -13428,6 +13433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes and Ladders | 312269 | [312269-snakes-and-ladders.json](./312269-snakes-and-ladders.json) |
 | Snakes and Ladders 3D | 103542 | [103542-snakes-and-ladders-3d.json](./103542-snakes-and-ladders-3d.json) |
 | Snakes and Ladders Championship | 349810 | [349810-snakes-and-ladders-championship.json](./349810-snakes-and-ladders-championship.json) |
+| Snakes and Ladders Game | 108721 | [108721-snakes-and-ladders-game.json](./108721-snakes-and-ladders-game.json) |
 | Snakes and Ladders NoLimits | 232285 | [232285-snakes-and-ladders-nolimits.json](./232285-snakes-and-ladders-nolimits.json) |
 | Snakes in Hibernation | 396205 | [396205-snakes-in-hibernation.json](./396205-snakes-in-hibernation.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
@@ -17202,6 +17208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space 2: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 207068 | [207068-space-2-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./207068-space-2-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
 | Space 2: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207067 | [207067-space-2-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207067-space-2-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Space 2: Breakthrough Gaming Arcade - Challenge Mode Edition | 207066 | [207066-space-2-breakthrough-gaming-arcade-challenge-mode-edition.json](./207066-space-2-breakthrough-gaming-arcade-challenge-mode-edition.json) |
+| Space 2048 | 108729 | [108729-space-2048.json](./108729-space-2048.json) |
 | Space Abyss | 144559 | [144559-space-abyss.json](./144559-space-abyss.json) |
 | Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
 | Space Academy | 235394 | [235394-space-academy.json](./235394-space-academy.json) |
@@ -31358,6 +31365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap! Swap! Swap! | 106405 | [106405-swap-swap-swap.json](./106405-swap-swap-swap.json) |
 | Swap. | 232037 | [232037-swap.json](./232037-swap.json) |
 | Swapdown | 266054 | [266054-swapdown.json](./266054-swapdown.json) |
+| Swapette Showdown | 108706 | [108706-swapette-showdown.json](./108706-swapette-showdown.json) |
 | Swapfell Ascendance | 331347 | [331347-swapfell-ascendance.json](./331347-swapfell-ascendance.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | SwapFell: I Hate You. | 335064 | [335064-swapfell-i-hate-you.json](./335064-swapfell-i-hate-you.json) |
