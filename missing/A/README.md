@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game You Can Afford In This Economy | 226102 | [226102-a-game-you-can-afford-in-this-economy.json](./226102-a-game-you-can-afford-in-this-economy.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gang of Weirdos | 299124 | [299124-a-gang-of-weirdos.json](./299124-a-gang-of-weirdos.json) |
+| A Gay Dragon | 114634 | [114634-a-gay-dragon.json](./114634-a-gay-dragon.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
 | A Ghost Journey | 373811 | [373811-a-ghost-journey.json](./373811-a-ghost-journey.json) |
@@ -15299,6 +15300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack the Light! | 22555 | [22555-attack-the-light.json](./22555-attack-the-light.json) |
 | Attack UFO | 172546 | [172546-attack-ufo.json](./172546-attack-ufo.json) |
 | Attack UFO | 250498 | [250498-attack-ufo.json](./250498-attack-ufo.json) |
+| Attack your friends! | 114633 | [114633-attack-your-friends.json](./114633-attack-your-friends.json) |
 | Attack Zone | 235789 | [235789-attack-zone.json](./235789-attack-zone.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
 | Attack! | 356281 | [356281-attack.json](./356281-attack.json) |
@@ -16026,6 +16028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernus | 109377 | [109377-avernus.json](./109377-avernus.json) |
 | Averon Rising | 126874 | [126874-averon-rising.json](./126874-averon-rising.json) |
 | Aversion | 273360 | [273360-aversion.json](./273360-aversion.json) |
+| Aversion: Sunrise | 114657 | [114657-aversion-sunrise.json](./114657-aversion-sunrise.json) |
 | Avert Fate | 63245 | [63245-avert-fate.json](./63245-avert-fate.json) |
 | Avert Your Eyes | 263004 | [263004-avert-your-eyes.json](./263004-avert-your-eyes.json) |
 | Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
