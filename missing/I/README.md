@@ -3752,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
 | Initial D Gaiden | 62559 | [62559-initial-d-gaiden.json](./62559-initial-d-gaiden.json) |
 | Initial D: Koudou Saisoku Densetsu | 97532 | [97532-initial-d-koudou-saisoku-densetsu.json](./97532-initial-d-koudou-saisoku-densetsu.json) |
+| Initial D: Mountain Vengeance | 71854 | [71854-initial-d-mountain-vengeance.json](./71854-initial-d-mountain-vengeance.json) |
 | Initial D: Perfect Shift Online | 85193 | [85193-initial-d-perfect-shift-online.json](./85193-initial-d-perfect-shift-online.json) |
 | Initial D: Second Stage Typing Game | 62558 | [62558-initial-d-second-stage-typing-game.json](./62558-initial-d-second-stage-typing-game.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
