@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Disc Golf | 59039 | [59039-zoo-disc-golf.json](./59039-zoo-disc-golf.json) |
 | Zoo Economy | 139608 | [139608-zoo-economy.json](./139608-zoo-economy.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
+| Zoo Farm | 103738 | [103738-zoo-farm.json](./103738-zoo-farm.json) |
 | Zoo Frenzy | 66891 | [66891-zoo-frenzy.json](./66891-zoo-frenzy.json) |
 | Zoo Fun | 283114 | [283114-zoo-fun.json](./283114-zoo-fun.json) |
 | Zoo Fun | 40635 | [40635-zoo-fun.json](./40635-zoo-fun.json) |
