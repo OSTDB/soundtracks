@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Universe Online: Episode Pack II | 161196 | [161196-dc-universe-online-episode-pack-ii.json](./161196-dc-universe-online-episode-pack-ii.json) |
 | DC Universe Online: Episode Pack III | 161197 | [161197-dc-universe-online-episode-pack-iii.json](./161197-dc-universe-online-episode-pack-iii.json) |
 | DC Universe Online: Episode Pack IV | 161189 | [161189-dc-universe-online-episode-pack-iv.json](./161189-dc-universe-online-episode-pack-iv.json) |
+| DC Universe Online: Ultimate Edition | 99933 | [99933-dc-universe-online-ultimate-edition.json](./99933-dc-universe-online-ultimate-edition.json) |
 | DC Wonder: Unlimited | 43496 | [43496-dc-wonder-unlimited.json](./43496-dc-wonder-unlimited.json) |
 | DC Worlds Collide | 193782 | [193782-dc-worlds-collide.json](./193782-dc-worlds-collide.json) |
 | DC: Batman Bat-Tech Edition | 309605 | [309605-dc-batman-bat-tech-edition.json](./309605-dc-batman-bat-tech-edition.json) |
@@ -3540,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 3: Awakened | 10173 | [10173-dead-space-3-awakened.json](./10173-dead-space-3-awakened.json) |
 | Dead Space 3: Enervator | 165944 | [165944-dead-space-3-enervator.json](./165944-dead-space-3-enervator.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
+| Dead Space 3: Ultimate Edition | 99930 | [99930-dead-space-3-ultimate-edition.json](./99930-dead-space-3-ultimate-edition.json) |
 | Dead Space Collection | 371743 | [371743-dead-space-collection.json](./371743-dead-space-collection.json) |
 | Dead Space Demake | 245167 | [245167-dead-space-demake.json](./245167-dead-space-demake.json) |
 | Dead Space Nokia | 323812 | [323812-dead-space-nokia.json](./323812-dead-space-nokia.json) |
@@ -10839,6 +10841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Doki-doki Surprise | 255523 | [255523-doki-doki-surprise.json](./255523-doki-doki-surprise.json) |
 | Doki-Doki Universe | 8684 | [8684-doki-doki-universe.json](./8684-doki-doki-universe.json) |
+| Doki-Doki Universe: Limited Edition Bundle | 99934 | [99934-doki-doki-universe-limited-edition-bundle.json](./99934-doki-doki-universe-limited-edition-bundle.json) |
 | Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | DokiDoki Academy | 252894 | [252894-dokidoki-academy.json](./252894-dokidoki-academy.json) |
@@ -13575,6 +13578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Pink: The Hero Castle | 66168 | [66168-dragon-pink-the-hero-castle.json](./66168-dragon-pink-the-hero-castle.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
 | Dragon Poker | 61506 | [61506-dragon-poker.json](./61506-dragon-poker.json) |
+| Dragon Pop - Bubble Shooter | 99914 | [99914-dragon-pop-bubble-shooter.json](./99914-dragon-pop-bubble-shooter.json) |
 | Dragon Pow! | 372822 | [372822-dragon-pow.json](./372822-dragon-pow.json) |
 | Dragon Power | 48697 | [48697-dragon-power.json](./48697-dragon-power.json) |
 | Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
