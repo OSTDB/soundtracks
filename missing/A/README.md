@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
 | AFKTower | 420200 | [420200-afktower.json](./420200-afktower.json) |
 | AFL | 4662 | [4662-afl.json](./4662-afl.json) |
+| AFL '98 | 79493 | [79493-afl-98.json](./79493-afl-98.json) |
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
 | AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
@@ -5577,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albedo and Cast of the Seven Godsends | 99482 | [99482-albedo-and-cast-of-the-seven-godsends.json](./99482-albedo-and-cast-of-the-seven-godsends.json) |
 | Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
 | Albegas | 63214 | [63214-albegas.json](./63214-albegas.json) |
+| Alberi | 79628 | [79628-alberi.json](./79628-alberi.json) |
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert | 212611 | [212611-albert.json](./212611-albert.json) |
 | Albert and Camille's Little Lille Adventure | 192708 | [192708-albert-and-camilles-little-lille-adventure.json](./192708-albert-and-camilles-little-lille-adventure.json) |
@@ -7524,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Weekend 4: Search and Relax - Collector's Edition | 386207 | [386207-amazing-weekend-4-search-and-relax-collectors-edition.json](./386207-amazing-weekend-4-search-and-relax-collectors-edition.json) |
 | Amazing Weekend: Search and Relax - Collector's Edition | 293049 | [293049-amazing-weekend-search-and-relax-collectors-edition.json](./293049-amazing-weekend-search-and-relax-collectors-edition.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
+| Amazing Wizard | 79642 | [79642-amazing-wizard.json](./79642-amazing-wizard.json) |
 | Amazing Word Search | 180151 | [180151-amazing-word-search.json](./180151-amazing-word-search.json) |
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
 | Amazing Zombie Defense | 62663 | [62663-amazing-zombie-defense.json](./62663-amazing-zombie-defense.json) |
@@ -13299,6 +13302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of the World Bundle | 164792 | [164792-artists-of-the-world-bundle.json](./164792-artists-of-the-world-bundle.json) |
 | Artizens | 36032 | [36032-artizens.json](./36032-artizens.json) |
 | Arto | 199454 | [199454-arto.json](./199454-arto.json) |
+| Artoon | 79646 | [79646-artoon.json](./79646-artoon.json) |
 | Artovya | 303894 | [303894-artovya.json](./303894-artovya.json) |
 | Artpartment | 128425 | [128425-artpartment.json](./128425-artpartment.json) |
 | ArtPulse | 129123 | [129123-artpulse.json](./129123-artpulse.json) |
