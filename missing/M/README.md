@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
 | Mahjong Keiji | 49706 | [49706-mahjong-keiji.json](./49706-mahjong-keiji.json) |
+| Mahjong Kittens | 97064 | [97064-mahjong-kittens.json](./97064-mahjong-kittens.json) |
 | Mahjong Kuru Jidai: AV Gal Seifukuhen | 254452 | [254452-mahjong-kuru-jidai-av-gal-seifukuhen.json](./254452-mahjong-kuru-jidai-av-gal-seifukuhen.json) |
 | Mahjong Kyo Retsuden | 75450 | [75450-mahjong-kyo-retsuden.json](./75450-mahjong-kyo-retsuden.json) |
 | Mahjong Kyoushitsu | 130623 | [130623-mahjong-kyoushitsu.json](./130623-mahjong-kyoushitsu.json) |
@@ -5042,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Balance: Pre-algebra game for kids | 97141 | [97141-math-balance-pre-algebra-game-for-kids.json](./97141-math-balance-pre-algebra-game-for-kids.json) |
 | Math Baseball | 230437 | [230437-math-baseball.json](./230437-math-baseball.json) |
+| Math Basketball | 97063 | [97063-math-basketball.json](./97063-math-basketball.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Bingo | 201167 | [201167-math-bingo.json](./201167-math-bingo.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
@@ -5736,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze! | 279475 | [279475-maze.json](./279475-maze.json) |
 | Maze.io | 105807 | [105807-maze-io.json](./105807-maze-io.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
+| MazeBot | 97070 | [97070-mazebot.json](./97070-mazebot.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | MazeCraft | 365217 | [365217-mazecraft.json](./365217-mazecraft.json) |
 | Mazed and Bemused | 143963 | [143963-mazed-and-bemused.json](./143963-mazed-and-bemused.json) |
@@ -7832,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Classics 2 | 419944 | [419944-meme-classics-2.json](./419944-meme-classics-2.json) |
 | Meme Couple | 334802 | [334802-meme-couple.json](./334802-meme-couple.json) |
 | Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
+| Meme Machine | 97088 | [97088-meme-machine.json](./97088-meme-machine.json) |
 | Meme Mayhem | 305127 | [305127-meme-mayhem.json](./305127-meme-mayhem.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
 | Meme Run | 60787 | [60787-meme-run.json](./60787-meme-run.json) |
@@ -10305,6 +10309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
 | Might and Magic: Swords of Xeen | 72004 | [72004-might-and-magic-swords-of-xeen.json](./72004-might-and-magic-swords-of-xeen.json) |
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
+| Might Craft: Pixel Journey | 97054 | [97054-might-craft-pixel-journey.json](./97054-might-craft-pixel-journey.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
 | Might of Merchants | 216691 | [216691-might-of-merchants.json](./216691-might-of-merchants.json) |
@@ -15693,6 +15698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
 | Mortal Shell: The Virtuous Cycle | 152119 | [152119-mortal-shell-the-virtuous-cycle.json](./152119-mortal-shell-the-virtuous-cycle.json) |
 | Mortal Sin | 148700 | [148700-mortal-sin.json](./148700-mortal-sin.json) |
+| Mortal Squad: Portal to Hell | 97076 | [97076-mortal-squad-portal-to-hell.json](./97076-mortal-squad-portal-to-hell.json) |
 | Mortal Street Fighter | 260877 | [260877-mortal-street-fighter.json](./260877-mortal-street-fighter.json) |
 | Mortal Trace | 242693 | [242693-mortal-trace.json](./242693-mortal-trace.json) |
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
@@ -19152,6 +19158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
+| My Super Tower 3 | 97087 | [97087-my-super-tower-3.json](./97087-my-super-tower-3.json) |
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
 | My Sushi Story | 249678 | [249678-my-sushi-story.json](./249678-my-sushi-story.json) |
 | My Sweet Angel | 340342 | [340342-my-sweet-angel.json](./340342-my-sweet-angel.json) |
