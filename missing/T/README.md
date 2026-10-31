@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech and Blood | 181864 | [181864-tech-and-blood.json](./181864-tech-and-blood.json) |
 | Tech Bike Freestyle | 206610 | [206610-tech-bike-freestyle.json](./206610-tech-bike-freestyle.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
+| Tech Clash | 123796 | [123796-tech-clash.json](./123796-tech-clash.json) |
 | Tech Corp. | 107992 | [107992-tech-corp.json](./107992-tech-corp.json) |
 | Tech Deck Snowboarding | 206611 | [206611-tech-deck-snowboarding.json](./206611-tech-deck-snowboarding.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
@@ -5163,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
 | The Alien Creature | 216663 | [216663-the-alien-creature.json](./216663-the-alien-creature.json) |
+| The Alien Cube | 123751 | [123751-the-alien-cube.json](./123751-the-alien-cube.json) |
 | The Alien Cube: Deluxe Edition | 227188 | [227188-the-alien-cube-deluxe-edition.json](./227188-the-alien-cube-deluxe-edition.json) |
 | The Alien Device | 357098 | [357098-the-alien-device.json](./357098-the-alien-device.json) |
 | The Alien Island: 3D-Version | 174636 | [174636-the-alien-island-3d-version.json](./174636-the-alien-island-3d-version.json) |
@@ -6492,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
 | The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
+| The Chasm | 123752 | [123752-the-chasm.json](./123752-the-chasm.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
 | The Chatters Show | 151465 | [151465-the-chatters-show.json](./151465-the-chatters-show.json) |
 | The Cheese Chase: Pizza Madness | 319772 | [319772-the-cheese-chase-pizza-madness.json](./319772-the-cheese-chase-pizza-madness.json) |
@@ -8392,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Kingdoms: Spooky Mosiacs | 337605 | [337605-the-far-kingdoms-spooky-mosiacs.json](./337605-the-far-kingdoms-spooky-mosiacs.json) |
 | The Far Kingdoms: Winter Solitaire | 386131 | [386131-the-far-kingdoms-winter-solitaire.json](./386131-the-far-kingdoms-winter-solitaire.json) |
 | The Far Node | 392286 | [392286-the-far-node.json](./392286-the-far-node.json) |
+| The Far Rings: A Space Opera Visual Novella | 123759 | [123759-the-far-rings-a-space-opera-visual-novella.json](./123759-the-far-rings-a-space-opera-visual-novella.json) |
 | The Faraway King | 413456 | [413456-the-faraway-king.json](./413456-the-faraway-king.json) |
 | The Faraway Land | 152786 | [152786-the-faraway-land.json](./152786-the-faraway-land.json) |
 | The Farm | 142624 | [142624-the-farm.json](./142624-the-farm.json) |
@@ -11399,6 +11403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Tiger and Phoenix | 222647 | [222647-the-legend-of-tiger-and-phoenix.json](./222647-the-legend-of-tiger-and-phoenix.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
 | The Legend of Tomoko | 339192 | [339192-the-legend-of-tomoko.json](./339192-the-legend-of-tomoko.json) |
+| The Legend of Viccess | 123761 | [123761-the-legend-of-viccess.json](./123761-the-legend-of-viccess.json) |
 | The Legend of Vraz | 54298 | [54298-the-legend-of-vraz.json](./54298-the-legend-of-vraz.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
 | The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
@@ -17403,6 +17408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yard: Escape from Prison | 414610 | [414610-the-yard-escape-from-prison.json](./414610-the-yard-escape-from-prison.json) |
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
+| The Yellow Ladder | 123795 | [123795-the-yellow-ladder.json](./123795-the-yellow-ladder.json) |
 | The Yellow Moon's School: The Ghosts Day | 288618 | [288618-the-yellow-moons-school-the-ghosts-day.json](./288618-the-yellow-moons-school-the-ghosts-day.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
 | The Yellow Sign | 336342 | [336342-the-yellow-sign.json](./336342-the-yellow-sign.json) |
@@ -28799,6 +28805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
 | Truzzle | 161609 | [161609-truzzle.json](./161609-truzzle.json) |
 | Try | 135695 | [135695-try.json](./135695-try.json) |
+| Try 'n Cry: Prologue | 123784 | [123784-try-n-cry-prologue.json](./123784-try-n-cry-prologue.json) |
 | Try 2 Sleep | 323434 | [323434-try-2-sleep.json](./323434-try-2-sleep.json) |
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
