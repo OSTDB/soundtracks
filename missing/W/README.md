@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
+| Warhammer 40,000: Inquisitor - Martyr Deluxe Edition | 117983 | [117983-warhammer-40-000-inquisitor-martyr-deluxe-edition.json](./117983-warhammer-40-000-inquisitor-martyr-deluxe-edition.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Charybdis Outpost | 149297 | [149297-warhammer-40-000-inquisitor-martyr-charybdis-outpost.json](./149297-warhammer-40-000-inquisitor-martyr-charybdis-outpost.json) |
 | Warhammer 40,000: Inquisitor - Martyr: City of Suffering | 149311 | [149311-warhammer-40-000-inquisitor-martyr-city-of-suffering.json](./149311-warhammer-40-000-inquisitor-martyr-city-of-suffering.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Desperate Crusade | 149298 | [149298-warhammer-40-000-inquisitor-martyr-desperate-crusade.json](./149298-warhammer-40-000-inquisitor-martyr-desperate-crusade.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
 | WCW vs. the World | 18316 | [18316-wcw-vs-the-world.json](./18316-wcw-vs-the-world.json) |
 | WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
+| WCW World Championship Wrestling: The Main Event | 117971 | [117971-wcw-world-championship-wrestling-the-main-event.json](./117971-wcw-world-championship-wrestling-the-main-event.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
 | WCW/nWo Revenji | 257769 | [257769-wcw-nwo-revenji.json](./257769-wcw-nwo-revenji.json) |
@@ -7145,6 +7147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
 | World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
 | World Beach Volley | 40547 | [40547-world-beach-volley.json](./40547-world-beach-volley.json) |
+| World Beach Volley: 1992 GB Cup | 117961 | [117961-world-beach-volley-1992-gb-cup.json](./117961-world-beach-volley-1992-gb-cup.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
 | World Boss | 189872 | [189872-world-boss.json](./189872-world-boss.json) |
 | World Bowling | 49005 | [49005-world-bowling.json](./49005-world-bowling.json) |
@@ -7899,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Run | 63768 | [63768-worm-run.json](./63768-worm-run.json) |
 | Worm Runner | 207354 | [207354-worm-runner.json](./207354-worm-runner.json) |
 | Worm Slayer | 197206 | [197206-worm-slayer.json](./197206-worm-slayer.json) |
+| Worm UP! | 117993 | [117993-worm-up.json](./117993-worm-up.json) |
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
 | Worm Visitor | 267514 | [267514-worm-visitor.json](./267514-worm-visitor.json) |
 | Worm War I | 22556 | [22556-worm-war-i.json](./22556-worm-war-i.json) |
