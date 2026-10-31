@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncursed | 331985 | [331985-uncursed.json](./331985-uncursed.json) |
 | Undake 30 UraGame Daisakusen | 341155 | [341155-undake-30-uragame-daisakusen.json](./341155-undake-30-uragame-daisakusen.json) |
 | Undake30 SameGame Daisakusen | 178914 | [178914-undake30-samegame-daisakusen.json](./178914-undake30-samegame-daisakusen.json) |
+| Undake30 SameGame Daisakusen Mario Version | 67024 | [67024-undake30-samegame-daisakusen-mario-version.json](./67024-undake30-samegame-daisakusen-mario-version.json) |
 | Undarkened: Revival | 172936 | [172936-undarkened-revival.json](./172936-undarkened-revival.json) |
 | Undaunted Normandy | 211992 | [211992-undaunted-normandy.json](./211992-undaunted-normandy.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
