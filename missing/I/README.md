@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Deserve a Happy Ending | 167355 | [167355-i-deserve-a-happy-ending.json](./167355-i-deserve-a-happy-ending.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
 | I Did It All For The Cookie! | 311209 | [311209-i-did-it-all-for-the-cookie.json](./311209-i-did-it-all-for-the-cookie.json) |
+| I did it Mum! 2 | 72434 | [72434-i-did-it-mum-2.json](./72434-i-did-it-mum-2.json) |
 | I Did it Mum! Picture Book | 48040 | [48040-i-did-it-mum-picture-book.json](./48040-i-did-it-mum-picture-book.json) |
 | I Did Not Buy This Ticket | 221165 | [221165-i-did-not-buy-this-ticket.json](./221165-i-did-not-buy-this-ticket.json) |
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
@@ -5083,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invs | 266641 | [266641-invs.json](./266641-invs.json) |
 | Inwai Kyoudan: Kegarenaki Joseito o Okasu Tame no Seiiki | 108941 | [108941-inwai-kyoudan-kegarenaki-joseito-o-okasu-tame-no-seiiki.json](./108941-inwai-kyoudan-kegarenaki-joseito-o-okasu-tame-no-seiiki.json) |
 | Inward | 172965 | [172965-inward.json](./172965-inward.json) |
+| Inway | 72409 | [72409-inway.json](./72409-inway.json) |
 | INXS: Make My Video | 46418 | [46418-inxs-make-my-video.json](./46418-inxs-make-my-video.json) |
 | Inyoku Shoujo | 385275 | [385275-inyoku-shoujo.json](./385275-inyoku-shoujo.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
@@ -5593,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
 | Island Berry | 188843 | [188843-island-berry.json](./188843-island-berry.json) |
+| Island Build Masters | 72422 | [72422-island-build-masters.json](./72422-island-build-masters.json) |
 | Island Casino | 262406 | [262406-island-casino.json](./262406-island-casino.json) |
 | Island Cities | 214445 | [214445-island-cities.json](./214445-island-cities.json) |
 | Island Clash | 267070 | [267070-island-clash.json](./267070-island-clash.json) |
