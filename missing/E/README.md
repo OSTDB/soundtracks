@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldervire | 414218 | [414218-eldervire.json](./414218-eldervire.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
+| ElDewrito | 117290 | [117290-eldewrito.json](./117290-eldewrito.json) |
 | ElDorado | 415753 | [415753-eldorado.json](./415753-eldorado.json) |
 | Eldorado Gate Volume 1 | 5553 | [5553-eldorado-gate-volume-1.json](./5553-eldorado-gate-volume-1.json) |
 | Eldorado Gate Volume 2 | 5554 | [5554-eldorado-gate-volume-2.json](./5554-eldorado-gate-volume-2.json) |
