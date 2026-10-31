@@ -9777,6 +9777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
 | The History Channel: Battle for the Pacific | 4913 | [4913-the-history-channel-battle-for-the-pacific.json](./4913-the-history-channel-battle-for-the-pacific.json) |
 | The History Channel: Civil War - A Nation Divided | 7009 | [7009-the-history-channel-civil-war-a-nation-divided.json](./7009-the-history-channel-civil-war-a-nation-divided.json) |
+| The History Channel: Civil War - Great Battles | 70189 | [70189-the-history-channel-civil-war-great-battles.json](./70189-the-history-channel-civil-war-great-battles.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
 | The History Channel: Great Battles of Rome | 143345 | [143345-the-history-channel-great-battles-of-rome.json](./143345-the-history-channel-great-battles-of-rome.json) |
@@ -13543,6 +13544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
+| The Perfect Trilogy | 70182 | [70182-the-perfect-trilogy.json](./70182-the-perfect-trilogy.json) |
 | The Perfect Unit | 102933 | [102933-the-perfect-unit.json](./102933-the-perfect-unit.json) |
 | The Perfect Woman | 317074 | [317074-the-perfect-woman.json](./317074-the-perfect-woman.json) |
 | The Perfectionist | 110537 | [110537-the-perfectionist.json](./110537-the-perfectionist.json) |
@@ -29723,6 +29725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Tails | 264537 | [264537-turbo-tails.json](./264537-turbo-tails.json) |
 | Turbo Tanks | 136657 | [136657-turbo-tanks.json](./136657-turbo-tanks.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
+| Turbo the Tortoise | 70266 | [70266-turbo-the-tortoise.json](./70266-turbo-the-tortoise.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
 | Turbo Toons | 205977 | [205977-turbo-toons.json](./205977-turbo-toons.json) |
 | Turbo Tornado | 297523 | [297523-turbo-tornado.json](./297523-turbo-tornado.json) |
