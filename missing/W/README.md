@@ -7826,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
 | World War: Prologue | 400065 | [400065-world-war-prologue.json](./400065-world-war-prologue.json) |
 | World War: Tank Battle | 192082 | [192082-world-war-tank-battle.json](./192082-world-war-tank-battle.json) |
+| World Warfare | 95141 | [95141-world-warfare.json](./95141-world-warfare.json) |
 | World Warfare & Economic | 171427 | [171427-world-warfare-and-economic.json](./171427-world-warfare-and-economic.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World Wide Love!: Sekai Seifuku Kanojo Fandisc | 375364 | [375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json](./375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json) |
