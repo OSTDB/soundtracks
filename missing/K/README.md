@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids in the Kitchen - Cooking Recipes | 95796 | [95796-kids-in-the-kitchen-cooking-recipes.json](./95796-kids-in-the-kitchen-cooking-recipes.json) |
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
 | Kids Land | 270550 | [270550-kids-land.json](./270550-kids-land.json) |
+| Kids Learn | 105638 | [105638-kids-learn.json](./105638-kids-learn.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
 | Kids Learn Music A+ Edition | 47940 | [47940-kids-learn-music-a-edition.json](./47940-kids-learn-music-a-edition.json) |
 | Kids Learn to Sort | 246973 | [246973-kids-learn-to-sort.json](./246973-kids-learn-to-sort.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Couch: Zoovival | 75602 | [75602-king-of-the-couch-zoovival.json](./75602-king-of-the-couch-zoovival.json) |
 | King of the Course | 58307 | [58307-king-of-the-course.json](./58307-king-of-the-course.json) |
+| King of the Dead | 105647 | [105647-king-of-the-dead.json](./105647-king-of-the-dead.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
 | King of the Hat | 54974 | [54974-king-of-the-hat.json](./54974-king-of-the-hat.json) |
 | King of the Hill | 365459 | [365459-king-of-the-hill.json](./365459-king-of-the-hill.json) |
