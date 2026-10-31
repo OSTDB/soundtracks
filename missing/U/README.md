@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFM: Unidentified Fantastic Maiden | 74933 | [74933-ufm-unidentified-fantastic-maiden.json](./74933-ufm-unidentified-fantastic-maiden.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
 | UFO | 335176 | [335176-ufo.json](./335176-ufo.json) |
+| UFO : Brawlers from Beyond | 123753 | [123753-ufo-brawlers-from-beyond.json](./123753-ufo-brawlers-from-beyond.json) |
 | UFO 2: Extraterrestrials | 195935 | [195935-ufo-2-extraterrestrials.json](./195935-ufo-2-extraterrestrials.json) |
 | UFO 50 | 54555 | [54555-ufo-50.json](./54555-ufo-50.json) |
 | UFO 50 Nonograms | 397748 | [397748-ufo-50-nonograms.json](./397748-ufo-50-nonograms.json) |
