@@ -6974,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Soccer France 2016 | 58204 | [58204-flick-soccer-france-2016.json](./58204-flick-soccer-france-2016.json) |
 | Flick Soccer! | 41516 | [41516-flick-soccer.json](./41516-flick-soccer.json) |
 | Flick Tennis | 223598 | [223598-flick-tennis.json](./223598-flick-tennis.json) |
+| FlickaDrink | 123230 | [123230-flickadrink.json](./123230-flickadrink.json) |
 | FlickBlocks | 182880 | [182880-flickblocks.json](./182880-flickblocks.json) |
 | Flicker | 348871 | [348871-flicker.json](./348871-flicker.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
