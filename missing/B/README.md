@@ -13178,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
 | Brain Age 2: More Training in Minutes a Day! | 2711 | [2711-brain-age-2-more-training-in-minutes-a-day.json](./2711-brain-age-2-more-training-in-minutes-a-day.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
+| Brain Age Express: Sudoku | 67839 | [67839-brain-age-express-sudoku.json](./67839-brain-age-express-sudoku.json) |
 | Brain Age: Concentration Training | 20884 | [20884-brain-age-concentration-training.json](./20884-brain-age-concentration-training.json) |
 | Brain Assist | 21679 | [21679-brain-assist.json](./21679-brain-assist.json) |
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
@@ -13389,6 +13390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish | 16289 | [16289-brandish.json](./16289-brandish.json) |
 | Brandish 2: The Planet Buster | 381268 | [381268-brandish-2-the-planet-buster.json](./381268-brandish-2-the-planet-buster.json) |
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
+| Brandish 3: Spirit of Balcan | 67851 | [67851-brandish-3-spirit-of-balcan.json](./67851-brandish-3-spirit-of-balcan.json) |
 | Brandish 4: Nemureru Kami no Tou | 105741 | [105741-brandish-4-nemureru-kami-no-tou.json](./105741-brandish-4-nemureru-kami-no-tou.json) |
 | Brandish: The Dark Revenant | 23806 | [23806-brandish-the-dark-revenant.json](./23806-brandish-the-dark-revenant.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
