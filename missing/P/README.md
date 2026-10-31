@@ -2872,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patrick and the Maze | 245705 | [245705-patrick-and-the-maze.json](./245705-patrick-and-the-maze.json) |
 | Patrick's Parabox | 133227 | [133227-patricks-parabox.json](./133227-patricks-parabox.json) |
+| Patriot | 92792 | [92792-patriot.json](./92792-patriot.json) |
 | Patriotic Missile 3D | 104720 | [104720-patriotic-missile-3d.json](./104720-patriotic-missile-3d.json) |
 | Patriotic Pinball | 43847 | [43847-patriotic-pinball.json](./43847-patriotic-pinball.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
@@ -5611,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictionary: Ultimate Edition (uDraw) | 21725 | [21725-pictionary-ultimate-edition-udraw.json](./21725-pictionary-ultimate-edition-udraw.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
 | Pictlogica: Final Fantasy | 36998 | [36998-pictlogica-final-fantasy.json](./36998-pictlogica-final-fantasy.json) |
+| Picto Image | 92768 | [92768-picto-image.json](./92768-picto-image.json) |
 | Picto-Cross: 1 Nonogram per Day | 390035 | [390035-picto-cross-1-nonogram-per-day.json](./390035-picto-cross-1-nonogram-per-day.json) |
 | PictoChat | 297998 | [297998-pictochat.json](./297998-pictochat.json) |
 | Pictode Collection | 201983 | [201983-pictode-collection.json](./201983-pictode-collection.json) |
@@ -5636,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Perfect | 314721 | [314721-picture-perfect.json](./314721-picture-perfect.json) |
 | Picture Perfect | 368075 | [368075-picture-perfect.json](./368075-picture-perfect.json) |
 | Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
+| Picture Perfect Golf | 92776 | [92776-picture-perfect-golf.json](./92776-picture-perfect-golf.json) |
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
 | Picture Poker | 249625 | [249625-picture-poker.json](./249625-picture-poker.json) |
 | Picture Puzzle | 186449 | [186449-picture-puzzle.json](./186449-picture-puzzle.json) |
@@ -6849,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
 | Pirate Chest Chess | 365875 | [365875-pirate-chest-chess.json](./365875-pirate-chest-chess.json) |
 | Pirate Chips | 391846 | [391846-pirate-chips.json](./391846-pirate-chips.json) |
+| Pirate Cliff | 92774 | [92774-pirate-cliff.json](./92774-pirate-cliff.json) |
 | Pirate Coast Escape | 315640 | [315640-pirate-coast-escape.json](./315640-pirate-coast-escape.json) |
 | Pirate Coast Escape 2 | 315641 | [315641-pirate-coast-escape-2.json](./315641-pirate-coast-escape-2.json) |
 | Pirate Coast Escape 3 | 315642 | [315642-pirate-coast-escape-3.json](./315642-pirate-coast-escape-3.json) |
@@ -13607,6 +13611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Military Manager: Tactical Auto Battler | 264618 | [264618-private-military-manager-tactical-auto-battler.json](./264618-private-military-manager-tactical-auto-battler.json) |
 | Private Mining Company | 309368 | [309368-private-mining-company.json](./309368-private-mining-company.json) |
 | Private Model | 169229 | [169229-private-model.json](./169229-private-model.json) |
+| Private Nurse | 92791 | [92791-private-nurse.json](./92791-private-nurse.json) |
 | Private Property | 199378 | [199378-private-property.json](./199378-private-property.json) |
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
 | Private Ward: VIP Floor - She Was My Nurse | 385821 | [385821-private-ward-vip-floor-she-was-my-nurse.json](./385821-private-ward-vip-floor-she-was-my-nurse.json) |
