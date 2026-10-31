@@ -3377,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Tank VR | 74291 | [74291-voxel-tank-vr.json](./74291-voxel-tank-vr.json) |
 | Voxel Tanks | 102246 | [102246-voxel-tanks.json](./102246-voxel-tanks.json) |
 | Voxel Turf | 54798 | [54798-voxel-turf.json](./54798-voxel-turf.json) |
+| Voxel Tycoon | 83973 | [83973-voxel-tycoon.json](./83973-voxel-tycoon.json) |
 | Voxel Warfare Online | 124508 | [124508-voxel-warfare-online.json](./124508-voxel-warfare-online.json) |
 | Voxel Works Quest | 182836 | [182836-voxel-works-quest.json](./182836-voxel-works-quest.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
