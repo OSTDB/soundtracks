@@ -5486,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu All-Star VR | 55727 | [55727-kung-fu-all-star-vr.json](./55727-kung-fu-all-star-vr.json) |
 | Kung Fu All-Star: MMA Fight | 188269 | [188269-kung-fu-all-star-mma-fight.json](./188269-kung-fu-all-star-mma-fight.json) |
 | Kung Fu Chaos | 5898 | [5898-kung-fu-chaos.json](./5898-kung-fu-chaos.json) |
+| Kung Fu Charlies | 92267 | [92267-kung-fu-charlies.json](./92267-kung-fu-charlies.json) |
 | Kung Fu Chess | 180198 | [180198-kung-fu-chess.json](./180198-kung-fu-chess.json) |
 | Kung Fu Clicker | 106983 | [106983-kung-fu-clicker.json](./106983-kung-fu-clicker.json) |
 | Kung Fu Do Fighting | 58798 | [58798-kung-fu-do-fighting.json](./58798-kung-fu-do-fighting.json) |
