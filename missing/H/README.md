@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Combat | 314397 | [314397-hamster-combat.json](./314397-hamster-combat.json) |
 | Hamster Combat: Road to Whale | 337831 | [337831-hamster-combat-road-to-whale.json](./337831-hamster-combat-road-to-whale.json) |
 | Hamster Cozy: Tears of Acorn Valley | 330401 | [330401-hamster-cozy-tears-of-acorn-valley.json](./330401-hamster-cozy-tears-of-acorn-valley.json) |
+| Hamster Daily | 104940 | [104940-hamster-daily.json](./104940-hamster-daily.json) |
 | Hamster Drop | 63545 | [63545-hamster-drop.json](./63545-hamster-drop.json) |
 | Hamster Escapes: Minnie Pets! | 245372 | [245372-hamster-escapes-minnie-pets.json](./245372-hamster-escapes-minnie-pets.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
@@ -5194,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermeticism | 229733 | [229733-hermeticism.json](./229733-hermeticism.json) |
 | Hermeticism | 322015 | [322015-hermeticism.json](./322015-hermeticism.json) |
 | Hermetika VR | 184933 | [184933-hermetika-vr.json](./184933-hermetika-vr.json) |
+| Hermina and Culus: Atelier Lilie Another Story | 104981 | [104981-hermina-and-culus-atelier-lilie-another-story.json](./104981-hermina-and-culus-atelier-lilie-another-story.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
 | Hermine's Ghost Town Adventure | 311320 | [311320-hermines-ghost-town-adventure.json](./311320-hermines-ghost-town-adventure.json) |
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
