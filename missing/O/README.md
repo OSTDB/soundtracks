@@ -4287,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otomedius | 1685 | [1685-otomedius.json](./1685-otomedius.json) |
 | Otomedius Excellent | 1695 | [1695-otomedius-excellent.json](./1695-otomedius-excellent.json) |
 | Otomedius X | 106251 | [106251-otomedius-x.json](./106251-otomedius-x.json) |
+| OtomeQuest | 98718 | [98718-otomequest.json](./98718-otomequest.json) |
 | Otometeki Koi Kakumei Love Revo! Portable | 214560 | [214560-otometeki-koi-kakumei-love-revo-portable.json](./214560-otometeki-koi-kakumei-love-revo-portable.json) |
 | Otometeki Koi Kakumei Love Revo!! | 70678 | [70678-otometeki-koi-kakumei-love-revo.json](./70678-otometeki-koi-kakumei-love-revo.json) |
 | Otometeki Koi Kakumei Love Revo!! 100kg Kara Hajimaru Koi Monogatari | 214562 | [214562-otometeki-koi-kakumei-love-revo-100kg-kara-hajimaru-koi-monogatari.json](./214562-otometeki-koi-kakumei-love-revo-100kg-kara-hajimaru-koi-monogatari.json) |
@@ -5295,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverTrip | 307818 | [307818-overtrip.json](./307818-overtrip.json) |
 | Overture | 35922 | [35922-overture.json](./35922-overture.json) |
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
+| Overturn: Final Operation | 98695 | [98695-overturn-final-operation.json](./98695-overturn-final-operation.json) |
 | Overturn: Mecha Wars | 71945 | [71945-overturn-mecha-wars.json](./71945-overturn-mecha-wars.json) |
 | Overtype | 391015 | [391015-overtype.json](./391015-overtype.json) |
 | Overvåkerne | 338108 | [338108-overvakerne.json](./338108-overvakerne.json) |
