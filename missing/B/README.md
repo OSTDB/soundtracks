@@ -5388,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
+| Before Midnight (The First Puzzle) | 112001 | [112001-before-midnight-the-first-puzzle.json](./112001-before-midnight-the-first-puzzle.json) |
 | Before Nightfall | 105159 | [105159-before-nightfall.json](./105159-before-nightfall.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
 | Before Nightfall: Summertime | 157352 | [157352-before-nightfall-summertime.json](./157352-before-nightfall-summertime.json) |
@@ -5457,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Closed Doors: A Developer's Tale | 173211 | [173211-behind-closed-doors-a-developers-tale.json](./173211-behind-closed-doors-a-developers-tale.json) |
 | Behind Enemy Line | 156167 | [156167-behind-enemy-line.json](./156167-behind-enemy-line.json) |
 | Behind Enemy Lines | 39428 | [39428-behind-enemy-lines.json](./39428-behind-enemy-lines.json) |
+| Behind Every Great One | 112012 | [112012-behind-every-great-one.json](./112012-behind-every-great-one.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
 | Behind The Backrooms | 310245 | [310245-behind-the-backrooms.json](./310245-behind-the-backrooms.json) |
 | Behind the Beyond | 113361 | [113361-behind-the-beyond.json](./113361-behind-the-beyond.json) |
@@ -7614,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Bartender | 228059 | [228059-birdie-bartender.json](./228059-birdie-bartender.json) |
 | Birdie Blitz | 406787 | [406787-birdie-blitz.json](./406787-birdie-blitz.json) |
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
+| Birdie Crush | 112020 | [112020-birdie-crush.json](./112020-birdie-crush.json) |
 | Birdie Golf | 89783 | [89783-birdie-golf.json](./89783-birdie-golf.json) |
 | Birdie Putt | 243827 | [243827-birdie-putt.json](./243827-birdie-putt.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
