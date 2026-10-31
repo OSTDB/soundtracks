@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Breaker | 280330 | [280330-ice-breaker.json](./280330-ice-breaker.json) |
 | Ice Breaker: The Gathering | 318166 | [318166-ice-breaker-the-gathering.json](./318166-ice-breaker-the-gathering.json) |
 | Ice Breaker: The Red Clan | 318165 | [318165-ice-breaker-the-red-clan.json](./318165-ice-breaker-the-red-clan.json) |
+| Ice Caves of Europa | 95087 | [95087-ice-caves-of-europa.json](./95087-ice-caves-of-europa.json) |
 | Ice Climber | 246340 | [246340-ice-climber.json](./246340-ice-climber.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Cold Beer | 406941 | [406941-ice-cold-beer.json](./406941-ice-cold-beer.json) |
