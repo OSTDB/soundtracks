@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DachStudio Puzzle Box: Robots by datGestruepp | 323266 | [323266-dachstudio-puzzle-box-robots-by-datgestruepp.json](./323266-dachstudio-puzzle-box-robots-by-datgestruepp.json) |
 | DACHstudio Puzzle Box: Sanguinik's hidden object tour in Görlitz/Zgorzelec | 357982 | [357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json](./357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
+| Dacman | 119293 | [119293-dacman.json](./119293-dacman.json) |
 | Dactyl | 78440 | [78440-dactyl.json](./78440-dactyl.json) |
 | Dactyl Nightmare | 65008 | [65008-dactyl-nightmare.json](./65008-dactyl-nightmare.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
@@ -6975,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Club: Gallery of Shadows | 416699 | [416699-detective-club-gallery-of-shadows.json](./416699-detective-club-gallery-of-shadows.json) |
 | Detective Club: Gallery of Shadows - Collector's Edition | 362848 | [362848-detective-club-gallery-of-shadows-collectors-edition.json](./362848-detective-club-gallery-of-shadows-collectors-edition.json) |
 | Detective Club: Missing in the Fog - Collector's Edition | 342099 | [342099-detective-club-missing-in-the-fog-collectors-edition.json](./342099-detective-club-missing-in-the-fog-collectors-edition.json) |
+| Detective Conan Runner: Race for the Truth | 119274 | [119274-detective-conan-runner-race-for-the-truth.json](./119274-detective-conan-runner-race-for-the-truth.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Akatsuki no Monument | 49695 | [49695-detective-conan-akatsuki-no-monument.json](./49695-detective-conan-akatsuki-no-monument.json) |
 | Detective Conan: Aoki Houseki no Rinbukyoku - Rondo | 79556 | [79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json](./79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json) |
@@ -11354,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Wake God | 236456 | [236456-dont-wake-god.json](./236456-dont-wake-god.json) |
 | Don't Wake Roko | 378144 | [378144-dont-wake-roko.json](./378144-dont-wake-roko.json) |
 | Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
+| Don't Wake the Night | 119252 | [119252-dont-wake-the-night.json](./119252-dont-wake-the-night.json) |
 | Don't Wake the SysOp | 94944 | [94944-dont-wake-the-sysop.json](./94944-dont-wake-the-sysop.json) |
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
 | Don't Wake Up | 183915 | [183915-dont-wake-up.json](./183915-dont-wake-up.json) |
@@ -12758,6 +12761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Driving | 263404 | [263404-dr-driving.json](./263404-dr-driving.json) |
 | Dr. Dude | 92441 | [92441-dr-dude.json](./92441-dr-dude.json) |
 | Dr. Dumont's Wild P.A.R.T.I. | 7563 | [7563-dr-dumonts-wild-p-a-r-t-i.json](./7563-dr-dumonts-wild-p-a-r-t-i.json) |
+| Dr. Ectomy | 119222 | [119222-dr-ectomy.json](./119222-dr-ectomy.json) |
 | Dr. Emmerson's Nocturnes | 244355 | [244355-dr-emmersons-nocturnes.json](./244355-dr-emmersons-nocturnes.json) |
 | Dr. Emoji | 181147 | [181147-dr-emoji.json](./181147-dr-emoji.json) |
 | Dr. Fad | 198732 | [198732-dr-fad.json](./198732-dr-fad.json) |
@@ -13427,6 +13431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
 | Dragon History | 66746 | [66746-dragon-history.json](./66746-dragon-history.json) |
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
+| Dragon Hound | 119241 | [119241-dragon-hound.json](./119241-dragon-hound.json) |
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunt Adventure | 204201 | [204201-dragon-hunt-adventure.json](./204201-dragon-hunt-adventure.json) |
 | Dragon Hunter | 76398 | [76398-dragon-hunter.json](./76398-dragon-hunter.json) |
@@ -13582,6 +13587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King - Mobile Remaster | 313424 | [313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json](./313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json) |
+| Dragon Quest Walk | 119215 | [119215-dragon-quest-walk.json](./119215-dragon-quest-walk.json) |
 | Dragon Quest Wars | 1825 | [1825-dragon-quest-wars.json](./1825-dragon-quest-wars.json) |
 | Dragon Quest X Offline: Deluxe Edition | 174127 | [174127-dragon-quest-x-offline-deluxe-edition.json](./174127-dragon-quest-x-offline-deluxe-edition.json) |
 | Dragon Quest X: 5,000-Nen no Tabiji Harukanaru Kyuuri he Online | 136818 | [136818-dragon-quest-x-5-000-nen-no-tabiji-harukanaru-kyuuri-he-online.json](./136818-dragon-quest-x-5-000-nen-no-tabiji-harukanaru-kyuuri-he-online.json) |
