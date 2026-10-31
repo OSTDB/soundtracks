@@ -16551,6 +16551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryorise | 378609 | [378609-cryorise.json](./378609-cryorise.json) |
 | Cryostasis | 2967 | [2967-cryostasis.json](./2967-cryostasis.json) |
 | Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
+| Crypchania | 117314 | [117314-crypchania.json](./117314-crypchania.json) |
 | Cryphora | 342288 | [342288-cryphora.json](./342288-cryphora.json) |
 | Crypt | 218837 | [218837-crypt.json](./218837-crypt.json) |
 | Crypt | 320128 | [320128-crypt.json](./320128-crypt.json) |
@@ -17804,6 +17805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed sarcophagus | 284994 | [284994-cursed-sarcophagus.json](./284994-cursed-sarcophagus.json) |
 | Cursed Shorts | 363058 | [363058-cursed-shorts.json](./363058-cursed-shorts.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
+| Cursed Soul | 117305 | [117305-cursed-soul.json](./117305-cursed-soul.json) |
 | Cursed Soul | 183210 | [183210-cursed-soul.json](./183210-cursed-soul.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
 | Cursed Station | 343025 | [343025-cursed-station.json](./343025-cursed-station.json) |
