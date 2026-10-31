@@ -7436,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Forklifting 3 | 352766 | [352766-extreme-forklifting-3.json](./352766-extreme-forklifting-3.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Formula Championship 2015 | 88450 | [88450-extreme-formula-championship-2015.json](./88450-extreme-formula-championship-2015.json) |
+| Extreme Gear: Demolition Arena | 98172 | [98172-extreme-gear-demolition-arena.json](./98172-extreme-gear-demolition-arena.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
 | Extreme Hangman 2 | 62255 | [62255-extreme-hangman-2.json](./62255-extreme-hangman-2.json) |
