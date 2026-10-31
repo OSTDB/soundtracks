@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery War | 163772 | [163772-cemetery-war.json](./163772-cemetery-war.json) |
 | Cemetery Warrior 2 | 82471 | [82471-cemetery-warrior-2.json](./82471-cemetery-warrior-2.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
+| Cemetery Warrior 4 | 122576 | [122576-cemetery-warrior-4.json](./122576-cemetery-warrior-4.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
 | Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
