@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elude | 152474 | [152474-elude.json](./152474-elude.json) |
 | Elude | 93802 | [93802-elude.json](./93802-elude.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
+| Elumiqs | 107540 | [107540-elumiqs.json](./107540-elumiqs.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
 | Elusive People | 228607 | [228607-elusive-people.json](./228607-elusive-people.json) |
@@ -4109,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Racers | 198460 | [198460-epic-racers.json](./198460-epic-racers.json) |
 | Epic Racers | 233642 | [233642-epic-racers.json](./233642-epic-racers.json) |
 | Epic Rogue | 288050 | [288050-epic-rogue.json](./288050-epic-rogue.json) |
+| Epic roll | 107491 | [107491-epic-roll.json](./107491-epic-roll.json) |
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Armageddon | 166647 | [166647-epic-roller-coasters-armageddon.json](./166647-epic-roller-coasters-armageddon.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
@@ -4510,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertha | 201958 | [201958-ertha.json](./201958-ertha.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
+| ERTX 2080TI Mining clicker | 107518 | [107518-ertx-2080ti-mining-clicker.json](./107518-ertx-2080ti-mining-clicker.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
 | Eruption | 54341 | [54341-eruption.json](./54341-eruption.json) |
 | Eruptle | 320769 | [320769-eruptle.json](./320769-eruptle.json) |
