@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Native | 270274 | [270274-native.json](./270274-native.json) |
 | Native Hunter | 235915 | [235915-native-hunter.json](./235915-native-hunter.json) |
 | Natives | 250753 | [250753-natives.json](./250753-natives.json) |
+| NATO Assault Course | 72461 | [72461-nato-assault-course.json](./72461-nato-assault-course.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia: Virtual Stars - Kizuna AI | 196085 | [196085-neptunia-virtual-stars-kizuna-ai.json](./196085-neptunia-virtual-stars-kizuna-ai.json) |
 | Neptunia: Virtual Stars - Towa Kiseki | 196086 | [196086-neptunia-virtual-stars-towa-kiseki.json](./196086-neptunia-virtual-stars-towa-kiseki.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
+| Neptunian Donut | 72408 | [72408-neptunian-donut.json](./72408-neptunian-donut.json) |
 | Neptunian Nightmare | 329484 | [329484-neptunian-nightmare.json](./329484-neptunian-nightmare.json) |
 | Neratte chu | 40989 | [40989-neratte-chu.json](./40989-neratte-chu.json) |
 | Neratte! Tobashite! Rilakkuma GuraGura Sweets Tower | 98177 | [98177-neratte-tobashite-rilakkuma-guragura-sweets-tower.json](./98177-neratte-tobashite-rilakkuma-guragura-sweets-tower.json) |
