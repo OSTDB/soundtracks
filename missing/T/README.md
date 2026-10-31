@@ -21534,6 +21534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | Tinyfolks | 197266 | [197266-tinyfolks.json](./197266-tinyfolks.json) |
 | TinyHands First Words 1 | 95293 | [95293-tinyhands-first-words-1.json](./95293-tinyhands-first-words-1.json) |
+| TinyHands Raccoon Treehouse | 102523 | [102523-tinyhands-raccoon-treehouse.json](./102523-tinyhands-raccoon-treehouse.json) |
 | TinyHoopers | 323964 | [323964-tinyhoopers.json](./323964-tinyhoopers.json) |
 | TinyKeep | 10993 | [10993-tinykeep.json](./10993-tinykeep.json) |
 | Tinykin Challenge Update | 229118 | [229118-tinykin-challenge-update.json](./229118-tinykin-challenge-update.json) |
@@ -21890,6 +21891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Dragon Cave | 201937 | [201937-to-the-dragon-cave.json](./201937-to-the-dragon-cave.json) |
 | To the Dungeon! | 255075 | [255075-to-the-dungeon.json](./255075-to-the-dungeon.json) |
 | To the Eden | 362398 | [362398-to-the-eden.json](./362398-to-the-eden.json) |
+| To the Edge of the Sky | 102534 | [102534-to-the-edge-of-the-sky.json](./102534-to-the-edge-of-the-sky.json) |
 | To the Eds-treme | 315086 | [315086-to-the-eds-treme.json](./315086-to-the-eds-treme.json) |
 | To the End 2 | 174304 | [174304-to-the-end-2.json](./174304-to-the-end-2.json) |
 | To the End of the Way | 327432 | [327432-to-the-end-of-the-way.json](./327432-to-the-end-of-the-way.json) |
@@ -24965,6 +24967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Trains | 265271 | [265271-toy-trains.json](./265271-toy-trains.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
 | Toy Warfare | 355888 | [355888-toy-warfare.json](./355888-toy-warfare.json) |
+| Toy Wars Gold Edition: The Story of Army Heroes | 102504 | [102504-toy-wars-gold-edition-the-story-of-army-heroes.json](./102504-toy-wars-gold-edition-the-story-of-army-heroes.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toy Wars: Story of Heroes | 140321 | [140321-toy-wars-story-of-heroes.json](./140321-toy-wars-story-of-heroes.json) |
 | Toy-War: The Beginning | 111192 | [111192-toy-war-the-beginning.json](./111192-toy-war-the-beginning.json) |
