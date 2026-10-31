@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elif | 186689 | [186689-elif.json](./186689-elif.json) |
 | Elifoot | 91631 | [91631-elifoot.json](./91631-elifoot.json) |
 | Elifoot 18 | 104499 | [104499-elifoot-18.json](./104499-elifoot-18.json) |
+| Elifoot 2 | 91632 | [91632-elifoot-2.json](./91632-elifoot-2.json) |
 | Elifoot 98 | 398966 | [398966-elifoot-98.json](./398966-elifoot-98.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
@@ -3684,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | England in London | 276836 | [276836-england-in-london.json](./276836-england-in-london.json) |
 | England International Football | 92334 | [92334-england-international-football.json](./92334-england-international-football.json) |
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
+| Englisch Pfiffikus - 1995 | 91634 | [91634-englisch-pfiffikus-1995.json](./91634-englisch-pfiffikus-1995.json) |
 | English A-Game | 219250 | [219250-english-a-game.json](./219250-english-a-game.json) |
 | English Civil War | 129580 | [129580-english-civil-war.json](./129580-english-civil-war.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
