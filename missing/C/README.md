@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
 | Capsule Silence XXIV | 58737 | [58737-capsule-silence-xxiv.json](./58737-capsule-silence-xxiv.json) |
+| Capsule: A Piece of Me | 97652 | [97652-capsule-a-piece-of-me.json](./97652-capsule-a-piece-of-me.json) |
 | CapsuleMan | 274296 | [274296-capsuleman.json](./274296-capsuleman.json) |
 | CapsuleToy | 232586 | [232586-capsuletoy.json](./232586-capsuletoy.json) |
 | Capsulitas | 390201 | [390201-capsulitas.json](./390201-capsulitas.json) |
@@ -4972,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Fury | 181756 | [181756-chain-fury.json](./181756-chain-fury.json) |
 | Chain Gun | 202033 | [202033-chain-gun.json](./202033-chain-gun.json) |
 | Chain Letter | 232119 | [232119-chain-letter.json](./232119-chain-letter.json) |
+| Chain Mail: Trip to the Panic World! | 97641 | [97641-chain-mail-trip-to-the-panic-world.json](./97641-chain-mail-trip-to-the-panic-world.json) |
 | Chain Ninja | 243577 | [243577-chain-ninja.json](./243577-chain-ninja.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
@@ -14305,6 +14307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CPU Invaders: Movie Attack | 396210 | [396210-cpu-invaders-movie-attack.json](./396210-cpu-invaders-movie-attack.json) |
 | CR Godzilla 3S-T Battle | 75894 | [75894-cr-godzilla-3s-t-battle.json](./75894-cr-godzilla-3s-t-battle.json) |
 | CR Hissatsu Shigotonin Pachitte Chonmage @ VPACHI | 283332 | [283332-cr-hissatsu-shigotonin-pachitte-chonmage-vpachi.json](./283332-cr-hissatsu-shigotonin-pachitte-chonmage-vpachi.json) |
+| CR Nettou Pawapuro-kun: Pachitte Chonmage Tatsujin | 97614 | [97614-cr-nettou-pawapuro-kun-pachitte-chonmage-tatsujin.json](./97614-cr-nettou-pawapuro-kun-pachitte-chonmage-tatsujin.json) |
 | CR Persona 4 the Pachinko | 59377 | [59377-cr-persona-4-the-pachinko.json](./59377-cr-persona-4-the-pachinko.json) |
 | CR Ring: Noroi no 7-Kakan | 61492 | [61492-cr-ring-noroi-no-7-kakan.json](./61492-cr-ring-noroi-no-7-kakan.json) |
 | CR Ring: Unmei no Hi | 60807 | [60807-cr-ring-unmei-no-hi.json](./60807-cr-ring-unmei-no-hi.json) |
