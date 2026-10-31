@@ -11492,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Guardians of Hyrule | 324003 | [324003-the-legend-of-zelda-guardians-of-hyrule.json](./324003-the-legend-of-zelda-guardians-of-hyrule.json) |
 | The Legend of Zelda: Hall of the Dead | 323367 | [323367-the-legend-of-zelda-hall-of-the-dead.json](./323367-the-legend-of-zelda-hall-of-the-dead.json) |
 | The Legend of Zelda: Hard Awakening DX | 217837 | [217837-the-legend-of-zelda-hard-awakening-dx.json](./217837-the-legend-of-zelda-hard-awakening-dx.json) |
+| The Legend of Zelda: Hero of Dreams | 116648 | [116648-the-legend-of-zelda-hero-of-dreams.json](./116648-the-legend-of-zelda-hero-of-dreams.json) |
 | The Legend of Zelda: Horn of Balance | 321447 | [321447-the-legend-of-zelda-horn-of-balance.json](./321447-the-legend-of-zelda-horn-of-balance.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
@@ -15645,6 +15646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Superhero League | 228124 | [228124-the-superhero-league.json](./228124-the-superhero-league.json) |
 | The Superlatives: Aetherfall | 74668 | [74668-the-superlatives-aetherfall.json](./74668-the-superlatives-aetherfall.json) |
+| The Superlatives: Shattered Worlds | 116697 | [116697-the-superlatives-shattered-worlds.json](./116697-the-superlatives-shattered-worlds.json) |
 | The Supermarket Hunter | 199338 | [199338-the-supermarket-hunter.json](./199338-the-supermarket-hunter.json) |
 | The Supernatural Power Troll | 322844 | [322844-the-supernatural-power-troll.json](./322844-the-supernatural-power-troll.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
@@ -21265,6 +21267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Kings | 344548 | [344548-tiny-kings.json](./344548-tiny-kings.json) |
 | Tiny Kitchen: Burger Edition | 378593 | [378593-tiny-kitchen-burger-edition.json](./378593-tiny-kitchen-burger-edition.json) |
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
+| Tiny Klepto | 116673 | [116673-tiny-klepto.json](./116673-tiny-klepto.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
 | Tiny Knights | 180481 | [180481-tiny-knights.json](./180481-tiny-knights.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
