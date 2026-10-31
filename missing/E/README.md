@@ -5388,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Winter X-Games Snowboarding 2002 | 49206 | [49206-espn-winter-x-games-snowboarding-2002.json](./49206-espn-winter-x-games-snowboarding-2002.json) |
 | ESPN X Games Skateboarding | 248752 | [248752-espn-x-games-skateboarding.json](./248752-espn-x-games-skateboarding.json) |
 | ESPN X Games Skateboarding | 6398 | [6398-espn-x-games-skateboarding.json](./6398-espn-x-games-skateboarding.json) |
+| ESPN's 2-Minute Drill | 69010 | [69010-espns-2-minute-drill.json](./69010-espns-2-minute-drill.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
