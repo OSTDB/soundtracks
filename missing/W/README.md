@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
 | Warhound | 92758 | [92758-warhound.json](./92758-warhound.json) |
 | Warhounds | 385698 | [385698-warhounds.json](./385698-warhounds.json) |
+| Wari: The Ancient Game of Africa | 69727 | [69727-wari-the-ancient-game-of-africa.json](./69727-wari-the-ancient-game-of-africa.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
 | Wario Blast: Featuring Bomberman! | 1713 | [1713-wario-blast-featuring-bomberman.json](./1713-wario-blast-featuring-bomberman.json) |
 | Wario Date | 252824 | [252824-wario-date.json](./252824-wario-date.json) |
@@ -1654,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmle | 210589 | [210589-warmle.json](./210589-warmle.json) |
 | Warmode | 34735 | [34735-warmode.json](./34735-warmode.json) |
 | Warmonger | 87771 | [87771-warmonger.json](./87771-warmonger.json) |
+| Warmonger: Operation - Downtown Destruction | 69657 | [69657-warmonger-operation-downtown-destruction.json](./69657-warmonger-operation-downtown-destruction.json) |
 | Warmonger: Sins of the Naga | 199605 | [199605-warmonger-sins-of-the-naga.json](./199605-warmonger-sins-of-the-naga.json) |
 | Warmonger:45 | 338399 | [338399-warmonger-45.json](./338399-warmonger-45.json) |
 | Warmongers | 273392 | [273392-warmongers.json](./273392-warmongers.json) |
