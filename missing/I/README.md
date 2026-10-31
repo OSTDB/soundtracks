@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
 | I Spy Fun House | 47784 | [47784-i-spy-fun-house.json](./47784-i-spy-fun-house.json) |
 | I Spy Game Pack | 62509 | [62509-i-spy-game-pack.json](./62509-i-spy-game-pack.json) |
+| I Spy Junior | 70759 | [70759-i-spy-junior.json](./70759-i-spy-junior.json) |
 | I Spy Junior: Puppet Playhouse | 65181 | [65181-i-spy-junior-puppet-playhouse.json](./65181-i-spy-junior-puppet-playhouse.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy School Days | 247469 | [247469-i-spy-school-days.json](./247469-i-spy-school-days.json) |
@@ -4080,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
 | Insector War | 217711 | [217711-insector-war.json](./217711-insector-war.json) |
 | Insector X | 39455 | [39455-insector-x.json](./39455-insector-x.json) |
+| Insector X | 70757 | [70757-insector-x.json](./70757-insector-x.json) |
 | Insects | 112800 | [112800-insects.json](./112800-insects.json) |
 | Insects Runner | 75670 | [75670-insects-runner.json](./75670-insects-runner.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
@@ -4635,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Space: Genesis - Evolving Empires | 200502 | [200502-interstellar-space-genesis-evolving-empires.json](./200502-interstellar-space-genesis-evolving-empires.json) |
 | Interstellar Space: Genesis - Terrains Pack | 289473 | [289473-interstellar-space-genesis-terrains-pack.json](./289473-interstellar-space-genesis-terrains-pack.json) |
 | Interstellar Strike Team | 395743 | [395743-interstellar-strike-team.json](./395743-interstellar-strike-team.json) |
+| Interstellar Trader 2 | 70727 | [70727-interstellar-trader-2.json](./70727-interstellar-trader-2.json) |
 | Interstellar Travel Package | 223552 | [223552-interstellar-travel-package.json](./223552-interstellar-travel-package.json) |
 | Interstellaria | 9044 | [9044-interstellaria.json](./9044-interstellaria.json) |
 | Interstice | 278263 | [278263-interstice.json](./278263-interstice.json) |
