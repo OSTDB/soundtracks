@@ -9854,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Human Story | 219392 | [219392-the-human-story.json](./219392-the-human-story.json) |
 | The Human Test / Restart | 339196 | [339196-the-human-test-restart.json](./339196-the-human-test-restart.json) |
 | The Humanity Check | 415318 | [415318-the-humanity-check.json](./415318-the-humanity-check.json) |
+| The Humanity Hypothesis | 109996 | [109996-the-humanity-hypothesis.json](./109996-the-humanity-hypothesis.json) |
 | The Humans | 37273 | [37273-the-humans.json](./37273-the-humans.json) |
 | The Humans | 48657 | [48657-the-humans.json](./48657-the-humans.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
@@ -10330,6 +10331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
 | The Judgment Collection | 342629 | [342629-the-judgment-collection.json](./342629-the-judgment-collection.json) |
 | The Juice of God's Future | 176387 | [176387-the-juice-of-gods-future.json](./176387-the-juice-of-gods-future.json) |
+| The Jump 2016 | 109997 | [109997-the-jump-2016.json](./109997-the-jump-2016.json) |
 | The jump guys | 285883 | [285883-the-jump-guys.json](./285883-the-jump-guys.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
@@ -17210,6 +17212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch House | 176813 | [176813-the-witch-house.json](./176813-the-witch-house.json) |
 | The Witch in the Forest | 156016 | [156016-the-witch-in-the-forest.json](./156016-the-witch-in-the-forest.json) |
 | The Witch In The Woods | 253355 | [253355-the-witch-in-the-woods.json](./253355-the-witch-in-the-woods.json) |
+| The Witch of Erast | 109998 | [109998-the-witch-of-erast.json](./109998-the-witch-of-erast.json) |
 | The Witch of Fern Island | 217164 | [217164-the-witch-of-fern-island.json](./217164-the-witch-of-fern-island.json) |
 | The Witch of Fern Island: Spooky Witch Pack | 322728 | [322728-the-witch-of-fern-island-spooky-witch-pack.json](./322728-the-witch-of-fern-island-spooky-witch-pack.json) |
 | The Witch of Fern Island: Wonderful Witch Pack | 289949 | [289949-the-witch-of-fern-island-wonderful-witch-pack.json](./289949-the-witch-of-fern-island-wonderful-witch-pack.json) |
@@ -18367,6 +18370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Lantern Lane | 333508 | [333508-thousand-lantern-lane.json](./333508-thousand-lantern-lane.json) |
 | Thousand Lives | 152705 | [152705-thousand-lives.json](./152705-thousand-lives.json) |
 | Thousand N' Thousand: Mimico | 376665 | [376665-thousand-n-thousand-mimico.json](./376665-thousand-n-thousand-mimico.json) |
+| Thousand Threads | 109999 | [109999-thousand-threads.json](./109999-thousand-threads.json) |
 | Thousand Week Reich | 256452 | [256452-thousand-week-reich.json](./256452-thousand-week-reich.json) |
 | Thousands | 103354 | [103354-thousands.json](./103354-thousands.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
@@ -21446,6 +21450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Traffic | 145322 | [145322-tiny-traffic.json](./145322-tiny-traffic.json) |
 | Tiny Train Tycoon | 381355 | [381355-tiny-train-tycoon.json](./381355-tiny-train-tycoon.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
+| Tiny Traps | 109994 | [109994-tiny-traps.json](./109994-tiny-traps.json) |
 | Tiny Treasure Hunt | 283219 | [283219-tiny-treasure-hunt.json](./283219-tiny-treasure-hunt.json) |
 | Tiny Treasure Hunt DX | 308631 | [308631-tiny-treasure-hunt-dx.json](./308631-tiny-treasure-hunt-dx.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
