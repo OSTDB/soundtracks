@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Gal | 25141 | [25141-pac-gal.json](./25141-pac-gal.json) |
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
 | Pac-Guy: Atomic Edition | 63078 | [63078-pac-guy-atomic-edition.json](./63078-pac-guy-atomic-edition.json) |
+| Pac-Guy: Christmas Edition | 62963 | [62963-pac-guy-christmas-edition.json](./62963-pac-guy-christmas-edition.json) |
 | Pac-Guy: Resurrection | 63107 | [63107-pac-guy-resurrection.json](./63107-pac-guy-resurrection.json) |
 | Pac-in-Time | 282488 | [282488-pac-in-time.json](./282488-pac-in-time.json) |
 | Pac-In-Time | 242404 | [242404-pac-in-time.json](./242404-pac-in-time.json) |
@@ -3796,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade Adventures: On the Rain-Slick | 144932 | [144932-penny-arcade-adventures-on-the-rain-slick.json](./144932-penny-arcade-adventures-on-the-rain-slick.json) |
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
 | Penny Arcade: Spider-Man 3: Bell Tower Brawl | 230181 | [230181-penny-arcade-spider-man-3-bell-tower-brawl.json](./230181-penny-arcade-spider-man-3-bell-tower-brawl.json) |
+| Penny Arcade: The Game - Gamers vs. Evil | 63033 | [63033-penny-arcade-the-game-gamers-vs-evil.json](./63033-penny-arcade-the-game-gamers-vs-evil.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 3 | 14980 | [14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json](./14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json) |
 | Penny Black | 100651 | [100651-penny-black.json](./100651-penny-black.json) |
 | Penny Blood | 214912 | [214912-penny-blood.json](./214912-penny-blood.json) |
