@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
 | Earth 2140 | 200884 | [200884-earth-2140.json](./200884-earth-2140.json) |
 | Earth 2140 Trilogy | 51765 | [51765-earth-2140-trilogy.json](./51765-earth-2140-trilogy.json) |
+| Earth 2140: Mission Pack | 79658 | [79658-earth-2140-mission-pack.json](./79658-earth-2140-mission-pack.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
 | Earth 2140: Mission Pack 2 - Final Conflict | 73593 | [73593-earth-2140-mission-pack-2-final-conflict.json](./73593-earth-2140-mission-pack-2-final-conflict.json) |
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
@@ -4042,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Astro Story | 65482 | [65482-epic-astro-story.json](./65482-epic-astro-story.json) |
 | Epic Auto Towers | 261702 | [261702-epic-auto-towers.json](./261702-epic-auto-towers.json) |
 | Epic Balls Smashing | 403101 | [403101-epic-balls-smashing.json](./403101-epic-balls-smashing.json) |
+| Epic Baseball | 79506 | [79506-epic-baseball.json](./79506-epic-baseball.json) |
 | Epic Battle Dude | 62724 | [62724-epic-battle-dude.json](./62724-epic-battle-dude.json) |
 | Epic Battle Fantasy 4 | 16867 | [16867-epic-battle-fantasy-4.json](./16867-epic-battle-fantasy-4.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
@@ -5669,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethanol in dungeon | 118253 | [118253-ethanol-in-dungeon.json](./118253-ethanol-in-dungeon.json) |
 | Etheldia Pepper | 150424 | [150424-etheldia-pepper.json](./150424-etheldia-pepper.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
+| Ether | 79659 | [79659-ether.json](./79659-ether.json) |
 | Ether Awakening | 44229 | [44229-ether-awakening.json](./44229-ether-awakening.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
 | Ether One Redux | 124917 | [124917-ether-one-redux.json](./124917-ether-one-redux.json) |
