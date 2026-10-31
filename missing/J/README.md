@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jangou World Cup | 123075 | [123075-jangou-world-cup.json](./123075-jangou-world-cup.json) |
 | Janitor Bleeds | 144938 | [144938-janitor-bleeds.json](./144938-janitor-bleeds.json) |
 | Janitor Express | 104544 | [104544-janitor-express.json](./104544-janitor-express.json) |
+| Janitor Joe | 92797 | [92797-janitor-joe.json](./92797-janitor-joe.json) |
 | Janitor Simulator | 178577 | [178577-janitor-simulator.json](./178577-janitor-simulator.json) |
 | Janitori | 353632 | [353632-janitori.json](./353632-janitori.json) |
 | Janitorial Escapism | 402428 | [402428-janitorial-escapism.json](./402428-janitorial-escapism.json) |
