@@ -7493,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Truck Stunts | 219403 | [219403-extreme-truck-stunts.json](./219403-extreme-truck-stunts.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
+| Extreme Vector Parkour Simulator 3D | 109228 | [109228-extreme-vector-parkour-simulator-3d.json](./109228-extreme-vector-parkour-simulator-3d.json) |
 | Extreme Velocity 3 | 58155 | [58155-extreme-velocity-3.json](./58155-extreme-velocity-3.json) |
 | Extreme Warfare Revenge | 76605 | [76605-extreme-warfare-revenge.json](./76605-extreme-warfare-revenge.json) |
 | Extreme Watersports | 73179 | [73179-extreme-watersports.json](./73179-extreme-watersports.json) |
