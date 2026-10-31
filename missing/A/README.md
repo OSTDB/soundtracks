@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Dwarves | 2018 | [2018-a-game-of-dwarves.json](./2018-a-game-of-dwarves.json) |
 | A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
+| A Game of Hockey | 92320 | [92320-a-game-of-hockey.json](./92320-a-game-of-hockey.json) |
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
 | A Game of Thrones | 356004 | [356004-a-game-of-thrones.json](./356004-a-game-of-thrones.json) |
 | A Game of Thrones: Genesis | 15058 | [15058-a-game-of-thrones-genesis.json](./15058-a-game-of-thrones-genesis.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Force Online | 64311 | [64311-absolute-force-online.json](./64311-absolute-force-online.json) |
 | Absolute Insanity | 288742 | [288742-absolute-insanity.json](./288742-absolute-insanity.json) |
 | Absolute Instant | 253731 | [253731-absolute-instant.json](./253731-absolute-instant.json) |
+| Absolute Kreuzworträtsel | 92256 | [92256-absolute-kreuzwortratsel.json](./92256-absolute-kreuzwortratsel.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
@@ -14675,6 +14677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Excellent Burning Fest. | 81336 | [81336-asuka-120-excellent-burning-fest.json](./81336-asuka-120-excellent-burning-fest.json) |
 | Asuka 120% Final Burning Fest. | 77780 | [77780-asuka-120-final-burning-fest.json](./77780-asuka-120-final-burning-fest.json) |
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
+| Asuka 120% Maxima Burning Fest. | 92225 | [92225-asuka-120-maxima-burning-fest.json](./92225-asuka-120-maxima-burning-fest.json) |
 | Asuka Idol Journey | 399410 | [399410-asuka-idol-journey.json](./399410-asuka-idol-journey.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
 | Asuka-san ha Nabikanai | 251635 | [251635-asuka-san-ha-nabikanai.json](./251635-asuka-san-ha-nabikanai.json) |
