@@ -7068,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates, Vikings and Knights II | 14978 | [14978-pirates-vikings-and-knights-ii.json](./14978-pirates-vikings-and-knights-ii.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
 | Pirates: Caribbean Chronicles | 285353 | [285353-pirates-caribbean-chronicles.json](./285353-pirates-caribbean-chronicles.json) |
+| Pirates: Constructible Strategy Game | 67748 | [67748-pirates-constructible-strategy-game.json](./67748-pirates-constructible-strategy-game.json) |
 | Pirates: Duels on the High Seas | 21274 | [21274-pirates-duels-on-the-high-seas.json](./21274-pirates-duels-on-the-high-seas.json) |
 | Pirates: Golden tits - Chapter 1 | 212956 | [212956-pirates-golden-tits-chapter-1.json](./212956-pirates-golden-tits-chapter-1.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
@@ -12377,6 +12378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Punch II | 48222 | [48222-power-punch-ii.json](./48222-power-punch-ii.json) |
 | Power Pushout | 189336 | [189336-power-pushout.json](./189336-power-pushout.json) |
 | Power Pyramids | 68459 | [68459-power-pyramids.json](./68459-power-pyramids.json) |
+| Power Quest | 67765 | [67765-power-quest.json](./67765-power-quest.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle | 147786 | [147786-power-racing-bundle.json](./147786-power-racing-bundle.json) |
 | Power Racing Bundle 2 | 147787 | [147787-power-racing-bundle-2.json](./147787-power-racing-bundle-2.json) |
@@ -15657,6 +15659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchitto Rock Shooter: Pursue the Mystery of the Sexy Planet | 324802 | [324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json](./324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json) |
 | Puck | 327768 | [327768-puck.json](./327768-puck.json) |
 | Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
+| Puck Off | 67768 | [67768-puck-off.json](./67768-puck-off.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
 | Puck’s Peak | 366446 | [366446-puck-s-peak.json](./366446-puck-s-peak.json) |
 | Puckdoku | 321606 | [321606-puckdoku.json](./321606-puckdoku.json) |
@@ -16691,6 +16694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Dazzle 3D | 160059 | [160059-puzzle-dazzle-3d.json](./160059-puzzle-dazzle-3d.json) |
 | Puzzle De Bowling | 70863 | [70863-puzzle-de-bowling.json](./70863-puzzle-de-bowling.json) |
 | Puzzle de Harvest Moon | 20897 | [20897-puzzle-de-harvest-moon.json](./20897-puzzle-de-harvest-moon.json) |
+| Puzzle de Harvest Moon 2 | 67743 | [67743-puzzle-de-harvest-moon-2.json](./67743-puzzle-de-harvest-moon-2.json) |
 | Puzzle de Maid | 77759 | [77759-puzzle-de-maid.json](./77759-puzzle-de-maid.json) |
 | Puzzle de Pon! R | 47579 | [47579-puzzle-de-pon-r.json](./47579-puzzle-de-pon-r.json) |
 | Puzzle de Shoubu yo! Wootama-chan | 282515 | [282515-puzzle-de-shoubu-yo-wootama-chan.json](./282515-puzzle-de-shoubu-yo-wootama-chan.json) |
