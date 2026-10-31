@@ -4493,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
 | Sega Ages: Sonic the Hedgehog 2 | 110061 | [110061-sega-ages-sonic-the-hedgehog-2.json](./110061-sega-ages-sonic-the-hedgehog-2.json) |
+| Sega Ages: Space Harrier | 109270 | [109270-sega-ages-space-harrier.json](./109270-sega-ages-space-harrier.json) |
 | Sega Archives from U.S.A. vol. 1 | 56842 | [56842-sega-archives-from-u-s-a-vol-1.json](./56842-sega-archives-from-u-s-a-vol-1.json) |
 | Sega Astro City Mini | 245662 | [245662-sega-astro-city-mini.json](./245662-sega-astro-city-mini.json) |
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
@@ -17649,7 +17650,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18357,6 +18357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacelandia | 169599 | [169599-spacelandia.json](./169599-spacelandia.json) |
 | Spacelines from the Far Out | 139192 | [139192-spacelines-from-the-far-out.json](./139192-spacelines-from-the-far-out.json) |
 | Spacelord | 183936 | [183936-spacelord.json](./183936-spacelord.json) |
+| Spacelords | 109257 | [109257-spacelords.json](./109257-spacelords.json) |
 | Spacelords: Aneska Deluxe Character Pack | 169318 | [169318-spacelords-aneska-deluxe-character-pack.json](./169318-spacelords-aneska-deluxe-character-pack.json) |
 | Spacelords: Raiders of the Broken Planet - Alien Myths Campaign | 170162 | [170162-spacelords-raiders-of-the-broken-planet-alien-myths-campaign.json](./170162-spacelords-raiders-of-the-broken-planet-alien-myths-campaign.json) |
 | Spacelords: Raiders of the Broken Planet - Hades Betrayal Campaign | 168005 | [168005-spacelords-raiders-of-the-broken-planet-hades-betrayal-campaign.json](./168005-spacelords-raiders-of-the-broken-planet-hades-betrayal-campaign.json) |
@@ -20325,6 +20326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Crew: Mask of the Mysterium | 258372 | [258372-spooky-crew-mask-of-the-mysterium.json](./258372-spooky-crew-mask-of-the-mysterium.json) |
 | Spooky Dating Sim | 374222 | [374222-spooky-dating-sim.json](./374222-spooky-dating-sim.json) |
 | Spooky Dice | 184443 | [184443-spooky-dice.json](./184443-spooky-dice.json) |
+| Spooky Driver | 109254 | [109254-spooky-driver.json](./109254-spooky-driver.json) |
 | Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
 | Spooky Dwellers 4 | 418536 | [418536-spooky-dwellers-4.json](./418536-spooky-dwellers-4.json) |
 | Spooky Dwellers 4: Collector's Edition | 378357 | [378357-spooky-dwellers-4-collectors-edition.json](./378357-spooky-dwellers-4-collectors-edition.json) |
@@ -21498,6 +21500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Charms | 255489 | [255489-star-charms.json](./255489-star-charms.json) |
 | Star Chaser | 243326 | [243326-star-chaser.json](./243326-star-chaser.json) |
 | Star Chaser in Sea World | 154073 | [154073-star-chaser-in-sea-world.json](./154073-star-chaser-in-sea-world.json) |
+| Star Chasers | 109260 | [109260-star-chasers.json](./109260-star-chasers.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chef Simulator | 300639 | [300639-star-chef-simulator.json](./300639-star-chef-simulator.json) |
 | Star Chef: Cooking Game | 105517 | [105517-star-chef-cooking-game.json](./105517-star-chef-cooking-game.json) |
@@ -31548,6 +31551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Feets | 254383 | [254383-sweet-feets.json](./254383-sweet-feets.json) |
 | Sweet Forest | 304549 | [304549-sweet-forest.json](./304549-sweet-forest.json) |
+| Sweet Fruit Cube Legend | 109222 | [109222-sweet-fruit-cube-legend.json](./109222-sweet-fruit-cube-legend.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
 | Sweet Fuse: At Your Side | 20103 | [20103-sweet-fuse-at-your-side.json](./20103-sweet-fuse-at-your-side.json) |
@@ -32363,6 +32367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synapses | 302131 | [302131-synapses.json](./302131-synapses.json) |
 | Synapsis | 299759 | [299759-synapsis.json](./299759-synapsis.json) |
 | Synapsis 2 | 299760 | [299760-synapsis-2.json](./299760-synapsis-2.json) |
+| Synaptic Drive | 109293 | [109293-synaptic-drive.json](./109293-synaptic-drive.json) |
 | Synaxarion Christian Stories: Great Martyr Christina of Tyre | 324476 | [324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json](./324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json) |
 | Synaxarion Christian Stories: Holy Martyr Neophytos | 313228 | [313228-synaxarion-christian-stories-holy-martyr-neophytos.json](./313228-synaxarion-christian-stories-holy-martyr-neophytos.json) |
 | Synaxarion Christian Stories: Holy Martyr Savvas the Goth | 310445 | [310445-synaxarion-christian-stories-holy-martyr-savvas-the-goth.json](./310445-synaxarion-christian-stories-holy-martyr-savvas-the-goth.json) |
