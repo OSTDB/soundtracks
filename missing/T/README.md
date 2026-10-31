@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Targhan | 10849 | [10849-targhan.json](./10849-targhan.json) |
 | Taria & Como | 340849 | [340849-taria-and-como.json](./340849-taria-and-como.json) |
 | Tarim | 55314 | [55314-tarim.json](./55314-tarim.json) |
+| Tarinaimono | 108142 | [108142-tarinaimono.json](./108142-tarinaimono.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
 | Tarkus and the Crystal of Fear | 122954 | [122954-tarkus-and-the-crystal-of-fear.json](./122954-tarkus-and-the-crystal-of-fear.json) |
@@ -7706,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream | 272120 | [272120-the-dream.json](./272120-the-dream.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
 | The Dream Circus | 387118 | [387118-the-dream-circus.json](./387118-the-dream-circus.json) |
+| The Dream Compass | 108123 | [108123-the-dream-compass.json](./108123-the-dream-compass.json) |
 | The Dream Diary | 229259 | [229259-the-dream-diary.json](./229259-the-dream-diary.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
 | The Dream Labyrinth | 249047 | [249047-the-dream-labyrinth.json](./249047-the-dream-labyrinth.json) |
@@ -27547,6 +27549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trolls | 217700 | [217700-treasure-trolls.json](./217700-treasure-trolls.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
+| Treasure-hunting on Sekai Camera | 108135 | [108135-treasure-hunting-on-sekai-camera.json](./108135-treasure-hunting-on-sekai-camera.json) |
 | TreasureHunter by R.Garfield | 175579 | [175579-treasurehunter-by-r-garfield.json](./175579-treasurehunter-by-r-garfield.json) |
 | Treasurenauts | 27447 | [27447-treasurenauts.json](./27447-treasurenauts.json) |
 | Treasurer | 415751 | [415751-treasurer.json](./415751-treasurer.json) |
@@ -28897,6 +28900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth of Beauty Witch: Marine's Treasure Ship | 260291 | [260291-truth-of-beauty-witch-marines-treasure-ship.json](./260291-truth-of-beauty-witch-marines-treasure-ship.json) |
 | Truth of Blood | 303307 | [303307-truth-of-blood.json](./303307-truth-of-blood.json) |
 | Truth of Falchion | 95203 | [95203-truth-of-falchion.json](./95203-truth-of-falchion.json) |
+| Truth of Mind: Kokoro no Yami ni Hisomu Akuma to Tenshi | 108114 | [108114-truth-of-mind-kokoro-no-yami-ni-hisomu-akuma-to-tenshi.json](./108114-truth-of-mind-kokoro-no-yami-ni-hisomu-akuma-to-tenshi.json) |
 | Truth or Dare | 91133 | [91133-truth-or-dare.json](./91133-truth-or-dare.json) |
 | Truth or Dare Party | 86909 | [86909-truth-or-dare-party.json](./86909-truth-or-dare-party.json) |
 | Truth or Dare? | 74918 | [74918-truth-or-dare.json](./74918-truth-or-dare.json) |
