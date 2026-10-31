@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
 | John Hero | 188291 | [188291-john-hero.json](./188291-john-hero.json) |
 | John Killmen | 178841 | [178841-john-killmen.json](./178841-john-killmen.json) |
+| John Lazarus: Episode 1 - Dead Man's Origin | 80962 | [80962-john-lazarus-episode-1-dead-mans-origin.json](./80962-john-lazarus-episode-1-dead-mans-origin.json) |
 | John Lowe's Ultimate Darts | 72162 | [72162-john-lowes-ultimate-darts.json](./72162-john-lowes-ultimate-darts.json) |
 | John Mad Run | 58603 | [58603-john-mad-run.json](./58603-john-mad-run.json) |
 | John Madden American Football | 45589 | [45589-john-madden-american-football.json](./45589-john-madden-american-football.json) |
