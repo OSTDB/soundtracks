@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
 | Radar Scope | 39391 | [39391-radar-scope.json](./39391-radar-scope.json) |
 | Radar Simulation | 25487 | [25487-radar-simulation.json](./25487-radar-simulation.json) |
+| Radar Warfare | 74131 | [74131-radar-warfare.json](./74131-radar-warfare.json) |
 | Radar Zone | 281861 | [281861-radar-zone.json](./281861-radar-zone.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
@@ -9296,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue-Like: Evolution | 282677 | [282677-rogue-like-evolution.json](./282677-rogue-like-evolution.json) |
 | Rogue, Rogue, Baby! | 238694 | [238694-rogue-rogue-baby.json](./238694-rogue-rogue-baby.json) |
 | Rogue: Genesia | 211066 | [211066-rogue-genesia.json](./211066-rogue-genesia.json) |
+| Rogue: The Adventure Game | 73979 | [73979-rogue-the-adventure-game.json](./73979-rogue-the-adventure-game.json) |
 | Rogue's Awakening | 185037 | [185037-rogues-awakening.json](./185037-rogues-awakening.json) |
 | Rogue's Light - The Greedy Cave | 95929 | [95929-rogues-light-the-greedy-cave.json](./95929-rogues-light-the-greedy-cave.json) |
 | Rogue's Odyssey | 382399 | [382399-rogues-odyssey.json](./382399-rogues-odyssey.json) |
