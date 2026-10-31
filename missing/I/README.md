@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am 1 | 193415 | [193415-i-am-1.json](./193415-i-am-1.json) |
 | I Am 414C | 174216 | [174216-i-am-414c.json](./174216-i-am-414c.json) |
 | I am a box! | 165456 | [165456-i-am-a-box.json](./165456-i-am-a-box.json) |
+| I Am a Brave Knight | 121233 | [121233-i-am-a-brave-knight.json](./121233-i-am-a-brave-knight.json) |
 | I am a Caterpillar | 252772 | [252772-i-am-a-caterpillar.json](./252772-i-am-a-caterpillar.json) |
 | I Am a Dorm Resident (but Cat) | 353841 | [353841-i-am-a-dorm-resident-but-cat.json](./353841-i-am-a-dorm-resident-but-cat.json) |
 | I am a Fish Online | 276239 | [276239-i-am-a-fish-online.json](./276239-i-am-a-fish-online.json) |
