@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casus Belli | 23547 | [23547-casus-belli.json](./23547-casus-belli.json) |
 | Casus Belli: Battle of Annihilation | 46481 | [46481-casus-belli-battle-of-annihilation.json](./46481-casus-belli-battle-of-annihilation.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
+| Cat 'S' Trophy | 91045 | [91045-cat-s-trophy.json](./91045-cat-s-trophy.json) |
 | Cat & Butterfly | 303725 | [303725-cat-and-butterfly.json](./303725-cat-and-butterfly.json) |
 | Cat & Farm Pals | 341294 | [341294-cat-and-farm-pals.json](./341294-cat-and-farm-pals.json) |
 | Cat & Friends Memory | 379975 | [379975-cat-and-friends-memory.json](./379975-cat-and-friends-memory.json) |
@@ -7072,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Kicker | 232489 | [232489-chop-chop-kicker.json](./232489-chop-chop-kicker.json) |
 | Chop Chop Ninja | 256383 | [256383-chop-chop-ninja.json](./256383-chop-chop-ninja.json) |
 | Chop Chop Princess! | 75028 | [75028-chop-chop-princess.json](./75028-chop-chop-princess.json) |
+| Chop Chop Runner | 91060 | [91060-chop-chop-runner.json](./91060-chop-chop-runner.json) |
 | Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop Goblins | 225792 | [225792-chop-goblins.json](./225792-chop-goblins.json) |
@@ -11303,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Columns 2048: Match 3 Numbers | 114038 | [114038-columns-2048-match-3-numbers.json](./114038-columns-2048-match-3-numbers.json) |
 | Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
+| Columns Free | 91037 | [91037-columns-free.json](./91037-columns-free.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
 | Columns II: The Voyage Through Time | 14985 | [14985-columns-ii-the-voyage-through-time.json](./14985-columns-ii-the-voyage-through-time.json) |
 | Columns III | 14971 | [14971-columns-iii.json](./14971-columns-iii.json) |
