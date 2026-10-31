@@ -5833,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
 | Revenge of the Balloon-Headed Mexican | 66514 | [66514-revenge-of-the-balloon-headed-mexican.json](./66514-revenge-of-the-balloon-headed-mexican.json) |
 | Revenge of the Beefsteak Tomatoes | 22760 | [22760-revenge-of-the-beefsteak-tomatoes.json](./22760-revenge-of-the-beefsteak-tomatoes.json) |
+| Revenge of the Bird King | 114048 | [114048-revenge-of-the-bird-king.json](./114048-revenge-of-the-bird-king.json) |
 | Revenge of the Boxer: Moscow Criminality | 176695 | [176695-revenge-of-the-boxer-moscow-criminality.json](./176695-revenge-of-the-boxer-moscow-criminality.json) |
 | Revenge of the C5 | 294402 | [294402-revenge-of-the-c5.json](./294402-revenge-of-the-c5.json) |
 | Revenge Of The Colon | 279005 | [279005-revenge-of-the-colon.json](./279005-revenge-of-the-colon.json) |
@@ -5983,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverso | 63745 | [63745-reverso.json](./63745-reverso.json) |
 | Revert | 320242 | [320242-revert.json](./320242-revert.json) |
 | Reverthion | 266333 | [266333-reverthion.json](./266333-reverthion.json) |
+| Revertia | 114049 | [114049-revertia.json](./114049-revertia.json) |
 | Revertices | 415420 | [415420-revertices.json](./415420-revertices.json) |
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
@@ -10180,6 +10182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotatex 2 | 149718 | [149718-rotatex-2.json](./149718-rotatex-2.json) |
 | Rotatex 3 | 236898 | [236898-rotatex-3.json](./236898-rotatex-3.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
+| Rotating Brave | 114002 | [114002-rotating-brave.json](./114002-rotating-brave.json) |
 | Rotating Puzzle | 358736 | [358736-rotating-puzzle.json](./358736-rotating-puzzle.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
 | Rotation | 117472 | [117472-rotation.json](./117472-rotation.json) |
