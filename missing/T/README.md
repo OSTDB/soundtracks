@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Weapons | 175723 | [175723-tales-of-weapons.json](./175723-tales-of-weapons.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
 | Tales of Wild | 152376 | [152376-tales-of-wild.json](./152376-tales-of-wild.json) |
+| Tales of Wind | 115308 | [115308-tales-of-wind.json](./115308-tales-of-wind.json) |
 | Tales of Wind Online | 379438 | [379438-tales-of-wind-online.json](./379438-tales-of-wind-online.json) |
 | Tales of Wind: Radiant Rebirth | 334888 | [334888-tales-of-wind-radiant-rebirth.json](./334888-tales-of-wind-radiant-rebirth.json) |
 | Tales of Winds: Tomb of the Sol Empire | 74484 | [74484-tales-of-winds-tomb-of-the-sol-empire.json](./74484-tales-of-winds-tomb-of-the-sol-empire.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea, Please! | 347905 | [347905-tea-please.json](./347905-tea-please.json) |
 | Teabat! | 153220 | [153220-teabat.json](./153220-teabat.json) |
 | Teach Kids Games | 339413 | [339413-teach-kids-games.json](./339413-teach-kids-games.json) |
+| Teach Me Japanese Chess Pretty Please | 115317 | [115317-teach-me-japanese-chess-pretty-please.json](./115317-teach-me-japanese-chess-pretty-please.json) |
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
 | Teacher Certification Hell | 248222 | [248222-teacher-certification-hell.json](./248222-teacher-certification-hell.json) |
 | Teacher Lady | 286441 | [286441-teacher-lady.json](./286441-teacher-lady.json) |
@@ -3983,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
 | Terminator 3: War of the Machines | 47069 | [47069-terminator-3-war-of-the-machines.json](./47069-terminator-3-war-of-the-machines.json) |
 | Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
+| Terminator Salvation: Fight for the Future | 115311 | [115311-terminator-salvation-fight-for-the-future.json](./115311-terminator-salvation-fight-for-the-future.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
@@ -27760,7 +27763,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Wilderness | 109381 | [109381-trials-of-wilderness.json](./109381-trials-of-wilderness.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Trials Rising | 103316 | [103316-trials-rising.json](./103316-trials-rising.json) |
+| Trials Rising: Crash & Sunburn | 115301 | [115301-trials-rising-crash-and-sunburn.json](./115301-trials-rising-crash-and-sunburn.json) |
 | Trials Rising: Digital Gold Edition | 118562 | [118562-trials-rising-digital-gold-edition.json](./118562-trials-rising-digital-gold-edition.json) |
+| Trials Rising: Sixty Six | 115302 | [115302-trials-rising-sixty-six.json](./115302-trials-rising-sixty-six.json) |
 | Trials Survivors | 373890 | [373890-trials-survivors.json](./373890-trials-survivors.json) |
 | Trials: Gold Pack | 219004 | [219004-trials-gold-pack.json](./219004-trials-gold-pack.json) |
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
