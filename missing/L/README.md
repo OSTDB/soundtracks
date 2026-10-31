@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Hell | 384183 | [384183-laser-hell.json](./384183-laser-hell.json) |
 | Laser Kitty Pow Pow | 123347 | [123347-laser-kitty-pow-pow.json](./123347-laser-kitty-pow-pow.json) |
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
+| Laser Labyrinth | 95729 | [95729-laser-labyrinth.json](./95729-laser-labyrinth.json) |
 | Laser Light | 14462 | [14462-laser-light.json](./14462-laser-light.json) |
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
 | Laser Limbo | 321227 | [321227-laser-limbo.json](./321227-laser-limbo.json) |
@@ -1138,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
 | Last Days of Tascaria | 99595 | [99595-last-days-of-tascaria.json](./99595-last-days-of-tascaria.json) |
+| Last Days: Survival | 95759 | [95759-last-days-survival.json](./95759-last-days-survival.json) |
 | Last Debt | 179341 | [179341-last-debt.json](./179341-last-debt.json) |
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
@@ -3703,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level 37: The Ritewood Anomaly | 386812 | [386812-level-37-the-ritewood-anomaly.json](./386812-level-37-the-ritewood-anomaly.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
 | Level Age ni Sugoku Choudo Ii Shima | 306233 | [306233-level-age-ni-sugoku-choudo-ii-shima.json](./306233-level-age-ni-sugoku-choudo-ii-shima.json) |
+| Level Craft: Exploration | 95749 | [95749-level-craft-exploration.json](./95749-level-craft-exploration.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
 | Level Devil | 279687 | [279687-level-devil.json](./279687-level-devil.json) |
 | Level Down | 133828 | [133828-level-down.json](./133828-level-down.json) |
