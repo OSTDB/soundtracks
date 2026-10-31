@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
 | Across | 172028 | [172028-across.json](./172028-across.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
+| Across Age | 67010 | [67010-across-age.json](./67010-across-age.json) |
 | Across Age DX | 38714 | [38714-across-age-dx.json](./38714-across-age-dx.json) |
 | Across Age HD | 102531 | [102531-across-age-hd.json](./102531-across-age-hd.json) |
 | Across Age II | 38713 | [38713-across-age-ii.json](./38713-across-age-ii.json) |
@@ -3105,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced PET: Battle Chip - WindMan DS | 354041 | [354041-advanced-pet-battle-chip-windman-ds.json](./354041-advanced-pet-battle-chip-windman-ds.json) |
 | Advanced Power Dolls 2 | 56170 | [56170-advanced-power-dolls-2.json](./56170-advanced-power-dolls-2.json) |
 | Advanced Rugby Simulator | 14153 | [14153-advanced-rugby-simulator.json](./14153-advanced-rugby-simulator.json) |
+| Advanced Set the Rope on Fire Cartridge | 67033 | [67033-advanced-set-the-rope-on-fire-cartridge.json](./67033-advanced-set-the-rope-on-fire-cartridge.json) |
 | Advanced Shells | 308381 | [308381-advanced-shells.json](./308381-advanced-shells.json) |
 | Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
 | Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
@@ -9146,6 +9148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
 | Animal Portal: Puzzle | 234283 | [234283-animal-portal-puzzle.json](./234283-animal-portal-puzzle.json) |
+| Animal Puzzle Adventure | 67139 | [67139-animal-puzzle-adventure.json](./67139-animal-puzzle-adventure.json) |
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
 | Animal Puzzle for Kids and Toddlers | 300765 | [300765-animal-puzzle-for-kids-and-toddlers.json](./300765-animal-puzzle-for-kids-and-toddlers.json) |
 | Animal Puzzle for Toddlers and Kids | 204277 | [204277-animal-puzzle-for-toddlers-and-kids.json](./204277-animal-puzzle-for-toddlers-and-kids.json) |
@@ -12569,6 +12572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkedo Series: 01 Jump! | 79768 | [79768-arkedo-series-01-jump.json](./79768-arkedo-series-01-jump.json) |
 | Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
 | Arkedo Series: 03 Pixel! | 77112 | [77112-arkedo-series-03-pixel.json](./77112-arkedo-series-03-pixel.json) |
+| Arkedo Series: 04 Slash! | 67032 | [67032-arkedo-series-04-slash.json](./67032-arkedo-series-04-slash.json) |
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
 | Arkem | 244684 | [244684-arkem.json](./244684-arkem.json) |
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
@@ -16093,6 +16097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Fear | 59732 | [59732-avatar-fear.json](./59732-avatar-fear.json) |
 | Avatar Generations | 235108 | [235108-avatar-generations.json](./235108-avatar-generations.json) |
+| Avatar Golf | 67044 | [67044-avatar-golf.json](./67044-avatar-golf.json) |
 | Avatar Hamster Attack | 92430 | [92430-avatar-hamster-attack.json](./92430-avatar-hamster-attack.json) |
 | Avatar Hangman | 92379 | [92379-avatar-hangman.json](./92379-avatar-hangman.json) |
 | Avatar Island | 389644 | [389644-avatar-island.json](./389644-avatar-island.json) |
