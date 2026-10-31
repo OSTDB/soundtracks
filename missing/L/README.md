@@ -2219,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Ashes | 384742 | [384742-legacy-of-ashes.json](./384742-legacy-of-ashes.json) |
 | Legacy of Datura | 168120 | [168120-legacy-of-datura.json](./168120-legacy-of-datura.json) |
 | Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
+| Legacy of Destiny | 108695 | [108695-legacy-of-destiny.json](./108695-legacy-of-destiny.json) |
 | Legacy of Discord: Furious Wings | 78668 | [78668-legacy-of-discord-furious-wings.json](./78668-legacy-of-discord-furious-wings.json) |
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
@@ -5394,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Island Adventure | 202134 | [202134-little-island-adventure.json](./202134-little-island-adventure.json) |
 | Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
 | Little Jack's Adventures | 30101 | [30101-little-jacks-adventures.json](./30101-little-jacks-adventures.json) |
+| Little Jigs ABC Puzzles | 108732 | [108732-little-jigs-abc-puzzles.json](./108732-little-jigs-abc-puzzles.json) |
 | Little Journeys | 213836 | [213836-little-journeys.json](./213836-little-journeys.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Keepers | 256418 | [256418-little-keepers.json](./256418-little-keepers.json) |
@@ -5530,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda: Dinosaur Care | 234441 | [234441-little-panda-dinosaur-care.json](./234441-little-panda-dinosaur-care.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
+| Little Panda's Dream Town | 108686 | [108686-little-pandas-dream-town.json](./108686-little-pandas-dream-town.json) |
 | Little Panda's Jewel Adventure | 233412 | [233412-little-pandas-jewel-adventure.json](./233412-little-pandas-jewel-adventure.json) |
 | Little Panda's Jewel Quest | 103662 | [103662-little-pandas-jewel-quest.json](./103662-little-pandas-jewel-quest.json) |
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
@@ -6991,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Diskonia | 318467 | [318467-lords-of-diskonia.json](./318467-lords-of-diskonia.json) |
 | Lords of Doom | 69811 | [69811-lords-of-doom.json](./69811-lords-of-doom.json) |
 | Lords of Doom: Part One - The Black God | 170290 | [170290-lords-of-doom-part-one-the-black-god.json](./170290-lords-of-doom-part-one-the-black-god.json) |
+| Lords of Empire: Kingdom War | 108698 | [108698-lords-of-empire-kingdom-war.json](./108698-lords-of-empire-kingdom-war.json) |
 | Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
 | Lords of Exile | 133970 | [133970-lords-of-exile.json](./133970-lords-of-exile.json) |
 | Lords of Football | 10519 | [10519-lords-of-football.json](./10519-lords-of-football.json) |
