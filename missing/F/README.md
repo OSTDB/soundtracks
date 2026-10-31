@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Effect | 8600 | [8600-fear-effect.json](./8600-fear-effect.json) |
 | Fear Effect 2: Retro Helix | 375601 | [375601-fear-effect-2-retro-helix.json](./375601-fear-effect-2-retro-helix.json) |
 | Fear Effect 2: Retro Helix | 8601 | [8601-fear-effect-2-retro-helix.json](./8601-fear-effect-2-retro-helix.json) |
+| Fear Effect: Inferno | 91675 | [91675-fear-effect-inferno.json](./91675-fear-effect-inferno.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
 | Fear FA 98 | 332915 | [332915-fear-fa-98.json](./332915-fear-fa-98.json) |
@@ -5498,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
 | Fireball | 18565 | [18565-fireball.json](./18565-fireball.json) |
 | Fireball | 374834 | [374834-fireball.json](./374834-fireball.json) |
+| Fireball | 91644 | [91644-fireball.json](./91644-fireball.json) |
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Fireball SE | 22313 | [22313-fireball-se.json](./22313-fireball-se.json) |
 | Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
