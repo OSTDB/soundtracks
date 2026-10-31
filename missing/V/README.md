@@ -3150,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcano Jumper | 351767 | [351767-volcano-jumper.json](./351767-volcano-jumper.json) |
 | Volcano Princess | 164994 | [164994-volcano-princess.json](./164994-volcano-princess.json) |
 | Volcano Snek | 185604 | [185604-volcano-snek.json](./185604-volcano-snek.json) |
+| Volcano Tower | 101242 | [101242-volcano-tower.json](./101242-volcano-tower.json) |
 | Volcano Valley | 317799 | [317799-volcano-valley.json](./317799-volcano-valley.json) |
 | Volcano! Mount Saint Helens | 209438 | [209438-volcano-mount-saint-helens.json](./209438-volcano-mount-saint-helens.json) |
 | Volcanoids | 109117 | [109117-volcanoids.json](./109117-volcanoids.json) |
