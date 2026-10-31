@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpool: Attack of the Disco Mob | 361002 | [361002-carpool-attack-of-the-disco-mob.json](./361002-carpool-attack-of-the-disco-mob.json) |
 | Carpoon | 172515 | [172515-carpoon.json](./172515-carpoon.json) |
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
+| Carps & Dragons | 63515 | [63515-carps-and-dragons.json](./63515-carps-and-dragons.json) |
 | CarRage | 248851 | [248851-carrage.json](./248851-carrage.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
 | Carrera Power Slide | 49308 | [49308-carrera-power-slide.json](./49308-carrera-power-slide.json) |
@@ -6055,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Jump | 320000 | [320000-cherry-jump.json](./320000-cherry-jump.json) |
 | Cherry Kisses | 198466 | [198466-cherry-kisses.json](./198466-cherry-kisses.json) |
 | Cherry Lady | 224847 | [224847-cherry-lady.json](./224847-cherry-lady.json) |
+| Cherry Poke Prison | 63610 | [63610-cherry-poke-prison.json](./63610-cherry-poke-prison.json) |
 | Cherry Rescue! | 181852 | [181852-cherry-rescue.json](./181852-cherry-rescue.json) |
 | Cherry School World | 296728 | [296728-cherry-school-world.json](./296728-cherry-school-world.json) |
 | Cherry Tower | 281040 | [281040-cherry-tower.json](./281040-cherry-tower.json) |
@@ -10014,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
 | Coaster Crash Course | 373065 | [373065-coaster-crash-course.json](./373065-coaster-crash-course.json) |
+| Coaster Crazy | 63522 | [63522-coaster-crazy.json](./63522-coaster-crazy.json) |
 | Coaster Mania | 306926 | [306926-coaster-mania.json](./306926-coaster-mania.json) |
 | Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
@@ -13344,6 +13347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corg of the Dead | 133383 | [133383-corg-of-the-dead.json](./133383-corg-of-the-dead.json) |
 | Corgi | 202671 | [202671-corgi.json](./202671-corgi.json) |
 | Corgi Cove | 223514 | [223514-corgi-cove.json](./223514-corgi-cove.json) |
+| Corgi Flop | 63525 | [63525-corgi-flop.json](./63525-corgi-flop.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
 | Corgi Memory | 62694 | [62694-corgi-memory.json](./62694-corgi-memory.json) |
 | Corgi Race | 292773 | [292773-corgi-race.json](./292773-corgi-race.json) |
