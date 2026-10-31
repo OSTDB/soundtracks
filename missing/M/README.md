@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Rescues Santa Claus | 229618 | [229618-mario-rescues-santa-claus.json](./229618-mario-rescues-santa-claus.json) |
 | Mario Rescues the Golden Mushroom | 268345 | [268345-mario-rescues-the-golden-mushroom.json](./268345-mario-rescues-the-golden-mushroom.json) |
 | Mario Roots | 323894 | [323894-mario-roots.json](./323894-mario-roots.json) |
+| Mario Royale | 119932 | [119932-mario-royale.json](./119932-mario-royale.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Royale Legacy | 322238 | [322238-mario-royale-legacy.json](./322238-mario-royale-legacy.json) |
 | Mario Saves Christmas | 268346 | [268346-mario-saves-christmas.json](./268346-mario-saves-christmas.json) |
@@ -5828,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
 | Me de Unou wo Kitaeru: DS Sokudoku Jutsu | 316121 | [316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json](./316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json) |
 | Me Go Store! | 324142 | [324142-me-go-store.json](./324142-me-go-store.json) |
+| me Igigu | 119937 | [119937-me-igigu.json](./119937-me-igigu.json) |
 | Me is King | 212521 | [212521-me-is-king.json](./212521-me-is-king.json) |
 | Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
 | Me Myself & Die | 184360 | [184360-me-myself-and-die.json](./184360-me-myself-and-die.json) |
@@ -14680,6 +14682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterstone: Prelude | 215122 | [215122-monsterstone-prelude.json](./215122-monsterstone-prelude.json) |
 | MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
+| MonsterUp Candy Run | 119943 | [119943-monsterup-candy-run.json](./119943-monsterup-candy-run.json) |
 | Monsterwolf | 156009 | [156009-monsterwolf.json](./156009-monsterwolf.json) |
 | MonsterxMan: Inheritance to Lust | 99457 | [99457-monsterxman-inheritance-to-lust.json](./99457-monsterxman-inheritance-to-lust.json) |
 | Monsti: Special Edition | 53378 | [53378-monsti-special-edition.json](./53378-monsti-special-edition.json) |
@@ -15104,6 +15107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooooon | 397617 | [397617-mooooon.json](./397617-mooooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
 | Moop and Dreadly in the Treasure on Bing Bong Island | 70035 | [70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json](./70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json) |
+| Moor | 119939 | [119939-moor.json](./119939-moor.json) |
 | Moor Rail | 349370 | [349370-moor-rail.json](./349370-moor-rail.json) |
 | Moorestech | 385545 | [385545-moorestech.json](./385545-moorestech.json) |
 | Moorfrog | 93346 | [93346-moorfrog.json](./93346-moorfrog.json) |
