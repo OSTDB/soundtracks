@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanatsu no Hikan: Senritsu no Bishou | 108772 | [108772-nanatsu-no-hikan-senritsu-no-bishou.json](./108772-nanatsu-no-hikan-senritsu-no-bishou.json) |
 | Nanatsuiro Drops | 70642 | [70642-nanatsuiro-drops.json](./70642-nanatsuiro-drops.json) |
 | Nancy Drew | 80378 | [80378-nancy-drew.json](./80378-nancy-drew.json) |
+| Nancy Drew 75th Anniversary Edition | 71377 | [71377-nancy-drew-75th-anniversary-edition.json](./71377-nancy-drew-75th-anniversary-edition.json) |
 | Nancy Drew Dossier: Resorting to Danger! | 10581 | [10581-nancy-drew-dossier-resorting-to-danger.json](./10581-nancy-drew-dossier-resorting-to-danger.json) |
 | Nancy Drew Triple Threat | 51403 | [51403-nancy-drew-triple-threat.json](./51403-nancy-drew-triple-threat.json) |
 | Nancy Drew Ultimate Dare | 50859 | [50859-nancy-drew-ultimate-dare.json](./50859-nancy-drew-ultimate-dare.json) |
