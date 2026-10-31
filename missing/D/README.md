@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
 | Dalmatians 2 | 44846 | [44846-dalmatians-2.json](./44846-dalmatians-2.json) |
 | Dalmatians 3 | 43473 | [43473-dalmatians-3.json](./43473-dalmatians-3.json) |
+| Dalmatians 4 | 79643 | [79643-dalmatians-4.json](./79643-dalmatians-4.json) |
 | Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
 | Daloman Depths | 159139 | [159139-daloman-depths.json](./159139-daloman-depths.json) |
 | Dalruan: World of Magic | 169254 | [169254-dalruan-world-of-magic.json](./169254-dalruan-world-of-magic.json) |
@@ -6103,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dendron 64 | 401493 | [401493-dendron-64.json](./401493-dendron-64.json) |
 | Deneb: Across the Stars | 211128 | [211128-deneb-across-the-stars.json](./211128-deneb-across-the-stars.json) |
 | Denev | 108465 | [108465-denev.json](./108465-denev.json) |
+| Dengeki Bunko ADV: Baccano! | 79641 | [79641-dengeki-bunko-adv-baccano.json](./79641-dengeki-bunko-adv-baccano.json) |
 | Dengeki Bunko: Crossing Void | 125611 | [125611-dengeki-bunko-crossing-void.json](./125611-dengeki-bunko-crossing-void.json) |
 | Dengeki Bunko: Fighting Climax | 11448 | [11448-dengeki-bunko-fighting-climax.json](./11448-dengeki-bunko-fighting-climax.json) |
 | Dengeki Bunko: Fighting Climax Ignition | 13550 | [13550-dengeki-bunko-fighting-climax-ignition.json](./13550-dengeki-bunko-fighting-climax-ignition.json) |
