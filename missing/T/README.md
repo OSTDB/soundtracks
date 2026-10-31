@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talk Tac Toe Lite | 253271 | [253271-talk-tac-toe-lite.json](./253271-talk-tac-toe-lite.json) |
 | Talk to Aya | 74913 | [74913-talk-to-aya.json](./74913-talk-to-aya.json) |
 | Talk To Me | 134586 | [134586-talk-to-me.json](./134586-talk-to-me.json) |
+| Talk to Saki | 81842 | [81842-talk-to-saki.json](./81842-talk-to-saki.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
 | Talker Tales | 258923 | [258923-talker-tales.json](./258923-talker-tales.json) |
@@ -7360,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkness | 1347 | [1347-the-darkness.json](./1347-the-darkness.json) |
 | The Darkness | 281559 | [281559-the-darkness.json](./281559-the-darkness.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
+| The Darkness | 81718 | [81718-the-darkness.json](./81718-the-darkness.json) |
 | The Darkness Assault | 53725 | [53725-the-darkness-assault.json](./53725-the-darkness-assault.json) |
 | The Darkness Delivers | 370077 | [370077-the-darkness-delivers.json](./370077-the-darkness-delivers.json) |
 | The Darkness of Gordoth | 398687 | [398687-the-darkness-of-gordoth.json](./398687-the-darkness-of-gordoth.json) |
@@ -7407,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Blue Adventure | 179379 | [179379-the-dead-blue-adventure.json](./179379-the-dead-blue-adventure.json) |
 | The Dead Case | 186139 | [186139-the-dead-case.json](./186139-the-dead-case.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
+| The Dead Cloud Forest | 81723 | [81723-the-dead-cloud-forest.json](./81723-the-dead-cloud-forest.json) |
 | The Dead Daughter | 371623 | [371623-the-dead-daughter.json](./371623-the-dead-daughter.json) |
 | The Dead End | 163771 | [163771-the-dead-end.json](./163771-the-dead-end.json) |
 | The Dead House | 366732 | [366732-the-dead-house.json](./366732-the-dead-house.json) |
@@ -7824,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
 | The Duller | 102925 | [102925-the-duller.json](./102925-the-duller.json) |
+| The Dummy Experiment | 81825 | [81825-the-dummy-experiment.json](./81825-the-dummy-experiment.json) |
 | The Dungeon | 272892 | [272892-the-dungeon.json](./272892-the-dungeon.json) |
 | The Dungeon | 301974 | [301974-the-dungeon.json](./301974-the-dungeon.json) |
 | The Dungeon Beneath | 139354 | [139354-the-dungeon-beneath.json](./139354-the-dungeon-beneath.json) |
@@ -11884,6 +11888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Trashmaid Puzzletime | 147428 | [147428-the-little-trashmaid-puzzletime.json](./147428-the-little-trashmaid-puzzletime.json) |
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
 | The little vampir | 91093 | [91093-the-little-vampir.json](./91093-the-little-vampir.json) |
+| The Little War | 81791 | [81791-the-little-war.json](./81791-the-little-war.json) |
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
 | The Little Wizard | 206999 | [206999-the-little-wizard.json](./206999-the-little-wizard.json) |
 | The Little World | 333337 | [333337-the-little-world.json](./333337-the-little-world.json) |
@@ -17956,6 +17961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
+| Thetaball | 81831 | [81831-thetaball.json](./81831-thetaball.json) |
 | Thetan Arena | 172547 | [172547-thetan-arena.json](./172547-thetan-arena.json) |
 | Thetan Rivals | 271329 | [271329-thetan-rivals.json](./271329-thetan-rivals.json) |
 | Thetawave | 265278 | [265278-thetawave.json](./265278-thetawave.json) |
@@ -28255,6 +28261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tring! | 344981 | [344981-tring.json](./344981-tring.json) |
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
+| Trinity | 81636 | [81636-trinity.json](./81636-trinity.json) |
 | Trinity 2 | 100547 | [100547-trinity-2.json](./100547-trinity-2.json) |
 | Trinity 64 | 354923 | [354923-trinity-64.json](./354923-trinity-64.json) |
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
