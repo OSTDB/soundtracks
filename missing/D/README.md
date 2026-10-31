@@ -3381,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Night Highway | 405727 | [405727-dead-night-highway.json](./405727-dead-night-highway.json) |
 | Dead Ninja Mortal Shadow | 280729 | [280729-dead-ninja-mortal-shadow.json](./280729-dead-ninja-mortal-shadow.json) |
 | Dead No-Head | 187404 | [187404-dead-no-head.json](./187404-dead-no-head.json) |
+| Dead Noir the Heart | 72449 | [72449-dead-noir-the-heart.json](./72449-dead-noir-the-heart.json) |
 | Dead of Darkness | 223270 | [223270-dead-of-darkness.json](./223270-dead-of-darkness.json) |
 | Dead of Darkness 2 | 422094 | [422094-dead-of-darkness-2.json](./422094-dead-of-darkness-2.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
@@ -4326,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Gambit: Afterlife - Definitive Edition | 170045 | [170045-deaths-gambit-afterlife-definitive-edition.json](./170045-deaths-gambit-afterlife-definitive-edition.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
 | Death's Life 2 | 406868 | [406868-deaths-life-2.json](./406868-deaths-life-2.json) |
+| Death's Maze | 72419 | [72419-deaths-maze.json](./72419-deaths-maze.json) |
 | Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
 | Death's Taste | 271817 | [271817-deaths-taste.json](./271817-deaths-taste.json) |
 | Death's Web | 288815 | [288815-deaths-web.json](./288815-deaths-web.json) |
