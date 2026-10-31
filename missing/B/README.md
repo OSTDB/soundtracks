@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10608,6 +10609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Area | 350344 | [350344-blue-area.json](./350344-blue-area.json) |
 | Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
 | Blue Balls | 376832 | [376832-blue-balls.json](./376832-blue-balls.json) |
+| Blue Balls | 64035 | [64035-blue-balls.json](./64035-blue-balls.json) |
 | Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
 | Blue Beard | 194786 | [194786-blue-beard.json](./194786-blue-beard.json) |
 | Blue Beard 2 | 194787 | [194787-blue-beard-2.json](./194787-blue-beard-2.json) |
@@ -10825,6 +10827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluey's Happy Snaps | 396024 | [396024-blueys-happy-snaps.json](./396024-blueys-happy-snaps.json) |
 | Bluey's Happy Snaps: Deluxe Edition | 418329 | [418329-blueys-happy-snaps-deluxe-edition.json](./418329-blueys-happy-snaps-deluxe-edition.json) |
 | Bluey's Quest for the Gold Pen | 375072 | [375072-blueys-quest-for-the-gold-pen.json](./375072-blueys-quest-for-the-gold-pen.json) |
+| Bluff Wars | 64066 | [64066-bluff-wars.json](./64066-bluff-wars.json) |
 | Bluff with Ash | 303171 | [303171-bluff-with-ash.json](./303171-bluff-with-ash.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Bluk | 57735 | [57735-bluk.json](./57735-bluk.json) |
@@ -12083,6 +12086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomXR | 154891 | [154891-boomxr.json](./154891-boomxr.json) |
 | Boomy the Cat | 58784 | [58784-boomy-the-cat.json](./58784-boomy-the-cat.json) |
 | BoomYa! | 303214 | [303214-boomya.json](./303214-boomya.json) |
+| BoomZoo | 64039 | [64039-boomzoo.json](./64039-boomzoo.json) |
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
 | Boondog | 242918 | [242918-boondog.json](./242918-boondog.json) |
