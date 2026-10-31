@@ -5130,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kour.io | 289360 | [289360-kour-io.json](./289360-kour-io.json) |
 | Kouryaku Casino Bar | 37954 | [37954-kouryaku-casino-bar.json](./37954-kouryaku-casino-bar.json) |
 | Kouryu Densetsu Villgust Gaiden | 48438 | [48438-kouryu-densetsu-villgust-gaiden.json](./48438-kouryu-densetsu-villgust-gaiden.json) |
+| Kouryuu Densetsu Villgust: Kieta Shoujo | 73454 | [73454-kouryuu-densetsu-villgust-kieta-shoujo.json](./73454-kouryuu-densetsu-villgust-kieta-shoujo.json) |
 | Kousai Toshi | 280682 | [280682-kousai-toshi.json](./280682-kousai-toshi.json) |
 | Koushien 2 | 37953 | [37953-koushien-2.json](./37953-koushien-2.json) |
 | Koushien 3 | 37952 | [37952-koushien-3.json](./37952-koushien-3.json) |
