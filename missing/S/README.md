@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | Sarge | 258840 | [258840-sarge.json](./258840-sarge.json) |
 | Sargon 4 | 68874 | [68874-sargon-4.json](./68874-sargon-4.json) |
+| Sargon 5: World Class Chess | 93305 | [93305-sargon-5-world-class-chess.json](./93305-sargon-5-world-class-chess.json) |
 | Sargon Chess | 46568 | [46568-sargon-chess.json](./46568-sargon-chess.json) |
 | Sargon I | 83263 | [83263-sargon-i.json](./83263-sargon-i.json) |
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
@@ -10288,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Miliki | 219494 | [219494-singstar-miliki.json](./219494-singstar-miliki.json) |
 | SingStar: Morangos com Açúcar | 397942 | [397942-singstar-morangos-com-acucar.json](./397942-singstar-morangos-com-acucar.json) |
 | Singstar: Norsk på Norsk | 84316 | [84316-singstar-norsk-pa-norsk.json](./84316-singstar-norsk-pa-norsk.json) |
+| SingStar: Norske Hits | 93335 | [93335-singstar-norske-hits.json](./93335-singstar-norske-hits.json) |
 | Singstar: Operación Triunfo | 135679 | [135679-singstar-operacion-triunfo.json](./135679-singstar-operacion-triunfo.json) |
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
@@ -14641,6 +14643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoseed | 295487 | [295487-sokoseed.json](./295487-sokoseed.json) |
 | Sokosignal | 219596 | [219596-sokosignal.json](./219596-sokosignal.json) |
 | SokoSolitaire | 244669 | [244669-sokosolitaire.json](./244669-sokosolitaire.json) |
+| SoKoStaTioN3 | 93297 | [93297-sokostation3.json](./93297-sokostation3.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
 | Sokoteddy | 370170 | [370170-sokoteddy.json](./370170-sokoteddy.json) |
 | SokoTerm | 379050 | [379050-sokoterm.json](./379050-sokoterm.json) |
@@ -19122,6 +19125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
 | Speedway Survival | 296616 | [296616-speedway-survival.json](./296616-speedway-survival.json) |
 | Speedway Turbo: Car Racing Challenge | 304787 | [304787-speedway-turbo-car-racing-challenge.json](./304787-speedway-turbo-car-racing-challenge.json) |
+| Speedway! / Spin-Out! / Crypto-Logic! | 93319 | [93319-speedway-spin-out-crypto-logic.json](./93319-speedway-spin-out-crypto-logic.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
 | SpeedWords Arena | 89523 | [89523-speedwords-arena.json](./89523-speedwords-arena.json) |
 | SpeedX 3D | 23674 | [23674-speedx-3d.json](./23674-speedx-3d.json) |
@@ -20541,6 +20545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
 | Sport Mode | 164166 | [164166-sport-mode.json](./164166-sport-mode.json) |
 | Sport of Kings | 83384 | [83384-sport-of-kings.json](./83384-sport-of-kings.json) |
+| Sport Racer | 93392 | [93392-sport-racer.json](./93392-sport-racer.json) |
 | Sport Shooter | 157411 | [157411-sport-shooter.json](./157411-sport-shooter.json) |
 | Sport Shooter: The Eight Galleries | 360914 | [360914-sport-shooter-the-eight-galleries.json](./360914-sport-shooter-the-eight-galleries.json) |
 | Sport Sport | 92893 | [92893-sport-sport.json](./92893-sport-sport.json) |
@@ -26093,6 +26098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
 | Stunt Scooter Simulator | 294833 | [294833-stunt-scooter-simulator.json](./294833-stunt-scooter-simulator.json) |
 | Stunt Simulator Multiplayer | 112712 | [112712-stunt-simulator-multiplayer.json](./112712-stunt-simulator-multiplayer.json) |
+| Stunt Track Racer | 93304 | [93304-stunt-track-racer.json](./93304-stunt-track-racer.json) |
 | Stunt Wheels | 261843 | [261843-stunt-wheels.json](./261843-stunt-wheels.json) |
 | Stunt Wheels Party! | 98533 | [98533-stunt-wheels-party.json](./98533-stunt-wheels-party.json) |
 | Stunt Xpress | 272719 | [272719-stunt-xpress.json](./272719-stunt-xpress.json) |
@@ -31401,6 +31407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
 | Sveerz Deluxe | 78378 | [78378-sveerz-deluxe.json](./78378-sveerz-deluxe.json) |
 | Sven - Gut zu Vogeln | 190486 | [190486-sven-gut-zu-vogeln.json](./190486-sven-gut-zu-vogeln.json) |
+| Sven 004 | 93299 | [93299-sven-004.json](./93299-sven-004.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven Gordan Paranormal Parody | 326800 | [326800-sven-gordan-paranormal-parody.json](./326800-sven-gordan-paranormal-parody.json) |
 | Sven kommt! | 76471 | [76471-sven-kommt.json](./76471-sven-kommt.json) |
