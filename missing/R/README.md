@@ -5462,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes | 147897 | [147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json](./147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json) |
 | Retro Classix 4in1 Pack: Sly Spy, Shootout, Wizard Fire & Super Real Darwin | 147904 | [147904-retro-classix-4in1-pack-sly-spy-shootout-wizard-fire-and-super-real-darwin.json](./147904-retro-classix-4in1-pack-sly-spy-shootout-wizard-fire-and-super-real-darwin.json) |
 | Retro Classix Collection #1: Data East | 147905 | [147905-retro-classix-collection-1-data-east.json](./147905-retro-classix-collection-1-data-east.json) |
+| Retro Classix Remakes Sixpack | 98719 | [98719-retro-classix-remakes-sixpack.json](./98719-retro-classix-remakes-sixpack.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Collection 1 | 280632 | [280632-retro-collection-1.json](./280632-retro-collection-1.json) |
 | Retro Collection 2 | 284752 | [284752-retro-collection-2.json](./284752-retro-collection-2.json) |
