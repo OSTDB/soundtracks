@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse: Survival Stories | 249325 | [249325-zombie-apocalypse-survival-stories.json](./249325-zombie-apocalypse-survival-stories.json) |
 | Zombie Apocalypse: The Last Defense | 211147 | [211147-zombie-apocalypse-the-last-defense.json](./211147-zombie-apocalypse-the-last-defense.json) |
 | Zombie Apocalypse: The Last Fortress | 235067 | [235067-zombie-apocalypse-the-last-fortress.json](./235067-zombie-apocalypse-the-last-fortress.json) |
+| Zombie Area! | 100510 | [100510-zombie-area.json](./100510-zombie-area.json) |
 | Zombie Arena | 220740 | [220740-zombie-arena.json](./220740-zombie-arena.json) |
 | Zombie Army 4: Dead War - American Sea Captain Character | 155454 | [155454-zombie-army-4-dead-war-american-sea-captain-character.json](./155454-zombie-army-4-dead-war-american-sea-captain-character.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hooker Nightmare | 397165 | [397165-zombie-hooker-nightmare.json](./397165-zombie-hooker-nightmare.json) |
 | Zombie Horde | 167196 | [167196-zombie-horde.json](./167196-zombie-horde.json) |
 | Zombie Horde Dominator | 263144 | [263144-zombie-horde-dominator.json](./263144-zombie-horde-dominator.json) |
+| Zombie Hotel | 100481 | [100481-zombie-hotel.json](./100481-zombie-hotel.json) |
 | Zombie House Defense | 301635 | [301635-zombie-house-defense.json](./301635-zombie-house-defense.json) |
 | Zombie HQ | 343749 | [343749-zombie-hq.json](./343749-zombie-hq.json) |
 | Zombie Hunter | 171354 | [171354-zombie-hunter.json](./171354-zombie-hunter.json) |
