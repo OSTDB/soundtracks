@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
 | Elya Richi vs Blackstone: Nuclear War | 384570 | [384570-elya-richi-vs-blackstone-nuclear-war.json](./384570-elya-richi-vs-blackstone-nuclear-war.json) |
 | Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
+| Elyon | 75567 | [75567-elyon.json](./75567-elyon.json) |
 | Elypse | 182076 | [182076-elypse.json](./182076-elypse.json) |
 | Elysia | 212057 | [212057-elysia.json](./212057-elysia.json) |
 | Elysian | 306799 | [306799-elysian.json](./306799-elysian.json) |
