@@ -6777,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinatris | 213367 | [213367-chinatris.json](./213367-chinatris.json) |
 | Chinbu's Adventure: Ice World | 171940 | [171940-chinbus-adventure-ice-world.json](./171940-chinbus-adventure-ice-world.json) |
 | Chindouchou!! Pole no Daibouken | 50992 | [50992-chindouchou-pole-no-daibouken.json](./50992-chindouchou-pole-no-daibouken.json) |
+| Chindouchuu!! Pole no Daibouken | 79654 | [79654-chindouchuu-pole-no-daibouken.json](./79654-chindouchuu-pole-no-daibouken.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
 | Chinese Brush Simulator | 129077 | [129077-chinese-brush-simulator.json](./129077-chinese-brush-simulator.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
@@ -7132,6 +7133,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopmania | 211990 | [211990-chopmania.json](./211990-chopmania.json) |
 | Choppa: Rescue Rivals | 127077 | [127077-choppa-rescue-rivals.json](./127077-choppa-rescue-rivals.json) |
 | Chopped Up | 388368 | [388368-chopped-up.json](./388368-chopped-up.json) |
+| Chopper | 79655 | [79655-chopper.json](./79655-chopper.json) |
+| Chopper 2 | 79630 | [79630-chopper-2.json](./79630-chopper-2.json) |
 | Chopper Adventure | 359447 | [359447-chopper-adventure.json](./359447-chopper-adventure.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Battle | 91527 | [91527-chopper-battle.json](./91527-chopper-battle.json) |
@@ -13619,6 +13622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Family | 4772 | [4772-cosmic-family.json](./4772-cosmic-family.json) |
 | Cosmic Fantasy 2 | 42003 | [42003-cosmic-fantasy-2.json](./42003-cosmic-fantasy-2.json) |
 | Cosmic Fantasy 3 | 332500 | [332500-cosmic-fantasy-3.json](./332500-cosmic-fantasy-3.json) |
+| Cosmic Fantasy 4: Ginga Shounen Densetsu - Gekitou-hen: Hikari no Umi no Naka de... | 79496 | [79496-cosmic-fantasy-4-ginga-shounen-densetsu-gekitou-hen-hikari-no-umi-no-naka-de.json](./79496-cosmic-fantasy-4-ginga-shounen-densetsu-gekitou-hen-hikari-no-umi-no-naka-de.json) |
 | Cosmic Fantasy 4: Ginga Shounen Densetsu - Totsunyuuhen: Densetsu he no Prelude | 92990 | [92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json](./92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json) |
 | Cosmic Fantasy 4: Prelude to Legend | 332501 | [332501-cosmic-fantasy-4-prelude-to-legend.json](./332501-cosmic-fantasy-4-prelude-to-legend.json) |
 | Cosmic Fantasy 4: Van's Return | 332502 | [332502-cosmic-fantasy-4-vans-return.json](./332502-cosmic-fantasy-4-vans-return.json) |
@@ -15226,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Penguin Wars | 302614 | [302614-crazy-penguin-wars.json](./302614-crazy-penguin-wars.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
 | Crazy Pierrot | 339487 | [339487-crazy-pierrot.json](./339487-crazy-pierrot.json) |
+| Crazy Pig | 79631 | [79631-crazy-pig.json](./79631-crazy-pig.json) |
 | Crazy Pingoin | 250193 | [250193-crazy-pingoin.json](./250193-crazy-pingoin.json) |
 | Crazy Pipes 3D | 374118 | [374118-crazy-pipes-3d.json](./374118-crazy-pipes-3d.json) |
 | Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
