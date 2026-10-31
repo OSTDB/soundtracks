@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Buster: Ruka no Daibouken | 38190 | [38190-yokai-buster-ruka-no-daibouken.json](./38190-yokai-buster-ruka-no-daibouken.json) |
 | Yokai Busters | 320225 | [320225-yokai-busters.json](./320225-yokai-busters.json) |
 | Yokai Crossing | 417947 | [417947-yokai-crossing.json](./417947-yokai-crossing.json) |
+| Yokai Dungeon | 120563 | [120563-yokai-dungeon.json](./120563-yokai-dungeon.json) |
 | Yokai Hero | 244611 | [244611-yokai-hero.json](./244611-yokai-hero.json) |
 | Yokai Hunter Shintaro | 197022 | [197022-yokai-hunter-shintaro.json](./197022-yokai-hunter-shintaro.json) |
 | Yokai Hunters | 346461 | [346461-yokai-hunters.json](./346461-yokai-hunters.json) |
