@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Forever | 207615 | [207615-adventure-forever.json](./207615-adventure-forever.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure Game | 86332 | [86332-adventure-game.json](./86332-adventure-game.json) |
+| Adventure Hall of Fame | 70169 | [70169-adventure-hall-of-fame.json](./70169-adventure-hall-of-fame.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
 | Adventure II | 284228 | [284228-adventure-ii.json](./284228-adventure-ii.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
@@ -9147,6 +9148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle: Drag 'n' Drop | 101412 | [101412-animal-puzzle-drag-n-drop.json](./101412-animal-puzzle-drag-n-drop.json) |
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Puzzles Games: little boys & girls puzzle | 87217 | [87217-animal-puzzles-games-little-boys-and-girls-puzzle.json](./87217-animal-puzzles-games-little-boys-and-girls-puzzle.json) |
+| Animal Quest | 70175 | [70175-animal-quest.json](./70175-animal-quest.json) |
 | Animal Race Run VR | 303155 | [303155-animal-race-run-vr.json](./303155-animal-race-run-vr.json) |
 | Animal Records | 100520 | [100520-animal-records.json](./100520-animal-records.json) |
 | Animal Relay A | 229502 | [229502-animal-relay-a.json](./229502-animal-relay-a.json) |
@@ -12034,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcmaze | 200816 | [200816-arcmaze.json](./200816-arcmaze.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
+| Arcomage | 70264 | [70264-arcomage.json](./70264-arcomage.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
 | ArcPinball | 13242 | [13242-arcpinball.json](./13242-arcpinball.json) |
 | ArcRunner | 211441 | [211441-arcrunner.json](./211441-arcrunner.json) |
@@ -14291,6 +14294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Deluxe: Evolved | 329638 | [329638-asteroids-deluxe-evolved.json](./329638-asteroids-deluxe-evolved.json) |
 | Asteroids Do Concern Me | 91806 | [91806-asteroids-do-concern-me.json](./91806-asteroids-do-concern-me.json) |
 | Asteroids Extreme | 190823 | [190823-asteroids-extreme.json](./190823-asteroids-extreme.json) |
+| Asteroids for GEM | 70183 | [70183-asteroids-for-gem.json](./70183-asteroids-for-gem.json) |
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
