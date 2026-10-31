@@ -2447,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Turn 2 - Runaway | 152611 | [152611-re-turn-2-runaway.json](./152611-re-turn-2-runaway.json) |
 | Re:Ver Project - Tokyo | 327755 | [327755-re-ver-project-tokyo.json](./327755-re-ver-project-tokyo.json) |
 | Re:Vessel | 202321 | [202321-re-vessel.json](./202321-re-vessel.json) |
+| Re:volvers8 | 109291 | [109291-re-volvers8.json](./109291-re-volvers8.json) |
 | Re:Zero - Infinity | 193944 | [193944-re-zero-infinity.json](./193944-re-zero-infinity.json) |
 | Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
 | Re:Zero - Starting Life in Another World: Lost in Memories | 137943 | [137943-re-zero-starting-life-in-another-world-lost-in-memories.json](./137943-re-zero-starting-life-in-another-world-lost-in-memories.json) |
@@ -2469,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach | 347893 | [347893-reach.json](./347893-reach.json) |
 | Reach 50 : Sexy Hentai Girls | 113312 | [113312-reach-50-sexy-hentai-girls.json](./113312-reach-50-sexy-hentai-girls.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
+| Reach Classic | 109229 | [109229-reach-classic.json](./109229-reach-classic.json) |
 | Reach for the Skies | 12740 | [12740-reach-for-the-skies.json](./12740-reach-for-the-skies.json) |
 | Reach for the Sky | 133671 | [133671-reach-for-the-sky.json](./133671-reach-for-the-sky.json) |
 | Reach for the Stars | 324585 | [324585-reach-for-the-stars.json](./324585-reach-for-the-stars.json) |
@@ -8689,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketman | 287548 | [287548-rocketman.json](./287548-rocketman.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
+| RocketPack Kid | 109219 | [109219-rocketpack-kid.json](./109219-rocketpack-kid.json) |
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
 | RocketRecoil | 296254 | [296254-rocketrecoil.json](./296254-rocketrecoil.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
