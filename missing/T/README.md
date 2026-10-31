@@ -6393,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
 | The Cameraman | 343145 | [343145-the-cameraman.json](./343145-the-cameraman.json) |
 | The Cameron Files - Loch Ness | 53708 | [53708-the-cameron-files-loch-ness.json](./53708-the-cameron-files-loch-ness.json) |
+| The Cameron Files: Pharaoh's Curse | 70729 | [70729-the-cameron-files-pharaohs-curse.json](./70729-the-cameron-files-pharaohs-curse.json) |
 | The Camp | 262772 | [262772-the-camp.json](./262772-the-camp.json) |
 | The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
@@ -15490,6 +15491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sovereign | 350447 | [350447-the-sovereign.json](./350447-the-sovereign.json) |
 | The Sovereign's Board | 416031 | [416031-the-sovereigns-board.json](./416031-the-sovereigns-board.json) |
 | The Sovereign's Path | 394416 | [394416-the-sovereigns-path.json](./394416-the-sovereigns-path.json) |
+| The Soviet Union Strikes Back | 70836 | [70836-the-soviet-union-strikes-back.json](./70836-the-soviet-union-strikes-back.json) |
 | The Space Adventure | 71472 | [71472-the-space-adventure.json](./71472-the-space-adventure.json) |
 | The Space Ark | 78614 | [78614-the-space-ark.json](./78614-the-space-ark.json) |
 | The Space Bar | 24659 | [24659-the-space-bar.json](./24659-the-space-bar.json) |
@@ -21365,6 +21367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
 | Tiny Car Mess | 276591 | [276591-tiny-car-mess.json](./276591-tiny-car-mess.json) |
 | Tiny Card Battle | 181249 | [181249-tiny-card-battle.json](./181249-tiny-card-battle.json) |
+| Tiny Cars 2 | 70732 | [70732-tiny-cars-2.json](./70732-tiny-cars-2.json) |
 | Tiny Castle | 326731 | [326731-tiny-castle.json](./326731-tiny-castle.json) |
 | Tiny Cat Fishing | 390191 | [390191-tiny-cat-fishing.json](./390191-tiny-cat-fishing.json) |
 | Tiny Catcher | 405034 | [405034-tiny-catcher.json](./405034-tiny-catcher.json) |
@@ -29739,6 +29742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo-Trex By Orazio Cacciola | 267562 | [267562-turbo-trex-by-orazio-cacciola.json](./267562-turbo-trex-by-orazio-cacciola.json) |
 | Turbo: Super Stunt Squad | 11053 | [11053-turbo-super-stunt-squad.json](./11053-turbo-super-stunt-squad.json) |
 | Turboat | 94942 | [94942-turboat.json](./94942-turboat.json) |
+| Turbocar | 70723 | [70723-turbocar.json](./70723-turbocar.json) |
 | Turboflex | 315720 | [315720-turboflex.json](./315720-turboflex.json) |
 | TurboFly 3D | 38698 | [38698-turbofly-3d.json](./38698-turbofly-3d.json) |
 | TurboJoy | 409828 | [409828-turbojoy.json](./409828-turbojoy.json) |
