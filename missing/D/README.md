@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
 | Dark Nebula VR | 110506 | [110506-dark-nebula-vr.json](./110506-dark-nebula-vr.json) |
 | Dark Nebula: Episode One | 67242 | [67242-dark-nebula-episode-one.json](./67242-dark-nebula-episode-one.json) |
+| Dark Nebula: Episode Two | 66456 | [66456-dark-nebula-episode-two.json](./66456-dark-nebula-episode-two.json) |
 | Dark Nebulae Online | 179017 | [179017-dark-nebulae-online.json](./179017-dark-nebulae-online.json) |
 | Dark Neighbors | 351612 | [351612-dark-neighbors.json](./351612-dark-neighbors.json) |
 | Dark Nemesis: Infinite Quest | 194160 | [194160-dark-nemesis-infinite-quest.json](./194160-dark-nemesis-infinite-quest.json) |
@@ -8319,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
 | Digimon Alysion | 336087 | [336087-digimon-alysion.json](./336087-digimon-alysion.json) |
 | Digimon Anode Tamer/Cathode Tamer: Veedramon Version | 37554 | [37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json](./37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json) |
+| Digimon Battle | 66461 | [66461-digimon-battle.json](./66461-digimon-battle.json) |
 | Digimon Card Game Tutorial App | 313084 | [313084-digimon-card-game-tutorial-app.json](./313084-digimon-card-game-tutorial-app.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
@@ -17719,5 +17721,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
+| Dziedzictwo Gigantow | 66460 | [66460-dziedzictwo-gigantow.json](./66460-dziedzictwo-gigantow.json) |
 | DzombZ | 197494 | [197494-dzombz.json](./197494-dzombz.json) |
 | Dzyun Battle 2026 | 382255 | [382255-dzyun-battle-2026.json](./382255-dzyun-battle-2026.json) |
