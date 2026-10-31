@@ -5524,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Quiz Tower | 251378 | [251378-retro-quiz-tower.json](./251378-retro-quiz-tower.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
 | Retro Racers | 180039 | [180039-retro-racers.json](./180039-retro-racers.json) |
+| Retro Racers 2 | 104960 | [104960-retro-racers-2.json](./104960-retro-racers-2.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
 | Retro Racing City | 116860 | [116860-retro-racing-city.json](./116860-retro-racing-city.json) |
 | Retro Raider | 58504 | [58504-retro-raider.json](./58504-retro-raider.json) |
