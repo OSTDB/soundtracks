@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
 | Balloon guy | 89368 | [89368-balloon-guy.json](./89368-balloon-guy.json) |
 | Balloon Head | 317296 | [317296-balloon-head.json](./317296-balloon-head.json) |
+| Balloon Hit HD | 88727 | [88727-balloon-hit-hd.json](./88727-balloon-hit-hd.json) |
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Knight | 294514 | [294514-balloon-knight.json](./294514-balloon-knight.json) |
@@ -1563,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Party | 350294 | [350294-balloon-party.json](./350294-balloon-party.json) |
 | Balloon Pop | 187361 | [187361-balloon-pop.json](./187361-balloon-pop.json) |
 | Balloon Pop | 4704 | [4704-balloon-pop.json](./4704-balloon-pop.json) |
+| Balloon Pop | 88845 | [88845-balloon-pop.json](./88845-balloon-pop.json) |
 | Balloon Pop 2 | 92321 | [92321-balloon-pop-2.json](./92321-balloon-pop-2.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon Pop Plus | 64305 | [64305-balloon-pop-plus.json](./64305-balloon-pop-plus.json) |
@@ -3542,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Plans | 417500 | [417500-battle-of-plans.json](./417500-battle-of-plans.json) |
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
+| Battle of Ships 3D: Naval War | 88703 | [88703-battle-of-ships-3d-naval-war.json](./88703-battle-of-ships-3d-naval-war.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
 | Battle of the Bulge | 13384 | [13384-battle-of-the-bulge.json](./13384-battle-of-the-bulge.json) |
 | Battle of the Elements | 84782 | [84782-battle-of-the-elements.json](./84782-battle-of-the-elements.json) |
@@ -8844,6 +8847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous: Strife & Ruin | 229861 | [229861-blasphemous-strife-and-ruin.json](./229861-blasphemous-strife-and-ruin.json) |
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
 | Blast | 55758 | [55758-blast.json](./55758-blast.json) |
+| Blast | 88710 | [88710-blast.json](./88710-blast.json) |
 | Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
 | Blast 3D The Arrival: Chapter 0 | 303366 | [303366-blast-3d-the-arrival-chapter-0.json](./303366-blast-3d-the-arrival-chapter-0.json) |
 | Blast Ball | 22328 | [22328-blast-ball.json](./22328-blast-ball.json) |
@@ -12067,6 +12071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootloop | 362055 | [362055-bootloop.json](./362055-bootloop.json) |
 | Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
 | Boots and Daggers | 270493 | [270493-boots-and-daggers.json](./270493-boots-and-daggers.json) |
+| Boots Story: Games for kids | 88849 | [88849-boots-story-games-for-kids.json](./88849-boots-story-games-for-kids.json) |
 | Boots Versus Plants | 157961 | [157961-boots-versus-plants.json](./157961-boots-versus-plants.json) |
 | Bootsies | 335397 | [335397-bootsies.json](./335397-bootsies.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
@@ -12579,6 +12584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Ball | 25865 | [25865-bouncing-ball.json](./25865-bouncing-ball.json) |
 | Bouncing Ball | 347618 | [347618-bouncing-ball.json](./347618-bouncing-ball.json) |
 | Bouncing Ball | 46857 | [46857-bouncing-ball.json](./46857-bouncing-ball.json) |
+| Bouncing Ball 3D | 88720 | [88720-bouncing-ball-3d.json](./88720-bouncing-ball-3d.json) |
 | Bouncing Buddies | 232606 | [232606-bouncing-buddies.json](./232606-bouncing-buddies.json) |
 | Bouncing Buds | 363566 | [363566-bouncing-buds.json](./363566-bouncing-buds.json) |
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
