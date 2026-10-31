@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted | 248205 | [248205-need-for-speed-most-wanted.json](./248205-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted - Black Edition | 43492 | [43492-need-for-speed-most-wanted-black-edition.json](./43492-need-for-speed-most-wanted-black-edition.json) |
+| Need for Speed: Most Wanted - Ultimate Edition | 99929 | [99929-need-for-speed-most-wanted-ultimate-edition.json](./99929-need-for-speed-most-wanted-ultimate-edition.json) |
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
 | Need for Speed: Most Wanted Demo | 301229 | [301229-need-for-speed-most-wanted-demo.json](./301229-need-for-speed-most-wanted-demo.json) |
 | Need for Speed: Most Wanted Terminal Velocity Pack | 117321 | [117321-need-for-speed-most-wanted-terminal-velocity-pack.json](./117321-need-for-speed-most-wanted-terminal-velocity-pack.json) |
