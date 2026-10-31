@@ -16278,6 +16278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Pea 3 | 265551 | [265551-awesome-pea-3.json](./265551-awesome-pea-3.json) |
 | Awesome Pea Collection | 138459 | [138459-awesome-pea-collection.json](./138459-awesome-pea-collection.json) |
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
+| Awesome Seaquest | 101909 | [101909-awesome-seaquest.json](./101909-awesome-seaquest.json) |
 | Awesome Shapes | 62411 | [62411-awesome-shapes.json](./62411-awesome-shapes.json) |
 | Awesome Space Delivery Company | 101687 | [101687-awesome-space-delivery-company.json](./101687-awesome-space-delivery-company.json) |
 | Awesome Sudoku | 106884 | [106884-awesome-sudoku.json](./106884-awesome-sudoku.json) |
