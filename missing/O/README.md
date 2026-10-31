@@ -4675,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak | 275475 | [275475-outbreak.json](./275475-outbreak.json) |
 | Outbreak | 302484 | [302484-outbreak.json](./302484-outbreak.json) |
 | Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
+| Outbreak | 77034 | [77034-outbreak.json](./77034-outbreak.json) |
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
 | Outbreak Bundle | 83761 | [83761-outbreak-bundle.json](./83761-outbreak-bundle.json) |
 | Outbreak Co-Op Anthology | 164710 | [164710-outbreak-co-op-anthology.json](./164710-outbreak-co-op-anthology.json) |
