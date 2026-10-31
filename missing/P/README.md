@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal '98 | 376489 | [376489-paranormal-98.json](./376489-paranormal-98.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
 | Paranormal Activity: The VR Game | 25626 | [25626-paranormal-activity-the-vr-game.json](./25626-paranormal-activity-the-vr-game.json) |
+| Paranormal Agency | 69012 | [69012-paranormal-agency.json](./69012-paranormal-agency.json) |
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
@@ -13378,6 +13379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
 | Princess Sera Adventures | 188957 | [188957-princess-sera-adventures.json](./188957-princess-sera-adventures.json) |
 | Princess Shall Prevail | 368375 | [368375-princess-shall-prevail.json](./368375-princess-shall-prevail.json) |
+| Princess Snow White | 69024 | [69024-princess-snow-white.json](./69024-princess-snow-white.json) |
 | Princess Snow White: The Enchanted Mirror | 320455 | [320455-princess-snow-white-the-enchanted-mirror.json](./320455-princess-snow-white-the-enchanted-mirror.json) |
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
@@ -15437,6 +15439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Emotion 6 | 144634 | [144634-psychic-emotion-6.json](./144634-psychic-emotion-6.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
+| Psychic Force Puzzle Taisen | 69133 | [69133-psychic-force-puzzle-taisen.json](./69133-psychic-force-puzzle-taisen.json) |
 | Psychic Guardian Super Splendor | 155834 | [155834-psychic-guardian-super-splendor.json](./155834-psychic-guardian-super-splendor.json) |
 | Psychic Idle | 281288 | [281288-psychic-idle.json](./281288-psychic-idle.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
@@ -15845,7 +15848,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped BMX 2 | 59751 | [59751-pumped-bmx-2.json](./59751-pumped-bmx-2.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
-| Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
 | Pumped: BMX | 59752 | [59752-pumped-bmx.json](./59752-pumped-bmx.json) |
 | Pumping Simulator | 158617 | [158617-pumping-simulator.json](./158617-pumping-simulator.json) |
 | Pumping Simulator 2 | 263318 | [263318-pumping-simulator-2.json](./263318-pumping-simulator-2.json) |
