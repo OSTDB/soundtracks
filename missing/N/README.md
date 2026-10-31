@@ -6015,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman Cooks in "Search for the Don" | 71056 | [71056-norman-cooks-in-search-for-the-don.json](./71056-norman-cooks-in-search-for-the-don.json) |
 | Norman's Escape | 141495 | [141495-normans-escape.json](./141495-normans-escape.json) |
 | Norman's Night In | 115518 | [115518-normans-night-in.json](./115518-normans-night-in.json) |
+| Norman's Night in the Cave | 123204 | [123204-normans-night-in-the-cave.json](./123204-normans-night-in-the-cave.json) |
 | Norman's Sky | 179001 | [179001-normans-sky.json](./179001-normans-sky.json) |
 | Normenhill: Chapter 1 - "Your New Look" | 340806 | [340806-normenhill-chapter-1-your-new-look.json](./340806-normenhill-chapter-1-your-new-look.json) |
 | Normy's Beach Babe-O-Rama | 45768 | [45768-normys-beach-babe-o-rama.json](./45768-normys-beach-babe-o-rama.json) |
