@@ -864,7 +864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3011,7 +3010,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
 | Batman Forever: Double Dose of Doom | 198674 | [198674-batman-forever-double-dose-of-doom.json](./198674-batman-forever-double-dose-of-doom.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
+| Batman Returns | 121241 | [121241-batman-returns.json](./121241-batman-returns.json) |
+| Batman Returns | 121243 | [121243-batman-returns.json](./121243-batman-returns.json) |
 | Batman Returns | 121244 | [121244-batman-returns.json](./121244-batman-returns.json) |
+| Batman Returns | 121245 | [121245-batman-returns.json](./121245-batman-returns.json) |
+| Batman Returns | 121246 | [121246-batman-returns.json](./121246-batman-returns.json) |
 | Batman Returns | 198678 | [198678-batman-returns.json](./198678-batman-returns.json) |
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
 | Batman Returns | 343294 | [343294-batman-returns.json](./343294-batman-returns.json) |
@@ -11121,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokuaso | 98005 | [98005-bokuaso.json](./98005-bokuaso.json) |
 | Bokuaso2 | 97826 | [97826-bokuaso2.json](./97826-bokuaso2.json) |
 | Bokube | 37000 | [37000-bokube.json](./37000-bokube.json) |
+| Bokuhime Project | 121199 | [121199-bokuhime-project.json](./121199-bokuhime-project.json) |
 | Bokujou Monogatari: Futago no Mura+ | 136904 | [136904-bokujou-monogatari-futago-no-mura.json](./136904-bokujou-monogatari-futago-no-mura.json) |
 | Bokura ga Koko ni Iru Fushigi. | 131381 | [131381-bokura-ga-koko-ni-iru-fushigi.json](./131381-bokura-ga-koko-ni-iru-fushigi.json) |
 | Bokura no Daiundoukai | 165436 | [165436-bokura-no-daiundoukai.json](./165436-bokura-no-daiundoukai.json) |
@@ -12460,6 +12464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
 | Bouncing Duck Simulator | 55728 | [55728-bouncing-duck-simulator.json](./55728-bouncing-duck-simulator.json) |
 | Bouncing DVD : The Game | 114565 | [114565-bouncing-dvd-the-game.json](./114565-bouncing-dvd-the-game.json) |
+| Bouncing Hero | 121193 | [121193-bouncing-hero.json](./121193-bouncing-hero.json) |
 | Bouncing Kamungas! | 24658 | [24658-bouncing-kamungas.json](./24658-bouncing-kamungas.json) |
 | Bouncing Music | 236744 | [236744-bouncing-music.json](./236744-bouncing-music.json) |
 | Bouncing Odyssey | 81034 | [81034-bouncing-odyssey.json](./81034-bouncing-odyssey.json) |
@@ -12624,6 +12629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowl-Ed Over | 123236 | [123236-bowl-ed-over.json](./123236-bowl-ed-over.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowlatro | 369521 | [369521-bowlatro.json](./369521-bowlatro.json) |
+| Bowlbo | 121238 | [121238-bowlbo.json](./121238-bowlbo.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowler | 95920 | [95920-bowler.json](./95920-bowler.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
@@ -16513,6 +16519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz Bombers | 5665 | [5665-buzz-bombers.json](./5665-buzz-bombers.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
 | Buzz is a VTuber: I want to be famous, even if it's just a game | 301887 | [301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json](./301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json) |
+| Buzz Kill Zero | 121209 | [121209-buzz-kill-zero.json](./121209-buzz-kill-zero.json) |
 | Buzz Lightyear of Star Command | 19675 | [19675-buzz-lightyear-of-star-command.json](./19675-buzz-lightyear-of-star-command.json) |
 | Buzz Lightyear of Star Command | 265047 | [265047-buzz-lightyear-of-star-command.json](./265047-buzz-lightyear-of-star-command.json) |
 | Buzz Lightyear of Star Command | 282150 | [282150-buzz-lightyear-of-star-command.json](./282150-buzz-lightyear-of-star-command.json) |
