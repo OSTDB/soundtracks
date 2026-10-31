@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
 | Capcom no Quiz: Tonosama no Yabou | 46392 | [46392-capcom-no-quiz-tonosama-no-yabou.json](./46392-capcom-no-quiz-tonosama-no-yabou.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
+| Capcom Quiz: Hatena? no Daibouken | 65171 | [65171-capcom-quiz-hatena-no-daibouken.json](./65171-capcom-quiz-hatena-no-daibouken.json) |
 | Capcom Sports Club | 38531 | [38531-capcom-sports-club.json](./38531-capcom-sports-club.json) |
 | Capcom Super League Online | 130567 | [130567-capcom-super-league-online.json](./130567-capcom-super-league-online.json) |
 | Capcom Tabi Quiz 100 | 282684 | [282684-capcom-tabi-quiz-100.json](./282684-capcom-tabi-quiz-100.json) |
@@ -1773,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa IV: Pro no Rival-tachi | 38184 | [38184-captain-tsubasa-iv-pro-no-rival-tachi.json](./38184-captain-tsubasa-iv-pro-no-rival-tachi.json) |
 | Captain Tsubasa J: Get in the Tomorrow | 45320 | [45320-captain-tsubasa-j-get-in-the-tomorrow.json](./45320-captain-tsubasa-j-get-in-the-tomorrow.json) |
+| Captain Tsubasa J: The Way to World Youth | 65167 | [65167-captain-tsubasa-j-the-way-to-world-youth.json](./65167-captain-tsubasa-j-the-way-to-world-youth.json) |
 | Captain Tsubasa J: Zenkoku Seiha he no Chousen | 65009 | [65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json](./65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json) |
 | Captain Tsubasa V: Hasha no Shougou Campione | 38268 | [38268-captain-tsubasa-v-hasha-no-shougou-campione.json](./38268-captain-tsubasa-v-hasha-no-shougou-campione.json) |
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
@@ -1785,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: My Golden XI | 411298 | [411298-captain-tsubasa-my-golden-xi.json](./411298-captain-tsubasa-my-golden-xi.json) |
 | Captain Tsubasa: New Kick Off | 47865 | [47865-captain-tsubasa-new-kick-off.json](./47865-captain-tsubasa-new-kick-off.json) |
 | Captain Tsubasa: No. 1 Striker | 385802 | [385802-captain-tsubasa-no-1-striker.json](./385802-captain-tsubasa-no-1-striker.json) |
+| Captain Tsubasa: Ougon Sedai no Chousen | 65166 | [65166-captain-tsubasa-ougon-sedai-no-chousen.json](./65166-captain-tsubasa-ougon-sedai-no-chousen.json) |
 | Captain Tsubasa: Rise of New Champions | 128769 | [128769-captain-tsubasa-rise-of-new-champions.json](./128769-captain-tsubasa-rise-of-new-champions.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Edition | 136032 | [136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json](./136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
