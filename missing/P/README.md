@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Valley | 102920 | [102920-paper-valley.json](./102920-paper-valley.json) |
 | Paper Wars | 374421 | [374421-paper-wars.json](./374421-paper-wars.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
+| Paper Wars: Cannon Fodder! | 78423 | [78423-paper-wars-cannon-fodder.json](./78423-paper-wars-cannon-fodder.json) |
 | Paper World - Spot the Differences | 106887 | [106887-paper-world-spot-the-differences.json](./106887-paper-world-spot-the-differences.json) |
 | Paper World Escape | 315685 | [315685-paper-world-escape.json](./315685-paper-world-escape.json) |
 | Paper World Escape 2 | 315686 | [315686-paper-world-escape-2.json](./315686-paper-world-escape-2.json) |
