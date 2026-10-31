@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
 | Lade's Sandbox | 303621 | [303621-lades-sandbox.json](./303621-lades-sandbox.json) |
 | Laden vs. USA | 307675 | [307675-laden-vs-usa.json](./307675-laden-vs-usa.json) |
+| Ladendetektiv | 85710 | [85710-ladendetektiv.json](./85710-ladendetektiv.json) |
 | Ladies | 109732 | [109732-ladies.json](./109732-ladies.json) |
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
 | Ladies I'm Ready | 333058 | [333058-ladies-im-ready.json](./333058-ladies-im-ready.json) |
@@ -9081,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin the Third: Cagliostro no Shiro | 66204 | [66204-lupin-the-third-cagliostro-no-shiro.json](./66204-lupin-the-third-cagliostro-no-shiro.json) |
 | Lupinball | 33847 | [33847-lupinball.json](./33847-lupinball.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
+| Lupos Adventure | 85712 | [85712-lupos-adventure.json](./85712-lupos-adventure.json) |
 | Luppy | 379003 | [379003-luppy.json](./379003-luppy.json) |
 | Lupus in Fabula | 41903 | [41903-lupus-in-fabula.json](./41903-lupus-in-fabula.json) |
 | Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
