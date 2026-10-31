@@ -6763,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq-Fu | 265004 | [265004-shaq-fu.json](./265004-shaq-fu.json) |
 | Shaq-Fu | 265005 | [265005-shaq-fu.json](./265005-shaq-fu.json) |
 | Shaq-Fu | 8536 | [8536-shaq-fu.json](./8536-shaq-fu.json) |
+| ShaqDown | 64056 | [64056-shaqdown.json](./64056-shaqdown.json) |
 | ShaqDown 2 | 60324 | [60324-shaqdown-2.json](./60324-shaqdown-2.json) |
 | Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
 | ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
@@ -7627,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Sangoku Musou 4 Special | 395999 | [395999-shin-sangoku-musou-4-special.json](./395999-shin-sangoku-musou-4-special.json) |
 | Shin Sangoku Musou Apuri | 338635 | [338635-shin-sangoku-musou-apuri.json](./338635-shin-sangoku-musou-apuri.json) |
 | Shin Sangoku Musou Multi Raid 2: HD Edition | 43050 | [43050-shin-sangoku-musou-multi-raid-2-hd-edition.json](./43050-shin-sangoku-musou-multi-raid-2-hd-edition.json) |
+| Shin Sangoku Musou Slash | 64051 | [64051-shin-sangoku-musou-slash.json](./64051-shin-sangoku-musou-slash.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
 | Shin SD Sengoku-den: Daishogun Retsuden | 38250 | [38250-shin-sd-sengoku-den-daishogun-retsuden.json](./38250-shin-sd-sengoku-den-daishogun-retsuden.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
@@ -10773,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skapheim | 415290 | [415290-skapheim.json](./415290-skapheim.json) |
 | Skapon Tanken-tai: The Enchanted Hunters | 66127 | [66127-skapon-tanken-tai-the-enchanted-hunters.json](./66127-skapon-tanken-tai-the-enchanted-hunters.json) |
 | Skapp | 140596 | [140596-skapp.json](./140596-skapp.json) |
+| Skar: The Hammer Returns | 64054 | [64054-skar-the-hammer-returns.json](./64054-skar-the-hammer-returns.json) |
 | Skara | 10833 | [10833-skara.json](./10833-skara.json) |
 | Skara | 398020 | [398020-skara.json](./398020-skara.json) |
 | Skara: The Blade Remains | 14379 | [14379-skara-the-blade-remains.json](./14379-skara-the-blade-remains.json) |
@@ -17865,7 +17868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -17915,6 +17917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders '91 | 46262 | [46262-space-invaders-91.json](./46262-space-invaders-91.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders by Copper France | 275223 | [275223-space-invaders-by-copper-france.json](./275223-space-invaders-by-copper-france.json) |
+| Space Invaders Collection | 64070 | [64070-space-invaders-collection.json](./64070-space-invaders-collection.json) |
 | Space Invaders DX | 39409 | [39409-space-invaders-dx.json](./39409-space-invaders-dx.json) |
 | Space Invaders Evolution | 42761 | [42761-space-invaders-evolution.json](./42761-space-invaders-evolution.json) |
 | Space Invaders Extreme 2 | 8199 | [8199-space-invaders-extreme-2.json](./8199-space-invaders-extreme-2.json) |
@@ -17939,6 +17942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders: The Beat Attacker | 64076 | [64076-space-invaders-the-beat-attacker.json](./64076-space-invaders-the-beat-attacker.json) |
 | Space Invaders: The Original Game | 210577 | [210577-space-invaders-the-original-game.json](./210577-space-invaders-the-original-game.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
+| Space Invaders: World War | 64069 | [64069-space-invaders-world-war.json](./64069-space-invaders-world-war.json) |
 | Space Invasion | 194252 | [194252-space-invasion.json](./194252-space-invasion.json) |
 | Space Invasion | 279067 | [279067-space-invasion.json](./279067-space-invasion.json) |
 | Space Invasion | 293713 | [293713-space-invasion.json](./293713-space-invasion.json) |
@@ -28761,6 +28765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lesbian Horse RPG | 228658 | [228658-super-lesbian-horse-rpg.json](./228658-super-lesbian-horse-rpg.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
+| Super Light Saga: Dragon Force | 64041 | [64041-super-light-saga-dragon-force.json](./64041-super-light-saga-dragon-force.json) |
 | Super Lion King | 203656 | [203656-super-lion-king.json](./203656-super-lion-king.json) |
 | Super Liquid Soccer | 190414 | [190414-super-liquid-soccer.json](./190414-super-liquid-soccer.json) |
 | Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
@@ -29621,6 +29626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Panda Adventures | 10933 | [10933-super-panda-adventures.json](./10933-super-panda-adventures.json) |
 | Super Pang | 195059 | [195059-super-pang.json](./195059-super-pang.json) |
 | Super Pang | 267513 | [267513-super-pang.json](./267513-super-pang.json) |
+| Super Pang II | 64050 | [64050-super-pang-ii.json](./64050-super-pang-ii.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
 | Super Paper Bowser World | 323290 | [323290-super-paper-bowser-world.json](./323290-super-paper-bowser-world.json) |
 | Super Paper Mario | 231489 | [231489-super-paper-mario.json](./231489-super-paper-mario.json) |
@@ -30338,6 +30344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tact | 60225 | [60225-super-tact.json](./60225-super-tact.json) |
 | Super TaeKwonDo Master | 69686 | [69686-super-taekwondo-master.json](./69686-super-taekwondo-master.json) |
+| Super Taiwanese Baseball League | 64044 | [64044-super-taiwanese-baseball-league.json](./64044-super-taiwanese-baseball-league.json) |
 | Super Takoyaki Battle | 416068 | [416068-super-takoyaki-battle.json](./416068-super-takoyaki-battle.json) |
 | Super Talking Time Bros. | 350226 | [350226-super-talking-time-bros.json](./350226-super-talking-time-bros.json) |
 | Super Tank | 279692 | [279692-super-tank.json](./279692-super-tank.json) |
