@@ -4819,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
 | Linda Cube Kanzenban | 194757 | [194757-linda-cube-kanzenban.json](./194757-linda-cube-kanzenban.json) |
+| Linda's Cases: Brighton Secrets | 87925 | [87925-lindas-cases-brighton-secrets.json](./87925-lindas-cases-brighton-secrets.json) |
 | LindaBee | 179313 | [179313-lindabee.json](./179313-lindabee.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
 | Lindwyrm | 262827 | [262827-lindwyrm.json](./262827-lindwyrm.json) |
