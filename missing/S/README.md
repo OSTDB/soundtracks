@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sated | 405122 | [405122-sated.json](./405122-sated.json) |
 | Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
 | Satella X | 178953 | [178953-satella-x.json](./178953-satella-x.json) |
+| Satella-Q | 67026 | [67026-satella-q.json](./67026-satella-q.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
 | SatellaWalker | 134468 | [134468-satellawalker.json](./134468-satellawalker.json) |
 | SatellaWalker 2 | 134469 | [134469-satellawalker-2.json](./134469-satellawalker-2.json) |
@@ -2199,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save the Titanic | 22106 | [22106-save-the-titanic.json](./22106-save-the-titanic.json) |
 | Save The Toast! | 265183 | [265183-save-the-toast.json](./265183-save-the-toast.json) |
+| Save the Turtles | 67036 | [67036-save-the-turtles.json](./67036-save-the-turtles.json) |
 | Save the Unicorn | 174035 | [174035-save-the-unicorn.json](./174035-save-the-unicorn.json) |
 | Save the Universe, Please! | 32129 | [32129-save-the-universe-please.json](./32129-save-the-universe-please.json) |
 | Save the Vampire | 212508 | [212508-save-the-vampire.json](./212508-save-the-vampire.json) |
@@ -6323,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
 | Shadoworlds | 84205 | [84205-shadoworlds.json](./84205-shadoworlds.json) |
 | Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
+| ShadowPlay | 67109 | [67109-shadowplay.json](./67109-shadowplay.json) |
 | Shadowplay: Metropolis Foe | 125722 | [125722-shadowplay-metropolis-foe.json](./125722-shadowplay-metropolis-foe.json) |
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
@@ -9967,6 +9970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 23: Project Minerva Professional | 9712 | [9712-simple-2000-series-ultimate-vol-23-project-minerva-professional.json](./9712-simple-2000-series-ultimate-vol-23-project-minerva-professional.json) |
 | Simple 2000 Series Ultimate Vol. 24: Makai Tenshou | 203360 | [203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json](./203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json) |
 | Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King | 203361 | [203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json](./203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json) |
+| Simple 2000 Series Ultimate Vol. 29: K-1 Premium 2005 Dynamite!! | 67046 | [67046-simple-2000-series-ultimate-vol-29-k-1-premium-2005-dynamite.json](./67046-simple-2000-series-ultimate-vol-29-k-1-premium-2005-dynamite.json) |
 | Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
 | Simple 2000 Series Ultimate Vol. 5: Love * Mahjong | 203352 | [203352-simple-2000-series-ultimate-vol-5-love-mahjong.json](./203352-simple-2000-series-ultimate-vol-5-love-mahjong.json) |
 | Simple 2000 Series Ultimate Vol.19: Akagi - Yami ni Furitatta Tensai | 56958 | [56958-simple-2000-series-ultimate-vol-19-akagi-yami-ni-furitatta-tensai.json](./56958-simple-2000-series-ultimate-vol-19-akagi-yami-ni-furitatta-tensai.json) |
@@ -11563,6 +11567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyborne Chronicles | 371007 | [371007-skyborne-chronicles.json](./371007-skyborne-chronicles.json) |
 | Skyborne Terrors | 383711 | [383711-skyborne-terrors.json](./383711-skyborne-terrors.json) |
 | Skybound | 381387 | [381387-skybound.json](./381387-skybound.json) |
+| Skybound | 67020 | [67020-skybound.json](./67020-skybound.json) |
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
 | Skybound Saga | 352236 | [352236-skybound-saga.json](./352236-skybound-saga.json) |
 | Skybound: Card Survival | 286692 | [286692-skybound-card-survival.json](./286692-skybound-card-survival.json) |
@@ -26766,6 +26771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku 4 Kids | 245580 | [245580-sudoku-4-kids.json](./245580-sudoku-4-kids.json) |
 | Sudoku 4ever Plus | 71199 | [71199-sudoku-4ever-plus.json](./71199-sudoku-4ever-plus.json) |
 | Sudoku 4ever Plus | 71201 | [71201-sudoku-4ever-plus.json](./71201-sudoku-4ever-plus.json) |
+| Sudoku 4Pockets | 67011 | [67011-sudoku-4pockets.json](./67011-sudoku-4pockets.json) |
 | Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
 | Sudoku Addicted 2 | 365454 | [365454-sudoku-addicted-2.json](./365454-sudoku-addicted-2.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
@@ -31569,6 +31575,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzu to Mari no Bouken: The Ghost of Friend | 206176 | [206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json](./206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json) |
 | Suzukaze no Melt: Where Wishes are Drawn to Each Other | 78406 | [78406-suzukaze-no-melt-where-wishes-are-drawn-to-each-other.json](./78406-suzukaze-no-melt-where-wishes-are-drawn-to-each-other.json) |
 | Suzuki Bakuhatsu | 43852 | [43852-suzuki-bakuhatsu.json](./43852-suzuki-bakuhatsu.json) |
+| Suzuki Super-bikes II: Riding Challenge | 67038 | [67038-suzuki-super-bikes-ii-riding-challenge.json](./67038-suzuki-super-bikes-ii-riding-challenge.json) |
+| Suzuki TT Superbikes Real Road Racing Championship | 67042 | [67042-suzuki-tt-superbikes-real-road-racing-championship.json](./67042-suzuki-tt-superbikes-real-road-racing-championship.json) |
 | Suzuki TT Superbikes: Real Road Racing | 20211 | [20211-suzuki-tt-superbikes-real-road-racing.json](./20211-suzuki-tt-superbikes-real-road-racing.json) |
 | Suzukuri Dungeon: Karin in the Mountain | 153812 | [153812-suzukuri-dungeon-karin-in-the-mountain.json](./153812-suzukuri-dungeon-karin-in-the-mountain.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
