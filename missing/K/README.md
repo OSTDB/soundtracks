@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Hope | 373813 | [373813-kingdom-of-hope.json](./373813-kingdom-of-hope.json) |
 | Kingdom of Keogth: the Arena | 128161 | [128161-kingdom-of-keogth-the-arena.json](./128161-kingdom-of-keogth-the-arena.json) |
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
+| Kingdom of Kroz II | 70744 | [70744-kingdom-of-kroz-ii.json](./70744-kingdom-of-kroz-ii.json) |
 | Kingdom of Kuru: The Great Race | 149277 | [149277-kingdom-of-kuru-the-great-race.json](./149277-kingdom-of-kuru-the-great-race.json) |
 | Kingdom of Lies | 120102 | [120102-kingdom-of-lies.json](./120102-kingdom-of-lies.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
