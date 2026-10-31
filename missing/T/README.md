@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaptapTaptapTaptapTap | 66764 | [66764-taptaptaptaptaptaptap.json](./66764-taptaptaptaptaptaptap.json) |
 | Taptiles | 79856 | [79856-taptiles.json](./79856-taptiles.json) |
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
+| Tapularity | 101867 | [101867-tapularity.json](./101867-tapularity.json) |
 | Tapventures | 80359 | [80359-tapventures.json](./80359-tapventures.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Taqoban | 190987 | [190987-taqoban.json](./190987-taqoban.json) |
@@ -4753,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Puzzle Game Everyone Knows | 135023 | [135023-that-puzzle-game-everyone-knows.json](./135023-that-puzzle-game-everyone-knows.json) |
 | That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
 | That Really Boils My Piss | 187654 | [187654-that-really-boils-my-piss.json](./187654-that-really-boils-my-piss.json) |
+| That Red Button | 101873 | [101873-that-red-button.json](./101873-that-red-button.json) |
 | That Rhyme Game | 241544 | [241544-that-rhyme-game.json](./241544-that-rhyme-game.json) |
 | That Rocket Game | 244356 | [244356-that-rocket-game.json](./244356-that-rocket-game.json) |
 | That Role Playing | 190459 | [190459-that-role-playing.json](./190459-that-role-playing.json) |
@@ -12605,6 +12607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monastery of Mount Cinburron | 308388 | [308388-the-monastery-of-mount-cinburron.json](./308388-the-monastery-of-mount-cinburron.json) |
 | The Money Game | 48770 | [48770-the-money-game.json](./48770-the-money-game.json) |
+| The Money Makers | 101890 | [101890-the-money-makers.json](./101890-the-money-makers.json) |
 | The Money Man | 411544 | [411544-the-money-man.json](./411544-the-money-man.json) |
 | The MoneyMakers Rallye | 140433 | [140433-the-moneymakers-rallye.json](./140433-the-moneymakers-rallye.json) |
 | The Monitor Puzzle Kineko: Kinetic Connection | 41298 | [41298-the-monitor-puzzle-kineko-kinetic-connection.json](./41298-the-monitor-puzzle-kineko-kinetic-connection.json) |
@@ -23118,6 +23121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toofan AlAqsa | 289938 | [289938-toofan-alaqsa.json](./289938-toofan-alaqsa.json) |
 | Tooi Tooi, Yakusoku: Tune of Memories | 299991 | [299991-tooi-tooi-yakusoku-tune-of-memories.json](./299991-tooi-tooi-yakusoku-tune-of-memories.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
+| Tooka Laydee | 101902 | [101902-tooka-laydee.json](./101902-tooka-laydee.json) |
 | Tooki | 76409 | [76409-tooki.json](./76409-tooki.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
@@ -27102,6 +27106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TransPlan | 13663 | [13663-transplan.json](./13663-transplan.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
+| Transport Defender | 101912 | [101912-transport-defender.json](./101912-transport-defender.json) |
 | Transport Defender | 65828 | [65828-transport-defender.json](./65828-transport-defender.json) |
 | Transport Empire | 19524 | [19524-transport-empire.json](./19524-transport-empire.json) |
 | Transport Fever | 18727 | [18727-transport-fever.json](./18727-transport-fever.json) |
@@ -27472,6 +27477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
 | Treasure Cave | 176399 | [176399-treasure-cave.json](./176399-treasure-cave.json) |
+| Treasure Chamber! Idle Mining Adventure | 101870 | [101870-treasure-chamber-idle-mining-adventure.json](./101870-treasure-chamber-idle-mining-adventure.json) |
 | Treasure Chest Clicker | 250852 | [250852-treasure-chest-clicker.json](./250852-treasure-chest-clicker.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Clicker | 398041 | [398041-treasure-clicker.json](./398041-treasure-clicker.json) |
@@ -28433,6 +28439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Quest 2 | 257507 | [257507-trollface-quest-2.json](./257507-trollface-quest-2.json) |
 | Trollface Quest 3 | 257579 | [257579-trollface-quest-3.json](./257579-trollface-quest-3.json) |
 | Trollface Quest 5 | 257771 | [257771-trollface-quest-5.json](./257771-trollface-quest-5.json) |
+| TrollFace Quest: Horror 3 | 101907 | [101907-trollface-quest-horror-3.json](./101907-trollface-quest-horror-3.json) |
 | Trollface Quest: Internet Memes | 257812 | [257812-trollface-quest-internet-memes.json](./257812-trollface-quest-internet-memes.json) |
 | Trollface Quest: Sports | 257799 | [257799-trollface-quest-sports.json](./257799-trollface-quest-sports.json) |
 | Trollface Quest: Sports | 257810 | [257810-trollface-quest-sports.json](./257810-trollface-quest-sports.json) |
