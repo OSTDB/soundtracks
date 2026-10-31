@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island: Riptide - Complete Edition | 99809 | [99809-dead-island-riptide-complete-edition.json](./99809-dead-island-riptide-complete-edition.json) |
 | Dead Island: Riptide - Definitive Edition | 24311 | [24311-dead-island-riptide-definitive-edition.json](./24311-dead-island-riptide-definitive-edition.json) |
 | Dead Island: Ryder White | 22874 | [22874-dead-island-ryder-white.json](./22874-dead-island-ryder-white.json) |
+| Dead Island: Survivors | 104961 | [104961-dead-island-survivors.json](./104961-dead-island-survivors.json) |
 | Dead Knight | 87859 | [87859-dead-knight.json](./87859-dead-knight.json) |
 | Dead Knight: Pocket Edition | 87858 | [87858-dead-knight-pocket-edition.json](./87858-dead-knight-pocket-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
@@ -6857,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Warriors | 28031 | [28031-destiny-warriors.json](./28031-destiny-warriors.json) |
 | Destiny Worlds | 388909 | [388909-destiny-worlds.json](./388909-destiny-worlds.json) |
 | Destiny: Digital Guardian Edition | 147720 | [147720-destiny-digital-guardian-edition.json](./147720-destiny-digital-guardian-edition.json) |
+| Destiny: Guardians | 104962 | [104962-destiny-guardians.json](./104962-destiny-guardians.json) |
 | Destiny: Limited Edition | 147699 | [147699-destiny-limited-edition.json](./147699-destiny-limited-edition.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
@@ -9871,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
 | Diver Dash | 241872 | [241872-diver-dash.json](./241872-diver-dash.json) |
 | Diver Dogs | 252323 | [252323-diver-dogs.json](./252323-diver-dogs.json) |
+| Diver Down | 104988 | [104988-diver-down.json](./104988-diver-down.json) |
 | Diver Down | 334030 | [334030-diver-down.json](./334030-diver-down.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
@@ -13016,6 +13019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Basketball 2024 | 290853 | [290853-draft-day-sports-college-basketball-2024.json](./290853-draft-day-sports-college-basketball-2024.json) |
 | Draft Day Sports: College Basketball 2025 | 336058 | [336058-draft-day-sports-college-basketball-2025.json](./336058-draft-day-sports-college-basketball-2025.json) |
 | Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
+| Draft Day Sports: College Football 2018 | 104947 | [104947-draft-day-sports-college-football-2018.json](./104947-draft-day-sports-college-football-2018.json) |
 | Draft Day Sports: College Football 2020 | 128974 | [128974-draft-day-sports-college-football-2020.json](./128974-draft-day-sports-college-football-2020.json) |
 | Draft Day Sports: College Football 2021 | 137267 | [137267-draft-day-sports-college-football-2021.json](./137267-draft-day-sports-college-football-2021.json) |
 | Draft Day Sports: College Football 2022 | 191527 | [191527-draft-day-sports-college-football-2022.json](./191527-draft-day-sports-college-football-2022.json) |
