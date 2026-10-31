@@ -10763,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
 | Mimi-Chan's Ballistic Adventure | 134851 | [134851-mimi-chans-ballistic-adventure.json](./134851-mimi-chans-ballistic-adventure.json) |
+| Mimi's Delivery Dash | 96417 | [96417-mimis-delivery-dash.json](./96417-mimis-delivery-dash.json) |
 | Mimi's Party Fun | 209222 | [209222-mimis-party-fun.json](./209222-mimis-party-fun.json) |
 | Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
 | Mimic | 268062 | [268062-mimic.json](./268062-mimic.json) |
