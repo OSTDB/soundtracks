@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids: Farm Coloring | 147783 | [147783-kids-farm-coloring.json](./147783-kids-farm-coloring.json) |
 | Kids: Farm Puzzle | 154590 | [154590-kids-farm-puzzle.json](./154590-kids-farm-puzzle.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
+| Kids' Puzzles | 103746 | [103746-kids-puzzles.json](./103746-kids-puzzles.json) |
 | Kids' WB Turkey Day Food Fling | 313270 | [313270-kids-wb-turkey-day-food-fling.json](./313270-kids-wb-turkey-day-food-fling.json) |
 | Kids' World History: Which Side Are You On!? | 420671 | [420671-kids-world-history-which-side-are-you-on.json](./420671-kids-world-history-which-side-are-you-on.json) |
 | Kidsongs: Musical Mystery | 197865 | [197865-kidsongs-musical-mystery.json](./197865-kidsongs-musical-mystery.json) |
@@ -2556,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
