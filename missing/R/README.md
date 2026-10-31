@@ -8643,8 +8643,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Raid | 13751 | [13751-rocket-raid.json](./13751-rocket-raid.json) |
 | Rocket Ranger: Emulated Amiga Edition | 154944 | [154944-rocket-ranger-emulated-amiga-edition.json](./154944-rocket-ranger-emulated-amiga-edition.json) |
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
+| Rocket Riot 3D | 106261 | [106261-rocket-riot-3d.json](./106261-rocket-riot-3d.json) |
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
 | Rocket Road | 233528 | [233528-rocket-road.json](./233528-rocket-road.json) |
+| Rocket Robber | 106218 | [106218-rocket-robber.json](./106218-rocket-robber.json) |
 | Rocket Roger | 40960 | [40960-rocket-roger.json](./40960-rocket-roger.json) |
 | Rocket Royale | 208961 | [208961-rocket-royale.json](./208961-rocket-royale.json) |
 | Rocket Rumble | 144974 | [144974-rocket-rumble.json](./144974-rocket-rumble.json) |
