@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Lagoona 3: Frauds, Forgeries, and Fishsticks | 155368 | [155368-tales-of-lagoona-3-frauds-forgeries-and-fishsticks.json](./155368-tales-of-lagoona-3-frauds-forgeries-and-fishsticks.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Landor | 143450 | [143450-tales-of-landor.json](./143450-tales-of-landor.json) |
+| Tales of Lazo | 121186 | [121186-tales-of-lazo.json](./121186-tales-of-lazo.json) |
 | Tales of Legendary Lust: Aphrodisia | 392890 | [392890-tales-of-legendary-lust-aphrodisia.json](./392890-tales-of-legendary-lust-aphrodisia.json) |
 | Tales of Legends | 90492 | [90492-tales-of-legends.json](./90492-tales-of-legends.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
@@ -7725,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drift Challenge | 167570 | [167570-the-drift-challenge.json](./167570-the-drift-challenge.json) |
 | The Drifter | 126870 | [126870-the-drifter.json](./126870-the-drifter.json) |
 | The Drifting Woods | 149705 | [149705-the-drifting-woods.json](./149705-the-drifting-woods.json) |
+| The Driver's Mission | 121195 | [121195-the-drivers-mission.json](./121195-the-drivers-mission.json) |
 | The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
@@ -9210,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Ball: Deluxe Edition | 53741 | [53741-the-grand-ball-deluxe-edition.json](./53741-the-grand-ball-deluxe-edition.json) |
 | The Grand Book Archive: Tidy Up | 415246 | [415246-the-grand-book-archive-tidy-up.json](./415246-the-grand-book-archive-tidy-up.json) |
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
+| The Grand Heist | 121222 | [121222-the-grand-heist.json](./121222-the-grand-heist.json) |
 | The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
 | The Grand Mafia | 212519 | [212519-the-grand-mafia.json](./212519-the-grand-mafia.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
@@ -15437,6 +15440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Starlite Project | 273245 | [273245-the-starlite-project.json](./273245-the-starlite-project.json) |
 | The Stars Are Not Ready | 406505 | [406505-the-stars-are-not-ready.json](./406505-the-stars-are-not-ready.json) |
 | The Stars are Right | 391346 | [391346-the-stars-are-right.json](./391346-the-stars-are-right.json) |
+| The Stars Between Us | 121207 | [121207-the-stars-between-us.json](./121207-the-stars-between-us.json) |
 | The Stars Here Below | 228985 | [228985-the-stars-here-below.json](./228985-the-stars-here-below.json) |
 | The Stars Under Lockehurst | 318722 | [318722-the-stars-under-lockehurst.json](./318722-the-stars-under-lockehurst.json) |
 | The Stars We Lost To Grief | 271250 | [271250-the-stars-we-lost-to-grief.json](./271250-the-stars-we-lost-to-grief.json) |
