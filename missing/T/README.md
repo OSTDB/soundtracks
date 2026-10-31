@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
+| Thanksgiving Day Mosaic | 104343 | [104343-thanksgiving-day-mosaic.json](./104343-thanksgiving-day-mosaic.json) |
 | Thanksgivingistry | 55656 | [55656-thanksgivingistry.json](./55656-thanksgivingistry.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
 | ThanksTaking | 211534 | [211534-thankstaking.json](./211534-thankstaking.json) |
@@ -6502,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Challenge | 32235 | [32235-the-challenge.json](./32235-the-challenge.json) |
 | The Challenge of Nexar | 11149 | [11149-the-challenge-of-nexar.json](./11149-the-challenge-of-nexar.json) |
 | The Challengers | 94624 | [94624-the-challengers.json](./94624-the-challengers.json) |
+| The Chambers | 104357 | [104357-the-chambers.json](./104357-the-chambers.json) |
 | The Chameleon | 142126 | [142126-the-chameleon.json](./142126-the-chameleon.json) |
 | The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
@@ -13084,6 +13086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
 | The Official Father Christmas | 71350 | [71350-the-official-father-christmas.json](./71350-the-official-father-christmas.json) |
+| The Official GamingTaylor Game, Great Job! | 104346 | [104346-the-official-gamingtaylor-game-great-job.json](./104346-the-official-gamingtaylor-game-great-job.json) |
 | The OG Cake Factory | 274919 | [274919-the-og-cake-factory.json](./274919-the-og-cake-factory.json) |
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
@@ -28468,6 +28471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trooops! | 403325 | [403325-trooops.json](./403325-trooops.json) |
 | Trooper | 277692 | [277692-trooper.json](./277692-trooper.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
+| Trooper 2: Alien Justice | 104358 | [104358-trooper-2-alien-justice.json](./104358-trooper-2-alien-justice.json) |
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
 | Troopers | 264498 | [264498-troopers.json](./264498-troopers.json) |
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
@@ -30132,6 +30136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
 | Twisty Tiles | 100637 | [100637-twisty-tiles.json](./100637-twisty-tiles.json) |
 | Twisty Tracks | 73999 | [73999-twisty-tracks.json](./73999-twisty-tracks.json) |
+| Twisty Tube | 104387 | [104387-twisty-tube.json](./104387-twisty-tube.json) |
 | Twisty Twins | 244111 | [244111-twisty-twins.json](./244111-twisty-twins.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
 | Twitch Dates Pokemon | 246577 | [246577-twitch-dates-pokemon.json](./246577-twitch-dates-pokemon.json) |
