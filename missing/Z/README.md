@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Attack | 172551 | [172551-zombie-attack.json](./172551-zombie-attack.json) |
 | Zombie Attack Girls | 221816 | [221816-zombie-attack-girls.json](./221816-zombie-attack-girls.json) |
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
+| Zombie Attack Shooter | 98744 | [98744-zombie-attack-shooter.json](./98744-zombie-attack-shooter.json) |
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
 | Zombie Attack! | 343582 | [343582-zombie-attack.json](./343582-zombie-attack.json) |
 | Zombie Avenger | 233461 | [233461-zombie-avenger.json](./233461-zombie-avenger.json) |
@@ -1398,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
 | Zombie Colony | 287680 | [287680-zombie-colony.json](./287680-zombie-colony.json) |
 | Zombie Combat Shooting | 103136 | [103136-zombie-combat-shooting.json](./103136-zombie-combat-shooting.json) |
+| Zombie Commander | 98710 | [98710-zombie-commander.json](./98710-zombie-commander.json) |
 | Zombie Conspiracy: Shooter | 174750 | [174750-zombie-conspiracy-shooter.json](./174750-zombie-conspiracy-shooter.json) |
 | Zombie Cookin' | 350764 | [350764-zombie-cookin.json](./350764-zombie-cookin.json) |
 | Zombie Craft | 189916 | [189916-zombie-craft.json](./189916-zombie-craft.json) |
