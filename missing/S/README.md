@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S&T: Medieval Wars | 239107 | [239107-s-and-t-medieval-wars.json](./239107-s-and-t-medieval-wars.json) |
 | S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
+| S0urce.io | 108129 | [108129-s0urce-io.json](./108129-s0urce-io.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
 | S2: Silent Storm - Gold Edition | 51870 | [51870-s2-silent-storm-gold-edition.json](./51870-s2-silent-storm-gold-edition.json) |
 | S4 League | 51310 | [51310-s4-league.json](./51310-s4-league.json) |
@@ -17657,6 +17658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -17843,6 +17845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Merchants: Arena | 30799 | [30799-space-merchants-arena.json](./30799-space-merchants-arena.json) |
 | Space Mergers | 289348 | [289348-space-mergers.json](./289348-space-mergers.json) |
+| Space Milkman: Tsuneo wa Uchuu no Gyuunyuuya-san | 108133 | [108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json](./108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner Blast | 120662 | [120662-space-miner-blast.json](./120662-space-miner-blast.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
@@ -20628,6 +20631,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Dogs: Ultimate Multiplayer Battle Royale | 294371 | [294371-spring-dogs-ultimate-multiplayer-battle-royale.json](./294371-spring-dogs-ultimate-multiplayer-battle-royale.json) |
 | Spring Escape | 337000 | [337000-spring-escape.json](./337000-spring-escape.json) |
 | Spring Falls | 122845 | [122845-spring-falls.json](./122845-spring-falls.json) |
+| Spring Flower | 108152 | [108152-spring-flower.json](./108152-spring-flower.json) |
+| Spring Flower: Mezameta Omoi | 108151 | [108151-spring-flower-mezameta-omoi.json](./108151-spring-flower-mezameta-omoi.json) |
 | Spring Fowler | 252932 | [252932-spring-fowler.json](./252932-spring-fowler.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
@@ -26301,6 +26306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Builder | 370450 | [370450-subway-builder.json](./370450-subway-builder.json) |
 | Subway Clash 2 | 146715 | [146715-subway-clash-2.json](./146715-subway-clash-2.json) |
 | Subway Driver Dream Emulator | 336117 | [336117-subway-driver-dream-emulator.json](./336117-subway-driver-dream-emulator.json) |
+| Subway Driving Sim | 108105 | [108105-subway-driving-sim.json](./108105-subway-driving-sim.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Subway Invasion | 353969 | [353969-subway-invasion.json](./353969-subway-invasion.json) |
 | Subway Ladybug and Cat Noir | 100802 | [100802-subway-ladybug-and-cat-noir.json](./100802-subway-ladybug-and-cat-noir.json) |
