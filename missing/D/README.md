@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Crossway Zompell Survival Zombie | 298441 | [298441-dead-crossway-zompell-survival-zombie.json](./298441-dead-crossway-zompell-survival-zombie.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
+| Dead Cyborg | 62929 | [62929-dead-cyborg.json](./62929-dead-cyborg.json) |
 | Dead Dating | 178200 | [178200-dead-dating.json](./178200-dead-dating.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead Daylight | 330916 | [330916-dead-daylight.json](./330916-dead-daylight.json) |
@@ -4065,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Code | 195950 | [195950-death-code.json](./195950-death-code.json) |
 | Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
 | Death Coming | 77550 | [77550-death-coming.json](./77550-death-coming.json) |
+| Death Connection | 62948 | [62948-death-connection.json](./62948-death-connection.json) |
 | Death Connection Portable | 203266 | [203266-death-connection-portable.json](./203266-death-connection-portable.json) |
 | Death Corp | 218583 | [218583-death-corp.json](./218583-death-corp.json) |
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
@@ -8113,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
 | Die, Zombie Sausage, Die! | 367151 | [367151-die-zombie-sausage-die.json](./367151-die-zombie-sausage-die.json) |
+| Die!Die!Die! | 62945 | [62945-die-die-die.json](./62945-die-die-die.json) |
 | Die. Respawn. Repeat. | 368468 | [368468-die-respawn-repeat.json](./368468-die-respawn-repeat.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
 | Diebrary | 244734 | [244734-diebrary.json](./244734-diebrary.json) |
@@ -9246,6 +9249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Liberation - Paths to Madness | 194259 | [194259-disciples-liberation-paths-to-madness.json](./194259-disciples-liberation-paths-to-madness.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Discipline: Teikoku no Tanjou | 71884 | [71884-discipline-teikoku-no-tanjou.json](./71884-discipline-teikoku-no-tanjou.json) |
+| Discman: The Legend of Danny Crask | 62928 | [62928-discman-the-legend-of-danny-crask.json](./62928-discman-the-legend-of-danny-crask.json) |
 | Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
 | Disco Ball | 149159 | [149159-disco-ball.json](./149159-disco-ball.json) |
 | Disco Bear | 102064 | [102064-disco-bear.json](./102064-disco-bear.json) |
@@ -12193,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorway 2 | 360703 | [360703-doorway-2.json](./360703-doorway-2.json) |
 | Doorway to Nightmares: Terrifying Tales | 420683 | [420683-doorway-to-nightmares-terrifying-tales.json](./420683-doorway-to-nightmares-terrifying-tales.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
+| Doorways | 62930 | [62930-doorways.json](./62930-doorways.json) |
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
 | Doorways: Prelude | 16640 | [16640-doorways-prelude.json](./16640-doorways-prelude.json) |
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
@@ -12630,6 +12635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Romance | 172424 | [172424-double-romance.json](./172424-double-romance.json) |
+| Double S.T.E.A.L.: The Second Clash | 63028 | [63028-double-s-t-e-a-l-the-second-clash.json](./63028-double-s-t-e-a-l-the-second-clash.json) |
 | Double Sequence: The Q-Virus Invasion | 47884 | [47884-double-sequence-the-q-virus-invasion.json](./47884-double-sequence-the-q-virus-invasion.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
