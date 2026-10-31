@@ -10557,6 +10557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miles Edgeworth: Ace Attorney 2 - Trial by Fire | 303032 | [303032-miles-edgeworth-ace-attorney-2-trial-by-fire.json](./303032-miles-edgeworth-ace-attorney-2-trial-by-fire.json) |
 | Miles From Tomorrowland: Missions | 249365 | [249365-miles-from-tomorrowland-missions.json](./249365-miles-from-tomorrowland-missions.json) |
 | Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
+| Milestone Shooting Collection 2 | 85784 | [85784-milestone-shooting-collection-2.json](./85784-milestone-shooting-collection-2.json) |
 | MILF | 334765 | [334765-milf.json](./334765-milf.json) |
 | Milf City | 169622 | [169622-milf-city.json](./169622-milf-city.json) |
 | Milf Collection | 367165 | [367165-milf-collection.json](./367165-milf-collection.json) |
@@ -15838,6 +15839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moscow to Berlin: Red Siege | 20541 | [20541-moscow-to-berlin-red-siege.json](./20541-moscow-to-berlin-red-siege.json) |
 | Mose Three Kingdoms | 120060 | [120060-mose-three-kingdoms.json](./120060-mose-three-kingdoms.json) |
 | Moses & Plato: Last Train to Clawville | 283084 | [283084-moses-and-plato-last-train-to-clawville.json](./283084-moses-and-plato-last-train-to-clawville.json) |
+| Moses Matchup | 85802 | [85802-moses-matchup.json](./85802-moses-matchup.json) |
 | Moses Prince of Egypt | 43783 | [43783-moses-prince-of-egypt.json](./43783-moses-prince-of-egypt.json) |
 | Moses: From Egypt to the Promised Land | 216595 | [216595-moses-from-egypt-to-the-promised-land.json](./216595-moses-from-egypt-to-the-promised-land.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
