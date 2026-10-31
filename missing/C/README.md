@@ -7631,7 +7631,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Puzzle: History Path | 406554 | [406554-chronicles-puzzle-history-path.json](./406554-chronicles-puzzle-history-path.json) |
 | Chronicles Reborn | 389377 | [389377-chronicles-reborn.json](./389377-chronicles-reborn.json) |
 | Chronicles: Medieval | 347635 | [347635-chronicles-medieval.json](./347635-chronicles-medieval.json) |
-| Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chronicon Apocalyptica | 114302 | [114302-chronicon-apocalyptica.json](./114302-chronicon-apocalyptica.json) |
 | Chronicon Complete | 242676 | [242676-chronicon-complete.json](./242676-chronicon-complete.json) |
 | Chronicon: Ancient Beasts | 193139 | [193139-chronicon-ancient-beasts.json](./193139-chronicon-ancient-beasts.json) |
@@ -10330,7 +10329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
 | Coffee Crawl | 90311 | [90311-coffee-crawl.json](./90311-coffee-crawl.json) |
-| Coffee Crisis | 56697 | [56697-coffee-crisis.json](./56697-coffee-crisis.json) |
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
@@ -15075,6 +15073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Pirates 3D | 282481 | [282481-crazy-chicken-pirates-3d.json](./282481-crazy-chicken-pirates-3d.json) |
 | Crazy Chicken Quest | 144595 | [144595-crazy-chicken-quest.json](./144595-crazy-chicken-quest.json) |
 | Crazy Chicken Remake | 47019 | [47019-crazy-chicken-remake.json](./47019-crazy-chicken-remake.json) |
+| Crazy Chicken Soccer | 69065 | [69065-crazy-chicken-soccer.json](./69065-crazy-chicken-soccer.json) |
 | Crazy Chicken Strikes Back | 83239 | [83239-crazy-chicken-strikes-back.json](./83239-crazy-chicken-strikes-back.json) |
 | Crazy Chicken X | 78882 | [78882-crazy-chicken-x.json](./78882-crazy-chicken-x.json) |
 | Crazy Chicken Xtreme | 198390 | [198390-crazy-chicken-xtreme.json](./198390-crazy-chicken-xtreme.json) |
