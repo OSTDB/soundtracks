@@ -1982,7 +1982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
 | Unhinged Pet Store Simulator | 349457 | [349457-unhinged-pet-store-simulator.json](./349457-unhinged-pet-store-simulator.json) |
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
-| Unholy | 90213 | [90213-unholy.json](./90213-unholy.json) |
 | Unholy Adventure | 223888 | [223888-unholy-adventure.json](./223888-unholy-adventure.json) |
 | Unholy Adventure 2 | 295933 | [295933-unholy-adventure-2.json](./295933-unholy-adventure-2.json) |
 | Unholy Adventure: Mystery | 381711 | [381711-unholy-adventure-mystery.json](./381711-unholy-adventure-mystery.json) |
@@ -3156,7 +3155,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urthwurm | 100045 | [100045-urthwurm.json](./100045-urthwurm.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
-| Uru: Ages Beyond Myst | 50395 | [50395-uru-ages-beyond-myst.json](./50395-uru-ages-beyond-myst.json) |
 | URU: Complete Chronicles | 16202 | [16202-uru-complete-chronicles.json](./16202-uru-complete-chronicles.json) |
 | Urubu | 199464 | [199464-urubu.json](./199464-urubu.json) |
 | Uruc | 367358 | [367358-uruc.json](./367358-uruc.json) |
