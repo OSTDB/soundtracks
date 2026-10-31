@@ -8561,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grip on Reality: Endless Night | 238136 | [238136-grip-on-reality-endless-night.json](./238136-grip-on-reality-endless-night.json) |
 | Grip on Reality: The Jaguar | 232529 | [232529-grip-on-reality-the-jaguar.json](./232529-grip-on-reality-the-jaguar.json) |
 | Grip: Digital Deluxe | 118945 | [118945-grip-digital-deluxe.json](./118945-grip-digital-deluxe.json) |
+| Grip: Garage Bundle Pack | 116656 | [116656-grip-garage-bundle-pack.json](./116656-grip-garage-bundle-pack.json) |
 | Gripless: Drift Valley | 386885 | [386885-gripless-drift-valley.json](./386885-gripless-drift-valley.json) |
 | Gripper | 130776 | [130776-gripper.json](./130776-gripper.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
