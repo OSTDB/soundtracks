@@ -821,6 +821,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Peak | 389068 | [389068-sakura-peak.json](./389068-sakura-peak.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
+| Sakura Sakura | 69038 | [69038-sakura-sakura.json](./69038-sakura-sakura.json) |
+| Sakura Sakura | 69053 | [69053-sakura-sakura.json](./69053-sakura-sakura.json) |
 | Sakura Sakura: Haru Urara | 269524 | [269524-sakura-sakura-haru-urara.json](./269524-sakura-sakura-haru-urara.json) |
 | Sakura Sakura: Limited Edition | 212330 | [212330-sakura-sakura-limited-edition.json](./212330-sakura-sakura-limited-edition.json) |
 | Sakura Samurai: Art of the Sword | 20811 | [20811-sakura-samurai-art-of-the-sword.json](./20811-sakura-samurai-art-of-the-sword.json) |
@@ -17839,6 +17841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20407,6 +20410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 280432 | [280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants in Jellyfishin' | 242430 | [242430-spongebob-squarepants-in-jellyfishin.json](./242430-spongebob-squarepants-in-jellyfishin.json) |
 | SpongeBob SquarePants Obstacle Odyssey 2: Time Trouble | 165459 | [165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json](./165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json) |
+| SpongeBob SquarePants Saves the Day | 69062 | [69062-spongebob-squarepants-saves-the-day.json](./69062-spongebob-squarepants-saves-the-day.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Slider | 382845 | [382845-spongebob-squarepants-slider.json](./382845-spongebob-squarepants-slider.json) |
 | SpongeBob SquarePants Street Crime | 343173 | [343173-spongebob-squarepants-street-crime.json](./343173-spongebob-squarepants-street-crime.json) |
@@ -23513,7 +23517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
 | Staunch Defense | 175186 | [175186-staunch-defense.json](./175186-staunch-defense.json) |
 | Stax | 82334 | [82334-stax.json](./82334-stax.json) |
-| Staxel | 37294 | [37294-staxel.json](./37294-staxel.json) |
 | Staxter | 186167 | [186167-staxter.json](./186167-staxter.json) |
 | Stay | 261689 | [261689-stay.json](./261689-stay.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
@@ -28409,6 +28412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gridland | 197753 | [197753-super-gridland.json](./197753-super-gridland.json) |
 | Super Grower | 113325 | [113325-super-grower.json](./113325-super-grower.json) |
+| Super GT 24h | 69067 | [69067-super-gt-24h.json](./69067-super-gt-24h.json) |
 | Super GTR Racing | 97115 | [97115-super-gtr-racing.json](./97115-super-gtr-racing.json) |
 | Super Gunfight | 189354 | [189354-super-gunfight.json](./189354-super-gunfight.json) |
 | Super GunWorld 2 | 27300 | [27300-super-gunworld-2.json](./27300-super-gunworld-2.json) |
@@ -29343,6 +29347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Space Blaster Special Turbo | 125387 | [125387-super-mega-space-blaster-special-turbo.json](./125387-super-mega-space-blaster-special-turbo.json) |
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
 | Super Melee Adventure 64 | 194874 | [194874-super-melee-adventure-64.json](./194874-super-melee-adventure-64.json) |
+| Super Memory | 69009 | [69009-super-memory.json](./69009-super-memory.json) |
 | Super Meteor | 203604 | [203604-super-meteor.json](./203604-super-meteor.json) |
 | Super Methane Bros | 12785 | [12785-super-methane-bros.json](./12785-super-methane-bros.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
