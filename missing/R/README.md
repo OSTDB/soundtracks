@@ -6227,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhapsody: Marl Kingdom Chronicles – Limited Edition | 284208 | [284208-rhapsody-marl-kingdom-chronicles-limited-edition.json](./284208-rhapsody-marl-kingdom-chronicles-limited-edition.json) |
 | Rhea of the Remnant | 392718 | [392718-rhea-of-the-remnant.json](./392718-rhea-of-the-remnant.json) |
 | Rheinland | 303997 | [303997-rheinland.json](./303997-rheinland.json) |
+| Rheksetor: Waves of Fury | 81807 | [81807-rheksetor-waves-of-fury.json](./81807-rheksetor-waves-of-fury.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
