@@ -17763,18 +17763,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Brainwashington Cadavers | 227389 | [227389-mutant-football-league-brainwashington-cadavers.json](./227389-mutant-football-league-brainwashington-cadavers.json) |
 | Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
+| Mutant Football League: Demonic Legion Pack | 116643 | [116643-mutant-football-league-demonic-legion-pack.json](./116643-mutant-football-league-demonic-legion-pack.json) |
 | Mutant Football League: Diami Krakens | 226704 | [226704-mutant-football-league-diami-krakens.json](./226704-mutant-football-league-diami-krakens.json) |
 | Mutant Football League: Diami Krakens | 227388 | [227388-mutant-football-league-diami-krakens.json](./227388-mutant-football-league-diami-krakens.json) |
 | Mutant Football League: Dynasty Edition | 104819 | [104819-mutant-football-league-dynasty-edition.json](./104819-mutant-football-league-dynasty-edition.json) |
 | Mutant Football League: Dynasty Edition - Purple Oil Pack | 154927 | [154927-mutant-football-league-dynasty-edition-purple-oil-pack.json](./154927-mutant-football-league-dynasty-edition-purple-oil-pack.json) |
 | Mutant Football League: Dynasty Edition DLC Pack | 118973 | [118973-mutant-football-league-dynasty-edition-dlc-pack.json](./118973-mutant-football-league-dynasty-edition-dlc-pack.json) |
+| Mutant Football League: Dynasty Game Mode | 116645 | [116645-mutant-football-league-dynasty-game-mode.json](./116645-mutant-football-league-dynasty-game-mode.json) |
 | Mutant Football League: Gnashville Lycans | 154929 | [154929-mutant-football-league-gnashville-lycans.json](./154929-mutant-football-league-gnashville-lycans.json) |
+| Mutant Football League: LA Power Pack | 116647 | [116647-mutant-football-league-la-power-pack.json](./116647-mutant-football-league-la-power-pack.json) |
 | Mutant Football League: LA Power Pack | 154926 | [154926-mutant-football-league-la-power-pack.json](./154926-mutant-football-league-la-power-pack.json) |
 | Mutant Football League: New Yuck Threats | 227393 | [227393-mutant-football-league-new-yuck-threats.json](./227393-mutant-football-league-new-yuck-threats.json) |
+| Mutant Football League: Purple Oil Pack | 116646 | [116646-mutant-football-league-purple-oil-pack.json](./116646-mutant-football-league-purple-oil-pack.json) |
 | Mutant Football League: Sin Fransicko Forty Nightmares | 154928 | [154928-mutant-football-league-sin-fransicko-forty-nightmares.json](./154928-mutant-football-league-sin-fransicko-forty-nightmares.json) |
 | Mutant Football League: Sinsonasty Mangles | 226695 | [226695-mutant-football-league-sinsonasty-mangles.json](./226695-mutant-football-league-sinsonasty-mangles.json) |
 | Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
 | Mutant Football League: Terror Bay Mutantneers | 154932 | [154932-mutant-football-league-terror-bay-mutantneers.json](./154932-mutant-football-league-terror-bay-mutantneers.json) |
+| Mutant Football League: Werewolf Rampage Pack | 116644 | [116644-mutant-football-league-werewolf-rampage-pack.json](./116644-mutant-football-league-werewolf-rampage-pack.json) |
 | Mutant Fridge Mayhem | 87211 | [87211-mutant-fridge-mayhem.json](./87211-mutant-fridge-mayhem.json) |
 | Mutant Frog | 270520 | [270520-mutant-frog.json](./270520-mutant-frog.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
@@ -19188,6 +19193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe: School Teacher | 139216 | [139216-my-universe-school-teacher.json](./139216-my-universe-school-teacher.json) |
 | My University | 118592 | [118592-my-university.json](./118592-my-university.json) |
 | My University Girlfriend | 192740 | [192740-my-university-girlfriend.json](./192740-my-university-girlfriend.json) |
+| My University Story | 116712 | [116712-my-university-story.json](./116712-my-university-story.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
 | My Valiant Purpose | 278384 | [278384-my-valiant-purpose.json](./278384-my-valiant-purpose.json) |
