@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jason et la Toison d'Or | 15086 | [15086-jason-et-la-toison-dor.json](./15086-jason-et-la-toison-dor.json) |
 | Jason Maxx | 349316 | [349316-jason-maxx.json](./349316-jason-maxx.json) |
 | Jason The Greek: The Ladies of Lemnos | 110237 | [110237-jason-the-greek-the-ladies-of-lemnos.json](./110237-jason-the-greek-the-ladies-of-lemnos.json) |
+| Jason vs Zombies | 88704 | [88704-jason-vs-zombies.json](./88704-jason-vs-zombies.json) |
 | Jason: Coming of Age | 344882 | [344882-jason-coming-of-age.json](./344882-jason-coming-of-age.json) |
 | Jason's Gem | 36916 | [36916-jasons-gem.json](./36916-jasons-gem.json) |
 | Jasper and the City of Lights | 211237 | [211237-jasper-and-the-city-of-lights.json](./211237-jasper-and-the-city-of-lights.json) |
