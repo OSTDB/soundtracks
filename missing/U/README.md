@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbridled: That Horse Game | 217136 | [217136-unbridled-that-horse-game.json](./217136-unbridled-that-horse-game.json) |
 | Unbroken | 298600 | [298600-unbroken.json](./298600-unbroken.json) |
 | Unbroken Valor | 413164 | [413164-unbroken-valor.json](./413164-unbroken-valor.json) |
+| Unbroken Warrior | 104366 | [104366-unbroken-warrior.json](./104366-unbroken-warrior.json) |
 | Unbuild | 150063 | [150063-unbuild.json](./150063-unbuild.json) |
 | Uncanny | 105432 | [105432-uncanny.json](./105432-uncanny.json) |
 | Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United Tactics | 41815 | [41815-united-tactics.json](./41815-united-tactics.json) |
 | United We Chess | 181635 | [181635-united-we-chess.json](./181635-united-we-chess.json) |
 | United2030 | 405779 | [405779-united2030.json](./405779-united2030.json) |
+| UniteStar | 104375 | [104375-unitestar.json](./104375-unitestar.json) |
 | Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unitres Dreams | 177154 | [177154-unitres-dreams.json](./177154-unitres-dreams.json) |
@@ -2884,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uphill Rush | 92114 | [92114-uphill-rush.json](./92114-uphill-rush.json) |
 | Uphill Rush 2 | 416937 | [416937-uphill-rush-2.json](./416937-uphill-rush-2.json) |
 | Uphill Rush New York | 108240 | [108240-uphill-rush-new-york.json](./108240-uphill-rush-new-york.json) |
+| Uphill Rush Racing | 104381 | [104381-uphill-rush-racing.json](./104381-uphill-rush-racing.json) |
 | Uphill Rush Water Park Racing | 231231 | [231231-uphill-rush-water-park-racing.json](./231231-uphill-rush-water-park-racing.json) |
 | Uphill Skiing | 43128 | [43128-uphill-skiing.json](./43128-uphill-skiing.json) |
 | Uphill Stunt Driver: Extreme Racing Simulator | 306535 | [306535-uphill-stunt-driver-extreme-racing-simulator.json](./306535-uphill-stunt-driver-extreme-racing-simulator.json) |
