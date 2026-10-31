@@ -9505,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Tales: Of Glass and Ink | 17141 | [17141-clockwork-tales-of-glass-and-ink.json](./17141-clockwork-tales-of-glass-and-ink.json) |
 | Clockworld: Aroll's Legacy | 195358 | [195358-clockworld-arolls-legacy.json](./195358-clockworld-arolls-legacy.json) |
 | Clodhoppers | 117586 | [117586-clodhoppers.json](./117586-clodhoppers.json) |
+| Clogged Up | 79033 | [79033-clogged-up.json](./79033-clogged-up.json) |
 | Clogwork | 416944 | [416944-clogwork.json](./416944-clogwork.json) |
 | Cloisterfuck | 271296 | [271296-cloisterfuck.json](./271296-cloisterfuck.json) |
 | Clomper | 249826 | [249826-clomper.json](./249826-clomper.json) |
@@ -10819,6 +10820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
 | Color Breakers 2 | 338877 | [338877-color-breakers-2.json](./338877-color-breakers-2.json) |
 | Color Bump 3D | 305840 | [305840-color-bump-3d.json](./305840-color-bump-3d.json) |
+| Color Buster | 79006 | [79006-color-buster.json](./79006-color-buster.json) |
 | Color by Number | 171229 | [171229-color-by-number.json](./171229-color-by-number.json) |
 | Color by Number - Modern Art | 102240 | [102240-color-by-number-modern-art.json](./102240-color-by-number-modern-art.json) |
 | Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
@@ -11980,6 +11982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Physics Simulator 2023 | 221137 | [221137-computer-physics-simulator-2023.json](./221137-computer-physics-simulator-2023.json) |
 | Computer Quarterback | 25128 | [25128-computer-quarterback.json](./25128-computer-quarterback.json) |
 | Computer Repair Shop | 256284 | [256284-computer-repair-shop.json](./256284-computer-repair-shop.json) |
+| Computer Scrabble | 79000 | [79000-computer-scrabble.json](./79000-computer-scrabble.json) |
 | Computer Scrabble De Luxe | 72281 | [72281-computer-scrabble-de-luxe.json](./72281-computer-scrabble-de-luxe.json) |
 | Computer Shrilow | 363679 | [363679-computer-shrilow.json](./363679-computer-shrilow.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
