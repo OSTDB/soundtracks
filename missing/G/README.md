@@ -7787,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravlist | 234279 | [234279-gravlist.json](./234279-gravlist.json) |
 | GravMetal | 335736 | [335736-gravmetal.json](./335736-gravmetal.json) |
 | GravNewton | 52249 | [52249-gravnewton.json](./52249-gravnewton.json) |
+| Gravortex | 94477 | [94477-gravortex.json](./94477-gravortex.json) |
 | GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
 | GravSheep | 90904 | [90904-gravsheep.json](./90904-gravsheep.json) |
 | GravShift | 337575 | [337575-gravshift.json](./337575-gravshift.json) |
