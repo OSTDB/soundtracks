@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takuyo Mix Box: First Anniversary | 268669 | [268669-takuyo-mix-box-first-anniversary.json](./268669-takuyo-mix-box-first-anniversary.json) |
 | TAL: Arctic | 104837 | [104837-tal-arctic.json](./104837-tal-arctic.json) |
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
+| TAL: Arctic 3 | 107516 | [107516-tal-arctic-3.json](./107516-tal-arctic-3.json) |
 | Tal: Arctic 5 | 234517 | [234517-tal-arctic-5.json](./234517-tal-arctic-5.json) |
 | TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
 | Talaka | 366585 | [366585-talaka.json](./366585-talaka.json) |
@@ -5254,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
 | The Amazing World of Gumball: Fellowship of the Things | 279435 | [279435-the-amazing-world-of-gumball-fellowship-of-the-things.json](./279435-the-amazing-world-of-gumball-fellowship-of-the-things.json) |
 | The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
+| The Amazonian Dread | 107532 | [107532-the-amazonian-dread.json](./107532-the-amazonian-dread.json) |
 | The Ambassador: Fractured Timelines | 128228 | [128228-the-ambassador-fractured-timelines.json](./128228-the-ambassador-fractured-timelines.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
@@ -12978,6 +12980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
 | The Ninja of the 4 Seasons | 195518 | [195518-the-ninja-of-the-4-seasons.json](./195518-the-ninja-of-the-4-seasons.json) |
+| The Ninja Path | 107536 | [107536-the-ninja-path.json](./107536-the-ninja-path.json) |
 | The Ninja Saviors: Return of the Warriors - Ninja Art Edition | 136154 | [136154-the-ninja-saviors-return-of-the-warriors-ninja-art-edition.json](./136154-the-ninja-saviors-return-of-the-warriors-ninja-art-edition.json) |
 | The Ninja Warriors | 5406 | [5406-the-ninja-warriors.json](./5406-the-ninja-warriors.json) |
 | The Ninji Saga Part 1: Birth of a Legend | 275328 | [275328-the-ninji-saga-part-1-birth-of-a-legend.json](./275328-the-ninji-saga-part-1-birth-of-a-legend.json) |
@@ -16486,6 +16489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The TV Show | 54891 | [54891-the-tv-show.json](./54891-the-tv-show.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
 | The Twenty One | 210894 | [210894-the-twenty-one.json](./210894-the-twenty-one.json) |
+| The Twiggles VR | 107508 | [107508-the-twiggles-vr.json](./107508-the-twiggles-vr.json) |
 | The Twilight of Infinity | 201443 | [201443-the-twilight-of-infinity.json](./201443-the-twilight-of-infinity.json) |
 | The Twilight of Infinity Episode 5: Flight into Yesterday - The Disappearance of Amelia Earhart | 220515 | [220515-the-twilight-of-infinity-episode-5-flight-into-yesterday-the-disappearance-of-amelia-earhart.json](./220515-the-twilight-of-infinity-episode-5-flight-into-yesterday-the-disappearance-of-amelia-earhart.json) |
 | The Twilight of Infinity: Episode 4 - Therefore I Am | 215724 | [215724-the-twilight-of-infinity-episode-4-therefore-i-am.json](./215724-the-twilight-of-infinity-episode-4-therefore-i-am.json) |
@@ -21554,6 +21558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TIS-100 | 22726 | [22726-tis-100.json](./22726-tis-100.json) |
 | TIS-100P | 197651 | [197651-tis-100p.json](./197651-tis-100p.json) |
 | Tisis | 407788 | [407788-tisis.json](./407788-tisis.json) |
+| Tiska Buska | 107485 | [107485-tiska-buska.json](./107485-tiska-buska.json) |
 | Tisnart Shapes | 93752 | [93752-tisnart-shapes.json](./93752-tisnart-shapes.json) |
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
@@ -28336,6 +28341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triwave | 111435 | [111435-triwave.json](./111435-triwave.json) |
 | Trix | 392817 | [392817-trix.json](./392817-trix.json) |
 | Trix and the Horny Tower | 367016 | [367016-trix-and-the-horny-tower.json](./367016-trix-and-the-horny-tower.json) |
+| Trix Game | 107543 | [107543-trix-game.json](./107543-trix-game.json) |
 | Trix: Witching World | 272233 | [272233-trix-witching-world.json](./272233-trix-witching-world.json) |
 | Trixology | 381231 | [381231-trixology.json](./381231-trixology.json) |
 | Triz: Sacred Geometry Puzzles | 223641 | [223641-triz-sacred-geometry-puzzles.json](./223641-triz-sacred-geometry-puzzles.json) |
@@ -30322,6 +30328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Defense | 105660 | [105660-type-defense.json](./105660-type-defense.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type Drivers | 373895 | [373895-type-drivers.json](./373895-type-drivers.json) |
+| Type Fighter | 107488 | [107488-type-fighter.json](./107488-type-fighter.json) |
 | Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
 | Type Her to Sleep | 366032 | [366032-type-her-to-sleep.json](./366032-type-her-to-sleep.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
