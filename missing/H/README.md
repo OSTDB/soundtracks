@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartreasure | 175945 | [175945-heartreasure.json](./175945-heartreasure.json) |
 | Heartreasure 2: Underground | 175946 | [175946-heartreasure-2-underground.json](./175946-heartreasure-2-underground.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
+| Hearts | 88690 | [88690-hearts.json](./88690-hearts.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
 | Hearts by Dodofox | 100334 | [100334-hearts-by-dodofox.json](./100334-hearts-by-dodofox.json) |
 | Hearts by Webfoot | 108286 | [108286-hearts-by-webfoot.json](./108286-hearts-by-webfoot.json) |
@@ -3169,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts War | 261952 | [261952-hearts-war.json](./261952-hearts-war.json) |
 | Hearts: Card Game | 143066 | [143066-hearts-card-game.json](./143066-hearts-card-game.json) |
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
+| Hearts! 2 | 88688 | [88688-hearts-2.json](./88688-hearts-2.json) |
 | Hearts++ | 88040 | [88040-hearts.json](./88040-hearts.json) |
 | Heartseers Grove | 389746 | [389746-heartseers-grove.json](./389746-heartseers-grove.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
@@ -6243,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
 | Hidden Epee | 248116 | [248116-hidden-epee.json](./248116-hidden-epee.json) |
 | Hidden Evidence | 345250 | [345250-hidden-evidence.json](./345250-hidden-evidence.json) |
+| Hidden Evidences | 88686 | [88686-hidden-evidences.json](./88686-hidden-evidences.json) |
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
 | Hidden Expedition: A King's Line | 187923 | [187923-hidden-expedition-a-kings-line.json](./187923-hidden-expedition-a-kings-line.json) |
 | Hidden Expedition: A King's Line - Collector's Edition | 170202 | [170202-hidden-expedition-a-kings-line-collectors-edition.json](./170202-hidden-expedition-a-kings-line-collectors-edition.json) |
@@ -8017,6 +8020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Rush | 146586 | [146586-holiday-rush.json](./146586-holiday-rush.json) |
 | Holiday Simulator : Wacky Sleigh Ride | 30070 | [30070-holiday-simulator-wacky-sleigh-ride.json](./30070-holiday-simulator-wacky-sleigh-ride.json) |
 | Holiday Solitaire Easter | 173070 | [173070-holiday-solitaire-easter.json](./173070-holiday-solitaire-easter.json) |
+| Holiday Solitaire. Easter Free | 88835 | [88835-holiday-solitaire-easter-free.json](./88835-holiday-solitaire-easter-free.json) |
 | Holiday Tapp Gingerbread Chase | 266141 | [266141-holiday-tapp-gingerbread-chase.json](./266141-holiday-tapp-gingerbread-chase.json) |
 | Holiday Time | 191086 | [191086-holiday-time.json](./191086-holiday-time.json) |
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
