@@ -15883,6 +15883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DubWars | 36348 | [36348-dubwars.json](./36348-dubwars.json) |
 | Dubz.hu | 416019 | [416019-dubz-hu.json](./416019-dubz-hu.json) |
 | Ducati Challenge | 118892 | [118892-ducati-challenge.json](./118892-ducati-challenge.json) |
+| Ducati Moto | 67746 | [67746-ducati-moto.json](./67746-ducati-moto.json) |
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
 | Ducati World: Racing Challenge | 45856 | [45856-ducati-world-racing-challenge.json](./45856-ducati-world-racing-challenge.json) |
 | Ducati: 90th Anniversary - The Official Videogame | 19804 | [19804-ducati-90th-anniversary-the-official-videogame.json](./19804-ducati-90th-anniversary-the-official-videogame.json) |
