@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Glee | 64779 | [64779-tap-tap-glee.json](./64779-tap-tap-glee.json) |
 | Tap Tap Goose | 413077 | [413077-tap-tap-goose.json](./413077-tap-tap-goose.json) |
 | Tap Tap Loot | 386351 | [386351-tap-tap-loot.json](./386351-tap-tap-loot.json) |
+| Tap Tap Movie | 74829 | [74829-tap-tap-movie.json](./74829-tap-tap-movie.json) |
 | Tap Tap Muppets | 64781 | [64781-tap-tap-muppets.json](./64781-tap-tap-muppets.json) |
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap Tap Reloaded | 280223 | [280223-tap-tap-reloaded.json](./280223-tap-tap-reloaded.json) |
@@ -2299,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
+| Target Acquired | 74808 | [74808-target-acquired.json](./74808-target-acquired.json) |
 | Target Dragon 2: Maze Runner | 410692 | [410692-target-dragon-2-maze-runner.json](./410692-target-dragon-2-maze-runner.json) |
 | Target Earth | 93087 | [93087-target-earth.json](./93087-target-earth.json) |
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
@@ -7688,6 +7690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dollar Game | 108216 | [108216-the-dollar-game.json](./108216-the-dollar-game.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
 | The Dolls | 32636 | [32636-the-dolls.json](./32636-the-dolls.json) |
+| The Dolls: Reborn | 74814 | [74814-the-dolls-reborn.json](./74814-the-dolls-reborn.json) |
 | The Dolphin's Pearl | 73630 | [73630-the-dolphins-pearl.json](./73630-the-dolphins-pearl.json) |
 | The Domovoi | 83318 | [83318-the-domovoi.json](./83318-the-domovoi.json) |
 | The Don't Do List | 398264 | [398264-the-dont-do-list.json](./398264-the-dont-do-list.json) |
@@ -9517,6 +9520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian of the Evil | 82674 | [82674-the-guardian-of-the-evil.json](./82674-the-guardian-of-the-evil.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
 | The Guardians of Peace | 166409 | [166409-the-guardians-of-peace.json](./166409-the-guardians-of-peace.json) |
+| The Guardians of The Multiverse | 74830 | [74830-the-guardians-of-the-multiverse.json](./74830-the-guardians-of-the-multiverse.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest | 18184 | [18184-the-guest.json](./18184-the-guest.json) |
 | The Guest | 258393 | [258393-the-guest.json](./258393-the-guest.json) |
@@ -10245,6 +10249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invention of "Q" | 383660 | [383660-the-invention-of-q.json](./383660-the-invention-of-q.json) |
 | The Inverse | 222662 | [222662-the-inverse.json](./222662-the-inverse.json) |
 | The Inverted Spire | 176914 | [176914-the-inverted-spire.json](./176914-the-inverted-spire.json) |
+| The Investigation | 74824 | [74824-the-investigation.json](./74824-the-investigation.json) |
 | The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
 | The InVincible Iron Ivy: Enter the Pretty, Pretty Princess | 270878 | [270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json](./270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json) |
 | The Invincible Iron Man: Flight Test | 278483 | [278483-the-invincible-iron-man-flight-test.json](./278483-the-invincible-iron-man-flight-test.json) |
