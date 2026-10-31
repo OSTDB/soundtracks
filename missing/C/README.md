@@ -9270,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Manga: Ginga Eiyuu Densetsu 2 | 259487 | [259487-click-manga-ginga-eiyuu-densetsu-2.json](./259487-click-manga-ginga-eiyuu-densetsu-2.json) |
 | Click Manga: Opera Za no Kaijin | 260111 | [260111-click-manga-opera-za-no-kaijin.json](./260111-click-manga-opera-za-no-kaijin.json) |
 | Click Me Harder | 365165 | [365165-click-me-harder.json](./365165-click-me-harder.json) |
+| Click Medic | 64064 | [64064-click-medic.json](./64064-click-medic.json) |
 | Click of Cthulhu | 175845 | [175845-click-of-cthulhu.json](./175845-click-of-cthulhu.json) |
 | Click On Cups Together | 309480 | [309480-click-on-cups-together.json](./309480-click-on-cups-together.json) |
 | Click on piña coladas together | 306023 | [306023-click-on-pina-coladas-together.json](./306023-click-on-pina-coladas-together.json) |
@@ -17550,6 +17551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubiverse | 108774 | [108774-cubiverse.json](./108774-cubiverse.json) |
 | Cubivore: Survival of the Fittest | 3865 | [3865-cubivore-survival-of-the-fittest.json](./3865-cubivore-survival-of-the-fittest.json) |
 | Cubix | 420185 | [420185-cubix.json](./420185-cubix.json) |
+| Cubix | 64063 | [64063-cubix.json](./64063-cubix.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cubix Robots for Everyone: Showdown | 3866 | [3866-cubix-robots-for-everyone-showdown.json](./3866-cubix-robots-for-everyone-showdown.json) |
