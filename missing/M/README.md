@@ -5748,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mazera | 94679 | [94679-mazera.json](./94679-mazera.json) |
 | Mazes | 312261 | [312261-mazes.json](./312261-mazes.json) |
+| Mazes & More | 104385 | [104385-mazes-and-more.json](./104385-mazes-and-more.json) |
 | Mazes and Labyrinths | 104728 | [104728-mazes-and-labyrinths.json](./104728-mazes-and-labyrinths.json) |
 | Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
@@ -8574,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
 | Merry Clickmas | 23683 | [23683-merry-clickmas.json](./23683-merry-clickmas.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
+| Merry Craft Exploration World | 104394 | [104394-merry-craft-exploration-world.json](./104394-merry-craft-exploration-world.json) |
 | Merry Crisis | 379855 | [379855-merry-crisis.json](./379855-merry-crisis.json) |
 | Merry Gear Solid: Secret Santa | 76129 | [76129-merry-gear-solid-secret-santa.json](./76129-merry-gear-solid-secret-santa.json) |
 | Merry Glade | 98698 | [98698-merry-glade.json](./98698-merry-glade.json) |
@@ -13833,6 +13835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
 | Monkey Quest | 19100 | [19100-monkey-quest.json](./19100-monkey-quest.json) |
 | Monkey Racing | 200276 | [200276-monkey-racing.json](./200276-monkey-racing.json) |
+| Monkey Run Adventure: Jungle Story - Banana World | 104351 | [104351-monkey-run-adventure-jungle-story-banana-world.json](./104351-monkey-run-adventure-jungle-story-banana-world.json) |
 | Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
 | Monkey Shines | 80849 | [80849-monkey-shines.json](./80849-monkey-shines.json) |
 | Monkey Shines 2: Gorilla Warfare | 397411 | [397411-monkey-shines-2-gorilla-warfare.json](./397411-monkey-shines-2-gorilla-warfare.json) |
@@ -17047,6 +17050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MU: Archangel | 214378 | [214378-mu-archangel.json](./214378-mu-archangel.json) |
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
+| Muay Thai Fighting | 104369 | [104369-muay-thai-fighting.json](./104369-muay-thai-fighting.json) |
 | Much Love, BJP | 59696 | [59696-much-love-bjp.json](./59696-much-love-bjp.json) |
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
