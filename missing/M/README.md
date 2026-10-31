@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Butter Together! | 120013 | [120013-make-butter-together.json](./120013-make-butter-together.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
+| Make Colors | 108724 | [108724-make-colors.json](./108724-make-colors.json) |
 | Make Dogs in Temple Jump 2020 | 257875 | [257875-make-dogs-in-temple-jump-2020.json](./257875-make-dogs-in-temple-jump-2020.json) |
 | Make Friends | 381118 | [381118-make-friends.json](./381118-make-friends.json) |
 | Make Haste! | 141771 | [141771-make-haste.json](./141771-make-haste.json) |
@@ -2892,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manny's Mechanical Emporium | 224679 | [224679-mannys-mechanical-emporium.json](./224679-mannys-mechanical-emporium.json) |
 | Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
 | Manny's Week | 103250 | [103250-mannys-week.json](./103250-mannys-week.json) |
+| Manoir | 108683 | [108683-manoir.json](./108683-manoir.json) |
 | Manoli: Aprendiz de Hechicera | 324141 | [324141-manoli-aprendiz-de-hechicera.json](./324141-manoli-aprendiz-de-hechicera.json) |
 | Manonnikki | 229698 | [229698-manonnikki.json](./229698-manonnikki.json) |
 | Manor Cafe | 105854 | [105854-manor-cafe.json](./105854-manor-cafe.json) |
@@ -5709,6 +5711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: Subject 360 HD | 95346 | [95346-maze-subject-360-hd.json](./95346-maze-subject-360-hd.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
+| Maze: The Broken Tower | 108693 | [108693-maze-the-broken-tower.json](./108693-maze-the-broken-tower.json) |
 | Maze: The Ritual | 182726 | [182726-maze-the-ritual.json](./182726-maze-the-ritual.json) |
 | Maze! | 279475 | [279475-maze.json](./279475-maze.json) |
 | Maze.io | 105807 | [105807-maze-io.json](./105807-maze-io.json) |
@@ -14163,6 +14166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Incursion | 169154 | [169154-monster-girl-incursion.json](./169154-monster-girl-incursion.json) |
 | Monster Girl Invasion | 193616 | [193616-monster-girl-invasion.json](./193616-monster-girl-invasion.json) |
 | Monster Girl Jungle | 375969 | [375969-monster-girl-jungle.json](./375969-monster-girl-jungle.json) |
+| Monster Girl Maker | 108697 | [108697-monster-girl-maker.json](./108697-monster-girl-maker.json) |
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
 | Monster Girl Manager | 190438 | [190438-monster-girl-manager.json](./190438-monster-girl-manager.json) |
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
@@ -15104,6 +15108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstone Resort | 421826 | [421826-moonstone-resort.json](./421826-moonstone-resort.json) |
 | Moonstone: A Hard Days Knight | 5507 | [5507-moonstone-a-hard-days-knight.json](./5507-moonstone-a-hard-days-knight.json) |
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
+| MoonStrike | 108725 | [108725-moonstrike.json](./108725-moonstrike.json) |
 | Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Moontide | 177955 | [177955-moontide.json](./177955-moontide.json) |
@@ -15255,25 +15260,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Cookies! | 105534 | [105534-more-cookies.json](./105534-more-cookies.json) |
 | More Dark | 124195 | [124195-more-dark.json](./124195-more-dark.json) |
 | More Dark Fables from Aesop | 254455 | [254455-more-dark-fables-from-aesop.json](./254455-more-dark-fables-from-aesop.json) |
+| More Donuts! by Maverick | 108714 | [108714-more-donuts-by-maverick.json](./108714-more-donuts-by-maverick.json) |
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
 | More Enemies | 217453 | [217453-more-enemies.json](./217453-more-enemies.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
+| More Grillin' | 108719 | [108719-more-grillin.json](./108719-more-grillin.json) |
 | More Holiday Dinner! | 256700 | [256700-more-holiday-dinner.json](./256700-more-holiday-dinner.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | More Lies | 322084 | [322084-more-lies.json](./322084-more-lies.json) |
 | More Life, Dead Interface | 402246 | [402246-more-life-dead-interface.json](./402246-more-life-dead-interface.json) |
 | More Love Yuri | 390036 | [390036-more-love-yuri.json](./390036-more-love-yuri.json) |
 | More Mobile Suit Gundam Extreme Vs. 2 | 99074 | [99074-more-mobile-suit-gundam-extreme-vs-2.json](./99074-more-mobile-suit-gundam-extreme-vs-2.json) |
+| More Noodles! | 108712 | [108712-more-noodles.json](./108712-more-noodles.json) |
 | More Objects Mod | 315011 | [315011-more-objects-mod.json](./315011-more-objects-mod.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
 | More Ore | 217493 | [217493-more-ore.json](./217493-more-ore.json) |
 | More Orke | 279490 | [279490-more-orke.json](./279490-more-orke.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
+| More Pie | 108717 | [108717-more-pie.json](./108717-more-pie.json) |
 | More Pizza! | 256698 | [256698-more-pizza.json](./256698-more-pizza.json) |
 | More Popcorn! | 256791 | [256791-more-popcorn.json](./256791-more-popcorn.json) |
 | More Salad! | 256699 | [256699-more-salad.json](./256699-more-salad.json) |
 | More Slots More Money | 421807 | [421807-more-slots-more-money.json](./421807-more-slots-more-money.json) |
+| More Soup! | 108709 | [108709-more-soup.json](./108709-more-soup.json) |
 | More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
 | More Super Mario "Bras." 2: Choose a Path! | 255599 | [255599-more-super-mario-bras-2-choose-a-path.json](./255599-more-super-mario-bras-2-choose-a-path.json) |
 | More Super Mario "Bras." Beginner's Edition DS | 255597 | [255597-more-super-mario-bras-beginners-edition-ds.json](./255597-more-super-mario-bras-beginners-edition-ds.json) |
@@ -17659,6 +17669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
 | Music Inc | 232906 | [232906-music-inc.json](./232906-music-inc.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
+| Music Kingdom | 108690 | [108690-music-kingdom.json](./108690-music-kingdom.json) |
 | Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
 | Music Man 2: New land | 259707 | [259707-music-man-2-new-land.json](./259707-music-man-2-new-land.json) |
 | Music Man 3: Last Dance | 295654 | [295654-music-man-3-last-dance.json](./295654-music-man-3-last-dance.json) |
