@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1905,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
 | Bang, Boom, Splat! | 266369 | [266369-bang-boom-splat.json](./266369-bang-boom-splat.json) |
 | Bang! | 110037 | [110037-bang.json](./110037-bang.json) |
+| Bang! Bang! | 70162 | [70162-bang-bang.json](./70162-bang-bang.json) |
 | Bang! Bang! Bandits | 376493 | [376493-bang-bang-bandits.json](./376493-bang-bang-bandits.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bang! Howdy | 51472 | [51472-bang-howdy.json](./51472-bang-howdy.json) |
@@ -3980,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlemon | 359514 | [359514-battlemon.json](./359514-battlemon.json) |
 | Battlemon League | 100933 | [100933-battlemon-league.json](./100933-battlemon-league.json) |
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
+| Battlemorph | 70194 | [70194-battlemorph.json](./70194-battlemorph.json) |
 | Battlenauts | 323727 | [323727-battlenauts.json](./323727-battlenauts.json) |
 | BattleOps | 224097 | [224097-battleops.json](./224097-battleops.json) |
 | BattlePaint | 388288 | [388288-battlepaint.json](./388288-battlepaint.json) |
@@ -13189,6 +13192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Box Quiz: Trivia Fun | 232471 | [232471-brain-box-quiz-trivia-fun.json](./232471-brain-box-quiz-trivia-fun.json) |
 | Brain Break | 141100 | [141100-brain-break.json](./141100-brain-break.json) |
 | Brain Breaker | 154870 | [154870-brain-breaker.json](./154870-brain-breaker.json) |
+| Brain Breaker | 70164 | [70164-brain-breaker.json](./70164-brain-breaker.json) |
 | Brain Builders, Science 3-4 | 103760 | [103760-brain-builders-science-3-4.json](./103760-brain-builders-science-3-4.json) |
 | Brain Buster: Puzzle Pak | 77799 | [77799-brain-buster-puzzle-pak.json](./77799-brain-buster-puzzle-pak.json) |
 | Brain Cell | 237206 | [237206-brain-cell.json](./237206-brain-cell.json) |
