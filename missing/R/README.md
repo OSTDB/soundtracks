@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RBL | 197641 | [197641-rbl.json](./197641-rbl.json) |
 | RBM Studio's Gettysburg | 260537 | [260537-rbm-studios-gettysburg.json](./260537-rbm-studios-gettysburg.json) |
 | RBM Studio's Waterloo | 383993 | [383993-rbm-studios-waterloo.json](./383993-rbm-studios-waterloo.json) |
+| RBR - Fading Memories | 68520 | [68520-rbr-fading-memories.json](./68520-rbr-fading-memories.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Boat Simulator | 103991 | [103991-rc-boat-simulator.json](./103991-rc-boat-simulator.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Simulation 2.0 | 34978 | [34978-rc-simulation-2-0.json](./34978-rc-simulation-2-0.json) |
 | RC Spy Drone 2018 | 102548 | [102548-rc-spy-drone-2018.json](./102548-rc-spy-drone-2018.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
+| RC-AirSim | 68521 | [68521-rc-airsim.json](./68521-rc-airsim.json) |
 | RC-AirSim - RC Model Airplane Flight Simulator | 31868 | [31868-rc-airsim-rc-model-airplane-flight-simulator.json](./31868-rc-airsim-rc-model-airplane-flight-simulator.json) |
 | RC: Car Maniacs | 311130 | [311130-rc-car-maniacs.json](./311130-rc-car-maniacs.json) |
 | RCPG | 220799 | [220799-rcpg.json](./220799-rcpg.json) |
@@ -4693,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rendezvous: Shadows of the Past | 199444 | [199444-rendezvous-shadows-of-the-past.json](./199444-rendezvous-shadows-of-the-past.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Rendition | 172498 | [172498-rendition.json](./172498-rendition.json) |
+| Rendition: Guantanamo | 68225 | [68225-rendition-guantanamo.json](./68225-rendition-guantanamo.json) |
 | Renditions of the Awakening | 130520 | [130520-renditions-of-the-awakening.json](./130520-renditions-of-the-awakening.json) |
 | Rendsword | 279566 | [279566-rendsword.json](./279566-rendsword.json) |
 | Renegade | 191644 | [191644-renegade.json](./191644-renegade.json) |
@@ -5896,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the 'Gator: Gold | 257393 | [257393-revenge-of-the-gator-gold.json](./257393-revenge-of-the-gator-gold.json) |
 | Revenge of the Antagonist | 290890 | [290890-revenge-of-the-antagonist.json](./290890-revenge-of-the-antagonist.json) |
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
+| Revenge of the Ball | 68523 | [68523-revenge-of-the-ball.json](./68523-revenge-of-the-ball.json) |
 | Revenge of the Balloon-Headed Mexican | 66514 | [66514-revenge-of-the-balloon-headed-mexican.json](./66514-revenge-of-the-balloon-headed-mexican.json) |
 | Revenge of the Beefsteak Tomatoes | 22760 | [22760-revenge-of-the-beefsteak-tomatoes.json](./22760-revenge-of-the-beefsteak-tomatoes.json) |
 | Revenge of the Bird King | 114048 | [114048-revenge-of-the-bird-king.json](./114048-revenge-of-the-bird-king.json) |
@@ -10181,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosaline | 343043 | [343043-rosaline.json](./343043-rosaline.json) |
 | Rosaluna: Moonlit Vengeance | 381182 | [381182-rosaluna-moonlit-vengeance.json](./381182-rosaluna-moonlit-vengeance.json) |
 | Rosario + Vampire | 331991 | [331991-rosario-vampire.json](./331991-rosario-vampire.json) |
+| Rosario + Vampire Capu 2: The Rhapsody of Love and Dreams | 68398 | [68398-rosario-vampire-capu-2-the-rhapsody-of-love-and-dreams.json](./68398-rosario-vampire-capu-2-the-rhapsody-of-love-and-dreams.json) |
 | Rosario + Vampire: Tanabata no Miss Yokai Gakuen | 58727 | [58727-rosario-vampire-tanabata-no-miss-yokai-gakuen.json](./58727-rosario-vampire-tanabata-no-miss-yokai-gakuen.json) |
 | Rosas are Red | 280777 | [280777-rosas-are-red.json](./280777-rosas-are-red.json) |
 | Roscosmas Landing | 162080 | [162080-roscosmas-landing.json](./162080-roscosmas-landing.json) |
