@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
 | Adventure Time Lemon Break | 381998 | [381998-adventure-time-lemon-break.json](./381998-adventure-time-lemon-break.json) |
 | Adventure Time Puzzle Quest | 19952 | [19952-adventure-time-puzzle-quest.json](./19952-adventure-time-puzzle-quest.json) |
+| Adventure Time Run: The Ooo Expedition | 109985 | [109985-adventure-time-run-the-ooo-expedition.json](./109985-adventure-time-run-the-ooo-expedition.json) |
 | Adventure Time: Battle Party | 20096 | [20096-adventure-time-battle-party.json](./20096-adventure-time-battle-party.json) |
 | Adventure Time: Blind Finned | 63658 | [63658-adventure-time-blind-finned.json](./63658-adventure-time-blind-finned.json) |
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
@@ -13053,6 +13054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Artesnaut | 419371 | [419371-artesnaut.json](./419371-artesnaut.json) |
+| Artful Escape | 109982 | [109982-artful-escape.json](./109982-artful-escape.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
 | Arthdal Chronicles | 194153 | [194153-arthdal-chronicles.json](./194153-arthdal-chronicles.json) |
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
@@ -16070,6 +16072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviary Attorney: Definitive Edition | 136443 | [136443-aviary-attorney-definitive-edition.json](./136443-aviary-attorney-definitive-edition.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Aviation Adventure | 128889 | [128889-aviation-adventure.json](./128889-aviation-adventure.json) |
+| Aviation Empire Platinum | 109980 | [109980-aviation-empire-platinum.json](./109980-aviation-empire-platinum.json) |
 | Aviation Hurricane Storm | 102227 | [102227-aviation-hurricane-storm.json](./102227-aviation-hurricane-storm.json) |
 | Aviation Manager | 215097 | [215097-aviation-manager.json](./215097-aviation-manager.json) |
 | Aviator | 13694 | [13694-aviator.json](./13694-aviator.json) |
