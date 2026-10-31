@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Us V | 327190 | [327190-feed-us-v.json](./327190-feed-us-v.json) |
 | Feed Us: Lost Island | 328295 | [328295-feed-us-lost-island.json](./328295-feed-us-lost-island.json) |
 | Feed Us: Pirates | 328293 | [328293-feed-us-pirates.json](./328293-feed-us-pirates.json) |
+| Feed Usagi For Sailor Moon | 95779 | [95779-feed-usagi-for-sailor-moon.json](./95779-feed-usagi-for-sailor-moon.json) |
 | Feed your cat | 334473 | [334473-feed-your-cat.json](./334473-feed-your-cat.json) |
 | Feed: Fish and Grow | 193856 | [193856-feed-fish-and-grow.json](./193856-feed-fish-and-grow.json) |
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
@@ -7531,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Free: Hexes | 96260 | [96260-flow-free-hexes.json](./96260-flow-free-hexes.json) |
 | Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
 | Flow Handcrafted | 75663 | [75663-flow-handcrafted.json](./75663-flow-handcrafted.json) |
+| Flow levels | 95755 | [95755-flow-levels.json](./95755-flow-levels.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
 | Flow Parkour | 260894 | [260894-flow-parkour.json](./260894-flow-parkour.json) |
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
