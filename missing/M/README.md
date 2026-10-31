@@ -3201,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
 | Marbles Rush | 153819 | [153819-marbles-rush.json](./153819-marbles-rush.json) |
 | Marbles Temple: Zuma Back! | 68916 | [68916-marbles-temple-zuma-back.json](./68916-marbles-temple-zuma-back.json) |
+| Marblesared | 68371 | [68371-marblesared.json](./68371-marblesared.json) |
 | Marbling Clear | 281248 | [281248-marbling-clear.json](./281248-marbling-clear.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marblob | 366343 | [366343-marblob.json](./366343-marblob.json) |
@@ -10064,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
 | Middle-earth: Shadow of War - Desolation of Mordor | 164812 | [164812-middle-earth-shadow-of-war-desolation-of-mordor.json](./164812-middle-earth-shadow-of-war-desolation-of-mordor.json) |
+| Middle-earth: Shadow of War - Forthog Orcslayer | 68381 | [68381-middle-earth-shadow-of-war-forthog-orcslayer.json](./68381-middle-earth-shadow-of-war-forthog-orcslayer.json) |
 | Middle-earth: Shadow of War - Mithril Edition | 36986 | [36986-middle-earth-shadow-of-war-mithril-edition.json](./36986-middle-earth-shadow-of-war-mithril-edition.json) |
 | Middle-earth: Shadow of War - Outlaw Tribe Nemesis | 164808 | [164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json](./164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json) |
 | Middle-earth: Shadow of War - Silver Edition | 53358 | [53358-middle-earth-shadow-of-war-silver-edition.json](./53358-middle-earth-shadow-of-war-silver-edition.json) |
@@ -18551,6 +18553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Farm | 84717 | [84717-my-farm.json](./84717-my-farm.json) |
 | My Farm | 85610 | [85610-my-farm.json](./85610-my-farm.json) |
 | My Farm 3D | 84714 | [84714-my-farm-3d.json](./84714-my-farm-3d.json) |
+| My Farm Around the World | 68400 | [68400-my-farm-around-the-world.json](./68400-my-farm-around-the-world.json) |
 | My Farm Life | 53391 | [53391-my-farm-life.json](./53391-my-farm-life.json) |
 | My Farm Life 2 | 54225 | [54225-my-farm-life-2.json](./54225-my-farm-life-2.json) |
 | My Father Lied | 258585 | [258585-my-father-lied.json](./258585-my-father-lied.json) |
