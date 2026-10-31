@@ -4975,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link PET_EXE: Ijuuin Enzan Version | 353190 | [353190-link-pet-exe-ijuuin-enzan-version.json](./353190-link-pet-exe-ijuuin-enzan-version.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
 | Link the Cubes | 204175 | [204175-link-the-cubes.json](./204175-link-the-cubes.json) |
+| Link the Dot | 113299 | [113299-link-the-dot.json](./113299-link-the-dot.json) |
 | Link Tower | 320810 | [320810-link-tower.json](./320810-link-tower.json) |
 | Link Track | 255012 | [255012-link-track.json](./255012-link-track.json) |
 | Link Twin | 29055 | [29055-link-twin.json](./29055-link-twin.json) |
@@ -7131,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Angel | 143466 | [143466-lost-angel.json](./143466-lost-angel.json) |
 | Lost Artifacts | 83182 | [83182-lost-artifacts.json](./83182-lost-artifacts.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
+| Lost Artifacts: Soulstone | 113320 | [113320-lost-artifacts-soulstone.json](./113320-lost-artifacts-soulstone.json) |
 | Lost Artifacts: The Ghost of Florence | 420583 | [420583-lost-artifacts-the-ghost-of-florence.json](./420583-lost-artifacts-the-ghost-of-florence.json) |
 | Lost Artifacts: The Ghost of Florence - Collector's Edition | 378352 | [378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json](./378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json) |
 | Lost Artifacts: Time Machine | 111226 | [111226-lost-artifacts-time-machine.json](./111226-lost-artifacts-time-machine.json) |
