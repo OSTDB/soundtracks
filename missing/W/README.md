@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbears Mission 02: Training Time | 237494 | [237494-warbears-mission-02-training-time.json](./237494-warbears-mission-02-training-time.json) |
 | Warbears Mission 03: An Oceanic Problem | 237499 | [237499-warbears-mission-03-an-oceanic-problem.json](./237499-warbears-mission-03-an-oceanic-problem.json) |
 | Warbears: Bedtime City | 237498 | [237498-warbears-bedtime-city.json](./237498-warbears-bedtime-city.json) |
+| Warbirds | 121927 | [121927-warbirds.json](./121927-warbirds.json) |
 | WarBirds 2012 | 53143 | [53143-warbirds-2012.json](./53143-warbirds-2012.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
