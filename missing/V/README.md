@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Disc Golf | 32338 | [32338-vr-disc-golf.json](./32338-vr-disc-golf.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
+| VR Drivers | 68512 | [68512-vr-drivers.json](./68512-vr-drivers.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
 | VR Drums Ultimate Streamer | 371218 | [371218-vr-drums-ultimate-streamer.json](./371218-vr-drums-ultimate-streamer.json) |
 | VR Dungeon | 30599 | [30599-vr-dungeon.json](./30599-vr-dungeon.json) |
