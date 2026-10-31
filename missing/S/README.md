@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SchoolBoy OutDoors | 410669 | [410669-schoolboy-outdoors.json](./410669-schoolboy-outdoors.json) |
 | Schoolboy SIM | 368463 | [368463-schoolboy-sim.json](./368463-schoolboy-sim.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
+| Schoolboys! Ayumi | 104935 | [104935-schoolboys-ayumi.json](./104935-schoolboys-ayumi.json) |
 | Schoolbreak.io | 148266 | [148266-schoolbreak-io.json](./148266-schoolbreak-io.json) |
 | SchoolGirl AI 3D Anime Sandbox | 296761 | [296761-schoolgirl-ai-3d-anime-sandbox.json](./296761-schoolgirl-ai-3d-anime-sandbox.json) |
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
@@ -11267,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky End Market | 333460 | [333460-sky-end-market.json](./333460-sky-end-market.json) |
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
+| Sky Falling Giant | 104978 | [104978-sky-falling-giant.json](./104978-sky-falling-giant.json) |
 | Sky Farm | 180940 | [180940-sky-farm.json](./180940-sky-farm.json) |
 | Sky Fields | 337770 | [337770-sky-fields.json](./337770-sky-fields.json) |
 | Sky Fields: Goober Gardens | 348708 | [348708-sky-fields-goober-gardens.json](./348708-sky-fields-goober-gardens.json) |
@@ -11702,6 +11704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamdunk VR | 99456 | [99456-slamdunk-vr.json](./99456-slamdunk-vr.json) |
 | Slamjet Stadium | 194187 | [194187-slamjet-stadium.json](./194187-slamjet-stadium.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
+| Slamoids! | 105016 | [105016-slamoids.json](./105016-slamoids.json) |
 | Slampunks | 360759 | [360759-slampunks.json](./360759-slampunks.json) |
 | Slams City. Hitler's Escape. | 151414 | [151414-slams-city-hitlers-escape.json](./151414-slams-city-hitlers-escape.json) |
 | Slamscape | 9742 | [9742-slamscape.json](./9742-slamscape.json) |
@@ -13318,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
 | Snake Boat: Otterrific Arcade | 146019 | [146019-snake-boat-otterrific-arcade.json](./146019-snake-boat-otterrific-arcade.json) |
 | Snake Break | 275610 | [275610-snake-break.json](./275610-snake-break.json) |
+| Snake Bricks | 104990 | [104990-snake-bricks.json](./104990-snake-bricks.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Byte | 18507 | [18507-snake-byte.json](./18507-snake-byte.json) |
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
@@ -17668,6 +17672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26911,6 +26916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumigami | 334171 | [334171-sumigami.json](./334171-sumigami.json) |
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
 | SumiKen: Ink Blade Samurai | 208951 | [208951-sumiken-ink-blade-samurai.json](./208951-sumiken-ink-blade-samurai.json) |
+| Sumikko Gurashi: Atsumare! Sumikko Town | 104969 | [104969-sumikko-gurashi-atsumare-sumikko-town.json](./104969-sumikko-gurashi-atsumare-sumikko-town.json) |
 | Sumikko Gurashi: Gakkou Seikatsu Hajimerun Desu | 118269 | [118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json](./118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json) |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | 136902 | [136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json](./136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json) |
 | Sumikko Gurashi: Koko, Doko Nandesu? | 136908 | [136908-sumikko-gurashi-koko-doko-nandesu.json](./136908-sumikko-gurashi-koko-doko-nandesu.json) |
@@ -31985,6 +31991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Fatal Bullet | 36515 | [36515-sword-art-online-fatal-bullet.json](./36515-sword-art-online-fatal-bullet.json) |
 | Sword Art Online: Fatal Bullet - Ambush of the Imposters | 114141 | [114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json](./114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json) |
+| Sword Art Online: Fatal Bullet - Betrayal of Comrades | 104965 | [104965-sword-art-online-fatal-bullet-betrayal-of-comrades.json](./104965-sword-art-online-fatal-bullet-betrayal-of-comrades.json) |
 | Sword Art Online: Fatal Bullet - Collapse of Balance | 114142 | [114142-sword-art-online-fatal-bullet-collapse-of-balance.json](./114142-sword-art-online-fatal-bullet-collapse-of-balance.json) |
 | Sword Art Online: Fatal Bullet - Dissonance of the Nexus | 110843 | [110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json](./110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json) |
 | Sword Art Online: Fatal Bullet - Limited Edition | 166982 | [166982-sword-art-online-fatal-bullet-limited-edition.json](./166982-sword-art-online-fatal-bullet-limited-edition.json) |
