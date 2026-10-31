@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damage Inc. Pacific Squadron WWII: P-61 "Mauler" Black Widow | 170720 | [170720-damage-inc-pacific-squadron-wwii-p-61-mauler-black-widow.json](./170720-damage-inc-pacific-squadron-wwii-p-61-mauler-black-widow.json) |
 | Damage Inc. Pacific Squadron WWII: P-80 "Bolt" Shooting Star | 170722 | [170722-damage-inc-pacific-squadron-wwii-p-80-bolt-shooting-star.json](./170722-damage-inc-pacific-squadron-wwii-p-80-bolt-shooting-star.json) |
 | Damage Inc.: Metallica | 25067 | [25067-damage-inc-metallica.json](./25067-damage-inc-metallica.json) |
+| Damage Incorporated | 94500 | [94500-damage-incorporated.json](./94500-damage-incorporated.json) |
 | Damage: Sadistic Butchering of Humanity | 30788 | [30788-damage-sadistic-butchering-of-humanity.json](./30788-damage-sadistic-butchering-of-humanity.json) |
 | Damaged | 181340 | [181340-damaged.json](./181340-damaged.json) |
 | Damaged Core | 24981 | [24981-damaged-core.json](./24981-damaged-core.json) |
@@ -13790,6 +13791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Tavern | 62715 | [62715-dragon-tavern.json](./62715-dragon-tavern.json) |
 | Dragon Tax Return Simulator 2015 | 182973 | [182973-dragon-tax-return-simulator-2015.json](./182973-dragon-tax-return-simulator-2015.json) |
 | Dragon Throne: Battle of Red Cliffs | 45739 | [45739-dragon-throne-battle-of-red-cliffs.json](./45739-dragon-throne-battle-of-red-cliffs.json) |
+| Dragon Tiles | 94490 | [94490-dragon-tiles.json](./94490-dragon-tiles.json) |
 | Dragon Title | 295804 | [295804-dragon-title.json](./295804-dragon-title.json) |
 | Dragon Tower | 267292 | [267292-dragon-tower.json](./267292-dragon-tower.json) |
 | Dragon Trail: Hunter World | 212501 | [212501-dragon-trail-hunter-world.json](./212501-dragon-trail-hunter-world.json) |
