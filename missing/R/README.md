@@ -4494,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedium: Sentinels | 233658 | [233658-remedium-sentinels.json](./233658-remedium-sentinels.json) |
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
+| Remedy | 93324 | [93324-remedy.json](./93324-remedy.json) |
 | Remember | 128320 | [128320-remember.json](./128320-remember.json) |
 | Remember | 350935 | [350935-remember.json](./350935-remember.json) |
 | Remember Easter | 341380 | [341380-remember-easter.json](./341380-remember-easter.json) |
@@ -10223,6 +10224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotaeno | 121276 | [121276-rotaeno.json](./121276-rotaeno.json) |
 | Rotaliate | 423214 | [423214-rotaliate.json](./423214-rotaliate.json) |
+| RotaPicture | 93323 | [93323-rotapicture.json](./93323-rotapicture.json) |
 | Rotata | 349184 | [349184-rotata.json](./349184-rotata.json) |
 | Rotate 'N' Shoot | 176155 | [176155-rotate-n-shoot.json](./176155-rotate-n-shoot.json) |
 | Rotate & Roll | 342600 | [342600-rotate-and-roll.json](./342600-rotate-and-roll.json) |
