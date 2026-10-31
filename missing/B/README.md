@@ -15266,6 +15266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
 | Bug Ball | 274364 | [274364-bug-ball.json](./274364-bug-ball.json) |
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
+| Bug Bash | 93309 | [93309-bug-bash.json](./93309-bug-bash.json) |
 | Bug Battle | 287025 | [287025-bug-battle.json](./287025-bug-battle.json) |
 | Bug Bite! | 256929 | [256929-bug-bite.json](./256929-bug-bite.json) |
 | Bug Bites! | 338860 | [338860-bug-bites.json](./338860-bug-bites.json) |
