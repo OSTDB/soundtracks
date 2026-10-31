@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zafehouse | 125022 | [125022-zafehouse.json](./125022-zafehouse.json) |
 | Zafehouse Diaries 2 | 37414 | [37414-zafehouse-diaries-2.json](./37414-zafehouse-diaries-2.json) |
 | Zag | 301967 | [301967-zag.json](./301967-zag.json) |
+| Zaga | 80773 | [80773-zaga.json](./80773-zaga.json) |
 | Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
 | Zagadki Tigrenka Usika | 188599 | [188599-zagadki-tigrenka-usika.json](./188599-zagadki-tigrenka-usika.json) |
 | Zagamihara | 192632 | [192632-zagamihara.json](./192632-zagamihara.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
 | Zero Critical | 8418 | [8418-zero-critical.json](./8418-zero-critical.json) |
 | Zero Days Since | 289337 | [289337-zero-days-since.json](./289337-zero-days-since.json) |
+| Zero Days VR | 80990 | [80990-zero-days-vr.json](./80990-zero-days-vr.json) |
 | Zero Deaths | 116129 | [116129-zero-deaths.json](./116129-zero-deaths.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero Distance | 288445 | [288445-zero-distance.json](./288445-zero-distance.json) |
