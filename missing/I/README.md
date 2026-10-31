@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Strikers 1945 | 303181 | [303181-idle-strikers-1945.json](./303181-idle-strikers-1945.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
+| Idle Supermarket Tycoon | 115994 | [115994-idle-supermarket-tycoon.json](./115994-idle-supermarket-tycoon.json) |
 | Idle Superpowers | 182300 | [182300-idle-superpowers.json](./182300-idle-superpowers.json) |
 | Idle Surge | 230733 | [230733-idle-surge.json](./230733-idle-surge.json) |
 | Idle Sweeper | 100446 | [100446-idle-sweeper.json](./100446-idle-sweeper.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imbolg no Sugoshikata | 331190 | [331190-imbolg-no-sugoshikata.json](./331190-imbolg-no-sugoshikata.json) |
 | Imbroglio | 131230 | [131230-imbroglio.json](./131230-imbroglio.json) |
 | IMC | 217232 | [217232-imc.json](./217232-imc.json) |
+| iMemory | 115958 | [115958-imemory.json](./115958-imemory.json) |
 | Imercyve: Living with Intellectual Disability | 156884 | [156884-imercyve-living-with-intellectual-disability.json](./156884-imercyve-living-with-intellectual-disability.json) |
 | IMG International Tour Tennis | 46207 | [46207-img-international-tour-tennis.json](./46207-img-international-tour-tennis.json) |
 | IMG_20180226 | 176780 | [176780-img-20180226.json](./176780-img-20180226.json) |
@@ -2724,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In-Flight Trivia Tournament | 238867 | [238867-in-flight-trivia-tournament.json](./238867-in-flight-trivia-tournament.json) |
 | In-Sanity | 276648 | [276648-in-sanity.json](./276648-in-sanity.json) |
 | In-Terror-Gation | 280960 | [280960-in-terror-gation.json](./280960-in-terror-gation.json) |
+| In.My.Mind | 115986 | [115986-in-my-mind.json](./115986-in-my-mind.json) |
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
 | Inabatron | 134847 | [134847-inabatron.json](./134847-inabatron.json) |
@@ -6061,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
 | Its Fun to Break Things | 115510 | [115510-its-fun-to-break-things.json](./115510-its-fun-to-break-things.json) |
 | Its Say on Set | 66522 | [66522-its-say-on-set.json](./66522-its-say-on-set.json) |
+| Its Simple, Shoot | 115977 | [115977-its-simple-shoot.json](./115977-its-simple-shoot.json) |
 | Its Snowing | 282613 | [282613-its-snowing.json](./282613-its-snowing.json) |
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
 | Its Village | 51502 | [51502-its-village.json](./51502-its-village.json) |
