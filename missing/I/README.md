@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Jump | 274415 | [274415-ice-cream-jump.json](./274415-ice-cream-jump.json) |
 | Ice Cream Man | 409013 | [409013-ice-cream-man.json](./409013-ice-cream-man.json) |
 | Ice Cream Mania | 234064 | [234064-ice-cream-mania.json](./234064-ice-cream-mania.json) |
+| Ice Cream Master: Free Food Making Cooking Games | 95787 | [95787-ice-cream-master-free-food-making-cooking-games.json](./95787-ice-cream-master-free-food-making-cooking-games.json) |
 | Ice Cream Mixer | 102605 | [102605-ice-cream-mixer.json](./102605-ice-cream-mixer.json) |
 | Ice Cream Pachinly | 291365 | [291365-ice-cream-pachinly.json](./291365-ice-cream-pachinly.json) |
 | Ice Cream Rush | 232348 | [232348-ice-cream-rush.json](./232348-ice-cream-rush.json) |
@@ -3562,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Conquer | 196521 | [196521-infinity-conquer.json](./196521-infinity-conquer.json) |
 | Infinity Cure | 43965 | [43965-infinity-cure.json](./43965-infinity-cure.json) |
 | Infinity Dive | 181839 | [181839-infinity-dive.json](./181839-infinity-dive.json) |
+| Infinity Dungeon 2 VIP - Summon girl and Zombie | 95772 | [95772-infinity-dungeon-2-vip-summon-girl-and-zombie.json](./95772-infinity-dungeon-2-vip-summon-girl-and-zombie.json) |
 | Infinity Dungeons | 203569 | [203569-infinity-dungeons.json](./203569-infinity-dungeons.json) |
 | Infinity Fury | 401760 | [401760-infinity-fury.json](./401760-infinity-fury.json) |
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
