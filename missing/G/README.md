@@ -2500,6 +2500,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gen.loss | 307213 | [307213-gen-loss.json](./307213-gen-loss.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
+| Gendai Daisenryaku 2016: Chitsujo no Houkai, Haken Kokka Shittsui | 83311 | [83311-gendai-daisenryaku-2016-chitsujo-no-houkai-haken-kokka-shittsui.json](./83311-gendai-daisenryaku-2016-chitsujo-no-houkai-haken-kokka-shittsui.json) |
+| Gendai Daisenryaku 2017: Henbou Suru Gunji Kinkou! Senritsu no Power Game | 83312 | [83312-gendai-daisenryaku-2017-henbou-suru-gunji-kinkou-senritsu-no-power-game.json](./83312-gendai-daisenryaku-2017-henbou-suru-gunji-kinkou-senritsu-no-power-game.json) |
 | Gendai Daisenryaku 2020: Yureru Sekai Chitsujo! Taikoku no Yabou to Sekai Taisen | 136748 | [136748-gendai-daisenryaku-2020-yureru-sekai-chitsujo-taikoku-no-yabou-to-sekai-taisen.json](./136748-gendai-daisenryaku-2020-yureru-sekai-chitsujo-taikoku-no-yabou-to-sekai-taisen.json) |
 | Gendai Daisenryaku: Isshoku Sokuhatsu Gunji Balance Houkai | 269495 | [269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json](./269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
@@ -6871,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
 | Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
 | Gradius | 262395 | [262395-gradius.json](./262395-gradius.json) |
+| Gradius Deluxe Pack | 83284 | [83284-gradius-deluxe-pack.json](./83284-gradius-deluxe-pack.json) |
 | Gradius Gaiden | 1484 | [1484-gradius-gaiden.json](./1484-gradius-gaiden.json) |
 | Gradius Galaxies | 77990 | [77990-gradius-galaxies.json](./77990-gradius-galaxies.json) |
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
