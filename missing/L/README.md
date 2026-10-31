@@ -4384,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighten Up | 223407 | [223407-lighten-up.json](./223407-lighten-up.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
+| Lighter Than AR | 96460 | [96460-lighter-than-ar.json](./96460-lighter-than-ar.json) |
 | LightFall | 234201 | [234201-lightfall.json](./234201-lightfall.json) |
 | Lightfield Hyper Edition | 118577 | [118577-lightfield-hyper-edition.json](./118577-lightfield-hyper-edition.json) |
 | Lightfire Defense | 207585 | [207585-lightfire-defense.json](./207585-lightfire-defense.json) |
