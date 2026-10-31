@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroFarm | 195468 | [195468-necrofarm.json](./195468-necrofarm.json) |
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
+| Necrofugitive | 123772 | [123772-necrofugitive.json](./123772-necrofugitive.json) |
 | Necrojacks | 160207 | [160207-necrojacks.json](./160207-necrojacks.json) |
 | Necroking | 291826 | [291826-necroking.json](./291826-necroking.json) |
 | NecroKitty | 370734 | [370734-necrokitty.json](./370734-necrokitty.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil Android | 354582 | [354582-neil-android.json](./354582-neil-android.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
+| Neither Day nor Night | 123768 | [123768-neither-day-nor-night.json](./123768-neither-day-nor-night.json) |
 | Neither Dead nor Alive | 345823 | [345823-neither-dead-nor-alive.json](./345823-neither-dead-nor-alive.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
 | Nekketsu Fighting Legend | 48410 | [48410-nekketsu-fighting-legend.json](./48410-nekketsu-fighting-legend.json) |
