@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
 | Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
+| Farm Business | 111990 | [111990-farm-business.json](./111990-farm-business.json) |
 | Farm Chicken | 349475 | [349475-farm-chicken.json](./349475-farm-chicken.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Colony | 259451 | [259451-farm-colony.json](./259451-farm-colony.json) |
@@ -7886,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Wings HoverCraft | 248763 | [248763-flying-wings-hovercraft.json](./248763-flying-wings-hovercraft.json) |
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
+| FlyingMetalSuit | 111989 | [111989-flyingmetalsuit.json](./111989-flyingmetalsuit.json) |
 | FlyInside Flight Simulator | 112710 | [112710-flyinside-flight-simulator.json](./112710-flyinside-flight-simulator.json) |
 | Flykt | 150418 | [150418-flykt.json](./150418-flykt.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
