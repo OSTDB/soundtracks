@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAB Baseball | 388118 | [388118-sab-baseball.json](./388118-sab-baseball.json) |
 | Sabacc Cantina | 355502 | [355502-sabacc-cantina.json](./355502-sabacc-cantina.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
+| Saban's Iznogoud | 80780 | [80780-sabans-iznogoud.json](./80780-sabans-iznogoud.json) |
 | Saban's Masked Rider | 217730 | [217730-sabans-masked-rider.json](./217730-sabans-masked-rider.json) |
 | Saban's Mighty Morphin Power Rangers | 217939 | [217939-sabans-mighty-morphin-power-rangers.json](./217939-sabans-mighty-morphin-power-rangers.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
@@ -237,6 +238,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabrina the Animated Series: Magical Adventure | 186071 | [186071-sabrina-the-animated-series-magical-adventure.json](./186071-sabrina-the-animated-series-magical-adventure.json) |
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
+| Sabrina, the Teenage Witch: Brat Attack | 80778 | [80778-sabrina-the-teenage-witch-brat-attack.json](./80778-sabrina-the-teenage-witch-brat-attack.json) |
+| Sabrina, the Teenage Witch: Spellbound | 80777 | [80777-sabrina-the-teenage-witch-spellbound.json](./80777-sabrina-the-teenage-witch-spellbound.json) |
 | Sabritas Pac-Man | 219449 | [219449-sabritas-pac-man.json](./219449-sabritas-pac-man.json) |
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
 | Saccharine Echo | 390578 | [390578-saccharine-echo.json](./390578-saccharine-echo.json) |
@@ -7833,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiosai no Serenade: Episode 2 | 396562 | [396562-shiosai-no-serenade-episode-2.json](./396562-shiosai-no-serenade-episode-2.json) |
 | Shiosai no Serenade: Episode 3 | 396564 | [396564-shiosai-no-serenade-episode-3.json](./396564-shiosai-no-serenade-episode-3.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
+| Ship Ahoy | 80977 | [80977-ship-ahoy.json](./80977-ship-ahoy.json) |
 | Ship Explorer | 349248 | [349248-ship-explorer.json](./349248-ship-explorer.json) |
 | Ship Explorer: Bismarck | 377776 | [377776-ship-explorer-bismarck.json](./377776-ship-explorer-bismarck.json) |
 | Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
@@ -10625,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Cats Under | 138471 | [138471-six-cats-under.json](./138471-six-cats-under.json) |
 | Six Days in Fallujah | 143482 | [143482-six-days-in-fallujah.json](./143482-six-days-in-fallujah.json) |
 | Six Days in Fallujah | 36538 | [36538-six-days-in-fallujah.json](./36538-six-days-in-fallujah.json) |
+| Six Days of Snow | 80988 | [80988-six-days-of-snow.json](./80988-six-days-of-snow.json) |
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
 | Six Dots | 99710 | [99710-six-dots.json](./99710-six-dots.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
@@ -14102,6 +14107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowflake Tattoo | 35608 | [35608-snowflake-tattoo.json](./35608-snowflake-tattoo.json) |
 | Snowflake's Chance | 29699 | [29699-snowflakes-chance.json](./29699-snowflakes-chance.json) |
 | Snowflakes in the Sun | 419612 | [419612-snowflakes-in-the-sun.json](./419612-snowflakes-in-the-sun.json) |
+| Snowglobe | 80992 | [80992-snowglobe.json](./80992-snowglobe.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
 | Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
@@ -17778,7 +17784,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23722,6 +23727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
 | Steel Driver | 307989 | [307989-steel-driver.json](./307989-steel-driver.json) |
 | Steel Dungeon | 110162 | [110162-steel-dungeon.json](./110162-steel-dungeon.json) |
+| Steel Eagle | 80957 | [80957-steel-eagle.json](./80957-steel-eagle.json) |
 | Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
 | Steel Effigy | 295292 | [295292-steel-effigy.json](./295292-steel-effigy.json) |
 | Steel Empire | 45536 | [45536-steel-empire.json](./45536-steel-empire.json) |
