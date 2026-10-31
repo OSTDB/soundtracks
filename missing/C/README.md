@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calavera: Day of the Dead | 140306 | [140306-calavera-day-of-the-dead.json](./140306-calavera-day-of-the-dead.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
 | Calc+- | 361459 | [361459-calc.json](./361459-calc.json) |
+| Calcio Championship | 69630 | [69630-calcio-championship.json](./69630-calcio-championship.json) |
 | Calciobit | 49522 | [49522-calciobit.json](./49522-calciobit.json) |
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
@@ -5589,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Ninja | 39832 | [39832-charlie-ninja.json](./39832-charlie-ninja.json) |
 | Charlie Sheen: Winning | 388111 | [388111-charlie-sheen-winning.json](./388111-charlie-sheen-winning.json) |
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
+| Charlie the Duck | 69730 | [69730-charlie-the-duck.json](./69730-charlie-the-duck.json) |
 | Charlie the Roach | 156883 | [156883-charlie-the-roach.json](./156883-charlie-the-roach.json) |
 | Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
 | Charlie the Unicorn Dating Simulator | 58724 | [58724-charlie-the-unicorn-dating-simulator.json](./58724-charlie-the-unicorn-dating-simulator.json) |
@@ -10744,6 +10746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collision | 207645 | [207645-collision.json](./207645-collision.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Collision Course | 30539 | [30539-collision-course.json](./30539-collision-course.json) |
+| Collision Course | 69626 | [69626-collision-course.json](./69626-collision-course.json) |
 | Collision Hero | 175854 | [175854-collision-hero.json](./175854-collision-hero.json) |
 | Collision System Test | 369007 | [369007-collision-system-test.json](./369007-collision-system-test.json) |
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
@@ -18981,3 +18984,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Czarny Orzel | 130680 | [130680-czarny-orzel.json](./130680-czarny-orzel.json) |
 | Czech Soccer Manager 2020 | 145425 | [145425-czech-soccer-manager-2020.json](./145425-czech-soccer-manager-2020.json) |
 | CzechBox | 262160 | [262160-czechbox.json](./262160-czechbox.json) |
+| Czorian Siege | 69648 | [69648-czorian-siege.json](./69648-czorian-siege.json) |
