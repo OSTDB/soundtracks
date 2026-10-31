@@ -2931,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird West: Definitive Edition | 250504 | [250504-weird-west-definitive-edition.json](./250504-weird-west-definitive-edition.json) |
 | Weird Wormholes | 323438 | [323438-weird-wormholes.json](./323438-weird-wormholes.json) |
 | Weird: Truth is Stranger than Fiction | 69217 | [69217-weird-truth-is-stranger-than-fiction.json](./69217-weird-truth-is-stranger-than-fiction.json) |
+| Weirdest Thing | 110617 | [110617-weirdest-thing.json](./110617-weirdest-thing.json) |
 | Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
 | Weirdo | 324805 | [324805-weirdo.json](./324805-weirdo.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
