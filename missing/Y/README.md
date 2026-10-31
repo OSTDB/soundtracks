@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuonger Adventure | 203624 | [203624-yuonger-adventure.json](./203624-yuonger-adventure.json) |
 | Yuoni | 146806 | [146806-yuoni.json](./146806-yuoni.json) |
 | Yuoni | 206573 | [206573-yuoni.json](./206573-yuoni.json) |
+| Yuoni: Rises | 117334 | [117334-yuoni-rises.json](./117334-yuoni-rises.json) |
 | Yuoni: Sunset Edition | 171858 | [171858-yuoni-sunset-edition.json](./171858-yuoni-sunset-edition.json) |
 | Yupi | 153394 | [153394-yupi.json](./153394-yupi.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
