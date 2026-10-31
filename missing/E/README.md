@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Joe 3 | 101864 | [101864-easy-joe-3.json](./101864-easy-joe-3.json) |
 | Easy Joe World | 78537 | [78537-easy-joe-world.json](./78537-easy-joe-world.json) |
 | Easy Learning: Classical Music | 273325 | [273325-easy-learning-classical-music.json](./273325-easy-learning-classical-music.json) |
+| Easy No Smoking Wii App | 67844 | [67844-easy-no-smoking-wii-app.json](./67844-easy-no-smoking-wii-app.json) |
 | Easy Piano | 25168 | [25168-easy-piano.json](./25168-easy-piano.json) |
 | Easy Puzzle | 331390 | [331390-easy-puzzle.json](./331390-easy-puzzle.json) |
 | Easy Puzzle: Animals | 384001 | [384001-easy-puzzle-animals.json](./384001-easy-puzzle-animals.json) |
@@ -3164,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchant U | 133712 | [133712-enchant-u.json](./133712-enchant-u.json) |
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted | 13641 | [13641-enchanted.json](./13641-enchanted.json) |
+| Enchanted | 67757 | [67757-enchanted.json](./67757-enchanted.json) |
 | Enchanted Arms | 6988 | [6988-enchanted-arms.json](./6988-enchanted-arms.json) |
 | Enchanted Blacksmith | 217144 | [217144-enchanted-blacksmith.json](./217144-enchanted-blacksmith.json) |
 | Enchanted Bricks | 221891 | [221891-enchanted-bricks.json](./221891-enchanted-bricks.json) |
