@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
 | Last of Humanity | 204150 | [204150-last-of-humanity.json](./204150-last-of-humanity.json) |
 | Last of Light | 177746 | [177746-last-of-light.json](./177746-last-of-light.json) |
+| Last of Mankind: Survival | 90286 | [90286-last-of-mankind-survival.json](./90286-last-of-mankind-survival.json) |
 | Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
 | Last One Standing: Royal Massacre | 180389 | [180389-last-one-standing-royal-massacre.json](./180389-last-one-standing-royal-massacre.json) |
