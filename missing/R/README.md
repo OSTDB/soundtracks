@@ -6025,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Meeting | 36412 | [36412-reversion-the-meeting.json](./36412-reversion-the-meeting.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | Reverso | 63745 | [63745-reverso.json](./63745-reverso.json) |
+| ReversU | 87902 | [87902-reversu.json](./87902-reversu.json) |
 | Revert | 320242 | [320242-revert.json](./320242-revert.json) |
 | Reverthion | 266333 | [266333-reverthion.json](./266333-reverthion.json) |
 | Revertia | 114049 | [114049-revertia.json](./114049-revertia.json) |
@@ -6199,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 191381 | [191381-rgb.json](./191381-rgb.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
+| RGB Express | 87892 | [87892-rgb-express.json](./87892-rgb-express.json) |
 | RGB ON Experience | 174629 | [174629-rgb-on-experience.json](./174629-rgb-on-experience.json) |
 | RGB Run | 112480 | [112480-rgb-run.json](./112480-rgb-run.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
@@ -7043,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
 | Riot Soccer | 182157 | [182157-riot-soccer.json](./182157-riot-soccer.json) |
 | Riot Stars | 166557 | [166557-riot-stars.json](./166557-riot-stars.json) |
+| Riot Street | 87762 | [87762-riot-street.json](./87762-riot-street.json) |
 | Riot Zone | 37611 | [37611-riot-zone.json](./37611-riot-zone.json) |
 | Riot: Civil Unrest | 19934 | [19934-riot-civil-unrest.json](./19934-riot-civil-unrest.json) |
 | RiotBall | 25416 | [25416-riotball.json](./25416-riotball.json) |
@@ -10728,6 +10731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL WLS 2000 | 186002 | [186002-rtl-wls-2000.json](./186002-rtl-wls-2000.json) |
 | RTM: The Last Days | 212209 | [212209-rtm-the-last-days.json](./212209-rtm-the-last-days.json) |
 | RTO | 84851 | [84851-rto.json](./84851-rto.json) |
+| RTO 2 | 87783 | [87783-rto-2.json](./87783-rto-2.json) |
 | RTO 2 | 89729 | [89729-rto-2.json](./89729-rto-2.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
