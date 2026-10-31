@@ -2997,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
 | Pawapuro GB | 229570 | [229570-pawapuro-gb.json](./229570-pawapuro-gb.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
+| Pawapuro Success Legends | 67133 | [67133-pawapuro-success-legends.json](./67133-pawapuro-success-legends.json) |
 | Pawapuro-kun Pocket | 63219 | [63219-pawapuro-kun-pocket.json](./63219-pawapuro-kun-pocket.json) |
 | Pawapuro-kun Pocket 1 & 2 | 95361 | [95361-pawapuro-kun-pocket-1-and-2.json](./95361-pawapuro-kun-pocket-1-and-2.json) |
 | Pawapuro-kun Pocket 10 | 98516 | [98516-pawapuro-kun-pocket-10.json](./98516-pawapuro-kun-pocket-10.json) |
@@ -7381,6 +7382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Force | 120094 | [120094-pixel-force.json](./120094-pixel-force.json) |
 | Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
 | Pixel Force: Halo | 76172 | [76172-pixel-force-halo.json](./76172-pixel-force-halo.json) |
+| Pixel Force: Left 4 Dead | 67016 | [67016-pixel-force-left-4-dead.json](./67016-pixel-force-left-4-dead.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
 | Pixel Forklift Simulator | 183287 | [183287-pixel-forklift-simulator.json](./183287-pixel-forklift-simulator.json) |
 | Pixel Fortress: Tower Defense | 348156 | [348156-pixel-fortress-tower-defense.json](./348156-pixel-fortress-tower-defense.json) |
@@ -12082,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | Postmortem: One must Die | 10715 | [10715-postmortem-one-must-die.json](./10715-postmortem-one-must-die.json) |
 | Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
+| PostPet DS: Yumemiru Momo to Fushigi no Pen | 67121 | [67121-postpet-ds-yumemiru-momo-to-fushigi-no-pen.json](./67121-postpet-ds-yumemiru-momo-to-fushigi-no-pen.json) |
 | Postponed | 398301 | [398301-postponed.json](./398301-postponed.json) |
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
@@ -12274,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Brain Trainer | 118760 | [118760-power-brain-trainer.json](./118760-power-brain-trainer.json) |
 | Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
+| Power Chess 98 | 67015 | [67015-power-chess-98.json](./67015-power-chess-98.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
 | Power Chips & High Roller | 209910 | [209910-power-chips-and-high-roller.json](./209910-power-chips-and-high-roller.json) |
 | Power Climb | 137822 | [137822-power-climb.json](./137822-power-climb.json) |
