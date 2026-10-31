@@ -3526,7 +3526,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Giants: Dinosaurs - Fight For Survival | 66885 | [66885-battle-of-giants-dinosaurs-fight-for-survival.json](./66885-battle-of-giants-dinosaurs-fight-for-survival.json) |
 | Battle of Giants: Dinosaurs Strike | 7907 | [7907-battle-of-giants-dinosaurs-strike.json](./7907-battle-of-giants-dinosaurs-strike.json) |
 | Battle of Giants: Dragons | 7908 | [7908-battle-of-giants-dragons.json](./7908-battle-of-giants-dragons.json) |
+| Battle of Giants: Dragons - Bronze Edition | 85047 | [85047-battle-of-giants-dragons-bronze-edition.json](./85047-battle-of-giants-dragons-bronze-edition.json) |
 | Battle of Giants: Mutant Insects | 7909 | [7909-battle-of-giants-mutant-insects.json](./7909-battle-of-giants-mutant-insects.json) |
+| Battle of Giants: Mutant Insects - Revenge | 85046 | [85046-battle-of-giants-mutant-insects-revenge.json](./85046-battle-of-giants-mutant-insects-revenge.json) |
 | Battle of Goldfish Scooping | 380121 | [380121-battle-of-goldfish-scooping.json](./380121-battle-of-goldfish-scooping.json) |
 | Battle of Guam 1944 | 108238 | [108238-battle-of-guam-1944.json](./108238-battle-of-guam-1944.json) |
 | Battle of Guang | 358489 | [358489-battle-of-guang.json](./358489-battle-of-guang.json) |
