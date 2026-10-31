@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Bump 2 | 313726 | [313726-baby-bump-2.json](./313726-baby-bump-2.json) |
 | Baby Bump: Book 1 | 313725 | [313725-baby-bump-book-1.json](./313725-baby-bump-book-1.json) |
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
+| Baby Care & Dressup | 99901 | [99901-baby-care-and-dressup.json](./99901-baby-care-and-dressup.json) |
 | Baby Climbing | 266104 | [266104-baby-climbing.json](./266104-baby-climbing.json) |
 | Baby Coyote | 157912 | [157912-baby-coyote.json](./157912-baby-coyote.json) |
 | Baby Dino | 283970 | [283970-baby-dino.json](./283970-baby-dino.json) |
@@ -9686,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockman Gets Hungry | 61964 | [61964-blockman-gets-hungry.json](./61964-blockman-gets-hungry.json) |
 | Blockman Go | 138641 | [138641-blockman-go.json](./138641-blockman-go.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
+| BlockMerge: Hexa Merge Puzzle | 99944 | [99944-blockmerge-hexa-merge-puzzle.json](./99944-blockmerge-hexa-merge-puzzle.json) |
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
 | Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
 | Blockon | 413789 | [413789-blockon.json](./413789-blockon.json) |
@@ -14121,6 +14123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Builder Adventure | 147603 | [147603-bridge-builder-adventure.json](./147603-bridge-builder-adventure.json) |
 | Bridge Builder Racer | 120042 | [120042-bridge-builder-racer.json](./120042-bridge-builder-racer.json) |
 | Bridge Builder Simulator | 291966 | [291966-bridge-builder-simulator.json](./291966-bridge-builder-simulator.json) |
+| Bridge by Dodofox | 99911 | [99911-bridge-by-dodofox.json](./99911-bridge-by-dodofox.json) |
 | Bridge Challenge | 15687 | [15687-bridge-challenge.json](./15687-bridge-challenge.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
