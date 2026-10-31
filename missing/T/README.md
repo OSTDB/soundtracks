@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi of Miracles: Collector's Edition | 229933 | [229933-taxi-of-miracles-collectors-edition.json](./229933-taxi-of-miracles-collectors-edition.json) |
 | Taxi of the Asteroids | 242080 | [242080-taxi-of-the-asteroids.json](./242080-taxi-of-the-asteroids.json) |
 | Taxi Racer | 57586 | [57586-taxi-racer.json](./57586-taxi-racer.json) |
+| Taxi Racer Gold | 92229 | [92229-taxi-racer-gold.json](./92229-taxi-racer-gold.json) |
 | Taxi Racing Challenge | 237656 | [237656-taxi-racing-challenge.json](./237656-taxi-racing-challenge.json) |
 | Taxi Rider | 43457 | [43457-taxi-rider.json](./43457-taxi-rider.json) |
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
@@ -23227,6 +23228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooth and Claw | 81057 | [81057-tooth-and-claw.json](./81057-tooth-and-claw.json) |
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
+| Tooth Invaders | 92322 | [92322-tooth-invaders.json](./92322-tooth-invaders.json) |
 | Tooth Protectors | 11236 | [11236-tooth-protectors.json](./11236-tooth-protectors.json) |
 | Toothless Vampire | 184750 | [184750-toothless-vampire.json](./184750-toothless-vampire.json) |
 | Toothy History | 160221 | [160221-toothy-history.json](./160221-toothy-history.json) |
@@ -23987,6 +23989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge Densetsu: Saisoku Battle | 38125 | [38125-touge-densetsu-saisoku-battle.json](./38125-touge-densetsu-saisoku-battle.json) |
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
+| Touge Max G | 92231 | [92231-touge-max-g.json](./92231-touge-max-g.json) |
 | Touge R | 60621 | [60621-touge-r.json](./60621-touge-r.json) |
 | Touge Racers | 192552 | [192552-touge-racers.json](./192552-touge-racers.json) |
 | Touge Shakai | 223058 | [223058-touge-shakai.json](./223058-touge-shakai.json) |
@@ -25676,6 +25679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 312425 | [312425-train-simulator.json](./312425-train-simulator.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
+| Train Simulator ＋ Densha de Go!: Tokyo Kyuukou-hen | 92251 | [92251-train-simulator-densha-de-go-tokyo-kyuukou-hen.json](./92251-train-simulator-densha-de-go-tokyo-kyuukou-hen.json) |
 | Train Simulator 2013 | 5546 | [5546-train-simulator-2013.json](./5546-train-simulator-2013.json) |
 | Train Simulator 2014 | 5545 | [5545-train-simulator-2014.json](./5545-train-simulator-2014.json) |
 | Train Simulator 2015 | 50304 | [50304-train-simulator-2015.json](./50304-train-simulator-2015.json) |
@@ -25881,6 +25885,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Wien - St. Pölten Route Add-On | 354564 | [354564-train-simulator-classic-wien-st-polten-route-add-on.json](./354564-train-simulator-classic-wien-st-polten-route-add-on.json) |
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
+| Train Simulator Plus: JR Higashi-Nihon Chuo-sen 2 | 92245 | [92245-train-simulator-plus-jr-higashi-nihon-chuo-sen-2.json](./92245-train-simulator-plus-jr-higashi-nihon-chuo-sen-2.json) |
+| Train Simulator Plus: Keihan Denki Tetsudou | 92244 | [92244-train-simulator-plus-keihan-denki-tetsudou.json](./92244-train-simulator-plus-keihan-denki-tetsudou.json) |
+| Train Simulator Plus: Kyoto-shiei Chikatetsu Karasuma-sen & Kinki-nippon Tetsudou Kyoto-sen | 92248 | [92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json](./92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json) |
+| Train Simulator Plus: Odakyu Dentetsu Odawara-sen 2 | 92246 | [92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json](./92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json) |
 | Train Simulator Real: The Keihin Kyuukou | 79179 | [79179-train-simulator-real-the-keihin-kyuukou.json](./79179-train-simulator-real-the-keihin-kyuukou.json) |
 | Train Simulator VR | 74679 | [74679-train-simulator-vr.json](./74679-train-simulator-vr.json) |
 | Train Simulator: Albula Line: St Moritz - Thusis Route Add-On | 156444 | [156444-train-simulator-albula-line-st-moritz-thusis-route-add-on.json](./156444-train-simulator-albula-line-st-moritz-thusis-route-add-on.json) |
@@ -25987,8 +25995,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: JR Hokkaido 1 | 323663 | [323663-train-simulator-jr-hokkaido-1.json](./323663-train-simulator-jr-hokkaido-1.json) |
 | Train Simulator: JR Shikoku 1 | 323660 | [323660-train-simulator-jr-shikoku-1.json](./323660-train-simulator-jr-shikoku-1.json) |
 | Train Simulator: Keihin Kyuukou Dentetsu Honsen Kurihamasen 600-gata | 323659 | [323659-train-simulator-keihin-kyuukou-dentetsu-honsen-kurihamasen-600-gata.json](./323659-train-simulator-keihin-kyuukou-dentetsu-honsen-kurihamasen-600-gata.json) |
+| Train Simulator: Keisei Toei Asakusa Keikyu-sen | 92249 | [92249-train-simulator-keisei-toei-asakusa-keikyu-sen.json](./92249-train-simulator-keisei-toei-asakusa-keikyu-sen.json) |
 | Train Simulator: Kintetsu Minami Osaka-sen Yoshino-sen | 323667 | [323667-train-simulator-kintetsu-minami-osaka-sen-yoshino-sen.json](./323667-train-simulator-kintetsu-minami-osaka-sen-yoshino-sen.json) |
 | Train Simulator: Konstanz-Villingen Route Add-On | 156388 | [156388-train-simulator-konstanz-villingen-route-add-on.json](./156388-train-simulator-konstanz-villingen-route-add-on.json) |
+| Train Simulator: Kyushu Shinkansen | 92250 | [92250-train-simulator-kyushu-shinkansen.json](./92250-train-simulator-kyushu-shinkansen.json) |
 | Train Simulator: LGV: Marseille - Avignon Route Add-On | 156356 | [156356-train-simulator-lgv-marseille-avignon-route-add-on.json](./156356-train-simulator-lgv-marseille-avignon-route-add-on.json) |
 | Train Simulator: Liverpool-Manchester Route Add-On | 156442 | [156442-train-simulator-liverpool-manchester-route-add-on.json](./156442-train-simulator-liverpool-manchester-route-add-on.json) |
 | Train Simulator: Livonia Division: Monroe - Subdivision Route Add-On | 156370 | [156370-train-simulator-livonia-division-monroe-subdivision-route-add-on.json](./156370-train-simulator-livonia-division-monroe-subdivision-route-add-on.json) |
@@ -26015,6 +26025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Midland Main Line: Leicester - Derby & Nottingham Route Add-On | 156466 | [156466-train-simulator-midland-main-line-leicester-derby-and-nottingham-route-add-on.json](./156466-train-simulator-midland-main-line-leicester-derby-and-nottingham-route-add-on.json) |
 | Train Simulator: Midland Main Line: Nottingham - Lincoln Route | 207742 | [207742-train-simulator-midland-main-line-nottingham-lincoln-route.json](./207742-train-simulator-midland-main-line-nottingham-lincoln-route.json) |
 | Train Simulator: Midland Main Line: Sheffield - Derby Route Add-On | 156411 | [156411-train-simulator-midland-main-line-sheffield-derby-route-add-on.json](./156411-train-simulator-midland-main-line-sheffield-derby-route-add-on.json) |
+| Train Simulator: Midosuji-sen | 92247 | [92247-train-simulator-midosuji-sen.json](./92247-train-simulator-midosuji-sen.json) |
 | Train Simulator: Mighty Seddin Freight Route Add-On | 156452 | [156452-train-simulator-mighty-seddin-freight-route-add-on.json](./156452-train-simulator-mighty-seddin-freight-route-add-on.json) |
 | Train Simulator: Minami France | 323666 | [323666-train-simulator-minami-france.json](./323666-train-simulator-minami-france.json) |
 | Train Simulator: Mittenwaldbahn: Garmisch-Partenkirchen - Innsbruck Route Add-On | 156387 | [156387-train-simulator-mittenwaldbahn-garmisch-partenkirchen-innsbruck-route-add-on.json](./156387-train-simulator-mittenwaldbahn-garmisch-partenkirchen-innsbruck-route-add-on.json) |
@@ -26049,6 +26060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: ÖBB 4023 ‘Talent' EMU Add-On | 162546 | [162546-train-simulator-obb-4023-talent-emu-add-on.json](./162546-train-simulator-obb-4023-talent-emu-add-on.json) |
 | Train Simulator: ÖBB 4746 Cityjet EMU | 212598 | [212598-train-simulator-obb-4746-cityjet-emu.json](./212598-train-simulator-obb-4746-cityjet-emu.json) |
 | Train Simulator: ÖBB 4748 | 306074 | [306074-train-simulator-obb-4748.json](./306074-train-simulator-obb-4748.json) |
+| Train Simulator: Odakyu Electric Railway Odakyu Line Type 5000 | 92252 | [92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json](./92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json) |
 | Train Simulator: Ohio Steel 2 Route Add-On | 156458 | [156458-train-simulator-ohio-steel-2-route-add-on.json](./156458-train-simulator-ohio-steel-2-route-add-on.json) |
 | Train Simulator: Outeniqua Choo Tjoe Route Add-On | 156451 | [156451-train-simulator-outeniqua-choo-tjoe-route-add-on.json](./156451-train-simulator-outeniqua-choo-tjoe-route-add-on.json) |
 | Train Simulator: Payerbach - Wien Hbf Route Add-On | 306073 | [306073-train-simulator-payerbach-wien-hbf-route-add-on.json](./306073-train-simulator-payerbach-wien-hbf-route-add-on.json) |
