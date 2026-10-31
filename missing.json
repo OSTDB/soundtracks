@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T18:05:41.239Z",
-  "total_missing": 289780,
+  "generated_at": "2026-10-31T18:22:26.061Z",
+  "total_missing": 289830,
   "games": [
     {
       "igdb_id": 191680,
@@ -29895,6 +29895,11 @@
       "igdb_id": 377113,
       "game_name": "Acuaria Pet Desktop",
       "file": "missing/A/377113-acuaria-pet-desktop.json"
+    },
+    {
+      "igdb_id": 75537,
+      "game_name": "Acucalypse",
+      "file": "missing/A/75537-acucalypse.json"
     },
     {
       "igdb_id": 280675,
@@ -85462,6 +85467,11 @@
       "file": "missing/A/112732-assassins-creed-odyssey-legacy-of-the-first-blade.json"
     },
     {
+      "igdb_id": 75547,
+      "game_name": "Assassin's Creed Odyssey: Limited Edition",
+      "file": "missing/A/75547-assassins-creed-odyssey-limited-edition.json"
+    },
+    {
       "igdb_id": 229492,
       "game_name": "Assassin's Creed Odyssey: Omega Edition",
       "file": "missing/A/229492-assassins-creed-odyssey-omega-edition.json"
@@ -106892,6 +106902,11 @@
       "file": "missing/B/334085-ball-shoot-aim-challenge.json"
     },
     {
+      "igdb_id": 75555,
+      "game_name": "Ball Shot: Fling to Hoop",
+      "file": "missing/B/75555-ball-shot-fling-to-hoop.json"
+    },
+    {
       "igdb_id": 176374,
       "game_name": "Ball Slinger",
       "file": "missing/B/176374-ball-slinger.json"
@@ -115097,6 +115112,11 @@
       "file": "missing/B/25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json"
     },
     {
+      "igdb_id": 75545,
+      "game_name": "Batman: Arkham City - Arkham City Skins Pack",
+      "file": "missing/B/75545-batman-arkham-city-arkham-city-skins-pack.json"
+    },
+    {
       "igdb_id": 20834,
       "game_name": "Batman: Arkham City - Armored Edition",
       "file": "missing/B/20834-batman-arkham-city-armored-edition.json"
@@ -115112,6 +115132,11 @@
       "file": "missing/B/26116-batman-arkham-city-catwoman-bundle.json"
     },
     {
+      "igdb_id": 75544,
+      "game_name": "Batman: Arkham City - Challenge Map Pack",
+      "file": "missing/B/75544-batman-arkham-city-challenge-map-pack.json"
+    },
+    {
       "igdb_id": 21704,
       "game_name": "Batman: Arkham City - Game of the Year Edition",
       "file": "missing/B/21704-batman-arkham-city-game-of-the-year-edition.json"
@@ -115120,6 +115145,16 @@
       "igdb_id": 18442,
       "game_name": "Batman: Arkham City - Harley Quinn's Revenge",
       "file": "missing/B/18442-batman-arkham-city-harley-quinns-revenge.json"
+    },
+    {
+      "igdb_id": 75542,
+      "game_name": "Batman: Arkham City - Nightwing Bundle",
+      "file": "missing/B/75542-batman-arkham-city-nightwing-bundle.json"
+    },
+    {
+      "igdb_id": 75543,
+      "game_name": "Batman: Arkham City - Robin Bundle",
+      "file": "missing/B/75543-batman-arkham-city-robin-bundle.json"
     },
     {
       "igdb_id": 138112,
@@ -115242,14 +115277,44 @@
       "file": "missing/B/41611-batman-arkham-knight-special-edition-steelbook.json"
     },
     {
+      "igdb_id": 75534,
+      "game_name": "Batman: Arkham Origins - Black Mask Challenge Pack",
+      "file": "missing/B/75534-batman-arkham-origins-black-mask-challenge-pack.json"
+    },
+    {
       "igdb_id": 10028,
       "game_name": "Batman: Arkham Origins - Cold, Cold Heart",
       "file": "missing/B/10028-batman-arkham-origins-cold-cold-heart.json"
     },
     {
+      "igdb_id": 75535,
+      "game_name": "Batman: Arkham Origins - Deathstroke Challenge Pack",
+      "file": "missing/B/75535-batman-arkham-origins-deathstroke-challenge-pack.json"
+    },
+    {
+      "igdb_id": 75533,
+      "game_name": "Batman: Arkham Origins - Infinite Earths Skin Pack",
+      "file": "missing/B/75533-batman-arkham-origins-infinite-earths-skin-pack.json"
+    },
+    {
       "igdb_id": 75531,
       "game_name": "Batman: Arkham Origins - Initiation",
       "file": "missing/B/75531-batman-arkham-origins-initiation.json"
+    },
+    {
+      "igdb_id": 75541,
+      "game_name": "Batman: Arkham Origins - Knightfall Pack",
+      "file": "missing/B/75541-batman-arkham-origins-knightfall-pack.json"
+    },
+    {
+      "igdb_id": 75532,
+      "game_name": "Batman: Arkham Origins - New Millennium Skins Pack",
+      "file": "missing/B/75532-batman-arkham-origins-new-millennium-skins-pack.json"
+    },
+    {
+      "igdb_id": 75529,
+      "game_name": "Batman: Arkham Origins - Season Pass",
+      "file": "missing/B/75529-batman-arkham-origins-season-pass.json"
     },
     {
       "igdb_id": 7689,
@@ -183822,6 +183887,11 @@
       "file": "missing/B/76521-bygone-worlds-drama-at-the-odeion.json"
     },
     {
+      "igdb_id": 75391,
+      "game_name": "Bygone Worlds: Ephesus",
+      "file": "missing/B/75391-bygone-worlds-ephesus.json"
+    },
+    {
       "igdb_id": 74446,
       "game_name": "Bygone Worlds: Jerusalem",
       "file": "missing/B/74446-bygone-worlds-jerusalem.json"
@@ -236330,6 +236400,11 @@
       "igdb_id": 312027,
       "game_name": "Coins",
       "file": "missing/C/312027-coins.json"
+    },
+    {
+      "igdb_id": 75386,
+      "game_name": "Coins Challenge",
+      "file": "missing/C/75386-coins-challenge.json"
     },
     {
       "igdb_id": 213027,
@@ -310017,6 +310092,11 @@
       "file": "missing/D/17224-deponia-the-complete-journey.json"
     },
     {
+      "igdb_id": 75398,
+      "game_name": "Depopulation",
+      "file": "missing/D/75398-depopulation.json"
+    },
+    {
       "igdb_id": 112784,
       "game_name": "Deported 2: Build That Wall",
       "file": "missing/D/112784-deported-2-build-that-wall.json"
@@ -314915,6 +314995,11 @@
       "igdb_id": 47412,
       "game_name": "Deus Ex: Human Revolution - Augmented Edition",
       "file": "missing/D/47412-deus-ex-human-revolution-augmented-edition.json"
+    },
+    {
+      "igdb_id": 75569,
+      "game_name": "Deus Ex: Human Revolution - Collector's Edition",
+      "file": "missing/D/75569-deus-ex-human-revolution-collectors-edition.json"
     },
     {
       "igdb_id": 118891,
@@ -380137,6 +380222,11 @@
       "file": "missing/E/402563-elyndor.json"
     },
     {
+      "igdb_id": 75567,
+      "game_name": "Elyon",
+      "file": "missing/E/75567-elyon.json"
+    },
+    {
       "igdb_id": 182076,
       "game_name": "Elypse",
       "file": "missing/E/182076-elypse.json"
@@ -439535,6 +439625,11 @@
       "igdb_id": 173213,
       "game_name": "Flappy Person",
       "file": "missing/F/173213-flappy-person.json"
+    },
+    {
+      "igdb_id": 75554,
+      "game_name": "Flappy Pimba",
+      "file": "missing/F/75554-flappy-pimba.json"
     },
     {
       "igdb_id": 87075,
@@ -531267,6 +531362,11 @@
       "file": "missing/H/261205-hardy-boyz-stunt-challenge.json"
     },
     {
+      "igdb_id": 75396,
+      "game_name": "Hardy Only One",
+      "file": "missing/H/75396-hardy-only-one.json"
+    },
+    {
       "igdb_id": 83584,
       "game_name": "Hare",
       "file": "missing/H/83584-hare.json"
@@ -549570,6 +549670,11 @@
       "igdb_id": 103040,
       "game_name": "Heroes Arena",
       "file": "missing/H/103040-heroes-arena.json"
+    },
+    {
+      "igdb_id": 75553,
+      "game_name": "Heroes Arena",
+      "file": "missing/H/75553-heroes-arena.json"
     },
     {
       "igdb_id": 22209,
@@ -629337,6 +629442,11 @@
       "file": "missing/J/4519-jurassic-park.json"
     },
     {
+      "igdb_id": 75526,
+      "game_name": "Jurassic Park",
+      "file": "missing/J/75526-jurassic-park.json"
+    },
+    {
       "igdb_id": 8367,
       "game_name": "Jurassic Park : Aftermath",
       "file": "missing/J/8367-jurassic-park-aftermath.json"
@@ -645947,6 +646057,11 @@
       "file": "missing/K/185700-king-of-the-dwarves-underground-city-builder.json"
     },
     {
+      "igdb_id": 75395,
+      "game_name": "King of the Eggs",
+      "file": "missing/K/75395-king-of-the-eggs.json"
+    },
+    {
       "igdb_id": 54974,
       "game_name": "King of the Hat",
       "file": "missing/K/54974-king-of-the-hat.json"
@@ -654285,6 +654400,11 @@
       "igdb_id": 308207,
       "game_name": "Koi Dojo",
       "file": "missing/K/308207-koi-dojo.json"
+    },
+    {
+      "igdb_id": 75557,
+      "game_name": "Koi DX",
+      "file": "missing/K/75557-koi-dx.json"
     },
     {
       "igdb_id": 143633,
@@ -778092,6 +778212,11 @@
       "file": "missing/M/178008-mons.json"
     },
     {
+      "igdb_id": 75558,
+      "game_name": "Monsiv",
+      "file": "missing/M/75558-monsiv.json"
+    },
+    {
       "igdb_id": 404184,
       "game_name": "Monst",
       "file": "missing/M/404184-monst.json"
@@ -824107,6 +824232,11 @@
       "file": "missing/N/366220-new-supper-banana.json"
     },
     {
+      "igdb_id": 75548,
+      "game_name": "New Survival Shooter!",
+      "file": "missing/N/75548-new-survival-shooter.json"
+    },
+    {
       "igdb_id": 212478,
       "game_name": "New Swordsman",
       "file": "missing/N/212478-new-swordsman.json"
@@ -835200,6 +835330,11 @@
       "igdb_id": 126581,
       "game_name": "No Offence, But",
       "file": "missing/N/126581-no-offence-but.json"
+    },
+    {
+      "igdb_id": 75394,
+      "game_name": "No One",
+      "file": "missing/N/75394-no-one.json"
     },
     {
       "igdb_id": 19243,
@@ -860527,6 +860662,11 @@
       "file": "missing/O/19228-operation-spacehog.json"
     },
     {
+      "igdb_id": 75527,
+      "game_name": "Operation Spruance: The Naval Warfare Simulation",
+      "file": "missing/O/75527-operation-spruance-the-naval-warfare-simulation.json"
+    },
+    {
       "igdb_id": 151732,
       "game_name": "Operation Steel",
       "file": "missing/O/151732-operation-steel.json"
@@ -885162,6 +885302,16 @@
       "file": "missing/P/125735-path-of-exile-mobile.json"
     },
     {
+      "igdb_id": 75571,
+      "game_name": "Path of Exile: Ascendancy",
+      "file": "missing/P/75571-path-of-exile-ascendancy.json"
+    },
+    {
+      "igdb_id": 75572,
+      "game_name": "Path of Exile: Atlas of Worlds",
+      "file": "missing/P/75572-path-of-exile-atlas-of-worlds.json"
+    },
+    {
       "igdb_id": 257831,
       "game_name": "Path of Exile: Crucible",
       "file": "missing/P/257831-path-of-exile-crucible.json"
@@ -885220,6 +885370,11 @@
       "igdb_id": 115463,
       "game_name": "Path of Exile: Synthesis",
       "file": "missing/P/115463-path-of-exile-synthesis.json"
+    },
+    {
+      "igdb_id": 75570,
+      "game_name": "Path of Exile: The Awakening",
+      "file": "missing/P/75570-path-of-exile-the-awakening.json"
     },
     {
       "igdb_id": 51543,
@@ -898642,6 +898797,11 @@
       "file": "missing/P/55779-piatka.json"
     },
     {
+      "igdb_id": 75550,
+      "game_name": "PiAwk",
+      "file": "missing/P/75550-piawk.json"
+    },
+    {
       "igdb_id": 266182,
       "game_name": "Pibby: Apocalypse",
       "file": "missing/P/266182-pibby-apocalypse.json"
@@ -907695,6 +907855,11 @@
       "igdb_id": 105942,
       "game_name": "Pivoting People",
       "file": "missing/P/105942-pivoting-people.json"
+    },
+    {
+      "igdb_id": 75549,
+      "game_name": "Pivoto",
+      "file": "missing/P/75549-pivoto.json"
     },
     {
       "igdb_id": 96125,
@@ -955502,6 +955667,11 @@
       "file": "missing/P/213913-puzzle-mania.json"
     },
     {
+      "igdb_id": 75538,
+      "game_name": "Puzzle Mania",
+      "file": "missing/P/75538-puzzle-mania.json"
+    },
+    {
       "igdb_id": 213916,
       "game_name": "Puzzle Mania 2",
       "file": "missing/P/213916-puzzle-mania-2.json"
@@ -970460,6 +970630,11 @@
       "igdb_id": 171764,
       "game_name": "Rainbows, Toilets & Unicorns: Political Drama",
       "file": "missing/R/171764-rainbows-toilets-and-unicorns-political-drama.json"
+    },
+    {
+      "igdb_id": 75536,
+      "game_name": "RainbowTail",
+      "file": "missing/R/75536-rainbowtail.json"
     },
     {
       "igdb_id": 178082,
@@ -1028740,6 +1028915,11 @@
       "igdb_id": 118298,
       "game_name": "Salt the Earth",
       "file": "missing/S/118298-salt-the-earth.json"
+    },
+    {
+      "igdb_id": 75393,
+      "game_name": "Salt Thrust",
+      "file": "missing/S/75393-salt-thrust.json"
     },
     {
       "igdb_id": 379869,
@@ -1096022,6 +1096202,11 @@
       "file": "missing/S/233735-soccer-showdown-3.json"
     },
     {
+      "igdb_id": 75397,
+      "game_name": "Soccer Simulation",
+      "file": "missing/S/75397-soccer-simulation.json"
+    },
+    {
       "igdb_id": 141461,
       "game_name": "Soccer Skills",
       "file": "missing/S/141461-soccer-skills.json"
@@ -1135577,6 +1135762,11 @@
       "file": "missing/S/1386-star-wars-1313.json"
     },
     {
+      "igdb_id": 75564,
+      "game_name": "Star Wars: Assault Team",
+      "file": "missing/S/75564-star-wars-assault-team.json"
+    },
+    {
       "igdb_id": 62510,
       "game_name": "Star Wars: Attack Squadrons",
       "file": "missing/S/62510-star-wars-attack-squadrons.json"
@@ -1135867,6 +1136057,11 @@
       "file": "missing/S/35596-star-wars-galactic-battlegrounds-saga.json"
     },
     {
+      "igdb_id": 75565,
+      "game_name": "Star Wars: Galactic Defense",
+      "file": "missing/S/75565-star-wars-galactic-defense.json"
+    },
+    {
       "igdb_id": 77212,
       "game_name": "Star Wars: Galaxies - Starter Kit",
       "file": "missing/S/77212-star-wars-galaxies-starter-kit.json"
@@ -1135877,6 +1136072,11 @@
       "file": "missing/S/19577-star-wars-galaxy-of-heroes.json"
     },
     {
+      "igdb_id": 75559,
+      "game_name": "Star Wars: Grievous Getaway",
+      "file": "missing/S/75559-star-wars-grievous-getaway.json"
+    },
+    {
       "igdb_id": 200175,
       "game_name": "Star Wars: Heritage Pack",
       "file": "missing/S/200175-star-wars-heritage-pack.json"
@@ -1135885,6 +1136085,11 @@
       "igdb_id": 247756,
       "game_name": "Star Wars: Heritage Pack",
       "file": "missing/S/247756-star-wars-heritage-pack.json"
+    },
+    {
+      "igdb_id": 75566,
+      "game_name": "Star Wars: Heroes Path",
+      "file": "missing/S/75566-star-wars-heroes-path.json"
     },
     {
       "igdb_id": 328991,
@@ -1135915,6 +1136120,11 @@
       "igdb_id": 347677,
       "game_name": "Star Wars: Hunters - Season 5: Scum & Villainy",
       "file": "missing/S/347677-star-wars-hunters-season-5-scum-and-villainy.json"
+    },
+    {
+      "igdb_id": 75560,
+      "game_name": "Star Wars: Imperial Ace",
+      "file": "missing/S/75560-star-wars-imperial-ace.json"
     },
     {
       "igdb_id": 198919,
@@ -1136097,6 +1136307,11 @@
       "file": "missing/S/151-star-wars-rebellion.json"
     },
     {
+      "igdb_id": 75562,
+      "game_name": "Star Wars: Republic Commando - Order 66",
+      "file": "missing/S/75562-star-wars-republic-commando-order-66.json"
+    },
+    {
       "igdb_id": 220265,
       "game_name": "Star Wars: Republic Squadron",
       "file": "missing/S/220265-star-wars-republic-squadron.json"
@@ -1136155,6 +1136370,11 @@
       "igdb_id": 166008,
       "game_name": "Star Wars: Tales from the Galaxy's Edge - Last Call",
       "file": "missing/S/166008-star-wars-tales-from-the-galaxys-edge-last-call.json"
+    },
+    {
+      "igdb_id": 75561,
+      "game_name": "Star Wars: The Battle Above Coruscant",
+      "file": "missing/S/75561-star-wars-the-battle-above-coruscant.json"
     },
     {
       "igdb_id": 66424,
@@ -1144450,6 +1144670,11 @@
       "igdb_id": 369037,
       "game_name": "Step Away",
       "file": "missing/S/369037-step-away.json"
+    },
+    {
+      "igdb_id": 75528,
+      "game_name": "Step by star",
+      "file": "missing/S/75528-step-by-star.json"
     },
     {
       "igdb_id": 221099,
@@ -1171927,6 +1172152,11 @@
       "file": "missing/S/39039-super-putty.json"
     },
     {
+      "igdb_id": 75556,
+      "game_name": "Super Putty Squad",
+      "file": "missing/S/75556-super-putty-squad.json"
+    },
+    {
       "igdb_id": 42406,
       "game_name": "Super Puyo Puyo",
       "file": "missing/S/42406-super-puyo-puyo.json"
@@ -1184685,6 +1184915,11 @@
       "igdb_id": 105710,
       "game_name": "Switcher",
       "file": "missing/S/105710-switcher.json"
+    },
+    {
+      "igdb_id": 75552,
+      "game_name": "Switchero - Dash n' retry",
+      "file": "missing/S/75552-switchero-dash-n-retry.json"
     },
     {
       "igdb_id": 340397,
@@ -1324777,6 +1325012,11 @@
       "file": "missing/T/103068-transit-city-touch.json"
     },
     {
+      "igdb_id": 75530,
+      "game_name": "Transit King",
+      "file": "missing/T/75530-transit-king.json"
+    },
+    {
       "igdb_id": 140399,
       "game_name": "Transit King Tycoon",
       "file": "missing/T/140399-transit-king-tycoon.json"
@@ -1342020,6 +1342260,11 @@
       "igdb_id": 269057,
       "game_name": "Tyre Trax",
       "file": "missing/T/269057-tyre-trax.json"
+    },
+    {
+      "igdb_id": 75539,
+      "game_name": "Tyred",
+      "file": "missing/T/75539-tyred.json"
     },
     {
       "igdb_id": 90587,
@@ -1409990,6 +1410235,11 @@
       "igdb_id": 96281,
       "game_name": "Woah Vicky",
       "file": "missing/W/96281-woah-vicky.json"
+    },
+    {
+      "igdb_id": 75389,
+      "game_name": "Woahds!",
+      "file": "missing/W/75389-woahds.json"
     },
     {
       "igdb_id": 373513,
