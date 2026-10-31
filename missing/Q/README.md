@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Avenue | 371015 | [371015-quiz-avenue.json](./371015-quiz-avenue.json) |
 | Quiz Brain Workout | 358626 | [358626-quiz-brain-workout.json](./358626-quiz-brain-workout.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
+| Quiz Carnival 2 -Meguriai Version- | 106284 | [106284-quiz-carnival-2-meguriai-version.json](./106284-quiz-carnival-2-meguriai-version.json) |
 | Quiz Climber | 94122 | [94122-quiz-climber.json](./94122-quiz-climber.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
