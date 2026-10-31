@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | Talking Tom Gold Run | 87051 | [87051-talking-tom-gold-run.json](./87051-talking-tom-gold-run.json) |
 | Talking Tom Hero Dash | 119245 | [119245-talking-tom-hero-dash.json](./119245-talking-tom-hero-dash.json) |
+| Talking Tom Jetski 2 | 103092 | [103092-talking-tom-jetski-2.json](./103092-talking-tom-jetski-2.json) |
 | Talking Tom Pool | 87043 | [87043-talking-tom-pool.json](./87043-talking-tom-pool.json) |
 | Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
 | TalkMan | 23141 | [23141-talkman.json](./23141-talkman.json) |
@@ -1883,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanks Etc. | 285934 | [285934-tanks-etc.json](./285934-tanks-etc.json) |
+| Tanks Fire Up:pocket wars hero | 103093 | [103093-tanks-fire-up-pocket-wars-hero.json](./103093-tanks-fire-up-pocket-wars-hero.json) |
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
 | Tanks in Labyrinth | 166942 | [166942-tanks-in-labyrinth.json](./166942-tanks-in-labyrinth.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
@@ -3499,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Jr. | 19761 | [19761-tempo-jr.json](./19761-tempo-jr.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempo Punk | 212148 | [212148-tempo-punk.json](./212148-tempo-punk.json) |
+| Tempo Quest | 103049 | [103049-tempo-quest.json](./103049-tempo-quest.json) |
 | Tempo Tamer | 384853 | [384853-tempo-tamer.json](./384853-tempo-tamer.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
@@ -4250,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror: Endless Night | 196955 | [196955-terror-endless-night.json](./196955-terror-endless-night.json) |
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
+| Terrordrome: Reign of the Legends | 103050 | [103050-terrordrome-reign-of-the-legends.json](./103050-terrordrome-reign-of-the-legends.json) |
 | Terrordrome: Rise of the Boogeymen | 47036 | [47036-terrordrome-rise-of-the-boogeymen.json](./47036-terrordrome-rise-of-the-boogeymen.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
@@ -7815,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Duskbloods | 338104 | [338104-the-duskbloods.json](./338104-the-duskbloods.json) |
+| The Dust | 103059 | [103059-the-dust.json](./103059-the-dust.json) |
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
 | The DvD Idle Game | 373325 | [373325-the-dvd-idle-game.json](./373325-the-dvd-idle-game.json) |
 | The Dwarf | 257879 | [257879-the-dwarf.json](./257879-the-dwarf.json) |
@@ -11806,6 +11811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Cuttle Goes to Battle | 211595 | [211595-the-little-cuttle-goes-to-battle.json](./211595-the-little-cuttle-goes-to-battle.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Engine That Could | 242030 | [242030-the-little-engine-that-could.json](./242030-the-little-engine-that-could.json) |
+| The Little Fox | 103096 | [103096-the-little-fox.json](./103096-the-little-fox.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
 | The Little Land | 403022 | [403022-the-little-land.json](./403022-the-little-land.json) |
 | The Little Lifeform That Could | 57483 | [57483-the-little-lifeform-that-could.json](./57483-the-little-lifeform-that-could.json) |
@@ -17712,6 +17718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thelos | 216443 | [216443-thelos.json](./216443-thelos.json) |
 | TheLostWoods | 327763 | [327763-thelostwoods.json](./327763-thelostwoods.json) |
 | Them and Us | 107688 | [107688-them-and-us.json](./107688-them-and-us.json) |
+| Them Bombs! | 103056 | [103056-them-bombs.json](./103056-them-bombs.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
 | Them's Fightin' Herds | 18280 | [18280-thems-fightin-herds.json](./18280-thems-fightin-herds.json) |
@@ -27058,6 +27065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transistors Revenge | 297471 | [297471-transistors-revenge.json](./297471-transistors-revenge.json) |
 | Transit | 113505 | [113505-transit.json](./113505-transit.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
+| Transit City Touch | 103068 | [103068-transit-city-touch.json](./103068-transit-city-touch.json) |
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
 | Transit Trauma | 179454 | [179454-transit-trauma.json](./179454-transit-trauma.json) |
 | Transition | 229838 | [229838-transition.json](./229838-transition.json) |
@@ -27073,6 +27081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transmission: Shortwave | 377208 | [377208-transmission-shortwave.json](./377208-transmission-shortwave.json) |
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
 | Transmissions: Element 120 | 35389 | [35389-transmissions-element-120.json](./35389-transmissions-element-120.json) |
+| Transmogrify | 103036 | [103036-transmogrify.json](./103036-transmogrify.json) |
 | Transmorpher | 262510 | [262510-transmorpher.json](./262510-transmorpher.json) |
 | Transmorpher 3 | 101937 | [101937-transmorpher-3.json](./101937-transmorpher-3.json) |
 | Transmute Syndrome | 311670 | [311670-transmute-syndrome.json](./311670-transmute-syndrome.json) |
@@ -28081,6 +28090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triggerun | 105713 | [105713-triggerun.json](./105713-triggerun.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
 | Trigodpats RPG | 387413 | [387413-trigodpats-rpg.json](./387413-trigodpats-rpg.json) |
+| Trigon | 103077 | [103077-trigon.json](./103077-trigon.json) |
 | Trigon: Space Story | 144562 | [144562-trigon-space-story.json](./144562-trigon-space-story.json) |
 | Trigon: Space Story - Deluxe Edition | 227186 | [227186-trigon-space-story-deluxe-edition.json](./227186-trigon-space-story-deluxe-edition.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
@@ -29833,6 +29843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty Wargame Classics | 94367 | [94367-twenty-wargame-classics.json](./94367-twenty-wargame-classics.json) |
 | Twenty-second: Stories of Underground Kharkiv | 295170 | [295170-twenty-second-stories-of-underground-kharkiv.json](./295170-twenty-second-stories-of-underground-kharkiv.json) |
 | Twenty, in Total | 204424 | [204424-twenty-in-total.json](./204424-twenty-in-total.json) |
+| Twenty48 Solitaire | 103097 | [103097-twenty48-solitaire.json](./103097-twenty48-solitaire.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerk Race 3D | 282421 | [282421-twerk-race-3d.json](./282421-twerk-race-3d.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
