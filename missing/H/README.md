@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
 | Hank: The Great Unraveling | 258398 | [258398-hank-the-great-unraveling.json](./258398-hank-the-great-unraveling.json) |
 | Hank's Voyage | 144908 | [144908-hanks-voyage.json](./144908-hanks-voyage.json) |
+| Hankou Shashin: Shibarareta Shoujo-tachi no Mita Mono ha? | 112567 | [112567-hankou-shashin-shibarareta-shoujo-tachi-no-mita-mono-ha.json](./112567-hankou-shashin-shibarareta-shoujo-tachi-no-mita-mono-ha.json) |
 | Hanna Barbera's Cartoon Carnival | 45939 | [45939-hanna-barberas-cartoon-carnival.json](./45939-hanna-barberas-cartoon-carnival.json) |
 | Hanna Barbera's Turbo Toons | 42619 | [42619-hanna-barberas-turbo-toons.json](./42619-hanna-barberas-turbo-toons.json) |
 | Hanna in a Choppa | 416744 | [416744-hanna-in-a-choppa.json](./416744-hanna-in-a-choppa.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Simulator: Rescue Sim | 288302 | [288302-helicopter-simulator-rescue-sim.json](./288302-helicopter-simulator-rescue-sim.json) |
 | Helicopter Simulator: Search and Rescue 2014 | 53186 | [53186-helicopter-simulator-search-and-rescue-2014.json](./53186-helicopter-simulator-search-and-rescue-2014.json) |
 | Helicopter Strike Force | 27538 | [27538-helicopter-strike-force.json](./27538-helicopter-strike-force.json) |
+| Helidefence | 112619 | [112619-helidefence.json](./112619-helidefence.json) |
 | Helidroid 2: Helicopter R/C | 197642 | [197642-helidroid-2-helicopter-r-c.json](./197642-helidroid-2-helicopter-r-c.json) |
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
 | HeliInvasion 2 | 200043 | [200043-heliinvasion-2.json](./200043-heliinvasion-2.json) |
@@ -10087,6 +10089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Many Dudes? | 369765 | [369765-how-many-dudes.json](./369765-how-many-dudes.json) |
 | How Many Robots? | 66185 | [66185-how-many-robots.json](./66185-how-many-robots.json) |
 | How Many Secrets Under Ceiling | 373205 | [373205-how-many-secrets-under-ceiling.json](./373205-how-many-secrets-under-ceiling.json) |
+| How Mosquito Became Human | 112595 | [112595-how-mosquito-became-human.json](./112595-how-mosquito-became-human.json) |
 | How Much for the Body in the Freezer | 401158 | [401158-how-much-for-the-body-in-the-freezer.json](./401158-how-much-for-the-body-in-the-freezer.json) |
 | How Much Items: Animals | 340489 | [340489-how-much-items-animals.json](./340489-how-much-items-animals.json) |
 | How Much Items: Fishes | 340490 | [340490-how-much-items-fishes.json](./340490-how-much-items-fishes.json) |
@@ -11040,6 +11043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakki Yakou: Kaidan Romance | 219136 | [219136-hyakki-yakou-kaidan-romance.json](./219136-hyakki-yakou-kaidan-romance.json) |
 | Hyakkiyakou | 64264 | [64264-hyakkiyakou.json](./64264-hyakkiyakou.json) |
 | Hyakko: Yorozuya Jikenbo! | 61452 | [61452-hyakko-yorozuya-jikenbo.json](./61452-hyakko-yorozuya-jikenbo.json) |
+| Hyaku Monogatari: Honto ni Atta Kowai Hanashi | 112569 | [112569-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json](./112569-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
 | Hyakuju Sentai Gaoranger | 43730 | [43730-hyakuju-sentai-gaoranger.json](./43730-hyakuju-sentai-gaoranger.json) |
 | Hyakumasu Dora-san Nobita no Time Battle | 56994 | [56994-hyakumasu-dora-san-nobita-no-time-battle.json](./56994-hyakumasu-dora-san-nobita-no-time-battle.json) |
