@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Jack | 351535 | [351535-incredible-jack.json](./351535-incredible-jack.json) |
 | Incredible Machine Mega Pack | 124970 | [124970-incredible-machine-mega-pack.json](./124970-incredible-machine-mega-pack.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
+| Incredible Monster VS US Army Prison Survival Game | 102535 | [102535-incredible-monster-vs-us-army-prison-survival-game.json](./102535-incredible-monster-vs-us-army-prison-survival-game.json) |
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
 | Incredible Shrinking Sphere | 13071 | [13071-incredible-shrinking-sphere.json](./13071-incredible-shrinking-sphere.json) |
 | Incrediblock: Brick-Breaker | 59203 | [59203-incrediblock-brick-breaker.json](./59203-incrediblock-brick-breaker.json) |
