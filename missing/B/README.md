@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3217,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
 | Battle Brothers: Warriors of the North | 124963 | [124963-battle-brothers-warriors-of-the-north.json](./124963-battle-brothers-warriors-of-the-north.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
+| Battle Bruise 2 | 123740 | [123740-battle-bruise-2.json](./123740-battle-bruise-2.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
 | Battle Bugs | 333490 | [333490-battle-bugs.json](./333490-battle-bugs.json) |
 | Battle Bundle I Stickman: Far East Battle and Battle of Archers | 180969 | [180969-battle-bundle-i-stickman-far-east-battle-and-battle-of-archers.json](./180969-battle-bundle-i-stickman-far-east-battle-and-battle-of-archers.json) |
@@ -3604,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Ship Clapton II | 47547 | [47547-battle-ship-clapton-ii.json](./47547-battle-ship-clapton-ii.json) |
 | Battle Ships | 13869 | [13869-battle-ships.json](./13869-battle-ships.json) |
 | Battle Shooter | 197493 | [197493-battle-shooter.json](./197493-battle-shooter.json) |
+| Battle Siege Royale | 123760 | [123760-battle-siege-royale.json](./123760-battle-siege-royale.json) |
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Simulator | 301238 | [301238-battle-simulator.json](./301238-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
@@ -11567,6 +11570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boneyard Bounce! | 414604 | [414604-boneyard-bounce.json](./414604-boneyard-bounce.json) |
 | Bonez | 278289 | [278289-bonez.json](./278289-bonez.json) |
 | Bonez Adventures: Tomb of Fulaos | 120874 | [120874-bonez-adventures-tomb-of-fulaos.json](./120874-bonez-adventures-tomb-of-fulaos.json) |
+| Bonfire | 123774 | [123774-bonfire.json](./123774-bonfire.json) |
 | Bonfire | 201658 | [201658-bonfire.json](./201658-bonfire.json) |
 | Bonfire and Tail | 250801 | [250801-bonfire-and-tail.json](./250801-bonfire-and-tail.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
@@ -14447,6 +14451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brother 2: Back to America | 122009 | [122009-brother-2-back-to-america.json](./122009-brother-2-back-to-america.json) |
 | Brother Adventure | 73508 | [73508-brother-adventure.json](./73508-brother-adventure.json) |
 | Brother Against Brother | 59494 | [59494-brother-against-brother.json](./59494-brother-against-brother.json) |
+| Brother Brother | 123734 | [123734-brother-brother.json](./123734-brother-brother.json) |
 | Brother Cat: The Legend of Super Cat | 98500 | [98500-brother-cat-the-legend-of-super-cat.json](./98500-brother-cat-the-legend-of-super-cat.json) |
 | Brother Perro | 96867 | [96867-brother-perro.json](./96867-brother-perro.json) |
 | Brother Wake Up | 149696 | [149696-brother-wake-up.json](./149696-brother-wake-up.json) |
