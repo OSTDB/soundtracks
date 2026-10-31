@@ -3423,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Mountain | 294957 | [294957-endless-mountain.json](./294957-endless-mountain.json) |
 | Endless National | 188376 | [188376-endless-national.json](./188376-endless-national.json) |
 | Endless Nesla | 231176 | [231176-endless-nesla.json](./231176-endless-nesla.json) |
+| Endless Night: Alpha | 91055 | [91055-endless-night-alpha.json](./91055-endless-night-alpha.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
