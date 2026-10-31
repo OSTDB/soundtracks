@@ -22267,6 +22267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
 | Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
+| Star Trek: Starfleet Academy - Chekov's Lost Missions | 69647 | [69647-star-trek-starfleet-academy-chekovs-lost-missions.json](./69647-star-trek-starfleet-academy-chekovs-lost-missions.json) |
 | Star Trek: Starfleet Academy - Starship Bridge Simulator | 45878 | [45878-star-trek-starfleet-academy-starship-bridge-simulator.json](./45878-star-trek-starfleet-academy-starship-bridge-simulator.json) |
 | Star Trek: Starfleet Command - Orion Pirates | 79758 | [79758-star-trek-starfleet-command-orion-pirates.json](./79758-star-trek-starfleet-command-orion-pirates.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
@@ -22794,6 +22795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfleet Orion | 23297 | [23297-starfleet-orion.json](./23297-starfleet-orion.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
 | Starflight II: Trade Routes of the Cloud Nebula | 12777 | [12777-starflight-ii-trade-routes-of-the-cloud-nebula.json](./12777-starflight-ii-trade-routes-of-the-cloud-nebula.json) |
+| Starflight: A Cosmic Adventure | 69642 | [69642-starflight-a-cosmic-adventure.json](./69642-starflight-a-cosmic-adventure.json) |
 | StarFlint the BlackHole Prophecy | 192567 | [192567-starflint-the-blackhole-prophecy.json](./192567-starflint-the-blackhole-prophecy.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
 | StarFlyers: Alien Space Chase | 122951 | [122951-starflyers-alien-space-chase.json](./122951-starflyers-alien-space-chase.json) |
