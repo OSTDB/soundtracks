@@ -4906,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Star | 239759 | [239759-air-star.json](./239759-air-star.json) |
 | Air Strike HD | 88501 | [88501-air-strike-hd.json](./88501-air-strike-hd.json) |
 | Air Strike USA | 47029 | [47029-air-strike-usa.json](./47029-air-strike-usa.json) |
+| Air Strike: 3D Combat | 99315 | [99315-air-strike-3d-combat.json](./99315-air-strike-3d-combat.json) |
 | Air Strike: WW2 Fighters Sky Combat | 180981 | [180981-air-strike-ww2-fighters-sky-combat.json](./180981-air-strike-ww2-fighters-sky-combat.json) |
 | Air Stunt Racing | 178790 | [178790-air-stunt-racing.json](./178790-air-stunt-racing.json) |
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
@@ -6420,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
 | Alik: Juz Ide Do Szkoly | 188561 | [188561-alik-juz-ide-do-szkoly.json](./188561-alik-juz-ide-do-szkoly.json) |
 | Alilia | 116862 | [116862-alilia.json](./116862-alilia.json) |
+| Alima's Baby 2 Baby Pet | 99351 | [99351-alimas-baby-2-baby-pet.json](./99351-alimas-baby-2-baby-pet.json) |
 | Alimardan Meets Merlin | 55666 | [55666-alimardan-meets-merlin.json](./55666-alimardan-meets-merlin.json) |
 | Alimardan's Mischief | 55667 | [55667-alimardans-mischief.json](./55667-alimardans-mischief.json) |
 | Alimardan's Mischiefs | 52378 | [52378-alimardans-mischiefs.json](./52378-alimardans-mischiefs.json) |
@@ -9189,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Puzzles for toddler: Learning kids games | 93816 | [93816-animals-puzzles-for-toddler-learning-kids-games.json](./93816-animals-puzzles-for-toddler-learning-kids-games.json) |
 | Animals Transport Simulator | 201692 | [201692-animals-transport-simulator.json](./201692-animals-transport-simulator.json) |
 | Animals Transport Simulator | 219297 | [219297-animals-transport-simulator.json](./219297-animals-transport-simulator.json) |
+| Animals with Dally Dino | 99313 | [99313-animals-with-dally-dino.json](./99313-animals-with-dally-dino.json) |
 | Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
 | AnimaLudo: Extended Edition | 199839 | [199839-animaludo-extended-edition.json](./199839-animaludo-extended-edition.json) |
