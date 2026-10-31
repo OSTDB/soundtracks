@@ -5707,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Die Vie Ess | 71162 | [71162-return-of-die-vie-ess.json](./71162-return-of-die-vie-ess.json) |
 | Return of Donkey Kong | 131902 | [131902-return-of-donkey-kong.json](./131902-return-of-donkey-kong.json) |
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
+| Return of Heracles | 70752 | [70752-return-of-heracles.json](./70752-return-of-heracles.json) |
 | Return of Jelda | 78312 | [78312-return-of-jelda.json](./78312-return-of-jelda.json) |
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
@@ -9867,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romy & Max and the Hidden Rainforest | 410838 | [410838-romy-and-max-and-the-hidden-rainforest.json](./410838-romy-and-max-and-the-hidden-rainforest.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
+| RON 2 and 1/2: Fowl Play | 70835 | [70835-ron-2-and-1-2-fowl-play.json](./70835-ron-2-and-1-2-fowl-play.json) |
 | RON Quiz Part 1 | 71239 | [71239-ron-quiz-part-1.json](./71239-ron-quiz-part-1.json) |
 | Ron-Q! Highland in DS | 123403 | [123403-ron-q-highland-in-ds.json](./123403-ron-q-highland-in-ds.json) |
 | Ronald McDonald Alphabet Fun | 198877 | [198877-ronald-mcdonald-alphabet-fun.json](./198877-ronald-mcdonald-alphabet-fun.json) |
@@ -11418,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Monster | 402883 | [402883-rune-monster.json](./402883-rune-monster.json) |
 | Rune Monsters | 236478 | [236478-rune-monsters.json](./236478-rune-monsters.json) |
 | Rune of Eternity | 194372 | [194372-rune-of-eternity.json](./194372-rune-of-eternity.json) |
+| Rune of Fate | 70753 | [70753-rune-of-fate.json](./70753-rune-of-fate.json) |
 | Rune of Tauro | 179343 | [179343-rune-of-tauro.json](./179343-rune-of-tauro.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
@@ -11432,6 +11435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Worth 3: Shinseiki Kourin | 297594 | [297594-rune-worth-3-shinseiki-kourin.json](./297594-rune-worth-3-shinseiki-kourin.json) |
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
+| Rune: Halls of Valhalla | 70737 | [70737-rune-halls-of-valhalla.json](./70737-rune-halls-of-valhalla.json) |
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
 | Runeborn | 317052 | [317052-runeborn.json](./317052-runeborn.json) |
 | Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
