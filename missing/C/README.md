@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
 | Caliban | 401293 | [401293-caliban.json](./401293-caliban.json) |
+| Caliban Below | 97069 | [97069-caliban-below.json](./97069-caliban-below.json) |
 | Caliber | 125779 | [125779-caliber.json](./125779-caliber.json) |
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
 | Calibration Sequence | 423278 | [423278-calibration-sequence.json](./423278-calibration-sequence.json) |
@@ -7057,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chains | 386731 | [386731-chop-chains.json](./386731-chop-chains.json) |
 | Chop Chef | 359323 | [359323-chop-chef.json](./359323-chop-chef.json) |
 | Chop Chop Caveman | 256384 | [256384-chop-chop-caveman.json](./256384-chop-chop-caveman.json) |
+| Chop Chop Hockey | 97055 | [97055-chop-chop-hockey.json](./97055-chop-chop-hockey.json) |
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
 | Chop Chop Kicker | 232489 | [232489-chop-chop-kicker.json](./232489-chop-chop-kicker.json) |
 | Chop Chop Ninja | 256383 | [256383-chop-chop-ninja.json](./256383-chop-chop-ninja.json) |
