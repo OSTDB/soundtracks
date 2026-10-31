@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanklike | 163349 | [163349-tanklike.json](./163349-tanklike.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
+| Tankorama | 115943 | [115943-tankorama.json](./115943-tankorama.json) |
 | TankOre Mining | 333030 | [333030-tankore-mining.json](./333030-tankore-mining.json) |
 | Tankr.io Realtime Battle | 107548 | [107548-tankr-io-realtime-battle.json](./107548-tankr-io-realtime-battle.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
@@ -19161,6 +19162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Sunset MP098 | 189576 | [189576-tiger-fighter-1931-sunset-mp098.json](./189576-tiger-fighter-1931-sunset-mp098.json) |
 | Tiger Fighter 1931: Sunset MP099 | 189550 | [189550-tiger-fighter-1931-sunset-mp099.json](./189550-tiger-fighter-1931-sunset-mp099.json) |
 | Tiger Fighter 1931: Sunset MP100 | 173498 | [173498-tiger-fighter-1931-sunset-mp100.json](./173498-tiger-fighter-1931-sunset-mp100.json) |
+| Tiger Fighter 1931: Tora! | 115962 | [115962-tiger-fighter-1931-tora.json](./115962-tiger-fighter-1931-tora.json) |
 | Tiger Fighter 1931: Tora! MP011 | 173656 | [173656-tiger-fighter-1931-tora-mp011.json](./173656-tiger-fighter-1931-tora-mp011.json) |
 | Tiger Fighter 1931: Tora! MP012 | 173671 | [173671-tiger-fighter-1931-tora-mp012.json](./173671-tiger-fighter-1931-tora-mp012.json) |
 | Tiger Fighter 1931: Tora! MP013 | 189682 | [189682-tiger-fighter-1931-tora-mp013.json](./189682-tiger-fighter-1931-tora-mp013.json) |
@@ -23734,6 +23736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totem 2 | 204851 | [204851-totem-2.json](./204851-totem-2.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Clash | 338956 | [338956-totem-clash.json](./338956-totem-clash.json) |
+| Totem Force | 115983 | [115983-totem-force.json](./115983-totem-force.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
 | Totem Smash | 344235 | [344235-totem-smash.json](./344235-totem-smash.json) |
 | Totem Topple | 59524 | [59524-totem-topple.json](./59524-totem-topple.json) |
@@ -30034,6 +30037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Hollow | 344956 | [344956-twisty-hollow.json](./344956-twisty-hollow.json) |
 | Twisty Pals | 289195 | [289195-twisty-pals.json](./289195-twisty-pals.json) |
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
+| Twisty Puzzle Simulator | 115995 | [115995-twisty-puzzle-simulator.json](./115995-twisty-puzzle-simulator.json) |
 | Twisty Puzzle World | 264536 | [264536-twisty-puzzle-world.json](./264536-twisty-puzzle-world.json) |
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
 | Twisty Tiles | 100637 | [100637-twisty-tiles.json](./100637-twisty-tiles.json) |
