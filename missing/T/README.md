@@ -7674,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
 | The Dolls | 32636 | [32636-the-dolls.json](./32636-the-dolls.json) |
 | The Dolphin's Pearl | 73630 | [73630-the-dolphins-pearl.json](./73630-the-dolphins-pearl.json) |
+| The Domovoi | 83318 | [83318-the-domovoi.json](./83318-the-domovoi.json) |
 | The Don't Do List | 398264 | [398264-the-dont-do-list.json](./398264-the-dont-do-list.json) |
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
 | The Donnerwald Experiment | 100339 | [100339-the-donnerwald-experiment.json](./100339-the-donnerwald-experiment.json) |
@@ -17056,6 +17057,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War in Heaven | 72020 | [72020-the-war-in-heaven.json](./72020-the-war-in-heaven.json) |
 | The War of 2022 | 265272 | [265272-the-war-of-2022.json](./265272-the-war-of-2022.json) |
 | The War of Eustrath | 64644 | [64644-the-war-of-eustrath.json](./64644-the-war-of-eustrath.json) |
+| The War of Genesis | 83297 | [83297-the-war-of-genesis.json](./83297-the-war-of-genesis.json) |
+| The War of Genesis II | 83296 | [83296-the-war-of-genesis-ii.json](./83296-the-war-of-genesis-ii.json) |
 | The War of Genesis III Part.2 | 131404 | [131404-the-war-of-genesis-iii-part-2.json](./131404-the-war-of-genesis-iii-part-2.json) |
 | The War of Genesis IV: Spiral Genesis | 58763 | [58763-the-war-of-genesis-iv-spiral-genesis.json](./58763-the-war-of-genesis-iv-spiral-genesis.json) |
 | The War of Genesis Side Story 2: Tempest | 108756 | [108756-the-war-of-genesis-side-story-2-tempest.json](./108756-the-war-of-genesis-side-story-2-tempest.json) |
@@ -18826,6 +18829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
+| Thunder Run: Firestrike | 83321 | [83321-thunder-run-firestrike.json](./83321-thunder-run-firestrike.json) |
 | Thunder Shooting | 195061 | [195061-thunder-shooting.json](./195061-thunder-shooting.json) |
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
 | Thunder Storm LX-3 | 137249 | [137249-thunder-storm-lx-3.json](./137249-thunder-storm-lx-3.json) |
@@ -21603,10 +21607,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinymon | 320308 | [320308-tinymon.json](./320308-tinymon.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
 | Tinyshot | 138048 | [138048-tinyshot.json](./138048-tinyshot.json) |
+| TinySRPG | 83274 | [83274-tinysrpg.json](./83274-tinysrpg.json) |
+| TinySRPG 2 | 83275 | [83275-tinysrpg-2.json](./83275-tinysrpg-2.json) |
+| TinySRPG 3 | 83276 | [83276-tinysrpg-3.json](./83276-tinysrpg-3.json) |
 | Tinysss! | 216293 | [216293-tinysss.json](./216293-tinysss.json) |
 | TinyTiny | 235820 | [235820-tinytiny.json](./235820-tinytiny.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
+| TinyWar | 83280 | [83280-tinywar.json](./83280-tinywar.json) |
 | TinyWar high-speed | 86587 | [86587-tinywar-high-speed.json](./86587-tinywar-high-speed.json) |
 | TinyWars | 122207 | [122207-tinywars.json](./122207-tinywars.json) |
 | Tip | 362987 | [362987-tip.json](./362987-tip.json) |
