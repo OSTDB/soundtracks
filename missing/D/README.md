@@ -7415,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
 | Devil's Wheel | 130619 | [130619-devils-wheel.json](./130619-devils-wheel.json) |
 | Devil's Wish | 330645 | [330645-devils-wish.json](./330645-devils-wish.json) |
+| Devilated | 95112 | [95112-devilated.json](./95112-devilated.json) |
 | DevilConnection | 312736 | [312736-devilconnection.json](./312736-devilconnection.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Devileader | 152576 | [152576-devileader.json](./152576-devileader.json) |
@@ -11309,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Away from the Colors | 177257 | [177257-dont-look-away-from-the-colors.json](./177257-dont-look-away-from-the-colors.json) |
 | Don't Look Back | 29302 | [29302-dont-look-back.json](./29302-dont-look-back.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
+| Don't Look Back | 95057 | [95057-dont-look-back.json](./95057-dont-look-back.json) |
 | Don't Look Back! | 317395 | [317395-dont-look-back.json](./317395-dont-look-back.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
@@ -12252,6 +12254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorei Toushi Battle Slave | 66651 | [66651-dorei-toushi-battle-slave.json](./66651-dorei-toushi-battle-slave.json) |
 | Dorei Toushi F: Battle Slave Fantasia | 66649 | [66649-dorei-toushi-f-battle-slave-fantasia.json](./66649-dorei-toushi-f-battle-slave-fantasia.json) |
 | DoReMi Fantasy: Milon's DokiDoki Adventure | 15908 | [15908-doremi-fantasy-milons-dokidoki-adventure.json](./15908-doremi-fantasy-milons-dokidoki-adventure.json) |
+| DoReMi Piano for Kids | 95132 | [95132-doremi-piano-for-kids.json](./95132-doremi-piano-for-kids.json) |
 | Doremikko | 41315 | [41315-doremikko.json](./41315-doremikko.json) |
 | Dorf the Dwarf | 309378 | [309378-dorf-the-dwarf.json](./309378-dorf-the-dwarf.json) |
 | Dorfromantik | 134799 | [134799-dorfromantik.json](./134799-dorfromantik.json) |
@@ -12365,6 +12368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotMatrixx | 91288 | [91288-dotmatrixx.json](./91288-dotmatrixx.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
+| Dotra | 95080 | [95080-dotra.json](./95080-dotra.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
 | Dots & Boxes | 256165 | [256165-dots-and-boxes.json](./256165-dots-and-boxes.json) |
 | Dots & Co | 186459 | [186459-dots-and-co.json](./186459-dots-and-co.json) |
@@ -12754,6 +12758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown | 354573 | [354573-downtown.json](./354573-downtown.json) |
 | Downtown | 98761 | [98761-downtown.json](./98761-downtown.json) |
 | DownTown | 94406 | [94406-downtown.json](./94406-downtown.json) |
+| Downtown Casino: Texas Hold'em Poker | 95144 | [95144-downtown-casino-texas-holdem-poker.json](./95144-downtown-casino-texas-holdem-poker.json) |
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dealers | 244071 | [244071-downtown-dealers.json](./244071-downtown-dealers.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
