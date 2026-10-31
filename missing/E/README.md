@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational Pack of Kids Games | 85107 | [85107-educational-pack-of-kids-games.json](./85107-educational-pack-of-kids-games.json) |
 | Educational Suite | 268294 | [268294-educational-suite.json](./268294-educational-suite.json) |
 | Educational Virtual Reality Campus | 341608 | [341608-educational-virtual-reality-campus.json](./341608-educational-virtual-reality-campus.json) |
+| Educative Cash Desk | 101197 | [101197-educative-cash-desk.json](./101197-educative-cash-desk.json) |
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
 | EduNumbers | 167481 | [167481-edunumbers.json](./167481-edunumbers.json) |
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
@@ -3108,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En Tactico | 96631 | [96631-en-tactico.json](./96631-en-tactico.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
+| En-thirer pp-slimes adventures | 101226 | [101226-en-thirer-pp-slimes-adventures.json](./101226-en-thirer-pp-slimes-adventures.json) |
 | En-Train | 159507 | [159507-en-train.json](./159507-en-train.json) |
 | Enadakina | 114251 | [114251-enadakina.json](./114251-enadakina.json) |
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
@@ -4071,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Heroes Battle Royal | 123271 | [123271-epic-heroes-battle-royal.json](./123271-epic-heroes-battle-royal.json) |
 | Epic Ice Cream | 421791 | [421791-epic-ice-cream.json](./421791-epic-ice-cream.json) |
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
+| Epic Inventor | 101221 | [101221-epic-inventor.json](./101221-epic-inventor.json) |
 | Epic Journey: Dragon Land & Legend Thrones | 116025 | [116025-epic-journey-dragon-land-and-legend-thrones.json](./116025-epic-journey-dragon-land-and-legend-thrones.json) |
 | Epic Jump! | 204838 | [204838-epic-jump.json](./204838-epic-jump.json) |
 | Epic Knight | 187661 | [187661-epic-knight.json](./187661-epic-knight.json) |
