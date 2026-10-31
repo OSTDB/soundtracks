@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ibuki Suika Game | 407592 | [407592-ibuki-suika-game.json](./407592-ibuki-suika-game.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
+| Ican | 116690 | [116690-ican.json](./116690-ican.json) |
 | Icarace | 125825 | [125825-icarace.json](./125825-icarace.json) |
 | Icaria | 270555 | [270555-icaria.json](./270555-icaria.json) |
 | iCarly ipinball | 374219 | [374219-icarly-ipinball.json](./374219-icarly-ipinball.json) |
