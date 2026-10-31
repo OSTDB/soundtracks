@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Coin Pusher Friends 3 | 307977 | [307977-old-coin-pusher-friends-3.json](./307977-old-coin-pusher-friends-3.json) |
 | Old Coin Pusher Gaiden | 411143 | [411143-old-coin-pusher-gaiden.json](./411143-old-coin-pusher-gaiden.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
+| Old Edge II | 117336 | [117336-old-edge-ii.json](./117336-old-edge-ii.json) |
 | Old Evil | 151110 | [151110-old-evil.json](./151110-old-evil.json) |
 | Old Forest Ranch | 240829 | [240829-old-forest-ranch.json](./240829-old-forest-ranch.json) |
 | Old Friend | 30092 | [30092-old-friend.json](./30092-old-friend.json) |
@@ -3578,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
+| Orc Raid | 117328 | [117328-orc-raid.json](./117328-orc-raid.json) |
 | Orc Scrolls | 152665 | [152665-orc-scrolls.json](./152665-orc-scrolls.json) |
 | Orc Survivor | 272736 | [272736-orc-survivor.json](./272736-orc-survivor.json) |
 | Orc Survivors | 231192 | [231192-orc-survivors.json](./231192-orc-survivors.json) |
