@@ -3738,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Rescues Santa Claus | 229618 | [229618-mario-rescues-santa-claus.json](./229618-mario-rescues-santa-claus.json) |
 | Mario Rescues the Golden Mushroom | 268345 | [268345-mario-rescues-the-golden-mushroom.json](./268345-mario-rescues-the-golden-mushroom.json) |
 | Mario Roots | 323894 | [323894-mario-roots.json](./323894-mario-roots.json) |
+| Mario Roulette | 67030 | [67030-mario-roulette.json](./67030-mario-roulette.json) |
 | Mario Royale | 119932 | [119932-mario-royale.json](./119932-mario-royale.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Royale Legacy | 322238 | [322238-mario-royale-legacy.json](./322238-mario-royale-legacy.json) |
