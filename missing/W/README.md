@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarHeads SE | 79563 | [79563-warheads-se.json](./79563-warheads-se.json) |
 | Warhedz | 283124 | [283124-warhedz.json](./283124-warhedz.json) |
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
+| Warhound | 92758 | [92758-warhound.json](./92758-warhound.json) |
 | Warhounds | 385698 | [385698-warhounds.json](./385698-warhounds.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
 | Wario Blast: Featuring Bomberman! | 1713 | [1713-wario-blast-featuring-bomberman.json](./1713-wario-blast-featuring-bomberman.json) |
