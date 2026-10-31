@@ -16924,6 +16924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Maidens | 112578 | [112578-crystal-maidens.json](./112578-crystal-maidens.json) |
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
+| Crystal Maze | 85792 | [85792-crystal-maze.json](./85792-crystal-maze.json) |
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
