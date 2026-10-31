@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
 | Warhead | 396769 | [396769-warhead.json](./396769-warhead.json) |
+| Warhead | 85799 | [85799-warhead.json](./85799-warhead.json) |
 | Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
 | Warheads | 144077 | [144077-warheads.json](./144077-warheads.json) |
@@ -8606,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Legends | 256937 | [256937-wwf-legends.json](./256937-wwf-legends.json) |
 | WWF No Mercy | 241491 | [241491-wwf-no-mercy.json](./241491-wwf-no-mercy.json) |
 | WWF No Mercy | 3644 | [3644-wwf-no-mercy.json](./3644-wwf-no-mercy.json) |
+| WWF Panda Junior | 85800 | [85800-wwf-panda-junior.json](./85800-wwf-panda-junior.json) |
 | WWF Rage in the Cage | 5465 | [5465-wwf-rage-in-the-cage.json](./5465-wwf-rage-in-the-cage.json) |
 | WWF Raw | 19771 | [19771-wwf-raw.json](./19771-wwf-raw.json) |
 | WWF Raw | 324537 | [324537-wwf-raw.json](./324537-wwf-raw.json) |
