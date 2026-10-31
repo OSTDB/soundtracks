@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat & Friends: Purrfect Jump | 397733 | [397733-cat-and-friends-purrfect-jump.json](./397733-cat-and-friends-purrfect-jump.json) |
 | Cat & Gold | 272369 | [272369-cat-and-gold.json](./272369-cat-and-gold.json) |
 | Cat & Mice | 217774 | [217774-cat-and-mice.json](./217774-cat-and-mice.json) |
+| Cat & Mouse | 123744 | [123744-cat-and-mouse.json](./123744-cat-and-mouse.json) |
 | Cat & Onion | 284800 | [284800-cat-and-onion.json](./284800-cat-and-onion.json) |
 | Cat & Potat! | 178574 | [178574-cat-and-potat.json](./178574-cat-and-potat.json) |
 | Cat & Rabbit Magic Farming | 404262 | [404262-cat-and-rabbit-magic-farming.json](./404262-cat-and-rabbit-magic-farming.json) |
@@ -9317,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloak & Dagger | 24632 | [24632-cloak-and-dagger.json](./24632-cloak-and-dagger.json) |
 | Cloak & Dagger: Shadow Operations | 255576 | [255576-cloak-and-dagger-shadow-operations.json](./255576-cloak-and-dagger-shadow-operations.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
+| Cloak and Dasher | 123801 | [123801-cloak-and-dasher.json](./123801-cloak-and-dasher.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
 | Cloak of Darkness | 79091 | [79091-cloak-of-darkness.json](./79091-cloak-of-darkness.json) |
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
@@ -9829,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coal LLC | 333026 | [333026-coal-llc.json](./333026-coal-llc.json) |
 | Coal Man Clicker | 334835 | [334835-coal-man-clicker.json](./334835-coal-man-clicker.json) |
 | Coal Mining Inc. | 237653 | [237653-coal-mining-inc.json](./237653-coal-mining-inc.json) |
+| Coal Mining Simulator | 123805 | [123805-coal-mining-simulator.json](./123805-coal-mining-simulator.json) |
 | Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
 | Coalescence | 218661 | [218661-coalescence.json](./218661-coalescence.json) |
 | Coalhero | 154396 | [154396-coalhero.json](./154396-coalhero.json) |
@@ -13197,6 +13200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpoct | 121991 | [121991-corpoct.json](./121991-corpoct.json) |
 | CorpoNation: The Sorting Process | 219744 | [219744-corponation-the-sorting-process.json](./219744-corponation-the-sorting-process.json) |
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
+| Corporate America | 123780 | [123780-corporate-america.json](./123780-corporate-america.json) |
 | Corporate Chaos | 338886 | [338886-corporate-chaos.json](./338886-corporate-chaos.json) |
 | Corporate Climber | 242915 | [242915-corporate-climber.json](./242915-corporate-climber.json) |
 | Corporate Cut: The Hair-Raising Adventure of an Office Employee | 338887 | [338887-corporate-cut-the-hair-raising-adventure-of-an-office-employee.json](./338887-corporate-cut-the-hair-raising-adventure-of-an-office-employee.json) |
