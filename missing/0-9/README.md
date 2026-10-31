@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ...Knew the Beginning | 195155 | [195155-knew-the-beginning.json](./195155-knew-the-beginning.json) |
 | ...Vincent: Mansion of The Dead | 376667 | [376667-vincent-mansion-of-the-dead.json](./376667-vincent-mansion-of-the-dead.json) |
 | ..And the Mooncats | 185519 | [185519-and-the-mooncats.json](./185519-and-the-mooncats.json) |
+| .38 Ambush Alley | 64623 | [64623-38-ambush-alley.json](./64623-38-ambush-alley.json) |
 | .Atorb. | 330318 | [330318-atorb.json](./330318-atorb.json) |
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1500 DS Spirits Vol. 5: Hanafuda | 79546 | [79546-1500-ds-spirits-vol-5-hanafuda.json](./79546-1500-ds-spirits-vol-5-hanafuda.json) |
 | 1500 DS Spirits: Mahjong V | 268074 | [268074-1500-ds-spirits-mahjong-v.json](./268074-1500-ds-spirits-mahjong-v.json) |
 | 1500 DS Spirits: Shogi V | 268075 | [268075-1500-ds-spirits-shogi-v.json](./268075-1500-ds-spirits-shogi-v.json) |
+| 1500DS Spirits Vol. 10: Igo | 64692 | [64692-1500ds-spirits-vol-10-igo.json](./64692-1500ds-spirits-vol-10-igo.json) |
 | 1500DS Spirits Vol. 6: Trump | 79186 | [79186-1500ds-spirits-vol-6-trump.json](./79186-1500ds-spirits-vol-6-trump.json) |
 | 1500DS Spirits Vol. 7: Chess | 79959 | [79959-1500ds-spirits-vol-7-chess.json](./79959-1500ds-spirits-vol-7-chess.json) |
 | 153 Hand Video Poker | 84670 | [84670-153-hand-video-poker.json](./84670-153-hand-video-poker.json) |
