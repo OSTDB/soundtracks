@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Silent Statue | 274939 | [274939-a-silent-statue.json](./274939-a-silent-statue.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Silly Goofy Dream 2 | 253477 | [253477-a-silly-goofy-dream-2.json](./253477-a-silly-goofy-dream-2.json) |
+| A Silly Noisy House | 62954 | [62954-a-silly-noisy-house.json](./62954-a-silly-noisy-house.json) |
 | A Simple Ball Game | 345073 | [345073-a-simple-ball-game.json](./345073-a-simple-ball-game.json) |
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Expurriment | 254020 | [254020-a-simple-expurriment.json](./254020-a-simple-expurriment.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Work of Art | 319801 | [319801-a-work-of-art.json](./319801-a-work-of-art.json) |
 | A Worker's Guide to Espionage | 144245 | [144245-a-workers-guide-to-espionage.json](./144245-a-workers-guide-to-espionage.json) |
 | A Workplace With No People | 146096 | [146096-a-workplace-with-no-people.json](./146096-a-workplace-with-no-people.json) |
+| A World Alive | 62936 | [62936-a-world-alive.json](./62936-a-world-alive.json) |
 | A World At War Tactics | 379452 | [379452-a-world-at-war-tactics.json](./379452-a-world-at-war-tactics.json) |
 | A World of Ice and Fire | 356195 | [356195-a-world-of-ice-and-fire.json](./356195-a-world-of-ice-and-fire.json) |
 | A World of Keflings: Sugar, Spice and Not So Nice | 377854 | [377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json](./377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json) |
@@ -15612,6 +15614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Game (Wizard's Choice 2) | 100886 | [100886-audio-game-wizards-choice-2.json](./100886-audio-game-wizards-choice-2.json) |
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
+| Audio Ninja | 63022 | [63022-audio-ninja.json](./63022-audio-ninja.json) |
 | Audio Party Pack | 143923 | [143923-audio-party-pack.json](./143923-audio-party-pack.json) |
 | Audio Trip: Swanky Song Pack | 261928 | [261928-audio-trip-swanky-song-pack.json](./261928-audio-trip-swanky-song-pack.json) |
 | AudioBat | 102256 | [102256-audiobat.json](./102256-audiobat.json) |
