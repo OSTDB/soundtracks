@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Show Has Been Cancelled | 171298 | [171298-your-show-has-been-cancelled.json](./171298-your-show-has-been-cancelled.json) |
 | Your Sinclair Beaut Box March 1993 | 100094 | [100094-your-sinclair-beaut-box-march-1993.json](./100094-your-sinclair-beaut-box-march-1993.json) |
 | Your Sinclair Four Pack December 1990 | 74079 | [74079-your-sinclair-four-pack-december-1990.json](./74079-your-sinclair-four-pack-december-1990.json) |
+| Your Sinclair Four Pack October 1990 | 85707 | [85707-your-sinclair-four-pack-october-1990.json](./85707-your-sinclair-four-pack-october-1990.json) |
 | Your Sinclair Magnificent 7 February 1992 | 96509 | [96509-your-sinclair-magnificent-7-february-1992.json](./96509-your-sinclair-magnificent-7-february-1992.json) |
 | Your Sinclair Magnificent 7 July 1991 | 71389 | [71389-your-sinclair-magnificent-7-july-1991.json](./71389-your-sinclair-magnificent-7-july-1991.json) |
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
