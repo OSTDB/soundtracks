@@ -8803,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest God | 313255 | [313255-forest-god.json](./313255-forest-god.json) |
+| Forest Goddess and Flower Magician | 82522 | [82522-forest-goddess-and-flower-magician.json](./82522-forest-goddess-and-flower-magician.json) |
 | Forest Golf Planner | 193698 | [193698-forest-golf-planner.json](./193698-forest-golf-planner.json) |
 | Forest Grump | 199471 | [199471-forest-grump.json](./199471-forest-grump.json) |
 | Forest Guardian | 147859 | [147859-forest-guardian.json](./147859-forest-guardian.json) |
