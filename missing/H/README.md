@@ -10333,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Puzzle Games | 59181 | [59181-hoyle-puzzle-games.json](./59181-hoyle-puzzle-games.json) |
 | Hoyle Solitaire | 73883 | [73883-hoyle-solitaire.json](./73883-hoyle-solitaire.json) |
 | Hoyle Solitaire & Mahjong Tiles | 77877 | [77877-hoyle-solitaire-and-mahjong-tiles.json](./77877-hoyle-solitaire-and-mahjong-tiles.json) |
+| Hoyle Solitaire and More | 90298 | [90298-hoyle-solitaire-and-more.json](./90298-hoyle-solitaire-and-more.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hoyle Table Games 2004 | 70940 | [70940-hoyle-table-games-2004.json](./70940-hoyle-table-games-2004.json) |
 | Hoyle Word Games | 98884 | [98884-hoyle-word-games.json](./98884-hoyle-word-games.json) |
