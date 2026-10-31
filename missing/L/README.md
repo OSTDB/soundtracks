@@ -5033,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
 | Linn the Protector and the Seven Daughters of Ran | 170270 | [170270-linn-the-protector-and-the-seven-daughters-of-ran.json](./170270-linn-the-protector-and-the-seven-daughters-of-ran.json) |
+| Linn: Path of Orchards | 115314 | [115314-linn-path-of-orchards.json](./115314-linn-path-of-orchards.json) |
 | Lino in Christmas | 315442 | [315442-lino-in-christmas.json](./315442-lino-in-christmas.json) |
 | Linq! | 200445 | [200445-linq.json](./200445-linq.json) |
 | Linsips | 395725 | [395725-linsips.json](./395725-linsips.json) |
