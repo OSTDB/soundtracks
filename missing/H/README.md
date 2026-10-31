@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoon Cat | 104835 | [104835-harpoon-cat.json](./104835-harpoon-cat.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
+| Harpoon Classic '97 | 94487 | [94487-harpoon-classic-97.json](./94487-harpoon-classic-97.json) |
 | Harpoon II: Admiral's Edition | 73780 | [73780-harpoon-ii-admirals-edition.json](./73780-harpoon-ii-admirals-edition.json) |
 | Harpoon III | 130798 | [130798-harpoon-iii.json](./130798-harpoon-iii.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
@@ -7875,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holbrook Hotel | 307364 | [307364-holbrook-hotel.json](./307364-holbrook-hotel.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
 | Hold Controller | 211904 | [211904-hold-controller.json](./211904-hold-controller.json) |
+| Hold Down Hoppip | 94457 | [94457-hold-down-hoppip.json](./94457-hold-down-hoppip.json) |
 | Hold Fast | 13006 | [13006-hold-fast.json](./13006-hold-fast.json) |
 | Hold Me Still | 366353 | [366353-hold-me-still.json](./366353-hold-me-still.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
@@ -10364,6 +10366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HTR+ Slot Car Simulation | 17197 | [17197-htr-slot-car-simulation.json](./17197-htr-slot-car-simulation.json) |
 | HU-man Dungeons | 294963 | [294963-hu-man-dungeons.json](./294963-hu-man-dungeons.json) |
 | Hua Lian Yue Yi | 407197 | [407197-hua-lian-yue-yi.json](./407197-hua-lian-yue-yi.json) |
+| Hua Mulan | 94491 | [94491-hua-mulan.json](./94491-hua-mulan.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huáijiù Bǎn Sānguózhì Idle RPG | 369188 | [369188-huaijiu-ban-sanguozhi-idle-rpg.json](./369188-huaijiu-ban-sanguozhi-idle-rpg.json) |
 | Huàn Shì Lù | 369350 | [369350-huan-shi-lu.json](./369350-huan-shi-lu.json) |
