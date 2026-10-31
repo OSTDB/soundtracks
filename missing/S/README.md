@@ -5573,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
 | Sex | 185852 | [185852-sex.json](./185852-sex.json) |
+| Sex | 77074 | [77074-sex.json](./77074-sex.json) |
 | Sex & Drift | 237181 | [237181-sex-and-drift.json](./237181-sex-and-drift.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
 | Sex 2 | 185853 | [185853-sex-2.json](./185853-sex-2.json) |
@@ -11135,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip | 241271 | [241271-skip.json](./241271-skip.json) |
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
+| Skip Beat! | 77070 | [77070-skip-beat.json](./77070-skip-beat.json) |
 | Skip Lake | 164045 | [164045-skip-lake.json](./164045-skip-lake.json) |
 | Skip-Bo | 83471 | [83471-skip-bo.json](./83471-skip-bo.json) |
 | Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
@@ -11289,6 +11291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skvears | 337543 | [337543-skvears.json](./337543-skvears.json) |
 | Skwampt | 229752 | [229752-skwampt.json](./229752-skwampt.json) |
 | Skwish | 212294 | [212294-skwish.json](./212294-skwish.json) |
+| Skwug | 77069 | [77069-skwug.json](./77069-skwug.json) |
 | Sky | 244940 | [244940-sky.json](./244940-sky.json) |
 | Sky & Heart Last Survival | 83342 | [83342-sky-and-heart-last-survival.json](./83342-sky-and-heart-last-survival.json) |
 | Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
@@ -19291,6 +19294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound | 179683 | [179683-spellbound.json](./179683-spellbound.json) |
 | SpellBound | 371571 | [371571-spellbound.json](./371571-spellbound.json) |
 | Spellbound : The Magic Within | 155981 | [155981-spellbound-the-magic-within.json](./155981-spellbound-the-magic-within.json) |
+| Spellbound 2 | 77039 | [77039-spellbound-2.json](./77039-spellbound-2.json) |
 | Spellbound Beauties | 385320 | [385320-spellbound-beauties.json](./385320-spellbound-beauties.json) |
 | Spellbound Dizzy | 12362 | [12362-spellbound-dizzy.json](./12362-spellbound-dizzy.json) |
 | Spellbound Emporium | 359280 | [359280-spellbound-emporium.json](./359280-spellbound-emporium.json) |
@@ -21273,6 +21277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
 | Squid Vs Vexus | 107694 | [107694-squid-vs-vexus.json](./107694-squid-vs-vexus.json) |
 | Squid Yes! Not So Octopus! | 67833 | [67833-squid-yes-not-so-octopus.json](./67833-squid-yes-not-so-octopus.json) |
+| Squid Yes! Not So Octopus! Squid Harder! | 77067 | [77067-squid-yes-not-so-octopus-squid-harder.json](./77067-squid-yes-not-so-octopus-squid-harder.json) |
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
 | Squidding Over It | 258880 | [258880-squidding-over-it.json](./258880-squidding-over-it.json) |
@@ -26731,6 +26736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
 | Sudoku Master | 263431 | [263431-sudoku-master.json](./263431-sudoku-master.json) |
 | Sudoku Master | 264100 | [264100-sudoku-master.json](./264100-sudoku-master.json) |
+| Sudoku Master | 77068 | [77068-sudoku-master.json](./77068-sudoku-master.json) |
 | Sudoku Master | 84914 | [84914-sudoku-master.json](./84914-sudoku-master.json) |
 | Sudoku Master Edition: Logic | 98924 | [98924-sudoku-master-edition-logic.json](./98924-sudoku-master-edition-logic.json) |
 | Sudoku Master: Classic Sudoku | 243323 | [243323-sudoku-master-classic-sudoku.json](./243323-sudoku-master-classic-sudoku.json) |
