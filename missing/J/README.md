@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's 510 Racing | 372608 | [372608-jacks-510-racing.json](./372608-jacks-510-racing.json) |
 | Jack's Attic | 210127 | [210127-jacks-attic.json](./210127-jacks-attic.json) |
 | Jack's Crazy Cong | 91519 | [91519-jacks-crazy-cong.json](./91519-jacks-crazy-cong.json) |
+| Jack's Crazy Cong 2 | 79634 | [79634-jacks-crazy-cong-2.json](./79634-jacks-crazy-cong-2.json) |
 | Jack's Crazy Special | 66547 | [66547-jacks-crazy-special.json](./66547-jacks-crazy-special.json) |
 | Jack's Game | 50527 | [50527-jacks-game.json](./50527-jacks-game.json) |
 | Jack's Gang | 29159 | [29159-jacks-gang.json](./29159-jacks-gang.json) |
