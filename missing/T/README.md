@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of the Bullet Knight | 358730 | [358730-tale-of-the-bullet-knight.json](./358730-tale-of-the-bullet-knight.json) |
 | Tale of the Fragmented Star: Single Fragment Version | 109477 | [109477-tale-of-the-fragmented-star-single-fragment-version.json](./109477-tale-of-the-fragmented-star-single-fragment-version.json) |
 | Tale of the Gallant Jiraiya | 179388 | [179388-tale-of-the-gallant-jiraiya.json](./179388-tale-of-the-gallant-jiraiya.json) |
+| Tale of the Ice Staff | 106848 | [106848-tale-of-the-ice-staff.json](./106848-tale-of-the-ice-staff.json) |
 | Tale of the Kissing Bandit | 217768 | [217768-tale-of-the-kissing-bandit.json](./217768-tale-of-the-kissing-bandit.json) |
 | Tale of the Seas | 287744 | [287744-tale-of-the-seas.json](./287744-tale-of-the-seas.json) |
 | Tale of the Shadow World | 267681 | [267681-tale-of-the-shadow-world.json](./267681-tale-of-the-shadow-world.json) |
@@ -17161,6 +17162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
 | The Wild Eternal | 20991 | [20991-the-wild-eternal.json](./20991-the-wild-eternal.json) |
+| The Wild Life - The Game | 106874 | [106874-the-wild-life-the-game.json](./106874-the-wild-life-the-game.json) |
 | The Wild Science Arcade | 72038 | [72038-the-wild-science-arcade.json](./72038-the-wild-science-arcade.json) |
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
@@ -19027,6 +19029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
 | Tied by your Red | 189838 | [189838-tied-by-your-red.json](./189838-tied-by-your-red.json) |
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
+| Tied Together | 106849 | [106849-tied-together.json](./106849-tied-together.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
 | Tier 1 | 30204 | [30204-tier-1.json](./30204-tier-1.json) |
 | Tierbabys Puzzle: Echter Puzzlespass für Unterwegs | 252658 | [252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json](./252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json) |
@@ -22399,6 +22402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Warfare | 32427 | [32427-tokyo-warfare.json](./32427-tokyo-warfare.json) |
+| Tokyo Wizard | 106838 | [106838-tokyo-wizard.json](./106838-tokyo-wizard.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
 | Tokyo Xanadu eX+: Limited Edition | 89846 | [89846-tokyo-xanadu-ex-limited-edition.json](./89846-tokyo-xanadu-ex-limited-edition.json) |
 | Tokyo Xtreme Racer 3 | 24184 | [24184-tokyo-xtreme-racer-3.json](./24184-tokyo-xtreme-racer-3.json) |
@@ -27109,6 +27113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap and Turn | 210640 | [210640-trap-and-turn.json](./210640-trap-and-turn.json) |
 | Trap Arena | 158355 | [158355-trap-arena.json](./158355-trap-arena.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
+| Trap Attack! | 106869 | [106869-trap-attack.json](./106869-trap-attack.json) |
 | Trap Ball | 180558 | [180558-trap-ball.json](./180558-trap-ball.json) |
 | Trap Defense | 102174 | [102174-trap-defense.json](./102174-trap-defense.json) |
 | Trap Dungeons 2 | 299017 | [299017-trap-dungeons-2.json](./299017-trap-dungeons-2.json) |
