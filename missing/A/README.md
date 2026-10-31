@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
 | A Traveler's Photo Album | 155301 | [155301-a-travelers-photo-album.json](./155301-a-travelers-photo-album.json) |
 | A Treat and Some Tricks | 312852 | [312852-a-treat-and-some-tricks.json](./312852-a-treat-and-some-tricks.json) |
+| A Tribute to the Rolling Boulder (from Raiders of the Lost Ark) | 92796 | [92796-a-tribute-to-the-rolling-boulder-from-raiders-of-the-lost-ark.json](./92796-a-tribute-to-the-rolling-boulder-from-raiders-of-the-lost-ark.json) |
 | A Trip down Market Street | 175587 | [175587-a-trip-down-market-street.json](./175587-a-trip-down-market-street.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
 | A Trip To The Zoo | 290320 | [290320-a-trip-to-the-zoo.json](./290320-a-trip-to-the-zoo.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A=B | 182188 | [182188-a-b.json](./182188-a-b.json) |
 | A100 | 200380 | [200380-a100.json](./200380-a100.json) |
 | A189 | 307653 | [307653-a189.json](./307653-a189.json) |
+| A2 Racer | 92803 | [92803-a2-racer.json](./92803-a2-racer.json) |
 | A2 Racer II | 80309 | [80309-a2-racer-ii.json](./80309-a2-racer-ii.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | A2 Zygon | 193596 | [193596-a2-zygon.json](./193596-a2-zygon.json) |
@@ -5714,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ale & Aftercare | 262304 | [262304-ale-and-aftercare.json](./262304-ale-and-aftercare.json) |
 | Ale & Tale Tavern | 276233 | [276233-ale-and-tale-tavern.json](./276233-ale-and-tale-tavern.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
+| Ale Hop! | 92777 | [92777-ale-hop.json](./92777-ale-hop.json) |
 | Alea | 376853 | [376853-alea.json](./376853-alea.json) |
 | Alea | 379145 | [379145-alea.json](./379145-alea.json) |
 | Alea | 86551 | [86551-alea.json](./86551-alea.json) |
@@ -15602,6 +15605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Chronicles | 217228 | [217228-aurora-chronicles.json](./217228-aurora-chronicles.json) |
 | Aurora Dawn Poet | 371120 | [371120-aurora-dawn-poet.json](./371120-aurora-dawn-poet.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
+| Aurora Feint | 92765 | [92765-aurora-feint.json](./92765-aurora-feint.json) |
 | Aurora Feint II: The Arena | 70611 | [70611-aurora-feint-ii-the-arena.json](./70611-aurora-feint-ii-the-arena.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Flight | 331238 | [331238-aurora-flight.json](./331238-aurora-flight.json) |
@@ -16423,6 +16427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis & Allies | 77145 | [77145-axis-and-allies.json](./77145-axis-and-allies.json) |
 | Axis & Allies | 77146 | [77146-axis-and-allies.json](./77146-axis-and-allies.json) |
 | Axis & Allies 1942 Online | 116174 | [116174-axis-and-allies-1942-online.json](./116174-axis-and-allies-1942-online.json) |
+| Axis & Allies: Iron Blitz | 92771 | [92771-axis-and-allies-iron-blitz.json](./92771-axis-and-allies-iron-blitz.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Assassin | 13808 | [13808-axis-assassin.json](./13808-axis-assassin.json) |
 | Axis Fall | 423280 | [423280-axis-fall.json](./423280-axis-fall.json) |
