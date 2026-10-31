@@ -13640,6 +13640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 Lite | 113420 | [113420-pro-evolution-soccer-2019-lite.json](./113420-pro-evolution-soccer-2019-lite.json) |
+| Pro Evolution Soccer 2019: David Beckham Edition | 118545 | [118545-pro-evolution-soccer-2019-david-beckham-edition.json](./118545-pro-evolution-soccer-2019-david-beckham-edition.json) |
 | Pro Evolution Soccer 2019: Legend Edition | 118879 | [118879-pro-evolution-soccer-2019-legend-edition.json](./118879-pro-evolution-soccer-2019-legend-edition.json) |
 | Pro Evolution Soccer 6: Apertura 2008 | 237546 | [237546-pro-evolution-soccer-6-apertura-2008.json](./237546-pro-evolution-soccer-6-apertura-2008.json) |
 | Pro Evolution Soccer 6: Legends 2 | 237547 | [237547-pro-evolution-soccer-6-legends-2.json](./237547-pro-evolution-soccer-6-legends-2.json) |
@@ -15072,6 +15073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
 | Prototype | 220684 | [220684-prototype.json](./220684-prototype.json) |
 | Prototype | 235105 | [235105-prototype.json](./235105-prototype.json) |
+| Prototype 2: Blackwatch Collector's Edition | 118563 | [118563-prototype-2-blackwatch-collectors-edition.json](./118563-prototype-2-blackwatch-collectors-edition.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype Blocks 2 | 193429 | [193429-prototype-blocks-2.json](./193429-prototype-blocks-2.json) |
 | Prototype Chaos | 368596 | [368596-prototype-chaos.json](./368596-prototype-chaos.json) |
