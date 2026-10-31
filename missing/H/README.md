@@ -10327,6 +10327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howzat | 262008 | [262008-howzat.json](./262008-howzat.json) |
 | Hoyle Backgammon | 54105 | [54105-hoyle-backgammon.json](./54105-hoyle-backgammon.json) |
 | Hoyle Board Games | 69737 | [69737-hoyle-board-games.json](./69737-hoyle-board-games.json) |
+| Hoyle Board Games 2001 | 71276 | [71276-hoyle-board-games-2001.json](./71276-hoyle-board-games-2001.json) |
 | Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
 | Hoyle Bridge | 54106 | [54106-hoyle-bridge.json](./54106-hoyle-bridge.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
