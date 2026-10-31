@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku-waku Sonic Patrol Car | 39461 | [39461-waku-waku-sonic-patrol-car.json](./39461-waku-waku-sonic-patrol-car.json) |
 | Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
 | Waku-waku Vegetable | 107630 | [107630-waku-waku-vegetable.json](./107630-waku-waku-vegetable.json) |
+| Waku-waku Volley | 98205 | [98205-waku-waku-volley.json](./98205-waku-waku-volley.json) |
 | Waku-waku Youwaku Wakaba-chan | 97672 | [97672-waku-waku-youwaku-wakaba-chan.json](./97672-waku-waku-youwaku-wakaba-chan.json) |
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watashi no Kokoro ha Kirei desu ka: Am I Kind Hearted? | 207663 | [207663-watashi-no-kokoro-ha-kirei-desu-ka-am-i-kind-hearted.json](./207663-watashi-no-kokoro-ha-kirei-desu-ka-am-i-kind-hearted.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
+| Watashi no Rilakkuma | 98176 | [98176-watashi-no-rilakkuma.json](./98176-watashi-no-rilakkuma.json) |
 | Watashi Suzume | 216841 | [216841-watashi-suzume.json](./216841-watashi-suzume.json) |
 | Watch | 117604 | [117604-watch.json](./117604-watch.json) |
 | Watch | 271912 | [271912-watch.json](./271912-watch.json) |
@@ -7714,6 +7716,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Sprint | 380511 | [380511-world-sprint.json](./380511-world-sprint.json) |
 | World Stadium | 38101 | [38101-world-stadium.json](./38101-world-stadium.json) |
 | World Stadium '90 | 40569 | [40569-world-stadium-90.json](./40569-world-stadium-90.json) |
+| World Stadium 4 | 98204 | [98204-world-stadium-4.json](./98204-world-stadium-4.json) |
+| World Stadium 5 | 98202 | [98202-world-stadium-5.json](./98202-world-stadium-5.json) |
+| World Stadium EX | 98203 | [98203-world-stadium-ex.json](./98203-world-stadium-ex.json) |
 | World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
