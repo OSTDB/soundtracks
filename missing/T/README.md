@@ -10037,6 +10037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Turnabout | 309989 | [309989-the-impossible-turnabout.json](./309989-the-impossible-turnabout.json) |
 | The Imposters | 367370 | [367370-the-imposters.json](./367370-the-imposters.json) |
 | The Impostor | 334032 | [334032-the-impostor.json](./334032-the-impostor.json) |
+| The Impure | 105613 | [105613-the-impure.json](./105613-the-impure.json) |
 | The In Between | 217362 | [217362-the-in-between.json](./217362-the-in-between.json) |
 | The In Crowd | 47195 | [47195-the-in-crowd.json](./47195-the-in-crowd.json) |
 | The Inanimate Mr. Coatrack | 122847 | [122847-the-inanimate-mr-coatrack.json](./122847-the-inanimate-mr-coatrack.json) |
@@ -12537,6 +12538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mirror's End | 96189 | [96189-the-mirrors-end.json](./96189-the-mirrors-end.json) |
 | The Mirst | 206707 | [206707-the-mirst.json](./206707-the-mirst.json) |
 | The Misadventure of Melon | 120946 | [120946-the-misadventure-of-melon.json](./120946-the-misadventure-of-melon.json) |
+| The Misadventures of Botsworth | 105651 | [105651-the-misadventures-of-botsworth.json](./105651-the-misadventures-of-botsworth.json) |
 | The Misadventures of Denniz & Diana | 113050 | [113050-the-misadventures-of-denniz-and-diana.json](./113050-the-misadventures-of-denniz-and-diana.json) |
 | The Misadventures of P.B. Winterbottom | 13179 | [13179-the-misadventures-of-p-b-winterbottom.json](./13179-the-misadventures-of-p-b-winterbottom.json) |
 | The Misadventures of Sigfreid the Dark Elf on Tuesday Night | 288648 | [288648-the-misadventures-of-sigfreid-the-dark-elf-on-tuesday-night.json](./288648-the-misadventures-of-sigfreid-the-dark-elf-on-tuesday-night.json) |
@@ -20724,6 +20726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Defenders | 196409 | [196409-time-defenders.json](./196409-time-defenders.json) |
 | Time Diver: Eon Man | 48564 | [48564-time-diver-eon-man.json](./48564-time-diver-eon-man.json) |
 | Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
+| Time Drifter | 105593 | [105593-time-drifter.json](./105593-time-drifter.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
 | Time Enforcers | 337500 | [337500-time-enforcers.json](./337500-time-enforcers.json) |
 | Time Engineer Saga: Situation Zulu | 416052 | [416052-time-engineer-saga-situation-zulu.json](./416052-time-engineer-saga-situation-zulu.json) |
