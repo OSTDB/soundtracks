@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-O-X | 290312 | [290312-p-o-x.json](./290312-p-o-x.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P-Walker's Simulation | 36820 | [36820-p-walkers-simulation.json](./36820-p-walkers-simulation.json) |
+| P.3 | 123815 | [123815-p-3.json](./123815-p-3.json) |
 | P.A.I.N.T. | 161522 | [161522-p-a-i-n-t.json](./161522-p-a-i-n-t.json) |
 | P.A.M.E.L.A. | 9216 | [9216-p-a-m-e-l-a.json](./9216-p-a-m-e-l-a.json) |
 | P.A.M.U | 184808 | [184808-p-a-m-u.json](./184808-p-a-m-u.json) |
@@ -6024,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilots of Darsalon | 133452 | [133452-pilots-of-darsalon.json](./133452-pilots-of-darsalon.json) |
 | Pilotwings 64 | 3573 | [3573-pilotwings-64.json](./3573-pilotwings-64.json) |
 | Pilotwings Resort | 6862 | [6862-pilotwings-resort.json](./6862-pilotwings-resort.json) |
+| PilotXross | 123757 | [123757-pilotxross.json](./123757-pilotxross.json) |
 | Pilsner Urquell: Undress Me!!! | 270673 | [270673-pilsner-urquell-undress-me.json](./270673-pilsner-urquell-undress-me.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
 | Pim: The Forgotten | 261767 | [261767-pim-the-forgotten.json](./261767-pim-the-forgotten.json) |
@@ -7113,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixal Bitsonia | 419208 | [419208-pixal-bitsonia.json](./419208-pixal-bitsonia.json) |
 | Pixalo | 61310 | [61310-pixalo.json](./61310-pixalo.json) |
+| Pixamal Zoo | 123755 | [123755-pixamal-zoo.json](./123755-pixamal-zoo.json) |
 | PixAnt Farm (Idle) | 302330 | [302330-pixant-farm-idle.json](./302330-pixant-farm-idle.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
 | Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
@@ -13383,6 +13386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison of Son | 128999 | [128999-prison-of-son.json](./128999-prison-of-son.json) |
 | Prison of the Mind | 199750 | [199750-prison-of-the-mind.json](./199750-prison-of-the-mind.json) |
 | Prison Out | 365071 | [365071-prison-out.json](./365071-prison-out.json) |
+| Prison Planet | 123808 | [123808-prison-planet.json](./123808-prison-planet.json) |
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
 | Prison Princess: Trapped Allure | 321211 | [321211-prison-princess-trapped-allure.json](./321211-prison-princess-trapped-allure.json) |
 | Prison Puzzle | 312693 | [312693-prison-puzzle.json](./312693-prison-puzzle.json) |
