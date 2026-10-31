@@ -5130,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
 | No Exit | 370749 | [370749-no-exit.json](./370749-no-exit.json) |
 | No Exit | 374356 | [374356-no-exit.json](./374356-no-exit.json) |
+| No Exit | 93334 | [93334-no-exit.json](./93334-no-exit.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fap Island | 340058 | [340058-no-fap-island.json](./340058-no-fap-island.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
@@ -5188,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Limit Drag Racing 2 | 227370 | [227370-no-limit-drag-racing-2.json](./227370-no-limit-drag-racing-2.json) |
 | No Limite | 140882 | [140882-no-limite.json](./140882-no-limite.json) |
 | No Limite | 298406 | [298406-no-limite.json](./298406-no-limite.json) |
+| No Limits | 93292 | [93292-no-limits.json](./93292-no-limits.json) |
 | No Limits 2 | 80606 | [80606-no-limits-2.json](./80606-no-limits-2.json) |
 | No Limits Downhill Skiing | 218006 | [218006-no-limits-downhill-skiing.json](./218006-no-limits-downhill-skiing.json) |
 | No Limits Hydro Extreme | 218008 | [218008-no-limits-hydro-extreme.json](./218008-no-limits-hydro-extreme.json) |
