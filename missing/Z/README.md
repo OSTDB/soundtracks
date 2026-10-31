@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids VS II | 50585 | [50585-zoids-vs-ii.json](./50585-zoids-vs-ii.json) |
 | Zoids VS III | 50576 | [50576-zoids-vs-iii.json](./50576-zoids-vs-iii.json) |
 | Zoids Wild Arena | 300644 | [300644-zoids-wild-arena.json](./300644-zoids-wild-arena.json) |
+| Zoids Wild: Blast Unleashed | 89550 | [89550-zoids-wild-blast-unleashed.json](./89550-zoids-wild-blast-unleashed.json) |
 | Zoids Wild: Infinity Blast | 146832 | [146832-zoids-wild-infinity-blast.json](./146832-zoids-wild-infinity-blast.json) |
 | Zoids: Battle Legends | 10629 | [10629-zoids-battle-legends.json](./10629-zoids-battle-legends.json) |
 | Zoids: Chuuou Tairiku no Tatakai | 64655 | [64655-zoids-chuuou-tairiku-no-tatakai.json](./64655-zoids-chuuou-tairiku-no-tatakai.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Maze | 205851 | [205851-zombie-maze.json](./205851-zombie-maze.json) |
 | Zombie Mess | 70987 | [70987-zombie-mess.json](./70987-zombie-mess.json) |
 | Zombie Misfits | 65533 | [65533-zombie-misfits.json](./65533-zombie-misfits.json) |
+| Zombie Murder | 89600 | [89600-zombie-murder.json](./89600-zombie-murder.json) |
 | Zombie Murder Hell Arrives | 89946 | [89946-zombie-murder-hell-arrives.json](./89946-zombie-murder-hell-arrives.json) |
 | Zombie Must Dead! | 344886 | [344886-zombie-must-dead.json](./344886-zombie-must-dead.json) |
 | Zombie Mutant DNA | 128959 | [128959-zombie-mutant-dna.json](./128959-zombie-mutant-dna.json) |
