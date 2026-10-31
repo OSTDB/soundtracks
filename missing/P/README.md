@@ -15533,6 +15533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pteranodon's Flight: The Flying Dinosaur Game | 151012 | [151012-pteranodons-flight-the-flying-dinosaur-game.json](./151012-pteranodons-flight-the-flying-dinosaur-game.json) |
 | Ptero Pursuit | 244099 | [244099-ptero-pursuit.json](./244099-ptero-pursuit.json) |
 | Pterodactyl Attack | 284910 | [284910-pterodactyl-attack.json](./284910-pterodactyl-attack.json) |
+| Pterodalien | 76278 | [76278-pterodalien.json](./76278-pterodalien.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Ptolem's Singing Catacombs | 374177 | [374177-ptolems-singing-catacombs.json](./374177-ptolems-singing-catacombs.json) |
 | Ptolomaea | 318541 | [318541-ptolomaea.json](./318541-ptolomaea.json) |
@@ -16705,6 +16706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Girls: Cheryl | 163548 | [163548-puzzle-girls-cheryl.json](./163548-puzzle-girls-cheryl.json) |
 | Puzzle Girls: Cute | 286399 | [286399-puzzle-girls-cute.json](./286399-puzzle-girls-cute.json) |
 | Puzzle Girls: Dark Temptation | 420662 | [420662-puzzle-girls-dark-temptation.json](./420662-puzzle-girls-dark-temptation.json) |
+| Puzzle Girls: Galaxy | 76291 | [76291-puzzle-girls-galaxy.json](./76291-puzzle-girls-galaxy.json) |
 | Puzzle Girls: Inner Flame | 410374 | [410374-puzzle-girls-inner-flame.json](./410374-puzzle-girls-inner-flame.json) |
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
 | Puzzle Girls: Seductive Nights | 410373 | [410373-puzzle-girls-seductive-nights.json](./410373-puzzle-girls-seductive-nights.json) |
