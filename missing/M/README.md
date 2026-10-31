@@ -5613,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maz! | 74945 | [74945-maz.json](./74945-maz.json) |
 | Maza | 276241 | [276241-maza.json](./276241-maza.json) |
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
+| Mazan: Flash of the Blade | 72435 | [72435-mazan-flash-of-the-blade.json](./72435-mazan-flash-of-the-blade.json) |
 | Maze | 131097 | [131097-maze.json](./131097-maze.json) |
 | Maze | 218529 | [218529-maze.json](./218529-maze.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
@@ -10030,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midair 2 | 133680 | [133680-midair-2.json](./133680-midair-2.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midas Gold Plus | 30474 | [30474-midas-gold-plus.json](./30474-midas-gold-plus.json) |
+| Midas' Odyssey | 72451 | [72451-midas-odyssey.json](./72451-midas-odyssey.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
 | MidBoss | 30360 | [30360-midboss.json](./30360-midboss.json) |
 | MidCreati | 229273 | [229273-midcreati.json](./229273-midcreati.json) |
