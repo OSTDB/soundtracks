@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision's Atari 2600 Action Pack 3 | 80841 | [80841-activisions-atari-2600-action-pack-3.json](./80841-activisions-atari-2600-action-pack-3.json) |
 | Activision's Commodore 64 15 Pack | 82061 | [82061-activisions-commodore-64-15-pack.json](./82061-activisions-commodore-64-15-pack.json) |
 | Activity Bingo Travel | 108908 | [108908-activity-bingo-travel.json](./108908-activity-bingo-travel.json) |
+| Activity Fun With Cinderella & Friends | 112023 | [112023-activity-fun-with-cinderella-and-friends.json](./112023-activity-fun-with-cinderella-and-friends.json) |
 | Actman | 41800 | [41800-actman.json](./41800-actman.json) |
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
 | Actorle | 320912 | [320912-actorle.json](./320912-actorle.json) |
@@ -6744,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allied Ace Pilots | 69193 | [69193-allied-ace-pilots.json](./69193-allied-ace-pilots.json) |
 | Allied Ambush | 160229 | [160229-allied-ambush.json](./160229-allied-ambush.json) |
 | Allied General | 14427 | [14427-allied-general.json](./14427-allied-general.json) |
+| Allied Nations | 112021 | [112021-allied-nations.json](./112021-allied-nations.json) |
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
 | Allies in War | 114702 | [114702-allies-in-war.json](./114702-allies-in-war.json) |
 | Alligator Hunt | 38519 | [38519-alligator-hunt.json](./38519-alligator-hunt.json) |
