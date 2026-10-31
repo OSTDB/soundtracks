@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Rensenki ~Omoidegaeshi~ CS Edition | 135856 | [135856-sangoku-rensenki-omoidegaeshi-cs-edition.json](./135856-sangoku-rensenki-omoidegaeshi-cs-edition.json) |
 | Sangoku Rensenki Sakigake | 221597 | [221597-sangoku-rensenki-sakigake.json](./221597-sangoku-rensenki-sakigake.json) |
 | Sangoku Rensenki: Omoide Gaeshi + Gakuen Rensenki | 222246 | [222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json](./222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json) |
+| Sangoku Rensenki: Otome no Heihou! | 63603 | [63603-sangoku-rensenki-otome-no-heihou.json](./63603-sangoku-rensenki-otome-no-heihou.json) |
 | Sangoku Rensenki: Otome no Heihou! Omoidegaeshi | 221596 | [221596-sangoku-rensenki-otome-no-heihou-omoidegaeshi.json](./221596-sangoku-rensenki-otome-no-heihou-omoidegaeshi.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangoku Taisen Smash! | 302994 | [302994-sangoku-taisen-smash.json](./302994-sangoku-taisen-smash.json) |
@@ -9954,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 85: The Sengoku Bushou - Tenka Touitsu no Yabou | 203080 | [203080-simple-1500-series-vol-85-the-sengoku-bushou-tenka-touitsu-no-yabou.json](./203080-simple-1500-series-vol-85-the-sengoku-bushou-tenka-touitsu-no-yabou.json) |
 | Simple 1500 Series Vol. 86: The Onigokko | 203081 | [203081-simple-1500-series-vol-86-the-onigokko.json](./203081-simple-1500-series-vol-86-the-onigokko.json) |
 | Simple 1500 Series Vol. 87: The Kyoutei | 203082 | [203082-simple-1500-series-vol-87-the-kyoutei.json](./203082-simple-1500-series-vol-87-the-kyoutei.json) |
+| Simple 1500 Series Vol. 88: The Gal Mahjong | 63619 | [63619-simple-1500-series-vol-88-the-gal-mahjong.json](./63619-simple-1500-series-vol-88-the-gal-mahjong.json) |
 | Simple 1500 Series Vol. 91: The Gambler - Honoo no Tobaku Densetsu | 203119 | [203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json](./203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json) |
 | Simple 1500 Series Vol. 92: The Tozan RPG | 203121 | [203121-simple-1500-series-vol-92-the-tozan-rpg.json](./203121-simple-1500-series-vol-92-the-tozan-rpg.json) |
 | Simple 1500 Series Vol. 96: The Yakyuu 2 | 203124 | [203124-simple-1500-series-vol-96-the-yakyuu-2.json](./203124-simple-1500-series-vol-96-the-yakyuu-2.json) |
@@ -10040,7 +10042,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol.38: The Yuujou Adventure - Hotaru Soul | 56974 | [56974-simple-2000-series-vol-38-the-yuujou-adventure-hotaru-soul.json](./56974-simple-2000-series-vol-38-the-yuujou-adventure-hotaru-soul.json) |
 | Simple 2000 Series Vol.75: The Tokudane - Nippon Zenkoku Scoop Rettou | 203283 | [203283-simple-2000-series-vol-75-the-tokudane-nippon-zenkoku-scoop-rettou.json](./203283-simple-2000-series-vol-75-the-tokudane-nippon-zenkoku-scoop-rettou.json) |
 | Simple 2000 Series Vol.86: Menkyo Shutoku Simulation - Kaiseidouro Koutsuu-hou Taiouban | 203325 | [203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json](./203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json) |
+| Simple 2000 Ultimate Vol. 10: Love Songs - Idol ga Classmate | 63602 | [63602-simple-2000-ultimate-vol-10-love-songs-idol-ga-classmate.json](./63602-simple-2000-ultimate-vol-10-love-songs-idol-ga-classmate.json) |
 | Simple 2500 Series Portable Vol. 7: The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006 | 203397 | [203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json](./203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json) |
+| Simple 2500 Series Portable Vol. 8: The Doko Demo Gal Mahjong | 63618 | [63618-simple-2500-series-portable-vol-8-the-doko-demo-gal-mahjong.json](./63618-simple-2500-series-portable-vol-8-the-doko-demo-gal-mahjong.json) |
 | Simple 2500 Series Portable Vol. 9: The My Taxi! | 203398 | [203398-simple-2500-series-portable-vol-9-the-my-taxi.json](./203398-simple-2500-series-portable-vol-9-the-my-taxi.json) |
 | Simple 2960 Tomodachi Series Vol. 1: The Table Game Collection | 49818 | [49818-simple-2960-tomodachi-series-vol-1-the-table-game-collection.json](./49818-simple-2960-tomodachi-series-vol-1-the-table-game-collection.json) |
 | Simple 2960 Tomodachi Series Vol. 2: The Block Kuzushi | 49819 | [49819-simple-2960-tomodachi-series-vol-2-the-block-kuzushi.json](./49819-simple-2960-tomodachi-series-vol-2-the-block-kuzushi.json) |
@@ -10083,7 +10087,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 28: The Illust Puzzle & Suuji Puzzle 2 | 203410 | [203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json](./203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json) |
 | Simple DS Series Vol. 34: The Haisha-San | 63624 | [63624-simple-ds-series-vol-34-the-haisha-san.json](./63624-simple-ds-series-vol-34-the-haisha-san.json) |
 | Simple DS Series vol. 39: The Shouboutai | 266677 | [266677-simple-ds-series-vol-39-the-shouboutai.json](./266677-simple-ds-series-vol-39-the-shouboutai.json) |
+| Simple DS Series Vol. 43: The Host Shiyouze! DX Knight King | 63621 | [63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json](./63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json) |
+| Simple DS Series Vol. 44: The Gal Mahjong | 63620 | [63620-simple-ds-series-vol-44-the-gal-mahjong.json](./63620-simple-ds-series-vol-44-the-gal-mahjong.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
+| Simple DS Series Vol.48: The Saibanin - 1-tsu no Shinjitsu, 6-tsu no Kotae | 63622 | [63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json](./63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json) |
 | Simple Farm | 143982 | [143982-simple-farm.json](./143982-simple-farm.json) |
 | Simple Fear | 157046 | [157046-simple-fear.json](./157046-simple-fear.json) |
 | Simple Fight 2 | 310135 | [310135-simple-fight-2.json](./310135-simple-fight-2.json) |
@@ -13281,6 +13288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smooth Elevator | 184737 | [184737-smooth-elevator.json](./184737-smooth-elevator.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
 | Smooth Operators 2 | 197209 | [197209-smooth-operators-2.json](./197209-smooth-operators-2.json) |
+| Smooth Operators: Call Center Chaos | 63612 | [63612-smooth-operators-call-center-chaos.json](./63612-smooth-operators-call-center-chaos.json) |
 | Smoothcade | 130668 | [130668-smoothcade.json](./130668-smoothcade.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
@@ -14499,6 +14507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Tsuku 2002 | 372581 | [372581-soccer-tsuku-2002.json](./372581-soccer-tsuku-2002.json) |
 | Soccer Tsuku DS: Touch and Direct | 65016 | [65016-soccer-tsuku-ds-touch-and-direct.json](./65016-soccer-tsuku-ds-touch-and-direct.json) |
 | Soccer Tsuku DS: World Challenge 2010 | 65014 | [65014-soccer-tsuku-ds-world-challenge-2010.json](./65014-soccer-tsuku-ds-world-challenge-2010.json) |
+| Soccer Up 3D | 63514 | [63514-soccer-up-3d.json](./63514-soccer-up-3d.json) |
 | Soccer Up! | 85381 | [85381-soccer-up.json](./85381-soccer-up.json) |
 | Soccer VR | 329004 | [329004-soccer-vr.json](./329004-soccer-vr.json) |
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
@@ -18461,6 +18470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Way | 72490 | [72490-space-way.json](./72490-space-way.json) |
 | Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
+| Space Whale | 63518 | [63518-space-whale.json](./63518-space-whale.json) |
 | Space Whip | 117323 | [117323-space-whip.json](./117323-space-whip.json) |
 | Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
 | Space Will | 290384 | [290384-space-will.json](./290384-space-will.json) |
