@@ -8239,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Girls Z Online | 61535 | [61535-robot-girls-z-online.json](./61535-robot-girls-z-online.json) |
 | Robot Hospice | 342219 | [342219-robot-hospice.json](./342219-robot-hospice.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
+| Robot II: Das Labyrinth im Wald | 71314 | [71314-robot-ii-das-labyrinth-im-wald.json](./71314-robot-ii-das-labyrinth-im-wald.json) |
 | Robot III: Insel der Heiligen Prüfung | 73444 | [73444-robot-iii-insel-der-heiligen-prufung.json](./73444-robot-iii-insel-der-heiligen-prufung.json) |
 | Robot Invasion | 169814 | [169814-robot-invasion.json](./169814-robot-invasion.json) |
 | Robot Island | 127727 | [127727-robot-island.json](./127727-robot-island.json) |
