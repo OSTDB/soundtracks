@@ -7076,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoshock | 335129 | [335129-exoshock.json](./335129-exoshock.json) |
 | Exosky | 287187 | [287187-exosky.json](./287187-exosky.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
+| Exospecies | 121198 | [121198-exospecies.json](./121198-exospecies.json) |
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
 | Exostation | 224303 | [224303-exostation.json](./224303-exostation.json) |
 | Exostorm | 35725 | [35725-exostorm.json](./35725-exostorm.json) |
