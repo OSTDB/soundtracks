@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Quest Collection | 53489 | [53489-queens-quest-collection.json](./53489-queens-quest-collection.json) |
 | Queen's River | 344559 | [344559-queens-river.json](./344559-queens-river.json) |
 | Queen's Tales: Sins of the Past | 98522 | [98522-queens-tales-sins-of-the-past.json](./98522-queens-tales-sins-of-the-past.json) |
+| Queen's Tales: Sins of the Past - Collector's Edition | 81835 | [81835-queens-tales-sins-of-the-past-collectors-edition.json](./81835-queens-tales-sins-of-the-past-collectors-edition.json) |
 | Queen's Tales: Sins of the Past HD | 108963 | [108963-queens-tales-sins-of-the-past-hd.json](./108963-queens-tales-sins-of-the-past-hd.json) |
 | Queen's Tales: The Beast and the Nightingale | 140280 | [140280-queens-tales-the-beast-and-the-nightingale.json](./140280-queens-tales-the-beast-and-the-nightingale.json) |
 | Queen's Tales: The Beast and the Nightingale - Collector's Edition | 29189 | [29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json](./29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json) |
@@ -1017,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
 | Quirk! Origins: A Jester's Tale | 274516 | [274516-quirk-origins-a-jesters-tale.json](./274516-quirk-origins-a-jesters-tale.json) |
 | Quirks | 209745 | [209745-quirks.json](./209745-quirks.json) |
+| Quirky Crook | 81716 | [81716-quirky-crook.json](./81716-quirky-crook.json) |
 | Quirky Crystal RPG | 108379 | [108379-quirky-crystal-rpg.json](./108379-quirky-crystal-rpg.json) |
 | Quirky Forest | 334002 | [334002-quirky-forest.json](./334002-quirky-forest.json) |
 | Quirky Museum | 362238 | [362238-quirky-museum.json](./362238-quirky-museum.json) |
