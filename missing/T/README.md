@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talaka | 366585 | [366585-talaka.json](./366585-talaka.json) |
 | Tale of a Hero | 63385 | [63385-tale-of-a-hero.json](./63385-tale-of-a-hero.json) |
 | Tale of a Wolf | 139641 | [139641-tale-of-a-wolf.json](./139641-tale-of-a-wolf.json) |
+| Tale of Alamar | 87778 | [87778-tale-of-alamar.json](./87778-tale-of-alamar.json) |
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Dark Lands | 333459 | [333459-tale-of-dark-lands.json](./333459-tale-of-dark-lands.json) |
