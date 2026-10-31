@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero One | 115811 | [115811-zero-one.json](./115811-zero-one.json) |
 | Zero One | 257546 | [257546-zero-one.json](./257546-zero-one.json) |
 | Zero One Protocol | 405142 | [405142-zero-one-protocol.json](./405142-zero-one-protocol.json) |
+| Zero One SP | 93952 | [93952-zero-one-sp.json](./93952-zero-one-sp.json) |
 | Zero Online | 66767 | [66767-zero-online.json](./66767-zero-online.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
 | Zero Orders Tactics | 216811 | [216811-zero-orders-tactics.json](./216811-zero-orders-tactics.json) |
