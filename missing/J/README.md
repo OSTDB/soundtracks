@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
 | Jesus Christ Simulator | 303590 | [303590-jesus-christ-simulator.json](./303590-jesus-christ-simulator.json) |
 | Jesus in Space | 66525 | [66525-jesus-in-space.json](./66525-jesus-in-space.json) |
+| Jesus Matchup | 93294 | [93294-jesus-matchup.json](./93294-jesus-matchup.json) |
 | Jesus of Nazareth | 69739 | [69739-jesus-of-nazareth.json](./69739-jesus-of-nazareth.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
@@ -1446,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jezebel and the Flame | 186254 | [186254-jezebel-and-the-flame.json](./186254-jezebel-and-the-flame.json) |
 | Jezebel: Givin' Love a Shot | 260611 | [260611-jezebel-givin-love-a-shot.json](./260611-jezebel-givin-love-a-shot.json) |
 | Jezzak | 263591 | [263591-jezzak.json](./263591-jezzak.json) |
+| JezzBall | 93291 | [93291-jezzball.json](./93291-jezzball.json) |
 | JezzBall Atomic | 190910 | [190910-jezzball-atomic.json](./190910-jezzball-atomic.json) |
 | JezzBall Classic | 108710 | [108710-jezzball-classic.json](./108710-jezzball-classic.json) |
 | Jezzball Classic Deluxe Edition | 371891 | [371891-jezzball-classic-deluxe-edition.json](./371891-jezzball-classic-deluxe-edition.json) |
