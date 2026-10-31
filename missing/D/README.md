@@ -3983,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death Animal Parade | 260210 | [260210-death-animal-parade.json](./260210-death-animal-parade.json) |
 | Death Architect | 215070 | [215070-death-architect.json](./215070-death-architect.json) |
+| Death Arena Reality Show | 101878 | [101878-death-arena-reality-show.json](./101878-death-arena-reality-show.json) |
 | Death at Cape Porto: A Dana Knightstone Novel - Collector's Edition | 228254 | [228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json](./228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
 | Death Becomes You | 153884 | [153884-death-becomes-you.json](./153884-death-becomes-you.json) |
@@ -9061,6 +9062,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Slayer | 302191 | [302191-disaster-slayer.json](./302191-disaster-slayer.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disaster Will Strike | 101404 | [101404-disaster-will-strike.json](./101404-disaster-will-strike.json) |
+| Disaster Will Strike 2 | 101894 | [101894-disaster-will-strike-2.json](./101894-disaster-will-strike-2.json) |
+| Disaster Will Strike 3 | 101893 | [101893-disaster-will-strike-3.json](./101893-disaster-will-strike-3.json) |
+| Disaster Will Strike 4 | 101892 | [101892-disaster-will-strike-4.json](./101892-disaster-will-strike-4.json) |
+| Disaster Will Strike 5 | 101891 | [101891-disaster-will-strike-5.json](./101891-disaster-will-strike-5.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
 | DisasterFire | 394180 | [394180-disasterfire.json](./394180-disasterfire.json) |
 | Disasteroids 3D | 94945 | [94945-disasteroids-3d.json](./94945-disasteroids-3d.json) |
