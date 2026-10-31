@@ -5047,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainSki | 215505 | [215505-chainski.json](./215505-chainski.json) |
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
+| Chainz | 94467 | [94467-chainz.json](./94467-chainz.json) |
 | Chair F*cking Simulator | 178260 | [178260-chair-f-cking-simulator.json](./178260-chair-f-cking-simulator.json) |
 | Chair Is Videogame | 144083 | [144083-chair-is-videogame.json](./144083-chair-is-videogame.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
@@ -14756,6 +14757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
 | Crash: Mind Over Mutant | 1191 | [1191-crash-mind-over-mutant.json](./1191-crash-mind-over-mutant.json) |
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
+| Crash! Powertape July '91 | 94463 | [94463-crash-powertape-july-91.json](./94463-crash-powertape-july-91.json) |
 | Crash! Powertape October 1991 | 73614 | [73614-crash-powertape-october-1991.json](./73614-crash-powertape-october-1991.json) |
 | Crash'em Derby | 139207 | [139207-crashem-derby.json](./139207-crashem-derby.json) |
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
