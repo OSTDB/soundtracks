@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanky Tanks VR | 128928 | [128928-tanky-tanks-vr.json](./128928-tanky-tanks-vr.json) |
 | TankYou! | 31685 | [31685-tankyou.json](./31685-tankyou.json) |
 | TankZone Battle | 20343 | [20343-tankzone-battle.json](./20343-tankzone-battle.json) |
+| Tano's Fate | 104932 | [104932-tanos-fate.json](./104932-tanos-fate.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
@@ -12782,6 +12783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Doomsday Valley | 398557 | [398557-the-mystery-of-doomsday-valley.json](./398557-the-mystery-of-doomsday-valley.json) |
 | The Mystery Of Eigengrau | 296798 | [296798-the-mystery-of-eigengrau.json](./296798-the-mystery-of-eigengrau.json) |
 | The Mystery of Eldham | 365548 | [365548-the-mystery-of-eldham.json](./365548-the-mystery-of-eldham.json) |
+| The Mystery of Happyville | 104958 | [104958-the-mystery-of-happyville.json](./104958-the-mystery-of-happyville.json) |
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of Mount Fang | 287311 | [287311-the-mystery-of-mount-fang.json](./287311-the-mystery-of-mount-fang.json) |
 | The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
@@ -12841,6 +12843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Gold Edition | 124974 | [124974-the-nations-gold-edition.json](./124974-the-nations-gold-edition.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
+| The Nature | 105013 | [105013-the-nature.json](./105013-the-nature.json) |
 | The Naughty List Curse | 341360 | [341360-the-naughty-list-curse.json](./341360-the-naughty-list-curse.json) |
 | The Navigator | 106505 | [106505-the-navigator.json](./106505-the-navigator.json) |
 | The Neath | 296588 | [296588-the-neath.json](./296588-the-neath.json) |
@@ -15655,6 +15658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sunday | 311572 | [311572-the-sunday.json](./311572-the-sunday.json) |
 | The Sunday Museum | 191562 | [191562-the-sunday-museum.json](./191562-the-sunday-museum.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
+| The Sunny Day | 104959 | [104959-the-sunny-day.json](./104959-the-sunny-day.json) |
 | The Sunny Life | 210217 | [210217-the-sunny-life.json](./210217-the-sunny-life.json) |
 | The Sunset | 32107 | [32107-the-sunset.json](./32107-the-sunset.json) |
 | The Sunset that day | 132763 | [132763-the-sunset-that-day.json](./132763-the-sunset-that-day.json) |
@@ -16403,6 +16407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Travelyan Home | 133225 | [133225-the-travelyan-home.json](./133225-the-travelyan-home.json) |
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure of Neverland | 319304 | [319304-the-treasure-of-neverland.json](./319304-the-treasure-of-neverland.json) |
+| The treasure of the lost temple | 104953 | [104953-the-treasure-of-the-lost-temple.json](./104953-the-treasure-of-the-lost-temple.json) |
 | The Treasure of Usas | 18921 | [18921-the-treasure-of-usas.json](./18921-the-treasure-of-usas.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
@@ -17314,6 +17319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards: Dark Times | 119331 | [119331-the-wizards-dark-times.json](./119331-the-wizards-dark-times.json) |
 | The Wizards: Dark Times - Brotherhood | 288172 | [288172-the-wizards-dark-times-brotherhood.json](./288172-the-wizards-dark-times-brotherhood.json) |
 | The Wizards: Enhanced Edition | 116134 | [116134-the-wizards-enhanced-edition.json](./116134-the-wizards-enhanced-edition.json) |
+| The Wizards: Trials of Meliora | 105003 | [105003-the-wizards-trials-of-meliora.json](./105003-the-wizards-trials-of-meliora.json) |
 | The Wizardz Dungeon | 216677 | [216677-the-wizardz-dungeon.json](./216677-the-wizardz-dungeon.json) |
 | The Wolf | 154308 | [154308-the-wolf.json](./154308-the-wolf.json) |
 | The Wolf | 212509 | [212509-the-wolf.json](./212509-the-wolf.json) |
@@ -22074,6 +22080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tochi II: Senshi | 207289 | [207289-tochi-ii-senshi.json](./207289-tochi-ii-senshi.json) |
 | Tochi T.U.N.R | 251100 | [251100-tochi-t-u-n-r.json](./251100-tochi-t-u-n-r.json) |
 | Tochos vs. Brokens | 278249 | [278249-tochos-vs-brokens.json](./278249-tochos-vs-brokens.json) |
+| Tock | 104957 | [104957-tock.json](./104957-tock.json) |
 | Tocovix | 168707 | [168707-tocovix.json](./168707-tocovix.json) |
 | ToD Fragments: Special Fun | 237239 | [237239-tod-fragments-special-fun.json](./237239-tod-fragments-special-fun.json) |
 | Tod Stein | 105197 | [105197-tod-stein.json](./105197-tod-stein.json) |
@@ -28704,6 +28711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
 | Truck Simulator 25: Euro Driver | 344245 | [344245-truck-simulator-25-euro-driver.json](./344245-truck-simulator-25-euro-driver.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
+| Truck Simulator America | 104994 | [104994-truck-simulator-america.json](./104994-truck-simulator-america.json) |
 | Truck Simulator Big Rigs | 363941 | [363941-truck-simulator-big-rigs.json](./363941-truck-simulator-big-rigs.json) |
 | Truck Simulator Cargo Driver 2024: Euro | 315921 | [315921-truck-simulator-cargo-driver-2024-euro.json](./315921-truck-simulator-cargo-driver-2024-euro.json) |
 | Truck Simulator Cargo Driver 2024: USA | 299525 | [299525-truck-simulator-cargo-driver-2024-usa.json](./299525-truck-simulator-cargo-driver-2024-usa.json) |
@@ -30261,6 +30269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Torn Towers | 279717 | [279717-two-torn-towers.json](./279717-two-torn-towers.json) |
 | Two Touch: Switch | 242171 | [242171-two-touch-switch.json](./242171-two-touch-switch.json) |
 | Two Types Pollos | 400527 | [400527-two-types-pollos.json](./400527-two-types-pollos.json) |
+| Two Wars | 104934 | [104934-two-wars.json](./104934-two-wars.json) |
 | Two Way | 25904 | [25904-two-way.json](./25904-two-way.json) |
 | Two Weeks Game | 132571 | [132571-two-weeks-game.json](./132571-two-weeks-game.json) |
 | Two Weeks in Painland | 126933 | [126933-two-weeks-in-painland.json](./126933-two-weeks-in-painland.json) |
