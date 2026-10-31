@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadpole Treble | 22444 | [22444-tadpole-treble.json](./22444-tadpole-treble.json) |
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
+| Taekwon-do | 114033 | [114033-taekwon-do.json](./114033-taekwon-do.json) |
 | Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
 | Taekwondo Demonstration Team Simulator | 160108 | [160108-taekwondo-demonstration-team-simulator.json](./160108-taekwondo-demonstration-team-simulator.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
@@ -8126,6 +8127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists 2: Big Top Breakout | 155177 | [155177-the-escapists-2-big-top-breakout.json](./155177-the-escapists-2-big-top-breakout.json) |
 | The Escapists 2: Dungeons and Duct Tape | 155176 | [155176-the-escapists-2-dungeons-and-duct-tape.json](./155176-the-escapists-2-dungeons-and-duct-tape.json) |
 | The Escapists 2: Game of the Year Edition | 121534 | [121534-the-escapists-2-game-of-the-year-edition.json](./121534-the-escapists-2-game-of-the-year-edition.json) |
+| The Escapists 2: Pocket Breakout | 114027 | [114027-the-escapists-2-pocket-breakout.json](./114027-the-escapists-2-pocket-breakout.json) |
 | The Escapists: Alcatraz | 53732 | [53732-the-escapists-alcatraz.json](./53732-the-escapists-alcatraz.json) |
 | The Escapists: Complete Edition | 108196 | [108196-the-escapists-complete-edition.json](./108196-the-escapists-complete-edition.json) |
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
@@ -18716,6 +18718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
 | Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
+| Thunderballs | 114042 | [114042-thunderballs.json](./114042-thunderballs.json) |
 | Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
@@ -23835,6 +23838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch the Devil VR | 93720 | [93720-touch-the-devil-vr.json](./93720-touch-the-devil-vr.json) |
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
 | Touch to Fate: Occult Romance | 255171 | [255171-touch-to-fate-occult-romance.json](./255171-touch-to-fate-occult-romance.json) |
+| Touch to Turn | 114031 | [114031-touch-to-turn.json](./114031-touch-to-turn.json) |
 | Touch Your Eyes | 275695 | [275695-touch-your-eyes.json](./275695-touch-your-eyes.json) |
 | Touch: Man to Man | 66773 | [66773-touch-man-to-man.json](./66773-touch-man-to-man.json) |
 | TouchBrickout | 90422 | [90422-touchbrickout.json](./90422-touchbrickout.json) |
@@ -23960,6 +23964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gendanshou: Unlimited Heroes | 207228 | [207228-touhou-gendanshou-unlimited-heroes.json](./207228-touhou-gendanshou-unlimited-heroes.json) |
 | Touhou Genso Kikou: Lost Alchemy | 100555 | [100555-touhou-genso-kikou-lost-alchemy.json](./100555-touhou-genso-kikou-lost-alchemy.json) |
 | Touhou Genso Maroku | 211530 | [211530-touhou-genso-maroku.json](./211530-touhou-genso-maroku.json) |
+| Touhou Genso Maroku W: The Devil of Decline | 114022 | [114022-touhou-genso-maroku-w-the-devil-of-decline.json](./114022-touhou-genso-maroku-w-the-devil-of-decline.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
 | Touhou Genso Maroku: Utage | 212096 | [212096-touhou-genso-maroku-utage.json](./212096-touhou-genso-maroku-utage.json) |
 | Touhou Genso Rondo: Bullet Ballet | 23281 | [23281-touhou-genso-rondo-bullet-ballet.json](./23281-touhou-genso-rondo-bullet-ballet.json) |
@@ -26997,6 +27002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transmigration | 334910 | [334910-transmigration.json](./334910-transmigration.json) |
 | Transmission | 108606 | [108606-transmission.json](./108606-transmission.json) |
+| Transmission | 113979 | [113979-transmission.json](./113979-transmission.json) |
 | Transmission From Start to End | 308900 | [308900-transmission-from-start-to-end.json](./308900-transmission-from-start-to-end.json) |
 | Transmission: Shortwave | 377208 | [377208-transmission-shortwave.json](./377208-transmission-shortwave.json) |
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
@@ -27770,6 +27776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Rising | 103316 | [103316-trials-rising.json](./103316-trials-rising.json) |
 | Trials Rising: Crash & Sunburn | 115301 | [115301-trials-rising-crash-and-sunburn.json](./115301-trials-rising-crash-and-sunburn.json) |
 | Trials Rising: Digital Gold Edition | 118562 | [118562-trials-rising-digital-gold-edition.json](./118562-trials-rising-digital-gold-edition.json) |
+| Trials Rising: Gold Edition | 114045 | [114045-trials-rising-gold-edition.json](./114045-trials-rising-gold-edition.json) |
 | Trials Rising: Sixty Six | 115302 | [115302-trials-rising-sixty-six.json](./115302-trials-rising-sixty-six.json) |
 | Trials Survivors | 373890 | [373890-trials-survivors.json](./373890-trials-survivors.json) |
 | Trials: Gold Pack | 219004 | [219004-trials-gold-pack.json](./219004-trials-gold-pack.json) |
@@ -28900,6 +28907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try. Die. Repeat. | 133875 | [133875-try-die-repeat.json](./133875-try-die-repeat.json) |
 | TryAndLove | 279555 | [279555-tryandlove.json](./279555-tryandlove.json) |
 | TryAngle: Shapes Warfare | 373322 | [373322-tryangle-shapes-warfare.json](./373322-tryangle-shapes-warfare.json) |
+| Trybit Logic | 114044 | [114044-trybit-logic.json](./114044-trybit-logic.json) |
 | Tryhard | 330935 | [330935-tryhard.json](./330935-tryhard.json) |
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
