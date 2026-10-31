@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Corners: A Maguntsche Story | 229289 | [229289-eight-corners-a-maguntsche-story.json](./229289-eight-corners-a-maguntsche-story.json) |
 | Eight Dragons 2 | 307674 | [307674-eight-dragons-2.json](./307674-eight-dragons-2.json) |
 | Eight Forces | 39868 | [39868-eight-forces.json](./39868-eight-forces.json) |
+| Eight Legged Freaks | 74821 | [74821-eight-legged-freaks.json](./74821-eight-legged-freaks.json) |
 | Eight Mini Racers | 33694 | [33694-eight-mini-racers.json](./33694-eight-mini-racers.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
 | Eight Stones | 123739 | [123739-eight-stones.json](./123739-eight-stones.json) |
@@ -3335,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending the Happy Route | 350045 | [350045-ending-the-happy-route.json](./350045-ending-the-happy-route.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
+| Endless | 74796 | [74796-endless.json](./74796-endless.json) |
 | Endless Adventure | 200287 | [200287-endless-adventure.json](./200287-endless-adventure.json) |
 | Endless Ages | 69777 | [69777-endless-ages.json](./69777-endless-ages.json) |
 | Endless Alice | 237223 | [237223-endless-alice.json](./237223-endless-alice.json) |
