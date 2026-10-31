@@ -3297,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Puss | 244114 | [244114-adventure-puss.json](./244114-adventure-puss.json) |
 | Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
+| Adventure Quiz: Capcom World 2 | 66447 | [66447-adventure-quiz-capcom-world-2.json](./66447-adventure-quiz-capcom-world-2.json) |
 | Adventure Race | 387037 | [387037-adventure-race.json](./387037-adventure-race.json) |
 | Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
@@ -3682,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesop Rock's Black Hole Superette Experience | 346605 | [346605-aesop-rocks-black-hole-superette-experience.json](./346605-aesop-rocks-black-hole-superette-experience.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aesop's Fables: A New Approach | 123776 | [123776-aesops-fables-a-new-approach.json](./123776-aesops-fables-a-new-approach.json) |
+| Aesop's Garden | 66469 | [66469-aesops-garden.json](./66469-aesops-garden.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aesoteric Collection | 164209 | [164209-aesoteric-collection.json](./164209-aesoteric-collection.json) |
 | Aestheta | 349742 | [349742-aestheta.json](./349742-aestheta.json) |
@@ -4096,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
+| Agarest Senki Zero: Dawn of War | 66468 | [66468-agarest-senki-zero-dawn-of-war.json](./66468-agarest-senki-zero-dawn-of-war.json) |
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
 | Agarest: Generations of War 2 | 17620 | [17620-agarest-generations-of-war-2.json](./17620-agarest-generations-of-war-2.json) |
 | AgarIO Hub Rebirth | 329413 | [329413-agario-hub-rebirth.json](./329413-agario-hub-rebirth.json) |
