@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Offer You Flowers | 386477 | [386477-i-can-offer-you-flowers.json](./386477-i-can-offer-you-flowers.json) |
 | I can save myself | 182749 | [182749-i-can-save-myself.json](./182749-i-can-save-myself.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
+| I Can See the Future | 68510 | [68510-i-can-see-the-future.json](./68510-i-can-see-the-future.json) |
 | I Can See You | 244613 | [244613-i-can-see-you.json](./244613-i-can-see-you.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I woke up and now I'm a knight?! | 210519 | [210519-i-woke-up-and-now-im-a-knight.json](./210519-i-woke-up-and-now-im-a-knight.json) |
 | I Woke up in an RPG | 415871 | [415871-i-woke-up-in-an-rpg.json](./415871-i-woke-up-in-an-rpg.json) |
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
+| I Woke Up Next to You Again | 68376 | [68376-i-woke-up-next-to-you-again.json](./68376-i-woke-up-next-to-you-again.json) |
 | I won't finish this game | 350972 | [350972-i-wont-finish-this-game.json](./350972-i-wont-finish-this-game.json) |
 | I Won’t Let You Level up in My Goblin Town | 378424 | [378424-i-won-t-let-you-level-up-in-my-goblin-town.json](./378424-i-won-t-let-you-level-up-in-my-goblin-town.json) |
 | I Won't Slay Dragons for You | 206581 | [206581-i-wont-slay-dragons-for-you.json](./206581-i-wont-slay-dragons-for-you.json) |
@@ -4764,7 +4766,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Slimy Mines | 391764 | [391764-into-the-slimy-mines.json](./391764-into-the-slimy-mines.json) |
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
 | Into the Spiritwell | 223799 | [223799-into-the-spiritwell.json](./223799-into-the-spiritwell.json) |
-| Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into the Twilight | 257794 | [257794-into-the-twilight.json](./257794-into-the-twilight.json) |
