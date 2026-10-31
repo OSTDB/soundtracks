@@ -8089,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holly-Day Ice-Spionage | 285501 | [285501-holly-day-ice-spionage.json](./285501-holly-day-ice-spionage.json) |
 | Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Holly: A Christmas Tale Deluxe | 54086 | [54086-holly-a-christmas-tale-deluxe.json](./54086-holly-a-christmas-tale-deluxe.json) |
+| Holly's Wedding Salon 2 | 97062 | [97062-hollys-wedding-salon-2.json](./97062-hollys-wedding-salon-2.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywhoot | 107011 | [107011-hollywhoot.json](./107011-hollywhoot.json) |
 | Hollywood 61 | 78734 | [78734-hollywood-61.json](./78734-hollywood-61.json) |
@@ -10627,6 +10628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hummingbird Garden | 388542 | [388542-hummingbird-garden.json](./388542-hummingbird-garden.json) |
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
 | Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
+| Hummingz - Retro Arcade action revised | 97078 | [97078-hummingz-retro-arcade-action-revised.json](./97078-hummingz-retro-arcade-action-revised.json) |
 | Humongous Classic Collection | 228741 | [228741-humongous-classic-collection.json](./228741-humongous-classic-collection.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humphrey (2004) | 111320 | [111320-humphrey-2004.json](./111320-humphrey-2004.json) |
