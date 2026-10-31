@@ -4927,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
 | Lingjing | 284963 | [284963-lingjing.json](./284963-lingjing.json) |
 | Lingkaran | 345421 | [345421-lingkaran.json](./345421-lingkaran.json) |
+| Lingo | 117955 | [117955-lingo.json](./117955-lingo.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingo | 341915 | [341915-lingo.json](./341915-lingo.json) |
 | Lingo 2 | 327669 | [327669-lingo-2.json](./327669-lingo-2.json) |
@@ -8479,6 +8480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
 | LuckyJet | 233444 | [233444-luckyjet.json](./233444-luckyjet.json) |
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
+| Lucle | 117978 | [117978-lucle.json](./117978-lucle.json) |
 | Lucrezia | 401168 | [401168-lucrezia.json](./401168-lucrezia.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Lucy | 175119 | [175119-lucy.json](./175119-lucy.json) |
