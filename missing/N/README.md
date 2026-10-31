@@ -4096,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Cafe VII | 339177 | [339177-nightmare-cafe-vii.json](./339177-nightmare-cafe-vii.json) |
 | Nightmare Cafe VIII | 339178 | [339178-nightmare-cafe-viii.json](./339178-nightmare-cafe-viii.json) |
 | Nightmare Cafe X | 339180 | [339180-nightmare-cafe-x.json](./339180-nightmare-cafe-x.json) |
+| Nightmare Cave | 121964 | [121964-nightmare-cave.json](./121964-nightmare-cave.json) |
 | Nightmare Circus | 327111 | [327111-nightmare-circus.json](./327111-nightmare-circus.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
