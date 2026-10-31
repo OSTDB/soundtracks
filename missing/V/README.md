@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
 | Vane | 11669 | [11669-vane.json](./11669-vane.json) |
 | Vanessa | 237783 | [237783-vanessa.json](./237783-vanessa.json) |
+| Vanessa Saint-Pierre Delacroix & Her Nightmare | 79627 | [79627-vanessa-saint-pierre-delacroix-and-her-nightmare.json](./79627-vanessa-saint-pierre-delacroix-and-her-nightmare.json) |
 | Vangaro Tactics | 275094 | [275094-vangaro-tactics.json](./275094-vangaro-tactics.json) |
 | Vangers | 8830 | [8830-vangers.json](./8830-vangers.json) |
 | Vanguard | 139137 | [139137-vanguard.json](./139137-vanguard.json) |
