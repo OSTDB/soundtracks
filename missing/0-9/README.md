@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 Combo Pack: Sonic Heroes/Super Monkey Ball Deluxe | 233976 | [233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json](./233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json) |
 | 2 in 1 Crazy Bundle | 357724 | [357724-2-in-1-crazy-bundle.json](./357724-2-in-1-crazy-bundle.json) |
 | 2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2 | 79558 | [79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json](./79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json) |
+| 2 In 1 Game Pack: Tony Hawk's Underground + Kelly Slater's Pro Surfer | 80114 | [80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json](./80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json) |
 | 2 in 1 Hidden Object Worlds | 366272 | [366272-2-in-1-hidden-object-worlds.json](./366272-2-in-1-hidden-object-worlds.json) |
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
 | 2 in 1 I My Pet Hotel & My Vet Practice: In the Country | 127329 | [127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json](./127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json) |
