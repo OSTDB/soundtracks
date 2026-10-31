@@ -1414,6 +1414,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula | 32712 | [32712-nebula.json](./32712-nebula.json) |
 | Nebula | 329118 | [329118-nebula.json](./329118-nebula.json) |
 | Nebula | 53395 | [53395-nebula.json](./53395-nebula.json) |
+| Nebula | 99327 | [99327-nebula.json](./99327-nebula.json) |
+| Nebula | 99332 | [99332-nebula.json](./99332-nebula.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | Nebula Commander | 46509 | [46509-nebula-commander.json](./46509-nebula-commander.json) |
 | Nebula Invasion | 188845 | [188845-nebula-invasion.json](./188845-nebula-invasion.json) |
