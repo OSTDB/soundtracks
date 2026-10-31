@@ -7427,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
 | Lost Island | 368380 | [368380-lost-island.json](./368380-lost-island.json) |
 | Lost Island of Jungata | 317797 | [317797-lost-island-of-jungata.json](./317797-lost-island-of-jungata.json) |
+| Lost Island: Blast Adventure | 103766 | [103766-lost-island-blast-adventure.json](./103766-lost-island-blast-adventure.json) |
 | Lost Island: Eternal Storm | 295916 | [295916-lost-island-eternal-storm.json](./295916-lost-island-eternal-storm.json) |
 | Lost Island:Battle Royale | 126960 | [126960-lost-island-battle-royale.json](./126960-lost-island-battle-royale.json) |
 | Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
@@ -8291,6 +8292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LowRes Collection | 223632 | [223632-lowres-collection.json](./223632-lowres-collection.json) |
 | Lowrider | 43550 | [43550-lowrider.json](./43550-lowrider.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
+| Lowriders Comeback 2: Cruising | 103759 | [103759-lowriders-comeback-2-cruising.json](./103759-lowriders-comeback-2-cruising.json) |
 | Lows Adventures | 214489 | [214489-lows-adventures.json](./214489-lows-adventures.json) |
 | Lowsy | 173216 | [173216-lowsy.json](./173216-lowsy.json) |
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
