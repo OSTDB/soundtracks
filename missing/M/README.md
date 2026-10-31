@@ -5675,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Runner | 203741 | [203741-maze-runner.json](./203741-maze-runner.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
 | Maze Runner II | 242690 | [242690-maze-runner-ii.json](./242690-maze-runner-ii.json) |
+| Maze Slaughter | 112616 | [112616-maze-slaughter.json](./112616-maze-slaughter.json) |
 | Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
 | Maze Survivor | 408979 | [408979-maze-survivor.json](./408979-maze-survivor.json) |
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
@@ -18287,6 +18288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
 | My Empire | 182321 | [182321-my-empire.json](./182321-my-empire.json) |
 | My English Coach: Para Hispanoparlantes | 82064 | [82064-my-english-coach-para-hispanoparlantes.json](./82064-my-english-coach-para-hispanoparlantes.json) |
+| My Erotic Summer Memories | 112612 | [112612-my-erotic-summer-memories.json](./112612-my-erotic-summer-memories.json) |
 | My Escort Company | 215916 | [215916-my-escort-company.json](./215916-my-escort-company.json) |
 | My Esports Club | 346192 | [346192-my-esports-club.json](./346192-my-esports-club.json) |
 | My European Trucking Skills | 316856 | [316856-my-european-trucking-skills.json](./316856-my-european-trucking-skills.json) |
