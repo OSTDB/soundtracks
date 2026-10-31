@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Will | 274125 | [274125-da-will.json](./274125-da-will.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Da! Russian Quiz | 161258 | [161258-da-russian-quiz.json](./161258-da-russian-quiz.json) |
+| Daaang! | 122591 | [122591-daaang.json](./122591-daaang.json) |
 | Daabiidoggu | 91683 | [91683-daabiidoggu.json](./91683-daabiidoggu.json) |
 | Daahrien's A.P.H.R.O.D.I.T.E. | 247673 | [247673-daahriens-a-p-h-r-o-d-i-t-e.json](./247673-daahriens-a-p-h-r-o-d-i-t-e.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
@@ -5462,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
 | Delivering Letters | 227137 | [227137-delivering-letters.json](./227137-delivering-letters.json) |
 | DeliverwarTH | 372229 | [372229-deliverwarth.json](./372229-deliverwarth.json) |
+| Delivery | 122596 | [122596-delivery.json](./122596-delivery.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Company Clicker | 149303 | [149303-delivery-company-clicker.json](./149303-delivery-company-clicker.json) |
 | Delivery Dash: Battle Couriers | 375885 | [375885-delivery-dash-battle-couriers.json](./375885-delivery-dash-battle-couriers.json) |
@@ -8659,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino VR : Jurassic World | 108212 | [108212-dino-vr-jurassic-world.json](./108212-dino-vr-jurassic-world.json) |
 | Dino War | 100811 | [100811-dino-war.json](./100811-dino-war.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
+| Dino Zoo Transport Simulator | 122604 | [122604-dino-zoo-transport-simulator.json](./122604-dino-zoo-transport-simulator.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
 | Dino-Ducks Dash | 323125 | [323125-dino-ducks-dash.json](./323125-dino-ducks-dash.json) |
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
