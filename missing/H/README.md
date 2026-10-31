@@ -7036,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
 | Higurashi no Naku Koro ni Chuu | 268051 | [268051-higurashi-no-naku-koro-ni-chuu.json](./268051-higurashi-no-naku-koro-ni-chuu.json) |
 | Higurashi no Naku Koro ni Hou | 251461 | [251461-higurashi-no-naku-koro-ni-hou.json](./251461-higurashi-no-naku-koro-ni-hou.json) |
+| Higurashi no Naku Koro ni Hou | 95086 | [95086-higurashi-no-naku-koro-ni-hou.json](./95086-higurashi-no-naku-koro-ni-hou.json) |
 | Higurashi no Naku Koro ni Hou + Origin | 251513 | [251513-higurashi-no-naku-koro-ni-hou-origin.json](./251513-higurashi-no-naku-koro-ni-hou-origin.json) |
 | Higurashi no Naku Koro ni Hou: Batsukoishi-hen | 263930 | [263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json](./263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Complete Edition | 136817 | [136817-higurashi-no-naku-koro-ni-hou-complete-edition.json](./136817-higurashi-no-naku-koro-ni-hou-complete-edition.json) |
@@ -10403,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hue | 18927 | [18927-hue.json](./18927-hue.json) |
 | Hue Am I? | 128830 | [128830-hue-am-i.json](./128830-hue-am-i.json) |
 | Hue change | 184379 | [184379-hue-change.json](./184379-hue-change.json) |
+| Hue Defense | 95088 | [95088-hue-defense.json](./95088-hue-defense.json) |
 | Hue Factory | 403067 | [403067-hue-factory.json](./403067-hue-factory.json) |
 | Hue Hooligans | 323856 | [323856-hue-hooligans.json](./323856-hue-hooligans.json) |
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
