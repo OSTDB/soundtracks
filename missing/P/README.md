@@ -7797,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelarium: Free Lands | 392114 | [392114-pixelarium-free-lands.json](./392114-pixelarium-free-lands.json) |
 | Pixelated Jigsaw | 103987 | [103987-pixelated-jigsaw.json](./103987-pixelated-jigsaw.json) |
 | Pixelated Jigsaw | 91309 | [91309-pixelated-jigsaw.json](./91309-pixelated-jigsaw.json) |
+| Pixelbator | 112625 | [112625-pixelbator.json](./112625-pixelbator.json) |
 | Pixelbit Snooker & Pool | 76173 | [76173-pixelbit-snooker-and-pool.json](./76173-pixelbit-snooker-and-pool.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
