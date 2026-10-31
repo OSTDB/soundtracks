@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abelina | 377433 | [377433-abelina.json](./377433-abelina.json) |
 | Abeline Rush | 377432 | [377432-abeline-rush.json](./377432-abeline-rush.json) |
 | Abenteuer Europa | 79076 | [79076-abenteuer-europa.json](./79076-abenteuer-europa.json) |
+| Abenteuer im Tierpark | 91633 | [91633-abenteuer-im-tierpark.json](./91633-abenteuer-im-tierpark.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abenteuer Stahl | 141497 | [141497-abenteuer-stahl.json](./141497-abenteuer-stahl.json) |
 | Abenteuer Weltraum | 123246 | [123246-abenteuer-weltraum.json](./123246-abenteuer-weltraum.json) |
