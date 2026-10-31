@@ -3559,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Gate | 118360 | [118360-red-gate.json](./118360-red-gate.json) |
 | Red Genesis | 367592 | [367592-red-genesis.json](./367592-red-genesis.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
+| Red Ghost | 94489 | [94489-red-ghost.json](./94489-red-ghost.json) |
 | Red Glare | 235647 | [235647-red-glare.json](./235647-red-glare.json) |
 | Red Goblin: Cursed Forest | 35406 | [35406-red-goblin-cursed-forest.json](./35406-red-goblin-cursed-forest.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
