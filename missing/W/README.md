@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterloo | 12821 | [12821-waterloo.json](./12821-waterloo.json) |
 | Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
 | Waterloo | 341957 | [341957-waterloo.json](./341957-waterloo.json) |
+| Waterloo - Tank Assault | 101202 | [101202-waterloo-tank-assault.json](./101202-waterloo-tank-assault.json) |
 | Waterloo: Napoleon's Last Battle | 71611 | [71611-waterloo-napoleons-last-battle.json](./71611-waterloo-napoleons-last-battle.json) |
 | WaterMeasure | 344542 | [344542-watermeasure.json](./344542-watermeasure.json) |
 | Watermelon | 314365 | [314365-watermelon.json](./314365-watermelon.json) |
@@ -3013,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Hell | 178231 | [178231-welcome-to-hell.json](./178231-welcome-to-hell.json) |
 | Welcome to Hell Resort! | 423876 | [423876-welcome-to-hell-resort.json](./423876-welcome-to-hell-resort.json) |
 | Welcome to IKSPQ | 271310 | [271310-welcome-to-ikspq.json](./271310-welcome-to-ikspq.json) |
+| Welcome to Inventis | 101215 | [101215-welcome-to-inventis.json](./101215-welcome-to-inventis.json) |
 | Welcome to James' Story in the World of Our Church and Halloween: Visual Novel | 222808 | [222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Lakewood | 152648 | [152648-welcome-to-lakewood.json](./152648-welcome-to-lakewood.json) |
