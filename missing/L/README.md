@@ -3564,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Lethargy | 175147 | [175147-lethargy.json](./175147-lethargy.json) |
 | Lethe | 175283 | [175283-lethe.json](./175283-lethe.json) |
+| Lethe: Broken memories | 121966 | [121966-lethe-broken-memories.json](./121966-lethe-broken-memories.json) |
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
 | Lethis: Path of Progress | 22672 | [22672-lethis-path-of-progress.json](./22672-lethis-path-of-progress.json) |
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leveron Space | 32761 | [32761-leveron-space.json](./32761-leveron-space.json) |
 | Levers & Buttons | 116942 | [116942-levers-and-buttons.json](./116942-levers-and-buttons.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
+| Levi Chronicles | 121911 | [121911-levi-chronicles.json](./121911-levi-chronicles.json) |
 | Levi no Slime Factory | 355189 | [355189-levi-no-slime-factory.json](./355189-levi-no-slime-factory.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
 | Leviaclaw | 379877 | [379877-leviaclaw.json](./379877-leviaclaw.json) |
@@ -6101,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockehorn | 422665 | [422665-lockehorn.json](./422665-lockehorn.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
+| Lockheart Indigo | 121956 | [121956-lockheart-indigo.json](./121956-lockheart-indigo.json) |
 | Lockjaw | 297327 | [297327-lockjaw.json](./297327-lockjaw.json) |
 | Locks | 199452 | [199452-locks.json](./199452-locks.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
