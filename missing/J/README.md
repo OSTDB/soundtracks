@@ -3807,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League: Superheroes | 188325 | [188325-justice-league-superheroes.json](./188325-justice-league-superheroes.json) |
 | Justice League: The Rescue | 245458 | [245458-justice-league-the-rescue.json](./245458-justice-league-the-rescue.json) |
 | Justice Legion | 103359 | [103359-justice-legion.json](./103359-justice-legion.json) |
+| Justice Monsters Five | 122572 | [122572-justice-monsters-five.json](./122572-justice-monsters-five.json) |
 | Justice Ninja Casey | 326645 | [326645-justice-ninja-casey.json](./326645-justice-ninja-casey.json) |
 | Justice Online | 104711 | [104711-justice-online.json](./104711-justice-online.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
