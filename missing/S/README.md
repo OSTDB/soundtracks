@@ -17380,6 +17380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bomber | 39418 | [39418-space-bomber.json](./39418-space-bomber.json) |
 | Space Borders: Alien Encounter | 175051 | [175051-space-borders-alien-encounter.json](./175051-space-borders-alien-encounter.json) |
+| Space Bots | 95774 | [95774-space-bots.json](./95774-space-bots.json) |
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
 | Space Break | 106331 | [106331-space-break.json](./106331-space-break.json) |
@@ -24465,6 +24466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock the Shelves | 357369 | [357369-stock-the-shelves.json](./357369-stock-the-shelves.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockboy | 98318 | [98318-stockboy.json](./98318-stockboy.json) |
+| Stockcars Unleashed 2 | 95758 | [95758-stockcars-unleashed-2.json](./95758-stockcars-unleashed-2.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
@@ -25567,6 +25569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
+| Street Racing 3D | 95736 | [95736-street-racing-3d.json](./95736-street-racing-3d.json) |
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Racing: Tokyo Rush | 147075 | [147075-street-racing-tokyo-rush.json](./147075-street-racing-tokyo-rush.json) |
@@ -27947,6 +27950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
 | Super Danganronpa Another 2 ~The Moon of Hope and Sun of Despair~ | 143215 | [143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json](./143215-super-danganronpa-another-2-the-moon-of-hope-and-sun-of-despair.json) |
 | Super Danganronpa Another 2: Summer Camp | 411317 | [411317-super-danganronpa-another-2-summer-camp.json](./411317-super-danganronpa-another-2-summer-camp.json) |
+| Super Dangerous Trap | 95727 | [95727-super-dangerous-trap.json](./95727-super-dangerous-trap.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Darius II | 37641 | [37641-super-darius-ii.json](./37641-super-darius-ii.json) |
