@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Octahedron | 104483 | [104483-mad-octahedron.json](./104483-mad-octahedron.json) |
 | Mad Pack | 146046 | [146046-mad-pack.json](./146046-mad-pack.json) |
 | Mad Panic Coaster | 43835 | [43835-mad-panic-coaster.json](./43835-mad-panic-coaster.json) |
+| Mad Paradox | 71282 | [71282-mad-paradox.json](./71282-mad-paradox.json) |
 | Mad Planets | 23500 | [23500-mad-planets.json](./23500-mad-planets.json) |
 | Mad Professor Mariarti | 12674 | [12674-mad-professor-mariarti.json](./12674-mad-professor-mariarti.json) |
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic | 126951 | [126951-manic.json](./126951-manic.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Karts | 93427 | [93427-manic-karts.json](./93427-manic-karts.json) |
+| Manic Minefields | 71287 | [71287-manic-minefields.json](./71287-manic-minefields.json) |
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic Miner Engine | 256206 | [256206-manic-miner-engine.json](./256206-manic-miner-engine.json) |
@@ -14090,6 +14092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
+| Monopoly | 71296 | [71296-monopoly.json](./71296-monopoly.json) |
 | Monopoly / Boggle / Yahtzee / Battleship | 82281 | [82281-monopoly-boggle-yahtzee-battleship.json](./82281-monopoly-boggle-yahtzee-battleship.json) |
 | Monopoly and Monopoly Madness | 178280 | [178280-monopoly-and-monopoly-madness.json](./178280-monopoly-and-monopoly-madness.json) |
 | Monopoly Casino | 78950 | [78950-monopoly-casino.json](./78950-monopoly-casino.json) |
