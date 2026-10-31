@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanista: Shadows and Dust | 294283 | [294283-lanista-shadows-and-dust.json](./294283-lanista-shadows-and-dust.json) |
 | Lanky Larry | 176283 | [176283-lanky-larry.json](./176283-lanky-larry.json) |
 | Lanky Looters | 421338 | [421338-lanky-looters.json](./421338-lanky-looters.json) |
+| Lannath | 121208 | [121208-lannath.json](./121208-lannath.json) |
 | Lǎnrén Xiūxiān Zhuàn | 111583 | [111583-lanren-xiuxian-zhuan.json](./111583-lanren-xiuxian-zhuan.json) |
 | Lǎnrén Xiūxiān Zhuàn 2 | 415510 | [415510-lanren-xiuxian-zhuan-2.json](./415510-lanren-xiuxian-zhuan-2.json) |
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
@@ -6496,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely People Potion Shop | 152279 | [152279-lonely-people-potion-shop.json](./152279-lonely-people-potion-shop.json) |
 | Lonely Planet | 374174 | [374174-lonely-planet.json](./374174-lonely-planet.json) |
 | Lonely Red Night | 149700 | [149700-lonely-red-night.json](./149700-lonely-red-night.json) |
+| Lonely Rover | 121216 | [121216-lonely-rover.json](./121216-lonely-rover.json) |
 | Lonely shooter | 111680 | [111680-lonely-shooter.json](./111680-lonely-shooter.json) |
 | Lonely Silver Rose | 407201 | [407201-lonely-silver-rose.json](./407201-lonely-silver-rose.json) |
 | Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
@@ -8628,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lula Virtual Babe | 94697 | [94697-lula-virtual-babe.json](./94697-lula-virtual-babe.json) |
 | Lula: The Sexy Empire | 11679 | [11679-lula-the-sexy-empire.json](./11679-lula-the-sexy-empire.json) |
 | Lulanda | 363006 | [363006-lulanda.json](./363006-lulanda.json) |
+| Lull Aby | 121221 | [121221-lull-aby.json](./121221-lull-aby.json) |
 | Lull Away | 184339 | [184339-lull-away.json](./184339-lull-away.json) |
 | Lullaby | 203654 | [203654-lullaby.json](./203654-lullaby.json) |
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
