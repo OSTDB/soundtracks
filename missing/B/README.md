@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6491,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Words | 375690 | [375690-beyond-words.json](./375690-beyond-words.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
 | Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
+| Beyond Ynth Xmas Edition HDX | 98740 | [98740-beyond-ynth-xmas-edition-hdx.json](./98740-beyond-ynth-xmas-edition-hdx.json) |
 | Beyond You! | 122707 | [122707-beyond-you.json](./122707-beyond-you.json) |
 | Beyond Your Fear | 195596 | [195596-beyond-your-fear.json](./195596-beyond-your-fear.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
@@ -13422,6 +13424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
 | Brave Rabbit's Adventure in the Underworld | 184404 | [184404-brave-rabbits-adventure-in-the-underworld.json](./184404-brave-rabbits-adventure-in-the-underworld.json) |
 | Brave Rounds | 390759 | [390759-brave-rounds.json](./390759-brave-rounds.json) |
+| Brave Roy | 98738 | [98738-brave-roy.json](./98738-brave-roy.json) |
 | Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
 | Brave Soul | 70800 | [70800-brave-soul.json](./70800-brave-soul.json) |
