@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Escape: Virtue's Last Reward | 6614 | [6614-zero-escape-virtues-last-reward.json](./6614-zero-escape-virtues-last-reward.json) |
 | Zero Escape: Zero Time Dilemma | 11549 | [11549-zero-escape-zero-time-dilemma.json](./11549-zero-escape-zero-time-dilemma.json) |
 | Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition | 89890 | [89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json](./89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json) |
+| Zero Fantasy: Kanon | 122610 | [122610-zero-fantasy-kanon.json](./122610-zero-fantasy-kanon.json) |
 | Zero Fighter | 345917 | [345917-zero-fighter.json](./345917-zero-fighter.json) |
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
 | Zero Fill | 418733 | [418733-zero-fill.json](./418733-zero-fill.json) |
