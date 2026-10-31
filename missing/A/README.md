@@ -12397,6 +12397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
 | Arkandian Legends 1: Crusade | 385964 | [385964-arkandian-legends-1-crusade.json](./385964-arkandian-legends-1-crusade.json) |
 | ArkanDOS | 82486 | [82486-arkandos.json](./82486-arkandos.json) |
+| Arkane Rush | 110662 | [110662-arkane-rush.json](./110662-arkane-rush.json) |
 | Arkane Rush Multiverse Mayhem | 114163 | [114163-arkane-rush-multiverse-mayhem.json](./114163-arkane-rush-multiverse-mayhem.json) |
 | Arkanoid | 273037 | [273037-arkanoid.json](./273037-arkanoid.json) |
 | Arkanoid | 273038 | [273038-arkanoid.json](./273038-arkanoid.json) |
@@ -13996,6 +13997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
 | Asterigos: Curse of the Stars - Collectors Edition | 283589 | [283589-asterigos-curse-of-the-stars-collectors-edition.json](./283589-asterigos-curse-of-the-stars-collectors-edition.json) |
 | Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
+| Asterion | 110623 | [110623-asterion.json](./110623-asterion.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterisk 2: Next Now a Day | 387389 | [387389-asterisk-2-next-now-a-day.json](./387389-asterisk-2-next-now-a-day.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
