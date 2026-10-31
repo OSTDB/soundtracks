@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Electro Mage: Item frenzy | 216026 | [216026-idle-electro-mage-item-frenzy.json](./216026-idle-electro-mage-item-frenzy.json) |
 | Idle Elemental | 392446 | [392446-idle-elemental.json](./392446-idle-elemental.json) |
 | Idle Empires | 372697 | [372697-idle-empires.json](./372697-idle-empires.json) |
+| Idle Empires | 99913 | [99913-idle-empires.json](./99913-idle-empires.json) |
 | Idle Exorcism Hero | 270167 | [270167-idle-exorcism-hero.json](./270167-idle-exorcism-hero.json) |
 | Idle Expanse | 138599 | [138599-idle-expanse.json](./138599-idle-expanse.json) |
 | Idle Factory | 211625 | [211625-idle-factory.json](./211625-idle-factory.json) |
@@ -3183,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous 18 | 378396 | [378396-infamous-18.json](./378396-infamous-18.json) |
 | Infamous 2: Hero Edition | 139698 | [139698-infamous-2-hero-edition.json](./139698-infamous-2-hero-edition.json) |
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
+| Infamous Machine | 99896 | [99896-infamous-machine.json](./99896-infamous-machine.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: Festival of Blood | 7850 | [7850-infamous-festival-of-blood.json](./7850-infamous-festival-of-blood.json) |
 | Infamous: Precinct Assault | 374313 | [374313-infamous-precinct-assault.json](./374313-infamous-precinct-assault.json) |
