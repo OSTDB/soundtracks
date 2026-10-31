@@ -5173,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders: Survival and Tower Defense | 135661 | [135661-defenders-survival-and-tower-defense.json](./135661-defenders-survival-and-tower-defense.json) |
 | DefenderWorks | 61131 | [61131-defenderworks.json](./61131-defenderworks.json) |
 | Defendin' De Penguin | 51034 | [51034-defendin-de-penguin.json](./51034-defendin-de-penguin.json) |
+| Defending Camelot | 107486 | [107486-defending-camelot.json](./107486-defending-camelot.json) |
 | Defending Earth | 235172 | [235172-defending-earth.json](./235172-defending-earth.json) |
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
 | Defending Lydia Collier | 224826 | [224826-defending-lydia-collier.json](./224826-defending-lydia-collier.json) |
@@ -6507,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Quest | 420516 | [420516-desert-quest.json](./420516-desert-quest.json) |
 | Desert Race Adventures | 296592 | [296592-desert-race-adventures.json](./296592-desert-race-adventures.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
+| Desert Racing 2018 | 107544 | [107544-desert-racing-2018.json](./107544-desert-racing-2018.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
 | Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
 | Desert Revenant | 204835 | [204835-desert-revenant.json](./204835-desert-revenant.json) |
