@@ -8611,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
 | Merry Craft Exploration World | 104394 | [104394-merry-craft-exploration-world.json](./104394-merry-craft-exploration-world.json) |
 | Merry Crisis | 379855 | [379855-merry-crisis.json](./379855-merry-crisis.json) |
+| Merry Gear Solid 2: Ghosts of Christmas Past | 91648 | [91648-merry-gear-solid-2-ghosts-of-christmas-past.json](./91648-merry-gear-solid-2-ghosts-of-christmas-past.json) |
 | Merry Gear Solid: Secret Santa | 76129 | [76129-merry-gear-solid-secret-santa.json](./76129-merry-gear-solid-secret-santa.json) |
 | Merry Glade | 98698 | [98698-merry-glade.json](./98698-merry-glade.json) |
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
