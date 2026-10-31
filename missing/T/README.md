@@ -16930,6 +16930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall | 402127 | [402127-the-wall.json](./402127-the-wall.json) |
 | The Wall | 94086 | [94086-the-wall.json](./94086-the-wall.json) |
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
+| The Wall: Medieval Heroes | 108731 | [108731-the-wall-medieval-heroes.json](./108731-the-wall-medieval-heroes.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walls of Bratock | 14423 | [14423-the-walls-of-bratock.json](./14423-the-walls-of-bratock.json) |
 | The Walls Still Stand | 310717 | [310717-the-walls-still-stand.json](./310717-the-walls-still-stand.json) |
@@ -20483,6 +20484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tikal Online | 414559 | [414559-tikal-online.json](./414559-tikal-online.json) |
 | Tiki Brawl | 147087 | [147087-tiki-brawl.json](./147087-tiki-brawl.json) |
 | Tiki Golf 2 | 175229 | [175229-tiki-golf-2.json](./175229-tiki-golf-2.json) |
+| Tiki Kart 3D | 108703 | [108703-tiki-kart-3d.json](./108703-tiki-kart-3d.json) |
 | Tiki Magic Mini Golf | 79961 | [79961-tiki-magic-mini-golf.json](./79961-tiki-magic-mini-golf.json) |
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Resort | 92444 | [92444-tiki-resort.json](./92444-tiki-resort.json) |
