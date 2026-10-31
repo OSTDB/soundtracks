@@ -8024,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Rabbit | 190089 | [190089-greedy-rabbit.json](./190089-greedy-rabbit.json) |
 | Greedy Snake | 302242 | [302242-greedy-snake.json](./302242-greedy-snake.json) |
 | Greedy Squad | 348856 | [348856-greedy-squad.json](./348856-greedy-squad.json) |
+| Greedy Trolley | 74119 | [74119-greedy-trolley.json](./74119-greedy-trolley.json) |
 | Greedy Words | 209778 | [209778-greedy-words.json](./209778-greedy-words.json) |
 | Greedy Worm | 212523 | [212523-greedy-worm.json](./212523-greedy-worm.json) |
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
@@ -10295,6 +10296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts 'n Grunts Sr. | 397874 | [397874-guts-n-grunts-sr.json](./397874-guts-n-grunts-sr.json) |
 | Guts 'n' Garters in DNA Danger | 70029 | [70029-guts-n-garters-in-dna-danger.json](./70029-guts-n-garters-in-dna-danger.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
+| Guts Racer: Rush Tunnel | 74110 | [74110-guts-racer-rush-tunnel.json](./74110-guts-racer-rush-tunnel.json) |
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutspill | 403929 | [403929-gutspill.json](./403929-gutspill.json) |
 | Gutsy Grid | 402438 | [402438-gutsy-grid.json](./402438-gutsy-grid.json) |
