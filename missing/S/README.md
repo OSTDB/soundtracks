@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikuru | 287059 | [287059-saikuru.json](./287059-saikuru.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
+| Saikyoo Silver Star Shogi | 67772 | [67772-saikyoo-silver-star-shogi.json](./67772-saikyoo-silver-star-shogi.json) |
 | Saikyou Ginsei Chess | 83453 | [83453-saikyou-ginsei-chess.json](./83453-saikyou-ginsei-chess.json) |
 | Saikyou Ginsei Gomoku Narabe | 83474 | [83474-saikyou-ginsei-gomoku-narabe.json](./83474-saikyou-ginsei-gomoku-narabe.json) |
 | Saikyou Ginsei Mahjong | 408998 | [408998-saikyou-ginsei-mahjong.json](./408998-saikyou-ginsei-mahjong.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
 | Sarah in the Sky | 103800 | [103800-sarah-in-the-sky.json](./103800-sarah-in-the-sky.json) |
 | Sarah, you are way too heavy | 118364 | [118364-sarah-you-are-way-too-heavy.json](./118364-sarah-you-are-way-too-heavy.json) |
+| Sarah: Keeper of the Unicorn | 67766 | [67766-sarah-keeper-of-the-unicorn.json](./67766-sarah-keeper-of-the-unicorn.json) |
 | Sarah: Story of a Young Thief | 302967 | [302967-sarah-story-of-a-young-thief.json](./302967-sarah-story-of-a-young-thief.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
@@ -13028,6 +13030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Hue | 263578 | [263578-smash-hue.json](./263578-smash-hue.json) |
 | Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
 | Smash Island | 105785 | [105785-smash-island.json](./105785-smash-island.json) |
+| Smash it Up! | 67850 | [67850-smash-it-up.json](./67850-smash-it-up.json) |
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Kingdom | 228129 | [228129-smash-kingdom.json](./228129-smash-kingdom.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
@@ -18303,6 +18306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Simulator | 74832 | [74832-space-station-simulator.json](./74832-space-station-simulator.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
 | Space Station Tycoon | 165282 | [165282-space-station-tycoon.json](./165282-space-station-tycoon.json) |
+| Space Station Tycoon | 67751 | [67751-space-station-tycoon.json](./67751-space-station-tycoon.json) |
 | Space Station: Frontier | 233545 | [233545-space-station-frontier.json](./233545-space-station-frontier.json) |
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Step: Heroes of the Earth | 111554 | [111554-space-step-heroes-of-the-earth.json](./111554-space-step-heroes-of-the-earth.json) |
@@ -19244,6 +19248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Bally | 25873 | [25873-speedy-bally.json](./25873-speedy-bally.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
 | Speedy Eggbert | 18729 | [18729-speedy-eggbert.json](./18729-speedy-eggbert.json) |
+| Speedy Eggbert 2 | 67777 | [67777-speedy-eggbert-2.json](./67777-speedy-eggbert-2.json) |
 | Speedy Girls - Dream Team | 105151 | [105151-speedy-girls-dream-team.json](./105151-speedy-girls-dream-team.json) |
 | Speedy Golf | 174340 | [174340-speedy-golf.json](./174340-speedy-golf.json) |
 | Speedy Golf | 90843 | [90843-speedy-golf.json](./90843-speedy-golf.json) |
@@ -22829,6 +22834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargate Network | 316724 | [316724-stargate-network.json](./316724-stargate-network.json) |
 | Stargate Online TCG | 21529 | [21529-stargate-online-tcg.json](./21529-stargate-online-tcg.json) |
+| Stargate Online Trading Card Game | 67750 | [67750-stargate-online-trading-card-game.json](./67750-stargate-online-trading-card-game.json) |
 | Stargate SG-1 | 280286 | [280286-stargate-sg-1.json](./280286-stargate-sg-1.json) |
 | Stargate SG-1: Entropy Syndrome | 280284 | [280284-stargate-sg-1-entropy-syndrome.json](./280284-stargate-sg-1-entropy-syndrome.json) |
 | Stargate SG-1: Unleashed - Episode 1 | 1984 | [1984-stargate-sg-1-unleashed-episode-1.json](./1984-stargate-sg-1-unleashed-episode-1.json) |
