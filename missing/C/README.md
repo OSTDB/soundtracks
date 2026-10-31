@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Moviestar 3D | 245832 | [245832-captain-moviestar-3d.json](./245832-captain-moviestar-3d.json) |
 | Captain Nemo | 83520 | [83520-captain-nemo.json](./83520-captain-nemo.json) |
 | Captain Novolin | 18986 | [18986-captain-novolin.json](./18986-captain-novolin.json) |
+| Captain of America Moto Robot Transform Dino Wars | 95786 | [95786-captain-of-america-moto-robot-transform-dino-wars.json](./95786-captain-of-america-moto-robot-transform-dino-wars.json) |
 | Captain of Industry | 150100 | [150100-captain-of-industry.json](./150100-captain-of-industry.json) |
 | Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
@@ -10761,6 +10762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
 | Color by Number: Medieval Portrait | 367346 | [367346-color-by-number-medieval-portrait.json](./367346-color-by-number-medieval-portrait.json) |
 | Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
+| Color by Number: Pokémon Pixel Art | 95746 | [95746-color-by-number-pokemon-pixel-art.json](./95746-color-by-number-pokemon-pixel-art.json) |
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
 | Color by Numbers - Animals + | 86696 | [86696-color-by-numbers-animals.json](./86696-color-by-numbers-animals.json) |
 | Color by Numbers - Cars + | 87188 | [87188-color-by-numbers-cars.json](./87188-color-by-numbers-cars.json) |
