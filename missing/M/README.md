@@ -12050,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no! Shougakusei aru aru Sagashi: Kokomo mo Otona mo Tanoshimeru Irasuto Quiz no Tore Game | 222232 | [222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json](./222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json) |
 | Minna to Biohazard Clan Master | 251369 | [251369-minna-to-biohazard-clan-master.json](./251369-minna-to-biohazard-clan-master.json) |
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
+| Minna to Daikoukai Frontier | 64628 | [64628-minna-to-daikoukai-frontier.json](./64628-minna-to-daikoukai-frontier.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
 | Minnie & Friends: Yume no Kuni wo Sagashite | 282232 | [282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json](./282232-minnie-and-friends-yume-no-kuni-wo-sagashite.json) |
@@ -12553,6 +12554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Parts Side A: The Tantei Stories | 64671 | [64671-missing-parts-side-a-the-tantei-stories.json](./64671-missing-parts-side-a-the-tantei-stories.json) |
 | Missing Parts Side B: The Tantei Stories | 64672 | [64672-missing-parts-side-b-the-tantei-stories.json](./64672-missing-parts-side-b-the-tantei-stories.json) |
 | Missing Parts: The Tantei Stories | 64674 | [64674-missing-parts-the-tantei-stories.json](./64674-missing-parts-the-tantei-stories.json) |
+| Missing Parts: The Tantei Stories Complete | 64630 | [64630-missing-parts-the-tantei-stories-complete.json](./64630-missing-parts-the-tantei-stories-complete.json) |
 | Missing Persons | 207185 | [207185-missing-persons.json](./207185-missing-persons.json) |
 | Missing Picture | 315702 | [315702-missing-picture.json](./315702-missing-picture.json) |
 | Missing Pictures: Catherine Hardwicke | 227028 | [227028-missing-pictures-catherine-hardwicke.json](./227028-missing-pictures-catherine-hardwicke.json) |
@@ -12828,6 +12830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Estate | 111229 | [111229-mixed-estate.json](./111229-mixed-estate.json) |
 | Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
 | Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
+| Mixed Matrix Slingo | 64831 | [64831-mixed-matrix-slingo.json](./64831-mixed-matrix-slingo.json) |
 | Mixed Messages | 80175 | [80175-mixed-messages.json](./80175-mixed-messages.json) |
 | Mixed Spirits | 366957 | [366957-mixed-spirits.json](./366957-mixed-spirits.json) |
 | Mixed Super Mario Bros. U | 314111 | [314111-mixed-super-mario-bros-u.json](./314111-mixed-super-mario-bros-u.json) |
@@ -19715,6 +19718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
 | Mystery Adventure: Secret Key | 105706 | [105706-mystery-adventure-secret-key.json](./105706-mystery-adventure-secret-key.json) |
+| Mystery Agency: Visions of Time | 64703 | [64703-mystery-agency-visions-of-time.json](./64703-mystery-agency-visions-of-time.json) |
 | Mystery and Magic: Escape Room Bundle | 378834 | [378834-mystery-and-magic-escape-room-bundle.json](./378834-mystery-and-magic-escape-room-bundle.json) |
 | Mystery at Grand Fir Village | 274347 | [274347-mystery-at-grand-fir-village.json](./274347-mystery-at-grand-fir-village.json) |
 | Mystery at Morgoth | 173008 | [173008-mystery-at-morgoth.json](./173008-mystery-at-morgoth.json) |
