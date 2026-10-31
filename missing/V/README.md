@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Terrarium++: Deluxe Edition | 146162 | [146162-void-terrarium-deluxe-edition.json](./146162-void-terrarium-deluxe-edition.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
 | Void Troopers | 104995 | [104995-void-troopers.json](./104995-void-troopers.json) |
+| Void Tyrant | 95078 | [95078-void-tyrant.json](./95078-void-tyrant.json) |
 | Void Vanguard | 419331 | [419331-void-vanguard.json](./419331-void-vanguard.json) |
 | Void Vanguards | 384045 | [384045-void-vanguards.json](./384045-void-vanguards.json) |
 | Void Vikings | 33573 | [33573-void-vikings.json](./33573-void-vikings.json) |
@@ -3409,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
 | Voyage Phaser (Mobware) | 202009 | [202009-voyage-phaser-mobware.json](./202009-voyage-phaser-mobware.json) |
 | Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
+| Voyage Senki VR | 95142 | [95142-voyage-senki-vr.json](./95142-voyage-senki-vr.json) |
 | Voyage to Fantasy | 53151 | [53151-voyage-to-fantasy.json](./53151-voyage-to-fantasy.json) |
 | Voyage to Farland | 35418 | [35418-voyage-to-farland.json](./35418-voyage-to-farland.json) |
 | Voyage Trader | 420482 | [420482-voyage-trader.json](./420482-voyage-trader.json) |
