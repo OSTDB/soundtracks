@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock: Master of the Arcane | 2072 | [2072-warlock-master-of-the-arcane.json](./2072-warlock-master-of-the-arcane.json) |
 | Warlock: Master of the Arcane - Armageddon | 78457 | [78457-warlock-master-of-the-arcane-armageddon.json](./78457-warlock-master-of-the-arcane-armageddon.json) |
 | Warlock: Master of the Arcane - Complete Edition | 53909 | [53909-warlock-master-of-the-arcane-complete-edition.json](./53909-warlock-master-of-the-arcane-complete-edition.json) |
+| Warlock: Tower Defence | 103042 | [103042-warlock-tower-defence.json](./103042-warlock-tower-defence.json) |
 | Warlock's Citadel | 35574 | [35574-warlocks-citadel.json](./35574-warlocks-citadel.json) |
 | Warlock's Mountain | 71999 | [71999-warlocks-mountain.json](./71999-warlocks-mountain.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
@@ -6803,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
+| Word Domination | 103094 | [103094-word-domination.json](./103094-word-domination.json) |
 | Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
 | Word Explorer! | 174504 | [174504-word-explorer.json](./174504-word-explorer.json) |
@@ -7670,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer Jikkyou Winning Eleven 3: World Cup France '98 | 181573 | [181573-world-soccer-jikkyou-winning-eleven-3-world-cup-france-98.json](./181573-world-soccer-jikkyou-winning-eleven-3-world-cup-france-98.json) |
 | World Soccer Kid | 196827 | [196827-world-soccer-kid.json](./196827-world-soccer-kid.json) |
 | World Soccer King | 102698 | [102698-world-soccer-king.json](./102698-world-soccer-king.json) |
+| World Soccer Pinball | 103055 | [103055-world-soccer-pinball.json](./103055-world-soccer-pinball.json) |
 | World Soccer Strikers '91 | 139423 | [139423-world-soccer-strikers-91.json](./139423-world-soccer-strikers-91.json) |
 | World Soccer Winning Eleven 2006 Arcade Championship | 220991 | [220991-world-soccer-winning-eleven-2006-arcade-championship.json](./220991-world-soccer-winning-eleven-2006-arcade-championship.json) |
 | World Soccer Winning Eleven 2010: Aoki Samurai no Chousen | 220958 | [220958-world-soccer-winning-eleven-2010-aoki-samurai-no-chousen.json](./220958-world-soccer-winning-eleven-2010-aoki-samurai-no-chousen.json) |
