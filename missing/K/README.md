@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamasutra Connect : Sexy Hentai Girls | 111584 | [111584-kamasutra-connect-sexy-hentai-girls.json](./111584-kamasutra-connect-sexy-hentai-girls.json) |
 | Kamata | 348029 | [348029-kamata.json](./348029-kamata.json) |
 | Kambayashi-ke Satsujin Jiken | 343980 | [343980-kambayashi-ke-satsujin-jiken.json](./343980-kambayashi-ke-satsujin-jiken.json) |
+| Kamboja | 86464 | [86464-kamboja.json](./86464-kamboja.json) |
 | Kambulin | 147081 | [147081-kambulin.json](./147081-kambulin.json) |
 | Kame no Ongaeshi: Urashima Densetsu | 215130 | [215130-kame-no-ongaeshi-urashima-densetsu.json](./215130-kame-no-ongaeshi-urashima-densetsu.json) |
 | Kame Paradise 2 | 231389 | [231389-kame-paradise-2.json](./231389-kame-paradise-2.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kate Goes to Wildflower Grove | 177415 | [177415-kate-goes-to-wildflower-grove.json](./177415-kate-goes-to-wildflower-grove.json) |
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
 | Kate: Collateral Damage | 172562 | [172562-kate-collateral-damage.json](./172562-kate-collateral-damage.json) |
+| Kate's Test | 86466 | [86466-kates-test.json](./86466-kates-test.json) |
 | Kateba Kangun | 98058 | [98058-kateba-kangun.json](./98058-kateba-kangun.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
 | Katei Kyoushi no Onee-san: H no Hensachi Agechaimasu | 413844 | [413844-katei-kyoushi-no-onee-san-h-no-hensachi-agechaimasu.json](./413844-katei-kyoushi-no-onee-san-h-no-hensachi-agechaimasu.json) |
@@ -1569,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Mahjong | 96534 | [96534-kemono-mahjong.json](./96534-kemono-mahjong.json) |
 | Kemono Naki Yoru no Ori nite | 370555 | [370555-kemono-naki-yoru-no-ori-nite.json](./370555-kemono-naki-yoru-no-ori-nite.json) |
 | Kemono Patrol | 334850 | [334850-kemono-patrol.json](./334850-kemono-patrol.json) |
+| Kemonomichi 2 | 86476 | [86476-kemonomichi-2.json](./86476-kemonomichi-2.json) |
 | Kemonomichi Girlish Square | 299178 | [299178-kemonomichi-girlish-square.json](./299178-kemonomichi-girlish-square.json) |
 | Kemonomichi-White Moment- | 100111 | [100111-kemonomichi-white-moment.json](./100111-kemonomichi-white-moment.json) |
 | Kemonomix+ | 85222 | [85222-kemonomix.json](./85222-kemonomix.json) |
@@ -2570,7 +2573,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
