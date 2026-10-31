@@ -3892,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
 | Entity | 177408 | [177408-entity.json](./177408-entity.json) |
 | Entity | 282713 | [282713-entity.json](./282713-entity.json) |
+| Entity | 88722 | [88722-entity.json](./88722-entity.json) |
 | Entity Onboard | 339754 | [339754-entity-onboard.json](./339754-entity-onboard.json) |
 | Entity Research Group | 388947 | [388947-entity-research-group.json](./388947-entity-research-group.json) |
 | Entity Researchers | 159260 | [159260-entity-researchers.json](./159260-entity-researchers.json) |
