@@ -11471,6 +11471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Pool II | 384609 | [384609-arcade-pool-ii.json](./384609-arcade-pool-ii.json) |
 | Arcade Portable | 202779 | [202779-arcade-portable.json](./202779-arcade-portable.json) |
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
+| Arcade Racing Legends | 120565 | [120565-arcade-racing-legends.json](./120565-arcade-racing-legends.json) |
 | Arcade Redemption | 154879 | [154879-arcade-redemption.json](./154879-arcade-redemption.json) |
 | Arcade Reflex | 337965 | [337965-arcade-reflex.json](./337965-arcade-reflex.json) |
 | Arcade Room Simulator | 319788 | [319788-arcade-room-simulator.json](./319788-arcade-room-simulator.json) |
@@ -12813,6 +12814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arpsic | 187176 | [187176-arpsic.json](./187176-arpsic.json) |
 | ARPventure | 349649 | [349649-arpventure.json](./349649-arpventure.json) |
 | Arq Of The Abyss | 379085 | [379085-arq-of-the-abyss.json](./379085-arq-of-the-abyss.json) |
+| Arque Skies | 120537 | [120537-arque-skies.json](./120537-arque-skies.json) |
 | Arquelphos | 299803 | [299803-arquelphos.json](./299803-arquelphos.json) |
 | Arran: The Book of Heroes | 172519 | [172519-arran-the-book-of-heroes.json](./172519-arran-the-book-of-heroes.json) |
 | Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
@@ -14991,6 +14993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas' Fate: Between Light & Darkness | 182767 | [182767-atlas-fate-between-light-and-darkness.json](./182767-atlas-fate-between-light-and-darkness.json) |
 | Atled: Everlasting Song | 194540 | [194540-atled-everlasting-song.json](./194540-atled-everlasting-song.json) |
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
+| Atma | 120569 | [120569-atma.json](./120569-atma.json) |
 | Atman: Rebel Flame | 292388 | [292388-atman-rebel-flame.json](./292388-atman-rebel-flame.json) |
 | AtmaSphere 2 | 261706 | [261706-atmasphere-2.json](./261706-atmasphere-2.json) |
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
