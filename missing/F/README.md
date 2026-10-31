@@ -889,7 +889,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
-| Fall of Porcupine | 165271 | [165271-fall-of-porcupine.json](./165271-fall-of-porcupine.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
 | Fall of the Final Age | 384901 | [384901-fall-of-the-final-age.json](./384901-fall-of-the-final-age.json) |
 | Fall of the Mafia | 157395 | [157395-fall-of-the-mafia.json](./157395-fall-of-the-mafia.json) |
@@ -9790,7 +9789,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Race Day Car Pack | 267846 | [267846-forza-motorsport-race-day-car-pack.json](./267846-forza-motorsport-race-day-car-pack.json) |
 | Forza Motorsport: Racing Heroes Car Pack | 361776 | [361776-forza-motorsport-racing-heroes-car-pack.json](./361776-forza-motorsport-racing-heroes-car-pack.json) |
 | Forza Polpo | 137632 | [137632-forza-polpo.json](./137632-forza-polpo.json) |
-| Forza Street | 102867 | [102867-forza-street.json](./102867-forza-street.json) |
 | Forza Street: Tap to Race | 237369 | [237369-forza-street-tap-to-race.json](./237369-forza-street-tap-to-race.json) |
 | ForzeBreak | 107705 | [107705-forzebreak.json](./107705-forzebreak.json) |
 | Fos | 43153 | [43153-fos.json](./43153-fos.json) |
@@ -9985,7 +9983,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Junction | 44726 | [44726-fox-junction.json](./44726-fox-junction.json) |
 | Fox Legend | 329503 | [329503-fox-legend.json](./329503-fox-legend.json) |
 | Fox McCloud's Blazing Blueberry Blast Off | 328850 | [328850-fox-mcclouds-blazing-blueberry-blast-off.json](./328850-fox-mcclouds-blazing-blueberry-blast-off.json) |
-| Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
 | Fox of the moon | 235423 | [235423-fox-of-the-moon.json](./235423-fox-of-the-moon.json) |
 | Fox Quest: The Elemental Keys | 310273 | [310273-fox-quest-the-elemental-keys.json](./310273-fox-quest-the-elemental-keys.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
