@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC Undisputed Forever | 410484 | [410484-ufc-undisputed-forever.json](./410484-ufc-undisputed-forever.json) |
 | UFC: Tapout 2 | 6219 | [6219-ufc-tapout-2.json](./6219-ufc-tapout-2.json) |
 | UFC: Throwdown | 4221 | [4221-ufc-throwdown.json](./4221-ufc-throwdown.json) |
+| Ufflegrim | 118587 | [118587-ufflegrim.json](./118587-ufflegrim.json) |
 | UFHO2 | 35793 | [35793-ufho2.json](./35793-ufho2.json) |
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
 | uFighter | 115428 | [115428-ufighter.json](./115428-ufighter.json) |
@@ -2858,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
 | Upgrade It | 396581 | [396581-upgrade-it.json](./396581-upgrade-it.json) |
+| Upgrade the game | 118561 | [118561-upgrade-the-game.json](./118561-upgrade-the-game.json) |
 | Upgrade the game 2 | 118655 | [118655-upgrade-the-game-2.json](./118655-upgrade-the-game-2.json) |
 | Upgrade the game 3: Spaceship | 251078 | [251078-upgrade-the-game-3-spaceship.json](./251078-upgrade-the-game-3-spaceship.json) |
 | Upgrade VR | 192550 | [192550-upgrade-vr.json](./192550-upgrade-vr.json) |
