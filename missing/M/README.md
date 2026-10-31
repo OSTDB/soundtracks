@@ -12488,6 +12488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Escape from Island 2 | 82472 | [82472-mission-escape-from-island-2.json](./82472-mission-escape-from-island-2.json) |
 | Mission: Escape from Island 3 | 82473 | [82473-mission-escape-from-island-3.json](./82473-mission-escape-from-island-3.json) |
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
+| Mission: Impossible | 118557 | [118557-mission-impossible.json](./118557-mission-impossible.json) |
 | Mission: Impossible | 219019 | [219019-mission-impossible.json](./219019-mission-impossible.json) |
 | Mission: Impossible | 68337 | [68337-mission-impossible.json](./68337-mission-impossible.json) |
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
@@ -19182,6 +19183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe: Puppies and Kittens | 169236 | [169236-my-universe-puppies-and-kittens.json](./169236-my-universe-puppies-and-kittens.json) |
 | My Universe: Puppies and Kittens - Panda Edition | 210918 | [210918-my-universe-puppies-and-kittens-panda-edition.json](./210918-my-universe-puppies-and-kittens-panda-edition.json) |
 | My Universe: School Teacher | 139216 | [139216-my-universe-school-teacher.json](./139216-my-universe-school-teacher.json) |
+| My University | 118592 | [118592-my-university.json](./118592-my-university.json) |
 | My University Girlfriend | 192740 | [192740-my-university-girlfriend.json](./192740-my-university-girlfriend.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
