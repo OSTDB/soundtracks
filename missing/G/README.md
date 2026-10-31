@@ -8426,6 +8426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grieving: Berduka | 372674 | [372674-grieving-berduka.json](./372674-grieving-berduka.json) |
 | Grievous Onslaught | 245966 | [245966-grievous-onslaught.json](./245966-grievous-onslaught.json) |
 | Grievous Survivors | 235680 | [235680-grievous-survivors.json](./235680-grievous-survivors.json) |
+| Griff the Winged Lion | 63585 | [63585-griff-the-winged-lion.json](./63585-griff-the-winged-lion.json) |
 | Griff Wild | 257575 | [257575-griff-wild.json](./257575-griff-wild.json) |
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
 | Griffin Card | 182847 | [182847-griffin-card.json](./182847-griffin-card.json) |
