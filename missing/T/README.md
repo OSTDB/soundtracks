@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takahashi Naoko no Marathon Shiyouyo | 215056 | [215056-takahashi-naoko-no-marathon-shiyouyo.json](./215056-takahashi-naoko-no-marathon-shiyouyo.json) |
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Takanaria | 113495 | [113495-takanaria.json](./113495-takanaria.json) |
+| Takara B.D. Adventure | 85785 | [85785-takara-b-d-adventure.json](./85785-takara-b-d-adventure.json) |
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
 | Takara Shimai: Scratch Simulator | 384133 | [384133-takara-shimai-scratch-simulator.json](./384133-takara-shimai-scratch-simulator.json) |
 | Takara-hai Oozumou Eisei Basho | 151639 | [151639-takara-hai-oozumou-eisei-basho.json](./151639-takara-hai-oozumou-eisei-basho.json) |
@@ -5337,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
 | The Animal Half | 97986 | [97986-the-animal-half.json](./97986-the-animal-half.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
+| The Animation Classics Pack | 85708 | [85708-the-animation-classics-pack.json](./85708-the-animation-classics-pack.json) |
 | The Anime Super Remix: Kyojin no Hoshi | 268391 | [268391-the-anime-super-remix-kyojin-no-hoshi.json](./268391-the-anime-super-remix-kyojin-no-hoshi.json) |
 | The Annoying Thing: 3-in-1 | 224320 | [224320-the-annoying-thing-3-in-1.json](./224320-the-annoying-thing-3-in-1.json) |
 | The Annoying Thing: Chaser Racer | 224319 | [224319-the-annoying-thing-chaser-racer.json](./224319-the-annoying-thing-chaser-racer.json) |
@@ -15451,6 +15453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Space Sheriff Spirits | 64780 | [64780-the-space-sheriff-spirits.json](./64780-the-space-sheriff-spirits.json) |
 | The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
+| The SpaceOut Collection - My Ex-Boyfriend the Space Tyrant and Escape from Pleasure Planet | 85706 | [85706-the-spaceout-collection-my-ex-boyfriend-the-space-tyrant-and-escape-from-pleasure-planet.json](./85706-the-spaceout-collection-my-ex-boyfriend-the-space-tyrant-and-escape-from-pleasure-planet.json) |
 | The Spanish Privateer | 190374 | [190374-the-spanish-privateer.json](./190374-the-spanish-privateer.json) |
 | The Spark of One | 135064 | [135064-the-spark-of-one.json](./135064-the-spark-of-one.json) |
 | The Spatials | 51520 | [51520-the-spatials.json](./51520-the-spatials.json) |
@@ -18380,6 +18383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
 | Thomas and Friends: Calling All Engines | 69068 | [69068-thomas-and-friends-calling-all-engines.json](./69068-thomas-and-friends-calling-all-engines.json) |
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
+| Thomas and Friends: Misty Island Rescue | 85781 | [85781-thomas-and-friends-misty-island-rescue.json](./85781-thomas-and-friends-misty-island-rescue.json) |
 | Thomas and the Magic Railroad Print Studio | 225521 | [225521-thomas-and-the-magic-railroad-print-studio.json](./225521-thomas-and-the-magic-railroad-print-studio.json) |
 | Thomas Ireham in Crimson Spotlight | 390377 | [390377-thomas-ireham-in-crimson-spotlight.json](./390377-thomas-ireham-in-crimson-spotlight.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
@@ -18953,6 +18957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
 | Tic Tac Rogue | 376103 | [376103-tic-tac-rogue.json](./376103-tic-tac-rogue.json) |
 | Tic Tac Toe | 321433 | [321433-tic-tac-toe.json](./321433-tic-tac-toe.json) |
+| Tic Tac Toe | 85793 | [85793-tic-tac-toe.json](./85793-tic-tac-toe.json) |
 | Tic Tac Toe (Cellular) | 102843 | [102843-tic-tac-toe-cellular.json](./102843-tic-tac-toe-cellular.json) |
 | Tic Tac Toe 3D 2014 HD | 106744 | [106744-tic-tac-toe-3d-2014-hd.json](./106744-tic-tac-toe-3d-2014-hd.json) |
 | Tic Tac Toe Battle Royale | 180712 | [180712-tic-tac-toe-battle-royale.json](./180712-tic-tac-toe-battle-royale.json) |
@@ -24948,6 +24953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Blast | 54986 | [54986-toy-blast.json](./54986-toy-blast.json) |
 | Toy Bot Diaries | 69260 | [69260-toy-bot-diaries.json](./69260-toy-bot-diaries.json) |
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
+| Toy Bot Diaries 3 | 85788 | [85788-toy-bot-diaries-3.json](./85788-toy-bot-diaries-3.json) |
 | Toy Bot Mini Missions | 80622 | [80622-toy-bot-mini-missions.json](./80622-toy-bot-mini-missions.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Box | 423238 | [423238-toy-box.json](./423238-toy-box.json) |
@@ -25338,6 +25344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traildown: Downhill Mountain Biking | 226587 | [226587-traildown-downhill-mountain-biking.json](./226587-traildown-downhill-mountain-biking.json) |
 | Trailer Game | 390557 | [390557-trailer-game.json](./390557-trailer-game.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
+| Trailer Park King Episode 2 | 85803 | [85803-trailer-park-king-episode-2.json](./85803-trailer-park-king-episode-2.json) |
 | Trailer Park Life | 232883 | [232883-trailer-park-life.json](./232883-trailer-park-life.json) |
 | Trailer Park Tycoon: Raccoon Ranch | 316488 | [316488-trailer-park-tycoon-raccoon-ranch.json](./316488-trailer-park-tycoon-raccoon-ranch.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
@@ -28206,6 +28213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trilogi Keluarga Bahagia Side Story: Sulastri Si Tukang Jamu | 319036 | [319036-trilogi-keluarga-bahagia-side-story-sulastri-si-tukang-jamu.json](./319036-trilogi-keluarga-bahagia-side-story-sulastri-si-tukang-jamu.json) |
 | Trilogi Keluarga Bahagia Side Story: Yuni dan Puzzle Ajaib | 319037 | [319037-trilogi-keluarga-bahagia-side-story-yuni-dan-puzzle-ajaib.json](./319037-trilogi-keluarga-bahagia-side-story-yuni-dan-puzzle-ajaib.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
+| Trilogy | 85790 | [85790-trilogy.json](./85790-trilogy.json) |
 | Trilogy King Man | 148318 | [148318-trilogy-king-man.json](./148318-trilogy-king-man.json) |
 | Trilogy Kuki Youka Shinden | 153741 | [153741-trilogy-kuki-youka-shinden.json](./153741-trilogy-kuki-youka-shinden.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
