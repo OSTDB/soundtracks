@@ -1627,7 +1627,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Truck: Austin, TX | 101041 | [101041-garbage-truck-austin-tx.json](./101041-garbage-truck-austin-tx.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
 | Garbage Truck: Bulky Trash Pick Up | 97289 | [97289-garbage-truck-bulky-trash-pick-up.json](./97289-garbage-truck-bulky-trash-pick-up.json) |
+| Garbage Truck: Los Angeles, CA | 99939 | [99939-garbage-truck-los-angeles-ca.json](./99939-garbage-truck-los-angeles-ca.json) |
 | Garbage Truck: Snow Time | 105529 | [105529-garbage-truck-snow-time.json](./105529-garbage-truck-snow-time.json) |
+| Garbage Truck! | 99940 | [99940-garbage-truck.json](./99940-garbage-truck.json) |
 | Garbageboi+ | 209938 | [209938-garbageboi.json](./209938-garbageboi.json) |
 | Garbagefield Saves Christmas | 309581 | [309581-garbagefield-saves-christmas.json](./309581-garbagefield-saves-christmas.json) |
 | GarbageGame | 264215 | [264215-garbagegame.json](./264215-garbagegame.json) |
