@@ -5120,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | GoBattle.io | 395949 | [395949-gobattle-io.json](./395949-gobattle-io.json) |
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
+| Gobble Dash | 117987 | [117987-gobble-dash.json](./117987-gobble-dash.json) |
 | Gobble Fantasy 2003 | 376039 | [376039-gobble-fantasy-2003.json](./376039-gobble-fantasy-2003.json) |
 | Gobble It | 240109 | [240109-gobble-it.json](./240109-gobble-it.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
@@ -7882,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greats of the Gridiron | 153514 | [153514-greats-of-the-gridiron.json](./153514-greats-of-the-gridiron.json) |
 | Greatsword Point! | 343748 | [343748-greatsword-point.json](./343748-greatsword-point.json) |
 | Grebit | 119405 | [119405-grebit.json](./119405-grebit.json) |
+| Greco's Hall of Kanji: Learn Japanese (Beginner) | 117943 | [117943-grecos-hall-of-kanji-learn-japanese-beginner.json](./117943-grecos-hall-of-kanji-learn-japanese-beginner.json) |
 | Gred | 126943 | [126943-gred.json](./126943-gred.json) |
 | Greda Inferno | 397591 | [397591-greda-inferno.json](./397591-greda-inferno.json) |
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
