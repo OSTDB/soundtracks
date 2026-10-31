@@ -2941,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Chessboard | 247677 | [247677-fate-chessboard.json](./247677-fate-chessboard.json) |
 | Fate Collectors | 253957 | [253957-fate-collectors.json](./253957-fate-collectors.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
+| Fate Crawler | 72416 | [72416-fate-crawler.json](./72416-fate-crawler.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
 | Fate Hunters | 107693 | [107693-fate-hunters.json](./107693-fate-hunters.json) |
 | Fate in the Darkness | 169385 | [169385-fate-in-the-darkness.json](./169385-fate-in-the-darkness.json) |
@@ -8157,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
 | Follow JC Go | 111329 | [111329-follow-jc-go.json](./111329-follow-jc-go.json) |
+| Follow My Footsteps | 72411 | [72411-follow-my-footsteps.json](./72411-follow-my-footsteps.json) |
 | Follow My Steps | 216666 | [216666-follow-my-steps.json](./216666-follow-my-steps.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
 | Follow Nightmare | 391589 | [391589-follow-nightmare.json](./391589-follow-nightmare.json) |
@@ -11832,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fu Sha 3: Night Clinic | 405552 | [405552-fu-sha-3-night-clinic.json](./405552-fu-sha-3-night-clinic.json) |
 | Fu-Fu-Chan: Way Up! | 408933 | [408933-fu-fu-chan-way-up.json](./408933-fu-fu-chan-way-up.json) |
 | Fu-un Bakumatsu-den | 71947 | [71947-fu-un-bakumatsu-den.json](./71947-fu-un-bakumatsu-den.json) |
+| Fu-un Shinsengumi | 72428 | [72428-fu-un-shinsengumi.json](./72428-fu-un-shinsengumi.json) |
 | Fu'un Super Combo | 84318 | [84318-fuun-super-combo.json](./84318-fuun-super-combo.json) |
 | Fubar | 144062 | [144062-fubar.json](./144062-fubar.json) |
 | FUBG: Fight Unknown Battleground | 302804 | [302804-fubg-fight-unknown-battleground.json](./302804-fubg-fight-unknown-battleground.json) |
@@ -11846,6 +11849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Hitler | 225607 | [225607-fuck-hitler.json](./225607-fuck-hitler.json) |
 | Fuck Paper Scissors | 344382 | [344382-fuck-paper-scissors.json](./344382-fuck-paper-scissors.json) |
 | Fuck Putin | 209542 | [209542-fuck-putin.json](./209542-fuck-putin.json) |
+| Fuck Quest | 72441 | [72441-fuck-quest.json](./72441-fuck-quest.json) |
 | Fuck Quest 2: Romancing the Bone | 69235 | [69235-fuck-quest-2-romancing-the-bone.json](./69235-fuck-quest-2-romancing-the-bone.json) |
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
