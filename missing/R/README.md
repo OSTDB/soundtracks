@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragedanger Earth | 203664 | [203664-ragedanger-earth.json](./203664-ragedanger-earth.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
 | Rager | 295512 | [295512-rager.json](./295512-rager.json) |
+| Ragfile vol.1 | 108150 | [108150-ragfile-vol-1.json](./108150-ragfile-vol-1.json) |
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
 | Raging Ball | 157511 | [157511-raging-ball.json](./157511-raging-ball.json) |
 | Raging Ball | 416962 | [416962-raging-ball.json](./416962-raging-ball.json) |
@@ -3291,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
+| Record of Grancrest War: Quartet Conflict | 108157 | [108157-record-of-grancrest-war-quartet-conflict.json](./108157-record-of-grancrest-war-quartet-conflict.json) |
 | Record of Lodoss War | 42384 | [42384-record-of-lodoss-war.json](./42384-record-of-lodoss-war.json) |
 | Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
 | Record of Lodoss War II | 66140 | [66140-record-of-lodoss-war-ii.json](./66140-record-of-lodoss-war-ii.json) |
@@ -6497,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddler's Den | 26211 | [26211-riddlers-den.json](./26211-riddlers-den.json) |
 | Riddles And Sieges | 243867 | [243867-riddles-and-sieges.json](./243867-riddles-and-sieges.json) |
+| Riddles of Egypt | 108139 | [108139-riddles-of-egypt.json](./108139-riddles-of-egypt.json) |
 | Riddles of Fate: Wild Hunt - Collector's Edition | 30538 | [30538-riddles-of-fate-wild-hunt-collectors-edition.json](./30538-riddles-of-fate-wild-hunt-collectors-edition.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
 | Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
