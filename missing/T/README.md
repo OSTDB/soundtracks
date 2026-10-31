@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap! Tap! Faraway Kingdom | 199936 | [199936-tap-tap-faraway-kingdom.json](./199936-tap-tap-faraway-kingdom.json) |
 | Tapan Kaikki 4: Bloodshed | 47108 | [47108-tapan-kaikki-4-bloodshed.json](./47108-tapan-kaikki-4-bloodshed.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
+| TapDefense | 67023 | [67023-tapdefense.json](./67023-tapdefense.json) |
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Denial | 339415 | [339415-tape-denial.json](./339415-tape-denial.json) |
 | Tape it Up! | 103216 | [103216-tape-it-up.json](./103216-tape-it-up.json) |
