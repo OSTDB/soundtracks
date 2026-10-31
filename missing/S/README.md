@@ -6822,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
+| Shark Dash | 65169 | [65169-shark-dash.json](./65169-shark-dash.json) |
 | Shark Dating Simulator XL | 43097 | [43097-shark-dating-simulator-xl.json](./43097-shark-dating-simulator-xl.json) |
 | Shark Dentist | 354222 | [354222-shark-dentist.json](./354222-shark-dentist.json) |
 | Shark Game | 220256 | [220256-shark-game.json](./220256-shark-game.json) |
@@ -8308,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Champion VR | 116913 | [116913-shooting-champion-vr.json](./116913-shooting-champion-vr.json) |
 | Shooting Chicken Brutal Suckers | 123971 | [123971-shooting-chicken-brutal-suckers.json](./123971-shooting-chicken-brutal-suckers.json) |
 | Shooting Chicken Insanity Chickens | 110171 | [110171-shooting-chicken-insanity-chickens.json](./110171-shooting-chicken-insanity-chickens.json) |
+| Shooting Chicken Revenge | 65298 | [65298-shooting-chicken-revenge.json](./65298-shooting-chicken-revenge.json) |
 | Shooting Covid | 195713 | [195713-shooting-covid.json](./195713-shooting-covid.json) |
 | Shooting Disappearing | 288357 | [288357-shooting-disappearing.json](./288357-shooting-disappearing.json) |
 | Shooting Donut | 279472 | [279472-shooting-donut.json](./279472-shooting-donut.json) |
@@ -12707,11 +12709,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania V: Zettai Shougeki II | 63764 | [63764-slotter-mania-v-zettai-shougeki-ii.json](./63764-slotter-mania-v-zettai-shougeki-ii.json) |
 | Slotter Mania: Core Tokonatsu no Netsusa! Oasis | 98871 | [98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json](./98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json) |
 | Slotter Mania: Gekinetsu Okisuro! Siosai Special | 98876 | [98876-slotter-mania-gekinetsu-okisuro-siosai-special.json](./98876-slotter-mania-gekinetsu-okisuro-siosai-special.json) |
+| Slotter UP Core | 65300 | [65300-slotter-up-core.json](./65300-slotter-up-core.json) |
 | Slotter Up Core 12: PinPon | 79035 | [79035-slotter-up-core-12-pinpon.json](./79035-slotter-up-core-12-pinpon.json) |
+| Slotter UP Core 2 | 65299 | [65299-slotter-up-core-2.json](./65299-slotter-up-core-2.json) |
 | Slotter Up Core 5 | 204223 | [204223-slotter-up-core-5.json](./204223-slotter-up-core-5.json) |
 | Slotter Up Core 6 | 204224 | [204224-slotter-up-core-6.json](./204224-slotter-up-core-6.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
 | Slotter Up Core 8 | 204225 | [204225-slotter-up-core-8.json](./204225-slotter-up-core-8.json) |
+| Slotter Up Mania | 65302 | [65302-slotter-up-mania.json](./65302-slotter-up-mania.json) |
 | Slottso Party | 79574 | [79574-slottso-party.json](./79574-slottso-party.json) |
 | Slow and Steady | 157486 | [157486-slow-and-steady.json](./157486-slow-and-steady.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
@@ -20458,6 +20463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Doodlepants | 242366 | [242366-spongebob-squarepants-doodlepants.json](./242366-spongebob-squarepants-doodlepants.json) |
 | SpongeBob SquarePants: Employee of the Month | 2763 | [2763-spongebob-squarepants-employee-of-the-month.json](./2763-spongebob-squarepants-employee-of-the-month.json) |
 | SpongeBob SquarePants: Fists of Foam | 230401 | [230401-spongebob-squarepants-fists-of-foam.json](./230401-spongebob-squarepants-fists-of-foam.json) |
+| SpongeBob SquarePants: Fists of Foam | 65154 | [65154-spongebob-squarepants-fists-of-foam.json](./65154-spongebob-squarepants-fists-of-foam.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Four Squared | 288190 | [288190-spongebob-squarepants-four-squared.json](./288190-spongebob-squarepants-four-squared.json) |
 | SpongeBob Squarepants: Idea Sponge | 307851 | [307851-spongebob-squarepants-idea-sponge.json](./307851-spongebob-squarepants-idea-sponge.json) |
@@ -22254,6 +22260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Armada 2 | 18904 | [18904-star-trek-armada-2.json](./18904-star-trek-armada-2.json) |
 | Star Trek: Armada III | 191510 | [191510-star-trek-armada-iii.json](./191510-star-trek-armada-iii.json) |
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
+| Star Trek: Borg Assimilator | 65373 | [65373-star-trek-borg-assimilator.json](./65373-star-trek-borg-assimilator.json) |
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
 | Star Trek: Conquest | 5193 | [5193-star-trek-conquest.json](./5193-star-trek-conquest.json) |
@@ -22489,6 +22496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Jedi Knight II: Jedi Outcast Demo | 367367 | [367367-star-wars-jedi-knight-ii-jedi-outcast-demo.json](./367367-star-wars-jedi-knight-ii-jedi-outcast-demo.json) |
 | Star Wars: Jedi Power Battles | 301489 | [301489-star-wars-jedi-power-battles.json](./301489-star-wars-jedi-power-battles.json) |
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
+| Star Wars: Jedi Trials | 65161 | [65161-star-wars-jedi-trials.json](./65161-star-wars-jedi-trials.json) |
 | Star Wars: Knights of the Old Republic - Remake | 168665 | [168665-star-wars-knights-of-the-old-republic-remake.json](./168665-star-wars-knights-of-the-old-republic-remake.json) |
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
@@ -24669,6 +24677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Hearts: Wolf Knight | 285860 | [285860-stolen-hearts-wolf-knight.json](./285860-stolen-hearts-wolf-knight.json) |
+| Stolen in 60 Seconds | 65229 | [65229-stolen-in-60-seconds.json](./65229-stolen-in-60-seconds.json) |
 | Stolen Life | 338615 | [338615-stolen-life.json](./338615-stolen-life.json) |
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
 | Stolen Mouth | 74660 | [74660-stolen-mouth.json](./74660-stolen-mouth.json) |
@@ -25810,6 +25819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
 | Streetdog BMX | 280252 | [280252-streetdog-bmx.json](./280252-streetdog-bmx.json) |
 | Streetkix Freestyle | 52865 | [52865-streetkix-freestyle.json](./52865-streetkix-freestyle.json) |
+| StreetMobsters | 65375 | [65375-streetmobsters.json](./65375-streetmobsters.json) |
 | Streetoir | 272226 | [272226-streetoir.json](./272226-streetoir.json) |
 | Streets Ablaze | 97175 | [97175-streets-ablaze.json](./97175-streets-ablaze.json) |
 | Streets At Midnight | 179857 | [179857-streets-at-midnight.json](./179857-streets-at-midnight.json) |
@@ -28040,6 +28050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chicken Catchers | 113430 | [113430-super-chicken-catchers.json](./113430-super-chicken-catchers.json) |
 | Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
 | Super Chicken Run - Chicken Farm Racing For kids | 100623 | [100623-super-chicken-run-chicken-farm-racing-for-kids.json](./100623-super-chicken-run-chicken-farm-racing-for-kids.json) |
+| Super Chicks | 65160 | [65160-super-chicks.json](./65160-super-chicks.json) |
 | Super Chicos | 149175 | [149175-super-chicos.json](./149175-super-chicos.json) |
 | Super Chili Man | 392203 | [392203-super-chili-man.json](./392203-super-chili-man.json) |
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
@@ -31516,6 +31527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SushiCat: Bento | 363948 | [363948-sushicat-bento.json](./363948-sushicat-bento.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
 | Sushido | 292381 | [292381-sushido.json](./292381-sushido.json) |
+| Sushido | 65303 | [65303-sushido.json](./65303-sushido.json) |
 | Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
