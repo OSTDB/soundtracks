@@ -3199,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volta-X | 130525 | [130525-volta-x.json](./130525-volta-x.json) |
 | Voltage | 131193 | [131193-voltage.json](./131193-voltage.json) |
 | Voltage | 88029 | [88029-voltage.json](./88029-voltage.json) |
+| Voltage Drop | 110665 | [110665-voltage-drop.json](./110665-voltage-drop.json) |
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
 | Voltage High Society | 208420 | [208420-voltage-high-society.json](./208420-voltage-high-society.json) |
 | Voltage Vamp | 401927 | [401927-voltage-vamp.json](./401927-voltage-vamp.json) |
