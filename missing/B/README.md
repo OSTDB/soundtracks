@@ -865,7 +865,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1884,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang! Bang! Bandits | 376493 | [376493-bang-bang-bandits.json](./376493-bang-bang-bandits.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bang! Howdy | 51472 | [51472-bang-howdy.json](./51472-bang-howdy.json) |
+| Bang! The Official Video Game | 118549 | [118549-bang-the-official-video-game.json](./118549-bang-the-official-video-game.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
 | Bangai-O HD | 21783 | [21783-bangai-o-hd.json](./21783-bangai-o-hd.json) |
 | Bangai-O HD: Missile Fury | 91845 | [91845-bangai-o-hd-missile-fury.json](./91845-bangai-o-hd-missile-fury.json) |
@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bash Your Lord | 58118 | [58118-bash-your-lord.json](./58118-bash-your-lord.json) |
 | Basha Baloot | 126270 | [126270-basha-baloot.json](./126270-basha-baloot.json) |
 | Basha Card Game Collection | 126272 | [126272-basha-card-game-collection.json](./126272-basha-card-game-collection.json) |
+| Basha Tarneeb | 118550 | [118550-basha-tarneeb.json](./118550-basha-tarneeb.json) |
 | Basha Trix | 126271 | [126271-basha-trix.json](./126271-basha-trix.json) |
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
 | Bashers | 387606 | [387606-bashers.json](./387606-bashers.json) |
@@ -8031,6 +8032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
+| Black Blue | 118548 | [118548-black-blue.json](./118548-black-blue.json) |
 | Black Book: Endless Battles | 193627 | [193627-black-book-endless-battles.json](./193627-black-book-endless-battles.json) |
 | Black Border II | 374564 | [374564-black-border-ii.json](./374564-black-border-ii.json) |
 | Black Border Patrol Simulator | 139646 | [139646-black-border-patrol-simulator.json](./139646-black-border-patrol-simulator.json) |
@@ -12551,6 +12553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Paths | 267023 | [267023-boundless-paths.json](./267023-boundless-paths.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
+| Boundless: Digital Deluxe Edition | 118551 | [118551-boundless-digital-deluxe-edition.json](./118551-boundless-digital-deluxe-edition.json) |
 | Boundra | 62499 | [62499-boundra.json](./62499-boundra.json) |
 | BoundWorlds | 295501 | [295501-boundworlds.json](./295501-boundworlds.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
