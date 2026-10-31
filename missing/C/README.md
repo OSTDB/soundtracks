@@ -4981,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Shotgun | 374403 | [374403-chain-shotgun.json](./374403-chain-shotgun.json) |
 | Chain Solitaire Royale | 89469 | [89469-chain-solitaire-royale.json](./89469-chain-solitaire-royale.json) |
+| Chain Solitaire: Fun Card Game | 99356 | [99356-chain-solitaire-fun-card-game.json](./99356-chain-solitaire-fun-card-game.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
 | Chain World | 92484 | [92484-chain-world.json](./92484-chain-world.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
@@ -10741,6 +10742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Bomb! | 274954 | [274954-color-bomb.json](./274954-color-bomb.json) |
+| Color Book: Cute Pixel Art | 99326 | [99326-color-book-cute-pixel-art.json](./99326-color-book-cute-pixel-art.json) |
 | Color Bound | 181663 | [181663-color-bound.json](./181663-color-bound.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
 | Color Breakers 2 | 338877 | [338877-color-breakers-2.json](./338877-color-breakers-2.json) |
@@ -13935,6 +13937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CounterSpy | 7612 | [7612-counterspy.json](./7612-counterspy.json) |
 | Counterweight | 412316 | [412316-counterweight.json](./412316-counterweight.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
+| Countess Thalia Solitaire | 99309 | [99309-countess-thalia-solitaire.json](./99309-countess-thalia-solitaire.json) |
 | Counties Work | 207836 | [207836-counties-work.json](./207836-counties-work.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
@@ -14415,6 +14418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft | 280355 | [280355-craft.json](./280355-craft.json) |
 | Craft & Conquer | 339334 | [339334-craft-and-conquer.json](./339334-craft-and-conquer.json) |
 | Craft & Deliver | 406889 | [406889-craft-and-deliver.json](./406889-craft-and-deliver.json) |
+| Craft Away! - Idle Mining Game | 99337 | [99337-craft-away-idle-mining-game.json](./99337-craft-away-idle-mining-game.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
 | Craft Connections | 393777 | [393777-craft-connections.json](./393777-craft-connections.json) |
@@ -18097,6 +18101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cute Cuties | 368065 | [368065-cute-cute-cuties.json](./368065-cute-cute-cuties.json) |
 | Cute Dark Elves | 150740 | [150740-cute-dark-elves.json](./150740-cute-dark-elves.json) |
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
+| Cute Dentist @ Little Doctor Nose Office | 99340 | [99340-cute-dentist-little-doctor-nose-office.json](./99340-cute-dentist-little-doctor-nose-office.json) |
 | Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
 | Cute Fame Highschool Days | 367992 | [367992-cute-fame-highschool-days.json](./367992-cute-fame-highschool-days.json) |
