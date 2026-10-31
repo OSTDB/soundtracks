@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman: 30th Anniversary Edition | 389429 | [389429-rayman-30th-anniversary-edition.json](./389429-rayman-30th-anniversary-edition.json) |
 | Rayman: Hoodlums' Revenge | 1967 | [1967-rayman-hoodlums-revenge.json](./1967-rayman-hoodlums-revenge.json) |
 | Rayman: The Dreamer's Boundary | 217782 | [217782-rayman-the-dreamers-boundary.json](./217782-rayman-the-dreamers-boundary.json) |
+| Raymond's Obstacle Course | 80976 | [80976-raymonds-obstacle-course.json](./80976-raymonds-obstacle-course.json) |
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
@@ -4932,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue at Rajini Island | 54317 | [54317-rescue-at-rajini-island.json](./54317-rescue-at-rajini-island.json) |
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
 | Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
+| Rescue Copter | 80861 | [80861-rescue-copter.json](./80861-rescue-copter.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
 | Rescue Drone Simulator: Second Chance | 424036 | [424036-rescue-drone-simulator-second-chance.json](./424036-rescue-drone-simulator-second-chance.json) |
 | Rescue Frenzy | 53501 | [53501-rescue-frenzy.json](./53501-rescue-frenzy.json) |
@@ -11414,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneLite | 142955 | [142955-runelite.json](./142955-runelite.json) |
 | Runelords | 208730 | [208730-runelords.json](./208730-runelords.json) |
 | Runelords Arena | 142056 | [142056-runelords-arena.json](./142056-runelords-arena.json) |
+| Runemals | 80775 | [80775-runemals.json](./80775-runemals.json) |
 | Runemancer | 272245 | [272245-runemancer.json](./272245-runemancer.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
