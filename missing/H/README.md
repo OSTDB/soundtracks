@@ -8712,6 +8712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooklings | 122590 | [122590-hooklings.json](./122590-hooklings.json) |
 | Hooks & Shotguns | 125704 | [125704-hooks-and-shotguns.json](./125704-hooks-and-shotguns.json) |
 | Hookscrap | 247357 | [247357-hookscrap.json](./247357-hookscrap.json) |
+| Hookshot | 115261 | [115261-hookshot.json](./115261-hookshot.json) |
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
 | Hooky McPegleg, Pirate Postman | 70813 | [70813-hooky-mcpegleg-pirate-postman.json](./70813-hooky-mcpegleg-pirate-postman.json) |
@@ -10419,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hula Wii: Hula de Hajimeru - Bi to Kenkou! | 141473 | [141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json](./141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
 | Hulabear | 56394 | [56394-hulabear.json](./56394-hulabear.json) |
+| Hulala Baby | 115323 | [115323-hulala-baby.json](./115323-hulala-baby.json) |
 | Hulesverd | 372207 | [372207-hulesverd.json](./372207-hulesverd.json) |
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
