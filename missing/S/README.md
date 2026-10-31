@@ -8455,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Wedding | 182655 | [182655-shotgun-wedding.json](./182655-shotgun-wedding.json) |
 | Shotgun Witch | 140451 | [140451-shotgun-witch.json](./140451-shotgun-witch.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
+| ShotKill | 110618 | [110618-shotkill.json](./110618-shotkill.json) |
 | Shotrun | 414283 | [414283-shotrun.json](./414283-shotrun.json) |
 | Shots | 168595 | [168595-shots.json](./168595-shots.json) |
 | Shots Fired | 55221 | [55221-shots-fired.json](./55221-shots-fired.json) |
@@ -30751,6 +30752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrender | 226689 | [226689-surrender.json](./226689-surrender.json) |
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
+| Surrogate | 110642 | [110642-surrogate.json](./110642-surrogate.json) |
 | Surrogate | 270889 | [270889-surrogate.json](./270889-surrogate.json) |
 | Surround | 18002 | [18002-surround.json](./18002-surround.json) |
 | SurrounDead | 153225 | [153225-surroundead.json](./153225-surroundead.json) |
@@ -32316,6 +32318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
 | Symphonia | 263008 | [263008-symphonia.json](./263008-symphonia.json) |
 | Symphonia: Student Project, 2020 | 135508 | [135508-symphonia-student-project-2020.json](./135508-symphonia-student-project-2020.json) |
+| Symphonic Mayhem | 110631 | [110631-symphonic-mayhem.json](./110631-symphonic-mayhem.json) |
 | Symphonic Rain | 262202 | [262202-symphonic-rain.json](./262202-symphonic-rain.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonica 64 | 110266 | [110266-symphonica-64.json](./110266-symphonica-64.json) |
