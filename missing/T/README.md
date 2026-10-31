@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Style | 85422 | [85422-tangram-style.json](./85422-tangram-style.json) |
 | Tangrams | 234157 | [234157-tangrams.json](./234157-tangrams.json) |
 | Tangrams & Blocks | 103899 | [103899-tangrams-and-blocks.json](./103899-tangrams-and-blocks.json) |
+| Tangrams Deluxe | 91027 | [91027-tangrams-deluxe.json](./91027-tangrams-deluxe.json) |
 | TangramsVR | 55767 | [55767-tangramsvr.json](./55767-tangramsvr.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
@@ -9542,6 +9543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hammer's End: A Fae's Journey | 145954 | [145954-the-hammers-end-a-faes-journey.json](./145954-the-hammers-end-a-faes-journey.json) |
 | The Hamster | 314361 | [314361-the-hamster.json](./314361-the-hamster.json) |
 | The Hamster's Journey | 270494 | [270494-the-hamsters-journey.json](./270494-the-hamsters-journey.json) |
+| The Han Dynasty Imperial Mausoleums | 91072 | [91072-the-han-dynasty-imperial-mausoleums.json](./91072-the-han-dynasty-imperial-mausoleums.json) |
 | The Hand | 40351 | [40351-the-hand.json](./40351-the-hand.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
