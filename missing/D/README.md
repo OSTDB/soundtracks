@@ -7528,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devouring Stars | 35663 | [35663-devouring-stars.json](./35663-devouring-stars.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
+| Devwill | 74133 | [74133-devwill.json](./74133-devwill.json) |
 | Devwill Too MD | 141061 | [141061-devwill-too-md.json](./141061-devwill-too-md.json) |
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
 | Devyat' princev Ambera | 305174 | [305174-devyat-princev-ambera.json](./305174-devyat-princev-ambera.json) |
@@ -7691,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Detective | 307847 | [307847-diamond-detective.json](./307847-diamond-detective.json) |
 | Diamond Diaries Saga | 105511 | [105511-diamond-diaries-saga.json](./105511-diamond-diaries-saga.json) |
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
+| Diamond Digger | 73982 | [73982-diamond-digger.json](./73982-diamond-digger.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
 | Diamond Dino | 100908 | [100908-diamond-dino.json](./100908-diamond-dino.json) |
 | Diamond Drone | 295209 | [295209-diamond-drone.json](./295209-diamond-drone.json) |
@@ -9672,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Magical Mirror Starring Mickey Mouse | 3773 | [3773-disneys-magical-mirror-starring-mickey-mouse.json](./3773-disneys-magical-mirror-starring-mickey-mouse.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
+| Disney's Mickey Saves the Day: 3D Adventure | 74101 | [74101-disneys-mickey-saves-the-day-3d-adventure.json](./74101-disneys-mickey-saves-the-day-3d-adventure.json) |
 | Disney's Mulan | 46673 | [46673-disneys-mulan.json](./46673-disneys-mulan.json) |
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
@@ -17031,6 +17034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Kairn | 229287 | [229287-dungeons-of-kairn.json](./229287-dungeons-of-kairn.json) |
 | Dungeons of Kragmor | 17006 | [17006-dungeons-of-kragmor.json](./17006-dungeons-of-kragmor.json) |
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
+| Dungeons of Kroz | 74092 | [74092-dungeons-of-kroz.json](./74092-dungeons-of-kroz.json) |
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
 | Dungeons of Loot | 133989 | [133989-dungeons-of-loot.json](./133989-dungeons-of-loot.json) |
 | Dungeons of Mysteria | 184857 | [184857-dungeons-of-mysteria.json](./184857-dungeons-of-mysteria.json) |
