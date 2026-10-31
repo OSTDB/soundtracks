@@ -2941,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Collector | 333773 | [333773-void-collector.json](./333773-void-collector.json) |
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
 | Void Crew | 243017 | [243017-void-crew.json](./243017-void-crew.json) |
+| Void Cube Runner | 97091 | [97091-void-cube-runner.json](./97091-void-cube-runner.json) |
 | Void Dash | 314003 | [314003-void-dash.json](./314003-void-dash.json) |
 | Void Dementia | 182492 | [182492-void-dementia.json](./182492-void-dementia.json) |
 | Void Destroyer 2 | 35267 | [35267-void-destroyer-2.json](./35267-void-destroyer-2.json) |
