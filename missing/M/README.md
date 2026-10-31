@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjongg | 328908 | [328908-mahjongg.json](./328908-mahjongg.json) |
 | Mahjongg 4 Deluxe | 24757 | [24757-mahjongg-4-deluxe.json](./24757-mahjongg-4-deluxe.json) |
+| Mahjongg Artifacts | 120513 | [120513-mahjongg-artifacts.json](./120513-mahjongg-artifacts.json) |
 | Mahjongg Artifacts: Chapter 2 | 66978 | [66978-mahjongg-artifacts-chapter-2.json](./66978-mahjongg-artifacts-chapter-2.json) |
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
@@ -6214,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Airborne Elite | 341117 | [341117-medal-of-honor-airborne-elite.json](./341117-medal-of-honor-airborne-elite.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
 | Medal of Honor: Allied Assault - War Chest | 51836 | [51836-medal-of-honor-allied-assault-war-chest.json](./51836-medal-of-honor-allied-assault-war-chest.json) |
+| Medal of Honor: Complete Collection | 120544 | [120544-medal-of-honor-complete-collection.json](./120544-medal-of-honor-complete-collection.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Pacific Assault - Director's Edition | 131852 | [131852-medal-of-honor-pacific-assault-directors-edition.json](./131852-medal-of-honor-pacific-assault-directors-edition.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
@@ -15158,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooshie's Kitchen: Reheated | 379852 | [379852-mooshies-kitchen-reheated.json](./379852-mooshies-kitchen-reheated.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
 | Mootation | 412016 | [412016-mootation.json](./412016-mootation.json) |
+| Mop Boy | 120570 | [120570-mop-boy.json](./120570-mop-boy.json) |
 | Mop of the Dead | 249876 | [249876-mop-of-the-dead.json](./249876-mop-of-the-dead.json) |
 | MOP Operation Cleanup | 32961 | [32961-mop-operation-cleanup.json](./32961-mop-operation-cleanup.json) |
 | Mop Skater | 330640 | [330640-mop-skater.json](./330640-mop-skater.json) |
