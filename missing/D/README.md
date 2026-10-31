@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
 | Danger Quest! Puzzle Adventure | 96591 | [96591-danger-quest-puzzle-adventure.json](./96591-danger-quest-puzzle-adventure.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
+| Danger Ranger | 114679 | [114679-danger-ranger.json](./114679-danger-ranger.json) |
 | Danger Room | 30616 | [30616-danger-room.json](./30616-danger-room.json) |
 | Danger Room VR | 108399 | [108399-danger-room-vr.json](./108399-danger-room-vr.json) |
 | Danger Scavenger | 133673 | [133673-danger-scavenger.json](./133673-danger-scavenger.json) |
@@ -13533,6 +13534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Providence | 98520 | [98520-dragon-providence.json](./98520-dragon-providence.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
+| Dragon Queens | 114648 | [114648-dragon-queens.json](./114648-dragon-queens.json) |
 | Dragon Quest | 1812 | [1812-dragon-quest.json](./1812-dragon-quest.json) |
 | Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
 | Dragon Quest & Final Fantasy in Itadaki Street Portable | 69176 | [69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json](./69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json) |
@@ -13690,6 +13692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Spot | 345046 | [345046-dragon-spot.json](./345046-dragon-spot.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Star Varnir: DLC Bundle | 227383 | [227383-dragon-star-varnir-dlc-bundle.json](./227383-dragon-star-varnir-dlc-bundle.json) |
+| Dragon Steve: Treasure Hunt | 114655 | [114655-dragon-steve-treasure-hunt.json](./114655-dragon-steve-treasure-hunt.json) |
 | Dragon Stone: Legendary Archer | 126991 | [126991-dragon-stone-legendary-archer.json](./126991-dragon-stone-legendary-archer.json) |
 | Dragon Storm | 156848 | [156848-dragon-storm.json](./156848-dragon-storm.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
@@ -14202,6 +14205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | Dreadmiles | 425500 | [425500-dreadmiles.json](./425500-dreadmiles.json) |
+| Dreadmire | 114675 | [114675-dreadmire.json](./114675-dreadmire.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadmoor | 340334 | [340334-dreadmoor.json](./340334-dreadmoor.json) |
 | Dreadmyst | 381656 | [381656-dreadmyst.json](./381656-dreadmyst.json) |
@@ -17326,6 +17330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyna Bomb | 32732 | [32732-dyna-bomb.json](./32732-dyna-bomb.json) |
 | Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
 | Dyna Brothers 2 | 4547 | [4547-dyna-brothers-2.json](./4547-dyna-brothers-2.json) |
+| Dyna Knight | 114682 | [114682-dyna-knight.json](./114682-dyna-knight.json) |
 | Dyna Marisa 3D | 206571 | [206571-dyna-marisa-3d.json](./206571-dyna-marisa-3d.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynabusters | 92413 | [92413-dynabusters.json](./92413-dynabusters.json) |
