@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Valyria | 356036 | [356036-legacy-of-valyria.json](./356036-legacy-of-valyria.json) |
 | Legacy of YanHuang | 28755 | [28755-legacy-of-yanhuang.json](./28755-legacy-of-yanhuang.json) |
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
+| Legacy Quest | 109289 | [109289-legacy-quest.json](./109289-legacy-quest.json) |
 | Legacy Quest | 58659 | [58659-legacy-quest.json](./58659-legacy-quest.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legacy: Reawakening | 343222 | [343222-legacy-reawakening.json](./343222-legacy-reawakening.json) |
@@ -6954,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Mall (Lord of Them All!) | 184253 | [184253-lord-of-the-mall-lord-of-them-all.json](./184253-lord-of-the-mall-lord-of-them-all.json) |
 | Lord of the Other World | 174815 | [174815-lord-of-the-other-world.json](./174815-lord-of-the-other-world.json) |
 | Lord of the Race | 260656 | [260656-lord-of-the-race.json](./260656-lord-of-the-race.json) |
+| Lord of the Rings | 109268 | [109268-lord-of-the-rings.json](./109268-lord-of-the-rings.json) |
 | Lord of the Rings: Warrior of Middle Earth | 190102 | [190102-lord-of-the-rings-warrior-of-middle-earth.json](./190102-lord-of-the-rings-warrior-of-middle-earth.json) |
 | Lord of the Sea | 150253 | [150253-lord-of-the-sea.json](./150253-lord-of-the-sea.json) |
 | Lord of the Seal | 31474 | [31474-lord-of-the-seal.json](./31474-lord-of-the-seal.json) |
@@ -8182,6 +8184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
 | LovePlus+ | 124475 | [124475-loveplus.json](./124475-loveplus.json) |
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
+| LoveR | 109278 | [109278-lover.json](./109278-lover.json) |
 | Lover Bands | 117280 | [117280-lover-bands.json](./117280-lover-bands.json) |
 | Lover Boy | 40367 | [40367-lover-boy.json](./40367-lover-boy.json) |
 | Lover Interface | 341104 | [341104-lover-interface.json](./341104-lover-interface.json) |
@@ -8440,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke | 200334 | [200334-lucky-luke.json](./200334-lucky-luke.json) |
 | Lucky Luke | 265060 | [265060-lucky-luke.json](./265060-lucky-luke.json) |
 | Lucky Luke | 46664 | [46664-lucky-luke.json](./46664-lucky-luke.json) |
+| Lucky Luke - Der singende Draht | 109247 | [109247-lucky-luke-der-singende-draht.json](./109247-lucky-luke-der-singende-draht.json) |
 | Lucky Luke & the Daltons | 56991 | [56991-lucky-luke-and-the-daltons.json](./56991-lucky-luke-and-the-daltons.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
 | Lucky Luke: Desperado Train | 50027 | [50027-lucky-luke-desperado-train.json](./50027-lucky-luke-desperado-train.json) |
@@ -8543,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo XXL 2 | 362369 | [362369-ludo-xxl-2.json](./362369-ludo-xxl-2.json) |
 | Ludoku | 35332 | [35332-ludoku.json](./35332-ludoku.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
+| Ludomania | 109256 | [109256-ludomania.json](./109256-ludomania.json) |
 | LudoNarraCon Supporter Pack featuring Cyrano | 146052 | [146052-ludonarracon-supporter-pack-featuring-cyrano.json](./146052-ludonarracon-supporter-pack-featuring-cyrano.json) |
 | Ludopolis | 119984 | [119984-ludopolis.json](./119984-ludopolis.json) |
 | LudoRace | 311016 | [311016-ludorace.json](./311016-ludorace.json) |
