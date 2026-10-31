@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazerType VR | 57440 | [57440-lazertype-vr.json](./57440-lazertype-vr.json) |
 | Lazerz | 294282 | [294282-lazerz.json](./294282-lazerz.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
+| Lazlet | 82550 | [82550-lazlet.json](./82550-lazlet.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazriel the Demon's Fall | 195968 | [195968-lazriel-the-demons-fall.json](./195968-lazriel-the-demons-fall.json) |
 | LazuNight Funkin' | 205659 | [205659-lazunight-funkin.json](./205659-lazunight-funkin.json) |
@@ -6855,6 +6856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Achievement Simulator | 103790 | [103790-loot-box-achievement-simulator.json](./103790-loot-box-achievement-simulator.json) |
 | Loot Box Quest: Mystic Maidens | 271273 | [271273-loot-box-quest-mystic-maidens.json](./271273-loot-box-quest-mystic-maidens.json) |
 | Loot Box Simulator | 137038 | [137038-loot-box-simulator.json](./137038-loot-box-simulator.json) |
+| Loot Box Simulator 20!8 | 82362 | [82362-loot-box-simulator-20-8.json](./82362-loot-box-simulator-20-8.json) |
 | Loot Box Simulator: Crimson Fire | 232983 | [232983-loot-box-simulator-crimson-fire.json](./232983-loot-box-simulator-crimson-fire.json) |
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
