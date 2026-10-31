@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
 | E.T. the Extra-Terrestrial: Return to the Green Planet | 201276 | [201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json](./201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json) |
 | E.T. the Extra-Terrestrial: Venrom's Assault | 238198 | [238198-e-t-the-extra-terrestrial-venroms-assault.json](./238198-e-t-the-extra-terrestrial-venroms-assault.json) |
+| E.T.: No More Mr. Nice Alien | 78414 | [78414-e-t-no-more-mr-nice-alien.json](./78414-e-t-no-more-mr-nice-alien.json) |
 | E.T.: The Extra Terrestrial | 243040 | [243040-e-t-the-extra-terrestrial.json](./243040-e-t-the-extra-terrestrial.json) |
 | E.T.: The Extra-Terrestrial - Away from Home | 201274 | [201274-e-t-the-extra-terrestrial-away-from-home.json](./201274-e-t-the-extra-terrestrial-away-from-home.json) |
 | E.T.: The Extra-Terrestrial - Escape from Planet Earth | 49937 | [49937-e-t-the-extra-terrestrial-escape-from-planet-earth.json](./49937-e-t-the-extra-terrestrial-escape-from-planet-earth.json) |
