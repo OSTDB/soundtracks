@@ -15492,6 +15492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morlush | 203563 | [203563-morlush.json](./203563-morlush.json) |
 | Mormonoids From The Deep | 246414 | [246414-mormonoids-from-the-deep.json](./246414-mormonoids-from-the-deep.json) |
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
+| Morna Tales | 74804 | [74804-morna-tales.json](./74804-morna-tales.json) |
 | Mornin' Joe! | 249792 | [249792-mornin-joe.json](./249792-mornin-joe.json) |
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
 | Morning Coffee | 128615 | [128615-morning-coffee.json](./128615-morning-coffee.json) |
@@ -18938,6 +18939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Love for You is Evermore: Manager's Route | 281582 | [281582-my-love-for-you-is-evermore-managers-route.json](./281582-my-love-for-you-is-evermore-managers-route.json) |
 | My Love Match | 240855 | [240855-my-love-match.json](./240855-my-love-match.json) |
 | My Love With The GirlsGroup | 292418 | [292418-my-love-with-the-girlsgroup.json](./292418-my-love-with-the-girlsgroup.json) |
+| My Loved Heart | 74667 | [74667-my-loved-heart.json](./74667-my-loved-heart.json) |
 | My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
 | My Lovely Daughter | 74250 | [74250-my-lovely-daughter.json](./74250-my-lovely-daughter.json) |
 | My Lovely Daughter: The Inquisitor | 170233 | [170233-my-lovely-daughter-the-inquisitor.json](./170233-my-lovely-daughter-the-inquisitor.json) |
