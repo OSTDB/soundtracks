@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Party | 350294 | [350294-balloon-party.json](./350294-balloon-party.json) |
 | Balloon Pop | 187361 | [187361-balloon-pop.json](./187361-balloon-pop.json) |
 | Balloon Pop | 4704 | [4704-balloon-pop.json](./4704-balloon-pop.json) |
+| Balloon Pop 2 | 92321 | [92321-balloon-pop-2.json](./92321-balloon-pop-2.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon Pop Plus | 64305 | [64305-balloon-pop-plus.json](./64305-balloon-pop-plus.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
@@ -11528,6 +11529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Tournament | 6334 | [6334-bomberman-tournament.json](./6334-bomberman-tournament.json) |
 | Bomberman Tower | 260870 | [260870-bomberman-tower.json](./260870-bomberman-tower.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
+| Bomberman v1.8 | 92253 | [92253-bomberman-v1-8.json](./92253-bomberman-v1-8.json) |
 | Bomberman: Act Zero | 6925 | [6925-bomberman-act-zero.json](./6925-bomberman-act-zero.json) |
 | Bomberman: Bakufuu Sentai Bomberman | 59395 | [59395-bomberman-bakufuu-sentai-bomberman.json](./59395-bomberman-bakufuu-sentai-bomberman.json) |
 | Bomberman: Disney Stitch Edition | 198061 | [198061-bomberman-disney-stitch-edition.json](./198061-bomberman-disney-stitch-edition.json) |
@@ -15544,6 +15546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buki Buki! | 184837 | [184837-buki-buki.json](./184837-buki-buki.json) |
 | Bukkaku | 159186 | [159186-bukkaku.json](./159186-bukkaku.json) |
 | BuKnight: The Order of the Golden Crest | 316103 | [316103-buknight-the-order-of-the-golden-crest.json](./316103-buknight-the-order-of-the-golden-crest.json) |
+| Buku Dominoes | 92230 | [92230-buku-dominoes.json](./92230-buku-dominoes.json) |
 | Buku Sudoku | 74407 | [74407-buku-sudoku.json](./74407-buku-sudoku.json) |
 | Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
 | Bul Bakalım | 241468 | [241468-bul-bakal-m.json](./241468-bul-bakal-m.json) |
@@ -16159,6 +16162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn | 94391 | [94391-burn.json](./94391-burn.json) |
 | Burn Ban | 104776 | [104776-burn-ban.json](./104776-burn-ban.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
+| Burn It All! | 92262 | [92262-burn-it-all.json](./92262-burn-it-all.json) |
 | Burn It Down | 47991 | [47991-burn-it-down.json](./47991-burn-it-down.json) |
 | Burn Me Alive | 165929 | [165929-burn-me-alive.json](./165929-burn-me-alive.json) |
 | Burn Me Twice | 132057 | [132057-burn-me-twice.json](./132057-burn-me-twice.json) |
@@ -16691,6 +16695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzzed! Trivia | 133700 | [133700-buzzed-trivia.json](./133700-buzzed-trivia.json) |
 | Buzzin | 415054 | [415054-buzzin.json](./415054-buzzin.json) |
 | Buzzing Cars | 221925 | [221925-buzzing-cars.json](./221925-buzzing-cars.json) |
+| BuzzingCars | 92234 | [92234-buzzingcars.json](./92234-buzzingcars.json) |
 | Buzzle | 148866 | [148866-buzzle.json](./148866-buzzle.json) |
 | Buzzopolis: Hive Incremental | 373814 | [373814-buzzopolis-hive-incremental.json](./373814-buzzopolis-hive-incremental.json) |
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
