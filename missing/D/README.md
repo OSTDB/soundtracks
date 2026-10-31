@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy's gone a-hunting | 76517 | [76517-daddys-gone-a-hunting.json](./76517-daddys-gone-a-hunting.json) |
 | Daddy's Little Helper | 91084 | [91084-daddys-little-helper.json](./91084-daddys-little-helper.json) |
 | Daddy's Long Milk Run | 340719 | [340719-daddys-long-milk-run.json](./340719-daddys-long-milk-run.json) |
+| Daddy's Messy Day - Help Daddy While Mommy's away | 97052 | [97052-daddys-messy-day-help-daddy-while-mommys-away.json](./97052-daddys-messy-day-help-daddy-while-mommys-away.json) |
 | Dadi | 200534 | [200534-dadi.json](./200534-dadi.json) |
 | Dadi Kingdom | 416622 | [416622-dadi-kingdom.json](./416622-dadi-kingdom.json) |
 | Dadish | 134427 | [134427-dadish.json](./134427-dadish.json) |
@@ -5195,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
 | Defending Lydia Collier | 224826 | [224826-defending-lydia-collier.json](./224826-defending-lydia-collier.json) |
 | Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
+| Defendion | 97032 | [97032-defendion.json](./97032-defendion.json) |
 | Defendo | 305437 | [305437-defendo.json](./305437-defendo.json) |
 | Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
 | Defendoooooor!! | 55229 | [55229-defendoooooor.json](./55229-defendoooooor.json) |
@@ -15408,6 +15410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
 | Drop! | 131340 | [131340-drop.json](./131340-drop.json) |
+| Drop'd | 97060 | [97060-dropd.json](./97060-dropd.json) |
 | Drop7 | 29044 | [29044-drop7.json](./29044-drop7.json) |
 | Dropboy | 178492 | [178492-dropboy.json](./178492-dropboy.json) |
 | DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
