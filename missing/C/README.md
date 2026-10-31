@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabin Corpse | 303718 | [303718-cabin-corpse.json](./303718-cabin-corpse.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
 | Cabin Escape | 362984 | [362984-cabin-escape.json](./362984-cabin-escape.json) |
+| Cabin Escape: Alice's Story | 90326 | [90326-cabin-escape-alices-story.json](./90326-cabin-escape-alices-story.json) |
 | Cabin Fever | 154797 | [154797-cabin-fever.json](./154797-cabin-fever.json) |
 | Cabin of Shadows: Dueling Impostors | 258391 | [258391-cabin-of-shadows-dueling-impostors.json](./258391-cabin-of-shadows-dueling-impostors.json) |
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
@@ -3707,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Rescue Story | 300751 | [300751-cat-rescue-story.json](./300751-cat-rescue-story.json) |
 | Cat Rooms: Sticker Decor! | 423864 | [423864-cat-rooms-sticker-decor.json](./423864-cat-rooms-sticker-decor.json) |
+| Cat Runner - Online Rush | 90321 | [90321-cat-runner-online-rush.json](./90321-cat-runner-online-rush.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Sandbox | 277738 | [277738-cat-sandbox.json](./277738-cat-sandbox.json) |
 | Cat Saves Halloween | 145233 | [145233-cat-saves-halloween.json](./145233-cat-saves-halloween.json) |
@@ -6160,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess With Idiots | 371978 | [371978-chess-with-idiots.json](./371978-chess-with-idiots.json) |
 | Chess with Lasers | 159223 | [159223-chess-with-lasers.json](./159223-chess-with-lasers.json) |
 | Chess-ban de maigo | 387760 | [387760-chess-ban-de-maigo.json](./387760-chess-ban-de-maigo.json) |
+| Chess-Studio | 90337 | [90337-chess-studio.json](./90337-chess-studio.json) |
 | Chess, but... | 211265 | [211265-chess-but.json](./211265-chess-but.json) |
 | Chess, Texas | 358999 | [358999-chess-texas.json](./358999-chess-texas.json) |
 | Chess: Clash of Kings | 187475 | [187475-chess-clash-of-kings.json](./187475-chess-clash-of-kings.json) |
@@ -6326,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago 1930 | 18873 | [18873-chicago-1930.json](./18873-chicago-1930.json) |
 | Chicago 2020 | 235999 | [235999-chicago-2020.json](./235999-chicago-2020.json) |
 | Chicago 90 | 12000 | [12000-chicago-90.json](./12000-chicago-90.json) |
+| Chicago Bridge | 90290 | [90290-chicago-bridge.json](./90290-chicago-bridge.json) |
 | Chicago Cubs Triple Play | 81360 | [81360-chicago-cubs-triple-play.json](./81360-chicago-cubs-triple-play.json) |
 | Chicago Enforcer | 5775 | [5775-chicago-enforcer.json](./5775-chicago-enforcer.json) |
 | Chicago Project | 291330 | [291330-chicago-project.json](./291330-chicago-project.json) |
@@ -9124,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Vision 3 | 343968 | [343968-clear-vision-3.json](./343968-clear-vision-3.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
+| Clear Vision Online | 90297 | [90297-clear-vision-online.json](./90297-clear-vision-online.json) |
 | Clear: Atarashii Kaze no Fuku Oka de | 133909 | [133909-clear-atarashii-kaze-no-fuku-oka-de.json](./133909-clear-atarashii-kaze-no-fuku-oka-de.json) |
 | Clearance Sale | 248794 | [248794-clearance-sale.json](./248794-clearance-sale.json) |
 | Clearcutting | 195361 | [195361-clearcutting.json](./195361-clearcutting.json) |
@@ -10264,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Break: A Sip Away from Doom | 213577 | [213577-coffee-break-a-sip-away-from-doom.json](./213577-coffee-break-a-sip-away-from-doom.json) |
 | Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
+| Coffee Crawl | 90311 | [90311-coffee-crawl.json](./90311-coffee-crawl.json) |
 | Coffee Crisis | 56697 | [56697-coffee-crisis.json](./56697-coffee-crisis.json) |
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
@@ -10841,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Lines | 50119 | [50119-color-lines.json](./50119-color-lines.json) |
 | Color Lines - Classic Puzzle | 103142 | [103142-color-lines-classic-puzzle.json](./103142-color-lines-classic-puzzle.json) |
 | Color Madness | 367049 | [367049-color-madness.json](./367049-color-madness.json) |
+| Color Match - Balance Ball | 90327 | [90327-color-match-balance-ball.json](./90327-color-match-balance-ball.json) |
 | Color Matching | 234168 | [234168-color-matching.json](./234168-color-matching.json) |
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
@@ -16408,6 +16415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRT7 | 210849 | [210849-crt7.json](./210849-crt7.json) |
 | CRTX: A Psychological Horror Puzzle | 358050 | [358050-crtx-a-psychological-horror-puzzle.json](./358050-crtx-a-psychological-horror-puzzle.json) |
 | Crucial 2: The Refresh Update | 290398 | [290398-crucial-2-the-refresh-update.json](./290398-crucial-2-the-refresh-update.json) |
+| Crucial Throw | 90302 | [90302-crucial-throw.json](./90302-crucial-throw.json) |
 | Crucible | 238683 | [238683-crucible.json](./238683-crucible.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
 | Crucible Falls: Together Forever | 96959 | [96959-crucible-falls-together-forever.json](./96959-crucible-falls-together-forever.json) |
@@ -17483,6 +17491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuddly Cuburt | 367195 | [367195-cuddly-cuburt.json](./367195-cuddly-cuburt.json) |
 | Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
 | Cue Academy | 61545 | [61545-cue-academy.json](./61545-cue-academy.json) |
+| Cue Breakers | 90342 | [90342-cue-breakers.json](./90342-cue-breakers.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
 | Cue Club | 50317 | [50317-cue-club.json](./50317-cue-club.json) |
 | Cue Club 2 | 35340 | [35340-cue-club-2.json](./35340-cue-club-2.json) |
@@ -18145,6 +18154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
 | Cute Dentist @ Little Doctor Nose Office | 99340 | [99340-cute-dentist-little-doctor-nose-office.json](./99340-cute-dentist-little-doctor-nose-office.json) |
 | Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
+| Cute Dog Caring | 90339 | [90339-cute-dog-caring.json](./90339-cute-dog-caring.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
 | Cute Fame Highschool Days | 367992 | [367992-cute-fame-highschool-days.json](./367992-cute-fame-highschool-days.json) |
 | Cute Fame: Halloween Bash | 270610 | [270610-cute-fame-halloween-bash.json](./270610-cute-fame-halloween-bash.json) |
