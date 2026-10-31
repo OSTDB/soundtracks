@@ -8624,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
 | Forbidden Fantasy | 322641 | [322641-forbidden-fantasy.json](./322641-forbidden-fantasy.json) |
 | Forbidden Forest | 13848 | [13848-forbidden-forest.json](./13848-forbidden-forest.json) |
+| Forbidden Forest 3 | 98206 | [98206-forbidden-forest-3.json](./98206-forbidden-forest-3.json) |
 | Forbidden Forgiveness | 85836 | [85836-forbidden-forgiveness.json](./85836-forbidden-forgiveness.json) |
 | Forbidden Fruit | 191082 | [191082-forbidden-fruit.json](./191082-forbidden-fruit.json) |
 | Forbidden Fruit | 47527 | [47527-forbidden-fruit.json](./47527-forbidden-fruit.json) |
@@ -11069,6 +11070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Pond Simulator | 394780 | [394780-frog-pond-simulator.json](./394780-frog-pond-simulator.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
 | Frog Race | 420171 | [420171-frog-race.json](./420171-frog-race.json) |
+| Frog Smashers | 98186 | [98186-frog-smashers.json](./98186-frog-smashers.json) |
 | Frog Smith | 182717 | [182717-frog-smith.json](./182717-frog-smith.json) |
 | Frog Soup | 315773 | [315773-frog-soup.json](./315773-frog-soup.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
