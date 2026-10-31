@@ -16093,6 +16093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
 | Dummy Pirates | 235171 | [235171-dummy-pirates.json](./235171-dummy-pirates.json) |
 | Dummy Test | 100911 | [100911-dummy-test.json](./100911-dummy-test.json) |
+| Dummy! | 113339 | [113339-dummy.json](./113339-dummy.json) |
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
 | Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
 | Dump of the Dead X | 368232 | [368232-dump-of-the-dead-x.json](./368232-dump-of-the-dead-x.json) |
