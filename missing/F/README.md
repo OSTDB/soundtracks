@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
 | Farm Fun | 359281 | [359281-farm-fun.json](./359281-farm-fun.json) |
 | Farm Garden Simulator | 263963 | [263963-farm-garden-simulator.json](./263963-farm-garden-simulator.json) |
+| Farm Girl | 93946 | [93946-farm-girl.json](./93946-farm-girl.json) |
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
 | Farm Harbeest | 419609 | [419609-farm-harbeest.json](./419609-farm-harbeest.json) |
 | Farm Harvest | 233380 | [233380-farm-harvest.json](./233380-farm-harvest.json) |
@@ -3358,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me Billy | 320267 | [320267-feed-me-billy.json](./320267-feed-me-billy.json) |
 | Feed Me More Brains | 410907 | [410907-feed-me-more-brains.json](./410907-feed-me-more-brains.json) |
 | Feed Me Now! | 387409 | [387409-feed-me-now.json](./387409-feed-me-now.json) |
+| Feed Me Oil | 93944 | [93944-feed-me-oil.json](./93944-feed-me-oil.json) |
 | Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
@@ -4090,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight | 187754 | [187754-fight.json](./187754-fight.json) |
 | Fight | 330366 | [330366-fight.json](./330366-fight.json) |
+| Fight 'N' Jokes | 93962 | [93962-fight-n-jokes.json](./93962-fight-n-jokes.json) |
 | Fight 'N' Jokes: Storylines | 291832 | [291832-fight-n-jokes-storylines.json](./291832-fight-n-jokes-storylines.json) |
 | Fight // Flight | 176857 | [176857-fight-flight.json](./176857-fight-flight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
@@ -5842,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Master | 104359 | [104359-fish-master.json](./104359-fish-master.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
 | Fish N Chat | 293993 | [293993-fish-n-chat.json](./293993-fish-n-chat.json) |
+| Fish On | 93930 | [93930-fish-on.json](./93930-fish-on.json) |
 | Fish On! Bass | 313045 | [313045-fish-on-bass.json](./313045-fish-on-bass.json) |
 | Fish or Chicken | 250254 | [250254-fish-or-chicken.json](./250254-fish-or-chicken.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
