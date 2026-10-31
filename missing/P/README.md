@@ -9740,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Blank | 13899 | [13899-point-blank.json](./13899-point-blank.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
 | Point Blank X | 243045 | [243045-point-blank-x.json](./243045-point-blank-x.json) |
+| Point Blank: Strike | 70823 | [70823-point-blank-strike.json](./70823-point-blank-strike.json) |
 | Point Click Killer | 276092 | [276092-point-click-killer.json](./276092-point-click-killer.json) |
 | Point Click Killer: Act Two | 281333 | [281333-point-click-killer-act-two.json](./281333-point-click-killer-act-two.json) |
 | Point Connect | 54851 | [54851-point-connect.json](./54851-point-connect.json) |
