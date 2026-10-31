@@ -2784,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Evolution: E-flite Turbo Timber SWS 2.0m | 311083 | [311083-realflight-evolution-e-flite-turbo-timber-sws-2-0m.json](./311083-realflight-evolution-e-flite-turbo-timber-sws-2-0m.json) |
 | RealFlight Evolution: E-flite UMX Conscendo | 311084 | [311084-realflight-evolution-e-flite-umx-conscendo.json](./311084-realflight-evolution-e-flite-umx-conscendo.json) |
 | RealFlight Evolution: Triple Tree Float Flight Line | 311082 | [311082-realflight-evolution-triple-tree-float-flight-line.json](./311082-realflight-evolution-triple-tree-float-flight-line.json) |
+| RealFlight RF8 | 112570 | [112570-realflight-rf8.json](./112570-realflight-rf8.json) |
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
 | Realistic Illusion | 97193 | [97193-realistic-illusion.json](./97193-realistic-illusion.json) |
@@ -6903,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
 | Ring of Power | 296147 | [296147-ring-of-power.json](./296147-ring-of-power.json) |
 | Ring of Red | 22010 | [22010-ring-of-red.json](./22010-ring-of-red.json) |
+| Ring of Sias | 112568 | [112568-ring-of-sias.json](./112568-ring-of-sias.json) |
 | Ring of The Devil | 285935 | [285935-ring-of-the-devil.json](./285935-ring-of-the-devil.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
 | Ring Out 4x4 | 131317 | [131317-ring-out-4x4.json](./131317-ring-out-4x4.json) |
@@ -8670,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketeer | 318154 | [318154-rocketeer.json](./318154-rocketeer.json) |
 | Rocketfella | 58660 | [58660-rocketfella.json](./58660-rocketfella.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
+| RocketGO | 112580 | [112580-rocketgo.json](./112580-rocketgo.json) |
 | Rocketing | 142223 | [142223-rocketing.json](./142223-rocketing.json) |
 | Rocketio 2 | 225962 | [225962-rocketio-2.json](./225962-rocketio-2.json) |
 | Rocketio 3 | 228925 | [228925-rocketio-3.json](./228925-rocketio-3.json) |
