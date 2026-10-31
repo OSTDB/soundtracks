@@ -3985,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Stars | 155926 | [155926-catch-the-stars.json](./155926-catch-the-stars.json) |
 | Catch the Stars: Jigsaw Puzzle | 153152 | [153152-catch-the-stars-jigsaw-puzzle.json](./153152-catch-the-stars-jigsaw-puzzle.json) |
 | Catch the thief | 202011 | [202011-catch-the-thief.json](./202011-catch-the-thief.json) |
+| Catch the Thief, if You Can! | 72456 | [72456-catch-the-thief-if-you-can.json](./72456-catch-the-thief-if-you-can.json) |
 | Catch the Turtle | 410230 | [410230-catch-the-turtle.json](./410230-catch-the-turtle.json) |
 | Catch the Vandal | 298278 | [298278-catch-the-vandal.json](./298278-catch-the-vandal.json) |
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
@@ -13666,6 +13667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Horizon - World First 3D Game Puzzle Ever | 76717 | [76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json](./76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json) |
 | Cosmic Horizons: Path of the Wanderer | 278552 | [278552-cosmic-horizons-path-of-the-wanderer.json](./278552-cosmic-horizons-path-of-the-wanderer.json) |
 | Cosmic Horror Tales: Roots Below | 292491 | [292491-cosmic-horror-tales-roots-below.json](./292491-cosmic-horror-tales-roots-below.json) |
+| Cosmic Hunter | 72437 | [72437-cosmic-hunter.json](./72437-cosmic-hunter.json) |
 | Cosmic Husbandry | 354917 | [354917-cosmic-husbandry.json](./354917-cosmic-husbandry.json) |
 | Cosmic Invasion | 187694 | [187694-cosmic-invasion.json](./187694-cosmic-invasion.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
@@ -14234,6 +14236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Milking Simulator | 74988 | [74988-cow-milking-simulator.json](./74988-cow-milking-simulator.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
+| Cowabunga | 72436 | [72436-cowabunga.json](./72436-cowabunga.json) |
 | CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
 | Coward | 132664 | [132664-coward.json](./132664-coward.json) |
 | Coward Town | 141619 | [141619-coward-town.json](./141619-coward-town.json) |
