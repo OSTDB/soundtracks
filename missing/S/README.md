@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Eyes | 241235 | [241235-saint-eyes.json](./241235-saint-eyes.json) |
 | Saint George's Tavern | 388731 | [388731-saint-georges-tavern.json](./388731-saint-georges-tavern.json) |
 | Saint Goddess | 368660 | [368660-saint-goddess.json](./368660-saint-goddess.json) |
+| Saint Hazel's Horsepital | 116709 | [116709-saint-hazels-horsepital.json](./116709-saint-hazels-horsepital.json) |
 | Saint Hell | 249329 | [249329-saint-hell.json](./249329-saint-hell.json) |
 | Saint Kotar | 169552 | [169552-saint-kotar.json](./169552-saint-kotar.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
@@ -4997,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentama | 223966 | [223966-sentama.json](./223966-sentama.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentence | 138130 | [138130-sentence.json](./138130-sentence.json) |
+| Sentenced | 116710 | [116710-sentenced.json](./116710-sentenced.json) |
 | Sentenced VR | 152221 | [152221-sentenced-vr.json](./152221-sentenced-vr.json) |
 | Senti Metrica | 423893 | [423893-senti-metrica.json](./423893-senti-metrica.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
@@ -8361,6 +8363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shore of Jord | 326861 | [326861-shore-of-jord.json](./326861-shore-of-jord.json) |
 | Shorekeeper | 385694 | [385694-shorekeeper.json](./385694-shorekeeper.json) |
 | Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
+| Shores Unknown | 116689 | [116689-shores-unknown.json](./116689-shores-unknown.json) |
 | Shoresy: Legends of the North | 156832 | [156832-shoresy-legends-of-the-north.json](./156832-shoresy-legends-of-the-north.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
@@ -17618,7 +17621,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24655,6 +24657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Sealed Steel | 384291 | [384291-story-of-sealed-steel.json](./384291-story-of-sealed-steel.json) |
 | Story of Seasons | 8608 | [8608-story-of-seasons.json](./8608-story-of-seasons.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
+| Story of Seasons Mobile | 116666 | [116666-story-of-seasons-mobile.json](./116666-story-of-seasons-mobile.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
 | Story of Seasons: A Wonderful Life - Mukumuku Outfit | 275526 | [275526-story-of-seasons-a-wonderful-life-mukumuku-outfit.json](./275526-story-of-seasons-a-wonderful-life-mukumuku-outfit.json) |
 | Story of Seasons: A Wonderful Life - Premium Edition | 270588 | [270588-story-of-seasons-a-wonderful-life-premium-edition.json](./270588-story-of-seasons-a-wonderful-life-premium-edition.json) |
