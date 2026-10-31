@@ -6068,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Sentinel Island | 382821 | [382821-north-sentinel-island.json](./382821-north-sentinel-island.json) |
 | North Shore | 176170 | [176170-north-shore.json](./176170-north-shore.json) |
 | North Shore | 349265 | [349265-north-shore.json](./349265-north-shore.json) |
+| North Side | 116651 | [116651-north-side.json](./116651-north-side.json) |
 | North Star | 131109 | [131109-north-star.json](./131109-north-star.json) |
 | North Star Mining Co. | 327163 | [327163-north-star-mining-co.json](./327163-north-star-mining-co.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
