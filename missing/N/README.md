@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
 | NBA In the Zone 2000 | 43718 | [43718-nba-in-the-zone-2000.json](./43718-nba-in-the-zone-2000.json) |
 | NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
+| NBA Inside Drive 2000 | 79656 | [79656-nba-inside-drive-2000.json](./79656-nba-inside-drive-2000.json) |
 | NBA Inside Drive 2002 | 23446 | [23446-nba-inside-drive-2002.json](./23446-nba-inside-drive-2002.json) |
 | NBA Inside Drive 2004 | 24124 | [24124-nba-inside-drive-2004.json](./24124-nba-inside-drive-2004.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
@@ -6733,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nucleuz Underground | 309369 | [309369-nucleuz-underground.json](./309369-nucleuz-underground.json) |
 | Nuclien | 56279 | [56279-nuclien.json](./56279-nuclien.json) |
 | Nucvivor | 113985 | [113985-nucvivor.json](./113985-nucvivor.json) |
+| NUD | 79639 | [79639-nud.json](./79639-nud.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nude Crisis | 211603 | [211603-nude-crisis.json](./211603-nude-crisis.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
