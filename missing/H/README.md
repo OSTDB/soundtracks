@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy New Year, Zeliria! | 148996 | [148996-happy-new-year-zeliria.json](./148996-happy-new-year-zeliria.json) |
 | Happy New Year, Zeliria!: Dragon! | 291055 | [291055-happy-new-year-zeliria-dragon.json](./291055-happy-new-year-zeliria-dragon.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
+| Happy Nonogram | 102510 | [102510-happy-nonogram.json](./102510-happy-nonogram.json) |
 | Happy Nuclear | 369704 | [369704-happy-nuclear.json](./369704-happy-nuclear.json) |
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
 | Happy Orchard | 185530 | [185530-happy-orchard.json](./185530-happy-orchard.json) |
@@ -2227,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatch Dragons | 381848 | [381848-hatch-dragons.json](./381848-hatch-dragons.json) |
 | Hatch Tales: A Heroic Hookshot Adventure | 319936 | [319936-hatch-tales-a-heroic-hookshot-adventure.json](./319936-hatch-tales-a-heroic-hookshot-adventure.json) |
 | Hatchball | 137961 | [137961-hatchball.json](./137961-hatchball.json) |
+| Hatchi: A Retro Virtual Pet | 102517 | [102517-hatchi-a-retro-virtual-pet.json](./102517-hatchi-a-retro-virtual-pet.json) |
 | Hatchick | 96860 | [96860-hatchick.json](./96860-hatchick.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
 | Hatchling's Adventure | 180785 | [180785-hatchlings-adventure.json](./180785-hatchlings-adventure.json) |
