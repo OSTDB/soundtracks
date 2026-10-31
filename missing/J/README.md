@@ -2523,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey TD | 420791 | [420791-journey-td.json](./420791-journey-td.json) |
+| Journey Through Memories | 110666 | [110666-journey-through-memories.json](./110666-journey-through-memories.json) |
 | Journey Through the Nightmare Realm II | 347683 | [347683-journey-through-the-nightmare-realm-ii.json](./347683-journey-through-the-nightmare-realm-ii.json) |
 | Journey Through the Undead | 348198 | [348198-journey-through-the-undead.json](./348198-journey-through-the-undead.json) |
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
