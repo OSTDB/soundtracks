@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
 | Killing Bullet | 272242 | [272242-killing-bullet.json](./272242-killing-bullet.json) |
+| Killing Day | 68223 | [68223-killing-day.json](./68223-killing-day.json) |
 | Killing Floor | 2949 | [2949-killing-floor.json](./2949-killing-floor.json) |
 | Killing Floor 2: Commando Chicken Bundle | 332001 | [332001-killing-floor-2-commando-chicken-bundle.json](./332001-killing-floor-2-commando-chicken-bundle.json) |
 | Killing Floor 2: Day of the Zed Character Outfit Set | 332006 | [332006-killing-floor-2-day-of-the-zed-character-outfit-set.json](./332006-killing-floor-2-day-of-the-zed-character-outfit-set.json) |
