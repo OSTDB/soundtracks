@@ -2286,7 +2286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
-| RayStorm | 45089 | [45089-raystorm.json](./45089-raystorm.json) |
 | RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
 | RayStorm x RayCrisis HD Collection | 240039 | [240039-raystorm-x-raycrisis-hd-collection.json](./240039-raystorm-x-raycrisis-hd-collection.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
