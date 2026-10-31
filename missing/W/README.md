@@ -6300,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
 | Wobbly Heist | 411623 | [411623-wobbly-heist.json](./411623-wobbly-heist.json) |
 | Wobbly Life | 133344 | [133344-wobbly-life.json](./133344-wobbly-life.json) |
+| WobblyStack for Arcore | 95762 | [95762-wobblystack-for-arcore.json](./95762-wobblystack-for-arcore.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wobolob Classic | 180477 | [180477-wobolob-classic.json](./180477-wobolob-classic.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
