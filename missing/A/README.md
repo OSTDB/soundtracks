@@ -10292,6 +10292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Shiro: HD Remaster | 246873 | [246873-aoi-shiro-hd-remaster.json](./246873-aoi-shiro-hd-remaster.json) |
 | Aoi Sora no Neosphere | 146570 | [146570-aoi-sora-no-neosphere.json](./146570-aoi-sora-no-neosphere.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
+| Aoi Tori | 77741 | [77741-aoi-tori.json](./77741-aoi-tori.json) |
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
 | Aoi Umi no Tristia: Hatsumei Koubou Funtou ki | 407995 | [407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json](./407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json) |
 | Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubou ki | 68255 | [68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json](./68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json) |
@@ -10323,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Meikyuu | 33908 | [33908-aozora-meikyuu.json](./33908-aozora-meikyuu.json) |
+| Aozora Stripe | 77722 | [77722-aozora-stripe.json](./77722-aozora-stripe.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
 | Apache | 245155 | [245155-apache.json](./245155-apache.json) |
