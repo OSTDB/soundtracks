@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen Online: Paris no Yuuga na Hibi | 221783 | [221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json](./221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json) |
 | Sakura Taisen Online: Teito no Nagai Hibi | 63132 | [63132-sakura-taisen-online-teito-no-nagai-hibi.json](./63132-sakura-taisen-online-teito-no-nagai-hibi.json) |
 | Sakura Taisen Steam Radio Show | 62125 | [62125-sakura-taisen-steam-radio-show.json](./62125-sakura-taisen-steam-radio-show.json) |
+| Sakura Taisen V Episode 0: Kouya no Samurai Musume | 74109 | [74109-sakura-taisen-v-episode-0-kouya-no-samurai-musume.json](./74109-sakura-taisen-v-episode-0-kouya-no-samurai-musume.json) |
 | Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
 | Sakura Tempest | 223857 | [223857-sakura-tempest.json](./223857-sakura-tempest.json) |
 | Sakura Trick | 231838 | [231838-sakura-trick.json](./231838-sakura-trick.json) |
@@ -1727,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Visit | 123895 | [123895-santas-visit.json](./123895-santas-visit.json) |
 | Santa's Workshop | 185282 | [185282-santas-workshop.json](./185282-santas-workshop.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
+| Santa's Workshop | 74122 | [74122-santas-workshop.json](./74122-santas-workshop.json) |
 | Santa's Workshop Challenge: The North Pole Gift Adventure | 283241 | [283241-santas-workshop-challenge-the-north-pole-gift-adventure.json](./283241-santas-workshop-challenge-the-north-pole-gift-adventure.json) |
 | Santa's Workshop: Unhinged | 128550 | [128550-santas-workshop-unhinged.json](./128550-santas-workshop-unhinged.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
@@ -3649,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Dreamland | 48322 | [48322-sea-of-dreamland.json](./48322-sea-of-dreamland.json) |
 | Sea of Dreams | 195487 | [195487-sea-of-dreams.json](./195487-sea-of-dreams.json) |
 | Sea of Dreams Survivors | 335402 | [335402-sea-of-dreams-survivors.json](./335402-sea-of-dreams-survivors.json) |
+| Sea of Fatness | 74129 | [74129-sea-of-fatness.json](./74129-sea-of-fatness.json) |
 | Sea of Fire | 348116 | [348116-sea-of-fire.json](./348116-sea-of-fire.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Intrigue | 395800 | [395800-sea-of-intrigue.json](./395800-sea-of-intrigue.json) |
@@ -3983,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Dreamer | 245994 | [245994-second-dreamer.json](./245994-second-dreamer.json) |
 | Second Earth | 128800 | [128800-second-earth.json](./128800-second-earth.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
+| Second Front: Germany Turns East | 74107 | [74107-second-front-germany-turns-east.json](./74107-second-front-germany-turns-east.json) |
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
 | Second Grade Learning Games | 89083 | [89083-second-grade-learning-games.json](./89083-second-grade-learning-games.json) |
 | Second Hazardous Course | 105158 | [105158-second-hazardous-course.json](./105158-second-hazardous-course.json) |
@@ -14795,6 +14799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Knight | 367821 | [367821-solar-knight.json](./367821-solar-knight.json) |
+| Solar Lander | 74114 | [74114-solar-lander.json](./74114-solar-lander.json) |
 | Solar Machina | 399904 | [399904-solar-machina.json](./399904-solar-machina.json) |
 | Solar Merge | 294101 | [294101-solar-merge.json](./294101-solar-merge.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
@@ -14900,6 +14905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier in the darkness | 150773 | [150773-soldier-in-the-darkness.json](./150773-soldier-in-the-darkness.json) |
 | Soldier Killer | 54501 | [54501-soldier-killer.json](./54501-soldier-killer.json) |
 | Soldier Matt Sowards | 143980 | [143980-soldier-matt-sowards.json](./143980-soldier-matt-sowards.json) |
+| Soldier of Failure | 74111 | [74111-soldier-of-failure.json](./74111-soldier-of-failure.json) |
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
 | Soldier of Failure: Operation Zombie | 75653 | [75653-soldier-of-failure-operation-zombie.json](./75653-soldier-of-failure-operation-zombie.json) |
 | Soldier of Fortune | 135691 | [135691-soldier-of-fortune.json](./135691-soldier-of-fortune.json) |
@@ -17805,6 +17811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21406,6 +21413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
 | SSX: Out of Bounds | 47565 | [47565-ssx-out-of-bounds.json](./47565-ssx-out-of-bounds.json) |
 | St Dragon | 45235 | [45235-st-dragon.json](./45235-st-dragon.json) |
+| St George | 74135 | [74135-st-george.json](./74135-st-george.json) |
 | ST Wars | 44081 | [44081-st-wars.json](./44081-st-wars.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | St. Chicken | 63759 | [63759-st-chicken.json](./63759-st-chicken.json) |
@@ -25014,6 +25022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Deep 2 | 415782 | [415782-stranded-deep-2.json](./415782-stranded-deep-2.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
+| Stranded II | 74098 | [74098-stranded-ii.json](./74098-stranded-ii.json) |
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
 | Stranded In Time | 34884 | [34884-stranded-in-time.json](./34884-stranded-in-time.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
@@ -26493,6 +26502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtext | 115546 | [115546-subtext.json](./115546-subtext.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
+| Subtrade: Return to Irata | 74102 | [74102-subtrade-return-to-irata.json](./74102-subtrade-return-to-irata.json) |
 | Subtyrannya - A story-driven merchant game | 112898 | [112898-subtyrannya-a-story-driven-merchant-game.json](./112898-subtyrannya-a-story-driven-merchant-game.json) |
 | Subuccus | 211656 | [211656-subuccus.json](./211656-subuccus.json) |
 | Subugs | 187064 | [187064-subugs.json](./187064-subugs.json) |
@@ -27721,6 +27731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Antonio | 313180 | [313180-super-antonio.json](./313180-super-antonio.json) |
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
 | Super Arc Light | 96413 | [96413-super-arc-light.json](./96413-super-arc-light.json) |
+| Super Arcade Boy in Defender of Planet Earth | 74123 | [74123-super-arcade-boy-in-defender-of-planet-earth.json](./74123-super-arcade-boy-in-defender-of-planet-earth.json) |
 | Super Arcade Boy in Goodbye Greenies | 252599 | [252599-super-arcade-boy-in-goodbye-greenies.json](./252599-super-arcade-boy-in-goodbye-greenies.json) |
 | Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
