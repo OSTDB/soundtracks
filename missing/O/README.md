@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Survival Kit Collection | 314806 | [314806-outbreak-survival-kit-collection.json](./314806-outbreak-survival-kit-collection.json) |
 | Outbreak: Take a Bite Collection | 331416 | [331416-outbreak-take-a-bite-collection.json](./331416-outbreak-take-a-bite-collection.json) |
 | Outbreak: Tenth Anniversary Celebration Collection | 331414 | [331414-outbreak-tenth-anniversary-celebration-collection.json](./331414-outbreak-tenth-anniversary-celebration-collection.json) |
+| OutBreak: The Escape | 80980 | [80980-outbreak-the-escape.json](./80980-outbreak-the-escape.json) |
 | Outbreak: The Fall of Cypress Ridge Collection | 331415 | [331415-outbreak-the-fall-of-cypress-ridge-collection.json](./331415-outbreak-the-fall-of-cypress-ridge-collection.json) |
 | Outbreak: The Fedora Files - What Lydia Knows | 291173 | [291173-outbreak-the-fedora-files-what-lydia-knows.json](./291173-outbreak-the-fedora-files-what-lydia-knows.json) |
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
