@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
 | Unsound Love | 346517 | [346517-unsound-love.json](./346517-unsound-love.json) |
 | Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
+| Unspoken Chronicles : Nora | 117302 | [117302-unspoken-chronicles-nora.json](./117302-unspoken-chronicles-nora.json) |
 | Unspoken Echoes | 346528 | [346528-unspoken-echoes.json](./346528-unspoken-echoes.json) |
 | Unspottable | 129693 | [129693-unspottable.json](./129693-unspottable.json) |
 | UnStabbed - Knife Circus | 114699 | [114699-unstabbed-knife-circus.json](./114699-unstabbed-knife-circus.json) |
