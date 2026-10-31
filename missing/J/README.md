@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart 1st Grade | 94349 | [94349-jumpstart-1st-grade.json](./94349-jumpstart-1st-grade.json) |
 | JumpStart 1st Grade Reading | 286668 | [286668-jumpstart-1st-grade-reading.json](./286668-jumpstart-1st-grade-reading.json) |
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
+| JumpStart ABC's | 92241 | [92241-jumpstart-abcs.json](./92241-jumpstart-abcs.json) |
 | JumpStart Advanced Preschool | 77094 | [77094-jumpstart-advanced-preschool.json](./77094-jumpstart-advanced-preschool.json) |
 | JumpStart Advanced Preschool: StoryLand | 77093 | [77093-jumpstart-advanced-preschool-storyland.json](./77093-jumpstart-advanced-preschool-storyland.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
