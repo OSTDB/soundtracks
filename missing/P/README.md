@@ -2833,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patient Zero | 388918 | [388918-patient-zero.json](./388918-patient-zero.json) |
 | Patient Zero: Day One | 11063 | [11063-patient-zero-day-one.json](./11063-patient-zero-day-one.json) |
 | Patient Zero: Plague Idle | 388417 | [388417-patient-zero-plague-idle.json](./388417-patient-zero-plague-idle.json) |
+| PatientX: Survivalist | 98689 | [98689-patientx-survivalist.json](./98689-patientx-survivalist.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
 | Patisserie Palette | 185418 | [185418-patisserie-palette.json](./185418-patisserie-palette.json) |
 | Patito Feo | 269500 | [269500-patito-feo.json](./269500-patito-feo.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PawRebuild | 406698 | [406698-pawrebuild.json](./406698-pawrebuild.json) |
 | Paws | 254901 | [254901-paws.json](./254901-paws.json) |
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
+| Paws 'n Claws VR | 98742 | [98742-paws-n-claws-vr.json](./98742-paws-n-claws-vr.json) |
 | Paws & Circuits: Reboot Earth | 412961 | [412961-paws-and-circuits-reboot-earth.json](./412961-paws-and-circuits-reboot-earth.json) |
 | Paws & Claws Best Friends: Dogs & Cats | 61009 | [61009-paws-and-claws-best-friends-dogs-and-cats.json](./61009-paws-and-claws-best-friends-dogs-and-cats.json) |
 | Paws & Claws Pampered Pets | 288196 | [288196-paws-and-claws-pampered-pets.json](./288196-paws-and-claws-pampered-pets.json) |
@@ -3461,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peekaboo Lite | 250306 | [250306-peekaboo-lite.json](./250306-peekaboo-lite.json) |
 | Peekazoo | 211284 | [211284-peekazoo.json](./211284-peekazoo.json) |
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
+| Peeko | 98739 | [98739-peeko.json](./98739-peeko.json) |
 | Peel a Banana | 368557 | [368557-peel-a-banana.json](./368557-peel-a-banana.json) |
 | Peep | 120658 | [120658-peep.json](./120658-peep.json) |
 | Peep Invasion | 197513 | [197513-peep-invasion.json](./197513-peep-invasion.json) |
@@ -13967,6 +13970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton vs. Phoenix Wright: Ace Attorney | 1402 | [1402-professor-layton-vs-phoenix-wright-ace-attorney.json](./1402-professor-layton-vs-phoenix-wright-ace-attorney.json) |
 | Professor Li's Answer-Question | 105084 | [105084-professor-lis-answer-question.json](./105084-professor-lis-answer-question.json) |
 | Professor Lupo and his Horrible Pets | 76032 | [76032-professor-lupo-and-his-horrible-pets.json](./76032-professor-lupo-and-his-horrible-pets.json) |
+| Professor Madhouse | 98732 | [98732-professor-madhouse.json](./98732-professor-madhouse.json) |
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
 | Professor Pemda's Puzzle Pyramid | 362794 | [362794-professor-pemdas-puzzle-pyramid.json](./362794-professor-pemdas-puzzle-pyramid.json) |
@@ -13987,6 +13991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Why: Chemistry 1 | 35165 | [35165-professor-why-chemistry-1.json](./35165-professor-why-chemistry-1.json) |
 | Professor Why: The Quantum Eye | 35266 | [35266-professor-why-the-quantum-eye.json](./35266-professor-why-the-quantum-eye.json) |
 | Professor Wise and His X-Ray Eyes | 209907 | [209907-professor-wise-and-his-x-ray-eyes.json](./209907-professor-wise-and-his-x-ray-eyes.json) |
+| Professor Wordington's Spellatorium | 98723 | [98723-professor-wordingtons-spellatorium.json](./98723-professor-wordingtons-spellatorium.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
 | Profiler Files: New Orleans | 280384 | [280384-profiler-files-new-orleans.json](./280384-profiler-files-new-orleans.json) |
@@ -15194,6 +15199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
 | PS5 Simulator | 177149 | [177149-ps5-simulator.json](./177149-ps5-simulator.json) |
+| PSA World Tour Squash | 98691 | [98691-psa-world-tour-squash.json](./98691-psa-world-tour-squash.json) |
 | PSA World Tour Squash 2015 | 60327 | [60327-psa-world-tour-squash-2015.json](./60327-psa-world-tour-squash-2015.json) |
 | PSA: Peepy Saving Adventure! | 193614 | [193614-psa-peepy-saving-adventure.json](./193614-psa-peepy-saving-adventure.json) |
 | Psalm 2 | 402547 | [402547-psalm-2.json](./402547-psalm-2.json) |
@@ -16422,6 +16428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
 | Puzzle Agent 2 | 6778 | [6778-puzzle-agent-2.json](./6778-puzzle-agent-2.json) |
 | Puzzle Agent 2 HD | 106345 | [106345-puzzle-agent-2-hd.json](./106345-puzzle-agent-2-hd.json) |
+| Puzzle Animals | 98745 | [98745-puzzle-animals.json](./98745-puzzle-animals.json) |
 | Puzzle Aquarium | 169121 | [169121-puzzle-aquarium.json](./169121-puzzle-aquarium.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
