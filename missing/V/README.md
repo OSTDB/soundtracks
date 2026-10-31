@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie | 94342 | [94342-valkyrie.json](./94342-valkyrie.json) |
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
+| Valkyrie Complex | 69035 | [69035-valkyrie-complex.json](./69035-valkyrie-complex.json) |
 | Valkyrie Crusade | 62574 | [62574-valkyrie-crusade.json](./62574-valkyrie-crusade.json) |
 | Valkyrie Drive: Bhikkhuni | 11527 | [11527-valkyrie-drive-bhikkhuni.json](./11527-valkyrie-drive-bhikkhuni.json) |
 | Valkyrie Drive: Bhikkhuni - Bikini Party Edition | 379957 | [379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json](./379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
 | Velocipede | 416714 | [416714-velocipede.json](./416714-velocipede.json) |
 | Velocipede II | 416716 | [416716-velocipede-ii.json](./416716-velocipede-ii.json) |
+| Velocispider | 69020 | [69020-velocispider.json](./69020-velocispider.json) |
 | Velocity | 9184 | [9184-velocity.json](./9184-velocity.json) |
 | VeloCity | 377292 | [377292-velocity.json](./377292-velocity.json) |
 | Velocity 2X: Critical Mass Edition | 167039 | [167039-velocity-2x-critical-mass-edition.json](./167039-velocity-2x-critical-mass-edition.json) |
