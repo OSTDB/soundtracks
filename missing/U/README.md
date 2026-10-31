@@ -1112,6 +1112,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umpteenth Photo | 386887 | [386887-umpteenth-photo.json](./386887-umpteenth-photo.json) |
 | UMS II: Nations at War | 74007 | [74007-ums-ii-nations-at-war.json](./74007-ums-ii-nations-at-war.json) |
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
+| UMS: The Universal Military Simulator - The American Civil War | 72459 | [72459-ums-the-universal-military-simulator-the-american-civil-war.json](./72459-ums-the-universal-military-simulator-the-american-civil-war.json) |
+| UMS: The Universal Military Simulator - Vietnam | 72460 | [72460-ums-the-universal-military-simulator-vietnam.json](./72460-ums-the-universal-military-simulator-vietnam.json) |
 | Umurangi Generation: Macro | 139015 | [139015-umurangi-generation-macro.json](./139015-umurangi-generation-macro.json) |
 | Un indien dans la ville | 117973 | [117973-un-indien-dans-la-ville.json](./117973-un-indien-dans-la-ville.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
@@ -1340,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncoven: The Seventh Day | 187053 | [187053-uncoven-the-seventh-day.json](./187053-uncoven-the-seventh-day.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
+| Uncover It | 72535 | [72535-uncover-it.json](./72535-uncover-it.json) |
 | Uncover the Triad of Terror | 309052 | [309052-uncover-the-triad-of-terror.json](./309052-uncover-the-triad-of-terror.json) |
 | Uncover: Featuring Tatjanna | 45903 | [45903-uncover-featuring-tatjanna.json](./45903-uncover-featuring-tatjanna.json) |
 | Uncovered: 1945 | 282258 | [282258-uncovered-1945.json](./282258-uncovered-1945.json) |
