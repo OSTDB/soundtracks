@@ -2876,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patter | 310696 | [310696-patter.json](./310696-patter.json) |
 | Pattern | 112449 | [112449-pattern.json](./112449-pattern.json) |
 | Pattern Pulse | 415233 | [415233-pattern-pulse.json](./415233-pattern-pulse.json) |
+| Pattern Shapes and Colors | 103073 | [103073-pattern-shapes-and-colors.json](./103073-pattern-shapes-and-colors.json) |
 | Pattern Survivors: Bullet Hell | 348970 | [348970-pattern-survivors-bullet-hell.json](./348970-pattern-survivors-bullet-hell.json) |
 | Pattern Thinking Puzzle Build It Before 10 | 362365 | [362365-pattern-thinking-puzzle-build-it-before-10.json](./362365-pattern-thinking-puzzle-build-it-before-10.json) |
 | Patterna | 31999 | [31999-patterna.json](./31999-patterna.json) |
@@ -10823,6 +10824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Trainer | 39838 | [39838-police-trainer.json](./39838-police-trainer.json) |
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
 | Police Truck | 90805 | [90805-police-truck.json](./90805-police-truck.json) |
+| Police vs Gangster Escape: Car | 103095 | [103095-police-vs-gangster-escape-car.json](./103095-police-vs-gangster-escape-car.json) |
 | Police vs Thief: Violent Chasing | 326652 | [326652-police-vs-thief-violent-chasing.json](./326652-police-vs-thief-violent-chasing.json) |
 | Police vs. Gangster New York 3D | 267349 | [267349-police-vs-gangster-new-york-3d.json](./267349-police-vs-gangster-new-york-3d.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
@@ -17073,6 +17075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
 | Pyromaniacs | 110190 | [110190-pyromaniacs.json](./110190-pyromaniacs.json) |
 | Pyromasters | 387292 | [387292-pyromasters.json](./387292-pyromasters.json) |
+| PyroMind | 103051 | [103051-pyromind.json](./103051-pyromind.json) |
 | PyroSlam: VR Table Tennis | 238359 | [238359-pyroslam-vr-table-tennis.json](./238359-pyroslam-vr-table-tennis.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
