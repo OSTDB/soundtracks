@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egression | 201460 | [201460-egression.json](./201460-egression.json) |
 | Egret II Mini: Arcade Memories Vol. I | 229835 | [229835-egret-ii-mini-arcade-memories-vol-i.json](./229835-egret-ii-mini-arcade-memories-vol-i.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
+| Egria: Guardian Sword II | 65726 | [65726-egria-guardian-sword-ii.json](./65726-egria-guardian-sword-ii.json) |
 | Egypt | 94952 | [94952-egypt.json](./94952-egypt.json) |
 | Egypt 1156 B.C.: Tomb of the Pharaoh | 50398 | [50398-egypt-1156-b-c-tomb-of-the-pharaoh.json](./50398-egypt-1156-b-c-tomb-of-the-pharaoh.json) |
 | Egypt Blocks Puzzle | 180038 | [180038-egypt-blocks-puzzle.json](./180038-egypt-blocks-puzzle.json) |
@@ -2874,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emirati Tales | 349378 | [349378-emirati-tales.json](./349378-emirati-tales.json) |
 | Emiru Game | 315718 | [315718-emiru-game.json](./315718-emiru-game.json) |
 | Emissary | 413714 | [413714-emissary.json](./413714-emissary.json) |
+| Emissary of War | 65730 | [65730-emissary-of-war.json](./65730-emissary-of-war.json) |
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
 | Emissary Zero | 329342 | [329342-emissary-zero.json](./329342-emissary-zero.json) |
 | EMIT Vol. 1: Toki no Maigo | 60972 | [60972-emit-vol-1-toki-no-maigo.json](./60972-emit-vol-1-toki-no-maigo.json) |
@@ -7125,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
+| Exoplanet War | 65873 | [65873-exoplanet-war.json](./65873-exoplanet-war.json) |
 | Exoprimal | 194203 | [194203-exoprimal.json](./194203-exoprimal.json) |
 | Exoprimal: Barrage - Volcano | 332615 | [332615-exoprimal-barrage-volcano.json](./332615-exoprimal-barrage-volcano.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
