@@ -5735,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eto King | 259711 | [259711-eto-king.json](./259711-eto-king.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Eto-cetera You no Maki | 344267 | [344267-eto-cetera-you-no-maki.json](./344267-eto-cetera-you-no-maki.json) |
+| Etoile Princesse | 70834 | [70834-etoile-princesse.json](./70834-etoile-princesse.json) |
 | Etos | 260546 | [260546-etos.json](./260546-etos.json) |
 | Etrange Overlord | 376699 | [376699-etrange-overlord.json](./376699-etrange-overlord.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
