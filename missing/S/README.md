@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzesmarken: Junkyousha-tachi | 374377 | [374377-schwarzesmarken-junkyousha-tachi.json](./374377-schwarzesmarken-junkyousha-tachi.json) |
 | Schwarzesmarken: Kouketsu no Monshou | 374363 | [374363-schwarzesmarken-kouketsu-no-monshou.json](./374363-schwarzesmarken-kouketsu-no-monshou.json) |
 | Schwarzschild EX | 94112 | [94112-schwarzschild-ex.json](./94112-schwarzschild-ex.json) |
+| Schwarzschild GX: Sabita Sousei | 91645 | [91645-schwarzschild-gx-sabita-sousei.json](./91645-schwarzschild-gx-sabita-sousei.json) |
 | Schwarzwald | 223331 | [223331-schwarzwald.json](./223331-schwarzwald.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
@@ -7195,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shera and the Three Treasures | 118293 | [118293-shera-and-the-three-treasures.json](./118293-shera-and-the-three-treasures.json) |
 | Sherberia | 190452 | [190452-sherberia.json](./190452-sherberia.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
+| Sheriff | 91662 | [91662-sheriff.json](./91662-sheriff.json) |
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
 | Sheriff of Mahjong | 182057 | [182057-sheriff-of-mahjong.json](./182057-sheriff-of-mahjong.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
@@ -7270,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shhh!Saw | 291823 | [291823-shhh-saw.json](./291823-shhh-saw.json) |
 | Shi no Homura | 305605 | [305605-shi-no-homura.json](./305605-shi-no-homura.json) |
 | Shi Sen | 105522 | [105522-shi-sen.json](./105522-shi-sen.json) |
+| Shi Shi Shindoro Mu | 91575 | [91575-shi-shi-shindoro-mu.json](./91575-shi-shi-shindoro-mu.json) |
 | Shi Shi Te Na O: Even in Death | 335823 | [335823-shi-shi-te-na-o-even-in-death.json](./335823-shi-shi-te-na-o-even-in-death.json) |
 | Shí zhī Fēi | 119565 | [119565-shi-zhi-fei.json](./119565-shi-zhi-fei.json) |
 | Shi-Ro | 110064 | [110064-shi-ro.json](./110064-shi-ro.json) |
@@ -9124,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
 | Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
+| Sideswiped | 91666 | [91666-sideswiped.json](./91666-sideswiped.json) |
 | Sidewalk Fighter II | 60912 | [60912-sidewalk-fighter-ii.json](./60912-sidewalk-fighter-ii.json) |
 | Sidewalk Sidestep | 183233 | [183233-sidewalk-sidestep.json](./183233-sidewalk-sidestep.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
@@ -15063,6 +15067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Mystery: Four Seasons HD | 99342 | [99342-solitaire-mystery-four-seasons-hd.json](./99342-solitaire-mystery-four-seasons-hd.json) |
 | Solitaire Mystery: Stolen Power | 55432 | [55432-solitaire-mystery-stolen-power.json](./55432-solitaire-mystery-stolen-power.json) |
 | Solitaire Noir | 226618 | [226618-solitaire-noir.json](./226618-solitaire-noir.json) |
+| Solitaire Overload | 91676 | [91676-solitaire-overload.json](./91676-solitaire-overload.json) |
 | Solitaire Paradise: Anime Bikini Babes | 410372 | [410372-solitaire-paradise-anime-bikini-babes.json](./410372-solitaire-paradise-anime-bikini-babes.json) |
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
 | Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
@@ -16948,6 +16953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur: Unbreakable Soul | 25145 | [25145-soulcalibur-unbreakable-soul.json](./25145-soulcalibur-unbreakable-soul.json) |
 | SoulCast | 240890 | [240890-soulcast.json](./240890-soulcast.json) |
 | Soulcaster | 150680 | [150680-soulcaster.json](./150680-soulcaster.json) |
+| Soulcaster II | 91656 | [91656-soulcaster-ii.json](./91656-soulcaster-ii.json) |
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
 | Soulchain | 342042 | [342042-soulchain.json](./342042-soulchain.json) |
 | Soulchemist Renafine | 250248 | [250248-soulchemist-renafine.json](./250248-soulchemist-renafine.json) |
@@ -20470,6 +20476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Spins: Remastered - Steam Edition | 128257 | [128257-spooky-spins-remastered-steam-edition.json](./128257-spooky-spins-remastered-steam-edition.json) |
 | Spooky Spirit Shooting Gallery | 227613 | [227613-spooky-spirit-shooting-gallery.json](./227613-spooky-spirit-shooting-gallery.json) |
+| Spooky Spirits | 91573 | [91573-spooky-spirits.json](./91573-spooky-spirits.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
 | Spooky Starlets | 120692 | [120692-spooky-starlets.json](./120692-spooky-starlets.json) |
 | Spooky Station | 122836 | [122836-spooky-station.json](./122836-spooky-station.json) |
@@ -30286,8 +30293,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuken | 97738 | [97738-super-yakyuken.json](./97738-super-yakyuken.json) |
 | Super Yakyuu-dou | 44380 | [44380-super-yakyuu-dou.json](./44380-super-yakyuu-dou.json) |
 | Super Yakyuu-dou | 76993 | [76993-super-yakyuu-dou.json](./76993-super-yakyuu-dou.json) |
+| Super Yakyuudou '93 | 91654 | [91654-super-yakyuudou-93.json](./91654-super-yakyuudou-93.json) |
 | Super Yakyuudou '93 - 94 Nendo Data Kaiteiban | 66198 | [66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json](./66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json) |
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
+| Super Yakyuudou Limited | 91655 | [91655-super-yakyuudou-limited.json](./91655-super-yakyuudou-limited.json) |
 | Super Yodelland: Legend of the Katzenbär | 192564 | [192564-super-yodelland-legend-of-the-katzenbar.json](./192564-super-yodelland-legend-of-the-katzenbar.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
@@ -31548,6 +31557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm of the Plague Babies | 178789 | [178789-swarm-of-the-plague-babies.json](./178789-swarm-of-the-plague-babies.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
 | Swarm Racer 3000 | 330077 | [330077-swarm-racer-3000.json](./330077-swarm-racer-3000.json) |
+| Swarm Rampage | 91577 | [91577-swarm-rampage.json](./91577-swarm-rampage.json) |
 | Swarm Simulator: Evolution | 96588 | [96588-swarm-simulator-evolution.json](./96588-swarm-simulator-evolution.json) |
 | Swarm Survivor | 244931 | [244931-swarm-survivor.json](./244931-swarm-survivor.json) |
 | Swarm Survivor: Endless Siege | 391630 | [391630-swarm-survivor-endless-siege.json](./391630-swarm-survivor-endless-siege.json) |
