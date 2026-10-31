@@ -1782,6 +1782,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarab: Duji Tower | 30637 | [30637-sarab-duji-tower.json](./30637-sarab-duji-tower.json) |
 | Saraba Gekiyaki: Encore | 226110 | [226110-saraba-gekiyaki-encore.json](./226110-saraba-gekiyaki-encore.json) |
 | Saraba Kegoorushima | 411632 | [411632-saraba-kegoorushima.json](./411632-saraba-kegoorushima.json) |
+| Sarah & Duck - Day at the Park | 102505 | [102505-sarah-and-duck-day-at-the-park.json](./102505-sarah-and-duck-day-at-the-park.json) |
+| Sarah & Duck: The Big Sleepover | 102524 | [102524-sarah-and-duck-the-big-sleepover.json](./102524-sarah-and-duck-the-big-sleepover.json) |
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
 | Sarah in the Sky | 103800 | [103800-sarah-in-the-sky.json](./103800-sarah-in-the-sky.json) |
 | Sarah, you are way too heavy | 118364 | [118364-sarah-you-are-way-too-heavy.json](./118364-sarah-you-are-way-too-heavy.json) |
@@ -3204,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Kings | 181898 | [181898-scrap-kings.json](./181898-scrap-kings.json) |
 | Scrap Magic | 273788 | [273788-scrap-magic.json](./273788-scrap-magic.json) |
 | Scrap Mechanic | 16611 | [16611-scrap-mechanic.json](./16611-scrap-mechanic.json) |
+| Scrap Mechanic: Rocket Game | 102525 | [102525-scrap-mechanic-rocket-game.json](./102525-scrap-mechanic-rocket-game.json) |
 | Scrap Metal Factory | 208945 | [208945-scrap-metal-factory.json](./208945-scrap-metal-factory.json) |
 | Scrap Race | 181331 | [181331-scrap-race.json](./181331-scrap-race.json) |
 | Scrap Riders | 152647 | [152647-scrap-riders.json](./152647-scrap-riders.json) |
@@ -7194,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
 | Sherlock Holmes in "Another Bow" | 24680 | [24680-sherlock-holmes-in-another-bow.json](./24680-sherlock-holmes-in-another-bow.json) |
 | Sherlock Holmes Versus Jack the Ripper | 6737 | [6737-sherlock-holmes-versus-jack-the-ripper.json](./6737-sherlock-holmes-versus-jack-the-ripper.json) |
+| Sherlock Holmes: Art of Detection (Ink Spotters) | 102499 | [102499-sherlock-holmes-art-of-detection-ink-spotters.json](./102499-sherlock-holmes-art-of-detection-ink-spotters.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
 | Sherlock Holmes: Chapter One - Clergyman Cassock | 245168 | [245168-sherlock-holmes-chapter-one-clergyman-cassock.json](./245168-sherlock-holmes-chapter-one-clergyman-cassock.json) |
 | Sherlock Holmes: Chapter One - Deluxe Edition | 173098 | [173098-sherlock-holmes-chapter-one-deluxe-edition.json](./173098-sherlock-holmes-chapter-one-deluxe-edition.json) |
@@ -10029,6 +10033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Series Vol. 3: The Mahjong | 82132 | [82132-simple-series-vol-3-the-mahjong.json](./82132-simple-series-vol-3-the-mahjong.json) |
 | Simple Series Vol. 4: The Misshitsu kara no Dasshutsu | 409006 | [409006-simple-series-vol-4-the-misshitsu-kara-no-dasshutsu.json](./409006-simple-series-vol-4-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple Series Vol. 5: The Judo | 409012 | [409012-simple-series-vol-5-the-judo.json](./409012-simple-series-vol-5-the-judo.json) |
+| Simple Sighmon | 102546 | [102546-simple-sighmon.json](./102546-simple-sighmon.json) |
 | Simple Simulation | 202663 | [202663-simple-simulation.json](./202663-simple-simulation.json) |
 | Simple Snooker | 264617 | [264617-simple-snooker.json](./264617-simple-snooker.json) |
 | Simple Solitaire | 239545 | [239545-simple-solitaire.json](./239545-simple-solitaire.json) |
@@ -12068,8 +12073,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina Must Die: The School | 321411 | [321411-slendrina-must-die-the-school.json](./321411-slendrina-must-die-the-school.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
+| Slendrina: Asylum | 102520 | [102520-slendrina-asylum.json](./102520-slendrina-asylum.json) |
 | Slendrina: The Cellar | 94098 | [94098-slendrina-the-cellar.json](./94098-slendrina-the-cellar.json) |
+| Slendrina: The Cellar 2 | 102519 | [102519-slendrina-the-cellar-2.json](./102519-slendrina-the-cellar-2.json) |
 | Slendrina: The Forest | 102235 | [102235-slendrina-the-forest.json](./102235-slendrina-the-forest.json) |
+| Slendrina: The School | 102521 | [102521-slendrina-the-school.json](./102521-slendrina-the-school.json) |
 | Slendrina's Freakish Friends and Family Night | 282801 | [282801-slendrinas-freakish-friends-and-family-night.json](./282801-slendrinas-freakish-friends-and-family-night.json) |
 | Slendy! | 61992 | [61992-slendy.json](./61992-slendy.json) |
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
@@ -13318,6 +13326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake 2 | 81508 | [81508-snake-2.json](./81508-snake-2.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake 3310 | 177382 | [177382-snake-3310.json](./177382-snake-3310.json) |
+| Snake and Block: Free Game | 102527 | [102527-snake-and-block-free-game.json](./102527-snake-and-block-free-game.json) |
 | Snake and Rhino in the Sketchbook | 360120 | [360120-snake-and-rhino-in-the-sketchbook.json](./360120-snake-and-rhino-in-the-sketchbook.json) |
 | Snake Battle | 111657 | [111657-snake-battle.json](./111657-snake-battle.json) |
 | Snake Blast! | 116961 | [116961-snake-blast.json](./116961-snake-blast.json) |
@@ -14917,6 +14926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Battle Royal | 111907 | [111907-solitaire-battle-royal.json](./111907-solitaire-battle-royal.json) |
 | Solitaire Beach Season | 31284 | [31284-solitaire-beach-season.json](./31284-solitaire-beach-season.json) |
 | Solitaire Beach Season 2 | 95559 | [95559-solitaire-beach-season-2.json](./95559-solitaire-beach-season-2.json) |
+| Solitaire Beach Season 3 | 102511 | [102511-solitaire-beach-season-3.json](./102511-solitaire-beach-season-3.json) |
 | Solitaire Beach Season: A Vacation Time | 202731 | [202731-solitaire-beach-season-a-vacation-time.json](./202731-solitaire-beach-season-a-vacation-time.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Blitz | 65263 | [65263-solitaire-blitz.json](./65263-solitaire-blitz.json) |
@@ -19407,6 +19417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphirit | 351266 | [351266-sphirit.json](./351266-sphirit.json) |
 | Sphizofrenia: Concept of Horror | 251129 | [251129-sphizofrenia-concept-of-horror.json](./251129-sphizofrenia-concept-of-horror.json) |
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
+| Sphoxie | 102512 | [102512-sphoxie.json](./102512-sphoxie.json) |
 | SPi's Nightmare | 294059 | [294059-spis-nightmare.json](./294059-spis-nightmare.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
 | Spica Adventure | 353943 | [353943-spica-adventure.json](./353943-spica-adventure.json) |
@@ -20205,6 +20216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Bubble Party | 95538 | [95538-spongebob-bubble-party.json](./95538-spongebob-bubble-party.json) |
 | SpongeBob Diner Dash 2: Two Times the Trouble | 208781 | [208781-spongebob-diner-dash-2-two-times-the-trouble.json](./208781-spongebob-diner-dash-2-two-times-the-trouble.json) |
 | SpongeBob Excludes Squidward | 388139 | [388139-spongebob-excludes-squidward.json](./388139-spongebob-excludes-squidward.json) |
+| Spongebob Games and Patrick Fighting | 102536 | [102536-spongebob-games-and-patrick-fighting.json](./102536-spongebob-games-and-patrick-fighting.json) |
 | SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
@@ -28196,6 +28208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Demolition | 251595 | [251595-super-hero-demolition.json](./251595-super-hero-demolition.json) |
 | Super Hero Demolition | 251674 | [251674-super-hero-demolition.json](./251674-super-hero-demolition.json) |
 | Super Hero Driving School | 203712 | [203712-super-hero-driving-school.json](./203712-super-hero-driving-school.json) |
+| Super Hero Fight Club | 102514 | [102514-super-hero-fight-club.json](./102514-super-hero-fight-club.json) |
 | Super Hero Fight Club: Reloaded | 112984 | [112984-super-hero-fight-club-reloaded.json](./112984-super-hero-fight-club-reloaded.json) |
 | Super Hero Fighting Legends: Anime Mortal Battle | 240406 | [240406-super-hero-fighting-legends-anime-mortal-battle.json](./240406-super-hero-fighting-legends-anime-mortal-battle.json) |
 | Super Hero Flying School | 207875 | [207875-super-hero-flying-school.json](./207875-super-hero-flying-school.json) |
@@ -31520,6 +31533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Ange | 282666 | [282666-sweet-ange.json](./282666-sweet-ange.json) |
 | Sweet Animal Girls | 339471 | [339471-sweet-animal-girls.json](./339471-sweet-animal-girls.json) |
 | Sweet as Magic | 177907 | [177907-sweet-as-magic.json](./177907-sweet-as-magic.json) |
+| Sweet Baby Girl Beauty Salon 3 | 102529 | [102529-sweet-baby-girl-beauty-salon-3.json](./102529-sweet-baby-girl-beauty-salon-3.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
 | Sweet Baby Girl Cleanup 5 | 102617 | [102617-sweet-baby-girl-cleanup-5.json](./102617-sweet-baby-girl-cleanup-5.json) |
 | Sweet Baby Girl Cleanup 6 | 104497 | [104497-sweet-baby-girl-cleanup-6.json](./104497-sweet-baby-girl-cleanup-6.json) |
