@@ -7002,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Roll For Two | 178602 | [178602-chocolate-roll-for-two.json](./178602-chocolate-roll-for-two.json) |
 | Chocolate Shop Frenzy | 356687 | [356687-chocolate-shop-frenzy.json](./356687-chocolate-shop-frenzy.json) |
 | Chocolate Sunday | 269694 | [269694-chocolate-sunday.json](./269694-chocolate-sunday.json) |
+| Chocolate Tycoon | 65880 | [65880-chocolate-tycoon.json](./65880-chocolate-tycoon.json) |
 | Chocolatic Wars | 376685 | [376685-chocolatic-wars.json](./376685-chocolatic-wars.json) |
 | Chocolatier | 85999 | [85999-chocolatier.json](./85999-chocolatier.json) |
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
@@ -7608,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Etia: A Samhain Story | 173429 | [173429-chronicles-of-etia-a-samhain-story.json](./173429-chronicles-of-etia-a-samhain-story.json) |
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
 | Chronicles of Immortality in the Cloud Abyss | 379087 | [379087-chronicles-of-immortality-in-the-cloud-abyss.json](./379087-chronicles-of-immortality-in-the-cloud-abyss.json) |
+| Chronicles of Inotia: Legend of Feanor | 65876 | [65876-chronicles-of-inotia-legend-of-feanor.json](./65876-chronicles-of-inotia-legend-of-feanor.json) |
 | Chronicles of Lilith | 149833 | [149833-chronicles-of-lilith.json](./149833-chronicles-of-lilith.json) |
 | Chronicles of Lurra | 110644 | [110644-chronicles-of-lurra.json](./110644-chronicles-of-lurra.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
@@ -15892,6 +15894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Waves on the Emerald Sea: Amaranthine Moon | 309166 | [309166-crimson-waves-on-the-emerald-sea-amaranthine-moon.json](./309166-crimson-waves-on-the-emerald-sea-amaranthine-moon.json) |
 | Crimson Wheels | 196525 | [196525-crimson-wheels.json](./196525-crimson-wheels.json) |
 | Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
+| Crimson: Steam Pirates | 65710 | [65710-crimson-steam-pirates.json](./65710-crimson-steam-pirates.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimsonland | 7587 | [7587-crimsonland.json](./7587-crimsonland.json) |
 | Crimsonwood | 319680 | [319680-crimsonwood.json](./319680-crimsonwood.json) |
