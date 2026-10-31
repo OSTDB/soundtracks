@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik Reloaded | 115809 | [115809-oik-reloaded.json](./115809-oik-reloaded.json) |
 | Oika | 120848 | [120848-oika.json](./120848-oika.json) |
 | Oikizo | 366734 | [366734-oikizo.json](./366734-oikizo.json) |
+| Oikospiel | 115997 | [115997-oikospiel.json](./115997-oikospiel.json) |
 | Oil | 96192 | [96192-oil.json](./96192-oil.json) |
 | Oil and Sand | 311172 | [311172-oil-and-sand.json](./311172-oil-and-sand.json) |
 | Oil Baron | 109405 | [109405-oil-baron.json](./109405-oil-baron.json) |
