@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D. Jump | 91952 | [91952-d-jump.json](./91952-d-jump.json) |
 | D. the Atom Shifter | 110312 | [110312-d-the-atom-shifter.json](./110312-d-the-atom-shifter.json) |
 | D.A.: Pursuit of Justice | 100282 | [100282-d-a-pursuit-of-justice.json](./100282-d-a-pursuit-of-justice.json) |
+| D.A.: Pursuit of Justice - The Gatsby Diamond Jewelry Theft | 70731 | [70731-d-a-pursuit-of-justice-the-gatsby-diamond-jewelry-theft.json](./70731-d-a-pursuit-of-justice-the-gatsby-diamond-jewelry-theft.json) |
 | D.A.: Pursuit of Justice - The Sunset Boulevard Deuce | 71358 | [71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json](./71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json) |
 | D.A.D.S. | 381572 | [381572-d-a-d-s.json](./381572-d-a-d-s.json) |
 | D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
@@ -1159,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
 | Darfur is Dying | 172078 | [172078-darfur-is-dying.json](./172078-darfur-is-dying.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
+| Daria's Inferno | 70743 | [70743-darias-inferno.json](./70743-darias-inferno.json) |
 | Daring Academy | 211816 | [211816-daring-academy.json](./211816-daring-academy.json) |
 | Daring Dungeoneer | 143257 | [143257-daring-dungeoneer.json](./143257-daring-dungeoneer.json) |
 | Daris Venture | 266348 | [266348-daris-venture.json](./266348-daris-venture.json) |
@@ -1209,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age Gladiator | 274906 | [274906-dark-age-gladiator.json](./274906-dark-age-gladiator.json) |
 | Dark Age Legends | 244667 | [244667-dark-age-legends.json](./244667-dark-age-legends.json) |
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
+| Dark Age of Camelot: Darkness Rising | 70754 | [70754-dark-age-of-camelot-darkness-rising.json](./70754-dark-age-of-camelot-darkness-rising.json) |
 | Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
@@ -6170,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denpa-tou | 281944 | [281944-denpa-tou.json](./281944-denpa-tou.json) |
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
+| Densetsu no Ogre Battle: Zenobia no Ouji | 70738 | [70738-densetsu-no-ogre-battle-zenobia-no-ouji.json](./70738-densetsu-no-ogre-battle-zenobia-no-ouji.json) |
 | Densetsu no Quiz-ou Ketteisen | 3973 | [3973-densetsu-no-quiz-ou-ketteisen.json](./3973-densetsu-no-quiz-ou-ketteisen.json) |
 | Densetsu no Starfy | 176085 | [176085-densetsu-no-starfy.json](./176085-densetsu-no-starfy.json) |
 | Densetsu no Starfy | 6370 | [6370-densetsu-no-starfy.json](./6370-densetsu-no-starfy.json) |
