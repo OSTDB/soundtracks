@@ -15019,6 +15019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbler | 13448 | [13448-bubbler.json](./13448-bubbler.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
 | Bubbles & Pearls | 195362 | [195362-bubbles-and-pearls.json](./195362-bubbles-and-pearls.json) |
+| Bubbles Empire Champions | 108694 | [108694-bubbles-empire-champions.json](./108694-bubbles-empire-champions.json) |
 | Bubbles for Kids | 87289 | [87289-bubbles-for-kids.json](./87289-bubbles-for-kids.json) |
 | Bubbles in the Air | 347093 | [347093-bubbles-in-the-air.json](./347093-bubbles-in-the-air.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
