@@ -10131,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Lyoko: Fall of X.A.N.A. | 8454 | [8454-code-lyoko-fall-of-x-a-n-a.json](./8454-code-lyoko-fall-of-x-a-n-a.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
+| Code name Hell Squad | 78403 | [78403-code-name-hell-squad.json](./78403-code-name-hell-squad.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code Name: Alteon | 334529 | [334529-code-name-alteon.json](./334529-code-name-alteon.json) |
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
@@ -11515,6 +11516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Jumper | 110930 | [110930-combo-jumper.json](./110930-combo-jumper.json) |
 | Combo King | 185478 | [185478-combo-king.json](./185478-combo-king.json) |
 | Combo Master | 364711 | [364711-combo-master.json](./364711-combo-master.json) |
+| Combo Pack: Sonic Advance + Sonic Pinball Party | 78430 | [78430-combo-pack-sonic-advance-sonic-pinball-party.json](./78430-combo-pack-sonic-advance-sonic-pinball-party.json) |
 | Combo Pool | 177876 | [177876-combo-pool.json](./177876-combo-pool.json) |
 | Combo Postage | 112496 | [112496-combo-postage.json](./112496-combo-postage.json) |
 | Combo Queen | 46500 | [46500-combo-queen.json](./46500-combo-queen.json) |
@@ -13846,6 +13848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmotrons | 130675 | [130675-cosmotrons.json](./130675-cosmotrons.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
+| Cosplay Alien | 78407 | [78407-cosplay-alien.json](./78407-cosplay-alien.json) |
 | Cosplay Chu | 97771 | [97771-cosplay-chu.json](./97771-cosplay-chu.json) |
 | Cosplay Club | 220442 | [220442-cosplay-club.json](./220442-cosplay-club.json) |
 | Cosplay Convention Crisis | 102330 | [102330-cosplay-convention-crisis.json](./102330-cosplay-convention-crisis.json) |
@@ -17581,6 +17584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culcept Saga | 21498 | [21498-culcept-saga.json](./21498-culcept-saga.json) |
 | Culdcept | 138069 | [138069-culdcept.json](./138069-culdcept.json) |
 | Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
+| Culdcept | 78415 | [78415-culdcept.json](./78415-culdcept.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
 | Culdcept Expansion Plus | 45039 | [45039-culdcept-expansion-plus.json](./45039-culdcept-expansion-plus.json) |
 | Culdcept II | 137524 | [137524-culdcept-ii.json](./137524-culdcept-ii.json) |
