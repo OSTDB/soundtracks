@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xrodon | 62565 | [62565-xrodon.json](./62565-xrodon.json) |
 | Xross Dreams | 192593 | [192593-xross-dreams.json](./192593-xross-dreams.json) |
 | XRY | 103650 | [103650-xry.json](./103650-xry.json) |
+| XS | 78410 | [78410-xs.json](./78410-xs.json) |
 | XS Airboat Racing | 43942 | [43942-xs-airboat-racing.json](./43942-xs-airboat-racing.json) |
 | XS Junior League Dodgeball | 43943 | [43943-xs-junior-league-dodgeball.json](./43943-xs-junior-league-dodgeball.json) |
 | XS Junior League Football | 43944 | [43944-xs-junior-league-football.json](./43944-xs-junior-league-football.json) |
