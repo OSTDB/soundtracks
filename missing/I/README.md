@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impromptu Trip | 285910 | [285910-impromptu-trip.json](./285910-impromptu-trip.json) |
 | Improvise, Adapt, Overcome | 402802 | [402802-improvise-adapt-overcome.json](./402802-improvise-adapt-overcome.json) |
 | Improvised Tactics | 373866 | [373866-improvised-tactics.json](./373866-improvised-tactics.json) |
+| Improvisio | 92269 | [92269-improvisio.json](./92269-improvisio.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
 | Impulse | 173436 | [173436-impulse.json](./173436-impulse.json) |
 | Impulse | 257230 | [257230-impulse.json](./257230-impulse.json) |
@@ -3726,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial 2: New Stage | 107414 | [107414-initial-2-new-stage.json](./107414-initial-2-new-stage.json) |
 | Initial 2: New Stage & Xuan Yuan Sword Bundle | 268611 | [268611-initial-2-new-stage-and-xuan-yuan-sword-bundle.json](./268611-initial-2-new-stage-and-xuan-yuan-sword-bundle.json) |
 | Initial D | 43854 | [43854-initial-d.json](./43854-initial-d.json) |
+| Initial D Arcade Stage | 92218 | [92218-initial-d-arcade-stage.json](./92218-initial-d-arcade-stage.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
 | Initial D Arcade Stage 5 | 171294 | [171294-initial-d-arcade-stage-5.json](./171294-initial-d-arcade-stage-5.json) |
 | Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
