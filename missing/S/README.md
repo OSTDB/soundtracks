@@ -17695,6 +17695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30971,6 +30972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Fountain of Youth | 199136 | [199136-survival-fountain-of-youth.json](./199136-survival-fountain-of-youth.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
+| Survival: Man vs. Wild | 100492 | [100492-survival-man-vs-wild.json](./100492-survival-man-vs-wild.json) |
 | Survival: Man vs. Wild - Island Escape | 102685 | [102685-survival-man-vs-wild-island-escape.json](./102685-survival-man-vs-wild-island-escape.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
@@ -31546,6 +31548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet as Magic | 177907 | [177907-sweet-as-magic.json](./177907-sweet-as-magic.json) |
 | Sweet Baby Girl Beauty Salon 3 | 102529 | [102529-sweet-baby-girl-beauty-salon-3.json](./102529-sweet-baby-girl-beauty-salon-3.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
+| Sweet Baby Girl Cleanup 4 | 100516 | [100516-sweet-baby-girl-cleanup-4.json](./100516-sweet-baby-girl-cleanup-4.json) |
 | Sweet Baby Girl Cleanup 5 | 102617 | [102617-sweet-baby-girl-cleanup-5.json](./102617-sweet-baby-girl-cleanup-5.json) |
 | Sweet Baby Girl Cleanup 6 | 104497 | [104497-sweet-baby-girl-cleanup-6.json](./104497-sweet-baby-girl-cleanup-6.json) |
 | Sweet Baby Girl Doll House | 104487 | [104487-sweet-baby-girl-doll-house.json](./104487-sweet-baby-girl-doll-house.json) |
