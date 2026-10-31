@@ -6401,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Attack | 179300 | [179300-aliens-attack.json](./179300-aliens-attack.json) |
 | Aliens Don't Exist | 113526 | [113526-aliens-dont-exist.json](./113526-aliens-dont-exist.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
+| Aliens Extermination | 67769 | [67769-aliens-extermination.json](./67769-aliens-extermination.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens Hide | 419965 | [419965-aliens-hide.json](./419965-aliens-hide.json) |
 | Aliens In Chains | 233616 | [233616-aliens-in-chains.json](./233616-aliens-in-chains.json) |
