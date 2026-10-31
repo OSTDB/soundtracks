@@ -10735,6 +10735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTO 2 | 87783 | [87783-rto-2.json](./87783-rto-2.json) |
 | RTO 2 | 89729 | [89729-rto-2.json](./89729-rto-2.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
+| RTS Commander: Smash the Rebels | 83990 | [83990-rts-commander-smash-the-rebels.json](./83990-rts-commander-smash-the-rebels.json) |
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
 | RTS Hero | 380817 | [380817-rts-hero.json](./380817-rts-hero.json) |
 | RTS Quantum Chess | 181630 | [181630-rts-quantum-chess.json](./181630-rts-quantum-chess.json) |
