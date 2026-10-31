@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Peris es el Agente 00,5 | 323045 | [323045-james-peris-es-el-agente-00-5.json](./323045-james-peris-es-el-agente-00-5.json) |
 | James Pond 2: Codename - RoboCod | 230868 | [230868-james-pond-2-codename-robocod.json](./230868-james-pond-2-codename-robocod.json) |
 | James Pond 3: Operation Starfish | 368902 | [368902-james-pond-3-operation-starfish.json](./368902-james-pond-3-operation-starfish.json) |
+| James Pond in the Deathly Shallows | 65874 | [65874-james-pond-in-the-deathly-shallows.json](./65874-james-pond-in-the-deathly-shallows.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | James Town Courier Frog MD | 127820 | [127820-james-town-courier-frog-md.json](./127820-james-town-courier-frog-md.json) |
 | James: Masquerade Ball | 313623 | [313623-james-masquerade-ball.json](./313623-james-masquerade-ball.json) |
@@ -1444,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels II: The Ultimate Challenge | 72052 | [72052-jewels-ii-the-ultimate-challenge.json](./72052-jewels-ii-the-ultimate-challenge.json) |
 | Jewels Mania Adventure Star | 108512 | [108512-jewels-mania-adventure-star.json](./108512-jewels-mania-adventure-star.json) |
 | Jewels of Babylon | 14136 | [14136-jewels-of-babylon.json](./14136-jewels-of-babylon.json) |
+| Jewels of Cleopatra 2: Aztec Mysteries | 65724 | [65724-jewels-of-cleopatra-2-aztec-mysteries.json](./65724-jewels-of-cleopatra-2-aztec-mysteries.json) |
 | Jewels of Darkness: Adventure Quest | 39160 | [39160-jewels-of-darkness-adventure-quest.json](./39160-jewels-of-darkness-adventure-quest.json) |
 | Jewels of Darkness: Colossal Adventure | 39159 | [39159-jewels-of-darkness-colossal-adventure.json](./39159-jewels-of-darkness-colossal-adventure.json) |
 | Jewels of Darkness: Dungeon Adventure | 39158 | [39158-jewels-of-darkness-dungeon-adventure.json](./39158-jewels-of-darkness-dungeon-adventure.json) |
@@ -2031,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jirai-kei Menhera Danshi to Icha Love Pien Ichigo Tabetaai | 285874 | [285874-jirai-kei-menhera-danshi-to-icha-love-pien-ichigo-tabetaai.json](./285874-jirai-kei-menhera-danshi-to-icha-love-pien-ichigo-tabetaai.json) |
 | Jiří Kára Simulátor | 384219 | [384219-jiri-kara-simulator.json](./384219-jiri-kara-simulator.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
+| Jisedai Begoma Battle Beyblade | 65708 | [65708-jisedai-begoma-battle-beyblade.json](./65708-jisedai-begoma-battle-beyblade.json) |
 | Jisei: The First Case HD | 147719 | [147719-jisei-the-first-case-hd.json](./147719-jisei-the-first-case-hd.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
 | Jishou no Chihei Mendako | 150238 | [150238-jishou-no-chihei-mendako.json](./150238-jishou-no-chihei-mendako.json) |
@@ -2880,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juliäntli | 106408 | [106408-juliantli.json](./106408-juliantli.json) |
 | Juliette's Fashion Empire | 54162 | [54162-juliettes-fashion-empire.json](./54162-juliettes-fashion-empire.json) |
 | Julius | 405771 | [405771-julius.json](./405771-julius.json) |
+| Julius Styles: The International | 65732 | [65732-julius-styles-the-international.json](./65732-julius-styles-the-international.json) |
 | July | 200946 | [200946-july.json](./200946-july.json) |
 | July | 62243 | [62243-july.json](./62243-july.json) |
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
