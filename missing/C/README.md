@@ -12515,6 +12515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contact | 243837 | [243837-contact.json](./243837-contact.json) |
 | Contact | 357745 | [357745-contact.json](./357745-contact.json) |
 | Contact : Last Defence | 114868 | [114868-contact-last-defence.json](./114868-contact-last-defence.json) |
+| Contact Draw: Bowling | 104380 | [104380-contact-draw-bowling.json](./104380-contact-draw-bowling.json) |
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contact Protocol | 373878 | [373878-contact-protocol.json](./373878-contact-protocol.json) |
@@ -12903,6 +12904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
 | Cooking Simulator: Shelter | 168935 | [168935-cooking-simulator-shelter.json](./168935-cooking-simulator-shelter.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
+| Cooking Talent - Restaurant fever | 104376 | [104376-cooking-talent-restaurant-fever.json](./104376-cooking-talent-restaurant-fever.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
 | Cooking Train | 221375 | [221375-cooking-train.json](./221375-cooking-train.json) |
 | Cooking Trip | 117452 | [117452-cooking-trip.json](./117452-cooking-trip.json) |
