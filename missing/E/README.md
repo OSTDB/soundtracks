@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Taken 2 | 365133 | [365133-earth-taken-2.json](./365133-earth-taken-2.json) |
 | Earth Taken 3 | 365131 | [365131-earth-taken-3.json](./365131-earth-taken-3.json) |
 | Earth Under Siege | 17867 | [17867-earth-under-siege.json](./17867-earth-under-siege.json) |
+| Earth Universe | 74096 | [74096-earth-universe.json](./74096-earth-universe.json) |
 | Earth Vs Moon | 63206 | [63206-earth-vs-moon.json](./63206-earth-vs-moon.json) |
 | Earth vs. Mars | 333779 | [333779-earth-vs-mars.json](./333779-earth-vs-mars.json) |
 | Earth Warrior | 155853 | [155853-earth-warrior.json](./155853-earth-warrior.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egawa Suguru no Super League CD | 46385 | [46385-egawa-suguru-no-super-league-cd.json](./46385-egawa-suguru-no-super-league-cd.json) |
 | Egbert | 85903 | [85903-egbert.json](./85903-egbert.json) |
 | Egdar's Blobs | 177673 | [177673-egdars-blobs.json](./177673-egdars-blobs.json) |
+| EGE DistantPlanet NonXXX | 74127 | [74127-ege-distantplanet-nonxxx.json](./74127-ege-distantplanet-nonxxx.json) |
 | Eger | 200974 | [200974-eger.json](./200974-eger.json) |
 | Egg | 108799 | [108799-egg.json](./108799-egg.json) |
 | Egg | 231737 | [231737-egg.json](./231737-egg.json) |
@@ -2810,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Riot Response | 402562 | [402562-emergency-riot-response.json](./402562-emergency-riot-response.json) |
 | Emergency Robot Simulator | 102183 | [102183-emergency-robot-simulator.json](./102183-emergency-robot-simulator.json) |
 | Emergency Room | 73861 | [73861-emergency-room.json](./73861-emergency-room.json) |
+| Emergency Room 2 | 73980 | [73980-emergency-room-2.json](./73980-emergency-room-2.json) |
 | Emergency Room 3 | 73315 | [73315-emergency-room-3.json](./73315-emergency-room-3.json) |
 | Emergency Room Simulator | 253606 | [253606-emergency-room-simulator.json](./253606-emergency-room-simulator.json) |
 | Emergency Room: Code Blue | 201269 | [201269-emergency-room-code-blue.json](./201269-emergency-room-code-blue.json) |
@@ -3513,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless TD | 388515 | [388515-endless-td.json](./388515-endless-td.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
+| Endless Treasure Hunt | 74145 | [74145-endless-treasure-hunt.json](./74145-endless-treasure-hunt.json) |
 | Endless Truck | 261084 | [261084-endless-truck.json](./261084-endless-truck.json) |
 | Endless Turns | 117807 | [117807-endless-turns.json](./117807-endless-turns.json) |
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
