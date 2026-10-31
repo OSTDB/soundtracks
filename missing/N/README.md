@@ -4556,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Express | 173028 | [173028-ninja-express.json](./173028-ninja-express.json) |
 | Ninja Feet of Fury | 64102 | [64102-ninja-feet-of-fury.json](./64102-ninja-feet-of-fury.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
+| Ninja Fight: Shadow Legends | 108692 | [108692-ninja-fight-shadow-legends.json](./108692-ninja-fight-shadow-legends.json) |
 | Ninja Fighter | 200422 | [200422-ninja-fighter.json](./200422-ninja-fighter.json) |
 | Ninja Fishing | 228412 | [228412-ninja-fishing.json](./228412-ninja-fishing.json) |
 | Ninja Five-O | 287869 | [287869-ninja-five-o.json](./287869-ninja-five-o.json) |
