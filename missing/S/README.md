@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandman | 216305 | [216305-sandman.json](./216305-sandman.json) |
 | Sandman Academy | 95691 | [95691-sandman-academy.json](./95691-sandman-academy.json) |
 | Sandmason | 17278 | [17278-sandmason.json](./17278-sandmason.json) |
+| Sandmen | 117316 | [117316-sandmen.json](./117316-sandmen.json) |
 | Sandnight Hill Revelation | 382768 | [382768-sandnight-hill-revelation.json](./382768-sandnight-hill-revelation.json) |
 | Sandoria | 241890 | [241890-sandoria.json](./241890-sandoria.json) |
 | Sandpit | 259422 | [259422-sandpit.json](./259422-sandpit.json) |
@@ -1637,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa in the Ucube City | 282420 | [282420-santa-in-the-ucube-city.json](./282420-santa-in-the-ucube-city.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
+| Santa Monica By Night | 117284 | [117284-santa-monica-by-night.json](./117284-santa-monica-by-night.json) |
 | Santa Monica Paradise | 134482 | [134482-santa-monica-paradise.json](./134482-santa-monica-paradise.json) |
 | Santa Olympics | 175400 | [175400-santa-olympics.json](./175400-santa-olympics.json) |
 | Santa Paravia and Fiumaccio | 93011 | [93011-santa-paravia-and-fiumaccio.json](./93011-santa-paravia-and-fiumaccio.json) |
@@ -8118,6 +8120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
 | Shoot Shoot Cowboy! | 311230 | [311230-shoot-shoot-cowboy.json](./311230-shoot-shoot-cowboy.json) |
 | Shoot Shoot Mega Pack | 28506 | [28506-shoot-shoot-mega-pack.json](./28506-shoot-shoot-mega-pack.json) |
+| Shoot Shoot Nitori | 117286 | [117286-shoot-shoot-nitori.json](./117286-shoot-shoot-nitori.json) |
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot Star | 302221 | [302221-shoot-star.json](./302221-shoot-star.json) |
 | Shoot the Aliens | 330846 | [330846-shoot-the-aliens.json](./330846-shoot-the-aliens.json) |
@@ -8860,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Si Da Ming Bu | 93387 | [93387-si-da-ming-bu.json](./93387-si-da-ming-bu.json) |
 | Si Kancil : The Adventurous Mouse Deer | 31207 | [31207-si-kancil-the-adventurous-mouse-deer.json](./31207-si-kancil-the-adventurous-mouse-deer.json) |
+| Sì Shèng Chuánshuō 1 | 117339 | [117339-si-sheng-chuanshuo-1.json](./117339-si-sheng-chuanshuo-1.json) |
 | Si-Ki | 397848 | [397848-si-ki.json](./397848-si-ki.json) |
 | Siam | 375495 | [375495-siam.json](./375495-siam.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
@@ -17614,6 +17618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18193,6 +18198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Way | 72490 | [72490-space-way.json](./72490-space-way.json) |
 | Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
+| Space Whip | 117323 | [117323-space-whip.json](./117323-space-whip.json) |
 | Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
 | Space Will | 290384 | [290384-space-will.json](./290384-space-will.json) |
 | Space Wing Cadet | 244315 | [244315-space-wing-cadet.json](./244315-space-wing-cadet.json) |
@@ -25135,6 +25141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Artist Simulator | 211270 | [211270-street-artist-simulator.json](./211270-street-artist-simulator.json) |
 | Street Ball | 93465 | [93465-street-ball.json](./93465-street-ball.json) |
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
+| Street Basketball | 117301 | [117301-street-basketball.json](./117301-street-basketball.json) |
 | Street Basketball Club: Sport Throw Simulator | 273314 | [273314-street-basketball-club-sport-throw-simulator.json](./273314-street-basketball-club-sport-throw-simulator.json) |
 | Street Basketball Superstars | 227371 | [227371-street-basketball-superstars.json](./227371-street-basketball-superstars.json) |
 | Street Basketball: Premium Edition | 411839 | [411839-street-basketball-premium-edition.json](./411839-street-basketball-premium-edition.json) |
@@ -25881,6 +25888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stump Simulator 2 | 369909 | [369909-stump-simulator-2.json](./369909-stump-simulator-2.json) |
+| Stumper | 117337 | [117337-stumper.json](./117337-stumper.json) |
 | Stunner | 383152 | [383152-stunner.json](./383152-stunner.json) |
 | Stunt 2 Race: A Moto Bike Fast Racing | 96594 | [96594-stunt-2-race-a-moto-bike-fast-racing.json](./96594-stunt-2-race-a-moto-bike-fast-racing.json) |
 | Stunt Bike Extreme | 322447 | [322447-stunt-bike-extreme.json](./322447-stunt-bike-extreme.json) |
@@ -29833,6 +29841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Adventure | 385286 | [385286-super-star-adventure.json](./385286-super-star-adventure.json) |
 | Super Star Battle | 350332 | [350332-super-star-battle.json](./350332-super-star-battle.json) |
 | Super Star Battle Royale | 382973 | [382973-super-star-battle-royale.json](./382973-super-star-battle-royale.json) |
+| Super Star Blast | 117325 | [117325-super-star-blast.json](./117325-super-star-blast.json) |
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
@@ -30936,6 +30945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Digital Deluxe Edition | 28747 | [28747-surviving-mars-digital-deluxe-edition.json](./28747-surviving-mars-digital-deluxe-edition.json) |
 | Surviving Mars: First Colony Edition | 96491 | [96491-surviving-mars-first-colony-edition.json](./96491-surviving-mars-first-colony-edition.json) |
 | Surviving Mars: Future Contemporary Cosmetic Pack | 227330 | [227330-surviving-mars-future-contemporary-cosmetic-pack.json](./227330-surviving-mars-future-contemporary-cosmetic-pack.json) |
+| Surviving Mars: Green Planet | 117300 | [117300-surviving-mars-green-planet.json](./117300-surviving-mars-green-planet.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Mars: Marsvision Song Contest | 154933 | [154933-surviving-mars-marsvision-song-contest.json](./154933-surviving-mars-marsvision-song-contest.json) |
 | Surviving Mars: Martian Express | 199765 | [199765-surviving-mars-martian-express.json](./199765-surviving-mars-martian-express.json) |
