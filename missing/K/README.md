@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2681,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindvixen's | 296618 | [296618-kindvixens.json](./296618-kindvixens.json) |
 | Kine | 95225 | [95225-kine.json](./95225-kine.json) |
 | Kinect Adventures | 2657 | [2657-kinect-adventures.json](./2657-kinect-adventures.json) |
+| Kinect Bundle: Boom Ball 2 + Squid Hero | 82539 | [82539-kinect-bundle-boom-ball-2-squid-hero.json](./82539-kinect-bundle-boom-ball-2-squid-hero.json) |
 | Kinect Fun Labs | 22939 | [22939-kinect-fun-labs.json](./22939-kinect-fun-labs.json) |
 | Kinect Fun Labs: 5 Micro Lab Challenge | 294558 | [294558-kinect-fun-labs-5-micro-lab-challenge.json](./294558-kinect-fun-labs-5-micro-lab-challenge.json) |
 | Kinect Fun Labs: Air Band | 329731 | [329731-kinect-fun-labs-air-band.json](./329731-kinect-fun-labs-air-band.json) |
@@ -3450,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira Stars Idol Project Nagisa | 152614 | [152614-kirakira-stars-idol-project-nagisa.json](./152614-kirakira-stars-idol-project-nagisa.json) |
 | Kirakira Stars Idol Project Reika | 153830 | [153830-kirakira-stars-idol-project-reika.json](./153830-kirakira-stars-idol-project-reika.json) |
 | Kirameki Paradise | 225372 | [225372-kirameki-paradise.json](./225372-kirameki-paradise.json) |
+| Kirara Fantasia | 82561 | [82561-kirara-fantasia.json](./82561-kirara-fantasia.json) |
 | Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso! | 194584 | [194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json](./194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json) |
 | Kirarin Dash | 206582 | [206582-kirarin-dash.json](./206582-kirarin-dash.json) |
 | Kirarin Revolution: Atsumete Change! Qurukira Coord | 70417 | [70417-kirarin-revolution-atsumete-change-qurukira-coord.json](./70417-kirarin-revolution-atsumete-change-qurukira-coord.json) |
