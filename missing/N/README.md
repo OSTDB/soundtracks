@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | NEPO Missions | 374410 | [374410-nepo-missions.json](./374410-nepo-missions.json) |
 | Nepotism for Germany | 397276 | [397276-nepotism-for-germany.json](./397276-nepotism-for-germany.json) |
+| Neppachi Gold: CR Monster Mansion | 74811 | [74811-neppachi-gold-cr-monster-mansion.json](./74811-neppachi-gold-cr-monster-mansion.json) |
 | Neppachi: 10-renchan de Las Vegas Ryokou | 272455 | [272455-neppachi-10-renchan-de-las-vegas-ryokou.json](./272455-neppachi-10-renchan-de-las-vegas-ryokou.json) |
 | Neptune | 313451 | [313451-neptune.json](./313451-neptune.json) |
 | Neptune | 363812 | [363812-neptune.json](./363812-neptune.json) |
@@ -4853,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninjurate | 290639 | [290639-ninjurate.json](./290639-ninjurate.json) |
 | Ninki Seiyuu no Tsukurikata: Limited Edition | 167153 | [167153-ninki-seiyuu-no-tsukurikata-limited-edition.json](./167153-ninki-seiyuu-no-tsukurikata-limited-edition.json) |
+| Ninki Seiyuu: How to Make a Pop Voice Actress | 74827 | [74827-ninki-seiyuu-how-to-make-a-pop-voice-actress.json](./74827-ninki-seiyuu-how-to-make-a-pop-voice-actress.json) |
 | Ninku | 248111 | [248111-ninku.json](./248111-ninku.json) |
 | Ninku | 248113 | [248113-ninku.json](./248113-ninku.json) |
 | Ninku | 45256 | [45256-ninku.json](./45256-ninku.json) |
