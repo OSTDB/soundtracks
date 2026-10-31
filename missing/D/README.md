@@ -6418,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
 | Descenders | 52200 | [52200-descenders.json](./52200-descenders.json) |
 | Descenders Next | 312871 | [312871-descenders-next.json](./312871-descenders-next.json) |
+| Descending | 102518 | [102518-descending.json](./102518-descending.json) |
 | Descending | 315450 | [315450-descending.json](./315450-descending.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastation | 9274 | [9274-devastation.json](./9274-devastation.json) |
 | Devastation - Annihilate the Alien Race | 128927 | [128927-devastation-annihilate-the-alien-race.json](./128927-devastation-annihilate-the-alien-race.json) |
 | Devastation 2: Repatriation | 171747 | [171747-devastation-2-repatriation.json](./171747-devastation-2-repatriation.json) |
+| Devastator | 102496 | [102496-devastator.json](./102496-devastator.json) |
 | Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
 | Devastator Arena | 105210 | [105210-devastator-arena.json](./105210-devastator-arena.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
@@ -8602,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
 | Dino Cub | 188914 | [188914-dino-cub.json](./188914-dino-cub.json) |
 | Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
+| Dino Dan: Trek's Adventure | 102503 | [102503-dino-dan-treks-adventure.json](./102503-dino-dan-treks-adventure.json) |
 | Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
 | Dino Dana : Dino Express | 103670 | [103670-dino-dana-dino-express.json](./103670-dino-dana-dino-express.json) |
 | Dino Dana: Dino Exhibit | 100697 | [100697-dino-dana-dino-exhibit.json](./100697-dino-dana-dino-exhibit.json) |
@@ -14037,6 +14040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakojan Skies: Mission 2 | 404218 | [404218-drakojan-skies-mission-2.json](./404218-drakojan-skies-mission-2.json) |
 | Drakojan Skies: Mission 3 | 404221 | [404221-drakojan-skies-mission-3.json](./404221-drakojan-skies-mission-3.json) |
 | Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
+| Drakomon - Battle & Catch Monster Dragon RPG Games | 102539 | [102539-drakomon-battle-and-catch-monster-dragon-rpg-games.json](./102539-drakomon-battle-and-catch-monster-dragon-rpg-games.json) |
 | Drakomon Legends | 95658 | [95658-drakomon-legends.json](./95658-drakomon-legends.json) |
 | Drakomon Legends: Monster Dragon Battle RPG Games | 175049 | [175049-drakomon-legends-monster-dragon-battle-rpg-games.json](./175049-drakomon-legends-monster-dragon-battle-rpg-games.json) |
 | Drakton | 40096 | [40096-drakton.json](./40096-drakton.json) |
@@ -14099,6 +14103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
 | Draw Chilly | 104808 | [104808-draw-chilly.json](./104808-draw-chilly.json) |
 | Draw From Earth | 163914 | [163914-draw-from-earth.json](./163914-draw-from-earth.json) |
+| Draw In | 102528 | [102528-draw-in.json](./102528-draw-in.json) |
 | Draw In Maze 2 | 235146 | [235146-draw-in-maze-2.json](./235146-draw-in-maze-2.json) |
 | Draw in the Tray | 380627 | [380627-draw-in-the-tray.json](./380627-draw-in-the-tray.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
