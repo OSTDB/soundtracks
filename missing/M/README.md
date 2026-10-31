@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Me Real: Worthlessness Selected | 278314 | [278314-make-me-real-worthlessness-selected.json](./278314-make-me-real-worthlessness-selected.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
+| Make More! | 95125 | [95125-make-more.json](./95125-make-more.json) |
 | Make My Car | 346227 | [346227-make-my-car.json](./346227-make-my-car.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
 | Make New Way | 296222 | [296222-make-new-way.json](./296222-make-new-way.json) |
