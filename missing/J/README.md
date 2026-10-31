@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: F-15 | 73498 | [73498-janes-combat-simulations-f-15.json](./73498-janes-combat-simulations-f-15.json) |
 | Jane's Combat Simulations: Fighters Anthology | 70020 | [70020-janes-combat-simulations-fighters-anthology.json](./70020-janes-combat-simulations-fighters-anthology.json) |
 | Jane's Combat Simulations: Israeli Air Force | 72071 | [72071-janes-combat-simulations-israeli-air-force.json](./72071-janes-combat-simulations-israeli-air-force.json) |
+| Jane's Combat Simulations: Longbow 2 | 71953 | [71953-janes-combat-simulations-longbow-2.json](./71953-janes-combat-simulations-longbow-2.json) |
 | Jane's Combat Simulations: Longbow Gold | 73363 | [73363-janes-combat-simulations-longbow-gold.json](./73363-janes-combat-simulations-longbow-gold.json) |
 | Jane's Combat Simulations: Naval Warfare Collection | 73637 | [73637-janes-combat-simulations-naval-warfare-collection.json](./73637-janes-combat-simulations-naval-warfare-collection.json) |
 | Jane's Combat Simulations: U.S. Navy Fighters '97 | 50346 | [50346-janes-combat-simulations-u-s-navy-fighters-97.json](./50346-janes-combat-simulations-u-s-navy-fighters-97.json) |
