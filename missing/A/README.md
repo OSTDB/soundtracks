@@ -4642,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIeyes | 177275 | [177275-aieyes.json](./177275-aieyes.json) |
 | Aigiina no Yogen: From the Legend of Balubalouk | 73806 | [73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json](./73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json) |
 | Aigor Escape from Bishop | 127825 | [127825-aigor-escape-from-bishop.json](./127825-aigor-escape-from-bishop.json) |
+| Aik's Cheese Adventures | 98712 | [98712-aiks-cheese-adventures.json](./98712-aiks-cheese-adventures.json) |
 | Aikagi | 127116 | [127116-aikagi.json](./127116-aikagi.json) |
 | Aikagi 2 | 127934 | [127934-aikagi-2.json](./127934-aikagi-2.json) |
 | Aikagi 2: Limited Edition | 166226 | [166226-aikagi-2-limited-edition.json](./166226-aikagi-2-limited-edition.json) |
@@ -4961,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airball | 2302 | [2302-airball.json](./2302-airball.json) |
 | Airballs | 278081 | [278081-airballs.json](./278081-airballs.json) |
 | AirBlade | 8231 | [8231-airblade.json](./8231-airblade.json) |
+| Airbo | 98716 | [98716-airbo.json](./98716-airbo.json) |
 | AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
 | Airborn | 114234 | [114234-airborn.json](./114234-airborn.json) |
 | Airborn: Piño's Journey | 60474 | [60474-airborn-pinos-journey.json](./60474-airborn-pinos-journey.json) |
