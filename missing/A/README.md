@@ -7641,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Cooking Simulator: Multiplayer | 392810 | [392810-american-cooking-simulator-multiplayer.json](./392810-american-cooking-simulator-multiplayer.json) |
 | American Crisis | 247341 | [247341-american-crisis.json](./247341-american-crisis.json) |
 | American Dad vs. Family Guy: Kung-Fu II Turbo! Hyper-Mega Edition | 64478 | [64478-american-dad-vs-family-guy-kung-fu-ii-turbo-hyper-mega-edition.json](./64478-american-dad-vs-family-guy-kung-fu-ii-turbo-hyper-mega-edition.json) |
+| American Dad! Apocalypse Soon | 121197 | [121197-american-dad-apocalypse-soon.json](./121197-american-dad-apocalypse-soon.json) |
 | American Dad! Pinball | 88806 | [88806-american-dad-pinball.json](./88806-american-dad-pinball.json) |
 | American Deer Hunter | 206112 | [206112-american-deer-hunter.json](./206112-american-deer-hunter.json) |
 | American Deer Hunting 2000 | 360143 | [360143-american-deer-hunting-2000.json](./360143-american-deer-hunting-2000.json) |
@@ -14848,6 +14849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Digital Deluxe Edition | 221777 | [221777-atelier-ryza-ever-darkness-and-the-secret-hideout-digital-deluxe-edition.json](./221777-atelier-ryza-ever-darkness-and-the-secret-hideout-digital-deluxe-edition.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Klaudia's Story "Atelier Klaudia" | 168940 | [168940-atelier-ryza-ever-darkness-and-the-secret-hideout-klaudias-story-atelier-klaudia.json](./168940-atelier-ryza-ever-darkness-and-the-secret-hideout-klaudias-story-atelier-klaudia.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Lent's Story "True Strength" | 168944 | [168944-atelier-ryza-ever-darkness-and-the-secret-hideout-lents-story-true-strength.json](./168944-atelier-ryza-ever-darkness-and-the-secret-hideout-lents-story-true-strength.json) |
+| Atelier Ryza: Ever Darkness & the Secret Hideout - Limited Edition | 121224 | [121224-atelier-ryza-ever-darkness-and-the-secret-hideout-limited-edition.json](./121224-atelier-ryza-ever-darkness-and-the-secret-hideout-limited-edition.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Premium Box | 136823 | [136823-atelier-ryza-ever-darkness-and-the-secret-hideout-premium-box.json](./136823-atelier-ryza-ever-darkness-and-the-secret-hideout-premium-box.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Special Collection Box | 136675 | [136675-atelier-ryza-ever-darkness-and-the-secret-hideout-special-collection-box.json](./136675-atelier-ryza-ever-darkness-and-the-secret-hideout-special-collection-box.json) |
@@ -15324,6 +15326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATYI | 335512 | [335512-atyi.json](./335512-atyi.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au | 360915 | [360915-au.json](./360915-au.json) |
+| Au fil de l'eau | 121217 | [121217-au-fil-de-leau.json](./121217-au-fil-de-leau.json) |
 | Au Naturel | 70853 | [70853-au-naturel.json](./70853-au-naturel.json) |
 | Au Pays des PooYoos: Activités d'Éveil | 408976 | [408976-au-pays-des-pooyoos-activites-deveil.json](./408976-au-pays-des-pooyoos-activites-deveil.json) |
 | Au Revoir | 307878 | [307878-au-revoir.json](./307878-au-revoir.json) |
