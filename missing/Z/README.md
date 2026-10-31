@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
+| Zara the Fastest Fairy | 117959 | [117959-zara-the-fastest-fairy.json](./117959-zara-the-fastest-fairy.json) |
 | Zaraq | 319054 | [319054-zaraq.json](./319054-zaraq.json) |
 | Zarathrusta | 28514 | [28514-zarathrusta.json](./28514-zarathrusta.json) |
 | Zarathustra: Cybergeddon | 276096 | [276096-zarathustra-cybergeddon.json](./276096-zarathustra-cybergeddon.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Spring Episode 1 | 112125 | [112125-zero-spring-episode-1.json](./112125-zero-spring-episode-1.json) |
 | Zero spring episode 2 | 112370 | [112370-zero-spring-episode-2.json](./112370-zero-spring-episode-2.json) |
 | Zero spring episode 3 | 114305 | [114305-zero-spring-episode-3.json](./114305-zero-spring-episode-3.json) |
+| Zero Strain | 118002 | [118002-zero-strain.json](./118002-zero-strain.json) |
 | Zero Stress King: Idle Defense | 389938 | [389938-zero-stress-king-idle-defense.json](./389938-zero-stress-king-idle-defense.json) |
 | Zero Sum | 406149 | [406149-zero-sum.json](./406149-zero-sum.json) |
 | Zero Sum Future | 107751 | [107751-zero-sum-future.json](./107751-zero-sum-future.json) |
