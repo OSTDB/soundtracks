@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13113,6 +13114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boykisser Mayhem | 268332 | [268332-boykisser-mayhem.json](./268332-boykisser-mayhem.json) |
 | Boys Be | 166447 | [166447-boys-be.json](./166447-boys-be.json) |
 | Boys Be 2nd Season | 166448 | [166448-boys-be-2nd-season.json](./166448-boys-be-2nd-season.json) |
+| Boys Only Club | 73576 | [73576-boys-only-club.json](./73576-boys-only-club.json) |
 | Boys Race | 315811 | [315811-boys-race.json](./315811-boys-race.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Boys Work | 186188 | [186188-boys-work.json](./186188-boys-work.json) |
@@ -14989,6 +14991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
 | Bubble Ball! | 276240 | [276240-bubble-ball.json](./276240-bubble-ball.json) |
+| Bubble Bash | 73570 | [73570-bubble-bash.json](./73570-bubble-bash.json) |
 | Bubble Bash 2 | 239463 | [239463-bubble-bash-2.json](./239463-bubble-bash-2.json) |
 | Bubble Bath Babes | 48677 | [48677-bubble-bath-babes.json](./48677-bubble-bath-babes.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
