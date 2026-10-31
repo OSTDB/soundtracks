@@ -5079,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airlock FireFight | 143985 | [143985-airlock-firefight.json](./143985-airlock-firefight.json) |
 | AirLoveEngine | 366128 | [366128-airloveengine.json](./366128-airloveengine.json) |
 | Airman X | 233180 | [233180-airman-x.json](./233180-airman-x.json) |
+| Airmash | 82558 | [82558-airmash.json](./82558-airmash.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | AirMech: Command | 19899 | [19899-airmech-command.json](./19899-airmech-command.json) |
 | Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
