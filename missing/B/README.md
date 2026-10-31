@@ -874,7 +874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4124,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleZ | 236235 | [236235-battlez.json](./236235-battlez.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
 | Battlezone | 294546 | [294546-battlezone.json](./294546-battlezone.json) |
+| Battlezone 2 Remastered | 86456 | [86456-battlezone-2-remastered.json](./86456-battlezone-2-remastered.json) |
 | Battlezone 2: Combat Commander | 24122 | [24122-battlezone-2-combat-commander.json](./24122-battlezone-2-combat-commander.json) |
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
 | Battlezone 98 Redux | 20076 | [20076-battlezone-98-redux.json](./20076-battlezone-98-redux.json) |
