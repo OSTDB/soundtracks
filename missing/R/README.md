@@ -4578,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant II | 228535 | [228535-remnant-ii.json](./228535-remnant-ii.json) |
 | Remnant II: The Dark Horizon | 317619 | [317619-remnant-ii-the-dark-horizon.json](./317619-remnant-ii-the-dark-horizon.json) |
 | Remnant II: The Forgotten Kingdom | 297261 | [297261-remnant-ii-the-forgotten-kingdom.json](./297261-remnant-ii-the-forgotten-kingdom.json) |
+| Remnant Knights | 65715 | [65715-remnant-knights.json](./65715-remnant-knights.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
 | Remnant Records | 198688 | [198688-remnant-records.json](./198688-remnant-records.json) |
 | Remnant: From the Ashes - Complete Edition | 164747 | [164747-remnant-from-the-ashes-complete-edition.json](./164747-remnant-from-the-ashes-complete-edition.json) |
