@@ -3677,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
 | Aether Story | 138474 | [138474-aether-story.json](./138474-aether-story.json) |
+| Aether Wars | 115288 | [115288-aether-wars.json](./115288-aether-wars.json) |
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
 | Aether-07 | 403317 | [403317-aether-07.json](./403317-aether-07.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
@@ -3960,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife: The Game | 318851 | [318851-afterlife-the-game.json](./318851-afterlife-the-game.json) |
 | Afterlife: The Second Dimension | 150554 | [150554-afterlife-the-second-dimension.json](./150554-afterlife-the-second-dimension.json) |
 | Afterlifes | 118086 | [118086-afterlifes.json](./118086-afterlifes.json) |
+| Afterlight | 115295 | [115295-afterlight.json](./115295-afterlight.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
 | Afterlight: The Apartment | 414805 | [414805-afterlight-the-apartment.json](./414805-afterlight-the-apartment.json) |
@@ -5576,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemia | 58040 | [58040-alchemia.json](./58040-alchemia.json) |
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
+| Alchemic Dungeons DX | 115273 | [115273-alchemic-dungeons-dx.json](./115273-alchemic-dungeons-dx.json) |
 | Alchemic Jousts | 26097 | [26097-alchemic-jousts.json](./26097-alchemic-jousts.json) |
 | Alchemic Maze | 82492 | [82492-alchemic-maze.json](./82492-alchemic-maze.json) |
 | Alchemic Phone, Pocket Alchemy | 390763 | [390763-alchemic-phone-pocket-alchemy.json](./390763-alchemic-phone-pocket-alchemy.json) |
@@ -6745,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allison's Diary: Rebirth | 112771 | [112771-allisons-diary-rebirth.json](./112771-allisons-diary-rebirth.json) |
 | AllKnowing Idol Jesus | 328401 | [328401-allknowing-idol-jesus.json](./328401-allknowing-idol-jesus.json) |
 | Allkpop Allstar | 59657 | [59657-allkpop-allstar.json](./59657-allkpop-allstar.json) |
+| Allkvam Merchant | 115319 | [115319-allkvam-merchant.json](./115319-allkvam-merchant.json) |
 | AlllCall | 266366 | [266366-alllcall.json](./266366-alllcall.json) |
 | Allods Online | 13157 | [13157-allods-online.json](./13157-allods-online.json) |
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
@@ -7351,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Gears | 88087 | [88087-amaze-gears.json](./88087-amaze-gears.json) |
 | Amaze Gears 2 | 125095 | [125095-amaze-gears-2.json](./125095-amaze-gears-2.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
+| Amaze Lunar | 115320 | [115320-amaze-lunar.json](./115320-amaze-lunar.json) |
 | Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
 | Amaze Untouchable | 81960 | [81960-amaze-untouchable.json](./81960-amaze-untouchable.json) |
 | Amaze Valentine | 230121 | [230121-amaze-valentine.json](./230121-amaze-valentine.json) |
@@ -10824,6 +10829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatic Pursuits Bundle | 271826 | [271826-aquatic-pursuits-bundle.json](./271826-aquatic-pursuits-bundle.json) |
 | Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
 | Aquatic Store Simulator | 321547 | [321547-aquatic-store-simulator.json](./321547-aquatic-store-simulator.json) |
+| Aquatica | 115326 | [115326-aquatica.json](./115326-aquatica.json) |
 | Aquatico | 199129 | [199129-aquatico.json](./199129-aquatico.json) |
 | Aquatico: Founder's Pack | 231002 | [231002-aquatico-founders-pack.json](./231002-aquatico-founders-pack.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
@@ -15541,6 +15547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurorae | 287796 | [287796-aurorae.json](./287796-aurorae.json) |
 | AuroraRL | 33607 | [33607-aurorarl.json](./33607-aurorarl.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
+| Aurore: Five Princes | 115316 | [115316-aurore-five-princes.json](./115316-aurore-five-princes.json) |
 | Aurrery | 74871 | [74871-aurrery.json](./74871-aurrery.json) |
 | Aurule Dynasty | 406856 | [406856-aurule-dynasty.json](./406856-aurule-dynasty.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
