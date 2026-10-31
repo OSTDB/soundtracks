@@ -3528,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni no Kuni II: Revenant Kingdom - Adventure Pack | 154454 | [154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json](./154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json) |
 | Ni no Kuni II: Revenant Kingdom - Collector's Edition | 136358 | [136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json](./136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Day One Edition | 136325 | [136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json](./136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json) |
+| Ni no Kuni II: Revenant Kingdom - Labyrinth of the Ghost King | 111334 | [111334-ni-no-kuni-ii-revenant-kingdom-labyrinth-of-the-ghost-king.json](./111334-ni-no-kuni-ii-revenant-kingdom-labyrinth-of-the-ghost-king.json) |
 | Ni no Kuni II: Revenant Kingdom - Premium Edition | 136328 | [136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json](./136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
@@ -5062,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Blink Allowed | 400560 | [400560-no-blink-allowed.json](./400560-no-blink-allowed.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
 | No Body | 211674 | [211674-no-body.json](./211674-no-body.json) |
+| No Body Home | 111338 | [111338-no-body-home.json](./111338-no-body-home.json) |
 | No Brake No Gain | 345283 | [345283-no-brake-no-gain.json](./345283-no-brake-no-gain.json) |
 | No Brakes | 273544 | [273544-no-brakes.json](./273544-no-brakes.json) |
 | No Brakes io | 263582 | [263582-no-brakes-io.json](./263582-no-brakes-io.json) |
