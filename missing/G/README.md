@@ -9106,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
 | GT Racing 2: The Real Car Experience | 38939 | [38939-gt-racing-2-the-real-car-experience.json](./38939-gt-racing-2-the-real-car-experience.json) |
 | GT Racing 97 | 84212 | [84212-gt-racing-97.json](./84212-gt-racing-97.json) |
+| GT Racing Challenge | 79014 | [79014-gt-racing-challenge.json](./79014-gt-racing-challenge.json) |
 | GT Racing: Motor Academy | 372779 | [372779-gt-racing-motor-academy.json](./372779-gt-racing-motor-academy.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GT Rivals | 410437 | [410437-gt-rivals.json](./410437-gt-rivals.json) |
