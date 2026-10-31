@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Safari | 205979 | [205979-virtual-safari.json](./205979-virtual-safari.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
 | Virtual Silence | 94014 | [94014-virtual-silence.json](./94014-virtual-silence.json) |
+| Virtual Sister Happy Mom Newborn Baby Family Game | 95783 | [95783-virtual-sister-happy-mom-newborn-baby-family-game.json](./95783-virtual-sister-happy-mom-newborn-baby-family-game.json) |
 | Virtual Skate | 349108 | [349108-virtual-skate.json](./349108-virtual-skate.json) |
 | Virtual Skate: Winter Update | 380593 | [380593-virtual-skate-winter-update.json](./380593-virtual-skate-winter-update.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
@@ -3643,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Tennis Online | 53016 | [53016-vr-tennis-online.json](./53016-vr-tennis-online.json) |
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
 | VR Thrills | 257804 | [257804-vr-thrills.json](./257804-vr-thrills.json) |
+| VR Time Machine Dinosaur Park (+ Cardboard) | 95785 | [95785-vr-time-machine-dinosaur-park-cardboard.json](./95785-vr-time-machine-dinosaur-park-cardboard.json) |
 | VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400 | 150648 | [150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json](./150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json) |
 | VR Titanic: Find the Rose | 156958 | [156958-vr-titanic-find-the-rose.json](./156958-vr-titanic-find-the-rose.json) |
 | VR TKA Surgery Simulator | 278946 | [278946-vr-tka-surgery-simulator.json](./278946-vr-tka-surgery-simulator.json) |
