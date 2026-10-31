@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Round at the End of the World | 404087 | [404087-last-round-at-the-end-of-the-world.json](./404087-last-round-at-the-end-of-the-world.json) |
 | Last Ruler of Vicissity | 236173 | [236173-last-ruler-of-vicissity.json](./236173-last-ruler-of-vicissity.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
+| Last Santa Standing | 77719 | [77719-last-santa-standing.json](./77719-last-santa-standing.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
 | Last Scenario | 124549 | [124549-last-scenario.json](./124549-last-scenario.json) |
 | Last Second | 215338 | [215338-last-second.json](./215338-last-second.json) |
