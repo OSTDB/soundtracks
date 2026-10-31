@@ -2232,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story: Kyoushin no Miyako | 61971 | [61971-farland-story-kyoushin-no-miyako.json](./61971-farland-story-kyoushin-no-miyako.json) |
 | Farland Story: Shirogane no Tsubasa | 79121 | [79121-farland-story-shirogane-no-tsubasa.json](./79121-farland-story-shirogane-no-tsubasa.json) |
 | Farland Story: Tenshi no Namida | 69694 | [69694-farland-story-tenshi-no-namida.json](./69694-farland-story-tenshi-no-namida.json) |
+| Farland Story: The Four Seal | 70758 | [70758-farland-story-the-four-seal.json](./70758-farland-story-the-four-seal.json) |
 | Farlanders | 144018 | [144018-farlanders.json](./144018-farlanders.json) |
 | Farlands | 236859 | [236859-farlands.json](./236859-farlands.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
