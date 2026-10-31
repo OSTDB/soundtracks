@@ -7950,6 +7950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelTown | 183283 | [183283-pixeltown.json](./183283-pixeltown.json) |
 | PixelTown | 194144 | [194144-pixeltown.json](./194144-pixeltown.json) |
 | Pixeltroid | 321673 | [321673-pixeltroid.json](./321673-pixeltroid.json) |
+| Pixelum | 90301 | [90301-pixelum.json](./90301-pixelum.json) |
 | Pixelus | 209383 | [209383-pixelus.json](./209383-pixelus.json) |
 | Pixelus Deluxe | 94582 | [94582-pixelus-deluxe.json](./94582-pixelus-deluxe.json) |
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
