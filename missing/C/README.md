@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caelum: Into the Sky | 91202 | [91202-caelum-into-the-sky.json](./91202-caelum-into-the-sky.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar | 7416 | [7416-caesar.json](./7416-caesar.json) |
+| Caesar Bubbles | 106883 | [106883-caesar-bubbles.json](./106883-caesar-bubbles.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
 | Caesar II | 7509 | [7509-caesar-ii.json](./7509-caesar-ii.json) |
 | Caesar Palace Slots | 200504 | [200504-caesar-palace-slots.json](./200504-caesar-palace-slots.json) |
