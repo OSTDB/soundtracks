@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juvenate | 366104 | [366104-juvenate.json](./366104-juvenate.json) |
 | Juvenile God | 123562 | [123562-juvenile-god.json](./123562-juvenile-god.json) |
 | Juvenile Power Fantasy | 413459 | [413459-juvenile-power-fantasy.json](./413459-juvenile-power-fantasy.json) |
+| JuVentures | 81804 | [81804-juventures.json](./81804-juventures.json) |
 | Juventus Club Football | 267879 | [267879-juventus-club-football.json](./267879-juventus-club-football.json) |
 | Juventus Club Football 2005 | 267900 | [267900-juventus-club-football-2005.json](./267900-juventus-club-football-2005.json) |
 | Juxtagram | 320838 | [320838-juxtagram.json](./320838-juxtagram.json) |
