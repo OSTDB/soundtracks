@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Architect | 374108 | [374108-realm-architect.json](./374108-realm-architect.json) |
 | Realm Battle | 104399 | [104399-realm-battle.json](./104399-realm-battle.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
+| Realm Defense: Hero Legends TD | 83320 | [83320-realm-defense-hero-legends-td.json](./83320-realm-defense-hero-legends-td.json) |
 | Realm Drifter | 309714 | [309714-realm-drifter.json](./309714-realm-drifter.json) |
 | Realm Grinder | 36721 | [36721-realm-grinder.json](./36721-realm-grinder.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
