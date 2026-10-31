@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Line | 168559 | [168559-hajwala-line.json](./168559-hajwala-line.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hajwala Qatar | 370432 | [370432-hajwala-qatar.json](./370432-hajwala-qatar.json) |
+| Hakabyou: Kuwabiyau | 108146 | [108146-hakabyou-kuwabiyau.json](./108146-hakabyou-kuwabiyau.json) |
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
 | Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuchuumu no Bibouroku | 376630 | [376630-hakuchuumu-no-bibouroku.json](./376630-hakuchuumu-no-bibouroku.json) |
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
+| Hakuin Tenshi | 108124 | [108124-hakuin-tenshi.json](./108124-hakuin-tenshi.json) |
 | Hakuisei Renai Shoukougun | 115480 | [115480-hakuisei-renai-shoukougun.json](./115480-hakuisei-renai-shoukougun.json) |
 | Hakunetsu Pro Yakyuu '94 Ganba League 3 | 38173 | [38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json](./38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json) |
 | Hakunetsu Pro Yakyuu Ganba League '93 | 38174 | [38174-hakunetsu-pro-yakyuu-ganba-league-93.json](./38174-hakunetsu-pro-yakyuu-ganba-league-93.json) |
@@ -4138,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello! From Hallowville | 178573 | [178573-hello-from-hallowville.json](./178573-hello-from-hallowville.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
 | Hello! Taxi | 307790 | [307790-hello-taxi.json](./307790-hello-taxi.json) |
+| Hello? Hell... o? | 108140 | [108140-hello-hell-o.json](./108140-hello-hell-o.json) |
 | Hellokids: Vol. 1 - Coloring and Painting | 84524 | [84524-hellokids-vol-1-coloring-and-painting.json](./84524-hellokids-vol-1-coloring-and-painting.json) |
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | HelloWorldFactory | 276841 | [276841-helloworldfactory.json](./276841-helloworldfactory.json) |
