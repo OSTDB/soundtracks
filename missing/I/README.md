@@ -3457,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Realms | 61705 | [61705-infinite-realms.json](./61705-infinite-realms.json) |
 | Infinite Rebirth | 337673 | [337673-infinite-rebirth.json](./337673-infinite-rebirth.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
+| Infinite road | 107495 | [107495-infinite-road.json](./107495-infinite-road.json) |
 | Infinite Roads | 245261 | [245261-infinite-roads.json](./245261-infinite-roads.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
@@ -4297,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligence: Anime Girls | 101638 | [101638-intelligence-anime-girls.json](./101638-intelligence-anime-girls.json) |
 | Intelligence: Cats | 106335 | [106335-intelligence-cats.json](./106335-intelligence-cats.json) |
 | Intelligence: Dinosaurs | 105277 | [105277-intelligence-dinosaurs.json](./105277-intelligence-dinosaurs.json) |
+| Intelligence: Dogs | 107521 | [107521-intelligence-dogs.json](./107521-intelligence-dogs.json) |
 | Intelligence: Underwater Kingdom | 110955 | [110955-intelligence-underwater-kingdom.json](./110955-intelligence-underwater-kingdom.json) |
 | Intelligent Design: An Evolutionary Sandbox | 36478 | [36478-intelligent-design-an-evolutionary-sandbox.json](./36478-intelligent-design-an-evolutionary-sandbox.json) |
 | Intelligent Destruction | 384165 | [384165-intelligent-destruction.json](./384165-intelligent-destruction.json) |
