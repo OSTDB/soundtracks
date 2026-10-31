@@ -9697,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Game Society | 150254 | [150254-the-hidden-game-society.json](./150254-the-hidden-game-society.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
 | The Hidden Object Collection | 146730 | [146730-the-hidden-object-collection.json](./146730-the-hidden-object-collection.json) |
+| The Hidden Object Mystery Game | 97047 | [97047-the-hidden-object-mystery-game.json](./97047-the-hidden-object-mystery-game.json) |
 | The Hidden Object Show | 53744 | [53744-the-hidden-object-show.json](./53744-the-hidden-object-show.json) |
 | The Hidden Object Show Seasons 1 & 2 | 207010 | [207010-the-hidden-object-show-seasons-1-and-2.json](./207010-the-hidden-object-show-seasons-1-and-2.json) |
 | The Hidden Object Show: Season 2 | 207009 | [207009-the-hidden-object-show-season-2.json](./207009-the-hidden-object-show-season-2.json) |
@@ -13599,6 +13600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Planner: Farming | 53764 | [53764-the-planner-farming.json](./53764-the-planner-farming.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
 | The Plant Shop | 381089 | [381089-the-plant-shop.json](./381089-the-plant-shop.json) |
+| The Platformer Gun | 97085 | [97085-the-platformer-gun.json](./97085-the-platformer-gun.json) |
 | The Platypus' Search | 103116 | [103116-the-platypus-search.json](./103116-the-platypus-search.json) |
 | The Play | 216574 | [216574-the-play.json](./216574-the-play.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
@@ -29026,6 +29028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Fit | 259965 | [259965-try-to-fit.json](./259965-try-to-fit.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Remember | 150409 | [150409-try-to-remember.json](./150409-try-to-remember.json) |
+| Try to seize me | 97075 | [97075-try-to-seize-me.json](./97075-try-to-seize-me.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Try to Survive! | 172379 | [172379-try-to-survive.json](./172379-try-to-survive.json) |
 | Try to Wake Up : The Legend of Trevis | 296337 | [296337-try-to-wake-up-the-legend-of-trevis.json](./296337-try-to-wake-up-the-legend-of-trevis.json) |
