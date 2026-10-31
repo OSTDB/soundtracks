@@ -12412,6 +12412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | Slippery Sausage | 127594 | [127594-slippery-sausage.json](./127594-slippery-sausage.json) |
 | Slippery Sid | 255769 | [255769-slippery-sid.json](./255769-slippery-sid.json) |
+| Slippery Slides | 119254 | [119254-slippery-slides.json](./119254-slippery-slides.json) |
 | Slippery Words | 208925 | [208925-slippery-words.json](./208925-slippery-words.json) |
 | Slippy Bear | 337746 | [337746-slippy-bear.json](./337746-slippy-bear.json) |
 | Slippy Santa | 185515 | [185515-slippy-santa.json](./185515-slippy-santa.json) |
@@ -12713,6 +12714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Radios Big Televisions | 24458 | [24458-small-radios-big-televisions.json](./24458-small-radios-big-televisions.json) |
 | Small Rage | 125789 | [125789-small-rage.json](./125789-small-rage.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
+| Small Saga | 119278 | [119278-small-saga.json](./119278-small-saga.json) |
 | Small Sister | 105631 | [105631-small-sister.json](./105631-small-sister.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
 | Small Soldiers | 200402 | [200402-small-soldiers.json](./200402-small-soldiers.json) |
@@ -14409,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softie | 321304 | [321304-softie.json](./321304-softie.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
+| Softporn II | 119281 | [119281-softporn-ii.json](./119281-softporn-ii.json) |
 | Softris | 221360 | [221360-softris.json](./221360-softris.json) |
 | Softstar Games Bundle | 231783 | [231783-softstar-games-bundle.json](./231783-softstar-games-bundle.json) |
 | Software Company | 190355 | [190355-software-company.json](./190355-software-company.json) |
