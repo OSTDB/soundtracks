@@ -13432,7 +13432,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
 | Corpse Craft | 63753 | [63753-corpse-craft.json](./63753-corpse-craft.json) |
 | Corpse Disaster: Survivors | 238372 | [238372-corpse-disaster-survivors.json](./238372-corpse-disaster-survivors.json) |
-| Corpse Factory | 152055 | [152055-corpse-factory.json](./152055-corpse-factory.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
 | Corpse Killer: 25th Anniversary Edition | 119715 | [119715-corpse-killer-25th-anniversary-edition.json](./119715-corpse-killer-25th-anniversary-edition.json) |
