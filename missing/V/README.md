@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers 3 CE | 104452 | [104452-viking-brothers-3-ce.json](./104452-viking-brothers-3-ce.json) |
 | Viking Brothers III | 99458 | [99458-viking-brothers-iii.json](./99458-viking-brothers-iii.json) |
 | Viking Brothers IV | 99436 | [99436-viking-brothers-iv.json](./99436-viking-brothers-iv.json) |
+| Viking Brothers V | 117340 | [117340-viking-brothers-v.json](./117340-viking-brothers-v.json) |
 | Viking Brothers VI | 122588 | [122588-viking-brothers-vi.json](./122588-viking-brothers-vi.json) |
 | Viking Brothers VI: Collector's Edition | 416149 | [416149-viking-brothers-vi-collectors-edition.json](./416149-viking-brothers-vi-collectors-edition.json) |
 | Viking Butcher | 137278 | [137278-viking-butcher.json](./137278-viking-butcher.json) |
