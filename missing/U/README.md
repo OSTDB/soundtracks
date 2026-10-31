@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
+| UglyDolls: An Imperfect Adventure | 115313 | [115313-uglydolls-an-imperfect-adventure.json](./115313-uglydolls-an-imperfect-adventure.json) |
 | Ugmania | 368675 | [368675-ugmania.json](./368675-ugmania.json) |
 | Ugokasou! Chibi Kyara Koubou | 222060 | [222060-ugokasou-chibi-kyara-koubou.json](./222060-ugokasou-chibi-kyara-koubou.json) |
 | Ugoku E Ver. 2.0: Aryol | 44427 | [44427-ugoku-e-ver-2-0-aryol.json](./44427-ugoku-e-ver-2-0-aryol.json) |
