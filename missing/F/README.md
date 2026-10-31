@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
 | Farmula Grain Prix | 237577 | [237577-farmula-grain-prix.json](./237577-farmula-grain-prix.json) |
 | Farmville | 9765 | [9765-farmville.json](./9765-farmville.json) |
+| FarmVille 2 | 77743 | [77743-farmville-2.json](./77743-farmville-2.json) |
 | FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
 | FarmVille 2: Tropic Escape | 243841 | [243841-farmville-2-tropic-escape.json](./243841-farmville-2-tropic-escape.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
