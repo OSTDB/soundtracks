@@ -4500,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Soccer | 24634 | [24634-international-soccer.json](./24634-international-soccer.json) |
 | International Soccer | 320986 | [320986-international-soccer.json](./320986-international-soccer.json) |
 | International Soccer Challenge | 15041 | [15041-international-soccer-challenge.json](./15041-international-soccer-challenge.json) |
+| International Soccer Excite Stage 2000 | 74806 | [74806-international-soccer-excite-stage-2000.json](./74806-international-soccer-excite-stage-2000.json) |
 | International Space Banana | 145335 | [145335-international-space-banana.json](./145335-international-space-banana.json) |
 | International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
 | International Sports Challenge | 69783 | [69783-international-sports-challenge.json](./69783-international-sports-challenge.json) |
