@@ -5438,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes and Monsters II | 382848 | [382848-heroes-and-monsters-ii.json](./382848-heroes-and-monsters-ii.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes and Titans: Online | 286432 | [286432-heroes-and-titans-online.json](./286432-heroes-and-titans-online.json) |
+| Heroes Arena | 103040 | [103040-heroes-arena.json](./103040-heroes-arena.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
 | Heroes Charge | 19210 | [19210-heroes-charge.json](./19210-heroes-charge.json) |
 | Heroes Chronicles: All Chapters | 124971 | [124971-heroes-chronicles-all-chapters.json](./124971-heroes-chronicles-all-chapters.json) |
