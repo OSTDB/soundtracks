@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Neo Geo Cup '98 - The Road to the Victory | 118573 | [118573-aca-neo-geo-neo-geo-cup-98-the-road-to-the-victory.json](./118573-aca-neo-geo-neo-geo-cup-98-the-road-to-the-victory.json) |
 | ACA Neo Geo: Ninja Combat | 103852 | [103852-aca-neo-geo-ninja-combat.json](./103852-aca-neo-geo-ninja-combat.json) |
+| ACA Neo Geo: Ninja Commando | 109235 | [109235-aca-neo-geo-ninja-commando.json](./109235-aca-neo-geo-ninja-commando.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Over Top | 28500 | [28500-aca-neo-geo-over-top.json](./28500-aca-neo-geo-over-top.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
