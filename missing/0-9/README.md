@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 out of 10: Tables | 14195 | [14195-10-out-of-10-tables.json](./14195-10-out-of-10-tables.json) |
 | 10 Pin Shuffle Bowling | 261319 | [261319-10-pin-shuffle-bowling.json](./261319-10-pin-shuffle-bowling.json) |
 | 10 Pin Shuffle Pro Bowling | 88351 | [88351-10-pin-shuffle-pro-bowling.json](./88351-10-pin-shuffle-pro-bowling.json) |
+| 10 Puzzle | 82571 | [82571-10-puzzle.json](./82571-10-puzzle.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
 | 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
 | 10 Second Ninja | 9848 | [9848-10-second-ninja.json](./9848-10-second-ninja.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-in-1 Award Winning Indie Gems | 331453 | [331453-4-in-1-award-winning-indie-gems.json](./331453-4-in-1-award-winning-indie-gems.json) |
 | 4-in-1 Fun Pak | 69787 | [69787-4-in-1-fun-pak.json](./69787-4-in-1-fun-pak.json) |
 | 4-in-1 Funpak Volume II | 93553 | [93553-4-in-1-funpak-volume-ii.json](./93553-4-in-1-funpak-volume-ii.json) |
+| 4-in-1 IQ Scale Bundle | 82532 | [82532-4-in-1-iq-scale-bundle.json](./82532-4-in-1-iq-scale-bundle.json) |
 | 4-in-1 Version 1 | 106313 | [106313-4-in-1-version-1.json](./106313-4-in-1-version-1.json) |
 | 4-in-1 Version 2 | 106314 | [106314-4-in-1-version-2.json](./106314-4-in-1-version-2.json) |
 | 4-in-1 Version 3 | 106315 | [106315-4-in-1-version-3.json](./106315-4-in-1-version-3.json) |
