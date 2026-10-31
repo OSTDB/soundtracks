@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yum Yum Line | 147266 | [147266-yum-yum-line.json](./147266-yum-yum-line.json) |
 | Yum Yum! Dating Show | 204456 | [204456-yum-yum-dating-show.json](./204456-yum-yum-dating-show.json) |
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
+| Yum, Yum, Panda Fun | 95757 | [95757-yum-yum-panda-fun.json](./95757-yum-yum-panda-fun.json) |
 | Yum! Finger | 243710 | [243710-yum-finger.json](./243710-yum-finger.json) |
 | Yum's Farm | 375857 | [375857-yums-farm.json](./375857-yums-farm.json) |
 | Yuma Nest | 296960 | [296960-yuma-nest.json](./296960-yuma-nest.json) |
