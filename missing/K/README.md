@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
 | Kaette Kita Tanteidan X | 356060 | [356060-kaette-kita-tanteidan-x.json](./356060-kaette-kita-tanteidan-x.json) |
 | Kaettekita Cyborg Kuro Chan | 44734 | [44734-kaettekita-cyborg-kuro-chan.json](./44734-kaettekita-cyborg-kuro-chan.json) |
+| Kaettekita Mario Bros. | 67043 | [67043-kaettekita-mario-bros.json](./67043-kaettekita-mario-bros.json) |
 | Kaettekita Pachio-kun Dream Collection | 59510 | [59510-kaettekita-pachio-kun-dream-collection.json](./59510-kaettekita-pachio-kun-dream-collection.json) |
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
 | Kafak | 390234 | [390234-kafak.json](./390234-kafak.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Parkour | 206556 | [206556-kanji-parkour.json](./206556-kanji-parkour.json) |
 | Kanji RPG | 223794 | [223794-kanji-rpg.json](./223794-kanji-rpg.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
+| Kanji Sono Mama Rakubiki Jiten | 67029 | [67029-kanji-sono-mama-rakubiki-jiten.json](./67029-kanji-sono-mama-rakubiki-jiten.json) |
 | Kanji Swipe: Sliding Puzzle | 174293 | [174293-kanji-swipe-sliding-puzzle.json](./174293-kanji-swipe-sliding-puzzle.json) |
 | Kanji Trainer Portable | 56749 | [56749-kanji-trainer-portable.json](./56749-kanji-trainer-portable.json) |
 | Kanji Training Game | 34583 | [34583-kanji-training-game.json](./34583-kanji-training-game.json) |
@@ -4782,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Kids Playground: Frogger Hop, Skip & Jumpin' Fun | 67754 | [67754-konami-kids-playground-frogger-hop-skip-and-jumpin-fun.json](./67754-konami-kids-playground-frogger-hop-skip-and-jumpin-fun.json) |
 | Konami Kids Playground: Toy Pals Fun with Numbers | 67753 | [67753-konami-kids-playground-toy-pals-fun-with-numbers.json](./67753-konami-kids-playground-toy-pals-fun-with-numbers.json) |
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
+| Konami Wai-wai World | 67013 | [67013-konami-wai-wai-world.json](./67013-konami-wai-wai-world.json) |
 | Konami's Billiards | 41740 | [41740-konamis-billiards.json](./41740-konamis-billiards.json) |
 | Konami's Mahjong | 41745 | [41745-konamis-mahjong.json](./41745-konamis-mahjong.json) |
 | Konami's Mahjong 2 | 41774 | [41774-konamis-mahjong-2.json](./41774-konamis-mahjong-2.json) |
