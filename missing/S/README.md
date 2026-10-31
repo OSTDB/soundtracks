@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadistic Medicine | 130034 | [130034-sadistic-medicine.json](./130034-sadistic-medicine.json) |
 | Sadko | 397674 | [397674-sadko.json](./397674-sadko.json) |
 | Sadlands | 284580 | [284580-sadlands.json](./284580-sadlands.json) |
+| Sadness | 92754 | [92754-sadness.json](./92754-sadness.json) |
 | Sadness & Solitude | 61149 | [61149-sadness-and-solitude.json](./61149-sadness-and-solitude.json) |
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
@@ -21304,6 +21305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSB Scene Creator | 328342 | [328342-ssb-scene-creator.json](./328342-ssb-scene-creator.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SShield Reborn | 90176 | [90176-sshield-reborn.json](./90176-sshield-reborn.json) |
+| SSN-21 Seawolf | 92778 | [92778-ssn-21-seawolf.json](./92778-ssn-21-seawolf.json) |
 | sspp03's Super Mario Bros. Hack | 322818 | [322818-sspp03s-super-mario-bros-hack.json](./322818-sspp03s-super-mario-bros-hack.json) |
 | SSR Wives: The Murder Of My Winter Crush | 296468 | [296468-ssr-wives-the-murder-of-my-winter-crush.json](./296468-ssr-wives-the-murder-of-my-winter-crush.json) |
 | SSS: Super Scrap Sandbox - Become a Mechanic | 100904 | [100904-sss-super-scrap-sandbox-become-a-mechanic.json](./100904-sss-super-scrap-sandbox-become-a-mechanic.json) |
@@ -29437,6 +29439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pig X | 119623 | [119623-super-pig-x.json](./119623-super-pig-x.json) |
 | Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pika Land Ultra: Chocolate Version | 223022 | [223022-super-pika-land-ultra-chocolate-version.json](./223022-super-pika-land-ultra-chocolate-version.json) |
+| Super PileUp! | 92801 | [92801-super-pileup.json](./92801-super-pileup.json) |
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pinball Action | 40119 | [40119-super-pinball-action.json](./40119-super-pinball-action.json) |
 | Super Pinball Adventure | 365250 | [365250-super-pinball-adventure.json](./365250-super-pinball-adventure.json) |
@@ -30131,6 +30134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
+| Super Tank Simulator | 92780 | [92780-super-tank-simulator.json](./92780-super-tank-simulator.json) |
 | Super Tanooki Goomba | 323180 | [323180-super-tanooki-goomba.json](./323180-super-tanooki-goomba.json) |
 | Super Teacher: The Crazy School | 209856 | [209856-super-teacher-the-crazy-school.json](./209856-super-teacher-the-crazy-school.json) |
 | Super Team Games | 48232 | [48232-super-team-games.json](./48232-super-team-games.json) |
