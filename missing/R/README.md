@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising Archangel | 256133 | [256133-raising-archangel.json](./256133-raising-archangel.json) |
 | Raising Dead | 116960 | [116960-raising-dead.json](./116960-raising-dead.json) |
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
+| Raising the Flag on Mount Yo Momma | 78402 | [78402-raising-the-flag-on-mount-yo-momma.json](./78402-raising-the-flag-on-mount-yo-momma.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raisond'etre | 324849 | [324849-raisondetre.json](./324849-raisondetre.json) |
 | Raivo | 161514 | [161514-raivo.json](./161514-raivo.json) |
@@ -8448,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
 | Rock Band Country Track Pack 2 | 91206 | [91206-rock-band-country-track-pack-2.json](./91206-rock-band-country-track-pack-2.json) |
+| Rock Band Reloaded | 78429 | [78429-rock-band-reloaded.json](./78429-rock-band-reloaded.json) |
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
 | Rock Band Simulator | 409076 | [409076-rock-band-simulator.json](./409076-rock-band-simulator.json) |
 | Rock Band Track Pack: Classic Rock | 91207 | [91207-rock-band-track-pack-classic-rock.json](./91207-rock-band-track-pack-classic-rock.json) |
