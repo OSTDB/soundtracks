@@ -10804,6 +10804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby Dreams: Immortal Promise | 298375 | [298375-ruby-dreams-immortal-promise.json](./298375-ruby-dreams-immortal-promise.json) |
 | Ruby Heart | 159871 | [159871-ruby-heart.json](./159871-ruby-heart.json) |
 | Ruby Journey | 337734 | [337734-ruby-journey.json](./337734-ruby-journey.json) |
+| Ruby Maze Adventure | 88698 | [88698-ruby-maze-adventure.json](./88698-ruby-maze-adventure.json) |
 | Ruby Rei | 109514 | [109514-ruby-rei.json](./109514-ruby-rei.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
 | Ruby Square: logical puzzle game | 96741 | [96741-ruby-square-logical-puzzle-game.json](./96741-ruby-square-logical-puzzle-game.json) |
