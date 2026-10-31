@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T21:26:37.122Z",
-  "total_soundtracks": 2770,
+  "generated_at": "2026-10-31T21:35:55.727Z",
+  "total_soundtracks": 2772,
   "games": [
     {
       "igdb_id": 7522,
@@ -26447,6 +26447,20 @@
       ]
     },
     {
+      "igdb_id": 75799,
+      "game_name": "Speed Dating for Ghosts",
+      "game_url": "https://ostdb.net/games/speed-dating-for-ghosts",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27364130052fd584effb20c5414",
+      "albums": [
+        {
+          "album_name": "Speed Dating for Ghosts (Original Game Expansion Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2BnlXmtJB5MjXx7HLuZoYJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 112870,
       "game_name": "Spellbreak",
       "game_url": "https://ostdb.net/games/spellbreak",
@@ -34849,6 +34863,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/hyper-commission-2-0-zenless-zone-zero-original-soundtrack/1873964895?uo=4",
           "album_link_url": "https://album.link/i/1873964895"
+        }
+      ]
+    },
+    {
+      "igdb_id": 146042,
+      "game_name": "Zero Hour",
+      "game_url": "https://ostdb.net/games/zero-hour",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f95ba6275b01bd6870ee3871",
+      "albums": [
+        {
+          "album_name": "Zero Hour (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/78grn7ajDNq2yqqPsH3bqS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
