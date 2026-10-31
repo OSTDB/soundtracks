@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
 | Mage's Maze Play: Inma no Doukutsu ni Idomu Boukensha | 175659 | [175659-mages-maze-play-inma-no-doukutsu-ni-idomu-boukensha.json](./175659-mages-maze-play-inma-no-doukutsu-ni-idomu-boukensha.json) |
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
+| Magebuster: Amorous Augury | 119263 | [119263-magebuster-amorous-augury.json](./119263-magebuster-amorous-augury.json) |
 | MageCosmos | 192005 | [192005-magecosmos.json](./192005-magecosmos.json) |
 | Magecraft | 247913 | [247913-magecraft.json](./247913-magecraft.json) |
 | MageCraft | 244147 | [244147-magecraft.json](./244147-magecraft.json) |
@@ -3955,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars 3D | 159197 | [159197-mars-3d.json](./159197-mars-3d.json) |
 | Mars Accident | 157477 | [157477-mars-accident.json](./157477-mars-accident.json) |
 | Mars After Midnight | 151949 | [151949-mars-after-midnight.json](./151949-mars-after-midnight.json) |
+| Mars Alive | 119279 | [119279-mars-alive.json](./119279-mars-alive.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
 | Mars Attracts | 314419 | [314419-mars-attracts.json](./314419-mars-attracts.json) |
 | Mars Base | 194273 | [194273-mars-base.json](./194273-mars-base.json) |
