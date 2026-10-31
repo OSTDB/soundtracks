@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Defense | 295230 | [295230-egg-defense.json](./295230-egg-defense.json) |
 | Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
+| Egg Escape | 116708 | [116708-egg-escape.json](./116708-egg-escape.json) |
 | Egg Fighters | 244813 | [244813-egg-fighters.json](./244813-egg-fighters.json) |
 | Egg Finder | 360457 | [360457-egg-finder.json](./360457-egg-finder.json) |
 | Egg Fly | 191011 | [191011-egg-fly.json](./191011-egg-fly.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Wicked | 157982 | [157982-empire-of-the-wicked.json](./157982-empire-of-the-wicked.json) |
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
+| Empire Patron | 116696 | [116696-empire-patron.json](./116696-empire-patron.json) |
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
 | Empire Soccer 94 | 12065 | [12065-empire-soccer-94.json](./12065-empire-soccer-94.json) |
 | Empire Takeover | 173015 | [173015-empire-takeover.json](./173015-empire-takeover.json) |
