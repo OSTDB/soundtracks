@@ -9999,6 +9999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Dungeons | 138510 | [138510-divine-dungeons.json](./138510-divine-dungeons.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
+| Divine Gate | 77747 | [77747-divine-gate.json](./77747-divine-gate.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
 | Divine Grimoire | 121205 | [121205-divine-grimoire.json](./121205-divine-grimoire.json) |
 | Divine Guardian | 260874 | [260874-divine-guardian.json](./260874-divine-guardian.json) |
@@ -15164,6 +15165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drinking Tea (with the Trans Boy You Secretly Have a Crush On) | 225519 | [225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json](./225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json) |
+| Drinko | 77710 | [77710-drinko.json](./77710-drinko.json) |
 | Drinks Company Tycoon | 173053 | [173053-drinks-company-tycoon.json](./173053-drinks-company-tycoon.json) |
 | Drinks Down Under | 291384 | [291384-drinks-down-under.json](./291384-drinks-down-under.json) |
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
