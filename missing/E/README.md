@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggman Strikes | 330956 | [330956-eggman-strikes.json](./330956-eggman-strikes.json) |
 | Eggnogg+ | 50288 | [50288-eggnogg.json](./50288-eggnogg.json) |
 | Eggo | 358469 | [358469-eggo.json](./358469-eggo.json) |
+| Eggo | 76337 | [76337-eggo.json](./76337-eggo.json) |
 | Eggomania | 22765 | [22765-eggomania.json](./22765-eggomania.json) |
 | Eggor | 40114 | [40114-eggor.json](./40114-eggor.json) |
 | Eggoria | 118367 | [118367-eggoria.json](./118367-eggoria.json) |
