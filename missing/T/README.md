@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Wind: Radiant Rebirth | 334888 | [334888-tales-of-wind-radiant-rebirth.json](./334888-tales-of-wind-radiant-rebirth.json) |
 | Tales of Winds: Tomb of the Sol Empire | 74484 | [74484-tales-of-winds-tomb-of-the-sol-empire.json](./74484-tales-of-winds-tomb-of-the-sol-empire.json) |
 | Tales of Windy Land | 66046 | [66046-tales-of-windy-land.json](./66046-tales-of-windy-land.json) |
+| Tales of Xillia / Tales of Xillia 2 | 98731 | [98731-tales-of-xillia-tales-of-xillia-2.json](./98731-tales-of-xillia-tales-of-xillia-2.json) |
 | Tales of Xillia 2 | 1213 | [1213-tales-of-xillia-2.json](./1213-tales-of-xillia-2.json) |
 | Tales of Xillia Remastered | 361791 | [361791-tales-of-xillia-remastered.json](./361791-tales-of-xillia-remastered.json) |
 | Tales of Xillia Remastered: Deluxe Edition | 365550 | [365550-tales-of-xillia-remastered-deluxe-edition.json](./365550-tales-of-xillia-remastered-deluxe-edition.json) |
