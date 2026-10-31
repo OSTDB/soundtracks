@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Chemistry Lab | 239819 | [239819-virtual-chemistry-lab.json](./239819-virtual-chemistry-lab.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
 | Virtual Chess | 93198 | [93198-virtual-chess.json](./93198-virtual-chess.json) |
+| Virtual Chess 2 | 73061 | [73061-virtual-chess-2.json](./73061-virtual-chess-2.json) |
 | Virtual Chess 3 | 206059 | [206059-virtual-chess-3.json](./206059-virtual-chess-3.json) |
 | Virtual Chess 64 | 3334 | [3334-virtual-chess-64.json](./3334-virtual-chess-64.json) |
 | Virtual Circuit Board | 197500 | [197500-virtual-circuit-board.json](./197500-virtual-circuit-board.json) |
