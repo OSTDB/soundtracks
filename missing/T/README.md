@@ -6823,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
 | The Complex: Found Footage | 197192 | [197192-the-complex-found-footage.json](./197192-the-complex-found-footage.json) |
 | The Compunaut & the Meaning of Life | 347294 | [347294-the-compunaut-and-the-meaning-of-life.json](./347294-the-compunaut-and-the-meaning-of-life.json) |
+| The Computer Quiz | 78999 | [78999-the-computer-quiz.json](./78999-the-computer-quiz.json) |
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
 | The Con Simulator | 100559 | [100559-the-con-simulator.json](./100559-the-con-simulator.json) |
@@ -10021,7 +10022,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Gravure for You! Vol. 2 | 79977 | [79977-the-idolmaster-gravure-for-you-vol-2.json](./79977-the-idolmaster-gravure-for-you-vol-2.json) |
 | The Idolmaster: Gravure for You! Vol. 3 | 79979 | [79979-the-idolmaster-gravure-for-you-vol-3.json](./79979-the-idolmaster-gravure-for-you-vol-3.json) |
 | The Idolmaster: Gravure for You! Vol. 4 | 79978 | [79978-the-idolmaster-gravure-for-you-vol-4.json](./79978-the-idolmaster-gravure-for-you-vol-4.json) |
+| The Idolmaster: Gravure for You! Vol. 5 | 79047 | [79047-the-idolmaster-gravure-for-you-vol-5.json](./79047-the-idolmaster-gravure-for-you-vol-5.json) |
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
+| The Idolmaster: Gravure for You! Vol. 7 | 79048 | [79048-the-idolmaster-gravure-for-you-vol-7.json](./79048-the-idolmaster-gravure-for-you-vol-7.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Gravure for You! Vol. 9 | 56399 | [56399-the-idolmaster-gravure-for-you-vol-9.json](./56399-the-idolmaster-gravure-for-you-vol-9.json) |
 | The Idolmaster: Live For You! | 7015 | [7015-the-idolmaster-live-for-you.json](./7015-the-idolmaster-live-for-you.json) |
@@ -18189,6 +18192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThinkExplosive | 265274 | [265274-thinkexplosive.json](./265274-thinkexplosive.json) |
 | ThinkFast | 133005 | [133005-thinkfast.json](./133005-thinkfast.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
+| Thinkin' Things Collection 1 | 79004 | [79004-thinkin-things-collection-1.json](./79004-thinkin-things-collection-1.json) |
 | Thinkin' Things Collection 2 | 70086 | [70086-thinkin-things-collection-2.json](./70086-thinkin-things-collection-2.json) |
 | Thinkin' Things Collection 3 | 78954 | [78954-thinkin-things-collection-3.json](./78954-thinkin-things-collection-3.json) |
 | Thinkin' Things: All Around Frippletown | 264464 | [264464-thinkin-things-all-around-frippletown.json](./264464-thinkin-things-all-around-frippletown.json) |
@@ -21585,6 +21589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
 | Tiny Troopers: Joint Ops | 21320 | [21320-tiny-troopers-joint-ops.json](./21320-tiny-troopers-joint-ops.json) |
+| Tiny Troops | 79041 | [79041-tiny-troops.json](./79041-tiny-troops.json) |
 | Tiny Turnip | 340853 | [340853-tiny-turnip.json](./340853-tiny-turnip.json) |
 | Tiny Tycoons | 63671 | [63671-tiny-tycoons.json](./63671-tiny-tycoons.json) |
 | Tiny Utopia | 390175 | [390175-tiny-utopia.json](./390175-tiny-utopia.json) |
@@ -22269,6 +22274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: Moon Escape | 366607 | [366607-together-moon-escape.json](./366607-together-moon-escape.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
+| Togo Dave | 79027 | [79027-togo-dave.json](./79027-togo-dave.json) |
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | ToHeart: Extra Stories - Serio & Masashi | 351148 | [351148-toheart-extra-stories-serio-and-masashi.json](./351148-toheart-extra-stories-serio-and-masashi.json) |
@@ -23315,6 +23321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear 2 | 13057 | [13057-top-gear-2.json](./13057-top-gear-2.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
 | Top Gear Pocket | 93431 | [93431-top-gear-pocket.json](./93431-top-gear-pocket.json) |
+| Top Gear Pocket 2 | 78875 | [78875-top-gear-pocket-2.json](./78875-top-gear-pocket-2.json) |
 | Top Gear Rally | 248591 | [248591-top-gear-rally.json](./248591-top-gear-rally.json) |
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
 | Top Gear: Caravan Crush | 402325 | [402325-top-gear-caravan-crush.json](./402325-top-gear-caravan-crush.json) |
@@ -23437,8 +23444,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topple Zip | 41316 | [41316-topple-zip.json](./41316-topple-zip.json) |
 | Toppled | 288099 | [288099-toppled.json](./288099-toppled.json) |
 | TopplePop: Bungee Blockbusters | 124211 | [124211-topplepop-bungee-blockbusters.json](./124211-topplepop-bungee-blockbusters.json) |
+| Toppler | 79002 | [79002-toppler.json](./79002-toppler.json) |
 | Toppluva | 237005 | [237005-toppluva.json](./237005-toppluva.json) |
 | Topplz | 277714 | [277714-topplz.json](./277714-topplz.json) |
+| Topps Bunt | 79001 | [79001-topps-bunt.json](./79001-topps-bunt.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
 | Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
@@ -28911,6 +28920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucker Horror | 336499 | [336499-trucker-horror.json](./336499-trucker-horror.json) |
 | Trucker Transporter 2 - Parking Simulator | 89516 | [89516-trucker-transporter-2-parking-simulator.json](./89516-trucker-transporter-2-parking-simulator.json) |
 | Trucker's Dynasty - Cuba Libre | 122002 | [122002-truckers-dynasty-cuba-libre.json](./122002-truckers-dynasty-cuba-libre.json) |
+| Truckers Delight Episode 1 | 79034 | [79034-truckers-delight-episode-1.json](./79034-truckers-delight-episode-1.json) |
 | Truckers Double Pack | 142764 | [142764-truckers-double-pack.json](./142764-truckers-double-pack.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
