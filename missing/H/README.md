@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
 | Happy Racing - Top Wheels Game | 91350 | [91350-happy-racing-top-wheels-game.json](./91350-happy-racing-top-wheels-game.json) |
 | Happy Rider 2 | 95789 | [95789-happy-rider-2.json](./95789-happy-rider-2.json) |
+| Happy Rider Wheels | 95737 | [95737-happy-rider-wheels.json](./95737-happy-rider-wheels.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Runner | 359929 | [359929-happy-runner.json](./359929-happy-runner.json) |
 | Happy Saint Sheol | 250495 | [250495-happy-saint-sheol.json](./250495-happy-saint-sheol.json) |
@@ -4219,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellycoaster | 177453 | [177453-hellycoaster.json](./177453-hellycoaster.json) |
 | Helm Knight 2 | 108702 | [108702-helm-knight-2.json](./108702-helm-knight-2.json) |
 | Helm Realm | 126497 | [126497-helm-realm.json](./126497-helm-realm.json) |
+| Helm Space Corps | 95753 | [95753-helm-space-corps.json](./95753-helm-space-corps.json) |
 | Helmet | 231727 | [231727-helmet.json](./231727-helmet.json) |
 | Helmet | 91702 | [91702-helmet.json](./91702-helmet.json) |
 | Helmet Head | 391662 | [391662-helmet-head.json](./391662-helmet-head.json) |
@@ -6588,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Rule | 361341 | [361341-hidden-rule.json](./361341-hidden-rule.json) |
 | Hidden Runaway | 54091 | [54091-hidden-runaway.json](./54091-hidden-runaway.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
+| Hidden Secrets 2 | 95756 | [95756-hidden-secrets-2.json](./95756-hidden-secrets-2.json) |
 | Hidden Secrets: The Nightmare | 209901 | [209901-hidden-secrets-the-nightmare.json](./209901-hidden-secrets-the-nightmare.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Series 2 | 274371 | [274371-hidden-series-2.json](./274371-hidden-series-2.json) |
