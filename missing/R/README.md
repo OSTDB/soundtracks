@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raider's Saga | 307014 | [307014-raiders-saga.json](./307014-raiders-saga.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
 | Raiders of Blackveil | 341668 | [341668-raiders-of-blackveil.json](./341668-raiders-of-blackveil.json) |
+| Raiders of Chanyu | 121940 | [121940-raiders-of-chanyu.json](./121940-raiders-of-chanyu.json) |
 | Raiders of Mizburgh | 185546 | [185546-raiders-of-mizburgh.json](./185546-raiders-of-mizburgh.json) |
 | Raiders of the Apocalypse | 336000 | [336000-raiders-of-the-apocalypse.json](./336000-raiders-of-the-apocalypse.json) |
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
@@ -5289,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resting Island | 362194 | [362194-resting-island.json](./362194-resting-island.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
 | Restless Dreams | 308284 | [308284-restless-dreams.json](./308284-restless-dreams.json) |
+| Restless Hero | 121939 | [121939-restless-hero.json](./121939-restless-hero.json) |
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
 | Restless Kids | 216957 | [216957-restless-kids.json](./216957-restless-kids.json) |
 | Restless Lands | 262815 | [262815-restless-lands.json](./262815-restless-lands.json) |
@@ -6740,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Undertale Music Pack | 397807 | [397807-rift-of-the-necrodancer-undertale-music-pack.json](./397807-rift-of-the-necrodancer-undertale-music-pack.json) |
 | Rift of the NecroDancer: VA-11 Hall-A - "Yliad" - Garoad | 401874 | [401874-rift-of-the-necrodancer-va-11-hall-a-yliad-garoad.json](./401874-rift-of-the-necrodancer-va-11-hall-a-yliad-garoad.json) |
 | Rift of the NecroDancer: VA-11 Hall-A Music Pack | 401873 | [401873-rift-of-the-necrodancer-va-11-hall-a-music-pack.json](./401873-rift-of-the-necrodancer-va-11-hall-a-music-pack.json) |
+| Rift Racoon | 121905 | [121905-rift-racoon.json](./121905-rift-racoon.json) |
 | Rift Raiders | 423256 | [423256-rift-raiders.json](./423256-rift-raiders.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Riff | 293543 | [293543-rift-riff.json](./293543-rift-riff.json) |
