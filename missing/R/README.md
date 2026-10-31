@@ -6902,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riki's Risky Ride | 192261 | [192261-rikis-risky-ride.json](./192261-rikis-risky-ride.json) |
 | Rikka Plus | 181564 | [181564-rikka-plus.json](./181564-rikka-plus.json) |
 | Rikki & Vikki | 113515 | [113515-rikki-and-vikki.json](./113515-rikki-and-vikki.json) |
+| Rikki and Mikki to the Rescue! | 73429 | [73429-rikki-and-mikki-to-the-rescue.json](./73429-rikki-and-mikki-to-the-rescue.json) |
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
 | Rikorisu: Lycoris Radiata | 77864 | [77864-rikorisu-lycoris-radiata.json](./77864-rikorisu-lycoris-radiata.json) |
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
@@ -8233,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Girls Z Online | 61535 | [61535-robot-girls-z-online.json](./61535-robot-girls-z-online.json) |
 | Robot Hospice | 342219 | [342219-robot-hospice.json](./342219-robot-hospice.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
+| Robot III: Insel der Heiligen Prüfung | 73444 | [73444-robot-iii-insel-der-heiligen-prufung.json](./73444-robot-iii-insel-der-heiligen-prufung.json) |
 | Robot Invasion | 169814 | [169814-robot-invasion.json](./169814-robot-invasion.json) |
 | Robot Island | 127727 | [127727-robot-island.json](./127727-robot-island.json) |
 | Robot IV: Operation ExtraTax | 70796 | [70796-robot-iv-operation-extratax.json](./70796-robot-iv-operation-extratax.json) |
@@ -9039,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rod-Land | 293157 | [293157-rod-land.json](./293157-rod-land.json) |
 | ROD: Revolt of Defense | 31933 | [31933-rod-revolt-of-defense.json](./31933-rod-revolt-of-defense.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
+| Rode Kill: A Day in the Life | 73564 | [73564-rode-kill-a-day-in-the-life.json](./73564-rode-kill-a-day-in-the-life.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
 | Rodea the Sky Soldier | 6872 | [6872-rodea-the-sky-soldier.json](./6872-rodea-the-sky-soldier.json) |
