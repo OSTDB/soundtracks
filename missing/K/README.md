@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartRider Rush+ | 133604 | [133604-kartrider-rush.json](./133604-kartrider-rush.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
+| Kartuga | 63607 | [63607-kartuga.json](./63607-kartuga.json) |
 | KaRu | 195552 | [195552-karu.json](./195552-karu.json) |
 | Karugamo | 130590 | [130590-karugamo.json](./130590-karugamo.json) |
 | Karuizawa Yuukai Annai | 79793 | [79793-karuizawa-yuukai-annai.json](./79793-karuizawa-yuukai-annai.json) |
