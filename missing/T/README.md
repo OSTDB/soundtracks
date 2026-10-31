@@ -8798,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fool and his Money | 64185 | [64185-the-fool-and-his-money.json](./64185-the-fool-and-his-money.json) |
 | The Fool's Apprentice | 328382 | [328382-the-fools-apprentice.json](./328382-the-fools-apprentice.json) |
 | The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
+| The Foos Coding 5+ | 88731 | [88731-the-foos-coding-5.json](./88731-the-foos-coding-5.json) |
 | The Football A | 216356 | [216356-the-football-a.json](./216356-the-football-a.json) |
 | The Football Collection 2008 | 147194 | [147194-the-football-collection-2008.json](./147194-the-football-collection-2008.json) |
 | The Football Playbook: Tactical Puzzles | 197247 | [197247-the-football-playbook-tactical-puzzles.json](./197247-the-football-playbook-tactical-puzzles.json) |
@@ -10899,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door: Collector's Edition | 36443 | [36443-the-last-door-collectors-edition.json](./36443-the-last-door-collectors-edition.json) |
 | The Last Door: Complete Edition | 118676 | [118676-the-last-door-complete-edition.json](./118676-the-last-door-complete-edition.json) |
 | The Last Door: Legacy Edition | 204909 | [204909-the-last-door-legacy-edition.json](./204909-the-last-door-legacy-edition.json) |
+| The Last Dream | 88841 | [88841-the-last-dream.json](./88841-the-last-dream.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
 | The Last Drive: 2335 | 359607 | [359607-the-last-drive-2335.json](./359607-the-last-drive-2335.json) |
 | The Last Driver | 343791 | [343791-the-last-driver.json](./343791-the-last-driver.json) |
@@ -11842,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
 | The Little Cars in the Great Race | 371296 | [371296-the-little-cars-in-the-great-race.json](./371296-the-little-cars-in-the-great-race.json) |
+| The Little Crane That Could | 88696 | [88696-the-little-crane-that-could.json](./88696-the-little-crane-that-could.json) |
 | The Little Crumb | 401285 | [401285-the-little-crumb.json](./401285-the-little-crumb.json) |
 | The Little Cuttle Goes to Battle | 211595 | [211595-the-little-cuttle-goes-to-battle.json](./211595-the-little-cuttle-goes-to-battle.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
@@ -23558,6 +23561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
 | Torpedo Fire | 23998 | [23998-torpedo-fire.json](./23998-torpedo-fire.json) |
 | Torpedo Run | 179324 | [179324-torpedo-run.json](./179324-torpedo-run.json) |
+| Torpedo Strike | 88726 | [88726-torpedo-strike.json](./88726-torpedo-strike.json) |
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | TorpedoRun Naval War | 89525 | [89525-torpedorun-naval-war.json](./89525-torpedorun-naval-war.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
@@ -24950,6 +24954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Collector | 212429 | [212429-toy-collector.json](./212429-toy-collector.json) |
 | Toy Commander | 10125 | [10125-toy-commander.json](./10125-toy-commander.json) |
 | Toy Cowboy Royale: RPG Dragon's Challenge | 378955 | [378955-toy-cowboy-royale-rpg-dragons-challenge.json](./378955-toy-cowboy-royale-rpg-dragons-challenge.json) |
+| Toy Defense. World War I | 88687 | [88687-toy-defense-world-war-i.json](./88687-toy-defense-world-war-i.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
 | Toy Empires | 284600 | [284600-toy-empires.json](./284600-toy-empires.json) |
