@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teach Kids Games | 339413 | [339413-teach-kids-games.json](./339413-teach-kids-games.json) |
 | Teach Me Japanese Chess Pretty Please | 115317 | [115317-teach-me-japanese-chess-pretty-please.json](./115317-teach-me-japanese-chess-pretty-please.json) |
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
+| Teacher Busters | 77748 | [77748-teacher-busters.json](./77748-teacher-busters.json) |
 | Teacher Certification Hell | 248222 | [248222-teacher-certification-hell.json](./248222-teacher-certification-hell.json) |
 | Teacher Lady | 286441 | [286441-teacher-lady.json](./286441-teacher-lady.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Masters Series 2003 | 23698 | [23698-tennis-masters-series-2003.json](./23698-tennis-masters-series-2003.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
+| Tennis no Ouji-sama | 77688 | [77688-tennis-no-ouji-sama.json](./77688-tennis-no-ouji-sama.json) |
 | Tennis no Ouji-sama 2003: Cool Blue | 49849 | [49849-tennis-no-ouji-sama-2003-cool-blue.json](./49849-tennis-no-ouji-sama-2003-cool-blue.json) |
 | Tennis no Ouji-sama 2003: Passion Red | 49848 | [49848-tennis-no-ouji-sama-2003-passion-red.json](./49848-tennis-no-ouji-sama-2003-passion-red.json) |
 | Tennis no Ouji-sama 2004: Glorious Gold | 49847 | [49847-tennis-no-ouji-sama-2004-glorious-gold.json](./49847-tennis-no-ouji-sama-2004-glorious-gold.json) |
@@ -3917,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Zombies 2 | 93551 | [93551-tequila-zombies-2.json](./93551-tequila-zombies-2.json) |
 | Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
 | Tera | 7533 | [7533-tera.json](./7533-tera.json) |
+| Tera M | 77714 | [77714-tera-m.json](./77714-tera-m.json) |
 | Tera Origin | 117283 | [117283-tera-origin.json](./117283-tera-origin.json) |
 | Tera-Turbine | 184735 | [184735-tera-turbine.json](./184735-tera-turbine.json) |
 | Tera: La Cité des Crânes | 356857 | [356857-tera-la-cite-des-cranes.json](./356857-tera-la-cite-des-cranes.json) |
@@ -13533,6 +13536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Person Living Next Door | 409509 | [409509-the-person-living-next-door.json](./409509-the-person-living-next-door.json) |
 | The Personal Reasons | 217476 | [217476-the-personal-reasons.json](./217476-the-personal-reasons.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
+| the Peter Navarre Crecy Evaluation | 77729 | [77729-the-peter-navarre-crecy-evaluation.json](./77729-the-peter-navarre-crecy-evaluation.json) |
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
 | The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
 | The Pew Pew Bundle Vol. 1 | 147602 | [147602-the-pew-pew-bundle-vol-1.json](./147602-the-pew-pew-bundle-vol-1.json) |
@@ -18429,6 +18433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor: Son of Asgard | 65601 | [65601-thor-son-of-asgard.json](./65601-thor-son-of-asgard.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thor: War of Tapnarok | 114662 | [114662-thor-war-of-tapnarok.json](./114662-thor-war-of-tapnarok.json) |
+| Thor.n | 77713 | [77713-thor-n.json](./77713-thor-n.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
 | Thorgal | 290773 | [290773-thorgal.json](./290773-thorgal.json) |
 | Thorgard | 288610 | [288610-thorgard.json](./288610-thorgard.json) |
@@ -20713,6 +20718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilligence | 185022 | [185022-tilligence.json](./185022-tilligence.json) |
 | Tilt | 100102 | [100102-tilt.json](./100102-tilt.json) |
 | Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
+| Tilt | 77727 | [77727-tilt.json](./77727-tilt.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
 | Tilt Frog | 286055 | [286055-tilt-frog.json](./286055-tilt-frog.json) |
 | Tilt It! Golf | 405331 | [405331-tilt-it-golf.json](./405331-tilt-it-golf.json) |
@@ -27825,6 +27831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremblay Island | 197515 | [197515-tremblay-island.json](./197515-tremblay-island.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
+| Tremolo | 77739 | [77739-tremolo.json](./77739-tremolo.json) |
 | Tremor | 410866 | [410866-tremor.json](./410866-tremor.json) |
 | Tremor: Part I - Genesis | 313162 | [313162-tremor-part-i-genesis.json](./313162-tremor-part-i-genesis.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
@@ -29284,9 +29291,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
 | Tsukisas Arena | 149225 | [149225-tsukisas-arena.json](./149225-tsukisas-arena.json) |
+| Tsukiyo no Mura | 77724 | [77724-tsukiyo-no-mura.json](./77724-tsukiyo-no-mura.json) |
 | Tsukkomi! Magical Balls | 82554 | [82554-tsukkomi-magical-balls.json](./82554-tsukkomi-magical-balls.json) |
 | Tsukodome | 280469 | [280469-tsukodome.json](./280469-tsukodome.json) |
 | Tsukue de Dodgeball | 144666 | [144666-tsukue-de-dodgeball.json](./144666-tsukue-de-dodgeball.json) |
+| Tsukumo Onna Aoe | 77723 | [77723-tsukumo-onna-aoe.json](./77723-tsukumo-onna-aoe.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
