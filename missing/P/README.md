@@ -5315,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot e Youkoso!! 2.2 | 62747 | [62747-pia-carrot-e-youkoso-2-2.json](./62747-pia-carrot-e-youkoso-2-2.json) |
 | Pia Carrot e Youkoso!! 3 | 62746 | [62746-pia-carrot-e-youkoso-3.json](./62746-pia-carrot-e-youkoso-3.json) |
 | Pia Carrot e Youkoso!! 3.3 | 62745 | [62745-pia-carrot-e-youkoso-3-3.json](./62745-pia-carrot-e-youkoso-3-3.json) |
+| Pia Carrot e Youkoso!! 4 | 92254 | [92254-pia-carrot-e-youkoso-4.json](./92254-pia-carrot-e-youkoso-4.json) |
 | Pia Carrot e Youkoso!! G.O. | 72645 | [72645-pia-carrot-e-youkoso-g-o.json](./72645-pia-carrot-e-youkoso-g-o.json) |
 | Pia Carrot he Youkoso!! | 45955 | [45955-pia-carrot-he-youkoso.json](./45955-pia-carrot-he-youkoso.json) |
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
@@ -13856,12 +13857,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu GG League '94 | 282506 | [282506-pro-yakyuu-gg-league-94.json](./282506-pro-yakyuu-gg-league-94.json) |
 | Pro Yakyuu Greatest Nine 97 | 231611 | [231611-pro-yakyuu-greatest-nine-97.json](./231611-pro-yakyuu-greatest-nine-97.json) |
 | Pro Yakyuu Nettou Puzzle Stadium | 37873 | [37873-pro-yakyuu-nettou-puzzle-stadium.json](./37873-pro-yakyuu-nettou-puzzle-stadium.json) |
+| Pro Yakyuu Spirits 2 | 92240 | [92240-pro-yakyuu-spirits-2.json](./92240-pro-yakyuu-spirits-2.json) |
+| Pro Yakyuu Spirits 2004 | 92238 | [92238-pro-yakyuu-spirits-2004.json](./92238-pro-yakyuu-spirits-2004.json) |
+| Pro Yakyuu Spirits 2004 Climax | 92235 | [92235-pro-yakyuu-spirits-2004-climax.json](./92235-pro-yakyuu-spirits-2004-climax.json) |
+| Pro Yakyuu Spirits 2011 | 92232 | [92232-pro-yakyuu-spirits-2011.json](./92232-pro-yakyuu-spirits-2011.json) |
 | Pro Yakyuu Spirits 2012 | 44575 | [44575-pro-yakyuu-spirits-2012.json](./44575-pro-yakyuu-spirits-2012.json) |
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
 | Pro Yakyuu Spirits 2015 | 60625 | [60625-pro-yakyuu-spirits-2015.json](./60625-pro-yakyuu-spirits-2015.json) |
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
 | Pro Yakyuu Spirits 2024-2025 | 293324 | [293324-pro-yakyuu-spirits-2024-2025.json](./293324-pro-yakyuu-spirits-2024-2025.json) |
 | Pro Yakyuu Spirits 3 | 91726 | [91726-pro-yakyuu-spirits-3.json](./91726-pro-yakyuu-spirits-3.json) |
+| Pro Yakyuu Spirits 4 | 92239 | [92239-pro-yakyuu-spirits-4.json](./92239-pro-yakyuu-spirits-4.json) |
+| Pro Yakyuu Spirits 5 | 92237 | [92237-pro-yakyuu-spirits-5.json](./92237-pro-yakyuu-spirits-5.json) |
+| Pro Yakyuu Spirits 5 Kanzen-ban | 92236 | [92236-pro-yakyuu-spirits-5-kanzen-ban.json](./92236-pro-yakyuu-spirits-5-kanzen-ban.json) |
+| Pro Yakyuu Spirits 6 | 92233 | [92233-pro-yakyuu-spirits-6.json](./92233-pro-yakyuu-spirits-6.json) |
 | Pro Yakyuu Spirits A | 59344 | [59344-pro-yakyuu-spirits-a.json](./59344-pro-yakyuu-spirits-a.json) |
 | Pro Yakyuu Star | 37872 | [37872-pro-yakyuu-star.json](./37872-pro-yakyuu-star.json) |
 | Pro Yakyuu Super League CD | 46386 | [46386-pro-yakyuu-super-league-cd.json](./46386-pro-yakyuu-super-league-cd.json) |
