@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zen and the Art of Transhumanism | 146471 | [146471-zen-and-the-art-of-transhumanism.json](./146471-zen-and-the-art-of-transhumanism.json) |
 | Zen Beauty | 326256 | [326256-zen-beauty.json](./326256-zen-beauty.json) |
+| ZEN Block | 108681 | [108681-zen-block.json](./108681-zen-block.json) |
 | Zen Blocks | 74480 | [74480-zen-blocks.json](./74480-zen-blocks.json) |
 | Zen Blossom | 220221 | [220221-zen-blossom.json](./220221-zen-blossom.json) |
 | Zen Bound | 15102 | [15102-zen-bound.json](./15102-zen-bound.json) |
