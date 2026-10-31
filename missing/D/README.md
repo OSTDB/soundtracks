@@ -5181,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender II | 344003 | [344003-defender-ii.json](./344003-defender-ii.json) |
 | Defender II | 48902 | [48902-defender-ii.json](./48902-defender-ii.json) |
 | Defender III | 188314 | [188314-defender-iii.json](./188314-defender-iii.json) |
+| Defender of Boston: The Rock Island Mystery | 69019 | [69019-defender-of-boston-the-rock-island-mystery.json](./69019-defender-of-boston-the-rock-island-mystery.json) |
 | Defender of Diosa | 341090 | [341090-defender-of-diosa.json](./341090-defender-of-diosa.json) |
 | Defender of Earth vs. The Alien Armada | 55816 | [55816-defender-of-earth-vs-the-alien-armada.json](./55816-defender-of-earth-vs-the-alien-armada.json) |
 | Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
@@ -9546,6 +9547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
 | Disney Princess: Cinderella's Magic Wishes | 79552 | [79552-disney-princess-cinderellas-magic-wishes.json](./79552-disney-princess-cinderellas-magic-wishes.json) |
 | Disney Princess: Enchanted Journey | 17829 | [17829-disney-princess-enchanted-journey.json](./17829-disney-princess-enchanted-journey.json) |
+| Disney Princess: Enchanted Learning | 69051 | [69051-disney-princess-enchanted-learning.json](./69051-disney-princess-enchanted-learning.json) |
 | Disney Princess: Enchanting Storybooks | 5187 | [5187-disney-princess-enchanting-storybooks.json](./5187-disney-princess-enchanting-storybooks.json) |
 | Disney Princess: Magical Academy | 327708 | [327708-disney-princess-magical-academy.json](./327708-disney-princess-magical-academy.json) |
 | Disney Princess: Magical Adventures | 221671 | [221671-disney-princess-magical-adventures.json](./221671-disney-princess-magical-adventures.json) |
@@ -9558,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: The Little Mermaid - Ariel's Princess Adventures | 137563 | [137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json](./137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json) |
 | Disney Princess: The Princess and the Frog | 230374 | [230374-disney-princess-the-princess-and-the-frog.json](./230374-disney-princess-the-princess-and-the-frog.json) |
 | Disney Princess: The Princess and The Frog | 36227 | [36227-disney-princess-the-princess-and-the-frog.json](./36227-disney-princess-the-princess-and-the-frog.json) |
+| Disney Princess: Worlds of Enchantment | 69056 | [69056-disney-princess-worlds-of-enchantment.json](./69056-disney-princess-worlds-of-enchantment.json) |
 | Disney Sing It: High School Musical 3 - Senior Year | 60243 | [60243-disney-sing-it-high-school-musical-3-senior-year.json](./60243-disney-sing-it-high-school-musical-3-senior-year.json) |
 | Disney Sorcerer's Arena | 124644 | [124644-disney-sorcerers-arena.json](./124644-disney-sorcerers-arena.json) |
 | Disney Speedstorm: Aladdin Pack | 366993 | [366993-disney-speedstorm-aladdin-pack.json](./366993-disney-speedstorm-aladdin-pack.json) |
@@ -12030,6 +12033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doombox | 308476 | [308476-doombox.json](./308476-doombox.json) |
 | Doombox | 372826 | [372826-doombox.json](./372826-doombox.json) |
 | DoomBreaker | 149474 | [149474-doombreaker.json](./149474-doombreaker.json) |
+| Doombringer | 69005 | [69005-doombringer.json](./69005-doombringer.json) |
 | DoomBus | 383650 | [383650-doombus.json](./383650-doombus.json) |
 | Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
 | DoomCrush | 360548 | [360548-doomcrush.json](./360548-doomcrush.json) |
@@ -12245,10 +12249,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Super Star Adventures | 7974 | [7974-dora-the-explorer-super-star-adventures.json](./7974-dora-the-explorer-super-star-adventures.json) |
 | Dora the Explorer: The Search for Pirate Pig's Treasure | 49201 | [49201-dora-the-explorer-the-search-for-pirate-pigs-treasure.json](./49201-dora-the-explorer-the-search-for-pirate-pigs-treasure.json) |
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
+| Dora the Explorer: Wildlife Rescue | 69055 | [69055-dora-the-explorer-wildlife-rescue.json](./69055-dora-the-explorer-wildlife-rescue.json) |
 | Dora the Explorer: World Adventure | 209119 | [209119-dora-the-explorer-world-adventure.json](./209119-dora-the-explorer-world-adventure.json) |
 | Dora Think Nobita's Exciting Brain Adventure | 233929 | [233929-dora-think-nobitas-exciting-brain-adventure.json](./233929-dora-think-nobitas-exciting-brain-adventure.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
 | Dora's Big Birthday Adventure | 202095 | [202095-doras-big-birthday-adventure.json](./202095-doras-big-birthday-adventure.json) |
+| Dora's Camping Adventure | 69050 | [69050-doras-camping-adventure.json](./69050-doras-camping-adventure.json) |
 | Dora's Cooking Club | 47964 | [47964-doras-cooking-club.json](./47964-doras-cooking-club.json) |
 | Dora's Star Mountain Adventure | 243823 | [243823-doras-star-mountain-adventure.json](./243823-doras-star-mountain-adventure.json) |
 | Dora's World Adventure! | 220085 | [220085-doras-world-adventure.json](./220085-doras-world-adventure.json) |
