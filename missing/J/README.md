@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbirds | 337052 | [337052-jailbirds.json](./337052-jailbirds.json) |
 | Jailbreak | 81986 | [81986-jailbreak.json](./81986-jailbreak.json) |
+| Jailbreak Lockdown | 113328 | [113328-jailbreak-lockdown.json](./113328-jailbreak-lockdown.json) |
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
 | Jailbreak Simulator | 121482 | [121482-jailbreak-simulator.json](./121482-jailbreak-simulator.json) |
 | Jailbreak: The Ultimate Escape | 256260 | [256260-jailbreak-the-ultimate-escape.json](./256260-jailbreak-the-ultimate-escape.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Pet: Mahou de Oshare ni Dance * Deco! | 60543 | [60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json](./60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json) |
 | Jewel Pet: Mahou no Rhythm de Ieie! | 60546 | [60546-jewel-pet-mahou-no-rhythm-de-ieie.json](./60546-jewel-pet-mahou-no-rhythm-de-ieie.json) |
 | Jewel Pets: Magic Rhythm de Yeah! | 141124 | [141124-jewel-pets-magic-rhythm-de-yeah.json](./141124-jewel-pets-magic-rhythm-de-yeah.json) |
+| Jewel Puzzle Click | 113336 | [113336-jewel-puzzle-click.json](./113336-jewel-puzzle-click.json) |
 | Jewel Queen: Puzzle & Magic | 212485 | [212485-jewel-queen-puzzle-and-magic.json](./212485-jewel-queen-puzzle-and-magic.json) |
 | Jewel Quest | 196845 | [196845-jewel-quest.json](./196845-jewel-quest.json) |
 | Jewel Quest | 20500 | [20500-jewel-quest.json](./20500-jewel-quest.json) |
@@ -2869,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump 'n' Run VR | 187768 | [187768-jump-n-run-vr.json](./187768-jump-n-run-vr.json) |
 | Jump & Escape | 179368 | [179368-jump-and-escape.json](./179368-jump-and-escape.json) |
 | Jump & Fall | 369168 | [369168-jump-and-fall.json](./369168-jump-and-fall.json) |
+| Jump & Shoot | 113327 | [113327-jump-and-shoot.json](./113327-jump-and-shoot.json) |
 | Jump & Splash | 87129 | [87129-jump-and-splash.json](./87129-jump-and-splash.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
 | Jump 2: Mr.Q Adventure | 241817 | [241817-jump-2-mr-q-adventure.json](./241817-jump-2-mr-q-adventure.json) |
