@@ -13563,6 +13563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
 | Prison Princess: Trapped Allure | 321211 | [321211-prison-princess-trapped-allure.json](./321211-prison-princess-trapped-allure.json) |
 | Prison Puzzle | 312693 | [312693-prison-puzzle.json](./312693-prison-puzzle.json) |
+| Prison Riot | 69655 | [69655-prison-riot.json](./69655-prison-riot.json) |
 | Prison Run | 394998 | [394998-prison-run.json](./394998-prison-run.json) |
 | Prison Run and Gun | 33672 | [33672-prison-run-and-gun.json](./33672-prison-run-and-gun.json) |
 | Prison Simulator | 107715 | [107715-prison-simulator.json](./107715-prison-simulator.json) |
@@ -15695,6 +15696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puff Up: Minigames Pack 2 | 345700 | [345700-puff-up-minigames-pack-2.json](./345700-puff-up-minigames-pack-2.json) |
 | Puff Up: Playful Edition | 364095 | [364095-puff-up-playful-edition.json](./364095-puff-up-playful-edition.json) |
 | Puff. | 316817 | [316817-puff.json](./316817-puff.json) |
+| PuffBomb | 69643 | [69643-puffbomb.json](./69643-puffbomb.json) |
 | Puffer Fish | 95555 | [95555-puffer-fish.json](./95555-puffer-fish.json) |
 | Puffer Pop | 250464 | [250464-puffer-pop.json](./250464-puffer-pop.json) |
 | Puffi | 200340 | [200340-puffi.json](./200340-puffi.json) |
