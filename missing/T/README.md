@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
 | Tap Tap Revenge: NIN Edition | 70610 | [70610-tap-tap-revenge-nin-edition.json](./70610-tap-tap-revenge-nin-edition.json) |
 | Tap Tap Run | 193802 | [193802-tap-tap-run.json](./193802-tap-tap-run.json) |
+| Tap Tap Snake | 96448 | [96448-tap-tap-snake.json](./96448-tap-tap-snake.json) |
 | Tap Tap Tap | 122612 | [122612-tap-tap-tap.json](./122612-tap-tap-tap.json) |
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
 | Tap Tap West | 95963 | [95963-tap-tap-west.json](./95963-tap-tap-west.json) |
@@ -4462,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
 | Tetrimus | 125607 | [125607-tetrimus.json](./125607-tetrimus.json) |
+| Tetripank | 96431 | [96431-tetripank.json](./96431-tetripank.json) |
 | Tetripz | 93215 | [93215-tetripz.json](./93215-tetripz.json) |
 | Tetris | 130749 | [130749-tetris.json](./130749-tetris.json) |
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
