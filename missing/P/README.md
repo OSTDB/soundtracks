@@ -5273,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physics Balls | 101107 | [101107-physics-balls.json](./101107-physics-balls.json) |
 | Physics Cake | 165925 | [165925-physics-cake.json](./165925-physics-cake.json) |
 | Physics car Forever | 143299 | [143299-physics-car-forever.json](./143299-physics-car-forever.json) |
+| Physics Cats in Space | 97053 | [97053-physics-cats-in-space.json](./97053-physics-cats-in-space.json) |
 | Physics Overdrive | 252935 | [252935-physics-overdrive.json](./252935-physics-overdrive.json) |
 | Physics Playground | 372071 | [372071-physics-playground.json](./372071-physics-playground.json) |
 | Physics Sandbox VR | 168047 | [168047-physics-sandbox-vr.json](./168047-physics-sandbox-vr.json) |
@@ -8836,6 +8837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play of Wire | 319089 | [319089-play-of-wire.json](./319089-play-of-wire.json) |
 | Play Outside Simulator | 189145 | [189145-play-outside-simulator.json](./189145-play-outside-simulator.json) |
 | Play Pretend | 220471 | [220471-play-pretend.json](./220471-play-pretend.json) |
+| Play Room | 97051 | [97051-play-room.json](./97051-play-room.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
 | Play Rough | 221643 | [221643-play-rough.json](./221643-play-rough.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
@@ -9375,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Girl: Uketsugareshi Kibou | 206543 | [206543-pocket-girl-uketsugareshi-kibou.json](./206543-pocket-girl-uketsugareshi-kibou.json) |
 | Pocket God | 46743 | [46743-pocket-god.json](./46743-pocket-god.json) |
 | Pocket God vs Desert Ashes | 17866 | [17866-pocket-god-vs-desert-ashes.json](./17866-pocket-god-vs-desert-ashes.json) |
+| Pocket God: Journey to Uranus | 97068 | [97068-pocket-god-journey-to-uranus.json](./97068-pocket-god-journey-to-uranus.json) |
 | Pocket GT | 225807 | [225807-pocket-gt.json](./225807-pocket-gt.json) |
 | Pocket GT Racing | 209353 | [209353-pocket-gt-racing.json](./209353-pocket-gt-racing.json) |
 | Pocket Hanafuda | 282472 | [282472-pocket-hanafuda.json](./282472-pocket-hanafuda.json) |
@@ -16750,6 +16753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Spy International | 329773 | [329773-puzzle-spy-international.json](./329773-puzzle-spy-international.json) |
 | Puzzle Stampede | 26605 | [26605-puzzle-stampede.json](./26605-puzzle-stampede.json) |
+| Puzzle Star BT21 | 97061 | [97061-puzzle-star-bt21.json](./97061-puzzle-star-bt21.json) |
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
 | Puzzle Station 15th Anniversary Retro Release | 35348 | [35348-puzzle-station-15th-anniversary-retro-release.json](./35348-puzzle-station-15th-anniversary-retro-release.json) |
 | Puzzle Strike | 34863 | [34863-puzzle-strike.json](./34863-puzzle-strike.json) |
