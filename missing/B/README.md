@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Blitz | 181761 | [181761-bacon-blitz.json](./181761-bacon-blitz.json) |
+| Bacon Escape | 97058 | [97058-bacon-escape.json](./97058-bacon-escape.json) |
 | Bacon Escape 2: Spaced Out! | 114647 | [114647-bacon-escape-2-spaced-out.json](./114647-bacon-escape-2-spaced-out.json) |
 | Bacon Grease | 277492 | [277492-bacon-grease.json](./277492-bacon-grease.json) |
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
@@ -3142,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battalion: Vengeance | 387069 | [387069-battalion-vengeance.json](./387069-battalion-vengeance.json) |
 | Batten Tanuki no Daibouken | 47548 | [47548-batten-tanuki-no-daibouken.json](./47548-batten-tanuki-no-daibouken.json) |
 | Batter Bear | 398478 | [398478-batter-bear.json](./398478-batter-bear.json) |
+| Batter Burst | 97073 | [97073-batter-burst.json](./97073-batter-burst.json) |
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
 | Batteri Fjell 1945 | 292966 | [292966-batteri-fjell-1945.json](./292966-batteri-fjell-1945.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
@@ -7907,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Mining Profit Calculator: Gaiden | 128566 | [128566-bitcoin-mining-profit-calculator-gaiden.json](./128566-bitcoin-mining-profit-calculator-gaiden.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
 | Bitcoin or Bomb? | 86765 | [86765-bitcoin-or-bomb.json](./86765-bitcoin-or-bomb.json) |
+| Bitcoin Trader | 97039 | [97039-bitcoin-trader.json](./97039-bitcoin-trader.json) |
 | Bitcoin Trading Master | 99777 | [99777-bitcoin-trading-master.json](./99777-bitcoin-trading-master.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
 | Bitcoin VR | 28932 | [28932-bitcoin-vr.json](./28932-bitcoin-vr.json) |
@@ -8108,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Circle | 100032 | [100032-black-circle.json](./100032-black-circle.json) |
 | Black Circle | 9297 | [9297-black-circle.json](./9297-black-circle.json) |
 | Black Clover Mobile | 188401 | [188401-black-clover-mobile.json](./188401-black-clover-mobile.json) |
+| Black Clover Phantom Knights | 97043 | [97043-black-clover-phantom-knights.json](./97043-black-clover-phantom-knights.json) |
 | Black Clover: Infinite Knights | 122885 | [122885-black-clover-infinite-knights.json](./122885-black-clover-infinite-knights.json) |
 | Black Clover: Quartet Knights | 76736 | [76736-black-clover-quartet-knights.json](./76736-black-clover-quartet-knights.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Blue | 224123 | [224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json](./224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json) |
@@ -14987,6 +14991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
+| Bubble Pop: Shoot Bubbles | 97067 | [97067-bubble-pop-shoot-bubbles.json](./97067-bubble-pop-shoot-bubbles.json) |
 | Bubble Pop! | 181592 | [181592-bubble-pop.json](./181592-bubble-pop.json) |
 | Bubble Popper | 175098 | [175098-bubble-popper.json](./175098-bubble-popper.json) |
 | Bubble Puzzle 97 | 93424 | [93424-bubble-puzzle-97.json](./93424-bubble-puzzle-97.json) |
