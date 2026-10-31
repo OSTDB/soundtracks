@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20Something | 29673 | [29673-20something.json](./29673-20something.json) |
 | 20th Century Beauties | 350636 | [350636-20th-century-beauties.json](./350636-20th-century-beauties.json) |
 | 20th Century Frog | 272846 | [272846-20th-century-frog.json](./272846-20th-century-frog.json) |
+| 20th Century Video Almanac | 69029 | [69029-20th-century-video-almanac.json](./69029-20th-century-video-almanac.json) |
 | 20x20x20 | 175786 | [175786-20x20x20.json](./175786-20x20x20.json) |
 | 20XX | 17828 | [17828-20xx.json](./17828-20xx.json) |
 | 20XX: Hawk Character | 227240 | [227240-20xx-hawk-character.json](./227240-20xx-hawk-character.json) |
