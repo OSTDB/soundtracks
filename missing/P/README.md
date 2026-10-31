@@ -624,6 +624,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
 | Paint Boy | 328591 | [328591-paint-boy.json](./328591-paint-boy.json) |
 | Paint by DS | 79868 | [79868-paint-by-ds.json](./79868-paint-by-ds.json) |
+| Paint by DS: Classical Masterpieces | 68405 | [68405-paint-by-ds-classical-masterpieces.json](./68405-paint-by-ds-classical-masterpieces.json) |
+| Paint by DS: Military Vehicles | 68404 | [68404-paint-by-ds-military-vehicles.json](./68404-paint-by-ds-military-vehicles.json) |
 | Paint By Numbers | 148346 | [148346-paint-by-numbers.json](./148346-paint-by-numbers.json) |
 | Paint By Numbers | 241830 | [241830-paint-by-numbers.json](./241830-paint-by-numbers.json) |
 | Paint By Numbers: 8-Bit World Ep. 10 | 305506 | [305506-paint-by-numbers-8-bit-world-ep-10.json](./305506-paint-by-numbers-8-bit-world-ep-10.json) |
@@ -9748,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Connect | 54851 | [54851-point-connect.json](./54851-point-connect.json) |
 | Point Connect 2 | 55658 | [55658-point-connect-2.json](./55658-point-connect-2.json) |
 | Point Connect 3 | 55657 | [55657-point-connect-3.json](./55657-point-connect-3.json) |
+| Point Connect 5 | 68370 | [68370-point-connect-5.json](./68370-point-connect-5.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
@@ -10368,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Platinum Version PC Port | 403089 | [403089-pokemon-platinum-version-pc-port.json](./403089-pokemon-platinum-version-pc-port.json) |
 | Pokémon Play It! | 80213 | [80213-pokemon-play-it.json](./80213-pokemon-play-it.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
+| Pokémon Playhouse | 68380 | [68380-pokemon-playhouse.json](./68380-pokemon-playhouse.json) |
 | Pokémon Poké Ball | 198864 | [198864-pokemon-poke-ball.json](./198864-pokemon-poke-ball.json) |
 | Pokémon Poké Ball Launcher | 61007 | [61007-pokemon-poke-ball-launcher.json](./61007-pokemon-poke-ball-launcher.json) |
 | Pokémon Pokédex Organizer | 198865 | [198865-pokemon-pokedex-organizer.json](./198865-pokemon-pokedex-organizer.json) |
@@ -13737,6 +13741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling 2008 | 44490 | [44490-pro-cycling-2008.json](./44490-pro-cycling-2008.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling 2010 | 61470 | [61470-pro-cycling-2010.json](./61470-pro-cycling-2010.json) |
+| Pro Cycling Manager | 68222 | [68222-pro-cycling-manager.json](./68222-pro-cycling-manager.json) |
 | Pro Cycling Manager 2006 | 94512 | [94512-pro-cycling-manager-2006.json](./94512-pro-cycling-manager-2006.json) |
 | Pro Cycling Manager 2008 | 21940 | [21940-pro-cycling-manager-2008.json](./21940-pro-cycling-manager-2008.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
@@ -14664,6 +14669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
 | Project Paradise | 47089 | [47089-project-paradise.json](./47089-project-paradise.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
+| Project Parallel | 68374 | [68374-project-parallel.json](./68374-project-parallel.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
 | Project Pastorate | 97269 | [97269-project-pastorate.json](./97269-project-pastorate.json) |
 | Project Paws | 278905 | [278905-project-paws.json](./278905-project-paws.json) |
@@ -17130,6 +17136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzSinker. | 82579 | [82579-puzzsinker.json](./82579-puzzsinker.json) |
 | Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
+| PuzzXXI | 68518 | [68518-puzzxxi.json](./68518-puzzxxi.json) |
 | Puzzzle | 142218 | [142218-puzzzle.json](./142218-puzzzle.json) |
 | PVKK: Planetenverteidigungskanonenkommandant | 307368 | [307368-pvkk-planetenverteidigungskanonenkommandant.json](./307368-pvkk-planetenverteidigungskanonenkommandant.json) |
 | PvNP | 203737 | [203737-pvnp.json](./203737-pvnp.json) |
@@ -17140,6 +17147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pwn Age: 31337 AD | 67075 | [67075-pwn-age-31337-ad.json](./67075-pwn-age-31337-ad.json) |
 | PWN: Combat Hacking | 63677 | [63677-pwn-combat-hacking.json](./63677-pwn-combat-hacking.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
+| Pwned | 68517 | [68517-pwned.json](./68517-pwned.json) |
 | Pwny Xpress | 183313 | [183313-pwny-xpress.json](./183313-pwny-xpress.json) |
 | Pwnz! | 240833 | [240833-pwnz.json](./240833-pwnz.json) |
 | Pwordle | 241405 | [241405-pwordle.json](./241405-pwordle.json) |
