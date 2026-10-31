@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
 | Sayonara Umihara Kawase | 27108 | [27108-sayonara-umihara-kawase.json](./27108-sayonara-umihara-kawase.json) |
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
+| Sayonara UmiharaKawase ++ | 110017 | [110017-sayonara-umiharakawase.json](./110017-sayonara-umiharakawase.json) |
 | Sayonara Wild Hearts | 113107 | [113107-sayonara-wild-hearts.json](./113107-sayonara-wild-hearts.json) |
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
 | Sayonara Wild Hearts + Lorelei and the Laser Eyes Bundle | 404543 | [404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json](./404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json) |
@@ -8325,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Cart Defense | 233198 | [233198-shopping-cart-defense.json](./233198-shopping-cart-defense.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
 | Shopping Cart Pusher | 414831 | [414831-shopping-cart-pusher.json](./414831-shopping-cart-pusher.json) |
+| Shopping Center Tycoon | 110003 | [110003-shopping-center-tycoon.json](./110003-shopping-center-tycoon.json) |
 | Shopping Clutter 10: The Walkers Take the Stage | 281899 | [281899-shopping-clutter-10-the-walkers-take-the-stage.json](./281899-shopping-clutter-10-the-walkers-take-the-stage.json) |
 | Shopping Clutter 11: Magical Garden | 284469 | [284469-shopping-clutter-11-magical-garden.json](./284469-shopping-clutter-11-magical-garden.json) |
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
@@ -11128,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull and Bones: Season 3 - Into the Dragon’s Wake | 305238 | [305238-skull-and-bones-season-3-into-the-dragon-s-wake.json](./305238-skull-and-bones-season-3-into-the-dragon-s-wake.json) |
 | Skull Bullets | 188859 | [188859-skull-bullets.json](./188859-skull-bullets.json) |
+| Skull Candy Match | 110000 | [110000-skull-candy-match.json](./110000-skull-candy-match.json) |
 | Skull Chainz | 167516 | [167516-skull-chainz.json](./167516-skull-chainz.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
@@ -11382,6 +11385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Settlers | 258422 | [258422-sky-settlers.json](./258422-sky-settlers.json) |
 | Sky Shark | 12106 | [12106-sky-shark.json](./12106-sky-shark.json) |
 | Sky Shark | 331282 | [331282-sky-shark.json](./331282-sky-shark.json) |
+| Sky Sharks | 110001 | [110001-sky-sharks.json](./110001-sky-sharks.json) |
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
 | Sky Skipper | 18546 | [18546-sky-skipper.json](./18546-sky-skipper.json) |
 | Sky Skipper | 288336 | [288336-sky-skipper.json](./288336-sky-skipper.json) |
@@ -13803,6 +13807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snoring | 408057 | [408057-snoring.json](./408057-snoring.json) |
 | Snot | 195351 | [195351-snot.json](./195351-snot.json) |
+| Snot and Fluff | 110002 | [110002-snot-and-fluff.json](./110002-snot-and-fluff.json) |
 | Snot Pop! | 412499 | [412499-snot-pop.json](./412499-snot-pop.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | Snotty's Sewer | 253845 | [253845-snottys-sewer.json](./253845-snottys-sewer.json) |
@@ -17644,6 +17649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27750,6 +27756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
 | Super Clown: Lost Diamonds | 190445 | [190445-super-clown-lost-diamonds.json](./190445-super-clown-lost-diamonds.json) |
+| Super Club Soccer | 110018 | [110018-super-club-soccer.json](./110018-super-club-soccer.json) |
 | Super Club Tennis | 147857 | [147857-super-club-tennis.json](./147857-super-club-tennis.json) |
 | Super Cobra | 282073 | [282073-super-cobra.json](./282073-super-cobra.json) |
 | Super Cobra | 346134 | [346134-super-cobra.json](./346134-super-cobra.json) |
