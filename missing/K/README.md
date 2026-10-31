@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimagure Temptation 2: Yuuyami Kaikitan | 375367 | [375367-kimagure-temptation-2-yuuyami-kaikitan.json](./375367-kimagure-temptation-2-yuuyami-kaikitan.json) |
 | Kimbap Factory | 413107 | [413107-kimbap-factory.json](./413107-kimbap-factory.json) |
 | Kimbap Heaven Simulator | 390261 | [390261-kimbap-heaven-simulator.json](./390261-kimbap-heaven-simulator.json) |
+| Kimchi-Man | 65314 | [65314-kimchi-man.json](./65314-kimchi-man.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
 | Kimetsu no Yaiba: Keppuu Kengeki Royale | 133758 | [133758-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./133758-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
 | Kimi ga Ita Kisetsu | 181187 | [181187-kimi-ga-ita-kisetsu.json](./181187-kimi-ga-ita-kisetsu.json) |
