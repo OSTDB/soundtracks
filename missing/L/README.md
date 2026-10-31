@@ -8519,6 +8519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludoku | 35332 | [35332-ludoku.json](./35332-ludoku.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
 | LudoNarraCon Supporter Pack featuring Cyrano | 146052 | [146052-ludonarracon-supporter-pack-featuring-cyrano.json](./146052-ludonarracon-supporter-pack-featuring-cyrano.json) |
+| Ludopolis | 119984 | [119984-ludopolis.json](./119984-ludopolis.json) |
 | LudoRace | 311016 | [311016-ludorace.json](./311016-ludorace.json) |
 | Ludoria | 33778 | [33778-ludoria.json](./33778-ludoria.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
