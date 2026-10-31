@@ -4358,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikolai in Outer Space | 209394 | [209394-nikolai-in-outer-space.json](./209394-nikolai-in-outer-space.json) |
 | Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
 | Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
+| Nikolai's Pharaohs | 122568 | [122568-nikolais-pharaohs.json](./122568-nikolais-pharaohs.json) |
 | Nikoli no Puzzle 4: Hashi wo Kakero | 218989 | [218989-nikoli-no-puzzle-4-hashi-wo-kakero.json](./218989-nikoli-no-puzzle-4-hashi-wo-kakero.json) |
 | Nikoli no Puzzle 4: Heyawake | 218990 | [218990-nikoli-no-puzzle-4-heyawake.json](./218990-nikoli-no-puzzle-4-heyawake.json) |
 | Nikoli no Puzzle 4: Hitori ni Shitekure | 218899 | [218899-nikoli-no-puzzle-4-hitori-ni-shitekure.json](./218899-nikoli-no-puzzle-4-hitori-ni-shitekure.json) |
