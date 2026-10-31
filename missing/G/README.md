@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangstar City | 383591 | [383591-gangstar-city.json](./383591-gangstar-city.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
+| Gangstar Rio: City of Saints | 65172 | [65172-gangstar-rio-city-of-saints.json](./65172-gangstar-rio-city-of-saints.json) |
 | Gangstar Vegas | 38934 | [38934-gangstar-vegas.json](./38934-gangstar-vegas.json) |
 | Gangstar: Crime City | 264076 | [264076-gangstar-crime-city.json](./264076-gangstar-crime-city.json) |
 | Gangstar: Miami Vindication | 152331 | [152331-gangstar-miami-vindication.json](./152331-gangstar-miami-vindication.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
 | Goban | 95567 | [95567-goban.json](./95567-goban.json) |
 | Gobang Beginner | 400529 | [400529-gobang-beginner.json](./400529-gobang-beginner.json) |
+| Gobang Social | 65305 | [65305-gobang-social.json](./65305-gobang-social.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | GoBattle.io | 395949 | [395949-gobattle-io.json](./395949-gobattle-io.json) |
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
