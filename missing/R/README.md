@@ -5549,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Meadow | 362759 | [362759-retro-meadow.json](./362759-retro-meadow.json) |
 | Retro Miami | 76505 | [76505-retro-miami.json](./76505-retro-miami.json) |
 | Retro Mystery Club Vol.2: The Beppu Case | 289264 | [289264-retro-mystery-club-vol-2-the-beppu-case.json](./289264-retro-mystery-club-vol-2-the-beppu-case.json) |
+| Retro Ninja Runner | 74810 | [74810-retro-ninja-runner.json](./74810-retro-ninja-runner.json) |
 | Retro One | 78092 | [78092-retro-one.json](./78092-retro-one.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
 | Retro Pixel Castles | 138064 | [138064-retro-pixel-castles.json](./138064-retro-pixel-castles.json) |
@@ -10222,6 +10223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
 | Roshpit Champions 2 | 306411 | [306411-roshpit-champions-2.json](./306411-roshpit-champions-2.json) |
+| Rosiana | 74807 | [74807-rosiana.json](./74807-rosiana.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
 | Rosie's Reality | 356020 | [356020-rosies-reality.json](./356020-rosies-reality.json) |
@@ -11972,6 +11974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rythenia | 151126 | [151126-rythenia.json](./151126-rythenia.json) |
 | Rythm | 112331 | [112331-rythm.json](./112331-rythm.json) |
 | Rytmik Retrobits | 84908 | [84908-rytmik-retrobits.json](./84908-rytmik-retrobits.json) |
+| Rytmik Ultimate | 74812 | [74812-rytmik-ultimate.json](./74812-rytmik-ultimate.json) |
 | Rytmik World Music | 84906 | [84906-rytmik-world-music.json](./84906-rytmik-world-music.json) |
 | Rytmik: Rock Edition | 84905 | [84905-rytmik-rock-edition.json](./84905-rytmik-rock-edition.json) |
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
