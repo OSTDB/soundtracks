@@ -4625,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Adventure | 260272 | [260272-text-adventure.json](./260272-text-adventure.json) |
 | Text Adventure Engine | 295361 | [295361-text-adventure-engine.json](./295361-text-adventure-engine.json) |
 | Text Adventure Engine: Chicken Boy | 295362 | [295362-text-adventure-engine-chicken-boy.json](./295362-text-adventure-engine-chicken-boy.json) |
+| Text Adventure: Dungeon Empire | 119989 | [119989-text-adventure-dungeon-empire.json](./119989-text-adventure-dungeon-empire.json) |
 | Text Adventure: Xianghua-hen | 227749 | [227749-text-adventure-xianghua-hen.json](./227749-text-adventure-xianghua-hen.json) |
 | Text and Drive: Friendship Never Dies | 131384 | [131384-text-and-drive-friendship-never-dies.json](./131384-text-and-drive-friendship-never-dies.json) |
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
@@ -4712,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
 | That Damn Goat | 267815 | [267815-that-damn-goat.json](./267815-that-damn-goat.json) |
 | That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
+| That Flipping Mountain | 119987 | [119987-that-flipping-mountain.json](./119987-that-flipping-mountain.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Golf Game | 213358 | [213358-that-golf-game.json](./213358-that-golf-game.json) |
 | That Gravity Glow | 290120 | [290120-that-gravity-glow.json](./290120-that-gravity-glow.json) |
@@ -10270,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey of Allen Strange: Match-Master | 273879 | [273879-the-journey-of-allen-strange-match-master.json](./273879-the-journey-of-allen-strange-match-master.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
 | The Journey of Elisa | 280916 | [280916-the-journey-of-elisa.json](./280916-the-journey-of-elisa.json) |
+| The Journey of Europe | 119942 | [119942-the-journey-of-europe.json](./119942-the-journey-of-europe.json) |
 | The Journey of Forgotten Memories | 31500 | [31500-the-journey-of-forgotten-memories.json](./31500-the-journey-of-forgotten-memories.json) |
 | The Journey of Ieser | 63537 | [63537-the-journey-of-ieser.json](./63537-the-journey-of-ieser.json) |
 | The Journey of Piggy | 287092 | [287092-the-journey-of-piggy.json](./287092-the-journey-of-piggy.json) |
