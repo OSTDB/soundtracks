@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yīngyǔ Shā | 164237 | [164237-yingyu-sha.json](./164237-yingyu-sha.json) |
 | Yingzinue: Donghei | 188926 | [188926-yingzinue-donghei.json](./188926-yingzinue-donghei.json) |
 | Yǐnlóng Zhuán: Yǐngzōng | 74287 | [74287-yinlong-zhuan-yingzong.json](./74287-yinlong-zhuan-yingzong.json) |
+| Yīnsù Fēilóng | 64045 | [64045-yinsu-feilong.json](./64045-yinsu-feilong.json) |
 | Yinyang | 115969 | [115969-yinyang.json](./115969-yinyang.json) |
 | YinYang Street | 240130 | [240130-yinyang-street.json](./240130-yinyang-street.json) |
 | YinYang Street: Separate Ways | 345818 | [345818-yinyang-street-separate-ways.json](./345818-yinyang-street-separate-ways.json) |
