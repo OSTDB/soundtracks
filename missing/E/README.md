@@ -6294,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Altar of Malice | 61169 | [61169-everquest-ii-altar-of-malice.json](./61169-everquest-ii-altar-of-malice.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: Chaos Descending | 110883 | [110883-everquest-ii-chaos-descending.json](./110883-everquest-ii-chaos-descending.json) |
+| EverQuest II: Destiny of Velious | 66464 | [66464-everquest-ii-destiny-of-velious.json](./66464-everquest-ii-destiny-of-velious.json) |
 | EverQuest II: Echoes of Faydwer | 20631 | [20631-everquest-ii-echoes-of-faydwer.json](./20631-everquest-ii-echoes-of-faydwer.json) |
 | EverQuest II: Kingdom of Sky | 20490 | [20490-everquest-ii-kingdom-of-sky.json](./20490-everquest-ii-kingdom-of-sky.json) |
 | EverQuest II: Planes of Prophecy | 75212 | [75212-everquest-ii-planes-of-prophecy.json](./75212-everquest-ii-planes-of-prophecy.json) |
@@ -6315,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Empires of Kunark | 57453 | [57453-everquest-empires-of-kunark.json](./57453-everquest-empires-of-kunark.json) |
 | EverQuest: Evolution | 23746 | [23746-everquest-evolution.json](./23746-everquest-evolution.json) |
 | EverQuest: Gold Edition | 209221 | [209221-everquest-gold-edition.json](./209221-everquest-gold-edition.json) |
+| EverQuest: House of Thule | 66459 | [66459-everquest-house-of-thule.json](./66459-everquest-house-of-thule.json) |
 | EverQuest: Lost Dungeons of Norrath | 24093 | [24093-everquest-lost-dungeons-of-norrath.json](./24093-everquest-lost-dungeons-of-norrath.json) |
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
 | EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
