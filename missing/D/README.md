@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Final Cinderella - Collector's Edition | 32779 | [32779-dark-parables-the-final-cinderella-collectors-edition.json](./32779-dark-parables-the-final-cinderella-collectors-edition.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide | 57160 | [57160-dark-parables-the-little-mermaid-and-the-purple-tide.json](./57160-dark-parables-the-little-mermaid-and-the-purple-tide.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide - Collector's Edition | 33232 | [33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json](./33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json) |
+| Dark Parables: The Little Mermaid and the Purple Tide HD | 93913 | [93913-dark-parables-the-little-mermaid-and-the-purple-tide-hd.json](./93913-dark-parables-the-little-mermaid-and-the-purple-tide-hd.json) |
 | Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
 | Dark Parables: The Match Girl's Lost Paradise - Collector's Edition | 111694 | [111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json](./111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json) |
 | Dark Parables: The Queen of Sands | 57158 | [57158-dark-parables-the-queen-of-sands.json](./57158-dark-parables-the-queen-of-sands.json) |
@@ -15440,6 +15441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropper | 135551 | [135551-dropper.json](./135551-dropper.json) |
 | Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
+| DROPSHIP | 93925 | [93925-dropship.json](./93925-dropship.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
 | DropShock | 137959 | [137959-dropshock.json](./137959-dropshock.json) |
