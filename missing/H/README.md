@@ -4703,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Morgana | 411072 | [411072-hentai-morgana.json](./411072-hentai-morgana.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
+| Hentai Mosaique Puzzle | 113283 | [113283-hentai-mosaique-puzzle.json](./113283-hentai-mosaique-puzzle.json) |
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
 | Hentai Natsuki | 340441 | [340441-hentai-natsuki.json](./340441-hentai-natsuki.json) |
 | Hentai Nazi | 141506 | [141506-hentai-nazi.json](./141506-hentai-nazi.json) |
@@ -7142,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Quest | 81915 | [81915-hill-quest.json](./81915-hill-quest.json) |
 | Hill Racer | 106760 | [106760-hill-racer.json](./106760-hill-racer.json) |
 | Hill Racer Champions | 106768 | [106768-hill-racer-champions.json](./106768-hill-racer-champions.json) |
+| Hill Racing | 113314 | [113314-hill-racing.json](./113314-hill-racing.json) |
 | Hill Ridge Lost & Found | 57505 | [57505-hill-ridge-lost-and-found.json](./57505-hill-ridge-lost-and-found.json) |
 | Hill Slide: The Skate Adventure | 364229 | [364229-hill-slide-the-skate-adventure.json](./364229-hill-slide-the-skate-adventure.json) |
 | Hill Street Blues | 71989 | [71989-hill-street-blues.json](./71989-hill-street-blues.json) |
@@ -11187,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
 | Hyper Frenzy | 152828 | [152828-hyper-frenzy.json](./152828-hyper-frenzy.json) |
 | Hyper Front | 187492 | [187492-hyper-front.json](./187492-hyper-front.json) |
+| Hyper Galactica | 113338 | [113338-hyper-galactica.json](./113338-hyper-galactica.json) |
 | Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
 | Hyper Gods | 22094 | [22094-hyper-gods.json](./22094-hyper-gods.json) |
 | Hyper Gunsport | 204825 | [204825-hyper-gunsport.json](./204825-hyper-gunsport.json) |
@@ -11436,6 +11439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperrail Detective | 272762 | [272762-hyperrail-detective.json](./272762-hyperrail-detective.json) |
 | Hyperscale | 410398 | [410398-hyperscale.json](./410398-hyperscale.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
+| HyperShip Out of Control 2 | 113291 | [113291-hypership-out-of-control-2.json](./113291-hypership-out-of-control-2.json) |
 | HyperShot | 142704 | [142704-hypershot.json](./142704-hypershot.json) |
 | Hyperslice | 303556 | [303556-hyperslice.json](./303556-hyperslice.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
