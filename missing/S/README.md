@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvo Subs | 316386 | [316386-salvo-subs.json](./316386-salvo-subs.json) |
 | Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
 | Salzburg no Majo: The Witch of Salzburg | 80148 | [80148-salzburg-no-majo-the-witch-of-salzburg.json](./80148-salzburg-no-majo-the-witch-of-salzburg.json) |
+| Sam & Dan: Floaty Flatmates | 112610 | [112610-sam-and-dan-floaty-flatmates.json](./112610-sam-and-dan-floaty-flatmates.json) |
 | Sam & MaRU | 158079 | [158079-sam-and-maru.json](./158079-sam-and-maru.json) |
 | Sam & Max Hit the Road | 202 | [202-sam-and-max-hit-the-road.json](./202-sam-and-max-hit-the-road.json) |
 | Sam & Max Plunge Through Space | 131364 | [131364-sam-and-max-plunge-through-space.json](./131364-sam-and-max-plunge-through-space.json) |
@@ -1699,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Silent Night | 183912 | [183912-santas-silent-night.json](./183912-santas-silent-night.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
+| Santa's Story of Christmas | 112629 | [112629-santas-story-of-christmas.json](./112629-santas-story-of-christmas.json) |
 | Santa's Toy Factory Nonograms | 149787 | [149787-santas-toy-factory-nonograms.json](./149787-santas-toy-factory-nonograms.json) |
 | Santa's Vacation | 76391 | [76391-santas-vacation.json](./76391-santas-vacation.json) |
 | Santa's Visit | 123895 | [123895-santas-visit.json](./123895-santas-visit.json) |
@@ -2700,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Of Love: Clubs! | 290305 | [290305-school-of-love-clubs.json](./290305-school-of-love-clubs.json) |
 | School of Magic | 133120 | [133120-school-of-magic.json](./133120-school-of-magic.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
+| School of the Dead: Anastasia | 112579 | [112579-school-of-the-dead-anastasia.json](./112579-school-of-the-dead-anastasia.json) |
 | School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
 | School Out Simulator3 | 296444 | [296444-school-out-simulator3.json](./296444-school-out-simulator3.json) |
 | School Owner | 116045 | [116045-school-owner.json](./116045-school-owner.json) |
@@ -3358,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll Extreme | 22266 | [22266-scroll-extreme.json](./22266-scroll-extreme.json) |
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
 | Scroll of Onmyoji | 303186 | [303186-scroll-of-onmyoji.json](./303186-scroll-of-onmyoji.json) |
+| Scroll of Wuru and No.95 Zizun | 112632 | [112632-scroll-of-wuru-and-no-95-zizun.json](./112632-scroll-of-wuru-and-no-95-zizun.json) |
 | Scroll Scramble | 240680 | [240680-scroll-scramble.json](./240680-scroll-scramble.json) |
 | Scroll Survival | 276611 | [276611-scroll-survival.json](./276611-scroll-survival.json) |
 | Scroll the Pain Away | 274340 | [274340-scroll-the-pain-away.json](./274340-scroll-the-pain-away.json) |
@@ -13062,6 +13066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
 | Smoke Keeper | 414765 | [414765-smoke-keeper.json](./414765-smoke-keeper.json) |
 | Smoke Masks | 321041 | [321041-smoke-masks.json](./321041-smoke-masks.json) |
+| Smoked | 112607 | [112607-smoked.json](./112607-smoked.json) |
 | Smoked Fish and Cabbage | 330067 | [330067-smoked-fish-and-cabbage.json](./330067-smoked-fish-and-cabbage.json) |
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
@@ -15009,6 +15014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Klondike Card Game | 88833 | [88833-solitaire-klondike-card-game.json](./88833-solitaire-klondike-card-game.json) |
 | Solitaire: Klondike Pro | 100998 | [100998-solitaire-klondike-pro.json](./100998-solitaire-klondike-pro.json) |
 | Solitaire: Learn Chemistry! | 114917 | [114917-solitaire-learn-chemistry.json](./114917-solitaire-learn-chemistry.json) |
+| Solitaire: Learn the Flags! | 112630 | [112630-solitaire-learn-the-flags.json](./112630-solitaire-learn-the-flags.json) |
 | Solitaire: Match 2 Cards - Valentine's Day | 286520 | [286520-solitaire-match-2-cards-valentines-day.json](./286520-solitaire-match-2-cards-valentines-day.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitaire: The Clean One | 221851 | [221851-solitaire-the-clean-one.json](./221851-solitaire-the-clean-one.json) |
@@ -18679,6 +18685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Enquiry Detail: Engaged to Kill | 88659 | [88659-special-enquiry-detail-engaged-to-kill.json](./88659-special-enquiry-detail-engaged-to-kill.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
+| Special Force 2 SEA | 112571 | [112571-special-force-2-sea.json](./112571-special-force-2-sea.json) |
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
 | Special Force Alpha | 394786 | [394786-special-force-alpha.json](./394786-special-force-alpha.json) |
 | Special Force Double Take | 154291 | [154291-special-force-double-take.json](./154291-special-force-double-take.json) |
@@ -19363,6 +19370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice Bandits | 312073 | [312073-spice-bandits.json](./312073-spice-bandits.json) |
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
 | Spice Odyssey | 310492 | [310492-spice-odyssey.json](./310492-spice-odyssey.json) |
+| Spice Pirates in Space: A Retro RPG | 112623 | [112623-spice-pirates-in-space-a-retro-rpg.json](./112623-spice-pirates-in-space-a-retro-rpg.json) |
 | Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
 | Spice Trade | 302903 | [302903-spice-trade.json](./302903-spice-trade.json) |
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
@@ -22066,6 +22074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
 | Star Wars Arcade Remake: Racer | 334876 | [334876-star-wars-arcade-remake-racer.json](./334876-star-wars-arcade-remake-racer.json) |
 | Star Wars Arcade: Falcon Gunner | 74901 | [74901-star-wars-arcade-falcon-gunner.json](./74901-star-wars-arcade-falcon-gunner.json) |
+| Star Wars Battlefront II: Battle of Geonosis | 112586 | [112586-star-wars-battlefront-ii-battle-of-geonosis.json](./112586-star-wars-battlefront-ii-battle-of-geonosis.json) |
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
 | Star Wars Battlefront II: Elite Trooper Deluxe Edition | 51486 | [51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json](./51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json) |
 | Star Wars Battlefront II: Resurrection | 138124 | [138124-star-wars-battlefront-ii-resurrection.json](./138124-star-wars-battlefront-ii-resurrection.json) |
@@ -29367,6 +29376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super R-Type | 42574 | [42574-super-r-type.json](./42574-super-r-type.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
+| Super Racha | 112621 | [112621-super-racha.json](./112621-super-racha.json) |
 | Super Racing | 287563 | [287563-super-racing.json](./287563-super-racing.json) |
 | Super Racing | 46103 | [46103-super-racing.json](./46103-super-racing.json) |
 | Super Rad Ball | 234505 | [234505-super-rad-ball.json](./234505-super-rad-ball.json) |
@@ -29445,6 +29455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Gaiden: Masou Kishin - The Lord of Elemental | 38233 | [38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json](./38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json) |
 | Super Robot Taisen GC | 4189 | [4189-super-robot-taisen-gc.json](./4189-super-robot-taisen-gc.json) |
 | Super Robot Taisen K | 79340 | [79340-super-robot-taisen-k.json](./79340-super-robot-taisen-k.json) |
+| Super Robot Taisen Link Battler | 112601 | [112601-super-robot-taisen-link-battler.json](./112601-super-robot-taisen-link-battler.json) |
 | Super Robot Taisen Neo | 76902 | [76902-super-robot-taisen-neo.json](./76902-super-robot-taisen-neo.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG Gaiden | 72741 | [72741-super-robot-taisen-og-gaiden.json](./72741-super-robot-taisen-og-gaiden.json) |
