@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGT Aztec Temple | 25064 | [25064-igt-aztec-temple.json](./25064-igt-aztec-temple.json) |
 | IGT Slots Kitty Glitter | 87322 | [87322-igt-slots-kitty-glitter.json](./87322-igt-slots-kitty-glitter.json) |
 | IGT Slots Paradise Garden | 17793 | [17793-igt-slots-paradise-garden.json](./17793-igt-slots-paradise-garden.json) |
+| IGT Slots: Lucky Larry's Lobstermania | 65716 | [65716-igt-slots-lucky-larrys-lobstermania.json](./65716-igt-slots-lucky-larrys-lobstermania.json) |
 | IguaRPG | 242410 | [242410-iguarpg.json](./242410-iguarpg.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | iGun Pro | 88473 | [88473-igun-pro.json](./88473-igun-pro.json) |
@@ -3983,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inori's House | 118624 | [118624-inoris-house.json](./118624-inoris-house.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
 | InorStreet | 329445 | [329445-inorstreet.json](./329445-inorstreet.json) |
+| Inotia 2: A Wanderer of Luone | 65877 | [65877-inotia-2-a-wanderer-of-luone.json](./65877-inotia-2-a-wanderer-of-luone.json) |
 | Inotia 3: Children of Carnia | 38740 | [38740-inotia-3-children-of-carnia.json](./38740-inotia-3-children-of-carnia.json) |
 | Inotia 4 | 383999 | [383999-inotia-4.json](./383999-inotia-4.json) |
 | Inotia 4: Assassin of Berkel | 38741 | [38741-inotia-4-assassin-of-berkel.json](./38741-inotia-4-assassin-of-berkel.json) |
