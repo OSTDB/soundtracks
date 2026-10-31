@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImageFight II | 86242 | [86242-imagefight-ii.json](./86242-imagefight-ii.json) |
 | Images Quiz | 243318 | [243318-images-quiz.json](./243318-images-quiz.json) |
 | ImageStriker2 | 230796 | [230796-imagestriker2.json](./230796-imagestriker2.json) |
+| Imagic 1-2-3 | 94495 | [94495-imagic-1-2-3.json](./94495-imagic-1-2-3.json) |
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
 | Imagicard: Teenage Mutant Ninja Turtles | 137905 | [137905-imagicard-teenage-mutant-ninja-turtles.json](./137905-imagicard-teenage-mutant-ninja-turtles.json) |
 | ImaginAction | 210082 | [210082-imaginaction.json](./210082-imaginaction.json) |
@@ -5540,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iShuffle Board 2 | 174234 | [174234-ishuffle-board-2.json](./174234-ishuffle-board-2.json) |
 | IShuffle Bowling | 175298 | [175298-ishuffle-bowling.json](./175298-ishuffle-bowling.json) |
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
+| Isis | 94484 | [94484-isis.json](./94484-isis.json) |
 | ISIS Simulator | 128854 | [128854-isis-simulator.json](./128854-isis-simulator.json) |
 | Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
 | Iskelonia | 290489 | [290489-iskelonia.json](./290489-iskelonia.json) |
