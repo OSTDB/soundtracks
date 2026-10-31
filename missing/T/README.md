@@ -13610,6 +13610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Power WWE Action | 188350 | [188350-the-power-wwe-action.json](./188350-the-power-wwe-action.json) |
 | The Powermon Adventure! | 288676 | [288676-the-powermon-adventure.json](./288676-the-powermon-adventure.json) |
 | The Powerpuff Girls | 217930 | [217930-the-powerpuff-girls.json](./217930-the-powerpuff-girls.json) |
+| The PowerPuff Girls Learning Challenge #1: Mojo Jojo's Clone Zone | 112011 | [112011-the-powerpuff-girls-learning-challenge-1-mojo-jojos-clone-zone.json](./112011-the-powerpuff-girls-learning-challenge-1-mojo-jojos-clone-zone.json) |
 | The Powerpuff Girls: Battle HIM | 49832 | [49832-the-powerpuff-girls-battle-him.json](./49832-the-powerpuff-girls-battle-him.json) |
 | The Powerpuff Girls: Chemical X-Traction | 19421 | [19421-the-powerpuff-girls-chemical-x-traction.json](./19421-the-powerpuff-girls-chemical-x-traction.json) |
 | The Powerpuff Girls: Defenders of Townsville | 50484 | [50484-the-powerpuff-girls-defenders-of-townsville.json](./50484-the-powerpuff-girls-defenders-of-townsville.json) |
@@ -14671,6 +14672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seventh Floor | 337152 | [337152-the-seventh-floor.json](./337152-the-seventh-floor.json) |
 | The Seventh Link | 356863 | [356863-the-seventh-link.json](./356863-the-seventh-link.json) |
 | The Seventh Seal | 389595 | [389595-the-seventh-seal.json](./389595-the-seventh-seal.json) |
+| The Seventh Seal: Resurrection of the Dark Lord | 112016 | [112016-the-seventh-seal-resurrection-of-the-dark-lord.json](./112016-the-seventh-seal-resurrection-of-the-dark-lord.json) |
 | The Seventh Sign: Mr.Sister | 187852 | [187852-the-seventh-sign-mr-sister.json](./187852-the-seventh-sign-mr-sister.json) |
 | The Seventh Star | 13755 | [13755-the-seventh-star.json](./13755-the-seventh-star.json) |
 | The Seventh Warrior | 176751 | [176751-the-seventh-warrior.json](./176751-the-seventh-warrior.json) |
@@ -17768,6 +17770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Swings a Skull: Grim Tidings | 200528 | [200528-there-swings-a-skull-grim-tidings.json](./200528-there-swings-a-skull-grim-tidings.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
 | There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
+| There Was a Dream | 112027 | [112027-there-was-a-dream.json](./112027-there-was-a-dream.json) |
 | There Was a Mixup at the Factory! | 227810 | [227810-there-was-a-mixup-at-the-factory.json](./227810-there-was-a-mixup-at-the-factory.json) |
 | There was something here | 183873 | [183873-there-was-something-here.json](./183873-there-was-something-here.json) |
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
@@ -27752,6 +27755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
+| Trials of Ashur | 112003 | [112003-trials-of-ashur.json](./112003-trials-of-ashur.json) |
 | Trials of Azra | 32399 | [32399-trials-of-azra.json](./32399-trials-of-azra.json) |
 | Trials of Cascadia | 226364 | [226364-trials-of-cascadia.json](./226364-trials-of-cascadia.json) |
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
@@ -29721,6 +29725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
 | TV Yarou Nanana: Get the Scoop! | 180992 | [180992-tv-yarou-nanana-get-the-scoop.json](./180992-tv-yarou-nanana-get-the-scoop.json) |
 | TV-Chan's Great Escape! | 358639 | [358639-tv-chans-great-escape.json](./358639-tv-chans-great-escape.json) |
+| TV189 | 112004 | [112004-tv189.json](./112004-tv189.json) |
 | TV1998 | 257354 | [257354-tv1998.json](./257354-tv1998.json) |
 | TVG Journey | 197563 | [197563-tvg-journey.json](./197563-tvg-journey.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
