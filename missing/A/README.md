@@ -2343,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Driver: Victory Lap | 65921 | [65921-ace-driver-victory-lap.json](./65921-ace-driver-victory-lap.json) |
 | Ace Duswell: Where's the Ace? | 58067 | [58067-ace-duswell-wheres-the-ace.json](./58067-ace-duswell-wheres-the-ace.json) |
 | Ace Fishing: Crew | 257790 | [257790-ace-fishing-crew.json](./257790-ace-fishing-crew.json) |
+| Ace Fishing: Wild Catch | 108158 | [108158-ace-fishing-wild-catch.json](./108158-ace-fishing-wild-catch.json) |
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Gals Tennis | 61059 | [61059-ace-gals-tennis.json](./61059-ace-gals-tennis.json) |
 | Ace Gambler: Phoenix Wright | 302644 | [302644-ace-gambler-phoenix-wright.json](./302644-ace-gambler-phoenix-wright.json) |
@@ -7684,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Farmer | 95159 | [95159-american-farmer.json](./95159-american-farmer.json) |
 | American FKN Election | 329103 | [329103-american-fkn-election.json](./329103-american-fkn-election.json) |
 | American Football | 58278 | [58278-american-football.json](./58278-american-football.json) |
+| American Football Champs | 108106 | [108106-american-football-champs.json](./108106-american-football-champs.json) |
 | American Football Game: Quarter Back Scramble | 130646 | [130646-american-football-game-quarter-back-scramble.json](./130646-american-football-game-quarter-back-scramble.json) |
 | American Football: Guns & Balls | 242461 | [242461-american-football-guns-and-balls.json](./242461-american-football-guns-and-balls.json) |
 | American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
@@ -8517,6 +8519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ane Hara-Mix Two | 97767 | [97767-ane-hara-mix-two.json](./97767-ane-hara-mix-two.json) |
 | AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
 | AneeMate | 305989 | [305989-aneemate.json](./305989-aneemate.json) |
+| Anekan: Onechan Kansatsu Nikki | 108144 | [108144-anekan-onechan-kansatsu-nikki.json](./108144-anekan-onechan-kansatsu-nikki.json) |
 | Anekouji Naoko to Gin'iro no Shinigami | 60476 | [60476-anekouji-naoko-to-giniro-no-shinigami.json](./60476-anekouji-naoko-to-giniro-no-shinigami.json) |
 | Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
