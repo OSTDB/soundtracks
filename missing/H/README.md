@@ -10655,6 +10655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
 | Hunchy | 93401 | [93401-hunchy.json](./93401-hunchy.json) |
 | Hunchy 1066 | 67781 | [67781-hunchy-1066.json](./67781-hunchy-1066.json) |
+| Hunchy 2 | 93295 | [93295-hunchy-2.json](./93295-hunchy-2.json) |
 | Hunchy 2010 | 67780 | [67780-hunchy-2010.json](./67780-hunchy-2010.json) |
 | Hunckie Egg | 134422 | [134422-hunckie-egg.json](./134422-hunckie-egg.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
