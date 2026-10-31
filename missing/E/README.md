@@ -6324,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
 | EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
 | EverQuest: Prophecy of Ro | 72906 | [72906-everquest-prophecy-of-ro.json](./72906-everquest-prophecy-of-ro.json) |
+| EverQuest: Rain of Fear | 64625 | [64625-everquest-rain-of-fear.json](./64625-everquest-rain-of-fear.json) |
 | EverQuest: Ring of Scale | 75211 | [75211-everquest-ring-of-scale.json](./75211-everquest-ring-of-scale.json) |
 | EverQuest: Secrets of Faydwer | 72904 | [72904-everquest-secrets-of-faydwer.json](./72904-everquest-secrets-of-faydwer.json) |
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
