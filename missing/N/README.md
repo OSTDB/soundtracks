@@ -3646,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Jr. Go Diego Go! | 245428 | [245428-nick-jr-go-diego-go.json](./245428-nick-jr-go-diego-go.json) |
 | Nick Jr. Play Math! | 210029 | [210029-nick-jr-play-math.json](./210029-nick-jr-play-math.json) |
 | Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
+| Nick Naster's eXtinction | 71877 | [71877-nick-nasters-extinction.json](./71877-nick-nasters-extinction.json) |
 | Nick Neaker | 97811 | [97811-nick-neaker.json](./97811-nick-neaker.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
 | Nick of Time | 176225 | [176225-nick-of-time.json](./176225-nick-of-time.json) |
