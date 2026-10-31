@@ -3192,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payne Stewart Golf | 210012 | [210012-payne-stewart-golf.json](./210012-payne-stewart-golf.json) |
 | Payout Poker & Casino | 131154 | [131154-payout-poker-and-casino.json](./131154-payout-poker-and-casino.json) |
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
+| Payphone Mania! | 101887 | [101887-payphone-mania.json](./101887-payphone-mania.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Payroll | 30710 | [30710-payroll.json](./30710-payroll.json) |
 | Payroll | 385391 | [385391-payroll.json](./385391-payroll.json) |
@@ -14345,6 +14346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Green | 313340 | [313340-project-green.json](./313340-project-green.json) |
 | Project Green Beat | 36017 | [36017-project-green-beat.json](./36017-project-green-beat.json) |
 | Project Guard | 84805 | [84805-project-guard.json](./84805-project-guard.json) |
+| Project GunGame | 101903 | [101903-project-gungame.json](./101903-project-gungame.json) |
 | Project Gunship | 202549 | [202549-project-gunship.json](./202549-project-gunship.json) |
 | Project GW | 314320 | [314320-project-gw.json](./314320-project-gw.json) |
 | Project H | 158393 | [158393-project-h.json](./158393-project-h.json) |
