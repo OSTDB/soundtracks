@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Creature Jigsaws | 292257 | [292257-fantasy-creature-jigsaws.json](./292257-fantasy-creature-jigsaws.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Defenders Bundle: Defend the Rook & Legend of Keepers | 262224 | [262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json](./262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json) |
+| Fantasy Defense | 81813 | [81813-fantasy-defense.json](./81813-fantasy-defense.json) |
 | Fantasy Desire: Anime Girls Saga | 378756 | [378756-fantasy-desire-anime-girls-saga.json](./378756-fantasy-desire-anime-girls-saga.json) |
 | Fantasy Dimension - Imagination & Tactics | 59718 | [59718-fantasy-dimension-imagination-and-tactics.json](./59718-fantasy-dimension-imagination-and-tactics.json) |
 | Fantasy Dungeon | 149246 | [149246-fantasy-dungeon.json](./149246-fantasy-dungeon.json) |
@@ -9180,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Former Dawn | 322514 | [322514-former-dawn.json](./322514-former-dawn.json) |
 | Former Dawn | 322515 | [322515-former-dawn.json](./322515-former-dawn.json) |
 | Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
+| FormFish | 81833 | [81833-formfish.json](./81833-formfish.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
 | Formidable Alice | 134843 | [134843-formidable-alice.json](./134843-formidable-alice.json) |
 | Formido | 372243 | [372243-formido.json](./372243-formido.json) |
