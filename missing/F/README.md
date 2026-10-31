@@ -4631,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
 | Final Fantasy XI Braver | 176843 | [176843-final-fantasy-xi-braver.json](./176843-final-fantasy-xi-braver.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
+| Final Fantasy XI R | 101214 | [101214-final-fantasy-xi-r.json](./101214-final-fantasy-xi-r.json) |
 | Final Fantasy XI: A Crystalline Prophecy | 255633 | [255633-final-fantasy-xi-a-crystalline-prophecy.json](./255633-final-fantasy-xi-a-crystalline-prophecy.json) |
 | Final Fantasy XI: A Moogle Kupo d'Etat | 255771 | [255771-final-fantasy-xi-a-moogle-kupo-detat.json](./255771-final-fantasy-xi-a-moogle-kupo-detat.json) |
 | Final Fantasy XI: A Shantotto Ascension | 255773 | [255773-final-fantasy-xi-a-shantotto-ascension.json](./255773-final-fantasy-xi-a-shantotto-ascension.json) |
