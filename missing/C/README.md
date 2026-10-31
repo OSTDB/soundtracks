@@ -17810,6 +17810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious George Goes Shopping | 39367 | [39367-curious-george-goes-shopping.json](./39367-curious-george-goes-shopping.json) |
 | Curious George In Outer Space | 39364 | [39364-curious-george-in-outer-space.json](./39364-curious-george-in-outer-space.json) |
 | Curious George Visits the Library | 39365 | [39365-curious-george-visits-the-library.json](./39365-curious-george-visits-the-library.json) |
+| Curious George: Downtown Adventure | 73973 | [73973-curious-george-downtown-adventure.json](./73973-curious-george-downtown-adventure.json) |
 | Curious Paws: Hidden Objects | 409206 | [409206-curious-paws-hidden-objects.json](./409206-curious-paws-hidden-objects.json) |
 | Curious? | 406813 | [406813-curious.json](./406813-curious.json) |
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
