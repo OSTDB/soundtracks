@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
 | Jewels Time : Endless match | 108510 | [108510-jewels-time-endless-match.json](./108510-jewels-time-endless-match.json) |
 | Jex | 318245 | [318245-jex.json](./318245-jex.json) |
+| Jey's Empire | 118580 | [118580-jeys-empire.json](./118580-jeys-empire.json) |
 | Jezebel | 377033 | [377033-jezebel.json](./377033-jezebel.json) |
 | Jezebel and the Flame | 186254 | [186254-jezebel-and-the-flame.json](./186254-jezebel-and-the-flame.json) |
 | Jezebel: Givin' Love a Shot | 260611 | [260611-jezebel-givin-love-a-shot.json](./260611-jezebel-givin-love-a-shot.json) |
@@ -3476,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution: Carnivore Dinosaur Pack | 152605 | [152605-jurassic-world-evolution-carnivore-dinosaur-pack.json](./152605-jurassic-world-evolution-carnivore-dinosaur-pack.json) |
 | Jurassic World Evolution: Cretaceous Dinosaur Pack | 113368 | [113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json](./113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json) |
 | Jurassic World Evolution: Deluxe Dinosaur Pack | 226794 | [226794-jurassic-world-evolution-deluxe-dinosaur-pack.json](./226794-jurassic-world-evolution-deluxe-dinosaur-pack.json) |
+| Jurassic World Evolution: Deluxe Edition | 118556 | [118556-jurassic-world-evolution-deluxe-edition.json](./118556-jurassic-world-evolution-deluxe-edition.json) |
 | Jurassic World Evolution: Dinosaur Collection | 227420 | [227420-jurassic-world-evolution-dinosaur-collection.json](./227420-jurassic-world-evolution-dinosaur-collection.json) |
 | Jurassic World Evolution: Expansion Collection | 164587 | [164587-jurassic-world-evolution-expansion-collection.json](./164587-jurassic-world-evolution-expansion-collection.json) |
 | Jurassic World Evolution: Herbivore Dinosaur Pack | 152607 | [152607-jurassic-world-evolution-herbivore-dinosaur-pack.json](./152607-jurassic-world-evolution-herbivore-dinosaur-pack.json) |
