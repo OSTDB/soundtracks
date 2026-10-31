@@ -5360,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry Banana | 114918 | [114918-the-angry-banana.json](./114918-the-angry-banana.json) |
 | The Angry Beavers: Match-Master | 273882 | [273882-the-angry-beavers-match-master.json](./273882-the-angry-beavers-match-master.json) |
 | The Angry Birds Movie 2 VR: Under Pressure | 119333 | [119333-the-angry-birds-movie-2-vr-under-pressure.json](./119333-the-angry-birds-movie-2-vr-under-pressure.json) |
+| The Angry Hand of God | 65869 | [65869-the-angry-hand-of-god.json](./65869-the-angry-hand-of-god.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Angry Video Game Nerd K.O. Boxing | 195569 | [195569-the-angry-video-game-nerd-k-o-boxing.json](./195569-the-angry-video-game-nerd-k-o-boxing.json) |
 | The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
@@ -6760,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
 | The ClueFinders Reading Adventures | 91799 | [91799-the-cluefinders-reading-adventures.json](./91799-the-cluefinders-reading-adventures.json) |
 | The Clumsys | 53706 | [53706-the-clumsys.json](./53706-the-clumsys.json) |
+| The Clumsys 2: Butterfly Effect | 65863 | [65863-the-clumsys-2-butterfly-effect.json](./65863-the-clumsys-2-butterfly-effect.json) |
 | The Cluster | 398150 | [398150-the-cluster.json](./398150-the-cluster.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
@@ -12405,6 +12407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mangust | 244857 | [244857-the-mangust.json](./244857-the-mangust.json) |
 | The Manhole: Masterpiece Edition | 51837 | [51837-the-manhole-masterpiece-edition.json](./51837-the-manhole-masterpiece-edition.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
+| The Manipulator | 65720 | [65720-the-manipulator.json](./65720-the-manipulator.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
 | The Manor | 356029 | [356029-the-manor.json](./356029-the-manor.json) |
 | The Manse on Soracca | 128283 | [128283-the-manse-on-soracca.json](./128283-the-manse-on-soracca.json) |
@@ -23154,6 +23157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka Construction 2 | 7958 | [7958-tonka-construction-2.json](./7958-tonka-construction-2.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
 | Tonka Garage | 7956 | [7956-tonka-garage.json](./7956-tonka-garage.json) |
+| Tonka Monster Trucks | 65703 | [65703-tonka-monster-trucks.json](./65703-tonka-monster-trucks.json) |
 | Tonka Raceway | 7957 | [7957-tonka-raceway.json](./7957-tonka-raceway.json) |
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
 | Tonka Search and Rescue | 7955 | [7955-tonka-search-and-rescue.json](./7955-tonka-search-and-rescue.json) |
@@ -24657,6 +24661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defense: Goblin Wars | 384204 | [384204-tower-defense-goblin-wars.json](./384204-tower-defense-goblin-wars.json) |
 | Tower Defense: Infinite War | 214330 | [214330-tower-defense-infinite-war.json](./214330-tower-defense-infinite-war.json) |
 | Tower Defense: Infinite War - Infinite Starter Package | 296247 | [296247-tower-defense-infinite-war-infinite-starter-package.json](./296247-tower-defense-infinite-war-infinite-starter-package.json) |
+| Tower Defense: Lost Earth | 65878 | [65878-tower-defense-lost-earth.json](./65878-tower-defense-lost-earth.json) |
 | Tower Dominion | 328027 | [328027-tower-dominion.json](./328027-tower-dominion.json) |
 | Tower Doomer | 289934 | [289934-tower-doomer.json](./289934-tower-doomer.json) |
 | Tower Dream | 64738 | [64738-tower-dream.json](./64738-tower-dream.json) |
@@ -30377,6 +30382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Tower | 269507 | [269507-twisted-tower.json](./269507-twisted-tower.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
+| Twisted: A Haunted Carol | 65879 | [65879-twisted-a-haunted-carol.json](./65879-twisted-a-haunted-carol.json) |
 | Twisted: Enhanced Edition | 54335 | [54335-twisted-enhanced-edition.json](./54335-twisted-enhanced-edition.json) |
 | Twisted: The Game Show | 4321 | [4321-twisted-the-game-show.json](./4321-twisted-the-game-show.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
