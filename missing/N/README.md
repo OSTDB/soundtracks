@@ -7044,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NY Race | 22047 | [22047-ny-race.json](./22047-ny-race.json) |
 | Ny Rex | 101025 | [101025-ny-rex.json](./101025-ny-rex.json) |
 | NY Times | 358269 | [358269-ny-times.json](./358269-ny-times.json) |
+| NY Warriors | 69663 | [69663-ny-warriors.json](./69663-ny-warriors.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
 | Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
 | Nyakamon Adventures | 152159 | [152159-nyakamon-adventures.json](./152159-nyakamon-adventures.json) |
