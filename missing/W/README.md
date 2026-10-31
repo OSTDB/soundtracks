@@ -4240,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Noise Online | 17284 | [17284-white-noise-online.json](./17284-white-noise-online.json) |
 | White Noise: Ghost Signal | 374145 | [374145-white-noise-ghost-signal.json](./374145-white-noise-ghost-signal.json) |
 | White Noise! | 359546 | [359546-white-noise.json](./359546-white-noise.json) |
+| White Note | 97637 | [97637-white-note.json](./97637-white-note.json) |
 | White Nothing | 103634 | [103634-white-nothing.json](./103634-white-nothing.json) |
 | White Paper | 207701 | [207701-white-paper.json](./207701-white-paper.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
