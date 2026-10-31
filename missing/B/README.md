@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Bump: Book 1 | 313725 | [313725-baby-bump-book-1.json](./313725-baby-bump-book-1.json) |
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
 | Baby Care & Dressup | 99901 | [99901-baby-care-and-dressup.json](./99901-baby-care-and-dressup.json) |
+| Baby Care Adventure | 95090 | [95090-baby-care-adventure.json](./95090-baby-care-adventure.json) |
 | Baby Climbing | 266104 | [266104-baby-climbing.json](./266104-baby-climbing.json) |
 | Baby Coyote | 157912 | [157912-baby-coyote.json](./157912-baby-coyote.json) |
 | Baby Dino | 283970 | [283970-baby-dino.json](./283970-baby-dino.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | Badlands Crew | 258109 | [258109-badlands-crew.json](./258109-badlands-crew.json) |
 | Badlands Racer | 174049 | [174049-badlands-racer.json](./174049-badlands-racer.json) |
+| BadLands RoadTrip | 95136 | [95136-badlands-roadtrip.json](./95136-badlands-roadtrip.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Badminton Clash: Master League - World Championship Arena | 181654 | [181654-badminton-clash-master-league-world-championship-arena.json](./181654-badminton-clash-master-league-world-championship-arena.json) |
@@ -4537,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearskull 2 | 373833 | [373833-bearskull-2.json](./373833-bearskull-2.json) |
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
+| Bearsus | 95083 | [95083-bearsus.json](./95083-bearsus.json) |
 | Beartopia | 182089 | [182089-beartopia.json](./182089-beartopia.json) |
 | Beartopia | 27502 | [27502-beartopia.json](./27502-beartopia.json) |
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
@@ -8414,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackberry the Witch: Journey | 166408 | [166408-blackberry-the-witch-journey.json](./166408-blackberry-the-witch-journey.json) |
 | BlackberryNova | 126436 | [126436-blackberrynova.json](./126436-blackberrynova.json) |
 | BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
+| Blackbird! | 95101 | [95101-blackbird.json](./95101-blackbird.json) |
 | Blackblade Revenant | 327178 | [327178-blackblade-revenant.json](./327178-blackblade-revenant.json) |
 | Blackbody Theory of Motion | 149357 | [149357-blackbody-theory-of-motion.json](./149357-blackbody-theory-of-motion.json) |
 | Blackbox | 230722 | [230722-blackbox.json](./230722-blackbox.json) |
@@ -14159,6 +14163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
 | Bridge Deluxe 2 With Omar Sharif | 85921 | [85921-bridge-deluxe-2-with-omar-sharif.json](./85921-bridge-deluxe-2-with-omar-sharif.json) |
 | Bridge Encounter | 337726 | [337726-bridge-encounter.json](./337726-bridge-encounter.json) |
+| Bridge Exercises | 95111 | [95111-bridge-exercises.json](./95111-bridge-exercises.json) |
 | Bridge for Windows | 83475 | [83475-bridge-for-windows.json](./83475-bridge-for-windows.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
 | Bridge Hopper | 71918 | [71918-bridge-hopper.json](./71918-bridge-hopper.json) |
