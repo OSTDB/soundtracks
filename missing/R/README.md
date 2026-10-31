@@ -6341,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
 | Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
+| Ribbon Racer | 110664 | [110664-ribbon-racer.json](./110664-ribbon-racer.json) |
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Ribeye Charlie's | 183170 | [183170-ribeye-charlies.json](./183170-ribeye-charlies.json) |
@@ -8061,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robodunk | 152176 | [152176-robodunk.json](./152176-robodunk.json) |
 | RoboFight.io | 122888 | [122888-robofight-io.json](./122888-robofight-io.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
+| RoboGenesis | 110629 | [110629-robogenesis.json](./110629-robogenesis.json) |
 | Roboggled | 156933 | [156933-roboggled.json](./156933-roboggled.json) |
 | Roboglitch | 290624 | [290624-roboglitch.json](./290624-roboglitch.json) |
 | Robohazard 2077 | 115156 | [115156-robohazard-2077.json](./115156-robohazard-2077.json) |
