@@ -19078,7 +19078,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Crew | 243216 | [243216-speed-crew.json](./243216-speed-crew.json) |
 | Speed Dates | 240701 | [240701-speed-dates.json](./240701-speed-dates.json) |
 | Speed Dates: Summer Edition | 348432 | [348432-speed-dates-summer-edition.json](./348432-speed-dates-summer-edition.json) |
-| Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons | 71872 | [71872-speed-demons.json](./71872-speed-demons.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Devils | 23609 | [23609-speed-devils.json](./23609-speed-devils.json) |
