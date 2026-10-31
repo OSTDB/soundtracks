@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Castle | 171251 | [171251-vampire-castle.json](./171251-vampire-castle.json) |
 | Vampire Castle | 50365 | [50365-vampire-castle.json](./50365-vampire-castle.json) |
 | Vampire Cat | 342097 | [342097-vampire-cat.json](./342097-vampire-cat.json) |
+| Vampire Chronicle For Matching Service | 93310 | [93310-vampire-chronicle-for-matching-service.json](./93310-vampire-chronicle-for-matching-service.json) |
 | Vampire Circus | 297481 | [297481-vampire-circus.json](./297481-vampire-circus.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Combat | 190428 | [190428-vampire-combat.json](./190428-vampire-combat.json) |
