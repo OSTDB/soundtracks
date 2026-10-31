@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haxball | 63583 | [63583-haxball.json](./63583-haxball.json) |
 | Häxeri | 411539 | [411539-haxeri.json](./411539-haxeri.json) |
 | Haxity | 128185 | [128185-haxity.json](./128185-haxity.json) |
+| Haxor | 86446 | [86446-haxor.json](./86446-haxor.json) |
 | Haxrail | 347367 | [347367-haxrail.json](./347367-haxrail.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Haxware: Enforcer Games | 258404 | [258404-haxware-enforcer-games.json](./258404-haxware-enforcer-games.json) |
@@ -3198,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Incremental | 366965 | [366965-heat-incremental.json](./366965-heat-incremental.json) |
 | Heat Index | 338278 | [338278-heat-index.json](./338278-heat-index.json) |
 | Heat Me Up! | 378385 | [378385-heat-me-up.json](./378385-heat-me-up.json) |
+| Heat Online | 86349 | [86349-heat-online.json](./86349-heat-online.json) |
 | Heat or Die | 291496 | [291496-heat-or-die.json](./291496-heat-or-die.json) |
 | Heat Project 2 | 140225 | [140225-heat-project-2.json](./140225-heat-project-2.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
@@ -5374,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Team | 158918 | [158918-hero-team.json](./158918-hero-team.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
+| Hero Village Simulator | 86467 | [86467-hero-village-simulator.json](./86467-hero-village-simulator.json) |
 | Hero vs. 1000 | 302044 | [302044-hero-vs-1000.json](./302044-hero-vs-1000.json) |
 | Hero Wars | 140571 | [140571-hero-wars.json](./140571-hero-wars.json) |
 | Hero Wars: Fantasy Battles | 233394 | [233394-hero-wars-fantasy-battles.json](./233394-hero-wars-fantasy-battles.json) |
@@ -5527,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
 | Heroes of Hellas | 54097 | [54097-heroes-of-hellas.json](./54097-heroes-of-hellas.json) |
 | Heroes of Hellas 2: Olympia | 54096 | [54096-heroes-of-hellas-2-olympia.json](./54096-heroes-of-hellas-2-olympia.json) |
+| Heroes of Hellas 4: Birth of Legend | 86449 | [86449-heroes-of-hellas-4-birth-of-legend.json](./86449-heroes-of-hellas-4-birth-of-legend.json) |
 | Heroes of Hellas Origins: Part Two | 218662 | [218662-heroes-of-hellas-origins-part-two.json](./218662-heroes-of-hellas-origins-part-two.json) |
 | Heroes of Higher Realms | 305634 | [305634-heroes-of-higher-realms.json](./305634-heroes-of-higher-realms.json) |
 | Heroes of Holdem | 240175 | [240175-heroes-of-holdem.json](./240175-heroes-of-holdem.json) |
@@ -11438,6 +11442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth1 - DLC pack | 154605 | [154605-hyperdimension-neptunia-re-birth1-dlc-pack.json](./154605-hyperdimension-neptunia-re-birth1-dlc-pack.json) |
 | Hyperdimension Neptunia Re;Birth1 - DLC pack 2 | 154604 | [154604-hyperdimension-neptunia-re-birth1-dlc-pack-2.json](./154604-hyperdimension-neptunia-re-birth1-dlc-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth1 - Limited Edition | 394768 | [394768-hyperdimension-neptunia-re-birth1-limited-edition.json](./394768-hyperdimension-neptunia-re-birth1-limited-edition.json) |
+| Hyperdimension Neptunia Re;Birth1 Plus | 86502 | [86502-hyperdimension-neptunia-re-birth1-plus.json](./86502-hyperdimension-neptunia-re-birth1-plus.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 1 | 167238 | [167238-hyperdimension-neptunia-re-birth1-additional-content-1.json](./167238-hyperdimension-neptunia-re-birth1-additional-content-1.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 2 | 167240 | [167240-hyperdimension-neptunia-re-birth1-additional-content-2.json](./167240-hyperdimension-neptunia-re-birth1-additional-content-2.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 3 | 167234 | [167234-hyperdimension-neptunia-re-birth1-additional-content-3.json](./167234-hyperdimension-neptunia-re-birth1-additional-content-3.json) |
