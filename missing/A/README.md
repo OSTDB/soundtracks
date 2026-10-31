@@ -7694,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
 | American Airport Simulator | 247910 | [247910-american-airport-simulator.json](./247910-american-airport-simulator.json) |
 | American Angst | 139723 | [139723-american-angst.json](./139723-american-angst.json) |
+| American Art Jigsaw Puzzle | 90289 | [90289-american-art-jigsaw-puzzle.json](./90289-american-art-jigsaw-puzzle.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Battle Dome | 44451 | [44451-american-battle-dome.json](./44451-american-battle-dome.json) |
@@ -12092,6 +12093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Afraid of the Dark? The Tale of Orpheo's Curse | 2208 | [2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json](./2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json) |
 | Are You Alone? | 342534 | [342534-are-you-alone.json](./342534-are-you-alone.json) |
+| Are You Alone? | 90324 | [90324-are-you-alone.json](./90324-are-you-alone.json) |
 | Are You Awake? | 340873 | [340873-are-you-awake.json](./340873-are-you-awake.json) |
 | Are You Happy | 338154 | [338154-are-you-happy.json](./338154-are-you-happy.json) |
 | Are you human? | 183394 | [183394-are-you-human.json](./183394-are-you-human.json) |
