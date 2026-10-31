@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
 | Half Past Disaster | 68575 | [68575-half-past-disaster.json](./68575-half-past-disaster.json) |
 | Half Past Fate: Romantic Distancing | 143589 | [143589-half-past-fate-romantic-distancing.json](./143589-half-past-fate-romantic-distancing.json) |
+| Half Past Impossible | 76292 | [76292-half-past-impossible.json](./76292-half-past-impossible.json) |
 | Half Plan | 301058 | [301058-half-plan.json](./301058-half-plan.json) |
 | Half Step Princess | 410179 | [410179-half-step-princess.json](./410179-half-step-princess.json) |
 | Half-A-Cado | 354953 | [354953-half-a-cado.json](./354953-half-a-cado.json) |
@@ -3787,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Shooter | 368654 | [368654-hell-shooter.json](./368654-hell-shooter.json) |
 | Hell Shuffle | 149820 | [149820-hell-shuffle.json](./149820-hell-shuffle.json) |
 | Hell Slayer | 232446 | [232446-hell-slayer.json](./232446-hell-slayer.json) |
+| Hell Space | 76332 | [76332-hell-space.json](./76332-hell-space.json) |
 | Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
 | Hell Sports | 147743 | [147743-hell-sports.json](./147743-hell-sports.json) |
 | Hell Station | 273234 | [273234-hell-station.json](./273234-hell-station.json) |
@@ -8281,6 +8283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Stick! | 157037 | [157037-holy-stick.json](./157037-holy-stick.json) |
 | Holy Stone Mage | 310019 | [310019-holy-stone-mage.json](./310019-holy-stone-mage.json) |
 | Holy Sword Rave Ranciel Story | 95585 | [95585-holy-sword-rave-ranciel-story.json](./95585-holy-sword-rave-ranciel-story.json) |
+| Holy Towers | 76328 | [76328-holy-towers.json](./76328-holy-towers.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
 | Holy Valkyrie Exs-Tia F Parallel Episode 2: Reunion | 404653 | [404653-holy-valkyrie-exs-tia-f-parallel-episode-2-reunion.json](./404653-holy-valkyrie-exs-tia-f-parallel-episode-2-reunion.json) |
 | Holy Valkyrie Exs-Tia P Parallel Episode 1: Magical Girl Pastel Marie | 404786 | [404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json](./404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json) |
@@ -10654,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
 | Humans Took My Neighbors! | 149697 | [149697-humans-took-my-neighbors.json](./149697-humans-took-my-neighbors.json) |
 | Humans V Zombies | 160192 | [160192-humans-v-zombies.json](./160192-humans-v-zombies.json) |
+| Humans VR | 76282 | [76282-humans-vr.json](./76282-humans-vr.json) |
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Tigers | 195413 | [195413-humans-vs-tigers.json](./195413-humans-vs-tigers.json) |
