@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Fawn killers | 77401 | [77401-natural-fawn-killers.json](./77401-natural-fawn-killers.json) |
 | Natural Habitat | 154261 | [154261-natural-habitat.json](./154261-natural-habitat.json) |
 | Natural Instincts | 126838 | [126838-natural-instincts.json](./126838-natural-instincts.json) |
+| Natural Landscape: Grand Canyon | 96426 | [96426-natural-landscape-grand-canyon.json](./96426-natural-landscape-grand-canyon.json) |
 | Natural Landscape: Guilin Landscape | 86416 | [86416-natural-landscape-guilin-landscape.json](./86416-natural-landscape-guilin-landscape.json) |
 | Natural Landscape: Three Gorges | 90214 | [90214-natural-landscape-three-gorges.json](./90214-natural-landscape-three-gorges.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
