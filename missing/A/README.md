@@ -11956,7 +11956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
 | Archery Talent | 181580 | [181580-archery-talent.json](./181580-archery-talent.json) |
 | Archery Tournament | 242563 | [242563-archery-tournament.json](./242563-archery-tournament.json) |
-| Arches | 145445 | [145445-arches.json](./145445-arches.json) |
 | Arches | 184230 | [184230-arches.json](./184230-arches.json) |
 | Archesis | 245955 | [245955-archesis.json](./245955-archesis.json) |
 | Archetypal Destroyer | 339311 | [339311-archetypal-destroyer.json](./339311-archetypal-destroyer.json) |
