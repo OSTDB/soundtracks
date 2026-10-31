@@ -4919,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rerodent | 311863 | [311863-rerodent.json](./311863-rerodent.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
+| Reroll: Back to the throne | 76329 | [76329-reroll-back-to-the-throne.json](./76329-reroll-back-to-the-throne.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | Res Arcana Diana Rei: Uranai no Meikyu | 58683 | [58683-res-arcana-diana-rei-uranai-no-meikyu.json](./58683-res-arcana-diana-rei-uranai-no-meikyu.json) |
@@ -6346,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
 | Rhythm Witch: Beat Death | 319447 | [319447-rhythm-witch-beat-death.json](./319447-rhythm-witch-beat-death.json) |
+| Rhythm World: Master Project | 76286 | [76286-rhythm-world-master-project.json](./76286-rhythm-world-master-project.json) |
 | Rhythm World: Master Project - Electronica | 168007 | [168007-rhythm-world-master-project-electronica.json](./168007-rhythm-world-master-project-electronica.json) |
 | Rhythm World: Master Project - Japanese Burnt | 168008 | [168008-rhythm-world-master-project-japanese-burnt.json](./168008-rhythm-world-master-project-japanese-burnt.json) |
 | Rhythm World: Master Project - Japanese Soft | 168009 | [168009-rhythm-world-master-project-japanese-soft.json](./168009-rhythm-world-master-project-japanese-soft.json) |
@@ -8575,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Assault | 104348 | [104348-rocket-assault.json](./104348-rocket-assault.json) |
 | Rocket Ball Cars League | 100494 | [100494-rocket-ball-cars-league.json](./100494-rocket-ball-cars-league.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
+| Rocket Blasters | 76306 | [76306-rocket-blasters.json](./76306-rocket-blasters.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Boots Mania: Space Train | 332909 | [332909-rocket-boots-mania-space-train.json](./332909-rocket-boots-mania-space-train.json) |
 | Rocket Bots | 155941 | [155941-rocket-bots.json](./155941-rocket-bots.json) |
