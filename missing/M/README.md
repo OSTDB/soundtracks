@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
 | Madou Monogatari 1-2-3 | 94394 | [94394-madou-monogatari-1-2-3.json](./94394-madou-monogatari-1-2-3.json) |
 | Madou Monogatari A: Doki-doki Vacation | 45269 | [45269-madou-monogatari-a-doki-doki-vacation.json](./45269-madou-monogatari-a-doki-doki-vacation.json) |
+| Madou Monogatari ARS | 79003 | [79003-madou-monogatari-ars.json](./79003-madou-monogatari-ars.json) |
 | Madou Monogatari I | 73644 | [73644-madou-monogatari-i.json](./73644-madou-monogatari-i.json) |
 | Madou Monogatari I: 3tsu no Madoukyuu | 45268 | [45268-madou-monogatari-i-3tsu-no-madoukyuu.json](./45268-madou-monogatari-i-3tsu-no-madoukyuu.json) |
 | Madou Monogatari I: Honoo no Sotsuenji | 141807 | [141807-madou-monogatari-i-honoo-no-sotsuenji.json](./141807-madou-monogatari-i-honoo-no-sotsuenji.json) |
@@ -13080,6 +13081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam | 218264 | [218264-mobile-suit-gundam.json](./218264-mobile-suit-gundam.json) |
 | Mobile Suit Gundam - Blood of Zeon | 45808 | [45808-mobile-suit-gundam-blood-of-zeon.json](./45808-mobile-suit-gundam-blood-of-zeon.json) |
 | Mobile Suit Gundam 00: Gundam Meisters | 72982 | [72982-mobile-suit-gundam-00-gundam-meisters.json](./72982-mobile-suit-gundam-00-gundam-meisters.json) |
+| Mobile Suit Gundam 0079 Card Builder | 79013 | [79013-mobile-suit-gundam-0079-card-builder.json](./79013-mobile-suit-gundam-0079-card-builder.json) |
 | Mobile Suit Gundam AGE: Cosmic Drive | 75722 | [75722-mobile-suit-gundam-age-cosmic-drive.json](./75722-mobile-suit-gundam-age-cosmic-drive.json) |
 | Mobile Suit Gundam AGE: Universe Accel | 75721 | [75721-mobile-suit-gundam-age-universe-accel.json](./75721-mobile-suit-gundam-age-universe-accel.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
@@ -13858,6 +13860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Ball | 40105 | [40105-monkey-ball.json](./40105-monkey-ball.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Barrels | 125160 | [125160-monkey-barrels.json](./125160-monkey-barrels.json) |
+| Monkey Bizness | 78992 | [78992-monkey-bizness.json](./78992-monkey-bizness.json) |
 | Monkey Bizniz | 405950 | [405950-monkey-bizniz.json](./405950-monkey-bizniz.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Brains | 62034 | [62034-monkey-brains.json](./62034-monkey-brains.json) |
