@@ -10512,6 +10512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Lace | 385953 | [385953-sister-lace.json](./385953-sister-lace.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
+| Sister Love | 97642 | [97642-sister-love.json](./97642-sister-love.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
 | Sister Mermaid | 304945 | [304945-sister-mermaid.json](./304945-sister-mermaid.json) |
 | Sister Other Paranoia | 383129 | [383129-sister-other-paranoia.json](./383129-sister-other-paranoia.json) |
@@ -11227,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
 | Skunny: Special Edition | 46732 | [46732-skunny-special-edition.json](./46732-skunny-special-edition.json) |
 | Skunny's Desert Raid | 71045 | [71045-skunnys-desert-raid.json](./71045-skunnys-desert-raid.json) |
+| Skuran Kuzushi | 97638 | [97638-skuran-kuzushi.json](./97638-skuran-kuzushi.json) |
 | Skvears | 337543 | [337543-skvears.json](./337543-skvears.json) |
 | Skwampt | 229752 | [229752-skwampt.json](./229752-skwampt.json) |
 | Skwish | 212294 | [212294-skwish.json](./212294-skwish.json) |
@@ -11835,6 +11837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slavania | 171819 | [171819-slavania.json](./171819-slavania.json) |
 | Slave Ghost | 112760 | [112760-slave-ghost.json](./112760-slave-ghost.json) |
 | Slave Girl | 97989 | [97989-slave-girl.json](./97989-slave-girl.json) |
+| Slave Girl 2 | 97636 | [97636-slave-girl-2.json](./97636-slave-girl-2.json) |
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
 | Slave of a Witch | 82651 | [82651-slave-of-a-witch.json](./82651-slave-of-a-witch.json) |
 | Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
@@ -17714,6 +17717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21305,6 +21309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St. Nick | 42198 | [42198-st-nick.json](./42198-st-nick.json) |
 | St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
 | St. Yariman's Little Black Book: Complete | 82980 | [82980-st-yarimans-little-black-book-complete.json](./82980-st-yarimans-little-black-book-complete.json) |
+| St/P | 97644 | [97644-st-p.json](./97644-st-p.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
