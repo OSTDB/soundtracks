@@ -5019,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Williams Pinball: Universal Monsters Pack | 354472 | [354472-williams-pinball-universal-monsters-pack.json](./354472-williams-pinball-universal-monsters-pack.json) |
 | Williams Pinball: White Water | 354461 | [354461-williams-pinball-white-water.json](./354461-williams-pinball-white-water.json) |
 | Willian the Game | 193699 | [193699-willian-the-game.json](./193699-willian-the-game.json) |
+| WilliU: The Big GetBack | 111997 | [111997-williu-the-big-getback.json](./111997-williu-the-big-getback.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
 | Willow | 74395 | [74395-willow.json](./74395-willow.json) |
 | Willow Guard | 265256 | [265256-willow-guard.json](./265256-willow-guard.json) |
