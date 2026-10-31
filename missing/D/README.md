@@ -11558,6 +11558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DonDon Busters!! | 128284 | [128284-dondon-busters.json](./128284-dondon-busters.json) |
 | Dondra: A New Beginning | 73987 | [73987-dondra-a-new-beginning.json](./73987-dondra-a-new-beginning.json) |
 | Done & Dusted | 272135 | [272135-done-and-dusted.json](./272135-done-and-dusted.json) |
+| Done Drinkin' | 67022 | [67022-done-drinkin.json](./67022-done-drinkin.json) |
 | Doner Master Simulator | 326439 | [326439-doner-master-simulator.json](./326439-doner-master-simulator.json) |
 | Dong Dong Never Die | 50367 | [50367-dong-dong-never-die.json](./50367-dong-dong-never-die.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
