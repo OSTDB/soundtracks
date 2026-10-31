@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orca 2: O Mistério de Wakkita | 261950 | [261950-orca-2-o-misterio-de-wakkita.json](./261950-orca-2-o-misterio-de-wakkita.json) |
 | Orca 3: A Maldição dos Barbatantes | 261951 | [261951-orca-3-a-maldicao-dos-barbatantes.json](./261951-orca-3-a-maldicao-dos-barbatantes.json) |
 | Orca: a lenda dos mares | 261949 | [261949-orca-a-lenda-dos-mares.json](./261949-orca-a-lenda-dos-mares.json) |
+| OrcCraft | 97080 | [97080-orccraft.json](./97080-orccraft.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 287538 | [287538-orchard.json](./287538-orchard.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
