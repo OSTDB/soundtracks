@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
 | Dead by Daylight: Dungeons & Dragons Edition | 305485 | [305485-dead-by-daylight-dungeons-and-dragons-edition.json](./305485-dead-by-daylight-dungeons-and-dragons-edition.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
+| Dead by Daylight: Ghost Face | 120510 | [120510-dead-by-daylight-ghost-face.json](./120510-dead-by-daylight-ghost-face.json) |
 | Dead by Daylight: Gold Edition | 282124 | [282124-dead-by-daylight-gold-edition.json](./282124-dead-by-daylight-gold-edition.json) |
 | Dead by Daylight: Headcase | 129400 | [129400-dead-by-daylight-headcase.json](./129400-dead-by-daylight-headcase.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
@@ -9311,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney | 220082 | [220082-disney.json](./220082-disney.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
 | Disney 20Q | 324794 | [324794-disney-20q.json](./324794-disney-20q.json) |
+| Disney Activity Center: Toy Story 2 | 120517 | [120517-disney-activity-center-toy-story-2.json](./120517-disney-activity-center-toy-story-2.json) |
 | Disney All-Star Cards | 98009 | [98009-disney-all-star-cards.json](./98009-disney-all-star-cards.json) |
 | Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
 | Disney Classic Games Collection | 172397 | [172397-disney-classic-games-collection.json](./172397-disney-classic-games-collection.json) |
@@ -9580,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Haunted Mansion | 267497 | [267497-disneys-the-haunted-mansion.json](./267497-disneys-the-haunted-mansion.json) |
 | Disney's The Haunted Mansion | 49405 | [49405-disneys-the-haunted-mansion.json](./49405-disneys-the-haunted-mansion.json) |
 | Disney's The Hunchback of Notre Dame | 198763 | [198763-disneys-the-hunchback-of-notre-dame.json](./198763-disneys-the-hunchback-of-notre-dame.json) |
+| Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 120518 | [120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 228495 | [228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Jungle Book | 204616 | [204616-disneys-the-jungle-book.json](./204616-disneys-the-jungle-book.json) |
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
@@ -9717,6 +9720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Garden | 309742 | [309742-distant-garden.json](./309742-distant-garden.json) |
 | Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
 | Distant Isles | 296333 | [296333-distant-isles.json](./296333-distant-isles.json) |
+| Distant Kingdoms | 120549 | [120549-distant-kingdoms.json](./120549-distant-kingdoms.json) |
 | Distant Lands: Earendel | 335123 | [335123-distant-lands-earendel.json](./335123-distant-lands-earendel.json) |
 | Distant Memoraĵo | 131891 | [131891-distant-memorajo.json](./131891-distant-memorajo.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
@@ -16913,6 +16917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkirk: The Forgotten Soldier | 380842 | [380842-dunkirk-the-forgotten-soldier.json](./380842-dunkirk-the-forgotten-soldier.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
 | Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
+| DunkRatz | 120573 | [120573-dunkratz.json](./120573-dunkratz.json) |
 | Dunkshot | 41809 | [41809-dunkshot.json](./41809-dunkshot.json) |
 | Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
 | Dunland: Survivors Story | 247953 | [247953-dunland-survivors-story.json](./247953-dunland-survivors-story.json) |
