@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuadroX-2 | 80242 | [80242-quadrox-2.json](./80242-quadrox-2.json) |
 | Quadrun | 40713 | [40713-quadrun.json](./40713-quadrun.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
+| Quads Puzzle | 119224 | [119224-quads-puzzle.json](./119224-quads-puzzle.json) |
 | QuadSmash | 64201 | [64201-quadsmash.json](./64201-quadsmash.json) |
 | Quadtris: Draw Puzzle | 57446 | [57446-quadtris-draw-puzzle.json](./57446-quadtris-draw-puzzle.json) |
 | Quadulo | 371266 | [371266-quadulo.json](./371266-quadulo.json) |
