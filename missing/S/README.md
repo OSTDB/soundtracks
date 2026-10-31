@@ -11952,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Girl 2 | 97636 | [97636-slave-girl-2.json](./97636-slave-girl-2.json) |
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
 | Slave of a Witch | 82651 | [82651-slave-of-a-witch.json](./82651-slave-of-a-witch.json) |
+| Slave of God | 62946 | [62946-slave-of-god.json](./62946-slave-of-god.json) |
 | Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
 | Slave Pageant | 122262 | [122262-slave-pageant.json](./122262-slave-pageant.json) |
 | Slave Police Michiru & Misuzu | 77837 | [77837-slave-police-michiru-and-misuzu.json](./77837-slave-police-michiru-and-misuzu.json) |
@@ -14320,6 +14321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So How About Swapping Our Wives and Disciplining Them? | 98498 | [98498-so-how-about-swapping-our-wives-and-disciplining-them.json](./98498-so-how-about-swapping-our-wives-and-disciplining-them.json) |
 | So Hungry | 316662 | [316662-so-hungry.json](./316662-so-hungry.json) |
+| So Hungry | 63035 | [63035-so-hungry.json](./63035-so-hungry.json) |
 | So I bought a little chainsaw | 367599 | [367599-so-i-bought-a-little-chainsaw.json](./367599-so-i-bought-a-little-chainsaw.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Let Us Melt | 68276 | [68276-so-let-us-melt.json](./68276-so-let-us-melt.json) |
@@ -20321,6 +20323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
 | Splatter | 173134 | [173134-splatter.json](./173134-splatter.json) |
 | Splatter | 195877 | [195877-splatter.json](./195877-splatter.json) |
+| Splatter | 62955 | [62955-splatter.json](./62955-splatter.json) |
 | Splatter World | 304076 | [304076-splatter-world.json](./304076-splatter-world.json) |
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
 | Splatterball Plus | 120515 | [120515-splatterball-plus.json](./120515-splatterball-plus.json) |
@@ -30175,6 +30178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Snake | 71997 | [71997-super-snake.json](./71997-super-snake.json) |
 | Super Snake 3D | 134940 | [134940-super-snake-3d.json](./134940-super-snake-3d.json) |
 | Super Snake Block DX | 267971 | [267971-super-snake-block-dx.json](./267971-super-snake-block-dx.json) |
+| Super Snake HD | 62934 | [62934-super-snake-hd.json](./62934-super-snake-hd.json) |
 | Super Snake Heroes | 24656 | [24656-super-snake-heroes.json](./24656-super-snake-heroes.json) |
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
 | Super Snow Fight | 35384 | [35384-super-snow-fight.json](./35384-super-snow-fight.json) |
