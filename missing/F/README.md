@@ -4465,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Drive: Nitro | 137237 | [137237-final-drive-nitro.json](./137237-final-drive-nitro.json) |
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
+| Final Duty: Zombie Nation | 104388 | [104388-final-duty-zombie-nation.json](./104388-final-duty-zombie-nation.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
 | Final Eden | 291412 | [291412-final-eden.json](./291412-final-eden.json) |
 | Final Escape | 246327 | [246327-final-escape.json](./246327-final-escape.json) |
@@ -5824,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Machine | 139254 | [139254-fish-machine.json](./139254-fish-machine.json) |
 | Fish man avoiding fishing | 119671 | [119671-fish-man-avoiding-fishing.json](./119671-fish-man-avoiding-fishing.json) |
 | Fish Market | 391052 | [391052-fish-market.json](./391052-fish-market.json) |
+| Fish Master | 104359 | [104359-fish-master.json](./104359-fish-master.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
 | Fish N Chat | 293993 | [293993-fish-n-chat.json](./293993-fish-n-chat.json) |
 | Fish On! Bass | 313045 | [313045-fish-on-bass.json](./313045-fish-on-bass.json) |
@@ -7633,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flufftopia: Fluffmazing Edition | 386272 | [386272-flufftopia-fluffmazing-edition.json](./386272-flufftopia-fluffmazing-edition.json) |
 | Fluffwatch | 279506 | [279506-fluffwatch.json](./279506-fluffwatch.json) |
 | Fluffy | 29808 | [29808-fluffy.json](./29808-fluffy.json) |
+| Fluffy Alien | 104373 | [104373-fluffy-alien.json](./104373-fluffy-alien.json) |
 | Fluffy Autumn | 342157 | [342157-fluffy-autumn.json](./342157-fluffy-autumn.json) |
 | Fluffy Bear | 79308 | [79308-fluffy-bear.json](./79308-fluffy-bear.json) |
 | Fluffy Chef | 382889 | [382889-fluffy-chef.json](./382889-fluffy-chef.json) |
