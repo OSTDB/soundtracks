@@ -9835,6 +9835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunforged | 235632 | [235632-gunforged.json](./235632-gunforged.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
 | GunFu Deadlands | 242441 | [242441-gunfu-deadlands.json](./242441-gunfu-deadlands.json) |
+| GunFu Heroes | 119981 | [119981-gunfu-heroes.json](./119981-gunfu-heroes.json) |
 | Gung 3D | 208654 | [208654-gung-3d.json](./208654-gung-3d.json) |
 | Gungage | 44863 | [44863-gungage.json](./44863-gungage.json) |
 | Gungame.io | 56923 | [56923-gungame-io.json](./56923-gungame-io.json) |
