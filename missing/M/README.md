@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.C.E. TD | 87607 | [87607-m-a-c-e-td.json](./87607-m-a-c-e-td.json) |
 | M.A.C.E. Tower Defense | 43088 | [43088-m-a-c-e-tower-defense.json](./43088-m-a-c-e-tower-defense.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
+| M.A.C.H. - Maneuverable Armed Computer Humans | 73051 | [73051-m-a-c-h-maneuverable-armed-computer-humans.json](./73051-m-a-c-h-maneuverable-armed-computer-humans.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
 | M.A.D. Cows | 279879 | [279879-m-a-d-cows.json](./279879-m-a-d-cows.json) |
 | M.A.D. Cows and D.U.M.B. Ducks Bundle | 331533 | [331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json](./331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json) |
@@ -2447,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malachite: Temple of the Sun | 296968 | [296968-malachite-temple-of-the-sun.json](./296968-malachite-temple-of-the-sun.json) |
 | Malachite: Temple of the Sun - Collector's Edition | 378764 | [378764-malachite-temple-of-the-sun-collectors-edition.json](./378764-malachite-temple-of-the-sun-collectors-edition.json) |
 | Malagai | 23288 | [23288-malagai.json](./23288-malagai.json) |
+| Malaika: Prehistoric Quest | 73055 | [73055-malaika-prehistoric-quest.json](./73055-malaika-prehistoric-quest.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
 | Malazar's Inscrutable Tower | 421451 | [421451-malazars-inscrutable-tower.json](./421451-malazars-inscrutable-tower.json) |
@@ -2508,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
 | Mall Master | 132407 | [132407-mall-master.json](./132407-mall-master.json) |
+| Mall Mayhem | 73077 | [73077-mall-mayhem.json](./73077-mall-mayhem.json) |
 | Mall of America Tycoon | 67895 | [67895-mall-of-america-tycoon.json](./67895-mall-of-america-tycoon.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall of Mayhem: All Skins Pack | 254087 | [254087-mall-of-mayhem-all-skins-pack.json](./254087-mall-of-mayhem-all-skins-pack.json) |
@@ -8417,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant of Phenistoria | 159574 | [159574-merchant-of-phenistoria.json](./159574-merchant-of-phenistoria.json) |
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
+| Merchant Prince II | 73073 | [73073-merchant-prince-ii.json](./73073-merchant-prince-ii.json) |
 | Merchant to the Stars | 196612 | [196612-merchant-to-the-stars.json](./196612-merchant-to-the-stars.json) |
 | Merchant: Frozen Tome | 165943 | [165943-merchant-frozen-tome.json](./165943-merchant-frozen-tome.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
@@ -15036,6 +15040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Games: Lunar Slalom | 100757 | [100757-moon-games-lunar-slalom.json](./100757-moon-games-lunar-slalom.json) |
 | Moon Garden Optimizer | 362589 | [362589-moon-garden-optimizer.json](./362589-moon-garden-optimizer.json) |
 | Moon Ghost | 310525 | [310525-moon-ghost.json](./310525-moon-ghost.json) |
+| Moon Hopper | 73067 | [73067-moon-hopper.json](./73067-moon-hopper.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
