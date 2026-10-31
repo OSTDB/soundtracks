@@ -10467,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoinLife | 133824 | [133824-coinlife.json](./133824-coinlife.json) |
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
 | Coins | 312027 | [312027-coins.json](./312027-coins.json) |
+| Coins Challenge | 75386 | [75386-coins-challenge.json](./75386-coins-challenge.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
 | Coins Invaders | 188936 | [188936-coins-invaders.json](./188936-coins-invaders.json) |
 | Coins Muncher | 196610 | [196610-coins-muncher.json](./196610-coins-muncher.json) |
