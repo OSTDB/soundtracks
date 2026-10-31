@@ -17602,6 +17602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
 | Space Dogs Squadron | 65337 | [65337-space-dogs-squadron.json](./65337-space-dogs-squadron.json) |
 | Space Doubt | 26420 | [26420-space-doubt.json](./26420-space-doubt.json) |
+| Space Dragon | 76285 | [76285-space-dragon.json](./76285-space-dragon.json) |
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
 | Space Drifters 2D | 35036 | [35036-space-drifters-2d.json](./35036-space-drifters-2d.json) |
@@ -27882,6 +27883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
 | Super Bug 2 | 288259 | [288259-super-bug-2.json](./288259-super-bug-2.json) |
 | Super Bug Hunters | 368996 | [368996-super-bug-hunters.json](./368996-super-bug-hunters.json) |
+| Super Bugman Extreme Ultra | 76300 | [76300-super-bugman-extreme-ultra.json](./76300-super-bugman-extreme-ultra.json) |
 | Super Build | 120727 | [120727-super-build.json](./120727-super-build.json) |
 | Super Bull Knight | 234558 | [234558-super-bull-knight.json](./234558-super-bull-knight.json) |
 | Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
@@ -29609,6 +29611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Fighter II Turbo HD Remix | 23072 | [23072-super-puzzle-fighter-ii-turbo-hd-remix.json](./23072-super-puzzle-fighter-ii-turbo-hd-remix.json) |
 | Super Puzzle Galaxy | 163565 | [163565-super-puzzle-galaxy.json](./163565-super-puzzle-galaxy.json) |
+| Super Puzzle Galaxy | 76340 | [76340-super-puzzle-galaxy.json](./76340-super-puzzle-galaxy.json) |
 | Super Puzzle Galaxy - Boost Ball DLC Pack | 163566 | [163566-super-puzzle-galaxy-boost-ball-dlc-pack.json](./163566-super-puzzle-galaxy-boost-ball-dlc-pack.json) |
 | Super Puzzle Galaxy: Warp Ball DLC Pack | 163567 | [163567-super-puzzle-galaxy-warp-ball-dlc-pack.json](./163567-super-puzzle-galaxy-warp-ball-dlc-pack.json) |
 | Super Puzzle Pack | 139238 | [139238-super-puzzle-pack.json](./139238-super-puzzle-pack.json) |
