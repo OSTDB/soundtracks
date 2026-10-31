@@ -8919,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
 | Metal Punch | 236350 | [236350-metal-punch.json](./236350-metal-punch.json) |
 | Metal Queen Dungeon | 304601 | [304601-metal-queen-dungeon.json](./304601-metal-queen-dungeon.json) |
+| Metal Quest | 76310 | [76310-metal-quest.json](./76310-metal-quest.json) |
 | Metal Racer | 246966 | [246966-metal-racer.json](./246966-metal-racer.json) |
 | Metal Rage | 137019 | [137019-metal-rage.json](./137019-metal-rage.json) |
 | Metal Rage: Defender of the Earth | 64966 | [64966-metal-rage-defender-of-the-earth.json](./64966-metal-rage-defender-of-the-earth.json) |
@@ -19942,6 +19943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Code | 133751 | [133751-mystic-code.json](./133751-mystic-code.json) |
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
 | Mystic Defense | 30581 | [30581-mystic-defense.json](./30581-mystic-defense.json) |
+| Mystic Destinies: Echoes | 76284 | [76284-mystic-destinies-echoes.json](./76284-mystic-destinies-echoes.json) |
 | Mystic Destinies: Serendipity of Aeons | 33805 | [33805-mystic-destinies-serendipity-of-aeons.json](./33805-mystic-destinies-serendipity-of-aeons.json) |
 | Mystic Diamonds | 146571 | [146571-mystic-diamonds.json](./146571-mystic-diamonds.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
