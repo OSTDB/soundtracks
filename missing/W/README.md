@@ -2836,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
 | Wedding Planner | 141422 | [141422-wedding-planner.json](./141422-wedding-planner.json) |
+| Wedding Preparations | 88691 | [88691-wedding-preparations.json](./88691-wedding-preparations.json) |
 | Wedding Salon | 205910 | [205910-wedding-salon.json](./205910-wedding-salon.json) |
 | Wedding Salon - Girls Makeup, Dressup and Makeover | 89196 | [89196-wedding-salon-girls-makeup-dressup-and-makeover.json](./89196-wedding-salon-girls-makeup-dressup-and-makeover.json) |
 | Wedding Witch | 264522 | [264522-wedding-witch.json](./264522-wedding-witch.json) |
