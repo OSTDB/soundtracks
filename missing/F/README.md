@@ -6129,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | FishVille | 92386 | [92386-fishville.json](./92386-fishville.json) |
 | FishWitch Halloween | 180971 | [180971-fishwitch-halloween.json](./180971-fishwitch-halloween.json) |
+| Fishy | 102522 | [102522-fishy.json](./102522-fishy.json) |
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
 | Fishy | 422039 | [422039-fishy.json](./422039-fishy.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
@@ -8986,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Lore | 34723 | [34723-forgotten-lore.json](./34723-forgotten-lore.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
 | Forgotten Mechs | 295830 | [295830-forgotten-mechs.json](./295830-forgotten-mechs.json) |
+| Forgotten Memories | 102507 | [102507-forgotten-memories.json](./102507-forgotten-memories.json) |
 | Forgotten Memories | 324493 | [324493-forgotten-memories.json](./324493-forgotten-memories.json) |
 | Forgotten Memories | 326204 | [326204-forgotten-memories.json](./326204-forgotten-memories.json) |
 | Forgotten Memories: Definitive Edition | 207858 | [207858-forgotten-memories-definitive-edition.json](./207858-forgotten-memories-definitive-edition.json) |
