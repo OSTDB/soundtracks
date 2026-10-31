@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazyTown Champions | 79791 | [79791-lazytown-champions.json](./79791-lazytown-champions.json) |
 | LazyTown Live! The Pirate Adventure | 199039 | [199039-lazytown-live-the-pirate-adventure.json](./199039-lazytown-live-the-pirate-adventure.json) |
 | LazyTown: Festival | 271372 | [271372-lazytown-festival.json](./271372-lazytown-festival.json) |
+| LazyTown: Ziggy's Challenge | 74798 | [74798-lazytown-ziggys-challenge.json](./74798-lazytown-ziggys-challenge.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
 | LCD Dem | 139815 | [139815-lcd-dem.json](./139815-lcd-dem.json) |
@@ -7340,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Heroes 2 | 136916 | [136916-lost-heroes-2.json](./136916-lost-heroes-2.json) |
 | Lost Highway | 273196 | [273196-lost-highway.json](./273196-lost-highway.json) |
+| Lost Home | 74666 | [74666-lost-home.json](./74666-lost-home.json) |
 | Lost Hope | 285919 | [285919-lost-hope.json](./285919-lost-hope.json) |
 | Lost Hope: Backrooms | 266786 | [266786-lost-hope-backrooms.json](./266786-lost-hope-backrooms.json) |
 | Lost Hopes: Day of Betrayal | 415468 | [415468-lost-hopes-day-of-betrayal.json](./415468-lost-hopes-day-of-betrayal.json) |
