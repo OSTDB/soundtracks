@@ -5650,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
 | Little War Online | 58713 | [58713-little-war-online.json](./58713-little-war-online.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
+| Little Warlock | 114664 | [114664-little-warlock.json](./114664-little-warlock.json) |
 | Little Warriors Team | 319284 | [319284-little-warriors-team.json](./319284-little-warriors-team.json) |
 | Little Weasel | 309485 | [309485-little-weasel.json](./309485-little-weasel.json) |
 | Little Wheel | 80829 | [80829-little-wheel.json](./80829-little-wheel.json) |
@@ -8911,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Outpost | 317545 | [317545-lunar-outpost.json](./317545-lunar-outpost.json) |
 | Lunar Pulse | 399416 | [399416-lunar-pulse.json](./399416-lunar-pulse.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
+| Lunar Radiation | 114671 | [114671-lunar-radiation.json](./114671-lunar-radiation.json) |
 | Lunar Remastered Collection | 317623 | [317623-lunar-remastered-collection.json](./317623-lunar-remastered-collection.json) |
 | Lunar Rescue | 40007 | [40007-lunar-rescue.json](./40007-lunar-rescue.json) |
 | Lunar Rescue Mission | 197755 | [197755-lunar-rescue-mission.json](./197755-lunar-rescue-mission.json) |
