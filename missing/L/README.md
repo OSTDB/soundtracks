@@ -5725,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleMouseHero | 285912 | [285912-littlemousehero.json](./285912-littlemousehero.json) |
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
 | LittleRunner | 387483 | [387483-littlerunner.json](./387483-littlerunner.json) |
+| LittleShadows | 116676 | [116676-littleshadows.json](./116676-littleshadows.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
 | Littlest Pet Shop | 4975 | [4975-littlest-pet-shop.json](./4975-littlest-pet-shop.json) |
 | Littlest Pet Shop 3: Biggest Stars - Pink Team | 122206 | [122206-littlest-pet-shop-3-biggest-stars-pink-team.json](./122206-littlest-pet-shop-3-biggest-stars-pink-team.json) |
@@ -7615,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LostTicket | 342910 | [342910-lostticket.json](./342910-lostticket.json) |
 | LostWinds | 21486 | [21486-lostwinds.json](./21486-lostwinds.json) |
 | LostX Dungeon | 112213 | [112213-lostx-dungeon.json](./112213-lostx-dungeon.json) |
+| Lostx Dungeon II | 116654 | [116654-lostx-dungeon-ii.json](./116654-lostx-dungeon-ii.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
 | Lot Lot | 40368 | [40368-lot-lot.json](./40368-lot-lot.json) |
 | Lot'zAmonsters | 107825 | [107825-lotzamonsters.json](./107825-lotzamonsters.json) |
