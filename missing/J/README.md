@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.A.O.S.S | 83920 | [83920-j-a-o-s-s.json](./83920-j-a-o-s-s.json) |
 | J.B. Harold 3: D.C. Connection | 74890 | [74890-j-b-harold-3-d-c-connection.json](./74890-j-b-harold-3-d-c-connection.json) |
 | J.B. Harold no Jikenbo: Kiss of Murder | 79622 | [79622-j-b-harold-no-jikenbo-kiss-of-murder.json](./79622-j-b-harold-no-jikenbo-kiss-of-murder.json) |
+| J.B. Harold no Jikenbo: Manhattan Requiem - Yami ni Tobu Tenshi-tachi | 85776 | [85776-j-b-harold-no-jikenbo-manhattan-requiem-yami-ni-tobu-tenshi-tachi.json](./85776-j-b-harold-no-jikenbo-manhattan-requiem-yami-ni-tobu-tenshi-tachi.json) |
 | J.B. Harold no Jikenbo: Murder Club | 320845 | [320845-j-b-harold-no-jikenbo-murder-club.json](./320845-j-b-harold-no-jikenbo-murder-club.json) |
 | J.B. Harold Series #2: Manhattan Requiem - Angels Flying in the Dark | 62588 | [62588-j-b-harold-series-2-manhattan-requiem-angels-flying-in-the-dark.json](./62588-j-b-harold-series-2-manhattan-requiem-angels-flying-in-the-dark.json) |
 | J.B. Harold: Blue Chicago Blues | 4308 | [4308-j-b-harold-blue-chicago-blues.json](./4308-j-b-harold-blue-chicago-blues.json) |
@@ -2985,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
 | Jump Queen | 266119 | [266119-jump-queen.json](./266119-jump-queen.json) |
 | Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
+| Jump Raven | 85783 | [85783-jump-raven.json](./85783-jump-raven.json) |
 | Jump Room | 261164 | [261164-jump-room.json](./261164-jump-room.json) |
 | Jump Rope Challenge | 135104 | [135104-jump-rope-challenge.json](./135104-jump-rope-challenge.json) |
 | Jump Runner | 200543 | [200543-jump-runner.json](./200543-jump-runner.json) |
