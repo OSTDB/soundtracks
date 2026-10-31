@@ -3078,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gertrude's Secrets | 73521 | [73521-gertrudes-secrets.json](./73521-gertrudes-secrets.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gerztron | 78350 | [78350-gerztron.json](./78350-gerztron.json) |
+| Gesshizu: Gajigaji Nakama wo Sodateyou | 109258 | [109258-gesshizu-gajigaji-nakama-wo-sodateyou.json](./109258-gesshizu-gajigaji-nakama-wo-sodateyou.json) |
 | Gesshizu: Minna de Chokomaka Murazukuri | 222253 | [222253-gesshizu-minna-de-chokomaka-murazukuri.json](./222253-gesshizu-minna-de-chokomaka-murazukuri.json) |
 | Gesshizu: Mori no Chiisana Nakama-tachi | 136966 | [136966-gesshizu-mori-no-chiisana-nakama-tachi.json](./136966-gesshizu-mori-no-chiisana-nakama-tachi.json) |
 | Gesshoku | 273346 | [273346-gesshoku.json](./273346-gesshoku.json) |
@@ -6692,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Gothmog's Lair | 25815 | [25815-gothmogs-lair.json](./25815-gothmogs-lair.json) |
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
+| GOTL: Online RPG | 109246 | [109246-gotl-online-rpg.json](./109246-gotl-online-rpg.json) |
 | GOTO Bridge 18 | 99502 | [99502-goto-bridge-18.json](./99502-goto-bridge-18.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotomomi | 59707 | [59707-gotomomi.json](./59707-gotomomi.json) |
@@ -9274,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gui Long Chao | 317049 | [317049-gui-long-chao.json](./317049-gui-long-chao.json) |
 | Guǐchù Zhànjì: Jīnkēlā Chuánshuō | 120722 | [120722-guichu-zhanji-jinkela-chuanshuo.json](./120722-guichu-zhanji-jinkela-chuanshuo.json) |
 | Guidance | 222349 | [222349-guidance.json](./222349-guidance.json) |
+| Guide | 109243 | [109243-guide.json](./109243-guide.json) |
 | Guide and Throw | 190835 | [190835-guide-and-throw.json](./190835-guide-and-throw.json) |
 | Guide of the Butterfly | 134939 | [134939-guide-of-the-butterfly.json](./134939-guide-of-the-butterfly.json) |
 | Guide the Light | 175514 | [175514-guide-the-light.json](./175514-guide-the-light.json) |
