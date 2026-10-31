@@ -6319,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Archer Simulator | 348240 | [348240-medieval-archer-simulator.json](./348240-medieval-archer-simulator.json) |
 | Medieval Archery Simulator | 171443 | [171443-medieval-archery-simulator.json](./171443-medieval-archery-simulator.json) |
 | Medieval Arms | 180997 | [180997-medieval-arms.json](./180997-medieval-arms.json) |
+| Medieval Battle Simulator | 110656 | [110656-medieval-battle-simulator.json](./110656-medieval-battle-simulator.json) |
 | Medieval Battle: Food Truck | 385960 | [385960-medieval-battle-food-truck.json](./385960-medieval-battle-food-truck.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
@@ -7544,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | Megatronic Void | 59226 | [59226-megatronic-void.json](./59226-megatronic-void.json) |
 | Megatudo 2096 | 43827 | [43827-megatudo-2096.json](./43827-megatudo-2096.json) |
+| Megavaders 5000 | 110657 | [110657-megavaders-5000.json](./110657-megavaders-5000.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
@@ -13370,6 +13372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Sushi Skins | 302593 | [302593-mojito-the-cat-sushi-skins.json](./302593-mojito-the-cat-sushi-skins.json) |
 | Mojito the Cat: Ultimate Edition | 233939 | [233939-mojito-the-cat-ultimate-edition.json](./233939-mojito-the-cat-ultimate-edition.json) |
 | Mojo 2 | 284245 | [284245-mojo-2.json](./284245-mojo-2.json) |
+| Mojo 2: Mia | 110653 | [110653-mojo-2-mia.json](./110653-mojo-2-mia.json) |
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
 | Mojo Melee | 223479 | [223479-mojo-melee.json](./223479-mojo-melee.json) |
 | Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
