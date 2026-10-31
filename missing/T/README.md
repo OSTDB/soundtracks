@@ -9137,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godfather: Blackhand Edition | 20681 | [20681-the-godfather-blackhand-edition.json](./20681-the-godfather-blackhand-edition.json) |
 | The Godfather: City Wars | 355894 | [355894-the-godfather-city-wars.json](./355894-the-godfather-city-wars.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
+| The Godkiller | 123228 | [123228-the-godkiller.json](./123228-the-godkiller.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gods | 38509 | [38509-the-gods.json](./38509-the-gods.json) |
 | The Gods Are Fickle | 224658 | [224658-the-gods-are-fickle.json](./224658-the-gods-are-fickle.json) |
@@ -13717,6 +13718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punk Allen Trilogy | 70811 | [70811-the-punk-allen-trilogy.json](./70811-the-punk-allen-trilogy.json) |
 | The Punniest Pun Messter | 296154 | [296154-the-punniest-pun-messter.json](./296154-the-punniest-pun-messter.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
+| The Puppet of Tersa: A Curious Place | 123237 | [123237-the-puppet-of-tersa-a-curious-place.json](./123237-the-puppet-of-tersa-a-curious-place.json) |
 | The Puppet Word Game | 220808 | [220808-the-puppet-word-game.json](./220808-the-puppet-word-game.json) |
 | The Puppeteer | 252010 | [252010-the-puppeteer.json](./252010-the-puppeteer.json) |
 | The Pure Bundle | 82409 | [82409-the-pure-bundle.json](./82409-the-pure-bundle.json) |
@@ -15990,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tin Soldier | 327328 | [327328-the-tin-soldier.json](./327328-the-tin-soldier.json) |
 | The Tiny Bang Story | 15120 | [15120-the-tiny-bang-story.json](./15120-the-tiny-bang-story.json) |
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
+| The Tiny Button | 123197 | [123197-the-tiny-button.json](./123197-the-tiny-button.json) |
 | The Tiny Chef Show: Cooking with Fwends | 385660 | [385660-the-tiny-chef-show-cooking-with-fwends.json](./385660-the-tiny-chef-show-cooking-with-fwends.json) |
 | The Tiny Tale 2 | 35975 | [35975-the-tiny-tale-2.json](./35975-the-tiny-tale-2.json) |
 | The Tiny Train Driver | 179591 | [179591-the-tiny-train-driver.json](./179591-the-tiny-train-driver.json) |
@@ -21940,6 +21943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
 | Tobot: Action Quiz Heroes | 346000 | [346000-tobot-action-quiz-heroes.json](./346000-tobot-action-quiz-heroes.json) |
 | Tobruk: The Clash of Armour | 36906 | [36906-tobruk-the-clash-of-armour.json](./36906-tobruk-the-clash-of-armour.json) |
+| Tobu Tobu Girl Deluxe | 123211 | [123211-tobu-tobu-girl-deluxe.json](./123211-tobu-tobu-girl-deluxe.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby: The Secret Mine | 20342 | [20342-toby-the-secret-mine.json](./20342-toby-the-secret-mine.json) |
 | Toby's Island | 54728 | [54728-tobys-island.json](./54728-tobys-island.json) |
