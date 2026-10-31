@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Management Wanted | 364652 | [364652-management-wanted.json](./364652-management-wanted.json) |
 | Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
 | ManagerLeague | 152113 | [152113-managerleague.json](./152113-managerleague.json) |
+| ManagerLeague | 93957 | [93957-managerleague.json](./93957-managerleague.json) |
 | Managun Wizard | 357015 | [357015-managun-wizard.json](./357015-managun-wizard.json) |
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manairons | 369857 | [369857-manairons.json](./369857-manairons.json) |
@@ -5362,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | Max's Tales | 255151 | [255151-maxs-tales.json](./255151-maxs-tales.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
+| Maxi 15 | 93934 | [93934-maxi-15.json](./93934-maxi-15.json) |
 | Maxi Bus | 293997 | [293997-maxi-bus.json](./293997-maxi-bus.json) |
 | Maxi Golf | 55002 | [55002-maxi-golf.json](./55002-maxi-golf.json) |
 | Maxi Pool Masters VR | 96620 | [96620-maxi-pool-masters-vr.json](./96620-maxi-pool-masters-vr.json) |
@@ -6310,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
 | Medarot Kabuto/Kuwagata | 91529 | [91529-medarot-kabuto-kuwagata.json](./91529-medarot-kabuto-kuwagata.json) |
 | Medarot Kuwagata Version | 55144 | [55144-medarot-kuwagata-version.json](./55144-medarot-kuwagata-version.json) |
+| Medarot Navi Kabuto/Kuwagata | 93932 | [93932-medarot-navi-kabuto-kuwagata.json](./93932-medarot-navi-kabuto-kuwagata.json) |
 | Medarot Navi: Kabuto Version | 49697 | [49697-medarot-navi-kabuto-version.json](./49697-medarot-navi-kabuto-version.json) |
 | Medarot Navi: Kuwagata Version | 49696 | [49696-medarot-navi-kuwagata-version.json](./49696-medarot-navi-kuwagata-version.json) |
 | Medarot Parts Collection | 92533 | [92533-medarot-parts-collection.json](./92533-medarot-parts-collection.json) |
