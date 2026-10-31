@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Janggi | 147876 | [147876-lets-learn-janggi.json](./147876-lets-learn-janggi.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
+| Let's Learn Japanese! Katakana | 115963 | [115963-lets-learn-japanese-katakana.json](./115963-lets-learn-japanese-katakana.json) |
 | Let's Learn Japanese! Vocabulary | 286407 | [286407-lets-learn-japanese-vocabulary.json](./286407-lets-learn-japanese-vocabulary.json) |
 | Let's Learn Korean! Hangul | 367521 | [367521-lets-learn-korean-hangul.json](./367521-lets-learn-korean-hangul.json) |
 | Let's Learn Korean! Vocabulary | 367522 | [367522-lets-learn-korean-vocabulary.json](./367522-lets-learn-korean-vocabulary.json) |
@@ -3645,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters | 57502 | [57502-letters.json](./57502-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
+| Letters & Sodas | 116005 | [116005-letters-and-sodas.json](./116005-letters-and-sodas.json) |
 | Letters From a Rainy Day: Oceans and Lace | 152812 | [152812-letters-from-a-rainy-day-oceans-and-lace.json](./152812-letters-from-a-rainy-day-oceans-and-lace.json) |
 | Letters From Nowhere | 54165 | [54165-letters-from-nowhere.json](./54165-letters-from-nowhere.json) |
 | Letters From Nowhere 2 | 54164 | [54164-letters-from-nowhere-2.json](./54164-letters-from-nowhere-2.json) |
@@ -3660,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters to Heaven | 274463 | [274463-letters-to-heaven.json](./274463-letters-to-heaven.json) |
 | Letters to Rosa | 378514 | [378514-letters-to-rosa.json](./378514-letters-to-rosa.json) |
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
+| Letters: A Written Adventure | 115976 | [115976-letters-a-written-adventure.json](./115976-letters-a-written-adventure.json) |
 | Letters: Collector's Edition | 193748 | [193748-letters-collectors-edition.json](./193748-letters-collectors-edition.json) |
 | LettersFall 110% | 392794 | [392794-lettersfall-110.json](./392794-lettersfall-110.json) |
 | LetterStealth | 250171 | [250171-letterstealth.json](./250171-letterstealth.json) |
