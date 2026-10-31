@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newtonica | 257491 | [257491-newtonica.json](./257491-newtonica.json) |
 | Newtonica2 | 77116 | [77116-newtonica2.json](./77116-newtonica2.json) |
 | Newtraction | 194374 | [194374-newtraction.json](./194374-newtraction.json) |
+| NewTypes | 83966 | [83966-newtypes.json](./83966-newtypes.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
 | Nex Credo | 273737 | [273737-nex-credo.json](./273737-nex-credo.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
@@ -4834,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjas on Trampolines | 351613 | [351613-ninjas-on-trampolines.json](./351613-ninjas-on-trampolines.json) |
 | Ninjas Stars | 344967 | [344967-ninjas-stars.json](./344967-ninjas-stars.json) |
 | Ninjas vs Mafia Deluxe! | 387942 | [387942-ninjas-vs-mafia-deluxe.json](./387942-ninjas-vs-mafia-deluxe.json) |
+| Ninjas: Assault | 83788 | [83788-ninjas-assault.json](./83788-ninjas-assault.json) |
 | Ninjas: Stolen Scrolls | 196647 | [196647-ninjas-stolen-scrolls.json](./196647-ninjas-stolen-scrolls.json) |
 | NinjaThea 2 | 341479 | [341479-ninjathea-2.json](./341479-ninjathea-2.json) |
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
@@ -5022,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitori-chan Dash | 208396 | [208396-nitori-chan-dash.json](./208396-nitori-chan-dash.json) |
 | NitorInc.: Touhou Microgames! | 81889 | [81889-nitorinc-touhou-microgames.json](./81889-nitorinc-touhou-microgames.json) |
 | Nitro | 12188 | [12188-nitro.json](./12188-nitro.json) |
+| Nitro | 83782 | [83782-nitro.json](./83782-nitro.json) |
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Ball | 40983 | [40983-nitro-ball.json](./40983-nitro-ball.json) |
 | Nitro Battle Racing | 350900 | [350900-nitro-battle-racing.json](./350900-nitro-battle-racing.json) |
