@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonGalaxy Wars | 54877 | [54877-neongalaxy-wars.json](./54877-neongalaxy-wars.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | Neonimo | 187797 | [187797-neonimo.json](./187797-neonimo.json) |
+| Neonis | 121190 | [121190-neonis.json](./121190-neonis.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
 | NeoNoid | 414791 | [414791-neonoid.json](./414791-neonoid.json) |
@@ -3731,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nigepico | 256416 | [256416-nigepico.json](./256416-nigepico.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Niggle (Oh Hell!) | 102215 | [102215-niggle-oh-hell.json](./102215-niggle-oh-hell.json) |
+| Night & Day | 121219 | [121219-night-and-day.json](./121219-night-and-day.json) |
 | Night Agent: I'm the Savior | 266266 | [266266-night-agent-im-the-savior.json](./266266-night-agent-im-the-savior.json) |
 | Night and Day | 133406 | [133406-night-and-day.json](./133406-night-and-day.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
@@ -4623,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja JaJaMaru: Ginga Daisakusen | 48454 | [48454-ninja-jajamaru-ginga-daisakusen.json](./48454-ninja-jajamaru-ginga-daisakusen.json) |
 | Ninja JaJaMaru: Retro Collection | 237557 | [237557-ninja-jajamaru-retro-collection.json](./237557-ninja-jajamaru-retro-collection.json) |
+| Ninja JaJaMaru: The Great Yokai Battle | 121215 | [121215-ninja-jajamaru-the-great-yokai-battle.json](./121215-ninja-jajamaru-the-great-yokai-battle.json) |
 | Ninja JaJaMaru: The Great Yokai Battle + Hell | 199764 | [199764-ninja-jajamaru-the-great-yokai-battle-hell.json](./199764-ninja-jajamaru-the-great-yokai-battle-hell.json) |
 | Ninja JaJaMaru: The Great Yokai Battle + Hell - Deluxe Edition | 225783 | [225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json](./225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json) |
 | Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
