@@ -7953,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
 | Worldy Cup | 31854 | [31854-worldy-cup.json](./31854-worldy-cup.json) |
 | Worm | 366923 | [366923-worm.json](./366923-worm.json) |
+| Worm | 92255 | [92255-worm.json](./92255-worm.json) |
 | Worm 2000 | 74069 | [74069-worm-2000.json](./74069-worm-2000.json) |
 | Worm Adventure 4: Into the Wormhole | 142617 | [142617-worm-adventure-4-into-the-wormhole.json](./142617-worm-adventure-4-into-the-wormhole.json) |
 | Worm AR | 234597 | [234597-worm-ar.json](./234597-worm-ar.json) |
