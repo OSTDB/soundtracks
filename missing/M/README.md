@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Magic Journey 2 | 109345 | [109345-mahjong-magic-journey-2.json](./109345-mahjong-magic-journey-2.json) |
 | Mahjong Magic Journey 3 | 109343 | [109343-mahjong-magic-journey-3.json](./109343-mahjong-magic-journey-3.json) |
 | Mahjong Master | 85994 | [85994-mahjong-master.json](./85994-mahjong-master.json) |
+| Mahjong Master HD Pro | 100495 | [100495-mahjong-master-hd-pro.json](./100495-mahjong-master-hd-pro.json) |
 | Mahjong Masters | 163164 | [163164-mahjong-masters.json](./163164-mahjong-masters.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
@@ -17885,6 +17886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
 | Mutants from the Deep | 165545 | [165545-mutants-from-the-deep.json](./165545-mutants-from-the-deep.json) |
 | Mutants Genetic Gladiators | 194100 | [194100-mutants-genetic-gladiators.json](./194100-mutants-genetic-gladiators.json) |
+| Mutants Must Die! | 100528 | [100528-mutants-must-die.json](./100528-mutants-must-die.json) |
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
 | Mutants vs. the Chosen | 371579 | [371579-mutants-vs-the-chosen.json](./371579-mutants-vs-the-chosen.json) |
 | Mutants vs. the Chosen Part 2 | 371583 | [371583-mutants-vs-the-chosen-part-2.json](./371583-mutants-vs-the-chosen-part-2.json) |
