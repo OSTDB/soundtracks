@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
 | Captain Temporium | 174579 | [174579-captain-temporium.json](./174579-captain-temporium.json) |
 | Captain the Looper | 240622 | [240622-captain-the-looper.json](./240622-captain-the-looper.json) |
+| Captain the Runner | 103795 | [103795-captain-the-runner.json](./103795-captain-the-runner.json) |
 | Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
 | Captain Toad Treasure Tracker for SNES II | 162624 | [162624-captain-toad-treasure-tracker-for-snes-ii.json](./162624-captain-toad-treasure-tracker-for-snes-ii.json) |
 | Captain Toad: Prism Star Quest | 358338 | [358338-captain-toad-prism-star-quest.json](./358338-captain-toad-prism-star-quest.json) |
@@ -9819,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Tumble | 118156 | [118156-cluster-tumble.json](./118156-cluster-tumble.json) |
 | Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
+| ClusterDisaster | 103799 | [103799-clusterdisaster.json](./103799-clusterdisaster.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
@@ -10803,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Mumble | 243308 | [243308-color-mumble.json](./243308-color-mumble.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
+| Color My Pony | 103749 | [103749-color-my-pony.json](./103749-color-my-pony.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
 | Color Odyssey | 263307 | [263307-color-odyssey.json](./263307-color-odyssey.json) |
@@ -16687,6 +16690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptobots | 224144 | [224144-cryptobots.json](./224144-cryptobots.json) |
 | CryptoCannoneer | 165128 | [165128-cryptocannoneer.json](./165128-cryptocannoneer.json) |
 | CryptoCars | 178249 | [178249-cryptocars.json](./178249-cryptocars.json) |
+| Cryptochain | 103796 | [103796-cryptochain.json](./103796-cryptochain.json) |
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | CryptoCoin, Inc. | 103296 | [103296-cryptocoin-inc.json](./103296-cryptocoin-inc.json) |
