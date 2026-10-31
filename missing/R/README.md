@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Play | 358648 | [358648-re-play.json](./358648-re-play.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
+| Re:Stage! Prism Step | 77720 | [77720-re-stage-prism-step.json](./77720-re-stage-prism-step.json) |
 | Re:Take | 151802 | [151802-re-take.json](./151802-re-take.json) |
 | Re:Touring | 244609 | [244609-re-touring.json](./244609-re-touring.json) |
 | Re:Turn - One Way Trip | 138021 | [138021-re-turn-one-way-trip.json](./138021-re-turn-one-way-trip.json) |
