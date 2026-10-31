@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidrunner | 36569 | [36569-voidrunner.json](./36569-voidrunner.json) |
 | Voidrunner | 377287 | [377287-voidrunner.json](./377287-voidrunner.json) |
 | Voidrunner | 52755 | [52755-voidrunner.json](./52755-voidrunner.json) |
+| Voidrunner + Hellgate | 98167 | [98167-voidrunner-hellgate.json](./98167-voidrunner-hellgate.json) |
 | Voids & Vessels | 335772 | [335772-voids-and-vessels.json](./335772-voids-and-vessels.json) |
 | Voids Adrift | 144103 | [144103-voids-adrift.json](./144103-voids-adrift.json) |
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
