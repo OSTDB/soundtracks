@@ -8516,6 +8516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeworld: Remastered Collection | 8773 | [8773-homeworld-remastered-collection.json](./8773-homeworld-remastered-collection.json) |
 | Homeworld: Remastered Collection - Deluxe Edition | 53204 | [53204-homeworld-remastered-collection-deluxe-edition.json](./53204-homeworld-remastered-collection-deluxe-edition.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
+| Homey D. Clown | 85767 | [85767-homey-d-clown.json](./85767-homey-d-clown.json) |
 | Homicide | 118110 | [118110-homicide.json](./118110-homicide.json) |
 | Homicide Poetry | 350919 | [350919-homicide-poetry.json](./350919-homicide-poetry.json) |
 | Homicide Squad | 180153 | [180153-homicide-squad.json](./180153-homicide-squad.json) |
