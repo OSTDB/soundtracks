@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Hentai Girls 3 | 213202 | [213202-kawaii-hentai-girls-3.json](./213202-kawaii-hentai-girls-3.json) |
 | Kawaii Home Design | 118754 | [118754-kawaii-home-design.json](./118754-kawaii-home-design.json) |
 | Kawaii Islands | 176880 | [176880-kawaii-islands.json](./176880-kawaii-islands.json) |
+| Kawaii Killer | 121929 | [121929-kawaii-killer.json](./121929-kawaii-killer.json) |
 | Kawaii Kingdom | 255890 | [255890-kawaii-kingdom.json](./255890-kawaii-kingdom.json) |
 | Kawaii Koinu | 49755 | [49755-kawaii-koinu.json](./49755-kawaii-koinu.json) |
 | Kawaii Koinu Mini: Wanko to Asobou!! Kogatainu | 49754 | [49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json](./49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json) |
@@ -4216,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
 | Knights of Legends | 224839 | [224839-knights-of-legends.json](./224839-knights-of-legends.json) |
 | Knights of Light | 96489 | [96489-knights-of-light.json](./96489-knights-of-light.json) |
+| Knights of Messiah | 121912 | [121912-knights-of-messiah.json](./121912-knights-of-messiah.json) |
 | Knights of Messiah If: Castle in an Alternate Dimension | 370160 | [370160-knights-of-messiah-if-castle-in-an-alternate-dimension.json](./370160-knights-of-messiah-if-castle-in-an-alternate-dimension.json) |
 | Knights of MILFgaard | 393393 | [393393-knights-of-milfgaard.json](./393393-knights-of-milfgaard.json) |
 | Knights of Pen & Paper 2: Deluxiest Edition | 113080 | [113080-knights-of-pen-and-paper-2-deluxiest-edition.json](./113080-knights-of-pen-and-paper-2-deluxiest-edition.json) |
