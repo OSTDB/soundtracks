@@ -6869,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Maker | 122627 | [122627-word-maker.json](./122627-word-maker.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
+| Word Master - Pro | 91011 | [91011-word-master-pro.json](./91011-word-master-pro.json) |
 | Word Maze 2 by Powgi | 140418 | [140418-word-maze-2-by-powgi.json](./140418-word-maze-2-by-powgi.json) |
 | Word Maze by Powgi | 97167 | [97167-word-maze-by-powgi.json](./97167-word-maze-by-powgi.json) |
 | Word Mesh | 120072 | [120072-word-mesh.json](./120072-word-mesh.json) |
