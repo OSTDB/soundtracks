@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Seconds Burger Run | 234697 | [234697-60-seconds-burger-run.json](./234697-60-seconds-burger-run.json) |
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
 | 60 Seconds to Park | 303745 | [303745-60-seconds-to-park.json](./303745-60-seconds-to-park.json) |
+| 60 Seconds to Survive | 106840 | [106840-60-seconds-to-survive.json](./106840-60-seconds-to-survive.json) |
 | 60 Seconds! | 11709 | [11709-60-seconds.json](./11709-60-seconds.json) |
 | 60 Seconds! Reatomized | 120560 | [120560-60-seconds-reatomized.json](./120560-60-seconds-reatomized.json) |
 | 60 Seconds! Souper Scavenger | 349831 | [349831-60-seconds-souper-scavenger.json](./349831-60-seconds-souper-scavenger.json) |
