@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazzpunk | 8114 | [8114-jazzpunk.json](./8114-jazzpunk.json) |
 | Jazzpunk: Director's Cut | 24415 | [24415-jazzpunk-directors-cut.json](./24415-jazzpunk-directors-cut.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
+| Jazzy Billiards | 67110 | [67110-jazzy-billiards.json](./67110-jazzy-billiards.json) |
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
 | JB Hunter: Adventure | 223394 | [223394-jb-hunter-adventure.json](./223394-jb-hunter-adventure.json) |
 | JB: The Super Bass | 38167 | [38167-jb-the-super-bass.json](./38167-jb-the-super-bass.json) |
@@ -1397,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest 4 Heritage | 85215 | [85215-jewel-quest-4-heritage.json](./85215-jewel-quest-4-heritage.json) |
 | Jewel Quest 4: Heritage | 85621 | [85621-jewel-quest-4-heritage.json](./85621-jewel-quest-4-heritage.json) |
 | Jewel Quest II | 10473 | [10473-jewel-quest-ii.json](./10473-jewel-quest-ii.json) |
+| Jewel Quest III | 67125 | [67125-jewel-quest-iii.json](./67125-jewel-quest-iii.json) |
 | Jewel Quest Mysteries 3: The Seventh Gate | 85214 | [85214-jewel-quest-mysteries-3-the-seventh-gate.json](./85214-jewel-quest-mysteries-3-the-seventh-gate.json) |
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
 | Jewel Quest Mysteries: Curse of the Emerald Tear | 10474 | [10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json](./10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json) |
@@ -1404,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Pack | 29206 | [29206-jewel-quest-pack.json](./29206-jewel-quest-pack.json) |
 | Jewel Quest Solitaire 3 | 10476 | [10476-jewel-quest-solitaire-3.json](./10476-jewel-quest-solitaire-3.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
+| Jewel Quest Solitaire III | 67120 | [67120-jewel-quest-solitaire-iii.json](./67120-jewel-quest-solitaire-iii.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
 | Jewel Quest: Heritage | 209994 | [209994-jewel-quest-heritage.json](./209994-jewel-quest-heritage.json) |
