@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.O.L.M. | 68899 | [68899-k-o-l-m.json](./68899-k-o-l-m.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K'nife Fight | 137455 | [137455-knife-fight.json](./137455-knife-fight.json) |
+| K'nossos | 80967 | [80967-knossos.json](./80967-knossos.json) |
 | K*A*O*R*I | 417949 | [417949-k-a-o-r-i.json](./417949-k-a-o-r-i.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
 | K2 Story | 245800 | [245800-k2-story.json](./245800-k2-story.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
 | KartMania | 247365 | [247365-kartmania.json](./247365-kartmania.json) |
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
+| Kartofelka | 80982 | [80982-kartofelka.json](./80982-kartofelka.json) |
 | Kartoffelpüree: Der Gemüse-Shooter | 100078 | [100078-kartoffelpuree-der-gemuse-shooter.json](./100078-kartoffelpuree-der-gemuse-shooter.json) |
 | Kartong | 38787 | [38787-kartong.json](./38787-kartong.json) |
 | Kartong - Death by Cardboard! | 77571 | [77571-kartong-death-by-cardboard.json](./77571-kartong-death-by-cardboard.json) |
