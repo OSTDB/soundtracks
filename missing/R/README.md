@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallyallyally | 211136 | [211136-rallyallyally.json](./211136-rallyallyally.json) |
 | Rallycross Simulator | 75504 | [75504-rallycross-simulator.json](./75504-rallycross-simulator.json) |
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
+| Rallye Racing 97 | 73062 | [73062-rallye-racing-97.json](./73062-rallye-racing-97.json) |
 | Rallygator | 212053 | [212053-rallygator.json](./212053-rallygator.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randal's Tuesday | 248200 | [248200-randals-tuesday.json](./248200-randals-tuesday.json) |
 | Randall the Grape Jelly Cube Goes to Soda Valley for Some Reason | 384556 | [384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json](./384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json) |
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
+| Randar no Bouken | 73087 | [73087-randar-no-bouken.json](./73087-randar-no-bouken.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
 | RandoJumper | 308148 | [308148-randojumper.json](./308148-randojumper.json) |
