@@ -7534,6 +7534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChromeRivals | 179983 | [179983-chromerivals.json](./179983-chromerivals.json) |
 | Chromium B.S.U. | 121935 | [121935-chromium-b-s-u.json](./121935-chromium-b-s-u.json) |
 | Chromium Man Clicker | 334834 | [334834-chromium-man-clicker.json](./334834-chromium-man-clicker.json) |
+| Chromixa | 77040 | [77040-chromixa.json](./77040-chromixa.json) |
 | Chromo XY | 103558 | [103558-chromo-xy.json](./103558-chromo-xy.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
 | Chromophore: The Two Brothers Director's Cut | 61512 | [61512-chromophore-the-two-brothers-directors-cut.json](./61512-chromophore-the-two-brothers-directors-cut.json) |
@@ -9845,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue/Cluedo: Tropical Pack | 263035 | [263035-clue-cluedo-tropical-pack.json](./263035-clue-cluedo-tropical-pack.json) |
 | Cluedo Chronicles - Fatal Illusion | 50799 | [50799-cluedo-chronicles-fatal-illusion.json](./50799-cluedo-chronicles-fatal-illusion.json) |
 | Cluedo: The Mysteries Continue | 45936 | [45936-cluedo-the-mysteries-continue.json](./45936-cluedo-the-mysteries-continue.json) |
+| ClueFinders 5th Grade Adventures: The Secret of the Living Volcano | 77048 | [77048-cluefinders-5th-grade-adventures-the-secret-of-the-living-volcano.json](./77048-cluefinders-5th-grade-adventures-the-secret-of-the-living-volcano.json) |
 | ClueFinders Search and Solve Adventures: The Phantom Amusement Park | 186038 | [186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json](./186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json) |
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | ClueFinders: Mystery Mansion Arcade | 76183 | [76183-cluefinders-mystery-mansion-arcade.json](./76183-cluefinders-mystery-mansion-arcade.json) |
