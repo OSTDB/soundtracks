@@ -5190,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
 | Champ Ms. Pac-em | 92896 | [92896-champ-ms-pac-em.json](./92896-champ-ms-pac-em.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
+| Champion | 67134 | [67134-champion.json](./67134-champion.json) |
 | Champion Base Ball Part-2 | 125958 | [125958-champion-base-ball-part-2.json](./125958-champion-base-ball-part-2.json) |
 | Champion Baseball | 388244 | [388244-champion-baseball.json](./388244-champion-baseball.json) |
 | Champion Baseball | 6084 | [6084-champion-baseball.json](./6084-champion-baseball.json) |
@@ -11364,6 +11365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
 | Colourspace | 321459 | [321459-colourspace.json](./321459-colourspace.json) |
+| Colpile | 67146 | [67146-colpile.json](./67146-colpile.json) |
 | Colt-55 | 128430 | [128430-colt-55.json](./128430-colt-55.json) |
 | Colton Owen: Ace Attorney | 366872 | [366872-colton-owen-ace-attorney.json](./366872-colton-owen-ace-attorney.json) |
 | Colton Owen: After All's Over | 309993 | [309993-colton-owen-after-alls-over.json](./309993-colton-owen-after-alls-over.json) |
@@ -14261,6 +14263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowardly Heroes | 182298 | [182298-cowardly-heroes.json](./182298-cowardly-heroes.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
 | Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
+| Cowboy | 67132 | [67132-cowboy.json](./67132-cowboy.json) |
 | Cowboy : Attack of Wild Animal | 100533 | [100533-cowboy-attack-of-wild-animal.json](./100533-cowboy-attack-of-wild-animal.json) |
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
 | Cowboy Bebop | 45027 | [45027-cowboy-bebop.json](./45027-cowboy-bebop.json) |
@@ -14497,6 +14500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
 | Crack Life | 221666 | [221666-crack-life.json](./221666-crack-life.json) |
 | Crack Mountain | 398319 | [398319-crack-mountain.json](./398319-crack-mountain.json) |
+| Crack the Code | 67019 | [67019-crack-the-code.json](./67019-crack-the-code.json) |
 | Crack the Pack | 411003 | [411003-crack-the-pack.json](./411003-crack-the-pack.json) |
 | Crack Trick! | 376497 | [376497-crack-trick.json](./376497-crack-trick.json) |
 | Crack-Up | 13528 | [13528-crack-up.json](./13528-crack-up.json) |
@@ -15452,6 +15456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Create | 80541 | [80541-creature-create.json](./80541-creature-create.json) |
 | Creature Creation Station | 343280 | [343280-creature-creation-station.json](./343280-creature-creation-station.json) |
 | Creature Crunch | 7731 | [7731-creature-crunch.json](./7731-creature-crunch.json) |
+| Creature Defense | 67028 | [67028-creature-defense.json](./67028-creature-defense.json) |
 | Creature Discomfort | 229799 | [229799-creature-discomfort.json](./229799-creature-discomfort.json) |
 | Creature Evolution Simulator | 265470 | [265470-creature-evolution-simulator.json](./265470-creature-evolution-simulator.json) |
 | Creature Feature | 397643 | [397643-creature-feature.json](./397643-creature-feature.json) |
@@ -15599,6 +15604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Satsujin Jiken: Hyena no Jijou | 273446 | [273446-crescent-satsujin-jiken-hyena-no-jijou.json](./273446-crescent-satsujin-jiken-hyena-no-jijou.json) |
 | Crescent Satsujin Jiken: Reporter Saotome Kyouko | 276101 | [276101-crescent-satsujin-jiken-reporter-saotome-kyouko.json](./276101-crescent-satsujin-jiken-reporter-saotome-kyouko.json) |
 | Crescent Satsujin Jiken: Tozasareta Nikki | 276102 | [276102-crescent-satsujin-jiken-tozasareta-nikki.json](./276102-crescent-satsujin-jiken-tozasareta-nikki.json) |
+| Crescent Suzuki Racing: Superbikes and Super Sidecars | 67041 | [67041-crescent-suzuki-racing-superbikes-and-super-sidecars.json](./67041-crescent-suzuki-racing-superbikes-and-super-sidecars.json) |
 | Crescent Tower | 339979 | [339979-crescent-tower.json](./339979-crescent-tower.json) |
 | Crescent Tower: Rising | 415736 | [415736-crescent-tower-rising.json](./415736-crescent-tower-rising.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
