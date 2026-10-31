@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe 51: Tannhäuser Wars | 195894 | [195894-universe-51-tannhauser-wars.json](./195894-universe-51-tannhauser-wars.json) |
 | Universe Apart | 199491 | [199491-universe-apart.json](./199491-universe-apart.json) |
 | Universe at War: Earth Assault | 7230 | [7230-universe-at-war-earth-assault.json](./7230-universe-at-war-earth-assault.json) |
+| Universe Balancing Bureau | 90308 | [90308-universe-balancing-bureau.json](./90308-universe-balancing-bureau.json) |
 | Universe Dawn | 336994 | [336994-universe-dawn.json](./336994-universe-dawn.json) |
 | Universe Generator: The Golden Sword | 152600 | [152600-universe-generator-the-golden-sword.json](./152600-universe-generator-the-golden-sword.json) |
 | Universe Has No Favorites | 286093 | [286093-universe-has-no-favorites.json](./286093-universe-has-no-favorites.json) |
