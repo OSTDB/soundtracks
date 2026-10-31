@@ -5119,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Quest VR : The Search for the Crown of Calculation | 339302 | [339302-math-quest-vr-the-search-for-the-crown-of-calculation.json](./339302-math-quest-vr-the-search-for-the-crown-of-calculation.json) |
 | Math Rabbit: Deluxe! | 73669 | [73669-math-rabbit-deluxe.json](./73669-math-rabbit-deluxe.json) |
+| Math Race | 98722 | [98722-math-race.json](./98722-math-race.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
 | Math Rescue Plus | 343385 | [343385-math-rescue-plus.json](./343385-math-rescue-plus.json) |
 | Math Rescue: Rounding and Estimation game | 97139 | [97139-math-rescue-rounding-and-estimation-game.json](./97139-math-rescue-rounding-and-estimation-game.json) |
@@ -8020,6 +8021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Chip | 379697 | [379697-memory-chip.json](./379697-memory-chip.json) |
 | Memory Collectors | 352761 | [352761-memory-collectors.json](./352761-memory-collectors.json) |
 | Memory Color! | 252145 | [252145-memory-color.json](./252145-memory-color.json) |
+| Memory Concentration | 98747 | [98747-memory-concentration.json](./98747-memory-concentration.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Days | 196255 | [196255-memory-days.json](./196255-memory-days.json) |
 | Memory Draw | 390814 | [390814-memory-draw.json](./390814-memory-draw.json) |
