@@ -351,6 +351,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Pocket Parlor Guide | 75502 | [75502-pachinko-pocket-parlor-guide.json](./75502-pachinko-pocket-parlor-guide.json) |
 | Pachinko Ren Chan Tengoku | 42232 | [42232-pachinko-ren-chan-tengoku.json](./42232-pachinko-ren-chan-tengoku.json) |
 | Pachinko Saiyuuki | 97627 | [97627-pachinko-saiyuuki.json](./97627-pachinko-saiyuuki.json) |
+| Pachinko Sexy Reaction | 83307 | [83307-pachinko-sexy-reaction.json](./83307-pachinko-sexy-reaction.json) |
+| Pachinko Sexy Reaction 2 | 83305 | [83305-pachinko-sexy-reaction-2.json](./83305-pachinko-sexy-reaction-2.json) |
 | Pachinko Star Wing II | 385717 | [385717-pachinko-star-wing-ii.json](./385717-pachinko-star-wing-ii.json) |
 | Pachinko Tetsujin: Shichiban Shoubu | 42231 | [42231-pachinko-tetsujin-shichiban-shoubu.json](./42231-pachinko-tetsujin-shichiban-shoubu.json) |
 | Pachinko Time | 131141 | [131141-pachinko-time.json](./131141-pachinko-time.json) |
@@ -10727,6 +10729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Explorer Simulator | 173061 | [173061-polar-explorer-simulator.json](./173061-polar-explorer-simulator.json) |
 | Polar Golfer | 142030 | [142030-polar-golfer.json](./142030-polar-golfer.json) |
+| Polar Golfer: Pineapple Cup | 83298 | [83298-polar-golfer-pineapple-cup.json](./83298-polar-golfer-pineapple-cup.json) |
 | Polar Jump | 120592 | [120592-polar-jump.json](./120592-polar-jump.json) |
 | Polar Jump | 386921 | [386921-polar-jump.json](./386921-polar-jump.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
@@ -15072,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospekt | 22149 | [22149-prospekt.json](./22149-prospekt.json) |
 | Prospera | 415184 | [415184-prospera.json](./415184-prospera.json) |
 | Prospero | 237524 | [237524-prospero.json](./237524-prospero.json) |
+| Prosperous Universe | 83292 | [83292-prosperous-universe.json](./83292-prosperous-universe.json) |
 | Prospice | 374812 | [374812-prospice.json](./374812-prospice.json) |
 | Prosrochennyy | 367756 | [367756-prosrochennyy.json](./367756-prosrochennyy.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
@@ -16094,6 +16098,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Logic | 189303 | [189303-pure-logic.json](./189303-pure-logic.json) |
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
 | Pure Mahjong | 119518 | [119518-pure-mahjong.json](./119518-pure-mahjong.json) |
+| Pure Marriage: Akai Ito Monogatari - Celica Hen | 83326 | [83326-pure-marriage-akai-ito-monogatari-celica-hen.json](./83326-pure-marriage-akai-ito-monogatari-celica-hen.json) |
+| Pure Marriage: Akai Ito Monogatari - Madoka Hen | 83325 | [83325-pure-marriage-akai-ito-monogatari-madoka-hen.json](./83325-pure-marriage-akai-ito-monogatari-madoka-hen.json) |
 | Pure Metal: Feature 1 | 169288 | [169288-pure-metal-feature-1.json](./169288-pure-metal-feature-1.json) |
 | Pure Mind | 75669 | [75669-pure-mind.json](./75669-pure-mind.json) |
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
@@ -16807,12 +16813,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Scape Mini | 66979 | [66979-puzzle-scape-mini.json](./66979-puzzle-scape-mini.json) |
 | Puzzle Scenery | 312683 | [312683-puzzle-scenery.json](./312683-puzzle-scenery.json) |
 | Puzzle Sculpt | 313770 | [313770-puzzle-sculpt.json](./313770-puzzle-sculpt.json) |
+| Puzzle Series Vol. 1: Jigsaw Puzzle | 83306 | [83306-puzzle-series-vol-1-jigsaw-puzzle.json](./83306-puzzle-series-vol-1-jigsaw-puzzle.json) |
 | Puzzle Series Vol. 1: Sudoku | 268387 | [268387-puzzle-series-vol-1-sudoku.json](./268387-puzzle-series-vol-1-sudoku.json) |
 | Puzzle Series Vol. 10: Hitori ni Shite Kure | 83410 | [83410-puzzle-series-vol-10-hitori-ni-shite-kure.json](./83410-puzzle-series-vol-10-hitori-ni-shite-kure.json) |
 | Puzzle Series Vol. 11: Nurikabe | 83412 | [83412-puzzle-series-vol-11-nurikabe.json](./83412-puzzle-series-vol-11-nurikabe.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
+| Puzzle Series Vol. 2: Crossword | 83304 | [83304-puzzle-series-vol-2-crossword.json](./83304-puzzle-series-vol-2-crossword.json) |
 | Puzzle Series Vol. 2: Illust Logic + Colourful Logic | 85359 | [85359-puzzle-series-vol-2-illust-logic-colourful-logic.json](./85359-puzzle-series-vol-2-illust-logic-colourful-logic.json) |
 | Puzzle Series Vol. 3: Sudoku | 269954 | [269954-puzzle-series-vol-3-sudoku.json](./269954-puzzle-series-vol-3-sudoku.json) |
+| Puzzle Series Vol. 7: Crossword 2 | 83301 | [83301-puzzle-series-vol-7-crossword-2.json](./83301-puzzle-series-vol-7-crossword-2.json) |
 | Puzzle Series Vol. 8: Nankuro | 83407 | [83407-puzzle-series-vol-8-nankuro.json](./83407-puzzle-series-vol-8-nankuro.json) |
 | Puzzle Series Vol. 9: Sudoku 2 Deluxe | 83411 | [83411-puzzle-series-vol-9-sudoku-2-deluxe.json](./83411-puzzle-series-vol-9-sudoku-2-deluxe.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
