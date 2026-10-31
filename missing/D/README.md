@@ -5769,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Driver: Time to Burn Rubber | 49274 | [49274-demon-driver-time-to-burn-rubber.json](./49274-demon-driver-time-to-burn-rubber.json) |
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
 | Demon Eclipse | 141138 | [141138-demon-eclipse.json](./141138-demon-eclipse.json) |
+| Demon Escape: Shadow Realm | 119946 | [119946-demon-escape-shadow-realm.json](./119946-demon-escape-shadow-realm.json) |
 | Demon Eye | 391666 | [391666-demon-eye.json](./391666-demon-eye.json) |
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
@@ -15584,6 +15585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTXMania2 | 123017 | [123017-dtxmania2.json](./123017-dtxmania2.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
 | Du Lac & Fey: Dance of Death | 76211 | [76211-du-lac-and-fey-dance-of-death.json](./76211-du-lac-and-fey-dance-of-death.json) |
+| Du-game | 119936 | [119936-du-game.json](./119936-du-game.json) |
 | Duael Invaders | 42827 | [42827-duael-invaders.json](./42827-duael-invaders.json) |
 | Duake | 320260 | [320260-duake.json](./320260-duake.json) |
 | Dual | 255889 | [255889-dual.json](./255889-dual.json) |
@@ -16357,6 +16359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Jinrou | 308914 | [308914-dungeon-jinrou.json](./308914-dungeon-jinrou.json) |
 | Dungeon Journey | 253964 | [253964-dungeon-journey.json](./253964-dungeon-journey.json) |
 | Dungeon Journey | 32485 | [32485-dungeon-journey.json](./32485-dungeon-journey.json) |
+| Dungeon Jump | 119972 | [119972-dungeon-jump.json](./119972-dungeon-jump.json) |
 | Dungeon Keep | 323796 | [323796-dungeon-keep.json](./323796-dungeon-keep.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Keeper 2 | 36 | [36-dungeon-keeper-2.json](./36-dungeon-keeper-2.json) |
