@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
 | Reach | 130790 | [130790-reach.json](./130790-reach.json) |
 | Reach | 347893 | [347893-reach.json](./347893-reach.json) |
+| Reach 50 : Sexy Hentai Girls | 113312 | [113312-reach-50-sexy-hentai-girls.json](./113312-reach-50-sexy-hentai-girls.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
 | Reach for the Skies | 12740 | [12740-reach-for-the-skies.json](./12740-reach-for-the-skies.json) |
 | Reach for the Sky | 133671 | [133671-reach-for-the-sky.json](./133671-reach-for-the-sky.json) |
@@ -3034,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Duet | 275837 | [275837-rebel-duet.json](./275837-rebel-duet.json) |
 | Rebel Engine | 201529 | [201529-rebel-engine.json](./201529-rebel-engine.json) |
 | Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
+| Rebel Forces | 113324 | [113324-rebel-forces.json](./113324-rebel-forces.json) |
 | Rebel Fury | 384562 | [384562-rebel-fury.json](./384562-rebel-fury.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Galaxy Outlaw | 107318 | [107318-rebel-galaxy-outlaw.json](./107318-rebel-galaxy-outlaw.json) |
