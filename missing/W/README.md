@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanko Wanko Adventure | 336969 | [336969-wanko-wanko-adventure.json](./336969-wanko-wanko-adventure.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanna B Wonka? Crazy Candy Creation Game | 373553 | [373553-wanna-b-wonka-crazy-candy-creation-game.json](./373553-wanna-b-wonka-crazy-candy-creation-game.json) |
+| Wanna Be Wizard | 65307 | [65307-wanna-be-wizard.json](./65307-wanna-be-wizard.json) |
 | Wanna Peek? Candy Bunnies | 336464 | [336464-wanna-peek-candy-bunnies.json](./336464-wanna-peek-candy-bunnies.json) |
 | Wanna Run Again | 116368 | [116368-wanna-run-again.json](./116368-wanna-run-again.json) |
 | Wanna Sleep All Day, But | 389459 | [389459-wanna-sleep-all-day-but.json](./389459-wanna-sleep-all-day-but.json) |
@@ -6165,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Realm | 287684 | [287684-wizard-realm.json](./287684-wizard-realm.json) |
 | Wizard Recurse | 229269 | [229269-wizard-recurse.json](./229269-wizard-recurse.json) |
 | Wizard School Dropout | 416860 | [416860-wizard-school-dropout.json](./416860-wizard-school-dropout.json) |
+| Wizard Slayer | 65309 | [65309-wizard-slayer.json](./65309-wizard-slayer.json) |
 | Wizard Slime | 113173 | [113173-wizard-slime.json](./113173-wizard-slime.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
 | Wizard time! | 192614 | [192614-wizard-time.json](./192614-wizard-time.json) |
@@ -6492,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolverine | 365006 | [365006-wolverine.json](./365006-wolverine.json) |
 | Wolverine | 85885 | [85885-wolverine.json](./85885-wolverine.json) |
 | Wolverine and the X-Men | 230456 | [230456-wolverine-and-the-x-men.json](./230456-wolverine-and-the-x-men.json) |
+| Wolverine and the X-Men | 65156 | [65156-wolverine-and-the-x-men.json](./65156-wolverine-and-the-x-men.json) |
 | Wolverine M.R.D. Escape | 283580 | [283580-wolverine-m-r-d-escape.json](./283580-wolverine-m-r-d-escape.json) |
 | Wolverine: Adamantium Rage | 207235 | [207235-wolverine-adamantium-rage.json](./207235-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Rage | 46250 | [46250-wolverine-adamantium-rage.json](./46250-wolverine-adamantium-rage.json) |
@@ -7504,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mahjongg Deluxe | 205874 | [205874-world-of-mahjongg-deluxe.json](./205874-world-of-mahjongg-deluxe.json) |
 | World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
 | World of Mechs | 200940 | [200940-world-of-mechs.json](./200940-world-of-mechs.json) |
+| World of Mercenaries | 65173 | [65173-world-of-mercenaries.json](./65173-world-of-mercenaries.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of Mines! | 175146 | [175146-world-of-mines.json](./175146-world-of-mines.json) |
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
