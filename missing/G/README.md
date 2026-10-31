@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabrielle's Sweet Defense | 274846 | [274846-gabrielles-sweet-defense.json](./274846-gabrielles-sweet-defense.json) |
 | Gabrielle's Zombie Attack | 274845 | [274845-gabrielles-zombie-attack.json](./274845-gabrielles-zombie-attack.json) |
 | Gabyouden | 375381 | [375381-gabyouden.json](./375381-gabyouden.json) |
+| Gacha | 119220 | [119220-gacha.json](./119220-gacha.json) |
 | Gacha Addict Simulator | 326198 | [326198-gacha-addict-simulator.json](./326198-gacha-addict-simulator.json) |
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
