@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Saikyou: Takada Nobuhiko | 42436 | [42436-saikyou-takada-nobuhiko.json](./42436-saikyou-takada-nobuhiko.json) |
+| Sail and Sacrifice | 90310 | [90310-sail-and-sacrifice.json](./90310-sail-and-sacrifice.json) |
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
 | Sail Forth + Maelstrom Bundle | 284860 | [284860-sail-forth-maelstrom-bundle.json](./284860-sail-forth-maelstrom-bundle.json) |
 | Sail Forth: Maelstrom | 283240 | [283240-sail-forth-maelstrom.json](./283240-sail-forth-maelstrom.json) |
@@ -1627,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa and Present Chaos | 278992 | [278992-santa-and-present-chaos.json](./278992-santa-and-present-chaos.json) |
 | Santa Arrow Master - Bowmaster | 104690 | [104690-santa-arrow-master-bowmaster.json](./104690-santa-arrow-master-bowmaster.json) |
 | Santa Challenge | 130959 | [130959-santa-challenge.json](./130959-santa-challenge.json) |
+| Santa Christmas Jump: Fun Game | 90292 | [90292-santa-christmas-jump-fun-game.json](./90292-santa-christmas-jump-fun-game.json) |
 | Santa Claus and Christmas: Happy Adventures | 328497 | [328497-santa-claus-and-christmas-happy-adventures.json](./328497-santa-claus-and-christmas-happy-adventures.json) |
 | Santa Claus Goblins Attack | 232990 | [232990-santa-claus-goblins-attack.json](./232990-santa-claus-goblins-attack.json) |
 | Santa Claus in Trouble | 71408 | [71408-santa-claus-in-trouble.json](./71408-santa-claus-in-trouble.json) |
