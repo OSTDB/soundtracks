@@ -6992,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Winklebottom Investigates | 115180 | [115180-lord-winklebottom-investigates.json](./115180-lord-winklebottom-investigates.json) |
 | Lord's Journey | 313531 | [313531-lords-journey.json](./313531-lords-journey.json) |
 | Lordcraft | 420669 | [420669-lordcraft.json](./420669-lordcraft.json) |
+| Lordian: karma | 101237 | [101237-lordian-karma.json](./101237-lordian-karma.json) |
 | Lordlings of Yore | 25614 | [25614-lordlings-of-yore.json](./25614-lordlings-of-yore.json) |
 | Lordmancer 2 | 176189 | [176189-lordmancer-2.json](./176189-lordmancer-2.json) |
 | Lords & Knights | 323155 | [323155-lords-and-knights.json](./323155-lords-and-knights.json) |
@@ -8524,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Zombie Survival | 348560 | [348560-lucky-zombie-survival.json](./348560-lucky-zombie-survival.json) |
 | Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
 | LuckyJet | 233444 | [233444-luckyjet.json](./233444-luckyjet.json) |
+| Luckys Pub Games | 101222 | [101222-luckys-pub-games.json](./101222-luckys-pub-games.json) |
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
 | Lucle | 117978 | [117978-lucle.json](./117978-lucle.json) |
 | Lucrezia | 401168 | [401168-lucrezia.json](./401168-lucrezia.json) |
