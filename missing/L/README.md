@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Flip | 266396 | [266396-last-flip.json](./266396-last-flip.json) |
 | Last Floor | 130242 | [130242-last-floor.json](./130242-last-floor.json) |
 | Last Floor | 400252 | [400252-last-floor.json](./400252-last-floor.json) |
+| Last Fort | 89606 | [89606-last-fort.json](./89606-last-fort.json) |
 | Last Fort Night Craft Survival Battle Royale | 95843 | [95843-last-fort-night-craft-survival-battle-royale.json](./95843-last-fort-night-craft-survival-battle-royale.json) |
 | Last Fortress: Underground | 219164 | [219164-last-fortress-underground.json](./219164-last-fortress-underground.json) |
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
@@ -7378,6 +7379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Random: The Eternal Die - Stitched in Style | 361062 | [361062-lost-in-random-the-eternal-die-stitched-in-style.json](./361062-lost-in-random-the-eternal-die-stitched-in-style.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost In Reefs 2 | 87063 | [87063-lost-in-reefs-2.json](./87063-lost-in-reefs-2.json) |
+| Lost In Reefs 3 | 89565 | [89565-lost-in-reefs-3.json](./89565-lost-in-reefs-3.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
 | Lost in Secular Love | 31505 | [31505-lost-in-secular-love.json](./31505-lost-in-secular-love.json) |
 | Lost in Shadow | 4980 | [4980-lost-in-shadow.json](./4980-lost-in-shadow.json) |
