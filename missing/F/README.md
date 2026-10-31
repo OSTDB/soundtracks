@@ -2076,8 +2076,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 5: Digital Gold Edition | 118710 | [118710-far-cry-5-digital-gold-edition.json](./118710-far-cry-5-digital-gold-edition.json) |
 | Far Cry 5: Gold Edition | 53011 | [53011-far-cry-5-gold-edition.json](./53011-far-cry-5-gold-edition.json) |
 | Far Cry 5: Gold Edition + Far Cry: New Dawn - Deluxe Edition Bundle | 164718 | [164718-far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle.json](./164718-far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle.json) |
+| Far Cry 5: Hope County - MT Collector's Case | 83888 | [83888-far-cry-5-hope-county-mt-collectors-case.json](./83888-far-cry-5-hope-county-mt-collectors-case.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
+| Far Cry 5: x Mondo Edition | 83889 | [83889-far-cry-5-x-mondo-edition.json](./83889-far-cry-5-x-mondo-edition.json) |
 | Far Cry 6: Collapse | 182123 | [182123-far-cry-6-collapse.json](./182123-far-cry-6-collapse.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
 | Far Cry 6: Control | 182124 | [182124-far-cry-6-control.json](./182124-far-cry-6-control.json) |
@@ -7956,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Tigers: Shadows Over China - Paradise Island | 167208 | [167208-flying-tigers-shadows-over-china-paradise-island.json](./167208-flying-tigers-shadows-over-china-paradise-island.json) |
 | Flying Tobacco Eggs | 305922 | [305922-flying-tobacco-eggs.json](./305922-flying-tobacco-eggs.json) |
 | Flying Toyz | 258005 | [258005-flying-toyz.json](./258005-flying-toyz.json) |
+| Flying Turkey | 83982 | [83982-flying-turkey.json](./83982-flying-turkey.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
 | Flying Universe | 379019 | [379019-flying-universe.json](./379019-flying-universe.json) |
 | Flying Warriors | 48126 | [48126-flying-warriors.json](./48126-flying-warriors.json) |
