@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud | 257844 | [257844-family-feud.json](./257844-family-feud.json) |
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
+| Family Feud | 68397 | [68397-family-feud.json](./68397-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud & Friends 2 | 83380 | [83380-family-feud-and-friends-2.json](./83380-family-feud-and-friends-2.json) |
 | Family Feud 3: Dream Home | 370725 | [370725-family-feud-3-dream-home.json](./370725-family-feud-3-dream-home.json) |
@@ -1766,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Dungeon | 285946 | [285946-fantasy-dungeon.json](./285946-fantasy-dungeon.json) |
 | Fantasy Dungeon VR | 157367 | [157367-fantasy-dungeon-vr.json](./157367-fantasy-dungeon-vr.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
+| Fantasy Earth Genesis | 68375 | [68375-fantasy-earth-genesis.json](./68375-fantasy-earth-genesis.json) |
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
 | Fantasy Empires | 70451 | [70451-fantasy-empires.json](./70451-fantasy-empires.json) |
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
