@@ -4891,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Stardust | 188814 | [188814-final-stardust.json](./188814-final-stardust.json) |
 | Final Stardust: Cosmic Nexus | 197262 | [197262-final-stardust-cosmic-nexus.json](./197262-final-stardust-cosmic-nexus.json) |
 | Final Stepasy | 395463 | [395463-final-stepasy.json](./395463-final-stepasy.json) |
+| Final Storm | 74661 | [74661-final-storm.json](./74661-final-storm.json) |
 | Final Strategy | 390997 | [390997-final-strategy.json](./390997-final-strategy.json) |
 | Final Sword | 135636 | [135636-final-sword.json](./135636-final-sword.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
@@ -9609,6 +9610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie | 59928 | [59928-fortune-cookie.json](./59928-fortune-cookie.json) |
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
+| Fortune Cookies | 74835 | [74835-fortune-cookies.json](./74835-fortune-cookies.json) |
 | Fortune Crafter | 369711 | [369711-fortune-crafter.json](./369711-fortune-crafter.json) |
 | Fortune Decker | 270743 | [270743-fortune-decker.json](./270743-fortune-decker.json) |
 | Fortune Factory | 413873 | [413873-fortune-factory.json](./413873-fortune-factory.json) |
