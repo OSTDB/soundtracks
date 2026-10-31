@@ -4917,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiescence | 31219 | [31219-requiescence.json](./31219-requiescence.json) |
 | Requisition VR | 193293 | [193293-requisition-vr.json](./193293-requisition-vr.json) |
 | Requisition VR: Survival Update | 253181 | [253181-requisition-vr-survival-update.json](./253181-requisition-vr-survival-update.json) |
+| Requital | 72410 | [72410-requital.json](./72410-requital.json) |
 | ReRave | 41506 | [41506-rerave.json](./41506-rerave.json) |
 | ReRise | 293862 | [293862-rerise.json](./293862-rerise.json) |
 | ReRoad | 139178 | [139178-reroad.json](./139178-reroad.json) |
@@ -5765,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Nangrim | 116280 | [116280-return-to-nangrim.json](./116280-return-to-nangrim.json) |
 | Return to Northbury Grove | 271602 | [271602-return-to-northbury-grove.json](./271602-return-to-northbury-grove.json) |
 | Return to Paradise | 294066 | [294066-return-to-paradise.json](./294066-return-to-paradise.json) |
+| Return to Pirate's Island 2 | 72537 | [72537-return-to-pirates-island-2.json](./72537-return-to-pirates-island-2.json) |
 | Return to Pirate's Isle | 18527 | [18527-return-to-pirates-isle.json](./18527-return-to-pirates-isle.json) |
 | Return to Planet X | 38810 | [38810-return-to-planet-x.json](./38810-return-to-planet-x.json) |
 | Return to PopoloCrois: A Story of Seasons Fairytale | 11005 | [11005-return-to-popolocrois-a-story-of-seasons-fairytale.json](./11005-return-to-popolocrois-a-story-of-seasons-fairytale.json) |
@@ -8887,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocko's Modern Life Slider | 312952 | [312952-rockos-modern-life-slider.json](./312952-rockos-modern-life-slider.json) |
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
 | Rocko's Quest | 17345 | [17345-rockos-quest.json](./17345-rockos-quest.json) |
+| Rocko's Quest | 72464 | [72464-rockos-quest.json](./72464-rockos-quest.json) |
 | Rocks 'n' Diamonds | 80290 | [80290-rocks-n-diamonds.json](./80290-rocks-n-diamonds.json) |
 | Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
