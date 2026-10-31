@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap City Tycoon | 256434 | [256434-tap-city-tycoon.json](./256434-tap-city-tycoon.json) |
 | Tap Combo Color Blocks | 356512 | [356512-tap-combo-color-blocks.json](./356512-tap-combo-color-blocks.json) |
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
+| Tap Crush Fruit | 90294 | [90294-tap-crush-fruit.json](./90294-tap-crush-fruit.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Cube Crush | 107578 | [107578-tap-cube-crush.json](./107578-tap-cube-crush.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
@@ -27921,6 +27922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of the Gauntlet | 89662 | [89662-trials-of-the-gauntlet.json](./89662-trials-of-the-gauntlet.json) |
 | Trials of the Illuminati: Amazing Wildlife Jigsaws | 68201 | [68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json](./68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json) |
 | Trials of The Illuminati: Animated Christmas Time Jigsaws | 334758 | [334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json](./334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json) |
+| Trials of the Illuminati: Assorted Jigsaws | 90305 | [90305-trials-of-the-illuminati-assorted-jigsaws.json](./90305-trials-of-the-illuminati-assorted-jigsaws.json) |
 | Trials of the Illuminati: Sea Creatures Jigsaws | 334759 | [334759-trials-of-the-illuminati-sea-creatures-jigsaws.json](./334759-trials-of-the-illuminati-sea-creatures-jigsaws.json) |
 | Trials of the Illuminati: Snack Time Jigsaw Puzzles | 109660 | [109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json](./109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json) |
 | Trials of the Illuminati: Women of Beauty Jigsaws | 221512 | [221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json](./221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json) |
