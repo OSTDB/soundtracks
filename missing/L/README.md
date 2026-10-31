@@ -4405,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightfire Defense | 207585 | [207585-lightfire-defense.json](./207585-lightfire-defense.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
+| Lightform | 81633 | [81633-lightform.json](./81633-lightform.json) |
 | LightGone | 294374 | [294374-lightgone.json](./294374-lightgone.json) |
 | Lighthaze World | 197264 | [197264-lighthaze-world.json](./197264-lighthaze-world.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
@@ -8066,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Story: Choices Girl Games | 107010 | [107010-love-story-choices-girl-games.json](./107010-love-story-choices-girl-games.json) |
 | Love Story: Letters from the Past | 29095 | [29095-love-story-letters-from-the-past.json](./29095-love-story-letters-from-the-past.json) |
 | Love Story: Magical Princess | 299384 | [299384-love-story-magical-princess.json](./299384-love-story-magical-princess.json) |
+| Love Story: The Beach Cottage | 81836 | [81836-love-story-the-beach-cottage.json](./81836-love-story-the-beach-cottage.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Sucks: Night One | 156516 | [156516-love-sucks-night-one.json](./156516-love-sucks-night-one.json) |
 | Love Sucks: Night Three | 303639 | [303639-love-sucks-night-three.json](./303639-love-sucks-night-three.json) |
@@ -8324,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
 | LowPoly 3D Art Paint by Number | 390548 | [390548-lowpoly-3d-art-paint-by-number.json](./390548-lowpoly-3d-art-paint-by-number.json) |
 | LowPoly Cars | 423219 | [423219-lowpoly-cars.json](./423219-lowpoly-cars.json) |
+| Lowpoly Hero | 81820 | [81820-lowpoly-hero.json](./81820-lowpoly-hero.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | LowPolyExplorer | 163019 | [163019-lowpolyexplorer.json](./163019-lowpolyexplorer.json) |
 | LowRes Collection | 223632 | [223632-lowres-collection.json](./223632-lowres-collection.json) |
