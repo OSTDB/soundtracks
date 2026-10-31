@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze | 91688 | [91688-raze.json](./91688-raze.json) |
 | Raze 2 | 165330 | [165330-raze-2.json](./165330-raze-2.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
+| Raze 3 | 119290 | [119290-raze-3.json](./119290-raze-3.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Raze's Hell | 5999 | [5999-razes-hell.json](./5999-razes-hell.json) |
 | Razed are the Powerful | 390709 | [390709-razed-are-the-powerful.json](./390709-razed-are-the-powerful.json) |
@@ -10015,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope & Ball | 262639 | [262639-rope-and-ball.json](./262639-rope-and-ball.json) |
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
 | Rope Apple Golf | 232130 | [232130-rope-apple-golf.json](./232130-rope-apple-golf.json) |
+| Rope Around | 119243 | [119243-rope-around.json](./119243-rope-around.json) |
 | Rope Bowling | 232958 | [232958-rope-bowling.json](./232958-rope-bowling.json) |
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope Dancer | 359320 | [359320-rope-dancer.json](./359320-rope-dancer.json) |
@@ -11706,6 +11708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusted Sea | 296376 | [296376-rusted-sea.json](./296376-rusted-sea.json) |
 | Rusted Warfare | 70843 | [70843-rusted-warfare.json](./70843-rusted-warfare.json) |
 | Rusthaven | 388313 | [388313-rusthaven.json](./388313-rusthaven.json) |
+| RustHeart | 119286 | [119286-rustheart.json](./119286-rustheart.json) |
 | Rustic Defense | 332994 | [332994-rustic-defense.json](./332994-rustic-defense.json) |
 | Rustil: Eternal Labyrinth Castle | 247984 | [247984-rustil-eternal-labyrinth-castle.json](./247984-rustil-eternal-labyrinth-castle.json) |
 | Rusting Souls | 257520 | [257520-rusting-souls.json](./257520-rusting-souls.json) |
