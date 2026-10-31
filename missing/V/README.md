@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanlife Camping Simulator | 297834 | [297834-vanlife-camping-simulator.json](./297834-vanlife-camping-simulator.json) |
 | Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
+| Vanquish 2 | 89549 | [89549-vanquish-2.json](./89549-vanquish-2.json) |
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
 | Vanquish The Eternal | 372776 | [372776-vanquish-the-eternal.json](./372776-vanquish-the-eternal.json) |
 | Vanran | 361912 | [361912-vanran.json](./361912-vanran.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Race | 164900 | [164900-vector-race.json](./164900-vector-race.json) |
 | Vector Racing | 64690 | [64690-vector-racing.json](./64690-vector-racing.json) |
 | Vector Rider | 385246 | [385246-vector-rider.json](./385246-vector-rider.json) |
+| Vector Rumble | 89580 | [89580-vector-rumble.json](./89580-vector-rumble.json) |
 | Vector Runner | 230753 | [230753-vector-runner.json](./230753-vector-runner.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
