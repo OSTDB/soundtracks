@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lander Odyssey | 199229 | [199229-lander-odyssey.json](./199229-lander-odyssey.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
 | Landfall Archives | 243542 | [243542-landfall-archives.json](./243542-landfall-archives.json) |
+| Landflix Odyssey | 86450 | [86450-landflix-odyssey.json](./86450-landflix-odyssey.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
 | Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing | 157863 | [157863-landing.json](./157863-landing.json) |
@@ -6111,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock On: Modern Air Combat | 10201 | [10201-lock-on-modern-air-combat.json](./10201-lock-on-modern-air-combat.json) |
 | Lock Parsing | 81930 | [81930-lock-parsing.json](./81930-lock-parsing.json) |
+| Lock Parsing 2 | 86471 | [86471-lock-parsing-2.json](./86471-lock-parsing-2.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
 | Lock. Stock. And Hungry Pumpkins. | 330481 | [330481-lock-stock-and-hungry-pumpkins.json](./330481-lock-stock-and-hungry-pumpkins.json) |
@@ -6545,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Mountains: Snow Riders | 313812 | [313812-lonely-mountains-snow-riders.json](./313812-lonely-mountains-snow-riders.json) |
 | Lonely Mountains: Snow Riders - Baifushan | 339953 | [339953-lonely-mountains-snow-riders-baifushan.json](./339953-lonely-mountains-snow-riders-baifushan.json) |
+| Lonely One : Hole-in-one | 86487 | [86487-lonely-one-hole-in-one.json](./86487-lonely-one-hole-in-one.json) |
 | Lonely Owl | 335460 | [335460-lonely-owl.json](./335460-lonely-owl.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
 | Lonely Penguin | 392865 | [392865-lonely-penguin.json](./392865-lonely-penguin.json) |
@@ -6699,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looming Darkness | 177763 | [177763-looming-darkness.json](./177763-looming-darkness.json) |
 | Loona Landa | 271127 | [271127-loona-landa.json](./271127-loona-landa.json) |
 | Loondon | 91834 | [91834-loondon.json](./91834-loondon.json) |
+| Looney Rally | 86489 | [86489-looney-rally.json](./86489-looney-rally.json) |
 | Looney Toons Dash revived | 100803 | [100803-looney-toons-dash-revived.json](./100803-looney-toons-dash-revived.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
