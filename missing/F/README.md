@@ -6748,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
 | Flash Point: Fire Rescue | 52087 | [52087-flash-point-fire-rescue.json](./52087-flash-point-fire-rescue.json) |
 | Flash Poker - Texas Holdem | 142695 | [142695-flash-poker-texas-holdem.json](./142695-flash-poker-texas-holdem.json) |
+| Flash Pool Game (8 Ball & 9 Ball) | 115292 | [115292-flash-pool-game-8-ball-and-9-ball.json](./115292-flash-pool-game-8-ball-and-9-ball.json) |
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
 | Flash Snooker Game | 161562 | [161562-flash-snooker-game.json](./161562-flash-snooker-game.json) |
 | Flash Splash | 94592 | [94592-flash-splash.json](./94592-flash-splash.json) |
@@ -8235,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Footage | 309453 | [309453-footage.json](./309453-footage.json) |
 | Footage of the Battle | 283852 | [283852-footage-of-the-battle.json](./283852-footage-of-the-battle.json) |
+| Football | 115293 | [115293-football.json](./115293-football.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
 | Football | 171272 | [171272-football.json](./171272-football.json) |
 | Football | 198632 | [198632-football.json](./198632-football.json) |
