@@ -4257,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
 | Death Vegas | 397407 | [397407-death-vegas.json](./397407-death-vegas.json) |
+| Death Voting Game | 110667 | [110667-death-voting-game.json](./110667-death-voting-game.json) |
 | Death Wake | 13580 | [13580-death-wake.json](./13580-death-wake.json) |
 | Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
 | Death Waves | 114978 | [114978-death-waves.json](./114978-death-waves.json) |
@@ -8787,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur RPG: Dino Survival Simulator Survivor | 317451 | [317451-dinosaur-rpg-dino-survival-simulator-survivor.json](./317451-dinosaur-rpg-dino-survival-simulator-survivor.json) |
 | Dinosaur Run | 388236 | [388236-dinosaur-run.json](./388236-dinosaur-run.json) |
 | Dinosaur Running | 313658 | [313658-dinosaur-running.json](./313658-dinosaur-running.json) |
+| Dinosaur Safari VR | 110625 | [110625-dinosaur-safari-vr.json](./110625-dinosaur-safari-vr.json) |
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur Shakespeare: To Date or Not to Date? | 120682 | [120682-dinosaur-shakespeare-to-date-or-not-to-date.json](./120682-dinosaur-shakespeare-to-date-or-not-to-date.json) |
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
@@ -12339,6 +12341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dottori-kun | 40099 | [40099-dottori-kun.json](./40099-dottori-kun.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotu | 330110 | [330110-dotu.json](./330110-dotu.json) |
+| DotX | 110633 | [110633-dotx.json](./110633-dotx.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
 | Dou | 164303 | [164303-dou.json](./164303-dou.json) |
 | Dou! | 339065 | [339065-dou.json](./339065-dou.json) |
@@ -15758,6 +15761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Hunting Challenge | 115333 | [115333-duck-hunting-challenge.json](./115333-duck-hunting-challenge.json) |
+| Duck HuntR | 110634 | [110634-duck-huntr.json](./110634-duck-huntr.json) |
 | Duck Jam | 168546 | [168546-duck-jam.json](./168546-duck-jam.json) |
 | Duck Life | 210659 | [210659-duck-life.json](./210659-duck-life.json) |
 | Duck Life | 58367 | [58367-duck-life.json](./58367-duck-life.json) |
