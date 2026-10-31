@@ -12530,6 +12530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mission: Scarlet Stars | 341114 | [341114-mission-scarlet-stars.json](./341114-mission-scarlet-stars.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
+| Mission: Thunderbolt | 103044 | [103044-mission-thunderbolt.json](./103044-mission-thunderbolt.json) |
 | Mission:Amazing | 128341 | [128341-mission-amazing.json](./128341-mission-amazing.json) |
 | MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
 | Missland | 225613 | [225613-missland.json](./225613-missland.json) |
@@ -14922,6 +14923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Lander | 41989 | [41989-moon-lander.json](./41989-moon-lander.json) |
 | Moon Landing | 235079 | [235079-moon-landing.json](./235079-moon-landing.json) |
 | Moon Landing | 235081 | [235081-moon-landing.json](./235081-moon-landing.json) |
+| Moon Landing VR | 103081 | [103081-moon-landing-vr.json](./103081-moon-landing-vr.json) |
 | Moon Lights | 194895 | [194895-moon-lights.json](./194895-moon-lights.json) |
 | Moon Lights II | 194896 | [194896-moon-lights-ii.json](./194896-moon-lights-ii.json) |
 | Moon Magic Array | 251961 | [251961-moon-magic-array.json](./251961-moon-magic-array.json) |
@@ -15942,6 +15944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothra Tamagotchi | 229847 | [229847-mothra-tamagotchi.json](./229847-mothra-tamagotchi.json) |
 | Moths | 387728 | [387728-moths.json](./387728-moths.json) |
 | Motian Chengwei Meimei | 403639 | [403639-motian-chengwei-meimei.json](./403639-motian-chengwei-meimei.json) |
+| Motif. | 103084 | [103084-motif.json](./103084-motif.json) |
 | Motion | 130173 | [130173-motion.json](./130173-motion.json) |
 | Motion Explosion! | 20224 | [20224-motion-explosion.json](./20224-motion-explosion.json) |
 | Motion Gravure Series: Mori Hiroko | 71487 | [71487-motion-gravure-series-mori-hiroko.json](./71487-motion-gravure-series-mori-hiroko.json) |
