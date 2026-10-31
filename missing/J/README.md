@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jay and Silent Bob: Chronic Blunt Punch | 28284 | [28284-jay-and-silent-bob-chronic-blunt-punch.json](./28284-jay-and-silent-bob-chronic-blunt-punch.json) |
 | Jay and Silent Bob's: Joint Venture | 411541 | [411541-jay-and-silent-bobs-joint-venture.json](./411541-jay-and-silent-bobs-joint-venture.json) |
 | Jay Arnold's Immortal Quest | 179427 | [179427-jay-arnolds-immortal-quest.json](./179427-jay-arnolds-immortal-quest.json) |
+| Jay Fighter | 80118 | [80118-jay-fighter.json](./80118-jay-fighter.json) |
 | Jay Jay the Jet Plane: Sky Heroes to the Rescue | 408569 | [408569-jay-jay-the-jet-plane-sky-heroes-to-the-rescue.json](./408569-jay-jay-the-jet-plane-sky-heroes-to-the-rescue.json) |
 | Jay Jay: The Jet Plane - Jay Jay Earns His Wings | 71331 | [71331-jay-jay-the-jet-plane-jay-jay-earns-his-wings.json](./71331-jay-jay-the-jet-plane-jay-jay-earns-his-wings.json) |
 | Jay Schilling's Edge of Chaos | 189025 | [189025-jay-schillings-edge-of-chaos.json](./189025-jay-schillings-edge-of-chaos.json) |
@@ -1850,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2011: Kettei-ban | 78580 | [78580-jikkyou-pawafuru-puroyakyu-2011-kettei-ban.json](./78580-jikkyou-pawafuru-puroyakyu-2011-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2012 | 44584 | [44584-jikkyou-pawafuru-puroyakyu-2012.json](./44584-jikkyou-pawafuru-puroyakyu-2012.json) |
 | Jikkyou Pawafuru Puroyakyu 2012: Kettei-ban | 44583 | [44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json](./44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 2013 | 80268 | [80268-jikkyou-pawafuru-puroyakyu-2013.json](./80268-jikkyou-pawafuru-puroyakyu-2013.json) |
 | Jikkyou Pawafuru Puroyakyu 2014 | 78583 | [78583-jikkyou-pawafuru-puroyakyu-2014.json](./78583-jikkyou-pawafuru-puroyakyu-2014.json) |
 | Jikkyou Pawafuru Puroyakyu 2016 | 78582 | [78582-jikkyou-pawafuru-puroyakyu-2016.json](./78582-jikkyou-pawafuru-puroyakyu-2016.json) |
 | Jikkyou Pawafuru Puroyakyu 2018 | 98510 | [98510-jikkyou-pawafuru-puroyakyu-2018.json](./98510-jikkyou-pawafuru-puroyakyu-2018.json) |
