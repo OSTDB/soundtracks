@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radium | 35607 | [35607-radium.json](./35607-radium.json) |
 | Radium | 405335 | [405335-radium.json](./405335-radium.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
+| Radius | 80259 | [80259-radius.json](./80259-radius.json) |
 | RadiusBlood Crypta | 421429 | [421429-radiusblood-crypta.json](./421429-radiusblood-crypta.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radix Chronicle | 251779 | [251779-radix-chronicle.json](./251779-radix-chronicle.json) |
@@ -959,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raider Bots | 167539 | [167539-raider-bots.json](./167539-raider-bots.json) |
 | Raider Kid and the Ruby Chest | 130287 | [130287-raider-kid-and-the-ruby-chest.json](./130287-raider-kid-and-the-ruby-chest.json) |
 | Raider: Dark Age | 261753 | [261753-raider-dark-age.json](./261753-raider-dark-age.json) |
+| Raider: Episode 1 | 80265 | [80265-raider-episode-1.json](./80265-raider-episode-1.json) |
 | Raider: Origin | 174682 | [174682-raider-origin.json](./174682-raider-origin.json) |
 | Raider's Saga | 307014 | [307014-raiders-saga.json](./307014-raiders-saga.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
@@ -2536,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit 2 | 73302 | [73302-reader-rabbit-2.json](./73302-reader-rabbit-2.json) |
 | Reader Rabbit 2nd Grade | 89085 | [89085-reader-rabbit-2nd-grade.json](./89085-reader-rabbit-2nd-grade.json) |
 | Reader Rabbit 2nd Grade: Mis-Cheese-ious Dreamship Adventures! | 209307 | [209307-reader-rabbit-2nd-grade-mis-cheese-ious-dreamship-adventures.json](./209307-reader-rabbit-2nd-grade-mis-cheese-ious-dreamship-adventures.json) |
+| Reader Rabbit 3 | 80272 | [80272-reader-rabbit-3.json](./80272-reader-rabbit-3.json) |
 | Reader Rabbit Kindergarten | 301429 | [301429-reader-rabbit-kindergarten.json](./301429-reader-rabbit-kindergarten.json) |
 | Reader Rabbit Kindergarten: Bounce Down in Balloon Town | 139350 | [139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json](./139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json) |
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
@@ -6193,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezzil Player: Adidas Brand Pack | 263066 | [263066-rezzil-player-adidas-brand-pack.json](./263066-rezzil-player-adidas-brand-pack.json) |
 | Rezzil Player: Forest Team Pack | 263130 | [263130-rezzil-player-forest-team-pack.json](./263130-rezzil-player-forest-team-pack.json) |
 | Rezzil Player: Rovers Team Pack | 263074 | [263074-rezzil-player-rovers-team-pack.json](./263074-rezzil-player-rovers-team-pack.json) |
+| RF Online / Grand Chase | 80182 | [80182-rf-online-grand-chase.json](./80182-rf-online-grand-chase.json) |
 | RF Online Next | 401458 | [401458-rf-online-next.json](./401458-rf-online-next.json) |
 | RF Project | 193820 | [193820-rf-project.json](./193820-rf-project.json) |
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
@@ -8448,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
+| Rock Band: Track Pack - Volume 2 | 80287 | [80287-rock-band-track-pack-volume-2.json](./80287-rock-band-track-pack-volume-2.json) |
 | Rock Blast | 47778 | [47778-rock-blast.json](./47778-rock-blast.json) |
 | Rock Boshers DX | 22112 | [22112-rock-boshers-dx.json](./22112-rock-boshers-dx.json) |
 | Rock Boshers DX: Director's Cut | 23224 | [23224-rock-boshers-dx-directors-cut.json](./23224-rock-boshers-dx-directors-cut.json) |
@@ -8867,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocko's Modern Life Slider | 312952 | [312952-rockos-modern-life-slider.json](./312952-rockos-modern-life-slider.json) |
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
 | Rocko's Quest | 17345 | [17345-rockos-quest.json](./17345-rockos-quest.json) |
+| Rocks 'n' Diamonds | 80290 | [80290-rocks-n-diamonds.json](./80290-rocks-n-diamonds.json) |
 | Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
@@ -10667,6 +10673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Stories | 370445 | [370445-rpg-stories.json](./370445-rpg-stories.json) |
 | RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
 | RPG Town | 217297 | [217297-rpg-town.json](./217297-rpg-town.json) |
+| RPG Trifecta Pack | 80266 | [80266-rpg-trifecta-pack.json](./80266-rpg-trifecta-pack.json) |
 | RPG Tsukuuru 2 Taiou Data: BS Kure-kure Mou Race | 150574 | [150574-rpg-tsukuuru-2-taiou-data-bs-kure-kure-mou-race.json](./150574-rpg-tsukuuru-2-taiou-data-bs-kure-kure-mou-race.json) |
 | RPG Tsukuuru 2 Taiou Data: Jewel of Live 3 | 150579 | [150579-rpg-tsukuuru-2-taiou-data-jewel-of-live-3.json](./150579-rpg-tsukuuru-2-taiou-data-jewel-of-live-3.json) |
 | RPG Tsukuuru 2 Taiou: Alf to Hakase no Daibouken | 150581 | [150581-rpg-tsukuuru-2-taiou-alf-to-hakase-no-daibouken.json](./150581-rpg-tsukuuru-2-taiou-alf-to-hakase-no-daibouken.json) |
