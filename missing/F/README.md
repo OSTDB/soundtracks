@@ -12306,6 +12306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Fingers | 99589 | [99589-funny-fingers.json](./99589-funny-fingers.json) |
 | Funny Folks Cafe | 409524 | [409524-funny-folks-cafe.json](./409524-funny-folks-cafe.json) |
 | Funny Football | 287218 | [287218-funny-football.json](./287218-funny-football.json) |
+| Funny Money | 69644 | [69644-funny-money.json](./69644-funny-money.json) |
 | Funny Panda | 189116 | [189116-funny-panda.json](./189116-funny-panda.json) |
 | Funny Park | 257452 | [257452-funny-park.json](./257452-funny-park.json) |
 | Funny Park Reawakening | 418253 | [418253-funny-park-reawakening.json](./418253-funny-park-reawakening.json) |
