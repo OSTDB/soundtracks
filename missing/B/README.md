@@ -870,7 +870,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8484,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacklight: Tango Down | 8481 | [8481-blacklight-tango-down.json](./8481-blacklight-tango-down.json) |
 | Blacklist Mafia | 293098 | [293098-blacklist-mafia.json](./293098-blacklist-mafia.json) |
 | Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
+| Blackmail | 97654 | [97654-blackmail.json](./97654-blackmail.json) |
 | Blackmoon Prophecy II | 222977 | [222977-blackmoon-prophecy-ii.json](./222977-blackmoon-prophecy-ii.json) |
 | Blackmoor 2: The Traitor King | 130791 | [130791-blackmoor-2-the-traitor-king.json](./130791-blackmoor-2-the-traitor-king.json) |
 | BlackMUD | 228900 | [228900-blackmud.json](./228900-blackmud.json) |
