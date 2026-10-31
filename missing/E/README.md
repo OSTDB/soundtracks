@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
 | Elspell | 203673 | [203673-elspell.json](./203673-elspell.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
+| Elsword M Shadow of Luna | 109972 | [109972-elsword-m-shadow-of-luna.json](./109972-elsword-m-shadow-of-luna.json) |
 | Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
 | Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
 | Elude | 152474 | [152474-elude.json](./152474-elude.json) |
@@ -4907,6 +4908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Jump | 199243 | [199243-escape-jump.json](./199243-escape-jump.json) |
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
 | Escape Knox Manor | 157980 | [157980-escape-knox-manor.json](./157980-escape-knox-manor.json) |
+| Escape Labyrinth | 109971 | [109971-escape-labyrinth.json](./109971-escape-labyrinth.json) |
 | Escape Lala | 105033 | [105033-escape-lala.json](./105033-escape-lala.json) |
 | Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
 | Escape Legacy VR | 113192 | [113192-escape-legacy-vr.json](./113192-escape-legacy-vr.json) |
