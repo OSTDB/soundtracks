@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marks the Spot | 176762 | [176762-marks-the-spot.json](./176762-marks-the-spot.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
 | Marksman VR | 344503 | [344503-marksman-vr.json](./344503-marksman-vr.json) |
+| Marksman: Long Range | 65875 | [65875-marksman-long-range.json](./65875-marksman-long-range.json) |
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
 | Marktopia | 365154 | [365154-marktopia.json](./365154-marktopia.json) |
 | Markus Ritter: Ghosts of the Past | 235604 | [235604-markus-ritter-ghosts-of-the-past.json](./235604-markus-ritter-ghosts-of-the-past.json) |
@@ -6412,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Coin Hunt | 368540 | [368540-medieval-coin-hunt.json](./368540-medieval-coin-hunt.json) |
 | Medieval Combat: Age of Glory | 216354 | [216354-medieval-combat-age-of-glory.json](./216354-medieval-combat-age-of-glory.json) |
 | Medieval Conquest | 305948 | [305948-medieval-conquest.json](./305948-medieval-conquest.json) |
+| Medieval Conquest | 65731 | [65731-medieval-conquest.json](./65731-medieval-conquest.json) |
 | Medieval Cop | 141592 | [141592-medieval-cop.json](./141592-medieval-cop.json) |
 | Medieval Cop - Adam and Eva | 101751 | [101751-medieval-cop-adam-and-eva.json](./101751-medieval-cop-adam-and-eva.json) |
 | Medieval Cop: Medieval Angel | 141597 | [141597-medieval-cop-medieval-angel.json](./141597-medieval-cop-medieval-angel.json) |
