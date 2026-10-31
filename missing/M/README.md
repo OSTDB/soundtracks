@@ -12562,6 +12562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misteri Rumah Pak RT | 390552 | [390552-misteri-rumah-pak-rt.json](./390552-misteri-rumah-pak-rt.json) |
 | Misterios Ocultos | 341426 | [341426-misterios-ocultos.json](./341426-misterios-ocultos.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
+| Mistero a Villa MilaFlora | 115258 | [115258-mistero-a-villa-milaflora.json](./115258-mistero-a-villa-milaflora.json) |
 | Mistery | 237470 | [237470-mistery.json](./237470-mistery.json) |
 | Mistery | 264046 | [264046-mistery.json](./264046-mistery.json) |
 | Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
