@@ -3848,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantes Ex Machina | 360052 | [360052-gigantes-ex-machina.json](./360052-gigantes-ex-machina.json) |
 | Gigantic | 11134 | [11134-gigantic.json](./11134-gigantic.json) |
 | Gigantic Army | 10363 | [10363-gigantic-army.json](./10363-gigantic-army.json) |
+| Gigantic Army | 115300 | [115300-gigantic-army.json](./115300-gigantic-army.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantic Maidestruction | 401896 | [401896-gigantic-maidestruction.json](./401896-gigantic-maidestruction.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
@@ -9997,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Infinity | 33440 | [33440-guns-of-infinity.json](./33440-guns-of-infinity.json) |
 | Guns of Liberty | 74715 | [74715-guns-of-liberty.json](./74715-guns-of-liberty.json) |
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
+| Guns of Mercy: Rangers Edition | 115297 | [115297-guns-of-mercy-rangers-edition.json](./115297-guns-of-mercy-rangers-edition.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
 | Guns of Succubus 2 | 271031 | [271031-guns-of-succubus-2.json](./271031-guns-of-succubus-2.json) |
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
