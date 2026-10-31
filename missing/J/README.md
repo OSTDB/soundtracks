@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack The Giantkiller | 39372 | [39372-jack-the-giantkiller.json](./39372-jack-the-giantkiller.json) |
 | Jack the Knight Adventures 2 | 243733 | [243733-jack-the-knight-adventures-2.json](./243733-jack-the-knight-adventures-2.json) |
 | Jack The Mime | 402454 | [402454-jack-the-mime.json](./402454-jack-the-mime.json) |
+| Jack The Miner | 110010 | [110010-jack-the-miner.json](./110010-jack-the-miner.json) |
 | Jack the Nipper | 28482 | [28482-jack-the-nipper.json](./28482-jack-the-nipper.json) |
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
 | Jack the Ripper | 14134 | [14134-jack-the-ripper.json](./14134-jack-the-ripper.json) |
@@ -3801,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice & Judgement | 97745 | [97745-justice-and-judgement.json](./97745-justice-and-judgement.json) |
 | Justice Bear: Equinox | 118149 | [118149-justice-bear-equinox.json](./118149-justice-bear-equinox.json) |
 | Justice Became Prey | 351596 | [351596-justice-became-prey.json](./351596-justice-became-prey.json) |
+| Justice Duel | 109968 | [109968-justice-duel.json](./109968-justice-duel.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
 | Justice For All | 224616 | [224616-justice-for-all.json](./224616-justice-for-all.json) |
 | Justice League | 220121 | [220121-justice-league.json](./220121-justice-league.json) |
