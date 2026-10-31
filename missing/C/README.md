@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Storm Bunny Catcher | 342727 | [342727-candy-storm-bunny-catcher.json](./342727-candy-storm-bunny-catcher.json) |
 | Candy Stripe: Minarai Tenshi | 283327 | [283327-candy-stripe-minarai-tenshi.json](./283327-candy-stripe-minarai-tenshi.json) |
 | Candy Sugar Drop | 233475 | [233475-candy-sugar-drop.json](./233475-candy-sugar-drop.json) |
+| Candy Sugar Kingdom | 63029 | [63029-candy-sugar-kingdom.json](./63029-candy-sugar-kingdom.json) |
 | Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
 | Candy Toys | 77762 | [77762-candy-toys.json](./77762-candy-toys.json) |
 | Candy Trail | 359335 | [359335-candy-trail.json](./359335-candy-trail.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Blood | 11989 | [11989-captain-blood.json](./11989-captain-blood.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
 | Captain Bones | 123464 | [123464-captain-bones.json](./123464-captain-bones.json) |
+| Captain Bubblenaut | 63034 | [63034-captain-bubblenaut.json](./63034-captain-bubblenaut.json) |
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
 | Captain Buttface | 258093 | [258093-captain-buttface.json](./258093-captain-buttface.json) |
 | Captain Cat | 119294 | [119294-captain-cat.json](./119294-captain-cat.json) |
@@ -5193,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Galaxia | 73578 | [73578-champ-galaxia.json](./73578-champ-galaxia.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champ Kong | 94576 | [94576-champ-kong.json](./94576-champ-kong.json) |
+| Champ Man | 63023 | [63023-champ-man.json](./63023-champ-man.json) |
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
 | Champ Ms. Pac-em | 92896 | [92896-champ-ms-pac-em.json](./92896-champ-ms-pac-em.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
@@ -7080,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomper Ville | 364544 | [364544-chomper-ville.json](./364544-chomper-ville.json) |
 | Chomper's | 282626 | [282626-chompers.json](./282626-chompers.json) |
 | Chomper's Adventure | 59451 | [59451-chompers-adventure.json](./59451-chompers-adventure.json) |
+| Chomperman | 62964 | [62964-chomperman.json](./62964-chomperman.json) |
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
 | Chompsters | 141602 | [141602-chompsters.json](./141602-chompsters.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
