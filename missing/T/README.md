@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
 | Tank Top Tactics | 212842 | [212842-tank-top-tactics.json](./212842-tank-top-tactics.json) |
 | Tank Trace | 243849 | [243849-tank-trace.json](./243849-tank-trace.json) |
+| Tank Trax | 73064 | [73064-tank-trax.json](./73064-tank-trax.json) |
 | Tank Tread | 31584 | [31584-tank-tread.json](./31584-tank-tread.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
@@ -5570,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awkward Steve Duology | 43117 | [43117-the-awkward-steve-duology.json](./43117-the-awkward-steve-duology.json) |
 | The Axis Unseen | 217404 | [217404-the-axis-unseen.json](./217404-the-axis-unseen.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
+| The Axys Adventures: Truth Seeker - Battle Against the Lies | 73052 | [73052-the-axys-adventures-truth-seeker-battle-against-the-lies.json](./73052-the-axys-adventures-truth-seeker-battle-against-the-lies.json) |
 | The Ayna | 405874 | [405874-the-ayna.json](./405874-the-ayna.json) |
 | The Azmodeus Project | 240096 | [240096-the-azmodeus-project.json](./240096-the-azmodeus-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
@@ -13382,6 +13384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pac-Man Brothers | 321930 | [321930-the-pac-man-brothers.json](./321930-the-pac-man-brothers.json) |
 | The Pacifist's Great and Final Nightmare | 169629 | [169629-the-pacifists-great-and-final-nightmare.json](./169629-the-pacifists-great-and-final-nightmare.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
+| The Pack Rat | 73089 | [73089-the-pack-rat.json](./73089-the-pack-rat.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
 | The Packet Queen | 98166 | [98166-the-packet-queen.json](./98166-the-packet-queen.json) |
 | The Pact | 251374 | [251374-the-pact.json](./251374-the-pact.json) |
@@ -15692,6 +15695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strangers 2 | 393502 | [393502-the-strangers-2.json](./393502-the-strangers-2.json) |
 | The Strangers 3 | 393504 | [393504-the-strangers-3.json](./393504-the-strangers-3.json) |
 | The Strangers 4 | 393505 | [393505-the-strangers-4.json](./393505-the-strangers-4.json) |
+| The Strategy Game Room | 73046 | [73046-the-strategy-game-room.json](./73046-the-strategy-game-room.json) |
 | The Strawman Augment | 314464 | [314464-the-strawman-augment.json](./314464-the-strawman-augment.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
@@ -16694,6 +16698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uncanny X-Men: Days of the Future Past | 62067 | [62067-the-uncanny-x-men-days-of-the-future-past.json](./62067-the-uncanny-x-men-days-of-the-future-past.json) |
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
 | The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
+| The Uncertainty Machine | 73056 | [73056-the-uncertainty-machine.json](./73056-the-uncertainty-machine.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The Unclosed Case | 414130 | [414130-the-unclosed-case.json](./414130-the-unclosed-case.json) |
 | The Uncultured | 348109 | [348109-the-uncultured.json](./348109-the-uncultured.json) |
@@ -18844,6 +18849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Blast Man | 50057 | [50057-thunder-blast-man.json](./50057-thunder-blast-man.json) |
 | Thunder Blaster Man | 48463 | [48463-thunder-blaster-man.json](./48463-thunder-blaster-man.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
+| Thunder Burner | 73085 | [73085-thunder-burner.json](./73085-thunder-burner.json) |
 | Thunder Ceptor | 82510 | [82510-thunder-ceptor.json](./82510-thunder-ceptor.json) |
 | Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
@@ -20616,6 +20622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger's Baseball All-Stars | 217705 | [217705-tigers-baseball-all-stars.json](./217705-tigers-baseball-all-stars.json) |
 | Tigers on the Hunt | 59521 | [59521-tigers-on-the-hunt.json](./59521-tigers-on-the-hunt.json) |
 | Tigers on the Prowl | 47113 | [47113-tigers-on-the-prowl.json](./47113-tigers-on-the-prowl.json) |
+| Tigershark | 73047 | [73047-tigershark.json](./73047-tigershark.json) |
 | Tigey's Gift | 199302 | [199302-tigeys-gift.json](./199302-tigeys-gift.json) |
 | Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
@@ -23377,6 +23384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Airstrike 3 | 218927 | [218927-top-gun-airstrike-3.json](./218927-top-gun-airstrike-3.json) |
 | Top Gun: Combat Zones | 146784 | [146784-top-gun-combat-zones.json](./146784-top-gun-combat-zones.json) |
 | Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
+| Top Gun: Danger Zone | 73092 | [73092-top-gun-danger-zone.json](./73092-top-gun-danger-zone.json) |
 | Top Gun: Fire At Will | 20129 | [20129-top-gun-fire-at-will.json](./20129-top-gun-fire-at-will.json) |
 | Top Gun: Firestorm | 66496 | [66496-top-gun-firestorm.json](./66496-top-gun-firestorm.json) |
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
@@ -30112,10 +30120,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Towers | 370336 | [370336-twilight-towers.json](./370336-twilight-towers.json) |
 | Twilight Town | 299856 | [299856-twilight-town.json](./299856-twilight-town.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
+| Twilight Treasures | 73063 | [73063-twilight-treasures.json](./73063-twilight-treasures.json) |
 | Twilight Tunnels | 167528 | [167528-twilight-tunnels.json](./167528-twilight-tunnels.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars | 338602 | [338602-twilight-wars.json](./338602-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
+| Twilight: 2000 | 73070 | [73070-twilight-2000.json](./73070-twilight-2000.json) |
 | Twilight: The Video Game | 67831 | [67831-twilight-the-video-game.json](./67831-twilight-the-video-game.json) |
 | Twilight's Final Judgement | 196966 | [196966-twilights-final-judgement.json](./196966-twilights-final-judgement.json) |
 | Twilight's Flavors & Delight | 381787 | [381787-twilights-flavors-and-delight.json](./381787-twilights-flavors-and-delight.json) |
