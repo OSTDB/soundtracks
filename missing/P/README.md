@@ -5062,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhilGood | 121189 | [121189-philgood.json](./121189-philgood.json) |
 | Philip Muwanga's Hexy Trench | 68536 | [68536-philip-muwangas-hexy-trench.json](./68536-philip-muwangas-hexy-trench.json) |
 | Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
+| Philly Flasher/Cathouse Blues | 70180 | [70180-philly-flasher-cathouse-blues.json](./70180-philly-flasher-cathouse-blues.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Philosopher's Quest | 13746 | [13746-philosophers-quest.json](./13746-philosophers-quest.json) |
