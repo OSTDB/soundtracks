@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
 | Vampires: The New Birth | 184778 | [184778-vampires-the-new-birth.json](./184778-vampires-the-new-birth.json) |
+| Vampires! | 63616 | [63616-vampires.json](./63616-vampires.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
 | Vampiress: Eternal Duet | 349116 | [349116-vampiress-eternal-duet.json](./349116-vampiress-eternal-duet.json) |
 | Vampireville | 18892 | [18892-vampireville.json](./18892-vampireville.json) |
@@ -1302,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Blood: Chimera | 92365 | [92365-venus-blood-chimera.json](./92365-venus-blood-chimera.json) |
 | Venus Eleven Vivid! | 327936 | [327936-venus-eleven-vivid.json](./327936-venus-eleven-vivid.json) |
 | Venus Flytraps | 234593 | [234593-venus-flytraps.json](./234593-venus-flytraps.json) |
+| Venus Hostage | 63523 | [63523-venus-hostage.json](./63523-venus-hostage.json) |
 | Venus in Furs: Sensual Pleasure | 215674 | [215674-venus-in-furs-sensual-pleasure.json](./215674-venus-in-furs-sensual-pleasure.json) |
 | Venus in Transit | 395581 | [395581-venus-in-transit.json](./395581-venus-in-transit.json) |
 | Venus Looks for Jupiter | 200829 | [200829-venus-looks-for-jupiter.json](./200829-venus-looks-for-jupiter.json) |
@@ -3271,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Castle | 18517 | [18517-voodoo-castle.json](./18517-voodoo-castle.json) |
 | Voodoo Chronicles: First Sign - Collector's Edition | 53154 | [53154-voodoo-chronicles-first-sign-collectors-edition.json](./53154-voodoo-chronicles-first-sign-collectors-edition.json) |
+| Voodoo Chronicles: The First Sign | 63601 | [63601-voodoo-chronicles-the-first-sign.json](./63601-voodoo-chronicles-the-first-sign.json) |
 | Voodoo Chronicles: The First Sign HD - Director's Cut Edition | 24762 | [24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json](./24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
 | Voodoo Fishin' | 350020 | [350020-voodoo-fishin.json](./350020-voodoo-fishin.json) |
