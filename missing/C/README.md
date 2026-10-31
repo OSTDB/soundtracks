@@ -11452,6 +11452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
 | Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
 | Comet Crash 2: The Kronkoid Wars | 52155 | [52155-comet-crash-2-the-kronkoid-wars.json](./52155-comet-crash-2-the-kronkoid-wars.json) |
+| Comet Crasher | 112596 | [112596-comet-crasher.json](./112596-comet-crasher.json) |
 | Comet Crusher: Block Breaker | 169829 | [169829-comet-crusher-block-breaker.json](./169829-comet-crusher-block-breaker.json) |
 | Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
 | Comet Cutter | 417680 | [417680-comet-cutter.json](./417680-comet-cutter.json) |
@@ -13185,6 +13186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
 | Corlero | 240668 | [240668-corlero.json](./240668-corlero.json) |
+| Corma | 112620 | [112620-corma.json](./112620-corma.json) |
 | Corn | 309919 | [309919-corn.json](./309919-corn.json) |
 | Corn Buster | 42565 | [42565-corn-buster.json](./42565-corn-buster.json) |
 | Corn Kidz 64 | 266118 | [266118-corn-kidz-64.json](./266118-corn-kidz-64.json) |
@@ -16794,6 +16796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Kingdom Dizzy 2017 | 45238 | [45238-crystal-kingdom-dizzy-2017.json](./45238-crystal-kingdom-dizzy-2017.json) |
 | Crystal Legends | 342624 | [342624-crystal-legends.json](./342624-crystal-legends.json) |
 | Crystal Lines | 234189 | [234189-crystal-lines.json](./234189-crystal-lines.json) |
+| Crystal Maidens | 112578 | [112578-crystal-maidens.json](./112578-crystal-maidens.json) |
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
