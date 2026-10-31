@@ -4434,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
+| Agi Gongnyong Dooly | 78995 | [78995-agi-gongnyong-dooly.json](./78995-agi-gongnyong-dooly.json) |
 | Agile Cube | 416183 | [416183-agile-cube.json](./416183-agile-cube.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
@@ -4450,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
+| Agon: The Mysterious Codex - Episode 1: London Scene | 79052 | [79052-agon-the-mysterious-codex-episode-1-london-scene.json](./79052-agon-the-mysterious-codex-episode-1-london-scene.json) |
 | Agon: The Mysterious Codex - Episode 2: Adventures in Lapland | 70238 | [70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json](./70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json) |
 | Agon: The Mysterious Codex - Episode 3: Pirates of Madagascar | 73609 | [73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json](./73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
@@ -5487,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
 | Al Qmrah Restaurant | 213975 | [213975-al-qmrah-restaurant.json](./213975-al-qmrah-restaurant.json) |
 | Al Rocío | 240269 | [240269-al-rocio.json](./240269-al-rocio.json) |
+| Al Unser Jr. Arcade Racing | 79009 | [79009-al-unser-jr-arcade-racing.json](./79009-al-unser-jr-arcade-racing.json) |
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
 | Al Unser Jr.'s Turbo Racing | 8809 | [8809-al-unser-jr-s-turbo-racing.json](./8809-al-unser-jr-s-turbo-racing.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
@@ -14506,6 +14509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Invader | 281221 | [281221-astro-invader.json](./281221-astro-invader.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Invaders | 206236 | [206236-astro-invaders.json](./206236-astro-invaders.json) |
+| Astro Invaders | 79036 | [79036-astro-invaders.json](./79036-astro-invaders.json) |
 | Astro Joust | 83983 | [83983-astro-joust.json](./83983-astro-joust.json) |
 | Astro Kitty: Space Mining | 422490 | [422490-astro-kitty-space-mining.json](./422490-astro-kitty-space-mining.json) |
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
