@@ -6620,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Twice | 417974 | [417974-look-twice.json](./417974-look-twice.json) |
 | Look_in_Dark | 304061 | [304061-look-in-dark.json](./304061-look-in-dark.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
+| Looking Back | 120506 | [120506-looking-back.json](./120506-looking-back.json) |
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking For Cats In a Badly Drawn City | 286758 | [286758-looking-for-cats-in-a-badly-drawn-city.json](./286758-looking-for-cats-in-a-badly-drawn-city.json) |
 | Looking For Cats In a Badly Drawn Forest | 286760 | [286760-looking-for-cats-in-a-badly-drawn-forest.json](./286760-looking-for-cats-in-a-badly-drawn-forest.json) |
