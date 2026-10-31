@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeno Strikers Hyper Squadron | 374139 | [374139-xeno-strikers-hyper-squadron.json](./374139-xeno-strikers-hyper-squadron.json) |
 | Xeno Tactic | 388112 | [388112-xeno-tactic.json](./388112-xeno-tactic.json) |
 | Xeno TD | 319292 | [319292-xeno-td.json](./319292-xeno-td.json) |
+| Xeno Time Inception | 104938 | [104938-xeno-time-inception.json](./104938-xeno-time-inception.json) |
 | Xeno: Summoner | 199899 | [199899-xeno-summoner.json](./199899-xeno-summoner.json) |
 | Xeno's Adventure | 357259 | [357259-xenos-adventure.json](./357259-xenos-adventure.json) |
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
