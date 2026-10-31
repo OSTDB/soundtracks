@@ -6394,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball HD | 175348 | [175348-pinball-hd.json](./175348-pinball-hd.json) |
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
 | Pinball HD Collection | 33355 | [33355-pinball-hd-collection.json](./33355-pinball-hd-collection.json) |
+| Pinball HD: Classic Arcade, Zen + Space Games | 99895 | [99895-pinball-hd-classic-arcade-zen-space-games.json](./99895-pinball-hd-classic-arcade-zen-space-games.json) |
 | Pinball Hero | 357210 | [357210-pinball-hero.json](./357210-pinball-hero.json) |
 | Pinball Heroes | 229161 | [229161-pinball-heroes.json](./229161-pinball-heroes.json) |
 | Pinball Heroes Bundle 2 | 99584 | [99584-pinball-heroes-bundle-2.json](./99584-pinball-heroes-bundle-2.json) |
@@ -15119,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype | 220684 | [220684-prototype.json](./220684-prototype.json) |
 | Prototype | 235105 | [235105-prototype.json](./235105-prototype.json) |
 | Prototype 2: Blackwatch Collector's Edition | 118563 | [118563-prototype-2-blackwatch-collectors-edition.json](./118563-prototype-2-blackwatch-collectors-edition.json) |
+| Prototype 2: Radnet Edition | 99928 | [99928-prototype-2-radnet-edition.json](./99928-prototype-2-radnet-edition.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype Blocks 2 | 193429 | [193429-prototype-blocks-2.json](./193429-prototype-blocks-2.json) |
 | Prototype Chaos | 368596 | [368596-prototype-chaos.json](./368596-prototype-chaos.json) |
