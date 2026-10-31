@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoCave | 97072 | [97072-xenocave.json](./97072-xenocave.json) |
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | Xenociders | 126240 | [126240-xenociders.json](./126240-xenociders.json) |
+| Xenocite Clad | 64694 | [64694-xenocite-clad.json](./64694-xenocite-clad.json) |
 | Xenocrystal TD | 312525 | [312525-xenocrystal-td.json](./312525-xenocrystal-td.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenogen | 381675 | [381675-xenogen.json](./381675-xenogen.json) |
