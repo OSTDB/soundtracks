@@ -7738,6 +7738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity puzzles | 81844 | [81844-gravity-puzzles.json](./81844-gravity-puzzles.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
+| Gravity Rider | 95075 | [95075-gravity-rider.json](./95075-gravity-rider.json) |
 | Gravity Rider Zero | 147134 | [147134-gravity-rider-zero.json](./147134-gravity-rider-zero.json) |
 | Gravity Rider: Space Bike Racing Game Online | 108239 | [108239-gravity-rider-space-bike-racing-game-online.json](./108239-gravity-rider-space-bike-racing-game-online.json) |
 | Gravity Rubik's Cube | 151268 | [151268-gravity-rubiks-cube.json](./151268-gravity-rubiks-cube.json) |
