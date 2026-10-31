@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: 2020 Super Baseball | 86816 | [86816-aca-neo-geo-2020-super-baseball.json](./86816-aca-neo-geo-2020-super-baseball.json) |
+| ACA Neo Geo: 3 Count Bout | 118570 | [118570-aca-neo-geo-3-count-bout.json](./118570-aca-neo-geo-3-count-bout.json) |
 | ACA Neo Geo: Aero Fighters 2 | 99495 | [99495-aca-neo-geo-aero-fighters-2.json](./99495-aca-neo-geo-aero-fighters-2.json) |
 | ACA Neo Geo: Aggressors of Dark Kombat | 118215 | [118215-aca-neo-geo-aggressors-of-dark-kombat.json](./118215-aca-neo-geo-aggressors-of-dark-kombat.json) |
 | ACA Neo Geo: Art of Fighting | 99746 | [99746-aca-neo-geo-art-of-fighting.json](./99746-aca-neo-geo-art-of-fighting.json) |
@@ -2082,10 +2083,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Fatal Fury 2 | 99510 | [99510-aca-neo-geo-fatal-fury-2.json](./99510-aca-neo-geo-fatal-fury-2.json) |
 | ACA Neo Geo: Fatal Fury 3 | 99484 | [99484-aca-neo-geo-fatal-fury-3.json](./99484-aca-neo-geo-fatal-fury-3.json) |
 | ACA Neo Geo: Fatal Fury Special | 99742 | [99742-aca-neo-geo-fatal-fury-special.json](./99742-aca-neo-geo-fatal-fury-special.json) |
+| ACA Neo Geo: Football frenzy | 118543 | [118543-aca-neo-geo-football-frenzy.json](./118543-aca-neo-geo-football-frenzy.json) |
 | ACA Neo Geo: Galaxy Fight - Universal Warriors | 99747 | [99747-aca-neo-geo-galaxy-fight-universal-warriors.json](./99747-aca-neo-geo-galaxy-fight-universal-warriors.json) |
 | ACA Neo Geo: Ghost Pilots | 103851 | [103851-aca-neo-geo-ghost-pilots.json](./103851-aca-neo-geo-ghost-pilots.json) |
 | ACA Neo Geo: Gururin | 103849 | [103849-aca-neo-geo-gururin.json](./103849-aca-neo-geo-gururin.json) |
 | ACA Neo Geo: King of the Monsters | 99492 | [99492-aca-neo-geo-king-of-the-monsters.json](./99492-aca-neo-geo-king-of-the-monsters.json) |
+| ACA Neo Geo: King of the Monsters 2 | 118569 | [118569-aca-neo-geo-king-of-the-monsters-2.json](./118569-aca-neo-geo-king-of-the-monsters-2.json) |
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Last Resort | 99748 | [99748-aca-neo-geo-last-resort.json](./99748-aca-neo-geo-last-resort.json) |
 | ACA Neo Geo: Magical Drop II | 99509 | [99509-aca-neo-geo-magical-drop-ii.json](./99509-aca-neo-geo-magical-drop-ii.json) |
@@ -2093,14 +2096,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Metal Slug | 28452 | [28452-aca-neo-geo-metal-slug.json](./28452-aca-neo-geo-metal-slug.json) |
 | ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug 3 | 88910 | [88910-aca-neo-geo-metal-slug-3.json](./88910-aca-neo-geo-metal-slug-3.json) |
+| ACA Neo Geo: Metal Slug 5 | 118571 | [118571-aca-neo-geo-metal-slug-5.json](./118571-aca-neo-geo-metal-slug-5.json) |
 | ACA Neo Geo: Metal Slug X | 99481 | [99481-aca-neo-geo-metal-slug-x.json](./99481-aca-neo-geo-metal-slug-x.json) |
 | ACA Neo Geo: Mutation Nation | 99477 | [99477-aca-neo-geo-mutation-nation.json](./99477-aca-neo-geo-mutation-nation.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
+| ACA Neo Geo: Neo Geo Cup '98 - The Road to the Victory | 118573 | [118573-aca-neo-geo-neo-geo-cup-98-the-road-to-the-victory.json](./118573-aca-neo-geo-neo-geo-cup-98-the-road-to-the-victory.json) |
 | ACA Neo Geo: Ninja Combat | 103852 | [103852-aca-neo-geo-ninja-combat.json](./103852-aca-neo-geo-ninja-combat.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Over Top | 28500 | [28500-aca-neo-geo-over-top.json](./28500-aca-neo-geo-over-top.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
 | ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
+| ACA Neo Geo: Prehistoric Isle 2 | 118544 | [118544-aca-neo-geo-prehistoric-isle-2.json](./118544-aca-neo-geo-prehistoric-isle-2.json) |
 | ACA Neo Geo: Pulstar | 99511 | [99511-aca-neo-geo-pulstar.json](./99511-aca-neo-geo-pulstar.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Puzzled | 68482 | [68482-aca-neo-geo-puzzled.json](./68482-aca-neo-geo-puzzled.json) |
@@ -2295,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Collector's Edition | 136681 | [136681-ace-combat-7-skies-unknown-collectors-edition.json](./136681-ace-combat-7-skies-unknown-collectors-edition.json) |
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series | 282600 | [282600-ace-combat-7-skies-unknown-cutting-edge-aircraft-series.json](./282600-ace-combat-7-skies-unknown-cutting-edge-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series Set | 324420 | [324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json](./324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json) |
+| Ace Combat 7: Skies Unknown - Deluxe Edition | 118567 | [118567-ace-combat-7-skies-unknown-deluxe-edition.json](./118567-ace-combat-7-skies-unknown-deluxe-edition.json) |
 | Ace Combat 7: Skies Unknown - Deluxe Edition 2022 | 282545 | [282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json](./282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json) |
 | Ace Combat 7: Skies Unknown - Experimental Aircraft Series | 154753 | [154753-ace-combat-7-skies-unknown-experimental-aircraft-series.json](./154753-ace-combat-7-skies-unknown-experimental-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Experimental Aircraft Series Set | 324421 | [324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json](./324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json) |
@@ -5885,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
 | Alice Greenfingers 2 | 64732 | [64732-alice-greenfingers-2.json](./64732-alice-greenfingers-2.json) |
+| Alice in CyberCity | 118594 | [118594-alice-in-cybercity.json](./118594-alice-in-cybercity.json) |
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
 | Alice in Dreamland | 240733 | [240733-alice-in-dreamland.json](./240733-alice-in-dreamland.json) |
 | Alice in Maniacland | 316479 | [316479-alice-in-maniacland.json](./316479-alice-in-maniacland.json) |
@@ -6062,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Clones | 263469 | [263469-alien-clones.json](./263469-alien-clones.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
 | Alien Covenant In Utero | 28658 | [28658-alien-covenant-in-utero.json](./28658-alien-covenant-in-utero.json) |
+| Alien Cow Farm | 118585 | [118585-alien-cow-farm.json](./118585-alien-cow-farm.json) |
 | Alien Cow Rampage: Orion Needs Your Milk! | 165509 | [165509-alien-cow-rampage-orion-needs-your-milk.json](./165509-alien-cow-rampage-orion-needs-your-milk.json) |
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
 | Alien Creeps | 118714 | [118714-alien-creeps.json](./118714-alien-creeps.json) |
@@ -11363,6 +11372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: War of Aero | 289185 | [289185-arcade-archives-war-of-aero.json](./289185-arcade-archives-war-of-aero.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
+| Arcade Archives: Wild Western | 118579 | [118579-arcade-archives-wild-western.json](./118579-arcade-archives-wild-western.json) |
 | Arcade Archives: Wiz | 135582 | [135582-arcade-archives-wiz.json](./135582-arcade-archives-wiz.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: Xevious | 172432 | [172432-arcade-archives-xevious.json](./172432-arcade-archives-xevious.json) |
@@ -14504,6 +14514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomics | 244168 | [244168-astronomics.json](./244168-astronomics.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astronomy Lab on PC | 391692 | [391692-astronomy-lab-on-pc.json](./391692-astronomy-lab-on-pc.json) |
+| Astronomy VR | 118591 | [118591-astronomy-vr.json](./118591-astronomy-vr.json) |
 | Astronook | 348723 | [348723-astronook.json](./348723-astronook.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
@@ -14644,6 +14655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Run Time | 411637 | [411637-at-run-time.json](./411637-at-run-time.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
+| At Sundown: Shots in the Dark - Avatar Edition | 118559 | [118559-at-sundown-shots-in-the-dark-avatar-edition.json](./118559-at-sundown-shots-in-the-dark-avatar-edition.json) |
 | At the Behest of the Pike: Time to Run | 153894 | [153894-at-the-behest-of-the-pike-time-to-run.json](./153894-at-the-behest-of-the-pike-time-to-run.json) |
 | At the Carnival | 73601 | [73601-at-the-carnival.json](./73601-at-the-carnival.json) |
 | At the Dream End 2: Beyond Gods | 254018 | [254018-at-the-dream-end-2-beyond-gods.json](./254018-at-the-dream-end-2-beyond-gods.json) |
@@ -15303,6 +15315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atum | 232634 | [232634-atum.json](./232634-atum.json) |
 | ATV Bike Games | 294255 | [294255-atv-bike-games.json](./294255-atv-bike-games.json) |
 | ATV Drift & Tricks | 83879 | [83879-atv-drift-and-tricks.json](./83879-atv-drift-and-tricks.json) |
+| ATV Drift & Tricks: Definitive Edition | 118553 | [118553-atv-drift-and-tricks-definitive-edition.json](./118553-atv-drift-and-tricks-definitive-edition.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
 | ATV Monster Racing Simulator Rally Cross | 262239 | [262239-atv-monster-racing-simulator-rally-cross.json](./262239-atv-monster-racing-simulator-rally-cross.json) |
