@@ -16823,6 +16823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Drifter | 265476 | [265476-soul-drifter.json](./265476-soul-drifter.json) |
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
+| Soul Eater: Monotone Princess | 71887 | [71887-soul-eater-monotone-princess.json](./71887-soul-eater-monotone-princess.json) |
 | Soul Edge | 1563 | [1563-soul-edge.json](./1563-soul-edge.json) |
 | Soul Edge Vs. Samurai Spirits | 45754 | [45754-soul-edge-vs-samurai-spirits.json](./45754-soul-edge-vs-samurai-spirits.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
@@ -17628,6 +17629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Drop | 99773 | [99773-space-drop.json](./99773-space-drop.json) |
 | Space Duck: Escape | 330764 | [330764-space-duck-escape.json](./330764-space-duck-escape.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
+| Space Dude | 71855 | [71855-space-dude.json](./71855-space-dude.json) |
 | Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
 | Space Duel | 18405 | [18405-space-duel.json](./18405-space-duel.json) |
 | Space Duels | 148809 | [148809-space-duels.json](./148809-space-duels.json) |
@@ -19055,6 +19057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Dates | 240701 | [240701-speed-dates.json](./240701-speed-dates.json) |
 | Speed Dates: Summer Edition | 348432 | [348432-speed-dates-summer-edition.json](./348432-speed-dates-summer-edition.json) |
 | Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
+| Speed Demons | 71872 | [71872-speed-demons.json](./71872-speed-demons.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Devils | 23609 | [23609-speed-devils.json](./23609-speed-devils.json) |
 | Speed Devils: Online Racing | 46371 | [46371-speed-devils-online-racing.json](./46371-speed-devils-online-racing.json) |
@@ -22251,6 +22254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Starfleet Command - Orion Pirates | 79758 | [79758-star-trek-starfleet-command-orion-pirates.json](./79758-star-trek-starfleet-command-orion-pirates.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
 | Star Trek: Starfleet Command Volume II - Empires at War | 71404 | [71404-star-trek-starfleet-command-volume-ii-empires-at-war.json](./71404-star-trek-starfleet-command-volume-ii-empires-at-war.json) |
+| Star Trek: Starship Creator Warp II | 71880 | [71880-star-trek-starship-creator-warp-ii.json](./71880-star-trek-starship-creator-warp-ii.json) |
 | Star Trek: Strategic Operations Simulator | 12319 | [12319-star-trek-strategic-operations-simulator.json](./12319-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
@@ -27886,6 +27890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowl | 93128 | [93128-super-bowl.json](./93128-super-bowl.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowl XX | 59817 | [59817-super-bowl-xx.json](./59817-super-bowl-xx.json) |
+| Super Bowling | 71864 | [71864-super-bowling.json](./71864-super-bowling.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
 | Super Boxing Championship! | 170256 | [170256-super-boxing-championship.json](./170256-super-boxing-championship.json) |
