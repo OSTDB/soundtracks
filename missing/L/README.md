@@ -8521,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Me | 188776 | [188776-lucky-me.json](./188776-lucky-me.json) |
 | Lucky Me Lucky You | 123996 | [123996-lucky-me-lucky-you.json](./123996-lucky-me-lucky-you.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
+| Lucky Night | 76314 | [76314-lucky-night.json](./76314-lucky-night.json) |
 | Lucky Night: Poker Games | 131357 | [131357-lucky-night-poker-games.json](./131357-lucky-night-poker-games.json) |
 | Lucky Night: Texas Hold'em VR | 51503 | [51503-lucky-night-texas-holdem-vr.json](./51503-lucky-night-texas-holdem-vr.json) |
 | Lucky of Love | 114090 | [114090-lucky-of-love.json](./114090-lucky-of-love.json) |
