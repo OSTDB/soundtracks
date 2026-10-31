@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Nodes | 233421 | [233421-laser-nodes.json](./233421-laser-nodes.json) |
 | Laser Overload 2 | 167669 | [167669-laser-overload-2.json](./167669-laser-overload-2.json) |
 | Laser Overload: Mirror Puzzle | 256948 | [256948-laser-overload-mirror-puzzle.json](./256948-laser-overload-mirror-puzzle.json) |
+| Laser Paddles | 123790 | [123790-laser-paddles.json](./123790-laser-paddles.json) |
 | Laser Panic | 330314 | [330314-laser-panic.json](./330314-laser-panic.json) |
 | Laser Party | 113166 | [113166-laser-party.json](./113166-laser-party.json) |
 | Laser Push | 176430 | [176430-laser-push.json](./176430-laser-push.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
 | Legendary Football | 194118 | [194118-legendary-football.json](./194118-legendary-football.json) |
 | Legendary Gary | 76560 | [76560-legendary-gary.json](./76560-legendary-gary.json) |
+| Legendary gun | 123750 | [123750-legendary-gun.json](./123750-legendary-gun.json) |
 | Legendary Heroes Survivors | 337419 | [337419-legendary-heroes-survivors.json](./337419-legendary-heroes-survivors.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
 | Legendary Heros in the Three Kingdoms | 96941 | [96941-legendary-heros-in-the-three-kingdoms.json](./96941-legendary-heros-in-the-three-kingdoms.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
 | Lost & Shrunk: Giantess Horror | 105821 | [105821-lost-and-shrunk-giantess-horror.json](./105821-lost-and-shrunk-giantess-horror.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
+| Lost Action Hero | 123762 | [123762-lost-action-hero.json](./123762-lost-action-hero.json) |
 | Lost Adventures of Kroz | 69575 | [69575-lost-adventures-of-kroz.json](./69575-lost-adventures-of-kroz.json) |
 | Lost Ages Hunting | 409870 | [409870-lost-ages-hunting.json](./409870-lost-ages-hunting.json) |
 | Lost Alice: Destined Lovers in Wonderland | 75422 | [75422-lost-alice-destined-lovers-in-wonderland.json](./75422-lost-alice-destined-lovers-in-wonderland.json) |
@@ -7205,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ember: Legendary Souls | 380803 | [380803-lost-ember-legendary-souls.json](./380803-lost-ember-legendary-souls.json) |
 | Lost Ember: Rekindled Edition | 314439 | [314439-lost-ember-rekindled-edition.json](./314439-lost-ember-rekindled-edition.json) |
 | Lost Ember: VR Edition | 193626 | [193626-lost-ember-vr-edition.json](./193626-lost-ember-vr-edition.json) |
+| Lost Empire 2977 | 123771 | [123771-lost-empire-2977.json](./123771-lost-empire-2977.json) |
 | Lost Empire: Immortals | 21470 | [21470-lost-empire-immortals.json](./21470-lost-empire-immortals.json) |
 | Lost Entry | 395746 | [395746-lost-entry.json](./395746-lost-entry.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
