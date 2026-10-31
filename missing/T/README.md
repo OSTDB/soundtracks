@@ -5566,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backyardigans: Viking Voyage | 72998 | [72998-the-backyardigans-viking-voyage.json](./72998-the-backyardigans-viking-voyage.json) |
 | The Baconing | 2251 | [2251-the-baconing.json](./2251-the-baconing.json) |
 | The Bad Boy's Cars | 310504 | [310504-the-bad-boys-cars.json](./310504-the-bad-boys-cars.json) |
+| The Bad Dream Brigade | 120521 | [120521-the-bad-dream-brigade.json](./120521-the-bad-dream-brigade.json) |
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bad Kids | 211152 | [211152-the-bad-kids.json](./211152-the-bad-kids.json) |
 | The Bad Parents | 328087 | [328087-the-bad-parents.json](./328087-the-bad-parents.json) |
@@ -7178,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dancer: Definitive Edition | 211666 | [211666-the-dancer-definitive-edition.json](./211666-the-dancer-definitive-edition.json) |
+| The Dandelion Girl: Don't You Remember Me? | 120527 | [120527-the-dandelion-girl-dont-you-remember-me.json](./120527-the-dandelion-girl-dont-you-remember-me.json) |
 | The Danger Zone | 244425 | [244425-the-danger-zone.json](./244425-the-danger-zone.json) |
 | The Dangerous Back-to-School Season | 339208 | [339208-the-dangerous-back-to-school-season.json](./339208-the-dangerous-back-to-school-season.json) |
 | The DangerZone | 153526 | [153526-the-dangerzone.json](./153526-the-dangerzone.json) |
@@ -8943,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
 | The Game of Life 2: Ultimate Life Collection | 228888 | [228888-the-game-of-life-2-ultimate-life-collection.json](./228888-the-game-of-life-2-ultimate-life-collection.json) |
 | The Game of Life 2: Under the Sea | 227729 | [227729-the-game-of-life-2-under-the-sea.json](./227729-the-game-of-life-2-under-the-sea.json) |
+| The Game of Life Vacations | 120509 | [120509-the-game-of-life-vacations.json](./120509-the-game-of-life-vacations.json) |
 | The Game of Life: DX Jinsei Game | 93455 | [93455-the-game-of-life-dx-jinsei-game.json](./93455-the-game-of-life-dx-jinsei-game.json) |
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
@@ -16322,6 +16325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
 | The Transference | 273790 | [273790-the-transference.json](./273790-the-transference.json) |
 | The Transformers | 8015 | [8015-the-transformers.json](./8015-the-transformers.json) |
+| The Transylvania Adventure of Simon Quest | 120559 | [120559-the-transylvania-adventure-of-simon-quest.json](./120559-the-transylvania-adventure-of-simon-quest.json) |
 | The Trap | 155343 | [155343-the-trap.json](./155343-the-trap.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Trap 2: Mindlock | 194222 | [194222-the-trap-2-mindlock.json](./194222-the-trap-2-mindlock.json) |
@@ -22397,6 +22401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon Predator | 1302 | [1302-tom-clancys-ghost-recon-predator.json](./1302-tom-clancys-ghost-recon-predator.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
+| Tom Clancy's Ghost Recon: Breakpoint - Limited Edition | 120557 | [120557-tom-clancys-ghost-recon-breakpoint-limited-edition.json](./120557-tom-clancys-ghost-recon-breakpoint-limited-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Red Patriot | 138784 | [138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json](./138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Year 1 Pass | 118678 | [118678-tom-clancys-ghost-recon-breakpoint-year-1-pass.json](./118678-tom-clancys-ghost-recon-breakpoint-year-1-pass.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Gold Edition | 118275 | [118275-tom-clancys-ghost-recon-breakpoint-gold-edition.json](./118275-tom-clancys-ghost-recon-breakpoint-gold-edition.json) |
@@ -22505,6 +22510,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy’s The Division - Definitive Edition | 394852 | [394852-tom-clancy-s-the-division-definitive-edition.json](./394852-tom-clancy-s-the-division-definitive-edition.json) |
 | Tom Clancy's The Division 2 - Bedlam Pack | 408973 | [408973-tom-clancys-the-division-2-bedlam-pack.json](./408973-tom-clancys-the-division-2-bedlam-pack.json) |
 | Tom Clancy's The Division 2: Dark Zone Edition | 112646 | [112646-tom-clancys-the-division-2-dark-zone-edition.json](./112646-tom-clancys-the-division-2-dark-zone-edition.json) |
+| Tom Clancy's The Division 2: Episode 1 - D.C. Outskirts: Expeditions | 120553 | [120553-tom-clancys-the-division-2-episode-1-d-c-outskirts-expeditions.json](./120553-tom-clancys-the-division-2-episode-1-d-c-outskirts-expeditions.json) |
+| Tom Clancy's The Division 2: Episode 2 - Pentagon: The Last Castle | 120554 | [120554-tom-clancys-the-division-2-episode-2-pentagon-the-last-castle.json](./120554-tom-clancys-the-division-2-episode-2-pentagon-the-last-castle.json) |
+| Tom Clancy's The Division 2: Episode 3 - Coney Island: The Hunt | 120555 | [120555-tom-clancys-the-division-2-episode-3-coney-island-the-hunt.json](./120555-tom-clancys-the-division-2-episode-3-coney-island-the-hunt.json) |
 | Tom Clancy's The Division 2: Fang Pack | 408900 | [408900-tom-clancys-the-division-2-fang-pack.json](./408900-tom-clancys-the-division-2-fang-pack.json) |
 | Tom Clancy's The Division 2: Gold Edition | 112648 | [112648-tom-clancys-the-division-2-gold-edition.json](./112648-tom-clancys-the-division-2-gold-edition.json) |
 | Tom Clancy's The Division 2: Gold Steelbook Edition | 79862 | [79862-tom-clancys-the-division-2-gold-steelbook-edition.json](./79862-tom-clancys-the-division-2-gold-steelbook-edition.json) |
