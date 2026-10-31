@@ -3214,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled | 79680 | [79680-scrambled.json](./79680-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
 | Scrambled Eggs | 309409 | [309409-scrambled-eggs.json](./309409-scrambled-eggs.json) |
+| Scrambled Egzz | 68524 | [68524-scrambled-egzz.json](./68524-scrambled-egzz.json) |
 | Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
@@ -7800,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
 | Shinrei Ryokan | 283068 | [283068-shinrei-ryokan.json](./283068-shinrei-ryokan.json) |
 | Shinreigari: Ghost Hound DS | 123408 | [123408-shinreigari-ghost-hound-ds.json](./123408-shinreigari-ghost-hound-ds.json) |
+| Shinri Kenkyuuka Yuuki Yuu Kanshuu: Mainichi Kokorobics DS Therapy | 68402 | [68402-shinri-kenkyuuka-yuuki-yuu-kanshuu-mainichi-kokorobics-ds-therapy.json](./68402-shinri-kenkyuuka-yuuki-yuu-kanshuu-mainichi-kokorobics-ds-therapy.json) |
 | Shinrin-yoku | 81922 | [81922-shinrin-yoku.json](./81922-shinrin-yoku.json) |
 | Shinrin-yoku: Forest Meditation and Relaxation | 343764 | [343764-shinrin-yoku-forest-meditation-and-relaxation.json](./343764-shinrin-yoku-forest-meditation-and-relaxation.json) |
 | Shinsei Project: Collapse | 364658 | [364658-shinsei-project-collapse.json](./364658-shinsei-project-collapse.json) |
@@ -11575,6 +11577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
 | Skyclimbers | 135823 | [135823-skyclimbers.json](./135823-skyclimbers.json) |
 | SkyCop | 304659 | [304659-skycop.json](./304659-skycop.json) |
+| Skycurser | 68384 | [68384-skycurser.json](./68384-skycurser.json) |
 | Skydance's Behemoth: Rites of Wrath | 347154 | [347154-skydances-behemoth-rites-of-wrath.json](./347154-skydances-behemoth-rites-of-wrath.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydive! | 62234 | [62234-skydive.json](./62234-skydive.json) |
@@ -12948,6 +12951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Girl's: Playhouse | 124045 | [124045-smart-girls-playhouse.json](./124045-smart-girls-playhouse.json) |
 | Smart Girl's: Playhouse II | 208864 | [208864-smart-girls-playhouse-ii.json](./208864-smart-girls-playhouse-ii.json) |
 | Smart Girl's: Winter Wonderland | 124049 | [124049-smart-girls-winter-wonderland.json](./124049-smart-girls-winter-wonderland.json) |
+| Smart Junior Academy | 68504 | [68504-smart-junior-academy.json](./68504-smart-junior-academy.json) |
 | Smart Junior Academy - Spring | 76936 | [76936-smart-junior-academy-spring.json](./76936-smart-junior-academy-spring.json) |
 | Smart Kat | 114701 | [114701-smart-kat.json](./114701-smart-kat.json) |
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
@@ -17840,6 +17844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24583,6 +24588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting Operation | 300748 | [300748-sting-operation.json](./300748-sting-operation.json) |
 | Stingray | 299545 | [299545-stingray.json](./299545-stingray.json) |
 | Stink Bug Plague | 133304 | [133304-stink-bug-plague.json](./133304-stink-bug-plague.json) |
+| Stink Eye | 68379 | [68379-stink-eye.json](./68379-stink-eye.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
 | Stinkoman 20X6 | 124605 | [124605-stinkoman-20x6.json](./124605-stinkoman-20x6.json) |
 | Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
@@ -29767,6 +29773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robin | 147040 | [147040-super-robin.json](./147040-super-robin.json) |
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
 | Super Robin Hood | 39134 | [39134-super-robin-hood.json](./39134-super-robin-hood.json) |
+| Super Robo Gakuen | 68396 | [68396-super-robo-gakuen.json](./68396-super-robo-gakuen.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
 | Super Robot Pinball | 71606 | [71606-super-robot-pinball.json](./71606-super-robot-pinball.json) |
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
@@ -32316,6 +32323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Memory Defrag | 25650 | [25650-sword-art-online-memory-defrag.json](./25650-sword-art-online-memory-defrag.json) |
 | Sword Art Online: Progress Link | 123226 | [123226-sword-art-online-progress-link.json](./123226-sword-art-online-progress-link.json) |
+| Sword Art Online: Replication Project | 68387 | [68387-sword-art-online-replication-project.json](./68387-sword-art-online-replication-project.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Art Online: Variant Showdown | 196564 | [196564-sword-art-online-variant-showdown.json](./196564-sword-art-online-variant-showdown.json) |
 | Sword Art Online's Legend | 98690 | [98690-sword-art-onlines-legend.json](./98690-sword-art-onlines-legend.json) |
