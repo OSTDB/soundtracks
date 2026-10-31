@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Ninja | 220013 | [220013-epic-ninja.json](./220013-epic-ninja.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
 | Epic of Brave | 286021 | [286021-epic-of-brave.json](./286021-epic-of-brave.json) |
+| Epic of Serinor: Dawnshadow | 111982 | [111982-epic-of-serinor-dawnshadow.json](./111982-epic-of-serinor-dawnshadow.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
 | Epic Palace: Knossos | 147370 | [147370-epic-palace-knossos.json](./147370-epic-palace-knossos.json) |
 | Epic Pandemonium | 253961 | [253961-epic-pandemonium.json](./253961-epic-pandemonium.json) |
@@ -6234,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: The Shadow Odyssey | 78366 | [78366-everquest-ii-the-shadow-odyssey.json](./78366-everquest-ii-the-shadow-odyssey.json) |
 | EverQuest II: The Splitpaw Saga | 111025 | [111025-everquest-ii-the-splitpaw-saga.json](./111025-everquest-ii-the-splitpaw-saga.json) |
 | EverQuest Legends | 395827 | [395827-everquest-legends.json](./395827-everquest-legends.json) |
+| EverQuest Mobile | 112028 | [112028-everquest-mobile.json](./112028-everquest-mobile.json) |
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
 | EverQuest Worlds | 63060 | [63060-everquest-worlds.json](./63060-everquest-worlds.json) |
@@ -6609,6 +6611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolit | 346152 | [346152-evolit.json](./346152-evolit.json) |
 | Evolits | 145453 | [145453-evolits.json](./145453-evolits.json) |
 | Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
+| Evolo.Mine | 111967 | [111967-evolo-mine.json](./111967-evolo-mine.json) |
 | Evolo.The Sun | 335447 | [335447-evolo-the-sun.json](./335447-evolo-the-sun.json) |
 | EvolRun | 339777 | [339777-evolrun.json](./339777-evolrun.json) |
 | EvoluShip | 199321 | [199321-evoluship.json](./199321-evoluship.json) |
