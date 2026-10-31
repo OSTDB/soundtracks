@@ -6665,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EvoWorld.io | 360508 | [360508-evoworld-io.json](./360508-evoworld-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
+| Evrisia Art | 122600 | [122600-evrisia-art.json](./122600-evrisia-art.json) |
 | EWar | 296189 | [296189-ewar.json](./296189-ewar.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | Ewephoria | 423879 | [423879-ewephoria.json](./423879-ewephoria.json) |
