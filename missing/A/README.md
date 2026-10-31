@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Drawing's Journey | 84686 | [84686-a-drawings-journey.json](./84686-a-drawings-journey.json) |
 | A Dream 2 | 272121 | [272121-a-dream-2.json](./272121-a-dream-2.json) |
 | A Dream About a Room With Four Doors | 255855 | [255855-a-dream-about-a-room-with-four-doors.json](./255855-a-dream-about-a-room-with-four-doors.json) |
+| A Dream For Aaron | 72406 | [72406-a-dream-for-aaron.json](./72406-a-dream-for-aaron.json) |
 | A Dream of Burning Sand | 113337 | [113337-a-dream-of-burning-sand.json](./113337-a-dream-of-burning-sand.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
@@ -1005,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shadow Over Freddy's | 209259 | [209259-a-shadow-over-freddys.json](./209259-a-shadow-over-freddys.json) |
 | A Shaman's Ballard | 237229 | [237229-a-shamans-ballard.json](./237229-a-shamans-ballard.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
+| A Shawn Story | 72427 | [72427-a-shawn-story.json](./72427-a-shawn-story.json) |
 | A Shelter | 179874 | [179874-a-shelter.json](./179874-a-shelter.json) |
 | A Shelter Full of Cats | 314113 | [314113-a-shelter-full-of-cats.json](./314113-a-shelter-full-of-cats.json) |
 | A Shiba Story | 144692 | [144692-a-shiba-story.json](./144692-a-shiba-story.json) |
@@ -6266,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Puzzle Adventure | 84744 | [84744-alien-puzzle-adventure.json](./84744-alien-puzzle-adventure.json) |
 | Alien Quest: Eve | 159148 | [159148-alien-quest-eve.json](./159148-alien-quest-eve.json) |
 | Alien Race | 133644 | [133644-alien-race.json](./133644-alien-race.json) |
+| Alien Raiders | 72438 | [72438-alien-raiders.json](./72438-alien-raiders.json) |
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
 | Alien Resource Manager | 418313 | [418313-alien-resource-manager.json](./418313-alien-resource-manager.json) |
