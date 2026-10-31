@@ -5286,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cities: Snowy Islands DLC | 251572 | [251572-little-cities-snowy-islands-dlc.json](./251572-little-cities-snowy-islands-dlc.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
 | Little Climber | 174482 | [174482-little-climber.json](./174482-little-climber.json) |
+| Little Comet | 112597 | [112597-little-comet.json](./112597-little-comet.json) |
 | Little Computer People | 12179 | [12179-little-computer-people.json](./12179-little-computer-people.json) |
 | Little Corner Tea House | 327278 | [327278-little-corner-tea-house.json](./327278-little-corner-tea-house.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
@@ -7486,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Oliver | 235595 | [235595-lost-oliver.json](./235595-lost-oliver.json) |
 | Lost on Jupiter | 185927 | [185927-lost-on-jupiter.json](./185927-lost-on-jupiter.json) |
+| Lost on the Island | 112606 | [112606-lost-on-the-island.json](./112606-lost-on-the-island.json) |
 | Lost on the Lost Planet | 420172 | [420172-lost-on-the-lost-planet.json](./420172-lost-on-the-lost-planet.json) |
 | Lost Orbit | 21597 | [21597-lost-orbit.json](./21597-lost-orbit.json) |
 | Lost Orbit: Terminal Velocity | 120185 | [120185-lost-orbit-terminal-velocity.json](./120185-lost-orbit-terminal-velocity.json) |
