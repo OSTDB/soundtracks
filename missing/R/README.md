@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranch Planet | 104270 | [104270-ranch-planet.json](./104270-ranch-planet.json) |
 | Ranch Simulator | 121087 | [121087-ranch-simulator.json](./121087-ranch-simulator.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
+| Rancho Blast | 101232 | [101232-rancho-blast.json](./101232-rancho-blast.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand McNally's America: U.S. Atlas | 46429 | [46429-rand-mcnallys-america-u-s-atlas.json](./46429-rand-mcnallys-america-u-s-atlas.json) |
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
@@ -10514,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Flush | 79182 | [79182-royal-flush.json](./79182-royal-flush.json) |
 | Royal Flux: The Astral Shadow Plague | 413138 | [413138-royal-flux-the-astral-shadow-plague.json](./413138-royal-flux-the-astral-shadow-plague.json) |
 | Royal Frontier | 193668 | [193668-royal-frontier.json](./193668-royal-frontier.json) |
+| Royal Game of Ur | 101201 | [101201-royal-game-of-ur.json](./101201-royal-game-of-ur.json) |
 | Royal Garden Tales | 95801 | [95801-royal-garden-tales.json](./95801-royal-garden-tales.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
