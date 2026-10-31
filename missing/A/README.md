@@ -9253,6 +9253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Memory: Monkeys | 364050 | [364050-animals-memory-monkeys.json](./364050-animals-memory-monkeys.json) |
 | Animals Memory: Underwater Kingdom | 81976 | [81976-animals-memory-underwater-kingdom.json](./81976-animals-memory-underwater-kingdom.json) |
 | Animals Merge Quest | 309760 | [309760-animals-merge-quest.json](./309760-animals-merge-quest.json) |
+| Animals of Africa | 69650 | [69650-animals-of-africa.json](./69650-animals-of-africa.json) |
 | Animals of Australia | 108229 | [108229-animals-of-australia.json](./108229-animals-of-australia.json) |
 | Animals of the World | 52403 | [52403-animals-of-the-world.json](./52403-animals-of-the-world.json) |
 | Animals on the Loose: A You vs. Wild Movie | 256867 | [256867-animals-on-the-loose-a-you-vs-wild-movie.json](./256867-animals-on-the-loose-a-you-vs-wild-movie.json) |
@@ -11232,6 +11233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cosmo Gang the Video | 246874 | [246874-arcade-archives-cosmo-gang-the-video.json](./246874-arcade-archives-cosmo-gang-the-video.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
+| Arcade Archives: Crazy Climber | 69653 | [69653-arcade-archives-crazy-climber.json](./69653-arcade-archives-crazy-climber.json) |
 | Arcade Archives: Crime City | 317264 | [317264-arcade-archives-crime-city.json](./317264-arcade-archives-crime-city.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
 | Arcade Archives: Cue Brick | 303858 | [303858-arcade-archives-cue-brick.json](./303858-arcade-archives-cue-brick.json) |
