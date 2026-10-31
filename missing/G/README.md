@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
 | Garden War | 77270 | [77270-garden-war.json](./77270-garden-war.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
+| Garden Wars | 99328 | [99328-garden-wars.json](./99328-garden-wars.json) |
 | Garden Watering | 234452 | [234452-garden-watering.json](./234452-garden-watering.json) |
 | Garden Weeder | 246334 | [246334-garden-weeder.json](./246334-garden-weeder.json) |
 | Garden Witch Life | 182112 | [182112-garden-witch-life.json](./182112-garden-witch-life.json) |
@@ -6067,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Training | 90924 | [90924-golf-training.json](./90924-golf-training.json) |
 | Golf Training at Home, Good Putt! | 368763 | [368763-golf-training-at-home-good-putt.json](./368763-golf-training-at-home-good-putt.json) |
 | Golf Up | 324977 | [324977-golf-up.json](./324977-golf-up.json) |
+| Golf Up | 99321 | [99321-golf-up.json](./99321-golf-up.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf vs. Zombies | 244852 | [244852-golf-vs-zombies.json](./244852-golf-vs-zombies.json) |
 | Golf vs. Zombies | 310526 | [310526-golf-vs-zombies.json](./310526-golf-vs-zombies.json) |
@@ -6603,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorillas-Lab | 376628 | [376628-gorillas-lab.json](./376628-gorillas-lab.json) |
 | Gorillaz | 285125 | [285125-gorillaz.json](./285125-gorillaz.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
+| Gorillaz - Escape to Plastic Beach for iPad | 99318 | [99318-gorillaz-escape-to-plastic-beach-for-ipad.json](./99318-gorillaz-escape-to-plastic-beach-for-ipad.json) |
 | Gorit | 164285 | [164285-gorit.json](./164285-gorit.json) |
 | Goritaire | 393809 | [393809-goritaire.json](./393809-goritaire.json) |
 | Gorkamorka | 32667 | [32667-gorkamorka.json](./32667-gorkamorka.json) |
@@ -8059,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Steps | 411970 | [411970-green-steps.json](./411970-green-steps.json) |
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
 | Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
+| Green the Planet 2 | 99355 | [99355-green-the-planet-2.json](./99355-green-the-planet-2.json) |
 | Green Thing from the Planet Jupiter | 332933 | [332933-green-thing-from-the-planet-jupiter.json](./332933-green-thing-from-the-planet-jupiter.json) |
 | Green Thumb | 291571 | [291571-green-thumb.json](./291571-green-thumb.json) |
 | Green Thumb Cards | 62157 | [62157-green-thumb-cards.json](./62157-green-thumb-cards.json) |
