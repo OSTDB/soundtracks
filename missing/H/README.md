@@ -3841,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's House | 311705 | [311705-hells-house.json](./311705-hells-house.json) |
 | Hell's Island | 162569 | [162569-hells-island.json](./162569-hells-island.json) |
 | Hell's Kitchen | 361650 | [361650-hells-kitchen.json](./361650-hells-kitchen.json) |
+| Hell's Kitchen Vs. | 67138 | [67138-hells-kitchen-vs.json](./67138-hells-kitchen-vs.json) |
 | Hell's Kitchen: The Game | 21358 | [21358-hells-kitchen-the-game.json](./21358-hells-kitchen-the-game.json) |
 | Hell'S Little Story | 29610 | [29610-hells-little-story.json](./29610-hells-little-story.json) |
 | Hell's Maw | 338850 | [338850-hells-maw.json](./338850-hells-maw.json) |
