@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel of Arabia: Dreamers | 139124 | [139124-jewel-of-arabia-dreamers.json](./139124-jewel-of-arabia-dreamers.json) |
 | Jewel of Clementia | 248668 | [248668-jewel-of-clementia.json](./248668-jewel-of-clementia.json) |
 | Jewel of Kings | 238933 | [238933-jewel-of-kings.json](./238933-jewel-of-kings.json) |
+| Jewel of Kings | 98743 | [98743-jewel-of-kings.json](./98743-jewel-of-kings.json) |
 | Jewel of Kuru | 158087 | [158087-jewel-of-kuru.json](./158087-jewel-of-kuru.json) |
 | Jewel of Live | 151629 | [151629-jewel-of-live.json](./151629-jewel-of-live.json) |
 | Jewel of Live II | 151630 | [151630-jewel-of-live-ii.json](./151630-jewel-of-live-ii.json) |
@@ -2034,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Pachinko Hisshouhou! Wii: Hokuto no Ken - Sammy's Collection | 62595 | [62595-jissen-pachi-slot-pachinko-hisshouhou-wii-hokuto-no-ken-sammys-collection.json](./62595-jissen-pachi-slot-pachinko-hisshouhou-wii-hokuto-no-ken-sammys-collection.json) |
 | Jissen Pachinko Hisshouhou! 2 | 42646 | [42646-jissen-pachinko-hisshouhou-2.json](./42646-jissen-pachinko-hisshouhou-2.json) |
 | Jissen Pachinko Hisshouhou! CR Aladdin Destiny EX | 82311 | [82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json](./82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json) |
+| Jissen Pachinko Hisshouhou! CR Hokuto no Ken | 98702 | [98702-jissen-pachinko-hisshouhou-cr-hokuto-no-ken.json](./98702-jissen-pachinko-hisshouhou-cr-hokuto-no-ken.json) |
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
 | Jissen Pachinko Hisshouhou! CR Salaryman Kintarou | 82308 | [82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json](./82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json) |
 | Jissen Yakudatsu Tsumego | 281594 | [281594-jissen-yakudatsu-tsumego.json](./281594-jissen-yakudatsu-tsumego.json) |
@@ -2806,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juicy Bois: Conflict | 190403 | [190403-juicy-bois-conflict.json](./190403-juicy-bois-conflict.json) |
 | Juicy Futa | 207602 | [207602-juicy-futa.json](./207602-juicy-futa.json) |
 | Juicy Hentai | 368114 | [368114-juicy-hentai.json](./368114-juicy-hentai.json) |
+| Juicy Knife Throw - Hit Splash | 98746 | [98746-juicy-knife-throw-hit-splash.json](./98746-juicy-knife-throw-hit-splash.json) |
 | Juicy Memory Card | 156201 | [156201-juicy-memory-card.json](./156201-juicy-memory-card.json) |
 | Juicy Realm | 75263 | [75263-juicy-realm.json](./75263-juicy-realm.json) |
 | Juicy Retro Style!: Bloodhound | 265203 | [265203-juicy-retro-style-bloodhound.json](./265203-juicy-retro-style-bloodhound.json) |
