@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T23:19:28.077Z",
-  "total_missing": 290758,
+  "generated_at": "2026-10-31T23:35:48.359Z",
+  "total_missing": 290808,
   "games": [
     {
       "igdb_id": 191680,
@@ -9697,6 +9697,11 @@
       "file": "missing/0-9/358080-30-minutes-until-my-brain-dies.json"
     },
     {
+      "igdb_id": 63609,
+      "game_name": "30 Minutes... or Less!",
+      "file": "missing/0-9/63609-30-minutes-or-less.json"
+    },
+    {
       "igdb_id": 91609,
       "game_name": "30 Pferdespiele",
       "file": "missing/0-9/91609-30-pferdespiele.json"
@@ -13115,6 +13120,11 @@
       "igdb_id": 38959,
       "game_name": "5 Star Rio Resort",
       "file": "missing/0-9/38959-5-star-rio-resort.json"
+    },
+    {
+      "igdb_id": 63596,
+      "game_name": "5 Star Wrestling",
+      "file": "missing/0-9/63596-5-star-wrestling.json"
     },
     {
       "igdb_id": 274126,
@@ -29627,6 +29637,11 @@
       "file": "missing/A/214322-action-ro2-spear-of-odin.json"
     },
     {
+      "igdb_id": 63510,
+      "game_name": "Action RPG Construction Tool: Dante 2",
+      "file": "missing/A/63510-action-rpg-construction-tool-dante-2.json"
+    },
+    {
       "igdb_id": 76518,
       "game_name": "Action Rush",
       "file": "missing/A/76518-action-rush.json"
@@ -38395,6 +38410,11 @@
       "igdb_id": 43936,
       "game_name": "Agile Warrior F-111X",
       "file": "missing/A/43936-agile-warrior-f-111x.json"
+    },
+    {
+      "igdb_id": 63524,
+      "game_name": "Agility City",
+      "file": "missing/A/63524-agility-city.json"
     },
     {
       "igdb_id": 175165,
@@ -197807,6 +197827,11 @@
       "file": "missing/C/273379-carprogram.json"
     },
     {
+      "igdb_id": 63515,
+      "game_name": "Carps & Dragons",
+      "file": "missing/C/63515-carps-and-dragons.json"
+    },
+    {
       "igdb_id": 248851,
       "game_name": "CarRage",
       "file": "missing/C/248851-carrage.json"
@@ -214845,6 +214870,11 @@
       "igdb_id": 224847,
       "game_name": "Cherry Lady",
       "file": "missing/C/224847-cherry-lady.json"
+    },
+    {
+      "igdb_id": 63610,
+      "game_name": "Cherry Poke Prison",
+      "file": "missing/C/63610-cherry-poke-prison.json"
     },
     {
       "igdb_id": 181852,
@@ -234647,6 +234677,11 @@
       "file": "missing/C/373065-coaster-crash-course.json"
     },
     {
+      "igdb_id": 63522,
+      "game_name": "Coaster Crazy",
+      "file": "missing/C/63522-coaster-crazy.json"
+    },
+    {
       "igdb_id": 306926,
       "game_name": "Coaster Mania",
       "file": "missing/C/306926-coaster-mania.json"
@@ -251295,6 +251330,11 @@
       "igdb_id": 223514,
       "game_name": "Corgi Cove",
       "file": "missing/C/223514-corgi-cove.json"
+    },
+    {
+      "igdb_id": 63525,
+      "game_name": "Corgi Flop",
+      "file": "missing/C/63525-corgi-flop.json"
     },
     {
       "igdb_id": 273372,
@@ -285155,6 +285195,11 @@
       "igdb_id": 130962,
       "game_name": "Dānshēngǒu de Zuìhòu Jīhuì",
       "file": "missing/D/130962-danshengou-de-zuihou-jihui.json"
+    },
+    {
+      "igdb_id": 63511,
+      "game_name": "Dante: RPG Construction Tool",
+      "file": "missing/D/63511-dante-rpg-construction-tool.json"
     },
     {
       "igdb_id": 258456,
@@ -376952,6 +376997,11 @@
       "file": "missing/E/62461-el-chavo-kart.json"
     },
     {
+      "igdb_id": 63608,
+      "game_name": "El Chupacabra",
+      "file": "missing/E/63608-el-chupacabra.json"
+    },
+    {
       "igdb_id": 13629,
       "game_name": "El Cid",
       "file": "missing/E/13629-el-cid.json"
@@ -377210,6 +377260,11 @@
       "igdb_id": 321842,
       "game_name": "El Séquito de Leonor de Aquitania",
       "file": "missing/E/321842-el-sequito-de-leonor-de-aquitania.json"
+    },
+    {
+      "igdb_id": 63592,
+      "game_name": "El Shaddai for Android Vol. 1",
+      "file": "missing/E/63592-el-shaddai-for-android-vol-1.json"
     },
     {
       "igdb_id": 212311,
@@ -513677,6 +513732,11 @@
       "file": "missing/G/235680-grievous-survivors.json"
     },
     {
+      "igdb_id": 63585,
+      "game_name": "Griff the Winged Lion",
+      "file": "missing/G/63585-griff-the-winged-lion.json"
+    },
+    {
       "igdb_id": 257575,
       "game_name": "Griff Wild",
       "file": "missing/G/257575-griff-wild.json"
@@ -541232,6 +541292,11 @@
       "file": "missing/H/380987-height.json"
     },
     {
+      "igdb_id": 63528,
+      "game_name": "Heileen",
+      "file": "missing/H/63528-heileen.json"
+    },
+    {
       "igdb_id": 17441,
       "game_name": "Heileen 1: Sail Away",
       "file": "missing/H/17441-heileen-1-sail-away.json"
@@ -555220,6 +555285,11 @@
       "igdb_id": 323930,
       "game_name": "Hidden Cursed Crypt",
       "file": "missing/H/323930-hidden-cursed-crypt.json"
+    },
+    {
+      "igdb_id": 63521,
+      "game_name": "Hidden Dawn",
+      "file": "missing/H/63521-hidden-dawn.json"
     },
     {
       "igdb_id": 111561,
@@ -577840,6 +577910,11 @@
       "igdb_id": 255728,
       "game_name": "Hungry Corgi",
       "file": "missing/H/255728-hungry-corgi.json"
+    },
+    {
+      "igdb_id": 63527,
+      "game_name": "Hungry Corgis",
+      "file": "missing/H/63527-hungry-corgis.json"
     },
     {
       "igdb_id": 171494,
@@ -638670,6 +638745,11 @@
       "igdb_id": 345505,
       "game_name": "Karts With Chat",
       "file": "missing/K/345505-karts-with-chat.json"
+    },
+    {
+      "igdb_id": 63607,
+      "game_name": "Kartuga",
+      "file": "missing/K/63607-kartuga.json"
     },
     {
       "igdb_id": 195552,
@@ -714875,6 +714955,11 @@
       "igdb_id": 155571,
       "game_name": "Magic Defense",
       "file": "missing/M/155571-magic-defense.json"
+    },
+    {
+      "igdb_id": 63519,
+      "game_name": "Magic Destiny",
+      "file": "missing/M/63519-magic-destiny.json"
     },
     {
       "igdb_id": 189309,
@@ -807837,6 +807922,11 @@
       "file": "missing/M/305867-myror-i-brallan.json"
     },
     {
+      "igdb_id": 63517,
+      "game_name": "MyRoyalCorgi",
+      "file": "missing/M/63517-myroyalcorgi.json"
+    },
+    {
       "igdb_id": 54223,
       "game_name": "MyRPG",
       "file": "missing/M/54223-myrpg.json"
@@ -836130,6 +836220,11 @@
       "igdb_id": 278844,
       "game_name": "Nintendogs: Shiba & Friends",
       "file": "missing/N/278844-nintendogs-shiba-and-friends.json"
+    },
+    {
+      "igdb_id": 63587,
+      "game_name": "Nintendoji",
+      "file": "missing/N/63587-nintendoji.json"
     },
     {
       "igdb_id": 410709,
@@ -885222,6 +885317,11 @@
       "file": "missing/P/323598-pareicopse.json"
     },
     {
+      "igdb_id": 63594,
+      "game_name": "Pareidolia",
+      "file": "missing/P/63594-pareidolia.json"
+    },
+    {
       "igdb_id": 143343,
       "game_name": "Pareidolia (or, Why I Saw Pac-Man Everywhere In 2020)",
       "file": "missing/P/143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json"
@@ -898360,6 +898460,11 @@
       "igdb_id": 28832,
       "game_name": "Phantasma Magic: Deluxe",
       "file": "missing/P/28832-phantasma-magic-deluxe.json"
+    },
+    {
+      "igdb_id": 63606,
+      "game_name": "Phantasmaburbia",
+      "file": "missing/P/63606-phantasmaburbia.json"
     },
     {
       "igdb_id": 221,
@@ -967552,6 +967657,11 @@
       "file": "missing/R/44505-r-type-tactics-ii-operation-bitter-chocolate.json"
     },
     {
+      "igdb_id": 63513,
+      "game_name": "R: Rock'n Riders",
+      "file": "missing/R/63513-r-rockn-riders.json"
+    },
+    {
       "igdb_id": 54928,
       "game_name": "R?MJ: The Mystery Hospital",
       "file": "missing/R/54928-r-mj-the-mystery-hospital.json"
@@ -1020822,9 +1020932,24 @@
       "file": "missing/R/151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json"
     },
     {
+      "igdb_id": 63512,
+      "game_name": "RPG Tsukuuru 95",
+      "file": "missing/R/63512-rpg-tsukuuru-95.json"
+    },
+    {
       "igdb_id": 49795,
       "game_name": "RPG Tsukuuru Advance",
       "file": "missing/R/49795-rpg-tsukuuru-advance.json"
+    },
+    {
+      "igdb_id": 63508,
+      "game_name": "RPG Tsukuuru DS+: Create the New World",
+      "file": "missing/R/63508-rpg-tsukuuru-ds-create-the-new-world.json"
+    },
+    {
+      "igdb_id": 63509,
+      "game_name": "RPG Tsukuuru: Super Dante",
+      "file": "missing/R/63509-rpg-tsukuuru-super-dante.json"
     },
     {
       "igdb_id": 17654,
@@ -1034900,6 +1035025,11 @@
       "igdb_id": 222246,
       "game_name": "Sangoku Rensenki: Omoide Gaeshi + Gakuen Rensenki",
       "file": "missing/S/222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json"
+    },
+    {
+      "igdb_id": 63603,
+      "game_name": "Sangoku Rensenki: Otome no Heihou!",
+      "file": "missing/S/63603-sangoku-rensenki-otome-no-heihou.json"
     },
     {
       "igdb_id": 221596,
@@ -1077122,6 +1077252,11 @@
       "file": "missing/S/203082-simple-1500-series-vol-87-the-kyoutei.json"
     },
     {
+      "igdb_id": 63619,
+      "game_name": "Simple 1500 Series Vol. 88: The Gal Mahjong",
+      "file": "missing/S/63619-simple-1500-series-vol-88-the-gal-mahjong.json"
+    },
+    {
       "igdb_id": 203119,
       "game_name": "Simple 1500 Series Vol. 91: The Gambler - Honoo no Tobaku Densetsu",
       "file": "missing/S/203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json"
@@ -1077552,9 +1077687,19 @@
       "file": "missing/S/203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json"
     },
     {
+      "igdb_id": 63602,
+      "game_name": "Simple 2000 Ultimate Vol. 10: Love Songs - Idol ga Classmate",
+      "file": "missing/S/63602-simple-2000-ultimate-vol-10-love-songs-idol-ga-classmate.json"
+    },
+    {
       "igdb_id": 203397,
       "game_name": "Simple 2500 Series Portable Vol. 7: The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006",
       "file": "missing/S/203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json"
+    },
+    {
+      "igdb_id": 63618,
+      "game_name": "Simple 2500 Series Portable Vol. 8: The Doko Demo Gal Mahjong",
+      "file": "missing/S/63618-simple-2500-series-portable-vol-8-the-doko-demo-gal-mahjong.json"
     },
     {
       "igdb_id": 203398,
@@ -1077767,9 +1077912,24 @@
       "file": "missing/S/266677-simple-ds-series-vol-39-the-shouboutai.json"
     },
     {
+      "igdb_id": 63621,
+      "game_name": "Simple DS Series Vol. 43: The Host Shiyouze! DX Knight King",
+      "file": "missing/S/63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json"
+    },
+    {
+      "igdb_id": 63620,
+      "game_name": "Simple DS Series Vol. 44: The Gal Mahjong",
+      "file": "missing/S/63620-simple-ds-series-vol-44-the-gal-mahjong.json"
+    },
+    {
       "igdb_id": 203403,
       "game_name": "Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training",
       "file": "missing/S/203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json"
+    },
+    {
+      "igdb_id": 63622,
+      "game_name": "Simple DS Series Vol.48: The Saibanin - 1-tsu no Shinjitsu, 6-tsu no Kotae",
+      "file": "missing/S/63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json"
     },
     {
       "igdb_id": 143982,
@@ -1093757,6 +1093917,11 @@
       "file": "missing/S/197209-smooth-operators-2.json"
     },
     {
+      "igdb_id": 63612,
+      "game_name": "Smooth Operators: Call Center Chaos",
+      "file": "missing/S/63612-smooth-operators-call-center-chaos.json"
+    },
+    {
       "igdb_id": 130668,
       "game_name": "Smoothcade",
       "file": "missing/S/130668-smoothcade.json"
@@ -1099845,6 +1100010,11 @@
       "igdb_id": 65014,
       "game_name": "Soccer Tsuku DS: World Challenge 2010",
       "file": "missing/S/65014-soccer-tsuku-ds-world-challenge-2010.json"
+    },
+    {
+      "igdb_id": 63514,
+      "game_name": "Soccer Up 3D",
+      "file": "missing/S/63514-soccer-up-3d.json"
     },
     {
       "igdb_id": 85381,
@@ -1119660,6 +1119830,11 @@
       "igdb_id": 365867,
       "game_name": "Space Way: Echo of the Galaxy",
       "file": "missing/S/365867-space-way-echo-of-the-galaxy.json"
+    },
+    {
+      "igdb_id": 63518,
+      "game_name": "Space Whale",
+      "file": "missing/S/63518-space-whale.json"
     },
     {
       "igdb_id": 117323,
@@ -1201182,6 +1201357,11 @@
       "file": "missing/T/236534-tangy-td.json"
     },
     {
+      "igdb_id": 63614,
+      "game_name": "Tanigawa Kouji no Shogi Shinan",
+      "file": "missing/T/63614-tanigawa-kouji-no-shogi-shinan.json"
+    },
+    {
       "igdb_id": 41382,
       "game_name": "Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi",
       "file": "missing/T/41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json"
@@ -1246292,6 +1246472,11 @@
       "file": "missing/T/47322-the-king-of-fighters-maximum-impact-maniax.json"
     },
     {
+      "igdb_id": 63516,
+      "game_name": "The King of Fighters: NESTS Collection",
+      "file": "missing/T/63516-the-king-of-fighters-nests-collection.json"
+    },
+    {
       "igdb_id": 79083,
       "game_name": "The King of Fighters: Sky Stage",
       "file": "missing/T/79083-the-king-of-fighters-sky-stage.json"
@@ -1259295,6 +1259480,11 @@
       "igdb_id": 68343,
       "game_name": "The Oregon Trail: 5th Edition",
       "file": "missing/T/68343-the-oregon-trail-5th-edition.json"
+    },
+    {
+      "igdb_id": 63611,
+      "game_name": "The Oregon Trail: American Settler",
+      "file": "missing/T/63611-the-oregon-trail-american-settler.json"
     },
     {
       "igdb_id": 247177,
@@ -1320202,6 +1320392,11 @@
       "file": "missing/T/76608-trailer-park-boys-grea-y-money.json"
     },
     {
+      "igdb_id": 63615,
+      "game_name": "Trailer Park King 3DD",
+      "file": "missing/T/63615-trailer-park-king-3dd.json"
+    },
+    {
       "igdb_id": 85803,
       "game_name": "Trailer Park King Episode 2",
       "file": "missing/T/85803-trailer-park-king-episode-2.json"
@@ -1366932,6 +1367127,11 @@
       "file": "missing/V/184778-vampires-the-new-birth.json"
     },
     {
+      "igdb_id": 63616,
+      "game_name": "Vampires!",
+      "file": "missing/V/63616-vampires.json"
+    },
+    {
       "igdb_id": 169435,
       "game_name": "Vampires' Melody",
       "file": "missing/V/169435-vampires-melody.json"
@@ -1370150,6 +1370350,11 @@
       "igdb_id": 234593,
       "game_name": "Venus Flytraps",
       "file": "missing/V/234593-venus-flytraps.json"
+    },
+    {
+      "igdb_id": 63523,
+      "game_name": "Venus Hostage",
+      "file": "missing/V/63523-venus-hostage.json"
     },
     {
       "igdb_id": 215674,
@@ -1379995,6 +1380200,11 @@
       "igdb_id": 53154,
       "game_name": "Voodoo Chronicles: First Sign - Collector's Edition",
       "file": "missing/V/53154-voodoo-chronicles-first-sign-collectors-edition.json"
+    },
+    {
+      "igdb_id": 63601,
+      "game_name": "Voodoo Chronicles: The First Sign",
+      "file": "missing/V/63601-voodoo-chronicles-the-first-sign.json"
     },
     {
       "igdb_id": 24762,
@@ -1410462,14 +1410672,44 @@
       "file": "missing/W/37767-winning-post-2.json"
     },
     {
+      "igdb_id": 63600,
+      "game_name": "Winning Post 2: Final '97",
+      "file": "missing/W/63600-winning-post-2-final-97.json"
+    },
+    {
       "igdb_id": 79807,
       "game_name": "Winning Post 2: Program '96",
       "file": "missing/W/79807-winning-post-2-program-96.json"
     },
     {
+      "igdb_id": 63599,
+      "game_name": "Winning Post 3",
+      "file": "missing/W/63599-winning-post-3.json"
+    },
+    {
+      "igdb_id": 63598,
+      "game_name": "Winning Post 3: Program '98",
+      "file": "missing/W/63598-winning-post-3-program-98.json"
+    },
+    {
       "igdb_id": 78744,
       "game_name": "Winning Post 4",
       "file": "missing/W/78744-winning-post-4.json"
+    },
+    {
+      "igdb_id": 63597,
+      "game_name": "Winning Post 4: Maximum",
+      "file": "missing/W/63597-winning-post-4-maximum.json"
+    },
+    {
+      "igdb_id": 63593,
+      "game_name": "Winning Post 4: Maximum 2001",
+      "file": "missing/W/63593-winning-post-4-maximum-2001.json"
+    },
+    {
+      "igdb_id": 63595,
+      "game_name": "Winning Post 4: Program 2000",
+      "file": "missing/W/63595-winning-post-4-program-2000.json"
     },
     {
       "igdb_id": 354943,
@@ -1410495,6 +1410735,11 @@
       "igdb_id": 65335,
       "game_name": "Winning Post 7 2012",
       "file": "missing/W/65335-winning-post-7-2012.json"
+    },
+    {
+      "igdb_id": 63604,
+      "game_name": "Winning Post 7 2013",
+      "file": "missing/W/63604-winning-post-7-2013.json"
     },
     {
       "igdb_id": 7484,
@@ -1410530,6 +1410775,11 @@
       "igdb_id": 201030,
       "game_name": "Winning Post 9: 2022",
       "file": "missing/W/201030-winning-post-9-2022.json"
+    },
+    {
+      "igdb_id": 63591,
+      "game_name": "Winning Post EX",
+      "file": "missing/W/63591-winning-post-ex.json"
     },
     {
       "igdb_id": 59214,
