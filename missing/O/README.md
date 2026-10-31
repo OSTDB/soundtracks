@@ -3578,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Attack | 23944 | [23944-orc-attack.json](./23944-orc-attack.json) |
 | Orc Attack: Flatulent Rebellion | 7044 | [7044-orc-attack-flatulent-rebellion.json](./7044-orc-attack-flatulent-rebellion.json) |
 | Orc Colony | 119875 | [119875-orc-colony.json](./119875-orc-colony.json) |
+| Orc Dungeon | 115294 | [115294-orc-dungeon.json](./115294-orc-dungeon.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Hunter VR | 32275 | [32275-orc-hunter-vr.json](./32275-orc-hunter-vr.json) |
 | Orc Incremental | 399030 | [399030-orc-incremental.json](./399030-orc-incremental.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osteya | 34427 | [34427-osteya.json](./34427-osteya.json) |
 | Osteya: Adventures | 102096 | [102096-osteya-adventures.json](./102096-osteya-adventures.json) |
+| Ostranauts | 115299 | [115299-ostranauts.json](./115299-ostranauts.json) |
 | Ostrich Among Us | 98892 | [98892-ostrich-among-us.json](./98892-ostrich-among-us.json) |
 | Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
 | Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
