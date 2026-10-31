@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevin Sheedy's AFL Coach 2002 | 79667 | [79667-kevin-sheedys-afl-coach-2002.json](./79667-kevin-sheedys-afl-coach-2002.json) |
 | Kevin Toms Football Star Manager | 362012 | [362012-kevin-toms-football-star-manager.json](./362012-kevin-toms-football-star-manager.json) |
 | Kevin Toms World Football Cup | 100887 | [100887-kevin-toms-world-football-cup.json](./100887-kevin-toms-world-football-cup.json) |
+| Kevin Van Dam Fishing | 91019 | [91019-kevin-van-dam-fishing.json](./91019-kevin-van-dam-fishing.json) |
 | Kevin's Adventure | 174713 | [174713-kevins-adventure.json](./174713-kevins-adventure.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
