@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Race | 286644 | [286644-neon-race.json](./286644-neon-race.json) |
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
+| Neon Rage | 90333 | [90333-neon-rage.json](./90333-neon-rage.json) |
 | Neon Raiders | 363147 | [363147-neon-raiders.json](./363147-neon-raiders.json) |
 | Neon Rain | 305125 | [305125-neon-rain.json](./305125-neon-rain.json) |
 | Neon Rhythm | 359883 | [359883-neon-rhythm.json](./359883-neon-rhythm.json) |
@@ -6400,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing Together | 285162 | [285162-nothing-together.json](./285162-nothing-together.json) |
 | Nothing_Matters | 230439 | [230439-nothing-matters.json](./230439-nothing-matters.json) |
 | Nothing.SeriOS | 319035 | [319035-nothing-serios.json](./319035-nothing-serios.json) |
+| NothingElse | 90315 | [90315-nothingelse.json](./90315-nothingelse.json) |
 | Nothmere | 387715 | [387715-nothmere.json](./387715-nothmere.json) |
 | NotHog | 275673 | [275673-nothog.json](./275673-nothog.json) |
 | Nothorian | 260269 | [260269-nothorian.json](./260269-nothorian.json) |
