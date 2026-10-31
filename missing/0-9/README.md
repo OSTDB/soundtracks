@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Puzzle: K-ON! Edition | 279669 | [279669-2048-puzzle-k-on-edition.json](./279669-2048-puzzle-k-on-edition.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Snake | 315813 | [315813-2048-snake.json](./315813-2048-snake.json) |
+| 2048 Solitaire | 104352 | [104352-2048-solitaire.json](./104352-2048-solitaire.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
 | 2048-F8 | 268503 | [268503-2048-f8.json](./268503-2048-f8.json) |
 | 2048: Bee the Swarm | 58695 | [58695-2048-bee-the-swarm.json](./58695-2048-bee-the-swarm.json) |
