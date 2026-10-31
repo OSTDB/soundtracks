@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Force | 254407 | [254407-fallen-force.json](./254407-fallen-force.json) |
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
 | Fallen from the sky | 155885 | [155885-fallen-from-the-sky.json](./155885-fallen-from-the-sky.json) |
+| Fallen Frontier | 92261 | [92261-fallen-frontier.json](./92261-fallen-frontier.json) |
 | Fallen GF | 297733 | [297733-fallen-gf.json](./297733-fallen-gf.json) |
 | Fallen Girl | 178892 | [178892-fallen-girl.json](./178892-fallen-girl.json) |
 | Fallen Gods | 58297 | [58297-fallen-gods.json](./58297-fallen-gods.json) |
