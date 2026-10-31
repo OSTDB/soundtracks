@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon 1813 | 62209 | [62209-napoleon-1813.json](./62209-napoleon-1813.json) |
 | Napoleon at Waterloo | 25092 | [25092-napoleon-at-waterloo.json](./25092-napoleon-at-waterloo.json) |
 | Napoleon Dynamite: The Game | 2824 | [2824-napoleon-dynamite-the-game.json](./2824-napoleon-dynamite-the-game.json) |
+| Napoleon in Russia | 107539 | [107539-napoleon-in-russia.json](./107539-napoleon-in-russia.json) |
 | Napoleon Maiden | 150964 | [150964-napoleon-maiden.json](./150964-napoleon-maiden.json) |
 | Napoleon Solitaire | 132169 | [132169-napoleon-solitaire.json](./132169-napoleon-solitaire.json) |
 | Napoleon: Rule of Iron | 358985 | [358985-napoleon-rule-of-iron.json](./358985-napoleon-rule-of-iron.json) |
@@ -6661,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Plant 2024 | 308267 | [308267-nuclear-plant-2024.json](./308267-nuclear-plant-2024.json) |
 | Nuclear Platypus Adventure | 179141 | [179141-nuclear-platypus-adventure.json](./179141-nuclear-platypus-adventure.json) |
 | Nuclear Power Station Creator | 111595 | [111595-nuclear-power-station-creator.json](./111595-nuclear-power-station-creator.json) |
+| Nuclear Powered Toaster | 107484 | [107484-nuclear-powered-toaster.json](./107484-nuclear-powered-toaster.json) |
 | Nuclear Rancher | 110914 | [110914-nuclear-rancher.json](./110914-nuclear-rancher.json) |
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
