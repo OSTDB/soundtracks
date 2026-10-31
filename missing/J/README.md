@@ -3134,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpng Disable | 329193 | [329193-jumpng-disable.json](./329193-jumpng-disable.json) |
 | Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
 | JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
+| JumpoPitec | 111968 | [111968-jumpopitec.json](./111968-jumpopitec.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | Jumpox | 243735 | [243735-jumpox.json](./243735-jumpox.json) |
 | Jumps | 30790 | [30790-jumps.json](./30790-jumps.json) |
