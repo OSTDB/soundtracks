@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Chaos | 140701 | [140701-taxi-chaos.json](./140701-taxi-chaos.json) |
 | Taxi City | 127917 | [127917-taxi-city.json](./127917-taxi-city.json) |
 | Taxi Crew Simulator | 418319 | [418319-taxi-crew-simulator.json](./418319-taxi-crew-simulator.json) |
+| Taxi Driver | 91672 | [91672-taxi-driver.json](./91672-taxi-driver.json) |
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
 | Taxi Driver Simulator 2024 | 270476 | [270476-taxi-driver-simulator-2024.json](./270476-taxi-driver-simulator-2024.json) |
@@ -2588,6 +2589,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi of the Asteroids | 242080 | [242080-taxi-of-the-asteroids.json](./242080-taxi-of-the-asteroids.json) |
 | Taxi Racer | 57586 | [57586-taxi-racer.json](./57586-taxi-racer.json) |
 | Taxi Racer Gold | 92229 | [92229-taxi-racer-gold.json](./92229-taxi-racer-gold.json) |
+| Taxi Racer London 2 | 91574 | [91574-taxi-racer-london-2.json](./91574-taxi-racer-london-2.json) |
+| Taxi Racer New York 2 | 91572 | [91572-taxi-racer-new-york-2.json](./91572-taxi-racer-new-york-2.json) |
 | Taxi Racing Challenge | 237656 | [237656-taxi-racing-challenge.json](./237656-taxi-racing-challenge.json) |
 | Taxi Rider | 43457 | [43457-taxi-rider.json](./43457-taxi-rider.json) |
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
@@ -24475,6 +24478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower | 241242 | [241242-tower.json](./241242-tower.json) |
 | Tower | 287566 | [287566-tower.json](./287566-tower.json) |
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
+| Tower | 91640 | [91640-tower.json](./91640-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
 | Tower 57 | 28302 | [28302-tower-57.json](./28302-tower-57.json) |
 | Tower Accelerator | 379404 | [379404-tower-accelerator.json](./379404-tower-accelerator.json) |
