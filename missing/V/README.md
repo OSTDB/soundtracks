@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
+| Vanguardian | 103769 | [103769-vanguardian.json](./103769-vanguardian.json) |
 | Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
 | Vanildo's Journey | 189305 | [189305-vanildos-journey.json](./189305-vanildos-journey.json) |
 | Vanilla | 399755 | [399755-vanilla.json](./399755-vanilla.json) |
@@ -1619,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viaja Baraja | 241256 | [241256-viaja-baraja.json](./241256-viaja-baraja.json) |
 | Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
 | Viaje al Centro de la Tierra: Versión Extendida | 380386 | [380386-viaje-al-centro-de-la-tierra-version-extendida.json](./380386-viaje-al-centro-de-la-tierra-version-extendida.json) |
+| Viaje De Palabra | 103745 | [103745-viaje-de-palabra.json](./103745-viaje-de-palabra.json) |
 | Vianiato PopOut | 334757 | [334757-vianiato-popout.json](./334757-vianiato-popout.json) |
 | Viarkanoid | 89373 | [89373-viarkanoid.json](./89373-viarkanoid.json) |
 | Vib-Ribbon | 9676 | [9676-vib-ribbon.json](./9676-vib-ribbon.json) |
@@ -1939,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking City Builder | 138984 | [138984-viking-city-builder.json](./138984-viking-city-builder.json) |
 | Viking City Tycoon | 317441 | [317441-viking-city-tycoon.json](./317441-viking-city-tycoon.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
+| Viking Days | 103756 | [103756-viking-days.json](./103756-viking-days.json) |
 | Viking Days Remaster | 327649 | [327649-viking-days-remaster.json](./327649-viking-days-remaster.json) |
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
 | Viking Escape | 30559 | [30559-viking-escape.json](./30559-viking-escape.json) |
@@ -3300,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vorzain | 413494 | [413494-vorzain.json](./413494-vorzain.json) |
 | Vos en Haas: Het ij van uil | 78645 | [78645-vos-en-haas-het-ij-van-uil.json](./78645-vos-en-haas-het-ij-van-uil.json) |
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
+| Vosaria | 103779 | [103779-vosaria.json](./103779-vosaria.json) |
 | Vosaria: Lair of the Forgotten | 118576 | [118576-vosaria-lair-of-the-forgotten.json](./118576-vosaria-lair-of-the-forgotten.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vossarium | 400517 | [400517-vossarium.json](./400517-vossarium.json) |
