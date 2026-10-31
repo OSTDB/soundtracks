@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9634,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
 | Blockd Blast | 239239 | [239239-blockd-blast.json](./239239-blockd-blast.json) |
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
+| BlockDodge | 106882 | [106882-blockdodge.json](./106882-blockdodge.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
 | Blocked In | 278559 | [278559-blocked-in.json](./278559-blocked-in.json) |
@@ -10575,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
 | Blue Rabbit | 149975 | [149975-blue-rabbit.json](./149975-blue-rabbit.json) |
 | Blue rabbit a world of shapes and lost colors | 195263 | [195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json](./195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json) |
+| Blue red aaaargh | 106837 | [106837-blue-red-aaaargh.json](./106837-blue-red-aaaargh.json) |
 | Blue Reflection | 25708 | [25708-blue-reflection.json](./25708-blue-reflection.json) |
 | Blue Reflection | 396236 | [396236-blue-reflection.json](./396236-blue-reflection.json) |
 | Blue Reflection Quartet | 396199 | [396199-blue-reflection-quartet.json](./396199-blue-reflection-quartet.json) |
