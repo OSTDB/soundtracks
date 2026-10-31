@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakaru: Lendas Indígenas Brasileiras | 289278 | [289278-bakaru-lendas-indigenas-brasileiras.json](./289278-bakaru-lendas-indigenas-brasileiras.json) |
 | BakaSonic | 323034 | [323034-bakasonic.json](./323034-bakasonic.json) |
 | Bakatonosama Mahjong Manyuki | 47575 | [47575-bakatonosama-mahjong-manyuki.json](./47575-bakatonosama-mahjong-manyuki.json) |
+| Bake 'n Switch | 120548 | [120548-bake-n-switch.json](./120548-bake-n-switch.json) |
 | Bake Care | 177931 | [177931-bake-care.json](./177931-bake-care.json) |
 | Bake it Till' You Make it! | 210544 | [210544-bake-it-till-you-make-it.json](./210544-bake-it-till-you-make-it.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
@@ -9684,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockus | 327456 | [327456-blockus.json](./327456-blockus.json) |
 | Blockus' Adventures | 118344 | [118344-blockus-adventures.json](./118344-blockus-adventures.json) |
 | Blockville | 195449 | [195449-blockville.json](./195449-blockville.json) |
+| Blockwars | 120523 | [120523-blockwars.json](./120523-blockwars.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
 | Blockwick 2 | 35038 | [35038-blockwick-2.json](./35038-blockwick-2.json) |
 | BlockWorld | 155318 | [155318-blockworld.json](./155318-blockworld.json) |
@@ -12209,6 +12212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Land | 77405 | [77405-bot-land.json](./77405-bot-land.json) |
 | Bot Net: Ramshackle Robotics | 126893 | [126893-bot-net-ramshackle-robotics.json](./126893-bot-net-ramshackle-robotics.json) |
 | Bot Patrol | 291040 | [291040-bot-patrol.json](./291040-bot-patrol.json) |
+| Bot Rods | 120522 | [120522-bot-rods.json](./120522-bot-rods.json) |
 | Bot Shot | 310460 | [310460-bot-shot.json](./310460-bot-shot.json) |
 | Bot Slash Bot | 361871 | [361871-bot-slash-bot.json](./361871-bot-slash-bot.json) |
 | Bot Tales: The Crashed | 104048 | [104048-bot-tales-the-crashed.json](./104048-bot-tales-the-crashed.json) |
@@ -16254,6 +16258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator City Ride | 210909 | [210909-bus-simulator-city-ride.json](./210909-bus-simulator-city-ride.json) |
 | Bus Simulator Driver 2024: City Zone | 315933 | [315933-bus-simulator-driver-2024-city-zone.json](./315933-bus-simulator-driver-2024-city-zone.json) |
+| Bus Simulator India 2018 | 120524 | [120524-bus-simulator-india-2018.json](./120524-bus-simulator-india-2018.json) |
 | Bus Simulator Offroad | 413059 | [413059-bus-simulator-offroad.json](./413059-bus-simulator-offroad.json) |
 | Bus Simulator Vietnam | 384614 | [384614-bus-simulator-vietnam.json](./384614-bus-simulator-vietnam.json) |
 | Bus Simulator: Car Driving | 231770 | [231770-bus-simulator-car-driving.json](./231770-bus-simulator-car-driving.json) |
