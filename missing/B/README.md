@@ -14791,6 +14791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Marvelous: Time Athletic - Course 3 | 178389 | [178389-bs-marvelous-time-athletic-course-3.json](./178389-bs-marvelous-time-athletic-course-3.json) |
 | BS Marvelous: Time Athletic - Course 4 | 178390 | [178390-bs-marvelous-time-athletic-course-4.json](./178390-bs-marvelous-time-athletic-course-4.json) |
 | BS Monopoly: Kouza Boardwalk he no Michi | 134495 | [134495-bs-monopoly-kouza-boardwalk-he-no-michi.json](./134495-bs-monopoly-kouza-boardwalk-he-no-michi.json) |
+| BS Nichibutsu Mahjong | 98197 | [98197-bs-nichibutsu-mahjong.json](./98197-bs-nichibutsu-mahjong.json) |
 | BS Nichibutsu Mahjong: Renshuu Mahjong - Ichimantou | 179911 | [179911-bs-nichibutsu-mahjong-renshuu-mahjong-ichimantou.json](./179911-bs-nichibutsu-mahjong-renshuu-mahjong-ichimantou.json) |
 | BS Nichibutsu Mahjong: Renshuu Mahjong - Nimantou | 179912 | [179912-bs-nichibutsu-mahjong-renshuu-mahjong-nimantou.json](./179912-bs-nichibutsu-mahjong-renshuu-mahjong-nimantou.json) |
 | BS Parlor! Parlor! | 134433 | [134433-bs-parlor-parlor.json](./134433-bs-parlor-parlor.json) |
