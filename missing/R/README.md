@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar Warfare | 74131 | [74131-radar-warfare.json](./74131-radar-warfare.json) |
 | Radar Zone | 281861 | [281861-radar-zone.json](./281861-radar-zone.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
+| Radballs | 64633 | [64633-radballs.json](./64633-radballs.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
@@ -6267,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhentsu | 193642 | [193642-rhentsu.json](./193642-rhentsu.json) |
 | Rheum | 101269 | [101269-rheum.json](./101269-rheum.json) |
 | RHI Roller Hockey '95 | 42468 | [42468-rhi-roller-hockey-95.json](./42468-rhi-roller-hockey-95.json) |
+| Rhianna Ford & The Da Vinci Letter | 64620 | [64620-rhianna-ford-and-the-da-vinci-letter.json](./64620-rhianna-ford-and-the-da-vinci-letter.json) |
 | Rhiannon: Curse of the Four Branches | 17349 | [17349-rhiannon-curse-of-the-four-branches.json](./17349-rhiannon-curse-of-the-four-branches.json) |
 | Rhino Express | 357000 | [357000-rhino-express.json](./357000-rhino-express.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
