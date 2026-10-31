@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
 | Easter Swap - Coloring Holiday | 90215 | [90215-easter-swap-coloring-holiday.json](./90215-easter-swap-coloring-holiday.json) |
+| Easter Sweeper | 89618 | [89618-easter-sweeper.json](./89618-easter-sweeper.json) |
 | Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
 | Eastern Block Summer | 410735 | [410735-eastern-block-summer.json](./410735-eastern-block-summer.json) |
 | Eastern Cuisine Tycoon | 318947 | [318947-eastern-cuisine-tycoon.json](./318947-eastern-cuisine-tycoon.json) |
@@ -2270,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Hitch | 219056 | [219056-elevator-hitch.json](./219056-elevator-hitch.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
+| Elevator Ritual | 89611 | [89611-elevator-ritual.json](./89611-elevator-ritual.json) |
 | Elevator: Source | 381322 | [381322-elevator-source.json](./381322-elevator-source.json) |
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
@@ -3008,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Takeover | 173015 | [173015-empire-takeover.json](./173015-empire-takeover.json) |
 | Empire Warriors TD | 104587 | [104587-empire-warriors-td.json](./104587-empire-warriors-td.json) |
 | Empire Water Works | 407594 | [407594-empire-water-works.json](./407594-empire-water-works.json) |
+| Empire XP | 89590 | [89590-empire-xp.json](./89590-empire-xp.json) |
 | Empire Z | 106738 | [106738-empire-z.json](./106738-empire-z.json) |
 | Empire: Four Kingdoms | 38893 | [38893-empire-four-kingdoms.json](./38893-empire-four-kingdoms.json) |
 | Empire: Sound of the North | 311511 | [311511-empire-sound-of-the-north.json](./311511-empire-sound-of-the-north.json) |
