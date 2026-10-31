@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2718,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2015 | 34798 | [34798-baseball-mogul-2015.json](./34798-baseball-mogul-2015.json) |
 | Baseball Mogul 2018 | 99042 | [99042-baseball-mogul-2018.json](./99042-baseball-mogul-2018.json) |
 | Baseball Mogul 2021 | 144946 | [144946-baseball-mogul-2021.json](./144946-baseball-mogul-2021.json) |
+| Baseball Mogul 99 | 80774 | [80774-baseball-mogul-99.json](./80774-baseball-mogul-99.json) |
 | Baseball Mogul Diamond | 31952 | [31952-baseball-mogul-diamond.json](./31952-baseball-mogul-diamond.json) |
 | Baseball Pro's | 279700 | [279700-baseball-pros.json](./279700-baseball-pros.json) |
 | Baseball Scouter | 379699 | [379699-baseball-scouter.json](./379699-baseball-scouter.json) |
@@ -6506,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Unknown: A Matter of Time - Collector's Edition | 417302 | [417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json](./417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json) |
 | Beyond the Veil | 132988 | [132988-beyond-the-veil.json](./132988-beyond-the-veil.json) |
+| Beyond the Veil | 80859 | [80859-beyond-the-veil.json](./80859-beyond-the-veil.json) |
 | Beyond the Veil: A Kitty Cat Mystery Adventure | 249403 | [249403-beyond-the-veil-a-kitty-cat-mystery-adventure.json](./249403-beyond-the-veil-a-kitty-cat-mystery-adventure.json) |
 | Beyond the Void | 72375 | [72375-beyond-the-void.json](./72375-beyond-the-void.json) |
 | Beyond the Wall | 219941 | [219941-beyond-the-wall.json](./219941-beyond-the-wall.json) |
@@ -8299,6 +8302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Mist | 51515 | [51515-black-mist.json](./51515-black-mist.json) |
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
+| Black Moon | 80958 | [80958-black-moon.json](./80958-black-moon.json) |
 | Black Moon Chronicles | 25056 | [25056-black-moon-chronicles.json](./25056-black-moon-chronicles.json) |
 | Black Morph | 165519 | [165519-black-morph.json](./165519-black-morph.json) |
 | Black Mountain Kings | 272645 | [272645-black-mountain-kings.json](./272645-black-mountain-kings.json) |
@@ -9842,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloclash | 389045 | [389045-bloclash.json](./389045-bloclash.json) |
 | Blocnog | 101886 | [101886-blocnog.json](./101886-blocnog.json) |
 | Blocos Mágicos | 359754 | [359754-blocos-magicos.json](./359754-blocos-magicos.json) |
+| Blocster | 80987 | [80987-blocster.json](./80987-blocster.json) |
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
 | Blodia | 38100 | [38100-blodia.json](./38100-blodia.json) |
 | Blodia Land | 48542 | [48542-blodia-land.json](./48542-blodia-land.json) |
