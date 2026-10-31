@@ -7846,6 +7846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Ciel Fledge | 75431 | [75431-ciel-fledge.json](./75431-ciel-fledge.json) |
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
+| Ciel Nosurge Offline: Ushinawareta Hoshi he Sasagu Uta | 104966 | [104966-ciel-nosurge-offline-ushinawareta-hoshi-he-sasagu-uta.json](./104966-ciel-nosurge-offline-ushinawareta-hoshi-he-sasagu-uta.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Shi Agent Pack | 89869 | [89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json](./89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
 | CielClou | 219103 | [219103-cielclou.json](./219103-cielclou.json) |
@@ -10100,6 +10101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize - Bouquet of Rainbows | 41822 | [41822-code-realize-bouquet-of-rainbows.json](./41822-code-realize-bouquet-of-rainbows.json) |
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
+| Code: Realize - Wintertide Miracles | 105000 | [105000-code-realize-wintertide-miracles.json](./105000-code-realize-wintertide-miracles.json) |
 | Code: Realize ~Bouquet of Rainbows~ Limited Edition | 121210 | [121210-code-realize-bouquet-of-rainbows-limited-edition.json](./121210-code-realize-bouquet-of-rainbows-limited-edition.json) |
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
 | Code: Realize ~Guardian of Rebirth~ Collector's Edition | 122652 | [122652-code-realize-guardian-of-rebirth-collectors-edition.json](./122652-code-realize-guardian-of-rebirth-collectors-edition.json) |
