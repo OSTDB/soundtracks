@@ -4497,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
 | Final Duty: Zombie Nation | 104388 | [104388-final-duty-zombie-nation.json](./104388-final-duty-zombie-nation.json) |
+| Final Earth | 79508 | [79508-final-earth.json](./79508-final-earth.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
 | Final Eden | 291412 | [291412-final-eden.json](./291412-final-eden.json) |
 | Final Escape | 246327 | [246327-final-escape.json](./246327-final-escape.json) |
