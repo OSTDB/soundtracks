@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sci-Fantasy Defence | 152641 | [152641-sci-fantasy-defence.json](./152641-sci-fantasy-defence.json) |
 | Sci-Fi | 60353 | [60353-sci-fi.json](./60353-sci-fi.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
+| Sci-Fi Highway Racer | 105606 | [105606-sci-fi-highway-racer.json](./105606-sci-fi-highway-racer.json) |
 | Sci-Fi Pinball | 69691 | [69691-sci-fi-pinball.json](./69691-sci-fi-pinball.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
 | SCI-Hard | 368255 | [368255-sci-hard.json](./368255-sci-hard.json) |
@@ -21415,6 +21416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
 | Stalked At Home | 395259 | [395259-stalked-at-home.json](./395259-stalked-at-home.json) |
+| Stalked at Night | 105628 | [105628-stalked-at-night.json](./105628-stalked-at-night.json) |
 | Stalked in Solitude | 334257 | [334257-stalked-in-solitude.json](./334257-stalked-in-solitude.json) |
 | Stalker | 161511 | [161511-stalker.json](./161511-stalker.json) |
 | Stalker 1: Path of Fire | 63351 | [63351-stalker-1-path-of-fire.json](./63351-stalker-1-path-of-fire.json) |
@@ -22655,6 +22657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
 | Starless Abyss | 319573 | [319573-starless-abyss.json](./319573-starless-abyss.json) |
+| Starless Night | 105614 | [105614-starless-night.json](./105614-starless-night.json) |
 | Starless: Nymphomaniacs' Paradise | 19946 | [19946-starless-nymphomaniacs-paradise.json](./19946-starless-nymphomaniacs-paradise.json) |
 | Starlet Disorder | 380671 | [380671-starlet-disorder.json](./380671-starlet-disorder.json) |
 | Starlife | 413802 | [413802-starlife.json](./413802-starlife.json) |
@@ -32480,6 +32483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Drift | 163887 | [163887-synth-drift.json](./163887-synth-drift.json) |
 | Synth Et Sis | 228511 | [228511-synth-et-sis.json](./228511-synth-et-sis.json) |
 | Synth Laser | 373201 | [373201-synth-laser.json](./373201-synth-laser.json) |
+| Synth Ninja | 105619 | [105619-synth-ninja.json](./105619-synth-ninja.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
 | Synth Race | 332866 | [332866-synth-race.json](./332866-synth-race.json) |
 | Synth Retro Vapor Wave | 148309 | [148309-synth-retro-vapor-wave.json](./148309-synth-retro-vapor-wave.json) |
