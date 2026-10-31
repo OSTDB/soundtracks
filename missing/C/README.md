@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Block Ball | 260262 | [260262-cannon-block-ball.json](./260262-cannon-block-ball.json) |
 | Cannon Brawl | 13675 | [13675-cannon-brawl.json](./13675-cannon-brawl.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
+| Cannon Crew | 81635 | [81635-cannon-crew.json](./81635-cannon-crew.json) |
 | Cannon Dancer: Osman | 231222 | [231222-cannon-dancer-osman.json](./231222-cannon-dancer-osman.json) |
 | Cannon Defender | 380172 | [380172-cannon-defender.json](./380172-cannon-defender.json) |
 | Cannon Dinghies | 404768 | [404768-cannon-dinghies.json](./404768-cannon-dinghies.json) |
@@ -7409,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: Yulemen - Collector's Edition | 188854 | [188854-christmas-stories-yulemen-collectors-edition.json](./188854-christmas-stories-yulemen-collectors-edition.json) |
 | Christmas Story | 378202 | [378202-christmas-story.json](./378202-christmas-story.json) |
 | Christmas Sweeper 3 | 227365 | [227365-christmas-sweeper-3.json](./227365-christmas-sweeper-3.json) |
+| Christmas Tale - Visual Novel | 81719 | [81719-christmas-tale-visual-novel.json](./81719-christmas-tale-visual-novel.json) |
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
 | Christmas Tina | 117085 | [117085-christmas-tina.json](./117085-christmas-tina.json) |
 | Christmas Town: Passion House | 207795 | [207795-christmas-town-passion-house.json](./207795-christmas-town-passion-house.json) |
@@ -9267,6 +9269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
 | Click! Safari | 90447 | [90447-click-safari.json](./90447-click-safari.json) |
+| Click&Fight | 81795 | [81795-click-and-fight.json](./81795-click-and-fight.json) |
 | Clickable Coffee Shop | 120127 | [120127-clickable-coffee-shop.json](./120127-clickable-coffee-shop.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
 | Clickbait Tycoon | 412779 | [412779-clickbait-tycoon.json](./412779-clickbait-tycoon.json) |
@@ -9852,6 +9855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Fish | 240836 | [240836-clumsy-fish.json](./240836-clumsy-fish.json) |
 | Clumsy Fred | 43103 | [43103-clumsy-fred.json](./43103-clumsy-fred.json) |
 | Clumsy Knight vs. Skeletons R | 200065 | [200065-clumsy-knight-vs-skeletons-r.json](./200065-clumsy-knight-vs-skeletons-r.json) |
+| Clumsy Knights : Threats of Dragon | 81717 | [81717-clumsy-knights-threats-of-dragon.json](./81717-clumsy-knights-threats-of-dragon.json) |
 | Clumsy Moose Season | 34314 | [34314-clumsy-moose-season.json](./34314-clumsy-moose-season.json) |
 | Clumsy Ninja | 89108 | [89108-clumsy-ninja.json](./89108-clumsy-ninja.json) |
 | Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
