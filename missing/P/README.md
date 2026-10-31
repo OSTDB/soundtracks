@@ -3550,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pellet Quest | 65426 | [65426-pellet-quest.json](./65426-pellet-quest.json) |
+| Pelmesh | 122583 | [122583-pelmesh.json](./122583-pelmesh.json) |
 | PelPet | 314979 | [314979-pelpet.json](./314979-pelpet.json) |
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
 | Pemkie Island | 400478 | [400478-pemkie-island.json](./400478-pemkie-island.json) |
@@ -8887,6 +8888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playhear : Square Paper City | 148678 | [148678-playhear-square-paper-city.json](./148678-playhear-square-paper-city.json) |
 | PlayHex | 319877 | [319877-playhex.json](./319877-playhex.json) |
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
+| Playing Both Sides | 122594 | [122594-playing-both-sides.json](./122594-playing-both-sides.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
 | Playing Games | 216576 | [216576-playing-games.json](./216576-playing-games.json) |
 | Playing God | 150344 | [150344-playing-god.json](./150344-playing-god.json) |
