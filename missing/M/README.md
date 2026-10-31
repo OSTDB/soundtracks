@@ -15281,6 +15281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Toast! | 256697 | [256697-more-toast.json](./256697-more-toast.json) |
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
+| Moreau | 111347 | [111347-moreau.json](./111347-moreau.json) |
 | Morels: Out of this World | 400984 | [400984-morels-out-of-this-world.json](./400984-morels-out-of-this-world.json) |
 | Morendar: Goblin Slayer | 50758 | [50758-morendar-goblin-slayer.json](./50758-morendar-goblin-slayer.json) |
 | Morendo | 227024 | [227024-morendo.json](./227024-morendo.json) |
