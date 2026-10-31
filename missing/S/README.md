@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Plus | 53570 | [53570-sacred-plus.json](./53570-sacred-plus.json) |
 | Sacred Seasons | 175627 | [175627-sacred-seasons.json](./175627-sacred-seasons.json) |
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
+| Sacred Siren | 121913 | [121913-sacred-siren.json](./121913-sacred-siren.json) |
 | Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
 | Sacred Underworld | 78933 | [78933-sacred-underworld.json](./78933-sacred-underworld.json) |
 | Sacred Valley | 189871 | [189871-sacred-valley.json](./189871-sacred-valley.json) |
@@ -15153,6 +15154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Bad is on the Moon | 309207 | [309207-something-bad-is-on-the-moon.json](./309207-something-bad-is-on-the-moon.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
 | Something Else | 283310 | [283310-something-else.json](./283310-something-else.json) |
+| Something for Someone Else | 121925 | [121925-something-for-someone-else.json](./121925-something-for-someone-else.json) |
 | Something in the mist | 177838 | [177838-something-in-the-mist.json](./177838-something-in-the-mist.json) |
 | Something in the Water | 160285 | [160285-something-in-the-water.json](./160285-something-in-the-water.json) |
 | Something In The Well | 266749 | [266749-something-in-the-well.json](./266749-something-in-the-well.json) |
@@ -17604,7 +17606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23191,6 +23192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stationfall | 12624 | [12624-stationfall.json](./12624-stationfall.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
 | Statix | 78883 | [78883-statix.json](./78883-statix.json) |
+| Statless | 121954 | [121954-statless.json](./121954-statless.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
 | Statues | 26519 | [26519-statues.json](./26519-statues.json) |
@@ -28123,6 +28125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ileheart Quest | 113435 | [113435-super-ileheart-quest.json](./113435-super-ileheart-quest.json) |
 | Super Impossible Road | 33503 | [33503-super-impossible-road.json](./33503-super-impossible-road.json) |
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
+| Super Indie Square | 121943 | [121943-super-indie-square.json](./121943-super-indie-square.json) |
 | Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
 | Super Indy Champ | 42358 | [42358-super-indy-champ.json](./42358-super-indy-champ.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
@@ -29535,6 +29538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Skeleton Butler | 237191 | [237191-super-skeleton-butler.json](./237191-super-skeleton-butler.json) |
 | Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
 | Super Sketch | 283010 | [283010-super-sketch.json](./283010-super-sketch.json) |
+| Super Sketch Bob | 121920 | [121920-super-sketch-bob.json](./121920-super-sketch-bob.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
 | Super Skull Smash GO! | 63924 | [63924-super-skull-smash-go.json](./63924-super-skull-smash-go.json) |
