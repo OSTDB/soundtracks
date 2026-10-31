@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Twins | 117432 | [117432-backpack-twins.json](./117432-backpack-twins.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
+| Backpacker: The Lost Florence Gold Mine | 73044 | [73044-backpacker-the-lost-florence-gold-mine.json](./73044-backpacker-the-lost-florence-gold-mine.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
 | Backroom | 238458 | [238458-backroom.json](./238458-backroom.json) |
 | Backroom Beyond | 206596 | [206596-backroom-beyond.json](./206596-backroom-beyond.json) |
@@ -874,7 +875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
 | Barbarian Kingdom | 216633 | [216633-barbarian-kingdom.json](./216633-barbarian-kingdom.json) |
 | Barbarian Legend | 153902 | [153902-barbarian-legend.json](./153902-barbarian-legend.json) |
+| Barbarian Roller Rally | 73058 | [73058-barbarian-roller-rally.json](./73058-barbarian-roller-rally.json) |
 | Barbarian Saga bundle | 331806 | [331806-barbarian-saga-bundle.json](./331806-barbarian-saga-bundle.json) |
 | Barbarian Saga: The Beastmaster | 265787 | [265787-barbarian-saga-the-beastmaster.json](./265787-barbarian-saga-the-beastmaster.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
@@ -10954,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
+| Bob Nixie and the Castle of the Illusion | 73084 | [73084-bob-nixie-and-the-castle-of-the-illusion.json](./73084-bob-nixie-and-the-castle-of-the-illusion.json) |
 | Bob PicRoss: The Joy of Painting 2 | 185392 | [185392-bob-picross-the-joy-of-painting-2.json](./185392-bob-picross-the-joy-of-painting-2.json) |
 | Bob Ross: The Joy of Painting | 205647 | [205647-bob-ross-the-joy-of-painting.json](./205647-bob-ross-the-joy-of-painting.json) |
 | Bob Saget Killer 2000 | 76459 | [76459-bob-saget-killer-2000.json](./76459-bob-saget-killer-2000.json) |
