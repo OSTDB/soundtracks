@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | Uridium Plus | 140259 | [140259-uridium-plus.json](./140259-uridium-plus.json) |
 | Uridium Plus & Paradroid: Competition Edition | 137262 | [137262-uridium-plus-and-paradroid-competition-edition.json](./137262-uridium-plus-and-paradroid-competition-edition.json) |
+| Uriel's Chasm 3: Gelshock | 116704 | [116704-uriels-chasm-3-gelshock.json](./116704-uriels-chasm-3-gelshock.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
 | Urizen Frosty Plus the New Warriors | 169828 | [169828-urizen-frosty-plus-the-new-warriors.json](./169828-urizen-frosty-plus-the-new-warriors.json) |
 | Urja | 36064 | [36064-urja.json](./36064-urja.json) |
