@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makibishi Comic | 294981 | [294981-makibishi-comic.json](./294981-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
 | Making Burgers | 359321 | [359321-making-burgers.json](./359321-making-burgers.json) |
+| Making Camp | 109227 | [109227-making-camp.json](./109227-making-camp.json) |
 | Making Fiends: Pumpin Plunkin' | 304072 | [304072-making-fiends-pumpin-plunkin.json](./304072-making-fiends-pumpin-plunkin.json) |
 | Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
 | Making History II: The War of the World | 15026 | [15026-making-history-ii-the-war-of-the-world.json](./15026-making-history-ii-the-war-of-the-world.json) |
