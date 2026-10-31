@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oku-sama wa Moto Yariman -Besluted- | 82982 | [82982-oku-sama-wa-moto-yariman-besluted.json](./82982-oku-sama-wa-moto-yariman-besluted.json) |
 | Okubi | 214564 | [214564-okubi.json](./214564-okubi.json) |
 | Okugafuchi Shopping Arcade | 413104 | [413104-okugafuchi-shopping-arcade.json](./413104-okugafuchi-shopping-arcade.json) |
+| Okuman Chouja | 78396 | [78396-okuman-chouja.json](./78396-okuman-chouja.json) |
 | Okuman Chouja Game: Nottori Daisakusen! | 49738 | [49738-okuman-chouja-game-nottori-daisakusen.json](./49738-okuman-chouja-game-nottori-daisakusen.json) |
 | Okuman Chouja II | 242520 | [242520-okuman-chouja-ii.json](./242520-okuman-chouja-ii.json) |
 | OkunoKa | 87961 | [87961-okunoka.json](./87961-okunoka.json) |
@@ -2890,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onna Senshi Serasu wa Odoriko ni Tenshoku Shita!: Ha, Hazukashikute Shinde Shimaitai … Ecchi na Dance Nante Dare ga Suruka! | 58806 | [58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json](./58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json) |
 | Onnanoko Keeper | 171434 | [171434-onnanoko-keeper.json](./171434-onnanoko-keeper.json) |
 | Onnanoko Keeper 2 | 150494 | [150494-onnanoko-keeper-2.json](./150494-onnanoko-keeper-2.json) |
+| Onnanoko no Himitsu | 78420 | [78420-onnanoko-no-himitsu.json](./78420-onnanoko-no-himitsu.json) |
 | ONO: Brain Fog | 186397 | [186397-ono-brain-fog.json](./186397-ono-brain-fog.json) |
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
