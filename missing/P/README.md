@@ -7068,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Treasure II | 128312 | [128312-pirates-treasure-ii.json](./128312-pirates-treasure-ii.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
+| Pirates vs. Ninjas vs. Zombies vs. Pandas | 65709 | [65709-pirates-vs-ninjas-vs-zombies-vs-pandas.json](./65709-pirates-vs-ninjas-vs-zombies-vs-pandas.json) |
 | Pirates, Vikings and Knights | 221933 | [221933-pirates-vikings-and-knights.json](./221933-pirates-vikings-and-knights.json) |
 | Pirates, Vikings and Knights II | 14978 | [14978-pirates-vikings-and-knights-ii.json](./14978-pirates-vikings-and-knights-ii.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
@@ -8831,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform War | 270500 | [270500-platform-war.json](./270500-platform-war.json) |
 | Platform X | 131088 | [131088-platform-x.json](./131088-platform-x.json) |
 | Platformance: Castle Pain | 66389 | [66389-platformance-castle-pain.json](./66389-platformance-castle-pain.json) |
+| Platformance: Temple Death | 65866 | [65866-platformance-temple-death.json](./65866-platformance-temple-death.json) |
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
 | Platformer From Hell | 303213 | [303213-platformer-from-hell.json](./303213-platformer-from-hell.json) |
 | Platformer Geometry Dash | 290416 | [290416-platformer-geometry-dash.json](./290416-platformer-geometry-dash.json) |
@@ -9396,6 +9398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocke-Kano: Yumi Aida | 166552 | [166552-pocke-kano-yumi-aida.json](./166552-pocke-kano-yumi-aida.json) |
 | PockeDate! | 323228 | [323228-pockedate.json](./323228-pockedate.json) |
 | Pocket & Zooom | 338310 | [338310-pocket-and-zooom.json](./338310-pocket-and-zooom.json) |
+| Pocket Academy | 65882 | [65882-pocket-academy.json](./65882-pocket-academy.json) |
 | Pocket Academy 3 | 213787 | [213787-pocket-academy-3.json](./213787-pocket-academy-3.json) |
 | Pocket Academy Zero | 239258 | [239258-pocket-academy-zero.json](./239258-pocket-academy-zero.json) |
 | Pocket Action: Pro Football | 245423 | [245423-pocket-action-pro-football.json](./245423-pocket-action-pro-football.json) |
