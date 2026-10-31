@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okunoka Madness | 136462 | [136462-okunoka-madness.json](./136462-okunoka-madness.json) |
 | Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
 | Okuri | 286131 | [286131-okuri.json](./286131-okuri.json) |
+| Okuri Inu | 104968 | [104968-okuri-inu.json](./104968-okuri-inu.json) |
 | Ol' No Name | 273734 | [273734-ol-no-name.json](./273734-ol-no-name.json) |
 | Ola! Borijin Hore Yuke! Brazil | 291707 | [291707-ola-borijin-hore-yuke-brazil.json](./291707-ola-borijin-hore-yuke-brazil.json) |
 | Olaf and the Crowning Hangover | 326125 | [326125-olaf-and-the-crowning-hangover.json](./326125-olaf-and-the-crowning-hangover.json) |
@@ -3400,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange | 377343 | [377343-orange.json](./377343-orange.json) |
 | Orange Adventure | 31860 | [31860-orange-adventure.json](./31860-orange-adventure.json) |
 | Orange Blossoms | 311755 | [311755-orange-blossoms.json](./311755-orange-blossoms.json) |
+| Orange Cast | 104986 | [104986-orange-cast.json](./104986-orange-cast.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange County | 140573 | [140573-orange-county.json](./140573-orange-county.json) |
 | Orange Honey: Boku ha Kimi ni Koishiteru | 72580 | [72580-orange-honey-boku-ha-kimi-ni-koishiteru.json](./72580-orange-honey-boku-ha-kimi-ni-koishiteru.json) |
