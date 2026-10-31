@@ -9720,6 +9720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club | 347555 | [347555-club.json](./347555-club.json) |
 | Club 3DO: Station Invasion | 38830 | [38830-club-3do-station-invasion.json](./38830-club-3do-station-invasion.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
+| Club Caribe | 92227 | [92227-club-caribe.json](./92227-club-caribe.json) |
 | Club de Detectives: Caso 01 | 180629 | [180629-club-de-detectives-caso-01.json](./180629-club-de-detectives-caso-01.json) |
 | Club Defenders | 361869 | [361869-club-defenders.json](./361869-club-defenders.json) |
 | Club Del Fierro | 365282 | [365282-club-del-fierro.json](./365282-club-del-fierro.json) |
@@ -12992,6 +12993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool 2 Players Games | 424646 | [424646-cool-2-players-games.json](./424646-cool-2-players-games.json) |
 | Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
 | Cool army games for kids 6 year old and under boys | 100049 | [100049-cool-army-games-for-kids-6-year-old-and-under-boys.json](./100049-cool-army-games-for-kids-6-year-old-and-under-boys.json) |
+| Cool Ball | 92263 | [92263-cool-ball.json](./92263-cool-ball.json) |
 | Cool Boarders 3 | 26130 | [26130-cool-boarders-3.json](./26130-cool-boarders-3.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
