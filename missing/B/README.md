@@ -874,7 +874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1168,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuten Shoot Beyblade 2002: Takao Version | 49489 | [49489-bakuten-shoot-beyblade-2002-takao-version.json](./49489-bakuten-shoot-beyblade-2002-takao-version.json) |
 | Bakuten Shoot Beyblade: Gekitou! Saikyou Blade | 49491 | [49491-bakuten-shoot-beyblade-gekitou-saikyou-blade.json](./49491-bakuten-shoot-beyblade-gekitou-saikyou-blade.json) |
 | Bakutou Dochers: Bumps-jima ha Oosawagi | 44449 | [44449-bakutou-dochers-bumps-jima-ha-oosawagi.json](./44449-bakutou-dochers-bumps-jima-ha-oosawagi.json) |
+| Bakutoushi Patton-Kun | 79029 | [79029-bakutoushi-patton-kun.json](./79029-bakutoushi-patton-kun.json) |
 | Bakutsuri Bar Hunter | 118316 | [118316-bakutsuri-bar-hunter.json](./118316-bakutsuri-bar-hunter.json) |
 | Bal | 290930 | [290930-bal.json](./290930-bal.json) |
 | Bal Cube | 126292 | [126292-bal-cube.json](./126292-bal-cube.json) |
@@ -7876,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | bit Dungeon III | 116771 | [116771-bit-dungeon-iii.json](./116771-bit-dungeon-iii.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
+| Bit Generations: Coloris | 79016 | [79016-bit-generations-coloris.json](./79016-bit-generations-coloris.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
 | Bit Generations: Digidrive | 49481 | [49481-bit-generations-digidrive.json](./49481-bit-generations-digidrive.json) |
 | Bit Generations: Dotstream | 78880 | [78880-bit-generations-dotstream.json](./78880-bit-generations-dotstream.json) |
@@ -16632,6 +16633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butler Until Midnight | 238901 | [238901-butler-until-midnight.json](./238901-butler-until-midnight.json) |
 | Butler! Summon the Imps! | 382850 | [382850-butler-summon-the-imps.json](./382850-butler-summon-the-imps.json) |
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
+| Butt | 79045 | [79045-butt.json](./79045-butt.json) |
 | Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butt Sniffin Pugs | 25645 | [25645-butt-sniffin-pugs.json](./25645-butt-sniffin-pugs.json) |
