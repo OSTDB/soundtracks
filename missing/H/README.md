@@ -7450,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 3: CR Marilyn Monroe | 61580 | [61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json](./61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 4: CR Ashita ga Arusa, Yoshimoto World | 61579 | [61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json](./61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json) |
+| Hisshou Pachinko Kouryoku Series Vol. 1: CR Shinseiki Evangelion | 79636 | [79636-hisshou-pachinko-kouryoku-series-vol-1-cr-shinseiki-evangelion.json](./79636-hisshou-pachinko-kouryoku-series-vol-1-cr-shinseiki-evangelion.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 1: Shinseiki Evangelion - Magokoro o, Kimi ni | 269626 | [269626-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-1-shinseiki-evangelion-magokoro-o-kimi-ni.json](./269626-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-1-shinseiki-evangelion-magokoro-o-kimi-ni.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 2: CR Shinseiki Evangelion - Shito, Futatabi | 269627 | [269627-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-2-cr-shinseiki-evangelion-shito-futatabi.json](./269627-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-2-cr-shinseiki-evangelion-shito-futatabi.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 3: Shinseiki Evangelion - Yakusoku no Toki | 269629 | [269629-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-3-shinseiki-evangelion-yakusoku-no-toki.json](./269629-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-3-shinseiki-evangelion-yakusoku-no-toki.json) |
@@ -10355,6 +10356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Solitaire and More | 90298 | [90298-hoyle-solitaire-and-more.json](./90298-hoyle-solitaire-and-more.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hoyle Table Games 2004 | 70940 | [70940-hoyle-table-games-2004.json](./70940-hoyle-table-games-2004.json) |
+| Hoyle Texas Hold 'em | 79637 | [79637-hoyle-texas-hold-em.json](./79637-hoyle-texas-hold-em.json) |
 | Hoyle Word Games | 98884 | [98884-hoyle-word-games.json](./98884-hoyle-word-games.json) |
 | Hoyle's Backgammon & Cribbage | 77795 | [77795-hoyles-backgammon-and-cribbage.json](./77795-hoyles-backgammon-and-cribbage.json) |
 | Hoyo | 301074 | [301074-hoyo.json](./301074-hoyo.json) |
