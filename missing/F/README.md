@@ -5488,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration | 170442 | [170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json](./170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json) |
 | Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration Part 2 | 170446 | [170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json](./170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json) |
 | Fire Pro Wrestling World: Yoshihiro Takayama Charity DLC Part 2 | 170443 | [170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json](./170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json) |
+| Fire Pro Wrestling Z | 67040 | [67040-fire-pro-wrestling-z.json](./67040-fire-pro-wrestling-z.json) |
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire ProWrestling Z | 23718 | [23718-fire-prowrestling-z.json](./23718-fire-prowrestling-z.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
@@ -7933,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Gorilla | 201968 | [201968-flying-gorilla.json](./201968-flying-gorilla.json) |
 | Flying Guy | 116004 | [116004-flying-guy.json](./116004-flying-guy.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
+| Flying Hamster | 67124 | [67124-flying-hamster.json](./67124-flying-hamster.json) |
 | Flying Hamster HD | 52220 | [52220-flying-hamster-hd.json](./52220-flying-hamster-hd.json) |
 | Flying Hero | 64265 | [64265-flying-hero.json](./64265-flying-hero.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
@@ -12150,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Fun.Io | 254310 | [254310-fun-io.json](./254310-fun-io.json) |
 | Funaki Masakatsu Hybrid Wrestler: Tougi Denshou | 44459 | [44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json](./44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json) |
+| Funaki Masakatsu: Hybrid Wrestler | 67031 | [67031-funaki-masakatsu-hybrid-wrestler.json](./67031-funaki-masakatsu-hybrid-wrestler.json) |
 | Funanigans | 136893 | [136893-funanigans.json](./136893-funanigans.json) |
 | Funanigans: Party Games | 168579 | [168579-funanigans-party-games.json](./168579-funanigans-party-games.json) |
 | Funbag Fantasy | 114807 | [114807-funbag-fantasy.json](./114807-funbag-fantasy.json) |
