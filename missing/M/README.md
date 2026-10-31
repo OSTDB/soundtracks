@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama Farm | 95612 | [95612-mama-farm.json](./95612-mama-farm.json) |
 | Mama Hawk | 89024 | [89024-mama-hawk.json](./89024-mama-hawk.json) |
 | Mama ni Aitai | 138424 | [138424-mama-ni-aitai.json](./138424-mama-ni-aitai.json) |
+| Mama Possum | 83302 | [83302-mama-possum.json](./83302-mama-possum.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
 | Mama Soybean's Delicious Oyster Sauce | 183842 | [183842-mama-soybeans-delicious-oyster-sauce.json](./183842-mama-soybeans-delicious-oyster-sauce.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
@@ -13347,6 +13348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Jigsaw: Wizards Complex Pack | 162930 | [162930-moe-jigsaw-wizards-complex-pack.json](./162930-moe-jigsaw-wizards-complex-pack.json) |
 | Moe Mekuri SP | 28693 | [28693-moe-mekuri-sp.json](./28693-moe-mekuri-sp.json) |
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
+| Moe Moe 2-Ji Daisenryaku 3 | 83310 | [83310-moe-moe-2-ji-daisenryaku-3.json](./83310-moe-moe-2-ji-daisenryaku-3.json) |
 | Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Moe World War II-3: Deluxe Edition | 128903 | [128903-moe-moe-world-war-ii-3-deluxe-edition.json](./128903-moe-moe-world-war-ii-3-deluxe-edition.json) |
@@ -16495,6 +16497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moussacre | 283763 | [283763-moussacre.json](./283763-moussacre.json) |
 | Moustache Mountain | 33133 | [33133-moustache-mountain.json](./33133-moustache-mountain.json) |
 | Moustake | 202022 | [202022-moustake.json](./202022-moustake.json) |
+| Mouth Sweet | 83295 | [83295-mouth-sweet.json](./83295-mouth-sweet.json) |
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
 | Mouton Noir | 396643 | [396643-mouton-noir.json](./396643-mouton-noir.json) |
