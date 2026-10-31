@@ -5488,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godless Tower | 200381 | [200381-godless-tower.json](./200381-godless-tower.json) |
 | Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
+| Godling | 91017 | [91017-godling.json](./91017-godling.json) |
 | Godly Corp | 88122 | [88122-godly-corp.json](./88122-godly-corp.json) |
 | GodMod | 215581 | [215581-godmod.json](./215581-godmod.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
