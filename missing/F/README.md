@@ -6591,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIXKIN: A Long Way Home (at the End of the World) | 380104 | [380104-fixkin-a-long-way-home-at-the-end-of-the-world.json](./380104-fixkin-a-long-way-home-at-the-end-of-the-world.json) |
 | Fixora | 381994 | [381994-fixora.json](./381994-fixora.json) |
 | Fiz and the Rainbow Planet | 237217 | [237217-fiz-and-the-rainbow-planet.json](./237217-fiz-and-the-rainbow-planet.json) |
+| Fiz: The Brewery Management Game | 56789 | [56789-fiz-the-brewery-management-game.json](./56789-fiz-the-brewery-management-game.json) |
 | Fizik | 163747 | [163747-fizik.json](./163747-fizik.json) |
 | Fizz | 85148 | [85148-fizz.json](./85148-fizz.json) |
 | Fizz Quiz | 318058 | [318058-fizz-quiz.json](./318058-fizz-quiz.json) |
@@ -8677,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Sparta | 343740 | [343740-for-sparta.json](./343740-for-sparta.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
 | For Symphony: With All One's Heart | 202609 | [202609-for-symphony-with-all-ones-heart.json](./202609-for-symphony-with-all-ones-heart.json) |
+| For Symphony: With All One's Heart Portable | 56809 | [56809-for-symphony-with-all-ones-heart-portable.json](./56809-for-symphony-with-all-ones-heart-portable.json) |
 | For the Birds VI | 283796 | [283796-for-the-birds-vi.json](./283796-for-the-birds-vi.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
