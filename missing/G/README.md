@@ -5998,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee 2020 | 143302 | [143302-golden-tee-2020.json](./143302-golden-tee-2020.json) |
+| Golden Tee 2K | 39327 | [39327-golden-tee-2k.json](./39327-golden-tee-2k.json) |
 | Golden Tee Arcade Classics | 350460 | [350460-golden-tee-arcade-classics.json](./350460-golden-tee-arcade-classics.json) |
 | Golden Tee Classic | 39355 | [39355-golden-tee-classic.json](./39355-golden-tee-classic.json) |
 | Golden Tee Golf | 17263 | [17263-golden-tee-golf.json](./17263-golden-tee-golf.json) |
