@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Hero: Among the Cacti | 55251 | [55251-raccoon-hero-among-the-cacti.json](./55251-raccoon-hero-among-the-cacti.json) |
 | Raccoon Hero: Monkey Business | 59567 | [59567-raccoon-hero-monkey-business.json](./59567-raccoon-hero-monkey-business.json) |
 | Raccoon Hero: Starlight | 54480 | [54480-raccoon-hero-starlight.json](./54480-raccoon-hero-starlight.json) |
+| Raccoon Hero: The Frost | 55566 | [55566-raccoon-hero-the-frost.json](./55566-raccoon-hero-the-frost.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
@@ -4117,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflector Rhythm Master | 251746 | [251746-reflector-rhythm-master.json](./251746-reflector-rhythm-master.json) |
 | Reflector Satellites | 317411 | [317411-reflector-satellites.json](./317411-reflector-satellites.json) |
 | Reflector Sector | 386995 | [386995-reflector-sector.json](./386995-reflector-sector.json) |
+| Reflector: Bug Hunt | 55541 | [55541-reflector-bug-hunt.json](./55541-reflector-bug-hunt.json) |
 | Reflectron | 278392 | [278392-reflectron.json](./278392-reflectron.json) |
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 189851 | [189851-reflex.json](./189851-reflex.json) |
@@ -4180,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regeneration Engine | 400184 | [400184-regeneration-engine.json](./400184-regeneration-engine.json) |
 | Regenesis | 238620 | [238620-regenesis.json](./238620-regenesis.json) |
 | Regenesis Ultimatum | 258120 | [258120-regenesis-ultimatum.json](./258120-regenesis-ultimatum.json) |
+| Regenisis Arcade | 55537 | [55537-regenisis-arcade.json](./55537-regenisis-arcade.json) |
 | Regenti Rebelia | 330071 | [330071-regenti-rebelia.json](./330071-regenti-rebelia.json) |
 | Regeria Hope Episode 1 | 33403 | [33403-regeria-hope-episode-1.json](./33403-regeria-hope-episode-1.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
@@ -5669,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | Retrogram | 197742 | [197742-retrogram.json](./197742-retrogram.json) |
+| RetroGunX | 55557 | [55557-retrogunx.json](./55557-retrogunx.json) |
 | Retroid | 181176 | [181176-retroid.json](./181176-retroid.json) |
 | Retroid | 268414 | [268414-retroid.json](./268414-retroid.json) |
 | Retroid: Cartridge Protocol | 361006 | [361006-retroid-cartridge-protocol.json](./361006-retroid-cartridge-protocol.json) |
