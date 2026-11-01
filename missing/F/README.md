@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Lands | 133420 | [133420-fabled-lands.json](./133420-fabled-lands.json) |
 | Fabled Lands: Lords of the Rising Sun | 237354 | [237354-fabled-lands-lords-of-the-rising-sun.json](./237354-fabled-lands-lords-of-the-rising-sun.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
+| Fabled Legends: The Dark Piper | 61284 | [61284-fabled-legends-the-dark-piper.json](./61284-fabled-legends-the-dark-piper.json) |
 | Fabled Style | 257984 | [257984-fabled-style.json](./257984-fabled-style.json) |
 | Fabledom | 231098 | [231098-fabledom.json](./231098-fabledom.json) |
 | Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Lane Bowling | 198739 | [198739-fast-lane-bowling.json](./198739-fast-lane-bowling.json) |
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
+| Fast Manicz | 61270 | [61270-fast-manicz.json](./61270-fast-manicz.json) |
 | Fast or Dead VR | 215568 | [215568-fast-or-dead-vr.json](./215568-fast-or-dead-vr.json) |
 | Fast Racing | 99330 | [99330-fast-racing.json](./99330-fast-racing.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
@@ -10390,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franz Fury | 157923 | [157923-franz-fury.json](./157923-franz-fury.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
+| Frappy Corgi | 61287 | [61287-frappy-corgi.json](./61287-frappy-corgi.json) |
 | Frasier Fantasy | 272669 | [272669-frasier-fantasy.json](./272669-frasier-fantasy.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
@@ -12146,7 +12149,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
 | Fun Run 4 | 257400 | [257400-fun-run-4.json](./257400-fun-run-4.json) |
 | Fun School | 334200 | [334200-fun-school.json](./334200-fun-school.json) |
+| Fun School 2: For 6-8 Year Olds | 61366 | [61366-fun-school-2-for-6-8-year-olds.json](./61366-fun-school-2-for-6-8-year-olds.json) |
+| Fun School 2: For the Over-8s | 61367 | [61367-fun-school-2-for-the-over-8s.json](./61367-fun-school-2-for-the-over-8s.json) |
+| Fun School 2: For the Under-6s | 61370 | [61370-fun-school-2-for-the-under-6s.json](./61370-fun-school-2-for-the-under-6s.json) |
 | Fun School 3: for 5 to 7 Year Olds | 76470 | [76470-fun-school-3-for-5-to-7-year-olds.json](./76470-fun-school-3-for-5-to-7-year-olds.json) |
+| Fun School 3: for the over 7s | 61365 | [61365-fun-school-3-for-the-over-7s.json](./61365-fun-school-3-for-the-over-7s.json) |
+| Fun School 7: For ages 8-11 | 61371 | [61371-fun-school-7-for-ages-8-11.json](./61371-fun-school-7-for-ages-8-11.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
 | Fun Times at Homer´s | 385268 | [385268-fun-times-at-homer-s.json](./385268-fun-times-at-homer-s.json) |
 | Fun VR Farm | 113675 | [113675-fun-vr-farm.json](./113675-fun-vr-farm.json) |
