@@ -3615,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Wars | 289755 | [289755-sd-gundam-wars.json](./289755-sd-gundam-wars.json) |
 | SD Gundam Winner's History | 46309 | [46309-sd-gundam-winners-history.json](./46309-sd-gundam-winners-history.json) |
 | SD Gundam World: Gachapon Senshi - Scramble Wars | 41334 | [41334-sd-gundam-world-gachapon-senshi-scramble-wars.json](./41334-sd-gundam-world-gachapon-senshi-scramble-wars.json) |
+| SD Gundam World: Gachapon Senshi 2 - Capsule Senki | 21502 | [21502-sd-gundam-world-gachapon-senshi-2-capsule-senki.json](./21502-sd-gundam-world-gachapon-senshi-2-capsule-senki.json) |
 | SD Gundam World: Gachapon Senshi 3 - Eiyuu Senki | 48857 | [48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json](./48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json) |
 | SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
 | SD Gundam World: Gachapon Senshi 5 - Battle of Universal Century | 48855 | [48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json](./48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json) |
@@ -3699,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
 | Sea Fortress | 125353 | [125353-sea-fortress.json](./125353-sea-fortress.json) |
 | Sea Hawk | 23911 | [23911-sea-hawk.json](./23911-sea-hawk.json) |
+| Sea Hero Quest | 21645 | [21645-sea-hero-quest.json](./21645-sea-hero-quest.json) |
 | Sea Horizon | 199477 | [199477-sea-horizon.json](./199477-sea-horizon.json) |
 | Sea Horse Hide'n Seek | 114788 | [114788-sea-horse-hiden-seek.json](./114788-sea-horse-hiden-seek.json) |
 | Sea Hunt | 40620 | [40620-sea-hunt.json](./40620-sea-hunt.json) |
@@ -6675,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Dragon | 331987 | [331987-shanghai-dragon.json](./331987-shanghai-dragon.json) |
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
+| Shanghai II | 21549 | [21549-shanghai-ii.json](./21549-shanghai-ii.json) |
 | Shanghai II: Dragon's Eye | 406075 | [406075-shanghai-ii-dragons-eye.json](./406075-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406086 | [406086-shanghai-ii-dragons-eye.json](./406086-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406087 | [406087-shanghai-ii-dragons-eye.json](./406087-shanghai-ii-dragons-eye.json) |
@@ -7765,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
 | Shine Post: Be Your Idol! | 217964 | [217964-shine-post-be-your-idol.json](./217964-shine-post-be-your-idol.json) |
+| Shine Runner | 21621 | [21621-shine-runner.json](./21621-shine-runner.json) |
 | Shine Within | 168334 | [168334-shine-within.json](./168334-shine-within.json) |
 | Shine: Journey of Light | 132017 | [132017-shine-journey-of-light.json](./132017-shine-journey-of-light.json) |
 | Shine's Adventures 0: Zombies Reload | 171408 | [171408-shines-adventures-0-zombies-reload.json](./171408-shines-adventures-0-zombies-reload.json) |
@@ -11907,6 +11911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
 | Skythrone | 150347 | [150347-skythrone.json](./150347-skythrone.json) |
+| Skytorn | 21598 | [21598-skytorn.json](./21598-skytorn.json) |
 | SkyTrip America | 208916 | [208916-skytrip-america.json](./208916-skytrip-america.json) |
 | Skytropolis | 74255 | [74255-skytropolis.json](./74255-skytropolis.json) |
 | Skyts | 279042 | [279042-skyts.json](./279042-skyts.json) |
