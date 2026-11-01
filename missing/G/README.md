@@ -8640,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
 | Grim Knight | 235672 | [235672-grim-knight.json](./235672-grim-knight.json) |
 | Grim Leaper | 181534 | [181534-grim-leaper.json](./181534-grim-leaper.json) |
+| Grim Legends 2: Song of the Dark Swan | 17095 | [17095-grim-legends-2-song-of-the-dark-swan.json](./17095-grim-legends-2-song-of-the-dark-swan.json) |
 | Grim Legends 3: The Dark City | 33110 | [33110-grim-legends-3-the-dark-city.json](./33110-grim-legends-3-the-dark-city.json) |
 | Grim Legends Collection | 118847 | [118847-grim-legends-collection.json](./118847-grim-legends-collection.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
@@ -8739,6 +8740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimlord | 204833 | [204833-grimlord.json](./204833-grimlord.json) |
+| Grimm | 16678 | [16678-grimm.json](./16678-grimm.json) |
 | Grimm & Tonic | 109751 | [109751-grimm-and-tonic.json](./109751-grimm-and-tonic.json) |
 | Grimm 1865 | 129468 | [129468-grimm-1865.json](./129468-grimm-1865.json) |
 | Grimm Forest | 25824 | [25824-grimm-forest.json](./25824-grimm-forest.json) |
