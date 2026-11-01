@@ -4118,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent Barbie | 71927 | [71927-secret-agent-barbie.json](./71927-secret-agent-barbie.json) |
 | Secret Agent Barbie: Royal Jewels Mission | 45170 | [45170-secret-agent-barbie-royal-jewels-mission.json](./45170-secret-agent-barbie-royal-jewels-mission.json) |
 | Secret Agent Cinder | 58702 | [58702-secret-agent-cinder.json](./58702-secret-agent-cinder.json) |
+| Secret Agent Clank | 1793 | [1793-secret-agent-clank.json](./1793-secret-agent-clank.json) |
 | Secret Agent Clank | 317376 | [317376-secret-agent-clank.json](./317376-secret-agent-clank.json) |
 | Secret Agent Dorito | 141593 | [141593-secret-agent-dorito.json](./141593-secret-agent-dorito.json) |
 | Secret Agent Files: Miami | 84858 | [84858-secret-agent-files-miami.json](./84858-secret-agent-files-miami.json) |
@@ -4684,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally 2006 | 1573 | [1573-sega-rally-2006.json](./1573-sega-rally-2006.json) |
 | Sega Rally 3 | 1575 | [1575-sega-rally-3.json](./1575-sega-rally-3.json) |
+| Sega Rally Championship | 1571 | [1571-sega-rally-championship.json](./1571-sega-rally-championship.json) |
 | Sega Rally Championship | 229864 | [229864-sega-rally-championship.json](./229864-sega-rally-championship.json) |
 | Sega Rally Championship Plus | 374706 | [374706-sega-rally-championship-plus.json](./374706-sega-rally-championship-plus.json) |
 | Sega Rally Championship Plus NetLink Edition | 374707 | [374707-sega-rally-championship-plus-netlink-edition.json](./374707-sega-rally-championship-plus-netlink-edition.json) |
@@ -9281,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Pirates! | 210478 | [210478-sid-meiers-pirates.json](./210478-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 210479 | [210479-sid-meiers-pirates.json](./210479-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 868 | [868-sid-meiers-pirates.json](./868-sid-meiers-pirates.json) |
+| Sid Meier's Pirates! | 9231 | [9231-sid-meiers-pirates.json](./9231-sid-meiers-pirates.json) |
 | Sid Meier's Railroads! | 10743 | [10743-sid-meiers-railroads.json](./10743-sid-meiers-railroads.json) |
 | Sid Meier's Starships | 8714 | [8714-sid-meiers-starships.json](./8714-sid-meiers-starships.json) |
 | Sid the Science Kid: Red Light Green Light | 365073 | [365073-sid-the-science-kid-red-light-green-light.json](./365073-sid-the-science-kid-red-light-green-light.json) |
