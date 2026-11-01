@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I, Damiano | 24671 | [24671-i-damiano.json](./24671-i-damiano.json) |
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
+| I, Gladiator | 58454 | [58454-i-gladiator.json](./58454-i-gladiator.json) |
 | I, Gladiator Scratch'em | 249234 | [249234-i-gladiator-scratchem.json](./249234-i-gladiator-scratchem.json) |
 | I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
@@ -2168,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imball | 391350 | [391350-imball.json](./391350-imball.json) |
 | Imbolg no Sugoshikata | 331190 | [331190-imbolg-no-sugoshikata.json](./331190-imbolg-no-sugoshikata.json) |
 | Imbroglio | 131230 | [131230-imbroglio.json](./131230-imbroglio.json) |
+| Imbroglio | 58456 | [58456-imbroglio.json](./58456-imbroglio.json) |
 | IMC | 217232 | [217232-imc.json](./217232-imc.json) |
 | iMemory | 115958 | [115958-imemory.json](./115958-imemory.json) |
 | Imercyve: Living with Intellectual Disability | 156884 | [156884-imercyve-living-with-intellectual-disability.json](./156884-imercyve-living-with-intellectual-disability.json) |
