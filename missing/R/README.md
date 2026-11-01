@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raft Survival | 193810 | [193810-raft-survival.json](./193810-raft-survival.json) |
 | Raft Survival Basics | 193794 | [193794-raft-survival-basics.json](./193794-raft-survival-basics.json) |
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
+| Raft Wars | 143569 | [143569-raft-wars.json](./143569-raft-wars.json) |
 | Raft Wars 2 | 220138 | [220138-raft-wars-2.json](./220138-raft-wars-2.json) |
 | Raft Wars: Against Pirates | 234462 | [234462-raft-wars-against-pirates.json](./234462-raft-wars-against-pirates.json) |
 | Raft: Original Survival Game | 102538 | [102538-raft-original-survival-game.json](./102538-raft-original-survival-game.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tractor Tycoon | 114070 | [114070-red-tractor-tycoon.json](./114070-red-tractor-tycoon.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
+| Red Trigger | 32812 | [32812-red-trigger.json](./32812-red-trigger.json) |
 | Red Turn: The Road to Berlin 1943-45 | 22646 | [22646-red-turn-the-road-to-berlin-1943-45.json](./22646-red-turn-the-road-to-berlin-1943-45.json) |
 | Red Valley | 199389 | [199389-red-valley.json](./199389-red-valley.json) |
 | Red Vanilla 2 | 366733 | [366733-red-vanilla-2.json](./366733-red-vanilla-2.json) |
@@ -3985,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout 2: Winter Pack | 237321 | [237321-redout-2-winter-pack.json](./237321-redout-2-winter-pack.json) |
 | Redout: Back to Earth Pack | 226970 | [226970-redout-back-to-earth-pack.json](./226970-redout-back-to-earth-pack.json) |
 | Redout: Deluxe Edition | 53497 | [53497-redout-deluxe-edition.json](./53497-redout-deluxe-edition.json) |
+| Redout: Enhanced Edition | 31598 | [31598-redout-enhanced-edition.json](./31598-redout-enhanced-edition.json) |
 | Redout: Lightspeed Edition | 52715 | [52715-redout-lightspeed-edition.json](./52715-redout-lightspeed-edition.json) |
 | Redout: Mars Pack | 226971 | [226971-redout-mars-pack.json](./226971-redout-mars-pack.json) |
 | Redout: Neptune Pack | 226972 | [226972-redout-neptune-pack.json](./226972-redout-neptune-pack.json) |
@@ -10899,6 +10902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker VX Ace: Tarot Battlers | 53552 | [53552-rpg-maker-vx-ace-tarot-battlers.json](./53552-rpg-maker-vx-ace-tarot-battlers.json) |
 | RPG Maker VX Ace: Winter Wonderland Tiles | 53555 | [53555-rpg-maker-vx-ace-winter-wonderland-tiles.json](./53555-rpg-maker-vx-ace-winter-wonderland-tiles.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
+| RPG Maker XP | 30228 | [30228-rpg-maker-xp.json](./30228-rpg-maker-xp.json) |
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
 | RPG MO | 35161 | [35161-rpg-mo.json](./35161-rpg-mo.json) |
