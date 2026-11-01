@@ -4726,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ailment & Endurance Bundle | 164838 | [164838-ailment-and-endurance-bundle.json](./164838-ailment-and-endurance-bundle.json) |
 | Ailment: Endurance | 120311 | [120311-ailment-endurance.json](./120311-ailment-endurance.json) |
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
+| Ailu de Puzzle! | 59005 | [59005-ailu-de-puzzle.json](./59005-ailu-de-puzzle.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
 | Aim Academy | 167530 | [167530-aim-academy.json](./167530-aim-academy.json) |
