@@ -878,7 +878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3958,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleGroupVR2 | 344170 | [344170-battlegroupvr2.json](./344170-battlegroupvr2.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
+| BattleHand | 59017 | [59017-battlehand.json](./59017-battlehand.json) |
 | BattleHand Heroes | 102671 | [102671-battlehand-heroes.json](./102671-battlehand-heroes.json) |
 | Battlehawks 1942 | 178 | [178-battlehawks-1942.json](./178-battlehawks-1942.json) |
 | Battleheart | 89488 | [89488-battleheart.json](./89488-battleheart.json) |
