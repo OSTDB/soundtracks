@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd | 265036 | [265036-judge-dredd.json](./265036-judge-dredd.json) |
 | Judge Dredd | 265037 | [265037-judge-dredd.json](./265037-judge-dredd.json) |
 | Judge Dredd | 340333 | [340333-judge-dredd.json](./340333-judge-dredd.json) |
+| Judge Dredd | 36686 | [36686-judge-dredd.json](./36686-judge-dredd.json) |
 | Judge Dredd | 36742 | [36742-judge-dredd.json](./36742-judge-dredd.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judge Dredd Pinball | 74099 | [74099-judge-dredd-pinball.json](./74099-judge-dredd-pinball.json) |
