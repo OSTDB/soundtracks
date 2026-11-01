@@ -9871,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 4: Deluxe Edition | 111318 | [111318-forza-horizon-4-deluxe-edition.json](./111318-forza-horizon-4-deluxe-edition.json) |
 | Forza Horizon 4: Expansions Bundle | 136391 | [136391-forza-horizon-4-expansions-bundle.json](./136391-forza-horizon-4-expansions-bundle.json) |
 | Forza Horizon 4: Formula Drift Car Pack | 140285 | [140285-forza-horizon-4-formula-drift-car-pack.json](./140285-forza-horizon-4-formula-drift-car-pack.json) |
+| Forza Horizon 4: Fortune Island | 112024 | [112024-forza-horizon-4-fortune-island.json](./112024-forza-horizon-4-fortune-island.json) |
 | Forza Horizon 4: Icons Car Pack | 153717 | [153717-forza-horizon-4-icons-car-pack.json](./153717-forza-horizon-4-icons-car-pack.json) |
 | Forza Horizon 4: LEGO Speed Champions | 121517 | [121517-forza-horizon-4-lego-speed-champions.json](./121517-forza-horizon-4-lego-speed-champions.json) |
 | Forza Horizon 4: Mitsubishi Motors Car Pack | 140365 | [140365-forza-horizon-4-mitsubishi-motors-car-pack.json](./140365-forza-horizon-4-mitsubishi-motors-car-pack.json) |
@@ -10979,6 +10980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freshly Folded: Laundry Shop | 366947 | [366947-freshly-folded-laundry-shop.json](./366947-freshly-folded-laundry-shop.json) |
 | Freshly fried shrimps seemed hot additionally named noth | 55644 | [55644-freshly-fried-shrimps-seemed-hot-additionally-named-noth.json](./55644-freshly-fried-shrimps-seemed-hot-additionally-named-noth.json) |
 | Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
+| Freshly-Picked Tingle's Rosy Rupeeland | 11607 | [11607-freshly-picked-tingles-rosy-rupeeland.json](./11607-freshly-picked-tingles-rosy-rupeeland.json) |
 | Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
 | Freshman Year | 35405 | [35405-freshman-year.json](./35405-freshman-year.json) |
 | Freshwater Fishing Simulator | 68987 | [68987-freshwater-fishing-simulator.json](./68987-freshwater-fishing-simulator.json) |
