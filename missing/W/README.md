@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
 | Wakka Follow the Treasure Ring | 326246 | [326246-wakka-follow-the-treasure-ring.json](./326246-wakka-follow-the-treasure-ring.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
+| Waku Waku 7 | 27593 | [27593-waku-waku-7.json](./27593-waku-waku-7.json) |
 | Waku Waku Derby | 394402 | [394402-waku-waku-derby.json](./394402-waku-waku-derby.json) |
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
@@ -474,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: The Curse of the Were-Rabbit | 343178 | [343178-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./343178-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
 | Wallace & Gromit: The Curse of the Were-Rabbit | 6227 | [6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
 | Wallace & Gromit: Top Bun | 320878 | [320878-wallace-and-gromit-top-bun.json](./320878-wallace-and-gromit-top-bun.json) |
+| Wallace & Gromit's Grand Adventures | 11307 | [11307-wallace-and-gromits-grand-adventures.json](./11307-wallace-and-gromits-grand-adventures.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
 | Wallace & Gromit's Grand Adventures: Episode 2 - The Last Resort | 127032 | [127032-wallace-and-gromits-grand-adventures-episode-2-the-last-resort.json](./127032-wallace-and-gromits-grand-adventures-episode-2-the-last-resort.json) |
 | Wallace & Gromit's Grand Adventures: Episode 3 - Muzzled! | 69168 | [69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json](./69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json) |
@@ -2242,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchmen | 341701 | [341701-watchmen.json](./341701-watchmen.json) |
 | Watchmen: The End Is Nigh | 7246 | [7246-watchmen-the-end-is-nigh.json](./7246-watchmen-the-end-is-nigh.json) |
 | Watchmen: The End Is Nigh Complete Experience | 44619 | [44619-watchmen-the-end-is-nigh-complete-experience.json](./44619-watchmen-the-end-is-nigh-complete-experience.json) |
+| Watchmen: The End is Nigh Part 2 | 27854 | [27854-watchmen-the-end-is-nigh-part-2.json](./27854-watchmen-the-end-is-nigh-part-2.json) |
 | Watchtower | 15568 | [15568-watchtower.json](./15568-watchtower.json) |
 | Watchword | 343281 | [343281-watchword.json](./343281-watchword.json) |
 | Watee | 240189 | [240189-watee.json](./240189-watee.json) |
