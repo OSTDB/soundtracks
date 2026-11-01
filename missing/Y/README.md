@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! World Championship 2007 | 21444 | [21444-yu-gi-oh-world-championship-2007.json](./21444-yu-gi-oh-world-championship-2007.json) |
 | Yu-Gi-Oh! World Championship 2008 | 47809 | [47809-yu-gi-oh-world-championship-2008.json](./47809-yu-gi-oh-world-championship-2008.json) |
 | Yu-Gi-Oh! World Championship Tournament 2004 | 6698 | [6698-yu-gi-oh-world-championship-tournament-2004.json](./6698-yu-gi-oh-world-championship-tournament-2004.json) |
+| Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel | 6699 | [6699-yu-gi-oh-worldwide-edition-stairway-to-the-destined-duel.json](./6699-yu-gi-oh-worldwide-edition-stairway-to-the-destined-duel.json) |
 | Yu-Gi-Oh! Zexal World Duel Carnival | 47665 | [47665-yu-gi-oh-zexal-world-duel-carnival.json](./47665-yu-gi-oh-zexal-world-duel-carnival.json) |
 | Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
 | Yu-Nama: The Puzzle | 63364 | [63364-yu-nama-the-puzzle.json](./63364-yu-nama-the-puzzle.json) |
