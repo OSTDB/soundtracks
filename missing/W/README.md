@@ -7711,6 +7711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
+| World Party Games | 50931 | [50931-world-party-games.json](./50931-world-party-games.json) |
 | World Peace Simulator 2019 | 115170 | [115170-world-peace-simulator-2019.json](./115170-world-peace-simulator-2019.json) |
 | World Ping Pong Championship | 118890 | [118890-world-ping-pong-championship.json](./118890-world-ping-pong-championship.json) |
 | World Poker Championship | 68635 | [68635-world-poker-championship.json](./68635-world-poker-championship.json) |
