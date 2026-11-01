@@ -3654,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jury Trial | 160157 | [160157-jury-trial.json](./160157-jury-trial.json) |
 | Jury: Episode 1 - Before the Trial | 293841 | [293841-jury-episode-1-before-the-trial.json](./293841-jury-episode-1-before-the-trial.json) |
 | Jury: Episode 2 - The Trial of Brooke Lafferty | 293842 | [293842-jury-episode-2-the-trial-of-brooke-lafferty.json](./293842-jury-episode-2-the-trial-of-brooke-lafferty.json) |
+| Jusant | 252836 | [252836-jusant.json](./252836-jusant.json) |
 | Jusou: Gakkou no Kaidan | 308906 | [308906-jusou-gakkou-no-kaidan.json](./308906-jusou-gakkou-no-kaidan.json) |
 | Just 1 Minute! Memory Test with Masterpieces | 316273 | [316273-just-1-minute-memory-test-with-masterpieces.json](./316273-just-1-minute-memory-test-with-masterpieces.json) |
 | Just 15 minutes | 151594 | [151594-just-15-minutes.json](./151594-just-15-minutes.json) |
