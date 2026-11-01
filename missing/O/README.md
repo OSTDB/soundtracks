@@ -5525,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxide: Room 104 | 186663 | [186663-oxide-room-104.json](./186663-oxide-room-104.json) |
 | Oxide: Survival Island | 330539 | [330539-oxide-survival-island.json](./330539-oxide-survival-island.json) |
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
+| OXO | 11323 | [11323-oxo.json](./11323-oxo.json) |
 | OxRox | 295513 | [295513-oxrox.json](./295513-oxrox.json) |
 | Oxu 2 | 387755 | [387755-oxu-2.json](./387755-oxu-2.json) |
 | Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
