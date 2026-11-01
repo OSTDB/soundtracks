@@ -9380,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Servants of the Dark | 11402 | [11402-disciples-ii-servants-of-the-dark.json](./11402-disciples-ii-servants-of-the-dark.json) |
 | Disciples III: Reincarnation | 9823 | [9823-disciples-iii-reincarnation.json](./9823-disciples-iii-reincarnation.json) |
 | Disciples III: Renaissance | 9824 | [9824-disciples-iii-renaissance.json](./9824-disciples-iii-renaissance.json) |
+| Disciples III: Resurrection | 16276 | [16276-disciples-iii-resurrection.json](./16276-disciples-iii-resurrection.json) |
 | Disciples of Canada | 419604 | [419604-disciples-of-canada.json](./419604-disciples-of-canada.json) |
 | Disciples of Dawn | 119334 | [119334-disciples-of-dawn.json](./119334-disciples-of-dawn.json) |
 | Disciples of Steel | 71793 | [71793-disciples-of-steel.json](./71793-disciples-of-steel.json) |
@@ -12509,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
 | Doraemon Story of Season: Friends of the Great Kingdom - Winter Tales | 227156 | [227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json](./227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json) |
+| Doraemon Story of Seasons | 115286 | [115286-doraemon-story-of-seasons.json](./115286-doraemon-story-of-seasons.json) |
 | Doraemon Story of Seasons: FGK DLC Pack 3 | 240401 | [240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json](./240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom | 206815 | [206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json](./206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - FGK DLC 1 | 223793 | [223793-doraemon-story-of-seasons-friends-of-the-great-kingdom-fgk-dlc-1.json](./223793-doraemon-story-of-seasons-friends-of-the-great-kingdom-fgk-dlc-1.json) |
@@ -18024,6 +18026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystobel | 240687 | [240687-dystobel.json](./240687-dystobel.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
+| Dystopia | 15949 | [15949-dystopia.json](./15949-dystopia.json) |
 | Dystopia 3: Re-Birth of Anarchy | 273733 | [273733-dystopia-3-re-birth-of-anarchy.json](./273733-dystopia-3-re-birth-of-anarchy.json) |
 | Dystopia 3: Re-Birth of Anarchy Addon | 273742 | [273742-dystopia-3-re-birth-of-anarchy-addon.json](./273742-dystopia-3-re-birth-of-anarchy-addon.json) |
 | Dystopia Derby | 366558 | [366558-dystopia-derby.json](./366558-dystopia-derby.json) |
