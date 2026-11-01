@@ -3362,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting Touchy with Albertine | 400933 | [400933-getting-touchy-with-albertine.json](./400933-getting-touchy-with-albertine.json) |
 | Getting Vivisected! (ASMR) | 401254 | [401254-getting-vivisected-asmr.json](./401254-getting-vivisected-asmr.json) |
 | Gettysburg | 14895 | [14895-gettysburg.json](./14895-gettysburg.json) |
+| Gettysburg: Armored Warfare | 10360 | [10360-gettysburg-armored-warfare.json](./10360-gettysburg-armored-warfare.json) |
 | Gettysburg: Fields of Valor | 190095 | [190095-gettysburg-fields-of-valor.json](./190095-gettysburg-fields-of-valor.json) |
 | Gettysburg: the Tide Turns | 51445 | [51445-gettysburg-the-tide-turns.json](./51445-gettysburg-the-tide-turns.json) |
 | Gettysburg: The Turning Point | 26396 | [26396-gettysburg-the-turning-point.json](./26396-gettysburg-the-turning-point.json) |
@@ -3651,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
 | Ghost Watchers | 189920 | [189920-ghost-watchers.json](./189920-ghost-watchers.json) |
 | Ghost Wave | 311037 | [311037-ghost-wave.json](./311037-ghost-wave.json) |
+| Ghost Whisperer | 10361 | [10361-ghost-whisperer.json](./10361-ghost-whisperer.json) |
 | Ghost Whisperer | 307691 | [307691-ghost-whisperer.json](./307691-ghost-whisperer.json) |
 | Ghost Wiper | 236814 | [236814-ghost-wiper.json](./236814-ghost-wiper.json) |
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
@@ -5938,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldcraft | 58132 | [58132-goldcraft.json](./58132-goldcraft.json) |
 | Golden 8bits | 112205 | [112205-golden-8bits.json](./112205-golden-8bits.json) |
 | Golden Age | 193661 | [193661-golden-age.json](./193661-golden-age.json) |
+| Golden Age of Racing | 10370 | [10370-golden-age-of-racing.json](./10370-golden-age-of-racing.json) |
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
 | Golden Arrow | 367760 | [367760-golden-arrow.json](./367760-golden-arrow.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
@@ -7210,6 +7213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
+| Grand Ages: Rome - Reign of Augustus | 10375 | [10375-grand-ages-rome-reign-of-augustus.json](./10375-grand-ages-rome-reign-of-augustus.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
 | Grand Auto Survival City Crime Gangster | 216016 | [216016-grand-auto-survival-city-crime-gangster.json](./216016-grand-auto-survival-city-crime-gangster.json) |
 | Grand Banda | 392727 | [392727-grand-banda.json](./392727-grand-banda.json) |
