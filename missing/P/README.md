@@ -4484,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Vet 3D: Wild Animal Hospital | 25434 | [25434-pet-vet-3d-wild-animal-hospital.json](./25434-pet-vet-3d-wild-animal-hospital.json) |
 | Pet Wash | 102612 | [102612-pet-wash.json](./102612-pet-wash.json) |
 | Pet World | 411146 | [411146-pet-world.json](./411146-pet-world.json) |
+| Pet Zombies | 47634 | [47634-pet-zombies.json](./47634-pet-zombies.json) |
 | Pet.Net | 371131 | [371131-pet-net.json](./371131-pet-net.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
 | PETA: Painful Extinction Through Assault | 330009 | [330009-peta-painful-extinction-through-assault.json](./330009-peta-painful-extinction-through-assault.json) |
@@ -5475,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picbox | 93505 | [93505-picbox.json](./93505-picbox.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Piccross Adventure House | 102819 | [102819-piccross-adventure-house.json](./102819-piccross-adventure-house.json) |
+| Picdun 2: Witch's Curse | 47646 | [47646-picdun-2-witchs-curse.json](./47646-picdun-2-witchs-curse.json) |
 | picFind - Find in the Space | 96851 | [96851-picfind-find-in-the-space.json](./96851-picfind-find-in-the-space.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
 | Pichi Girl | 226351 | [226351-pichi-girl.json](./226351-pichi-girl.json) |
@@ -13850,9 +13852,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2012 | 220981 | [220981-pro-evolution-soccer-2012.json](./220981-pro-evolution-soccer-2012.json) |
 | Pro Evolution Soccer 2012 | 220982 | [220982-pro-evolution-soccer-2012.json](./220982-pro-evolution-soccer-2012.json) |
 | Pro Evolution Soccer 2012 | 240465 | [240465-pro-evolution-soccer-2012.json](./240465-pro-evolution-soccer-2012.json) |
+| Pro Evolution Soccer 2012 3D | 47628 | [47628-pro-evolution-soccer-2012-3d.json](./47628-pro-evolution-soccer-2012-3d.json) |
 | Pro Evolution Soccer 2013 | 220961 | [220961-pro-evolution-soccer-2013.json](./220961-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer 2013 | 220983 | [220983-pro-evolution-soccer-2013.json](./220983-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer 2013 | 240466 | [240466-pro-evolution-soccer-2013.json](./240466-pro-evolution-soccer-2013.json) |
+| Pro Evolution Soccer 2013 3D | 47627 | [47627-pro-evolution-soccer-2013-3d.json](./47627-pro-evolution-soccer-2013-3d.json) |
 | Pro Evolution Soccer 2014 | 220984 | [220984-pro-evolution-soccer-2014.json](./220984-pro-evolution-soccer-2014.json) |
 | Pro Evolution Soccer 2014 | 240467 | [240467-pro-evolution-soccer-2014.json](./240467-pro-evolution-soccer-2014.json) |
 | Pro Evolution Soccer 2014 | 4652 | [4652-pro-evolution-soccer-2014.json](./4652-pro-evolution-soccer-2014.json) |
@@ -16147,6 +16151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
 | PuppetShow: Return to Joyville | 140278 | [140278-puppetshow-return-to-joyville.json](./140278-puppetshow-return-to-joyville.json) |
 | PuppetShow: Souls of the Innocent | 140279 | [140279-puppetshow-souls-of-the-innocent.json](./140279-puppetshow-souls-of-the-innocent.json) |
+| PuppetShow: Souls of the Innocent - Collector's Edition | 47695 | [47695-puppetshow-souls-of-the-innocent-collectors-edition.json](./47695-puppetshow-souls-of-the-innocent-collectors-edition.json) |
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
 | PuppetShow: The Price of Immortality - Collector's Edition | 368892 | [368892-puppetshow-the-price-of-immortality-collectors-edition.json](./368892-puppetshow-the-price-of-immortality-collectors-edition.json) |
@@ -17100,6 +17105,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler Mind Gym 3D | 21571 | [21571-puzzler-mind-gym-3d.json](./21571-puzzler-mind-gym-3d.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
 | Puzzler World 2 | 16272 | [16272-puzzler-world-2.json](./16272-puzzler-world-2.json) |
+| Puzzler World 2012 3D | 47636 | [47636-puzzler-world-2012-3d.json](./47636-puzzler-world-2012-3d.json) |
+| Puzzler World 2013 | 47659 | [47659-puzzler-world-2013.json](./47659-puzzler-world-2013.json) |
 | Puzzler World XL | 84786 | [84786-puzzler-world-xl.json](./84786-puzzler-world-xl.json) |
 | Puzzlerama | 289567 | [289567-puzzlerama.json](./289567-puzzlerama.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
