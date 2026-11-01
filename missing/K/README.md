@@ -3621,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kirby's Dreamland Collision | 323916 | [323916-kirbys-dreamland-collision.json](./323916-kirbys-dreamland-collision.json) |
 | Kirby's Epic Yarn | 2184 | [2184-kirbys-epic-yarn.json](./2184-kirbys-epic-yarn.json) |
+| Kirby's Extra Epic Yarn | 109460 | [109460-kirbys-extra-epic-yarn.json](./109460-kirbys-extra-epic-yarn.json) |
 | Kirby's Halloween Adventure | 212961 | [212961-kirbys-halloween-adventure.json](./212961-kirbys-halloween-adventure.json) |
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
 | Kirby's Puresabe Adventure | 138986 | [138986-kirbys-puresabe-adventure.json](./138986-kirbys-puresabe-adventure.json) |
