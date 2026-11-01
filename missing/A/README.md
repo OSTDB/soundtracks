@@ -3070,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars | 1691 | [1691-advance-wars.json](./1691-advance-wars.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 1+2: Re-Boot Camp | 152360 | [152360-advance-wars-1-2-re-boot-camp.json](./152360-advance-wars-1-2-re-boot-camp.json) |
+| Advance Wars 2: Black Hole Rising | 1692 | [1692-advance-wars-2-black-hole-rising.json](./1692-advance-wars-2-black-hole-rising.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance Wars by Web | 251128 | [251128-advance-wars-by-web.json](./251128-advance-wars-by-web.json) |
 | Advance Wars Returns | 246568 | [246568-advance-wars-returns.json](./246568-advance-wars-returns.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents 404 | 408224 | [408224-agents-404.json](./408224-agents-404.json) |
 | Agents of Aggro City Online | 83372 | [83372-agents-of-aggro-city-online.json](./83372-agents-of-aggro-city-online.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
+| Agents of Mayhem | 19440 | [19440-agents-of-mayhem.json](./19440-agents-of-mayhem.json) |
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
@@ -13081,6 +13083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Tentacles: Assault on Rainbow Unicorn Island | 226232 | [226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json](./226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json) |
 | Army of Tentacles: Not A Cthulhu Dating Sim - Black Goat of the Woods Edition | 81822 | [81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json](./81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json) |
 | Army of Two | 996 | [996-army-of-two.json](./996-army-of-two.json) |
+| Army of Two: The 40th Day | 997 | [997-army-of-two-the-40th-day.json](./997-army-of-two-the-40th-day.json) |
 | Army Racer | 52426 | [52426-army-racer.json](./52426-army-racer.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
 | Army Ranger: Mogadishu | 52425 | [52425-army-ranger-mogadishu.json](./52425-army-ranger-mogadishu.json) |
