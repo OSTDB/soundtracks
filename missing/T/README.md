@@ -12503,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Matrix: Path of Neo | 1004 | [1004-the-matrix-path-of-neo.json](./1004-the-matrix-path-of-neo.json) |
 | The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
 | The Matter of Being | 354402 | [354402-the-matter-of-being.json](./354402-the-matter-of-being.json) |
+| The Matter of the Monster | 60190 | [60190-the-matter-of-the-monster.json](./60190-the-matter-of-the-monster.json) |
 | The Mauve Zone | 261443 | [261443-the-mauve-zone.json](./261443-the-mauve-zone.json) |
 | The Maverick Hunter Chronicles | 363810 | [363810-the-maverick-hunter-chronicles.json](./363810-the-maverick-hunter-chronicles.json) |
 | The Maw | 3976 | [3976-the-maw.json](./3976-the-maw.json) |
@@ -12994,6 +12995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
 | The Necromancer's Pact | 302187 | [302187-the-necromancers-pact.json](./302187-the-necromancers-pact.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
+| The Necrons | 60281 | [60281-the-necrons.json](./60281-the-necrons.json) |
 | The Ned Balls | 113393 | [113393-the-ned-balls.json](./113393-the-ned-balls.json) |
 | The Need for Speed | 90 | [90-the-need-for-speed.json](./90-the-need-for-speed.json) |
 | The Need to Live | 288160 | [288160-the-need-to-live.json](./288160-the-need-to-live.json) |
@@ -15551,6 +15553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Space Sheriff Spirits | 64780 | [64780-the-space-sheriff-spirits.json](./64780-the-space-sheriff-spirits.json) |
 | The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
+| The Space Under the Window | 60191 | [60191-the-space-under-the-window.json](./60191-the-space-under-the-window.json) |
 | The SpaceOut Collection - My Ex-Boyfriend the Space Tyrant and Escape from Pleasure Planet | 85706 | [85706-the-spaceout-collection-my-ex-boyfriend-the-space-tyrant-and-escape-from-pleasure-planet.json](./85706-the-spaceout-collection-my-ex-boyfriend-the-space-tyrant-and-escape-from-pleasure-planet.json) |
 | The Spanish Privateer | 190374 | [190374-the-spanish-privateer.json](./190374-the-spanish-privateer.json) |
 | The Spark of One | 135064 | [135064-the-spark-of-one.json](./135064-the-spark-of-one.json) |
@@ -24527,6 +24530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouhouSnowClash | 263142 | [263142-touhousnowclash.json](./263142-touhousnowclash.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
+| Touken Ranbu | 60291 | [60291-touken-ranbu.json](./60291-touken-ranbu.json) |
 | Touken Ranbu Warriors | 172433 | [172433-touken-ranbu-warriors.json](./172433-touken-ranbu-warriors.json) |
 | Touken Ranbu Warriors: Digital Deluxe Edition | 199857 | [199857-touken-ranbu-warriors-digital-deluxe-edition.json](./199857-touken-ranbu-warriors-digital-deluxe-edition.json) |
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
