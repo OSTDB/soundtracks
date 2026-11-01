@@ -8829,6 +8829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
 | Grimtale Island | 55278 | [55278-grimtale-island.json](./55278-grimtale-island.json) |
 | Grimtrace | 383197 | [383197-grimtrace.json](./383197-grimtrace.json) |
+| Grimvalor | 110417 | [110417-grimvalor.json](./110417-grimvalor.json) |
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
 | Grimwalker | 244887 | [244887-grimwalker.json](./244887-grimwalker.json) |
 | Grimwar | 343915 | [343915-grimwar.json](./343915-grimwar.json) |
@@ -9349,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | gToons | 203646 | [203646-gtoons.json](./203646-gtoons.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
 | GTR Drift Simulator | 95781 | [95781-gtr-drift-simulator.json](./95781-gtr-drift-simulator.json) |
+| GTR Evolution | 10381 | [10381-gtr-evolution.json](./10381-gtr-evolution.json) |
 | GTR Traffic Rivals | 100902 | [100902-gtr-traffic-rivals.json](./100902-gtr-traffic-rivals.json) |
 | GTR3 | 56269 | [56269-gtr3.json](./56269-gtr3.json) |
 | GTRevival | 271259 | [271259-gtrevival.json](./271259-gtrevival.json) |
@@ -10349,6 +10351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
 | Guns on Wheels | 343618 | [343618-guns-on-wheels.json](./343618-guns-on-wheels.json) |
 | Guns Undarkness | 211618 | [211618-guns-undarkness.json](./211618-guns-undarkness.json) |
+| Guns Up! | 11200 | [11200-guns-up.json](./11200-guns-up.json) |
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns, Camera, Action! | 185481 | [185481-guns-camera-action.json](./185481-guns-camera-action.json) |
