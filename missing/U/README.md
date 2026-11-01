@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Street Fighter | 161607 | [161607-urban-street-fighter.json](./161607-urban-street-fighter.json) |
 | Urban Street Fighting | 147476 | [147476-urban-street-fighting.json](./147476-urban-street-fighting.json) |
 | Urban Strife | 134954 | [134954-urban-strife.json](./134954-urban-strife.json) |
+| Urban Strike: The Sequel to Jungle Strike | 4492 | [4492-urban-strike-the-sequel-to-jungle-strike.json](./4492-urban-strike-the-sequel-to-jungle-strike.json) |
 | Urban Survival | 148957 | [148957-urban-survival.json](./148957-urban-survival.json) |
 | Urban Survival Simulator: The Bum's Journey | 309053 | [309053-urban-survival-simulator-the-bums-journey.json](./309053-urban-survival-simulator-the-bums-journey.json) |
 | Urban Tale | 113746 | [113746-urban-tale.json](./113746-urban-tale.json) |
