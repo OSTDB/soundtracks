@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Train | 240101 | [240101-zombie-train.json](./240101-zombie-train.json) |
 | Zombie Training Simulator | 33451 | [33451-zombie-training-simulator.json](./33451-zombie-training-simulator.json) |
 | Zombie Trigger | 31737 | [31737-zombie-trigger.json](./31737-zombie-trigger.json) |
+| Zombie Tsunami | 38031 | [38031-zombie-tsunami.json](./38031-zombie-tsunami.json) |
 | Zombie Tycoon | 9295 | [9295-zombie-tycoon.json](./9295-zombie-tycoon.json) |
 | Zombie Typing | 374384 | [374384-zombie-typing.json](./374384-zombie-typing.json) |
 | Zombie Valley | 126223 | [126223-zombie-valley.json](./126223-zombie-valley.json) |
