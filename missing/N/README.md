@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
 | Nasty Little Man | 152100 | [152100-nasty-little-man.json](./152100-nasty-little-man.json) |
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
+| Nasty Neighbors: No Picnic for Celebrity | 23194 | [23194-nasty-neighbors-no-picnic-for-celebrity.json](./23194-nasty-neighbors-no-picnic-for-celebrity.json) |
 | Nasty Nines | 103843 | [103843-nasty-nines.json](./103843-nasty-nines.json) |
 | Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
@@ -1686,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
 | Need for Speed: Nitro-X | 84701 | [84701-need-for-speed-nitro-x.json](./84701-need-for-speed-nitro-x.json) |
 | Need for Speed: No Limits | 26297 | [26297-need-for-speed-no-limits.json](./26297-need-for-speed-no-limits.json) |
+| Need for Speed: Payback - Deluxe Edition | 23161 | [23161-need-for-speed-payback-deluxe-edition.json](./23161-need-for-speed-payback-deluxe-edition.json) |
 | Need for Speed: Payback - Pontiac Firebird & Aston Martin DB5 Superbuild Bundle | 225944 | [225944-need-for-speed-payback-pontiac-firebird-and-aston-martin-db5-superbuild-bundle.json](./225944-need-for-speed-payback-pontiac-firebird-and-aston-martin-db5-superbuild-bundle.json) |
 | Need for Speed: Porsche Unleashed | 248143 | [248143-need-for-speed-porsche-unleashed.json](./248143-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
