@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Whales | 22762 | [22762-save-the-whales.json](./22762-save-the-whales.json) |
 | Save the World | 240707 | [240707-save-the-world.json](./240707-save-the-world.json) |
 | Save the World | 259154 | [259154-save-the-world.json](./259154-save-the-world.json) |
+| Save Their Souls | 29401 | [29401-save-their-souls.json](./29401-save-their-souls.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
 | Save Thine Kingdom | 115561 | [115561-save-thine-kingdom.json](./115561-save-thine-kingdom.json) |
 | Save to Kill | 95955 | [95955-save-to-kill.json](./95955-save-to-kill.json) |
@@ -6087,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Bundle: Shadow Quest and Nightshade Ninja Warrior | 266342 | [266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json](./266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
+| Shadow Circuit | 29417 | [29417-shadow-circuit.json](./29417-shadow-circuit.json) |
 | Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
 | Shadow Cocoon | 348673 | [348673-shadow-cocoon.json](./348673-shadow-cocoon.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
@@ -7834,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Maiden | 142691 | [142691-shining-maiden.json](./142691-shining-maiden.json) |
 | Shining Nikki | 145944 | [145944-shining-nikki.json](./145944-shining-nikki.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
+| Shining Plume 2 | 29385 | [29385-shining-plume-2.json](./29385-shining-plume-2.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
 | Shining Resonance Refrain: Draconic Launch Edition | 136281 | [136281-shining-resonance-refrain-draconic-launch-edition.json](./136281-shining-resonance-refrain-draconic-launch-edition.json) |
 | Shining Resonance Refrain: Premium Fan Box - Limited Edition | 212320 | [212320-shining-resonance-refrain-premium-fan-box-limited-edition.json](./212320-shining-resonance-refrain-premium-fan-box-limited-edition.json) |
@@ -11271,6 +11274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skillful Pixel Dungeon | 312607 | [312607-skillful-pixel-dungeon.json](./312607-skillful-pixel-dungeon.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
+| Skills Hockey VR | 29431 | [29431-skills-hockey-vr.json](./29431-skills-hockey-vr.json) |
 | Skillshot City | 28014 | [28014-skillshot-city.json](./28014-skillshot-city.json) |
 | Skillsworn | 164954 | [164954-skillsworn.json](./164954-skillsworn.json) |
 | SkillTeam | 344019 | [344019-skillteam.json](./344019-skillteam.json) |
@@ -16913,6 +16917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorry! / Aggravation / Scrabble Junior | 82303 | [82303-sorry-aggravation-scrabble-junior.json](./82303-sorry-aggravation-scrabble-junior.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
+| Sort 'Em | 29445 | [29445-sort-em.json](./29445-sort-em.json) |
 | Sort and Stack | 108295 | [108295-sort-and-stack.json](./108295-sort-and-stack.json) |
 | Sort Battle: Dungeon | 120716 | [120716-sort-battle-dungeon.json](./120716-sort-battle-dungeon.json) |
 | Sort Em All | 345264 | [345264-sort-em-all.json](./345264-sort-em-all.json) |
@@ -18071,6 +18076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
