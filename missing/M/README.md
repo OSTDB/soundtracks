@@ -8636,6 +8636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Catch: Transform Sirens into Anime Girls | 409684 | [409684-mermaid-catch-transform-sirens-into-anime-girls.json](./409684-mermaid-catch-transform-sirens-into-anime-girls.json) |
 | Mermaid City | 310658 | [310658-mermaid-city.json](./310658-mermaid-city.json) |
 | Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
+| Mermaid Gothic | 59101 | [59101-mermaid-gothic.json](./59101-mermaid-gothic.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Life | 400533 | [400533-mermaid-life.json](./400533-mermaid-life.json) |
 | Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start! | 63793 | [63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json](./63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json) |
@@ -9003,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Triple Pack | 268630 | [268630-metal-slug-triple-pack.json](./268630-metal-slug-triple-pack.json) |
 | Metal Slug X | 191478 | [191478-metal-slug-x.json](./191478-metal-slug-x.json) |
 | Metal Slug Zero Online | 137929 | [137929-metal-slug-zero-online.json](./137929-metal-slug-zero-online.json) |
+| Metal Slug: Attack | 59100 | [59100-metal-slug-attack.json](./59100-metal-slug-attack.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
 | Metal Slug: Super Vehicle-001 | 191477 | [191477-metal-slug-super-vehicle-001.json](./191477-metal-slug-super-vehicle-001.json) |
 | Metal Slug: Super Vehicle-001 | 269931 | [269931-metal-slug-super-vehicle-001.json](./269931-metal-slug-super-vehicle-001.json) |
@@ -11128,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Factory | 294039 | [294039-mine-factory.json](./294039-mine-factory.json) |
 | Mine Field | 421417 | [421417-mine-field.json](./421417-mine-field.json) |
 | Mine From Here | 352845 | [352845-mine-from-here.json](./352845-mine-from-here.json) |
+| Mine Heroes | 59300 | [59300-mine-heroes.json](./59300-mine-heroes.json) |
 | Mine Hunter | 231918 | [231918-mine-hunter.json](./231918-mine-hunter.json) |
 | Mine Jam 1 | 343595 | [343595-mine-jam-1.json](./343595-mine-jam-1.json) |
 | Mine Make Escape | 347745 | [347745-mine-make-escape.json](./347745-mine-make-escape.json) |
@@ -16429,6 +16432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
 | Motteke Tamago with Ganbare Kamonohashi | 247571 | [247571-motteke-tamago-with-ganbare-kamonohashi.json](./247571-motteke-tamago-with-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
+| Motto Golful Golf | 59012 | [59012-motto-golful-golf.json](./59012-motto-golful-golf.json) |
 | Motto Immortal | 411564 | [411564-motto-immortal.json](./411564-motto-immortal.json) |
 | Motto Kigaru ni! Oekaki Koubou Plus | 222428 | [222428-motto-kigaru-ni-oekaki-koubou-plus.json](./222428-motto-kigaru-ni-oekaki-koubou-plus.json) |
 | Motto Me de Unou o Kitaeru: Sokudoku Jutsu 3 | 141146 | [141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json](./141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json) |
@@ -17764,6 +17768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Princess 3 | 212820 | [212820-muscle-princess-3.json](./212820-muscle-princess-3.json) |
 | Muscle Ranking GB2: Mezase! Muscle Champion | 228583 | [228583-muscle-ranking-gb2-mezase-muscle-champion.json](./228583-muscle-ranking-gb2-mezase-muscle-champion.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
+| Muscle Ranking: Muscle Wars 21 | 58998 | [58998-muscle-ranking-muscle-wars-21.json](./58998-muscle-ranking-muscle-wars-21.json) |
 | Muscle World | 152096 | [152096-muscle-world.json](./152096-muscle-world.json) |
 | Muscles and Bullets | 124413 | [124413-muscles-and-bullets.json](./124413-muscles-and-bullets.json) |
 | Muse | 333096 | [333096-muse.json](./333096-muse.json) |
