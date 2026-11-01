@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 3: Electrosphere | 306600 | [306600-ace-combat-3-electrosphere.json](./306600-ace-combat-3-electrosphere.json) |
 | Ace Combat 5: Recompiled | 418841 | [418841-ace-combat-5-recompiled.json](./418841-ace-combat-5-recompiled.json) |
 | Ace Combat 5: The Unsung War | 14753 | [14753-ace-combat-5-the-unsung-war.json](./14753-ace-combat-5-the-unsung-war.json) |
+| Ace Combat 6: Fires of Liberation | 5476 | [5476-ace-combat-6-fires-of-liberation.json](./5476-ace-combat-6-fires-of-liberation.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Edition | 218508 | [218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json](./218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set | 282583 | [282583-ace-combat-7-skies-unknown-25th-anniversary-emblem-set.json](./282583-ace-combat-7-skies-unknown-25th-anniversary-emblem-set.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
@@ -15658,6 +15659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on the Deathstar | 181203 | [181203-attack-on-the-deathstar.json](./181203-attack-on-the-deathstar.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
+| Attack on Titan 2 | 55028 | [55028-attack-on-titan-2.json](./55028-attack-on-titan-2.json) |
 | Attack on Titan 2: Biological Research Scout Mission | 170146 | [170146-attack-on-titan-2-biological-research-scout-mission.json](./170146-attack-on-titan-2-biological-research-scout-mission.json) |
 | Attack on Titan 2: Deluxe Edition | 118888 | [118888-attack-on-titan-2-deluxe-edition.json](./118888-attack-on-titan-2-deluxe-edition.json) |
 | Attack on Titan 2: Final Battle Upgrade Pack | 121928 | [121928-attack-on-titan-2-final-battle-upgrade-pack.json](./121928-attack-on-titan-2-final-battle-upgrade-pack.json) |
