@@ -4762,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Orion 1+2 | 155305 | [155305-master-of-orion-1-2.json](./155305-master-of-orion-1-2.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
+| Master of Orion: Collector's Edition | 25359 | [25359-master-of-orion-collectors-edition.json](./25359-master-of-orion-collectors-edition.json) |
 | Master of Orion: Elerian Fiefdoms | 150881 | [150881-master-of-orion-elerian-fiefdoms.json](./150881-master-of-orion-elerian-fiefdoms.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
 | Master of Orion: Retro Fleets | 170132 | [170132-master-of-orion-retro-fleets.json](./170132-master-of-orion-retro-fleets.json) |
@@ -5490,7 +5491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -20007,6 +20007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Treasures of Mystery Collection | 206747 | [206747-mystery-masters-treasures-of-mystery-collection.json](./206747-mystery-masters-treasures-of-mystery-collection.json) |
 | Mystery Masters: Twisted Tales | 206625 | [206625-mystery-masters-twisted-tales.json](./206625-mystery-masters-twisted-tales.json) |
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
+| Mystery Maze of Balthasar Castle | 25389 | [25389-mystery-maze-of-balthasar-castle.json](./25389-mystery-maze-of-balthasar-castle.json) |
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Miniaturist | 183266 | [183266-mystery-miniaturist.json](./183266-mystery-miniaturist.json) |
 | Mystery Mosaics | 87894 | [87894-mystery-mosaics.json](./87894-mystery-mosaics.json) |
