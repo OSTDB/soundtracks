@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Night Endless Tales: Bitter Forest | 403971 | [403971-dark-night-endless-tales-bitter-forest.json](./403971-dark-night-endless-tales-bitter-forest.json) |
 | Dark Night Maze | 232938 | [232938-dark-night-maze.json](./232938-dark-night-maze.json) |
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
+| Dark Nights with Poe and Munro | 118668 | [118668-dark-nights-with-poe-and-munro.json](./118668-dark-nights-with-poe-and-munro.json) |
 | Dark Nights: Reflections | 397602 | [397602-dark-nights-reflections.json](./397602-dark-nights-reflections.json) |
 | Dark Noid | 81779 | [81779-dark-noid.json](./81779-dark-noid.json) |
 | Dark Notes | 212088 | [212088-dark-notes.json](./212088-dark-notes.json) |
@@ -9410,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discode Reverse | 97366 | [97366-discode-reverse.json](./97366-discode-reverse.json) |
 | Discode: Surface | 97612 | [97612-discode-surface.json](./97612-discode-surface.json) |
 | Discolight | 85084 | [85084-discolight.json](./85084-discolight.json) |
+| Discolored | 111932 | [111932-discolored.json](./111932-discolored.json) |
 | Discolored 2 | 216659 | [216659-discolored-2.json](./216659-discolored-2.json) |
 | Discolored Bundle | 332504 | [332504-discolored-bundle.json](./332504-discolored-bundle.json) |
 | Discomfort | 177956 | [177956-discomfort.json](./177956-discomfort.json) |
@@ -9491,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 2: Cursed Memories | 11694 | [11694-disgaea-2-cursed-memories.json](./11694-disgaea-2-cursed-memories.json) |
 | Disgaea 2: Dark Hero Days | 21851 | [21851-disgaea-2-dark-hero-days.json](./21851-disgaea-2-dark-hero-days.json) |
 | Disgaea 3: Absence of Detention | 18370 | [18370-disgaea-3-absence-of-detention.json](./18370-disgaea-3-absence-of-detention.json) |
+| Disgaea 4 Complete+ | 119506 | [119506-disgaea-4-complete.json](./119506-disgaea-4-complete.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Disgaea 4: A Promise Unforgotten | 7298 | [7298-disgaea-4-a-promise-unforgotten.json](./7298-disgaea-4-a-promise-unforgotten.json) |
 | Disgaea 5 Complete | 26768 | [26768-disgaea-5-complete.json](./26768-disgaea-5-complete.json) |
@@ -15864,6 +15867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Dealer 2049 | 421459 | [421459-drug-dealer-2049.json](./421459-drug-dealer-2049.json) |
 | Drug Dealer Manager | 217264 | [217264-drug-dealer-manager.json](./217264-drug-dealer-manager.json) |
 | Drug Dealer Sim: Street Hustle | 295761 | [295761-drug-dealer-sim-street-hustle.json](./295761-drug-dealer-sim-street-hustle.json) |
+| Drug Dealer Simulator | 114830 | [114830-drug-dealer-simulator.json](./114830-drug-dealer-simulator.json) |
 | Drug Dealer: Schedule I | 370790 | [370790-drug-dealer-schedule-i.json](./370790-drug-dealer-schedule-i.json) |
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
@@ -17912,6 +17916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
 | Dynasty Warriors 4: Xtreme Legends | 19631 | [19631-dynasty-warriors-4-xtreme-legends.json](./19631-dynasty-warriors-4-xtreme-legends.json) |
 | Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
+| Dynasty Warriors 5: Empires | 19624 | [19624-dynasty-warriors-5-empires.json](./19624-dynasty-warriors-5-empires.json) |
 | Dynasty Warriors 5: Special | 247095 | [247095-dynasty-warriors-5-special.json](./247095-dynasty-warriors-5-special.json) |
 | Dynasty Warriors 5: Xtreme Legends | 19618 | [19618-dynasty-warriors-5-xtreme-legends.json](./19618-dynasty-warriors-5-xtreme-legends.json) |
 | Dynasty Warriors 6 | 6975 | [6975-dynasty-warriors-6.json](./6975-dynasty-warriors-6.json) |
