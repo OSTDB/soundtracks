@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrappers | 132114 | [132114-scrappers.json](./132114-scrappers.json) |
 | Scrappy Craft | 392723 | [392723-scrappy-craft.json](./392723-scrappy-craft.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
+| Scraps | 60740 | [60740-scraps.json](./60740-scraps.json) |
 | Scraps and Patches | 111726 | [111726-scraps-and-patches.json](./111726-scraps-and-patches.json) |
 | Scraps of the Machine | 377683 | [377683-scraps-of-the-machine.json](./377683-scraps-of-the-machine.json) |
 | Scraps: Hellmouth Creek | 391580 | [391580-scraps-hellmouth-creek.json](./391580-scraps-hellmouth-creek.json) |
@@ -3598,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sè Sè Fādǒu | 373716 | [373716-se-se-fadou.json](./373716-se-se-fadou.json) |
 | Se.Kirara | 397404 | [397404-se-kirara.json](./397404-se-kirara.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
+| Sea Animal City | 60741 | [60741-sea-animal-city.json](./60741-sea-animal-city.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
 | Sea Bass Fishing | 176136 | [176136-sea-bass-fishing.json](./176136-sea-bass-fishing.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
@@ -11746,6 +11748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyrim Anniversary Edition + Fallout 4 G.O.T.Y. Bundle | 342531 | [342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json](./342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
 | Skyrush | 176725 | [176725-skyrush.json](./176725-skyrush.json) |
+| SkySaga: Infinite Isles | 60733 | [60733-skysaga-infinite-isles.json](./60733-skysaga-infinite-isles.json) |
 | SkySavior Helicopter Services | 385656 | [385656-skysavior-helicopter-services.json](./385656-skysavior-helicopter-services.json) |
 | Skyscraper | 125335 | [125335-skyscraper.json](./125335-skyscraper.json) |
 | Skyscraper | 225486 | [225486-skyscraper.json](./225486-skyscraper.json) |
@@ -13319,6 +13322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMS 207 | 420490 | [420490-sms-207.json](./420490-sms-207.json) |
 | SMS Master Blaster! | 53619 | [53619-sms-master-blaster.json](./53619-sms-master-blaster.json) |
 | SMS Returns | 421213 | [421213-sms-returns.json](./421213-sms-returns.json) |
+| SMS-Pong | 60736 | [60736-sms-pong.json](./60736-sms-pong.json) |
 | Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
 | Smudge & The Moonees | 367174 | [367174-smudge-and-the-moonees.json](./367174-smudge-and-the-moonees.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
@@ -17895,6 +17899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28458,6 +28463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Glove Ball | 48234 | [48234-super-glove-ball.json](./48234-super-glove-ball.json) |
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
 | Super Gloves Hero | 156597 | [156597-super-gloves-hero.json](./156597-super-gloves-hero.json) |
+| Super Glyph Quest | 60731 | [60731-super-glyph-quest.json](./60731-super-glyph-quest.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Goalkeeper | 96447 | [96447-super-goalkeeper.json](./96447-super-goalkeeper.json) |
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
