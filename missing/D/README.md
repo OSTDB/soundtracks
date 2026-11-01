@@ -4468,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathSprint 66 | 292868 | [292868-deathsprint-66.json](./292868-deathsprint-66.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
+| Deathstrike | 15214 | [15214-deathstrike.json](./15214-deathstrike.json) |
 | Deathsville | 13582 | [13582-deathsville.json](./13582-deathsville.json) |
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
 | DeathTolls Experience | 96660 | [96660-deathtolls-experience.json](./96660-deathtolls-experience.json) |
@@ -10243,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Rogues | 224615 | [224615-dizzy-rogues.json](./224615-dizzy-rogues.json) |
 | Dizzy Sheep Disaster: EX | 395755 | [395755-dizzy-sheep-disaster-ex.json](./395755-dizzy-sheep-disaster-ex.json) |
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
+| Dizzy Wizard | 15217 | [15217-dizzy-wizard.json](./15217-dizzy-wizard.json) |
 | Dizzy: Crash Edition | 45241 | [45241-dizzy-crash-edition.json](./45241-dizzy-crash-edition.json) |
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
 | Dizzy: The Ultimate Cartoon Adventure | 12357 | [12357-dizzy-the-ultimate-cartoon-adventure.json](./12357-dizzy-the-ultimate-cartoon-adventure.json) |
@@ -10892,6 +10894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
 | Dogs of Wall Street | 125672 | [125672-dogs-of-wall-street.json](./125672-dogs-of-wall-street.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
+| Dogs of War | 15218 | [15218-dogs-of-war.json](./15218-dogs-of-war.json) |
 | Dogs of War | 74307 | [74307-dogs-of-war.json](./74307-dogs-of-war.json) |
 | Dogs of War Online | 15391 | [15391-dogs-of-war-online.json](./15391-dogs-of-war-online.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
@@ -14469,6 +14472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn to Power | 349751 | [349751-drawn-to-power.json](./349751-drawn-to-power.json) |
 | Drawn To You | 336505 | [336505-drawn-to-you.json](./336505-drawn-to-you.json) |
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
+| Drawn: Dark Flight | 15227 | [15227-drawn-dark-flight.json](./15227-drawn-dark-flight.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
 | Drawn: Trail of Shadows - Collector's Edition | 30124 | [30124-drawn-trail-of-shadows-collectors-edition.json](./30124-drawn-trail-of-shadows-collectors-edition.json) |
