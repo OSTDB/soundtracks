@@ -7637,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Tower | 126550 | [126550-grave-tower.json](./126550-grave-tower.json) |
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
+| Graveball | 26169 | [26169-graveball.json](./26169-graveball.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
