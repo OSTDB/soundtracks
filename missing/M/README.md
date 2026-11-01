@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
 | Magnetron | 34089 | [34089-magnetron.json](./34089-magnetron.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
+| MagNets | 10535 | [10535-magnets.json](./10535-magnets.json) |
 | MagNets: Fully Charged | 21322 | [21322-magnets-fully-charged.json](./21322-magnets-fully-charged.json) |
 | Magnetta | 32448 | [32448-magnetta.json](./32448-magnetta.json) |
 | MagnetWorks | 306407 | [306407-magnetworks.json](./306407-magnetworks.json) |
@@ -1725,7 +1726,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaguSphere: Magical Cannon Girls | 122296 | [122296-magusphere-magical-cannon-girls.json](./122296-magusphere-magical-cannon-girls.json) |
 | MagusTale Eternity: Seikaiju to Koisuru Mahou Tsukai | 269498 | [269498-magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.json](./269498-magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.json) |
 | Magyarock VR | 198443 | [198443-magyarock-vr.json](./198443-magyarock-vr.json) |
+| Mah Jong Quest | 10532 | [10532-mah-jong-quest.json](./10532-mah-jong-quest.json) |
 | Mah Jong Quest | 131399 | [131399-mah-jong-quest.json](./131399-mah-jong-quest.json) |
+| Mah Jong Quest II | 10533 | [10533-mah-jong-quest-ii.json](./10533-mah-jong-quest-ii.json) |
+| Mah Jong Quest III | 10534 | [10534-mah-jong-quest-iii.json](./10534-mah-jong-quest-iii.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
 | Mah Jongg Solitaire | 85816 | [85816-mah-jongg-solitaire.json](./85816-mah-jongg-solitaire.json) |
 | Mah Jongg: V-G-A | 261204 | [261204-mah-jongg-v-g-a.json](./261204-mah-jongg-v-g-a.json) |
@@ -3328,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margot's Bepuzzled | 210042 | [210042-margots-bepuzzled.json](./210042-margots-bepuzzled.json) |
 | Margot's Word Brain | 47961 | [47961-margots-word-brain.json](./47961-margots-word-brain.json) |
 | Margrave Manor 3: The Curse of the Blacksmith's Heart | 210041 | [210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json](./210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json) |
+| Margrave Mysteries: The Lost Ship | 10536 | [10536-margrave-mysteries-the-lost-ship.json](./10536-margrave-mysteries-the-lost-ship.json) |
 | Margrave: The Blacksmith's Daughter | 140989 | [140989-margrave-the-blacksmiths-daughter.json](./140989-margrave-the-blacksmiths-daughter.json) |
 | Margrave: The Blacksmith's Daughter Deluxe Edition | 140990 | [140990-margrave-the-blacksmiths-daughter-deluxe-edition.json](./140990-margrave-the-blacksmiths-daughter-deluxe-edition.json) |
 | Mari and Bayu: The Road Home | 193658 | [193658-mari-and-bayu-the-road-home.json](./193658-mari-and-bayu-the-road-home.json) |
@@ -3943,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark Davis Pro Bass Challenge | 3991 | [3991-mark-davis-pro-bass-challenge.json](./3991-mark-davis-pro-bass-challenge.json) |
 | Mark Davis': The Fishing Master | 42499 | [42499-mark-davis-the-fishing-master.json](./42499-mark-davis-the-fishing-master.json) |
 | Mark H. Walker's Lock 'n Load: Heroes of Stalingrad | 129539 | [129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json](./129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json) |
+| Mark Leung: Revenge of the Bitch | 10538 | [10538-mark-leung-revenge-of-the-bitch.json](./10538-mark-leung-revenge-of-the-bitch.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
 | Mark of the Deep | 251771 | [251771-mark-of-the-deep.json](./251771-mark-of-the-deep.json) |
@@ -4181,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Arts Brutality Premium | 149245 | [149245-martial-arts-brutality-premium.json](./149245-martial-arts-brutality-premium.json) |
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
+| Martial Arts: Capoeira | 10539 | [10539-martial-arts-capoeira.json](./10539-martial-arts-capoeira.json) |
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
 | Martial Beat 2 | 292033 | [292033-martial-beat-2.json](./292033-martial-beat-2.json) |
 | Martial Cards | 185863 | [185863-martial-cards.json](./185863-martial-cards.json) |
@@ -4718,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
 | Master Ninja: Shuriken Killer | 278330 | [278330-master-ninja-shuriken-killer.json](./278330-master-ninja-shuriken-killer.json) |
 | Master of 4 Swords | 360666 | [360666-master-of-4-swords.json](./360666-master-of-4-swords.json) |
+| Master of Alchemy | 10540 | [10540-master-of-alchemy.json](./10540-master-of-alchemy.json) |
 | Master of Alchemy - Rise of the Mechanologists | 54208 | [54208-master-of-alchemy-rise-of-the-mechanologists.json](./54208-master-of-alchemy-rise-of-the-mechanologists.json) |
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
@@ -5496,7 +5504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -5756,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Machina | 119646 | [119646-maze-machina.json](./119646-maze-machina.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
+| Maze Man Mania 3D | 10543 | [10543-maze-man-mania-3d.json](./10543-maze-man-mania-3d.json) |
 | Maze Mania | 137858 | [137858-maze-mania.json](./137858-maze-mania.json) |
 | Maze Mania: The Ultimate 3D Maze Game | 173976 | [173976-maze-mania-the-ultimate-3d-maze-game.json](./173976-maze-mania-the-ultimate-3d-maze-game.json) |
 | Maze Mart | 208248 | [208248-maze-mart.json](./208248-maze-mart.json) |
@@ -6466,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Battle Simulator | 110656 | [110656-medieval-battle-simulator.json](./110656-medieval-battle-simulator.json) |
 | Medieval Battle: Europe | 99358 | [99358-medieval-battle-europe.json](./99358-medieval-battle-europe.json) |
 | Medieval Battle: Food Truck | 385960 | [385960-medieval-battle-food-truck.json](./385960-medieval-battle-food-truck.json) |
+| Medieval Battlefields | 10544 | [10544-medieval-battlefields.json](./10544-medieval-battlefields.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Builders: Strongholds & Castles | 236908 | [236908-medieval-builders-strongholds-and-castles.json](./236908-medieval-builders-strongholds-and-castles.json) |
@@ -15115,6 +15124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty's Backyard Adventure | 104229 | [104229-montys-backyard-adventure.json](./104229-montys-backyard-adventure.json) |
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument | 35059 | [35059-monument.json](./35059-monument.json) |
+| Monument Builders: Alcatraz | 10556 | [10556-monument-builders-alcatraz.json](./10556-monument-builders-alcatraz.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
 | Monument Builders: Colosseum | 24752 | [24752-monument-builders-colosseum.json](./24752-monument-builders-colosseum.json) |
@@ -15741,6 +15751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphopolis | 9768 | [9768-morphopolis.json](./9768-morphopolis.json) |
 | Morphos | 395345 | [395345-morphos.json](./395345-morphos.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
+| MorphShift Wars | 10559 | [10559-morphshift-wars.json](./10559-morphshift-wars.json) |
 | Morpi Card Mix | 291686 | [291686-morpi-card-mix.json](./291686-morpi-card-mix.json) |
 | Morps | 75601 | [75601-morps.json](./75601-morps.json) |
 | Morra | 246472 | [246472-morra.json](./246472-morra.json) |
@@ -16302,6 +16313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Pizza Courier | 220681 | [220681-moto-pizza-courier.json](./220681-moto-pizza-courier.json) |
 | Moto Race | 197888 | [197888-moto-race.json](./197888-moto-race.json) |
 | Moto Racer | 10560 | [10560-moto-racer.json](./10560-moto-racer.json) |
+| Moto Racer 15th Anniversary | 10565 | [10565-moto-racer-15th-anniversary.json](./10565-moto-racer-15th-anniversary.json) |
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
 | Moto Racer 4 | 19345 | [19345-moto-racer-4.json](./19345-moto-racer-4.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
@@ -16309,6 +16321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer Collection | 36248 | [36248-moto-racer-collection.json](./36248-moto-racer-collection.json) |
 | Moto Racer DS | 10564 | [10564-moto-racer-ds.json](./10564-moto-racer-ds.json) |
 | Moto Racer Simulator GT Games | 256759 | [256759-moto-racer-simulator-gt-games.json](./256759-moto-racer-simulator-gt-games.json) |
+| Moto Racer World Tour | 10562 | [10562-moto-racer-world-tour.json](./10562-moto-racer-world-tour.json) |
 | Moto Racing 3D | 87081 | [87081-moto-racing-3d.json](./87081-moto-racing-3d.json) |
 | Moto Racing Highway Traffic | 395772 | [395772-moto-racing-highway-traffic.json](./395772-moto-racing-highway-traffic.json) |
 | Moto Rally Racing VR | 288785 | [288785-moto-rally-racing-vr.json](./288785-moto-rally-racing-vr.json) |
