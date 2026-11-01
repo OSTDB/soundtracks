@@ -8795,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwell Unbound | 9041 | [9041-blackwell-unbound.json](./9041-blackwell-unbound.json) |
 | BlackWhite | 201105 | [201105-blackwhite.json](./201105-blackwhite.json) |
 | Blackwood | 371847 | [371847-blackwood.json](./371847-blackwood.json) |
+| Blackwood Crossing | 19394 | [19394-blackwood-crossing.json](./19394-blackwood-crossing.json) |
 | Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
 | Blackwood: A Sétima Safra | 423896 | [423896-blackwood-a-setima-safra.json](./423896-blackwood-a-setima-safra.json) |
 | Blackwood: Beneath the Silence | 365181 | [365181-blackwood-beneath-the-silence.json](./365181-blackwood-beneath-the-silence.json) |
@@ -10337,6 +10338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood, Fire, Death | 268601 | [268601-blood-fire-death.json](./268601-blood-fire-death.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: Endless Pursuit | 319409 | [319409-blood-endless-pursuit.json](./319409-blood-endless-pursuit.json) |
+| Blood: Fresh Supply | 116539 | [116539-blood-fresh-supply.json](./116539-blood-fresh-supply.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
 | Blood: Plasma Pak | 18500 | [18500-blood-plasma-pak.json](./18500-blood-plasma-pak.json) |
 | Blood: Refreshed Supply | 370701 | [370701-blood-refreshed-supply.json](./370701-blood-refreshed-supply.json) |
