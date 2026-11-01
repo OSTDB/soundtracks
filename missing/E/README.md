@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecliptica | 398001 | [398001-ecliptica.json](./398001-ecliptica.json) |
 | Eclosion | 266695 | [266695-eclosion.json](./266695-eclosion.json) |
 | Eclosion | 67106 | [67106-eclosion.json](./67106-eclosion.json) |
+| Eco | 14791 | [14791-eco.json](./14791-eco.json) |
 | Eco | 34939 | [34939-eco.json](./34939-eco.json) |
 | Eco Balance | 400704 | [400704-eco-balance.json](./400704-eco-balance.json) |
 | Eco Biz Tomorrow | 108137 | [108137-eco-biz-tomorrow.json](./108137-eco-biz-tomorrow.json) |
@@ -2130,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element147 | 98016 | [98016-element147.json](./98016-element147.json) |
 | Elementail | 360513 | [360513-elementail.json](./360513-elementail.json) |
 | Elementaire | 297088 | [297088-elementaire.json](./297088-elementaire.json) |
+| Elemental | 15219 | [15219-elemental.json](./15219-elemental.json) |
 | Elemental | 230161 | [230161-elemental.json](./230161-elemental.json) |
 | Elemental | 290641 | [290641-elemental.json](./290641-elemental.json) |
 | Elemental | 325316 | [325316-elemental.json](./325316-elemental.json) |
