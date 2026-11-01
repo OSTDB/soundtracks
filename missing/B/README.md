@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Four Seconds | 183710 | [183710-back-four-seconds.json](./183710-back-four-seconds.json) |
 | Back From Earth | 379176 | [379176-back-from-earth.json](./379176-back-from-earth.json) |
 | Back From Hell | 24877 | [24877-back-from-hell.json](./24877-back-from-hell.json) |
+| Back From Hell | 57431 | [57431-back-from-hell.json](./57431-back-from-hell.json) |
 | Back from the other world, I missed love | 337707 | [337707-back-from-the-other-world-i-missed-love.json](./337707-back-from-the-other-world-i-missed-love.json) |
 | Back from Void | 275069 | [275069-back-from-void.json](./275069-back-from-void.json) |
 | Back Home for Christmas | 175840 | [175840-back-home-for-christmas.json](./175840-back-home-for-christmas.json) |
@@ -3264,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Beaster | 77563 | [77563-battle-beaster.json](./77563-battle-beaster.json) |
 | Battle Beaster 2 | 376728 | [376728-battle-beaster-2.json](./376728-battle-beaster-2.json) |
 | Battle Beat | 395762 | [395762-battle-beat.json](./395762-battle-beat.json) |
+| Battle Beyond the Stars | 57395 | [57395-battle-beyond-the-stars.json](./57395-battle-beyond-the-stars.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blaze | 42629 | [42629-battle-blaze.json](./42629-battle-blaze.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
@@ -3834,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCubes: Arena | 116333 | [116333-battlecubes-arena.json](./116333-battlecubes-arena.json) |
 | Battlecursed | 33422 | [33422-battlecursed.json](./33422-battlecursed.json) |
 | BattleDead | 152466 | [152466-battledead.json](./152466-battledead.json) |
+| BattleDNA | 57392 | [57392-battledna.json](./57392-battledna.json) |
 | BattleDrive | 283978 | [283978-battledrive.json](./283978-battledrive.json) |
 | BattleDroidz | 58122 | [58122-battledroidz.json](./58122-battledroidz.json) |
 | BattleDudes.io | 144189 | [144189-battledudes-io.json](./144189-battledudes-io.json) |
@@ -8308,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jackal | 265480 | [265480-black-jackal.json](./265480-black-jackal.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
 | Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
+| Black Knight Adventure | 57390 | [57390-black-knight-adventure.json](./57390-black-knight-adventure.json) |
 | Black Knight and White Devil | 108942 | [108942-black-knight-and-white-devil.json](./108942-black-knight-and-white-devil.json) |
 | Black Knight: Marine Strike Fighter | 71051 | [71051-black-knight-marine-strike-fighter.json](./71051-black-knight-marine-strike-fighter.json) |
 | Black Knight: Milena | 171335 | [171335-black-knight-milena.json](./171335-black-knight-milena.json) |
@@ -8783,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade.exe | 377036 | [377036-blade-exe.json](./377036-blade-exe.json) |
 | Blade's Burden | 284009 | [284009-blades-burden.json](./284009-blades-burden.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
+| Bladebound | 57414 | [57414-bladebound.json](./57414-bladebound.json) |
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
 | Bladefall | 378429 | [378429-bladefall.json](./378429-bladefall.json) |
 | Bladeforge: Ascension Crusade | 417962 | [417962-bladeforge-ascension-crusade.json](./417962-bladeforge-ascension-crusade.json) |
