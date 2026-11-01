@@ -11157,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog 'n Friends | 229097 | [229097-frog-n-friends.json](./229097-frog-n-friends.json) |
 | Frog 'N Roll | 229276 | [229276-frog-n-roll.json](./229276-frog-n-roll.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
+| Frog & Spiders | 39293 | [39293-frog-and-spiders.json](./39293-frog-and-spiders.json) |
 | Frog Adventure | 386430 | [386430-frog-adventure.json](./386430-frog-adventure.json) |
 | Frog Adventure | 417347 | [417347-frog-adventure.json](./417347-frog-adventure.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
@@ -12354,6 +12355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Head Boxers | 54964 | [54964-funky-head-boxers.json](./54964-funky-head-boxers.json) |
 | Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
 | Funky Horror Band | 45872 | [45872-funky-horror-band.json](./45872-funky-horror-band.json) |
+| Funky Jet | 39350 | [39350-funky-jet.json](./39350-funky-jet.json) |
 | Funky Karts | 107397 | [107397-funky-karts.json](./107397-funky-karts.json) |
 | Funky Kong | 341961 | [341961-funky-kong.json](./341961-funky-kong.json) |
 | Funky Lab Rat | 52227 | [52227-funky-lab-rat.json](./52227-funky-lab-rat.json) |
