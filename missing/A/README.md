@@ -3714,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeternoBlade | 52034 | [52034-aeternoblade.json](./52034-aeternoblade.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
+| Aeternum | 50223 | [50223-aeternum.json](./50223-aeternum.json) |
 | Aeternum Grand Plaza | 350210 | [350210-aeternum-grand-plaza.json](./350210-aeternum-grand-plaza.json) |
 | Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
 | Aeternum Vale | 163783 | [163783-aeternum-vale.json](./163783-aeternum-vale.json) |
@@ -11915,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaeology: Post-Apocalypse | 337973 | [337973-archaeology-post-apocalypse.json](./337973-archaeology-post-apocalypse.json) |
 | Archaeology: Sand Fantasy | 326174 | [326174-archaeology-sand-fantasy.json](./326174-archaeology-sand-fantasy.json) |
 | Archaeology: Sand Japanese | 337974 | [337974-archaeology-sand-japanese.json](./337974-archaeology-sand-japanese.json) |
+| Archage | 50251 | [50251-archage.json](./50251-archage.json) |
 | Archaic | 278890 | [278890-archaic.json](./278890-archaic.json) |
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
 | Archamon | 76077 | [76077-archamon.json](./76077-archamon.json) |
