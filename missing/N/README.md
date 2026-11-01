@@ -3268,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newtonica2 | 77116 | [77116-newtonica2.json](./77116-newtonica2.json) |
 | Newtraction | 194374 | [194374-newtraction.json](./194374-newtraction.json) |
 | NewTypes | 83966 | [83966-newtypes.json](./83966-newtypes.json) |
+| NewU Fitness First Mind Body, Yoga & Pilates Workout | 50957 | [50957-newu-fitness-first-mind-body-yoga-and-pilates-workout.json](./50957-newu-fitness-first-mind-body-yoga-and-pilates-workout.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
 | Nex Credo | 273737 | [273737-nex-credo.json](./273737-nex-credo.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
