@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fasaria World: Ancients of Moons + Server | 99444 | [99444-fasaria-world-ancients-of-moons-server.json](./99444-fasaria-world-ancients-of-moons-server.json) |
 | Fascination | 10793 | [10793-fascination.json](./10793-fascination.json) |
 | Fascination | 205658 | [205658-fascination.json](./205658-fascination.json) |
+| Faselei! | 28401 | [28401-faselei.json](./28401-faselei.json) |
 | Fashion Advisor | 104551 | [104551-fashion-advisor.json](./104551-fashion-advisor.json) |
 | Fashion Apprentice | 209271 | [209271-fashion-apprentice.json](./209271-fashion-apprentice.json) |
 | Fashion AR | 116406 | [116406-fashion-ar.json](./116406-fashion-ar.json) |
@@ -4251,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Maker | 4636 | [4636-fighter-maker.json](./4636-fighter-maker.json) |
 | Fighter Maker 2 | 43644 | [43644-fighter-maker-2.json](./43644-fighter-maker-2.json) |
 | Fighter Mission: Air Superiority | 65369 | [65369-fighter-mission-air-superiority.json](./65369-fighter-mission-air-superiority.json) |
+| Fighter of Evil | 28415 | [28415-fighter-of-evil.json](./28415-fighter-of-evil.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
@@ -4840,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
 | Final Frontier: A New Journey | 107564 | [107564-final-frontier-a-new-journey.json](./107564-final-frontier-a-new-journey.json) |
 | Final Frost | 392192 | [392192-final-frost.json](./392192-final-frost.json) |
+| Final Furlong | 28394 | [28394-final-furlong.json](./28394-final-furlong.json) |
 | Final Furlong 2 | 355862 | [355862-final-furlong-2.json](./355862-final-furlong-2.json) |
 | Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
@@ -9369,6 +9372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
 | Forsaken 64 | 327724 | [327724-forsaken-64.json](./327724-forsaken-64.json) |
 | Forsaken AR: Factory Reset | 234247 | [234247-forsaken-ar-factory-reset.json](./234247-forsaken-ar-factory-reset.json) |
+| Forsaken Castle | 28406 | [28406-forsaken-castle.json](./28406-forsaken-castle.json) |
 | Forsaken Champions | 201552 | [201552-forsaken-champions.json](./201552-forsaken-champions.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
