@@ -10581,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Age: Destruction | 132684 | [132684-apocalypse-age-destruction.json](./132684-apocalypse-age-destruction.json) |
 | Apocalypse Approaches | 335379 | [335379-apocalypse-approaches.json](./335379-apocalypse-approaches.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
+| Apocalypse Cow | 51677 | [51677-apocalypse-cow.json](./51677-apocalypse-cow.json) |
 | Apocalypse Delivery Service | 304576 | [304576-apocalypse-delivery-service.json](./304576-apocalypse-delivery-service.json) |
 | Apocalypse Express | 327968 | [327968-apocalypse-express.json](./327968-apocalypse-express.json) |
 | Apocalypse Factory | 237192 | [237192-apocalypse-factory.json](./237192-apocalypse-factory.json) |
@@ -12413,6 +12414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argy Bargy | 135755 | [135755-argy-bargy.json](./135755-argy-bargy.json) |
 | Argy Bargy Legends | 167473 | [167473-argy-bargy-legends.json](./167473-argy-bargy-legends.json) |
 | Argyle Manor, Book 1: Away From The Sun | 291713 | [291713-argyle-manor-book-1-away-from-the-sun.json](./291713-argyle-manor-book-1-away-from-the-sun.json) |
+| Argyle Shift | 51689 | [51689-argyle-shift.json](./51689-argyle-shift.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Ari In Wonderland: Episode 1 | 200646 | [200646-ari-in-wonderland-episode-1.json](./200646-ari-in-wonderland-episode-1.json) |
 | Ari's Delivery Palooza | 401185 | [401185-aris-delivery-palooza.json](./401185-aris-delivery-palooza.json) |
