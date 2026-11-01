@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valz | 114155 | [114155-valz.json](./114155-valz.json) |
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
 | Vambina | 401260 | [401260-vambina.json](./401260-vambina.json) |
+| Vambrace: Cold Soul | 111253 | [111253-vambrace-cold-soul.json](./111253-vambrace-cold-soul.json) |
 | Vamp Night | 148918 | [148918-vamp-night.json](./148918-vamp-night.json) |
 | Vamp: Lord of Blood | 174759 | [174759-vamp-lord-of-blood.json](./174759-vamp-lord-of-blood.json) |
 | Vampir | 387578 | [387578-vampir.json](./387578-vampir.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
 | Villager's Hideout | 235387 | [235387-villagers-hideout.json](./235387-villagers-hideout.json) |
 | VillageRhapsody | 225808 | [225808-villagerhapsody.json](./225808-villagerhapsody.json) |
+| Villagers | 18623 | [18623-villagers.json](./18623-villagers.json) |
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
 | Villages | 81014 | [81014-villages.json](./81014-villages.json) |
 | Villages on Wheels | 420496 | [420496-villages-on-wheels.json](./420496-villages-on-wheels.json) |
