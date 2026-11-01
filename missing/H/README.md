@@ -5251,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heresy | 323653 | [323653-heresy.json](./323653-heresy.json) |
 | Heresy | 34240 | [34240-heresy.json](./34240-heresy.json) |
 | Heresy Simulator | 174125 | [174125-heresy-simulator.json](./174125-heresy-simulator.json) |
+| Heretic | 6362 | [6362-heretic.json](./6362-heretic.json) |
 | Heretic + Hexen | 360141 | [360141-heretic-hexen.json](./360141-heretic-hexen.json) |
 | Heretic + Hexen Collection | 154327 | [154327-heretic-hexen-collection.json](./154327-heretic-hexen-collection.json) |
 | Heretic Amplified | 268775 | [268775-heretic-amplified.json](./268775-heretic-amplified.json) |
