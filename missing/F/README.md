@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F2 Grand Prix | 138522 | [138522-f2-grand-prix.json](./138522-f2-grand-prix.json) |
 | F22 | 287508 | [287508-f22.json](./287508-f22.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
+| F29 Retaliator | 12086 | [12086-f29-retaliator.json](./12086-f29-retaliator.json) |
 | F29 Retaliator | 195920 | [195920-f29-retaliator.json](./195920-f29-retaliator.json) |
 | F2oggy | 231752 | [231752-f2oggy.json](./231752-f2oggy.json) |
 | F355 Challenge | 10348 | [10348-f355-challenge.json](./10348-f355-challenge.json) |
@@ -2029,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone | 18292 | [18292-fantasy-zone.json](./18292-fantasy-zone.json) |
 | Fantasy Zone | 198630 | [198630-fantasy-zone.json](./198630-fantasy-zone.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
+| Fantasy Zone | 202915 | [202915-fantasy-zone.json](./202915-fantasy-zone.json) |
 | Fantasy Zone | 206230 | [206230-fantasy-zone.json](./206230-fantasy-zone.json) |
 | Fantasy Zone | 206231 | [206231-fantasy-zone.json](./206231-fantasy-zone.json) |
 | Fantasy Zone | 215746 | [215746-fantasy-zone.json](./215746-fantasy-zone.json) |
@@ -3044,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order Lostbelt No. 6: Avalon Le Fae | 346782 | [346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json](./346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json) |
 | Fate/Grand Order VR feat. Mash Kyrielight | 26933 | [26933-fate-grand-order-vr-feat-mash-kyrielight.json](./26933-fate-grand-order-vr-feat-mash-kyrielight.json) |
 | Fate/Grand Order Waltz in the Moonlight/Lostroom | 138703 | [138703-fate-grand-order-waltz-in-the-moonlight-lostroom.json](./138703-fate-grand-order-waltz-in-the-moonlight-lostroom.json) |
+| Fate/Grand Order: All The Statesmen! | 418468 | [418468-fate-grand-order-all-the-statesmen.json](./418468-fate-grand-order-all-the-statesmen.json) |
 | Fate/Grand Order: Anti-Primate Biosphere, Tunguska Sanctuary | 415292 | [415292-fate-grand-order-anti-primate-biosphere-tunguska-sanctuary.json](./415292-fate-grand-order-anti-primate-biosphere-tunguska-sanctuary.json) |
 | Fate/Grand Order: Babylonia | 414462 | [414462-fate-grand-order-babylonia.json](./414462-fate-grand-order-babylonia.json) |
 | Fate/Grand Order: Cosmos in the Lostbelt - Prologue | 416798 | [416798-fate-grand-order-cosmos-in-the-lostbelt-prologue.json](./416798-fate-grand-order-cosmos-in-the-lostbelt-prologue.json) |
@@ -6524,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Security Breach | 300353 | [300353-five-nights-at-freddys-security-breach.json](./300353-five-nights-at-freddys-security-breach.json) |
 | Five Nights at Freddy's: Security Breach - Chaos Mod | 263898 | [263898-five-nights-at-freddys-security-breach-chaos-mod.json](./263898-five-nights-at-freddys-security-breach-chaos-mod.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
+| Five Nights at Freddy's: Security Breach - Ruin | 208303 | [208303-five-nights-at-freddys-security-breach-ruin.json](./208303-five-nights-at-freddys-security-breach-ruin.json) |
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
 | Five Nights at Freddy's: Showtime | 381056 | [381056-five-nights-at-freddys-showtime.json](./381056-five-nights-at-freddys-showtime.json) |
 | Five Nights at Freddy's: Sister Location | 19320 | [19320-five-nights-at-freddys-sister-location.json](./19320-five-nights-at-freddys-sister-location.json) |
@@ -8006,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyff | 12054 | [12054-flyff.json](./12054-flyff.json) |
 | Flyff Legacy | 68901 | [68901-flyff-legacy.json](./68901-flyff-legacy.json) |
+| Flyff Universe | 210014 | [210014-flyff-universe.json](./210014-flyff-universe.json) |
 | FlyFuture | 413445 | [413445-flyfuture.json](./413445-flyfuture.json) |
 | Flyga | 293004 | [293004-flyga.json](./293004-flyga.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
