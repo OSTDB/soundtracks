@@ -16754,6 +16754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
 | The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
 | The Uncertainty Machine | 73056 | [73056-the-uncertainty-machine.json](./73056-the-uncertainty-machine.json) |
+| The Uncle Who Works for Nintendo | 60754 | [60754-the-uncle-who-works-for-nintendo.json](./60754-the-uncle-who-works-for-nintendo.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The Unclosed Case | 414130 | [414130-the-unclosed-case.json](./414130-the-unclosed-case.json) |
 | The Uncultured | 348109 | [348109-the-uncultured.json](./348109-the-uncultured.json) |
@@ -29377,6 +29378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: Supernatural Supermarket | 319850 | [319850-tsugunohi-supernatural-supermarket.json](./319850-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
+| Tsujidou-san no Jun'ai Road | 60746 | [60746-tsujidou-san-no-junai-road.json](./60746-tsujidou-san-no-junai-road.json) |
 | Tsuka Shikiru ha Yarazu no Ame | 395358 | [395358-tsuka-shikiru-ha-yarazu-no-ame.json](./395358-tsuka-shikiru-ha-yarazu-no-ame.json) |
 | Tsukame, Jinsei no Migiuchi! GoGo Zenkaiten Arashi wo Yobu! Honoo no Pachinkas Road | 314828 | [314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json](./314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json) |
 | Tsukasa no Satisfaction | 77851 | [77851-tsukasa-no-satisfaction.json](./77851-tsukasa-no-satisfaction.json) |
