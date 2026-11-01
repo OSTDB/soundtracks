@@ -13718,6 +13718,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Survival: Architect of Crime Simulator | 259052 | [259052-prison-survival-architect-of-crime-simulator.json](./259052-prison-survival-architect-of-crime-simulator.json) |
 | Prison Survival: Inmate Life Simulator | 317437 | [317437-prison-survival-inmate-life-simulator.json](./317437-prison-survival-inmate-life-simulator.json) |
 | Prison Test | 102369 | [102369-prison-test.json](./102369-prison-test.json) |
+| Prison Tycoon | 14880 | [14880-prison-tycoon.json](./14880-prison-tycoon.json) |
+| Prison Tycoon 2: Maximum Security | 14881 | [14881-prison-tycoon-2-maximum-security.json](./14881-prison-tycoon-2-maximum-security.json) |
 | Prison Tycoon 3: Lockdown | 14862 | [14862-prison-tycoon-3-lockdown.json](./14862-prison-tycoon-3-lockdown.json) |
 | Prison Tycoon 4: Supermax | 14882 | [14882-prison-tycoon-4-supermax.json](./14882-prison-tycoon-4-supermax.json) |
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
@@ -17474,6 +17476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythagorean Complex | 130288 | [130288-pythagorean-complex.json](./130288-pythagorean-complex.json) |
 | Pythagoria | 33723 | [33723-pythagoria.json](./33723-pythagoria.json) |
+| Pythetron | 14892 | [14892-pythetron.json](./14892-pythetron.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
 | Pythonisa | 352336 | [352336-pythonisa.json](./352336-pythonisa.json) |
