@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uberich: Advent Sinners | 298452 | [298452-uberich-advent-sinners.json](./298452-uberich-advent-sinners.json) |
 | Uberlaufer | 149884 | [149884-uberlaufer.json](./149884-uberlaufer.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
+| Ubermosh | 35585 | [35585-ubermosh.json](./35585-ubermosh.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
 | Ubermosh Vol.5 | 38808 | [38808-ubermosh-vol-5.json](./38808-ubermosh-vol-5.json) |
 | Ubermosh Vol.7 | 115377 | [115377-ubermosh-vol-7.json](./115377-ubermosh-vol-7.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under His Eyes | 378428 | [378428-under-his-eyes.json](./378428-under-his-eyes.json) |
 | Under Iron Water | 192219 | [192219-under-iron-water.json](./192219-under-iron-water.json) |
 | Under Kingdom: Scam Centre Simulator | 346251 | [346251-under-kingdom-scam-centre-simulator.json](./346251-under-kingdom-scam-centre-simulator.json) |
+| Under Leaves | 28236 | [28236-under-leaves.json](./28236-under-leaves.json) |
 | Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
 | Under Mythos | 419966 | [419966-under-mythos.json](./419966-under-mythos.json) |
 | Under Night In-Birth | 190982 | [190982-under-night-in-birth.json](./190982-under-night-in-birth.json) |
