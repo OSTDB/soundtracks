@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero-G VR | 32828 | [32828-zero-g-vr.json](./32828-zero-g-vr.json) |
 | Zero-Point | 149253 | [149253-zero-point.json](./149253-zero-point.json) |
 | Zero: Circle of Flow | 145579 | [145579-zero-circle-of-flow.json](./145579-zero-circle-of-flow.json) |
+| Zero: Tsukihami no Kamen | 26142 | [26142-zero-tsukihami-no-kamen.json](./26142-zero-tsukihami-no-kamen.json) |
 | Zero's Fantastic Anecdote | 284789 | [284789-zeros-fantastic-anecdote.json](./284789-zeros-fantastic-anecdote.json) |
 | Zero4 Champ DooZy-J | 125856 | [125856-zero4-champ-doozy-j.json](./125856-zero4-champ-doozy-j.json) |
 | Zero4 Champ II | 125857 | [125857-zero4-champ-ii.json](./125857-zero4-champ-ii.json) |
