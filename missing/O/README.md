@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Odonata | 143366 | [143366-order-of-the-odonata.json](./143366-order-of-the-odonata.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
 | Order of the Thorne: The King's Challenge | 51860 | [51860-order-of-the-thorne-the-kings-challenge.json](./51860-order-of-the-thorne-the-kings-challenge.json) |
+| Order of Twilight | 50269 | [50269-order-of-twilight.json](./50269-order-of-twilight.json) |
 | Order of War: Challenge | 66900 | [66900-order-of-war-challenge.json](./66900-order-of-war-challenge.json) |
 | Order please! | 216108 | [216108-order-please.json](./216108-order-please.json) |
 | Order Point | 390982 | [390982-order-point.json](./390982-order-point.json) |
