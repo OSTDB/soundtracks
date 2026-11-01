@@ -3928,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InkSplosion | 95608 | [95608-inksplosion.json](./95608-inksplosion.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
+| Inkulinati | 110957 | [110957-inkulinati.json](./110957-inkulinati.json) |
 | Inkulinati: Supporter Bundle | 336135 | [336135-inkulinati-supporter-bundle.json](./336135-inkulinati-supporter-bundle.json) |
 | Inkulinati: Supporter Pack | 374364 | [374364-inkulinati-supporter-pack.json](./374364-inkulinati-supporter-pack.json) |
 | Inkventure | 347326 | [347326-inkventure.json](./347326-inkventure.json) |
