@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemtactix | 99386 | [99386-gemtactix.json](./99386-gemtactix.json) |
 | Gemtrader Story 2: Blood Relationship | 227377 | [227377-gemtrader-story-2-blood-relationship.json](./227377-gemtrader-story-2-blood-relationship.json) |
 | GemVenture | 228638 | [228638-gemventure.json](./228638-gemventure.json) |
+| GemWars | 30466 | [30466-gemwars.json](./30466-gemwars.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | GemWords | 53084 | [53084-gemwords.json](./53084-gemwords.json) |
 | Gemz | 299501 | [299501-gemz.json](./299501-gemz.json) |
@@ -3703,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
+| Ghostlight Manor | 30434 | [30434-ghostlight-manor.json](./30434-ghostlight-manor.json) |
 | Ghostlight Melancholia | 201082 | [201082-ghostlight-melancholia.json](./201082-ghostlight-melancholia.json) |
 | Ghostlop | 40126 | [40126-ghostlop.json](./40126-ghostlop.json) |
 | Ghostlop (Limited release) | 75470 | [75470-ghostlop-limited-release.json](./75470-ghostlop-limited-release.json) |
@@ -5218,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goalkeeper Journey | 340313 | [340313-goalkeeper-journey.json](./340313-goalkeeper-journey.json) |
 | Goalkeeper VR Challenge | 112499 | [112499-goalkeeper-vr-challenge.json](./112499-goalkeeper-vr-challenge.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
+| Goaltender VR | 30422 | [30422-goaltender-vr.json](./30422-goaltender-vr.json) |
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
 | Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
 | Goat Evolution | 103091 | [103091-goat-evolution.json](./103091-goat-evolution.json) |
@@ -5284,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
 | Goblet Cave | 129447 | [129447-goblet-cave.json](./129447-goblet-cave.json) |
 | Goblet Grotto | 64354 | [64354-goblet-grotto.json](./64354-goblet-grotto.json) |
+| Goblet of Maya | 30458 | [30458-goblet-of-maya.json](./30458-goblet-of-maya.json) |
 | Goblet of Mercy | 271628 | [271628-goblet-of-mercy.json](./271628-goblet-of-mercy.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
 | Gobli's Adventure | 274413 | [274413-goblis-adventure.json](./274413-goblis-adventure.json) |
