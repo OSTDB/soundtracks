@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type DX | 49829 | [49829-r-type-dx.json](./49829-r-type-dx.json) |
 | R-Type DX: Music Encore | 399802 | [399802-r-type-dx-music-encore.json](./399802-r-type-dx-music-encore.json) |
 | R-Type Final | 24109 | [24109-r-type-final.json](./24109-r-type-final.json) |
+| R-Type Final 2 | 116899 | [116899-r-type-final-2.json](./116899-r-type-final-2.json) |
 | R-Type Final 2: Digital Deluxe Edition | 164704 | [164704-r-type-final-2-digital-deluxe-edition.json](./164704-r-type-final-2-digital-deluxe-edition.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
@@ -6217,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Offroad | 175011 | [175011-revolution-offroad.json](./175011-revolution-offroad.json) |
 | Revolution Triumph | 151520 | [151520-revolution-triumph.json](./151520-revolution-triumph.json) |
 | Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
+| Revolution X | 20298 | [20298-revolution-x.json](./20298-revolution-x.json) |
 | Revolution: Path of a Weaponsmith | 157416 | [157416-revolution-path-of-a-weaponsmith.json](./157416-revolution-path-of-a-weaponsmith.json) |
 | Revolution: The New Cycle | 261096 | [261096-revolution-the-new-cycle.json](./261096-revolution-the-new-cycle.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
