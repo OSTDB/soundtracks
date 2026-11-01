@@ -4738,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Climb | 195577 | [195577-aim-climb.json](./195577-aim-climb.json) |
 | Aim Down Screen | 283888 | [283888-aim-down-screen.json](./283888-aim-down-screen.json) |
 | Aim Expert | 235049 | [235049-aim-expert.json](./235049-aim-expert.json) |
+| Aim for the Top! Gunbuster | 57987 | [57987-aim-for-the-top-gunbuster.json](./57987-aim-for-the-top-gunbuster.json) |
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
 | Aim for the Win: The Forge | 174507 | [174507-aim-for-the-win-the-forge.json](./174507-aim-for-the-win-the-forge.json) |
@@ -10408,6 +10409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment of Love | 83803 | [83803-apartment-of-love.json](./83803-apartment-of-love.json) |
 | Apartment Story | 314709 | [314709-apartment-story.json](./314709-apartment-story.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
+| Apartment: A Separated Place | 57948 | [57948-apartment-a-separated-place.json](./57948-apartment-a-separated-place.json) |
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
 | Apassionata: A Passionate Horse-Show - My Show | 269644 | [269644-apassionata-a-passionate-horse-show-my-show.json](./269644-apassionata-a-passionate-horse-show-my-show.json) |
 | Apastron | 138455 | [138455-apastron.json](./138455-apastron.json) |
