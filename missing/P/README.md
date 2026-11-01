@@ -6628,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Palz | 180508 | [180508-ping-pong-palz.json](./180508-ping-pong-palz.json) |
 | Ping Pong Peg | 226090 | [226090-ping-pong-peg.json](./226090-ping-pong-peg.json) |
 | Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
+| Ping Pong Power | 59599 | [59599-ping-pong-power.json](./59599-ping-pong-power.json) |
 | Ping Pong Pufferfish | 188985 | [188985-ping-pong-pufferfish.json](./188985-ping-pong-pufferfish.json) |
 | Ping Pong Run | 241565 | [241565-ping-pong-run.json](./241565-ping-pong-run.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
@@ -13056,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priconne! Grand Masters | 196523 | [196523-priconne-grand-masters.json](./196523-priconne-grand-masters.json) |
 | Pride | 181737 | [181737-pride.json](./181737-pride.json) |
 | Pride and Prejudice | 22177 | [22177-pride-and-prejudice.json](./22177-pride-and-prejudice.json) |
+| Pride and Prejudice and Zombies | 59610 | [59610-pride-and-prejudice-and-zombies.json](./59610-pride-and-prejudice-and-zombies.json) |
 | Pride and Prejudice: Blood Ties | 192776 | [192776-pride-and-prejudice-blood-ties.json](./192776-pride-and-prejudice-blood-ties.json) |
 | Pride and Prejudice: Blood Ties - Collector's Edition | 226491 | [226491-pride-and-prejudice-blood-ties-collectors-edition.json](./226491-pride-and-prejudice-blood-ties-collectors-edition.json) |
 | Pride Dance Out & Proud | 201972 | [201972-pride-dance-out-and-proud.json](./201972-pride-dance-out-and-proud.json) |
@@ -13287,6 +13289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Shadow and the Flame | 142256 | [142256-prince-of-persia-the-shadow-and-the-flame.json](./142256-prince-of-persia-the-shadow-and-the-flame.json) |
 | Prince of Persia: The Two Thrones | 242993 | [242993-prince-of-persia-the-two-thrones.json](./242993-prince-of-persia-the-two-thrones.json) |
 | Prince of Persia: The Two Thrones HD | 134933 | [134933-prince-of-persia-the-two-thrones-hd.json](./134933-prince-of-persia-the-two-thrones-hd.json) |
+| Prince of Persia: Time Run | 59596 | [59596-prince-of-persia-time-run.json](./59596-prince-of-persia-time-run.json) |
 | Prince of Persia: Warrior Within | 213052 | [213052-prince-of-persia-warrior-within.json](./213052-prince-of-persia-warrior-within.json) |
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
 | Prince of Prussia | 336715 | [336715-prince-of-prussia.json](./336715-prince-of-prussia.json) |
