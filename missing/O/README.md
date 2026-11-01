@@ -4057,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscarzinho e o Bug do Esporte | 218411 | [218411-oscarzinho-e-o-bug-do-esporte.json](./218411-oscarzinho-e-o-bug-do-esporte.json) |
 | Oscillation | 262313 | [262313-oscillation.json](./262313-oscillation.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
+| Oscura | 61937 | [61937-oscura.json](./61937-oscura.json) |
 | Oscura: Lost Light | 17784 | [17784-oscura-lost-light.json](./17784-oscura-lost-light.json) |
 | Oscuria: The World of Nightmares | 160185 | [160185-oscuria-the-world-of-nightmares.json](./160185-oscuria-the-world-of-nightmares.json) |
 | Oscuro Blossom's Glow | 342264 | [342264-oscuro-blossoms-glow.json](./342264-oscuro-blossoms-glow.json) |
