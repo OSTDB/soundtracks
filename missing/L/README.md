@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Forêt de Pago: La vengeance du Dragon | 120593 | [120593-la-foret-de-pago-la-vengeance-du-dragon.json](./120593-la-foret-de-pago-la-vengeance-du-dragon.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
 | La Giungla Tenebrosa | 145976 | [145976-la-giungla-tenebrosa.json](./145976-la-giungla-tenebrosa.json) |
+| La Grande Armee at Austerlitz | 61844 | [61844-la-grande-armee-at-austerlitz.json](./61844-la-grande-armee-at-austerlitz.json) |
 | La Guerra de las Vajillas | 85724 | [85724-la-guerra-de-las-vajillas.json](./85724-la-guerra-de-las-vajillas.json) |
 | La Historia De | 129078 | [129078-la-historia-de.json](./129078-la-historia-de.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
