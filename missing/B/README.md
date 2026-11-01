@@ -15684,6 +15684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder VR | 127582 | [127582-builder-vr.json](./127582-builder-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
+| Builder's Block | 44959 | [44959-builders-block.json](./44959-builders-block.json) |
 | Builderland: The Story of Melba | 13451 | [13451-builderland-the-story-of-melba.json](./13451-builderland-the-story-of-melba.json) |
 | Builderment | 174572 | [174572-builderment.json](./174572-builderment.json) |
 | Builderment Idle | 296795 | [296795-builderment-idle.json](./296795-builderment-idle.json) |
