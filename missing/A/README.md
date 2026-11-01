@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Girl A Rain | 415766 | [415766-a-girl-a-rain.json](./415766-a-girl-a-rain.json) |
 | A Girl Adrift | 119219 | [119219-a-girl-adrift.json](./119219-a-girl-adrift.json) |
 | A Girl in the City | 139722 | [139722-a-girl-in-the-city.json](./139722-a-girl-in-the-city.json) |
+| A Girl in the City: Extended Edition | 52347 | [52347-a-girl-in-the-city-extended-edition.json](./52347-a-girl-in-the-city-extended-edition.json) |
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
 | A Glider's Journey | 120462 | [120462-a-gliders-journey.json](./120462-a-gliders-journey.json) |
@@ -493,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
 | A Gummy's Life | 29662 | [29662-a-gummys-life.json](./29662-a-gummys-life.json) |
 | A Gunshot in Room 37 | 311660 | [311660-a-gunshot-in-room-37.json](./311660-a-gunshot-in-room-37.json) |
+| A Gypsy's Tale | 52346 | [52346-a-gypsys-tale.json](./52346-a-gypsys-tale.json) |
 | A Gypsy's Tale: The Tower of Secrets | 109193 | [109193-a-gypsys-tale-the-tower-of-secrets.json](./109193-a-gypsys-tale-the-tower-of-secrets.json) |
 | A Halloween Afternoon | 409356 | [409356-a-halloween-afternoon.json](./409356-a-halloween-afternoon.json) |
 | A Halloween Valentine | 219975 | [219975-a-halloween-valentine.json](./219975-a-halloween-valentine.json) |
