@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Summer | 298672 | [298672-last-summer.json](./298672-last-summer.json) |
 | Last Summer | 368795 | [368795-last-summer.json](./368795-last-summer.json) |
 | Last Summer at Camp Apocalypse Blood: 101 Ways to Not Capture Bigfoot | 349939 | [349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json](./349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json) |
+| Last Survivor | 26170 | [26170-last-survivor.json](./26170-last-survivor.json) |
 | Last Survivor | 74411 | [74411-last-survivor.json](./74411-last-survivor.json) |
 | Last Survivor | 81430 | [81430-last-survivor.json](./81430-last-survivor.json) |
 | Last Survivor | 89997 | [89997-last-survivor.json](./89997-last-survivor.json) |
