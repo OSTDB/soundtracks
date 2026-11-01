@@ -5984,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alhambra Game | 95655 | [95655-alhambra-game.json](./95655-alhambra-game.json) |
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
 | Ali Baba and 40 Thieves | 39468 | [39468-ali-baba-and-40-thieves.json](./39468-ali-baba-and-40-thieves.json) |
+| Ali Baba and the Forty Thieves | 18750 | [18750-ali-baba-and-the-forty-thieves.json](./18750-ali-baba-and-the-forty-thieves.json) |
 | Ali the Android | 179404 | [179404-ali-the-android.json](./179404-ali-the-android.json) |
 | Ali-Baba | 84339 | [84339-ali-baba.json](./84339-ali-baba.json) |
 | Alia's Carnival! | 78478 | [78478-alias-carnival.json](./78478-alias-carnival.json) |
@@ -16185,6 +16186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Code | 21206 | [21206-avalon-code.json](./21206-avalon-code.json) |
 | Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
+| Avalon Hill's Diplomacy | 18838 | [18838-avalon-hills-diplomacy.json](./18838-avalon-hills-diplomacy.json) |
 | Avalon Hill's Squad Leader | 73674 | [73674-avalon-hills-squad-leader.json](./73674-avalon-hills-squad-leader.json) |
 | Avalon Jewels 2: Collector's Edition | 337222 | [337222-avalon-jewels-2-collectors-edition.json](./337222-avalon-jewels-2-collectors-edition.json) |
 | Avalon Jewels 3: Collector's Edition | 381256 | [381256-avalon-jewels-3-collectors-edition.json](./381256-avalon-jewels-3-collectors-edition.json) |
