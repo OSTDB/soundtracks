@@ -2666,6 +2666,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untamed: Life of a Cougar | 35017 | [35017-untamed-life-of-a-cougar.json](./35017-untamed-life-of-a-cougar.json) |
 | Untangle | 163236 | [163236-untangle.json](./163236-untangle.json) |
 | Untangle | 338820 | [338820-untangle.json](./338820-untangle.json) |
+| Untangle | 57401 | [57401-untangle.json](./57401-untangle.json) |
+| Untangle Challenge | 57403 | [57403-untangle-challenge.json](./57403-untangle-challenge.json) |
 | Untangle Goats | 318496 | [318496-untangle-goats.json](./318496-untangle-goats.json) |
 | Untangled: Payback | 168578 | [168578-untangled-payback.json](./168578-untangled-payback.json) |
 | Untei DX | 295918 | [295918-untei-dx.json](./295918-untei-dx.json) |
