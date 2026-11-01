@@ -4655,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape & Avenge | 239242 | [239242-escape-and-avenge.json](./239242-escape-and-avenge.json) |
 | Escape + Rooms Horror Bundle | 417286 | [417286-escape-rooms-horror-bundle.json](./417286-escape-rooms-horror-bundle.json) |
 | Escape 2: The Closet | 317400 | [317400-escape-2-the-closet.json](./317400-escape-2-the-closet.json) |
+| Escape 2042: The Truth Defenders | 29373 | [29373-escape-2042-the-truth-defenders.json](./29373-escape-2042-the-truth-defenders.json) |
 | Escape 2088 | 147658 | [147658-escape-2088.json](./147658-escape-2088.json) |
 | Escape 4: The Bathroom | 317401 | [317401-escape-4-the-bathroom.json](./317401-escape-4-the-bathroom.json) |
 | Escape 51 | 339766 | [339766-escape-51.json](./339766-escape-51.json) |
@@ -7467,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminator | 238557 | [238557-exterminator.json](./238557-exterminator.json) |
 | Exterminator | 290376 | [290376-exterminator.json](./290376-exterminator.json) |
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
+| Exterminator | 29389 | [29389-exterminator.json](./29389-exterminator.json) |
 | Exterminator Simulator | 129966 | [129966-exterminator-simulator.json](./129966-exterminator-simulator.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminatus: A Grim Odyssey | 370472 | [370472-exterminatus-a-grim-odyssey.json](./370472-exterminatus-a-grim-odyssey.json) |
