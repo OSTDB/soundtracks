@@ -7715,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Roll 64 | 422097 | [422097-bird-roll-64.json](./422097-bird-roll-64.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
+| Bird Song | 50254 | [50254-bird-song.json](./50254-bird-song.json) |
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
 | Bird Strike | 15672 | [15672-bird-strike.json](./15672-bird-strike.json) |
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
@@ -10691,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Flow | 245680 | [245680-blue-flow.json](./245680-blue-flow.json) |
 | Blue Flow | 380033 | [380033-blue-flow.json](./380033-blue-flow.json) |
 | Blue Flow Fandisc | 408309 | [408309-blue-flow-fandisc.json](./408309-blue-flow-fandisc.json) |
+| Blue Force | 50236 | [50236-blue-force.json](./50236-blue-force.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
 | Blue Funk | 234668 | [234668-blue-funk.json](./234668-blue-funk.json) |
 | Blue Hawaii Aniki's Soft Ore Demand Debut | 365262 | [365262-blue-hawaii-anikis-soft-ore-demand-debut.json](./365262-blue-hawaii-anikis-soft-ore-demand-debut.json) |
