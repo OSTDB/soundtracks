@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
 | Gamma Space | 193082 | [193082-gamma-space.json](./193082-gamma-space.json) |
 | Gamma Strain | 322623 | [322623-gamma-strain.json](./322623-gamma-strain.json) |
+| Gamma World: Alpha Mutation | 51648 | [51648-gamma-world-alpha-mutation.json](./51648-gamma-world-alpha-mutation.json) |
 | Gamma Zero | 332923 | [332923-gamma-zero.json](./332923-gamma-zero.json) |
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
@@ -5960,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
 | Golden Sails | 329144 | [329144-golden-sails.json](./329144-golden-sails.json) |
 | Golden Sand Dream Curse | 359537 | [359537-golden-sand-dream-curse.json](./359537-golden-sand-dream-curse.json) |
+| Golden Scarab | 51680 | [51680-golden-scarab.json](./51680-golden-scarab.json) |
 | Golden Self | 385887 | [385887-golden-self.json](./385887-golden-self.json) |
 | Golden Spatula | 326661 | [326661-golden-spatula.json](./326661-golden-spatula.json) |
 | Golden Spider Solitaire | 144528 | [144528-golden-spider-solitaire.json](./144528-golden-spider-solitaire.json) |
@@ -9252,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Grids | 326540 | [326540-guardian-grids.json](./326540-guardian-grids.json) |
 | Guardian Hearts Online | 64445 | [64445-guardian-hearts-online.json](./64445-guardian-hearts-online.json) |
 | Guardian Heroes | 21838 | [21838-guardian-heroes.json](./21838-guardian-heroes.json) |
+| Guardian Heroes | 51635 | [51635-guardian-heroes.json](./51635-guardian-heroes.json) |
 | Guardian Hunter | 58649 | [58649-guardian-hunter.json](./58649-guardian-hunter.json) |
 | Guardian II: Revenge of the Mutants | 152477 | [152477-guardian-ii-revenge-of-the-mutants.json](./152477-guardian-ii-revenge-of-the-mutants.json) |
 | Guardian Kingdoms | 54686 | [54686-guardian-kingdoms.json](./54686-guardian-kingdoms.json) |
