@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaarghpocalypse | 273874 | [273874-aaarghpocalypse.json](./273874-aaarghpocalypse.json) |
 | Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
 | Aabs Animals | 8626 | [8626-aabs-animals.json](./8626-aabs-animals.json) |
+| Aaero | 18637 | [18637-aaero.json](./18637-aaero.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
 | Aaero 2: Arcade Paradise Music Pack | 377420 | [377420-aaero-2-arcade-paradise-music-pack.json](./377420-aaero-2-arcade-paradise-music-pack.json) |
 | Aaero 2: Black Razor Edition | 366211 | [366211-aaero-2-black-razor-edition.json](./366211-aaero-2-black-razor-edition.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
 | Aarik: and the Ruined Kingdom | 276707 | [276707-aarik-and-the-ruined-kingdom.json](./276707-aarik-and-the-ruined-kingdom.json) |
+| Aarklash: Legacy | 9938 | [9938-aarklash-legacy.json](./9938-aarklash-legacy.json) |
 | AAron | 398511 | [398511-aaron.json](./398511-aaron.json) |
 | Aaron Crane: Paintings Come Alive | 64280 | [64280-aaron-crane-paintings-come-alive.json](./64280-aaron-crane-paintings-come-alive.json) |
 | Aaron Lee VS. Space and Time | 185457 | [185457-aaron-lee-vs-space-and-time.json](./185457-aaron-lee-vs-space-and-time.json) |
@@ -6218,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breaker Deluxe | 225515 | [225515-alien-breaker-deluxe.json](./225515-alien-breaker-deluxe.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
+| Alien Breed 2: Assault | 9962 | [9962-alien-breed-2-assault.json](./9962-alien-breed-2-assault.json) |
 | Alien Breed 3: Descent | 9963 | [9963-alien-breed-3-descent.json](./9963-alien-breed-3-descent.json) |
 | Alien Breed 35th Anniversary | 414853 | [414853-alien-breed-35th-anniversary.json](./414853-alien-breed-35th-anniversary.json) |
 | Alien Breed 3D | 14239 | [14239-alien-breed-3d.json](./14239-alien-breed-3d.json) |
@@ -8612,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Warriors | 283901 | [283901-ancient-warriors.json](./283901-ancient-warriors.json) |
 | Ancient Warriors Casino Jackpot | 174073 | [174073-ancient-warriors-casino-jackpot.json](./174073-ancient-warriors-casino-jackpot.json) |
 | Ancient Wars: Medieval Crusades | 211401 | [211401-ancient-wars-medieval-crusades.json](./211401-ancient-wars-medieval-crusades.json) |
+| Ancient Wars: Sparta | 19077 | [19077-ancient-wars-sparta.json](./19077-ancient-wars-sparta.json) |
 | Ancient Wars: Sparta Definitive Edition | 188425 | [188425-ancient-wars-sparta-definitive-edition.json](./188425-ancient-wars-sparta-definitive-edition.json) |
 | Ancient Wars: Sparta HD | 392185 | [392185-ancient-wars-sparta-hd.json](./392185-ancient-wars-sparta-hd.json) |
 | Ancient Weapon Holly | 264162 | [264162-ancient-weapon-holly.json](./264162-ancient-weapon-holly.json) |
@@ -9681,6 +9685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna vs. Sentimental Fighter | 330933 | [330933-anna-vs-sentimental-fighter.json](./330933-anna-vs-sentimental-fighter.json) |
 | Anna vs. the A.I. Maze | 199755 | [199755-anna-vs-the-a-i-maze.json](./199755-anna-vs-the-a-i-maze.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
+| Anna: Extended Edition | 9977 | [9977-anna-extended-edition.json](./9977-anna-extended-edition.json) |
 | Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Bakery Shop | 422138 | [422138-annas-bakery-shop.json](./422138-annas-bakery-shop.json) |
@@ -10109,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
 | Anstoss 2005 | 141469 | [141469-anstoss-2005.json](./141469-anstoss-2005.json) |
 | Anstoss 2007 | 141470 | [141470-anstoss-2007.json](./141470-anstoss-2007.json) |
+| Anstoss 3 | 11226 | [11226-anstoss-3.json](./11226-anstoss-3.json) |
 | Anstoß 4 | 85734 | [85734-ansto-4.json](./85734-ansto-4.json) |
 | Anstoss 4: Edition 03/04 | 141468 | [141468-anstoss-4-edition-03-04.json](./141468-anstoss-4-edition-03-04.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
@@ -12834,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArmA Mobile Ops | 125918 | [125918-arma-mobile-ops.json](./125918-arma-mobile-ops.json) |
 | Arma Reforger | 201789 | [201789-arma-reforger.json](./201789-arma-reforger.json) |
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
+| Arma: Cold War Assault | 9775 | [9775-arma-cold-war-assault.json](./9775-arma-cold-war-assault.json) |
 | ARMA: Gold Edition | 27937 | [27937-arma-gold-edition.json](./27937-arma-gold-edition.json) |
 | ArmaCulture | 148310 | [148310-armaculture.json](./148310-armaculture.json) |
 | Armada | 11914 | [11914-armada.json](./11914-armada.json) |
@@ -15505,6 +15512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Picnic | 228902 | [228902-atomic-picnic.json](./228902-atomic-picnic.json) |
 | Atomic Point | 39619 | [39619-atomic-point.json](./39619-atomic-point.json) |
 | Atomic Protector | 15607 | [15607-atomic-protector.json](./15607-atomic-protector.json) |
+| Atomic Punk | 18937 | [18937-atomic-punk.json](./18937-atomic-punk.json) |
 | Atomic Punk | 7760 | [7760-atomic-punk.json](./7760-atomic-punk.json) |
 | Atomic Pursuit | 234069 | [234069-atomic-pursuit.json](./234069-atomic-pursuit.json) |
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
