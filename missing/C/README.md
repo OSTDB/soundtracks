@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannonfire | 244310 | [244310-cannonfire.json](./244310-cannonfire.json) |
 | Cannonfire Concerto | 30441 | [30441-cannonfire-concerto.json](./30441-cannonfire-concerto.json) |
 | Cannonpistol | 334346 | [334346-cannonpistol.json](./334346-cannonpistol.json) |
+| Cannons Lasers Rockets | 16870 | [16870-cannons-lasers-rockets.json](./16870-cannons-lasers-rockets.json) |
 | Cannons-Defenders: Steam Edition | 28903 | [28903-cannons-defenders-steam-edition.json](./28903-cannons-defenders-steam-edition.json) |
 | Cannonship | 167536 | [167536-cannonship.json](./167536-cannonship.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
@@ -6697,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Colossus | 30426 | [30426-children-of-colossus.json](./30426-children-of-colossus.json) |
 | Children of Hell | 317507 | [317507-children-of-hell.json](./317507-children-of-hell.json) |
 | Children of Kronos | 376668 | [376668-children-of-kronos.json](./376668-children-of-kronos.json) |
+| Children of Liberty | 16859 | [16859-children-of-liberty.json](./16859-children-of-liberty.json) |
 | Children of Mare | 347344 | [347344-children-of-mare.json](./347344-children-of-mare.json) |
 | Children of Morn | 245667 | [245667-children-of-morn.json](./245667-children-of-morn.json) |
 | Children of Morta: Ancient Spirits | 175855 | [175855-children-of-morta-ancient-spirits.json](./175855-children-of-morta-ancient-spirits.json) |
@@ -10742,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collar x Malice: Unlimited | 69344 | [69344-collar-x-malice-unlimited.json](./69344-collar-x-malice-unlimited.json) |
 | Collar X Malice: Unlimited - Limited Edition | 136207 | [136207-collar-x-malice-unlimited-limited-edition.json](./136207-collar-x-malice-unlimited-limited-edition.json) |
 | Collared | 133984 | [133984-collared.json](./133984-collared.json) |
+| Collateral | 17340 | [17340-collateral.json](./17340-collateral.json) |
 | Collateral | 380080 | [380080-collateral.json](./380080-collateral.json) |
 | Collateral Damage | 228041 | [228041-collateral-damage.json](./228041-collateral-damage.json) |
 | Collateral Damages | 345925 | [345925-collateral-damages.json](./345925-collateral-damages.json) |
@@ -12510,6 +12513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest Dark | 324257 | [324257-conquest-dark.json](./324257-conquest-dark.json) |
 | Conquest Emperor | 369745 | [369745-conquest-emperor.json](./369745-conquest-emperor.json) |
 | Conquest Manager | 269129 | [269129-conquest-manager.json](./269129-conquest-manager.json) |
+| Conquest of Champions | 16889 | [16889-conquest-of-champions.json](./16889-conquest-of-champions.json) |
 | Conquest of Chesterwoode | 73204 | [73204-conquest-of-chesterwoode.json](./73204-conquest-of-chesterwoode.json) |
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
@@ -19157,6 +19161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypherpunk Essentials | 163651 | [163651-cypherpunk-essentials.json](./163651-cypherpunk-essentials.json) |
 | Cyphers | 62633 | [62633-cyphers.json](./62633-cyphers.json) |
 | Cyphers Game VR | 200976 | [200976-cyphers-game-vr.json](./200976-cyphers-game-vr.json) |
+| Cypress Inheritance: The Beginning | 16937 | [16937-cypress-inheritance-the-beginning.json](./16937-cypress-inheritance-the-beginning.json) |
 | Cypress Legacy | 328097 | [328097-cypress-legacy.json](./328097-cypress-legacy.json) |
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
