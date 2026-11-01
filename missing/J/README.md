@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Cameron's Avatar: The Game | 4211 | [4211-james-camerons-avatar-the-game.json](./4211-james-camerons-avatar-the-game.json) |
 | James Cameron's Dark Angel | 5868 | [5868-james-camerons-dark-angel.json](./5868-james-camerons-dark-angel.json) |
 | James Clavell's Shogun | 15473 | [15473-james-clavells-shogun.json](./15473-james-clavells-shogun.json) |
+| James Clavell's Shogun | 28450 | [28450-james-clavells-shogun.json](./28450-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Noir's Hollywood Crimes | 6830 | [6830-james-noirs-hollywood-crimes.json](./6830-james-noirs-hollywood-crimes.json) |
 | James Patterson: Women's Murder Club - Games of Passion | 47831 | [47831-james-patterson-womens-murder-club-games-of-passion.json](./47831-james-patterson-womens-murder-club-games-of-passion.json) |
@@ -3545,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
 | Jurassic GO - Dinosaur Snap Adventures | 88032 | [88032-jurassic-go-dinosaur-snap-adventures.json](./88032-jurassic-go-dinosaur-snap-adventures.json) |
 | Jurassic Gym | 348437 | [348437-jurassic-gym.json](./348437-jurassic-gym.json) |
+| Jurassic Heart | 28405 | [28405-jurassic-heart.json](./28405-jurassic-heart.json) |
 | Jurassic Hopper: Crossy Dinos | 259734 | [259734-jurassic-hopper-crossy-dinos.json](./259734-jurassic-hopper-crossy-dinos.json) |
 | Jurassic Hunter | 151648 | [151648-jurassic-hunter.json](./151648-jurassic-hunter.json) |
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
