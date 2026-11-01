@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Overloaded | 124618 | [124618-zombies-overloaded.json](./124618-zombies-overloaded.json) |
 | Zombies Rising xXx | 274440 | [274440-zombies-rising-xxx.json](./274440-zombies-rising-xxx.json) |
 | Zombies Royale.io | 214688 | [214688-zombies-royale-io.json](./214688-zombies-royale-io.json) |
+| Zombies Ruined My Day | 52302 | [52302-zombies-ruined-my-day.json](./52302-zombies-ruined-my-day.json) |
 | Zombies Shall Not Pass! | 180574 | [180574-zombies-shall-not-pass.json](./180574-zombies-shall-not-pass.json) |
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
 | Zombies vs Chucky | 105754 | [105754-zombies-vs-chucky.json](./105754-zombies-vs-chucky.json) |
@@ -2044,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Packs | 129568 | [129568-zoo-packs.json](./129568-zoo-packs.json) |
 | Zoo Park | 9293 | [9293-zoo-park.json](./9293-zoo-park.json) |
 | Zoo Park Story | 249386 | [249386-zoo-park-story.json](./249386-zoo-park-story.json) |
+| Zoo Park Tycoon | 52301 | [52301-zoo-park-tycoon.json](./52301-zoo-park-tycoon.json) |
 | Zoo Protocol | 411359 | [411359-zoo-protocol.json](./411359-zoo-protocol.json) |
 | Zoo Puzzle | 43236 | [43236-zoo-puzzle.json](./43236-zoo-puzzle.json) |
 | Zoo Quest | 20277 | [20277-zoo-quest.json](./20277-zoo-quest.json) |
@@ -2212,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zotrix Bundle | 52098 | [52098-zotrix-bundle.json](./52098-zotrix-bundle.json) |
 | Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
+| Zou's App | 52300 | [52300-zous-app.json](./52300-zous-app.json) |
 | Zoul Dungeon | 316677 | [316677-zoul-dungeon.json](./316677-zoul-dungeon.json) |
 | Zovid-19 Remake | 195905 | [195905-zovid-19-remake.json](./195905-zovid-19-remake.json) |
 | Zoxel | 151383 | [151383-zoxel.json](./151383-zoxel.json) |
@@ -2248,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
+| Zug Simulator 2013 | 52299 | [52299-zug-simulator-2013.json](./52299-zug-simulator-2013.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
 | Zugzwang | 207015 | [207015-zugzwang.json](./207015-zugzwang.json) |
 | Zugzwang | 376431 | [376431-zugzwang.json](./376431-zugzwang.json) |
