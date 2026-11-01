@@ -11937,6 +11937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuji-yama Daibakuhatsu | 345632 | [345632-fuji-yama-daibakuhatsu.json](./345632-fuji-yama-daibakuhatsu.json) |
 | FuJianStrike | 391014 | [391014-fujianstrike.json](./391014-fujianstrike.json) |
 | Fujii | 118161 | [118161-fujii.json](./118161-fujii.json) |
+| Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! | 60748 | [60748-fujiko-f-fujio-characters-daishuugou-sf-dotabata-party.json](./60748-fujiko-f-fujio-characters-daishuugou-sf-dotabata-party.json) |
 | Fujiwara BitterSweet | 136030 | [136030-fujiwara-bittersweet.json](./136030-fujiwara-bittersweet.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
 | Fujyoshi | 97665 | [97665-fujyoshi.json](./97665-fujyoshi.json) |
