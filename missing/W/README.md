@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
 | Western Dual Wield | 207750 | [207750-western-dual-wield.json](./207750-western-dual-wield.json) |
 | Western Front: The Liberation of Europe 1944-1945 | 70234 | [70234-western-front-the-liberation-of-europe-1944-1945.json](./70234-western-front-the-liberation-of-europe-1944-1945.json) |
+| Western Games | 36657 | [36657-western-games.json](./36657-western-games.json) |
 | Western Gun Shop Simulator | 401140 | [401140-western-gun-shop-simulator.json](./401140-western-gun-shop-simulator.json) |
 | Western Guns: Episode 01 - Redemption | 28572 | [28572-western-guns-episode-01-redemption.json](./28572-western-guns-episode-01-redemption.json) |
 | Western Justice | 391777 | [391777-western-justice.json](./391777-western-justice.json) |
@@ -7505,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
 | World of Darkness | 77001 | [77001-world-of-darkness.json](./77001-world-of-darkness.json) |
 | World of Darkness Preludes: Vampire and Mage | 27330 | [27330-world-of-darkness-preludes-vampire-and-mage.json](./27330-world-of-darkness-preludes-vampire-and-mage.json) |
+| World of DASM: DASM Spell Quest | 36637 | [36637-world-of-dasm-dasm-spell-quest.json](./36637-world-of-dasm-dasm-spell-quest.json) |
 | World of Deadliest Catch | 219456 | [219456-world-of-deadliest-catch.json](./219456-world-of-deadliest-catch.json) |
 | World of Deadliest Catch: 2024 Premium Edition | 304778 | [304778-world-of-deadliest-catch-2024-premium-edition.json](./304778-world-of-deadliest-catch-2024-premium-edition.json) |
 | World of Dragon Nest | 130532 | [130532-world-of-dragon-nest.json](./130532-world-of-dragon-nest.json) |
