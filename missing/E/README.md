@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
 | Earthquake Escape | 193229 | [193229-earthquake-escape.json](./193229-earthquake-escape.json) |
 | Earthquake San Francisco 1906 | 25590 | [25590-earthquake-san-francisco-1906.json](./25590-earthquake-san-francisco-1906.json) |
+| Earthquake Simulator VR | 41127 | [41127-earthquake-simulator-vr.json](./41127-earthquake-simulator-vr.json) |
 | Earthquake Survival | 183248 | [183248-earthquake-survival.json](./183248-earthquake-survival.json) |
 | Earthquake: Margarita School | 369380 | [369380-earthquake-margarita-school.json](./369380-earthquake-margarita-school.json) |
 | EarthRemnant | 236452 | [236452-earthremnant.json](./236452-earthremnant.json) |
