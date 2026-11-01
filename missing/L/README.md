@@ -6533,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London 2012: The Official Video Game | 7055 | [7055-london-2012-the-official-video-game.json](./7055-london-2012-the-official-video-game.json) |
+| London Blitz | 23204 | [23204-london-blitz.json](./23204-london-blitz.json) |
 | London Cab | 258060 | [258060-london-cab.json](./258060-london-cab.json) |
 | London Cab Challenge | 43470 | [43470-london-cab-challenge.json](./43470-london-cab-challenge.json) |
 | London Control | 78486 | [78486-london-control.json](./78486-london-control.json) |
