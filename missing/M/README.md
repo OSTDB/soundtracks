@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maenhir | 163885 | [163885-maenhir.json](./163885-maenhir.json) |
 | Maenovan | 168123 | [168123-maenovan.json](./168123-maenovan.json) |
 | Maerl Bay | 248578 | [248578-maerl-bay.json](./248578-maerl-bay.json) |
+| Maestia | 46948 | [46948-maestia.json](./46948-maestia.json) |
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
 | Maestro | 184279 | [184279-maestro.json](./184279-maestro.json) |
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
@@ -5470,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -17840,6 +17842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
 | Museum Keeper | 291328 | [291328-museum-keeper.json](./291328-museum-keeper.json) |
+| Museum Madness | 46937 | [46937-museum-madness.json](./46937-museum-madness.json) |
 | Museum Magnate | 348585 | [348585-museum-magnate.json](./348585-museum-magnate.json) |
 | Museum Multiverse | 364368 | [364368-museum-multiverse.json](./364368-museum-multiverse.json) |
 | Museum Mystery | 291700 | [291700-museum-mystery.json](./291700-museum-mystery.json) |
