@@ -10684,6 +10684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Villain Jam | 354642 | [354642-pokemon-villain-jam.json](./354642-pokemon-villain-jam.json) |
 | Pokémon Vintage White | 213154 | [213154-pokemon-vintage-white.json](./213154-pokemon-vintage-white.json) |
 | Pokémon Violet + The Hidden Treasure of Area Zero | 240084 | [240084-pokemon-violet-the-hidden-treasure-of-area-zero.json](./240084-pokemon-violet-the-hidden-treasure-of-area-zero.json) |
+| Pokémon Violet: The Hidden Treasure of Area Zero - Part 1: The Teal Mask | 239930 | [239930-pokemon-violet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json](./239930-pokemon-violet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Void | 199996 | [199996-pokemon-void.json](./199996-pokemon-void.json) |
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
