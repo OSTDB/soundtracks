@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
 | Half-Life 2: Deeper Down | 184288 | [184288-half-life-2-deeper-down.json](./184288-half-life-2-deeper-down.json) |
+| Half-Life 2: DownFall | 127905 | [127905-half-life-2-downfall.json](./127905-half-life-2-downfall.json) |
 | Half-Life 2: Episode Three | 77080 | [77080-half-life-2-episode-three.json](./77080-half-life-2-episode-three.json) |
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
 | Half-Life 2: Genry's Great Escape From City 13 | 168040 | [168040-half-life-2-genrys-great-escape-from-city-13.json](./168040-half-life-2-genrys-great-escape-from-city-13.json) |
@@ -503,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Abeyance | 221789 | [221789-half-life-abeyance.json](./221789-half-life-abeyance.json) |
 | Half-Life: Absolute Zero | 168931 | [168931-half-life-absolute-zero.json](./168931-half-life-absolute-zero.json) |
 | Half-Life: Anti-Climax | 128194 | [128194-half-life-anti-climax.json](./128194-half-life-anti-climax.json) |
+| Half-Life: Before | 30369 | [30369-half-life-before.json](./30369-half-life-before.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: Black Guard | 221880 | [221880-half-life-black-guard.json](./221880-half-life-black-guard.json) |
 | Half-Life: Brave Brain | 221882 | [221882-half-life-brave-brain.json](./221882-half-life-brave-brain.json) |
@@ -3780,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Invades Heaven | 190165 | [190165-hell-invades-heaven.json](./190165-hell-invades-heaven.json) |
 | Hell Is Empty, Demons Are Playing Apokerlypse | 399129 | [399129-hell-is-empty-demons-are-playing-apokerlypse.json](./399129-hell-is-empty-demons-are-playing-apokerlypse.json) |
 | Hell Is Other People | 401462 | [401462-hell-is-other-people.json](./401462-hell-is-other-people.json) |
+| Hell is Others | 142773 | [142773-hell-is-others.json](./142773-hell-is-others.json) |
 | Hell is Others: Good Neighbor Pack | 262886 | [262886-hell-is-others-good-neighbor-pack.json](./262886-hell-is-others-good-neighbor-pack.json) |
 | Hell is Us: Deluxe Edition | 331310 | [331310-hell-is-us-deluxe-edition.json](./331310-hell-is-us-deluxe-edition.json) |
 | Hell Is Us: Hollow Walker Pack | 360092 | [360092-hell-is-us-hollow-walker-pack.json](./360092-hell-is-us-hollow-walker-pack.json) |
@@ -7260,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou: Answer Arcs | 263403 | [263403-higurashi-when-they-cry-hou-answer-arcs.json](./263403-higurashi-when-they-cry-hou-answer-arcs.json) |
 | Higurashi When They Cry Hou: Ch.1 Onikakushi | 33967 | [33967-higurashi-when-they-cry-hou-ch-1-onikakushi.json](./33967-higurashi-when-they-cry-hou-ch-1-onikakushi.json) |
 | Higurashi When They Cry Hou: Ch.2 Watanagashi | 34268 | [34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json](./34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json) |
+| Higurashi When They Cry Hou: Ch.3 Tatarigoroshi | 32626 | [32626-higurashi-when-they-cry-hou-ch-3-tatarigoroshi.json](./32626-higurashi-when-they-cry-hou-ch-3-tatarigoroshi.json) |
 | Higurashi When They Cry Hou: Ch.4 Himatsubushi | 31363 | [31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json](./31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json) |
 | Higurashi When They Cry Hou: Ch.5 Meakashi | 29837 | [29837-higurashi-when-they-cry-hou-ch-5-meakashi.json](./29837-higurashi-when-they-cry-hou-ch-5-meakashi.json) |
 | Higurashi When They Cry Hou: Ch.6 Tsumihoroboshi | 102266 | [102266-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json](./102266-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json) |
