@@ -13429,6 +13429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Lost Crown - Divine Trials | 305239 | [305239-prince-of-persia-the-lost-crown-divine-trials.json](./305239-prince-of-persia-the-lost-crown-divine-trials.json) |
 | Prince of Persia: The Lost Crown - Mask of Darkness | 305240 | [305240-prince-of-persia-the-lost-crown-mask-of-darkness.json](./305240-prince-of-persia-the-lost-crown-mask-of-darkness.json) |
 | Prince of Persia: The Lost Crown - Two Thrones Skin | 317690 | [317690-prince-of-persia-the-lost-crown-two-thrones-skin.json](./317690-prince-of-persia-the-lost-crown-two-thrones-skin.json) |
+| Prince of Persia: The Sands of Time | 142650 | [142650-prince-of-persia-the-sands-of-time.json](./142650-prince-of-persia-the-sands-of-time.json) |
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
 | Prince of Persia: The Sands of Time & Lara Croft Tomb Raider: The Prophecy | 84173 | [84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json](./84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json) |
 | Prince of Persia: The Sands of Time HD | 99585 | [99585-prince-of-persia-the-sands-of-time-hd.json](./99585-prince-of-persia-the-sands-of-time-hd.json) |
@@ -13564,6 +13565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Princess Rapunzel: The Kingdom's Legacy | 320461 | [320461-princess-rapunzel-the-kingdoms-legacy.json](./320461-princess-rapunzel-the-kingdoms-legacy.json) |
 | Princess Remedy in a World of Hurt | 15890 | [15890-princess-remedy-in-a-world-of-hurt.json](./15890-princess-remedy-in-a-world-of-hurt.json) |
+| Princess Remedy: In A Heap of Trouble | 31463 | [31463-princess-remedy-in-a-heap-of-trouble.json](./31463-princess-remedy-in-a-heap-of-trouble.json) |
 | Princess Rescue | 46886 | [46886-princess-rescue.json](./46886-princess-rescue.json) |
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
 | Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
