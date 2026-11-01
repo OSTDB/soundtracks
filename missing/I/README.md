@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
 | Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
 | Infinite Loop: Backrooms | 366952 | [366952-infinite-loop-backrooms.json](./366952-infinite-loop-backrooms.json) |
+| Infinite Loop: Kojou ga Miseta Yume | 56825 | [56825-infinite-loop-kojou-ga-miseta-yume.json](./56825-infinite-loop-kojou-ga-miseta-yume.json) |
 | Infinite Magicraid | 210510 | [210510-infinite-magicraid.json](./210510-infinite-magicraid.json) |
 | Infinite Mansion | 374816 | [374816-infinite-mansion.json](./374816-infinite-mansion.json) |
 | Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
@@ -5890,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Issho ni Gohan Portable | 64161 | [64161-issho-ni-gohan-portable.json](./64161-issho-ni-gohan-portable.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
 | Issho ni Ikimashou Ikimashou Ikimashou | 75637 | [75637-issho-ni-ikimashou-ikimashou-ikimashou.json](./75637-issho-ni-ikimashou-ikimashou-ikimashou.json) |
+| Isshou Asoberu Todai Shogi: Sakidzsume Shogi Dojo | 56795 | [56795-isshou-asoberu-todai-shogi-sakidzsume-shogi-dojo.json](./56795-isshou-asoberu-todai-shogi-sakidzsume-shogi-dojo.json) |
 | Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
@@ -6162,6 +6164,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsu no Ma ni Koukan Nikki | 222319 | [222319-itsu-no-ma-ni-koukan-nikki.json](./222319-itsu-no-ma-ni-koukan-nikki.json) |
 | Itsudemo Pachinko GB: CR Monster House | 281587 | [281587-itsudemo-pachinko-gb-cr-monster-house.json](./281587-itsudemo-pachinko-gb-cr-monster-house.json) |
 | Itsudemo! Nyan to Wonderful | 228564 | [228564-itsudemo-nyan-to-wonderful.json](./228564-itsudemo-nyan-to-wonderful.json) |
+| Itsuka Kono Te Ga Kegareru Toki Ni: Spectral Force Legacy | 56792 | [56792-itsuka-kono-te-ga-kegareru-toki-ni-spectral-force-legacy.json](./56792-itsuka-kono-te-ga-kegareru-toki-ni-spectral-force-legacy.json) |
+| Itsuka Tenma No Kuro Usagi Portable | 56794 | [56794-itsuka-tenma-no-kuro-usagi-portable.json](./56794-itsuka-tenma-no-kuro-usagi-portable.json) |
 | Itsuka, Kasanariau Ashita he: Sayuri-hen | 203819 | [203819-itsuka-kasanariau-ashita-he-sayuri-hen.json](./203819-itsuka-kasanariau-ashita-he-sayuri-hen.json) |
 | Itsuka, Kasanariau Ashita he: Shirou-hen | 203822 | [203822-itsuka-kasanariau-ashita-he-shirou-hen.json](./203822-itsuka-kasanariau-ashita-he-shirou-hen.json) |
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
@@ -6284,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iyashikei Action Game | 334626 | [334626-iyashikei-action-game.json](./334626-iyashikei-action-game.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
+| Iza, Shutsujin! Koi Ikusa | 56796 | [56796-iza-shutsujin-koi-ikusa.json](./56796-iza-shutsujin-koi-ikusa.json) |
 | Izakaya Izakoza | 412931 | [412931-izakaya-izakoza.json](./412931-izakaya-izakoza.json) |
 | Izakaya Rush | 415886 | [415886-izakaya-rush.json](./415886-izakaya-rush.json) |
 | Izanagi Online | 142751 | [142751-izanagi-online.json](./142751-izanagi-online.json) |
