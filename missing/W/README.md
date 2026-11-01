@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Web Sudoku | 264460 | [264460-web-sudoku.json](./264460-web-sudoku.json) |
 | Web Swing Hero | 223891 | [223891-web-swing-hero.json](./223891-web-swing-hero.json) |
+| Web Wars | 23342 | [23342-web-wars.json](./23342-web-wars.json) |
 | Web3War | 219451 | [219451-web3war.json](./219451-web3war.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
@@ -8215,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worshippers of the Gain | 334172 | [334172-worshippers-of-the-gain.json](./334172-worshippers-of-the-gain.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
+| Worst Case Z | 23156 | [23156-worst-case-z.json](./23156-worst-case-z.json) |
 | Worst Chess: Esther Sauce | 183423 | [183423-worst-chess-esther-sauce.json](./183423-worst-chess-esther-sauce.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
