@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.P.I.C.E Arena | 96829 | [96829-s-p-i-c-e-arena.json](./96829-s-p-i-c-e-arena.json) |
 | S.P.L.I.C.E.D. | 255847 | [255847-s-p-l-i-c-e-d.json](./255847-s-p-l-i-c-e-d.json) |
 | S.P.L.O.S.H | 366707 | [366707-s-p-l-o-s-h.json](./366707-s-p-l-o-s-h.json) |
+| S.P.Y. Special Project Y | 39964 | [39964-s-p-y-special-project-y.json](./39964-s-p-y-special-project-y.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.R.A | 369367 | [369367-s-r-a.json](./369367-s-r-a.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
@@ -9240,6 +9241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side | 149025 | [149025-side.json](./149025-side.json) |
 | Side Alley | 319084 | [319084-side-alley.json](./319084-side-alley.json) |
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
+| Side by Side 2 | 39944 | [39944-side-by-side-2.json](./39944-side-by-side-2.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side by Side Special 2000 | 43767 | [43767-side-by-side-special-2000.json](./43767-side-by-side-special-2000.json) |
 | Side by Size | 265297 | [265297-side-by-size.json](./265297-side-by-size.json) |
@@ -12702,6 +12704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip Gear: Jet Pack | 28550 | [28550-slip-gear-jet-pack.json](./28550-slip-gear-jet-pack.json) |
 | Slip Gear: Jet Pack Wastlands | 28549 | [28549-slip-gear-jet-pack-wastlands.json](./28549-slip-gear-jet-pack-wastlands.json) |
 | Slip Oot | 368981 | [368981-slip-oot.json](./368981-slip-oot.json) |
+| Slip Stream | 39942 | [39942-slip-stream.json](./39942-slip-stream.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
 | SlipBreak | 285954 | [285954-slipbreak.json](./285954-slipbreak.json) |
@@ -16766,6 +16769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soran | 145415 | [145415-soran.json](./145415-soran.json) |
 | Soratobu Bunbun Baan | 85388 | [85388-soratobu-bunbun-baan.json](./85388-soratobu-bunbun-baan.json) |
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
+| Sorcer Striker | 39960 | [39960-sorcer-striker.json](./39960-sorcer-striker.json) |
 | Sorcerer | 1948 | [1948-sorcerer.json](./1948-sorcerer.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer King | 9472 | [9472-sorcerer-king.json](./9472-sorcerer-king.json) |
@@ -17776,6 +17780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crew: Legendary Edition | 134819 | [134819-space-crew-legendary-edition.json](./134819-space-crew-legendary-edition.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
+| Space Cruiser | 39976 | [39976-space-cruiser.json](./39976-space-cruiser.json) |
 | Space Crusade | 7648 | [7648-space-crusade.json](./7648-space-crusade.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Crusaders | 146574 | [146574-space-crusaders.json](./146574-space-crusaders.json) |
@@ -17849,6 +17854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Empires IV Deluxe | 19350 | [19350-space-empires-iv-deluxe.json](./19350-space-empires-iv-deluxe.json) |
 | Space Empires V | 15614 | [15614-space-empires-v.json](./15614-space-empires-v.json) |
 | Space Empires: Starfury | 15652 | [15652-space-empires-starfury.json](./15652-space-empires-starfury.json) |
+| Space Encounters | 39975 | [39975-space-encounters.json](./39975-space-encounters.json) |
 | Space Endeavor | 173266 | [173266-space-endeavor.json](./173266-space-endeavor.json) |
 | Space Enemy | 345912 | [345912-space-enemy.json](./345912-space-enemy.json) |
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
@@ -17882,6 +17888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Farm | 107384 | [107384-space-farm.json](./107384-space-farm.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
+| Space Fever | 39974 | [39974-space-fever.json](./39974-space-fever.json) |
 | Space Fever II | 356423 | [356423-space-fever-ii.json](./356423-space-fever-ii.json) |
 | Space Fight | 216763 | [216763-space-fight.json](./216763-space-fight.json) |
 | Space Fight of Gun | 287344 | [287344-space-fight-of-gun.json](./287344-space-fight-of-gun.json) |
@@ -18022,7 +18029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20091,6 +20097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Forward | 360716 | [360716-spin-forward.json](./360716-spin-forward.json) |
 | Spin Hero | 298130 | [298130-spin-hero.json](./298130-spin-hero.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
+| Spin Master | 39959 | [39959-spin-master.json](./39959-spin-master.json) |
 | Spin Off 2 | 54381 | [54381-spin-off-2.json](./54381-spin-off-2.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spin Path | 213998 | [213998-spin-path.json](./213998-spin-path.json) |
@@ -28587,6 +28594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Football | 94923 | [94923-super-football.json](./94923-super-football.json) |
+| Super Football Champ | 39945 | [39945-super-football-champ.json](./39945-super-football-champ.json) |
 | Super Football Sunday | 94401 | [94401-super-football-sunday.json](./94401-super-football-sunday.json) |
 | Super Formation Soccer 94: World Cup Edition | 42362 | [42362-super-formation-soccer-94-world-cup-edition.json](./42362-super-formation-soccer-94-world-cup-edition.json) |
 | Super Formation Soccer 94: World Cup Final Data | 42361 | [42361-super-formation-soccer-94-world-cup-final-data.json](./42361-super-formation-soccer-94-world-cup-final-data.json) |
@@ -29753,6 +29761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
 | Super Munchers | 50336 | [50336-super-munchers.json](./50336-super-munchers.json) |
 | Super Munchers: The Challenge Continues... | 70478 | [70478-super-munchers-the-challenge-continues.json](./70478-super-munchers-the-challenge-continues.json) |
+| Super Muscle Bomber | 39958 | [39958-super-muscle-bomber.json](./39958-super-muscle-bomber.json) |
 | Super Muscle Mario Bros | 323808 | [323808-super-muscle-mario-bros.json](./323808-super-muscle-mario-bros.json) |
 | Super Mushroom Kingdom Hearts 64 | 392013 | [392013-super-mushroom-kingdom-hearts-64.json](./392013-super-mushroom-kingdom-hearts-64.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
