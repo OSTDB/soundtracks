@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
 | Zelda: The Wand of Gamelon | 8533 | [8533-zelda-the-wand-of-gamelon.json](./8533-zelda-the-wand-of-gamelon.json) |
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
+| Zelda's Adventure | 8534 | [8534-zeldas-adventure.json](./8534-zeldas-adventure.json) |
 | Zelda's Adventure Remastered | 369314 | [369314-zeldas-adventure-remastered.json](./369314-zeldas-adventure-remastered.json) |
 | Zelda's Birthday | 173087 | [173087-zeldas-birthday.json](./173087-zeldas-birthday.json) |
 | Zelda3 | 237542 | [237542-zelda3.json](./237542-zelda3.json) |
