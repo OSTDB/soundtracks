@@ -3186,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
 | Lemonade Stand | 234287 | [234287-lemonade-stand.json](./234287-lemonade-stand.json) |
+| Lemonade Tycoon | 11824 | [11824-lemonade-tycoon.json](./11824-lemonade-tycoon.json) |
 | Lemonade Tycoon 2: New York Edition | 68041 | [68041-lemonade-tycoon-2-new-york-edition.json](./68041-lemonade-tycoon-2-new-york-edition.json) |
 | Lemonade. | 184051 | [184051-lemonade.json](./184051-lemonade.json) |
 | Lemonhunter | 185124 | [185124-lemonhunter.json](./185124-lemonhunter.json) |
@@ -4739,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
+| Lilly Looking Through | 11282 | [11282-lilly-looking-through.json](./11282-lilly-looking-through.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
 | Lilly's | 209184 | [209184-lillys.json](./209184-lillys.json) |
 | Lilly's Flower Shop | 238552 | [238552-lillys-flower-shop.json](./238552-lillys-flower-shop.json) |
@@ -7608,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Judgment: Digital Deluxe Edition | 173165 | [173165-lost-judgment-digital-deluxe-edition.json](./173165-lost-judgment-digital-deluxe-edition.json) |
 | Lost Judgment: Digital Ultimate Edition | 173164 | [173164-lost-judgment-digital-ultimate-edition.json](./173164-lost-judgment-digital-ultimate-edition.json) |
 | Lost Judgment: School Stories Expansion Pack | 264071 | [264071-lost-judgment-school-stories-expansion-pack.json](./264071-lost-judgment-school-stories-expansion-pack.json) |
+| Lost Judgment: The Kaito Files | 194819 | [194819-lost-judgment-the-kaito-files.json](./194819-lost-judgment-the-kaito-files.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
 | Lost Keys | 139597 | [139597-lost-keys.json](./139597-lost-keys.json) |
 | Lost King's Lullaby | 115537 | [115537-lost-kings-lullaby.json](./115537-lost-kings-lullaby.json) |
