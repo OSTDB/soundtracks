@@ -3118,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenBVE | 51272 | [51272-openbve.json](./51272-openbve.json) |
 | Opencast Mining | 113846 | [113846-opencast-mining.json](./113846-opencast-mining.json) |
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
+| OpenClonk | 60297 | [60297-openclonk.json](./60297-openclonk.json) |
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
 | OpenGeneral | 79518 | [79518-opengeneral.json](./79518-opengeneral.json) |
 | OpenGoal: Jak 3 | 396702 | [396702-opengoal-jak-3.json](./396702-opengoal-jak-3.json) |
@@ -3970,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus | 180414 | [180414-orpheus.json](./180414-orpheus.json) |
 | Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
+| Orpheus in the Underworld | 60278 | [60278-orpheus-in-the-underworld.json](./60278-orpheus-in-the-underworld.json) |
 | Orpheus: Echo of Hades | 401774 | [401774-orpheus-echo-of-hades.json](./401774-orpheus-echo-of-hades.json) |
 | Orpheus: Fall For Eurydice | 144654 | [144654-orpheus-fall-for-eurydice.json](./144654-orpheus-fall-for-eurydice.json) |
 | Orpheus: Tale of a Lover | 258095 | [258095-orpheus-tale-of-a-lover.json](./258095-orpheus-tale-of-a-lover.json) |
@@ -4109,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmanli'nin Onuru | 108130 | [108130-osmanlinin-onuru.json](./108130-osmanlinin-onuru.json) |
 | Osmathus Falling | 399430 | [399430-osmathus-falling.json](./399430-osmathus-falling.json) |
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
+| Osmium | 60275 | [60275-osmium.json](./60275-osmium.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
 | Osmo Newton | 95652 | [95652-osmo-newton.json](./95652-osmo-newton.json) |
