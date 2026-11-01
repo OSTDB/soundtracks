@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Strange Hotel | 153773 | [153773-a-strange-hotel.json](./153773-a-strange-hotel.json) |
 | A Street Cat's Tale 2: Out side is Dangerous | 250774 | [250774-a-street-cats-tale-2-out-side-is-dangerous.json](./250774-a-street-cats-tale-2-out-side-is-dangerous.json) |
 | A Street Story | 98317 | [98317-a-street-story.json](./98317-a-street-story.json) |
+| A Stroke of Fate: Operation Bunker | 35155 | [35155-a-stroke-of-fate-operation-bunker.json](./35155-a-stroke-of-fate-operation-bunker.json) |
 | A Stroll in Space | 102026 | [102026-a-stroll-in-space.json](./102026-a-stroll-in-space.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
@@ -10732,6 +10733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apostle: Rebellion | 173199 | [173199-apostle-rebellion.json](./173199-apostle-rebellion.json) |
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
 | Apothecarium: The Renaissance of Evil | 59907 | [59907-apothecarium-the-renaissance-of-evil.json](./59907-apothecarium-the-renaissance-of-evil.json) |
+| Apothecarium: The Renaissance of Evil - Premium Edition | 35136 | [35136-apothecarium-the-renaissance-of-evil-premium-edition.json](./35136-apothecarium-the-renaissance-of-evil-premium-edition.json) |
 | Apothecary | 264227 | [264227-apothecary.json](./264227-apothecary.json) |
 | Apothecary Grounds | 409188 | [409188-apothecary-grounds.json](./409188-apothecary-grounds.json) |
 | Apothecary of Ashes | 408213 | [408213-apothecary-of-ashes.json](./408213-apothecary-of-ashes.json) |
@@ -12665,6 +12667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkhe | 303682 | [303682-arkhe.json](./303682-arkhe.json) |
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
 | Arkhelom 3D | 35178 | [35178-arkhelom-3d.json](./35178-arkhelom-3d.json) |
+| Arkin | 35057 | [35057-arkin.json](./35057-arkin.json) |
 | ArkLight | 52406 | [52406-arklight.json](./52406-arklight.json) |
 | Arkney: The Bone Road | 410059 | [410059-arkney-the-bone-road.json](./410059-arkney-the-bone-road.json) |
 | Arknights | 123395 | [123395-arknights.json](./123395-arknights.json) |
@@ -15255,6 +15258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantic Edge | 107935 | [107935-atlantic-edge.json](./107935-atlantic-edge.json) |
 | Atlantic Journey: The Lost Brother | 175797 | [175797-atlantic-journey-the-lost-brother.json](./175797-atlantic-journey-the-lost-brother.json) |
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
+| Atlantic Quest Solitaire | 35023 | [35023-atlantic-quest-solitaire.json](./35023-atlantic-quest-solitaire.json) |
 | Atlantic Rim | 180827 | [180827-atlantic-rim.json](./180827-atlantic-rim.json) |
 | Atlantica Europe | 148255 | [148255-atlantica-europe.json](./148255-atlantica-europe.json) |
 | Atlantica Online | 9522 | [9522-atlantica-online.json](./9522-atlantica-online.json) |
