@@ -5163,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Ordinary: Tales of Romina Manor | 158410 | [158410-escape-the-ordinary-tales-of-romina-manor.json](./158410-escape-the-ordinary-tales-of-romina-manor.json) |
 | Escape the Pacific | 54510 | [54510-escape-the-pacific.json](./54510-escape-the-pacific.json) |
 | Escape the Panda Donuts | 214334 | [214334-escape-the-panda-donuts.json](./214334-escape-the-panda-donuts.json) |
+| Escape the Past | 32463 | [32463-escape-the-past.json](./32463-escape-the-past.json) |
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
 | Escape the Quack | 332986 | [332986-escape-the-quack.json](./332986-escape-the-quack.json) |
@@ -5281,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapism Ltd. | 308869 | [308869-escapism-ltd.json](./308869-escapism-ltd.json) |
 | Escapology | 174582 | [174582-escapology.json](./174582-escapology.json) |
 | Escargot | 119975 | [119975-escargot.json](./119975-escargot.json) |
+| Escargot Kart | 32415 | [32415-escargot-kart.json](./32415-escargot-kart.json) |
 | Escatpade | 374083 | [374083-escatpade.json](./374083-escatpade.json) |
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
 | Eschalon: Book I | 8206 | [8206-eschalon-book-i.json](./8206-eschalon-book-i.json) |
