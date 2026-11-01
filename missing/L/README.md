@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Lore 1+2 | 154174 | [154174-lands-of-lore-1-2.json](./154174-lands-of-lore-1-2.json) |
 | Lands of Lore: Guardians of Destiny | 2494 | [2494-lands-of-lore-guardians-of-destiny.json](./2494-lands-of-lore-guardians-of-destiny.json) |
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
+| Lands of Lorez | 59098 | [59098-lands-of-lorez.json](./59098-lands-of-lorez.json) |
 | Lands of Mine | 364867 | [364867-lands-of-mine.json](./364867-lands-of-mine.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Lands of Pharaoh: Episode 1 | 126858 | [126858-lands-of-pharaoh-episode-1.json](./126858-lands-of-pharaoh-episode-1.json) |
