@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
+| Racing Fever | 57400 | [57400-racing-fever.json](./57400-racing-fever.json) |
 | Racing Fever: Moto | 106003 | [106003-racing-fever-moto.json](./106003-racing-fever-moto.json) |
 | Racing Fighters | 118249 | [118249-racing-fighters.json](./118249-racing-fighters.json) |
 | Racing Game | 393952 | [393952-racing-game.json](./393952-racing-game.json) |
@@ -7763,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Racers | 66406 | [66406-road-racers.json](./66406-road-racers.json) |
 | Road Racing: Extreme Traffic Driving | 110249 | [110249-road-racing-extreme-traffic-driving.json](./110249-road-racing-extreme-traffic-driving.json) |
 | Road Rage | 55244 | [55244-road-rage.json](./55244-road-rage.json) |
+| Road Rage | 57543 | [57543-road-rage.json](./57543-road-rage.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
 | Road Rage 3D | 239225 | [239225-road-rage-3d.json](./239225-road-rage-3d.json) |
 | Road Rage Radio | 383776 | [383776-road-rage-radio.json](./383776-road-rage-radio.json) |
@@ -8926,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
 | Rocko's Quest | 17345 | [17345-rockos-quest.json](./17345-rockos-quest.json) |
 | Rocko's Quest | 72464 | [72464-rockos-quest.json](./72464-rockos-quest.json) |
+| RockRobin | 57542 | [57542-rockrobin.json](./57542-rockrobin.json) |
 | Rocks 'n' Diamonds | 80290 | [80290-rocks-n-diamonds.json](./80290-rocks-n-diamonds.json) |
 | Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
