@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanky Tanks VR | 128928 | [128928-tanky-tanks-vr.json](./128928-tanky-tanks-vr.json) |
 | TankYou! | 31685 | [31685-tankyou.json](./31685-tankyou.json) |
 | TankZone Battle | 20343 | [20343-tankzone-battle.json](./20343-tankzone-battle.json) |
+| Tannenberg | 36718 | [36718-tannenberg.json](./36718-tannenberg.json) |
 | Tano's Fate | 104932 | [104932-tanos-fate.json](./104932-tanos-fate.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
@@ -4449,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive | 2200 | [2200-test-drive.json](./2200-test-drive.json) |
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
+| Test Drive 5 | 19231 | [19231-test-drive-5.json](./19231-test-drive-5.json) |
 | Test Drive 6 | 370310 | [370310-test-drive-6.json](./370310-test-drive-6.json) |
 | Test Drive Cycles | 362222 | [362222-test-drive-cycles.json](./362222-test-drive-cycles.json) |
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
@@ -7806,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disgraced Prince | 171842 | [171842-the-disgraced-prince.json](./171842-the-disgraced-prince.json) |
 | The Disgusting Slaughterman | 126312 | [126312-the-disgusting-slaughterman.json](./126312-the-disgusting-slaughterman.json) |
 | The Dishwasher: Dead Samurai | 21178 | [21178-the-dishwasher-dead-samurai.json](./21178-the-dishwasher-dead-samurai.json) |
+| The Dishwasher: Vampire Smile | 20582 | [20582-the-dishwasher-vampire-smile.json](./20582-the-dishwasher-vampire-smile.json) |
 | The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
 | The Disney Afternoon Collection | 27791 | [27791-the-disney-afternoon-collection.json](./27791-the-disney-afternoon-collection.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
@@ -12775,6 +12778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Meter is Running | 400816 | [400816-the-meter-is-running.json](./400816-the-meter-is-running.json) |
 | The Metronomicon: Deluxe Edition | 53761 | [53761-the-metronomicon-deluxe-edition.json](./53761-the-metronomicon-deluxe-edition.json) |
+| The Metronomicon: Slay the Dance Floor | 19880 | [19880-the-metronomicon-slay-the-dance-floor.json](./19880-the-metronomicon-slay-the-dance-floor.json) |
 | The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 1 | 225230 | [225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json](./225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json) |
 | The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 2 | 225231 | [225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json](./225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json) |
 | The Metronomicon: Slay the Dance Floor - Indie Game Challenge Pack 1 | 224485 | [224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json](./224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json) |
