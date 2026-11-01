@@ -4636,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris DS Puzzle Mode | 231559 | [231559-tetris-ds-puzzle-mode.json](./231559-tetris-ds-puzzle-mode.json) |
 | Tetris DX | 49875 | [49875-tetris-dx.json](./49875-tetris-dx.json) |
 | Tetris E60 | 251021 | [251021-tetris-e60.json](./251021-tetris-e60.json) |
+| Tetris Effect | 103221 | [103221-tetris-effect.json](./103221-tetris-effect.json) |
 | Tetris Effect: Connected | 135999 | [135999-tetris-effect-connected.json](./135999-tetris-effect-connected.json) |
 | Tetris Effect: Connected - Party Edition | 376141 | [376141-tetris-effect-connected-party-edition.json](./376141-tetris-effect-connected-party-edition.json) |
 | Tetris Effect: Digital Deluxe Edition | 227334 | [227334-tetris-effect-digital-deluxe-edition.json](./227334-tetris-effect-digital-deluxe-edition.json) |
@@ -12247,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Tactics | 22458 | [22458-the-lord-of-the-rings-tactics.json](./22458-the-lord-of-the-rings-tactics.json) |
 | The Lord of the Rings: The Battle for Middle-earth | 3154 | [3154-the-lord-of-the-rings-the-battle-for-middle-earth.json](./3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
 | The Lord of the Rings: The Battle for Middle-earth Anthology | 260701 | [260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json](./260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json) |
+| The Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king | 3156 | [3156-the-lord-of-the-rings-the-battle-for-middle-earth-ii-the-rise-of-the-witch-king.json](./3156-the-lord-of-the-rings-the-battle-for-middle-earth-ii-the-rise-of-the-witch-king.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 78501 | [78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
@@ -14613,6 +14615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Stalker | 367566 | [367566-the-room-stalker.json](./367566-the-room-stalker.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
+| The Room Three | 18222 | [18222-the-room-three.json](./18222-the-room-three.json) |
 | The Room Tribute | 92463 | [92463-the-room-tribute.json](./92463-the-room-tribute.json) |
 | The Room Two | 11276 | [11276-the-room-two.json](./11276-the-room-two.json) |
 | The Room VR: A Dark Matter | 123991 | [123991-the-room-vr-a-dark-matter.json](./123991-the-room-vr-a-dark-matter.json) |
@@ -16912,6 +16915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Clicker Master of the Universe | 334825 | [334825-the-ultimate-clicker-master-of-the-universe.json](./334825-the-ultimate-clicker-master-of-the-universe.json) |
 | The Ultimate Couch Game | 288626 | [288626-the-ultimate-couch-game.json](./288626-the-ultimate-couch-game.json) |
 | The Ultimate Death Clock | 251720 | [251720-the-ultimate-death-clock.json](./251720-the-ultimate-death-clock.json) |
+| The Ultimate Doom | 10192 | [10192-the-ultimate-doom.json](./10192-the-ultimate-doom.json) |
 | The Ultimate Doom | 260017 | [260017-the-ultimate-doom.json](./260017-the-ultimate-doom.json) |
 | The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
@@ -17657,6 +17661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
 | The Witcher Remake | 220277 | [220277-the-witcher-remake.json](./220277-the-witcher-remake.json) |
 | The Witcher: Crimson Trail | 187249 | [187249-the-witcher-crimson-trail.json](./187249-the-witcher-crimson-trail.json) |
+| The Witcher: Enhanced Edition Director's Cut | 27832 | [27832-the-witcher-enhanced-edition-directors-cut.json](./27832-the-witcher-enhanced-edition-directors-cut.json) |
 | The Witcher: Monster Slayer | 137125 | [137125-the-witcher-monster-slayer.json](./137125-the-witcher-monster-slayer.json) |
 | The Witcher: Project Sirius | 220276 | [220276-the-witcher-project-sirius.json](./220276-the-witcher-project-sirius.json) |
 | The Witcher: Rise of the White Wolf | 80342 | [80342-the-witcher-rise-of-the-white-wolf.json](./80342-the-witcher-rise-of-the-white-wolf.json) |
