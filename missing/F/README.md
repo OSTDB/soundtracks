@@ -7536,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor 100 | 155677 | [155677-floor-100.json](./155677-floor-100.json) |
 | Floor 100 | 370181 | [370181-floor-100.json](./370181-floor-100.json) |
 | Floor 12 | 408074 | [408074-floor-12.json](./408074-floor-12.json) |
+| Floor 13 | 12590 | [12590-floor-13.json](./12590-floor-13.json) |
 | Floor 13 | 377578 | [377578-floor-13.json](./377578-floor-13.json) |
 | Floor 13: Deep State | 163791 | [163791-floor-13-deep-state.json](./163791-floor-13-deep-state.json) |
 | Floor 9 | 316478 | [316478-floor-9.json](./316478-floor-9.json) |
@@ -11126,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fright Knight Legend | 223333 | [223333-fright-knight-legend.json](./223333-fright-knight-legend.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
+| Fright Night | 12591 | [12591-fright-night.json](./12591-fright-night.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
 | Fright Night Sex Fest | 169574 | [169574-fright-night-sex-fest.json](./169574-fright-night-sex-fest.json) |
 | Fright Train | 376511 | [376511-fright-train.json](./376511-fright-train.json) |
@@ -12867,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future & Girls | 368121 | [368121-future-and-girls.json](./368121-future-and-girls.json) |
 | Future Aero Racing S Ultra | 114077 | [114077-future-aero-racing-s-ultra.json](./114077-future-aero-racing-s-ultra.json) |
 | Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
+| Future Basketball | 12592 | [12592-future-basketball.json](./12592-future-basketball.json) |
 | Future Bike Simulator | 13061 | [13061-future-bike-simulator.json](./13061-future-bike-simulator.json) |
 | Future Boy | 71842 | [71842-future-boy.json](./71842-future-boy.json) |
 | Future Breach 64 | 244682 | [244682-future-breach-64.json](./244682-future-breach-64.json) |
