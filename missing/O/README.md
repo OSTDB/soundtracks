@@ -4212,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otakus Don't Want to Fall in Love | 303295 | [303295-otakus-dont-want-to-fall-in-love.json](./303295-otakus-dont-want-to-fall-in-love.json) |
 | Otar Island | 380769 | [380769-otar-island.json](./380769-otar-island.json) |
 | Otawamure | 120605 | [120605-otawamure.json](./120605-otawamure.json) |
+| Otem's Defiance | 33714 | [33714-otems-defiance.json](./33714-otems-defiance.json) |
 | Otenba Becky no Daibouken | 131894 | [131894-otenba-becky-no-daibouken.json](./131894-otenba-becky-no-daibouken.json) |
 | Otenki Kororin: Weather Tales | 299832 | [299832-otenki-kororin-weather-tales.json](./299832-otenki-kororin-weather-tales.json) |
 | Othello | 128892 | [128892-othello.json](./128892-othello.json) |
