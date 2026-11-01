@@ -9632,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Racers | 203188 | [203188-pocket-racers.json](./203188-pocket-racers.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
+| Pocket Racing | 38665 | [38665-pocket-racing.json](./38665-pocket-racing.json) |
 | Pocket Rally | 104719 | [104719-pocket-rally.json](./104719-pocket-rally.json) |
 | Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
 | Pocket Realms | 99223 | [99223-pocket-realms.json](./99223-pocket-realms.json) |
@@ -12408,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Inherited | 386495 | [386495-power-inherited.json](./386495-power-inherited.json) |
 | Power Instinct | 4476 | [4476-power-instinct.json](./4476-power-instinct.json) |
 | Power Instinct | 45729 | [45729-power-instinct.json](./45729-power-instinct.json) |
+| Power Instinct 2 | 38642 | [38642-power-instinct-2.json](./38642-power-instinct-2.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
 | Power League '93 | 37662 | [37662-power-league-93.json](./37662-power-league-93.json) |
