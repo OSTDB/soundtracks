@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olli & Lissa: The Ghost of Shilmore Castle | 36655 | [36655-olli-and-lissa-the-ghost-of-shilmore-castle.json](./36655-olli-and-lissa-the-ghost-of-shilmore-castle.json) |
 | Ollie & Bollie: Outdoor Estate | 129660 | [129660-ollie-and-bollie-outdoor-estate.json](./129660-ollie-and-bollie-outdoor-estate.json) |
 | Ollie and the Merchant of Dreams | 391564 | [391564-ollie-and-the-merchant-of-dreams.json](./391564-ollie-and-the-merchant-of-dreams.json) |
+| Ollie King | 24494 | [24494-ollie-king.json](./24494-ollie-king.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | Ollie-Oop | 121995 | [121995-ollie-oop.json](./121995-ollie-oop.json) |
 | Ollie's Follies | 25896 | [25896-ollies-follies.json](./25896-ollies-follies.json) |
