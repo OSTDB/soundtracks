@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest: Chapter 3 - Once Upon A Climb | 28062 | [28062-kings-quest-chapter-3-once-upon-a-climb.json](./28062-kings-quest-chapter-3-once-upon-a-climb.json) |
 | King's Quest: Chapter 4 - Snow Place Like Home | 28064 | [28064-kings-quest-chapter-4-snow-place-like-home.json](./28064-kings-quest-chapter-4-snow-place-like-home.json) |
 | King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
+| King's Quest: Quest for the Crown | 892 | [892-kings-quest-quest-for-the-crown.json](./892-kings-quest-quest-for-the-crown.json) |
 | King's Raid | 79372 | [79372-kings-raid.json](./79372-kings-raid.json) |
 | King's Recycle | 244737 | [244737-kings-recycle.json](./244737-kings-recycle.json) |
 | King's Son | 255694 | [255694-kings-son.json](./255694-kings-son.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush Frontiers | 6006 | [6006-kingdom-rush-frontiers.json](./6006-kingdom-rush-frontiers.json) |
 | Kingdom Rush Frontiers HD | 88258 | [88258-kingdom-rush-frontiers-hd.json](./88258-kingdom-rush-frontiers-hd.json) |
 | Kingdom Rush HD | 88320 | [88320-kingdom-rush-hd.json](./88320-kingdom-rush-hd.json) |
+| Kingdom Rush Origins | 41496 | [41496-kingdom-rush-origins.json](./41496-kingdom-rush-origins.json) |
 | Kingdom Rush Vengeance | 111393 | [111393-kingdom-rush-vengeance.json](./111393-kingdom-rush-vengeance.json) |
 | Kingdom Rush Vengeance - Hammerhold Campaign | 277264 | [277264-kingdom-rush-vengeance-hammerhold-campaign.json](./277264-kingdom-rush-vengeance-hammerhold-campaign.json) |
 | Kingdom Rush Vengeance: Pirate Kings | 327784 | [327784-kingdom-rush-vengeance-pirate-kings.json](./327784-kingdom-rush-vengeance-pirate-kings.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KMines | 234162 | [234162-kmines.json](./234162-kmines.json) |
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
 | Knack | 2957 | [2957-knack.json](./2957-knack.json) |
+| Knack II | 26194 | [26194-knack-ii.json](./26194-knack-ii.json) |
 | Knack! | 88474 | [88474-knack.json](./88474-knack.json) |
 | Knack' den Code | 78097 | [78097-knack-den-code.json](./78097-knack-den-code.json) |
 | Knack's Quest | 62659 | [62659-knacks-quest.json](./62659-knacks-quest.json) |
@@ -5468,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
 | Krum: Edge of Darkness | 34056 | [34056-krum-edge-of-darkness.json](./34056-krum-edge-of-darkness.json) |
 | Krunch | 17104 | [17104-krunch.json](./17104-krunch.json) |
+| Krunker | 109096 | [109096-krunker.json](./109096-krunker.json) |
 | Krunt.io | 125871 | [125871-krunt-io.json](./125871-krunt-io.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
