@@ -7210,6 +7210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
 | Hikariblade RPG | 88038 | [88038-hikariblade-rpg.json](./88038-hikariblade-rpg.json) |
 | Hikaru Genji: Roller Panic | 41308 | [41308-hikaru-genji-roller-panic.json](./41308-hikaru-genji-roller-panic.json) |
+| Hikaru no Go: Heian Gensou Ibunroku | 62377 | [62377-hikaru-no-go-heian-gensou-ibunroku.json](./62377-hikaru-no-go-heian-gensou-ibunroku.json) |
+| Hikaru no Go: Insei Choujou Kessen | 62378 | [62378-hikaru-no-go-insei-choujou-kessen.json](./62378-hikaru-no-go-insei-choujou-kessen.json) |
 | Hike | 147703 | [147703-hike.json](./147703-hike.json) |
 | Hike Adventures | 287164 | [287164-hike-adventures.json](./287164-hike-adventures.json) |
 | Hike Haven | 333735 | [333735-hike-haven.json](./333735-hike-haven.json) |
@@ -10349,6 +10351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howz-it! | 109520 | [109520-howz-it.json](./109520-howz-it.json) |
 | Howzat | 262008 | [262008-howzat.json](./262008-howzat.json) |
 | Hoyle Backgammon | 54105 | [54105-hoyle-backgammon.json](./54105-hoyle-backgammon.json) |
+| Hoyle Blackjack | 62395 | [62395-hoyle-blackjack.json](./62395-hoyle-blackjack.json) |
 | Hoyle Board Games | 69737 | [69737-hoyle-board-games.json](./69737-hoyle-board-games.json) |
 | Hoyle Board Games 2001 | 71276 | [71276-hoyle-board-games-2001.json](./71276-hoyle-board-games-2001.json) |
 | Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
@@ -11169,6 +11172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huuuge Casino | 131137 | [131137-huuuge-casino.json](./131137-huuuge-casino.json) |
 | Huxley Pig | 67653 | [67653-huxley-pig.json](./67653-huxley-pig.json) |
 | Huxley: The Dystopia | 73011 | [73011-huxley-the-dystopia.json](./73011-huxley-the-dystopia.json) |
+| Huygen's Disclosure | 62375 | [62375-huygens-disclosure.json](./62375-huygens-disclosure.json) |
 | Huygens Principle | 51477 | [51477-huygens-principle.json](./51477-huygens-principle.json) |
 | HuZero: Caravan Edition | 222850 | [222850-huzero-caravan-edition.json](./222850-huzero-caravan-edition.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
