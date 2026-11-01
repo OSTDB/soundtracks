@@ -4260,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Duel | 138543 | [138543-marvel-duel.json](./138543-marvel-duel.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
+| Marvel Future Fight | 24598 | [24598-marvel-future-fight.json](./24598-marvel-future-fight.json) |
 | Marvel Heroes | 220262 | [220262-marvel-heroes.json](./220262-marvel-heroes.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
 | Marvel Heroes | 50867 | [50867-marvel-heroes.json](./50867-marvel-heroes.json) |
@@ -9416,6 +9417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime Pinball | 1109 | [1109-metroid-prime-pinball.json](./1109-metroid-prime-pinball.json) |
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
 | Metroid Prime: Blast Ball | 23492 | [23492-metroid-prime-blast-ball.json](./23492-metroid-prime-blast-ball.json) |
+| Metroid Prime: Federation Force | 11217 | [11217-metroid-prime-federation-force.json](./11217-metroid-prime-federation-force.json) |
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
 | Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
 | Metroid Prime: Trilogy - Collector's Edition | 115548 | [115548-metroid-prime-trilogy-collectors-edition.json](./115548-metroid-prime-trilogy-collectors-edition.json) |
@@ -14559,6 +14561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster House Racing | 376708 | [376708-monster-house-racing.json](./376708-monster-house-racing.json) |
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter | 352353 | [352353-monster-hunter.json](./352353-monster-hunter.json) |
+| Monster Hunter | 69721 | [69721-monster-hunter.json](./69721-monster-hunter.json) |
 | Monster Hunter 2 | 43668 | [43668-monster-hunter-2.json](./43668-monster-hunter-2.json) |
 | Monster Hunter 3 Ultimate | 2271 | [2271-monster-hunter-3-ultimate.json](./2271-monster-hunter-3-ultimate.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
@@ -18338,6 +18341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muumit piilosilla | 26375 | [26375-muumit-piilosilla.json](./26375-muumit-piilosilla.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
 | Muv-Luv / Muv-Luv Alternative Remastered Double Pack | 308624 | [308624-muv-luv-muv-luv-alternative-remastered-double-pack.json](./308624-muv-luv-muv-luv-alternative-remastered-double-pack.json) |
+| Muv-Luv Alternative | 11781 | [11781-muv-luv-alternative.json](./11781-muv-luv-alternative.json) |
 | Muv-Luv Alternative Remastered | 308622 | [308622-muv-luv-alternative-remastered.json](./308622-muv-luv-alternative-remastered.json) |
 | Muv-Luv Alternative: Total Eclipse | 11799 | [11799-muv-luv-alternative-total-eclipse.json](./11799-muv-luv-alternative-total-eclipse.json) |
 | Muv-Luv Complete Set: Collector's Edition | 89569 | [89569-muv-luv-complete-set-collectors-edition.json](./89569-muv-luv-complete-set-collectors-edition.json) |
