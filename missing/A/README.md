@@ -16031,6 +16031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn's End | 420211 | [420211-autumns-end.json](./420211-autumns-end.json) |
 | Autumn's Journey | 114775 | [114775-autumns-journey.json](./114775-autumns-journey.json) |
 | Autumn's Treasures: The Jade Coin | 22119 | [22119-autumns-treasures-the-jade-coin.json](./22119-autumns-treasures-the-jade-coin.json) |
+| AUX B | 57418 | [57418-aux-b.json](./57418-aux-b.json) |
 | Aux Battles | 419617 | [419617-aux-battles.json](./419617-aux-battles.json) |
 | Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
 | Auxworld | 272306 | [272306-auxworld.json](./272306-auxworld.json) |
