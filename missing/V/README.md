@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Fighters | 295200 | [295200-vertical-fighters.json](./295200-vertical-fighters.json) |
 | Vertical Golf | 197654 | [197654-vertical-golf.json](./197654-vertical-golf.json) |
 | Vertical Kingdom | 202602 | [202602-vertical-kingdom.json](./202602-vertical-kingdom.json) |
+| Vertical Mayhem | 57432 | [57432-vertical-mayhem.json](./57432-vertical-mayhem.json) |
 | Vertical Quest | 249209 | [249209-vertical-quest.json](./249209-vertical-quest.json) |
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
 | Vertical Runner | 388329 | [388329-vertical-runner.json](./388329-vertical-runner.json) |
@@ -1485,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
+| Vertigo Racing | 57402 | [57402-vertigo-racing.json](./57402-vertigo-racing.json) |
 | Vertigo Void | 34255 | [34255-vertigo-void.json](./34255-vertigo-void.json) |
 | Vertigo: Binaural Beats | 233063 | [233063-vertigo-binaural-beats.json](./233063-vertigo-binaural-beats.json) |
 | Vertigo: Remastered | 135121 | [135121-vertigo-remastered.json](./135121-vertigo-remastered.json) |
