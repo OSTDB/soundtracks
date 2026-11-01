@@ -14747,6 +14747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Salatroisk Incident | 216168 | [216168-the-salatroisk-incident.json](./216168-the-salatroisk-incident.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Salesman | 376198 | [376198-the-salesman.json](./376198-the-salesman.json) |
+| The Salma World | 346148 | [346148-the-salma-world.json](./346148-the-salma-world.json) |
 | The Salt Fortress | 28860 | [28860-the-salt-fortress.json](./28860-the-salt-fortress.json) |
 | The Salt Keep | 237000 | [237000-the-salt-keep.json](./237000-the-salt-keep.json) |
 | The Salvation Project | 177977 | [177977-the-salvation-project.json](./177977-the-salvation-project.json) |
@@ -23058,6 +23059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
 | Tom Clancy's Rainbow Six: Lockdown | 312285 | [312285-tom-clancys-rainbow-six-lockdown.json](./312285-tom-clancys-rainbow-six-lockdown.json) |
 | Tom Clancy's Rainbow Six: Lone Wolf | 44989 | [44989-tom-clancys-rainbow-six-lone-wolf.json](./44989-tom-clancys-rainbow-six-lone-wolf.json) |
+| Tom Clancy's Rainbow Six: Rogue Spear | 1843 | [1843-tom-clancys-rainbow-six-rogue-spear.json](./1843-tom-clancys-rainbow-six-rogue-spear.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six: Take-Down – Missions in Korea | 135591 | [135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json](./135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json) |
@@ -30295,6 +30297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok Bundle | 103215 | [103215-turok-bundle.json](./103215-turok-bundle.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Battle of the Bionosaurs | 1325 | [1325-turok-battle-of-the-bionosaurs.json](./1325-turok-battle-of-the-bionosaurs.json) |
+| Turok: Evolution | 1329 | [1329-turok-evolution.json](./1329-turok-evolution.json) |
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
@@ -30975,6 +30978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twyla | 260534 | [260534-twyla.json](./260534-twyla.json) |
 | TX Poker: Texas Holdem Online | 359912 | [359912-tx-poker-texas-holdem-online.json](./359912-tx-poker-texas-holdem-online.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
+| Ty the Tasmanian Tiger | 1322 | [1322-ty-the-tasmanian-tiger.json](./1322-ty-the-tasmanian-tiger.json) |
 | Ty the Tasmanian Tiger 2: Bush Rescue | 210497 | [210497-ty-the-tasmanian-tiger-2-bush-rescue.json](./210497-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
 | Ty the Tasmanian Tiger 3: Night of the Quinkan | 1324 | [1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json](./1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json) |
