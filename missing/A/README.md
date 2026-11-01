@@ -3615,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
 | Aerodangle | 266123 | [266123-aerodangle.json](./266123-aerodangle.json) |
+| AeroFighters Assault | 47677 | [47677-aerofighters-assault.json](./47677-aerofighters-assault.json) |
 | aerofly FS | 16383 | [16383-aerofly-fs.json](./16383-aerofly-fs.json) |
 | Aerofly FS 1 Flight Simulator | 28220 | [28220-aerofly-fs-1-flight-simulator.json](./28220-aerofly-fs-1-flight-simulator.json) |
 | Aerofly FS 2 Flight Simulator | 33736 | [33736-aerofly-fs-2-flight-simulator.json](./33736-aerofly-fs-2-flight-simulator.json) |
@@ -6170,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cat 7 | 151391 | [151391-alien-cat-7.json](./151391-alien-cat-7.json) |
 | Alien Cat 8 | 149854 | [149854-alien-cat-8.json](./149854-alien-cat-8.json) |
 | Alien Challenge | 39524 | [39524-alien-challenge.json](./39524-alien-challenge.json) |
+| Alien Chaos 3D | 47632 | [47632-alien-chaos-3d.json](./47632-alien-chaos-3d.json) |
 | Alien Cleaner | 299527 | [299527-alien-cleaner.json](./299527-alien-cleaner.json) |
 | Alien Clones | 263469 | [263469-alien-clones.json](./263469-alien-clones.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
@@ -7502,6 +7504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
 | Amazing Adventures: The Caribbean Secret | 20436 | [20436-amazing-adventures-the-caribbean-secret.json](./20436-amazing-adventures-the-caribbean-secret.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
+| Amazing Adventures: The Forgotten Ruins | 47700 | [47700-amazing-adventures-the-forgotten-ruins.json](./47700-amazing-adventures-the-forgotten-ruins.json) |
 | Amazing Alex | 64629 | [64629-amazing-alex.json](./64629-amazing-alex.json) |
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
 | Amazing Bats | 234468 | [234468-amazing-bats.json](./234468-amazing-bats.json) |
@@ -7828,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
 | American McGee's Alice | 337 | [337-american-mcgees-alice.json](./337-american-mcgees-alice.json) |
 | American McGee's Oz | 93984 | [93984-american-mcgees-oz.json](./93984-american-mcgees-oz.json) |
+| American Mensa Academy | 47630 | [47630-american-mensa-academy.json](./47630-american-mensa-academy.json) |
 | American Motorcycle Simulator | 133223 | [133223-american-motorcycle-simulator.json](./133223-american-motorcycle-simulator.json) |
 | American Museum of Natural History's T. Rex: Skeleton Crew | 357428 | [357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json](./357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json) |
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
@@ -12948,6 +12952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: RTS | 8498 | [8498-army-men-rts.json](./8498-army-men-rts.json) |
 | Army Men: Sarge's Heroes 2 | 201091 | [201091-army-men-sarges-heroes-2.json](./201091-army-men-sarges-heroes-2.json) |
 | Army Men: Sarge's Heroes 2 | 3441 | [3441-army-men-sarges-heroes-2.json](./3441-army-men-sarges-heroes-2.json) |
+| Army Men: Soldiers of Misfortune | 47721 | [47721-army-men-soldiers-of-misfortune.json](./47721-army-men-soldiers-of-misfortune.json) |
 | Army Men: Turf Wars | 49314 | [49314-army-men-turf-wars.json](./49314-army-men-turf-wars.json) |
 | Army Men: World War | 201092 | [201092-army-men-world-war.json](./201092-army-men-world-war.json) |
 | Army Men: World War | 44994 | [44994-army-men-world-war.json](./44994-army-men-world-war.json) |
