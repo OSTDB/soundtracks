@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
 | Jackson | 40192 | [40192-jackson.json](./40192-jackson.json) |
 | Jacktus Green: The Fluffy, the Spiky and the Spicy | 208826 | [208826-jacktus-green-the-fluffy-the-spiky-and-the-spicy.json](./208826-jacktus-green-the-fluffy-the-spiky-and-the-spicy.json) |
+| Jacky Lucky | 56806 | [56806-jacky-lucky.json](./56806-jacky-lucky.json) |
 | Jacmena | 391789 | [391789-jacmena.json](./391789-jacmena.json) |
 | Jacob | 33314 | [33314-jacob.json](./33314-jacob.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
 | Jith-Win-Yarn | 74164 | [74164-jith-win-yarn.json](./74164-jith-win-yarn.json) |
 | Jitsu Squad | 145440 | [145440-jitsu-squad.json](./145440-jitsu-squad.json) |
+| Jitsuroku Oniyome Nikki | 56813 | [56813-jitsuroku-oniyome-nikki.json](./56813-jitsuroku-oniyome-nikki.json) |
 | Jitsuryoku!! Pro Yakyuu | 40211 | [40211-jitsuryoku-pro-yakyuu.json](./40211-jitsuryoku-pro-yakyuu.json) |
 | Jitsuwa Kaidan: Shinmimi Bokuro - Ichi no Shou | 59370 | [59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json](./59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json) |
 | Jitter | 298668 | [298668-jitter.json](./298668-jitter.json) |
@@ -2840,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jugular | 179120 | [179120-jugular.json](./179120-jugular.json) |
 | Jugular Street Luge Racing | 73678 | [73678-jugular-street-luge-racing.json](./73678-jugular-street-luge-racing.json) |
 | Juh | 419310 | [419310-juh.json](./419310-juh.json) |
+| Jui: Dr. Touma Joutarou | 56812 | [56812-jui-dr-touma-joutarou.json](./56812-jui-dr-touma-joutarou.json) |
 | Juice | 139264 | [139264-juice.json](./139264-juice.json) |
 | Juice Fresh: Fruit Elimination | 187901 | [187901-juice-fresh-fruit-elimination.json](./187901-juice-fresh-fruit-elimination.json) |
 | Juice Fruity Splash | 106467 | [106467-juice-fruity-splash.json](./106467-juice-fruity-splash.json) |
@@ -2885,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
 | Juken Jigoku | 127745 | [127745-juken-jigoku.json](./127745-juken-jigoku.json) |
+| Jukugon | 56830 | [56830-jukugon.json](./56830-jukugon.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | Jules Verne's Journey to the center of the moon | 95908 | [95908-jules-vernes-journey-to-the-center-of-the-moon.json](./95908-jules-vernes-journey-to-the-center-of-the-moon.json) |
 | Jules Verne's Mystery of the Nautilus | 104368 | [104368-jules-vernes-mystery-of-the-nautilus.json](./104368-jules-vernes-mystery-of-the-nautilus.json) |
@@ -3485,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juraroid | 370551 | [370551-juraroid.json](./370551-juraroid.json) |
 | Jurassic Architect | 210980 | [210980-jurassic-architect.json](./210980-jurassic-architect.json) |
 | Jurassic Arena | 89060 | [89060-jurassic-arena.json](./89060-jurassic-arena.json) |
+| Jurassic Boy | 56800 | [56800-jurassic-boy.json](./56800-jurassic-boy.json) |
 | Jurassic Boy 2 | 48578 | [48578-jurassic-boy-2.json](./48578-jurassic-boy-2.json) |
 | Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
 | Jurassic Craft: Dino Hunter | 175350 | [175350-jurassic-craft-dino-hunter.json](./175350-jurassic-craft-dino-hunter.json) |
@@ -3752,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dying | 400470 | [400470-just-dying.json](./400470-just-dying.json) |
 | Just Eat Sushi! | 405354 | [405354-just-eat-sushi.json](./405354-just-eat-sushi.json) |
 | Just Eat the Rich | 397920 | [397920-just-eat-the-rich.json](./397920-just-eat-the-rich.json) |
+| Just English | 56829 | [56829-just-english.json](./56829-just-english.json) |
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
 | Just Fighting | 264998 | [264998-just-fighting.json](./264998-just-fighting.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
@@ -3956,4 +3962,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jyangokushi - Haoh No Saihai | 40217 | [40217-jyangokushi-haoh-no-saihai.json](./40217-jyangokushi-haoh-no-saihai.json) |
 | Jydge | 43501 | [43501-jydge.json](./43501-jydge.json) |
 | Jylko: Through the Song | 211654 | [211654-jylko-through-the-song.json](./211654-jylko-through-the-song.json) |
+| Jyuujigen Ripputai Sypher Portable | 56811 | [56811-jyuujigen-ripputai-sypher-portable.json](./56811-jyuujigen-ripputai-sypher-portable.json) |
 | Jyym Pearson Adventure Tri-Pack | 100126 | [100126-jyym-pearson-adventure-tri-pack.json](./100126-jyym-pearson-adventure-tri-pack.json) |
