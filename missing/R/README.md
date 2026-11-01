@@ -6808,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridevery | 270521 | [270521-ridevery.json](./270521-ridevery.json) |
 | Ridge | 32363 | [32363-ridge.json](./32363-ridge.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
+| Ridge Racer | 18696 | [18696-ridge-racer.json](./18696-ridge-racer.json) |
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
 | Ridge Racer | 386354 | [386354-ridge-racer.json](./386354-ridge-racer.json) |
 | Ridge Racer 2 | 140479 | [140479-ridge-racer-2.json](./140479-ridge-racer-2.json) |
@@ -9533,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roketz | 148717 | [148717-roketz.json](./148717-roketz.json) |
 | Roketz | 148740 | [148740-roketz.json](./148740-roketz.json) |
 | Rokh | 20190 | [20190-rokh.json](./20190-rokh.json) |
+| Röki | 28528 | [28528-roki.json](./28528-roki.json) |
 | Rokka | 157492 | [157492-rokka.json](./157492-rokka.json) |
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
 | Roko-Loko into Ratozinger's Castle | 130111 | [130111-roko-loko-into-ratozingers-castle.json](./130111-roko-loko-into-ratozingers-castle.json) |
