@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raldi's Crackhouse | 285343 | [285343-raldis-crackhouse.json](./285343-raldis-crackhouse.json) |
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
+| Ralin: Dwarf Wars | 51684 | [51684-ralin-dwarf-wars.json](./51684-ralin-dwarf-wars.json) |
 | Rallied! | 416352 | [416352-rallied.json](./416352-rallied.json) |
 | RalliSport Challenge | 841 | [841-rallisport-challenge.json](./841-rallisport-challenge.json) |
 | Rallo Gump | 73148 | [73148-rallo-gump.json](./73148-rallo-gump.json) |
@@ -7286,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
 | Rise of the Pirates | 114802 | [114802-rise-of-the-pirates.json](./114802-rise-of-the-pirates.json) |
+| Rise of the Ravager | 51671 | [51671-rise-of-the-ravager.json](./51671-rise-of-the-ravager.json) |
 | Rise of the Robots | 368887 | [368887-rise-of-the-robots.json](./368887-rise-of-the-robots.json) |
 | Rise of the Robots X | 191127 | [191127-rise-of-the-robots-x.json](./191127-rise-of-the-robots-x.json) |
 | Rise of the Ronin: Digital Deluxe Edition | 284585 | [284585-rise-of-the-ronin-digital-deluxe-edition.json](./284585-rise-of-the-ronin-digital-deluxe-edition.json) |
