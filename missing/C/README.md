@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Fire: Bloody Sea | 115568 | [115568-cannon-fire-bloody-sea.json](./115568-cannon-fire-bloody-sea.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
 | Cannon Fodder | 229022 | [229022-cannon-fodder.json](./229022-cannon-fodder.json) |
+| Cannon Fodder | 42335 | [42335-cannon-fodder.json](./42335-cannon-fodder.json) |
 | Cannon Fodder | 5519 | [5519-cannon-fodder.json](./5519-cannon-fodder.json) |
 | Cannon Fodder 2 | 11986 | [11986-cannon-fodder-2.json](./11986-cannon-fodder-2.json) |
 | Cannon Fodder and Green Game Bundle | 214664 | [214664-cannon-fodder-and-green-game-bundle.json](./214664-cannon-fodder-and-green-game-bundle.json) |
@@ -7724,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono Trigger: Crimson Echoes | 38266 | [38266-chrono-trigger-crimson-echoes.json](./38266-chrono-trigger-crimson-echoes.json) |
+| Chrono Trigger: Flames of Eternity | 42332 | [42332-chrono-trigger-flames-of-eternity.json](./42332-chrono-trigger-flames-of-eternity.json) |
 | Chrono Trigger: Jet Bike Special | 38105 | [38105-chrono-trigger-jet-bike-special.json](./38105-chrono-trigger-jet-bike-special.json) |
 | Chrono Trigger: Prophet's Guile | 315449 | [315449-chrono-trigger-prophets-guile.json](./315449-chrono-trigger-prophets-guile.json) |
 | Chrono Trigger: Schala Edition | 246580 | [246580-chrono-trigger-schala-edition.json](./246580-chrono-trigger-schala-edition.json) |
@@ -15074,6 +15076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Run | 106365 | [106365-crayon-run.json](./106365-crayon-run.json) |
 | Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
 | Crayon Shin Chan: The Storm Called! Flaming Kasukabe Runner!! | 130760 | [130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json](./130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json) |
+| Crayon Shin-Chan | 42331 | [42331-crayon-shin-chan.json](./42331-crayon-shin-chan.json) |
 | Crayon Shin-chan 2: Daimaou no Gyakushuu | 65378 | [65378-crayon-shin-chan-2-daimaou-no-gyakushuu.json](./65378-crayon-shin-chan-2-daimaou-no-gyakushuu.json) |
 | Crayon Shin-chan 4: Ora no Itazura Daihenshin | 127112 | [127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json](./127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json) |
 | Crayon Shin-Chan for Nuon | 138119 | [138119-crayon-shin-chan-for-nuon.json](./138119-crayon-shin-chan-for-nuon.json) |
