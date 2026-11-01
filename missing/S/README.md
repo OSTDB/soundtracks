@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
 | Second Dreamer | 245994 | [245994-second-dreamer.json](./245994-second-dreamer.json) |
 | Second Earth | 128800 | [128800-second-earth.json](./128800-second-earth.json) |
+| Second Extinction | 133309 | [133309-second-extinction.json](./133309-second-extinction.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Front: Germany Turns East | 74107 | [74107-second-front-germany-turns-east.json](./74107-second-front-germany-turns-east.json) |
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
@@ -4125,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
+| Secret Agent | 8485 | [8485-secret-agent.json](./8485-secret-agent.json) |
 | Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
 | Secret Agent Barbie | 71927 | [71927-secret-agent-barbie.json](./71927-secret-agent-barbie.json) |
 | Secret Agent Barbie: Royal Jewels Mission | 45170 | [45170-secret-agent-barbie-royal-jewels-mission.json](./45170-secret-agent-barbie-royal-jewels-mission.json) |
@@ -9666,6 +9668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Cold Heart | 282700 | [282700-silent-hill-cold-heart.json](./282700-silent-hill-cold-heart.json) |
 | Silent Hill: Downpour | 487 | [487-silent-hill-downpour.json](./487-silent-hill-downpour.json) |
 | Silent Hill: Homecoming | 485 | [485-silent-hill-homecoming.json](./485-silent-hill-homecoming.json) |
+| Silent Hill: Mobile 2 | 134263 | [134263-silent-hill-mobile-2.json](./134263-silent-hill-mobile-2.json) |
 | Silent Hill: Mobile 3 | 134265 | [134265-silent-hill-mobile-3.json](./134265-silent-hill-mobile-3.json) |
 | Silent Hill: Mobile DX | 134261 | [134261-silent-hill-mobile-dx.json](./134261-silent-hill-mobile-dx.json) |
 | Silent Hill: Origins | 484 | [484-silent-hill-origins.json](./484-silent-hill-origins.json) |
@@ -9739,6 +9742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Sector | 132554 | [132554-silent-sector.json](./132554-silent-sector.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Service | 393329 | [393329-silent-service.json](./393329-silent-service.json) |
+| Silent Service | 8825 | [8825-silent-service.json](./8825-silent-service.json) |
 | Silent Service 1 + 2 | 154240 | [154240-silent-service-1-2.json](./154240-silent-service-1-2.json) |
 | Silent Service II | 8826 | [8826-silent-service-ii.json](./8826-silent-service-ii.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
@@ -18188,7 +18192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20562,6 +20565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
 | SpiritSweeper | 307624 | [307624-spiritsweeper.json](./307624-spiritsweeper.json) |
+| Spirittea | 204418 | [204418-spirittea.json](./204418-spirittea.json) |
 | Spirittea 2.0 | 374985 | [374985-spirittea-2-0.json](./374985-spirittea-2-0.json) |
 | Spirittracker | 187660 | [187660-spirittracker.json](./187660-spirittracker.json) |
 | Spiritual Blade | 409247 | [409247-spiritual-blade.json](./409247-spiritual-blade.json) |
@@ -25895,6 +25899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Daily | 130275 | [130275-streamer-daily.json](./130275-streamer-daily.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
 | Streamer Girl Simulator | 249080 | [249080-streamer-girl-simulator.json](./249080-streamer-girl-simulator.json) |
+| Streamer Life Simulator | 137529 | [137529-streamer-life-simulator.json](./137529-streamer-life-simulator.json) |
 | Streamer Life Simulator 2 | 293118 | [293118-streamer-life-simulator-2.json](./293118-streamer-life-simulator-2.json) |
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
@@ -26424,6 +26429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Squad | 84116 | [84116-strike-squad.json](./84116-strike-squad.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Suit Infinity | 9329 | [9329-strike-suit-infinity.json](./9329-strike-suit-infinity.json) |
+| Strike Suit Zero | 8507 | [8507-strike-suit-zero.json](./8507-strike-suit-zero.json) |
 | Strike Suit Zero: Collectors Edition | 54407 | [54407-strike-suit-zero-collectors-edition.json](./54407-strike-suit-zero-collectors-edition.json) |
 | Strike Suit Zero: Director's Cut | 9465 | [9465-strike-suit-zero-directors-cut.json](./9465-strike-suit-zero-directors-cut.json) |
 | Strike Team Delta | 293668 | [293668-strike-team-delta.json](./293668-strike-team-delta.json) |
@@ -27170,6 +27176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Such a guy | 374236 | [374236-such-a-guy.json](./374236-such-a-guy.json) |
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
+| SuchArt: Genius Artist Simulator | 139456 | [139456-suchart-genius-artist-simulator.json](./139456-suchart-genius-artist-simulator.json) |
 | Suchawira World Traveler | 124563 | [124563-suchawira-world-traveler.json](./124563-suchawira-world-traveler.json) |
 | Suchie-Pai Adventure: Doki Doki Nightmare - Saturn Tribute | 237770 | [237770-suchie-pai-adventure-doki-doki-nightmare-saturn-tribute.json](./237770-suchie-pai-adventure-doki-doki-nightmare-saturn-tribute.json) |
 | Suchie-Pai Adventure: Doki-doki Nightmare | 92137 | [92137-suchie-pai-adventure-doki-doki-nightmare.json](./92137-suchie-pai-adventure-doki-doki-nightmare.json) |
