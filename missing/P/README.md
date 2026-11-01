@@ -9842,6 +9842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
 | Pogoppl | 236749 | [236749-pogoppl.json](./236749-pogoppl.json) |
 | Pogostick | 144741 | [144741-pogostick.json](./144741-pogostick.json) |
+| Pogostuck: Rage With Your Friends | 113049 | [113049-pogostuck-rage-with-your-friends.json](./113049-pogostuck-rage-with-your-friends.json) |
 | Pogs AR | 110040 | [110040-pogs-ar.json](./110040-pogs-ar.json) |
 | Pogs: Power of Golden Slammer | 348430 | [348430-pogs-power-of-golden-slammer.json](./348430-pogs-power-of-golden-slammer.json) |
 | Pogui | 379056 | [379056-pogui.json](./379056-pogui.json) |
