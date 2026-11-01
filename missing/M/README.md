@@ -2194,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majime ni Fumajime Kaiketsu Zorori - Kyoufu no Takarabako | 124487 | [124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json](./124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json) |
 | Majin and Sacrificial Girl | 234850 | [234850-majin-and-sacrificial-girl.json](./234850-majin-and-sacrificial-girl.json) |
 | Majin and the Forsaken Kingdom | 7062 | [7062-majin-and-the-forsaken-kingdom.json](./7062-majin-and-the-forsaken-kingdom.json) |
+| Majin Bone: Jikan to Kuukan no Majin | 61279 | [61279-majin-bone-jikan-to-kuukan-no-majin.json](./61279-majin-bone-jikan-to-kuukan-no-majin.json) |
 | Majin Island | 220293 | [220293-majin-island.json](./220293-majin-island.json) |
 | Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou! | 216201 | [216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json](./216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json) |
 | Majin Tantei Nougami Neuro: Neuro to Yako no Bishoku Sanmai | 124486 | [124486-majin-tantei-nougami-neuro-neuro-to-yako-no-bishoku-sanmai.json](./124486-majin-tantei-nougami-neuro-neuro-to-yako-no-bishoku-sanmai.json) |
@@ -9711,6 +9712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroFactory | 145627 | [145627-microfactory.json](./145627-microfactory.json) |
 | Microfisher | 346914 | [346914-microfisher.json](./346914-microfisher.json) |
 | Microgames Jam Pack | 267222 | [267222-microgames-jam-pack.json](./267222-microgames-jam-pack.json) |
+| MicroGo | 61359 | [61359-microgo.json](./61359-microgo.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
 | Microgravity | 123224 | [123224-microgravity.json](./123224-microgravity.json) |
 | MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
@@ -14327,6 +14329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fishing Legends | 108277 | [108277-monster-fishing-legends.json](./108277-monster-fishing-legends.json) |
 | Monster Fishing: Fishing Life RPG | 233510 | [233510-monster-fishing-fishing-life-rpg.json](./233510-monster-fishing-fishing-life-rpg.json) |
 | Monster Fishing: Tournament | 188362 | [188362-monster-fishing-tournament.json](./188362-monster-fishing-tournament.json) |
+| Monster Flip | 61373 | [61373-monster-flip.json](./61373-monster-flip.json) |
 | Monster Flipper | 406502 | [406502-monster-flipper.json](./406502-monster-flipper.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
@@ -17299,6 +17302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffled Warfare | 96550 | [96550-muffled-warfare.json](./96550-muffled-warfare.json) |
 | Muffles' Life Sentence | 329213 | [329213-muffles-life-sentence.json](./329213-muffles-life-sentence.json) |
 | Muffles' Life Sentence: Episode 2 | 339955 | [339955-muffles-life-sentence-episode-2.json](./339955-muffles-life-sentence-episode-2.json) |
+| Muffy Boy | 61271 | [61271-muffy-boy.json](./61271-muffy-boy.json) |
 | Mug | 322830 | [322830-mug.json](./322830-mug.json) |
 | Mugalon Poker | 232351 | [232351-mugalon-poker.json](./232351-mugalon-poker.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
@@ -18977,6 +18981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Pinkie Pie's Party | 80769 | [80769-my-little-pony-pinkie-pies-party.json](./80769-my-little-pony-pinkie-pies-party.json) |
 | My Little Pony: Pinkie Pie's Party Parade | 76474 | [76474-my-little-pony-pinkie-pies-party-parade.json](./76474-my-little-pony-pinkie-pies-party-parade.json) |
 | My Little Pony: Pocket Ponies | 138461 | [138461-my-little-pony-pocket-ponies.json](./138461-my-little-pony-pocket-ponies.json) |
+| My Little Pony: Power Ponies | 61281 | [61281-my-little-pony-power-ponies.json](./61281-my-little-pony-power-ponies.json) |
 | My Little Pony: Puzzle Party | 70864 | [70864-my-little-pony-puzzle-party.json](./70864-my-little-pony-puzzle-party.json) |
 | My Little Pony: Rainbow Runners | 138460 | [138460-my-little-pony-rainbow-runners.json](./138460-my-little-pony-rainbow-runners.json) |
 | My Little Pony: Story Creator | 138463 | [138463-my-little-pony-story-creator.json](./138463-my-little-pony-story-creator.json) |
