@@ -8674,6 +8674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Peach | 48307 | [48307-honey-peach.json](./48307-honey-peach.json) |
 | Honey Peach Clicker | 314242 | [314242-honey-peach-clicker.json](./314242-honey-peach-clicker.json) |
 | Honey Pot | 317391 | [317391-honey-pot.json](./317391-honey-pot.json) |
+| Honey Rose: Underdog Fighter Extraordinaire | 31450 | [31450-honey-rose-underdog-fighter-extraordinaire.json](./31450-honey-rose-underdog-fighter-extraordinaire.json) |
 | Honey Select | 22486 | [22486-honey-select.json](./22486-honey-select.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
 | Honey Select 2: Libido DX | 203777 | [203777-honey-select-2-libido-dx.json](./203777-honey-select-2-libido-dx.json) |
