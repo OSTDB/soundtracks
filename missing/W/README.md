@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
 | Wacky Worlds Creativity Studio | 47056 | [47056-wacky-worlds-creativity-studio.json](./47056-wacky-worlds-creativity-studio.json) |
 | Wacky Zoo GP | 66926 | [66926-wacky-zoo-gp.json](./66926-wacky-zoo-gp.json) |
+| WackyMoles | 31360 | [31360-wackymoles.json](./31360-wackymoles.json) |
 | Waco Resurrection | 308429 | [308429-waco-resurrection.json](./308429-waco-resurrection.json) |
 | Wadality | 189887 | [189887-wadality.json](./189887-wadality.json) |
 | Wadanohara and the Great Blue Sea | 46614 | [46614-wadanohara-and-the-great-blue-sea.json](./46614-wadanohara-and-the-great-blue-sea.json) |
@@ -764,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Chess | 93410 | [93410-war-chess.json](./93410-war-chess.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
+| War Cube | 31342 | [31342-war-cube.json](./31342-war-cube.json) |
 | War Diary | 2620 | [2620-war-diary.json](./2620-war-diary.json) |
 | War Dogs: Ace Fighters of WWII | 403106 | [403106-war-dogs-ace-fighters-of-wwii.json](./403106-war-dogs-ace-fighters-of-wwii.json) |
 | War Dogs: Red's Return | 147095 | [147095-war-dogs-reds-return.json](./147095-war-dogs-reds-return.json) |
@@ -2772,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
 | Weapons Genius | 34843 | [34843-weapons-genius.json](./34843-weapons-genius.json) |
 | Weapons Genius VR | 132437 | [132437-weapons-genius-vr.json](./132437-weapons-genius-vr.json) |
+| Weapons of Mythology: New Age | 31442 | [31442-weapons-of-mythology-new-age.json](./31442-weapons-of-mythology-new-age.json) |
 | Weapons of Ra | 199990 | [199990-weapons-of-ra.json](./199990-weapons-of-ra.json) |
 | Weapons of the Gods | 218273 | [218273-weapons-of-the-gods.json](./218273-weapons-of-the-gods.json) |
 | Weapons of War | 324727 | [324727-weapons-of-war.json](./324727-weapons-of-war.json) |
