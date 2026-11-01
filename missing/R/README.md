@@ -4650,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Assault | 74008 | [74008-remote-assault.json](./74008-remote-assault.json) |
 | Remote Bomber | 147839 | [147839-remote-bomber.json](./147839-remote-bomber.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
+| Remote Control | 41135 | [41135-remote-control.json](./41135-remote-control.json) |
 | Remote Control Dandy | 77880 | [77880-remote-control-dandy.json](./77880-remote-control-dandy.json) |
 | Remote Control Dandy SF | 72951 | [72951-remote-control-dandy-sf.json](./72951-remote-control-dandy-sf.json) |
 | Remote Control Fun Airplanes | 104443 | [104443-remote-control-fun-airplanes.json](./104443-remote-control-fun-airplanes.json) |
@@ -7004,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimland | 302214 | [302214-rimland.json](./302214-rimland.json) |
 | Rimo-Cocoron | 98366 | [98366-rimo-cocoron.json](./98366-rimo-cocoron.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
+| Rimrunner | 41131 | [41131-rimrunner.json](./41131-rimrunner.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
 | Rims Racing: Bahrain International Circuit | 174477 | [174477-rims-racing-bahrain-international-circuit.json](./174477-rims-racing-bahrain-international-circuit.json) |
 | Rims Racing: Ultimate Edition | 165880 | [165880-rims-racing-ultimate-edition.json](./165880-rims-racing-ultimate-edition.json) |
@@ -8657,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Arena: Season 3 | 144044 | [144044-rocket-arena-season-3.json](./144044-rocket-arena-season-3.json) |
 | Rocket Armor | 76363 | [76363-rocket-armor.json](./76363-rocket-armor.json) |
 | Rocket Assault | 104348 | [104348-rocket-assault.json](./104348-rocket-assault.json) |
+| Rocket Ball | 41129 | [41129-rocket-ball.json](./41129-rocket-ball.json) |
 | Rocket Ball Cars League | 100494 | [100494-rocket-ball-cars-league.json](./100494-rocket-ball-cars-league.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Blasters | 76306 | [76306-rocket-blasters.json](./76306-rocket-blasters.json) |
