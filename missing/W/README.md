@@ -4461,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who the Fuck Ate Grandma? | 192581 | [192581-who-the-fuck-ate-grandma.json](./192581-who-the-fuck-ate-grandma.json) |
 | Who Tied Me to the Rocket? | 199965 | [199965-who-tied-me-to-the-rocket.json](./199965-who-tied-me-to-the-rocket.json) |
 | Who Wants to Be a Hypnoslut? | 263668 | [263668-who-wants-to-be-a-hypnoslut.json](./263668-who-wants-to-be-a-hypnoslut.json) |
+| Who Wants to Be a Millionaire | 139936 | [139936-who-wants-to-be-a-millionaire.json](./139936-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 210722 | [210722-who-wants-to-be-a-millionaire.json](./210722-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 243 | [243-who-wants-to-be-a-millionaire.json](./243-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 310596 | [310596-who-wants-to-be-a-millionaire.json](./310596-who-wants-to-be-a-millionaire.json) |
@@ -4948,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | Wildbus | 111358 | [111358-wildbus.json](./111358-wildbus.json) |
 | Wildcard | 235086 | [235086-wildcard.json](./235086-wildcard.json) |
+| Wildcat Gun Machine | 139676 | [139676-wildcat-gun-machine.json](./139676-wildcat-gun-machine.json) |
 | Wildcat Snack Attack | 338366 | [338366-wildcat-snack-attack.json](./338366-wildcat-snack-attack.json) |
 | Wildcatting | 42131 | [42131-wildcatting.json](./42131-wildcatting.json) |
 | Wildchain: Rewild The World | 391651 | [391651-wildchain-rewild-the-world.json](./391651-wildchain-rewild-the-world.json) |
@@ -6628,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy Returns | 31404 | [31404-wonder-boy-returns.json](./31404-wonder-boy-returns.json) |
 | Wonder Boy Returns Remix | 115993 | [115993-wonder-boy-returns-remix.json](./115993-wonder-boy-returns-remix.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
+| Wonder Boy: Asha in Monster World | 137048 | [137048-wonder-boy-asha-in-monster-world.json](./137048-wonder-boy-asha-in-monster-world.json) |
 | Wonder Boy: Asha in Monster World Collector's Edition | 147917 | [147917-wonder-boy-asha-in-monster-world-collectors-edition.json](./147917-wonder-boy-asha-in-monster-world-collectors-edition.json) |
 | Wonder Boy: Asha in Monster World Limited Edition | 147920 | [147920-wonder-boy-asha-in-monster-world-limited-edition.json](./147920-wonder-boy-asha-in-monster-world-limited-edition.json) |
 | Wonder Boy: Asha in Monster World Mega Collector's Edition | 147910 | [147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json](./147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json) |
