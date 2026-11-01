@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abuzittin'in Maceraları II: İz Peşinde | 330333 | [330333-abuzittinin-maceralar-ii-iz-pesinde.json](./330333-abuzittinin-maceralar-ii-iz-pesinde.json) |
 | Abuzittin'in Maceraları: Yüzük Arkadaşlığı | 142120 | [142120-abuzittinin-maceralar-yuzuk-arkadasl-g.json](./142120-abuzittinin-maceralar-yuzuk-arkadasl-g.json) |
 | Aby Escape | 242004 | [242004-aby-escape.json](./242004-aby-escape.json) |
+| Aby Escape Deluxe | 38685 | [38685-aby-escape-deluxe.json](./38685-aby-escape-deluxe.json) |
 | Aby's Playground | 237775 | [237775-abys-playground.json](./237775-abys-playground.json) |
 | ABYA: Paint Ball | 312664 | [312664-abya-paint-ball.json](./312664-abya-paint-ball.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace No.1 Fishing | 137416 | [137416-ace-no-1-fishing.json](./137416-ace-no-1-fishing.json) |
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
 | Ace of Aces | 85860 | [85860-ace-of-aces.json](./85860-ace-of-aces.json) |
+| Ace of Arenas | 38676 | [38676-ace-of-arenas.json](./38676-ace-of-arenas.json) |
 | Ace of Arenas | 59820 | [59820-ace-of-arenas.json](./59820-ace-of-arenas.json) |
 | Ace of Gifts | 310537 | [310537-ace-of-gifts.json](./310537-ace-of-gifts.json) |
 | Ace of Hearts | 98902 | [98902-ace-of-hearts.json](./98902-ace-of-hearts.json) |
@@ -7108,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Terminus | 226216 | [226216-alpha-terminus.json](./226216-alpha-terminus.json) |
 | Alpha Version.0 | 35483 | [35483-alpha-version-0.json](./35483-alpha-version-0.json) |
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
+| Alpha Wave | 38684 | [38684-alpha-wave.json](./38684-alpha-wave.json) |
 | Alpha Wing 2 | 263423 | [263423-alpha-wing-2.json](./263423-alpha-wing-2.json) |
 | Alpha Zen | 232476 | [232476-alpha-zen.json](./232476-alpha-zen.json) |
 | Alpha Zone 3D | 153633 | [153633-alpha-zone-3d.json](./153633-alpha-zone-3d.json) |
