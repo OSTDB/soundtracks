@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xanthiom | 311973 | [311973-xanthiom.json](./311973-xanthiom.json) |
 | Xanthiom Zero | 240815 | [240815-xanthiom-zero.json](./240815-xanthiom-zero.json) |
 | Xanthippe's Last Night with Socrates | 364623 | [364623-xanthippes-last-night-with-socrates.json](./364623-xanthippes-last-night-with-socrates.json) |
+| Xanthius | 54665 | [54665-xanthius.json](./54665-xanthius.json) |
 | Xanxillium | 110232 | [110232-xanxillium.json](./110232-xanxillium.json) |
 | Xaphan: Battle Simulator | 265120 | [265120-xaphan-battle-simulator.json](./265120-xaphan-battle-simulator.json) |
 | Xargon | 70129 | [70129-xargon.json](./70129-xargon.json) |
@@ -854,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xoo: Xeno Xafari | 149000 | [149000-xoo-xeno-xafari.json](./149000-xoo-xeno-xafari.json) |
 | Xoo: Xeno Xafari | 387523 | [387523-xoo-xeno-xafari.json](./387523-xoo-xeno-xafari.json) |
 | XOP Black Ultra | 275256 | [275256-xop-black-ultra.json](./275256-xop-black-ultra.json) |
+| Xor | 54669 | [54669-xor.json](./54669-xor.json) |
 | Xorbius | 384665 | [384665-xorbius.json](./384665-xorbius.json) |
 | XorceD - Sashiro's Laedrum | 33432 | [33432-xorced-sashiros-laedrum.json](./33432-xorced-sashiros-laedrum.json) |
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
