@@ -9631,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Alchemilla | 24582 | [24582-silent-hill-alchemilla.json](./24582-silent-hill-alchemilla.json) |
 | Silent Hill: Book of Memories | 9714 | [9714-silent-hill-book-of-memories.json](./9714-silent-hill-book-of-memories.json) |
 | Silent Hill: Cold Heart | 282700 | [282700-silent-hill-cold-heart.json](./282700-silent-hill-cold-heart.json) |
+| Silent Hill: Downpour | 487 | [487-silent-hill-downpour.json](./487-silent-hill-downpour.json) |
 | Silent Hill: Homecoming | 485 | [485-silent-hill-homecoming.json](./485-silent-hill-homecoming.json) |
 | Silent Hill: Mobile 3 | 134265 | [134265-silent-hill-mobile-3.json](./134265-silent-hill-mobile-3.json) |
 | Silent Hill: Mobile DX | 134261 | [134261-silent-hill-mobile-dx.json](./134261-silent-hill-mobile-dx.json) |
@@ -11453,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldiggery | 80394 | [80394-skulldiggery.json](./80394-skulldiggery.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
+| Skullgirls | 9425 | [9425-skullgirls.json](./9425-skullgirls.json) |
 | Skullgirls Encore | 85703 | [85703-skullgirls-encore.json](./85703-skullgirls-encore.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls Encore: Big Band | 127555 | [127555-skullgirls-encore-big-band.json](./127555-skullgirls-encore-big-band.json) |
@@ -15895,6 +15897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 360º | 326799 | [326799-sonic-360o.json](./326799-sonic-360o.json) |
 | Sonic 3D | 330796 | [330796-sonic-3d.json](./330796-sonic-3d.json) |
 | Sonic 3D Blast | 202967 | [202967-sonic-3d-blast.json](./202967-sonic-3d-blast.json) |
+| Sonic 3D Blast | 9476 | [9476-sonic-3d-blast.json](./9476-sonic-3d-blast.json) |
 | Sonic 3D Blast: Director's Cut | 129174 | [129174-sonic-3d-blast-directors-cut.json](./129174-sonic-3d-blast-directors-cut.json) |
 | Sonic 3D Blitz | 334067 | [334067-sonic-3d-blitz.json](./334067-sonic-3d-blitz.json) |
 | Sonic 3D in 2D | 177697 | [177697-sonic-3d-in-2d.json](./177697-sonic-3d-in-2d.json) |
@@ -16571,6 +16574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Phantom Remix | 361656 | [361656-sonic-the-hedgehog-phantom-remix.json](./361656-sonic-the-hedgehog-phantom-remix.json) |
 | Sonic the Hedgehog: Project Mettrix | 301516 | [301516-sonic-the-hedgehog-project-mettrix.json](./301516-sonic-the-hedgehog-project-mettrix.json) |
 | Sonic the Hedgehog: Rebirth of the Azure Wind | 326834 | [326834-sonic-the-hedgehog-rebirth-of-the-azure-wind.json](./326834-sonic-the-hedgehog-rebirth-of-the-azure-wind.json) |
+| Sonic the Hedgehog: Spinball | 16036 | [16036-sonic-the-hedgehog-spinball.json](./16036-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: Spinball | 237308 | [237308-sonic-the-hedgehog-spinball.json](./237308-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: Spinball | 279052 | [279052-sonic-the-hedgehog-spinball.json](./279052-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
@@ -18122,7 +18126,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19999,6 +20002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 2 Handheld Game | 230180 | [230180-spider-man-2-handheld-game.json](./230180-spider-man-2-handheld-game.json) |
 | Spider-Man 2 Pinball | 224659 | [224659-spider-man-2-pinball.json](./224659-spider-man-2-pinball.json) |
 | Spider-Man 2: Activity Center | 208788 | [208788-spider-man-2-activity-center.json](./208788-spider-man-2-activity-center.json) |
+| Spider-Man 2: Enter Electro | 4118 | [4118-spider-man-2-enter-electro.json](./4118-spider-man-2-enter-electro.json) |
 | Spider-Man 2: The Game | 149275 | [149275-spider-man-2-the-game.json](./149275-spider-man-2-the-game.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 2: The Snap Game | 224660 | [224660-spider-man-2-the-snap-game.json](./224660-spider-man-2-the-snap-game.json) |
@@ -20579,6 +20583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon 2: Version 4.0.0 | 230110 | [230110-splatoon-2-version-4-0-0.json](./230110-splatoon-2-version-4-0-0.json) |
 | Splatoon 2: Version 4.1.0 | 230113 | [230113-splatoon-2-version-4-1-0.json](./230113-splatoon-2-version-4-1-0.json) |
 | Splatoon 2: Version 5.0.0 | 230111 | [230111-splatoon-2-version-5-0-0.json](./230111-splatoon-2-version-5-0-0.json) |
+| Splatoon 3 | 143613 | [143613-splatoon-3.json](./143613-splatoon-3.json) |
 | Splatoon 3: Chill Season 2022 | 230115 | [230115-splatoon-3-chill-season-2022.json](./230115-splatoon-3-chill-season-2022.json) |
 | Splatoon 3: Drizzle Season 2022 | 230114 | [230114-splatoon-3-drizzle-season-2022.json](./230114-splatoon-3-drizzle-season-2022.json) |
 | Splatoon 3: Expansion Pass | 236681 | [236681-splatoon-3-expansion-pass.json](./236681-splatoon-3-expansion-pass.json) |
@@ -29623,6 +29628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Stellato | 260841 | [260841-super-mario-stellato.json](./260841-super-mario-stellato.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
+| Super Mario Strikers | 2256 | [2256-super-mario-strikers.json](./2256-super-mario-strikers.json) |
 | Super Mario Strikers | 231573 | [231573-super-mario-strikers.json](./231573-super-mario-strikers.json) |
 | Super Mario Subpop | 320159 | [320159-super-mario-subpop.json](./320159-super-mario-subpop.json) |
 | Super Mario Sunburn | 135148 | [135148-super-mario-sunburn.json](./135148-super-mario-sunburn.json) |
@@ -31056,6 +31062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | SuperHot Quake | 195987 | [195987-superhot-quake.json](./195987-superhot-quake.json) |
 | Superhot Shooter 3D | 223902 | [223902-superhot-shooter-3d.json](./223902-superhot-shooter-3d.json) |
+| SuperHot VR | 25632 | [25632-superhot-vr.json](./25632-superhot-vr.json) |
 | Superhot: One of Us Bundle | 155188 | [155188-superhot-one-of-us-bundle.json](./155188-superhot-one-of-us-bundle.json) |
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
 | Superhuman Industrial and Immaterial, Incorporated | 183237 | [183237-superhuman-industrial-and-immaterial-incorporated.json](./183237-superhuman-industrial-and-immaterial-incorporated.json) |
