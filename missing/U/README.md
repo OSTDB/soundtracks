@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umisen Yamasen | 258877 | [258877-umisen-yamasen.json](./258877-umisen-yamasen.json) |
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
 | Umiuru to Sudoku Shiyo! | 124119 | [124119-umiuru-to-sudoku-shiyo.json](./124119-umiuru-to-sudoku-shiyo.json) |
+| Umizuri ni Ikou! | 37470 | [37470-umizuri-ni-ikou.json](./37470-umizuri-ni-ikou.json) |
 | Umokay 64DS | 215203 | [215203-umokay-64ds.json](./215203-umokay-64ds.json) |
 | Umokay 64DS 2 | 215205 | [215205-umokay-64ds-2.json](./215205-umokay-64ds-2.json) |
 | Umokay 64DS 3: Travel in Time | 215206 | [215206-umokay-64ds-3-travel-in-time.json](./215206-umokay-64ds-3-travel-in-time.json) |
@@ -3394,6 +3395,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uznali? SoglasnbI? | 390164 | [390164-uznali-soglasnbi.json](./390164-uznali-soglasnbi.json) |
 | Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
 | Uzu Keobukseon | 135590 | [135590-uzu-keobukseon.json](./135590-uzu-keobukseon.json) |
+| Uzumaki: Denshi Kaiki-hen | 37502 | [37502-uzumaki-denshi-kaiki-hen.json](./37502-uzumaki-denshi-kaiki-hen.json) |
+| Uzumaki: Noroi Simulation | 37501 | [37501-uzumaki-noroi-simulation.json](./37501-uzumaki-noroi-simulation.json) |
 | Uzzuzzu My Pet | 242056 | [242056-uzzuzzu-my-pet.json](./242056-uzzuzzu-my-pet.json) |
 | Uzzuzzu My Pet: Golf Dash | 277247 | [277247-uzzuzzu-my-pet-golf-dash.json](./277247-uzzuzzu-my-pet-golf-dash.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
