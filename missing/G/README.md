@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: A Real American Hero | 8165 | [8165-g-i-joe-a-real-american-hero.json](./8165-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: Battleground | 323132 | [323132-g-i-joe-battleground.json](./323132-g-i-joe-battleground.json) |
 | G.I. Joe: Hawk | 218426 | [218426-g-i-joe-hawk.json](./218426-g-i-joe-hawk.json) |
+| G.I. Joe: Operation Blackout | 138697 | [138697-g-i-joe-operation-blackout.json](./138697-g-i-joe-operation-blackout.json) |
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
 | G.I. Joe: Snake Eyes | 218427 | [218427-g-i-joe-snake-eyes.json](./218427-g-i-joe-snake-eyes.json) |
 | G.I. joe: Special Ops | 81200 | [81200-g-i-joe-special-ops.json](./81200-g-i-joe-special-ops.json) |
@@ -3978,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Pudding: The Game | 328941 | [328941-giga-pudding-the-game.json](./328941-giga-pudding-the-game.json) |
 | Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
 | Giga Wrecker Alt.: Collector's Edition | 136895 | [136895-giga-wrecker-alt-collectors-edition.json](./136895-giga-wrecker-alt-collectors-edition.json) |
+| GigaBash | 136977 | [136977-gigabash.json](./136977-gigabash.json) |
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
 | GigaBash: Godzilla - Nemesis DLC | 301437 | [301437-gigabash-godzilla-nemesis-dlc.json](./301437-gigabash-godzilla-nemesis-dlc.json) |
