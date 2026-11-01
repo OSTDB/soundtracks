@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Kave Adventure | 120288 | [120288-jet-kave-adventure.json](./120288-jet-kave-adventure.json) |
 | Jet Li: Rise to Honor | 22281 | [22281-jet-li-rise-to-honor.json](./22281-jet-li-rise-to-honor.json) |
 | Jet Moto | 198779 | [198779-jet-moto.json](./198779-jet-moto.json) |
+| Jet Moto | 20717 | [20717-jet-moto.json](./20717-jet-moto.json) |
 | Jet Moto 2 | 287885 | [287885-jet-moto-2.json](./287885-jet-moto-2.json) |
 | Jet Moto 2 | 45214 | [45214-jet-moto-2.json](./45214-jet-moto-2.json) |
 | Jet Moto 3 | 45040 | [45040-jet-moto-3.json](./45040-jet-moto-3.json) |
@@ -3118,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Trials Extreme | 85219 | [85219-jump-trials-extreme.json](./85219-jump-trials-extreme.json) |
 | Jump Trials Supreme | 85220 | [85220-jump-trials-supreme.json](./85220-jump-trials-supreme.json) |
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
+| Jump Ultimate Stars | 40263 | [40263-jump-ultimate-stars.json](./40263-jump-ultimate-stars.json) |
 | Jump Unlock Escape | 370411 | [370411-jump-unlock-escape.json](./370411-jump-unlock-escape.json) |
 | Jump Up | 110550 | [110550-jump-up.json](./110550-jump-up.json) |
 | Jump Up 3D: Mini Basketball | 353997 | [353997-jump-up-3d-mini-basketball.json](./353997-jump-up-3d-mini-basketball.json) |
