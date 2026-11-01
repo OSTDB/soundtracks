@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland | 8901 | [8901-badland.json](./8901-badland.json) |
+| Badland 2 | 15470 | [15470-badland-2.json](./15470-badland-2.json) |
 | Badland Bandits | 35014 | [35014-badland-bandits.json](./35014-badland-bandits.json) |
 | Badland Brawl | 77663 | [77663-badland-brawl.json](./77663-badland-brawl.json) |
 | Badland Caravan | 118296 | [118296-badland-caravan.json](./118296-badland-caravan.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannerman | 44277 | [44277-bannerman.json](./44277-bannerman.json) |
 | Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
 | Banners Begone! | 177153 | [177153-banners-begone.json](./177153-banners-begone.json) |
+| Banners of Ruin | 133408 | [133408-banners-of-ruin.json](./133408-banners-of-ruin.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
 | Banners of Ruin: DLC Pack | 324413 | [324413-banners-of-ruin-dlc-pack.json](./324413-banners-of-ruin-dlc-pack.json) |
 | Banners of Ruin: Iris | 260316 | [260316-banners-of-ruin-iris.json](./260316-banners-of-ruin-iris.json) |
@@ -16754,6 +16756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 2024: City Driver - Premium Edition | 310435 | [310435-bus-simulator-2024-city-driver-premium-edition.json](./310435-bus-simulator-2024-city-driver-premium-edition.json) |
+| Bus Simulator 21 | 146828 | [146828-bus-simulator-21.json](./146828-bus-simulator-21.json) |
 | Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
 | Bus Simulator 21: Day One Edition | 147006 | [147006-bus-simulator-21-day-one-edition.json](./147006-bus-simulator-21-day-one-edition.json) |
 | Bus Simulator 21: Extended Edition | 169245 | [169245-bus-simulator-21-extended-edition.json](./169245-bus-simulator-21-extended-edition.json) |
