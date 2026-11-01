@@ -11834,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk 3: Bonk's Big Adventure | 37615 | [37615-bonk-3-bonks-big-adventure.json](./37615-bonk-3-bonks-big-adventure.json) |
 | Bonk the Ball! | 181602 | [181602-bonk-the-ball.json](./181602-bonk-the-ball.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
+| Bonk: Brink of Extinction | 51632 | [51632-bonk-brink-of-extinction.json](./51632-bonk-brink-of-extinction.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
 | Bonk'em | 290963 | [290963-bonkem.json](./290963-bonkem.json) |
@@ -15581,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build 'n Bump | 35094 | [35094-build-n-bump.json](./35094-build-n-bump.json) |
 | Build 'n Race | 4733 | [4733-build-n-race.json](./4733-build-n-race.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
+| Build & Defend: A Tale of Survival | 51672 | [51672-build-and-defend-a-tale-of-survival.json](./51672-build-and-defend-a-tale-of-survival.json) |
 | Build & Feast Collection | 328561 | [328561-build-and-feast-collection.json](./328561-build-and-feast-collection.json) |
 | Build & Survive | 351722 | [351722-build-and-survive.json](./351722-build-and-survive.json) |
 | Build A Bank Tycoon | 394381 | [394381-build-a-bank-tycoon.json](./394381-build-a-bank-tycoon.json) |
