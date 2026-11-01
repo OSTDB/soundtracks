@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Box Full of Joy | 356680 | [356680-a-box-full-of-joy.json](./356680-a-box-full-of-joy.json) |
 | A Boy And His Barrel | 295931 | [295931-a-boy-and-his-barrel.json](./295931-a-boy-and-his-barrel.json) |
 | A Boy and His Beard | 86651 | [86651-a-boy-and-his-beard.json](./86651-a-boy-and-his-beard.json) |
+| A Boy and His Blob | 4656 | [4656-a-boy-and-his-blob.json](./4656-a-boy-and-his-blob.json) |
 | A Boy and His Blob: Retro Collection | 203773 | [203773-a-boy-and-his-blob-retro-collection.json](./203773-a-boy-and-his-blob-retro-collection.json) |
 | A Boy and His Blob: Trouble on Blobolonia | 2109 | [2109-a-boy-and-his-blob-trouble-on-blobolonia.json](./2109-a-boy-and-his-blob-trouble-on-blobolonia.json) |
 | A Boy's Journey | 158681 | [158681-a-boys-journey.json](./158681-a-boys-journey.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Glimpse of Luna | 146760 | [146760-a-glimpse-of-luna.json](./146760-a-glimpse-of-luna.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
 | A God-Like Backhand! | 29786 | [29786-a-god-like-backhand.json](./29786-a-god-like-backhand.json) |
+| A Golden Wake | 8819 | [8819-a-golden-wake.json](./8819-a-golden-wake.json) |
 | A Goo Adventure | 38769 | [38769-a-goo-adventure.json](./38769-a-goo-adventure.json) |
 | A Good Cat and The Graduate Life | 312671 | [312671-a-good-cat-and-the-graduate-life.json](./312671-a-good-cat-and-the-graduate-life.json) |
 | A Good Day to Die Hard | 301312 | [301312-a-good-day-to-die-hard.json](./301312-a-good-day-to-die-hard.json) |
