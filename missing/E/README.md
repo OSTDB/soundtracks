@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Classroom | 120018 | [120018-escape-from-classroom.json](./120018-escape-from-classroom.json) |
 | Escape From Clive | 339767 | [339767-escape-from-clive.json](./339767-escape-from-clive.json) |
 | Escape From Cluckov | 378314 | [378314-escape-from-cluckov.json](./378314-escape-from-cluckov.json) |
+| Escape from Colditz | 38056 | [38056-escape-from-colditz.json](./38056-escape-from-colditz.json) |
 | Escape From Complex 32 | 204213 | [204213-escape-from-complex-32.json](./204213-escape-from-complex-32.json) |
 | Escape From Covid | 368684 | [368684-escape-from-covid.json](./368684-escape-from-covid.json) |
 | Escape From Cozy Island | 98776 | [98776-escape-from-cozy-island.json](./98776-escape-from-cozy-island.json) |
