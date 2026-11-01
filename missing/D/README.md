@@ -6856,6 +6856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperados III: Money for the Vultures - Part 1: Late to the Party | 152234 | [152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json](./152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json) |
 | Desperados III: Money for the Vultures - Part 2: Five Steps Ahead | 152235 | [152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json](./152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json) |
 | Desperados III: Money for the Vultures - Part 3: Once More With Feeling | 152236 | [152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json](./152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json) |
+| Desperados: Wanted Dead or Alive | 7260 | [7260-desperados-wanted-dead-or-alive.json](./7260-desperados-wanted-dead-or-alive.json) |
 | Desperate 1: After Sunset | 323235 | [323235-desperate-1-after-sunset.json](./323235-desperate-1-after-sunset.json) |
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate Escape | 282830 | [282830-desperate-escape.json](./282830-desperate-escape.json) |
@@ -9163,6 +9164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing Bundle Rally & Truck | 370434 | [370434-dirt-racing-bundle-rally-and-truck.json](./370434-dirt-racing-bundle-rally-and-truck.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
+| Dirt Rally 2.0 | 110411 | [110411-dirt-rally-2-0.json](./110411-dirt-rally-2-0.json) |
 | DiRT Rally 2.0: Digital Deluxe Edition | 122656 | [122656-dirt-rally-2-0-digital-deluxe-edition.json](./122656-dirt-rally-2-0-digital-deluxe-edition.json) |
 | Dirt Rally 2.0: Game of the Year Edition | 136055 | [136055-dirt-rally-2-0-game-of-the-year-edition.json](./136055-dirt-rally-2-0-game-of-the-year-edition.json) |
 | DiRT Rally 2.0: Super Deluxe Edition | 122657 | [122657-dirt-rally-2-0-super-deluxe-edition.json](./122657-dirt-rally-2-0-super-deluxe-edition.json) |
@@ -15430,6 +15432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drip Feed | 262178 | [262178-drip-feed.json](./262178-drip-feed.json) |
 | DripDrip | 391005 | [391005-dripdrip.json](./391005-dripdrip.json) |
 | Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
+| Driv3r | 5817 | [5817-driv3r.json](./5817-driv3r.json) |
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
 | Drive | 94414 | [94414-drive.json](./94414-drive.json) |
 | Drive 'n' Park | 132025 | [132025-drive-n-park.json](./132025-drive-n-park.json) |
