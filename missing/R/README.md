@@ -9385,6 +9385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Soulstone | 201659 | [201659-rogue-soulstone.json](./201659-rogue-soulstone.json) |
 | Rogue Spear | 22056 | [22056-rogue-spear.json](./22056-rogue-spear.json) |
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
+| Rogue Star | 23217 | [23217-rogue-star.json](./23217-rogue-star.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
 | Rogue State Revolution | 122070 | [122070-rogue-state-revolution.json](./122070-rogue-state-revolution.json) |
