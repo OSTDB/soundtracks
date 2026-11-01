@@ -3931,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 2142: Deluxe Edition | 41886 | [41886-battlefield-2142-deluxe-edition.json](./41886-battlefield-2142-deluxe-edition.json) |
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
+| Battlefield 3: Armored Kill | 3037 | [3037-battlefield-3-armored-kill.json](./3037-battlefield-3-armored-kill.json) |
 | Battlefield 3: Limited Edition | 41891 | [41891-battlefield-3-limited-edition.json](./41891-battlefield-3-limited-edition.json) |
 | Battlefield 4: China Rising | 3091 | [3091-battlefield-4-china-rising.json](./3091-battlefield-4-china-rising.json) |
 | Battlefield 4: Community Operations | 169034 | [169034-battlefield-4-community-operations.json](./169034-battlefield-4-community-operations.json) |
@@ -5418,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
 | Bee Master | 366282 | [366282-bee-master.json](./366282-bee-master.json) |
 | Bee Movie Game | 372566 | [372566-bee-movie-game.json](./372566-bee-movie-game.json) |
+| Bee Movie Game | 4711 | [4711-bee-movie-game.json](./4711-bee-movie-game.json) |
 | Bee Movie: Pollenation Practice | 325146 | [325146-bee-movie-pollenation-practice.json](./325146-bee-movie-pollenation-practice.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee Simulator: The Hive | 335301 | [335301-bee-simulator-the-hive.json](./335301-bee-simulator-the-hive.json) |
@@ -12165,6 +12167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Ball for Kinect | 20305 | [20305-boom-ball-for-kinect.json](./20305-boom-ball-for-kinect.json) |
 | Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
+| Boom Beach | 7870 | [7870-boom-beach.json](./7870-boom-beach.json) |
 | Boom Beach: Frontlines | 142611 | [142611-boom-beach-frontlines.json](./142611-boom-beach-frontlines.json) |
 | Boom Bears on Stream | 191468 | [191468-boom-bears-on-stream.json](./191468-boom-bears-on-stream.json) |
 | Boom Beats | 42777 | [42777-boom-beats.json](./42777-boom-beats.json) |
