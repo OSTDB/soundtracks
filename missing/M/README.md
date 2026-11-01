@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
 | Maliya | 58721 | [58721-maliya.json](./58721-maliya.json) |
 | Malkari | 71326 | [71326-malkari.json](./71326-malkari.json) |
+| Malkia | 32362 | [32362-malkia.json](./32362-malkia.json) |
 | Malkin | 265816 | [265816-malkin.json](./265816-malkin.json) |
 | Malkin: The Cairn and the Crossroads | 285449 | [285449-malkin-the-cairn-and-the-crossroads.json](./285449-malkin-the-cairn-and-the-crossroads.json) |
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
@@ -4735,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
+| Master of Marbles | 32435 | [32435-master-of-marbles.json](./32435-master-of-marbles.json) |
 | Master of Meteor Blades | 81419 | [81419-master-of-meteor-blades.json](./81419-master-of-meteor-blades.json) |
 | Master of Miracles | 153318 | [153318-master-of-miracles.json](./153318-master-of-miracles.json) |
 | Master of Monsters | 387005 | [387005-master-of-monsters.json](./387005-master-of-monsters.json) |
@@ -5484,7 +5486,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
