@@ -3057,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Singularity III - Okeanos | 415658 | [415658-fate-grand-order-singularity-iii-okeanos.json](./415658-fate-grand-order-singularity-iii-okeanos.json) |
 | Fate/Grand Order: Singularity IV - London | 417337 | [417337-fate-grand-order-singularity-iv-london.json](./417337-fate-grand-order-singularity-iv-london.json) |
 | Fate/Grand Order: Singularity V - E Pluribus Unum | 417399 | [417399-fate-grand-order-singularity-v-e-pluribus-unum.json](./417399-fate-grand-order-singularity-v-e-pluribus-unum.json) |
+| Fate/Grand Order: Singularity VI - Camelot | 417421 | [417421-fate-grand-order-singularity-vi-camelot.json](./417421-fate-grand-order-singularity-vi-camelot.json) |
 | Fate/Grand Order: Tokugawa Restoration Labyrinth - Ooku | 413488 | [413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json](./413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Hollow Ataraxia Remastered | 312302 | [312302-fate-hollow-ataraxia-remastered.json](./312302-fate-hollow-ataraxia-remastered.json) |
