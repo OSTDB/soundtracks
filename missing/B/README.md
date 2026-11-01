@@ -898,7 +898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3692,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Poker | 51087 | [51087-battle-poker.json](./51087-battle-poker.json) |
 | Battle Polygon | 129022 | [129022-battle-polygon.json](./129022-battle-polygon.json) |
 | Battle Prime | 133596 | [133596-battle-prime.json](./133596-battle-prime.json) |
+| Battle Princess Madelyn | 27376 | [27376-battle-princess-madelyn.json](./27376-battle-princess-madelyn.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
 | Battle Puzzle 2048: Queens of the Abyss | 385140 | [385140-battle-puzzle-2048-queens-of-the-abyss.json](./385140-battle-puzzle-2048-queens-of-the-abyss.json) |
@@ -4182,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
 | Battlestar Galactica | 5744 | [5744-battlestar-galactica.json](./5744-battlestar-galactica.json) |
 | Battlestar Galactica | 80427 | [80427-battlestar-galactica.json](./80427-battlestar-galactica.json) |
+| Battlestar Galactica Deadlock | 28842 | [28842-battlestar-galactica-deadlock.json](./28842-battlestar-galactica-deadlock.json) |
 | Battlestar Galactica Deadlock: Anabasis | 110891 | [110891-battlestar-galactica-deadlock-anabasis.json](./110891-battlestar-galactica-deadlock-anabasis.json) |
 | Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
 | Battlestar Galactica Deadlock: Ghost Fleet Offensive | 129481 | [129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json](./129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json) |
@@ -7147,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot | 13398 | [13398-bigfoot.json](./13398-bigfoot.json) |
 | Bigfoot | 218339 | [218339-bigfoot.json](./218339-bigfoot.json) |
 | Bigfoot | 279695 | [279695-bigfoot.json](./279695-bigfoot.json) |
+| Bigfoot | 31851 | [31851-bigfoot.json](./31851-bigfoot.json) |
 | Bigfoot | 377823 | [377823-bigfoot.json](./377823-bigfoot.json) |
 | Bigfoot Bonkers | 18117 | [18117-bigfoot-bonkers.json](./18117-bigfoot-bonkers.json) |
 | Bigfoot Evolution: French Classics | 60032 | [60032-bigfoot-evolution-french-classics.json](./60032-bigfoot-evolution-french-classics.json) |
@@ -9287,6 +9289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
 | Blazing Souls | 5475 | [5475-blazing-souls.json](./5475-blazing-souls.json) |
 | Blazing Souls Accelate | 39193 | [39193-blazing-souls-accelate.json](./39193-blazing-souls-accelate.json) |
+| Blazing Star | 10500 | [10500-blazing-star.json](./10500-blazing-star.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Blazing Thunder | 13407 | [13407-blazing-thunder.json](./13407-blazing-thunder.json) |
 | Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
@@ -15469,6 +15472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubsy: Less Bad Edition | 393941 | [393941-bubsy-less-bad-edition.json](./393941-bubsy-less-bad-edition.json) |
 | Bubsy: Paws on Fire - Limited Edition | 166269 | [166269-bubsy-paws-on-fire-limited-edition.json](./166269-bubsy-paws-on-fire-limited-edition.json) |
 | Bubsy: Paws on Fire! | 111558 | [111558-bubsy-paws-on-fire.json](./111558-bubsy-paws-on-fire.json) |
+| Bubsy: The Woolies Strike Back | 36868 | [36868-bubsy-the-woolies-strike-back.json](./36868-bubsy-the-woolies-strike-back.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Chuǎng Tōngguān | 390695 | [390695-bubu-chuang-tongguan.json](./390695-bubu-chuang-tongguan.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
