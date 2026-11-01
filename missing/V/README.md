@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 4: Launch Edition | 136324 | [136324-valkyria-chronicles-4-launch-edition.json](./136324-valkyria-chronicles-4-launch-edition.json) |
 | Valkyria Chronicles 4: Memoirs From Battle Edition | 132179 | [132179-valkyria-chronicles-4-memoirs-from-battle-edition.json](./132179-valkyria-chronicles-4-memoirs-from-battle-edition.json) |
 | Valkyria Chronicles Bundle | 138811 | [138811-valkyria-chronicles-bundle.json](./138811-valkyria-chronicles-bundle.json) |
+| Valkyria Chronicles Remastered | 18967 | [18967-valkyria-chronicles-remastered.json](./18967-valkyria-chronicles-remastered.json) |
 | Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
 | Valkyria Chronicles: Edy's Mission "Enter the Edy Detachment" | 138834 | [138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json](./138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json) |
 | Valkyria Chronicles: Hard EX Mode | 138836 | [138836-valkyria-chronicles-hard-ex-mode.json](./138836-valkyria-chronicles-hard-ex-mode.json) |
