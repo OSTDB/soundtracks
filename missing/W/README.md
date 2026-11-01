@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy | 190023 | [190023-warlordocracy.json](./190023-warlordocracy.json) |
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
+| Warlords | 17251 | [17251-warlords.json](./17251-warlords.json) |
 | Warlords | 294544 | [294544-warlords.json](./294544-warlords.json) |
 | Warlords | 411549 | [411549-warlords.json](./411549-warlords.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
