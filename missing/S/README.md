@@ -4375,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
 | Seduce a SuicideGirl | 245176 | [245176-seduce-a-suicidegirl.json](./245176-seduce-a-suicidegirl.json) |
 | Seduce Her Harem | 257865 | [257865-seduce-her-harem.json](./257865-seduce-her-harem.json) |
+| Seduce Me | 50237 | [50237-seduce-me.json](./50237-seduce-me.json) |
 | Seduce Me the Otome | 19075 | [19075-seduce-me-the-otome.json](./19075-seduce-me-the-otome.json) |
 | Seduce Me the Otome: Episode Series | 145559 | [145559-seduce-me-the-otome-episode-series.json](./145559-seduce-me-the-otome-episode-series.json) |
 | Seduce Me: The Complete Story | 134665 | [134665-seduce-me-the-complete-story.json](./134665-seduce-me-the-complete-story.json) |
@@ -13091,6 +13092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Bros. Rumble | 210677 | [210677-smash-bros-rumble.json](./210677-smash-bros-rumble.json) |
 | Smash Cars | 335702 | [335702-smash-cars.json](./335702-smash-cars.json) |
 | Smash Cat | 417269 | [417269-smash-cat.json](./417269-smash-cat.json) |
+| Smash Cat | 50219 | [50219-smash-cat.json](./50219-smash-cat.json) |
 | Smash Cat Heroes | 84882 | [84882-smash-cat-heroes.json](./84882-smash-cat-heroes.json) |
 | Smash Champs | 350197 | [350197-smash-champs.json](./350197-smash-champs.json) |
 | Smash Club: Streets of Shmeenis | 147650 | [147650-smash-club-streets-of-shmeenis.json](./147650-smash-club-streets-of-shmeenis.json) |
@@ -13995,6 +13997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood | 246388 | [246388-snood.json](./246388-snood.json) |
 | Snood 2: On Vacation | 19107 | [19107-snood-2-on-vacation.json](./19107-snood-2-on-vacation.json) |
 | Snood Adventure | 99174 | [99174-snood-adventure.json](./99174-snood-adventure.json) |
+| Snood Deluxe | 50240 | [50240-snood-deluxe.json](./50240-snood-deluxe.json) |
 | Snood Plus | 88587 | [88587-snood-plus.json](./88587-snood-plus.json) |
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snood Slide | 138016 | [138016-snood-slide.json](./138016-snood-slide.json) |
@@ -14002,6 +14005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Swap | 137969 | [137969-snood-swap.json](./137969-snood-swap.json) |
 | Snood Towers | 137952 | [137952-snood-towers.json](./137952-snood-towers.json) |
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
+| Snoodoku | 50239 | [50239-snoodoku.json](./50239-snoodoku.json) |
 | Snoody: One of the Ayrie | 252262 | [252262-snoody-one-of-the-ayrie.json](./252262-snoody-one-of-the-ayrie.json) |
 | Snook | 208737 | [208737-snook.json](./208737-snook.json) |
 | Snooker | 330780 | [330780-snooker.json](./330780-snooker.json) |
@@ -17506,6 +17510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ace | 363032 | [363032-space-ace.json](./363032-space-ace.json) |
 | Space Ace | 5454 | [5454-space-ace.json](./5454-space-ace.json) |
 | Space Ace Assassin: Capital Galaxy | 401885 | [401885-space-ace-assassin-capital-galaxy.json](./401885-space-ace-assassin-capital-galaxy.json) |
+| Space Ace II: Borf's Revenge | 50265 | [50265-space-ace-ii-borfs-revenge.json](./50265-space-ace-ii-borfs-revenge.json) |
 | Space Aces | 385895 | [385895-space-aces.json](./385895-space-aces.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 233389 | [233389-space-adventure.json](./233389-space-adventure.json) |
@@ -18787,6 +18792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacewing War | 200942 | [200942-spacewing-war.json](./200942-spacewing-war.json) |
 | Spacewing War 2 | 266235 | [266235-spacewing-war-2.json](./266235-spacewing-war-2.json) |
 | SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
+| Spacewrecked: 14 Billion Light Years From Earth | 50264 | [50264-spacewrecked-14-billion-light-years-from-earth.json](./50264-spacewrecked-14-billion-light-years-from-earth.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
 | Spacey McRacey | 134355 | [134355-spacey-mcracey.json](./134355-spacey-mcracey.json) |
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
@@ -28436,6 +28442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
 | Super Easy Fun Time Adventure Pants | 343170 | [343170-super-easy-fun-time-adventure-pants.json](./343170-super-easy-fun-time-adventure-pants.json) |
+| Super EF2000 | 50231 | [50231-super-ef2000.json](./50231-super-ef2000.json) |
 | Super Egg 2020 | 193123 | [193123-super-egg-2020.json](./193123-super-egg-2020.json) |
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
 | Super Elf Jump | 93818 | [93818-super-elf-jump.json](./93818-super-elf-jump.json) |
@@ -30612,6 +30619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Woden GP 2 | 225189 | [225189-super-woden-gp-2.json](./225189-super-woden-gp-2.json) |
 | Super Woden GP Collection | 308626 | [308626-super-woden-gp-collection.json](./308626-super-woden-gp-collection.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
+| Super Wolfenstein HD | 50279 | [50279-super-wolfenstein-hd.json](./50279-super-wolfenstein-hd.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
 | Super Word Challenge | 208351 | [208351-super-word-challenge.json](./208351-super-word-challenge.json) |
 | Super Words | 258216 | [258216-super-words.json](./258216-super-words.json) |
