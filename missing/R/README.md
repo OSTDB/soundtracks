@@ -6552,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rickstones | 223225 | [223225-rickstones.json](./223225-rickstones.json) |
 | Ricky Did Nothing Wrong | 155965 | [155965-ricky-did-nothing-wrong.json](./155965-ricky-did-nothing-wrong.json) |
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
+| Ricky Raccoon 2 | 36632 | [36632-ricky-raccoon-2.json](./36632-ricky-raccoon-2.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricky's Furry Duck Hunt | 255265 | [255265-rickys-furry-duck-hunt.json](./255265-rickys-furry-duck-hunt.json) |
 | Ricky's Rockin' Arcade | 235436 | [235436-rickys-rockin-arcade.json](./235436-rickys-rockin-arcade.json) |
@@ -11283,6 +11284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
 | Run | 165472 | [165472-run.json](./165472-run.json) |
 | Run | 359194 | [359194-run.json](./359194-run.json) |
+| Run | 36645 | [36645-run.json](./36645-run.json) |
 | Run | 85867 | [85867-run.json](./85867-run.json) |
 | Run 'n Gun: Deluxe | 266757 | [266757-run-n-gun-deluxe.json](./266757-run-n-gun-deluxe.json) |
 | Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
