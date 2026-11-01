@@ -15273,6 +15273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase Accident | 272122 | [272122-moonbase-accident.json](./272122-moonbase-accident.json) |
 | Moonbase Alpha | 10264 | [10264-moonbase-alpha.json](./10264-moonbase-alpha.json) |
 | MoonBase Commander | 10557 | [10557-moonbase-commander.json](./10557-moonbase-commander.json) |
+| Moonbase IO | 23340 | [23340-moonbase-io.json](./23340-moonbase-io.json) |
 | Moonbase Lambda | 272959 | [272959-moonbase-lambda.json](./272959-moonbase-lambda.json) |
 | MoonBeam | 313535 | [313535-moonbeam.json](./313535-moonbeam.json) |
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
@@ -15293,6 +15294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonDigger | 83830 | [83830-moondigger.json](./83830-moondigger.json) |
 | Moondrop | 185019 | [185019-moondrop.json](./185019-moondrop.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
+| Moondust | 23208 | [23208-moondust.json](./23208-moondust.json) |
 | Moondust: Knuckles Tech Demos | 127835 | [127835-moondust-knuckles-tech-demos.json](./127835-moondust-knuckles-tech-demos.json) |
 | Moonfall | 270603 | [270603-moonfall.json](./270603-moonfall.json) |
 | Moonfall Voyage | 264052 | [264052-moonfall-voyage.json](./264052-moonfall-voyage.json) |
@@ -15679,6 +15681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
 | Morning Coffee | 128615 | [128615-morning-coffee.json](./128615-morning-coffee.json) |
 | Morning Kiss | 214174 | [214174-morning-kiss.json](./214174-morning-kiss.json) |
+| Morning Men | 23182 | [23182-morning-men.json](./23182-morning-men.json) |
 | Morning Mushrooms | 182808 | [182808-morning-mushrooms.json](./182808-morning-mushrooms.json) |
 | Morning Post | 213349 | [213349-morning-post.json](./213349-morning-post.json) |
 | Morning Ritual | 179033 | [179033-morning-ritual.json](./179033-morning-ritual.json) |
