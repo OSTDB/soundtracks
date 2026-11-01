@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Hime: Sangoku Ransei - Haruten no Saihai | 269522 | [269522-sangoku-hime-sangoku-ransei-haruten-no-saihai.json](./269522-sangoku-hime-sangoku-ransei-haruten-no-saihai.json) |
 | Sangoku Hime: Senkou no Taika - Akatsuki no Haryuu | 43057 | [43057-sangoku-hime-senkou-no-taika-akatsuki-no-haryuu.json](./43057-sangoku-hime-senkou-no-taika-akatsuki-no-haryuu.json) |
 | Sangoku Justice | 74402 | [74402-sangoku-justice.json](./74402-sangoku-justice.json) |
+| Sangoku Musou Blast | 61295 | [61295-sangoku-musou-blast.json](./61295-sangoku-musou-blast.json) |
 | Sangoku Rensenki ~Omoidegaeshi~ CS Edition | 135856 | [135856-sangoku-rensenki-omoidegaeshi-cs-edition.json](./135856-sangoku-rensenki-omoidegaeshi-cs-edition.json) |
 | Sangoku Rensenki Sakigake | 221597 | [221597-sangoku-rensenki-sakigake.json](./221597-sangoku-rensenki-sakigake.json) |
 | Sangoku Rensenki: Omoide Gaeshi + Gakuen Rensenki | 222246 | [222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json](./222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json) |
@@ -7614,11 +7615,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka | 46584 | [46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json](./46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 37626 | [37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 61304 | [61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
+| Shin Nippon Pro Wrestling '95: Tokyo Dome Battle 7 | 61303 | [61303-shin-nippon-pro-wrestling-95-tokyo-dome-battle-7.json](./61303-shin-nippon-pro-wrestling-95-tokyo-dome-battle-7.json) |
 | Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome - Fantastic Story | 61317 | [61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json](./61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json) |
 | Shin Nippon Pro Wrestling: Gekitou Densetsu | 231519 | [231519-shin-nippon-pro-wrestling-gekitou-densetsu.json](./231519-shin-nippon-pro-wrestling-gekitou-densetsu.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden | 277151 | [277151-shin-nippon-pro-wrestling-toukon-retsuden.json](./277151-shin-nippon-pro-wrestling-toukon-retsuden.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 4 | 45801 | [45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json](./45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json) |
+| Shin Nippon Pro Wrestling: Toukon Retsuden Advance | 61302 | [61302-shin-nippon-pro-wrestling-toukon-retsuden-advance.json](./61302-shin-nippon-pro-wrestling-toukon-retsuden-advance.json) |
 | Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits | 3556 | [3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json](./3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json) |
 | Shin Nippon Pro Wrestling: Toukon Road 2 - The Next Generation | 47750 | [47750-shin-nippon-pro-wrestling-toukon-road-2-the-next-generation.json](./47750-shin-nippon-pro-wrestling-toukon-road-2-the-next-generation.json) |
 | Shin Nobunaga no Yabou | 208939 | [208939-shin-nobunaga-no-yabou.json](./208939-shin-nobunaga-no-yabou.json) |
@@ -10940,6 +10943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Punchers | 220497 | [220497-skeleton-punchers.json](./220497-skeleton-punchers.json) |
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
 | Skeleton Rebellion | 279468 | [279468-skeleton-rebellion.json](./279468-skeleton-rebellion.json) |
+| Skeleton Rider | 61285 | [61285-skeleton-rider.json](./61285-skeleton-rider.json) |
 | Skeleton Scale | 245676 | [245676-skeleton-scale.json](./245676-skeleton-scale.json) |
 | Skeleton Scramble Deluxe | 192136 | [192136-skeleton-scramble-deluxe.json](./192136-skeleton-scramble-deluxe.json) |
 | Skeleton Scramble Deluxe 2 | 298070 | [298070-skeleton-scramble-deluxe-2.json](./298070-skeleton-scramble-deluxe-2.json) |
@@ -11195,6 +11199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skipp and Friends: Unexpected Journey | 134285 | [134285-skipp-and-friends-unexpected-journey.json](./134285-skipp-and-friends-unexpected-journey.json) |
+| Skipper | 61299 | [61299-skipper.json](./61299-skipper.json) |
 | Skipper | 83786 | [83786-skipper.json](./83786-skipper.json) |
 | Skipper & Skeeto: Tales from Paradise Park | 18992 | [18992-skipper-and-skeeto-tales-from-paradise-park.json](./18992-skipper-and-skeeto-tales-from-paradise-park.json) |
 | Skipper & Skeeto: The Revenge of Mr. Shade | 19003 | [19003-skipper-and-skeeto-the-revenge-of-mr-shade.json](./19003-skipper-and-skeeto-the-revenge-of-mr-shade.json) |
@@ -11819,6 +11824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Dunk Basketball | 276609 | [276609-slam-dunk-basketball.json](./276609-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
+| Slam Dunk King | 61372 | [61372-slam-dunk-king.json](./61372-slam-dunk-king.json) |
 | Slam Dunk Typing | 108768 | [108768-slam-dunk-typing.json](./108768-slam-dunk-typing.json) |
 | Slam Dunk: Dream Team - Shueisha Limited | 236652 | [236652-slam-dunk-dream-team-shueisha-limited.json](./236652-slam-dunk-dream-team-shueisha-limited.json) |
 | Slam Dunk: Gakeppuchi no Kesshou League | 78516 | [78516-slam-dunk-gakeppuchi-no-kesshou-league.json](./78516-slam-dunk-gakeppuchi-no-kesshou-league.json) |
@@ -16627,6 +16633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora to Kimi Iro | 275152 | [275152-sora-to-kimi-iro.json](./275152-sora-to-kimi-iro.json) |
 | Sora to Muku no 6-ki | 283583 | [283583-sora-to-muku-no-6-ki.json](./283583-sora-to-muku-no-6-ki.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
+| Sora Yume | 61273 | [61273-sora-yume.json](./61273-sora-yume.json) |
 | Sora Yume Portable | 221617 | [221617-sora-yume-portable.json](./221617-sora-yume-portable.json) |
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
@@ -16815,6 +16822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sougou Kakutougi: Astral Bout | 38295 | [38295-sougou-kakutougi-astral-bout.json](./38295-sougou-kakutougi-astral-bout.json) |
 | Sougou Kakutougi: Astral Bout 2 - The Total Fighters | 38296 | [38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json](./38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json) |
 | Souhide Series: Omatsuri-zukushi | 288631 | [288631-souhide-series-omatsuri-zukushi.json](./288631-souhide-series-omatsuri-zukushi.json) |
+| Soukai Buccaneers! | 61275 | [61275-soukai-buccaneers.json](./61275-soukai-buccaneers.json) |
 | Soukai Tenki | 225386 | [225386-soukai-tenki.json](./225386-soukai-tenki.json) |
 | Soukaigi | 71799 | [71799-soukaigi.json](./71799-soukaigi.json) |
 | Soukaishin | 250276 | [250276-soukaishin.json](./250276-soukaishin.json) |
@@ -25641,6 +25649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter III: New Generation | 6708 | [6708-street-fighter-iii-new-generation.json](./6708-street-fighter-iii-new-generation.json) |
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
 | Street Fighter IV Volt: Battle Protocol | 77315 | [77315-street-fighter-iv-volt-battle-protocol.json](./77315-street-fighter-iv-volt-battle-protocol.json) |
+| Street Fighter IV: Arena | 61360 | [61360-street-fighter-iv-arena.json](./61360-street-fighter-iv-arena.json) |
 | Street Fighter IV: Champion Edition | 77952 | [77952-street-fighter-iv-champion-edition.json](./77952-street-fighter-iv-champion-edition.json) |
 | Street Fighter IV: Collector's Edition | 44570 | [44570-street-fighter-iv-collectors-edition.json](./44570-street-fighter-iv-collectors-edition.json) |
 | Street Fighter IV: Limited Edition | 208760 | [208760-street-fighter-iv-limited-edition.json](./208760-street-fighter-iv-limited-edition.json) |
@@ -27663,6 +27672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider Academy | 35976 | [35976-sunrider-academy.json](./35976-sunrider-academy.json) |
+| Sunrider: First Arrival | 61283 | [61283-sunrider-first-arrival.json](./61283-sunrider-first-arrival.json) |
 | Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
 | Sunrider: Liberation Day - Captain's Edition | 154208 | [154208-sunrider-liberation-day-captains-edition.json](./154208-sunrider-liberation-day-captains-edition.json) |
 | Sunrider: Mask of Arcadius | 17639 | [17639-sunrider-mask-of-arcadius.json](./17639-sunrider-mask-of-arcadius.json) |
@@ -29534,6 +29544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monster-Legend | 96567 | [96567-super-monster-legend.json](./96567-super-monster-legend.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
 | Super Monsters Ate My Condo | 296801 | [296801-super-monsters-ate-my-condo.json](./296801-super-monsters-ate-my-condo.json) |
+| Super Monsters Ate My Condo | 61374 | [61374-super-monsters-ate-my-condo.json](./61374-super-monsters-ate-my-condo.json) |
 | Super Monsters Ate My Condo+ | 296199 | [296199-super-monsters-ate-my-condo.json](./296199-super-monsters-ate-my-condo.json) |
 | Super Monza GP 2 | 267554 | [267554-super-monza-gp-2.json](./267554-super-monza-gp-2.json) |
 | Super Moo World | 223021 | [223021-super-moo-world.json](./223021-super-moo-world.json) |
@@ -30315,6 +30326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Strawberry Man | 108354 | [108354-super-strawberry-man.json](./108354-super-strawberry-man.json) |
 | Super Streaker Plus | 106336 | [106336-super-streaker-plus.json](./106336-super-streaker-plus.json) |
 | Super Stream-Bara | 338948 | [338948-super-stream-bara.json](./338948-super-stream-bara.json) |
+| Super Street Basketball | 61358 | [61358-super-street-basketball.json](./61358-super-street-basketball.json) |
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
@@ -32524,6 +32536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Warriors | 304242 | [304242-sword-warriors.json](./304242-sword-warriors.json) |
 | Sword With Sauce | 29725 | [29725-sword-with-sauce.json](./29725-sword-with-sauce.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
+| Sword World SFC | 61368 | [61368-sword-world-sfc.json](./61368-sword-world-sfc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
 | Sword World VR | 372808 | [372808-sword-world-vr.json](./372808-sword-world-vr.json) |
 | Sword x Hime | 148961 | [148961-sword-x-hime.json](./148961-sword-x-hime.json) |
