@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Nightmares | 174644 | [174644-gate-of-nightmares.json](./174644-gate-of-nightmares.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
 | Gate of Souls | 253308 | [253308-gate-of-souls.json](./253308-gate-of-souls.json) |
+| Gate of Thunder | 44313 | [44313-gate-of-thunder.json](./44313-gate-of-thunder.json) |
 | Gate of Torment | 271039 | [271039-gate-of-torment.json](./271039-gate-of-torment.json) |
 | Gate Project | 345959 | [345959-gate-project.json](./345959-gate-project.json) |
 | Gate Six: Cyber Persona | 122921 | [122921-gate-six-cyber-persona.json](./122921-gate-six-cyber-persona.json) |
@@ -5862,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush | 256108 | [256108-gold-rush.json](./256108-gold-rush.json) |
 | Gold Rush | 352253 | [352253-gold-rush.json](./352253-gold-rush.json) |
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
+| Gold Rush in the Oort Cloud | 44298 | [44298-gold-rush-in-the-oort-cloud.json](./44298-gold-rush-in-the-oort-cloud.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
 | Gold Rush! 2 | 29091 | [29091-gold-rush-2.json](./29091-gold-rush-2.json) |
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
@@ -6342,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooCubelets 2 | 34249 | [34249-goocubelets-2.json](./34249-goocubelets-2.json) |
 | GooCubelets: Color Blocking | 44224 | [44224-goocubelets-color-blocking.json](./44224-goocubelets-color-blocking.json) |
 | GooCubelets: OCD | 33068 | [33068-goocubelets-ocd.json](./33068-goocubelets-ocd.json) |
+| GooCubelets: RGB | 44291 | [44291-goocubelets-rgb.json](./44291-goocubelets-rgb.json) |
 | GooCubelets: The Algoorithm | 33843 | [33843-goocubelets-the-algoorithm.json](./33843-goocubelets-the-algoorithm.json) |
 | GooCubelets: The Void | 31961 | [31961-goocubelets-the-void.json](./31961-goocubelets-the-void.json) |
 | Good | 365035 | [365035-good.json](./365035-good.json) |
