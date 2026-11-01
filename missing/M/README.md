@@ -5526,7 +5526,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6631,7 +6630,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meditation Forest | 183409 | [183409-meditation-forest.json](./183409-meditation-forest.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
 | Meditation VR | 168651 | [168651-meditation-vr.json](./168651-meditation-vr.json) |
-| Mediterranea Inferno | 252528 | [252528-mediterranea-inferno.json](./252528-mediterranea-inferno.json) |
 | Mediterranean Voidland | 131790 | [131790-mediterranean-voidland.json](./131790-mediterranean-voidland.json) |
 | Medium Chronicles: Room 644 | 405753 | [405753-medium-chronicles-room-644.json](./405753-medium-chronicles-room-644.json) |
 | Medium Rare | 128356 | [128356-medium-rare.json](./128356-medium-rare.json) |
@@ -15298,7 +15296,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Mine | 44364 | [44364-moon-mine.json](./44364-moon-mine.json) |
 | Moon Miner | 410337 | [410337-moon-miner.json](./410337-moon-miner.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
-| Moon Mystery | 196935 | [196935-moon-mystery.json](./196935-moon-mystery.json) |
 | Moon Night Fantasy | 193859 | [193859-moon-night-fantasy.json](./193859-moon-night-fantasy.json) |
 | Moon Observatory Melanie | 250602 | [250602-moon-observatory-melanie.json](./250602-moon-observatory-melanie.json) |
 | Moon Patrol | 12314 | [12314-moon-patrol.json](./12314-moon-patrol.json) |
