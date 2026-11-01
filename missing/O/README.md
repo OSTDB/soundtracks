@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
 | Ominous Neighbor | 95869 | [95869-ominous-neighbor.json](./95869-ominous-neighbor.json) |
 | Ominous Objects: Family Portrait | 139095 | [139095-ominous-objects-family-portrait.json](./139095-ominous-objects-family-portrait.json) |
+| Ominous Objects: Family Portrait - Collector's Edition | 29382 | [29382-ominous-objects-family-portrait-collectors-edition.json](./29382-ominous-objects-family-portrait-collectors-edition.json) |
 | Ominous Objects: Lumina Camera HD | 106645 | [106645-ominous-objects-lumina-camera-hd.json](./106645-ominous-objects-lumina-camera-hd.json) |
 | Ominous Objects: Phantom Reflection | 139096 | [139096-ominous-objects-phantom-reflection.json](./139096-ominous-objects-phantom-reflection.json) |
 | Ominous Objects: Phantom Reflection - Collector's Edition | 74245 | [74245-ominous-objects-phantom-reflection-collectors-edition.json](./74245-ominous-objects-phantom-reflection-collectors-edition.json) |
@@ -3189,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Armstrong | 125668 | [125668-operation-armstrong.json](./125668-operation-armstrong.json) |
 | Operation Athena | 292575 | [292575-operation-athena.json](./292575-operation-athena.json) |
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
+| Operation Biotech | 29378 | [29378-operation-biotech.json](./29378-operation-biotech.json) |
 | Operation Blackout | 341514 | [341514-operation-blackout.json](./341514-operation-blackout.json) |
 | Operation Blindside: Annihilation | 343440 | [343440-operation-blindside-annihilation.json](./343440-operation-blindside-annihilation.json) |
 | Operation Blitzkrieg | 273201 | [273201-operation-blitzkrieg.json](./273201-operation-blitzkrieg.json) |
