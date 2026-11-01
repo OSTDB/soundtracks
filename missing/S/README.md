@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCE_2 | 392835 | [392835-sce-2.json](./392835-sce-2.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
 | Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
+| Scene Investigators | 146404 | [146404-scene-investigators.json](./146404-scene-investigators.json) |
 | Scene It? 80s | 23790 | [23790-scene-it-80s.json](./23790-scene-it-80s.json) |
 | Scene It? Box Office Smash | 7181 | [7181-scene-it-box-office-smash.json](./7181-scene-it-box-office-smash.json) |
 | Scene It? Bright Lights! Big Screen! | 5141 | [5141-scene-it-bright-lights-big-screen.json](./5141-scene-it-bright-lights-big-screen.json) |
@@ -18200,7 +18201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -31497,6 +31497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
 | Supraland | 89354 | [89354-supraland.json](./89354-supraland.json) |
+| Supraland Crash | 143030 | [143030-supraland-crash.json](./143030-supraland-crash.json) |
 | Supraland: Complete Edition | 169180 | [169180-supraland-complete-edition.json](./169180-supraland-complete-edition.json) |
 | Supraland: Six Inches Under | 172903 | [172903-supraland-six-inches-under.json](./172903-supraland-six-inches-under.json) |
 | Suprapong | 111371 | [111371-suprapong.json](./111371-suprapong.json) |
@@ -33281,6 +33282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symmetra's Qualifying Matches | 184325 | [184325-symmetras-qualifying-matches.json](./184325-symmetras-qualifying-matches.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
 | Symmetrical Logic Puzzles 1000 | 322532 | [322532-symmetrical-logic-puzzles-1000.json](./322532-symmetrical-logic-puzzles-1000.json) |
+| Symmetry | 30988 | [30988-symmetry.json](./30988-symmetry.json) |
 | Symmetry - Drawing Puzzles | 101090 | [101090-symmetry-drawing-puzzles.json](./101090-symmetry-drawing-puzzles.json) |
 | Symmetry and Asymmetry | 384262 | [384262-symmetry-and-asymmetry.json](./384262-symmetry-and-asymmetry.json) |
 | Symmetry and Asymmetry | 384263 | [384263-symmetry-and-asymmetry.json](./384263-symmetry-and-asymmetry.json) |
@@ -33593,6 +33595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
 | Syrak: the War in the Middle-East | 193648 | [193648-syrak-the-war-in-the-middle-east.json](./193648-syrak-the-war-in-the-middle-east.json) |
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
+| Syrian Warfare | 32461 | [32461-syrian-warfare.json](./32461-syrian-warfare.json) |
 | Syrian Warfare: Battlefields | 164603 | [164603-syrian-warfare-battlefields.json](./164603-syrian-warfare-battlefields.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | Syrnia | 130718 | [130718-syrnia.json](./130718-syrnia.json) |
@@ -33632,6 +33635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Purge: Hollow Point | 258822 | [258822-system-purge-hollow-point.json](./258822-system-purge-hollow-point.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Restore | 219562 | [219562-system-restore.json](./219562-system-restore.json) |
+| System Shock 2: 25th Anniversary Remaster | 143964 | [143964-system-shock-2-25th-anniversary-remaster.json](./143964-system-shock-2-25th-anniversary-remaster.json) |
 | System Shock 3 | 15097 | [15097-system-shock-3.json](./15097-system-shock-3.json) |
 | System Shock VR | 413511 | [413511-system-shock-vr.json](./413511-system-shock-vr.json) |
 | System Shock: Enhanced Edition | 12987 | [12987-system-shock-enhanced-edition.json](./12987-system-shock-enhanced-edition.json) |
