@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percy the Penguin Saves Christmas | 78548 | [78548-percy-the-penguin-saves-christmas.json](./78548-percy-the-penguin-saves-christmas.json) |
 | Percy the Potty Pigeon | 233155 | [233155-percy-the-potty-pigeon.json](./233155-percy-the-potty-pigeon.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
+| Percy's Predicament | 61298 | [61298-percys-predicament.json](./61298-percys-predicament.json) |
 | Percy's Predicament Deluxe | 67192 | [67192-percys-predicament-deluxe.json](./67192-percys-predicament-deluxe.json) |
 | Perdita | 285390 | [285390-perdita.json](./285390-perdita.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
@@ -14795,6 +14796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
 | Project Shoreline | 294550 | [294550-project-shoreline.json](./294550-project-shoreline.json) |
+| Project Shyknight | 61268 | [61268-project-shyknight.json](./61268-project-shyknight.json) |
 | Project Silver Shield | 297893 | [297893-project-silver-shield.json](./297893-project-silver-shield.json) |
 | Project Silverfish | 298641 | [298641-project-silverfish.json](./298641-project-silverfish.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
