@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanabi: A Haunted Day - Signal Redux Edition | 396192 | [396192-sanabi-a-haunted-day-signal-redux-edition.json](./396192-sanabi-a-haunted-day-signal-redux-edition.json) |
 | Sanabi: Collector's Edition | 272293 | [272293-sanabi-collectors-edition.json](./272293-sanabi-collectors-edition.json) |
 | Sanada Juu Yuushi | 48862 | [48862-sanada-juu-yuushi.json](./48862-sanada-juu-yuushi.json) |
+| Sanae Challenge! | 62482 | [62482-sanae-challenge.json](./62482-sanae-challenge.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae no Gensoukyou | 207082 | [207082-sanae-no-gensoukyou.json](./207082-sanae-no-gensoukyou.json) |
 | Sanae no Youkai Taiji Shinan | 360893 | [360893-sanae-no-youkai-taiji-shinan.json](./360893-sanae-no-youkai-taiji-shinan.json) |
@@ -1693,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Slide Rush | 401446 | [401446-santa-slide-rush.json](./401446-santa-slide-rush.json) |
 | Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
+| Santa Tracker | 62475 | [62475-santa-tracker.json](./62475-santa-tracker.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
 | Santa World | 273431 | [273431-santa-world.json](./273431-santa-world.json) |
 | Santa-kun | 231762 | [231762-santa-kun.json](./231762-santa-kun.json) |
@@ -14895,6 +14897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
 | Solar War | 403034 | [403034-solar-war.json](./403034-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
+| Solar Warfare | 62468 | [62468-solar-warfare.json](./62468-solar-warfare.json) |
 | Solar Wave | 349225 | [349225-solar-wave.json](./349225-solar-wave.json) |
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
 | Solar Winds: The Escape | 73585 | [73585-solar-winds-the-escape.json](./73585-solar-winds-the-escape.json) |
@@ -17175,6 +17178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulSync City | 306800 | [306800-soulsync-city.json](./306800-soulsync-city.json) |
 | SoulTail | 295296 | [295296-soultail.json](./295296-soultail.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
+| SoulTrap | 62373 | [62373-soultrap.json](./62373-soultrap.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
 | Soulvars | 150176 | [150176-soulvars.json](./150176-soulvars.json) |
 | Soulvars Fatal Error | 206420 | [206420-soulvars-fatal-error.json](./206420-soulvars-fatal-error.json) |
@@ -17879,6 +17883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18713,6 +18718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
 | Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
 | Spades | 372227 | [372227-spades.json](./372227-spades.json) |
+| Spades | 62393 | [62393-spades.json](./62393-spades.json) |
 | Spades | 88610 | [88610-spades.json](./88610-spades.json) |
 | Spades classic card game | 95285 | [95285-spades-classic-card-game.json](./95285-spades-classic-card-game.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
@@ -24200,6 +24206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellaSpella | 151447 | [151447-stellaspella.json](./151447-stellaspella.json) |
 | Stellata Waterway | 249402 | [249402-stellata-waterway.json](./249402-stellata-waterway.json) |
 | Stellations | 353937 | [353937-stellations.json](./353937-stellations.json) |
+| Stellavanity: Prelude to the Destined Calamity | 62474 | [62474-stellavanity-prelude-to-the-destined-calamity.json](./62474-stellavanity-prelude-to-the-destined-calamity.json) |
 | Stellaxy | 129454 | [129454-stellaxy.json](./129454-stellaxy.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
@@ -24537,6 +24544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Arrow | 295165 | [295165-sticky-arrow.json](./295165-sticky-arrow.json) |
 | Sticky Balls | 208765 | [208765-sticky-balls.json](./208765-sticky-balls.json) |
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
+| Sticky Blocks | 62389 | [62389-sticky-blocks.json](./62389-sticky-blocks.json) |
 | Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
