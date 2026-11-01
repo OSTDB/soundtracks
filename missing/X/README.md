@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Force Under Attack | 251694 | [251694-x-force-under-attack.json](./251694-x-force-under-attack.json) |
 | X-Games: Pro Boarder | 44844 | [44844-x-games-pro-boarder.json](./44844-x-games-pro-boarder.json) |
+| X-Girl: Cyber Punk Adventure | 52331 | [52331-x-girl-cyber-punk-adventure.json](./52331-x-girl-cyber-punk-adventure.json) |
 | X-Gravity | 374265 | [374265-x-gravity.json](./374265-x-gravity.json) |
 | X-It | 38833 | [38833-x-it.json](./38833-x-it.json) |
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
