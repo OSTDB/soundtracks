@@ -5844,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
 | Noloinstale | 372087 | [372087-noloinstale.json](./372087-noloinstale.json) |
 | NolyRhythm | 390731 | [390731-nolyrhythm.json](./390731-nolyrhythm.json) |
+| Nom Cat | 60287 | [60287-nom-cat.json](./60287-nom-cat.json) |
 | Nom Nom | 225965 | [225965-nom-nom.json](./225965-nom-nom.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
