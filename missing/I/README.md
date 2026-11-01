@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age | 6446 | [6446-ice-age.json](./6446-ice-age.json) |
 | Ice Age 2: The Meltdown | 248537 | [248537-ice-age-2-the-meltdown.json](./248537-ice-age-2-the-meltdown.json) |
 | Ice Age 2: The Meltdown | 248538 | [248538-ice-age-2-the-meltdown.json](./248538-ice-age-2-the-meltdown.json) |
+| Ice Age 2: The Meltdown | 3952 | [3952-ice-age-2-the-meltdown.json](./3952-ice-age-2-the-meltdown.json) |
 | Ice Age Adventures | 39202 | [39202-ice-age-adventures.json](./39202-ice-age-adventures.json) |
 | Ice Age Dawn Of The Dinosaurs | 247350 | [247350-ice-age-dawn-of-the-dinosaurs.json](./247350-ice-age-dawn-of-the-dinosaurs.json) |
 | Ice Age Hunter: Evolution-U | 100963 | [100963-ice-age-hunter-evolution-u.json](./100963-ice-age-hunter-evolution-u.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale: Heart of Winter | 5621 | [5621-icewind-dale-heart-of-winter.json](./5621-icewind-dale-heart-of-winter.json) |
 | Icewind Dale: Heart of Winter - Trials of the Luremaster | 8829 | [8829-icewind-dale-heart-of-winter-trials-of-the-luremaster.json](./8829-icewind-dale-heart-of-winter-trials-of-the-luremaster.json) |
 | Icewords | 186006 | [186006-icewords.json](./186006-icewords.json) |
+| Icey | 25964 | [25964-icey.json](./25964-icey.json) |
 | Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
 | Icharko | 277255 | [277255-icharko.json](./277255-icharko.json) |
 | iChess Park | 175054 | [175054-ichess-park.json](./175054-ichess-park.json) |
@@ -1852,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikari III: The Rescue | 274106 | [274106-ikari-iii-the-rescue.json](./274106-ikari-iii-the-rescue.json) |
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
 | Ikari no Yousai 2 | 49140 | [49140-ikari-no-yousai-2.json](./49140-ikari-no-yousai-2.json) |
+| Ikari Warriors | 12153 | [12153-ikari-warriors.json](./12153-ikari-warriors.json) |
 | Ikari Warriors | 274081 | [274081-ikari-warriors.json](./274081-ikari-warriors.json) |
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
 | Ikariam | 46497 | [46497-ikariam.json](./46497-ikariam.json) |
@@ -4572,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
 | International Superstar Soccer 2000 | 3515 | [3515-international-superstar-soccer-2000.json](./3515-international-superstar-soccer-2000.json) |
 | International Superstar Soccer 3 | 3958 | [3958-international-superstar-soccer-3.json](./3958-international-superstar-soccer-3.json) |
+| International Superstar Soccer 64 | 3516 | [3516-international-superstar-soccer-64.json](./3516-international-superstar-soccer-64.json) |
 | International Superstar Soccer 99 | 49886 | [49886-international-superstar-soccer-99.json](./49886-international-superstar-soccer-99.json) |
 | International Superstar Soccer Advance | 49280 | [49280-international-superstar-soccer-advance.json](./49280-international-superstar-soccer-advance.json) |
 | International Superstar Soccer Deluxe | 9862 | [9862-international-superstar-soccer-deluxe.json](./9862-international-superstar-soccer-deluxe.json) |
