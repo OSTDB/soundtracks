@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
 | Galactica Unbound | 123225 | [123225-galactica-unbound.json](./123225-galactica-unbound.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
+| Galacticare | 243343 | [243343-galacticare.json](./243343-galacticare.json) |
 | Galacticare: Supporter Pack | 302210 | [302210-galacticare-supporter-pack.json](./302210-galacticare-supporter-pack.json) |
 | Galacticare: The Voice Beyond | 337495 | [337495-galacticare-the-voice-beyond.json](./337495-galacticare-the-voice-beyond.json) |
 | Galactico | 285561 | [285561-galactico.json](./285561-galactico.json) |
