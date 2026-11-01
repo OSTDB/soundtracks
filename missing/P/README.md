@@ -3053,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PawlleyBall | 390566 | [390566-pawlleyball.json](./390566-pawlleyball.json) |
 | Pawly Pets: My Vet Practice | 47807 | [47807-pawly-pets-my-vet-practice.json](./47807-pawly-pets-my-vet-practice.json) |
 | PawMart Tiny Market | 406833 | [406833-pawmart-tiny-market.json](./406833-pawmart-tiny-market.json) |
+| Pawn | 30460 | [30460-pawn.json](./30460-pawn.json) |
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
@@ -6699,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinguino | 422483 | [422483-pinguino.json](./422483-pinguino.json) |
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
+| Pinheads Bowling VR | 30430 | [30430-pinheads-bowling-vr.json](./30430-pinheads-bowling-vr.json) |
 | Pìnjìng de Kāiduān | 155969 | [155969-pinjing-de-kaiduan.json](./155969-pinjing-de-kaiduan.json) |
 | Pink | 142300 | [142300-pink.json](./142300-pink.json) |
 | Pink | 142921 | [142921-pink.json](./142921-pink.json) |
@@ -13426,6 +13428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Isabella: Return of the Curse | 17220 | [17220-princess-isabella-return-of-the-curse.json](./17220-princess-isabella-return-of-the-curse.json) |
 | Princess Jigsaw Bundle | 319310 | [319310-princess-jigsaw-bundle.json](./319310-princess-jigsaw-bundle.json) |
 | Princess Kaguya | 34914 | [34914-princess-kaguya.json](./34914-princess-kaguya.json) |
+| Princess Kidnapper VR | 30446 | [30446-princess-kidnapper-vr.json](./30446-princess-kidnapper-vr.json) |
 | Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lana | 138687 | [138687-princess-lana.json](./138687-princess-lana.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
