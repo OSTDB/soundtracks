@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
 | Absent II | 58073 | [58073-absent-ii.json](./58073-absent-ii.json) |
+| Absent Mind | 29381 | [29381-absent-mind.json](./29381-absent-mind.json) |
 | AbsentedAge 2: Ghostbound | 363570 | [363570-absentedage-2-ghostbound.json](./363570-absentedage-2-ghostbound.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absin | 165505 | [165505-absin.json](./165505-absin.json) |
@@ -5240,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirRaid | 211028 | [211028-airraid.json](./211028-airraid.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
+| airRevo VR | 29441 | [29441-airrevo-vr.json](./29441-airrevo-vr.json) |
 | Airs Adventure | 45430 | [45430-airs-adventure.json](./45430-airs-adventure.json) |
 | Airship | 379526 | [379526-airship.json](./379526-airship.json) |
 | Airship | 379527 | [379527-airship.json](./379527-airship.json) |
@@ -6819,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2004 | 282834 | [282834-all-star-baseball-2004.json](./282834-all-star-baseball-2004.json) |
 | All-Star Baseball 2005 | 11559 | [11559-all-star-baseball-2005.json](./11559-all-star-baseball-2005.json) |
 | All-Star Baseball 97 | 19998 | [19998-all-star-baseball-97.json](./19998-all-star-baseball-97.json) |
+| All-Star Fielding Challenge VR | 29406 | [29406-all-star-fielding-challenge-vr.json](./29406-all-star-fielding-challenge-vr.json) |
 | All-Star Fighters | 64794 | [64794-all-star-fighters.json](./64794-all-star-fighters.json) |
 | All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
@@ -16759,6 +16762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azada | 6747 | [6747-azada.json](./6747-azada.json) |
 | Azada: Ancient Magic | 64735 | [64735-azada-ancient-magic.json](./64735-azada-ancient-magic.json) |
 | Azada: Elementa | 63633 | [63633-azada-elementa.json](./63633-azada-elementa.json) |
+| Azada: Elementa - Collector's Edition | 29391 | [29391-azada-elementa-collectors-edition.json](./29391-azada-elementa-collectors-edition.json) |
 | Azada: in Libro | 63778 | [63778-azada-in-libro.json](./63778-azada-in-libro.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
