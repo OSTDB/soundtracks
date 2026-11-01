@@ -4881,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Plateau Puzzle | 88423 | [88423-escape-from-the-plateau-puzzle.json](./88423-escape-from-the-plateau-puzzle.json) |
 | Escape from the Princess | 108661 | [108661-escape-from-the-princess.json](./108661-escape-from-the-princess.json) |
+| Escape from the Pyramid | 56192 | [56192-escape-from-the-pyramid.json](./56192-escape-from-the-pyramid.json) |
 | Escape From the Red Planet | 224818 | [224818-escape-from-the-red-planet.json](./224818-escape-from-the-red-planet.json) |
 | Escape from the Shadows | 270604 | [270604-escape-from-the-shadows.json](./270604-escape-from-the-shadows.json) |
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
@@ -6783,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewgeebeez | 348941 | [348941-ewgeebeez.json](./348941-ewgeebeez.json) |
 | Ewig | 395247 | [395247-ewig.json](./395247-ewig.json) |
 | Ewoks | 373198 | [373198-ewoks.json](./373198-ewoks.json) |
+| Ewoks and the Dandelion Warriors | 56217 | [56217-ewoks-and-the-dandelion-warriors.json](./56217-ewoks-and-the-dandelion-warriors.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
 | Ewwe | 106498 | [106498-ewwe.json](./106498-ewwe.json) |
 | Ex Angelus | 235622 | [235622-ex-angelus.json](./235622-ex-angelus.json) |
