@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Happy Valentine | 225237 | [225237-a-happy-valentine.json](./225237-a-happy-valentine.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
 | A Hat in Time: Deluxe Edition | 237862 | [237862-a-hat-in-time-deluxe-edition.json](./237862-a-hat-in-time-deluxe-edition.json) |
+| A Hat in Time: Nyakuza Metro | 117747 | [117747-a-hat-in-time-nyakuza-metro.json](./117747-a-hat-in-time-nyakuza-metro.json) |
 | A Hat in Time: Seal the Deal | 109466 | [109466-a-hat-in-time-seal-the-deal.json](./109466-a-hat-in-time-seal-the-deal.json) |
 | A Hat in Time: Ultimate Edition | 237863 | [237863-a-hat-in-time-ultimate-edition.json](./237863-a-hat-in-time-ultimate-edition.json) |
 | A Hat in Time: Vanessa's Curse | 193202 | [193202-a-hat-in-time-vanessas-curse.json](./193202-a-hat-in-time-vanessas-curse.json) |
@@ -3487,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
 | Adventures of Lolo II | 206514 | [206514-adventures-of-lolo-ii.json](./206514-adventures-of-lolo-ii.json) |
 | Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
+| Adventures of Mana | 19865 | [19865-adventures-of-mana.json](./19865-adventures-of-mana.json) |
 | Adventures of Max Fax | 308192 | [308192-adventures-of-max-fax.json](./308192-adventures-of-max-fax.json) |
 | Adventures of Megara: Antigone and the Living Toys | 173190 | [173190-adventures-of-megara-antigone-and-the-living-toys.json](./173190-adventures-of-megara-antigone-and-the-living-toys.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
@@ -4591,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agross | 121973 | [121973-agross.json](./121973-agross.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
+| Aground | 104164 | [104164-aground.json](./104164-aground.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
 | Agtnan: Monster Shutdown Sequence | 116022 | [116022-agtnan-monster-shutdown-sequence.json](./116022-agtnan-monster-shutdown-sequence.json) |
 | Aguante Imaginario | 107240 | [107240-aguante-imaginario.json](./107240-aguante-imaginario.json) |
@@ -7338,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternate Dimensions | 403483 | [403483-alternate-dimensions.json](./403483-alternate-dimensions.json) |
 | Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
 | Alternate Tales of Ryukyu: Bonds of the Red Sakura Trees | 408706 | [408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json](./408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json) |
+| Alternate Watch | 242704 | [242704-alternate-watch.json](./242704-alternate-watch.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
 | Alternatis: William the Conqueror | 417605 | [417605-alternatis-william-the-conqueror.json](./417605-alternatis-william-the-conqueror.json) |
 | Alternativa | 16031 | [16031-alternativa.json](./16031-alternativa.json) |
