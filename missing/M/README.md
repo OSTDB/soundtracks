@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Pirate Journey | 213212 | [213212-mahjong-pirate-journey.json](./213212-mahjong-pirate-journey.json) |
+| Mahjong Police | 57397 | [57397-mahjong-police.json](./57397-mahjong-police.json) |
 | Mahjong Pretty Girls Battle | 28584 | [28584-mahjong-pretty-girls-battle.json](./28584-mahjong-pretty-girls-battle.json) |
 | Mahjong Pretty Girls Battle: School Girls Edition | 34986 | [34986-mahjong-pretty-girls-battle-school-girls-edition.json](./34986-mahjong-pretty-girls-battle-school-girls-edition.json) |
 | Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
@@ -10792,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
 | Million Lords | 124637 | [124637-million-lords.json](./124637-million-lords.json) |
+| Million Mazes | 57421 | [57421-million-mazes.json](./57421-million-mazes.json) |
 | Million Monster Militia | 242149 | [242149-million-monster-militia.json](./242149-million-monster-militia.json) |
 | Million on Mars: Land Rush | 182494 | [182494-million-on-mars-land-rush.json](./182494-million-on-mars-land-rush.json) |
 | Million on Mars: Space to Venture | 169131 | [169131-million-on-mars-space-to-venture.json](./169131-million-on-mars-space-to-venture.json) |
@@ -17735,6 +17737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdo's Quest | 201464 | [201464-murdos-quest.json](./201464-murdos-quest.json) |
 | Murdoc's Operation Rejuvination | 354761 | [354761-murdocs-operation-rejuvination.json](./354761-murdocs-operation-rejuvination.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
+| Murgatroyds | 57417 | [57417-murgatroyds.json](./57417-murgatroyds.json) |
 | Murgles | 121370 | [121370-murgles.json](./121370-murgles.json) |
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
 | Murica | 114890 | [114890-murica.json](./114890-murica.json) |
