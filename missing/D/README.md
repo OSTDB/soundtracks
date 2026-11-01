@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous adventure | 284996 | [284996-dangerous-adventure.json](./284996-dangerous-adventure.json) |
 | Dangerous Arena | 294945 | [294945-dangerous-arena.json](./294945-dangerous-arena.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
+| Dangerous Bullets | 36624 | [36624-dangerous-bullets.json](./36624-dangerous-bullets.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Community | 217154 | [217154-dangerous-community.json](./217154-dangerous-community.json) |
 | Dangerous Connections | 303452 | [303452-dangerous-connections.json](./303452-dangerous-connections.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkheart: Flight of the Harpies | 112741 | [112741-darkheart-flight-of-the-harpies.json](./112741-darkheart-flight-of-the-harpies.json) |
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
 | DarkHill: Book of Shadow | 97214 | [97214-darkhill-book-of-shadow.json](./97214-darkhill-book-of-shadow.json) |
+| Darkhorn: Realm of the Warlords | 36696 | [36696-darkhorn-realm-of-the-warlords.json](./36696-darkhorn-realm-of-the-warlords.json) |
 | DarkHospital | 285009 | [285009-darkhospital.json](./285009-darkhospital.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darkilson | 149480 | [149480-darkilson.json](./149480-darkilson.json) |
@@ -11846,6 +11848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut Break: Head to Head | 214566 | [214566-donut-break-head-to-head.json](./214566-donut-break-head-to-head.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
+| Donut Distraction | 36638 | [36638-donut-distraction.json](./36638-donut-distraction.json) |
 | Donut Dodo Do! | 252062 | [252062-donut-dodo-do.json](./252062-donut-dodo-do.json) |
 | Donut Dodo Fantastico | 347603 | [347603-donut-dodo-fantastico.json](./347603-donut-dodo-fantastico.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
