@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
 | Saints Row: Total Control | 66011 | [66011-saints-row-total-control.json](./66011-saints-row-total-control.json) |
+| Saints Row: Undercover | 16753 | [16753-saints-row-undercover.json](./16753-saints-row-undercover.json) |
 | Saipped Pursuit | 288252 | [288252-saipped-pursuit.json](./288252-saipped-pursuit.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
 | Sairento VR | 30522 | [30522-sairento-vr.json](./30522-sairento-vr.json) |
@@ -2753,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Bus Driver Simulator | 199355 | [199355-school-bus-driver-simulator.json](./199355-school-bus-driver-simulator.json) |
 | School Bus Driving Simulator | 259031 | [259031-school-bus-driving-simulator.json](./259031-school-bus-driving-simulator.json) |
 | School Bus Frenzy | 394194 | [394194-school-bus-frenzy.json](./394194-school-bus-frenzy.json) |
+| School Bus Fun | 17410 | [17410-school-bus-fun.json](./17410-school-bus-fun.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Cafeteria Simulator | 263105 | [263105-school-cafeteria-simulator.json](./263105-school-cafeteria-simulator.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
@@ -6170,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Mansion | 306385 | [306385-shadow-mansion.json](./306385-shadow-mansion.json) |
 | Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
 | Shadow Mantis | 377086 | [377086-shadow-mantis.json](./377086-shadow-mantis.json) |
+| Shadow Master | 17453 | [17453-shadow-master.json](./17453-shadow-master.json) |
 | Shadow Matching Puzzles | 231904 | [231904-shadow-matching-puzzles.json](./231904-shadow-matching-puzzles.json) |
 | Shadow Mate | 267281 | [267281-shadow-mate.json](./267281-shadow-mate.json) |
 | Shadow Mist | 28905 | [28905-shadow-mist.json](./28905-shadow-mist.json) |
@@ -18100,6 +18103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19015,6 +19019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Spark Quest | 348145 | [348145-spark-quest.json](./348145-spark-quest.json) |
+| Spark Rising | 16892 | [16892-spark-rising.json](./16892-spark-rising.json) |
 | Spark Spark | 284255 | [284255-spark-spark.json](./284255-spark-spark.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
@@ -20947,6 +20952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Special | 328830 | [328830-sport-and-fun-swimming-ultra-special.json](./328830-sport-and-fun-swimming-ultra-special.json) |
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
 | Sport & Fun: Swimming: Definitive Edition | 256635 | [256635-sport-and-fun-swimming-definitive-edition.json](./256635-sport-and-fun-swimming-definitive-edition.json) |
+| Sport 1 Live: Duel | 17397 | [17397-sport-1-live-duel.json](./17397-sport-1-live-duel.json) |
 | Sport 10 Pack | 131264 | [131264-sport-10-pack.json](./131264-sport-10-pack.json) |
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
@@ -21686,6 +21692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | SquirrelTower | 422648 | [422648-squirreltower.json](./422648-squirreltower.json) |
 | SquirrelWarz | 259694 | [259694-squirrelwarz.json](./259694-squirrelwarz.json) |
+| Squirt's Adventure | 16838 | [16838-squirts-adventure.json](./16838-squirts-adventure.json) |
 | Squish | 145221 | [145221-squish.json](./145221-squish.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
@@ -21885,6 +21892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
 | Stahlkampf | 179480 | [179480-stahlkampf.json](./179480-stahlkampf.json) |
+| Stained | 17439 | [17439-stained.json](./17439-stained.json) |
 | Stainless Steel | 28555 | [28555-stainless-steel.json](./28555-stainless-steel.json) |
 | Stainless Steel | 356243 | [356243-stainless-steel.json](./356243-stainless-steel.json) |
 | Stains and the Giant | 315780 | [315780-stains-and-the-giant.json](./315780-stains-and-the-giant.json) |
@@ -22498,6 +22506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tower | 101267 | [101267-star-tower.json](./101267-star-tower.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
+| Star Trader | 16976 | [16976-star-trader.json](./16976-star-trader.json) |
 | Star Trader | 212135 | [212135-star-trader.json](./212135-star-trader.json) |
 | Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
 | Star Traders 4X Empires Elite | 88590 | [88590-star-traders-4x-empires-elite.json](./88590-star-traders-4x-empires-elite.json) |
@@ -26766,6 +26775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subject 65 | 222752 | [222752-subject-65.json](./222752-subject-65.json) |
+| Subject 9 | 17332 | [17332-subject-9.json](./17332-subject-9.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
 | Subject: Relictus | 188835 | [188835-subject-relictus.json](./188835-subject-relictus.json) |
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
@@ -28379,6 +28389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cave Boy | 224589 | [224589-super-cave-boy.json](./224589-super-cave-boy.json) |
 | Super Cave Boy: Forsaken Dungeon | 31190 | [31190-super-cave-boy-forsaken-dungeon.json](./31190-super-cave-boy-forsaken-dungeon.json) |
 | Super Cave Run | 276605 | [276605-super-cave-run.json](./276605-super-cave-run.json) |
+| Super Chain Crusher Horizon | 16831 | [16831-super-chain-crusher-horizon.json](./16831-super-chain-crusher-horizon.json) |
 | Super Chains | 112941 | [112941-super-chains.json](./112941-super-chains.json) |
 | Super Challenge Baseball | 40602 | [40602-super-challenge-baseball.json](./40602-super-challenge-baseball.json) |
 | Super Challenge Football | 40595 | [40595-super-challenge-football.json](./40595-super-challenge-football.json) |
@@ -32601,6 +32612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe That | 232326 | [232326-swipe-that.json](./232326-swipe-that.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
 | Swipe! | 38487 | [38487-swipe.json](./38487-swipe.json) |
+| Swipecart | 17312 | [17312-swipecart.json](./17312-swipecart.json) |
 | Swiped | 91064 | [91064-swiped.json](./91064-swiped.json) |
 | Swiped! Double Shots of Love | 301410 | [301410-swiped-double-shots-of-love.json](./301410-swiped-double-shots-of-love.json) |
 | Swipepi | 267363 | [267363-swipepi.json](./267363-swipepi.json) |
