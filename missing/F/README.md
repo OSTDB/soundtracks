@@ -4063,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 09 | 240325 | [240325-fifa-soccer-09.json](./240325-fifa-soccer-09.json) |
 | FIFA Soccer 09 | 240327 | [240327-fifa-soccer-09.json](./240327-fifa-soccer-09.json) |
 | FIFA Soccer 09 | 240328 | [240328-fifa-soccer-09.json](./240328-fifa-soccer-09.json) |
+| FIFA Soccer 09 | 3134 | [3134-fifa-soccer-09.json](./3134-fifa-soccer-09.json) |
 | FIFA Soccer 10 | 240331 | [240331-fifa-soccer-10.json](./240331-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240332 | [240332-fifa-soccer-10.json](./240332-fifa-soccer-10.json) |
 | FIFA Soccer 10 | 240333 | [240333-fifa-soccer-10.json](./240333-fifa-soccer-10.json) |
@@ -4604,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV | 283313 | [283313-final-fantasy-iv.json](./283313-final-fantasy-iv.json) |
 | Final Fantasy IV | 283317 | [283317-final-fantasy-iv.json](./283317-final-fantasy-iv.json) |
 | Final Fantasy IV | 380634 | [380634-final-fantasy-iv.json](./380634-final-fantasy-iv.json) |
+| Final Fantasy IV | 399 | [399-final-fantasy-iv.json](./399-final-fantasy-iv.json) |
 | Final Fantasy IV Advance | 406 | [406-final-fantasy-iv-advance.json](./406-final-fantasy-iv-advance.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
 | Final Fantasy IV: Interlude | 131995 | [131995-final-fantasy-iv-interlude.json](./131995-final-fantasy-iv-interlude.json) |
@@ -8774,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Your Information | 196419 | [196419-for-your-information.json](./196419-for-your-information.json) |
 | For Your Tranquility | 228503 | [228503-for-your-tranquility.json](./228503-for-your-tranquility.json) |
 | For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
+| Forager | 25580 | [25580-forager.json](./25580-forager.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbes Corporate Warrior | 71373 | [71373-forbes-corporate-warrior.json](./71373-forbes-corporate-warrior.json) |
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
