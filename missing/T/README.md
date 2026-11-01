@@ -12519,6 +12519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magical Land of Canada | 240711 | [240711-the-magical-land-of-canada.json](./240711-the-magical-land-of-canada.json) |
 | The Magical Mixture Mill | 226596 | [226596-the-magical-mixture-mill.json](./226596-the-magical-mixture-mill.json) |
 | The Magical Quest of Molly the Marble | 403802 | [403802-the-magical-quest-of-molly-the-marble.json](./403802-the-magical-quest-of-molly-the-marble.json) |
+| The Magical Quest Starring Mickey Mouse | 6379 | [6379-the-magical-quest-starring-mickey-mouse.json](./6379-the-magical-quest-starring-mickey-mouse.json) |
 | The Magical Realms of Tír na Nóg: Escape from Necron 7 - Revenge of Cuchulainn: The Official Game of the Movie – Chapter 2 of the Hoopz Barkley SaGa | 98853 | [98853-the-magical-realms-of-tir-na-nog-escape-from-necron-7-revenge-of-cuchulainn-the-official-game-of-the-movie-chapter-2-of-the-hoopz-barkley-saga.json](./98853-the-magical-realms-of-tir-na-nog-escape-from-necron-7-revenge-of-cuchulainn-the-official-game-of-the-movie-chapter-2-of-the-hoopz-barkley-saga.json) |
 | The Magical Unicorn | 145611 | [145611-the-magical-unicorn.json](./145611-the-magical-unicorn.json) |
 | The Magician Of Justice | 289986 | [289986-the-magician-of-justice.json](./289986-the-magician-of-justice.json) |
@@ -14108,6 +14109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punchbag Machine | 406907 | [406907-the-punchbag-machine.json](./406907-the-punchbag-machine.json) |
 | The Punchuin | 229144 | [229144-the-punchuin.json](./229144-the-punchuin.json) |
 | The Punisher | 18294 | [18294-the-punisher.json](./18294-the-punisher.json) |
+| The Punisher | 19768 | [19768-the-punisher.json](./19768-the-punisher.json) |
 | The Punisher | 307746 | [307746-the-punisher.json](./307746-the-punisher.json) |
 | The Punisher | 4447 | [4447-the-punisher.json](./4447-the-punisher.json) |
 | The Punisher | 75883 | [75883-the-punisher.json](./75883-the-punisher.json) |
@@ -15287,6 +15289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192907 | [192907-the-sims-2-castaway.json](./192907-the-sims-2-castaway.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
+| The Sims 2: Castaway | 5156 | [5156-the-sims-2-castaway.json](./5156-the-sims-2-castaway.json) |
 | The Sims 2: Celebration! Stuff | 13131 | [13131-the-sims-2-celebration-stuff.json](./13131-the-sims-2-celebration-stuff.json) |
 | The Sims 2: Family Fun Stuff | 13128 | [13128-the-sims-2-family-fun-stuff.json](./13128-the-sims-2-family-fun-stuff.json) |
 | The Sims 2: Glamour Life Stuff | 13129 | [13129-the-sims-2-glamour-life-stuff.json](./13129-the-sims-2-glamour-life-stuff.json) |
@@ -17536,6 +17539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Chamber | 79408 | [79408-the-white-chamber.json](./79408-the-white-chamber.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
 | The White Diner | 117575 | [117575-the-white-diner.json](./117575-the-white-diner.json) |
+| The White Door | 120552 | [120552-the-white-door.json](./120552-the-white-door.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
 | The White Lady of the Bridge Breaking in West Lake | 164594 | [164594-the-white-lady-of-the-bridge-breaking-in-west-lake.json](./164594-the-white-lady-of-the-bridge-breaking-in-west-lake.json) |
@@ -23651,6 +23655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
 | Toons City | 201664 | [201664-toons-city.json](./201664-toons-city.json) |
 | Toonsters: Crossing Worlds | 272185 | [272185-toonsters-crossing-worlds.json](./272185-toonsters-crossing-worlds.json) |
+| Toonstruck | 916 | [916-toonstruck.json](./916-toonstruck.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Realms | 134489 | [134489-toontown-realms.json](./134489-toontown-realms.json) |
 | Toontown Rewritten | 134488 | [134488-toontown-rewritten.json](./134488-toontown-rewritten.json) |
@@ -27605,6 +27610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: War for Cybertron | 555 | [555-transformers-war-for-cybertron.json](./555-transformers-war-for-cybertron.json) |
 | Transformers: War for Cybertron - Autobots | 159310 | [159310-transformers-war-for-cybertron-autobots.json](./159310-transformers-war-for-cybertron-autobots.json) |
 | Transformers: War for Cybertron - Decepticons | 47945 | [47945-transformers-war-for-cybertron-decepticons.json](./47945-transformers-war-for-cybertron-decepticons.json) |
+| Transformice | 9628 | [9628-transformice.json](./9628-transformice.json) |
 | Transformice Adventures | 117824 | [117824-transformice-adventures.json](./117824-transformice-adventures.json) |
 | Transfusion | 165576 | [165576-transfusion.json](./165576-transfusion.json) |
 | Transfusion | 356761 | [356761-transfusion.json](./356761-transfusion.json) |
