@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Cafe Rosa | 289269 | [289269-cafe-rosa.json](./289269-cafe-rosa.json) |
+| Café Rouge | 46950 | [46950-cafe-rouge.json](./46950-cafe-rouge.json) |
 | Cafe Simulator | 171741 | [171741-cafe-simulator.json](./171741-cafe-simulator.json) |
 | Cafe Simulator | 235790 | [235790-cafe-simulator.json](./235790-cafe-simulator.json) |
 | Cafe Simulator | 380048 | [380048-cafe-simulator.json](./380048-cafe-simulator.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of FireWork | 274972 | [274972-call-of-firework.json](./274972-call-of-firework.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
+| Call of Gods | 46946 | [46946-call-of-gods.json](./46946-call-of-gods.json) |
 | Call of Gruty WWII | 179861 | [179861-call-of-gruty-wwii.json](./179861-call-of-gruty-wwii.json) |
 | Call of Guardians | 130526 | [130526-call-of-guardians.json](./130526-call-of-guardians.json) |
 | Call of Guns: FPS Multiplayer Online 3D Guns Game | 216017 | [216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json](./216017-call-of-guns-fps-multiplayer-online-3d-guns-game.json) |
@@ -9989,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter RefleXIVe: The Diceman Cometh - Collector's Edition | 250755 | [250755-clutter-reflexive-the-diceman-cometh-collectors-edition.json](./250755-clutter-reflexive-the-diceman-cometh-collectors-edition.json) |
 | Clutter VI: Leigh's Story | 74483 | [74483-clutter-vi-leighs-story.json](./74483-clutter-vi-leighs-story.json) |
 | Clutter's Greatest Hits: Collector's Edition | 219739 | [219739-clutters-greatest-hits-collectors-edition.json](./219739-clutters-greatest-hits-collectors-edition.json) |
+| Clyde's Adventure | 47008 | [47008-clydes-adventure.json](./47008-clydes-adventure.json) |
 | Clyde's Revenge | 72142 | [72142-clydes-revenge.json](./72142-clydes-revenge.json) |
 | Clystron | 41204 | [41204-clystron.json](./41204-clystron.json) |
 | CM-SS13 | 386923 | [386923-cm-ss13.json](./386923-cm-ss13.json) |
@@ -11833,6 +11836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Quest | 294032 | [294032-commander-quest.json](./294032-commander-quest.json) |
 | Commander Tiberius Troubleson | 244340 | [244340-commander-tiberius-troubleson.json](./244340-commander-tiberius-troubleson.json) |
 | Commander: Conquest of the Americas - Colonial Navy | 170860 | [170860-commander-conquest-of-the-americas-colonial-navy.json](./170860-commander-conquest-of-the-americas-colonial-navy.json) |
+| Commander: Conquest of the Americas - Gold Edition | 46997 | [46997-commander-conquest-of-the-americas-gold-edition.json](./46997-commander-conquest-of-the-americas-gold-edition.json) |
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
 | Commander: Modern War | 234017 | [234017-commander-modern-war.json](./234017-commander-modern-war.json) |
 | Commander: The Great War | 17607 | [17607-commander-the-great-war.json](./17607-commander-the-great-war.json) |
@@ -12593,6 +12597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
 | Construction Machines SIM: Bridges, buildings and constructor trucks simulator | 201086 | [201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json](./201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json) |
+| Construction Machines Simulator 2016 | 46956 | [46956-construction-machines-simulator-2016.json](./46956-construction-machines-simulator-2016.json) |
 | Construction Manager | 212048 | [212048-construction-manager.json](./212048-construction-manager.json) |
 | Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
 | Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
@@ -17126,6 +17131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Reign | 75597 | [75597-crystal-reign.json](./75597-crystal-reign.json) |
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
+| Crystal Saga: Origins | 46945 | [46945-crystal-saga-origins.json](./46945-crystal-saga-origins.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
 | Crystal Shard Adventure Bundle | 30646 | [30646-crystal-shard-adventure-bundle.json](./30646-crystal-shard-adventure-bundle.json) |
 | Crystal Shard Adventure: Meta | 169913 | [169913-crystal-shard-adventure-meta.json](./169913-crystal-shard-adventure-meta.json) |
@@ -18749,6 +18755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberdimension Neptunia: 4 Goddesses Online | 26402 | [26402-cyberdimension-neptunia-4-goddesses-online.json](./26402-cyberdimension-neptunia-4-goddesses-online.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
 | Cyberdog 2050 | 401604 | [401604-cyberdog-2050.json](./401604-cyberdog-2050.json) |
+| Cyberdogs | 46935 | [46935-cyberdogs.json](./46935-cyberdogs.json) |
 | Cyberdreams | 140045 | [140045-cyberdreams.json](./140045-cyberdreams.json) |
 | CyberDrifter | 29152 | [29152-cyberdrifter.json](./29152-cyberdrifter.json) |
 | CyberDrive 2077 | 395806 | [395806-cyberdrive-2077.json](./395806-cyberdrive-2077.json) |
