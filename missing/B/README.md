@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3310,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Calculator | 165562 | [165562-battle-calculator.json](./165562-battle-calculator.json) |
 | Battle Camp | 38887 | [38887-battle-camp.json](./38887-battle-camp.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
+| Battle Carnival | 27203 | [27203-battle-carnival.json](./27203-battle-carnival.json) |
 | Battle Cars | 224095 | [224095-battle-cars.json](./224095-battle-cars.json) |
 | Battle Cars | 236980 | [236980-battle-cars.json](./236980-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
@@ -8251,6 +8253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Chapter | 156624 | [156624-black-chapter.json](./156624-black-chapter.json) |
 | Black Circle | 100032 | [100032-black-circle.json](./100032-black-circle.json) |
 | Black Circle | 9297 | [9297-black-circle.json](./9297-black-circle.json) |
+| Black Cloth | 27176 | [27176-black-cloth.json](./27176-black-cloth.json) |
 | Black Clover Mobile | 188401 | [188401-black-clover-mobile.json](./188401-black-clover-mobile.json) |
 | Black Clover Phantom Knights | 97043 | [97043-black-clover-phantom-knights.json](./97043-black-clover-phantom-knights.json) |
 | Black Clover: Infinite Knights | 122885 | [122885-black-clover-infinite-knights.json](./122885-black-clover-infinite-knights.json) |
@@ -8592,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 131529 | [131529-blackjack.json](./131529-blackjack.json) |
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
 | Blackjack | 224087 | [224087-blackjack.json](./224087-blackjack.json) |
+| Blackjack | 27230 | [27230-blackjack.json](./27230-blackjack.json) |
 | Blackjack | 315460 | [315460-blackjack.json](./315460-blackjack.json) |
 | Blackjack | 348302 | [348302-blackjack.json](./348302-blackjack.json) |
 | Blackjack | 41530 | [41530-blackjack.json](./41530-blackjack.json) |
