@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Factory Simulator | 406934 | [406934-farm-factory-simulator.json](./406934-farm-factory-simulator.json) |
 | Farm For A Wife | 217281 | [217281-farm-for-a-wife.json](./217281-farm-for-a-wife.json) |
+| Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
 | Farm Frenzy 2: Pizza Party HD | 88536 | [88536-farm-frenzy-2-pizza-party-hd.json](./88536-farm-frenzy-2-pizza-party-hd.json) |
 | Farm Frenzy 2: Pizza Party! for Mac | 87750 | [87750-farm-frenzy-2-pizza-party-for-mac.json](./87750-farm-frenzy-2-pizza-party-for-mac.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
@@ -4638,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy IX: Alternate Fantasy | 360108 | [360108-final-fantasy-ix-alternate-fantasy.json](./360108-final-fantasy-ix-alternate-fantasy.json) |
 | Final Fantasy Legend II DX | 364843 | [364843-final-fantasy-legend-ii-dx.json](./364843-final-fantasy-legend-ii-dx.json) |
+| Final Fantasy Legend III | 410 | [410-final-fantasy-legend-iii.json](./410-final-fantasy-legend-iii.json) |
 | Final Fantasy Legend III DX | 366027 | [366027-final-fantasy-legend-iii-dx.json](./366027-final-fantasy-legend-iii-dx.json) |
 | Final Fantasy Legends: Toki no Suisho | 60600 | [60600-final-fantasy-legends-toki-no-suisho.json](./60600-final-fantasy-legends-toki-no-suisho.json) |
 | Final Fantasy Origins | 417 | [417-final-fantasy-origins.json](./417-final-fantasy-origins.json) |
