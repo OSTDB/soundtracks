@@ -180,11 +180,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Championship Season 2000 | 259641 | [259641-f1-championship-season-2000.json](./259641-f1-championship-season-2000.json) |
 | F1 Championship Season 2000 | 690 | [690-f1-championship-season-2000.json](./690-f1-championship-season-2000.json) |
 | F1 Circus | 37715 | [37715-f1-circus.json](./37715-f1-circus.json) |
+| F1 Circus '91 | 44328 | [44328-f1-circus-91.json](./44328-f1-circus-91.json) |
 | F1 Circus '92 | 37714 | [37714-f1-circus-92.json](./37714-f1-circus-92.json) |
 | F1 Circus CD | 45865 | [45865-f1-circus-cd.json](./45865-f1-circus-cd.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Circus Special: Pole to Win | 185879 | [185879-f1-circus-special-pole-to-win.json](./185879-f1-circus-special-pole-to-win.json) |
 | F1 Clash | 153653 | [153653-f1-clash.json](./153653-f1-clash.json) |
+| F1 Dream | 44327 | [44327-f1-dream.json](./44327-f1-dream.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
 | F1 Grand Prix Star II | 218114 | [218114-f1-grand-prix-star-ii.json](./218114-f1-grand-prix-star-ii.json) |
@@ -199,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Manager 2024: Deluxe Upgrade Pack | 328996 | [328996-f1-manager-2024-deluxe-upgrade-pack.json](./328996-f1-manager-2024-deluxe-upgrade-pack.json) |
 | F1 Manager 2024: Historical Livery Pack | 339293 | [339293-f1-manager-2024-historical-livery-pack.json](./339293-f1-manager-2024-historical-livery-pack.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
+| F1 Pilot | 44326 | [44326-f1-pilot.json](./44326-f1-pilot.json) |
 | F1 Pole Position 2 | 42557 | [42557-f1-pole-position-2.json](./42557-f1-pole-position-2.json) |
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
 | F1 Race | 11689 | [11689-f1-race.json](./11689-f1-race.json) |
@@ -3126,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fault Milestone One | 10528 | [10528-fault-milestone-one.json](./10528-fault-milestone-one.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Fault: Broken Promises | 336619 | [336619-fault-broken-promises.json](./336619-fault-broken-promises.json) |
+| Fault: Silence the Pedant | 44278 | [44278-fault-silence-the-pedant.json](./44278-fault-silence-the-pedant.json) |
 | Faulty Apprentice: Bunny Rabbit Rescue | 170697 | [170697-faulty-apprentice-bunny-rabbit-rescue.json](./170697-faulty-apprentice-bunny-rabbit-rescue.json) |
 | Faulty Apprentice: Escape from Borg Mountain | 170695 | [170695-faulty-apprentice-escape-from-borg-mountain.json](./170695-faulty-apprentice-escape-from-borg-mountain.json) |
 | Faulty Apprentice: Palm Tree Paradise | 170696 | [170696-faulty-apprentice-palm-tree-paradise.json](./170696-faulty-apprentice-palm-tree-paradise.json) |
@@ -4929,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Word Royale | 384900 | [384900-final-word-royale.json](./384900-final-word-royale.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | Final Zone | 344288 | [344288-final-zone.json](./344288-final-zone.json) |
+| Final Zone II | 44314 | [44314-final-zone-ii.json](./44314-final-zone-ii.json) |
 | FinalAdventure | 118811 | [118811-finaladventure.json](./118811-finaladventure.json) |
 | FinalFort | 231556 | [231556-finalfort.json](./231556-finalfort.json) |
 | Finalizer: Super Transformation | 40040 | [40040-finalizer-super-transformation.json](./40040-finalizer-super-transformation.json) |
@@ -9236,6 +9241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation Soccer '98 - Ganbare Nippon in France | 286578 | [286578-formation-soccer-98-ganbare-nippon-in-france.json](./286578-formation-soccer-98-ganbare-nippon-in-france.json) |
 | Formation Soccer 2002 | 49575 | [49575-formation-soccer-2002.json](./49575-formation-soccer-2002.json) |
 | Formation Soccer 95: della Serie A | 65179 | [65179-formation-soccer-95-della-serie-a.json](./65179-formation-soccer-95-della-serie-a.json) |
+| Formation Soccer on J.League | 44329 | [44329-formation-soccer-on-j-league.json](./44329-formation-soccer-on-j-league.json) |
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
 | Formation Z | 346072 | [346072-formation-z.json](./346072-formation-z.json) |
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
