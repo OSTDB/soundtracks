@@ -7604,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
 | Shin Hayarigami 1-2 Pack | 118125 | [118125-shin-hayarigami-1-2-pack.json](./118125-shin-hayarigami-1-2-pack.json) |
+| Shin Hayarigami 2 | 26148 | [26148-shin-hayarigami-2.json](./26148-shin-hayarigami-2.json) |
 | Shin Hayarigami 3 | 146010 | [146010-shin-hayarigami-3.json](./146010-shin-hayarigami-3.json) |
 | Shin Hayarigami: Blindman | 95861 | [95861-shin-hayarigami-blindman.json](./95861-shin-hayarigami-blindman.json) |
 | Shin Hayarigami: Doll | 196705 | [196705-shin-hayarigami-doll.json](./196705-shin-hayarigami-doll.json) |
@@ -12074,6 +12075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashzone | 356014 | [356014-slashzone.json](./356014-slashzone.json) |
 | Slate | 312714 | [312714-slate.json](./312714-slate.json) |
 | Slaugher League | 141529 | [141529-slaugher-league.json](./141529-slaugher-league.json) |
+| Slaughter | 26174 | [26174-slaughter.json](./26174-slaughter.json) |
 | Slaughter | 383031 | [383031-slaughter.json](./383031-slaughter.json) |
 | Slaughter 2: Prison Assault | 102856 | [102856-slaughter-2-prison-assault.json](./102856-slaughter-2-prison-assault.json) |
 | Slaughter 3: The Rebels | 128942 | [128942-slaughter-3-the-rebels.json](./128942-slaughter-3-the-rebels.json) |
@@ -18081,6 +18083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
