@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Glitch | 140949 | [140949-tech-glitch.json](./140949-tech-glitch.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
+| Tech Romancer | 39313 | [39313-tech-romancer.json](./39313-tech-romancer.json) |
 | Tech Shop Simulator | 295762 | [295762-tech-shop-simulator.json](./295762-tech-shop-simulator.json) |
 | Tech Support 2077 | 123957 | [123957-tech-support-2077.json](./123957-tech-support-2077.json) |
 | Tech Support: Error Unknown | 87975 | [87975-tech-support-error-unknown.json](./87975-tech-support-error-unknown.json) |
@@ -17674,6 +17675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World II | 200305 | [200305-the-world-ii.json](./200305-the-world-ii.json) |
 | The World II: Hunting Boss | 17843 | [17843-the-world-ii-hunting-boss.json](./17843-the-world-ii-hunting-boss.json) |
+| The World III: Rise of Demon | 39278 | [39278-the-world-iii-rise-of-demon.json](./39278-the-world-iii-rise-of-demon.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
 | The World is Drowning | 264158 | [264158-the-world-is-drowning.json](./264158-the-world-is-drowning.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
@@ -30408,6 +30410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Circle | 192299 | [192299-twin-circle.json](./192299-twin-circle.json) |
 | Twin Cobra | 384136 | [384136-twin-cobra.json](./384136-twin-cobra.json) |
 | Twin Cobra | 8189 | [8189-twin-cobra.json](./8189-twin-cobra.json) |
+| Twin Cobra II | 39297 | [39297-twin-cobra-ii.json](./39297-twin-cobra-ii.json) |
 | Twin Copters | 287567 | [287567-twin-copters.json](./287567-twin-copters.json) |
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
 | Twin Dragon | 2536 | [2536-twin-dragon.json](./2536-twin-dragon.json) |
@@ -30415,6 +30418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Eagle | 247300 | [247300-twin-eagle.json](./247300-twin-eagle.json) |
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
+| Twin Eagle II: The Rescue Mission | 39296 | [39296-twin-eagle-ii-the-rescue-mission.json](./39296-twin-eagle-ii-the-rescue-mission.json) |
 | Twin Edge | 196961 | [196961-twin-edge.json](./196961-twin-edge.json) |
 | Twin Falcons | 40492 | [40492-twin-falcons.json](./40492-twin-falcons.json) |
 | Twin Fighters X | 358652 | [358652-twin-fighters-x.json](./358652-twin-fighters-x.json) |
