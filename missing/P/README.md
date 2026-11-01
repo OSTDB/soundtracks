@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paravoid | 384046 | [384046-paravoid.json](./384046-paravoid.json) |
 | Paravox | 299089 | [299089-paravox.json](./299089-paravox.json) |
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
+| ParaWorld | 9926 | [9926-paraworld.json](./9926-paraworld.json) |
 | Parcel | 17699 | [17699-parcel.json](./17699-parcel.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
@@ -15885,6 +15886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding Up! | 371324 | [371324-pudding-up.json](./371324-pudding-up.json) |
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddink | 199239 | [199239-puddink.json](./199239-puddink.json) |
+| Puddle | 10728 | [10728-puddle.json](./10728-puddle.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Puddle Knights | 126338 | [126338-puddle-knights.json](./126338-puddle-knights.json) |
 | Puddle Pirates | 176398 | [176398-puddle-pirates.json](./176398-puddle-pirates.json) |
