@@ -16021,6 +16021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Way to Home | 266795 | [266795-drunken-way-to-home.json](./266795-drunken-way-to-home.json) |
 | Drunken Wolf | 358880 | [358880-drunken-wolf.json](./358880-drunken-wolf.json) |
 | Drunken Wrestlers | 127803 | [127803-drunken-wrestlers.json](./127803-drunken-wrestlers.json) |
+| Drunken Wrestlers 2 | 111223 | [111223-drunken-wrestlers-2.json](./111223-drunken-wrestlers-2.json) |
 | Drunkenpants | 80934 | [80934-drunkenpants.json](./80934-drunkenpants.json) |
 | DrunKing | 378399 | [378399-drunking.json](./378399-drunking.json) |
 | Drunkknight | 195689 | [195689-drunkknight.json](./195689-drunkknight.json) |
