@@ -8694,6 +8694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack: Cheat the House! | 405149 | [405149-blackjack-cheat-the-house.json](./405149-blackjack-cheat-the-house.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
 | Blackjack/Poker/Acey-Deucey | 100176 | [100176-blackjack-poker-acey-deucey.json](./100176-blackjack-poker-acey-deucey.json) |
+| Blacklight: Retribution | 2118 | [2118-blacklight-retribution.json](./2118-blacklight-retribution.json) |
 | Blacklight: Retribution - Evacuation Pack | 226259 | [226259-blacklight-retribution-evacuation-pack.json](./226259-blacklight-retribution-evacuation-pack.json) |
 | Blacklight: Tango Down | 8481 | [8481-blacklight-tango-down.json](./8481-blacklight-tango-down.json) |
 | Blacklist Mafia | 293098 | [293098-blacklist-mafia.json](./293098-blacklist-mafia.json) |
