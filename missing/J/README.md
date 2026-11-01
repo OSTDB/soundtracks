@@ -2058,6 +2058,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Sammy Revolution | 382841 | [382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json](./382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json) |
 | Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2 | 82305 | [82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json](./82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json) |
 | Jissen Pachi-Slot Hisshouhou! Savana Park | 82301 | [82301-jissen-pachi-slot-hisshouhou-savana-park.json](./82301-jissen-pachi-slot-hisshouhou-savana-park.json) |
+| Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider & Gallop | 61917 | [61917-jissen-pachi-slot-hisshouhou-single-kamen-rider-and-gallop.json](./61917-jissen-pachi-slot-hisshouhou-single-kamen-rider-and-gallop.json) |
+| Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider V3 | 61918 | [61918-jissen-pachi-slot-hisshouhou-single-kamen-rider-v3.json](./61918-jissen-pachi-slot-hisshouhou-single-kamen-rider-v3.json) |
 | Jissen Pachi-Slot Hisshouhou! Twin | 42645 | [42645-jissen-pachi-slot-hisshouhou-twin.json](./42645-jissen-pachi-slot-hisshouhou-twin.json) |
 | Jissen Pachi-Slot Hisshouhou! Ultraman Club ST | 82306 | [82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json](./82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json) |
 | Jissen Pachi-Slot Hisshouhou! Yamasa Densetsu | 67711 | [67711-jissen-pachi-slot-hisshouhou-yamasa-densetsu.json](./67711-jissen-pachi-slot-hisshouhou-yamasa-densetsu.json) |
@@ -2112,8 +2114,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JM Neto Game Dev 06 Games | 332029 | [332029-jm-neto-game-dev-06-games.json](./332029-jm-neto-game-dev-06-games.json) |
 | JMPR | 164969 | [164969-jmpr.json](./164969-jmpr.json) |
 | JNKBombers | 80605 | [80605-jnkbombers.json](./80605-jnkbombers.json) |
+| JNKPlat | 61946 | [61946-jnkplat.json](./61946-jnkplat.json) |
 | JNKPlat 2018 | 125324 | [125324-jnkplat-2018.json](./125324-jnkplat-2018.json) |
 | JNKPlat Slots | 79171 | [79171-jnkplat-slots.json](./79171-jnkplat-slots.json) |
+| JNKPlat: Platdude's Xmas Adventure | 61947 | [61947-jnkplat-platdudes-xmas-adventure.json](./61947-jnkplat-platdudes-xmas-adventure.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jo and Momo: Forest Rush | 101774 | [101774-jo-and-momo-forest-rush.json](./101774-jo-and-momo-forest-rush.json) |
 | Jo Jo Wo | 239824 | [239824-jo-jo-wo.json](./239824-jo-jo-wo.json) |
