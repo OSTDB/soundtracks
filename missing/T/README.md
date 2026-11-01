@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
 | Techwars Online | 95703 | [95703-techwars-online.json](./95703-techwars-online.json) |
+| Techwars Online 2 | 31454 | [31454-techwars-online-2.json](./31454-techwars-online-2.json) |
 | Teck Boxing 3D | 110619 | [110619-teck-boxing-3d.json](./110619-teck-boxing-3d.json) |
 | Tecktonik World Tour | 92671 | [92671-tecktonik-world-tour.json](./92671-tecktonik-world-tour.json) |
 | Tecmo Baseball | 48228 | [48228-tecmo-baseball.json](./48228-tecmo-baseball.json) |
@@ -6952,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Conqueror of Battles | 195467 | [195467-the-conqueror-of-battles.json](./195467-the-conqueror-of-battles.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consortium: Master Edition | 51699 | [51699-the-consortium-master-edition.json](./51699-the-consortium-master-edition.json) |
+| The Construct | 31388 | [31388-the-construct.json](./31388-the-construct.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
 | The Contact | 288981 | [288981-the-contact.json](./288981-the-contact.json) |
 | The Contact | 34717 | [34717-the-contact.json](./34717-the-contact.json) |
