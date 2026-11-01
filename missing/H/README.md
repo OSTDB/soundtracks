@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowed Haven | 292973 | [292973-hallowed-haven.json](./292973-hallowed-haven.json) |
 | Hallowed Legends: Samhain - Collector's Edition | 375380 | [375380-hallowed-legends-samhain-collectors-edition.json](./375380-hallowed-legends-samhain-collectors-edition.json) |
 | Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
+| Hallowed Legends: Templar | 57965 | [57965-hallowed-legends-templar.json](./57965-hallowed-legends-templar.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
 | Hallowed Pumpkins | 224836 | [224836-hallowed-pumpkins.json](./224836-hallowed-pumpkins.json) |
 | Halloweeeen! | 407922 | [407922-halloweeeen.json](./407922-halloweeeen.json) |
@@ -10644,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Simulator | 128246 | [128246-human-simulator.json](./128246-human-simulator.json) |
 | Human Souvenir | 298369 | [298369-human-souvenir.json](./298369-human-souvenir.json) |
 | Human Spiderweb | 374230 | [374230-human-spiderweb.json](./374230-human-spiderweb.json) |
+| Human Sports Festival | 57955 | [57955-human-sports-festival.json](./57955-human-sports-festival.json) |
 | Human Upgrade Labs | 298114 | [298114-human-upgrade-labs.json](./298114-human-upgrade-labs.json) |
 | Human Vs Evil | 148316 | [148316-human-vs-evil.json](./148316-human-vs-evil.json) |
 | Human vs Food | 190435 | [190435-human-vs-food.json](./190435-human-vs-food.json) |
