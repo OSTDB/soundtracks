@@ -6791,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shararam | 329986 | [329986-shararam.json](./329986-shararam.json) |
 | Shard | 61849 | [61849-shard.json](./61849-shard.json) |
 | Shard Legends: Clan Wars | 396657 | [396657-shard-legends-clan-wars.json](./396657-shard-legends-clan-wars.json) |
+| Shard of Inovar | 54671 | [54671-shard-of-inovar.json](./54671-shard-of-inovar.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
 | Shard Seekers | 267823 | [267823-shard-seekers.json](./267823-shard-seekers.json) |
@@ -16668,6 +16669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora to Kimi Iro | 275152 | [275152-sora-to-kimi-iro.json](./275152-sora-to-kimi-iro.json) |
 | Sora to Muku no 6-ki | 283583 | [283583-sora-to-muku-no-6-ki.json](./283583-sora-to-muku-no-6-ki.json) |
+| Sora to Umi no Aida | 54753 | [54753-sora-to-umi-no-aida.json](./54753-sora-to-umi-no-aida.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
 | Sora Yume | 61273 | [61273-sora-yume.json](./61273-sora-yume.json) |
 | Sora Yume Portable | 221617 | [221617-sora-yume-portable.json](./221617-sora-yume-portable.json) |
@@ -17934,6 +17936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -17990,6 +17993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
 | Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
 | Space Invaders Forever: Special Edition | 171859 | [171859-space-invaders-forever-special-edition.json](./171859-space-invaders-forever-special-edition.json) |
+| Space Invaders Frenzy | 54762 | [54762-space-invaders-frenzy.json](./54762-space-invaders-frenzy.json) |
 | Space Invaders Get Even | 21789 | [21789-space-invaders-get-even.json](./21789-space-invaders-get-even.json) |
 | Space Invaders Gigamax | 401283 | [401283-space-invaders-gigamax.json](./401283-space-invaders-gigamax.json) |
 | Space Invaders II | 46839 | [46839-space-invaders-ii.json](./46839-space-invaders-ii.json) |
@@ -24282,6 +24286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step 'N Smush | 404791 | [404791-step-n-smush.json](./404791-step-n-smush.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
 | Step by star | 75528 | [75528-step-by-star.json](./75528-step-by-star.json) |
+| Step By Step | 54646 | [54646-step-by-step.json](./54646-step-by-step.json) |
 | Step By Step Hero | 221099 | [221099-step-by-step-hero.json](./221099-step-by-step-hero.json) |
 | Step into the Abyss | 298123 | [298123-step-into-the-abyss.json](./298123-step-into-the-abyss.json) |
 | Step Into the Dark | 400365 | [400365-step-into-the-dark.json](./400365-step-into-the-dark.json) |
@@ -24820,6 +24825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Story RPG | 56485 | [56485-stone-story-rpg.json](./56485-stone-story-rpg.json) |
 | Stone Story: Ascension | 392328 | [392328-stone-story-ascension.json](./392328-stone-story-ascension.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
+| Stone Walkers | 54749 | [54749-stone-walkers.json](./54749-stone-walkers.json) |
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | Stone Wheel | 246426 | [246426-stone-wheel.json](./246426-stone-wheel.json) |
 | Stone Wheel 2: Bee Legend | 235139 | [235139-stone-wheel-2-bee-legend.json](./235139-stone-wheel-2-bee-legend.json) |
