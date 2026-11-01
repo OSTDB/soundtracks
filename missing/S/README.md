@@ -4653,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Network Taisen Mahjong MJ2 | 165299 | [165299-sega-network-taisen-mahjong-mj2.json](./165299-sega-network-taisen-mahjong-mj2.json) |
 | Sega Network Taisen Mahjong MJ3 | 165300 | [165300-sega-network-taisen-mahjong-mj3.json](./165300-sega-network-taisen-mahjong-mj3.json) |
 | Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
+| Sega Ninja | 38634 | [38634-sega-ninja.json](./38634-sega-ninja.json) |
 | Sega Puzzle Pack | 56839 | [56839-sega-puzzle-pack.json](./56839-sega-puzzle-pack.json) |
 | Sega Race TV | 19523 | [19523-sega-race-tv.json](./19523-sega-race-tv.json) |
 | Sega Raceway | 198636 | [198636-sega-raceway.json](./198636-sega-raceway.json) |
@@ -5572,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Kingdoms: Ancient Adversaries | 33303 | [33303-seven-kingdoms-ancient-adversaries.json](./33303-seven-kingdoms-ancient-adversaries.json) |
 | Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
+| Seven Knights | 38689 | [38689-seven-knights.json](./38689-seven-knights.json) |
 | Seven Knights 2 | 140885 | [140885-seven-knights-2.json](./140885-seven-knights-2.json) |
 | Seven Knights Idle Adventure | 265746 | [265746-seven-knights-idle-adventure.json](./265746-seven-knights-idle-adventure.json) |
 | Seven Knights Re:Birth | 366551 | [366551-seven-knights-re-birth.json](./366551-seven-knights-re-birth.json) |
@@ -22177,6 +22179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
 | Star Legends | 294107 | [294107-star-legends.json](./294107-star-legends.json) |
+| Star Legends | 38688 | [38688-star-legends.json](./38688-star-legends.json) |
 | Star Legends Pro (Dreamsky) | 97168 | [97168-star-legends-pro-dreamsky.json](./97168-star-legends-pro-dreamsky.json) |
 | Star Life | 326515 | [326515-star-life.json](./326515-star-life.json) |
 | Star Light | 100271 | [100271-star-light.json](./100271-star-light.json) |
