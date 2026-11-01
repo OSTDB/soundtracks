@@ -881,7 +881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3775,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle World: Kronos - Special Edition | 52455 | [52455-battle-world-kronos-special-edition.json](./52455-battle-world-kronos-special-edition.json) |
 | Battle Worlds: Kronos | 7206 | [7206-battle-worlds-kronos.json](./7206-battle-worlds-kronos.json) |
+| Battle Wrath | 46934 | [46934-battle-wrath.json](./46934-battle-wrath.json) |
 | Battle X Arcade | 110961 | [110961-battle-x-arcade.json](./110961-battle-x-arcade.json) |
 | Battle x Battle: Kyoudai Uo Densetsu | 49486 | [49486-battle-x-battle-kyoudai-uo-densetsu.json](./49486-battle-x-battle-kyoudai-uo-densetsu.json) |
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
@@ -7698,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Hunt | 100508 | [100508-bird-hunt.json](./100508-bird-hunt.json) |
 | Bird Hunter | 246433 | [246433-bird-hunter.json](./246433-bird-hunter.json) |
 | Bird Hunter 2003: Legendary Hunting | 69525 | [69525-bird-hunter-2003-legendary-hunting.json](./69525-bird-hunter-2003-legendary-hunting.json) |
+| Bird Hunter: Upland Edition | 46952 | [46952-bird-hunter-upland-edition.json](./46952-bird-hunter-upland-edition.json) |
 | Bird Hunter: Wild Wings Edition | 73491 | [73491-bird-hunter-wild-wings-edition.json](./73491-bird-hunter-wild-wings-edition.json) |
 | Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
 | Bird Kind | 384561 | [384561-bird-kind.json](./384561-bird-kind.json) |
@@ -11030,6 +11031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder | 83246 | [83246-bob-the-builder.json](./83246-bob-the-builder.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
 | Bob the Builder: Bob's Busy Day | 79712 | [79712-bob-the-builder-bobs-busy-day.json](./79712-bob-the-builder-bobs-busy-day.json) |
+| Bob the Builder: Bob's Castle Adventure | 47009 | [47009-bob-the-builder-bobs-castle-adventure.json](./47009-bob-the-builder-bobs-castle-adventure.json) |
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
 | Bob the Builder: Can We Fix It? | 44890 | [44890-bob-the-builder-can-we-fix-it.json](./44890-bob-the-builder-can-we-fix-it.json) |
 | Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
