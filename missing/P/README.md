@@ -9181,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation Network Collection: Power Pack | 79651 | [79651-playstation-network-collection-power-pack.json](./79651-playstation-network-collection-power-pack.json) |
 | PlayStation Network Collection: Puzzle Pack | 80160 | [80160-playstation-network-collection-puzzle-pack.json](./80160-playstation-network-collection-puzzle-pack.json) |
 | PlayStation Vita Pets | 63011 | [63011-playstation-vita-pets.json](./63011-playstation-vita-pets.json) |
+| PlayStation VR Worlds | 24781 | [24781-playstation-vr-worlds.json](./24781-playstation-vr-worlds.json) |
 | Plaything | 142827 | [142827-plaything.json](./142827-plaything.json) |
 | Plaything | 342120 | [342120-plaything.json](./342120-plaything.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
@@ -9853,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point | 97929 | [97929-point.json](./97929-point.json) |
 | Point & Sin | 184843 | [184843-point-and-sin.json](./184843-point-and-sin.json) |
 | Point Blank | 13899 | [13899-point-blank.json](./13899-point-blank.json) |
+| Point Blank | 74859 | [74859-point-blank.json](./74859-point-blank.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
 | Point Blank 3 | 44979 | [44979-point-blank-3.json](./44979-point-blank-3.json) |
 | Point Blank X | 243045 | [243045-point-blank-x.json](./243045-point-blank-x.json) |
@@ -11482,6 +11484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
 | Poochie Puppy | 347074 | [347074-poochie-puppy.json](./347074-poochie-puppy.json) |
+| Poochy & Yoshi's Woolly World | 27033 | [27033-poochy-and-yoshis-woolly-world.json](./27033-poochy-and-yoshis-woolly-world.json) |
 | Poodle Clicker | 309391 | [309391-poodle-clicker.json](./309391-poodle-clicker.json) |
 | Poodle Jump! | 368997 | [368997-poodle-jump.json](./368997-poodle-jump.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
@@ -16585,6 +16588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushle Deluxe | 328896 | [328896-pushle-deluxe.json](./328896-pushle-deluxe.json) |
 | Pushman | 247313 | [247313-pushman.json](./247313-pushman.json) |
 | Pushmasters | 51669 | [51669-pushmasters.json](./51669-pushmasters.json) |
+| Pushmo | 22921 | [22921-pushmo.json](./22921-pushmo.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
 | Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
 | Pushover | 327781 | [327781-pushover.json](./327781-pushover.json) |
