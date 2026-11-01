@@ -11653,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
 | Arcade Shop Simulator | 388791 | [388791-arcade-shop-simulator.json](./388791-arcade-shop-simulator.json) |
 | Arcade Simulator | 118001 | [118001-arcade-simulator.json](./118001-arcade-simulator.json) |
+| Arcade Slots: AGAW Edition | 61931 | [61931-arcade-slots-agaw-edition.json](./61931-arcade-slots-agaw-edition.json) |
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade Space Survivor | 303342 | [303342-arcade-space-survivor.json](./303342-arcade-space-survivor.json) |
@@ -14150,6 +14151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astebros | 250797 | [250797-astebros.json](./250797-astebros.json) |
 | Asteidus | 119350 | [119350-asteidus.json](./119350-asteidus.json) |
 | Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
+| Asteka | 61939 | [61939-asteka.json](./61939-asteka.json) |
 | Astelight Shissouki | 59172 | [59172-astelight-shissouki.json](./59172-astelight-shissouki.json) |
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
 | Astellia Royal | 160000 | [160000-astellia-royal.json](./160000-astellia-royal.json) |
