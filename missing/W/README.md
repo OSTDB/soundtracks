@@ -6137,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz-herd | 346541 | [346541-wiz-herd.json](./346541-wiz-herd.json) |
 | Wizabeasts | 235792 | [235792-wizabeasts.json](./235792-wizabeasts.json) |
 | Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
+| Wizap! Ankoku no Ou | 42294 | [42294-wizap-ankoku-no-ou.json](./42294-wizap-ankoku-no-ou.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
 | Wizard | 151933 | [151933-wizard.json](./151933-wizard.json) |
 | Wizard | 25797 | [25797-wizard.json](./25797-wizard.json) |
@@ -6246,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Gaiden I: Suffering of the Queen | 49091 | [49091-wizardry-gaiden-i-suffering-of-the-queen.json](./49091-wizardry-gaiden-i-suffering-of-the-queen.json) |
 | Wizardry Gaiden II: Curse of the Ancient Emperor | 49092 | [49092-wizardry-gaiden-ii-curse-of-the-ancient-emperor.json](./49092-wizardry-gaiden-ii-curse-of-the-ancient-emperor.json) |
 | Wizardry Gaiden III: Scripture of the Dark | 49144 | [49144-wizardry-gaiden-iii-scripture-of-the-dark.json](./49144-wizardry-gaiden-iii-scripture-of-the-dark.json) |
+| Wizardry Gaiden IV: Throb of the Demon's Heart | 42314 | [42314-wizardry-gaiden-iv-throb-of-the-demons-heart.json](./42314-wizardry-gaiden-iv-throb-of-the-demons-heart.json) |
 | Wizardry Gold | 62399 | [62399-wizardry-gold.json](./62399-wizardry-gold.json) |
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
 | Wizardry I-II-III: The Story of Llylgamyn | 42528 | [42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json](./42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json) |
