@@ -5405,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne | 196251 | [196251-max-payne.json](./196251-max-payne.json) |
 | Max Payne 2 | 196252 | [196252-max-payne-2.json](./196252-max-payne-2.json) |
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
+| Max Payne 3: Special Edition | 42972 | [42972-max-payne-3-special-edition.json](./42972-max-payne-3-special-edition.json) |
 | Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
 | Max Payne@University | 218649 | [218649-max-payne-university.json](./218649-max-payne-university.json) |
 | Max Power Racing | 251135 | [251135-max-power-racing.json](./251135-max-power-racing.json) |
@@ -6343,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Allied Assault - War Chest | 51836 | [51836-medal-of-honor-allied-assault-war-chest.json](./51836-medal-of-honor-allied-assault-war-chest.json) |
 | Medal of Honor: Complete Collection | 120544 | [120544-medal-of-honor-complete-collection.json](./120544-medal-of-honor-complete-collection.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
+| Medal of Honor: Limited Edition | 42995 | [42995-medal-of-honor-limited-edition.json](./42995-medal-of-honor-limited-edition.json) |
 | Medal of Honor: Pacific Assault - Director's Edition | 131852 | [131852-medal-of-honor-pacific-assault-directors-edition.json](./131852-medal-of-honor-pacific-assault-directors-edition.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
 | Medal of Honor: Underground | 165307 | [165307-medal-of-honor-underground.json](./165307-medal-of-honor-underground.json) |
@@ -8929,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
 | Metal Gear Solid: Digital Graphic Novel | 77232 | [77232-metal-gear-solid-digital-graphic-novel.json](./77232-metal-gear-solid-digital-graphic-novel.json) |
 | Metal Gear Solid: Fight of the Metal Gears | 331973 | [331973-metal-gear-solid-fight-of-the-metal-gears.json](./331973-metal-gear-solid-fight-of-the-metal-gears.json) |
+| Metal Gear Solid: HD Collection Limited Edition | 42981 | [42981-metal-gear-solid-hd-collection-limited-edition.json](./42981-metal-gear-solid-hd-collection-limited-edition.json) |
 | Metal Gear Solid: Integral | 41037 | [41037-metal-gear-solid-integral.json](./41037-metal-gear-solid-integral.json) |
 | Metal Gear Solid: Lunacy of Legion | 351216 | [351216-metal-gear-solid-lunacy-of-legion.json](./351216-metal-gear-solid-lunacy-of-legion.json) |
 | Metal Gear Solid: Master Collection Version | 393638 | [393638-metal-gear-solid-master-collection-version.json](./393638-metal-gear-solid-master-collection-version.json) |
@@ -15844,6 +15847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
 | Mortal Kombat vs DC Universe: Silver Shield Combo Pack | 136302 | [136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json](./136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json) |
 | Mortal Kombat vs. DC Universe | 1617 | [1617-mortal-kombat-vs-dc-universe.json](./1617-mortal-kombat-vs-dc-universe.json) |
+| Mortal Kombat vs. DC Universe: Kollector's Edition | 43005 | [43005-mortal-kombat-vs-dc-universe-kollectors-edition.json](./43005-mortal-kombat-vs-dc-universe-kollectors-edition.json) |
 | Mortal Kombat X | 241492 | [241492-mortal-kombat-x.json](./241492-mortal-kombat-x.json) |
 | Mortal Kombat X: Alien | 27889 | [27889-mortal-kombat-x-alien.json](./27889-mortal-kombat-x-alien.json) |
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
@@ -16475,6 +16479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager: Endurance Series | 163649 | [163649-motorsport-manager-endurance-series.json](./163649-motorsport-manager-endurance-series.json) |
 | MotorSport Revolution | 17718 | [17718-motorsport-revolution.json](./17718-motorsport-revolution.json) |
 | MotorStorm | 2553 | [2553-motorstorm.json](./2553-motorstorm.json) |
+| MotorStorm Complete | 43016 | [43016-motorstorm-complete.json](./43016-motorstorm-complete.json) |
 | Motorstorm Pacific Rift: Adrenaline Expansion | 277234 | [277234-motorstorm-pacific-rift-adrenaline-expansion.json](./277234-motorstorm-pacific-rift-adrenaline-expansion.json) |
 | Motorstorm Pacific Rift: Speed Expansion | 277233 | [277233-motorstorm-pacific-rift-speed-expansion.json](./277233-motorstorm-pacific-rift-speed-expansion.json) |
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
