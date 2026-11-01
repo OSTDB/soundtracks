@@ -9441,6 +9441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roids | 264564 | [264564-roids.json](./264564-roids.json) |
 | Rojiura Glory Hole | 193264 | [193264-rojiura-glory-hole.json](./193264-rojiura-glory-hole.json) |
 | Rojiura Satsuki: Chapter Heroine Sanctuary | 225654 | [225654-rojiura-satsuki-chapter-heroine-sanctuary.json](./225654-rojiura-satsuki-chapter-heroine-sanctuary.json) |
+| Rojo Ninja | 53522 | [53522-rojo-ninja.json](./53522-rojo-ninja.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Roketz | 148717 | [148717-roketz.json](./148717-roketz.json) |
 | Roketz | 148740 | [148740-roketz.json](./148740-roketz.json) |
@@ -9606,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon World | 7627 | [7627-rollercoaster-tycoon-world.json](./7627-rollercoaster-tycoon-world.json) |
 | RollerCoaster Tycoon World Deluxe | 25053 | [25053-rollercoaster-tycoon-world-deluxe.json](./25053-rollercoaster-tycoon-world-deluxe.json) |
+| RollerCoaster Tycoon World: Deluxe Edition | 53524 | [53524-rollercoaster-tycoon-world-deluxe-edition.json](./53524-rollercoaster-tycoon-world-deluxe-edition.json) |
 | RollerCoaster Tycoon: Corkscrew Follies | 19528 | [19528-rollercoaster-tycoon-corkscrew-follies.json](./19528-rollercoaster-tycoon-corkscrew-follies.json) |
 | RollerCoaster Tycoon: Deluxe | 36444 | [36444-rollercoaster-tycoon-deluxe.json](./36444-rollercoaster-tycoon-deluxe.json) |
 | RollerCoaster Tycoon: Loopy Landscapes | 19529 | [19529-rollercoaster-tycoon-loopy-landscapes.json](./19529-rollercoaster-tycoon-loopy-landscapes.json) |
@@ -9956,6 +9958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
 | Ronnie O'Sullivan's Snooker | 64669 | [64669-ronnie-osullivans-snooker.json](./64669-ronnie-osullivans-snooker.json) |
+| Ronny Runs Around Robots | 53526 | [53526-ronny-runs-around-robots.json](./53526-ronny-runs-around-robots.json) |
 | Ronny's Climb | 291079 | [291079-ronnys-climb.json](./291079-ronnys-climb.json) |
 | Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
 | Rontgard | 398553 | [398553-rontgard.json](./398553-rontgard.json) |
@@ -10614,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
 | Royal Defense: Ancient Menace | 337586 | [337586-royal-defense-ancient-menace.json](./337586-royal-defense-ancient-menace.json) |
+| Royal Defense: Complete Edition | 53527 | [53527-royal-defense-complete-edition.json](./53527-royal-defense-complete-edition.json) |
 | Royal Defense: Invisible Threat | 25510 | [25510-royal-defense-invisible-threat.json](./25510-royal-defense-invisible-threat.json) |
 | Royal Dental | 389526 | [389526-royal-dental.json](./389526-royal-dental.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
@@ -10731,10 +10735,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
 | RPG Maker Fes | 27291 | [27291-rpg-maker-fes.json](./27291-rpg-maker-fes.json) |
 | RPG Maker II | 43556 | [43556-rpg-maker-ii.json](./43556-rpg-maker-ii.json) |
+| RPG Maker Millennium Collection | 53530 | [53530-rpg-maker-millennium-collection.json](./53530-rpg-maker-millennium-collection.json) |
 | RPG Maker MV Trinity | 136722 | [136722-rpg-maker-mv-trinity.json](./136722-rpg-maker-mv-trinity.json) |
+| RPG Maker MV: Adventurer's Journey | 53535 | [53535-rpg-maker-mv-adventurers-journey.json](./53535-rpg-maker-mv-adventurers-journey.json) |
+| RPG Maker MV: Essentials Set | 53531 | [53531-rpg-maker-mv-essentials-set.json](./53531-rpg-maker-mv-essentials-set.json) |
+| RPG Maker MV: Frontier Works Futuristic Heroes and BGM | 53541 | [53541-rpg-maker-mv-frontier-works-futuristic-heroes-and-bgm.json](./53541-rpg-maker-mv-frontier-works-futuristic-heroes-and-bgm.json) |
+| RPG Maker MV: Futuristic Atmospheres | 53542 | [53542-rpg-maker-mv-futuristic-atmospheres.json](./53542-rpg-maker-mv-futuristic-atmospheres.json) |
+| RPG Maker MV: JSM Party Themes | 53544 | [53544-rpg-maker-mv-jsm-party-themes.json](./53544-rpg-maker-mv-jsm-party-themes.json) |
+| RPG Maker MV: Sci Fi Battlebacks | 53549 | [53549-rpg-maker-mv-sci-fi-battlebacks.json](./53549-rpg-maker-mv-sci-fi-battlebacks.json) |
+| RPG Maker MV: The Adventurer's Journey II | 53553 | [53553-rpg-maker-mv-the-adventurers-journey-ii.json](./53553-rpg-maker-mv-the-adventurers-journey-ii.json) |
+| RPG Maker MV: Time Fantasy | 53554 | [53554-rpg-maker-mv-time-fantasy.json](./53554-rpg-maker-mv-time-fantasy.json) |
+| RPG Maker MV: Zonderland | 53556 | [53556-rpg-maker-mv-zonderland.json](./53556-rpg-maker-mv-zonderland.json) |
+| RPG Maker MZ: Sinister Hollows | 53551 | [53551-rpg-maker-mz-sinister-hollows.json](./53551-rpg-maker-mz-sinister-hollows.json) |
 | RPG Maker U2U | 402546 | [402546-rpg-maker-u2u.json](./402546-rpg-maker-u2u.json) |
 | RPG Maker VX | 80205 | [80205-rpg-maker-vx.json](./80205-rpg-maker-vx.json) |
 | RPG Maker VX Ace | 30151 | [30151-rpg-maker-vx-ace.json](./30151-rpg-maker-vx-ace.json) |
+| RPG Maker VX Ace: Adventurer's Final Journey | 53534 | [53534-rpg-maker-vx-ace-adventurers-final-journey.json](./53534-rpg-maker-vx-ace-adventurers-final-journey.json) |
+| RPG Maker VX Ace: Arabian Nights | 53536 | [53536-rpg-maker-vx-ace-arabian-nights.json](./53536-rpg-maker-vx-ace-arabian-nights.json) |
+| RPG Maker VX Ace: Dead or Alive | 53537 | [53537-rpg-maker-vx-ace-dead-or-alive.json](./53537-rpg-maker-vx-ace-dead-or-alive.json) |
+| RPG Maker VX Ace: Egyptian Myth Battlers | 53539 | [53539-rpg-maker-vx-ace-egyptian-myth-battlers.json](./53539-rpg-maker-vx-ace-egyptian-myth-battlers.json) |
+| RPG Maker VX Ace: Forest of the Necromancer Soundscapes | 53540 | [53540-rpg-maker-vx-ace-forest-of-the-necromancer-soundscapes.json](./53540-rpg-maker-vx-ace-forest-of-the-necromancer-soundscapes.json) |
+| RPG Maker VX Ace: Frontier Works - Horror Interior Tiles | 53532 | [53532-rpg-maker-vx-ace-frontier-works-horror-interior-tiles.json](./53532-rpg-maker-vx-ace-frontier-works-horror-interior-tiles.json) |
+| RPG Maker VX Ace: High Fantasy: The Deep | 53543 | [53543-rpg-maker-vx-ace-high-fantasy-the-deep.json](./53543-rpg-maker-vx-ace-high-fantasy-the-deep.json) |
+| RPG Maker VX Ace: Luna Engine | 53545 | [53545-rpg-maker-vx-ace-luna-engine.json](./53545-rpg-maker-vx-ace-luna-engine.json) |
+| RPG Maker VX Ace: Monster Legacy 1 | 53546 | [53546-rpg-maker-vx-ace-monster-legacy-1.json](./53546-rpg-maker-vx-ace-monster-legacy-1.json) |
+| RPG Maker VX Ace: Tarot Battlers | 53552 | [53552-rpg-maker-vx-ace-tarot-battlers.json](./53552-rpg-maker-vx-ace-tarot-battlers.json) |
+| RPG Maker VX Ace: Winter Wonderland Tiles | 53555 | [53555-rpg-maker-vx-ace-winter-wonderland-tiles.json](./53555-rpg-maker-vx-ace-winter-wonderland-tiles.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
@@ -10760,9 +10786,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
 | RPG Tsukuuru 95 | 63512 | [63512-rpg-tsukuuru-95.json](./63512-rpg-tsukuuru-95.json) |
 | RPG Tsukuuru Advance | 49795 | [49795-rpg-tsukuuru-advance.json](./49795-rpg-tsukuuru-advance.json) |
+| RPG Tsukuuru DS+ Expansion - Retro SciFi | 53538 | [53538-rpg-tsukuuru-ds-expansion-retro-scifi.json](./53538-rpg-tsukuuru-ds-expansion-retro-scifi.json) |
 | RPG Tsukuuru DS+: Create the New World | 63508 | [63508-rpg-tsukuuru-ds-create-the-new-world.json](./63508-rpg-tsukuuru-ds-create-the-new-world.json) |
 | RPG Tsukuuru: Super Dante | 63509 | [63509-rpg-tsukuuru-super-dante.json](./63509-rpg-tsukuuru-super-dante.json) |
 | RPG Tycoon | 17654 | [17654-rpg-tycoon.json](./17654-rpg-tycoon.json) |
+| RPG Tycoon: Deluxe Edition | 53557 | [53557-rpg-tycoon-deluxe-edition.json](./53557-rpg-tycoon-deluxe-edition.json) |
+| RPG Tycoon: Gold Edition | 53558 | [53558-rpg-tycoon-gold-edition.json](./53558-rpg-tycoon-gold-edition.json) |
 | RPG Tycoon: Supply & Demand | 164507 | [164507-rpg-tycoon-supply-and-demand.json](./164507-rpg-tycoon-supply-and-demand.json) |
 | RPG Workshop Max | 232708 | [232708-rpg-workshop-max.json](./232708-rpg-workshop-max.json) |
 | RPG Workshop Max 2 | 262444 | [262444-rpg-workshop-max-2.json](./262444-rpg-workshop-max-2.json) |
@@ -11121,6 +11150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule the Waves 3 | 249172 | [249172-rule-the-waves-3.json](./249172-rule-the-waves-3.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
 | Rule the Waves II | 147020 | [147020-rule-the-waves-ii.json](./147020-rule-the-waves-ii.json) |
+| Rule the World in Peace | 53559 | [53559-rule-the-world-in-peace.json](./53559-rule-the-world-in-peace.json) |
 | Rule with an Iron Fish | 55122 | [55122-rule-with-an-iron-fish.json](./55122-rule-with-an-iron-fish.json) |
 | Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
 | Rule: After Waking Up, Please Don't Call Me | 415848 | [415848-rule-after-waking-up-please-dont-call-me.json](./415848-rule-after-waking-up-please-dont-call-me.json) |
@@ -11426,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Runback | 400815 | [400815-runback.json](./400815-runback.json) |
+| Runbow: Complete Collection | 53561 | [53561-runbow-complete-collection.json](./53561-runbow-complete-collection.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
 | Rundom | 149817 | [149817-rundom.json](./149817-rundom.json) |
@@ -11597,6 +11628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner Heroes: The Curse of Night and Day | 127001 | [127001-runner-heroes-the-curse-of-night-and-day.json](./127001-runner-heroes-the-curse-of-night-and-day.json) |
 | Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
+| Runner: Dark Pulse | 53562 | [53562-runner-dark-pulse.json](./53562-runner-dark-pulse.json) |
 | Runner: Preamble | 219907 | [219907-runner-preamble.json](./219907-runner-preamble.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
@@ -12053,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rythm | 112331 | [112331-rythm.json](./112331-rythm.json) |
 | Rytmik Retrobits | 84908 | [84908-rytmik-retrobits.json](./84908-rytmik-retrobits.json) |
 | Rytmik Ultimate | 74812 | [74812-rytmik-ultimate.json](./74812-rytmik-ultimate.json) |
+| Rytmik Ultimate Complete | 53563 | [53563-rytmik-ultimate-complete.json](./53563-rytmik-ultimate-complete.json) |
 | Rytmik World Music | 84906 | [84906-rytmik-world-music.json](./84906-rytmik-world-music.json) |
 | Rytmik: Rock Edition | 84905 | [84905-rytmik-rock-edition.json](./84905-rytmik-rock-edition.json) |
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
