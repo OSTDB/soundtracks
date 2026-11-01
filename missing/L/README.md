@@ -5847,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 3: Turkey Head Costume | 321195 | [321195-littlebigplanet-3-turkey-head-costume.json](./321195-littlebigplanet-3-turkey-head-costume.json) |
 | LittleBigPlanet 3: Winter Seasonal Creator Kit | 321196 | [321196-littlebigplanet-3-winter-seasonal-creator-kit.json](./321196-littlebigplanet-3-winter-seasonal-creator-kit.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
+| LittleBigPlanet Karting | 8186 | [8186-littlebigplanet-karting.json](./8186-littlebigplanet-karting.json) |
 | LittleBigPlanet PS Vita | 95002 | [95002-littlebigplanet-ps-vita.json](./95002-littlebigplanet-ps-vita.json) |
 | LittleBigPlanet PS Vita: DC Comics Premium Level Pack | 344442 | [344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json](./344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet PS Vita: Marvel Arcade Pack | 147278 | [147278-littlebigplanet-ps-vita-marvel-arcade-pack.json](./147278-littlebigplanet-ps-vita-marvel-arcade-pack.json) |
@@ -6716,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Live the Axe | 122858 | [122858-long-live-the-axe.json](./122858-long-live-the-axe.json) |
 | Long Live The Emperor | 419953 | [419953-long-live-the-emperor.json](./419953-long-live-the-emperor.json) |
 | Long Live the King! | 213246 | [213246-long-live-the-king.json](./213246-long-live-the-king.json) |
+| Long Live the Queen | 9722 | [9722-long-live-the-queen.json](./9722-long-live-the-queen.json) |
 | Long Long: A Snake Lies in the Past | 185353 | [185353-long-long-a-snake-lies-in-the-past.json](./185353-long-long-a-snake-lies-in-the-past.json) |
 | Long Lost | 277321 | [277321-long-lost.json](./277321-long-lost.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
