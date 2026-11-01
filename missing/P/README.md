@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddock Note '95 | 268522 | [268522-paddock-note-95.json](./268522-paddock-note-95.json) |
 | Paddy the Penguin | 358622 | [358622-paddy-the-penguin.json](./358622-paddy-the-penguin.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
+| Padria Online | 55553 | [55553-padria-online.json](./55553-padria-online.json) |
 | Pagan Age | 167465 | [167465-pagan-age.json](./167465-pagan-age.json) |
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper io 2: Variety Pack | 280616 | [280616-paper-io-2-variety-pack.json](./280616-paper-io-2-variety-pack.json) |
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
+| Paper Knights | 55552 | [55552-paper-knights.json](./55552-paper-knights.json) |
 | Paper Lily: Chapter 1 | 227213 | [227213-paper-lily-chapter-1.json](./227213-paper-lily-chapter-1.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
 | Paper Mall | 334934 | [334934-paper-mall.json](./334934-paper-mall.json) |
@@ -8141,6 +8143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Clickers | 343973 | [343973-pizza-clickers.json](./343973-pizza-clickers.json) |
 | Pizza Connection 2 | 27590 | [27590-pizza-connection-2.json](./27590-pizza-connection-2.json) |
 | Pizza Connection 3 | 29142 | [29142-pizza-connection-3.json](./29142-pizza-connection-3.json) |
+| Pizza Connection 3: Pizza Creator | 55564 | [55564-pizza-connection-3-pizza-creator.json](./55564-pizza-connection-3-pizza-creator.json) |
 | Pizza Connection Bundle | 260023 | [260023-pizza-connection-bundle.json](./260023-pizza-connection-bundle.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
@@ -16248,6 +16251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PureSkate | 193718 | [193718-pureskate.json](./193718-pureskate.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | PurgaStory | 185464 | [185464-purgastory.json](./185464-purgastory.json) |
+| Purgation | 55563 | [55563-purgation.json](./55563-purgation.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
 | Purgatory | 268349 | [268349-purgatory.json](./268349-purgatory.json) |
 | Purgatory | 27773 | [27773-purgatory.json](./27773-purgatory.json) |
@@ -16310,6 +16314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purplis Sandbox | 142623 | [142623-purplis-sandbox.json](./142623-purplis-sandbox.json) |
 | Purpose 1951 | 293583 | [293583-purpose-1951.json](./293583-purpose-1951.json) |
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
+| Purpul Bandana | 55565 | [55565-purpul-bandana.json](./55565-purpul-bandana.json) |
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
 | Purr Pals | 5110 | [5110-purr-pals.json](./5110-purr-pals.json) |
 | Purr Pals Purrfection | 209375 | [209375-purr-pals-purrfection.json](./209375-purr-pals-purrfection.json) |
