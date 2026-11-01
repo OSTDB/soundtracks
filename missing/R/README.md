@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Fighters | 118249 | [118249-racing-fighters.json](./118249-racing-fighters.json) |
 | Racing Game | 393952 | [393952-racing-game.json](./393952-racing-game.json) |
 | Racing Game Bundle | 379006 | [379006-racing-game-bundle.json](./379006-racing-game-bundle.json) |
+| Racing Gears Advance | 6551 | [6551-racing-gears-advance.json](./6551-racing-gears-advance.json) |
 | Racing Girl | 212498 | [212498-racing-girl.json](./212498-racing-girl.json) |
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
@@ -1612,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage 2: Universal Tour | 3583 | [3583-rampage-2-universal-tour.json](./3583-rampage-2-universal-tour.json) |
 | Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
+| Rampage Puzzle Attack | 6552 | [6552-rampage-puzzle-attack.json](./6552-rampage-puzzle-attack.json) |
 | Rampage Ragdoll | 81937 | [81937-rampage-ragdoll.json](./81937-rampage-ragdoll.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | Rampage Through Time | 45091 | [45091-rampage-through-time.json](./45091-rampage-through-time.json) |
@@ -2070,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave and Claw | 184785 | [184785-rave-and-claw.json](./184785-rave-and-claw.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
 | Rave Heart | 143421 | [143421-rave-heart.json](./143421-rave-heart.json) |
+| Rave Master: Special Attack Force! | 6553 | [6553-rave-master-special-attack-force.json](./6553-rave-master-special-attack-force.json) |
 | Rave Paradise | 335749 | [335749-rave-paradise.json](./335749-rave-paradise.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
@@ -8279,6 +8282,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robonauts | 64205 | [64205-robonauts.json](./64205-robonauts.json) |
 | RoboPhobik | 138534 | [138534-robophobik.json](./138534-robophobik.json) |
 | Roboplant | 186641 | [186641-roboplant.json](./186641-roboplant.json) |
+| Robopon 2 Cross Version | 6561 | [6561-robopon-2-cross-version.json](./6561-robopon-2-cross-version.json) |
+| Robopon 2 Ring Version | 6560 | [6560-robopon-2-ring-version.json](./6560-robopon-2-ring-version.json) |
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
 | Roboquest | 137894 | [137894-roboquest.json](./137894-roboquest.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
@@ -8427,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Warlords | 72937 | [72937-robot-warlords.json](./72937-robot-warlords.json) |
 | Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
 | Robot Wars Game | 95326 | [95326-robot-wars-game.json](./95326-robot-wars-game.json) |
+| Robot Wars: Advanced Destruction | 6562 | [6562-robot-wars-advanced-destruction.json](./6562-robot-wars-advanced-destruction.json) |
 | Robot Wars: Arenas of Destruction | 16752 | [16752-robot-wars-arenas-of-destruction.json](./16752-robot-wars-arenas-of-destruction.json) |
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
@@ -8437,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot88 | 182364 | [182364-robot88.json](./182364-robot88.json) |
 | Robotan Wars | 138005 | [138005-robotan-wars.json](./138005-robotan-wars.json) |
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
+| Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
 | Robotfindskitten | 142978 | [142978-robotfindskitten.json](./142978-robotfindskitten.json) |
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
@@ -10375,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell Pinball | 314913 | [314913-roswell-pinball.json](./314913-roswell-pinball.json) |
+| Roswell UFO Attack | 8358 | [8358-roswell-ufo-attack.json](./8358-roswell-ufo-attack.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Roswell's Journey | 212081 | [212081-roswells-journey.json](./212081-roswells-journey.json) |
 | Roswyn | 411030 | [411030-roswyn.json](./411030-roswyn.json) |
