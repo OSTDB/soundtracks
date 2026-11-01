@@ -11535,6 +11535,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Knights | 138412 | [138412-rune-knights.json](./138412-rune-knights.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Lord | 117609 | [117609-rune-lord.json](./117609-rune-lord.json) |
+| Rune Master | 41669 | [41669-rune-master.json](./41669-rune-master.json) |
+| Rune Master II | 41668 | [41668-rune-master-ii.json](./41668-rune-master-ii.json) |
+| Rune Master III: Sangokushi Eiketsuden | 41667 | [41667-rune-master-iii-sangokushi-eiketsuden.json](./41667-rune-master-iii-sangokushi-eiketsuden.json) |
 | Rune Monster | 402883 | [402883-rune-monster.json](./402883-rune-monster.json) |
 | Rune Monsters | 236478 | [236478-rune-monsters.json](./236478-rune-monsters.json) |
 | Rune of Eternity | 194372 | [194372-rune-of-eternity.json](./194372-rune-of-eternity.json) |
