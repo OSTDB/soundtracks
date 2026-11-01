@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Thoughts | 157488 | [157488-quiet-thoughts.json](./157488-quiet-thoughts.json) |
 | Quiet us | 184606 | [184606-quiet-us.json](./184606-quiet-us.json) |
 | Quiet Valley 2 | 154409 | [154409-quiet-valley-2.json](./154409-quiet-valley-2.json) |
+| Quiet, Please! | 61294 | [61294-quiet-please.json](./61294-quiet-please.json) |
 | Quietcar | 179460 | [179460-quietcar.json](./179460-quietcar.json) |
 | Quietly | 229076 | [229076-quietly.json](./229076-quietly.json) |
 | QuietMansion1 | 151687 | [151687-quietmansion1.json](./151687-quietmansion1.json) |
