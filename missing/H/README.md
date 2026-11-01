@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HatLand | 247970 | [247970-hatland.json](./247970-hatland.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
+| Hatoful Boyfriend | 8874 | [8874-hatoful-boyfriend.json](./8874-hatoful-boyfriend.json) |
 | Hatomo Battles the Yomi Demons | 281316 | [281316-hatomo-battles-the-yomi-demons.json](./281316-hatomo-battles-the-yomi-demons.json) |
 | Hatone | 260620 | [260620-hatone.json](./260620-hatone.json) |
 | Hatred | 7857 | [7857-hatred.json](./7857-hatred.json) |
@@ -10393,6 +10394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Snooker | 60950 | [60950-how-to-snooker.json](./60950-how-to-snooker.json) |
 | How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
 | How to Spend Holidays | 82989 | [82989-how-to-spend-holidays.json](./82989-how-to-spend-holidays.json) |
+| How to Survive | 7420 | [7420-how-to-survive.json](./7420-how-to-survive.json) |
 | How to Survive 2 | 13210 | [13210-how-to-survive-2.json](./13210-how-to-survive-2.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
 | How to Survive 2: Kovac's Ultimate Edition | 53194 | [53194-how-to-survive-2-kovacs-ultimate-edition.json](./53194-how-to-survive-2-kovacs-ultimate-edition.json) |
@@ -10718,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Pinball: Iceage | 116084 | [116084-human-pinball-iceage.json](./116084-human-pinball-iceage.json) |
 | Human Planet | 374395 | [374395-human-planet.json](./374395-human-planet.json) |
 | Human Resource | 295319 | [295319-human-resource.json](./295319-human-resource.json) |
+| Human Resource Machine | 14545 | [14545-human-resource-machine.json](./14545-human-resource-machine.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
 | Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
