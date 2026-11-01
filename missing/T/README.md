@@ -3901,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no Shippo | 167118 | [167118-tenshi-no-shippo.json](./167118-tenshi-no-shippo.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
 | Tenshi no Uta II: Datenshi no Sentaku | 65419 | [65419-tenshi-no-uta-ii-datenshi-no-sentaku.json](./65419-tenshi-no-uta-ii-datenshi-no-sentaku.json) |
+| Tenshi no Uta: Shiroki Tsubasa no Inori | 42296 | [42296-tenshi-no-uta-shiroki-tsubasa-no-inori.json](./42296-tenshi-no-uta-shiroki-tsubasa-no-inori.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi no Uta: The Angel's Verse Collection | 409512 | [409512-tenshi-no-uta-the-angels-verse-collection.json](./409512-tenshi-no-uta-the-angels-verse-collection.json) |
@@ -9448,7 +9449,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
 | The Great Bathroom Escape | 385190 | [385190-the-great-bathroom-escape.json](./385190-the-great-bathroom-escape.json) |
 | The Great Battle Gaiden 2: Matsuri da Wasshoi | 38124 | [38124-the-great-battle-gaiden-2-matsuri-da-wasshoi.json](./38124-the-great-battle-gaiden-2-matsuri-da-wasshoi.json) |
+| The Great Battle II: Last Fighter Twin | 42326 | [42326-the-great-battle-ii-last-fighter-twin.json](./42326-the-great-battle-ii-last-fighter-twin.json) |
 | The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
+| The Great Battle IV | 42329 | [42329-the-great-battle-iv.json](./42329-the-great-battle-iv.json) |
 | The Great Battle of Shark Monkey Squirrel Dinossaur Bird Bee | 275681 | [275681-the-great-battle-of-shark-monkey-squirrel-dinossaur-bird-bee.json](./275681-the-great-battle-of-shark-monkey-squirrel-dinossaur-bird-bee.json) |
 | The Great Battle Pocket | 228554 | [228554-the-great-battle-pocket.json](./228554-the-great-battle-pocket.json) |
 | The Great Battle V | 66672 | [66672-the-great-battle-v.json](./66672-the-great-battle-v.json) |
@@ -9769,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heavens | 366303 | [366303-the-heavens.json](./366303-the-heavens.json) |
 | The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
 | The Heft Effect | 311874 | [311874-the-heft-effect.json](./311874-the-heft-effect.json) |
+| The Heian Fuuunden | 42290 | [42290-the-heian-fuuunden.json](./42290-the-heian-fuuunden.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heilwald Loophole | 188769 | [188769-the-heilwald-loophole.json](./188769-the-heilwald-loophole.json) |
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
@@ -10969,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Barbarian | 217745 | [217745-the-last-barbarian.json](./217745-the-last-barbarian.json) |
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
 | The Last Bastion | 188504 | [188504-the-last-bastion.json](./188504-the-last-bastion.json) |
+| The Last Battle | 42298 | [42298-the-last-battle.json](./42298-the-last-battle.json) |
 | The Last Bee | 380186 | [380186-the-last-bee.json](./380186-the-last-bee.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
@@ -22612,6 +22617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial Pocket Sports Version: Koutei no Photograph | 108755 | [108755-tokimeki-memorial-pocket-sports-version-koutei-no-photograph.json](./108755-tokimeki-memorial-pocket-sports-version-koutei-no-photograph.json) |
 | Tokimeki Memorial Private Collection | 108748 | [108748-tokimeki-memorial-private-collection.json](./108748-tokimeki-memorial-private-collection.json) |
 | Tokimeki Memorial Selection: Fujisaki Shiori | 108749 | [108749-tokimeki-memorial-selection-fujisaki-shiori.json](./108749-tokimeki-memorial-selection-fujisaki-shiori.json) |
+| Tokimeki Memorial: Densetsu no Ki no Shita de | 42320 | [42320-tokimeki-memorial-densetsu-no-ki-no-shita-de.json](./42320-tokimeki-memorial-densetsu-no-ki-no-shita-de.json) |
 | Tokimeki Memorial: Forever With You | 50129 | [50129-tokimeki-memorial-forever-with-you.json](./50129-tokimeki-memorial-forever-with-you.json) |
 | Tokimeki Memorial: Forever with You - Emotional | 314954 | [314954-tokimeki-memorial-forever-with-you-emotional.json](./314954-tokimeki-memorial-forever-with-you-emotional.json) |
 | Tokimeki Memorial: Taisen Puzzle-Dama | 108750 | [108750-tokimeki-memorial-taisen-puzzle-dama.json](./108750-tokimeki-memorial-taisen-puzzle-dama.json) |
@@ -28533,6 +28539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine Series 1-3 | 125319 | [125319-trine-series-1-3.json](./125319-trine-series-1-3.json) |
 | Trine Trilogy | 118939 | [118939-trine-trilogy.json](./118939-trine-trilogy.json) |
 | Trine: Ultimate Collection | 115766 | [115766-trine-ultimate-collection.json](./115766-trine-ultimate-collection.json) |
+| Trinea | 42295 | [42295-trinea.json](./42295-trinea.json) |
 | Trinelogy | 113624 | [113624-trinelogy.json](./113624-trinelogy.json) |
 | Tring! | 344981 | [344981-tring.json](./344981-tring.json) |
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
