@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vainglory 5V5 | 88078 | [88078-vainglory-5v5.json](./88078-vainglory-5v5.json) |
 | Vainglory All Stars | 136750 | [136750-vainglory-all-stars.json](./136750-vainglory-all-stars.json) |
 | VainPlanet | 129074 | [129074-vainplanet.json](./129074-vainplanet.json) |
+| Vaitz Blade | 37469 | [37469-vaitz-blade.json](./37469-vaitz-blade.json) |
 | Vajont VR | 221141 | [221141-vajont-vr.json](./221141-vajont-vr.json) |
 | Val and Rick | 50411 | [50411-val-and-rick.json](./50411-val-and-rick.json) |
 | Val d'Isère Ski Park Manager | 64920 | [64920-val-disere-ski-park-manager.json](./64920-val-disere-ski-park-manager.json) |
