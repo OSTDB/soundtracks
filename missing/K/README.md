@@ -5543,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kudokikata Oshiemasu | 67389 | [67389-kudokikata-oshiemasu.json](./67389-kudokikata-oshiemasu.json) |
 | Kudokikata Oshiemasu Part II: Kind Gals | 67388 | [67388-kudokikata-oshiemasu-part-ii-kind-gals.json](./67388-kudokikata-oshiemasu-part-ii-kind-gals.json) |
 | Kudos | 23135 | [23135-kudos.json](./23135-kudos.json) |
+| Kudos 2 | 21226 | [21226-kudos-2.json](./21226-kudos-2.json) |
 | Kudos: Rock Legend | 23097 | [23097-kudos-rock-legend.json](./23097-kudos-rock-legend.json) |
 | Kudzu | 284593 | [284593-kudzu.json](./284593-kudzu.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
@@ -5601,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumi-Daiko Beatoff 64 | 145458 | [145458-kumi-daiko-beatoff-64.json](./145458-kumi-daiko-beatoff-64.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
 | Kumo | 120930 | [120930-kumo.json](./120930-kumo.json) |
+| Kumo Lumo | 21987 | [21987-kumo-lumo.json](./21987-kumo-lumo.json) |
 | Kumo: The Little Robot | 126986 | [126986-kumo-the-little-robot.json](./126986-kumo-the-little-robot.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
 | Kumpels | 112006 | [112006-kumpels.json](./112006-kumpels.json) |
