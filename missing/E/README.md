@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eitr | 11181 | [11181-eitr.json](./11181-eitr.json) |
 | Eiyou Tappuri no Kareshi | 301618 | [301618-eiyou-tappuri-no-kareshi.json](./301618-eiyou-tappuri-no-kareshi.json) |
+| Eiyu*Senki - The World Conquest | 11573 | [11573-eiyu-senki-the-world-conquest.json](./11573-eiyu-senki-the-world-conquest.json) |
 | Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition | 267962 | [267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json](./267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json) |
 | Eiyuden Chronicle: Hundred Heroes - Hope of the Alliance: Special HQ Statue | 323249 | [323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json](./323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json) |
 | Eiyuden Chronicle: Hundred Heroes - Pioneer Pack | 323251 | [323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json](./323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json) |
@@ -2648,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
 | Elvira II: The Jaws of Cerberus | 12064 | [12064-elvira-ii-the-jaws-of-cerberus.json](./12064-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
+| Elvira: Mistress of the Dark | 10585 | [10585-elvira-mistress-of-the-dark.json](./10585-elvira-mistress-of-the-dark.json) |
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
 | Elvira's Horror Bundle | 186542 | [186542-elviras-horror-bundle.json](./186542-elviras-horror-bundle.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
