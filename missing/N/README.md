@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissus | 60355 | [60355-narcissus.json](./60355-narcissus.json) |
 | Narco Check | 389518 | [389518-narco-check.json](./389518-narco-check.json) |
 | Narco Express | 353399 | [353399-narco-express.json](./353399-narco-express.json) |
+| Narco Police | 12694 | [12694-narco-police.json](./12694-narco-police.json) |
 | Narco Strike | 115387 | [115387-narco-strike.json](./115387-narco-strike.json) |
 | Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
 | Narco Tycoon | 153896 | [153896-narco-tycoon.json](./153896-narco-tycoon.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Monster Story | 174692 | [174692-naughty-monster-story.json](./174692-naughty-monster-story.json) |
 | Naughty New Year | 393385 | [393385-naughty-new-year.json](./393385-naughty-new-year.json) |
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
+| Naughty Ones | 12695 | [12695-naughty-ones.json](./12695-naughty-ones.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
@@ -1080,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy Field 2 : Conqueror of the Ocean | 28578 | [28578-navy-field-2-conqueror-of-the-ocean.json](./28578-navy-field-2-conqueror-of-the-ocean.json) |
 | Navy Island Confidential | 390461 | [390461-navy-island-confidential.json](./390461-navy-island-confidential.json) |
 | Navy Mission | 406046 | [406046-navy-mission.json](./406046-navy-mission.json) |
+| Navy Moves | 12696 | [12696-navy-moves.json](./12696-navy-moves.json) |
 | Navy Seal | 75117 | [75117-navy-seal.json](./75117-navy-seal.json) |
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
 | Navy Seals | 369607 | [369607-navy-seals.json](./369607-navy-seals.json) |
@@ -1472,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
 | Nebulous: Fleet Command | 185962 | [185962-nebulous-fleet-command.json](./185962-nebulous-fleet-command.json) |
 | Nebulus | 7817 | [7817-nebulus.json](./7817-nebulus.json) |
+| Nebulus 2: Pogo a gogo | 12697 | [12697-nebulus-2-pogo-a-gogo.json](./12697-nebulus-2-pogo-a-gogo.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
 | Nechromia | 411289 | [411289-nechromia.json](./411289-nechromia.json) |
@@ -1562,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
 | NecroNegate | 337162 | [337162-necronegate.json](./337162-necronegate.json) |
 | NecroNightmare | 191581 | [191581-necronightmare.json](./191581-necronightmare.json) |
+| Necronom | 12698 | [12698-necronom.json](./12698-necronom.json) |
 | Necronomicon: The Gateway to Beyond | 17425 | [17425-necronomicon-the-gateway-to-beyond.json](./17425-necronomicon-the-gateway-to-beyond.json) |
 | Necronomistore | 117361 | [117361-necronomistore.json](./117361-necronomistore.json) |
 | Necronomistore: Black Friday - Season One | 170226 | [170226-necronomistore-black-friday-season-one.json](./170226-necronomistore-black-friday-season-one.json) |
@@ -1807,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbors: Suburban Warfare | 207595 | [207595-neighbors-suburban-warfare.json](./207595-neighbors-suburban-warfare.json) |
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
 | Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
+| Neighbours | 12699 | [12699-neighbours.json](./12699-neighbours.json) |
 | Neighbours back From Hell | 139447 | [139447-neighbours-back-from-hell.json](./139447-neighbours-back-from-hell.json) |
 | Neighbours from Hell | 243025 | [243025-neighbours-from-hell.json](./243025-neighbours-from-hell.json) |
 | Neighbours from Hell | 3132 | [3132-neighbours-from-hell.json](./3132-neighbours-from-hell.json) |
@@ -3693,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Extreme Sports | 203154 | [203154-nick-extreme-sports.json](./203154-nick-extreme-sports.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
 | Nick Faldo Plays the Open | 83291 | [83291-nick-faldo-plays-the-open.json](./83291-nick-faldo-plays-the-open.json) |
+| Nick Faldo's Championship Golf | 12700 | [12700-nick-faldos-championship-golf.json](./12700-nick-faldos-championship-golf.json) |
 | Nick Faldo's Championship Golf | 15872 | [15872-nick-faldos-championship-golf.json](./15872-nick-faldos-championship-golf.json) |
 | Nick Football Champions | 112133 | [112133-nick-football-champions.json](./112133-nick-football-champions.json) |
 | Nick Jr. Dora the Explorer | 245429 | [245429-nick-jr-dora-the-explorer.json](./245429-nick-jr-dora-the-explorer.json) |
@@ -3832,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigel | 134885 | [134885-nigel.json](./134885-nigel.json) |
+| Nigel Mansell's Grand Prix | 12701 | [12701-nigel-mansells-grand-prix.json](./12701-nigel-mansells-grand-prix.json) |
 | Nigel Mansell's World Championship Racing | 12702 | [12702-nigel-mansells-world-championship-racing.json](./12702-nigel-mansells-world-championship-racing.json) |
 | Nigel: The Minuscule Adventure | 121456 | [121456-nigel-the-minuscule-adventure.json](./121456-nigel-the-minuscule-adventure.json) |
 | Nigel's Journey: A Working Day | 133378 | [133378-nigels-journey-a-working-day.json](./133378-nigels-journey-a-working-day.json) |
@@ -5063,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon no Asoko de | 269518 | [269518-nippon-no-asoko-de.json](./269518-nippon-no-asoko-de.json) |
 | Nippon Pro Mahjong Renmei Kounin: Tetsuman Advance ~Menkyo Kaiden Series~ | 49748 | [49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json](./49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json) |
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
+| Nippon Safes Inc. | 12703 | [12703-nippon-safes-inc.json](./12703-nippon-safes-inc.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
@@ -5446,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No safety | 84086 | [84086-no-safety.json](./84086-no-safety.json) |
 | No Salvation | 281249 | [281249-no-salvation.json](./281249-no-salvation.json) |
 | No Seat? | 33796 | [33796-no-seat.json](./33796-no-seat.json) |
+| No Second Prize | 12704 | [12704-no-second-prize.json](./12704-no-second-prize.json) |
 | No Secrets | 135491 | [135491-no-secrets.json](./135491-no-secrets.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
