@@ -4851,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
 | Glum | 244597 | [244597-glum.json](./244597-glum.json) |
 | Glum Buster | 67875 | [67875-glum-buster.json](./67875-glum-buster.json) |
+| Gluon | 28430 | [28430-gluon.json](./28430-gluon.json) |
 | Gluon | 377961 | [377961-gluon.json](./377961-gluon.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glut: A Superabundance of Nothing | 191500 | [191500-glut-a-superabundance-of-nothing.json](./191500-glut-a-superabundance-of-nothing.json) |
@@ -7898,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Mummy | 173022 | [173022-gravity-mummy.json](./173022-gravity-mummy.json) |
 | Gravity Panda | 114263 | [114263-gravity-panda.json](./114263-gravity-panda.json) |
 | Gravity Pilot! | 194366 | [194366-gravity-pilot.json](./194366-gravity-pilot.json) |
+| Gravity Power | 28390 | [28390-gravity-power.json](./28390-gravity-power.json) |
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
 | Gravity puzzles | 81844 | [81844-gravity-puzzles.json](./81844-gravity-puzzles.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
@@ -9253,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTFO: The Final Chapter | 279648 | [279648-gtfo-the-final-chapter.json](./279648-gtfo-the-final-chapter.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club Supermini Festa! | 50961 | [50961-gti-club-supermini-festa.json](./50961-gti-club-supermini-festa.json) |
+| GTI Club: Rally Côte d'Azur | 28392 | [28392-gti-club-rally-cote-dazur.json](./28392-gti-club-rally-cote-dazur.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTI Racing | 14804 | [14804-gti-racing.json](./14804-gti-racing.json) |
 | GTJ: Grand Theft Japan | 390088 | [390088-gtj-grand-theft-japan.json](./390088-gtj-grand-theft-japan.json) |
