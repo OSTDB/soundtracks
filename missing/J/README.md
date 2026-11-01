@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackie Chan in The Protector | 41673 | [41673-jackie-chan-in-the-protector.json](./41673-jackie-chan-in-the-protector.json) |
 | Jackie Chan J-Mat Fitness | 91815 | [91815-jackie-chan-j-mat-fitness.json](./91815-jackie-chan-j-mat-fitness.json) |
 | Jackie Chan no Spartan X | 41672 | [41672-jackie-chan-no-spartan-x.json](./41672-jackie-chan-no-spartan-x.json) |
+| Jackie Chan: Stuntmaster | 18943 | [18943-jackie-chan-stuntmaster.json](./18943-jackie-chan-stuntmaster.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
 | Jackie’s Forest: Outsourced | 396716 | [396716-jackie-s-forest-outsourced.json](./396716-jackie-s-forest-outsourced.json) |
