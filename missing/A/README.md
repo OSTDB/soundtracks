@@ -4210,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Definitive Edition - Mexico Civilization | 193234 | [193234-age-of-empires-iii-definitive-edition-mexico-civilization.json](./193234-age-of-empires-iii-definitive-edition-mexico-civilization.json) |
 | Age of Empires III: Definitive Edition - United States Civilization | 164609 | [164609-age-of-empires-iii-definitive-edition-united-states-civilization.json](./164609-age-of-empires-iii-definitive-edition-united-states-civilization.json) |
 | Age of Empires III: Definitive Edition – Hero Cosmetic Pack: Lizzie | 265617 | [265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json](./265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json) |
+| Age of Empires III: Gold Edition | 50919 | [50919-age-of-empires-iii-gold-edition.json](./50919-age-of-empires-iii-gold-edition.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
 | Age of Empires III: The WarChiefs | 3017 | [3017-age-of-empires-iii-the-warchiefs.json](./3017-age-of-empires-iii-the-warchiefs.json) |
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
@@ -6432,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Hide | 419965 | [419965-aliens-hide.json](./419965-aliens-hide.json) |
 | Aliens In Chains | 233616 | [233616-aliens-in-chains.json](./233616-aliens-in-chains.json) |
 | Aliens In Paradise | 217463 | [217463-aliens-in-paradise.json](./217463-aliens-in-paradise.json) |
+| Aliens in the Attic | 50970 | [50970-aliens-in-the-attic.json](./50970-aliens-in-the-attic.json) |
 | Aliens in the Yard | 43183 | [43183-aliens-in-the-yard.json](./43183-aliens-in-the-yard.json) |
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Invasion | 282800 | [282800-aliens-invasion.json](./282800-aliens-invasion.json) |
