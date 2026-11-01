@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Spider-Man in the Villain Round-Up | 220114 | [220114-ultimate-spider-man-in-the-villain-round-up.json](./220114-ultimate-spider-man-in-the-villain-round-up.json) |
 | Ultimate Spider-Man: Limited Edition | 381722 | [381722-ultimate-spider-man-limited-edition.json](./381722-ultimate-spider-man-limited-edition.json) |
 | Ultimate Spider-Man: Total Mayhem | 66349 | [66349-ultimate-spider-man-total-mayhem.json](./66349-ultimate-spider-man-total-mayhem.json) |
+| Ultimate Spider-Man: Ultimate Spider-Cycle | 61293 | [61293-ultimate-spider-man-ultimate-spider-cycle.json](./61293-ultimate-spider-man-ultimate-spider-cycle.json) |
 | Ultimate Spinner Simulator - Unstress Yourself | 74467 | [74467-ultimate-spinner-simulator-unstress-yourself.json](./74467-ultimate-spinner-simulator-unstress-yourself.json) |
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
 | Ultimate Street Fighter: Fist of Fate | 368444 | [368444-ultimate-street-fighter-fist-of-fate.json](./368444-ultimate-street-fighter-fist-of-fate.json) |
