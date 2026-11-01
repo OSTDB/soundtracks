@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-01T21:14:16.393Z",
-  "total_missing": 294995,
+  "generated_at": "2026-11-01T21:17:25.137Z",
+  "total_missing": 295000,
   "games": [
     {
       "igdb_id": 191680,
@@ -47220,6 +47220,11 @@
       "igdb_id": 7665,
       "game_name": "Alida",
       "file": "missing/A/7665-alida.json"
+    },
+    {
+      "igdb_id": 12240,
+      "game_name": "Alien",
+      "file": "missing/A/12240-alien.json"
     },
     {
       "igdb_id": 195029,
@@ -236095,11 +236100,6 @@
       "igdb_id": 108361,
       "game_name": "Closer Than You Think",
       "file": "missing/C/108361-closer-than-you-think.json"
-    },
-    {
-      "igdb_id": 242102,
-      "game_name": "Closer the Distance",
-      "file": "missing/C/242102-closer-the-distance.json"
     },
     {
       "igdb_id": 221122,
@@ -428507,6 +428507,11 @@
       "file": "missing/F/12332-fate-tiger-colosseum-upper.json"
     },
     {
+      "igdb_id": 12381,
+      "game_name": "Fate/unlimited codes",
+      "file": "missing/F/12381-fate-unlimited-codes.json"
+    },
+    {
       "igdb_id": 42863,
       "game_name": "Fate/unlimited codes Portable",
       "file": "missing/F/42863-fate-unlimited-codes-portable.json"
@@ -453100,6 +453105,11 @@
       "igdb_id": 46661,
       "game_name": "Flyer Fox",
       "file": "missing/F/46661-flyer-fox.json"
+    },
+    {
+      "igdb_id": 12054,
+      "game_name": "Flyff",
+      "file": "missing/F/12054-flyff.json"
     },
     {
       "igdb_id": 68901,
@@ -862487,6 +862497,11 @@
       "file": "missing/O/420506-odas-ordinary-lives.json"
     },
     {
+      "igdb_id": 11417,
+      "game_name": "Odallus: The Dark Call",
+      "file": "missing/O/11417-odallus-the-dark-call.json"
+    },
+    {
       "igdb_id": 4050,
       "game_name": "Odama",
       "file": "missing/O/4050-odama.json"
@@ -1206622,6 +1206637,11 @@
       "file": "missing/S/342589-sword-art-online-eron.json"
     },
     {
+      "igdb_id": 11839,
+      "game_name": "Sword Art Online Re: Hollow Fragment",
+      "file": "missing/S/11839-sword-art-online-re-hollow-fragment.json"
+    },
+    {
       "igdb_id": 102088,
       "game_name": "Sword Art Online VR: Lovely Honey Days",
       "file": "missing/S/102088-sword-art-online-vr-lovely-honey-days.json"
@@ -1325130,6 +1325150,11 @@
       "igdb_id": 12195,
       "game_name": "Tokyo Twilight Ghost Hunters",
       "file": "missing/T/12195-tokyo-twilight-ghost-hunters.json"
+    },
+    {
+      "igdb_id": 12209,
+      "game_name": "Tokyo Twilight Ghost Hunters: Daybreak Special Gigs",
+      "file": "missing/T/12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json"
     },
     {
       "igdb_id": 213420,
