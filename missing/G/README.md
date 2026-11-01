@@ -8423,6 +8423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridz Keeper | 378760 | [378760-gridz-keeper.json](./378760-gridz-keeper.json) |
 | Grief | 207713 | [207713-grief.json](./207713-grief.json) |
 | Grief | 415253 | [415253-grief.json](./415253-grief.json) |
+| Grief | 61934 | [61934-grief.json](./61934-grief.json) |
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
@@ -9330,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
 | Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
 | Gubble Buggy Racer | 91544 | [91544-gubble-buggy-racer.json](./91544-gubble-buggy-racer.json) |
+| Gubble Vacation Rush | 61921 | [61921-gubble-vacation-rush.json](./61921-gubble-vacation-rush.json) |
 | Guchio Rising Mountain | 365540 | [365540-guchio-rising-mountain.json](./365540-guchio-rising-mountain.json) |
 | Gude! Jump n Run | 160179 | [160179-gude-jump-n-run.json](./160179-gude-jump-n-run.json) |
 | Guderian | 28716 | [28716-guderian.json](./28716-guderian.json) |
