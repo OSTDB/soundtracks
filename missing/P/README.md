@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PD Ultraman Link | 107621 | [107621-pd-ultraman-link.json](./107621-pd-ultraman-link.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
 | PDC World Championship Darts 2008 | 5092 | [5092-pdc-world-championship-darts-2008.json](./5092-pdc-world-championship-darts-2008.json) |
+| PDC World Championship Darts 2009 | 50940 | [50940-pdc-world-championship-darts-2009.json](./50940-pdc-world-championship-darts-2009.json) |
 | PDI Check | 119520 | [119520-pdi-check.json](./119520-pdi-check.json) |
 | PDP 10 Timesharing Basketball | 388374 | [388374-pdp-10-timesharing-basketball.json](./388374-pdp-10-timesharing-basketball.json) |
 | PdTour | 339176 | [339176-pdtour.json](./339176-pdtour.json) |
@@ -6917,6 +6918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate and Parrots | 421370 | [421370-pirate-and-parrots.json](./421370-pirate-and-parrots.json) |
 | Pirate Bash | 60981 | [60981-pirate-bash.json](./60981-pirate-bash.json) |
 | Pirate Blast | 175715 | [175715-pirate-blast.json](./175715-pirate-blast.json) |
+| Pirate Blast | 50956 | [50956-pirate-blast.json](./50956-pirate-blast.json) |
 | Pirate Bloopers | 262234 | [262234-pirate-bloopers.json](./262234-pirate-bloopers.json) |
 | Pirate Boom | 176298 | [176298-pirate-boom.json](./176298-pirate-boom.json) |
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
@@ -8151,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Deliciozo | 54286 | [54286-pizza-deliciozo.json](./54286-pizza-deliciozo.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
+| Pizza Delivery Boy | 50972 | [50972-pizza-delivery-boy.json](./50972-pizza-delivery-boy.json) |
 | Pizza Delivery in a Storm | 319185 | [319185-pizza-delivery-in-a-storm.json](./319185-pizza-delivery-in-a-storm.json) |
 | Pizza Delivery Survivors | 320270 | [320270-pizza-delivery-survivors.json](./320270-pizza-delivery-survivors.json) |
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
@@ -8349,6 +8352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes Journey | 150256 | [150256-planes-journey.json](./150256-planes-journey.json) |
 | Planes: Fire & Rescue | 249103 | [249103-planes-fire-and-rescue.json](./249103-planes-fire-and-rescue.json) |
 | Planes: Fire & Rescue | 249104 | [249104-planes-fire-and-rescue.json](./249104-planes-fire-and-rescue.json) |
+| Planes: Fire & Rescue | 50966 | [50966-planes-fire-and-rescue.json](./50966-planes-fire-and-rescue.json) |
 | Planes: Fire & Rescue | 8604 | [8604-planes-fire-and-rescue.json](./8604-planes-fire-and-rescue.json) |
 | Planes: Interactive Storybook | 230399 | [230399-planes-interactive-storybook.json](./230399-planes-interactive-storybook.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
@@ -11446,6 +11450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Friday | 379917 | [379917-pool-friday.json](./379917-pool-friday.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
 | Pool Hall Pro | 261971 | [261971-pool-hall-pro.json](./261971-pool-hall-pro.json) |
+| Pool Hall Pro | 50951 | [50951-pool-hall-pro.json](./50951-pool-hall-pro.json) |
 | Pool House | 54284 | [54284-pool-house.json](./54284-pool-house.json) |
 | Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
