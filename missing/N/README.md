@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihongo Quest: N5 | 143704 | [143704-nihongo-quest-n5.json](./143704-nihongo-quest-n5.json) |
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | NiHonGoToKi | 116088 | [116088-nihongotoki.json](./116088-nihongotoki.json) |
+| Nihonkai Daikaisen | 60737 | [60737-nihonkai-daikaisen.json](./60737-nihonkai-daikaisen.json) |
 | Niiikotopia: Sky Fall | 191169 | [191169-niiikotopia-sky-fall.json](./191169-niiikotopia-sky-fall.json) |
 | Niizuma ha Tifa | 83385 | [83385-niizuma-ha-tifa.json](./83385-niizuma-ha-tifa.json) |
 | Niizuma wa Mahou Shoujo | 77902 | [77902-niizuma-wa-mahou-shoujo.json](./77902-niizuma-wa-mahou-shoujo.json) |
@@ -5556,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noboranka | 37330 | [37330-noboranka.json](./37330-noboranka.json) |
 | Noboru | 177164 | [177164-noboru.json](./177164-noboru.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
+| Nobu: Fat Revenge! | 60720 | [60720-nobu-fat-revenge.json](./60720-nobu-fat-revenge.json) |
 | Nobunaga Ibun | 49746 | [49746-nobunaga-ibun.json](./49746-nobunaga-ibun.json) |
 | Nobunaga Mahjong | 133794 | [133794-nobunaga-mahjong.json](./133794-nobunaga-mahjong.json) |
 | Nobunaga no Yabou | 131537 | [131537-nobunaga-no-yabou.json](./131537-nobunaga-no-yabou.json) |
