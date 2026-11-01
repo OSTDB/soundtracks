@@ -4358,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rejected Custom Night | 299569 | [299569-rejected-custom-night.json](./299569-rejected-custom-night.json) |
 | Rejected Draft | 404174 | [404174-rejected-draft.json](./404174-rejected-draft.json) |
 | Rejection: Den-no Senshi | 386394 | [386394-rejection-den-no-senshi.json](./386394-rejection-den-no-senshi.json) |
+| Rejoice: Aretha Oukoku no Kanata | 42288 | [42288-rejoice-aretha-oukoku-no-kanata.json](./42288-rejoice-aretha-oukoku-no-kanata.json) |
 | Rejoin | 415948 | [415948-rejoin.json](./415948-rejoin.json) |
 | Rejoinder | 192621 | [192621-rejoinder.json](./192621-rejoinder.json) |
 | Rejudgement: ReBlessZwei | 193949 | [193949-rejudgement-reblesszwei.json](./193949-rejudgement-reblesszwei.json) |
