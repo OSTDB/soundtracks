@@ -2208,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zork Classics: Interactive Fiction | 71755 | [71755-zork-classics-interactive-fiction.json](./71755-zork-classics-interactive-fiction.json) |
 | Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
 | Zork II: The Wizard of Frobozz | 1945 | [1945-zork-ii-the-wizard-of-frobozz.json](./1945-zork-ii-the-wizard-of-frobozz.json) |
+| Zork III: The Dungeon Master | 1946 | [1946-zork-iii-the-dungeon-master.json](./1946-zork-iii-the-dungeon-master.json) |
 | Zork Nemesis: The Forbidden Lands | 1953 | [1953-zork-nemesis-the-forbidden-lands.json](./1953-zork-nemesis-the-forbidden-lands.json) |
 | Zork Remake | 118444 | [118444-zork-remake.json](./118444-zork-remake.json) |
 | Zork Trilogy | 186103 | [186103-zork-trilogy.json](./186103-zork-trilogy.json) |
