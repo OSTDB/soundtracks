@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
 | X-Men Origins: Wolverine - The Mobile Game | 209932 | [209932-x-men-origins-wolverine-the-mobile-game.json](./209932-x-men-origins-wolverine-the-mobile-game.json) |
 | X-Men Origins: Wolverine Uncaged Edition | 20478 | [20478-x-men-origins-wolverine-uncaged-edition.json](./20478-x-men-origins-wolverine-uncaged-edition.json) |
+| X-Men vs. Street Fighter | 8244 | [8244-x-men-vs-street-fighter.json](./8244-x-men-vs-street-fighter.json) |
 | X-Men: 001 - Character: Wolverine | 290363 | [290363-x-men-001-character-wolverine.json](./290363-x-men-001-character-wolverine.json) |
 | X-Men: 002 - Character: Lady Deathstrike | 290364 | [290364-x-men-002-character-lady-deathstrike.json](./290364-x-men-002-character-lady-deathstrike.json) |
 | X-Men: 003 - Attack MOD: Adamantium Claws | 290365 | [290365-x-men-003-attack-mod-adamantium-claws.json](./290365-x-men-003-attack-mod-adamantium-claws.json) |
