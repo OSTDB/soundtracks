@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Bundle: Ludomania & Flowlines Vs. & 2048 Battles | 199865 | [199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json](./199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json) |
 | Party Business | 128594 | [128594-party-business.json](./128594-party-business.json) |
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
+| Party Central | 60739 | [60739-party-central.json](./60739-party-central.json) |
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
 | Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
@@ -4172,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
 | Perman | 346037 | [346037-perman.json](./346037-perman.json) |
 | Perman World | 346040 | [346040-perman-world.json](./346040-perman-world.json) |
+| Perman: Enban wo Torikaese | 60747 | [60747-perman-enban-wo-torikaese.json](./60747-perman-enban-wo-torikaese.json) |
 | Permanence | 145927 | [145927-permanence.json](./145927-permanence.json) |
 | Permanence | 225795 | [225795-permanence.json](./225795-permanence.json) |
 | Permanence Break | 303985 | [303985-permanence-break.json](./303985-permanence-break.json) |
@@ -11418,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
 | Pool Edge | 4072 | [4072-pool-edge.json](./4072-pool-edge.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
+| Pool Elite | 60729 | [60729-pool-elite.json](./60729-pool-elite.json) |
 | Pool Fever | 323696 | [323696-pool-fever.json](./323696-pool-fever.json) |
 | Pool Fever Cue to Glory | 378964 | [378964-pool-fever-cue-to-glory.json](./378964-pool-fever-cue-to-glory.json) |
 | Pool Fever Precision Shoot | 385171 | [385171-pool-fever-precision-shoot.json](./385171-pool-fever-precision-shoot.json) |
@@ -12100,6 +12103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat and the Greendale Rocket | 49477 | [49477-postman-pat-and-the-greendale-rocket.json](./49477-postman-pat-and-the-greendale-rocket.json) |
 | Postman Pat: Special Delivery Service | 67618 | [67618-postman-pat-special-delivery-service.json](./67618-postman-pat-special-delivery-service.json) |
 | Postman Pat's Trail Game | 353922 | [353922-postman-pats-trail-game.json](./353922-postman-pats-trail-game.json) |
+| Postman Pot | 60755 | [60755-postman-pot.json](./60755-postman-pot.json) |
 | Postman Simon | 179354 | [179354-postman-simon.json](./179354-postman-simon.json) |
 | Postmaster Legacy | 148817 | [148817-postmaster-legacy.json](./148817-postmaster-legacy.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
@@ -15885,6 +15889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up NX2: Next Xenesis | 57714 | [57714-pump-it-up-nx2-next-xenesis.json](./57714-pump-it-up-nx2-next-xenesis.json) |
 | Pump It Up Phoenix | 256094 | [256094-pump-it-up-phoenix.json](./256094-pump-it-up-phoenix.json) |
 | Pump It Up Phoenix 2 | 409779 | [409779-pump-it-up-phoenix-2.json](./409779-pump-it-up-phoenix-2.json) |
+| Pump It Up Prime | 60815 | [60815-pump-it-up-prime.json](./60815-pump-it-up-prime.json) |
 | Pump It Up Prime 2 | 97387 | [97387-pump-it-up-prime-2.json](./97387-pump-it-up-prime-2.json) |
 | Pump It Up Rise | 345431 | [345431-pump-it-up-rise.json](./345431-pump-it-up-rise.json) |
 | Pump it Up StepP1 | 139378 | [139378-pump-it-up-stepp1.json](./139378-pump-it-up-stepp1.json) |
