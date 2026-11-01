@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandu | 169681 | [169681-pandu.json](./169681-pandu.json) |
 | Pandum Online | 32686 | [32686-pandum-online.json](./32686-pandum-online.json) |
 | Panekit: Infinitive Crafting Toy Case | 60596 | [60596-panekit-infinitive-crafting-toy-case.json](./60596-panekit-infinitive-crafting-toy-case.json) |
+| Panel Action Bingo | 49031 | [49031-panel-action-bingo.json](./49031-panel-action-bingo.json) |
 | Panel Attack | 167702 | [167702-panel-attack.json](./167702-panel-attack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
 | Panel de Pon | 84157 | [84157-panel-de-pon.json](./84157-panel-de-pon.json) |
@@ -4842,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom 3D | 387492 | [387492-phantom-3d.json](./387492-phantom-3d.json) |
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
 | Phantom Abyss | 147021 | [147021-phantom-abyss.json](./147021-phantom-abyss.json) |
+| Phantom Air Mission | 49041 | [49041-phantom-air-mission.json](./49041-phantom-air-mission.json) |
 | Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
 | Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
 | Phantom Beast Solitaire | 301627 | [301627-phantom-beast-solitaire.json](./301627-phantom-beast-solitaire.json) |
@@ -12387,6 +12389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Math | 209898 | [209898-power-math.json](./209898-power-math.json) |
 | Power Meter | 341464 | [341464-power-meter.json](./341464-power-meter.json) |
 | Power Miners | 139002 | [139002-power-miners.json](./139002-power-miners.json) |
+| Power Mission | 49089 | [49089-power-mission.json](./49089-power-mission.json) |
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Nazoler | 289752 | [289752-power-nazoler.json](./289752-power-nazoler.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
@@ -12431,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pyramids | 68459 | [68459-power-pyramids.json](./68459-power-pyramids.json) |
 | Power Quest | 67765 | [67765-power-quest.json](./67765-power-quest.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
+| Power Racer | 49088 | [49088-power-racer.json](./49088-power-racer.json) |
 | Power Racing Bundle | 147786 | [147786-power-racing-bundle.json](./147786-power-racing-bundle.json) |
 | Power Racing Bundle 2 | 147787 | [147787-power-racing-bundle-2.json](./147787-power-racing-bundle-2.json) |
 | Power Racing Bundle 3 | 152353 | [152353-power-racing-bundle-3.json](./152353-power-racing-bundle-3.json) |
