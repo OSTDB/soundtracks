@@ -4528,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrivore | 386117 | [386117-agrivore.json](./386117-agrivore.json) |
 | Agro Racing | 374613 | [374613-agro-racing.json](./374613-agro-racing.json) |
 | Agro Simulator: Season 26 | 389539 | [389539-agro-simulator-season-26.json](./389539-agro-simulator-season-26.json) |
+| Agro Soar | 49115 | [49115-agro-soar.json](./49115-agro-soar.json) |
 | Agrocracy | 388794 | [388794-agrocracy.json](./388794-agrocracy.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Agronom | 293977 | [293977-agronom.json](./293977-agronom.json) |
