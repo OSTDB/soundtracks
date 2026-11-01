@@ -10687,6 +10687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keep | 36254 | [36254-the-keep.json](./36254-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
+| The Keeper | 26155 | [26155-the-keeper.json](./26155-the-keeper.json) |
 | The Keeper of 4 Elements | 26237 | [26237-the-keeper-of-4-elements.json](./26237-the-keeper-of-4-elements.json) |
 | The Keepers 2: The Order's Last Secret - Collector's Edition | 22088 | [22088-the-keepers-2-the-orders-last-secret-collectors-edition.json](./22088-the-keepers-2-the-orders-last-secret-collectors-edition.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
@@ -11623,6 +11624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Pomodoro | 193657 | [193657-the-legend-of-pomodoro.json](./193657-the-legend-of-pomodoro.json) |
 | The Legend of Prince Valiant | 48187 | [48187-the-legend-of-prince-valiant.json](./48187-the-legend-of-prince-valiant.json) |
 | The Legend of Protey | 108346 | [108346-the-legend-of-protey.json](./108346-the-legend-of-protey.json) |
+| The Legend of Queen Opala | 26163 | [26163-the-legend-of-queen-opala.json](./26163-the-legend-of-queen-opala.json) |
 | The Legend of Ra | 78325 | [78325-the-legend-of-ra.json](./78325-the-legend-of-ra.json) |
 | The Legend of Relic | 185027 | [185027-the-legend-of-relic.json](./185027-the-legend-of-relic.json) |
 | The Legend of Robin Hood | 267953 | [267953-the-legend-of-robin-hood.json](./267953-the-legend-of-robin-hood.json) |
