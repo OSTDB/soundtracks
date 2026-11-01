@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inca Curse | 13008 | [13008-inca-curse.json](./13008-inca-curse.json) |
 | Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
+| Inca II: Nations of Immortality | 50272 | [50272-inca-ii-nations-of-immortality.json](./50272-inca-ii-nations-of-immortality.json) |
 | Incandescent | 34997 | [34997-incandescent.json](./34997-incandescent.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incandescent X | 408708 | [408708-incandescent-x.json](./408708-incandescent-x.json) |
@@ -5027,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InVertia | 223801 | [223801-invertia.json](./223801-invertia.json) |
 | Invertinator | 350525 | [350525-invertinator.json](./350525-invertinator.json) |
 | Invertio | 186196 | [186196-invertio.json](./186196-invertio.json) |
+| Inverto | 50255 | [50255-inverto.json](./50255-inverto.json) |
 | Invest | 94215 | [94215-invest.json](./94215-invest.json) |
 | Invest Simulator: Work Stage | 176106 | [176106-invest-simulator-work-stage.json](./176106-invest-simulator-work-stage.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
