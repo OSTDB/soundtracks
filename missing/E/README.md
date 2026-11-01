@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
 | East India Company | 2013 | [2013-east-india-company.json](./2013-east-india-company.json) |
+| East India Company Collection | 52929 | [52929-east-india-company-collection.json](./52929-east-india-company-collection.json) |
 | East India Company: Battle of Trafalgar | 2014 | [2014-east-india-company-battle-of-trafalgar.json](./2014-east-india-company-battle-of-trafalgar.json) |
 | East India Company: Pirate Bay | 2015 | [2015-east-india-company-pirate-bay.json](./2015-east-india-company-pirate-bay.json) |
 | East India Company: Privateer | 2016 | [2016-east-india-company-privateer.json](./2016-east-india-company-privateer.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Tower - Kuon | 35600 | [35600-east-tower-kuon.json](./35600-east-tower-kuon.json) |
 | East Tower - Kurenai | 35601 | [35601-east-tower-kurenai.json](./35601-east-tower-kurenai.json) |
 | East Tower - Takashi | 35599 | [35599-east-tower-takashi.json](./35599-east-tower-takashi.json) |
+| East Tower: Complete Edition | 52928 | [52928-east-tower-complete-edition.json](./52928-east-tower-complete-edition.json) |
 | East Trade Tycoon | 214113 | [214113-east-trade-tycoon.json](./214113-east-trade-tycoon.json) |
 | East Trade Tycoon: Inheritance | 320577 | [320577-east-trade-tycoon-inheritance.json](./320577-east-trade-tycoon-inheritance.json) |
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
@@ -810,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Adventure | 346261 | [346261-echoes-of-adventure.json](./346261-echoes-of-adventure.json) |
 | Echoes of Aeons | 139142 | [139142-echoes-of-aeons.json](./139142-echoes-of-aeons.json) |
 | Echoes of Aetheria | 27759 | [27759-echoes-of-aetheria.json](./27759-echoes-of-aetheria.json) |
+| Echoes of Aetheria: Collector's Edition | 52927 | [52927-echoes-of-aetheria-collectors-edition.json](./52927-echoes-of-aetheria-collectors-edition.json) |
 | Echoes of Agony | 387354 | [387354-echoes-of-agony.json](./387354-echoes-of-agony.json) |
 | Echoes of Aincrad | 393932 | [393932-echoes-of-aincrad.json](./393932-echoes-of-aincrad.json) |
 | Echoes of Aincrad: Genesis Maidens | 416126 | [416126-echoes-of-aincrad-genesis-maidens.json](./416126-echoes-of-aincrad-genesis-maidens.json) |
@@ -850,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Seasons | 364036 | [364036-echoes-of-seasons.json](./364036-echoes-of-seasons.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of Somewhere: Series 1 | 240801 | [240801-echoes-of-somewhere-series-1.json](./240801-echoes-of-somewhere-series-1.json) |
+| Echoes of Sorrow 2 | 52926 | [52926-echoes-of-sorrow-2.json](./52926-echoes-of-sorrow-2.json) |
 | Echoes of Spellcraft | 351157 | [351157-echoes-of-spellcraft.json](./351157-echoes-of-spellcraft.json) |
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
 | Echoes of Steel | 349117 | [349117-echoes-of-steel.json](./349117-echoes-of-steel.json) |
@@ -1683,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
 | Eisenbahn X: Berliner S-Bahn | 172350 | [172350-eisenbahn-x-berliner-s-bahn.json](./172350-eisenbahn-x-berliner-s-bahn.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
+| Eisenhorn: Xenos - Deluxe Edition | 52965 | [52965-eisenhorn-xenos-deluxe-edition.json](./52965-eisenhorn-xenos-deluxe-edition.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
 | Eishockey Manager | 94488 | [94488-eishockey-manager.json](./94488-eishockey-manager.json) |
 | EIsland Hop | 254073 | [254073-eisland-hop.json](./254073-eisland-hop.json) |
@@ -2071,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroplankton Varvoice | 85109 | [85109-electroplankton-varvoice.json](./85109-electroplankton-varvoice.json) |
 | Electroquest: Resistance is Futile | 101310 | [101310-electroquest-resistance-is-futile.json](./101310-electroquest-resistance-is-futile.json) |
 | Elefunk | 21808 | [21808-elefunk.json](./21808-elefunk.json) |
+| Elegant Engineering | 52964 | [52964-elegant-engineering.json](./52964-elegant-engineering.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
 | Elegies: Aya | 202483 | [202483-elegies-aya.json](./202483-elegies-aya.json) |
 | Elegon | 384613 | [384613-elegon.json](./384613-elegon.json) |
@@ -2592,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Legend 2: The Bewitched Tree | 28739 | [28739-elven-legend-2-the-bewitched-tree.json](./28739-elven-legend-2-the-bewitched-tree.json) |
 | Elven Legend 3: The New Menace - Collector's Edition | 416382 | [416382-elven-legend-3-the-new-menace-collectors-edition.json](./416382-elven-legend-3-the-new-menace-collectors-edition.json) |
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
+| Elven Mists | 52963 | [52963-elven-mists.json](./52963-elven-mists.json) |
 | Elven Mists 2 | 209199 | [209199-elven-mists-2.json](./209199-elven-mists-2.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
 | Elven Rivers IV: Raging Waves | 294747 | [294747-elven-rivers-iv-raging-waves.json](./294747-elven-rivers-iv-raging-waves.json) |
@@ -3181,6 +3188,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Blacksmith | 217144 | [217144-enchanted-blacksmith.json](./217144-enchanted-blacksmith.json) |
 | Enchanted Bricks | 221891 | [221891-enchanted-bricks.json](./221891-enchanted-bricks.json) |
 | Enchanted Broom | 384071 | [384071-enchanted-broom.json](./384071-enchanted-broom.json) |
+| Enchanted Cavern | 52954 | [52954-enchanted-cavern.json](./52954-enchanted-cavern.json) |
+| Enchanted Cavern 2 | 52953 | [52953-enchanted-cavern-2.json](./52953-enchanted-cavern-2.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight | 238427 | [238427-enchanted-in-the-moonlight.json](./238427-enchanted-in-the-moonlight.json) |
@@ -3447,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend 2 | 329138 | [329138-endless-legend-2.json](./329138-endless-legend-2.json) |
 | Endless Legend: Definitive Edition | 343851 | [343851-endless-legend-definitive-edition.json](./343851-endless-legend-definitive-edition.json) |
 | Endless Legend: Echoes of Auriga | 168765 | [168765-endless-legend-echoes-of-auriga.json](./168765-endless-legend-echoes-of-auriga.json) |
+| Endless Legend: Emperor Edition | 52951 | [52951-endless-legend-emperor-edition.json](./52951-endless-legend-emperor-edition.json) |
 | Endless Legend: Forgotten Love Add-on | 168766 | [168766-endless-legend-forgotten-love-add-on.json](./168766-endless-legend-forgotten-love-add-on.json) |
 | Endless Legend: Guardians | 14603 | [14603-endless-legend-guardians.json](./14603-endless-legend-guardians.json) |
 | Endless Legend: Shadows | 14604 | [14604-endless-legend-shadows.json](./14604-endless-legend-shadows.json) |
@@ -3454,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Legend: The Lost Tales | 168767 | [168767-endless-legend-the-lost-tales.json](./168767-endless-legend-the-lost-tales.json) |
 | Endless Life | 339749 | [339749-endless-life.json](./339749-endless-life.json) |
+| Endless Loop Complete | 52949 | [52949-endless-loop-complete.json](./52949-endless-loop-complete.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Maze | 405037 | [405037-endless-maze.json](./405037-endless-maze.json) |
@@ -3584,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endoparasitic Jam Version | 374237 | [374237-endoparasitic-jam-version.json](./374237-endoparasitic-jam-version.json) |
 | Endoparasitic VR | 271633 | [271633-endoparasitic-vr.json](./271633-endoparasitic-vr.json) |
 | Endorfire Tower Defense | 164760 | [164760-endorfire-tower-defense.json](./164760-endorfire-tower-defense.json) |
+| Endorlight: Deluxe Edition | 52948 | [52948-endorlight-deluxe-edition.json](./52948-endorlight-deluxe-edition.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Endragon | 192706 | [192706-endragon.json](./192706-endragon.json) |
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
@@ -5919,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis III: Collector's Edition | 52971 | [52971-europa-universalis-iii-collectors-edition.json](./52971-europa-universalis-iii-collectors-edition.json) |
 | Europa Universalis III: Heir to the Throne | 743 | [743-europa-universalis-iii-heir-to-the-throne.json](./743-europa-universalis-iii-heir-to-the-throne.json) |
 | Europa Universalis III: In Nomine | 684 | [684-europa-universalis-iii-in-nomine.json](./684-europa-universalis-iii-in-nomine.json) |
+| Europa Universalis IV Collection | 52968 | [52968-europa-universalis-iv-collection.json](./52968-europa-universalis-iv-collection.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic League Unit Pack | 155329 | [155329-europa-universalis-iv-catholic-league-unit-pack.json](./155329-europa-universalis-iv-catholic-league-unit-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
