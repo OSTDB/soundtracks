@@ -9757,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
 | Gummy Bear Mafia | 330493 | [330493-gummy-bear-mafia.json](./330493-gummy-bear-mafia.json) |
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
+| Gummy Bears Minigolf | 47722 | [47722-gummy-bears-minigolf.json](./47722-gummy-bears-minigolf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
 | Gummy Invaders | 412945 | [412945-gummy-invaders.json](./412945-gummy-invaders.json) |
