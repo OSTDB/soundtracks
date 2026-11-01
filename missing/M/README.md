@@ -5471,7 +5471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13078,6 +13077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 26: Digital Deluxe Edition Bonus Content | 390925 | [390925-mlb-the-show-26-digital-deluxe-edition-bonus-content.json](./390925-mlb-the-show-26-digital-deluxe-edition-bonus-content.json) |
 | MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
 | MLB.com Home Run Derby 14 | 61357 | [61357-mlb-com-home-run-derby-14.json](./61357-mlb-com-home-run-derby-14.json) |
+| MLBPA Baseball | 46345 | [46345-mlbpa-baseball.json](./46345-mlbpa-baseball.json) |
 | MLF 2 | 43242 | [43242-mlf-2.json](./43242-mlf-2.json) |
 | MLF: Pro Catch | 406667 | [406667-mlf-pro-catch.json](./406667-mlf-pro-catch.json) |
 | MLG Flappy Bird 420 | 285148 | [285148-mlg-flappy-bird-420.json](./285148-mlg-flappy-bird-420.json) |
