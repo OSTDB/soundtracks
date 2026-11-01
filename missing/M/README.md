@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnificent 5 | 129995 | [129995-magnificent-5.json](./129995-magnificent-5.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnificent Moths | 354916 | [354916-magnificent-moths.json](./354916-magnificent-moths.json) |
+| Magnificent Ships: Volume 1 | 30455 | [30455-magnificent-ships-volume-1.json](./30455-magnificent-ships-volume-1.json) |
 | Magnificent Ships: Volume 2 | 34664 | [34664-magnificent-ships-volume-2.json](./34664-magnificent-ships-volume-2.json) |
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
 | Magnifico | 17781 | [17781-magnifico.json](./17781-magnifico.json) |
@@ -19301,6 +19302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet Protector 2 | 413085 | [413085-my-pet-protector-2.json](./413085-my-pet-protector-2.json) |
 | My Pet Puppy 3D | 65470 | [65470-my-pet-puppy-3d.json](./65470-my-pet-puppy-3d.json) |
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
+| My Pet Rock | 30456 | [30456-my-pet-rock.json](./30456-my-pet-rock.json) |
 | My Pet School 3D | 84623 | [84623-my-pet-school-3d.json](./84623-my-pet-school-3d.json) |
 | My Pet Store | 361007 | [361007-my-pet-store.json](./361007-my-pet-store.json) |
 | My Pet World | 268376 | [268376-my-pet-world.json](./268376-my-pet-world.json) |
