@@ -899,7 +899,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3205,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Junkyard Challenge | 298937 | [298937-batman-the-junkyard-challenge.json](./298937-batman-the-junkyard-challenge.json) |
 | Batman: The Telltale Series - Episode 1: Realm of Shadows | 26638 | [26638-batman-the-telltale-series-episode-1-realm-of-shadows.json](./26638-batman-the-telltale-series-episode-1-realm-of-shadows.json) |
 | Batman: The Telltale Series - Episode 2: Children of Arkham | 26964 | [26964-batman-the-telltale-series-episode-2-children-of-arkham.json](./26964-batman-the-telltale-series-episode-2-children-of-arkham.json) |
+| Batman: The Telltale Series - Episode 4: Guardian of Gotham | 115071 | [115071-batman-the-telltale-series-episode-4-guardian-of-gotham.json](./115071-batman-the-telltale-series-episode-4-guardian-of-gotham.json) |
 | Batman: The Telltale Series - Shadows Mode | 127561 | [127561-batman-the-telltale-series-shadows-mode.json](./127561-batman-the-telltale-series-shadows-mode.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
@@ -3224,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BATS: Bloodsucker Anti-Terror Squad | 154312 | [154312-bats-bloodsucker-anti-terror-squad.json](./154312-bats-bloodsucker-anti-terror-squad.json) |
 | Batsu Maru | 189894 | [189894-batsu-maru.json](./189894-batsu-maru.json) |
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
+| Batsugun | 16126 | [16126-batsugun.json](./16126-batsugun.json) |
 | Batsugun | 292117 | [292117-batsugun.json](./292117-batsugun.json) |
 | Batsumaru | 191511 | [191511-batsumaru.json](./191511-batsumaru.json) |
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
@@ -4840,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Game | 245701 | [245701-beat-game.json](./245701-beat-game.json) |
 | Beat Guru | 121488 | [121488-beat-guru.json](./121488-beat-guru.json) |
 | Beat Hazard | 7404 | [7404-beat-hazard.json](./7404-beat-hazard.json) |
+| Beat Hazard 2 | 109611 | [109611-beat-hazard-2.json](./109611-beat-hazard-2.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
 | Beat Hazard Ultra | 38882 | [38882-beat-hazard-ultra.json](./38882-beat-hazard-ultra.json) |
@@ -5946,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
 | Ben 10: Alien Force | 2801 | [2801-ben-10-alien-force.json](./2801-ben-10-alien-force.json) |
 | Ben 10: Backpack | 363891 | [363891-ben-10-backpack.json](./363891-ben-10-backpack.json) |
+| Ben 10: Battle Ready | 114145 | [114145-ben-10-battle-ready.json](./114145-ben-10-battle-ready.json) |
 | Ben 10: Ben to the Rescue | 203084 | [203084-ben-10-ben-to-the-rescue.json](./203084-ben-10-ben-to-the-rescue.json) |
 | Ben 10: Blockade Blitz | 221061 | [221061-ben-10-blockade-blitz.json](./221061-ben-10-blockade-blitz.json) |
 | Ben 10: Cannonbolt Pinball - Ghostfreak's Revenge | 340798 | [340798-ben-10-cannonbolt-pinball-ghostfreaks-revenge.json](./340798-ben-10-cannonbolt-pinball-ghostfreaks-revenge.json) |
