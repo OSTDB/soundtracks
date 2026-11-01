@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keen | 30163 | [30163-keen.json](./30163-keen.json) |
 | Keena The Voidslayer | 419332 | [419332-keena-the-voidslayer.json](./419332-keena-the-voidslayer.json) |
 | Keep Away | 359741 | [359741-keep-away.json](./359741-keep-away.json) |
+| Keep Balance VR | 29454 | [29454-keep-balance-vr.json](./29454-keep-balance-vr.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
 | Keep Cutting | 406146 | [406146-keep-cutting.json](./406146-keep-cutting.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
@@ -2625,7 +2626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3773,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteretsu Soudan Dial: Heard Mikaishuu Kaii nomi Shutsugen | 301623 | [301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json](./301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kiteyo Perman | 218252 | [218252-kiteyo-perman.json](./218252-kiteyo-perman.json) |
+| Kith - Tales from the Fractured Plateaus | 29400 | [29400-kith-tales-from-the-fractured-plateaus.json](./29400-kith-tales-from-the-fractured-plateaus.json) |
 | Kithack Model Club | 244685 | [244685-kithack-model-club.json](./244685-kithack-model-club.json) |
 | Kithe #14 | 137506 | [137506-kithe-14.json](./137506-kithe-14.json) |
 | Kiting Cat | 323683 | [323683-kiting-cat.json](./323683-kiting-cat.json) |
