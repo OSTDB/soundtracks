@@ -4927,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
 | Final Taptasy | 229189 | [229189-final-taptasy.json](./229189-final-taptasy.json) |
 | Final Test Cartridge | 47200 | [47200-final-test-cartridge.json](./47200-final-test-cartridge.json) |
+| Final Tetris | 39935 | [39935-final-tetris.json](./39935-final-tetris.json) |
 | Final Theosis | 29882 | [29882-final-theosis.json](./29882-final-theosis.json) |
 | Final Third | 389475 | [389475-final-third.json](./389475-final-third.json) |
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
