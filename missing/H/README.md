@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony of Fear | 337207 | [337207-harmony-of-fear.json](./337207-harmony-of-fear.json) |
 | Harmony Overture | 199997 | [199997-harmony-overture.json](./199997-harmony-overture.json) |
 | Harmony Summer Hardpack Tape 11-in-1 | 279203 | [279203-harmony-summer-hardpack-tape-11-in-1.json](./279203-harmony-summer-hardpack-tape-11-in-1.json) |
+| Harmony: The Fall of Reverie | 236662 | [236662-harmony-the-fall-of-reverie.json](./236662-harmony-the-fall-of-reverie.json) |
 | Harmony's Odyssey | 152093 | [152093-harmonys-odyssey.json](./152093-harmonys-odyssey.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
