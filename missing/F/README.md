@@ -10393,6 +10393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin the Turtle Learns Math | 289742 | [289742-franklin-the-turtle-learns-math.json](./289742-franklin-the-turtle-learns-math.json) |
 | Franklin: A Birthday Surprise | 118948 | [118948-franklin-a-birthday-surprise.json](./118948-franklin-a-birthday-surprise.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
+| Franko: The Crazy Revenge | 46996 | [46996-franko-the-crazy-revenge.json](./46996-franko-the-crazy-revenge.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
 | Franky the Bumwalker: Reborn | 172327 | [172327-franky-the-bumwalker-reborn.json](./172327-franky-the-bumwalker-reborn.json) |
