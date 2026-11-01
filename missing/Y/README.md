@@ -1949,7 +1949,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuki | 123921 | [123921-yuuki.json](./123921-yuuki.json) |
 | Yuuki no Suiri Nori | 222252 | [222252-yuuki-no-suiri-nori.json](./222252-yuuki-no-suiri-nori.json) |
 | Yuuki no Suiri Nori 3: Balance no Ii Shokuji | 251624 | [251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json](./251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json) |
+| Yuuki Yuna wa Yuusha de Aru: Jukai no Kioku | 11784 | [11784-yuuki-yuna-wa-yuusha-de-aru-jukai-no-kioku.json](./11784-yuuki-yuna-wa-yuusha-de-aru-jukai-no-kioku.json) |
+| Yuuki Yuuna ha Yuusha de Aru | 11787 | [11787-yuuki-yuuna-ha-yuusha-de-aru.json](./11787-yuuki-yuuna-ha-yuusha-de-aru.json) |
 | Yuuki Yuuna ha Yuusha de Aru A | 375526 | [375526-yuuki-yuuna-ha-yuusha-de-aru-a.json](./375526-yuuki-yuuna-ha-yuusha-de-aru-a.json) |
+| Yuuki Yuuna ha Yuusha de Aru S | 11788 | [11788-yuuki-yuuna-ha-yuusha-de-aru-s.json](./11788-yuuki-yuuna-ha-yuusha-de-aru-s.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Gyoki Danshou | 364577 | [364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json](./364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 5 | 292883 | [292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json](./292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json) |
 | Yuuki's Party Night | 286518 | [286518-yuukis-party-night.json](./286518-yuukis-party-night.json) |
