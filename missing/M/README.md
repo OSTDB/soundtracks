@@ -10942,6 +10942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Flowers | 380221 | [380221-mind-flowers.json](./380221-mind-flowers.json) |
 | Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
+| Mind Grind | 62397 | [62397-mind-grind.json](./62397-mind-grind.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind Hunt | 220444 | [220444-mind-hunt.json](./220444-mind-hunt.json) |
 | Mind if I drop in? | 176288 | [176288-mind-if-i-drop-in.json](./176288-mind-if-i-drop-in.json) |
@@ -16617,6 +16618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Fun | 246396 | [246396-move-fun.json](./246396-move-fun.json) |
 | Move It | 59800 | [59800-move-it.json](./59800-move-it.json) |
 | Move It Up | 157369 | [157369-move-it-up.json](./157369-move-it-up.json) |
+| Move It! | 62391 | [62391-move-it.json](./62391-move-it.json) |
 | Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move Nature | 234735 | [234735-move-nature.json](./234735-move-nature.json) |
 | Move On | 237261 | [237261-move-on.json](./237261-move-on.json) |
