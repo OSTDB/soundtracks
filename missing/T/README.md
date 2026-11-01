@@ -692,8 +692,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Daifugo Cross | 198199 | [198199-taisen-daifugo-cross.json](./198199-taisen-daifugo-cross.json) |
 | Taisen Golf | 198206 | [198206-taisen-golf.json](./198206-taisen-golf.json) |
 | Taisen Golf | 198208 | [198208-taisen-golf.json](./198208-taisen-golf.json) |
+| Taisen Hot Gimmick | 56228 | [56228-taisen-hot-gimmick.json](./56228-taisen-hot-gimmick.json) |
+| Taisen Hot Gimmick 3: Digital Surfing | 56222 | [56222-taisen-hot-gimmick-3-digital-surfing.json](./56222-taisen-hot-gimmick-3-digital-surfing.json) |
+| Taisen Hot Gimmick Kairakuten | 56221 | [56221-taisen-hot-gimmick-kairakuten.json](./56221-taisen-hot-gimmick-kairakuten.json) |
 | Taisen Hot Gimmick: Axes-Jong | 282136 | [282136-taisen-hot-gimmick-axes-jong.json](./282136-taisen-hot-gimmick-axes-jong.json) |
 | Taisen Hot Gimmick: Axes-Jong | 97968 | [97968-taisen-hot-gimmick-axes-jong.json](./97968-taisen-hot-gimmick-axes-jong.json) |
+| Taisen Hot Gimmick: Cosplay-Jan | 56225 | [56225-taisen-hot-gimmick-cosplay-jan.json](./56225-taisen-hot-gimmick-cosplay-jan.json) |
 | Taisen Hot Gimmick: Cosplay-Jan for Nintendo Switch | 105022 | [105022-taisen-hot-gimmick-cosplay-jan-for-nintendo-switch.json](./105022-taisen-hot-gimmick-cosplay-jan-for-nintendo-switch.json) |
 | Taisen IQ | 198203 | [198203-taisen-iq.json](./198203-taisen-iq.json) |
 | Taisen IQ + | 198204 | [198204-taisen-iq.json](./198204-taisen-iq.json) |
@@ -2200,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap To Jump On Time 3D | 254389 | [254389-tap-to-jump-on-time-3d.json](./254389-tap-to-jump-on-time-3d.json) |
 | Tap to Merge | 227164 | [227164-tap-to-merge.json](./227164-tap-to-merge.json) |
 | Tap Touch Run | 37422 | [37422-tap-touch-run.json](./37422-tap-touch-run.json) |
+| Tap Toy | 56194 | [56194-tap-toy.json](./56194-tap-toy.json) |
 | Tap Track Heroes | 241864 | [241864-tap-track-heroes.json](./241864-tap-track-heroes.json) |
 | Tap Transcend | 58137 | [58137-tap-transcend.json](./58137-tap-transcend.json) |
 | Tap Transcend: Rebirth | 58130 | [58130-tap-transcend-rebirth.json](./58130-tap-transcend-rebirth.json) |
@@ -12707,6 +12712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The MisAdventures of Xenos: Legacy Edition | 292642 | [292642-the-misadventures-of-xenos-legacy-edition.json](./292642-the-misadventures-of-xenos-legacy-edition.json) |
 | The Miser's House | 25116 | [25116-the-misers-house.json](./25116-the-misers-house.json) |
 | The Miserable Crimson Hooded Girl | 125041 | [125041-the-miserable-crimson-hooded-girl.json](./125041-the-miserable-crimson-hooded-girl.json) |
+| The Misfits | 56229 | [56229-the-misfits.json](./56229-the-misfits.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Mishka Effect | 393274 | [393274-the-mishka-effect.json](./393274-the-mishka-effect.json) |
@@ -12886,6 +12892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy: Tomb of the Dragon Emperor | 5023 | [5023-the-mummy-tomb-of-the-dragon-emperor.json](./5023-the-mummy-tomb-of-the-dragon-emperor.json) |
 | The Muncher | 67800 | [67800-the-muncher.json](./67800-the-muncher.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
+| The Munsters | 56224 | [56224-the-munsters.json](./56224-the-munsters.json) |
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
 | The Muppet Show: Backstage Rampage | 343182 | [343182-the-muppet-show-backstage-rampage.json](./343182-the-muppet-show-backstage-rampage.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
@@ -16097,6 +16104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
 | The Terrible Persistence of Memory | 152702 | [152702-the-terrible-persistence-of-memory.json](./152702-the-terrible-persistence-of-memory.json) |
+| The Terrible Whiteness of Appalachian Nights | 56212 | [56212-the-terrible-whiteness-of-appalachian-nights.json](./56212-the-terrible-whiteness-of-appalachian-nights.json) |
 | The Territory of Egg | 242415 | [242415-the-territory-of-egg.json](./242415-the-territory-of-egg.json) |
 | The Territory of Egg 2 | 309559 | [309559-the-territory-of-egg-2.json](./309559-the-territory-of-egg-2.json) |
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
@@ -28510,6 +28518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Action | 5709 | [5709-triple-action.json](./5709-triple-action.json) |
 | Triple Action Volume 5 | 93382 | [93382-triple-action-volume-5.json](./93382-triple-action-volume-5.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
+| Triple Breakout | 56195 | [56195-triple-breakout.json](./56195-triple-breakout.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
 | Triple Canopy no Majo | 235936 | [235936-triple-canopy-no-majo.json](./235936-triple-canopy-no-majo.json) |
 | Triple Command | 42158 | [42158-triple-command.json](./42158-triple-command.json) |
