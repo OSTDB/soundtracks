@@ -2637,7 +2637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3079,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest Collector's Edition | 213196 | [213196-kings-quest-collectors-edition.json](./213196-kings-quest-collectors-edition.json) |
 | King's Quest II: Romancing the Stones | 77309 | [77309-kings-quest-ii-romancing-the-stones.json](./77309-kings-quest-ii-romancing-the-stones.json) |
+| King's Quest II: Romancing the Throne | 852 | [852-kings-quest-ii-romancing-the-throne.json](./852-kings-quest-ii-romancing-the-throne.json) |
 | King's Quest III Redux: To Heir is Human | 132066 | [132066-kings-quest-iii-redux-to-heir-is-human.json](./132066-kings-quest-iii-redux-to-heir-is-human.json) |
 | King's Quest IV: The Perils of Rosella | 744 | [744-kings-quest-iv-the-perils-of-rosella.json](./744-kings-quest-iv-the-perils-of-rosella.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
@@ -3448,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Corda Octave | 109570 | [109570-kiniro-no-corda-octave.json](./109570-kiniro-no-corda-octave.json) |
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
+| KinitoPet | 282456 | [282456-kinitopet.json](./282456-kinitopet.json) |
 | Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
 | Kinkoi: Golden Time | 207708 | [207708-kinkoi-golden-time.json](./207708-kinkoi-golden-time.json) |
 | Kinkshamed | 105181 | [105181-kinkshamed.json](./105181-kinkshamed.json) |
@@ -5230,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kǒudài Guàishòu Lǜyè Bǎn I | 341936 | [341936-koudai-guaishou-luye-ban-i.json](./341936-koudai-guaishou-luye-ban-i.json) |
 | Kǒudài Guàishòu Lǜyè Bǎn II | 341937 | [341937-koudai-guaishou-luye-ban-ii.json](./341937-koudai-guaishou-luye-ban-ii.json) |
 | Kǒudài Guàishòu Lǜyè Bǎn III | 341938 | [341938-koudai-guaishou-luye-ban-iii.json](./341938-koudai-guaishou-luye-ban-iii.json) |
+| Koudelka | 4169 | [4169-koudelka.json](./4169-koudelka.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training | 56214 | [56214-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json](./56214-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json) |
 | Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training 2 | 56215 | [56215-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training-2.json](./56215-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training-2.json) |
