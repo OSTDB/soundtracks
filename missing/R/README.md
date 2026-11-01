@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
 | Rance IV: Kyoudan no Isan | 41405 | [41405-rance-iv-kyoudan-no-isan.json](./41405-rance-iv-kyoudan-no-isan.json) |
 | Rance IX | 384827 | [384827-rance-ix.json](./384827-rance-ix.json) |
+| Rance IX: The Helmanian Revolution | 60726 | [60726-rance-ix-the-helmanian-revolution.json](./60726-rance-ix-the-helmanian-revolution.json) |
 | Rance Quest | 132689 | [132689-rance-quest.json](./132689-rance-quest.json) |
 | Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
 | Rance Quest Magnum | 384830 | [384830-rance-quest-magnum.json](./384830-rance-quest-magnum.json) |
@@ -4056,8 +4057,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Refinery Complex | 259398 | [259398-refinery-complex.json](./259398-refinery-complex.json) |
 | Refixion | 242739 | [242739-refixion.json](./242739-refixion.json) |
+| Reflec Beat Colette | 60820 | [60820-reflec-beat-colette.json](./60820-reflec-beat-colette.json) |
+| Reflec Beat Groovin'!! | 60819 | [60819-reflec-beat-groovin.json](./60819-reflec-beat-groovin.json) |
 | Reflec Beat Groovin'!! Upper | 395944 | [395944-reflec-beat-groovin-upper.json](./395944-reflec-beat-groovin-upper.json) |
 | Reflec Beat Limelight | 76462 | [76462-reflec-beat-limelight.json](./76462-reflec-beat-limelight.json) |
+| Reflec Beat Plus | 60818 | [60818-reflec-beat-plus.json](./60818-reflec-beat-plus.json) |
 | Reflec Beat Volzza | 369138 | [369138-reflec-beat-volzza.json](./369138-reflec-beat-volzza.json) |
 | Reflec Beat: The Reflesia of Eternity | 140455 | [140455-reflec-beat-the-reflesia-of-eternity.json](./140455-reflec-beat-the-reflesia-of-eternity.json) |
 | Reflect Laser | 399670 | [399670-reflect-laser.json](./399670-reflect-laser.json) |
@@ -7249,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Stikeez | 176696 | [176696-rise-of-stikeez.json](./176696-rise-of-stikeez.json) |
 | Rise of the Ancients | 32459 | [32459-rise-of-the-ancients.json](./32459-rise-of-the-ancients.json) |
 | Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
+| Rise of the Badlands | 60750 | [60750-rise-of-the-badlands.json](./60750-rise-of-the-badlands.json) |
 | Rise of the Blobs | 22157 | [22157-rise-of-the-blobs.json](./22157-rise-of-the-blobs.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
 | Rise of the Cones: Planetary Defense | 383576 | [383576-rise-of-the-cones-planetary-defense.json](./383576-rise-of-the-cones-planetary-defense.json) |
