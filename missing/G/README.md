@@ -6144,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 246998 | [246998-golf.json](./246998-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf | 310990 | [310990-golf.json](./310990-golf.json) |
+| Golf | 3399 | [3399-golf.json](./3399-golf.json) |
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
 | Golf | 372204 | [372204-golf.json](./372204-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
@@ -6790,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Simulator | 396017 | [396017-gorilla-simulator.json](./396017-gorilla-simulator.json) |
 | Gorilla Slot Infinity | 326704 | [326704-gorilla-slot-infinity.json](./326704-gorilla-slot-infinity.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
+| Gorilla Tag | 143228 | [143228-gorilla-tag.json](./143228-gorilla-tag.json) |
 | Gorilla Unko | 387627 | [387627-gorilla-unko.json](./387627-gorilla-unko.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
 | Gorillas-Lab | 376628 | [376628-gorillas-lab.json](./376628-gorillas-lab.json) |
