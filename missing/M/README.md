@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maptroid: Worlds | 217198 | [217198-maptroid-worlds.json](./217198-maptroid-worlds.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
+| Maquette | 132038 | [132038-maquette.json](./132038-maquette.json) |
 | Maquisard | 128427 | [128427-maquisard.json](./128427-maquisard.json) |
 | Mar | 405636 | [405636-mar.json](./405636-mar.json) |
 | Mär Heaven: Arm Fight Dream | 59398 | [59398-mar-heaven-arm-fight-dream.json](./59398-mar-heaven-arm-fight-dream.json) |
@@ -9095,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Triple Pack | 268630 | [268630-metal-slug-triple-pack.json](./268630-metal-slug-triple-pack.json) |
 | Metal Slug X | 18840 | [18840-metal-slug-x.json](./18840-metal-slug-x.json) |
 | Metal Slug X | 191478 | [191478-metal-slug-x.json](./191478-metal-slug-x.json) |
+| Metal Slug XX | 21760 | [21760-metal-slug-xx.json](./21760-metal-slug-xx.json) |
 | Metal Slug Zero Online | 137929 | [137929-metal-slug-zero-online.json](./137929-metal-slug-zero-online.json) |
 | Metal Slug: Attack | 59100 | [59100-metal-slug-attack.json](./59100-metal-slug-attack.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
@@ -12799,6 +12801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
 | Mission: Impossible | 118557 | [118557-mission-impossible.json](./118557-mission-impossible.json) |
 | Mission: Impossible | 219019 | [219019-mission-impossible.json](./219019-mission-impossible.json) |
+| Mission: Impossible | 3123 | [3123-mission-impossible.json](./3123-mission-impossible.json) |
 | Mission: Impossible | 68337 | [68337-mission-impossible.json](./68337-mission-impossible.json) |
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
 | Mission: Impossible - Operation Surma | 248447 | [248447-mission-impossible-operation-surma.json](./248447-mission-impossible-operation-surma.json) |
