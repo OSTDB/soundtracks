@@ -3937,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers: Turning Up the Heat | 267989 | [267989-helldivers-turning-up-the-heat.json](./267989-helldivers-turning-up-the-heat.json) |
 | Helldivers: Vehicles Pack | 167665 | [167665-helldivers-vehicles-pack.json](./167665-helldivers-vehicles-pack.json) |
 | Helldivers: Weapons Pack | 167663 | [167663-helldivers-weapons-pack.json](./167663-helldivers-weapons-pack.json) |
+| Helldrivers | 46983 | [46983-helldrivers.json](./46983-helldrivers.json) |
 | Helle's Undersea City Project: Bringing Air to The Garden | 266092 | [266092-helles-undersea-city-project-bringing-air-to-the-garden.json](./266092-helles-undersea-city-project-bringing-air-to-the-garden.json) |
 | Helle's Undersea City Project: Bringing Air to The Garden - Nakino Mashiro | 276573 | [276573-helles-undersea-city-project-bringing-air-to-the-garden-nakino-mashiro.json](./276573-helles-undersea-city-project-bringing-air-to-the-garden-nakino-mashiro.json) |
 | Helleidoscope | 364674 | [364674-helleidoscope.json](./364674-helleidoscope.json) |
