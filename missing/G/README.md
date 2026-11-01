@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini Strategy Origin | 156893 | [156893-gemini-strategy-origin.json](./156893-gemini-strategy-origin.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
 | Gemini X | 404926 | [404926-gemini-x.json](./404926-gemini-x.json) |
+| Gemini_X | 27279 | [27279-gemini-x.json](./27279-gemini-x.json) |
 | Gemini: A Journey of Two Stars | 57734 | [57734-gemini-a-journey-of-two-stars.json](./57734-gemini-a-journey-of-two-stars.json) |
 | Gemini: Binary Conflict | 133085 | [133085-gemini-binary-conflict.json](./133085-gemini-binary-conflict.json) |
 | Gemini: Heroes Reborn | 19932 | [19932-gemini-heroes-reborn.json](./19932-gemini-heroes-reborn.json) |
@@ -9366,6 +9367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians | 258382 | [258382-guardians.json](./258382-guardians.json) |
 | Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
+| Guardians of Arcadia - Episode 1 | 27173 | [27173-guardians-of-arcadia-episode-1.json](./27173-guardians-of-arcadia-episode-1.json) |
 | Guardians of Atlas | 46726 | [46726-guardians-of-atlas.json](./46726-guardians-of-atlas.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
 | Guardians of Dao | 391995 | [391995-guardians-of-dao.json](./391995-guardians-of-dao.json) |
