@@ -8824,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash Cats | 262834 | [262834-clash-cats.json](./262834-clash-cats.json) |
 | Clash Cup Turbo | 34703 | [34703-clash-cup-turbo.json](./34703-clash-cup-turbo.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
+| Clash For Dawn | 57986 | [57986-clash-for-dawn.json](./57986-clash-for-dawn.json) |
 | Clash Force | 72405 | [72405-clash-force.json](./72405-clash-force.json) |
 | Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
 | Clash II | 150930 | [150930-clash-ii.json](./150930-clash-ii.json) |
@@ -8882,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Warlords | 153333 | [153333-clash-of-warlords.json](./153333-clash-of-warlords.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
 | Clash of Weirdos: Card Carnage | 347315 | [347315-clash-of-weirdos-card-carnage.json](./347315-clash-of-weirdos-card-carnage.json) |
+| Clash of Wizards | 58101 | [58101-clash-of-wizards.json](./58101-clash-of-wizards.json) |
 | Clash Quest | 145533 | [145533-clash-quest.json](./145533-clash-quest.json) |
 | Clash Royale | 15707 | [15707-clash-royale.json](./15707-clash-royale.json) |
 | Clash Vs. | 331362 | [331362-clash-vs.json](./331362-clash-vs.json) |
@@ -13246,6 +13248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
+| Cops: On Patrol | 57984 | [57984-cops-on-patrol.json](./57984-cops-on-patrol.json) |
 | Copta Snatch | 73865 | [73865-copta-snatch.json](./73865-copta-snatch.json) |
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter 271 | 13516 | [13516-copter-271.json](./13516-copter-271.json) |
