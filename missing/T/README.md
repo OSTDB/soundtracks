@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Berseria Remastered: Deluxe Edition | 378859 | [378859-tales-of-berseria-remastered-deluxe-edition.json](./378859-tales-of-berseria-remastered-deluxe-edition.json) |
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
 | Tales of Bibliotheca | 294590 | [294590-tales-of-bibliotheca.json](./294590-tales-of-bibliotheca.json) |
+| Tales of Blood and Sand | 59572 | [59572-tales-of-blood-and-sand.json](./59572-tales-of-blood-and-sand.json) |
 | Tales of Card Evolve | 294591 | [294591-tales-of-card-evolve.json](./294591-tales-of-card-evolve.json) |
 | Tales of Chandar | 149681 | [149681-tales-of-chandar.json](./149681-tales-of-chandar.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
@@ -15652,6 +15653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Standing Stones | 24786 | [24786-the-standing-stones.json](./24786-the-standing-stones.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
 | The Stanley Parable Demonstration | 14544 | [14544-the-stanley-parable-demonstration.json](./14544-the-stanley-parable-demonstration.json) |
+| The Star and the Crescent | 59588 | [59588-the-star-and-the-crescent.json](./59588-the-star-and-the-crescent.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
 | The Stare | 332384 | [332384-the-stare.json](./332384-the-stare.json) |
@@ -29173,6 +29175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Breakout | 330480 | [330480-trump-breakout.json](./330480-trump-breakout.json) |
 | Trump Cake Mania | 328910 | [328910-trump-cake-mania.json](./328910-trump-cake-mania.json) |
 | Trump Cards | 383616 | [383616-trump-cards.json](./383616-trump-cards.json) |
+| Trump Castle 3 | 59602 | [59602-trump-castle-3.json](./59602-trump-castle-3.json) |
 | Trump Castle II | 73692 | [73692-trump-castle-ii.json](./73692-trump-castle-ii.json) |
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
