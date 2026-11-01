@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Speed & Seed Bundle | 164701 | [164701-ea-speed-and-seed-bundle.json](./164701-ea-speed-and-seed-bundle.json) |
 | EA Sports | 220088 | [220088-ea-sports.json](./220088-ea-sports.json) |
 | EA Sports Active 2.0 | 47422 | [47422-ea-sports-active-2-0.json](./47422-ea-sports-active-2-0.json) |
+| EA Sports Active NFL Training Camp | 4828 | [4828-ea-sports-active-nfl-training-camp.json](./4828-ea-sports-active-nfl-training-camp.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
 | EA Sports College Football 27 | 400601 | [400601-ea-sports-college-football-27.json](./400601-ea-sports-college-football-27.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Life Care | 181886 | [181886-end-of-life-care.json](./181886-end-of-life-care.json) |
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
 | End of Lines | 188903 | [188903-end-of-lines.json](./188903-end-of-lines.json) |
+| End of Nations | 1903 | [1903-end-of-nations.json](./1903-end-of-nations.json) |
 | End of Night | 211972 | [211972-end-of-night.json](./211972-end-of-night.json) |
 | End of Overlord | 375902 | [375902-end-of-overlord.json](./375902-end-of-overlord.json) |
 | End of Panduora | 158375 | [158375-end-of-panduora.json](./158375-end-of-panduora.json) |
@@ -7586,7 +7588,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Formula Championship 2015 | 88450 | [88450-extreme-formula-championship-2015.json](./88450-extreme-formula-championship-2015.json) |
 | Extreme Gear: Demolition Arena | 98172 | [98172-extreme-gear-demolition-arena.json](./98172-extreme-gear-demolition-arena.json) |
+| Extreme Ghostbusters | 8161 | [8161-extreme-ghostbusters.json](./8161-extreme-ghostbusters.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
+| Extreme Ghostbusters: The Ultimate Invasion | 8162 | [8162-extreme-ghostbusters-the-ultimate-invasion.json](./8162-extreme-ghostbusters-the-ultimate-invasion.json) |
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
 | Extreme Hangman | 67012 | [67012-extreme-hangman.json](./67012-extreme-hangman.json) |
 | Extreme Hangman 2 | 62255 | [62255-extreme-hangman-2.json](./62255-extreme-hangman-2.json) |
@@ -7671,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeRetroArena | 235887 | [235887-extremeretroarena.json](./235887-extremeretroarena.json) |
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
+| Extrme Ghostbusters: Code Ecto-1 | 8160 | [8160-extrme-ghostbusters-code-ecto-1.json](./8160-extrme-ghostbusters-code-ecto-1.json) |
 | Extrocore | 379726 | [379726-extrocore.json](./379726-extrocore.json) |
 | Exurgo | 118674 | [118674-exurgo.json](./118674-exurgo.json) |
 | Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
