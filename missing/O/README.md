@@ -3235,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation F.A.T.E. | 152865 | [152865-operation-f-a-t-e.json](./152865-operation-f-a-t-e.json) |
 | Operation Fireball | 293744 | [293744-operation-fireball.json](./293744-operation-fireball.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
+| Operation Flashpoint: Dragon Rising | 451 | [451-operation-flashpoint-dragon-rising.json](./451-operation-flashpoint-dragon-rising.json) |
 | Operation Flashpoint: Game of the Year Edition | 162619 | [162619-operation-flashpoint-game-of-the-year-edition.json](./162619-operation-flashpoint-game-of-the-year-edition.json) |
 | Operation Flashpoint: Red Hammer | 449 | [449-operation-flashpoint-red-hammer.json](./449-operation-flashpoint-red-hammer.json) |
 | Operation Flashpoint: Red River | 450 | [450-operation-flashpoint-red-river.json](./450-operation-flashpoint-red-river.json) |
