@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on a Watcher Duty: Anniversary Special | 259725 | [259725-im-on-a-watcher-duty-anniversary-special.json](./259725-im-on-a-watcher-duty-anniversary-special.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
+| I'm on Observation Duty | 116475 | [116475-im-on-observation-duty.json](./116475-im-on-observation-duty.json) |
 | I'm on Observation Duty 2 | 132583 | [132583-im-on-observation-duty-2.json](./132583-im-on-observation-duty-2.json) |
 | I'm on Observation Duty 3 | 141126 | [141126-im-on-observation-duty-3.json](./141126-im-on-observation-duty-3.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
@@ -2429,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium | 13070 | [13070-imperium.json](./13070-imperium.json) |
 | Imperium | 15220 | [15220-imperium.json](./15220-imperium.json) |
 | Imperium BCE | 169626 | [169626-imperium-bce.json](./169626-imperium-bce.json) |
+| Imperium Galactica | 15188 | [15188-imperium-galactica.json](./15188-imperium-galactica.json) |
 | Imperium Galactica II: Alliances | 15186 | [15186-imperium-galactica-ii-alliances.json](./15186-imperium-galactica-ii-alliances.json) |
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
@@ -3039,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Great Circle: The Last Crusade Pack - Traveling Suit Outfit | 390921 | [390921-indiana-jones-and-the-great-circle-the-last-crusade-pack-traveling-suit-outfit.json](./390921-indiana-jones-and-the-great-circle-the-last-crusade-pack-traveling-suit-outfit.json) |
 | Indiana Jones and the Great Circle: The Order of Giants | 321852 | [321852-indiana-jones-and-the-great-circle-the-order-of-giants.json](./321852-indiana-jones-and-the-great-circle-the-order-of-giants.json) |
 | Indiana Jones and the Infernal Machine | 200405 | [200405-indiana-jones-and-the-infernal-machine.json](./200405-indiana-jones-and-the-infernal-machine.json) |
+| Indiana Jones and the Last Crusade | 114760 | [114760-indiana-jones-and-the-last-crusade.json](./114760-indiana-jones-and-the-last-crusade.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 185 | [185-indiana-jones-and-the-last-crusade-the-action-game.json](./185-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 307079 | [307079-indiana-jones-and-the-last-crusade-the-action-game.json](./307079-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Lost Puzzles | 61042 | [61042-indiana-jones-and-the-lost-puzzles.json](./61042-indiana-jones-and-the-lost-puzzles.json) |
@@ -6148,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Too Rainy Day | 116057 | [116057-its-too-rainy-day.json](./116057-its-too-rainy-day.json) |
 | It's Walky! Resurrection | 60470 | [60470-its-walky-resurrection.json](./60470-its-walky-resurrection.json) |
 | It's Wiggle Time | 92679 | [92679-its-wiggle-time.json](./92679-its-wiggle-time.json) |
+| It's Winter | 115591 | [115591-its-winter.json](./115591-its-winter.json) |
 | It's You: A Breakup Story | 105097 | [105097-its-you-a-breakup-story.json](./105097-its-you-a-breakup-story.json) |
 | It's Zoro's Birthday! | 184315 | [184315-its-zoros-birthday.json](./184315-its-zoros-birthday.json) |
 | It'sRoachTime! | 192873 | [192873-itsroachtime.json](./192873-itsroachtime.json) |
