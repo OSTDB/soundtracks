@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jobhunt | 178465 | [178465-jobhunt.json](./178465-jobhunt.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
 | Jobmania: Eternal Dungeon | 176883 | [176883-jobmania-eternal-dungeon.json](./176883-jobmania-eternal-dungeon.json) |
+| Jobous the alien R | 55555 | [55555-jobous-the-alien-r.json](./55555-jobous-the-alien-r.json) |
 | Jobsworth Weekly | 290526 | [290526-jobsworth-weekly.json](./290526-jobsworth-weekly.json) |
 | Jobu-Ki | 113147 | [113147-jobu-ki.json](./113147-jobu-ki.json) |
 | Jock and the Time Rings | 294211 | [294211-jock-and-the-time-rings.json](./294211-jock-and-the-time-rings.json) |
