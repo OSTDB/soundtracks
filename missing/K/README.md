@@ -4321,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights End | 390270 | [390270-knights-end.json](./390270-knights-end.json) |
 | Knights Fight 2: New Blood | 188313 | [188313-knights-fight-2-new-blood.json](./188313-knights-fight-2-new-blood.json) |
 | Knights Hunt | 72501 | [72501-knights-hunt.json](./72501-knights-hunt.json) |
+| Knights in Shining Armor: Our King's Tale Episode 1 | 25378 | [25378-knights-in-shining-armor-our-kings-tale-episode-1.json](./25378-knights-in-shining-armor-our-kings-tale-episode-1.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
 | Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
 | Knights in Tight Spaces: Collector's Edition | 406335 | [406335-knights-in-tight-spaces-collectors-edition.json](./406335-knights-in-tight-spaces-collectors-edition.json) |
