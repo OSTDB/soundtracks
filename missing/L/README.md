@@ -6511,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop: Summer! | 217202 | [217202-lollipop-summer.json](./217202-lollipop-summer.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
+| Lolly Joe | 33660 | [33660-lolly-joe.json](./33660-lolly-joe.json) |
 | Lolly Pang VR | 110523 | [110523-lolly-pang-vr.json](./110523-lolly-pang-vr.json) |
 | Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
 | LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
@@ -7058,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Mysteries | 373593 | [373593-lord-of-mysteries.json](./373593-lord-of-mysteries.json) |
 | Lord of Nazarick | 317316 | [317316-lord-of-nazarick.json](./317316-lord-of-nazarick.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
+| Lord of Rigel | 33640 | [33640-lord-of-rigel.json](./33640-lord-of-rigel.json) |
 | Lord of Terror | 250490 | [250490-lord-of-terror.json](./250490-lord-of-terror.json) |
 | Lord of the Balrogs | 47225 | [47225-lord-of-the-balrogs.json](./47225-lord-of-the-balrogs.json) |
 | Lord of the Click 2 | 159778 | [159778-lord-of-the-click-2.json](./159778-lord-of-the-click-2.json) |
@@ -7282,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Blade | 208171 | [208171-lost-blade.json](./208171-lost-blade.json) |
 | Lost Borderline | 97071 | [97071-lost-borderline.json](./97071-lost-borderline.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
+| Lost Bros | 33691 | [33691-lost-bros.json](./33691-lost-bros.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
