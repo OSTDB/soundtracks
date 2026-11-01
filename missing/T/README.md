@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis | 246999 | [246999-table-tennis.json](./246999-table-tennis.json) |
 | Table Tennis | 277711 | [277711-table-tennis.json](./277711-table-tennis.json) |
 | Table Tennis | 325358 | [325358-table-tennis.json](./325358-table-tennis.json) |
+| Table Tennis Championship | 25463 | [25463-table-tennis-championship.json](./25463-table-tennis-championship.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Pro | 155421 | [155421-table-tennis-pro.json](./155421-table-tennis-pro.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
@@ -6701,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Chicken Game | 229603 | [229603-the-chicken-game.json](./229603-the-chicken-game.json) |
 | The Chicken's Fall | 172910 | [172910-the-chickens-fall.json](./172910-the-chickens-fall.json) |
+| The Chickenator | 25381 | [25381-the-chickenator.json](./25381-the-chickenator.json) |
 | The Chikafag and Chika | 165133 | [165133-the-chikafag-and-chika.json](./165133-the-chikafag-and-chika.json) |
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Children of Clay | 320420 | [320420-the-children-of-clay.json](./320420-the-children-of-clay.json) |
@@ -11681,6 +11683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Soulforce: Heroes of the Abyss | 204183 | [204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json](./204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json) |
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
+| The Legend of The Tolteks | 25365 | [25365-the-legend-of-the-tolteks.json](./25365-the-legend-of-the-tolteks.json) |
 | The Legend of the Tolteks Gold | 66560 | [66560-the-legend-of-the-tolteks-gold.json](./66560-the-legend-of-the-tolteks-gold.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of the Wind | 388124 | [388124-the-legend-of-the-wind.json](./388124-the-legend-of-the-wind.json) |
@@ -13575,6 +13578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
 | The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
 | The Pagemaster | 49032 | [49032-the-pagemaster.json](./49032-the-pagemaster.json) |
+| The Pahelika Collection - Revelations and Secret Legends | 25474 | [25474-the-pahelika-collection-revelations-and-secret-legends.json](./25474-the-pahelika-collection-revelations-and-secret-legends.json) |
 | The Paige Files | 255635 | [255635-the-paige-files.json](./255635-the-paige-files.json) |
 | The Painscreek Killings | 68682 | [68682-the-painscreek-killings.json](./68682-the-painscreek-killings.json) |
 | The Paint Gunner | 187211 | [187211-the-paint-gunner.json](./187211-the-paint-gunner.json) |
@@ -20883,6 +20887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Trials | 117121 | [117121-tiki-trials.json](./117121-tiki-trials.json) |
 | Tiki-Taka-Toe | 377233 | [377233-tiki-taka-toe.json](./377233-tiki-taka-toe.json) |
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
+| TikiBar | 25383 | [25383-tikibar.json](./25383-tikibar.json) |
 | Tikrace | 249611 | [249611-tikrace.json](./249611-tikrace.json) |
 | Tikus Tales | 211167 | [211167-tikus-tales.json](./211167-tikus-tales.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
@@ -23001,6 +23006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Chaos Theory | 243020 | [243020-tom-clancys-splinter-cell-chaos-theory.json](./243020-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 243021 | [243021-tom-clancys-splinter-cell-chaos-theory.json](./243021-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory HD | 100004 | [100004-tom-clancys-splinter-cell-chaos-theory-hd.json](./100004-tom-clancys-splinter-cell-chaos-theory-hd.json) |
+| Tom Clancy's Splinter Cell: Conviction - Deluxe Edition | 25367 | [25367-tom-clancys-splinter-cell-conviction-deluxe-edition.json](./25367-tom-clancys-splinter-cell-conviction-deluxe-edition.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 182225 | [182225-tom-clancys-splinter-cell-double-agent.json](./182225-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 7469 | [7469-tom-clancys-splinter-cell-double-agent.json](./7469-tom-clancys-splinter-cell-double-agent.json) |
