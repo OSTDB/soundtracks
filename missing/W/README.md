@@ -7210,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordscapes Uncrossed | 300538 | [300538-wordscapes-uncrossed.json](./300538-wordscapes-uncrossed.json) |
 | Wordsdom 2 | 108287 | [108287-wordsdom-2.json](./108287-wordsdom-2.json) |
 | Wordsdom2 | 105835 | [105835-wordsdom2.json](./105835-wordsdom2.json) |
+| Wordsearch | 24643 | [24643-wordsearch.json](./24643-wordsearch.json) |
 | Wordsearch Attack | 368543 | [368543-wordsearch-attack.json](./368543-wordsearch-attack.json) |
 | WordSearch Kids HD | 107670 | [107670-wordsearch-kids-hd.json](./107670-wordsearch-kids-hd.json) |
 | Wordsearch Mania! | 83442 | [83442-wordsearch-mania.json](./83442-wordsearch-mania.json) |
@@ -7504,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Aircraft: Glider Simulator | 148872 | [148872-world-of-aircraft-glider-simulator.json](./148872-world-of-aircraft-glider-simulator.json) |
 | World of Airports | 154759 | [154759-world-of-airports.json](./154759-world-of-airports.json) |
 | World of Anikids | 52123 | [52123-world-of-anikids.json](./52123-world-of-anikids.json) |
+| World of Animals: Pets 'n Pals Collection | 24712 | [24712-world-of-animals-pets-n-pals-collection.json](./24712-world-of-animals-pets-n-pals-collection.json) |
 | World of Art: Learn with Jigsaw Puzzles | 162216 | [162216-world-of-art-learn-with-jigsaw-puzzles.json](./162216-world-of-art-learn-with-jigsaw-puzzles.json) |
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
 | World of Barn | 190833 | [190833-world-of-barn.json](./190833-world-of-barn.json) |
@@ -8187,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Ultimate Mayhem | 9333 | [9333-worms-ultimate-mayhem.json](./9333-worms-ultimate-mayhem.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
 | Worms: Ultimate Mayhem - Deluxe Edition | 52112 | [52112-worms-ultimate-mayhem-deluxe-edition.json](./52112-worms-ultimate-mayhem-deluxe-edition.json) |
+| Worms? | 24714 | [24714-worms.json](./24714-worms.json) |
 | Wormskull | 143952 | [143952-wormskull.json](./143952-wormskull.json) |
 | Wormspell | 317981 | [317981-wormspell.json](./317981-wormspell.json) |
 | Wormster Dash | 89004 | [89004-wormster-dash.json](./89004-wormster-dash.json) |
