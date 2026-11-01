@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date With Tonpa | 179865 | [179865-a-date-with-tonpa.json](./179865-a-date-with-tonpa.json) |
 | A Date with Yesterday | 232848 | [232848-a-date-with-yesterday.json](./232848-a-date-with-yesterday.json) |
 | A Day | 145366 | [145366-a-day.json](./145366-a-day.json) |
+| A Day and a Night | 26164 | [26164-a-day-and-a-night.json](./26164-a-day-and-a-night.json) |
 | A Day as a T-Rex | 209185 | [209185-a-day-as-a-t-rex.json](./209185-a-day-as-a-t-rex.json) |
 | A Day at the Beach | 266051 | [266051-a-day-at-the-beach.json](./266051-a-day-at-the-beach.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
@@ -1297,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Super Mario World | 260811 | [260811-a-very-super-mario-world.json](./260811-a-very-super-mario-world.json) |
 | A Vessel of Frustration | 398569 | [398569-a-vessel-of-frustration.json](./398569-a-vessel-of-frustration.json) |
 | A Viagem de Vasco da Gama à Índia | 405497 | [405497-a-viagem-de-vasco-da-gama-a-india.json](./405497-a-viagem-de-vasco-da-gama-a-india.json) |
+| A View to a Kill: The Computer Game | 26117 | [26117-a-view-to-a-kill-the-computer-game.json](./26117-a-view-to-a-kill-the-computer-game.json) |
 | A Viking's Quest: The Lost Continent | 244389 | [244389-a-vikings-quest-the-lost-continent.json](./244389-a-vikings-quest-the-lost-continent.json) |
 | A Villain's Twisted Heart | 299006 | [299006-a-villains-twisted-heart.json](./299006-a-villains-twisted-heart.json) |
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
@@ -13981,6 +13983,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Infinity | 154791 | [154791-assassins-creed-infinity.json](./154791-assassins-creed-infinity.json) |
 | Assassin's Creed IV Black Flag + Assassin's Creed Rogue Double Pack | 167003 | [167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json](./167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
+| Assassin's Creed IV Black Flag: Guild of Rogues | 26094 | [26094-assassins-creed-iv-black-flag-guild-of-rogues.json](./26094-assassins-creed-iv-black-flag-guild-of-rogues.json) |
+| Assassin's Creed IV Black Flag: Illustrious Pirates Pack | 26093 | [26093-assassins-creed-iv-black-flag-illustrious-pirates-pack.json](./26093-assassins-creed-iv-black-flag-illustrious-pirates-pack.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
 | Assassin's Creed IV: Black Flag - Deluxe Edition | 118927 | [118927-assassins-creed-iv-black-flag-deluxe-edition.json](./118927-assassins-creed-iv-black-flag-deluxe-edition.json) |
 | Assassin's Creed IV: Black Flag - Jackdaw Edition | 100553 | [100553-assassins-creed-iv-black-flag-jackdaw-edition.json](./100553-assassins-creed-iv-black-flag-jackdaw-edition.json) |
