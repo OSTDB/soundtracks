@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacoCat: The Game 2 | 60867 | [60867-tacocat-the-game-2.json](./60867-tacocat-the-game-2.json) |
 | TacoFace | 30091 | [30091-tacoface.json](./30091-tacoface.json) |
 | Tacom Island | 401902 | [401902-tacom-island.json](./401902-tacom-island.json) |
+| Tacoma | 8259 | [8259-tacoma.json](./8259-tacoma.json) |
 | TacOps | 77252 | [77252-tacops.json](./77252-tacops.json) |
 | Tacs Classic Collection | 403728 | [403728-tacs-classic-collection.json](./403728-tacs-classic-collection.json) |
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
@@ -3277,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TekiKare: Boyfriend or Foe? | 284610 | [284610-tekikare-boyfriend-or-foe.json](./284610-tekikare-boyfriend-or-foe.json) |
 | Tekkai Jousai no Haika | 398975 | [398975-tekkai-jousai-no-haika.json](./398975-tekkai-jousai-no-haika.json) |
 | Tekkaman Blade | 49135 | [49135-tekkaman-blade.json](./49135-tekkaman-blade.json) |
+| Tekken | 1242 | [1242-tekken.json](./1242-tekken.json) |
 | Tekken 2 | 248207 | [248207-tekken-2.json](./248207-tekken-2.json) |
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
 | Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
@@ -4600,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 287892 | [287892-tetris.json](./287892-tetris.json) |
 | Tetris | 310995 | [310995-tetris.json](./310995-tetris.json) |
 | Tetris | 326807 | [326807-tetris.json](./326807-tetris.json) |
+| Tetris | 86490 | [86490-tetris.json](./86490-tetris.json) |
 | Tetris | 88894 | [88894-tetris.json](./88894-tetris.json) |
 | Tetris | 91204 | [91204-tetris.json](./91204-tetris.json) |
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
@@ -13460,6 +13463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
 | The Operational Art of War II: Elite Edition | 73677 | [73677-the-operational-art-of-war-ii-elite-edition.json](./73677-the-operational-art-of-war-ii-elite-edition.json) |
 | The Operational Art of War II: Flashpoint Kosovo | 70073 | [70073-the-operational-art-of-war-ii-flashpoint-kosovo.json](./70073-the-operational-art-of-war-ii-flashpoint-kosovo.json) |
+| The Operative: No One Lives Forever | 897 | [897-the-operative-no-one-lives-forever.json](./897-the-operative-no-one-lives-forever.json) |
 | The Options Menu | 405551 | [405551-the-options-menu.json](./405551-the-options-menu.json) |
 | The Oracle | 71372 | [71372-the-oracle.json](./71372-the-oracle.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
@@ -15485,6 +15489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
 | The Sink Gods | 175884 | [175884-the-sink-gods.json](./175884-the-sink-gods.json) |
 | The Sinkhole | 408117 | [408117-the-sinkhole.json](./408117-the-sinkhole.json) |
+| The Sinking City | 18225 | [18225-the-sinking-city.json](./18225-the-sinking-city.json) |
 | The Sinking City 2 | 289696 | [289696-the-sinking-city-2.json](./289696-the-sinking-city-2.json) |
 | The Sinking City Remastered | 343363 | [343363-the-sinking-city-remastered.json](./343363-the-sinking-city-remastered.json) |
 | The Sinking City: Day One Edition | 136052 | [136052-the-sinking-city-day-one-edition.json](./136052-the-sinking-city-day-one-edition.json) |
@@ -21471,6 +21476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
 | Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
+| TimeSplitters 2 | 2143 | [2143-timesplitters-2.json](./2143-timesplitters-2.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
 | TimeSplitters 2 Redux | 290771 | [290771-timesplitters-2-redux.json](./290771-timesplitters-2-redux.json) |
 | TimeSplitters 4 | 52955 | [52955-timesplitters-4.json](./52955-timesplitters-4.json) |
@@ -23471,6 +23477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater 1-4 Deluxe Edition Bundle | 378827 | [378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json](./378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json) |
 | Tony Hawk's Pro Skater 1-4 Standard Edition Bundle | 378826 | [378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json](./378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json) |
+| Tony Hawk's Pro Skater 1+2 | 133887 | [133887-tony-hawks-pro-skater-1-2.json](./133887-tony-hawks-pro-skater-1-2.json) |
 | Tony Hawk's Pro Skater 1+2: Digital Deluxe Edition | 139878 | [139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json](./139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json) |
 | Tony Hawk's Pro Skater 2 | 201756 | [201756-tony-hawks-pro-skater-2.json](./201756-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 229891 | [229891-tony-hawks-pro-skater-2.json](./229891-tony-hawks-pro-skater-2.json) |
@@ -24187,6 +24194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Three Kingdoms - Tao Qian | 167642 | [167642-total-war-three-kingdoms-tao-qian.json](./167642-total-war-three-kingdoms-tao-qian.json) |
 | Total War: Three Kingdoms - The Furious Wild | 201149 | [201149-total-war-three-kingdoms-the-furious-wild.json](./201149-total-war-three-kingdoms-the-furious-wild.json) |
 | Total War: Three Kingdoms - Yellow Turban Rebellion | 167646 | [167646-total-war-three-kingdoms-yellow-turban-rebellion.json](./167646-total-war-three-kingdoms-yellow-turban-rebellion.json) |
+| Total War: Warhammer | 9898 | [9898-total-war-warhammer.json](./9898-total-war-warhammer.json) |
 | Total War: Warhammer - Blood For the Blood God | 25660 | [25660-total-war-warhammer-blood-for-the-blood-god.json](./25660-total-war-warhammer-blood-for-the-blood-god.json) |
 | Total War: Warhammer - Bretonnia | 81293 | [81293-total-war-warhammer-bretonnia.json](./81293-total-war-warhammer-bretonnia.json) |
 | Total War: Warhammer - Call of the Beastmen | 27356 | [27356-total-war-warhammer-call-of-the-beastmen.json](./27356-total-war-warhammer-call-of-the-beastmen.json) |
@@ -25442,6 +25450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story | 220268 | [220268-toy-story.json](./220268-toy-story.json) |
 | Toy Story 2 | 165581 | [165581-toy-story-2.json](./165581-toy-story-2.json) |
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
+| Toy Story 2: Buzz Lightyear to the Rescue! | 3619 | [3619-toy-story-2-buzz-lightyear-to-the-rescue.json](./3619-toy-story-2-buzz-lightyear-to-the-rescue.json) |
 | Toy Story 2: Operation Rescue Woody | 77330 | [77330-toy-story-2-operation-rescue-woody.json](./77330-toy-story-2-operation-rescue-woody.json) |
 | Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
