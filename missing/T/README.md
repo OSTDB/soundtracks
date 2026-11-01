@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.D.Z. 3: Dark Way of Stalker | 242671 | [242671-t-d-z-3-dark-way-of-stalker.json](./242671-t-d-z-3-dark-way-of-stalker.json) |
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
 | T.G.I.F. | 292131 | [292131-t-g-i-f.json](./292131-t-g-i-f.json) |
+| T.H.I.S. | 57405 | [57405-t-h-i-s.json](./57405-t-h-i-s.json) |
 | T.I. Toad | 377832 | [377832-t-i-toad.json](./377832-t-i-toad.json) |
 | T.K. Punk: G.O.L.D | 289945 | [289945-t-k-punk-g-o-l-d.json](./289945-t-k-punk-g-o-l-d.json) |
 | T.N.T | 41778 | [41778-t-n-t.json](./41778-t-n-t.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis On-Court | 253174 | [253174-tennis-on-court.json](./253174-tennis-on-court.json) |
 | Tennis Online Duel | 234241 | [234241-tennis-online-duel.json](./234241-tennis-online-duel.json) |
 | Tennis Open 2020 | 147604 | [147604-tennis-open-2020.json](./147604-tennis-open-2020.json) |
+| Tennis Pro '92 | 57387 | [57387-tennis-pro-92.json](./57387-tennis-pro-92.json) |
 | Tennis Pro Tour | 372190 | [372190-tennis-pro-tour.json](./372190-tennis-pro-tour.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
@@ -6429,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cameron Files - Loch Ness | 53708 | [53708-the-cameron-files-loch-ness.json](./53708-the-cameron-files-loch-ness.json) |
 | The Cameron Files: Pharaoh's Curse | 70729 | [70729-the-cameron-files-pharaohs-curse.json](./70729-the-cameron-files-pharaohs-curse.json) |
 | The Camp | 262772 | [262772-the-camp.json](./262772-the-camp.json) |
+| The Camp - Caravan Edition | 57398 | [57398-the-camp-caravan-edition.json](./57398-the-camp-caravan-edition.json) |
 | The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
 | The Canals of Mars | 73349 | [73349-the-canals-of-mars.json](./73349-the-canals-of-mars.json) |
@@ -14088,6 +14091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rage of Valhalla | 213779 | [213779-the-rage-of-valhalla.json](./213779-the-rage-of-valhalla.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Raiden Project | 20301 | [20301-the-raiden-project.json](./20301-the-raiden-project.json) |
+| The Rail | 57419 | [57419-the-rail.json](./57419-the-rail.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
 | The Railway | 180999 | [180999-the-railway.json](./180999-the-railway.json) |
 | The Railway Station | 273228 | [273228-the-railway-station.json](./273228-the-railway-station.json) |
@@ -21815,6 +21819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Arum | 262512 | [262512-titan-arum.json](./262512-titan-arum.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
+| Titan Brawl | 57544 | [57544-titan-brawl.json](./57544-titan-brawl.json) |
 | Titan Chaser | 132513 | [132513-titan-chaser.json](./132513-titan-chaser.json) |
 | Titan Empire | 24657 | [24657-titan-empire.json](./24657-titan-empire.json) |
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
@@ -30305,6 +30310,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
 | Twin Saga | 19567 | [19567-twin-saga.json](./19567-twin-saga.json) |
 | Twin Sector | 11031 | [11031-twin-sector.json](./11031-twin-sector.json) |
+| Twin Series 1: Mezase Debut! Fashion Designer Monogatari + Kawaii Pet Game Gallery 2 | 57426 | [57426-twin-series-1-mezase-debut-fashion-designer-monogatari-kawaii-pet-game-gallery-2.json](./57426-twin-series-1-mezase-debut-fashion-designer-monogatari-kawaii-pet-game-gallery-2.json) |
+| Twin Series 2: Oshare Princess 4 + Renai Uranai Daisakusen | 57427 | [57427-twin-series-2-oshare-princess-4-renai-uranai-daisakusen.json](./57427-twin-series-2-oshare-princess-4-renai-uranai-daisakusen.json) |
+| Twin Series Vol. 3: Konchuu Monster - Ouja Ketteisen + Super Chinese Labyrinth | 57425 | [57425-twin-series-vol-3-konchuu-monster-ouja-ketteisen-super-chinese-labyrinth.json](./57425-twin-series-vol-3-konchuu-monster-ouja-ketteisen-super-chinese-labyrinth.json) |
 | Twin Series Vol. 4: Ham Ham Monster EX + Fantasy Puzzle Hamster Monogatari Mahou no Meikyuu 1.2.3 | 74274 | [74274-twin-series-vol-4-ham-ham-monster-ex-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu-1-2-3.json](./74274-twin-series-vol-4-ham-ham-monster-ex-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu-1-2-3.json) |
 | Twin Series Vol. 5: Wan-wan Meitantei EX + Mahou no Kuni no Cake-ya-san Monogatari | 97960 | [97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json](./97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
 | Twin Shooter - Invaders | 95333 | [95333-twin-shooter-invaders.json](./95333-twin-shooter-invaders.json) |
