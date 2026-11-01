@@ -10915,6 +10915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Mates | 406098 | [406098-skate-mates.json](./406098-skate-mates.json) |
 | Skate O'Clock | 298093 | [298093-skate-oclock.json](./298093-skate-oclock.json) |
 | Skate of Emergency | 74773 | [74773-skate-of-emergency.json](./74773-skate-of-emergency.json) |
+| Skate of the Art | 38049 | [38049-skate-of-the-art.json](./38049-skate-of-the-art.json) |
 | Skate or Die | 12267 | [12267-skate-or-die.json](./12267-skate-or-die.json) |
 | Skate or Die | 218917 | [218917-skate-or-die.json](./218917-skate-or-die.json) |
 | Skate or Die | 40929 | [40929-skate-or-die.json](./40929-skate-or-die.json) |
@@ -20106,6 +20107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Master | 39959 | [39959-spin-master.json](./39959-spin-master.json) |
 | Spin Off 2 | 54381 | [54381-spin-off-2.json](./54381-spin-off-2.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
+| Spin Pair | 38071 | [38071-spin-pair.json](./38071-spin-pair.json) |
 | Spin Path | 213998 | [213998-spin-path.json](./213998-spin-path.json) |
 | Spin Path 2 | 394554 | [394554-spin-path-2.json](./394554-spin-path-2.json) |
 | Spin Poker | 95325 | [95325-spin-poker.json](./95325-spin-poker.json) |
@@ -26282,6 +26284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Card Duel | 286451 | [286451-strip-card-duel.json](./286451-strip-card-duel.json) |
 | Strip Dice / Strip Concentration | 71248 | [71248-strip-dice-strip-concentration.json](./71248-strip-dice-strip-concentration.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
+| Strip Fighter II | 38079 | [38079-strip-fighter-ii.json](./38079-strip-fighter-ii.json) |
 | Strip Fighter IV | 66652 | [66652-strip-fighter-iv.json](./66652-strip-fighter-iv.json) |
 | Strip Fighter Zero | 243505 | [243505-strip-fighter-zero.json](./243505-strip-fighter-zero.json) |
 | Strip Me Down: Jock | 392931 | [392931-strip-me-down-jock.json](./392931-strip-me-down-jock.json) |
@@ -29637,6 +29640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
 | Super Melee Adventure 64 | 194874 | [194874-super-melee-adventure-64.json](./194874-super-melee-adventure-64.json) |
 | Super Memory | 69009 | [69009-super-memory.json](./69009-super-memory.json) |
+| Super Metal Crusher | 38069 | [38069-super-metal-crusher.json](./38069-super-metal-crusher.json) |
 | Super Meteor | 203604 | [203604-super-meteor.json](./203604-super-meteor.json) |
 | Super Methane Bros | 12785 | [12785-super-methane-bros.json](./12785-super-methane-bros.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
@@ -29701,9 +29705,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mole | 146576 | [146576-super-mole.json](./146576-super-mole.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
 | Super Momos Crushers | 370197 | [370197-super-momos-crushers.json](./370197-super-momos-crushers.json) |
+| Super Momotaro Dentetsu | 38068 | [38068-super-momotaro-dentetsu.json](./38068-super-momotaro-dentetsu.json) |
 | Super Momotaro Dentetsu | 48888 | [48888-super-momotaro-dentetsu.json](./48888-super-momotaro-dentetsu.json) |
 | Super Momotaro Dentetsu DX | 38344 | [38344-super-momotaro-dentetsu-dx.json](./38344-super-momotaro-dentetsu-dx.json) |
 | Super Momotaro Dentetsu II | 37810 | [37810-super-momotaro-dentetsu-ii.json](./37810-super-momotaro-dentetsu-ii.json) |
+| Super Momotaro Dentetsu II | 38067 | [38067-super-momotaro-dentetsu-ii.json](./38067-super-momotaro-dentetsu-ii.json) |
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
 | Super Momotarou Dentetsu III | 282486 | [282486-super-momotarou-dentetsu-iii.json](./282486-super-momotarou-dentetsu-iii.json) |
 | Super Monaco GP | 198652 | [198652-super-monaco-gp.json](./198652-super-monaco-gp.json) |
