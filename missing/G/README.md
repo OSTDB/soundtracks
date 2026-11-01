@@ -5510,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
 | God of Thunder | 2526 | [2526-god-of-thunder.json](./2526-god-of-thunder.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
+| God of War | 117883 | [117883-god-of-war.json](./117883-god-of-war.json) |
 | God of War II | 117882 | [117882-god-of-war-ii.json](./117882-god-of-war-ii.json) |
 | God of War II Remake | 389451 | [389451-god-of-war-ii-remake.json](./389451-god-of-war-ii-remake.json) |
 | God of War II: Special Edition | 43432 | [43432-god-of-war-ii-special-edition.json](./43432-god-of-war-ii-special-edition.json) |
