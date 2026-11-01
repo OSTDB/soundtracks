@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Night in Zombie Village | 231182 | [231182-last-night-in-zombie-village.json](./231182-last-night-in-zombie-village.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last Night Shift | 273471 | [273471-last-night-shift.json](./273471-last-night-shift.json) |
+| Last Ninja 2: Back with a Vengeance | 8401 | [8401-last-ninja-2-back-with-a-vengeance.json](./8401-last-ninja-2-back-with-a-vengeance.json) |
 | Last Ninja 3 | 8403 | [8403-last-ninja-3.json](./8403-last-ninja-3.json) |
 | Last Nova | 358367 | [358367-last-nova.json](./358367-last-nova.json) |
 | Last November | 184189 | [184189-last-november.json](./184189-last-november.json) |
@@ -4057,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liege Dragon | 133621 | [133621-liege-dragon.json](./133621-liege-dragon.json) |
 | Liegecraft | 322449 | [322449-liegecraft.json](./322449-liegecraft.json) |
 | Liekki | 290483 | [290483-liekki.json](./290483-liekki.json) |
+| Liero | 9078 | [9078-liero.json](./9078-liero.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
 | Lies as a Starting Point | 258507 | [258507-lies-as-a-starting-point.json](./258507-lies-as-a-starting-point.json) |
 | Lies Beneath | 133280 | [133280-lies-beneath.json](./133280-lies-beneath.json) |
