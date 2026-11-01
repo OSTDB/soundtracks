@@ -3185,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Flow | 319311 | [319311-marble-flow.json](./319311-marble-flow.json) |
 | Marble Hill | 312995 | [312995-marble-hill.json](./312995-marble-hill.json) |
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
+| Marble It Up! | 107302 | [107302-marble-it-up.json](./107302-marble-it-up.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
 | Marble Land | 74971 | [74971-marble-land.json](./74971-marble-land.json) |
@@ -5531,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6858,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 5 | 1718 | [1718-mega-man-5.json](./1718-mega-man-5.json) |
 | Mega Man 5 Mobile | 171826 | [171826-mega-man-5-mobile.json](./171826-mega-man-5-mobile.json) |
 | Mega Man 6 Mobile | 103490 | [103490-mega-man-6-mobile.json](./103490-mega-man-6-mobile.json) |
+| Mega Man 64 | 10614 | [10614-mega-man-64.json](./10614-mega-man-64.json) |
 | Mega Man 64: Recompiled | 400965 | [400965-mega-man-64-recompiled.json](./400965-mega-man-64-recompiled.json) |
 | Mega Man 7 | 1720 | [1720-mega-man-7.json](./1720-mega-man-7.json) |
 | Mega Man 7 Refit | 219080 | [219080-mega-man-7-refit.json](./219080-mega-man-7-refit.json) |
@@ -10302,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Files: Missing in Forest Lake | 387054 | [387054-midnight-files-missing-in-forest-lake.json](./387054-midnight-files-missing-in-forest-lake.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Garden | 333882 | [333882-midnight-garden.json](./333882-midnight-garden.json) |
+| Midnight Ghost Hunt | 108048 | [108048-midnight-ghost-hunt.json](./108048-midnight-ghost-hunt.json) |
 | Midnight Grove | 323602 | [323602-midnight-grove.json](./323602-midnight-grove.json) |
 | Midnight Grub Session | 120098 | [120098-midnight-grub-session.json](./120098-midnight-grub-session.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
@@ -12140,6 +12144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
 | MiniStrike | 150371 | [150371-ministrike.json](./150371-ministrike.json) |
+| Ministry of Broadcast | 109633 | [109633-ministry-of-broadcast.json](./109633-ministry-of-broadcast.json) |
 | Ministry of Broadcast: Badge Edition | 324766 | [324766-ministry-of-broadcast-badge-edition.json](./324766-ministry-of-broadcast-badge-edition.json) |
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
 | Ministry of Pandemic | 157469 | [157469-ministry-of-pandemic.json](./157469-ministry-of-pandemic.json) |
