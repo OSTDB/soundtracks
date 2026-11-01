@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Crime Spree | 359342 | [359342-raccoon-crime-spree.json](./359342-raccoon-crime-spree.json) |
 | Raccoon Hero | 54482 | [54482-raccoon-hero.json](./54482-raccoon-hero.json) |
 | Raccoon Hero: Among the Cacti | 55251 | [55251-raccoon-hero-among-the-cacti.json](./55251-raccoon-hero-among-the-cacti.json) |
+| Raccoon Hero: Monkey Business | 59567 | [59567-raccoon-hero-monkey-business.json](./59567-raccoon-hero-monkey-business.json) |
 | Raccoon Hero: Starlight | 54480 | [54480-raccoon-hero-starlight.json](./54480-raccoon-hero-starlight.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
@@ -11717,6 +11718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Legends | 229206 | [229206-rush-legends.json](./229206-rush-legends.json) |
 | Rush Legends PvP FPS | 231906 | [231906-rush-legends-pvp-fps.json](./231906-rush-legends-pvp-fps.json) |
 | Rush N Crash | 374782 | [374782-rush-n-crash.json](./374782-rush-n-crash.json) |
+| Rush of Heroes | 59608 | [59608-rush-of-heroes.json](./59608-rush-of-heroes.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
 | Rush Out | 174828 | [174828-rush-out.json](./174828-rush-out.json) |
 | Rush Out of the Room | 150912 | [150912-rush-out-of-the-room.json](./150912-rush-out-of-the-room.json) |
