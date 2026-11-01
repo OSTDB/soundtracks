@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Pong | 272844 | [272844-v-pong.json](./272844-v-pong.json) |
 | V-Rally 3 | 243024 | [243024-v-rally-3.json](./243024-v-rally-3.json) |
 | V-Rally 3 | 4227 | [4227-v-rally-3.json](./4227-v-rally-3.json) |
+| V-Rally 4 | 90688 | [90688-v-rally-4.json](./90688-v-rally-4.json) |
 | V-Rally 4: Ultimate Edition | 110832 | [110832-v-rally-4-ultimate-edition.json](./110832-v-rally-4-ultimate-edition.json) |
 | V-Rally Edition '99 | 10621 | [10621-v-rally-edition-99.json](./10621-v-rally-edition-99.json) |
 | V-Rally: Championship Edition | 152047 | [152047-v-rally-championship-edition.json](./152047-v-rally-championship-edition.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vignette: Memories of Baruu | 236737 | [236737-vignette-memories-of-baruu.json](./236737-vignette-memories-of-baruu.json) |
 | Vignettes | 333509 | [333509-vignettes.json](./333509-vignettes.json) |
 | Vignettes | 82952 | [82952-vignettes.json](./82952-vignettes.json) |
+| Vigor | 103328 | [103328-vigor.json](./103328-vigor.json) |
 | Vigor | 257573 | [257573-vigor.json](./257573-vigor.json) |
 | Vigor Chronicles: Reckoning | 235312 | [235312-vigor-chronicles-reckoning.json](./235312-vigor-chronicles-reckoning.json) |
 | Vigor Chronicles: Salvation | 250141 | [250141-vigor-chronicles-salvation.json](./250141-vigor-chronicles-salvation.json) |
