@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gathering Sky | 35590 | [35590-gathering-sky.json](./35590-gathering-sky.json) |
 | GatherX | 362937 | [362937-gatherx.json](./362937-gatherx.json) |
 | Gatlin' | 122790 | [122790-gatlin.json](./122790-gatlin.json) |
+| Gatling Gears | 15134 | [15134-gatling-gears.json](./15134-gatling-gears.json) |
 | Gato | 19702 | [19702-gato.json](./19702-gato.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
