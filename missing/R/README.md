@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Islands Extra | 45749 | [45749-rainbow-islands-extra.json](./45749-rainbow-islands-extra.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
 | Rainbow Islands: Candyland | 78444 | [78444-rainbow-islands-candyland.json](./78444-rainbow-islands-candyland.json) |
+| Rainbow Islands: Story of the Bubble Bobble 2 | 45684 | [45684-rainbow-islands-story-of-the-bubble-bobble-2.json](./45684-rainbow-islands-story-of-the-bubble-bobble-2.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 316031 | [316031-rainbow-islands-the-story-of-bubble-bobble-2.json](./316031-rainbow-islands-the-story-of-bubble-bobble-2.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 4405 | [4405-rainbow-islands-the-story-of-bubble-bobble-2.json](./4405-rainbow-islands-the-story-of-bubble-bobble-2.json) |
 | Rainbow Islands: Towering Adventure! | 21241 | [21241-rainbow-islands-towering-adventure.json](./21241-rainbow-islands-towering-adventure.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
 | Respublica | 126426 | [126426-respublica.json](./126426-respublica.json) |
+| ResQ | 45705 | [45705-resq.json](./45705-resq.json) |
 | Resquid | 182916 | [182916-resquid.json](./182916-resquid.json) |
 | Ressifice | 165937 | [165937-ressifice.json](./165937-ressifice.json) |
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
