@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leader of the Pack | 285971 | [285971-leader-of-the-pack.json](./285971-leader-of-the-pack.json) |
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
 | Leaderboard Executive Edition | 47185 | [47185-leaderboard-executive-edition.json](./47185-leaderboard-executive-edition.json) |
+| Leaderboard Golf | 25376 | [25376-leaderboard-golf.json](./25376-leaderboard-golf.json) |
 | Leaderboard Tournament | 22526 | [22526-leaderboard-tournament.json](./22526-leaderboard-tournament.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
 | Leadfoot: Stadium Off-Road Racing | 71839 | [71839-leadfoot-stadium-off-road-racing.json](./71839-leadfoot-stadium-off-road-racing.json) |
@@ -4892,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
 | Linda Cube Kanzenban | 194757 | [194757-linda-cube-kanzenban.json](./194757-linda-cube-kanzenban.json) |
+| Linda Hyde: Vampire Mansion | 25366 | [25366-linda-hyde-vampire-mansion.json](./25366-linda-hyde-vampire-mansion.json) |
 | Linda's Cases: Brighton Secrets | 87925 | [87925-lindas-cases-brighton-secrets.json](./87925-lindas-cases-brighton-secrets.json) |
 | LindaBee | 179313 | [179313-lindabee.json](./179313-lindabee.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
@@ -5871,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liúyán Zhēntàn | 157348 | [157348-liuyan-zhentan.json](./157348-liuyan-zhentan.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
+| Livalink | 25388 | [25388-livalink.json](./25388-livalink.json) |
 | Live | 85682 | [85682-live.json](./85682-live.json) |
 | Live a Hero | 208172 | [208172-live-a-hero.json](./208172-live-a-hero.json) |
 | Live Action-Bit Theater "Route Yonroku" | 319312 | [319312-live-action-bit-theater-route-yonroku.json](./319312-live-action-bit-theater-route-yonroku.json) |
