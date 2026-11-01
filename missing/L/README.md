@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazarus: Side Story of Comrade Force | 349220 | [349220-lazarus-side-story-of-comrade-force.json](./349220-lazarus-side-story-of-comrade-force.json) |
 | Lazer Bykes | 94653 | [94653-lazer-bykes.json](./94653-lazer-bykes.json) |
 | Lazer Command | 40335 | [40335-lazer-command.json](./40335-lazer-command.json) |
+| Lazer Cops | 40539 | [40539-lazer-cops.json](./40539-lazer-cops.json) |
 | Lazer Cycle | 8399 | [8399-lazer-cycle.json](./8399-lazer-cycle.json) |
 | Lazer Force | 53161 | [53161-lazer-force.json](./53161-lazer-force.json) |
 | Lazer Maze | 285056 | [285056-lazer-maze.json](./285056-lazer-maze.json) |
