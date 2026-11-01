@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Pop | 242143 | [242143-pastel-pop.json](./242143-pastel-pop.json) |
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
 | Pastel x Pastels | 229490 | [229490-pastel-x-pastels.json](./229490-pastel-x-pastels.json) |
+| Pastelia Stories | 32434 | [32434-pastelia-stories.json](./32434-pastelia-stories.json) |
 | Pastfinder | 24667 | [24667-pastfinder.json](./24667-pastfinder.json) |
 | Pastimes | 415198 | [415198-pastimes.json](./415198-pastimes.json) |
 | Pastimes - Game Box | 105822 | [105822-pastimes-game-box.json](./105822-pastimes-game-box.json) |
@@ -3927,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PepaFatal | 185839 | [185839-pepafatal.json](./185839-pepafatal.json) |
 | Pepe Chatters | 287356 | [287356-pepe-chatters.json](./287356-pepe-chatters.json) |
 | Pepe Pillz | 393523 | [393523-pepe-pillz.json](./393523-pepe-pillz.json) |
+| Pepe Porcupine | 32408 | [32408-pepe-porcupine.json](./32408-pepe-porcupine.json) |
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
 | PepeFrog | 195451 | [195451-pepefrog.json](./195451-pepefrog.json) |
 | PepeLine | 57460 | [57460-pepeline.json](./57460-pepeline.json) |
@@ -8022,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
 | Pixelo | 235094 | [235094-pixelo.json](./235094-pixelo.json) |
+| Pixeloids | 32373 | [32373-pixeloids.json](./32373-pixeloids.json) |
 | PixelOrb | 184302 | [184302-pixelorb.json](./184302-pixelorb.json) |
 | Pixelords | 406208 | [406208-pixelords.json](./406208-pixelords.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
@@ -17194,6 +17197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
 | Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
 | Puzzles of the World | 377645 | [377645-puzzles-of-the-world.json](./377645-puzzles-of-the-world.json) |
+| Puzzles Under the Hill | 32409 | [32409-puzzles-under-the-hill.json](./32409-puzzles-under-the-hill.json) |
 | Puzzles with Cats | 159551 | [159551-puzzles-with-cats.json](./159551-puzzles-with-cats.json) |
 | Puzzles with Nature | 203795 | [203795-puzzles-with-nature.json](./203795-puzzles-with-nature.json) |
 | Puzzles: Dog | 414499 | [414499-puzzles-dog.json](./414499-puzzles-dog.json) |
