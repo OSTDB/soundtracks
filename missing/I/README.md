@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am The Registered Environmental Engineer | 309562 | [309562-i-am-the-registered-environmental-engineer.json](./309562-i-am-the-registered-environmental-engineer.json) |
 | I Am the Sun | 183369 | [183369-i-am-the-sun.json](./183369-i-am-the-sun.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
+| I Am Vegend: Zombiegeddon | 17426 | [17426-i-am-vegend-zombiegeddon.json](./17426-i-am-vegend-zombiegeddon.json) |
 | I Am Very Good At Walking | 377663 | [377663-i-am-very-good-at-walking.json](./377663-i-am-very-good-at-walking.json) |
 | I Am Weapon | 54110 | [54110-i-am-weapon.json](./54110-i-am-weapon.json) |
 | I am working | 177750 | [177750-i-am-working.json](./177750-i-am-working.json) |
