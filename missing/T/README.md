@@ -6096,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bizarre Adventures of Woodruff and the Schnibble | 2226 | [2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json](./2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json) |
 | The Bizarre Creations of Keith the Magnificent | 34691 | [34691-the-bizarre-creations-of-keith-the-magnificent.json](./34691-the-bizarre-creations-of-keith-the-magnificent.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
+| The Black Bass | 17458 | [17458-the-black-bass.json](./17458-the-black-bass.json) |
 | The Black Cat Magician | 187400 | [187400-the-black-cat-magician.json](./187400-the-black-cat-magician.json) |
 | The Black Cauldron | 11963 | [11963-the-black-cauldron.json](./11963-the-black-cauldron.json) |
 | The Black Death | 34155 | [34155-the-black-death.json](./34155-the-black-death.json) |
@@ -9554,6 +9555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Hunt | 262778 | [262778-the-great-hunt.json](./262778-the-great-hunt.json) |
 | The Great I Am | 343419 | [343419-the-great-i-am.json](./343419-the-great-i-am.json) |
 | The Great Indian Safari | 387415 | [387415-the-great-indian-safari.json](./387415-the-great-indian-safari.json) |
+| The Great Jitters: Pudding Panic | 17327 | [17327-the-great-jitters-pudding-panic.json](./17327-the-great-jitters-pudding-panic.json) |
 | The Great Language Game | 58488 | [58488-the-great-language-game.json](./58488-the-great-language-game.json) |
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
 | The Great Mushroom Hunt | 114321 | [114321-the-great-mushroom-hunt.json](./114321-the-great-mushroom-hunt.json) |
@@ -13038,6 +13040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 197946 | [197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 82157 | [82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr.Jekyll and Mr.Hyde | 147945 | [147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
+| The Mysterious Cities of Gold | 16811 | [16811-the-mysterious-cities-of-gold.json](./16811-the-mysterious-cities-of-gold.json) |
 | The Mysterious Cities of Gold: Secret Paths | 53763 | [53763-the-mysterious-cities-of-gold-secret-paths.json](./53763-the-mysterious-cities-of-gold-secret-paths.json) |
 | The Mysterious Cities of Gold: Secret Paths - Director's Cut | 175577 | [175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json](./175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json) |
 | The Mysterious Mine Bouncin' Back Edition | 222344 | [222344-the-mysterious-mine-bouncin-back-edition.json](./222344-the-mysterious-mine-bouncin-back-edition.json) |
@@ -18485,6 +18488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Exit | 53094 | [53094-third-exit.json](./53094-third-exit.json) |
 | Third Eye | 261963 | [261963-third-eye.json](./261963-third-eye.json) |
 | Third Eye | 31664 | [31664-third-eye.json](./31664-third-eye.json) |
+| Third Eye Crime | 17401 | [17401-third-eye-crime.json](./17401-third-eye-crime.json) |
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
@@ -28187,6 +28191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trek to Yomi: Deluxe Edition | 234208 | [234208-trek-to-yomi-deluxe-edition.json](./234208-trek-to-yomi-deluxe-edition.json) |
 | Trek Trivia | 100103 | [100103-trek-trivia.json](./100103-trek-trivia.json) |
 | Trek: Travel Around the World | 105083 | [105083-trek-travel-around-the-world.json](./105083-trek-travel-around-the-world.json) |
+| Trek73 | 16975 | [16975-trek73.json](./16975-trek73.json) |
 | Trekboer | 26447 | [26447-trekboer.json](./26447-trekboer.json) |
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
 | TrekkingAndCamping | 279148 | [279148-trekkingandcamping.json](./279148-trekkingandcamping.json) |
@@ -29677,6 +29682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukumo Onna Aoe | 77723 | [77723-tsukumo-onna-aoe.json](./77723-tsukumo-onna-aoe.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
+| Tsukumogami | 16819 | [16819-tsukumogami.json](./16819-tsukumogami.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
 | Tsukumohime | 81725 | [81725-tsukumohime.json](./81725-tsukumohime.json) |
 | Tsukumono Yume | 166470 | [166470-tsukumono-yume.json](./166470-tsukumono-yume.json) |
