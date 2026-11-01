@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saihate Station | 301102 | [301102-saihate-station.json](./301102-saihate-station.json) |
 | Saihate Station: Twilight Railway | 337103 | [337103-saihate-station-twilight-railway.json](./337103-saihate-station-twilight-railway.json) |
 | Saihate wo Mezasu | 350916 | [350916-saihate-wo-mezasu.json](./350916-saihate-wo-mezasu.json) |
+| Saiin Dutch Wife: Inran Spray de Teishuku na Hitozuma-tachi o Kyousei Hatsujou! Itsudemo Dokodemo Namadashi Ahe Haramase Houdai! | 59026 | [59026-saiin-dutch-wife-inran-spray-de-teishuku-na-hitozuma-tachi-o-kyousei-hatsujou-itsudemo-dokodemo-namadashi-ahe-haramase-houdai.json](./59026-saiin-dutch-wife-inran-spray-de-teishuku-na-hitozuma-tachi-o-kyousei-hatsujou-itsudemo-dokodemo-namadashi-ahe-haramase-houdai.json) |
 | Saikai Sotsugyou Ryokou '98 | 263954 | [263954-saikai-sotsugyou-ryokou-98.json](./263954-saikai-sotsugyou-ryokou-98.json) |
 | Saiki Kusuo no Psi Nan: Shijou Psi Dai no Psi Nan!? | 136888 | [136888-saiki-kusuo-no-psi-nan-shijou-psi-dai-no-psi-nan.json](./136888-saiki-kusuo-no-psi-nan-shijou-psi-dai-no-psi-nan.json) |
 | Saikin Koi Shiteru? | 123410 | [123410-saikin-koi-shiteru.json](./123410-saikin-koi-shiteru.json) |
@@ -2787,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolgirl Fighting | 60286 | [60286-schoolgirl-fighting.json](./60286-schoolgirl-fighting.json) |
 | Schoolgirl Fighting 2 | 60283 | [60283-schoolgirl-fighting-2.json](./60283-schoolgirl-fighting-2.json) |
 | Schoolgirl Fighting 3 | 60280 | [60280-schoolgirl-fighting-3.json](./60280-schoolgirl-fighting-3.json) |
+| Schoolgirl Strikers | 59010 | [59010-schoolgirl-strikers.json](./59010-schoolgirl-strikers.json) |
 | Schoolgirl Supervisor: Saori Sato | 322266 | [322266-schoolgirl-supervisor-saori-sato.json](./322266-schoolgirl-supervisor-saori-sato.json) |
 | Schoolgirl Tournament Fighting | 60086 | [60086-schoolgirl-tournament-fighting.json](./60086-schoolgirl-tournament-fighting.json) |
 | Schoolgirl vs. Fishman | 405768 | [405768-schoolgirl-vs-fishman.json](./405768-schoolgirl-vs-fishman.json) |
@@ -4733,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
 | Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
+| Seiteki na Ijime Desu ka? Iie, Gohoubi Desu! Gakuen no Idol-tachi ni Niku Vibe Atsukai de Sukikatte Seieki o Shiboritorareru Seikatsu | 59021 | [59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json](./59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json) |
 | Seito Kaichou de Amaenbou na Onee-chan ha Suki Desu ka? | 399191 | [399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json](./399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json) |
 | Seitokai no Ichizon: DS Suru Seitokai | 330008 | [330008-seitokai-no-ichizon-ds-suru-seitokai.json](./330008-seitokai-no-ichizon-ds-suru-seitokai.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
@@ -7568,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei IV & Apocalypse: Double Hero Pack | 89555 | [89555-shin-megami-tensei-iv-and-apocalypse-double-hero-pack.json](./89555-shin-megami-tensei-iv-and-apocalypse-double-hero-pack.json) |
 | Shin Megami Tensei IV: Apocalypse | 19329 | [19329-shin-megami-tensei-iv-apocalypse.json](./19329-shin-megami-tensei-iv-apocalypse.json) |
 | Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
+| Shin Megami Tensei Pinball: Judgment | 59014 | [59014-shin-megami-tensei-pinball-judgment.json](./59014-shin-megami-tensei-pinball-judgment.json) |
 | Shin Megami Tensei Trading Card: Card Summoner | 94503 | [94503-shin-megami-tensei-trading-card-card-summoner.json](./94503-shin-megami-tensei-trading-card-card-summoner.json) |
 | Shin Megami Tensei V | 26775 | [26775-shin-megami-tensei-v.json](./26775-shin-megami-tensei-v.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
@@ -8349,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Hurts | 109356 | [109356-shooting-hurts.json](./109356-shooting-hurts.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
 | Shooting Love 20XX | 53593 | [53593-shooting-love-20xx.json](./53593-shooting-love-20xx.json) |
+| Shooting Love Trilogy | 59301 | [59301-shooting-love-trilogy.json](./59301-shooting-love-trilogy.json) |
 | Shooting Love, 200X | 7187 | [7187-shooting-love-200x.json](./7187-shooting-love-200x.json) |
 | Shooting Love. 10-shuunen | 268857 | [268857-shooting-love-10-shuunen.json](./268857-shooting-love-10-shuunen.json) |
 | Shooting Love. 2007 | 83422 | [83422-shooting-love-2007.json](./83422-shooting-love-2007.json) |
@@ -10840,6 +10845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Die 2: The Search for Double Trouble | 48181 | [48181-skate-or-die-2-the-search-for-double-trouble.json](./48181-skate-or-die-2-the-search-for-double-trouble.json) |
 | Skate or Die: Bad 'N Rad | 128440 | [128440-skate-or-die-bad-n-rad.json](./128440-skate-or-die-bad-n-rad.json) |
 | Skate or Die: Tour de Thrash | 49020 | [49020-skate-or-die-tour-de-thrash.json](./49020-skate-or-die-tour-de-thrash.json) |
+| Skate Out! | 58995 | [58995-skate-out.json](./58995-skate-out.json) |
 | Skate Rush: 90s Retro Arcade | 404771 | [404771-skate-rush-90s-retro-arcade.json](./404771-skate-rush-90s-retro-arcade.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
 | Skate Share Pack | 399897 | [399897-skate-share-pack.json](./399897-skate-share-pack.json) |
@@ -15464,6 +15470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sometimes Always Monsters: Author Outfits | 155375 | [155375-sometimes-always-monsters-author-outfits.json](./155375-sometimes-always-monsters-author-outfits.json) |
 | Sometimes They Come Back | 204858 | [204858-sometimes-they-come-back.json](./204858-sometimes-they-come-back.json) |
 | Sometimes to Deal With the Difficulty of Being Alive I Need to Believe There Is a Possibility That Life Is Not Real | 134256 | [134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json](./134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json) |
+| Sometimes You Die | 58993 | [58993-sometimes-you-die.json](./58993-sometimes-you-die.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere Better | 145839 | [145839-somewhere-better.json](./145839-somewhere-better.json) |
@@ -17312,6 +17319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Sousaku Alice to Ouji-sama! | 202608 | [202608-sousaku-alice-to-ouji-sama.json](./202608-sousaku-alice-to-ouji-sama.json) |
 | Sousaku Kanojo no Renai Koushiki | 191520 | [191520-sousaku-kanojo-no-renai-koushiki.json](./191520-sousaku-kanojo-no-renai-koushiki.json) |
+| Sousei no Aquarion | 59002 | [59002-sousei-no-aquarion.json](./59002-sousei-no-aquarion.json) |
 | Sousei no Mirage | 208240 | [208240-sousei-no-mirage.json](./208240-sousei-no-mirage.json) |
 | Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
 | Souseiki Gadget Robo | 137398 | [137398-souseiki-gadget-robo.json](./137398-souseiki-gadget-robo.json) |
@@ -17907,6 +17915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21559,6 +21568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
 | Stack Dango | 108734 | [108734-stack-dango.json](./108734-stack-dango.json) |
 | Stack Defense | 156906 | [156906-stack-defense.json](./156906-stack-defense.json) |
+| Stack Gun Heroes | 59298 | [59298-stack-gun-heroes.json](./59298-stack-gun-heroes.json) |
 | Stack Haven | 389940 | [389940-stack-haven.json](./389940-stack-haven.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
