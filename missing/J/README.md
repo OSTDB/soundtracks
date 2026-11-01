@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeep Command | 47177 | [47177-jeep-command.json](./47177-jeep-command.json) |
 | Jeep Jamboree: Off Road Adventure | 48979 | [48979-jeep-jamboree-off-road-adventure.json](./48979-jeep-jamboree-off-road-adventure.json) |
 | Jeep Thrills | 4940 | [4940-jeep-thrills.json](./4940-jeep-thrills.json) |
+| Jeepers Creepers | 58418 | [58418-jeepers-creepers.json](./58418-jeepers-creepers.json) |
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
@@ -2902,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
+| Juman J. Zeus | 58435 | [58435-juman-j-zeus.json](./58435-juman-j-zeus.json) |
 | Jumanji | 218346 | [218346-jumanji.json](./218346-jumanji.json) |
 | Jumanji | 70577 | [70577-jumanji.json](./70577-jumanji.json) |
 | Jumanji | 70578 | [70578-jumanji.json](./70578-jumanji.json) |
