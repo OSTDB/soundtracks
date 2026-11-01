@@ -2314,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
+| Rayon Riddles: Rise of the Goblin King | 33762 | [33762-rayon-riddles-rise-of-the-goblin-king.json](./33762-rayon-riddles-rise-of-the-goblin-king.json) |
 | RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
 | RayStorm x RayCrisis HD Collection | 240039 | [240039-raystorm-x-raycrisis-hd-collection.json](./240039-raystorm-x-raycrisis-hd-collection.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
@@ -5004,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Frenzy | 53501 | [53501-rescue-frenzy.json](./53501-rescue-frenzy.json) |
 | Rescue Friends Solitaire | 156544 | [156544-rescue-friends-solitaire.json](./156544-rescue-friends-solitaire.json) |
 | Rescue from Atlantis | 71751 | [71751-rescue-from-atlantis.json](./71751-rescue-from-atlantis.json) |
+| Rescue From Goblin Deep | 33770 | [33770-rescue-from-goblin-deep.json](./33770-rescue-from-goblin-deep.json) |
 | Rescue Girl Operation: Code X | 330488 | [330488-rescue-girl-operation-code-x.json](./330488-rescue-girl-operation-code-x.json) |
 | Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heli | 349794 | [349794-rescue-heli.json](./349794-rescue-heli.json) |
@@ -6323,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
+| Rhino's Rage | 33759 | [33759-rhinos-rage.json](./33759-rhinos-rage.json) |
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
 | Rhodesia '72 | 292500 | [292500-rhodesia-72.json](./292500-rhodesia-72.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
@@ -8143,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo-War | 85824 | [85824-robo-war.json](./85824-robo-war.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoBo: The Allectric Idventurer | 211283 | [211283-robo-the-allectric-idventurer.json](./211283-robo-the-allectric-idventurer.json) |
+| Robo's World: The Zarnok Fortress | 33671 | [33671-robos-world-the-zarnok-fortress.json](./33671-robos-world-the-zarnok-fortress.json) |
 | Robo50 | 211744 | [211744-robo50.json](./211744-robo50.json) |
 | RoboArena | 133125 | [133125-roboarena.json](./133125-roboarena.json) |
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
@@ -9692,6 +9696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
 | Rolling Football Player | 317885 | [317885-rolling-football-player.json](./317885-rolling-football-player.json) |
 | Rolling for Romance | 273954 | [273954-rolling-for-romance.json](./273954-rolling-for-romance.json) |
+| Rolling Gauntlet | 33697 | [33697-rolling-gauntlet.json](./33697-rolling-gauntlet.json) |
 | Rolling Gunner | 119445 | [119445-rolling-gunner.json](./119445-rolling-gunner.json) |
 | Rolling Gunner Over Power | 142846 | [142846-rolling-gunner-over-power.json](./142846-rolling-gunner-over-power.json) |
 | Rolling Hare | 359904 | [359904-rolling-hare.json](./359904-rolling-hare.json) |
@@ -11793,6 +11798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Commander | 265564 | [265564-rush-commander.json](./265564-rush-commander.json) |
 | Rush Delivery | 304850 | [304850-rush-delivery.json](./304850-rush-delivery.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
+| Rush for Gold: Alaska | 33707 | [33707-rush-for-gold-alaska.json](./33707-rush-for-gold-alaska.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
 | Rush for the Ages | 194770 | [194770-rush-for-the-ages.json](./194770-rush-for-the-ages.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
