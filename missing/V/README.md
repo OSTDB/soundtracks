@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel Shot for Nintendo Switch | 105608 | [105608-voxel-shot-for-nintendo-switch.json](./105608-voxel-shot-for-nintendo-switch.json) |
+| Voxel Shot VR | 29464 | [29464-voxel-shot-vr.json](./29464-voxel-shot-vr.json) |
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
 | Voxel Tactics | 160016 | [160016-voxel-tactics.json](./160016-voxel-tactics.json) |
 | Voxel Tank VR | 74291 | [74291-voxel-tank-vr.json](./74291-voxel-tank-vr.json) |
