@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
 | Naruto: Clash of Ninja | 4026 | [4026-naruto-clash-of-ninja.json](./4026-naruto-clash-of-ninja.json) |
 | Naruto: Clash of Ninja 2 | 24289 | [24289-naruto-clash-of-ninja-2.json](./24289-naruto-clash-of-ninja-2.json) |
+| Naruto: Clash of Ninja Revolution | 19622 | [19622-naruto-clash-of-ninja-revolution.json](./19622-naruto-clash-of-ninja-revolution.json) |
 | Naruto: Gekitou Ninja Taisen! 3 | 75836 | [75836-naruto-gekitou-ninja-taisen-3.json](./75836-naruto-gekitou-ninja-taisen-3.json) |
 | Naruto: Gekitou Ninja Taisen! 4 | 75837 | [75837-naruto-gekitou-ninja-taisen-4.json](./75837-naruto-gekitou-ninja-taisen-4.json) |
 | Naruto: Konoha Ninpouchou | 37358 | [37358-naruto-konoha-ninpouchou.json](./37358-naruto-konoha-ninpouchou.json) |
@@ -4928,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NinjaGo Endless Runner | 59303 | [59303-ninjago-endless-runner.json](./59303-ninjago-endless-runner.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
+| Ninjala | 103346 | [103346-ninjala.json](./103346-ninjala.json) |
 | Ninjala 2: The Uncharted Planet | 405438 | [405438-ninjala-2-the-uncharted-planet.json](./405438-ninjala-2-the-uncharted-planet.json) |
 | Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
 | Ninjala: Story Pack - Chapter Three | 219459 | [219459-ninjala-story-pack-chapter-three.json](./219459-ninjala-story-pack-chapter-three.json) |
@@ -5507,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Sushi, No Life | 156001 | [156001-no-sushi-no-life.json](./156001-no-sushi-no-life.json) |
 | No T!me No Space | 228431 | [228431-no-t-me-no-space.json](./228431-no-t-me-no-space.json) |
 | No Tears For Heroes | 328439 | [328439-no-tears-for-heroes.json](./328439-no-tears-for-heroes.json) |
+| No Thing | 18828 | [18828-no-thing.json](./18828-no-thing.json) |
 | No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
 | No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
