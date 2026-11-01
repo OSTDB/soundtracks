@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
 | Captain Laserhawk: The G.A.M.E. | 283390 | [283390-captain-laserhawk-the-g-a-m-e.json](./283390-captain-laserhawk-the-g-a-m-e.json) |
 | Captain Love!! | 137322 | [137322-captain-love.json](./137322-captain-love.json) |
+| Captain Lycop: Invasion of the Heters | 31385 | [31385-captain-lycop-invasion-of-the-heters.json](./31385-captain-lycop-invasion-of-the-heters.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain MaCaw 2 | 238594 | [238594-captain-macaw-2.json](./238594-captain-macaw-2.json) |
 | Captain Mario | 307412 | [307412-captain-mario.json](./307412-captain-mario.json) |
@@ -4668,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CeeBot-A | 94574 | [94574-ceebot-a.json](./94574-ceebot-a.json) |
 | CeeBot3 Educational Programming Software | 131131 | [131131-ceebot3-educational-programming-software.json](./131131-ceebot3-educational-programming-software.json) |
 | Cefore | 28647 | [28647-cefore.json](./28647-cefore.json) |
+| Ceggtcher VR | 31426 | [31426-ceggtcher-vr.json](./31426-ceggtcher-vr.json) |
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
@@ -14752,6 +14754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Cranga!: Harbor Frenzy | 31544 | [31544-cranga-harbor-frenzy.json](./31544-cranga-harbor-frenzy.json) |
 | Cranium | 92757 | [92757-cranium.json](./92757-cranium.json) |
+| Cranium Conundrum | 31341 | [31341-cranium-conundrum.json](./31341-cranium-conundrum.json) |
 | Cranium: Partyland Park | 230460 | [230460-cranium-partyland-park.json](./230460-cranium-partyland-park.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Ball | 271689 | [271689-crank-and-watch-ball.json](./271689-crank-and-watch-ball.json) |
