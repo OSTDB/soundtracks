@@ -3954,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch & Defense | 373190 | [373190-catch-and-defense.json](./373190-catch-and-defense.json) |
 | Catch & Release | 103032 | [103032-catch-and-release.json](./103032-catch-and-release.json) |
 | Catch a Cat for 60 Seconds | 149793 | [149793-catch-a-cat-for-60-seconds.json](./149793-catch-a-cat-for-60-seconds.json) |
+| Catch A Dot | 57429 | [57429-catch-a-dot.json](./57429-catch-a-dot.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
 | Catch Beshi!! Scooping Game | 322666 | [322666-catch-beshi-scooping-game.json](./322666-catch-beshi-scooping-game.json) |
@@ -7490,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmastry | 55620 | [55620-christmastry.json](./55620-christmastry.json) |
 | Christmasville: The Missing Santa Adventures | 89195 | [89195-christmasville-the-missing-santa-adventures.json](./89195-christmasville-the-missing-santa-adventures.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
+| Christopher Columbus is an Idiot | 57436 | [57436-christopher-columbus-is-an-idiot.json](./57436-christopher-columbus-is-an-idiot.json) |
 | Chrith: Ai no Tabidachi | 137980 | [137980-chrith-ai-no-tabidachi.json](./137980-chrith-ai-no-tabidachi.json) |
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
 | Chroisen 2 | 188388 | [188388-chroisen-2.json](./188388-chroisen-2.json) |
@@ -17136,6 +17138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
 | Crystals of Irm | 177742 | [177742-crystals-of-irm.json](./177742-crystals-of-irm.json) |
 | Crystals of Niberium | 76361 | [76361-crystals-of-niberium.json](./76361-crystals-of-niberium.json) |
+| Crystalux: New Discovery | 57406 | [57406-crystalux-new-discovery.json](./57406-crystalux-new-discovery.json) |
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
