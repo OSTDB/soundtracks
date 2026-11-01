@@ -11550,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdevotion Noire: Goddess Black Heart - Ultimate Member “Sting” | 166401 | [166401-hyperdevotion-noire-goddess-black-heart-ultimate-member-sting.json](./166401-hyperdevotion-noire-goddess-black-heart-ultimate-member-sting.json) |
 | Hyperdevotion Noire: Goddess Black Heart - Ultimate Party Member “Tiara” | 166402 | [166402-hyperdevotion-noire-goddess-black-heart-ultimate-party-member-tiara.json](./166402-hyperdevotion-noire-goddess-black-heart-ultimate-party-member-tiara.json) |
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
+| Hyperdimension Neptunia Hypercollection | 42999 | [42999-hyperdimension-neptunia-hypercollection.json](./42999-hyperdimension-neptunia-hypercollection.json) |
 | Hyperdimension Neptunia Mk2 | 7320 | [7320-hyperdimension-neptunia-mk2.json](./7320-hyperdimension-neptunia-mk2.json) |
 | Hyperdimension Neptunia Re;Birth 1 Plus: Limited Edition | 167043 | [167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json](./167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth1 | 8902 | [8902-hyperdimension-neptunia-re-birth1.json](./8902-hyperdimension-neptunia-re-birth1.json) |
@@ -11591,6 +11592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Unlimited | 400492 | [400492-hyperdimension-neptunia-unlimited.json](./400492-hyperdimension-neptunia-unlimited.json) |
 | Hyperdimension Neptunia Victory | 44578 | [44578-hyperdimension-neptunia-victory.json](./44578-hyperdimension-neptunia-victory.json) |
 | Hyperdimension Neptunia Victory: Limited Edition | 43028 | [43028-hyperdimension-neptunia-victory-limited-edition.json](./43028-hyperdimension-neptunia-victory-limited-edition.json) |
+| Hyperdimension Neptunia: Collector's Edition | 42987 | [42987-hyperdimension-neptunia-collectors-edition.json](./42987-hyperdimension-neptunia-collectors-edition.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | HyperDissonance | 372831 | [372831-hyperdissonance.json](./372831-hyperdissonance.json) |
 | Hyperdome | 12919 | [12919-hyperdome.json](./12919-hyperdome.json) |
