@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
 | Paddle Combat | 164441 | [164441-paddle-combat.json](./164441-paddle-combat.json) |
 | Paddle Fall | 115454 | [115454-paddle-fall.json](./115454-paddle-fall.json) |
+| Paddle Fighter | 45716 | [45716-paddle-fighter.json](./45716-paddle-fighter.json) |
 | Paddle Flap | 239707 | [239707-paddle-flap.json](./239707-paddle-flap.json) |
 | Paddle Legends | 378542 | [378542-paddle-legends.json](./378542-paddle-legends.json) |
 | Paddle Mania | 40374 | [40374-paddle-mania.json](./40374-paddle-mania.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panopticon: Path of Reflections | 53449 | [53449-panopticon-path-of-reflections.json](./53449-panopticon-path-of-reflections.json) |
 | Panoptique | 377192 | [377192-panoptique.json](./377192-panoptique.json) |
 | Panorama | 125901 | [125901-panorama.json](./125901-panorama.json) |
+| Panorama Cotton | 45715 | [45715-panorama-cotton.json](./45715-panorama-cotton.json) |
 | Panorama Toh | 61938 | [61938-panorama-toh.json](./61938-panorama-toh.json) |
 | Panoramical | 12976 | [12976-panoramical.json](./12976-panoramical.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
@@ -9557,6 +9559,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
 | Pocket Mobsters | 63146 | [63146-pocket-mobsters.json](./63146-pocket-mobsters.json) |
 | Pocket Monster | 196530 | [196530-pocket-monster.json](./196530-pocket-monster.json) |
+| Pocket Monster | 45692 | [45692-pocket-monster.json](./45692-pocket-monster.json) |
+| Pocket Monster II | 45691 | [45691-pocket-monster-ii.json](./45691-pocket-monster-ii.json) |
 | Pocket Monsters Advanced Generation: Minna de Pico Pokémon Waiwai Battle! | 63048 | [63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json](./63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json) |
 | Pocket Monsters Advanced Generation: Pokémon Suuji Battle!! | 181505 | [181505-pocket-monsters-advanced-generation-pokemon-suuji-battle.json](./181505-pocket-monsters-advanced-generation-pokemon-suuji-battle.json) |
 | Pocket Monsters Best Wishes!: Chinou Ikusei - Pokémon Daiundoukai | 181507 | [181507-pocket-monsters-best-wishes-chinou-ikusei-pokemon-daiundoukai.json](./181507-pocket-monsters-best-wishes-chinou-ikusei-pokemon-daiundoukai.json) |
@@ -10175,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Corogarena | 309595 | [309595-pokemon-corogarena.json](./309595-pokemon-corogarena.json) |
 | Pokémon Covenant | 320277 | [320277-pokemon-covenant.json](./320277-pokemon-covenant.json) |
 | Pokémon Crater | 250532 | [250532-pokemon-crater.json](./250532-pokemon-crater.json) |
+| Pokémon Crazy Drummer | 45690 | [45690-pokemon-crazy-drummer.json](./45690-pokemon-crazy-drummer.json) |
 | Pokémon Cross Stadium | 281394 | [281394-pokemon-cross-stadium.json](./281394-pokemon-cross-stadium.json) |
 | Pokémon Crown | 300330 | [300330-pokemon-crown.json](./300330-pokemon-crown.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
@@ -12853,6 +12858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2012 | 65430 | [65430-premier-manager-2012.json](./65430-premier-manager-2012.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
 | Premier Manager 3 De-Luxe | 73484 | [73484-premier-manager-3-de-luxe.json](./73484-premier-manager-3-de-luxe.json) |
+| Premier Manager 97 | 45706 | [45706-premier-manager-97.json](./45706-premier-manager-97.json) |
 | Premier Manager 98 | 45046 | [45046-premier-manager-98.json](./45046-premier-manager-98.json) |
 | Premier Multi-Edit System | 131284 | [131284-premier-multi-edit-system.json](./131284-premier-multi-edit-system.json) |
 | Premier Picks | 94407 | [94407-premier-picks.json](./94407-premier-picks.json) |
@@ -16566,6 +16572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt's Fun House | 242140 | [242140-putt-putts-fun-house.json](./242140-putt-putts-fun-house.json) |
 | Putt.day | 413151 | [413151-putt-day.json](./413151-putt-day.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
+| Putter Golf | 45714 | [45714-putter-golf.json](./45714-putter-golf.json) |
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
 | Puttium | 216012 | [216012-puttium.json](./216012-puttium.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
