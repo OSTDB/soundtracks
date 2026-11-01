@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacon Grease | 277492 | [277492-bacon-grease.json](./277492-bacon-grease.json) |
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
 | Bacon Man: An Adventure | 36218 | [36218-bacon-man-an-adventure.json](./36218-bacon-man-an-adventure.json) |
+| Bacon May Die | 55534 | [55534-bacon-may-die.json](./55534-bacon-may-die.json) |
 | Bacon Rebellion | 34121 | [34121-bacon-rebellion.json](./34121-bacon-rebellion.json) |
 | Bacon Roll | 88005 | [88005-bacon-roll.json](./88005-bacon-roll.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5428,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
 | Beerserker: The Stolen Brew | 420553 | [420553-beerserker-the-stolen-brew.json](./420553-beerserker-the-stolen-brew.json) |
 | Beerslinger | 142070 | [142070-beerslinger.json](./142070-beerslinger.json) |
+| Bees Knees | 55594 | [55594-bees-knees.json](./55594-bees-knees.json) |
 | Bees vs. Ants | 175164 | [175164-bees-vs-ants.json](./175164-bees-vs-ants.json) |
 | Bees vs. Zombees | 336468 | [336468-bees-vs-zombees.json](./336468-bees-vs-zombees.json) |
 | Beescuit | 332293 | [332293-beescuit.json](./332293-beescuit.json) |
@@ -8144,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Abyss | 284005 | [284005-black-abyss.json](./284005-black-abyss.json) |
 | Black Abyss Zero | 421362 | [421362-black-abyss-zero.json](./421362-black-abyss-zero.json) |
 | Black Ace | 191067 | [191067-black-ace.json](./191067-black-ace.json) |
+| Black Annex | 55549 | [55549-black-annex.json](./55549-black-annex.json) |
 | Black Arhat: Wujing | 391644 | [391644-black-arhat-wujing.json](./391644-black-arhat-wujing.json) |
 | Black Armor: Battle For Survivors | 326173 | [326173-black-armor-battle-for-survivors.json](./326173-black-armor-battle-for-survivors.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
@@ -8226,6 +8230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Day | 55603 | [55603-black-day.json](./55603-black-day.json) |
 | Black Death | 65753 | [65753-black-death.json](./65753-black-death.json) |
 | Black Death: A Tragic Dirge | 212718 | [212718-black-death-a-tragic-dirge.json](./212718-black-death-a-tragic-dirge.json) |
+| Black Death: Divarication | 55587 | [55587-black-death-divarication.json](./55587-black-death-divarication.json) |
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
 | Black Desert Online: Explorer's Package | 91183 | [91183-black-desert-online-explorers-package.json](./91183-black-desert-online-explorers-package.json) |
