@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop CPC | 170778 | [170778-magical-drop-cpc.json](./170778-magical-drop-cpc.json) |
 | Magical Drop for WonderSwan | 37573 | [37573-magical-drop-for-wonderswan.json](./37573-magical-drop-for-wonderswan.json) |
 | Magical Drop II | 39348 | [39348-magical-drop-ii.json](./39348-magical-drop-ii.json) |
+| Magical Drop III | 39347 | [39347-magical-drop-iii.json](./39347-magical-drop-iii.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
@@ -17843,6 +17844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
 | Musashi: Mobile Samurai | 290646 | [290646-musashi-mobile-samurai.json](./290646-musashi-mobile-samurai.json) |
 | Musashi: Samurai Legend | 1811 | [1811-musashi-samurai-legend.json](./1811-musashi-samurai-legend.json) |
+| Muscle Bomber Duo: Ultimate Team Battle | 39317 | [39317-muscle-bomber-duo-ultimate-team-battle.json](./39317-muscle-bomber-duo-ultimate-team-battle.json) |
 | Muscle Car 3: Illegal Street | 71742 | [71742-muscle-car-3-illegal-street.json](./71742-muscle-car-3-illegal-street.json) |
 | Muscle Car 76 | 210111 | [210111-muscle-car-76.json](./210111-muscle-car-76.json) |
 | Muscle Car Robot | 117178 | [117178-muscle-car-robot.json](./117178-muscle-car-robot.json) |
