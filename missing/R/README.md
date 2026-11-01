@@ -8102,6 +8102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
 | RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
 | Robobo TM | 153077 | [153077-robobo-tm.json](./153077-robobo-tm.json) |
+| Robobolt | 60268 | [60268-robobolt.json](./60268-robobolt.json) |
 | RoboBunnies In Space! | 111495 | [111495-robobunnies-in-space.json](./111495-robobunnies-in-space.json) |
 | Robocalypse | 21454 | [21454-robocalypse.json](./21454-robocalypse.json) |
 | Robocalypse: Beaver Defense | 69126 | [69126-robocalypse-beaver-defense.json](./69126-robocalypse-beaver-defense.json) |
@@ -10729,6 +10730,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
 | RPG Quiz | 368498 | [368498-rpg-quiz.json](./368498-rpg-quiz.json) |
+| RPG Rusted Emeth | 60276 | [60276-rpg-rusted-emeth.json](./60276-rpg-rusted-emeth.json) |
+| RPG Shelterra the Skyworld | 60272 | [60272-rpg-shelterra-the-skyworld.json](./60272-rpg-shelterra-the-skyworld.json) |
 | RPG Shooter: Starwish | 148178 | [148178-rpg-shooter-starwish.json](./148178-rpg-shooter-starwish.json) |
 | RPG Stories | 370445 | [370445-rpg-stories.json](./370445-rpg-stories.json) |
 | RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
