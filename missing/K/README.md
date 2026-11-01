@@ -2621,7 +2621,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2846,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong | 200324 | [200324-king-kong.json](./200324-king-kong.json) |
 | King Kong | 200328 | [200328-king-kong.json](./200328-king-kong.json) |
 | King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
+| King Kong 2: Yomigaeru Densetsu | 41689 | [41689-king-kong-2-yomigaeru-densetsu.json](./41689-king-kong-2-yomigaeru-densetsu.json) |
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
 | King Leo | 178782 | [178782-king-leo.json](./178782-king-leo.json) |
@@ -3078,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Table: Hnefatafl | 379892 | [379892-kings-table-hnefatafl.json](./379892-kings-table-hnefatafl.json) |
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
 | King's Valley | 19727 | [19727-kings-valley.json](./19727-kings-valley.json) |
+| King's Valley II | 41693 | [41693-kings-valley-ii.json](./41693-kings-valley-ii.json) |
 | King's Vessel | 108176 | [108176-kings-vessel.json](./108176-kings-vessel.json) |
 | King's Well | 393931 | [393931-kings-well.json](./393931-kings-well.json) |
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
@@ -4840,12 +4841,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Kids Playground: Toy Pals Fun with Numbers | 67753 | [67753-konami-kids-playground-toy-pals-fun-with-numbers.json](./67753-konami-kids-playground-toy-pals-fun-with-numbers.json) |
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
 | Konami Wai-wai World | 67013 | [67013-konami-wai-wai-world.json](./67013-konami-wai-wai-world.json) |
+| Konami's Baseball | 41688 | [41688-konamis-baseball.json](./41688-konamis-baseball.json) |
 | Konami's Billiards | 41740 | [41740-konamis-billiards.json](./41740-konamis-billiards.json) |
+| Konami's Boxing | 41687 | [41687-konamis-boxing.json](./41687-konamis-boxing.json) |
+| Konami's Golf | 41685 | [41685-konamis-golf.json](./41685-konamis-golf.json) |
 | Konami's Mahjong | 41745 | [41745-konamis-mahjong.json](./41745-konamis-mahjong.json) |
 | Konami's Mahjong 2 | 41774 | [41774-konamis-mahjong-2.json](./41774-konamis-mahjong-2.json) |
 | Konami's Open Golf Championship | 137407 | [137407-konamis-open-golf-championship.json](./137407-konamis-open-golf-championship.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konami's Soccer | 41686 | [41686-konamis-soccer.json](./41686-konamis-soccer.json) |
+| Konami's Tennis | 41684 | [41684-konamis-tennis.json](./41684-konamis-tennis.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konaste Gitadora | 154842 | [154842-konaste-gitadora.json](./154842-konaste-gitadora.json) |
 | Konata yori Kanata made | 377660 | [377660-konata-yori-kanata-made.json](./377660-konata-yori-kanata-made.json) |
