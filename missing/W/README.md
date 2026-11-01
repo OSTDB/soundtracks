@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted 18 | 153744 | [153744-wanted-18.json](./153744-wanted-18.json) |
 | Wanted 3D: Dead or Alive | 335858 | [335858-wanted-3d-dead-or-alive.json](./335858-wanted-3d-dead-or-alive.json) |
 | Wanted Corp. | 19211 | [19211-wanted-corp.json](./19211-wanted-corp.json) |
+| Wanted Corps | 51643 | [51643-wanted-corps.json](./51643-wanted-corps.json) |
 | Wanted Dead or Alive | 72524 | [72524-wanted-dead-or-alive.json](./72524-wanted-dead-or-alive.json) |
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
@@ -6207,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Harmony | 55900 | [55900-wizards-harmony.json](./55900-wizards-harmony.json) |
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
 | Wizard's Harmony R | 108169 | [108169-wizards-harmony-r.json](./108169-wizards-harmony-r.json) |
+| Wizard's Keep | 51638 | [51638-wizards-keep.json](./51638-wizards-keep.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
 | Wizard's Legacy | 311560 | [311560-wizards-legacy.json](./311560-wizards-legacy.json) |
 | Wizard's Oblation | 374016 | [374016-wizards-oblation.json](./374016-wizards-oblation.json) |
@@ -8297,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck-It Ralph | 23586 | [23586-wreck-it-ralph.json](./23586-wreck-it-ralph.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
+| Wreck-It Ralph: The Video Game | 51655 | [51655-wreck-it-ralph-the-video-game.json](./51655-wreck-it-ralph-the-video-game.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
 | Wreckateer | 18052 | [18052-wreckateer.json](./18052-wreckateer.json) |
 | Wreckboy | 229632 | [229632-wreckboy.json](./229632-wreckboy.json) |
