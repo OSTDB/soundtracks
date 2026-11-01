@@ -9608,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
 | Guild Wars: Factions - Collector's Edition | 142206 | [142206-guild-wars-factions-collectors-edition.json](./142206-guild-wars-factions-collectors-edition.json) |
 | Guild Wars: Game of the Year Edition | 27842 | [27842-guild-wars-game-of-the-year-edition.json](./27842-guild-wars-game-of-the-year-edition.json) |
+| Guild Wars: Nightfall | 8947 | [8947-guild-wars-nightfall.json](./8947-guild-wars-nightfall.json) |
 | Guild Wars: Nightfall - Collector's Edition | 142209 | [142209-guild-wars-nightfall-collectors-edition.json](./142209-guild-wars-nightfall-collectors-edition.json) |
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | Guildamation | 387567 | [387567-guildamation.json](./387567-guildamation.json) |
@@ -10577,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyaruzuma Sex: Hoka no Otoko ni Inwai Houshi Suru Ai Suru Tsuma | 159165 | [159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json](./159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json) |
 | Gyee | 198074 | [198074-gyee.json](./198074-gyee.json) |
 | Gyelfars | 188818 | [188818-gyelfars.json](./188818-gyelfars.json) |
+| Gylt | 119247 | [119247-gylt.json](./119247-gylt.json) |
 | Gylt: Collector's Edition | 256177 | [256177-gylt-collectors-edition.json](./256177-gylt-collectors-edition.json) |
 | Gym Bullies | 302935 | [302935-gym-bullies.json](./302935-gym-bullies.json) |
 | Gym Business: Fitness Empire Simulator | 319306 | [319306-gym-business-fitness-empire-simulator.json](./319306-gym-business-fitness-empire-simulator.json) |
