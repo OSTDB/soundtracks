@@ -4699,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Fuzzgrawth | 228384 | [228384-ninja-fuzzgrawth.json](./228384-ninja-fuzzgrawth.json) |
 | Ninja Gaiden | 136620 | [136620-ninja-gaiden.json](./136620-ninja-gaiden.json) |
 | Ninja Gaiden | 175905 | [175905-ninja-gaiden.json](./175905-ninja-gaiden.json) |
+| Ninja Gaiden | 19507 | [19507-ninja-gaiden.json](./19507-ninja-gaiden.json) |
 | Ninja Gaiden | 198837 | [198837-ninja-gaiden.json](./198837-ninja-gaiden.json) |
 | Ninja Gaiden | 198839 | [198839-ninja-gaiden.json](./198839-ninja-gaiden.json) |
 | Ninja Gaiden | 210484 | [210484-ninja-gaiden.json](./210484-ninja-gaiden.json) |
