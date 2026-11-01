@@ -2845,6 +2845,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam: Lost Memories | 121336 | [121336-adam-lost-memories.json](./121336-adam-lost-memories.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
 | Adam's Memories | 190889 | [190889-adams-memories.json](./190889-adams-memories.json) |
+| Adam's Venture Episode 1: The Search For The Lost Garden | 8181 | [8181-adams-venture-episode-1-the-search-for-the-lost-garden.json](./8181-adams-venture-episode-1-the-search-for-the-lost-garden.json) |
+| Adam's Venture Episode 2: Solomon's Secret | 8182 | [8182-adams-venture-episode-2-solomons-secret.json](./8182-adams-venture-episode-2-solomons-secret.json) |
+| Adam's Venture Episode 3: Revelations | 8183 | [8183-adams-venture-episode-3-revelations.json](./8183-adams-venture-episode-3-revelations.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
 | Adamanta View | 189328 | [189328-adamanta-view.json](./189328-adamanta-view.json) |
@@ -3414,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer Manager | 11442 | [11442-adventurer-manager.json](./11442-adventurer-manager.json) |
 | Adventurer Manager: Endless Tower | 174160 | [174160-adventurer-manager-endless-tower.json](./174160-adventurer-manager-endless-tower.json) |
 | Adventurer Shop Simulator | 357784 | [357784-adventurer-shop-simulator.json](./357784-adventurer-shop-simulator.json) |
+| Adventurer's Consumer Guide | 8193 | [8193-adventurers-consumer-guide.json](./8193-adventurers-consumer-guide.json) |
 | Adventurer's Gambit: Dungeons of Fortune | 270009 | [270009-adventurers-gambit-dungeons-of-fortune.json](./270009-adventurers-gambit-dungeons-of-fortune.json) |
 | Adventurer's Gate | 357783 | [357783-adventurers-gate.json](./357783-adventurers-gate.json) |
 | Adventurers Guild Inc. | 325334 | [325334-adventurers-guild-inc.json](./325334-adventurers-guild-inc.json) |
@@ -9701,6 +9705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1503 A.D. | 124966 | [124966-anno-1503-a-d.json](./124966-anno-1503-a-d.json) |
 | Anno 1503: History Edition | 136092 | [136092-anno-1503-history-edition.json](./136092-anno-1503-history-edition.json) |
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
+| Anno 1503: Treasures, Monsters & Pirates | 8224 | [8224-anno-1503-treasures-monsters-and-pirates.json](./8224-anno-1503-treasures-monsters-and-pirates.json) |
 | Anno 1602 A.D. | 180271 | [180271-anno-1602-a-d.json](./180271-anno-1602-a-d.json) |
 | Anno 1602: Creation of a New World - New Islands, New Adventure | 138084 | [138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json](./138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json) |
 | Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
@@ -10753,6 +10758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apomo District | 301062 | [301062-apomo-district.json](./301062-apomo-district.json) |
 | Aponasi Gals Olympos | 45433 | [45433-aponasi-gals-olympos.json](./45433-aponasi-gals-olympos.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
+| Apophis Rising | 8641 | [8641-apophis-rising.json](./8641-apophis-rising.json) |
 | Apopia | 159680 | [159680-apopia.json](./159680-apopia.json) |
 | Apopia: Sugar Coated Tale | 392258 | [392258-apopia-sugar-coated-tale.json](./392258-apopia-sugar-coated-tale.json) |
 | Apoptosis | 383386 | [383386-apoptosis.json](./383386-apoptosis.json) |
@@ -14162,6 +14168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault CorpsII | 35101 | [35101-assault-corpsii.json](./35101-assault-corpsii.json) |
 | Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
 | Assault Fire | 137583 | [137583-assault-fire.json](./137583-assault-fire.json) |
+| Assault Gunners | 8645 | [8645-assault-gunners.json](./8645-assault-gunners.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault Gunners HD Edition: Extra Pack | 87855 | [87855-assault-gunners-hd-edition-extra-pack.json](./87855-assault-gunners-hd-edition-extra-pack.json) |
 | Assault Gunners: HD Edition - Complete Set | 87856 | [87856-assault-gunners-hd-edition-complete-set.json](./87856-assault-gunners-hd-edition-complete-set.json) |
@@ -15434,6 +15441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
 | Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
 | Atomic Lance | 379398 | [379398-atomic-lance.json](./379398-atomic-lance.json) |
+| Atomic Ninjas | 8649 | [8649-atomic-ninjas.json](./8649-atomic-ninjas.json) |
 | Atomic Order | 214954 | [214954-atomic-order.json](./214954-atomic-order.json) |
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
 | Atomic Picnic | 228902 | [228902-atomic-picnic.json](./228902-atomic-picnic.json) |
@@ -15505,6 +15513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrapa la Bandera | 204455 | [204455-atrapa-la-bandera.json](./204455-atrapa-la-bandera.json) |
 | Atre: Dominance Wars | 315459 | [315459-atre-dominance-wars.json](./315459-atre-dominance-wars.json) |
 | Atrevete a Soñar | 253800 | [253800-atrevete-a-sonar.json](./253800-atrevete-a-sonar.json) |
+| Atrévete a Soñar | 6569 | [6569-atrevete-a-sonar.json](./6569-atrevete-a-sonar.json) |
 | Atri: My Dear Moments | 131634 | [131634-atri-my-dear-moments.json](./131634-atri-my-dear-moments.json) |
 | Atria | 203839 | [203839-atria.json](./203839-atria.json) |
 | Atria Valkyrie | 159806 | [159806-atria-valkyrie.json](./159806-atria-valkyrie.json) |
