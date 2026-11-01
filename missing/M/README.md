@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 23 | 243668 | [243668-madden-nfl-23.json](./243668-madden-nfl-23.json) |
 | Madden NFL 23 Mobile Football | 232618 | [232618-madden-nfl-23-mobile-football.json](./232618-madden-nfl-23-mobile-football.json) |
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
+| Madden NFL 24 | 252167 | [252167-madden-nfl-24.json](./252167-madden-nfl-24.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
 | Madden NFL 24: Michael Vick 20th Anniversary Edition | 276866 | [276866-madden-nfl-24-michael-vick-20th-anniversary-edition.json](./276866-madden-nfl-24-michael-vick-20th-anniversary-edition.json) |
 | Madden NFL 25 | 243261 | [243261-madden-nfl-25.json](./243261-madden-nfl-25.json) |
@@ -1307,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
 | Magic: The Gathering | 12443 | [12443-magic-the-gathering.json](./12443-magic-the-gathering.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
+| Magic: The Gathering - Duels of the Planeswalkers | 81444 | [81444-magic-the-gathering-duels-of-the-planeswalkers.json](./81444-magic-the-gathering-duels-of-the-planeswalkers.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 1 | 362462 | [362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json](./362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 2 | 362463 | [362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json](./362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 3 | 362464 | [362464-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-3.json](./362464-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-3.json) |
@@ -13161,6 +13163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
 | MLB The Show 17 | 25310 | [25310-mlb-the-show-17.json](./25310-mlb-the-show-17.json) |
+| MLB The Show 18 | 75546 | [75546-mlb-the-show-18.json](./75546-mlb-the-show-18.json) |
 | MLB The Show 18: Digital Deluxe Edition | 118909 | [118909-mlb-the-show-18-digital-deluxe-edition.json](./118909-mlb-the-show-18-digital-deluxe-edition.json) |
 | MLB The Show 18: MVP Edition | 166987 | [166987-mlb-the-show-18-mvp-edition.json](./166987-mlb-the-show-18-mvp-edition.json) |
 | MLB The Show 19 | 111654 | [111654-mlb-the-show-19.json](./111654-mlb-the-show-19.json) |
@@ -13224,6 +13227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mo The Moai | 335378 | [335378-mo-the-moai.json](./335378-mo-the-moai.json) |
 | Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
+| MO:Astray | 113376 | [113376-mo-astray.json](./113376-mo-astray.json) |
 | Mo.co | 272187 | [272187-mo-co.json](./272187-mo-co.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai 3: Trade Mission | 58646 | [58646-moai-3-trade-mission.json](./58646-moai-3-trade-mission.json) |
@@ -15958,6 +15962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat vs. DC Universe | 1617 | [1617-mortal-kombat-vs-dc-universe.json](./1617-mortal-kombat-vs-dc-universe.json) |
 | Mortal Kombat vs. DC Universe: Kollector's Edition | 43005 | [43005-mortal-kombat-vs-dc-universe-kollectors-edition.json](./43005-mortal-kombat-vs-dc-universe-kollectors-edition.json) |
 | Mortal Kombat X | 241492 | [241492-mortal-kombat-x.json](./241492-mortal-kombat-x.json) |
+| Mortal Kombat X Mobile | 77992 | [77992-mortal-kombat-x-mobile.json](./77992-mortal-kombat-x-mobile.json) |
 | Mortal Kombat X: Alien | 27889 | [27889-mortal-kombat-x-alien.json](./27889-mortal-kombat-x-alien.json) |
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
@@ -19447,6 +19452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pure Boyfriend | 299510 | [299510-my-pure-boyfriend.json](./299510-my-pure-boyfriend.json) |
 | My Putrid Ponies | 367541 | [367541-my-putrid-ponies.json](./367541-my-putrid-ponies.json) |
 | My Racing Car | 419864 | [419864-my-racing-car.json](./419864-my-racing-car.json) |
+| My Racing Career | 253735 | [253735-my-racing-career.json](./253735-my-racing-career.json) |
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My RC Buggy! VR | 103196 | [103196-my-rc-buggy-vr.json](./103196-my-rc-buggy-vr.json) |
