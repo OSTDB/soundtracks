@@ -10552,6 +10552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
 | Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
+| Pokémon Rumble World | 9564 | [9564-pokemon-rumble-world.json](./9564-pokemon-rumble-world.json) |
 | Pokémon Rumble: Weekend Edition | 387401 | [387401-pokemon-rumble-weekend-edition.json](./387401-pokemon-rumble-weekend-edition.json) |
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
 | Pokémon Rutile Ruby | 288072 | [288072-pokemon-rutile-ruby.json](./288072-pokemon-rutile-ruby.json) |
@@ -10655,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game: Kanto | 276112 | [276112-pokemon-trading-card-game-kanto.json](./276112-pokemon-trading-card-game-kanto.json) |
 | Pokémon Trading Card Game: Neo | 239604 | [239604-pokemon-trading-card-game-neo.json](./239604-pokemon-trading-card-game-neo.json) |
 | Pokémon Tretta | 131497 | [131497-pokemon-tretta.json](./131497-pokemon-tretta.json) |
+| Pokémon Trozei! | 8588 | [8588-pokemon-trozei.json](./8588-pokemon-trozei.json) |
 | Pokemon Twilight: Lunar | 323903 | [323903-pokemon-twilight-lunar.json](./323903-pokemon-twilight-lunar.json) |
 | Pokemon Twilight: Solar | 323904 | [323904-pokemon-twilight-solar.json](./323904-pokemon-twilight-solar.json) |
 | Pokémon Ultra Moon | 36793 | [36793-pokemon-ultra-moon.json](./36793-pokemon-ultra-moon.json) |
