@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herder | 149862 | [149862-herder.json](./149862-herder.json) |
 | Herding Cats | 208262 | [208262-herding-cats.json](./208262-herding-cats.json) |
 | Herding Dog | 34307 | [34307-herding-dog.json](./34307-herding-dog.json) |
+| Herdy Gerdy | 43657 | [43657-herdy-gerdy.json](./43657-herdy-gerdy.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
 | Here & Elsewhere | 114040 | [114040-here-and-elsewhere.json](./114040-here-and-elsewhere.json) |
