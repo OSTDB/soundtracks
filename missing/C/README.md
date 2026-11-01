@@ -4426,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Looters | 410829 | [410829-cave-looters.json](./410829-cave-looters.json) |
 | Cave Nightmare | 161620 | [161620-cave-nightmare.json](./161620-cave-nightmare.json) |
+| Cave Noire | 49076 | [49076-cave-noire.json](./49076-cave-noire.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Avarice | 166680 | [166680-cave-of-avarice.json](./166680-cave-of-avarice.json) |
 | Cave of Cards | 339995 | [339995-cave-of-cards.json](./339995-cave-of-cards.json) |
@@ -6609,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiki-Chiki Boxy Pro Wrestling | 119429 | [119429-chiki-chiki-boxy-pro-wrestling.json](./119429-chiki-chiki-boxy-pro-wrestling.json) |
 | Chiki-Chiki Boxy Racers | 107229 | [107229-chiki-chiki-boxy-racers.json](./107229-chiki-chiki-boxy-racers.json) |
 | Chiki-chiki Machine Mou Race: Kenken to Black Maou no Ijiwaru Daisakusen | 245250 | [245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json](./245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json) |
+| Chiki-Chiki Tengoku | 49095 | [49095-chiki-chiki-tengoku.json](./49095-chiki-chiki-tengoku.json) |
 | Chiki's Chase | 204918 | [204918-chikis-chase.json](./204918-chikis-chase.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Chiko-chan no Noukatsu Kenkyuujo | 251520 | [251520-chiko-chan-no-noukatsu-kenkyuujo.json](./251520-chiko-chan-no-noukatsu-kenkyuujo.json) |
