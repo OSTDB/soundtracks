@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball 3 | 93414 | [93414-r-b-i-baseball-3.json](./93414-r-b-i-baseball-3.json) |
 | R.B.I. Baseball 4 | 46264 | [46264-r-b-i-baseball-4.json](./46264-r-b-i-baseball-4.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
+| R.C. Grand Prix | 46336 | [46336-r-c-grand-prix.json](./46336-r-c-grand-prix.json) |
 | R.C. Pro-Am | 9155 | [9155-r-c-pro-am.json](./9155-r-c-pro-am.json) |
 | R.E.A.C.T | 195595 | [195595-r-e-a-c-t.json](./195595-r-e-a-c-t.json) |
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
@@ -10698,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Sort | 369373 | [369373-royal-sort.json](./369373-royal-sort.json) |
 | Royal Squad | 101927 | [101927-royal-squad.json](./101927-royal-squad.json) |
+| Royal Stone: Hirakareshi Toki no Tobira | 46310 | [46310-royal-stone-hirakareshi-toki-no-tobira.json](./46310-royal-stone-hirakareshi-toki-no-tobira.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
 | Royal Tower Defense | 142833 | [142833-royal-tower-defense.json](./142833-royal-tower-defense.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
