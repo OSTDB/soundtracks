@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Conflict: Paragon Battleship Pack | 168308 | [168308-vega-conflict-paragon-battleship-pack.json](./168308-vega-conflict-paragon-battleship-pack.json) |
 | Vega Conflict: Punisher Cruiser Pack | 168314 | [168314-vega-conflict-punisher-cruiser-pack.json](./168314-vega-conflict-punisher-cruiser-pack.json) |
 | Vega Motions: Project Unleashed | 126887 | [126887-vega-motions-project-unleashed.json](./126887-vega-motions-project-unleashed.json) |
+| Vega Strike | 46954 | [46954-vega-strike.json](./46954-vega-strike.json) |
 | Vegaman | 177162 | [177162-vegaman.json](./177162-vegaman.json) |
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
 | Vegas Bandit | 77909 | [77909-vegas-bandit.json](./77909-vegas-bandit.json) |
