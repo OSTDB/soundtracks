@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Go | 285333 | [285333-racing-go.json](./285333-racing-go.json) |
+| Racing Hero | 39947 | [39947-racing-hero.json](./39947-racing-hero.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing in Car | 245895 | [245895-racing-in-car.json](./245895-racing-in-car.json) |
 | Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Champion: Legacy of Rosemond Hill | 64116 | [64116-riding-champion-legacy-of-rosemond-hill.json](./64116-riding-champion-legacy-of-rosemond-hill.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
 | Riding Fight | 39577 | [39577-riding-fight.json](./39577-riding-fight.json) |
+| Riding Hero | 39961 | [39961-riding-hero.json](./39961-riding-hero.json) |
 | Riding Horse School | 239753 | [239753-riding-horse-school.json](./239753-riding-horse-school.json) |
 | Riding Rhodri | 51164 | [51164-riding-rhodri.json](./51164-riding-rhodri.json) |
 | Riding Shotgun | 157430 | [157430-riding-shotgun.json](./157430-riding-shotgun.json) |
