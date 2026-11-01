@@ -5432,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's A-to-Zoo Adventure the Videogame | 47920 | [47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json](./47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json) |
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
 | Sesame Street: Elmo's Letter Adventure | 10611 | [10611-sesame-street-elmos-letter-adventure.json](./10611-sesame-street-elmos-letter-adventure.json) |
+| Sesame Street: Elmo's Musical Monsterpiece | 50935 | [50935-sesame-street-elmos-musical-monsterpiece.json](./50935-sesame-street-elmos-musical-monsterpiece.json) |
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
 | Sesame Street: Flappy Bert | 62112 | [62112-sesame-street-flappy-bert.json](./62112-sesame-street-flappy-bert.json) |
 | Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
@@ -14380,6 +14381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Blonde | 5171 | [5171-so-blonde.json](./5171-so-blonde.json) |
+| So Blonde: Back to the Island | 50955 | [50955-so-blonde-back-to-the-island.json](./50955-so-blonde-back-to-the-island.json) |
 | So Far, So High | 191647 | [191647-so-far-so-high.json](./191647-so-far-so-high.json) |
 | So Fart Away | 338631 | [338631-so-fart-away.json](./338631-so-fart-away.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
@@ -15686,6 +15688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Johnny | 235262 | [235262-sonic-and-johnny.json](./235262-sonic-and-johnny.json) |
 | Sonic & Knuckles | 239072 | [239072-sonic-and-knuckles.json](./239072-sonic-and-knuckles.json) |
 | Sonic & Knuckles | 9475 | [9475-sonic-and-knuckles.json](./9475-sonic-and-knuckles.json) |
+| Sonic & Knuckles Collection | 50924 | [50924-sonic-and-knuckles-collection.json](./50924-sonic-and-knuckles-collection.json) |
 | Sonic & Knuckles: Newtrogic Panic | 326151 | [326151-sonic-and-knuckles-newtrogic-panic.json](./326151-sonic-and-knuckles-newtrogic-panic.json) |
 | Sonic & Sega All-Stars Racing | 197615 | [197615-sonic-and-sega-all-stars-racing.json](./197615-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 200966 | [200966-sonic-and-sega-all-stars-racing.json](./200966-sonic-and-sega-all-stars-racing.json) |
@@ -17955,7 +17958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23428,6 +23430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Continuum | 318466 | [318466-starship-troopers-continuum.json](./318466-starship-troopers-continuum.json) |
 | Starship Troopers: Extermination - Galactic Victory Edition | 333690 | [333690-starship-troopers-extermination-galactic-victory-edition.json](./333690-starship-troopers-extermination-galactic-victory-edition.json) |
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
+| Starship Troopers: Terran Ascendancy | 50923 | [50923-starship-troopers-terran-ascendancy.json](./50923-starship-troopers-terran-ascendancy.json) |
 | Starship Troopers: Terran Command - Raising Hell | 265290 | [265290-starship-troopers-terran-command-raising-hell.json](./265290-starship-troopers-terran-command-raising-hell.json) |
 | Starship Troopers: Terran Command - The Eradicators | 380993 | [380993-starship-troopers-terran-command-the-eradicators.json](./380993-starship-troopers-terran-command-the-eradicators.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
@@ -25150,6 +25153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
 | Storybook of Tactics | 258612 | [258612-storybook-of-tactics.json](./258612-storybook-of-tactics.json) |
 | Storybook Weaver | 252083 | [252083-storybook-weaver.json](./252083-storybook-weaver.json) |
+| Storybook Workshop | 50975 | [50975-storybook-workshop.json](./50975-storybook-workshop.json) |
 | Storybricks | 65193 | [65193-storybricks.json](./65193-storybricks.json) |
 | Storycraft | 367158 | [367158-storycraft.json](./367158-storycraft.json) |
 | StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
@@ -27459,6 +27463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
 | Summer Snow. | 397949 | [397949-summer-snow.json](./397949-summer-snow.json) |
+| Summer Sports 2: Island Sports Party | 50976 | [50976-summer-sports-2-island-sports-party.json](./50976-summer-sports-2-island-sports-party.json) |
 | Summer Sports Games | 119477 | [119477-summer-sports-games.json](./119477-summer-sports-games.json) |
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
