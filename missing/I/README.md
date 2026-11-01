@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion | 99650 | [99650-illusion.json](./99650-illusion.json) |
 | Illusion Box | 317787 | [317787-illusion-box.json](./317787-illusion-box.json) |
 | Illusion Carnival | 290888 | [290888-illusion-carnival.json](./290888-illusion-carnival.json) |
+| Illusion City | 41710 | [41710-illusion-city.json](./41710-illusion-city.json) |
 | Illusion Connect | 139382 | [139382-illusion-connect.json](./139382-illusion-connect.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
 | Illusion Lands | 193257 | [193257-illusion-lands.json](./193257-illusion-lands.json) |
