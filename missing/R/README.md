@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on Rift | 310806 | [310806-raid-on-rift.json](./310806-raid-on-rift.json) |
 | Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
+| Raid over Moscow | 18168 | [18168-raid-over-moscow.json](./18168-raid-over-moscow.json) |
 | Raid over Moscow | 251636 | [251636-raid-over-moscow.json](./251636-raid-over-moscow.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raid the Dungeon | 299200 | [299200-raid-the-dungeon.json](./299200-raid-the-dungeon.json) |
