@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
 | Odyssey: Starship Pinball | 379148 | [379148-odyssey-starship-pinball.json](./379148-odyssey-starship-pinball.json) |
 | Odyssey: The Compleat Apventure | 23307 | [23307-odyssey-the-compleat-apventure.json](./23307-odyssey-the-compleat-apventure.json) |
+| Odyssey: The Legend of Nemesis | 57383 | [57383-odyssey-the-legend-of-nemesis.json](./57383-odyssey-the-legend-of-nemesis.json) |
 | Odyssey: The Search for Ulysses | 24156 | [24156-odyssey-the-search-for-ulysses.json](./24156-odyssey-the-search-for-ulysses.json) |
 | Odyssian Blaze | 190993 | [190993-odyssian-blaze.json](./190993-odyssian-blaze.json) |
 | Oedipus Dating Sim | 89660 | [89660-oedipus-dating-sim.json](./89660-oedipus-dating-sim.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Line : Single Stroke Drawing | 106628 | [106628-one-line-single-stroke-drawing.json](./106628-one-line-single-stroke-drawing.json) |
 | One Line 3D | 243069 | [243069-one-line-3d.json](./243069-one-line-3d.json) |
 | One Line Coloring | 136636 | [136636-one-line-coloring.json](./136636-one-line-coloring.json) |
+| One Line Sketch | 57433 | [57433-one-line-sketch.json](./57433-one-line-sketch.json) |
 | One Line: Connect the Dots | 207811 | [207811-one-line-connect-the-dots.json](./207811-one-line-connect-the-dots.json) |
 | One Line: Letters and Codes | 192789 | [192789-one-line-letters-and-codes.json](./192789-one-line-letters-and-codes.json) |
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
