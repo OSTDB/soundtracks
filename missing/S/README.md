@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Moon: Your Best Wishes | 111230 | [111230-sapphire-moon-your-best-wishes.json](./111230-sapphire-moon-your-best-wishes.json) |
 | Sapphire Safari | 171997 | [171997-sapphire-safari.json](./171997-sapphire-safari.json) |
 | Sapphire Tempest | 401724 | [401724-sapphire-tempest.json](./401724-sapphire-tempest.json) |
+| Sapphire Yours | 59571 | [59571-sapphire-yours.json](./59571-sapphire-yours.json) |
 | Sapu | 233025 | [233025-sapu.json](./233025-sapu.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
@@ -4224,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets in Green | 326006 | [326006-secrets-in-green.json](./326006-secrets-in-green.json) |
 | Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
 | Secrets of Ailzylia | 234680 | [234680-secrets-of-ailzylia.json](./234680-secrets-of-ailzylia.json) |
+| Secrets of Arcadia | 59566 | [59566-secrets-of-arcadia.json](./59566-secrets-of-arcadia.json) |
 | Secrets of Blackrock Manor: Escape Room | 344652 | [344652-secrets-of-blackrock-manor-escape-room.json](./344652-secrets-of-blackrock-manor-escape-room.json) |
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
 | Secrets of Deep Earth Shrine | 33282 | [33282-secrets-of-deep-earth-shrine.json](./33282-secrets-of-deep-earth-shrine.json) |
@@ -13905,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Team 2 | 270504 | [270504-sniper-team-2.json](./270504-sniper-team-2.json) |
 | Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
+| Sniper X with Jason Statham | 59597 | [59597-sniper-x-with-jason-statham.json](./59597-sniper-x-with-jason-statham.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
 | Sniper: Ghost Warrior - Second Strike | 53635 | [53635-sniper-ghost-warrior-second-strike.json](./53635-sniper-ghost-warrior-second-strike.json) |
@@ -25073,6 +25076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of the Mirror | 290346 | [290346-story-of-the-mirror.json](./290346-story-of-the-mirror.json) |
 | Story of the Olivia | 241851 | [241851-story-of-the-olivia.json](./241851-story-of-the-olivia.json) |
 | Story of the Survivor | 33582 | [33582-story-of-the-survivor.json](./33582-story-of-the-survivor.json) |
+| Story of the Survivor: Prisoner | 59569 | [59569-story-of-the-survivor-prisoner.json](./59569-story-of-the-survivor-prisoner.json) |
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Story Play | 208738 | [208738-story-play.json](./208738-story-play.json) |
@@ -27608,6 +27612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
 | Sundown Refusal | 118351 | [118351-sundown-refusal.json](./118351-sundown-refusal.json) |
+| Sundown: Boogie Frights | 59600 | [59600-sundown-boogie-frights.json](./59600-sundown-boogie-frights.json) |
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sundy Stairway | 300300 | [300300-sundy-stairway.json](./300300-sundy-stairway.json) |
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
@@ -27959,6 +27964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Bass: Real Fight | 61345 | [61345-super-black-bass-real-fight.json](./61345-super-black-bass-real-fight.json) |
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blackjack Battle 2 Turbo Edition - The Card Warriors | 30928 | [30928-super-blackjack-battle-2-turbo-edition-the-card-warriors.json](./30928-super-blackjack-battle-2-turbo-edition-the-card-warriors.json) |
+| Super Blackout | 59595 | [59595-super-blackout.json](./59595-super-blackout.json) |
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
 | Super Blob Blaster | 287604 | [287604-super-blob-blaster.json](./287604-super-blob-blaster.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
@@ -30973,6 +30979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
 | Supervoid | 287185 | [287185-supervoid.json](./287185-supervoid.json) |
 | SuperWeird | 353883 | [353883-superweird.json](./353883-superweird.json) |
+| SuperWurfels | 59577 | [59577-superwurfels.json](./59577-superwurfels.json) |
 | Superzgun | 211571 | [211571-superzgun.json](./211571-superzgun.json) |
 | Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
 | Supesu 2 | 123923 | [123923-supesu-2.json](./123923-supesu-2.json) |
