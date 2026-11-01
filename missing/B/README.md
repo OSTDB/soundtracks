@@ -9018,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlastFort | 164265 | [164265-blastfort.json](./164265-blastfort.json) |
 | Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
 | Blastgrid | 303365 | [303365-blastgrid.json](./303365-blastgrid.json) |
+| Blasting Agent | 57956 | [57956-blasting-agent.json](./57956-blasting-agent.json) |
 | Blasting Bad | 326112 | [326112-blasting-bad.json](./326112-blasting-bad.json) |
 | Blasting Courier | 181047 | [181047-blasting-courier.json](./181047-blasting-courier.json) |
 | Blastlane Racers | 421462 | [421462-blastlane-racers.json](./421462-blastlane-racers.json) |
@@ -14500,6 +14501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | British Lads Hit Each Other With Chairs: A Bitsy Retelling | 135772 | [135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json](./135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json) |
 | British Super League | 13444 | [13444-british-super-league.json](./13444-british-super-league.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
+| Britney Spears: American Dream | 57972 | [57972-britney-spears-american-dream.json](./57972-britney-spears-american-dream.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
