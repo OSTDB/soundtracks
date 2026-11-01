@@ -7228,6 +7228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words with AI | 233057 | [233057-words-with-ai.json](./233057-words-with-ai.json) |
 | Words With Foes: Quest for the Lexinomicon | 182843 | [182843-words-with-foes-quest-for-the-lexinomicon.json](./182843-words-with-foes-quest-for-the-lexinomicon.json) |
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
+| Words With Friends | 18753 | [18753-words-with-friends.json](./18753-words-with-friends.json) |
 | Words With Friends Classic | 87350 | [87350-words-with-friends-classic.json](./87350-words-with-friends-classic.json) |
 | Words With Friends Crosswords | 233405 | [233405-words-with-friends-crosswords.json](./233405-words-with-friends-crosswords.json) |
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
@@ -8338,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Titans | 268600 | [268600-wrath-of-the-titans.json](./268600-wrath-of-the-titans.json) |
 | Wrath of Towers | 294383 | [294383-wrath-of-towers.json](./294383-wrath-of-towers.json) |
 | Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
+| Wrath: Aeon of Ruin | 115873 | [115873-wrath-aeon-of-ruin.json](./115873-wrath-aeon-of-ruin.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
 | WRC 10 | 145735 | [145735-wrc-10.json](./145735-wrc-10.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
