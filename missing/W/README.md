@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warring Universe | 290459 | [290459-warring-universe.json](./290459-warring-universe.json) |
 | Warring Worms | 73769 | [73769-warring-worms.json](./73769-warring-worms.json) |
 | Warring Worms: The Worm (re)Turns | 73285 | [73285-warring-worms-the-worm-re-turns.json](./73285-warring-worms-the-worm-re-turns.json) |
+| Warrior | 16974 | [16974-warrior.json](./16974-warrior.json) |
 | Warrior | 181768 | [181768-warrior.json](./181768-warrior.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior | 274015 | [274015-warrior.json](./274015-warrior.json) |
