@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kicking Kittens: Putin Saves the World | 81653 | [81653-kicking-kittens-putin-saves-the-world.json](./81653-kicking-kittens-putin-saves-the-world.json) |
 | Kicking The Ball Over Mountains Of Stuff | 310398 | [310398-kicking-the-ball-over-mountains-of-stuff.json](./310398-kicking-the-ball-over-mountains-of-stuff.json) |
 | Kickle Cubicle | 40238 | [40238-kickle-cubicle.json](./40238-kickle-cubicle.json) |
+| Kickman | 41120 | [41120-kickman.json](./41120-kickman.json) |
 | KickNSlap | 380188 | [380188-kicknslap.json](./380188-kicknslap.json) |
 | Kickochet | 128298 | [128298-kickochet.json](./128298-kickochet.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
@@ -3376,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Soccer - Multiplayer Football Game | 100778 | [100778-kings-of-soccer-multiplayer-football-game.json](./100778-kings-of-soccer-multiplayer-football-game.json) |
 | Kings of Streets | 149402 | [149402-kings-of-streets.json](./149402-kings-of-streets.json) |
 | Kings of the Beach | 198795 | [198795-kings-of-the-beach.json](./198795-kings-of-the-beach.json) |
+| Kings of the Beach | 41117 | [41117-kings-of-the-beach.json](./41117-kings-of-the-beach.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
 | Kings on the Corner | 411290 | [411290-kings-on-the-corner.json](./411290-kings-on-the-corner.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
@@ -4088,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnifePlayground: Horror Battle Royale | 277927 | [277927-knifeplayground-horror-battle-royale.json](./277927-knifeplayground-horror-battle-royale.json) |
 | Kniffelix | 122301 | [122301-kniffelix.json](./122301-kniffelix.json) |
 | KnighShift | 50458 | [50458-knighshift.json](./50458-knighshift.json) |
+| Knight 'n' Grail | 41118 | [41118-knight-n-grail.json](./41118-knight-n-grail.json) |
 | Knight & Damsel | 24023 | [24023-knight-and-damsel.json](./24023-knight-and-damsel.json) |
 | Knight 24/7 | 183846 | [183846-knight-24-7.json](./183846-knight-24-7.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
@@ -4119,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Fortix 2 | 42770 | [42770-knight-fortix-2.json](./42770-knight-fortix-2.json) |
 | Knight Game | 176731 | [176731-knight-game.json](./176731-knight-game.json) |
 | Knight Games | 26437 | [26437-knight-games.json](./26437-knight-games.json) |
+| Knight Games 2: Space Trilogy | 41119 | [41119-knight-games-2-space-trilogy.json](./41119-knight-games-2-space-trilogy.json) |
 | Knight George | 316342 | [316342-knight-george.json](./316342-knight-george.json) |
 | Knight Ghost | 46740 | [46740-knight-ghost.json](./46740-knight-ghost.json) |
 | Knight Girl: Match 3 Puzzle | 254155 | [254155-knight-girl-match-3-puzzle.json](./254155-knight-girl-match-3-puzzle.json) |
