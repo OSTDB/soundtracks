@@ -5771,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
 | Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
+| Return Null: Episode 2 | 24726 | [24726-return-null-episode-2.json](./24726-return-null-episode-2.json) |
 | Return of Die Vie Ess | 71162 | [71162-return-of-die-vie-ess.json](./71162-return-of-die-vie-ess.json) |
 | Return of Donkey Kong | 131902 | [131902-return-of-donkey-kong.json](./131902-return-of-donkey-kong.json) |
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
@@ -7189,6 +7190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripper! | 24668 | [24668-ripper.json](./24668-ripper.json) |
 | Rippin' Riders Snowboarding | 26132 | [26132-rippin-riders-snowboarding.json](./26132-rippin-riders-snowboarding.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
+| Ripple | 24545 | [24545-ripple.json](./24545-ripple.json) |
 | Ripple Dot Zero | 231714 | [231714-ripple-dot-zero.json](./231714-ripple-dot-zero.json) |
 | Ripple Effect | 36961 | [36961-ripple-effect.json](./36961-ripple-effect.json) |
 | Ripple in Dirac Sea | 253861 | [253861-ripple-in-dirac-sea.json](./253861-ripple-in-dirac-sea.json) |
