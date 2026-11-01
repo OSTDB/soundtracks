@@ -500,6 +500,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Survivors | 305207 | [305207-backpack-survivors.json](./305207-backpack-survivors.json) |
 | Backpack Twins | 117432 | [117432-backpack-twins.json](./117432-backpack-twins.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
+| Backpacker 2 | 28410 | [28410-backpacker-2.json](./28410-backpacker-2.json) |
+| Backpacker 3 | 28411 | [28411-backpacker-3.json](./28411-backpacker-3.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
 | Backpacker: The Lost Florence Gold Mine | 73044 | [73044-backpacker-the-lost-florence-gold-mine.json](./73044-backpacker-the-lost-florence-gold-mine.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
@@ -13784,6 +13786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
 | Brawlers of Duality | 310500 | [310500-brawlers-of-duality.json](./310500-brawlers-of-duality.json) |
+| Brawlerz: Nitro | 28433 | [28433-brawlerz-nitro.json](./28433-brawlerz-nitro.json) |
 | Brawlhalla BCX 2022 Pack | 230714 | [230714-brawlhalla-bcx-2022-pack.json](./230714-brawlhalla-bcx-2022-pack.json) |
 | Brawlhalla x Guacamelee Crossover | 342146 | [342146-brawlhalla-x-guacamelee-crossover.json](./342146-brawlhalla-x-guacamelee-crossover.json) |
 | Brawlhalla X Lara Croft Bundle | 381166 | [381166-brawlhalla-x-lara-croft-bundle.json](./381166-brawlhalla-x-lara-croft-bundle.json) |
