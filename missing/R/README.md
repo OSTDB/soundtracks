@@ -2284,8 +2284,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Rayman Ultimate | 193323 | [193323-rayman-ultimate.json](./193323-rayman-ultimate.json) |
+| Rayman vs Cullcut | 61276 | [61276-rayman-vs-cullcut.json](./61276-rayman-vs-cullcut.json) |
 | Rayman: 30th Anniversary Edition | 389429 | [389429-rayman-30th-anniversary-edition.json](./389429-rayman-30th-anniversary-edition.json) |
 | Rayman: Hoodlums' Revenge | 1967 | [1967-rayman-hoodlums-revenge.json](./1967-rayman-hoodlums-revenge.json) |
+| Rayman: Slap, Flap, and Go! | 61277 | [61277-rayman-slap-flap-and-go.json](./61277-rayman-slap-flap-and-go.json) |
 | Rayman: The Dreamer's Boundary | 217782 | [217782-rayman-the-dreamers-boundary.json](./217782-rayman-the-dreamers-boundary.json) |
 | Raymond's Obstacle Course | 80976 | [80976-raymonds-obstacle-course.json](./80976-raymonds-obstacle-course.json) |
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
