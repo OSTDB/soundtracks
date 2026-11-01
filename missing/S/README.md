@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salad Bar Tycoon: Premium Edition | 238107 | [238107-salad-bar-tycoon-premium-edition.json](./238107-salad-bar-tycoon-premium-edition.json) |
 | Salad Fields | 122820 | [122820-salad-fields.json](./122820-salad-fields.json) |
 | Salagander | 181222 | [181222-salagander.json](./181222-salagander.json) |
+| Salamander | 1477 | [1477-salamander.json](./1477-salamander.json) |
 | Salamander | 192397 | [192397-salamander.json](./192397-salamander.json) |
 | Salamander | 261902 | [261902-salamander.json](./261902-salamander.json) |
 | Salamander | 261903 | [261903-salamander.json](./261903-salamander.json) |
@@ -7285,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelltered | 353359 | [353359-shelltered.json](./353359-shelltered.json) |
 | Shelltopia | 330311 | [330311-shelltopia.json](./330311-shelltopia.json) |
 | Shelly Duvall's It's A Bird's Life | 38820 | [38820-shelly-duvalls-its-a-birds-life.json](./38820-shelly-duvalls-its-a-birds-life.json) |
+| Shelter | 7832 | [7832-shelter.json](./7832-shelter.json) |
 | Shelter 2 | 11795 | [11795-shelter-2.json](./11795-shelter-2.json) |
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
@@ -7401,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Hakushaku Reijou Yuukai Jiken | 48396 | [48396-sherlock-holmes-hakushaku-reijou-yuukai-jiken.json](./48396-sherlock-holmes-hakushaku-reijou-yuukai-jiken.json) |
 | Sherlock Holmes: Nemesis | 6863 | [6863-sherlock-holmes-nemesis.json](./6863-sherlock-holmes-nemesis.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
+| Sherlock Holmes: The Awakened | 6815 | [6815-sherlock-holmes-the-awakened.json](./6815-sherlock-holmes-the-awakened.json) |
 | Sherlock Holmes: The Awakened - Deluxe Edition | 240984 | [240984-sherlock-holmes-the-awakened-deluxe-edition.json](./240984-sherlock-holmes-the-awakened-deluxe-edition.json) |
 | Sherlock Holmes: The Awakened - Premium Edition | 240985 | [240985-sherlock-holmes-the-awakened-premium-edition.json](./240985-sherlock-holmes-the-awakened-premium-edition.json) |
 | Sherlock Holmes: The Awakened - Remastered Edition | 27849 | [27849-sherlock-holmes-the-awakened-remastered-edition.json](./27849-sherlock-holmes-the-awakened-remastered-edition.json) |
@@ -13901,6 +13904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Snatcher | 345624 | [345624-snatcher.json](./345624-snatcher.json) |
 | Snatcher | 417289 | [417289-snatcher.json](./417289-snatcher.json) |
+| Snatcher | 5451 | [5451-snatcher.json](./5451-snatcher.json) |
 | Snatchy Carrots | 280086 | [280086-snatchy-carrots.json](./280086-snatchy-carrots.json) |
 | Snave | 296000 | [296000-snave.json](./296000-snave.json) |
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
@@ -18136,6 +18140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18799,6 +18804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | Spacechase | 18503 | [18503-spacechase.json](./18503-spacechase.json) |
+| SpaceChem | 8390 | [8390-spacechem.json](./8390-spacechem.json) |
 | SpaceChem: 63 Corvi | 78431 | [78431-spacechem-63-corvi.json](./78431-spacechem-63-corvi.json) |
 | SpaceCiv | 408840 | [408840-spaceciv.json](./408840-spaceciv.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
@@ -19715,6 +19721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 2: Faith in Destiny - Scenario 3: The Last Stand | 144287 | [144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json](./144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json) |
 | SpellForce 2: Faith in Destiny - Scenario Pack | 144288 | [144288-spellforce-2-faith-in-destiny-scenario-pack.json](./144288-spellforce-2-faith-in-destiny-scenario-pack.json) |
 | SpellForce 2: Gold Edition | 27859 | [27859-spellforce-2-gold-edition.json](./27859-spellforce-2-gold-edition.json) |
+| SpellForce 2: Shadow Wars | 7033 | [7033-spellforce-2-shadow-wars.json](./7033-spellforce-2-shadow-wars.json) |
 | SpellForce 3 | 17583 | [17583-spellforce-3.json](./17583-spellforce-3.json) |
 | SpellForce 3: Collector's Edition | 53650 | [53650-spellforce-3-collectors-edition.json](./53650-spellforce-3-collectors-edition.json) |
 | SpellForce 3: Fallen God | 140492 | [140492-spellforce-3-fallen-god.json](./140492-spellforce-3-fallen-god.json) |
@@ -22711,6 +22718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Episode I: The Phantom Menace | 329227 | [329227-star-wars-episode-i-the-phantom-menace.json](./329227-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Galaxies Restoration | 191026 | [191026-star-wars-galaxies-restoration.json](./191026-star-wars-galaxies-restoration.json) |
 | Star Wars Galaxies Trading Card Games : Champions of the Force | 72636 | [72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json](./72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json) |
+| Star Wars Galaxies: An Empire Divided | 145 | [145-star-wars-galaxies-an-empire-divided.json](./145-star-wars-galaxies-an-empire-divided.json) |
 | Star Wars Galaxies: Ancient Empire | 376116 | [376116-star-wars-galaxies-ancient-empire.json](./376116-star-wars-galaxies-ancient-empire.json) |
 | Star Wars Galaxies: Evolve | 290279 | [290279-star-wars-galaxies-evolve.json](./290279-star-wars-galaxies-evolve.json) |
 | Star Wars Galaxies: Jump to Lightspeed | 147 | [147-star-wars-galaxies-jump-to-lightspeed.json](./147-star-wars-galaxies-jump-to-lightspeed.json) |
@@ -22755,6 +22763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Beyond Victory | 372103 | [372103-star-wars-beyond-victory.json](./372103-star-wars-beyond-victory.json) |
 | Star Wars: Blaster Strike | 389227 | [389227-star-wars-blaster-strike.json](./389227-star-wars-blaster-strike.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
+| Star Wars: Bounty Hunter | 4180 | [4180-star-wars-bounty-hunter.json](./4180-star-wars-bounty-hunter.json) |
 | Star Wars: Clone Trooper | 389232 | [389232-star-wars-clone-trooper.json](./389232-star-wars-clone-trooper.json) |
 | Star Wars: Clone Trooper Blaster Game | 389235 | [389235-star-wars-clone-trooper-blaster-game.json](./389235-star-wars-clone-trooper-blaster-game.json) |
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
@@ -23772,6 +23781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starway VR | 111373 | [111373-starway-vr.json](./111373-starway-vr.json) |
 | Starway: BaRaider | 223328 | [223328-starway-baraider.json](./223328-starway-baraider.json) |
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
+| Starwhal | 6781 | [6781-starwhal.json](./6781-starwhal.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
 | Starwind | 392363 | [392363-starwind.json](./392363-starwind.json) |
 | Starwinder: The Ultimate Space Race | 72069 | [72069-starwinder-the-ultimate-space-race.json](./72069-starwinder-the-ultimate-space-race.json) |
