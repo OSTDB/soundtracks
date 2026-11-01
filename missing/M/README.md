@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madstone | 50721 | [50721-madstone.json](./50721-madstone.json) |
 | Madtale | 208094 | [208094-madtale.json](./208094-madtale.json) |
 | Madtoys Knights | 319115 | [319115-madtoys-knights.json](./319115-madtoys-knights.json) |
+| Madu Maths | 55559 | [55559-madu-maths.json](./55559-madu-maths.json) |
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | MadVentures | 204180 | [204180-madventures.json](./204180-madventures.json) |
@@ -4946,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
 | Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
 | Match 4 | 200399 | [200399-match-4.json](./200399-match-4.json) |
+| Match and Crash | 55567 | [55567-match-and-crash.json](./55567-match-and-crash.json) |
 | Match App! | 347340 | [347340-match-app.json](./347340-match-app.json) |
 | Match Connect Challenge | 99150 | [99150-match-connect-challenge.json](./99150-match-connect-challenge.json) |
 | Match Day | 39123 | [39123-match-day.json](./39123-match-day.json) |
@@ -11023,6 +11025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind the Dragon | 347011 | [347011-mind-the-dragon.json](./347011-mind-the-dragon.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
+| Mind Trap | 55585 | [55585-mind-trap.json](./55585-mind-trap.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
 | Mind Twins | 81832 | [81832-mind-twins.json](./81832-mind-twins.json) |
 | Mind Twist | 378766 | [378766-mind-twist.json](./378766-mind-twist.json) |
