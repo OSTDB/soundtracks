@@ -13917,6 +13917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Saikyou Ouzukan: Battle Colosseum | 306192 | [306192-dragon-saikyou-ouzukan-battle-colosseum.json](./306192-dragon-saikyou-ouzukan-battle-colosseum.json) |
 | Dragon Saiyan Warrior | 100783 | [100783-dragon-saiyan-warrior.json](./100783-dragon-saiyan-warrior.json) |
 | Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
+| Dragon Seeds | 45008 | [45008-dragon-seeds.json](./45008-dragon-seeds.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sin | 77055 | [77055-dragon-sin.json](./77055-dragon-sin.json) |
@@ -13970,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Tales | 320914 | [320914-dragon-tales.json](./320914-dragon-tales.json) |
 | Dragon Tales: Dragon Adventures | 248751 | [248751-dragon-tales-dragon-adventures.json](./248751-dragon-tales-dragon-adventures.json) |
 | Dragon Tales: Dragon Adventures | 6389 | [6389-dragon-tales-dragon-adventures.json](./6389-dragon-tales-dragon-adventures.json) |
+| Dragon Tales: Dragon Seek | 44950 | [44950-dragon-tales-dragon-seek.json](./44950-dragon-tales-dragon-seek.json) |
 | Dragon Tales: Dragon Wings | 49939 | [49939-dragon-tales-dragon-wings.json](./49939-dragon-tales-dragon-wings.json) |
 | Dragon Tales: Learn & Fly With Dragons | 72127 | [72127-dragon-tales-learn-and-fly-with-dragons.json](./72127-dragon-tales-learn-and-fly-with-dragons.json) |
 | Dragon Tavern | 62715 | [62715-dragon-tavern.json](./62715-dragon-tavern.json) |
