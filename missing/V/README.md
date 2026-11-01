@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagalumancer | 221915 | [221915-vagalumancer.json](./221915-vagalumancer.json) |
 | Vagalume | 393741 | [393741-vagalume.json](./393741-vagalume.json) |
 | Vagan Attack | 71499 | [71499-vagan-attack.json](./71499-vagan-attack.json) |
+| Vagante | 19150 | [19150-vagante.json](./19150-vagante.json) |
 | Vagnerun | 324339 | [324339-vagnerun.json](./324339-vagnerun.json) |
 | Vagrant Fighter FX | 98259 | [98259-vagrant-fighter-fx.json](./98259-vagrant-fighter-fx.json) |
 | Vagrant Hearts | 25470 | [25470-vagrant-hearts.json](./25470-vagrant-hearts.json) |
