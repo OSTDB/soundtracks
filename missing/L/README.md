@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Action Hero | 262153 | [262153-last-action-hero.json](./262153-last-action-hero.json) |
 | Last Action Hero | 262154 | [262154-last-action-hero.json](./262154-last-action-hero.json) |
 | Last Action Hero | 262155 | [262155-last-action-hero.json](./262155-last-action-hero.json) |
+| Last Alert | 44311 | [44311-last-alert.json](./44311-last-alert.json) |
 | Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Alliance: Total War | 356251 | [356251-last-alliance-total-war.json](./356251-last-alliance-total-war.json) |
