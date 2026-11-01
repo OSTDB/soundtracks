@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
 | UFO on Tape | 242722 | [242722-ufo-on-tape.json](./242722-ufo-on-tape.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
+| UFO Online: Fight for Earth | 17356 | [17356-ufo-online-fight-for-earth.json](./17356-ufo-online-fight-for-earth.json) |
 | UFO Patrol | 40594 | [40594-ufo-patrol.json](./40594-ufo-patrol.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO Robo Dangar | 39994 | [39994-ufo-robo-dangar.json](./39994-ufo-robo-dangar.json) |
@@ -3106,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Justice | 113525 | [113525-urban-justice.json](./113525-urban-justice.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
 | Urban Legend Hunters: Ghosts in the Circuit | 369921 | [369921-urban-legend-hunters-ghosts-in-the-circuit.json](./369921-urban-legend-hunters-ghosts-in-the-circuit.json) |
+| Urban Legends | 17384 | [17384-urban-legends.json](./17384-urban-legends.json) |
 | Urban Legends: The Maze | 57964 | [57964-urban-legends-the-maze.json](./57964-urban-legends-the-maze.json) |
 | Urban Mage | 160034 | [160034-urban-mage.json](./160034-urban-mage.json) |
 | Urban Massacre | 278500 | [278500-urban-massacre.json](./278500-urban-massacre.json) |
