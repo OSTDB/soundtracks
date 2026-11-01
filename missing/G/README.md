@@ -5910,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold of Skulls | 303004 | [303004-gold-of-skulls.json](./303004-gold-of-skulls.json) |
 | Gold of the Americas: The Conquest of the New World | 12119 | [12119-gold-of-the-americas-the-conquest-of-the-new-world.json](./12119-gold-of-the-americas-the-conquest-of-the-new-world.json) |
 | Gold of the Incas Solitaire | 294741 | [294741-gold-of-the-incas-solitaire.json](./294741-gold-of-the-incas-solitaire.json) |
+| Gold of the Realm | 12599 | [12599-gold-of-the-realm.json](./12599-gold-of-the-realm.json) |
 | Gold Picker | 292627 | [292627-gold-picker.json](./292627-gold-picker.json) |
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
 | Gold Rush | 172467 | [172467-gold-rush.json](./172467-gold-rush.json) |
@@ -6012,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Oldies Jukebox CD-I : An Interactive Music Video Experience | 46548 | [46548-golden-oldies-jukebox-cd-i-an-interactive-music-video-experience.json](./46548-golden-oldies-jukebox-cd-i-an-interactive-music-video-experience.json) |
 | Golden Oldies Volume 1: Computer Software Classics | 73112 | [73112-golden-oldies-volume-1-computer-software-classics.json](./73112-golden-oldies-volume-1-computer-software-classics.json) |
 | Golden Panic | 40526 | [40526-golden-panic.json](./40526-golden-panic.json) |
+| Golden Path | 12600 | [12600-golden-path.json](./12600-golden-path.json) |
 | Golden Racing | 335958 | [335958-golden-racing.json](./335958-golden-racing.json) |
 | Golden Rails: Harvest of Riddles | 278519 | [278519-golden-rails-harvest-of-riddles.json](./278519-golden-rails-harvest-of-riddles.json) |
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
@@ -6093,6 +6095,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldMan HD | 89794 | [89794-goldman-hd.json](./89794-goldman-hd.json) |
 | Goldo: Lost Goblin | 370128 | [370128-goldo-lost-goblin.json](./370128-goldo-lost-goblin.json) |
 | Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
+| Goldrunner | 12601 | [12601-goldrunner.json](./12601-goldrunner.json) |
+| Goldrunner II | 12602 | [12602-goldrunner-ii.json](./12602-goldrunner-ii.json) |
 | Goldrush | 270227 | [270227-goldrush.json](./270227-goldrush.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldrush Coin Falls | 232289 | [232289-goldrush-coin-falls.json](./232289-goldrush-coin-falls.json) |
@@ -7041,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graduation | 71310 | [71310-graduation.json](./71310-graduation.json) |
 | Graduation Life Simulator | 326302 | [326302-graduation-life-simulator.json](./326302-graduation-life-simulator.json) |
 | Graeme Souness Soccer Manager | 79084 | [79084-graeme-souness-soccer-manager.json](./79084-graeme-souness-soccer-manager.json) |
+| Graeme Souness Vector Soccer | 12603 | [12603-graeme-souness-vector-soccer.json](./12603-graeme-souness-vector-soccer.json) |
 | Graffism | 354384 | [354384-graffism.json](./354384-graffism.json) |
 | Graffiti Ball | 91641 | [91641-graffiti-ball.json](./91641-graffiti-ball.json) |
 | Graffiti Bombing | 126973 | [126973-graffiti-bombing.json](./126973-graffiti-bombing.json) |
@@ -7063,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gragyriss, Captor of Princesses | 304354 | [304354-gragyriss-captor-of-princesses.json](./304354-gragyriss-captor-of-princesses.json) |
 | Graham Gooch World Class Cricket | 14248 | [14248-graham-gooch-world-class-cricket.json](./14248-graham-gooch-world-class-cricket.json) |
 | Graham Gooch's Test Cricket | 63185 | [63185-graham-goochs-test-cricket.json](./63185-graham-goochs-test-cricket.json) |
+| Graham Taylors Soccer Challenge | 12604 | [12604-graham-taylors-soccer-challenge.json](./12604-graham-taylors-soccer-challenge.json) |
 | Grail Tale | 231945 | [231945-grail-tale.json](./231945-grail-tale.json) |
 | Grail to the Thief | 35169 | [35169-grail-to-the-thief.json](./35169-grail-to-the-thief.json) |
 | Grailquest | 92846 | [92846-grailquest.json](./92846-grailquest.json) |
@@ -8350,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
 | Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
 | Gremlins 2: The New Batch | 119197 | [119197-gremlins-2-the-new-batch.json](./119197-gremlins-2-the-new-batch.json) |
+| Gremlins 2: The New Batch | 12605 | [12605-gremlins-2-the-new-batch.json](./12605-gremlins-2-the-new-batch.json) |
 | Gremlins 2: The New Batch | 264994 | [264994-gremlins-2-the-new-batch.json](./264994-gremlins-2-the-new-batch.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Gremlins Unleashed | 50035 | [50035-gremlins-unleashed.json](./50035-gremlins-unleashed.json) |
@@ -9818,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulman 5 | 99067 | [99067-gulman-5.json](./99067-gulman-5.json) |
 | Gǔlóng Chuánshuō | 155990 | [155990-gulong-chuanshuo.json](./155990-gulong-chuanshuo.json) |
 | Gǔlóng Fēngyún Lù | 413005 | [413005-gulong-fengyun-lu.json](./413005-gulong-fengyun-lu.json) |
+| Gulp! | 12606 | [12606-gulp.json](./12606-gulp.json) |
 | Gulp! | 399420 | [399420-gulp.json](./399420-gulp.json) |
 | Gulper.Io | 191708 | [191708-gulper-io.json](./191708-gulper-io.json) |
 | Gulping Snake | 315345 | [315345-gulping-snake.json](./315345-gulping-snake.json) |
