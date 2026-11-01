@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lalaloopsy Diner | 68911 | [68911-lalaloopsy-diner.json](./68911-lalaloopsy-diner.json) |
+| Lalaloopsy: Carnival of Friends | 47640 | [47640-lalaloopsy-carnival-of-friends.json](./47640-lalaloopsy-carnival-of-friends.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lalli | 311161 | [311161-lalli.json](./311161-lalli.json) |
 | Lam Lam | 223317 | [223317-lam-lam.json](./223317-lam-lam.json) |
