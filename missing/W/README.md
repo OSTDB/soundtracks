@@ -3632,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune Cartridge #3 | 198967 | [198967-wheel-of-fortune-cartridge-3.json](./198967-wheel-of-fortune-cartridge-3.json) |
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
+| Wheel of Fortune Puzzle Pop | 56820 | [56820-wheel-of-fortune-puzzle-pop.json](./56820-wheel-of-fortune-puzzle-pop.json) |
 | Wheel of Fortune: 2nd Edition | 43910 | [43910-wheel-of-fortune-2nd-edition.json](./43910-wheel-of-fortune-2nd-edition.json) |
 | Wheel of Fortune: Deluxe Edition | 42424 | [42424-wheel-of-fortune-deluxe-edition.json](./42424-wheel-of-fortune-deluxe-edition.json) |
 | Wheel of Fortune: Featuring Vanna White | 182279 | [182279-wheel-of-fortune-featuring-vanna-white.json](./182279-wheel-of-fortune-featuring-vanna-white.json) |
