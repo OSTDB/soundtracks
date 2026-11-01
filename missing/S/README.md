@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
 | S.K.I.L.L.: Special Force 2 | 17174 | [17174-s-k-i-l-l-special-force-2.json](./17174-s-k-i-l-l-special-force-2.json) |
 | S.K.R.U.B. Squad | 412352 | [412352-s-k-r-u-b-squad.json](./412352-s-k-r-u-b-squad.json) |
+| S.L.Y Special Project Y | 41083 | [41083-s-l-y-special-project-y.json](./41083-s-l-y-special-project-y.json) |
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.M.A.R.T.: Adventures Mission Math - Sabotage at the Space Station | 85385 | [85385-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./85385-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
@@ -3462,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrollden | 298456 | [298456-scrollden.json](./298456-scrollden.json) |
 | Scrolling Survivor | 177163 | [177163-scrolling-survivor.json](./177163-scrolling-survivor.json) |
 | Scrolling Walls | 73423 | [73423-scrolling-walls.json](./73423-scrolling-walls.json) |
+| Scrollonoid | 41112 | [41112-scrollonoid.json](./41112-scrollonoid.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
@@ -3635,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SDS Star Divers | 242710 | [242710-sds-star-divers.json](./242710-sds-star-divers.json) |
 | SDST: Deluxe | 168904 | [168904-sdst-deluxe.json](./168904-sdst-deluxe.json) |
 | Sè Sè Fādǒu | 373716 | [373716-se-se-fadou.json](./373716-se-se-fadou.json) |
+| Se-Kaa of Assiah | 41126 | [41126-se-kaa-of-assiah.json](./41126-se-kaa-of-assiah.json) |
 | Se.Kirara | 397404 | [397404-se-kirara.json](./397404-se-kirara.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Animal City | 60741 | [60741-sea-animal-city.json](./60741-sea-animal-city.json) |
@@ -11456,12 +11459,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Ball | 81894 | [81894-sky-ball.json](./81894-sky-ball.json) |
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
+| Sky Base | 41105 | [41105-sky-base.json](./41105-sky-base.json) |
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
 | Sky Beneath | 122621 | [122621-sky-beneath.json](./122621-sky-beneath.json) |
 | Sky Bouncer | 241202 | [241202-sky-bouncer.json](./241202-sky-bouncer.json) |
 | Sky Bound Hero | 311857 | [311857-sky-bound-hero.json](./311857-sky-bound-hero.json) |
 | Sky Brawl | 111179 | [111179-sky-brawl.json](./111179-sky-brawl.json) |
 | Sky Break | 25300 | [25300-sky-break.json](./25300-sky-break.json) |
+| Sky Bumper | 41104 | [41104-sky-bumper.json](./41104-sky-bumper.json) |
 | Sky Burger | 233909 | [233909-sky-burger.json](./233909-sky-burger.json) |
 | Sky Cannoneer | 127441 | [127441-sky-cannoneer.json](./127441-sky-cannoneer.json) |
 | Sky Captain's Return | 213454 | [213454-sky-captains-return.json](./213454-sky-captains-return.json) |
@@ -11631,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Skipper | 288336 | [288336-sky-skipper.json](./288336-sky-skipper.json) |
 | Sky Smasher | 39800 | [39800-sky-smasher.json](./39800-sky-smasher.json) |
 | Sky Sojourn | 261839 | [261839-sky-sojourn.json](./261839-sky-sojourn.json) |
+| Sky Soldiers | 41103 | [41103-sky-soldiers.json](./41103-sky-soldiers.json) |
 | Sky Sports Football Manager | 94003 | [94003-sky-sports-football-manager.json](./94003-sky-sports-football-manager.json) |
 | Sky Sports Football Quiz | 70026 | [70026-sky-sports-football-quiz.json](./70026-sky-sports-football-quiz.json) |
 | Sky Sports Football Quiz: Season 02 | 60303 | [60303-sky-sports-football-quiz-season-02.json](./60303-sky-sports-football-quiz-season-02.json) |
@@ -11955,6 +11961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Happy Rhythm Busters | 44861 | [44861-slap-happy-rhythm-busters.json](./44861-slap-happy-rhythm-busters.json) |
 | Slap Happy Sam | 93943 | [93943-slap-happy-sam.json](./93943-slap-happy-sam.json) |
 | Slap Shooter | 97977 | [97977-slap-shooter.json](./97977-slap-shooter.json) |
+| Slap Shot | 41102 | [41102-slap-shot.json](./41102-slap-shot.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
 | Slap Shots! | 244108 | [244108-slap-shots.json](./244108-slap-shots.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
@@ -18400,6 +18407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
 | Space ScrubLords | 348930 | [348930-space-scrublords.json](./348930-space-scrublords.json) |
 | Space Scum | 351056 | [351056-space-scum.json](./351056-space-scum.json) |
+| Space Seeker | 41101 | [41101-space-seeker.json](./41101-space-seeker.json) |
 | Space Sergeants | 143941 | [143941-space-sergeants.json](./143941-space-sergeants.json) |
 | Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
 | Space Shaft | 81026 | [81026-space-shaft.json](./81026-space-shaft.json) |
@@ -18509,6 +18517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
 | Space Sweep & Invaders | 423227 | [423227-space-sweep-and-invaders.json](./423227-space-sweep-and-invaders.json) |
 | Space Sweeper | 59795 | [59795-space-sweeper.json](./59795-space-sweeper.json) |
+| Space Tactics | 41100 | [41100-space-tactics.json](./41100-space-tactics.json) |
 | Space Tail | 361876 | [361876-space-tail.json](./361876-space-tail.json) |
 | Space Tail: Every Journey Leads Home | 216885 | [216885-space-tail-every-journey-leads-home.json](./216885-space-tail-every-journey-leads-home.json) |
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
@@ -18549,6 +18558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
 | Space Treat | 71992 | [71992-space-treat.json](./71992-space-treat.json) |
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
+| Space Trek | 41099 | [41099-space-trek.json](./41099-space-trek.json) |
 | Space Trek | 77243 | [77243-space-trek.json](./77243-space-trek.json) |
 | Space Trench | 380455 | [380455-space-trench.json](./380455-space-trench.json) |
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
@@ -19099,6 +19109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces | 77269 | [77269-special-forces.json](./77269-special-forces.json) |
 | Special Forces Group | 245173 | [245173-special-forces-group.json](./245173-special-forces-group.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
+| Special Forces II | 41098 | [41098-special-forces-ii.json](./41098-special-forces-ii.json) |
 | Special Forces Jackal | 96308 | [96308-special-forces-jackal.json](./96308-special-forces-jackal.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
 | Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
@@ -19319,6 +19330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Rumbler | 39407 | [39407-speed-rumbler.json](./39407-speed-rumbler.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
 | Speed Runner | 246491 | [246491-speed-runner.json](./246491-speed-runner.json) |
+| Speed Spin | 41097 | [41097-speed-spin.json](./41097-speed-spin.json) |
 | Speed Squared | 262568 | [262568-speed-squared.json](./262568-speed-squared.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
 | Speed Sweeper | 133209 | [133209-speed-sweeper.json](./133209-speed-sweeper.json) |
@@ -19684,6 +19696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
 | Spelunker HD: Ultimate Edition | 99946 | [99946-spelunker-hd-ultimate-edition.json](./99946-spelunker-hd-ultimate-edition.json) |
+| Spelunker II | 41096 | [41096-spelunker-ii.json](./41096-spelunker-ii.json) |
 | Spelunker II: 23 no Kagi | 98524 | [98524-spelunker-ii-23-no-kagi.json](./98524-spelunker-ii-23-no-kagi.json) |
 | Spelunker II: Yuusha he no Chousen | 78887 | [78887-spelunker-ii-yuusha-he-no-chousen.json](./78887-spelunker-ii-yuusha-he-no-chousen.json) |
 | Spelunker Party | 68534 | [68534-spelunker-party.json](./68534-spelunker-party.json) |
@@ -21744,6 +21757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stadium | 371967 | [371967-stadium.json](./371967-stadium.json) |
 | Stadium Cross | 123004 | [123004-stadium-cross.json](./123004-stadium-cross.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
+| Stadium Hero | 41095 | [41095-stadium-hero.json](./41095-stadium-hero.json) |
 | Stadium Shift | 369455 | [369455-stadium-shift.json](./369455-stadium-shift.json) |
 | Stadtleben | 200508 | [200508-stadtleben.json](./200508-stadtleben.json) |
 | Stafakarlarnir | 65240 | [65240-stafakarlarnir.json](./65240-stafakarlarnir.json) |
@@ -25482,6 +25496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratform | 181246 | [181246-stratform.json](./181246-stratform.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
+| Strato Fighter | 41090 | [41090-strato-fighter.json](./41090-strato-fighter.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Strato-Scruffy | 266963 | [266963-strato-scruffy.json](./266963-strato-scruffy.json) |
 | Strato-Spear | 268443 | [268443-strato-spear.json](./268443-strato-spear.json) |
@@ -26445,6 +26460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunner | 383152 | [383152-stunner.json](./383152-stunner.json) |
 | Stunt 2 Race: A Moto Bike Fast Racing | 96594 | [96594-stunt-2-race-a-moto-bike-fast-racing.json](./96594-stunt-2-race-a-moto-bike-fast-racing.json) |
 | Stunt Bike Extreme | 322447 | [322447-stunt-bike-extreme.json](./322447-stunt-bike-extreme.json) |
+| Stunt Bike Simulator | 41124 | [41124-stunt-bike-simulator.json](./41124-stunt-bike-simulator.json) |
 | Stunt Buggies | 164759 | [164759-stunt-buggies.json](./164759-stunt-buggies.json) |
 | Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
@@ -31836,6 +31852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
 | Suzu to Mari no Bouken: The Ghost of Friend | 206176 | [206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json](./206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json) |
+| Suzuka 8 Hours 2 | 41094 | [41094-suzuka-8-hours-2.json](./41094-suzuka-8-hours-2.json) |
 | Suzukaze no Melt: Where Wishes are Drawn to Each Other | 78406 | [78406-suzukaze-no-melt-where-wishes-are-drawn-to-each-other.json](./78406-suzukaze-no-melt-where-wishes-are-drawn-to-each-other.json) |
 | Suzuki Bakuhatsu | 43852 | [43852-suzuki-bakuhatsu.json](./43852-suzuki-bakuhatsu.json) |
 | Suzuki Super-bikes II: Riding Challenge | 67038 | [67038-suzuki-super-bikes-ii-riding-challenge.json](./67038-suzuki-super-bikes-ii-riding-challenge.json) |
