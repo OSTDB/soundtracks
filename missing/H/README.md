@@ -7944,6 +7944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey! / Soccer! | 69722 | [69722-hockey-soccer.json](./69722-hockey-soccer.json) |
 | Hockeysplit | 128976 | [128976-hockeysplit.json](./128976-hockeysplit.json) |
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
+| Hocus | 34072 | [34072-hocus.json](./34072-hocus.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
 | Hocus Defenders | 151503 | [151503-hocus-defenders.json](./151503-hocus-defenders.json) |
 | Hocus Focus | 14115 | [14115-hocus-focus.json](./14115-hocus-focus.json) |
@@ -8865,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
 | Honor Mice | 390588 | [390588-honor-mice.json](./390588-honor-mice.json) |
 | Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
+| Honor of Kings | 44097 | [44097-honor-of-kings.json](./44097-honor-of-kings.json) |
 | Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
 | Honor of Knight King | 174109 | [174109-honor-of-knight-king.json](./174109-honor-of-knight-king.json) |
 | Honored | 187082 | [187082-honored.json](./187082-honored.json) |
