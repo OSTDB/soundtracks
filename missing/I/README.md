@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imada ni Yokuaru Dasshutsu Game | 320005 | [320005-imada-ni-yokuaru-dasshutsu-game.json](./320005-imada-ni-yokuaru-dasshutsu-game.json) |
 | Imadoki no Vampire: Bloody Bride | 43778 | [43778-imadoki-no-vampire-bloody-bride.json](./43778-imadoki-no-vampire-bloody-bride.json) |
 | Imae: Guardian Girl | 387536 | [387536-imae-guardian-girl.json](./387536-imae-guardian-girl.json) |
+| Image Fight | 10452 | [10452-image-fight.json](./10452-image-fight.json) |
 | Image Fight II: Operation Deepstriker | 37623 | [37623-image-fight-ii-operation-deepstriker.json](./37623-image-fight-ii-operation-deepstriker.json) |
 | Image of Perfection | 120580 | [120580-image-of-perfection.json](./120580-image-of-perfection.json) |
 | ImageFight | 86243 | [86243-imagefight.json](./86243-imagefight.json) |
@@ -3911,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InkBall | 66582 | [66582-inkball.json](./66582-inkball.json) |
 | Inkball adventures | 130148 | [130148-inkball-adventures.json](./130148-inkball-adventures.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
+| Inkbound | 205955 | [205955-inkbound.json](./205955-inkbound.json) |
 | Inkbound: Supporter Pack - The Starship of Terrors | 272968 | [272968-inkbound-supporter-pack-the-starship-of-terrors.json](./272968-inkbound-supporter-pack-the-starship-of-terrors.json) |
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
 | Inked | 96278 | [96278-inked.json](./96278-inked.json) |
