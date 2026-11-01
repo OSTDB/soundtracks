@@ -6018,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Spirit: Rite of Resurrection | 32854 | [32854-revenge-of-the-spirit-rite-of-resurrection.json](./32854-revenge-of-the-spirit-rite-of-resurrection.json) |
 | Revenge of the Sunfish | 18084 | [18084-revenge-of-the-sunfish.json](./18084-revenge-of-the-sunfish.json) |
 | Revenge of the Sus | 177268 | [177268-revenge-of-the-sus.json](./177268-revenge-of-the-sus.json) |
+| Revenge of the Titans | 9588 | [9588-revenge-of-the-titans.json](./9588-revenge-of-the-titans.json) |
 | Revenge of the Toys | 209196 | [209196-revenge-of-the-toys.json](./209196-revenge-of-the-toys.json) |
 | Revenge of the Wounded Dragons | 21770 | [21770-revenge-of-the-wounded-dragons.json](./21770-revenge-of-the-wounded-dragons.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
@@ -6803,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders of Asgard | 30618 | [30618-riders-of-asgard.json](./30618-riders-of-asgard.json) |
 | Riders of Asgard: Deluxe Edition | 53508 | [53508-riders-of-asgard-deluxe-edition.json](./53508-riders-of-asgard-deluxe-edition.json) |
+| Riders of Icarus | 19012 | [19012-riders-of-icarus.json](./19012-riders-of-icarus.json) |
 | Riders of Rhea | 182645 | [182645-riders-of-rhea.json](./182645-riders-of-rhea.json) |
 | Riders of the Wild | 275835 | [275835-riders-of-the-wild.json](./275835-riders-of-the-wild.json) |
 | Riders Republic: 360 Edition | 263514 | [263514-riders-republic-360-edition.json](./263514-riders-republic-360-edition.json) |
@@ -9917,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XII with Power Up Kit | 82407 | [82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json](./82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms XII: Competition Edition | 219028 | [219028-romance-of-the-three-kingdoms-xii-competition-edition.json](./219028-romance-of-the-three-kingdoms-xii-competition-edition.json) |
 | Romance of the Three Kingdoms XII: Power Up Kit | 350634 | [350634-romance-of-the-three-kingdoms-xii-power-up-kit.json](./350634-romance-of-the-three-kingdoms-xii-power-up-kit.json) |
+| Romance of the Three Kingdoms XIII | 17003 | [17003-romance-of-the-three-kingdoms-xiii.json](./17003-romance-of-the-three-kingdoms-xiii.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 1st Wave: Liu Bei Enters Shu | 164485 | [164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json](./164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 2nd Wave: Clash of the Warmongers | 164487 | [164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json](./164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 3rd Wave: The Battle for Hebei | 164488 | [164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json](./164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json) |
