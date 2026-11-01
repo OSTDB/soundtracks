@@ -5644,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Maidan 3 | 127754 | [127754-heroes-of-maidan-3.json](./127754-heroes-of-maidan-3.json) |
 | Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
 | Heroes of Mavia | 280426 | [280426-heroes-of-mavia.json](./280426-heroes-of-mavia.json) |
+| Heroes of Might & Magic III: HD Edition | 20052 | [20052-heroes-of-might-and-magic-iii-hd-edition.json](./20052-heroes-of-might-and-magic-iii-hd-edition.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
 | Heroes of Might and Magic | 143578 | [143578-heroes-of-might-and-magic.json](./143578-heroes-of-might-and-magic.json) |
 | Heroes of Might and Magic 3.5: In the Wake of Gods | 19775 | [19775-heroes-of-might-and-magic-3-5-in-the-wake-of-gods.json](./19775-heroes-of-might-and-magic-3-5-in-the-wake-of-gods.json) |
@@ -10525,6 +10526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HRO: Adventures of a Humanoid Resources Officer | 171750 | [171750-hro-adventures-of-a-humanoid-resources-officer.json](./171750-hro-adventures-of-a-humanoid-resources-officer.json) |
 | Hrolfr vs. Evil Skulls | 379721 | [379721-hrolfr-vs-evil-skulls.json](./379721-hrolfr-vs-evil-skulls.json) |
 | Hroogar | 200314 | [200314-hroogar.json](./200314-hroogar.json) |
+| Hrot | 135478 | [135478-hrot.json](./135478-hrot.json) |
 | HRT Simulator 2023 | 299114 | [299114-hrt-simulator-2023.json](./299114-hrt-simulator-2023.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
