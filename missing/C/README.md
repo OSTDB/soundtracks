@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga | 251430 | [251430-candy-crush-saga.json](./251430-candy-crush-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
+| Candy Crush Soda Saga | 18061 | [18061-candy-crush-soda-saga.json](./18061-candy-crush-soda-saga.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
 | Candy Crush Solitare | 383749 | [383749-candy-crush-solitare.json](./383749-candy-crush-solitare.json) |
 | Candy Cubz | 57009 | [57009-candy-cubz.json](./57009-candy-cubz.json) |
@@ -9617,6 +9618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Smith | 233539 | [233539-clock-smith.json](./233539-clock-smith.json) |
 | Clock Ticker | 253989 | [253989-clock-ticker.json](./253989-clock-ticker.json) |
 | Clock Tower | 18718 | [18718-clock-tower.json](./18718-clock-tower.json) |
+| Clock Tower | 19287 | [19287-clock-tower.json](./19287-clock-tower.json) |
 | Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
 | Clock Tower Deluxe | 314695 | [314695-clock-tower-deluxe.json](./314695-clock-tower-deluxe.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
@@ -10545,6 +10547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogmo | 286072 | [286072-cogmo.json](./286072-cogmo.json) |
 | Cogmount | 341638 | [341638-cogmount.json](./341638-cogmount.json) |
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
+| Cognition: An Erica Reed Thriller | 8426 | [8426-cognition-an-erica-reed-thriller.json](./8426-cognition-an-erica-reed-thriller.json) |
 | Cognition: An Erica Reed Thriller - Episode 2: The Wise Monkey | 114985 | [114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json](./114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json) |
 | Cognition: An Erica Reed Thriller - Episode 3: The Oracle | 114986 | [114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json](./114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json) |
 | Cognition: An Erica Reed Thriller - Episode 4: The Cain Killer | 114987 | [114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json](./114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json) |
@@ -11561,6 +11564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
 | Combat Actions: Vietnam | 108328 | [108328-combat-actions-vietnam.json](./108328-combat-actions-vietnam.json) |
+| Combat Arms | 18940 | [18940-combat-arms.json](./18940-combat-arms.json) |
 | Combat Arms: the Classic | 135798 | [135798-combat-arms-the-classic.json](./135798-combat-arms-the-classic.json) |
 | Combat Beans: Total Mayhem | 224670 | [224670-combat-beans-total-mayhem.json](./224670-combat-beans-total-mayhem.json) |
 | Combat Casino | 172012 | [172012-combat-casino.json](./172012-combat-casino.json) |
