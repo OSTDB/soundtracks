@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean World: Eden Crafters Prologue | 405664 | [405664-ocean-world-eden-crafters-prologue.json](./405664-ocean-world-eden-crafters-prologue.json) |
 | Ocean: The Place in Your Heart | 208164 | [208164-ocean-the-place-in-your-heart.json](./208164-ocean-the-place-in-your-heart.json) |
 | Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
+| Ocean's Heart | 142340 | [142340-oceans-heart.json](./142340-oceans-heart.json) |
 | Ocean's Treasures | 111520 | [111520-oceans-treasures.json](./111520-oceans-treasures.json) |
 | Ocean's Venus | 365032 | [365032-oceans-venus.json](./365032-oceans-venus.json) |
 | Oceanarium | 142125 | [142125-oceanarium.json](./142125-oceanarium.json) |
