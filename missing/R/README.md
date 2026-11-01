@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Classics: Drag Race Simulator | 117601 | [117601-racing-classics-drag-race-simulator.json](./117601-racing-classics-drag-race-simulator.json) |
 | Racing Combat | 255040 | [255040-racing-combat.json](./255040-racing-combat.json) |
 | Racing Course | 247067 | [247067-racing-course.json](./247067-racing-course.json) |
+| Racing Damashii | 49067 | [49067-racing-damashii.json](./49067-racing-damashii.json) |
 | Racing Days R | 209742 | [209742-racing-days-r.json](./209742-racing-days-r.json) |
 | Racing Destruction Set | 25892 | [25892-racing-destruction-set.json](./25892-racing-destruction-set.json) |
 | Racing Djani 2 | 156050 | [156050-racing-djani-2.json](./156050-racing-djani-2.json) |
