@@ -4041,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnviroGolf | 126377 | [126377-envirogolf.json](./126377-envirogolf.json) |
 | Environment Protection Ambassador | 385287 | [385287-environment-protection-ambassador.json](./385287-environment-protection-ambassador.json) |
 | Environmental Extremist | 70031 | [70031-environmental-extremist.json](./70031-environmental-extremist.json) |
+| Environmental Station Alpha | 18076 | [18076-environmental-station-alpha.json](./18076-environmental-station-alpha.json) |
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
 | Envoy | 33413 | [33413-envoy.json](./33413-envoy.json) |
 | Envoy 2 | 33367 | [33367-envoy-2.json](./33367-envoy-2.json) |
@@ -7339,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: Rome | 146650 | [146650-expeditions-rome.json](./146650-expeditions-rome.json) |
 | Expeditions: Rome - Death or Glory | 197490 | [197490-expeditions-rome-death-or-glory.json](./197490-expeditions-rome-death-or-glory.json) |
 | Expeditions: Samurai | 404904 | [404904-expeditions-samurai.json](./404904-expeditions-samurai.json) |
+| Expeditions: Viking | 10501 | [10501-expeditions-viking.json](./10501-expeditions-viking.json) |
 | Expel | 156947 | [156947-expel.json](./156947-expel.json) |
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
 | Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
