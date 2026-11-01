@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is God | 305857 | [305857-who-is-god.json](./305857-who-is-god.json) |
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
 | Who is Johnny Sixgun? | 379168 | [379168-who-is-johnny-sixgun.json](./379168-who-is-johnny-sixgun.json) |
+| Who Is Mike | 35077 | [35077-who-is-mike.json](./35077-who-is-mike.json) |
 | Who Is Oscar Lake? | 72622 | [72622-who-is-oscar-lake.json](./72622-who-is-oscar-lake.json) |
 | Who is Paul | 320573 | [320573-who-is-paul.json](./320573-who-is-paul.json) |
 | Who is the Criminal | 315328 | [315328-who-is-the-criminal.json](./315328-who-is-the-criminal.json) |
@@ -5961,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
 | Witches X Warlocks | 142023 | [142023-witches-x-warlocks.json](./142023-witches-x-warlocks.json) |
 | Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
+| Witches, Heroes and Magic | 35015 | [35015-witches-heroes-and-magic.json](./35015-witches-heroes-and-magic.json) |
 | Witches' Hallow | 270549 | [270549-witches-hallow.json](./270549-witches-hallow.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
 | Witches' Legacy: Dark Days to Come | 415975 | [415975-witches-legacy-dark-days-to-come.json](./415975-witches-legacy-dark-days-to-come.json) |
