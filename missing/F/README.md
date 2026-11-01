@@ -5181,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finely Diced | 251981 | [251981-finely-diced.json](./251981-finely-diced.json) |
 | Finesse | 248599 | [248599-finesse.json](./248599-finesse.json) |
 | Finest Hour | 40331 | [40331-finest-hour.json](./40331-finest-hour.json) |
+| Fingeance | 58408 | [58408-fingeance.json](./58408-fingeance.json) |
 | Finger Balance | 175215 | [175215-finger-balance.json](./175215-finger-balance.json) |
 | Finger Ballz | 96584 | [96584-finger-ballz.json](./96584-finger-ballz.json) |
 | Finger Breaker | 169821 | [169821-finger-breaker.json](./169821-finger-breaker.json) |
@@ -5499,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling Z | 67040 | [67040-fire-pro-wrestling-z.json](./67040-fire-pro-wrestling-z.json) |
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire ProWrestling Z | 23718 | [23718-fire-prowrestling-z.json](./23718-fire-prowrestling-z.json) |
+| Fire Quest | 58421 | [58421-fire-quest.json](./58421-fire-quest.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Rescue | 318366 | [318366-fire-rescue.json](./318366-fire-rescue.json) |
 | Fire Rescue | 80850 | [80850-fire-rescue.json](./80850-fire-rescue.json) |
@@ -5548,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebird - Steam version | 95281 | [95281-firebird-steam-version.json](./95281-firebird-steam-version.json) |
 | Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
+| Firebirds | 58422 | [58422-firebirds.json](./58422-firebirds.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
 | FireBlob | 119408 | [119408-fireblob.json](./119408-fireblob.json) |
 | Firebloo Girls | 262559 | [262559-firebloo-girls.json](./262559-firebloo-girls.json) |
@@ -6956,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleafall Champion | 92595 | [92595-fleafall-champion.json](./92595-fleafall-champion.json) |
 | Fleapit | 307781 | [307781-fleapit.json](./307781-fleapit.json) |
 | Fleazer | 84024 | [84024-fleazer.json](./84024-fleazer.json) |
+| Fleck | 58420 | [58420-fleck.json](./58420-fleck.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
 | Fled fierce city | 163775 | [163775-fled-fierce-city.json](./163775-fled-fierce-city.json) |
 | Fledge | 225537 | [225537-fledge.json](./225537-fledge.json) |
@@ -7346,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippy Bottle Extreme! | 98790 | [98790-flippy-bottle-extreme.json](./98790-flippy-bottle-extreme.json) |
 | Flippy Hills | 107666 | [107666-flippy-hills.json](./107666-flippy-hills.json) |
 | Flippy Knife | 91216 | [91216-flippy-knife.json](./91216-flippy-knife.json) |
+| Flippy Uncle | 58436 | [58436-flippy-uncle.json](./58436-flippy-uncle.json) |
 | FlipRide Rush | 409526 | [409526-flipride-rush.json](./409526-flipride-rush.json) |
 | Flips: Artemis Fowl | 66667 | [66667-flips-artemis-fowl.json](./66667-flips-artemis-fowl.json) |
 | Flips: Cathy Cassidy | 66668 | [66668-flips-cathy-cassidy.json](./66668-flips-cathy-cassidy.json) |
@@ -9325,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Isle | 35819 | [35819-forsaken-isle.json](./35819-forsaken-isle.json) |
 | Forsaken Isles: Xenia's Defense | 295836 | [295836-forsaken-isles-xenias-defense.json](./295836-forsaken-isles-xenias-defense.json) |
 | Forsaken Kingdom | 391853 | [391853-forsaken-kingdom.json](./391853-forsaken-kingdom.json) |
+| Forsaken Legends | 58452 | [58452-forsaken-legends.json](./58452-forsaken-legends.json) |
 | Forsaken Ones | 288353 | [288353-forsaken-ones.json](./288353-forsaken-ones.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
