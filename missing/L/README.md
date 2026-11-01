@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Ninjago: Viper Smash | 343132 | [343132-lego-ninjago-viper-smash.json](./343132-lego-ninjago-viper-smash.json) |
 | LEGO Ninjago: Viper Smash ZX | 343133 | [343133-lego-ninjago-viper-smash-zx.json](./343133-lego-ninjago-viper-smash-zx.json) |
 | LEGO Orient Expedition: The Quest for the Golden Dragon | 210319 | [210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json](./210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json) |
+| LEGO Party! | 347661 | [347661-lego-party.json](./347661-lego-party.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 542 | [542-lego-pirates-of-the-caribbean-the-video-game.json](./542-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Racers | 248764 | [248764-lego-racers.json](./248764-lego-racers.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Rock Band | 194934 | [194934-lego-rock-band.json](./194934-lego-rock-band.json) |
 | LEGO Rock Band | 2695 | [2695-lego-rock-band.json](./2695-lego-rock-band.json) |
 | LEGO Soccer Mania | 343452 | [343452-lego-soccer-mania.json](./343452-lego-soccer-mania.json) |
+| LEGO Soccer Mania | 49221 | [49221-lego-soccer-mania.json](./49221-lego-soccer-mania.json) |
 | LEGO Sonic the Hedgehog: Speed Sphere Challenge | 261238 | [261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json](./261238-lego-sonic-the-hedgehog-speed-sphere-challenge.json) |
 | LEGO Speedorz | 203232 | [203232-lego-speedorz.json](./203232-lego-speedorz.json) |
 | LEGO Star Wars | 285677 | [285677-lego-star-wars.json](./285677-lego-star-wars.json) |
@@ -3914,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
 | Lhea & the Word Spirit | 342495 | [342495-lhea-and-the-word-spirit.json](./342495-lhea-and-the-word-spirit.json) |
 | LHM: BB01 - Destiny | 97776 | [97776-lhm-bb01-destiny.json](./97776-lhm-bb01-destiny.json) |
+| LHX: Attack Chopper | 2166 | [2166-lhx-attack-chopper.json](./2166-lhx-attack-chopper.json) |
 | Lǐ Èr Nián Yǒng Chuǎng Héhuān Zōng | 373708 | [373708-li-er-nian-yong-chuang-hehuan-zong.json](./373708-li-er-nian-yong-chuang-hehuan-zong.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
 | Li Shui | 374138 | [374138-li-shui.json](./374138-li-shui.json) |
