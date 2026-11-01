@@ -1735,7 +1735,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laxius Force | 63127 | [63127-laxius-force.json](./63127-laxius-force.json) |
 | Laxius Force II: The Queen of Adretana | 10504 | [10504-laxius-force-ii-the-queen-of-adretana.json](./10504-laxius-force-ii-the-queen-of-adretana.json) |
 | Laxius Force III | 24731 | [24731-laxius-force-iii.json](./24731-laxius-force-iii.json) |
+| Laxius Force III: The Last Stand | 10505 | [10505-laxius-force-iii-the-last-stand.json](./10505-laxius-force-iii-the-last-stand.json) |
+| Laxius Force: Heroes Never Die | 10506 | [10506-laxius-force-heroes-never-die.json](./10506-laxius-force-heroes-never-die.json) |
 | Laxius Party | 256689 | [256689-laxius-party.json](./256689-laxius-party.json) |
+| Laxius Power | 10507 | [10507-laxius-power.json](./10507-laxius-power.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
 | Laxius Power III | 57597 | [57597-laxius-power-iii.json](./57597-laxius-power-iii.json) |
 | Laxius Soul | 287223 | [287223-laxius-soul.json](./287223-laxius-soul.json) |
@@ -2325,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Quest | 109289 | [109289-legacy-quest.json](./109289-legacy-quest.json) |
 | Legacy Quest | 58659 | [58659-legacy-quest.json](./58659-legacy-quest.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
+| Legacy Tales: Mercy of the Gallows | 10508 | [10508-legacy-tales-mercy-of-the-gallows.json](./10508-legacy-tales-mercy-of-the-gallows.json) |
 | Legacy: Reawakening | 343222 | [343222-legacy-reawakening.json](./343222-legacy-reawakening.json) |
 | Legacy: The Last Pure Heart | 191045 | [191045-legacy-the-last-pure-heart.json](./191045-legacy-the-last-pure-heart.json) |
 | Legacy: The Lost Pyramid | 294545 | [294545-legacy-the-lost-pyramid.json](./294545-legacy-the-lost-pyramid.json) |
@@ -5311,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lithium: Inmate 39 - Relapsed Edition | 123846 | [123846-lithium-inmate-39-relapsed-edition.json](./123846-lithium-inmate-39-relapsed-edition.json) |
 | LithoBreak | 143263 | [143263-lithobreak.json](./143263-lithobreak.json) |
 | Lithoi: Trials of Memory | 172002 | [172002-lithoi-trials-of-memory.json](./172002-lithoi-trials-of-memory.json) |
+| Litil Divil | 10516 | [10516-litil-divil.json](./10516-litil-divil.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
 | Little | 191414 | [191414-little.json](./191414-little.json) |
@@ -5515,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Keepers | 256418 | [256418-little-keepers.json](./256418-little-keepers.json) |
 | Little Kids Dentist | 89165 | [89165-little-kids-dentist.json](./89165-little-kids-dentist.json) |
 | Little King's Story | 4974 | [4974-little-kings-story.json](./4974-little-kings-story.json) |
+| Little Kingdom | 10517 | [10517-little-kingdom.json](./10517-little-kingdom.json) |
 | Little Kingdom 2 | 30569 | [30569-little-kingdom-2.json](./30569-little-kingdom-2.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
@@ -7136,6 +7142,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
 | Lords of Exile | 133970 | [133970-lords-of-exile.json](./133970-lords-of-exile.json) |
 | Lords of Football | 10519 | [10519-lords-of-football.json](./10519-lords-of-football.json) |
+| Lords of Football: Eastern Europe | 10520 | [10520-lords-of-football-eastern-europe.json](./10520-lords-of-football-eastern-europe.json) |
+| Lords of Football: Super Training | 10521 | [10521-lords-of-football-super-training.json](./10521-lords-of-football-super-training.json) |
 | Lords of Football: United States | 172347 | [172347-lords-of-football-united-states.json](./172347-lords-of-football-united-states.json) |
 | Lords of Kingdoms | 96662 | [96662-lords-of-kingdoms.json](./96662-lords-of-kingdoms.json) |
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
@@ -7336,6 +7344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
 | Lost City of Bardo | 341179 | [341179-lost-city-of-bardo.json](./341179-lost-city-of-bardo.json) |
 | Lost City of Vampires | 113169 | [113169-lost-city-of-vampires.json](./113169-lost-city-of-vampires.json) |
+| Lost City of Z | 10523 | [10523-lost-city-of-z.json](./10523-lost-city-of-z.json) |
 | Lost Civilization | 144677 | [144677-lost-civilization.json](./144677-lost-civilization.json) |
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
 | Lost Coffee | 23950 | [23950-lost-coffee.json](./23950-lost-coffee.json) |
