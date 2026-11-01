@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-01T03:33:37.930Z",
-  "total_missing": 291607,
+  "generated_at": "2026-11-01T03:50:06.789Z",
+  "total_missing": 291657,
   "games": [
     {
       "igdb_id": 191680,
@@ -1017212,6 +1017212,11 @@
       "file": "missing/R/225654-rojiura-satsuki-chapter-heroine-sanctuary.json"
     },
     {
+      "igdb_id": 53522,
+      "game_name": "Rojo Ninja",
+      "file": "missing/R/53522-rojo-ninja.json"
+    },
+    {
       "igdb_id": 57690,
       "game_name": "Roka Blocks Game - Fun & Hexagon Puzzle",
       "file": "missing/R/57690-roka-blocks-game-fun-and-hexagon-puzzle.json"
@@ -1018035,6 +1018040,11 @@
       "igdb_id": 25053,
       "game_name": "RollerCoaster Tycoon World Deluxe",
       "file": "missing/R/25053-rollercoaster-tycoon-world-deluxe.json"
+    },
+    {
+      "igdb_id": 53524,
+      "game_name": "RollerCoaster Tycoon World: Deluxe Edition",
+      "file": "missing/R/53524-rollercoaster-tycoon-world-deluxe-edition.json"
     },
     {
       "igdb_id": 19528,
@@ -1019785,6 +1019795,11 @@
       "igdb_id": 64669,
       "game_name": "Ronnie O'Sullivan's Snooker",
       "file": "missing/R/64669-ronnie-osullivans-snooker.json"
+    },
+    {
+      "igdb_id": 53526,
+      "game_name": "Ronny Runs Around Robots",
+      "file": "missing/R/53526-ronny-runs-around-robots.json"
     },
     {
       "igdb_id": 291079,
@@ -1023077,6 +1023092,11 @@
       "file": "missing/R/337586-royal-defense-ancient-menace.json"
     },
     {
+      "igdb_id": 53527,
+      "game_name": "Royal Defense: Complete Edition",
+      "file": "missing/R/53527-royal-defense-complete-edition.json"
+    },
+    {
       "igdb_id": 25510,
       "game_name": "Royal Defense: Invisible Threat",
       "file": "missing/R/25510-royal-defense-invisible-threat.json"
@@ -1023662,9 +1023682,64 @@
       "file": "missing/R/43556-rpg-maker-ii.json"
     },
     {
+      "igdb_id": 53530,
+      "game_name": "RPG Maker Millennium Collection",
+      "file": "missing/R/53530-rpg-maker-millennium-collection.json"
+    },
+    {
       "igdb_id": 136722,
       "game_name": "RPG Maker MV Trinity",
       "file": "missing/R/136722-rpg-maker-mv-trinity.json"
+    },
+    {
+      "igdb_id": 53535,
+      "game_name": "RPG Maker MV: Adventurer's Journey",
+      "file": "missing/R/53535-rpg-maker-mv-adventurers-journey.json"
+    },
+    {
+      "igdb_id": 53531,
+      "game_name": "RPG Maker MV: Essentials Set",
+      "file": "missing/R/53531-rpg-maker-mv-essentials-set.json"
+    },
+    {
+      "igdb_id": 53541,
+      "game_name": "RPG Maker MV: Frontier Works Futuristic Heroes and BGM",
+      "file": "missing/R/53541-rpg-maker-mv-frontier-works-futuristic-heroes-and-bgm.json"
+    },
+    {
+      "igdb_id": 53542,
+      "game_name": "RPG Maker MV: Futuristic Atmospheres",
+      "file": "missing/R/53542-rpg-maker-mv-futuristic-atmospheres.json"
+    },
+    {
+      "igdb_id": 53544,
+      "game_name": "RPG Maker MV: JSM Party Themes",
+      "file": "missing/R/53544-rpg-maker-mv-jsm-party-themes.json"
+    },
+    {
+      "igdb_id": 53549,
+      "game_name": "RPG Maker MV: Sci Fi Battlebacks",
+      "file": "missing/R/53549-rpg-maker-mv-sci-fi-battlebacks.json"
+    },
+    {
+      "igdb_id": 53553,
+      "game_name": "RPG Maker MV: The Adventurer's Journey II",
+      "file": "missing/R/53553-rpg-maker-mv-the-adventurers-journey-ii.json"
+    },
+    {
+      "igdb_id": 53554,
+      "game_name": "RPG Maker MV: Time Fantasy",
+      "file": "missing/R/53554-rpg-maker-mv-time-fantasy.json"
+    },
+    {
+      "igdb_id": 53556,
+      "game_name": "RPG Maker MV: Zonderland",
+      "file": "missing/R/53556-rpg-maker-mv-zonderland.json"
+    },
+    {
+      "igdb_id": 53551,
+      "game_name": "RPG Maker MZ: Sinister Hollows",
+      "file": "missing/R/53551-rpg-maker-mz-sinister-hollows.json"
     },
     {
       "igdb_id": 402546,
@@ -1023680,6 +1023755,61 @@
       "igdb_id": 30151,
       "game_name": "RPG Maker VX Ace",
       "file": "missing/R/30151-rpg-maker-vx-ace.json"
+    },
+    {
+      "igdb_id": 53534,
+      "game_name": "RPG Maker VX Ace: Adventurer's Final Journey",
+      "file": "missing/R/53534-rpg-maker-vx-ace-adventurers-final-journey.json"
+    },
+    {
+      "igdb_id": 53536,
+      "game_name": "RPG Maker VX Ace: Arabian Nights",
+      "file": "missing/R/53536-rpg-maker-vx-ace-arabian-nights.json"
+    },
+    {
+      "igdb_id": 53537,
+      "game_name": "RPG Maker VX Ace: Dead or Alive",
+      "file": "missing/R/53537-rpg-maker-vx-ace-dead-or-alive.json"
+    },
+    {
+      "igdb_id": 53539,
+      "game_name": "RPG Maker VX Ace: Egyptian Myth Battlers",
+      "file": "missing/R/53539-rpg-maker-vx-ace-egyptian-myth-battlers.json"
+    },
+    {
+      "igdb_id": 53540,
+      "game_name": "RPG Maker VX Ace: Forest of the Necromancer Soundscapes",
+      "file": "missing/R/53540-rpg-maker-vx-ace-forest-of-the-necromancer-soundscapes.json"
+    },
+    {
+      "igdb_id": 53532,
+      "game_name": "RPG Maker VX Ace: Frontier Works - Horror Interior Tiles",
+      "file": "missing/R/53532-rpg-maker-vx-ace-frontier-works-horror-interior-tiles.json"
+    },
+    {
+      "igdb_id": 53543,
+      "game_name": "RPG Maker VX Ace: High Fantasy: The Deep",
+      "file": "missing/R/53543-rpg-maker-vx-ace-high-fantasy-the-deep.json"
+    },
+    {
+      "igdb_id": 53545,
+      "game_name": "RPG Maker VX Ace: Luna Engine",
+      "file": "missing/R/53545-rpg-maker-vx-ace-luna-engine.json"
+    },
+    {
+      "igdb_id": 53546,
+      "game_name": "RPG Maker VX Ace: Monster Legacy 1",
+      "file": "missing/R/53546-rpg-maker-vx-ace-monster-legacy-1.json"
+    },
+    {
+      "igdb_id": 53552,
+      "game_name": "RPG Maker VX Ace: Tarot Battlers",
+      "file": "missing/R/53552-rpg-maker-vx-ace-tarot-battlers.json"
+    },
+    {
+      "igdb_id": 53555,
+      "game_name": "RPG Maker VX Ace: Winter Wonderland Tiles",
+      "file": "missing/R/53555-rpg-maker-vx-ace-winter-wonderland-tiles.json"
     },
     {
       "igdb_id": 291538,
@@ -1023807,6 +1023937,11 @@
       "file": "missing/R/49795-rpg-tsukuuru-advance.json"
     },
     {
+      "igdb_id": 53538,
+      "game_name": "RPG Tsukuuru DS+ Expansion - Retro SciFi",
+      "file": "missing/R/53538-rpg-tsukuuru-ds-expansion-retro-scifi.json"
+    },
+    {
       "igdb_id": 63508,
       "game_name": "RPG Tsukuuru DS+: Create the New World",
       "file": "missing/R/63508-rpg-tsukuuru-ds-create-the-new-world.json"
@@ -1023820,6 +1023955,16 @@
       "igdb_id": 17654,
       "game_name": "RPG Tycoon",
       "file": "missing/R/17654-rpg-tycoon.json"
+    },
+    {
+      "igdb_id": 53557,
+      "game_name": "RPG Tycoon: Deluxe Edition",
+      "file": "missing/R/53557-rpg-tycoon-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 53558,
+      "game_name": "RPG Tycoon: Gold Edition",
+      "file": "missing/R/53558-rpg-tycoon-gold-edition.json"
     },
     {
       "igdb_id": 164507,
@@ -1025612,6 +1025757,11 @@
       "file": "missing/R/147020-rule-the-waves-ii.json"
     },
     {
+      "igdb_id": 53559,
+      "game_name": "Rule the World in Peace",
+      "file": "missing/R/53559-rule-the-world-in-peace.json"
+    },
+    {
       "igdb_id": 55122,
       "game_name": "Rule with an Iron Fish",
       "file": "missing/R/55122-rule-with-an-iron-fish.json"
@@ -1027137,6 +1027287,11 @@
       "file": "missing/R/400815-runback.json"
     },
     {
+      "igdb_id": 53561,
+      "game_name": "Runbow: Complete Collection",
+      "file": "missing/R/53561-runbow-complete-collection.json"
+    },
+    {
       "igdb_id": 51142,
       "game_name": "Runbow: Deluxe Edition",
       "file": "missing/R/51142-runbow-deluxe-edition.json"
@@ -1027990,6 +1028145,11 @@
       "igdb_id": 250396,
       "game_name": "Runner Roy",
       "file": "missing/R/250396-runner-roy.json"
+    },
+    {
+      "igdb_id": 53562,
+      "game_name": "Runner: Dark Pulse",
+      "file": "missing/R/53562-runner-dark-pulse.json"
     },
     {
       "igdb_id": 219907,
@@ -1030272,6 +1030432,11 @@
       "file": "missing/R/74812-rytmik-ultimate.json"
     },
     {
+      "igdb_id": 53563,
+      "game_name": "Rytmik Ultimate Complete",
+      "file": "missing/R/53563-rytmik-ultimate-complete.json"
+    },
+    {
       "igdb_id": 84906,
       "game_name": "Rytmik World Music",
       "file": "missing/R/84906-rytmik-world-music.json"
@@ -1031662,6 +1031827,11 @@
       "file": "missing/S/82125-sackman-se-x.json"
     },
     {
+      "igdb_id": 53564,
+      "game_name": "Sacra Terra: Angelic Night",
+      "file": "missing/S/53564-sacra-terra-angelic-night.json"
+    },
+    {
       "igdb_id": 25475,
       "game_name": "Sacra Terra: Angelic Night - Collector's Edition",
       "file": "missing/S/25475-sacra-terra-angelic-night-collectors-edition.json"
@@ -1031762,9 +1031932,24 @@
       "file": "missing/S/5615-sacred-3.json"
     },
     {
+      "igdb_id": 53566,
+      "game_name": "Sacred 3 - Orcland Story",
+      "file": "missing/S/53566-sacred-3-orcland-story.json"
+    },
+    {
       "igdb_id": 51287,
       "game_name": "Sacred 3: First Edition",
       "file": "missing/S/51287-sacred-3-first-edition.json"
+    },
+    {
+      "igdb_id": 53567,
+      "game_name": "Sacred 3: Gold Edition",
+      "file": "missing/S/53567-sacred-3-gold-edition.json"
+    },
+    {
+      "igdb_id": 53568,
+      "game_name": "Sacred Blade",
+      "file": "missing/S/53568-sacred-blade.json"
     },
     {
       "igdb_id": 297814,
@@ -1031775,6 +1031960,11 @@
       "igdb_id": 15290,
       "game_name": "Sacred Citadel",
       "file": "missing/S/15290-sacred-citadel.json"
+    },
+    {
+      "igdb_id": 53569,
+      "game_name": "Sacred Citadel: Jungle Hunt",
+      "file": "missing/S/53569-sacred-citadel-jungle-hunt.json"
     },
     {
       "igdb_id": 156833,
@@ -1033177,6 +1033367,11 @@
       "file": "missing/S/102365-sail-ships.json"
     },
     {
+      "igdb_id": 53571,
+      "game_name": "Sail Simulator 2010",
+      "file": "missing/S/53571-sail-simulator-2010.json"
+    },
+    {
       "igdb_id": 143740,
       "game_name": "Sail Simulator 4",
       "file": "missing/S/143740-sail-simulator-4.json"
@@ -1033717,6 +1033912,11 @@
       "file": "missing/S/344978-saints-row-boss-factory.json"
     },
     {
+      "igdb_id": 53572,
+      "game_name": "Saints Row IV: 100% Uncut",
+      "file": "missing/S/53572-saints-row-iv-100-uncut.json"
+    },
+    {
       "igdb_id": 26198,
       "game_name": "Saints Row IV: Commander In Chief Edition",
       "file": "missing/S/26198-saints-row-iv-commander-in-chief-edition.json"
@@ -1033730,6 +1033930,11 @@
       "igdb_id": 51869,
       "game_name": "Saints Row IV: Game of the Century Edition",
       "file": "missing/S/51869-saints-row-iv-game-of-the-century-edition.json"
+    },
+    {
+      "igdb_id": 53573,
+      "game_name": "Saints Row IV: National Treasure Edition",
+      "file": "missing/S/53573-saints-row-iv-national-treasure-edition.json"
     },
     {
       "igdb_id": 7707,
@@ -1035047,6 +1035252,11 @@
       "file": "missing/S/360031-sally-exe-the-whisper-of-soul.json"
     },
     {
+      "igdb_id": 53574,
+      "game_name": "Sally's Quick Clips",
+      "file": "missing/S/53574-sallys-quick-clips.json"
+    },
+    {
       "igdb_id": 24328,
       "game_name": "Sally's Salon",
       "file": "missing/S/24328-sallys-salon.json"
@@ -1035967,6 +1036177,11 @@
       "file": "missing/S/33317-samoliotik.json"
     },
     {
+      "igdb_id": 53575,
+      "game_name": "Samoliotik: Deluxe Edition",
+      "file": "missing/S/53575-samoliotik-deluxe-edition.json"
+    },
+    {
       "igdb_id": 98063,
       "game_name": "SamoQ - Quiz Hyoryu Kyoushitsu",
       "file": "missing/S/98063-samoq-quiz-hyoryu-kyoushitsu.json"
@@ -1035980,6 +1036195,11 @@
       "igdb_id": 148352,
       "game_name": "Samorost 1",
       "file": "missing/S/148352-samorost-1.json"
+    },
+    {
+      "igdb_id": 53576,
+      "game_name": "Samorost 3: Cosmic Edition",
+      "file": "missing/S/53576-samorost-3-cosmic-edition.json"
     },
     {
       "igdb_id": 254319,
@@ -1041167,6 +1041387,11 @@
       "file": "missing/S/33885-save-the-dodos.json"
     },
     {
+      "igdb_id": 53577,
+      "game_name": "Save the Dodos: Special Edition",
+      "file": "missing/S/53577-save-the-dodos-special-edition.json"
+    },
+    {
       "igdb_id": 212441,
       "game_name": "Save the Doge",
       "file": "missing/S/212441-save-the-doge.json"
@@ -1041245,6 +1041470,11 @@
       "igdb_id": 63121,
       "game_name": "Save the Hamsters",
       "file": "missing/S/63121-save-the-hamsters.json"
+    },
+    {
+      "igdb_id": 53578,
+      "game_name": "Save the Humans",
+      "file": "missing/S/53578-save-the-humans.json"
     },
     {
       "igdb_id": 308882,
@@ -1042320,6 +1042550,11 @@
       "igdb_id": 360000,
       "game_name": "Scandinavian Cottage Survival Simulator",
       "file": "missing/S/360000-scandinavian-cottage-survival-simulator.json"
+    },
+    {
+      "igdb_id": 53580,
+      "game_name": "Scania Truck Driving Simulator: The Game",
+      "file": "missing/S/53580-scania-truck-driving-simulator-the-game.json"
     },
     {
       "igdb_id": 180810,
@@ -1047022,6 +1047257,11 @@
       "file": "missing/S/54511-screaming-eagles.json"
     },
     {
+      "igdb_id": 53583,
+      "game_name": "Screaming Eagles Collection",
+      "file": "missing/S/53583-screaming-eagles-collection.json"
+    },
+    {
       "igdb_id": 332464,
       "game_name": "Screaming Head",
       "file": "missing/S/332464-screaming-head.json"
@@ -1051655,6 +1051895,11 @@
       "igdb_id": 188300,
       "game_name": "Secrets of the Dragon Cafe",
       "file": "missing/S/188300-secrets-of-the-dragon-cafe.json"
+    },
+    {
+      "igdb_id": 53584,
+      "game_name": "Secrets of the Guild",
+      "file": "missing/S/53584-secrets-of-the-guild.json"
     },
     {
       "igdb_id": 265300,
@@ -1237290,6 +1237535,11 @@
       "igdb_id": 405133,
       "game_name": "The Endless Night",
       "file": "missing/T/405133-the-endless-night.json"
+    },
+    {
+      "igdb_id": 53582,
+      "game_name": "The Endless Stairwell",
+      "file": "missing/T/53582-the-endless-stairwell.json"
     },
     {
       "igdb_id": 197056,
