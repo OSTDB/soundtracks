@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Off-Road Simulator 2019: Alaska | 113407 | [113407-ultra-off-road-simulator-2019-alaska.json](./113407-ultra-off-road-simulator-2019-alaska.json) |
 | Ultra Pig | 112614 | [112614-ultra-pig.json](./112614-ultra-pig.json) |
 | Ultra Pixel Survive | 243763 | [243763-ultra-pixel-survive.json](./243763-ultra-pixel-survive.json) |
+| Ultra Rainbow Bake Sale | 57969 | [57969-ultra-rainbow-bake-sale.json](./57969-ultra-rainbow-bake-sale.json) |
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra Savage | 117376 | [117376-ultra-savage.json](./117376-ultra-savage.json) |
@@ -2920,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
 | Upirja | 202499 | [202499-upirja.json](./202499-upirja.json) |
+| UPIXO In Action: Mission in Snowdriftland | 57957 | [57957-upixo-in-action-mission-in-snowdriftland.json](./57957-upixo-in-action-mission-in-snowdriftland.json) |
 | Uplands Motel | 55750 | [55750-uplands-motel.json](./55750-uplands-motel.json) |
 | Uplife | 236775 | [236775-uplife.json](./236775-uplife.json) |
 | Uplifting | 159549 | [159549-uplifting.json](./159549-uplifting.json) |
@@ -3086,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Justice | 113525 | [113525-urban-justice.json](./113525-urban-justice.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
 | Urban Legend Hunters: Ghosts in the Circuit | 369921 | [369921-urban-legend-hunters-ghosts-in-the-circuit.json](./369921-urban-legend-hunters-ghosts-in-the-circuit.json) |
+| Urban Legends: The Maze | 57964 | [57964-urban-legends-the-maze.json](./57964-urban-legends-the-maze.json) |
 | Urban Mage | 160034 | [160034-urban-mage.json](./160034-urban-mage.json) |
 | Urban Massacre | 278500 | [278500-urban-massacre.json](./278500-urban-massacre.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
