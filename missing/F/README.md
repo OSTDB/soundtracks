@@ -3065,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fated Mate | 381974 | [381974-fated-mate.json](./381974-fated-mate.json) |
 | Fated Souls | 35250 | [35250-fated-souls.json](./35250-fated-souls.json) |
+| Fated Souls 2 | 31407 | [31407-fated-souls-2.json](./31407-fated-souls-2.json) |
 | Fated: The Silent Oath | 19013 | [19013-fated-the-silent-oath.json](./19013-fated-the-silent-oath.json) |
 | Fateel | 226504 | [226504-fateel.json](./226504-fateel.json) |
 | Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
