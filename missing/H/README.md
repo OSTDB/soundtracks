@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare In The Hat: The Abyss | 160283 | [160283-hare-in-the-hat-the-abyss.json](./160283-hare-in-the-hat-the-abyss.json) |
 | Hare Nochi Munasawagi | 335827 | [335827-hare-nochi-munasawagi.json](./335827-hare-nochi-munasawagi.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
+| Hare Raising Havoc | 50266 | [50266-hare-raising-havoc.json](./50266-hare-raising-havoc.json) |
 | Hare Trigger | 302444 | [302444-hare-trigger.json](./302444-hare-trigger.json) |
 | Hare Uso: Original Harem Story | 379638 | [379638-hare-uso-original-harem-story.json](./379638-hare-uso-original-harem-story.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
@@ -10412,6 +10413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Majestic Chess | 23749 | [23749-hoyle-majestic-chess.json](./23749-hoyle-majestic-chess.json) |
 | Hoyle Official Book of Games: Volume 1 | 57604 | [57604-hoyle-official-book-of-games-volume-1.json](./57604-hoyle-official-book-of-games-volume-1.json) |
 | Hoyle Official Book of Games: Volume 2 | 73331 | [73331-hoyle-official-book-of-games-volume-2.json](./73331-hoyle-official-book-of-games-volume-2.json) |
+| Hoyle Official Book of Games: Volume 3 | 50273 | [50273-hoyle-official-book-of-games-volume-3.json](./50273-hoyle-official-book-of-games-volume-3.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
@@ -10434,6 +10436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Texas Hold 'em | 79637 | [79637-hoyle-texas-hold-em.json](./79637-hoyle-texas-hold-em.json) |
 | Hoyle Word Games | 98884 | [98884-hoyle-word-games.json](./98884-hoyle-word-games.json) |
 | Hoyle's Backgammon & Cribbage | 77795 | [77795-hoyles-backgammon-and-cribbage.json](./77795-hoyles-backgammon-and-cribbage.json) |
+| Hoyle's Classic Card Games | 50274 | [50274-hoyles-classic-card-games.json](./50274-hoyles-classic-card-games.json) |
 | Hoyo | 301074 | [301074-hoyo.json](./301074-hoyo.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HPRZ: The Syndrome | 149551 | [149551-hprz-the-syndrome.json](./149551-hprz-the-syndrome.json) |
