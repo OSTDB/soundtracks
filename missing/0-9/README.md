@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 out of 10: EP 3 - "Pivot Like A Champion" | 138118 | [138118-3-out-of-10-ep-3-pivot-like-a-champion.json](./138118-3-out-of-10-ep-3-pivot-like-a-champion.json) |
 | 3 out of 10: EP 4 - "Thank You For Being An Asset" | 137287 | [137287-3-out-of-10-ep-4-thank-you-for-being-an-asset.json](./137287-3-out-of-10-ep-4-thank-you-for-being-an-asset.json) |
 | 3 out of 10: EP 5 - "The Rig Is Up!" | 138228 | [138228-3-out-of-10-ep-5-the-rig-is-up.json](./138228-3-out-of-10-ep-5-the-rig-is-up.json) |
+| 3 out of 10: Season One | 138707 | [138707-3-out-of-10-season-one.json](./138707-3-out-of-10-season-one.json) |
 | 3 out of 10: Season Two | 145349 | [145349-3-out-of-10-season-two.json](./145349-3-out-of-10-season-two.json) |
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
 | 3 Pandas In Fantasy | 381988 | [381988-3-pandas-in-fantasy.json](./381988-3-pandas-in-fantasy.json) |
