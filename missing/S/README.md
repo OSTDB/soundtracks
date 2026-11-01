@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samantha Swift and the Fountains of Fate | 95915 | [95915-samantha-swift-and-the-fountains-of-fate.json](./95915-samantha-swift-and-the-fountains-of-fate.json) |
 | Samantha Swift and the Fountains of Fate: Collector's Edition | 100026 | [100026-samantha-swift-and-the-fountains-of-fate-collectors-edition.json](./100026-samantha-swift-and-the-fountains-of-fate-collectors-edition.json) |
 | Samantha Swift and the Golden Touch | 10570 | [10570-samantha-swift-and-the-golden-touch.json](./10570-samantha-swift-and-the-golden-touch.json) |
+| Samantha Swift and the Hidden Roses of Athena | 10569 | [10569-samantha-swift-and-the-hidden-roses-of-athena.json](./10569-samantha-swift-and-the-hidden-roses-of-athena.json) |
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
@@ -14008,6 +14009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Winter Weapons Skin Pack | 307281 | [307281-sniper-elite-5-winter-weapons-skin-pack.json](./307281-sniper-elite-5-winter-weapons-skin-pack.json) |
 | Sniper Elite III | 8366 | [8366-sniper-elite-iii.json](./8366-sniper-elite-iii.json) |
 | Sniper Elite III: Collector's Edition | 136295 | [136295-sniper-elite-iii-collectors-edition.json](./136295-sniper-elite-iii-collectors-edition.json) |
+| Sniper Elite III: Save Churchill Part 1 - In Shadows | 10346 | [10346-sniper-elite-iii-save-churchill-part-1-in-shadows.json](./10346-sniper-elite-iii-save-churchill-part-1-in-shadows.json) |
 | Sniper Elite III: Save Churchill Part 2 - Belly of the Beast | 10874 | [10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json](./10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json) |
 | Sniper Elite III: Save Churchill Part 3 - Confrontation | 10875 | [10875-sniper-elite-iii-save-churchill-part-3-confrontation.json](./10875-sniper-elite-iii-save-churchill-part-3-confrontation.json) |
 | Sniper Elite III: Target Hitler - Hunt the Grey Wolf | 10876 | [10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json](./10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json) |
@@ -18106,7 +18108,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
