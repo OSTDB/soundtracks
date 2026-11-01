@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited Cruise 2 - Awakening of a Hero | 21117 | [21117-one-piece-unlimited-cruise-2-awakening-of-a-hero.json](./21117-one-piece-unlimited-cruise-2-awakening-of-a-hero.json) |
 | One Piece: Unlimited Cruise SP | 22875 | [22875-one-piece-unlimited-cruise-sp.json](./22875-one-piece-unlimited-cruise-sp.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
+| One Piece: Unlimited World RED | 6860 | [6860-one-piece-unlimited-world-red.json](./6860-one-piece-unlimited-world-red.json) |
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
 | One Piece: Unlimited World Red - Straw Hat Edition | 83793 | [83793-one-piece-unlimited-world-red-straw-hat-edition.json](./83793-one-piece-unlimited-world-red-straw-hat-edition.json) |
 | One Piece: World Seeker | 76742 | [76742-one-piece-world-seeker.json](./76742-one-piece-world-seeker.json) |
