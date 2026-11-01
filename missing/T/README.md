@@ -3169,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134080 | [134080-teenage-mutant-ninja-turtles-tournament-fighters.json](./134080-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 354768 | [354768-teenage-mutant-ninja-turtles-tournament-fighters.json](./354768-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 48274 | [48274-teenage-mutant-ninja-turtles-tournament-fighters.json](./48274-teenage-mutant-ninja-turtles-tournament-fighters.json) |
+| Teenage Mutant Ninja Turtles: Training Lair | 61291 | [61291-teenage-mutant-ninja-turtles-training-lair.json](./61291-teenage-mutant-ninja-turtles-training-lair.json) |
 | Teenage Mutant Ninja Turtles: Turtle Power! | 278438 | [278438-teenage-mutant-ninja-turtles-turtle-power.json](./278438-teenage-mutant-ninja-turtles-turtle-power.json) |
 | Teenage Mutant Ninja Turtles: Turtles in Time | 205211 | [205211-teenage-mutant-ninja-turtles-turtles-in-time.json](./205211-teenage-mutant-ninja-turtles-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
@@ -8176,6 +8177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enemy Below | 151010 | [151010-the-enemy-below.json](./151010-the-enemy-below.json) |
 | The Enemy Weapons Are Better | 247369 | [247369-the-enemy-weapons-are-better.json](./247369-the-enemy-weapons-are-better.json) |
 | The Enemy Within | 406038 | [406038-the-enemy-within.json](./406038-the-enemy-within.json) |
+| The Energem Enigma | 61292 | [61292-the-energem-enigma.json](./61292-the-energem-enigma.json) |
 | The Energy Warrior | 274907 | [274907-the-energy-warrior.json](./274907-the-energy-warrior.json) |
 | The Enforcer | 154344 | [154344-the-enforcer.json](./154344-the-enforcer.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
