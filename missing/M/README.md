@@ -8813,6 +8813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
 | Metajo: Furitsu Metatopology Daigaku Fuzoku Joshi Koukou SP | 146656 | [146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json](./146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
+| Metal & Lace: The Battle of the Robo Babes | 50271 | [50271-metal-and-lace-the-battle-of-the-robo-babes.json](./50271-metal-and-lace-the-battle-of-the-robo-babes.json) |
 | Metal Angel | 37633 | [37633-metal-angel.json](./37633-metal-angel.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Angel II | 37632 | [37632-metal-angel-ii.json](./37632-metal-angel-ii.json) |
@@ -18062,6 +18063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
 | Mutant Alley: Do the Dinosaur | 157065 | [157065-mutant-alley-do-the-dinosaur.json](./157065-mutant-alley-do-the-dinosaur.json) |
 | Mutant Boxing League | 276335 | [276335-mutant-boxing-league.json](./276335-mutant-boxing-league.json) |
+| Mutant Colossus from Outer Space | 50216 | [50216-mutant-colossus-from-outer-space.json](./50216-mutant-colossus-from-outer-space.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant DNA | 341689 | [341689-mutant-dna.json](./341689-mutant-dna.json) |
 | Mutant Express | 264485 | [264485-mutant-express.json](./264485-mutant-express.json) |
@@ -19816,6 +19818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Huntsville | 5509 | [5509-mystery-case-files-huntsville.json](./5509-mystery-case-files-huntsville.json) |
 | Mystery Case Files: Incident at Pendle Tower | 187973 | [187973-mystery-case-files-incident-at-pendle-tower.json](./187973-mystery-case-files-incident-at-pendle-tower.json) |
 | Mystery Case Files: Incident at Pendle Tower - Collector's Edition | 193105 | [193105-mystery-case-files-incident-at-pendle-tower-collectors-edition.json](./193105-mystery-case-files-incident-at-pendle-tower-collectors-edition.json) |
+| Mystery Case Files: Key to Ravenhearst | 50238 | [50238-mystery-case-files-key-to-ravenhearst.json](./50238-mystery-case-files-key-to-ravenhearst.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: MillionHeir | 20276 | [20276-mystery-case-files-millionheir.json](./20276-mystery-case-files-millionheir.json) |
