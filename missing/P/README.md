@@ -3427,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaked Climbing | 360550 | [360550-peaked-climbing.json](./360550-peaked-climbing.json) |
 | Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
 | Peaks of Yore: The Great Alps | 321208 | [321208-peaks-of-yore-the-great-alps.json](./321208-peaks-of-yore-the-great-alps.json) |
+| peakvox Escape Virus HD | 31406 | [31406-peakvox-escape-virus-hd.json](./31406-peakvox-escape-virus-hd.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peaky Blinders: The King's Ransom | 211902 | [211902-peaky-blinders-the-kings-ransom.json](./211902-peaky-blinders-the-kings-ransom.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
@@ -7218,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitched Battle | 149785 | [149785-pitched-battle.json](./149785-pitched-battle.json) |
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
 | Pitcher's Duel | 44304 | [44304-pitchers-duel.json](./44304-pitchers-duel.json) |
+| Pitchfork | 31365 | [31365-pitchfork.json](./31365-pitchfork.json) |
 | Pitchfork | 364456 | [364456-pitchfork.json](./364456-pitchfork.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
 | Pitchfork Kingdom | 201581 | [201581-pitchfork-kingdom.json](./201581-pitchfork-kingdom.json) |
@@ -8553,6 +8555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Sea | 306189 | [306189-planet-sea.json](./306189-planet-sea.json) |
 | Planet Sheen: Been There, Sheen That! | 334937 | [334937-planet-sheen-been-there-sheen-that.json](./334937-planet-sheen-been-there-sheen-that.json) |
 | Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
+| Planet Smasher | 31434 | [31434-planet-smasher.json](./31434-planet-smasher.json) |
 | Planet Smashers | 12336 | [12336-planet-smashers.json](./12336-planet-smashers.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
 | Planet Soccer 2018 | 233187 | [233187-planet-soccer-2018.json](./233187-planet-soccer-2018.json) |
@@ -14335,6 +14338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prohibition 1930 | 53480 | [53480-prohibition-1930.json](./53480-prohibition-1930.json) |
 | Prohibition Island | 401904 | [401904-prohibition-island.json](./401904-prohibition-island.json) |
 | Project '88 | 54281 | [54281-project-88.json](./54281-project-88.json) |
+| Project "Fire" | 31370 | [31370-project-fire.json](./31370-project-fire.json) |
 | Project 117 | 420551 | [420551-project-117.json](./420551-project-117.json) |
 | Project 13 | 281467 | [281467-project-13.json](./281467-project-13.json) |
 | Project 13: Nightwatch | 295338 | [295338-project-13-nightwatch.json](./295338-project-13-nightwatch.json) |
