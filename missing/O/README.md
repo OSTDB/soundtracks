@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octonauts and the Whale Shark | 227525 | [227525-octonauts-and-the-whale-shark.json](./227525-octonauts-and-the-whale-shark.json) |
 | Octonauts Deep Sea Adventure | 387408 | [387408-octonauts-deep-sea-adventure.json](./387408-octonauts-deep-sea-adventure.json) |
 | Octopath Traveler + Octopath Traveler II Bundle | 304800 | [304800-octopath-traveler-octopath-traveler-ii-bundle.json](./304800-octopath-traveler-octopath-traveler-ii-bundle.json) |
+| Octopath Traveler 0 | 358535 | [358535-octopath-traveler-0.json](./358535-octopath-traveler-0.json) |
 | Octopath Traveler 0: Digital Deluxe Edition | 366786 | [366786-octopath-traveler-0-digital-deluxe-edition.json](./366786-octopath-traveler-0-digital-deluxe-edition.json) |
 | Octopath Traveler II | 217554 | [217554-octopath-traveler-ii.json](./217554-octopath-traveler-ii.json) |
 | Octopath Traveler II: Steelbook Edition | 243868 | [243868-octopath-traveler-ii-steelbook-edition.json](./243868-octopath-traveler-ii-steelbook-edition.json) |
@@ -3683,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 287538 | [287538-orchard.json](./287538-orchard.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
+| Orchard Odyssey: Cherry Chase | 370257 | [370257-orchard-odyssey-cherry-chase.json](./370257-orchard-odyssey-cherry-chase.json) |
 | Orchard Odyssey: Chestnut Christmas | 391146 | [391146-orchard-odyssey-chestnut-christmas.json](./391146-orchard-odyssey-chestnut-christmas.json) |
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
@@ -5026,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307927 | [307927-outrun.json](./307927-outrun.json) |
 | OutRun | 307928 | [307928-outrun.json](./307928-outrun.json) |
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
+| OutRun 2 | 2052 | [2052-outrun-2.json](./2052-outrun-2.json) |
 | OutRun 2006: Coast 2 Coast | 2054 | [2054-outrun-2006-coast-2-coast.json](./2054-outrun-2006-coast-2-coast.json) |
 | OutRun 2019 | 45767 | [45767-outrun-2019.json](./45767-outrun-2019.json) |
 | OutRun 3-D | 46136 | [46136-outrun-3-d.json](./46136-outrun-3-d.json) |
@@ -5518,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxide Room 208 | 240258 | [240258-oxide-room-208.json](./240258-oxide-room-208.json) |
 | Oxide Room 208: File Josh | 392344 | [392344-oxide-room-208-file-josh.json](./392344-oxide-room-208-file-josh.json) |
 | Oxide: Room 104 | 186663 | [186663-oxide-room-104.json](./186663-oxide-room-104.json) |
+| Oxide: Survival Island | 330539 | [330539-oxide-survival-island.json](./330539-oxide-survival-island.json) |
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
 | OxRox | 295513 | [295513-oxrox.json](./295513-oxrox.json) |
 | Oxu 2 | 387755 | [387755-oxu-2.json](./387755-oxu-2.json) |
