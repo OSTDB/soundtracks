@@ -5943,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbowl Racer | 198019 | [198019-fishbowl-racer.json](./198019-fishbowl-racer.json) |
 | FishCo | 206764 | [206764-fishco.json](./206764-fishco.json) |
 | Fishdom | 85147 | [85147-fishdom.json](./85147-fishdom.json) |
+| Fishdom 3 | 60284 | [60284-fishdom-3.json](./60284-fishdom-3.json) |
 | Fishdom Solitaire | 232297 | [232297-fishdom-solitaire.json](./232297-fishdom-solitaire.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fishdom: Seasons Under the Sea | 294387 | [294387-fishdom-seasons-under-the-sea.json](./294387-fishdom-seasons-under-the-sea.json) |
