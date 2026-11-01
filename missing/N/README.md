@@ -2395,6 +2395,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoNoid | 414791 | [414791-neonoid.json](./414791-neonoid.json) |
 | NeoNomicon | 37005 | [37005-neonomicon.json](./37005-neonomicon.json) |
 | Neonova | 313646 | [313646-neonova.json](./313646-neonova.json) |
+| NeonPlat | 61930 | [61930-neonplat.json](./61930-neonplat.json) |
+| NeonPlat Adventures | 61929 | [61929-neonplat-adventures.json](./61929-neonplat-adventures.json) |
+| NeonPlat Extreme | 61951 | [61951-neonplat-extreme.json](./61951-neonplat-extreme.json) |
+| NeonPlat Raw | 61949 | [61949-neonplat-raw.json](./61949-neonplat-raw.json) |
 | NeonPlat's Cosmic Adventure | 59825 | [59825-neonplats-cosmic-adventure.json](./59825-neonplats-cosmic-adventure.json) |
 | NeonPowerUp! | 267841 | [267841-neonpowerup.json](./267841-neonpowerup.json) |
 | Neonscape | 251777 | [251777-neonscape.json](./251777-neonscape.json) |
@@ -6114,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normy's Beach Babe-O-Rama | 45768 | [45768-normys-beach-babe-o-rama.json](./45768-normys-beach-babe-o-rama.json) |
 | Norn9 Lofn for Nintendo Switch | 136896 | [136896-norn9-lofn-for-nintendo-switch.json](./136896-norn9-lofn-for-nintendo-switch.json) |
 | Norn9: Act Tune | 12641 | [12641-norn9-act-tune.json](./12641-norn9-act-tune.json) |
+| Norn9: Last Era | 61942 | [61942-norn9-last-era.json](./61942-norn9-last-era.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Norn9: Var Commons | 21589 | [21589-norn9-var-commons.json](./21589-norn9-var-commons.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
