@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmatched: Digital Edition - Yukon | 248715 | [248715-unmatched-digital-edition-yukon.json](./248715-unmatched-digital-edition-yukon.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
 | Unmechanical | 16368 | [16368-unmechanical.json](./16368-unmechanical.json) |
+| Unmechanical: Extended Edition | 20310 | [20310-unmechanical-extended-edition.json](./20310-unmechanical-extended-edition.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
 | UnMetal | 132312 | [132312-unmetal.json](./132312-unmetal.json) |
 | UnMetal: Collector's Edition | 240034 | [240034-unmetal-collectors-edition.json](./240034-unmetal-collectors-edition.json) |
@@ -3143,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Thief Simulator: The Ultimate Heist | 283023 | [283023-urban-thief-simulator-the-ultimate-heist.json](./283023-urban-thief-simulator-the-ultimate-heist.json) |
 | Urban Trace: Parkour Simulator Pursuit | 303862 | [303862-urban-trace-parkour-simulator-pursuit.json](./303862-urban-trace-parkour-simulator-pursuit.json) |
 | Urban Trial Freestyle | 196841 | [196841-urban-trial-freestyle.json](./196841-urban-trial-freestyle.json) |
+| Urban Trial Freestyle | 9435 | [9435-urban-trial-freestyle.json](./9435-urban-trial-freestyle.json) |
 | Urban Trial Freestyle 2 | 57841 | [57841-urban-trial-freestyle-2.json](./57841-urban-trial-freestyle-2.json) |
 | Urban Trial Playground: Challenges Pack | 238311 | [238311-urban-trial-playground-challenges-pack.json](./238311-urban-trial-playground-challenges-pack.json) |
 | Urban Trial Playground: Deluxe Edition | 121510 | [121510-urban-trial-playground-deluxe-edition.json](./121510-urban-trial-playground-deluxe-edition.json) |
