@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Developer Simulator | 318817 | [318817-game-developer-simulator.json](./318817-game-developer-simulator.json) |
 | Game Director Story | 146053 | [146053-game-director-story.json](./146053-game-director-story.json) |
 | Game Doraemon: Nobita no Shin Kyouryuu | 141725 | [141725-game-doraemon-nobita-no-shin-kyouryuu.json](./141725-game-doraemon-nobita-no-shin-kyouryuu.json) |
+| Game Doraemon: Nobita no Space Heroes | 60749 | [60749-game-doraemon-nobita-no-space-heroes.json](./60749-game-doraemon-nobita-no-space-heroes.json) |
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
 | Game Doraemon: Nobita to Kiseki no Shima | 62554 | [62554-game-doraemon-nobita-to-kiseki-no-shima.json](./62554-game-doraemon-nobita-to-kiseki-no-shima.json) |
 | Game Doraemon: Shin Nobita no Nippon Tanjou | 59055 | [59055-game-doraemon-shin-nobita-no-nippon-tanjou.json](./59055-game-doraemon-shin-nobita-no-nippon-tanjou.json) |
@@ -4240,11 +4241,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
 | Git Gud or Get Rekt | 126231 | [126231-git-gud-or-get-rekt.json](./126231-git-gud-or-get-rekt.json) |
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
+| Gitadora | 60810 | [60810-gitadora.json](./60810-gitadora.json) |
 | Gitadora Exchain | 154831 | [154831-gitadora-exchain.json](./154831-gitadora-exchain.json) |
 | Gitadora Fuzz-Up | 266955 | [266955-gitadora-fuzz-up.json](./266955-gitadora-fuzz-up.json) |
 | Gitadora High-Voltage | 154836 | [154836-gitadora-high-voltage.json](./154836-gitadora-high-voltage.json) |
 | Gitadora Matixx | 154828 | [154828-gitadora-matixx.json](./154828-gitadora-matixx.json) |
 | Gitadora Nextage | 154833 | [154833-gitadora-nextage.json](./154833-gitadora-nextage.json) |
+| Gitadora OverDrive | 60811 | [60811-gitadora-overdrive.json](./60811-gitadora-overdrive.json) |
 | Gitadora Tri-Boost | 154822 | [154822-gitadora-tri-boost.json](./154822-gitadora-tri-boost.json) |
 | Gitadora Tri-Boost Re:Evolve | 154823 | [154823-gitadora-tri-boost-re-evolve.json](./154823-gitadora-tri-boost-re-evolve.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
@@ -5599,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Zushin | 137823 | [137823-gods-of-zushin.json](./137823-gods-of-zushin.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
+| Gods Rush | 60823 | [60823-gods-rush.json](./60823-gods-rush.json) |
 | Gods Unchained | 109087 | [109087-gods-unchained.json](./109087-gods-unchained.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
