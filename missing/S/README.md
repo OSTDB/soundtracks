@@ -6414,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate PD | 272467 | [272467-shadowgate-pd.json](./272467-shadowgate-pd.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
 | Shadowgate: Special Edition | 51913 | [51913-shadowgate-special-edition.json](./51913-shadowgate-special-edition.json) |
+| Shadowgrounds | 9019 | [9019-shadowgrounds.json](./9019-shadowgrounds.json) |
 | Shadowgrounds Survivor | 9931 | [9931-shadowgrounds-survivor.json](./9931-shadowgrounds-survivor.json) |
 | Shadowgun | 38873 | [38873-shadowgun.json](./38873-shadowgun.json) |
 | Shadowgun: DeadZone | 39172 | [39172-shadowgun-deadzone.json](./39172-shadowgun-deadzone.json) |
@@ -11290,6 +11291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
 | Skies of Valor | 60865 | [60865-skies-of-valor.json](./60865-skies-of-valor.json) |
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
+| SkiFree | 11681 | [11681-skifree.json](./11681-skifree.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiiiiiiiiiiiiiiid | 164170 | [164170-skiiiiiiiiiiiiiiid.json](./164170-skiiiiiiiiiiiiiiid.json) |
 | Skiing | 359299 | [359299-skiing.json](./359299-skiing.json) |
@@ -11817,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyFly | 275515 | [275515-skyfly.json](./275515-skyfly.json) |
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyforce Unite! | 276336 | [276336-skyforce-unite.json](./276336-skyforce-unite.json) |
+| Skyforge | 7818 | [7818-skyforge.json](./7818-skyforge.json) |
 | Skyforge Trails | 401097 | [401097-skyforge-trails.json](./401097-skyforge-trails.json) |
 | Skyforge: Bounty Hunter Collector's Edition | 167666 | [167666-skyforge-bounty-hunter-collectors-edition.json](./167666-skyforge-bounty-hunter-collectors-edition.json) |
 | Skyformer | 257013 | [257013-skyformer.json](./257013-skyformer.json) |
@@ -16749,6 +16752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic's Napoleon | 261289 | [261289-sonics-napoleon.json](./261289-sonics-napoleon.json) |
 | Sonic's Schoolhouse | 52750 | [52750-sonics-schoolhouse.json](./52750-sonics-schoolhouse.json) |
 | Sonic's Speedway | 362898 | [362898-sonics-speedway.json](./362898-sonics-speedway.json) |
+| Sonic's Ultimate Genesis Collection | 7189 | [7189-sonics-ultimate-genesis-collection.json](./7189-sonics-ultimate-genesis-collection.json) |
 | Sonic's Vacation | 330531 | [330531-sonics-vacation.json](./330531-sonics-vacation.json) |
 | Sonic2.EXE | 313712 | [313712-sonic2-exe.json](./313712-sonic2-exe.json) |
 | SonicE | 330709 | [330709-sonice.json](./330709-sonice.json) |
@@ -20771,6 +20775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Creature From the Krusty Krab | 248482 | [248482-spongebob-squarepants-creature-from-the-krusty-krab.json](./248482-spongebob-squarepants-creature-from-the-krusty-krab.json) |
 | SpongeBob SquarePants: Creature From the Krusty Krab | 248483 | [248483-spongebob-squarepants-creature-from-the-krusty-krab.json](./248483-spongebob-squarepants-creature-from-the-krusty-krab.json) |
 | SpongeBob SquarePants: Creature From the Krusty Krab | 248484 | [248484-spongebob-squarepants-creature-from-the-krusty-krab.json](./248484-spongebob-squarepants-creature-from-the-krusty-krab.json) |
+| SpongeBob SquarePants: Creature From the Krusty Krab | 2772 | [2772-spongebob-squarepants-creature-from-the-krusty-krab.json](./2772-spongebob-squarepants-creature-from-the-krusty-krab.json) |
 | SpongeBob SquarePants: Defending the Secret Formula | 228487 | [228487-spongebob-squarepants-defending-the-secret-formula.json](./228487-spongebob-squarepants-defending-the-secret-formula.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
 | SpongeBob SquarePants: Diner Dash | 64860 | [64860-spongebob-squarepants-diner-dash.json](./64860-spongebob-squarepants-diner-dash.json) |
@@ -22871,6 +22876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Rogue Squadron II - Rogue Leader | 4181 | [4181-star-wars-rogue-squadron-ii-rogue-leader.json](./4181-star-wars-rogue-squadron-ii-rogue-leader.json) |
+| Star Wars: Rogue Squadron III - Rebel Strike | 4182 | [4182-star-wars-rogue-squadron-iii-rebel-strike.json](./4182-star-wars-rogue-squadron-iii-rebel-strike.json) |
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
 | Star Wars: Secrets of the Empire | 134955 | [134955-star-wars-secrets-of-the-empire.json](./134955-star-wars-secrets-of-the-empire.json) |
 | Star Wars: Starfighter | 149 | [149-star-wars-starfighter.json](./149-star-wars-starfighter.json) |
@@ -26152,6 +26158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
 | Street Racing 3D | 95736 | [95736-street-racing-3d.json](./95736-street-racing-3d.json) |
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
+| Street Racing Syndicate | 4184 | [4184-street-racing-syndicate.json](./4184-street-racing-syndicate.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Racing: Tokyo Rush | 147075 | [147075-street-racing-tokyo-rush.json](./147075-street-racing-tokyo-rush.json) |
 | Street Racing: United | 150379 | [150379-street-racing-united.json](./150379-street-racing-united.json) |
@@ -32254,6 +32261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT 4 | 316 | [316-swat-4.json](./316-swat-4.json) |
 | SWAT 4: Elite Force | 217800 | [217800-swat-4-elite-force.json](./217800-swat-4-elite-force.json) |
 | SWAT 4: Gold Edition | 51933 | [51933-swat-4-gold-edition.json](./51933-swat-4-gold-edition.json) |
+| SWAT 4: The Stetchkov Syndicate | 317 | [317-swat-4-the-stetchkov-syndicate.json](./317-swat-4-the-stetchkov-syndicate.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
 | SWAT Elite Troops | 76202 | [76202-swat-elite-troops.json](./76202-swat-elite-troops.json) |
 | SWAT Force | 76201 | [76201-swat-force.json](./76201-swat-force.json) |
