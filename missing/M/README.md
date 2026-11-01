@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Maaaaath! | 418879 | [418879-maaaaath.json](./418879-maaaaath.json) |
 | Maanu: Academic Version | 254908 | [254908-maanu-academic-version.json](./254908-maanu-academic-version.json) |
+| Maat | 58415 | [58415-maat.json](./58415-maat.json) |
 | Mabel's Mansion | 24780 | [24780-mabels-mansion.json](./24780-mabels-mansion.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Runes | 368600 | [368600-magical-runes.json](./368600-magical-runes.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
+| Magical Sports: 2000 Koushien | 58514 | [58514-magical-sports-2000-koushien.json](./58514-magical-sports-2000-koushien.json) |
 | Magical Sports: 2001 Pro Yakyuu | 58511 | [58511-magical-sports-2001-pro-yakyuu.json](./58511-magical-sports-2001-pro-yakyuu.json) |
 | Magical Spot | 40365 | [40365-magical-spot.json](./40365-magical-spot.json) |
 | Magical Spot II | 40364 | [40364-magical-spot-ii.json](./40364-magical-spot-ii.json) |
@@ -12029,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Taisen Puzzle: Shanghai Wii | 69131 | [69131-minna-de-taisen-puzzle-shanghai-wii.json](./69131-minna-de-taisen-puzzle-shanghai-wii.json) |
 | Minna de Tobikome! Penguin Diving: Hooper Looper | 408866 | [408866-minna-de-tobikome-penguin-diving-hooper-looper.json](./408866-minna-de-tobikome-penguin-diving-hooper-looper.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
+| Minna no Conveni | 58442 | [58442-minna-no-conveni.json](./58442-minna-no-conveni.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
 | Minna no DS Curling | 124481 | [124481-minna-no-ds-curling.json](./124481-minna-no-ds-curling.json) |
 | Minna no Ennichi | 141691 | [141691-minna-no-ennichi.json](./141691-minna-no-ennichi.json) |
@@ -14872,6 +14875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
 | Monsters in Cards | 380844 | [380844-monsters-in-cards.json](./380844-monsters-in-cards.json) |
 | MonsterS in haha Island | 54464 | [54464-monsters-in-haha-island.json](./54464-monsters-in-haha-island.json) |
+| Monsters in Hell | 58419 | [58419-monsters-in-hell.json](./58419-monsters-in-hell.json) |
 | Monsters Inc.: Scream Team Training | 281988 | [281988-monsters-inc-scream-team-training.json](./281988-monsters-inc-scream-team-training.json) |
 | Monsters James P. Sullivan Stomach Doctor | 380550 | [380550-monsters-james-p-sullivan-stomach-doctor.json](./380550-monsters-james-p-sullivan-stomach-doctor.json) |
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
