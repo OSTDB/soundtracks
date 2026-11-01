@@ -5470,7 +5470,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7850,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon | 214441 | [214441-melon.json](./214441-melon.json) |
 | Melon | 314248 | [314248-melon.json](./314248-melon.json) |
 | Melon Bounce | 366250 | [366250-melon-bounce.json](./366250-melon-bounce.json) |
+| Melon Chan's Growth Diary | 47622 | [47622-melon-chans-growth-diary.json](./47622-melon-chans-growth-diary.json) |
 | Melon Clicker | 330261 | [330261-melon-clicker.json](./330261-melon-clicker.json) |
 | Melon Dusk | 196238 | [196238-melon-dusk.json](./196238-melon-dusk.json) |
 | Melon Head | 320473 | [320473-melon-head.json](./320473-melon-head.json) |
@@ -10376,6 +10376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
 | Midway's Greatest Arcade Hits | 209512 | [209512-midways-greatest-arcade-hits.json](./209512-midways-greatest-arcade-hits.json) |
 | Midway's Greatest Arcade Hits: Volume 1 | 286966 | [286966-midways-greatest-arcade-hits-volume-1.json](./286966-midways-greatest-arcade-hits-volume-1.json) |
+| Midway's Greatest Arcade Hits: Volume 1 | 47679 | [47679-midways-greatest-arcade-hits-volume-1.json](./47679-midways-greatest-arcade-hits-volume-1.json) |
 | Midwest 90: Rapid City | 217135 | [217135-midwest-90-rapid-city.json](./217135-midwest-90-rapid-city.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwest Goodbye | 414183 | [414183-midwest-goodbye.json](./414183-midwest-goodbye.json) |
@@ -14441,6 +14442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster High: Ghoul Spirit | 8567 | [8567-monster-high-ghoul-spirit.json](./8567-monster-high-ghoul-spirit.json) |
 | Monster High: Minis Mania | 232507 | [232507-monster-high-minis-mania.json](./232507-monster-high-minis-mania.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
+| Monster High: Skultimate Roller Maze | 47672 | [47672-monster-high-skultimate-roller-maze.json](./47672-monster-high-skultimate-roller-maze.json) |
 | Monster Home | 263987 | [263987-monster-home.json](./263987-monster-home.json) |
 | Monster Hospital - Kids Game | 90368 | [90368-monster-hospital-kids-game.json](./90368-monster-hospital-kids-game.json) |
 | Monster Host Club | 409347 | [409347-monster-host-club.json](./409347-monster-host-club.json) |
@@ -18381,6 +18383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Aunt is a Witch | 146548 | [146548-my-aunt-is-a-witch.json](./146548-my-aunt-is-a-witch.json) |
 | My Australian Farm | 85295 | [85295-my-australian-farm.json](./85295-my-australian-farm.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
+| My Baby Boy | 47709 | [47709-my-baby-boy.json](./47709-my-baby-boy.json) |
 | My Baby Care 2 | 100683 | [100683-my-baby-care-2.json](./100683-my-baby-care-2.json) |
 | My Baby Girl | 47976 | [47976-my-baby-girl.json](./47976-my-baby-girl.json) |
 | My Baby Pet Hotel 3D | 85294 | [85294-my-baby-pet-hotel-3d.json](./85294-my-baby-pet-hotel-3d.json) |
@@ -18804,6 +18807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Haunted Doll | 125061 | [125061-my-haunted-doll.json](./125061-my-haunted-doll.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
+| My Healthy Cooking Coach | 47702 | [47702-my-healthy-cooking-coach.json](./47702-my-healthy-cooking-coach.json) |
 | My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
 | My Heart Your Soul | 227023 | [227023-my-heart-your-soul.json](./227023-my-heart-your-soul.json) |
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
@@ -19984,6 +19988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
 | Mystery P.I. - The New York Fortune | 14814 | [14814-mystery-p-i-the-new-york-fortune.json](./14814-mystery-p-i-the-new-york-fortune.json) |
 | Mystery P.I. Kieta Film | 65207 | [65207-mystery-p-i-kieta-film.json](./65207-mystery-p-i-kieta-film.json) |
+| Mystery P.I.: Portrait of a Thief | 47711 | [47711-mystery-p-i-portrait-of-a-thief.json](./47711-mystery-p-i-portrait-of-a-thief.json) |
 | Mystery P.I.: Stolen in San Francisco | 80548 | [80548-mystery-p-i-stolen-in-san-francisco.json](./80548-mystery-p-i-stolen-in-san-francisco.json) |
 | Mystery P.I.: Stolen in San Francisco | 80549 | [80549-mystery-p-i-stolen-in-san-francisco.json](./80549-mystery-p-i-stolen-in-san-francisco.json) |
 | Mystery P.I.: The London Caper | 65205 | [65205-mystery-p-i-the-london-caper.json](./65205-mystery-p-i-the-london-caper.json) |
