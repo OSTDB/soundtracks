@@ -1042,6 +1042,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umezawa Yukari no Taikyoku Igo - Heisei Kiin II | 286087 | [286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json](./286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json) |
 | Umfend | 111034 | [111034-umfend.json](./111034-umfend.json) |
 | Umi no Nushi Tsuri | 37774 | [37774-umi-no-nushi-tsuri.json](./37774-umi-no-nushi-tsuri.json) |
+| Umi no Nushi Tsuri 2 | 61848 | [61848-umi-no-nushi-tsuri-2.json](./61848-umi-no-nushi-tsuri-2.json) |
+| Umi no Nushi Tsuri: Takara-jima ni Mukatte | 61850 | [61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json](./61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json) |
 | Umi no Oh! Yah! | 384496 | [384496-umi-no-oh-yah.json](./384496-umi-no-oh-yah.json) |
 | Umi Tsuri Mejin: Suzuki-hen | 37773 | [37773-umi-tsuri-mejin-suzuki-hen.json](./37773-umi-tsuri-mejin-suzuki-hen.json) |
 | Umichan Sorani | 201147 | [201147-umichan-sorani.json](./201147-umichan-sorani.json) |
