@@ -1232,7 +1232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unboxathon | 346186 | [346186-unboxathon.json](./346186-unboxathon.json) |
 | Unboxing | 225178 | [225178-unboxing.json](./225178-unboxing.json) |
 | Unboxing Mr. Coo | 359008 | [359008-unboxing-mr-coo.json](./359008-unboxing-mr-coo.json) |
-| Unboxing the Cryptic Killer | 247757 | [247757-unboxing-the-cryptic-killer.json](./247757-unboxing-the-cryptic-killer.json) |
 | Unboxing the mind of a Cryptic Killer | 192087 | [192087-unboxing-the-mind-of-a-cryptic-killer.json](./192087-unboxing-the-mind-of-a-cryptic-killer.json) |
 | Unboxing: 1-Bit Paradox | 348572 | [348572-unboxing-1-bit-paradox.json](./348572-unboxing-1-bit-paradox.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
@@ -1506,7 +1505,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Night In-Birth | 190982 | [190982-under-night-in-birth.json](./190982-under-night-in-birth.json) |
 | Under Night In-Birth Exe:Late[cl-r] | 121369 | [121369-under-night-in-birth-exe-late-cl-r.json](./121369-under-night-in-birth-exe-late-cl-r.json) |
 | Under Night In-Birth Exe:Late[cl-r] - Collector's Edition | 136316 | [136316-under-night-in-birth-exe-late-cl-r-collectors-edition.json](./136316-under-night-in-birth-exe-late-cl-r-collectors-edition.json) |
-| Under Night In-Birth II Sys:Celes | 260087 | [260087-under-night-in-birth-ii-sys-celes.json](./260087-under-night-in-birth-ii-sys-celes.json) |
 | Under Night In-Birth II Sys:Celes - 25 Announcer Characters | 288064 | [288064-under-night-in-birth-ii-sys-celes-25-announcer-characters.json](./288064-under-night-in-birth-ii-sys-celes-25-announcer-characters.json) |
 | Under Night In-Birth II Sys:Celes - Character Unlock: Izumi | 362221 | [362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json](./362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json) |
 | Under Night In-Birth II Sys:Celes - Season Pass | 288065 | [288065-under-night-in-birth-ii-sys-celes-season-pass.json](./288065-under-night-in-birth-ii-sys-celes-season-pass.json) |
