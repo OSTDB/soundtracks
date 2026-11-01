@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Collection [I-III] | 405459 | [405459-kingdom-hearts-collection-i-iii.json](./405459-kingdom-hearts-collection-i-iii.json) |
 | Kingdom Hearts Dark Road | 130408 | [130408-kingdom-hearts-dark-road.json](./130408-kingdom-hearts-dark-road.json) |
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
+| Kingdom Hearts Final Mix | 20283 | [20283-kingdom-hearts-final-mix.json](./20283-kingdom-hearts-final-mix.json) |
 | Kingdom Hearts Final Mix | 212758 | [212758-kingdom-hearts-final-mix.json](./212758-kingdom-hearts-final-mix.json) |
 | Kingdom Hearts Final Mix: Platinum Limited Edition | 151255 | [151255-kingdom-hearts-final-mix-platinum-limited-edition.json](./151255-kingdom-hearts-final-mix-platinum-limited-edition.json) |
 | Kingdom Hearts Gummiship Studio | 405370 | [405370-kingdom-hearts-gummiship-studio.json](./405370-kingdom-hearts-gummiship-studio.json) |
@@ -3602,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Block Ball | 3728 | [3728-kirbys-block-ball.json](./3728-kirbys-block-ball.json) |
 | Kirby's Dream Buffet | 209094 | [209094-kirbys-dream-buffet.json](./209094-kirbys-dream-buffet.json) |
 | Kirby's Dream Collection Special Edition | 84168 | [84168-kirbys-dream-collection-special-edition.json](./84168-kirbys-dream-collection-special-edition.json) |
+| Kirby's Dream Course | 3656 | [3656-kirbys-dream-course.json](./3656-kirbys-dream-course.json) |
 | Kirby's Dream Land | 1063 | [1063-kirbys-dream-land.json](./1063-kirbys-dream-land.json) |
 | Kirby's Dream Land 2 DX | 248574 | [248574-kirbys-dream-land-2-dx.json](./248574-kirbys-dream-land-2-dx.json) |
 | Kirby's Dream Land 3 | 3720 | [3720-kirbys-dream-land-3.json](./3720-kirbys-dream-land-3.json) |
