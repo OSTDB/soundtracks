@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Hourouki | 56928 | [56928-gamble-hourouki.json](./56928-gamble-hourouki.json) |
 | Gamble Lair | 348755 | [348755-gamble-lair.json](./348755-gamble-lair.json) |
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
+| Gamble Panic | 46318 | [46318-gamble-panic.json](./46318-gamble-panic.json) |
 | Gamble Scramble | 107555 | [107555-gamble-scramble.json](./107555-gamble-scramble.json) |
 | Gamble Tower | 172398 | [172398-gamble-tower.json](./172398-gamble-tower.json) |
 | Gamble Your Breath | 415756 | [415756-gamble-your-breath.json](./415756-gamble-your-breath.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
 | GFS Sorceress | 23324 | [23324-gfs-sorceress.json](./23324-gfs-sorceress.json) |
+| GG Aleste | 46317 | [46317-gg-aleste.json](./46317-gg-aleste.json) |
 | GG Aleste 3 | 144631 | [144631-gg-aleste-3.json](./144631-gg-aleste-3.json) |
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
@@ -5689,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Domination! | 49298 | [49298-godzilla-domination.json](./49298-godzilla-domination.json) |
 | Godzilla: Kaiju Collection | 135560 | [135560-godzilla-kaiju-collection.json](./135560-godzilla-kaiju-collection.json) |
 | Godzilla: Kaijuu Daikessen | 36739 | [36739-godzilla-kaijuu-daikessen.json](./36739-godzilla-kaijuu-daikessen.json) |
+| Godzilla: Kaijuu no Daishingeki | 46315 | [46315-godzilla-kaijuu-no-daishingeki.json](./46315-godzilla-kaijuu-no-daishingeki.json) |
 | Godzilla: King of the Monsters | 245471 | [245471-godzilla-king-of-the-monsters.json](./245471-godzilla-king-of-the-monsters.json) |
 | Godzilla: Monster of Monsters | 48161 | [48161-godzilla-monster-of-monsters.json](./48161-godzilla-monster-of-monsters.json) |
 | Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
@@ -8467,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griff the Winged Lion | 63585 | [63585-griff-the-winged-lion.json](./63585-griff-the-winged-lion.json) |
 | Griff Wild | 257575 | [257575-griff-wild.json](./257575-griff-wild.json) |
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
+| Griffin | 46356 | [46356-griffin.json](./46356-griffin.json) |
 | Griffin Card | 182847 | [182847-griffin-card.json](./182847-griffin-card.json) |
 | Griffin Simulator | 106778 | [106778-griffin-simulator.json](./106778-griffin-simulator.json) |
 | Griffinblade | 420010 | [420010-griffinblade.json](./420010-griffinblade.json) |
