@@ -3341,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekuteku Pikmin | 232901 | [232901-tekuteku-pikmin.json](./232901-tekuteku-pikmin.json) |
 | Tel-Tel Mahjong | 4485 | [4485-tel-tel-mahjong.json](./4485-tel-tel-mahjong.json) |
 | Tel-Tel Stadium | 47059 | [47059-tel-tel-stadium.json](./47059-tel-tel-stadium.json) |
+| Teladon | 54670 | [54670-teladon.json](./54670-teladon.json) |
 | TelAIphone | 310508 | [310508-telaiphone.json](./310508-telaiphone.json) |
 | Télé 7 Jeux: Mots Fléchés | 268415 | [268415-tele-7-jeux-mots-fleches.json](./268415-tele-7-jeux-mots-fleches.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
@@ -13763,6 +13764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Playroom: AR Studio | 296039 | [296039-the-playroom-ar-studio.json](./296039-the-playroom-ar-studio.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
 | The Ploshers | 116907 | [116907-the-ploshers.json](./116907-the-ploshers.json) |
+| The Plot | 54666 | [54666-the-plot.json](./54666-the-plot.json) |
 | The Plucky Squire x The Swords of Ditto: Mormo's Curse Bundle | 356822 | [356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json](./356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json) |
 | The Plucky Squire: Deluxe Edition | 324778 | [324778-the-plucky-squire-deluxe-edition.json](./324778-the-plucky-squire-deluxe-edition.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
@@ -15082,6 +15084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
 | The Simorgh | 225970 | [225970-the-simorgh.json](./225970-the-simorgh.json) |
+| The Simple Apocalypse | 54759 | [54759-the-simple-apocalypse.json](./54759-the-simple-apocalypse.json) |
 | The Simple Balance | 142079 | [142079-the-simple-balance.json](./142079-the-simple-balance.json) |
 | The Simple Climb Game | 309410 | [309410-the-simple-climb-game.json](./309410-the-simple-climb-game.json) |
 | The Simpler Times | 421354 | [421354-the-simpler-times.json](./421354-the-simpler-times.json) |
@@ -15663,6 +15666,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The SpudFather | 302329 | [302329-the-spudfather.json](./302329-the-spudfather.json) |
 | The Spy | 94115 | [94115-the-spy.json](./94115-the-spy.json) |
 | The Spy I Married | 327991 | [327991-the-spy-i-married.json](./327991-the-spy-i-married.json) |
+| The Spy's Adventures in Europe | 54642 | [54642-the-spys-adventures-in-europe.json](./54642-the-spys-adventures-in-europe.json) |
+| The Spy's Adventures in South America | 54643 | [54643-the-spys-adventures-in-south-america.json](./54643-the-spys-adventures-in-south-america.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Square Key | 165942 | [165942-the-square-key.json](./165942-the-square-key.json) |
 | The Squared Circle | 62505 | [62505-the-squared-circle.json](./62505-the-squared-circle.json) |
@@ -22486,6 +22491,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokë III | 393956 | [393956-toke-iii.json](./393956-toke-iii.json) |
 | Tokei | 342004 | [342004-tokei.json](./342004-tokei.json) |
 | Tokeijikake no Apocalypse | 222204 | [222204-tokeijikake-no-apocalypse.json](./222204-tokeijikake-no-apocalypse.json) |
+| Tokeijikake no Ley Line -Tasogaredoki no Kyoukaisen- | 54771 | [54771-tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen.json](./54771-tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen.json) |
+| Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- | 54770 | [54770-tokeijikake-no-ley-line-zanei-no-yoru-ga-akeru-toki.json](./54770-tokeijikake-no-ley-line-zanei-no-yoru-ga-akeru-toki.json) |
+| Tokeijikake no Ley Line: Kagerou ni Samayou Majo | 54773 | [54773-tokeijikake-no-ley-line-kagerou-ni-samayou-majo.json](./54773-tokeijikake-no-ley-line-kagerou-ni-samayou-majo.json) |
+| Tokeijikake no Ley Line: Tasogaredoki no Kyoukaisen | 54754 | [54754-tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen.json](./54754-tokeijikake-no-ley-line-tasogaredoki-no-kyoukaisen.json) |
 | Tokeis | 270016 | [270016-tokeis.json](./270016-tokeis.json) |
 | Token Game | 169753 | [169753-token-game.json](./169753-token-game.json) |
 | Token Town | 278357 | [278357-token-town.json](./278357-token-town.json) |
