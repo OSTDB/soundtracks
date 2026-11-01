@@ -13180,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare Journey | 163780 | [163780-the-nightmare-journey.json](./163780-the-nightmare-journey.json) |
 | The Nightmare of a City I Thought I Knew | 68448 | [68448-the-nightmare-of-a-city-i-thought-i-knew.json](./68448-the-nightmare-of-a-city-i-thought-i-knew.json) |
 | The Nightmare Of Arrival Chapter 1 | 298561 | [298561-the-nightmare-of-arrival-chapter-1.json](./298561-the-nightmare-of-arrival-chapter-1.json) |
+| The Nightmare of Druaga: Fushigino Dungeon | 43659 | [43659-the-nightmare-of-druaga-fushigino-dungeon.json](./43659-the-nightmare-of-druaga-fushigino-dungeon.json) |
 | The Nightmare of Pandemic: Kyle's Story | 339801 | [339801-the-nightmare-of-pandemic-kyles-story.json](./339801-the-nightmare-of-pandemic-kyles-story.json) |
 | The Nightmare: Serial Killers | 262321 | [262321-the-nightmare-serial-killers.json](./262321-the-nightmare-serial-killers.json) |
 | The Nightmares at The Krusty Krab | 382988 | [382988-the-nightmares-at-the-krusty-krab.json](./382988-the-nightmares-at-the-krusty-krab.json) |
