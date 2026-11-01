@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jean's Boutique 2 | 95912 | [95912-jeans-boutique-2.json](./95912-jeans-boutique-2.json) |
 | Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
 | Jean's Sundaeria | 90503 | [90503-jeans-sundaeria.json](./90503-jeans-sundaeria.json) |
+| Jeanne d'Arc | 11326 | [11326-jeanne-darc.json](./11326-jeanne-darc.json) |
 | Jeanne d'Arc | 308038 | [308038-jeanne-darc.json](./308038-jeanne-darc.json) |
 | Jeb's Legend of Zelda | 396648 | [396648-jebs-legend-of-zelda.json](./396648-jebs-legend-of-zelda.json) |
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
