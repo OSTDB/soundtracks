@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
 | Rally Championship | 100201 | [100201-rally-championship.json](./100201-rally-championship.json) |
 | Rally Championship | 4080 | [4080-rally-championship.json](./4080-rally-championship.json) |
+| Rally Championship Xtreme | 46967 | [46967-rally-championship-xtreme.json](./46967-rally-championship-xtreme.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Championships | 12739 | [12739-rally-championships.json](./12739-rally-championships.json) |
 | Rally Chase | 75514 | [75514-rally-chase.json](./75514-rally-chase.json) |
@@ -2418,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re;member | 145461 | [145461-re-member.json](./145461-re-member.json) |
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
 | Re: Aetatis | 174769 | [174769-re-aetatis.json](./174769-re-aetatis.json) |
+| RE: Alistair++ | 46942 | [46942-re-alistair.json](./46942-re-alistair.json) |
 | Re: Ashesz | 175016 | [175016-re-ashesz.json](./175016-re-ashesz.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
 | RE: Crank Sim | 278570 | [278570-re-crank-sim.json](./278570-re-crank-sim.json) |
@@ -2473,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:in | 166467 | [166467-re-in.json](./166467-re-in.json) |
 | Re:Infinite | 196587 | [196587-re-infinite.json](./196587-re-infinite.json) |
 | RE:Jump Boy | 159529 | [159529-re-jump-boy.json](./159529-re-jump-boy.json) |
+| Re:Kinder | 46991 | [46991-re-kinder.json](./46991-re-kinder.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Legend | 51535 | [51535-re-legend.json](./51535-re-legend.json) |
@@ -3562,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dwarf | 214964 | [214964-red-dwarf.json](./214964-red-dwarf.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Echoes: Berlin | 412606 | [412606-red-echoes-berlin.json](./412606-red-echoes-berlin.json) |
+| Red Eclipse | 46965 | [46965-red-eclipse.json](./46965-red-eclipse.json) |
 | Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
 | Red Embrace: Hollywood | 110753 | [110753-red-embrace-hollywood.json](./110753-red-embrace-hollywood.json) |
