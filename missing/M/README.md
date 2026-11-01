@@ -10450,6 +10450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
 | Mighty Aphid: Remastered Edition | 422668 | [422668-mighty-aphid-remastered-edition.json](./422668-mighty-aphid-remastered-edition.json) |
 | Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
+| Mighty Atom | 48386 | [48386-mighty-atom.json](./48386-mighty-atom.json) |
 | Mighty Beanz | 254890 | [254890-mighty-beanz.json](./254890-mighty-beanz.json) |
 | Mighty Beanz Pocket Puzzles | 6510 | [6510-mighty-beanz-pocket-puzzles.json](./6510-mighty-beanz-pocket-puzzles.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
@@ -13523,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2 | 23095 | [23095-moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan-2.json](./23095-moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan-2.json) |
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
 | Moero!! Jaleco Collection | 49721 | [49721-moero-jaleco-collection.json](./49721-moero-jaleco-collection.json) |
+| Moero!! Judo Warriors | 48422 | [48422-moero-judo-warriors.json](./48422-moero-judo-warriors.json) |
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
 | Moero!! Pro Yaguu: Home Run Kyousou | 125652 | [125652-moero-pro-yaguu-home-run-kyousou.json](./125652-moero-pro-yaguu-home-run-kyousou.json) |
 | Moero!! Pro Yakyuu 2016 | 218985 | [218985-moero-pro-yakyuu-2016.json](./218985-moero-pro-yakyuu-2016.json) |
@@ -14616,6 +14618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker 4: Killer Dice | 49714 | [49714-monster-maker-4-killer-dice.json](./49714-monster-maker-4-killer-dice.json) |
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
+| Monster Maker: 7-tsu no Hihou | 48420 | [48420-monster-maker-7-tsu-no-hihou.json](./48420-monster-maker-7-tsu-no-hihou.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Man | 310998 | [310998-monster-man.json](./310998-monster-man.json) |
 | Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
@@ -16495,6 +16498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
 | Motto!? Fushigi no Gensoukyou Prologue: Chijou kara no Kyoui | 206939 | [206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json](./206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json) |
 | Motto!? Fushigi no Gensoukyou: Under the Moonlight | 206935 | [206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json](./206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json) |
+| Mottomo Abunai Deka | 48419 | [48419-mottomo-abunai-deka.json](./48419-mottomo-abunai-deka.json) |
 | Motu | 311125 | [311125-motu.json](./311125-motu.json) |
 | Motu Patlu ABC Learning | 325126 | [325126-motu-patlu-abc-learning.json](./325126-motu-patlu-abc-learning.json) |
 | Motu Patlu Bicycle Riding | 325120 | [325120-motu-patlu-bicycle-riding.json](./325120-motu-patlu-bicycle-riding.json) |
@@ -16600,6 +16604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
 | Mourningwood Lodge 2: Hidden Voice | 375487 | [375487-mourningwood-lodge-2-hidden-voice.json](./375487-mourningwood-lodge-2-hidden-voice.json) |
+| Mouryou Senki Madara | 48418 | [48418-mouryou-senki-madara.json](./48418-mouryou-senki-madara.json) |
 | Mouse (Sneaking) | 81968 | [81968-mouse-sneaking.json](./81968-mouse-sneaking.json) |
 | Mouse & Crane | 302243 | [302243-mouse-and-crane.json](./302243-mouse-and-crane.json) |
 | Mouse and Cheese Tactics | 142636 | [142636-mouse-and-cheese-tactics.json](./142636-mouse-and-cheese-tactics.json) |
@@ -17800,6 +17805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musapey's Choco Marker | 45831 | [45831-musapeys-choco-marker.json](./45831-musapeys-choco-marker.json) |
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
+| Musashi no Ken: Tadaima Shugyou-chuu | 48417 | [48417-musashi-no-ken-tadaima-shugyou-chuu.json](./48417-musashi-no-ken-tadaima-shugyou-chuu.json) |
 | Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
 | Musashi: Mobile Samurai | 290646 | [290646-musashi-mobile-samurai.json](./290646-musashi-mobile-samurai.json) |
 | Musashi: Samurai Legend | 1811 | [1811-musashi-samurai-legend.json](./1811-musashi-samurai-legend.json) |
