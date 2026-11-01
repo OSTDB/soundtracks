@@ -3410,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead On Arrival | 249086 | [249086-dead-on-arrival.json](./249086-dead-on-arrival.json) |
 | Dead On Arrival | 303461 | [303461-dead-on-arrival.json](./303461-dead-on-arrival.json) |
 | Dead On Arrival | 380246 | [380246-dead-on-arrival.json](./380246-dead-on-arrival.json) |
+| Dead on Arrival 2 | 51670 | [51670-dead-on-arrival-2.json](./51670-dead-on-arrival-2.json) |
 | Dead on Arrival: Remastered | 226516 | [226516-dead-on-arrival-remastered.json](./226516-dead-on-arrival-remastered.json) |
 | Dead on Time | 13574 | [13574-dead-on-time.json](./13574-dead-on-time.json) |
 | Dead on Your Lawn | 345394 | [345394-dead-on-your-lawn.json](./345394-dead-on-your-lawn.json) |
@@ -8928,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
 | Dinosaur Simulator 2019 | 231964 | [231964-dinosaur-simulator-2019.json](./231964-dinosaur-simulator-2019.json) |
 | Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
+| Dinosaur Survival Run: Jungle of Despair | 51686 | [51686-dinosaur-survival-run-jungle-of-despair.json](./51686-dinosaur-survival-run-jungle-of-despair.json) |
 | Dinosaur War | 298513 | [298513-dinosaur-war.json](./298513-dinosaur-war.json) |
 | Dinosaur World | 140470 | [140470-dinosaur-world.json](./140470-dinosaur-world.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
