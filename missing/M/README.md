@@ -5526,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8961,6 +8962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Online | 269417 | [269417-metal-gear-online.json](./269417-metal-gear-online.json) |
 | Metal Gear Online | 7367 | [7367-metal-gear-online.json](./7367-metal-gear-online.json) |
 | Metal Gear Rising: Revengeance - Blade Wolf | 20111 | [20111-metal-gear-rising-revengeance-blade-wolf.json](./20111-metal-gear-rising-revengeance-blade-wolf.json) |
+| Metal Gear Rising: Revengeance - Jetstream | 20108 | [20108-metal-gear-rising-revengeance-jetstream.json](./20108-metal-gear-rising-revengeance-jetstream.json) |
 | Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
 | Metal Gear Rising: Revengeance - Special Edition | 136809 | [136809-metal-gear-rising-revengeance-special-edition.json](./136809-metal-gear-rising-revengeance-special-edition.json) |
 | Metal Gear Rising: Revengeance - Ultimate Edition | 99949 | [99949-metal-gear-rising-revengeance-ultimate-edition.json](./99949-metal-gear-rising-revengeance-ultimate-edition.json) |
@@ -10963,6 +10965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
 | Milo's Tiny Fish Pond | 414169 | [414169-milos-tiny-fish-pond.json](./414169-milos-tiny-fish-pond.json) |
 | Milon no Hoshizora Shabon: Puzzle Kumikyoku | 97681 | [97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json](./97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json) |
+| Milon's Secret Castle | 48081 | [48081-milons-secret-castle.json](./48081-milons-secret-castle.json) |
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
 | Milosc | 213532 | [213532-milosc.json](./213532-milosc.json) |
 | Milt | 181195 | [181195-milt.json](./181195-milt.json) |
@@ -13878,6 +13881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
 | Momochan's Brain is So Crazy! | 388979 | [388979-momochans-brain-is-so-crazy.json](./388979-momochans-brain-is-so-crazy.json) |
+| Momodora | 18162 | [18162-momodora.json](./18162-momodora.json) |
 | Momodora 0: Day of Birth | 261191 | [261191-momodora-0-day-of-birth.json](./261191-momodora-0-day-of-birth.json) |
 | Momodora II | 18163 | [18163-momodora-ii.json](./18163-momodora-ii.json) |
 | Momodora: Moonlit Farewell | 188088 | [188088-momodora-moonlit-farewell.json](./188088-momodora-moonlit-farewell.json) |
@@ -17751,6 +17755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MundusHex | 277986 | [277986-mundushex.json](./277986-mundushex.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munich Bus Simulator | 36440 | [36440-munich-bus-simulator.json](./36440-munich-bus-simulator.json) |
+| Munin | 17123 | [17123-munin.json](./17123-munin.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
 | Munlay Online | 271682 | [271682-munlay-online.json](./271682-munlay-online.json) |
 | Munou Sengen | 331191 | [331191-munou-sengen.json](./331191-munou-sengen.json) |
@@ -18287,6 +18292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Monster Invasion | 292240 | [292240-mutant-monster-invasion.json](./292240-mutant-monster-invasion.json) |
 | Mutant Monsters | 334023 | [334023-mutant-monsters.json](./334023-mutant-monsters.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
+| Mutant Mudds | 21039 | [21039-mutant-mudds.json](./21039-mutant-mudds.json) |
 | Mutant Mudds 2 | 64083 | [64083-mutant-mudds-2.json](./64083-mutant-mudds-2.json) |
 | Mutant Mudds Collection | 72897 | [72897-mutant-mudds-collection.json](./72897-mutant-mudds-collection.json) |
 | Mutant Mudds Collection + Xeodrifter | 248705 | [248705-mutant-mudds-collection-xeodrifter.json](./248705-mutant-mudds-collection-xeodrifter.json) |
