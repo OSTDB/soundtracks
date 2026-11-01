@@ -3230,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebots | 137815 | [137815-rebots.json](./137815-rebots.json) |
 | ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
 | Rebound | 111188 | [111188-rebound.json](./111188-rebound.json) |
+| Rebound | 16977 | [16977-rebound.json](./16977-rebound.json) |
 | Rebound | 366547 | [366547-rebound.json](./366547-rebound.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
@@ -5284,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residentvania | 175773 | [175773-residentvania.json](./175773-residentvania.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
 | Residual Wilds | 387049 | [387049-residual-wilds.json](./387049-residual-wilds.json) |
+| Residue | 16871 | [16871-residue.json](./16871-residue.json) |
 | Residue: Final Cut | 30250 | [30250-residue-final-cut.json](./30250-residue-final-cut.json) |
 | Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Residuum | 373820 | [373820-residuum.json](./373820-residuum.json) |
