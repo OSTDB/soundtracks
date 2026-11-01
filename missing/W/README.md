@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Dust | 278350 | [278350-warriors-of-dust.json](./278350-warriors-of-dust.json) |
 | Warriors of Elysia | 66569 | [66569-warriors-of-elysia.json](./66569-warriors-of-elysia.json) |
 | Warriors of Freedom | 267780 | [267780-warriors-of-freedom.json](./267780-warriors-of-freedom.json) |
+| Warriors of Glory | 58443 | [58443-warriors-of-glory.json](./58443-warriors-of-glory.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
 | Warriors of Ras | 68871 | [68871-warriors-of-ras.json](./68871-warriors-of-ras.json) |
@@ -5389,6 +5390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
 | Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
 | Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
+| Wings.io | 58433 | [58433-wings-io.json](./58433-wings-io.json) |
 | Wingspan + European Expansion | 200514 | [200514-wingspan-european-expansion.json](./200514-wingspan-european-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
@@ -7732,6 +7734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Seed Classic | 129736 | [129736-world-seed-classic.json](./129736-world-seed-classic.json) |
 | World Senate Game - Free Online Multiplayer Game | 145434 | [145434-world-senate-game-free-online-multiplayer-game.json](./145434-world-senate-game-free-online-multiplayer-game.json) |
 | World Series 1964 | 130864 | [130864-world-series-1964.json](./130864-world-series-1964.json) |
+| World Series 99 | 58423 | [58423-world-series-99.json](./58423-world-series-99.json) |
 | World Series Baseball | 171986 | [171986-world-series-baseball.json](./171986-world-series-baseball.json) |
 | World Series Baseball | 247009 | [247009-world-series-baseball.json](./247009-world-series-baseball.json) |
 | World Series Baseball | 46546 | [46546-world-series-baseball.json](./46546-world-series-baseball.json) |
