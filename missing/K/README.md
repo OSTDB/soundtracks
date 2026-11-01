@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakutou Haou Densetsu Algunos | 37586 | [37586-kakutou-haou-densetsu-algunos.json](./37586-kakutou-haou-densetsu-algunos.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle-hen | 228569 | [228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json](./228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Kettou Bistgarm-hen | 228570 | [228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json](./228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json) |
+| Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen | 37500 | [37500-kakutou-ryouri-densetsu-bistro-recipe-wonder-battle-hen.json](./37500-kakutou-ryouri-densetsu-bistro-recipe-wonder-battle-hen.json) |
 | Kakwitene VR | 118806 | [118806-kakwitene-vr.json](./118806-kakwitene-vr.json) |
 | Kakyuusei | 153696 | [153696-kakyuusei.json](./153696-kakyuusei.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
@@ -1309,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazarma | 121251 | [121251-kazarma.json](./121251-kazarma.json) |
 | Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
+| Kaze no Klonoa: Moonlight Museum | 37499 | [37499-kaze-no-klonoa-moonlight-museum.json](./37499-kaze-no-klonoa-moonlight-museum.json) |
 | Kaze no Noriko: Sanae-san no Yokai Taiji | 193628 | [193628-kaze-no-noriko-sanae-san-no-yokai-taiji.json](./193628-kaze-no-noriko-sanae-san-no-yokai-taiji.json) |
 | Kaze no Notam | 71359 | [71359-kaze-no-notam.json](./71359-kaze-no-notam.json) |
 | Kaze no Oka Kouen nite | 139117 | [139117-kaze-no-oka-kouen-nite.json](./139117-kaze-no-oka-kouen-nite.json) |
@@ -2622,7 +2624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KISS U | 194891 | [194891-kiss-u.json](./194891-kiss-u.json) |
 | Kiss Upload | 156839 | [156839-kiss-upload.json](./156839-kiss-upload.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
+| Kiss Yori... Seaside Serenade | 37498 | [37498-kiss-yori-seaside-serenade.json](./37498-kiss-yori-seaside-serenade.json) |
 | Kiss: Psycho Circus - The Nightmare Child | 9096 | [9096-kiss-psycho-circus-the-nightmare-child.json](./9096-kiss-psycho-circus-the-nightmare-child.json) |
 | Kiss/Off | 189994 | [189994-kiss-off.json](./189994-kiss-off.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
@@ -5140,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmosis | 356608 | [356608-kosmosis.json](./356608-kosmosis.json) |
 | Kosmosis | 382345 | [382345-kosmosis.json](./382345-kosmosis.json) |
 | KosmoSquad | 154561 | [154561-kosmosquad.json](./154561-kosmosquad.json) |
+| Kosodate Quiz Dokodemo: My Angel | 37497 | [37497-kosodate-quiz-dokodemo-my-angel.json](./37497-kosodate-quiz-dokodemo-my-angel.json) |
 | Kosodate Quiz My Angel | 40224 | [40224-kosodate-quiz-my-angel.json](./40224-kosodate-quiz-my-angel.json) |
 | Kosodate Quiz My Angel 2 | 40223 | [40223-kosodate-quiz-my-angel-2.json](./40223-kosodate-quiz-my-angel-2.json) |
 | Kosodate Quiz My Angel 3 | 129151 | [129151-kosodate-quiz-my-angel-3.json](./129151-kosodate-quiz-my-angel-3.json) |
