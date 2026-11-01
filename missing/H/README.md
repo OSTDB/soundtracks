@@ -5272,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Treasure Chest | 260783 | [260783-heretic-treasure-chest.json](./260783-heretic-treasure-chest.json) |
 | Heretic Upstart Mapping Project | 268597 | [268597-heretic-upstart-mapping-project.json](./268597-heretic-upstart-mapping-project.json) |
 | Heretic Upstart Mapping Project Mini | 268598 | [268598-heretic-upstart-mapping-project-mini.json](./268598-heretic-upstart-mapping-project-mini.json) |
+| Heretic: Shadow of the Serpent Riders | 8419 | [8419-heretic-shadow-of-the-serpent-riders.json](./8419-heretic-shadow-of-the-serpent-riders.json) |
 | Heretic's Fork: Abyssal Update | 320278 | [320278-heretics-fork-abyssal-update.json](./320278-heretics-fork-abyssal-update.json) |
 | Heretic's Fork: Inside The Fire | 285116 | [285116-heretics-fork-inside-the-fire.json](./285116-heretics-fork-inside-the-fire.json) |
 | Heretic’s Fork: Probation | 251822 | [251822-heretic-s-fork-probation.json](./251822-heretic-s-fork-probation.json) |
@@ -11384,6 +11385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydroneer: Journey to Volcalidus | 285576 | [285576-hydroneer-journey-to-volcalidus.json](./285576-hydroneer-journey-to-volcalidus.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hydrophobia | 210061 | [210061-hydrophobia.json](./210061-hydrophobia.json) |
+| Hydrophobia: Prophecy | 7690 | [7690-hydrophobia-prophecy.json](./7690-hydrophobia-prophecy.json) |
 | Hydroplane: Riptide Racers | 278549 | [278549-hydroplane-riptide-racers.json](./278549-hydroplane-riptide-racers.json) |
 | Hydroplant Tycoon | 343289 | [343289-hydroplant-tycoon.json](./343289-hydroplant-tycoon.json) |
 | Hydroponics Farm & Store Simulator | 320124 | [320124-hydroponics-farm-and-store-simulator.json](./320124-hydroponics-farm-and-store-simulator.json) |
