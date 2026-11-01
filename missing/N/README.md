@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Secret of Shadow Ranch | 29928 | [29928-nancy-drew-the-secret-of-shadow-ranch.json](./29928-nancy-drew-the-secret-of-shadow-ranch.json) |
 | Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
+| Nancy Drew: Trail of the Twister | 10588 | [10588-nancy-drew-trail-of-the-twister.json](./10588-nancy-drew-trail-of-the-twister.json) |
 | Nancy Drew: Treasure in the Royal Tower | 7623 | [7623-nancy-drew-treasure-in-the-royal-tower.json](./7623-nancy-drew-treasure-in-the-royal-tower.json) |
 | Nancy Drew: Treasure in the Royal Tower Fan Project | 349638 | [349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json](./349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json) |
 | Nancy the Happy Whore and the Perfidious Petrol Station | 63119 | [63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json](./63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json) |
