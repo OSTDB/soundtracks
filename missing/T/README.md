@@ -3155,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
 | Teenage Mutant Ninja Turtles: Four for Four | 218931 | [218931-teenage-mutant-ninja-turtles-four-for-four.json](./218931-teenage-mutant-ninja-turtles-four-for-four.json) |
 | Teenage Mutant Ninja Turtles: Half-Shell Heroes | 57980 | [57980-teenage-mutant-ninja-turtles-half-shell-heroes.json](./57980-teenage-mutant-ninja-turtles-half-shell-heroes.json) |
+| Teenage Mutant Ninja Turtles: Manhattan Missions | 46975 | [46975-teenage-mutant-ninja-turtles-manhattan-missions.json](./46975-teenage-mutant-ninja-turtles-manhattan-missions.json) |
 | Teenage Mutant Ninja Turtles: Master Splinter's Training Pack | 79779 | [79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json](./79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
 | Teenage Mutant Ninja Turtles: Mutant Mayhem - Pizza Power | 261388 | [261388-teenage-mutant-ninja-turtles-mutant-mayhem-pizza-power.json](./261388-teenage-mutant-ninja-turtles-mutant-mayhem-pizza-power.json) |
@@ -6161,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
 | The Blues Brothers | 265032 | [265032-the-blues-brothers.json](./265032-the-blues-brothers.json) |
 | The Blues Brothers | 265033 | [265033-the-blues-brothers.json](./265033-the-blues-brothers.json) |
+| The Blues Brothers: Jukebox Adventure | 47007 | [47007-the-blues-brothers-jukebox-adventure.json](./47007-the-blues-brothers-jukebox-adventure.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Boba Teashop | 340928 | [340928-the-boba-teashop.json](./340928-the-boba-teashop.json) |
 | The Boba Teashop: Refill | 422103 | [422103-the-boba-teashop-refill.json](./422103-the-boba-teashop-refill.json) |
@@ -9525,6 +9527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War of Jorth | 187643 | [187643-the-great-war-of-jorth.json](./187643-the-great-war-of-jorth.json) |
 | The Great War of Prefectures | 254348 | [254348-the-great-war-of-prefectures.json](./254348-the-great-war-of-prefectures.json) |
 | The Great War: 1914 | 75115 | [75115-the-great-war-1914.json](./75115-the-great-war-1914.json) |
+| The Great War: 1914-1918 | 46972 | [46972-the-great-war-1914-1918.json](./46972-the-great-war-1914-1918.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
 | The Great White Destroyer | 54304 | [54304-the-great-white-destroyer.json](./54304-the-great-white-destroyer.json) |
@@ -14860,6 +14863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers II: 10th Anniversary - Vikings | 71922 | [71922-the-settlers-ii-10th-anniversary-vikings.json](./71922-the-settlers-ii-10th-anniversary-vikings.json) |
 | The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
 | The Settlers II: History Edition | 121948 | [121948-the-settlers-ii-history-edition.json](./121948-the-settlers-ii-history-edition.json) |
+| The Settlers II: Mission CD | 46971 | [46971-the-settlers-ii-mission-cd.json](./46971-the-settlers-ii-mission-cd.json) |
 | The Settlers II: Veni, Vidi, Vici | 2596 | [2596-the-settlers-ii-veni-vidi-vici.json](./2596-the-settlers-ii-veni-vidi-vici.json) |
 | The Settlers III | 3696 | [3696-the-settlers-iii.json](./3696-the-settlers-iii.json) |
 | The Settlers III: Gold Edition | 50291 | [50291-the-settlers-iii-gold-edition.json](./50291-the-settlers-iii-gold-edition.json) |
@@ -16774,6 +16778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ugly Christmas Sweater Game | 126995 | [126995-the-ugly-christmas-sweater-game.json](./126995-the-ugly-christmas-sweater-game.json) |
 | The Ugly Duckling | 206777 | [206777-the-ugly-duckling.json](./206777-the-ugly-duckling.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
+| The Ultima Collection | 46984 | [46984-the-ultima-collection.json](./46984-the-ultima-collection.json) |
 | The Ultimate 11: SNK Football Championship | 39537 | [39537-the-ultimate-11-snk-football-championship.json](./39537-the-ultimate-11-snk-football-championship.json) |
 | The Ultimate Adventure Games Pack Vol.1 | 96527 | [96527-the-ultimate-adventure-games-pack-vol-1.json](./96527-the-ultimate-adventure-games-pack-vol-1.json) |
 | The Ultimate Alphabet | 65946 | [65946-the-ultimate-alphabet.json](./65946-the-ultimate-alphabet.json) |
@@ -27286,6 +27291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trajes Fatais Minimal | 176844 | [176844-trajes-fatais-minimal.json](./176844-trajes-fatais-minimal.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
+| Traktor | 46958 | [46958-traktor.json](./46958-traktor.json) |
 | Tralalero Tralala Backrooms Pools | 344244 | [344244-tralalero-tralala-backrooms-pools.json](./344244-tralalero-tralala-backrooms-pools.json) |
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
 | Tralalero Tralala Jumper | 347497 | [347497-tralalero-tralala-jumper.json](./347497-tralalero-tralala-jumper.json) |
