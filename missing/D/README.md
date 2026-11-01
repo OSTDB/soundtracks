@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Vienna | 139784 | [139784-dark-city-vienna.json](./139784-dark-city-vienna.json) |
 | Dark City: Vienna - Collector's Edition | 123913 | [123913-dark-city-vienna-collectors-edition.json](./123913-dark-city-vienna-collectors-edition.json) |
 | Dark Cloud | 1214 | [1214-dark-cloud.json](./1214-dark-cloud.json) |
+| Dark Cloud 3 | 11806 | [11806-dark-cloud-3.json](./11806-dark-cloud-3.json) |
 | Dark Coffee | 418604 | [418604-dark-coffee.json](./418604-dark-coffee.json) |
 | Dark Colony: The Council Wars | 71369 | [71369-dark-colony-the-council-wars.json](./71369-dark-colony-the-council-wars.json) |
 | Dark Color | 289543 | [289543-dark-color.json](./289543-dark-color.json) |
