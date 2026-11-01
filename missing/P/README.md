@@ -14,6 +14,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-3 Biotic | 36257 | [36257-p-3-biotic.json](./36257-p-3-biotic.json) |
 | P-38 Lightning | 208986 | [208986-p-38-lightning.json](./208986-p-38-lightning.json) |
 | P-38 Lightning Tour of Duty | 197 | [197-p-38-lightning-tour-of-duty.json](./197-p-38-lightning-tour-of-duty.json) |
+| P-47 Aces | 39282 | [39282-p-47-aces.json](./39282-p-47-aces.json) |
+| P-47: The Phantom Fighter | 39281 | [39281-p-47-the-phantom-fighter.json](./39281-p-47-the-phantom-fighter.json) |
 | P-52 Sea Battle | 195050 | [195050-p-52-sea-battle.json](./195050-p-52-sea-battle.json) |
 | P-80 Shooting Star Tour of Duty | 198 | [198-p-80-shooting-star-tour-of-duty.json](./198-p-80-shooting-star-tour-of-duty.json) |
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
@@ -11903,6 +11905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Cranes: Container Age | 215331 | [215331-port-cranes-container-age.json](./215331-port-cranes-container-age.json) |
 | Port Glacia | 262167 | [262167-port-glacia.json](./262167-port-glacia.json) |
 | Port Logistics Simulator: Dockside Harbor Handling | 340524 | [340524-port-logistics-simulator-dockside-harbor-handling.json](./340524-port-logistics-simulator-dockside-harbor-handling.json) |
+| Port Man | 39310 | [39310-port-man.json](./39310-port-man.json) |
 | Port of Call | 35598 | [35598-port-of-call.json](./35598-port-of-call.json) |
 | Port of Jumanah | 304537 | [304537-port-of-jumanah.json](./304537-port-of-jumanah.json) |
 | Port of Mars | 256811 | [256811-port-of-mars.json](./256811-port-of-mars.json) |
