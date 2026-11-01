@@ -7862,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoboman | 255965 | [255965-hoboman.json](./255965-hoboman.json) |
 | Hobonichi Rozenzu | 80543 | [80543-hobonichi-rozenzu.json](./80543-hobonichi-rozenzu.json) |
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
+| Hoccer | 39311 | [39311-hoccer.json](./39311-hoccer.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
 | Hockey / Tennis | 380797 | [380797-hockey-tennis.json](./380797-hockey-tennis.json) |
@@ -11376,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper City Parkour | 371545 | [371545-hyper-city-parkour.json](./371545-hyper-city-parkour.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
+| Hyper Crash | 39290 | [39290-hyper-crash.json](./39290-hyper-crash.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Dash | 133736 | [133736-hyper-dash.json](./133736-hyper-dash.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
