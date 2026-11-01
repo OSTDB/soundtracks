@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
 | Hamster Logic 3D | 172355 | [172355-hamster-logic-3d.json](./172355-hamster-logic-3d.json) |
 | Hamster Mapster | 400521 | [400521-hamster-mapster.json](./400521-hamster-mapster.json) |
+| Hamster Monogatari | 57393 | [57393-hamster-monogatari.json](./57393-hamster-monogatari.json) |
 | Hamster Monogatari 2 GBA | 49591 | [49591-hamster-monogatari-2-gba.json](./49591-hamster-monogatari-2-gba.json) |
 | Hamster Monogatari 3 GBA | 49590 | [49590-hamster-monogatari-3-gba.json](./49590-hamster-monogatari-3-gba.json) |
 | Hamster Monogatari 3, 4, Special | 97817 | [97817-hamster-monogatari-3-4-special.json](./97817-hamster-monogatari-3-4-special.json) |
