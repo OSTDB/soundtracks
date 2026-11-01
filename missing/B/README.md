@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Bounce | 35698 | [35698-beach-bounce.json](./35698-beach-bounce.json) |
 | Beach Bounce Remastered | 22216 | [22216-beach-bounce-remastered.json](./22216-beach-bounce-remastered.json) |
 | Beach Bowling 3D | 66120 | [66120-beach-bowling-3d.json](./66120-beach-bowling-3d.json) |
+| Beach Bowling Dream VR | 30451 | [30451-beach-bowling-dream-vr.json](./30451-beach-bowling-dream-vr.json) |
 | Beach Boys 2: Zodiac Date | 283726 | [283726-beach-boys-2-zodiac-date.json](./283726-beach-boys-2-zodiac-date.json) |
 | Beach Boys 3: Zodiac Signs, Love & Horoscope Dating | 334091 | [334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json](./334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json) |
 | Beach Boys: The Perfect Date | 203708 | [203708-beach-boys-the-perfect-date.json](./203708-beach-boys-the-perfect-date.json) |
@@ -7559,6 +7560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Biomutant: Atomic Edition | 136313 | [136313-biomutant-atomic-edition.json](./136313-biomutant-atomic-edition.json) |
+| Biomutant: Collector's Edition | 30392 | [30392-biomutant-collectors-edition.json](./30392-biomutant-collectors-edition.json) |
 | Biomydra | 30749 | [30749-biomydra.json](./30749-biomydra.json) |
 | Bion Clash | 361009 | [361009-bion-clash.json](./361009-bion-clash.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
@@ -8507,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Submarine: Deep Seek | 312208 | [312208-black-submarine-deep-seek.json](./312208-black-submarine-deep-seek.json) |
 | Black Sun | 380004 | [380004-black-sun.json](./380004-black-sun.json) |
 | Black Survival: Return to Lumia | 282115 | [282115-black-survival-return-to-lumia.json](./282115-black-survival-return-to-lumia.json) |
+| Black Swan | 30395 | [30395-black-swan.json](./30395-black-swan.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black the Fall | 17555 | [17555-black-the-fall.json](./17555-black-the-fall.json) |
 | Black Thunder | 13816 | [13816-black-thunder.json](./13816-black-thunder.json) |
@@ -14644,6 +14647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Betrayal | 190921 | [190921-broken-betrayal.json](./190921-broken-betrayal.json) |
 | Broken Bird: Spread Your Wings | 210320 | [210320-broken-bird-spread-your-wings.json](./210320-broken-bird-spread-your-wings.json) |
 | Broken Blades | 152787 | [152787-broken-blades.json](./152787-broken-blades.json) |
+| Broken Blue | 30404 | [30404-broken-blue.json](./30404-broken-blue.json) |
 | Broken Bots | 19681 | [19681-broken-bots.json](./19681-broken-bots.json) |
 | Broken Boughs | 218993 | [218993-broken-boughs.json](./218993-broken-boughs.json) |
 | Broken Brothers | 146475 | [146475-broken-brothers.json](./146475-broken-brothers.json) |
@@ -15756,6 +15760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building the Universe | 132402 | [132402-building-the-universe.json](./132402-building-the-universe.json) |
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
 | Buildmark | 148942 | [148942-buildmark.json](./148942-buildmark.json) |
+| BuildMoreCubes | 30470 | [30470-buildmorecubes.json](./30470-buildmorecubes.json) |
 | BuildNow GG | 333186 | [333186-buildnow-gg.json](./333186-buildnow-gg.json) |
 | Buildo Rescue | 114669 | [114669-buildo-rescue.json](./114669-buildo-rescue.json) |
 | Buildodge | 148830 | [148830-buildodge.json](./148830-buildodge.json) |
