@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Tarium: Awakening from the Ashes | 213538 | [213538-tales-of-tarium-awakening-from-the-ashes.json](./213538-tales-of-tarium-awakening-from-the-ashes.json) |
 | Tales of Terazul | 98187 | [98187-tales-of-terazul.json](./98187-tales-of-terazul.json) |
 | Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
+| Tales of Terror: Crimson Dawn | 29434 | [29434-tales-of-terror-crimson-dawn.json](./29434-tales-of-terror-crimson-dawn.json) |
 | Tales of Terror: Estate of the Heart | 19209 | [19209-tales-of-terror-estate-of-the-heart.json](./19209-tales-of-terror-estate-of-the-heart.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | Tankorama | 115943 | [115943-tankorama.json](./115943-tankorama.json) |
 | TankOre Mining | 333030 | [333030-tankore-mining.json](./333030-tankore-mining.json) |
+| Tankout | 29432 | [29432-tankout.json](./29432-tankout.json) |
 | Tankr.io Realtime Battle | 107548 | [107548-tankr-io-realtime-battle.json](./107548-tankr-io-realtime-battle.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
@@ -9798,6 +9800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart's Illumination | 134859 | [134859-the-hearts-illumination.json](./134859-the-hearts-illumination.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Hearth and Harbour | 366973 | [366973-the-hearth-and-harbour.json](./366973-the-hearth-and-harbour.json) |
+| The Heartland Saga | 29427 | [29427-the-heartland-saga.json](./29427-the-heartland-saga.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
 | The Heat of War | 168596 | [168596-the-heat-of-war.json](./168596-the-heat-of-war.json) |
 | The Heaven | 346207 | [346207-the-heaven.json](./346207-the-heaven.json) |
