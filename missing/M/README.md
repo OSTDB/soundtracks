@@ -9094,6 +9094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
 | Metamorphosis | 333893 | [333893-metamorphosis.json](./333893-metamorphosis.json) |
 | Metamorphosis Collection | 346801 | [346801-metamorphosis-collection.json](./346801-metamorphosis-collection.json) |
+| Metamorphosiser | 56808 | [56808-metamorphosiser.json](./56808-metamorphosiser.json) |
 | Metanet Hunter CD | 29612 | [29612-metanet-hunter-cd.json](./29612-metanet-hunter-cd.json) |
 | Metanet Hunter G4 | 382955 | [382955-metanet-hunter-g4.json](./382955-metanet-hunter-g4.json) |
 | Metaneurosis | 337286 | [337286-metaneurosis.json](./337286-metaneurosis.json) |
@@ -11622,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
 | Mini Golf | 209507 | [209507-mini-golf.json](./209507-mini-golf.json) |
 | Mini Golf | 246469 | [246469-mini-golf.json](./246469-mini-golf.json) |
+| Mini Golf | 56823 | [56823-mini-golf.json](./56823-mini-golf.json) |
 | Mini Golf & Pool Bundle | 231040 | [231040-mini-golf-and-pool-bundle.json](./231040-mini-golf-and-pool-bundle.json) |
 | Mini Golf 18 | 106515 | [106515-mini-golf-18.json](./106515-mini-golf-18.json) |
 | Mini Golf 2003 | 79593 | [79593-mini-golf-2003.json](./79593-mini-golf-2003.json) |
