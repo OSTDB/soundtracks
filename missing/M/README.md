@@ -5496,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10678,6 +10679,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
 | MikroGame: Rotator | 84635 | [84635-mikrogame-rotator.json](./84635-mikrogame-rotator.json) |
 | Miku Chan's Robot | 277400 | [277400-miku-chans-robot.json](./277400-miku-chans-robot.json) |
+| Miku Flick | 11769 | [11769-miku-flick.json](./11769-miku-flick.json) |
+| Miku Flick/02 | 11770 | [11770-miku-flick-02.json](./11770-miku-flick-02.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
 | Miku Miku Hockey 2.0 | 365125 | [365125-miku-miku-hockey-2-0.json](./365125-miku-miku-hockey-2-0.json) |
@@ -18279,9 +18282,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
 | Muv-Luv / Muv-Luv Alternative Remastered Double Pack | 308624 | [308624-muv-luv-muv-luv-alternative-remastered-double-pack.json](./308624-muv-luv-muv-luv-alternative-remastered-double-pack.json) |
 | Muv-Luv Alternative Remastered | 308622 | [308622-muv-luv-alternative-remastered.json](./308622-muv-luv-alternative-remastered.json) |
+| Muv-Luv Alternative: Total Eclipse | 11799 | [11799-muv-luv-alternative-total-eclipse.json](./11799-muv-luv-alternative-total-eclipse.json) |
 | Muv-Luv Complete Set: Collector's Edition | 89569 | [89569-muv-luv-complete-set-collectors-edition.json](./89569-muv-luv-complete-set-collectors-edition.json) |
 | Muv-Luv Integrate | 154845 | [154845-muv-luv-integrate.json](./154845-muv-luv-integrate.json) |
 | Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
+| Muv-Luv Photonmelodies | 11801 | [11801-muv-luv-photonmelodies.json](./11801-muv-luv-photonmelodies.json) |
 | Muv-Luv Remastered | 308623 | [308623-muv-luv-remastered.json](./308623-muv-luv-remastered.json) |
 | Muv-Luv Resonative | 154844 | [154844-muv-luv-resonative.json](./154844-muv-luv-resonative.json) |
 | Muv-Luv Supplement | 321204 | [321204-muv-luv-supplement.json](./321204-muv-luv-supplement.json) |
