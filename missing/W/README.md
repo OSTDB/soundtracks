@@ -7298,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Boxing Manager 2 | 200931 | [200931-world-championship-boxing-manager-2.json](./200931-world-championship-boxing-manager-2.json) |
 | World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
 | World Championship Games: A Track & Field Event | 205878 | [205878-world-championship-games-a-track-and-field-event.json](./205878-world-championship-games-a-track-and-field-event.json) |
+| World Championship Off Road Racing | 42968 | [42968-world-championship-off-road-racing.json](./42968-world-championship-off-road-racing.json) |
 | World Championship Paintball | 205879 | [205879-world-championship-paintball.json](./205879-world-championship-paintball.json) |
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Championship Poker | 6237 | [6237-world-championship-poker.json](./6237-world-championship-poker.json) |
