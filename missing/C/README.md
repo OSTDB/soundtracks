@@ -11945,6 +11945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
 | Commando | 306409 | [306409-commando.json](./306409-commando.json) |
 | Commando | 310110 | [310110-commando.json](./310110-commando.json) |
+| Commando | 5668 | [5668-commando.json](./5668-commando.json) |
 | Commando 2 | 85900 | [85900-commando-2.json](./85900-commando-2.json) |
 | Commando 3 | 335477 | [335477-commando-3.json](./335477-commando-3.json) |
 | Commando Assault | 335476 | [335476-commando-assault.json](./335476-commando-assault.json) |
@@ -17935,6 +17936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
+| Cultist Simulator | 26878 | [26878-cultist-simulator.json](./26878-cultist-simulator.json) |
 | Cultist Simulator: Anthology Edition | 117948 | [117948-cultist-simulator-anthology-edition.json](./117948-cultist-simulator-anthology-edition.json) |
 | Cultist Simulator: Initiate Edition | 142313 | [142313-cultist-simulator-initiate-edition.json](./142313-cultist-simulator-initiate-edition.json) |
 | Cultist Simulator: The Lady Afterwards | 196087 | [196087-cultist-simulator-the-lady-afterwards.json](./196087-cultist-simulator-the-lady-afterwards.json) |
