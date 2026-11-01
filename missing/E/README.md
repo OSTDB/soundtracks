@@ -6028,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Front Remastered | 357399 | [357399-europe-front-remastered.json](./357399-europe-front-remastered.json) |
 | Europe Geography | 228290 | [228290-europe-geography.json](./228290-europe-geography.json) |
 | Europe Heatwave Simulator | 409396 | [409396-europe-heatwave-simulator.json](./409396-europe-heatwave-simulator.json) |
+| Europe Racer | 16967 | [16967-europe-racer.json](./16967-europe-racer.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
 | European 5-A-Side | 92935 | [92935-european-5-a-side.json](./92935-european-5-a-side.json) |
 | European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
@@ -7170,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
 | Exodus of Souls | 217161 | [217161-exodus-of-souls.json](./217161-exodus-of-souls.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
+| Exodus Wars: Fractured Empire | 17336 | [17336-exodus-wars-fractured-empire.json](./17336-exodus-wars-fractured-empire.json) |
 | Exodus: Journey to the Promised Land | 11164 | [11164-exodus-journey-to-the-promised-land.json](./11164-exodus-journey-to-the-promised-land.json) |
 | Exodus: Proxima Centauri | 106323 | [106323-exodus-proxima-centauri.json](./106323-exodus-proxima-centauri.json) |
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
