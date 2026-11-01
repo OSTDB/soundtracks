@@ -5776,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chased by Darkness | 147622 | [147622-chased-by-darkness.json](./147622-chased-by-darkness.json) |
 | Chased by Nightmares | 386537 | [386537-chased-by-nightmares.json](./386537-chased-by-nightmares.json) |
+| Chaser | 11272 | [11272-chaser.json](./11272-chaser.json) |
 | Chaser | 242694 | [242694-chaser.json](./242694-chaser.json) |
 | Chaser | 345950 | [345950-chaser.json](./345950-chaser.json) |
 | Chaser | 380072 | [380072-chaser.json](./380072-chaser.json) |
