@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
 | Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
+| Bang-On Balls: Chronicles | 143882 | [143882-bang-on-balls-chronicles.json](./143882-bang-on-balls-chronicles.json) |
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
 | Bang, Boom, Splat! | 266369 | [266369-bang-boom-splat.json](./266369-bang-boom-splat.json) |
 | Bang! | 110037 | [110037-bang.json](./110037-bang.json) |
@@ -3219,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batography | 323007 | [323007-batography.json](./323007-batography.json) |
 | Batomon Showdown | 398645 | [398645-batomon-showdown.json](./398645-batomon-showdown.json) |
 | Batoni | 216123 | [216123-batoni.json](./216123-batoni.json) |
+| Batora: Lost Haven | 142900 | [142900-batora-lost-haven.json](./142900-batora-lost-haven.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
 | BATS: Bloodsucker Anti-Terror Squad | 154312 | [154312-bats-bloodsucker-anti-terror-squad.json](./154312-bats-bloodsucker-anti-terror-squad.json) |
@@ -4792,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts of Bermuda: Velociraptor Supporter Warpaint | 379577 | [379577-beasts-of-bermuda-velociraptor-supporter-warpaint.json](./379577-beasts-of-bermuda-velociraptor-supporter-warpaint.json) |
 | Beasts of Fortune | 352255 | [352255-beasts-of-fortune.json](./352255-beasts-of-fortune.json) |
 | Beasts of Horror | 265940 | [265940-beasts-of-horror.json](./265940-beasts-of-horror.json) |
+| Beasts of Maravilla Island | 141740 | [141740-beasts-of-maravilla-island.json](./141740-beasts-of-maravilla-island.json) |
 | Beasts of Merit | 211091 | [211091-beasts-of-merit.json](./211091-beasts-of-merit.json) |
 | Beasts of Mystery | 371447 | [371447-beasts-of-mystery.json](./371447-beasts-of-mystery.json) |
 | Beasts of Prey | 17382 | [17382-beasts-of-prey.json](./17382-beasts-of-prey.json) |
