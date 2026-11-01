@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabula Rasa | 21525 | [21525-tabula-rasa.json](./21525-tabula-rasa.json) |
 | Tabula Sono | 219563 | [219563-tabula-sono.json](./219563-tabula-sono.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
+| Tac Tiles | 38057 | [38057-tac-tiles.json](./38057-tac-tiles.json) |
 | Tac-Scan | 18667 | [18667-tac-scan.json](./18667-tac-scan.json) |
 | TAC: Tactical Armor Command | 23969 | [23969-tac-tactical-armor-command.json](./23969-tac-tactical-armor-command.json) |
 | Tacape | 185033 | [185033-tacape.json](./185033-tacape.json) |
@@ -5073,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Addams Family: Pugsley's Scavenger Hunt | 264996 | [264996-the-addams-family-pugsleys-scavenger-hunt.json](./264996-the-addams-family-pugsleys-scavenger-hunt.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
+| The Adliberum Engine | 38043 | [38043-the-adliberum-engine.json](./38043-the-adliberum-engine.json) |
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
 | The Admin | 34008 | [34008-the-admin.json](./34008-the-admin.json) |
 | The Adventure Ball | 349231 | [349231-the-adventure-ball.json](./349231-the-adventure-ball.json) |
@@ -7762,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diving Bell | 391881 | [391881-the-diving-bell.json](./391881-the-diving-bell.json) |
 | The Division 2: Mutiny | 381569 | [381569-the-division-2-mutiny.json](./381569-the-division-2-mutiny.json) |
 | The Division 2: Warlords of New York - Year 5 Season 1: Broken Wings | 276774 | [276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json](./276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json) |
+| The Dizzy Collection | 38050 | [38050-the-dizzy-collection.json](./38050-the-dizzy-collection.json) |
 | The DJ-ROM: Da CD-Extra of Hip-Hop Music | 281294 | [281294-the-dj-rom-da-cd-extra-of-hip-hop-music.json](./281294-the-dj-rom-da-cd-extra-of-hip-hop-music.json) |
 | The DOCS: Department of Creatures | 129648 | [129648-the-docs-department-of-creatures.json](./129648-the-docs-department-of-creatures.json) |
 | The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
@@ -18984,6 +18987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust | 12967 | [12967-thrust.json](./12967-thrust.json) |
 | Thrust & Shoot: Flight School | 51554 | [51554-thrust-and-shoot-flight-school.json](./51554-thrust-and-shoot-flight-school.json) |
 | Thrust Fall | 351577 | [351577-thrust-fall.json](./351577-thrust-fall.json) |
+| Thrust II | 38034 | [38034-thrust-ii.json](./38034-thrust-ii.json) |
 | Thrust Issues | 382329 | [382329-thrust-issues.json](./382329-thrust-issues.json) |
 | Thrust Legend | 158151 | [158151-thrust-legend.json](./158151-thrust-legend.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
@@ -22539,6 +22543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
 | Toilet Hero | 352148 | [352148-toilet-hero.json](./352148-toilet-hero.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
+| Toilet Kids | 38072 | [38072-toilet-kids.json](./38072-toilet-kids.json) |
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
 | Toilet Ninjas | 129963 | [129963-toilet-ninjas.json](./129963-toilet-ninjas.json) |
 | Toilet of the Gods | 140874 | [140874-toilet-of-the-gods.json](./140874-toilet-of-the-gods.json) |
@@ -25296,6 +25301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
 | Toy Party: Match 3 Hexa Blast! | 99920 | [99920-toy-party-match-3-hexa-blast.json](./99920-toy-party-match-3-hexa-blast.json) |
+| Toy Pop | 38037 | [38037-toy-pop.json](./38037-toy-pop.json) |
 | Toy Racer | 46369 | [46369-toy-racer.json](./46369-toy-racer.json) |
 | Toy Raid | 68254 | [68254-toy-raid.json](./68254-toy-raid.json) |
 | Toy Road Constructor | 111601 | [111601-toy-road-constructor.json](./111601-toy-road-constructor.json) |
