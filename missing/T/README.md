@@ -4669,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
 | Tetris: The Absolute - The Grand Master 2 | 25023 | [25023-tetris-the-absolute-the-grand-master-2.json](./25023-tetris-the-absolute-the-grand-master-2.json) |
+| Tetris: The Absolute - The Grand Master 2 Plus | 28455 | [28455-tetris-the-absolute-the-grand-master-2-plus.json](./28455-tetris-the-absolute-the-grand-master-2-plus.json) |
 | Tetris: The Grand Master | 25022 | [25022-tetris-the-grand-master.json](./25022-tetris-the-grand-master.json) |
 | Tetris: The Grand Master 3 - Terror‑Instinct | 25024 | [25024-tetris-the-grand-master-3-terror-instinct.json](./25024-tetris-the-grand-master-3-terror-instinct.json) |
 | Tetris: The Grand Master 4 - The Masters of Round | 25026 | [25026-tetris-the-grand-master-4-the-masters-of-round.json](./25026-tetris-the-grand-master-4-the-masters-of-round.json) |
@@ -5503,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquatic Messenger | 212118 | [212118-the-aquatic-messenger.json](./212118-the-aquatic-messenger.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
 | The Arab Republic of Taghia | 125681 | [125681-the-arab-republic-of-taghia.json](./125681-the-arab-republic-of-taghia.json) |
+| The Arc of Yesod | 28437 | [28437-the-arc-of-yesod.json](./28437-the-arc-of-yesod.json) |
 | The Arcade Machine | 21836 | [21836-the-arcade-machine.json](./21836-the-arcade-machine.json) |
 | The Arcade Tower | 194373 | [194373-the-arcade-tower.json](./194373-the-arcade-tower.json) |
 | The Arcadia of Wulin | 155346 | [155346-the-arcadia-of-wulin.json](./155346-the-arcadia-of-wulin.json) |
@@ -9585,6 +9587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
 | The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
+| The Greatest Hero | 28459 | [28459-the-greatest-hero.json](./28459-the-greatest-hero.json) |
 | The Greatest Survival | 176149 | [176149-the-greatest-survival.json](./176149-the-greatest-survival.json) |
 | The Greedy Cave 2: Time Gate | 208123 | [208123-the-greedy-cave-2-time-gate.json](./208123-the-greedy-cave-2-time-gate.json) |
 | The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
@@ -9639,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
 | The Groundz | 176086 | [176086-the-groundz.json](./176086-the-groundz.json) |
 | The Grove | 402113 | [402113-the-grove.json](./402113-the-grove.json) |
+| The Growing Pains of Adrian Mole | 28439 | [28439-the-growing-pains-of-adrian-mole.json](./28439-the-growing-pains-of-adrian-mole.json) |
 | The Grown-Up Detective Agency | 220560 | [220560-the-grown-up-detective-agency.json](./220560-the-grown-up-detective-agency.json) |
 | The Growth Journey | 34094 | [34094-the-growth-journey.json](./34094-the-growth-journey.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
@@ -13948,6 +13952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price Is Right Bingo | 83397 | [83397-the-price-is-right-bingo.json](./83397-the-price-is-right-bingo.json) |
 | The Price Is Right: 2010 Edition | 394690 | [394690-the-price-is-right-2010-edition.json](./394690-the-price-is-right-2010-edition.json) |
 | The Price is Right: Decades | 20213 | [20213-the-price-is-right-decades.json](./20213-the-price-is-right-decades.json) |
+| The Price of Magik | 28458 | [28458-the-price-of-magik.json](./28458-the-price-of-magik.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
 | The Primitive | 392334 | [392334-the-primitive.json](./392334-the-primitive.json) |
@@ -24722,6 +24727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touki Denshou Angel Eyes | 91788 | [91788-touki-denshou-angel-eyes.json](./91788-touki-denshou-angel-eyes.json) |
 | Touki Kyouka | 82490 | [82490-touki-kyouka.json](./82490-touki-kyouka.json) |
 | Toukiden 2 | 26500 | [26500-toukiden-2.json](./26500-toukiden-2.json) |
+| Toukiden 2: Free Alliances Version | 28444 | [28444-toukiden-2-free-alliances-version.json](./28444-toukiden-2-free-alliances-version.json) |
 | Toukiden 2: Limited Edition | 167086 | [167086-toukiden-2-limited-edition.json](./167086-toukiden-2-limited-edition.json) |
 | Toukiden 2: Mission Collection Set 1 | 167916 | [167916-toukiden-2-mission-collection-set-1.json](./167916-toukiden-2-mission-collection-set-1.json) |
 | Toukiden 2: Mission Collection Set 2 | 167919 | [167919-toukiden-2-mission-collection-set-2.json](./167919-toukiden-2-mission-collection-set-2.json) |
