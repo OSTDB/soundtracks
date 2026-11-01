@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Mutation Nation | 99477 | [99477-aca-neo-geo-mutation-nation.json](./99477-aca-neo-geo-mutation-nation.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Neo Geo Cup '98 - The Road to the Victory | 118573 | [118573-aca-neo-geo-neo-geo-cup-98-the-road-to-the-victory.json](./118573-aca-neo-geo-neo-geo-cup-98-the-road-to-the-victory.json) |
+| ACA Neo Geo: Neo Turf Master | 28451 | [28451-aca-neo-geo-neo-turf-master.json](./28451-aca-neo-geo-neo-turf-master.json) |
 | ACA Neo Geo: Ninja Combat | 103852 | [103852-aca-neo-geo-ninja-combat.json](./103852-aca-neo-geo-ninja-combat.json) |
 | ACA Neo Geo: Ninja Commando | 109235 | [109235-aca-neo-geo-ninja-commando.json](./109235-aca-neo-geo-ninja-commando.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
@@ -2183,9 +2184,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
 | ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
+| ACA Neo Geo: Waku Waku 7 | 28416 | [28416-aca-neo-geo-waku-waku-7.json](./28416-aca-neo-geo-waku-waku-7.json) |
 | ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
 | ACA Neo Geo: World Heroes 2 | 99740 | [99740-aca-neo-geo-world-heroes-2.json](./99740-aca-neo-geo-world-heroes-2.json) |
 | ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
+| ACA Neo Geo: World Heroes Perfect | 28418 | [28418-aca-neo-geo-world-heroes-perfect.json](./28418-aca-neo-geo-world-heroes-perfect.json) |
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
 | ACA NeoGeo Selection Vol. 10 | 376475 | [376475-aca-neogeo-selection-vol-10.json](./376475-aca-neogeo-selection-vol-10.json) |
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
@@ -11734,6 +11737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Spirits: The New Challengers | 145278 | [145278-arcade-spirits-the-new-challengers.json](./145278-arcade-spirits-the-new-challengers.json) |
 | Arcade Sports | 51093 | [51093-arcade-sports.json](./51093-arcade-sports.json) |
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
+| Arcade Style Bot Ball Shooting Multiplayer Game | 28462 | [28462-arcade-style-bot-ball-shooting-multiplayer-game.json](./28462-arcade-style-bot-ball-shooting-multiplayer-game.json) |
 | Arcade Sundown | 270738 | [270738-arcade-sundown.json](./270738-arcade-sundown.json) |
 | Arcade Tale | 28902 | [28902-arcade-tale.json](./28902-arcade-tale.json) |
 | Arcade Tanks World II: Tank Battle Simulator | 319786 | [319786-arcade-tanks-world-ii-tank-battle-simulator.json](./319786-arcade-tanks-world-ii-tank-battle-simulator.json) |
@@ -15525,6 +15529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
 | Attack of the Killer Swarm | 78922 | [78922-attack-of-the-killer-swarm.json](./78922-attack-of-the-killer-swarm.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
+| Attack of the Killer Tomatoes | 28435 | [28435-attack-of-the-killer-tomatoes.json](./28435-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
 | Attack of the Labyrinth + | 35539 | [35539-attack-of-the-labyrinth.json](./35539-attack-of-the-labyrinth.json) |
 | Attack of the Mechadonk: The Ultimate Donkey | 173200 | [173200-attack-of-the-mechadonk-the-ultimate-donkey.json](./173200-attack-of-the-mechadonk-the-ultimate-donkey.json) |
@@ -16568,6 +16573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awkward Family Dinners With Furry Critters | 388529 | [388529-awkward-family-dinners-with-furry-critters.json](./388529-awkward-family-dinners-with-furry-critters.json) |
 | Awkward Girls | 149421 | [149421-awkward-girls.json](./149421-awkward-girls.json) |
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
+| Awkward Todd | 28448 | [28448-awkward-todd.json](./28448-awkward-todd.json) |
 | Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
 | Awoken: Chapter One of Reverie | 168849 | [168849-awoken-chapter-one-of-reverie.json](./168849-awoken-chapter-one-of-reverie.json) |
 | Awol Ahab | 180115 | [180115-awol-ahab.json](./180115-awol-ahab.json) |
