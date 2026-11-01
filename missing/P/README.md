@@ -17095,6 +17095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle:Traditional Chinese Paintings | 108395 | [108395-puzzle-traditional-chinese-paintings.json](./108395-puzzle-traditional-chinese-paintings.json) |
 | Puzzle! Animals | 100025 | [100025-puzzle-animals.json](./100025-puzzle-animals.json) |
 | Puzzle! Mushihimetama | 66102 | [66102-puzzle-mushihimetama.json](./66102-puzzle-mushihimetama.json) |
+| Puzzle'n Desu! | 42325 | [42325-puzzlen-desu.json](./42325-puzzlen-desu.json) |
 | Puzzlebot | 185294 | [185294-puzzlebot.json](./185294-puzzlebot.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | PuzzleCore | 404535 | [404535-puzzlecore.json](./404535-puzzlecore.json) |
