@@ -7791,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shingata Medarot: Kuwagata Version | 49822 | [49822-shingata-medarot-kuwagata-version.json](./49822-shingata-medarot-kuwagata-version.json) |
 | Shingeki no Kyojin Banda Attack on Typing | 55820 | [55820-shingeki-no-kyojin-banda-attack-on-typing.json](./55820-shingeki-no-kyojin-banda-attack-on-typing.json) |
 | Shingeki no Kyojin: Jiyuu he no Houkou | 84196 | [84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json](./84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json) |
+| Shingeki no Kyojin: Shichi Kara no Dasshutsu | 27196 | [27196-shingeki-no-kyojin-shichi-kara-no-dasshutsu.json](./27196-shingeki-no-kyojin-shichi-kara-no-dasshutsu.json) |
 | Shingeki No Unity Chan | 297634 | [297634-shingeki-no-unity-chan.json](./297634-shingeki-no-unity-chan.json) |
 | Shingen Samurai-Fighter | 154757 | [154757-shingen-samurai-fighter.json](./154757-shingen-samurai-fighter.json) |
 | Shingen the Ruler | 48085 | [48085-shingen-the-ruler.json](./48085-shingen-the-ruler.json) |
@@ -10595,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner's Verdict | 381649 | [381649-sinners-verdict.json](./381649-sinners-verdict.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sinners Landing: Bane of Passion | 401889 | [401889-sinners-landing-bane-of-passion.json](./401889-sinners-landing-bane-of-passion.json) |
+| SinoAlice | 27209 | [27209-sinoalice.json](./27209-sinoalice.json) |
 | Sinoda | 363324 | [363324-sinoda.json](./363324-sinoda.json) |
 | Sinoepoch | 197135 | [197135-sinoepoch.json](./197135-sinoepoch.json) |
 | Sinoven | 235714 | [235714-sinoven.json](./235714-sinoven.json) |
@@ -18079,7 +18081,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23221,6 +23222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlost: Space Shooter | 219949 | [219949-starlost-space-shooter.json](./219949-starlost-space-shooter.json) |
 | Starlynx | 177942 | [177942-starlynx.json](./177942-starlynx.json) |
 | Starmade | 9552 | [9552-starmade.json](./9552-starmade.json) |
+| Starmageddon 2 | 27251 | [27251-starmageddon-2.json](./27251-starmageddon-2.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
 | StarMaker VR | 220501 | [220501-starmaker-vr.json](./220501-starmaker-vr.json) |
@@ -29990,6 +29992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pixel Maker | 181758 | [181758-super-pixel-maker.json](./181758-super-pixel-maker.json) |
 | Super Pixel Merge Balls | 293502 | [293502-super-pixel-merge-balls.json](./293502-super-pixel-merge-balls.json) |
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
+| Super Pixel Smash | 27179 | [27179-super-pixel-smash.json](./27179-super-pixel-smash.json) |
 | Super Pixel World | 149829 | [149829-super-pixel-world.json](./149829-super-pixel-world.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
