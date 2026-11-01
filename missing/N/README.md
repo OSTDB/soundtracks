@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Clowns | 40993 | [40993-ninja-clowns.json](./40993-ninja-clowns.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
 | Ninja Commando | 138089 | [138089-ninja-commando.json](./138089-ninja-commando.json) |
+| Ninja Commando | 39951 | [39951-ninja-commando.json](./39951-ninja-commando.json) |
 | Ninja Cop Saizou | 215137 | [215137-ninja-cop-saizou.json](./215137-ninja-cop-saizou.json) |
 | Ninja Crash | 51653 | [51653-ninja-crash.json](./51653-ninja-crash.json) |
 | Ninja Dash | 104000 | [104000-ninja-dash.json](./104000-ninja-dash.json) |
@@ -6892,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Num Yumms | 252143 | [252143-num-yumms.json](./252143-num-yumms.json) |
 | Num-Sama | 270561 | [270561-num-sama.json](./270561-num-sama.json) |
 | Numachina | 350412 | [350412-numachina.json](./350412-numachina.json) |
+| Numan Athletics | 39966 | [39966-numan-athletics.json](./39966-numan-athletics.json) |
 | Numantia | 73075 | [73075-numantia.json](./73075-numantia.json) |
 | Numanuin | 235364 | [235364-numanuin.json](./235364-numanuin.json) |
 | Numb Nimbus | 271183 | [271183-numb-nimbus.json](./271183-numb-nimbus.json) |
