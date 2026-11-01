@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgaminion | 244920 | [244920-backgaminion.json](./244920-backgaminion.json) |
 | Backgammon | 131512 | [131512-backgammon.json](./131512-backgammon.json) |
 | Backgammon | 14280 | [14280-backgammon.json](./14280-backgammon.json) |
+| Backgammon | 15204 | [15204-backgammon.json](./15204-backgammon.json) |
 | Backgammon | 152338 | [152338-backgammon.json](./152338-backgammon.json) |
 | Backgammon | 15656 | [15656-backgammon.json](./15656-backgammon.json) |
 | Backgammon | 17254 | [17254-backgammon.json](./17254-backgammon.json) |
@@ -14423,6 +14424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge of Doom | 420188 | [420188-bridge-of-doom.json](./420188-bridge-of-doom.json) |
 | Bridge Olympiad | 71382 | [71382-bridge-olympiad.json](./71382-bridge-olympiad.json) |
 | Bridge Player | 13443 | [13443-bridge-player.json](./13443-bridge-player.json) |
+| Bridge Player 2000 with Tutor | 15205 | [15205-bridge-player-2000-with-tutor.json](./15205-bridge-player-2000-with-tutor.json) |
 | Bridge Player 3 | 13442 | [13442-bridge-player-3.json](./13442-bridge-player-3.json) |
 | Bridge Quest | 280715 | [280715-bridge-quest.json](./280715-bridge-quest.json) |
 | Bridge Race | 229877 | [229877-bridge-race.json](./229877-bridge-race.json) |
