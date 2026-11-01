@@ -2782,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius: Biology | 70769 | [70769-genius-biology.json](./70769-genius-biology.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
+| Genix Family | 38654 | [38654-genix-family.json](./38654-genix-family.json) |
 | Genji Koi Emaki | 130010 | [130010-genji-koi-emaki.json](./130010-genji-koi-emaki.json) |
 | Genji Reincarnation: The Seven Mysteries of Shirahata High | 391540 | [391540-genji-reincarnation-the-seven-mysteries-of-shirahata-high.json](./391540-genji-reincarnation-the-seven-mysteries-of-shirahata-high.json) |
 | Genji: Dawn of the Samurai | 14407 | [14407-genji-dawn-of-the-samurai.json](./14407-genji-dawn-of-the-samurai.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensei Torimonocho | 263680 | [263680-gensei-torimonocho.json](./263680-gensei-torimonocho.json) |
 | Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
 | Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
+| Genshi Tou 1930's | 38653 | [38653-genshi-tou-1930s.json](./38653-genshi-tou-1930s.json) |
 | Genshin Impact: A Dance of Snowy Tides and Hoarfrost Groves | 356546 | [356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json](./356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json) |
 | Genshin Impact: A New Star Approaches | 256960 | [256960-genshin-impact-a-new-star-approaches.json](./256960-genshin-impact-a-new-star-approaches.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
@@ -2944,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GEO Master | 33353 | [33353-geo-master.json](./33353-geo-master.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
 | Geo Puzzle | 47888 | [47888-geo-puzzle.json](./47888-geo-puzzle.json) |
+| Geo Storm | 38652 | [38652-geo-storm.json](./38652-geo-storm.json) |
 | GEO Wunder Natur Puzzle: Echter Puzzlespass für Unterwegs | 252661 | [252661-geo-wunder-natur-puzzle-echter-puzzlespass-fur-unterwegs.json](./252661-geo-wunder-natur-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Geo-Deux | 340297 | [340297-geo-deux.json](./340297-geo-deux.json) |
 | Geo-Duck | 165078 | [165078-geo-duck.json](./165078-geo-duck.json) |
@@ -3510,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Mission | 256425 | [256425-ghost-mission.json](./256425-ghost-mission.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
 | Ghost Mountain Roller Coaster | 157360 | [157360-ghost-mountain-roller-coaster.json](./157360-ghost-mountain-roller-coaster.json) |
+| Ghost Muncher | 38649 | [38649-ghost-muncher.json](./38649-ghost-muncher.json) |
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
 | Ghost Ninja: Zombie Beatdown | 401311 | [401311-ghost-ninja-zombie-beatdown.json](./401311-ghost-ninja-zombie-beatdown.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
@@ -3941,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigachomp | 421844 | [421844-gigachomp.json](./421844-gigachomp.json) |
 | Gigacrab: Getting Over The Meme | 330123 | [330123-gigacrab-getting-over-the-meme.json](./330123-gigacrab-getting-over-the-meme.json) |
 | Gigadyne Voltraid | 413721 | [413721-gigadyne-voltraid.json](./413721-gigadyne-voltraid.json) |
+| Gigandes | 38648 | [38648-gigandes.json](./38648-gigandes.json) |
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
 | Gigantes Ex Machina | 360052 | [360052-gigantes-ex-machina.json](./360052-gigantes-ex-machina.json) |
 | Gigantic | 11134 | [11134-gigantic.json](./11134-gigantic.json) |
@@ -4025,10 +4030,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Force | 7810 | [7810-ginga-force.json](./7810-ginga-force.json) |
 | Ginga Fukei Densetsu Sapphire | 37613 | [37613-ginga-fukei-densetsu-sapphire.json](./37613-ginga-fukei-densetsu-sapphire.json) |
 | Ginga Kagekidan | 121391 | [121391-ginga-kagekidan.json](./121391-ginga-kagekidan.json) |
+| Ginga Ninkyouden | 38647 | [38647-ginga-ninkyouden.json](./38647-ginga-ninkyouden.json) |
 | Ginga no San-nin | 48503 | [48503-ginga-no-san-nin.json](./48503-ginga-no-san-nin.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
 | Ginga Tetsudou no Tabi | 398408 | [398408-ginga-tetsudou-no-tabi.json](./398408-ginga-tetsudou-no-tabi.json) |
 | Gingar Ail | 295847 | [295847-gingar-ail.json](./295847-gingar-ail.json) |
+| Gingateikoku No Gyakushu | 38646 | [38646-gingateikoku-no-gyakushu.json](./38646-gingateikoku-no-gyakushu.json) |
 | Ginger | 328946 | [328946-ginger.json](./328946-ginger.json) |
 | Ginger Rangers | 120233 | [120233-ginger-rangers.json](./120233-ginger-rangers.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
@@ -4345,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator | 320853 | [320853-gladiator.json](./320853-gladiator.json) |
 | Gladiator | 401715 | [401715-gladiator.json](./401715-gladiator.json) |
 | Gladiator | 401718 | [401718-gladiator.json](./401718-gladiator.json) |
+| Gladiator 1984 | 38645 | [38645-gladiator-1984.json](./38645-gladiator-1984.json) |
 | Gladiator 3D | 403536 | [403536-gladiator-3d.json](./403536-gladiator-3d.json) |
 | Gladiator Bastards | 114698 | [114698-gladiator-bastards.json](./114698-gladiator-bastards.json) |
 | Gladiator Command | 391532 | [391532-gladiator-command.json](./391532-gladiator-command.json) |
@@ -6730,6 +6738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorit | 164285 | [164285-gorit.json](./164285-gorit.json) |
 | Goritaire | 393809 | [393809-goritaire.json](./393809-goritaire.json) |
 | Gorkamorka | 32667 | [32667-gorkamorka.json](./32667-gorkamorka.json) |
+| Gorkans | 38650 | [38650-gorkans.json](./38650-gorkans.json) |
 | Gorky 17 | 7833 | [7833-gorky-17.json](./7833-gorky-17.json) |
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
 | Gormadae | 235389 | [235389-gormadae.json](./235389-gormadae.json) |
@@ -6775,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Got High | 290792 | [290792-got-high.json](./290792-got-high.json) |
 | Got Reincarnated into a World of RPG Full of NPCs... | 192788 | [192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json](./192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json) |
 | Got Simulator | 291537 | [291537-got-simulator.json](./291537-got-simulator.json) |
+| Got-cha Mini Game Festival | 38644 | [38644-got-cha-mini-game-festival.json](./38644-got-cha-mini-game-festival.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
 | Gotcha | 7427 | [7427-gotcha.json](./7427-gotcha.json) |
@@ -9268,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 360038 | [360038-guardian.json](./360038-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
+| Guardian | 38651 | [38651-guardian.json](./38651-guardian.json) |
 | Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
 | Guardian Above the Domes | 423199 | [423199-guardian-above-the-domes.json](./423199-guardian-above-the-domes.json) |
 | Guardian Angel | 299584 | [299584-guardian-angel.json](./299584-guardian-angel.json) |
