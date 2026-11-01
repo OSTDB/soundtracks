@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairground 2: The Ride Simulation | 112832 | [112832-fairground-2-the-ride-simulation.json](./112832-fairground-2-the-ride-simulation.json) |
 | Fairground Online | 347225 | [347225-fairground-online.json](./347225-fairground-online.json) |
 | Fairground Power Polyp Simulator | 188927 | [188927-fairground-power-polyp-simulator.json](./188927-fairground-power-polyp-simulator.json) |
+| Fairground Simulator 2 | 62472 | [62472-fairground-simulator-2.json](./62472-fairground-simulator-2.json) |
 | Fairies | 64733 | [64733-fairies.json](./64733-fairies.json) |
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
 | Fantasy Quest Solitaire | 80984 | [80984-fantasy-quest-solitaire.json](./80984-fantasy-quest-solitaire.json) |
 | Fantasy Raiders | 104009 | [104009-fantasy-raiders.json](./104009-fantasy-raiders.json) |
+| Fantasy Realm Online | 62401 | [62401-fantasy-realm-online.json](./62401-fantasy-realm-online.json) |
 | Fantasy Realm TD | 133197 | [133197-fantasy-realm-td.json](./133197-fantasy-realm-td.json) |
 | Fantasy Realm: A Land Torn Asunder | 97278 | [97278-fantasy-realm-a-land-torn-asunder.json](./97278-fantasy-realm-a-land-torn-asunder.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
@@ -9903,6 +9905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Houses | 209564 | [209564-four-houses.json](./209564-four-houses.json) |
 | Four Hundred Catapults | 237190 | [237190-four-hundred-catapults.json](./237190-four-hundred-catapults.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
+| Four In A Line | 62390 | [62390-four-in-a-line.json](./62390-four-in-a-line.json) |
 | Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
 | Four in a Row | 331805 | [331805-four-in-a-row.json](./331805-four-in-a-row.json) |
 | Four In A Row - Classic Games | 102690 | [102690-four-in-a-row-classic-games.json](./102690-four-in-a-row-classic-games.json) |
