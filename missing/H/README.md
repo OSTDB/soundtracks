@@ -7929,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hog Hunter 2021 | 160090 | [160090-hog-hunter-2021.json](./160090-hog-hunter-2021.json) |
 | Hogan's Alley | 4601 | [4601-hogans-alley.json](./4601-hogans-alley.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
+| Hogi's Adventure | 27212 | [27212-hogis-adventure.json](./27212-hogis-adventure.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
 | Hogogeist | 157005 | [157005-hogogeist.json](./157005-hogogeist.json) |
 | Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
@@ -8250,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloBall | 18983 | [18983-holoball.json](./18983-holoball.json) |
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
 | Holobunnies | 59762 | [59762-holobunnies.json](./59762-holobunnies.json) |
+| Holobunnies: Pause Café | 27213 | [27213-holobunnies-pause-cafe.json](./27213-holobunnies-pause-cafe.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
 | Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
@@ -11028,6 +11030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Hearts | 164873 | [164873-hunter-hearts.json](./164873-hunter-hearts.json) |
 | Hunter Hitman | 297442 | [297442-hunter-hitman.json](./297442-hunter-hitman.json) |
 | Hunter Hitman | 340494 | [340494-hunter-hitman.json](./340494-hunter-hitman.json) |
+| Hunter Hunted | 27204 | [27204-hunter-hunted.json](./27204-hunter-hunted.json) |
 | Hunter in the Court of Beasts | 328931 | [328931-hunter-in-the-court-of-beasts.json](./328931-hunter-in-the-court-of-beasts.json) |
 | Hunter in the Lost Forest | 293202 | [293202-hunter-in-the-lost-forest.json](./293202-hunter-in-the-lost-forest.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
