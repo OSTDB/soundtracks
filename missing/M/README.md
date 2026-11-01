@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Houshin | 49707 | [49707-magical-houshin.json](./49707-magical-houshin.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Journey | 196482 | [196482-magical-journey.json](./196482-magical-journey.json) |
+| Magical Kid Wiz | 41695 | [41695-magical-kid-wiz.json](./41695-magical-kid-wiz.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
 | Magical Kitchen | 277698 | [277698-magical-kitchen.json](./277698-magical-kitchen.json) |
 | Magical Lands | 269958 | [269958-magical-lands.json](./269958-magical-lands.json) |
@@ -5476,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -17403,6 +17405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen no Shinzou III | 281031 | [281031-mugen-no-shinzou-iii.json](./281031-mugen-no-shinzou-iii.json) |
 | Mugen no Yoru | 284608 | [284608-mugen-no-yoru.json](./284608-mugen-no-yoru.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
+| Mugen Senshi Valis II | 41701 | [41701-mugen-senshi-valis-ii.json](./41701-mugen-senshi-valis-ii.json) |
 | Mugen Senshi Valis: The Fantasm Soldier | 36789 | [36789-mugen-senshi-valis-the-fantasm-soldier.json](./36789-mugen-senshi-valis-the-fantasm-soldier.json) |
 | Mugen Senshi Valis: The Legend of a Fantasm Soldier | 186074 | [186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json](./186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json) |
 | Mugen Souls | 11501 | [11501-mugen-souls.json](./11501-mugen-souls.json) |
