@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexo | 368376 | [368376-nexo.json](./368376-nexo.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
 | Nexomon + Nexomon Extinction: Complete Collection | 203097 | [203097-nexomon-nexomon-extinction-complete-collection.json](./203097-nexomon-nexomon-extinction-complete-collection.json) |
+| Nexomon: Extinction | 133905 | [133905-nexomon-extinction.json](./133905-nexomon-extinction.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Nexoria: Dungeon Rogue Heroes | 128859 | [128859-nexoria-dungeon-rogue-heroes.json](./128859-nexoria-dungeon-rogue-heroes.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
@@ -3413,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus War: Civilization | 259624 | [259624-nexus-war-civilization.json](./259624-nexus-war-civilization.json) |
 | Nexus Wars | 295081 | [295081-nexus-wars.json](./295081-nexus-wars.json) |
 | Nexus: Quantum Industries | 414080 | [414080-nexus-quantum-industries.json](./414080-nexus-quantum-industries.json) |
+| Nexus: The Jupiter Incident | 14828 | [14828-nexus-the-jupiter-incident.json](./14828-nexus-the-jupiter-incident.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
 | NexusRPG | 416366 | [416366-nexusrpg.json](./416366-nexusrpg.json) |
 | Nexwar | 403168 | [403168-nexwar.json](./403168-nexwar.json) |
