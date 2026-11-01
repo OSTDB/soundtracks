@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekioh: Shooting King | 44938 | [44938-gekioh-shooting-king.json](./44938-gekioh-shooting-king.json) |
 | Gekiretsu Pachinkazu | 247347 | [247347-gekiretsu-pachinkazu.json](./247347-gekiretsu-pachinkazu.json) |
 | Gekirin | 137349 | [137349-gekirin.json](./137349-gekirin.json) |
+| Gekirindan | 39973 | [39973-gekirindan.json](./39973-gekirindan.json) |
 | Gekisou Sentai Carranger: Tatakae! Hiragana Racer | 76905 | [76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json](./76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json) |
 | Gekisou Sentai Carranger: Zenkai! Racer Senshi | 3285 | [3285-gekisou-sentai-carranger-zenkai-racer-senshi.json](./3285-gekisou-sentai-carranger-zenkai-racer-senshi.json) |
 | Gekisou TomaRunner | 70665 | [70665-gekisou-tomarunner.json](./70665-gekisou-tomarunner.json) |
@@ -9853,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
 | Gun Lady | 286440 | [286440-gun-lady.json](./286440-gun-lady.json) |
 | Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
+| Gun Loco | 39972 | [39972-gun-loco.json](./39972-gun-loco.json) |
 | Gun Loco | 85782 | [85782-gun-loco.json](./85782-gun-loco.json) |
 | Gun Mage | 148940 | [148940-gun-mage.json](./148940-gun-mage.json) |
 | Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
