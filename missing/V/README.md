@@ -3252,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volot: Red Odyssey | 157120 | [157120-volot-red-odyssey.json](./157120-volot-red-odyssey.json) |
 | Volseons | 106121 | [106121-volseons.json](./106121-volseons.json) |
+| Volstead | 35086 | [35086-volstead.json](./35086-volstead.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Volt Patrol | 126341 | [126341-volt-patrol.json](./126341-volt-patrol.json) |
 | Volt Recharge | 301069 | [301069-volt-recharge.json](./301069-volt-recharge.json) |
