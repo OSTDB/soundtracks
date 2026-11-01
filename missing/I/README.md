@@ -5145,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IPollute | 302754 | [302754-ipollute.json](./302754-ipollute.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
+| Ippatsu Gyakuten! DX Baken-ou | 57977 | [57977-ippatsu-gyakuten-dx-baken-ou.json](./57977-ippatsu-gyakuten-dx-baken-ou.json) |
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
 | Ipseity: Arena | 322856 | [322856-ipseity-arena.json](./322856-ipseity-arena.json) |
 | Ipuppet Presents: Colin's Classic Cards | 210022 | [210022-ipuppet-presents-colins-classic-cards.json](./210022-ipuppet-presents-colins-classic-cards.json) |
