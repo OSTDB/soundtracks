@@ -6158,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Duel | 312542 | [312542-wizard-duel.json](./312542-wizard-duel.json) |
 | Wizard Duel | 377144 | [377144-wizard-duel.json](./377144-wizard-duel.json) |
 | Wizard Fight! | 357739 | [357739-wizard-fight.json](./357739-wizard-fight.json) |
+| Wizard Fire | 39288 | [39288-wizard-fire.json](./39288-wizard-fire.json) |
 | Wizard Girl Anzu | 190057 | [190057-wizard-girl-anzu.json](./190057-wizard-girl-anzu.json) |
 | Wizard Golf RPG | 243711 | [243711-wizard-golf-rpg.json](./243711-wizard-golf-rpg.json) |
 | Wizard Graph | 185501 | [185501-wizard-graph.json](./185501-wizard-graph.json) |
@@ -8703,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Superstars 2 | 49054 | [49054-wwf-superstars-2.json](./49054-wwf-superstars-2.json) |
 | WWF War Zone | 206032 | [206032-wwf-war-zone.json](./206032-wwf-war-zone.json) |
 | WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
+| WWF WrestleFest | 39334 | [39334-wwf-wrestlefest.json](./39334-wwf-wrestlefest.json) |
 | WWF Wrestlemania | 218343 | [218343-wwf-wrestlemania.json](./218343-wwf-wrestlemania.json) |
 | WWF Wrestlemania | 366703 | [366703-wwf-wrestlemania.json](./366703-wwf-wrestlemania.json) |
 | WWF Wrestlemania | 72120 | [72120-wwf-wrestlemania.json](./72120-wwf-wrestlemania.json) |
