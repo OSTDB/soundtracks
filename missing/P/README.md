@@ -9485,6 +9485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket God | 46743 | [46743-pocket-god.json](./46743-pocket-god.json) |
 | Pocket God vs Desert Ashes | 17866 | [17866-pocket-god-vs-desert-ashes.json](./17866-pocket-god-vs-desert-ashes.json) |
 | Pocket God: Journey to Uranus | 97068 | [97068-pocket-god-journey-to-uranus.json](./97068-pocket-god-journey-to-uranus.json) |
+| Pocket Golf | 60294 | [60294-pocket-golf.json](./60294-pocket-golf.json) |
 | Pocket GT | 225807 | [225807-pocket-gt.json](./225807-pocket-gt.json) |
 | Pocket GT Racing | 209353 | [209353-pocket-gt-racing.json](./209353-pocket-gt-racing.json) |
 | Pocket Hanafuda | 282472 | [282472-pocket-hanafuda.json](./282472-pocket-hanafuda.json) |
@@ -9752,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pohmielisko | 372114 | [372114-pohmielisko.json](./372114-pohmielisko.json) |
 | Pòhuài Xiàoyìng | 157930 | [157930-pohuai-xiaoying.json](./157930-pohuai-xiaoying.json) |
 | Poi | 19278 | [19278-poi.json](./19278-poi.json) |
+| Poi Poi Ninja World | 60304 | [60304-poi-poi-ninja-world.json](./60304-poi-poi-ninja-world.json) |
 | Poi-poi!! Imo Koujou | 206452 | [206452-poi-poi-imo-koujou.json](./206452-poi-poi-imo-koujou.json) |
 | Poi: Deluxe Edition | 53464 | [53464-poi-deluxe-edition.json](./53464-poi-deluxe-edition.json) |
 | Poi: Explorer Edition | 58591 | [58591-poi-explorer-edition.json](./58591-poi-explorer-edition.json) |
