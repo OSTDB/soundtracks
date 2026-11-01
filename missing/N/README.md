@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nepotism for Germany | 397276 | [397276-nepotism-for-germany.json](./397276-nepotism-for-germany.json) |
 | Neppachi Gold: CR Monster Mansion | 74811 | [74811-neppachi-gold-cr-monster-mansion.json](./74811-neppachi-gold-cr-monster-mansion.json) |
 | Neppachi: 10-renchan de Las Vegas Ryokou | 272455 | [272455-neppachi-10-renchan-de-las-vegas-ryokou.json](./272455-neppachi-10-renchan-de-las-vegas-ryokou.json) |
+| Neptune | 18805 | [18805-neptune.json](./18805-neptune.json) |
 | Neptune | 313451 | [313451-neptune.json](./313451-neptune.json) |
 | Neptune | 363812 | [363812-neptune.json](./363812-neptune.json) |
 | Neptune Flux | 35020 | [35020-neptune-flux.json](./35020-neptune-flux.json) |
