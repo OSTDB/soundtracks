@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AC Milan Club Football | 267875 | [267875-ac-milan-club-football.json](./267875-ac-milan-club-football.json) |
 | AC Sailing | 288714 | [288714-ac-sailing.json](./288714-ac-sailing.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
+| AC-130 Operation Devastation | 25395 | [25395-ac-130-operation-devastation.json](./25395-ac-130-operation-devastation.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: 2020 Super Baseball | 86816 | [86816-aca-neo-geo-2020-super-baseball.json](./86816-aca-neo-geo-2020-super-baseball.json) |
 | ACA Neo Geo: 3 Count Bout | 118570 | [118570-aca-neo-geo-3-count-bout.json](./118570-aca-neo-geo-3-count-bout.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against Great Darkness | 242364 | [242364-against-great-darkness.json](./242364-against-great-darkness.json) |
 | Against Humanity | 301687 | [301687-against-humanity.json](./301687-against-humanity.json) |
+| Against Rome | 25460 | [25460-against-rome.json](./25460-against-rome.json) |
 | Against the Backrooms | 226101 | [226101-against-the-backrooms.json](./226101-against-the-backrooms.json) |
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
 | Against the Gradient | 40711 | [40711-against-the-gradient.json](./40711-against-the-gradient.json) |
@@ -5068,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne Empires | 31748 | [31748-airborne-empires.json](./31748-airborne-empires.json) |
 | Airborne Grannies | 325895 | [325895-airborne-grannies.json](./325895-airborne-grannies.json) |
+| Airborne Hero D-Day Frontline 1944 | 25391 | [25391-airborne-hero-d-day-frontline-1944.json](./25391-airborne-hero-d-day-frontline-1944.json) |
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
 | Airborne Motocross | 196639 | [196639-airborne-motocross.json](./196639-airborne-motocross.json) |
@@ -10944,6 +10947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Panic!: Inferno Pack | 224146 | [224146-aqua-panic-inferno-pack.json](./224146-aqua-panic-inferno-pack.json) |
 | Aqua Paradise: Boku no Suizokukan | 62543 | [62543-aqua-paradise-boku-no-suizokukan.json](./62543-aqua-paradise-boku-no-suizokukan.json) |
 | Aqua Park Tycoon | 105630 | [105630-aqua-park-tycoon.json](./105630-aqua-park-tycoon.json) |
+| Aqua Pearls | 25372 | [25372-aqua-pearls.json](./25372-aqua-pearls.json) |
 | Aqua Populo | 199347 | [199347-aqua-populo.json](./199347-aqua-populo.json) |
 | Aqua Pump | 93820 | [93820-aqua-pump.json](./93820-aqua-pump.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
@@ -14095,6 +14099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Revelations - Collectors Edition | 45119 | [45119-assassins-creed-revelations-collectors-edition.json](./45119-assassins-creed-revelations-collectors-edition.json) |
 | Assassin's Creed: Revelations - Gold Edition | 52417 | [52417-assassins-creed-revelations-gold-edition.json](./52417-assassins-creed-revelations-gold-edition.json) |
 | Assassin's Creed: Revelations - Ultimate Edition | 99961 | [99961-assassins-creed-revelations-ultimate-edition.json](./99961-assassins-creed-revelations-ultimate-edition.json) |
+| Assassin's Creed: Rogue - Digital Deluxe Edition | 25379 | [25379-assassins-creed-rogue-digital-deluxe-edition.json](./25379-assassins-creed-rogue-digital-deluxe-edition.json) |
 | Assassin's Creed: Rogue Remastered | 81205 | [81205-assassins-creed-rogue-remastered.json](./81205-assassins-creed-rogue-remastered.json) |
 | Assassin's Creed: Syndicate - Big Ben Edition | 41612 | [41612-assassins-creed-syndicate-big-ben-edition.json](./41612-assassins-creed-syndicate-big-ben-edition.json) |
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
