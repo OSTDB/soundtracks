@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganku Ganku | 251089 | [251089-ganku-ganku.json](./251089-ganku-ganku.json) |
 | Gansel and Hretel | 99157 | [99157-gansel-and-hretel.json](./99157-gansel-and-hretel.json) |
 | Ganso Hanjuku Hero | 292029 | [292029-ganso-hanjuku-hero.json](./292029-ganso-hanjuku-hero.json) |
+| Ganso JaJaMaru-kun | 37508 | [37508-ganso-jajamaru-kun.json](./37508-ganso-jajamaru-kun.json) |
 | Ganso Pachinko Ou | 38022 | [38022-ganso-pachinko-ou.json](./38022-ganso-pachinko-ou.json) |
 | Ganso Saiyuuki: Super Monkey Daibouken | 48487 | [48487-ganso-saiyuuki-super-monkey-daibouken.json](./48487-ganso-saiyuuki-super-monkey-daibouken.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
@@ -4973,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomophobia | 381068 | [381068-gnomophobia.json](./381068-gnomophobia.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
 | Gnomz | 84506 | [84506-gnomz.json](./84506-gnomz.json) |
+| Gnop! | 37473 | [37473-gnop.json](./37473-gnop.json) |
 | Gnorts vs. The Greylenoids | 381985 | [381985-gnorts-vs-the-greylenoids.json](./381985-gnorts-vs-the-greylenoids.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
@@ -6288,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
 | Gomoku Notation | 102703 | [102703-gomoku-notation.json](./102703-gomoku-notation.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
+| Gomokunarabe & Reversi: Touryuumon | 37507 | [37507-gomokunarabe-and-reversi-touryuumon.json](./37507-gomokunarabe-and-reversi-touryuumon.json) |
 | Gomola Speed | 38093 | [38093-gomola-speed.json](./38093-gomola-speed.json) |
 | Gomola Speed | 38094 | [38094-gomola-speed.json](./38094-gomola-speed.json) |
 | Gomorrah | 238351 | [238351-gomorrah.json](./238351-gomorrah.json) |
@@ -6659,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOR - Gorilla Office Rampage! | 128802 | [128802-gor-gorilla-office-rampage.json](./128802-gor-gorilla-office-rampage.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
+| Goraku-Ou Tango! | 37506 | [37506-goraku-ou-tango.json](./37506-goraku-ou-tango.json) |
 | Gorasul: Legacy of the Dragon | 22053 | [22053-gorasul-legacy-of-the-dragon.json](./22053-gorasul-legacy-of-the-dragon.json) |
 | Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
 | Gorb | 29029 | [29029-gorb.json](./29029-gorb.json) |
