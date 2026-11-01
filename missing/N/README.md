@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Racing | 45224 | [45224-nascar-racing.json](./45224-nascar-racing.json) |
 | NASCAR Racing 2 | 802 | [802-nascar-racing-2.json](./802-nascar-racing-2.json) |
 | NASCAR Racing 2002 Season | 803 | [803-nascar-racing-2002-season.json](./803-nascar-racing-2002-season.json) |
+| NASCAR Racing 2003 Season | 804 | [804-nascar-racing-2003-season.json](./804-nascar-racing-2003-season.json) |
 | NASCAR Racing 3 :Craftsman Truck Series - Expansion Pack | 69538 | [69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json](./69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json) |
 | NASCAR Racing Arcade | 131360 | [131360-nascar-racing-arcade.json](./131360-nascar-racing-arcade.json) |
 | NASCAR Racing: 1999 Edition | 69565 | [69565-nascar-racing-1999-edition.json](./69565-nascar-racing-1999-edition.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare House | 144610 | [144610-nightmare-house.json](./144610-nightmare-house.json) |
 | Nightmare House | 290474 | [290474-nightmare-house.json](./290474-nightmare-house.json) |
 | Nightmare House | 422117 | [422117-nightmare-house.json](./422117-nightmare-house.json) |
+| Nightmare House 2 | 19145 | [19145-nightmare-house-2.json](./19145-nightmare-house-2.json) |
 | Nightmare House: Reimagined | 314427 | [314427-nightmare-house-reimagined.json](./314427-nightmare-house-reimagined.json) |
 | Nightmare House: The Original Mod | 321582 | [321582-nightmare-house-the-original-mod.json](./321582-nightmare-house-the-original-mod.json) |
 | Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
@@ -5036,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
 | Nintendo Puzzle Collection | 4049 | [4049-nintendo-puzzle-collection.json](./4049-nintendo-puzzle-collection.json) |
 | Nintendo RPG | 324005 | [324005-nintendo-rpg.json](./324005-nintendo-rpg.json) |
+| Nintendo Switch 2 Welcome Tour | 338069 | [338069-nintendo-switch-2-welcome-tour.json](./338069-nintendo-switch-2-welcome-tour.json) |
 | Nintendo Switch Sports | 191408 | [191408-nintendo-switch-sports.json](./191408-nintendo-switch-sports.json) |
 | Nintendo Switch Sports Resort | 405451 | [405451-nintendo-switch-sports-resort.json](./405451-nintendo-switch-sports-resort.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
