@@ -2597,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage Offering Tower Defense | 238529 | [238529-carnage-offering-tower-defense.json](./238529-carnage-offering-tower-defense.json) |
 | Carnage: Battle Arena | 133895 | [133895-carnage-battle-arena.json](./133895-carnage-battle-arena.json) |
 | Carnal | 163743 | [163743-carnal.json](./163743-carnal.json) |
+| Carnal Instinct | 146488 | [146488-carnal-instinct.json](./146488-carnal-instinct.json) |
 | Carnal Sins: Malum Incarnatum + Carne Vescens | 329693 | [329693-carnal-sins-malum-incarnatum-carne-vescens.json](./329693-carnal-sins-malum-incarnatum-carne-vescens.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
@@ -4279,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats In Space | 150365 | [150365-cats-in-space.json](./150365-cats-in-space.json) |
 | Cats in the Ancient City of Gu Su | 294358 | [294358-cats-in-the-ancient-city-of-gu-su.json](./294358-cats-in-the-ancient-city-of-gu-su.json) |
 | Cats in the Shell | 408988 | [408988-cats-in-the-shell.json](./408988-cats-in-the-shell.json) |
+| Cats in Time | 149706 | [149706-cats-in-time.json](./149706-cats-in-time.json) |
 | Cats in Wonderland | 304839 | [304839-cats-in-wonderland.json](./304839-cats-in-wonderland.json) |
 | Cats Kill Zombies | 225183 | [225183-cats-kill-zombies.json](./225183-cats-kill-zombies.json) |
 | Cats Link | 299397 | [299397-cats-link.json](./299397-cats-link.json) |
