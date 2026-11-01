@@ -11232,6 +11232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Shaft | 241965 | [241965-mine-shaft.json](./241965-mine-shaft.json) |
 | Mine Shaft | 93481 | [93481-mine-shaft.json](./93481-mine-shaft.json) |
 | Mine Spiders | 350950 | [350950-mine-spiders.json](./350950-mine-spiders.json) |
+| Mine Storm | 18769 | [18769-mine-storm.json](./18769-mine-storm.json) |
 | Mine Storm II | 41987 | [41987-mine-storm-ii.json](./41987-mine-storm-ii.json) |
 | Mine Survival | 233447 | [233447-mine-survival.json](./233447-mine-survival.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
