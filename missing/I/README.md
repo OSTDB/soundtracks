@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
 | I am Sakuya: Touhou FPS Game | 199475 | [199475-i-am-sakuya-touhou-fps-game.json](./199475-i-am-sakuya-touhou-fps-game.json) |
 | I am Sakuya: Touhou FPS Game - Reimu | 235630 | [235630-i-am-sakuya-touhou-fps-game-reimu.json](./235630-i-am-sakuya-touhou-fps-game-reimu.json) |
+| I Am Setsuna | 18861 | [18861-i-am-setsuna.json](./18861-i-am-setsuna.json) |
 | I am Setsuna: Collector's Edition | 53216 | [53216-i-am-setsuna-collectors-edition.json](./53216-i-am-setsuna-collectors-edition.json) |
 | I Am Short | 265353 | [265353-i-am-short.json](./265353-i-am-short.json) |
 | I am Slime | 389720 | [389720-i-am-slime.json](./389720-i-am-slime.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Legacy | 400865 | [400865-iron-legacy.json](./400865-iron-legacy.json) |
 | Iron Line | 287785 | [287785-iron-line.json](./287785-iron-line.json) |
 | Iron Lord | 12158 | [12158-iron-lord.json](./12158-iron-lord.json) |
+| Iron Lung | 190361 | [190361-iron-lung.json](./190361-iron-lung.json) |
 | Iron Maiden Quiz | 220805 | [220805-iron-maiden-quiz.json](./220805-iron-maiden-quiz.json) |
 | Iron Maiden: Ed Hunter | 50360 | [50360-iron-maiden-ed-hunter.json](./50360-iron-maiden-ed-hunter.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
