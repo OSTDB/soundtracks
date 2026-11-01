@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Californium | 18351 | [18351-californium.json](./18351-californium.json) |
 | Caligo | 65840 | [65840-caligo.json](./65840-caligo.json) |
+| Caligo Chaser | 38670 | [38670-caligo-chaser.json](./38670-caligo-chaser.json) |
 | Caliper | 29713 | [29713-caliper.json](./29713-caliper.json) |
 | Caliper 2 | 118226 | [118226-caliper-2.json](./118226-caliper-2.json) |
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
@@ -8886,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Kings | 15200 | [15200-clash-of-kings.json](./15200-clash-of-kings.json) |
 | Clash of Legends | 108178 | [108178-clash-of-legends.json](./108178-clash-of-legends.json) |
+| Clash of Lords 2 | 38675 | [38675-clash-of-lords-2.json](./38675-clash-of-lords-2.json) |
 | Clash of Mafias | 60732 | [60732-clash-of-mafias.json](./60732-clash-of-mafias.json) |
 | Clash of Magic | 96461 | [96461-clash-of-magic.json](./96461-clash-of-magic.json) |
 | Clash of Magic VR | 86626 | [86626-clash-of-magic-vr.json](./86626-clash-of-magic-vr.json) |
@@ -12999,6 +13001,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookey Shop | 145581 | [145581-cookey-shop.json](./145581-cookey-shop.json) |
 | Cookiator | 127122 | [127122-cookiator.json](./127122-cookiator.json) |
 | Cookie | 380085 | [380085-cookie.json](./380085-cookie.json) |
+| Cookie & Bibi | 38624 | [38624-cookie-and-bibi.json](./38624-cookie-and-bibi.json) |
+| Cookie & Bibi 2 | 38623 | [38623-cookie-and-bibi-2.json](./38623-cookie-and-bibi-2.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
 | Cookie Bakery | 192049 | [192049-cookie-bakery.json](./192049-cookie-bakery.json) |
