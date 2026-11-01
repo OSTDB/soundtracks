@@ -3695,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Deck | 410089 | [410089-hell-deck.json](./410089-hell-deck.json) |
 | Hell Diary | 212770 | [212770-hell-diary.json](./212770-hell-diary.json) |
 | Hell Dice Gambit | 388396 | [388396-hell-dice-gambit.json](./388396-hell-dice-gambit.json) |
+| Hell Dimension VR | 59582 | [59582-hell-dimension-vr.json](./59582-hell-dimension-vr.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Division | 203683 | [203683-hell-division.json](./203683-hell-division.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
