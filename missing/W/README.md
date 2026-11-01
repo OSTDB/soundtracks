@@ -7937,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War V: Last Call | 370839 | [370839-world-war-v-last-call.json](./370839-world-war-v-last-call.json) |
 | World War Z | 115272 | [115272-world-war-z.json](./115272-world-war-z.json) |
+| World War Z | 20910 | [20910-world-war-z.json](./20910-world-war-z.json) |
 | World War Z VR | 349761 | [349761-world-war-z-vr.json](./349761-world-war-z-vr.json) |
 | World War Z: Aftermath | 152123 | [152123-world-war-z-aftermath.json](./152123-world-war-z-aftermath.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
