@@ -11066,6 +11066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Individuals | 355169 | [355169-sketchy-individuals.json](./355169-sketchy-individuals.json) |
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
+| Sketchy Tower Defense | 51657 | [51657-sketchy-tower-defense.json](./51657-sketchy-tower-defense.json) |
 | Sketchy.Academy | 140903 | [140903-sketchy-academy.json](./140903-sketchy-academy.json) |
 | Sketchy's Contract | 288082 | [288082-sketchys-contract.json](./288082-sketchys-contract.json) |
 | Skew | 233020 | [233020-skew.json](./233020-skew.json) |
@@ -15387,6 +15388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
 | Solstice | 36253 | [36253-solstice.json](./36253-solstice.json) |
 | Solstice | 393587 | [393587-solstice.json](./393587-solstice.json) |
+| Solstice Arena | 51673 | [51673-solstice-arena.json](./51673-solstice-arena.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
 | Solstride | 381210 | [381210-solstride.json](./381210-solstride.json) |
@@ -17953,6 +17955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18173,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
 | Space Ninja Simulator | 157404 | [157404-space-ninja-simulator.json](./157404-space-ninja-simulator.json) |
+| Space Nomads | 51675 | [51675-space-nomads.json](./51675-space-nomads.json) |
 | Space Oddity | 384924 | [384924-space-oddity.json](./384924-space-oddity.json) |
 | Space Oddity 2 | 392732 | [392732-space-oddity-2.json](./392732-space-oddity-2.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
@@ -20402,6 +20406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatter | 173134 | [173134-splatter.json](./173134-splatter.json) |
 | Splatter | 195877 | [195877-splatter.json](./195877-splatter.json) |
 | Splatter | 62955 | [62955-splatter.json](./62955-splatter.json) |
+| Splatter - Just Harder Times | 51665 | [51665-splatter-just-harder-times.json](./51665-splatter-just-harder-times.json) |
 | Splatter World | 304076 | [304076-splatter-world.json](./304076-splatter-world.json) |
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
 | Splatterball Plus | 120515 | [120515-splatterball-plus.json](./120515-splatterball-plus.json) |
@@ -21328,6 +21333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
 | Square Off | 156557 | [156557-square-off.json](./156557-square-off.json) |
 | Square Off | 220499 | [220499-square-off.json](./220499-square-off.json) |
+| Square Off | 51639 | [51639-square-off.json](./51639-square-off.json) |
 | Square Rounds | 219687 | [219687-square-rounds.json](./219687-square-rounds.json) |
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Runner | 198238 | [198238-square-runner.json](./198238-square-runner.json) |
@@ -28244,6 +28250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Corporate Tax Evader | 199992 | [199992-super-corporate-tax-evader.json](./199992-super-corporate-tax-evader.json) |
 | Super Cosmic Land | 239594 | [239594-super-cosmic-land.json](./239594-super-cosmic-land.json) |
 | Super CosmoJet | 160248 | [160248-super-cosmojet.json](./160248-super-cosmojet.json) |
+| Super Cosmonauts | 51676 | [51676-super-cosmonauts.json](./51676-super-cosmonauts.json) |
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
 | Super Coupon Club | 409340 | [409340-super-coupon-club.json](./409340-super-coupon-club.json) |
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
