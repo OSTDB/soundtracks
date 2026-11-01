@@ -10605,6 +10605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Dental | 389526 | [389526-royal-dental.json](./389526-royal-dental.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
+| Royal Detective: Lord of Statues | 57968 | [57968-royal-detective-lord-of-statues.json](./57968-royal-detective-lord-of-statues.json) |
 | Royal Detective: The Last Charm - Collector's Edition | 126790 | [126790-royal-detective-the-last-charm-collectors-edition.json](./126790-royal-detective-the-last-charm-collectors-edition.json) |
 | Royal Diamonds | 246556 | [246556-royal-diamonds.json](./246556-royal-diamonds.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
@@ -10885,6 +10886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
 | RubPix | 241568 | [241568-rubpix.json](./241568-rubpix.json) |
 | Rubu Tribe | 91873 | [91873-rubu-tribe.json](./91873-rubu-tribe.json) |
+| Ruby & Majesty: Treasure Team | 57946 | [57946-ruby-and-majesty-treasure-team.json](./57946-ruby-and-majesty-treasure-team.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Dreams: Immortal Promise | 298375 | [298375-ruby-dreams-immortal-promise.json](./298375-ruby-dreams-immortal-promise.json) |
@@ -11730,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Roulette | 373674 | [373674-rush-roulette.json](./373674-rush-roulette.json) |
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
+| Rush Team | 57953 | [57953-rush-team.json](./57953-rush-team.json) |
 | Rush to Adventure | 55225 | [55225-rush-to-adventure.json](./55225-rush-to-adventure.json) |
 | Rush to Survive | 110004 | [110004-rush-to-survive.json](./110004-rush-to-survive.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
