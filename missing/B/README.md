@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3692,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Shanghai: Dragon's Eye | 314220 | [314220-battle-shanghai-dragons-eye.json](./314220-battle-shanghai-dragons-eye.json) |
 | Battle Shapers | 244184 | [244184-battle-shapers.json](./244184-battle-shapers.json) |
 | Battle Shapes | 58614 | [58614-battle-shapes.json](./58614-battle-shapes.json) |
+| Battle Shark | 39970 | [39970-battle-shark.json](./39970-battle-shark.json) |
 | Battle Sheep | 52439 | [52439-battle-sheep.json](./52439-battle-sheep.json) |
 | Battle Shiba Barkade | 281951 | [281951-battle-shiba-barkade.json](./281951-battle-shiba-barkade.json) |
 | Battle Ship Clapton II | 47547 | [47547-battle-ship-clapton-ii.json](./47547-battle-ship-clapton-ii.json) |
