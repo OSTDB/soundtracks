@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanium | 142767 | [142767-tanium.json](./142767-tanium.json) |
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
+| Tanjou Debut for WonderSwan | 37477 | [37477-tanjou-debut-for-wonderswan.json](./37477-tanjou-debut-for-wonderswan.json) |
 | Tanjoubi: Kayoizuma (Jishou) Nikki | 77939 | [77939-tanjoubi-kayoizuma-jishou-nikki.json](./77939-tanjoubi-kayoizuma-jishou-nikki.json) |
 | Tank | 118644 | [118644-tank.json](./118644-tank.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
 | Taregoro: Tarepanda no Iru Nichijou | 98164 | [98164-taregoro-tarepanda-no-iru-nichijou.json](./98164-taregoro-tarepanda-no-iru-nichijou.json) |
 | Tarek | 149491 | [149491-tarek.json](./149491-tarek.json) |
+| Tarepanda no Gunpey | 37476 | [37476-tarepanda-no-gunpey.json](./37476-tarepanda-no-gunpey.json) |
 | Targ | 24828 | [24828-targ.json](./24828-targ.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
@@ -4360,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrormolinos | 26246 | [26246-terrormolinos.json](./26246-terrormolinos.json) |
 | Terroro | 318493 | [318493-terroro.json](./318493-terroro.json) |
 | Terrorpods | 12794 | [12794-terrorpods.json](./12794-terrorpods.json) |
+| Terrors | 37475 | [37475-terrors.json](./37475-terrors.json) |
 | Terrors 2 | 37315 | [37315-terrors-2.json](./37315-terrors-2.json) |
 | Terrors Of North: Finnish Cabin | 321841 | [321841-terrors-of-north-finnish-cabin.json](./321841-terrors-of-north-finnish-cabin.json) |
 | Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
@@ -4703,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou-ou | 48880 | [48880-tetsudou-ou.json](./48880-tetsudou-ou.json) |
 | Tetsudou-ou '96: Ikuze Okuban Chouja | 62953 | [62953-tetsudou-ou-96-ikuze-okuban-chouja.json](./62953-tetsudou-ou-96-ikuze-okuban-chouja.json) |
 | Tetsudou-ou 2: Sekai Seifuku no Yabou | 62952 | [62952-tetsudou-ou-2-sekai-seifuku-no-yabou.json](./62952-tetsudou-ou-2-sekai-seifuku-no-yabou.json) |
+| Tetsujin 28-gou | 37474 | [37474-tetsujin-28-gou.json](./37474-tetsujin-28-gou.json) |
 | Tetsujin 28-Gou | 227116 | [227116-tetsujin-28-gou.json](./227116-tetsujin-28-gou.json) |
 | Tetsujou no Reigyo | 395110 | [395110-tetsujou-no-reigyo.json](./395110-tetsujou-no-reigyo.json) |
 | Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
@@ -21030,6 +21034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Bandit: Part 1 - Appendages of the Machine | 165328 | [165328-time-bandit-part-1-appendages-of-the-machine.json](./165328-time-bandit-part-1-appendages-of-the-machine.json) |
 | Time Barbarian Extreme!! | 108639 | [108639-time-barbarian-extreme.json](./108639-time-barbarian-extreme.json) |
 | Time Blazer | 193303 | [193303-time-blazer.json](./193303-time-blazer.json) |
+| Time Bokan Series: Bokan Densetsu - Buta mo Odaterya Doronboo | 37472 | [37472-time-bokan-series-bokan-densetsu-buta-mo-odaterya-doronboo.json](./37472-time-bokan-series-bokan-densetsu-buta-mo-odaterya-doronboo.json) |
 | Time Bokan Series: Bokan Desuyo | 43759 | [43759-time-bokan-series-bokan-desuyo.json](./43759-time-bokan-series-bokan-desuyo.json) |
 | Time Bokan Series: Bokan to Ippatsu! Doronbo | 43764 | [43764-time-bokan-series-bokan-to-ippatsu-doronbo.json](./43764-time-bokan-series-bokan-to-ippatsu-doronbo.json) |
 | Time Bomb Race | 259689 | [259689-time-bomb-race.json](./259689-time-bomb-race.json) |
@@ -22741,6 +22746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Kowloon | 77679 | [77679-tokyo-kowloon.json](./77679-tokyo-kowloon.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Majin Gakuen | 91924 | [91924-tokyo-majin-gakuen.json](./91924-tokyo-majin-gakuen.json) |
+| Tokyo Majin Gakuen: Fuju Houroku | 37471 | [37471-tokyo-majin-gakuen-fuju-houroku.json](./37471-tokyo-majin-gakuen-fuju-houroku.json) |
 | Tokyo Majin Gakuen: Gehoujou | 91926 | [91926-tokyo-majin-gakuen-gehoujou.json](./91926-tokyo-majin-gakuen-gehoujou.json) |
 | Tokyo Majin Gakuen: Kenfuuchou | 91923 | [91923-tokyo-majin-gakuen-kenfuuchou.json](./91923-tokyo-majin-gakuen-kenfuuchou.json) |
 | Tokyo Majin Gakuen: Kenpuu Chou Emaki | 91927 | [91927-tokyo-majin-gakuen-kenpuu-chou-emaki.json](./91927-tokyo-majin-gakuen-kenpuu-chou-emaki.json) |
