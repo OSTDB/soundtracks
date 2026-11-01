@@ -2783,6 +2783,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolbreak.io | 148266 | [148266-schoolbreak-io.json](./148266-schoolbreak-io.json) |
 | SchoolGirl AI 3D Anime Sandbox | 296761 | [296761-schoolgirl-ai-3d-anime-sandbox.json](./296761-schoolgirl-ai-3d-anime-sandbox.json) |
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
+| Schoolgirl Fighting | 60286 | [60286-schoolgirl-fighting.json](./60286-schoolgirl-fighting.json) |
+| Schoolgirl Fighting 2 | 60283 | [60283-schoolgirl-fighting-2.json](./60283-schoolgirl-fighting-2.json) |
+| Schoolgirl Fighting 3 | 60280 | [60280-schoolgirl-fighting-3.json](./60280-schoolgirl-fighting-3.json) |
 | Schoolgirl Supervisor: Saori Sato | 322266 | [322266-schoolgirl-supervisor-saori-sato.json](./322266-schoolgirl-supervisor-saori-sato.json) |
 | Schoolgirl Tournament Fighting | 60086 | [60086-schoolgirl-tournament-fighting.json](./60086-schoolgirl-tournament-fighting.json) |
 | Schoolgirl vs. Fishman | 405768 | [405768-schoolgirl-vs-fishman.json](./405768-schoolgirl-vs-fishman.json) |
@@ -4144,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Harrow Manor | 97497 | [97497-secret-of-harrow-manor.json](./97497-secret-of-harrow-manor.json) |
 | Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
 | Secret of Havendor | 374382 | [374382-secret-of-havendor.json](./374382-secret-of-havendor.json) |
+| Secret of Kandar | 60267 | [60267-secret-of-kandar.json](./60267-secret-of-kandar.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of Qwerty | 124581 | [124581-secret-of-qwerty.json](./124581-secret-of-qwerty.json) |
@@ -11548,6 +11552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Sojourn | 261839 | [261839-sky-sojourn.json](./261839-sky-sojourn.json) |
 | Sky Sports Football Manager | 94003 | [94003-sky-sports-football-manager.json](./94003-sky-sports-football-manager.json) |
 | Sky Sports Football Quiz | 70026 | [70026-sky-sports-football-quiz.json](./70026-sky-sports-football-quiz.json) |
+| Sky Sports Football Quiz: Season 02 | 60303 | [60303-sky-sports-football-quiz-season-02.json](./60303-sky-sports-football-quiz-season-02.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
 | Sky Strikers VR | 240645 | [240645-sky-strikers-vr.json](./240645-sky-strikers-vr.json) |
 | Sky Surfing | 233427 | [233427-sky-surfing.json](./233427-sky-surfing.json) |
@@ -17899,7 +17904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20416,6 +20420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SplitPool | 340180 | [340180-splitpool.json](./340180-splitpool.json) |
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
+| Splitz | 60266 | [60266-splitz.json](./60266-splitz.json) |
 | Splix.io | 57900 | [57900-splix-io.json](./57900-splix-io.json) |
 | Sploder! | 313036 | [313036-sploder.json](./313036-sploder.json) |
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
@@ -22676,6 +22681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starball | 85988 | [85988-starball.json](./85988-starball.json) |
 | StarBall | 159592 | [159592-starball.json](./159592-starball.json) |
 | StarBallMadNess | 51721 | [51721-starballmadness.json](./51721-starballmadness.json) |
+| Starbase Defence | 60263 | [60263-starbase-defence.json](./60263-starbase-defence.json) |
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbase Orion | 63039 | [63039-starbase-orion.json](./63039-starbase-orion.json) |
@@ -22838,6 +22844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Tactics | 23246 | [23246-starfall-tactics.json](./23246-starfall-tactics.json) |
 | Starfall: Inferno of Worlds | 348113 | [348113-starfall-inferno-of-worlds.json](./348113-starfall-inferno-of-worlds.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
+| Starfallen | 60261 | [60261-starfallen.json](./60261-starfallen.json) |
 | Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
 | Starfell | 333430 | [333430-starfell.json](./333430-starfell.json) |
 | Starfell | 372792 | [372792-starfell.json](./372792-starfell.json) |
@@ -25794,6 +25801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Life Simulator | 374347 | [374347-street-life-simulator.json](./374347-street-life-simulator.json) |
+| Street Machine | 60259 | [60259-street-machine.json](./60259-street-machine.json) |
 | Street Massacre | 155899 | [155899-street-massacre.json](./155899-street-massacre.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street Masters | 175196 | [175196-street-masters.json](./175196-street-masters.json) |
