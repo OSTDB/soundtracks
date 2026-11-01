@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Jackpot Casino | 374025 | [374025-jupiter-jackpot-casino.json](./374025-jupiter-jackpot-casino.json) |
 | Jupiter Jump | 370231 | [370231-jupiter-jump.json](./370231-jupiter-jump.json) |
 | Jupiter Junkworks | 296355 | [296355-jupiter-junkworks.json](./296355-jupiter-junkworks.json) |
+| Jupiter Lander | 18777 | [18777-jupiter-lander.json](./18777-jupiter-lander.json) |
 | Jupiter Lander | 86198 | [86198-jupiter-lander.json](./86198-jupiter-lander.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
 | Jupiter Probe | 15089 | [15089-jupiter-probe.json](./15089-jupiter-probe.json) |
