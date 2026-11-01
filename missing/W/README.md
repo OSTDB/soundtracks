@@ -7246,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work Sucks, Let’s Play Dou Dizhu! | 373315 | [373315-work-sucks-let-s-play-dou-dizhu.json](./373315-work-sucks-let-s-play-dou-dizhu.json) |
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
 | Work Trip | 135792 | [135792-work-trip.json](./135792-work-trip.json) |
+| Work VR Shop | 30421 | [30421-work-vr-shop.json](./30421-work-vr-shop.json) |
 | Work Work Work | 385568 | [385568-work-work-work.json](./385568-work-work-work.json) |
 | Work Wrecker | 358488 | [358488-work-wrecker.json](./358488-work-wrecker.json) |
 | Work x Work | 218984 | [218984-work-x-work.json](./218984-work-x-work.json) |
