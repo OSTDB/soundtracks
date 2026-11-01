@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-01T01:19:39.961Z",
-  "total_missing": 291157,
+  "generated_at": "2026-11-01T01:33:15.885Z",
+  "total_missing": 291206,
   "games": [
     {
       "igdb_id": 191680,
@@ -39790,6 +39790,11 @@
       "igdb_id": 410227,
       "game_name": "Ailse of Shadows",
       "file": "missing/A/410227-ailse-of-shadows.json"
+    },
+    {
+      "igdb_id": 59005,
+      "game_name": "Ailu de Puzzle!",
+      "file": "missing/A/59005-ailu-de-puzzle.json"
     },
     {
       "igdb_id": 189192,
@@ -104632,11 +104637,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -120030,6 +120030,11 @@
       "igdb_id": 52276,
       "game_name": "Battlegun",
       "file": "missing/B/52276-battlegun.json"
+    },
+    {
+      "igdb_id": 59017,
+      "game_name": "BattleHand",
+      "file": "missing/B/59017-battlehand.json"
     },
     {
       "igdb_id": 102671,
@@ -196212,6 +196217,11 @@
       "file": "missing/C/321423-cardfight-area.json"
     },
     {
+      "igdb_id": 59013,
+      "game_name": "Cardfight!! Online",
+      "file": "missing/C/59013-cardfight-online.json"
+    },
+    {
       "igdb_id": 270201,
       "game_name": "Cardfight!! Vanguard Dear Days - Character Set 09: Sophie Belle",
       "file": "missing/C/270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json"
@@ -200570,6 +200580,11 @@
       "igdb_id": 38890,
       "game_name": "Castle Clash",
       "file": "missing/C/38890-castle-clash.json"
+    },
+    {
+      "igdb_id": 59299,
+      "game_name": "Castle Clash: Age of Legends",
+      "file": "missing/C/59299-castle-clash-age-of-legends.json"
     },
     {
       "igdb_id": 67920,
@@ -330332,9 +330347,49 @@
       "file": "missing/D/260874-divine-guardian.json"
     },
     {
+      "igdb_id": 59096,
+      "game_name": "Divine Heart Karen SP Season 2: Akuochi Musume no Inbi na Utage",
+      "file": "missing/D/59096-divine-heart-karen-sp-season-2-akuochi-musume-no-inbi-na-utage.json"
+    },
+    {
+      "igdb_id": 59090,
+      "game_name": "Divine Heart Karen SP Season 2: Beast War! Jinrou Toubatsu Kouhen",
+      "file": "missing/D/59090-divine-heart-karen-sp-season-2-beast-war-jinrou-toubatsu-kouhen.json"
+    },
+    {
+      "igdb_id": 59088,
+      "game_name": "Divine Heart Karen SP Season 2: Beast War! Jinrou Toubatsu Zenpen",
+      "file": "missing/D/59088-divine-heart-karen-sp-season-2-beast-war-jinrou-toubatsu-zenpen.json"
+    },
+    {
+      "igdb_id": 59091,
+      "game_name": "Divine Heart Karen SP Season 2: Gyakushuu no Mamono Musume Alraune!",
+      "file": "missing/D/59091-divine-heart-karen-sp-season-2-gyakushuu-no-mamono-musume-alraune.json"
+    },
+    {
+      "igdb_id": 59095,
+      "game_name": "Divine Heart Karen SP Season 2: Henshin Heroine Kanzen Haiboku! Tetralogy",
+      "file": "missing/D/59095-divine-heart-karen-sp-season-2-henshin-heroine-kanzen-haiboku-tetralogy.json"
+    },
+    {
+      "igdb_id": 59092,
+      "game_name": "Divine Heart Karen SP Season 2: Nari Henshin Heroine Crisis!",
+      "file": "missing/D/59092-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json"
+    },
+    {
       "igdb_id": 80492,
       "game_name": "Divine Heart Karen SP Season 2: Nari Henshin Heroine Crisis!",
       "file": "missing/D/80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json"
+    },
+    {
+      "igdb_id": 59094,
+      "game_name": "Divine Heart Karen SP Season 2: Sennyuu! Succubus no Into! Hen",
+      "file": "missing/D/59094-divine-heart-karen-sp-season-2-sennyuu-succubus-no-into-hen.json"
+    },
+    {
+      "igdb_id": 59089,
+      "game_name": "Divine Heart Machina Gaiden 01 ~Machina Gakunai Choukyou Hen~",
+      "file": "missing/D/59089-divine-heart-machina-gaiden-01-machina-gakunai-choukyou-hen.json"
     },
     {
       "igdb_id": 59083,
@@ -330345,6 +330400,11 @@
       "igdb_id": 59084,
       "game_name": "Divine Heart Makina ~Haijoku no Intsui Senshi~",
       "file": "missing/D/59084-divine-heart-makina-haijoku-no-intsui-senshi.json"
+    },
+    {
+      "igdb_id": 59087,
+      "game_name": "Divine Heart Makina Gaiden 02: Inchuu Houranki Hen",
+      "file": "missing/D/59087-divine-heart-makina-gaiden-02-inchuu-houranki-hen.json"
     },
     {
       "igdb_id": 59085,
@@ -350595,6 +350655,11 @@
       "igdb_id": 68251,
       "game_name": "DragonSky",
       "file": "missing/D/68251-dragonsky.json"
+    },
+    {
+      "igdb_id": 58996,
+      "game_name": "Dragonslayer",
+      "file": "missing/D/58996-dragonslayer.json"
     },
     {
       "igdb_id": 115361,
@@ -490752,6 +490817,11 @@
       "file": "missing/G/255617-ghosts-of-aliens.json"
     },
     {
+      "igdb_id": 59000,
+      "game_name": "Ghosts of Memories",
+      "file": "missing/G/59000-ghosts-of-memories.json"
+    },
+    {
       "igdb_id": 51422,
       "game_name": "Ghosts of Miami",
       "file": "missing/G/51422-ghosts-of-miami.json"
@@ -495665,6 +495735,11 @@
       "igdb_id": 171382,
       "game_name": "Glory",
       "file": "missing/G/171382-glory.json"
+    },
+    {
+      "igdb_id": 59015,
+      "game_name": "Glory",
+      "file": "missing/G/59015-glory.json"
     },
     {
       "igdb_id": 105263,
@@ -563082,6 +563157,11 @@
       "file": "missing/H/97632-hitozuma-dorei-kyoushi-2.json"
     },
     {
+      "igdb_id": 59025,
+      "game_name": "Hitozuma Kouzen Chijoku Densha: Ketai Hitotsu de Osawari Soku Hame Shihoudai Tanin no Tsuma o Nenchaku Tanezuke Netori",
+      "file": "missing/H/59025-hitozuma-kouzen-chijoku-densha-ketai-hitotsu-de-osawari-soku-hame-shihoudai-tanin-no-tsuma-o-nenchaku-tanezuke-netori.json"
+    },
+    {
       "igdb_id": 97765,
       "game_name": "Hitozuma Onnakyoshi: Married Female Teacher Sexual Libido Class",
       "file": "missing/H/97765-hitozuma-onnakyoshi-married-female-teacher-sexual-libido-class.json"
@@ -564700,6 +564780,11 @@
       "igdb_id": 408181,
       "game_name": "Holey",
       "file": "missing/H/408181-holey.json"
+    },
+    {
+      "igdb_id": 59009,
+      "game_name": "Holey Dungeon Horidan!",
+      "file": "missing/H/59009-holey-dungeon-horidan.json"
     },
     {
       "igdb_id": 270409,
@@ -567520,6 +567605,11 @@
       "igdb_id": 405885,
       "game_name": "Homo Sovieticus",
       "file": "missing/H/405885-homo-sovieticus.json"
+    },
+    {
+      "igdb_id": 59020,
+      "game_name": "Homuha no X 1.5: Sukisuki Date Daisakusen",
+      "file": "missing/H/59020-homuha-no-x-1-5-sukisuki-date-daisakusen.json"
     },
     {
       "igdb_id": 255669,
@@ -620432,6 +620522,11 @@
       "file": "missing/J/61334-jet-de-go-lets-go-by-airliner.json"
     },
     {
+      "igdb_id": 59001,
+      "game_name": "Jet de GO! Pocket",
+      "file": "missing/J/59001-jet-de-go-pocket.json"
+    },
+    {
       "igdb_id": 281593,
       "game_name": "Jet de Go!: Let's Go By Airliner",
       "file": "missing/J/281593-jet-de-go-lets-go-by-airliner.json"
@@ -636902,6 +636997,11 @@
       "file": "missing/K/41264-kamen-rider-black-taiketsu-shadow-moon.json"
     },
     {
+      "igdb_id": 59003,
+      "game_name": "Kamen Rider Blade",
+      "file": "missing/K/59003-kamen-rider-blade.json"
+    },
+    {
       "igdb_id": 68105,
       "game_name": "Kamen Rider City Wars",
       "file": "missing/K/68105-kamen-rider-city-wars.json"
@@ -636930,6 +637030,11 @@
       "igdb_id": 59464,
       "game_name": "Kamen Rider Ghost: Game de Kaigan!!",
       "file": "missing/K/59464-kamen-rider-ghost-game-de-kaigan.json"
+    },
+    {
+      "igdb_id": 59004,
+      "game_name": "Kamen Rider Hibiki",
+      "file": "missing/K/59004-kamen-rider-hibiki.json"
     },
     {
       "igdb_id": 91886,
@@ -647427,11 +647532,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -657277,6 +657377,11 @@
       "file": "missing/K/286586-koguma-chan-no-daibouken.json"
     },
     {
+      "igdb_id": 59006,
+      "game_name": "Koguru Guru-guru",
+      "file": "missing/K/59006-koguru-guru-guru.json"
+    },
+    {
       "igdb_id": 171285,
       "game_name": "Koh Lanta: Les Aventuriers",
       "file": "missing/K/171285-koh-lanta-les-aventuriers.json"
@@ -663622,6 +663727,11 @@
       "file": "missing/K/317100-kyokkou-no-marriage-episode-lia.json"
     },
     {
+      "igdb_id": 59019,
+      "game_name": "Kyokon Tensei: Onna Dake no Isekai de Himekishi-tachi o Tanetsuke Shihai! Subete no Min ga Niku Onaho Desu. Harami Ana ni Seishi-sama Omegumi Kudasai♪",
+      "file": "missing/K/59019-kyokon-tensei-onna-dake-no-isekai-de-himekishi-tachi-o-tanetsuke-shihai-subete-no-min-ga-niku-onaho-desu-harami-ana-ni-seishi-sama-omegumi-kudasai.json"
+    },
+    {
       "igdb_id": 298861,
       "game_name": "Kyokugen Dasshutsu Minigame: Renda Shibou Desu",
       "file": "missing/K/298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json"
@@ -667765,6 +667875,11 @@
       "igdb_id": 2528,
       "game_name": "Lands of Lore: The Throne of Chaos",
       "file": "missing/L/2528-lands-of-lore-the-throne-of-chaos.json"
+    },
+    {
+      "igdb_id": 59098,
+      "game_name": "Lands of Lorez",
+      "file": "missing/L/59098-lands-of-lorez.json"
     },
     {
       "igdb_id": 364867,
@@ -753917,6 +754032,11 @@
       "file": "missing/M/117788-mermaid-colony.json"
     },
     {
+      "igdb_id": 59101,
+      "game_name": "Mermaid Gothic",
+      "file": "missing/M/59101-mermaid-gothic.json"
+    },
+    {
       "igdb_id": 89263,
       "game_name": "Mermaid Land",
       "file": "missing/M/89263-mermaid-land.json"
@@ -755750,6 +755870,11 @@
       "igdb_id": 137929,
       "game_name": "Metal Slug Zero Online",
       "file": "missing/M/137929-metal-slug-zero-online.json"
+    },
+    {
+      "igdb_id": 59100,
+      "game_name": "Metal Slug: Attack",
+      "file": "missing/M/59100-metal-slug-attack.json"
     },
     {
       "igdb_id": 193975,
@@ -766375,6 +766500,11 @@
       "igdb_id": 352845,
       "game_name": "Mine From Here",
       "file": "missing/M/352845-mine-from-here.json"
+    },
+    {
+      "igdb_id": 59300,
+      "game_name": "Mine Heroes",
+      "file": "missing/M/59300-mine-heroes.json"
     },
     {
       "igdb_id": 231918,
@@ -792882,6 +793012,11 @@
       "file": "missing/M/215914-mottia-the-gem-hunters.json"
     },
     {
+      "igdb_id": 59012,
+      "game_name": "Motto Golful Golf",
+      "file": "missing/M/59012-motto-golful-golf.json"
+    },
+    {
       "igdb_id": 411564,
       "game_name": "Motto Immortal",
       "file": "missing/M/411564-motto-immortal.json"
@@ -799555,6 +799690,11 @@
       "igdb_id": 209614,
       "game_name": "Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou!",
       "file": "missing/M/209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json"
+    },
+    {
+      "igdb_id": 58998,
+      "game_name": "Muscle Ranking: Muscle Wars 21",
+      "file": "missing/M/58998-muscle-ranking-muscle-wars-21.json"
     },
     {
       "igdb_id": 152096,
@@ -849802,6 +849942,11 @@
       "file": "missing/O/178899-occult-crime-police.json"
     },
     {
+      "igdb_id": 59011,
+      "game_name": "Occult Maiden",
+      "file": "missing/O/59011-occult-maiden.json"
+    },
+    {
       "igdb_id": 74980,
       "game_name": "Occult PreRaise",
       "file": "missing/O/74980-occult-preraise.json"
@@ -877185,6 +877330,11 @@
       "igdb_id": 139118,
       "game_name": "Pacapaca Passion",
       "file": "missing/P/139118-pacapaca-passion.json"
+    },
+    {
+      "igdb_id": 58999,
+      "game_name": "Pacapaca Passion 2",
+      "file": "missing/P/58999-pacapaca-passion-2.json"
     },
     {
       "igdb_id": 29104,
@@ -1031382,6 +1031532,11 @@
       "file": "missing/S/350916-saihate-wo-mezasu.json"
     },
     {
+      "igdb_id": 59026,
+      "game_name": "Saiin Dutch Wife: Inran Spray de Teishuku na Hitozuma-tachi o Kyousei Hatsujou! Itsudemo Dokodemo Namadashi Ahe Haramase Houdai!",
+      "file": "missing/S/59026-saiin-dutch-wife-inran-spray-de-teishuku-na-hitozuma-tachi-o-kyousei-hatsujou-itsudemo-dokodemo-namadashi-ahe-haramase-houdai.json"
+    },
+    {
       "igdb_id": 263954,
       "game_name": "Saikai Sotsugyou Ryokou '98",
       "file": "missing/S/263954-saikai-sotsugyou-ryokou-98.json"
@@ -1042687,6 +1042842,11 @@
       "file": "missing/S/60280-schoolgirl-fighting-3.json"
     },
     {
+      "igdb_id": 59010,
+      "game_name": "Schoolgirl Strikers",
+      "file": "missing/S/59010-schoolgirl-strikers.json"
+    },
+    {
       "igdb_id": 322266,
       "game_name": "Schoolgirl Supervisor: Saori Sato",
       "file": "missing/S/322266-schoolgirl-supervisor-saori-sato.json"
@@ -1052415,6 +1052575,11 @@
       "igdb_id": 155388,
       "game_name": "Seiso Master KEN",
       "file": "missing/S/155388-seiso-master-ken.json"
+    },
+    {
+      "igdb_id": 59021,
+      "game_name": "Seiteki na Ijime Desu ka? Iie, Gohoubi Desu! Gakuen no Idol-tachi ni Niku Vibe Atsukai de Sukikatte Seieki o Shiboritorareru Seikatsu",
+      "file": "missing/S/59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json"
     },
     {
       "igdb_id": 399191,
@@ -1066592,6 +1066757,11 @@
       "file": "missing/S/138483-shin-megami-tensei-j.json"
     },
     {
+      "igdb_id": 59014,
+      "game_name": "Shin Megami Tensei Pinball: Judgment",
+      "file": "missing/S/59014-shin-megami-tensei-pinball-judgment.json"
+    },
+    {
       "igdb_id": 94503,
       "game_name": "Shin Megami Tensei Trading Card: Card Summoner",
       "file": "missing/S/94503-shin-megami-tensei-trading-card-card-summoner.json"
@@ -1070495,6 +1070665,11 @@
       "igdb_id": 53593,
       "game_name": "Shooting Love 20XX",
       "file": "missing/S/53593-shooting-love-20xx.json"
+    },
+    {
+      "igdb_id": 59301,
+      "game_name": "Shooting Love Trilogy",
+      "file": "missing/S/59301-shooting-love-trilogy.json"
     },
     {
       "igdb_id": 7187,
@@ -1082950,6 +1083125,11 @@
       "igdb_id": 49020,
       "game_name": "Skate or Die: Tour de Thrash",
       "file": "missing/S/49020-skate-or-die-tour-de-thrash.json"
+    },
+    {
+      "igdb_id": 58995,
+      "game_name": "Skate Out!",
+      "file": "missing/S/58995-skate-out.json"
     },
     {
       "igdb_id": 404771,
@@ -1106072,6 +1106252,11 @@
       "file": "missing/S/134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json"
     },
     {
+      "igdb_id": 58993,
+      "game_name": "Sometimes You Die",
+      "file": "missing/S/58993-sometimes-you-die.json"
+    },
+    {
       "igdb_id": 35712,
       "game_name": "Sometimes: Success Requires Sacrifice",
       "file": "missing/S/35712-sometimes-success-requires-sacrifice.json"
@@ -1115317,6 +1115502,11 @@
       "file": "missing/S/191520-sousaku-kanojo-no-renai-koushiki.json"
     },
     {
+      "igdb_id": 59002,
+      "game_name": "Sousei no Aquarion",
+      "file": "missing/S/59002-sousei-no-aquarion.json"
+    },
+    {
       "igdb_id": 208240,
       "game_name": "Sousei no Mirage",
       "file": "missing/S/208240-sousei-no-mirage.json"
@@ -1118290,6 +1118480,11 @@
       "igdb_id": 84892,
       "game_name": "Space Hunted",
       "file": "missing/S/84892-space-hunted.json"
+    },
+    {
+      "igdb_id": 129956,
+      "game_name": "Space Hunted: The Lost Levels",
+      "file": "missing/S/129956-space-hunted-the-lost-levels.json"
     },
     {
       "igdb_id": 142222,
@@ -1136550,6 +1136745,11 @@
       "igdb_id": 156906,
       "game_name": "Stack Defense",
       "file": "missing/S/156906-stack-defense.json"
+    },
+    {
+      "igdb_id": 59298,
+      "game_name": "Stack Gun Heroes",
+      "file": "missing/S/59298-stack-gun-heroes.json"
     },
     {
       "igdb_id": 389940,
@@ -1202657,6 +1202857,16 @@
       "file": "missing/T/20174-tane-o-maku-tori.json"
     },
     {
+      "igdb_id": 59024,
+      "game_name": "Tanetsuke de Hame Ana Kagu ni Naru Namaiki Ojou-sama-tachi: Joshi Ryou o Harama Seifuku! Shirokujichuu Gokujou Mesu Niku ni Tsutsumarete Zaajiru Suteru Dake no Seikatsu",
+      "file": "missing/T/59024-tanetsuke-de-hame-ana-kagu-ni-naru-namaiki-ojou-sama-tachi-joshi-ryou-o-harama-seifuku-shirokujichuu-gokujou-mesu-niku-ni-tsutsumarete-zaajiru-suteru-dake-no-seikatsu.json"
+    },
+    {
+      "igdb_id": 59023,
+      "game_name": "Tanezuke Bokujou Gakuen: Gakuen Marugoto Goshujin-sama no Kachiku Buhi ♪ Yaritai Houdai Haramase Shiikushite Kudasai!",
+      "file": "missing/T/59023-tanezuke-bokujou-gakuen-gakuen-marugoto-goshujin-sama-no-kachiku-buhi-yaritai-houdai-haramase-shiikushite-kudasai.json"
+    },
+    {
       "igdb_id": 206613,
       "game_name": "Tang Chi",
       "file": "missing/T/206613-tang-chi.json"
@@ -1235235,6 +1235445,11 @@
       "igdb_id": 308442,
       "game_name": "The End of the World",
       "file": "missing/T/308442-the-end-of-the-world.json"
+    },
+    {
+      "igdb_id": 59016,
+      "game_name": "The End of the World",
+      "file": "missing/T/59016-the-end-of-the-world.json"
     },
     {
       "igdb_id": 391676,
@@ -1307127,6 +1307342,11 @@
       "file": "missing/T/20663-tokobot-plus-mysteries-of-the-karakuri.json"
     },
     {
+      "igdb_id": 59022,
+      "game_name": "Tokonatsu no Haramase Hitozuma Island e Youkoso!: Ero Muchi Gibo-tachi 4nin to Mujintou Tanezuke Vacance!",
+      "file": "missing/T/59022-tokonatsu-no-haramase-hitozuma-island-e-youkoso-ero-muchi-gibo-tachi-4nin-to-mujintou-tanezuke-vacance.json"
+    },
+    {
       "igdb_id": 125973,
       "game_name": "Tokoro no Ma-Mahjong 2: Tokoro's Cup",
       "file": "missing/T/125973-tokoro-no-ma-mahjong-2-tokoros-cup.json"
@@ -1330845,6 +1331065,11 @@
       "igdb_id": 198946,
       "game_name": "Transformers Generation 2",
       "file": "missing/T/198946-transformers-generation-2.json"
+    },
+    {
+      "igdb_id": 59296,
+      "game_name": "Transformers Legends",
+      "file": "missing/T/59296-transformers-legends.json"
     },
     {
       "igdb_id": 23676,
@@ -1364802,6 +1365027,11 @@
       "file": "missing/U/190894-uss-tempest-spaceship-simulator.json"
     },
     {
+      "igdb_id": 58997,
+      "game_name": "USS Tlancy",
+      "file": "missing/U/58997-uss-tlancy.json"
+    },
+    {
       "igdb_id": 163545,
       "game_name": "USSR Chan: Hentai Puzzle Game",
       "file": "missing/U/163545-ussr-chan-hentai-puzzle-game.json"
@@ -1367105,6 +1367335,11 @@
       "igdb_id": 150618,
       "game_name": "Vali Victorian",
       "file": "missing/V/150618-vali-victorian.json"
+    },
+    {
+      "igdb_id": 59018,
+      "game_name": "Valiance Online",
+      "file": "missing/V/59018-valiance-online.json"
     },
     {
       "igdb_id": 136848,
@@ -1369945,6 +1370180,11 @@
       "igdb_id": 57526,
       "game_name": "Vattle Giuce",
       "file": "missing/V/57526-vattle-giuce.json"
+    },
+    {
+      "igdb_id": 59008,
+      "game_name": "Vattroller X",
+      "file": "missing/V/59008-vattroller-x.json"
     },
     {
       "igdb_id": 389164,
@@ -1383845,6 +1384085,11 @@
       "igdb_id": 116304,
       "game_name": "VR Sport and Cycling",
       "file": "missing/V/116304-vr-sport-and-cycling.json"
+    },
+    {
+      "igdb_id": 59093,
+      "game_name": "VR Sports: Challenge",
+      "file": "missing/V/59093-vr-sports-challenge.json"
     },
     {
       "igdb_id": 74398,
