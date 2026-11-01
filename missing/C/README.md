@@ -12505,6 +12505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquest! | 19120 | [19120-conquest.json](./19120-conquest.json) |
+| Conquestador | 36674 | [36674-conquestador.json](./36674-conquestador.json) |
 | ConquestAreas | 197045 | [197045-conquestareas.json](./197045-conquestareas.json) |
 | Conquests of Camelot: The Search for the Grail | 7566 | [7566-conquests-of-camelot-the-search-for-the-grail.json](./7566-conquests-of-camelot-the-search-for-the-grail.json) |
 | Conquests of the Longbow: The Legend of Robin Hood | 7567 | [7567-conquests-of-the-longbow-the-legend-of-robin-hood.json](./7567-conquests-of-the-longbow-the-legend-of-robin-hood.json) |
@@ -12742,6 +12743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contact Protocol | 373878 | [373878-contact-protocol.json](./373878-contact-protocol.json) |
+| Contact Sam Cruise | 36680 | [36680-contact-sam-cruise.json](./36680-contact-sam-cruise.json) |
 | Contact Spotted | 137254 | [137254-contact-spotted.json](./137254-contact-spotted.json) |
 | Contact: Nyannyan to issho | 341532 | [341532-contact-nyannyan-to-issho.json](./341532-contact-nyannyan-to-issho.json) |
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
@@ -15462,6 +15464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Taxi: Catch a Ride | 1808 | [1808-crazy-taxi-catch-a-ride.json](./1808-crazy-taxi-catch-a-ride.json) |
 | Crazy Taxi: City Rush | 61989 | [61989-crazy-taxi-city-rush.json](./61989-crazy-taxi-city-rush.json) |
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
+| Crazy Taxi: Gazillionaire | 36661 | [36661-crazy-taxi-gazillionaire.json](./36661-crazy-taxi-gazillionaire.json) |
 | Crazy Taxi: World Tour | 279633 | [279633-crazy-taxi-world-tour.json](./279633-crazy-taxi-world-tour.json) |
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
 | Crazy Test! | 98880 | [98880-crazy-test.json](./98880-crazy-test.json) |
