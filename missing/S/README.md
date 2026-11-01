@@ -18060,7 +18060,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18361,6 +18360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
 | Space Racer | 15373 | [15373-space-racer.json](./15373-space-racer.json) |
 | Space Racer X | 241201 | [241201-space-racer-x.json](./241201-space-racer-x.json) |
+| Space Radiance | 32405 | [32405-space-radiance.json](./32405-space-radiance.json) |
 | Space Raft | 142117 | [142117-space-raft.json](./142117-space-raft.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
@@ -18913,6 +18913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
 | Spades++ | 89124 | [89124-spades.json](./89124-spades.json) |
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
+| Spaera | 32401 | [32401-spaera.json](./32401-spaera.json) |
 | Spaghet | 96652 | [96652-spaghet.json](./96652-spaghet.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
 | Spaghetti Celesti | 421214 | [421214-spaghetti-celesti.json](./421214-spaghetti-celesti.json) |
@@ -20791,6 +20792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Dwellers 5: Collector's Edition | 416773 | [416773-spooky-dwellers-5-collectors-edition.json](./416773-spooky-dwellers-5-collectors-edition.json) |
 | Spooky Dwellers: Collector's Edition | 272724 | [272724-spooky-dwellers-collectors-edition.json](./272724-spooky-dwellers-collectors-edition.json) |
 | Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
+| Spooky Heroes | 32426 | [32426-spooky-heroes.json](./32426-spooky-heroes.json) |
 | Spooky Hoofs | 90394 | [90394-spooky-hoofs.json](./90394-spooky-hoofs.json) |
 | Spooky Horror Game | 190431 | [190431-spooky-horror-game.json](./190431-spooky-horror-game.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
@@ -21411,6 +21413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square | 247020 | [247020-square.json](./247020-square.json) |
 | Square | 315803 | [315803-square.json](./315803-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
+| Square Arena | 32421 | [32421-square-arena.json](./32421-square-arena.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
 | Square Brain | 246780 | [246780-square-brain.json](./246780-square-brain.json) |
 | Square Brain Puzzle | 410836 | [410836-square-brain-puzzle.json](./410836-square-brain-puzzle.json) |
@@ -22115,6 +22118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fetchers : Episode 1 | 220500 | [220500-star-fetchers-episode-1.json](./220500-star-fetchers-episode-1.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
+| Star Fields | 32371 | [32371-star-fields.json](./32371-star-fields.json) |
 | Star Fight | 30681 | [30681-star-fight.json](./30681-star-fight.json) |
 | Star Fighter | 170804 | [170804-star-fighter.json](./170804-star-fighter.json) |
 | Star Fighter | 383702 | [383702-star-fighter.json](./383702-star-fighter.json) |
@@ -29731,6 +29735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super MiniJolt | 276342 | [276342-super-minijolt.json](./276342-super-minijolt.json) |
 | Super Mining Mechs | 319672 | [319672-super-mining-mechs.json](./319672-super-mining-mechs.json) |
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
+| Super Mixtape | 32433 | [32433-super-mixtape.json](./32433-super-mixtape.json) |
 | Super Mole | 146576 | [146576-super-mole.json](./146576-super-mole.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
 | Super Momos Crushers | 370197 | [370197-super-momos-crushers.json](./370197-super-momos-crushers.json) |
