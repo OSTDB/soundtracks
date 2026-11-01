@@ -4986,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 22nd is Serda. F0a178 | 219566 | [219566-the-22nd-is-serda-f0a178.json](./219566-the-22nd-is-serda-f0a178.json) |
 | The 257th Element | 289570 | [289570-the-257th-element.json](./289570-the-257th-element.json) |
+| The 25th Ward: The Silver Case | 30221 | [30221-the-25th-ward-the-silver-case.json](./30221-the-25th-ward-the-silver-case.json) |
 | The 2D Adventures of Rotating Octopus Character | 52925 | [52925-the-2d-adventures-of-rotating-octopus-character.json](./52925-the-2d-adventures-of-rotating-octopus-character.json) |
 | The 2k Sports Collection | 148124 | [148124-the-2k-sports-collection.json](./148124-the-2k-sports-collection.json) |
 | The 2nd Super Super Mario Land | 290247 | [290247-the-2nd-super-super-mario-land.json](./290247-the-2nd-super-super-mario-land.json) |
@@ -10420,9 +10421,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inner Light | 177754 | [177754-the-inner-light.json](./177754-the-inner-light.json) |
 | The Inner Sea | 33517 | [33517-the-inner-sea.json](./33517-the-inner-sea.json) |
 | The Inner World 2 | 99344 | [99344-the-inner-world-2.json](./99344-the-inner-world-2.json) |
+| The Inner World: The Last Wind Monk | 29065 | [29065-the-inner-world-the-last-wind-monk.json](./29065-the-inner-world-the-last-wind-monk.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Ino Chronicles: Ascension | 75017 | [75017-the-ino-chronicles-ascension.json](./75017-the-ino-chronicles-ascension.json) |
+| The Inpatient | 37089 | [37089-the-inpatient.json](./37089-the-inpatient.json) |
 | The Inquisition: Legacy | 228922 | [228922-the-inquisition-legacy.json](./228922-the-inquisition-legacy.json) |
 | The Inquisitor | 202718 | [202718-the-inquisitor.json](./202718-the-inquisitor.json) |
 | The Inquisitor | 83820 | [83820-the-inquisitor.json](./83820-the-inquisitor.json) |
@@ -10474,6 +10477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
 | The Invisible Hand | 25224 | [25224-the-invisible-hand.json](./25224-the-invisible-hand.json) |
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
+| The Invisible Hours | 28044 | [28044-the-invisible-hours.json](./28044-the-invisible-hours.json) |
 | The Invisible Smoke Factory | 312592 | [312592-the-invisible-smoke-factory.json](./312592-the-invisible-smoke-factory.json) |
 | The Invisible Us | 378532 | [378532-the-invisible-us.json](./378532-the-invisible-us.json) |
 | The IOTA Project | 55671 | [55671-the-iota-project.json](./55671-the-iota-project.json) |
@@ -22946,6 +22950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
 | Tokyo Twilight Busters | 69184 | [69184-tokyo-twilight-busters.json](./69184-tokyo-twilight-busters.json) |
 | Tokyo Twilight Ghost Hunters | 12195 | [12195-tokyo-twilight-ghost-hunters.json](./12195-tokyo-twilight-ghost-hunters.json) |
+| Tokyo Twilight Ghost Hunters: Daybreak Special Gigs | 12209 | [12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json](./12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json) |
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
@@ -23756,6 +23761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear 2 | 13057 | [13057-top-gear-2.json](./13057-top-gear-2.json) |
+| Top Gear 3000 | 46007 | [46007-top-gear-3000.json](./46007-top-gear-3000.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
 | Top Gear Pocket | 93431 | [93431-top-gear-pocket.json](./93431-top-gear-pocket.json) |
 | Top Gear Pocket 2 | 78875 | [78875-top-gear-pocket-2.json](./78875-top-gear-pocket-2.json) |
@@ -24668,6 +24674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou JRPG | 213172 | [213172-touhou-jrpg.json](./213172-touhou-jrpg.json) |
 | Touhou Kaeizuka: Phantasmagoria of Flower View | 27156 | [27156-touhou-kaeizuka-phantasmagoria-of-flower-view.json](./27156-touhou-kaeizuka-phantasmagoria-of-flower-view.json) |
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
+| Touhou Kaikidan: Mystic Square | 45963 | [45963-touhou-kaikidan-mystic-square.json](./45963-touhou-kaikidan-mystic-square.json) |
 | Touhou Kaisekiki: Arabasiri | 269930 | [269930-touhou-kaisekiki-arabasiri.json](./269930-touhou-kaisekiki-arabasiri.json) |
 | Touhou Kenbun Roku | 48878 | [48878-touhou-kenbun-roku.json](./48878-touhou-kenbun-roku.json) |
 | Touhou Kichouden: Mythos of Phantasmagoria 2 | 356558 | [356558-touhou-kichouden-mythos-of-phantasmagoria-2.json](./356558-touhou-kichouden-mythos-of-phantasmagoria-2.json) |
