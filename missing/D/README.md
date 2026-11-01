@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central 3: Lady Gaga - "Paparazzi" | 353205 | [353205-dance-central-3-lady-gaga-paparazzi.json](./353205-dance-central-3-lady-gaga-paparazzi.json) |
 | Dance Central 3: LMFAO - "Sorry for Party Rocking" | 353206 | [353206-dance-central-3-lmfao-sorry-for-party-rocking.json](./353206-dance-central-3-lmfao-sorry-for-party-rocking.json) |
 | Dance Central 3: PSY - "Gangnam Style" | 353203 | [353203-dance-central-3-psy-gangnam-style.json](./353203-dance-central-3-psy-gangnam-style.json) |
+| Dance Central Spotlight | 19901 | [19901-dance-central-spotlight.json](./19901-dance-central-spotlight.json) |
 | Dance Central Spotlight: David Guetta ft. Nicki Minaj - "Turn Me On" | 353209 | [353209-dance-central-spotlight-david-guetta-ft-nicki-minaj-turn-me-on.json](./353209-dance-central-spotlight-david-guetta-ft-nicki-minaj-turn-me-on.json) |
 | Dance Central Spotlight: Gotye ft. Kimbra - "Somebody That I Used to Know" | 353208 | [353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json](./353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json) |
 | Dance Central Spotlight: Mark Ronson ft. Bruno Mars - "Uptown Funk" | 353210 | [353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json](./353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json) |
@@ -6147,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
 | Demonlisher | 17813 | [17813-demonlisher.json](./17813-demonlisher.json) |
 | Demonlore | 152568 | [152568-demonlore.json](./152568-demonlore.json) |
+| Demonologist | 241332 | [241332-demonologist.json](./241332-demonologist.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
 | Demonology: Incubus: Chapter 1 | 315244 | [315244-demonology-incubus-chapter-1.json](./315244-demonology-incubus-chapter-1.json) |
 | Demonology: Incubus: Chapter 2 | 315246 | [315246-demonology-incubus-chapter-2.json](./315246-demonology-incubus-chapter-2.json) |
