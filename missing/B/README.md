@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Bash | 413495 | [413495-balloon-bash.json](./413495-balloon-bash.json) |
 | Balloon Blast | 339612 | [339612-balloon-blast.json](./339612-balloon-blast.json) |
 | Balloon Blowout | 30742 | [30742-balloon-blowout.json](./30742-balloon-blowout.json) |
+| Balloon Bomber | 39294 | [39294-balloon-bomber.json](./39294-balloon-bomber.json) |
 | Balloon Bounce | 366401 | [366401-balloon-bounce.json](./366401-balloon-bounce.json) |
 | Balloon Bros | 381095 | [381095-balloon-bros.json](./381095-balloon-bros.json) |
 | Balloon Buster | 360121 | [360121-balloon-buster.json](./360121-balloon-buster.json) |
