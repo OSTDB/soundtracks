@@ -7006,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
 | Shàshí Qíngyīn | 107401 | [107401-shashi-qingyin.json](./107401-shashi-qingyin.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
+| Shatter | 13101 | [13101-shatter.json](./13101-shatter.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
 | Shatter | 237200 | [237200-shatter.json](./237200-shatter.json) |
 | Shatter | 358281 | [358281-shatter.json](./358281-shatter.json) |
@@ -16052,6 +16053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Color Contrast | 129145 | [129145-sonic-color-contrast.json](./129145-sonic-color-contrast.json) |
 | Sonic Color Cursed | 337168 | [337168-sonic-color-cursed.json](./337168-sonic-color-cursed.json) |
 | Sonic Colors | 2267 | [2267-sonic-colors.json](./2267-sonic-colors.json) |
+| Sonic Colors | 45986 | [45986-sonic-colors.json](./45986-sonic-colors.json) |
 | Sonic Colors Demastered | 265222 | [265222-sonic-colors-demastered.json](./265222-sonic-colors-demastered.json) |
 | Sonic Colors DX | 280937 | [280937-sonic-colors-dx.json](./280937-sonic-colors-dx.json) |
 | Sonic Colors VN | 265223 | [265223-sonic-colors-vn.json](./265223-sonic-colors-vn.json) |
