@@ -13566,6 +13566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
 | Corrupted | 288804 | [288804-corrupted.json](./288804-corrupted.json) |
 | Corrupted | 296806 | [296806-corrupted.json](./296806-corrupted.json) |
+| Corrupted | 51641 | [51641-corrupted.json](./51641-corrupted.json) |
 | Corrupted | 96626 | [96626-corrupted.json](./96626-corrupted.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
