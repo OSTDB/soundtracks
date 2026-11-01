@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panopticon: Path of Reflections | 53449 | [53449-panopticon-path-of-reflections.json](./53449-panopticon-path-of-reflections.json) |
 | Panoptique | 377192 | [377192-panoptique.json](./377192-panoptique.json) |
 | Panorama | 125901 | [125901-panorama.json](./125901-panorama.json) |
+| Panorama Toh | 61938 | [61938-panorama-toh.json](./61938-panorama-toh.json) |
 | Panoramical | 12976 | [12976-panoramical.json](./12976-panoramical.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
 | Panspermia: Horror Myson Mansion | 232526 | [232526-panspermia-horror-myson-mansion.json](./232526-panspermia-horror-myson-mansion.json) |
@@ -8801,10 +8802,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlatBall | 108340 | [108340-platball.json](./108340-platball.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
 | Platcross | 58668 | [58668-platcross.json](./58668-platcross.json) |
+| Platdude in A Bit of a Do! | 61948 | [61948-platdude-in-a-bit-of-a-do.json](./61948-platdude-in-a-bit-of-a-do.json) |
 | Platdude in A Bit of a Spin | 60927 | [60927-platdude-in-a-bit-of-a-spin.json](./60927-platdude-in-a-bit-of-a-spin.json) |
 | Platdude in a Tube | 61542 | [61542-platdude-in-a-tube.json](./61542-platdude-in-a-tube.json) |
 | Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
+| Platdude in the Endless Forest | 61950 | [61950-platdude-in-the-endless-forest.json](./61950-platdude-in-the-endless-forest.json) |
 | Platdude in the Spirit Collector | 61953 | [61953-platdude-in-the-spirit-collector.json](./61953-platdude-in-the-spirit-collector.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
 | Plate Spinning | 202006 | [202006-plate-spinning.json](./202006-plate-spinning.json) |
