@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Cartels & Cutthroats | 22497 | [22497-cartels-and-cutthroats.json](./22497-cartels-and-cutthroats.json) |
 | Carter Story | 202637 | [202637-carter-story.json](./202637-carter-story.json) |
+| Cartesian | 29392 | [29392-cartesian.json](./29392-cartesian.json) |
 | Carth | 164061 | [164061-carth.json](./164061-carth.json) |
 | Carthanc | 281867 | [281867-carthanc.json](./281867-carthanc.json) |
 | Cartier 06 | 335139 | [335139-cartier-06.json](./335139-cartier-06.json) |
@@ -5444,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Crown | 217190 | [217190-chaos-crown.json](./217190-chaos-crown.json) |
 | Chaos Dream: Retribution | 119450 | [119450-chaos-dream-retribution.json](./119450-chaos-dream-retribution.json) |
+| Chaos Drift | 29393 | [29393-chaos-drift.json](./29393-chaos-drift.json) |
 | Chaos Dynasty Honey | 326542 | [326542-chaos-dynasty-honey.json](./326542-chaos-dynasty-honey.json) |
 | Chaos Edge | 29090 | [29090-chaos-edge.json](./29090-chaos-edge.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
@@ -5748,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Light | 132582 | [132582-chasing-light.json](./132582-chasing-light.json) |
 | Chasing Nebula | 120705 | [120705-chasing-nebula.json](./120705-chasing-nebula.json) |
+| Chasing Styx | 29443 | [29443-chasing-styx.json](./29443-chasing-styx.json) |
 | Chasing Sunsets | 323816 | [323816-chasing-sunsets.json](./323816-chasing-sunsets.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Dawn | 387140 | [387140-chasing-the-dawn.json](./387140-chasing-the-dawn.json) |
@@ -8914,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of the Talons | 135570 | [135570-clash-of-the-talons.json](./135570-clash-of-the-talons.json) |
 | Clash of the Undead | 231863 | [231863-clash-of-the-undead.json](./231863-clash-of-the-undead.json) |
 | Clash of Ultimate Fighters | 236984 | [236984-clash-of-ultimate-fighters.json](./236984-clash-of-ultimate-fighters.json) |
+| Clash of Vessels VR | 29440 | [29440-clash-of-vessels-vr.json](./29440-clash-of-vessels-vr.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warlords | 153333 | [153333-clash-of-warlords.json](./153333-clash-of-warlords.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
@@ -11742,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comit in Cosmo Knight's Revenge | 112853 | [112853-comit-in-cosmo-knights-revenge.json](./112853-comit-in-cosmo-knights-revenge.json) |
 | Comit in Krater Returns | 112859 | [112859-comit-in-krater-returns.json](./112859-comit-in-krater-returns.json) |
 | Comit the Astrodian | 30842 | [30842-comit-the-astrodian.json](./30842-comit-the-astrodian.json) |
+| Comit the Astrodian 2 | 29408 | [29408-comit-the-astrodian-2.json](./29408-comit-the-astrodian-2.json) |
 | Comit the Astrodian 3 | 65821 | [65821-comit-the-astrodian-3.json](./65821-comit-the-astrodian-3.json) |
 | Comix Breaker | 174262 | [174262-comix-breaker.json](./174262-comix-breaker.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
