@@ -5381,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
 | Wings of Fire | 418877 | [418877-wings-of-fire.json](./418877-wings-of-fire.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
+| Wings of Honour | 27248 | [27248-wings-of-honour.json](./27248-wings-of-honour.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
 | Wings of Justice | 237449 | [237449-wings-of-justice.json](./237449-wings-of-justice.json) |
@@ -7465,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World in a Moment | 229759 | [229759-world-in-a-moment.json](./229759-world-in-a-moment.json) |
 | World in Conflict | 941 | [941-world-in-conflict.json](./941-world-in-conflict.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
+| World In Danger | 27178 | [27178-world-in-danger.json](./27178-world-in-danger.json) |
 | World in fire | 284833 | [284833-world-in-fire.json](./284833-world-in-fire.json) |
 | World In The Abyss | 379107 | [379107-world-in-the-abyss.json](./379107-world-in-the-abyss.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
