@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACE / ACE 2 | 138690 | [138690-ace-ace-2.json](./138690-ace-ace-2.json) |
 | Ace & Aro: Heart-to-Heart | 412607 | [412607-ace-and-aro-heart-to-heart.json](./412607-ace-and-aro-heart-to-heart.json) |
 | Ace & Hearts | 142084 | [142084-ace-and-hearts.json](./142084-ace-and-hearts.json) |
+| ACE 2088 | 60721 | [60721-ace-2088.json](./60721-ace-2088.json) |
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Angler: Fishing Spirits | 222795 | [222795-ace-angler-fishing-spirits.json](./222795-ace-angler-fishing-spirits.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
 | Adventure World | 32772 | [32772-adventure-world.json](./32772-adventure-world.json) |
+| Adventure Xpress | 60717 | [60717-adventure-xpress.json](./60717-adventure-xpress.json) |
 | Adventure XT | 84125 | [84125-adventure-xt.json](./84125-adventure-xt.json) |
 | Adventure: All in the Game | 58070 | [58070-adventure-all-in-the-game.json](./58070-adventure-all-in-the-game.json) |
 | Adventure: Limited Edition | 210364 | [210364-adventure-limited-edition.json](./210364-adventure-limited-edition.json) |
@@ -11693,6 +11695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
 | Arcadia Fallen II | 293096 | [293096-arcadia-fallen-ii.json](./293096-arcadia-fallen-ii.json) |
 | Arcadia Fallen: Digital Deluxe | 401669 | [401669-arcadia-fallen-digital-deluxe.json](./401669-arcadia-fallen-digital-deluxe.json) |
+| Arcadia no Aoki Miko | 60752 | [60752-arcadia-no-aoki-miko.json](./60752-arcadia-no-aoki-miko.json) |
 | Arcadia Saga | 67189 | [67189-arcadia-saga.json](./67189-arcadia-saga.json) |
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
@@ -13698,6 +13701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashina: The Red Witch | 132762 | [132762-ashina-the-red-witch.json](./132762-ashina-the-red-witch.json) |
 | Ashita Deatta Shoujo | 315209 | [315209-ashita-deatta-shoujo.json](./315209-ashita-deatta-shoujo.json) |
 | Ashita no Joe | 39578 | [39578-ashita-no-joe.json](./39578-ashita-no-joe.json) |
+| Ashita no Joe 2: The Anime Super Remix | 60753 | [60753-ashita-no-joe-2-the-anime-super-remix.json](./60753-ashita-no-joe-2-the-anime-super-remix.json) |
 | Ashita no Joe Touch: Typing Namida Hashi | 56996 | [56996-ashita-no-joe-touch-typing-namida-hashi.json](./56996-ashita-no-joe-touch-typing-namida-hashi.json) |
 | Ashita no Joe: Masshiro ni Moe Tsukiro! | 143555 | [143555-ashita-no-joe-masshiro-ni-moe-tsukiro.json](./143555-ashita-no-joe-masshiro-ni-moe-tsukiro.json) |
 | Ashita, Hajimete Kanojo to | 211648 | [211648-ashita-hajimete-kanojo-to.json](./211648-ashita-hajimete-kanojo-to.json) |
