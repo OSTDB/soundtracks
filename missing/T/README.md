@@ -4118,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Atlantis | 152663 | [152663-terra-atlantis.json](./152663-terra-atlantis.json) |
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
 | Terra Battle | 20060 | [20060-terra-battle.json](./20060-terra-battle.json) |
+| Terra Battle 2 | 38658 | [38658-terra-battle-2.json](./38658-terra-battle-2.json) |
 | Terra Centauri: Last Stand | 184815 | [184815-terra-centauri-last-stand.json](./184815-terra-centauri-last-stand.json) |
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
 | Terra Cresta 3D | 58549 | [58549-terra-cresta-3d.json](./58549-terra-cresta-3d.json) |
@@ -9418,6 +9419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
 | The Grand Mafia | 212519 | [212519-the-grand-mafia.json](./212519-the-grand-mafia.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
+| The Grand Tap Tournament | 38640 | [38640-the-grand-tap-tournament.json](./38640-the-grand-tap-tournament.json) |
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
 | The Grandest Fleet | 73182 | [73182-the-grandest-fleet.json](./73182-the-grandest-fleet.json) |
 | The Grandfather | 342792 | [342792-the-grandfather.json](./342792-the-grandfather.json) |
@@ -13621,6 +13623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of Veins | 319270 | [319270-the-path-of-veins.json](./319270-the-path-of-veins.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
 | The path to domination | 106342 | [106342-the-path-to-domination.json](./106342-the-path-to-domination.json) |
+| The Path to Luma | 38641 | [38641-the-path-to-luma.json](./38641-the-path-to-luma.json) |
 | The Path to Memento Mori | 269989 | [269989-the-path-to-memento-mori.json](./269989-the-path-to-memento-mori.json) |
 | The Paths We Cross | 392239 | [392239-the-paths-we-cross.json](./392239-the-paths-we-cross.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
@@ -25278,6 +25281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Escape | 344530 | [344530-toy-escape.json](./344530-toy-escape.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
 | Toy Factory | 54186 | [54186-toy-factory.json](./54186-toy-factory.json) |
+| Toy Fighter | 38636 | [38636-toy-fighter.json](./38636-toy-fighter.json) |
 | Toy Flying Car | 235046 | [235046-toy-flying-car.json](./235046-toy-flying-car.json) |
 | Toy Generals | 90432 | [90432-toy-generals.json](./90432-toy-generals.json) |
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
