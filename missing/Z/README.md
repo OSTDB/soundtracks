@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Nippon Pro Wrestling Jet | 49110 | [49110-zen-nippon-pro-wrestling-jet.json](./49110-zen-nippon-pro-wrestling-jet.json) |
 | Zen-Nippon Pro Wrestling: Fight Da Pon! | 65200 | [65200-zen-nippon-pro-wrestling-fight-da-pon.json](./65200-zen-nippon-pro-wrestling-fight-da-pon.json) |
 | Zen-Nippon Pro Wrestling: Ouja no Tamashii | 45073 | [45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json](./45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json) |
+| Zen-Nippon Pro Wrestling': Sekai Saikyou Tag | 42338 | [42338-zen-nippon-pro-wrestling-sekai-saikyou-tag.json](./42338-zen-nippon-pro-wrestling-sekai-saikyou-tag.json) |
 | Zen-Nippon Shounen Soccer Taikai: Mezase Nippon Ichi! | 59051 | [59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json](./59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json) |
 | Zen: A Gay Sequel | 166048 | [166048-zen-a-gay-sequel.json](./166048-zen-a-gay-sequel.json) |
 | Zen: Intergalactic Ninja | 365633 | [365633-zen-intergalactic-ninja.json](./365633-zen-intergalactic-ninja.json) |
