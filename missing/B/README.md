@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Fort Fun | 338821 | [338821-banjo-kazooie-fort-fun.json](./338821-banjo-kazooie-fort-fun.json) |
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Kazooie: Nostalgia 64 | 154990 | [154990-banjo-kazooie-nostalgia-64.json](./154990-banjo-kazooie-nostalgia-64.json) |
+| Banjo-Kazooie: Nuts & Bolts | 3008 | [3008-banjo-kazooie-nuts-and-bolts.json](./3008-banjo-kazooie-nuts-and-bolts.json) |
 | Banjo-Kazooie: Nuts & Bolts - L.O.G.'s Lost Challenges | 229855 | [229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json](./229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json) |
 | Banjo-Kazooie: Stay at Home | 147221 | [147221-banjo-kazooie-stay-at-home.json](./147221-banjo-kazooie-stay-at-home.json) |
 | Banjo-Kazooie: The Corrupted Jiggys | 313063 | [313063-banjo-kazooie-the-corrupted-jiggys.json](./313063-banjo-kazooie-the-corrupted-jiggys.json) |
@@ -3360,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Checkers: Infinity War | 193959 | [193959-battle-checkers-infinity-war.json](./193959-battle-checkers-infinity-war.json) |
 | Battle Cheese | 78382 | [78382-battle-cheese.json](./78382-battle-cheese.json) |
 | Battle Chef Brigade Deluxe | 111825 | [111825-battle-chef-brigade-deluxe.json](./111825-battle-chef-brigade-deluxe.json) |
+| Battle Chess | 2603 | [2603-battle-chess.json](./2603-battle-chess.json) |
 | Battle Chess | 280808 | [280808-battle-chess.json](./280808-battle-chess.json) |
 | Battle Chess | 283606 | [283606-battle-chess.json](./283606-battle-chess.json) |
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
@@ -3955,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Hardline: Premium | 41887 | [41887-battlefield-hardline-premium.json](./41887-battlefield-hardline-premium.json) |
 | Battlefield Hardline: Robbery | 18024 | [18024-battlefield-hardline-robbery.json](./18024-battlefield-hardline-robbery.json) |
 | Battlefield Hardline: Ultimate Edition | 52638 | [52638-battlefield-hardline-ultimate-edition.json](./52638-battlefield-hardline-ultimate-edition.json) |
+| Battlefield Heroes | 350 | [350-battlefield-heroes.json](./350-battlefield-heroes.json) |
 | Battlefield Mobile | 174893 | [174893-battlefield-mobile.json](./174893-battlefield-mobile.json) |
 | Battlefield of Eternal | 175681 | [175681-battlefield-of-eternal.json](./175681-battlefield-of-eternal.json) |
 | Battlefield Online | 353 | [353-battlefield-online.json](./353-battlefield-online.json) |
@@ -14806,6 +14809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword 5: The Serpent's Curse - Premium Edition | 136170 | [136170-broken-sword-5-the-serpents-curse-premium-edition.json](./136170-broken-sword-5-the-serpents-curse-premium-edition.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
 | Broken Sword: Shadow of the Templars - The Director's Cut | 206510 | [206510-broken-sword-shadow-of-the-templars-the-directors-cut.json](./206510-broken-sword-shadow-of-the-templars-the-directors-cut.json) |
+| Broken Sword: Shadow of the Templars - The Director's Cut | 21127 | [21127-broken-sword-shadow-of-the-templars-the-directors-cut.json](./21127-broken-sword-shadow-of-the-templars-the-directors-cut.json) |
 | Broken Sword: Shadow of the Templars Reforged | 262651 | [262651-broken-sword-shadow-of-the-templars-reforged.json](./262651-broken-sword-shadow-of-the-templars-reforged.json) |
 | Broken Sword: The Shadow of the Templars | 206502 | [206502-broken-sword-the-shadow-of-the-templars.json](./206502-broken-sword-the-shadow-of-the-templars.json) |
 | Broken Sword: The Shadow of the Templars | 206503 | [206503-broken-sword-the-shadow-of-the-templars.json](./206503-broken-sword-the-shadow-of-the-templars.json) |
