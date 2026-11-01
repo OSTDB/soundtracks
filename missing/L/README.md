@@ -2733,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Saga II | 383573 | [383573-legion-saga-ii.json](./383573-legion-saga-ii.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Saga Remastered | 383568 | [383568-legion-saga-remastered.json](./383568-legion-saga-remastered.json) |
+| Legion Tale | 55589 | [55589-legion-tale.json](./55589-legion-tale.json) |
 | Legion TD 2 | 32680 | [32680-legion-td-2.json](./32680-legion-td-2.json) |
 | Legion War | 112703 | [112703-legion-war.json](./112703-legion-war.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
@@ -6946,6 +6947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot: Strategy-Packed Bundle | 99759 | [99759-loot-strategy-packed-bundle.json](./99759-loot-strategy-packed-bundle.json) |
 | Loot: Ultimate Games & Themes Bundle | 99749 | [99749-loot-ultimate-games-and-themes-bundle.json](./99749-loot-ultimate-games-and-themes-bundle.json) |
 | Loot.io | 176113 | [176113-loot-io.json](./176113-loot-io.json) |
+| Loot'N Shoot | 55599 | [55599-lootn-shoot.json](./55599-lootn-shoot.json) |
 | Lootale Slash | 398330 | [398330-lootale-slash.json](./398330-lootale-slash.json) |
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
 | Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
