@@ -15553,6 +15553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan 2: Biological Research Scout Mission | 170146 | [170146-attack-on-titan-2-biological-research-scout-mission.json](./170146-attack-on-titan-2-biological-research-scout-mission.json) |
 | Attack on Titan 2: Deluxe Edition | 118888 | [118888-attack-on-titan-2-deluxe-edition.json](./118888-attack-on-titan-2-deluxe-edition.json) |
 | Attack on Titan 2: Final Battle Upgrade Pack | 121928 | [121928-attack-on-titan-2-final-battle-upgrade-pack.json](./121928-attack-on-titan-2-final-battle-upgrade-pack.json) |
+| Attack on Titan 2: Future Coordinates | 36663 | [36663-attack-on-titan-2-future-coordinates.json](./36663-attack-on-titan-2-future-coordinates.json) |
 | Attack on Titan 2: Second Victory | 170829 | [170829-attack-on-titan-2-second-victory.json](./170829-attack-on-titan-2-second-victory.json) |
 | Attack on Titan 2: Singular Target | 200426 | [200426-attack-on-titan-2-singular-target.json](./200426-attack-on-titan-2-singular-target.json) |
 | Attack on Titan 2: Treasure Box - Limited Edition | 212312 | [212312-attack-on-titan-2-treasure-box-limited-edition.json](./212312-attack-on-titan-2-treasure-box-limited-edition.json) |
@@ -16805,6 +16806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
 | Aztec Tribe | 52434 | [52434-aztec-tribe.json](./52434-aztec-tribe.json) |
 | Aztec Tribe: New Land | 52433 | [52433-aztec-tribe-new-land.json](./52433-aztec-tribe-new-land.json) |
+| Aztec Venture | 36622 | [36622-aztec-venture.json](./36622-aztec-venture.json) |
 | Aztec Wars | 80628 | [80628-aztec-wars.json](./80628-aztec-wars.json) |
 | Aztec: Hunt for the Sun-God | 145995 | [145995-aztec-hunt-for-the-sun-god.json](./145995-aztec-hunt-for-the-sun-god.json) |
 | Azteca | 206013 | [206013-azteca.json](./206013-azteca.json) |
