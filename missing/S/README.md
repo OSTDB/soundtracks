@@ -17679,6 +17679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Arcade Collection | 208870 | [208870-space-arcade-collection.json](./208870-space-arcade-collection.json) |
 | Space Architect | 149848 | [149848-space-architect.json](./149848-space-architect.json) |
 | Space Arena | 101030 | [101030-space-arena.json](./101030-space-arena.json) |
+| Space Ark | 14921 | [14921-space-ark.json](./14921-space-ark.json) |
 | Space Ark | 211553 | [211553-space-ark.json](./211553-space-ark.json) |
 | Space Armor | 6137 | [6137-space-armor.json](./6137-space-armor.json) |
 | Space Armor 2 | 101300 | [101300-space-armor-2.json](./101300-space-armor-2.json) |
@@ -23308,6 +23309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpuffs | 272908 | [272908-starpuffs.json](./272908-starpuffs.json) |
 | Starquake | 12479 | [12479-starquake.json](./12479-starquake.json) |
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
+| Starr Mazer | 14792 | [14792-starr-mazer.json](./14792-starr-mazer.json) |
 | Starr Mazer: DSP | 80547 | [80547-starr-mazer-dsp.json](./80547-starr-mazer-dsp.json) |
 | Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
@@ -24571,6 +24573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Jackson's Sorcery!: The Complete Collection | 53672 | [53672-steve-jacksons-sorcery-the-complete-collection.json](./53672-steve-jacksons-sorcery-the-complete-collection.json) |
 | Steve Long Episodes | 273211 | [273211-steve-long-episodes.json](./273211-steve-long-episodes.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
+| Steve McQueen Westphaser | 14786 | [14786-steve-mcqueen-westphaser.json](./14786-steve-mcqueen-westphaser.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve RPG | 209380 | [209380-steve-rpg.json](./209380-steve-rpg.json) |
 | Steve Stomp | 245188 | [245188-steve-stomp.json](./245188-steve-stomp.json) |
