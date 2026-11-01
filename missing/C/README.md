@@ -7406,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chris Isn't Alone | 215509 | [215509-chris-isnt-alone.json](./215509-chris-isnt-alone.json) |
 | Chris Kamara's Street Soccer | 43747 | [43747-chris-kamaras-street-soccer.json](./43747-chris-kamaras-street-soccer.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
+| Chris Sawyer's Locomotion | 10737 | [10737-chris-sawyers-locomotion.json](./10737-chris-sawyers-locomotion.json) |
 | Chris' Story | 215510 | [215510-chris-story.json](./215510-chris-story.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Chriss Cross | 150400 | [150400-chriss-cross.json](./150400-chriss-cross.json) |
@@ -12737,6 +12738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
 | Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
 | Construction Runner | 291533 | [291533-construction-runner.json](./291533-construction-runner.json) |
+| Construction Simulator | 206188 | [206188-construction-simulator.json](./206188-construction-simulator.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2: Console Edition | 109294 | [109294-construction-simulator-2-console-edition.json](./109294-construction-simulator-2-console-edition.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
@@ -12904,6 +12906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continent of the Ninth Seal | 15305 | [15305-continent-of-the-ninth-seal.json](./15305-continent-of-the-ninth-seal.json) |
 | Continental | 67396 | [67396-continental.json](./67396-continental.json) |
 | Continental Cafe | 52830 | [52830-continental-cafe.json](./52830-continental-cafe.json) |
+| Continental Circus | 12010 | [12010-continental-circus.json](./12010-continental-circus.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
 | Continental Galaxy 2020 | 59811 | [59811-continental-galaxy-2020.json](./59811-continental-galaxy-2020.json) |
 | Contingency | 181626 | [181626-contingency.json](./181626-contingency.json) |
@@ -18193,6 +18196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
 | Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
 | Curse of Elmwood | 279262 | [279262-curse-of-elmwood.json](./279262-curse-of-elmwood.json) |
+| Curse of Enchantia | 12021 | [12021-curse-of-enchantia.json](./12021-curse-of-enchantia.json) |
 | Curse of Eternity | 133075 | [133075-curse-of-eternity.json](./133075-curse-of-eternity.json) |
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
