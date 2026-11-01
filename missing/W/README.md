@@ -6231,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Empire: Fukkatsu no Tsue | 50049 | [50049-wizardry-empire-fukkatsu-no-tsue.json](./50049-wizardry-empire-fukkatsu-no-tsue.json) |
 | Wizardry Empire: Princess of the Ancient | 63826 | [63826-wizardry-empire-princess-of-the-ancient.json](./63826-wizardry-empire-princess-of-the-ancient.json) |
 | Wizardry Gaiden III: Scripture of the Dark | 49144 | [49144-wizardry-gaiden-iii-scripture-of-the-dark.json](./49144-wizardry-gaiden-iii-scripture-of-the-dark.json) |
+| Wizardry Gold | 62399 | [62399-wizardry-gold.json](./62399-wizardry-gold.json) |
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
 | Wizardry I-II-III: The Story of Llylgamyn | 42528 | [42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json](./42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json) |
 | Wizardry II: Llylgamyn no Isan | 50047 | [50047-wizardry-ii-llylgamyn-no-isan.json](./50047-wizardry-ii-llylgamyn-no-isan.json) |
