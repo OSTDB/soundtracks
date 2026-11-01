@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kadath | 114553 | [114553-kadath.json](./114553-kadath.json) |
 | Kadath | 386925 | [386925-kadath.json](./386925-kadath.json) |
 | Kaden Garth | 72474 | [72474-kaden-garth.json](./72474-kaden-garth.json) |
+| Kadenz fermata//Akkord:fortissimo | 61272 | [61272-kadenz-fermata-akkord-fortissimo.json](./61272-kadenz-fermata-akkord-fortissimo.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadetstvo: Novaya Istoriya | 336188 | [336188-kadetstvo-novaya-istoriya.json](./336188-kadetstvo-novaya-istoriya.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
