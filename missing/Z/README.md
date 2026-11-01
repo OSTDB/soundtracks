@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z-Opolis | 200983 | [200983-z-opolis.json](./200983-z-opolis.json) |
 | Z-Out | 12627 | [12627-z-out.json](./12627-z-out.json) |
+| Z-Pilot | 36673 | [36673-z-pilot.json](./36673-z-pilot.json) |
 | Z-Race | 144005 | [144005-z-race.json](./144005-z-race.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
 | Z-Stop | 212654 | [212654-z-stop.json](./212654-z-stop.json) |
@@ -214,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zafehouse Diaries 2 | 37414 | [37414-zafehouse-diaries-2.json](./37414-zafehouse-diaries-2.json) |
 | Zag | 301967 | [301967-zag.json](./301967-zag.json) |
 | Zaga | 80773 | [80773-zaga.json](./80773-zaga.json) |
+| Zaga Mission | 36654 | [36654-zaga-mission.json](./36654-zaga-mission.json) |
 | Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
 | Zagadki Tigrenka Usika | 188599 | [188599-zagadki-tigrenka-usika.json](./188599-zagadki-tigrenka-usika.json) |
 | Zagamihara | 192632 | [192632-zagamihara.json](./192632-zagamihara.json) |
