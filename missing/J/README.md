@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Guardians | 112720 | [112720-jungle-guardians.json](./112720-jungle-guardians.json) |
 | Jungle Heat: War of Clans | 56576 | [56576-jungle-heat-war-of-clans.json](./56576-jungle-heat-war-of-clans.json) |
 | Jungle House | 157455 | [157455-jungle-house.json](./157455-jungle-house.json) |
+| Jungle Hunt | 18228 | [18228-jungle-hunt.json](./18228-jungle-hunt.json) |
 | Jungle Hunt | 282065 | [282065-jungle-hunt.json](./282065-jungle-hunt.json) |
 | Jungle Hunt | 341966 | [341966-jungle-hunt.json](./341966-jungle-hunt.json) |
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
