@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
 | Samurai Shodown Anthology | 50648 | [50648-samurai-shodown-anthology.json](./50648-samurai-shodown-anthology.json) |
 | Samurai Shodown Enhanced | 142821 | [142821-samurai-shodown-enhanced.json](./142821-samurai-shodown-enhanced.json) |
+| Samurai Shodown II | 19986 | [19986-samurai-shodown-ii.json](./19986-samurai-shodown-ii.json) |
 | Samurai Shodown III | 19987 | [19987-samurai-shodown-iii.json](./19987-samurai-shodown-iii.json) |
 | Samurai Shodown IV: Amakusa's Revenge | 19988 | [19988-samurai-shodown-iv-amakusas-revenge.json](./19988-samurai-shodown-iv-amakusas-revenge.json) |
 | Samurai Shodown NeoGeo Collection | 116809 | [116809-samurai-shodown-neogeo-collection.json](./116809-samurai-shodown-neogeo-collection.json) |
@@ -16524,6 +16525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 4: Episode II | 9474 | [9474-sonic-the-hedgehog-4-episode-ii.json](./9474-sonic-the-hedgehog-4-episode-ii.json) |
 | Sonic the Hedgehog 4: Episode Metal | 197602 | [197602-sonic-the-hedgehog-4-episode-metal.json](./197602-sonic-the-hedgehog-4-episode-metal.json) |
 | Sonic the Hedgehog Beta Hoax | 323857 | [323857-sonic-the-hedgehog-beta-hoax.json](./323857-sonic-the-hedgehog-beta-hoax.json) |
+| Sonic the Hedgehog Chaos | 43322 | [43322-sonic-the-hedgehog-chaos.json](./43322-sonic-the-hedgehog-chaos.json) |
 | Sonic the Hedgehog Chaos & Spinball | 202266 | [202266-sonic-the-hedgehog-chaos-and-spinball.json](./202266-sonic-the-hedgehog-chaos-and-spinball.json) |
 | Sonic the Hedgehog Classic Heroes | 129159 | [129159-sonic-the-hedgehog-classic-heroes.json](./129159-sonic-the-hedgehog-classic-heroes.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
@@ -22651,6 +22653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Voyager - Across the Unknown | 362088 | [362088-star-trek-voyager-across-the-unknown.json](./362088-star-trek-voyager-across-the-unknown.json) |
 | Star Trek: Voyager - Across the Unknown: Deluxe DLC | 386561 | [386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json](./386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json) |
 | Star Trek: Voyager - Across the Unknown: Deluxe Edition | 386562 | [386562-star-trek-voyager-across-the-unknown-deluxe-edition.json](./386562-star-trek-voyager-across-the-unknown-deluxe-edition.json) |
+| Star Trek: Voyager - Elite Force | 877 | [877-star-trek-voyager-elite-force.json](./877-star-trek-voyager-elite-force.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trek: Warp | 409628 | [409628-star-trek-warp.json](./409628-star-trek-warp.json) |
 | Star Trigger | 214342 | [214342-star-trigger.json](./214342-star-trigger.json) |
@@ -22860,6 +22863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rogue Squadron II - Rogue Leader | 4181 | [4181-star-wars-rogue-squadron-ii-rogue-leader.json](./4181-star-wars-rogue-squadron-ii-rogue-leader.json) |
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
 | Star Wars: Secrets of the Empire | 134955 | [134955-star-wars-secrets-of-the-empire.json](./134955-star-wars-secrets-of-the-empire.json) |
+| Star Wars: Starfighter | 149 | [149-star-wars-starfighter.json](./149-star-wars-starfighter.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Super Bombad Racing | 18046 | [18046-star-wars-super-bombad-racing.json](./18046-star-wars-super-bombad-racing.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
