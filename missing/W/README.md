@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Field | 105682 | [105682-war-field.json](./105682-war-field.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
+| War for the Overworld | 1878 | [1878-war-for-the-overworld.json](./1878-war-for-the-overworld.json) |
 | War for the Overworld: Anniversary Collection | 51786 | [51786-war-for-the-overworld-anniversary-collection.json](./51786-war-for-the-overworld-anniversary-collection.json) |
 | War for the Overworld: Crucible | 51785 | [51785-war-for-the-overworld-crucible.json](./51785-war-for-the-overworld-crucible.json) |
 | War for the Overworld: Heart of Gold | 51784 | [51784-war-for-the-overworld-heart-of-gold.json](./51784-war-for-the-overworld-heart-of-gold.json) |
@@ -1572,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare, Inc.: Mega Microgame$! | 341060 | [341060-warioware-inc-mega-microgame.json](./341060-warioware-inc-mega-microgame.json) |
 | WarioWare, Inc.: Mega Microgame$! | 341061 | [341061-warioware-inc-mega-microgame.json](./341061-warioware-inc-mega-microgame.json) |
 | WarioWare, Inc.: Mega Microgame$! | 341062 | [341062-warioware-inc-mega-microgame.json](./341062-warioware-inc-mega-microgame.json) |
+| WarioWare, Inc.: Mega Party Games! | 1712 | [1712-warioware-inc-mega-party-games.json](./1712-warioware-inc-mega-party-games.json) |
 | WarioWare: D.I.Y. Showcase | 50705 | [50705-warioware-d-i-y-showcase.json](./50705-warioware-d-i-y-showcase.json) |
 | WarioWare: Get It Together! | 152358 | [152358-warioware-get-it-together.json](./152358-warioware-get-it-together.json) |
 | WarioWare: Move It! | 254341 | [254341-warioware-move-it.json](./254341-warioware-move-it.json) |
