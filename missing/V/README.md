@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
 | Valkyria Chronicles: Edy's Mission "Enter the Edy Detachment" | 138834 | [138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json](./138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json) |
 | Valkyria Chronicles: Hard EX Mode | 138836 | [138836-valkyria-chronicles-hard-ex-mode.json](./138836-valkyria-chronicles-hard-ex-mode.json) |
+| Valkyria Chronicles: Remastered - Europa Edition | 42957 | [42957-valkyria-chronicles-remastered-europa-edition.json](./42957-valkyria-chronicles-remastered-europa-edition.json) |
 | Valkyria Chronicles: Remastered - Steelbook Edition | 38491 | [38491-valkyria-chronicles-remastered-steelbook-edition.json](./38491-valkyria-chronicles-remastered-steelbook-edition.json) |
 | Valkyria Chronicles: Selveria's Mission - Behind Her Blue Flame | 138835 | [138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json](./138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json) |
 | Valkyria Revolution Scenario Pack: Maxim and Remembrance | 138818 | [138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json](./138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json) |
