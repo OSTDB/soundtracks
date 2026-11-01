@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
 | Jolt Family Robot Racer | 85217 | [85217-jolt-family-robot-racer.json](./85217-jolt-family-robot-racer.json) |
 | Jolt: Neon Breaker | 406234 | [406234-jolt-neon-breaker.json](./406234-jolt-neon-breaker.json) |
+| Jolt: Super Robot Racer | 32450 | [32450-jolt-super-robot-racer.json](./32450-jolt-super-robot-racer.json) |
 | Joltstone | 421823 | [421823-joltstone.json](./421823-joltstone.json) |
 | Joltt: Battle Pillars | 351784 | [351784-joltt-battle-pillars.json](./351784-joltt-battle-pillars.json) |
 | Joltz | 99350 | [99350-joltz.json](./99350-joltz.json) |
@@ -2671,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey: The Heart of Gaia | 50463 | [50463-journey-the-heart-of-gaia.json](./50463-journey-the-heart-of-gaia.json) |
 | Journey: The Quest Begins | 12163 | [12163-journey-the-quest-begins.json](./12163-journey-the-quest-begins.json) |
 | Journey's End | 142898 | [142898-journeys-end.json](./142898-journeys-end.json) |
+| Journey's End | 32391 | [32391-journeys-end.json](./32391-journeys-end.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
 | Joushou Mahjong Tenpai | 42423 | [42423-joushou-mahjong-tenpai.json](./42423-joushou-mahjong-tenpai.json) |
