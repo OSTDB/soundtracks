@@ -4741,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Golf | 245425 | [245425-pga-tour-golf.json](./245425-pga-tour-golf.json) |
 | PGA Tour Golf 486 | 94530 | [94530-pga-tour-golf-486.json](./94530-pga-tour-golf-486.json) |
 | PGA Tour Golf II | 368635 | [368635-pga-tour-golf-ii.json](./368635-pga-tour-golf-ii.json) |
+| PGA Tour Golf II | 46343 | [46343-pga-tour-golf-ii.json](./46343-pga-tour-golf-ii.json) |
 | PGA Tour Golf III | 45781 | [45781-pga-tour-golf-iii.json](./45781-pga-tour-golf-iii.json) |
 | PGA Tour Golf Shootout | 137414 | [137414-pga-tour-golf-shootout.json](./137414-pga-tour-golf-shootout.json) |
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
@@ -10696,6 +10697,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Drop | 146691 | [146691-poker-drop.json](./146691-poker-drop.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
 | Poker Extra | 130276 | [130276-poker-extra.json](./130276-poker-extra.json) |
+| Poker Face Paul's Blackjack | 46342 | [46342-poker-face-pauls-blackjack.json](./46342-poker-face-pauls-blackjack.json) |
+| Poker Face Paul's Gin | 46341 | [46341-poker-face-pauls-gin.json](./46341-poker-face-pauls-gin.json) |
+| Poker Face Paul's Poker | 46339 | [46339-poker-face-pauls-poker.json](./46339-poker-face-pauls-poker.json) |
+| Poker Face Paul's Solitaire | 46340 | [46340-poker-face-pauls-solitaire.json](./46340-poker-face-pauls-solitaire.json) |
 | Poker Fever | 89500 | [89500-poker-fever.json](./89500-poker-fever.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker France | 402345 | [402345-poker-france.json](./402345-poker-france.json) |
@@ -12522,6 +12527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Stone 2 | 13106 | [13106-power-stone-2.json](./13106-power-stone-2.json) |
 | Power Stone Collection | 13107 | [13107-power-stone-collection.json](./13107-power-stone-collection.json) |
 | Power Stone Mini | 227746 | [227746-power-stone-mini.json](./227746-power-stone-mini.json) |
+| Power Strike II | 46337 | [46337-power-strike-ii.json](./46337-power-strike-ii.json) |
 | Power Strike II | 80837 | [80837-power-strike-ii.json](./80837-power-strike-ii.json) |
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
@@ -15538,6 +15544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Storm | 37618 | [37618-psychic-storm.json](./37618-psychic-storm.json) |
 | Psychic Supernatural Boyfriend | 298925 | [298925-psychic-supernatural-boyfriend.json](./298925-psychic-supernatural-boyfriend.json) |
 | Psychic Ward: Kill The Seven King Dragon | 370283 | [370283-psychic-ward-kill-the-seven-king-dragon.json](./370283-psychic-ward-kill-the-seven-king-dragon.json) |
+| Psychic World | 46338 | [46338-psychic-world.json](./46338-psychic-world.json) |
 | Psychical Madness | 54339 | [54339-psychical-madness.json](./54339-psychical-madness.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
 | Psycho | 192245 | [192245-psycho.json](./192245-psycho.json) |
@@ -16636,6 +16643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle | 131268 | [131268-puzzle.json](./131268-puzzle.json) |
 | Puzzle | 287546 | [287546-puzzle.json](./287546-puzzle.json) |
 | Puzzle | 423880 | [423880-puzzle.json](./423880-puzzle.json) |
+| Puzzle & Action: Ichidant-R GG | 46311 | [46311-puzzle-and-action-ichidant-r-gg.json](./46311-puzzle-and-action-ichidant-r-gg.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Battle | 214337 | [214337-puzzle-and-battle.json](./214337-puzzle-and-battle.json) |
 | Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
