@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Eye Madness | 377631 | [377631-rapid-eye-madness.json](./377631-rapid-eye-madness.json) |
 | Rapid Fall | 103137 | [103137-rapid-fall.json](./103137-rapid-fall.json) |
 | Rapid Fire | 112751 | [112751-rapid-fire.json](./112751-rapid-fire.json) |
+| Rapid Fire | 54668 | [54668-rapid-fire.json](./54668-rapid-fire.json) |
 | Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
 | Rapid Jump | 87290 | [87290-rapid-jump.json](./87290-rapid-jump.json) |
@@ -6428,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riana Rouge | 3713 | [3713-riana-rouge.json](./3713-riana-rouge.json) |
 | Riba | 176710 | [176710-riba.json](./176710-riba.json) |
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
+| Ribbert's Adventure | 54784 | [54784-ribberts-adventure.json](./54784-ribberts-adventure.json) |
 | Ribbit | 213366 | [213366-ribbit.json](./213366-ribbit.json) |
 | Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
@@ -6769,6 +6771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Catapult Simulator | 120134 | [120134-ridiculous-catapult-simulator.json](./120134-ridiculous-catapult-simulator.json) |
 | Ridiculous Fishing | 5635 | [5635-ridiculous-fishing.json](./5635-ridiculous-fishing.json) |
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
+| Ridiculous Marathon | 54756 | [54756-ridiculous-marathon.json](./54756-ridiculous-marathon.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Rugby | 107593 | [107593-ridiculous-rugby.json](./107593-ridiculous-rugby.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
