@@ -11749,6 +11749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motion: Sk8 HousE | 209208 | [209208-mini-motion-sk8-house.json](./209208-mini-motion-sk8-house.json) |
 | Mini Motor Racing | 89093 | [89093-mini-motor-racing.json](./89093-mini-motor-racing.json) |
 | Mini Motor Racing 2 | 188394 | [188394-mini-motor-racing-2.json](./188394-mini-motor-racing-2.json) |
+| Mini Motor Racing WRT | 38682 | [38682-mini-motor-racing-wrt.json](./38682-mini-motor-racing-wrt.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X | 197623 | [197623-mini-motor-racing-x.json](./197623-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
@@ -13403,6 +13404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Cannon Strike | 239041 | [239041-modern-cannon-strike.json](./239041-modern-cannon-strike.json) |
 | Modern Combat | 166216 | [166216-modern-combat.json](./166216-modern-combat.json) |
 | Modern Combat 2: Black Pegasus | 239484 | [239484-modern-combat-2-black-pegasus.json](./239484-modern-combat-2-black-pegasus.json) |
+| Modern Combat 2: Black Pegasus | 38678 | [38678-modern-combat-2-black-pegasus.json](./38678-modern-combat-2-black-pegasus.json) |
 | Modern Combat 3: Fallen Nation | 18882 | [18882-modern-combat-3-fallen-nation.json](./18882-modern-combat-3-fallen-nation.json) |
 | Modern Combat 4: Zero Hour | 38679 | [38679-modern-combat-4-zero-hour.json](./38679-modern-combat-4-zero-hour.json) |
 | Modern Combat 5: Blackout | 23409 | [23409-modern-combat-5-blackout.json](./23409-modern-combat-5-blackout.json) |
@@ -18271,6 +18273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
 | MX Bodycam Bikes Racing | 374250 | [374250-mx-bodycam-bikes-racing.json](./374250-mx-bodycam-bikes-racing.json) |
 | MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
+| MX Moto | 38667 | [38667-mx-moto.json](./38667-mx-moto.json) |
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX Simulator | 21182 | [21182-mx-simulator.json](./21182-mx-simulator.json) |
