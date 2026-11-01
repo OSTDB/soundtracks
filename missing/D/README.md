@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad Discovers The Internet | 297084 | [297084-dad-discovers-the-internet.json](./297084-dad-discovers-the-internet.json) |
 | Dad Hungry! | 341146 | [341146-dad-hungry.json](./341146-dad-hungry.json) |
 | Dad Left Me in the Car | 343318 | [343318-dad-left-me-in-the-car.json](./343318-dad-left-me-in-the-car.json) |
+| Dad n' Me | 134300 | [134300-dad-n-me.json](./134300-dad-n-me.json) |
 | Dad Quest | 27145 | [27145-dad-quest.json](./27145-dad-quest.json) |
 | Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
 | Dad's Coming | 212671 | [212671-dads-coming.json](./212671-dads-coming.json) |
@@ -3656,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spreading | 261871 | [261871-dead-spreading.json](./261871-dead-spreading.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Star | 21960 | [21960-dead-star.json](./21960-dead-star.json) |
+| Dead State | 8349 | [8349-dead-state.json](./8349-dead-state.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead Station 2 | 305410 | [305410-dead-station-2.json](./305410-dead-station-2.json) |
 | Dead sticks | 177674 | [177674-dead-sticks.json](./177674-dead-sticks.json) |
@@ -8907,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Robot Infinity | 193842 | [193842-dino-robot-infinity.json](./193842-dino-robot-infinity.json) |
 | Dino Robot: Megalodon | 193796 | [193796-dino-robot-megalodon.json](./193796-dino-robot-megalodon.json) |
 | Dino Run | 260083 | [260083-dino-run.json](./260083-dino-run.json) |
+| Dino Run | 8309 | [8309-dino-run.json](./8309-dino-run.json) |
 | Dino Run 2 | 87853 | [87853-dino-run-2.json](./87853-dino-run-2.json) |
 | Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
@@ -9839,6 +9842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's DuckTales | 6487 | [6487-disneys-ducktales.json](./6487-disneys-ducktales.json) |
 | Disney's DuckTales 2 | 145272 | [145272-disneys-ducktales-2.json](./145272-disneys-ducktales-2.json) |
 | Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
+| Disney's DuckTales: The Quest for Gold | 8451 | [8451-disneys-ducktales-the-quest-for-gold.json](./8451-disneys-ducktales-the-quest-for-gold.json) |
 | Disney's Extreme Skate Adventure | 242994 | [242994-disneys-extreme-skate-adventure.json](./242994-disneys-extreme-skate-adventure.json) |
 | Disney's Extremely Goofy Skateboarding | 78286 | [78286-disneys-extremely-goofy-skateboarding.json](./78286-disneys-extremely-goofy-skateboarding.json) |
 | Disney's Goof Troop | 205930 | [205930-disneys-goof-troop.json](./205930-disneys-goof-troop.json) |
@@ -17794,6 +17798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dying Light: Godfather Bundle | 224142 | [224142-dying-light-godfather-bundle.json](./224142-dying-light-godfather-bundle.json) |
 | Dying Light: Harran Inmate Bundle | 224137 | [224137-dying-light-harran-inmate-bundle.json](./224137-dying-light-harran-inmate-bundle.json) |
+| Dying Light: Hellraid | 138379 | [138379-dying-light-hellraid.json](./138379-dying-light-hellraid.json) |
 | Dying Light: My Apocalypse Collectors Edition | 283599 | [283599-dying-light-my-apocalypse-collectors-edition.json](./283599-dying-light-my-apocalypse-collectors-edition.json) |
 | Dying Light: Ox Warrior Bundle | 224134 | [224134-dying-light-ox-warrior-bundle.json](./224134-dying-light-ox-warrior-bundle.json) |
 | Dying Light: Platinum Edition | 152030 | [152030-dying-light-platinum-edition.json](./152030-dying-light-platinum-edition.json) |
@@ -17981,6 +17986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyno Adventure | 31399 | [31399-dyno-adventure.json](./31399-dyno-adventure.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynomite Deluxe | 71301 | [71301-dynomite-deluxe.json](./71301-dynomite-deluxe.json) |
+| Dynomite! | 8324 | [8324-dynomite.json](./8324-dynomite.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
 | Dynopunk: Welcome to Synth-City | 244703 | [244703-dynopunk-welcome-to-synth-city.json](./244703-dynopunk-welcome-to-synth-city.json) |
 | Dynos & Ghosts | 143563 | [143563-dynos-and-ghosts.json](./143563-dynos-and-ghosts.json) |
