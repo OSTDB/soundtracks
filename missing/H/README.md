@@ -9411,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HorseGame | 126324 | [126324-horsegame.json](./126324-horsegame.json) |
 | Horses | 265637 | [265637-horses.json](./265637-horses.json) |
 | Horses 2025 | 394645 | [394645-horses-2025.json](./394645-horses-2025.json) |
+| Horses 3D | 47637 | [47637-horses-3d.json](./47637-horses-3d.json) |
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
@@ -9457,6 +9458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
 | Hoshiai no Sora | 398986 | [398986-hoshiai-no-sora.json](./398986-hoshiai-no-sora.json) |
 | Hoshigami: Ruining Blue Earth | 45223 | [45223-hoshigami-ruining-blue-earth.json](./45223-hoshigami-ruining-blue-earth.json) |
+| Hoshigami: Ruining Blue Earth Remix | 47717 | [47717-hoshigami-ruining-blue-earth-remix.json](./47717-hoshigami-ruining-blue-earth-remix.json) |
 | Hoshigari Empusa Portable | 91642 | [91642-hoshigari-empusa-portable.json](./91642-hoshigari-empusa-portable.json) |
 | Hoshigari Empusa! | 268646 | [268646-hoshigari-empusa.json](./268646-hoshigari-empusa.json) |
 | Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
@@ -9895,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
 | Hotel The Memory | 409710 | [409710-hotel-the-memory.json](./409710-hotel-the-memory.json) |
 | Hotel Tome ws | 340486 | [340486-hotel-tome-ws.json](./340486-hotel-tome-ws.json) |
+| Hotel Transylvania | 47705 | [47705-hotel-transylvania.json](./47705-hotel-transylvania.json) |
 | Hotel Transylvania 2: The Game | 108822 | [108822-hotel-transylvania-2-the-game.json](./108822-hotel-transylvania-2-the-game.json) |
 | Hotel Transylvania Adventures: Run, Jump, Build! | 142290 | [142290-hotel-transylvania-adventures-run-jump-build.json](./142290-hotel-transylvania-adventures-run-jump-build.json) |
 | Hotel Transylvania Dash | 108820 | [108820-hotel-transylvania-dash.json](./108820-hotel-transylvania-dash.json) |
