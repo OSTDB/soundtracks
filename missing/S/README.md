@@ -4085,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Puberty | 176923 | [176923-second-puberty.json](./176923-second-puberty.json) |
 | Second Room | 302577 | [302577-second-room.json](./302577-second-room.json) |
 | Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
+| Second Samurai | 4422 | [4422-second-samurai.json](./4422-second-samurai.json) |
 | Second Second | 110776 | [110776-second-second.json](./110776-second-second.json) |
 | Second Sight Dilemma | 383073 | [383073-second-sight-dilemma.json](./383073-second-sight-dilemma.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
@@ -6344,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior: Special Edition | 53592 | [53592-shadow-warrior-special-edition.json](./53592-shadow-warrior-special-edition.json) |
 | Shadow Warriors | 6878 | [6878-shadow-warriors.json](./6878-shadow-warriors.json) |
 | Shadow Wars | 98553 | [98553-shadow-wars.json](./98553-shadow-wars.json) |
+| Shadow Watch | 1860 | [1860-shadow-watch.json](./1860-shadow-watch.json) |
 | Shadow Watcher | 186486 | [186486-shadow-watcher.json](./186486-shadow-watcher.json) |
 | Shadow Wolf Mysteries: Bane of the Family | 139734 | [139734-shadow-wolf-mysteries-bane-of-the-family.json](./139734-shadow-wolf-mysteries-bane-of-the-family.json) |
 | Shadow Wolf Mysteries: Bane of the Family - Collector's Edition | 76479 | [76479-shadow-wolf-mysteries-bane-of-the-family-collectors-edition.json](./76479-shadow-wolf-mysteries-bane-of-the-family-collectors-edition.json) |
@@ -14766,6 +14768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
 | Sock Puppet Superstar | 400678 | [400678-sock-puppet-superstar.json](./400678-sock-puppet-superstar.json) |
+| Socket | 4439 | [4439-socket.json](./4439-socket.json) |
 | Socket Fighters | 246007 | [246007-socket-fighters.json](./246007-socket-fighters.json) |
 | Socketeer | 107225 | [107225-socketeer.json](./107225-socketeer.json) |
 | Sockman | 75634 | [75634-sockman.json](./75634-sockman.json) |
@@ -18115,7 +18118,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
