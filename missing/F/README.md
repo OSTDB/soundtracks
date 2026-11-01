@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 Grand Prix Part II | 38335 | [38335-f-1-grand-prix-part-ii.json](./38335-f-1-grand-prix-part-ii.json) |
 | F-1 Grand Prix Part III | 38362 | [38362-f-1-grand-prix-part-iii.json](./38362-f-1-grand-prix-part-iii.json) |
 | F-1 Race | 240167 | [240167-f-1-race.json](./240167-f-1-race.json) |
+| F-1 Spirit 3D Special | 41705 | [41705-f-1-spirit-3d-special.json](./41705-f-1-spirit-3d-special.json) |
 | F-1 World Grand Prix | 248741 | [248741-f-1-world-grand-prix.json](./248741-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix | 3487 | [3487-f-1-world-grand-prix.json](./3487-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix for Dreamcast | 248742 | [248742-f-1-world-grand-prix-for-dreamcast.json](./248742-f-1-world-grand-prix-for-dreamcast.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Circus Special: Pole to Win | 185879 | [185879-f1-circus-special-pole-to-win.json](./185879-f1-circus-special-pole-to-win.json) |
 | F1 Clash | 153653 | [153653-f1-clash.json](./153653-f1-clash.json) |
+| F1 Douchuuki | 41711 | [41711-f1-douchuuki.json](./41711-f1-douchuuki.json) |
 | F1 Dream | 44327 | [44327-f1-dream.json](./44327-f1-dream.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
@@ -4386,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figures of Happiness | 73886 | [73886-figures-of-happiness.json](./73886-figures-of-happiness.json) |
 | Figures of Heroes | 230925 | [230925-figures-of-heroes.json](./230925-figures-of-heroes.json) |
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
+| Figures Saga | 41703 | [41703-figures-saga.json](./41703-figures-saga.json) |
 | Figurine Shop Simulator | 346592 | [346592-figurine-shop-simulator.json](./346592-figurine-shop-simulator.json) |
 | Fiil Mark 37 | 183246 | [183246-fiil-mark-37.json](./183246-fiil-mark-37.json) |
 | FIL | 160096 | [160096-fil.json](./160096-fil.json) |
@@ -10447,6 +10450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fray | 381038 | [381038-fray.json](./381038-fray.json) |
 | Fray | 94118 | [94118-fray.json](./94118-fray.json) |
 | Fray Fight | 202523 | [202523-fray-fight.json](./202523-fray-fight.json) |
+| Fray in Magical Adventure | 41717 | [41717-fray-in-magical-adventure.json](./41717-fray-in-magical-adventure.json) |
 | Fray in Magical Adventure CD: Xak Gaiden | 65273 | [65273-fray-in-magical-adventure-cd-xak-gaiden.json](./65273-fray-in-magical-adventure-cd-xak-gaiden.json) |
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
 | Fray: Shugyou-hen | 130763 | [130763-fray-shugyou-hen.json](./130763-fray-shugyou-hen.json) |
