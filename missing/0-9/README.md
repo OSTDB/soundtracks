@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Days of Tactical Farming | 185000 | [185000-3-days-of-tactical-farming.json](./185000-3-days-of-tactical-farming.json) |
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
+| 3 Days: Amulet Secret | 25464 | [25464-3-days-amulet-secret.json](./25464-3-days-amulet-secret.json) |
 | 3 Days: Ghosts of War | 197583 | [197583-3-days-ghosts-of-war.json](./197583-3-days-ghosts-of-war.json) |
 | 3 Days: Zoo Mystery | 52355 | [52355-3-days-zoo-mystery.json](./52355-3-days-zoo-mystery.json) |
 | 3 Deep Space | 83269 | [83269-3-deep-space.json](./83269-3-deep-space.json) |
