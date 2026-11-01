@@ -6822,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Tides | 333435 | [333435-nuclear-tides.json](./333435-nuclear-tides.json) |
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
+| Nuclear Union | 1909 | [1909-nuclear-union.json](./1909-nuclear-union.json) |
 | Nuclear War | 12189 | [12189-nuclear-war.json](./12189-nuclear-war.json) |
 | Nuclear War Simulator | 154350 | [154350-nuclear-war-simulator.json](./154350-nuclear-war-simulator.json) |
 | Nuclear Wasteland 2030 | 91787 | [91787-nuclear-wasteland-2030.json](./91787-nuclear-wasteland-2030.json) |
