@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.V Favorites Bundle | 284747 | [284747-t-v-favorites-bundle.json](./284747-t-v-favorites-bundle.json) |
 | T.W. Burgess Presents: Pylons | 169877 | [169877-t-w-burgess-presents-pylons.json](./169877-t-w-burgess-presents-pylons.json) |
 | T.W.I.R.L. | 399150 | [399150-t-w-i-r-l.json](./399150-t-w-i-r-l.json) |
+| T'ai Fu: Wrath of the Tiger | 8279 | [8279-tai-fu-wrath-of-the-tiger.json](./8279-tai-fu-wrath-of-the-tiger.json) |
 | T'Was a Time of Dread | 122639 | [122639-twas-a-time-of-dread.json](./122639-twas-a-time-of-dread.json) |
 | T^2.5 | 169731 | [169731-t-2-5.json](./169731-t-2-5.json) |
 | T10X Car Simulator | 256718 | [256718-t10x-car-simulator.json](./256718-t10x-car-simulator.json) |
@@ -2773,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teaching Assistant Life: Song Ha-Yoon | 415771 | [415771-teaching-assistant-life-song-ha-yoon.json](./415771-teaching-assistant-life-song-ha-yoon.json) |
 | Teaching Gender-Affirming Care | 405151 | [405151-teaching-gender-affirming-care.json](./405151-teaching-gender-affirming-care.json) |
 | Teaching Simulator: Elite Class | 377972 | [377972-teaching-simulator-elite-class.json](./377972-teaching-simulator-elite-class.json) |
+| Teacup | 142419 | [142419-teacup.json](./142419-teacup.json) |
 | Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
 | Tead | 163096 | [163096-tead.json](./163096-tead.json) |
 | Teahouse of Souls | 210988 | [210988-teahouse-of-souls.json](./210988-teahouse-of-souls.json) |
@@ -15453,6 +15455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Incheon Arrivals Kit | 178212 | [178212-the-sims-4-incheon-arrivals-kit.json](./178212-the-sims-4-incheon-arrivals-kit.json) |
 | The Sims 4: Industrial Loft Kit | 165538 | [165538-the-sims-4-industrial-loft-kit.json](./165538-the-sims-4-industrial-loft-kit.json) |
 | The Sims 4: Island Living | 119318 | [119318-the-sims-4-island-living.json](./119318-the-sims-4-island-living.json) |
+| The Sims 4: Journey to Batuu | 137294 | [137294-the-sims-4-journey-to-batuu.json](./137294-the-sims-4-journey-to-batuu.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
 | The Sims 4: Kitchen Clutter Kit | 350996 | [350996-the-sims-4-kitchen-clutter-kit.json](./350996-the-sims-4-kitchen-clutter-kit.json) |
 | The Sims 4: Lady Bridgerton's Masquerade Ball Fashion Kit | 404233 | [404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json](./404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json) |
