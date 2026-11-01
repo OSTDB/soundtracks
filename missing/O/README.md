@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
 | Onimusha 3: Demon Siege | 11758 | [11758-onimusha-3-demon-siege.json](./11758-onimusha-3-demon-siege.json) |
+| Onimusha Essentials | 43612 | [43612-onimusha-essentials.json](./43612-onimusha-essentials.json) |
 | Onimusha Soul | 63642 | [63642-onimusha-soul.json](./63642-onimusha-soul.json) |
 | Onimusha Tactics | 6526 | [6526-onimusha-tactics.json](./6526-onimusha-tactics.json) |
 | Onimusha: Blade Warriors | 10551 | [10551-onimusha-blade-warriors.json](./10551-onimusha-blade-warriors.json) |
@@ -4900,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw Tennis | 5977 | [5977-outlaw-tennis.json](./5977-outlaw-tennis.json) |
 | Outlaw Volleyball | 3806 | [3806-outlaw-volleyball.json](./3806-outlaw-volleyball.json) |
+| Outlaw Volleyball: Remixed | 43628 | [43628-outlaw-volleyball-remixed.json](./43628-outlaw-volleyball-remixed.json) |
 | Outlaw's Gold | 319715 | [319715-outlaws-gold.json](./319715-outlaws-gold.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws | 115755 | [115755-outlaws.json](./115755-outlaws.json) |
