@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
 | Journey For Elysium | 120758 | [120758-journey-for-elysium.json](./120758-journey-for-elysium.json) |
+| Journey From Darkness: Strider Returns | 46334 | [46334-journey-from-darkness-strider-returns.json](./46334-journey-from-darkness-strider-returns.json) |
 | Journey From Darkness: Strider Returns | 72621 | [72621-journey-from-darkness-strider-returns.json](./72621-journey-from-darkness-strider-returns.json) |
 | Journey Home | 229528 | [229528-journey-home.json](./229528-journey-home.json) |
 | Journey Into Darkness | 243122 | [243122-journey-into-darkness.json](./243122-journey-into-darkness.json) |
