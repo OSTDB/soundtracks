@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R'lyeh Assault | 230194 | [230194-rlyeh-assault.json](./230194-rlyeh-assault.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
+| R/C Stunt Copter | 44953 | [44953-r-c-stunt-copter.json](./44953-r-c-stunt-copter.json) |
 | R&Dy | 254940 | [254940-r-and-dy.json](./254940-r-and-dy.json) |
 | R00000 | 260309 | [260309-r00000.json](./260309-r00000.json) |
 | R00m | 199862 | [199862-r00m.json](./199862-r00m.json) |
@@ -4744,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade Ops | 2139 | [2139-renegade-ops.json](./2139-renegade-ops.json) |
 | Renegade Ops: Coldstrike Campaign | 140394 | [140394-renegade-ops-coldstrike-campaign.json](./140394-renegade-ops-coldstrike-campaign.json) |
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
+| Renegade Racers | 44978 | [44978-renegade-racers.json](./44978-renegade-racers.json) |
 | Renegade Racing | 257872 | [257872-renegade-racing.json](./257872-renegade-racing.json) |
 | Renegade Racing | 328010 | [328010-renegade-racing.json](./328010-renegade-racing.json) |
 | Renegade Run | 405710 | [405710-renegade-run.json](./405710-renegade-run.json) |
@@ -4987,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue at Rajini Island | 54317 | [54317-rescue-at-rajini-island.json](./54317-rescue-at-rajini-island.json) |
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
 | Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
+| Rescue Copter | 44977 | [44977-rescue-copter.json](./44977-rescue-copter.json) |
 | Rescue Copter | 80861 | [80861-rescue-copter.json](./80861-rescue-copter.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
 | Rescue Drone Simulator: Second Chance | 424036 | [424036-rescue-drone-simulator-second-chance.json](./424036-rescue-drone-simulator-second-chance.json) |
@@ -8118,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
 | Robo-Ninja | 134353 | [134353-robo-ninja.json](./134353-robo-ninja.json) |
 | Robo-Ninja Climb | 134354 | [134354-robo-ninja-climb.json](./134354-robo-ninja-climb.json) |
+| Robo-Pit 2 | 44975 | [44975-robo-pit-2.json](./44975-robo-pit-2.json) |
 | Robo-Summit | 180683 | [180683-robo-summit.json](./180683-robo-summit.json) |
 | Robo-tea: 1cup! | 178518 | [178518-robo-tea-1cup.json](./178518-robo-tea-1cup.json) |
 | Robo-War | 85824 | [85824-robo-war.json](./85824-robo-war.json) |
@@ -10746,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Heirs of the Kings | 100821 | [100821-rpg-heirs-of-the-kings.json](./100821-rpg-heirs-of-the-kings.json) |
 | RPG Idle | 169796 | [169796-rpg-idle.json](./169796-rpg-idle.json) |
 | RPG in a Box | 138519 | [138519-rpg-in-a-box.json](./138519-rpg-in-a-box.json) |
+| RPG Maker | 44972 | [44972-rpg-maker.json](./44972-rpg-maker.json) |
 | RPG Maker 2000 | 53528 | [53528-rpg-maker-2000.json](./53528-rpg-maker-2000.json) |
 | RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
@@ -11703,6 +11708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Vs Chat | 141654 | [141654-running-vs-chat.json](./141654-running-vs-chat.json) |
 | Running Water | 173297 | [173297-running-water.json](./173297-running-water.json) |
 | Running Water a.k.a Jugsy | 178424 | [178424-running-water-a-k-a-jugsy.json](./178424-running-water-a-k-a-jugsy.json) |
+| Running Wild | 44973 | [44973-running-wild.json](./44973-running-wild.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
 | RunningDead | 29650 | [29650-runningdead.json](./29650-runningdead.json) |
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
