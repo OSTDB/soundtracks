@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darok | 309447 | [309447-darok.json](./309447-darok.json) |
 | Darold the Doomer: Back 2 Reality | 220004 | [220004-darold-the-doomer-back-2-reality.json](./220004-darold-the-doomer-back-2-reality.json) |
 | Darold the Doomer: Psychedelic Lucid Dreams | 195363 | [195363-darold-the-doomer-psychedelic-lucid-dreams.json](./195363-darold-the-doomer-psychedelic-lucid-dreams.json) |
+| Darq | 68271 | [68271-darq.json](./68271-darq.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
 | Darq: Ultimate Edition | 218883 | [218883-darq-ultimate-edition.json](./218883-darq-ultimate-edition.json) |
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
@@ -5336,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Fortune 2 | 200295 | [200295-defense-of-fortune-2.json](./200295-defense-of-fortune-2.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
+| Defense of the Ancients | 2283 | [2283-defense-of-the-ancients.json](./2283-defense-of-the-ancients.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
 | Defense of the Earth | 293596 | [293596-defense-of-the-earth.json](./293596-defense-of-the-earth.json) |
 | Defense of the Fantasy Robots | 110079 | [110079-defense-of-the-fantasy-robots.json](./110079-defense-of-the-fantasy-robots.json) |
@@ -5725,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: A Different Snowgrave | 326597 | [326597-deltarune-a-different-snowgrave.json](./326597-deltarune-a-different-snowgrave.json) |
 | Deltarune: Broken Destiny | 329950 | [329950-deltarune-broken-destiny.json](./329950-deltarune-broken-destiny.json) |
 | Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
+| Deltarune: Chapter 2 | 170777 | [170777-deltarune-chapter-2.json](./170777-deltarune-chapter-2.json) |
 | Deltarune: Chapter 5 | 274238 | [274238-deltarune-chapter-5.json](./274238-deltarune-chapter-5.json) |
 | Deltarune: Chapter 6 | 408171 | [408171-deltarune-chapter-6.json](./408171-deltarune-chapter-6.json) |
 | Deltarune: Chapter 7 | 409874 | [409874-deltarune-chapter-7.json](./409874-deltarune-chapter-7.json) |
@@ -13930,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest IV: Chapters of the Chosen | 216304 | [216304-dragon-quest-iv-chapters-of-the-chosen.json](./216304-dragon-quest-iv-chapters-of-the-chosen.json) |
 | Dragon Quest IV: Michibikareshi Mono-tachi | 145467 | [145467-dragon-quest-iv-michibikareshi-mono-tachi.json](./145467-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest IV: Michibikareshi Mono-tachi | 271211 | [271211-dragon-quest-iv-michibikareshi-mono-tachi.json](./271211-dragon-quest-iv-michibikareshi-mono-tachi.json) |
+| Dragon Quest IX: Sentinels of the Starry Skies | 1820 | [1820-dragon-quest-ix-sentinels-of-the-starry-skies.json](./1820-dragon-quest-ix-sentinels-of-the-starry-skies.json) |
 | Dragon Quest Keshi Keshi | 194015 | [194015-dragon-quest-keshi-keshi.json](./194015-dragon-quest-keshi-keshi.json) |
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
 | Dragon Quest Monsters 1+2 | 24853 | [24853-dragon-quest-monsters-1-2.json](./24853-dragon-quest-monsters-1-2.json) |
