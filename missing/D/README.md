@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 3 | 257645 | [257645-daymare-town-3.json](./257645-daymare-town-3.json) |
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
+| Daymare Town Complete Collection | 27237 | [27237-daymare-town-complete-collection.json](./27237-daymare-town-complete-collection.json) |
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days End | 255495 | [255495-days-end.json](./255495-days-end.json) |
@@ -12746,6 +12747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
 | Double Sphere | 41153 | [41153-double-sphere.json](./41153-double-sphere.json) |
+| Double Spoiler: Touhou Bunkachou | 27169 | [27169-double-spoiler-touhou-bunkachou.json](./27169-double-spoiler-touhou-bunkachou.json) |
 | Double Stretch | 108359 | [108359-double-stretch.json](./108359-double-stretch.json) |
 | Double Switch | 139169 | [139169-double-switch.json](./139169-double-switch.json) |
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
