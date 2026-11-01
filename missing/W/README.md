@@ -8568,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuxian | 236406 | [236406-wuxian.json](./236406-wuxian.json) |
 | Wuxing Master(CCG) | 81064 | [81064-wuxing-master-ccg.json](./81064-wuxing-master-ccg.json) |
 | Wuz | 213753 | [213753-wuz.json](./213753-wuz.json) |
+| Wuz up b? Produce: Street Dancer | 37468 | [37468-wuz-up-b-produce-street-dancer.json](./37468-wuz-up-b-produce-street-dancer.json) |
 | Wuzzy The Buzzy | 349775 | [349775-wuzzy-the-buzzy.json](./349775-wuzzy-the-buzzy.json) |
 | WW Fantasy | 98773 | [98773-ww-fantasy.json](./98773-ww-fantasy.json) |
 | WW Furnishing | 353815 | [353815-ww-furnishing.json](./353815-ww-furnishing.json) |
