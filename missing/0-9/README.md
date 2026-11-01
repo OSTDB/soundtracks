@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | '96 Zenkoku Koukou Soccer Senshuken | 42349 | [42349-96-zenkoku-koukou-soccer-senshuken.json](./42349-96-zenkoku-koukou-soccer-senshuken.json) |
 | '98 Year Koushien | 58510 | [58510-98-year-koushien.json](./58510-98-year-koushien.json) |
 | '99 Koushien | 58516 | [58516-99-koushien.json](./58516-99-koushien.json) |
+| '99: The Last War | 41078 | [41078-99-the-last-war.json](./41078-99-the-last-war.json) |
 | 'Allo 'Allo! Cartoon Fun! | 14249 | [14249-allo-allo-cartoon-fun.json](./14249-allo-allo-cartoon-fun.json) |
 | 'Ard Drivin' | 314225 | [314225-ard-drivin.json](./314225-ard-drivin.json) |
 | 'Dillos | 79665 | [79665-dillos.json](./79665-dillos.json) |
