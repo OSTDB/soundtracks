@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World - Episode 2: Situation Comedy | 27822 | [27822-sam-and-max-save-the-world-episode-2-situation-comedy.json](./27822-sam-and-max-save-the-world-episode-2-situation-comedy.json) |
+| Sam & Max: Save the World - Episode 3: The Mole, the Mob and the Meatball | 27821 | [27821-sam-and-max-save-the-world-episode-3-the-mole-the-mob-and-the-meatball.json](./27821-sam-and-max-save-the-world-episode-3-the-mole-the-mob-and-the-meatball.json) |
 | Sam & Max: Save the World - Episode 5: Reality 2.0 | 27824 | [27824-sam-and-max-save-the-world-episode-5-reality-2-0.json](./27824-sam-and-max-save-the-world-episode-5-reality-2-0.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
@@ -17158,6 +17159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Fjord | 51174 | [51174-soul-fjord.json](./51174-soul-fjord.json) |
 | Soul for two | 81637 | [81637-soul-for-two.json](./81637-soul-for-two.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
+| Soul Gambler | 17625 | [17625-soul-gambler.json](./17625-soul-gambler.json) |
 | Soul Gather | 372012 | [372012-soul-gather.json](./372012-soul-gather.json) |
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
 | Soul Grabber | 83537 | [83537-soul-grabber.json](./83537-soul-grabber.json) |
@@ -17652,6 +17654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
 | Soviet Simulator | 164194 | [164194-soviet-simulator.json](./164194-soviet-simulator.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
+| Soviet Strike | 19418 | [19418-soviet-strike.json](./19418-soviet-strike.json) |
 | Soviet Union 2010 | 267567 | [267567-soviet-union-2010.json](./267567-soviet-union-2010.json) |
 | Soviet Union 2011 | 404414 | [404414-soviet-union-2011.json](./404414-soviet-union-2011.json) |
 | Soviet Unterzoegersdorf: Sector I | 175775 | [175775-soviet-unterzoegersdorf-sector-i.json](./175775-soviet-unterzoegersdorf-sector-i.json) |
@@ -18164,7 +18167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21067,6 +21069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
+| Sports Champions 2 | 18238 | [18238-sports-champions-2.json](./18238-sports-champions-2.json) |
 | Sports Club Boyfriend: Secrets of BL Academy | 268657 | [268657-sports-club-boyfriend-secrets-of-bl-academy.json](./268657-sports-club-boyfriend-secrets-of-bl-academy.json) |
 | Sports Feel Baseball | 218010 | [218010-sports-feel-baseball.json](./218010-sports-feel-baseball.json) |
 | Sports Feel Fishing Champion | 218011 | [218011-sports-feel-fishing-champion.json](./218011-sports-feel-fishing-champion.json) |
@@ -22277,6 +22280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Adventures | 2686 | [2686-star-fox-adventures.json](./2686-star-fox-adventures.json) |
 | Star Fox Command | 20556 | [20556-star-fox-command.json](./20556-star-fox-command.json) |
 | Star Fox EX: Exploration Showcase | 233556 | [233556-star-fox-ex-exploration-showcase.json](./233556-star-fox-ex-exploration-showcase.json) |
+| Star Fox Guard | 19687 | [19687-star-fox-guard.json](./19687-star-fox-guard.json) |
 | Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
 | Star Fox Wii | 279750 | [279750-star-fox-wii.json](./279750-star-fox-wii.json) |
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
@@ -23224,6 +23228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
+| Stargate | 10162 | [10162-stargate.json](./10162-stargate.json) |
 | Stargate | 17459 | [17459-stargate.json](./17459-stargate.json) |
 | Stargate | 19689 | [19689-stargate.json](./19689-stargate.json) |
 | Stargate | 217724 | [217724-stargate.json](./217724-stargate.json) |
