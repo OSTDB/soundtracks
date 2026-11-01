@@ -3660,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Take | 347032 | [347032-dead-take.json](./347032-dead-take.json) |
 | Dead Target VR: Zombie Intensified | 80955 | [80955-dead-target-vr-zombie-intensified.json](./80955-dead-target-vr-zombie-intensified.json) |
 | Dead to Rights | 194267 | [194267-dead-to-rights.json](./194267-dead-to-rights.json) |
+| Dead to Rights | 3872 | [3872-dead-to-rights.json](./3872-dead-to-rights.json) |
 | Dead to Rights II | 5810 | [5810-dead-to-rights-ii.json](./5810-dead-to-rights-ii.json) |
 | Dead to Rights: Reckoning | 3010 | [3010-dead-to-rights-reckoning.json](./3010-dead-to-rights-reckoning.json) |
 | Dead to Rights: Retribution | 6960 | [6960-dead-to-rights-retribution.json](./6960-dead-to-rights-retribution.json) |
@@ -8456,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
 | Digimon Racing | 6376 | [6376-digimon-racing.json](./6376-digimon-racing.json) |
 | Digimon Rumble Arena | 4133 | [4133-digimon-rumble-arena.json](./4133-digimon-rumble-arena.json) |
+| Digimon Rumble Arena 2 | 3877 | [3877-digimon-rumble-arena-2.json](./3877-digimon-rumble-arena-2.json) |
 | Digimon Soul Chaser | 59178 | [59178-digimon-soul-chaser.json](./59178-digimon-soul-chaser.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
 | Digimon Story Time Stranger: A Hero's Eternal Legacy | 416127 | [416127-digimon-story-time-stranger-a-heros-eternal-legacy.json](./416127-digimon-story-time-stranger-a-heros-eternal-legacy.json) |
@@ -8807,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
 | Dino Cub | 188914 | [188914-dino-cub.json](./188914-dino-cub.json) |
+| Dino D-Day | 8701 | [8701-dino-d-day.json](./8701-dino-d-day.json) |
 | Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
 | Dino Dan: Trek's Adventure | 102503 | [102503-dino-dan-treks-adventure.json](./102503-dino-dan-treks-adventure.json) |
 | Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
