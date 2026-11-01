@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited Cruise SP | 22875 | [22875-one-piece-unlimited-cruise-sp.json](./22875-one-piece-unlimited-cruise-sp.json) |
 | One Piece: Unlimited Cruise SP2 | 79261 | [79261-one-piece-unlimited-cruise-sp2.json](./79261-one-piece-unlimited-cruise-sp2.json) |
 | One Piece: Unlimited World RED | 6860 | [6860-one-piece-unlimited-world-red.json](./6860-one-piece-unlimited-world-red.json) |
+| One Piece: Unlimited World Red - Deluxe Edition | 28831 | [28831-one-piece-unlimited-world-red-deluxe-edition.json](./28831-one-piece-unlimited-world-red-deluxe-edition.json) |
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
 | One Piece: Unlimited World Red - Straw Hat Edition | 83793 | [83793-one-piece-unlimited-world-red-straw-hat-edition.json](./83793-one-piece-unlimited-world-red-straw-hat-edition.json) |
 | One Piece: World Seeker | 76742 | [76742-one-piece-world-seeker.json](./76742-one-piece-world-seeker.json) |
@@ -4720,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out on the Water | 372975 | [372975-out-on-the-water.json](./372975-out-on-the-water.json) |
 | Out Racing: Arcade Memory | 294835 | [294835-out-racing-arcade-memory.json](./294835-out-racing-arcade-memory.json) |
 | Out the Window: a car trip sim | 134691 | [134691-out-the-window-a-car-trip-sim.json](./134691-out-the-window-a-car-trip-sim.json) |
+| Out There | 9539 | [9539-out-there.json](./9539-out-there.json) |
 | Out There Chronicles - Ep. 1 | 58224 | [58224-out-there-chronicles-ep-1.json](./58224-out-there-chronicles-ep-1.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
 | Out There: Omega Edition | 36127 | [36127-out-there-omega-edition.json](./36127-out-there-omega-edition.json) |
