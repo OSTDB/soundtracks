@@ -6376,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizMo's Workshop: Dragons of Frozzbokk | 94577 | [94577-wizmos-workshop-dragons-of-frozzbokk.json](./94577-wizmos-workshop-dragons-of-frozzbokk.json) |
 | Wiznwar Pinball Bundle | 381804 | [381804-wiznwar-pinball-bundle.json](./381804-wiznwar-pinball-bundle.json) |
 | Wizodd | 137849 | [137849-wizodd.json](./137849-wizodd.json) |
+| Wizorb | 1364 | [1364-wizorb.json](./1364-wizorb.json) |
 | Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
 | Wizrogue: Labyrinth of Wizardry | 28557 | [28557-wizrogue-labyrinth-of-wizardry.json](./28557-wizrogue-labyrinth-of-wizardry.json) |
 | Wizschool: Ancient Book of Magic | 338347 | [338347-wizschool-ancient-book-of-magic.json](./338347-wizschool-ancient-book-of-magic.json) |
