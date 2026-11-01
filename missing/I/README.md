@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanity | 281350 | [281350-insanity.json](./281350-insanity.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
 | Insanity Clicker | 34706 | [34706-insanity-clicker.json](./34706-insanity-clicker.json) |
+| Insanity Fight | 12612 | [12612-insanity-fight.json](./12612-insanity-fight.json) |
 | Insanity Ice | 199380 | [199380-insanity-ice.json](./199380-insanity-ice.json) |
 | Insanity Locked | 350962 | [350962-insanity-locked.json](./350962-insanity-locked.json) |
 | Insanity Path | 383100 | [383100-insanity-path.json](./383100-insanity-path.json) |
@@ -4120,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insector X | 39455 | [39455-insector-x.json](./39455-insector-x.json) |
 | Insector X | 70757 | [70757-insector-x.json](./70757-insector-x.json) |
 | Insects | 112800 | [112800-insects.json](./112800-insects.json) |
+| Insects in Space | 12613 | [12613-insects-in-space.json](./12613-insects-in-space.json) |
 | Insects Runner | 75670 | [75670-insects-runner.json](./75670-insects-runner.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
 | Inseedious | 292989 | [292989-inseedious.json](./292989-inseedious.json) |
@@ -4362,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurrection: Cyborgs Awakening | 211945 | [211945-insurrection-cyborgs-awakening.json](./211945-insurrection-cyborgs-awakening.json) |
 | Insurrectionist | 387639 | [387639-insurrectionist.json](./387639-insurrectionist.json) |
 | inSynch | 18232 | [18232-insynch.json](./18232-insynch.json) |
+| Intact | 12614 | [12614-intact.json](./12614-intact.json) |
 | Intake | 16526 | [16526-intake.json](./16526-intake.json) |
 | Intake: Be Aggressive | 174225 | [174225-intake-be-aggressive.json](./174225-intake-be-aggressive.json) |
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
@@ -4611,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internship Adventure | 179526 | [179526-internship-adventure.json](./179526-internship-adventure.json) |
 | Internship Detective | 158389 | [158389-internship-detective.json](./158389-internship-detective.json) |
 | Internull | 247942 | [247942-internull.json](./247942-internull.json) |
+| Interphase | 12615 | [12615-interphase.json](./12615-interphase.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | InterPlanet | 77721 | [77721-interplanet.json](./77721-interplanet.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
