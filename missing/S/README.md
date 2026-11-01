@@ -6816,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Realm | 339696 | [339696-shards-of-the-realm.json](./339696-shards-of-the-realm.json) |
 | Shards of Titan | 102035 | [102035-shards-of-titan.json](./102035-shards-of-titan.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
+| Shards Online | 57990 | [57990-shards-online.json](./57990-shards-online.json) |
 | Share | 33417 | [33417-share.json](./33417-share.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
@@ -15538,6 +15539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
 | Son Savaşçı | 149374 | [149374-son-savasc.json](./149374-son-savasc.json) |
 | Son Son II | 37689 | [37689-son-son-ii.json](./37689-son-son-ii.json) |
+| Sona-Nyl of the Violet Shadows: What Beautiful Memories | 57970 | [57970-sona-nyl-of-the-violet-shadows-what-beautiful-memories.json](./57970-sona-nyl-of-the-violet-shadows-what-beautiful-memories.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonar | 268046 | [268046-sonar.json](./268046-sonar.json) |
@@ -17053,6 +17055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Tides | 425447 | [425447-soul-tides.json](./425447-soul-tides.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Trader | 333476 | [333476-soul-trader.json](./333476-soul-trader.json) |
+| Soul Trapper: Episode 1 - Ollie Ollie Oxen Free! | 57981 | [57981-soul-trapper-episode-1-ollie-ollie-oxen-free.json](./57981-soul-trapper-episode-1-ollie-ollie-oxen-free.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
 | Soul Valley | 115956 | [115956-soul-valley.json](./115956-soul-valley.json) |
 | Soul Void | 140826 | [140826-soul-void.json](./140826-soul-void.json) |
@@ -17175,6 +17178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Tartarus | 226619 | [226619-souls-of-tartarus.json](./226619-souls-of-tartarus.json) |
 | Souls of the Wind | 147069 | [147069-souls-of-the-wind.json](./147069-souls-of-the-wind.json) |
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
+| Souls Rescue | 57952 | [57952-souls-rescue.json](./57952-souls-rescue.json) |
 | Souls Runner | 417942 | [417942-souls-runner.json](./417942-souls-runner.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
 | Souls That Wait: Penunggu | 323123 | [323123-souls-that-wait-penunggu.json](./323123-souls-that-wait-penunggu.json) |
@@ -17918,6 +17922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22475,6 +22480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
 | Star Wars: Assault Team | 75564 | [75564-star-wars-assault-team.json](./75564-star-wars-assault-team.json) |
 | Star Wars: Attack Squadrons | 62510 | [62510-star-wars-attack-squadrons.json](./62510-star-wars-attack-squadrons.json) |
+| Star Wars: Battle Above Coruscant | 57943 | [57943-star-wars-battle-above-coruscant.json](./57943-star-wars-battle-above-coruscant.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Deluxe Edition | 129535 | [129535-star-wars-battlefront-deluxe-edition.json](./129535-star-wars-battlefront-deluxe-edition.json) |
@@ -27153,6 +27159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Squad: Kill the Justice League - Season of Deathstroke | 326557 | [326557-suicide-squad-kill-the-justice-league-season-of-deathstroke.json](./326557-suicide-squad-kill-the-justice-league-season-of-deathstroke.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
 | Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
+| Suicide Squad: Special Ops | 57989 | [57989-suicide-squad-special-ops.json](./57989-suicide-squad-special-ops.json) |
 | Suicide Strike | 8404 | [8404-suicide-strike.json](./8404-suicide-strike.json) |
 | Suicide Voyage | 67638 | [67638-suicide-voyage.json](./67638-suicide-voyage.json) |
 | Suicider | 82597 | [82597-suicider.json](./82597-suicider.json) |
@@ -31120,6 +31127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Return to Another World - Collector's Edition | 105166 | [105166-surface-return-to-another-world-collectors-edition.json](./105166-surface-return-to-another-world-collectors-edition.json) |
 | Surface: Strings of Fate | 89625 | [89625-surface-strings-of-fate.json](./89625-surface-strings-of-fate.json) |
 | Surface: Strings of Fate - Collector's Edition | 193620 | [193620-surface-strings-of-fate-collectors-edition.json](./193620-surface-strings-of-fate-collectors-edition.json) |
+| Surface: the Mystery of Another World | 57966 | [57966-surface-the-mystery-of-another-world.json](./57966-surface-the-mystery-of-another-world.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
 | Surface: The Noise She Couldn't Make - Collector's Edition | 416358 | [416358-surface-the-noise-she-couldnt-make-collectors-edition.json](./416358-surface-the-noise-she-couldnt-make-collectors-edition.json) |
 | Surface: The Pantheon | 139748 | [139748-surface-the-pantheon.json](./139748-surface-the-pantheon.json) |
