@@ -4216,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight N' Fall | 182308 | [182308-fight-n-fall.json](./182308-fight-n-fall.json) |
 | Fight Night | 12324 | [12324-fight-night.json](./12324-fight-night.json) |
 | Fight Night 2004 | 5835 | [5835-fight-night-2004.json](./5835-fight-night-2004.json) |
+| Fight Night Champion | 6356 | [6356-fight-night-champion.json](./6356-fight-night-champion.json) |
 | Fight Night Round 2 | 290386 | [290386-fight-night-round-2.json](./290386-fight-night-round-2.json) |
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
@@ -5382,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
 | Fire Emblem Fates: Conquest | 21863 | [21863-fire-emblem-fates-conquest.json](./21863-fire-emblem-fates-conquest.json) |
+| Fire Emblem Fates: Revelation | 18038 | [18038-fire-emblem-fates-revelation.json](./18038-fire-emblem-fates-revelation.json) |
 | Fire Emblem Fates: Shadow Dragon | 287485 | [287485-fire-emblem-fates-shadow-dragon.json](./287485-fire-emblem-fates-shadow-dragon.json) |
 | Fire Emblem Fates: Silent Waves | 403051 | [403051-fire-emblem-fates-silent-waves.json](./403051-fire-emblem-fates-silent-waves.json) |
 | Fire Emblem Fates: Special Edition | 10229 | [10229-fire-emblem-fates-special-edition.json](./10229-fire-emblem-fates-special-edition.json) |
