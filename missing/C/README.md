@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Puzzler Bundle | 164728 | [164728-cartoon-puzzler-bundle.json](./164728-cartoon-puzzler-bundle.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
 | Cartoon Roach: Fun Ninja Game | 175599 | [175599-cartoon-roach-fun-ninja-game.json](./175599-cartoon-roach-fun-ninja-game.json) |
+| Cartoon Strike | 26144 | [26144-cartoon-strike.json](./26144-cartoon-strike.json) |
 | Cartoon Toolbox Starring Felix the Cat | 144002 | [144002-cartoon-toolbox-starring-felix-the-cat.json](./144002-cartoon-toolbox-starring-felix-the-cat.json) |
 | Cartoon Tower Defense | 186568 | [186568-cartoon-tower-defense.json](./186568-cartoon-tower-defense.json) |
 | Cartoon Town: City Farm Building | 106343 | [106343-cartoon-town-city-farm-building.json](./106343-cartoon-town-city-farm-building.json) |
@@ -2967,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
 | Cash Dash Smash | 96589 | [96589-cash-dash-smash.json](./96589-cash-dash-smash.json) |
 | Cash Guardian: Collector Operation "Capital Defense" | 328096 | [328096-cash-guardian-collector-operation-capital-defense.json](./328096-cash-guardian-collector-operation-capital-defense.json) |
+| Cash Guns Chaos | 26101 | [26101-cash-guns-chaos.json](./26101-cash-guns-chaos.json) |
 | Cash Guns Chaos DLX | 85865 | [85865-cash-guns-chaos-dlx.json](./85865-cash-guns-chaos-dlx.json) |
 | Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
 | Cash Invaders | 92826 | [92826-cash-invaders.json](./92826-cash-invaders.json) |
@@ -12076,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Ambush | 23571 | [23571-computer-ambush.json](./23571-computer-ambush.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
 | Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
+| Computer Baseball | 26154 | [26154-computer-baseball.json](./26154-computer-baseball.json) |
 | Computer Bismarck | 23996 | [23996-computer-bismarck.json](./23996-computer-bismarck.json) |
 | Computer Board Game: Genpei Touma-den | 42035 | [42035-computer-board-game-genpei-touma-den.json](./42035-computer-board-game-genpei-touma-den.json) |
 | Computer bugs stole my grandmas tax files and I gotta go get them back in cyberspace | 227918 | [227918-computer-bugs-stole-my-grandmas-tax-files-and-i-gotta-go-get-them-back-in-cyberspace.json](./227918-computer-bugs-stole-my-grandmas-tax-files-and-i-gotta-go-get-them-back-in-cyberspace.json) |
@@ -12295,6 +12298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
 | Conflict FPS | 306208 | [306208-conflict-fps.json](./306208-conflict-fps.json) |
+| Conflict in Vietnam | 26153 | [26153-conflict-in-vietnam.json](./26153-conflict-in-vietnam.json) |
 | Conflict of Heroes: Ghost Divisions | 174514 | [174514-conflict-of-heroes-ghost-divisions.json](./174514-conflict-of-heroes-ghost-divisions.json) |
 | Conflict of Lords | 267809 | [267809-conflict-of-lords.json](./267809-conflict-of-lords.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
@@ -13189,8 +13193,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
 | Cool army games for kids 6 year old and under boys | 100049 | [100049-cool-army-games-for-kids-6-year-old-and-under-boys.json](./100049-cool-army-games-for-kids-6-year-old-and-under-boys.json) |
 | Cool Ball | 92263 | [92263-cool-ball.json](./92263-cool-ball.json) |
+| Cool Boarders 2001 | 26135 | [26135-cool-boarders-2001.json](./26135-cool-boarders-2001.json) |
 | Cool Boarders 3 | 26130 | [26130-cool-boarders-3.json](./26130-cool-boarders-3.json) |
+| Cool Boarders 4 | 26131 | [26131-cool-boarders-4.json](./26131-cool-boarders-4.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
+| Cool Boarders Pocket | 26133 | [26133-cool-boarders-pocket.json](./26133-cool-boarders-pocket.json) |
+| Cool Boarders: Code Alien | 26134 | [26134-cool-boarders-code-alien.json](./26134-cool-boarders-code-alien.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
 | Cool Bricks | 50032 | [50032-cool-bricks.json](./50032-cool-bricks.json) |
 | Cool Carkour! | 97708 | [97708-cool-carkour.json](./97708-cool-carkour.json) |
@@ -18528,6 +18536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutthroat Island GG2SMS | 369594 | [369594-cutthroat-island-gg2sms.json](./369594-cutthroat-island-gg2sms.json) |
 | Cutthroat Pinochle | 90384 | [90384-cutthroat-pinochle.json](./90384-cutthroat-pinochle.json) |
 | Cutthroats | 12260 | [12260-cutthroats.json](./12260-cutthroats.json) |
+| Cutthroats: Terror on the High Seas | 26184 | [26184-cutthroats-terror-on-the-high-seas.json](./26184-cutthroats-terror-on-the-high-seas.json) |
 | Cuttin' Loose In Compton | 77810 | [77810-cuttin-loose-in-compton.json](./77810-cuttin-loose-in-compton.json) |
 | Cutting Edge: Roots of Mutation | 368442 | [368442-cutting-edge-roots-of-mutation.json](./368442-cutting-edge-roots-of-mutation.json) |
 | Cutting Grass with Nail Clippers: The Game | 366285 | [366285-cutting-grass-with-nail-clippers-the-game.json](./366285-cutting-grass-with-nail-clippers-the-game.json) |
