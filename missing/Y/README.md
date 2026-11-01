@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumper | 146306 | [146306-yumper.json](./146306-yumper.json) |
 | Yumpgril | 288447 | [288447-yumpgril.json](./288447-yumpgril.json) |
 | Yumpr | 287675 | [287675-yumpr.json](./287675-yumpr.json) |
+| Yumsters 2: Around the World | 14950 | [14950-yumsters-2-around-the-world.json](./14950-yumsters-2-around-the-world.json) |
 | Yumtree | 312815 | [312815-yumtree.json](./312815-yumtree.json) |
 | Yun | 345357 | [345357-yun.json](./345357-yun.json) |
 | Yuna and other troubles | 129072 | [129072-yuna-and-other-troubles.json](./129072-yuna-and-other-troubles.json) |
