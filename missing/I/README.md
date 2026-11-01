@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love My Dogs | 84541 | [84541-i-love-my-dogs.json](./84541-i-love-my-dogs.json) |
 | I Love My Job! | 177845 | [177845-i-love-my-job.json](./177845-i-love-my-job.json) |
 | I Love My Little Girl | 84540 | [84540-i-love-my-little-girl.json](./84540-i-love-my-little-girl.json) |
+| I Love My Pets | 47691 | [47691-i-love-my-pets.json](./47691-i-love-my-pets.json) |
 | I Love My Pony | 85190 | [85190-i-love-my-pony.json](./85190-i-love-my-pony.json) |
 | I Love Pasta | 252567 | [252567-i-love-pasta.json](./252567-i-love-pasta.json) |
 | I Love Puppies! | 210080 | [210080-i-love-puppies.json](./210080-i-love-puppies.json) |
