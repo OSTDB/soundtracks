@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamentations | 318699 | [318699-lamentations.json](./318699-lamentations.json) |
 | Lamento: Beyond the Void | 135483 | [135483-lamento-beyond-the-void.json](./135483-lamento-beyond-the-void.json) |
 | Laments of a Platinum Rose | 384199 | [384199-laments-of-a-platinum-rose.json](./384199-laments-of-a-platinum-rose.json) |
+| Lamentum | 115588 | [115588-lamentum.json](./115588-lamentum.json) |
 | Lamentum: Digital Deluxe | 336142 | [336142-lamentum-digital-deluxe.json](./336142-lamentum-digital-deluxe.json) |
 | Lami: A Cup of Code & Coffee | 341680 | [341680-lami-a-cup-of-code-and-coffee.json](./341680-lami-a-cup-of-code-and-coffee.json) |
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
@@ -3963,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liber 2: Lost in time | 240821 | [240821-liber-2-lost-in-time.json](./240821-liber-2-lost-in-time.json) |
 | Liberal Crime Squad | 70579 | [70579-liberal-crime-squad.json](./70579-liberal-crime-squad.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
+| Liberated | 116705 | [116705-liberated.json](./116705-liberated.json) |
 | Liberated: Enhanced Edition | 142605 | [142605-liberated-enhanced-edition.json](./142605-liberated-enhanced-edition.json) |
 | Liberated: Enhanced Edition + NecroWorm Bundle | 226339 | [226339-liberated-enhanced-edition-necroworm-bundle.json](./226339-liberated-enhanced-edition-necroworm-bundle.json) |
 | Liberated: For the Homeland | 170885 | [170885-liberated-for-the-homeland.json](./170885-liberated-for-the-homeland.json) |
@@ -8278,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveBug Quest | 331652 | [331652-lovebug-quest.json](./331652-lovebug-quest.json) |
 | Lovebugz: An Anthro Insect Dating Sim | 298385 | [298385-lovebugz-an-anthro-insect-dating-sim.json](./298385-lovebugz-an-anthro-insect-dating-sim.json) |
 | LoveChess: The Greek Era | 71868 | [71868-lovechess-the-greek-era.json](./71868-lovechess-the-greek-era.json) |
+| LoveChoice | 109733 | [109733-lovechoice.json](./109733-lovechoice.json) |
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
 | Lovecraft Game | 199196 | [199196-lovecraft-game.json](./199196-lovecraft-game.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
