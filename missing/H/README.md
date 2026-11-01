@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBall '95 | 45782 | [45782-hardball-95.json](./45782-hardball-95.json) |
 | Hardball + Hardball 2 | 336132 | [336132-hardball-hardball-2.json](./336132-hardball-hardball-2.json) |
 | Hardball 6: 2000 Edition | 205934 | [205934-hardball-6-2000-edition.json](./205934-hardball-6-2000-edition.json) |
+| Hardball 99 | 44983 | [44983-hardball-99.json](./44983-hardball-99.json) |
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBall! + HardBall II | 296603 | [296603-hardball-hardball-ii.json](./296603-hardball-hardball-ii.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HB2 Plus | 91349 | [91349-hb2-plus.json](./91349-hb2-plus.json) |
 | HBD-RPG | 266110 | [266110-hbd-rpg.json](./266110-hbd-rpg.json) |
 | HBM's Nuclear Tech Mod | 233709 | [233709-hbms-nuclear-tech-mod.json](./233709-hbms-nuclear-tech-mod.json) |
+| HBO Boxing | 44935 | [44935-hbo-boxing.json](./44935-hbo-boxing.json) |
 | HC-Hexagon | 115505 | [115505-hc-hexagon.json](./115505-hc-hexagon.json) |
 | HD | 301859 | [301859-hd.json](./301859-hd.json) |
 | HDoom | 136850 | [136850-hdoom.json](./136850-hdoom.json) |
@@ -3889,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbound, Inc. | 358272 | [358272-hellbound-inc.json](./358272-hellbound-inc.json) |
 | Hellbound: Survival Mode | 86764 | [86764-hellbound-survival-mode.json](./86764-hellbound-survival-mode.json) |
 | Hellbound: the Awakening | 130118 | [130118-hellbound-the-awakening.json](./130118-hellbound-the-awakening.json) |
+| Hellboy: Asylum Seeker | 45005 | [45005-hellboy-asylum-seeker.json](./45005-hellboy-asylum-seeker.json) |
 | Hellboy: Dogs of the Night | 51441 | [51441-hellboy-dogs-of-the-night.json](./51441-hellboy-dogs-of-the-night.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
 | Hellboy: Web of Wyrd - Collector's Edition | 287044 | [287044-hellboy-web-of-wyrd-collectors-edition.json](./287044-hellboy-web-of-wyrd-collectors-edition.json) |
@@ -8919,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoosegow: Prison Boss | 363694 | [363694-hoosegow-prison-boss.json](./363694-hoosegow-prison-boss.json) |
 | Hoosegow: Prison Survival | 399926 | [399926-hoosegow-prison-survival.json](./399926-hoosegow-prison-survival.json) |
 | Hoosier City | 70196 | [70196-hoosier-city.json](./70196-hoosier-city.json) |
+| Hooters Road Trip | 44934 | [44934-hooters-road-trip.json](./44934-hooters-road-trip.json) |
 | Hoover Dam | 272923 | [272923-hoover-dam.json](./272923-hoover-dam.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hoovernauts | 149248 | [149248-hoovernauts.json](./149248-hoovernauts.json) |
