@@ -4705,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIeyes | 177275 | [177275-aieyes.json](./177275-aieyes.json) |
 | Aigiina no Yogen: From the Legend of Balubalouk | 73806 | [73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json](./73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json) |
 | Aigor Escape from Bishop | 127825 | [127825-aigor-escape-from-bishop.json](./127825-aigor-escape-from-bishop.json) |
+| AIII S.V.: Take the A-Train 3 S.V. | 42301 | [42301-aiii-s-v-take-the-a-train-3-s-v.json](./42301-aiii-s-v-take-the-a-train-3-s-v.json) |
 | Aik's Cheese Adventures | 98712 | [98712-aiks-cheese-adventures.json](./98712-aiks-cheese-adventures.json) |
 | Aikagi | 127116 | [127116-aikagi.json](./127116-aikagi.json) |
 | Aikagi 2 | 127934 | [127934-aikagi-2.json](./127934-aikagi-2.json) |
@@ -6042,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice Must Find the Key to Escape | 91304 | [91304-alice-must-find-the-key-to-escape.json](./91304-alice-must-find-the-key-to-escape.json) |
 | Alice no Hyouhonbako | 394571 | [394571-alice-no-hyouhonbako.json](./394571-alice-no-hyouhonbako.json) |
+| Alice no Paint Adventure | 42300 | [42300-alice-no-paint-adventure.json](./42300-alice-no-paint-adventure.json) |
 | Alice no Yakata | 299797 | [299797-alice-no-yakata.json](./299797-alice-no-yakata.json) |
 | Alice no Yakata 3 | 299796 | [299796-alice-no-yakata-3.json](./299796-alice-no-yakata-3.json) |
 | Alice no Yakata II | 299798 | [299798-alice-no-yakata-ii.json](./299798-alice-no-yakata-ii.json) |
