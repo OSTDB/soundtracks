@@ -5465,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos of the Periodic Table | 178189 | [178189-chaos-of-the-periodic-table.json](./178189-chaos-of-the-periodic-table.json) |
 | Chaos on Deponia | 5062 | [5062-chaos-on-deponia.json](./5062-chaos-on-deponia.json) |
 | Chaos on Wheels: Deluxe Edition | 370899 | [370899-chaos-on-wheels-deluxe-edition.json](./370899-chaos-on-wheels-deluxe-edition.json) |
+| Chaos Online | 62467 | [62467-chaos-online.json](./62467-chaos-online.json) |
 | Chaos Order | 315532 | [315532-chaos-order.json](./315532-chaos-order.json) |
 | Chaos Overlords | 629 | [629-chaos-overlords.json](./629-chaos-overlords.json) |
 | Chaos Party | 139410 | [139410-chaos-party.json](./139410-chaos-party.json) |
@@ -7201,6 +7202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro 2021 | 186127 | [186127-choro-2021.json](./186127-choro-2021.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
+| Choro Q 2 | 62374 | [62374-choro-q-2.json](./62374-choro-q-2.json) |
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
 | Choro Q 64 2: Hacha-mecha Grand Prix Race | 47742 | [47742-choro-q-64-2-hacha-mecha-grand-prix-race.json](./47742-choro-q-64-2-hacha-mecha-grand-prix-race.json) |
 | Choro Q HG 3 | 196257 | [196257-choro-q-hg-3.json](./196257-choro-q-hg-3.json) |
@@ -9354,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
 | Clickey | 334749 | [334749-clickey.json](./334749-clickey.json) |
 | Clickey: The Velocity Click | 41929 | [41929-clickey-the-velocity-click.json](./41929-clickey-the-velocity-click.json) |
+| Clicking Bad | 62471 | [62471-clicking-bad.json](./62471-clicking-bad.json) |
 | Clickmazes BoxUp | 197793 | [197793-clickmazes-boxup.json](./197793-clickmazes-boxup.json) |
 | ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
@@ -10072,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cock Fight Simulator | 326449 | [326449-cock-fight-simulator.json](./326449-cock-fight-simulator.json) |
 | Cock Soccer | 291608 | [291608-cock-soccer.json](./291608-cock-soccer.json) |
 | Cock-A-Doodle-Doo | 151628 | [151628-cock-a-doodle-doo.json](./151628-cock-a-doodle-doo.json) |
+| Cock'in | 62376 | [62376-cockin.json](./62376-cockin.json) |
 | Cockatrice Attacking the city | 120970 | [120970-cockatrice-attacking-the-city.json](./120970-cockatrice-attacking-the-city.json) |
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockeyed Helicopters | 156581 | [156581-cockeyed-helicopters.json](./156581-cockeyed-helicopters.json) |
