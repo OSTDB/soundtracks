@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Killers | 321287 | [321287-lady-killers.json](./321287-lady-killers.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
 | Lady Mabel Mysteries: Death on Board - Collector’s Edition | 383759 | [383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json](./383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json) |
+| Lady Master of Kung Fu | 39343 | [39343-lady-master-of-kung-fu.json](./39343-lady-master-of-kung-fu.json) |
 | Lady of Bones, a Mother's Legacy | 273757 | [273757-lady-of-bones-a-mothers-legacy.json](./273757-lady-of-bones-a-mothers-legacy.json) |
 | Lady of Dreams | 215337 | [215337-lady-of-dreams.json](./215337-lady-of-dreams.json) |
 | Lady of Hwarang | 288166 | [288166-lady-of-hwarang.json](./288166-lady-of-hwarang.json) |
