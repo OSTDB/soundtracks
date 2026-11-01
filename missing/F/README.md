@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
 | Fallen Down | 271093 | [271093-fallen-down.json](./271093-fallen-down.json) |
 | Fallen Dungeons | 116082 | [116082-fallen-dungeons.json](./116082-fallen-dungeons.json) |
+| Fallen Earth | 15150 | [15150-fallen-earth.json](./15150-fallen-earth.json) |
 | Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
 | Fallen Echoes | 381308 | [381308-fallen-echoes.json](./381308-fallen-echoes.json) |
 | Fallen Emiya | 106544 | [106544-fallen-emiya.json](./106544-fallen-emiya.json) |
@@ -1666,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia: Music Evolved | 83509 | [83509-fantasia-music-evolved.json](./83509-fantasia-music-evolved.json) |
 | Fantasia: Surreal Cosmic Progeny | 133391 | [133391-fantasia-surreal-cosmic-progeny.json](./133391-fantasia-surreal-cosmic-progeny.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
+| Fantasian | 116588 | [116588-fantasian.json](./116588-fantasian.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
 | Fantasic Tambourine | 129537 | [129537-fantasic-tambourine.json](./129537-fantasic-tambourine.json) |
 | Fantasica | 61399 | [61399-fantasica.json](./61399-fantasica.json) |
@@ -9532,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
 | Fortitude Invasion | 208273 | [208273-fortitude-invasion.json](./208273-fortitude-invasion.json) |
 | Fortitude Tower Defense | 333149 | [333149-fortitude-tower-defense.json](./333149-fortitude-tower-defense.json) |
+| Fortix | 15023 | [15023-fortix.json](./15023-fortix.json) |
 | Fortix 2 | 15024 | [15024-fortix-2.json](./15024-fortix-2.json) |
 | Fortnight: Elite Commando Action 2 | 103396 | [103396-fortnight-elite-commando-action-2.json](./103396-fortnight-elite-commando-action-2.json) |
 | Fortnite | 231090 | [231090-fortnite.json](./231090-fortnite.json) |
