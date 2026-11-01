@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion: Echoes of Eternity | 77274 | [77274-aion-echoes-of-eternity.json](./77274-aion-echoes-of-eternity.json) |
 | Aion: Legions of War | 69007 | [69007-aion-legions-of-war.json](./69007-aion-legions-of-war.json) |
 | Aion: Steel Cavalry | 62416 | [62416-aion-steel-cavalry.json](./62416-aion-steel-cavalry.json) |
+| Aion: Upheaval | 60271 | [60271-aion-upheaval.json](./60271-aion-upheaval.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | Aious: World's End | 177333 | [177333-aious-worlds-end.json](./177333-aious-worlds-end.json) |
 | AIPD | 11340 | [11340-aipd.json](./11340-aipd.json) |
@@ -12781,6 +12782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Ambush | 11126 | [11126-armor-ambush.json](./11126-armor-ambush.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
 | Armor Attack | 382918 | [382918-armor-attack.json](./382918-armor-attack.json) |
+| Armor Attack II | 60282 | [60282-armor-attack-ii.json](./60282-armor-attack-ii.json) |
 | Armor Battle | 245153 | [245153-armor-battle.json](./245153-armor-battle.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Battle | 305274 | [305274-armor-battle.json](./305274-armor-battle.json) |
