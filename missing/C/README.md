@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
 | Call Each New Year | 104082 | [104082-call-each-new-year.json](./104082-call-each-new-year.json) |
 | Call For Backup | 190383 | [190383-call-for-backup.json](./190383-call-for-backup.json) |
+| Call for Heroes: Pompolic Wars | 4741 | [4741-call-for-heroes-pompolic-wars.json](./4741-call-for-heroes-pompolic-wars.json) |
 | Call from the Abyss | 291179 | [291179-call-from-the-abyss.json](./291179-call-from-the-abyss.json) |
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
 | Call fur Help | 271647 | [271647-call-fur-help.json](./271647-call-fur-help.json) |
@@ -895,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calvatole | 214301 | [214301-calvatole.json](./214301-calvatole.json) |
 | Calvin | 94951 | [94951-calvin.json](./94951-calvin.json) |
 | Calvin Tucker's Farm Animal Racing | 89420 | [89420-calvin-tuckers-farm-animal-racing.json](./89420-calvin-tuckers-farm-animal-racing.json) |
+| Calvin Tucker's Redneck Jamboree | 4743 | [4743-calvin-tuckers-redneck-jamboree.json](./4743-calvin-tuckers-redneck-jamboree.json) |
 | Calvin Tucker's Redneck: Farm Animals Racing Tournament | 51039 | [51039-calvin-tuckers-redneck-farm-animals-racing-tournament.json](./51039-calvin-tuckers-redneck-farm-animals-racing-tournament.json) |
 | Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
@@ -1141,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
 | Canceled! Super Puzzles Dream | 192034 | [192034-canceled-super-puzzles-dream.json](./192034-canceled-super-puzzles-dream.json) |
 | Cancelled Christmas | 399267 | [399267-cancelled-christmas.json](./399267-cancelled-christmas.json) |
+| Candace Kane's Candy Factory | 4744 | [4744-candace-kanes-candy-factory.json](./4744-candace-kanes-candy-factory.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
 | Candela | 193258 | [193258-candela.json](./193258-candela.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
@@ -2939,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Clicker | 194565 | [194565-case-clicker.json](./194565-case-clicker.json) |
 | Case Closed | 348436 | [348436-case-closed.json](./348436-case-closed.json) |
 | Case Closed | 95435 | [95435-case-closed.json](./95435-case-closed.json) |
+| Case Closed: The Mirapolis Investigation | 4750 | [4750-case-closed-the-mirapolis-investigation.json](./4750-case-closed-the-mirapolis-investigation.json) |
 | Case Files: Behind Closed Doors | 273651 | [273651-case-files-behind-closed-doors.json](./273651-case-files-behind-closed-doors.json) |
 | Case Files: Internal Affairs | 374408 | [374408-case-files-internal-affairs.json](./374408-case-files-internal-affairs.json) |
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
@@ -4917,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede Chaos | 124434 | [124434-centipede-chaos.json](./124434-centipede-chaos.json) |
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Centipede: Evolved | 329639 | [329639-centipede-evolved.json](./329639-centipede-evolved.json) |
+| Centipede: Infestation | 4760 | [4760-centipede-infestation.json](./4760-centipede-infestation.json) |
 | Centipede: Sega Version | 398660 | [398660-centipede-sega-version.json](./398660-centipede-sega-version.json) |
 | Centipede/Breakout/Warlords | 79816 | [79816-centipede-breakout-warlords.json](./79816-centipede-breakout-warlords.json) |
 | Centipulp | 230787 | [230787-centipulp.json](./230787-centipulp.json) |
@@ -6181,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Club Valley | 303527 | [303527-chess-club-valley.json](./303527-chess-club-valley.json) |
 | Chess Corp | 216701 | [216701-chess-corp.json](./216701-chess-corp.json) |
 | Chess Crown | 192556 | [192556-chess-crown.json](./192556-chess-crown.json) |
+| Chess Crusade | 4761 | [4761-chess-crusade.json](./4761-chess-crusade.json) |
 | Chess Cubed | 90436 | [90436-chess-cubed.json](./90436-chess-cubed.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
@@ -6578,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Shift | 40023 | [40023-chicken-shift.json](./40023-chicken-shift.json) |
 | Chicken Shoot | 248610 | [248610-chicken-shoot.json](./248610-chicken-shoot.json) |
 | Chicken Shoot | 248611 | [248611-chicken-shoot.json](./248611-chicken-shoot.json) |
+| Chicken Shoot | 4762 | [4762-chicken-shoot.json](./4762-chicken-shoot.json) |
 | Chicken Shoot - Edition 2012 | 52493 | [52493-chicken-shoot-edition-2012.json](./52493-chicken-shoot-edition-2012.json) |
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
@@ -8025,6 +8032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciclico | 349396 | [349396-ciclico.json](./349396-ciclico.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cid and Chocobo's Mysterious Dungeon: Labyrinth of Forgotten Time DS+ | 47875 | [47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json](./47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json) |
+| CID: The Dummy | 4765 | [4765-cid-the-dummy.json](./4765-cid-the-dummy.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Ciel Fledge | 75431 | [75431-ciel-fledge.json](./75431-ciel-fledge.json) |
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
@@ -10396,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Cupid | 238414 | [238414-codename-cupid.json](./238414-codename-cupid.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
+| Codename: Iceman | 1929 | [1929-codename-iceman.json](./1929-codename-iceman.json) |
 | Codename: Kids Next Door - Flight of the Hamsters | 234535 | [234535-codename-kids-next-door-flight-of-the-hamsters.json](./234535-codename-kids-next-door-flight-of-the-hamsters.json) |
 | Codename: Kids Next Door - Ice Creamed | 185822 | [185822-codename-kids-next-door-ice-creamed.json](./185822-codename-kids-next-door-ice-creamed.json) |
 | Codename: Kids Next Door - Numbuh Generator | 185823 | [185823-codename-kids-next-door-numbuh-generator.json](./185823-codename-kids-next-door-numbuh-generator.json) |
@@ -12226,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
 | Conception II: Children of the Seven Stars | 4701 | [4701-conception-ii-children-of-the-seven-stars.json](./4701-conception-ii-children-of-the-seven-stars.json) |
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
+| Conception: Ore no Kodomo wo Undekure! | 4702 | [4702-conception-ore-no-kodomo-wo-undekure.json](./4702-conception-ore-no-kodomo-wo-undekure.json) |
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
 | Concert Kings: Music Tycoon | 234502 | [234502-concert-kings-music-tycoon.json](./234502-concert-kings-music-tycoon.json) |
@@ -14970,6 +14980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
 | Crash Drive 3D | 8038 | [8038-crash-drive-3d.json](./8038-crash-drive-3d.json) |
 | Crash Dummy | 35855 | [35855-crash-dummy.json](./35855-crash-dummy.json) |
+| Crash Dummy vs. the Evil D-Troit | 4775 | [4775-crash-dummy-vs-the-evil-d-troit.json](./4775-crash-dummy-vs-the-evil-d-troit.json) |
 | Crash Effects Inc. | 217514 | [217514-crash-effects-inc.json](./217514-crash-effects-inc.json) |
 | Crash Fever | 57178 | [57178-crash-fever.json](./57178-crash-fever.json) |
 | Crash Force | 26923 | [26923-crash-force.json](./26923-crash-force.json) |
@@ -15180,6 +15191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-Chan: Ora to Poi Poi | 48533 | [48533-crayon-shin-chan-ora-to-poi-poi.json](./48533-crayon-shin-chan-ora-to-poi-poi.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
+| Crayon Shin-chan: Strongest Family in Kasukabe Wii King | 4776 | [4776-crayon-shin-chan-strongest-family-in-kasukabe-wii-king.json](./4776-crayon-shin-chan-strongest-family-in-kasukabe-wii-king.json) |
 | Crayon Shin-chan: Taiketsu! Quantum Panic!! | 46321 | [46321-crayon-shin-chan-taiketsu-quantum-panic.json](./46321-crayon-shin-chan-taiketsu-quantum-panic.json) |
 | Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!! | 56242 | [56242-crayon-shin-chan-uchuu-de-achoo-yuujou-no-oba-karate.json](./56242-crayon-shin-chan-uchuu-de-achoo-yuujou-no-oba-karate.json) |
 | Crayon Shin-chan: Undoukai ha Oosawagi! | 218268 | [218268-crayon-shin-chan-undoukai-ha-oosawagi.json](./218268-crayon-shin-chan-undoukai-ha-oosawagi.json) |
