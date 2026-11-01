@@ -3259,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in Kana Village | 101314 | [101314-adventure-in-kana-village.json](./101314-adventure-in-kana-village.json) |
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
+| Adventure in the Fifth Dimension | 21556 | [21556-adventure-in-the-fifth-dimension.json](./21556-adventure-in-the-fifth-dimension.json) |
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
 | Adventure in the Snow Globe | 365077 | [365077-adventure-in-the-snow-globe.json](./365077-adventure-in-the-snow-globe.json) |
 | Adventure in the Tower of Flight | 35295 | [35295-adventure-in-the-tower-of-flight.json](./35295-adventure-in-the-tower-of-flight.json) |
@@ -5994,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alian Planet | 316188 | [316188-alian-planet.json](./316188-alian-planet.json) |
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
 | Aliants | 79106 | [79106-aliants.json](./79106-aliants.json) |
+| Aliard's Tome | 21555 | [21555-aliards-tome.json](./21555-aliards-tome.json) |
 | Alias | 169485 | [169485-alias.json](./169485-alias.json) |
 | Alias | 5719 | [5719-alias.json](./5719-alias.json) |
 | Alias 'The Magpie' | 138144 | [138144-alias-the-magpie.json](./138144-alias-the-magpie.json) |
@@ -6151,9 +6153,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Abductee | 272105 | [272105-alien-abductee.json](./272105-alien-abductee.json) |
 | Alien Abduction Experience | 369371 | [369371-alien-abduction-experience.json](./369371-alien-abduction-experience.json) |
 | Alien Accident | 192744 | [192744-alien-accident.json](./192744-alien-accident.json) |
+| Alien Addition | 21635 | [21635-alien-addition.json](./21635-alien-addition.json) |
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
 | Alien Age | 188836 | [188836-alien-age.json](./188836-alien-age.json) |
 | Alien Agent X | 385882 | [385882-alien-agent-x.json](./385882-alien-agent-x.json) |
+| Alien Ambush | 21636 | [21636-alien-ambush.json](./21636-alien-ambush.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
 | Alien Arcade | 206106 | [206106-alien-arcade.json](./206106-alien-arcade.json) |
@@ -8677,6 +8681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
 | Andromeda: Rebirth of Humanity | 148973 | [148973-andromeda-rebirth-of-humanity.json](./148973-andromeda-rebirth-of-humanity.json) |
+| Andromeda: There is No God Up Here | 22001 | [22001-andromeda-there-is-no-god-up-here.json](./22001-andromeda-there-is-no-god-up-here.json) |
 | Andromedum | 33138 | [33138-andromedum.json](./33138-andromedum.json) |
 | Andromis | 377085 | [377085-andromis.json](./377085-andromis.json) |
 | Andromium | 94740 | [94740-andromium.json](./94740-andromium.json) |
