@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Konoha Ninpouchou | 37358 | [37358-naruto-konoha-ninpouchou.json](./37358-naruto-konoha-ninpouchou.json) |
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
+| Naruto: Ninja Council 2 | 24065 | [24065-naruto-ninja-council-2.json](./24065-naruto-ninja-council-2.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
 | Naruto: Ninja Destiny | 20778 | [20778-naruto-ninja-destiny.json](./20778-naruto-ninja-destiny.json) |
 | Naruto: Ninja Destiny II - European Version | 64486 | [64486-naruto-ninja-destiny-ii-european-version.json](./64486-naruto-ninja-destiny-ii-european-version.json) |
