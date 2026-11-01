@@ -3694,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Info Fighter | 360510 | [360510-info-fighter.json](./360510-info-fighter.json) |
 | Info Genius Frommer's Travel Guide | 335490 | [335490-info-genius-frommers-travel-guide.json](./335490-info-genius-frommers-travel-guide.json) |
 | Info Player Start: A Dope (Challenge) Map | 282616 | [282616-info-player-start-a-dope-challenge-map.json](./282616-info-player-start-a-dope-challenge-map.json) |
+| Infocom Classic Text Adventure Masterpieces | 62384 | [62384-infocom-classic-text-adventure-masterpieces.json](./62384-infocom-classic-text-adventure-masterpieces.json) |
 | Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
 | Infodroid | 28857 | [28857-infodroid.json](./28857-infodroid.json) |
 | Infogrind | 401000 | [401000-infogrind.json](./401000-infogrind.json) |
