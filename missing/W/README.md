@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
 | Wastehaven | 152719 | [152719-wastehaven.json](./152719-wastehaven.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
+| Wasteland | 3100 | [3100-wasteland.json](./3100-wasteland.json) |
 | Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
 | Wasteland 2: Director's Cut - Digital Classic Edition | 124999 | [124999-wasteland-2-directors-cut-digital-classic-edition.json](./124999-wasteland-2-directors-cut-digital-classic-edition.json) |
 | Wasteland 2: Director's Cut - Digital Deluxe Edition | 53134 | [53134-wasteland-2-directors-cut-digital-deluxe-edition.json](./53134-wasteland-2-directors-cut-digital-deluxe-edition.json) |
