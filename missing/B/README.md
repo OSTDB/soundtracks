@@ -12059,6 +12059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom-Shaka-Laka! | 281962 | [281962-boom-shaka-laka.json](./281962-boom-shaka-laka.json) |
 | Boom! | 203894 | [203894-boom.json](./203894-boom.json) |
 | Boom! | 251582 | [251582-boom.json](./251582-boom.json) |
+| Boom! | 56836 | [56836-boom.json](./56836-boom.json) |
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
 | Boom! Buster | 278963 | [278963-boom-buster.json](./278963-boom-buster.json) |
 | Boom! Maze | 86421 | [86421-boom-maze.json](./86421-boom-maze.json) |
