@@ -3993,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch Simona in New York City | 69004 | [69004-catch-simona-in-new-york-city.json](./69004-catch-simona-in-new-york-city.json) |
+| Catch the Ball / Noughts and Crosses | 27227 | [27227-catch-the-ball-noughts-and-crosses.json](./27227-catch-the-ball-noughts-and-crosses.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
 | Catch the Bowling Balls | 152229 | [152229-catch-the-bowling-balls.json](./152229-catch-the-bowling-balls.json) |
 | Catch the Bowling Balls: Challenge Mode Edition | 207053 | [207053-catch-the-bowling-balls-challenge-mode-edition.json](./207053-catch-the-bowling-balls-challenge-mode-edition.json) |
@@ -15417,6 +15418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Plus | 264781 | [264781-crazy-plus.json](./264781-crazy-plus.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Pong | 198015 | [198015-crazy-pong.json](./198015-crazy-pong.json) |
+| Crazy Pong 2 | 27174 | [27174-crazy-pong-2.json](./27174-crazy-pong-2.json) |
 | Crazy Power Disc Perfect | 62661 | [62661-crazy-power-disc-perfect.json](./62661-crazy-power-disc-perfect.json) |
 | Crazy Prisoner | 243579 | [243579-crazy-prisoner.json](./243579-crazy-prisoner.json) |
 | Crazy Projectile | 143966 | [143966-crazy-projectile.json](./143966-crazy-projectile.json) |
