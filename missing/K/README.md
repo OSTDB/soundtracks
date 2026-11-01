@@ -2598,7 +2598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5771,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kutar Concert Staff | 85232 | [85232-kutar-concert-staff.json](./85232-kutar-concert-staff.json) |
 | Kutar Jump Rope | 85241 | [85241-kutar-jump-rope.json](./85241-kutar-jump-rope.json) |
 | Kutar Magic Ball | 85240 | [85240-kutar-magic-ball.json](./85240-kutar-magic-ball.json) |
+| Kutar Powder Factory | 54674 | [54674-kutar-powder-factory.json](./54674-kutar-powder-factory.json) |
 | Kutar Quiz | 85239 | [85239-kutar-quiz.json](./85239-kutar-quiz.json) |
 | Kutar Ski Lift | 85238 | [85238-kutar-ski-lift.json](./85238-kutar-ski-lift.json) |
 | Kutar Tube Rider | 85237 | [85237-kutar-tube-rider.json](./85237-kutar-tube-rider.json) |
