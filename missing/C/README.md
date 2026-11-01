@@ -7291,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou-Kousoku GranDoll | 68898 | [68898-chou-kousoku-grandoll.json](./68898-chou-kousoku-grandoll.json) |
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
 | Chouji Meikyuu Legion | 302247 | [302247-chouji-meikyuu-legion.json](./302247-chouji-meikyuu-legion.json) |
+| Choujikuu Yousai Macross | 39948 | [39948-choujikuu-yousai-macross.json](./39948-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross | 48673 | [48673-choujikuu-yousai-macross.json](./48673-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross | 66470 | [66470-choujikuu-yousai-macross.json](./66470-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross 2036 | 37587 | [37587-choujikuu-yousai-macross-2036.json](./37587-choujikuu-yousai-macross-2036.json) |
@@ -15402,6 +15403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
 | Crazy Race | 166846 | [166846-crazy-race.json](./166846-crazy-race.json) |
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
+| Crazy Rally | 39939 | [39939-crazy-rally.json](./39939-crazy-rally.json) |
 | Crazy Road | 90189 | [90189-crazy-road.json](./90189-crazy-road.json) |
 | Crazy Road: Trouble Racer | 246251 | [246251-crazy-road-trouble-racer.json](./246251-crazy-road-trouble-racer.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
@@ -16269,6 +16271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
+| Cross Pang | 39938 | [39938-cross-pang.json](./39938-cross-pang.json) |
 | Cross Pix | 362197 | [362197-cross-pix.json](./362197-cross-pix.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
 | Cross Pix 3 | 365545 | [365545-cross-pix-3.json](./365545-cross-pix-3.json) |
