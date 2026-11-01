@@ -6205,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf+ | 186012 | [186012-golf.json](./186012-golf.json) |
 | Golf98 | 123885 | [123885-golf98.json](./123885-golf98.json) |
 | GolFall: Make Your Way Up | 401166 | [401166-golfall-make-your-way-up.json](./401166-golfall-make-your-way-up.json) |
+| Golfamania | 45673 | [45673-golfamania.json](./45673-golfamania.json) |
 | Golfaria | 318470 | [318470-golfaria.json](./318470-golfaria.json) |
 | GolfGurus | 88104 | [88104-golfgurus.json](./88104-golfgurus.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
