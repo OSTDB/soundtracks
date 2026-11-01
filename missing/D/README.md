@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny Sullivan's Indy Heat | 12734 | [12734-danny-sullivans-indy-heat.json](./12734-danny-sullivans-indy-heat.json) |
 | Danny's Debt is Eternal | 273510 | [273510-dannys-debt-is-eternal.json](./273510-dannys-debt-is-eternal.json) |
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
+| Danny's War | 30433 | [30433-dannys-war.json](./30433-dannys-war.json) |
 | Danse Macabre: Crimson Cabaret | 140213 | [140213-danse-macabre-crimson-cabaret.json](./140213-danse-macabre-crimson-cabaret.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
@@ -5783,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dement | 120712 | [120712-dement.json](./120712-dement.json) |
 | Demented | 34070 | [34070-demented.json](./34070-demented.json) |
+| Demented Pixie | 30413 | [30413-demented-pixie.json](./30413-demented-pixie.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
 | Dementium: The Ward | 21238 | [21238-dementium-the-ward.json](./21238-dementium-the-ward.json) |
@@ -12153,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Freedom | 91111 | [91111-doomed-freedom.json](./91111-doomed-freedom.json) |
 | Doomed Hell 64 | 332386 | [332386-doomed-hell-64.json](./332386-doomed-hell-64.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
+| Doomed Kingdoms | 30425 | [30425-doomed-kingdoms.json](./30425-doomed-kingdoms.json) |
 | Doomed Lands | 159575 | [159575-doomed-lands.json](./159575-doomed-lands.json) |
 | Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
 | Doomed Otaku | 339981 | [339981-doomed-otaku.json](./339981-doomed-otaku.json) |
