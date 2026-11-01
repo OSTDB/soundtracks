@@ -10821,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | Polar Shift | 357825 | [357825-polar-shift.json](./357825-polar-shift.json) |
 | Polar Star | 41772 | [41772-polar-star.json](./41772-polar-star.json) |
+| Polar Star II | 57988 | [57988-polar-star-ii.json](./57988-polar-star-ii.json) |
 | Polar Tubing | 209342 | [209342-polar-tubing.json](./209342-polar-tubing.json) |
 | Polar Tubing | 209343 | [209343-polar-tubing.json](./209343-polar-tubing.json) |
 | Polara | 64232 | [64232-polara.json](./64232-polara.json) |
@@ -10938,6 +10939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Sim 2022 | 188335 | [188335-police-sim-2022.json](./188335-police-sim-2022.json) |
 | Police Simulator | 415170 | [415170-police-simulator.json](./415170-police-simulator.json) |
 | Police Simulator | 54285 | [54285-police-simulator.json](./54285-police-simulator.json) |
+| Police Simulator - Law Enforcement | 57960 | [57960-police-simulator-law-enforcement.json](./57960-police-simulator-law-enforcement.json) |
 | Police Simulator 2 | 10711 | [10711-police-simulator-2.json](./10711-police-simulator-2.json) |
 | Police Simulator 2023 | 225963 | [225963-police-simulator-2023.json](./225963-police-simulator-2023.json) |
 | Police Simulator: Patrol Duty | 143318 | [143318-police-simulator-patrol-duty.json](./143318-police-simulator-patrol-duty.json) |
