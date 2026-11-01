@@ -9804,6 +9804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
 | Anomiac. | 229553 | [229553-anomiac.json](./229553-anomiac.json) |
+| Anomie | 55548 | [55548-anomie.json](./55548-anomie.json) |
 | Anominal | 283913 | [283913-anominal.json](./283913-anominal.json) |
 | Anomyeowly | 397103 | [397103-anomyeowly.json](./397103-anomyeowly.json) |
 | Anon's Neko Waifus | 276709 | [276709-anons-neko-waifus.json](./276709-anons-neko-waifus.json) |
@@ -16407,6 +16408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening: Moonfell Wood | 65723 | [65723-awakening-moonfell-wood.json](./65723-awakening-moonfell-wood.json) |
 | Awakening: The Dreamless Castle | 66087 | [66087-awakening-the-dreamless-castle.json](./66087-awakening-the-dreamless-castle.json) |
 | Awakening: The Goblin Kingdom | 65707 | [65707-awakening-the-goblin-kingdom.json](./65707-awakening-the-goblin-kingdom.json) |
+| Awakening: The Goblin Kingdom - Collector's Edition | 55605 | [55605-awakening-the-goblin-kingdom-collectors-edition.json](./55605-awakening-the-goblin-kingdom-collectors-edition.json) |
 | Awakening: The Golden Age | 58000 | [58000-awakening-the-golden-age.json](./58000-awakening-the-golden-age.json) |
 | Awakening: The Golden Age - Collector's Edition | 29615 | [29615-awakening-the-golden-age-collectors-edition.json](./29615-awakening-the-golden-age-collectors-edition.json) |
 | Awakening: The Redleaf Forest | 57998 | [57998-awakening-the-redleaf-forest.json](./57998-awakening-the-redleaf-forest.json) |
