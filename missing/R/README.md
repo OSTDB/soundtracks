@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Wars! Karuizawa Yori Satsui wo Nosete | 11791 | [11791-rail-wars-karuizawa-yori-satsui-wo-nosete.json](./11791-rail-wars-karuizawa-yori-satsui-wo-nosete.json) |
 | Rail&Write | 184416 | [184416-rail-and-write.json](./184416-rail-and-write.json) |
 | Railborn | 348300 | [348300-railborn.json](./348300-railborn.json) |
+| Railbound | 198623 | [198623-railbound.json](./198623-railbound.json) |
 | Railbreak | 272195 | [272195-railbreak.json](./272195-railbreak.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
@@ -6556,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Teddy Adventure | 261677 | [261677-rich-teddy-adventure.json](./261677-rich-teddy-adventure.json) |
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
+| Richard & Alice | 10768 | [10768-richard-and-alice.json](./10768-richard-and-alice.json) |
 | Richard Burns Rally | 230466 | [230466-richard-burns-rally.json](./230466-richard-burns-rally.json) |
 | Richard Petty's Talladega | 47187 | [47187-richard-pettys-talladega.json](./47187-richard-pettys-talladega.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
