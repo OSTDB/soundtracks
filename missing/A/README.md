@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
 | A=B | 182188 | [182188-a-b.json](./182188-a-b.json) |
+| A1 Spirit: The Way to Formula-1 | 41704 | [41704-a1-spirit-the-way-to-formula-1.json](./41704-a1-spirit-the-way-to-formula-1.json) |
 | A100 | 200380 | [200380-a100.json](./200380-a100.json) |
 | A189 | 307653 | [307653-a189.json](./307653-a189.json) |
 | A2 Racer | 92803 | [92803-a2-racer.json](./92803-a2-racer.json) |
@@ -5626,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albacete Warrior | 152237 | [152237-albacete-warrior.json](./152237-albacete-warrior.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
+| Albatross: Tournament Golf | 41665 | [41665-albatross-tournament-golf.json](./41665-albatross-tournament-golf.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
 | Albedo | 14161 | [14161-albedo.json](./14161-albedo.json) |
 | Albedo | 185312 | [185312-albedo.json](./185312-albedo.json) |
@@ -8850,6 +8852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angle of Attack | 377098 | [377098-angle-of-attack.json](./377098-angle-of-attack.json) |
 | Angle Wars | 132598 | [132598-angle-wars.json](./132598-angle-wars.json) |
 | Angle. | 261162 | [261162-angle.json](./261162-angle.json) |
+| Angleball | 41697 | [41697-angleball.json](./41697-angleball.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
 | Angler Dangler | 83303 | [83303-angler-dangler.json](./83303-angler-dangler.json) |
 | Angler King | 249778 | [249778-angler-king.json](./249778-angler-king.json) |
