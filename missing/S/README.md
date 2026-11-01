@@ -3401,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen VR | 121596 | [121596-screen-vr.json](./121596-screen-vr.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | Screenbound | 293733 | [293733-screenbound.json](./293733-screenbound.json) |
+| Screencheat | 8816 | [8816-screencheat.json](./8816-screencheat.json) |
 | ScreenPlay | 188603 | [188603-screenplay.json](./188603-screenplay.json) |
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
@@ -9901,6 +9902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
 | Silver Strike Bowling | 72780 | [72780-silver-strike-bowling.json](./72780-silver-strike-bowling.json) |
 | Silver Surfer | 198884 | [198884-silver-surfer.json](./198884-silver-surfer.json) |
+| Silver Surfer | 9099 | [9099-silver-surfer.json](./9099-silver-surfer.json) |
 | Silver the Hedgehog: World's Collide | 253786 | [253786-silver-the-hedgehog-worlds-collide.json](./253786-silver-the-hedgehog-worlds-collide.json) |
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
 | Silver Thread: Deux | 298809 | [298809-silver-thread-deux.json](./298809-silver-thread-deux.json) |
@@ -13748,6 +13750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Princess | 350536 | [350536-snake-princess.json](./350536-snake-princess.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Rampage - Snake Simulator | 108619 | [108619-snake-rampage-snake-simulator.json](./108619-snake-rampage-snake-simulator.json) |
+| Snake Rattle 'n' Roll | 4479 | [4479-snake-rattle-n-roll.json](./4479-snake-rattle-n-roll.json) |
 | Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
 | Snake Rewind | 124445 | [124445-snake-rewind.json](./124445-snake-rewind.json) |
 | Snake Rivals | 138453 | [138453-snake-rivals.json](./138453-snake-rivals.json) |
@@ -18146,7 +18149,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23751,6 +23753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startling Odyssey | 78944 | [78944-startling-odyssey.json](./78944-startling-odyssey.json) |
 | Startling Odyssey 1: Blue Evolution | 63928 | [63928-startling-odyssey-1-blue-evolution.json](./63928-startling-odyssey-1-blue-evolution.json) |
 | Startling Odyssey II: Maryuu Sensou | 63929 | [63929-startling-odyssey-ii-maryuu-sensou.json](./63929-startling-odyssey-ii-maryuu-sensou.json) |
+| Startopia | 8471 | [8471-startopia.json](./8471-startopia.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Startrail Destiny | 105039 | [105039-startrail-destiny.json](./105039-startrail-destiny.json) |
 | StarTrash | 68347 | [68347-startrash.json](./68347-startrash.json) |
@@ -26543,6 +26546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: A Hero's Fate | 112755 | [112755-stronghold-a-heros-fate.json](./112755-stronghold-a-heros-fate.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
 | Stronghold: Crusader - Definitive Edition | 328611 | [328611-stronghold-crusader-definitive-edition.json](./328611-stronghold-crusader-definitive-edition.json) |
+| Stronghold: Crusader Extreme | 9462 | [9462-stronghold-crusader-extreme.json](./9462-stronghold-crusader-extreme.json) |
 | Stronghold: Definitive Edition | 257672 | [257672-stronghold-definitive-edition.json](./257672-stronghold-definitive-edition.json) |
 | Stronghold: Definitive Edition - Swine's Bay Campaign | 293856 | [293856-stronghold-definitive-edition-swines-bay-campaign.json](./293856-stronghold-definitive-edition-swines-bay-campaign.json) |
 | Stronghold: Definitive Edition - Valley of the Wolf Campaign | 296989 | [296989-stronghold-definitive-edition-valley-of-the-wolf-campaign.json](./296989-stronghold-definitive-edition-valley-of-the-wolf-campaign.json) |
@@ -32844,6 +32848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Boy | 183783 | [183783-sword-boy.json](./183783-sword-boy.json) |
 | Sword Bros | 75063 | [75063-sword-bros.json](./75063-sword-bros.json) |
 | Sword Chronicles: Awaken | 262378 | [262378-sword-chronicles-awaken.json](./262378-sword-chronicles-awaken.json) |
+| Sword Coast Legends | 9179 | [9179-sword-coast-legends.json](./9179-sword-coast-legends.json) |
 | Sword Coast Legends: Deluxe Campaign Edition | 53701 | [53701-sword-coast-legends-deluxe-campaign-edition.json](./53701-sword-coast-legends-deluxe-campaign-edition.json) |
 | Sword Coast Legends: Deluxe Edition | 53700 | [53700-sword-coast-legends-deluxe-edition.json](./53700-sword-coast-legends-deluxe-edition.json) |
 | Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
