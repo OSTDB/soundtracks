@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War: Ultimate Edition | 16605 | [16605-gears-of-war-ultimate-edition.json](./16605-gears-of-war-ultimate-edition.json) |
 | Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
+| Gears Pop! | 103290 | [103290-gears-pop.json](./103290-gears-pop.json) |
 | Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
 | Gears Unchained: The Rise of Revolution | 309380 | [309380-gears-unchained-the-rise-of-revolution.json](./309380-gears-unchained-the-rise-of-revolution.json) |
 | Gearshifters: Collector's Edition | 159021 | [159021-gearshifters-collectors-edition.json](./159021-gearshifters-collectors-edition.json) |
