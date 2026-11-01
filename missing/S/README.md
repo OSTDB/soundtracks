@@ -17954,6 +17954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Encounters | 39975 | [39975-space-encounters.json](./39975-space-encounters.json) |
 | Space Endeavor | 173266 | [173266-space-endeavor.json](./173266-space-endeavor.json) |
 | Space Enemy | 345912 | [345912-space-enemy.json](./345912-space-enemy.json) |
+| Space Engineers | 3239 | [3239-space-engineers.json](./3239-space-engineers.json) |
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Engineers: Decorative Pack #3 | 264508 | [264508-space-engineers-decorative-pack-3.json](./264508-space-engineers-decorative-pack-3.json) |
@@ -30712,6 +30713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter II: The New Challengers | 322235 | [322235-super-street-fighter-ii-the-new-challengers.json](./322235-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers - Tiger Barcodzz | 198934 | [198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json](./198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json) |
 | Super Street Fighter II: The Tournament Battle | 80848 | [80848-super-street-fighter-ii-the-tournament-battle.json](./80848-super-street-fighter-ii-the-tournament-battle.json) |
+| Super Street Fighter IV | 7198 | [7198-super-street-fighter-iv.json](./7198-super-street-fighter-iv.json) |
 | Super Street Fighter IV: 3D Edition | 6895 | [6895-super-street-fighter-iv-3d-edition.json](./6895-super-street-fighter-iv-3d-edition.json) |
 | Super Street Fighter IV: Arcade Edition | 20586 | [20586-super-street-fighter-iv-arcade-edition.json](./20586-super-street-fighter-iv-arcade-edition.json) |
 | Super Street Fighter IV: Pachislot Edition | 69377 | [69377-super-street-fighter-iv-pachislot-edition.json](./69377-super-street-fighter-iv-pachislot-edition.json) |
