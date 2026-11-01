@@ -4226,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | Battletech: Gray Death Legion | 128886 | [128886-battletech-gray-death-legion.json](./128886-battletech-gray-death-legion.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
+| BattleTech: The Crescent Hawk's Inception | 11949 | [11949-battletech-the-crescent-hawks-inception.json](./11949-battletech-the-crescent-hawks-inception.json) |
 | BattleTech: The Crescent Hawks' Revenge | 19185 | [19185-battletech-the-crescent-hawks-revenge.json](./19185-battletech-the-crescent-hawks-revenge.json) |
 | Battlethorne | 272207 | [272207-battlethorne.json](./272207-battlethorne.json) |
 | Battlethorne: Reckoning | 370907 | [370907-battlethorne-reckoning.json](./370907-battlethorne-reckoning.json) |
