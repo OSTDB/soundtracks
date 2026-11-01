@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpoPitec | 111968 | [111968-jumpopitec.json](./111968-jumpopitec.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | Jumpox | 243735 | [243735-jumpox.json](./243735-jumpox.json) |
+| Jumppy Egg | 27152 | [27152-jumppy-egg.json](./27152-jumppy-egg.json) |
 | Jumps | 30790 | [30790-jumps.json](./30790-jumps.json) |
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
 | Jumpscare Scare Jump | 407180 | [407180-jumpscare-scare-jump.json](./407180-jumpscare-scare-jump.json) |
