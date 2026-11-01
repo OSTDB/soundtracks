@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
 | Dark Jungle | 207194 | [207194-dark-jungle.json](./207194-dark-jungle.json) |
 | Dark Killing | 266967 | [266967-dark-killing.json](./266967-dark-killing.json) |
+| Dark Kingdom | 42317 | [42317-dark-kingdom.json](./42317-dark-kingdom.json) |
 | Dark Labyrinth | 348165 | [348165-dark-labyrinth.json](./348165-dark-labyrinth.json) |
 | Dark Law: Meaning of Death | 15898 | [15898-dark-law-meaning-of-death.json](./15898-dark-law-meaning-of-death.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
