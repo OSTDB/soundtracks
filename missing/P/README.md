@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
 | Panzer Tactics HD | 10653 | [10653-panzer-tactics-hd.json](./10653-panzer-tactics-hd.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
+| Panzer-Jagd | 24636 | [24636-panzer-jagd.json](./24636-panzer-jagd.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
 | Panzermadels: Tank Dating Simulator | 34987 | [34987-panzermadels-tank-dating-simulator.json](./34987-panzermadels-tank-dating-simulator.json) |
@@ -3451,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
 | Pearl Harbour 2: Day of Infamy | 54255 | [54255-pearl-harbour-2-day-of-infamy.json](./54255-pearl-harbour-2-day-of-infamy.json) |
+| Pearl Harbour: Shadows Over Oahu | 24490 | [24490-pearl-harbour-shadows-over-oahu.json](./24490-pearl-harbour-shadows-over-oahu.json) |
 | Pearl Jam Live: Rock Band | 68299 | [68299-pearl-jam-live-rock-band.json](./68299-pearl-jam-live-rock-band.json) |
 | Pearl Music | 391989 | [391989-pearl-music.json](./391989-pearl-music.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
