@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Drivin' | 217740 | [217740-hard-drivin.json](./217740-hard-drivin.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
 | Hard Dunk | 40350 | [40350-hard-dunk.json](./40350-hard-dunk.json) |
+| Hard Era: The Fantasy Defence | 55572 | [55572-hard-era-the-fantasy-defence.json](./55572-hard-era-the-fantasy-defence.json) |
 | Hard Evidence: Marilyn Monroe Files | 7619 | [7619-hard-evidence-marilyn-monroe-files.json](./7619-hard-evidence-marilyn-monroe-files.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Graphics Soushuuhen | 67357 | [67357-hard-graphics-soushuuhen.json](./67357-hard-graphics-soushuuhen.json) |
@@ -6036,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexLand: Rise of Blue | 221678 | [221678-hexland-rise-of-blue.json](./221678-hexland-rise-of-blue.json) |
 | HexLands | 238657 | [238657-hexlands.json](./238657-hexlands.json) |
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
+| Hexlide | 55562 | [55562-hexlide.json](./55562-hexlide.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
 | Hexlords: Quantum Warfare | 259998 | [259998-hexlords-quantum-warfare.json](./259998-hexlords-quantum-warfare.json) |
