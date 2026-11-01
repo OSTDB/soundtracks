@@ -10427,6 +10427,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Ducks | 198818 | [198818-mighty-ducks.json](./198818-mighty-ducks.json) |
 | Mighty Fight Federation | 121256 | [121256-mighty-fight-federation.json](./121256-mighty-fight-federation.json) |
 | Mighty Fight Federation: Kunio & Riki Pack | 227033 | [227033-mighty-fight-federation-kunio-and-riki-pack.json](./227033-mighty-fight-federation-kunio-and-riki-pack.json) |
+| Mighty Fighter 2: The King of Parody | 60273 | [60273-mighty-fighter-2-the-king-of-parody.json](./60273-mighty-fighter-2-the-king-of-parody.json) |
+| Mighty Fighter: Challenge World Warrior | 60269 | [60269-mighty-fighter-challenge-world-warrior.json](./60269-mighty-fighter-challenge-world-warrior.json) |
 | Mighty Final Fight | 1658 | [1658-mighty-final-fight.json](./1658-mighty-final-fight.json) |
 | Mighty Fling | 135758 | [135758-mighty-fling.json](./135758-mighty-fling.json) |
 | Mighty Flip Champs! | 29079 | [29079-mighty-flip-champs.json](./29079-mighty-flip-champs.json) |
@@ -15603,6 +15605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
 | Morpheus | 73460 | [73460-morpheus.json](./73460-morpheus.json) |
 | Morphic Puzzle | 114636 | [114636-morphic-puzzle.json](./114636-morphic-puzzle.json) |
+| Morphicle | 60305 | [60305-morphicle.json](./60305-morphicle.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
 | Morphing | 335215 | [335215-morphing.json](./335215-morphing.json) |
@@ -16885,6 +16888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Rex's Zealous Adventure | 237023 | [237023-mr-rexs-zealous-adventure.json](./237023-mr-rexs-zealous-adventure.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
+| Mr Speedy | 60300 | [60300-mr-speedy.json](./60300-mr-speedy.json) |
 | Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
 | Mr The Killer | 294526 | [294526-mr-the-killer.json](./294526-mr-the-killer.json) |
 | Mr Toilet | 369174 | [369174-mr-toilet.json](./369174-mr-toilet.json) |
@@ -17684,6 +17688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
 | Murder on Space Station 52 | 197526 | [197526-murder-on-space-station-52.json](./197526-murder-on-space-station-52.json) |
 | Murder on the Disorient Express | 406054 | [406054-murder-on-the-disorient-express.json](./406054-murder-on-the-disorient-express.json) |
+| Murder on the Eurasia Express | 60260 | [60260-murder-on-the-eurasia-express.json](./60260-murder-on-the-eurasia-express.json) |
 | Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
 | Murder on the Links | 341298 | [341298-murder-on-the-links.json](./341298-murder-on-the-links.json) |
 | Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
@@ -19861,6 +19866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Mysteries of Ancient Inventors - Atlantis | 54242 | [54242-mystery-masters-mysteries-of-ancient-inventors-atlantis.json](./54242-mystery-masters-mysteries-of-ancient-inventors-atlantis.json) |
 | Mystery Masters: Mysteries of the Heart | 201812 | [201812-mystery-masters-mysteries-of-the-heart.json](./201812-mystery-masters-mysteries-of-the-heart.json) |
 | Mystery Masters: Mystery 6 Pack | 208806 | [208806-mystery-masters-mystery-6-pack.json](./208806-mystery-masters-mystery-6-pack.json) |
+| Mystery Masters: Psycho Train | 60296 | [60296-mystery-masters-psycho-train.json](./60296-mystery-masters-psycho-train.json) |
 | Mystery Masters: Psycho Train - Deluxe Edition | 35884 | [35884-mystery-masters-psycho-train-deluxe-edition.json](./35884-mystery-masters-psycho-train-deluxe-edition.json) |
 | Mystery Masters: Supernatural Stories | 200962 | [200962-mystery-masters-supernatural-stories.json](./200962-mystery-masters-supernatural-stories.json) |
 | Mystery Masters: The Secret of the Pharaoh's Amulet | 202085 | [202085-mystery-masters-the-secret-of-the-pharaohs-amulet.json](./202085-mystery-masters-the-secret-of-the-pharaohs-amulet.json) |
