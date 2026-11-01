@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Run | 210750 | [210750-ninja-run.json](./210750-ninja-run.json) |
 | Ninja Run! | 119463 | [119463-ninja-run.json](./119463-ninja-run.json) |
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
+| Ninja Ryuukenden | 38083 | [38083-ninja-ryuukenden.json](./38083-ninja-ryuukenden.json) |
 | Ninja Saga | 198177 | [198177-ninja-saga.json](./198177-ninja-saga.json) |
 | Ninja Savior | 268496 | [268496-ninja-savior.json](./268496-ninja-savior.json) |
 | Ninja Scarf | 150983 | [150983-ninja-scarf.json](./150983-ninja-scarf.json) |
