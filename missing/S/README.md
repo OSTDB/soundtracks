@@ -5665,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven: Drowned Past | 280861 | [280861-seven-drowned-past.json](./280861-seven-drowned-past.json) |
 | Seven: Endgame | 239234 | [239234-seven-endgame.json](./239234-seven-endgame.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
+| Seven: Enhanced Edition | 116146 | [116146-seven-enhanced-edition.json](./116146-seven-enhanced-edition.json) |
 | Seven: Reboot | 82056 | [82056-seven-reboot.json](./82056-seven-reboot.json) |
 | Seven: The Days Long Gone - Digital Collector's Edition | 25875 | [25875-seven-the-days-long-gone-digital-collectors-edition.json](./25875-seven-the-days-long-gone-digital-collectors-edition.json) |
 | Seven's Code | 125361 | [125361-sevens-code.json](./125361-sevens-code.json) |
@@ -6269,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Tomb Raider: The Nightmare | 113987 | [113987-shadow-of-the-tomb-raider-the-nightmare.json](./113987-shadow-of-the-tomb-raider-the-nightmare.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow of the Tomb Raider: The Pillar | 113988 | [113988-shadow-of-the-tomb-raider-the-pillar.json](./113988-shadow-of-the-tomb-raider-the-pillar.json) |
+| Shadow of the Tomb Raider: The Price of Survival | 115200 | [115200-shadow-of-the-tomb-raider-the-price-of-survival.json](./115200-shadow-of-the-tomb-raider-the-price-of-survival.json) |
 | Shadow of the Tomb Raider: The Serpent's Heart | 116003 | [116003-shadow-of-the-tomb-raider-the-serpents-heart.json](./116003-shadow-of-the-tomb-raider-the-serpents-heart.json) |
 | Shadow of the Tomb Raider: Ultimate Edition | 99123 | [99123-shadow-of-the-tomb-raider-ultimate-edition.json](./99123-shadow-of-the-tomb-raider-ultimate-edition.json) |
 | Shadow of the Unicorn | 26417 | [26417-shadow-of-the-unicorn.json](./26417-shadow-of-the-unicorn.json) |
@@ -9217,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization Revolution | 264864 | [264864-sid-meiers-civilization-revolution.json](./264864-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264865 | [264865-sid-meiers-civilization-revolution.json](./264865-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264866 | [264866-sid-meiers-civilization-revolution.json](./264866-sid-meiers-civilization-revolution.json) |
+| Sid Meier's Civilization Revolution 2 | 15819 | [15819-sid-meiers-civilization-revolution-2.json](./15819-sid-meiers-civilization-revolution-2.json) |
 | Sid Meier's Civilization Revolution 2 Plus | 139435 | [139435-sid-meiers-civilization-revolution-2-plus.json](./139435-sid-meiers-civilization-revolution-2-plus.json) |
 | Sid Meier's Civilization V: Babylon (Nebuchadnezzar II) | 164393 | [164393-sid-meiers-civilization-v-babylon-nebuchadnezzar-ii.json](./164393-sid-meiers-civilization-v-babylon-nebuchadnezzar-ii.json) |
 | Sid Meier's Civilization V: Brave New World | 3272 | [3272-sid-meiers-civilization-v-brave-new-world.json](./3272-sid-meiers-civilization-v-brave-new-world.json) |
@@ -10531,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar Patito Feo | 268749 | [268749-singstar-patito-feo.json](./268749-singstar-patito-feo.json) |
 | SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
 | SingStar Vol. 3: Party Edition | 52829 | [52829-singstar-vol-3-party-edition.json](./52829-singstar-vol-3-party-edition.json) |
+| Singstar: '80s | 15094 | [15094-singstar-80s.json](./15094-singstar-80s.json) |
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
 | SingStar: ABBA | 3306 | [3306-singstar-abba.json](./3306-singstar-abba.json) |
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
@@ -12010,6 +12014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slain 2: The Beast Within | 340587 | [340587-slain-2-the-beast-within.json](./340587-slain-2-the-beast-within.json) |
 | Slain: Back from Hell | 18509 | [18509-slain-back-from-hell.json](./18509-slain-back-from-hell.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
+| Slalom | 14589 | [14589-slalom.json](./14589-slalom.json) |
 | Slalom | 245138 | [245138-slalom.json](./245138-slalom.json) |
 | Slalom | 378177 | [378177-slalom.json](./378177-slalom.json) |
 | Slam | 35046 | [35046-slam.json](./35046-slam.json) |
@@ -18192,6 +18197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19114,6 +19120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Quest | 348145 | [348145-spark-quest.json](./348145-spark-quest.json) |
 | Spark Rising | 16892 | [16892-spark-rising.json](./16892-spark-rising.json) |
 | Spark Spark | 284255 | [284255-spark-spark.json](./284255-spark-spark.json) |
+| Spark the Electric Jester 2 | 118119 | [118119-spark-the-electric-jester-2.json](./118119-spark-the-electric-jester-2.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | SparkBlast | 301507 | [301507-sparkblast.json](./301507-sparkblast.json) |
@@ -23679,6 +23686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsector | 18349 | [18349-starsector.json](./18349-starsector.json) |
 | Starseed | 150998 | [150998-starseed.json](./150998-starseed.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
+| Starseed Pilgrim | 16317 | [16317-starseed-pilgrim.json](./16317-starseed-pilgrim.json) |
 | Starseeker | 107608 | [107608-starseeker.json](./107608-starseeker.json) |
 | Starseeker: Astroneer Expeditions | 338089 | [338089-starseeker-astroneer-expeditions.json](./338089-starseeker-astroneer-expeditions.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
@@ -28782,6 +28790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Duelling Minivans | 71794 | [71794-super-duelling-minivans.json](./71794-super-duelling-minivans.json) |
 | Super Dungeon Boy | 75342 | [75342-super-dungeon-boy.json](./75342-super-dungeon-boy.json) |
 | Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
+| Super Dungeon Bros | 14581 | [14581-super-dungeon-bros.json](./14581-super-dungeon-bros.json) |
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
 | Super Dungeon Bros: Broettes | 172385 | [172385-super-dungeon-bros-broettes.json](./172385-super-dungeon-bros-broettes.json) |
 | Super Dungeon Explore | 58550 | [58550-super-dungeon-explore.json](./58550-super-dungeon-explore.json) |
