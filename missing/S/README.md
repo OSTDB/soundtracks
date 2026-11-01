@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of Yurina | 373196 | [373196-saga-of-yurina.json](./373196-saga-of-yurina.json) |
 | Saga Star | 413203 | [413203-saga-star.json](./413203-saga-star.json) |
 | SaGa: Emerald Beyond | 266681 | [266681-saga-emerald-beyond.json](./266681-saga-emerald-beyond.json) |
+| Saga: Rage of the Vikings | 46968 | [46968-saga-rage-of-the-vikings.json](./46968-saga-rage-of-the-vikings.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
 | Sagaia | 145878 | [145878-sagaia.json](./145878-sagaia.json) |
@@ -13182,6 +13183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up - The Card Game | 87216 | [87216-smash-up-the-card-game.json](./87216-smash-up-the-card-game.json) |
+| Smash Up Derby | 46966 | [46966-smash-up-derby.json](./46966-smash-up-derby.json) |
 | Smash Up: Awesome Level 9000 | 155444 | [155444-smash-up-awesome-level-9000.json](./155444-smash-up-awesome-level-9000.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash Your PC | 318267 | [318267-smash-your-pc.json](./318267-smash-your-pc.json) |
@@ -17981,6 +17983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -31874,6 +31877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan Hill | 177821 | [177821-swan-hill.json](./177821-swan-hill.json) |
 | Swan Princess Gator Escape | 340534 | [340534-swan-princess-gator-escape.json](./340534-swan-princess-gator-escape.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
+| Swan Song | 46977 | [46977-swan-song.json](./46977-swan-song.json) |
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
 | Swann's Song | 345889 | [345889-swanns-song.json](./345889-swanns-song.json) |
@@ -31904,6 +31908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap! Swap! Swap! | 106405 | [106405-swap-swap-swap.json](./106405-swap-swap-swap.json) |
 | Swap. | 232037 | [232037-swap.json](./232037-swap.json) |
 | Swapdown | 266054 | [266054-swapdown.json](./266054-swapdown.json) |
+| Swaperoo | 46973 | [46973-swaperoo.json](./46973-swaperoo.json) |
 | Swapette Showdown | 108706 | [108706-swapette-showdown.json](./108706-swapette-showdown.json) |
 | Swapfell Ascendance | 331347 | [331347-swapfell-ascendance.json](./331347-swapfell-ascendance.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
@@ -32651,6 +32656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Quest | 57380 | [57380-sword-quest.json](./57380-sword-quest.json) |
 | Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
 | Sword Rogue | 150435 | [150435-sword-rogue.json](./150435-sword-rogue.json) |
+| Sword Saga | 46947 | [46947-sword-saga.json](./46947-sword-saga.json) |
 | Sword Sage: Awakening | 375869 | [375869-sword-sage-awakening.json](./375869-sword-sage-awakening.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword sand Shotguns | 258071 | [258071-sword-sand-shotguns.json](./258071-sword-sand-shotguns.json) |
