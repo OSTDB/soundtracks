@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.R.N. | 400086 | [400086-s-o-r-n.json](./400086-s-o-r-n.json) |
 | S.O.R.T. | 381977 | [381977-s-o-r-t.json](./381977-s-o-r-t.json) |
 | S.O.S: State of Survival | 224399 | [224399-s-o-s-state-of-survival.json](./224399-s-o-s-state-of-survival.json) |
+| S.O.S. | 36682 | [36682-s-o-s.json](./36682-s-o-s.json) |
 | S.O.T.A 2 | 152976 | [152976-s-o-t-a-2.json](./152976-s-o-t-a-2.json) |
 | S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
 | S.O.V.A. | 421327 | [421327-s-o-v-a.json](./421327-s-o-v-a.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Salt | 96204 | [96204-sea-salt.json](./96204-sea-salt.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
+| Sea Search | 36688 | [36688-sea-search.json](./36688-sea-search.json) |
 | Sea Stars | 59626 | [59626-sea-stars.json](./59626-sea-stars.json) |
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
 | Sea Town | 238093 | [238093-sea-town.json](./238093-sea-town.json) |
@@ -6615,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shalnor: Silverwind Saga | 319443 | [319443-shalnor-silverwind-saga.json](./319443-shalnor-silverwind-saga.json) |
 | Shalnor: Silverwind Saga 2 | 391012 | [391012-shalnor-silverwind-saga-2.json](./391012-shalnor-silverwind-saga-2.json) |
 | Shalnor: Silverwind Saga Bundle | 417285 | [417285-shalnor-silverwind-saga-bundle.json](./417285-shalnor-silverwind-saga-bundle.json) |
+| Shalom: Knightmare III | 36672 | [36672-shalom-knightmare-iii.json](./36672-shalom-knightmare-iii.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
 | Sham City | 242697 | [242697-sham-city.json](./242697-sham-city.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
@@ -18049,7 +18052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26035,6 +26037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Striker | 152681 | [152681-street-striker.json](./152681-street-striker.json) |
+| Street Surfer | 36676 | [36676-street-surfer.json](./36676-street-surfer.json) |
 | Street Survival: Homeless Simulator | 315923 | [315923-street-survival-homeless-simulator.json](./315923-street-survival-homeless-simulator.json) |
 | Street Sweeper | 129643 | [129643-street-sweeper.json](./129643-street-sweeper.json) |
 | Street Takoyaki | 385430 | [385430-street-takoyaki.json](./385430-street-takoyaki.json) |
@@ -26186,6 +26189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike Force Red Cell | 67093 | [67093-strike-force-red-cell.json](./67093-strike-force-red-cell.json) |
+| Strike Force: Cobra | 36670 | [36670-strike-force-cobra.json](./36670-strike-force-cobra.json) |
 | Strike Force: Dragon VIP | 97208 | [97208-strike-force-dragon-vip.json](./97208-strike-force-dragon-vip.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
 | Strike Master Apocalypse | 127507 | [127507-strike-master-apocalypse.json](./127507-strike-master-apocalypse.json) |
@@ -28203,6 +28207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bounce Out | 53685 | [53685-super-bounce-out.json](./53685-super-bounce-out.json) |
 | Super Bout: Champion's Tour | 167459 | [167459-super-bout-champions-tour.json](./167459-super-bout-champions-tour.json) |
 | Super Bowl | 93128 | [93128-super-bowl.json](./93128-super-bowl.json) |
+| Super Bowl Sunday | 36693 | [36693-super-bowl-sunday.json](./36693-super-bowl-sunday.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowl XX | 59817 | [59817-super-bowl-xx.json](./59817-super-bowl-xx.json) |
 | Super Bowling | 71864 | [71864-super-bowling.json](./71864-super-bowling.json) |
@@ -30706,6 +30711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultimate Party Game | 339080 | [339080-super-ultimate-party-game.json](./339080-super-ultimate-party-game.json) |
 | Super Ultra Baseball 2 | 38242 | [38242-super-ultra-baseball-2.json](./38242-super-ultra-baseball-2.json) |
 | Super Ultra Dead Rising 3 Arcade Remix Hyper Edition EX Plus Alpha | 20095 | [20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json](./20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json) |
+| Super Ultra Dead Rising 4 Mini Golf | 36664 | [36664-super-ultra-dead-rising-4-mini-golf.json](./36664-super-ultra-dead-rising-4-mini-golf.json) |
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
 | Super Ultra Mucchin Puripuri Cyborg: Marilyn DX | 271710 | [271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json](./271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json) |
 | Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
