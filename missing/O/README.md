@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OdiChat | 258498 | [258498-odichat.json](./258498-odichat.json) |
 | Odile: Black Duckling Tale | 381221 | [381221-odile-black-duckling-tale.json](./381221-odile-black-duckling-tale.json) |
 | Odin Sphere: Leifthrasir | 15709 | [15709-odin-sphere-leifthrasir.json](./15709-odin-sphere-leifthrasir.json) |
+| Odin Sphere: Leifthrasir - Storybook Edition | 42958 | [42958-odin-sphere-leifthrasir-storybook-edition.json](./42958-odin-sphere-leifthrasir-storybook-edition.json) |
 | Odin: Valhalla Rising | 137939 | [137939-odin-valhalla-rising.json](./137939-odin-valhalla-rising.json) |
 | Odin's Adventures | 232081 | [232081-odins-adventures.json](./232081-odins-adventures.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
