@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Empire | 318732 | [318732-epic-empire.json](./318732-epic-empire.json) |
 | Epic Eon | 280337 | [280337-epic-eon.json](./280337-epic-eon.json) |
 | Epic Escapes Dark Seas, Mysteries of Ancient Inventors Atlantis, Elementary My Dear Majesty | 201273 | [201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json](./201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json) |
+| Epic Escapes: Dark Seas | 25473 | [25473-epic-escapes-dark-seas.json](./25473-epic-escapes-dark-seas.json) |
 | Epic Fantasy | 165570 | [165570-epic-fantasy.json](./165570-epic-fantasy.json) |
 | Epic Fantasy Battle Simulator | 165131 | [165131-epic-fantasy-battle-simulator.json](./165131-epic-fantasy-battle-simulator.json) |
 | Epic Flail | 32113 | [32113-epic-flail.json](./32113-epic-flail.json) |
