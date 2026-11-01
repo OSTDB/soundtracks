@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports NASCAR Racing | 269525 | [269525-ea-sports-nascar-racing.json](./269525-ea-sports-nascar-racing.json) |
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
 | EA Sports PGA Tour: Deluxe Edition | 232637 | [232637-ea-sports-pga-tour-deluxe-edition.json](./232637-ea-sports-pga-tour-deluxe-edition.json) |
+| EA Sports UFC | 4784 | [4784-ea-sports-ufc.json](./4784-ea-sports-ufc.json) |
 | EA Sports UFC 2: Deluxe Edition | 89842 | [89842-ea-sports-ufc-2-deluxe-edition.json](./89842-ea-sports-ufc-2-deluxe-edition.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 3: Champions Edition | 89837 | [89837-ea-sports-ufc-3-champions-edition.json](./89837-ea-sports-ufc-3-champions-edition.json) |
@@ -4241,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Yellowstone | 264723 | [264723-epic-roller-coasters-yellowstone.json](./264723-epic-roller-coasters-yellowstone.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Seal | 419184 | [419184-epic-seal.json](./419184-epic-seal.json) |
+| Epic Seven | 112191 | [112191-epic-seven.json](./112191-epic-seven.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
 | Epic Skater 2 | 71452 | [71452-epic-skater-2.json](./71452-epic-skater-2.json) |
