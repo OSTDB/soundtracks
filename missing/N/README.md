@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| N | 8748 | [8748-n.json](./8748-n.json) |
 | N Innocence | 175666 | [175666-n-innocence.json](./175666-n-innocence.json) |
 | N O Nb | 127980 | [127980-n-o-nb.json](./127980-n-o-nb.json) |
 | N Step Steve: Part 1 | 180428 | [180428-n-step-steve-part-1.json](./180428-n-step-steve-part-1.json) |
@@ -4367,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights at the Convenience Store | 408014 | [408014-nights-at-the-convenience-store.json](./408014-nights-at-the-convenience-store.json) |
 | Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
+| Nights Into Dreams | 19903 | [19903-nights-into-dreams.json](./19903-nights-into-dreams.json) |
 | Nights into Dreams: Pizza Tower | 265072 | [265072-nights-into-dreams-pizza-tower.json](./265072-nights-into-dreams-pizza-tower.json) |
 | Nights Into Dreams: Score Attack | 309017 | [309017-nights-into-dreams-score-attack.json](./309017-nights-into-dreams-score-attack.json) |
 | Nights into Dreams... | 198640 | [198640-nights-into-dreams.json](./198640-nights-into-dreams.json) |
