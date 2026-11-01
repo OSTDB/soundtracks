@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agency: The Deckbuilding Card Game | 182775 | [182775-agency-the-deckbuilding-card-game.json](./182775-agency-the-deckbuilding-card-game.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agenda 21 | 219973 | [219973-agenda-21.json](./219973-agenda-21.json) |
+| Agent | 1920 | [1920-agent.json](./1920-agent.json) |
 | Agent | 283400 | [283400-agent.json](./283400-agent.json) |
 | Agent 00111 | 120100 | [120100-agent-00111.json](./120100-agent-00111.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
@@ -6754,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Quiet Roads 4743 | 192715 | [192715-all-quiet-roads-4743.json](./192715-all-quiet-roads-4743.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
 | All Roads Connected | 391018 | [391018-all-roads-connected.json](./391018-all-roads-connected.json) |
+| All Round Hunter | 4668 | [4668-all-round-hunter.json](./4668-all-round-hunter.json) |
 | All She Wants For Christmas Is You | 283322 | [283322-all-she-wants-for-christmas-is-you.json](./283322-all-she-wants-for-christmas-is-you.json) |
 | All Songs are From the King | 199505 | [199505-all-songs-are-from-the-king.json](./199505-all-songs-are-from-the-king.json) |
 | All Star Action | 44829 | [44829-all-star-action.json](./44829-all-star-action.json) |
@@ -7997,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Bowling Deluxe 2D | 206116 | [206116-amf-bowling-deluxe-2d.json](./206116-amf-bowling-deluxe-2d.json) |
 | AMF Bowling Deluxe 3D | 206117 | [206117-amf-bowling-deluxe-3d.json](./206117-amf-bowling-deluxe-3d.json) |
 | AMF Bowling Pinbusters! | 4672 | [4672-amf-bowling-pinbusters.json](./4672-amf-bowling-pinbusters.json) |
+| AMF Bowling World Lanes | 4673 | [4673-amf-bowling-world-lanes.json](./4673-amf-bowling-world-lanes.json) |
 | AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | AMG | 153143 | [153143-amg.json](./153143-amg.json) |
@@ -9106,12 +9109,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima: Song from the Abyss | 136432 | [136432-anima-song-from-the-abyss.json](./136432-anima-song-from-the-abyss.json) |
 | Anima: The Reign of Darkness | 151647 | [151647-anima-the-reign-of-darkness.json](./151647-anima-the-reign-of-darkness.json) |
 | ANIMAC | 145243 | [145243-animac.json](./145243-animac.json) |
+| AnimAction | 2386 | [2386-animaction.json](./2386-animaction.json) |
 | Animaddicts | 190724 | [190724-animaddicts.json](./190724-animaddicts.json) |
 | Animaddicts 2 | 192891 | [192891-animaddicts-2.json](./192891-animaddicts-2.json) |
 | Animaddicts 3 | 195704 | [195704-animaddicts-3.json](./195704-animaddicts-3.json) |
 | Animaddicts 4 | 196427 | [196427-animaddicts-4.json](./196427-animaddicts-4.json) |
 | Animagi | 377681 | [377681-animagi.json](./377681-animagi.json) |
 | Animahjong X | 331189 | [331189-animahjong-x.json](./331189-animahjong-x.json) |
+| Animal | 2309 | [2309-animal.json](./2309-animal.json) |
 | Animal Academy | 237806 | [237806-animal-academy.json](./237806-animal-academy.json) |
 | Animal Across: Afrika | 236964 | [236964-animal-across-afrika.json](./236964-animal-across-afrika.json) |
 | Animal Adventure | 337813 | [337813-animal-adventure.json](./337813-animal-adventure.json) |
@@ -9782,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno Mitsumasa Pepperon-mura no Shiki | 245246 | [245246-anno-mitsumasa-pepperon-mura-no-shiki.json](./245246-anno-mitsumasa-pepperon-mura-no-shiki.json) |
 | Anno Online | 8111 | [8111-anno-online.json](./8111-anno-online.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
+| Anno: Create A New World | 4795 | [4795-anno-create-a-new-world.json](./4795-anno-create-a-new-world.json) |
 | Anno: Mutationem - Complete Edition | 323670 | [323670-anno-mutationem-complete-edition.json](./323670-anno-mutationem-complete-edition.json) |
 | Annotation of Love | 86608 | [86608-annotation-of-love.json](./86608-annotation-of-love.json) |
 | Annoy Squidward | 324931 | [324931-annoy-squidward.json](./324931-annoy-squidward.json) |
@@ -12622,6 +12628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark of Charon | 290353 | [290353-ark-of-charon.json](./290353-ark-of-charon.json) |
 | Ark of Isolation | 373550 | [373550-ark-of-isolation.json](./373550-ark-of-isolation.json) |
 | Ark of Loif | 167189 | [167189-ark-of-loif.json](./167189-ark-of-loif.json) |
+| Ark of Time | 2310 | [2310-ark-of-time.json](./2310-ark-of-time.json) |
 | Ark of Trisolar | 360692 | [360692-ark-of-trisolar.json](./360692-ark-of-trisolar.json) |
 | Ark of War | 133399 | [133399-ark-of-war.json](./133399-ark-of-war.json) |
 | Ark Order | 125776 | [125776-ark-order.json](./125776-ark-order.json) |
@@ -12814,6 +12821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armadillo Racing | 129114 | [129114-armadillo-racing.json](./129114-armadillo-racing.json) |
 | Armadillo Run | 23137 | [23137-armadillo-run.json](./23137-armadillo-run.json) |
 | Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
+| Armaëth: The Lost Kingdom | 2311 | [2311-armaeth-the-lost-kingdom.json](./2311-armaeth-the-lost-kingdom.json) |
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
 | Armageddon | 394333 | [394333-armageddon.json](./394333-armageddon.json) |
@@ -13258,6 +13266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Mahjong 4 | 199293 | [199293-art-mahjong-4.json](./199293-art-mahjong-4.json) |
 | Art Mahjongg | 91524 | [91524-art-mahjongg.json](./91524-art-mahjongg.json) |
 | Art Mahjongg Egypt | 52423 | [52423-art-mahjongg-egypt.json](./52423-art-mahjongg-egypt.json) |
+| Art Master | 2389 | [2389-art-master.json](./2389-art-master.json) |
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
 | Art na Esagashi Adventure | 251529 | [251529-art-na-esagashi-adventure.json](./251529-art-na-esagashi-adventure.json) |
 | Art of Air War | 120755 | [120755-art-of-air-war.json](./120755-art-of-air-war.json) |
@@ -13361,6 +13370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur Owl's Word Block: Video Games Pack | 338162 | [338162-arthur-owls-word-block-video-games-pack.json](./338162-arthur-owls-word-block-video-games-pack.json) |
 | Arthur to Astaroth no Nazomakaimura: Incredible Toons | 45427 | [45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json](./45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json) |
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
+| Arthur: The Quest for Excalibur | 2312 | [2312-arthur-the-quest-for-excalibur.json](./2312-arthur-the-quest-for-excalibur.json) |
 | Arthur: Wizard Academy | 343420 | [343420-arthur-wizard-academy.json](./343420-arthur-wizard-academy.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
@@ -14368,6 +14378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix: Hunt for the Boars | 305276 | [305276-asterix-hunt-for-the-boars.json](./305276-asterix-hunt-for-the-boars.json) |
 | Astérix: Hunt for the Boars | 347903 | [347903-asterix-hunt-for-the-boars.json](./347903-asterix-hunt-for-the-boars.json) |
 | Astérix: Mega Madness | 43869 | [43869-asterix-mega-madness.json](./43869-asterix-mega-madness.json) |
+| Astérix: Operation Getafix | 2313 | [2313-asterix-operation-getafix.json](./2313-asterix-operation-getafix.json) |
 | Astérix: Search for Dogmatix | 50019 | [50019-asterix-search-for-dogmatix.json](./50019-asterix-search-for-dogmatix.json) |
 | Astérix: The Gallic War | 45232 | [45232-asterix-the-gallic-war.json](./45232-asterix-the-gallic-war.json) |
 | Asterix: The Mansions of the Gods | 84771 | [84771-asterix-the-mansions-of-the-gods.json](./84771-asterix-the-mansions-of-the-gods.json) |
