@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particubes | 151086 | [151086-particubes.json](./151086-particubes.json) |
 | Particul | 389175 | [389175-particul.json](./389175-particul.json) |
 | Particula | 18179 | [18179-particula.json](./18179-particula.json) |
+| Particular | 23189 | [23189-particular.json](./23189-particular.json) |
 | Particulars | 5578 | [5578-particulars.json](./5578-particulars.json) |
 | Particulate | 127244 | [127244-particulate.json](./127244-particulate.json) |
 | Particulitix | 390515 | [390515-particulitix.json](./390515-particulitix.json) |
@@ -11664,6 +11665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
 | Pop Pop Potato | 378572 | [378572-pop-pop-potato.json](./378572-pop-pop-potato.json) |
 | Pop Quiz logo | 108285 | [108285-pop-quiz-logo.json](./108285-pop-quiz-logo.json) |
+| Pop Royale | 23334 | [23334-pop-royale.json](./23334-pop-royale.json) |
 | Pop Some Eyes | 240747 | [240747-pop-some-eyes.json](./240747-pop-some-eyes.json) |
 | Pop Star Academy | 344935 | [344935-pop-star-academy.json](./344935-pop-star-academy.json) |
 | Pop Star Classic | 214102 | [214102-pop-star-classic.json](./214102-pop-star-classic.json) |
@@ -12761,6 +12763,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prank'd: Prank Your Way Around the World | 209928 | [209928-prankd-prank-your-way-around-the-world.json](./209928-prankd-prank-your-way-around-the-world.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
+| Pranksterz: No Rest for the Wicked | 23196 | [23196-pranksterz-no-rest-for-the-wicked.json](./23196-pranksterz-no-rest-for-the-wicked.json) |
+| Pranksterz: Off Your Boss | 23197 | [23197-pranksterz-off-your-boss.json](./23197-pranksterz-off-your-boss.json) |
 | Pratagon | 110654 | [110654-pratagon.json](./110654-pratagon.json) |
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
