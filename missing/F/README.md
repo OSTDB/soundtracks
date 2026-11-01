@@ -11741,6 +11741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Fall | 57949 | [57949-fruit-fall.json](./57949-fruit-fall.json) |
+| Fruit Farm | 54048 | [54048-fruit-farm.json](./54048-fruit-farm.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
 | Fruit for the Village | 59868 | [59868-fruit-for-the-village.json](./59868-fruit-for-the-village.json) |
 | Fruit Frenzy | 260898 | [260898-fruit-frenzy.json](./260898-fruit-frenzy.json) |
