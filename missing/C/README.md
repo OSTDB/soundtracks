@@ -14905,6 +14905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash it Smash it | 74758 | [74758-crash-it-smash-it.json](./74758-crash-it-smash-it.json) |
 | Crash Landed | 115406 | [115406-crash-landed.json](./115406-crash-landed.json) |
 | Crash Landed | 371462 | [371462-crash-landed.json](./371462-crash-landed.json) |
+| Crash Landing | 33756 | [33756-crash-landing.json](./33756-crash-landing.json) |
 | Crash Mayhem | 238405 | [238405-crash-mayhem.json](./238405-crash-mayhem.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
 | Crash Mole | 223551 | [223551-crash-mole.json](./223551-crash-mole.json) |
