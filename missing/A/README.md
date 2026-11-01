@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Witch's Stop | 382374 | [382374-a-witchs-stop.json](./382374-a-witchs-stop.json) |
 | A Witch's Word | 123280 | [123280-a-witchs-word.json](./123280-a-witchs-word.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
+| A Wizard's Lizard | 11232 | [11232-a-wizards-lizard.json](./11232-a-wizards-lizard.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wizardry Enchantment | 284175 | [284175-a-wizardry-enchantment.json](./284175-a-wizardry-enchantment.json) |
 | A Wolf In Sheep's Clothing | 281590 | [281590-a-wolf-in-sheeps-clothing.json](./281590-a-wolf-in-sheeps-clothing.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
+| ABC Monday Night Football | 11884 | [11884-abc-monday-night-football.json](./11884-abc-monday-night-football.json) |
 | ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Preschool car truck and engine dot puzzles | 88725 | [88725-abc-preschool-car-truck-and-engine-dot-puzzles.json](./88725-abc-preschool-car-truck-and-engine-dot-puzzles.json) |
@@ -11193,6 +11195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ara Fell & Rise of the Third Power | 272453 | [272453-ara-fell-and-rise-of-the-third-power.json](./272453-ara-fell-and-rise-of-the-third-power.json) |
 | Ara Fell: Enhanced Edition | 131981 | [131981-ara-fell-enhanced-edition.json](./131981-ara-fell-enhanced-edition.json) |
 | Ara Ngc 6397 | 206130 | [206130-ara-ngc-6397.json](./206130-ara-ngc-6397.json) |
+| Ara: History Untold | 204620 | [204620-ara-history-untold.json](./204620-ara-history-untold.json) |
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
 | Arab Drift Cars 3 | 362967 | [362967-arab-drift-cars-3.json](./362967-arab-drift-cars-3.json) |
