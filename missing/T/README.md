@@ -3634,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
 | Temtem: Swarm | 287618 | [287618-temtem-swarm.json](./287618-temtem-swarm.json) |
+| Temujin | 8184 | [8184-temujin.json](./8184-temujin.json) |
 | Temukung: Cultivation in Drylands | 327091 | [327091-temukung-cultivation-in-drylands.json](./327091-temukung-cultivation-in-drylands.json) |
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
 | Ten 1K Games | 319526 | [319526-ten-1k-games.json](./319526-ten-1k-games.json) |
@@ -3649,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
 | Ten of the best: Educational Programs | 141396 | [141396-ten-of-the-best-educational-programs.json](./141396-ten-of-the-best-educational-programs.json) |
 | Ten People Ten Colors | 314742 | [314742-ten-people-ten-colors.json](./314742-ten-people-ten-colors.json) |
+| Ten Pin Alley | 6636 | [6636-ten-pin-alley.json](./6636-ten-pin-alley.json) |
 | Ten Pin Alley 2 | 5215 | [5215-ten-pin-alley-2.json](./5215-ten-pin-alley-2.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
@@ -5218,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Maximus | 149272 | [149272-the-adventures-of-maximus.json](./149272-the-adventures-of-maximus.json) |
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
 | The Adventures of MicroMan | 70241 | [70241-the-adventures-of-microman.json](./70241-the-adventures-of-microman.json) |
+| The Adventures of Mighty Max | 8121 | [8121-the-adventures-of-mighty-max.json](./8121-the-adventures-of-mighty-max.json) |
 | The Adventures of Mr. Bobley | 35084 | [35084-the-adventures-of-mr-bobley.json](./35084-the-adventures-of-mr-bobley.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
 | The Adventures of Mr. Poop | 147419 | [147419-the-adventures-of-mr-poop.json](./147419-the-adventures-of-mr-poop.json) |
@@ -5683,6 +5686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Babysitter | 140819 | [140819-the-babysitter.json](./140819-the-babysitter.json) |
 | The Babysitter | 166037 | [166037-the-babysitter.json](./166037-the-babysitter.json) |
 | The Babysitter | 231454 | [231454-the-babysitter.json](./231454-the-babysitter.json) |
+| The Bachelor: The Videogame | 6571 | [6571-the-bachelor-the-videogame.json](./6571-the-bachelor-the-videogame.json) |
 | The Backroom Project | 201474 | [201474-the-backroom-project.json](./201474-the-backroom-project.json) |
 | The Backroom: Lost and Found | 207763 | [207763-the-backroom-lost-and-found.json](./207763-the-backroom-lost-and-found.json) |
 | The Backrooms | 120761 | [120761-the-backrooms.json](./120761-the-backrooms.json) |
@@ -21877,9 +21881,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures: Dizzy's Candy Quest | 8058 | [8058-tiny-toon-adventures-dizzys-candy-quest.json](./8058-tiny-toon-adventures-dizzys-candy-quest.json) |
 | Tiny Toon Adventures: Plucky Duck in Hollywood Hijinks | 270276 | [270276-tiny-toon-adventures-plucky-duck-in-hollywood-hijinks.json](./270276-tiny-toon-adventures-plucky-duck-in-hollywood-hijinks.json) |
 | Tiny Toon Adventures: Plucky's Big Adventure | 8056 | [8056-tiny-toon-adventures-pluckys-big-adventure.json](./8056-tiny-toon-adventures-pluckys-big-adventure.json) |
+| Tiny Toon Adventures: Scary Dreams | 6640 | [6640-tiny-toon-adventures-scary-dreams.json](./6640-tiny-toon-adventures-scary-dreams.json) |
 | Tiny Toon Adventures: Toonenstein - Dare to Scare! | 8055 | [8055-tiny-toon-adventures-toonenstein-dare-to-scare.json](./8055-tiny-toon-adventures-toonenstein-dare-to-scare.json) |
 | Tiny Toon Adventures: Wacky Sports | 255549 | [255549-tiny-toon-adventures-wacky-sports.json](./255549-tiny-toon-adventures-wacky-sports.json) |
 | Tiny Toon Adventures: Wacky Sports Challenge | 8051 | [8051-tiny-toon-adventures-wacky-sports-challenge.json](./8051-tiny-toon-adventures-wacky-sports-challenge.json) |
+| Tiny Toon Adventures: Wacky Stackers | 6642 | [6642-tiny-toon-adventures-wacky-stackers.json](./6642-tiny-toon-adventures-wacky-stackers.json) |
 | Tiny Tots | 360719 | [360719-tiny-tots.json](./360719-tiny-tots.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
 | Tiny Touring Cars | 263961 | [263961-tiny-touring-cars.json](./263961-tiny-touring-cars.json) |
