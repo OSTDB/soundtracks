@@ -5376,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alters: Deluxe Edition | 380147 | [380147-the-alters-deluxe-edition.json](./380147-the-alters-deluxe-edition.json) |
 | The Alters: Last Variable | 404914 | [404914-the-alters-last-variable.json](./404914-the-alters-last-variable.json) |
 | The Alters: Signature Edition | 381720 | [381720-the-alters-signature-edition.json](./381720-the-alters-signature-edition.json) |
+| The Alto Collection | 136508 | [136508-the-alto-collection.json](./136508-the-alto-collection.json) |
 | The Aly & AJ Adventure | 71969 | [71969-the-aly-and-aj-adventure.json](./71969-the-aly-and-aj-adventure.json) |
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
@@ -10538,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolation Project | 405884 | [405884-the-isolation-project.json](./405884-the-isolation-project.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Istrys | 55578 | [55578-the-istrys.json](./55578-the-istrys.json) |
+| The Italian Job | 135936 | [135936-the-italian-job.json](./135936-the-italian-job.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
 | The Itch | 120002 | [120002-the-itch.json](./120002-the-itch.json) |
 | The Itchy & Scratchy Game | 2834 | [2834-the-itchy-and-scratchy-game.json](./2834-the-itchy-and-scratchy-game.json) |
@@ -10833,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2002 | 5884 | [5884-the-king-of-fighters-2002.json](./5884-the-king-of-fighters-2002.json) |
 | The King of Fighters 2002: Unlimited Match | 22952 | [22952-the-king-of-fighters-2002-unlimited-match.json](./22952-the-king-of-fighters-2002-unlimited-match.json) |
 | The King of Fighters 2003 | 15433 | [15433-the-king-of-fighters-2003.json](./15433-the-king-of-fighters-2003.json) |
+| The King of Fighters 2006 | 15435 | [15435-the-king-of-fighters-2006.json](./15435-the-king-of-fighters-2006.json) |
 | The King of Fighters AllStar | 102809 | [102809-the-king-of-fighters-allstar.json](./102809-the-king-of-fighters-allstar.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters Bundle | 271119 | [271119-the-king-of-fighters-bundle.json](./271119-the-king-of-fighters-bundle.json) |
@@ -11431,6 +11434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand 2 | 61585 | [61585-the-last-stand-2.json](./61585-the-last-stand-2.json) |
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
+| The Last Stand: Aftermath | 133375 | [133375-the-last-stand-aftermath.json](./133375-the-last-stand-aftermath.json) |
 | The Last Stand: Union City | 61586 | [61586-the-last-stand-union-city.json](./61586-the-last-stand-union-city.json) |
 | The Last Star Walker: Season 1 | 385793 | [385793-the-last-star-walker-season-1.json](./385793-the-last-star-walker-season-1.json) |
 | The Last Starfighter | 282069 | [282069-the-last-starfighter.json](./282069-the-last-starfighter.json) |
@@ -11652,6 +11656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Standard Costume Bundle | 227335 | [227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json](./227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json) |
+| The Legend of Heroes: Trails Through Daybreak | 141833 | [141833-the-legend-of-heroes-trails-through-daybreak.json](./141833-the-legend-of-heroes-trails-through-daybreak.json) |
 | The Legend of Heroes: Trails through Daybreak - Bonus Set | 310687 | [310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json](./310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json) |
 | The Legend of Heroes: Trails through Daybreak - Costume Set | 301217 | [301217-the-legend-of-heroes-trails-through-daybreak-costume-set.json](./301217-the-legend-of-heroes-trails-through-daybreak-costume-set.json) |
 | The Legend of Heroes: Trails through Daybreak - Voice Set | 310686 | [310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json](./310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json) |
@@ -15733,6 +15738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The soldier in the mine | 54458 | [54458-the-soldier-in-the-mine.json](./54458-the-soldier-in-the-mine.json) |
 | The Soldiers Factory | 164336 | [164336-the-soldiers-factory.json](./164336-the-soldiers-factory.json) |
 | The Sole Survivor | 149929 | [149929-the-sole-survivor.json](./149929-the-sole-survivor.json) |
+| The Solitaire Conspiracy | 139032 | [139032-the-solitaire-conspiracy.json](./139032-the-solitaire-conspiracy.json) |
 | The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
 | The Solitaire Conspiracy: The Atlantis Project | 243807 | [243807-the-solitaire-conspiracy-the-atlantis-project.json](./243807-the-solitaire-conspiracy-the-atlantis-project.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
