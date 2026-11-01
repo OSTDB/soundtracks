@@ -14996,6 +14996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bash Live! | 138993 | [138993-crash-bash-live.json](./138993-crash-bash-live.json) |
 | Crash Bash: Collector's Edition | 45212 | [45212-crash-bash-collectors-edition.json](./45212-crash-bash-collectors-edition.json) |
 | Crash Birds | 256198 | [256198-crash-birds.json](./256198-crash-birds.json) |
+| Crash Boom Bang! | 1196 | [1196-crash-boom-bang.json](./1196-crash-boom-bang.json) |
 | Crash Bugs Cake Defense | 353954 | [353954-crash-bugs-cake-defense.json](./353954-crash-bugs-cake-defense.json) |
 | Crash Cam | 251738 | [251738-crash-cam.json](./251738-crash-cam.json) |
 | Crash Car Mania | 318520 | [318520-crash-car-mania.json](./318520-crash-car-mania.json) |
