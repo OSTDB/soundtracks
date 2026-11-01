@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhaven | 163087 | [163087-warhaven.json](./163087-warhaven.json) |
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
+| Warhawk | 7479 | [7479-warhawk.json](./7479-warhawk.json) |
 | Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
 | Warhead | 396769 | [396769-warhead.json](./396769-warhead.json) |
 | Warhead | 85799 | [85799-warhead.json](./85799-warhead.json) |
@@ -1646,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords Awakening | 103416 | [103416-warlords-awakening.json](./103416-warlords-awakening.json) |
 | Warlords Battle Simulator | 267020 | [267020-warlords-battle-simulator.json](./267020-warlords-battle-simulator.json) |
 | Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
+| Warlords Battlecry III | 9834 | [9834-warlords-battlecry-iii.json](./9834-warlords-battlecry-iii.json) |
 | Warlords Battleground: Extraction | 368792 | [368792-warlords-battleground-extraction.json](./368792-warlords-battleground-extraction.json) |
 | Warlords Classic Strategy | 197718 | [197718-warlords-classic-strategy.json](./197718-warlords-classic-strategy.json) |
 | Warlords DS | 79562 | [79562-warlords-ds.json](./79562-warlords-ds.json) |
@@ -6220,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard of Wings | 309550 | [309550-wizard-of-wings.json](./309550-wizard-of-wings.json) |
 | Wizard of Wor | 282083 | [282083-wizard-of-wor.json](./282083-wizard-of-wor.json) |
 | Wizard of Wor | 282084 | [282084-wizard-of-wor.json](./282084-wizard-of-wor.json) |
+| Wizard of Wor | 7743 | [7743-wizard-of-wor.json](./7743-wizard-of-wor.json) |
 | Wizard of Wyndmoor | 241261 | [241261-wizard-of-wyndmoor.json](./241261-wizard-of-wyndmoor.json) |
 | Wizard Olympics | 176214 | [176214-wizard-olympics.json](./176214-wizard-olympics.json) |
 | Wizard Pinball | 19753 | [19753-wizard-pinball.json](./19753-wizard-pinball.json) |
@@ -7473,6 +7476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
 | World Heritage True or False Quiz | 378790 | [378790-world-heritage-true-or-false-quiz.json](./378790-world-heritage-true-or-false-quiz.json) |
 | World Heritage VR: Swedish Farmhouse | 304024 | [304024-world-heritage-vr-swedish-farmhouse.json](./304024-world-heritage-vr-swedish-farmhouse.json) |
+| World Heroes | 4463 | [4463-world-heroes.json](./4463-world-heroes.json) |
 | World Heroes 2 | 267531 | [267531-world-heroes-2.json](./267531-world-heroes-2.json) |
 | World Heroes 2 | 37251 | [37251-world-heroes-2.json](./37251-world-heroes-2.json) |
 | World Heroes 2 Jet | 201268 | [201268-world-heroes-2-jet.json](./201268-world-heroes-2-jet.json) |
@@ -8715,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
 | WWE Immortals | 8736 | [8736-wwe-immortals.json](./8736-wwe-immortals.json) |
+| WWE Legends of WrestleMania | 7488 | [7488-wwe-legends-of-wrestlemania.json](./7488-wwe-legends-of-wrestlemania.json) |
 | WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
