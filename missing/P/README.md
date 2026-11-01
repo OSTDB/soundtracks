@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Pantheon: Rise of the Fallen | 75421 | [75421-pantheon-rise-of-the-fallen.json](./75421-pantheon-rise-of-the-fallen.json) |
 | Panther | 100285 | [100285-panther.json](./100285-panther.json) |
+| Panther | 36675 | [36675-panther.json](./36675-panther.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
 | Panther Online | 145951 | [145951-panther-online.json](./145951-panther-online.json) |
 | Panther Simulator | 104625 | [104625-panther-simulator.json](./104625-panther-simulator.json) |
@@ -7178,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit People | 17207 | [17207-pit-people.json](./17207-pit-people.json) |
 | Pit Pioneers | 391153 | [391153-pit-pioneers.json](./391153-pit-pioneers.json) |
 | Pit Pot | 46113 | [46113-pit-pot.json](./46113-pit-pot.json) |
+| Pit Pot: The Magical Castle | 36678 | [36678-pit-pot-the-magical-castle.json](./36678-pit-pot-the-magical-castle.json) |
 | Pit Rush | 183382 | [183382-pit-rush.json](./183382-pit-rush.json) |
 | Pit Stop Challenge | 237587 | [237587-pit-stop-challenge.json](./237587-pit-stop-challenge.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
@@ -17037,6 +17039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series Vol. 9: Sudoku 2 Deluxe | 83411 | [83411-puzzle-series-vol-9-sudoku-2-deluxe.json](./83411-puzzle-series-vol-9-sudoku-2-deluxe.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Seventeen | 346910 | [346910-puzzle-seventeen.json](./346910-puzzle-seventeen.json) |
+| Puzzle Showdown 4K | 36621 | [36621-puzzle-showdown-4k.json](./36621-puzzle-showdown-4k.json) |
 | Puzzle Shuffle | 77115 | [77115-puzzle-shuffle.json](./77115-puzzle-shuffle.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
