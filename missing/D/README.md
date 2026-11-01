@@ -848,6 +848,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Wings: The Aerobatic Simulator | 347249 | [347249-dancing-wings-the-aerobatic-simulator.json](./347249-dancing-wings-the-aerobatic-simulator.json) |
 | Dancing with a Beautiful Robot | 177965 | [177965-dancing-with-a-beautiful-robot.json](./177965-dancing-with-a-beautiful-robot.json) |
 | Dancing with Ghosts | 360059 | [360059-dancing-with-ghosts.json](./360059-dancing-with-ghosts.json) |
+| Dancing with the Stars | 4790 | [4790-dancing-with-the-stars.json](./4790-dancing-with-the-stars.json) |
+| Dancing with the Stars: We Dance! | 4791 | [4791-dancing-with-the-stars-we-dance.json](./4791-dancing-with-the-stars-we-dance.json) |
 | Dancingcats | 22371 | [22371-dancingcats.json](./22371-dancingcats.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
 | DanCop - Daniela on Duty | 118112 | [118112-dancop-daniela-on-duty.json](./118112-dancop-daniela-on-duty.json) |
@@ -2349,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data East All-Star Collection | 77428 | [77428-data-east-all-star-collection.json](./77428-data-east-all-star-collection.json) |
 | Data East Arcade 1 | 149290 | [149290-data-east-arcade-1.json](./149290-data-east-arcade-1.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
+| Data East Arcade Classics | 4793 | [4793-data-east-arcade-classics.json](./4793-data-east-arcade-classics.json) |
 | Data East Collection 1 | 130815 | [130815-data-east-collection-1.json](./130815-data-east-collection-1.json) |
 | Data East's Arcade Alley | 84185 | [84185-data-easts-arcade-alley.json](./84185-data-easts-arcade-alley.json) |
 | Data East's Hoops | 97330 | [97330-data-easts-hoops.json](./97330-data-easts-hoops.json) |
@@ -3765,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliest Warrior: Ancient Combat | 20823 | [20823-deadliest-warrior-ancient-combat.json](./20823-deadliest-warrior-ancient-combat.json) |
 | Deadliest Warrior: Battlegrounds | 294543 | [294543-deadliest-warrior-battlegrounds.json](./294543-deadliest-warrior-battlegrounds.json) |
 | Deadliest Warrior: The Game | 67092 | [67092-deadliest-warrior-the-game.json](./67092-deadliest-warrior-the-game.json) |
+| Deadlight | 2354 | [2354-deadlight.json](./2354-deadlight.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadlike | 345618 | [345618-deadlike.json](./345618-deadlike.json) |
 | Deadline | 154318 | [154318-deadline.json](./154318-deadline.json) |
@@ -8045,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Tracy | 316845 | [316845-dick-tracy.json](./316845-dick-tracy.json) |
 | Dick Tracy | 83907 | [83907-dick-tracy.json](./83907-dick-tracy.json) |
 | Dick Tracy: The Crime-Solving Adventure | 70204 | [70204-dick-tracy-the-crime-solving-adventure.json](./70204-dick-tracy-the-crime-solving-adventure.json) |
+| Dick Vitale's "Awesome, Baby!" College Hoops | 4424 | [4424-dick-vitales-awesome-baby-college-hoops.json](./4424-dick-vitales-awesome-baby-college-hoops.json) |
 | Dick Wilde 2 | 114006 | [114006-dick-wilde-2.json](./114006-dick-wilde-2.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Dickie A Cumming: The Prequel | 196033 | [196033-dickie-a-cumming-the-prequel.json](./196033-dickie-a-cumming-the-prequel.json) |
@@ -8835,6 +8840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino King Battle: Taiko Kara no Hyouryuusha | 269741 | [269741-dino-king-battle-taiko-kara-no-hyouryuusha.json](./269741-dino-king-battle-taiko-kara-no-hyouryuusha.json) |
 | Dino Kingdom | 115545 | [115545-dino-kingdom.json](./115545-dino-kingdom.json) |
 | Dino Land | 386929 | [386929-dino-land.json](./386929-dino-land.json) |
+| Dino Land | 4430 | [4430-dino-land.json](./4430-dino-land.json) |
 | Dino Learning Games: Dinosaurs Puzzles for Kids | 90442 | [90442-dino-learning-games-dinosaurs-puzzles-for-kids.json](./90442-dino-learning-games-dinosaurs-puzzles-for-kids.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
 | Dino Market | 312710 | [312710-dino-market.json](./312710-dino-market.json) |
@@ -9566,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney 20Q | 324794 | [324794-disney-20q.json](./324794-disney-20q.json) |
 | Disney Activity Center: Toy Story 2 | 120517 | [120517-disney-activity-center-toy-story-2.json](./120517-disney-activity-center-toy-story-2.json) |
 | Disney All-Star Cards | 98009 | [98009-disney-all-star-cards.json](./98009-disney-all-star-cards.json) |
+| Disney Channel: All Star Party | 4806 | [4806-disney-channel-all-star-party.json](./4806-disney-channel-all-star-party.json) |
 | Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
 | Disney Classic Games Collection | 172397 | [172397-disney-classic-games-collection.json](./172397-disney-classic-games-collection.json) |
 | Disney Classic Games: Aladdin and The Lion King | 122082 | [122082-disney-classic-games-aladdin-and-the-lion-king.json](./122082-disney-classic-games-aladdin-and-the-lion-king.json) |
@@ -9675,7 +9682,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: The Princess and the Frog | 230374 | [230374-disney-princess-the-princess-and-the-frog.json](./230374-disney-princess-the-princess-and-the-frog.json) |
 | Disney Princess: The Princess and The Frog | 36227 | [36227-disney-princess-the-princess-and-the-frog.json](./36227-disney-princess-the-princess-and-the-frog.json) |
 | Disney Princess: Worlds of Enchantment | 69056 | [69056-disney-princess-worlds-of-enchantment.json](./69056-disney-princess-worlds-of-enchantment.json) |
+| Disney Sing It: Family Hits | 4809 | [4809-disney-sing-it-family-hits.json](./4809-disney-sing-it-family-hits.json) |
 | Disney Sing It: High School Musical 3 - Senior Year | 60243 | [60243-disney-sing-it-high-school-musical-3-senior-year.json](./60243-disney-sing-it-high-school-musical-3-senior-year.json) |
+| Disney Sing It: Party Hits | 4811 | [4811-disney-sing-it-party-hits.json](./4811-disney-sing-it-party-hits.json) |
+| Disney Sing It: Pop Hits | 4812 | [4812-disney-sing-it-pop-hits.json](./4812-disney-sing-it-pop-hits.json) |
 | Disney Sorcerer's Arena | 124644 | [124644-disney-sorcerers-arena.json](./124644-disney-sorcerers-arena.json) |
 | Disney Speedstorm: Aladdin Pack | 366993 | [366993-disney-speedstorm-aladdin-pack.json](./366993-disney-speedstorm-aladdin-pack.json) |
 | Disney Speedstorm: Baloo Pack | 366994 | [366994-disney-speedstorm-baloo-pack.json](./366994-disney-speedstorm-baloo-pack.json) |
@@ -9766,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Chicken Little: Ace in Action | 200995 | [200995-disneys-chicken-little-ace-in-action.json](./200995-disneys-chicken-little-ace-in-action.json) |
 | Disney's Chicken Little: Ace in Action | 20627 | [20627-disneys-chicken-little-ace-in-action.json](./20627-disneys-chicken-little-ace-in-action.json) |
 | Disney's Chip 'n Dale Rescue Rangers | 198717 | [198717-disneys-chip-n-dale-rescue-rangers.json](./198717-disneys-chip-n-dale-rescue-rangers.json) |
+| Disney's Chip 'n Dale Rescue Rangers | 6490 | [6490-disneys-chip-n-dale-rescue-rangers.json](./6490-disneys-chip-n-dale-rescue-rangers.json) |
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Classic Games | 205612 | [205612-disneys-classic-games.json](./205612-disneys-classic-games.json) |
@@ -10606,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Monster Invasion - Ultimate Match-up | 301936 | [301936-doctor-who-monster-invasion-ultimate-match-up.json](./301936-doctor-who-monster-invasion-ultimate-match-up.json) |
 | Doctor Who: Monster Invasion - Vortex Run | 301938 | [301938-doctor-who-monster-invasion-vortex-run.json](./301938-doctor-who-monster-invasion-vortex-run.json) |
 | Doctor Who: Ood Escape | 250480 | [250480-doctor-who-ood-escape.json](./250480-doctor-who-ood-escape.json) |
+| Doctor Who: Return to Earth | 4813 | [4813-doctor-who-return-to-earth.json](./4813-doctor-who-return-to-earth.json) |
 | Doctor Who: Say What You See | 301934 | [301934-doctor-who-say-what-you-see.json](./301934-doctor-who-say-what-you-see.json) |
 | Doctor Who: Sonic De-Cloaker | 250486 | [250486-doctor-who-sonic-de-cloaker.json](./250486-doctor-who-sonic-de-cloaker.json) |
 | Doctor Who: Split | 398627 | [398627-doctor-who-split.json](./398627-doctor-who-split.json) |
@@ -12451,6 +12463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Tanoshiku o-Keiko Hiragana Katakana | 327574 | [327574-doraemon-tanoshiku-o-keiko-hiragana-katakana.json](./327574-doraemon-tanoshiku-o-keiko-hiragana-katakana.json) |
 | Doraemon Waku-waku Pocket Paradise | 46320 | [46320-doraemon-waku-waku-pocket-paradise.json](./46320-doraemon-waku-waku-pocket-paradise.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
+| Doraemon Wii: Himitsu Dougu-ou Ketteisen! | 4818 | [4818-doraemon-wii-himitsu-dougu-ou-ketteisen.json](./4818-doraemon-wii-himitsu-dougu-ou-ketteisen.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
 | Doraemon: Aruke Aruke Labyrinth | 91777 | [91777-doraemon-aruke-aruke-labyrinth.json](./91777-doraemon-aruke-aruke-labyrinth.json) |
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
@@ -12738,6 +12751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dribble | 198730 | [198730-double-dribble.json](./198730-double-dribble.json) |
 | Double Dribble | 4699 | [4699-double-dribble.json](./4699-double-dribble.json) |
 | Double Dribble: 5 on 5 | 48952 | [48952-double-dribble-5-on-5.json](./48952-double-dribble-5-on-5.json) |
+| Double Dribble: The Playoff Edition | 4433 | [4433-double-dribble-the-playoff-edition.json](./4433-double-dribble-the-playoff-edition.json) |
 | Double Duck | 403447 | [403447-double-duck.json](./403447-double-duck.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
