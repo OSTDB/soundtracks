@@ -7782,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Your Marbles | 151972 | [151972-lost-your-marbles.json](./151972-lost-your-marbles.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lost: Find | 196118 | [196118-lost-find.json](./196118-lost-find.json) |
+| Lost: Via Domus | 7058 | [7058-lost-via-domus.json](./7058-lost-via-domus.json) |
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
 | Lost2 | 211565 | [211565-lost2.json](./211565-lost2.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
