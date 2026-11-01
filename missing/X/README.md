@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xbox Live Labs | 92266 | [92266-xbox-live-labs.json](./92266-xbox-live-labs.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
 | Xcalibur 2 | 257245 | [257245-xcalibur-2.json](./257245-xcalibur-2.json) |
+| XCar: Experimental Racing | 2394 | [2394-xcar-experimental-racing.json](./2394-xcar-experimental-racing.json) |
 | XCavalypse | 33412 | [33412-xcavalypse.json](./33412-xcavalypse.json) |
 | Xcavator 2025 | 381088 | [381088-xcavator-2025.json](./381088-xcavator-2025.json) |
 | Xcel | 14873 | [14873-xcel.json](./14873-xcel.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenobreakers: Classic Tower Defense | 337065 | [337065-xenobreakers-classic-tower-defense.json](./337065-xenobreakers-classic-tower-defense.json) |
 | XenoCave | 97072 | [97072-xenocave.json](./97072-xenocave.json) |
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
+| Xenocide | 2393 | [2393-xenocide.json](./2393-xenocide.json) |
 | Xenociders | 126240 | [126240-xenociders.json](./126240-xenociders.json) |
 | Xenocite Clad | 64694 | [64694-xenocite-clad.json](./64694-xenocite-clad.json) |
 | Xenocrystal TD | 312525 | [312525-xenocrystal-td.json](./312525-xenocrystal-td.json) |
