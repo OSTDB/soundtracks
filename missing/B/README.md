@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.A.S.E. Jumping Game | 60786 | [60786-b-a-s-e-jumping-game.json](./60786-b-a-s-e-jumping-game.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
 | B.A.T. | 2314 | [2314-b-a-t.json](./2314-b-a-t.json) |
+| B.A.T. II: The Koshan Conspiracy | 2315 | [2315-b-a-t-ii-the-koshan-conspiracy.json](./2315-b-a-t-ii-the-koshan-conspiracy.json) |
 | B.ARK | 131870 | [131870-b-ark.json](./131870-b-ark.json) |
 | B.B. Oh, yes! Jonny! | 83390 | [83390-b-b-oh-yes-jonny.json](./83390-b-b-oh-yes-jonny.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
 | Babysitter Steve | 245197 | [245197-babysitter-steve.json](./245197-babysitter-steve.json) |
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
+| Babysitting Mama | 4686 | [4686-babysitting-mama.json](./4686-babysitting-mama.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
 | BabyUp: Butterflies | 96576 | [96576-babyup-butterflies.json](./96576-babyup-butterflies.json) |
@@ -703,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Football | 122751 | [122751-backyard-football.json](./122751-backyard-football.json) |
 | Backyard Football | 122752 | [122752-backyard-football.json](./122752-backyard-football.json) |
 | Backyard Football '08 | 43208 | [43208-backyard-football-08.json](./43208-backyard-football-08.json) |
+| Backyard Football '09 | 4687 | [4687-backyard-football-09.json](./4687-backyard-football-09.json) |
 | Backyard Football '10 | 4688 | [4688-backyard-football-10.json](./4688-backyard-football-10.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
 | Backyard Football 2004 | 68879 | [68879-backyard-football-2004.json](./68879-backyard-football-2004.json) |
@@ -893,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1685,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Bally Jump | 293174 | [293174-bally-jump.json](./293174-bally-jump.json) |
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
+| Ballyhoo | 2316 | [2316-ballyhoo.json](./2316-ballyhoo.json) |
 | Ballz | 305983 | [305983-ballz.json](./305983-ballz.json) |
 | Ballz | 413235 | [413235-ballz.json](./413235-ballz.json) |
 | BallZ | 230914 | [230914-ballz.json](./230914-ballz.json) |
@@ -1942,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang! Bang! | 70162 | [70162-bang-bang.json](./70162-bang-bang.json) |
 | Bang! Bang! Bandits | 376493 | [376493-bang-bang-bandits.json](./376493-bang-bang-bandits.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
+| Bang! Gunship Elite | 1861 | [1861-bang-gunship-elite.json](./1861-bang-gunship-elite.json) |
 | Bang! Howdy | 51472 | [51472-bang-howdy.json](./51472-bang-howdy.json) |
 | Bang! The Official Video Game | 118549 | [118549-bang-the-official-video-game.json](./118549-bang-the-official-video-game.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
@@ -2468,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargin to Win | 213438 | [213438-bargin-to-win.json](./213438-bargin-to-win.json) |
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
 | Bargoer | 403372 | [403372-bargoer.json](./403372-bargoer.json) |
+| Bargon Attack | 2318 | [2318-bargon-attack.json](./2318-bargon-attack.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
 | Barheim | 319030 | [319030-barheim.json](./319030-barheim.json) |
 | Barista | 310682 | [310682-barista.json](./310682-barista.json) |
@@ -6495,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Flesh and Blood | 18350 | [18350-beyond-flesh-and-blood.json](./18350-beyond-flesh-and-blood.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
 | Beyond Galaxyland | 296381 | [296381-beyond-galaxyland.json](./296381-beyond-galaxyland.json) |
+| Beyond Good & Evil 2 | 1936 | [1936-beyond-good-and-evil-2.json](./1936-beyond-good-and-evil-2.json) |
 | Beyond Good & Evil HD | 20437 | [20437-beyond-good-and-evil-hd.json](./20437-beyond-good-and-evil-hd.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond Hope | 137253 | [137253-beyond-hope.json](./137253-beyond-hope.json) |
@@ -6650,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
 | Beyond Zero Tolerance | 45762 | [45762-beyond-zero-tolerance.json](./45762-beyond-zero-tolerance.json) |
+| Beyond Zork: The Coconut of Quendor | 1951 | [1951-beyond-zork-the-coconut-of-quendor.json](./1951-beyond-zork-the-coconut-of-quendor.json) |
 | Beyond-Human | 56598 | [56598-beyond-human.json](./56598-beyond-human.json) |
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
 | Beyond: Light Advent | 140286 | [140286-beyond-light-advent.json](./140286-beyond-light-advent.json) |
@@ -7367,6 +7376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimfli & His Time Travels: Paris | 323692 | [323692-bimfli-and-his-time-travels-paris.json](./323692-bimfli-and-his-time-travels-paris.json) |
 | Bimfli and His Travels In Time: Greece | 328558 | [328558-bimfli-and-his-travels-in-time-greece.json](./328558-bimfli-and-his-travels-in-time-greece.json) |
 | BimiCraft: Beyond Earth | 412886 | [412886-bimicraft-beyond-earth.json](./412886-bimicraft-beyond-earth.json) |
+| Bimini Run | 4436 | [4436-bimini-run.json](./4436-bimini-run.json) |
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
 | Bimsy Dreams | 183419 | [183419-bimsy-dreams.json](./183419-bimsy-dreams.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
@@ -7907,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthday Boy and Benny | 272646 | [272646-birthday-boy-and-benny.json](./272646-birthday-boy-and-benny.json) |
 | Birthday Kid | 237425 | [237425-birthday-kid.json](./237425-birthday-kid.json) |
 | Birthday of Midnight | 140948 | [140948-birthday-of-midnight.json](./140948-birthday-of-midnight.json) |
+| Birthday Party Bash | 4718 | [4718-birthday-party-bash.json](./4718-birthday-party-bash.json) |
 | Birthday Visit | 407198 | [407198-birthday-visit.json](./407198-birthday-visit.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
 | Birthdays the Beginning: Limited Edition | 122225 | [122225-birthdays-the-beginning-limited-edition.json](./122225-birthdays-the-beginning-limited-edition.json) |
@@ -11130,6 +11141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
 | Bob the Builder: Can We Fix It? | 44890 | [44890-bob-the-builder-can-we-fix-it.json](./44890-bob-the-builder-can-we-fix-it.json) |
 | Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
+| Bob the Builder: Festival of Fun | 4722 | [4722-bob-the-builder-festival-of-fun.json](./4722-bob-the-builder-festival-of-fun.json) |
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
 | Bob the Elementalist | 267489 | [267489-bob-the-elementalist.json](./267489-bob-the-elementalist.json) |
 | Bob the Goose | 213476 | [213476-bob-the-goose.json](./213476-bob-the-goose.json) |
@@ -13610,6 +13622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz 4 Real | 47872 | [47872-bratz-4-real.json](./47872-bratz-4-real.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
 | Bratz Kids: Slumber Party | 51006 | [51006-bratz-kids-slumber-party.json](./51006-bratz-kids-slumber-party.json) |
+| Bratz Kidz | 4727 | [4727-bratz-kidz.json](./4727-bratz-kidz.json) |
 | Bratz Ponyz | 67803 | [67803-bratz-ponyz.json](./67803-bratz-ponyz.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz Rhythm & Style | 347308 | [347308-bratz-rhythm-and-style.json](./347308-bratz-rhythm-and-style.json) |
@@ -13630,6 +13643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Rock Angelz | 248472 | [248472-bratz-rock-angelz.json](./248472-bratz-rock-angelz.json) |
 | Bratz: Super Babyz | 67804 | [67804-bratz-super-babyz.json](./67804-bratz-super-babyz.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
+| Bratz: The Movie | 4728 | [4728-bratz-the-movie.json](./4728-bratz-the-movie.json) |
 | Bravada | 17695 | [17695-bravada.json](./17695-bravada.json) |
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
 | Brave | 229231 | [229231-brave.json](./229231-brave.json) |
@@ -14962,6 +14976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
 | Brunswick Pro Pool 3D II | 206688 | [206688-brunswick-pro-pool-3d-ii.json](./206688-brunswick-pro-pool-3d-ii.json) |
 | Brunswick World: Tournament of Champions | 42596 | [42596-brunswick-world-tournament-of-champions.json](./42596-brunswick-world-tournament-of-champions.json) |
+| Brunswick Zone Cosmic Bowling | 4732 | [4732-brunswick-zone-cosmic-bowling.json](./4732-brunswick-zone-cosmic-bowling.json) |
 | Brush Burial | 270639 | [270639-brush-burial.json](./270639-brush-burial.json) |
 | Brush Burial: Bruiseland | 394636 | [394636-brush-burial-bruiseland.json](./394636-brush-burial-bruiseland.json) |
 | Brush Burial: Gutter World | 336459 | [336459-brush-burial-gutter-world.json](./336459-brush-burial-gutter-world.json) |
@@ -16585,6 +16600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Paradise: Cops and Robbers | 118274 | [118274-burnout-paradise-cops-and-robbers.json](./118274-burnout-paradise-cops-and-robbers.json) |
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
 | Burnout Revenge | 2626 | [2626-burnout-revenge.json](./2626-burnout-revenge.json) |
+| Burnout: Championship Drag Racing | 2404 | [2404-burnout-championship-drag-racing.json](./2404-burnout-championship-drag-racing.json) |
 | Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
 | Burnstar | 17747 | [17747-burnstar.json](./17747-burnstar.json) |
 | Burnstation | 405338 | [405338-burnstation.json](./405338-burnstation.json) |
