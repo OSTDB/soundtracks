@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Music | 91091 | [91091-happy-music.json](./91091-happy-music.json) |
 | Happy My Sweets | 70675 | [70675-happy-my-sweets.json](./70675-happy-my-sweets.json) |
 | Happy Neighbors | 74922 | [74922-happy-neighbors.json](./74922-happy-neighbors.json) |
+| Happy Neuron Academy | 50960 | [50960-happy-neuron-academy.json](./50960-happy-neuron-academy.json) |
 | Happy New Hentai | 367059 | [367059-happy-new-hentai.json](./367059-happy-new-hentai.json) |
 | Happy New Song | 178959 | [178959-happy-new-song.json](./178959-happy-new-song.json) |
 | Happy New Year Clicker | 76490 | [76490-happy-new-year-clicker.json](./76490-happy-new-year-clicker.json) |
@@ -1881,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley-Davidson Motorcycles: Road to Daytona | 198752 | [198752-harley-davidson-motorcycles-road-to-daytona.json](./198752-harley-davidson-motorcycles-road-to-daytona.json) |
 | Harley-Davidson: Race Around the World | 80317 | [80317-harley-davidson-race-around-the-world.json](./80317-harley-davidson-race-around-the-world.json) |
 | Harley-Davidson: Race to the Rally | 66341 | [66341-harley-davidson-race-to-the-rally.json](./66341-harley-davidson-race-to-the-rally.json) |
+| Harley-Davidson: Road Trip | 50959 | [50959-harley-davidson-road-trip.json](./50959-harley-davidson-road-trip.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
 | Harley's Humongous Adventure | 20337 | [20337-harleys-humongous-adventure.json](./20337-harleys-humongous-adventure.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
