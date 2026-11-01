@@ -3572,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Puzzle Adventure | 174571 | [174571-temple-run-puzzle-adventure.json](./174571-temple-run-puzzle-adventure.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
+| Temple Ryda | 23337 | [23337-temple-ryda.json](./23337-temple-ryda.json) |
 | Temple Scramble | 111525 | [111525-temple-scramble.json](./111525-temple-scramble.json) |
 | Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
 | Temple2 | 268921 | [268921-temple2.json](./268921-temple2.json) |
@@ -5235,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
 | The Adventures of Rob-1E | 219394 | [219394-the-adventures-of-rob-1e.json](./219394-the-adventures-of-rob-1e.json) |
+| The Adventures of Robby Roto | 23169 | [23169-the-adventures-of-robby-roto.json](./23169-the-adventures-of-robby-roto.json) |
 | The Adventures of Robin Hood | 2301 | [2301-the-adventures-of-robin-hood.json](./2301-the-adventures-of-robin-hood.json) |
 | The Adventures of Robin Hood | 265054 | [265054-the-adventures-of-robin-hood.json](./265054-the-adventures-of-robin-hood.json) |
 | The Adventures of Rocky and Bullwinkle and Friends | 264997 | [264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
@@ -6768,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 62649 | [62649-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./62649-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 9401 | [9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
 | The Chronicles of Shakespeare: Romeo & Juliet | 62651 | [62651-the-chronicles-of-shakespeare-romeo-and-juliet.json](./62651-the-chronicles-of-shakespeare-romeo-and-juliet.json) |
+| The Chronicles of Spellborn | 23034 | [23034-the-chronicles-of-spellborn.json](./23034-the-chronicles-of-spellborn.json) |
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
 | The Chronos Event | 265861 | [265861-the-chronos-event.json](./265861-the-chronos-event.json) |
 | The Chronos Principle | 153964 | [153964-the-chronos-principle.json](./153964-the-chronos-principle.json) |
@@ -16766,6 +16769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials: Chapter One | 357136 | [357136-the-trials-chapter-one.json](./357136-the-trials-chapter-one.json) |
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
 | The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
+| The Tribe | 23232 | [23232-the-tribe.json](./23232-the-tribe.json) |
 | The Tribez | 38870 | [38870-the-tribez.json](./38870-the-tribez.json) |
 | The Tribez & Castlez | 38869 | [38869-the-tribez-and-castlez.json](./38869-the-tribez-and-castlez.json) |
 | The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
@@ -16788,6 +16792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Troop | 160046 | [160046-the-troop.json](./160046-the-troop.json) |
 | The Trooper | 190864 | [190864-the-trooper.json](./190864-the-trooper.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
+| The Trouble With Robots | 23344 | [23344-the-trouble-with-robots.json](./23344-the-trouble-with-robots.json) |
 | The Trouble: Defense | 316661 | [316661-the-trouble-defense.json](./316661-the-trouble-defense.json) |
 | The Truck Game | 114250 | [114250-the-truck-game.json](./114250-the-truck-game.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
@@ -22898,6 +22903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
 | Tom Clancy's Elite Squad | 119355 | [119355-tom-clancys-elite-squad.json](./119355-tom-clancys-elite-squad.json) |
 | Tom Clancy's EndWar | 7468 | [7468-tom-clancys-endwar.json](./7468-tom-clancys-endwar.json) |
+| Tom Clancy's EndWar Online | 23213 | [23213-tom-clancys-endwar-online.json](./23213-tom-clancys-endwar-online.json) |
 | Tom Clancy's Ghost Recon | 1294 | [1294-tom-clancys-ghost-recon.json](./1294-tom-clancys-ghost-recon.json) |
 | Tom Clancy's Ghost Recon 2 | 1298 | [1298-tom-clancys-ghost-recon-2.json](./1298-tom-clancys-ghost-recon-2.json) |
 | Tom Clancy's Ghost Recon 2: 2007 - First Contact | 77977 | [77977-tom-clancys-ghost-recon-2-2007-first-contact.json](./77977-tom-clancys-ghost-recon-2-2007-first-contact.json) |
@@ -22971,6 +22977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Red Crow | 25641 | [25641-tom-clancys-rainbow-six-siege-operation-red-crow.json](./25641-tom-clancys-rainbow-six-siege-operation-red-crow.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Shadow Legacy | 136978 | [136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json](./136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Skull Rain | 23176 | [23176-tom-clancys-rainbow-six-siege-operation-skull-rain.json](./23176-tom-clancys-rainbow-six-siege-operation-skull-rain.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Splitfire | 416178 | [416178-tom-clancys-rainbow-six-siege-operation-splitfire.json](./416178-tom-clancys-rainbow-six-siege-operation-splitfire.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Steel Wave | 135157 | [135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json](./135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
