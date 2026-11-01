@@ -4789,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
 | Deep Aquarium | 124688 | [124688-deep-aquarium.json](./124688-deep-aquarium.json) |
 | Deep Assault | 235816 | [235816-deep-assault.json](./235816-deep-assault.json) |
+| Deep Below | 31368 | [31368-deep-below.json](./31368-deep-below.json) |
 | Deep Black: Reloaded | 52863 | [52863-deep-black-reloaded.json](./52863-deep-black-reloaded.json) |
 | Deep Blue | 28748 | [28748-deep-blue.json](./28748-deep-blue.json) |
 | Deep Blue | 75524 | [75524-deep-blue.json](./75524-deep-blue.json) |
@@ -5309,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense High | 143925 | [143925-defense-high.json](./143925-defense-high.json) |
 | Defense Keeper | 24020 | [24020-defense-keeper.json](./24020-defense-keeper.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
+| Defense of Castle Chilly | 31445 | [31445-defense-of-castle-chilly.json](./31445-defense-of-castle-chilly.json) |
 | Defense of Egypt: Cleopatra Mission | 31097 | [31097-defense-of-egypt-cleopatra-mission.json](./31097-defense-of-egypt-cleopatra-mission.json) |
 | Defense of Fortune 2 | 200295 | [200295-defense-of-fortune-2.json](./200295-defense-of-fortune-2.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
@@ -17718,6 +17720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
+| Dynamite Alex | 31343 | [31343-dynamite-alex.json](./31343-dynamite-alex.json) |
 | Dynamite Baseball Naomi | 58424 | [58424-dynamite-baseball-naomi.json](./58424-dynamite-baseball-naomi.json) |
 | Dynamite Blue | 416795 | [416795-dynamite-blue.json](./416795-dynamite-blue.json) |
 | Dynamite Bomber | 266879 | [266879-dynamite-bomber.json](./266879-dynamite-bomber.json) |
@@ -17821,6 +17824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DynaTrip | 417957 | [417957-dynatrip.json](./417957-dynatrip.json) |
 | Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
 | Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
+| Dyno Adventure | 31399 | [31399-dyno-adventure.json](./31399-dyno-adventure.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynomite Deluxe | 71301 | [71301-dynomite-deluxe.json](./71301-dynomite-deluxe.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
