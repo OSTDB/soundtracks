@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes Brother | 163813 | [163813-yes-brother.json](./163813-yes-brother.json) |
 | Yes Comrade | 329176 | [329176-yes-comrade.json](./329176-yes-comrade.json) |
 | Yes My Lord | 199090 | [199090-yes-my-lord.json](./199090-yes-my-lord.json) |
+| Yes Prime Minister: The Computer Game | 2392 | [2392-yes-prime-minister-the-computer-game.json](./2392-yes-prime-minister-the-computer-game.json) |
 | Yes, And So Our Hollow Hearts Called For Love | 352835 | [352835-yes-and-so-our-hollow-hearts-called-for-love.json](./352835-yes-and-so-our-hollow-hearts-called-for-love.json) |
 | Yes, Drill Sergeant! | 22083 | [22083-yes-drill-sergeant.json](./22083-yes-drill-sergeant.json) |
 | Yes, Mama | 181609 | [181609-yes-mama.json](./181609-yes-mama.json) |
