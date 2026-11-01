@@ -8615,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dawn: Fangs of Asterkarn | 298931 | [298931-grim-dawn-fangs-of-asterkarn.json](./298931-grim-dawn-fangs-of-asterkarn.json) |
+| Grim Dawn: Forgotten Gods | 105041 | [105041-grim-dawn-forgotten-gods.json](./105041-grim-dawn-forgotten-gods.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Dragons | 32825 | [32825-grim-dragons.json](./32825-grim-dragons.json) |
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
@@ -9798,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero: Barões da Pisadinha | 310671 | [310671-guitar-hero-baroes-da-pisadinha.json](./310671-guitar-hero-baroes-da-pisadinha.json) |
 | Guitar Hero: Brazucas | 275229 | [275229-guitar-hero-brazucas.json](./275229-guitar-hero-brazucas.json) |
 | Guitar Hero: Metallica | 2674 | [2674-guitar-hero-metallica.json](./2674-guitar-hero-metallica.json) |
+| Guitar Hero: On Tour | 7088 | [7088-guitar-hero-on-tour.json](./7088-guitar-hero-on-tour.json) |
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
 | Guitar Hero: On Tour - Modern Hits | 7090 | [7090-guitar-hero-on-tour-modern-hits.json](./7090-guitar-hero-on-tour-modern-hits.json) |
 | Guitar Hero: Smash Hits | 2677 | [2677-guitar-hero-smash-hits.json](./2677-guitar-hero-smash-hits.json) |
