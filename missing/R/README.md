@@ -8879,6 +8879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketBird Relaunched | 412936 | [412936-rocketbird-relaunched.json](./412936-rocketbird-relaunched.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
+| Rocketbirds: Hardboiled Chicken | 10767 | [10767-rocketbirds-hardboiled-chicken.json](./10767-rocketbirds-hardboiled-chicken.json) |
 | Rocketbirds: Revolution! | 242929 | [242929-rocketbirds-revolution.json](./242929-rocketbirds-revolution.json) |
 | Rocketboarder | 118793 | [118793-rocketboarder.json](./118793-rocketboarder.json) |
 | Rocketboat - Pilot | 89776 | [89776-rocketboat-pilot.json](./89776-rocketboat-pilot.json) |
@@ -9584,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll A Blade | 291829 | [291829-roll-a-blade.json](./291829-roll-a-blade.json) |
 | Roll a Dice | 333473 | [333473-roll-a-dice.json](./333473-roll-a-dice.json) |
+| Roll Away | 9678 | [9678-roll-away.json](./9678-roll-away.json) |
 | Roll Back Home | 103113 | [103113-roll-back-home.json](./103113-roll-back-home.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
