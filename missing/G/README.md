@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostBlood | 71195 | [71195-ghostblood.json](./71195-ghostblood.json) |
 | Ghostboy | 224600 | [224600-ghostboy.json](./224600-ghostboy.json) |
 | GhostBros | 262820 | [262820-ghostbros.json](./262820-ghostbros.json) |
+| Ghostbusters | 18815 | [18815-ghostbusters.json](./18815-ghostbusters.json) |
 | Ghostbusters | 347005 | [347005-ghostbusters.json](./347005-ghostbusters.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
 | Ghostbusters | 6054 | [6054-ghostbusters.json](./6054-ghostbusters.json) |
@@ -7471,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
 | Grandia II | 9580 | [9580-grandia-ii.json](./9580-grandia-ii.json) |
 | Grandia II HD Remaster | 21657 | [21657-grandia-ii-hd-remaster.json](./21657-grandia-ii-hd-remaster.json) |
+| Grandia III | 18071 | [18071-grandia-iii.json](./18071-grandia-iii.json) |
 | Grandia Online | 21661 | [21661-grandia-online.json](./21661-grandia-online.json) |
 | Grandia Xtreme | 21660 | [21660-grandia-xtreme.json](./21660-grandia-xtreme.json) |
 | Grandia: Digital Museum | 21658 | [21658-grandia-digital-museum.json](./21658-grandia-digital-museum.json) |
@@ -8391,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Gremlins Unleashed | 50035 | [50035-gremlins-unleashed.json](./50035-gremlins-unleashed.json) |
 | Gremlins vs Automatons | 136046 | [136046-gremlins-vs-automatons.json](./136046-gremlins-vs-automatons.json) |
+| Gremlins, Inc. | 18394 | [18394-gremlins-inc.json](./18394-gremlins-inc.json) |
 | Gremlins, Inc.: Agents of Chaos | 170140 | [170140-gremlins-inc-agents-of-chaos.json](./170140-gremlins-inc-agents-of-chaos.json) |
 | Gremlins, Inc.: Astral Gamblers | 170141 | [170141-gremlins-inc-astral-gamblers.json](./170141-gremlins-inc-astral-gamblers.json) |
 | Gremlins, Inc.: Card Game | 170144 | [170144-gremlins-inc-card-game.json](./170144-gremlins-inc-card-game.json) |
