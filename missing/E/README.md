@@ -3125,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | Empyrion: Galactic Survival | 19249 | [19249-empyrion-galactic-survival.json](./19249-empyrion-galactic-survival.json) |
 | Empyrion: Galactic Survival - Dark Faction | 294938 | [294938-empyrion-galactic-survival-dark-faction.json](./294938-empyrion-galactic-survival-dark-faction.json) |
+| Empyrios: Prophecy of Flame | 61288 | [61288-empyrios-prophecy-of-flame.json](./61288-empyrios-prophecy-of-flame.json) |
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
 | Emu Otori Clicker | 341993 | [341993-emu-otori-clicker.json](./341993-emu-otori-clicker.json) |
