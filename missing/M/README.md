@@ -5526,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14311,6 +14312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Deal | 69346 | [69346-monopoly-deal.json](./69346-monopoly-deal.json) |
 | Monopoly Deluxe | 92869 | [92869-monopoly-deluxe.json](./92869-monopoly-deluxe.json) |
 | Monopoly Family Fun Pack | 77010 | [77010-monopoly-family-fun-pack.json](./77010-monopoly-family-fun-pack.json) |
+| Monopoly for Nintendo Switch | 28174 | [28174-monopoly-for-nintendo-switch.json](./28174-monopoly-for-nintendo-switch.json) |
 | Monopoly Here & Now | 51259 | [51259-monopoly-here-and-now.json](./51259-monopoly-here-and-now.json) |
 | Monopoly Hotels | 64471 | [64471-monopoly-hotels.json](./64471-monopoly-hotels.json) |
 | Monopoly IO | 74747 | [74747-monopoly-io.json](./74747-monopoly-io.json) |
@@ -18032,6 +18034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
 | Mushihime-sama Futari Ver 1.5 | 413697 | [413697-mushihime-sama-futari-ver-1-5.json](./413697-mushihime-sama-futari-ver-1-5.json) |
 | Mushihime-sama Futari: Black Label | 79369 | [79369-mushihime-sama-futari-black-label.json](./79369-mushihime-sama-futari-black-label.json) |
+| Mushihimesama | 11051 | [11051-mushihimesama.json](./11051-mushihimesama.json) |
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama HD | 47442 | [47442-mushihimesama-hd.json](./47442-mushihimesama-hd.json) |
