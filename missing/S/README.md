@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saban's Power Rangers Turbo | 217936 | [217936-sabans-power-rangers-turbo.json](./217936-sabans-power-rangers-turbo.json) |
 | Saban's Power Rangers Zeo Versus the Machine Empire | 73341 | [73341-sabans-power-rangers-zeo-versus-the-machine-empire.json](./73341-sabans-power-rangers-zeo-versus-the-machine-empire.json) |
 | Saban's VR Troopers | 19718 | [19718-sabans-vr-troopers.json](./19718-sabans-vr-troopers.json) |
+| Saban's VR Troopers | 46332 | [46332-sabans-vr-troopers.json](./46332-sabans-vr-troopers.json) |
 | Sabat Fight Arena | 116110 | [116110-sabat-fight-arena.json](./116110-sabat-fight-arena.json) |
 | Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
 | Sabbat: Director's Kvt | 128873 | [128873-sabbat-directors-kvt.json](./128873-sabbat-directors-kvt.json) |
@@ -1889,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasquatchers | 151978 | [151978-sasquatchers.json](./151978-sasquatchers.json) |
 | Sass vs. Fash: Girlballs of Steel | 165311 | [165311-sass-vs-fash-girlballs-of-steel.json](./165311-sass-vs-fash-girlballs-of-steel.json) |
 | Sassa'Shoom | 421812 | [421812-sassashoom.json](./421812-sassashoom.json) |
+| Sassou Shounen Eiyuuden: Coca-Cola Kid | 46325 | [46325-sassou-shounen-eiyuuden-coca-cola-kid.json](./46325-sassou-shounen-eiyuuden-coca-cola-kid.json) |
 | Sassy Cybergirl | 255269 | [255269-sassy-cybergirl.json](./255269-sassy-cybergirl.json) |
 | Sassy Girl | 259146 | [259146-sassy-girl.json](./259146-sassy-girl.json) |
 | Sasuke Challenger | 175129 | [175129-sasuke-challenger.json](./175129-sasuke-challenger.json) |
@@ -3592,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Power Formation Puzzle | 38327 | [38327-sd-gundam-power-formation-puzzle.json](./38327-sd-gundam-power-formation-puzzle.json) |
 | SD Gundam Sangokushi Rainbow Tairiku Senki | 370914 | [370914-sd-gundam-sangokushi-rainbow-tairiku-senki.json](./370914-sd-gundam-sangokushi-rainbow-tairiku-senki.json) |
 | SD Gundam Wars | 289755 | [289755-sd-gundam-wars.json](./289755-sd-gundam-wars.json) |
+| SD Gundam Winner's History | 46309 | [46309-sd-gundam-winners-history.json](./46309-sd-gundam-winners-history.json) |
 | SD Gundam World: Gachapon Senshi - Scramble Wars | 41334 | [41334-sd-gundam-world-gachapon-senshi-scramble-wars.json](./41334-sd-gundam-world-gachapon-senshi-scramble-wars.json) |
 | SD Gundam World: Gachapon Senshi 3 - Eiyuu Senki | 48857 | [48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json](./48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json) |
 | SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
@@ -17983,7 +17986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28591,6 +28593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Golden Sibs. | 335753 | [335753-super-golden-sibs.json](./335753-super-golden-sibs.json) |
 | Super Goldfish Scooping | 410835 | [410835-super-goldfish-scooping.json](./410835-super-goldfish-scooping.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
+| Super Golf | 46333 | [46333-super-golf.json](./46333-super-golf.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Golf World | 256751 | [256751-super-golf-world.json](./256751-super-golf-world.json) |
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
