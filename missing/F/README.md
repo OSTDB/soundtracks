@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Enchantress: Legendary Heroes - Quest Pack DLC | 168379 | [168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json](./168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - The Dead World DLC | 168380 | [168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json](./168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json) |
 | Fallen Enchantress: Map Pack | 224299 | [224299-fallen-enchantress-map-pack.json](./224299-fallen-enchantress-map-pack.json) |
+| Fallen Enchantress: Ultimate Edition | 51811 | [51811-fallen-enchantress-ultimate-edition.json](./51811-fallen-enchantress-ultimate-edition.json) |
 | Fallen Evolution | 334792 | [334792-fallen-evolution.json](./334792-fallen-evolution.json) |
 | Fallen Fates | 345579 | [345579-fallen-fates.json](./345579-fallen-fates.json) |
 | Fallen Feather | 219774 | [219774-fallen-feather.json](./219774-fallen-feather.json) |
@@ -6159,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
 | Fishing Up | 346129 | [346129-fishing-up.json](./346129-fishing-up.json) |
 | Fishing Valley | 328534 | [328534-fishing-valley.json](./328534-fishing-valley.json) |
+| Fishing VR: Gijiesta | 51687 | [51687-fishing-vr-gijiesta.json](./51687-fishing-vr-gijiesta.json) |
 | Fishing With The Homies | 324149 | [324149-fishing-with-the-homies.json](./324149-fishing-with-the-homies.json) |
 | Fishing World | 58131 | [58131-fishing-world.json](./58131-fishing-world.json) |
 | Fishing: Barents Sea - Complete Edition | 125188 | [125188-fishing-barents-sea-complete-edition.json](./125188-fishing-barents-sea-complete-edition.json) |
