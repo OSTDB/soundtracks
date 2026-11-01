@@ -6218,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breaker Deluxe | 225515 | [225515-alien-breaker-deluxe.json](./225515-alien-breaker-deluxe.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
+| Alien Breed 3: Descent | 9963 | [9963-alien-breed-3-descent.json](./9963-alien-breed-3-descent.json) |
 | Alien Breed 35th Anniversary | 414853 | [414853-alien-breed-35th-anniversary.json](./414853-alien-breed-35th-anniversary.json) |
 | Alien Breed 3D | 14239 | [14239-alien-breed-3d.json](./14239-alien-breed-3d.json) |
 | Alien Breed 3D 2: The Killing Grounds | 14240 | [14240-alien-breed-3d-2-the-killing-grounds.json](./14240-alien-breed-3d-2-the-killing-grounds.json) |
@@ -6388,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Ship Console | 320205 | [320205-alien-ship-console.json](./320205-alien-ship-console.json) |
 | Alien Shooter | 275153 | [275153-alien-shooter.json](./275153-alien-shooter.json) |
+| Alien Shooter 2 Conscription | 16367 | [16367-alien-shooter-2-conscription.json](./16367-alien-shooter-2-conscription.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
@@ -8385,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
 | Analog Party Sim | 160246 | [160246-analog-party-sim.json](./160246-analog-party-sim.json) |
+| Analogue: A Hate Story | 10037 | [10037-analogue-a-hate-story.json](./10037-analogue-a-hate-story.json) |
 | Analytical World | 156845 | [156845-analytical-world.json](./156845-analytical-world.json) |
 | Anamnesis | 150856 | [150856-anamnesis.json](./150856-anamnesis.json) |
 | Anamnesis | 254026 | [254026-anamnesis.json](./254026-anamnesis.json) |
@@ -14127,6 +14130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Syndicate: Steampunk Pack | 248414 | [248414-assassins-creed-syndicate-steampunk-pack.json](./248414-assassins-creed-syndicate-steampunk-pack.json) |
 | Assassin's Creed Syndicate: Streets of London Pack | 109437 | [109437-assassins-creed-syndicate-streets-of-london-pack.json](./109437-assassins-creed-syndicate-streets-of-london-pack.json) |
 | Assassin's Creed Syndicate: The Dreadful Crimes | 109432 | [109432-assassins-creed-syndicate-the-dreadful-crimes.json](./109432-assassins-creed-syndicate-the-dreadful-crimes.json) |
+| Assassin's Creed Syndicate: The Last Maharaja | 18146 | [18146-assassins-creed-syndicate-the-last-maharaja.json](./18146-assassins-creed-syndicate-the-last-maharaja.json) |
 | Assassin's Creed Syndicate: Victorian Legends Pack | 248416 | [248416-assassins-creed-syndicate-victorian-legends-pack.json](./248416-assassins-creed-syndicate-victorian-legends-pack.json) |
 | Assassin's Creed Unity: Arno's Chronicles | 251353 | [251353-assassins-creed-unity-arnos-chronicles.json](./251353-assassins-creed-unity-arnos-chronicles.json) |
 | Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
