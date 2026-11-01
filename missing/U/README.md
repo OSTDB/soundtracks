@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Tank Experience | 184863 | [184863-ultimate-tank-experience.json](./184863-ultimate-tank-experience.json) |
 | Ultimate Tapan Kaikki | 19239 | [19239-ultimate-tapan-kaikki.json](./19239-ultimate-tapan-kaikki.json) |
 | Ultimate Tennis | 264976 | [264976-ultimate-tennis.json](./264976-ultimate-tennis.json) |
+| Ultimate Tennis | 41107 | [41107-ultimate-tennis.json](./41107-ultimate-tennis.json) |
 | Ultimate Tennis: Revolution | 174841 | [174841-ultimate-tennis-revolution.json](./174841-ultimate-tennis-revolution.json) |
 | Ultimate Theater Simulator | 367400 | [367400-ultimate-theater-simulator.json](./367400-ultimate-theater-simulator.json) |
 | Ultimate Tic-Tac-Toe | 35501 | [35501-ultimate-tic-tac-toe.json](./35501-ultimate-tic-tac-toe.json) |
