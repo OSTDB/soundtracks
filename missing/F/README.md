@@ -5518,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration Part 2 | 170446 | [170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json](./170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json) |
 | Fire Pro Wrestling World: Yoshihiro Takayama Charity DLC Part 2 | 170443 | [170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json](./170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json) |
 | Fire Pro Wrestling Z | 67040 | [67040-fire-pro-wrestling-z.json](./67040-fire-pro-wrestling-z.json) |
+| Fire Pro Wrestling: Combination Tag | 38087 | [38087-fire-pro-wrestling-combination-tag.json](./38087-fire-pro-wrestling-combination-tag.json) |
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire ProWrestling Z | 23718 | [23718-fire-prowrestling-z.json](./23718-fire-prowrestling-z.json) |
 | Fire Quest | 58421 | [58421-fire-quest.json](./58421-fire-quest.json) |
@@ -10373,6 +10374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Francisca | 32062 | [32062-francisca.json](./32062-francisca.json) |
 | Francisca 2 | 156073 | [156073-francisca-2.json](./156073-francisca-2.json) |
 | Franco and Apollo | 211387 | [211387-franco-and-apollo.json](./211387-franco-and-apollo.json) |
+| Franco Baresi World Cup Kick Off | 38051 | [38051-franco-baresi-world-cup-kick-off.json](./38051-franco-baresi-world-cup-kick-off.json) |
 | Frane: Dragons' Odyssey | 116790 | [116790-frane-dragons-odyssey.json](./116790-frane-dragons-odyssey.json) |
 | Frank & the TimeTwister Machine | 117390 | [117390-frank-and-the-timetwister-machine.json](./117390-frank-and-the-timetwister-machine.json) |
 | Frank and 10 roots | 116286 | [116286-frank-and-10-roots.json](./116286-frank-and-10-roots.json) |
