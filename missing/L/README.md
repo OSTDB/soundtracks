@@ -3204,7 +3204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Len'en Reiretsuden: Reactivate Majestical Imperial | 125795 | [125795-lenen-reiretsuden-reactivate-majestical-imperial.json](./125795-lenen-reiretsuden-reactivate-majestical-imperial.json) |
 | Len'en Tasouken: Earthen Miraculous Sword | 125796 | [125796-lenen-tasouken-earthen-miraculous-sword.json](./125796-lenen-tasouken-earthen-miraculous-sword.json) |
 | Len'en Ten'eisenki: Brilliant Pagoda or Haze Castle | 125794 | [125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json](./125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json) |
-| Len's Island | 136594 | [136594-lens-island.json](./136594-lens-island.json) |
 | Lendarios: Limits Breakers 1 | 393450 | [393450-lendarios-limits-breakers-1.json](./393450-lendarios-limits-breakers-1.json) |
 | Lendas do Pebol: Mythic Football | 231180 | [231180-lendas-do-pebol-mythic-football.json](./231180-lendas-do-pebol-mythic-football.json) |
 | Lendele | 182744 | [182744-lendele.json](./182744-lendele.json) |
