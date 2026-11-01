@@ -11730,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
 | Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
+| Fruit Fall | 57949 | [57949-fruit-fall.json](./57949-fruit-fall.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
 | Fruit for the Village | 59868 | [59868-fruit-for-the-village.json](./59868-fruit-for-the-village.json) |
 | Fruit Frenzy | 260898 | [260898-fruit-frenzy.json](./260898-fruit-frenzy.json) |
