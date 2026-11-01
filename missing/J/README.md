@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master: Cradle of Egypt 2 | 23677 | [23677-jewel-master-cradle-of-egypt-2.json](./23677-jewel-master-cradle-of-egypt-2.json) |
 | Jewel Master: Cradle of Rome | 4774 | [4774-jewel-master-cradle-of-rome.json](./4774-jewel-master-cradle-of-rome.json) |
 | Jewel Master: Cradle of Rome 2 | 47830 | [47830-jewel-master-cradle-of-rome-2.json](./47830-jewel-master-cradle-of-rome-2.json) |
+| Jewel Master: Egypt | 47701 | [47701-jewel-master-egypt.json](./47701-jewel-master-egypt.json) |
 | Jewel Match | 204872 | [204872-jewel-match.json](./204872-jewel-match.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
 | Jewel Match | 88713 | [88713-jewel-match.json](./88713-jewel-match.json) |
