@@ -4867,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Sonic Collaboration Pack | 136099 | [136099-phantasy-star-online-2-sonic-collaboration-pack.json](./136099-phantasy-star-online-2-sonic-collaboration-pack.json) |
 | Phantasy Star Online 2: Tails Collaboration Pack | 143580 | [143580-phantasy-star-online-2-tails-collaboration-pack.json](./143580-phantasy-star-online-2-tails-collaboration-pack.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
+| Phantasy Star Online Blue Burst | 51302 | [51302-phantasy-star-online-blue-burst.json](./51302-phantasy-star-online-blue-burst.json) |
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
 | Phantasy Star Online Episode I & II Plus | 79149 | [79149-phantasy-star-online-episode-i-and-ii-plus.json](./79149-phantasy-star-online-episode-i-and-ii-plus.json) |
 | Phantasy Star Online Ver. 2 | 45812 | [45812-phantasy-star-online-ver-2.json](./45812-phantasy-star-online-ver-2.json) |
@@ -11031,6 +11032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Precinct: Online | 197850 | [197850-police-precinct-online.json](./197850-police-precinct-online.json) |
 | Police Pursuit | 108108 | [108108-police-pursuit.json](./108108-police-pursuit.json) |
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
+| Police Quest II: The Vengeance | 1925 | [1925-police-quest-ii-the-vengeance.json](./1925-police-quest-ii-the-vengeance.json) |
 | Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
 | Police Quest: In Pursuit of the Death Angel | 1924 | [1924-police-quest-in-pursuit-of-the-death-angel.json](./1924-police-quest-in-pursuit-of-the-death-angel.json) |
 | Police Quest: Open Season | 1927 | [1927-police-quest-open-season.json](./1927-police-quest-open-season.json) |
