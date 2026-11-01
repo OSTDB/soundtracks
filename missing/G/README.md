@@ -4928,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome: Jigsaw Puzzles | 162211 | [162211-gnome-jigsaw-puzzles.json](./162211-gnome-jigsaw-puzzles.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomedrome | 202575 | [202575-gnomedrome.json](./202575-gnomedrome.json) |
+| Gnomelings: Migration | 41130 | [41130-gnomelings-migration.json](./41130-gnomelings-migration.json) |
 | Gnomemade | 291895 | [291895-gnomemade.json](./291895-gnomemade.json) |
 | Gnomepunk | 145994 | [145994-gnomepunk.json](./145994-gnomepunk.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
@@ -8032,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Song's Records of Economy | 161644 | [161644-great-songs-records-of-economy.json](./161644-great-songs-records-of-economy.json) |
 | Great States II | 55989 | [55989-great-states-ii.json](./55989-great-states-ii.json) |
 | Great Sword | 234485 | [234485-great-sword.json](./234485-great-sword.json) |
+| Great Swordsman | 41085 | [41085-great-swordsman.json](./41085-great-swordsman.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
 | Great Toilet Simulator | 222289 | [222289-great-toilet-simulator.json](./222289-great-toilet-simulator.json) |
 | Great Tough Bikini 6 | 362403 | [362403-great-tough-bikini-6.json](./362403-great-tough-bikini-6.json) |
