@@ -10188,6 +10188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
 | Code Breaker | 315457 | [315457-code-breaker.json](./315457-code-breaker.json) |
 | Code Breaker | 380076 | [380076-code-breaker.json](./380076-code-breaker.json) |
+| Code Breaker | 43621 | [43621-code-breaker.json](./43621-code-breaker.json) |
 | Code Brown | 111178 | [111178-code-brown.json](./111178-code-brown.json) |
 | Code Bunny | 183988 | [183988-code-bunny.json](./183988-code-bunny.json) |
 | Code Carbon | 24857 | [24857-code-carbon.json](./24857-code-carbon.json) |
@@ -14833,6 +14834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot 4: It's About Time | 135254 | [135254-crash-bandicoot-4-its-about-time.json](./135254-crash-bandicoot-4-its-about-time.json) |
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
+| Crash Bandicoot Collectors' Edition | 43683 | [43683-crash-bandicoot-collectors-edition.json](./43683-crash-bandicoot-collectors-edition.json) |
 | Crash Bandicoot Flash | 228752 | [228752-crash-bandicoot-flash.json](./228752-crash-bandicoot-flash.json) |
 | Crash Bandicoot N. Sane Trilogy: Future Tense | 229857 | [229857-crash-bandicoot-n-sane-trilogy-future-tense.json](./229857-crash-bandicoot-n-sane-trilogy-future-tense.json) |
 | Crash Bandicoot N. Sane Trilogy: Stormy Ascent | 229856 | [229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json](./229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json) |
@@ -14852,6 +14854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Time to Rumble Bundle | 385410 | [385410-crash-bandicoot-time-to-rumble-bundle.json](./385410-crash-bandicoot-time-to-rumble-bundle.json) |
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
 | Crash Bandicoot: Warped | 135451 | [135451-crash-bandicoot-warped.json](./135451-crash-bandicoot-warped.json) |
+| Crash Bandicoot: Warped - Collector's Edition | 43682 | [43682-crash-bandicoot-warped-collectors-edition.json](./43682-crash-bandicoot-warped-collectors-edition.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
 | Crash Bash Live! | 138993 | [138993-crash-bash-live.json](./138993-crash-bash-live.json) |
 | Crash Bash: Collector's Edition | 45212 | [45212-crash-bash-collectors-edition.json](./45212-crash-bash-collectors-edition.json) |
