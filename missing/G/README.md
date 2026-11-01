@@ -3060,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George McGeehan Gamer Hero | 260794 | [260794-george-mcgeehan-gamer-hero.json](./260794-george-mcgeehan-gamer-hero.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George of the Jungle and the Search for the Secret | 4889 | [4889-george-of-the-jungle-and-the-search-for-the-secret.json](./4889-george-of-the-jungle-and-the-search-for-the-secret.json) |
+| George Scared of the Dark | 57973 | [57973-george-scared-of-the-dark.json](./57973-george-scared-of-the-dark.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
 | George's Memories Ep.1 | 105241 | [105241-georges-memories-ep-1.json](./105241-georges-memories-ep-1.json) |
 | Georgie and Me | 249083 | [249083-georgie-and-me.json](./249083-georgie-and-me.json) |
@@ -10111,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunpunk VR | 280207 | [280207-gunpunk-vr.json](./280207-gunpunk-vr.json) |
 | Gunpyre | 340404 | [340404-gunpyre.json](./340404-gunpyre.json) |
 | GunQuest | 195624 | [195624-gunquest.json](./195624-gunquest.json) |
+| Gunr.io | 57982 | [57982-gunr-io.json](./57982-gunr-io.json) |
 | Gunrail | 179448 | [179448-gunrail.json](./179448-gunrail.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
