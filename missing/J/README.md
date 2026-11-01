@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinx 3: Escape From Area Fitty-Two | 383493 | [383493-jinx-3-escape-from-area-fitty-two.json](./383493-jinx-3-escape-from-area-fitty-two.json) |
 | Jinx: A Dark and Stormy Night | 186143 | [186143-jinx-a-dark-and-stormy-night.json](./186143-jinx-a-dark-and-stormy-night.json) |
 | Jinxed | 117454 | [117454-jinxed.json](./117454-jinxed.json) |
+| Jinxster | 41121 | [41121-jinxster.json](./41121-jinxster.json) |
 | Jinxter | 12160 | [12160-jinxter.json](./12160-jinxter.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
 | Jīnyōng Qúnxiá Zhuàn 5 | 397399 | [397399-jinyong-qunxia-zhuan-5.json](./397399-jinyong-qunxia-zhuan-5.json) |
