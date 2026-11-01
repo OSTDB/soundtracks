@@ -3970,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire Hair | 391301 | [391301-hellfire-hair.json](./391301-hellfire-hair.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
 | Hellfire Rampage VR | 302914 | [302914-hellfire-rampage-vr.json](./302914-hellfire-rampage-vr.json) |
+| Hellfire S | 44310 | [44310-hellfire-s.json](./44310-hellfire-s.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | Hellfire Tactics | 208253 | [208253-hellfire-tactics.json](./208253-hellfire-tactics.json) |
 | Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
@@ -8902,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Gawds | 143899 | [143899-hoop-gawds.json](./143899-hoop-gawds.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
 | Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
+| Hoop Shot VR | 44265 | [44265-hoop-shot-vr.json](./44265-hoop-shot-vr.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
 | Hoop the Loop | 167461 | [167461-hoop-the-loop.json](./167461-hoop-the-loop.json) |
 | HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
