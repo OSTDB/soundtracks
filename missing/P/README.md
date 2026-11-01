@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
 | Pelagium Origins | 176633 | [176633-pelagium-origins.json](./176633-pelagium-origins.json) |
 | Pelago | 303984 | [303984-pelago.json](./303984-pelago.json) |
+| Pelé II: World Tournament Soccer | 4421 | [4421-pele-ii-world-tournament-soccer.json](./4421-pele-ii-world-tournament-soccer.json) |
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
 | Pelea | 51546 | [51546-pelea.json](./51546-pelea.json) |
@@ -4277,9 +4278,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 FES Append-han | 358383 | [358383-persona-3-fes-append-han.json](./358383-persona-3-fes-append-han.json) |
 | Persona 3 FES: Limited Edition | 41865 | [41865-persona-3-fes-limited-edition.json](./41865-persona-3-fes-limited-edition.json) |
 | Persona 3 Illust Puzzle | 289391 | [289391-persona-3-illust-puzzle.json](./289391-persona-3-illust-puzzle.json) |
+| Persona 3 Portable | 11416 | [11416-persona-3-portable.json](./11416-persona-3-portable.json) |
 | Persona 3 Portable & Persona 4 Golden Bundle | 231247 | [231247-persona-3-portable-and-persona-4-golden-bundle.json](./231247-persona-3-portable-and-persona-4-golden-bundle.json) |
 | Persona 3 Portable: Kotone Cutscenes Project - PSP Version | 313996 | [313996-persona-3-portable-kotone-cutscenes-project-psp-version.json](./313996-persona-3-portable-kotone-cutscenes-project-psp-version.json) |
 | Persona 3 Portable: Kotone Cutscenes Project - Steam Version | 313978 | [313978-persona-3-portable-kotone-cutscenes-project-steam-version.json](./313978-persona-3-portable-kotone-cutscenes-project-steam-version.json) |
+| Persona 3 Reload | 252647 | [252647-persona-3-reload.json](./252647-persona-3-reload.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
@@ -4536,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pete Rose Baseball | 117320 | [117320-pete-rose-baseball.json](./117320-pete-rose-baseball.json) |
 | Pete Rose Baseball | 40623 | [40623-pete-rose-baseball.json](./40623-pete-rose-baseball.json) |
 | Pete Sampras Tennis | 368901 | [368901-pete-sampras-tennis.json](./368901-pete-sampras-tennis.json) |
+| Pete Sampras Tennis | 4434 | [4434-pete-sampras-tennis.json](./4434-pete-sampras-tennis.json) |
 | Pete Sampras Tennis 96 | 70943 | [70943-pete-sampras-tennis-96.json](./70943-pete-sampras-tennis-96.json) |
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
 | Pete's Peril | 215697 | [215697-petes-peril.json](./215697-petes-peril.json) |
@@ -13381,6 +13385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Forgotten Sands | 142712 | [142712-prince-of-persia-the-forgotten-sands.json](./142712-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 320583 | [320583-prince-of-persia-the-forgotten-sands.json](./320583-prince-of-persia-the-forgotten-sands.json) |
+| Prince of Persia: The Lost Crown | 252476 | [252476-prince-of-persia-the-lost-crown.json](./252476-prince-of-persia-the-lost-crown.json) |
 | Prince of Persia: The Lost Crown - Complete Edition | 317240 | [317240-prince-of-persia-the-lost-crown-complete-edition.json](./317240-prince-of-persia-the-lost-crown-complete-edition.json) |
 | Prince of Persia: The Lost Crown - Complete Upgrade Pack | 317691 | [317691-prince-of-persia-the-lost-crown-complete-upgrade-pack.json](./317691-prince-of-persia-the-lost-crown-complete-upgrade-pack.json) |
 | Prince of Persia: The Lost Crown - Dark Prince Skin | 317689 | [317689-prince-of-persia-the-lost-crown-dark-prince-skin.json](./317689-prince-of-persia-the-lost-crown-dark-prince-skin.json) |
@@ -14055,6 +14060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2023 | 215326 | [215326-pro-strategy-football-2023.json](./215326-pro-strategy-football-2023.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
+| Pro Striker 2 | 4437 | [4437-pro-striker-2.json](./4437-pro-striker-2.json) |
 | Pro Striker: Final Stage | 4550 | [4550-pro-striker-final-stage.json](./4550-pro-striker-final-stage.json) |
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis | 421217 | [421217-pro-tennis.json](./421217-pro-tennis.json) |
@@ -17397,6 +17403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramid Magic | 45751 | [45751-pyramid-magic.json](./45751-pyramid-magic.json) |
 | Pyramid Magic III | 45750 | [45750-pyramid-magic-iii.json](./45750-pyramid-magic-iii.json) |
+| Pyramid Magic Special | 4428 | [4428-pyramid-magic-special.json](./4428-pyramid-magic-special.json) |
 | Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
