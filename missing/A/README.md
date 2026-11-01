@@ -4277,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History II: Definitive Edition | 399162 | [399162-age-of-history-ii-definitive-edition.json](./399162-age-of-history-ii-definitive-edition.json) |
 | Age of ILCoin VR: Retribution | 172354 | [172354-age-of-ilcoin-vr-retribution.json](./172354-age-of-ilcoin-vr-retribution.json) |
 | Age of Irata | 213429 | [213429-age-of-irata.json](./213429-age-of-irata.json) |
+| Age of Ishtaria | 38058 | [38058-age-of-ishtaria.json](./38058-age-of-ishtaria.json) |
 | Age of Japan | 52377 | [52377-age-of-japan.json](./52377-age-of-japan.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
 | Age of Kita | 208205 | [208205-age-of-kita.json](./208205-age-of-kita.json) |
