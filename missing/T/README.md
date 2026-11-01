@@ -7394,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DangerZone | 153526 | [153526-the-dangerzone.json](./153526-the-dangerzone.json) |
 | The Dare | 405878 | [405878-the-dare.json](./405878-the-dare.json) |
 | The Daring Entrepreneur | 185516 | [185516-the-daring-entrepreneur.json](./185516-the-daring-entrepreneur.json) |
+| The Daring Game for Girls | 4792 | [4792-the-daring-game-for-girls.json](./4792-the-daring-game-for-girls.json) |
 | The Daring Mermaid Expedition | 33519 | [33519-the-daring-mermaid-expedition.json](./33519-the-daring-mermaid-expedition.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark | 167371 | [167371-the-dark.json](./167371-the-dark.json) |
@@ -7693,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Desolation | 179293 | [179293-the-desolation.json](./179293-the-desolation.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
 | The Destiny Of Nagari | 295229 | [295229-the-destiny-of-nagari.json](./295229-the-destiny-of-nagari.json) |
+| The Destiny of Zorro | 4804 | [4804-the-destiny-of-zorro.json](./4804-the-destiny-of-zorro.json) |
 | The Destiny Star of Girlfriend: Episode of Fujiko | 305322 | [305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json](./305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json) |
 | The Destroyer from Jail | 378377 | [378377-the-destroyer-from-jail.json](./378377-the-destroyer-from-jail.json) |
 | The Detail | 9080 | [9080-the-detail.json](./9080-the-detail.json) |
@@ -18944,6 +18946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrill Drive | 65915 | [65915-thrill-drive.json](./65915-thrill-drive.json) |
 | Thrill Drive 2 | 65914 | [65914-thrill-drive-2.json](./65914-thrill-drive-2.json) |
 | Thrill Drive 3 | 65913 | [65913-thrill-drive-3.json](./65913-thrill-drive-3.json) |
+| Thrill Kill | 2387 | [2387-thrill-kill.json](./2387-thrill-kill.json) |
 | Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thriller Garden | 256724 | [256724-thriller-garden.json](./256724-thriller-garden.json) |
@@ -19431,6 +19434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
 | Tidy Your Room Simulator | 89604 | [89604-tidy-your-room-simulator.json](./89604-tidy-your-room-simulator.json) |
 | TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
+| Tie Break Tenis 98' | 2400 | [2400-tie-break-tenis-98.json](./2400-tie-break-tenis-98.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tie Dye Doodle | 106347 | [106347-tie-dye-doodle.json](./106347-tie-dye-doodle.json) |
@@ -24828,6 +24832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Tour Party: Sotsugyou Ryokou ni Ikou | 203050 | [203050-tour-party-sotsugyou-ryokou-ni-ikou.json](./203050-tour-party-sotsugyou-ryokou-ni-ikou.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
+| Touring Car Champions | 2405 | [2405-touring-car-champions.json](./2405-touring-car-champions.json) |
 | Touring Car Racer | 94513 | [94513-touring-car-racer.json](./94513-touring-car-racer.json) |
 | Touring Karts | 120478 | [120478-touring-karts.json](./120478-touring-karts.json) |
 | Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
