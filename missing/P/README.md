@@ -15336,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Province Simulator | 392384 | [392384-province-simulator.json](./392384-province-simulator.json) |
 | Province: Suroste | 413238 | [413238-province-suroste.json](./413238-province-suroste.json) |
 | Provincies | 68728 | [68728-provincies.json](./68728-provincies.json) |
+| Proving Ground 2014 | 62470 | [62470-proving-ground-2014.json](./62470-proving-ground-2014.json) |
 | Proving Grounds | 235431 | [235431-proving-grounds.json](./235431-proving-grounds.json) |
 | Provisional Authority: An AI Governance Simulation | 401258 | [401258-provisional-authority-an-ai-governance-simulation.json](./401258-provisional-authority-an-ai-governance-simulation.json) |
 | Provisional Detective | 188796 | [188796-provisional-detective.json](./188796-provisional-detective.json) |
@@ -16894,6 +16895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
 | Puzzle Pirates | 15129 | [15129-puzzle-pirates.json](./15129-puzzle-pirates.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
+| Puzzle Pits | 62400 | [62400-puzzle-pits.json](./62400-puzzle-pits.json) |
 | Puzzle Planet | 175012 | [175012-puzzle-planet.json](./175012-puzzle-planet.json) |
 | Puzzle Planet | 277115 | [277115-puzzle-planet.json](./277115-puzzle-planet.json) |
 | Puzzle Player | 322038 | [322038-puzzle-player.json](./322038-puzzle-player.json) |
