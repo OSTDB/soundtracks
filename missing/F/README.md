@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
 | Fate/Grand Order: Epic of Remnant IV - Salem | 414362 | [414362-fate-grand-order-epic-of-remnant-iv-salem.json](./414362-fate-grand-order-epic-of-remnant-iv-salem.json) |
 | Fate/Grand Order: Final Singularity - Solomon | 415255 | [415255-fate-grand-order-final-singularity-solomon.json](./415255-fate-grand-order-final-singularity-solomon.json) |
+| Fate/Grand Order: Lostbelt No. 2 - Götterdämmerung | 417540 | [417540-fate-grand-order-lostbelt-no-2-gotterdammerung.json](./417540-fate-grand-order-lostbelt-no-2-gotterdammerung.json) |
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Grand Order: Ordeal Call II - Id | 413505 | [413505-fate-grand-order-ordeal-call-ii-id.json](./413505-fate-grand-order-ordeal-call-ii-id.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Singularity VI - Camelot | 417421 | [417421-fate-grand-order-singularity-vi-camelot.json](./417421-fate-grand-order-singularity-vi-camelot.json) |
 | Fate/Grand Order: Spiral Proof World - Lilim Harlot | 419173 | [419173-fate-grand-order-spiral-proof-world-lilim-harlot.json](./419173-fate-grand-order-spiral-proof-world-lilim-harlot.json) |
 | Fate/Grand Order: Tokugawa Restoration Labyrinth - Ooku | 413488 | [413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json](./413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json) |
+| Fate/Grand Order: Vengeful Demon's Wail at the Prison Tower | 418739 | [418739-fate-grand-order-vengeful-demons-wail-at-the-prison-tower.json](./418739-fate-grand-order-vengeful-demons-wail-at-the-prison-tower.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Hollow Ataraxia Remastered | 312302 | [312302-fate-hollow-ataraxia-remastered.json](./312302-fate-hollow-ataraxia-remastered.json) |
 | Fate/Kaleid Liner Prisma Illya | 59205 | [59205-fate-kaleid-liner-prisma-illya.json](./59205-fate-kaleid-liner-prisma-illya.json) |
@@ -4831,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: 20th Anniversary Edition | 397 | [397-final-fantasy-20th-anniversary-edition.json](./397-final-fantasy-20th-anniversary-edition.json) |
+| Final Fantasy: All the Bravest | 8549 | [8549-final-fantasy-all-the-bravest.json](./8549-final-fantasy-all-the-bravest.json) |
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
 | Final Fantasy: Crystal Chronicles | 412 | [412-final-fantasy-crystal-chronicles.json](./412-final-fantasy-crystal-chronicles.json) |
