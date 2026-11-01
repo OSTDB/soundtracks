@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaplus Phalanx | 243830 | [243830-gaplus-phalanx.json](./243830-gaplus-phalanx.json) |
 | GapMan | 267223 | [267223-gapman.json](./267223-gapman.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
+| Gappo's Legacy VR | 55569 | [55569-gappos-legacy-vr.json](./55569-gappos-legacy-vr.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Gar's Den | 178462 | [178462-gars-den.json](./178462-gars-den.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
+| Geometry World | 55575 | [55575-geometry-world.json](./55575-geometry-world.json) |
 | Geometry Worlds 2 | 208180 | [208180-geometry-worlds-2.json](./208180-geometry-worlds-2.json) |
 | Geomeun Jeonseol | 220282 | [220282-geomeun-jeonseol.json](./220282-geomeun-jeonseol.json) |
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
@@ -6445,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight | 184981 | [184981-goodnight.json](./184981-goodnight.json) |
 | Goodnight | 217758 | [217758-goodnight.json](./217758-goodnight.json) |
 | Goodnight | 299122 | [299122-goodnight.json](./299122-goodnight.json) |
+| Goodnight | 55582 | [55582-goodnight.json](./55582-goodnight.json) |
 | GoodNight | 193404 | [193404-goodnight.json](./193404-goodnight.json) |
 | Goodnight Icarus | 280653 | [280653-goodnight-icarus.json](./280653-goodnight-icarus.json) |
 | Goodnight Little Sandman | 110227 | [110227-goodnight-little-sandman.json](./110227-goodnight-little-sandman.json) |
