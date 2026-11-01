@@ -6420,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bumblezone | 341930 | [341930-the-bumblezone.json](./341930-the-bumblezone.json) |
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
 | The Bunker | 171794 | [171794-the-bunker.json](./171794-the-bunker.json) |
+| The Bunker | 24017 | [24017-the-bunker.json](./24017-the-bunker.json) |
 | The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
 | The Bunny Graveyard | 197086 | [197086-the-bunny-graveyard.json](./197086-the-bunny-graveyard.json) |
 | The BunnyLord Pro Hater Pack | 82412 | [82412-the-bunnylord-pro-hater-pack.json](./82412-the-bunnylord-pro-hater-pack.json) |
@@ -16197,6 +16198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Talos Principle: Deluxe Edition | 23373 | [23373-the-talos-principle-deluxe-edition.json](./23373-the-talos-principle-deluxe-edition.json) |
 | The Talos Principle: Gold Edition | 53774 | [53774-the-talos-principle-gold-edition.json](./53774-the-talos-principle-gold-edition.json) |
 | The Talos Principle: Reawakened | 324927 | [324927-the-talos-principle-reawakened.json](./324927-the-talos-principle-reawakened.json) |
+| The Talos Principle: Road to Gehenna | 15815 | [15815-the-talos-principle-road-to-gehenna.json](./15815-the-talos-principle-road-to-gehenna.json) |
 | The Talosian Incident | 313839 | [313839-the-talosian-incident.json](./313839-the-talosian-incident.json) |
 | The Tangled Tapestry | 364681 | [364681-the-tangled-tapestry.json](./364681-the-tangled-tapestry.json) |
 | The Tape | 276886 | [276886-the-tape.json](./276886-the-tape.json) |
@@ -29251,6 +29253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TRT Bil Bakalım | 380637 | [380637-trt-bil-bakal-m.json](./380637-trt-bil-bakal-m.json) |
 | Tru Or Die: Chiraq | 280850 | [280850-tru-or-die-chiraq.json](./280850-tru-or-die-chiraq.json) |
 | Truants | 155931 | [155931-truants.json](./155931-truants.json) |
+| Trüberbrook | 70396 | [70396-truberbrook.json](./70396-truberbrook.json) |
 | Truck | 298266 | [298266-truck.json](./298266-truck.json) |
 | Truck & Camping Collection | 328466 | [328466-truck-and-camping-collection.json](./328466-truck-and-camping-collection.json) |
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
@@ -30876,6 +30879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Pipes | 405961 | [405961-two-pipes.json](./405961-two-pipes.json) |
 | Two Pipes 2 | 406047 | [406047-two-pipes-2.json](./406047-two-pipes-2.json) |
 | Two Pipes 3 | 406049 | [406049-two-pipes-3.json](./406049-two-pipes-3.json) |
+| Two Point Campus | 150512 | [150512-two-point-campus.json](./150512-two-point-campus.json) |
 | Two Point Campus: Brainy Bundle | 276941 | [276941-two-point-campus-brainy-bundle.json](./276941-two-point-campus-brainy-bundle.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Campus: Medical School | 260716 | [260716-two-point-campus-medical-school.json](./260716-two-point-campus-medical-school.json) |
