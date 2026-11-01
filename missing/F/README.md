@@ -8550,7 +8550,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2 | 15222 | [15222-football-manager-2.json](./15222-football-manager-2.json) |
 | Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
+| Football Manager 2007 | 945 | [945-football-manager-2007.json](./945-football-manager-2007.json) |
 | Football Manager 2008 | 946 | [946-football-manager-2008.json](./946-football-manager-2008.json) |
+| Football Manager 2009 | 8972 | [8972-football-manager-2009.json](./8972-football-manager-2009.json) |
 | Football Manager 2010 | 716 | [716-football-manager-2010.json](./716-football-manager-2010.json) |
 | Football Manager 2011 | 717 | [717-football-manager-2011.json](./717-football-manager-2011.json) |
 | Football Manager 2012 | 8973 | [8973-football-manager-2012.json](./8973-football-manager-2012.json) |
