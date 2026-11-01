@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Reach Evolved | 137288 | [137288-halo-reach-evolved.json](./137288-halo-reach-evolved.json) |
 | Halo: Reach Limited Edition | 45146 | [45146-halo-reach-limited-edition.json](./45146-halo-reach-limited-edition.json) |
 | Halo: Recruit | 72766 | [72766-halo-recruit.json](./72766-halo-recruit.json) |
+| Halo: Spartan Strike | 7849 | [7849-halo-spartan-strike.json](./7849-halo-spartan-strike.json) |
 | Halo: The Master Chief Collection - Limited Edition | 41608 | [41608-halo-the-master-chief-collection-limited-edition.json](./41608-halo-the-master-chief-collection-limited-edition.json) |
 | Halo: The Master Chief Collection Season 1 - Noble | 205048 | [205048-halo-the-master-chief-collection-season-1-noble.json](./205048-halo-the-master-chief-collection-season-1-noble.json) |
 | Halo: The Master Chief Collection Season 2 - Spark | 205049 | [205049-halo-the-master-chief-collection-season-2-spark.json](./205049-halo-the-master-chief-collection-season-2-spark.json) |
@@ -3408,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Metal Paradroid | 296216 | [296216-heavy-metal-paradroid.json](./296216-heavy-metal-paradroid.json) |
 | Heavy Metal Thunder | 56142 | [56142-heavy-metal-thunder.json](./56142-heavy-metal-thunder.json) |
 | Heavy Metal Titans | 252256 | [252256-heavy-metal-titans.json](./252256-heavy-metal-titans.json) |
+| Heavy Metal: F.A.K.K. 2 | 8290 | [8290-heavy-metal-f-a-k-k-2.json](./8290-heavy-metal-f-a-k-k-2.json) |
 | Heavy Metal: Geomatrix | 45854 | [45854-heavy-metal-geomatrix.json](./45854-heavy-metal-geomatrix.json) |
 | Heavy Nova | 5392 | [5392-heavy-nova.json](./5392-heavy-nova.json) |
 | Heavy on the Magick | 14109 | [14109-heavy-on-the-magick.json](./14109-heavy-on-the-magick.json) |
