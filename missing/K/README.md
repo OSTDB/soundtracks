@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentucky Dash | 89678 | [89678-kentucky-dash.json](./89678-kentucky-dash.json) |
 | Kentucky Route Zero | 5614 | [5614-kentucky-route-zero.json](./5614-kentucky-route-zero.json) |
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
+| Kentucky Route Zero: TV Edition | 55198 | [55198-kentucky-route-zero-tv-edition.json](./55198-kentucky-route-zero-tv-edition.json) |
 | Kenyuu Densetsu Yaiba | 282499 | [282499-kenyuu-densetsu-yaiba.json](./282499-kenyuu-densetsu-yaiba.json) |
 | Kenyuu Densetsu Yaiba | 282500 | [282500-kenyuu-densetsu-yaiba.json](./282500-kenyuu-densetsu-yaiba.json) |
 | Kenyuu Densetsu Yaiba | 38181 | [38181-kenyuu-densetsu-yaiba.json](./38181-kenyuu-densetsu-yaiba.json) |
