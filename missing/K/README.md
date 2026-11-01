@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Pop! | 309741 | [309741-k-pop.json](./309741-k-pop.json) |
 | K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
 | K-Shoot Mania | 59775 | [59775-k-shoot-mania.json](./59775-k-shoot-mania.json) |
+| K-Star Patrol | 23339 | [23339-k-star-patrol.json](./23339-k-star-patrol.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K!ll All Litterbugs | 302909 | [302909-k-ll-all-litterbugs.json](./302909-k-ll-all-litterbugs.json) |
 | K. Hawk: Survival Instinct | 93199 | [93199-k-hawk-survival-instinct.json](./93199-k-hawk-survival-instinct.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayko & Kokosh Coloring Book | 219464 | [219464-kayko-and-kokosh-coloring-book.json](./219464-kayko-and-kokosh-coloring-book.json) |
 | Kayko & Kokosh Coloring Book: Deluxe Edition | 221082 | [221082-kayko-and-kokosh-coloring-book-deluxe-edition.json](./221082-kayko-and-kokosh-coloring-book-deluxe-edition.json) |
 | Kayleth | 36839 | [36839-kayleth.json](./36839-kayleth.json) |
+| Kayos | 23338 | [23338-kayos.json](./23338-kayos.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
 | KayserRotz | 235643 | [235643-kayserrotz.json](./235643-kayserrotz.json) |
 | Kaz | 343586 | [343586-kaz.json](./343586-kaz.json) |
@@ -4393,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour Super Heroes | 39289 | [39289-knights-of-valour-super-heroes.json](./39289-knights-of-valour-super-heroes.json) |
 | Knights of Valour: The Seven Spirits | 39439 | [39439-knights-of-valour-the-seven-spirits.json](./39439-knights-of-valour-the-seven-spirits.json) |
 | Knights of Xentar | 2518 | [2518-knights-of-xentar.json](./2518-knights-of-xentar.json) |
+| Knights Province | 23163 | [23163-knights-province.json](./23163-knights-province.json) |
 | Knights Rubbish | 112855 | [112855-knights-rubbish.json](./112855-knights-rubbish.json) |
 | Knights Together | 393812 | [393812-knights-together.json](./393812-knights-together.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
@@ -5540,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kudokikata Oshiemasu | 67389 | [67389-kudokikata-oshiemasu.json](./67389-kudokikata-oshiemasu.json) |
 | Kudokikata Oshiemasu Part II: Kind Gals | 67388 | [67388-kudokikata-oshiemasu-part-ii-kind-gals.json](./67388-kudokikata-oshiemasu-part-ii-kind-gals.json) |
 | Kudos | 23135 | [23135-kudos.json](./23135-kudos.json) |
+| Kudos: Rock Legend | 23097 | [23097-kudos-rock-legend.json](./23097-kudos-rock-legend.json) |
 | Kudzu | 284593 | [284593-kudzu.json](./284593-kudzu.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
 | Kuento: Wasureenu Hibi ni | 97384 | [97384-kuento-wasureenu-hibi-ni.json](./97384-kuento-wasureenu-hibi-ni.json) |
