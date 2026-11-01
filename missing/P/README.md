@@ -4995,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantomancer | 331234 | [331234-phantomancer.json](./331234-phantomancer.json) |
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
+| Phantomers Insurreccion | 38030 | [38030-phantomers-insurreccion.json](./38030-phantomers-insurreccion.json) |
 | Phantomoon | 188265 | [188265-phantomoon.json](./188265-phantomoon.json) |
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
 | Phantomphobia: Zhenli | 331946 | [331946-phantomphobia-zhenli.json](./331946-phantomphobia-zhenli.json) |
@@ -6526,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball M: System Shock Pinball | 287179 | [287179-pinball-m-system-shock-pinball.json](./287179-pinball-m-system-shock-pinball.json) |
 | Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
 | Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
+| Pinball Magic | 38053 | [38053-pinball-magic.json](./38053-pinball-magic.json) |
 | Pinball Mania | 49073 | [49073-pinball-mania.json](./49073-pinball-mania.json) |
 | Pinball Mania Plus | 314912 | [314912-pinball-mania-plus.json](./314912-pinball-mania-plus.json) |
 | Pinball Maniacs | 253262 | [253262-pinball-maniacs.json](./253262-pinball-maniacs.json) |
@@ -12413,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
 | Power League '93 | 37662 | [37662-power-league-93.json](./37662-power-league-93.json) |
+| Power League II | 38089 | [38089-power-league-ii.json](./38089-power-league-ii.json) |
 | Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
 | Power League V | 37661 | [37661-power-league-v.json](./37661-power-league-v.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
