@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminus | 352261 | [352261-terminus.json](./352261-terminus.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
 | Terminus: Survival | 120651 | [120651-terminus-survival.json](./120651-terminus-survival.json) |
+| Terminus: The Prison Planet | 36683 | [36683-terminus-the-prison-planet.json](./36683-terminus-the-prison-planet.json) |
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
 | Terminus: Zombie Survivors | 155570 | [155570-terminus-zombie-survivors.json](./155570-terminus-zombie-survivors.json) |
 | Terminus: Zombie Survivors - Last Escape | 366727 | [366727-terminus-zombie-survivors-last-escape.json](./366727-terminus-zombie-survivors-last-escape.json) |
@@ -4802,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
 | Thanatophobia | 27393 | [27393-thanatophobia.json](./27393-thanatophobia.json) |
 | Thanatophobia | 278966 | [278966-thanatophobia.json](./278966-thanatophobia.json) |
+| Thanatos | 36687 | [36687-thanatos.json](./36687-thanatos.json) |
 | Thandor: The Invasion | 54432 | [54432-thandor-the-invasion.json](./54432-thandor-the-invasion.json) |
 | Thang Online | 135838 | [135838-thang-online.json](./135838-thang-online.json) |
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
@@ -18897,6 +18899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Fate | 159132 | [159132-throne-of-fate.json](./159132-throne-of-fate.json) |
 | Throne of Fate: Hell Demon | 171905 | [171905-throne-of-fate-hell-demon.json](./171905-throne-of-fate-hell-demon.json) |
 | Throne of Fate: Tiger Roar | 171904 | [171904-throne-of-fate-tiger-roar.json](./171904-throne-of-fate-tiger-roar.json) |
+| Throne of Fire | 36684 | [36684-throne-of-fire.json](./36684-throne-of-fire.json) |
 | Throne of Glass | 384268 | [384268-throne-of-glass.json](./384268-throne-of-glass.json) |
 | Throne of Gods | 124692 | [124692-throne-of-gods.json](./124692-throne-of-gods.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
