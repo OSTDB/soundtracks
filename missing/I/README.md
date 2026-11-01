@@ -2664,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Backrooms | 236463 | [236463-in-the-backrooms.json](./236463-in-the-backrooms.json) |
 | In the Bag | 125112 | [125112-in-the-bag.json](./125112-in-the-bag.json) |
 | In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
+| In the Bog | 51681 | [51681-in-the-bog.json](./51681-in-the-bog.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
 | In the Building: Cats | 226363 | [226363-in-the-building-cats.json](./226363-in-the-building-cats.json) |
 | In the Building: Cats 3 | 235397 | [235397-in-the-building-cats-3.json](./235397-in-the-building-cats-3.json) |
