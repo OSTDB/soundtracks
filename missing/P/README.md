@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paracentric | 124452 | [124452-paracentric.json](./124452-paracentric.json) |
 | Paraception | 180433 | [180433-paraception.json](./180433-paraception.json) |
 | Paracesium | 386160 | [386160-paracesium.json](./386160-paracesium.json) |
+| Parachronism: Order of Chaos | 21999 | [21999-parachronism-order-of-chaos.json](./21999-parachronism-order-of-chaos.json) |
 | Parachute | 231725 | [231725-parachute.json](./231725-parachute.json) |
 | Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
@@ -6893,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
 | PipeRoll Oil | 233920 | [233920-piperoll-oil.json](./233920-piperoll-oil.json) |
 | Pipes | 78884 | [78884-pipes.json](./78884-pipes.json) |
+| Pipes 3D | 21985 | [21985-pipes-3d.json](./21985-pipes-3d.json) |
 | Pipes Master | 194257 | [194257-pipes-master.json](./194257-pipes-master.json) |
 | Pipes Maze | 240354 | [240354-pipes-maze.json](./240354-pipes-maze.json) |
 | Pipes Puzzle Casual Arcade | 213808 | [213808-pipes-puzzle-casual-arcade.json](./213808-pipes-puzzle-casual-arcade.json) |
@@ -7591,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
+| Pixel Princess Blitz | 22000 | [22000-pixel-princess-blitz.json](./22000-pixel-princess-blitz.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
 | Pixel Pro Golf | 256752 | [256752-pixel-pro-golf.json](./256752-pixel-pro-golf.json) |
 | Pixel Pro Snow Fight | 232098 | [232098-pixel-pro-snow-fight.json](./232098-pixel-pro-snow-fight.json) |
