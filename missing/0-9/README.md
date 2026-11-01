@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Animals on an Island | 325501 | [325501-100-animals-on-an-island.json](./325501-100-animals-on-an-island.json) |
 | 100 Archeology Cats | 393728 | [393728-100-archeology-cats.json](./393728-100-archeology-cats.json) |
 | 100 Artroom Cats | 376182 | [376182-100-artroom-cats.json](./376182-100-artroom-cats.json) |
+| 100 Asian Cats | 274380 | [274380-100-asian-cats.json](./274380-100-asian-cats.json) |
 | 100 Asian Cats: Extra Content | 283046 | [283046-100-asian-cats-extra-content.json](./283046-100-asian-cats-extra-content.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
 | 100 Atelier Cats | 376188 | [376188-100-atelier-cats.json](./376188-100-atelier-cats.json) |
