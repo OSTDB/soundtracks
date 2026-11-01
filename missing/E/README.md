@@ -3328,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endangered Proposition | 119599 | [119599-endangered-proposition.json](./119599-endangered-proposition.json) |
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
 | Endciv | 33502 | [33502-endciv.json](./33502-endciv.json) |
+| EndCycle | 56833 | [56833-endcycle.json](./56833-endcycle.json) |
 | EndCycle VS | 112819 | [112819-endcycle-vs.json](./112819-endcycle-vs.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
@@ -6059,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
 | Evangeline | 26284 | [26284-evangeline.json](./26284-evangeline.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
+| Evangelion Shin Gekijouban: 3nd Impact | 56810 | [56810-evangelion-shin-gekijouban-3nd-impact.json](./56810-evangelion-shin-gekijouban-3nd-impact.json) |
 | Evangelion VR: The Throne of Souls | 49119 | [49119-evangelion-vr-the-throne-of-souls.json](./49119-evangelion-vr-the-throne-of-souls.json) |
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
 | Evangelion: Jo | 67657 | [67657-evangelion-jo.json](./67657-evangelion-jo.json) |
