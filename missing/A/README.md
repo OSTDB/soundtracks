@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Flutter of Silicon Wings | 185380 | [185380-a-flutter-of-silicon-wings.json](./185380-a-flutter-of-silicon-wings.json) |
 | A Fly in the Array | 387613 | [387613-a-fly-in-the-array.json](./387613-a-fly-in-the-array.json) |
 | A Foggy Day | 183748 | [183748-a-foggy-day.json](./183748-a-foggy-day.json) |
+| A Fold Apart | 104682 | [104682-a-fold-apart.json](./104682-a-fold-apart.json) |
 | A Fool's Art Gallery | 268144 | [268144-a-fools-art-gallery.json](./268144-a-fools-art-gallery.json) |
 | A Fool's Errand | 376508 | [376508-a-fools-errand.json](./376508-a-fools-errand.json) |
 | A Force More Powerful: The Game of Nonviolent Strategy | 71920 | [71920-a-force-more-powerful-the-game-of-nonviolent-strategy.json](./71920-a-force-more-powerful-the-game-of-nonviolent-strategy.json) |
@@ -4398,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders II: The Wizard's Throne | 590 | [590-age-of-wonders-ii-the-wizards-throne.json](./590-age-of-wonders-ii-the-wizards-throne.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
 | Age of Wonders III: Deluxe Edition | 51696 | [51696-age-of-wonders-iii-deluxe-edition.json](./51696-age-of-wonders-iii-deluxe-edition.json) |
+| Age of Wonders III: Eternal Lords | 11085 | [11085-age-of-wonders-iii-eternal-lords.json](./11085-age-of-wonders-iii-eternal-lords.json) |
 | Age of Wonders III: Golden Realms | 8863 | [8863-age-of-wonders-iii-golden-realms.json](./8863-age-of-wonders-iii-golden-realms.json) |
 | Age of Wonders: Planetfall - Day One Edition | 136153 | [136153-age-of-wonders-planetfall-day-one-edition.json](./136153-age-of-wonders-planetfall-day-one-edition.json) |
 | Age of Wonders: Planetfall - Deluxe Edition | 118845 | [118845-age-of-wonders-planetfall-deluxe-edition.json](./118845-age-of-wonders-planetfall-deluxe-edition.json) |
@@ -5285,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
 | airRevo VR | 29441 | [29441-airrevo-vr.json](./29441-airrevo-vr.json) |
 | Airs Adventure | 45430 | [45430-airs-adventure.json](./45430-airs-adventure.json) |
+| Airscape: The Fall of Gravity | 11356 | [11356-airscape-the-fall-of-gravity.json](./11356-airscape-the-fall-of-gravity.json) |
 | Airship | 379526 | [379526-airship.json](./379526-airship.json) |
 | Airship | 379527 | [379527-airship.json](./379527-airship.json) |
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
@@ -15306,6 +15309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Special Collection Box | 136675 | [136675-atelier-ryza-ever-darkness-and-the-secret-hideout-special-collection-box.json](./136675-atelier-ryza-ever-darkness-and-the-secret-hideout-special-collection-box.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Tao's Story "Interwoven Fate" | 168941 | [168941-atelier-ryza-ever-darkness-and-the-secret-hideout-taos-story-interwoven-fate.json](./168941-atelier-ryza-ever-darkness-and-the-secret-hideout-taos-story-interwoven-fate.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
+| Atelier Shallie: Alchemists of the Dusk Sea | 11513 | [11513-atelier-shallie-alchemists-of-the-dusk-sea.json](./11513-atelier-shallie-alchemists-of-the-dusk-sea.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea - Limited Edition | 51537 | [51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json](./51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream | 172822 | [172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json](./172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json) |
