@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Collectors Edition | 193341 | [193341-rayman-collectors-edition.json](./193341-rayman-collectors-edition.json) |
 | Rayman Compilation | 193339 | [193339-rayman-compilation.json](./193339-rayman-compilation.json) |
 | Rayman Designer | 61351 | [61351-rayman-designer.json](./61351-rayman-designer.json) |
+| Rayman DS | 20210 | [20210-rayman-ds.json](./20210-rayman-ds.json) |
 | Rayman Fiesta Run | 19726 | [19726-rayman-fiesta-run.json](./19726-rayman-fiesta-run.json) |
 | Rayman Forever | 51879 | [51879-rayman-forever.json](./51879-rayman-forever.json) |
 | Rayman Funpack | 193340 | [193340-rayman-funpack.json](./193340-rayman-funpack.json) |
@@ -7270,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Against the Invaders | 139656 | [139656-rise-against-the-invaders.json](./139656-rise-against-the-invaders.json) |
 | Rise and Fall | 138692 | [138692-rise-and-fall.json](./138692-rise-and-fall.json) |
 | Rise and Fall: Bronze Age | 235884 | [235884-rise-and-fall-bronze-age.json](./235884-rise-and-fall-bronze-age.json) |
+| Rise and Fall: Civilizations at War | 20531 | [20531-rise-and-fall-civilizations-at-war.json](./20531-rise-and-fall-civilizations-at-war.json) |
 | Rise and Grind! | 253490 | [253490-rise-and-grind.json](./253490-rise-and-grind.json) |
 | Rise Eterna | 113809 | [113809-rise-eterna.json](./113809-rise-eterna.json) |
 | Rise Eterna Bundle | 314601 | [314601-rise-eterna-bundle.json](./314601-rise-eterna-bundle.json) |
@@ -8898,6 +8900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketBallZ | 188454 | [188454-rocketballz.json](./188454-rocketballz.json) |
 | RocketBird Classic | 230725 | [230725-rocketbird-classic.json](./230725-rocketbird-classic.json) |
 | RocketBird Relaunched | 412936 | [412936-rocketbird-relaunched.json](./412936-rocketbird-relaunched.json) |
+| Rocketbirds 2: Evolution | 20074 | [20074-rocketbirds-2-evolution.json](./20074-rocketbirds-2-evolution.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
 | Rocketbirds: Hardboiled Chicken | 10767 | [10767-rocketbirds-hardboiled-chicken.json](./10767-rocketbirds-hardboiled-chicken.json) |
@@ -9713,6 +9716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 2: Triple Thrill Pack | 36366 | [36366-rollercoaster-tycoon-2-triple-thrill-pack.json](./36366-rollercoaster-tycoon-2-triple-thrill-pack.json) |
 | RollerCoaster Tycoon 2: Wacky Worlds | 23705 | [23705-rollercoaster-tycoon-2-wacky-worlds.json](./23705-rollercoaster-tycoon-2-wacky-worlds.json) |
 | Rollercoaster Tycoon 3 | 178407 | [178407-rollercoaster-tycoon-3.json](./178407-rollercoaster-tycoon-3.json) |
+| RollerCoaster Tycoon 3: Complete Edition | 138341 | [138341-rollercoaster-tycoon-3-complete-edition.json](./138341-rollercoaster-tycoon-3-complete-edition.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon 3: Platinum | 14801 | [14801-rollercoaster-tycoon-3-platinum.json](./14801-rollercoaster-tycoon-3-platinum.json) |
 | RollerCoaster Tycoon 3D | 6873 | [6873-rollercoaster-tycoon-3d.json](./6873-rollercoaster-tycoon-3d.json) |
@@ -11599,6 +11603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
 | Rune Dungeon | 357148 | [357148-rune-dungeon.json](./357148-rune-dungeon.json) |
+| Rune Factory 2: A Fantasy Harvest Moon | 20768 | [20768-rune-factory-2-a-fantasy-harvest-moon.json](./20768-rune-factory-2-a-fantasy-harvest-moon.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
 | Rune Factory 3 Special: Another Episode Pack | 265077 | [265077-rune-factory-3-special-another-episode-pack.json](./265077-rune-factory-3-special-another-episode-pack.json) |
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
