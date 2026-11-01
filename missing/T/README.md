@@ -3150,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles | 146004 | [146004-teenage-mutant-ninja-turtles.json](./146004-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 146006 | [146006-teenage-mutant-ninja-turtles.json](./146006-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 19747 | [19747-teenage-mutant-ninja-turtles.json](./19747-teenage-mutant-ninja-turtles.json) |
+| Teenage Mutant Ninja Turtles | 19967 | [19967-teenage-mutant-ninja-turtles.json](./19967-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 218922 | [218922-teenage-mutant-ninja-turtles.json](./218922-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 308150 | [308150-teenage-mutant-ninja-turtles.json](./308150-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 322537 | [322537-teenage-mutant-ninja-turtles.json](./322537-teenage-mutant-ninja-turtles.json) |
@@ -4753,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetyis | 276078 | [276078-tetyis.json](./276078-tetyis.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
 | Teva | 100242 | [100242-teva.json](./100242-teva.json) |
+| Tevi | 237349 | [237349-tevi.json](./237349-tevi.json) |
 | Tevi: Fauna Arcana | 403199 | [403199-tevi-fauna-arcana.json](./403199-tevi-fauna-arcana.json) |
 | Tevris | 75656 | [75656-tevris.json](./75656-tevris.json) |
 | Tex Atomic's Big Bot Battles | 70268 | [70268-tex-atomics-big-bot-battles.json](./70268-tex-atomics-big-bot-battles.json) |
@@ -5627,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Assailant's Arrival | 254659 | [254659-the-assailants-arrival.json](./254659-the-assailants-arrival.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assault: Survivor | 395780 | [395780-the-assault-survivor.json](./395780-the-assault-survivor.json) |
+| The Assembly | 20787 | [20787-the-assembly.json](./20787-the-assembly.json) |
 | The Assembly / Perfect Double Pack | 145256 | [145256-the-assembly-perfect-double-pack.json](./145256-the-assembly-perfect-double-pack.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Asskickers | 9403 | [9403-the-asskickers.json](./9403-the-asskickers.json) |
@@ -6711,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Charming Empire | 31976 | [31976-the-charming-empire.json](./31976-the-charming-empire.json) |
+| The Charnel House Trilogy | 19385 | [19385-the-charnel-house-trilogy.json](./19385-the-charnel-house-trilogy.json) |
 | The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
 | The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
@@ -17715,6 +17719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - Collector's Edition | 44549 | [44549-the-witcher-3-wild-hunt-collectors-edition.json](./44549-the-witcher-3-wild-hunt-collectors-edition.json) |
 | The Witcher 3: Wild Hunt - Complete Edition | 119402 | [119402-the-witcher-3-wild-hunt-complete-edition.json](./119402-the-witcher-3-wild-hunt-complete-edition.json) |
 | The Witcher 3: Wild Hunt - Complete Edition: 10th Anniversary Edition | 372654 | [372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json](./372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json) |
+| The Witcher 3: Wild Hunt - Free Next-Gen Update | 230102 | [230102-the-witcher-3-wild-hunt-free-next-gen-update.json](./230102-the-witcher-3-wild-hunt-free-next-gen-update.json) |
 | The Witcher 3: Wild Hunt - New Quest 'Where the Cat and Wolf Play...' | 170449 | [170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json](./170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
 | The Witcher 3: Wild Hunt + Dark Souls III | 141472 | [141472-the-witcher-3-wild-hunt-dark-souls-iii.json](./141472-the-witcher-3-wild-hunt-dark-souls-iii.json) |
@@ -23197,6 +23202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Resurgence | 209288 | [209288-tom-clancys-the-division-resurgence.json](./209288-tom-clancys-the-division-resurgence.json) |
 | Tom Clancy's The Division: Sleeper Agent Edition | 103382 | [103382-tom-clancys-the-division-sleeper-agent-edition.json](./103382-tom-clancys-the-division-sleeper-agent-edition.json) |
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
+| Tom Clancy's The Division: Underground | 19540 | [19540-tom-clancys-the-division-underground.json](./19540-tom-clancys-the-division-underground.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Dahl | 369151 | [369151-tom-dahl.json](./369151-tom-dahl.json) |
 | Tom Hanks is in: Jeopardy! | 320123 | [320123-tom-hanks-is-in-jeopardy.json](./320123-tom-hanks-is-in-jeopardy.json) |
@@ -24449,6 +24455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch Darts | 21434 | [21434-touch-darts.json](./21434-touch-darts.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
+| Touch Detective | 20578 | [20578-touch-detective.json](./20578-touch-detective.json) |
 | Touch Detective 3 | 222362 | [222362-touch-detective-3.json](./222362-touch-detective-3.json) |
 | Touch Detective 3 + The Complete Case Files | 222231 | [222231-touch-detective-3-the-complete-case-files.json](./222231-touch-detective-3-the-complete-case-files.json) |
 | Touch Dic | 72586 | [72586-touch-dic.json](./72586-touch-dic.json) |
