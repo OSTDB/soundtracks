@@ -13446,6 +13446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Extreme Butouden | 20033 | [20033-dragon-ball-z-extreme-butouden.json](./20033-dragon-ball-z-extreme-butouden.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Gekitou Tenkaichi Budoukai | 2578 | [2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json](./2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json) |
+| Dragon Ball Z: Goku Gekitou-den | 49104 | [49104-dragon-ball-z-goku-gekitou-den.json](./49104-dragon-ball-z-goku-gekitou-den.json) |
+| Dragon Ball Z: Goku Hishou-den | 49103 | [49103-dragon-ball-z-goku-hishou-den.json](./49103-dragon-ball-z-goku-hishou-den.json) |
 | Dragon Ball Z: Harukanaru Densetsu | 21426 | [21426-dragon-ball-z-harukanaru-densetsu.json](./21426-dragon-ball-z-harukanaru-densetsu.json) |
 | Dragon Ball Z: Hyper Dimension | 270755 | [270755-dragon-ball-z-hyper-dimension.json](./270755-dragon-ball-z-hyper-dimension.json) |
 | Dragon Ball Z: Idainaru Son Goku Densetsu | 37599 | [37599-dragon-ball-z-idainaru-son-goku-densetsu.json](./37599-dragon-ball-z-idainaru-son-goku-densetsu.json) |
