@@ -6393,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago Cubs Triple Play | 81360 | [81360-chicago-cubs-triple-play.json](./81360-chicago-cubs-triple-play.json) |
 | Chicago Enforcer | 5775 | [5775-chicago-enforcer.json](./5775-chicago-enforcer.json) |
 | Chicago Project | 291330 | [291330-chicago-project.json](./291330-chicago-project.json) |
+| Chicago Syndicate | 46352 | [46352-chicago-syndicate.json](./46352-chicago-syndicate.json) |
 | Chicago's 30 | 39161 | [39161-chicagos-30.json](./39161-chicagos-30.json) |
 | Chicane: Jenson Button Street Racing | 230472 | [230472-chicane-jenson-button-street-racing.json](./230472-chicane-jenson-button-street-racing.json) |
 | Chicco App Toys Blocks | 252566 | [252566-chicco-app-toys-blocks.json](./252566-chicco-app-toys-blocks.json) |
@@ -15077,6 +15078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-Chan: Ora to Poi Poi | 48533 | [48533-crayon-shin-chan-ora-to-poi-poi.json](./48533-crayon-shin-chan-ora-to-poi-poi.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
+| Crayon Shin-chan: Taiketsu! Quantum Panic!! | 46321 | [46321-crayon-shin-chan-taiketsu-quantum-panic.json](./46321-crayon-shin-chan-taiketsu-quantum-panic.json) |
 | Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!! | 56242 | [56242-crayon-shin-chan-uchuu-de-achoo-yuujou-no-oba-karate.json](./56242-crayon-shin-chan-uchuu-de-achoo-yuujou-no-oba-karate.json) |
 | Crayon Shin-chan: Undoukai ha Oosawagi! | 218268 | [218268-crayon-shin-chan-undoukai-ha-oosawagi.json](./218268-crayon-shin-chan-undoukai-ha-oosawagi.json) |
 | Crayon Shinchan My Sugoroku Great Strategy | 390523 | [390523-crayon-shinchan-my-sugoroku-great-strategy.json](./390523-crayon-shinchan-my-sugoroku-great-strategy.json) |
