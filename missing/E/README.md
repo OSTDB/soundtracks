@@ -6997,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile to Death | 32869 | [32869-exile-to-death.json](./32869-exile-to-death.json) |
 | Exile: Avengers Fire | 220283 | [220283-exile-avengers-fire.json](./220283-exile-avengers-fire.json) |
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
+| Exile: Wicked Phenomenon | 44315 | [44315-exile-wicked-phenomenon.json](./44315-exile-wicked-phenomenon.json) |
 | Exiled | 283090 | [283090-exiled.json](./283090-exiled.json) |
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
 | Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
