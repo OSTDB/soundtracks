@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elex | 11567 | [11567-elex.json](./11567-elex.json) |
 | Elex II: Collector's Edition | 181638 | [181638-elex-ii-collectors-edition.json](./181638-elex-ii-collectors-edition.json) |
 | Elf | 12061 | [12061-elf.json](./12061-elf.json) |
+| Elf | 12580 | [12580-elf.json](./12580-elf.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
 | Elf Adventure: The Lost Castle | 344553 | [344553-elf-adventure-the-lost-castle.json](./344553-elf-adventure-the-lost-castle.json) |
 | Elf Bowling 3 | 71862 | [71862-elf-bowling-3.json](./71862-elf-bowling-3.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embrawl | 423906 | [423906-embrawl.json](./423906-embrawl.json) |
 | Embric of Wulfhammer's Castle | 66174 | [66174-embric-of-wulfhammers-castle.json](./66174-embric-of-wulfhammers-castle.json) |
 | Embroideryvania | 345825 | [345825-embroideryvania.json](./345825-embroideryvania.json) |
+| Embryo | 12581 | [12581-embryo.json](./12581-embryo.json) |
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | EmDePloy | 372727 | [372727-emdeploy.json](./372727-emdeploy.json) |
@@ -2990,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emperor Kingdom | 29647 | [29647-emperor-kingdom.json](./29647-emperor-kingdom.json) |
 | Emperor of the Fading Suns | 50145 | [50145-emperor-of-the-fading-suns.json](./50145-emperor-of-the-fading-suns.json) |
 | Emperor of the Fading Suns Enhanced | 295355 | [295355-emperor-of-the-fading-suns-enhanced.json](./295355-emperor-of-the-fading-suns-enhanced.json) |
+| Emperor of the Mines | 12582 | [12582-emperor-of-the-mines.json](./12582-emperor-of-the-mines.json) |
 | Emperor: Battle for Dune | 89 | [89-emperor-battle-for-dune.json](./89-emperor-battle-for-dune.json) |
 | Emperor's Mahjongg | 209207 | [209207-emperors-mahjongg.json](./209207-emperors-mahjongg.json) |
 | Empire | 105227 | [105227-empire.json](./105227-empire.json) |
@@ -3071,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Total War - Elite Units of the East | 82083 | [82083-empire-total-war-elite-units-of-the-east.json](./82083-empire-total-war-elite-units-of-the-east.json) |
 | Empire: Total War - Elite Units of the West | 82086 | [82086-empire-total-war-elite-units-of-the-west.json](./82086-empire-total-war-elite-units-of-the-west.json) |
 | Empire: Total War - Special Forces Units & Bonus Content | 82087 | [82087-empire-total-war-special-forces-units-and-bonus-content.json](./82087-empire-total-war-special-forces-units-and-bonus-content.json) |
+| Empire: Wargame of the Century | 12583 | [12583-empire-wargame-of-the-century.json](./12583-empire-wargame-of-the-century.json) |
 | Empire! | 13640 | [13640-empire.json](./13640-empire.json) |
 | Empire's Order | 254713 | [254713-empires-order.json](./254713-empires-order.json) |
 | Empires | 29123 | [29123-empires.json](./29123-empires.json) |
@@ -3222,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Kingdom: The Secret of the Golden Lamp | 187903 | [187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json](./187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json) |
 | Enchanted Kingdom: The Secret of the Golden Lamp - Collector's Edition | 168306 | [168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json](./168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json) |
 | Enchanted Kingdoms Bundle | 125130 | [125130-enchanted-kingdoms-bundle.json](./125130-enchanted-kingdoms-bundle.json) |
+| Enchanted Land | 12584 | [12584-enchanted-land.json](./12584-enchanted-land.json) |
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
 | Enchanted Portals: Tales Edition | 256171 | [256171-enchanted-portals-tales-edition.json](./256171-enchanted-portals-tales-edition.json) |
 | Enchanted Scepters | 31186 | [31186-enchanted-scepters.json](./31186-enchanted-scepters.json) |
@@ -3849,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightening the Soul Country Light | 280168 | [280168-enlightening-the-soul-country-light.json](./280168-enlightening-the-soul-country-light.json) |
 | Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
+| Enlightenment: Druid II | 12585 | [12585-enlightenment-druid-ii.json](./12585-enlightenment-druid-ii.json) |
 | Enlil: Rise Of the End | 387486 | [387486-enlil-rise-of-the-end.json](./387486-enlil-rise-of-the-end.json) |
 | Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
 | Enlisted: Direct Fire Bundle | 309016 | [309016-enlisted-direct-fire-bundle.json](./309016-enlisted-direct-fire-bundle.json) |
@@ -7711,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Match | 393659 | [393659-eye-of-the-match.json](./393659-eye-of-the-match.json) |
 | Eye of the Moon | 177434 | [177434-eye-of-the-moon.json](./177434-eye-of-the-moon.json) |
 | Eye of the Owl | 34051 | [34051-eye-of-the-owl.json](./34051-eye-of-the-owl.json) |
+| Eye of the Storm | 12587 | [12587-eye-of-the-storm.json](./12587-eye-of-the-storm.json) |
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye of the Summoner | 302771 | [302771-eye-of-the-summoner.json](./302771-eye-of-the-summoner.json) |
 | Eye of the Temple | 95018 | [95018-eye-of-the-temple.json](./95018-eye-of-the-temple.json) |
