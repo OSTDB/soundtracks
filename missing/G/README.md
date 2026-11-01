@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargoyle Garden | 386883 | [386883-gargoyle-garden.json](./386883-gargoyle-garden.json) |
 | Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
 | Gargoyle's Quest | 15934 | [15934-gargoyles-quest.json](./15934-gargoyles-quest.json) |
+| Gargoyle's Quest II | 16141 | [16141-gargoyles-quest-ii.json](./16141-gargoyles-quest-ii.json) |
 | Gargoyles Remastered | 216282 | [216282-gargoyles-remastered.json](./216282-gargoyles-remastered.json) |
 | Gargoyles: Night Flight | 198745 | [198745-gargoyles-night-flight.json](./198745-gargoyles-night-flight.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
@@ -4406,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Bastards | 114698 | [114698-gladiator-bastards.json](./114698-gladiator-bastards.json) |
 | Gladiator Command | 391532 | [391532-gladiator-command.json](./391532-gladiator-command.json) |
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
+| Gladiator Guild Manager | 128930 | [128930-gladiator-guild-manager.json](./128930-gladiator-guild-manager.json) |
 | Gladiator Heroes: Roman Empire | 228147 | [228147-gladiator-heroes-roman-empire.json](./228147-gladiator-heroes-roman-empire.json) |
 | Gladiator Immortal | 258807 | [258807-gladiator-immortal.json](./258807-gladiator-immortal.json) |
 | Gladiator Manager | 278095 | [278095-gladiator-manager.json](./278095-gladiator-manager.json) |
@@ -6027,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 1 | 268998 | [268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json](./268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 2 | 268999 | [268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json](./268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 3 | 269000 | [269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json](./269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json) |
+| Golden Light | 130218 | [130218-golden-light.json](./130218-golden-light.json) |
 | Golden Light of Rose | 216628 | [216628-golden-light-of-rose.json](./216628-golden-light-of-rose.json) |
 | Golden Manager | 243729 | [243729-golden-manager.json](./243729-golden-manager.json) |
 | Golden Marriage | 60396 | [60396-golden-marriage.json](./60396-golden-marriage.json) |
