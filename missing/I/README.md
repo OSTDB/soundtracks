@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
 | IcoNick Duster: Planets Defender | 371944 | [371944-iconick-duster-planets-defender.json](./371944-iconick-duster-planets-defender.json) |
+| Iconoclasts | 34705 | [34705-iconoclasts.json](./34705-iconoclasts.json) |
 | Icons of Theia | 222741 | [222741-icons-of-theia.json](./222741-icons-of-theia.json) |
 | Icons: Combat Arena | 51449 | [51449-icons-combat-arena.json](./51449-icons-combat-arena.json) |
 | Icontrivia: Guess All Things Christmas | 232050 | [232050-icontrivia-guess-all-things-christmas.json](./232050-icontrivia-guess-all-things-christmas.json) |
