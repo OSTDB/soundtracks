@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Knock-Out | 326747 | [326747-2d-knock-out.json](./326747-2d-knock-out.json) |
 | 2D Neon Cube | 55635 | [55635-2d-neon-cube.json](./55635-2d-neon-cube.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
+| 2D Paintball | 56832 | [56832-2d-paintball.json](./56832-2d-paintball.json) |
 | 2D Platformer Game (Toy Factory) | 184282 | [184282-2d-platformer-game-toy-factory.json](./184282-2d-platformer-game-toy-factory.json) |
 | 2D Solomonar's Apprentice | 298543 | [298543-2d-solomonars-apprentice.json](./298543-2d-solomonars-apprentice.json) |
 | 2D Top Racing | 304445 | [304445-2d-top-racing.json](./304445-2d-top-racing.json) |
@@ -2386,8 +2387,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 In 1 Super CD | 37602 | [37602-4-in-1-super-cd.json](./37602-4-in-1-super-cd.json) |
 | 4 in 1 Vol.17 | 138695 | [138695-4-in-1-vol-17.json](./138695-4-in-1-vol-17.json) |
 | 4 in 1: Hudson | 293738 | [293738-4-in-1-hudson.json](./293738-4-in-1-hudson.json) |
+| 4 in 1: Irem | 56787 | [56787-4-in-1-irem.json](./56787-4-in-1-irem.json) |
 | 4 in 1: Meine Tierarztpraxis + Meine Tierpension + Mein Gestuet + Mein Pferd | 269535 | [269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json](./269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json) |
 | 4 in 1: Nintendo | 293735 | [293735-4-in-1-nintendo.json](./293735-4-in-1-nintendo.json) |
+| 4 in 1: Tomy | 56788 | [56788-4-in-1-tomy.json](./56788-4-in-1-tomy.json) |
 | 4 In a Blow | 242460 | [242460-4-in-a-blow.json](./242460-4-in-a-blow.json) |
 | 4 in a Line | 89723 | [89723-4-in-a-line.json](./89723-4-in-a-line.json) |
 | 4 in a Row | 294841 | [294841-4-in-a-row.json](./294841-4-in-a-row.json) |
