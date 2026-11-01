@@ -15223,6 +15223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cats vs. Crazy Cyborgs | 340836 | [340836-crazy-cats-vs-crazy-cyborgs.json](./340836-crazy-cats-vs-crazy-cyborgs.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
+| Crazy Caverns | 14017 | [14017-crazy-caverns.json](./14017-crazy-caverns.json) |
 | Crazy Chain: Elpis no Kusari | 392427 | [392427-crazy-chain-elpis-no-kusari.json](./392427-crazy-chain-elpis-no-kusari.json) |
 | Crazy Chase | 49157 | [49157-crazy-chase.json](./49157-crazy-chase.json) |
 | Crazy Cheebo: Puzzle Party | 85552 | [85552-crazy-cheebo-puzzle-party.json](./85552-crazy-cheebo-puzzle-party.json) |
@@ -15714,6 +15715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Clown Revenge | 28054 | [28054-creepy-clown-revenge.json](./28054-creepy-clown-revenge.json) |
 | Creepy Cooking and Dungeon Dinner Mysterious Labyrinth | 222062 | [222062-creepy-cooking-and-dungeon-dinner-mysterious-labyrinth.json](./222062-creepy-cooking-and-dungeon-dinner-mysterious-labyrinth.json) |
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
+| Creepy Crawler | 14018 | [14018-creepy-crawler.json](./14018-creepy-crawler.json) |
 | Creepy Crawlers | 317452 | [317452-creepy-crawlers.json](./317452-creepy-crawlers.json) |
 | Creepy Crawling | 337742 | [337742-creepy-crawling.json](./337742-creepy-crawling.json) |
 | Creepy Creepy Love | 294933 | [294933-creepy-creepy-love.json](./294933-creepy-creepy-love.json) |
@@ -16535,6 +16537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossTrix | 114258 | [114258-crosstrix.json](./114258-crosstrix.json) |
 | Crosswalks | 243580 | [243580-crosswalks.json](./243580-crosswalks.json) |
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
+| Crosswize | 14019 | [14019-crosswize.json](./14019-crosswize.json) |
 | Crossword | 271687 | [271687-crossword.json](./271687-crossword.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword | 93289 | [93289-crossword.json](./93289-crossword.json) |
@@ -16752,6 +16755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Ship Tycoon | 50394 | [50394-cruise-ship-tycoon.json](./50394-cruise-ship-tycoon.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Cruise Tycoon HD | 99137 | [99137-cruise-tycoon-hd.json](./99137-cruise-tycoon-hd.json) |
+| Cruising on Broadway | 14020 | [14020-cruising-on-broadway.json](./14020-cruising-on-broadway.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
 | Crumble Zone HD | 38866 | [38866-crumble-zone-hd.json](./38866-crumble-zone-hd.json) |
@@ -19031,6 +19035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyberworm | 73606 | [73606-cyberworm.json](./73606-cyberworm.json) |
+| Cybex | 14022 | [14022-cybex.json](./14022-cybex.json) |
 | Cybo War | 99898 | [99898-cybo-war.json](./99898-cybo-war.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
@@ -19102,6 +19107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclomaniacs Racers | 409354 | [409354-cyclomaniacs-racers.json](./409354-cyclomaniacs-racers.json) |
 | Cyclon | 25355 | [25355-cyclon.json](./25355-cyclon.json) |
 | Cyclone | 133830 | [133830-cyclone.json](./133830-cyclone.json) |
+| Cyclone | 14023 | [14023-cyclone.json](./14023-cyclone.json) |
 | Cyclone | 197556 | [197556-cyclone.json](./197556-cyclone.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
 | CyClones | 8693 | [8693-cyclones.json](./8693-cyclones.json) |
@@ -19179,6 +19185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrgoth's Revenge | 268891 | [268891-cyrgoths-revenge.json](./268891-cyrgoths-revenge.json) |
 | Cyril Cyberpunk | 19339 | [19339-cyril-cyberpunk.json](./19339-cyril-cyberpunk.json) |
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
+| Cyrox | 14024 | [14024-cyrox.json](./14024-cyrox.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
