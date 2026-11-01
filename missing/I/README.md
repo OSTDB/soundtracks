@@ -5780,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
 | Isle Frontier | 345363 | [345363-isle-frontier.json](./345363-isle-frontier.json) |
 | Isle Goblin | 217158 | [217158-isle-goblin.json](./217158-isle-goblin.json) |
+| Isle in the Sky | 41123 | [41123-isle-in-the-sky.json](./41123-isle-in-the-sky.json) |
 | Isle o' Little Men | 310409 | [310409-isle-o-little-men.json](./310409-isle-o-little-men.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Birds | 320872 | [320872-isle-of-birds.json](./320872-isle-of-birds.json) |
