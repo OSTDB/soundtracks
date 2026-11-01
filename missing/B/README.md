@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman v Superman: Who Will Win | 76554 | [76554-batman-v-superman-who-will-win.json](./76554-batman-v-superman-who-will-win.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: Arkham Asylum | 240941 | [240941-batman-arkham-asylum.json](./240941-batman-arkham-asylum.json) |
+| Batman: Arkham Asylum - Collector's Edition | 43018 | [43018-batman-arkham-asylum-collectors-edition.json](./43018-batman-arkham-asylum-collectors-edition.json) |
 | Batman: Arkham Asylum - Game of the Year Edition | 27862 | [27862-batman-arkham-asylum-game-of-the-year-edition.json](./27862-batman-arkham-asylum-game-of-the-year-edition.json) |
 | Batman: Arkham Asylum - Play as the Joker Challenge Map | 25993 | [25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json](./25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json) |
 | Batman: Arkham City - Arkham City Skins Pack | 75545 | [75545-batman-arkham-city-arkham-city-skins-pack.json](./75545-batman-arkham-city-arkham-city-skins-pack.json) |
@@ -3080,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham City - Batman Inc. Batsuit Skin | 138111 | [138111-batman-arkham-city-batman-inc-batsuit-skin.json](./138111-batman-arkham-city-batman-inc-batsuit-skin.json) |
 | Batman: Arkham City - Catwoman Bundle | 26116 | [26116-batman-arkham-city-catwoman-bundle.json](./26116-batman-arkham-city-catwoman-bundle.json) |
 | Batman: Arkham City - Challenge Map Pack | 75544 | [75544-batman-arkham-city-challenge-map-pack.json](./75544-batman-arkham-city-challenge-map-pack.json) |
+| Batman: Arkham City - Collector's Edition | 43019 | [43019-batman-arkham-city-collectors-edition.json](./43019-batman-arkham-city-collectors-edition.json) |
 | Batman: Arkham City - Game of the Year Edition | 21704 | [21704-batman-arkham-city-game-of-the-year-edition.json](./21704-batman-arkham-city-game-of-the-year-edition.json) |
 | Batman: Arkham City - Harley Quinn's Revenge | 18442 | [18442-batman-arkham-city-harley-quinns-revenge.json](./18442-batman-arkham-city-harley-quinns-revenge.json) |
 | Batman: Arkham City - Nightwing Bundle | 75542 | [75542-batman-arkham-city-nightwing-bundle.json](./75542-batman-arkham-city-nightwing-bundle.json) |
@@ -3110,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Special Edition Steelbook | 41611 | [41611-batman-arkham-knight-special-edition-steelbook.json](./41611-batman-arkham-knight-special-edition-steelbook.json) |
 | Batman: Arkham Origins - Black Mask Challenge Pack | 75534 | [75534-batman-arkham-origins-black-mask-challenge-pack.json](./75534-batman-arkham-origins-black-mask-challenge-pack.json) |
 | Batman: Arkham Origins - Cold, Cold Heart | 10028 | [10028-batman-arkham-origins-cold-cold-heart.json](./10028-batman-arkham-origins-cold-cold-heart.json) |
+| Batman: Arkham Origins - Collector's Edition | 43020 | [43020-batman-arkham-origins-collectors-edition.json](./43020-batman-arkham-origins-collectors-edition.json) |
 | Batman: Arkham Origins - Deathstroke Challenge Pack | 75535 | [75535-batman-arkham-origins-deathstroke-challenge-pack.json](./75535-batman-arkham-origins-deathstroke-challenge-pack.json) |
 | Batman: Arkham Origins - Infinite Earths Skin Pack | 75533 | [75533-batman-arkham-origins-infinite-earths-skin-pack.json](./75533-batman-arkham-origins-infinite-earths-skin-pack.json) |
 | Batman: Arkham Origins - Initiation | 75531 | [75531-batman-arkham-origins-initiation.json](./75531-batman-arkham-origins-initiation.json) |
@@ -6597,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond: Star Descendant - Collector’s Edition | 228255 | [228255-beyond-star-descendant-collector-s-edition.json](./228255-beyond-star-descendant-collector-s-edition.json) |
 | Beyond: The Fading Signal - Collector’s Edition | 228256 | [228256-beyond-the-fading-signal-collector-s-edition.json](./228256-beyond-the-fading-signal-collector-s-edition.json) |
 | Beyond: The Static | 108901 | [108901-beyond-the-static.json](./108901-beyond-the-static.json) |
+| Beyond: Two Souls - Special Edition | 42998 | [42998-beyond-two-souls-special-edition.json](./42998-beyond-two-souls-special-edition.json) |
 | Beyond.Frontiers | 316733 | [316733-beyond-frontiers.json](./316733-beyond-frontiers.json) |
 | Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
 | BeyondSonic | 330094 | [330094-beyondsonic.json](./330094-beyondsonic.json) |
@@ -9087,11 +9091,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Mobile Battle | 79216 | [79216-blazblue-mobile-battle.json](./79216-blazblue-mobile-battle.json) |
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Battle Cards | 61502 | [61502-blazblue-battle-cards.json](./61502-blazblue-battle-cards.json) |
+| BlazBlue: Calamity Trigger - Limited Edition | 42964 | [42964-blazblue-calamity-trigger-limited-edition.json](./42964-blazblue-calamity-trigger-limited-edition.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
 | BlazBlue: Central Fiction | 11613 | [11613-blazblue-central-fiction.json](./11613-blazblue-central-fiction.json) |
 | BlazBlue: Central Fiction - Limited Edition | 212326 | [212326-blazblue-central-fiction-limited-edition.json](./212326-blazblue-central-fiction-limited-edition.json) |
 | BlazBlue: Central Fiction - Special Edition | 109607 | [109607-blazblue-central-fiction-special-edition.json](./109607-blazblue-central-fiction-special-edition.json) |
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
+| BlazBlue: Chrono Phantasma - Limited Edition | 42963 | [42963-blazblue-chrono-phantasma-limited-edition.json](./42963-blazblue-chrono-phantasma-limited-edition.json) |
 | BlazBlue: Chrono Phantasma Extend | 11612 | [11612-blazblue-chrono-phantasma-extend.json](./11612-blazblue-chrono-phantasma-extend.json) |
 | BlazBlue: Chrono Phantasma Extend - Additional Character Color 1 | 388880 | [388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json](./388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json) |
 | BlazBlue: Clone Phantasma | 64233 | [64233-blazblue-clone-phantasma.json](./64233-blazblue-clone-phantasma.json) |
