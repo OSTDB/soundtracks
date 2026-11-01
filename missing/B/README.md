@@ -898,7 +898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3477,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Frenzy Collection | 328570 | [328570-battle-frenzy-collection.json](./328570-battle-frenzy-collection.json) |
 | Battle Frogs | 63198 | [63198-battle-frogs.json](./63198-battle-frogs.json) |
 | Battle Fuck with Succubi | 82964 | [82964-battle-fuck-with-succubi.json](./82964-battle-fuck-with-succubi.json) |
+| Battle Garegga | 46796 | [46796-battle-garegga.json](./46796-battle-garegga.json) |
 | Battle Garegga Rev.2016 | 26443 | [26443-battle-garegga-rev-2016.json](./26443-battle-garegga-rev-2016.json) |
 | Battle Garegga Rev.2016: Premium Edition | 166996 | [166996-battle-garegga-rev-2016-premium-edition.json](./166996-battle-garegga-rev-2016-premium-edition.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
