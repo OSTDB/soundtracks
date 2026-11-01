@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderDungeon | 219525 | [219525-underdungeon.json](./219525-underdungeon.json) |
 | UnderDungeon + Cyber Protocol | 237570 | [237570-underdungeon-cyber-protocol.json](./237570-underdungeon-cyber-protocol.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
+| UnderEarth | 35066 | [35066-underearth.json](./35066-underearth.json) |
 | Underfang | 399713 | [399713-underfang.json](./399713-underfang.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
 | Underfell: One Hell of a Show | 280946 | [280946-underfell-one-hell-of-a-show.json](./280946-underfell-one-hell-of-a-show.json) |
