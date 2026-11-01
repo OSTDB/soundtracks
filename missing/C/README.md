@@ -6769,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
 | Children of the Spring | 363155 | [363155-children-of-the-spring.json](./363155-children-of-the-spring.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
+| Children of Zodiarcs | 27530 | [27530-children-of-zodiarcs.json](./27530-children-of-zodiarcs.json) |
 | Children of Zodiarcs: Collector's Edition | 51702 | [51702-children-of-zodiarcs-collectors-edition.json](./51702-children-of-zodiarcs-collectors-edition.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles | 162213 | [162213-childrens-jigsaw-puzzles.json](./162213-childrens-jigsaw-puzzles.json) |
@@ -12353,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confabulation: Homestead | 244776 | [244776-confabulation-homestead.json](./244776-confabulation-homestead.json) |
 | Confederate Express | 62730 | [62730-confederate-express.json](./62730-confederate-express.json) |
 | Conference of the Shamblers | 271294 | [271294-conference-of-the-shamblers.json](./271294-conference-of-the-shamblers.json) |
+| Confess My Love | 38789 | [38789-confess-my-love.json](./38789-confess-my-love.json) |
 | Confession Box | 417559 | [417559-confession-box.json](./417559-confession-box.json) |
 | Confession Center | 146633 | [146633-confession-center.json](./146633-confession-center.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
@@ -12431,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
 | Congo: The Movie | 217940 | [217940-congo-the-movie.json](./217940-congo-the-movie.json) |
+| Congo's Caper | 42665 | [42665-congos-caper.json](./42665-congos-caper.json) |
 | Congresswolf | 30797 | [30797-congresswolf.json](./30797-congresswolf.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
@@ -12927,6 +12930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
 | Contra x Castlevania Bundle | 319315 | [319315-contra-x-castlevania-bundle.json](./319315-contra-x-castlevania-bundle.json) |
 | Contra: Hard Corps | 20192 | [20192-contra-hard-corps.json](./20192-contra-hard-corps.json) |
+| Contra: Legacy of War | 45507 | [45507-contra-legacy-of-war.json](./45507-contra-legacy-of-war.json) |
 | Contra: Locked 'N' Loaded | 221066 | [221066-contra-locked-n-loaded.json](./221066-contra-locked-n-loaded.json) |
 | Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
 | Contra: Shattered Soldier | 22226 | [22226-contra-shattered-soldier.json](./22226-contra-shattered-soldier.json) |
@@ -14745,6 +14749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrackSword | 397823 | [397823-cracksword.json](./397823-cracksword.json) |
 | Cracky | 275226 | [275226-cracky.json](./275226-cracky.json) |
 | Cracky Mini | 327354 | [327354-cracky-mini.json](./327354-cracky-mini.json) |
+| Cradle | 11341 | [11341-cradle.json](./11341-cradle.json) |
 | Cradle | 271719 | [271719-cradle.json](./271719-cradle.json) |
 | Cradle of Ash | 419628 | [419628-cradle-of-ash.json](./419628-cradle-of-ash.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
@@ -17185,6 +17190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Remastered Trilogy | 150564 | [150564-crysis-remastered-trilogy.json](./150564-crysis-remastered-trilogy.json) |
 | Crysis Trilogy | 52852 | [52852-crysis-trilogy.json](./52852-crysis-trilogy.json) |
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
+| Crysis Wars | 28034 | [28034-crysis-wars.json](./28034-crysis-wars.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
 | Crysis: Back to Hell | 185893 | [185893-crysis-back-to-hell.json](./185893-crysis-back-to-hell.json) |
 | Crysis: Special Edition | 142670 | [142670-crysis-special-edition.json](./142670-crysis-special-edition.json) |
@@ -18983,6 +18989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybermotion | 51492 | [51492-cybermotion.json](./51492-cybermotion.json) |
 | Cybermycha i więźniowie Drappa | 140925 | [140925-cybermycha-i-wiezniowie-drappa.json](./140925-cybermycha-i-wiezniowie-drappa.json) |
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
+| Cybernator | 28388 | [28388-cybernator.json](./28388-cybernator.json) |
 | CyberNeon | 171753 | [171753-cyberneon.json](./171753-cyberneon.json) |
 | CyberNet Duel | 258525 | [258525-cybernet-duel.json](./258525-cybernet-duel.json) |
 | Cybernetic Empire | 69001 | [69001-cybernetic-empire.json](./69001-cybernetic-empire.json) |
