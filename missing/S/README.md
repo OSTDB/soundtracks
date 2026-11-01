@@ -4763,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
 | Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
+| Seisou no Amazones | 47649 | [47649-seisou-no-amazones.json](./47649-seisou-no-amazones.json) |
 | Seiteki na Ijime Desu ka? Iie, Gohoubi Desu! Gakuen no Idol-tachi ni Niku Vibe Atsukai de Sukikatte Seieki o Shiboritorareru Seikatsu | 59021 | [59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json](./59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json) |
 | Seito Kaichou de Amaenbou na Onee-chan ha Suki Desu ka? | 399191 | [399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json](./399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json) |
 | Seitokai no Ichizon: DS Suru Seitokai | 330008 | [330008-seitokai-no-ichizon-ds-suru-seitokai.json](./330008-seitokai-no-ichizon-ds-suru-seitokai.json) |
@@ -5035,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
 | Senpon | 295998 | [295998-senpon.json](./295998-senpon.json) |
 | Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
+| Senran Kagura 2: Deep Crimson - Double D Edition | 47690 | [47690-senran-kagura-2-deep-crimson-double-d-edition.json](./47690-senran-kagura-2-deep-crimson-double-d-edition.json) |
 | Senran Kagura 7even | 53657 | [53657-senran-kagura-7even.json](./53657-senran-kagura-7even.json) |
 | Senran Kagura Bon Appétit!: Full Course | 26008 | [26008-senran-kagura-bon-appetit-full-course.json](./26008-senran-kagura-bon-appetit-full-course.json) |
 | Senran Kagura Burst | 9915 | [9915-senran-kagura-burst.json](./9915-senran-kagura-burst.json) |
@@ -5063,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sunshine Edition | 136669 | [136669-senran-kagura-peach-beach-splash-sunshine-edition.json](./136669-senran-kagura-peach-beach-splash-sunshine-edition.json) |
 | Senran Kagura: Shinovi Versus | 11536 | [11536-senran-kagura-shinovi-versus.json](./11536-senran-kagura-shinovi-versus.json) |
+| Senran Kagura: Shoujo-tachi no Shinei | 47625 | [47625-senran-kagura-shoujo-tachi-no-shinei.json](./47625-senran-kagura-shoujo-tachi-no-shinei.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Senren Banka | 128513 | [128513-senren-banka.json](./128513-senren-banka.json) |
@@ -7310,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes 2 | 101911 | [101911-sherlock-holmes-2.json](./101911-sherlock-holmes-2.json) |
 | Sherlock Holmes and The Hound of The Baskervilles | 16357 | [16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json](./16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json) |
 | Sherlock Holmes and the Mystery of Osborne House | 47926 | [47926-sherlock-holmes-and-the-mystery-of-osborne-house.json](./47926-sherlock-holmes-and-the-mystery-of-osborne-house.json) |
+| Sherlock Holmes and the Mystery of the Frozen City | 47657 | [47657-sherlock-holmes-and-the-mystery-of-the-frozen-city.json](./47657-sherlock-holmes-and-the-mystery-of-the-frozen-city.json) |
 | Sherlock Holmes Collection | 46440 | [46440-sherlock-holmes-collection.json](./46440-sherlock-holmes-collection.json) |
 | Sherlock Holmes Consulting Detective Complete | 147288 | [147288-sherlock-holmes-consulting-detective-complete.json](./147288-sherlock-holmes-consulting-detective-complete.json) |
 | Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
@@ -12618,6 +12622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo Adventure | 234185 | [234185-slingo-adventure.json](./234185-slingo-adventure.json) |
 | Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
 | Slingo Mystery: Who's Gold | 53617 | [53617-slingo-mystery-whos-gold.json](./53617-slingo-mystery-whos-gold.json) |
+| Slingo Quest | 47712 | [47712-slingo-quest.json](./47712-slingo-quest.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
 | Slingray | 62494 | [62494-slingray.json](./62494-slingray.json) |
@@ -17976,7 +17981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27027,6 +27031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
 | Sudoku Sweeper | 197720 | [197720-sudoku-sweeper.json](./197720-sudoku-sweeper.json) |
+| Sudoku the Puzzle Game Collection | 47689 | [47689-sudoku-the-puzzle-game-collection.json](./47689-sudoku-the-puzzle-game-collection.json) |
 | Sudoku Time | 155355 | [155355-sudoku-time.json](./155355-sudoku-time.json) |
 | Sudoku to 3-Tsu no Puzzle: Nikoli no Puzzle Variety | 222313 | [222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json](./222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json) |
 | Sudoku Topology | 311510 | [311510-sudoku-topology.json](./311510-sudoku-topology.json) |
