@@ -489,12 +489,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Battle: Ganbaride Card Battle Taisen | 61916 | [61916-kamen-rider-battle-ganbaride-card-battle-taisen.json](./61916-kamen-rider-battle-ganbaride-card-battle-taisen.json) |
 | Kamen Rider Black: Hissatsu Rider Kick | 385754 | [385754-kamen-rider-black-hissatsu-rider-kick.json](./385754-kamen-rider-black-hissatsu-rider-kick.json) |
 | Kamen Rider Black: Taiketsu Shadow Moon | 41264 | [41264-kamen-rider-black-taiketsu-shadow-moon.json](./41264-kamen-rider-black-taiketsu-shadow-moon.json) |
+| Kamen Rider Blade | 59003 | [59003-kamen-rider-blade.json](./59003-kamen-rider-blade.json) |
 | Kamen Rider City Wars | 68105 | [68105-kamen-rider-city-wars.json](./68105-kamen-rider-city-wars.json) |
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider Decade | 321523 | [321523-kamen-rider-decade.json](./321523-kamen-rider-decade.json) |
 | Kamen Rider Defense Warriors | 350477 | [350477-kamen-rider-defense-warriors.json](./350477-kamen-rider-defense-warriors.json) |
 | Kamen Rider Ex-Aid x Chariso | 203125 | [203125-kamen-rider-ex-aid-x-chariso.json](./203125-kamen-rider-ex-aid-x-chariso.json) |
 | Kamen Rider Ghost: Game de Kaigan!! | 59464 | [59464-kamen-rider-ghost-game-de-kaigan.json](./59464-kamen-rider-ghost-game-de-kaigan.json) |
+| Kamen Rider Hibiki | 59004 | [59004-kamen-rider-hibiki.json](./59004-kamen-rider-hibiki.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider Ryuki | 44858 | [44858-kamen-rider-ryuki.json](./44858-kamen-rider-ryuki.json) |
@@ -4563,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
 | Kogi | 209824 | [209824-kogi.json](./209824-kogi.json) |
 | Koguma-Chan no Daibouken | 286586 | [286586-koguma-chan-no-daibouken.json](./286586-koguma-chan-no-daibouken.json) |
+| Koguru Guru-guru | 59006 | [59006-koguru-guru-guru.json](./59006-koguru-guru-guru.json) |
 | Koh Lanta: Les Aventuriers | 171285 | [171285-koh-lanta-les-aventuriers.json](./171285-koh-lanta-les-aventuriers.json) |
 | Koh-Lanta | 138080 | [138080-koh-lanta.json](./138080-koh-lanta.json) |
 | Koh-Lanta: Survie Dans La Jungle! | 340586 | [340586-koh-lanta-survie-dans-la-jungle.json](./340586-koh-lanta-survie-dans-la-jungle.json) |
@@ -5832,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokkou no Marriage | 317099 | [317099-kyokkou-no-marriage.json](./317099-kyokkou-no-marriage.json) |
 | Kyokkou no Marriage: Episode Lia | 317100 | [317100-kyokkou-no-marriage-episode-lia.json](./317100-kyokkou-no-marriage-episode-lia.json) |
+| Kyokon Tensei: Onna Dake no Isekai de Himekishi-tachi o Tanetsuke Shihai! Subete no Min ga Niku Onaho Desu. Harami Ana ni Seishi-sama Omegumi Kudasai♪ | 59019 | [59019-kyokon-tensei-onna-dake-no-isekai-de-himekishi-tachi-o-tanetsuke-shihai-subete-no-min-ga-niku-onaho-desu-harami-ana-ni-seishi-sama-omegumi-kudasai.json](./59019-kyokon-tensei-onna-dake-no-isekai-de-himekishi-tachi-o-tanetsuke-shihai-subete-no-min-ga-niku-onaho-desu-harami-ana-ni-seishi-sama-omegumi-kudasai.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyokujitsu ni Kokoro Arawasu | 153685 | [153685-kyokujitsu-ni-kokoro-arawasu.json](./153685-kyokujitsu-ni-kokoro-arawasu.json) |
 | Kyomu | 166420 | [166420-kyomu.json](./166420-kyomu.json) |
