@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Androids Pray: Red | 133024 | [133024-can-androids-pray-red.json](./133024-can-androids-pray-red.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
+| Can Can Bunny | 21404 | [21404-can-can-bunny.json](./21404-can-can-bunny.json) |
 | Can Can Bunny Extra DX | 78570 | [78570-can-can-bunny-extra-dx.json](./78570-can-can-bunny-extra-dx.json) |
 | Can Can Bunny Premiere | 108895 | [108895-can-can-bunny-premiere.json](./108895-can-can-bunny-premiere.json) |
 | Can Can Bunny Spirits | 108894 | [108894-can-can-bunny-spirits.json](./108894-can-can-bunny-spirits.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cesspool | 186096 | [186096-cesspool.json](./186096-cesspool.json) |
 | Cesta bojovníka | 391800 | [391800-cesta-bojovnika.json](./391800-cesta-bojovnika.json) |
 | Cesti to Meigurumi-tachi no Mahou no Bouken: Kisekko Gurumii | 49641 | [49641-cesti-to-meigurumi-tachi-no-mahou-no-bouken-kisekko-gurumii.json](./49641-cesti-to-meigurumi-tachi-no-mahou-no-bouken-kisekko-gurumii.json) |
+| Cestos | 21417 | [21417-cestos.json](./21417-cestos.json) |
 | Ceteris Paribus | 244136 | [244136-ceteris-paribus.json](./244136-ceteris-paribus.json) |
 | Cetetorius | 121965 | [121965-cetetorius.json](./121965-cetetorius.json) |
 | Ceuswark Defenders | 419201 | [419201-ceuswark-defenders.json](./419201-ceuswark-defenders.json) |
@@ -17392,6 +17394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 81499 | [81499-cube.json](./81499-cube.json) |
 | Cube & Seek | 409711 | [409711-cube-and-seek.json](./409711-cube-and-seek.json) |
 | Cube & Star: An Arbitrary Love | 16812 | [16812-cube-and-star-an-arbitrary-love.json](./16812-cube-and-star-an-arbitrary-love.json) |
+| Cube 2: Sauerbraten | 21615 | [21615-cube-2-sauerbraten.json](./21615-cube-2-sauerbraten.json) |
 | Cube 2x1 | 267970 | [267970-cube-2x1.json](./267970-cube-2x1.json) |
 | Cube 2x1 RailFarm | 331994 | [331994-cube-2x1-railfarm.json](./331994-cube-2x1-railfarm.json) |
 | Cube 332 | 109729 | [109729-cube-332.json](./109729-cube-332.json) |
@@ -18552,6 +18555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutting Grass with Nail Clippers: The Game | 366285 | [366285-cutting-grass-with-nail-clippers-the-game.json](./366285-cutting-grass-with-nail-clippers-the-game.json) |
 | Cutting Hedge | 176913 | [176913-cutting-hedge.json](./176913-cutting-hedge.json) |
 | Cuttle | 384341 | [384341-cuttle.json](./384341-cuttle.json) |
+| Cuttle Scuttle | 21995 | [21995-cuttle-scuttle.json](./21995-cuttle-scuttle.json) |
 | Cuttlebone | 395975 | [395975-cuttlebone.json](./395975-cuttlebone.json) |
 | Cuttlefish | 252018 | [252018-cuttlefish.json](./252018-cuttlefish.json) |
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
