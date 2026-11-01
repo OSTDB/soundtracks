@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Mech Fight | 48123 | [48123-joy-mech-fight.json](./48123-joy-mech-fight.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
 | Joy Pony | 54456 | [54456-joy-pony.json](./54456-joy-pony.json) |
+| Joy Ride Turbo | 15859 | [15859-joy-ride-turbo.json](./15859-joy-ride-turbo.json) |
 | Joy Striker | 360705 | [360705-joy-striker.json](./360705-joy-striker.json) |
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
 | Joy-N Help Me | 262775 | [262775-joy-n-help-me.json](./262775-joy-n-help-me.json) |
