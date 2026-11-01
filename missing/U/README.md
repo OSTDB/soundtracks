@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
 | U.S. Championship V'Ball | 39401 | [39401-u-s-championship-vball.json](./39401-u-s-championship-vball.json) |
+| U.S. Classic | 40489 | [40489-u-s-classic.json](./40489-u-s-classic.json) |
 | U.S. Most Wanted: Nowhere to Hide | 73178 | [73178-u-s-most-wanted-nowhere-to-hide.json](./73178-u-s-most-wanted-nowhere-to-hide.json) |
 | U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
 | U.S. Navy Fighters - Marine Fighters | 70463 | [70463-u-s-navy-fighters-marine-fighters.json](./70463-u-s-navy-fighters-marine-fighters.json) |
@@ -766,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Assault | 94564 | [94564-ultra-assault.json](./94564-ultra-assault.json) |
 | Ultra Auto Gotchimon | 285931 | [285931-ultra-auto-gotchimon.json](./285931-ultra-auto-gotchimon.json) |
 | Ultra Baken | 92661 | [92661-ultra-baken.json](./92661-ultra-baken.json) |
+| Ultra Balloon | 40488 | [40488-ultra-balloon.json](./40488-ultra-balloon.json) |
 | Ultra Baseball Jitsumei-ban | 44429 | [44429-ultra-baseball-jitsumei-ban.json](./44429-ultra-baseball-jitsumei-ban.json) |
 | Ultra Baseball Jitsumei-ban 2 | 38235 | [38235-ultra-baseball-jitsumei-ban-2.json](./38235-ultra-baseball-jitsumei-ban-2.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
@@ -869,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Sweeper | 338597 | [338597-ultra-sweeper.json](./338597-ultra-sweeper.json) |
 | Ultra Tank | 39402 | [39402-ultra-tank.json](./39402-ultra-tank.json) |
 | Ultra Thunderball | 187037 | [187037-ultra-thunderball.json](./187037-ultra-thunderball.json) |
+| Ultra Toukon Densetsu | 40486 | [40486-ultra-toukon-densetsu.json](./40486-ultra-toukon-densetsu.json) |
 | Ultra Vertigo | 373032 | [373032-ultra-vertigo.json](./373032-ultra-vertigo.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
@@ -876,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra Vortex | 78986 | [78986-ultra-vortex.json](./78986-ultra-vortex.json) |
 | Ultra Wheels Street Jam | 208761 | [208761-ultra-wheels-street-jam.json](./208761-ultra-wheels-street-jam.json) |
+| Ultra X Weapons | 40520 | [40520-ultra-x-weapons.json](./40520-ultra-x-weapons.json) |
 | Ultra X-Treme Hunting Simulator 2001 | 338595 | [338595-ultra-x-treme-hunting-simulator-2001.json](./338595-ultra-x-treme-hunting-simulator-2001.json) |
 | Ultra Yon-nin Mahjong | 77128 | [77128-ultra-yon-nin-mahjong.json](./77128-ultra-yon-nin-mahjong.json) |
 | Ultra Zultra | 175199 | [175199-ultra-zultra.json](./175199-ultra-zultra.json) |
@@ -921,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Club: Chikyuu Dakkan Sakusen | 41297 | [41297-ultraman-club-chikyuu-dakkan-sakusen.json](./41297-ultraman-club-chikyuu-dakkan-sakusen.json) |
 | Ultraman Club: Kaijuu Daikessen!! | 48558 | [48558-ultraman-club-kaijuu-daikessen.json](./48558-ultraman-club-kaijuu-daikessen.json) |
 | Ultraman Club: Supokon Fight! | 48516 | [48516-ultraman-club-supokon-fight.json](./48516-ultraman-club-supokon-fight.json) |
+| Ultraman Club: Tatakae! Ultraman Kyoudai!! | 40519 | [40519-ultraman-club-tatakae-ultraman-kyoudai.json](./40519-ultraman-club-tatakae-ultraman-kyoudai.json) |
 | Ultraman Club: Teki Kaijuu wo Hakken se yo! | 260082 | [260082-ultraman-club-teki-kaijuu-wo-hakken-se-yo.json](./260082-ultraman-club-teki-kaijuu-wo-hakken-se-yo.json) |
 | Ultraman Club: Ultra Schwatch | 385840 | [385840-ultraman-club-ultra-schwatch.json](./385840-ultraman-club-ultra-schwatch.json) |
 | Ultraman Episode 1: The Taro Adventure | 205987 | [205987-ultraman-episode-1-the-taro-adventure.json](./205987-ultraman-episode-1-the-taro-adventure.json) |
