@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
 | Absolute Skat | 91861 | [91861-absolute-skat.json](./91861-absolute-skat.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
+| Absolute Supercars | 42997 | [42997-absolute-supercars.json](./42997-absolute-supercars.json) |
 | Absolute Tactics: Daughters of Mercy | 151385 | [151385-absolute-tactics-daughters-of-mercy.json](./151385-absolute-tactics-daughters-of-mercy.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
 | Absolute Tennis Manager 2 | 379082 | [379082-absolute-tennis-manager-2.json](./379082-absolute-tennis-manager-2.json) |
@@ -4118,6 +4119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agarest Senki Zero: Dawn of War | 66468 | [66468-agarest-senki-zero-dawn-of-war.json](./66468-agarest-senki-zero-dawn-of-war.json) |
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
 | Agarest: Generations of War 2 | 17620 | [17620-agarest-generations-of-war-2.json](./17620-agarest-generations-of-war-2.json) |
+| Agarest: Generations of War 2 - Collector's Edition | 42991 | [42991-agarest-generations-of-war-2-collectors-edition.json](./42991-agarest-generations-of-war-2-collectors-edition.json) |
+| Agarest: Generations of War Zero - Collector's Edition | 42990 | [42990-agarest-generations-of-war-zero-collectors-edition.json](./42990-agarest-generations-of-war-zero-collectors-edition.json) |
 | AgarIO Hub Rebirth | 329413 | [329413-agario-hub-rebirth.json](./329413-agario-hub-rebirth.json) |
 | Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
 | Agartha | 82627 | [82627-agartha.json](./82627-agartha.json) |
@@ -13935,6 +13938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: Tyranny of King Washington - The Betrayal | 302628 | [302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json](./302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json) |
 | Assassin's Creed III: Tyranny of King Washington - The Redemption | 302629 | [302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json](./302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json) |
 | Assassin's Creed III: Ultimate Edition | 99952 | [99952-assassins-creed-iii-ultimate-edition.json](./99952-assassins-creed-iii-ultimate-edition.json) |
+| Assassin's Creed III: Washington Edition | 42983 | [42983-assassins-creed-iii-washington-edition.json](./42983-assassins-creed-iii-washington-edition.json) |
 | Assassin's Creed Infinity | 154791 | [154791-assassins-creed-infinity.json](./154791-assassins-creed-infinity.json) |
 | Assassin's Creed IV Black Flag + Assassin's Creed Rogue Double Pack | 167003 | [167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json](./167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
@@ -14025,6 +14029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Codename Invictus | 288321 | [288321-assassins-creed-codename-invictus.json](./288321-assassins-creed-codename-invictus.json) |
 | Assassin's Creed: Ezio Trilogy | 22754 | [22754-assassins-creed-ezio-trilogy.json](./22754-assassins-creed-ezio-trilogy.json) |
 | Assassin's Creed: Freedom Cry | 3775 | [3775-assassins-creed-freedom-cry.json](./3775-assassins-creed-freedom-cry.json) |
+| Assassin's Creed: Heritage Collection | 43015 | [43015-assassins-creed-heritage-collection.json](./43015-assassins-creed-heritage-collection.json) |
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
 | Assassin's Creed: Limited Edition | 118124 | [118124-assassins-creed-limited-edition.json](./118124-assassins-creed-limited-edition.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
