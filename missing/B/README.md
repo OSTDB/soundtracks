@@ -882,7 +882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5341,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
 | Bedtime: Turn Off the Life | 298614 | [298614-bedtime-turn-off-the-life.json](./298614-bedtime-turn-off-the-life.json) |
 | Bee | 78084 | [78084-bee.json](./78084-bee.json) |
+| Bee & Flower | 41691 | [41691-bee-and-flower.json](./41691-bee-and-flower.json) |
 | Bee 52 | 48106 | [48106-bee-52.json](./48106-bee-52.json) |
 | Bee Eliminator | 247066 | [247066-bee-eliminator.json](./247066-bee-eliminator.json) |
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
