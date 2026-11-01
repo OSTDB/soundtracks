@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enfynyty | 339752 | [339752-enfynyty.json](./339752-enfynyty.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | EnGaCho: Dreamy Butterfly | 290781 | [290781-engacho-dreamy-butterfly.json](./290781-engacho-dreamy-butterfly.json) |
+| Engacho! | 37513 | [37513-engacho.json](./37513-engacho.json) |
 | Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
 | Engage | 300460 | [300460-engage.json](./300460-engage.json) |
 | Engage Kill | 242131 | [242131-engage-kill.json](./242131-engage-kill.json) |
