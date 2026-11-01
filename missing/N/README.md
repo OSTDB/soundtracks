@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Collection | 220253 | [220253-naruto-ultimate-collection.json](./220253-naruto-ultimate-collection.json) |
 | Naruto: Ultimate Duel | 174605 | [174605-naruto-ultimate-duel.json](./174605-naruto-ultimate-duel.json) |
 | Naruto: Ultimate Ninja | 18386 | [18386-naruto-ultimate-ninja.json](./18386-naruto-ultimate-ninja.json) |
+| Naruto: Ultimate Ninja 2 | 19621 | [19621-naruto-ultimate-ninja-2.json](./19621-naruto-ultimate-ninja-2.json) |
 | Naruto: Ultimate Ninja 3 | 19626 | [19626-naruto-ultimate-ninja-3.json](./19626-naruto-ultimate-ninja-3.json) |
 | Naruto: Ultimate Ninja Heroes | 24281 | [24281-naruto-ultimate-ninja-heroes.json](./24281-naruto-ultimate-ninja-heroes.json) |
 | Naruto: Ultimate Ninja Heroes 2 - The Phantom Fortress | 19660 | [19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json](./19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json) |
@@ -3538,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 12 | 952 | [952-nhl-12.json](./952-nhl-12.json) |
 | NHL 14 | 3003 | [3003-nhl-14.json](./3003-nhl-14.json) |
 | NHL 16 | 11075 | [11075-nhl-16.json](./11075-nhl-16.json) |
+| NHL 17 | 19464 | [19464-nhl-17.json](./19464-nhl-17.json) |
 | NHL 17: Deluxe Edition | 173114 | [173114-nhl-17-deluxe-edition.json](./173114-nhl-17-deluxe-edition.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 18: Young Stars Deluxe Edition | 85253 | [85253-nhl-18-young-stars-deluxe-edition.json](./85253-nhl-18-young-stars-deluxe-edition.json) |
