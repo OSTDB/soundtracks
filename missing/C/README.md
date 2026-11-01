@@ -4756,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Kingdom | 313407 | [313407-celestial-kingdom.json](./313407-celestial-kingdom.json) |
 | Celestial Links | 186251 | [186251-celestial-links.json](./186251-celestial-links.json) |
 | Celestial Lumina | 391241 | [391241-celestial-lumina.json](./391241-celestial-lumina.json) |
+| Celestial Mechanica | 25351 | [25351-celestial-mechanica.json](./25351-celestial-mechanica.json) |
 | Celestial Orbiter Auranova: Those Who Denounce God | 325643 | [325643-celestial-orbiter-auranova-those-who-denounce-god.json](./325643-celestial-orbiter-auranova-those-who-denounce-god.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
 | Celestial Raider | 243588 | [243588-celestial-raider.json](./243588-celestial-raider.json) |
@@ -15054,6 +15055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crategun | 176840 | [176840-crategun.json](./176840-crategun.json) |
 | CrateMage | 310103 | [310103-cratemage.json](./310103-cratemage.json) |
 | Crater Maker | 62079 | [62079-crater-maker.json](./62079-crater-maker.json) |
+| Crater Raider | 25356 | [25356-crater-raider.json](./25356-crater-raider.json) |
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
@@ -16111,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
 | Critical Gravity | 89088 | [89088-critical-gravity.json](./89088-critical-gravity.json) |
 | Critical Mass | 13534 | [13534-critical-mass.json](./13534-critical-mass.json) |
+| Critical Mass | 25354 | [25354-critical-mass.json](./25354-critical-mass.json) |
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
 | Critical Ops | 28896 | [28896-critical-ops.json](./28896-critical-ops.json) |
 | Critical Ops: Dead Zone | 372739 | [372739-critical-ops-dead-zone.json](./372739-critical-ops-dead-zone.json) |
@@ -19070,6 +19073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CycloManiacs 2 | 234696 | [234696-cyclomaniacs-2.json](./234696-cyclomaniacs-2.json) |
 | CycloManiacs Epic | 234698 | [234698-cyclomaniacs-epic.json](./234698-cyclomaniacs-epic.json) |
 | Cyclomaniacs Racers | 409354 | [409354-cyclomaniacs-racers.json](./409354-cyclomaniacs-racers.json) |
+| Cyclon | 25355 | [25355-cyclon.json](./25355-cyclon.json) |
 | Cyclone | 133830 | [133830-cyclone.json](./133830-cyclone.json) |
 | Cyclone | 197556 | [197556-cyclone.json](./197556-cyclone.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
