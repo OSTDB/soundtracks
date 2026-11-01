@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
 | Quake II Mission Pack: The Reckoning | 15620 | [15620-quake-ii-mission-pack-the-reckoning.json](./15620-quake-ii-mission-pack-the-reckoning.json) |
 | Quake II Netpack I: Extremities | 144613 | [144613-quake-ii-netpack-i-extremities.json](./144613-quake-ii-netpack-i-extremities.json) |
+| Quake II RTX | 119455 | [119455-quake-ii-rtx.json](./119455-quake-ii-rtx.json) |
 | Quake II: Call of the Machine | 261119 | [261119-quake-ii-call-of-the-machine.json](./261119-quake-ii-call-of-the-machine.json) |
 | Quake II: Colossus | 200673 | [200673-quake-ii-colossus.json](./200673-quake-ii-colossus.json) |
 | Quake II: Quad Damage | 46628 | [46628-quake-ii-quad-damage.json](./46628-quake-ii-quad-damage.json) |
