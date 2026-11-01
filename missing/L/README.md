@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lampyridae Matsuri | 185594 | [185594-lampyridae-matsuri.json](./185594-lampyridae-matsuri.json) |
 | Lamu | 295496 | [295496-lamu.json](./295496-lamu.json) |
 | Lamunation!: International | 116729 | [116729-lamunation-international.json](./116729-lamunation-international.json) |
+| Lan Master | 48376 | [48376-lan-master.json](./48376-lan-master.json) |
 | LAN Party Adventures | 336157 | [336157-lan-party-adventures.json](./336157-lan-party-adventures.json) |
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
 | Lana and the Milking Table | 238534 | [238534-lana-and-the-milking-table.json](./238534-lana-and-the-milking-table.json) |
