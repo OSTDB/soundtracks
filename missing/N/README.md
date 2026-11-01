@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nafanya the Poltergeist | 277759 | [277759-nafanya-the-poltergeist.json](./277759-nafanya-the-poltergeist.json) |
 | Nafuda Sagashi: Identity Lost | 404807 | [404807-nafuda-sagashi-identity-lost.json](./404807-nafuda-sagashi-identity-lost.json) |
 | Naga Girls | 271611 | [271611-naga-girls.json](./271611-naga-girls.json) |
+| Nagagutsu wo Haita Neko: Sekai Isshuu 80-nichi Daibouken | 48416 | [48416-nagagutsu-wo-haita-neko-sekai-isshuu-80-nichi-daibouken.json](./48416-nagagutsu-wo-haita-neko-sekai-isshuu-80-nichi-daibouken.json) |
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
 | Nagamaki Grind | 180689 | [180689-nagamaki-grind.json](./180689-nagamaki-grind.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakayoshi Pet Series 3: Kawaii Koinu | 130615 | [130615-nakayoshi-pet-series-3-kawaii-koinu.json](./130615-nakayoshi-pet-series-3-kawaii-koinu.json) |
 | Nakayoshi Pet Series 4: Kawaii Koneko | 130614 | [130614-nakayoshi-pet-series-4-kawaii-koneko.json](./130614-nakayoshi-pet-series-4-kawaii-koneko.json) |
 | Nakayoshi Pet Series 5: Kawaii Hamster 2 | 282468 | [282468-nakayoshi-pet-series-5-kawaii-hamster-2.json](./282468-nakayoshi-pet-series-5-kawaii-hamster-2.json) |
+| Nakayoshi to Issho | 48415 | [48415-nakayoshi-to-issho.json](./48415-nakayoshi-to-issho.json) |
 | Nakayoshi Youchien | 49753 | [49753-nakayoshi-youchien.json](./49753-nakayoshi-youchien.json) |
 | Naked Adventure | 380170 | [380170-naked-adventure.json](./380170-naked-adventure.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
@@ -215,9 +217,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
 | Namco Arcade | 25183 | [25183-namco-arcade.json](./25183-namco-arcade.json) |
 | Namco Classic | 239158 | [239158-namco-classic.json](./239158-namco-classic.json) |
+| Namco Classic | 48414 | [48414-namco-classic.json](./48414-namco-classic.json) |
 | Namco Classic Collection Vol. 1 | 72575 | [72575-namco-classic-collection-vol-1.json](./72575-namco-classic-collection-vol-1.json) |
 | Namco Classic Collection Vol. 2 | 56389 | [56389-namco-classic-collection-vol-2.json](./56389-namco-classic-collection-vol-2.json) |
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
+| Namco Classic II | 48413 | [48413-namco-classic-ii.json](./48413-namco-classic-ii.json) |
 | Namco classics volume 1 | 37331 | [37331-namco-classics-volume-1.json](./37331-namco-classics-volume-1.json) |
 | Namco classics volume 2 | 37328 | [37328-namco-classics-volume-2.json](./37328-namco-classics-volume-2.json) |
 | Namco Collection Vol. 1 | 220251 | [220251-namco-collection-vol-1.json](./220251-namco-collection-vol-1.json) |
@@ -486,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon in Russia | 107539 | [107539-napoleon-in-russia.json](./107539-napoleon-in-russia.json) |
 | Napoleon In Russia: Borodino 1812 | 73438 | [73438-napoleon-in-russia-borodino-1812.json](./73438-napoleon-in-russia-borodino-1812.json) |
 | Napoleon Maiden | 150964 | [150964-napoleon-maiden.json](./150964-napoleon-maiden.json) |
+| Napoleon Senki | 48412 | [48412-napoleon-senki.json](./48412-napoleon-senki.json) |
 | Napoleon Solitaire | 132169 | [132169-napoleon-solitaire.json](./132169-napoleon-solitaire.json) |
 | Napoleon: Rule of Iron | 358985 | [358985-napoleon-rule-of-iron.json](./358985-napoleon-rule-of-iron.json) |
 | Napoleon: Total War - Coalition Battle Pack | 82108 | [82108-napoleon-total-war-coalition-battle-pack.json](./82108-napoleon-total-war-coalition-battle-pack.json) |
@@ -1060,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navitune: Dragon Koukaigi | 400944 | [400944-navitune-dragon-koukaigi.json](./400944-navitune-dragon-koukaigi.json) |
 | Navitune: Dragon Koukaigi | 400945 | [400945-navitune-dragon-koukaigi.json](./400945-navitune-dragon-koukaigi.json) |
 | Navitune: Dragon Koukaigi | 400947 | [400947-navitune-dragon-koukaigi.json](./400947-navitune-dragon-koukaigi.json) |
+| Navy Blue | 48411 | [48411-navy-blue.json](./48411-navy-blue.json) |
 | Navy Blue 90 | 353629 | [353629-navy-blue-90.json](./353629-navy-blue-90.json) |
 | Navy challenge | 326137 | [326137-navy-challenge.json](./326137-navy-challenge.json) |
 | Navy Commander | 85305 | [85305-navy-commander.json](./85305-navy-commander.json) |
@@ -2551,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NES Remix Pack | 51151 | [51151-nes-remix-pack.json](./51151-nes-remix-pack.json) |
 | NES-Retku: The Game | 7568 | [7568-nes-retku-the-game.json](./7568-nes-retku-the-game.json) |
 | NESert Golfing | 251712 | [251712-nesert-golfing.json](./251712-nesert-golfing.json) |
+| NeSnake 2 | 48374 | [48374-nesnake-2.json](./48374-nesnake-2.json) |
 | Nesquik Quest | 332631 | [332631-nesquik-quest.json](./332631-nesquik-quest.json) |
 | Nessa no Hoshi | 123585 | [123585-nessa-no-hoshi.json](./123585-nessa-no-hoshi.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
@@ -3567,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHL Supercard | 21625 | [21625-nhl-supercard.json](./21625-nhl-supercard.json) |
+| NHL: 19 Legends Edition | 48400 | [48400-nhl-19-legends-edition.json](./48400-nhl-19-legends-edition.json) |
 | NHL: Legacy Edition | 36848 | [36848-nhl-legacy-edition.json](./36848-nhl-legacy-edition.json) |
 | NHLPA Hockey 93 | 42479 | [42479-nhlpa-hockey-93.json](./42479-nhlpa-hockey-93.json) |
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
@@ -4405,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niizuma ha Tifa | 83385 | [83385-niizuma-ha-tifa.json](./83385-niizuma-ha-tifa.json) |
 | Niizuma wa Mahou Shoujo | 77902 | [77902-niizuma-wa-mahou-shoujo.json](./77902-niizuma-wa-mahou-shoujo.json) |
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
+| Niji no Silkroad | 48409 | [48409-niji-no-silkroad.json](./48409-niji-no-silkroad.json) |
 | Niji Pop | 399648 | [399648-niji-pop.json](./399648-niji-pop.json) |
 | Niji Protocol | 384710 | [384710-niji-protocol.json](./384710-niji-protocol.json) |
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
@@ -4871,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjaman | 324845 | [324845-ninjaman.json](./324845-ninjaman.json) |
 | Ninjamurai | 44521 | [44521-ninjamurai.json](./44521-ninjamurai.json) |
 | Ninjapple | 129666 | [129666-ninjapple.json](./129666-ninjapple.json) |
+| Ninjara Hoi! | 48407 | [48407-ninjara-hoi.json](./48407-ninjara-hoi.json) |
 | Ninjas Busters: Whack A Ninja | 149712 | [149712-ninjas-busters-whack-a-ninja.json](./149712-ninjas-busters-whack-a-ninja.json) |
 | Ninjas in the Dungeon | 235658 | [235658-ninjas-in-the-dungeon.json](./235658-ninjas-in-the-dungeon.json) |
 | Ninjas Infinity | 339842 | [339842-ninjas-infinity.json](./339842-ninjas-infinity.json) |
