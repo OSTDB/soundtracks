@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger is Near | 247923 | [247923-danger-is-near.json](./247923-danger-is-near.json) |
 | Danger Mouse in Double Trouble | 13569 | [13569-danger-mouse-in-double-trouble.json](./13569-danger-mouse-in-double-trouble.json) |
 | Danger Mouse in Making Whoopee! | 13570 | [13570-danger-mouse-in-making-whoopee.json](./13570-danger-mouse-in-making-whoopee.json) |
+| Danger Mouse in the Black Forest Chateau | 14025 | [14025-danger-mouse-in-the-black-forest-chateau.json](./14025-danger-mouse-in-the-black-forest-chateau.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
 | Danger Quest! Puzzle Adventure | 96591 | [96591-danger-quest-puzzle-adventure.json](./96591-danger-quest-puzzle-adventure.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Elf Historia | 69505 | [69505-dark-elf-historia.json](./69505-dark-elf-historia.json) |
 | Dark Elves Escape | 315604 | [315604-dark-elves-escape.json](./315604-dark-elves-escape.json) |
 | Dark Elves Escape 2 | 315606 | [315606-dark-elves-escape-2.json](./315606-dark-elves-escape-2.json) |
+| Dark Empire | 14026 | [14026-dark-empire.json](./14026-dark-empire.json) |
 | Dark Empire | 83872 | [83872-dark-empire.json](./83872-dark-empire.json) |
 | Dark Energy | 285001 | [285001-dark-energy.json](./285001-dark-energy.json) |
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
@@ -4072,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
 | Death Becomes You | 153884 | [153884-death-becomes-you.json](./153884-death-becomes-you.json) |
 | Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
+| Death Before Dishonour | 14027 | [14027-death-before-dishonour.json](./14027-death-before-dishonour.json) |
 | Death Below | 212744 | [212744-death-below.json](./212744-death-below.json) |
 | Death Bind | 207782 | [207782-death-bind.json](./207782-death-bind.json) |
 | Death Blade | 170338 | [170338-death-blade.json](./170338-death-blade.json) |
@@ -6201,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengenki Days | 287358 | [287358-dengenki-days.json](./287358-dengenki-days.json) |
 | Denis McCrane's Ski Jumping Challenge: Sarajevo 1983 | 413858 | [413858-denis-mccranes-ski-jumping-challenge-sarajevo-1983.json](./413858-denis-mccranes-ski-jumping-challenge-sarajevo-1983.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
+| Denizen | 14028 | [14028-denizen.json](./14028-denizen.json) |
 | Denizen | 227193 | [227193-denizen.json](./227193-denizen.json) |
 | Denizen's Den | 65382 | [65382-denizens-den.json](./65382-denizens-den.json) |
 | Denjarasu Jii-san Jya | 85082 | [85082-denjarasu-jii-san-jya.json](./85082-denjarasu-jii-san-jya.json) |
@@ -6595,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert attack | 163878 | [163878-desert-attack.json](./163878-desert-attack.json) |
 | Desert Blossom | 201405 | [201405-desert-blossom.json](./201405-desert-blossom.json) |
 | Desert Breaker | 39862 | [39862-desert-breaker.json](./39862-desert-breaker.json) |
+| Desert Burner | 14029 | [14029-desert-burner.json](./14029-desert-burner.json) |
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
 | Desert Bus | 25792 | [25792-desert-bus.json](./25792-desert-bus.json) |
 | Desert Bus | 277307 | [277307-desert-bus.json](./277307-desert-bus.json) |
@@ -7388,6 +7393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devi: A light in the Dark | 211523 | [211523-devi-a-light-in-the-dark.json](./211523-devi-a-light-in-the-dark.json) |
 | Deviant Anomalies | 240956 | [240956-deviant-anomalies.json](./240956-deviant-anomalies.json) |
 | Deviant Dungeon | 127931 | [127931-deviant-dungeon.json](./127931-deviant-dungeon.json) |
+| Deviants | 14030 | [14030-deviants.json](./14030-deviants.json) |
 | Deviation from Way | 190025 | [190025-deviation-from-way.json](./190025-deviation-from-way.json) |
 | Deviator | 275746 | [275746-deviator.json](./275746-deviator.json) |
 | Device | 150165 | [150165-device.json](./150165-device.json) |
@@ -7408,6 +7414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
+| Devil Diver | 14031 | [14031-devil-diver.json](./14031-devil-diver.json) |
 | Devil Drive Polaris | 412774 | [412774-devil-drive-polaris.json](./412774-devil-drive-polaris.json) |
 | Devil Dumper Doris | 244918 | [244918-devil-dumper-doris.json](./244918-devil-dumper-doris.json) |
 | Devil Eater | 38506 | [38506-devil-eater.json](./38506-devil-eater.json) |
@@ -7821,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
 | Diamond Sword, Wooden Sword | 321300 | [321300-diamond-sword-wooden-sword.json](./321300-diamond-sword-wooden-sword.json) |
 | Diamond Thief | 371300 | [371300-diamond-thief.json](./371300-diamond-thief.json) |
+| Diamond Trail | 14032 | [14032-diamond-trail.json](./14032-diamond-trail.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
 | Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
 | DiamondFalls | 68578 | [68578-diamondfalls.json](./68578-diamondfalls.json) |
@@ -8340,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger | 24425 | [24425-digger.json](./24425-digger.json) |
 | Digger Chan | 79147 | [79147-digger-chan.json](./79147-digger-chan.json) |
+| Digger Dan | 14033 | [14033-digger-dan.json](./14033-digger-dan.json) |
 | Digger Dan & Kaboom | 58664 | [58664-digger-dan-and-kaboom.json](./58664-digger-dan-and-kaboom.json) |
 | Digger Dan DX | 47662 | [47662-digger-dan-dx.json](./47662-digger-dan-dx.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
@@ -9144,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
 | Dirt Showdown | 7966 | [7966-dirt-showdown.json](./7966-dirt-showdown.json) |
 | Dirt Track Go Karting! | 217661 | [217661-dirt-track-go-karting.json](./217661-dirt-track-go-karting.json) |
+| Dirt Track Racer | 14034 | [14034-dirt-track-racer.json](./14034-dirt-track-racer.json) |
 | Dirt Track Racing | 73269 | [73269-dirt-track-racing.json](./73269-dirt-track-racing.json) |
 | Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
 | Dirt Track Racing Pinball | 257310 | [257310-dirt-track-racing-pinball.json](./257310-dirt-track-racing-pinball.json) |
@@ -9329,6 +9339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
 | Disco Cannon Airlines | 194389 | [194389-disco-cannon-airlines.json](./194389-disco-cannon-airlines.json) |
+| Disco Dan | 14035 | [14035-disco-dan.json](./14035-disco-dan.json) |
 | Disco Dating | 184329 | [184329-disco-dating.json](./184329-disco-dating.json) |
 | Disco Dave | 245257 | [245257-disco-dave.json](./245257-disco-dave.json) |
 | Disco Destruction | 51423 | [51423-disco-destruction.json](./51423-disco-destruction.json) |
@@ -9404,6 +9415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discrepant | 32815 | [32815-discrepant.json](./32815-discrepant.json) |
 | Discrete Heart | 285536 | [285536-discrete-heart.json](./285536-discrete-heart.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
+| Discs of Death | 14036 | [14036-discs-of-death.json](./14036-discs-of-death.json) |
 | Discs of Steel Party | 110718 | [110718-discs-of-steel-party.json](./110718-discs-of-steel-party.json) |
 | Discs of Tron | 21817 | [21817-discs-of-tron.json](./21817-discs-of-tron.json) |
 | Discsphere | 135026 | [135026-discsphere.json](./135026-discsphere.json) |
@@ -12931,6 +12943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Trench | 169269 | [169269-down-the-trench.json](./169269-down-the-trench.json) |
 | Down the World: Mervil's Ambition | 42513 | [42513-down-the-world-mervils-ambition.json](./42513-down-the-world-mervils-ambition.json) |
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
+| Down to Earth | 14039 | [14039-down-to-earth.json](./14039-down-to-earth.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
 | Down Under | 314617 | [314617-down-under.json](./314617-down-under.json) |
 | Down Ward | 126429 | [126429-down-ward.json](./126429-down-ward.json) |
@@ -13230,6 +13243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
 | Draconius GO | 74900 | [74900-draconius-go.json](./74900-draconius-go.json) |
 | Draconius GO: Catch a Dragon! | 98170 | [98170-draconius-go-catch-a-dragon.json](./98170-draconius-go-catch-a-dragon.json) |
+| Draconus | 14040 | [14040-draconus.json](./14040-draconus.json) |
 | Draconus: Cult of the Wyrm | 9189 | [9189-draconus-cult-of-the-wyrm.json](./9189-draconus-cult-of-the-wyrm.json) |
 | Dracoslayer | 273501 | [273501-dracoslayer.json](./273501-dracoslayer.json) |
 | Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
