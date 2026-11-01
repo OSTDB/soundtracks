@@ -882,7 +882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1899,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
 | Bang Bang Bang! | 31427 | [31427-bang-bang-bang.json](./31427-bang-bang-bang.json) |
 | Bang Bang Barrage | 313190 | [313190-bang-bang-barrage.json](./313190-bang-bang-barrage.json) |
+| Bang Bang Car | 29466 | [29466-bang-bang-car.json](./29466-bang-bang-car.json) |
 | Bang Bang Fruit | 29557 | [29557-bang-bang-fruit.json](./29557-bang-bang-fruit.json) |
 | Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
 | Bang Bang Fruit 3 | 105661 | [105661-bang-bang-fruit-3.json](./105661-bang-bang-fruit-3.json) |
@@ -15368,6 +15368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
 | Buccaneers | 247389 | [247389-buccaneers.json](./247389-buccaneers.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
+| Buccaneers, Bounty & Boom! | 29390 | [29390-buccaneers-bounty-and-boom.json](./29390-buccaneers-bounty-and-boom.json) |
 | Buccaneers! | 125132 | [125132-buccaneers.json](./125132-buccaneers.json) |
 | Buccaneers! The New Age of Piracy | 192209 | [192209-buccaneers-the-new-age-of-piracy.json](./192209-buccaneers-the-new-age-of-piracy.json) |
 | Buccanyar | 245661 | [245661-buccanyar.json](./245661-buccanyar.json) |
