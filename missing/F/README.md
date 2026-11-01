@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story: Shirogane no Tsubasa | 79121 | [79121-farland-story-shirogane-no-tsubasa.json](./79121-farland-story-shirogane-no-tsubasa.json) |
 | Farland Story: Tenshi no Namida | 69694 | [69694-farland-story-tenshi-no-namida.json](./69694-farland-story-tenshi-no-namida.json) |
 | Farland Story: The Four Seal | 70758 | [70758-farland-story-the-four-seal.json](./70758-farland-story-the-four-seal.json) |
+| Farland Symphony | 61935 | [61935-farland-symphony.json](./61935-farland-symphony.json) |
 | Farlanders | 144018 | [144018-farlanders.json](./144018-farlanders.json) |
 | Farlands | 236859 | [236859-farlands.json](./236859-farlands.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
@@ -6717,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Alien | 311232 | [311232-flappy-alien.json](./311232-flappy-alien.json) |
 | Flappy Arms | 81698 | [81698-flappy-arms.json](./81698-flappy-arms.json) |
 | Flappy Ball | 228271 | [228271-flappy-ball.json](./228271-flappy-ball.json) |
+| Flappy Bastion | 61851 | [61851-flappy-bastion.json](./61851-flappy-bastion.json) |
 | Flappy Bat | 156970 | [156970-flappy-bat.json](./156970-flappy-bat.json) |
 | Flappy Bat 2 | 219406 | [219406-flappy-bat-2.json](./219406-flappy-bat-2.json) |
 | Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
@@ -12761,6 +12763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Card Buddyfight: Yuujou no Bakunetsu Fight! | 222457 | [222457-future-card-buddyfight-yuujou-no-bakunetsu-fight.json](./222457-future-card-buddyfight-yuujou-no-bakunetsu-fight.json) |
 | Future Cat Sailor | 298814 | [298814-future-cat-sailor.json](./298814-future-cat-sailor.json) |
 | Future City Coaster | 93753 | [93753-future-city-coaster.json](./93753-future-city-coaster.json) |
+| Future Classics: 1986 Edition | 61840 | [61840-future-classics-1986-edition.json](./61840-future-classics-1986-edition.json) |
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
