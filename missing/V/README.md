@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venom Strikes Back | 39124 | [39124-venom-strikes-back.json](./39124-venom-strikes-back.json) |
 | Venom Strikes Back | 47181 | [47181-venom-strikes-back.json](./47181-venom-strikes-back.json) |
 | Venom Vendetta | 296043 | [296043-venom-vendetta.json](./296043-venom-vendetta.json) |
+| Venom/Spider-Man: Separation Anxiety | 46182 | [46182-venom-spider-man-separation-anxiety.json](./46182-venom-spider-man-separation-anxiety.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
 | Vent Match: Tile Zen World | 223890 | [223890-vent-match-tile-zen-world.json](./223890-vent-match-tile-zen-world.json) |
