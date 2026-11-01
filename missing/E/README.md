@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ELbab | 380791 | [380791-elbab.json](./380791-elbab.json) |
 | Elbe | 362582 | [362582-elbe.json](./362582-elbe.json) |
 | ElbmarKs | 197153 | [197153-elbmarks.json](./197153-elbmarks.json) |
+| Elbow Room | 60290 | [60290-elbow-room.json](./60290-elbow-room.json) |
 | ElChronicle | 130635 | [130635-elchronicle.json](./130635-elchronicle.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
