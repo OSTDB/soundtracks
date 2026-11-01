@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
 | Rail Walkers | 197174 | [197174-rail-walkers.json](./197174-rail-walkers.json) |
 | Rail Wars! | 86197 | [86197-rail-wars.json](./86197-rail-wars.json) |
+| Rail Wars! Karuizawa Yori Satsui wo Nosete | 11791 | [11791-rail-wars-karuizawa-yori-satsui-wo-nosete.json](./11791-rail-wars-karuizawa-yori-satsui-wo-nosete.json) |
 | Rail&Write | 184416 | [184416-rail-and-write.json](./184416-rail-and-write.json) |
 | Railborn | 348300 | [348300-railborn.json](./348300-railborn.json) |
 | Railbreak | 272195 | [272195-railbreak.json](./272195-railbreak.json) |
