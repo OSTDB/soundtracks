@@ -4497,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Football | 69535 | [69535-international-football.json](./69535-international-football.json) |
 | International Golf Pro | 43446 | [43446-international-golf-pro.json](./43446-international-golf-pro.json) |
 | International Hockey | 94629 | [94629-international-hockey.json](./94629-international-hockey.json) |
+| International Jetpack Conference | 60723 | [60723-international-jetpack-conference.json](./60723-international-jetpack-conference.json) |
 | International Karate 2000 | 24164 | [24164-international-karate-2000.json](./24164-international-karate-2000.json) |
 | International Karate Advanced | 49292 | [49292-international-karate-advanced.json](./49292-international-karate-advanced.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
@@ -5132,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IOSoccer | 82994 | [82994-iosoccer.json](./82994-iosoccer.json) |
 | Iota | 132431 | [132431-iota.json](./132431-iota.json) |
 | IOUA | 233888 | [233888-ioua.json](./233888-ioua.json) |
+| Iowa | 60745 | [60745-iowa.json](./60745-iowa.json) |
 | IOX | 127542 | [127542-iox.json](./127542-iox.json) |
 | Ipad Baby | 282808 | [282808-ipad-baby.json](./282808-ipad-baby.json) |
 | iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
