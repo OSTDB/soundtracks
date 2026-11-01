@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Off 2: The Final Whistle | 71966 | [71966-kick-off-2-the-final-whistle.json](./71966-kick-off-2-the-final-whistle.json) |
 | Kick Off 2002 | 71996 | [71996-kick-off-2002.json](./71996-kick-off-2002.json) |
 | Kick Off 3 | 18938 | [18938-kick-off-3.json](./18938-kick-off-3.json) |
+| Kick Off 3: European Challenge | 45708 | [45708-kick-off-3-european-challenge.json](./45708-kick-off-3-european-challenge.json) |
 | Kick Off 96 | 94330 | [94330-kick-off-96.json](./94330-kick-off-96.json) |
 | Kick Off 97 | 94954 | [94954-kick-off-97.json](./94954-kick-off-97.json) |
 | Kick Off World | 71879 | [71879-kick-off-world.json](./71879-kick-off-world.json) |
