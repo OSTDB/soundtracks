@@ -7436,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
 | Extensor | 85951 | [85951-extensor.json](./85951-extensor.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
+| Exterlien | 41690 | [41690-exterlien.json](./41690-exterlien.json) |
 | ExtermiHate | 253954 | [253954-extermihate.json](./253954-extermihate.json) |
 | Exterminate | 78505 | [78505-exterminate.json](./78505-exterminate.json) |
 | Exterminate the world | 93751 | [93751-exterminate-the-world.json](./93751-exterminate-the-world.json) |
