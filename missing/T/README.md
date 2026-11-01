@@ -6415,6 +6415,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bunnyman | 263442 | [263442-the-bunnyman.json](./263442-the-bunnyman.json) |
 | The Bureau of Fantastical & Arcane Affairs | 347886 | [347886-the-bureau-of-fantastical-and-arcane-affairs.json](./347886-the-bureau-of-fantastical-and-arcane-affairs.json) |
 | The Bureau: XCOM Declassified | 244 | [244-the-bureau-xcom-declassified.json](./244-the-bureau-xcom-declassified.json) |
+| The Bureau: XCOM Declassified - Codebreakers | 10342 | [10342-the-bureau-xcom-declassified-codebreakers.json](./10342-the-bureau-xcom-declassified-codebreakers.json) |
+| The Bureau: XCOM Declassified - Hangar 6 R&D | 10343 | [10343-the-bureau-xcom-declassified-hangar-6-r-and-d.json](./10343-the-bureau-xcom-declassified-hangar-6-r-and-d.json) |
 | The Burger Quiz | 219172 | [219172-the-burger-quiz.json](./219172-the-burger-quiz.json) |
 | The Burgle Cats | 191665 | [191665-the-burgle-cats.json](./191665-the-burgle-cats.json) |
 | The Burgomaster | 171836 | [171836-the-burgomaster.json](./171836-the-burgomaster.json) |
