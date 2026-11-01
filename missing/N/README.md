@@ -7138,6 +7138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nymphs of the Forest | 385297 | [385297-nymphs-of-the-forest.json](./385297-nymphs-of-the-forest.json) |
 | Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 297167 | [297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
 | Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 304978 | [304978-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./304978-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
+| Nyoki Nyoki: Tabidachi-hen | 57991 | [57991-nyoki-nyoki-tabidachi-hen.json](./57991-nyoki-nyoki-tabidachi-hen.json) |
 | Nyonin-jima 2: Shima Hitotsu Marugoto Hame Pako Haramase Seikatsu | 408514 | [408514-nyonin-jima-2-shima-hitotsu-marugoto-hame-pako-haramase-seikatsu.json](./408514-nyonin-jima-2-shima-hitotsu-marugoto-hame-pako-haramase-seikatsu.json) |
 | Nyorols | 399180 | [399180-nyorols.json](./399180-nyorols.json) |
 | Nyotai Inkan: Utsurikawaru Chijokuteki Koukishin | 313235 | [313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json](./313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json) |
