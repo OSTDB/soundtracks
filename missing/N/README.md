@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
 | Naruto: Ninja Council 2 | 24065 | [24065-naruto-ninja-council-2.json](./24065-naruto-ninja-council-2.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
+| Naruto: Ninja Council 3 | 20704 | [20704-naruto-ninja-council-3.json](./20704-naruto-ninja-council-3.json) |
 | Naruto: Ninja Destiny | 20778 | [20778-naruto-ninja-destiny.json](./20778-naruto-ninja-destiny.json) |
 | Naruto: Ninja Destiny II - European Version | 64486 | [64486-naruto-ninja-destiny-ii-european-version.json](./64486-naruto-ninja-destiny-ii-european-version.json) |
 | Naruto: Ninja Masters | 80120 | [80120-naruto-ninja-masters.json](./80120-naruto-ninja-masters.json) |
@@ -3845,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nif Nif | 276626 | [276626-nif-nif.json](./276626-nif-nif.json) |
 | Nifa's First Mission | 248051 | [248051-nifas-first-mission.json](./248051-nifas-first-mission.json) |
 | Nife Wars | 398832 | [398832-nife-wars.json](./398832-nife-wars.json) |
+| Niffelheim | 20403 | [20403-niffelheim.json](./20403-niffelheim.json) |
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
 | Niflhel Survival | 152594 | [152594-niflhel-survival.json](./152594-niflhel-survival.json) |
@@ -4856,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Scarf | 150983 | [150983-ninja-scarf.json](./150983-ninja-scarf.json) |
 | Ninja Scroller | 181762 | [181762-ninja-scroller.json](./181762-ninja-scroller.json) |
 | Ninja Senki | 92465 | [92465-ninja-senki.json](./92465-ninja-senki.json) |
+| Ninja Senki DX | 20082 | [20082-ninja-senki-dx.json](./20082-ninja-senki-dx.json) |
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
 | Ninja Shadow: Shall we Date? | 299195 | [299195-ninja-shadow-shall-we-date.json](./299195-ninja-shadow-shall-we-date.json) |
