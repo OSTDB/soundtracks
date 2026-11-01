@@ -3270,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore! | 380428 | [380428-encore.json](./380428-encore.json) |
 | Encounter | 24507 | [24507-encounter.json](./24507-encounter.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
+| Encounter at L-5 | 18772 | [18772-encounter-at-l-5.json](./18772-encounter-at-l-5.json) |
 | Encounter At L5 | 40673 | [40673-encounter-at-l5.json](./40673-encounter-at-l5.json) |
 | Encounter at Questar IV | 408509 | [408509-encounter-at-questar-iv.json](./408509-encounter-at-questar-iv.json) |
 | Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
@@ -4840,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape from Rowei | 200529 | [200529-escape-from-rowei.json](./200529-escape-from-rowei.json) |
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
+| Escape from Rungistan | 18761 | [18761-escape-from-rungistan.json](./18761-escape-from-rungistan.json) |
 | Escape From Russia | 368672 | [368672-escape-from-russia.json](./368672-escape-from-russia.json) |
 | Escape From Russia: Mobilization | 251361 | [251361-escape-from-russia-mobilization.json](./251361-escape-from-russia-mobilization.json) |
 | Escape from Russia: Mobilization Madness | 260579 | [260579-escape-from-russia-mobilization-madness.json](./260579-escape-from-russia-mobilization-madness.json) |
