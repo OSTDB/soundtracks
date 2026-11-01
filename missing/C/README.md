@@ -2992,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino De Luxe | 131274 | [131274-casino-de-luxe.json](./131274-casino-de-luxe.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
+| Casino Games | 45656 | [45656-casino-games.json](./45656-casino-games.json) |
 | Casino Golf | 204283 | [204283-casino-golf.json](./204283-casino-golf.json) |
 | Casino Heist | 243587 | [243587-casino-heist.json](./243587-casino-heist.json) |
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
@@ -5253,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Chaos II: Ambassadors of the Arena | 62653 | [62653-champions-of-chaos-ii-ambassadors-of-the-arena.json](./62653-champions-of-chaos-ii-ambassadors-of-the-arena.json) |
 | Champions of Chaxia | 399202 | [399202-champions-of-chaxia.json](./399202-champions-of-chaxia.json) |
 | Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
+| Champions of Europe | 45655 | [45655-champions-of-europe.json](./45655-champions-of-europe.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Norrath: Realms of EverQuest | 9813 | [9813-champions-of-norrath-realms-of-everquest.json](./9813-champions-of-norrath-realms-of-everquest.json) |
 | Champions of Odin | 55629 | [55629-champions-of-odin.json](./55629-champions-of-odin.json) |
@@ -7863,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuhou Joutai 2: Paraided! | 154253 | [154253-chuhou-joutai-2-paraided.json](./154253-chuhou-joutai-2-paraided.json) |
 | Chuhou Joutai 3: Three Nights of Scarlet Abscess | 205863 | [205863-chuhou-joutai-3-three-nights-of-scarlet-abscess.json](./205863-chuhou-joutai-3-three-nights-of-scarlet-abscess.json) |
 | Chuka Taisen | 386350 | [386350-chuka-taisen.json](./386350-chuka-taisen.json) |
+| Chuka Taisen | 45654 | [45654-chuka-taisen.json](./45654-chuka-taisen.json) |
 | Chuka Taisen | 48535 | [48535-chuka-taisen.json](./48535-chuka-taisen.json) |
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
 | Chukgwi | 369102 | [369102-chukgwi.json](./369102-chukgwi.json) |
@@ -8779,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Lord | 63698 | [63698-clan-lord.json](./63698-clan-lord.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan of Death | 150430 | [150430-clan-of-death.json](./150430-clan-of-death.json) |
+| Clan of Heroes: Generals of the Yang Family | 45679 | [45679-clan-of-heroes-generals-of-the-yang-family.json](./45679-clan-of-heroes-generals-of-the-yang-family.json) |
 | Clan of Lions | 200321 | [200321-clan-of-lions.json](./200321-clan-of-lions.json) |
 | Clan Senki | 102872 | [102872-clan-senki.json](./102872-clan-senki.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
@@ -18948,6 +18952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
 | Cyborg Force | 310147 | [310147-cyborg-force.json](./310147-cyborg-force.json) |
+| Cyborg Hunter | 45653 | [45653-cyborg-hunter.json](./45653-cyborg-hunter.json) |
 | Cyborg Invasion Shooter | 75018 | [75018-cyborg-invasion-shooter.json](./75018-cyborg-invasion-shooter.json) |
 | Cyborg Invasion Shooter 2: Battle of Earth | 88256 | [88256-cyborg-invasion-shooter-2-battle-of-earth.json](./88256-cyborg-invasion-shooter-2-battle-of-earth.json) |
 | Cyborg Invasion Shooter 3: Savior of the World | 115501 | [115501-cyborg-invasion-shooter-3-savior-of-the-world.json](./115501-cyborg-invasion-shooter-3-savior-of-the-world.json) |
