@@ -14354,6 +14354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bugs Eat People | 126189 | [126189-monster-bugs-eat-people.json](./126189-monster-bugs-eat-people.json) |
 | Monster Builder | 110216 | [110216-monster-builder.json](./110216-monster-builder.json) |
 | Monster Burner | 64156 | [64156-monster-burner.json](./64156-monster-burner.json) |
+| Monster Business | 12685 | [12685-monster-business.json](./12685-monster-business.json) |
 | Monster Buster Club | 84602 | [84602-monster-buster-club.json](./84602-monster-buster-club.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
@@ -15408,6 +15409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
+| Moonshine Racers | 12686 | [12686-moonshine-racers.json](./12686-moonshine-racers.json) |
 | Moonship | 256233 | [256233-moonship.json](./256233-moonship.json) |
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
 | Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
@@ -17715,6 +17717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murazu | 81660 | [81660-murazu.json](./81660-murazu.json) |
 | Murazu 2 | 400084 | [400084-murazu-2.json](./400084-murazu-2.json) |
 | Murdeer | 395556 | [395556-murdeer.json](./395556-murdeer.json) |
+| Murder | 12687 | [12687-murder.json](./12687-murder.json) |
 | Murder | 14158 | [14158-murder.json](./14158-murder.json) |
 | Murder | 226764 | [226764-murder.json](./226764-murder.json) |
 | Murder 38: Episode One - A Small World | 229772 | [229772-murder-38-episode-one-a-small-world.json](./229772-murder-38-episode-one-a-small-world.json) |
@@ -17847,6 +17850,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murderous Sunlight | 390149 | [390149-murderous-sunlight.json](./390149-murderous-sunlight.json) |
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
 | Murders at Tealwoods Manor | 215103 | [215103-murders-at-tealwoods-manor.json](./215103-murders-at-tealwoods-manor.json) |
+| Murders in Space | 12688 | [12688-murders-in-space.json](./12688-murders-in-space.json) |
+| Murders in Venice | 12689 | [12689-murders-in-venice.json](./12689-murders-in-venice.json) |
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
 | Murders on the Yangtze River | 201417 | [201417-murders-on-the-yangtze-river.json](./201417-murders-on-the-yangtze-river.json) |
 | Murdershifters | 183768 | [183768-murdershifters.json](./183768-murdershifters.json) |
@@ -20067,6 +20072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
 | Mystery of the Malign | 348463 | [348463-mystery-of-the-malign.json](./348463-mystery-of-the-malign.json) |
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
+| Mystery of the Mummy | 12690 | [12690-mystery-of-the-mummy.json](./12690-mystery-of-the-mummy.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of the Opera: The Phantom's Secret | 181525 | [181525-mystery-of-the-opera-the-phantoms-secret.json](./181525-mystery-of-the-opera-the-phantoms-secret.json) |
 | Mystery of the Sky Temple | 360369 | [360369-mystery-of-the-sky-temple.json](./360369-mystery-of-the-sky-temple.json) |
@@ -20271,6 +20277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Warriors: Wrath of the Ninjas | 39519 | [39519-mystic-warriors-wrath-of-the-ninjas.json](./39519-mystic-warriors-wrath-of-the-ninjas.json) |
 | Mystica | 230921 | [230921-mystica.json](./230921-mystica.json) |
 | Mystica: The Ninth Society | 33377 | [33377-mystica-the-ninth-society.json](./33377-mystica-the-ninth-society.json) |
+| Mystical | 12691 | [12691-mystical.json](./12691-mystical.json) |
 | Mystical | 34821 | [34821-mystical.json](./34821-mystical.json) |
 | Mystical Chain | 202950 | [202950-mystical-chain.json](./202950-mystical-chain.json) |
 | Mystical Conquests | 215639 | [215639-mystical-conquests.json](./215639-mystical-conquests.json) |
