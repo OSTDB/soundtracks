@@ -11438,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Alley | 21917 | [21917-bomb-alley.json](./21917-bomb-alley.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bay | 82361 | [82361-bomb-bay.json](./82361-bomb-bay.json) |
+| Bomb Bee | 38036 | [38036-bomb-bee.json](./38036-bomb-bee.json) |
 | Bomb Bee N | 145395 | [145395-bomb-bee-n.json](./145395-bomb-bee-n.json) |
 | Bomb Blaster | 56840 | [56840-bomb-blaster.json](./56840-bomb-blaster.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
