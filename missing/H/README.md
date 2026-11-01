@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ha-ha-ho-ho-horror | 343911 | [343911-ha-ha-ho-ho-horror.json](./343911-ha-ha-ho-ho-horror.json) |
 | Ha*co | 210226 | [210226-ha-co.json](./210226-ha-co.json) |
 | Ha/ck | 113710 | [113710-ha-ck.json](./113710-ha-ck.json) |
+| Haak | 138242 | [138242-haak.json](./138242-haak.json) |
 | Habanero | 360476 | [360476-habanero.json](./360476-habanero.json) |
 | Habanero-tan House | 279758 | [279758-habanero-tan-house.json](./279758-habanero-tan-house.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy! The Hippo | 269988 | [269988-happy-the-hippo.json](./269988-happy-the-hippo.json) |
 | Happy's Clocks | 207594 | [207594-happys-clocks.json](./207594-happys-clocks.json) |
 | Happy's Humble Burger Barn | 133612 | [133612-happys-humble-burger-barn.json](./133612-happys-humble-burger-barn.json) |
+| Happy's Humble Burger Farm | 140654 | [140654-happys-humble-burger-farm.json](./140654-happys-humble-burger-farm.json) |
 | HappyBoxDodging | 104518 | [104518-happyboxdodging.json](./104518-happyboxdodging.json) |
 | Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
