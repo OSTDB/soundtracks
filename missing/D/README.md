@@ -5843,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Racer: No Exit | 46376 | [46376-demolition-racer-no-exit.json](./46376-demolition-racer-no-exit.json) |
 | Demolition Robots K.K. | 111545 | [111545-demolition-robots-k-k.json](./111545-demolition-robots-k-k.json) |
 | Demomen Ltd. | 236163 | [236163-demomen-ltd.json](./236163-demomen-ltd.json) |
+| Demon | 57961 | [57961-demon.json](./57961-demon.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
@@ -12737,6 +12738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
 | Doubutsu no Shima no Chobi Gurumi | 49264 | [49264-doubutsu-no-shima-no-chobi-gurumi.json](./49264-doubutsu-no-shima-no-chobi-gurumi.json) |
+| Doubutsu Sentai Zyuohger: Battle Cube Puzzle | 57983 | [57983-doubutsu-sentai-zyuohger-battle-cube-puzzle.json](./57983-doubutsu-sentai-zyuohger-battle-cube-puzzle.json) |
 | Doubutsu-jima no Chobigurumi 2: Tama-chan Monogatari | 327642 | [327642-doubutsu-jima-no-chobigurumi-2-tama-chan-monogatari.json](./327642-doubutsu-jima-no-chobigurumi-2-tama-chan-monogatari.json) |
 | Doubutsu-tachi no Mori | 150572 | [150572-doubutsu-tachi-no-mori.json](./150572-doubutsu-tachi-no-mori.json) |
 | Doubutsujima no Chubi Gurumi 2: Tama-chan Monogatari | 49263 | [49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json](./49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json) |
@@ -15292,6 +15294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
 | Drive of the Dead | 414854 | [414854-drive-of-the-dead.json](./414854-drive-of-the-dead.json) |
 | Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
+| Drive on Moscow: War in the Snow | 58104 | [58104-drive-on-moscow-war-in-the-snow.json](./58104-drive-on-moscow-war-in-the-snow.json) |
 | Drive or Die | 156706 | [156706-drive-or-die.json](./156706-drive-or-die.json) |
 | Drive Out | 311525 | [311525-drive-out.json](./311525-drive-out.json) |
 | Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
@@ -17477,6 +17480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
 | Dwingle B.O.T | 37387 | [37387-dwingle-b-o-t.json](./37387-dwingle-b-o-t.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
+| DX Bakenou Z | 57976 | [57976-dx-bakenou-z.json](./57976-dx-bakenou-z.json) |
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
 | DX Monopoly GB | 228501 | [228501-dx-monopoly-gb.json](./228501-dx-monopoly-gb.json) |
 | DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan | 268641 | [268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json](./268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json) |
@@ -17638,6 +17642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasthir | 244949 | [244949-dynasthir.json](./244949-dynasthir.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty | 41537 | [41537-dynasty.json](./41537-dynasty.json) |
+| Dynasty Blades | 58102 | [58102-dynasty-blades.json](./58102-dynasty-blades.json) |
 | Dynasty Detective | 249943 | [249943-dynasty-detective.json](./249943-dynasty-detective.json) |
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
 | Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
