@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oiran Survival: Edo Yokai Rush | 391304 | [391304-oiran-survival-edo-yokai-rush.json](./391304-oiran-survival-edo-yokai-rush.json) |
 | Oirbo | 118398 | [118398-oirbo.json](./118398-oirbo.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
+| Oishinbo: Kyuukyoku no Menu 3-bon Shoubu | 48406 | [48406-oishinbo-kyuukyoku-no-menu-3-bon-shoubu.json](./48406-oishinbo-kyuukyoku-no-menu-3-bon-shoubu.json) |
 | Oita, Beppu Mystery Annai: Yuganda Tourou | 212306 | [212306-oita-beppu-mystery-annai-yuganda-tourou.json](./212306-oita-beppu-mystery-annai-yuganda-tourou.json) |
 | Ojamajo Adventure: Naisho No Mahou | 319698 | [319698-ojamajo-adventure-naisho-no-mahou.json](./319698-ojamajo-adventure-naisho-no-mahou.json) |
 | Ojanko Yakata | 252061 | [252061-ojanko-yakata.json](./252061-ojanko-yakata.json) |
@@ -2947,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
 | Onwelt | 278881 | [278881-onwelt.json](./278881-onwelt.json) |
+| Onyanko Town | 48405 | [48405-onyanko-town.json](./48405-onyanko-town.json) |
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
 | Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
