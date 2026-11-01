@@ -7632,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Flurry | 255129 | [255129-flower-flurry.json](./255129-flower-flurry.json) |
 | Flower for a Farewell | 367710 | [367710-flower-for-a-farewell.json](./367710-flower-for-a-farewell.json) |
 | Flower Garden | 346057 | [346057-flower-garden.json](./346057-flower-garden.json) |
+| Flower Garden | 59617 | [59617-flower-garden.json](./59617-flower-garden.json) |
 | Flower Garden Tycoon | 146732 | [146732-flower-garden-tycoon.json](./146732-flower-garden-tycoon.json) |
 | Flower Garden: Connect Mania | 232485 | [232485-flower-garden-connect-mania.json](./232485-flower-garden-connect-mania.json) |
 | Flower girl | 170679 | [170679-flower-girl.json](./170679-flower-girl.json) |
