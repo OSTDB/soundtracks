@@ -898,7 +898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2513,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barmy Burgers | 41185 | [41185-barmy-burgers.json](./41185-barmy-burgers.json) |
 | Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
+| Barn Finders | 114437 | [114437-barn-finders.json](./114437-barn-finders.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
 | Barn Finders: Amerykan Dream | 150886 | [150886-barn-finders-amerykan-dream.json](./150886-barn-finders-amerykan-dream.json) |
 | Barn Runner 2: The Ejection Rejection | 299081 | [299081-barn-runner-2-the-ejection-rejection.json](./299081-barn-runner-2-the-ejection-rejection.json) |
@@ -11040,6 +11040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blurple Food Wars | 143412 | [143412-blurple-food-wars.json](./143412-blurple-food-wars.json) |
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
+| Blush Blush | 115269 | [115269-blush-blush.json](./115269-blush-blush.json) |
 | Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
 | Blutkapelle | 420555 | [420555-blutkapelle.json](./420555-blutkapelle.json) |
 | Blym | 108914 | [108914-blym.json](./108914-blym.json) |
