@@ -10217,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
 | Gunman | 172650 | [172650-gunman.json](./172650-gunman.json) |
+| Gunman Chronicles | 8319 | [8319-gunman-chronicles.json](./8319-gunman-chronicles.json) |
 | Gunman Clive | 8599 | [8599-gunman-clive.json](./8599-gunman-clive.json) |
 | Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
 | Gunman Clive Game Boy Edition | 194831 | [194831-gunman-clive-game-boy-edition.json](./194831-gunman-clive-game-boy-edition.json) |
