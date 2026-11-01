@@ -1454,6 +1454,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OliVR | 240769 | [240769-olivr.json](./240769-olivr.json) |
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
 | Olli & Lissa 3: The Candlelight Adventure | 70920 | [70920-olli-and-lissa-3-the-candlelight-adventure.json](./70920-olli-and-lissa-3-the-candlelight-adventure.json) |
+| Olli & Lissa II: Halloween | 36656 | [36656-olli-and-lissa-ii-halloween.json](./36656-olli-and-lissa-ii-halloween.json) |
+| Olli & Lissa: The Ghost of Shilmore Castle | 36655 | [36655-olli-and-lissa-the-ghost-of-shilmore-castle.json](./36655-olli-and-lissa-the-ghost-of-shilmore-castle.json) |
 | Ollie & Bollie: Outdoor Estate | 129660 | [129660-ollie-and-bollie-outdoor-estate.json](./129660-ollie-and-bollie-outdoor-estate.json) |
 | Ollie and the Merchant of Dreams | 391564 | [391564-ollie-and-the-merchant-of-dreams.json](./391564-ollie-and-the-merchant-of-dreams.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
