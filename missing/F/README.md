@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceoff Hockey 2016 | 58890 | [58890-faceoff-hockey-2016.json](./58890-faceoff-hockey-2016.json) |
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
 | Faces of the Forest | 323596 | [323596-faces-of-the-forest.json](./323596-faces-of-the-forest.json) |
+| Faces of War | 10272 | [10272-faces-of-war.json](./10272-faces-of-war.json) |
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
 | Faceted Flight | 35655 | [35655-faceted-flight.json](./35655-faceted-flight.json) |
 | Facets | 183189 | [183189-facets.json](./183189-facets.json) |
@@ -8551,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2 | 15222 | [15222-football-manager-2.json](./15222-football-manager-2.json) |
 | Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
+| Football Manager 2006 | 8971 | [8971-football-manager-2006.json](./8971-football-manager-2006.json) |
 | Football Manager 2007 | 945 | [945-football-manager-2007.json](./945-football-manager-2007.json) |
 | Football Manager 2008 | 946 | [946-football-manager-2008.json](./946-football-manager-2008.json) |
 | Football Manager 2009 | 8972 | [8972-football-manager-2009.json](./8972-football-manager-2009.json) |
