@@ -4029,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Casino: Valley of the Kings | 209210 | [209210-reel-deal-casino-valley-of-the-kings.json](./209210-reel-deal-casino-valley-of-the-kings.json) |
 | Reel Deal Poker Challenge | 66727 | [66727-reel-deal-poker-challenge.json](./66727-reel-deal-poker-challenge.json) |
 | Reel Deal Slots Adventure | 131294 | [131294-reel-deal-slots-adventure.json](./131294-reel-deal-slots-adventure.json) |
+| Reel Deal Slots Adventure III: World Tour | 25465 | [25465-reel-deal-slots-adventure-iii-world-tour.json](./25465-reel-deal-slots-adventure-iii-world-tour.json) |
 | Reel Deal Slots: Blackbeard's Revenge | 131128 | [131128-reel-deal-slots-blackbeards-revenge.json](./131128-reel-deal-slots-blackbeards-revenge.json) |
 | Reel Deal Vegas Casino Experience | 77612 | [77612-reel-deal-vegas-casino-experience.json](./77612-reel-deal-vegas-casino-experience.json) |
 | Reel Fishing | 45088 | [45088-reel-fishing.json](./45088-reel-fishing.json) |
@@ -4340,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
 | Reincarnations: Uncover the Past | 209209 | [209209-reincarnations-uncover-the-past.json](./209209-reincarnations-uncover-the-past.json) |
 | Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
+| Reindeer Adventure | 25387 | [25387-reindeer-adventure.json](./25387-reindeer-adventure.json) |
 | Reindeer Games | 388168 | [388168-reindeer-games.json](./388168-reindeer-games.json) |
 | Reindeer Racing | 340708 | [340708-reindeer-racing.json](./340708-reindeer-racing.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
@@ -6817,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Ridiculous Space Battles | 349222 | [349222-ridiculous-space-battles.json](./349222-ridiculous-space-battles.json) |
 | Ridiculous Triathlon | 250408 | [250408-ridiculous-triathlon.json](./250408-ridiculous-triathlon.json) |
+| Riding Academy | 25377 | [25377-riding-academy.json](./25377-riding-academy.json) |
 | Riding Academy 2 | 54316 | [54316-riding-academy-2.json](./54316-riding-academy-2.json) |
 | Riding Champion: Legacy of Rosemond Hill | 64116 | [64116-riding-champion-legacy-of-rosemond-hill.json](./64116-riding-champion-legacy-of-rosemond-hill.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
