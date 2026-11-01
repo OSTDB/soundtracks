@@ -7748,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil | 177806 | [177806-the-devil.json](./177806-the-devil.json) |
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Ball | 339206 | [339206-the-devil-ball.json](./339206-the-devil-ball.json) |
+| The Devil Inside | 11786 | [11786-the-devil-inside.json](./11786-the-devil-inside.json) |
 | The Devil on G-String | 26789 | [26789-the-devil-on-g-string.json](./26789-the-devil-on-g-string.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
@@ -10001,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hobbit | 248450 | [248450-the-hobbit.json](./248450-the-hobbit.json) |
 | The Hobbit | 3946 | [3946-the-hobbit.json](./3946-the-hobbit.json) |
 | The Hobbit : Gold Miner | 105873 | [105873-the-hobbit-gold-miner.json](./105873-the-hobbit-gold-miner.json) |
+| The Hobbit: A Software Adventure | 10800 | [10800-the-hobbit-a-software-adventure.json](./10800-the-hobbit-a-software-adventure.json) |
 | The Hobbit: Kingdoms of Middle Earth | 38905 | [38905-the-hobbit-kingdoms-of-middle-earth.json](./38905-the-hobbit-kingdoms-of-middle-earth.json) |
 | The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
 | The Hoff vs Hitler | 342741 | [342741-the-hoff-vs-hitler.json](./342741-the-hoff-vs-hitler.json) |
@@ -12107,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
 | The Links at Spanish Bay: PGA Tour 96 Championship Course | 206632 | [206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json](./206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json) |
 | The Lion Guard | 58639 | [58639-the-lion-guard.json](./58639-the-lion-guard.json) |
+| The Lion King | 204573 | [204573-the-lion-king.json](./204573-the-lion-king.json) |
 | The Lion King | 3166 | [3166-the-lion-king.json](./3166-the-lion-king.json) |
 | The Lion King 1½ - Timon And Pumbaa’s Virtual Safari 1.5: The Lion King Prideland Adventure | 325091 | [325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json](./325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json) |
 | The Lion King II: Simba's Pride: Special Edition - Timon And Pumbaa’s Virtual Safari 2.0: Prideland Pachiderm Safari | 325090 | [325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json](./325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json) |
@@ -15369,6 +15372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
 | The Sims 3: Diesel Stuff | 13123 | [13123-the-sims-3-diesel-stuff.json](./13123-the-sims-3-diesel-stuff.json) |
+| The Sims 3: Dragon Valley | 10982 | [10982-the-sims-3-dragon-valley.json](./10982-the-sims-3-dragon-valley.json) |
 | The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
 | The Sims 3: Fast Lane Stuff | 13118 | [13118-the-sims-3-fast-lane-stuff.json](./13118-the-sims-3-fast-lane-stuff.json) |
 | The Sims 3: Generations | 10981 | [10981-the-sims-3-generations.json](./10981-the-sims-3-generations.json) |
@@ -15525,6 +15529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Toddler Stuff | 54696 | [54696-the-sims-4-toddler-stuff.json](./54696-the-sims-4-toddler-stuff.json) |
 | The Sims 4: Urban Homage Kit | 296898 | [296898-the-sims-4-urban-homage-kit.json](./296898-the-sims-4-urban-homage-kit.json) |
 | The Sims 4: Vintage Glamour Stuff | 121025 | [121025-the-sims-4-vintage-glamour-stuff.json](./121025-the-sims-4-vintage-glamour-stuff.json) |
+| The Sims 4: Werewolves | 205567 | [205567-the-sims-4-werewolves.json](./205567-the-sims-4-werewolves.json) |
 | The Sims 4: Wonderland Playroom Kit | 404231 | [404231-the-sims-4-wonderland-playroom-kit.json](./404231-the-sims-4-wonderland-playroom-kit.json) |
 | The Sims 4: Yard Charm Kit | 404230 | [404230-the-sims-4-yard-charm-kit.json](./404230-the-sims-4-yard-charm-kit.json) |
 | The Sims 5 | 222273 | [222273-the-sims-5.json](./222273-the-sims-5.json) |
@@ -17354,6 +17359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Michonne - Episode 1: In Too Deep | 95005 | [95005-the-walking-dead-michonne-episode-1-in-too-deep.json](./95005-the-walking-dead-michonne-episode-1-in-too-deep.json) |
 | The Walking Dead: Michonne - Episode 2: Give No Shelter | 127034 | [127034-the-walking-dead-michonne-episode-2-give-no-shelter.json](./127034-the-walking-dead-michonne-episode-2-give-no-shelter.json) |
 | The Walking Dead: Michonne - Episode 3: What We Deserve | 127035 | [127035-the-walking-dead-michonne-episode-3-what-we-deserve.json](./127035-the-walking-dead-michonne-episode-3-what-we-deserve.json) |
+| The Walking Dead: No Man's Land | 11670 | [11670-the-walking-dead-no-mans-land.json](./11670-the-walking-dead-no-mans-land.json) |
 | The Walking Dead: Onslaught - Sheriff Rick and Hunter Daryl Edition | 139916 | [139916-the-walking-dead-onslaught-sheriff-rick-and-hunter-daryl-edition.json](./139916-the-walking-dead-onslaught-sheriff-rick-and-hunter-daryl-edition.json) |
 | The Walking Dead: Onslaught - Survivors Edition | 139842 | [139842-the-walking-dead-onslaught-survivors-edition.json](./139842-the-walking-dead-onslaught-survivors-edition.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
@@ -18757,6 +18763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Village Girl Turned Out to Be Under a Lewdification Curse! | 83189 | [83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json](./83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json) |
 | This War of Mine | 180418 | [180418-this-war-of-mine.json](./180418-this-war-of-mine.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
+| This War of Mine: Final Cut | 199168 | [199168-this-war-of-mine-final-cut.json](./199168-this-war-of-mine-final-cut.json) |
 | This War of Mine: Forget Celebrations | 323204 | [323204-this-war-of-mine-forget-celebrations.json](./323204-this-war-of-mine-forget-celebrations.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
@@ -21256,6 +21263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Escape: A Prototype | 288602 | [288602-time-escape-a-prototype.json](./288602-time-escape-a-prototype.json) |
 | Time Fantasy | 84431 | [84431-time-fantasy.json](./84431-time-fantasy.json) |
 | Time Fissure | 288603 | [288603-time-fissure.json](./288603-time-fissure.json) |
+| Time Flies | 204367 | [204367-time-flies.json](./204367-time-flies.json) |
 | Time Flies Like an Arrow | 291022 | [291022-time-flies-like-an-arrow.json](./291022-time-flies-like-an-arrow.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
@@ -22986,6 +22994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Warfare | 32427 | [32427-tokyo-warfare.json](./32427-tokyo-warfare.json) |
 | Tokyo Wizard | 106838 | [106838-tokyo-wizard.json](./106838-tokyo-wizard.json) |
+| Tokyo Xanadu | 11455 | [11455-tokyo-xanadu.json](./11455-tokyo-xanadu.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
 | Tokyo Xanadu eX+: Limited Edition | 89846 | [89846-tokyo-xanadu-ex-limited-edition.json](./89846-tokyo-xanadu-ex-limited-edition.json) |
 | Tokyo Xtreme Racer 3 | 24184 | [24184-tokyo-xtreme-racer-3.json](./24184-tokyo-xtreme-racer-3.json) |
@@ -23977,6 +23986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torebia: Island Odyssey | 392386 | [392386-torebia-island-odyssey.json](./392386-torebia-island-odyssey.json) |
 | Torecower | 235712 | [235712-torecower.json](./235712-torecower.json) |
 | Toree 3D: Jumbled Jam | 194765 | [194765-toree-3d-jumbled-jam.json](./194765-toree-3d-jumbled-jam.json) |
+| Toree Genesis | 206313 | [206313-toree-genesis.json](./206313-toree-genesis.json) |
 | Toree Jolly Jam | 279783 | [279783-toree-jolly-jam.json](./279783-toree-jolly-jam.json) |
 | Toree Jumbled Jam 2 | 310614 | [310614-toree-jumbled-jam-2.json](./310614-toree-jumbled-jam-2.json) |
 | Toree Missions | 310613 | [310613-toree-missions.json](./310613-toree-missions.json) |
