@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Survivor | 271641 | [271641-geometry-survivor.json](./271641-geometry-survivor.json) |
 | Geometry Survivor | 293012 | [293012-geometry-survivor.json](./293012-geometry-survivor.json) |
 | Geometry Tower | 304964 | [304964-geometry-tower.json](./304964-geometry-tower.json) |
+| Geometry Wars 3: Dimensions | 7705 | [7705-geometry-wars-3-dimensions.json](./7705-geometry-wars-3-dimensions.json) |
 | Geometry Wars 3: Dimensions Evolved | 17573 | [17573-geometry-wars-3-dimensions-evolved.json](./17573-geometry-wars-3-dimensions-evolved.json) |
 | Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
@@ -6878,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic 3 Classic | 358766 | [358766-gothic-3-classic.json](./358766-gothic-3-classic.json) |
 | Gothic 3: Collector's Edition | 133884 | [133884-gothic-3-collectors-edition.json](./133884-gothic-3-collectors-edition.json) |
 | Gothic 3: Enhanced Gold Edition | 133886 | [133886-gothic-3-enhanced-gold-edition.json](./133886-gothic-3-enhanced-gold-edition.json) |
+| Gothic 3: Forsaken Gods | 8330 | [8330-gothic-3-forsaken-gods.json](./8330-gothic-3-forsaken-gods.json) |
 | Gothic 3: Forsaken Gods - Enhanced Edition | 10371 | [10371-gothic-3-forsaken-gods-enhanced-edition.json](./10371-gothic-3-forsaken-gods-enhanced-edition.json) |
 | Gothic 3: Game of the Year Edition | 133885 | [133885-gothic-3-game-of-the-year-edition.json](./133885-gothic-3-game-of-the-year-edition.json) |
 | Gothic 3: Gold Edition | 133850 | [133850-gothic-3-gold-edition.json](./133850-gothic-3-gold-edition.json) |
