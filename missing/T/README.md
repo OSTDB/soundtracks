@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Spark: Probation | 258496 | [258496-tales-of-spark-probation.json](./258496-tales-of-spark-probation.json) |
 | Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
 | Tales of Symphonia | 221716 | [221716-tales-of-symphonia.json](./221716-tales-of-symphonia.json) |
+| Tales of Symphonia Chronicles | 7464 | [7464-tales-of-symphonia-chronicles.json](./7464-tales-of-symphonia-chronicles.json) |
 | Tales Of Symphonia Chronicles: Collector's Edition | 42960 | [42960-tales-of-symphonia-chronicles-collectors-edition.json](./42960-tales-of-symphonia-chronicles-collectors-edition.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
@@ -3147,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles | 19747 | [19747-teenage-mutant-ninja-turtles.json](./19747-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 218922 | [218922-teenage-mutant-ninja-turtles.json](./218922-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 308150 | [308150-teenage-mutant-ninja-turtles.json](./308150-teenage-mutant-ninja-turtles.json) |
+| Teenage Mutant Ninja Turtles | 322537 | [322537-teenage-mutant-ninja-turtles.json](./322537-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 3815 | [3815-teenage-mutant-ninja-turtles.json](./3815-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles 2: Battle Nexus | 146058 | [146058-teenage-mutant-ninja-turtles-2-battle-nexus.json](./146058-teenage-mutant-ninja-turtles-2-battle-nexus.json) |
@@ -3695,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu 2: Birth of the Stealth Assassins | 4114 | [4114-tenchu-2-birth-of-the-stealth-assassins.json](./4114-tenchu-2-birth-of-the-stealth-assassins.json) |
 | Tenchu 3 Portable | 134329 | [134329-tenchu-3-portable.json](./134329-tenchu-3-portable.json) |
 | Tenchu Kurenai Portable | 148204 | [148204-tenchu-kurenai-portable.json](./148204-tenchu-kurenai-portable.json) |
+| Tenchu Z | 7213 | [7213-tenchu-z.json](./7213-tenchu-z.json) |
 | Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
 | Tenchu: Stealth Assassins | 4113 | [4113-tenchu-stealth-assassins.json](./4113-tenchu-stealth-assassins.json) |
@@ -13018,6 +13021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mouth Of The Woods | 282090 | [282090-the-mouth-of-the-woods.json](./282090-the-mouth-of-the-woods.json) |
 | The Movie Monster Game | 26409 | [26409-the-movie-monster-game.json](./26409-the-movie-monster-game.json) |
 | The Movie Trivia Challenge | 102100 | [102100-the-movie-trivia-challenge.json](./102100-the-movie-trivia-challenge.json) |
+| The Movies: Stunts and Effects | 3023 | [3023-the-movies-stunts-and-effects.json](./3023-the-movies-stunts-and-effects.json) |
 | The Mr. Rabbit Magic Show | 342205 | [342205-the-mr-rabbit-magic-show.json](./342205-the-mr-rabbit-magic-show.json) |
 | The Mujo | 235163 | [235163-the-mujo.json](./235163-the-mujo.json) |
 | The Müll Littoral | 134530 | [134530-the-mull-littoral.json](./134530-the-mull-littoral.json) |
@@ -15321,6 +15325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Diesel Stuff | 13123 | [13123-the-sims-3-diesel-stuff.json](./13123-the-sims-3-diesel-stuff.json) |
 | The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
 | The Sims 3: Fast Lane Stuff | 13118 | [13118-the-sims-3-fast-lane-stuff.json](./13118-the-sims-3-fast-lane-stuff.json) |
+| The Sims 3: Generations | 10981 | [10981-the-sims-3-generations.json](./10981-the-sims-3-generations.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
 | The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
@@ -15492,6 +15497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Complete Collection | 45116 | [45116-the-sims-complete-collection.json](./45116-the-sims-complete-collection.json) |
 | The Sims: Deluxe Edition | 45115 | [45115-the-sims-deluxe-edition.json](./45115-the-sims-deluxe-edition.json) |
 | The Sims: Double Deluxe | 45112 | [45112-the-sims-double-deluxe.json](./45112-the-sims-double-deluxe.json) |
+| The Sims: House Party | 5529 | [5529-the-sims-house-party.json](./5529-the-sims-house-party.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Sims: Life Stories | 13138 | [13138-the-sims-life-stories.json](./13138-the-sims-life-stories.json) |
 | The Sims: Livin' Large | 5528 | [5528-the-sims-livin-large.json](./5528-the-sims-livin-large.json) |
@@ -17983,6 +17989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm Dragon Quest | 60767 | [60767-theatrhythm-dragon-quest.json](./60767-theatrhythm-dragon-quest.json) |
 | Theatrhythm Final Bar Line | 217556 | [217556-theatrhythm-final-bar-line.json](./217556-theatrhythm-final-bar-line.json) |
 | Theatrhythm Final Fantasy | 6902 | [6902-theatrhythm-final-fantasy.json](./6902-theatrhythm-final-fantasy.json) |
+| Theatrhythm Final Fantasy: Curtain Call | 5679 | [5679-theatrhythm-final-fantasy-curtain-call.json](./5679-theatrhythm-final-fantasy-curtain-call.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Collector's Edition | 89895 | [89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json](./89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Limited Edition | 89894 | [89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json](./89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Orlandeau Character | 354552 | [354552-theatrhythm-final-fantasy-curtain-call-orlandeau-character.json](./354552-theatrhythm-final-fantasy-curtain-call-orlandeau-character.json) |
@@ -18949,6 +18956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threedays | 351530 | [351530-threedays.json](./351530-threedays.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | Threejs | 206575 | [206575-threejs.json](./206575-threejs.json) |
+| Threes! | 9054 | [9054-threes.json](./9054-threes.json) |
 | Threesome Puzzle | 241782 | [241782-threesome-puzzle.json](./241782-threesome-puzzle.json) |
 | Threesquare | 56943 | [56943-threesquare.json](./56943-threesquare.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
@@ -23523,6 +23531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 4 | 334249 | [334249-tony-hawks-pro-skater-4.json](./334249-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 Street | 23754 | [23754-tony-hawks-pro-skater-4-street.json](./23754-tony-hawks-pro-skater-4-street.json) |
+| Tony Hawk's Pro Skater 5 | 10090 | [10090-tony-hawks-pro-skater-5.json](./10090-tony-hawks-pro-skater-5.json) |
 | Tony Hawk's Pro Skater HD: Revert Pack | 346921 | [346921-tony-hawks-pro-skater-hd-revert-pack.json](./346921-tony-hawks-pro-skater-hd-revert-pack.json) |
 | Tony Hawk's Project 8 | 344862 | [344862-tony-hawks-project-8.json](./344862-tony-hawks-project-8.json) |
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
