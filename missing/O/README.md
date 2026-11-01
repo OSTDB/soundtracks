@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Lies and Rain | 319865 | [319865-of-lies-and-rain.json](./319865-of-lies-and-rain.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
 | Of Light & Shadow | 166509 | [166509-of-light-and-shadow.json](./166509-of-light-and-shadow.json) |
+| Of Light and Darkness | 30461 | [30461-of-light-and-darkness.json](./30461-of-light-and-darkness.json) |
 | Of Light and Darkness: The Prophecy | 50385 | [50385-of-light-and-darkness-the-prophecy.json](./50385-of-light-and-darkness-the-prophecy.json) |
 | Of Light and Darkness: The Prophecy - Premonitions | 79564 | [79564-of-light-and-darkness-the-prophecy-premonitions.json](./79564-of-light-and-darkness-the-prophecy-premonitions.json) |
 | Of Love and Eternity | 176129 | [176129-of-love-and-eternity.json](./176129-of-love-and-eternity.json) |
