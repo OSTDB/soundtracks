@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Reflection | 380233 | [380233-dark-reflection.json](./380233-dark-reflection.json) |
 | Dark Regents | 133657 | [133657-dark-regents.json](./133657-dark-regents.json) |
 | Dark Reign 2 | 11390 | [11390-dark-reign-2.json](./11390-dark-reign-2.json) |
+| Dark Reign: The Future of War | 659 | [659-dark-reign-the-future-of-war.json](./659-dark-reign-the-future-of-war.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
 | Dark Resolve | 358238 | [358238-dark-resolve.json](./358238-dark-resolve.json) |
@@ -14193,6 +14194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon-Slaying War God | 367746 | [367746-dragon-slaying-war-god.json](./367746-dragon-slaying-war-god.json) |
 | Dragon, Fly! | 112054 | [112054-dragon-fly.json](./112054-dragon-fly.json) |
 | Dragon: A Game About a Dragon | 35700 | [35700-dragon-a-game-about-a-dragon.json](./35700-dragon-a-game-about-a-dragon.json) |
+| Dragon: Marked for Death | 55199 | [55199-dragon-marked-for-death.json](./55199-dragon-marked-for-death.json) |
 | Dragon: The Bruce Lee Story | 18617 | [18617-dragon-the-bruce-lee-story.json](./18617-dragon-the-bruce-lee-story.json) |
 | Dragon: The Bruce Lee Story | 218422 | [218422-dragon-the-bruce-lee-story.json](./218422-dragon-the-bruce-lee-story.json) |
 | Dragon: The Game | 36282 | [36282-dragon-the-game.json](./36282-dragon-the-game.json) |
