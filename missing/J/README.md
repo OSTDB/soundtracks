@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Jeanne 2 | 353636 | [353636-jack-jeanne-2.json](./353636-jack-jeanne-2.json) |
 | Jack Jeanne: Limited Edition | 228742 | [228742-jack-jeanne-limited-edition.json](./228742-jack-jeanne-limited-edition.json) |
 | Jack Keane 2: The Fire Within | 10464 | [10464-jack-keane-2-the-fire-within.json](./10464-jack-keane-2-the-fire-within.json) |
+| Jack Keane: The Complete Edition | 54132 | [54132-jack-keane-the-complete-edition.json](./54132-jack-keane-the-complete-edition.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
 | Jack Move: I.C.E Breaker | 195865 | [195865-jack-move-i-c-e-breaker.json](./195865-jack-move-i-c-e-breaker.json) |
 | Jack N' Jill 3D | 25846 | [25846-jack-n-jill-3d.json](./25846-jack-n-jill-3d.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus' Power Challenge Golf | 46532 | [46532-jack-nicklaus-power-challenge-golf.json](./46532-jack-nicklaus-power-challenge-golf.json) |
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
 | Jack O Lantern | 103144 | [103144-jack-o-lantern.json](./103144-jack-o-lantern.json) |
+| Jack of All Trades | 54133 | [54133-jack-of-all-trades.json](./54133-jack-of-all-trades.json) |
 | Jack of All Worlds | 384273 | [384273-jack-of-all-worlds.json](./384273-jack-of-all-worlds.json) |
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
 | Jack of Skies | 176833 | [176833-jack-of-skies.json](./176833-jack-of-skies.json) |
@@ -326,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance: Deadly Games | 8 | [8-jagged-alliance-deadly-games.json](./8-jagged-alliance-deadly-games.json) |
 | Jagged Alliance: Rage! | 107138 | [107138-jagged-alliance-rage.json](./107138-jagged-alliance-rage.json) |
 | Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
+| Jagged Farm: Birth of a Hero | 54134 | [54134-jagged-farm-birth-of-a-hero.json](./54134-jagged-farm-birth-of-a-hero.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
 | Jaguar Bomber | 138625 | [138625-jaguar-bomber.json](./138625-jaguar-bomber.json) |
@@ -574,6 +577,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Hotel Mania | 54135 | [54135-janes-hotel-mania.json](./54135-janes-hotel-mania.json) |
 | Jane’s Hotel: New story - Collector’s Edition | 246002 | [246002-jane-s-hotel-new-story-collector-s-edition.json](./246002-jane-s-hotel-new-story-collector-s-edition.json) |
 | Jane's Realty | 34154 | [34154-janes-realty.json](./34154-janes-realty.json) |
+| Jane's Realty | 54136 | [54136-janes-realty.json](./54136-janes-realty.json) |
+| Jane's Realty 2 | 54137 | [54137-janes-realty-2.json](./54137-janes-realty-2.json) |
 | Jane's USAF | 71409 | [71409-janes-usaf.json](./71409-janes-usaf.json) |
 | Jane's Zoo | 25486 | [25486-janes-zoo.json](./25486-janes-zoo.json) |
 | Jane`s Hotel 2: Family Hero | 180092 | [180092-jane-s-hotel-2-family-hero.json](./180092-jane-s-hotel-2-family-hero.json) |
@@ -1097,6 +1102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesse 'The Body' Ventura Wrestling Superstars | 46256 | [46256-jesse-the-body-ventura-wrestling-superstars.json](./46256-jesse-the-body-ventura-wrestling-superstars.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
+| Jessica: Mysterious Journey | 54138 | [54138-jessica-mysterious-journey.json](./54138-jessica-mysterious-journey.json) |
+| Jessica: Mystery of Courchevel | 54139 | [54139-jessica-mystery-of-courchevel.json](./54139-jessica-mystery-of-courchevel.json) |
 | Jessica: Secret of the Caribbean | 24735 | [24735-jessica-secret-of-the-caribbean.json](./24735-jessica-secret-of-the-caribbean.json) |
 | Jessica's Cupcake Cafe | 66375 | [66375-jessicas-cupcake-cafe.json](./66375-jessicas-cupcake-cafe.json) |
 | Jessica's Life: The Beginning | 368115 | [368115-jessicas-life-the-beginning.json](./368115-jessicas-life-the-beginning.json) |
@@ -1204,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Skiing Race | 290899 | [290899-jet-skiing-race.json](./290899-jet-skiing-race.json) |
 | Jet Spin | 131114 | [131114-jet-spin.json](./131114-jet-spin.json) |
 | Jet Storm 2: 3D | 241573 | [241573-jet-storm-2-3d.json](./241573-jet-storm-2-3d.json) |
+| Jet Storm: Modern Dogfights | 54140 | [54140-jet-storm-modern-dogfights.json](./54140-jet-storm-modern-dogfights.json) |
 | Jet Strike Mission | 60270 | [60270-jet-strike-mission.json](./60270-jet-strike-mission.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | Jet Up | 264748 | [264748-jet-up.json](./264748-jet-up.json) |
@@ -1408,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest 4: Heritage | 85621 | [85621-jewel-quest-4-heritage.json](./85621-jewel-quest-4-heritage.json) |
 | Jewel Quest II | 10473 | [10473-jewel-quest-ii.json](./10473-jewel-quest-ii.json) |
 | Jewel Quest III | 67125 | [67125-jewel-quest-iii.json](./67125-jewel-quest-iii.json) |
+| Jewel Quest Mysteries 2: Trail of the Midnight Heart | 54141 | [54141-jewel-quest-mysteries-2-trail-of-the-midnight-heart.json](./54141-jewel-quest-mysteries-2-trail-of-the-midnight-heart.json) |
 | Jewel Quest Mysteries 3: The Seventh Gate | 85214 | [85214-jewel-quest-mysteries-3-the-seventh-gate.json](./85214-jewel-quest-mysteries-3-the-seventh-gate.json) |
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
 | Jewel Quest Mysteries: Curse of the Emerald Tear | 10474 | [10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json](./10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json) |
@@ -1438,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Wizardry | 146569 | [146569-jewel-wizardry.json](./146569-jewel-wizardry.json) |
 | Jeweler Simulator | 291449 | [291449-jeweler-simulator.json](./291449-jeweler-simulator.json) |
 | JeweLife: Match 3 Jewels | 255053 | [255053-jewelife-match-3-jewels.json](./255053-jewelife-match-3-jewels.json) |
+| JeweliX | 54142 | [54142-jewelix.json](./54142-jewelix.json) |
 | Jewellust | 61030 | [61030-jewellust.json](./61030-jewellust.json) |
 | Jewelpet: Kawaii Mahou no Fantasy | 269787 | [269787-jewelpet-kawaii-mahou-no-fantasy.json](./269787-jewelpet-kawaii-mahou-no-fantasy.json) |
 | Jewelpet: Magical Dance in Style Deco! | 6831 | [6831-jewelpet-magical-dance-in-style-deco.json](./6831-jewelpet-magical-dance-in-style-deco.json) |
@@ -1453,6 +1463,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels II: The Ultimate Challenge | 72052 | [72052-jewels-ii-the-ultimate-challenge.json](./72052-jewels-ii-the-ultimate-challenge.json) |
 | Jewels Mania Adventure Star | 108512 | [108512-jewels-mania-adventure-star.json](./108512-jewels-mania-adventure-star.json) |
 | Jewels of Babylon | 14136 | [14136-jewels-of-babylon.json](./14136-jewels-of-babylon.json) |
+| Jewels of Cleopatra | 54143 | [54143-jewels-of-cleopatra.json](./54143-jewels-of-cleopatra.json) |
+| Jewels of Cleopatra 2 | 54144 | [54144-jewels-of-cleopatra-2.json](./54144-jewels-of-cleopatra-2.json) |
 | Jewels of Cleopatra 2: Aztec Mysteries | 65724 | [65724-jewels-of-cleopatra-2-aztec-mysteries.json](./65724-jewels-of-cleopatra-2-aztec-mysteries.json) |
 | Jewels of Darkness: Adventure Quest | 39160 | [39160-jewels-of-darkness-adventure-quest.json](./39160-jewels-of-darkness-adventure-quest.json) |
 | Jewels of Darkness: Colossal Adventure | 39159 | [39159-jewels-of-darkness-colossal-adventure.json](./39159-jewels-of-darkness-colossal-adventure.json) |
@@ -2568,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
 | Journey of Haha | 39008 | [39008-journey-of-haha.json](./39008-journey-of-haha.json) |
 | Journey of Harvest | 303599 | [303599-journey-of-harvest.json](./303599-journey-of-harvest.json) |
+| Journey of Hope | 54146 | [54146-journey-of-hope.json](./54146-journey-of-hope.json) |
 | Journey of Johann | 28645 | [28645-journey-of-johann.json](./28645-journey-of-johann.json) |
 | Journey of Johann: Castle Crusade | 409805 | [409805-journey-of-johann-castle-crusade.json](./409805-journey-of-johann-castle-crusade.json) |
 | Journey of Johann: Grasslands | 327442 | [327442-journey-of-johann-grasslands.json](./327442-journey-of-johann-grasslands.json) |
@@ -2906,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Julia: A Science Journey | 235794 | [235794-julia-a-science-journey.json](./235794-julia-a-science-journey.json) |
 | Julia: Back to the Sweet 60's | 378411 | [378411-julia-back-to-the-sweet-60s.json](./378411-julia-back-to-the-sweet-60s.json) |
 | Julia's Quest | 100273 | [100273-julias-quest.json](./100273-julias-quest.json) |
+| Julia's Quest: United Kingdom | 54147 | [54147-julias-quest-united-kingdom.json](./54147-julias-quest-united-kingdom.json) |
 | Julian & Friends | 328143 | [328143-julian-and-friends.json](./328143-julian-and-friends.json) |
 | Juliäntli | 106408 | [106408-juliantli.json](./106408-juliantli.json) |
 | Juliette's Fashion Empire | 54162 | [54162-juliettes-fashion-empire.json](./54162-juliettes-fashion-empire.json) |
@@ -3377,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Warrior | 14142 | [14142-jungle-warrior.json](./14142-jungle-warrior.json) |
 | Jungle Wars | 138828 | [138828-jungle-wars.json](./138828-jungle-wars.json) |
 | Jungle Wars 2: Kodai Mahou Atimos no Nazo | 37972 | [37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json](./37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json) |
+| Jungle Wild | 54159 | [54159-jungle-wild.json](./54159-jungle-wild.json) |
 | Jungle Z | 114923 | [114923-jungle-z.json](./114923-jungle-z.json) |
 | JungleBoys | 364718 | [364718-jungleboys.json](./364718-jungleboys.json) |
 | Jungledyret | 286115 | [286115-jungledyret.json](./286115-jungledyret.json) |
