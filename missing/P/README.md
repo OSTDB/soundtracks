@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penning: The Tropical Penguin | 61904 | [61904-penning-the-tropical-penguin.json](./61904-penning-the-tropical-penguin.json) |
 | Pennon and Battle | 305919 | [305919-pennon-and-battle.json](./305919-pennon-and-battle.json) |
 | Penny Arcade Adventures: On the Rain-Slick | 144932 | [144932-penny-arcade-adventures-on-the-rain-slick.json](./144932-penny-arcade-adventures-on-the-rain-slick.json) |
+| Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode One | 14979 | [14979-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-one.json](./14979-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-one.json) |
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
 | Penny Arcade: Spider-Man 3: Bell Tower Brawl | 230181 | [230181-penny-arcade-spider-man-3-bell-tower-brawl.json](./230181-penny-arcade-spider-man-3-bell-tower-brawl.json) |
 | Penny Arcade: The Game - Gamers vs. Evil | 63033 | [63033-penny-arcade-the-game-gamers-vs-evil.json](./63033-penny-arcade-the-game-gamers-vs-evil.json) |
@@ -7150,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates vs. Ninjas vs. Zombies vs. Pandas | 65709 | [65709-pirates-vs-ninjas-vs-zombies-vs-pandas.json](./65709-pirates-vs-ninjas-vs-zombies-vs-pandas.json) |
 | Pirates, Vikings and Knights | 221933 | [221933-pirates-vikings-and-knights.json](./221933-pirates-vikings-and-knights.json) |
 | Pirates, Vikings and Knights II | 14978 | [14978-pirates-vikings-and-knights-ii.json](./14978-pirates-vikings-and-knights-ii.json) |
+| Pirates, Vikings, and Knights II | 14916 | [14916-pirates-vikings-and-knights-ii.json](./14916-pirates-vikings-and-knights-ii.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
 | Pirates: Caribbean Chronicles | 285353 | [285353-pirates-caribbean-chronicles.json](./285353-pirates-caribbean-chronicles.json) |
 | Pirates: Constructible Strategy Game | 67748 | [67748-pirates-constructible-strategy-game.json](./67748-pirates-constructible-strategy-game.json) |
@@ -8285,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Tower: The Noise Update | 291543 | [291543-pizza-tower-the-noise-update.json](./291543-pizza-tower-the-noise-update.json) |
 | Pizza Truck | 96836 | [96836-pizza-truck.json](./96836-pizza-truck.json) |
 | Pizza Turtle 4evr | 232038 | [232038-pizza-turtle-4evr.json](./232038-pizza-turtle-4evr.json) |
+| Pizza Tycoon | 14453 | [14453-pizza-tycoon.json](./14453-pizza-tycoon.json) |
 | Pizza Tycoon | 237575 | [237575-pizza-tycoon.json](./237575-pizza-tycoon.json) |
 | Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
