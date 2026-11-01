@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EMIT Vol. 1: Toki no Maigo | 60972 | [60972-emit-vol-1-toki-no-maigo.json](./60972-emit-vol-1-toki-no-maigo.json) |
 | EMIT Vol. 2: Inochigake no Tabi | 60966 | [60966-emit-vol-2-inochigake-no-tabi.json](./60966-emit-vol-2-inochigake-no-tabi.json) |
 | EMIT Vol. 3: Watashi ni Sayonara wo | 60967 | [60967-emit-vol-3-watashi-ni-sayonara-wo.json](./60967-emit-vol-3-watashi-ni-sayonara-wo.json) |
+| EMIT: Value Pack | 57958 | [57958-emit-value-pack.json](./57958-emit-value-pack.json) |
 | Emitime | 303517 | [303517-emitime.json](./303517-emitime.json) |
 | Emitters: Drone Invasions | 110818 | [110818-emitters-drone-invasions.json](./110818-emitters-drone-invasions.json) |
 | Emkayo | 252587 | [252587-emkayo.json](./252587-emkayo.json) |
