@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Amazingly Awful Games | 78332 | [78332-10-amazingly-awful-games.json](./78332-10-amazingly-awful-games.json) |
 | 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
 | 10 Beautiful Postcards | 127517 | [127517-10-beautiful-postcards.json](./127517-10-beautiful-postcards.json) |
+| 10 Billion Wives | 59615 | [59615-10-billion-wives.json](./59615-10-billion-wives.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
 | 10 Count Avoidance | 376894 | [376894-10-count-avoidance.json](./376894-10-count-avoidance.json) |
