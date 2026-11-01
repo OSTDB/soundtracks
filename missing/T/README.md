@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Luminaria | 165355 | [165355-tales-of-luminaria.json](./165355-tales-of-luminaria.json) |
 | Tales of Lunar Scales | 331735 | [331735-tales-of-lunar-scales.json](./331735-tales-of-lunar-scales.json) |
 | Tales of Lunea | 74713 | [74713-tales-of-lunea.json](./74713-tales-of-lunea.json) |
+| Tales of Maj'Eyal | 8796 | [8796-tales-of-majeyal.json](./8796-tales-of-majeyal.json) |
 | Tales of Maj'Eyal: Ashes of Urh'Rok | 8797 | [8797-tales-of-majeyal-ashes-of-urhrok.json](./8797-tales-of-majeyal-ashes-of-urhrok.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
 | Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
@@ -3747,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Kabuki Ittou Ryoudan | 37604 | [37604-tengai-makyou-kabuki-ittou-ryoudan.json](./37604-tengai-makyou-kabuki-ittou-ryoudan.json) |
 | Tengai ni Mau, Iki na Hana | 75225 | [75225-tengai-ni-mau-iki-na-hana.json](./75225-tengai-ni-mau-iki-na-hana.json) |
 | Tengam | 147599 | [147599-tengam.json](./147599-tengam.json) |
+| Tengami | 10089 | [10089-tengami.json](./10089-tengami.json) |
 | Tengen World Cup Soccer | 46329 | [46329-tengen-world-cup-soccer.json](./46329-tengen-world-cup-soccer.json) |
 | Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
 | Tengo 20 Bolos y Permiso hasta las 7 | 356778 | [356778-tengo-20-bolos-y-permiso-hasta-las-7.json](./356778-tengo-20-bolos-y-permiso-hasta-las-7.json) |
@@ -5104,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
 | The Addams Family | 145932 | [145932-the-addams-family.json](./145932-the-addams-family.json) |
 | The Addams Family | 198668 | [198668-the-addams-family.json](./198668-the-addams-family.json) |
+| The Addams Family | 5342 | [5342-the-addams-family.json](./5342-the-addams-family.json) |
 | The Addams Family: Mansion Mayhem | 150006 | [150006-the-addams-family-mansion-mayhem.json](./150006-the-addams-family-mansion-mayhem.json) |
 | The Addams Family: Mystery Mansion | 122228 | [122228-the-addams-family-mystery-mansion.json](./122228-the-addams-family-mystery-mansion.json) |
 | The Addams Family: Pugsley's Scavenger Hunt | 264995 | [264995-the-addams-family-pugsleys-scavenger-hunt.json](./264995-the-addams-family-pugsleys-scavenger-hunt.json) |
@@ -5845,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basement | 274942 | [274942-the-basement.json](./274942-the-basement.json) |
 | The Basement | 282493 | [282493-the-basement.json](./282493-the-basement.json) |
 | The Basement | 326942 | [326942-the-basement.json](./326942-the-basement.json) |
+| The Basement Collection | 8738 | [8738-the-basement-collection.json](./8738-the-basement-collection.json) |
 | The Basement Ritual | 320781 | [320781-the-basement-ritual.json](./320781-the-basement-ritual.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basics of Sacred Geometry | 176646 | [176646-the-basics-of-sacred-geometry.json](./176646-the-basics-of-sacred-geometry.json) |
@@ -15614,6 +15618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs | 287144 | [287144-the-smurfs.json](./287144-the-smurfs.json) |
 | The Smurfs | 287151 | [287151-the-smurfs.json](./287151-the-smurfs.json) |
 | The Smurfs | 80521 | [80521-the-smurfs.json](./80521-the-smurfs.json) |
+| The Smurfs | 8083 | [8083-the-smurfs.json](./8083-the-smurfs.json) |
 | The Smurfs 2 | 2597 | [2597-the-smurfs-2.json](./2597-the-smurfs-2.json) |
 | The Smurfs 2 | 83900 | [83900-the-smurfs-2.json](./83900-the-smurfs-2.json) |
 | The Smurfs 2: The Prisoner of the Green Stone: Corrupted Outfit / Farmer Outfit / Adorable Outfit | 275060 | [275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json](./275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json) |
@@ -16920,6 +16925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Two Thinkers | 333335 | [333335-the-two-thinkers.json](./333335-the-two-thinkers.json) |
 | The Two Towers | 279652 | [279652-the-two-towers.json](./279652-the-two-towers.json) |
 | The Typing of the Dead | 11605 | [11605-the-typing-of-the-dead.json](./11605-the-typing-of-the-dead.json) |
+| The Typing of the Dead: Overkill | 9438 | [9438-the-typing-of-the-dead-overkill.json](./9438-the-typing-of-the-dead-overkill.json) |
 | The Typing of the Dead: Overkill - Dancing with the Dead DLC | 53785 | [53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json](./53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json) |
 | The Typing of the Dead: Overkill - Filth DLC | 53786 | [53786-the-typing-of-the-dead-overkill-filth-dlc.json](./53786-the-typing-of-the-dead-overkill-filth-dlc.json) |
 | The Typing of the Dead: Overkill - Love at First Bite DLC | 53867 | [53867-the-typing-of-the-dead-overkill-love-at-first-bite-dlc.json](./53867-the-typing-of-the-dead-overkill-love-at-first-bite-dlc.json) |
