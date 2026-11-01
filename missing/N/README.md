@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
 | Naruto Quick Teleport | 304953 | [304953-naruto-quick-teleport.json](./304953-naruto-quick-teleport.json) |
+| Naruto RPG 2: Chidori vs. Rasengan | 21373 | [21373-naruto-rpg-2-chidori-vs-rasengan.json](./21373-naruto-rpg-2-chidori-vs-rasengan.json) |
 | Naruto RPG: Uketsugareshi Hi no Ishi | 49751 | [49751-naruto-rpg-uketsugareshi-hi-no-ishi.json](./49751-naruto-rpg-uketsugareshi-hi-no-ishi.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto Shippuden 3D: The New Era | 6847 | [6847-naruto-shippuden-3d-the-new-era.json](./6847-naruto-shippuden-3d-the-new-era.json) |
@@ -6175,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norn9: Act Tune | 12641 | [12641-norn9-act-tune.json](./12641-norn9-act-tune.json) |
 | Norn9: Last Era | 61942 | [61942-norn9-last-era.json](./61942-norn9-last-era.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
+| Norn9: Norn + Nonette | 21588 | [21588-norn9-norn-nonette.json](./21588-norn9-norn-nonette.json) |
 | Norn9: Var Commons | 21589 | [21589-norn9-var-commons.json](./21589-norn9-var-commons.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Noroi E: Darkness | 307262 | [307262-noroi-e-darkness.json](./307262-noroi-e-darkness.json) |
