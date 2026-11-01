@@ -5302,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eseapner | 75614 | [75614-eseapner.json](./75614-eseapner.json) |
 | Eselmir and the Five Magical Gifts | 52067 | [52067-eselmir-and-the-five-magical-gifts.json](./52067-eselmir-and-the-five-magical-gifts.json) |
 | Esferibot | 272343 | [272343-esferibot.json](./272343-esferibot.json) |
+| Esh's Aurunmilla | 39978 | [39978-eshs-aurunmilla.json](./39978-eshs-aurunmilla.json) |
 | Eshe's Wish Adventure | 199486 | [199486-eshes-wish-adventure.json](./199486-eshes-wish-adventure.json) |
 | Eshigami no Kizuna | 37300 | [37300-eshigami-no-kizuna.json](./37300-eshigami-no-kizuna.json) |
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
