@@ -8,6 +8,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | K Station | 19603 | [19603-k-station.json](./19603-k-station.json) |
 | K-1 Grand Prix | 43722 | [43722-k-1-grand-prix.json](./43722-k-1-grand-prix.json) |
+| K-1 Pocket Grand Prix | 49656 | [49656-k-1-pocket-grand-prix.json](./49656-k-1-pocket-grand-prix.json) |
+| K-1 Pocket Grand Prix 2 | 49655 | [49655-k-1-pocket-grand-prix-2.json](./49655-k-1-pocket-grand-prix-2.json) |
 | K-1 Premium 2004 Dynamite!! | 67047 | [67047-k-1-premium-2004-dynamite.json](./67047-k-1-premium-2004-dynamite.json) |
 | K-1 Premium Dynamite!! | 44646 | [44646-k-1-premium-dynamite.json](./44646-k-1-premium-dynamite.json) |
 | K-1 Revenge | 45075 | [45075-k-1-revenge.json](./45075-k-1-revenge.json) |
@@ -137,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaepernick Football | 234007 | [234007-kaepernick-football.json](./234007-kaepernick-football.json) |
 | Kaerazu no Mori | 98523 | [98523-kaerazu-no-mori.json](./98523-kaerazu-no-mori.json) |
 | Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
+| Kaeru B Back | 49654 | [49654-kaeru-b-back.json](./49654-kaeru-b-back.json) |
 | Kaeru Batake DE Tsukamaete | 218510 | [218510-kaeru-batake-de-tsukamaete.json](./218510-kaeru-batake-de-tsukamaete.json) |
 | Kaeru Batake DE Tsukamaete | 78932 | [78932-kaeru-batake-de-tsukamaete.json](./78932-kaeru-batake-de-tsukamaete.json) |
 | Kaeru Batake DE Tsukamaete Portable | 218505 | [218505-kaeru-batake-de-tsukamaete-portable.json](./218505-kaeru-batake-de-tsukamaete-portable.json) |
@@ -256,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
 | Kaiketsu Yanchamaru 2: Karakuri Land | 48445 | [48445-kaiketsu-yanchamaru-2-karakuri-land.json](./48445-kaiketsu-yanchamaru-2-karakuri-land.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
+| Kaiketsu Zorori to Mahou no Yuuenchi | 49653 | [49653-kaiketsu-zorori-to-mahou-no-yuuenchi.json](./49653-kaiketsu-zorori-to-mahou-no-yuuenchi.json) |
 | Kaiketsu Zorori: Mezase! Itazura King | 307269 | [307269-kaiketsu-zorori-mezase-itazura-king.json](./307269-kaiketsu-zorori-mezase-itazura-king.json) |
 | Kaiketsu! Nekoashi Otome-chan | 147223 | [147223-kaiketsu-nekoashi-otome-chan.json](./147223-kaiketsu-nekoashi-otome-chan.json) |
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Izayoi Jigoku | 131213 | [131213-kaiki-gensou-yumemonogatari-kaijuu-kitan-izayoi-jigoku.json](./131213-kaiki-gensou-yumemonogatari-kaijuu-kitan-izayoi-jigoku.json) |
@@ -528,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami Mahou | 188509 | [188509-kami-mahou.json](./188509-kami-mahou.json) |
 | Kami Naru Kimi To | 56772 | [56772-kami-naru-kimi-to.json](./56772-kami-naru-kimi-to.json) |
+| Kami no Kijutsu: Illusion of the Evil Eyes | 49651 | [49651-kami-no-kijutsu-illusion-of-the-evil-eyes.json](./49651-kami-no-kijutsu-illusion-of-the-evil-eyes.json) |
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
 | Kami no Rhapsody | 144875 | [144875-kami-no-rhapsody.json](./144875-kami-no-rhapsody.json) |
 | Kami Quest: Enter the Imagynasium | 361762 | [361762-kami-quest-enter-the-imagynasium.json](./361762-kami-quest-enter-the-imagynasium.json) |
@@ -1240,9 +1245,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Neko Girls | 160104 | [160104-kawaii-neko-girls.json](./160104-kawaii-neko-girls.json) |
 | Kawaii Neko Girls 2 | 319847 | [319847-kawaii-neko-girls-2.json](./319847-kawaii-neko-girls-2.json) |
 | Kawaii Panda | 95673 | [95673-kawaii-panda.json](./95673-kawaii-panda.json) |
+| Kawaii Pet Game Gallery | 49649 | [49649-kawaii-pet-game-gallery.json](./49649-kawaii-pet-game-gallery.json) |
+| Kawaii Pet Game Gallery 2 | 49648 | [49648-kawaii-pet-game-gallery-2.json](./49648-kawaii-pet-game-gallery-2.json) |
 | Kawaii Pet Megu | 315629 | [315629-kawaii-pet-megu.json](./315629-kawaii-pet-megu.json) |
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Pet Shop Monogatari 2 | 258866 | [258866-kawaii-pet-shop-monogatari-2.json](./258866-kawaii-pet-shop-monogatari-2.json) |
+| Kawaii Pet Shop Monogatari 3 | 49647 | [49647-kawaii-pet-shop-monogatari-3.json](./49647-kawaii-pet-shop-monogatari-3.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Idol Animal | 136915 | [136915-kawaii-pet-to-kurasou-wan-nyan-and-idol-animal.json](./136915-kawaii-pet-to-kurasou-wan-nyan-and-idol-animal.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
 | Kawaii Push | 421318 | [421318-kawaii-push.json](./421318-kawaii-push.json) |
@@ -1729,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Kerogen | 399667 | [399667-kerogen.json](./399667-kerogen.json) |
 | Keroppi to Keroriinu no Splash Bomb! | 48441 | [48441-keroppi-to-keroriinu-no-splash-bomb.json](./48441-keroppi-to-keroriinu-no-splash-bomb.json) |
+| Keroro Gunsou Taiketsu! Keroro Cart de Arimasu!! | 49646 | [49646-keroro-gunsou-taiketsu-keroro-cart-de-arimasu.json](./49646-keroro-gunsou-taiketsu-keroro-cart-de-arimasu.json) |
 | Keroro Gunsou: MeroMero Battle Royale | 61422 | [61422-keroro-gunsou-meromero-battle-royale.json](./61422-keroro-gunsou-meromero-battle-royale.json) |
 | Keroro Gunsou: MeroMero Battle Royale Z | 61420 | [61420-keroro-gunsou-meromero-battle-royale-z.json](./61420-keroro-gunsou-meromero-battle-royale-z.json) |
 | Keroro Gunsou: Taiketsu! Gekisou Keronprix Daisakusen de arimasu! | 61421 | [61421-keroro-gunsou-taiketsu-gekisou-keronprix-daisakusen-de-arimasu.json](./61421-keroro-gunsou-taiketsu-gekisou-keronprix-daisakusen-de-arimasu.json) |
@@ -2095,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Butou-den G Gundam | 42371 | [42371-kidou-butou-den-g-gundam.json](./42371-kidou-butou-den-g-gundam.json) |
 | Kidou Club G: Braver Burst | 206549 | [206549-kidou-club-g-braver-burst.json](./206549-kidou-club-g-braver-burst.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
+| Kidou Gekidan Haro Ichiza: Haro no Puyo Puyo | 49645 | [49645-kidou-gekidan-haro-ichiza-haro-no-puyo-puyo.json](./49645-kidou-gekidan-haro-ichiza-haro-no-puyo-puyo.json) |
 | Kidou Keisatsu Patlabor | 44435 | [44435-kidou-keisatsu-patlabor.json](./44435-kidou-keisatsu-patlabor.json) |
 | Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo! | 46075 | [46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json](./46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json) |
 | Kidou Keisatsu Patlabor: Dai-2-shoutai Shutsudou Seyo! | 41258 | [41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json](./41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json) |
@@ -2123,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi V-Gundam | 42518 | [42518-kidou-senshi-v-gundam.json](./42518-kidou-senshi-v-gundam.json) |
 | Kidou Senshi Z-Gundam: Away to the NewType | 42517 | [42517-kidou-senshi-z-gundam-away-to-the-newtype.json](./42517-kidou-senshi-z-gundam-away-to-the-newtype.json) |
 | Kidou Shinsengumi: Moeyo Ken | 370867 | [370867-kidou-shinsengumi-moeyo-ken.json](./370867-kidou-shinsengumi-moeyo-ken.json) |
+| Kidou Tenshi Angelic Layer | 49643 | [49643-kidou-tenshi-angelic-layer.json](./49643-kidou-tenshi-angelic-layer.json) |
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids ABC Games: Toddler Boys & Girls Learning | 88798 | [88798-kids-abc-games-toddler-boys-and-girls-learning.json](./88798-kids-abc-games-toddler-boys-and-girls-learning.json) |
@@ -4659,8 +4670,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
 | KoiKoi Revolution RX | 97850 | [97850-koikoi-revolution-rx.json](./97850-koikoi-revolution-rx.json) |
+| Koino no Kokoro Ikusei Game | 49683 | [49683-koino-no-kokoro-ikusei-game.json](./49683-koino-no-kokoro-ikusei-game.json) |
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
 | Koinu de Kururin | 412988 | [412988-koinu-de-kururin.json](./412988-koinu-de-kururin.json) |
+| Koinu to Issho! 2 | 49684 | [49684-koinu-to-issho-2.json](./49684-koinu-to-issho-2.json) |
 | Koioto Se Piace | 386255 | [386255-koioto-se-piace.json](./386255-koioto-se-piace.json) |
 | Koira | 305033 | [305033-koira.json](./305033-koira.json) |
 | Koishi Adventure | 296241 | [296241-koishi-adventure.json](./296241-koishi-adventure.json) |
@@ -4833,8 +4846,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konchuu Hakase | 228602 | [228602-konchuu-hakase.json](./228602-konchuu-hakase.json) |
 | Konchuu Hakase 2 | 228603 | [228603-konchuu-hakase-2.json](./228603-konchuu-hakase-2.json) |
 | Konchuu Monster: Battle Master | 97816 | [97816-konchuu-monster-battle-master.json](./97816-konchuu-monster-battle-master.json) |
+| Konchuu Monster: Battle Stadium | 49681 | [49681-konchuu-monster-battle-stadium.json](./49681-konchuu-monster-battle-stadium.json) |
 | Konchuu Monster: Super Battle | 222482 | [222482-konchuu-monster-super-battle.json](./222482-konchuu-monster-super-battle.json) |
 | Konchuu Monster: Super Battle | 97814 | [97814-konchuu-monster-super-battle.json](./97814-konchuu-monster-super-battle.json) |
+| Konchuu no Mori no Daibouken | 49680 | [49680-konchuu-no-mori-no-daibouken.json](./49680-konchuu-no-mori-no-daibouken.json) |
+| Konchuu Ouja Mushiking: Greatest Champion he no Michi | 49675 | [49675-konchuu-ouja-mushiking-greatest-champion-he-no-michi.json](./49675-konchuu-ouja-mushiking-greatest-champion-he-no-michi.json) |
 | Koncolos | 192264 | [192264-koncolos.json](./192264-koncolos.json) |
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Konduktor | 211517 | [211517-konduktor.json](./211517-konduktor.json) |
@@ -4866,6 +4882,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KongQuest | 216172 | [216172-kongquest.json](./216172-kongquest.json) |
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
+| Konjiki no Gash Bell!! Makai no Bookmark | 49679 | [49679-konjiki-no-gash-bell-makai-no-bookmark.json](./49679-konjiki-no-gash-bell-makai-no-bookmark.json) |
+| Konjiki no Gash Bell!! The Card Battle for GBA | 49677 | [49677-konjiki-no-gash-bell-the-card-battle-for-gba.json](./49677-konjiki-no-gash-bell-the-card-battle-for-gba.json) |
+| Konjiki no Gash Bell!! Unare! Yuujou no Zakeru 2 | 49678 | [49678-konjiki-no-gash-bell-unare-yuujou-no-zakeru-2.json](./49678-konjiki-no-gash-bell-unare-yuujou-no-zakeru-2.json) |
 | Konjiki no Gash Bell!! Yuujou no Dengeki Dream Tag Tournament | 269755 | [269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json](./269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json) |
 | Konjiki no Gash Bell!! Yuujou no Tag Battle Full Power | 3969 | [3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json](./3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json) |
 | Konjiki no Gash Bell!! Yuujou Tag Battle | 234643 | [234643-konjiki-no-gash-bell-yuujou-tag-battle.json](./234643-konjiki-no-gash-bell-yuujou-tag-battle.json) |
@@ -5120,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotoba no Puzzle Mojipittan Daijiten | 68082 | [68082-kotoba-no-puzzle-mojipittan-daijiten.json](./68082-kotoba-no-puzzle-mojipittan-daijiten.json) |
 | Kotoba no Puzzle Mojipittan Wii | 68081 | [68081-kotoba-no-puzzle-mojipittan-wii.json](./68081-kotoba-no-puzzle-mojipittan-wii.json) |
 | Kotoba no Puzzle: Mojipittan | 80798 | [80798-kotoba-no-puzzle-mojipittan.json](./80798-kotoba-no-puzzle-mojipittan.json) |
+| Kotoba no Puzzle: Mojipittan Advance | 49676 | [49676-kotoba-no-puzzle-mojipittan-advance.json](./49676-kotoba-no-puzzle-mojipittan-advance.json) |
 | Kotoba no Puzzle: Mojipittan DS | 68083 | [68083-kotoba-no-puzzle-mojipittan-ds.json](./68083-kotoba-no-puzzle-mojipittan-ds.json) |
 | Kotoba no Puzzle: Mojipittan Encore | 122292 | [122292-kotoba-no-puzzle-mojipittan-encore.json](./122292-kotoba-no-puzzle-mojipittan-encore.json) |
 | Kotoba no Puzzle: Mojipittan Wii Deluxe | 68080 | [68080-kotoba-no-puzzle-mojipittan-wii-deluxe.json](./68080-kotoba-no-puzzle-mojipittan-wii-deluxe.json) |
@@ -5644,6 +5664,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuni Chan no Game Tengoku | 45271 | [45271-kuni-chan-no-game-tengoku.json](./45271-kuni-chan-no-game-tengoku.json) |
 | Kuni Chan no Game Tengoku Part 2 | 45270 | [45270-kuni-chan-no-game-tengoku-part-2.json](./45270-kuni-chan-no-game-tengoku-part-2.json) |
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
+| Kunio-kun Nekketsu Collection | 49674 | [49674-kunio-kun-nekketsu-collection.json](./49674-kunio-kun-nekketsu-collection.json) |
+| Kunio-kun Nekketsu Collection 2 | 49673 | [49673-kunio-kun-nekketsu-collection-2.json](./49673-kunio-kun-nekketsu-collection-2.json) |
+| Kunio-kun Nekketsu Collection 3 | 49672 | [49672-kunio-kun-nekketsu-collection-3.json](./49672-kunio-kun-nekketsu-collection-3.json) |
 | Kunio-kun no Dodgeball Da yo Zenin Shuugou!: Tournament Special | 36899 | [36899-kunio-kun-no-dodgeball-da-yo-zenin-shuugou-tournament-special.json](./36899-kunio-kun-no-dodgeball-da-yo-zenin-shuugou-tournament-special.json) |
 | Kunio-kun no Nekketsu Dodgeball Allstars!! | 60502 | [60502-kunio-kun-no-nekketsu-dodgeball-allstars.json](./60502-kunio-kun-no-nekketsu-dodgeball-allstars.json) |
 | Kunio-kun no Nekketsu Street | 74769 | [74769-kunio-kun-no-nekketsu-street.json](./74769-kunio-kun-no-nekketsu-street.json) |
@@ -5716,6 +5739,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurogane Kaikijong | 336113 | [336113-kurogane-kaikijong.json](./336113-kurogane-kaikijong.json) |
 | Kurogane no Linebarrels | 56748 | [56748-kurogane-no-linebarrels.json](./56748-kurogane-no-linebarrels.json) |
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
+| Kurohige no Golf Shiyouyo | 49671 | [49671-kurohige-no-golf-shiyouyo.json](./49671-kurohige-no-golf-shiyouyo.json) |
+| Kurohige no Kurutto Jintori | 49670 | [49670-kurohige-no-kurutto-jintori.json](./49670-kurohige-no-kurutto-jintori.json) |
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
 | Kuroi Hitomi no Noir: Cielgris Fantasm | 213910 | [213910-kuroi-hitomi-no-noir-cielgris-fantasm.json](./213910-kuroi-hitomi-no-noir-cielgris-fantasm.json) |
 | Kuroi Mishin: Sekaikei Girl | 307069 | [307069-kuroi-mishin-sekaikei-girl.json](./307069-kuroi-mishin-sekaikei-girl.json) |
