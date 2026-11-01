@@ -3530,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Restaurant | 390599 | [390599-ghost-restaurant.json](./390599-ghost-restaurant.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
 | Ghost Rider | 6420 | [6420-ghost-rider.json](./6420-ghost-rider.json) |
+| Ghost Ring: The Soul Labyrinth | 60265 | [60265-ghost-ring-the-soul-labyrinth.json](./60265-ghost-ring-the-soul-labyrinth.json) |
 | Ghost Road | 272707 | [272707-ghost-road.json](./272707-ghost-road.json) |
 | Ghost Room | 291882 | [291882-ghost-room.json](./291882-ghost-room.json) |
 | Ghost Room Deep | 343720 | [343720-ghost-room-deep.json](./343720-ghost-room-deep.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
 | Gibo: Sayaka | 128363 | [128363-gibo-sayaka.json](./128363-gibo-sayaka.json) |
 | Gibson | 375220 | [375220-gibson.json](./375220-gibson.json) |
+| Gibson Hyperdrive | 60189 | [60189-gibson-hyperdrive.json](./60189-gibson-hyperdrive.json) |
 | Gibtropolis | 299848 | [299848-gibtropolis.json](./299848-gibtropolis.json) |
 | Gibz | 20404 | [20404-gibz.json](./20404-gibz.json) |
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
