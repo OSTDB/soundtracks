@@ -16304,6 +16304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Road | 230687 | [230687-cross-the-road.json](./230687-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
 | Cross Treasures | 67760 | [67760-cross-treasures.json](./67760-cross-treasures.json) |
+| Cross Wiber: Cyber-Combat-Police | 38088 | [38088-cross-wiber-cyber-combat-police.json](./38088-cross-wiber-cyber-combat-police.json) |
 | Cross Word | 89514 | [89514-cross-word.json](./89514-cross-word.json) |
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
 | Cross World: Mishiranu Sora no Etatia | 350459 | [350459-cross-world-mishiranu-sora-no-etatia.json](./350459-cross-world-mishiranu-sora-no-etatia.json) |
