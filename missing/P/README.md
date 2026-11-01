@@ -12057,6 +12057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Position | 127822 | [127822-position.json](./127822-position.json) |
+| Positron | 35107 | [35107-positron.json](./35107-positron.json) |
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
 | PositronX | 88302 | [88302-positronx.json](./88302-positronx.json) |
 | Posledniy Den' v Uryupinske | 368254 | [368254-posledniy-den-v-uryupinske.json](./368254-posledniy-den-v-uryupinske.json) |
@@ -15320,6 +15321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoBlue Tower | 373131 | [373131-protoblue-tower.json](./373131-protoblue-tower.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
 | Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
+| Protocol | 35049 | [35049-protocol.json](./35049-protocol.json) |
 | Protocol | 350914 | [350914-protocol.json](./350914-protocol.json) |
 | Protocol | 74225 | [74225-protocol.json](./74225-protocol.json) |
 | Protocol 86: Chernobyl | 419177 | [419177-protocol-86-chernobyl.json](./419177-protocol-86-chernobyl.json) |
