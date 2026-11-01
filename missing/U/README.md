@@ -3324,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utawarerumono: Lost Flag | 120286 | [120286-utawarerumono-lost-flag.json](./120286-utawarerumono-lost-flag.json) |
 | Utawarerumono: Mask of Deception | 13548 | [13548-utawarerumono-mask-of-deception.json](./13548-utawarerumono-mask-of-deception.json) |
 | Utawarerumono: Mask of Deception - Tamaki Samurai Ver. | 170710 | [170710-utawarerumono-mask-of-deception-tamaki-samurai-ver.json](./170710-utawarerumono-mask-of-deception-tamaki-samurai-ver.json) |
+| Utawarerumono: Mask of Truth | 26834 | [26834-utawarerumono-mask-of-truth.json](./26834-utawarerumono-mask-of-truth.json) |
 | Utawarerumono: Mask of Truth - Launch Edition | 212576 | [212576-utawarerumono-mask-of-truth-launch-edition.json](./212576-utawarerumono-mask-of-truth-launch-edition.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
 | Utawarerumono: Prelude to the Fallen | 77493 | [77493-utawarerumono-prelude-to-the-fallen.json](./77493-utawarerumono-prelude-to-the-fallen.json) |
