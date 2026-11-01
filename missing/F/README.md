@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: The Eternal Crystals | 309600 | [309600-final-fantasy-vi-the-eternal-crystals.json](./309600-final-fantasy-vi-the-eternal-crystals.json) |
 | Final Fantasy VII | 207026 | [207026-final-fantasy-vii.json](./207026-final-fantasy-vii.json) |
 | Final Fantasy VII | 207028 | [207028-final-fantasy-vii.json](./207028-final-fantasy-vii.json) |
+| Final Fantasy VII | 2406 | [2406-final-fantasy-vii.json](./2406-final-fantasy-vii.json) |
 | Final Fantasy VII | 381337 | [381337-final-fantasy-vii.json](./381337-final-fantasy-vii.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
 | Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack | 127879 | [127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json](./127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json) |
@@ -8820,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
 | Forbon FC | 182163 | [182163-forbon-fc.json](./182163-forbon-fc.json) |
 | Força Alienígena | 231205 | [231205-forca-alienigena.json](./231205-forca-alienigena.json) |
+| Force 21 | 1859 | [1859-force-21.json](./1859-force-21.json) |
 | Force 7 | 54672 | [54672-force-7.json](./54672-force-7.json) |
 | Force and Motion | 286357 | [286357-force-and-motion.json](./286357-force-and-motion.json) |
 | Force Escape | 91285 | [91285-force-escape.json](./91285-force-escape.json) |
@@ -9358,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One | 12082 | [12082-formula-one.json](./12082-formula-one.json) |
 | Formula One | 250341 | [250341-formula-one.json](./250341-formula-one.json) |
 | Formula One | 46551 | [46551-formula-one.json](./46551-formula-one.json) |
+| Formula One 04 | 8302 | [8302-formula-one-04.json](./8302-formula-one-04.json) |
 | Formula One 2000 | 204232 | [204232-formula-one-2000.json](./204232-formula-one-2000.json) |
 | Formula One 2001 | 8299 | [8299-formula-one-2001.json](./8299-formula-one-2001.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
@@ -10765,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Wings | 47820 | [47820-freedom-wings.json](./47820-freedom-wings.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom: Diegesis | 58685 | [58685-freedom-diegesis.json](./58685-freedom-diegesis.json) |
+| Freedom: First Resistance | 1862 | [1862-freedom-first-resistance.json](./1862-freedom-first-resistance.json) |
 | Freedom: Rebels in the Darkness | 15225 | [15225-freedom-rebels-in-the-darkness.json](./15225-freedom-rebels-in-the-darkness.json) |
 | Freedom! | 172422 | [172422-freedom.json](./172422-freedom.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
@@ -12721,6 +12725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Life | 215872 | [215872-fury-life.json](./215872-fury-life.json) |
 | Fury of Dracula | 175327 | [175327-fury-of-dracula.json](./175327-fury-of-dracula.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
+| Fury of the Furries | 8212 | [8212-fury-of-the-furries.json](./8212-fury-of-the-furries.json) |
 | Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
 | Fury of the Gods | 35174 | [35174-fury-of-the-gods.json](./35174-fury-of-the-gods.json) |
 | Fury of West | 217126 | [217126-fury-of-west.json](./217126-fury-of-west.json) |
@@ -12772,6 +12777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Kuni no Alice | 255622 | [255622-fushigi-no-kuni-no-alice.json](./255622-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Alice | 49571 | [49571-fushigi-no-kuni-no-alice.json](./49571-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Angelique | 49570 | [49570-fushigi-no-kuni-no-angelique.json](./49570-fushigi-no-kuni-no-angelique.json) |
+| Fushigi no Umi no Nadia | 4431 | [4431-fushigi-no-umi-no-nadia.json](./4431-fushigi-no-umi-no-nadia.json) |
 | Fushigi no Umi no Nadia | 48490 | [48490-fushigi-no-umi-no-nadia.json](./48490-fushigi-no-umi-no-nadia.json) |
 | Fushigi no Umi no Nadia: Gekichin! Garfish | 385710 | [385710-fushigi-no-umi-no-nadia-gekichin-garfish.json](./385710-fushigi-no-umi-no-nadia-gekichin-garfish.json) |
 | Fushigi no Yume no Alice | 66157 | [66157-fushigi-no-yume-no-alice.json](./66157-fushigi-no-yume-no-alice.json) |
