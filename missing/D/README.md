@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance It's Your Stage | 27477 | [27477-dance-its-your-stage.json](./27477-dance-its-your-stage.json) |
+| Dance Legend | 56818 | [56818-dance-legend.json](./56818-dance-legend.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Magic Fashion Style Games | 96298 | [96298-dance-magic-fashion-style-games.json](./96298-dance-magic-fashion-style-games.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
@@ -11462,6 +11463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pop My Bubble | 368539 | [368539-dont-pop-my-bubble.json](./368539-dont-pop-my-bubble.json) |
 | Don't Pop the Balloon | 391896 | [391896-dont-pop-the-balloon.json](./391896-dont-pop-the-balloon.json) |
 | Don't Pop The Balloon | 316779 | [316779-dont-pop-the-balloon.json](./316779-dont-pop-the-balloon.json) |
+| Don't Pop! Dungeon | 56786 | [56786-dont-pop-dungeon.json](./56786-dont-pop-dungeon.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Press A to Jump | 279484 | [279484-dont-press-a-to-jump.json](./279484-dont-press-a-to-jump.json) |
 | Don't Press The Button | 402948 | [402948-dont-press-the-button.json](./402948-dont-press-the-button.json) |
@@ -14203,6 +14205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakengard 3: Nier's Garb | 378989 | [378989-drakengard-3-niers-garb.json](./378989-drakengard-3-niers-garb.json) |
 | Drakengard 3: Tokyo Tower | 378988 | [378988-drakengard-3-tokyo-tower.json](./378988-drakengard-3-tokyo-tower.json) |
 | Drakengard 3: Zero's Garb (Variety Pack) | 378987 | [378987-drakengard-3-zeros-garb-variety-pack.json](./378987-drakengard-3-zeros-garb-variety-pack.json) |
+| Drakenlords: CCG Card Duels | 56790 | [56790-drakenlords-ccg-card-duels.json](./56790-drakenlords-ccg-card-duels.json) |
 | Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
 | Drakensang Online | 8772 | [8772-drakensang-online.json](./8772-drakensang-online.json) |
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
