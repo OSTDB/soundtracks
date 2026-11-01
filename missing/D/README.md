@@ -4239,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Kid + There's a Gun in the Office Bundle | 358629 | [358629-death-kid-theres-a-gun-in-the-office-bundle.json](./358629-death-kid-theres-a-gun-in-the-office-bundle.json) |
 | Death Kitchen | 355047 | [355047-death-kitchen.json](./355047-death-kitchen.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
+| Death Knights of Krynn | 12041 | [12041-death-knights-of-krynn.json](./12041-death-knights-of-krynn.json) |
 | Death Lap | 174550 | [174550-death-lap.json](./174550-death-lap.json) |
 | Death Lease | 266076 | [266076-death-lease.json](./266076-death-lease.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
@@ -5125,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
 | Deepy | 325023 | [325023-deepy.json](./325023-deepy.json) |
 | Deer | 383998 | [383998-deer.json](./383998-deer.json) |
+| Deer & Boy | 202138 | [202138-deer-and-boy.json](./202138-deer-and-boy.json) |
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
 | Deer Avenger 2: Deer in the City | 68724 | [68724-deer-avenger-2-deer-in-the-city.json](./68724-deer-avenger-2-deer-in-the-city.json) |
@@ -9911,6 +9913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Hunchback of Notre Dame | 198763 | [198763-disneys-the-hunchback-of-notre-dame.json](./198763-disneys-the-hunchback-of-notre-dame.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 120518 | [120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 228495 | [228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
+| Disney's The Jungle Book | 204575 | [204575-disneys-the-jungle-book.json](./204575-disneys-the-jungle-book.json) |
 | Disney's The Jungle Book | 204616 | [204616-disneys-the-jungle-book.json](./204616-disneys-the-jungle-book.json) |
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
@@ -12144,6 +12147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 64: Retribution | 201107 | [201107-doom-64-retribution.json](./201107-doom-64-retribution.json) |
 | DOOM 64: Unseen Evil | 294198 | [294198-doom-64-unseen-evil.json](./294198-doom-64-unseen-evil.json) |
 | DOOM 87: The Lost World | 257833 | [257833-doom-87-the-lost-world.json](./257833-doom-87-the-lost-world.json) |
+| Doom 95 | 210737 | [210737-doom-95.json](./210737-doom-95.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Absolution | 225487 | [225487-doom-absolution.json](./225487-doom-absolution.json) |
 | Doom Anthology | 332005 | [332005-doom-anthology.json](./332005-doom-anthology.json) |
