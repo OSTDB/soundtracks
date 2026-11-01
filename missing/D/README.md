@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Alone | 263067 | [263067-dead-alone.json](./263067-dead-alone.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
 | Dead and Buried II | 123203 | [123203-dead-and-buried-ii.json](./123203-dead-and-buried-ii.json) |
+| Dead Angle | 39929 | [39929-dead-angle.json](./39929-dead-angle.json) |
 | Dead Ant | 245149 | [245149-dead-ant.json](./245149-dead-ant.json) |
 | Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
@@ -6644,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Trek | 170340 | [170340-desert-trek.json](./170340-desert-trek.json) |
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Desert War | 167163 | [167163-desert-war.json](./167163-desert-war.json) |
+| Desert War | 39928 | [39928-desert-war.json](./39928-desert-war.json) |
 | Desert War 1940-1942 | 129593 | [129593-desert-war-1940-1942.json](./129593-desert-war-1940-1942.json) |
 | Desert War WWII | 224676 | [224676-desert-war-wwii.json](./224676-desert-war-wwii.json) |
 | Desert War: Military Combat Shooter | 376711 | [376711-desert-war-military-combat-shooter.json](./376711-desert-war-military-combat-shooter.json) |
