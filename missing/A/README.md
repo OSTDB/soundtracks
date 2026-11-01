@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Sky Over Paradise | 228994 | [228994-a-dark-sky-over-paradise.json](./228994-a-dark-sky-over-paradise.json) |
 | A Dark World: The Glowing City | 126337 | [126337-a-dark-world-the-glowing-city.json](./126337-a-dark-world-the-glowing-city.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
+| A Date in the Park | 32670 | [32670-a-date-in-the-park.json](./32670-a-date-in-the-park.json) |
 | A Date With Chester 2 | 383186 | [383186-a-date-with-chester-2.json](./383186-a-date-with-chester-2.json) |
 | A Date with Death | 253544 | [253544-a-date-with-death.json](./253544-a-date-with-death.json) |
 | A Date with Death: Beyond the Bet | 288917 | [288917-a-date-with-death-beyond-the-bet.json](./288917-a-date-with-death-beyond-the-bet.json) |
@@ -6164,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alicia Quatermain: Secrets of the Lost Treasures | 55533 | [55533-alicia-quatermain-secrets-of-the-lost-treasures.json](./55533-alicia-quatermain-secrets-of-the-lost-treasures.json) |
 | Alicorn Simulator 3D | 105718 | [105718-alicorn-simulator-3d.json](./105718-alicorn-simulator-3d.json) |
 | Alida | 7665 | [7665-alida.json](./7665-alida.json) |
+| Alien | 12240 | [12240-alien.json](./12240-alien.json) |
 | Alien | 195029 | [195029-alien.json](./195029-alien.json) |
 | Alien | 226104 | [226104-alien.json](./226104-alien.json) |
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
