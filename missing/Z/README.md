@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Z | 3275 | [3275-z.json](./3275-z.json) |
 | Z After | 213938 | [213938-z-after.json](./213938-z-after.json) |
 | Z After: A Point and Click Survival | 343272 | [343272-z-after-a-point-and-click-survival.json](./343272-z-after-a-point-and-click-survival.json) |
 | Z Arena | 153156 | [153156-z-arena.json](./153156-z-arena.json) |
