@@ -20074,6 +20074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Unicorn Castle: The Beastmaster | 33876 | [33876-mystery-of-unicorn-castle-the-beastmaster.json](./33876-mystery-of-unicorn-castle-the-beastmaster.json) |
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
 | Mystery P.I. - The New York Fortune | 14814 | [14814-mystery-p-i-the-new-york-fortune.json](./14814-mystery-p-i-the-new-york-fortune.json) |
+| Mystery P.I. - The Vegas Heist | 14812 | [14812-mystery-p-i-the-vegas-heist.json](./14812-mystery-p-i-the-vegas-heist.json) |
 | Mystery P.I. Kieta Film | 65207 | [65207-mystery-p-i-kieta-film.json](./65207-mystery-p-i-kieta-film.json) |
 | Mystery P.I.: Portrait of a Thief | 47711 | [47711-mystery-p-i-portrait-of-a-thief.json](./47711-mystery-p-i-portrait-of-a-thief.json) |
 | Mystery P.I.: Stolen in San Francisco | 80548 | [80548-mystery-p-i-stolen-in-san-francisco.json](./80548-mystery-p-i-stolen-in-san-francisco.json) |
