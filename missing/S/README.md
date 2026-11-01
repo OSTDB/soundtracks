@@ -4209,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of The Lost Keys: Episode I - The Attack on Disred | 173996 | [173996-secret-of-the-lost-keys-episode-i-the-attack-on-disred.json](./173996-secret-of-the-lost-keys-episode-i-the-attack-on-disred.json) |
 | Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
 | Secret of the Magic Crystals: The Race | 172326 | [172326-secret-of-the-magic-crystals-the-race.json](./172326-secret-of-the-magic-crystals-the-race.json) |
+| Secret of the Pendulum | 33719 | [33719-secret-of-the-pendulum.json](./33719-secret-of-the-pendulum.json) |
 | Secret of the Pendulum: Premium Edition | 98900 | [98900-secret-of-the-pendulum-premium-edition.json](./98900-secret-of-the-pendulum-premium-edition.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
 | Secret of the Rendrasha Blade | 112668 | [112668-secret-of-the-rendrasha-blade.json](./112668-secret-of-the-rendrasha-blade.json) |
@@ -9278,6 +9279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Pocket 3 | 6049 | [6049-side-pocket-3.json](./6049-side-pocket-3.json) |
 | Side Pocket for WonderSwan | 37485 | [37485-side-pocket-for-wonderswan.json](./37485-side-pocket-for-wonderswan.json) |
 | Side Pocket: Special Edition | 209011 | [209011-side-pocket-special-edition.json](./209011-side-pocket-special-edition.json) |
+| Side Quest | 33765 | [33765-side-quest.json](./33765-side-quest.json) |
 | Side Swap | 216263 | [216263-side-swap.json](./216263-side-swap.json) |
 | Side Swap 2D: Endless Fun | 232294 | [232294-side-swap-2d-endless-fun.json](./232294-side-swap-2d-endless-fun.json) |
 | Side Swipe | 60339 | [60339-side-swipe.json](./60339-side-swipe.json) |
@@ -10351,6 +10353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simultaneous Control | 196476 | [196476-simultaneous-control.json](./196476-simultaneous-control.json) |
 | SimuSex | 94335 | [94335-simusex.json](./94335-simusex.json) |
 | Simutek I | 74707 | [74707-simutek-i.json](./74707-simutek-i.json) |
+| Simutrans | 33717 | [33717-simutrans.json](./33717-simutrans.json) |
 | Simutrans: Pak128.Britain | 170180 | [170180-simutrans-pak128-britain.json](./170180-simutrans-pak128-britain.json) |
 | Simutrans: Pak128.German | 170181 | [170181-simutrans-pak128-german.json](./170181-simutrans-pak128-german.json) |
 | Simutrans: Pak128.Japan | 170178 | [170178-simutrans-pak128-japan.json](./170178-simutrans-pak128-japan.json) |
@@ -17669,6 +17672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle Arena | 170429 | [170429-space-battle-arena.json](./170429-space-battle-arena.json) |
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
+| Space Battle Core | 33651 | [33651-space-battle-core.json](./33651-space-battle-core.json) |
 | Space Battle Royale | 264000 | [264000-space-battle-royale.json](./264000-space-battle-royale.json) |
 | Space Battle VR | 112626 | [112626-space-battle-vr.json](./112626-space-battle-vr.json) |
 | Space Battle: Humanity | 51507 | [51507-space-battle-humanity.json](./51507-space-battle-humanity.json) |
@@ -24335,6 +24339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Space | 203630 | [203630-stellar-space.json](./203630-stellar-space.json) |
 | Stellar Sphere | 115356 | [115356-stellar-sphere.json](./115356-stellar-sphere.json) |
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
+| Stellar Stars | 33681 | [33681-stellar-stars.json](./33681-stellar-stars.json) |
 | Stellar Strider | 329505 | [329505-stellar-strider.json](./329505-stellar-strider.json) |
 | Stellar Stroll | 244323 | [244323-stellar-stroll.json](./244323-stellar-stroll.json) |
 | Stellar Survivor | 119476 | [119476-stellar-survivor.json](./119476-stellar-survivor.json) |
