@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Marisa | 332517 | [332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json](./332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Markus | 332518 | [332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json](./332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
+| Eiyuden Chronicle: Rising | 152245 | [152245-eiyuden-chronicle-rising.json](./152245-eiyuden-chronicle-rising.json) |
 | Eiyuu Densetsu Saga | 85787 | [85787-eiyuu-densetsu-saga.json](./85787-eiyuu-densetsu-saga.json) |
 | Eiyuu Shigan: Gal Act Heroism | 91760 | [91760-eiyuu-shigan-gal-act-heroism.json](./91760-eiyuu-shigan-gal-act-heroism.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
