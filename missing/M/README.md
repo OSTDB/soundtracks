@@ -4938,10 +4938,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of the Universe | 245451 | [245451-masters-of-the-universe.json](./245451-masters-of-the-universe.json) |
 | Masters of the Universe | 280865 | [280865-masters-of-the-universe.json](./280865-masters-of-the-universe.json) |
 | Masters of the Universe II: Super Masters! | 41492 | [41492-masters-of-the-universe-ii-super-masters.json](./41492-masters-of-the-universe-ii-super-masters.json) |
+| Masters of the Universe: He-Man - Defender of Grayskull | 8156 | [8156-masters-of-the-universe-he-man-defender-of-grayskull.json](./8156-masters-of-the-universe-he-man-defender-of-grayskull.json) |
 | Masters of the Universe: He-Man - Power of Grayskull | 6432 | [6432-masters-of-the-universe-he-man-power-of-grayskull.json](./6432-masters-of-the-universe-he-man-power-of-grayskull.json) |
 | Masters of the Universe: Legends Unite | 399034 | [399034-masters-of-the-universe-legends-unite.json](./399034-masters-of-the-universe-legends-unite.json) |
+| Masters of the Universe: The Arcade Game | 8157 | [8157-masters-of-the-universe-the-arcade-game.json](./8157-masters-of-the-universe-the-arcade-game.json) |
+| Masters of the Universe: The Ilearth Stone | 8158 | [8158-masters-of-the-universe-the-ilearth-stone.json](./8158-masters-of-the-universe-the-ilearth-stone.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
+| Masters of the Universe: The Super Adventure | 8159 | [8159-masters-of-the-universe-the-super-adventure.json](./8159-masters-of-the-universe-the-super-adventure.json) |
 | Masters of the World: Geopolitical Simulator 3 | 10542 | [10542-masters-of-the-world-geopolitical-simulator-3.json](./10542-masters-of-the-world-geopolitical-simulator-3.json) |
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
@@ -5504,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8510,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant Isle | 279488 | [279488-merchant-isle.json](./279488-merchant-isle.json) |
+| Merchant Kingdom | 4721 | [4721-merchant-kingdom.json](./4721-merchant-kingdom.json) |
 | Merchant Legends: The Founding | 235950 | [235950-merchant-legends-the-founding.json](./235950-merchant-legends-the-founding.json) |
 | Merchant of Phenistoria | 159574 | [159574-merchant-of-phenistoria.json](./159574-merchant-of-phenistoria.json) |
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
@@ -9075,6 +9081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Rush | 409737 | [409737-metal-slug-rush.json](./409737-metal-slug-rush.json) |
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
 | Metal Slug Triple Pack | 268630 | [268630-metal-slug-triple-pack.json](./268630-metal-slug-triple-pack.json) |
+| Metal Slug X | 18840 | [18840-metal-slug-x.json](./18840-metal-slug-x.json) |
 | Metal Slug X | 191478 | [191478-metal-slug-x.json](./191478-metal-slug-x.json) |
 | Metal Slug Zero Online | 137929 | [137929-metal-slug-zero-online.json](./137929-metal-slug-zero-online.json) |
 | Metal Slug: Attack | 59100 | [59100-metal-slug-attack.json](./59100-metal-slug-attack.json) |
@@ -9637,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michikusa Wanderer | 402853 | [402853-michikusa-wanderer.json](./402853-michikusa-wanderer.json) |
 | Michinoku Hisen Koimonogatari | 64666 | [64666-michinoku-hisen-koimonogatari.json](./64666-michinoku-hisen-koimonogatari.json) |
 | Michinoku Hitou Koimonogatari Kai | 64660 | [64660-michinoku-hitou-koimonogatari-kai.json](./64660-michinoku-hitou-koimonogatari-kai.json) |
+| Mick & Mack as the Global Gladiators | 4425 | [4425-mick-and-mack-as-the-global-gladiators.json](./4425-mick-and-mack-as-the-global-gladiators.json) |
 | Mickey & Donald | 145210 | [145210-mickey-and-donald.json](./145210-mickey-and-donald.json) |
 | Mickey & Friends | 198815 | [198815-mickey-and-friends.json](./198815-mickey-and-friends.json) |
 | Mickey & Friends | 198816 | [198816-mickey-and-friends.json](./198816-mickey-and-friends.json) |
@@ -9680,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Dangerous Chase | 8127 | [8127-mickeys-dangerous-chase.json](./8127-mickeys-dangerous-chase.json) |
 | Mickey's House Party | 214046 | [214046-mickeys-house-party.json](./214046-mickeys-house-party.json) |
 | Mickey's Playtown Adventure: A Day of Discovery! | 42488 | [42488-mickeys-playtown-adventure-a-day-of-discovery.json](./42488-mickeys-playtown-adventure-a-day-of-discovery.json) |
+| Mickey's Racing Adventure | 8128 | [8128-mickeys-racing-adventure.json](./8128-mickeys-racing-adventure.json) |
 | Mickey's Robot Laboratory | 320330 | [320330-mickeys-robot-laboratory.json](./320330-mickeys-robot-laboratory.json) |
 | Mickey's Speedway USA | 229851 | [229851-mickeys-speedway-usa.json](./229851-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
@@ -11782,6 +11791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
 | Mini Mecum | 199228 | [199228-mini-mecum.json](./199228-mini-mecum.json) |
 | Mini Merchant | 333455 | [333455-mini-merchant.json](./333455-mini-merchant.json) |
+| Mini Metro | 7767 | [7767-mini-metro.json](./7767-mini-metro.json) |
 | Mini Micro Racing | 298386 | [298386-mini-micro-racing.json](./298386-mini-micro-racing.json) |
 | Mini Miners | 227683 | [227683-mini-miners.json](./227683-mini-miners.json) |
 | Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
@@ -14555,6 +14565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Portable 3rd | 42759 | [42759-monster-hunter-portable-3rd.json](./42759-monster-hunter-portable-3rd.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
 | Monster Hunter Puzzles: Felyne Isles | 307018 | [307018-monster-hunter-puzzles-felyne-isles.json](./307018-monster-hunter-puzzles-felyne-isles.json) |
+| Monster Hunter Rise | 138950 | [138950-monster-hunter-rise.json](./138950-monster-hunter-rise.json) |
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
@@ -16039,6 +16050,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortimer and the Enchanted Castle | 69697 | [69697-mortimer-and-the-enchanted-castle.json](./69697-mortimer-and-the-enchanted-castle.json) |
 | Mortimer and the Riddles of the Medallion | 194 | [194-mortimer-and-the-riddles-of-the-medallion.json](./194-mortimer-and-the-riddles-of-the-medallion.json) |
 | Mortimer Beckett and the Crimson Thief | 8329 | [8329-mortimer-beckett-and-the-crimson-thief.json](./8329-mortimer-beckett-and-the-crimson-thief.json) |
+| Mortimer Beckett and the Lost King | 8328 | [8328-mortimer-beckett-and-the-lost-king.json](./8328-mortimer-beckett-and-the-lost-king.json) |
+| Mortimer Beckett and the Secrets of Spooky Manor | 8326 | [8326-mortimer-beckett-and-the-secrets-of-spooky-manor.json](./8326-mortimer-beckett-and-the-secrets-of-spooky-manor.json) |
+| Mortimer Beckett and the Time Paradox | 8327 | [8327-mortimer-beckett-and-the-time-paradox.json](./8327-mortimer-beckett-and-the-time-paradox.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
 | Morto: Chapter 1 | 163700 | [163700-morto-chapter-1.json](./163700-morto-chapter-1.json) |
@@ -16056,6 +16070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortuus Insanis | 63098 | [63098-mortuus-insanis.json](./63098-mortuus-insanis.json) |
 | Morty the Matador | 110212 | [110212-morty-the-matador.json](./110212-morty-the-matador.json) |
 | Mortyr 2093-1944 | 8342 | [8342-mortyr-2093-1944.json](./8342-mortyr-2093-1944.json) |
+| Mortyr II | 8343 | [8343-mortyr-ii.json](./8343-mortyr-ii.json) |
 | Morvus | 407997 | [407997-morvus.json](./407997-morvus.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
