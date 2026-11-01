@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4656,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast of Reincarnation | 348180 | [348180-beast-of-reincarnation.json](./348180-beast-of-reincarnation.json) |
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Park | 281950 | [281950-beast-park.json](./281950-beast-park.json) |
+| Beast Pets | 44271 | [44271-beast-pets.json](./44271-beast-pets.json) |
 | Beast Quest | 90331 | [90331-beast-quest.json](./90331-beast-quest.json) |
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
 | Beast Saga | 334624 | [334624-beast-saga.json](./334624-beast-saga.json) |
