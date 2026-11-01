@@ -6161,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi no Homo | 133312 | [133312-hi-no-homo.json](./133312-hi-no-homo.json) |
 | Hi no Ouji: Yamato Takeru | 44438 | [44438-hi-no-ouji-yamato-takeru.json](./44438-hi-no-ouji-yamato-takeru.json) |
 | Hi no Tori Houou-hen: Gaou no Bouken | 48474 | [48474-hi-no-tori-houou-hen-gaou-no-bouken.json](./48474-hi-no-tori-houou-hen-gaou-no-bouken.json) |
+| Hi no Tori: Houou-hen | 41694 | [41694-hi-no-tori-houou-hen.json](./41694-hi-no-tori-houou-hen.json) |
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
 | Hi Pai Paradise | 309599 | [309599-hi-pai-paradise.json](./309599-hi-pai-paradise.json) |
 | Hi Rev Racer | 217671 | [217671-hi-rev-racer.json](./217671-hi-rev-racer.json) |
