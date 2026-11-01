@@ -6233,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechers | 257250 | [257250-mechers.json](./257250-mechers.json) |
 | Mechinus | 99497 | [99497-mechinus.json](./99497-mechinus.json) |
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
+| MechKnight Chronicles: Knightfall | 51674 | [51674-mechknight-chronicles-knightfall.json](./51674-mechknight-chronicles-knightfall.json) |
 | MechNest | 182121 | [182121-mechnest.json](./182121-mechnest.json) |
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
@@ -7287,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Minis: Volume 3 | 45996 | [45996-mega-minis-volume-3.json](./45996-mega-minis-volume-3.json) |
 | Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
 | Mega Monster | 217678 | [217678-mega-monster.json](./217678-mega-monster.json) |
+| Mega Monster Mania | 51659 | [51659-mega-monster-mania.json](./51659-mega-monster-mania.json) |
 | Mega Mosaic | 298374 | [298374-mega-mosaic.json](./298374-mega-mosaic.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Mutant Escape: Hulk Edition | 187070 | [187070-mega-mutant-escape-hulk-edition.json](./187070-mega-mutant-escape-hulk-edition.json) |
@@ -9070,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaloid: Origin | 113545 | [113545-metaloid-origin.json](./113545-metaloid-origin.json) |
 | Metaloids | 92837 | [92837-metaloids.json](./92837-metaloids.json) |
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
+| Metalstorm Online | 51644 | [51644-metalstorm-online.json](./51644-metalstorm-online.json) |
 | Metaltech: Battledrome | 73516 | [73516-metaltech-battledrome.json](./73516-metaltech-battledrome.json) |
 | Metaltech: Earthsiege - Expansion Pack | 73554 | [73554-metaltech-earthsiege-expansion-pack.json](./73554-metaltech-earthsiege-expansion-pack.json) |
 | Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
