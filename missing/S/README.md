@@ -1551,8 +1551,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi DS 3 | 59278 | [59278-sangokushi-ds-3.json](./59278-sangokushi-ds-3.json) |
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
 | Sangokushi Eiketsuden | 55809 | [55809-sangokushi-eiketsuden.json](./55809-sangokushi-eiketsuden.json) |
+| Sangokushi for WonderSwan | 37494 | [37494-sangokushi-for-wonderswan.json](./37494-sangokushi-for-wonderswan.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi Game Boy-ban 2 | 282606 | [282606-sangokushi-game-boy-ban-2.json](./282606-sangokushi-game-boy-ban-2.json) |
+| Sangokushi II for WonderSwan | 37493 | [37493-sangokushi-ii-for-wonderswan.json](./37493-sangokushi-ii-for-wonderswan.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
 | Sangokushi III | 350289 | [350289-sangokushi-iii.json](./350289-sangokushi-iii.json) |
 | Sangokushi IV: Power Up Kit | 350293 | [350293-sangokushi-iv-power-up-kit.json](./350293-sangokushi-iv-power-up-kit.json) |
@@ -3575,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation-F | 75729 | [75729-sd-gundam-g-generation-f.json](./75729-sd-gundam-g-generation-f.json) |
 | SD Gundam G Generation-F IF | 75730 | [75730-sd-gundam-g-generation-f-if.json](./75730-sd-gundam-g-generation-f-if.json) |
 | SD Gundam G Generation: Advance | 49787 | [49787-sd-gundam-g-generation-advance.json](./49787-sd-gundam-g-generation-advance.json) |
+| SD Gundam G Generation: Gather Beat | 37491 | [37491-sd-gundam-g-generation-gather-beat.json](./37491-sd-gundam-g-generation-gather-beat.json) |
 | SD Gundam G Generation: Gather Beat 2 | 37321 | [37321-sd-gundam-g-generation-gather-beat-2.json](./37321-sd-gundam-g-generation-gather-beat-2.json) |
 | SD Gundam G Generation: Mono-Eye Gundams | 37320 | [37320-sd-gundam-g-generation-mono-eye-gundams.json](./37320-sd-gundam-g-generation-mono-eye-gundams.json) |
 | SD Gundam G Next | 38324 | [38324-sd-gundam-g-next.json](./38324-sd-gundam-g-next.json) |
@@ -3609,7 +3612,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
 | SD Gundam World: Gachapon Senshi 5 - Battle of Universal Century | 48855 | [48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json](./48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json) |
 | SD Gundam: Battle V Gundam | 218241 | [218241-sd-gundam-battle-v-gundam.json](./218241-sd-gundam-battle-v-gundam.json) |
+| SD Gundam: Emotional Jam | 37492 | [37492-sd-gundam-emotional-jam.json](./37492-sd-gundam-emotional-jam.json) |
 | SD Gundam: Final Battle | 218242 | [218242-sd-gundam-final-battle.json](./218242-sd-gundam-final-battle.json) |
+| SD Gundam: Gashapon Senki Episode 1 | 37490 | [37490-sd-gundam-gashapon-senki-episode-1.json](./37490-sd-gundam-gashapon-senki-episode-1.json) |
 | SD Gundam: Gundam Wars | 48518 | [48518-sd-gundam-gundam-wars.json](./48518-sd-gundam-gundam-wars.json) |
 | SD Gundam: Operation U.C. | 66590 | [66590-sd-gundam-operation-u-c.json](./66590-sd-gundam-operation-u-c.json) |
 | SD Gundam: Psycho Salamander no Kyoui | 40410 | [40410-sd-gundam-psycho-salamander-no-kyoui.json](./40410-sd-gundam-psycho-salamander-no-kyoui.json) |
@@ -5033,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkai Ibunroku Juntei Taisen | 282610 | [282610-senkai-ibunroku-juntei-taisen.json](./282610-senkai-ibunroku-juntei-taisen.json) |
 | Senkai Livin' | 392345 | [392345-senkai-livin.json](./392345-senkai-livin.json) |
 | Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori | 37313 | [37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json](./37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json) |
+| Senkaiden: TV Animation Senkaiden Houshin Engi Yori | 37489 | [37489-senkaiden-tv-animation-senkaiden-houshin-engi-yori.json](./37489-senkaiden-tv-animation-senkaiden-houshin-engi-yori.json) |
 | Senki Zesshou Symphogear XD Unlimited | 142616 | [142616-senki-zesshou-symphogear-xd-unlimited.json](./142616-senki-zesshou-symphogear-xd-unlimited.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
@@ -5043,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Senninha | 281875 | [281875-senninha.json](./281875-senninha.json) |
 | Senninha GP Racing | 203290 | [203290-senninha-gp-racing.json](./203290-senninha-gp-racing.json) |
+| Sennou Millennium | 37488 | [37488-sennou-millennium.json](./37488-sennou-millennium.json) |
 | Senora | 136231 | [136231-senora.json](./136231-senora.json) |
 | Senpai and the Mysterious Dungeon | 211563 | [211563-senpai-and-the-mysterious-dungeon.json](./211563-senpai-and-the-mysterious-dungeon.json) |
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
@@ -6665,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
 | Shanghai Mahjong Solitaire Premium II | 323112 | [323112-shanghai-mahjong-solitaire-premium-ii.json](./323112-shanghai-mahjong-solitaire-premium-ii.json) |
 | Shanghai Musume: Mahjong Girls | 58523 | [58523-shanghai-musume-mahjong-girls.json](./58523-shanghai-musume-mahjong-girls.json) |
+| Shanghai Pocket | 37487 | [37487-shanghai-pocket.json](./37487-shanghai-pocket.json) |
 | Shanghai Refresh | 123268 | [123268-shanghai-refresh.json](./123268-shanghai-refresh.json) |
 | Shanghai Street Racer | 79547 | [79547-shanghai-street-racer.json](./79547-shanghai-street-racer.json) |
 | Shanghai Summer | 234139 | [234139-shanghai-summer.json](./234139-shanghai-summer.json) |
@@ -7693,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome - Fantastic Story | 61317 | [61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json](./61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json) |
 | Shin Nippon Pro Wrestling: Gekitou Densetsu | 231519 | [231519-shin-nippon-pro-wrestling-gekitou-densetsu.json](./231519-shin-nippon-pro-wrestling-gekitou-densetsu.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden | 277151 | [277151-shin-nippon-pro-wrestling-toukon-retsuden.json](./277151-shin-nippon-pro-wrestling-toukon-retsuden.json) |
+| Shin Nippon Pro Wrestling: Toukon Retsuden | 37486 | [37486-shin-nippon-pro-wrestling-toukon-retsuden.json](./37486-shin-nippon-pro-wrestling-toukon-retsuden.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 4 | 45801 | [45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json](./45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden Advance | 61302 | [61302-shin-nippon-pro-wrestling-toukon-retsuden-advance.json](./61302-shin-nippon-pro-wrestling-toukon-retsuden-advance.json) |
@@ -9263,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Pocket | 45555 | [45555-side-pocket.json](./45555-side-pocket.json) |
 | Side Pocket | 6048 | [6048-side-pocket.json](./6048-side-pocket.json) |
 | Side Pocket 3 | 6049 | [6049-side-pocket-3.json](./6049-side-pocket-3.json) |
+| Side Pocket for WonderSwan | 37485 | [37485-side-pocket-for-wonderswan.json](./37485-side-pocket-for-wonderswan.json) |
 | Side Pocket: Special Edition | 209011 | [209011-side-pocket-special-edition.json](./209011-side-pocket-special-edition.json) |
 | Side Swap | 216263 | [216263-side-swap.json](./216263-side-swap.json) |
 | Side Swap 2D: Endless Fun | 232294 | [232294-side-swap-2d-endless-fun.json](./232294-side-swap-2d-endless-fun.json) |
@@ -12743,6 +12753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slit Mouthed | 192654 | [192654-slit-mouthed.json](./192654-slit-mouthed.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
 | Slither Dash | 97097 | [97097-slither-dash.json](./97097-slither-dash.json) |
+| Slither Link | 37484 | [37484-slither-link.json](./37484-slither-link.json) |
 | Slither Loop | 147078 | [147078-slither-loop.json](./147078-slither-loop.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
 | Slither Snake IO 2018 | 101372 | [101372-slither-snake-io-2018.json](./101372-slither-snake-io-2018.json) |
@@ -14651,6 +14662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
 | Soccer World | 321228 | [321228-soccer-world.json](./321228-soccer-world.json) |
 | Soccer World Cap | 241550 | [241550-soccer-world-cap.json](./241550-soccer-world-cap.json) |
+| Soccer Yarou!: Challenge the World | 37483 | [37483-soccer-yarou-challenge-the-world.json](./37483-soccer-yarou-challenge-the-world.json) |
 | Soccer: Breakthrough Gaming Arcade | 207063 | [207063-soccer-breakthrough-gaming-arcade.json](./207063-soccer-breakthrough-gaming-arcade.json) |
 | Soccer: Breakthrough Gaming Arcade - Challenge Mode Edition | 214904 | [214904-soccer-breakthrough-gaming-arcade-challenge-mode-edition.json](./214904-soccer-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Soccer: Goal Keeper cup | 232314 | [232314-soccer-goal-keeper-cup.json](./232314-soccer-goal-keeper-cup.json) |
@@ -16935,6 +16947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
 | Sotsugyou Bangai-hen: Nee Mahjong Shiyo! | 42309 | [42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json](./42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json) |
 | Sotsugyou Crossworld | 108838 | [108838-sotsugyou-crossworld.json](./108838-sotsugyou-crossworld.json) |
+| Sotsugyou Graduation for WonderSwan | 37482 | [37482-sotsugyou-graduation-for-wonderswan.json](./37482-sotsugyou-graduation-for-wonderswan.json) |
 | Sotsugyou M: Male Graduation - Seitokai Naga no Kareinaru Inbou | 166395 | [166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json](./166395-sotsugyou-m-male-graduation-seitokai-naga-no-kareinaru-inbou.json) |
 | Sotsugyou R: Graduation Real | 166396 | [166396-sotsugyou-r-graduation-real.json](./166396-sotsugyou-r-graduation-real.json) |
 | Sotsugyou Ryokou | 263955 | [263955-sotsugyou-ryokou.json](./263955-sotsugyou-ryokou.json) |
@@ -18036,6 +18049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30082,6 +30096,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
 | Super Robot Taisen Alpha for Dreamcast | 241829 | [241829-super-robot-taisen-alpha-for-dreamcast.json](./241829-super-robot-taisen-alpha-for-dreamcast.json) |
 | Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
+| Super Robot Taisen Compact | 37481 | [37481-super-robot-taisen-compact.json](./37481-super-robot-taisen-compact.json) |
+| Super Robot Taisen Compact 2 Dai-1-bu: Chijou Gekidou-hen | 37480 | [37480-super-robot-taisen-compact-2-dai-1-bu-chijou-gekidou-hen.json](./37480-super-robot-taisen-compact-2-dai-1-bu-chijou-gekidou-hen.json) |
+| Super Robot Taisen Compact 2 Dai-2-bu: Uchuu Gekishin-hen | 37479 | [37479-super-robot-taisen-compact-2-dai-2-bu-uchuu-gekishin-hen.json](./37479-super-robot-taisen-compact-2-dai-2-bu-uchuu-gekishin-hen.json) |
+| Super Robot Taisen Compact 2 Dai-3-bu: Ginga Kessen-hen | 37478 | [37478-super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen.json](./37478-super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen.json) |
 | Super Robot Taisen Compact 3 | 37316 | [37316-super-robot-taisen-compact-3.json](./37316-super-robot-taisen-compact-3.json) |
 | Super Robot Taisen Complete Box | 79336 | [79336-super-robot-taisen-complete-box.json](./79336-super-robot-taisen-complete-box.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
