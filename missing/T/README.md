@@ -7727,6 +7727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil | 177806 | [177806-the-devil.json](./177806-the-devil.json) |
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Ball | 339206 | [339206-the-devil-ball.json](./339206-the-devil-ball.json) |
+| The Devil on G-String | 26789 | [26789-the-devil-on-g-string.json](./26789-the-devil-on-g-string.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
 | The Devil Within: Satgat | 213423 | [213423-the-devil-within-satgat.json](./213423-the-devil-within-satgat.json) |
@@ -11070,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Battle | 42298 | [42298-the-last-battle.json](./42298-the-last-battle.json) |
 | The Last Bee | 380186 | [380186-the-last-bee.json](./380186-the-last-bee.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
+| The Last Blade | 22844 | [22844-the-last-blade.json](./22844-the-last-blade.json) |
 | The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
 | The Last Blade: Beyond the Destiny | 210443 | [210443-the-last-blade-beyond-the-destiny.json](./210443-the-last-blade-beyond-the-destiny.json) |
@@ -11619,6 +11621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel III - Early Enrollment Edition | 136071 | [136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json](./136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Kiseki Box | 136744 | [136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json](./136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Limited Kiseki Box | 167067 | [167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json](./167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json) |
+| The Legend of Heroes: Trails of Cold Steel IV | 78115 | [78115-the-legend-of-heroes-trails-of-cold-steel-iv.json](./78115-the-legend-of-heroes-trails-of-cold-steel-iv.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Attachment Set | 224426 | [224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json](./224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
