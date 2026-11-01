@@ -13809,6 +13809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Husbandry | 354917 | [354917-cosmic-husbandry.json](./354917-cosmic-husbandry.json) |
 | Cosmic Invasion | 187694 | [187694-cosmic-invasion.json](./187694-cosmic-invasion.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
+| Cosmic Jailbreak | 23203 | [23203-cosmic-jailbreak.json](./23203-cosmic-jailbreak.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
 | Cosmic Kites | 38814 | [38814-cosmic-kites.json](./38814-cosmic-kites.json) |
 | Cosmic Lander | 185374 | [185374-cosmic-lander.json](./185374-cosmic-lander.json) |
@@ -18000,6 +18001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curiosity Killed the Explorer | 277541 | [277541-curiosity-killed-the-explorer.json](./277541-curiosity-killed-the-explorer.json) |
 | Curiosity of a Turnabout | 310423 | [310423-curiosity-of-a-turnabout.json](./310423-curiosity-of-a-turnabout.json) |
 | Curiosity Queller | 184392 | [184392-curiosity-queller.json](./184392-curiosity-queller.json) |
+| Curiosity: What's Inside the Cube? | 23164 | [23164-curiosity-whats-inside-the-cube.json](./23164-curiosity-whats-inside-the-cube.json) |
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
 | Curious Alice | 150456 | [150456-curious-alice.json](./150456-curious-alice.json) |
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
