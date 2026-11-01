@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
 | LA Street Racing | 27553 | [27553-la-street-racing.json](./27553-la-street-racing.json) |
 | La Tailor Girl | 198353 | [198353-la-tailor-girl.json](./198353-la-tailor-girl.json) |
+| La Tale | 16856 | [16856-la-tale.json](./16856-la-tale.json) |
 | La Tale: Devil's garden - Rosengarten | 80964 | [80964-la-tale-devils-garden-rosengarten.json](./80964-la-tale-devils-garden-rosengarten.json) |
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
@@ -4923,6 +4924,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
 | Line Ninja | 21984 | [21984-line-ninja.json](./21984-line-ninja.json) |
 | Line of Defense | 65362 | [65362-line-of-defense.json](./65362-line-of-defense.json) |
+| Line of Defense MMO | 16893 | [16893-line-of-defense-mmo.json](./16893-line-of-defense-mmo.json) |
+| Line of Defense Tactics | 16894 | [16894-line-of-defense-tactics.json](./16894-line-of-defense-tactics.json) |
 | Line of Defense Tactics Prime | 197735 | [197735-line-of-defense-tactics-prime.json](./197735-line-of-defense-tactics-prime.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
@@ -5216,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Metal: Arena | 184830 | [184830-liquid-metal-arena.json](./184830-liquid-metal-arena.json) |
 | Liquid Peak: Offroad | 349743 | [349743-liquid-peak-offroad.json](./349743-liquid-peak-offroad.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
+| Liquid Rhythm | 16826 | [16826-liquid-rhythm.json](./16826-liquid-rhythm.json) |
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
 | Liquid Space | 264554 | [264554-liquid-space.json](./264554-liquid-space.json) |
 | Liquid Sugar | 357193 | [357193-liquid-sugar.json](./357193-liquid-sugar.json) |
