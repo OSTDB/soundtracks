@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil Android | 354582 | [354582-neil-android.json](./354582-neil-android.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
+| Neilos | 57396 | [57396-neilos.json](./57396-neilos.json) |
 | Neither Day nor Night | 123768 | [123768-neither-day-nor-night.json](./123768-neither-day-nor-night.json) |
 | Neither Dead nor Alive | 345823 | [345823-neither-dead-nor-alive.json](./345823-neither-dead-nor-alive.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
@@ -6936,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbertron | 202714 | [202714-numbertron.json](./202714-numbertron.json) |
 | Numberzilla | 331380 | [331380-numberzilla.json](./331380-numberzilla.json) |
 | Numblast | 20282 | [20282-numblast.json](./20282-numblast.json) |
+| Numbo Jumbo | 57404 | [57404-numbo-jumbo.json](./57404-numbo-jumbo.json) |
 | Numbra | 346727 | [346727-numbra.json](./346727-numbra.json) |
 | Numbskull | 308343 | [308343-numbskull.json](./308343-numbskull.json) |
 | Numbskull Monogatari | 415958 | [415958-numbskull-monogatari.json](./415958-numbskull-monogatari.json) |
