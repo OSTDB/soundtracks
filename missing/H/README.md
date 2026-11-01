@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HammerHelm | 47136 | [47136-hammerhelm.json](./47136-hammerhelm.json) |
 | Hämmeri | 298825 | [298825-hammeri.json](./298825-hammeri.json) |
 | Hammerin' Harry | 10451 | [10451-hammerin-harry.json](./10451-hammerin-harry.json) |
+| Hammerin' Harry | 38638 | [38638-hammerin-harry.json](./38638-hammerin-harry.json) |
 | Hammerin' Harry 2: Dan the Red Strikes Back - Collector's Edition | 306987 | [306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json](./306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json) |
 | Hammerin' Harry: Collector's Edition | 306986 | [306986-hammerin-harry-collectors-edition.json](./306986-hammerin-harry-collectors-edition.json) |
 | Hammerin' Harry: Concrete Collection | 306988 | [306988-hammerin-harry-concrete-collection.json](./306988-hammerin-harry-concrete-collection.json) |
@@ -2506,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Legends: The Queen of Spades - Collector's Edition | 31067 | [31067-haunted-legends-the-queen-of-spades-collectors-edition.json](./31067-haunted-legends-the-queen-of-spades-collectors-edition.json) |
 | Haunted Legends: The Scars of Lamia | 139205 | [139205-haunted-legends-the-scars-of-lamia.json](./139205-haunted-legends-the-scars-of-lamia.json) |
 | Haunted Legends: The Secret of Life | 100007 | [100007-haunted-legends-the-secret-of-life.json](./100007-haunted-legends-the-secret-of-life.json) |
+| Haunted Legends: The Stone Guest | 38660 | [38660-haunted-legends-the-stone-guest.json](./38660-haunted-legends-the-stone-guest.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
 | Haunted Legends: The Stone Guest HD | 103907 | [103907-haunted-legends-the-stone-guest-hd.json](./103907-haunted-legends-the-stone-guest-hd.json) |
 | Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
