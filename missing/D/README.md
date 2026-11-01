@@ -10236,6 +10236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
 | Divinity Fatum | 227769 | [227769-divinity-fatum.json](./227769-divinity-fatum.json) |
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
+| Divinity II: Ego Draconis | 6358 | [6358-divinity-ii-ego-draconis.json](./6358-divinity-ii-ego-draconis.json) |
 | Divinity II: The Dragon Knight Saga | 13178 | [13178-divinity-ii-the-dragon-knight-saga.json](./13178-divinity-ii-the-dragon-knight-saga.json) |
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
 | Divinity: Dragon Commander | 2905 | [2905-divinity-dragon-commander.json](./2905-divinity-dragon-commander.json) |
@@ -11806,6 +11807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country 4 | 186648 | [186648-donkey-kong-country-4.json](./186648-donkey-kong-country-4.json) |
 | Donkey Kong Country Mania | 162831 | [162831-donkey-kong-country-mania.json](./162831-donkey-kong-country-mania.json) |
 | Donkey Kong Country NES Edition | 338803 | [338803-donkey-kong-country-nes-edition.json](./338803-donkey-kong-country-nes-edition.json) |
+| Donkey Kong Country Returns 3D | 20110 | [20110-donkey-kong-country-returns-3d.json](./20110-donkey-kong-country-returns-3d.json) |
 | Donkey Kong Country Returns HD | 306143 | [306143-donkey-kong-country-returns-hd.json](./306143-donkey-kong-country-returns-hd.json) |
 | Donkey Kong Country Returns HD: Version 1.1.0 | 386852 | [386852-donkey-kong-country-returns-hd-version-1-1-0.json](./386852-donkey-kong-country-returns-hd-version-1-1-0.json) |
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
@@ -13455,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Inquisition - Spoils of the Qunari | 367438 | [367438-dragon-age-inquisition-spoils-of-the-qunari.json](./367438-dragon-age-inquisition-spoils-of-the-qunari.json) |
 | Dragon Age: Inquisition - The Black Emporium | 367431 | [367431-dragon-age-inquisition-the-black-emporium.json](./367431-dragon-age-inquisition-the-black-emporium.json) |
 | Dragon Age: Inquisition - The Descent | 20188 | [20188-dragon-age-inquisition-the-descent.json](./20188-dragon-age-inquisition-the-descent.json) |
+| Dragon Age: Inquisition - Trespasser | 20189 | [20189-dragon-age-inquisition-trespasser.json](./20189-dragon-age-inquisition-trespasser.json) |
 | Dragon Age: Origins - A Tale of Orzammar | 224491 | [224491-dragon-age-origins-a-tale-of-orzammar.json](./224491-dragon-age-origins-a-tale-of-orzammar.json) |
 | Dragon Age: Origins - Feastday Gifts | 367441 | [367441-dragon-age-origins-feastday-gifts.json](./367441-dragon-age-origins-feastday-gifts.json) |
 | Dragon Age: Origins - Feastday Gifts and Pranks | 368144 | [368144-dragon-age-origins-feastday-gifts-and-pranks.json](./368144-dragon-age-origins-feastday-gifts-and-pranks.json) |
@@ -13464,6 +13467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
 | Dragon Age: Origins - Ultimate Edition | 27911 | [27911-dragon-age-origins-ultimate-edition.json](./27911-dragon-age-origins-ultimate-edition.json) |
 | Dragon Age: Origins - Warden's Keep | 17466 | [17466-dragon-age-origins-wardens-keep.json](./17466-dragon-age-origins-wardens-keep.json) |
+| Dragon Age: Origins - Witch Hunt | 17464 | [17464-dragon-age-origins-witch-hunt.json](./17464-dragon-age-origins-witch-hunt.json) |
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
 | Dragon Age: The Veilguard - Deluxe Edition | 321666 | [321666-dragon-age-the-veilguard-deluxe-edition.json](./321666-dragon-age-the-veilguard-deluxe-edition.json) |
 | Dragon and Mahjong | 402371 | [402371-dragon-and-mahjong.json](./402371-dragon-and-mahjong.json) |
@@ -13609,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Pong | 338683 | [338683-dragon-ball-z-pong.json](./338683-dragon-ball-z-pong.json) |
 | Dragon Ball Z: Recompiled | 416627 | [416627-dragon-ball-z-recompiled.json](./416627-dragon-ball-z-recompiled.json) |
 | Dragon Ball Z: Sagas | 3896 | [3896-dragon-ball-z-sagas.json](./3896-dragon-ball-z-sagas.json) |
+| Dragon Ball Z: Shin Budokai | 2567 | [2567-dragon-ball-z-shin-budokai.json](./2567-dragon-ball-z-shin-budokai.json) |
 | Dragon Ball Z: Shin Budokai - Another Road | 2568 | [2568-dragon-ball-z-shin-budokai-another-road.json](./2568-dragon-ball-z-shin-budokai-another-road.json) |
 | Dragon Ball Z: Shin Budokai Another Road Revisited | 353308 | [353308-dragon-ball-z-shin-budokai-another-road-revisited.json](./353308-dragon-ball-z-shin-budokai-another-road-revisited.json) |
 | Dragon Ball Z: Shin Butouden | 45464 | [45464-dragon-ball-z-shin-butouden.json](./45464-dragon-ball-z-shin-butouden.json) |
@@ -14406,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Drastic Killer | 59170 | [59170-drastic-killer.json](./59170-drastic-killer.json) |
+| Draugen | 9835 | [9835-draugen.json](./9835-draugen.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draught | 383170 | [383170-draught.json](./383170-draught.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
