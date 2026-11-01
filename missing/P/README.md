@@ -6341,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Dreams | 260726 | [260726-pinball-dreams.json](./260726-pinball-dreams.json) |
 | Pinball Dreams | 3024 | [3024-pinball-dreams.json](./3024-pinball-dreams.json) |
 | Pinball Dreams Deluxe | 250197 | [250197-pinball-dreams-deluxe.json](./250197-pinball-dreams-deluxe.json) |
+| Pinball Dreams II | 50267 | [50267-pinball-dreams-ii.json](./50267-pinball-dreams-ii.json) |
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | PinBall Escape | 397282 | [397282-pinball-escape.json](./397282-pinball-escape.json) |
@@ -11618,6 +11619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
+| Pop-A-Tronic | 50242 | [50242-pop-a-tronic.json](./50242-pop-a-tronic.json) |
 | Pop-It! Or Don't.. | 150952 | [150952-pop-it-or-dont.json](./150952-pop-it-or-dont.json) |
 | Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
