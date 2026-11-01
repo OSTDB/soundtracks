@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.I. Joe: Wrath of Cobra | 264313 | [264313-g-i-joe-wrath-of-cobra.json](./264313-g-i-joe-wrath-of-cobra.json) |
 | G.I.R.L.S. will be Girls | 397391 | [397391-g-i-r-l-s-will-be-girls.json](./397391-g-i-r-l-s-will-be-girls.json) |
+| G.nius | 14893 | [14893-g-nius.json](./14893-g-nius.json) |
 | G.O.D Pure: Growth or Devolution | 62380 | [62380-g-o-d-pure-growth-or-devolution.json](./62380-g-o-d-pure-growth-or-devolution.json) |
 | G.O.D: Mezame yo to Yobu Koe ga Kikoe | 42433 | [42433-g-o-d-mezame-yo-to-yobu-koe-ga-kikoe.json](./42433-g-o-d-mezame-yo-to-yobu-koe-ga-kikoe.json) |
 | G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
@@ -456,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
 | Galactic Blitz | 22560 | [22560-galactic-blitz.json](./22560-galactic-blitz.json) |
 | Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
+| Galactic Bowling | 14922 | [14922-galactic-bowling.json](./14922-galactic-bowling.json) |
 | Galactic Breakout | 276264 | [276264-galactic-breakout.json](./276264-galactic-breakout.json) |
 | Galactic Bulwark Strike | 100629 | [100629-galactic-bulwark-strike.json](./100629-galactic-bulwark-strike.json) |
 | Galactic Campaign | 116878 | [116878-galactic-campaign.json](./116878-galactic-campaign.json) |
@@ -498,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Conflict | 200312 | [200312-galactic-conflict.json](./200312-galactic-conflict.json) |
+| Galactic Conqueror | 14894 | [14894-galactic-conqueror.json](./14894-galactic-conqueror.json) |
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
 | Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
@@ -1063,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Densetsu Tetsuya Digest | 332956 | [332956-gambler-densetsu-tetsuya-digest.json](./332956-gambler-densetsu-tetsuya-digest.json) |
 | Gambler Densetsu Tetsuya: Shinjuku Tenun-hen | 281451 | [281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json](./281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json) |
 | Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
+| Gambler Jiko Chuushin-ha: Mahjong Kouisen | 15228 | [15228-gambler-jiko-chuushin-ha-mahjong-kouisen.json](./15228-gambler-jiko-chuushin-ha-mahjong-kouisen.json) |
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
 | Gambler Jiko Chuushinha 2 Gekitou! Tokyo Mahjong Land-hen | 46390 | [46390-gambler-jiko-chuushinha-2-gekitou-tokyo-mahjong-land-hen.json](./46390-gambler-jiko-chuushinha-2-gekitou-tokyo-mahjong-land-hen.json) |
@@ -3357,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting to the Other Side!!! | 243565 | [243565-getting-to-the-other-side.json](./243565-getting-to-the-other-side.json) |
 | Getting Touchy with Albertine | 400933 | [400933-getting-touchy-with-albertine.json](./400933-getting-touchy-with-albertine.json) |
 | Getting Vivisected! (ASMR) | 401254 | [401254-getting-vivisected-asmr.json](./401254-getting-vivisected-asmr.json) |
+| Gettysburg | 14895 | [14895-gettysburg.json](./14895-gettysburg.json) |
 | Gettysburg: Fields of Valor | 190095 | [190095-gettysburg-fields-of-valor.json](./190095-gettysburg-fields-of-valor.json) |
 | Gettysburg: the Tide Turns | 51445 | [51445-gettysburg-the-tide-turns.json](./51445-gettysburg-the-tide-turns.json) |
 | Gettysburg: The Turning Point | 26396 | [26396-gettysburg-the-turning-point.json](./26396-gettysburg-the-turning-point.json) |
@@ -3374,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
 | Gezeichnet: Unsere Flucht 1945 | 244928 | [244928-gezeichnet-unsere-flucht-1945.json](./244928-gezeichnet-unsere-flucht-1945.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
+| GFL Championship Football | 14896 | [14896-gfl-championship-football.json](./14896-gfl-championship-football.json) |
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
 | GFS Sorceress | 23324 | [23324-gfs-sorceress.json](./23324-gfs-sorceress.json) |
 | GG Aleste | 46317 | [46317-gg-aleste.json](./46317-gg-aleste.json) |
@@ -7268,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix / Demolition Derby | 169270 | [169270-grand-prix-demolition-derby.json](./169270-grand-prix-demolition-derby.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
 | Grand Prix 500 2 | 80645 | [80645-grand-prix-500-2.json](./80645-grand-prix-500-2.json) |
+| Grand Prix 500 cc | 15229 | [15229-grand-prix-500-cc.json](./15229-grand-prix-500-cc.json) |
 | Grand Prix Championship 2 | 54064 | [54064-grand-prix-championship-2.json](./54064-grand-prix-championship-2.json) |
 | Grand Prix Circuit | 12124 | [12124-grand-prix-circuit.json](./12124-grand-prix-circuit.json) |
 | Grand Prix Circuit | 278443 | [278443-grand-prix-circuit.json](./278443-grand-prix-circuit.json) |
