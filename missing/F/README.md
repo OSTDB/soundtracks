@@ -159,8 +159,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2002 | 229739 | [229739-f1-2002.json](./229739-f1-2002.json) |
 | F1 2009 | 4837 | [4837-f1-2009.json](./4837-f1-2009.json) |
 | F1 2010 | 1375 | [1375-f1-2010.json](./1375-f1-2010.json) |
+| F1 2011 | 1374 | [1374-f1-2011.json](./1374-f1-2011.json) |
 | F1 2012 | 1373 | [1373-f1-2012.json](./1373-f1-2012.json) |
+| F1 2013 | 5586 | [5586-f1-2013.json](./5586-f1-2013.json) |
 | F1 2013: Classic Edition Game Bundle | 99925 | [99925-f1-2013-classic-edition-game-bundle.json](./99925-f1-2013-classic-edition-game-bundle.json) |
+| F1 2015 | 9272 | [9272-f1-2015.json](./9272-f1-2015.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2017 | 28951 | [28951-f1-2017.json](./28951-f1-2017.json) |
 | F1 2018 | 101439 | [101439-f1-2018.json](./101439-f1-2018.json) |
@@ -2900,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Bonus Set | 387682 | [387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json](./387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Edition | 387683 | [387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json](./387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Early Purchase Bonus Set | 387684 | [387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json](./387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json) |
+| Fatal Frame III: The Tormented | 5107 | [5107-fatal-frame-iii-the-tormented.json](./5107-fatal-frame-iii-the-tormented.json) |
 | Fatal Frame: Maiden of Black Water | 152397 | [152397-fatal-frame-maiden-of-black-water.json](./152397-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Maiden of Black Water - 20th Anniversary Celebration DLC | 238335 | [238335-fatal-frame-maiden-of-black-water-20th-anniversary-celebration-dlc.json](./238335-fatal-frame-maiden-of-black-water-20th-anniversary-celebration-dlc.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
@@ -8558,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2022 | 168537 | [168537-football-manager-2022.json](./168537-football-manager-2022.json) |
 | Football Manager 2022 Mobile | 187830 | [187830-football-manager-2022-mobile.json](./187830-football-manager-2022-mobile.json) |
 | Football Manager 2022 Touch | 180977 | [180977-football-manager-2022-touch.json](./180977-football-manager-2022-touch.json) |
+| Football Manager 2023 | 216178 | [216178-football-manager-2023.json](./216178-football-manager-2023.json) |
 | Football Manager 2023 Touch | 226336 | [226336-football-manager-2023-touch.json](./226336-football-manager-2023-touch.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 2024 Mobile | 295327 | [295327-football-manager-2024-mobile.json](./295327-football-manager-2024-mobile.json) |
@@ -9473,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
 | Fort Meow | 11246 | [11246-fort-meow.json](./11246-fort-meow.json) |
 | Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
+| Fort Solis | 204356 | [204356-fort-solis.json](./204356-fort-solis.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Solis: Terra Edition | 262225 | [262225-fort-solis-terra-edition.json](./262225-fort-solis-terra-edition.json) |
 | Fort Stars | 308171 | [308171-fort-stars.json](./308171-fort-stars.json) |
