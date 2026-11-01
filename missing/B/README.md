@@ -896,7 +896,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3964,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Pioneer | 216087 | [216087-battlefield-pioneer.json](./216087-battlefield-pioneer.json) |
 | Battlefield Pirates | 363689 | [363689-battlefield-pirates.json](./363689-battlefield-pirates.json) |
 | Battlefield Pirates 2 | 363690 | [363690-battlefield-pirates-2.json](./363690-battlefield-pirates-2.json) |
+| Battlefield Play4Free | 354 | [354-battlefield-play4free.json](./354-battlefield-play4free.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
@@ -9197,6 +9197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Chrono Phantasma Extend - Additional Character Color 1 | 388880 | [388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json](./388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json) |
 | BlazBlue: Clone Phantasma | 64233 | [64233-blazblue-clone-phantasma.json](./64233-blazblue-clone-phantasma.json) |
 | BlazBlue: Continuum Shift | 6750 | [6750-blazblue-continuum-shift.json](./6750-blazblue-continuum-shift.json) |
+| BlazBlue: Continuum Shift Extend | 6920 | [6920-blazblue-continuum-shift-extend.json](./6920-blazblue-continuum-shift-extend.json) |
 | BlazBlue: Continuum Shift Extend - Limited Edition | 43025 | [43025-blazblue-continuum-shift-extend-limited-edition.json](./43025-blazblue-continuum-shift-extend-limited-edition.json) |
 | BlazBlue: Continuum Shift II | 11611 | [11611-blazblue-continuum-shift-ii.json](./11611-blazblue-continuum-shift-ii.json) |
 | BlazBlue: Continuum Shift II - Manga Edition | 89902 | [89902-blazblue-continuum-shift-ii-manga-edition.json](./89902-blazblue-continuum-shift-ii-manga-edition.json) |
@@ -10308,6 +10309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Spear | 163208 | [163208-blood-spear.json](./163208-blood-spear.json) |
 | Blood Sport | 13243 | [13243-blood-sport.json](./13243-blood-sport.json) |
 | Blood Storm | 405339 | [405339-blood-storm.json](./405339-blood-storm.json) |
+| Blood Strike | 239920 | [239920-blood-strike.json](./239920-blood-strike.json) |
 | Blood Sunset | 244657 | [244657-blood-sunset.json](./244657-blood-sunset.json) |
 | Blood Sword | 340348 | [340348-blood-sword.json](./340348-blood-sword.json) |
 | Blood Tender | 184770 | [184770-blood-tender.json](./184770-blood-tender.json) |
