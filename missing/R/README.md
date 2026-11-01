@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Flux: Hyperfractal | 85361 | [85361-radiant-flux-hyperfractal.json](./85361-radiant-flux-hyperfractal.json) |
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
 | Radiant HD | 90793 | [90793-radiant-hd.json](./90793-radiant-hd.json) |
+| Radiant Historia | 6516 | [6516-radiant-historia.json](./6516-radiant-historia.json) |
 | Radiant Historia: Perfect Chronology | 27958 | [27958-radiant-historia-perfect-chronology.json](./27958-radiant-historia-perfect-chronology.json) |
 | Radiant Melodia | 86582 | [86582-radiant-melodia.json](./86582-radiant-melodia.json) |
 | Radiant One | 105001 | [105001-radiant-one.json](./105001-radiant-one.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor Runner | 349656 | [349656-raptor-runner.json](./349656-raptor-runner.json) |
 | Raptor Rush | 242610 | [242610-raptor-rush.json](./242610-raptor-rush.json) |
 | Raptor Territory | 143449 | [143449-raptor-territory.json](./143449-raptor-territory.json) |
+| Raptor: Call of the Shadows | 9082 | [9082-raptor-call-of-the-shadows.json](./9082-raptor-call-of-the-shadows.json) |
 | Raptor: Call of the Shadows - 2010 Edition | 51880 | [51880-raptor-call-of-the-shadows-2010-edition.json](./51880-raptor-call-of-the-shadows-2010-edition.json) |
 | Raptor: Call of the Shadows - 2015 Edition | 36115 | [36115-raptor-call-of-the-shadows-2015-edition.json](./36115-raptor-call-of-the-shadows-2015-edition.json) |
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
@@ -1936,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raspberry's Berry Match | 405923 | [405923-raspberrys-berry-match.json](./405923-raspberrys-berry-match.json) |
 | Rasputin | 26351 | [26351-rasputin.json](./26351-rasputin.json) |
 | Rasta Rainbow | 88099 | [88099-rasta-rainbow.json](./88099-rasta-rainbow.json) |
+| Rastan | 6875 | [6875-rastan.json](./6875-rastan.json) |
 | Rastan Saga II | 4466 | [4466-rastan-saga-ii.json](./4466-rastan-saga-ii.json) |
 | Raster | 270175 | [270175-raster.json](./270175-raster.json) |
 | Raster | 312267 | [312267-raster.json](./312267-raster.json) |
@@ -4770,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade | 191644 | [191644-renegade.json](./191644-renegade.json) |
 | Renegade | 255243 | [255243-renegade.json](./255243-renegade.json) |
 | Renegade | 255262 | [255262-renegade.json](./255262-renegade.json) |
+| Renegade | 6852 | [6852-renegade.json](./6852-renegade.json) |
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
 | Renegade Grounds: Episode 2 | 127579 | [127579-renegade-grounds-episode-2.json](./127579-renegade-grounds-episode-2.json) |
 | Renegade Legion: Interceptor | 73333 | [73333-renegade-legion-interceptor.json](./73333-renegade-legion-interceptor.json) |
