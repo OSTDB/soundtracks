@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids Densetsu | 49132 | [49132-zoids-densetsu.json](./49132-zoids-densetsu.json) |
 | Zoids Infinity EX NEO | 91725 | [91725-zoids-infinity-ex-neo.json](./91725-zoids-infinity-ex-neo.json) |
 | Zoids Saga DS: Legend of Arcadia | 58535 | [58535-zoids-saga-ds-legend-of-arcadia.json](./58535-zoids-saga-ds-legend-of-arcadia.json) |
+| Zoids Saga: Fuzors | 49666 | [49666-zoids-saga-fuzors.json](./49666-zoids-saga-fuzors.json) |
 | Zoids Struggle | 56239 | [56239-zoids-struggle.json](./56239-zoids-struggle.json) |
 | Zoids VS | 50586 | [50586-zoids-vs.json](./50586-zoids-vs.json) |
 | Zoids VS II | 50585 | [50585-zoids-vs-ii.json](./50585-zoids-vs-ii.json) |
