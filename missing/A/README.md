@@ -4340,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of the Duel | 248385 | [248385-age-of-the-duel.json](./248385-age-of-the-duel.json) |
 | Age of the Sirens | 236893 | [236893-age-of-the-sirens.json](./236893-age-of-the-sirens.json) |
+| Age of Thrones | 24552 | [24552-age-of-thrones.json](./24552-age-of-thrones.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Tribes | 104520 | [104520-age-of-tribes.json](./104520-age-of-tribes.json) |
 | Age of Undead | 211145 | [211145-age-of-undead.json](./211145-age-of-undead.json) |
