@@ -5914,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch of Oblivion | 304999 | [304999-witch-of-oblivion.json](./304999-witch-of-oblivion.json) |
 | Witch of the Meta Loop | 329422 | [329422-witch-of-the-meta-loop.json](./329422-witch-of-the-meta-loop.json) |
 | Witch of the Woods | 110902 | [110902-witch-of-the-woods.json](./110902-witch-of-the-woods.json) |
+| Witch on the Holy Night | 201065 | [201065-witch-on-the-holy-night.json](./201065-witch-on-the-holy-night.json) |
 | Witch on the Holy Night: Limited Edition | 203090 | [203090-witch-on-the-holy-night-limited-edition.json](./203090-witch-on-the-holy-night-limited-edition.json) |
 | Witch Pachi | 334293 | [334293-witch-pachi.json](./334293-witch-pachi.json) |
 | Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
