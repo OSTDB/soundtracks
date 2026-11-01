@@ -5254,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EscapeSimulator | 358633 | [358633-escapesimulator.json](./358633-escapesimulator.json) |
 | EscapeTheBrainrots | 350932 | [350932-escapethebrainrots.json](./350932-escapethebrainrots.json) |
 | EscapeTrick: 35 Fateful Enigmas | 85120 | [85120-escapetrick-35-fateful-enigmas.json](./85120-escapetrick-35-fateful-enigmas.json) |
+| EscapeVektor: Chapter 1 | 50944 | [50944-escapevektor-chapter-1.json](./50944-escapevektor-chapter-1.json) |
 | EscapeVr | 343762 | [343762-escapevr.json](./343762-escapevr.json) |
 | EscapeVR: The Basement | 142639 | [142639-escapevr-the-basement.json](./142639-escapevr-the-basement.json) |
 | Escapeworld Dilemma | 150526 | [150526-escapeworld-dilemma.json](./150526-escapeworld-dilemma.json) |
