@@ -2818,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
 | King Arthur: The Druids | 10483 | [10483-king-arthur-the-druids.json](./10483-king-arthur-the-druids.json) |
+| King Arthur: The Role-Playing Wargame | 2038 | [2038-king-arthur-the-role-playing-wargame.json](./2038-king-arthur-the-role-playing-wargame.json) |
 | King Arthur: The Saxons | 10482 | [10482-king-arthur-the-saxons.json](./10482-king-arthur-the-saxons.json) |
 | King Arthur's Gold | 7209 | [7209-king-arthurs-gold.json](./7209-king-arthurs-gold.json) |
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
