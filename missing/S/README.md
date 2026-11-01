@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sauro | 40414 | [40414-sauro.json](./40414-sauro.json) |
 | Saurusland | 42139 | [42139-saurusland.json](./42139-saurusland.json) |
 | Sausage | 234095 | [234095-sausage.json](./234095-sausage.json) |
+| Sausage Bomber | 56802 | [56802-sausage-bomber.json](./56802-sausage-bomber.json) |
 | Sausage Bundle: Till the last drop of ketchup | 227774 | [227774-sausage-bundle-till-the-last-drop-of-ketchup.json](./227774-sausage-bundle-till-the-last-drop-of-ketchup.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
 | Sausage Dog Tends to Infinity | 168629 | [168629-sausage-dog-tends-to-infinity.json](./168629-sausage-dog-tends-to-infinity.json) |
@@ -10007,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 23: Project Minerva Professional | 9712 | [9712-simple-2000-series-ultimate-vol-23-project-minerva-professional.json](./9712-simple-2000-series-ultimate-vol-23-project-minerva-professional.json) |
 | Simple 2000 Series Ultimate Vol. 24: Makai Tenshou | 203360 | [203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json](./203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json) |
 | Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King | 203361 | [203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json](./203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json) |
+| Simple 2000 Series Ultimate Vol. 27: Houkago no Love Beat | 56957 | [56957-simple-2000-series-ultimate-vol-27-houkago-no-love-beat.json](./56957-simple-2000-series-ultimate-vol-27-houkago-no-love-beat.json) |
 | Simple 2000 Series Ultimate Vol. 29: K-1 Premium 2005 Dynamite!! | 67046 | [67046-simple-2000-series-ultimate-vol-29-k-1-premium-2005-dynamite.json](./67046-simple-2000-series-ultimate-vol-29-k-1-premium-2005-dynamite.json) |
 | Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
 | Simple 2000 Series Ultimate Vol. 5: Love * Mahjong | 203352 | [203352-simple-2000-series-ultimate-vol-5-love-mahjong.json](./203352-simple-2000-series-ultimate-vol-5-love-mahjong.json) |
@@ -14233,6 +14235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Arena | 184236 | [184236-snowman-arena.json](./184236-snowman-arena.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | Snowman from Russia | 54735 | [54735-snowman-from-russia.json](./54735-snowman-from-russia.json) |
+| Snowman Legend | 56835 | [56835-snowman-legend.json](./56835-snowman-legend.json) |
 | Snowman Mo | 333154 | [333154-snowman-mo.json](./333154-snowman-mo.json) |
 | Snowman Saves Christmas | 169853 | [169853-snowman-saves-christmas.json](./169853-snowman-saves-christmas.json) |
 | Snowman's Dilemma | 70604 | [70604-snowmans-dilemma.json](./70604-snowmans-dilemma.json) |
