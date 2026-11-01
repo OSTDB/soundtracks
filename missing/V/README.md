@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vargskelethor's Hardcore Friday Super Metal Almost Criminally Violent Ultra Swedish Meatball Royal Rumble Massacre! | 215074 | [215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json](./215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json) |
 | Vargverse | 228293 | [228293-vargverse.json](./228293-vargverse.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
+| Varia Metal | 40518 | [40518-varia-metal.json](./40518-varia-metal.json) |
 | Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
 | Variable Geo vs. Asuka 120% | 316595 | [316595-variable-geo-vs-asuka-120.json](./316595-variable-geo-vs-asuka-120.json) |
 | Variable Pictogram Jump | 190867 | [190867-variable-pictogram-jump.json](./190867-variable-pictogram-jump.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vast Haven-1 VR | 350495 | [350495-vast-haven-1-vr.json](./350495-vast-haven-1-vr.json) |
 | Vast Survival | 174774 | [174774-vast-survival.json](./174774-vast-survival.json) |
 | Vast Trivia of the Void | 166459 | [166459-vast-trivia-of-the-void.json](./166459-vast-trivia-of-the-void.json) |
+| Vastar | 40517 | [40517-vastar.json](./40517-vastar.json) |
 | Vasteel | 92701 | [92701-vasteel.json](./92701-vasteel.json) |
 | Vasteel 2 | 54921 | [54921-vasteel-2.json](./54921-vasteel-2.json) |
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
@@ -3813,16 +3815,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
 | Vs. Babel no Tou | 214582 | [214582-vs-babel-no-tou.json](./214582-vs-babel-no-tou.json) |
+| Vs. Balloon Fight | 40516 | [40516-vs-balloon-fight.json](./40516-vs-balloon-fight.json) |
+| Vs. Baseball | 40515 | [40515-vs-baseball.json](./40515-vs-baseball.json) |
 | Vs. Battle City | 214575 | [214575-vs-battle-city.json](./214575-vs-battle-city.json) |
+| Vs. Castlevania | 40513 | [40513-vs-castlevania.json](./40513-vs-castlevania.json) |
+| Vs. Clu Clu Land | 40512 | [40512-vs-clu-clu-land.json](./40512-vs-clu-clu-land.json) |
 | Vs. Collection | 37771 | [37771-vs-collection.json](./37771-vs-collection.json) |
+| Vs. Dr. Mario | 40510 | [40510-vs-dr-mario.json](./40510-vs-dr-mario.json) |
 | Vs. Duck Hunt | 94172 | [94172-vs-duck-hunt.json](./94172-vs-duck-hunt.json) |
 | Vs. Family Tennis | 214588 | [214588-vs-family-tennis.json](./214588-vs-family-tennis.json) |
 | Vs. Football | 214596 | [214596-vs-football.json](./214596-vs-football.json) |
 | Vs. Football | 246485 | [246485-vs-football.json](./246485-vs-football.json) |
+| Vs. Freedom Force | 40509 | [40509-vs-freedom-force.json](./40509-vs-freedom-force.json) |
 | Vs. From Below | 186594 | [186594-vs-from-below.json](./186594-vs-from-below.json) |
 | Vs. Golf | 40540 | [40540-vs-golf.json](./40540-vs-golf.json) |
+| Vs. Gong Fight | 40508 | [40508-vs-gong-fight.json](./40508-vs-gong-fight.json) |
 | Vs. Gradius | 214578 | [214578-vs-gradius.json](./214578-vs-gradius.json) |
 | Vs. Great Tennis | 214599 | [214599-vs-great-tennis.json](./214599-vs-great-tennis.json) |
+| Vs. Gumshoe | 40506 | [40506-vs-gumshoe.json](./40506-vs-gumshoe.json) |
 | Vs. Head to Head Baseball | 214598 | [214598-vs-head-to-head-baseball.json](./214598-vs-head-to-head-baseball.json) |
 | Vs. Helifighter | 214597 | [214597-vs-helifighter.json](./214597-vs-helifighter.json) |
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
@@ -3830,7 +3840,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Imposter Alternated | 253870 | [253870-vs-imposter-alternated.json](./253870-vs-imposter-alternated.json) |
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
 | Vs. Lionex | 214600 | [214600-vs-lionex.json](./214600-vs-lionex.json) |
+| Vs. Mach Rider | 40505 | [40505-vs-mach-rider.json](./40505-vs-mach-rider.json) |
 | Vs. Madoola no Tsubasa | 214601 | [214601-vs-madoola-no-tsubasa.json](./214601-vs-madoola-no-tsubasa.json) |
+| Vs. Mahjong | 40522 | [40522-vs-mahjong.json](./40522-vs-mahjong.json) |
 | Vs. Maxx 25-in-1 | 338339 | [338339-vs-maxx-25-in-1.json](./338339-vs-maxx-25-in-1.json) |
 | Vs. Mighty Bomb Jack | 214584 | [214584-vs-mighty-bomb-jack.json](./214584-vs-mighty-bomb-jack.json) |
 | Vs. Motocross | 214594 | [214594-vs-motocross.json](./214594-vs-motocross.json) |
@@ -3848,9 +3860,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Star Luster | 214576 | [214576-vs-star-luster.json](./214576-vs-star-luster.json) |
 | Vs. Super Chinese | 214579 | [214579-vs-super-chinese.json](./214579-vs-super-chinese.json) |
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
+| Vs. Super Sky Kid | 40538 | [40538-vs-super-sky-kid.json](./40538-vs-super-sky-kid.json) |
 | Vs. Super Xevious: Gamp no Nazo | 214580 | [214580-vs-super-xevious-gamp-no-nazo.json](./214580-vs-super-xevious-gamp-no-nazo.json) |
+| Vs. Tennis | 40535 | [40535-vs-tennis.json](./40535-vs-tennis.json) |
 | Vs. Tetris | 203108 | [203108-vs-tetris.json](./203108-vs-tetris.json) |
+| Vs. The Goonies | 40534 | [40534-vs-the-goonies.json](./40534-vs-the-goonies.json) |
 | Vs. The Quest of Ki | 214591 | [214591-vs-the-quest-of-ki.json](./214591-vs-the-quest-of-ki.json) |
+| Vs. TKO Boxing | 40536 | [40536-vs-tko-boxing.json](./40536-vs-tko-boxing.json) |
 | Vs. Top Gun | 214589 | [214589-vs-top-gun.json](./214589-vs-top-gun.json) |
 | Vs. Toukaidou Gojuusan-tsugi | 214602 | [214602-vs-toukaidou-gojuusan-tsugi.json](./214602-vs-toukaidou-gojuusan-tsugi.json) |
 | Vs. Tricky | 308397 | [308397-vs-tricky.json](./308397-vs-tricky.json) |
@@ -3859,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
 | Vs. Volleyball | 214587 | [214587-vs-volleyball.json](./214587-vs-volleyball.json) |
 | Vs. Vulcan Venture | 214592 | [214592-vs-vulcan-venture.json](./214592-vs-vulcan-venture.json) |
+| Vs. Wrecking Crew | 40533 | [40533-vs-wrecking-crew.json](./40533-vs-wrecking-crew.json) |
 | VSCS-II | 193070 | [193070-vscs-ii.json](./193070-vscs-ii.json) |
 | Vsevolod | 10431 | [10431-vsevolod.json](./10431-vsevolod.json) |
 | VSR: Void Space Racing | 105590 | [105590-vsr-void-space-racing.json](./105590-vsr-void-space-racing.json) |
