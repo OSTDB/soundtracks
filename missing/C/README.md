@@ -4264,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Spotter | 307322 | [307322-cats-spotter.json](./307322-cats-spotter.json) |
 | Cats Story | 336025 | [336025-cats-story.json](./336025-cats-story.json) |
 | Cats Super Bundle | 268567 | [268567-cats-super-bundle.json](./268567-cats-super-bundle.json) |
+| Cats Tanks | 55584 | [55584-cats-tanks.json](./55584-cats-tanks.json) |
 | Cats the Commander | 231957 | [231957-cats-the-commander.json](./231957-cats-the-commander.json) |
 | Cats the Commander for Nintendo Switch | 330235 | [330235-cats-the-commander-for-nintendo-switch.json](./330235-cats-the-commander-for-nintendo-switch.json) |
 | Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
@@ -7131,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose Your Weapons TD | 234718 | [234718-choose-your-weapons-td.json](./234718-choose-your-weapons-td.json) |
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
 | Chop | 89682 | [89682-chop.json](./89682-chop.json) |
+| Chop and Drop VR | 55586 | [55586-chop-and-drop-vr.json](./55586-chop-and-drop-vr.json) |
 | Chop Chains | 386731 | [386731-chop-chains.json](./386731-chop-chains.json) |
 | Chop Chef | 359323 | [359323-chop-chef.json](./359323-chop-chef.json) |
 | Chop Chop Caveman | 256384 | [256384-chop-chop-caveman.json](./256384-chop-chop-caveman.json) |
@@ -12752,6 +12754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
 | Continue/Stop/Rise | 222976 | [222976-continue-stop-rise.json](./222976-continue-stop-rise.json) |
 | Continuity | 380088 | [380088-continuity.json](./380088-continuity.json) |
+| Continuous Girl | 55558 | [55558-continuous-girl.json](./55558-continuous-girl.json) |
 | Continuum | 229019 | [229019-continuum.json](./229019-continuum.json) |
 | Continuum | 243255 | [243255-continuum.json](./243255-continuum.json) |
 | Continuum | 268676 | [268676-continuum.json](./268676-continuum.json) |
@@ -13956,6 +13959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costume Fighter | 278275 | [278275-costume-fighter.json](./278275-costume-fighter.json) |
 | Costume Kingdom | 139696 | [139696-costume-kingdom.json](./139696-costume-kingdom.json) |
 | Costume Party | 189968 | [189968-costume-party.json](./189968-costume-party.json) |
+| Costumenaut | 55535 | [55535-costumenaut.json](./55535-costumenaut.json) |
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
 | Cosy Housing | 391768 | [391768-cosy-housing.json](./391768-cosy-housing.json) |
