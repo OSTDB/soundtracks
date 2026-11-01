@@ -3057,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Nightmare Cafe 4 | 339222 | [339222-new-nightmare-cafe-4.json](./339222-new-nightmare-cafe-4.json) |
 | New Nightmare Cafe 5 | 339223 | [339223-new-nightmare-cafe-5.json](./339223-new-nightmare-cafe-5.json) |
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
+| New Outbreak | 33729 | [33729-new-outbreak.json](./33729-new-outbreak.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Planets | 128249 | [128249-new-planets.json](./128249-new-planets.json) |
 | New Pokémon Snap | 135142 | [135142-new-pokemon-snap.json](./135142-new-pokemon-snap.json) |
