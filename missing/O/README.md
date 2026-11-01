@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odysseus Kosmos and his Robot Quest: Episode 3 | 171325 | [171325-odysseus-kosmos-and-his-robot-quest-episode-3.json](./171325-odysseus-kosmos-and-his-robot-quest-episode-3.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 4 | 171524 | [171524-odysseus-kosmos-and-his-robot-quest-episode-4.json](./171524-odysseus-kosmos-and-his-robot-quest-episode-4.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 5 | 171515 | [171515-odysseus-kosmos-and-his-robot-quest-episode-5.json](./171515-odysseus-kosmos-and-his-robot-quest-episode-5.json) |
+| Odyssey | 12706 | [12706-odyssey.json](./12706-odyssey.json) |
 | Odyssey Island | 272739 | [272739-odyssey-island.json](./272739-odyssey-island.json) |
 | Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
 | Odyssey Moon | 257239 | [257239-odyssey-moon.json](./257239-odyssey-moon.json) |
