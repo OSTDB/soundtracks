@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Team | 211803 | [211803-f-team.json](./211803-f-team.json) |
 | F-Theta | 281266 | [281266-f-theta.json](./281266-f-theta.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
+| F-Zero 99 | 266686 | [266686-f-zero-99.json](./266686-f-zero-99.json) |
 | F-Zero 99: Ver. 1.5.0 | 329658 | [329658-f-zero-99-ver-1-5-0.json](./329658-f-zero-99-ver-1-5-0.json) |
 | F-Zero AX | 78271 | [78271-f-zero-ax.json](./78271-f-zero-ax.json) |
 | F-Zero Climax | 6400 | [6400-f-zero-climax.json](./6400-f-zero-climax.json) |
@@ -9994,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Found it! | 283289 | [283289-found-it.json](./283289-found-it.json) |
 | Found: A Hidden Object Adventure | 111322 | [111322-found-a-hidden-object-adventure.json](./111322-found-a-hidden-object-adventure.json) |
 | Found'It | 183994 | [183994-foundit.json](./183994-foundit.json) |
+| Foundation | 88392 | [88392-foundation.json](./88392-foundation.json) |
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
 | Foundation of Nightmares | 81061 | [81061-foundation-of-nightmares.json](./81061-foundation-of-nightmares.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
@@ -12764,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | Fury Survivor: Pixel Z | 119266 | [119266-fury-survivor-pixel-z.json](./119266-fury-survivor-pixel-z.json) |
 | Fury Turn | 220421 | [220421-fury-turn.json](./220421-fury-turn.json) |
+| Fury Unleashed | 112185 | [112185-fury-unleashed.json](./112185-fury-unleashed.json) |
 | Fury Unleashed: Bang Edition | 208748 | [208748-fury-unleashed-bang-edition.json](./208748-fury-unleashed-bang-edition.json) |
 | Fury! | 372209 | [372209-fury.json](./372209-fury.json) |
 | Fury's Path: To The Stars | 384299 | [384299-furys-path-to-the-stars.json](./384299-furys-path-to-the-stars.json) |
