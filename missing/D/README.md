@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger World | 345965 | [345965-danger-world.json](./345965-danger-world.json) |
 | Danger Zombies | 169031 | [169031-danger-zombies.json](./169031-danger-zombies.json) |
 | Danger Zone | 277687 | [277687-danger-zone.json](./277687-danger-zone.json) |
+| Danger Zone | 28242 | [28242-danger-zone.json](./28242-danger-zone.json) |
 | Danger Zone 2 | 104231 | [104231-danger-zone-2.json](./104231-danger-zone-2.json) |
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -13659,6 +13660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Super Butouden 3 | 2550 | [2550-dragon-ball-z-super-butouden-3.json](./2550-dragon-ball-z-super-butouden-3.json) |
 | Dragon Ball Z: Super Goku-den - Kakusei-hen | 74038 | [74038-dragon-ball-z-super-goku-den-kakusei-hen.json](./74038-dragon-ball-z-super-goku-den-kakusei-hen.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
+| Dragon Ball Z: Super Saiya Densetsu | 38395 | [38395-dragon-ball-z-super-saiya-densetsu.json](./38395-dragon-ball-z-super-saiya-densetsu.json) |
 | Dragon Ball Z: Supersonic Warriors | 2576 | [2576-dragon-ball-z-supersonic-warriors.json](./2576-dragon-ball-z-supersonic-warriors.json) |
 | Dragon Ball Z: Supersonic Warriors 2 | 2577 | [2577-dragon-ball-z-supersonic-warriors-2.json](./2577-dragon-ball-z-supersonic-warriors-2.json) |
 | Dragon Ball Z: Taiketsu | 2580 | [2580-dragon-ball-z-taiketsu.json](./2580-dragon-ball-z-taiketsu.json) |
@@ -16992,6 +16994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Princess 2 | 299197 | [299197-dungeon-princess-2.json](./299197-dungeon-princess-2.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
+| Dungeon Punks | 32021 | [32021-dungeon-punks.json](./32021-dungeon-punks.json) |
 | Dungeon Puzzle Sweeper | 389661 | [389661-dungeon-puzzle-sweeper.json](./389661-dungeon-puzzle-sweeper.json) |
 | Dungeon Puzzle VR: Solve It or Die | 88134 | [88134-dungeon-puzzle-vr-solve-it-or-die.json](./88134-dungeon-puzzle-vr-solve-it-or-die.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
