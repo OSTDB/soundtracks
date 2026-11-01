@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saeko: Giantess Dating Sim | 258823 | [258823-saeko-giantess-dating-sim.json](./258823-saeko-giantess-dating-sim.json) |
 | Saeko: Giantess Dating Sim - Digital Deluxe Edition | 407105 | [407105-saeko-giantess-dating-sim-digital-deluxe-edition.json](./407105-saeko-giantess-dating-sim-digital-deluxe-edition.json) |
 | Saelig | 36643 | [36643-saelig.json](./36643-saelig.json) |
+| Saenai Heroine no Sodatekata: Blessing Flowers | 11777 | [11777-saenai-heroine-no-sodatekata-blessing-flowers.json](./11777-saenai-heroine-no-sodatekata-blessing-flowers.json) |
 | Safari | 171771 | [171771-safari.json](./171771-safari.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
@@ -12418,6 +12419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicker City | 57492 | [57492-slicker-city.json](./57492-slicker-city.json) |
 | Slickpoo : The Clown | 103983 | [103983-slickpoo-the-clown.json](./103983-slickpoo-the-clown.json) |
+| Slicks 'n' Slide | 11773 | [11773-slicks-n-slide.json](./11773-slicks-n-slide.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide | 139709 | [139709-slide.json](./139709-slide.json) |
 | Slide | 275456 | [275456-slide.json](./275456-slide.json) |
@@ -20652,6 +20654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splodey Vaders | 134262 | [134262-splodey-vaders.json](./134262-splodey-vaders.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
 | Splody | 32704 | [32704-splody.json](./32704-splody.json) |
+| Sploot | 11825 | [11825-sploot.json](./11825-sploot.json) |
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | Splotches | 60436 | [60436-splotches.json](./60436-splotches.json) |
