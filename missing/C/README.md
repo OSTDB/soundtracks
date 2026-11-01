@@ -9761,7 +9761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | Closer Than You Think | 108361 | [108361-closer-than-you-think.json](./108361-closer-than-you-think.json) |
-| Closer the Distance | 242102 | [242102-closer-the-distance.json](./242102-closer-the-distance.json) |
 | Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
 | Closer to Me | 121525 | [121525-closer-to-me.json](./121525-closer-to-me.json) |
 | Closer: Anagnorisis | 171992 | [171992-closer-anagnorisis.json](./171992-closer-anagnorisis.json) |
