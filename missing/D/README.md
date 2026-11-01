@@ -6369,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depression | 367194 | [367194-depression.json](./367194-depression.json) |
 | Depression Level 50 | 362878 | [362878-depression-level-50.json](./362878-depression-level-50.json) |
 | Depression Presented Ludically in the Style of a Videogame | 342905 | [342905-depression-presented-ludically-in-the-style-of-a-videogame.json](./342905-depression-presented-ludically-in-the-style-of-a-videogame.json) |
+| Depression Quest | 10238 | [10238-depression-quest.json](./10238-depression-quest.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
 | Depreston | 135742 | [135742-depreston.json](./135742-depreston.json) |
 | Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
@@ -9742,6 +9743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Twisted-Wonderland | 117776 | [117776-disney-twisted-wonderland.json](./117776-disney-twisted-wonderland.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
 | Disney Ultimotion | 220273 | [220273-disney-ultimotion.json](./220273-disney-ultimotion.json) |
+| Disney Universe | 540 | [540-disney-universe.json](./540-disney-universe.json) |
 | Disney Villains Challenge | 97983 | [97983-disney-villains-challenge.json](./97983-disney-villains-challenge.json) |
 | Disney Villains Cursed Café | 337027 | [337027-disney-villains-cursed-cafe.json](./337027-disney-villains-cursed-cafe.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
@@ -9791,6 +9793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Brother Bear | 49409 | [49409-disneys-brother-bear.json](./49409-disneys-brother-bear.json) |
 | Disney's Cartoon Arcade | 59164 | [59164-disneys-cartoon-arcade.json](./59164-disneys-cartoon-arcade.json) |
 | Disney's Chicken Little | 248552 | [248552-disneys-chicken-little.json](./248552-disneys-chicken-little.json) |
+| Disney's Chicken Little | 3006 | [3006-disneys-chicken-little.json](./3006-disneys-chicken-little.json) |
 | Disney's Chicken Little: Ace in Action | 200995 | [200995-disneys-chicken-little-ace-in-action.json](./200995-disneys-chicken-little-ace-in-action.json) |
 | Disney's Chicken Little: Ace in Action | 20627 | [20627-disneys-chicken-little-ace-in-action.json](./20627-disneys-chicken-little-ace-in-action.json) |
 | Disney's Chip 'n Dale Rescue Rangers | 198717 | [198717-disneys-chip-n-dale-rescue-rangers.json](./198717-disneys-chip-n-dale-rescue-rangers.json) |
@@ -11882,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong/Donkey Kong Jr./Mario Bros. | 131900 | [131900-donkey-kong-donkey-kong-jr-mario-bros.json](./131900-donkey-kong-donkey-kong-jr-mario-bros.json) |
 | Donkey Konga | 256803 | [256803-donkey-konga.json](./256803-donkey-konga.json) |
 | Donkey Konga | 328664 | [328664-donkey-konga.json](./328664-donkey-konga.json) |
+| Donkey Konga | 3889 | [3889-donkey-konga.json](./3889-donkey-konga.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga 2 | 256806 | [256806-donkey-konga-2.json](./256806-donkey-konga-2.json) |
 | Donkey Konga 2 | 328668 | [328668-donkey-konga-2.json](./328668-donkey-konga-2.json) |
@@ -13339,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Love Kills | 16688 | [16688-dracula-love-kills.json](./16688-dracula-love-kills.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
+| Dracula: Resurrection | 9091 | [9091-dracula-resurrection.json](./9091-dracula-resurrection.json) |
 | Dracula: The Path of the Dragon | 50431 | [50431-dracula-the-path-of-the-dragon.json](./50431-dracula-the-path-of-the-dragon.json) |
 | Dracula: The Path of the Dragon - Director's Cut | 87909 | [87909-dracula-the-path-of-the-dragon-directors-cut.json](./87909-dracula-the-path-of-the-dragon-directors-cut.json) |
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
@@ -13595,6 +13600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Goku Gekitou-den | 49104 | [49104-dragon-ball-z-goku-gekitou-den.json](./49104-dragon-ball-z-goku-gekitou-den.json) |
 | Dragon Ball Z: Goku Hishou-den | 49103 | [49103-dragon-ball-z-goku-hishou-den.json](./49103-dragon-ball-z-goku-hishou-den.json) |
 | Dragon Ball Z: Harukanaru Densetsu | 21426 | [21426-dragon-ball-z-harukanaru-densetsu.json](./21426-dragon-ball-z-harukanaru-densetsu.json) |
+| Dragon Ball Z: Hyper Dimension | 2557 | [2557-dragon-ball-z-hyper-dimension.json](./2557-dragon-ball-z-hyper-dimension.json) |
 | Dragon Ball Z: Hyper Dimension | 270755 | [270755-dragon-ball-z-hyper-dimension.json](./270755-dragon-ball-z-hyper-dimension.json) |
 | Dragon Ball Z: Idainaru Son Goku Densetsu | 37599 | [37599-dragon-ball-z-idainaru-son-goku-densetsu.json](./37599-dragon-ball-z-idainaru-son-goku-densetsu.json) |
 | Dragon Ball Z: Infinite World | 2570 | [2570-dragon-ball-z-infinite-world.json](./2570-dragon-ball-z-infinite-world.json) |
@@ -14539,6 +14545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn Down | 117448 | [117448-drawn-down.json](./117448-drawn-down.json) |
 | Drawn Tale | 346210 | [346210-drawn-tale.json](./346210-drawn-tale.json) |
+| Drawn to Death | 11076 | [11076-drawn-to-death.json](./11076-drawn-to-death.json) |
 | Drawn to Drift | 373727 | [373727-drawn-to-drift.json](./373727-drawn-to-drift.json) |
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
 | Drawn to Life | 4821 | [4821-drawn-to-life.json](./4821-drawn-to-life.json) |
