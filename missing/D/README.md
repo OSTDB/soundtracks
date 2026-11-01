@@ -5837,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
 | Dementium: The Ward | 21238 | [21238-dementium-the-ward.json](./21238-dementium-the-ward.json) |
+| Demeo | 144763 | [144763-demeo.json](./144763-demeo.json) |
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
 | Demeo x Dungeons & Dragons: Battlemarked | 346959 | [346959-demeo-x-dungeons-and-dragons-battlemarked.json](./346959-demeo-x-dungeons-and-dragons-battlemarked.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
@@ -13995,6 +13996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest II: Luminaries of the Legendary Line | 1813 | [1813-dragon-quest-ii-luminaries-of-the-legendary-line.json](./1813-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest II: Luminaries of the Legendary Line | 287153 | [287153-dragon-quest-ii-luminaries-of-the-legendary-line.json](./287153-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
+| Dragon Quest III: Soshite Densetsu he... | 144651 | [144651-dragon-quest-iii-soshite-densetsu-he.json](./144651-dragon-quest-iii-soshite-densetsu-he.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
 | Dragon Quest IV: Chapters of the Chosen | 1815 | [1815-dragon-quest-iv-chapters-of-the-chosen.json](./1815-dragon-quest-iv-chapters-of-the-chosen.json) |
 | Dragon Quest IV: Chapters of the Chosen | 216304 | [216304-dragon-quest-iv-chapters-of-the-chosen.json](./216304-dragon-quest-iv-chapters-of-the-chosen.json) |
