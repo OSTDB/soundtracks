@@ -6607,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All @ Once | 201651 | [201651-all-once.json](./201651-all-once.json) |
 | All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
+| All Aboard!: The Microgauge Train Set | 15202 | [15202-all-aboard-the-microgauge-train-set.json](./15202-all-aboard-the-microgauge-train-set.json) |
 | All About America | 14245 | [14245-all-about-america.json](./14245-all-about-america.json) |
 | All About Maze | 326237 | [326237-all-about-maze.json](./326237-all-about-maze.json) |
 | All About The High Score | 276202 | [276202-all-about-the-high-score.json](./276202-all-about-the-high-score.json) |
@@ -13660,6 +13661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
 | Asgaldh: The Distortion Testament | 70042 | [70042-asgaldh-the-distortion-testament.json](./70042-asgaldh-the-distortion-testament.json) |
+| Asgard | 15203 | [15203-asgard.json](./15203-asgard.json) |
 | Asgard | 187282 | [187282-asgard.json](./187282-asgard.json) |
 | Asgard Rift: Battle Arena | 110210 | [110210-asgard-rift-battle-arena.json](./110210-asgard-rift-battle-arena.json) |
 | Asgard Run | 57327 | [57327-asgard-run.json](./57327-asgard-run.json) |
