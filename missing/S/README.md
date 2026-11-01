@@ -4083,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Hazardous Course | 105158 | [105158-second-hazardous-course.json](./105158-second-hazardous-course.json) |
 | Second Heart | 418605 | [418605-second-heart.json](./418605-second-heart.json) |
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
+| Second Life | 10391 | [10391-second-life.json](./10391-second-life.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Period Chemistry | 181660 | [181660-second-period-chemistry.json](./181660-second-period-chemistry.json) |
 | Second Person Shooter Zato | 62589 | [62589-second-person-shooter-zato.json](./62589-second-person-shooter-zato.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
 | Shock Troopers | 35377 | [35377-shock-troopers.json](./35377-shock-troopers.json) |
+| Shock Troopers | 47598 | [47598-shock-troopers.json](./47598-shock-troopers.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
 | Shock Troops | 212303 | [212303-shock-troops.json](./212303-shock-troops.json) |
 | Shock Wave | 292941 | [292941-shock-wave.json](./292941-shock-wave.json) |
@@ -13303,6 +13305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Simulator | 391550 | [391550-smash-simulator.json](./391550-smash-simulator.json) |
 | Smash Slug | 194877 | [194877-smash-slug.json](./194877-smash-slug.json) |
 | Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
+| Smash T.V. | 20504 | [20504-smash-t-v.json](./20504-smash-t-v.json) |
 | Smash T.V. | 218326 | [218326-smash-t-v.json](./218326-smash-t-v.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
@@ -16138,6 +16141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces: Episode Shadow | 112095 | [112095-sonic-forces-episode-shadow.json](./112095-sonic-forces-episode-shadow.json) |
 | Sonic Forces: Speed Battle | 69392 | [69392-sonic-forces-speed-battle.json](./69392-sonic-forces-speed-battle.json) |
 | Sonic Forces: Super Sonic | 255540 | [255540-sonic-forces-super-sonic.json](./255540-sonic-forces-super-sonic.json) |
+| Sonic Free Riders | 20118 | [20118-sonic-free-riders.json](./20118-sonic-free-riders.json) |
 | Sonic Free Riders: No Kinect Patch | 276926 | [276926-sonic-free-riders-no-kinect-patch.json](./276926-sonic-free-riders-no-kinect-patch.json) |
 | Sonic Freedom | 130020 | [130020-sonic-freedom.json](./130020-sonic-freedom.json) |
 | Sonic Freedom Frontiers | 316345 | [316345-sonic-freedom-frontiers.json](./316345-sonic-freedom-frontiers.json) |
@@ -18156,6 +18160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24029,6 +24034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Hawk Flight Simulator | 232613 | [232613-stealth-hawk-flight-simulator.json](./232613-stealth-hawk-flight-simulator.json) |
 | Stealth Horror: Grand Daddy | 97098 | [97098-stealth-horror-grand-daddy.json](./97098-stealth-horror-grand-daddy.json) |
 | Stealth in the Mystery House | 96835 | [96835-stealth-in-the-mystery-house.json](./96835-stealth-in-the-mystery-house.json) |
+| Stealth Inc 2: A Game of Clones | 17959 | [17959-stealth-inc-2-a-game-of-clones.json](./17959-stealth-inc-2-a-game-of-clones.json) |
 | Stealth Inc: A Clone in the Dark - Ultimate Edition | 52872 | [52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json](./52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
@@ -33012,6 +33018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordhaven: Iron Conspiracy | 290620 | [290620-swordhaven-iron-conspiracy.json](./290620-swordhaven-iron-conspiracy.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
 | Swordian Hero | 155679 | [155679-swordian-hero.json](./155679-swordian-hero.json) |
+| Swordigo | 19286 | [19286-swordigo.json](./19286-swordigo.json) |
 | Swordless | 410220 | [410220-swordless.json](./410220-swordless.json) |
 | Swordlord | 31763 | [31763-swordlord.json](./31763-swordlord.json) |
 | Swordmancy | 373562 | [373562-swordmancy.json](./373562-swordmancy.json) |
