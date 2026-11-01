@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy | 230354 | [230354-energy.json](./230354-energy.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
 | Energy Airforce: aimStrike! | 142143 | [142143-energy-airforce-aimstrike.json](./142143-energy-airforce-aimstrike.json) |
+| Energy Balance | 35113 | [35113-energy-balance.json](./35113-energy-balance.json) |
 | Energy Breaker | 38377 | [38377-energy-breaker.json](./38377-energy-breaker.json) |
 | Energy Collector | 207503 | [207503-energy-collector.json](./207503-energy-collector.json) |
 | Energy Crush | 325445 | [325445-energy-crush.json](./325445-energy-crush.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Radiance | 128856 | [128856-eternal-radiance.json](./128856-eternal-radiance.json) |
 | Eternal Realm | 280723 | [280723-eternal-realm.json](./280723-eternal-realm.json) |
+| Eternal Realm | 35156 | [35156-eternal-realm.json](./35156-eternal-realm.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
 | Eternal Refresh | 419948 | [419948-eternal-refresh.json](./419948-eternal-refresh.json) |
 | Eternal Remnant: The First Chapter | 195411 | [195411-eternal-remnant-the-first-chapter.json](./195411-eternal-remnant-the-first-chapter.json) |
