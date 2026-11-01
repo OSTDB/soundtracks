@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
+| Head Buster | 46314 | [46314-head-buster.json](./46314-head-buster.json) |
 | Head Chef | 293603 | [293603-head-chef.json](./293603-head-chef.json) |
 | Head Coach Tactics | 244140 | [244140-head-coach-tactics.json](./244140-head-coach-tactics.json) |
 | Head Coach v3 | 70477 | [70477-head-coach-v3.json](./70477-head-coach-v3.json) |
@@ -10116,6 +10117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Snark 6-in-1 Bundle | 32436 | [32436-house-of-snark-6-in-1-bundle.json](./32436-house-of-snark-6-in-1-bundle.json) |
 | House of Specters | 213786 | [213786-house-of-specters.json](./213786-house-of-specters.json) |
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
+| House of Tarot | 46313 | [46313-house-of-tarot.json](./46313-house-of-tarot.json) |
 | House of Terror | 338328 | [338328-house-of-terror.json](./338328-house-of-terror.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
 | House of the Dead 2 & 3 Return | 200001 | [200001-house-of-the-dead-2-and-3-return.json](./200001-house-of-the-dead-2-and-3-return.json) |
@@ -11156,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
+| Hurricanes | 46347 | [46347-hurricanes.json](./46347-hurricanes.json) |
 | Hurry | 287526 | [287526-hurry.json](./287526-hurry.json) |
 | Hurry Fox | 344865 | [344865-hurry-fox.json](./344865-hurry-fox.json) |
 | Hurry Gaery! | 338679 | [338679-hurry-gaery.json](./338679-hurry-gaery.json) |
@@ -11320,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hymn to the Earless God | 263959 | [263959-hymn-to-the-earless-god.json](./263959-hymn-to-the-earless-god.json) |
 | Hymn: A Heretic Community Project | 262180 | [262180-hymn-a-heretic-community-project.json](./262180-hymn-a-heretic-community-project.json) |
 | Hynpytol | 261397 | [261397-hynpytol.json](./261397-hynpytol.json) |
+| Hyokkori Hyoutan-jima: Hyoutan-jima no Daikoukai | 46312 | [46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json](./46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
 | Hyoukin Kyoushitsu | 385741 | [385741-hyoukin-kyoushitsu.json](./385741-hyoukin-kyoushitsu.json) |
