@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball | 131516 | [131516-basketball.json](./131516-basketball.json) |
 | Basketball | 131531 | [131531-basketball.json](./131531-basketball.json) |
 | Basketball | 18344 | [18344-basketball.json](./18344-basketball.json) |
+| Basketball | 18407 | [18407-basketball.json](./18407-basketball.json) |
 | Basketball | 191088 | [191088-basketball.json](./191088-basketball.json) |
 | Basketball | 246504 | [246504-basketball.json](./246504-basketball.json) |
 | Basketball | 246994 | [246994-basketball.json](./246994-basketball.json) |
@@ -10564,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
 | Bloody Roar 4 | 24104 | [24104-bloody-roar-4.json](./24104-bloody-roar-4.json) |
 | Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
+| Bloody Roar: Primal Fury | 18054 | [18054-bloody-roar-primal-fury.json](./18054-bloody-roar-primal-fury.json) |
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
 | Bloody Rust | 315537 | [315537-bloody-rust.json](./315537-bloody-rust.json) |
 | Bloody Rust 2 | 315538 | [315538-bloody-rust-2.json](./315538-bloody-rust-2.json) |
@@ -11800,6 +11802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman: Disney Stitch Edition | 198061 | [198061-bomberman-disney-stitch-edition.json](./198061-bomberman-disney-stitch-edition.json) |
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
+| Bomberman: Party Edition | 18786 | [18786-bomberman-party-edition.json](./18786-bomberman-party-edition.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
 | Bombernaut 67 | 418602 | [418602-bombernaut-67.json](./418602-bombernaut-67.json) |
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
@@ -14212,6 +14215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Fire III | 18055 | [18055-breath-of-fire-iii.json](./18055-breath-of-fire-iii.json) |
 | Breath of Fire III | 207256 | [207256-breath-of-fire-iii.json](./207256-breath-of-fire-iii.json) |
 | Breath of Fire IV | 1280 | [1280-breath-of-fire-iv.json](./1280-breath-of-fire-iv.json) |
+| Breath of Fire: Dragon Quarter | 18056 | [18056-breath-of-fire-dragon-quarter.json](./18056-breath-of-fire-dragon-quarter.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
 | Breath of Ghosts 2 | 208856 | [208856-breath-of-ghosts-2.json](./208856-breath-of-ghosts-2.json) |
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
