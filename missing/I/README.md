@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-N-K | 229665 | [229665-i-n-k.json](./229665-i-n-k.json) |
 | I-Ninja 2 | 307672 | [307672-i-ninja-2.json](./307672-i-ninja-2.json) |
 | I-War | 40820 | [40820-i-war.json](./40820-i-war.json) |
+| I-Xera | 60306 | [60306-i-xera.json](./60306-i-xera.json) |
 | I・S・U | 96236 | [96236-i-s-u.json](./96236-i-s-u.json) |
 | I, AI | 143897 | [143897-i-ai.json](./143897-i-ai.json) |
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Index: Purger | 285896 | [285896-index-purger.json](./285896-index-purger.json) |
 | India Garden | 36824 | [36824-india-garden.json](./36824-india-garden.json) |
 | Indian Army: Mission Pok | 171399 | [171399-indian-army-mission-pok.json](./171399-indian-army-mission-pok.json) |
+| Indian Attack | 60299 | [60299-indian-attack.json](./60299-indian-attack.json) |
 | Indian Battle | 91665 | [91665-indian-battle.json](./91665-indian-battle.json) |
 | Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
 | Indian Mission | 57018 | [57018-indian-mission.json](./57018-indian-mission.json) |
