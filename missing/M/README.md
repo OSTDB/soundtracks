@@ -2532,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malkin | 265816 | [265816-malkin.json](./265816-malkin.json) |
 | Malkin: The Cairn and the Crossroads | 285449 | [285449-malkin-the-cairn-and-the-crossroads.json](./285449-malkin-the-cairn-and-the-crossroads.json) |
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
+| Malkyrs: Les Arènes de L'Eternité | 24514 | [24514-malkyrs-les-arenes-de-leternite.json](./24514-malkyrs-les-arenes-de-leternite.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Craze | 129090 | [129090-mall-craze.json](./129090-mall-craze.json) |
 | Mall Empire | 29478 | [29478-mall-empire.json](./29478-mall-empire.json) |
@@ -2843,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangetsu no Yume | 282512 | [282512-mangetsu-no-yume.json](./282512-mangetsu-no-yume.json) |
 | Manggis: Night Market Survivor | 422537 | [422537-manggis-night-market-survivor.json](./422537-manggis-night-market-survivor.json) |
 | Mangia | 128780 | [128780-mangia.json](./128780-mangia.json) |
+| Mangia' | 24495 | [24495-mangia.json](./24495-mangia.json) |
 | Manglepaw | 199307 | [199307-manglepaw.json](./199307-manglepaw.json) |
 | Mango | 153803 | [153803-mango.json](./153803-mango.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
@@ -4458,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvin Strikes Back! | 49854 | [49854-marvin-strikes-back.json](./49854-marvin-strikes-back.json) |
 | Marvin the Hatter | 116937 | [116937-marvin-the-hatter.json](./116937-marvin-the-hatter.json) |
 | Marvin's Marvellous Adventure | 13052 | [13052-marvins-marvellous-adventure.json](./13052-marvins-marvellous-adventure.json) |
+| Marvin's Maze | 24631 | [24631-marvins-maze.json](./24631-marvins-maze.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
 | Marwin and the Evolution Stone | 31745 | [31745-marwin-and-the-evolution-stone.json](./31745-marwin-and-the-evolution-stone.json) |
 | Mary | 323001 | [323001-mary.json](./323001-mary.json) |
@@ -10608,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike & Tyler | 133348 | [133348-mike-and-tyler.json](./133348-mike-and-tyler.json) |
 | Mike and the Zombies | 243676 | [243676-mike-and-the-zombies.json](./243676-mike-and-the-zombies.json) |
 | Mike Builds a Shelter | 174793 | [174793-mike-builds-a-shelter.json](./174793-mike-builds-a-shelter.json) |
+| Mike Edwards' Realm of Impossibility | 24635 | [24635-mike-edwards-realm-of-impossibility.json](./24635-mike-edwards-realm-of-impossibility.json) |
 | Mike Goes on Hike | 110125 | [110125-mike-goes-on-hike.json](./110125-mike-goes-on-hike.json) |
 | Mike Gunner | 142137 | [142137-mike-gunner.json](./142137-mike-gunner.json) |
 | Mike Mulligan and His Steam Shovel | 71858 | [71858-mike-mulligan-and-his-steam-shovel.json](./71858-mike-mulligan-and-his-steam-shovel.json) |
@@ -17054,6 +17058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
+| Mr. Do's Wild Ride | 24630 | [24630-mr-dos-wild-ride.json](./24630-mr-dos-wild-ride.json) |
 | Mr. Don | 285137 | [285137-mr-don.json](./285137-mr-don.json) |
 | Mr. Donovan | 28769 | [28769-mr-donovan.json](./28769-mr-donovan.json) |
 | Mr. Douchebag Breaks Rocks | 234714 | [234714-mr-douchebag-breaks-rocks.json](./234714-mr-douchebag-breaks-rocks.json) |
