@@ -5519,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herodes | 203244 | [203244-herodes.json](./203244-herodes.json) |
 | Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
 | Heroes & Dragons | 362013 | [362013-heroes-and-dragons.json](./362013-heroes-and-dragons.json) |
+| Heroes & Generals | 7435 | [7435-heroes-and-generals.json](./7435-heroes-and-generals.json) |
 | Heroes & Generals WWII | 139195 | [139195-heroes-and-generals-wwii.json](./139195-heroes-and-generals-wwii.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Mega Pack | 161916 | [161916-heroes-and-generals-ge-mega-pack.json](./161916-heroes-and-generals-ge-mega-pack.json) |
@@ -5656,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
 | Heroes of Might and Magic Online | 77230 | [77230-heroes-of-might-and-magic-online.json](./77230-heroes-of-might-and-magic-online.json) |
 | Heroes of Might and Magic V: Bundle | 154441 | [154441-heroes-of-might-and-magic-v-bundle.json](./154441-heroes-of-might-and-magic-v-bundle.json) |
+| Heroes of Might and Magic V: Hammers of Fate | 371 | [371-heroes-of-might-and-magic-v-hammers-of-fate.json](./371-heroes-of-might-and-magic-v-hammers-of-fate.json) |
 | Heroes of Might and Magic V: Tribes of the East | 372 | [372-heroes-of-might-and-magic-v-tribes-of-the-east.json](./372-heroes-of-might-and-magic-v-tribes-of-the-east.json) |
 | Heroes of Might and Magic: A Strategic Quest | 362 | [362-heroes-of-might-and-magic-a-strategic-quest.json](./362-heroes-of-might-and-magic-a-strategic-quest.json) |
 | Heroes of Might and Magic: Quest for the Dragon Bone Staff | 13459 | [13459-heroes-of-might-and-magic-quest-for-the-dragon-bone-staff.json](./13459-heroes-of-might-and-magic-quest-for-the-dragon-bone-staff.json) |
