@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Home in Ohio | 256730 | [256730-a-normal-home-in-ohio.json](./256730-a-normal-home-in-ohio.json) |
 | A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
+| A Number's Life | 30397 | [30397-a-numbers-life.json](./30397-a-numbers-life.json) |
 | A Nutritious Boyfriend | 265472 | [265472-a-nutritious-boyfriend.json](./265472-a-nutritious-boyfriend.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
@@ -15336,6 +15337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Antics | 243178 | [243178-atom-antics.json](./243178-atom-antics.json) |
 | Atom by Atom | 418620 | [418620-atom-by-atom.json](./418620-atom-by-atom.json) |
 | Atom de Pon! | 407314 | [407314-atom-de-pon.json](./407314-atom-de-pon.json) |
+| Atom Fishing II | 30459 | [30459-atom-fishing-ii.json](./30459-atom-fishing-ii.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom Grrrl!! | 33781 | [33781-atom-grrrl.json](./33781-atom-grrrl.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
