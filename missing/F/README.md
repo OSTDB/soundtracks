@@ -10019,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
 | Fourteen Fiends | 243861 | [243861-fourteen-fiends.json](./243861-fourteen-fiends.json) |
 | Fourteen Years of Flames | 380664 | [380664-fourteen-years-of-flames.json](./380664-fourteen-years-of-flames.json) |
+| Fourtex Jugo | 32368 | [32368-fourtex-jugo.json](./32368-fourtex-jugo.json) |
 | Fourth Dimension | 362405 | [362405-fourth-dimension.json](./362405-fourth-dimension.json) |
 | Fourth Space | 119564 | [119564-fourth-space.json](./119564-fourth-space.json) |
 | Fourth Time Around | 374791 | [374791-fourth-time-around.json](./374791-fourth-time-around.json) |
