@@ -3144,9 +3144,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 2 | 15526 | [15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json](./15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 3 | 15528 | [15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json](./15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json) |
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
+| Batman: Arkham Knight - Game of the Year Edition | 42929 | [42929-batman-arkham-knight-game-of-the-year-edition.json](./42929-batman-arkham-knight-game-of-the-year-edition.json) |
 | Batman: Arkham Knight - GCPD Lockdown | 15523 | [15523-batman-arkham-knight-gcpd-lockdown.json](./15523-batman-arkham-knight-gcpd-lockdown.json) |
 | Batman: Arkham Knight - New 52 Skins Pack | 25983 | [25983-batman-arkham-knight-new-52-skins-pack.json](./25983-batman-arkham-knight-new-52-skins-pack.json) |
 | Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
+| Batman: Arkham Knight - Premium Edition | 52440 | [52440-batman-arkham-knight-premium-edition.json](./52440-batman-arkham-knight-premium-edition.json) |
 | Batman: Arkham Knight - Red Hood Story Pack | 26034 | [26034-batman-arkham-knight-red-hood-story-pack.json](./26034-batman-arkham-knight-red-hood-story-pack.json) |
 | Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
 | Batman: Arkham Knight - Season Pass | 25970 | [25970-batman-arkham-knight-season-pass.json](./25970-batman-arkham-knight-season-pass.json) |
@@ -3191,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
 | Batman: The Enemy Within - Shadows Edition | 238332 | [238332-batman-the-enemy-within-shadows-edition.json](./238332-batman-the-enemy-within-shadows-edition.json) |
 | Batman: The Junkyard Challenge | 298937 | [298937-batman-the-junkyard-challenge.json](./298937-batman-the-junkyard-challenge.json) |
+| Batman: The Telltale Series - Episode 1: Realm of Shadows | 26638 | [26638-batman-the-telltale-series-episode-1-realm-of-shadows.json](./26638-batman-the-telltale-series-episode-1-realm-of-shadows.json) |
 | Batman: The Telltale Series - Episode 2: Children of Arkham | 26964 | [26964-batman-the-telltale-series-episode-2-children-of-arkham.json](./26964-batman-the-telltale-series-episode-2-children-of-arkham.json) |
 | Batman: The Telltale Series - Shadows Mode | 127561 | [127561-batman-the-telltale-series-shadows-mode.json](./127561-batman-the-telltale-series-shadows-mode.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
@@ -4234,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlewrights | 337763 | [337763-battlewrights.json](./337763-battlewrights.json) |
 | BattleZ | 236235 | [236235-battlez.json](./236235-battlez.json) |
+| Battlezone | 12916 | [12916-battlezone.json](./12916-battlezone.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
 | Battlezone | 294546 | [294546-battlezone.json](./294546-battlezone.json) |
 | Battlezone 2 Remastered | 86456 | [86456-battlezone-2-remastered.json](./86456-battlezone-2-remastered.json) |
