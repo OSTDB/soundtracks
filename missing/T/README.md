@@ -4228,7 +4228,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
 | Terraformental | 360919 | [360919-terraformental.json](./360919-terraformental.json) |
 | Terraformer Expedition to Mars | 17352 | [17352-terraformer-expedition-to-mars.json](./17352-terraformer-expedition-to-mars.json) |
-| Terraformers | 137070 | [137070-terraformers.json](./137070-terraformers.json) |
 | Terraformers & Moonshine Inc.: Mars and Moon Bundle | 273006 | [273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json](./273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Bundle | 292614 | [292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json](./292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Deluxe Bundle | 292616 | [292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json](./292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json) |
@@ -17123,7 +17122,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uprising | 263365 | [263365-the-uprising.json](./263365-the-uprising.json) |
 | The Upturned | 172905 | [172905-the-upturned.json](./172905-the-upturned.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
-| The Urbz: Sims in the City | 248680 | [248680-the-urbz-sims-in-the-city.json](./248680-the-urbz-sims-in-the-city.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
