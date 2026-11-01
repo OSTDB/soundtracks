@@ -4117,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Everywhere, So Save Paranoiacally 2 | 397934 | [397934-death-everywhere-so-save-paranoiacally-2.json](./397934-death-everywhere-so-save-paranoiacally-2.json) |
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
+| Death Fighter 2: Necro Fighter | 56205 | [56205-death-fighter-2-necro-fighter.json](./56205-death-fighter-2-necro-fighter.json) |
 | Death Fighter 4 | 55968 | [55968-death-fighter-4.json](./55968-death-fighter-4.json) |
 | Death Fighter V.2 | 268907 | [268907-death-fighter-v-2.json](./268907-death-fighter-v-2.json) |
 | Death Finder | 303464 | [303464-death-finder.json](./303464-death-finder.json) |
@@ -7615,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezlooca Anthology | 186498 | [186498-dezlooca-anthology.json](./186498-dezlooca-anthology.json) |
 | Dezzan | 117118 | [117118-dezzan.json](./117118-dezzan.json) |
 | DF-41 Simulator | 169609 | [169609-df-41-simulator.json](./169609-df-41-simulator.json) |
+| DF: Death Fighter | 56210 | [56210-df-death-fighter.json](./56210-df-death-fighter.json) |
 | DFClicker | 396731 | [396731-dfclicker.json](./396731-dfclicker.json) |
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
@@ -11651,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong 3 & Samus | 323885 | [323885-donkey-kong-3-and-samus.json](./323885-donkey-kong-3-and-samus.json) |
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
 | Donkey Kong 3: Another Rise! | 234771 | [234771-donkey-kong-3-another-rise.json](./234771-donkey-kong-3-another-rise.json) |
+| Donkey Kong 3: Dai Gyakushuu | 56218 | [56218-donkey-kong-3-dai-gyakushuu.json](./56218-donkey-kong-3-dai-gyakushuu.json) |
 | Donkey Kong 5: The Journey of Over Time and Space | 222279 | [222279-donkey-kong-5-the-journey-of-over-time-and-space.json](./222279-donkey-kong-5-the-journey-of-over-time-and-space.json) |
 | Donkey Kong 64 | 1096 | [1096-donkey-kong-64.json](./1096-donkey-kong-64.json) |
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
@@ -12541,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Block | 172533 | [172533-double-block.json](./172533-double-block.json) |
 | Double Bloob | 62680 | [62680-double-bloob.json](./62680-double-bloob.json) |
 | Double Breakout | 57325 | [57325-double-breakout.json](./57325-double-breakout.json) |
+| Double Breakout II | 56196 | [56196-double-breakout-ii.json](./56196-double-breakout-ii.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
 | Double Bubble Trouble | 104709 | [104709-double-bubble-trouble.json](./104709-double-bubble-trouble.json) |
 | Double Clue: Solitaire Stories | 36501 | [36501-double-clue-solitaire-stories.json](./36501-double-clue-solitaire-stories.json) |
@@ -14628,6 +14632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer 2024 | 326648 | [326648-dream-league-soccer-2024.json](./326648-dream-league-soccer-2024.json) |
 | Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream League Soccer 2026 | 411784 | [411784-dream-league-soccer-2026.json](./411784-dream-league-soccer-2026.json) |
+| Dream Legends | 56237 | [56237-dream-legends.json](./56237-dream-legends.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Logic | 214119 | [214119-dream-logic.json](./214119-dream-logic.json) |
 | Dream Loser | 399263 | [399263-dream-loser.json](./399263-dream-loser.json) |
@@ -15258,6 +15263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Inc. | 90280 | [90280-drink-inc.json](./90280-drink-inc.json) |
 | Drink More Glurp | 117180 | [117180-drink-more-glurp.json](./117180-drink-more-glurp.json) |
 | Drink Pro Tycoon | 87997 | [87997-drink-pro-tycoon.json](./87997-drink-pro-tycoon.json) |
+| Drink Tea or Die!!! | 56202 | [56202-drink-tea-or-die.json](./56202-drink-tea-or-die.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drinking Tea (with the Trans Boy You Secretly Have a Crush On) | 225519 | [225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json](./225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json) |
