@@ -3380,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
 | Record of Lodoss War II | 66140 | [66140-record-of-lodoss-war-ii.json](./66140-record-of-lodoss-war-ii.json) |
 | Record of Lodoss War Online | 59108 | [59108-record-of-lodoss-war-online.json](./59108-record-of-lodoss-war-online.json) |
+| Record of Lodoss War: Deedlit in Wonder Labyrinth | 96394 | [96394-record-of-lodoss-war-deedlit-in-wonder-labyrinth.json](./96394-record-of-lodoss-war-deedlit-in-wonder-labyrinth.json) |
 | Record of Lodoss War: Eiyuu Sensou | 45867 | [45867-record-of-lodoss-war-eiyuu-sensou.json](./45867-record-of-lodoss-war-eiyuu-sensou.json) |
 | Record Rewind Repeat | 348903 | [348903-record-rewind-repeat.json](./348903-record-rewind-repeat.json) |
 | Record Run | 61703 | [61703-record-run.json](./61703-record-run.json) |
