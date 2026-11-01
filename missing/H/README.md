@@ -10964,6 +10964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huni Kuin: Yube Baitana | 162625 | [162625-huni-kuin-yube-baitana.json](./162625-huni-kuin-yube-baitana.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
 | HuniePop | 9655 | [9655-huniepop.json](./9655-huniepop.json) |
+| HuniePop 2: Double Date | 72472 | [72472-huniepop-2-double-date.json](./72472-huniepop-2-double-date.json) |
 | Hunk Empire | 398363 | [398363-hunk-empire.json](./398363-hunk-empire.json) |
 | Hunkenstein | 188967 | [188967-hunkenstein.json](./188967-hunkenstein.json) |
 | Hunker Down | 236735 | [236735-hunker-down.json](./236735-hunker-down.json) |
