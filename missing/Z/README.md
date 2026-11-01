@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhuó Lìng | 373296 | [373296-zhuo-ling.json](./373296-zhuo-ling.json) |
 | Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
 | Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
+| ZhuZhu Pets 2: Featuring the Wild Bunch | 50978 | [50978-zhuzhu-pets-2-featuring-the-wild-bunch.json](./50978-zhuzhu-pets-2-featuring-the-wild-bunch.json) |
 | Zhuzi Subdues Demons | 295167 | [295167-zhuzi-subdues-demons.json](./295167-zhuzi-subdues-demons.json) |
 | Zi | 279039 | [279039-zi.json](./279039-zi.json) |
 | Zǐ Fēimāo | 155930 | [155930-zi-feimao.json](./155930-zi-feimao.json) |
