@@ -7970,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
 | Gray Skies, Dark Waters | 37002 | [37002-gray-skies-dark-waters.json](./37002-gray-skies-dark-waters.json) |
 | Gray Space | 149351 | [149351-gray-space.json](./149351-gray-space.json) |
+| Gray Tank | 29394 | [29394-gray-tank.json](./29394-gray-tank.json) |
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
