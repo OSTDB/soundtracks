@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nelumbra | 333178 | [333178-nelumbra.json](./333178-nelumbra.json) |
 | Nemac IV | 138259 | [138259-nemac-iv.json](./138259-nemac-iv.json) |
 | Nemegraphe | 326837 | [326837-nemegraphe.json](./326837-nemegraphe.json) |
+| Nemesis | 18630 | [18630-nemesis.json](./18630-nemesis.json) |
 | Nemesis | 197671 | [197671-nemesis.json](./197671-nemesis.json) |
 | Nemesis | 210282 | [210282-nemesis.json](./210282-nemesis.json) |
 | Nemesis | 262390 | [262390-nemesis.json](./262390-nemesis.json) |
@@ -3083,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Planets | 128249 | [128249-new-planets.json](./128249-new-planets.json) |
 | New Pokémon Snap | 135142 | [135142-new-pokemon-snap.json](./135142-new-pokemon-snap.json) |
 | New Quest: Don't Get Bored! | 178943 | [178943-new-quest-dont-get-bored.json](./178943-new-quest-dont-get-bored.json) |
+| New Rally-X | 18621 | [18621-new-rally-x.json](./18621-new-rally-x.json) |
 | New Rally-X Arrangement | 178411 | [178411-new-rally-x-arrangement.json](./178411-new-rally-x-arrangement.json) |
 | New Retro Arcade: Neon | 22398 | [22398-new-retro-arcade-neon.json](./22398-new-retro-arcade-neon.json) |
 | New Revolution | 188398 | [188398-new-revolution.json](./188398-new-revolution.json) |
@@ -3916,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Drive | 332205 | [332205-night-drive.json](./332205-night-drive.json) |
 | Night Drive VR | 88024 | [88024-night-drive-vr.json](./88024-night-drive-vr.json) |
+| Night Driver | 18649 | [18649-night-driver.json](./18649-night-driver.json) |
 | Night Driver | 260733 | [260733-night-driver.json](./260733-night-driver.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
 | Night Driver | 328687 | [328687-night-driver.json](./328687-night-driver.json) |
