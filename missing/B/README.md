@@ -13916,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Sky | 182688 | [182688-break-the-sky.json](./182688-break-the-sky.json) |
 | Break the Targets | 75226 | [75226-break-the-targets.json](./75226-break-the-targets.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
+| Break the Wall | 41116 | [41116-break-the-wall.json](./41116-break-the-wall.json) |
 | Break the Web | 130196 | [130196-break-the-web.json](./130196-break-the-web.json) |
 | Break the Worm | 350758 | [350758-break-the-worm.json](./350758-break-the-worm.json) |
 | Break Through | 292943 | [292943-break-through.json](./292943-break-through.json) |
