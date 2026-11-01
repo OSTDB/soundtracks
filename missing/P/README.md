@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
+| Pathfinder: Kingmaker | 36929 | [36929-pathfinder-kingmaker.json](./36929-pathfinder-kingmaker.json) |
 | Pathfinder: Kingmaker - Beneath the Stolen Lands | 124975 | [124975-pathfinder-kingmaker-beneath-the-stolen-lands.json](./124975-pathfinder-kingmaker-beneath-the-stolen-lands.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
 | Pathfinder: Kingmaker - Imperial Edition | 124981 | [124981-pathfinder-kingmaker-imperial-edition.json](./124981-pathfinder-kingmaker-imperial-edition.json) |
@@ -3906,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Penumbra: Black Plague | 2045 | [2045-penumbra-black-plague.json](./2045-penumbra-black-plague.json) |
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
+| Penumbra: Overture | 8944 | [8944-penumbra-overture.json](./8944-penumbra-overture.json) |
 | Penumbra: Overture VR | 410177 | [410177-penumbra-overture-vr.json](./410177-penumbra-overture-vr.json) |
 | Penumbra: Requiem | 8945 | [8945-penumbra-requiem.json](./8945-penumbra-requiem.json) |
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
@@ -10678,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon White Version 2 | 8353 | [8353-pokemon-white-version-2.json](./8353-pokemon-white-version-2.json) |
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
+| Pokémon XD: Gale of Darkness | 2724 | [2724-pokemon-xd-gale-of-darkness.json](./2724-pokemon-xd-gale-of-darkness.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
 | Pokémon Yellow: Cramorant Edition | 251360 | [251360-pokemon-yellow-cramorant-edition.json](./251360-pokemon-yellow-cramorant-edition.json) |
 | Pokémon Z | 314724 | [314724-pokemon-z.json](./314724-pokemon-z.json) |
@@ -13930,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2010 | 220976 | [220976-pro-evolution-soccer-2010.json](./220976-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2010 | 220977 | [220977-pro-evolution-soccer-2010.json](./220977-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
+| Pro Evolution Soccer 2010 | 4649 | [4649-pro-evolution-soccer-2010.json](./4649-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2011 | 220959 | [220959-pro-evolution-soccer-2011.json](./220959-pro-evolution-soccer-2011.json) |
 | Pro Evolution Soccer 2011 | 220978 | [220978-pro-evolution-soccer-2011.json](./220978-pro-evolution-soccer-2011.json) |
 | Pro Evolution Soccer 2011 | 220979 | [220979-pro-evolution-soccer-2011.json](./220979-pro-evolution-soccer-2011.json) |
@@ -13950,6 +13954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2014 | 240467 | [240467-pro-evolution-soccer-2014.json](./240467-pro-evolution-soccer-2014.json) |
 | Pro Evolution Soccer 2014 | 4652 | [4652-pro-evolution-soccer-2014.json](./4652-pro-evolution-soccer-2014.json) |
 | Pro Evolution Soccer 2015 | 8566 | [8566-pro-evolution-soccer-2015.json](./8566-pro-evolution-soccer-2015.json) |
+| Pro Evolution Soccer 2016 | 11185 | [11185-pro-evolution-soccer-2016.json](./11185-pro-evolution-soccer-2016.json) |
 | Pro Evolution Soccer 2016: 20th Anniversary Edition | 136036 | [136036-pro-evolution-soccer-2016-20th-anniversary-edition.json](./136036-pro-evolution-soccer-2016-20th-anniversary-edition.json) |
 | Pro Evolution Soccer 2017 | 22753 | [22753-pro-evolution-soccer-2017.json](./22753-pro-evolution-soccer-2017.json) |
 | Pro Evolution Soccer 2017 | 240468 | [240468-pro-evolution-soccer-2017.json](./240468-pro-evolution-soccer-2017.json) |
@@ -16095,6 +16100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Bomb | 31852 | [31852-punch-bomb.json](./31852-punch-bomb.json) |
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
+| Punch Club | 15931 | [15931-punch-club.json](./15931-punch-club.json) |
 | Punch Club 2: Complete Edition | 309630 | [309630-punch-club-2-complete-edition.json](./309630-punch-club-2-complete-edition.json) |
 | Punch Club 2: Fast Forward | 55916 | [55916-punch-club-2-fast-forward.json](./55916-punch-club-2-fast-forward.json) |
 | Punch Club 2: Iron Fist | 301931 | [301931-punch-club-2-iron-fist.json](./301931-punch-club-2-iron-fist.json) |
