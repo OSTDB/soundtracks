@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva 2nd | 11755 | [11755-hatsune-miku-project-diva-2nd.json](./11755-hatsune-miku-project-diva-2nd.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #1 | 294733 | [294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json](./294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
+| Hatsune Miku: Project Diva Arcade | 11771 | [11771-hatsune-miku-project-diva-arcade.json](./11771-hatsune-miku-project-diva-arcade.json) |
 | Hatsune Miku: Project Diva Dreamy Theater | 65422 | [65422-hatsune-miku-project-diva-dreamy-theater.json](./65422-hatsune-miku-project-diva-dreamy-theater.json) |
 | Hatsune Miku: Project Diva Dreamy Theater 2nd | 65408 | [65408-hatsune-miku-project-diva-dreamy-theater-2nd.json](./65408-hatsune-miku-project-diva-dreamy-theater-2nd.json) |
 | Hatsune Miku: Project Diva Dreamy Theater Extend | 79220 | [79220-hatsune-miku-project-diva-dreamy-theater-extend.json](./79220-hatsune-miku-project-diva-dreamy-theater-extend.json) |
