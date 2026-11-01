@@ -896,7 +896,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7697,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock 2: Special Edition | 47440 | [47440-bioshock-2-special-edition.json](./47440-bioshock-2-special-edition.json) |
 | BioShock 2: The Protector Trials | 214801 | [214801-bioshock-2-the-protector-trials.json](./214801-bioshock-2-the-protector-trials.json) |
 | BioShock 4 | 96406 | [96406-bioshock-4.json](./96406-bioshock-4.json) |
+| BioShock Infinite: Burial at Sea - Episode 1 | 10047 | [10047-bioshock-infinite-burial-at-sea-episode-1.json](./10047-bioshock-infinite-burial-at-sea-episode-1.json) |
 | BioShock Infinite: Clash in the Clouds | 20115 | [20115-bioshock-infinite-clash-in-the-clouds.json](./20115-bioshock-infinite-clash-in-the-clouds.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: The Complete Edition | 41595 | [41595-bioshock-infinite-the-complete-edition.json](./41595-bioshock-infinite-the-complete-edition.json) |
@@ -12598,6 +12598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanical Chronicle | 266287 | [266287-botanical-chronicle.json](./266287-botanical-chronicle.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanical Warden | 258332 | [258332-botanical-warden.json](./258332-botanical-warden.json) |
+| Botanicula | 6611 | [6611-botanicula.json](./6611-botanicula.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
