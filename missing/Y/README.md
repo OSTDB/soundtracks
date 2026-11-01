@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
 | YonDelver | 201484 | [201484-yondelver.json](./201484-yondelver.json) |
 | Yonder World: Interview with the Void | 190067 | [190067-yonder-world-interview-with-the-void.json](./190067-yonder-world-interview-with-the-void.json) |
+| Yonder: The Cloud Catcher Chronicles | 27732 | [27732-yonder-the-cloud-catcher-chronicles.json](./27732-yonder-the-cloud-catcher-chronicles.json) |
 | Yonder: The Cloud Catcher Chronicles - Enhanced Edition | 171288 | [171288-yonder-the-cloud-catcher-chronicles-enhanced-edition.json](./171288-yonder-the-cloud-catcher-chronicles-enhanced-edition.json) |
 | Yonder: The Cloud Catcher Chronicles - Signature Edition | 146145 | [146145-yonder-the-cloud-catcher-chronicles-signature-edition.json](./146145-yonder-the-cloud-catcher-chronicles-signature-edition.json) |
 | Yondu's Journey | 241260 | [241260-yondus-journey.json](./241260-yondus-journey.json) |
