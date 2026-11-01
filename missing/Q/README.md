@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuickSpot: Master of the Right Brain | 144080 | [144080-quickspot-master-of-the-right-brain.json](./144080-quickspot-master-of-the-right-brain.json) |
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
 | Quid Pro Quo | 407179 | [407179-quid-pro-quo.json](./407179-quid-pro-quo.json) |
+| Quidditch Manager | 60730 | [60730-quidditch-manager.json](./60730-quidditch-manager.json) |
 | Quidget the Wonderwiener | 314948 | [314948-quidget-the-wonderwiener.json](./314948-quidget-the-wonderwiener.json) |
 | Quiet | 412220 | [412220-quiet.json](./412220-quiet.json) |
 | Quiet as a Mouse | 315230 | [315230-quiet-as-a-mouse.json](./315230-quiet-as-a-mouse.json) |
