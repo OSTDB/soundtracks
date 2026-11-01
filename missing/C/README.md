@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlehold | 144146 | [144146-castlehold.json](./144146-castlehold.json) |
 | Castlemancer | 258610 | [258610-castlemancer.json](./258610-castlemancer.json) |
 | Castlemaze: Ojou-sama kara no Chousen | 214007 | [214007-castlemaze-ojou-sama-kara-no-chousen.json](./214007-castlemaze-ojou-sama-kara-no-chousen.json) |
+| CastleMine | 24548 | [24548-castlemine.json](./24548-castlemine.json) |
 | CastleMiner Warfare | 54502 | [54502-castleminer-warfare.json](./54502-castleminer-warfare.json) |
 | CastleMiner Z | 9794 | [9794-castleminer-z.json](./9794-castleminer-z.json) |
 | CastleOfDuck | 193722 | [193722-castleofduck.json](./193722-castleofduck.json) |
@@ -8873,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash King | 93954 | [93954-clash-king.json](./93954-clash-king.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
 | Clash Mini | 172495 | [172495-clash-mini.json](./172495-clash-mini.json) |
+| Clash of Aggression | 24497 | [24497-clash-of-aggression.json](./24497-clash-of-aggression.json) |
 | Clash of Aliens | 175144 | [175144-clash-of-aliens.json](./175144-clash-of-aliens.json) |
 | Clash of Beasts | 197185 | [197185-clash-of-beasts.json](./197185-clash-of-beasts.json) |
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
@@ -9433,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Clif Danger | 129401 | [129401-clif-danger.json](./129401-clif-danger.json) |
 | Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
+| Cliff Hanger | 24504 | [24504-cliff-hanger.json](./24504-cliff-hanger.json) |
 | Cliff Johnson's Labyrinth of Crete | 55831 | [55831-cliff-johnsons-labyrinth-of-crete.json](./55831-cliff-johnsons-labyrinth-of-crete.json) |
 | Cliff Kingdom | 401152 | [401152-cliff-kingdom.json](./401152-cliff-kingdom.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
@@ -11568,6 +11571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
 | Combat Mission: Shock Force | 21234 | [21234-combat-mission-shock-force.json](./21234-combat-mission-shock-force.json) |
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
+| Combat Monsters | 24543 | [24543-combat-monsters.json](./24543-combat-monsters.json) |
 | Combat Online 2 | 414219 | [414219-combat-online-2.json](./414219-combat-online-2.json) |
 | Combat Pilot: Carrier Qualification | 392211 | [392211-combat-pilot-carrier-qualification.json](./392211-combat-pilot-carrier-qualification.json) |
 | Combat Queen | 74801 | [74801-combat-queen.json](./74801-combat-queen.json) |
@@ -17235,6 +17239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalish | 266093 | [266093-crystalish.json](./266093-crystalish.json) |
 | Crystalix | 73466 | [73466-crystalix.json](./73466-crystalix.json) |
 | Crystalize! | 208804 | [208804-crystalize.json](./208804-crystalize.json) |
+| Crystalize! 2 | 24488 | [24488-crystalize-2.json](./24488-crystalize-2.json) |
 | Crystalize! 2: Quest for the Jewel Crown | 208805 | [208805-crystalize-2-quest-for-the-jewel-crown.json](./208805-crystalize-2-quest-for-the-jewel-crown.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
