@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuda Graffiti: KoiKoi Monogatari | 123292 | [123292-hanafuda-graffiti-koikoi-monogatari.json](./123292-hanafuda-graffiti-koikoi-monogatari.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
+| Hanafuda Shiyouyo | 37505 | [37505-hanafuda-shiyouyo.json](./37505-hanafuda-shiyouyo.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanafuta no Tora | 358479 | [358479-hanafuta-no-tora.json](./358479-hanafuta-no-tora.json) |
 | Hanagane Kanade Gram: Chapter 1 - Kozakura Yui | 396457 | [396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json](./396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json) |
@@ -1931,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
 | Harmtaro Card e: B034 - Koro-chan & Hamtaro | 356395 | [356395-harmtaro-card-e-b034-koro-chan-and-hamtaro.json](./356395-harmtaro-card-e-b034-koro-chan-and-hamtaro.json) |
 | Haro no Daibouken | 339595 | [339595-haro-no-daibouken.json](./339595-haro-no-daibouken.json) |
+| Harobots | 37504 | [37504-harobots.json](./37504-harobots.json) |
 | Harobots Action!! | 58061 | [58061-harobots-action.json](./58061-harobots-action.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
@@ -11039,6 +11041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter W | 208751 | [208751-hunter-w.json](./208751-hunter-w.json) |
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
+| Hunter X Hunter: Ishi o Tsugomono | 37503 | [37503-hunter-x-hunter-ishi-o-tsugomono.json](./37503-hunter-x-hunter-ishi-o-tsugomono.json) |
 | Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
 | Hunter X Hunter: Michikareshi Mono | 65358 | [65358-hunter-x-hunter-michikareshi-mono.json](./65358-hunter-x-hunter-michikareshi-mono.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
