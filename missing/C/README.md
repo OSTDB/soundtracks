@@ -5138,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chainz | 94467 | [94467-chainz.json](./94467-chainz.json) |
+| Chainz 2: Relinked | 10571 | [10571-chainz-2-relinked.json](./10571-chainz-2-relinked.json) |
 | Chair F*cking Simulator | 178260 | [178260-chair-f-cking-simulator.json](./178260-chair-f-cking-simulator.json) |
 | Chair Is Videogame | 144083 | [144083-chair-is-videogame.json](./144083-chair-is-videogame.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
