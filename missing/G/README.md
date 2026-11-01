@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Missile Defense | 34807 | [34807-galactic-missile-defense.json](./34807-galactic-missile-defense.json) |
 | Galactic Nemesis | 197252 | [197252-galactic-nemesis.json](./197252-galactic-nemesis.json) |
 | Galactic Orbital Death Sport | 75190 | [75190-galactic-orbital-death-sport.json](./75190-galactic-orbital-death-sport.json) |
+| Galactic Overlord | 22003 | [22003-galactic-overlord.json](./22003-galactic-overlord.json) |
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
 | Galactic Panic | 367850 | [367850-galactic-panic.json](./367850-galactic-panic.json) |
 | Galactic Pawns | 348382 | [348382-galactic-pawns.json](./348382-galactic-pawns.json) |
@@ -9157,10 +9158,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growing Up | 376045 | [376045-growing-up.json](./376045-growing-up.json) |
 | Growing Wild | 356751 | [356751-growing-wild.json](./356751-growing-wild.json) |
 | Growl | 6813 | [6813-growl.json](./6813-growl.json) |
+| Growlanser | 21309 | [21309-growlanser.json](./21309-growlanser.json) |
 | Growlanser Collection | 72430 | [72430-growlanser-collection.json](./72430-growlanser-collection.json) |
 | Growlanser Generations | 21311 | [21311-growlanser-generations.json](./21311-growlanser-generations.json) |
+| Growlanser III: The Dual Darkness | 21312 | [21312-growlanser-iii-the-dual-darkness.json](./21312-growlanser-iii-the-dual-darkness.json) |
 | Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
+| Growlanser VI: Precarious World | 21314 | [21314-growlanser-vi-precarious-world.json](./21314-growlanser-vi-precarious-world.json) |
 | Growlanser: Heritage of War | 21308 | [21308-growlanser-heritage-of-war.json](./21308-growlanser-heritage-of-war.json) |
 | Growling In My Demise | 233597 | [233597-growling-in-my-demise.json](./233597-growling-in-my-demise.json) |
 | Growmancer | 344723 | [344723-growmancer.json](./344723-growmancer.json) |
