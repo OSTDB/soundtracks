@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
 | Narabete! Tsukkute! Ugoku Block | 289747 | [289747-narabete-tsukkute-ugoku-block.json](./289747-narabete-tsukkute-ugoku-block.json) |
 | Naraka Bladepoint: Playstation Plus Gift Pack S16 | 341001 | [341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json](./341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json) |
+| Naraka: Bladepoint | 127352 | [127352-naraka-bladepoint.json](./127352-naraka-bladepoint.json) |
 | Naraka: Bladepoint - Deluxe Edition | 169169 | [169169-naraka-bladepoint-deluxe-edition.json](./169169-naraka-bladepoint-deluxe-edition.json) |
 | Naraku | 291847 | [291847-naraku.json](./291847-naraku.json) |
 | Naraku no Shiro Ichiyanagi Nagomu, Nidome no Junan | 124636 | [124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json](./124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json) |
@@ -689,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
 | Naruto: Ultimate Collection | 220253 | [220253-naruto-ultimate-collection.json](./220253-naruto-ultimate-collection.json) |
 | Naruto: Ultimate Duel | 174605 | [174605-naruto-ultimate-duel.json](./174605-naruto-ultimate-duel.json) |
+| Naruto: Ultimate Ninja | 18386 | [18386-naruto-ultimate-ninja.json](./18386-naruto-ultimate-ninja.json) |
 | Naruto: Ultimate Ninja 3 | 19626 | [19626-naruto-ultimate-ninja-3.json](./19626-naruto-ultimate-ninja-3.json) |
 | Naruto: Ultimate Ninja Heroes | 24281 | [24281-naruto-ultimate-ninja-heroes.json](./24281-naruto-ultimate-ninja-heroes.json) |
 | Naruto: Ultimate Ninja Heroes 2 - The Phantom Fortress | 19660 | [19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json](./19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json) |
@@ -4702,9 +4704,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden II | 198838 | [198838-ninja-gaiden-ii.json](./198838-ninja-gaiden-ii.json) |
 | Ninja Gaiden II | 6782 | [6782-ninja-gaiden-ii.json](./6782-ninja-gaiden-ii.json) |
 | Ninja Gaiden II Black | 329132 | [329132-ninja-gaiden-ii-black.json](./329132-ninja-gaiden-ii-black.json) |
+| Ninja Gaiden II: The Dark Sword of Chaos | 15540 | [15540-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./15540-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Ninja Gaiden Shadow | 48929 | [48929-ninja-gaiden-shadow.json](./48929-ninja-gaiden-shadow.json) |
+| Ninja Gaiden Sigma | 5974 | [5974-ninja-gaiden-sigma.json](./5974-ninja-gaiden-sigma.json) |
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden Sigma 2: Premium Box | 298018 | [298018-ninja-gaiden-sigma-2-premium-box.json](./298018-ninja-gaiden-sigma-2-premium-box.json) |
