@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
 | Harmonia | 138141 | [138141-harmonia.json](./138141-harmonia.json) |
 | Harmonia Heart | 206181 | [206181-harmonia-heart.json](./206181-harmonia-heart.json) |
+| Harmonia Tactics | 60735 | [60735-harmonia-tactics.json](./60735-harmonia-tactics.json) |
 | Harmonia: Full HD Edition | 289587 | [289587-harmonia-full-hd-edition.json](./289587-harmonia-full-hd-edition.json) |
 | Harmonian Tales | 146535 | [146535-harmonian-tales.json](./146535-harmonian-tales.json) |
 | Harmonic Convergence | 353762 | [353762-harmonic-convergence.json](./353762-harmonic-convergence.json) |
@@ -3650,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix | 139802 | [139802-helix.json](./139802-helix.json) |
 | Helix | 147373 | [147373-helix.json](./147373-helix.json) |
 | Helix | 181115 | [181115-helix.json](./181115-helix.json) |
+| Helix | 60734 | [60734-helix.json](./60734-helix.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
 | Helix Bounce Space | 100841 | [100841-helix-bounce-space.json](./100841-helix-bounce-space.json) |
 | Helix Brawl | 168645 | [168645-helix-brawl.json](./168645-helix-brawl.json) |
