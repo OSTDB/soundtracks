@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Hunch | 219116 | [219116-a-good-hunch.json](./219116-a-good-hunch.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
 | A Good Place To Die | 247317 | [247317-a-good-place-to-die.json](./247317-a-good-place-to-die.json) |
+| A Good Snowman is Hard to Build | 14678 | [14678-a-good-snowman-is-hard-to-build.json](./14678-a-good-snowman-is-hard-to-build.json) |
 | A Good Truck Driver | 197001 | [197001-a-good-truck-driver.json](./197001-a-good-truck-driver.json) |
 | A Gorilla vs. 100 Men Simulator | 359567 | [359567-a-gorilla-vs-100-men-simulator.json](./359567-a-gorilla-vs-100-men-simulator.json) |
 | A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
@@ -6886,6 +6887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allergy Assassin | 180717 | [180717-allergy-assassin.json](./180717-allergy-assassin.json) |
 | Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
 | Alley 19 Bowling | 401302 | [401302-alley-19-bowling.json](./401302-alley-19-bowling.json) |
+| Alley Cat | 23860 | [23860-alley-cat.json](./23860-alley-cat.json) |
 | Alley Cat: Remeow Edition | 201957 | [201957-alley-cat-remeow-edition.json](./201957-alley-cat-remeow-edition.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
