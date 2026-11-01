@@ -7899,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon R | 48987 | [48987-bishoujo-senshi-sailor-moon-r.json](./48987-bishoujo-senshi-sailor-moon-r.json) |
 | Bishoujo Senshi Sailor Moon R: Moon Sensation! | 385787 | [385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json](./385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json) |
 | Bishoujo Senshi Sailor Moon R: Sailor Senshi Sanjou! | 385783 | [385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json](./385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json) |
+| Bishoujo Senshi Sailor Moon S | 36697 | [36697-bishoujo-senshi-sailor-moon-s.json](./36697-bishoujo-senshi-sailor-moon-s.json) |
 | Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen | 42399 | [42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json](./42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json) |
 | Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
 | Bishoujo Senshi Sailor Moon S: Kurukkurin | 42342 | [42342-bishoujo-senshi-sailor-moon-s-kurukkurin.json](./42342-bishoujo-senshi-sailor-moon-s-kurukkurin.json) |
