@@ -4673,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Fit | 2186 | [2186-wii-fit.json](./2186-wii-fit.json) |
 | Wii Fit U | 5325 | [5325-wii-fit-u.json](./5325-wii-fit-u.json) |
 | Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
+| Wii Party | 2189 | [2189-wii-party.json](./2189-wii-party.json) |
 | Wii Party U | 3106 | [3106-wii-party-u.json](./3106-wii-party-u.json) |
 | Wii Party: World Edition | 136208 | [136208-wii-party-world-edition.json](./136208-wii-party-world-edition.json) |
 | Wii Play | 2185 | [2185-wii-play.json](./2185-wii-play.json) |
@@ -7715,6 +7716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
 | World of Warcraft: Mists of Pandaria - Collector's Edition | 136348 | [136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json](./136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json) |
 | World of Warcraft: Mists of Pandaria Classic | 322151 | [322151-world-of-warcraft-mists-of-pandaria-classic.json](./322151-world-of-warcraft-mists-of-pandaria-classic.json) |
+| World of Warcraft: Shadowlands | 125175 | [125175-world-of-warcraft-shadowlands.json](./125175-world-of-warcraft-shadowlands.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
 | World of Warcraft: Shadowlands - Collector's Edition | 136998 | [136998-world-of-warcraft-shadowlands-collectors-edition.json](./136998-world-of-warcraft-shadowlands-collectors-edition.json) |
 | World of Warcraft: Shadowlands - Eternity's End | 363926 | [363926-world-of-warcraft-shadowlands-eternitys-end.json](./363926-world-of-warcraft-shadowlands-eternitys-end.json) |
@@ -8000,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Scariest Police Chases | 45093 | [45093-worlds-scariest-police-chases.json](./45093-worlds-scariest-police-chases.json) |
 | World's Worst Handyman | 155675 | [155675-worlds-worst-handyman.json](./155675-worlds-worst-handyman.json) |
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
+| WorldBox | 126489 | [126489-worldbox.json](./126489-worldbox.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
 | Worldcup Volleyball '95 | 378596 | [378596-worldcup-volleyball-95.json](./378596-worldcup-volleyball-95.json) |
@@ -8709,6 +8712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
 | WWE SmackDown vs. Raw 2008 | 328306 | [328306-wwe-smackdown-vs-raw-2008.json](./328306-wwe-smackdown-vs-raw-2008.json) |
+| WWE SmackDown vs. Raw 2008 | 5298 | [5298-wwe-smackdown-vs-raw-2008.json](./5298-wwe-smackdown-vs-raw-2008.json) |
 | WWE SmackDown vs. Raw 2009 | 344148 | [344148-wwe-smackdown-vs-raw-2009.json](./344148-wwe-smackdown-vs-raw-2009.json) |
 | WWE SmackDown vs. Raw 2009 | 344149 | [344149-wwe-smackdown-vs-raw-2009.json](./344149-wwe-smackdown-vs-raw-2009.json) |
 | WWE SmackDown vs. Raw 2010 | 5300 | [5300-wwe-smackdown-vs-raw-2010.json](./5300-wwe-smackdown-vs-raw-2010.json) |
