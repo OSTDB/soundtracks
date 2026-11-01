@@ -4331,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Super Hero Squad Online | 19663 | [19663-marvel-super-hero-squad-online.json](./19663-marvel-super-hero-squad-online.json) |
 | Marvel Super Hero Squad: Comic Combat | 5188 | [5188-marvel-super-hero-squad-comic-combat.json](./5188-marvel-super-hero-squad-comic-combat.json) |
 | Marvel Super Hero Squad: The Infinity Gauntlet | 4998 | [4998-marvel-super-hero-squad-the-infinity-gauntlet.json](./4998-marvel-super-hero-squad-the-infinity-gauntlet.json) |
+| Marvel Super Heroes 3D: Grandmaster's Challenge | 50954 | [50954-marvel-super-heroes-3d-grandmasters-challenge.json](./50954-marvel-super-heroes-3d-grandmasters-challenge.json) |
 | Marvel Super Heroes in War of the Gems | 42656 | [42656-marvel-super-heroes-in-war-of-the-gems.json](./42656-marvel-super-heroes-in-war-of-the-gems.json) |
 | Marvel Super Heroes vs. Street Fighter | 8245 | [8245-marvel-super-heroes-vs-street-fighter.json](./8245-marvel-super-heroes-vs-street-fighter.json) |
 | Marvel Super Heroes: War Of The Gems | 271768 | [271768-marvel-super-heroes-war-of-the-gems.json](./271768-marvel-super-heroes-war-of-the-gems.json) |
@@ -5463,6 +5464,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
+| Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
+| Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
+| Maximum Racing: Sprint Cars | 50946 | [50946-maximum-racing-sprint-cars.json](./50946-maximum-racing-sprint-cars.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
 | Maximum Roadkill | 92319 | [92319-maximum-roadkill.json](./92319-maximum-roadkill.json) |
@@ -14226,6 +14231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
 | Monster 4x4 3D | 141860 | [141860-monster-4x4-3d.json](./141860-monster-4x4-3d.json) |
 | Monster 4x4: Masters of Metal | 4017 | [4017-monster-4x4-masters-of-metal.json](./4017-monster-4x4-masters-of-metal.json) |
+| Monster 4x4: Stunt Racer | 50958 | [50958-monster-4x4-stunt-racer.json](./50958-monster-4x4-stunt-racer.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
 | Monster Adventure | 194129 | [194129-monster-adventure.json](./194129-monster-adventure.json) |
@@ -16550,6 +16556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Skiing | 125620 | [125620-mountain-skiing.json](./125620-mountain-skiing.json) |
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
 | Mountain Sports | 214894 | [214894-mountain-sports.json](./214894-mountain-sports.json) |
+| Mountain Sports | 50971 | [50971-mountain-sports.json](./50971-mountain-sports.json) |
 | Mountain Tanks | 87744 | [87744-mountain-tanks.json](./87744-mountain-tanks.json) |
 | Mountain Taxi Challenge | 382978 | [382978-mountain-taxi-challenge.json](./382978-mountain-taxi-challenge.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
