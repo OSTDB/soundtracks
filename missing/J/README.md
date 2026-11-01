@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Hotel | 210009 | [210009-janes-hotel.json](./210009-janes-hotel.json) |
 | Jane's Hotel 3: Mania | 180100 | [180100-janes-hotel-3-mania.json](./180100-janes-hotel-3-mania.json) |
 | Jane's Hotel Mania | 54135 | [54135-janes-hotel-mania.json](./54135-janes-hotel-mania.json) |
+| Jane's Hotel: Family Hero | 25382 | [25382-janes-hotel-family-hero.json](./25382-janes-hotel-family-hero.json) |
 | Jane’s Hotel: New story - Collector’s Edition | 246002 | [246002-jane-s-hotel-new-story-collector-s-edition.json](./246002-jane-s-hotel-new-story-collector-s-edition.json) |
 | Jane's Realty | 34154 | [34154-janes-realty.json](./34154-janes-realty.json) |
 | Jane's Realty | 54136 | [54136-janes-realty.json](./54136-janes-realty.json) |
@@ -1423,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest | 85622 | [85622-jewel-quest.json](./85622-jewel-quest.json) |
 | Jewel Quest 4 Heritage | 85215 | [85215-jewel-quest-4-heritage.json](./85215-jewel-quest-4-heritage.json) |
 | Jewel Quest 4: Heritage | 85621 | [85621-jewel-quest-4-heritage.json](./85621-jewel-quest-4-heritage.json) |
+| Jewel Quest 5: The Sleepless Star | 25368 | [25368-jewel-quest-5-the-sleepless-star.json](./25368-jewel-quest-5-the-sleepless-star.json) |
 | Jewel Quest II | 10473 | [10473-jewel-quest-ii.json](./10473-jewel-quest-ii.json) |
 | Jewel Quest III | 67125 | [67125-jewel-quest-iii.json](./67125-jewel-quest-iii.json) |
 | Jewel Quest Mysteries 2: Trail of the Midnight Heart | 54141 | [54141-jewel-quest-mysteries-2-trail-of-the-midnight-heart.json](./54141-jewel-quest-mysteries-2-trail-of-the-midnight-heart.json) |
@@ -2191,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
 | Jocky Wilson's Compendium of Darts | 45352 | [45352-jocky-wilsons-compendium-of-darts.json](./45352-jocky-wilsons-compendium-of-darts.json) |
 | Jodie Drake | 210214 | [210214-jodie-drake.json](./210214-jodie-drake.json) |
+| Jodie Drake and the World in Peril | 25362 | [25362-jodie-drake-and-the-world-in-peril.json](./25362-jodie-drake-and-the-world-in-peril.json) |
 | Joe 'n Jo | 294368 | [294368-joe-n-jo.json](./294368-joe-n-jo.json) |
 | Joe & Mac | 213869 | [213869-joe-and-mac.json](./213869-joe-and-mac.json) |
 | Joe & Mac | 213880 | [213880-joe-and-mac.json](./213880-joe-and-mac.json) |
