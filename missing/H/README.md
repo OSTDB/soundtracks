@@ -6112,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexpert | 137552 | [137552-hexpert.json](./137552-hexpert.json) |
 | Hexpire | 292944 | [292944-hexpire.json](./292944-hexpire.json) |
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
+| Hexplore | 8310 | [8310-hexplore.json](./8310-hexplore.json) |
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | Hexroll | 337779 | [337779-hexroll.json](./337779-hexroll.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
@@ -6149,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexxon | 122839 | [122839-hexxon.json](./122839-hexxon.json) |
 | Hexyz Force | 42884 | [42884-hexyz-force.json](./42884-hexyz-force.json) |
 | Hexzen | 408950 | [408950-hexzen.json](./408950-hexzen.json) |
+| Hey Arnold! The Movie | 6565 | [6565-hey-arnold-the-movie.json](./6565-hey-arnold-the-movie.json) |
 | Hey Arnold!: Match-Master | 273883 | [273883-hey-arnold-match-master.json](./273883-hey-arnold-match-master.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Duggee: The Big Badge App | 88593 | [88593-hey-duggee-the-big-badge-app.json](./88593-hey-duggee-the-big-badge-app.json) |
