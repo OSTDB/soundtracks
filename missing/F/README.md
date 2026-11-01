@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling | 6407 | [6407-fire-pro-wrestling.json](./6407-fire-pro-wrestling.json) |
 | Fire Pro Wrestling 2 | 6408 | [6408-fire-pro-wrestling-2.json](./6408-fire-pro-wrestling-2.json) |
 | Fire Pro Wrestling D | 46364 | [46364-fire-pro-wrestling-d.json](./46364-fire-pro-wrestling-d.json) |
+| Fire Pro Wrestling for WonderSwan | 37511 | [37511-fire-pro-wrestling-for-wonderswan.json](./37511-fire-pro-wrestling-for-wonderswan.json) |
 | Fire Pro Wrestling G | 45074 | [45074-fire-pro-wrestling-g.json](./45074-fire-pro-wrestling-g.json) |
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
 | Fire Pro Wrestling Returns | 28767 | [28767-fire-pro-wrestling-returns.json](./28767-fire-pro-wrestling-returns.json) |
@@ -6055,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing for Numbers | 374417 | [374417-fishing-for-numbers.json](./374417-fishing-for-numbers.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
+| Fishing Freaks: BassRise for WonderSwan | 37510 | [37510-fishing-freaks-bassrise-for-wonderswan.json](./37510-fishing-freaks-bassrise-for-wonderswan.json) |
 | Fishing Frenzy | 173437 | [173437-fishing-frenzy.json](./173437-fishing-frenzy.json) |
 | Fishing Frenzy! | 146494 | [146494-fishing-frenzy.json](./146494-fishing-frenzy.json) |
 | Fishing Game | 213550 | [213550-fishing-game.json](./213550-fishing-game.json) |
