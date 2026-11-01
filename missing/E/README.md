@@ -3419,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Forest | 386683 | [386683-endless-forest.json](./386683-endless-forest.json) |
 | Endless Forms Most Beautiful | 129540 | [129540-endless-forms-most-beautiful.json](./129540-endless-forms-most-beautiful.json) |
 | Endless Forms Most Beautiful 64 | 179659 | [179659-endless-forms-most-beautiful-64.json](./179659-endless-forms-most-beautiful-64.json) |
+| Endless Frontier | 54758 | [54758-endless-frontier.json](./54758-endless-frontier.json) |
 | Endless Frontier Saga | 95733 | [95733-endless-frontier-saga.json](./95733-endless-frontier-saga.json) |
 | Endless Frontier Saga 2 | 99381 | [99381-endless-frontier-saga-2.json](./99381-endless-frontier-saga-2.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
