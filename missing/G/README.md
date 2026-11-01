@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Express | 294392 | [294392-galactic-express.json](./294392-galactic-express.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
 | Galactic Federation | 189357 | [189357-galactic-federation.json](./189357-galactic-federation.json) |
+| Galactic Feud | 36642 | [36642-galactic-feud.json](./36642-galactic-feud.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
 | Galactic Fighter | 30511 | [30511-galactic-fighter.json](./30511-galactic-fighter.json) |
 | Galactic Fighters | 31706 | [31706-galactic-fighters.json](./31706-galactic-fighters.json) |
@@ -8383,6 +8384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
 | Greymarsh | 243566 | [243566-greymarsh.json](./243566-greymarsh.json) |
 | Greymarsh Redux | 250754 | [250754-greymarsh-redux.json](./250754-greymarsh-redux.json) |
+| Greymen: A Post-Apocalyptic Band Reunion | 36634 | [36634-greymen-a-post-apocalyptic-band-reunion.json](./36634-greymen-a-post-apocalyptic-band-reunion.json) |
 | Greymond. Saves the Specs | 377210 | [377210-greymond-saves-the-specs.json](./377210-greymond-saves-the-specs.json) |
 | Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
 | Greyroad | 184856 | [184856-greyroad.json](./184856-greyroad.json) |
@@ -10284,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsim | 327208 | [327208-gunsim.json](./327208-gunsim.json) |
 | Gunslinger | 131389 | [131389-gunslinger.json](./131389-gunslinger.json) |
 | Gunslinger | 249050 | [249050-gunslinger.json](./249050-gunslinger.json) |
+| Gunslinger | 36695 | [36695-gunslinger.json](./36695-gunslinger.json) |
 | Gunslinger | 81337 | [81337-gunslinger.json](./81337-gunslinger.json) |
 | Gunslinger Collection | 37120 | [37120-gunslinger-collection.json](./37120-gunslinger-collection.json) |
 | Gunslinger Duel | 270050 | [270050-gunslinger-duel.json](./270050-gunslinger-duel.json) |
