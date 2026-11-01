@@ -3557,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 8: Version Espanola | 268199 | [268199-lets-sing-8-version-espanola.json](./268199-lets-sing-8-version-espanola.json) |
 | Let's Sing 9: Spanish Version | 148118 | [148118-lets-sing-9-spanish-version.json](./148118-lets-sing-9-spanish-version.json) |
 | Let's Sing 9: Version Espanola | 268200 | [268200-lets-sing-9-version-espanola.json](./268200-lets-sing-9-version-espanola.json) |
+| Let's Sing and Dance | 51664 | [51664-lets-sing-and-dance.json](./51664-lets-sing-and-dance.json) |
 | Let's Sing Collection | 118850 | [118850-lets-sing-collection.json](./118850-lets-sing-collection.json) |
 | Let's Sing Country | 125017 | [125017-lets-sing-country.json](./125017-lets-sing-country.json) |
 | Let's Sing Queen | 138761 | [138761-lets-sing-queen.json](./138761-lets-sing-queen.json) |
@@ -8439,6 +8440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Align | 375420 | [375420-lucha-align.json](./375420-lucha-align.json) |
 | Lucha Caliente | 207221 | [207221-lucha-caliente.json](./207221-lucha-caliente.json) |
 | Lucha Chess | 367986 | [367986-lucha-chess.json](./367986-lucha-chess.json) |
+| Lucha Fury | 51646 | [51646-lucha-fury.json](./51646-lucha-fury.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Libre AAA: Héroes del Ring | 7060 | [7060-lucha-libre-aaa-heroes-del-ring.json](./7060-lucha-libre-aaa-heroes-del-ring.json) |
 | Lucha Libre: Legend of the Mask | 317188 | [317188-lucha-libre-legend-of-the-mask.json](./317188-lucha-libre-legend-of-the-mask.json) |
