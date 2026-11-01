@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 on 1 Government | 39809 | [39809-1-on-1-government.json](./39809-1-on-1-government.json) |
 | 1 or 3 Addictive Puzzle Game | 250238 | [250238-1-or-3-addictive-puzzle-game.json](./250238-1-or-3-addictive-puzzle-game.json) |
 | 1 Penguin 100 Cases | 276002 | [276002-1-penguin-100-cases.json](./276002-1-penguin-100-cases.json) |
+| 1 Race / Spin-out / Cryptogram | 27218 | [27218-1-race-spin-out-cryptogram.json](./27218-1-race-spin-out-cryptogram.json) |
 | 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Shot 1 Kill | 297759 | [297759-1-shot-1-kill.json](./297759-1-shot-1-kill.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Gnomes in Pothia | 383613 | [383613-10-gnomes-in-pothia.json](./383613-10-gnomes-in-pothia.json) |
 | 10 Gnomes in Trstenik | 383643 | [383643-10-gnomes-in-trstenik.json](./383643-10-gnomes-in-trstenik.json) |
 | 10 Gnomes in Venice | 383610 | [383610-10-gnomes-in-venice.json](./383610-10-gnomes-in-venice.json) |
+| 10 Golf | 27233 | [27233-10-golf.json](./27233-10-golf.json) |
 | 10 Hours Below | 178430 | [178430-10-hours-below.json](./178430-10-hours-below.json) |
 | 10 in 1 Classic Games Pack | 304804 | [304804-10-in-1-classic-games-pack.json](./304804-10-in-1-classic-games-pack.json) |
 | 10 in 1 games Bundle | 284955 | [284955-10-in-1-games-bundle.json](./284955-10-in-1-games-bundle.json) |
@@ -1483,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 More, Somehow Even Smaller, Mazes | 393460 | [393460-20-more-somehow-even-smaller-mazes.json](./393460-20-more-somehow-even-smaller-mazes.json) |
 | 20 Small Mazes | 272249 | [272249-20-small-mazes.json](./272249-20-small-mazes.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
+| 20 Stone sling | 27226 | [27226-20-stone-sling.json](./27226-20-stone-sling.json) |
 | 20 Tons | 83140 | [83140-20-tons.json](./83140-20-tons.json) |
 | 20 Trials to Heaven | 416104 | [416104-20-trials-to-heaven.json](./416104-20-trials-to-heaven.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
@@ -1661,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 22 Minutes | 298440 | [298440-22-minutes.json](./298440-22-minutes.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
 | 22 Seconds | 143268 | [143268-22-seconds.json](./143268-22-seconds.json) |
+| 22 Space monster | 27225 | [27225-22-space-monster.json](./27225-22-space-monster.json) |
 | 22/7 Ongaku no Jikan | 341856 | [341856-22-7-ongaku-no-jikan.json](./341856-22-7-ongaku-no-jikan.json) |
 | 221B Baker Street | 2293 | [2293-221b-baker-street.json](./2293-221b-baker-street.json) |
 | 222 Hearts | 74462 | [74462-222-hearts.json](./74462-222-hearts.json) |
@@ -1709,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25 in 1 Family Games Mega Collection | 385159 | [385159-25-in-1-family-games-mega-collection.json](./385159-25-in-1-family-games-mega-collection.json) |
 | 25 Layers of Pain | 172917 | [172917-25-layers-of-pain.json](./172917-25-layers-of-pain.json) |
 | 25 Pferdespiele | 91592 | [91592-25-pferdespiele.json](./91592-25-pferdespiele.json) |
+| 25 Skiing | 27224 | [27224-25-skiing.json](./27224-25-skiing.json) |
 | 25 To Life | 5714 | [5714-25-to-life.json](./5714-25-to-life.json) |
 | 25 Years on Earth | 261459 | [261459-25-years-on-earth.json](./261459-25-years-on-earth.json) |
 | 25,000 Sudoku Puzzles | 125838 | [125838-25-000-sudoku-puzzles.json](./125838-25-000-sudoku-puzzles.json) |
@@ -1723,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 256 vs. 256 | 284786 | [284786-256-vs-256.json](./284786-256-vs-256.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
+| 27 Electronic table football | 27219 | [27219-27-electronic-table-football.json](./27219-27-electronic-table-football.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
 | 27 Tele-games | 98803 | [98803-27-tele-games.json](./98803-27-tele-games.json) |
 | 28 | 308937 | [308937-28.json](./308937-28.json) |
@@ -1942,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3..2..1..Grenades! | 32004 | [32004-3-2-1-grenades.json](./32004-3-2-1-grenades.json) |
 | 3.5 Ins Micro Disc Software: Adventure with Technician Ted / Heathrow International Air Traffic Control | 137331 | [137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json](./137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json) |
 | 3/4 Spell Swap | 397011 | [397011-3-4-spell-swap.json](./397011-3-4-spell-swap.json) |
+| 30 Battlefield | 27236 | [27236-30-battlefield.json](./27236-30-battlefield.json) |
 | 30 Birds | 167462 | [167462-30-birds.json](./167462-30-birds.json) |
 | 30 Days Adrift | 358086 | [358086-30-days-adrift.json](./358086-30-days-adrift.json) |
 | 30 Days Another | 216778 | [216778-30-days-another.json](./216778-30-days-another.json) |
@@ -2019,12 +2026,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 346471 | 362746 | [362746-346471.json](./362746-346471.json) |
 | 35 Card Solitaire | 300519 | [300519-35-card-solitaire.json](./300519-35-card-solitaire.json) |
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
+| 35 Electronic billjards | 27221 | [27221-35-electronic-billjards.json](./27221-35-electronic-billjards.json) |
 | 35 Junior Games | 84582 | [84582-35-junior-games.json](./84582-35-junior-games.json) |
 | 3571 The Game | 76396 | [76396-3571-the-game.json](./76396-3571-the-game.json) |
 | 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 36 Apples | 129985 | [129985-36-apples.json](./129985-36-apples.json) |
 | 36 Days a Week | 135493 | [135493-36-days-a-week.json](./135493-36-days-a-week.json) |
+| 36 Electronic soccer / Electronic Ice Hockey | 27223 | [27223-36-electronic-soccer-electronic-ice-hockey.json](./27223-36-electronic-soccer-electronic-ice-hockey.json) |
 | 36 Fragments of Midnight | 51730 | [51730-36-fragments-of-midnight.json](./51730-36-fragments-of-midnight.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
 | 36 Zodiac Cycles | 362407 | [362407-36-zodiac-cycles.json](./362407-36-zodiac-cycles.json) |
@@ -2043,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 372756 | 397771 | [397771-372756.json](./397771-372756.json) |
 | 37th Relic Retrieval | 271198 | [271198-37th-relic-retrieval.json](./271198-37th-relic-retrieval.json) |
 | 38 Man Kilo no Kokuu File 1: A Day in the Life of 2049 | 84171 | [84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json](./84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json) |
+| 38 Munchkin | 27222 | [27222-38-munchkin.json](./27222-38-munchkin.json) |
 | 3876 AD: Corruption | 382893 | [382893-3876-ad-corruption.json](./382893-3876-ad-corruption.json) |
 | 38M Girls Project | 13667 | [13667-38m-girls-project.json](./13667-38m-girls-project.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
@@ -2704,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50CK3T | 283869 | [283869-50ck3t.json](./283869-50ck3t.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
 | 51 Baffes | 184186 | [184186-51-baffes.json](./184186-51-baffes.json) |
+| 51 Terrahawks | 27234 | [27234-51-terrahawks.json](./27234-51-terrahawks.json) |
 | 512 | 31204 | [31204-512.json](./31204-512.json) |
 | 512 Linedefs of /vr/ | 314985 | [314985-512-linedefs-of-vr.json](./314985-512-linedefs-of-vr.json) |
 | 5125m | 370206 | [370206-5125m.json](./370206-5125m.json) |
@@ -2754,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Rooms | 377405 | [377405-6-rooms.json](./377405-6-rooms.json) |
 | 6 Seasons and a Game | 141399 | [141399-6-seasons-and-a-game.json](./141399-6-seasons-and-a-game.json) |
 | 6 Takes! | 167498 | [167498-6-takes.json](./167498-6-takes.json) |
+| 6 Tenpin Bowling / Basketball | 27232 | [27232-6-tenpin-bowling-basketball.json](./27232-6-tenpin-bowling-basketball.json) |
 | 6 Ways To 7 | 377404 | [377404-6-ways-to-7.json](./377404-6-ways-to-7.json) |
 | 6 x 1 = Unlimited | 222452 | [222452-6-x-1-unlimited.json](./222452-6-x-1-unlimited.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
