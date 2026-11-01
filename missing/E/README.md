@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Eye: Find the Difference | 251740 | [251740-eagle-eye-find-the-difference.json](./251740-eagle-eye-find-the-difference.json) |
 | Eagle Fantasy Golf | 74705 | [74705-eagle-fantasy-golf.json](./74705-eagle-fantasy-golf.json) |
 | Eagle Fighter | 41808 | [41808-eagle-fighter.json](./41808-eagle-fighter.json) |
+| Eagle Flight | 14765 | [14765-eagle-flight.json](./14765-eagle-flight.json) |
 | Eagle Hunting Journey | 224315 | [224315-eagle-hunting-journey.json](./224315-eagle-hunting-journey.json) |
 | Eagle Island | 149816 | [149816-eagle-island.json](./149816-eagle-island.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
