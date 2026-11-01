@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feel Gear | 178874 | [178874-feel-gear.json](./178874-feel-gear.json) |
 | Feel Ski | 91018 | [91018-feel-ski.json](./91018-feel-ski.json) |
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
+| Feel the Magic: XY/XX | 18331 | [18331-feel-the-magic-xy-xx.json](./18331-feel-the-magic-xy-xx.json) |
 | Feel the Snow | 31001 | [31001-feel-the-snow.json](./31001-feel-the-snow.json) |
 | Feel Up a Sexy Lifeguard! | 169089 | [169089-feel-up-a-sexy-lifeguard.json](./169089-feel-up-a-sexy-lifeguard.json) |
 | Feelin | 102931 | [102931-feelin.json](./102931-feelin.json) |
@@ -5224,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
 | Finding Semolina | 183798 | [183798-finding-semolina.json](./183798-finding-semolina.json) |
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
+| Finding Teddy | 16775 | [16775-finding-teddy.json](./16775-finding-teddy.json) |
 | Finding Teddy 2 | 47045 | [47045-finding-teddy-2.json](./47045-finding-teddy-2.json) |
 | Finding Teddy 2: Definitive Edition | 132059 | [132059-finding-teddy-2-definitive-edition.json](./132059-finding-teddy-2-definitive-edition.json) |
 | Finding the Soul Orb | 128099 | [128099-finding-the-soul-orb.json](./128099-finding-the-soul-orb.json) |
