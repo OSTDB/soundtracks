@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paulblast! | 326108 | [326108-paulblast.json](./326108-paulblast.json) |
 | Pauli's Adventure Island | 264101 | [264101-paulis-adventure-island.json](./264101-paulis-adventure-island.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
+| Paulo's Wing | 29469 | [29469-paulos-wing.json](./29469-paulos-wing.json) |
 | PaulPaul - Act 1 | 105142 | [105142-paulpaul-act-1.json](./105142-paulpaul-act-1.json) |
 | Paunch | 127002 | [127002-paunch.json](./127002-paunch.json) |
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
@@ -8454,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Crusher | 367718 | [367718-planet-crusher.json](./367718-planet-crusher.json) |
 | Planet Deathmatch | 56352 | [56352-planet-deathmatch.json](./56352-planet-deathmatch.json) |
+| Planet Defender | 29463 | [29463-planet-defender.json](./29463-planet-defender.json) |
 | Planet Defender | 310999 | [310999-planet-defender.json](./310999-planet-defender.json) |
 | Planet Defender | 386331 | [386331-planet-defender.json](./386331-planet-defender.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
@@ -9182,6 +9184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plazma Burst: Forward to the Past | 124039 | [124039-plazma-burst-forward-to-the-past.json](./124039-plazma-burst-forward-to-the-past.json) |
 | Plead with the Mountain God | 177293 | [177293-plead-with-the-mountain-god.json](./177293-plead-with-the-mountain-god.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
+| Please | 29453 | [29453-please.json](./29453-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please adopt me. # AI needs repair. | 135719 | [135719-please-adopt-me-ai-needs-repair.json](./135719-please-adopt-me-ai-needs-repair.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
@@ -13428,6 +13431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Isabella: Return of the Curse | 17220 | [17220-princess-isabella-return-of-the-curse.json](./17220-princess-isabella-return-of-the-curse.json) |
 | Princess Jigsaw Bundle | 319310 | [319310-princess-jigsaw-bundle.json](./319310-princess-jigsaw-bundle.json) |
 | Princess Kaguya | 34914 | [34914-princess-kaguya.json](./34914-princess-kaguya.json) |
+| Princess Kidnapper 2 - VR | 29430 | [29430-princess-kidnapper-2-vr.json](./29430-princess-kidnapper-2-vr.json) |
 | Princess Kidnapper VR | 30446 | [30446-princess-kidnapper-vr.json](./30446-princess-kidnapper-vr.json) |
 | Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lana | 138687 | [138687-princess-lana.json](./138687-princess-lana.json) |
