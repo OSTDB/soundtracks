@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future III | 218360 | [218360-back-to-the-future-iii.json](./218360-back-to-the-future-iii.json) |
 | Back to the Future Part II | 12396 | [12396-back-to-the-future-part-ii.json](./12396-back-to-the-future-part-ii.json) |
 | Back to the Future Part II & III | 8517 | [8517-back-to-the-future-part-ii-and-iii.json](./8517-back-to-the-future-part-ii-and-iii.json) |
+| Back to the Future Part III | 8519 | [8519-back-to-the-future-part-iii.json](./8519-back-to-the-future-part-iii.json) |
 | Back to the Future: The Game | 3232 | [3232-back-to-the-future-the-game.json](./3232-back-to-the-future-the-game.json) |
 | Back to the Future: The Game - Episode 1: It's About Time | 78249 | [78249-back-to-the-future-the-game-episode-1-its-about-time.json](./78249-back-to-the-future-the-game-episode-1-its-about-time.json) |
 | Back to the Future: The Game - Episode 2: Get Tannen! | 78253 | [78253-back-to-the-future-the-game-episode-2-get-tannen.json](./78253-back-to-the-future-the-game-episode-2-get-tannen.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10756,6 +10758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxland Story | 60906 | [60906-bloxland-story.json](./60906-bloxland-story.json) |
 | Bloxolotl | 303166 | [303166-bloxolotl.json](./303166-bloxolotl.json) |
 | BloXoR | 118614 | [118614-bloxor.json](./118614-bloxor.json) |
+| Bloxorz | 135849 | [135849-bloxorz.json](./135849-bloxorz.json) |
 | Bloxorz | 403450 | [403450-bloxorz.json](./403450-bloxorz.json) |
 | Bloxorz: Roll the Block | 105786 | [105786-bloxorz-roll-the-block.json](./105786-bloxorz-roll-the-block.json) |
 | Bloxpath | 333347 | [333347-bloxpath.json](./333347-bloxpath.json) |
@@ -13106,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowlout | 224969 | [224969-bowlout.json](./224969-bowlout.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
 | BowMage | 32267 | [32267-bowmage.json](./32267-bowmage.json) |
+| Bowman | 135922 | [135922-bowman.json](./135922-bowman.json) |
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
 | Bowman 2 | 192329 | [192329-bowman-2.json](./192329-bowman-2.json) |
 | Bowman VS Zombies | 103625 | [103625-bowman-vs-zombies.json](./103625-bowman-vs-zombies.json) |
@@ -17166,4 +17170,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
 | Byzantine: The Betrayal | 25457 | [25457-byzantine-the-betrayal.json](./25457-byzantine-the-betrayal.json) |
+| Bzzzt | 133446 | [133446-bzzzt.json](./133446-bzzzt.json) |
 | B画少说 | 114896 | [114896-b.json](./114896-b.json) |
