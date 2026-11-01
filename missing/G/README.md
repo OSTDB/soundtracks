@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.I. Joe: Wrath of Cobra | 264313 | [264313-g-i-joe-wrath-of-cobra.json](./264313-g-i-joe-wrath-of-cobra.json) |
 | G.I.R.L.S. will be Girls | 397391 | [397391-g-i-r-l-s-will-be-girls.json](./397391-g-i-r-l-s-will-be-girls.json) |
+| G.O.D Pure: Growth or Devolution | 62380 | [62380-g-o-d-pure-growth-or-devolution.json](./62380-g-o-d-pure-growth-or-devolution.json) |
 | G.O.D: Mezame yo to Yobu Koe ga Kikoe | 42433 | [42433-g-o-d-mezame-yo-to-yobu-koe-ga-kikoe.json](./42433-g-o-d-mezame-yo-to-yobu-koe-ga-kikoe.json) |
 | G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
 | G.O.M.P! | 245903 | [245903-g-o-m-p.json](./245903-g-o-m-p.json) |
@@ -3160,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Colossal | 377915 | [377915-get-colossal.json](./377915-get-colossal.json) |
 | Get Dexter | 26462 | [26462-get-dexter.json](./26462-get-dexter.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
+| Get Dexter 2: The Angel Crystal | 62385 | [62385-get-dexter-2-the-angel-crystal.json](./62385-get-dexter-2-the-angel-crystal.json) |
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
 | Get Dumped | 233677 | [233677-get-dumped.json](./233677-get-dumped.json) |
 | Get fit with Mel B | 11624 | [11624-get-fit-with-mel-b.json](./11624-get-fit-with-mel-b.json) |
@@ -3974,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin no Eclipse | 204556 | [204556-gin-no-eclipse.json](./204556-gin-no-eclipse.json) |
 | Gin Rummy | 179597 | [179597-gin-rummy.json](./179597-gin-rummy.json) |
 | Gin Rummy | 377838 | [377838-gin-rummy.json](./377838-gin-rummy.json) |
+| Gin Rummy | 62392 | [62392-gin-rummy.json](./62392-gin-rummy.json) |
 | Gin Rummy 3D Premium | 133118 | [133118-gin-rummy-3d-premium.json](./133118-gin-rummy-3d-premium.json) |
 | Gin Rummy Classic | 370435 | [370435-gin-rummy-classic.json](./370435-gin-rummy-classic.json) |
 | Gin Rummy Deluxe | 181590 | [181590-gin-rummy-deluxe.json](./181590-gin-rummy-deluxe.json) |
