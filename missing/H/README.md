@@ -3060,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
 | Heart: Future Whispers | 333878 | [333878-heart-future-whispers.json](./333878-heart-future-whispers.json) |
+| Heart. Papers. Border. | 26187 | [26187-heart-papers-border.json](./26187-heart-papers-border.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heart.Marrow.Blood. | 377557 | [377557-heart-marrow-blood.json](./377557-heart-marrow-blood.json) |
 | Heart's Blight | 178918 | [178918-hearts-blight.json](./178918-hearts-blight.json) |
@@ -7429,6 +7430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
 | Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
 | Hips N Noses | 368826 | [368826-hips-n-noses.json](./368826-hips-n-noses.json) |
+| Hipster Bingo | 26158 | [26158-hipster-bingo.json](./26158-hipster-bingo.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hipster Chess | 256438 | [256438-hipster-chess.json](./256438-hipster-chess.json) |
 | Hipster Kickball | 396384 | [396384-hipster-kickball.json](./396384-hipster-kickball.json) |
@@ -10796,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunahpu Quest. Mechanoid | 81903 | [81903-hunahpu-quest-mechanoid.json](./81903-hunahpu-quest-mechanoid.json) |
 | Hunahpu: Way of the Warrior | 29423 | [29423-hunahpu-way-of-the-warrior.json](./29423-hunahpu-way-of-the-warrior.json) |
 | Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
+| Hunchback II: Quasimodo's Revenge | 26119 | [26119-hunchback-ii-quasimodos-revenge.json](./26119-hunchback-ii-quasimodos-revenge.json) |
 | Hunchback: The Adventure | 26390 | [26390-hunchback-the-adventure.json](./26390-hunchback-the-adventure.json) |
 | Hunchback's Dungeon | 258066 | [258066-hunchbacks-dungeon.json](./258066-hunchbacks-dungeon.json) |
 | Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
