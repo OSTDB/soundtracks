@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Abandon | 222631 | [222631-abandon.json](./222631-abandon.json) |
 | Abandon | 91827 | [91827-abandon.json](./91827-abandon.json) |
+| Abandon Ship | 30647 | [30647-abandon-ship.json](./30647-abandon-ship.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
 | Abandoned | 165148 | [165148-abandoned.json](./165148-abandoned.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Interpreter | 73272 | [73272-adventure-interpreter.json](./73272-adventure-interpreter.json) |
 | Adventure Island | 100068 | [100068-adventure-island.json](./100068-adventure-island.json) |
+| Adventure Island | 141679 | [141679-adventure-island.json](./141679-adventure-island.json) |
 | Adventure Island 3 | 8737 | [8737-adventure-island-3.json](./8737-adventure-island-3.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
@@ -6918,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alley Cat | 23860 | [23860-alley-cat.json](./23860-alley-cat.json) |
 | Alley Cat: Remeow Edition | 201957 | [201957-alley-cat-remeow-edition.json](./201957-alley-cat-remeow-edition.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
+| Alley Catz Bowling | 149292 | [149292-alley-catz-bowling.json](./149292-alley-catz-bowling.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
 | Alley Nine | 293550 | [293550-alley-nine.json](./293550-alley-nine.json) |
 | Alley Oops | 79283 | [79283-alley-oops.json](./79283-alley-oops.json) |
@@ -7370,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
 | Alterworld | 312173 | [312173-alterworld.json](./312173-alterworld.json) |
 | Altf4 | 259468 | [259468-altf4.json](./259468-altf4.json) |
+| ALTF4 | 143759 | [143759-altf4.json](./143759-altf4.json) |
 | Altf42 | 226217 | [226217-altf42.json](./226217-altf42.json) |
 | Altheia: The Wrath of Aferi | 151818 | [151818-altheia-the-wrath-of-aferi.json](./151818-altheia-the-wrath-of-aferi.json) |
 | Altitude | 2357 | [2357-altitude.json](./2357-altitude.json) |
@@ -8709,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andrii's Horror | 52580 | [52580-andriis-horror.json](./52580-andriis-horror.json) |
 | Andrio's World | 247373 | [247373-andrios-world.json](./247373-andrios-world.json) |
 | Andro Dunos | 39622 | [39622-andro-dunos.json](./39622-andro-dunos.json) |
+| Andro Dunos II | 145610 | [145610-andro-dunos-ii.json](./145610-andro-dunos-ii.json) |
 | Andro Milk | 97656 | [97656-andro-milk.json](./97656-andro-milk.json) |
 | Andro's World | 99111 | [99111-andros-world.json](./99111-andros-world.json) |
 | Android | 150966 | [150966-android.json](./150966-android.json) |
@@ -14175,6 +14180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Season Pass | 293717 | [293717-assassins-creed-valhalla-season-pass.json](./293717-assassins-creed-valhalla-season-pass.json) |
 | Assassin's Creed Valhalla: Shared History | 325329 | [325329-assassins-creed-valhalla-shared-history.json](./325329-assassins-creed-valhalla-shared-history.json) |
 | Assassin's Creed Valhalla: The Legend of Beowulf | 323775 | [323775-assassins-creed-valhalla-the-legend-of-beowulf.json](./323775-assassins-creed-valhalla-the-legend-of-beowulf.json) |
+| Assassin's Creed Valhalla: The Way of the Berserker | 150042 | [150042-assassins-creed-valhalla-the-way-of-the-berserker.json](./150042-assassins-creed-valhalla-the-way-of-the-berserker.json) |
 | Assassin's Creed Valhalla: Title Update 1.5.1 | 222819 | [222819-assassins-creed-valhalla-title-update-1-5-1.json](./222819-assassins-creed-valhalla-title-update-1-5-1.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen | 222834 | [222834-assassins-creed-valhalla-tombs-of-the-fallen.json](./222834-assassins-creed-valhalla-tombs-of-the-fallen.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen Pack 2 | 222835 | [222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json](./222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json) |
@@ -14435,6 +14441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Heroes | 267001 | [267001-asterix-and-obelix-heroes.json](./267001-asterix-and-obelix-heroes.json) |
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
 | Asterix & Obelix: Mission Babylon | 358218 | [358218-asterix-and-obelix-mission-babylon.json](./358218-asterix-and-obelix-mission-babylon.json) |
+| Asterix & Obelix: Slap Them All! | 145062 | [145062-asterix-and-obelix-slap-them-all.json](./145062-asterix-and-obelix-slap-them-all.json) |
 | Asterix & Obelix: Slap Them All! - Collector's Edition | 159208 | [159208-asterix-and-obelix-slap-them-all-collectors-edition.json](./159208-asterix-and-obelix-slap-them-all-collectors-edition.json) |
 | Asterix & Obelix: Slap Them All! 1+2 | 305494 | [305494-asterix-and-obelix-slap-them-all-1-2.json](./305494-asterix-and-obelix-slap-them-all-1-2.json) |
 | Asterix & Obelix: Slap Them All! 2 - Gold Edition | 283588 | [283588-asterix-and-obelix-slap-them-all-2-gold-edition.json](./283588-asterix-and-obelix-slap-them-all-2-gold-edition.json) |
