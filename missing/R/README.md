@@ -1899,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rara Racer | 125769 | [125769-rara-racer.json](./125769-rara-racer.json) |
 | Rare Collection 1 | 365170 | [365170-rare-collection-1.json](./365170-rare-collection-1.json) |
 | Rare Rabbits: Snuggle Haven | 374107 | [374107-rare-rabbits-snuggle-haven.json](./374107-rare-rabbits-snuggle-haven.json) |
+| Rare Replay | 11147 | [11147-rare-replay.json](./11147-rare-replay.json) |
 | Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
 | Rascal | 94445 | [94445-rascal.json](./94445-rascal.json) |
@@ -9701,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster World | 85842 | [85842-rollercoaster-world.json](./85842-rollercoaster-world.json) |
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
 | Rollercoaster Xperience | 55434 | [55434-rollercoaster-xperience.json](./55434-rollercoaster-xperience.json) |
+| Rollerdrome | 203366 | [203366-rollerdrome.json](./203366-rollerdrome.json) |
 | RollerForce | 31935 | [31935-rollerforce.json](./31935-rollerforce.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
 | RollerGames | 40076 | [40076-rollergames.json](./40076-rollergames.json) |
