@@ -5939,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Wire! | 122569 | [122569-live-wire.json](./122569-live-wire.json) |
 | Live x Evil | 220245 | [220245-live-x-evil.json](./220245-live-x-evil.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
+| Livelock | 16982 | [16982-livelock.json](./16982-livelock.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | Lively Knight | 313412 | [313412-lively-knight.json](./313412-lively-knight.json) |
 | LiveMeat | 289547 | [289547-livemeat.json](./289547-livemeat.json) |
