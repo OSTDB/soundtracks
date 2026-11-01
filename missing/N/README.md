@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Fighting Legend | 48410 | [48410-nekketsu-fighting-legend.json](./48410-nekketsu-fighting-legend.json) |
 | Nekketsu High School Dodgeball Club: Soccer Story | 191639 | [191639-nekketsu-high-school-dodgeball-club-soccer-story.json](./191639-nekketsu-high-school-dodgeball-club-soccer-story.json) |
 | Nekketsu Inou Bukatsutan Trigger Kiss | 61534 | [61534-nekketsu-inou-bukatsutan-trigger-kiss.json](./61534-nekketsu-inou-bukatsutan-trigger-kiss.json) |
+| Nekketsu Judo | 41713 | [41713-nekketsu-judo.json](./41713-nekketsu-judo.json) |
 | Nekketsu Kakutou Densetsu | 191679 | [191679-nekketsu-kakutou-densetsu.json](./191679-nekketsu-kakutou-densetsu.json) |
 | Nekketsu Kouha Kunio-kun | 40969 | [40969-nekketsu-kouha-kunio-kun.json](./40969-nekketsu-kouha-kunio-kun.json) |
 | Nekketsu Kouha Kunio-kun Gaiden: River City Girls 1-2 | 228060 | [228060-nekketsu-kouha-kunio-kun-gaiden-river-city-girls-1-2.json](./228060-nekketsu-kouha-kunio-kun-gaiden-river-city-girls-1-2.json) |
