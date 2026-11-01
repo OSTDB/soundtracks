@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Dragon Knight | 221894 | [221894-legend-of-dragon-knight.json](./221894-legend-of-dragon-knight.json) |
 | Legend of Dragon Labyrinth | 110721 | [110721-legend-of-dragon-labyrinth.json](./110721-legend-of-dragon-labyrinth.json) |
 | Legend of Dungeon: Masters | 34394 | [34394-legend-of-dungeon-masters.json](./34394-legend-of-dungeon-masters.json) |
+| Legend of Dynamic Goushouden: Houkai no Rondo | 49669 | [49669-legend-of-dynamic-goushouden-houkai-no-rondo.json](./49669-legend-of-dynamic-goushouden-houkai-no-rondo.json) |
 | Legend of Edda | 66401 | [66401-legend-of-edda.json](./66401-legend-of-edda.json) |
 | Legend of Edda Brasil | 235639 | [235639-legend-of-edda-brasil.json](./235639-legend-of-edda-brasil.json) |
 | Legend of Eeeg | 107643 | [107643-legend-of-eeeg.json](./107643-legend-of-eeeg.json) |
@@ -2710,6 +2711,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legends: Saint George | 349812 | [349812-legends-saint-george.json](./349812-legends-saint-george.json) |
 | Legendum | 395385 | [395385-legendum.json](./395385-legendum.json) |
+| Legendz: Sign of Necrom | 49667 | [49667-legendz-sign-of-necrom.json](./49667-legendz-sign-of-necrom.json) |
+| Legendz: Yomigaeru Shiren no Shima | 49665 | [49665-legendz-yomigaeru-shiren-no-shima.json](./49665-legendz-yomigaeru-shiren-no-shima.json) |
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
 | Legeno Slayer | 212602 | [212602-legeno-slayer.json](./212602-legeno-slayer.json) |
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
@@ -3491,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Ride: Horse & Pony | 209883 | [209883-lets-ride-horse-and-pony.json](./209883-lets-ride-horse-and-pony.json) |
 | Let's Ride! Best in Breed 3D | 60869 | [60869-lets-ride-best-in-breed-3d.json](./60869-lets-ride-best-in-breed-3d.json) |
 | Let's Ride! Championship Dreams | 72136 | [72136-lets-ride-championship-dreams.json](./72136-lets-ride-championship-dreams.json) |
+| Let's Ride! Friends Forever | 49668 | [49668-lets-ride-friends-forever.json](./49668-lets-ride-friends-forever.json) |
 | Let's Ride! Silver Buckle Stables | 43522 | [43522-lets-ride-silver-buckle-stables.json](./43522-lets-ride-silver-buckle-stables.json) |
 | Let's Ride!: Dreamer | 49396 | [49396-lets-ride-dreamer.json](./49396-lets-ride-dreamer.json) |
 | Let's Ride!: Sunshine Stables | 49395 | [49395-lets-ride-sunshine-stables.json](./49395-lets-ride-sunshine-stables.json) |
@@ -3981,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libtard: The Satire Game | 138026 | [138026-libtard-the-satire-game.json](./138026-libtard-the-satire-game.json) |
 | Licačka | 254422 | [254422-licacka.json](./254422-licacka.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
+| Licca-chan no Oshare Nikki | 49664 | [49664-licca-chan-no-oshare-nikki.json](./49664-licca-chan-no-oshare-nikki.json) |
 | License to Breed | 262579 | [262579-license-to-breed.json](./262579-license-to-breed.json) |
 | License To Clone | 319689 | [319689-license-to-clone.json](./319689-license-to-clone.json) |
 | License to Grill | 366800 | [366800-license-to-grill.json](./366800-license-to-grill.json) |
@@ -4678,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillian Night: Exclusive Contract of Succubus | 235592 | [235592-lillian-night-exclusive-contract-of-succubus.json](./235592-lillian-night-exclusive-contract-of-succubus.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
 | Lilliput Hero: Miniature World | 344241 | [344241-lilliput-hero-miniature-world.json](./344241-lilliput-hero-miniature-world.json) |
+| Lilliput Oukoku: Lillimoni to Issho-puni! | 49663 | [49663-lilliput-oukoku-lillimoni-to-issho-puni.json](./49663-lilliput-oukoku-lillimoni-to-issho-puni.json) |
 | Lilly Adventure | 2218 | [2218-lilly-adventure.json](./2218-lilly-adventure.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
 | Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
@@ -5337,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Buno | 98540 | [98540-little-buno.json](./98540-little-buno.json) |
 | Little Burned Maiden | 194347 | [194347-little-burned-maiden.json](./194347-little-burned-maiden.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
+| Little Buster Q | 49662 | [49662-little-buster-q.json](./49662-little-buster-q.json) |
 | Little Busters! Converted Edition | 127796 | [127796-little-busters-converted-edition.json](./127796-little-busters-converted-edition.json) |
 | Little Busters! Perfect Edition: TV Anime Commemorative Edition | 291075 | [291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json](./291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json) |
 | Little By Little By Little | 178992 | [178992-little-by-little-by-little.json](./178992-little-by-little-by-little.json) |
@@ -5612,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little Party | 59910 | [59910-little-party.json](./59910-little-party.json) |
 | Little Party Legends | 156976 | [156976-little-party-legends.json](./156976-little-party-legends.json) |
+| Little Patissier: Cake no Oshiro | 49661 | [49661-little-patissier-cake-no-oshiro.json](./49661-little-patissier-cake-no-oshiro.json) |
 | Little Paws: Kitty Cat - Gold Edition | 404279 | [404279-little-paws-kitty-cat-gold-edition.json](./404279-little-paws-kitty-cat-gold-edition.json) |
 | Little Paws: Kitty Cat Simulator | 333521 | [333521-little-paws-kitty-cat-simulator.json](./333521-little-paws-kitty-cat-simulator.json) |
 | Little Penguin Chillventure | 266613 | [266613-little-penguin-chillventure.json](./266613-little-penguin-chillventure.json) |
