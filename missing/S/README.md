@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabrina the Animated Series: Magical Adventure | 186071 | [186071-sabrina-the-animated-series-magical-adventure.json](./186071-sabrina-the-animated-series-magical-adventure.json) |
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
+| Sabrina the Teenage Witch: A Twitch in Time! | 44971 | [44971-sabrina-the-teenage-witch-a-twitch-in-time.json](./44971-sabrina-the-teenage-witch-a-twitch-in-time.json) |
 | Sabrina, the Teenage Witch: Brat Attack | 80778 | [80778-sabrina-the-teenage-witch-brat-attack.json](./80778-sabrina-the-teenage-witch-brat-attack.json) |
 | Sabrina, the Teenage Witch: Spellbound | 80777 | [80777-sabrina-the-teenage-witch-spellbound.json](./80777-sabrina-the-teenage-witch-spellbound.json) |
 | Sabritas Pac-Man | 219449 | [219449-sabritas-pac-man.json](./219449-sabritas-pac-man.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyan Warriors : Heroes | 105827 | [105827-saiyan-warriors-heroes.json](./105827-saiyan-warriors-heroes.json) |
 | Saiyuki Reload | 68239 | [68239-saiyuki-reload.json](./68239-saiyuki-reload.json) |
 | Saiyuki Reload: Gunlock | 68247 | [68247-saiyuki-reload-gunlock.json](./68247-saiyuki-reload-gunlock.json) |
+| Saiyuki: Journey West | 44954 | [44954-saiyuki-journey-west.json](./44954-saiyuki-journey-west.json) |
 | Saiyuuki World | 48403 | [48403-saiyuuki-world.json](./48403-saiyuuki-world.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
@@ -999,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saltwater | 384517 | [384517-saltwater.json](./384517-saltwater.json) |
 | Saltwater Bodies | 325645 | [325645-saltwater-bodies.json](./325645-saltwater-bodies.json) |
 | Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
+| Saltwater Sportfishing | 44970 | [44970-saltwater-sportfishing.json](./44970-saltwater-sportfishing.json) |
 | Salty Dogs | 401476 | [401476-salty-dogs.json](./401476-salty-dogs.json) |
 | Salty Fish Go! | 55699 | [55699-salty-fish-go.json](./55699-salty-fish-go.json) |
 | Salty Seabird Bay | 102959 | [102959-salty-seabird-bay.json](./102959-salty-seabird-bay.json) |
@@ -6129,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Leap | 318280 | [318280-shadow-leap.json](./318280-shadow-leap.json) |
 | Shadow Legend VR | 112926 | [112926-shadow-legend-vr.json](./112926-shadow-legend-vr.json) |
 | Shadow Lost | 155889 | [155889-shadow-lost.json](./155889-shadow-lost.json) |
+| Shadow Madness | 44969 | [44969-shadow-madness.json](./44969-shadow-madness.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
 | Shadow Man: 2econd Coming | 3599 | [3599-shadow-man-2econd-coming.json](./3599-shadow-man-2econd-coming.json) |
 | Shadow Mansion | 306385 | [306385-shadow-mansion.json](./306385-shadow-mansion.json) |
@@ -11887,6 +11891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
 | Slam City with Scottie Pippen: Respect Edition | 375597 | [375597-slam-city-with-scottie-pippen-respect-edition.json](./375597-slam-city-with-scottie-pippen-respect-edition.json) |
 | Slam Dome | 211549 | [211549-slam-dome.json](./211549-slam-dome.json) |
+| Slam Dragon | 44982 | [44982-slam-dragon.json](./44982-slam-dragon.json) |
 | Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
 | Slam Dunk 2: IH Yosen Kanzenban!! | 65428 | [65428-slam-dunk-2-ih-yosen-kanzenban.json](./65428-slam-dunk-2-ih-yosen-kanzenban.json) |
@@ -24041,6 +24046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
 | Steel Rats | 74881 | [74881-steel-rats.json](./74881-steel-rats.json) |
 | Steel Rats: Deluxe Edition | 119083 | [119083-steel-rats-deluxe-edition.json](./119083-steel-rats-deluxe-edition.json) |
+| Steel Reign | 44966 | [44966-steel-reign.json](./44966-steel-reign.json) |
 | Steel Republic: Rail Defender | 247895 | [247895-steel-republic-rail-defender.json](./247895-steel-republic-rail-defender.json) |
 | Steel Revenant | 235634 | [235634-steel-revenant.json](./235634-steel-revenant.json) |
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
@@ -26115,6 +26121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike of Nations: Empire of Steel | 120238 | [120238-strike-of-nations-empire-of-steel.json](./120238-strike-of-nations-empire-of-steel.json) |
 | Strike Pack | 409514 | [409514-strike-pack.json](./409514-strike-pack.json) |
+| Strike Point | 44964 | [44964-strike-point.json](./44964-strike-point.json) |
 | Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
 | Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
 | Strike Solitaire | 54406 | [54406-strike-solitaire.json](./54406-strike-solitaire.json) |
@@ -30748,6 +30755,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercow | 68432 | [68432-supercow.json](./68432-supercow.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
 | Supercrab Extravaganza | 226612 | [226612-supercrab-extravaganza.json](./226612-supercrab-extravaganza.json) |
+| Supercross | 44949 | [44949-supercross.json](./44949-supercross.json) |
+| Supercross Circuit | 44963 | [44963-supercross-circuit.json](./44963-supercross-circuit.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
 | SuperDanny Powered Up | 209272 | [209272-superdanny-powered-up.json](./209272-superdanny-powered-up.json) |
@@ -31198,6 +31207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Ninjas | 38836 | [38836-surf-ninjas.json](./38836-surf-ninjas.json) |
 | Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
 | Surf Planet | 337567 | [337567-surf-planet.json](./337567-surf-planet.json) |
+| Surf Riders | 44962 | [44962-surf-riders.json](./44962-surf-riders.json) |
 | Surf Rocket Racers | 45842 | [45842-surf-rocket-racers.json](./45842-surf-rocket-racers.json) |
 | Surf Safari | 201980 | [201980-surf-safari.json](./201980-surf-safari.json) |
 | Surf's Up | 248517 | [248517-surfs-up.json](./248517-surfs-up.json) |
