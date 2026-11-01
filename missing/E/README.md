@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
 | Elspell | 203673 | [203673-elspell.json](./203673-elspell.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
+| Elsword | 19133 | [19133-elsword.json](./19133-elsword.json) |
 | Elsword M Shadow of Luna | 109972 | [109972-elsword-m-shadow-of-luna.json](./109972-elsword-m-shadow-of-luna.json) |
 | Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
 | Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
@@ -4020,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entry | 207567 | [207567-entry.json](./207567-entry.json) |
 | Entry Denied | 347499 | [347499-entry-denied.json](./347499-entry-denied.json) |
 | Entschuldigung | 30087 | [30087-entschuldigung.json](./30087-entschuldigung.json) |
+| Entwined | 7380 | [7380-entwined.json](./7380-entwined.json) |
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
 | Entwined Time | 312855 | [312855-entwined-time.json](./312855-entwined-time.json) |
 | Entwined: Strings of Deception | 41915 | [41915-entwined-strings-of-deception.json](./41915-entwined-strings-of-deception.json) |
@@ -5686,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Skirmish | 54112 | [54112-eternal-skirmish.json](./54112-eternal-skirmish.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
 | Eternal Slumber Party II | 261960 | [261960-eternal-slumber-party-ii.json](./261960-eternal-slumber-party-ii.json) |
+| Eternal Sonata | 6990 | [6990-eternal-sonata.json](./6990-eternal-sonata.json) |
 | Eternal Sonata: Reprise | 412771 | [412771-eternal-sonata-reprise.json](./412771-eternal-sonata-reprise.json) |
 | Eternal Space | 285532 | [285532-eternal-space.json](./285532-eternal-space.json) |
 | Eternal Spectre | 195584 | [195584-eternal-spectre.json](./195584-eternal-spectre.json) |
