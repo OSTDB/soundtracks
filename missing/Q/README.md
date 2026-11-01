@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadline | 194181 | [194181-quadline.json](./194181-quadline.json) |
 | Quadoban | 200027 | [200027-quadoban.json](./200027-quadoban.json) |
 | Quadpawn | 41154 | [41154-quadpawn.json](./41154-quadpawn.json) |
+| Quadpop | 57428 | [57428-quadpop.json](./57428-quadpop.json) |
 | Quadra | 407504 | [407504-quadra.json](./407504-quadra.json) |
 | Quadra | 81023 | [81023-quadra.json](./81023-quadra.json) |
 | Quadra Break Tetris | 348732 | [348732-quadra-break-tetris.json](./348732-quadra-break-tetris.json) |
