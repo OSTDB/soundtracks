@@ -7457,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
 | Rising Star | 187043 | [187043-rising-star.json](./187043-rising-star.json) |
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
+| Rising Storm | 2609 | [2609-rising-storm.json](./2609-rising-storm.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
 | Rising Storm/Red Orchestra 2 Multiplayer | 93834 | [93834-rising-storm-red-orchestra-2-multiplayer.json](./93834-rising-storm-red-orchestra-2-multiplayer.json) |
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
@@ -8066,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert E. Lee: Civil War General | 51377 | [51377-robert-e-lee-civil-war-general.json](./51377-robert-e-lee-civil-war-general.json) |
+| Robert Ludlum's The Bourne Conspiracy | 1256 | [1256-robert-ludlums-the-bourne-conspiracy.json](./1256-robert-ludlums-the-bourne-conspiracy.json) |
 | Robert Mensah's Sins of the Father | 33287 | [33287-robert-mensahs-sins-of-the-father.json](./33287-robert-mensahs-sins-of-the-father.json) |
 | Robert on Earth | 303044 | [303044-robert-on-earth.json](./303044-robert-on-earth.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
