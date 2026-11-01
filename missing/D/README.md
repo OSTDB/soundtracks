@@ -4343,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tractor | 35115 | [35115-death-tractor.json](./35115-death-tractor.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
+| Death Trap | 23205 | [23205-death-trap.json](./23205-death-trap.json) |
 | Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
 | Death Trial | 357670 | [357670-death-trial.json](./357670-death-trial.json) |
 | Death Trials | 171224 | [171224-death-trials.json](./171224-death-trials.json) |
