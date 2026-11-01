@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory of Monsters | 104152 | [104152-factory-of-monsters.json](./104152-factory-of-monsters.json) |
 | Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
 | Factory Outlet Simulator | 301945 | [301945-factory-outlet-simulator.json](./301945-factory-outlet-simulator.json) |
+| Factory Panic | 46348 | [46348-factory-panic.json](./46348-factory-panic.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | Factory Planner | 349645 | [349645-factory-planner.json](./349645-factory-planner.json) |
 | Factory Rally Madness | 131763 | [131763-factory-rally-madness.json](./131763-factory-rally-madness.json) |
@@ -5487,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling | 6407 | [6407-fire-pro-wrestling.json](./6407-fire-pro-wrestling.json) |
 | Fire Pro Wrestling 2 | 6408 | [6408-fire-pro-wrestling-2.json](./6408-fire-pro-wrestling-2.json) |
+| Fire Pro Wrestling D | 46364 | [46364-fire-pro-wrestling-d.json](./46364-fire-pro-wrestling-d.json) |
 | Fire Pro Wrestling G | 45074 | [45074-fire-pro-wrestling-g.json](./45074-fire-pro-wrestling-g.json) |
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
 | Fire Pro Wrestling Returns | 28767 | [28767-fire-pro-wrestling-returns.json](./28767-fire-pro-wrestling-returns.json) |
@@ -10499,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred | 25841 | [25841-fred.json](./25841-fred.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
 | Fred and Jeff: The Atomic Sulfate | 387396 | [387396-fred-and-jeff-the-atomic-sulfate.json](./387396-fred-and-jeff-the-atomic-sulfate.json) |
+| Fred Couples Golf | 46349 | [46349-fred-couples-golf.json](./46349-fred-couples-golf.json) |
 | Fred Durst Companion | 287487 | [287487-fred-durst-companion.json](./287487-fred-durst-companion.json) |
 | Fred Figglehorn | 261966 | [261966-fred-figglehorn.json](./261966-fred-figglehorn.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
