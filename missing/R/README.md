@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
 | Red Metal | 280745 | [280745-red-metal.json](./280745-red-metal.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
+| Red Moon | 28457 | [28457-red-moon.json](./28457-red-moon.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
 | Red Moon Kingdom | 366606 | [366606-red-moon-kingdom.json](./366606-red-moon-kingdom.json) |
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
@@ -3898,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
+| Redhawk | 28440 | [28440-redhawk.json](./28440-redhawk.json) |
 | Redhill Manor | 185303 | [185303-redhill-manor.json](./185303-redhill-manor.json) |
 | Redhook's Revenge | 68885 | [68885-redhooks-revenge.json](./68885-redhooks-revenge.json) |
 | Redhowl | 382862 | [382862-redhowl.json](./382862-redhowl.json) |
