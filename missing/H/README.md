@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer World: Dimension Traveler | 110082 | [110082-hammer-world-dimension-traveler.json](./110082-hammer-world-dimension-traveler.json) |
 | Hammer_Space | 142062 | [142062-hammer-space.json](./142062-hammer-space.json) |
 | Hammerfight | 9666 | [9666-hammerfight.json](./9666-hammerfight.json) |
+| Hammerfist | 12608 | [12608-hammerfist.json](./12608-hammerfist.json) |
 | Hammerground | 190966 | [190966-hammerground.json](./190966-hammerground.json) |
 | Hammerhead | 343954 | [343954-hammerhead.json](./343954-hammerhead.json) |
 | Hammerhead | 406308 | [406308-hammerhead.json](./406308-hammerhead.json) |
@@ -5797,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
 | HeroQuest | 12142 | [12142-heroquest.json](./12142-heroquest.json) |
+| HeroQuest II: Legacy of Sorasil | 12609 | [12609-heroquest-ii-legacy-of-sorasil.json](./12609-heroquest-ii-legacy-of-sorasil.json) |
 | HeroQuest: Digital Edition | 424032 | [424032-heroquest-digital-edition.json](./424032-heroquest-digital-edition.json) |
 | HeroQuest: Return of the Witch Lord | 47226 | [47226-heroquest-return-of-the-witch-lord.json](./47226-heroquest-return-of-the-witch-lord.json) |
 | Herores Rescue | 39162 | [39162-herores-rescue.json](./39162-herores-rescue.json) |
@@ -7011,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Stakes Gambling | 273750 | [273750-high-stakes-gambling.json](./273750-high-stakes-gambling.json) |
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
 | High Stakes: Texas Hold'Em | 67219 | [67219-high-stakes-texas-holdem.json](./67219-high-stakes-texas-holdem.json) |
+| High Steel | 12610 | [12610-high-steel.json](./12610-high-steel.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
 | High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
