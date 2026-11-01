@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
 | Obliterate Everything 2 | 416769 | [416769-obliterate-everything-2.json](./416769-obliterate-everything-2.json) |
 | Obliterator | 25563 | [25563-obliterator.json](./25563-obliterator.json) |
+| Obliteroids | 51682 | [51682-obliteroids.json](./51682-obliteroids.json) |
 | Oblitus | 17523 | [17523-oblitus.json](./17523-oblitus.json) |
 | Oblitus Casa | 231425 | [231425-oblitus-casa.json](./231425-oblitus-casa.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OCRPG | 291909 | [291909-ocrpg.json](./291909-ocrpg.json) |
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
 | Octagon | 356063 | [356063-octagon.json](./356063-octagon.json) |
+| Octagon | 51640 | [51640-octagon.json](./51640-octagon.json) |
 | Octagon - A Minimal Arcade Game with Maximum Challenge | 91180 | [91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json](./91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json) |
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
@@ -1436,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
 | Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
+| Oliver and Spike | 51660 | [51660-oliver-and-spike.json](./51660-oliver-and-spike.json) |
 | Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
 | Olivers äventyr: Drakens förbannelse | 320948 | [320948-olivers-aventyr-drakens-forbannelse.json](./320948-olivers-aventyr-drakens-forbannelse.json) |
 | Olivia | 230395 | [230395-olivia.json](./230395-olivia.json) |
@@ -3716,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
 | Order of the Gatekeepers | 120005 | [120005-order-of-the-gatekeepers.json](./120005-order-of-the-gatekeepers.json) |
 | Order of the Ivy | 397196 | [397196-order-of-the-ivy.json](./397196-order-of-the-ivy.json) |
+| Order of the Metal Glove | 51662 | [51662-order-of-the-metal-glove.json](./51662-order-of-the-metal-glove.json) |
 | Order of the Odonata | 143366 | [143366-order-of-the-odonata.json](./143366-order-of-the-odonata.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
 | Order of the Thorne: The King's Challenge | 51860 | [51860-order-of-the-thorne-the-kings-challenge.json](./51860-order-of-the-thorne-the-kings-challenge.json) |
