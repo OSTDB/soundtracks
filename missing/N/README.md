@@ -3540,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 11 | 954 | [954-nhl-11.json](./954-nhl-11.json) |
 | NHL 12 | 952 | [952-nhl-12.json](./952-nhl-12.json) |
 | NHL 14 | 3003 | [3003-nhl-14.json](./3003-nhl-14.json) |
+| NHL 15 | 7324 | [7324-nhl-15.json](./7324-nhl-15.json) |
 | NHL 16 | 11075 | [11075-nhl-16.json](./11075-nhl-16.json) |
 | NHL 17 | 19464 | [19464-nhl-17.json](./19464-nhl-17.json) |
 | NHL 17: Deluxe Edition | 173114 | [173114-nhl-17-deluxe-edition.json](./173114-nhl-17-deluxe-edition.json) |
