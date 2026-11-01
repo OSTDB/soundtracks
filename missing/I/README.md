@@ -2992,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indenture | 212208 | [212208-indenture.json](./212208-indenture.json) |
 | Indentured Servant | 101263 | [101263-indentured-servant.json](./101263-indentured-servant.json) |
 | Independant Video Video Game | 194307 | [194307-independant-video-video-game.json](./194307-independant-video-video-game.json) |
+| Independence Day | 19789 | [19789-independence-day.json](./19789-independence-day.json) |
 | Independence Day | 198765 | [198765-independence-day.json](./198765-independence-day.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
