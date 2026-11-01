@@ -9200,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Slate | 149454 | [149454-clean-slate.json](./149454-clean-slate.json) |
 | Clean Stack | 333185 | [333185-clean-stack.json](./333185-clean-stack.json) |
 | Clean Sweep | 18159 | [18159-clean-sweep.json](./18159-clean-sweep.json) |
+| Clean Sweep | 18784 | [18784-clean-sweep.json](./18784-clean-sweep.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
 | Clean The Sea! | 284820 | [284820-clean-the-sea.json](./284820-clean-the-sea.json) |
 | Clean Up After Your Dog | 280427 | [280427-clean-up-after-your-dog.json](./280427-clean-up-after-your-dog.json) |
@@ -12459,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer II | 193841 | [193841-conquer-ii.json](./193841-conquer-ii.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer Online | 84455 | [84455-conquer-online.json](./84455-conquer-online.json) |
+| Conquer Online 2.0 | 18820 | [18820-conquer-online-2-0.json](./18820-conquer-online-2-0.json) |
 | Conquer or Die | 187289 | [187289-conquer-or-die.json](./187289-conquer-or-die.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
@@ -12941,6 +12943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control: Ultimate Edition - Cloud Version | 140503 | [140503-control-ultimate-edition-cloud-version.json](./140503-control-ultimate-edition-cloud-version.json) |
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
 | Controlled Death | 302065 | [302065-controlled-death.json](./302065-controlled-death.json) |
+| Controller | 18765 | [18765-controller.json](./18765-controller.json) |
 | Controller | 239817 | [239817-controller.json](./239817-controller.json) |
 | Controller King | 262849 | [262849-controller-king.json](./262849-controller-king.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
@@ -13732,6 +13735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
 | Cosmic Cavern 3671 | 90460 | [90460-cosmic-cavern-3671.json](./90460-cosmic-cavern-3671.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
+| Cosmic Chasm | 18846 | [18846-cosmic-chasm.json](./18846-cosmic-chasm.json) |
 | Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
 | Cosmic Clean-Up | 64314 | [64314-cosmic-clean-up.json](./64314-cosmic-clean-up.json) |
 | Cosmic Cleaner | 261726 | [261726-cosmic-cleaner.json](./261726-cosmic-cleaner.json) |
@@ -16392,6 +16396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossfire | 13535 | [13535-crossfire.json](./13535-crossfire.json) |
 | Crossfire | 154175 | [154175-crossfire.json](./154175-crossfire.json) |
 | Crossfire | 183918 | [183918-crossfire.json](./183918-crossfire.json) |
+| Crossfire | 18760 | [18760-crossfire.json](./18760-crossfire.json) |
 | Crossfire | 404692 | [404692-crossfire.json](./404692-crossfire.json) |
 | Crossfire | 9739 | [9739-crossfire.json](./9739-crossfire.json) |
 | CrossFire | 138120 | [138120-crossfire.json](./138120-crossfire.json) |
