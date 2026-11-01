@@ -4017,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terezi Pyrope: Ace Attorney | 304032 | [304032-terezi-pyrope-ace-attorney.json](./304032-terezi-pyrope-ace-attorney.json) |
 | Terfenstein 3D | 224571 | [224571-terfenstein-3d.json](./224571-terfenstein-3d.json) |
 | Teri Mix | 77951 | [77951-teri-mix.json](./77951-teri-mix.json) |
+| Teria | 30450 | [30450-teria.json](./30450-teria.json) |
 | Terix Survivors | 236268 | [236268-terix-survivors.json](./236268-terix-survivors.json) |
 | Termalloc | 212601 | [212601-termalloc.json](./212601-termalloc.json) |
 | Termina | 217333 | [217333-termina.json](./217333-termina.json) |
@@ -5275,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
 | The Age of Navigation: Deluxe Edition | 196134 | [196134-the-age-of-navigation-deluxe-edition.json](./196134-the-age-of-navigation-deluxe-edition.json) |
 | The Agency of Anomalies: Cinderstone Orphanage | 58044 | [58044-the-agency-of-anomalies-cinderstone-orphanage.json](./58044-the-agency-of-anomalies-cinderstone-orphanage.json) |
+| The Agency of Anomalies: Cinderstone Orphanage - Collector's Edition | 30419 | [30419-the-agency-of-anomalies-cinderstone-orphanage-collectors-edition.json](./30419-the-agency-of-anomalies-cinderstone-orphanage-collectors-edition.json) |
 | The Agency of Anomalies: Mind Invasion | 58043 | [58043-the-agency-of-anomalies-mind-invasion.json](./58043-the-agency-of-anomalies-mind-invasion.json) |
 | The Agency of Anomalies: Mystic Hospital | 58045 | [58045-the-agency-of-anomalies-mystic-hospital.json](./58045-the-agency-of-anomalies-mystic-hospital.json) |
 | The Agency of Anomalies: The Last Performance | 58046 | [58046-the-agency-of-anomalies-the-last-performance.json](./58046-the-agency-of-anomalies-the-last-performance.json) |
@@ -7801,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dolls | 32636 | [32636-the-dolls.json](./32636-the-dolls.json) |
 | The Dolls: Reborn | 74814 | [74814-the-dolls-reborn.json](./74814-the-dolls-reborn.json) |
 | The Dolphin's Pearl | 73630 | [73630-the-dolphins-pearl.json](./73630-the-dolphins-pearl.json) |
+| The Dome | 30465 | [30465-the-dome.json](./30465-the-dome.json) |
 | The Domovoi | 83318 | [83318-the-domovoi.json](./83318-the-domovoi.json) |
 | The Don't Do List | 398264 | [398264-the-dont-do-list.json](./398264-the-dont-do-list.json) |
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
@@ -13177,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Niflhel Day | 168584 | [168584-the-niflhel-day.json](./168584-the-niflhel-day.json) |
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Cafe | 32491 | [32491-the-night-cafe.json](./32491-the-night-cafe.json) |
+| The Night Christmas Ended | 30414 | [30414-the-night-christmas-ended.json](./30414-the-night-christmas-ended.json) |
 | The Night Crawler | 375210 | [375210-the-night-crawler.json](./375210-the-night-crawler.json) |
 | The Night Driver | 240031 | [240031-the-night-driver.json](./240031-the-night-driver.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
@@ -19091,6 +19095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunder Run: Firestrike | 83321 | [83321-thunder-run-firestrike.json](./83321-thunder-run-firestrike.json) |
 | Thunder Shooting | 195061 | [195061-thunder-shooting.json](./195061-thunder-shooting.json) |
+| Thunder Spheres | 30436 | [30436-thunder-spheres.json](./30436-thunder-spheres.json) |
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
 | Thunder Storm LX-3 | 137249 | [137249-thunder-storm-lx-3.json](./137249-thunder-storm-lx-3.json) |
 | Thunder Storm LX-3 & Road Blaster | 55870 | [55870-thunder-storm-lx-3-and-road-blaster.json](./55870-thunder-storm-lx-3-and-road-blaster.json) |
@@ -22834,6 +22839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo's Neon Monsters | 349215 | [349215-tokyos-neon-monsters.json](./349215-tokyos-neon-monsters.json) |
 | Told God-The Legacy of Cthulhu | 100813 | [100813-told-god-the-legacy-of-cthulhu.json](./100813-told-god-the-legacy-of-cthulhu.json) |
 | Told God: The Legacy of Cthulhu | 306363 | [306363-told-god-the-legacy-of-cthulhu.json](./306363-told-god-the-legacy-of-cthulhu.json) |
+| ToledoVR | 30477 | [30477-toledovr.json](./30477-toledovr.json) |
 | Tolem | 409506 | [409506-tolem.json](./409506-tolem.json) |
 | Toleo | 239825 | [239825-toleo.json](./239825-toleo.json) |
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
@@ -24845,6 +24851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Arena | 118019 | [118019-tower-arena.json](./118019-tower-arena.json) |
 | Tower Arena Survive | 348022 | [348022-tower-arena-survive.json](./348022-tower-arena-survive.json) |
+| Tower Ascent | 30393 | [30393-tower-ascent.json](./30393-tower-ascent.json) |
 | Tower Attack | 174056 | [174056-tower-attack.json](./174056-tower-attack.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
 | Tower Behind the Moon | 113808 | [113808-tower-behind-the-moon.json](./113808-tower-behind-the-moon.json) |
