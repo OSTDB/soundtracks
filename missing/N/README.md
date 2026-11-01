@@ -1370,6 +1370,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 2005 / Top Spin | 281904 | [281904-ncaa-football-2005-top-spin.json](./281904-ncaa-football-2005-top-spin.json) |
 | NCAA Gamebreaker | 20297 | [20297-ncaa-gamebreaker.json](./20297-ncaa-gamebreaker.json) |
 | NCAA GameBreaker 2000 | 43691 | [43691-ncaa-gamebreaker-2000.json](./43691-ncaa-gamebreaker-2000.json) |
+| NCAA Gamebreaker 2001 | 43640 | [43640-ncaa-gamebreaker-2001.json](./43640-ncaa-gamebreaker-2001.json) |
+| NCAA Gamebreaker 2003 | 43639 | [43639-ncaa-gamebreaker-2003.json](./43639-ncaa-gamebreaker-2003.json) |
+| NCAA Gamebreaker 2004 | 43638 | [43638-ncaa-gamebreaker-2004.json](./43638-ncaa-gamebreaker-2004.json) |
 | NCAA Gamebreaker 98 | 43825 | [43825-ncaa-gamebreaker-98.json](./43825-ncaa-gamebreaker-98.json) |
 | NCAA GameBreaker 99 | 43711 | [43711-ncaa-gamebreaker-99.json](./43711-ncaa-gamebreaker-99.json) |
 | NCAA March Madness '98 | 43710 | [43710-ncaa-march-madness-98.json](./43710-ncaa-march-madness-98.json) |
