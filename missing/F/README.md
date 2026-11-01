@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
 | Far: Changing Tides | 152259 | [152259-far-changing-tides.json](./152259-far-changing-tides.json) |
 | FAR: Changing Tides - Deluxe Edition | 187823 | [187823-far-changing-tides-deluxe-edition.json](./187823-far-changing-tides-deluxe-edition.json) |
+| Far: Lone Sails | 19520 | [19520-far-lone-sails.json](./19520-far-lone-sails.json) |
 | FAR: Universe Bundle | 253791 | [253791-far-universe-bundle.json](./253791-far-universe-bundle.json) |
 | Fara | 123272 | [123272-fara.json](./123272-fara.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
@@ -4677,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Rebirth: Digital Deluxe Edition | 266733 | [266733-final-fantasy-vii-rebirth-digital-deluxe-edition.json](./266733-final-fantasy-vii-rebirth-digital-deluxe-edition.json) |
 | Final Fantasy VII Remake & Rebirth: Digital Deluxe Twin Pack | 266738 | [266738-final-fantasy-vii-remake-and-rebirth-digital-deluxe-twin-pack.json](./266738-final-fantasy-vii-remake-and-rebirth-digital-deluxe-twin-pack.json) |
 | Final Fantasy VII Remake & Rebirth: Twin Pack | 266737 | [266737-final-fantasy-vii-remake-and-rebirth-twin-pack.json](./266737-final-fantasy-vii-remake-and-rebirth-twin-pack.json) |
+| Final Fantasy VII Remake Intergrade | 144024 | [144024-final-fantasy-vii-remake-intergrade.json](./144024-final-fantasy-vii-remake-intergrade.json) |
 | Final Fantasy VII Remake Series Trilogy Edition | 416148 | [416148-final-fantasy-vii-remake-series-trilogy-edition.json](./416148-final-fantasy-vii-remake-series-trilogy-edition.json) |
 | Final Fantasy VII Remake: 1st Class Edition | 136353 | [136353-final-fantasy-vii-remake-1st-class-edition.json](./136353-final-fantasy-vii-remake-1st-class-edition.json) |
 | Final Fantasy VII Remake: Deluxe Edition | 134226 | [134226-final-fantasy-vii-remake-deluxe-edition.json](./134226-final-fantasy-vii-remake-deluxe-edition.json) |
@@ -5466,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Morrow’s Golden Country | 318447 | [318447-fire-emblem-the-morrow-s-golden-country.json](./318447-fire-emblem-the-morrow-s-golden-country.json) |
 | Fire Emblem: The Road to Ruin | 144674 | [144674-fire-emblem-the-road-to-ruin.json](./144674-fire-emblem-the-road-to-ruin.json) |
 | Fire Emblem: The Sacred Echoes | 225384 | [225384-fire-emblem-the-sacred-echoes.json](./225384-fire-emblem-the-sacred-echoes.json) |
+| Fire Emblem: The Sacred Stones | 1440 | [1440-fire-emblem-the-sacred-stones.json](./1440-fire-emblem-the-sacred-stones.json) |
 | Fire Emblem: The Shadow of Dawn | 384011 | [384011-fire-emblem-the-shadow-of-dawn.json](./384011-fire-emblem-the-shadow-of-dawn.json) |
 | Fire Emblem: The Sun God's Wrath | 140873 | [140873-fire-emblem-the-sun-gods-wrath.json](./140873-fire-emblem-the-sun-gods-wrath.json) |
 | Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
