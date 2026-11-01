@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave GS | 11385 | [11385-dangerous-dave-gs.json](./11385-dangerous-dave-gs.json) |
 | Dangerous Dave in Copyright Infringement | 176080 | [176080-dangerous-dave-in-copyright-infringement.json](./176080-dangerous-dave-in-copyright-infringement.json) |
 | Dangerous Dave in the Deserted Pirate's Hideout | 11384 | [11384-dangerous-dave-in-the-deserted-pirates-hideout.json](./11384-dangerous-dave-in-the-deserted-pirates-hideout.json) |
+| Dangerous Dave in the Haunted Mansion | 11386 | [11386-dangerous-dave-in-the-haunted-mansion.json](./11386-dangerous-dave-in-the-haunted-mansion.json) |
 | Dangerous Dave Returns | 11387 | [11387-dangerous-dave-returns.json](./11387-dangerous-dave-returns.json) |
 | Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
 | Dangerous Degrees | 163755 | [163755-dangerous-degrees.json](./163755-dangerous-degrees.json) |
@@ -16428,6 +16429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke 3:16 | 308330 | [308330-duke-3-16.json](./308330-duke-3-16.json) |
 | Duke 6:8 | 308331 | [308331-duke-6-8.json](./308331-duke-6-8.json) |
 | Duke Burger | 253771 | [253771-duke-burger.json](./253771-duke-burger.json) |
+| Duke Caribbean: Life's a Beach | 18496 | [18496-duke-caribbean-lifes-a-beach.json](./18496-duke-caribbean-lifes-a-beach.json) |
 | Duke Craft | 308455 | [308455-duke-craft.json](./308455-duke-craft.json) |
 | Duke Dashington | 96566 | [96566-duke-dashington.json](./96566-duke-dashington.json) |
 | Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
@@ -17918,6 +17920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 8: Empires - Castle Pack | 263310 | [263310-dynasty-warriors-8-empires-castle-pack.json](./263310-dynasty-warriors-8-empires-castle-pack.json) |
 | Dynasty Warriors 8: Empires - Free Alliances Version | 221032 | [221032-dynasty-warriors-8-empires-free-alliances-version.json](./221032-dynasty-warriors-8-empires-free-alliances-version.json) |
 | Dynasty Warriors 8: Wang Yuanji 'Rorona' Costume | 306771 | [306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json](./306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json) |
+| Dynasty Warriors 8: Xtreme Legends | 10267 | [10267-dynasty-warriors-8-xtreme-legends.json](./10267-dynasty-warriors-8-xtreme-legends.json) |
 | Dynasty Warriors 8: Xtreme Legends Complete Edition | 21712 | [21712-dynasty-warriors-8-xtreme-legends-complete-edition.json](./21712-dynasty-warriors-8-xtreme-legends-complete-edition.json) |
 | Dynasty Warriors 8: Xtreme Legends Complete Edition - Powerful Weapon Pack | 155332 | [155332-dynasty-warriors-8-xtreme-legends-complete-edition-powerful-weapon-pack.json](./155332-dynasty-warriors-8-xtreme-legends-complete-edition-powerful-weapon-pack.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
