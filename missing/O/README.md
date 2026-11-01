@@ -3580,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
 | Orbitous | 362383 | [362383-orbitous.json](./362383-orbitous.json) |
 | Orbitron | 120146 | [120146-orbitron.json](./120146-orbitron.json) |
+| Orbitron | 59601 | [59601-orbitron.json](./59601-orbitron.json) |
 | Orbitron: Revolution | 54264 | [54264-orbitron-revolution.json](./54264-orbitron-revolution.json) |
 | Orbits | 91137 | [91137-orbits.json](./91137-orbits.json) |
 | Orbits: The Sandbox | 138469 | [138469-orbits-the-sandbox.json](./138469-orbits-the-sandbox.json) |
