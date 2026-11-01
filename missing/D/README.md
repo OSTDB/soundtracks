@@ -9367,6 +9367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Rise of the Elves | 11404 | [11404-disciples-ii-rise-of-the-elves.json](./11404-disciples-ii-rise-of-the-elves.json) |
 | Disciples II: Rise of the Elves Gold | 224495 | [224495-disciples-ii-rise-of-the-elves-gold.json](./224495-disciples-ii-rise-of-the-elves-gold.json) |
 | Disciples II: Servants of the Dark | 11402 | [11402-disciples-ii-servants-of-the-dark.json](./11402-disciples-ii-servants-of-the-dark.json) |
+| Disciples III: Reincarnation | 9823 | [9823-disciples-iii-reincarnation.json](./9823-disciples-iii-reincarnation.json) |
 | Disciples III: Renaissance | 9824 | [9824-disciples-iii-renaissance.json](./9824-disciples-iii-renaissance.json) |
 | Disciples of Canada | 419604 | [419604-disciples-of-canada.json](./419604-disciples-of-canada.json) |
 | Disciples of Dawn | 119334 | [119334-disciples-of-dawn.json](./119334-disciples-of-dawn.json) |
@@ -10688,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge | 211375 | [211375-dodge.json](./211375-dodge.json) |
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
 | Dodge | 83819 | [83819-dodge.json](./83819-dodge.json) |
+| Dodge 'Em | 17020 | [17020-dodge-em.json](./17020-dodge-em.json) |
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
 | Dodge & Roll | 267327 | [267327-dodge-and-roll.json](./267327-dodge-and-roll.json) |
 | Dodge & Weave | 196097 | [196097-dodge-and-weave.json](./196097-dodge-and-weave.json) |
@@ -17526,6 +17528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
 | DuskBreakers | 194239 | [194239-duskbreakers.json](./194239-duskbreakers.json) |
 | Duskdog | 410185 | [410185-duskdog.json](./410185-duskdog.json) |
+| Duskers | 16707 | [16707-duskers.json](./16707-duskers.json) |
 | Duskers 2.0 | 405061 | [405061-duskers-2-0.json](./405061-duskers-2-0.json) |
 | Duskfade | 310665 | [310665-duskfade.json](./310665-duskfade.json) |
 | Duskfall | 316260 | [316260-duskfall.json](./316260-duskfall.json) |
@@ -17937,6 +17940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors DS: Fighter's Battle | 21534 | [21534-dynasty-warriors-ds-fighters-battle.json](./21534-dynasty-warriors-ds-fighters-battle.json) |
 | Dynasty Warriors M | 285381 | [285381-dynasty-warriors-m.json](./285381-dynasty-warriors-m.json) |
+| Dynasty Warriors Next | 19267 | [19267-dynasty-warriors-next.json](./19267-dynasty-warriors-next.json) |
 | Dynasty Warriors Online | 72612 | [72612-dynasty-warriors-online.json](./72612-dynasty-warriors-online.json) |
 | Dynasty Warriors Online Z | 257658 | [257658-dynasty-warriors-online-z.json](./257658-dynasty-warriors-online-z.json) |
 | Dynasty Warriors Vol. 2 | 42886 | [42886-dynasty-warriors-vol-2.json](./42886-dynasty-warriors-vol-2.json) |
