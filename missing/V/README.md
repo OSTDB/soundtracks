@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanic Field 2 | 85477 | [85477-volcanic-field-2.json](./85477-volcanic-field-2.json) |
 | Volcanic Planet | 297242 | [297242-volcanic-planet.json](./297242-volcanic-planet.json) |
 | Volcano | 13768 | [13768-volcano.json](./13768-volcano.json) |
+| Volcano Climber | 36650 | [36650-volcano-climber.json](./36650-volcano-climber.json) |
 | Volcano Eruption | 103635 | [103635-volcano-eruption.json](./103635-volcano-eruption.json) |
 | Volcano Hunter | 71940 | [71940-volcano-hunter.json](./71940-volcano-hunter.json) |
 | Volcano Jumper | 351767 | [351767-volcano-jumper.json](./351767-volcano-jumper.json) |
