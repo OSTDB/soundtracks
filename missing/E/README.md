@@ -2355,6 +2355,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
 | Elf: The Movie | 49301 | [49301-elf-the-movie.json](./49301-elf-the-movie.json) |
 | Elf's Scary Little Nightmares | 252958 | [252958-elfs-scary-little-nightmares.json](./252958-elfs-scary-little-nightmares.json) |
+| Elfaria | 42346 | [42346-elfaria.json](./42346-elfaria.json) |
+| Elfaria II | 42345 | [42345-elfaria-ii.json](./42345-elfaria-ii.json) |
 | Elfazar's Hat | 318713 | [318713-elfazars-hat.json](./318713-elfazars-hat.json) |
 | Elfblade | 152209 | [152209-elfblade.json](./152209-elfblade.json) |
 | Elfenberg | 291681 | [291681-elfenberg.json](./291681-elfenberg.json) |
