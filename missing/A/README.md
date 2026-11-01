@@ -4297,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Speed | 326750 | [326750-age-of-speed.json](./326750-age-of-speed.json) |
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
 | Age of Speed Underworld | 326752 | [326752-age-of-speed-underworld.json](./326752-age-of-speed-underworld.json) |
+| Age of Storm: Kingdom Under Fire Online | 62465 | [62465-age-of-storm-kingdom-under-fire-online.json](./62465-age-of-storm-kingdom-under-fire-online.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of the Duel | 248385 | [248385-age-of-the-duel.json](./248385-age-of-the-duel.json) |
 | Age of the Sirens | 236893 | [236893-age-of-the-sirens.json](./236893-age-of-the-sirens.json) |
@@ -5153,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Control Simulator | 9960 | [9960-airport-control-simulator.json](./9960-airport-control-simulator.json) |
 | Airport Fever | 233467 | [233467-airport-fever.json](./233467-airport-fever.json) |
 | Airport Fire Department: The Simulation | 32041 | [32041-airport-fire-department-the-simulation.json](./32041-airport-fire-department-the-simulation.json) |
+| Airport Firefighter Simulator | 62469 | [62469-airport-firefighter-simulator.json](./62469-airport-firefighter-simulator.json) |
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Ground Handling Simulator VR | 212673 | [212673-airport-ground-handling-simulator-vr.json](./212673-airport-ground-handling-simulator-vr.json) |
@@ -14733,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroPop | 3755 | [3755-astropop.json](./3755-astropop.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
 | Astropulse: Reincarnation | 327646 | [327646-astropulse-reincarnation.json](./327646-astropulse-reincarnation.json) |
+| AstroRock | 62394 | [62394-astrorock.json](./62394-astrorock.json) |
 | Astroroxx | 158896 | [158896-astroroxx.json](./158896-astroroxx.json) |
 | Astrorun | 330601 | [330601-astrorun.json](./330601-astrorun.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
