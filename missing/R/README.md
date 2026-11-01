@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
 | Rabbids Invasion: The Interactive TV Show | 20308 | [20308-rabbids-invasion-the-interactive-tv-show.json](./20308-rabbids-invasion-the-interactive-tv-show.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
+| Rabbids Travel in Time 3D | 47641 | [47641-rabbids-travel-in-time-3d.json](./47641-rabbids-travel-in-time-3d.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
 | RabbiruN | 93692 | [93692-rabbirun.json](./93692-rabbirun.json) |
@@ -4755,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku II: The Stairway to H.E.A.V.E.N. | 24185 | [24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json](./24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json) |
 | Rengoku: The Tower of Purgatory | 38473 | [38473-rengoku-the-tower-of-purgatory.json](./38473-rengoku-the-tower-of-purgatory.json) |
 | Renju | 93485 | [93485-renju.json](./93485-renju.json) |
+| Renketsu Puzzle Tsunagete Pon! | 47623 | [47623-renketsu-puzzle-tsunagete-pon.json](./47623-renketsu-puzzle-tsunagete-pon.json) |
 | Rennsport | 230191 | [230191-rennsport.json](./230191-rennsport.json) |
 | Rennsport: Deluxe Edition | 368528 | [368528-rennsport-deluxe-edition.json](./368528-rennsport-deluxe-edition.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
@@ -12016,6 +12018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
 | Ruthless:1 | 260608 | [260608-ruthless-1.json](./260608-ruthless-1.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
+| Rutile Ruby | 47693 | [47693-rutile-ruby.json](./47693-rutile-ruby.json) |
 | Rutrum | 406896 | [406896-rutrum.json](./406896-rutrum.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
 | Ruukoto the Robot | 392353 | [392353-ruukoto-the-robot.json](./392353-ruukoto-the-robot.json) |
