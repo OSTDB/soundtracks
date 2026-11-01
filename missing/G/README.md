@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Cleaners: Dracula's Castle | 385431 | [385431-galaxy-cleaners-draculas-castle.json](./385431-galaxy-cleaners-draculas-castle.json) |
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
 | Galaxy Commanders | 262811 | [262811-galaxy-commanders.json](./262811-galaxy-commanders.json) |
+| Galaxy Control | 33685 | [33685-galaxy-control.json](./33685-galaxy-control.json) |
 | Galaxy Control: Arena Station | 89823 | [89823-galaxy-control-arena-station.json](./89823-galaxy-control-arena-station.json) |
 | Galaxy Crash | 108782 | [108782-galaxy-crash.json](./108782-galaxy-crash.json) |
 | Galaxy Crisis | 150450 | [150450-galaxy-crisis.json](./150450-galaxy-crisis.json) |
@@ -4758,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
 | Glory Hunters | 185280 | [185280-glory-hunters.json](./185280-glory-hunters.json) |
+| Glory Kingdom | 33704 | [33704-glory-kingdom.json](./33704-glory-kingdom.json) |
 | Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
 | Glory of Generals: Pacific War | 89039 | [89039-glory-of-generals-pacific-war.json](./89039-glory-of-generals-pacific-war.json) |
 | Glory of Generals: The Pacific | 84507 | [84507-glory-of-generals-the-pacific.json](./84507-glory-of-generals-the-pacific.json) |
