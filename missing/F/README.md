@@ -4109,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifo's Night | 127763 | [127763-fifos-night.json](./127763-fifos-night.json) |
 | Fifrelin | 404985 | [404985-fifrelin.json](./404985-fifrelin.json) |
 | Fifteen | 279135 | [279135-fifteen.json](./279135-fifteen.json) |
+| Fifteen | 54673 | [54673-fifteen.json](./54673-fifteen.json) |
 | Fifth Aile | 93976 | [93976-fifth-aile.json](./93976-fifth-aile.json) |
 | Fifth Element II Hikari to Yami no Ouji | 58742 | [58742-fifth-element-ii-hikari-to-yami-no-ouji.json](./58742-fifth-element-ii-hikari-to-yami-no-ouji.json) |
 | Fifth Element Tamashii no Genso | 58743 | [58743-fifth-element-tamashii-no-genso.json](./58743-fifth-element-tamashii-no-genso.json) |
@@ -8758,6 +8759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
 | Forbon FC | 182163 | [182163-forbon-fc.json](./182163-forbon-fc.json) |
 | Força Alienígena | 231205 | [231205-forca-alienigena.json](./231205-forca-alienigena.json) |
+| Force 7 | 54672 | [54672-force-7.json](./54672-force-7.json) |
 | Force and Motion | 286357 | [286357-force-and-motion.json](./286357-force-and-motion.json) |
 | Force Escape | 91285 | [91285-force-escape.json](./91285-force-escape.json) |
 | Force Fighter | 14076 | [14076-force-fighter.json](./14076-force-fighter.json) |
