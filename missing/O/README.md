@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oda Nobunaga: Haou no Gundan | 44398 | [44398-oda-nobunaga-haou-no-gundan.json](./44398-oda-nobunaga-haou-no-gundan.json) |
 | Oda-hen | 292161 | [292161-oda-hen.json](./292161-oda-hen.json) |
 | Oda's Ordinary Lives | 420506 | [420506-odas-ordinary-lives.json](./420506-odas-ordinary-lives.json) |
+| Odallus: The Dark Call | 11417 | [11417-odallus-the-dark-call.json](./11417-odallus-the-dark-call.json) |
 | Odama | 4050 | [4050-odama.json](./4050-odama.json) |
 | Odania Sports Arena | 226130 | [226130-odania-sports-arena.json](./226130-odania-sports-arena.json) |
 | Odd Adventure of Chub, Color, 23 and You | 169973 | [169973-odd-adventure-of-chub-color-23-and-you.json](./169973-odd-adventure-of-chub-color-23-and-you.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Pump Chump | 379333 | [379333-one-pump-chump.json](./379333-one-pump-chump.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
+| One Punch Man: A Hero Nobody Knows | 120175 | [120175-one-punch-man-a-hero-nobody-knows.json](./120175-one-punch-man-a-hero-nobody-knows.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 1 - Suiryu | 134062 | [134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json](./134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 2 - Lightning Max | 134063 | [134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json](./134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 3 - Watchdog Man | 134064 | [134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json](./134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json) |
