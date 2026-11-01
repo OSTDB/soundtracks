@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
 | Heaven & Hell vs The Void | 333138 | [333138-heaven-and-hell-vs-the-void.json](./333138-heaven-and-hell-vs-the-void.json) |
 | Heaven and Earth | 51421 | [51421-heaven-and-earth.json](./51421-heaven-and-earth.json) |
+| Heaven and Hearth | 58431 | [58431-heaven-and-hearth.json](./58431-heaven-and-hearth.json) |
 | Heaven and Hell | 273749 | [273749-heaven-and-hell.json](./273749-heaven-and-hell.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Bound | 209866 | [209866-heaven-bound.json](./209866-heaven-bound.json) |
@@ -7489,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
 | Hissatsu Ura-Kagyou | 332643 | [332643-hissatsu-ura-kagyou.json](./332643-hissatsu-ura-kagyou.json) |
 | Hissatsu! | 269158 | [269158-hissatsu.json](./269158-hissatsu.json) |
+| Hisshou 777 Fighter III: Kuroryuuou no Fukkatsu | 58414 | [58414-hisshou-777-fighter-iii-kuroryuuou-no-fukkatsu.json](./58414-hisshou-777-fighter-iii-kuroryuuou-no-fukkatsu.json) |
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 3: CR Marilyn Monroe | 61580 | [61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json](./61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 4: CR Ashita ga Arusa, Yoshimoto World | 61579 | [61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json](./61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json) |
@@ -9678,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
 | Hot Throttle | 124467 | [124467-hot-throttle.json](./124467-hot-throttle.json) |
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
+| Hot Trigger | 58451 | [58451-hot-trigger.json](./58451-hot-trigger.json) |
 | Hot Tub Simulator | 165373 | [165373-hot-tub-simulator.json](./165373-hot-tub-simulator.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
 | Hot View Ecchi Girls | 384885 | [384885-hot-view-ecchi-girls.json](./384885-hot-view-ecchi-girls.json) |
