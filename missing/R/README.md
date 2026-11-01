@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raiden V | 19848 | [19848-raiden-v.json](./19848-raiden-v.json) |
+| Raiden V: Director's Cut | 54822 | [54822-raiden-v-directors-cut.json](./54822-raiden-v-directors-cut.json) |
 | Raiden V: Director's Cut - Limited Edition | 136319 | [136319-raiden-v-directors-cut-limited-edition.json](./136319-raiden-v-directors-cut-limited-edition.json) |
 | Raiden X | 206583 | [206583-raiden-x.json](./206583-raiden-x.json) |
 | Raiden: 30th Anniversary | 229121 | [229121-raiden-30th-anniversary.json](./229121-raiden-30th-anniversary.json) |
@@ -3562,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Colony Trilogy | 381652 | [381652-red-colony-trilogy.json](./381652-red-colony-trilogy.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Comrades 3: Return of Alaska - Reloaded | 30871 | [30871-red-comrades-3-return-of-alaska-reloaded.json](./30871-red-comrades-3-return-of-alaska-reloaded.json) |
+| Red Comrades Save the Galaxy | 52751 | [52751-red-comrades-save-the-galaxy.json](./52751-red-comrades-save-the-galaxy.json) |
 | Red Comrades Save the Galaxy: Reloaded | 27752 | [27752-red-comrades-save-the-galaxy-reloaded.json](./27752-red-comrades-save-the-galaxy-reloaded.json) |
 | Red Comrades: For the Great Justice | 52753 | [52753-red-comrades-for-the-great-justice.json](./52753-red-comrades-for-the-great-justice.json) |
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
