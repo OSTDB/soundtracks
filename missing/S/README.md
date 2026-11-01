@@ -11491,6 +11491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkullPirates | 76869 | [76869-skullpirates.json](./76869-skullpirates.json) |
 | Skullpogo | 242471 | [242471-skullpogo.json](./242471-skullpogo.json) |
 | Skulls of Olympus | 291903 | [291903-skulls-of-olympus.json](./291903-skulls-of-olympus.json) |
+| Skulls of the Shogun | 9023 | [9023-skulls-of-the-shogun.json](./9023-skulls-of-the-shogun.json) |
 | Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skullstone | 26885 | [26885-skullstone.json](./26885-skullstone.json) |
@@ -16221,6 +16222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Kaiser | 331377 | [331377-sonic-kaiser.json](./331377-sonic-kaiser.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
+| Sonic Labyrinth | 19731 | [19731-sonic-labyrinth.json](./19731-sonic-labyrinth.json) |
 | Sonic Labyrinth | 332465 | [332465-sonic-labyrinth.json](./332465-sonic-labyrinth.json) |
 | Sonic Labyrinth | 387060 | [387060-sonic-labyrinth.json](./387060-sonic-labyrinth.json) |
 | Sonic Legacy | 314502 | [314502-sonic-legacy.json](./314502-sonic-legacy.json) |
@@ -16388,6 +16390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders: Tournament Edition | 396533 | [396533-sonic-riders-tournament-edition.json](./396533-sonic-riders-tournament-edition.json) |
 | Sonic Ring Thing | 299875 | [299875-sonic-ring-thing.json](./299875-sonic-ring-thing.json) |
 | Sonic Rivals | 19260 | [19260-sonic-rivals.json](./19260-sonic-rivals.json) |
+| Sonic Rivals 2 | 19262 | [19262-sonic-rivals-2.json](./19262-sonic-rivals-2.json) |
 | Sonic Rivals Dash | 269064 | [269064-sonic-rivals-dash.json](./269064-sonic-rivals-dash.json) |
 | Sonic Robo Blast | 134011 | [134011-sonic-robo-blast.json](./134011-sonic-robo-blast.json) |
 | Sonic Robo Blast | 280211 | [280211-sonic-robo-blast.json](./280211-sonic-robo-blast.json) |
@@ -17232,6 +17235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Rush | 120231 | [120231-soul-rush.json](./120231-soul-rush.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul Ryder RPG | 348284 | [348284-soul-ryder-rpg.json](./348284-soul-ryder-rpg.json) |
+| Soul Sacrifice | 19912 | [19912-soul-sacrifice.json](./19912-soul-sacrifice.json) |
 | Soul Sacrifice Delta | 6061 | [6061-soul-sacrifice-delta.json](./6061-soul-sacrifice-delta.json) |
 | Soul Sader | 285982 | [285982-soul-sader.json](./285982-soul-sader.json) |
 | Soul Saga | 63252 | [63252-soul-saga.json](./63252-soul-saga.json) |
@@ -18201,6 +18205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Collection | 64070 | [64070-space-invaders-collection.json](./64070-space-invaders-collection.json) |
 | Space Invaders DX | 39409 | [39409-space-invaders-dx.json](./39409-space-invaders-dx.json) |
 | Space Invaders Evolution | 42761 | [42761-space-invaders-evolution.json](./42761-space-invaders-evolution.json) |
+| Space Invaders Extreme | 8198 | [8198-space-invaders-extreme.json](./8198-space-invaders-extreme.json) |
 | Space Invaders Extreme 2 | 8199 | [8199-space-invaders-extreme-2.json](./8199-space-invaders-extreme-2.json) |
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
 | Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
@@ -20690,6 +20695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
+| Splitgate: Arena Reloaded | 308978 | [308978-splitgate-arena-reloaded.json](./308978-splitgate-arena-reloaded.json) |
 | Spliti | 289722 | [289722-spliti.json](./289722-spliti.json) |
 | SplitPool | 340180 | [340180-splitpool.json](./340180-splitpool.json) |
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
@@ -21342,6 +21348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Fox 3: Operation Ozone | 7653 | [7653-spy-fox-3-operation-ozone.json](./7653-spy-fox-3-operation-ozone.json) |
 | Spy Fox Dry: Cereal and Cheese Chase - Activity Game | 208772 | [208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json](./208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json) |
+| Spy Fox in "Dry Cereal" | 5204 | [5204-spy-fox-in-dry-cereal.json](./5204-spy-fox-in-dry-cereal.json) |
 | Spy Fox In: Hold the Mustard | 10840 | [10840-spy-fox-in-hold-the-mustard.json](./10840-spy-fox-in-hold-the-mustard.json) |
 | Spy Game: Mission in Moskow | 241331 | [241331-spy-game-mission-in-moskow.json](./241331-spy-game-mission-in-moskow.json) |
 | Spy Games: Elevator Mission | 5205 | [5205-spy-games-elevator-mission.json](./5205-spy-games-elevator-mission.json) |
@@ -22373,6 +22380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
 | Star Ocean: The Last Hope - International | 21750 | [21750-star-ocean-the-last-hope-international.json](./21750-star-ocean-the-last-hope-international.json) |
 | Star Ocean: The Second Story | 11210 | [11210-star-ocean-the-second-story.json](./11210-star-ocean-the-second-story.json) |
+| Star Ocean: The Second Story R | 254337 | [254337-star-ocean-the-second-story-r.json](./254337-star-ocean-the-second-story-r.json) |
 | Star Ocean: Till the End of Time | 11212 | [11212-star-ocean-till-the-end-of-time.json](./11212-star-ocean-till-the-end-of-time.json) |
 | Star Odyssey | 45757 | [45757-star-odyssey.json](./45757-star-odyssey.json) |
 | Star of Games | 399434 | [399434-star-of-games.json](./399434-star-of-games.json) |
@@ -25437,6 +25445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stozle: Solve the Mystery | 284563 | [284563-stozle-solve-the-mystery.json](./284563-stozle-solve-the-mystery.json) |
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Stradiwackius: The Counting Concert | 207114 | [207114-stradiwackius-the-counting-concert.json](./207114-stradiwackius-the-counting-concert.json) |
+| Strafe | 9062 | [9062-strafe.json](./9062-strafe.json) |
 | Strafest | 397854 | [397854-strafest.json](./397854-strafest.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
 | Straftat: Weapons, Maps and Hats | 326569 | [326569-straftat-weapons-maps-and-hats.json](./326569-straftat-weapons-maps-and-hats.json) |
@@ -25985,6 +25994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II: Ryu vs. Sagat | 155516 | [155516-street-fighter-ii-ryu-vs-sagat.json](./155516-street-fighter-ii-ryu-vs-sagat.json) |
 | Street Fighter II: Special Champion Edition | 4367 | [4367-street-fighter-ii-special-champion-edition.json](./4367-street-fighter-ii-special-champion-edition.json) |
 | Street Fighter II' Turbo | 18626 | [18626-street-fighter-ii-turbo.json](./18626-street-fighter-ii-turbo.json) |
+| Street Fighter II' Turbo: Hyper Fighting | 20878 | [20878-street-fighter-ii-turbo-hyper-fighting.json](./20878-street-fighter-ii-turbo-hyper-fighting.json) |
 | Street Fighter III | 267546 | [267546-street-fighter-iii.json](./267546-street-fighter-iii.json) |
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
 | Street Fighter III: 3rd Strike | 243237 | [243237-street-fighter-iii-3rd-strike.json](./243237-street-fighter-iii-3rd-strike.json) |
@@ -26691,6 +26701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuntcar Extreme | 73246 | [73246-stuntcar-extreme.json](./73246-stuntcar-extreme.json) |
 | StuntCopter! | 108515 | [108515-stuntcopter.json](./108515-stuntcopter.json) |
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
+| Stuntman | 8267 | [8267-stuntman.json](./8267-stuntman.json) |
 | Stuntman Seymour | 39165 | [39165-stuntman-seymour.json](./39165-stuntman-seymour.json) |
 | Stuntman: Ignition | 2783 | [2783-stuntman-ignition.json](./2783-stuntman-ignition.json) |
 | StuntMania Reloaded | 17872 | [17872-stuntmania-reloaded.json](./17872-stuntmania-reloaded.json) |
