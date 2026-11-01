@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkspyre | 50453 | [50453-darkspyre.json](./50453-darkspyre.json) |
 | Darkstalkers 3 | 4135 | [4135-darkstalkers-3.json](./4135-darkstalkers-3.json) |
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
+| Darkstalkers Resurrection | 20013 | [20013-darkstalkers-resurrection.json](./20013-darkstalkers-resurrection.json) |
 | Darkstalkers: The Night Warriors | 20009 | [20009-darkstalkers-the-night-warriors.json](./20009-darkstalkers-the-night-warriors.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | DarkStar One: Broken Alliance | 20414 | [20414-darkstar-one-broken-alliance.json](./20414-darkstar-one-broken-alliance.json) |
@@ -8496,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World 4 | 3878 | [3878-digimon-world-4.json](./3878-digimon-world-4.json) |
 | Digimon World Championship | 47897 | [47897-digimon-world-championship.json](./47897-digimon-world-championship.json) |
 | Digimon World Data Squad | 20761 | [20761-digimon-world-data-squad.json](./20761-digimon-world-data-squad.json) |
+| Digimon World Dawn | 21521 | [21521-digimon-world-dawn.json](./21521-digimon-world-dawn.json) |
 | Digimon World DS | 20609 | [20609-digimon-world-ds.json](./20609-digimon-world-ds.json) |
 | Digimon World Legends | 331981 | [331981-digimon-world-legends.json](./331981-digimon-world-legends.json) |
 | Digimon World Re:Digitize Decode | 80507 | [80507-digimon-world-re-digitize-decode.json](./80507-digimon-world-re-digitize-decode.json) |
