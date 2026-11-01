@@ -4054,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seconds Out | 70088 | [70088-seconds-out.json](./70088-seconds-out.json) |
 | Seconds Till Destruction | 354883 | [354883-seconds-till-destruction.json](./354883-seconds-till-destruction.json) |
 | Seconds Time's the Charm | 326602 | [326602-seconds-times-the-charm.json](./326602-seconds-times-the-charm.json) |
+| Seconds to Square | 55574 | [55574-seconds-to-square.json](./55574-seconds-to-square.json) |
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
@@ -12613,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshottr | 297358 | [297358-slingshottr.json](./297358-slingshottr.json) |
 | SlingSkull Zombies | 54882 | [54882-slingskull-zombies.json](./54882-slingskull-zombies.json) |
 | SlingSkull Zombies 2 | 54883 | [54883-slingskull-zombies-2.json](./54883-slingskull-zombies-2.json) |
+| SlingSkull Zombies: Graveyard Shift | 55571 | [55571-slingskull-zombies-graveyard-shift.json](./55571-slingskull-zombies-graveyard-shift.json) |
 | SlingSkull Zombies: The Dawn | 55665 | [55665-slingskull-zombies-the-dawn.json](./55665-slingskull-zombies-the-dawn.json) |
 | Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
 | Slingy Snow | 175168 | [175168-slingy-snow.json](./175168-slingy-snow.json) |
@@ -15050,6 +15052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Söldner: Secret Wars | 78587 | [78587-soldner-secret-wars.json](./78587-soldner-secret-wars.json) |
 | Söldner: Secret Wars Remastered | 249615 | [249615-soldner-secret-wars-remastered.json](./249615-soldner-secret-wars-remastered.json) |
 | Soldnerschild | 92103 | [92103-soldnerschild.json](./92103-soldnerschild.json) |
+| Sole | 55604 | [55604-sole.json](./55604-sole.json) |
 | Sole Iron Tail | 132693 | [132693-sole-iron-tail.json](./132693-sole-iron-tail.json) |
 | Sole Light: Cool Puzzle Game | 187789 | [187789-sole-light-cool-puzzle-game.json](./187789-sole-light-cool-puzzle-game.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
@@ -17931,7 +17934,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18522,6 +18524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wars: Interstellar Empires | 76586 | [76586-space-wars-interstellar-empires.json](./76586-space-wars-interstellar-empires.json) |
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Wave Race | 149216 | [149216-space-wave-race.json](./149216-space-wave-race.json) |
+| Space Waver | 55577 | [55577-space-waver.json](./55577-space-waver.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Way | 72490 | [72490-space-way.json](./72490-space-way.json) |
 | Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
@@ -18719,6 +18722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
+| Spaceship Trucker | 55576 | [55576-spaceship-trucker.json](./55576-spaceship-trucker.json) |
 | Spaceship Typing | 328897 | [328897-spaceship-typing.json](./328897-spaceship-typing.json) |
 | Spaceship Warlock | 72522 | [72522-spaceship-warlock.json](./72522-spaceship-warlock.json) |
 | Spaceshipment | 328302 | [328302-spaceshipment.json](./328302-spaceshipment.json) |
