@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemixar | 396003 | [396003-nemixar.json](./396003-nemixar.json) |
 | Nemiza's Verdict | 335832 | [335832-nemizas-verdict.json](./335832-nemizas-verdict.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
+| Nemo | 39283 | [39283-nemo.json](./39283-nemo.json) |
 | Nemo Dungeon | 113316 | [113316-nemo-dungeon.json](./113316-nemo-dungeon.json) |
 | Nemo is going to School | 264105 | [264105-nemo-is-going-to-school.json](./264105-nemo-is-going-to-school.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
