@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Shop Simulator | 322660 | [322660-car-mechanic-shop-simulator.json](./322660-car-mechanic-shop-simulator.json) |
 | Car Mechanic Simulator | 115392 | [115392-car-mechanic-simulator.json](./115392-car-mechanic-simulator.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
+| Car Mechanic Simulator 2015 | 17780 | [17780-car-mechanic-simulator-2015.json](./17780-car-mechanic-simulator-2015.json) |
 | Car Mechanic Simulator 2015: Bentley | 152590 | [152590-car-mechanic-simulator-2015-bentley.json](./152590-car-mechanic-simulator-2015-bentley.json) |
 | Car Mechanic Simulator 2015: Car Stripping | 152591 | [152591-car-mechanic-simulator-2015-car-stripping.json](./152591-car-mechanic-simulator-2015-car-stripping.json) |
 | Car Mechanic Simulator 2015: DeLorean | 152589 | [152589-car-mechanic-simulator-2015-delorean.json](./152589-car-mechanic-simulator-2015-delorean.json) |
@@ -6447,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Volleyball | 119824 | [119824-chibi-volleyball.json](./119824-chibi-volleyball.json) |
 | Chibi-Robo! | 134255 | [134255-chibi-robo.json](./134255-chibi-robo.json) |
 | Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
+| Chibi-Robo! Zip Lash | 11216 | [11216-chibi-robo-zip-lash.json](./11216-chibi-robo-zip-lash.json) |
 | Chibi-Robo!: Photo Finder | 23516 | [23516-chibi-robo-photo-finder.json](./23516-chibi-robo-photo-finder.json) |
 | Chibikko Club | 289737 | [289737-chibikko-club.json](./289737-chibikko-club.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
@@ -6550,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
 | Chicken Invaders 2 Xmas | 99974 | [99974-chicken-invaders-2-xmas.json](./99974-chicken-invaders-2-xmas.json) |
 | Chicken Invaders 2: Christmas Edition | 79049 | [79049-chicken-invaders-2-christmas-edition.json](./79049-chicken-invaders-2-christmas-edition.json) |
+| Chicken Invaders 2: The Next Wave | 11714 | [11714-chicken-invaders-2-the-next-wave.json](./11714-chicken-invaders-2-the-next-wave.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
 | Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
 | Chicken Invaders 3: Revenge of the Yolk | 35031 | [35031-chicken-invaders-3-revenge-of-the-yolk.json](./35031-chicken-invaders-3-revenge-of-the-yolk.json) |
@@ -10559,6 +10562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognizant Protocol | 51557 | [51557-cognizant-protocol.json](./51557-cognizant-protocol.json) |
 | Cognizer | 102282 | [102282-cognizer.json](./102282-cognizer.json) |
 | Cogret | 128279 | [128279-cogret.json](./128279-cogret.json) |
+| Cogs | 9984 | [9984-cogs.json](./9984-cogs.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
 | Cogs and Cowboys | 31818 | [31818-cogs-and-cowboys.json](./31818-cogs-and-cowboys.json) |
 | Cogs Lite | 100257 | [100257-cogs-lite.json](./100257-cogs-lite.json) |
