@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Kaizo Era | 213572 | [213572-a-new-kaizo-era.json](./213572-a-new-kaizo-era.json) |
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
 | A New Life | 304304 | [304304-a-new-life.json](./304304-a-new-life.json) |
+| A New Life. | 133449 | [133449-a-new-life.json](./133449-a-new-life.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
 | A New Spark | 326541 | [326541-a-new-spark.json](./326541-a-new-spark.json) |
 | A New World | 268882 | [268882-a-new-world.json](./268882-a-new-world.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Park | 90437 | [90437-achievement-park.json](./90437-achievement-park.json) |
 | Achievement printer part 1 | 93691 | [93691-achievement-printer-part-1.json](./93691-achievement-printer-part-1.json) |
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
+| Achievement Unlocked | 141697 | [141697-achievement-unlocked.json](./141697-achievement-unlocked.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
 | Achilles | 118129 | [118129-achilles.json](./118129-achilles.json) |
@@ -15475,6 +15477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Grrrl!! | 33781 | [33781-atom-grrrl.json](./33781-atom-grrrl.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
 | Atom RPG | 28160 | [28160-atom-rpg.json](./28160-atom-rpg.json) |
+| Atom RPG: Trudograd | 134502 | [134502-atom-rpg-trudograd.json](./134502-atom-rpg-trudograd.json) |
 | Atom RPG: Trudograd - War Supply Pack | 224437 | [224437-atom-rpg-trudograd-war-supply-pack.json](./224437-atom-rpg-trudograd-war-supply-pack.json) |
 | Atom RPG: Trudograd Deluxe Edition | 227181 | [227181-atom-rpg-trudograd-deluxe-edition.json](./227181-atom-rpg-trudograd-deluxe-edition.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
