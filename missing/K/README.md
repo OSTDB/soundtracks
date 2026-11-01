@@ -2641,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles Minehunt | 326839 | [326839-knuckles-minehunt.json](./326839-knuckles-minehunt.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 264457 | [264457-knuckles-the-echidna-in-sonic-the-hedgehog.json](./264457-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
+| Knuckles the Echidna in Sonic the Hedgehog 2 | 135370 | [135370-knuckles-the-echidna-in-sonic-the-hedgehog-2.json](./135370-knuckles-the-echidna-in-sonic-the-hedgehog-2.json) |
 | Knuckles The Echidna: Burrow Trouble | 317199 | [317199-knuckles-the-echidna-burrow-trouble.json](./317199-knuckles-the-echidna-burrow-trouble.json) |
 | Knuckles Treasure Hunt | 325852 | [325852-knuckles-treasure-hunt.json](./325852-knuckles-treasure-hunt.json) |
 | Knuckles' Chaotix | 19762 | [19762-knuckles-chaotix.json](./19762-knuckles-chaotix.json) |
@@ -4659,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koh-Lanta | 138080 | [138080-koh-lanta.json](./138080-koh-lanta.json) |
 | Koh-Lanta: Survie Dans La Jungle! | 340586 | [340586-koh-lanta-survie-dans-la-jungle.json](./340586-koh-lanta-survie-dans-la-jungle.json) |
 | Kohan II: Kings of War | 766 | [766-kohan-ii-kings-of-war.json](./766-kohan-ii-kings-of-war.json) |
+| Kohan: Ahriman's Gift | 15123 | [15123-kohan-ahrimans-gift.json](./15123-kohan-ahrimans-gift.json) |
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohan: Immortal Sovereigns Special Awards Edition | 209823 | [209823-kohan-immortal-sovereigns-special-awards-edition.json](./209823-kohan-immortal-sovereigns-special-awards-edition.json) |
 | Kohana | 180399 | [180399-kohana.json](./180399-kohana.json) |
