@@ -2573,7 +2573,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Cooking | 418310 | [418310-we-are-cooking.json](./418310-we-are-cooking.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
 | We are definitely the baddies | 200975 | [200975-we-are-definitely-the-baddies.json](./200975-we-are-definitely-the-baddies.json) |
-| We Are Doomed | 20894 | [20894-we-are-doomed.json](./20894-we-are-doomed.json) |
 | We are Eva | 191656 | [191656-we-are-eva.json](./191656-we-are-eva.json) |
 | We Are Football | 146039 | [146039-we-are-football.json](./146039-we-are-football.json) |
 | We are Football 2024 | 288844 | [288844-we-are-football-2024.json](./288844-we-are-football-2024.json) |
