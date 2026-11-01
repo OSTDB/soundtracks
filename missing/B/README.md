@@ -3239,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena: Euro Wars | 110620 | [110620-battle-arena-euro-wars.json](./110620-battle-arena-euro-wars.json) |
 | Battle Arena: Robot Apocalypse | 148886 | [148886-battle-arena-robot-apocalypse.json](./148886-battle-arena-robot-apocalypse.json) |
 | Battle Army | 81212 | [81212-battle-army.json](./81212-battle-army.json) |
+| Battle Assault 3 featuring Gundam Seed | 43678 | [43678-battle-assault-3-featuring-gundam-seed.json](./43678-battle-assault-3-featuring-gundam-seed.json) |
 | Battle Athletess Daiundoukai | 45419 | [45419-battle-athletess-daiundoukai.json](./45419-battle-athletess-daiundoukai.json) |
 | Battle Athletess Daiundoukai GTO | 82515 | [82515-battle-athletess-daiundoukai-gto.json](./82515-battle-athletess-daiundoukai-gto.json) |
 | Battle Axe | 141511 | [141511-battle-axe.json](./141511-battle-axe.json) |
