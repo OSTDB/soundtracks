@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Collection 2 | 420008 | [420008-activision-collection-2.json](./420008-activision-collection-2.json) |
 | Activision Game Vault: Volume 1 | 137499 | [137499-activision-game-vault-volume-1.json](./137499-activision-game-vault-volume-1.json) |
 | Activision Game Vault: Volume 3 | 59285 | [59285-activision-game-vault-volume-3.json](./59285-activision-game-vault-volume-3.json) |
+| Activision Hits Remixed | 23110 | [23110-activision-hits-remixed.json](./23110-activision-hits-remixed.json) |
 | Activision Prototype #1 | 344692 | [344692-activision-prototype-1.json](./344692-activision-prototype-1.json) |
 | Activision's Atari 2600 Action Pack | 79146 | [79146-activisions-atari-2600-action-pack.json](./79146-activisions-atari-2600-action-pack.json) |
 | Activision's Atari 2600 Action Pack 2 | 100084 | [100084-activisions-atari-2600-action-pack-2.json](./100084-activisions-atari-2600-action-pack-2.json) |
@@ -10077,6 +10078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Colony: Wild Forest | 336448 | [336448-ant-colony-wild-forest.json](./336448-ant-colony-wild-forest.json) |
 | Ant Destroyer 2 | 102596 | [102596-ant-destroyer-2.json](./102596-ant-destroyer-2.json) |
 | Ant Detective 2 | 129372 | [129372-ant-detective-2.json](./129372-ant-detective-2.json) |
+| Ant Eater | 23172 | [23172-ant-eater.json](./23172-ant-eater.json) |
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Farm Simulator | 277847 | [277847-ant-farm-simulator.json](./277847-ant-farm-simulator.json) |
 | Ant Fight | 245287 | [245287-ant-fight.json](./245287-ant-fight.json) |
@@ -11225,6 +11227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Surfer | 95155 | [95155-arc-surfer.json](./95155-arc-surfer.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
+| Arc the Lad Collection | 23100 | [23100-arc-the-lad-collection.json](./23100-arc-the-lad-collection.json) |
 | Arc the Lad R | 26382 | [26382-arc-the-lad-r.json](./26382-arc-the-lad-r.json) |
 | Arc the Lad: End of Darkness | 43649 | [43649-arc-the-lad-end-of-darkness.json](./43649-arc-the-lad-end-of-darkness.json) |
 | Arc the Lad: Kijin Fukkatsu | 26373 | [26373-arc-the-lad-kijin-fukkatsu.json](./26373-arc-the-lad-kijin-fukkatsu.json) |
