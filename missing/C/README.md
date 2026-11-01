@@ -10274,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coded Soul: Uketsunagareshi Idea | 254635 | [254635-coded-soul-uketsunagareshi-idea.json](./254635-coded-soul-uketsunagareshi-idea.json) |
 | Coded X-Word | 71375 | [71375-coded-x-word.json](./71375-coded-x-word.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
+| Codelink v2 | 58432 | [58432-codelink-v2.json](./58432-codelink-v2.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
 | Codemasters 2 in 1: Fantastic Dizzy + Cosmic Spacehead | 93188 | [93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json](./93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json) |
@@ -14546,6 +14547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackers Revenge II | 417478 | [417478-crackers-revenge-ii.json](./417478-crackers-revenge-ii.json) |
 | Crackers Revenge IV | 417480 | [417480-crackers-revenge-iv.json](./417480-crackers-revenge-iv.json) |
 | Crackheads | 396342 | [396342-crackheads.json](./396342-crackheads.json) |
+| Crackin' DJ Part 2 | 58429 | [58429-crackin-dj-part-2.json](./58429-crackin-dj-part-2.json) |
 | Crackin' Smackin | 251960 | [251960-crackin-smackin.json](./251960-crackin-smackin.json) |
 | Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
