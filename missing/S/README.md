@@ -3824,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
 | Sea-Doo HydroCross | 45055 | [45055-sea-doo-hydrocross.json](./45055-sea-doo-hydrocross.json) |
 | Sea-Man | 287550 | [287550-sea-man.json](./287550-sea-man.json) |
+| Seabase Delta | 28441 | [28441-seabase-delta.json](./28441-seabase-delta.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | Seabed Settlers | 310101 | [310101-seabed-settlers.json](./310101-seabed-settlers.json) |
 | Seaberry Holiday | 226630 | [226630-seaberry-holiday.json](./226630-seaberry-holiday.json) |
@@ -14072,6 +14073,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK Heroines: Tag Team Frenzy - Miss X | 405898 | [405898-snk-heroines-tag-team-frenzy-miss-x.json](./405898-snk-heroines-tag-team-frenzy-miss-x.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
+| SNK vs. Capcom Card Fighters' Clash - Capcom Card Fighter's Version | 28398 | [28398-snk-vs-capcom-card-fighters-clash-capcom-card-fighters-version.json](./28398-snk-vs-capcom-card-fighters-clash-capcom-card-fighters-version.json) |
+| SNK vs. Capcom Card Fighters' Clash - SNK Card Fighter's Version | 28399 | [28399-snk-vs-capcom-card-fighters-clash-snk-card-fighters-version.json](./28399-snk-vs-capcom-card-fighters-clash-snk-card-fighters-version.json) |
 | SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
 | Snk's Cool Cool Toon | 45820 | [45820-snks-cool-cool-toon.json](./45820-snks-cool-cool-toon.json) |
@@ -20124,6 +20127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiki Game Box | 115337 | [115337-spiki-game-box.json](./115337-spiki-game-box.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
+| Spiky Harold | 28436 | [28436-spiky-harold.json](./28436-spiky-harold.json) |
 | Spiky Way: Forest | 257582 | [257582-spiky-way-forest.json](./257582-spiky-way-forest.json) |
 | Spill the Beans | 276818 | [276818-spill-the-beans.json](./276818-spill-the-beans.json) |
 | Spilled Mushrooms | 318152 | [318152-spilled-mushrooms.json](./318152-spilled-mushrooms.json) |
@@ -25550,6 +25554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy & Tactics: Wargame Collection - USSR vs USA! | 163677 | [163677-strategy-and-tactics-wargame-collection-ussr-vs-usa.json](./163677-strategy-and-tactics-wargame-collection-ussr-vs-usa.json) |
 | Strategy & Tactics: Wargame Collection - Vikings! | 163678 | [163678-strategy-and-tactics-wargame-collection-vikings.json](./163678-strategy-and-tactics-wargame-collection-vikings.json) |
 | Strategy 1: Invasion | 262518 | [262518-strategy-1-invasion.json](./262518-strategy-1-invasion.json) |
+| Strategy Ages | 28463 | [28463-strategy-ages.json](./28463-strategy-ages.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Challenges Collection 1 | 134475 | [134475-strategy-challenges-collection-1.json](./134475-strategy-challenges-collection-1.json) |
 | Strategy Challenges Collection 2 | 80846 | [80846-strategy-challenges-collection-2.json](./80846-strategy-challenges-collection-2.json) |
@@ -26846,6 +26851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsumed | 382496 | [382496-subsumed.json](./382496-subsumed.json) |
+| Subsunk | 28442 | [28442-subsunk.json](./28442-subsunk.json) |
 | Subsurface | 281343 | [281343-subsurface.json](./281343-subsurface.json) |
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
@@ -28465,6 +28471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cute Alien | 132498 | [132498-super-cute-alien.json](./132498-super-cute-alien.json) |
 | Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
+| Super Cycle | 28460 | [28460-super-cycle.json](./28460-super-cycle.json) |
 | Super Daisenryaku | 400829 | [400829-super-daisenryaku.json](./400829-super-daisenryaku.json) |
 | Super Daisenryaku | 400833 | [400833-super-daisenryaku.json](./400833-super-daisenryaku.json) |
 | Super Daisenryaku | 400835 | [400835-super-daisenryaku.json](./400835-super-daisenryaku.json) |
@@ -32596,6 +32603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Sides 2: Sea Sandwich | 255037 | [255037-switch-sides-2-sea-sandwich.json](./255037-switch-sides-2-sea-sandwich.json) |
 | Switch the Darkness | 390449 | [390449-switch-the-darkness.json](./390449-switch-the-darkness.json) |
 | Switch the Track | 233693 | [233693-switch-the-track.json](./233693-switch-the-track.json) |
+| Switch to Dash | 28464 | [28464-switch-to-dash.json](./28464-switch-to-dash.json) |
 | Switch: Or Die Trying | 31968 | [31968-switch-or-die-trying.json](./31968-switch-or-die-trying.json) |
 | Switch: The Case of the Curious Cat | 414828 | [414828-switch-the-case-of-the-curious-cat.json](./414828-switch-the-case-of-the-curious-cat.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
