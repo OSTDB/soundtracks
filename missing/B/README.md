@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baito Fight!!: Part-time Devil Hunter | 271688 | [271688-baito-fight-part-time-devil-hunter.json](./271688-baito-fight-part-time-devil-hunter.json) |
 | Bǎiwèi Shíguāng | 378840 | [378840-baiwei-shiguang.json](./378840-baiwei-shiguang.json) |
 | Baixos de Quebrada: Mobile | 339593 | [339593-baixos-de-quebrada-mobile.json](./339593-baixos-de-quebrada-mobile.json) |
+| Baja Buggies | 18781 | [18781-baja-buggies.json](./18781-baja-buggies.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
 | Baja: Edge of Control | 5497 | [5497-baja-edge-of-control.json](./5497-baja-edge-of-control.json) |
 | Baja: Edge of Control HD | 28170 | [28170-baja-edge-of-control-hd.json](./28170-baja-edge-of-control-hd.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
 | Bamse | 106273 | [106273-bamse.json](./106273-bamse.json) |
 | Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
+| Bamsing | 18825 | [18825-bamsing.json](./18825-bamsing.json) |
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banality Wars Carridin | 167538 | [167538-banality-wars-carridin.json](./167538-banality-wars-carridin.json) |
@@ -5451,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Pong Basement | 321230 | [321230-beer-pong-basement.json](./321230-beer-pong-basement.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
+| Beer Run | 18778 | [18778-beer-run.json](./18778-beer-run.json) |
 | Beer Run | 281957 | [281957-beer-run.json](./281957-beer-run.json) |
 | Beer Runner | 338227 | [338227-beer-runner.json](./338227-beer-runner.json) |
 | Beer Runner: Yasuke A Samurai | 338228 | [338228-beer-runner-yasuke-a-samurai.json](./338228-beer-runner-yasuke-a-samurai.json) |
@@ -10902,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | Blueman | 392717 | [392717-blueman.json](./392717-blueman.json) |
+| Blueprint | 18804 | [18804-blueprint.json](./18804-blueprint.json) |
 | Blueprint Bob | 332948 | [332948-blueprint-bob.json](./332948-blueprint-bob.json) |
 | Blueprint Hell | 315782 | [315782-blueprint-hell.json](./315782-blueprint-hell.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
@@ -12087,6 +12091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BookyPets Legends | 239820 | [239820-bookypets-legends.json](./239820-bookypets-legends.json) |
 | Bool | 94627 | [94627-bool.json](./94627-bool.json) |
 | Bool Capture | 347881 | [347881-bool-capture.json](./347881-bool-capture.json) |
+| Boolatoo | 18847 | [18847-boolatoo.json](./18847-boolatoo.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
 | Boolette | 408506 | [408506-boolette.json](./408506-boolette.json) |
 | Boolitaire | 175193 | [175193-boolitaire.json](./175193-boolitaire.json) |
@@ -12408,6 +12413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borewicz | 387066 | [387066-borewicz.json](./387066-borewicz.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Borfesu to 5-Jin no Akuma | 41731 | [41731-borfesu-to-5-jin-no-akuma.json](./41731-borfesu-to-5-jin-no-akuma.json) |
+| Borg | 18764 | [18764-borg.json](./18764-borg.json) |
 | Borg Nukem | 291978 | [291978-borg-nukem.json](./291978-borg-nukem.json) |
 | Borgia | 24774 | [24774-borgia.json](./24774-borgia.json) |
 | Borgo the Cat | 331213 | [331213-borgo-the-cat.json](./331213-borgo-the-cat.json) |
@@ -13673,7 +13679,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
 | Brave Soul | 70800 | [70800-brave-soul.json](./70800-brave-soul.json) |
 | Brave Splat | 374755 | [374755-brave-splat.json](./374755-brave-splat.json) |
+| Brave Story: My Dreams and Wishes | 18823 | [18823-brave-story-my-dreams-and-wishes.json](./18823-brave-story-my-dreams-and-wishes.json) |
 | Brave Story: New Traveler | 14607 | [14607-brave-story-new-traveler.json](./14607-brave-story-new-traveler.json) |
+| Brave Story: Wataru's Adventure | 18824 | [18824-brave-story-watarus-adventure.json](./18824-brave-story-watarus-adventure.json) |
 | Brave Survivor | 200570 | [200570-brave-survivor.json](./200570-brave-survivor.json) |
 | Brave survivors | 213489 | [213489-brave-survivors.json](./213489-brave-survivors.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
@@ -15629,6 +15637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
 | BugPot | 419991 | [419991-bugpot.json](./419991-bugpot.json) |
+| Bugs | 18802 | [18802-bugs.json](./18802-bugs.json) |
 | Bugs | 299090 | [299090-bugs.json](./299090-bugs.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs | 397851 | [397851-bugs.json](./397851-bugs.json) |
