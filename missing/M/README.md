@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar | 3764 | [3764-madagascar.json](./3764-madagascar.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar 3: The Video Game | 19648 | [19648-madagascar-3-the-video-game.json](./19648-madagascar-3-the-video-game.json) |
+| Madagascar 3: The Video Game & The Croods: Prehistoric Party Combo Pack | 61836 | [61836-madagascar-3-the-video-game-and-the-croods-prehistoric-party-combo-pack.json](./61836-madagascar-3-the-video-game-and-the-croods-prehistoric-party-combo-pack.json) |
 | Madagascar Kartz | 309578 | [309578-madagascar-kartz.json](./309578-madagascar-kartz.json) |
 | Madagascar Kartz | 3767 | [3767-madagascar-kartz.json](./3767-madagascar-kartz.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
@@ -2656,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
 | Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
 | Man of Law \| Judge simulator | 81165 | [81165-man-of-law-judge-simulator.json](./81165-man-of-law-judge-simulator.json) |
+| Man of Prey | 61845 | [61845-man-of-prey.json](./61845-man-of-prey.json) |
 | Man of Steel | 63305 | [63305-man-of-steel.json](./63305-man-of-steel.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
 | Man of the House | 127792 | [127792-man-of-the-house.json](./127792-man-of-the-house.json) |
@@ -3285,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margikarman ItoA | 180084 | [180084-margikarman-itoa.json](./180084-margikarman-itoa.json) |
 | Margin of Error | 351544 | [351544-margin-of-error.json](./351544-margin-of-error.json) |
 | Margin of the Strange | 301867 | [301867-margin-of-the-strange.json](./301867-margin-of-the-strange.json) |
+| Marginal #4: Idol of Supernova | 61943 | [61943-marginal-4-idol-of-supernova.json](./61943-marginal-4-idol-of-supernova.json) |
 | Marginal act | 93778 | [93778-marginal-act.json](./93778-marginal-act.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Marginalia Hero | 177701 | [177701-marginalia-hero.json](./177701-marginalia-hero.json) |
@@ -14777,6 +14780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Rally | 48199 | [48199-monster-truck-rally.json](./48199-monster-truck-rally.json) |
 | Monster Truck Rally Racing | 95554 | [95554-monster-truck-rally-racing.json](./95554-monster-truck-rally-racing.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
+| Monster Truck Rumble | 61924 | [61924-monster-truck-rumble.json](./61924-monster-truck-rumble.json) |
 | Monster Truck Soccer | 197648 | [197648-monster-truck-soccer.json](./197648-monster-truck-soccer.json) |
 | Monster Truck Story | 179924 | [179924-monster-truck-story.json](./179924-monster-truck-story.json) |
 | Monster Truck Trip 2 | 337224 | [337224-monster-truck-trip-2.json](./337224-monster-truck-trip-2.json) |
