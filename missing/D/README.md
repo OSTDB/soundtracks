@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
 | Dappou Undead Factory | 206544 | [206544-dappou-undead-factory.json](./206544-dappou-undead-factory.json) |
 | Darby the Dragon | 72931 | [72931-darby-the-dragon.json](./72931-darby-the-dragon.json) |
+| Darcade | 28447 | [28447-darcade.json](./28447-darcade.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Darconika: The Cube of Soul | 32850 | [32850-darconika-the-cube-of-soul.json](./32850-darconika-the-cube-of-soul.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
