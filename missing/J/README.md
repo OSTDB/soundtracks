@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game | 269780 | [269780-jinsei-game.json](./269780-jinsei-game.json) |
 | Jinsei Game | 344509 | [344509-jinsei-game.json](./344509-jinsei-game.json) |
 | Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
+| Jinsei Game Advance | 49659 | [49659-jinsei-game-advance.json](./49659-jinsei-game-advance.json) |
 | Jinsei Game DS | 269781 | [269781-jinsei-game-ds.json](./269781-jinsei-game-ds.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
 | Jinsei Game for Nintendo Switch | 254467 | [254467-jinsei-game-for-nintendo-switch.json](./254467-jinsei-game-for-nintendo-switch.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE | 64178 | [64178-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se.json](./64178-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se.json) |
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE DS | 64177 | [64177-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-ds.json](./64177-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-ds.json) |
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE Portable | 64176 | [64176-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-portable.json](./64176-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-portable.json) |
+| Jissen Pachi-Slot Hisshouhou! Juuou Advance | 49658 | [49658-jissen-pachi-slot-hisshouhou-juuou-advance.json](./49658-jissen-pachi-slot-hisshouhou-juuou-advance.json) |
 | Jissen Pachi-Slot Hisshouhou! King Camel | 82304 | [82304-jissen-pachi-slot-hisshouhou-king-camel.json](./82304-jissen-pachi-slot-hisshouhou-king-camel.json) |
 | Jissen Pachi-Slot Hisshouhou! Mou-juu-oh S | 82302 | [82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json](./82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json) |
 | Jissen Pachi-Slot Hisshouhou! Mr. Magic Neo | 82310 | [82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json](./82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json) |
@@ -3554,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park III: Park Builder | 6483 | [6483-jurassic-park-iii-park-builder.json](./6483-jurassic-park-iii-park-builder.json) |
 | Jurassic Park III: T-Rex Jaw Chomping Action Game | 198789 | [198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json](./198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json) |
 | Jurassic Park III: The DNA Factor | 6481 | [6481-jurassic-park-iii-the-dna-factor.json](./6481-jurassic-park-iii-the-dna-factor.json) |
+| Jurassic Park Institute Tour: Dinosaur Rescue | 49657 | [49657-jurassic-park-institute-tour-dinosaur-rescue.json](./49657-jurassic-park-institute-tour-dinosaur-rescue.json) |
 | Jurassic Park Part 2: The Chaos Continues | 147052 | [147052-jurassic-park-part-2-the-chaos-continues.json](./147052-jurassic-park-part-2-the-chaos-continues.json) |
 | Jurassic Park: Builder | 10531 | [10531-jurassic-park-builder.json](./10531-jurassic-park-builder.json) |
 | Jurassic Park: Rampage Edition | 10678 | [10678-jurassic-park-rampage-edition.json](./10678-jurassic-park-rampage-edition.json) |
