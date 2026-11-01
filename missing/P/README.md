@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Penumbra: Black Plague | 2045 | [2045-penumbra-black-plague.json](./2045-penumbra-black-plague.json) |
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
+| Penumbra: Necrologue | 28487 | [28487-penumbra-necrologue.json](./28487-penumbra-necrologue.json) |
 | Penumbra: Overture | 8944 | [8944-penumbra-overture.json](./8944-penumbra-overture.json) |
 | Penumbra: Overture VR | 410177 | [410177-penumbra-overture-vr.json](./410177-penumbra-overture-vr.json) |
 | Penumbra: Requiem | 8945 | [8945-penumbra-requiem.json](./8945-penumbra-requiem.json) |
@@ -12878,6 +12879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prediction Game | 255019 | [255019-prediction-game.json](./255019-prediction-game.json) |
 | Predictors | 219666 | [219666-predictors.json](./219666-predictors.json) |
 | Predimension | 125047 | [125047-predimension.json](./125047-predimension.json) |
+| Predynastic Egypt | 33003 | [33003-predynastic-egypt.json](./33003-predynastic-egypt.json) |
 | Preekarity | 319653 | [319653-preekarity.json](./319653-preekarity.json) |
 | Pref Club | 80796 | [80796-pref-club.json](./80796-pref-club.json) |
 | Preface: Undiscovered World | 324577 | [324577-preface-undiscovered-world.json](./324577-preface-undiscovered-world.json) |
