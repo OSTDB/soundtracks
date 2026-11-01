@@ -17606,6 +17606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
 | Cube Way 2 | 83155 | [83155-cube-way-2.json](./83155-cube-way-2.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
+| Cube World | 2593 | [2593-cube-world.json](./2593-cube-world.json) |
 | Cube World Omega | 376012 | [376012-cube-world-omega.json](./376012-cube-world-omega.json) |
 | Cube Worlds Survival | 151478 | [151478-cube-worlds-survival.json](./151478-cube-worlds-survival.json) |
 | Cube XL | 91222 | [91222-cube-xl.json](./91222-cube-xl.json) |
