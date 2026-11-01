@@ -5142,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Fatman | 34651 | [34651-the-adventures-of-fatman.json](./34651-the-adventures-of-fatman.json) |
 | The Adventures of Fatman: Intergalactic Indigestion | 170124 | [170124-the-adventures-of-fatman-intergalactic-indigestion.json](./170124-the-adventures-of-fatman-intergalactic-indigestion.json) |
 | The Adventures of Felix Fox: Tale of the Night | 65920 | [65920-the-adventures-of-felix-fox-tale-of-the-night.json](./65920-the-adventures-of-felix-fox-tale-of-the-night.json) |
+| The Adventures of Fluffy | 44283 | [44283-the-adventures-of-fluffy.json](./44283-the-adventures-of-fluffy.json) |
 | The Adventures of Gilligan's Island | 8742 | [8742-the-adventures-of-gilligans-island.json](./8742-the-adventures-of-gilligans-island.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
@@ -9752,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart of Stone | 262563 | [262563-the-heart-of-stone.json](./262563-the-heart-of-stone.json) |
 | The Heart of Tales | 177499 | [177499-the-heart-of-tales.json](./177499-the-heart-of-tales.json) |
 | The Heart of the Earth | 382842 | [382842-the-heart-of-the-earth.json](./382842-the-heart-of-the-earth.json) |
+| The Heart of the Earth | 44272 | [44272-the-heart-of-the-earth.json](./44272-the-heart-of-the-earth.json) |
 | The Heart Pumps Clay | 122891 | [122891-the-heart-pumps-clay.json](./122891-the-heart-pumps-clay.json) |
 | The Heart's Illumination | 134859 | [134859-the-hearts-illumination.json](./134859-the-hearts-illumination.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
@@ -28378,6 +28380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | TrickStyle | 8229 | [8229-trickstyle.json](./8229-trickstyle.json) |
 | TrickStyle Jr. | 227757 | [227757-trickstyle-jr.json](./227757-trickstyle-jr.json) |
+| Tricky | 44319 | [44319-tricky.json](./44319-tricky.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Ball | 102279 | [102279-tricky-ball.json](./102279-tricky-ball.json) |
 | Tricky Brain Story: DOP Puzzle | 223878 | [223878-tricky-brain-story-dop-puzzle.json](./223878-tricky-brain-story-dop-puzzle.json) |
