@@ -2415,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
 | Haunt N Seek: Silent Siren | 296457 | [296457-haunt-n-seek-silent-siren.json](./296457-haunt-n-seek-silent-siren.json) |
 | Haunt or Heist | 291514 | [291514-haunt-or-heist.json](./291514-haunt-or-heist.json) |
+| Haunt the House: Terrortown | 16942 | [16942-haunt-the-house-terrortown.json](./16942-haunt-the-house-terrortown.json) |
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
@@ -11672,6 +11673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth3: V Generation - DLC Pack 2 | 154608 | [154608-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack-2.json](./154608-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - Giant Island | 171374 | [171374-hyperdimension-neptunia-re-birth3-v-generation-giant-island.json](./171374-hyperdimension-neptunia-re-birth3-v-generation-giant-island.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - Mini Island | 170401 | [170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json](./170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json) |
+| Hyperdimension Neptunia U: Action Unleashed | 9870 | [9870-hyperdimension-neptunia-u-action-unleashed.json](./9870-hyperdimension-neptunia-u-action-unleashed.json) |
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia Unlimited | 400492 | [400492-hyperdimension-neptunia-unlimited.json](./400492-hyperdimension-neptunia-unlimited.json) |
 | Hyperdimension Neptunia Victory | 44578 | [44578-hyperdimension-neptunia-victory.json](./44578-hyperdimension-neptunia-victory.json) |
