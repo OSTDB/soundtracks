@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Junk | 274932 | [274932-battle-junk.json](./274932-battle-junk.json) |
 | Battle K-Road | 39561 | [39561-battle-k-road.json](./39561-battle-k-road.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
+| Battle Kid 2: Mountain of Torment | 48370 | [48370-battle-kid-2-mountain-of-torment.json](./48370-battle-kid-2-mountain-of-torment.json) |
 | Battle Kid: Fortress of Peril | 11145 | [11145-battle-kid-fortress-of-peril.json](./11145-battle-kid-fortress-of-peril.json) |
 | Battle Kingdom | 419147 | [419147-battle-kingdom.json](./419147-battle-kingdom.json) |
 | Battle Kitty | 322249 | [322249-battle-kitty.json](./322249-battle-kitty.json) |
@@ -11477,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Squad | 5662 | [5662-bomb-squad.json](./5662-bomb-squad.json) |
 | Bomb Squad Academy | 28012 | [28012-bomb-squad-academy.json](./28012-bomb-squad-academy.json) |
 | Bomb Sweeper | 145222 | [145222-bomb-sweeper.json](./145222-bomb-sweeper.json) |
+| Bomb Sweeper | 48377 | [48377-bomb-sweeper.json](./48377-bomb-sweeper.json) |
 | Bomb Sweeper VR | 187179 | [187179-bomb-sweeper-vr.json](./187179-bomb-sweeper-vr.json) |
 | Bomb Sweeper: Mine Finder | 195936 | [195936-bomb-sweeper-mine-finder.json](./195936-bomb-sweeper-mine-finder.json) |
 | Bomb Sworders | 105678 | [105678-bomb-sworders.json](./105678-bomb-sworders.json) |
