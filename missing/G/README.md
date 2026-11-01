@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Starfire: Squadron | 310033 | [310033-galactic-starfire-squadron.json](./310033-galactic-starfire-squadron.json) |
 | Galactic Starforce | 260332 | [260332-galactic-starforce.json](./260332-galactic-starforce.json) |
 | Galactic Storm | 264082 | [264082-galactic-storm.json](./264082-galactic-storm.json) |
+| Galactic Storm | 31460 | [31460-galactic-storm.json](./31460-galactic-storm.json) |
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
 | Galactic Taz Ball | 23643 | [23643-galactic-taz-ball.json](./23643-galactic-taz-ball.json) |
@@ -1763,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
 | Garden War | 77270 | [77270-garden-war.json](./77270-garden-war.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
+| Garden Wars | 31359 | [31359-garden-wars.json](./31359-garden-wars.json) |
 | Garden Wars | 99328 | [99328-garden-wars.json](./99328-garden-wars.json) |
 | Garden Watering | 234452 | [234452-garden-watering.json](./234452-garden-watering.json) |
 | Garden Weeder | 246334 | [246334-garden-weeder.json](./246334-garden-weeder.json) |
