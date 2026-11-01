@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Motto! Oja Majo Do-Re-Mi - Mahodou Smile Party | 58774 | [58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json](./58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json) |
 | Kids Station: Oja Majo Doremi Dokkan! Maho-dou Eigo Festival | 389454 | [389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json](./389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json) |
 | Kids Station: Soreike! Anpanman | 302606 | [302606-kids-station-soreike-anpanman.json](./302606-kids-station-soreike-anpanman.json) |
+| Kids Station: Soreike! Anpanman 2 - Anpanman to Daibouken! | 56240 | [56240-kids-station-soreike-anpanman-2-anpanman-to-daibouken.json](./56240-kids-station-soreike-anpanman-2-anpanman-to-daibouken.json) |
 | Kids Station: Ultraman Cosmos | 56241 | [56241-kids-station-ultraman-cosmos.json](./56241-kids-station-ultraman-cosmos.json) |
 | Kids Tetris | 202059 | [202059-kids-tetris.json](./202059-kids-tetris.json) |
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Classics Series Arcade Hits | 21395 | [21395-konami-classics-series-arcade-hits.json](./21395-konami-classics-series-arcade-hits.json) |
 | Konami Collector's Series: Arcade Advanced | 6494 | [6494-konami-collectors-series-arcade-advanced.json](./6494-konami-collectors-series-arcade-advanced.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
+| Konami Game Collection Bangai-hen | 56220 | [56220-konami-game-collection-bangai-hen.json](./56220-konami-game-collection-bangai-hen.json) |
 | Konami Game Collection Vol. 1 | 41763 | [41763-konami-game-collection-vol-1.json](./41763-konami-game-collection-vol-1.json) |
 | Konami Game Collection Vol. 2 | 41762 | [41762-konami-game-collection-vol-2.json](./41762-konami-game-collection-vol-2.json) |
 | Konami Game Collection Vol. 3 | 41761 | [41761-konami-game-collection-vol-3.json](./41761-konami-game-collection-vol-3.json) |
@@ -5139,6 +5141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kǒudài Guàishòu Lǜyè Bǎn II | 341937 | [341937-koudai-guaishou-luye-ban-ii.json](./341937-koudai-guaishou-luye-ban-ii.json) |
 | Kǒudài Guàishòu Lǜyè Bǎn III | 341938 | [341938-koudai-guaishou-luye-ban-iii.json](./341938-koudai-guaishou-luye-ban-iii.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
+| Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training | 56214 | [56214-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json](./56214-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json) |
+| Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training 2 | 56215 | [56215-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training-2.json](./56215-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training-2.json) |
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouenji Joshi Soccer 2: Koi wa Nebagiba Kouenji | 115443 | [115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json](./115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json) |
 | Koufuku Sousakan | 183372 | [183372-koufuku-sousakan.json](./183372-koufuku-sousakan.json) |
