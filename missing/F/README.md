@@ -6917,6 +6917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Snooker Game | 161562 | [161562-flash-snooker-game.json](./161562-flash-snooker-game.json) |
 | Flash Splash | 94592 | [94592-flash-splash.json](./94592-flash-splash.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
+| Flashback | 19833 | [19833-flashback.json](./19833-flashback.json) |
 | Flashback | 236148 | [236148-flashback.json](./236148-flashback.json) |
 | Flashback 2 | 146699 | [146699-flashback-2.json](./146699-flashback-2.json) |
 | Flashback 2: Collector's Edition | 283623 | [283623-flashback-2-collectors-edition.json](./283623-flashback-2-collectors-edition.json) |
