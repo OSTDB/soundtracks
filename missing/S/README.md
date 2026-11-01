@@ -6742,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Shifter | 251141 | [251141-shape-shifter.json](./251141-shape-shifter.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shifter | 398276 | [398276-shape-shifter.json](./398276-shape-shifter.json) |
+| Shape Shifter | 44308 | [44308-shape-shifter.json](./44308-shape-shifter.json) |
 | Shape Shifter: Formations | 226625 | [226625-shape-shifter-formations.json](./226625-shape-shifter-formations.json) |
 | Shape Shipper | 249738 | [249738-shape-shipper.json](./249738-shape-shipper.json) |
 | Shape Shipter | 233701 | [233701-shape-shipter.json](./233701-shape-shipter.json) |
@@ -8165,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmups Pack 2x1 | 230129 | [230129-shmups-pack-2x1.json](./230129-shmups-pack-2x1.json) |
 | Shmups Skill Test | 33834 | [33834-shmups-skill-test.json](./33834-shmups-skill-test.json) |
 | ShmupSpeed | 274851 | [274851-shmupspeed.json](./274851-shmupspeed.json) |
+| Shn!p | 44263 | [44263-shn-p.json](./44263-shn-p.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
@@ -12127,7 +12129,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Storm | 81484 | [81484-sled-storm.json](./81484-sled-storm.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sledding Game | 327758 | [327758-sledding-game.json](./327758-sledding-game.json) |
+| Sledge 3D | 44303 | [44303-sledge-3d.json](./44303-sledge-3d.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
+| Sleengster 3 | 44293 | [44293-sleengster-3.json](./44293-sleengster-3.json) |
 | Sleep | 160280 | [160280-sleep.json](./160280-sleep.json) |
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
 | Sleep and Girls | 365272 | [365272-sleep-and-girls.json](./365272-sleep-and-girls.json) |
@@ -17994,7 +17998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23846,6 +23849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Tactics | 61606 | [61606-steam-tactics.json](./61606-steam-tactics.json) |
 | Steam Train Simulator | 328089 | [328089-steam-train-simulator.json](./328089-steam-train-simulator.json) |
 | Steam Veins | 319062 | [319062-steam-veins.json](./319062-steam-veins.json) |
+| Steam-Heart's | 44309 | [44309-steam-hearts.json](./44309-steam-hearts.json) |
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
 | Steam: Rails to Riches | 29429 | [29429-steam-rails-to-riches.json](./29429-steam-rails-to-riches.json) |
 | Steam: Rails to Riches - Belgium & Luxembourg Map | 162706 | [162706-steam-rails-to-riches-belgium-and-luxembourg-map.json](./162706-steam-rails-to-riches-belgium-and-luxembourg-map.json) |
@@ -25748,6 +25752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Collection | 45193 | [45193-street-fighter-collection.json](./45193-street-fighter-collection.json) |
 | Street Fighter Collection 2 | 44911 | [44911-street-fighter-collection-2.json](./44911-street-fighter-collection-2.json) |
 | Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
+| Street Fighter EX Plus | 44276 | [44276-street-fighter-ex-plus.json](./44276-street-fighter-ex-plus.json) |
 | Street Fighter EX plus Alpha | 38297 | [38297-street-fighter-ex-plus-alpha.json](./38297-street-fighter-ex-plus-alpha.json) |
 | Street Fighter EX2 Plus | 44965 | [44965-street-fighter-ex2-plus.json](./44965-street-fighter-ex2-plus.json) |
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
@@ -28353,6 +28358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dangerous Trap | 95727 | [95727-super-dangerous-trap.json](./95727-super-dangerous-trap.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
+| Super Darius | 44307 | [44307-super-darius.json](./44307-super-darius.json) |
 | Super Darius II | 37641 | [37641-super-darius-ii.json](./37641-super-darius-ii.json) |
 | Super Dark Deception | 224549 | [224549-super-dark-deception.json](./224549-super-dark-deception.json) |
 | Super Darling Panic | 358651 | [358651-super-darling-panic.json](./358651-super-darling-panic.json) |
@@ -29892,6 +29898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
 | Super Princess' 2092 Exodus | 305736 | [305736-super-princess-2092-exodus.json](./305736-super-princess-2092-exodus.json) |
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
+| Super Professor | 44275 | [44275-super-professor.json](./44275-super-professor.json) |
 | Super Psycho Baseball | 227421 | [227421-super-psycho-baseball.json](./227421-super-psycho-baseball.json) |
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
@@ -29936,6 +29943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
 | Super Raft Boat Together | 233704 | [233704-super-raft-boat-together.json](./233704-super-raft-boat-together.json) |
 | Super Raft Boat VR | 154881 | [154881-super-raft-boat-vr.json](./154881-super-raft-boat-vr.json) |
+| Super Raiden | 44306 | [44306-super-raiden.json](./44306-super-raiden.json) |
 | Super Ramp Skater | 296006 | [296006-super-ramp-skater.json](./296006-super-ramp-skater.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
@@ -31621,6 +31629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Story: The Apocalypse | 349218 | [349218-survivor-story-the-apocalypse.json](./349218-survivor-story-the-apocalypse.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
 | Survivor Ultimate | 73343 | [73343-survivor-ultimate.json](./73343-survivor-ultimate.json) |
+| Survivor VR | 44266 | [44266-survivor-vr.json](./44266-survivor-vr.json) |
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
 | Survivor: Castaway Island | 258309 | [258309-survivor-castaway-island.json](./258309-survivor-castaway-island.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
