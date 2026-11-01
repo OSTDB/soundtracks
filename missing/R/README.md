@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railworks Class 20 Pack DLC | 93812 | [93812-railworks-class-20-pack-dlc.json](./93812-railworks-class-20-pack-dlc.json) |
 | Railworks Class 45 Pack DLC | 93811 | [93811-railworks-class-45-pack-dlc.json](./93811-railworks-class-45-pack-dlc.json) |
 | Railworks Evening Star DLC | 93810 | [93810-railworks-evening-star-dlc.json](./93810-railworks-evening-star-dlc.json) |
+| Railyard: Match-3 Evolved | 50218 | [50218-railyard-match-3-evolved.json](./50218-railyard-match-3-evolved.json) |
 | Raimais | 98294 | [98294-raimais.json](./98294-raimais.json) |
 | Raimodula | 247463 | [247463-raimodula.json](./247463-raimodula.json) |
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
@@ -6164,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolver | 336748 | [336748-revolver.json](./336748-revolver.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver Gambit | 364986 | [364986-revolver-gambit.json](./364986-revolver-gambit.json) |
+| Revolver reacter | 50243 | [50243-revolver-reacter.json](./50243-revolver-reacter.json) |
 | Revolver roulette | 336697 | [336697-revolver-roulette.json](./336697-revolver-roulette.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Revolver360 Re:Actor | 23439 | [23439-revolver360-re-actor.json](./23439-revolver360-re-actor.json) |
