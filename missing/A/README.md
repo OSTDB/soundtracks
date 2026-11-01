@@ -7242,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternatis: William the Conqueror | 417605 | [417605-alternatis-william-the-conqueror.json](./417605-alternatis-william-the-conqueror.json) |
 | Alternativa | 16031 | [16031-alternativa.json](./16031-alternativa.json) |
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
+| Alternative Girls | 56798 | [56798-alternative-girls.json](./56798-alternative-girls.json) |
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
 | Alternative Shemevolution | 404836 | [404836-alternative-shemevolution.json](./404836-alternative-shemevolution.json) |
 | Alternator: Tactical Stealth Operations | 116881 | [116881-alternator-tactical-stealth-operations.json](./116881-alternator-tactical-stealth-operations.json) |
@@ -16159,6 +16160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Rumble | 408573 | [408573-avatar-rumble.json](./408573-avatar-rumble.json) |
 | Avatar Showdown | 144034 | [144034-avatar-showdown.json](./144034-avatar-showdown.json) |
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
+| Avatar Star | 56797 | [56797-avatar-star.json](./56797-avatar-star.json) |
 | Avatar Superstar | 20120 | [20120-avatar-superstar.json](./20120-avatar-superstar.json) |
 | Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
 | Avatar World | 288155 | [288155-avatar-world.json](./288155-avatar-world.json) |
