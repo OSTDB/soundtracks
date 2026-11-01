@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senkan Nadesico: Ruriruri Mahjong | 281654 | [281654-kidou-senkan-nadesico-ruriruri-mahjong.json](./281654-kidou-senkan-nadesico-ruriruri-mahjong.json) |
 | Kidou Senshi Gundam | 218265 | [218265-kidou-senshi-gundam.json](./218265-kidou-senshi-gundam.json) |
 | Kidou Senshi Gundam 00 | 47870 | [47870-kidou-senshi-gundam-00.json](./47870-kidou-senshi-gundam-00.json) |
+| Kidou Senshi Gundam Extreme VS: Full Boost | 42993 | [42993-kidou-senshi-gundam-extreme-vs-full-boost.json](./42993-kidou-senshi-gundam-extreme-vs-full-boost.json) |
 | Kidou Senshi Gundam F91: Formula Senki 0122 | 67614 | [67614-kidou-senshi-gundam-f91-formula-senki-0122.json](./67614-kidou-senshi-gundam-f91-formula-senki-0122.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
 | Kidou Senshi Gundam Part 1: Gundam Daishi ni Tatsu | 62602 | [62602-kidou-senshi-gundam-part-1-gundam-daishi-ni-tatsu.json](./62602-kidou-senshi-gundam-part-1-gundam-daishi-ni-tatsu.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Instinct: Definitive Edition | 25662 | [25662-killer-instinct-definitive-edition.json](./25662-killer-instinct-definitive-edition.json) |
 | Killer Instinct: Season 3 | 11546 | [11546-killer-instinct-season-3.json](./11546-killer-instinct-season-3.json) |
 | Killer Is Dead | 2940 | [2940-killer-is-dead.json](./2940-killer-is-dead.json) |
+| Killer is Dead: Collector's Edition | 42986 | [42986-killer-is-dead-collectors-edition.json](./42986-killer-is-dead-collectors-edition.json) |
 | Killer Island | 358984 | [358984-killer-island.json](./358984-killer-island.json) |
 | Killer Junkyard | 295894 | [295894-killer-junkyard.json](./295894-killer-junkyard.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
@@ -3150,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts HD 1.5 + 2.5 Remix: Cloud Version | 176090 | [176090-kingdom-hearts-hd-1-5-2-5-remix-cloud-version.json](./176090-kingdom-hearts-hd-1-5-2-5-remix-cloud-version.json) |
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.5 Remix | 7841 | [7841-kingdom-hearts-hd-2-5-remix.json](./7841-kingdom-hearts-hd-2-5-remix.json) |
+| Kingdom Hearts HD 2.5 Remix: Collector's Edition | 42985 | [42985-kingdom-hearts-hd-2-5-remix-collectors-edition.json](./42985-kingdom-hearts-hd-2-5-remix-collectors-edition.json) |
 | Kingdom Hearts HD 2.5 Remix: Limited Edition | 45159 | [45159-kingdom-hearts-hd-2-5-remix-limited-edition.json](./45159-kingdom-hearts-hd-2-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue | 14159 | [14159-kingdom-hearts-hd-2-8-final-chapter-prologue.json](./14159-kingdom-hearts-hd-2-8-final-chapter-prologue.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Cloud Version | 176091 | [176091-kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version.json](./176091-kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version.json) |
