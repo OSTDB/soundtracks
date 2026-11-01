@@ -4297,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
 | Cats on Mars | 178884 | [178884-cats-on-mars.json](./178884-cats-on-mars.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
+| Cats Organized Neatly | 139601 | [139601-cats-organized-neatly.json](./139601-cats-organized-neatly.json) |
 | Cats Puzzle | 231042 | [231042-cats-puzzle.json](./231042-cats-puzzle.json) |
 | Cats Ritual | 359998 | [359998-cats-ritual.json](./359998-cats-ritual.json) |
 | Cats Spotter | 264673 | [264673-cats-spotter.json](./264673-cats-spotter.json) |
@@ -5042,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceteris Paribus | 244136 | [244136-ceteris-paribus.json](./244136-ceteris-paribus.json) |
 | Cetetorius | 121965 | [121965-cetetorius.json](./121965-cetetorius.json) |
 | Ceuswark Defenders | 419201 | [419201-ceuswark-defenders.json](./419201-ceuswark-defenders.json) |
+| Ceville | 8394 | [8394-ceville.json](./8394-ceville.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | CFL Football '99 | 78671 | [78671-cfl-football-99.json](./78671-cfl-football-99.json) |
 | CFS: Chinese Football Simulator | 392087 | [392087-cfs-chinese-football-simulator.json](./392087-cfs-chinese-football-simulator.json) |
@@ -10975,6 +10977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Simulator | 187196 | [187196-colony-simulator.json](./187196-colony-simulator.json) |
 | Colony Strikes Back | 175893 | [175893-colony-strikes-back.json](./175893-colony-strikes-back.json) |
 | Colony Survival | 35371 | [35371-colony-survival.json](./35371-colony-survival.json) |
+| Colony Wars | 8280 | [8280-colony-wars.json](./8280-colony-wars.json) |
 | Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
 | Colony Wars: Red Sun | 8282 | [8282-colony-wars-red-sun.json](./8282-colony-wars-red-sun.json) |
 | Colony Wars: Vengeance | 8281 | [8281-colony-wars-vengeance.json](./8281-colony-wars-vengeance.json) |
@@ -11870,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert 3 - Ultimate Edition | 21205 | [21205-command-and-conquer-red-alert-3-ultimate-edition.json](./21205-command-and-conquer-red-alert-3-ultimate-edition.json) |
 | Command & Conquer: Red Alert 3 - Uprising | 759 | [759-command-and-conquer-red-alert-3-uprising.json](./759-command-and-conquer-red-alert-3-uprising.json) |
 | Command & Conquer: Red Alert Mobile | 77221 | [77221-command-and-conquer-red-alert-mobile.json](./77221-command-and-conquer-red-alert-mobile.json) |
+| Command & Conquer: Red Alert Remastered | 134362 | [134362-command-and-conquer-red-alert-remastered.json](./134362-command-and-conquer-red-alert-remastered.json) |
 | Command & Conquer: Remastered | 128832 | [128832-command-and-conquer-remastered.json](./128832-command-and-conquer-remastered.json) |
 | Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: Sole Survivor | 664 | [664-command-and-conquer-sole-survivor.json](./664-command-and-conquer-sole-survivor.json) |
@@ -18799,6 +18803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Lounge Tycoon | 190401 | [190401-cyber-lounge-tycoon.json](./190401-cyber-lounge-tycoon.json) |
 | Cyber Love Story | 345987 | [345987-cyber-love-story.json](./345987-cyber-love-story.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
+| Cyber Manhunt | 138407 | [138407-cyber-manhunt.json](./138407-cyber-manhunt.json) |
 | Cyber Manhunt 2: New World | 276679 | [276679-cyber-manhunt-2-new-world.json](./276679-cyber-manhunt-2-new-world.json) |
 | Cyber Manhunt: A Company Man of Titan | 211901 | [211901-cyber-manhunt-a-company-man-of-titan.json](./211901-cyber-manhunt-a-company-man-of-titan.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
