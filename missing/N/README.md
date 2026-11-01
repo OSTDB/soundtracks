@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Kouha Kunio-kun: Bangai Rantou-hen | 49075 | [49075-nekketsu-kouha-kunio-kun-bangai-rantou-hen.json](./49075-nekketsu-kouha-kunio-kun-bangai-rantou-hen.json) |
 | Nekketsu Koukou Dodgeball-bu | 191661 | [191661-nekketsu-koukou-dodgeball-bu.json](./191661-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
+| Nekketsu Koukou Dodgeball-bu: CD Soccer-hen | 44305 | [44305-nekketsu-koukou-dodgeball-bu-cd-soccer-hen.json](./44305-nekketsu-koukou-dodgeball-bu-cd-soccer-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: Kyouteki! Dodge Soldier no Maki | 49106 | [49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json](./49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Bangai-hen | 191740 | [191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json](./191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Soccer-hen | 191678 | [191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json](./191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json) |
