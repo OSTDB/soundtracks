@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
 | Last Stand | 143303 | [143303-last-stand.json](./143303-last-stand.json) |
 | Last Stand | 220603 | [220603-last-stand.json](./220603-last-stand.json) |
+| Last Stand | 38664 | [38664-last-stand.json](./38664-last-stand.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand Halloween | 359902 | [359902-last-stand-halloween.json](./359902-last-stand-halloween.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
 | Latest Issue | 329097 | [329097-latest-issue.json](./329097-latest-issue.json) |
 | Latex, Leather, Lipstick, Love, Lust | 340901 | [340901-latex-leather-lipstick-love-lust.json](./340901-latex-leather-lipstick-love-lust.json) |
+| Lathe Safety Simulator | 38635 | [38635-lathe-safety-simulator.json](./38635-lathe-safety-simulator.json) |
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
 | Latin Shadows: The Visitor | 404073 | [404073-latin-shadows-the-visitor.json](./404073-latin-shadows-the-visitor.json) |
 | Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
