@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven and Hell | 273749 | [273749-heaven-and-hell.json](./273749-heaven-and-hell.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Bound | 209866 | [209866-heaven-bound.json](./209866-heaven-bound.json) |
+| Heaven Burns Red | 132099 | [132099-heaven-burns-red.json](./132099-heaven-burns-red.json) |
 | Heaven Does Not Respond | 373598 | [373598-heaven-does-not-respond.json](./373598-heaven-does-not-respond.json) |
 | Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
@@ -4417,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry Stickmin: Escaping the Prison | 140712 | [140712-henry-stickmin-escaping-the-prison.json](./140712-henry-stickmin-escaping-the-prison.json) |
 | Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
 | Henry Stickmin: Infiltrating the Airship | 145663 | [145663-henry-stickmin-infiltrating-the-airship.json](./145663-henry-stickmin-infiltrating-the-airship.json) |
+| Henry Stickmin: Stealing the Diamond | 142016 | [142016-henry-stickmin-stealing-the-diamond.json](./142016-henry-stickmin-stealing-the-diamond.json) |
 | Henry the Hamster Handler VR | 101187 | [101187-henry-the-hamster-handler-vr.json](./101187-henry-the-hamster-handler-vr.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
@@ -6006,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexburg | 277743 | [277743-hexburg.json](./277743-hexburg.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
 | Hexcavator | 333029 | [333029-hexcavator.json](./333029-hexcavator.json) |
+| Hexceed | 141674 | [141674-hexceed.json](./141674-hexceed.json) |
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
 | hexceed: Animo | 155694 | [155694-hexceed-animo.json](./155694-hexceed-animo.json) |
 | Hexceed: Aquila | 397882 | [397882-hexceed-aquila.json](./397882-hexceed-aquila.json) |
