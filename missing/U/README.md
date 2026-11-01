@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfound Footage | 347743 | [347743-unfound-footage.json](./347743-unfound-footage.json) |
 | Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
 | Unga Needs Mumba | 327668 | [327668-unga-needs-mumba.json](./327668-unga-needs-mumba.json) |
+| Ungaria | 62396 | [62396-ungaria.json](./62396-ungaria.json) |
 | Ungodly | 375516 | [375516-ungodly.json](./375516-ungodly.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
 | Ungrateful Birds: Call of the Desert | 231335 | [231335-ungrateful-birds-call-of-the-desert.json](./231335-ungrateful-birds-call-of-the-desert.json) |
