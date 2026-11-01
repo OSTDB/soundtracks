@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Lesson | 266085 | [266085-last-lesson.json](./266085-last-lesson.json) |
 | Last Life | 253328 | [253328-last-life.json](./253328-last-life.json) |
+| Last Life | 58430 | [58430-last-life.json](./58430-last-life.json) |
 | Last Light | 163779 | [163779-last-light.json](./163779-last-light.json) |
 | Last Light Left | 395470 | [395470-last-light-left.json](./395470-last-light-left.json) |
 | Last Line | 179468 | [179468-last-line.json](./179468-last-line.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
 | Legend Hunters | 248830 | [248830-legend-hunters.json](./248830-legend-hunters.json) |
 | Legend Knight | 95170 | [95170-legend-knight.json](./95170-legend-knight.json) |
+| Legend Maker | 58447 | [58447-legend-maker.json](./58447-legend-maker.json) |
 | Legend of a Soul Hunter | 201531 | [201531-legend-of-a-soul-hunter.json](./201531-legend-of-a-soul-hunter.json) |
 | Legend of a Volcano | 202116 | [202116-legend-of-a-volcano.json](./202116-legend-of-a-volcano.json) |
 | Legend of Ace | 124624 | [124624-legend-of-ace.json](./124624-legend-of-ace.json) |
