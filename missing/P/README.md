@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
 | Pac-Man Party 3D | 21723 | [21723-pac-man-party-3d.json](./21723-pac-man-party-3d.json) |
 | Pac-Man Pinball Advance | 6529 | [6529-pac-man-pinball-advance.json](./6529-pac-man-pinball-advance.json) |
+| Pac-Man Pizza Parlor | 25373 | [25373-pac-man-pizza-parlor.json](./25373-pac-man-pizza-parlor.json) |
 | Pac-Man Power Pack | 145384 | [145384-pac-man-power-pack.json](./145384-pac-man-power-pack.json) |
 | Pac-Man Remix | 21853 | [21853-pac-man-remix.json](./21853-pac-man-remix.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
@@ -5027,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh's Ascent | 73633 | [73633-pharaohs-ascent.json](./73633-pharaohs-ascent.json) |
 | Pharaoh's Challenge | 146572 | [146572-pharaohs-challenge.json](./146572-pharaohs-challenge.json) |
 | Pharaoh's Curse | 40659 | [40659-pharaohs-curse.json](./40659-pharaohs-curse.json) |
+| Pharaoh's Mystery | 25390 | [25390-pharaohs-mystery.json](./25390-pharaohs-mystery.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
 | Pharaoh's Riches | 319309 | [319309-pharaohs-riches.json](./319309-pharaohs-riches.json) |
@@ -8466,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Diver | 34069 | [34069-planet-diver.json](./34069-planet-diver.json) |
 | Planet Divers | 307633 | [307633-planet-divers.json](./307633-planet-divers.json) |
 | Planet DOB | 93917 | [93917-planet-dob.json](./93917-planet-dob.json) |
+| Planet Driller | 25363 | [25363-planet-driller.json](./25363-planet-driller.json) |
 | Planet Dysphoria | 181744 | [181744-planet-dysphoria.json](./181744-planet-dysphoria.json) |
 | Planet Ennea | 229653 | [229653-planet-ennea.json](./229653-planet-ennea.json) |
 | Planet Express | 177773 | [177773-planet-express.json](./177773-planet-express.json) |
@@ -9356,6 +9359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumbers Don't Wear Ties: Definitive Edition | 203765 | [203765-plumbers-dont-wear-ties-definitive-edition.json](./203765-plumbers-dont-wear-ties-definitive-edition.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plumbing Contest | 230836 | [230836-plumbing-contest.json](./230836-plumbing-contest.json) |
+| Plumeboom First Chapter | 25374 | [25374-plumeboom-first-chapter.json](./25374-plumeboom-first-chapter.json) |
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
 | Plummet Challenge Game | 214519 | [214519-plummet-challenge-game.json](./214519-plummet-challenge-game.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
@@ -11427,6 +11431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Dash | 87901 | [87901-pony-dash.json](./87901-pony-dash.json) |
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
 | Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
+| Pony Friends 2 | 25385 | [25385-pony-friends-2.json](./25385-pony-friends-2.json) |
 | Pony Friends 2 | 51022 | [51022-pony-friends-2.json](./51022-pony-friends-2.json) |
 | Pony Friends: Mini Breeds Edition | 68937 | [68937-pony-friends-mini-breeds-edition.json](./68937-pony-friends-mini-breeds-edition.json) |
 | Pony Girls Horse Care Resort | 102530 | [102530-pony-girls-horse-care-resort.json](./102530-pony-girls-horse-care-resort.json) |
@@ -11532,6 +11537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Pro | 246384 | [246384-pool-pro.json](./246384-pool-pro.json) |
 | Pool Pro 2022 | 275611 | [275611-pool-pro-2022.json](./275611-pool-pro-2022.json) |
 | Pool Pro Gold | 147914 | [147914-pool-pro-gold.json](./147914-pool-pro-gold.json) |
+| Pool Pro Online 3 | 25371 | [25371-pool-pro-online-3.json](./25371-pool-pro-online-3.json) |
 | Pool Protocol: Loop | 346456 | [346456-pool-protocol-loop.json](./346456-pool-protocol-loop.json) |
 | Pool Quiz | 246477 | [246477-pool-quiz.json](./246477-pool-quiz.json) |
 | Pool Revolution: Cue Sports | 70649 | [70649-pool-revolution-cue-sports.json](./70649-pool-revolution-cue-sports.json) |
