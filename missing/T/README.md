@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Brigade | 40617 | [40617-tank-brigade.json](./40617-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
+| Tank Busters | 40485 | [40485-tank-busters.json](./40485-tank-busters.json) |
 | Tank Cafe | 272703 | [272703-tank-cafe.json](./272703-tank-cafe.json) |
 | Tank Carnage | 28037 | [28037-tank-carnage.json](./28037-tank-carnage.json) |
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
 | Target Gear | 395989 | [395989-target-gear.json](./395989-target-gear.json) |
 | Target Gear Alga 2nd | 395992 | [395992-target-gear-alga-2nd.json](./395992-target-gear-alga-2nd.json) |
+| Target Hits | 40484 | [40484-target-hits.json](./40484-target-hits.json) |
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
 | Target Party | 254302 | [254302-target-party.json](./254302-target-party.json) |
 | Target Pinball | 307399 | [307399-target-pinball.json](./307399-target-pinball.json) |
@@ -2608,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Chaos | 140701 | [140701-taxi-chaos.json](./140701-taxi-chaos.json) |
 | Taxi City | 127917 | [127917-taxi-city.json](./127917-taxi-city.json) |
 | Taxi Crew Simulator | 418319 | [418319-taxi-crew-simulator.json](./418319-taxi-crew-simulator.json) |
+| Taxi Driver | 40483 | [40483-taxi-driver.json](./40483-taxi-driver.json) |
 | Taxi Driver | 91672 | [91672-taxi-driver.json](./91672-taxi-driver.json) |
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
@@ -3098,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
 | Tee Time | 206227 | [206227-tee-time.json](./206227-tee-time.json) |
 | Tee-riffic Golf. | 180775 | [180775-tee-riffic-golf.json](./180775-tee-riffic-golf.json) |
+| Tee'd Off | 40482 | [40482-teed-off.json](./40482-teed-off.json) |
 | TeeDee | 327390 | [327390-teedee.json](./327390-teedee.json) |
 | TEEFAX: Cold Case | 289442 | [289442-teefax-cold-case.json](./289442-teefax-cold-case.json) |
 | TeeJay RPG | 55995 | [55995-teejay-rpg.json](./55995-teejay-rpg.json) |
@@ -24236,6 +24240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Detective 3 | 222362 | [222362-touch-detective-3.json](./222362-touch-detective-3.json) |
 | Touch Detective 3 + The Complete Case Files | 222231 | [222231-touch-detective-3-the-complete-case-files.json](./222231-touch-detective-3-the-complete-case-files.json) |
 | Touch Dic | 72586 | [72586-touch-dic.json](./72586-touch-dic.json) |
+| Touch Down Fever | 40503 | [40503-touch-down-fever.json](./40503-touch-down-fever.json) |
 | Touch Down Football Solitaire | 108077 | [108077-touch-down-football-solitaire.json](./108077-touch-down-football-solitaire.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
 | Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
@@ -24735,6 +24740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Pool | 396580 | [396580-tournament-pool.json](./396580-tournament-pool.json) |
 | Tournament Pool | 51162 | [51162-tournament-pool.json](./51162-tournament-pool.json) |
 | Tournament Pro Golf | 249093 | [249093-tournament-pro-golf.json](./249093-tournament-pro-golf.json) |
+| Tournament Table | 40502 | [40502-tournament-table.json](./40502-tournament-table.json) |
 | Tournament Tennis | 40904 | [40904-tournament-tennis.json](./40904-tournament-tennis.json) |
 | Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
@@ -27391,6 +27397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
 | Transference | 37064 | [37064-transference.json](./37064-transference.json) |
 | Transformation Tycoon | 192646 | [192646-transformation-tycoon.json](./192646-transformation-tycoon.json) |
+| Transformer | 40500 | [40500-transformer.json](./40500-transformer.json) |
 | Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
 | Transformers Age of Extinction | 38969 | [38969-transformers-age-of-extinction.json](./38969-transformers-age-of-extinction.json) |
 | Transformers Animated: The Game | 47846 | [47846-transformers-animated-the-game.json](./47846-transformers-animated-the-game.json) |
@@ -28407,6 +28414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Challenge 2 | 90839 | [90839-tricky-challenge-2.json](./90839-tricky-challenge-2.json) |
 | Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
 | Tricky Cow | 286753 | [286753-tricky-cow.json](./286753-tricky-cow.json) |
+| Tricky Doc | 40498 | [40498-tricky-doc.json](./40498-tricky-doc.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
 | Tricky Fox | 368262 | [368262-tricky-fox.json](./368262-tricky-fox.json) |
 | Tricky Gems | 264221 | [264221-tricky-gems.json](./264221-tricky-gems.json) |
@@ -28625,6 +28633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Dungeon | 157476 | [157476-triple-dungeon.json](./157476-triple-dungeon.json) |
 | Triple Fantasy | 186402 | [186402-triple-fantasy.json](./186402-triple-fantasy.json) |
 | Triple Header Sports | 220127 | [220127-triple-header-sports.json](./220127-triple-header-sports.json) |
+| Triple Hunt | 40497 | [40497-triple-hunt.json](./40497-triple-hunt.json) |
 | Triple Jump | 183352 | [183352-triple-jump.json](./183352-triple-jump.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
@@ -28918,6 +28927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Hunt: Evolution | 97161 | [97161-trophy-hunt-evolution.json](./97161-trophy-hunt-evolution.json) |
 | Trophy Hunter 2003 | 72532 | [72532-trophy-hunter-2003.json](./72532-trophy-hunter-2003.json) |
+| Trophy Hunting | 40496 | [40496-trophy-hunting.json](./40496-trophy-hunting.json) |
 | Trophy Knight | 219527 | [219527-trophy-knight.json](./219527-trophy-knight.json) |
 | Trophy Trout | 43150 | [43150-trophy-trout.json](./43150-trophy-trout.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
@@ -29706,6 +29716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuff E Nuff | 46006 | [46006-tuff-e-nuff.json](./46006-tuff-e-nuff.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuffy the Corgi and the Tower of Bones | 61402 | [61402-tuffy-the-corgi-and-the-tower-of-bones.json](./61402-tuffy-the-corgi-and-the-tower-of-bones.json) |
+| Tug Boat | 40495 | [40495-tug-boat.json](./40495-tug-boat.json) |
 | Tug of War A | 354371 | [354371-tug-of-war-a.json](./354371-tug-of-war-a.json) |
 | Tug of War B | 354375 | [354375-tug-of-war-b.json](./354375-tug-of-war-b.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
@@ -29943,6 +29954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Sprint Racing | 248850 | [248850-turbo-sprint-racing.json](./248850-turbo-sprint-racing.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
+| Turbo Tag | 40494 | [40494-turbo-tag.json](./40494-turbo-tag.json) |
 | Turbo Tails | 264537 | [264537-turbo-tails.json](./264537-turbo-tails.json) |
 | Turbo Tanks | 136657 | [136657-turbo-tanks.json](./136657-turbo-tanks.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
@@ -30396,6 +30408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Edge | 196961 | [196961-twin-edge.json](./196961-twin-edge.json) |
+| Twin Falcons | 40492 | [40492-twin-falcons.json](./40492-twin-falcons.json) |
 | Twin Fighters X | 358652 | [358652-twin-fighters-x.json](./358652-twin-fighters-x.json) |
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
@@ -30419,6 +30432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
 | Twin Peaks - Black Lodge 2600 | 50369 | [50369-twin-peaks-black-lodge-2600.json](./50369-twin-peaks-black-lodge-2600.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
+| Twin Qix | 40491 | [40491-twin-qix.json](./40491-twin-qix.json) |
 | Twin Roads | 43176 | [43176-twin-roads.json](./43176-twin-roads.json) |
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
@@ -30440,6 +30454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Souls | 395344 | [395344-twin-souls.json](./395344-twin-souls.json) |
 | Twin Souls: The Path of Shadows | 110233 | [110233-twin-souls-the-path-of-shadows.json](./110233-twin-souls-the-path-of-shadows.json) |
+| Twin Squash | 40490 | [40490-twin-squash.json](./40490-twin-squash.json) |
 | Twin Stick | 278345 | [278345-twin-stick.json](./278345-twin-stick.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Stick Heroes 2 | 240632 | [240632-twin-stick-heroes-2.json](./240632-twin-stick-heroes-2.json) |
