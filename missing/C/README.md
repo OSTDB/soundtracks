@@ -13285,6 +13285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
 | Cool army games for kids 6 year old and under boys | 100049 | [100049-cool-army-games-for-kids-6-year-old-and-under-boys.json](./100049-cool-army-games-for-kids-6-year-old-and-under-boys.json) |
 | Cool Ball | 92263 | [92263-cool-ball.json](./92263-cool-ball.json) |
+| Cool Boarders | 20728 | [20728-cool-boarders.json](./20728-cool-boarders.json) |
 | Cool Boarders 2001 | 26135 | [26135-cool-boarders-2001.json](./26135-cool-boarders-2001.json) |
 | Cool Boarders 3 | 26130 | [26130-cool-boarders-3.json](./26130-cool-boarders-3.json) |
 | Cool Boarders 4 | 26131 | [26131-cool-boarders-4.json](./26131-cool-boarders-4.json) |
@@ -15480,6 +15481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines 2: Liquid Force Add-on | 164375 | [164375-crazy-machines-2-liquid-force-add-on.json](./164375-crazy-machines-2-liquid-force-add-on.json) |
 | Crazy Machines 2: Pirates | 164370 | [164370-crazy-machines-2-pirates.json](./164370-crazy-machines-2-pirates.json) |
 | Crazy Machines 2: Time Travel Add-On | 164374 | [164374-crazy-machines-2-time-travel-add-on.json](./164374-crazy-machines-2-time-travel-add-on.json) |
+| Crazy Machines 3 | 19291 | [19291-crazy-machines-3.json](./19291-crazy-machines-3.json) |
 | Crazy Machines VR | 111042 | [111042-crazy-machines-vr.json](./111042-crazy-machines-vr.json) |
 | Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
 | Crazy Mafioso | 169839 | [169839-crazy-mafioso.json](./169839-crazy-mafioso.json) |
