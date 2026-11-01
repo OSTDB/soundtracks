@@ -9974,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing of Heroes: Boys' Side | 180406 | [180406-romancing-of-heroes-boys-side.json](./180406-romancing-of-heroes-boys-side.json) |
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
+| Romancing SaGa 3 | 11313 | [11313-romancing-saga-3.json](./11313-romancing-saga-3.json) |
 | Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
 | Romancing SaGa: Minstrel Song Remastered | 203315 | [203315-romancing-saga-minstrel-song-remastered.json](./203315-romancing-saga-minstrel-song-remastered.json) |
 | Romancing SaGa: Minstrel Song Remastered International Special Edition | 391997 | [391997-romancing-saga-minstrel-song-remastered-international-special-edition.json](./391997-romancing-saga-minstrel-song-remastered-international-special-edition.json) |
