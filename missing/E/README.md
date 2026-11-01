@@ -4126,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Baseball | 79506 | [79506-epic-baseball.json](./79506-epic-baseball.json) |
 | Epic Battle Dude | 62724 | [62724-epic-battle-dude.json](./62724-epic-battle-dude.json) |
 | Epic Battle Fantasy 4 | 16867 | [16867-epic-battle-fantasy-4.json](./16867-epic-battle-fantasy-4.json) |
+| Epic Battle Fantasy 5 | 108297 | [108297-epic-battle-fantasy-5.json](./108297-epic-battle-fantasy-5.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
 | Epic Battle Simulator | 99694 | [99694-epic-battle-simulator.json](./99694-epic-battle-simulator.json) |
@@ -6041,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
 | Europa Universalis V: Fate of the Phoenix | 408150 | [408150-europa-universalis-v-fate-of-the-phoenix.json](./408150-europa-universalis-v-fate-of-the-phoenix.json) |
 | Europa Universalis: Crown of the North | 24092 | [24092-europa-universalis-crown-of-the-north.json](./24092-europa-universalis-crown-of-the-north.json) |
+| Europa Universalis: Rome | 10285 | [10285-europa-universalis-rome.json](./10285-europa-universalis-rome.json) |
 | Europa Universalis: Rome - Gold Edition | 27829 | [27829-europa-universalis-rome-gold-edition.json](./27829-europa-universalis-rome-gold-edition.json) |
 | Europe 1300 | 9670 | [9670-europe-1300.json](./9670-europe-1300.json) |
 | Europe 2041: Resistance | 297094 | [297094-europe-2041-resistance.json](./297094-europe-2041-resistance.json) |
@@ -6427,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Underfoot | 67713 | [67713-everquest-underfoot.json](./67713-everquest-underfoot.json) |
 | EverQuest: Veil of Alaris | 65851 | [65851-everquest-veil-of-alaris.json](./65851-everquest-veil-of-alaris.json) |
 | EverRail | 382172 | [382172-everrail.json](./382172-everrail.json) |
+| Everreach: Project Eden | 105551 | [105551-everreach-project-eden.json](./105551-everreach-project-eden.json) |
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
@@ -6819,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
 | Evolution: The World of Sacred Device | 23132 | [23132-evolution-the-world-of-sacred-device.json](./23132-evolution-the-world-of-sacred-device.json) |
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
+| Evolva | 10911 | [10911-evolva.json](./10911-evolva.json) |
 | Evolvation | 31834 | [31834-evolvation.json](./31834-evolvation.json) |
 | Evolve | 3770 | [3770-evolve.json](./3770-evolve.json) |
 | Evolve Hunters Quest | 21626 | [21626-evolve-hunters-quest.json](./21626-evolve-hunters-quest.json) |
