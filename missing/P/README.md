@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Game Box 100 | 268401 | [268401-party-game-box-100.json](./268401-party-game-box-100.json) |
 | Party Games | 296237 | [296237-party-games.json](./296237-party-games.json) |
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
+| Party Girls | 43629 | [43629-party-girls.json](./43629-party-girls.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
 | Party Hard | 12070 | [12070-party-hard.json](./12070-party-hard.json) |
 | Party Hard 2: Collector's Edition | 237866 | [237866-party-hard-2-collectors-edition.json](./237866-party-hard-2-collectors-edition.json) |
