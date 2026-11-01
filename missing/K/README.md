@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4497,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Known Unknowns | 139309 | [139309-known-unknowns.json](./139309-known-unknowns.json) |
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
 | Knuckle Bash | 39370 | [39370-knuckle-bash.json](./39370-knuckle-bash.json) |
+| Knuckle Busters | 36658 | [36658-knuckle-busters.json](./36658-knuckle-busters.json) |
 | Knuckle Creek | 408543 | [408543-knuckle-creek.json](./408543-knuckle-creek.json) |
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
@@ -5864,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kvark | 244262 | [244262-kvark.json](./244262-kvark.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwad | 408730 | [408730-kwad.json](./408730-kwad.json) |
+| Kwah! | 36685 | [36685-kwah.json](./36685-kwah.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
 | Kwari | 21544 | [21544-kwari.json](./21544-kwari.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
