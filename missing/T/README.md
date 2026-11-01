@@ -2541,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatsunoko vs. Capcom: Ultimate All Stars | 2275 | [2275-tatsunoko-vs-capcom-ultimate-all-stars.json](./2275-tatsunoko-vs-capcom-ultimate-all-stars.json) |
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
 | Tatters of The King | 387710 | [387710-tatters-of-the-king.json](./387710-tatters-of-the-king.json) |
+| Tattletail | 26665 | [26665-tattletail.json](./26665-tattletail.json) |
 | Tattoo Artist 2: Full Timer | 331457 | [331457-tattoo-artist-2-full-timer.json](./331457-tattoo-artist-2-full-timer.json) |
 | Tattoo Artist 3: On The Job | 331459 | [331459-tattoo-artist-3-on-the-job.json](./331459-tattoo-artist-3-on-the-job.json) |
 | Tattoo Assassins | 39563 | [39563-tattoo-assassins.json](./39563-tattoo-assassins.json) |
@@ -4889,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Hole-in-the-Wall Place | 215234 | [215234-that-hole-in-the-wall-place.json](./215234-that-hole-in-the-wall-place.json) |
 | That Last Girl | 236957 | [236957-that-last-girl.json](./236957-that-last-girl.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
+| That Level Again | 113962 | [113962-that-level-again.json](./113962-that-level-again.json) |
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
@@ -8143,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Deadlands | 180605 | [180605-the-elder-scrolls-online-deadlands.json](./180605-the-elder-scrolls-online-deadlands.json) |
 | The Elder Scrolls Online: Deluxe Collection - Gold Road | 306481 | [306481-the-elder-scrolls-online-deluxe-collection-gold-road.json](./306481-the-elder-scrolls-online-deluxe-collection-gold-road.json) |
 | The Elder Scrolls Online: Dragonhold | 119327 | [119327-the-elder-scrolls-online-dragonhold.json](./119327-the-elder-scrolls-online-dragonhold.json) |
+| The Elder Scrolls Online: Elsweyr | 113996 | [113996-the-elder-scrolls-online-elsweyr.json](./113996-the-elder-scrolls-online-elsweyr.json) |
 | The Elder Scrolls Online: Elsweyr - Collector's Edition | 118908 | [118908-the-elder-scrolls-online-elsweyr-collectors-edition.json](./118908-the-elder-scrolls-online-elsweyr-collectors-edition.json) |
 | The Elder Scrolls Online: Fallen Banners | 335415 | [335415-the-elder-scrolls-online-fallen-banners.json](./335415-the-elder-scrolls-online-fallen-banners.json) |
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
@@ -9617,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great One Hand Challenge | 98574 | [98574-the-great-one-hand-challenge.json](./98574-the-great-one-hand-challenge.json) |
 | The Great Order | 184941 | [184941-the-great-order.json](./184941-the-great-order.json) |
 | The Great Palermo | 146002 | [146002-the-great-palermo.json](./146002-the-great-palermo.json) |
+| The Great Perhaps | 116497 | [116497-the-great-perhaps.json](./116497-the-great-perhaps.json) |
 | The Great Pickle Adventure | 157833 | [157833-the-great-pickle-adventure.json](./157833-the-great-pickle-adventure.json) |
 | The Great Plague Exodus | 149158 | [149158-the-great-plague-exodus.json](./149158-the-great-plague-exodus.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
@@ -15368,12 +15372,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
 | The Sims 3: Fast Lane Stuff | 13118 | [13118-the-sims-3-fast-lane-stuff.json](./13118-the-sims-3-fast-lane-stuff.json) |
 | The Sims 3: Generations | 10981 | [10981-the-sims-3-generations.json](./10981-the-sims-3-generations.json) |
+| The Sims 3: Hidden Springs | 14564 | [14564-the-sims-3-hidden-springs.json](./14564-the-sims-3-hidden-springs.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
 | The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
 | The Sims 3: Lucky Palms | 14577 | [14577-the-sims-3-lucky-palms.json](./14577-the-sims-3-lucky-palms.json) |
 | The Sims 3: Lunar Lakes | 14573 | [14573-the-sims-3-lunar-lakes.json](./14573-the-sims-3-lunar-lakes.json) |
 | The Sims 3: Midnight Hollow | 14584 | [14584-the-sims-3-midnight-hollow.json](./14584-the-sims-3-midnight-hollow.json) |
+| The Sims 3: Monte Vista | 14582 | [14582-the-sims-3-monte-vista.json](./14582-the-sims-3-monte-vista.json) |
 | The Sims 3: Movie Stuff | 13125 | [13125-the-sims-3-movie-stuff.json](./13125-the-sims-3-movie-stuff.json) |
 | The Sims 3: Outdoor Living Stuff | 13119 | [13119-the-sims-3-outdoor-living-stuff.json](./13119-the-sims-3-outdoor-living-stuff.json) |
 | The Sims 3: Pets | 13113 | [13113-the-sims-3-pets.json](./13113-the-sims-3-pets.json) |
@@ -17040,6 +17046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undercroft 12 | 177734 | [177734-the-undercroft-12.json](./177734-the-undercroft-12.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
 | The Underdog Tycoon | 366121 | [366121-the-underdog-tycoon.json](./366121-the-underdog-tycoon.json) |
+| The UnderGarden | 14848 | [14848-the-undergarden.json](./14848-the-undergarden.json) |
 | The Underground Explorer | 181495 | [181495-the-underground-explorer.json](./181495-the-underground-explorer.json) |
 | The Underground King | 118843 | [118843-the-underground-king.json](./118843-the-underground-king.json) |
 | The Underground Man | 23583 | [23583-the-underground-man.json](./23583-the-underground-man.json) |
@@ -17377,6 +17384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Final Season - Episode 1: Done Running | 107114 | [107114-the-walking-dead-the-final-season-episode-1-done-running.json](./107114-the-walking-dead-the-final-season-episode-1-done-running.json) |
 | The Walking Dead: The Final Season - Episode 2: Suffer the Children | 110328 | [110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json](./110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json) |
 | The Walking Dead: The Final Season - Episode 3: Broken Toys | 113295 | [113295-the-walking-dead-the-final-season-episode-3-broken-toys.json](./113295-the-walking-dead-the-final-season-episode-3-broken-toys.json) |
+| The Walking Dead: The Final Season - Episode 4: Take Us Back | 114209 | [114209-the-walking-dead-the-final-season-episode-4-take-us-back.json](./114209-the-walking-dead-the-final-season-episode-4-take-us-back.json) |
 | The Walking Dead: The Telltale Definitive Series | 117514 | [117514-the-walking-dead-the-telltale-definitive-series.json](./117514-the-walking-dead-the-telltale-definitive-series.json) |
 | The Walking Dead: The Telltale Definitive Series - Guardian Pack | 117678 | [117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json](./117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
@@ -25347,6 +25355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerFall | 109281 | [109281-towerfall.json](./109281-towerfall.json) |
 | Towerfall 8-Player | 133331 | [133331-towerfall-8-player.json](./133331-towerfall-8-player.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
+| Towerfall Ascension: Dark World | 14724 | [14724-towerfall-ascension-dark-world.json](./14724-towerfall-ascension-dark-world.json) |
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
 | Towerful | 259517 | [259517-towerful.json](./259517-towerful.json) |
 | Towerful Defense | 315661 | [315661-towerful-defense.json](./315661-towerful-defense.json) |
