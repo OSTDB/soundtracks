@@ -4653,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interstate Drifter 1999 | 141776 | [141776-interstate-drifter-1999.json](./141776-interstate-drifter-1999.json) |
 | Interstate Drifter 1999: Hyperdrive | 296936 | [296936-interstate-drifter-1999-hyperdrive.json](./296936-interstate-drifter-1999-hyperdrive.json) |
+| Interstellar | 24505 | [24505-interstellar.json](./24505-interstellar.json) |
 | Interstellar Airgap | 175641 | [175641-interstellar-airgap.json](./175641-interstellar-airgap.json) |
 | Interstellar Connection | 183013 | [183013-interstellar-connection.json](./183013-interstellar-connection.json) |
 | Interstellar Conquest | 238582 | [238582-interstellar-conquest.json](./238582-interstellar-conquest.json) |
