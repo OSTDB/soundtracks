@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
 | Darkspyre | 50453 | [50453-darkspyre.json](./50453-darkspyre.json) |
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
+| Darkstalkers: The Night Warriors | 20009 | [20009-darkstalkers-the-night-warriors.json](./20009-darkstalkers-the-night-warriors.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | DarkStar One: Broken Alliance | 20414 | [20414-darkstar-one-broken-alliance.json](./20414-darkstar-one-broken-alliance.json) |
 | DarkStar One: Nintendo Switch Edition | 301101 | [301101-darkstar-one-nintendo-switch-edition.json](./301101-darkstar-one-nintendo-switch-edition.json) |
@@ -3633,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Space: Deluxe Edition | 222945 | [222945-dead-space-deluxe-edition.json](./222945-dead-space-deluxe-edition.json) |
 | Dead Space: Digital Deluxe Edition | 227398 | [227398-dead-space-digital-deluxe-edition.json](./227398-dead-space-digital-deluxe-edition.json) |
+| Dead Space: Extraction | 985 | [985-dead-space-extraction.json](./985-dead-space-extraction.json) |
 | Dead Space: Flash | 315227 | [315227-dead-space-flash.json](./315227-dead-space-flash.json) |
 | Dead Space: Ignition | 20450 | [20450-dead-space-ignition.json](./20450-dead-space-ignition.json) |
 | Dead Spaceshot | 332919 | [332919-dead-spaceshot.json](./332919-dead-spaceshot.json) |
@@ -6958,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Revenant | 319116 | [319116-destiny-2-revenant.json](./319116-destiny-2-revenant.json) |
 | Destiny 2: Revenant Silver Bundle | 326684 | [326684-destiny-2-revenant-silver-bundle.json](./326684-destiny-2-revenant-silver-bundle.json) |
 | Destiny 2: Season of the Splicer Silver Bundle | 147893 | [147893-destiny-2-season-of-the-splicer-silver-bundle.json](./147893-destiny-2-season-of-the-splicer-silver-bundle.json) |
+| Destiny 2: Shadowkeep | 119507 | [119507-destiny-2-shadowkeep.json](./119507-destiny-2-shadowkeep.json) |
 | Destiny 2: Shadowkeep - Digital Deluxe Edition | 122719 | [122719-destiny-2-shadowkeep-digital-deluxe-edition.json](./122719-destiny-2-shadowkeep-digital-deluxe-edition.json) |
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
@@ -11827,6 +11830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong II | 305302 | [305302-donkey-kong-ii.json](./305302-donkey-kong-ii.json) |
 | Donkey Kong II | 367846 | [367846-donkey-kong-ii.json](./367846-donkey-kong-ii.json) |
 | Donkey Kong Jr. | 175637 | [175637-donkey-kong-jr.json](./175637-donkey-kong-jr.json) |
+| Donkey Kong Jr. | 178166 | [178166-donkey-kong-jr.json](./178166-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 200535 | [200535-donkey-kong-jr.json](./200535-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 231742 | [231742-donkey-kong-jr.json](./231742-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 231743 | [231743-donkey-kong-jr.json](./231743-donkey-kong-jr.json) |
