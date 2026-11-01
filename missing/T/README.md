@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temirana: The Lucky Princess and the Tragic Knights | 200452 | [200452-temirana-the-lucky-princess-and-the-tragic-knights.json](./200452-temirana-the-lucky-princess-and-the-tragic-knights.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
+| Temper Tantrum | 13377 | [13377-temper-tantrum.json](./13377-temper-tantrum.json) |
 | Temperature Adjustment Log #1587325 | 186624 | [186624-temperature-adjustment-log-1587325.json](./186624-temperature-adjustment-log-1587325.json) |
 | Tempered Hue | 361260 | [361260-tempered-hue.json](./361260-tempered-hue.json) |
 | Temperia: Soul of Majestic | 182127 | [182127-temperia-soul-of-majestic.json](./182127-temperia-soul-of-majestic.json) |
@@ -5955,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beginning of the End: Part 2 | 263390 | [263390-the-beginning-of-the-end-part-2.json](./263390-the-beginning-of-the-end-part-2.json) |
 | The Bell | 120254 | [120254-the-bell.json](./120254-the-bell.json) |
 | The Bell Echoes | 304655 | [304655-the-bell-echoes.json](./304655-the-bell-echoes.json) |
+| The Bells | 13392 | [13392-the-bells.json](./13392-the-bells.json) |
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
 | The Bender of Destiny | 128829 | [128829-the-bender-of-destiny.json](./128829-the-bender-of-destiny.json) |
@@ -6038,6 +6040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Robot Project | 146089 | [146089-the-big-robot-project.json](./146089-the-big-robot-project.json) |
 | The Big Secret of a Small Town | 34303 | [34303-the-big-secret-of-a-small-town.json](./34303-the-big-secret-of-a-small-town.json) |
 | The Big Simulation Box 3: Best of Simulations | 136373 | [136373-the-big-simulation-box-3-best-of-simulations.json](./136373-the-big-simulation-box-3-best-of-simulations.json) |
+| The Big Sleaze | 13396 | [13396-the-big-sleaze.json](./13396-the-big-sleaze.json) |
 | The Big SokoBang | 127162 | [127162-the-big-sokobang.json](./127162-the-big-sokobang.json) |
 | The Big Suck | 415770 | [415770-the-big-suck.json](./415770-the-big-suck.json) |
 | The Big Three | 102130 | [102130-the-big-three.json](./102130-the-big-three.json) |
