@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lesson Learned | 196115 | [196115-lesson-learned.json](./196115-lesson-learned.json) |
 | Lesson Learned | 303868 | [303868-lesson-learned.json](./303868-lesson-learned.json) |
 | Lesson Learned: Cult of the Elizabeth | 285926 | [285926-lesson-learned-cult-of-the-elizabeth.json](./285926-lesson-learned-cult-of-the-elizabeth.json) |
+| Lesson: The Game | 36669 | [36669-lesson-the-game.json](./36669-lesson-the-game.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
 | Lessons learned | 108067 | [108067-lessons-learned.json](./108067-lessons-learned.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
@@ -8062,8 +8063,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Live! Nijigasaki High School Idol Club: Tokimeki Roadmap to the Future | 282695 | [282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json](./282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json) |
 | Love Live! School Idol Festival | 36660 | [36660-love-live-school-idol-festival.json](./36660-love-live-school-idol-festival.json) |
 | Love Live! School Idol Festival 2: Miracle Live! | 218658 | [218658-love-live-school-idol-festival-2-miracle-live.json](./218658-love-live-school-idol-festival-2-miracle-live.json) |
+| Love Live! School Idol Festival: After School Activity | 36689 | [36689-love-live-school-idol-festival-after-school-activity.json](./36689-love-live-school-idol-festival-after-school-activity.json) |
 | Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!! | 141248 | [141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json](./141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json) |
 | Love Live! School Idol Paradise | 81340 | [81340-love-live-school-idol-paradise.json](./81340-love-live-school-idol-paradise.json) |
+| Love Live! School Idol Paradise: Vol.1 Printemps Unit | 36690 | [36690-love-live-school-idol-paradise-vol-1-printemps-unit.json](./36690-love-live-school-idol-paradise-vol-1-printemps-unit.json) |
+| Love Live! School Idol Paradise: Vol.2 BiBi Unit | 36691 | [36691-love-live-school-idol-paradise-vol-2-bibi-unit.json](./36691-love-live-school-idol-paradise-vol-2-bibi-unit.json) |
+| Love Live! School Idol Paradise: Vol.3 Lily White Unit | 36692 | [36692-love-live-school-idol-paradise-vol-3-lily-white-unit.json](./36692-love-live-school-idol-paradise-vol-3-lily-white-unit.json) |
 | Love Love Candy | 253902 | [253902-love-love-candy.json](./253902-love-love-candy.json) |
 | Love love demon ji | 385906 | [385906-love-love-demon-ji.json](./385906-love-love-demon-ji.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
