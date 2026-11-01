@@ -3008,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeographyHelp | 316158 | [316158-geographyhelp.json](./316158-geographyhelp.json) |
 | GeoGrid | 301361 | [301361-geogrid.json](./301361-geogrid.json) |
 | GeoGuess | 142736 | [142736-geoguess.json](./142736-geoguess.json) |
+| GeoGuessr | 63350 | [63350-geoguessr.json](./63350-geoguessr.json) |
 | GeoGuessr: Steam Edition | 336739 | [336739-geoguessr-steam-edition.json](./336739-geoguessr-steam-edition.json) |
 | GeoHub | 268109 | [268109-geohub.json](./268109-geohub.json) |
 | Geoid | 43214 | [43214-geoid.json](./43214-geoid.json) |
@@ -5511,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Thunder | 2526 | [2526-god-of-thunder.json](./2526-god-of-thunder.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
 | God of War | 117883 | [117883-god-of-war.json](./117883-god-of-war.json) |
+| God of War Collection | 20068 | [20068-god-of-war-collection.json](./20068-god-of-war-collection.json) |
 | God of War II | 117882 | [117882-god-of-war-ii.json](./117882-god-of-war-ii.json) |
 | God of War II Remake | 389451 | [389451-god-of-war-ii-remake.json](./389451-god-of-war-ii-remake.json) |
 | God of War II: Special Edition | 43432 | [43432-god-of-war-ii-special-edition.json](./43432-god-of-war-ii-special-edition.json) |
