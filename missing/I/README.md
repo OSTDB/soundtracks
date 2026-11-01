@@ -3321,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferna | 126774 | [126774-inferna.json](./126774-inferna.json) |
 | Inferna | 182055 | [182055-inferna.json](./182055-inferna.json) |
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
+| Infernal | 7018 | [7018-infernal.json](./7018-infernal.json) |
 | Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
 | Infernal Bloodrush | 310286 | [310286-infernal-bloodrush.json](./310286-infernal-bloodrush.json) |
