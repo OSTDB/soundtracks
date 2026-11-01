@@ -3699,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice To Yeet You | 309761 | [309761-nice-to-yeet-you.json](./309761-nice-to-yeet-you.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nice Way | 76689 | [76689-nice-way.json](./76689-nice-way.json) |
+| Niche: A Genetics Survival Game | 33572 | [33572-niche-a-genetics-survival-game.json](./33572-niche-a-genetics-survival-game.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
 | Nichibutsu Arcade Classics | 38165 | [38165-nichibutsu-arcade-classics.json](./38165-nichibutsu-arcade-classics.json) |
 | Nichibutsu Arcade Classics 2: Heiankyo Alien | 38180 | [38180-nichibutsu-arcade-classics-2-heiankyo-alien.json](./38180-nichibutsu-arcade-classics-2-heiankyo-alien.json) |
@@ -5462,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Place To Hide | 274855 | [274855-no-place-to-hide.json](./274855-no-place-to-hide.json) |
 | No Plan B | 132448 | [132448-no-plan-b.json](./132448-no-plan-b.json) |
 | No Play No Die | 233534 | [233534-no-play-no-die.json](./233534-no-play-no-die.json) |
+| No Players Online Classic | 125275 | [125275-no-players-online-classic.json](./125275-no-players-online-classic.json) |
 | No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
 | No Pressure: Hive War | 274961 | [274961-no-pressure-hive-war.json](./274961-no-pressure-hive-war.json) |
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
