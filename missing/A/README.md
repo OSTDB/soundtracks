@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Monster's Expedition | 131845 | [131845-a-monsters-expedition.json](./131845-a-monsters-expedition.json) |
 | A Monster's Insight | 178813 | [178813-a-monsters-insight.json](./178813-a-monsters-insight.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
+| A More Beautiful World: A Visual Novel | 33679 | [33679-a-more-beautiful-world-a-visual-novel.json](./33679-a-more-beautiful-world-a-visual-novel.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
 | A Mortician's Tale | 28073 | [28073-a-morticians-tale.json](./28073-a-morticians-tale.json) |
 | A Most Curious Murder | 83853 | [83853-a-most-curious-murder.json](./83853-a-most-curious-murder.json) |
@@ -6164,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
 | Alien Blast: The Encounter | 24188 | [24188-alien-blast-the-encounter.json](./24188-alien-blast-the-encounter.json) |
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
+| Alien Blitz | 33745 | [33745-alien-blitz.json](./33745-alien-blitz.json) |
 | Alien Block | 328425 | [328425-alien-block.json](./328425-alien-block.json) |
 | Alien Bloom | 411508 | [411508-alien-bloom.json](./411508-alien-bloom.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
