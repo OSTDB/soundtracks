@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Village | 164878 | [164878-last-village.json](./164878-last-village.json) |
 | Last Visit | 149944 | [149944-last-visit.json](./149944-last-visit.json) |
 | Last Visit to the Shard | 136801 | [136801-last-visit-to-the-shard.json](./136801-last-visit-to-the-shard.json) |
+| Last Voyage | 14875 | [14875-last-voyage.json](./14875-last-voyage.json) |
 | Last Voyage of the Aqualus | 282615 | [282615-last-voyage-of-the-aqualus.json](./282615-last-voyage-of-the-aqualus.json) |
 | Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
 | Last War | 285070 | [285070-last-war.json](./285070-last-war.json) |
