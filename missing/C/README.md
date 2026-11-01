@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car | 243586 | [243586-car.json](./243586-car.json) |
 | Car & Driver Presents: Grand Tour Racing '98 | 45025 | [45025-car-and-driver-presents-grand-tour-racing-98.json](./45025-car-and-driver-presents-grand-tour-racing-98.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
+| Car Battler Joe | 6344 | [6344-car-battler-joe.json](./6344-car-battler-joe.json) |
 | Car Boosting | 25407 | [25407-car-boosting.json](./25407-car-boosting.json) |
 | Car Builder | 97187 | [97187-car-builder.json](./97187-car-builder.json) |
 | Car Car Crash Hands on Edition | 32623 | [32623-car-car-crash-hands-on-edition.json](./32623-car-car-crash-hands-on-edition.json) |
@@ -5675,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlotte's Table | 232109 | [232109-charlottes-table.json](./232109-charlottes-table.json) |
 | Charlotte's Web | 248748 | [248748-charlottes-web.json](./248748-charlottes-web.json) |
 | Charlotte's Web | 248749 | [248749-charlottes-web.json](./248749-charlottes-web.json) |
+| Charlotte's Web | 6346 | [6346-charlottes-web.json](./6346-charlottes-web.json) |
 | Charlotte's Web: Wilbur and Friends | 71015 | [71015-charlottes-web-wilbur-and-friends.json](./71015-charlottes-web-wilbur-and-friends.json) |
 | Charly Diams | 39114 | [39114-charly-diams.json](./39114-charly-diams.json) |
 | Charly the Clown | 66339 | [66339-charly-the-clown.json](./66339-charly-the-clown.json) |
@@ -8040,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Ciikos Bridge | 183815 | [183815-ciikos-bridge.json](./183815-ciikos-bridge.json) |
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
+| CIMA: The Enemy | 6348 | [6348-cima-the-enemy.json](./6348-cima-the-enemy.json) |
 | Cimmerian Night | 272164 | [272164-cimmerian-night.json](./272164-cimmerian-night.json) |
 | Cinco Noches en Casa Rosada | 327222 | [327222-cinco-noches-en-casa-rosada.json](./327222-cinco-noches-en-casa-rosada.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
