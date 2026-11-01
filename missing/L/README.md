@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas | 91384 | [91384-las-vegas.json](./91384-las-vegas.json) |
 | Las Vegas Blackjack! | 41544 | [41544-las-vegas-blackjack.json](./41544-las-vegas-blackjack.json) |
+| Las Vegas Casino | 60279 | [60279-las-vegas-casino.json](./60279-las-vegas-casino.json) |
 | Las Vegas Casino Party | 131278 | [131278-las-vegas-casino-party.json](./131278-las-vegas-casino-party.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Girls | 38568 | [38568-las-vegas-girls.json](./38568-las-vegas-girls.json) |
