@@ -7845,6 +7845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Car Parking Simulator 2025 | 380705 | [380705-american-car-parking-simulator-2025.json](./380705-american-car-parking-simulator-2025.json) |
 | American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
+| American Chopper | 47304 | [47304-american-chopper.json](./47304-american-chopper.json) |
 | American Christmas | 186405 | [186405-american-christmas.json](./186405-american-christmas.json) |
 | American Christmas 2 | 258650 | [258650-american-christmas-2.json](./258650-american-christmas-2.json) |
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
@@ -8933,6 +8934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
 | Angry Birds | 247343 | [247343-angry-birds.json](./247343-angry-birds.json) |
+| Angry Birds 2 | 19273 | [19273-angry-birds-2.json](./19273-angry-birds-2.json) |
 | Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
 | Angry Birds AR: Isle of Pigs | 196589 | [196589-angry-birds-ar-isle-of-pigs.json](./196589-angry-birds-ar-isle-of-pigs.json) |
 | Angry Birds Arcade | 231439 | [231439-angry-birds-arcade.json](./231439-angry-birds-arcade.json) |
@@ -8980,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Rio | 19271 | [19271-angry-birds-rio.json](./19271-angry-birds-rio.json) |
 | Angry Birds Rio HD | 88589 | [88589-angry-birds-rio-hd.json](./88589-angry-birds-rio-hd.json) |
 | Angry Birds Rush | 368638 | [368638-angry-birds-rush.json](./368638-angry-birds-rush.json) |
+| Angry Birds Seasons | 19275 | [19275-angry-birds-seasons.json](./19275-angry-birds-seasons.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
 | Angry Birds Showdown | 300668 | [300668-angry-birds-showdown.json](./300668-angry-birds-showdown.json) |
 | Angry Birds Space HD | 102601 | [102601-angry-birds-space-hd.json](./102601-angry-birds-space-hd.json) |
@@ -14034,6 +14037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed III: Limited Edition | 136288 | [136288-assassins-creed-iii-limited-edition.json](./136288-assassins-creed-iii-limited-edition.json) |
 | Assassin's Creed III: The Battle Hardened Pack | 151548 | [151548-assassins-creed-iii-the-battle-hardened-pack.json](./151548-assassins-creed-iii-the-battle-hardened-pack.json) |
+| Assassin's Creed III: The Tyranny of King Washington | 8218 | [8218-assassins-creed-iii-the-tyranny-of-king-washington.json](./8218-assassins-creed-iii-the-tyranny-of-king-washington.json) |
 | Assassin's Creed III: Tyranny of King Washington - The Betrayal | 302628 | [302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json](./302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json) |
 | Assassin's Creed III: Tyranny of King Washington - The Redemption | 302629 | [302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json](./302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json) |
 | Assassin's Creed III: Ultimate Edition | 99952 | [99952-assassins-creed-iii-ultimate-edition.json](./99952-assassins-creed-iii-ultimate-edition.json) |
