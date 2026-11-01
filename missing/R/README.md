@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RacerMate Challenge II | 48379 | [48379-racermate-challenge-ii.json](./48379-racermate-challenge-ii.json) |
 | RaceRoom - Audi Sport TT Cup 2015 | 53170 | [53170-raceroom-audi-sport-tt-cup-2015.json](./53170-raceroom-audi-sport-tt-cup-2015.json) |
 | RaceRoom - DTM Experience 2015 | 53168 | [53168-raceroom-dtm-experience-2015.json](./53168-raceroom-dtm-experience-2015.json) |
+| RaceRoom Racing Experience | 90561 | [90561-raceroom-racing-experience.json](./90561-raceroom-racing-experience.json) |
 | RaceRoom Racing Experience: ADAC GT Masters Experience 2014 | 168153 | [168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json](./168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json) |
 | RaceRoom Racing Experience: DTM 1992 Car Pack | 226986 | [226986-raceroom-racing-experience-dtm-1992-car-pack.json](./226986-raceroom-racing-experience-dtm-1992-car-pack.json) |
 | RaceRoom Racing Experience: DTM Experience 2014 | 168152 | [168152-raceroom-racing-experience-dtm-experience-2014.json](./168152-raceroom-racing-experience-dtm-experience-2014.json) |
@@ -3577,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Redemption: Gunslingers | 355106 | [355106-red-dead-redemption-gunslingers.json](./355106-red-dead-redemption-gunslingers.json) |
 | Red Dead Redemption: Liars and Cheats | 114990 | [114990-red-dead-redemption-liars-and-cheats.json](./114990-red-dead-redemption-liars-and-cheats.json) |
 | Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
+| Red Dead Redemption: Undead Nightmare | 260736 | [260736-red-dead-redemption-undead-nightmare.json](./260736-red-dead-redemption-undead-nightmare.json) |
 | Red Dead Redemption: Undead Nightmare Collection | 45199 | [45199-red-dead-redemption-undead-nightmare-collection.json](./45199-red-dead-redemption-undead-nightmare-collection.json) |
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
 | Red Death | 29503 | [29503-red-death.json](./29503-red-death.json) |
@@ -3687,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Magic | 291719 | [291719-red-magic.json](./291719-red-magic.json) |
 | Red Man Follows | 243056 | [243056-red-man-follows.json](./243056-red-man-follows.json) |
+| Red Matter | 109907 | [109907-red-matter.json](./109907-red-matter.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
 | Red Means Evil | 382535 | [382535-red-means-evil.json](./382535-red-means-evil.json) |
