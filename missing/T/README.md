@@ -11645,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Tiger and Phoenix | 222647 | [222647-the-legend-of-tiger-and-phoenix.json](./222647-the-legend-of-tiger-and-phoenix.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
 | The Legend of Tomoko | 339192 | [339192-the-legend-of-tomoko.json](./339192-the-legend-of-tomoko.json) |
+| The Legend of Valkyrie | 41081 | [41081-the-legend-of-valkyrie.json](./41081-the-legend-of-valkyrie.json) |
 | The Legend of Viccess | 123761 | [123761-the-legend-of-viccess.json](./123761-the-legend-of-viccess.json) |
 | The Legend of Vraz | 54298 | [54298-the-legend-of-vraz.json](./54298-the-legend-of-vraz.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
@@ -13208,6 +13209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ninja | 12889 | [12889-the-ninja.json](./12889-the-ninja.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
+| The Ninja Kids | 41111 | [41111-the-ninja-kids.json](./41111-the-ninja-kids.json) |
 | The Ninja of the 4 Seasons | 195518 | [195518-the-ninja-of-the-4-seasons.json](./195518-the-ninja-of-the-4-seasons.json) |
 | The Ninja Path | 107536 | [107536-the-ninja-path.json](./107536-the-ninja-path.json) |
 | The Ninja Saviors: Return of the Warriors - Ninja Art Edition | 136154 | [136154-the-ninja-saviors-return-of-the-warriors-ninja-art-edition.json](./136154-the-ninja-saviors-return-of-the-warriors-ninja-art-edition.json) |
