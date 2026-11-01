@@ -10440,6 +10440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Ocean Keeper | 297366 | [297366-codename-ocean-keeper.json](./297366-codename-ocean-keeper.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
 | Codename: Panzers - Phase One | 640 | [640-codename-panzers-phase-one.json](./640-codename-panzers-phase-one.json) |
+| Codename: Panzers - Phase Two | 20203 | [20203-codename-panzers-phase-two.json](./20203-codename-panzers-phase-two.json) |
 | Codename: Phantom | 75589 | [75589-codename-phantom.json](./75589-codename-phantom.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
@@ -11522,6 +11523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
 | Colourspace | 321459 | [321459-colourspace.json](./321459-colourspace.json) |
 | Colpile | 67146 | [67146-colpile.json](./67146-colpile.json) |
+| Colt Canyon | 114074 | [114074-colt-canyon.json](./114074-colt-canyon.json) |
 | Colt-55 | 128430 | [128430-colt-55.json](./128430-colt-55.json) |
 | Colton Owen: Ace Attorney | 366872 | [366872-colton-owen-ace-attorney.json](./366872-colton-owen-ace-attorney.json) |
 | Colton Owen: After All's Over | 309993 | [309993-colton-owen-after-alls-over.json](./309993-colton-owen-after-alls-over.json) |
@@ -18115,6 +18117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Alice | 150456 | [150456-curious-alice.json](./150456-curious-alice.json) |
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
+| Curious Expedition 2 | 115711 | [115711-curious-expedition-2.json](./115711-curious-expedition-2.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
 | Curious Expedition 2: Robots of Lux | 216160 | [216160-curious-expedition-2-robots-of-lux.json](./216160-curious-expedition-2-robots-of-lux.json) |
 | Curious Expedition 2: Shores of Taishi | 200928 | [200928-curious-expedition-2-shores-of-taishi.json](./200928-curious-expedition-2-shores-of-taishi.json) |
