@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Soul Reaver 2 | 7893 | [7893-legacy-of-kain-soul-reaver-2.json](./7893-legacy-of-kain-soul-reaver-2.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
 | Legacy of Kain: Soul Reaver Remastered | 324083 | [324083-legacy-of-kain-soul-reaver-remastered.json](./324083-legacy-of-kain-soul-reaver-remastered.json) |
+| Legacy of Kain: The Dark Prophecy | 8289 | [8289-legacy-of-kain-the-dark-prophecy.json](./8289-legacy-of-kain-the-dark-prophecy.json) |
 | Legacy of Kalevala | 304120 | [304120-legacy-of-kalevala.json](./304120-legacy-of-kalevala.json) |
 | Legacy of Lina | 110521 | [110521-legacy-of-lina.json](./110521-legacy-of-lina.json) |
 | Legacy of Medieval | 83283 | [83283-legacy-of-medieval.json](./83283-legacy-of-medieval.json) |
@@ -2993,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Ninjago: Viper Smash ZX | 343133 | [343133-lego-ninjago-viper-smash-zx.json](./343133-lego-ninjago-viper-smash-zx.json) |
 | LEGO Orient Expedition: The Quest for the Golden Dragon | 210319 | [210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json](./210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
+| LEGO Pirates of the Caribbean: The Video Game | 542 | [542-lego-pirates-of-the-caribbean-the-video-game.json](./542-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Racers | 248764 | [248764-lego-racers.json](./248764-lego-racers.json) |
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
 | LEGO Racers | 422 | [422-lego-racers.json](./422-lego-racers.json) |
@@ -5590,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
 | Little Mermaid Interactive Fairy Tale | 335063 | [335063-little-mermaid-interactive-fairy-tale.json](./335063-little-mermaid-interactive-fairy-tale.json) |
+| Little Misfortune | 108778 | [108778-little-misfortune.json](./108778-little-misfortune.json) |
 | Little Misfortune: Fancy Edition | 154213 | [154213-little-misfortune-fancy-edition.json](./154213-little-misfortune-fancy-edition.json) |
 | Little Miss Lonely | 43885 | [43885-little-miss-lonely.json](./43885-little-miss-lonely.json) |
 | Little Moneybags | 157079 | [157079-little-moneybags.json](./157079-little-moneybags.json) |
@@ -6812,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
 | Looney Tunes Collector: Alert! | 49882 | [49882-looney-tunes-collector-alert.json](./49882-looney-tunes-collector-alert.json) |
 | Looney Tunes Cosmic Capers | 71430 | [71430-looney-tunes-cosmic-capers.json](./71430-looney-tunes-cosmic-capers.json) |
+| Looney Tunes Double Pack | 8131 | [8131-looney-tunes-double-pack.json](./8131-looney-tunes-double-pack.json) |
 | Looney Tunes Galactic Sports | 52539 | [52539-looney-tunes-galactic-sports.json](./52539-looney-tunes-galactic-sports.json) |
 | Looney Tunes Racing | 292791 | [292791-looney-tunes-racing.json](./292791-looney-tunes-racing.json) |
 | Looney Tunes Racing | 8135 | [8135-looney-tunes-racing.json](./8135-looney-tunes-racing.json) |
