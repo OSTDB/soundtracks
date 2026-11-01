@@ -3846,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiction Fixers: Curse of OZ | 277236 | [277236-fiction-fixers-curse-of-oz.json](./277236-fiction-fixers-curse-of-oz.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
 | Fiction.Colors | 341152 | [341152-fiction-colors.json](./341152-fiction-colors.json) |
+| FictionSphere | 27171 | [27171-fictionsphere.json](./27171-fictionsphere.json) |
 | Fictophilia: A fools hope | 184266 | [184266-fictophilia-a-fools-hope.json](./184266-fictophilia-a-fools-hope.json) |
 | Fictorum | 19604 | [19604-fictorum.json](./19604-fictorum.json) |
 | Fida Puti Samurai | 146648 | [146648-fida-puti-samurai.json](./146648-fida-puti-samurai.json) |
