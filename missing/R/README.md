@@ -5883,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Sector 9 | 73778 | [73778-return-to-sector-9.json](./73778-return-to-sector-9.json) |
 | Return to Sender | 241224 | [241224-return-to-sender.json](./241224-return-to-sender.json) |
 | Return to Sender | 336560 | [336560-return-to-sender.json](./336560-return-to-sender.json) |
+| Return to Shironagasu Island | 128159 | [128159-return-to-shironagasu-island.json](./128159-return-to-shironagasu-island.json) |
 | Return to the Roots | 201969 | [201969-return-to-the-roots.json](./201969-return-to-the-roots.json) |
 | Return to the Skyway | 207660 | [207660-return-to-the-skyway.json](./207660-return-to-the-skyway.json) |
 | Return to Trahulara | 359007 | [359007-return-to-trahulara.json](./359007-return-to-trahulara.json) |
@@ -11707,6 +11708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes: The Forgotten Path | 33172 | [33172-runes-the-forgotten-path.json](./33172-runes-the-forgotten-path.json) |
 | RuneScape | 5611 | [5611-runescape.json](./5611-runescape.json) |
 | RuneScape 2 | 362749 | [362749-runescape-2.json](./362749-runescape-2.json) |
+| RuneScape Classic | 138173 | [138173-runescape-classic.json](./138173-runescape-classic.json) |
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
 | Runeseekers 2 | 381721 | [381721-runeseekers-2.json](./381721-runeseekers-2.json) |
