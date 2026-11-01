@@ -4166,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie Collection | 214003 | [214003-agatha-christie-collection.json](./214003-agatha-christie-collection.json) |
 | Agatha Christie Hidden Object Collection | 198087 | [198087-agatha-christie-hidden-object-collection.json](./198087-agatha-christie-hidden-object-collection.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
+| Agatha Christie: And Then There Were None | 4663 | [4663-agatha-christie-and-then-there-were-none.json](./4663-agatha-christie-and-then-there-were-none.json) |
 | Agatha Christie: Dead Man's Folly | 135105 | [135105-agatha-christie-dead-mans-folly.json](./135105-agatha-christie-dead-mans-folly.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
 | Agatha Christie: Death on the Nile - Deluxe Edition | 406328 | [406328-agatha-christie-death-on-the-nile-deluxe-edition.json](./406328-agatha-christie-death-on-the-nile-deluxe-edition.json) |
@@ -6427,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Syndrome | 273025 | [273025-alien-syndrome.json](./273025-alien-syndrome.json) |
 | Alien Syndrome | 273026 | [273026-alien-syndrome.json](./273026-alien-syndrome.json) |
 | Alien Syndrome | 273027 | [273027-alien-syndrome.json](./273027-alien-syndrome.json) |
+| Alien Syndrome | 4478 | [4478-alien-syndrome.json](./4478-alien-syndrome.json) |
 | Alien Tentacles: Attack Master | 233411 | [233411-alien-tentacles-attack-master.json](./233411-alien-tentacles-attack-master.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
 | Alien Time Zone | 58037 | [58037-alien-time-zone.json](./58037-alien-time-zone.json) |
@@ -14034,6 +14036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II Mobile | 68527 | [68527-assassins-creed-ii-mobile.json](./68527-assassins-creed-ii-mobile.json) |
 | Assassin's Creed II: Battle of Forlì | 9562 | [9562-assassins-creed-ii-battle-of-forli.json](./9562-assassins-creed-ii-battle-of-forli.json) |
 | Assassin's Creed II: Black Edition | 308958 | [308958-assassins-creed-ii-black-edition.json](./308958-assassins-creed-ii-black-edition.json) |
+| Assassin's Creed II: Bonfire of the Vanities | 22974 | [22974-assassins-creed-ii-bonfire-of-the-vanities.json](./22974-assassins-creed-ii-bonfire-of-the-vanities.json) |
 | Assassin's Creed II: Deluxe Edition | 27857 | [27857-assassins-creed-ii-deluxe-edition.json](./27857-assassins-creed-ii-deluxe-edition.json) |
 | Assassin's Creed II: Discovery | 18865 | [18865-assassins-creed-ii-discovery.json](./18865-assassins-creed-ii-discovery.json) |
 | Assassin's Creed II: Multiplayer | 412331 | [412331-assassins-creed-ii-multiplayer.json](./412331-assassins-creed-ii-multiplayer.json) |
