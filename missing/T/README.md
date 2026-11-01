@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Landor | 143450 | [143450-tales-of-landor.json](./143450-tales-of-landor.json) |
 | Tales of Lazo | 121186 | [121186-tales-of-lazo.json](./121186-tales-of-lazo.json) |
 | Tales of Legendary Lust: Aphrodisia | 392890 | [392890-tales-of-legendary-lust-aphrodisia.json](./392890-tales-of-legendary-lust-aphrodisia.json) |
+| Tales of Legendia | 1206 | [1206-tales-of-legendia.json](./1206-tales-of-legendia.json) |
 | Tales of Legends | 90492 | [90492-tales-of-legends.json](./90492-tales-of-legends.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
 | Tales of Link | 18813 | [18813-tales-of-link.json](./18813-tales-of-link.json) |
@@ -5292,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Valdo and Marie | 56968 | [56968-the-adventures-of-valdo-and-marie.json](./56968-the-adventures-of-valdo-and-marie.json) |
 | The Adventures of Victor & Garu | 22133 | [22133-the-adventures-of-victor-and-garu.json](./22133-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Victor and Garu | 22091 | [22091-the-adventures-of-victor-and-garu.json](./22091-the-adventures-of-victor-and-garu.json) |
+| The Adventures of Willy Beamish | 2205 | [2205-the-adventures-of-willy-beamish.json](./2205-the-adventures-of-willy-beamish.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Aegis Saga | 131749 | [131749-the-aegis-saga.json](./131749-the-aegis-saga.json) |
@@ -13354,6 +13356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No Button Game | 225293 | [225293-the-no-button-game.json](./225293-the-no-button-game.json) |
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
+| The Noexistencen of You and Me | 325916 | [325916-the-noexistencen-of-you-and-me.json](./325916-the-noexistencen-of-you-and-me.json) |
 | The Noid's Super Pizza Shootout | 342587 | [342587-the-noids-super-pizza-shootout.json](./342587-the-noids-super-pizza-shootout.json) |
 | The Noise's Jam-Packed Radical Mini Mayhem! | 316590 | [316590-the-noises-jam-packed-radical-mini-mayhem.json](./316590-the-noises-jam-packed-radical-mini-mayhem.json) |
 | The Nom: Complete Edition | 289193 | [289193-the-nom-complete-edition.json](./289193-the-nom-complete-edition.json) |
@@ -25204,6 +25207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Walker: MMO Grind Simulator - Tower Walker: The Lich | 276588 | [276588-tower-walker-mmo-grind-simulator-tower-walker-the-lich.json](./276588-tower-walker-mmo-grind-simulator-tower-walker-the-lich.json) |
 | Tower Walker: The Northlanders | 297323 | [297323-tower-walker-the-northlanders.json](./297323-tower-walker-the-northlanders.json) |
 | Tower War: Tactical Conquest | 245333 | [245333-tower-war-tactical-conquest.json](./245333-tower-war-tactical-conquest.json) |
+| Tower Wizard | 327010 | [327010-tower-wizard.json](./327010-tower-wizard.json) |
 | Tower Words | 195130 | [195130-tower-words.json](./195130-tower-words.json) |
 | Tower! Simulator 3 | 226586 | [226586-tower-simulator-3.json](./226586-tower-simulator-3.json) |
 | Tower! Simulator 3: CYVR Airport | 396509 | [396509-tower-simulator-3-cyvr-airport.json](./396509-tower-simulator-3-cyvr-airport.json) |
@@ -28447,6 +28451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial Xtreme Freedom | 199975 | [199975-trial-xtreme-freedom.json](./199975-trial-xtreme-freedom.json) |
 | Trials | 305132 | [305132-trials.json](./305132-trials.json) |
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
+| Trials 2: Second Edition | 2147 | [2147-trials-2-second-edition.json](./2147-trials-2-second-edition.json) |
 | Trials Bike Basic | 305133 | [305133-trials-bike-basic.json](./305133-trials-bike-basic.json) |
 | Trials Bike Pro | 305134 | [305134-trials-bike-pro.json](./305134-trials-bike-pro.json) |
 | Trials Construction Yard | 305135 | [305135-trials-construction-yard.json](./305135-trials-construction-yard.json) |
