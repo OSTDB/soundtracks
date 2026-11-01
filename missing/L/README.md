@@ -3362,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me Play! | 375549 | [375549-let-me-play.json](./375549-let-me-play.json) |
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
 | Let Them Breathe: Selena's Awakening | 312151 | [312151-let-them-breathe-selenas-awakening.json](./312151-let-them-breathe-selenas-awakening.json) |
+| Let Them Come | 31962 | [31962-let-them-come.json](./31962-let-them-come.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
 | Let Them Fall | 265509 | [265509-let-them-fall.json](./265509-let-them-fall.json) |
 | Let Them Fight | 262841 | [262841-let-them-fight.json](./262841-let-them-fight.json) |
@@ -6943,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looping Doors: Diner | 342487 | [342487-looping-doors-diner.json](./342487-looping-doors-diner.json) |
 | Looping Doors: Subway | 342488 | [342488-looping-doors-subway.json](./342488-looping-doors-subway.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
+| Loopmancer | 151934 | [151934-loopmancer.json](./151934-loopmancer.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
 | LooPool | 367003 | [367003-loopool.json](./367003-loopool.json) |
 | Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
@@ -7011,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Poring | 364542 | [364542-loot-poring.json](./364542-loot-poring.json) |
 | Loot Profit | 346643 | [346643-loot-profit.json](./346643-loot-profit.json) |
 | Loot Rascals | 27511 | [27511-loot-rascals.json](./27511-loot-rascals.json) |
+| Loot River | 145092 | [145092-loot-river.json](./145092-loot-river.json) |
 | Loot Run | 75939 | [75939-loot-run.json](./75939-loot-run.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
 | Loot Shop Simulator | 346922 | [346922-loot-shop-simulator.json](./346922-loot-shop-simulator.json) |
@@ -7458,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
 | Lost Grimoires 3: The Forgotten Well | 76939 | [76939-lost-grimoires-3-the-forgotten-well.json](./76939-lost-grimoires-3-the-forgotten-well.json) |
 | Lost Grimoires Collection | 125138 | [125138-lost-grimoires-collection.json](./125138-lost-grimoires-collection.json) |
+| Lost Grimoires: Stolen Kingdom | 31120 | [31120-lost-grimoires-stolen-kingdom.json](./31120-lost-grimoires-stolen-kingdom.json) |
 | Lost Group | 291188 | [291188-lost-group.json](./291188-lost-group.json) |
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
