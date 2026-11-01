@@ -8156,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
 | The Elder Scrolls Online: Shadows of the Hist | 128476 | [128476-the-elder-scrolls-online-shadows-of-the-hist.json](./128476-the-elder-scrolls-online-shadows-of-the-hist.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
+| The Elder Scrolls Online: Summerset | 95058 | [95058-the-elder-scrolls-online-summerset.json](./95058-the-elder-scrolls-online-summerset.json) |
 | The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
 | The Elder Scrolls Online: Waking Flame | 180615 | [180615-the-elder-scrolls-online-waking-flame.json](./180615-the-elder-scrolls-online-waking-flame.json) |
 | The Elder Scrolls Online: Wolfhunter | 107018 | [107018-the-elder-scrolls-online-wolfhunter.json](./107018-the-elder-scrolls-online-wolfhunter.json) |
@@ -11986,6 +11987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Leviathan's Fantasy: Samurai and Onmyoji | 298175 | [298175-the-leviathans-fantasy-samurai-and-onmyoji.json](./298175-the-leviathans-fantasy-samurai-and-onmyoji.json) |
 | The Lewd Deal | 375971 | [375971-the-lewd-deal.json](./375971-the-lewd-deal.json) |
 | The Lewd of the Cock Rings: The Return of Doug Fooker | 385276 | [385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json](./385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json) |
+| The Liar Princess and the Blind Prince | 82370 | [82370-the-liar-princess-and-the-blind-prince.json](./82370-the-liar-princess-and-the-blind-prince.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Liberation of Kuwait | 73740 | [73740-the-liberation-of-kuwait.json](./73740-the-liberation-of-kuwait.json) |
 | The Libido Enigma | 368976 | [368976-the-libido-enigma.json](./368976-the-libido-enigma.json) |
@@ -17313,6 +17315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Michonne | 11204 | [11204-the-walking-dead-michonne.json](./11204-the-walking-dead-michonne.json) |
+| The Walking Dead: Michonne - Episode 1: In Too Deep | 95005 | [95005-the-walking-dead-michonne-episode-1-in-too-deep.json](./95005-the-walking-dead-michonne-episode-1-in-too-deep.json) |
 | The Walking Dead: Michonne - Episode 2: Give No Shelter | 127034 | [127034-the-walking-dead-michonne-episode-2-give-no-shelter.json](./127034-the-walking-dead-michonne-episode-2-give-no-shelter.json) |
 | The Walking Dead: Michonne - Episode 3: What We Deserve | 127035 | [127035-the-walking-dead-michonne-episode-3-what-we-deserve.json](./127035-the-walking-dead-michonne-episode-3-what-we-deserve.json) |
 | The Walking Dead: Onslaught - Sheriff Rick and Hunter Daryl Edition | 139916 | [139916-the-walking-dead-onslaught-sheriff-rick-and-hunter-daryl-edition.json](./139916-the-walking-dead-onslaught-sheriff-rick-and-hunter-daryl-edition.json) |
@@ -17819,6 +17822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World is Strange | 413513 | [413513-the-world-is-strange.json](./413513-the-world-is-strange.json) |
 | The World is Your Weapon | 120144 | [120144-the-world-is-your-weapon.json](./120144-the-world-is-your-weapon.json) |
 | The World Named Fred | 35673 | [35673-the-world-named-fred.json](./35673-the-world-named-fred.json) |
+| The World Next Door | 86457 | [86457-the-world-next-door.json](./86457-the-world-next-door.json) |
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of Animals | 293980 | [293980-the-world-of-animals.json](./293980-the-world-of-animals.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
