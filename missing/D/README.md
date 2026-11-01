@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Seraphim | 314614 | [314614-dark-seraphim.json](./314614-dark-seraphim.json) |
+| Dark Seven | 60277 | [60277-dark-seven.json](./60277-dark-seven.json) |
 | Dark Shadows | 419377 | [419377-dark-shadows.json](./419377-dark-shadows.json) |
 | Dark Sheep | 150884 | [150884-dark-sheep.json](./150884-dark-sheep.json) |
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
@@ -8003,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
 | Didgery | 33867 | [33867-didgery.json](./33867-didgery.json) |
 | Didgery | 94109 | [94109-didgery.json](./94109-didgery.json) |
+| Didi & Ditto Preschool: Mother Nature's Visit | 60292 | [60292-didi-and-ditto-preschool-mother-natures-visit.json](./60292-didi-and-ditto-preschool-mother-natures-visit.json) |
 | Didi & Ditto: First Grade - The Wolf King | 73150 | [73150-didi-and-ditto-first-grade-the-wolf-king.json](./73150-didi-and-ditto-first-grade-the-wolf-king.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didi: The Final Chapter | 294097 | [294097-didi-the-final-chapter.json](./294097-didi-the-final-chapter.json) |
@@ -15866,6 +15868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
 | Dual Tennis | 246959 | [246959-dual-tennis.json](./246959-dual-tennis.json) |
+| Dual Transform | 60188 | [60188-dual-transform.json](./60188-dual-transform.json) |
 | Dual Universe | 19548 | [19548-dual-universe.json](./19548-dual-universe.json) |
 | Dual! | 90676 | [90676-dual.json](./90676-dual.json) |
 | DualForce Idle | 183551 | [183551-dualforce-idle.json](./183551-dualforce-idle.json) |
