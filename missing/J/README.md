@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Neutron vs. Jimmy Negatron | 6478 | [6478-jimmy-neutron-vs-jimmy-negatron.json](./6478-jimmy-neutron-vs-jimmy-negatron.json) |
 | Jimmy Neutron: Boy Genius | 2966 | [2966-jimmy-neutron-boy-genius.json](./2966-jimmy-neutron-boy-genius.json) |
 | Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
+| Jimmy vs. Zombies | 51668 | [51668-jimmy-vs-zombies.json](./51668-jimmy-vs-zombies.json) |
 | Jimmy White's 'Whirlwind' Snooker | 12159 | [12159-jimmy-whites-whirlwind-snooker.json](./12159-jimmy-whites-whirlwind-snooker.json) |
 | Jimmy White's 2: Cueball | 45852 | [45852-jimmy-whites-2-cueball.json](./45852-jimmy-whites-2-cueball.json) |
 | Jimmy White's Cue Ball | 50029 | [50029-jimmy-whites-cue-ball.json](./50029-jimmy-whites-cue-ball.json) |
