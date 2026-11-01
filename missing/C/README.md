@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
 | Campaign Austerlitz | 144835 | [144835-campaign-austerlitz.json](./144835-campaign-austerlitz.json) |
 | Campaign Bautzen | 144832 | [144832-campaign-bautzen.json](./144832-campaign-bautzen.json) |
+| Campaign Clicker | 32444 | [32444-campaign-clicker.json](./32444-campaign-clicker.json) |
 | Campaign Eylau-Friedland | 144829 | [144829-campaign-eylau-friedland.json](./144829-campaign-eylau-friedland.json) |
 | Campaign Gettysburg | 182261 | [182261-campaign-gettysburg.json](./182261-campaign-gettysburg.json) |
 | Campaign II | 14372 | [14372-campaign-ii.json](./14372-campaign-ii.json) |
@@ -5528,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos;Head Noah / Chaos;Child Double Pack: SteelBook Launch Edition | 194407 | [194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json](./194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json) |
 | Chaos: Immortal Era | 224081 | [224081-chaos-immortal-era.json](./224081-chaos-immortal-era.json) |
 | Chaos: In the Darkness | 17767 | [17767-chaos-in-the-darkness.json](./17767-chaos-in-the-darkness.json) |
+| Chaos: The Battle of Wizards | 32390 | [32390-chaos-the-battle-of-wizards.json](./32390-chaos-the-battle-of-wizards.json) |
 | Chaosground: The Siege for Freedom | 206435 | [206435-chaosground-the-siege-for-freedom.json](./206435-chaosground-the-siege-for-freedom.json) |
 | Chāoshí Kōng zhī Lún | 281408 | [281408-chaoshi-kong-zhi-lun.json](./281408-chaoshi-kong-zhi-lun.json) |
 | ChaosTower | 120326 | [120326-chaostower.json](./120326-chaostower.json) |
@@ -5805,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
 | Cheater's Table | 391316 | [391316-cheaters-table.json](./391316-cheaters-table.json) |
+| Cheaters Blackjack 21 | 32431 | [32431-cheaters-blackjack-21.json](./32431-cheaters-blackjack-21.json) |
 | Cheaters Cheetah | 332303 | [332303-cheaters-cheetah.json](./332303-cheaters-cheetah.json) |
 | Cheating Death | 177392 | [177392-cheating-death.json](./177392-cheating-death.json) |
 | Cheating Fate | 177388 | [177388-cheating-fate.json](./177388-cheating-fate.json) |
@@ -17102,6 +17105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Conflict | 350463 | [350463-crystal-conflict.json](./350463-crystal-conflict.json) |
 | Crystal Conquest | 293044 | [293044-crystal-conquest.json](./293044-crystal-conquest.json) |
 | Crystal Control | 140923 | [140923-crystal-control.json](./140923-crystal-control.json) |
+| Crystal Control II | 32369 | [32369-crystal-control-ii.json](./32369-crystal-control-ii.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Corruption: Reclamation | 275741 | [275741-crystal-corruption-reclamation.json](./275741-crystal-corruption-reclamation.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
