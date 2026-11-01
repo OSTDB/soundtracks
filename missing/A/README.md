@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Up! HD | 354961 | [354961-aces-up-hd.json](./354961-aces-up-hd.json) |
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
+| Achaea, Dreams of Divine Lands | 11820 | [11820-achaea-dreams-of-divine-lands.json](./11820-achaea-dreams-of-divine-lands.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
 | Achar Chronicles: Oblitus | 58068 | [58068-achar-chronicles-oblitus.json](./58068-achar-chronicles-oblitus.json) |
 | AchBall | 75432 | [75432-achball.json](./75432-achball.json) |
@@ -9650,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annalog | 411988 | [411988-annalog.json](./411988-annalog.json) |
+| Annals of Rome | 11903 | [11903-annals-of-rome.json](./11903-annals-of-rome.json) |
 | Annalynn | 142687 | [142687-annalynn.json](./142687-annalynn.json) |
 | Annalynn '16 | 313076 | [313076-annalynn-16.json](./313076-annalynn-16.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
@@ -10109,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant-gravity: Tiny's Adventure | 31431 | [31431-ant-gravity-tinys-adventure.json](./31431-ant-gravity-tinys-adventure.json) |
 | Ant: Protect The Queen | 323219 | [323219-ant-protect-the-queen.json](./323219-ant-protect-the-queen.json) |
 | Antadin DX | 171996 | [171996-antadin-dx.json](./171996-antadin-dx.json) |
+| Antago | 11904 | [11904-antago.json](./11904-antago.json) |
 | Antagonist | 27869 | [27869-antagonist.json](./27869-antagonist.json) |
 | Antagony | 94603 | [94603-antagony.json](./94603-antagony.json) |
 | Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
@@ -11153,6 +11156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
 | Arachnoid | 377105 | [377105-arachnoid.json](./377105-arachnoid.json) |
 | Arachnophilia | 385926 | [385926-arachnophilia.json](./385926-arachnophilia.json) |
+| Arachnophobia | 11907 | [11907-arachnophobia.json](./11907-arachnophobia.json) |
 | Arachnophobia | 32470 | [32470-arachnophobia.json](./32470-arachnophobia.json) |
 | ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
 | Arachnotron | 184818 | [184818-arachnotron.json](./184818-arachnotron.json) |
@@ -11670,6 +11674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Fishing | 248242 | [248242-arcade-fishing.json](./248242-arcade-fishing.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Force Four | 94416 | [94416-arcade-force-four.json](./94416-arcade-force-four.json) |
+| Arcade Fruit Machine | 11908 | [11908-arcade-fruit-machine.json](./11908-arcade-fruit-machine.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
 | Arcade Galaxy | 182311 | [182311-arcade-galaxy.json](./182311-arcade-galaxy.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
@@ -11737,6 +11742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
+| Arcade Pool | 11909 | [11909-arcade-pool.json](./11909-arcade-pool.json) |
 | Arcade Pool & Snooker | 91692 | [91692-arcade-pool-and-snooker.json](./91692-arcade-pool-and-snooker.json) |
 | Arcade Pool II | 384609 | [384609-arcade-pool-ii.json](./384609-arcade-pool-ii.json) |
 | Arcade Portable | 202779 | [202779-arcade-portable.json](./202779-arcade-portable.json) |
@@ -12027,6 +12033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
 | Archer Maclean's DropZone: 40th Anniversary Edition | 325012 | [325012-archer-macleans-dropzone-40th-anniversary-edition.json](./325012-archer-macleans-dropzone-40th-anniversary-edition.json) |
 | Archer Maclean's Mercury | 22293 | [22293-archer-macleans-mercury.json](./22293-archer-macleans-mercury.json) |
+| Archer MacLean's Pool | 11910 | [11910-archer-macleans-pool.json](./11910-archer-macleans-pool.json) |
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
 | Archer Master | 150744 | [150744-archer-master.json](./150744-archer-master.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
@@ -12104,6 +12111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipelago: A Survival Game | 88455 | [88455-archipelago-a-survival-game.json](./88455-archipelago-a-survival-game.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Archipelago: Navigable VR Comic | 29822 | [29822-archipelago-navigable-vr-comic.json](./29822-archipelago-navigable-vr-comic.json) |
+| Archipelagos | 11911 | [11911-archipelagos.json](./11911-archipelagos.json) |
 | Archipelagos 2000 | 94602 | [94602-archipelagos-2000.json](./94602-archipelagos-2000.json) |
 | Archipeo | 407384 | [407384-archipeo.json](./407384-archipeo.json) |
 | ArchiTac | 131782 | [131782-architac.json](./131782-architac.json) |
@@ -12206,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
 | Arctica | 379712 | [379712-arctica.json](./379712-arctica.json) |
+| Arcticfox | 11913 | [11913-arcticfox.json](./11913-arcticfox.json) |
 | Arcticfox | 14517 | [14517-arcticfox.json](./14517-arcticfox.json) |
 | Arcticide | 249053 | [249053-arcticide.json](./249053-arcticide.json) |
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
@@ -12779,6 +12788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | ARMA: Gold Edition | 27937 | [27937-arma-gold-edition.json](./27937-arma-gold-edition.json) |
 | ArmaCulture | 148310 | [148310-armaculture.json](./148310-armaculture.json) |
+| Armada | 11914 | [11914-armada.json](./11914-armada.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
 | Armada | 305826 | [305826-armada.json](./305826-armada.json) |
 | Armada | 346920 | [346920-armada.json](./346920-armada.json) |
@@ -12969,6 +12979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armory & Machine | 137363 | [137363-armory-and-machine.json](./137363-armory-and-machine.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armory Simulator | 400663 | [400663-armory-simulator.json](./400663-armory-simulator.json) |
+| Armour-Geddon | 11915 | [11915-armour-geddon.json](./11915-armour-geddon.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
 | Armoured Commander | 56936 | [56936-armoured-commander.json](./56936-armoured-commander.json) |
@@ -13066,6 +13077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arnie | 13797 | [13797-arnie.json](./13797-arnie.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
+| Arnie 2 | 11917 | [11917-arnie-2.json](./11917-arnie-2.json) |
 | Arnie's America's Cup Challenge | 71991 | [71991-arnies-americas-cup-challenge.json](./71991-arnies-americas-cup-challenge.json) |
 | Arnmoire | 125803 | [125803-arnmoire.json](./125803-arnmoire.json) |
 | Arnold | 166835 | [166835-arnold.json](./166835-arnold.json) |
@@ -13479,6 +13491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
 | Artsy Pixel | 212278 | [212278-artsy-pixel.json](./212278-artsy-pixel.json) |
 | Artur's Pinball | 231197 | [231197-arturs-pinball.json](./231197-arturs-pinball.json) |
+| Artura | 11918 | [11918-artura.json](./11918-artura.json) |
 | Artus Against the Demon of the Museum | 310663 | [310663-artus-against-the-demon-of-the-museum.json](./310663-artus-against-the-demon-of-the-museum.json) |
 | Aru Kanrinin no Koi: Autumn + Winter | 246942 | [246942-aru-kanrinin-no-koi-autumn-winter.json](./246942-aru-kanrinin-no-koi-autumn-winter.json) |
 | Aru Kanrinin no Koi: Between the Seasons | 246943 | [246943-aru-kanrinin-no-koi-between-the-seasons.json](./246943-aru-kanrinin-no-koi-between-the-seasons.json) |
@@ -13748,6 +13761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Arcanum: The Witch Pack | 361895 | [361895-ashes-of-arcanum-the-witch-pack.json](./361895-ashes-of-arcanum-the-witch-pack.json) |
 | Ashes of Creation | 27420 | [27420-ashes-of-creation.json](./27420-ashes-of-creation.json) |
 | Ashes of Creation Apocalypse | 122597 | [122597-ashes-of-creation-apocalypse.json](./122597-ashes-of-creation-apocalypse.json) |
+| Ashes of Empire | 11919 | [11919-ashes-of-empire.json](./11919-ashes-of-empire.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Idunn: Tales of Fimbulwinter | 309427 | [309427-ashes-of-idunn-tales-of-fimbulwinter.json](./309427-ashes-of-idunn-tales-of-fimbulwinter.json) |
 | Ashes of Immortality II | 35456 | [35456-ashes-of-immortality-ii.json](./35456-ashes-of-immortality-ii.json) |
@@ -13942,6 +13956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
 | Ass: Press F! | 379705 | [379705-ass-press-f.json](./379705-ass-press-f.json) |
+| Assassin | 11920 | [11920-assassin.json](./11920-assassin.json) |
 | Assassin 2015 | 69944 | [69944-assassin-2015.json](./69944-assassin-2015.json) |
 | Assassin at Crimson Keep | 186473 | [186473-assassin-at-crimson-keep.json](./186473-assassin-at-crimson-keep.json) |
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
@@ -15457,8 +15472,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomik: RunGunJumpGun | 23836 | [23836-atomik-rungunjumpgun.json](./23836-atomik-rungunjumpgun.json) |
 | Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
 | Atomine | 28554 | [28554-atomine.json](./28554-atomine.json) |
+| Atomino | 11922 | [11922-atomino.json](./11922-atomino.json) |
 | Atominous | 257383 | [257383-atominous.json](./257383-atominous.json) |
 | Atomite | 298688 | [298688-atomite.json](./298688-atomite.json) |
+| Atomix | 11923 | [11923-atomix.json](./11923-atomix.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
 | Atomix | 400813 | [400813-atomix.json](./400813-atomix.json) |
 | Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
@@ -15483,6 +15500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atop the Witch's Tower WS | 341704 | [341704-atop-the-witchs-tower-ws.json](./341704-atop-the-witchs-tower-ws.json) |
 | Atopes | 167359 | [167359-atopes.json](./167359-atopes.json) |
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
+| ATR: All Terrain Racing | 11924 | [11924-atr-all-terrain-racing.json](./11924-atr-all-terrain-racing.json) |
 | Atramentum VR | 29797 | [29797-atramentum-vr.json](./29797-atramentum-vr.json) |
 | Atrapa la Bandera | 204455 | [204455-atrapa-la-bandera.json](./204455-atrapa-la-bandera.json) |
 | Atre: Dominance Wars | 315459 | [315459-atre-dominance-wars.json](./315459-atre-dominance-wars.json) |
@@ -15895,6 +15913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austen Translation | 68768 | [68768-austen-translation.json](./68768-austen-translation.json) |
 | Austerity X | 407587 | [407587-austerity-x.json](./407587-austerity-x.json) |
+| Austerlitz | 11925 | [11925-austerlitz.json](./11925-austerlitz.json) |
 | Austerlitz: Napoleon's Greatest Victory | 71954 | [71954-austerlitz-napoleons-greatest-victory.json](./71954-austerlitz-napoleons-greatest-victory.json) |
 | Austin Mini Racing | 90933 | [90933-austin-mini-racing.json](./90933-austin-mini-racing.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
@@ -16150,6 +16169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Sex Manager | 400407 | [400407-av-sex-manager.json](./400407-av-sex-manager.json) |
 | AV-17 | 110670 | [110670-av-17.json](./110670-av-17.json) |
 | AV.Runner | 217218 | [217218-av-runner.json](./217218-av-runner.json) |
+| AV8B Harrier Assault | 11926 | [11926-av8b-harrier-assault.json](./11926-av8b-harrier-assault.json) |
 | Ava | 119569 | [119569-ava.json](./119569-ava.json) |
 | AVA | 367997 | [367997-ava.json](./367997-ava.json) |
 | Ava Airborne | 96207 | [96207-ava-airborne.json](./96207-ava-airborne.json) |
@@ -16653,6 +16673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axel & Pixel | 14845 | [14845-axel-and-pixel.json](./14845-axel-and-pixel.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axel's Journey | 183414 | [183414-axels-journey.json](./183414-axels-journey.json) |
+| Axel's Magic Hammer | 11927 | [11927-axels-magic-hammer.json](./11927-axels-magic-hammer.json) |
 | Axelay | 6570 | [6570-axelay.json](./6570-axelay.json) |
 | Axembler | 265484 | [265484-axembler.json](./265484-axembler.json) |
 | Axes | 140967 | [140967-axes.json](./140967-axes.json) |
