@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors: Xtreme Legends | 12298 | [12298-samurai-warriors-xtreme-legends.json](./12298-samurai-warriors-xtreme-legends.json) |
 | Samurai Wars | 196342 | [196342-samurai-wars.json](./196342-samurai-wars.json) |
 | Samurai Wars | 32025 | [32025-samurai-wars.json](./32025-samurai-wars.json) |
+| Samurai Western | 43665 | [43665-samurai-western.json](./43665-samurai-western.json) |
 | Samurai Wish | 107890 | [107890-samurai-wish.json](./107890-samurai-wish.json) |
 | Samurai Zero | 139375 | [139375-samurai-zero.json](./139375-samurai-zero.json) |
 | Samurai: Japan Warrior Fighter | 267869 | [267869-samurai-japan-warrior-fighter.json](./267869-samurai-japan-warrior-fighter.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Night Live: The Game | 208320 | [208320-saturday-night-live-the-game.json](./208320-saturday-night-live-the-game.json) |
 | Saturday Night Racing | 372134 | [372134-saturday-night-racing.json](./372134-saturday-night-racing.json) |
 | Saturday Night Slam Masters | 4504 | [4504-saturday-night-slam-masters.json](./4504-saturday-night-slam-masters.json) |
+| Saturday Night Speedway | 43648 | [43648-saturday-night-speedway.json](./43648-saturday-night-speedway.json) |
 | Saturday of Piercing Screams | 121317 | [121317-saturday-of-piercing-screams.json](./121317-saturday-of-piercing-screams.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Saturday: Arthur's Odyssey | 165496 | [165496-saturday-arthurs-odyssey.json](./165496-saturday-arthurs-odyssey.json) |
@@ -4674,7 +4676,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Sports 1 | 47061 | [47061-sega-sports-1.json](./47061-sega-sports-1.json) |
 | Sega Sports 1 | 56844 | [56844-sega-sports-1.json](./56844-sega-sports-1.json) |
 | Sega Sports NFL 98 | 45771 | [45771-sega-sports-nfl-98.json](./45771-sega-sports-nfl-98.json) |
+| Sega Sports Tennis | 43664 | [43664-sega-sports-tennis.json](./43664-sega-sports-tennis.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
+| Sega Superstars | 43677 | [43677-sega-superstars.json](./43677-sega-superstars.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sega Superstars Tennis and Xbox Live Arcade Compilation Disc | 227984 | [227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json](./227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json) |
 | Sega Swirl | 46374 | [46374-sega-swirl.json](./46374-sega-swirl.json) |
@@ -7815,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Stars 4: Another Dimensional Incident | 313054 | [313054-shining-stars-4-another-dimensional-incident.json](./313054-shining-stars-4-another-dimensional-incident.json) |
 | Shining Stars Super Starcade | 48038 | [48038-shining-stars-super-starcade.json](./48038-shining-stars-super-starcade.json) |
 | Shining Symbol | 250965 | [250965-shining-symbol.json](./250965-shining-symbol.json) |
+| Shining Tears | 43663 | [43663-shining-tears.json](./43663-shining-tears.json) |
 | Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
 | Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
@@ -11570,6 +11575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Nations | 17572 | [17572-sky-nations.json](./17572-sky-nations.json) |
 | Sky Noon | 30056 | [30056-sky-noon.json](./30056-sky-noon.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
+| Sky Odyssey | 43662 | [43662-sky-odyssey.json](./43662-sky-odyssey.json) |
 | Sky of Destruction | 116496 | [116496-sky-of-destruction.json](./116496-sky-of-destruction.json) |
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
 | Sky on Fire: 1940 | 182846 | [182846-sky-on-fire-1940.json](./182846-sky-on-fire-1940.json) |
@@ -11739,6 +11745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skygerfall | 316726 | [316726-skygerfall.json](./316726-skygerfall.json) |
 | Skyguard | 367385 | [367385-skyguard.json](./367385-skyguard.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
+| SkyGunner | 43615 | [43615-skygunner.json](./43615-skygunner.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | Skyhigh Chronos Endless | 408564 | [408564-skyhigh-chronos-endless.json](./408564-skyhigh-chronos-endless.json) |
 | Skyhill | 11562 | [11562-skyhill.json](./11562-skyhill.json) |
@@ -13096,6 +13103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
 | Smarter Than You | 257225 | [257225-smarter-than-you.json](./257225-smarter-than-you.json) |
 | SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
+| Smarties: Meltdown | 43670 | [43670-smarties-meltdown.json](./43670-smarties-meltdown.json) |
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
 | Smartphone Tycoon 2 | 335809 | [335809-smartphone-tycoon-2.json](./335809-smartphone-tycoon-2.json) |
 | Smartplant | 336752 | [336752-smartplant.json](./336752-smartplant.json) |
@@ -13132,6 +13140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Cops | 22929 | [22929-smash-cops.json](./22929-smash-cops.json) |
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Court Tennis 3 | 7188 | [7188-smash-court-tennis-3.json](./7188-smash-court-tennis-3.json) |
+| Smash Court Tennis Pro Tournament | 43618 | [43618-smash-court-tennis-pro-tournament.json](./43618-smash-court-tennis-pro-tournament.json) |
 | Smash Court Tennis Pro Tournament 2 | 20184 | [20184-smash-court-tennis-pro-tournament-2.json](./20184-smash-court-tennis-pro-tournament-2.json) |
 | Smash Court: Warm Up | 183737 | [183737-smash-court-warm-up.json](./183737-smash-court-warm-up.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
@@ -21258,6 +21267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro + Crash Remastered Game Bundle | 111449 | [111449-spyro-crash-remastered-game-bundle.json](./111449-spyro-crash-remastered-game-bundle.json) |
 | Spyro 2: Ripto's Rage! | 142242 | [142242-spyro-2-riptos-rage.json](./142242-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
+| Spyro 2: Ripto's Rage! - Collector's Edition | 43685 | [43685-spyro-2-riptos-rage-collectors-edition.json](./43685-spyro-2-riptos-rage-collectors-edition.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
 | Spyro Orange: The Cortex Conspiracy | 1590 | [1590-spyro-orange-the-cortex-conspiracy.json](./1590-spyro-orange-the-cortex-conspiracy.json) |
 | Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
@@ -21276,6 +21286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Shadow Legacy | 1581 | [1581-spyro-shadow-legacy.json](./1581-spyro-shadow-legacy.json) |
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
 | Spyro: Year of the Dragon | 1578 | [1578-spyro-year-of-the-dragon.json](./1578-spyro-year-of-the-dragon.json) |
+| Spyro: Year of the Dragon - Collector's Edition | 43684 | [43684-spyro-year-of-the-dragon-collectors-edition.json](./43684-spyro-year-of-the-dragon-collectors-edition.json) |
 | Spyyn | 372101 | [372101-spyyn.json](./372101-spyyn.json) |
 | Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
 | SQGT | 332647 | [332647-sqgt.json](./332647-sqgt.json) |
@@ -25777,6 +25788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter III: 4rd Strike | 191546 | [191546-street-fighter-iii-4rd-strike.json](./191546-street-fighter-iii-4rd-strike.json) |
 | Street Fighter III: Double Impact | 45194 | [45194-street-fighter-iii-double-impact.json](./45194-street-fighter-iii-double-impact.json) |
 | Street Fighter III: New Generation | 6708 | [6708-street-fighter-iii-new-generation.json](./6708-street-fighter-iii-new-generation.json) |
+| Street Fighter III: Third Strike - Limited Edition | 43666 | [43666-street-fighter-iii-third-strike-limited-edition.json](./43666-street-fighter-iii-third-strike-limited-edition.json) |
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
 | Street Fighter IV Volt: Battle Protocol | 77315 | [77315-street-fighter-iv-volt-battle-protocol.json](./77315-street-fighter-iv-volt-battle-protocol.json) |
 | Street Fighter IV: Arena | 61360 | [61360-street-fighter-iv-arena.json](./61360-street-fighter-iv-arena.json) |
@@ -29828,6 +29840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Phantom Cat 2 | 89718 | [89718-super-phantom-cat-2.json](./89718-super-phantom-cat-2.json) |
 | Super Phantom Cat: Remake | 117965 | [117965-super-phantom-cat-remake.json](./117965-super-phantom-cat-remake.json) |
 | Super Pickleball Adventure | 329409 | [329409-super-pickleball-adventure.json](./329409-super-pickleball-adventure.json) |
+| Super Pickups | 43622 | [43622-super-pickups.json](./43622-super-pickups.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
 | Super Pig | 395880 | [395880-super-pig.json](./395880-super-pig.json) |
