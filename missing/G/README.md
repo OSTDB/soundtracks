@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 141479 | [141479-genesis.json](./141479-genesis.json) |
 | Genesis | 144583 | [144583-genesis.json](./144583-genesis.json) |
+| Genesis | 24508 | [24508-genesis.json](./24508-genesis.json) |
 | Genesis | 318161 | [318161-genesis.json](./318161-genesis.json) |
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
@@ -3144,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
 | Germline | 258601 | [258601-germline.json](./258601-germline.json) |
 | GermNation | 94941 | [94941-germnation.json](./94941-germnation.json) |
+| Germophilia | 24503 | [24503-germophilia.json](./24503-germophilia.json) |
 | Germs: Nerawareta Machi | 62438 | [62438-germs-nerawareta-machi.json](./62438-germs-nerawareta-machi.json) |
 | Germs.io | 112152 | [112152-germs-io.json](./112152-germs-io.json) |
 | Gero-Gero | 295844 | [295844-gero-gero.json](./295844-gero-gero.json) |
@@ -3566,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Rebel | 102039 | [102039-ghost-rebel.json](./102039-ghost-rebel.json) |
 | Ghost Recon: Heroes Unleashed | 283119 | [283119-ghost-recon-heroes-unleashed.json](./283119-ghost-recon-heroes-unleashed.json) |
 | Ghost Restaurant | 390599 | [390599-ghost-restaurant.json](./390599-ghost-restaurant.json) |
+| Ghost Ride | 24640 | [24640-ghost-ride.json](./24640-ghost-ride.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
 | Ghost Rider | 6420 | [6420-ghost-rider.json](./6420-ghost-rider.json) |
 | Ghost Ring: The Soul Labyrinth | 60265 | [60265-ghost-ring-the-soul-labyrinth.json](./60265-ghost-ring-the-soul-labyrinth.json) |
@@ -5911,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Gold, Silver, Bronze | 70300 | [70300-gold-silver-bronze.json](./70300-gold-silver-bronze.json) |
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
+| Goldbeard | 24547 | [24547-goldbeard.json](./24547-goldbeard.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Goldberg Smash & Bash Wrestling Game Fear the Spear | 198748 | [198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json](./198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json) |
 | Goldcraft | 58132 | [58132-goldcraft.json](./58132-goldcraft.json) |
@@ -7284,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Story 2 | 77736 | [77736-grand-prix-story-2.json](./77736-grand-prix-story-2.json) |
 | Grand Prix Tennis | 83378 | [83378-grand-prix-tennis.json](./83378-grand-prix-tennis.json) |
 | Grand Prix Unlimited | 73597 | [73597-grand-prix-unlimited.json](./73597-grand-prix-unlimited.json) |
+| Grand Prix World | 24513 | [24513-grand-prix-world.json](./24513-grand-prix-world.json) |
 | Grand Pskov Story | 74930 | [74930-grand-pskov-story.json](./74930-grand-pskov-story.json) |
 | Grand Rush VR: Highway Car Traffic Racing Simulator | 318268 | [318268-grand-rush-vr-highway-car-traffic-racing-simulator.json](./318268-grand-rush-vr-highway-car-traffic-racing-simulator.json) |
 | Grand Rush: Highway Car Traffic Racing Simulator | 312843 | [312843-grand-rush-highway-car-traffic-racing-simulator.json](./312843-grand-rush-highway-car-traffic-racing-simulator.json) |
@@ -7439,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmaster Chess | 14493 | [14493-grandmaster-chess.json](./14493-grandmaster-chess.json) |
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster Chess (CD-ROM Edition) | 98911 | [98911-grandmaster-chess-cd-rom-edition.json](./98911-grandmaster-chess-cd-rom-edition.json) |
+| Grandmaster Chess Tournament | 24711 | [24711-grandmaster-chess-tournament.json](./24711-grandmaster-chess-tournament.json) |
 | Grandmaster's Gambit | 255832 | [255832-grandmasters-gambit.json](./255832-grandmasters-gambit.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandmasters Ascent | 266100 | [266100-grandmasters-ascent.json](./266100-grandmasters-ascent.json) |
