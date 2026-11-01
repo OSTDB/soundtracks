@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Destiny 2 | 397736 | [397736-tales-of-destiny-2.json](./397736-tales-of-destiny-2.json) |
 | Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
+| Tales of Destruction | 32424 | [32424-tales-of-destruction.json](./32424-tales-of-destruction.json) |
 | Tales of Djungarian Hamster | 148322 | [148322-tales-of-djungarian-hamster.json](./148322-tales-of-djungarian-hamster.json) |
 | Tales of Dragon | 256142 | [256142-tales-of-dragon.json](./256142-tales-of-dragon.json) |
 | Tales of Dungeon | 193809 | [193809-tales-of-dungeon.json](./193809-tales-of-dungeon.json) |
@@ -4521,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrachroma | 298637 | [298637-tetrachroma.json](./298637-tetrachroma.json) |
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
 | Tetrad | 382526 | [382526-tetrad.json](./382526-tetrad.json) |
+| Tetradecagon | 32404 | [32404-tetradecagon.json](./32404-tetradecagon.json) |
 | Tetradome | 333872 | [333872-tetradome.json](./333872-tetradome.json) |
 | Tetrageddon | 143484 | [143484-tetrageddon.json](./143484-tetrageddon.json) |
 | Tetrageddon Games | 255016 | [255016-tetrageddon-games.json](./255016-tetrageddon-games.json) |
@@ -6512,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
 | The Caregiver | 143687 | [143687-the-caregiver.json](./143687-the-caregiver.json) |
 | The Caretaker | 184766 | [184766-the-caretaker.json](./184766-the-caretaker.json) |
+| The Caretaker | 32429 | [32429-the-caretaker.json](./32429-the-caretaker.json) |
 | The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
 | The Caribbean Sail: Fantasy Toggle | 144166 | [144166-the-caribbean-sail-fantasy-toggle.json](./144166-the-caribbean-sail-fantasy-toggle.json) |
 | The Caribbean Sail: Route Planing | 144165 | [144165-the-caribbean-sail-route-planing.json](./144165-the-caribbean-sail-route-planing.json) |
@@ -8813,6 +8816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Samurai + The Second Samurai Bundle | 154183 | [154183-the-first-samurai-the-second-samurai-bundle.json](./154183-the-first-samurai-the-second-samurai-bundle.json) |
 | The First Settlement VR | 311550 | [311550-the-first-settlement-vr.json](./311550-the-first-settlement-vr.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
+| The First Spark | 32394 | [32394-the-first-spark.json](./32394-the-first-spark.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
 | The First Step | 215745 | [215745-the-first-step.json](./215745-the-first-step.json) |
 | The First Stitch | 71176 | [71176-the-first-stitch.json](./71176-the-first-stitch.json) |
@@ -10680,6 +10684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key 1: Flight From Arcadia | 99112 | [99112-the-key-1-flight-from-arcadia.json](./99112-the-key-1-flight-from-arcadia.json) |
 | The Key of Avalon | 308055 | [308055-the-key-of-avalon.json](./308055-the-key-of-avalon.json) |
+| The Key of hope | 32389 | [32389-the-key-of-hope.json](./32389-the-key-of-hope.json) |
 | The Key of Rednow | 163403 | [163403-the-key-of-rednow.json](./163403-the-key-of-rednow.json) |
 | The Key to Forgotten Souls | 395177 | [395177-the-key-to-forgotten-souls.json](./395177-the-key-to-forgotten-souls.json) |
 | The Key to Home | 75948 | [75948-the-key-to-home.json](./75948-the-key-to-home.json) |
@@ -13405,6 +13410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
 | The Orange | 302783 | [302783-the-orange.json](./302783-the-orange.json) |
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
+| The Orb Chambers | 32466 | [32466-the-orb-chambers.json](./32466-the-orb-chambers.json) |
 | The Orb Chambers II | 32064 | [32064-the-orb-chambers-ii.json](./32064-the-orb-chambers-ii.json) |
 | The Orb Chambers Remastered | 166814 | [166814-the-orb-chambers-remastered.json](./166814-the-orb-chambers-remastered.json) |
 | The Orb of Darkness | 370410 | [370410-the-orb-of-darkness.json](./370410-the-orb-of-darkness.json) |
@@ -19062,6 +19068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
 | Thunder Force: Gold Pack 2 | 80164 | [80164-thunder-force-gold-pack-2.json](./80164-thunder-force-gold-pack-2.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
+| Thunder Gun: Revenge of the Mutants | 32356 | [32356-thunder-gun-revenge-of-the-mutants.json](./32356-thunder-gun-revenge-of-the-mutants.json) |
 | Thunder Hawk | 354645 | [354645-thunder-hawk.json](./354645-thunder-hawk.json) |
 | Thunder Helix | 211162 | [211162-thunder-helix.json](./211162-thunder-helix.json) |
 | Thunder Heroes | 39932 | [39932-thunder-heroes.json](./39932-thunder-heroes.json) |
@@ -21444,6 +21451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timore 6 | 111636 | [111636-timore-6.json](./111636-timore-6.json) |
 | Timore 6: The Cadaver | 381806 | [381806-timore-6-the-cadaver.json](./381806-timore-6-the-cadaver.json) |
 | Timore Avaritia | 366350 | [366350-timore-avaritia.json](./366350-timore-avaritia.json) |
+| Timore Inferno | 32422 | [32422-timore-inferno.json](./32422-timore-inferno.json) |
 | Timore Narhelma | 317381 | [317381-timore-narhelma.json](./317381-timore-narhelma.json) |
 | Timore Remake | 220547 | [220547-timore-remake.json](./220547-timore-remake.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
@@ -24879,6 +24887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower Inc. | 369717 | [369717-tower-inc.json](./369717-tower-inc.json) |
+| Tower Island: Explore, Discover and Disassemble | 32413 | [32413-tower-island-explore-discover-and-disassemble.json](./32413-tower-island-explore-discover-and-disassemble.json) |
 | Tower Jump | 101559 | [101559-tower-jump.json](./101559-tower-jump.json) |
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
@@ -24914,6 +24923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Dal Gurak | 271953 | [271953-tower-of-dal-gurak.json](./271953-tower-of-dal-gurak.json) |
 | Tower of Darkness | 217990 | [217990-tower-of-darkness.json](./217990-tower-of-darkness.json) |
 | Tower of Delight | 283793 | [283793-tower-of-delight.json](./283793-tower-of-delight.json) |
+| Tower of Despair | 32388 | [32388-tower-of-despair.json](./32388-tower-of-despair.json) |
 | Tower of Destiny | 283131 | [283131-tower-of-destiny.json](./283131-tower-of-destiny.json) |
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
@@ -25265,6 +25275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Harvest | 393286 | [393286-toxic-harvest.json](./393286-toxic-harvest.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
 | Toxic Plumbing | 81972 | [81972-toxic-plumbing.json](./81972-toxic-plumbing.json) |
+| Toxic Terror | 32430 | [32430-toxic-terror.json](./32430-toxic-terror.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
@@ -25518,6 +25529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks of Triumph | 250402 | [250402-tracks-of-triumph.json](./250402-tracks-of-triumph.json) |
 | Tracks of Triumph Retro Blast | 252889 | [252889-tracks-of-triumph-retro-blast.json](./252889-tracks-of-triumph-retro-blast.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
+| Tracks of Triumph: Industrial Zone | 32351 | [32351-tracks-of-triumph-industrial-zone.json](./32351-tracks-of-triumph-industrial-zone.json) |
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
 | Tracks: The Train Set Game - Sci-Fi Pack | 225481 | [225481-tracks-the-train-set-game-sci-fi-pack.json](./225481-tracks-the-train-set-game-sci-fi-pack.json) |
 | Tracks: The Train Set Game - Suburban Pack | 225482 | [225482-tracks-the-train-set-game-suburban-pack.json](./225482-tracks-the-train-set-game-suburban-pack.json) |
