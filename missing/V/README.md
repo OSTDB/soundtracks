@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxel Hunters | 294055 | [294055-voxel-hunters.json](./294055-voxel-hunters.json) |
+| Voxel Interceptor | 59565 | [59565-voxel-interceptor.json](./59565-voxel-interceptor.json) |
 | Voxel Panic | 386379 | [386379-voxel-panic.json](./386379-voxel-panic.json) |
 | Voxel Pirate | 176396 | [176396-voxel-pirate.json](./176396-voxel-pirate.json) |
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
