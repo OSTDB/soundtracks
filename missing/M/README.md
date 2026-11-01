@@ -5793,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
 | Maze Racers | 180503 | [180503-maze-racers.json](./180503-maze-racers.json) |
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
+| Maze Rescue | 28381 | [28381-maze-rescue.json](./28381-maze-rescue.json) |
 | Maze Roller | 32203 | [32203-maze-roller.json](./32203-maze-roller.json) |
 | Maze Run VR | 55416 | [55416-maze-run-vr.json](./55416-maze-run-vr.json) |
 | Maze Runner | 203741 | [203741-maze-runner.json](./203741-maze-runner.json) |
@@ -8685,6 +8686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Gothic | 59101 | [59101-mermaid-gothic.json](./59101-mermaid-gothic.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Life | 400533 | [400533-mermaid-life.json](./400533-mermaid-life.json) |
+| Mermaid Madness | 28449 | [28449-mermaid-madness.json](./28449-mermaid-madness.json) |
 | Mermaid Melody: Pichi Pichi Pitch | 49691 | [49691-mermaid-melody-pichi-pichi-pitch.json](./49691-mermaid-melody-pichi-pichi-pitch.json) |
 | Mermaid Melody: Pichi Pichi Pitch - Pichi Pichi Party | 49693 | [49693-mermaid-melody-pichi-pichi-pitch-pichi-pichi-party.json](./49693-mermaid-melody-pichi-pichi-pitch-pichi-pichi-party.json) |
 | Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start! | 63793 | [63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json](./63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json) |
@@ -9085,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Undergrowth | 372428 | [372428-metal-undergrowth.json](./372428-metal-undergrowth.json) |
 | Metal Unit | 125038 | [125038-metal-unit.json](./125038-metal-unit.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
+| Metal Waltz: Anime tank girls | 28431 | [28431-metal-waltz-anime-tank-girls.json](./28431-metal-waltz-anime-tank-girls.json) |
 | Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
 | Metal War Online: Retribution | 34156 | [34156-metal-war-online-retribution.json](./34156-metal-war-online-retribution.json) |
 | Metal Wars 2 | 196627 | [196627-metal-wars-2.json](./196627-metal-wars-2.json) |
@@ -11137,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindhive: Wilds | 341164 | [341164-mindhive-wilds.json](./341164-mindhive-wilds.json) |
 | MindHunt | 223101 | [223101-mindhunt.json](./223101-mindhunt.json) |
 | MindJack | 7072 | [7072-mindjack.json](./7072-mindjack.json) |
+| MindJam! The Knowledge Guru | 28456 | [28456-mindjam-the-knowledge-guru.json](./28456-mindjam-the-knowledge-guru.json) |
 | MindKatt | 285334 | [285334-mindkatt.json](./285334-mindkatt.json) |
 | Mindless | 153001 | [153001-mindless.json](./153001-mindless.json) |
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
