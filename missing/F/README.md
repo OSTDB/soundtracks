@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Draw Showdown | 8927 | [8927-fast-draw-showdown.json](./8927-fast-draw-showdown.json) |
 | Fast Drive: Extreme Race & Drift | 88002 | [88002-fast-drive-extreme-race-and-drift.json](./88002-fast-drive-extreme-race-and-drift.json) |
 | Fast Dust | 106276 | [106276-fast-dust.json](./106276-fast-dust.json) |
+| Fast Eddie | 18779 | [18779-fast-eddie.json](./18779-fast-eddie.json) |
 | Fast Equality | 268306 | [268306-fast-equality.json](./268306-fast-equality.json) |
 | Fast Euro Train Driver Sim | 213387 | [213387-fast-euro-train-driver-sim.json](./213387-fast-euro-train-driver-sim.json) |
 | Fast Finger Rule | 188928 | [188928-fast-finger-rule.json](./188928-fast-finger-rule.json) |
