@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Fukkatsu | 77577 | [77577-makai-fukkatsu.json](./77577-makai-fukkatsu.json) |
 | Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
 | Makai Kingdom: Reclaimed and Rebound | 189329 | [189329-makai-kingdom-reclaimed-and-rebound.json](./189329-makai-kingdom-reclaimed-and-rebound.json) |
+| Makai Prince Dorabochan | 38090 | [38090-makai-prince-dorabochan.json](./38090-makai-prince-dorabochan.json) |
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
 | Makai-Mura Gaiden: The Demon Darkness | 49066 | [49066-makai-mura-gaiden-the-demon-darkness.json](./49066-makai-mura-gaiden-the-demon-darkness.json) |
@@ -12450,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Miserere | 124550 | [124550-miserere.json](./124550-miserere.json) |
+| Miseria | 38032 | [38032-miseria.json](./38032-miseria.json) |
 | Miseria | 397630 | [397630-miseria.json](./397630-miseria.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misericorde: Volume One | 165896 | [165896-misericorde-volume-one.json](./165896-misericorde-volume-one.json) |
@@ -12993,6 +12995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizu no Senritsu: Kyousoukyoku | 220578 | [220578-mizu-no-senritsu-kyousoukyoku.json](./220578-mizu-no-senritsu-kyousoukyoku.json) |
 | Mizu-iro Converge | 376879 | [376879-mizu-iro-converge.json](./376879-mizu-iro-converge.json) |
+| Mizubaku Daibouken | 38084 | [38084-mizubaku-daibouken.json](./38084-mizubaku-daibouken.json) |
 | Mizuchi | 121406 | [121406-mizuchi.json](./121406-mizuchi.json) |
 | Mizuiro | 345428 | [345428-mizuiro.json](./345428-mizuiro.json) |
 | Mizuiro no Chizu | 77680 | [77680-mizuiro-no-chizu.json](./77680-mizuiro-no-chizu.json) |
@@ -13850,6 +13853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu: 20 Shuunen | 64420 | [64420-momotaro-dentetsu-20-shuunen.json](./64420-momotaro-dentetsu-20-shuunen.json) |
 | Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban! | 122290 | [122290-momotaro-dentetsu-showa-heisei-reiwa-mo-teiban.json](./122290-momotaro-dentetsu-showa-heisei-reiwa-mo-teiban.json) |
 | Momotaro Douchuuki | 64421 | [64421-momotaro-douchuuki.json](./64421-momotaro-douchuuki.json) |
+| Momotaro Katsugeki | 38082 | [38082-momotaro-katsugeki.json](./38082-momotaro-katsugeki.json) |
 | Momotaro Matsuri | 49719 | [49719-momotaro-matsuri.json](./49719-momotaro-matsuri.json) |
 | Momotaro Matsuri: Ishikawa Rokuemon no Maki | 64407 | [64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json](./64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json) |
 | Momotaro no Onigashima Kouryaku-sen: Kaguya-hime wo Sukuidase!!! | 349410 | [349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json](./349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json) |
