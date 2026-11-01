@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven | 22688 | [22688-inazuma-eleven.json](./22688-inazuma-eleven.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
 | Inazuma Eleven 2: Blizzard | 47716 | [47716-inazuma-eleven-2-blizzard.json](./47716-inazuma-eleven-2-blizzard.json) |
+| Inazuma Eleven 2: Firestorm | 47835 | [47835-inazuma-eleven-2-firestorm.json](./47835-inazuma-eleven-2-firestorm.json) |
 | Inazuma Eleven 3: Bomb Blast | 47676 | [47676-inazuma-eleven-3-bomb-blast.json](./47676-inazuma-eleven-3-bomb-blast.json) |
 | Inazuma Eleven 3: Lightning Bolt | 47675 | [47675-inazuma-eleven-3-lightning-bolt.json](./47675-inazuma-eleven-3-lightning-bolt.json) |
 | Inazuma Eleven 3: Team Ogre Attacks! | 47674 | [47674-inazuma-eleven-3-team-ogre-attacks.json](./47674-inazuma-eleven-3-team-ogre-attacks.json) |
@@ -4765,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dark | 271339 | [271339-into-the-dark.json](./271339-into-the-dark.json) |
 | Into the Dark | 6613 | [6613-into-the-dark.json](./6613-into-the-dark.json) |
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
+| Into the Dead | 20911 | [20911-into-the-dead.json](./20911-into-the-dead.json) |
 | Into the Dead 2 | 74828 | [74828-into-the-dead-2.json](./74828-into-the-dead-2.json) |
 | Into the Dead 2: Ghostbusters | 237848 | [237848-into-the-dead-2-ghostbusters.json](./237848-into-the-dead-2-ghostbusters.json) |
 | Into the Dead 2: Unleashed | 197325 | [197325-into-the-dead-2-unleashed.json](./197325-into-the-dead-2-unleashed.json) |
