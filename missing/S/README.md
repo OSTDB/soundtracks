@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World - Episode 2: Situation Comedy | 27822 | [27822-sam-and-max-save-the-world-episode-2-situation-comedy.json](./27822-sam-and-max-save-the-world-episode-2-situation-comedy.json) |
 | Sam & Max: Save the World - Episode 3: The Mole, the Mob and the Meatball | 27821 | [27821-sam-and-max-save-the-world-episode-3-the-mole-the-mob-and-the-meatball.json](./27821-sam-and-max-save-the-world-episode-3-the-mole-the-mob-and-the-meatball.json) |
+| Sam & Max: Save the World - Episode 4: Abe Lincoln Must Die! | 19361 | [19361-sam-and-max-save-the-world-episode-4-abe-lincoln-must-die.json](./19361-sam-and-max-save-the-world-episode-4-abe-lincoln-must-die.json) |
 | Sam & Max: Save the World - Episode 5: Reality 2.0 | 27824 | [27824-sam-and-max-save-the-world-episode-5-reality-2-0.json](./27824-sam-and-max-save-the-world-episode-5-reality-2-0.json) |
 | Sam & Max: Save the World - Episode 6: Bright Side of the Moon | 27825 | [27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json](./27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
@@ -5397,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam Alpha Remake | 356399 | [356399-serious-sam-alpha-remake.json](./356399-serious-sam-alpha-remake.json) |
 | Serious Sam Classics: Revolution | 16457 | [16457-serious-sam-classics-revolution.json](./16457-serious-sam-classics-revolution.json) |
 | Serious Sam Collection | 141060 | [141060-serious-sam-collection.json](./141060-serious-sam-collection.json) |
+| Serious Sam Double D XXL | 20086 | [20086-serious-sam-double-d-xxl.json](./20086-serious-sam-double-d-xxl.json) |
 | Serious Sam Forever | 336017 | [336017-serious-sam-forever.json](./336017-serious-sam-forever.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
 | Serious Sam HD: Gold Collection | 53588 | [53588-serious-sam-hd-gold-collection.json](./53588-serious-sam-hd-gold-collection.json) |
@@ -16060,6 +16062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Chrono Adventure | 19739 | [19739-sonic-chrono-adventure.json](./19739-sonic-chrono-adventure.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
+| Sonic Classic Collection | 20502 | [20502-sonic-classic-collection.json](./20502-sonic-classic-collection.json) |
 | Sonic Classics | 46204 | [46204-sonic-classics.json](./46204-sonic-classics.json) |
 | Sonic Click Team | 331733 | [331733-sonic-click-team.json](./331733-sonic-click-team.json) |
 | Sonic Clockwork | 417679 | [417679-sonic-clockwork.json](./417679-sonic-clockwork.json) |
@@ -17602,6 +17605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
 | South Park: Tenorman's Revenge | 1261 | [1261-south-park-tenormans-revenge.json](./1261-south-park-tenormans-revenge.json) |
 | South Park: The Fractured But Whole - Amazon Steel Book Edition | 2026 | [2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json](./2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json) |
+| South Park: The Fractured But Whole - Bring the Crunch | 105422 | [105422-south-park-the-fractured-but-whole-bring-the-crunch.json](./105422-south-park-the-fractured-but-whole-bring-the-crunch.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
 | South Park: The Fractured But Whole - Danger Deck | 153697 | [153697-south-park-the-fractured-but-whole-danger-deck.json](./153697-south-park-the-fractured-but-whole-danger-deck.json) |
 | South Park: The Fractured But Whole - From Dusk Till Casa Bonita | 96134 | [96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json](./96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json) |
@@ -18169,7 +18173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19756,6 +19759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 3 | 17583 | [17583-spellforce-3.json](./17583-spellforce-3.json) |
 | SpellForce 3: Collector's Edition | 53650 | [53650-spellforce-3-collectors-edition.json](./53650-spellforce-3-collectors-edition.json) |
 | SpellForce 3: Fallen God | 140492 | [140492-spellforce-3-fallen-god.json](./140492-spellforce-3-fallen-god.json) |
+| SpellForce 3: Soul Harvest | 113834 | [113834-spellforce-3-soul-harvest.json](./113834-spellforce-3-soul-harvest.json) |
 | SpellForce 3: Soul Harvest - Oktoberfest | 157561 | [157561-spellforce-3-soul-harvest-oktoberfest.json](./157561-spellforce-3-soul-harvest-oktoberfest.json) |
 | SpellForce 3: Versus | 144290 | [144290-spellforce-3-versus.json](./144290-spellforce-3-versus.json) |
 | SpellForce 3: Versus Edition | 227191 | [227191-spellforce-3-versus-edition.json](./227191-spellforce-3-versus-edition.json) |
@@ -23647,6 +23651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
 | Starscape | 14925 | [14925-starscape.json](./14925-starscape.json) |
 | StarScraper | 148405 | [148405-starscraper.json](./148405-starscraper.json) |
+| Starsector | 18349 | [18349-starsector.json](./18349-starsector.json) |
 | Starseed | 150998 | [150998-starseed.json](./150998-starseed.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starseeker | 107608 | [107608-starseeker.json](./107608-starseeker.json) |
@@ -23980,6 +23985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
 | Stay on Line: Line Runner | 240926 | [240926-stay-on-line-line-runner.json](./240926-stay-on-line-line-runner.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
+| Stay Out of the House | 109668 | [109668-stay-out-of-the-house.json](./109668-stay-out-of-the-house.json) |
 | Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
 | Stay Safe: Labyrinth of the Mad | 120122 | [120122-stay-safe-labyrinth-of-the-mad.json](./120122-stay-safe-labyrinth-of-the-mad.json) |
@@ -24049,6 +24055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Horror: Grand Daddy | 97098 | [97098-stealth-horror-grand-daddy.json](./97098-stealth-horror-grand-daddy.json) |
 | Stealth in the Mystery House | 96835 | [96835-stealth-in-the-mystery-house.json](./96835-stealth-in-the-mystery-house.json) |
 | Stealth Inc 2: A Game of Clones | 17959 | [17959-stealth-inc-2-a-game-of-clones.json](./17959-stealth-inc-2-a-game-of-clones.json) |
+| Stealth Inc: A Clone in the Dark | 20016 | [20016-stealth-inc-a-clone-in-the-dark.json](./20016-stealth-inc-a-clone-in-the-dark.json) |
 | Stealth Inc: A Clone in the Dark - Ultimate Edition | 52872 | [52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json](./52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
@@ -24113,6 +24120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamboat Willie Rescue Mission | 398597 | [398597-steamboat-willie-rescue-mission.json](./398597-steamboat-willie-rescue-mission.json) |
 | SteamBoat Willie, Endless Run | 326696 | [326696-steamboat-willie-endless-run.json](./326696-steamboat-willie-endless-run.json) |
 | Steamboat Willie's Super Willie World | 326695 | [326695-steamboat-willies-super-willie-world.json](./326695-steamboat-willies-super-willie-world.json) |
+| Steambot Chronicles | 19619 | [19619-steambot-chronicles.json](./19619-steambot-chronicles.json) |
 | Steambot Chronicles: Battle Tournament | 42891 | [42891-steambot-chronicles-battle-tournament.json](./42891-steambot-chronicles-battle-tournament.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | Steamburg | 74585 | [74585-steamburg.json](./74585-steamburg.json) |
