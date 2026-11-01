@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar Lock | 17240 | [17240-radar-lock.json](./17240-radar-lock.json) |
 | Radar Mission | 11688 | [11688-radar-mission.json](./11688-radar-mission.json) |
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
+| Radar Rat Race | 18798 | [18798-radar-rat-race.json](./18798-radar-rat-race.json) |
 | Radar Scope | 39391 | [39391-radar-scope.json](./39391-radar-scope.json) |
 | Radar Simulation | 25487 | [25487-radar-simulation.json](./25487-radar-simulation.json) |
 | Radar Warfare | 74131 | [74131-radar-warfare.json](./74131-radar-warfare.json) |
@@ -3081,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaplaced | 270545 | [270545-reaplaced.json](./270545-reaplaced.json) |
 | Reappearance of a Stopped Clock | 398184 | [398184-reappearance-of-a-stopped-clock.json](./398184-reappearance-of-a-stopped-clock.json) |
 | Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
+| Rear Guard | 18806 | [18806-rear-guard.json](./18806-rear-guard.json) |
 | Rear of Business | 151275 | [151275-rear-of-business.json](./151275-rear-of-business.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Rearmed Trials | 231994 | [231994-rearmed-trials.json](./231994-rearmed-trials.json) |
@@ -6097,6 +6099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReverseRoom | 238511 | [238511-reverseroom.json](./238511-reverseroom.json) |
 | ReversEstory | 149156 | [149156-reversestory.json](./149156-reversestory.json) |
 | Reversi | 17541 | [17541-reversi.json](./17541-reversi.json) |
+| Reversi | 18817 | [18817-reversi.json](./18817-reversi.json) |
 | Reversi | 230720 | [230720-reversi.json](./230720-reversi.json) |
 | Reversi | 288835 | [288835-reversi.json](./288835-reversi.json) |
 | Reversi | 315465 | [315465-reversi.json](./315465-reversi.json) |
