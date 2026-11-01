@@ -147,6 +147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakadashi Banzai 5 | 249102 | [249102-nakadashi-banzai-5.json](./249102-nakadashi-banzai-5.json) |
 | Nakajima Satoru F-1 Hero GB: World Championship '91 | 94204 | [94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json](./94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json) |
 | Nakajima Satoru Kanshuu: F-1 Hero '94 | 37914 | [37914-nakajima-satoru-kanshuu-f-1-hero-94.json](./37914-nakajima-satoru-kanshuu-f-1-hero-94.json) |
+| Nakajima Satoru Kanshuu: F1 Grand Prix | 45719 | [45719-nakajima-satoru-kanshuu-f1-grand-prix.json](./45719-nakajima-satoru-kanshuu-f1-grand-prix.json) |
+| Nakajima Satoru Kanshuu: F1 Super License | 45718 | [45718-nakajima-satoru-kanshuu-f1-super-license.json](./45718-nakajima-satoru-kanshuu-f1-super-license.json) |
 | Nakajima Satoru Kanshuu: Super F-1 Hero | 38205 | [38205-nakajima-satoru-kanshuu-super-f-1-hero.json](./38205-nakajima-satoru-kanshuu-super-f-1-hero.json) |
 | Nakajima Satoru: F-1 Hero | 48302 | [48302-nakajima-satoru-f-1-hero.json](./48302-nakajima-satoru-f-1-hero.json) |
 | Nakajima Satoru: F-1 Hero 2 | 48301 | [48301-nakajima-satoru-f-1-hero-2.json](./48301-nakajima-satoru-f-1-hero-2.json) |
