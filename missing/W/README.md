@@ -5367,6 +5367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Legends | 155960 | [155960-wings-of-legends.json](./155960-wings-of-legends.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings of Njord | 320438 | [320438-wings-of-njord.json](./320438-wings-of-njord.json) |
+| Wings of Peace VR: DayBreak | 59579 | [59579-wings-of-peace-vr-daybreak.json](./59579-wings-of-peace-vr-daybreak.json) |
 | Wings of Power: WWII Heavy Bombers and Jets | 61709 | [61709-wings-of-power-wwii-heavy-bombers-and-jets.json](./61709-wings-of-power-wwii-heavy-bombers-and-jets.json) |
 | Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
 | Wings of Prey: Special Edition | 51778 | [51778-wings-of-prey-special-edition.json](./51778-wings-of-prey-special-edition.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 7 Maximum 2007 | 7484 | [7484-winning-post-7-maximum-2007.json](./7484-winning-post-7-maximum-2007.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
+| Winning Post 8 2016 | 59618 | [59618-winning-post-8-2016.json](./59618-winning-post-8-2016.json) |
 | Winning Post 8 2018 | 77782 | [77782-winning-post-8-2018.json](./77782-winning-post-8-2018.json) |
 | Winning Post 9 2020 | 136784 | [136784-winning-post-9-2020.json](./136784-winning-post-9-2020.json) |
 | Winning Post 9: 2021 | 141651 | [141651-winning-post-9-2021.json](./141651-winning-post-9-2021.json) |
