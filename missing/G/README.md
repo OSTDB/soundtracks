@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Saviour | 66587 | [66587-g-saviour.json](./66587-g-saviour.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-Stream G2020 | 83425 | [83425-g-stream-g2020.json](./83425-g-stream-g2020.json) |
+| G-Surfers | 43624 | [43624-g-surfers.json](./43624-g-surfers.json) |
 | G-Switch 3 | 101770 | [101770-g-switch-3.json](./101770-g-switch-3.json) |
 | G-Switch 4: Creator | 321440 | [321440-g-switch-4-creator.json](./321440-g-switch-4-creator.json) |
 | G-Type | 241496 | [241496-g-type.json](./241496-g-type.json) |
@@ -622,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Wars: Defend Your Star Worlds | 286206 | [286206-galactic-wars-defend-your-star-worlds.json](./286206-galactic-wars-defend-your-star-worlds.json) |
 | Galactic Warship | 260297 | [260297-galactic-warship.json](./260297-galactic-warship.json) |
 | Galactic Whiz Kid | 205914 | [205914-galactic-whiz-kid.json](./205914-galactic-whiz-kid.json) |
+| Galactic Wrestling featuring Ultimate Muscle: The Kinnikuman Legacy | 43679 | [43679-galactic-wrestling-featuring-ultimate-muscle-the-kinnikuman-legacy.json](./43679-galactic-wrestling-featuring-ultimate-muscle-the-kinnikuman-legacy.json) |
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
 | Galactica Unbound | 123225 | [123225-galactica-unbound.json](./123225-galactica-unbound.json) |
@@ -5514,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
 | God(s) | 128433 | [128433-god-s.json](./128433-god-s.json) |
 | God5 | 174763 | [174763-god5.json](./174763-god5.json) |
+| GoDai: Elemental Force | 43654 | [43654-godai-elemental-force.json](./43654-godai-elemental-force.json) |
 | Godball | 152043 | [152043-godball.json](./152043-godball.json) |
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
 | Godblade | 419986 | [419986-godblade.json](./419986-godblade.json) |
