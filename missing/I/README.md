@@ -3197,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indy 500 | 198635 | [198635-indy-500.json](./198635-indy-500.json) |
 | Indy 500 | 199427 | [199427-indy-500.json](./199427-indy-500.json) |
 | Indy 500 | 39460 | [39460-indy-500.json](./39460-indy-500.json) |
+| Indy 500 | 54790 | [54790-indy-500.json](./54790-indy-500.json) |
 | Indy 500 | 74170 | [74170-indy-500.json](./74170-indy-500.json) |
 | Indy 500 | 74171 | [74171-indy-500.json](./74171-indy-500.json) |
 | Indy 500 | 74172 | [74172-indy-500.json](./74172-indy-500.json) |
