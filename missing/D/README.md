@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darold the Doomer: Back 2 Reality | 220004 | [220004-darold-the-doomer-back-2-reality.json](./220004-darold-the-doomer-back-2-reality.json) |
 | Darold the Doomer: Psychedelic Lucid Dreams | 195363 | [195363-darold-the-doomer-psychedelic-lucid-dreams.json](./195363-darold-the-doomer-psychedelic-lucid-dreams.json) |
 | Darq | 68271 | [68271-darq.json](./68271-darq.json) |
+| Darq: Complete Edition | 138785 | [138785-darq-complete-edition.json](./138785-darq-complete-edition.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
 | Darq: Ultimate Edition | 218883 | [218883-darq-ultimate-edition.json](./218883-darq-ultimate-edition.json) |
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarXide | 45877 | [45877-darxide.json](./45877-darxide.json) |
 | Darza's Dominion | 56308 | [56308-darzas-dominion.json](./56308-darzas-dominion.json) |
 | Das Auge des Horus | 77248 | [77248-das-auge-des-horus.json](./77248-das-auge-des-horus.json) |
+| Das Balkonzimmer | 141415 | [141415-das-balkonzimmer.json](./141415-das-balkonzimmer.json) |
 | Das Boot | 311321 | [311321-das-boot.json](./311321-das-boot.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
@@ -2485,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
 | Dàtóu Zhūluójì | 158556 | [158556-datou-zhuluoji.json](./158556-datou-zhuluoji.json) |
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
+| Datura | 14527 | [14527-datura.json](./14527-datura.json) |
 | Datura Time | 219143 | [219143-datura-time.json](./219143-datura-time.json) |
 | Daughter | 287875 | [287875-daughter.json](./287875-daughter.json) |
 | Daughter of Crone | 262839 | [262839-daughter-of-crone.json](./262839-daughter-of-crone.json) |
@@ -17702,6 +17705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs F2P: Difficulty Pack | 161780 | [161780-dwarfs-f2p-difficulty-pack.json](./161780-dwarfs-f2p-difficulty-pack.json) |
 | Dwarfs F2P: Skirmish Pack | 161779 | [161779-dwarfs-f2p-skirmish-pack.json](./161779-dwarfs-f2p-skirmish-pack.json) |
 | Dwarfs Fight | 224663 | [224663-dwarfs-fight.json](./224663-dwarfs-fight.json) |
+| Dwarfs!? | 14992 | [14992-dwarfs.json](./14992-dwarfs.json) |
 | Dwarfzbound | 386503 | [386503-dwarfzbound.json](./386503-dwarfzbound.json) |
 | Dwarrf: A Pinball Roguelike | 342593 | [342593-dwarrf-a-pinball-roguelike.json](./342593-dwarrf-a-pinball-roguelike.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
