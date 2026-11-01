@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha: Kagome no Yume Nikki | 37372 | [37372-inuyasha-kagome-no-yume-nikki.json](./37372-inuyasha-kagome-no-yume-nikki.json) |
 | Inuyasha: Revive Story | 234489 | [234489-inuyasha-revive-story.json](./234489-inuyasha-revive-story.json) |
 | Inuyasha: Secret of the Divine Jewel | 20653 | [20653-inuyasha-secret-of-the-divine-jewel.json](./20653-inuyasha-secret-of-the-divine-jewel.json) |
+| InuYasha: The Secret of the Cursed Mask | 43655 | [43655-inuyasha-the-secret-of-the-cursed-mask.json](./43655-inuyasha-the-secret-of-the-cursed-mask.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
 | Inv+ | 94593 | [94593-inv.json](./94593-inv.json) |
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
