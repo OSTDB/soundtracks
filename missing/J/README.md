@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak 3 | 302985 | [302985-jak-3.json](./302985-jak-3.json) |
 | Jak 3: The Journey Back Gold Edition | 237431 | [237431-jak-3-the-journey-back-gold-edition.json](./237431-jak-3-the-journey-back-gold-edition.json) |
 | Jak and Daxter Collection | 20113 | [20113-jak-and-daxter-collection.json](./20113-jak-and-daxter-collection.json) |
+| Jak and Daxter: The Lost Frontier | 1531 | [1531-jak-and-daxter-the-lost-frontier.json](./1531-jak-and-daxter-the-lost-frontier.json) |
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jak II | 1529 | [1529-jak-ii.json](./1529-jak-ii.json) |
@@ -499,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Patterson: Women's Murder Club - Games of Passion | 47831 | [47831-james-patterson-womens-murder-club-games-of-passion.json](./47831-james-patterson-womens-murder-club-games-of-passion.json) |
 | James Peris es el Agente 00,5 | 323045 | [323045-james-peris-es-el-agente-00-5.json](./323045-james-peris-es-el-agente-00-5.json) |
 | James Pond 2: Codename - RoboCod | 230868 | [230868-james-pond-2-codename-robocod.json](./230868-james-pond-2-codename-robocod.json) |
+| James Pond 2: Codename - RoboCod | 4443 | [4443-james-pond-2-codename-robocod.json](./4443-james-pond-2-codename-robocod.json) |
 | James Pond 3: Operation Starfish | 368902 | [368902-james-pond-3-operation-starfish.json](./368902-james-pond-3-operation-starfish.json) |
 | James Pond in the Deathly Shallows | 65874 | [65874-james-pond-in-the-deathly-shallows.json](./65874-james-pond-in-the-deathly-shallows.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
@@ -3413,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Shadow | 374082 | [374082-jungle-shadow.json](./374082-jungle-shadow.json) |
 | Jungle Shoot | 410182 | [410182-jungle-shoot.json](./410182-jungle-shoot.json) |
 | Jungle Speed | 11299 | [11299-jungle-speed.json](./11299-jungle-speed.json) |
+| Jungle Strike | 4368 | [4368-jungle-strike.json](./4368-jungle-strike.json) |
 | Jungle Taitei | 353329 | [353329-jungle-taitei.json](./353329-jungle-taitei.json) |
 | Jungle Town: Birthday quest | 170498 | [170498-jungle-town-birthday-quest.json](./170498-jungle-town-birthday-quest.json) |
 | Jungle Trouble | 47207 | [47207-jungle-trouble.json](./47207-jungle-trouble.json) |
@@ -3759,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2 | 241440 | [241440-just-dance-2.json](./241440-just-dance-2.json) |
 | Just Dance 2 | 2664 | [2664-just-dance-2.json](./2664-just-dance-2.json) |
 | Just Dance 2: Extra Songs | 268119 | [268119-just-dance-2-extra-songs.json](./268119-just-dance-2-extra-songs.json) |
+| Just Dance 2014 | 3256 | [3256-just-dance-2014.json](./3256-just-dance-2014.json) |
 | Just Dance 2014 Basic Pack | 231835 | [231835-just-dance-2014-basic-pack.json](./231835-just-dance-2014-basic-pack.json) |
 | Just Dance 2015 | 15559 | [15559-just-dance-2015.json](./15559-just-dance-2015.json) |
 | Just Dance 2016 & Just Dance: Disney Party 2 | 82540 | [82540-just-dance-2016-and-just-dance-disney-party-2.json](./82540-just-dance-2016-and-just-dance-disney-party-2.json) |
