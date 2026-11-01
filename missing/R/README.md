@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Pinball | 4266 | [4266-real-pinball.json](./4266-real-pinball.json) |
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
 | Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
+| Real Pool | 43627 | [43627-real-pool.json](./43627-real-pool.json) |
 | Real Pool | 91838 | [91838-real-pool.json](./91838-real-pool.json) |
 | Real Pool 2 | 23460 | [23460-real-pool-2.json](./23460-real-pool-2.json) |
 | Real Pool 3D Plus | 175307 | [175307-real-pool-3d-plus.json](./175307-real-pool-3d-plus.json) |
