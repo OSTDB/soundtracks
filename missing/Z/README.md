@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Nippon Pro Wrestling | 61503 | [61503-zen-nippon-pro-wrestling.json](./61503-zen-nippon-pro-wrestling.json) |
 | Zen-Nippon Pro Wrestling 2: 3-4 Budoukan | 42370 | [42370-zen-nippon-pro-wrestling-2-3-4-budoukan.json](./42370-zen-nippon-pro-wrestling-2-3-4-budoukan.json) |
 | Zen-Nippon Pro Wrestling Featuring Virtua | 46089 | [46089-zen-nippon-pro-wrestling-featuring-virtua.json](./46089-zen-nippon-pro-wrestling-featuring-virtua.json) |
+| Zen-Nippon Pro Wrestling Jet | 49110 | [49110-zen-nippon-pro-wrestling-jet.json](./49110-zen-nippon-pro-wrestling-jet.json) |
 | Zen-Nippon Pro Wrestling: Fight Da Pon! | 65200 | [65200-zen-nippon-pro-wrestling-fight-da-pon.json](./65200-zen-nippon-pro-wrestling-fight-da-pon.json) |
 | Zen-Nippon Pro Wrestling: Ouja no Tamashii | 45073 | [45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json](./45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json) |
 | Zen-Nippon Shounen Soccer Taikai: Mezase Nippon Ichi! | 59051 | [59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json](./59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
 | Zipangu Jima: Unmei ha Saikoro ga Kimeru!? | 350188 | [350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json](./350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
+| Zipball | 49072 | [49072-zipball.json](./49072-zipball.json) |
 | Zipp's Café | 272389 | [272389-zipps-cafe.json](./272389-zipps-cafe.json) |
 | Zipper | 151981 | [151981-zipper.json](./151981-zipper.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
