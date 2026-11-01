@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactis | 106429 | [106429-galactis.json](./106429-galactis.json) |
 | Galactix | 218080 | [218080-galactix.json](./218080-galactix.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
+| Galactix | 50234 | [50234-galactix.json](./50234-galactix.json) |
 | Galactoids: Galactic Invaders | 217279 | [217279-galactoids-galactic-invaders.json](./217279-galactoids-galactic-invaders.json) |
 | Galactory | 160275 | [160275-galactory.json](./160275-galactory.json) |
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
@@ -2556,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene Rain: Wind Tower | 123736 | [123736-gene-rain-wind-tower.json](./123736-gene-rain-wind-tower.json) |
 | Gene Rain: Wind Tower - Sky City's Rebirth | 170738 | [170738-gene-rain-wind-tower-sky-citys-rebirth.json](./170738-gene-rain-wind-tower-sky-citys-rebirth.json) |
 | Gene Rain: Wind Tower - Way to Heaven | 170739 | [170739-gene-rain-wind-tower-way-to-heaven.json](./170739-gene-rain-wind-tower-way-to-heaven.json) |
+| Gene Rally | 50259 | [50259-gene-rally.json](./50259-gene-rally.json) |
 | Gene Wars | 83785 | [83785-gene-wars.json](./83785-gene-wars.json) |
 | GeneBreak | 357180 | [357180-genebreak.json](./357180-genebreak.json) |
 | Geneforge | 8362 | [8362-geneforge.json](./8362-geneforge.json) |
@@ -3194,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get It Up! | 357211 | [357211-get-it-up.json](./357211-get-it-up.json) |
 | Get Lost in Nature With Luke | 165162 | [165162-get-lost-in-nature-with-luke.json](./165162-get-lost-in-nature-with-luke.json) |
+| Get Lost! | 50252 | [50252-get-lost.json](./50252-get-lost.json) |
 | Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
 | Get Mazed | 378566 | [378566-get-mazed.json](./378566-get-mazed.json) |
 | Get Me Out, Please | 266108 | [266108-get-me-out-please.json](./266108-get-me-out-please.json) |
