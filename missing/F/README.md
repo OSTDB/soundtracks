@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Marchen: Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai Kosei Shinri Gaku | 49577 | [49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json](./49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json) |
 | Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
 | Fantastic Petty | 341153 | [341153-fantastic-petty.json](./341153-fantastic-petty.json) |
+| Fantastic Pinball Thrills | 35133 | [35133-fantastic-pinball-thrills.json](./35133-fantastic-pinball-thrills.json) |
 | Fantastic Sea | 84036 | [84036-fantastic-sea.json](./84036-fantastic-sea.json) |
 | Fantastic Voyage | 18558 | [18558-fantastic-voyage.json](./18558-fantastic-voyage.json) |
 | Fantastical | 131841 | [131841-fantastical.json](./131841-fantastical.json) |
@@ -7021,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleetbreakers | 342190 | [342190-fleetbreakers.json](./342190-fleetbreakers.json) |
 | FleetComm | 35312 | [35312-fleetcomm.json](./35312-fleetcomm.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
+| Fleeting Ages | 35138 | [35138-fleeting-ages.json](./35138-fleeting-ages.json) |
 | Fleeting Iris | 129358 | [129358-fleeting-iris.json](./129358-fleeting-iris.json) |
 | Fleeting Iris: Alansya Chronicles Ren'Py Edition | 302042 | [302042-fleeting-iris-alansya-chronicles-renpy-edition.json](./302042-fleeting-iris-alansya-chronicles-renpy-edition.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
@@ -7545,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FloorBreaker | 358990 | [358990-floorbreaker.json](./358990-floorbreaker.json) |
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | Floors | 348746 | [348746-floors.json](./348746-floors.json) |
+| Floors of Discomfort | 35160 | [35160-floors-of-discomfort.json](./35160-floors-of-discomfort.json) |
 | Floors of Fate | 414280 | [414280-floors-of-fate.json](./414280-floors-of-fate.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
 | Flop Rocket | 113365 | [113365-flop-rocket.json](./113365-flop-rocket.json) |
@@ -8953,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
 | Forest Warden | 285616 | [285616-forest-warden.json](./285616-forest-warden.json) |
 | Forest Warden | 347496 | [347496-forest-warden.json](./347496-forest-warden.json) |
+| Forest Warrior | 35018 | [35018-forest-warrior.json](./35018-forest-warrior.json) |
 | Forest Whiskers | 383948 | [383948-forest-whiskers.json](./383948-forest-whiskers.json) |
 | Forest Woodman | 127773 | [127773-forest-woodman.json](./127773-forest-woodman.json) |
 | Forest Zombies | 88682 | [88682-forest-zombies.json](./88682-forest-zombies.json) |
@@ -9196,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
 | Fork Parker's Holiday Profit Hike | 14399 | [14399-fork-parkers-holiday-profit-hike.json](./14399-fork-parkers-holiday-profit-hike.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
+| Fork Truck Challenge | 35140 | [35140-fork-truck-challenge.json](./35140-fork-truck-challenge.json) |
 | Forking Hell | 133906 | [133906-forking-hell.json](./133906-forking-hell.json) |
 | ForkJump | 156951 | [156951-forkjump.json](./156951-forkjump.json) |
 | Forklift & Box | 164262 | [164262-forklift-and-box.json](./164262-forklift-and-box.json) |
@@ -11250,6 +11255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog X Bird | 55642 | [55642-frog-x-bird.json](./55642-frog-x-bird.json) |
 | Frog's Adventure | 259738 | [259738-frogs-adventure.json](./259738-frogs-adventure.json) |
 | Frog's Princess | 171822 | [171822-frogs-princess.json](./171822-frogs-princess.json) |
+| Frogar.io | 35154 | [35154-frogar-io.json](./35154-frogar-io.json) |
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
 | Frogatto & Friends | 176702 | [176702-frogatto-and-friends.json](./176702-frogatto-and-friends.json) |
 | Frogatto & Friends | 343974 | [343974-frogatto-and-friends.json](./343974-frogatto-and-friends.json) |
