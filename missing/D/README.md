@@ -7679,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers More, Blood Limited V Edition | 221877 | [221877-diabolik-lovers-more-blood-limited-v-edition.json](./221877-diabolik-lovers-more-blood-limited-v-edition.json) |
+| Diabolik Lovers: Dark Fate | 61941 | [61941-diabolik-lovers-dark-fate.json](./61941-diabolik-lovers-dark-fate.json) |
 | Diabolik Lovers: Grand Edition - Limited Edition | 166268 | [166268-diabolik-lovers-grand-edition-limited-edition.json](./166268-diabolik-lovers-grand-edition-limited-edition.json) |
 | Diabolik Lovers: Haunted Dark Bridal | 85952 | [85952-diabolik-lovers-haunted-dark-bridal.json](./85952-diabolik-lovers-haunted-dark-bridal.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
@@ -7754,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
 | Diamond Runway | 398417 | [398417-diamond-runway.json](./398417-diamond-runway.json) |
 | Diamond Rush | 261986 | [261986-diamond-rush.json](./261986-diamond-rush.json) |
+| Diamond Rush | 61842 | [61842-diamond-rush.json](./61842-diamond-rush.json) |
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diamond Stacks | 89624 | [89624-diamond-stacks.json](./89624-diamond-stacks.json) |
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
@@ -11727,6 +11729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
 | Donkey Master | 106885 | [106885-donkey-master.json](./106885-donkey-master.json) |
+| Donkey Me | 61927 | [61927-donkey-me.json](./61927-donkey-me.json) |
 | Donkey Quiz | 263406 | [263406-donkey-quiz.json](./263406-donkey-quiz.json) |
 | Donkey Racing | 248057 | [248057-donkey-racing.json](./248057-donkey-racing.json) |
 | Donkey Xote | 61341 | [61341-donkey-xote.json](./61341-donkey-xote.json) |
