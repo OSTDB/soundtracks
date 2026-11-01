@@ -10064,9 +10064,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
 | Divine Grimoire | 121205 | [121205-divine-grimoire.json](./121205-divine-grimoire.json) |
 | Divine Guardian | 260874 | [260874-divine-guardian.json](./260874-divine-guardian.json) |
+| Divine Heart Karen SP Season 2: Akuochi Musume no Inbi na Utage | 59096 | [59096-divine-heart-karen-sp-season-2-akuochi-musume-no-inbi-na-utage.json](./59096-divine-heart-karen-sp-season-2-akuochi-musume-no-inbi-na-utage.json) |
+| Divine Heart Karen SP Season 2: Beast War! Jinrou Toubatsu Kouhen | 59090 | [59090-divine-heart-karen-sp-season-2-beast-war-jinrou-toubatsu-kouhen.json](./59090-divine-heart-karen-sp-season-2-beast-war-jinrou-toubatsu-kouhen.json) |
+| Divine Heart Karen SP Season 2: Beast War! Jinrou Toubatsu Zenpen | 59088 | [59088-divine-heart-karen-sp-season-2-beast-war-jinrou-toubatsu-zenpen.json](./59088-divine-heart-karen-sp-season-2-beast-war-jinrou-toubatsu-zenpen.json) |
+| Divine Heart Karen SP Season 2: Gyakushuu no Mamono Musume Alraune! | 59091 | [59091-divine-heart-karen-sp-season-2-gyakushuu-no-mamono-musume-alraune.json](./59091-divine-heart-karen-sp-season-2-gyakushuu-no-mamono-musume-alraune.json) |
+| Divine Heart Karen SP Season 2: Henshin Heroine Kanzen Haiboku! Tetralogy | 59095 | [59095-divine-heart-karen-sp-season-2-henshin-heroine-kanzen-haiboku-tetralogy.json](./59095-divine-heart-karen-sp-season-2-henshin-heroine-kanzen-haiboku-tetralogy.json) |
+| Divine Heart Karen SP Season 2: Nari Henshin Heroine Crisis! | 59092 | [59092-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json](./59092-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json) |
 | Divine Heart Karen SP Season 2: Nari Henshin Heroine Crisis! | 80492 | [80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json](./80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json) |
+| Divine Heart Karen SP Season 2: Sennyuu! Succubus no Into! Hen | 59094 | [59094-divine-heart-karen-sp-season-2-sennyuu-succubus-no-into-hen.json](./59094-divine-heart-karen-sp-season-2-sennyuu-succubus-no-into-hen.json) |
+| Divine Heart Machina Gaiden 01 ~Machina Gakunai Choukyou Hen~ | 59089 | [59089-divine-heart-machina-gaiden-01-machina-gakunai-choukyou-hen.json](./59089-divine-heart-machina-gaiden-01-machina-gakunai-choukyou-hen.json) |
 | Divine Heart Machina Gaiden 04 ~Onna Kanbu Toujoku Hen~ | 59083 | [59083-divine-heart-machina-gaiden-04-onna-kanbu-toujoku-hen.json](./59083-divine-heart-machina-gaiden-04-onna-kanbu-toujoku-hen.json) |
 | Divine Heart Makina ~Haijoku no Intsui Senshi~ | 59084 | [59084-divine-heart-makina-haijoku-no-intsui-senshi.json](./59084-divine-heart-makina-haijoku-no-intsui-senshi.json) |
+| Divine Heart Makina Gaiden 02: Inchuu Houranki Hen | 59087 | [59087-divine-heart-makina-gaiden-02-inchuu-houranki-hen.json](./59087-divine-heart-makina-gaiden-02-inchuu-houranki-hen.json) |
 | Divine Heart Makina Gaiden 03 ~Makina Akuochi Hen~ | 59085 | [59085-divine-heart-makina-gaiden-03-makina-akuochi-hen.json](./59085-divine-heart-makina-gaiden-03-makina-akuochi-hen.json) |
 | Divine Heart Makina Gaiden 05 ~Akuma no Choukagaku! Hen~ | 59082 | [59082-divine-heart-makina-gaiden-05-akuma-no-choukagaku-hen.json](./59082-divine-heart-makina-gaiden-05-akuma-no-choukagaku-hen.json) |
 | Divine Heart Makina Gaiden 06 ~Shougeki no Marunomi Haiboku!~ | 59081 | [59081-divine-heart-makina-gaiden-06-shougeki-no-marunomi-haiboku.json](./59081-divine-heart-makina-gaiden-06-shougeki-no-marunomi-haiboku.json) |
@@ -14117,6 +14126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonskulle | 26393 | [26393-dragonskulle.json](./26393-dragonskulle.json) |
 | DragonSky | 303178 | [303178-dragonsky.json](./303178-dragonsky.json) |
 | DragonSky | 68251 | [68251-dragonsky.json](./68251-dragonsky.json) |
+| Dragonslayer | 58996 | [58996-dragonslayer.json](./58996-dragonslayer.json) |
 | DragonSnake VR | 115361 | [115361-dragonsnake-vr.json](./115361-dragonsnake-vr.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
