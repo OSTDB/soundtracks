@@ -16544,6 +16544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Destroyer | 345400 | [345400-dungeon-destroyer.json](./345400-dungeon-destroyer.json) |
 | Dungeon Destroyer | 363317 | [363317-dungeon-destroyer.json](./363317-dungeon-destroyer.json) |
 | Dungeon Dev | 292261 | [292261-dungeon-dev.json](./292261-dungeon-dev.json) |
+| Dungeon Dicers | 58402 | [58402-dungeon-dicers.json](./58402-dungeon-dicers.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
 | Dungeon Directive | 391627 | [391627-dungeon-directive.json](./391627-dungeon-directive.json) |
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
@@ -17602,6 +17603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
+| Dynamite Baseball Naomi | 58424 | [58424-dynamite-baseball-naomi.json](./58424-dynamite-baseball-naomi.json) |
 | Dynamite Blue | 416795 | [416795-dynamite-blue.json](./416795-dynamite-blue.json) |
 | Dynamite Bomber | 266879 | [266879-dynamite-bomber.json](./266879-dynamite-bomber.json) |
 | Dynamite Cop | 36737 | [36737-dynamite-cop.json](./36737-dynamite-cop.json) |
