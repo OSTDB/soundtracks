@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observe and Report | 297168 | [297168-observe-and-report.json](./297168-observe-and-report.json) |
 | Observer | 19545 | [19545-observer.json](./19545-observer.json) |
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
+| Observer Effect: Edge of the World | 23347 | [23347-observer-effect-edge-of-the-world.json](./23347-observer-effect-edge-of-the-world.json) |
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
 | Observer Protocol: The Station - Second Shift | 349714 | [349714-observer-protocol-the-station-second-shift.json](./349714-observer-protocol-the-station-second-shift.json) |
@@ -4352,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Yusha | 74165 | [74165-otome-yusha.json](./74165-otome-yusha.json) |
 | Otomedius | 1685 | [1685-otomedius.json](./1685-otomedius.json) |
 | Otomedius Excellent | 1695 | [1695-otomedius-excellent.json](./1695-otomedius-excellent.json) |
+| Otomedius Gorgeous! | 23037 | [23037-otomedius-gorgeous.json](./23037-otomedius-gorgeous.json) |
 | Otomedius X | 106251 | [106251-otomedius-x.json](./106251-otomedius-x.json) |
 | OtomeQuest | 98718 | [98718-otomequest.json](./98718-otomequest.json) |
 | Otometeki Koi Kakumei Love Revo! Portable | 214560 | [214560-otometeki-koi-kakumei-love-revo-portable.json](./214560-otometeki-koi-kakumei-love-revo-portable.json) |
