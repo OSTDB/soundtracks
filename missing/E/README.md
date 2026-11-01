@@ -7598,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Drifters | 105161 | [105161-extreme-drifters.json](./105161-extreme-drifters.json) |
 | Extreme Escape | 135660 | [135660-extreme-escape.json](./135660-extreme-escape.json) |
 | Extreme Evolution: Drive to Divinity | 216740 | [216740-extreme-evolution-drive-to-divinity.json](./216740-extreme-evolution-drive-to-divinity.json) |
+| Extreme Exorcism | 20026 | [20026-extreme-exorcism.json](./20026-extreme-exorcism.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
 | Extreme Force: Grant City Anti-Crime | 91679 | [91679-extreme-force-grant-city-anti-crime.json](./91679-extreme-force-grant-city-anti-crime.json) |
 | Extreme Forklifting 2 | 32175 | [32175-extreme-forklifting-2.json](./32175-extreme-forklifting-2.json) |
