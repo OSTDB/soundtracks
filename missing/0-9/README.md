@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
 | 2048 Hex | 87520 | [87520-2048-hex.json](./87520-2048-hex.json) |
+| 2048 Infinite: The Circle of Fifths | 61286 | [61286-2048-infinite-the-circle-of-fifths.json](./61286-2048-infinite-the-circle-of-fifths.json) |
 | 2048 Knight | 57437 | [57437-2048-knight.json](./57437-2048-knight.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Numbers Mania | 233515 | [233515-2048-numbers-mania.json](./233515-2048-numbers-mania.json) |
