@@ -878,7 +878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5126,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatstar: Supercell - "Hay Day Theme" | 358782 | [358782-beatstar-supercell-hay-day-theme.json](./358782-beatstar-supercell-hay-day-theme.json) |
 | Beatstar: Ultimate Studio, Tim Spicer, Yahor Milkota - "Hotshot (Hot Lap League Theme)" | 358784 | [358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json](./358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json) |
 | Beatstar: Yeah Yeah Yeahs - "Heads Will Roll" | 358783 | [358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json](./358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json) |
+| BeatStream | 60816 | [60816-beatstream.json](./60816-beatstream.json) |
 | BeatStream AnimTribe | 395961 | [395961-beatstream-animtribe.json](./395961-beatstream-animtribe.json) |
 | BeatTalk | 180973 | [180973-beattalk.json](./180973-beattalk.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
@@ -7940,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Oz: Wonder Crusher | 237024 | [237024-bit-oz-wonder-crusher.json](./237024-bit-oz-wonder-crusher.json) |
 | Bit Pilot | 41514 | [41514-bit-pilot.json](./41514-bit-pilot.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
+| Bit Planets | 60744 | [60744-bit-planets.json](./60744-bit-planets.json) |
 | Bit Pong | 182172 | [182172-bit-pong.json](./182172-bit-pong.json) |
 | Bit Rat: Singularity | 134485 | [134485-bit-rat-singularity.json](./134485-bit-rat-singularity.json) |
 | Bit Reverse | 256665 | [256665-bit-reverse.json](./256665-bit-reverse.json) |
