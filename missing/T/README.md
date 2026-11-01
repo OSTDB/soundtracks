@@ -3047,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Secret of the Stars | 15893 | [15893-tecmo-secret-of-the-stars.json](./15893-tecmo-secret-of-the-stars.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
 | Tecmo Super Baseball | 46246 | [46246-tecmo-super-baseball.json](./46246-tecmo-super-baseball.json) |
+| Tecmo Super Bowl | 16595 | [16595-tecmo-super-bowl.json](./16595-tecmo-super-bowl.json) |
 | Tecmo Super Bowl | 217714 | [217714-tecmo-super-bowl.json](./217714-tecmo-super-bowl.json) |
 | Tecmo Super Bowl | 237471 | [237471-tecmo-super-bowl.json](./237471-tecmo-super-bowl.json) |
 | Tecmo Super Bowl | 80373 | [80373-tecmo-super-bowl.json](./80373-tecmo-super-bowl.json) |
@@ -9137,6 +9138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Frost Rebirth | 144000 | [144000-the-frost-rebirth.json](./144000-the-frost-rebirth.json) |
 | The Frosted | 160030 | [160030-the-frosted.json](./160030-the-frosted.json) |
+| The Frostrune | 18751 | [18751-the-frostrune.json](./18751-the-frostrune.json) |
 | The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
 | The Frozen Dead Wait | 302733 | [302733-the-frozen-dead-wait.json](./302733-the-frozen-dead-wait.json) |
 | The Frozen Garden | 257800 | [257800-the-frozen-garden.json](./257800-the-frozen-garden.json) |
@@ -11537,6 +11539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Bear: Truck Trucker | 158179 | [158179-the-legend-of-bear-truck-trucker.json](./158179-the-legend-of-bear-truck-trucker.json) |
 | The Legend of Beowulf | 267391 | [267391-the-legend-of-beowulf.json](./267391-the-legend-of-beowulf.json) |
 | The Legend of Blacksilver | 61587 | [61587-the-legend-of-blacksilver.json](./61587-the-legend-of-blacksilver.json) |
+| The Legend of Bum-bo | 18671 | [18671-the-legend-of-bum-bo.json](./18671-the-legend-of-bum-bo.json) |
 | The Legend of California | 394520 | [394520-the-legend-of-california.json](./394520-the-legend-of-california.json) |
 | The Legend of Candlewind: Nights & Candles | 17910 | [17910-the-legend-of-candlewind-nights-and-candles.json](./17910-the-legend-of-candlewind-nights-and-candles.json) |
 | The Legend of Capa Negra | 215738 | [215738-the-legend-of-capa-negra.json](./215738-the-legend-of-capa-negra.json) |
@@ -17481,6 +17484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wave of Monké | 215729 | [215729-the-wave-of-monke.json](./215729-the-wave-of-monke.json) |
 | The Wavy Tube Man Chronicles | 316737 | [316737-the-wavy-tube-man-chronicles.json](./316737-the-wavy-tube-man-chronicles.json) |
 | The Wavy Tube Man Chronicles | 64172 | [64172-the-wavy-tube-man-chronicles.json](./64172-the-wavy-tube-man-chronicles.json) |
+| The Way | 19480 | [19480-the-way.json](./19480-the-way.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
 | The Way Back Home: Sinister Night | 218829 | [218829-the-way-back-home-sinister-night.json](./218829-the-way-back-home-sinister-night.json) |
 | The Way Down | 357734 | [357734-the-way-down.json](./357734-the-way-down.json) |
@@ -21196,6 +21200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Carnage | 30587 | [30587-time-carnage.json](./30587-time-carnage.json) |
 | Time Chaos | 399403 | [399403-time-chaos.json](./399403-time-chaos.json) |
 | Time Chess | 318120 | [318120-time-chess.json](./318120-time-chess.json) |
+| Time Clickers | 19149 | [19149-time-clickers.json](./19149-time-clickers.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Cops | 400099 | [400099-time-cops.json](./400099-time-cops.json) |
 | Time Crisis | 11739 | [11739-time-crisis.json](./11739-time-crisis.json) |
@@ -23264,6 +23269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider I•II•III Remastered | 266683 | [266683-tomb-raider-i-ii-iii-remastered.json](./266683-tomb-raider-i-ii-iii-remastered.json) |
 | Tomb Raider II | 266698 | [266698-tomb-raider-ii.json](./266698-tomb-raider-ii.json) |
 | Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
+| Tomb Raider II: Gold | 27554 | [27554-tomb-raider-ii-gold.json](./27554-tomb-raider-ii-gold.json) |
 | Tomb Raider II: The Forbidden Place | 255842 | [255842-tomb-raider-ii-the-forbidden-place.json](./255842-tomb-raider-ii-the-forbidden-place.json) |
 | Tomb Raider III | 266699 | [266699-tomb-raider-iii.json](./266699-tomb-raider-iii.json) |
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
@@ -25565,6 +25571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox Aviation | 194421 | [194421-toybox-aviation.json](./194421-toybox-aviation.json) |
 | ToyBox Christmas | 279867 | [279867-toybox-christmas.json](./279867-toybox-christmas.json) |
 | ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
+| Toybox Turbos | 17179 | [17179-toybox-turbos.json](./17179-toybox-turbos.json) |
 | Toybox Tussle | 383076 | [383076-toybox-tussle.json](./383076-toybox-tussle.json) |
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
@@ -29484,6 +29491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Idle Simulator 2 | 295294 | [295294-true-idle-simulator-2.json](./295294-true-idle-simulator-2.json) |
 | True Legacy | 88946 | [88946-true-legacy.json](./88946-true-legacy.json) |
 | True Lies | 282484 | [282484-true-lies.json](./282484-true-lies.json) |
+| True Lies | 9702 | [9702-true-lies.json](./9702-true-lies.json) |
 | True Love | 320026 | [320026-true-love.json](./320026-true-love.json) |
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
