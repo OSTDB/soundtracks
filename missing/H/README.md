@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | HeadSquare | 75925 | [75925-headsquare.json](./75925-headsquare.json) |
+| Headstart | 54648 | [54648-headstart.json](./54648-headstart.json) |
 | HeadStart Fun Pac | 78891 | [78891-headstart-fun-pac.json](./78891-headstart-fun-pac.json) |
 | Headup Multiplayer Bundle | 308620 | [308620-headup-multiplayer-bundle.json](./308620-headup-multiplayer-bundle.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
@@ -11334,6 +11335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Bit Chasm | 118646 | [118646-hyper-bit-chasm.json](./118646-hyper-bit-chasm.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
+| Hyper Blob | 54779 | [54779-hyper-blob.json](./54779-hyper-blob.json) |
 | Hyper Bounce Blast | 34328 | [34328-hyper-bounce-blast.json](./34328-hyper-bounce-blast.json) |
 | Hyper Box | 33599 | [33599-hyper-box.json](./33599-hyper-box.json) |
 | Hyper Bullet | 402564 | [402564-hyper-bullet.json](./402564-hyper-bullet.json) |
