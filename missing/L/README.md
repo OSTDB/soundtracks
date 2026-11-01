@@ -7447,6 +7447,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Backrooms | 121274 | [121274-lost-in-the-backrooms.json](./121274-lost-in-the-backrooms.json) |
 | Lost in the Backrooms | 221756 | [221756-lost-in-the-backrooms.json](./221756-lost-in-the-backrooms.json) |
 | Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
+| Lost in the City | 57962 | [57962-lost-in-the-city.json](./57962-lost-in-the-city.json) |
+| Lost in the City: Post Scriptum | 57963 | [57963-lost-in-the-city-post-scriptum.json](./57963-lost-in-the-city-post-scriptum.json) |
 | Lost in the Dance | 182155 | [182155-lost-in-the-dance.json](./182155-lost-in-the-dance.json) |
 | Lost in the Dark Woods | 313997 | [313997-lost-in-the-dark-woods.json](./313997-lost-in-the-dark-woods.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
