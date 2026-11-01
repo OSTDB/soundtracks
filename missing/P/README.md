@@ -6185,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
 | Piloteer | 35617 | [35617-piloteer.json](./35617-piloteer.json) |
 | Pilots of Darsalon | 133452 | [133452-pilots-of-darsalon.json](./133452-pilots-of-darsalon.json) |
+| Pilotwings | 9619 | [9619-pilotwings.json](./9619-pilotwings.json) |
 | Pilotwings 64 | 3573 | [3573-pilotwings-64.json](./3573-pilotwings-64.json) |
 | Pilotwings Resort | 6862 | [6862-pilotwings-resort.json](./6862-pilotwings-resort.json) |
 | PilotXross | 123757 | [123757-pilotxross.json](./123757-pilotxross.json) |
@@ -13151,6 +13152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey: Digital Deluxe | 103306 | [103306-prey-digital-deluxe.json](./103306-prey-digital-deluxe.json) |
 | Prey: Digital Deluxe Edition | 118686 | [118686-prey-digital-deluxe-edition.json](./118686-prey-digital-deluxe-edition.json) |
 | Prey: Limited Collector's Edition | 47397 | [47397-prey-limited-collectors-edition.json](./47397-prey-limited-collectors-edition.json) |
+| Prey: Mooncrash | 103300 | [103300-prey-mooncrash.json](./103300-prey-mooncrash.json) |
 | Preytiger | 181734 | [181734-preytiger.json](./181734-preytiger.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
@@ -15037,6 +15039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Wand: Festival Of Futas | 290790 | [290790-project-wand-festival-of-futas.json](./290790-project-wand-festival-of-futas.json) |
 | Project Wand: Land of Leng | 379537 | [379537-project-wand-land-of-leng.json](./379537-project-wand-land-of-leng.json) |
 | Project War Mobile | 234461 | [234461-project-war-mobile.json](./234461-project-war-mobile.json) |
+| Project Warlock | 105738 | [105738-project-warlock.json](./105738-project-warlock.json) |
 | Project Warlock 2-pack | 223544 | [223544-project-warlock-2-pack.json](./223544-project-warlock-2-pack.json) |
 | Project Warlock II | 152272 | [152272-project-warlock-ii.json](./152272-project-warlock-ii.json) |
 | Project Warlock: Lost Chapters | 270023 | [270023-project-warlock-lost-chapters.json](./270023-project-warlock-lost-chapters.json) |
