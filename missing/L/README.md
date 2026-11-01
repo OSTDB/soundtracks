@@ -9064,6 +9064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Wing: Toki wo Koeta Seisen | 138970 | [138970-lunar-wing-toki-wo-koeta-seisen.json](./138970-lunar-wing-toki-wo-koeta-seisen.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
+| Lunar: Sanposuru Gakuen | 46354 | [46354-lunar-sanposuru-gakuen.json](./46354-lunar-sanposuru-gakuen.json) |
 | Lunar: Silver Star Harmony | 13909 | [13909-lunar-silver-star-harmony.json](./13909-lunar-silver-star-harmony.json) |
 | Lunar: Silver Star Story Complete | 13905 | [13905-lunar-silver-star-story-complete.json](./13905-lunar-silver-star-story-complete.json) |
 | Lunar: The Last Human | 220435 | [220435-lunar-the-last-human.json](./220435-lunar-the-last-human.json) |
