@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
 | Wild Shot: Animal Savior | 348196 | [348196-wild-shot-animal-savior.json](./348196-wild-shot-animal-savior.json) |
+| Wild Snake | 49055 | [49055-wild-snake.json](./49055-wild-snake.json) |
 | Wild Snap | 367577 | [367577-wild-snap.json](./367577-wild-snap.json) |
 | Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
 | Wild Squirrel Family Sim 3D | 234455 | [234455-wild-squirrel-family-sim-3d.json](./234455-wild-squirrel-family-sim-3d.json) |
@@ -6239,6 +6240,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Empire III: Ancestry of the Emperor | 63830 | [63830-wizardry-empire-iii-ancestry-of-the-emperor.json](./63830-wizardry-empire-iii-ancestry-of-the-emperor.json) |
 | Wizardry Empire: Fukkatsu no Tsue | 50049 | [50049-wizardry-empire-fukkatsu-no-tsue.json](./50049-wizardry-empire-fukkatsu-no-tsue.json) |
 | Wizardry Empire: Princess of the Ancient | 63826 | [63826-wizardry-empire-princess-of-the-ancient.json](./63826-wizardry-empire-princess-of-the-ancient.json) |
+| Wizardry Gaiden I: Suffering of the Queen | 49091 | [49091-wizardry-gaiden-i-suffering-of-the-queen.json](./49091-wizardry-gaiden-i-suffering-of-the-queen.json) |
+| Wizardry Gaiden II: Curse of the Ancient Emperor | 49092 | [49092-wizardry-gaiden-ii-curse-of-the-ancient-emperor.json](./49092-wizardry-gaiden-ii-curse-of-the-ancient-emperor.json) |
 | Wizardry Gaiden III: Scripture of the Dark | 49144 | [49144-wizardry-gaiden-iii-scripture-of-the-dark.json](./49144-wizardry-gaiden-iii-scripture-of-the-dark.json) |
 | Wizardry Gold | 62399 | [62399-wizardry-gold.json](./62399-wizardry-gold.json) |
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
