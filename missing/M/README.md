@@ -5496,7 +5496,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6541,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Mayhem | 75009 | [75009-medieval-mayhem.json](./75009-medieval-mayhem.json) |
 | Medieval Merchants - A historical trading simulation | 95298 | [95298-medieval-merchants-a-historical-trading-simulation.json](./95298-medieval-merchants-a-historical-trading-simulation.json) |
+| Medieval Mercs | 13390 | [13390-medieval-mercs.json](./13390-medieval-mercs.json) |
 | Medieval Merge | 194151 | [194151-medieval-merge.json](./194151-medieval-merge.json) |
 | Medieval Merge: Epic Adventure | 248158 | [248158-medieval-merge-epic-adventure.json](./248158-medieval-merge-epic-adventure.json) |
 | Medieval Moves: Deadmund's Quest | 18230 | [18230-medieval-moves-deadmunds-quest.json](./18230-medieval-moves-deadmunds-quest.json) |
