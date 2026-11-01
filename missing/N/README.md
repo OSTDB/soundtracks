@@ -2570,6 +2570,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Select: Keiba Victory Furlong | 107586 | [107586-net-select-keiba-victory-furlong.json](./107586-net-select-keiba-victory-furlong.json) |
 | Net Select: Salaryman Kintarou | 107585 | [107585-net-select-salaryman-kintarou.json](./107585-net-select-salaryman-kintarou.json) |
 | Net Spite and Malice | 94527 | [94527-net-spite-and-malice.json](./94527-net-spite-and-malice.json) |
+| Net Versus Hanafuda | 62387 | [62387-net-versus-hanafuda.json](./62387-net-versus-hanafuda.json) |
+| Net Versus Reversi | 62388 | [62388-net-versus-reversi.json](./62388-net-versus-reversi.json) |
 | Net Versus Shogi | 78078 | [78078-net-versus-shogi.json](./78078-net-versus-shogi.json) |
 | Net Worthless | 410971 | [410971-net-worthless.json](./410971-net-worthless.json) |
 | Net-tac-toe | 276723 | [276723-net-tac-toe.json](./276723-net-tac-toe.json) |
@@ -4052,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Watcher | 72751 | [72751-night-watcher.json](./72751-night-watcher.json) |
 | Night Witch: 588 | 127245 | [127245-night-witch-588.json](./127245-night-witch-588.json) |
 | Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
+| Night Wizard: The Video Game - Denial of the World | 62403 | [62403-night-wizard-the-video-game-denial-of-the-world.json](./62403-night-wizard-the-video-game-denial-of-the-world.json) |
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
 | Night-Runners Prologue | 281485 | [281485-night-runners-prologue.json](./281485-night-runners-prologue.json) |
 | Night, Hood and the Mysterious Traveller | 276780 | [276780-night-hood-and-the-mysterious-traveller.json](./276780-night-hood-and-the-mysterious-traveller.json) |
