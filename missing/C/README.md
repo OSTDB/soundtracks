@@ -8854,6 +8854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Kings | 15200 | [15200-clash-of-kings.json](./15200-clash-of-kings.json) |
 | Clash of Legends | 108178 | [108178-clash-of-legends.json](./108178-clash-of-legends.json) |
+| Clash of Mafias | 60732 | [60732-clash-of-mafias.json](./60732-clash-of-mafias.json) |
 | Clash of Magic | 96461 | [96461-clash-of-magic.json](./96461-clash-of-magic.json) |
 | Clash of Magic VR | 86626 | [86626-clash-of-magic-vr.json](./86626-clash-of-magic-vr.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
@@ -16213,6 +16214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Word | 89514 | [89514-cross-word.json](./89514-cross-word.json) |
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
 | Cross World: Mishiranu Sora no Etatia | 350459 | [350459-cross-world-mishiranu-sora-no-etatia.json](./350459-cross-world-mishiranu-sora-no-etatia.json) |
+| Cross x Beats | 60817 | [60817-cross-x-beats.json](./60817-cross-x-beats.json) |
 | Cross X Carrot | 111608 | [111608-cross-x-carrot.json](./111608-cross-x-carrot.json) |
 | Cross x Worst: Xross Over | 212522 | [212522-cross-x-worst-xross-over.json](./212522-cross-x-worst-xross-over.json) |
 | Cross-Stitch Puzzle | 90822 | [90822-cross-stitch-puzzle.json](./90822-cross-stitch-puzzle.json) |
