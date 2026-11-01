@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
 | Babylon 5: I've Found Her - Danger and Opportunity | 78731 | [78731-babylon-5-ive-found-her-danger-and-opportunity.json](./78731-babylon-5-ive-found-her-danger-and-opportunity.json) |
+| Babylon 5: Into the Fire | 8346 | [8346-babylon-5-into-the-fire.json](./8346-babylon-5-into-the-fire.json) |
 | Babylon 5: Shadow Wars | 80357 | [80357-babylon-5-shadow-wars.json](./80357-babylon-5-shadow-wars.json) |
 | Babylon Tower | 309172 | [309172-babylon-tower.json](./309172-babylon-tower.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
@@ -683,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball | 50299 | [50299-backyard-baseball.json](./50299-backyard-baseball.json) |
 | Backyard Baseball '01 | 348028 | [348028-backyard-baseball-01.json](./348028-backyard-baseball-01.json) |
 | Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
+| Backyard Baseball '10 | 6572 | [6572-backyard-baseball-10.json](./6572-backyard-baseball-10.json) |
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Baseball (2003-2004) | 67805 | [67805-backyard-baseball-2003-2004.json](./67805-backyard-baseball-2003-2004.json) |
 | Backyard Baseball 2001 | 50908 | [50908-backyard-baseball-2001.json](./50908-backyard-baseball-2001.json) |
@@ -4180,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestone | 63084 | [63084-battlestone.json](./63084-battlestone.json) |
 | BattleStones | 90851 | [90851-battlestones.json](./90851-battlestones.json) |
 | BattleStorm | 33774 | [33774-battlestorm.json](./33774-battlestorm.json) |
+| Battlestrike: Force of Resistance | 8345 | [8345-battlestrike-force-of-resistance.json](./8345-battlestrike-force-of-resistance.json) |
 | Battlestrike: Shadow of Stalingrad | 27464 | [27464-battlestrike-shadow-of-stalingrad.json](./27464-battlestrike-shadow-of-stalingrad.json) |
 | Battlestrike: Western and Eastern Front | 205909 | [205909-battlestrike-western-and-eastern-front.json](./205909-battlestrike-western-and-eastern-front.json) |
 | BattleSwarm: Field of Honor | 67707 | [67707-battleswarm-field-of-honor.json](./67707-battleswarm-field-of-honor.json) |
@@ -5533,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
 | Befizzled! | 176164 | [176164-befizzled.json](./176164-befizzled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
+| Before | 8653 | [8653-before.json](./8653-before.json) |
 | Before Arriving at the Terminal | 123942 | [123942-before-arriving-at-the-terminal.json](./123942-before-arriving-at-the-terminal.json) |
 | Before Began | 157363 | [157363-before-began.json](./157363-before-began.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
@@ -6107,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bermuda Adventures | 216414 | [216414-bermuda-adventures.json](./216414-bermuda-adventures.json) |
 | Bermuda Farm | 214304 | [214304-bermuda-farm.json](./214304-bermuda-farm.json) |
 | Bermuda Project | 11953 | [11953-bermuda-project.json](./11953-bermuda-project.json) |
+| Bermuda Syndrome | 8337 | [8337-bermuda-syndrome.json](./8337-bermuda-syndrome.json) |
 | Bermuda Triangle | 22557 | [22557-bermuda-triangle.json](./22557-bermuda-triangle.json) |
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
@@ -9369,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
 | Blightbound | 133932 | [133932-blightbound.json](./133932-blightbound.json) |
 | Blighted | 347662 | [347662-blighted.json](./347662-blighted.json) |
+| Blighted Isle | 8210 | [8210-blighted-isle.json](./8210-blighted-isle.json) |
 | Blighten | 394698 | [394698-blighten.json](./394698-blighten.json) |
 | Blightened | 347800 | [347800-blightened.json](./347800-blightened.json) |
 | Blightfall | 414415 | [414415-blightfall.json](./414415-blightfall.json) |
@@ -14926,6 +14932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Lee: Return of Fury | 177798 | [177798-bruce-lee-return-of-fury.json](./177798-bruce-lee-return-of-fury.json) |
+| Bruce Lee: Return of the Legend | 6339 | [6339-bruce-lee-return-of-the-legend.json](./6339-bruce-lee-return-of-the-legend.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brucie's Arcade | 310253 | [310253-brucies-arcade.json](./310253-brucies-arcade.json) |
 | Brückenbauen | 85746 | [85746-bruckenbauen.json](./85746-bruckenbauen.json) |
@@ -15539,6 +15546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
+| Buffy the Vampire Slayer: Wrath of the Darkhul King | 6343 | [6343-buffy-the-vampire-slayer-wrath-of-the-darkhul-king.json](./6343-buffy-the-vampire-slayer-wrath-of-the-darkhul-king.json) |
 | Bufo Jump | 388315 | [388315-bufo-jump.json](./388315-bufo-jump.json) |
 | Bufo Merge | 374283 | [374283-bufo-merge.json](./374283-bufo-merge.json) |
 | Bug | 302781 | [302781-bug.json](./302781-bug.json) |
@@ -16368,6 +16376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Impact: Solar Strike | 246868 | [246868-burger-impact-solar-strike.json](./246868-burger-impact-solar-strike.json) |
 | Burger in Hyperland | 67917 | [67917-burger-in-hyperland.json](./67917-burger-in-hyperland.json) |
 | Burger in Partyland | 63725 | [63725-burger-in-partyland.json](./63725-burger-in-partyland.json) |
+| Burger Island | 6575 | [6575-burger-island.json](./6575-burger-island.json) |
 | Burger Island 2: The Missing Ingredient | 206694 | [206694-burger-island-2-the-missing-ingredient.json](./206694-burger-island-2-the-missing-ingredient.json) |
 | Burger Jack | 65447 | [65447-burger-jack.json](./65447-burger-jack.json) |
 | Burger Joint | 156851 | [156851-burger-joint.json](./156851-burger-joint.json) |
@@ -16464,6 +16473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn the City | 254344 | [254344-burn-the-city.json](./254344-burn-the-city.json) |
 | Burn the Corn | 254345 | [254345-burn-the-corn.json](./254345-burn-the-corn.json) |
 | Burn the Midnight Oil | 395846 | [395846-burn-the-midnight-oil.json](./395846-burn-the-midnight-oil.json) |
+| Burn the Rope | 6577 | [6577-burn-the-rope.json](./6577-burn-the-rope.json) |
 | Burn the Rope HD | 107658 | [107658-burn-the-rope-hd.json](./107658-burn-the-rope-hd.json) |
 | Burn the Trash! | 122840 | [122840-burn-the-trash.json](./122840-burn-the-trash.json) |
 | Burn the Witch | 142162 | [142162-burn-the-witch.json](./142162-burn-the-witch.json) |
