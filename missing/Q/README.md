@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadulo | 371266 | [371266-quadulo.json](./371266-quadulo.json) |
 | Quagmire | 66395 | [66395-quagmire.json](./66395-quagmire.json) |
 | Quail Crossing | 333158 | [333158-quail-crossing.json](./333158-quail-crossing.json) |
+| Quak Attak | 58417 | [58417-quak-attak.json](./58417-quak-attak.json) |
 | Quake | 239551 | [239551-quake.json](./239551-quake.json) |
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
 | Quake + Quake II Enhanced Bundle | 283197 | [283197-quake-quake-ii-enhanced-bundle.json](./283197-quake-quake-ii-enhanced-bundle.json) |
