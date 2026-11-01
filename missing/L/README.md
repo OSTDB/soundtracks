@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Magna Cum Laude | 2913 | [2913-leisure-suit-larry-magna-cum-laude.json](./2913-leisure-suit-larry-magna-cum-laude.json) |
 | Leisure Suit Larry: Magna Cum Laude - Uncut and Uncensored | 81729 | [81729-leisure-suit-larry-magna-cum-laude-uncut-and-uncensored.json](./81729-leisure-suit-larry-magna-cum-laude-uncut-and-uncensored.json) |
 | Leisure Suit Larry: Pocket Party | 65289 | [65289-leisure-suit-larry-pocket-party.json](./65289-leisure-suit-larry-pocket-party.json) |
+| Leisure Suit Larry: Ultimate Pleasure Pack | 50921 | [50921-leisure-suit-larry-ultimate-pleasure-pack.json](./50921-leisure-suit-larry-ultimate-pleasure-pack.json) |
 | Leisure Suit Larry: Wet Dreams Don't Dry | 102087 | [102087-leisure-suit-larry-wet-dreams-dont-dry.json](./102087-leisure-suit-larry-wet-dreams-dont-dry.json) |
 | Leisure Suit Larry: Wet Dreams Dry Twice | 138756 | [138756-leisure-suit-larry-wet-dreams-dry-twice.json](./138756-leisure-suit-larry-wet-dreams-dry-twice.json) |
 | Leisure Suit Larry: Wet Dreams Dry Twice - Save the World Edition | 154215 | [154215-leisure-suit-larry-wet-dreams-dry-twice-save-the-world-edition.json](./154215-leisure-suit-larry-wet-dreams-dry-twice-save-the-world-edition.json) |
@@ -3453,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Curling!! | 194975 | [194975-lets-play-curling.json](./194975-lets-play-curling.json) |
 | Let's Play Duema! | 222270 | [222270-lets-play-duema.json](./222270-lets-play-duema.json) |
 | Let's Play Duema! 2022 | 222054 | [222054-lets-play-duema-2022.json](./222054-lets-play-duema-2022.json) |
+| Let's Play Garden | 50952 | [50952-lets-play-garden.json](./50952-lets-play-garden.json) |
 | Let's Play Jigsaw Puzzles | 231184 | [231184-lets-play-jigsaw-puzzles.json](./231184-lets-play-jigsaw-puzzles.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
 | Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
