@@ -17409,6 +17409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube-C: VR Game Collection | 74204 | [74204-cube-c-vr-game-collection.json](./74204-cube-c-vr-game-collection.json) |
 | Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
 | Cube-Field+ | 392369 | [392369-cube-field.json](./392369-cube-field.json) |
+| Cube-Up | 56834 | [56834-cube-up.json](./56834-cube-up.json) |
 | Cube: Gardens of Zen | 69210 | [69210-cube-gardens-of-zen.json](./69210-cube-gardens-of-zen.json) |
 | Cube's Kaizo World | 338841 | [338841-cubes-kaizo-world.json](./338841-cubes-kaizo-world.json) |
 | Cube's Kaizo World 2 | 338842 | [338842-cubes-kaizo-world-2.json](./338842-cubes-kaizo-world-2.json) |
