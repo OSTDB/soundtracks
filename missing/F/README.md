@@ -3516,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feichuan | 345944 | [345944-feichuan.json](./345944-feichuan.json) |
 | Feign | 128816 | [128816-feign.json](./128816-feign.json) |
 | Feign | 172516 | [172516-feign.json](./172516-feign.json) |
+| Feist | 16608 | [16608-feist.json](./16608-feist.json) |
 | Feisty Fauna | 193345 | [193345-feisty-fauna.json](./193345-feisty-fauna.json) |
 | Feisty Feet | 42769 | [42769-feisty-feet.json](./42769-feisty-feet.json) |
 | Feisty Heist | 185933 | [185933-feisty-heist.json](./185933-feisty-heist.json) |
