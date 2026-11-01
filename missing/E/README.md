@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Doves | 380641 | [380641-endless-doves.json](./380641-endless-doves.json) |
 | Endless Dream | 253341 | [253341-endless-dream.json](./253341-endless-dream.json) |
+| Endless Dream | 55547 | [55547-endless-dream.json](./55547-endless-dream.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Dungeon: Day One Edition | 234210 | [234210-endless-dungeon-day-one-edition.json](./234210-endless-dungeon-day-one-edition.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
@@ -6002,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Mystery: Scent of Desire | 63630 | [63630-european-mystery-scent-of-desire.json](./63630-european-mystery-scent-of-desire.json) |
 | European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
 | European Mystery: The Face of Envy | 68947 | [68947-european-mystery-the-face-of-envy.json](./68947-european-mystery-the-face-of-envy.json) |
+| European Mystery: The Face of Envy - Collector's Edition | 55606 | [55606-european-mystery-the-face-of-envy-collectors-edition.json](./55606-european-mystery-the-face-of-envy-collectors-edition.json) |
 | European Quest | 294216 | [294216-european-quest.json](./294216-european-quest.json) |
 | European Racers | 69528 | [69528-european-racers.json](./69528-european-racers.json) |
 | European Ship Simulator | 10288 | [10288-european-ship-simulator.json](./10288-european-ship-simulator.json) |
