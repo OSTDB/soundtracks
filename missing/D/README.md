@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage | 10164 | [10164-darkness-within-2-the-dark-lineage.json](./10164-darkness-within-2-the-dark-lineage.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
+| Darkness Within: In Pursuit of Loath Nolder | 10165 | [10165-darkness-within-in-pursuit-of-loath-nolder.json](./10165-darkness-within-in-pursuit-of-loath-nolder.json) |
 | Darkness: Prince of Shadows | 286023 | [286023-darkness-prince-of-shadows.json](./286023-darkness-prince-of-shadows.json) |
 | Darknesssssssssssssssss | 303458 | [303458-darknesssssssssssssssss.json](./303458-darknesssssssssssssssss.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
@@ -5160,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
 | Def Jam Vendetta | 3874 | [3874-def-jam-vendetta.json](./3874-def-jam-vendetta.json) |
+| Def Jam: Icon | 6964 | [6964-def-jam-icon.json](./6964-def-jam-icon.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaced | 236312 | [236312-defaced.json](./236312-defaced.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
