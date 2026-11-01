@@ -4147,6 +4147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is sad | 157407 | [157407-life-is-sad.json](./157407-life-is-sad.json) |
 | Life is Scary | 176765 | [176765-life-is-scary.json](./176765-life-is-scary.json) |
 | Life is Strange 2: Episode 1 - Roads | 111824 | [111824-life-is-strange-2-episode-1-roads.json](./111824-life-is-strange-2-episode-1-roads.json) |
+| Life Is Strange 2: Episode 2 - Rules | 113432 | [113432-life-is-strange-2-episode-2-rules.json](./113432-life-is-strange-2-episode-2-rules.json) |
+| Life is Strange 2: Episode 3 - Wastelands | 116540 | [116540-life-is-strange-2-episode-3-wastelands.json](./116540-life-is-strange-2-episode-3-wastelands.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange 2: Episode 5 - Wolves | 119054 | [119054-life-is-strange-2-episode-5-wolves.json](./119054-life-is-strange-2-episode-5-wolves.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
@@ -7183,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Fallen: Game of the Year Edition | 24728 | [24728-lords-of-the-fallen-game-of-the-year-edition.json](./24728-lords-of-the-fallen-game-of-the-year-edition.json) |
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
+| Lords of the Realm II | 19124 | [19124-lords-of-the-realm-ii.json](./19124-lords-of-the-realm-ii.json) |
 | Lords of the Realm II: Siege Pack | 80478 | [80478-lords-of-the-realm-ii-siege-pack.json](./80478-lords-of-the-realm-ii-siege-pack.json) |
 | Lords of the Realm: Royal Edition | 51841 | [51841-lords-of-the-realm-royal-edition.json](./51841-lords-of-the-realm-royal-edition.json) |
 | Lords of the Rising Sun | 8669 | [8669-lords-of-the-rising-sun.json](./8669-lords-of-the-rising-sun.json) |
