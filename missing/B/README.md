@@ -3628,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Pirates | 23607 | [23607-battle-pirates.json](./23607-battle-pirates.json) |
 | Battle Pixel | 360044 | [360044-battle-pixel.json](./360044-battle-pixel.json) |
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
+| Battle Pixels | 33715 | [33715-battle-pixels.json](./33715-battle-pixels.json) |
 | Battle Plan | 393921 | [393921-battle-plan.json](./393921-battle-plan.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Planet | 15663 | [15663-battle-planet.json](./15663-battle-planet.json) |
@@ -6506,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Darkness | 172920 | [172920-beyond-the-darkness.json](./172920-beyond-the-darkness.json) |
 | Beyond the Dawn | 118630 | [118630-beyond-the-dawn.json](./118630-beyond-the-dawn.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
+| Beyond the Destiny | 33674 | [33674-beyond-the-destiny.json](./33674-beyond-the-destiny.json) |
 | Beyond the Diorama: Caribou World | 163810 | [163810-beyond-the-diorama-caribou-world.json](./163810-beyond-the-diorama-caribou-world.json) |
 | Beyond the Doors | 358779 | [358779-beyond-the-doors.json](./358779-beyond-the-doors.json) |
 | Beyond the Doors | 380009 | [380009-beyond-the-doors.json](./380009-beyond-the-doors.json) |
@@ -9852,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockout | 10208 | [10208-blockout.json](./10208-blockout.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockoverse: The Legend of the Pix | 321070 | [321070-blockoverse-the-legend-of-the-pix.json](./321070-blockoverse-the-legend-of-the-pix.json) |
+| Blockpocalypse | 33768 | [33768-blockpocalypse.json](./33768-blockpocalypse.json) |
 | Blockpop Heroes | 219211 | [219211-blockpop-heroes.json](./219211-blockpop-heroes.json) |
 | Blockpost | 110077 | [110077-blockpost.json](./110077-blockpost.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
@@ -10680,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
 | Blue Beard | 194786 | [194786-blue-beard.json](./194786-blue-beard.json) |
 | Blue Beard 2 | 194787 | [194787-blue-beard-2.json](./194787-blue-beard-2.json) |
+| Blue Bird | 33721 | [33721-blue-bird.json](./33721-blue-bird.json) |
 | Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Bite | 417307 | [417307-blue-bite.json](./417307-blue-bite.json) |
