@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordinem | 114339 | [114339-ordinem.json](./114339-ordinem.json) |
 | Ordinem | 279146 | [279146-ordinem.json](./279146-ordinem.json) |
 | Ordo Et Chao: New World | 113562 | [113562-ordo-et-chao-new-world.json](./113562-ordo-et-chao-new-world.json) |
+| Ordyne | 39968 | [39968-ordyne.json](./39968-ordyne.json) |
 | Ore & Odds | 400688 | [400688-ore-and-odds.json](./400688-ore-and-odds.json) |
 | Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
 | Ore Excavation | 233697 | [233697-ore-excavation.json](./233697-ore-excavation.json) |
