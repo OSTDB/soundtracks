@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
 | Magic Gems | 156226 | [156226-magic-gems.json](./156226-magic-gems.json) |
+| Magic Girl featuring Ling Ling The Little Witch | 45675 | [45675-magic-girl-featuring-ling-ling-the-little-witch.json](./45675-magic-girl-featuring-ling-ling-the-little-witch.json) |
 | Magic Golf | 251731 | [251731-magic-golf.json](./251731-magic-golf.json) |
 | Magic gravity | 76636 | [76636-magic-gravity.json](./76636-magic-gravity.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man or Muppet | 204238 | [204238-man-or-muppet.json](./204238-man-or-muppet.json) |
 | Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
 | Man Overboard! | 242454 | [242454-man-overboard.json](./242454-man-overboard.json) |
+| Man Overboard! | 45707 | [45707-man-overboard.json](./45707-man-overboard.json) |
 | Man Parts | 261925 | [261925-man-parts.json](./261925-man-parts.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
 | Man Sa Yarbah Al Malyoon | 309210 | [309210-man-sa-yarbah-al-malyoon.json](./309210-man-sa-yarbah-al-malyoon.json) |
@@ -5471,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -5720,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Gobbler | 232303 | [232303-maze-gobbler.json](./232303-maze-gobbler.json) |
 | Maze Gold Run | 127267 | [127267-maze-gold-run.json](./127267-maze-gold-run.json) |
 | Maze Horror: Meikyuu Horror | 252893 | [252893-maze-horror-meikyuu-horror.json](./252893-maze-horror-meikyuu-horror.json) |
+| Maze Hunter 3-D | 45674 | [45674-maze-hunter-3-d.json](./45674-maze-hunter-3-d.json) |
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
 | Maze Invaders | 98243 | [98243-maze-invaders.json](./98243-maze-invaders.json) |
 | Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
@@ -6327,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medabots: Robattle 3D | 59828 | [59828-medabots-robattle-3d.json](./59828-medabots-robattle-3d.json) |
 | Medabots: Rokusho | 49235 | [49235-medabots-rokusho.json](./49235-medabots-rokusho.json) |
 | Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
+| Medal City | 45721 | [45721-medal-city.json](./45721-medal-city.json) |
 | Medal Masters | 110299 | [110299-medal-masters.json](./110299-medal-masters.json) |
 | Medal Network Rockman.EXE | 313751 | [313751-medal-network-rockman-exe.json](./313751-medal-network-rockman-exe.json) |
 | Medal of Guardians | 226514 | [226514-medal-of-guardians.json](./226514-medal-of-guardians.json) |
@@ -7586,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meganova | 93290 | [93290-meganova.json](./93290-meganova.json) |
 | Megapain | 398461 | [398461-megapain.json](./398461-megapain.json) |
 | MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
+| Megapanel | 45720 | [45720-megapanel.json](./45720-megapanel.json) |
 | Megaplex | 94722 | [94722-megaplex.json](./94722-megaplex.json) |
 | Megaplex Madness 2: Summer Blockbuster | 352383 | [352383-megaplex-madness-2-summer-blockbuster.json](./352383-megaplex-madness-2-summer-blockbuster.json) |
 | Megaplex Madness: Now Playing | 64730 | [64730-megaplex-madness-now-playing.json](./64730-megaplex-madness-now-playing.json) |
@@ -9038,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Soldier Isaac II | 40353 | [40353-metal-soldier-isaac-ii.json](./40353-metal-soldier-isaac-ii.json) |
 | Metal Soldiers 3 | 206126 | [206126-metal-soldiers-3.json](./206126-metal-soldiers-3.json) |
 | Metal Sonic | 330575 | [330575-metal-sonic.json](./330575-metal-sonic.json) |
+| Metal Sonic Hyperdrive | 45685 | [45685-metal-sonic-hyperdrive.json](./45685-metal-sonic-hyperdrive.json) |
 | Metal Sonic in Sonic 3 & Knuckles | 129187 | [129187-metal-sonic-in-sonic-3-and-knuckles.json](./129187-metal-sonic-in-sonic-3-and-knuckles.json) |
 | Metal Sonic in Sonic the Hedgehog | 198525 | [198525-metal-sonic-in-sonic-the-hedgehog.json](./198525-metal-sonic-in-sonic-the-hedgehog.json) |
 | Metal Sonic in Sonic the Hedgehog 2 | 129186 | [129186-metal-sonic-in-sonic-the-hedgehog-2.json](./129186-metal-sonic-in-sonic-the-hedgehog-2.json) |
@@ -12566,6 +12573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Defender | 114137 | [114137-missile-defender.json](./114137-missile-defender.json) |
 | Missile Defender | 68915 | [68915-missile-defender.json](./68915-missile-defender.json) |
 | Missile Defense | 278093 | [278093-missile-defense.json](./278093-missile-defense.json) |
+| Missile Defense 3-D | 45672 | [45672-missile-defense-3-d.json](./45672-missile-defense-3-d.json) |
 | Missile Dude | 107096 | [107096-missile-dude.json](./107096-missile-dude.json) |
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
 | Missile Invader | 245435 | [245435-missile-invader.json](./245435-missile-invader.json) |
