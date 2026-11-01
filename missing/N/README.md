@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
 | Nancy Drew: The Ghost of Thornton Hall | 16451 | [16451-nancy-drew-the-ghost-of-thornton-hall.json](./16451-nancy-drew-the-ghost-of-thornton-hall.json) |
 | Nancy Drew: The Haunted Carousel | 10586 | [10586-nancy-drew-the-haunted-carousel.json](./10586-nancy-drew-the-haunted-carousel.json) |
+| Nancy Drew: The Haunting of Castle Malloy | 16002 | [16002-nancy-drew-the-haunting-of-castle-malloy.json](./16002-nancy-drew-the-haunting-of-castle-malloy.json) |
 | Nancy Drew: The Hidden Staircase | 47916 | [47916-nancy-drew-the-hidden-staircase.json](./47916-nancy-drew-the-hidden-staircase.json) |
 | Nancy Drew: The Model Mysteries | 206784 | [206784-nancy-drew-the-model-mysteries.json](./206784-nancy-drew-the-model-mysteries.json) |
 | Nancy Drew: The Mystery of the Clue Bender Society | 47907 | [47907-nancy-drew-the-mystery-of-the-clue-bender-society.json](./47907-nancy-drew-the-mystery-of-the-clue-bender-society.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Trail of the Twister | 10588 | [10588-nancy-drew-trail-of-the-twister.json](./10588-nancy-drew-trail-of-the-twister.json) |
 | Nancy Drew: Treasure in the Royal Tower | 7623 | [7623-nancy-drew-treasure-in-the-royal-tower.json](./7623-nancy-drew-treasure-in-the-royal-tower.json) |
 | Nancy Drew: Treasure in the Royal Tower Fan Project | 349638 | [349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json](./349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json) |
+| Nancy Drew: Warnings at Waverly Academy | 15018 | [15018-nancy-drew-warnings-at-waverly-academy.json](./15018-nancy-drew-warnings-at-waverly-academy.json) |
 | Nancy the Happy Whore and the Perfidious Petrol Station | 63119 | [63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json](./63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
@@ -2208,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Basketball | 88149 | [88149-neon-basketball.json](./88149-neon-basketball.json) |
 | Neon Battle | 85607 | [85607-neon-battle.json](./85607-neon-battle.json) |
 | Neon Beat Rider | 163739 | [163739-neon-beat-rider.json](./163739-neon-beat-rider.json) |
+| Neon Beats | 117458 | [117458-neon-beats.json](./117458-neon-beats.json) |
 | Neon Beats | 197652 | [197652-neon-beats.json](./197652-neon-beats.json) |
 | Neon Beats: A Beat Further | 191455 | [191455-neon-beats-a-beat-further.json](./191455-neon-beats-a-beat-further.json) |
 | Neon Beauties: Hentai Photo Puzzle | 417279 | [417279-neon-beauties-hentai-photo-puzzle.json](./417279-neon-beauties-hentai-photo-puzzle.json) |
