@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Drive: Open World Multiplayer Racing | 163830 | [163830-need-for-drive-open-world-multiplayer-racing.json](./163830-need-for-drive-open-world-multiplayer-racing.json) |
 | Need For Gornyak | 86472 | [86472-need-for-gornyak.json](./86472-need-for-gornyak.json) |
 | Need for Kill | 333213 | [333213-need-for-kill.json](./333213-need-for-kill.json) |
+| Need For Madness | 50247 | [50247-need-for-madness.json](./50247-need-for-madness.json) |
 | Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
 | Need for Race Street King & Formula Auto Sport Racing Pack | 385132 | [385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json](./385132-need-for-race-street-king-and-formula-auto-sport-racing-pack.json) |
 | Need For Race: Street King | 328511 | [328511-need-for-race-street-king.json](./328511-need-for-race-street-king.json) |
@@ -5072,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
 | Nitro Drive | 388976 | [388976-nitro-drive.json](./388976-nitro-drive.json) |
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
+| Nitro Family | 50248 | [50248-nitro-family.json](./50248-nitro-family.json) |
 | Nitro Gen Omega | 319146 | [319146-nitro-gen-omega.json](./319146-nitro-gen-omega.json) |
 | Nitro Horizon | 412811 | [412811-nitro-horizon.json](./412811-nitro-horizon.json) |
 | Nitro Karts Racing | 376238 | [376238-nitro-karts-racing.json](./376238-nitro-karts-racing.json) |
