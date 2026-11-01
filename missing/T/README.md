@@ -4354,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Lab | 33391 | [33391-terror-lab.json](./33391-terror-lab.json) |
 | Terror Mansion | 283836 | [283836-terror-mansion.json](./283836-terror-mansion.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
+| Terror of Hemasaurus | 114809 | [114809-terror-of-hemasaurus.json](./114809-terror-of-hemasaurus.json) |
 | Terror of Sea | 227815 | [227815-terror-of-sea.json](./227815-terror-of-sea.json) |
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
 | Terror of the Deep | 37178 | [37178-terror-of-the-deep.json](./37178-terror-of-the-deep.json) |
@@ -17371,6 +17372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Walking Vegetables: Radical! Edition | 111344 | [111344-the-walking-vegetables-radical-edition.json](./111344-the-walking-vegetables-radical-edition.json) |
 | The Walking Zombie | 75798 | [75798-the-walking-zombie.json](./75798-the-walking-zombie.json) |
+| The Walking Zombie 2 | 112665 | [112665-the-walking-zombie-2.json](./112665-the-walking-zombie-2.json) |
 | The Wall | 13086 | [13086-the-wall.json](./13086-the-wall.json) |
 | The Wall | 176849 | [176849-the-wall.json](./176849-the-wall.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
@@ -19085,6 +19087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Backrooms | 324344 | [324344-through-the-backrooms.json](./324344-through-the-backrooms.json) |
 | Through the Dalia | 182682 | [182682-through-the-dalia.json](./182682-through-the-dalia.json) |
 | Through the Dark: Prologue | 36822 | [36822-through-the-dark-prologue.json](./36822-through-the-dark-prologue.json) |
+| Through the Darkest of Times | 107172 | [107172-through-the-darkest-of-times.json](./107172-through-the-darkest-of-times.json) |
 | Through the Dust | 123893 | [123893-through-the-dust.json](./123893-through-the-dust.json) |
 | Through the Edges | 333669 | [333669-through-the-edges.json](./333669-through-the-edges.json) |
 | Through the Eyes of the Girls | 58153 | [58153-through-the-eyes-of-the-girls.json](./58153-through-the-eyes-of-the-girls.json) |
@@ -22111,6 +22114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest Anniversary Edition | 32614 | [32614-titan-quest-anniversary-edition.json](./32614-titan-quest-anniversary-edition.json) |
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
+| Titan Quest: Atlantis | 118280 | [118280-titan-quest-atlantis.json](./118280-titan-quest-atlantis.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
 | Titan Quest: Ragnarök | 75999 | [75999-titan-quest-ragnarok.json](./75999-titan-quest-ragnarok.json) |
 | Titan Revenge | 278356 | [278356-titan-revenge.json](./278356-titan-revenge.json) |
