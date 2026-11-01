@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paca Plus Minus | 63136 | [63136-paca-plus-minus.json](./63136-paca-plus-minus.json) |
 | Paca Plus Plus! | 63135 | [63135-paca-plus-plus.json](./63135-paca-plus-plus.json) |
 | Pacapaca Passion | 139118 | [139118-pacapaca-passion.json](./139118-pacapaca-passion.json) |
+| Pacapaca Passion 2 | 58999 | [58999-pacapaca-passion-2.json](./58999-pacapaca-passion-2.json) |
 | PacaPlus | 29104 | [29104-pacaplus.json](./29104-pacaplus.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
