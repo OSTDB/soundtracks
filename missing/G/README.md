@@ -5658,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
 | Godumas | 207628 | [207628-godumas.json](./207628-godumas.json) |
 | Godus | 3115 | [3115-godus.json](./3115-godus.json) |
+| Godville | 47002 | [47002-godville.json](./47002-godville.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godway: Only Up Simulator | 391134 | [391134-godway-only-up-simulator.json](./391134-godway-only-up-simulator.json) |
 | Godwreath: Chapter 1 | 384280 | [384280-godwreath-chapter-1.json](./384280-godwreath-chapter-1.json) |
@@ -7243,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Slam Tennis | 149301 | [149301-grand-slam-tennis.json](./149301-grand-slam-tennis.json) |
 | Grand Slam Tennis | 4894 | [4894-grand-slam-tennis.json](./4894-grand-slam-tennis.json) |
 | Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
+| Grand Slam Turkey Hunt | 46951 | [46951-grand-slam-turkey-hunt.json](./46951-grand-slam-turkey-hunt.json) |
 | Grand Soul Saga | 292629 | [292629-grand-soul-saga.json](./292629-grand-soul-saga.json) |
 | Grand Sphere | 59177 | [59177-grand-sphere.json](./59177-grand-sphere.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
