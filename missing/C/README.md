@@ -7647,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
 | ChromaZone | 316704 | [316704-chromazone.json](./316704-chromazone.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
+| Chrome | 7873 | [7873-chrome.json](./7873-chrome.json) |
 | Chrome 2 | 92759 | [92759-chrome-2.json](./92759-chrome-2.json) |
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
@@ -7917,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
+| Chuck Rock | 4516 | [4516-chuck-rock.json](./4516-chuck-rock.json) |
 | Chuck Rock | 81871 | [81871-chuck-rock.json](./81871-chuck-rock.json) |
 | Chuck Rock II: Son of Chuck | 4371 | [4371-chuck-rock-ii-son-of-chuck.json](./4371-chuck-rock-ii-son-of-chuck.json) |
 | Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
@@ -9819,6 +9821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud to Gold | 371346 | [371346-cloud-to-gold.json](./371346-cloud-to-gold.json) |
 | Cloud: Telos | 236377 | [236377-cloud-telos.json](./236377-cloud-telos.json) |
 | Cloudbase Prime | 31803 | [31803-cloudbase-prime.json](./31803-cloudbase-prime.json) |
+| Cloudberry Kingdom | 9864 | [9864-cloudberry-kingdom.json](./9864-cloudberry-kingdom.json) |
 | Cloudborn | 68714 | [68714-cloudborn.json](./68714-cloudborn.json) |
 | CloudBound | 31374 | [31374-cloudbound.json](./31374-cloudbound.json) |
 | Cloudbreaker | 355555 | [355555-cloudbreaker.json](./355555-cloudbreaker.json) |
