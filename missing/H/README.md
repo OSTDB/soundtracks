@@ -3195,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron II: Complete | 28993 | [28993-hearts-of-iron-ii-complete.json](./28993-hearts-of-iron-ii-complete.json) |
 | Hearts of Iron II: Doomsday | 10397 | [10397-hearts-of-iron-ii-doomsday.json](./10397-hearts-of-iron-ii-doomsday.json) |
 | Hearts of Iron II: Iron Cross | 17023 | [17023-hearts-of-iron-ii-iron-cross.json](./17023-hearts-of-iron-ii-iron-cross.json) |
+| Hearts of Iron III | 741 | [741-hearts-of-iron-iii.json](./741-hearts-of-iron-iii.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
 | Hearts of Iron III: Axis Minors Vehicle Pack | 162051 | [162051-hearts-of-iron-iii-axis-minors-vehicle-pack.json](./162051-hearts-of-iron-iii-axis-minors-vehicle-pack.json) |
 | Hearts of Iron III: DLC Collection | 154613 | [154613-hearts-of-iron-iii-dlc-collection.json](./154613-hearts-of-iron-iii-dlc-collection.json) |
