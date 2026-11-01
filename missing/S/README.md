@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
 | S.O.R.N. | 400086 | [400086-s-o-r-n.json](./400086-s-o-r-n.json) |
+| S.O.R.S | 35150 | [35150-s-o-r-s.json](./35150-s-o-r-s.json) |
 | S.O.R.T. | 381977 | [381977-s-o-r-t.json](./381977-s-o-r-t.json) |
 | S.O.S: State of Survival | 224399 | [224399-s-o-s-state-of-survival.json](./224399-s-o-s-state-of-survival.json) |
 | S.O.S. | 36682 | [36682-s-o-s.json](./36682-s-o-s.json) |
@@ -10743,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters Runner | 222260 | [222260-sisters-runner.json](./222260-sisters-runner.json) |
 | Sisters Secrecy: Arcanum Bloodlines | 54360 | [54360-sisters-secrecy-arcanum-bloodlines.json](./54360-sisters-secrecy-arcanum-bloodlines.json) |
 | Sisters Secrecy: Arcanum Bloodlines - Collector's Edition | 54361 | [54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json](./54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json) |
+| Sisters Secrecy: Arcanum Bloodlines - Premium Edition | 35137 | [35137-sisters-secrecy-arcanum-bloodlines-premium-edition.json](./35137-sisters-secrecy-arcanum-bloodlines-premium-edition.json) |
 | Sisyphe | 310257 | [310257-sisyphe.json](./310257-sisyphe.json) |
 | Sisyphe's Backspace | 347270 | [347270-sisyphes-backspace.json](./347270-sisyphes-backspace.json) |
 | Sisyphos | 311870 | [311870-sisyphos.json](./311870-sisyphos.json) |
@@ -12423,6 +12425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide With You | 401834 | [401834-slide-with-you.json](./401834-slide-with-you.json) |
 | Slide-A-Lama | 186456 | [186456-slide-a-lama.json](./186456-slide-a-lama.json) |
 | Slide: Animal Race | 174020 | [174020-slide-animal-race.json](./174020-slide-animal-race.json) |
+| Slide: Platformer | 35097 | [35097-slide-platformer.json](./35097-slide-platformer.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | Slide!! | 74194 | [74194-slide.json](./74194-slide.json) |
 | SlideGrid | 409195 | [409195-slidegrid.json](./409195-slidegrid.json) |
@@ -14623,6 +14626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Physics Fight | 219901 | [219901-soccer-physics-fight.json](./219901-soccer-physics-fight.json) |
 | Soccer Pinball | 80790 | [80790-soccer-pinball.json](./80790-soccer-pinball.json) |
+| Soccer Pinball Thrills | 35135 | [35135-soccer-pinball-thrills.json](./35135-soccer-pinball-thrills.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
 | Soccer Puzzle | 391351 | [391351-soccer-puzzle.json](./391351-soccer-puzzle.json) |
 | Soccer Q | 141460 | [141460-soccer-q.json](./141460-soccer-q.json) |
@@ -18052,6 +18056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -31181,6 +31186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
 | SuperStar: Oh My Girl | 232094 | [232094-superstar-oh-my-girl.json](./232094-superstar-oh-my-girl.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
+| Superstatic | 35122 | [35122-superstatic.json](./35122-superstatic.json) |
 | Superstein | 235865 | [235865-superstein.json](./235865-superstein.json) |
 | Superstition | 326522 | [326522-superstition.json](./326522-superstition.json) |
 | Superstition BlackCat | 330331 | [330331-superstition-blackcat.json](./330331-superstition-blackcat.json) |
