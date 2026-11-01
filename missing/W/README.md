@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Destiny | 188346 | [188346-warriors-of-destiny.json](./188346-warriors-of-destiny.json) |
 | Warriors of Dust | 278350 | [278350-warriors-of-dust.json](./278350-warriors-of-dust.json) |
 | Warriors of Elysia | 66569 | [66569-warriors-of-elysia.json](./66569-warriors-of-elysia.json) |
+| Warriors of Fate | 39414 | [39414-warriors-of-fate.json](./39414-warriors-of-fate.json) |
 | Warriors of Freedom | 267780 | [267780-warriors-of-freedom.json](./267780-warriors-of-freedom.json) |
 | Warriors of Glory | 58443 | [58443-warriors-of-glory.json](./58443-warriors-of-glory.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
@@ -7862,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer: Winning Eleven 6 International | 72574 | [72574-world-soccer-winning-eleven-6-international.json](./72574-world-soccer-winning-eleven-6-international.json) |
 | World Soccer: Winning Eleven 7 | 77321 | [77321-world-soccer-winning-eleven-7.json](./77321-world-soccer-winning-eleven-7.json) |
 | World Soccer: Winning Eleven 7 International | 936 | [936-world-soccer-winning-eleven-7-international.json](./936-world-soccer-winning-eleven-7-international.json) |
+| World Soccer: Winning Eleven 8 International | 47354 | [47354-world-soccer-winning-eleven-8-international.json](./47354-world-soccer-winning-eleven-8-international.json) |
 | World Soccer: Winning Eleven 9 | 72967 | [72967-world-soccer-winning-eleven-9.json](./72967-world-soccer-winning-eleven-9.json) |
 | World Spin | 260044 | [260044-world-spin.json](./260044-world-spin.json) |
 | World Sports Competition | 37731 | [37731-world-sports-competition.json](./37731-world-sports-competition.json) |
@@ -8762,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Raw | 324544 | [324544-wwf-raw.json](./324544-wwf-raw.json) |
 | WWF Raw: Wrestling's Rudest and Roughest! | 46249 | [46249-wwf-raw-wrestlings-rudest-and-roughest.json](./46249-wwf-raw-wrestlings-rudest-and-roughest.json) |
 | WWF Royal Rumble | 218342 | [218342-wwf-royal-rumble.json](./218342-wwf-royal-rumble.json) |
+| WWF Royal Rumble | 38408 | [38408-wwf-royal-rumble.json](./38408-wwf-royal-rumble.json) |
 | WWF SmackDown! | 6443 | [6443-wwf-smackdown.json](./6443-wwf-smackdown.json) |
 | WWF SmackDown! 2: Know Your Role | 6444 | [6444-wwf-smackdown-2-know-your-role.json](./6444-wwf-smackdown-2-know-your-role.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
