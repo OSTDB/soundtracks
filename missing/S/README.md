@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
 | Sasami Kisscomi | 92424 | [92424-sasami-kisscomi.json](./92424-sasami-kisscomi.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
+| Sasha Darko's Sacred Line | 45682 | [45682-sasha-darkos-sacred-line.json](./45682-sasha-darkos-sacred-line.json) |
 | Sasha's Stupid Coffee Shop | 268963 | [268963-sashas-stupid-coffee-shop.json](./268963-sashas-stupid-coffee-shop.json) |
 | Sashimi Slayer | 395795 | [395795-sashimi-slayer.json](./395795-sashimi-slayer.json) |
 | Sashinomi Suika-chan | 396558 | [396558-sashinomi-suika-chan.json](./396558-sashinomi-suika-chan.json) |
@@ -13069,6 +13070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Kat | 114701 | [114701-smart-kat.json](./114701-smart-kat.json) |
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
+| Smart Mouse | 45680 | [45680-smart-mouse.json](./45680-smart-mouse.json) |
 | Smart Moves 2 | 149913 | [149913-smart-moves-2.json](./149913-smart-moves-2.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
 | Smart Porter | 247070 | [247070-smart-porter.json](./247070-smart-porter.json) |
@@ -15441,6 +15443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soma Spirits: Rebalance | 29590 | [29590-soma-spirits-rebalance.json](./29590-soma-spirits-rebalance.json) |
 | Soma Union | 144855 | [144855-soma-union.json](./144855-soma-union.json) |
 | SomaCube | 275154 | [275154-somacube.json](./275154-somacube.json) |
+| Somari | 45676 | [45676-somari.json](./45676-somari.json) |
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
 | Somber | 216892 | [216892-somber.json](./216892-somber.json) |
@@ -17986,6 +17989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21532,6 +21536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Divorce | 157409 | [157409-squirrel-divorce.json](./157409-squirrel-divorce.json) |
 | Squirrel Jump | 122165 | [122165-squirrel-jump.json](./122165-squirrel-jump.json) |
 | Squirrel Jump: Forest Pathway | 280367 | [280367-squirrel-jump-forest-pathway.json](./280367-squirrel-jump-forest-pathway.json) |
+| Squirrel King | 45703 | [45703-squirrel-king.json](./45703-squirrel-king.json) |
 | Squirrel Knight | 298145 | [298145-squirrel-knight.json](./298145-squirrel-knight.json) |
 | Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
 | Squirrel Legacy II: Children of the Nut | 286045 | [286045-squirrel-legacy-ii-children-of-the-nut.json](./286045-squirrel-legacy-ii-children-of-the-nut.json) |
@@ -28406,6 +28411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Donkey Kong 3 | 247405 | [247405-super-donkey-kong-3.json](./247405-super-donkey-kong-3.json) |
 | Super Donkey Kong 5 | 247406 | [247406-super-donkey-kong-5.json](./247406-super-donkey-kong-5.json) |
 | Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
+| Super Donkey Kong 99 | 45681 | [45681-super-donkey-kong-99.json](./45681-super-donkey-kong-99.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Doomed'n Damned | 36795 | [36795-super-doomedn-damned.json](./36795-super-doomedn-damned.json) |
