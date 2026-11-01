@@ -3178,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts HD 2.8 Final Chapter Prologue | 14159 | [14159-kingdom-hearts-hd-2-8-final-chapter-prologue.json](./14159-kingdom-hearts-hd-2-8-final-chapter-prologue.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Cloud Version | 176091 | [176091-kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version.json](./176091-kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition | 44535 | [44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json](./44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json) |
+| Kingdom Hearts II Final Mix | 20284 | [20284-kingdom-hearts-ii-final-mix.json](./20284-kingdom-hearts-ii-final-mix.json) |
 | Kingdom Hearts II Final Mix | 221998 | [221998-kingdom-hearts-ii-final-mix.json](./221998-kingdom-hearts-ii-final-mix.json) |
 | Kingdom Hearts II Final Mix: Free Flow Virtuoso Improvements Implementation | 419929 | [419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json](./419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json) |
 | Kingdom Hearts III + Re Mind | 306474 | [306474-kingdom-hearts-iii-re-mind.json](./306474-kingdom-hearts-iii-re-mind.json) |
@@ -3269,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush 5: Alliance TD - Wukong's Journey | 382581 | [382581-kingdom-rush-5-alliance-td-wukongs-journey.json](./382581-kingdom-rush-5-alliance-td-wukongs-journey.json) |
 | Kingdom Rush 5: Alliance TD+ | 355895 | [355895-kingdom-rush-5-alliance-td.json](./355895-kingdom-rush-5-alliance-td.json) |
 | Kingdom Rush 6: Genesis TD | 394375 | [394375-kingdom-rush-6-genesis-td.json](./394375-kingdom-rush-6-genesis-td.json) |
+| Kingdom Rush Frontiers | 6006 | [6006-kingdom-rush-frontiers.json](./6006-kingdom-rush-frontiers.json) |
 | Kingdom Rush Frontiers HD | 88258 | [88258-kingdom-rush-frontiers-hd.json](./88258-kingdom-rush-frontiers-hd.json) |
 | Kingdom Rush HD | 88320 | [88320-kingdom-rush-hd.json](./88320-kingdom-rush-hd.json) |
 | Kingdom Rush Vengeance | 111393 | [111393-kingdom-rush-vengeance.json](./111393-kingdom-rush-vengeance.json) |
