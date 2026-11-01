@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Tentekomai-mai Meikyuu-kan | 186467 | [186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json](./186467-ganbare-goemon-tentekomai-mai-meikyuu-kan.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
+| Ganbare Goemon!: Karakuri Douchuu | 41718 | [41718-ganbare-goemon-karakuri-douchuu.json](./41718-ganbare-goemon-karakuri-douchuu.json) |
 | Ganbare Golf Boys | 44330 | [44330-ganbare-golf-boys.json](./44330-ganbare-golf-boys.json) |
 | Ganbare Jajamaru Saisho ha Goo | 234221 | [234221-ganbare-jajamaru-saisho-ha-goo.json](./234221-ganbare-jajamaru-saisho-ha-goo.json) |
 | Ganbare Marine Kun | 40141 | [40141-ganbare-marine-kun.json](./40141-ganbare-marine-kun.json) |
@@ -1526,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gancho Bond | 372673 | [372673-gancho-bond.json](./372673-gancho-bond.json) |
 | Gandalf the Sorcerer | 141463 | [141463-gandalf-the-sorcerer.json](./141463-gandalf-the-sorcerer.json) |
 | Gander National Park | 148681 | [148681-gander-national-park.json](./148681-gander-national-park.json) |
+| Gandhara: Buddha no Seisen | 41706 | [41706-gandhara-buddha-no-seisen.json](./41706-gandhara-buddha-no-seisen.json) |
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
 | Gang Beasts Rick And Morty 2 | 95892 | [95892-gang-beasts-rick-and-morty-2.json](./95892-gang-beasts-rick-and-morty-2.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
@@ -2362,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekisou! Band Star | 381254 | [381254-gekisou-band-star.json](./381254-gekisou-band-star.json) |
 | Gekitotsu Toma L'Arc: Tomarunner Vs L'Arc-en-Ciel | 44761 | [44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json](./44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json) |
 | Gekitotsu Yonku Battle | 48484 | [48484-gekitotsu-yonku-battle.json](./48484-gekitotsu-yonku-battle.json) |
+| Gekitotsu! Pennant Race | 41679 | [41679-gekitotsu-pennant-race.json](./41679-gekitotsu-pennant-race.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekitou Power Modeller | 49126 | [49126-gekitou-power-modeller.json](./49126-gekitou-power-modeller.json) |
@@ -4253,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
 | Girlvania Expansion Pack: Legs & Feet | 316575 | [316575-girlvania-expansion-pack-legs-and-feet.json](./316575-girlvania-expansion-pack-legs-and-feet.json) |
 | Girlvania: Summer Lust | 169127 | [169127-girlvania-summer-lust.json](./169127-girlvania-summer-lust.json) |
+| Girly Block | 41716 | [41716-girly-block.json](./41716-girly-block.json) |
 | Girp | 137545 | [137545-girp.json](./137545-girp.json) |
 | Girthbound | 389522 | [389522-girthbound.json](./389522-girthbound.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
