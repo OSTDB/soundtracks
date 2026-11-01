@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Music Tour | 160172 | [160172-vapor-music-tour.json](./160172-vapor-music-tour.json) |
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
 | Vapor Trail | 39996 | [39996-vapor-trail.json](./39996-vapor-trail.json) |
+| Vapor TRX | 41075 | [41075-vapor-trx.json](./41075-vapor-trx.json) |
 | Vapor Up! With Man with Apple | 260622 | [260622-vapor-up-with-man-with-apple.json](./260622-vapor-up-with-man-with-apple.json) |
 | Vapor World: Over the Mind | 172712 | [172712-vapor-world-over-the-mind.json](./172712-vapor-world-over-the-mind.json) |
 | VaporFly | 121402 | [121402-vaporfly.json](./121402-vaporfly.json) |
@@ -3825,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Head to Head Baseball | 214598 | [214598-vs-head-to-head-baseball.json](./214598-vs-head-to-head-baseball.json) |
 | Vs. Helifighter | 214597 | [214597-vs-helifighter.json](./214597-vs-helifighter.json) |
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
+| Vs. Ice Climber | 41079 | [41079-vs-ice-climber.json](./41079-vs-ice-climber.json) |
 | Vs. Imposter Alternated | 253870 | [253870-vs-imposter-alternated.json](./253870-vs-imposter-alternated.json) |
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
 | Vs. Lionex | 214600 | [214600-vs-lionex.json](./214600-vs-lionex.json) |
