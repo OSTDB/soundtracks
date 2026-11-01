@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Jayvin | 171787 | [171787-tales-of-jayvin.json](./171787-tales-of-jayvin.json) |
 | Tales of Justice Academy: Winds Arise | 373177 | [373177-tales-of-justice-academy-winds-arise.json](./373177-tales-of-justice-academy-winds-arise.json) |
 | Tales of Kathay | 361259 | [361259-tales-of-kathay.json](./361259-tales-of-kathay.json) |
+| Tales of Kenzera: Zau | 279641 | [279641-tales-of-kenzera-zau.json](./279641-tales-of-kenzera-zau.json) |
 | Tales of Kizna | 294593 | [294593-tales-of-kizna.json](./294593-tales-of-kizna.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Kongfu | 161602 | [161602-tales-of-kongfu.json](./161602-tales-of-kongfu.json) |
@@ -11337,6 +11338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Ramparts | 309903 | [309903-the-last-ramparts.json](./309903-the-last-ramparts.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
+| The Last Remnant | 7047 | [7047-the-last-remnant.json](./7047-the-last-remnant.json) |
 | The Last Remnant Remastered | 109282 | [109282-the-last-remnant-remastered.json](./109282-the-last-remnant-remastered.json) |
 | The Last Resistance | 177728 | [177728-the-last-resistance.json](./177728-the-last-resistance.json) |
 | The Last Resourcer | 347772 | [347772-the-last-resourcer.json](./347772-the-last-resourcer.json) |
@@ -11687,12 +11689,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Skye | 239802 | [239802-the-legend-of-skye.json](./239802-the-legend-of-skye.json) |
 | The Legend of Slime | 67923 | [67923-the-legend-of-slime.json](./67923-the-legend-of-slime.json) |
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
+| The Legend of Spyro: A New Beginning | 1582 | [1582-the-legend-of-spyro-a-new-beginning.json](./1582-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 206652 | [206652-the-legend-of-spyro-a-new-beginning.json](./206652-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 248520 | [248520-the-legend-of-spyro-a-new-beginning.json](./248520-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: Dawn of the Dragon | 1584 | [1584-the-legend-of-spyro-dawn-of-the-dragon.json](./1584-the-legend-of-spyro-dawn-of-the-dragon.json) |
 | The Legend of Spyro: Dawn of the Dragon | 210444 | [210444-the-legend-of-spyro-dawn-of-the-dragon.json](./210444-the-legend-of-spyro-dawn-of-the-dragon.json) |
 | The Legend of Spyro: Dawn of the Dragon | 299540 | [299540-the-legend-of-spyro-dawn-of-the-dragon.json](./299540-the-legend-of-spyro-dawn-of-the-dragon.json) |
+| The Legend of Spyro: The Eternal Night | 1583 | [1583-the-legend-of-spyro-the-eternal-night.json](./1583-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Spyro: The Eternal Night | 210445 | [210445-the-legend-of-spyro-the-eternal-night.json](./210445-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Spyro: The Eternal Night | 210446 | [210446-the-legend-of-spyro-the-eternal-night.json](./210446-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
@@ -15332,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Showtime | 10980 | [10980-the-sims-3-showtime.json](./10980-the-sims-3-showtime.json) |
 | The Sims 3: Showtime Katy Perry Collector's Edition | 30145 | [30145-the-sims-3-showtime-katy-perry-collectors-edition.json](./30145-the-sims-3-showtime-katy-perry-collectors-edition.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
+| The Sims 3: Supernatural | 7645 | [7645-the-sims-3-supernatural.json](./7645-the-sims-3-supernatural.json) |
 | The Sims 3: Town Life Stuff | 13120 | [13120-the-sims-3-town-life-stuff.json](./13120-the-sims-3-town-life-stuff.json) |
 | The Sims 3: University Life | 3158 | [3158-the-sims-3-university-life.json](./3158-the-sims-3-university-life.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
@@ -17674,6 +17679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher Battle Arena | 9689 | [9689-the-witcher-battle-arena.json](./9689-the-witcher-battle-arena.json) |
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
 | The Witcher Remake | 220277 | [220277-the-witcher-remake.json](./220277-the-witcher-remake.json) |
+| The Witcher: Adventure Game | 8765 | [8765-the-witcher-adventure-game.json](./8765-the-witcher-adventure-game.json) |
 | The Witcher: Crimson Trail | 187249 | [187249-the-witcher-crimson-trail.json](./187249-the-witcher-crimson-trail.json) |
 | The Witcher: Enhanced Edition Director's Cut | 27832 | [27832-the-witcher-enhanced-edition-directors-cut.json](./27832-the-witcher-enhanced-edition-directors-cut.json) |
 | The Witcher: Monster Slayer | 137125 | [137125-the-witcher-monster-slayer.json](./137125-the-witcher-monster-slayer.json) |
@@ -17976,6 +17982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre Wars: Goraku no Dendou | 247566 | [247566-theatre-wars-goraku-no-dendou.json](./247566-theatre-wars-goraku-no-dendou.json) |
 | Theatrhythm Dragon Quest | 60767 | [60767-theatrhythm-dragon-quest.json](./60767-theatrhythm-dragon-quest.json) |
 | Theatrhythm Final Bar Line | 217556 | [217556-theatrhythm-final-bar-line.json](./217556-theatrhythm-final-bar-line.json) |
+| Theatrhythm Final Fantasy | 6902 | [6902-theatrhythm-final-fantasy.json](./6902-theatrhythm-final-fantasy.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Collector's Edition | 89895 | [89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json](./89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Limited Edition | 89894 | [89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json](./89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Orlandeau Character | 354552 | [354552-theatrhythm-final-fantasy-curtain-call-orlandeau-character.json](./354552-theatrhythm-final-fantasy-curtain-call-orlandeau-character.json) |
@@ -23013,6 +23020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X | 983 | [983-tom-clancys-h-a-w-x.json](./983-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
+| Tom Clancy's H.A.W.X 2 | 984 | [984-tom-clancys-h-a-w-x-2.json](./984-tom-clancys-h-a-w-x-2.json) |
 | Tom Clancy's Origin Collection | 53803 | [53803-tom-clancys-origin-collection.json](./53803-tom-clancys-origin-collection.json) |
 | Tom Clancy's Rainbow Six | 1842 | [1842-tom-clancys-rainbow-six.json](./1842-tom-clancys-rainbow-six.json) |
 | Tom Clancy's Rainbow Six | 249139 | [249139-tom-clancys-rainbow-six.json](./249139-tom-clancys-rainbow-six.json) |
@@ -30320,6 +30328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | TurretMaster | 75954 | [75954-turretmaster.json](./75954-turretmaster.json) |
+| Turrican | 5164 | [5164-turrican.json](./5164-turrican.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
 | Turrican Anthology Vol. 1 | 137324 | [137324-turrican-anthology-vol-1.json](./137324-turrican-anthology-vol-1.json) |
 | Turrican Anthology Vol. 2 | 137325 | [137325-turrican-anthology-vol-2.json](./137325-turrican-anthology-vol-2.json) |
