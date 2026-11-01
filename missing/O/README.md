@@ -4233,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku Puzzle! | 268044 | [268044-otaku-puzzle.json](./268044-otaku-puzzle.json) |
 | Otaku Simulator | 304069 | [304069-otaku-simulator.json](./304069-otaku-simulator.json) |
 | Otaku Survival Horror | 343060 | [343060-otaku-survival-horror.json](./343060-otaku-survival-horror.json) |
+| Otaku's Adventure | 118355 | [118355-otakus-adventure.json](./118355-otakus-adventure.json) |
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Challenge | 367628 | [367628-otakus-challenge.json](./367628-otakus-challenge.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
