@@ -7247,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Academy II: Attack of the Sequel | 126834 | [126834-grand-academy-ii-attack-of-the-sequel.json](./126834-grand-academy-ii-attack-of-the-sequel.json) |
 | Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
+| Grand Ages: Medieval | 11814 | [11814-grand-ages-medieval.json](./11814-grand-ages-medieval.json) |
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
 | Grand Ages: Rome - Reign of Augustus | 10375 | [10375-grand-ages-rome-reign-of-augustus.json](./10375-grand-ages-rome-reign-of-augustus.json) |
@@ -10185,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunflare Epoch | 372968 | [372968-gunflare-epoch.json](./372968-gunflare-epoch.json) |
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunflow | 302087 | [302087-gunflow.json](./302087-gunflow.json) |
+| Gunforce | 10449 | [10449-gunforce.json](./10449-gunforce.json) |
 | Gunforged | 235632 | [235632-gunforged.json](./235632-gunforged.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
 | GunFu Deadlands | 242441 | [242441-gunfu-deadlands.json](./242441-gunfu-deadlands.json) |
