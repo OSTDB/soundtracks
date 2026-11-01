@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadVentures | 204180 | [204180-madventures.json](./204180-madventures.json) |
 | Madville+ | 197475 | [197475-madville.json](./197475-madville.json) |
 | MadWheels | 185476 | [185476-madwheels.json](./185476-madwheels.json) |
+| MadWorld | 3214 | [3214-madworld.json](./3214-madworld.json) |
 | Madzik | 294184 | [294184-madzik.json](./294184-madzik.json) |
 | Maegami ga Nagakute Seikaku ga Kurai Kakuu no Otoko | 416645 | [416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json](./416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json) |
 | Maeldor: Enhanced Edition | 235687 | [235687-maeldor-enhanced-edition.json](./235687-maeldor-enhanced-edition.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
 | Marvel Tsum Tsum | 58682 | [58682-marvel-tsum-tsum.json](./58682-marvel-tsum-tsum.json) |
+| Marvel Ultimate Alliance 3: The Black Order | 113109 | [113109-marvel-ultimate-alliance-3-the-black-order.json](./113109-marvel-ultimate-alliance-3-the-black-order.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
@@ -11815,6 +11817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X | 197623 | [197623-mini-motor-racing-x.json](./197623-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
+| Mini Motorways | 122559 | [122559-mini-motorways.json](./122559-mini-motorways.json) |
 | Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
 | Mini Moves: Among Stars | 160064 | [160064-mini-moves-among-stars.json](./160064-mini-moves-among-stars.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
@@ -14563,6 +14566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Frontier Z | 78360 | [78360-monster-hunter-frontier-z.json](./78360-monster-hunter-frontier-z.json) |
 | Monster Hunter Frontier ZZenith | 104999 | [104999-monster-hunter-frontier-zzenith.json](./104999-monster-hunter-frontier-zzenith.json) |
 | Monster Hunter G | 70413 | [70413-monster-hunter-g.json](./70413-monster-hunter-g.json) |
+| Monster Hunter Generations | 18181 | [18181-monster-hunter-generations.json](./18181-monster-hunter-generations.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
 | Monster Hunter i | 341145 | [341145-monster-hunter-i.json](./341145-monster-hunter-i.json) |
 | Monster Hunter Ltd: Part I | 256821 | [256821-monster-hunter-ltd-part-i.json](./256821-monster-hunter-ltd-part-i.json) |
@@ -16168,6 +16172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
 | Mosquitoes and zombies | 132410 | [132410-mosquitoes-and-zombies.json](./132410-mosquitoes-and-zombies.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
+| Moss | 37095 | [37095-moss.json](./37095-moss.json) |
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
 | Moss Moss | 393732 | [393732-moss-moss.json](./393732-moss-moss.json) |
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
