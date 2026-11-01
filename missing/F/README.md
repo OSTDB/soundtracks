@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Stay Night: Réalta Nua - Heaven's Feel | 47066 | [47066-fate-stay-night-realta-nua-heavens-feel.json](./47066-fate-stay-night-realta-nua-heavens-feel.json) |
 | Fate/tiger colosseum | 12331 | [12331-fate-tiger-colosseum.json](./12331-fate-tiger-colosseum.json) |
 | Fate/tiger colosseum Upper | 12332 | [12332-fate-tiger-colosseum-upper.json](./12332-fate-tiger-colosseum-upper.json) |
+| Fate/unlimited codes | 12381 | [12381-fate-unlimited-codes.json](./12381-fate-unlimited-codes.json) |
 | Fate/unlimited codes Portable | 42863 | [42863-fate-unlimited-codes-portable.json](./42863-fate-unlimited-codes-portable.json) |
 | Fate/Zero the Visual Novel | 297459 | [297459-fate-zero-the-visual-novel.json](./297459-fate-zero-the-visual-novel.json) |
 | Fatebound | 320591 | [320591-fatebound.json](./320591-fatebound.json) |
@@ -7408,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippin Ninjas | 163149 | [163149-flippin-ninjas.json](./163149-flippin-ninjas.json) |
 | Flippin' Phones | 58884 | [58884-flippin-phones.json](./58884-flippin-phones.json) |
 | Flipping Beat | 185976 | [185976-flipping-beat.json](./185976-flipping-beat.json) |
+| Flipping Death | 27434 | [27434-flipping-death.json](./27434-flipping-death.json) |
 | Flipping Filip | 104820 | [104820-flipping-filip.json](./104820-flipping-filip.json) |
 | Flipping Football Clubs | 405928 | [405928-flipping-football-clubs.json](./405928-flipping-football-clubs.json) |
 | Flipping Frogs 64 | 369060 | [369060-flipping-frogs-64.json](./369060-flipping-frogs-64.json) |
@@ -7992,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyChivements | 163023 | [163023-flychivements.json](./163023-flychivements.json) |
 | Flyeeex | 117619 | [117619-flyeeex.json](./117619-flyeeex.json) |
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
+| Flyff | 12054 | [12054-flyff.json](./12054-flyff.json) |
 | Flyff Legacy | 68901 | [68901-flyff-legacy.json](./68901-flyff-legacy.json) |
 | FlyFuture | 413445 | [413445-flyfuture.json](./413445-flyfuture.json) |
 | Flyga | 293004 | [293004-flyga.json](./293004-flyga.json) |
@@ -11806,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
 | Frozen Free Fall | 18131 | [18131-frozen-free-fall.json](./18131-frozen-free-fall.json) |
 | Frozen Free Fall: Icy Shot | 245757 | [245757-frozen-free-fall-icy-shot.json](./245757-frozen-free-fall-icy-shot.json) |
+| Frozen Free Fall: Snowball Fight | 35530 | [35530-frozen-free-fall-snowball-fight.json](./35530-frozen-free-fall-snowball-fight.json) |
 | Frozen Friday Night: The Eve | 210977 | [210977-frozen-friday-night-the-eve.json](./210977-frozen-friday-night-the-eve.json) |
 | Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
