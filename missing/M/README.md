@@ -3099,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mar | 405636 | [405636-mar.json](./405636-mar.json) |
 | Mär Heaven: Arm Fight Dream | 59398 | [59398-mar-heaven-arm-fight-dream.json](./59398-mar-heaven-arm-fight-dream.json) |
 | Mär Heaven: Karudea no Akuma | 353317 | [353317-mar-heaven-karudea-no-akuma.json](./353317-mar-heaven-karudea-no-akuma.json) |
+| Mär Heaven: Knockin' on Heaven's Door | 49660 | [49660-mar-heaven-knockin-on-heavens-door.json](./49660-mar-heaven-knockin-on-heavens-door.json) |
 | Mar Koochooloo | 276719 | [276719-mar-koochooloo.json](./276719-mar-koochooloo.json) |
 | MAR WAR: The Evil Awakens | 83519 | [83519-mar-war-the-evil-awakens.json](./83519-mar-war-the-evil-awakens.json) |
 | Mara | 348703 | [348703-mara.json](./348703-mara.json) |
@@ -8654,6 +8655,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Gothic | 59101 | [59101-mermaid-gothic.json](./59101-mermaid-gothic.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Life | 400533 | [400533-mermaid-life.json](./400533-mermaid-life.json) |
+| Mermaid Melody: Pichi Pichi Pitch | 49691 | [49691-mermaid-melody-pichi-pichi-pitch.json](./49691-mermaid-melody-pichi-pichi-pitch.json) |
+| Mermaid Melody: Pichi Pichi Pitch - Pichi Pichi Party | 49693 | [49693-mermaid-melody-pichi-pichi-pitch-pichi-pichi-party.json](./49693-mermaid-melody-pichi-pichi-pitch-pichi-pichi-party.json) |
 | Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start! | 63793 | [63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json](./63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json) |
 | Mermaid Mission: Titanic | 101288 | [101288-mermaid-mission-titanic.json](./101288-mermaid-mission-titanic.json) |
 | Mermaid no Kisetsu | 371011 | [371011-mermaid-no-kisetsu.json](./371011-mermaid-no-kisetsu.json) |
@@ -8950,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Mars | 151506 | [151506-metal-mars.json](./151506-metal-mars.json) |
 | Metal Max | 48428 | [48428-metal-max.json](./48428-metal-max.json) |
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
+| Metal Max 2 Kai | 49690 | [49690-metal-max-2-kai.json](./49690-metal-max-2-kai.json) |
 | Metal Max 2: Reloaded | 65858 | [65858-metal-max-2-reloaded.json](./65858-metal-max-2-reloaded.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
 | Metal Max 4: Moonlight Diva | 63165 | [63165-metal-max-4-moonlight-diva.json](./63165-metal-max-4-moonlight-diva.json) |
@@ -9067,6 +9071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
 | Metalborne | 196562 | [196562-metalborne.json](./196562-metalborne.json) |
 | MetalCore | 216171 | [216171-metalcore.json](./216171-metalcore.json) |
+| Metalgun Slinger | 49689 | [49689-metalgun-slinger.json](./49689-metalgun-slinger.json) |
 | Metalhead Tycoon | 60975 | [60975-metalhead-tycoon.json](./60975-metalhead-tycoon.json) |
 | MetalHeart: Replicants Rampage | 69749 | [69749-metalheart-replicants-rampage.json](./69749-metalheart-replicants-rampage.json) |
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
@@ -9435,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meyow | 388151 | [388151-meyow.json](./388151-meyow.json) |
 | Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
+| Mezase! Koushien | 49688 | [49688-mezase-koushien.json](./49688-mezase-koushien.json) |
 | Mezase! Monmusu Idol | 77847 | [77847-mezase-monmusu-idol.json](./77847-mezase-monmusu-idol.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
 | Mezase! Shoujo Mangaka! Chao Manga School | 130715 | [130715-mezase-shoujo-mangaka-chao-manga-school.json](./130715-mezase-shoujo-mangaka-chao-manga-school.json) |
@@ -10938,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
+| Minami no Umi no Odyssey | 49687 | [49687-minami-no-umi-no-odyssey.json](./49687-minami-no-umi-no-odyssey.json) |
 | Minami Taiheiyou Adventure | 400335 | [400335-minami-taiheiyou-adventure.json](./400335-minami-taiheiyou-adventure.json) |
 | Minamochi Factory | 253912 | [253912-minamochi-factory.json](./253912-minamochi-factory.json) |
 | Minar | 174291 | [174291-minar.json](./174291-minar.json) |
@@ -11930,6 +11937,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimon | 17564 | [17564-minimon.json](./17564-minimon.json) |
+| MiniMoni: Mika no Happy Morning Chatty | 49686 | [49686-minimoni-mika-no-happy-morning-chatty.json](./49686-minimoni-mika-no-happy-morning-chatty.json) |
+| MiniMoni: Onegaio Hoshisama! | 49685 | [49685-minimoni-onegaio-hoshisama.json](./49685-minimoni-onegaio-hoshisama.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
 | Minimonos Flight | 383765 | [383765-minimonos-flight.json](./383765-minimonos-flight.json) |
 | Minimonsters Crush | 90820 | [90820-minimonsters-crush.json](./90820-minimonsters-crush.json) |
@@ -13192,6 +13201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
 | Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
+| Mobile Suit Gundam Seed: Tomo to Kimi to Koko de | 49644 | [49644-mobile-suit-gundam-seed-tomo-to-kimi-to-koko-de.json](./49644-mobile-suit-gundam-seed-tomo-to-kimi-to-koko-de.json) |
 | Mobile Suit Gundam Side Stories | 61454 | [61454-mobile-suit-gundam-side-stories.json](./61454-mobile-suit-gundam-side-stories.json) |
 | Mobile Suit Gundam Side Story I: Sentritsu no Blue | 194943 | [194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json](./194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json) |
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
@@ -17796,6 +17806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Princess 3 | 212820 | [212820-muscle-princess-3.json](./212820-muscle-princess-3.json) |
 | Muscle Ranking GB2: Mezase! Muscle Champion | 228583 | [228583-muscle-ranking-gb2-mezase-muscle-champion.json](./228583-muscle-ranking-gb2-mezase-muscle-champion.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
+| Muscle Ranking: Kimeru! Kiseki no Kanzen Seiha | 49642 | [49642-muscle-ranking-kimeru-kiseki-no-kanzen-seiha.json](./49642-muscle-ranking-kimeru-kiseki-no-kanzen-seiha.json) |
 | Muscle Ranking: Muscle Wars 21 | 58998 | [58998-muscle-ranking-muscle-wars-21.json](./58998-muscle-ranking-muscle-wars-21.json) |
 | Muscle World | 152096 | [152096-muscle-world.json](./152096-muscle-world.json) |
 | Muscles and Bullets | 124413 | [124413-muscles-and-bullets.json](./124413-muscles-and-bullets.json) |
