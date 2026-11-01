@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted - Ultimate Edition | 99929 | [99929-need-for-speed-most-wanted-ultimate-edition.json](./99929-need-for-speed-most-wanted-ultimate-edition.json) |
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
 | Need for Speed: Most Wanted Demo | 301229 | [301229-need-for-speed-most-wanted-demo.json](./301229-need-for-speed-most-wanted-demo.json) |
+| Need for Speed: Most Wanted NFS Heroes Pack | 26186 | [26186-need-for-speed-most-wanted-nfs-heroes-pack.json](./26186-need-for-speed-most-wanted-nfs-heroes-pack.json) |
 | Need for Speed: Most Wanted Terminal Velocity Pack | 117321 | [117321-need-for-speed-most-wanted-terminal-velocity-pack.json](./117321-need-for-speed-most-wanted-terminal-velocity-pack.json) |
 | Need for Speed: Nitro | 103 | [103-need-for-speed-nitro.json](./103-need-for-speed-nitro.json) |
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
@@ -6539,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova 2001 | 38563 | [38563-nova-2001.json](./38563-nova-2001.json) |
 | Nova 9: The Return of Gir Draxon | 14516 | [14516-nova-9-the-return-of-gir-draxon.json](./14516-nova-9-the-return-of-gir-draxon.json) |
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
+| Nova Assault | 26151 | [26151-nova-assault.json](./26151-nova-assault.json) |
 | Nova Assault | 389402 | [389402-nova-assault.json](./389402-nova-assault.json) |
 | Nova Battles | 205584 | [205584-nova-battles.json](./205584-nova-battles.json) |
 | Nova Blitz | 34801 | [34801-nova-blitz.json](./34801-nova-blitz.json) |
