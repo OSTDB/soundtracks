@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olaf and the Crowning Hangover | 326125 | [326125-olaf-and-the-crowning-hangover.json](./326125-olaf-and-the-crowning-hangover.json) |
 | Olaguna Chronicles | 128372 | [128372-olaguna-chronicles.json](./128372-olaguna-chronicles.json) |
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
+| Olav: the story of one boy | 28427 | [28427-olav-the-story-of-one-boy.json](./28427-olav-the-story-of-one-boy.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Adventure | 76374 | [76374-old-adventure.json](./76374-old-adventure.json) |
 | Old Bira's Farm | 234844 | [234844-old-biras-farm.json](./234844-old-biras-farm.json) |
