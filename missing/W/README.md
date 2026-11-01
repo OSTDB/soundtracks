@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
 | Wandersky | 383709 | [383709-wandersky.json](./383709-wandersky.json) |
+| Wandersong | 23851 | [23851-wandersong.json](./23851-wandersong.json) |
 | Wandervania | 330483 | [330483-wandervania.json](./330483-wandervania.json) |
 | WanderVR | 220526 | [220526-wandervr.json](./220526-wandervr.json) |
 | Wandfall | 377247 | [377247-wandfall.json](./377247-wandfall.json) |
