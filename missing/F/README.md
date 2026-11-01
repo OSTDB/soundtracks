@@ -4305,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting for Singleship: I am Chased by a Bunch of Women But I Just Want to Play Video Games | 274558 | [274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json](./274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json) |
 | Fighting Force | 2542 | [2542-fighting-force.json](./2542-fighting-force.json) |
 | Fighting Force 2 | 11615 | [11615-fighting-force-2.json](./11615-fighting-force-2.json) |
+| Fighting Force 64 | 47683 | [47683-fighting-force-64.json](./47683-fighting-force-64.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Frenzy: Swole Simulator | 120709 | [120709-fighting-frenzy-swole-simulator.json](./120709-fighting-frenzy-swole-simulator.json) |
 | Fighting Frontier | 303523 | [303523-fighting-frontier.json](./303523-fighting-frontier.json) |
@@ -11452,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Line Pack | 83741 | [83741-front-line-pack.json](./83741-front-line-pack.json) |
 | Front Lines | 340265 | [340265-front-lines.json](./340265-front-lines.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
+| Front Mission | 47718 | [47718-front-mission.json](./47718-front-mission.json) |
 | Front Mission 1st | 21541 | [21541-front-mission-1st.json](./21541-front-mission-1st.json) |
 | Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
 | Front Mission 2 | 1500 | [1500-front-mission-2.json](./1500-front-mission-2.json) |
@@ -12113,6 +12115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
 | Fullmetal Alchemist: Stray Rondo | 57444 | [57444-fullmetal-alchemist-stray-rondo.json](./57444-fullmetal-alchemist-stray-rondo.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
+| Fullmetal Alchemist: Trading Card Game | 47697 | [47697-fullmetal-alchemist-trading-card-game.json](./47697-fullmetal-alchemist-trading-card-game.json) |
 | Fullsenders | 348016 | [348016-fullsenders.json](./348016-fullsenders.json) |
 | Fullvoice Reborn | 114521 | [114521-fullvoice-reborn.json](./114521-fullvoice-reborn.json) |
 | Fully Automated | 384762 | [384762-fully-automated.json](./384762-fully-automated.json) |
