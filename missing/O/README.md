@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orendale | 317995 | [317995-orendale.json](./317995-orendale.json) |
 | Orenji-iro no Kumo | 164597 | [164597-orenji-iro-no-kumo.json](./164597-orenji-iro-no-kumo.json) |
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
+| Oreo: Twist, Lick, Dunk | 61376 | [61376-oreo-twist-lick-dunk.json](./61376-oreo-twist-lick-dunk.json) |
 | Oreshika: Tainted Bloodlines | 19822 | [19822-oreshika-tainted-bloodlines.json](./19822-oreshika-tainted-bloodlines.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
 | Orestruck: Space Miner | 333416 | [333416-orestruck-space-miner.json](./333416-orestruck-space-miner.json) |
