@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Space | 219917 | [219917-laser-space.json](./219917-laser-space.json) |
 | Laser Spider Playground | 354212 | [354212-laser-spider-playground.json](./354212-laser-spider-playground.json) |
 | Laser Squad | 12170 | [12170-laser-squad.json](./12170-laser-squad.json) |
+| Laser Squad Nemesis | 21608 | [21608-laser-squad-nemesis.json](./21608-laser-squad-nemesis.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
 | Laser Surgeon: The Microscopic Mission | 69552 | [69552-laser-surgeon-the-microscopic-mission.json](./69552-laser-surgeon-the-microscopic-mission.json) |
 | Laser Survivor | 258499 | [258499-laser-survivor.json](./258499-laser-survivor.json) |
@@ -4920,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Link | 261653 | [261653-line-link.json](./261653-line-link.json) |
 | Line Loops: Logic Puzzles | 115506 | [115506-line-loops-logic-puzzles.json](./115506-line-loops-logic-puzzles.json) |
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
+| Line Ninja | 21984 | [21984-line-ninja.json](./21984-line-ninja.json) |
 | Line of Defense | 65362 | [65362-line-of-defense.json](./65362-line-of-defense.json) |
 | Line of Defense Tactics Prime | 197735 | [197735-line-of-defense-tactics-prime.json](./197735-line-of-defense-tactics-prime.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
@@ -6573,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Lamp | 289239 | [289239-lone-lamp.json](./289239-lone-lamp.json) |
 | Lone Land | 129981 | [129981-lone-land.json](./129981-lone-land.json) |
 | Lone Leader | 31578 | [31578-lone-leader.json](./31578-lone-leader.json) |
+| Lone Light | 21992 | [21992-lone-light.json](./21992-lone-light.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Pirate VR | 38794 | [38794-lone-pirate-vr.json](./38794-lone-pirate-vr.json) |
