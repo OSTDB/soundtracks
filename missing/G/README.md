@@ -5964,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Oldies 2: Blockbuster and Bughunt | 45927 | [45927-golden-oldies-2-blockbuster-and-bughunt.json](./45927-golden-oldies-2-blockbuster-and-bughunt.json) |
 | Golden Oldies Jukebox CD-I : An Interactive Music Video Experience | 46548 | [46548-golden-oldies-jukebox-cd-i-an-interactive-music-video-experience.json](./46548-golden-oldies-jukebox-cd-i-an-interactive-music-video-experience.json) |
 | Golden Oldies Volume 1: Computer Software Classics | 73112 | [73112-golden-oldies-volume-1-computer-software-classics.json](./73112-golden-oldies-volume-1-computer-software-classics.json) |
+| Golden Panic | 40526 | [40526-golden-panic.json](./40526-golden-panic.json) |
 | Golden Racing | 335958 | [335958-golden-racing.json](./335958-golden-racing.json) |
 | Golden Rails: Harvest of Riddles | 278519 | [278519-golden-rails-harvest-of-riddles.json](./278519-golden-rails-harvest-of-riddles.json) |
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
@@ -9919,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gun&Dun | 160089 | [160089-gun-and-dun.json](./160089-gun-and-dun.json) |
 | Gunball | 288641 | [288641-gunball.json](./288641-gunball.json) |
+| Gunball | 40507 | [40507-gunball.json](./40507-gunball.json) |
 | Gunball Arena | 353638 | [353638-gunball-arena.json](./353638-gunball-arena.json) |
 | Gunball Saves Christmas | 353637 | [353637-gunball-saves-christmas.json](./353637-gunball-saves-christmas.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
