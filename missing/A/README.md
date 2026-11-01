@@ -8228,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amphora | 36174 | [36174-amphora.json](./36174-amphora.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | Amplitude | 11081 | [11081-amplitude.json](./11081-amplitude.json) |
+| Amplitude | 2141 | [2141-amplitude.json](./2141-amplitude.json) |
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMQ: The (Actual) Game | 283613 | [283613-amq-the-actual-game.json](./283613-amq-the-actual-game.json) |
@@ -11069,6 +11070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanoid 3: 3D | 66554 | [66554-aquanoid-3-3d.json](./66554-aquanoid-3-3d.json) |
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | AquaNox | 1997 | [1997-aquanox.json](./1997-aquanox.json) |
+| AquaNox 2: Revelation | 1998 | [1998-aquanox-2-revelation.json](./1998-aquanox-2-revelation.json) |
 | AquaNox: The Angels Tears | 1999 | [1999-aquanox-the-angels-tears.json](./1999-aquanox-the-angels-tears.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
 | Aquapark io: Complete Edition | 270300 | [270300-aquapark-io-complete-edition.json](./270300-aquapark-io-complete-edition.json) |
