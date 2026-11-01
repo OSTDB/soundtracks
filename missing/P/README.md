@@ -15254,6 +15254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
 | Prom Dreams: A High School Love Story | 336332 | [336332-prom-dreams-a-high-school-love-story.json](./336332-prom-dreams-a-high-school-love-story.json) |
 | Prom Queen | 25439 | [25439-prom-queen.json](./25439-prom-queen.json) |
+| Promesa | 139174 | [139174-promesa.json](./139174-promesa.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
 | Promethean Hive Wave Defense | 383097 | [383097-promethean-hive-wave-defense.json](./383097-promethean-hive-wave-defense.json) |
