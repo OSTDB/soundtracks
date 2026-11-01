@@ -5865,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunters: Full Moon Ceremony | 140210 | [140210-witch-hunters-full-moon-ceremony.json](./140210-witch-hunters-full-moon-ceremony.json) |
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
 | Witch Hunters: Stolen Beauty | 140211 | [140211-witch-hunters-stolen-beauty.json](./140211-witch-hunters-stolen-beauty.json) |
+| Witch Hunters: Stolen Beauty - Collector's Edition | 29413 | [29413-witch-hunters-stolen-beauty-collectors-edition.json](./29413-witch-hunters-stolen-beauty-collectors-edition.json) |
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
 | Witch Loraine's Death Game | 126215 | [126215-witch-loraines-death-game.json](./126215-witch-loraines-death-game.json) |
