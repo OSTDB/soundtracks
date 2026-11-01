@@ -13067,6 +13067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Seuss': The Cat in the Hat | 293344 | [293344-dr-seuss-the-cat-in-the-hat.json](./293344-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Signal's Strange Machine | 194415 | [194415-dr-signals-strange-machine.json](./194415-dr-signals-strange-machine.json) |
+| Dr. Sleeptite and the Nightmare Factory | 57385 | [57385-dr-sleeptite-and-the-nightmare-factory.json](./57385-dr-sleeptite-and-the-nightmare-factory.json) |
 | Dr. Slump | 44828 | [44828-dr-slump.json](./44828-dr-slump.json) |
 | Dr. Slump: Arale-chan | 138108 | [138108-dr-slump-arale-chan.json](./138108-dr-slump-arale-chan.json) |
 | Dr. Slump: Arale-chan | 61519 | [61519-dr-slump-arale-chan.json](./61519-dr-slump-arale-chan.json) |
@@ -14627,6 +14628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Logic | 214119 | [214119-dream-logic.json](./214119-dream-logic.json) |
 | Dream Loser | 399263 | [399263-dream-loser.json](./399263-dream-loser.json) |
+| Dream Machine: The Game | 57434 | [57434-dream-machine-the-game.json](./57434-dream-machine-the-game.json) |
 | Dream Magic Will | 207272 | [207272-dream-magic-will.json](./207272-dream-magic-will.json) |
 | Dream Management | 49608 | [49608-dream-management.json](./49608-dream-management.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
@@ -16678,6 +16680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Master Nexus | 3801 | [3801-dungeon-master-nexus.json](./3801-dungeon-master-nexus.json) |
 | Dungeon Master: Chaos Strikes Back | 3799 | [3799-dungeon-master-chaos-strikes-back.json](./3799-dungeon-master-chaos-strikes-back.json) |
 | Dungeon Master: Theron's Quest | 3800 | [3800-dungeon-master-therons-quest.json](./3800-dungeon-master-therons-quest.json) |
+| Dungeon Masters Assistant Volume I: Encounters | 57411 | [57411-dungeon-masters-assistant-volume-i-encounters.json](./57411-dungeon-masters-assistant-volume-i-encounters.json) |
 | Dungeon Maze | 114341 | [114341-dungeon-maze.json](./114341-dungeon-maze.json) |
 | Dungeon Maze | 343789 | [343789-dungeon-maze.json](./343789-dungeon-maze.json) |
 | Dungeon Mercenaries | 309568 | [309568-dungeon-mercenaries.json](./309568-dungeon-mercenaries.json) |
