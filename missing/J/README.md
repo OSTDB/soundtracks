@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackhammer Tower | 96919 | [96919-jackhammer-tower.json](./96919-jackhammer-tower.json) |
 | Jackie | 231416 | [231416-jackie.json](./231416-jackie.json) |
 | Jackie Chan Adventures | 8154 | [8154-jackie-chan-adventures.json](./8154-jackie-chan-adventures.json) |
+| Jackie Chan Adventures: Legend of the Dark Hand | 8155 | [8155-jackie-chan-adventures-legend-of-the-dark-hand.json](./8155-jackie-chan-adventures-legend-of-the-dark-hand.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
 | Jackie Chan in Project A | 41674 | [41674-jackie-chan-in-project-a.json](./41674-jackie-chan-in-project-a.json) |
 | Jackie Chan in The Police Story | 41671 | [41671-jackie-chan-in-the-police-story.json](./41671-jackie-chan-in-the-police-story.json) |
@@ -1204,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Solitaire | 354975 | [354975-jet-set-solitaire.json](./354975-jet-set-solitaire.json) |
 | Jet Set Speeders | 330958 | [330958-jet-set-speeders.json](./330958-jet-set-speeders.json) |
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
+| Jet Set Willy II | 8171 | [8171-jet-set-willy-ii.json](./8171-jet-set-willy-ii.json) |
 | Jet Set Willy Stupid | 329996 | [329996-jet-set-willy-stupid.json](./329996-jet-set-willy-stupid.json) |
 | Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
 | Jet Set Willy: The Lord of the Rings | 329998 | [329998-jet-set-willy-the-lord-of-the-rings.json](./329998-jet-set-willy-the-lord-of-the-rings.json) |
@@ -1247,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetFighter III Enhanced Campaign CD | 79565 | [79565-jetfighter-iii-enhanced-campaign-cd.json](./79565-jetfighter-iii-enhanced-campaign-cd.json) |
 | Jetfighter IV: Fortress America | 74105 | [74105-jetfighter-iv-fortress-america.json](./74105-jetfighter-iv-fortress-america.json) |
 | Jetfighter V: Homeland Protector | 71283 | [71283-jetfighter-v-homeland-protector.json](./71283-jetfighter-v-homeland-protector.json) |
+| JetFighter: Full Burn | 2402 | [2402-jetfighter-full-burn.json](./2402-jetfighter-full-burn.json) |
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
 | Jetix Puzzle Buzzle | 56233 | [56233-jetix-puzzle-buzzle.json](./56233-jetix-puzzle-buzzle.json) |
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
@@ -3240,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
 | JumpingBoy | 111868 | [111868-jumpingboy.json](./111868-jumpingboy.json) |
 | Jumpix Jump | 33487 | [33487-jumpix-jump.json](./33487-jumpix-jump.json) |
+| Jumpjet | 8334 | [8334-jumpjet.json](./8334-jumpjet.json) |
 | JumpJet Rex | 13167 | [13167-jumpjet-rex.json](./13167-jumpjet-rex.json) |
 | JumpJump | 253206 | [253206-jumpjump.json](./253206-jumpjump.json) |
 | JumpJumpBall | 158622 | [158622-jumpjumpball.json](./158622-jumpjumpball.json) |
