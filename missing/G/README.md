@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardening Mama 2: Forest Friends | 6357 | [6357-gardening-mama-2-forest-friends.json](./6357-gardening-mama-2-forest-friends.json) |
 | GardenLand Tycoon | 146615 | [146615-gardenland-tycoon.json](./146615-gardenland-tycoon.json) |
 | Gardens | 205919 | [205919-gardens.json](./205919-gardens.json) |
+| Gardens Inc. 2: The Road to Fame | 17398 | [17398-gardens-inc-2-the-road-to-fame.json](./17398-gardens-inc-2-the-road-to-fame.json) |
 | Gardens Inc. 3: A Bridal Pursuit | 88826 | [88826-gardens-inc-3-a-bridal-pursuit.json](./88826-gardens-inc-3-a-bridal-pursuit.json) |
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
 | Gardens of a New World | 394450 | [394450-gardens-of-a-new-world.json](./394450-gardens-of-a-new-world.json) |
@@ -4652,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Infection | 117433 | [117433-global-infection.json](./117433-global-infection.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
 | Global Ops: Commando Libya | 10365 | [10365-global-ops-commando-libya.json](./10365-global-ops-commando-libya.json) |
+| Global Outbreak | 16853 | [16853-global-outbreak.json](./16853-global-outbreak.json) |
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
 | Global Rescue | 362051 | [362051-global-rescue.json](./362051-global-rescue.json) |
@@ -10138,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunHed: Aratanaru Tatakai | 48478 | [48478-gunhed-aratanaru-tatakai.json](./48478-gunhed-aratanaru-tatakai.json) |
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
 | GunHero | 30035 | [30035-gunhero.json](./30035-gunhero.json) |
+| Gunhound EX | 16958 | [16958-gunhound-ex.json](./16958-gunhound-ex.json) |
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
 | Gunja Tteokbokki | 395730 | [395730-gunja-tteokbokki.json](./395730-gunja-tteokbokki.json) |
 | Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
