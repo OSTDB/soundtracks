@@ -4564,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Winter Sports | 111411 | [111411-erotic-winter-sports.json](./111411-erotic-winter-sports.json) |
 | Erovoice! Sexy Voices Lead to a Successful Love Life | 204498 | [204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json](./204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json) |
 | Erozld | 236216 | [236216-erozld.json](./236216-erozld.json) |
+| Err: 001 | 30400 | [30400-err-001.json](./30400-err-001.json) |
 | Err: The 1990 Incident | 308613 | [308613-err-the-1990-incident.json](./308613-err-the-1990-incident.json) |
 | Erraldoi 2000 | 183989 | [183989-erraldoi-2000.json](./183989-erraldoi-2000.json) |
 | Errand | 57092 | [57092-errand.json](./57092-errand.json) |
@@ -5860,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka! | 25914 | [25914-eureka.json](./25914-eureka.json) |
 | Eureka! Superconductor Lab | 295753 | [295753-eureka-superconductor-lab.json](./295753-eureka-superconductor-lab.json) |
 | Eurekas | 374776 | [374776-eurekas.json](./374776-eurekas.json) |
+| Eurgava: Fight for Haaria | 30411 | [30411-eurgava-fight-for-haaria.json](./30411-eurgava-fight-for-haaria.json) |
 | Eurgava: Pathforgers | 348290 | [348290-eurgava-pathforgers.json](./348290-eurgava-pathforgers.json) |
 | Eurgava: Tomb of Senza | 116122 | [116122-eurgava-tomb-of-senza.json](./116122-eurgava-tomb-of-senza.json) |
 | Eurit | 42246 | [42246-eurit.json](./42246-eurit.json) |
