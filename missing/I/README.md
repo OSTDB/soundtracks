@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium | 13070 | [13070-imperium.json](./13070-imperium.json) |
 | Imperium | 15220 | [15220-imperium.json](./15220-imperium.json) |
 | Imperium BCE | 169626 | [169626-imperium-bce.json](./169626-imperium-bce.json) |
+| Imperium Galactica II: Alliances | 15186 | [15186-imperium-galactica-ii-alliances.json](./15186-imperium-galactica-ii-alliances.json) |
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
