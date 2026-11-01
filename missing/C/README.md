@@ -9231,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claybreaker: VR Clay Shooting | 41920 | [41920-claybreaker-vr-clay-shooting.json](./41920-claybreaker-vr-clay-shooting.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
 | ClayFighter 2: Judgment Clay | 73298 | [73298-clayfighter-2-judgment-clay.json](./73298-clayfighter-2-judgment-clay.json) |
+| ClayFighter 63 1/3 | 44043 | [44043-clayfighter-63-1-3.json](./44043-clayfighter-63-1-3.json) |
 | ClayFighter: Call of Putty | 123208 | [123208-clayfighter-call-of-putty.json](./123208-clayfighter-call-of-putty.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
@@ -9621,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower | 19287 | [19287-clock-tower.json](./19287-clock-tower.json) |
 | Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
 | Clock Tower Deluxe | 314695 | [314695-clock-tower-deluxe.json](./314695-clock-tower-deluxe.json) |
+| Clock Tower II: The Struggle Within | 19288 | [19288-clock-tower-ii-the-struggle-within.json](./19288-clock-tower-ii-the-struggle-within.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Ready for the Next | 214969 | [214969-clock-tower-ready-for-the-next.json](./214969-clock-tower-ready-for-the-next.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
@@ -11860,6 +11862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: Sole Survivor | 664 | [664-command-and-conquer-sole-survivor.json](./664-command-and-conquer-sole-survivor.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
+| Command & Conquer: The First Decade | 18165 | [18165-command-and-conquer-the-first-decade.json](./18165-command-and-conquer-the-first-decade.json) |
 | Command & Conquer: The Ultimate Collection | 50885 | [50885-command-and-conquer-the-ultimate-collection.json](./50885-command-and-conquer-the-ultimate-collection.json) |
 | Command & Control 3 | 150976 | [150976-command-and-control-3.json](./150976-command-and-control-3.json) |
 | Command and Destroy | 47887 | [47887-command-and-destroy.json](./47887-command-and-destroy.json) |
@@ -16016,6 +16019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Archives: Symphony of Death - Collector's Edition | 416772 | [416772-criminal-archives-symphony-of-death-collectors-edition.json](./416772-criminal-archives-symphony-of-death-collectors-edition.json) |
 | Criminal Attraction | 296673 | [296673-criminal-attraction.json](./296673-criminal-attraction.json) |
 | Criminal Bundle | 81971 | [81971-criminal-bundle.json](./81971-criminal-bundle.json) |
+| Criminal Case | 19328 | [19328-criminal-case.json](./19328-criminal-case.json) |
 | Criminal Case: Mysteries | 262385 | [262385-criminal-case-mysteries.json](./262385-criminal-case-mysteries.json) |
 | Criminal Case: Mysteries of the Past | 88547 | [88547-criminal-case-mysteries-of-the-past.json](./88547-criminal-case-mysteries-of-the-past.json) |
 | Criminal Case: Pacific Bay | 96261 | [96261-criminal-case-pacific-bay.json](./96261-criminal-case-pacific-bay.json) |
