@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
 | Painkiller | 152077 | [152077-painkiller.json](./152077-painkiller.json) |
 | Painkiller | 828 | [828-painkiller.json](./828-painkiller.json) |
+| Painkiller Collection | 46998 | [46998-painkiller-collection.json](./46998-painkiller-collection.json) |
 | Painkiller Pandemonium | 54262 | [54262-painkiller-pandemonium.json](./54262-painkiller-pandemonium.json) |
 | Painkiller Universe | 54261 | [54261-painkiller-universe.json](./54261-painkiller-universe.json) |
 | Painkiller: Black Edition | 14805 | [14805-painkiller-black-edition.json](./14805-painkiller-black-edition.json) |
@@ -1337,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Dragoon Mini | 1670 | [1670-panzer-dragoon-mini.json](./1670-panzer-dragoon-mini.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
 | Panzer Dragoon Zwei: Remake | 113351 | [113351-panzer-dragoon-zwei-remake.json](./113351-panzer-dragoon-zwei-remake.json) |
+| Panzer Elite | 46994 | [46994-panzer-elite.json](./46994-panzer-elite.json) |
 | Panzer Elite Action: Dunes of War | 79025 | [79025-panzer-elite-action-dunes-of-war.json](./79025-panzer-elite-action-dunes-of-war.json) |
 | Panzer Elite Action: Fields of Glory | 5978 | [5978-panzer-elite-action-fields-of-glory.json](./5978-panzer-elite-action-fields-of-glory.json) |
 | Panzer Elite: Special Edition | 51857 | [51857-panzer-elite-special-edition.json](./51857-panzer-elite-special-edition.json) |
@@ -9669,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
 | PocketWorlds | 179405 | [179405-pocketworlds.json](./179405-pocketworlds.json) |
 | Pockey | 81177 | [81177-pockey.json](./81177-pockey.json) |
+| Pockie Ninja | 46944 | [46944-pockie-ninja.json](./46944-pockie-ninja.json) |
 | Pockie Pirates | 23594 | [23594-pockie-pirates.json](./23594-pockie-pirates.json) |
 | Pocky & Rocky Reshrined | 144285 | [144285-pocky-and-rocky-reshrined.json](./144285-pocky-and-rocky-reshrined.json) |
 | Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
@@ -12091,6 +12094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: Apocalypse Weekend | 3131 | [3131-postal-2-apocalypse-weekend.json](./3131-postal-2-apocalypse-weekend.json) |
 | Postal 2: CO-OP | 360077 | [360077-postal-2-co-op.json](./360077-postal-2-co-op.json) |
 | Postal 2: Corkscrew RuLes! | 125026 | [125026-postal-2-corkscrew-rules.json](./125026-postal-2-corkscrew-rules.json) |
+| Postal 2: Eternal Damnation | 46953 | [46953-postal-2-eternal-damnation.json](./46953-postal-2-eternal-damnation.json) |
 | Postal 4: No Regerts | 124683 | [124683-postal-4-no-regerts.json](./124683-postal-4-no-regerts.json) |
 | Postal Babes | 125024 | [125024-postal-babes.json](./125024-postal-babes.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
@@ -16541,6 +16545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Putt Putt Golf HD | 175064 | [175064-putt-putt-golf-hd.json](./175064-putt-putt-golf-hd.json) |
 | Putt Putt World - AR Mini Golf | 105898 | [105898-putt-putt-world-ar-mini-golf.json](./105898-putt-putt-world-ar-mini-golf.json) |
+| Putt Putt's One Stop Fun Shop | 47001 | [47001-putt-putts-one-stop-fun-shop.json](./47001-putt-putts-one-stop-fun-shop.json) |
 | Putt-Putt and Fatty Bear's Activity Pack | 10730 | [10730-putt-putt-and-fatty-bears-activity-pack.json](./10730-putt-putt-and-fatty-bears-activity-pack.json) |
 | Putt-Putt and Pep's Balloon-O-Rama | 3742 | [3742-putt-putt-and-peps-balloon-o-rama.json](./3742-putt-putt-and-peps-balloon-o-rama.json) |
 | Putt-Putt and Pep's Dog on a Stick | 3741 | [3741-putt-putt-and-peps-dog-on-a-stick.json](./3741-putt-putt-and-peps-dog-on-a-stick.json) |
