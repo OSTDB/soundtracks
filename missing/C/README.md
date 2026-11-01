@@ -8977,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Games | 87228 | [87228-classic-games.json](./87228-classic-games.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Games Collection Vol.2 | 219460 | [219460-classic-games-collection-vol-2.json](./219460-classic-games-collection-vol-2.json) |
+| Classic Games Overload: Card & Puzzle Edition | 47639 | [47639-classic-games-overload-card-and-puzzle-edition.json](./47639-classic-games-overload-card-and-puzzle-edition.json) |
 | Classic Hentai Logic Puzzle | 365280 | [365280-classic-hentai-logic-puzzle.json](./365280-classic-hentai-logic-puzzle.json) |
 | Classic Home Invasion | 330473 | [330473-classic-home-invasion.json](./330473-classic-home-invasion.json) |
 | Classic Internet Scary Maze Game: Game Boy Edition | 275670 | [275670-classic-internet-scary-maze-game-game-boy-edition.json](./275670-classic-internet-scary-maze-game-game-boy-edition.json) |
@@ -13513,6 +13514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party II: Darkness Distortion – Ayame's Mercy Limited Edition | 294812 | [294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json](./294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json) |
 | Corpse Party Tetralogy Pack | 352377 | [352377-corpse-party-tetralogy-pack.json](./352377-corpse-party-tetralogy-pack.json) |
 | Corpse Party Zero | 81474 | [81474-corpse-party-zero.json](./81474-corpse-party-zero.json) |
+| Corpse Party: Back to School Edition | 47669 | [47669-corpse-party-back-to-school-edition.json](./47669-corpse-party-back-to-school-edition.json) |
 | Corpse Party: Back to School Edition - Limited Edition | 89891 | [89891-corpse-party-back-to-school-edition-limited-edition.json](./89891-corpse-party-back-to-school-edition-limited-edition.json) |
 | Corpse Party: Blood Drive | 11000 | [11000-corpse-party-blood-drive.json](./11000-corpse-party-blood-drive.json) |
 | Corpse Party: Book of Shadows | 11318 | [11318-corpse-party-book-of-shadows.json](./11318-corpse-party-book-of-shadows.json) |
@@ -18327,6 +18329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Magic | 46498 | [46498-cut-the-rope-magic.json](./46498-cut-the-rope-magic.json) |
 | Cut the Rope: Origins | 327003 | [327003-cut-the-rope-origins.json](./327003-cut-the-rope-origins.json) |
 | Cut the Rope: Time Travel | 41512 | [41512-cut-the-rope-time-travel.json](./41512-cut-the-rope-time-travel.json) |
+| Cut the Rope: Triple Treat | 47692 | [47692-cut-the-rope-triple-treat.json](./47692-cut-the-rope-triple-treat.json) |
 | Cut Them Off | 179891 | [179891-cut-them-off.json](./179891-cut-them-off.json) |
 | Cut Them Up | 150461 | [150461-cut-them-up.json](./150461-cut-them-up.json) |
 | Cut to Pieces | 408595 | [408595-cut-to-pieces.json](./408595-cut-to-pieces.json) |
