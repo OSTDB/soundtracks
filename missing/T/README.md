@@ -10059,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter | 284260 | [284260-the-hunter.json](./284260-the-hunter.json) |
+| The Hunter 2012 | 50281 | [50281-the-hunter-2012.json](./50281-the-hunter-2012.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
 | The Hunter of Falkenberg | 188770 | [188770-the-hunter-of-falkenberg.json](./188770-the-hunter-of-falkenberg.json) |
 | The Hunter's Journals: Blissful Ignorance | 123870 | [123870-the-hunters-journals-blissful-ignorance.json](./123870-the-hunters-journals-blissful-ignorance.json) |
@@ -10273,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
 | The Infirmity | 267428 | [267428-the-infirmity.json](./267428-the-infirmity.json) |
 | The Informant Chronicles: Chronicle 1 - Riverside Danger Part 1 | 173948 | [173948-the-informant-chronicles-chronicle-1-riverside-danger-part-1.json](./173948-the-informant-chronicles-chronicle-1-riverside-danger-part-1.json) |
+| The Ingenious Machine: New and Improved Edition | 50220 | [50220-the-ingenious-machine-new-and-improved-edition.json](./50220-the-ingenious-machine-new-and-improved-edition.json) |
 | The Inheritance | 281364 | [281364-the-inheritance.json](./281364-the-inheritance.json) |
 | The Inheritance of Crimson Manor | 149163 | [149163-the-inheritance-of-crimson-manor.json](./149163-the-inheritance-of-crimson-manor.json) |
 | The Inheritance of Crimson Manor: Victorian Edition | 324776 | [324776-the-inheritance-of-crimson-manor-victorian-edition.json](./324776-the-inheritance-of-crimson-manor-victorian-edition.json) |
@@ -13066,6 +13068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverending Labyrinth | 165149 | [165149-the-neverending-labyrinth.json](./165149-the-neverending-labyrinth.json) |
 | The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
+| The Neverending Story II: The Arcade Game | 50270 | [50270-the-neverending-story-ii-the-arcade-game.json](./50270-the-neverending-story-ii-the-arcade-game.json) |
 | The Neverending Summer | 404177 | [404177-the-neverending-summer.json](./404177-the-neverending-summer.json) |
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
 | The Neverland of the Mountain and Sea | 236966 | [236966-the-neverland-of-the-mountain-and-sea.json](./236966-the-neverland-of-the-mountain-and-sea.json) |
@@ -16990,6 +16993,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
 | The very last farm | 185020 | [185020-the-very-last-farm.json](./185020-the-very-last-farm.json) |
 | The very long walk | 77655 | [77655-the-very-long-walk.json](./77655-the-very-long-walk.json) |
+| The Very Oganized Thief | 50257 | [50257-the-very-oganized-thief.json](./50257-the-very-oganized-thief.json) |
+| The Very Organized Thief | 50225 | [50225-the-very-organized-thief.json](./50225-the-very-organized-thief.json) |
 | The VHS Paradise | 281553 | [281553-the-vhs-paradise.json](./281553-the-vhs-paradise.json) |
 | The Vice Squad | 47252 | [47252-the-vice-squad.json](./47252-the-vice-squad.json) |
 | The Viceroy | 34825 | [34825-the-viceroy.json](./34825-the-viceroy.json) |
@@ -27347,6 +27352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers Rescue Bots: Hero Adventures | 294680 | [294680-transformers-rescue-bots-hero-adventures.json](./294680-transformers-rescue-bots-hero-adventures.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers Tatakai | 70938 | [70938-transformers-tatakai.json](./70938-transformers-tatakai.json) |
+| Transformers Universe | 50241 | [50241-transformers-universe.json](./50241-transformers-universe.json) |
 | Transformers: Battle Masters | 70993 | [70993-transformers-battle-masters.json](./70993-transformers-battle-masters.json) |
 | Transformers: Battle Tactics | 60584 | [60584-transformers-battle-tactics.json](./60584-transformers-battle-tactics.json) |
 | Transformers: Battlegrounds | 137948 | [137948-transformers-battlegrounds.json](./137948-transformers-battlegrounds.json) |
@@ -27569,6 +27575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traps Ahead! | 126850 | [126850-traps-ahead.json](./126850-traps-ahead.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
 | Trapt | 232845 | [232845-trapt.json](./232845-trapt.json) |
+| TrapThem | 50221 | [50221-trapthem.json](./50221-trapthem.json) |
 | TrapThem | 62004 | [62004-trapthem.json](./62004-trapthem.json) |
 | Traptile | 276587 | [276587-traptile.json](./276587-traptile.json) |
 | Traption Bakery | 142436 | [142436-traption-bakery.json](./142436-traption-bakery.json) |
@@ -28944,6 +28951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropix 2: Quest for the Golden Banana | 53859 | [53859-tropix-2-quest-for-the-golden-banana.json](./53859-tropix-2-quest-for-the-golden-banana.json) |
 | Tropix! | 92877 | [92877-tropix.json](./92877-tropix.json) |
 | TropTopia | 368560 | [368560-troptopia.json](./368560-troptopia.json) |
+| Trosh | 50268 | [50268-trosh.json](./50268-trosh.json) |
 | Tross | 33520 | [33520-tross.json](./33520-tross.json) |
 | TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
 | TrotMania V: Shrive | 313338 | [313338-trotmania-v-shrive.json](./313338-trotmania-v-shrive.json) |
@@ -30481,6 +30489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Lands: Insomniac | 50229 | [50229-twisted-lands-insomniac.json](./50229-twisted-lands-insomniac.json) |
 | Twisted Lands: Insomniac - Collector's Edition | 53863 | [53863-twisted-lands-insomniac-collectors-edition.json](./53863-twisted-lands-insomniac-collectors-edition.json) |
 | Twisted Lands: Origin | 50228 | [50228-twisted-lands-origin.json](./50228-twisted-lands-origin.json) |
+| Twisted Lands: Shadow Town | 50230 | [50230-twisted-lands-shadow-town.json](./50230-twisted-lands-shadow-town.json) |
 | Twisted Lands: Shadow Town - Collector's Edition | 53862 | [53862-twisted-lands-shadow-town-collectors-edition.json](./53862-twisted-lands-shadow-town-collectors-edition.json) |
 | Twisted Letters | 63117 | [63117-twisted-letters.json](./63117-twisted-letters.json) |
 | Twisted Lines | 175365 | [175365-twisted-lines.json](./175365-twisted-lines.json) |
