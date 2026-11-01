@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
+| UFC Undisputed 3 | 7229 | [7229-ufc-undisputed-3.json](./7229-ufc-undisputed-3.json) |
 | UFC Undisputed Forever | 410484 | [410484-ufc-undisputed-forever.json](./410484-ufc-undisputed-forever.json) |
 | UFC: Sudden Impact | 92763 | [92763-ufc-sudden-impact.json](./92763-ufc-sudden-impact.json) |
 | UFC: Tapout 2 | 6219 | [6219-ufc-tapout-2.json](./6219-ufc-tapout-2.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima II: The Revenge of the Enchantress | 2868 | [2868-ultima-ii-the-revenge-of-the-enchantress.json](./2868-ultima-ii-the-revenge-of-the-enchantress.json) |
 | Ultima III: Exodus | 2867 | [2867-ultima-iii-exodus.json](./2867-ultima-iii-exodus.json) |
 | Ultima IV: Quest of the Avatar | 2878 | [2878-ultima-iv-quest-of-the-avatar.json](./2878-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IX: Ascension | 7083 | [7083-ultima-ix-ascension.json](./7083-ultima-ix-ascension.json) |
 | Ultima Nex | 365823 | [365823-ultima-nex.json](./365823-ultima-nex.json) |
 | Ultima Online: 9th Anniversary Edition | 206624 | [206624-ultima-online-9th-anniversary-edition.json](./206624-ultima-online-9th-anniversary-edition.json) |
 | Ultima Online: Age of Shadows | 69219 | [69219-ultima-online-age-of-shadows.json](./69219-ultima-online-age-of-shadows.json) |
