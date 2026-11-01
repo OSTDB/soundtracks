@@ -6150,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity: Definitive Edition | 75357 | [75357-pillars-of-eternity-definitive-edition.json](./75357-pillars-of-eternity-definitive-edition.json) |
 | Pillars of Eternity: Hero Edition | 51889 | [51889-pillars-of-eternity-hero-edition.json](./51889-pillars-of-eternity-hero-edition.json) |
 | Pillars of Eternity: Royal Edition | 51888 | [51888-pillars-of-eternity-royal-edition.json](./51888-pillars-of-eternity-royal-edition.json) |
+| Pillars of Eternity: The White March Part II | 18919 | [18919-pillars-of-eternity-the-white-march-part-ii.json](./18919-pillars-of-eternity-the-white-march-part-ii.json) |
 | Pillars Of Fog | 337165 | [337165-pillars-of-fog.json](./337165-pillars-of-fog.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
 | Pillars of Light | 197018 | [197018-pillars-of-light.json](./197018-pillars-of-light.json) |
@@ -16246,6 +16247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppe Yerde | 392753 | [392753-puppe-yerde.json](./392753-puppe-yerde.json) |
 | Pupper Park | 129428 | [129428-pupper-park.json](./129428-pupper-park.json) |
 | Pupper's Garden | 151954 | [151954-puppers-garden.json](./151954-puppers-garden.json) |
+| Pupperazzi | 119108 | [119108-pupperazzi.json](./119108-pupperazzi.json) |
 | Puppergeist | 375515 | [375515-puppergeist.json](./375515-puppergeist.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
