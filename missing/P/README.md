@@ -5015,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantomphobia: Zhenli | 331946 | [331946-phantomphobia-zhenli.json](./331946-phantomphobia-zhenli.json) |
 | PhantomRider | 347053 | [347053-phantomrider.json](./347053-phantomrider.json) |
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
+| Phantoms Five | 18807 | [18807-phantoms-five.json](./18807-phantoms-five.json) |
 | Phantoms of the Asteroid | 40959 | [40959-phantoms-of-the-asteroid.json](./40959-phantoms-of-the-asteroid.json) |
 | PhantomZone Labyrinthos | 333970 | [333970-phantomzone-labyrinthos.json](./333970-phantomzone-labyrinthos.json) |
 | PhantomZone SemiDeus | 349973 | [349973-phantomzone-semideus.json](./349973-phantomzone-semideus.json) |
@@ -5520,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick a Boo | 406116 | [406116-pick-a-boo.json](./406116-pick-a-boo.json) |
 | Pick a Hero | 32442 | [32442-pick-a-hero.json](./32442-pick-a-hero.json) |
 | Pick and Learn - Easy Learning for Kids | 106015 | [106015-pick-and-learn-easy-learning-for-kids.json](./106015-pick-and-learn-easy-learning-for-kids.json) |
+| Pick Axe Pete! | 18767 | [18767-pick-axe-pete.json](./18767-pick-axe-pete.json) |
 | Pick Ball | 404428 | [404428-pick-ball.json](./404428-pick-ball.json) |
 | Pick Me Chance | 410018 | [410018-pick-me-chance.json](./410018-pick-me-chance.json) |
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
@@ -15329,6 +15331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protective Clothing | 132616 | [132616-protective-clothing.json](./132616-protective-clothing.json) |
 | Protecto | 285520 | [285520-protecto.json](./285520-protecto.json) |
 | Protector | 13075 | [13075-protector.json](./13075-protector.json) |
+| Protector | 18756 | [18756-protector.json](./18756-protector.json) |
 | Protector | 387948 | [387948-protector.json](./387948-protector.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector II | 18571 | [18571-protector-ii.json](./18571-protector-ii.json) |
@@ -16469,6 +16472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Pursuit of Redemption | 148979 | [148979-pursuit-of-redemption.json](./148979-pursuit-of-redemption.json) |
 | Pursuit of the Bookkeeper | 150412 | [150412-pursuit-of-the-bookkeeper.json](./150412-pursuit-of-the-bookkeeper.json) |
+| Pursuit of the Graf Spee | 18766 | [18766-pursuit-of-the-graf-spee.json](./18766-pursuit-of-the-graf-spee.json) |
 | Pursuit of the Pink Panther | 282735 | [282735-pursuit-of-the-pink-panther.json](./282735-pursuit-of-the-pink-panther.json) |
 | Puru-Chara Friends: Hoppe-chan to Sanrio Characters | 115185 | [115185-puru-chara-friends-hoppe-chan-to-sanrio-characters.json](./115185-puru-chara-friends-hoppe-chan-to-sanrio-characters.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
