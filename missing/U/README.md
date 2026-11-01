@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Sandbox | 165754 | [165754-unreal-sandbox.json](./165754-unreal-sandbox.json) |
 | Unreal Shift At Freddy's | 209296 | [209296-unreal-shift-at-freddys.json](./209296-unreal-shift-at-freddys.json) |
 | Unreal Strike | 256994 | [256994-unreal-strike.json](./256994-unreal-strike.json) |
+| Unreal Tournament | 15263 | [15263-unreal-tournament.json](./15263-unreal-tournament.json) |
 | Unreal Tournament 2004 | 927 | [927-unreal-tournament-2004.json](./927-unreal-tournament-2004.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
 | Unreal Tournament III | 928 | [928-unreal-tournament-iii.json](./928-unreal-tournament-iii.json) |
