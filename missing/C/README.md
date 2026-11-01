@@ -7664,6 +7664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chrome Valley Customs | 288794 | [288794-chrome-valley-customs.json](./288794-chrome-valley-customs.json) |
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
+| Chrome: SpecForce | 16147 | [16147-chrome-specforce.json](./16147-chrome-specforce.json) |
 | Chromehounds | 6937 | [6937-chromehounds.json](./6937-chromehounds.json) |
 | Chromentum | 70188 | [70188-chromentum.json](./70188-chromentum.json) |
 | ChromeRivals | 179983 | [179983-chromerivals.json](./179983-chromerivals.json) |
