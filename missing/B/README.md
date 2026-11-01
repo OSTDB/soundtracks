@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad 4 Business | 346221 | [346221-bad-4-business.json](./346221-bad-4-business.json) |
 | Bad animals: Rabbit | 227978 | [227978-bad-animals-rabbit.json](./227978-bad-animals-rabbit.json) |
 | Bad Apple Wars | 12884 | [12884-bad-apple-wars.json](./12884-bad-apple-wars.json) |
+| Bad Apple!! | 45683 | [45683-bad-apple.json](./45683-bad-apple.json) |
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
 | Bad ass babes | 31265 | [31265-bad-ass-babes.json](./31265-bad-ass-babes.json) |
 | Bad Atom Episode 1 | 70622 | [70622-bad-atom-episode-1.json](./70622-bad-atom-episode-1.json) |
@@ -881,7 +882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3609,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Zodiacs | 247703 | [247703-battle-of-zodiacs.json](./247703-battle-of-zodiacs.json) |
 | Battle On! Hero Academy | 373126 | [373126-battle-on-hero-academy.json](./373126-battle-on-hero-academy.json) |
 | Battle Orb | 341657 | [341657-battle-orb.json](./341657-battle-orb.json) |
+| Battle OutRun | 45666 | [45666-battle-outrun.json](./45666-battle-outrun.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
 | Battle Phlinx | 366403 | [366403-battle-phlinx.json](./366403-battle-phlinx.json) |
@@ -3991,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlemage: Magic by Mail | 154355 | [154355-battlemage-magic-by-mail.json](./154355-battlemage-magic-by-mail.json) |
 | Battlemaidens | 411389 | [411389-battlemaidens.json](./411389-battlemaidens.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
+| Battlemaniacs | 45665 | [45665-battlemaniacs.json](./45665-battlemaniacs.json) |
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
 | BattleMaster | 172045 | [172045-battlemaster.json](./172045-battlemaster.json) |
 | Battlement | 345010 | [345010-battlement.json](./345010-battlement.json) |
@@ -11569,6 +11571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Panda | 198165 | [198165-bomber-panda.json](./198165-bomber-panda.json) |
 | Bomber Party: Anime Avatars | 274952 | [274952-bomber-party-anime-avatars.json](./274952-bomber-party-anime-avatars.json) |
 | Bomber Party: Cute Anime Creatures Avatar | 274953 | [274953-bomber-party-cute-anime-creatures-avatar.json](./274953-bomber-party-cute-anime-creatures-avatar.json) |
+| Bomber Raid | 45662 | [45662-bomber-raid.json](./45662-bomber-raid.json) |
 | Bomber Royale | 303349 | [303349-bomber-royale.json](./303349-bomber-royale.json) |
 | Bomber Run | 362432 | [362432-bomber-run.json](./362432-bomber-run.json) |
 | Bomber Warrior | 85711 | [85711-bomber-warrior.json](./85711-bomber-warrior.json) |
@@ -13544,6 +13547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Ball | 166953 | [166953-brave-ball.json](./166953-brave-ball.json) |
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
+| Brave Battle Saga: Legend of the Magic Warrior | 45696 | [45696-brave-battle-saga-legend-of-the-magic-warrior.json](./45696-brave-battle-saga-legend-of-the-magic-warrior.json) |
 | Brave Blade | 39494 | [39494-brave-blade.json](./39494-brave-blade.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
 | Brave Blob | 137239 | [137239-brave-blob.json](./137239-brave-blob.json) |
@@ -15555,6 +15559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Race: Racing Master | 288308 | [288308-buggy-race-racing-master.json](./288308-buggy-race-racing-master.json) |
 | Buggy Racers | 276801 | [276801-buggy-racers.json](./276801-buggy-racers.json) |
 | Buggy Ranger | 13449 | [13449-buggy-ranger.json](./13449-buggy-ranger.json) |
+| Buggy Run | 45657 | [45657-buggy-run.json](./45657-buggy-run.json) |
 | Buggy10 | 339397 | [339397-buggy10.json](./339397-buggy10.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
