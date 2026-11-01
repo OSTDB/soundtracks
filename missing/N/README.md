@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
 | Neon: Eternal | 169735 | [169735-neon-eternal.json](./169735-neon-eternal.json) |
 | NeonArcade: Adventure Puzzle Muse | 111378 | [111378-neonarcade-adventure-puzzle-muse.json](./111378-neonarcade-adventure-puzzle-muse.json) |
+| NeonBall | 52345 | [52345-neonball.json](./52345-neonball.json) |
 | NeonCode | 111979 | [111979-neoncode.json](./111979-neoncode.json) |
 | Neoncube | 34983 | [34983-neoncube.json](./34983-neoncube.json) |
 | Neondrops | 166610 | [166610-neondrops.json](./166610-neondrops.json) |
