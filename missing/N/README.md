@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Naruto to Boruto: Shinobi Striker - Ultimate Edition | 255258 | [255258-naruto-to-boruto-shinobi-striker-ultimate-edition.json](./255258-naruto-to-boruto-shinobi-striker-ultimate-edition.json) |
 | Naruto x Boruto: Ninja Tribes | 106295 | [106295-naruto-x-boruto-ninja-tribes.json](./106295-naruto-x-boruto-ninja-tribes.json) |
+| Naruto x Boruto: Ninja Voltage | 54778 | [54778-naruto-x-boruto-ninja-voltage.json](./54778-naruto-x-boruto-ninja-voltage.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 2 | 294250 | [294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json](./294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 3 | 303876 | [303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json](./303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json) |
@@ -1491,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrocat | 318009 | [318009-necrocat.json](./318009-necrocat.json) |
 | NecroCatic Clicker | 341362 | [341362-necrocatic-clicker.json](./341362-necrocatic-clicker.json) |
 | NecroCity | 217166 | [217166-necrocity.json](./217166-necrocity.json) |
+| Necrocosmos: There Is No God Up Here | 54763 | [54763-necrocosmos-there-is-no-god-up-here.json](./54763-necrocosmos-there-is-no-god-up-here.json) |
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
 | Necrodome | 8694 | [8694-necrodome.json](./8694-necrodome.json) |
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
