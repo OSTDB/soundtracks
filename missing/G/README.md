@@ -5601,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Love: An Otome Visual Novel | 126830 | [126830-gods-of-love-an-otome-visual-novel.json](./126830-gods-of-love-an-otome-visual-novel.json) |
 | Gods of Nowhere | 387040 | [387040-gods-of-nowhere.json](./387040-gods-of-nowhere.json) |
 | Gods of Olympus | 57416 | [57416-gods-of-olympus.json](./57416-gods-of-olympus.json) |
+| Gods of Rome | 56226 | [56226-gods-of-rome.json](./56226-gods-of-rome.json) |
 | Gods of Sand | 140268 | [140268-gods-of-sand.json](./140268-gods-of-sand.json) |
 | Gods of Savvarah: Part 1 | 224727 | [224727-gods-of-savvarah-part-1.json](./224727-gods-of-savvarah-part-1.json) |
 | Gods of Sparta | 174480 | [174480-gods-of-sparta.json](./174480-gods-of-sparta.json) |
