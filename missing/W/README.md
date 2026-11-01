@@ -6112,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
 | Withstand: Apotheosis | 35337 | [35337-withstand-apotheosis.json](./35337-withstand-apotheosis.json) |
 | Withstand: Survival | 128771 | [128771-withstand-survival.json](./128771-withstand-survival.json) |
+| WithstandZ - Zombie Survival! | 38026 | [38026-withstandz-zombie-survival.json](./38026-withstandz-zombie-survival.json) |
 | WiThu, It's Time To Go | 320576 | [320576-withu-its-time-to-go.json](./320576-withu-its-time-to-go.json) |
 | Witness of the Night | 207590 | [207590-witness-of-the-night.json](./207590-witness-of-the-night.json) |
 | Witness Of Time | 313842 | [313842-witness-of-time.json](./313842-witness-of-time.json) |
@@ -6477,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein II: The New Colossus - The Adventures of Gunslinger Joe | 75844 | [75844-wolfenstein-ii-the-new-colossus-the-adventures-of-gunslinger-joe.json](./75844-wolfenstein-ii-the-new-colossus-the-adventures-of-gunslinger-joe.json) |
 | Wolfenstein II: The New Colossus - The Amazing Deeds of Captain Wilkins | 75846 | [75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json](./75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json) |
 | Wolfenstein II: The New Colossus - The Diaries of Agent Silent Death | 75845 | [75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json](./75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json) |
+| Wolfenstein II: The New Colossus Collector's Edition | 38025 | [38025-wolfenstein-ii-the-new-colossus-collectors-edition.json](./38025-wolfenstein-ii-the-new-colossus-collectors-edition.json) |
 | Wolfenstein II: The New Colossus Digital Deluxe Edition | 52133 | [52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json](./52133-wolfenstein-ii-the-new-colossus-digital-deluxe-edition.json) |
 | Wolfenstein VCS | 80435 | [80435-wolfenstein-vcs.json](./80435-wolfenstein-vcs.json) |
 | Wolfenstein VCS: The Next Mission | 77284 | [77284-wolfenstein-vcs-the-next-mission.json](./77284-wolfenstein-vcs-the-next-mission.json) |
