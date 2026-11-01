@@ -3021,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Earth II: Gold Edition | 24492 | [24492-empire-earth-ii-gold-edition.json](./24492-empire-earth-ii-gold-edition.json) |
 | Empire Earth II: The Art of Supremacy | 1607 | [1607-empire-earth-ii-the-art-of-supremacy.json](./1607-empire-earth-ii-the-art-of-supremacy.json) |
 | Empire Earth III | 1606 | [1606-empire-earth-iii.json](./1606-empire-earth-iii.json) |
+| Empire Earth: The Art of Conquest | 1609 | [1609-empire-earth-the-art-of-conquest.json](./1609-empire-earth-the-art-of-conquest.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
 | Empire Game: Pixel Hero | 364053 | [364053-empire-game-pixel-hero.json](./364053-empire-game-pixel-hero.json) |
 | Empire Heroes: Sudoku Puzzle | 58135 | [58135-empire-heroes-sudoku-puzzle.json](./58135-empire-heroes-sudoku-puzzle.json) |
@@ -6185,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
 | EVE Zero: Ark of the Matter | 71277 | [71277-eve-zero-ark-of-the-matter.json](./71277-eve-zero-ark-of-the-matter.json) |
 | Eve-Orb | 82526 | [82526-eve-orb.json](./82526-eve-orb.json) |
+| EVE: Dust 514 | 1320 | [1320-eve-dust-514.json](./1320-eve-dust-514.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | EVE: New Generation | 70779 | [70779-eve-new-generation.json](./70779-eve-new-generation.json) |
