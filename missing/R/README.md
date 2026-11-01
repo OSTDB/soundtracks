@@ -6780,6 +6780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders World: I Want to Race | 200654 | [200654-riders-world-i-want-to-race.json](./200654-riders-world-i-want-to-race.json) |
 | Rideshare "Stimulator" | 411819 | [411819-rideshare-stimulator.json](./411819-rideshare-stimulator.json) |
 | Ridevery | 270521 | [270521-ridevery.json](./270521-ridevery.json) |
+| Ridge | 32363 | [32363-ridge.json](./32363-ridge.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
 | Ridge Racer | 386354 | [386354-ridge-racer.json](./386354-ridge-racer.json) |
@@ -7388,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riser of Babel | 301084 | [301084-riser-of-babel.json](./301084-riser-of-babel.json) |
 | Risiko Chess | 274556 | [274556-risiko-chess.json](./274556-risiko-chess.json) |
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
+| Rising | 32387 | [32387-rising.json](./32387-rising.json) |
 | Rising Angels: Fates | 60441 | [60441-rising-angels-fates.json](./60441-rising-angels-fates.json) |
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
 | Rising Angels: Hope | 35326 | [35326-rising-angels-hope.json](./35326-rising-angels-hope.json) |
@@ -11596,6 +11598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
+| Runeous: Part One | 32451 | [32451-runeous-part-one.json](./32451-runeous-part-one.json) |
 | Runerod | 61988 | [61988-runerod.json](./61988-runerod.json) |
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
