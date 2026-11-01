@@ -4891,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Last Girl | 236957 | [236957-that-last-girl.json](./236957-that-last-girl.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
 | That Level Again | 113962 | [113962-that-level-again.json](./113962-that-level-again.json) |
+| That Level Again 2 | 144491 | [144491-that-level-again-2.json](./144491-that-level-again-2.json) |
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
@@ -5446,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ampoule | 275702 | [275702-the-ampoule.json](./275702-the-ampoule.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Amulet of Darath | 58864 | [58864-the-amulet-of-darath.json](./58864-the-amulet-of-darath.json) |
+| The Anacrusis | 152067 | [152067-the-anacrusis.json](./152067-the-anacrusis.json) |
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Anarchic Kingdom | 183705 | [183705-the-anarchic-kingdom.json](./183705-the-anarchic-kingdom.json) |
@@ -11919,6 +11921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Revival | 277873 | [277873-the-legend-of-zelda-revival.json](./277873-the-legend-of-zelda-revival.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Sands of Time | 326156 | [326156-the-legend-of-zelda-sands-of-time.json](./326156-the-legend-of-zelda-sands-of-time.json) |
+| The Legend of Zelda: Second Wind | 149979 | [149979-the-legend-of-zelda-second-wind.json](./149979-the-legend-of-zelda-second-wind.json) |
 | The Legend of Zelda: Shadow Mirror | 324001 | [324001-the-legend-of-zelda-shadow-mirror.json](./324001-the-legend-of-zelda-shadow-mirror.json) |
 | The Legend of Zelda: Shadow of Night | 218079 | [218079-the-legend-of-zelda-shadow-of-night.json](./218079-the-legend-of-zelda-shadow-of-night.json) |
 | The Legend of Zelda: Shattered Dimensions | 323212 | [323212-the-legend-of-zelda-shattered-dimensions.json](./323212-the-legend-of-zelda-shattered-dimensions.json) |
@@ -15364,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Ultimate Collection | 45113 | [45113-the-sims-2-ultimate-collection.json](./45113-the-sims-2-ultimate-collection.json) |
 | The Sims 2: University | 13126 | [13126-the-sims-2-university.json](./13126-the-sims-2-university.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
+| The Sims 3 | 141634 | [141634-the-sims-3.json](./141634-the-sims-3.json) |
 | The Sims 3 | 248566 | [248566-the-sims-3.json](./248566-the-sims-3.json) |
 | The Sims 3 | 248567 | [248567-the-sims-3.json](./248567-the-sims-3.json) |
 | The Sims 3 | 248568 | [248568-the-sims-3.json](./248568-the-sims-3.json) |
@@ -15704,6 +15708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Flower Defense | 352946 | [352946-the-smurfs-flower-defense.json](./352946-the-smurfs-flower-defense.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
+| The Smurfs: Mission Vileaf | 149960 | [149960-the-smurfs-mission-vileaf.json](./149960-the-smurfs-mission-vileaf.json) |
 | The Smurfs: Village Party | 292150 | [292150-the-smurfs-village-party.json](./292150-the-smurfs-village-party.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
