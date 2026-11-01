@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2012 | 1373 | [1373-f1-2012.json](./1373-f1-2012.json) |
 | F1 2013 | 5586 | [5586-f1-2013.json](./5586-f1-2013.json) |
 | F1 2013: Classic Edition Game Bundle | 99925 | [99925-f1-2013-classic-edition-game-bundle.json](./99925-f1-2013-classic-edition-game-bundle.json) |
+| F1 2014 | 7866 | [7866-f1-2014.json](./7866-f1-2014.json) |
 | F1 2015 | 9272 | [9272-f1-2015.json](./9272-f1-2015.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2017 | 28951 | [28951-f1-2017.json](./28951-f1-2017.json) |
@@ -2120,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry Classic | 95013 | [95013-far-cry-classic.json](./95013-far-cry-classic.json) |
 | Far Cry Compilation | 163874 | [163874-far-cry-compilation.json](./163874-far-cry-compilation.json) |
 | Far Cry Insanity Bundle | 164798 | [164798-far-cry-insanity-bundle.json](./164798-far-cry-insanity-bundle.json) |
+| Far Cry Instincts | 5831 | [5831-far-cry-instincts.json](./5831-far-cry-instincts.json) |
 | Far Cry Instincts: Evolution | 22584 | [22584-far-cry-instincts-evolution.json](./22584-far-cry-instincts-evolution.json) |
 | Far Cry Primal: Apex Edition | 54033 | [54033-far-cry-primal-apex-edition.json](./54033-far-cry-primal-apex-edition.json) |
 | Far Cry Primal: Collector's Edition | 41617 | [41617-far-cry-primal-collectors-edition.json](./41617-far-cry-primal-collectors-edition.json) |
@@ -4227,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Night Round 2 | 290386 | [290386-fight-night-round-2.json](./290386-fight-night-round-2.json) |
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
+| Fight Night Round 4 | 6993 | [6993-fight-night-round-4.json](./6993-fight-night-round-4.json) |
 | Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
 | Fight of Animals: Arena | 151668 | [151668-fight-of-animals-arena.json](./151668-fight-of-animals-arena.json) |
 | Fight of Animals: Legend of the Strongest Creature | 125376 | [125376-fight-of-animals-legend-of-the-strongest-creature.json](./125376-fight-of-animals-legend-of-the-strongest-creature.json) |
