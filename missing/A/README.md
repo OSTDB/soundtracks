@@ -16350,6 +16350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | Avowed: Premium Edition | 322516 | [322516-avowed-premium-edition.json](./322516-avowed-premium-edition.json) |
+| Avoyd | 56230 | [56230-avoyd.json](./56230-avoyd.json) |
 | Avoyd | 80807 | [80807-avoyd.json](./80807-avoyd.json) |
 | AVP: Evolution | 20087 | [20087-avp-evolution.json](./20087-avp-evolution.json) |
 | Avrach Resurrection | 137567 | [137567-avrach-resurrection.json](./137567-avrach-resurrection.json) |
