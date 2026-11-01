@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Flowers: Tiny Starlight | 380211 | [380211-dark-flowers-tiny-starlight.json](./380211-dark-flowers-tiny-starlight.json) |
 | Dark Forces II: Unreal | 355991 | [355991-dark-forces-ii-unreal.json](./355991-dark-forces-ii-unreal.json) |
 | Dark Forest | 116745 | [116745-dark-forest.json](./116745-dark-forest.json) |
+| Dark Forest | 18816 | [18816-dark-forest.json](./18816-dark-forest.json) |
 | Dark Forest | 279514 | [279514-dark-forest.json](./279514-dark-forest.json) |
 | Dark Forest Project | 169784 | [169784-dark-forest-project.json](./169784-dark-forest-project.json) |
 | Dark Forest Virtual Chatroom | 116253 | [116253-dark-forest-virtual-chatroom.json](./116253-dark-forest-virtual-chatroom.json) |
