@@ -3442,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Rio 2016 Olympic Games: Arcade Edition | 85273 | [85273-mario-and-sonic-at-the-rio-2016-olympic-games-arcade-edition.json](./85273-mario-and-sonic-at-the-rio-2016-olympic-games-arcade-edition.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
 | Mario & Sonic: The Ultimate Team | 323037 | [323037-mario-and-sonic-the-ultimate-team.json](./323037-mario-and-sonic-the-ultimate-team.json) |
+| Mario & Wario | 1709 | [1709-mario-and-wario.json](./1709-mario-and-wario.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
 | Mario + Rabbids Kingdom Battle: Gold Edition | 121506 | [121506-mario-rabbids-kingdom-battle-gold-edition.json](./121506-mario-rabbids-kingdom-battle-gold-edition.json) |
 | Mario + Rabbids Kingdom Battle: Pixel Pack | 237995 | [237995-mario-rabbids-kingdom-battle-pixel-pack.json](./237995-mario-rabbids-kingdom-battle-pixel-pack.json) |
@@ -5526,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10497,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes: Era of Chaos | 125744 | [125744-might-and-magic-heroes-era-of-chaos.json](./125744-might-and-magic-heroes-era-of-chaos.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Clash of Heroes - Definitive Edition | 247376 | [247376-might-and-magic-clash-of-heroes-definitive-edition.json](./247376-might-and-magic-clash-of-heroes-definitive-edition.json) |
+| Might & Magic: Duel of Champions | 1890 | [1890-might-and-magic-duel-of-champions.json](./1890-might-and-magic-duel-of-champions.json) |
 | Might & Magic: Duel of Champions - Five Towers | 383112 | [383112-might-and-magic-duel-of-champions-five-towers.json](./383112-might-and-magic-duel-of-champions-five-towers.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 383111 | [383111-might-and-magic-duel-of-champions-forgotten-wars.json](./383111-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
