@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
 | G-Police | 8305 | [8305-g-police.json](./8305-g-police.json) |
+| G-Police: Weapons of Justice | 8306 | [8306-g-police-weapons-of-justice.json](./8306-g-police-weapons-of-justice.json) |
 | G-Saviour | 66587 | [66587-g-saviour.json](./66587-g-saviour.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-Stream G2020 | 83425 | [83425-g-stream-g2020.json](./83425-g-stream-g2020.json) |
@@ -1198,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
 | Game Nihonshi: Kakumeiji Oda Nobunaga | 214392 | [214392-game-nihonshi-kakumeiji-oda-nobunaga.json](./214392-game-nihonshi-kakumeiji-oda-nobunaga.json) |
 | Game no Kandume: Sega Games Can Vol.1 | 111300 | [111300-game-no-kandume-sega-games-can-vol-1.json](./111300-game-no-kandume-sega-games-can-vol-1.json) |
+| Game no Kanzume Otokuyou | 4416 | [4416-game-no-kanzume-otokuyou.json](./4416-game-no-kanzume-otokuyou.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
 | Game no Kanzume Vol. 2 | 59518 | [59518-game-no-kanzume-vol-2.json](./59518-game-no-kanzume-vol-2.json) |
 | Game no Tatsujin | 44404 | [44404-game-no-tatsujin.json](./44404-game-no-tatsujin.json) |
@@ -3172,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gertrude's Secrets | 73521 | [73521-gertrudes-secrets.json](./73521-gertrudes-secrets.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gerztron | 78350 | [78350-gerztron.json](./78350-gerztron.json) |
+| Gespalten | 2339 | [2339-gespalten.json](./2339-gespalten.json) |
 | Gesshizu: Gajigaji Nakama wo Sodateyou | 109258 | [109258-gesshizu-gajigaji-nakama-wo-sodateyou.json](./109258-gesshizu-gajigaji-nakama-wo-sodateyou.json) |
 | Gesshizu: Minna de Chokomaka Murazukuri | 222253 | [222253-gesshizu-minna-de-chokomaka-murazukuri.json](./222253-gesshizu-minna-de-chokomaka-murazukuri.json) |
 | Gesshizu: Mori no Chiisana Nakama-tachi | 136966 | [136966-gesshizu-mori-no-chiisana-nakama-tachi.json](./136966-gesshizu-mori-no-chiisana-nakama-tachi.json) |
@@ -5315,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
 | Gobli's Adventure | 274413 | [274413-goblis-adventure.json](./274413-goblis-adventure.json) |
 | Gobligeddon | 121304 | [121304-gobligeddon.json](./121304-gobligeddon.json) |
+| Gobliiins 4 | 1933 | [1933-gobliiins-4.json](./1933-gobliiins-4.json) |
 | Gobliiins Collection | 403213 | [403213-gobliiins-collection.json](./403213-gobliiins-collection.json) |
 | Gobliiins Pack | 154937 | [154937-gobliiins-pack.json](./154937-gobliiins-pack.json) |
 | Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
@@ -5741,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla Kaiju Wars Deluxe | 386235 | [386235-godzilla-kaiju-wars-deluxe.json](./386235-godzilla-kaiju-wars-deluxe.json) |
 | Godzilla Kaiju Wars VR | 307771 | [307771-godzilla-kaiju-wars-vr.json](./307771-godzilla-kaiju-wars-vr.json) |
 | Godzilla Online | 72723 | [72723-godzilla-online.json](./72723-godzilla-online.json) |
+| Godzilla The Series: Monster Wars | 8164 | [8164-godzilla-the-series-monster-wars.json](./8164-godzilla-the-series-monster-wars.json) |
 | Godzilla Unleashed: Double Smash | 21512 | [21512-godzilla-unleashed-double-smash.json](./21512-godzilla-unleashed-double-smash.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
