@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Cup Soccer | 48225 | [48225-tecmo-world-cup-soccer.json](./48225-tecmo-world-cup-soccer.json) |
 | Tecmo World Cup Super Soccer | 62479 | [62479-tecmo-world-cup-super-soccer.json](./62479-tecmo-world-cup-super-soccer.json) |
 | Tecmo World Golf | 45064 | [45064-tecmo-world-golf.json](./45064-tecmo-world-golf.json) |
+| Tecmo World Soccer '96 | 39963 | [39963-tecmo-world-soccer-96.json](./39963-tecmo-world-soccer-96.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | TecnoballZ | 50412 | [50412-tecnoballz.json](./50412-tecnoballz.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
+| The Alphax Z | 39969 | [39969-the-alphax-z.json](./39969-the-alphax-z.json) |
 | The Alpine Encounter | 12252 | [12252-the-alpine-encounter.json](./12252-the-alpine-encounter.json) |
 | The Alpine Express | 253837 | [253837-the-alpine-express.json](./253837-the-alpine-express.json) |
 | The Alpinist | 201610 | [201610-the-alpinist.json](./201610-the-alpinist.json) |
@@ -9215,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Genesis Order | 263938 | [263938-the-genesis-order.json](./263938-the-genesis-order.json) |
 | The Genesis Project | 109057 | [109057-the-genesis-project.json](./109057-the-genesis-project.json) |
 | The Genie of the Wonderful Lamp | 319301 | [319301-the-genie-of-the-wonderful-lamp.json](./319301-the-genie-of-the-wonderful-lamp.json) |
+| The Genji and the Heike Clans | 39967 | [39967-the-genji-and-the-heike-clans.json](./39967-the-genji-and-the-heike-clans.json) |
 | The Genji and the Heike Clans | 42036 | [42036-the-genji-and-the-heike-clans.json](./42036-the-genji-and-the-heike-clans.json) |
 | The Gentle Art of Slaughter | 244778 | [244778-the-gentle-art-of-slaughter.json](./244778-the-gentle-art-of-slaughter.json) |
 | The Gentleman | 27715 | [27715-the-gentleman.json](./27715-the-gentleman.json) |
@@ -14361,6 +14364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Retrospection of Tomorrow | 354750 | [354750-the-retrospection-of-tomorrow.json](./354750-the-retrospection-of-tomorrow.json) |
 | The Return Home | 32131 | [32131-the-return-home.json](./32131-the-return-home.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
+| The Return of Ishtar | 39952 | [39952-the-return-of-ishtar.json](./39952-the-return-of-ishtar.json) |
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
 | The Return of Sammy Marlo | 73144 | [73144-the-return-of-sammy-marlo.json](./73144-the-return-of-sammy-marlo.json) |
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
@@ -19023,6 +19027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Cross II | 46774 | [46774-thunder-cross-ii.json](./46774-thunder-cross-ii.json) |
+| Thunder Dragon | 39941 | [39941-thunder-dragon.json](./39941-thunder-dragon.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
 | Thunder Edge | 369465 | [369465-thunder-edge.json](./369465-thunder-edge.json) |
 | Thunder Five | 98050 | [98050-thunder-five.json](./98050-thunder-five.json) |
@@ -19037,6 +19042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
 | Thunder Hawk | 354645 | [354645-thunder-hawk.json](./354645-thunder-hawk.json) |
 | Thunder Helix | 211162 | [211162-thunder-helix.json](./211162-thunder-helix.json) |
+| Thunder Heroes | 39932 | [39932-thunder-heroes.json](./39932-thunder-heroes.json) |
 | Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
 | Thunder in Paradise | 214890 | [214890-thunder-in-paradise.json](./214890-thunder-in-paradise.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
@@ -19063,6 +19069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
 | Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
+| Thunder Zone | 39977 | [39977-thunder-zone.json](./39977-thunder-zone.json) |
 | Thunderballs | 114042 | [114042-thunderballs.json](./114042-thunderballs.json) |
 | Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
@@ -28942,6 +28949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
 | Tropical America | 173420 | [173420-tropical-america.json](./173420-tropical-america.json) |
+| Tropical Angel | 39940 | [39940-tropical-angel.json](./39940-tropical-angel.json) |
 | Tropical Blessings | 385631 | [385631-tropical-blessings.json](./385631-tropical-blessings.json) |
 | Tropical Dragon Slaughter | 408055 | [408055-tropical-dragon-slaughter.json](./408055-tropical-dragon-slaughter.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
