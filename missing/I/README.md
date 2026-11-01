@@ -5112,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inziva | 243540 | [243540-inziva.json](./243540-inziva.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | iO | 6465 | [6465-io.json](./6465-io.json) |
+| IO | 54644 | [54644-io.json](./54644-io.json) |
 | iO Inner Self: The Lava Planet VR | 225614 | [225614-io-inner-self-the-lava-planet-vr.json](./225614-io-inner-self-the-lava-planet-vr.json) |
 | IO Interloper | 105729 | [105729-io-interloper.json](./105729-io-interloper.json) |
 | Io Vuole Zen | 266940 | [266940-io-vuole-zen.json](./266940-io-vuole-zen.json) |
