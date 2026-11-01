@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Onslaught | 147811 | [147811-tank-onslaught.json](./147811-tank-onslaught.json) |
 | Tank Operations: Diary of the War | 342845 | [342845-tank-operations-diary-of-the-war.json](./342845-tank-operations-diary-of-the-war.json) |
 | Tank POV | 402526 | [402526-tank-pov.json](./402526-tank-pov.json) |
+| Tank Racer | 11779 | [11779-tank-racer.json](./11779-tank-racer.json) |
 | Tank Rampage | 168116 | [168116-tank-rampage.json](./168116-tank-rampage.json) |
 | Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | Tanks!!! | 91260 | [91260-tanks.json](./91260-tanks.json) |
 | Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
+| Tanktics | 11780 | [11780-tanktics.json](./11780-tanktics.json) |
 | Tanktics: Computer game of Armored Combat on the Eastern Front | 71384 | [71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json](./71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json) |
 | TankTrouble | 122909 | [122909-tanktrouble.json](./122909-tanktrouble.json) |
 | TankTrouble - Mobile Mayhem | 88514 | [88514-tanktrouble-mobile-mayhem.json](./88514-tanktrouble-mobile-mayhem.json) |
