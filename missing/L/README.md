@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange 2: Episode 5 - Wolves | 119054 | [119054-life-is-strange-2-episode-5-wolves.json](./119054-life-is-strange-2-episode-5-wolves.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
+| Life is Strange Remastered | 144775 | [144775-life-is-strange-remastered.json](./144775-life-is-strange-remastered.json) |
 | Life is Strange Remastered Collection | 144770 | [144770-life-is-strange-remastered-collection.json](./144770-life-is-strange-remastered-collection.json) |
 | Life Is Strange: Arcadia Bay Collection | 213355 | [213355-life-is-strange-arcadia-bay-collection.json](./213355-life-is-strange-arcadia-bay-collection.json) |
 | Life is Strange: Before the Storm - Bonus Episode: Farewell | 91247 | [91247-life-is-strange-before-the-storm-bonus-episode-farewell.json](./91247-life-is-strange-before-the-storm-bonus-episode-farewell.json) |
