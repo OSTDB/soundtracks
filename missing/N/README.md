@@ -3533,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHK Academy: Space School - Math 6th Grade Part 2 | 122115 | [122115-nhk-academy-space-school-math-6th-grade-part-2.json](./122115-nhk-academy-space-school-math-6th-grade-part-2.json) |
 | NHK Kouhaku Quiz Kassen | 67280 | [67280-nhk-kouhaku-quiz-kassen.json](./67280-nhk-kouhaku-quiz-kassen.json) |
 | NHK Taiga Drama Taiheiki | 37667 | [37667-nhk-taiga-drama-taiheiki.json](./37667-nhk-taiga-drama-taiheiki.json) |
+| NHL '94 | 5405 | [5405-nhl-94.json](./5405-nhl-94.json) |
 | NHL 06 | 4044 | [4044-nhl-06.json](./4044-nhl-06.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 08 | 875 | [875-nhl-08.json](./875-nhl-08.json) |
