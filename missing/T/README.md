@@ -5508,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archer: Dead Hunt | 84081 | [84081-the-archer-dead-hunt.json](./84081-the-archer-dead-hunt.json) |
 | The Archetype | 34765 | [34765-the-archetype.json](./34765-the-archetype.json) |
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
+| The Architect | 35128 | [35128-the-architect.json](./35128-the-architect.json) |
 | The Architect: Paris | 74414 | [74414-the-architect-paris.json](./74414-the-architect-paris.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Architects of the Universe: The Orphans | 294022 | [294022-the-architects-of-the-universe-the-orphans.json](./294022-the-architects-of-the-universe-the-orphans.json) |
@@ -8973,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forge: Steel Frontier | 414869 | [414869-the-forge-steel-frontier.json](./414869-the-forge-steel-frontier.json) |
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
+| The Forgettable Dungeon | 35095 | [35095-the-forgettable-dungeon.json](./35095-the-forgettable-dungeon.json) |
 | The Forgoatten Isles | 177749 | [177749-the-forgoatten-isles.json](./177749-the-forgoatten-isles.json) |
 | The Forgotten Apartment | 344832 | [344832-the-forgotten-apartment.json](./344832-the-forgotten-apartment.json) |
 | The Forgotten Boundary | 201485 | [201485-the-forgotten-boundary.json](./201485-the-forgotten-boundary.json) |
@@ -12068,6 +12070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The Lodge | 310823 | [310823-the-lodge.json](./310823-the-lodge.json) |
 | The logic inside | 160265 | [160265-the-logic-inside.json](./160265-the-logic-inside.json) |
+| The Logomancer | 35129 | [35129-the-logomancer.json](./35129-the-logomancer.json) |
 | The London Heist | 11255 | [11255-the-london-heist.json](./11255-the-london-heist.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
 | The Lone Blade | 145972 | [145972-the-lone-blade.json](./145972-the-lone-blade.json) |
@@ -18746,6 +18749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Cards to Midnight | 67830 | [67830-three-cards-to-midnight.json](./67830-three-cards-to-midnight.json) |
 | Three Color Ball | 181091 | [181091-three-color-ball.json](./181091-three-color-ball.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
+| Three Days | 35093 | [35093-three-days.json](./35093-three-days.json) |
 | Three Days of the Rabbit | 183831 | [183831-three-days-of-the-rabbit.json](./183831-three-days-of-the-rabbit.json) |
 | Three Days to Chicago | 259716 | [259716-three-days-to-chicago.json](./259716-three-days-to-chicago.json) |
 | Three Dead Zed | 36364 | [36364-three-dead-zed.json](./36364-three-dead-zed.json) |
@@ -20833,6 +20837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
 | Tikal Online | 414559 | [414559-tikal-online.json](./414559-tikal-online.json) |
 | Tiki Brawl | 147087 | [147087-tiki-brawl.json](./147087-tiki-brawl.json) |
+| Tiki Galore | 35106 | [35106-tiki-galore.json](./35106-tiki-galore.json) |
 | Tiki Golf 2 | 175229 | [175229-tiki-golf-2.json](./175229-tiki-golf-2.json) |
 | Tiki Kart 3D | 108703 | [108703-tiki-kart-3d.json](./108703-tiki-kart-3d.json) |
 | Tiki Magic Mini Golf | 79961 | [79961-tiki-magic-mini-golf.json](./79961-tiki-magic-mini-golf.json) |
@@ -30465,6 +30470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Qix | 40491 | [40491-twin-qix.json](./40491-twin-qix.json) |
 | Twin Roads | 43176 | [43176-twin-roads.json](./43176-twin-roads.json) |
+| Twin Robots | 35144 | [35144-twin-robots.json](./35144-twin-robots.json) |
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
