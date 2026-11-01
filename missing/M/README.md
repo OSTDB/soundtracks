@@ -11785,6 +11785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Words: Polyglot | 169479 | [169479-mini-words-polyglot.json](./169479-mini-words-polyglot.json) |
 | Mini World | 71030 | [71030-mini-world.json](./71030-mini-world.json) |
 | Mini Worlds | 311893 | [311893-mini-worlds.json](./311893-mini-worlds.json) |
+| Mini Yonku GB: Let's & Go!! | 56231 | [56231-mini-yonku-gb-lets-and-go.json](./56231-mini-yonku-gb-lets-and-go.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
 | Mini Zag | 84341 | [84341-mini-zag.json](./84341-mini-zag.json) |
 | Mini Zen Garden | 293837 | [293837-mini-zen-garden.json](./293837-mini-zen-garden.json) |
@@ -13913,6 +13914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
 | Mongrel Games Minigames | 211636 | [211636-mongrel-games-minigames.json](./211636-mongrel-games-minigames.json) |
 | Mónǐ Jiā Zhuāngxiū | 117471 | [117471-moni-jia-zhuangxiu.json](./117471-moni-jia-zhuangxiu.json) |
+| Monica Bunny Bashings | 56193 | [56193-monica-bunny-bashings.json](./56193-monica-bunny-bashings.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica e a Guarda dos Coelhos | 112669 | [112669-monica-e-a-guarda-dos-coelhos.json](./112669-monica-e-a-guarda-dos-coelhos.json) |
 | Mônica em: o mundo perdido | 331780 | [331780-monica-em-o-mundo-perdido.json](./331780-monica-em-o-mundo-perdido.json) |
