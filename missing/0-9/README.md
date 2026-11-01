@@ -780,7 +780,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: World Tour - France | 127518 | [127518-1001-jigsaw-world-tour-france.json](./127518-1001-jigsaw-world-tour-france.json) |
 | 1001 Jigsaw: World Tour - Great America | 91255 | [91255-1001-jigsaw-world-tour-great-america.json](./91255-1001-jigsaw-world-tour-great-america.json) |
 | 1001 Jigsaw. World Tour Thailand | 256365 | [256365-1001-jigsaw-world-tour-thailand.json](./256365-1001-jigsaw-world-tour-thailand.json) |
+| 1001 MiniGolf Challenge | 52343 | [52343-1001-minigolf-challenge.json](./52343-1001-minigolf-challenge.json) |
 | 1001 Nights | 283040 | [283040-1001-nights.json](./283040-1001-nights.json) |
+| 1001 Nights: The Adventures of Sindbad | 52342 | [52342-1001-nights-the-adventures-of-sindbad.json](./52342-1001-nights-the-adventures-of-sindbad.json) |
 | 1001 Spikes | 8617 | [8617-1001-spikes.json](./8617-1001-spikes.json) |
 | 1001 Touch Games | 204246 | [204246-1001-touch-games.json](./204246-1001-touch-games.json) |
 | 1001 Ultimate Mahjong | 91181 | [91181-1001-ultimate-mahjong.json](./91181-1001-ultimate-mahjong.json) |
@@ -846,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cute Playland Dogs: Find & Paint | 320328 | [320328-101-cute-playland-dogs-find-and-paint.json](./320328-101-cute-playland-dogs-find-and-paint.json) |
 | 101 Dalmatians | 200492 | [200492-101-dalmatians.json](./200492-101-dalmatians.json) |
 | 101 Dalmatians: Escape from DeVil Manor | 47015 | [47015-101-dalmatians-escape-from-devil-manor.json](./47015-101-dalmatians-escape-from-devil-manor.json) |
+| 101 Dino Pets: The Virtual Pet Game | 52341 | [52341-101-dino-pets-the-virtual-pet-game.json](./52341-101-dino-pets-the-virtual-pet-game.json) |
 | 101 DinoPets 3D | 84614 | [84614-101-dinopets-3d.json](./84614-101-dinopets-3d.json) |
 | 101 Dogs Hidden in Amsterdam | 369993 | [369993-101-dogs-hidden-in-amsterdam.json](./369993-101-dogs-hidden-in-amsterdam.json) |
 | 101 Dogs Hidden in Australia | 382346 | [382346-101-dogs-hidden-in-australia.json](./382346-101-dogs-hidden-in-australia.json) |
@@ -865,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Shanghai | 374136 | [374136-101-dogs-hidden-in-shanghai.json](./374136-101-dogs-hidden-in-shanghai.json) |
 | 101 Dogs Hidden in Singapore | 407181 | [407181-101-dogs-hidden-in-singapore.json](./407181-101-dogs-hidden-in-singapore.json) |
 | 101 Dogs Hidden in Vienna | 407535 | [407535-101-dogs-hidden-in-vienna.json](./407535-101-dogs-hidden-in-vienna.json) |
+| 101 Dolphin Pets | 52340 | [52340-101-dolphin-pets.json](./52340-101-dolphin-pets.json) |
 | 101 Kid's Brainy Games | 180204 | [180204-101-kids-brainy-games.json](./180204-101-kids-brainy-games.json) |
 | 101 Kitty Pets | 100264 | [100264-101-kitty-pets.json](./100264-101-kitty-pets.json) |
 | 101 Minigolf World | 84621 | [84621-101-minigolf-world.json](./84621-101-minigolf-world.json) |
