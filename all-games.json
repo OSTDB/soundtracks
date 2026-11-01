@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-31T21:35:55.727Z",
-  "total_soundtracks": 2772,
+  "generated_at": "2026-11-01T21:12:22.512Z",
+  "total_soundtracks": 2790,
   "games": [
     {
       "igdb_id": 7522,
@@ -223,6 +223,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/a-hat-in-time-original-game-soundtrack/1299393881?uo=4",
           "album_link_url": "https://album.link/i/1299393881"
+        }
+      ]
+    },
+    {
+      "igdb_id": 191622,
+      "game_name": "A Highland Song",
+      "game_url": "https://ostdb.net/games/a-highland-song",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a7b6fa138b955951bf458683",
+      "albums": [
+        {
+          "album_name": "A Highland Song - Original Score",
+          "spotify_url": "https://open.spotify.com/album/0tVcAjZtEB3d4k7iE8K0TE",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -2235,6 +2249,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/astroneer-original-game-soundtrack-volume-2/1313308881?uo=4",
           "album_link_url": "https://album.link/i/1313308881"
+        }
+      ]
+    },
+    {
+      "igdb_id": 260817,
+      "game_name": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
+      "game_url": "https://ostdb.net/games/atelier-resleriana-forgotten-alchemy-and-the-polar-night-liberator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27340b965cd0f3f0f8acc19766b",
+      "albums": [
+        {
+          "album_name": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/46t977voQNOEhRY5tpDnNH",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -5127,6 +5155,20 @@
         {
           "album_name": "Children of the Sun (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/53iMyGjQmdy2O4qHIWnyA4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 225792,
+      "game_name": "Chop Goblins",
+      "game_url": "https://ostdb.net/games/chop-goblins",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27340b3b05e98f8e4e508e65e7a",
+      "albums": [
+        {
+          "album_name": "Chop Goblins (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1JFr1Djk1w5VXyf0zzJQ8b",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -9105,6 +9147,20 @@
         {
           "album_name": "Element4l (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0eETcPo4yzAGAMUs6pDEv2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 219056,
+      "game_name": "Elevator Hitch",
+      "game_url": "https://ostdb.net/games/elevator-hitch",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27348c1ceb3fe30d6f4ca6864ed",
+      "albums": [
+        {
+          "album_name": "Elevator Hitch (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1efjnTwEnnRVjglmZBMRqW",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13429,6 +13485,20 @@
       ]
     },
     {
+      "igdb_id": 217008,
+      "game_name": "Hauntii",
+      "game_url": "https://ostdb.net/games/hauntii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a61eb42ebd326daa3bf103c0",
+      "albums": [
+        {
+          "album_name": "Hauntii (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6KDyigjQNoiSNvgHNCVBvs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 14605,
       "game_name": "Haunting Ground",
       "game_url": "https://ostdb.net/games/haunting-ground",
@@ -14039,6 +14109,20 @@
         {
           "album_name": "Horizon Call of the Mountain (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/45yWDK1rkyOp7B2l7zgFvt",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 215062,
+      "game_name": "Horizon Chase 2",
+      "game_url": "https://ostdb.net/games/horizon-chase-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da6a7cee46b653d39744bc5f",
+      "albums": [
+        {
+          "album_name": "Horizon Chase 2 (Official Game Soundtrack Ost)",
+          "spotify_url": "https://open.spotify.com/album/71OuKwB0NYse9rWUcc2KD5",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -16143,6 +16227,20 @@
       ]
     },
     {
+      "igdb_id": 136594,
+      "game_name": "Len's Island",
+      "game_url": "https://ostdb.net/games/lens-island",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273203d9b29111d1fdc0738d301",
+      "albums": [
+        {
+          "album_name": "Len's Island (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Cy0aFNkwvN353leeRPWdW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 35132,
       "game_name": "LiEat",
       "game_url": "https://ostdb.net/games/lieat",
@@ -17857,6 +17955,20 @@
       ]
     },
     {
+      "igdb_id": 252528,
+      "game_name": "Mediterranea Inferno",
+      "game_url": "https://ostdb.net/games/mediterranea-inferno",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a83fdfa67191f9b454de45e8",
+      "albums": [
+        {
+          "album_name": "Mediterranea Inferno (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4IhIaskQEzXliAsB6Np0rX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1715,
       "game_name": "Mega Man 2",
       "game_url": "https://ostdb.net/games/mega-man-2",
@@ -18833,6 +18945,20 @@
           "spotify_url": "https://open.spotify.com/album/1DVCNAcMAd2eCgOmC84m2P",
           "apple_music_url": "https://music.apple.com/us/album/monument-valley-original-soundtrack/887804425",
           "album_link_url": "https://album.link/i/887804425"
+        }
+      ]
+    },
+    {
+      "igdb_id": 196935,
+      "game_name": "Moon Mystery",
+      "game_url": "https://ostdb.net/games/moon-mystery",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27348a3187c2b4f421f2c787318",
+      "albums": [
+        {
+          "album_name": "Moon Mystery (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5H47WwTqoiqFQ2l5KrzUH4",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -20575,6 +20701,20 @@
       ]
     },
     {
+      "igdb_id": 151795,
+      "game_name": "Opus: Echo of Starsong",
+      "game_url": "https://ostdb.net/games/opus-echo-of-starsong",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c292cf92c44cde3df02059a",
+      "albums": [
+        {
+          "album_name": "OPUS: Echo of Starsong Original Soundtrack -Best Selection-",
+          "spotify_url": "https://open.spotify.com/album/5lby9msnAHBxvPBpSVw0Mr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 77569,
       "game_name": "Opus: Rocket of Whispers",
       "game_url": "https://ostdb.net/games/opus-rocket-of-whispers",
@@ -20757,6 +20897,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/outlast-ii-original-game-soundtrack/1228266432?uo=4",
           "album_link_url": "https://album.link/i/1228266432"
+        }
+      ]
+    },
+    {
+      "igdb_id": 229007,
+      "game_name": "Outpath",
+      "game_url": "https://ostdb.net/games/outpath",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273104ba0ef539571a9ba5b5a80",
+      "albums": [
+        {
+          "album_name": "Outpath (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4LLXUwXNkIkxF40HKkbicc",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -24029,6 +24183,20 @@
       ]
     },
     {
+      "igdb_id": 182283,
+      "game_name": "Rusted Moss",
+      "game_url": "https://ostdb.net/games/rusted-moss",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732e07aab1019f5885e34e0115",
+      "albums": [
+        {
+          "album_name": "Rusted Moss (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5nCAwfRlWEznojN6sDvNGH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 18011,
       "game_name": "Rusty Lake Hotel",
       "game_url": "https://ostdb.net/games/rusty-lake-hotel",
@@ -25611,6 +25779,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/slitterhead-original-game-soundtrack/1784820377?uo=4",
           "album_link_url": "https://album.link/i/1784820377"
+        }
+      ]
+    },
+    {
+      "igdb_id": 242597,
+      "game_name": "Sludge Life 2",
+      "game_url": "https://ostdb.net/games/sludge-life-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27334d8c0769be5cc24374d7b22",
+      "albums": [
+        {
+          "album_name": "Sludge Life 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4jqZxEjTxIU6I14N0XgLgk",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -27443,6 +27625,20 @@
       ]
     },
     {
+      "igdb_id": 203318,
+      "game_name": "Streets of Rage 2",
+      "game_url": "https://ostdb.net/games/streets-of-rage-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5b4bc3c5ab658dcb77b3722",
+      "albums": [
+        {
+          "album_name": "Streets of Rage 2 (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/23DOiprzUpcAFyJjDNJMuK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 107262,
       "game_name": "Streets of Rage 4",
       "game_url": "https://ostdb.net/games/streets-of-rage-4",
@@ -28489,6 +28685,20 @@
         {
           "album_name": "Terra Nil (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/741yoLZfVN5QgvRuDmh5MH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 137070,
+      "game_name": "Terraformers",
+      "game_url": "https://ostdb.net/games/terraformers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733a98ef3d03d49d04a4423887",
+      "albums": [
+        {
+          "album_name": "Terraformers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5BR3xAXonBJ2gu2o9ZcRtx",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -30641,6 +30851,20 @@
       ]
     },
     {
+      "igdb_id": 248680,
+      "game_name": "The Urbz: Sims in the City",
+      "game_url": "https://ostdb.net/games/the-urbz-sims-in-the-city",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273094413ee0fc6ffbdea34d647",
+      "albums": [
+        {
+          "album_name": "The Urbz: Sims in the City (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4tjcTRQbo3ZO1Jpv8S4yDx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3273,
       "game_name": "The Void",
       "game_url": "https://ostdb.net/games/the-void",
@@ -32061,6 +32285,20 @@
       ]
     },
     {
+      "igdb_id": 247757,
+      "game_name": "Unboxing the Cryptic Killer",
+      "game_url": "https://ostdb.net/games/unboxing-the-cryptic-killer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273afcd17b2b907917ef51e4ddb",
+      "albums": [
+        {
+          "album_name": "Unboxing the Cryptic Killer (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7dBzCqokm1bF4eApRRbOk2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 565,
       "game_name": "Uncharted 2: Among Thieves",
       "game_url": "https://ostdb.net/games/uncharted-2-among-thieves",
@@ -32201,6 +32439,20 @@
         {
           "album_name": "UNDER NIGHT IN-BIRTH Exe:Late [st] (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1cnaj4CfoXCiJetSlOZ0VG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 260087,
+      "game_name": "Under Night In-Birth II Sys:Celes",
+      "game_url": "https://ostdb.net/games/under-night-in-birth-ii-sys-celes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ab410e9d3b0bb3805960c376",
+      "albums": [
+        {
+          "album_name": "UNDER NIGHT IN-BIRTH II Sys:Celes (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5CnfpicJfNICnbRJCGtP8d",
           "apple_music_url": "",
           "album_link_url": ""
         }
