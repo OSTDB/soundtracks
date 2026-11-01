@@ -4545,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Memories | 344409 | [344409-decaying-memories.json](./344409-decaying-memories.json) |
 | Decaying Orbit | 266643 | [266643-decaying-orbit.json](./266643-decaying-orbit.json) |
 | Decaying West | 344268 | [344268-decaying-west.json](./344268-decaying-west.json) |
+| Decaying West | 40493 | [40493-decaying-west.json](./40493-decaying-west.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
 | Deceased.cable | 318158 | [318158-deceased-cable.json](./318158-deceased-cable.json) |
