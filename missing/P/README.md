@@ -16270,6 +16270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Land Online | 399574 | [399574-puppy-land-online.json](./399574-puppy-land-online.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
+| Puppy Luv | 12617 | [12617-puppy-luv.json](./12617-puppy-luv.json) |
 | Puppy Luv Adventures | 62033 | [62033-puppy-luv-adventures.json](./62033-puppy-luv-adventures.json) |
 | Puppy Luv: Spa and Resort | 49473 | [49473-puppy-luv-spa-and-resort.json](./49473-puppy-luv-spa-and-resort.json) |
 | Puppy Luv: Your New Best Friend | 51138 | [51138-puppy-luv-your-new-best-friend.json](./51138-puppy-luv-your-new-best-friend.json) |
