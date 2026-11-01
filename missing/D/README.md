@@ -4783,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deedlee Doo! Carkour! | 342090 | [342090-deedlee-doo-carkour.json](./342090-deedlee-doo-carkour.json) |
 | Deeds Were Done 2: Project Ascend | 414425 | [414425-deeds-were-done-2-project-ascend.json](./414425-deeds-were-done-2-project-ascend.json) |
 | Deeeep.io | 79267 | [79267-deeeep-io.json](./79267-deeeep-io.json) |
+| Deeeer Simulator | 114764 | [114764-deeeer-simulator.json](./114764-deeeer-simulator.json) |
 | Deeeer Simulator: Shikanoko Dance | 331960 | [331960-deeeer-simulator-shikanoko-dance.json](./331960-deeeer-simulator-shikanoko-dance.json) |
 | Deemo | 27028 | [27028-deemo.json](./27028-deemo.json) |
 | Deemo II | 127797 | [127797-deemo-ii.json](./127797-deemo-ii.json) |
@@ -6973,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
 | Destiny 2: The Edge of Fate | 342776 | [342776-destiny-2-the-edge-of-fate.json](./342776-destiny-2-the-edge-of-fate.json) |
+| Destiny 2: The Final Shape | 250645 | [250645-destiny-2-the-final-shape.json](./250645-destiny-2-the-final-shape.json) |
 | Destiny 2: The Witch Queen | 134831 | [134831-destiny-2-the-witch-queen.json](./134831-destiny-2-the-witch-queen.json) |
 | Destiny 2: The Witch Queen - Collector’s Edition | 165327 | [165327-destiny-2-the-witch-queen-collector-s-edition.json](./165327-destiny-2-the-witch-queen-collector-s-edition.json) |
 | Destiny 2: The Witch Queen - Deluxe Edition | 165326 | [165326-destiny-2-the-witch-queen-deluxe-edition.json](./165326-destiny-2-the-witch-queen-deluxe-edition.json) |
@@ -7252,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
 | Detective Penguin | 340533 | [340533-detective-penguin.json](./340533-detective-penguin.json) |
+| Detective Pikachu | 81272 | [81272-detective-pikachu.json](./81272-detective-pikachu.json) |
 | Detective Pikachu Returns | 128307 | [128307-detective-pikachu-returns.json](./128307-detective-pikachu-returns.json) |
 | Detective Pomu and the Tatsuki Manor Mystery | 283333 | [283333-detective-pomu-and-the-tatsuki-manor-mystery.json](./283333-detective-pomu-and-the-tatsuki-manor-mystery.json) |
 | Detective Puz | 133907 | [133907-detective-puz.json](./133907-detective-puz.json) |
@@ -13191,6 +13194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario Express | 47847 | [47847-dr-mario-express.json](./47847-dr-mario-express.json) |
 | Dr. Mario Mania | 357345 | [357345-dr-mario-mania.json](./357345-dr-mario-mania.json) |
 | Dr. Mario Online Rx | 21910 | [21910-dr-mario-online-rx.json](./21910-dr-mario-online-rx.json) |
+| Dr. Mario World | 114767 | [114767-dr-mario-world.json](./114767-dr-mario-world.json) |
 | Dr. Mario World House Calls | 42602 | [42602-dr-mario-world-house-calls.json](./42602-dr-mario-world-house-calls.json) |
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
 | Dr. Mario World: Version 2.0.0 | 361000 | [361000-dr-mario-world-version-2-0-0.json](./361000-dr-mario-world-version-2-0-0.json) |
