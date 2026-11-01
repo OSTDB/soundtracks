@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Spark: Probation | 258496 | [258496-tales-of-spark-probation.json](./258496-tales-of-spark-probation.json) |
 | Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
 | Tales of Symphonia | 221716 | [221716-tales-of-symphonia.json](./221716-tales-of-symphonia.json) |
+| Tales Of Symphonia Chronicles: Collector's Edition | 42960 | [42960-tales-of-symphonia-chronicles-collectors-edition.json](./42960-tales-of-symphonia-chronicles-collectors-edition.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Symphonia: Dawn of the New World | 5210 | [5210-tales-of-symphonia-dawn-of-the-new-world.json](./5210-tales-of-symphonia-dawn-of-the-new-world.json) |
@@ -1325,9 +1326,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Windy Land | 66046 | [66046-tales-of-windy-land.json](./66046-tales-of-windy-land.json) |
 | Tales of Xillia / Tales of Xillia 2 | 98731 | [98731-tales-of-xillia-tales-of-xillia-2.json](./98731-tales-of-xillia-tales-of-xillia-2.json) |
 | Tales of Xillia 2 | 1213 | [1213-tales-of-xillia-2.json](./1213-tales-of-xillia-2.json) |
+| Tales Of Xillia 2: Collector's Edition | 42961 | [42961-tales-of-xillia-2-collectors-edition.json](./42961-tales-of-xillia-2-collectors-edition.json) |
 | Tales of Xillia Remastered | 361791 | [361791-tales-of-xillia-remastered.json](./361791-tales-of-xillia-remastered.json) |
 | Tales of Xillia Remastered: Deluxe Edition | 365550 | [365550-tales-of-xillia-remastered-deluxe-edition.json](./365550-tales-of-xillia-remastered-deluxe-edition.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
+| Tales Of Xillia: Collector's Edition | 42962 | [42962-tales-of-xillia-collectors-edition.json](./42962-tales-of-xillia-collectors-edition.json) |
 | Tales of Yokai Harmony | 379425 | [379425-tales-of-yokai-harmony.json](./379425-tales-of-yokai-harmony.json) |
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zestiria | 6452 | [6452-tales-of-zestiria.json](./6452-tales-of-zestiria.json) |
@@ -7455,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkness | 81718 | [81718-the-darkness.json](./81718-the-darkness.json) |
 | The Darkness Assault | 53725 | [53725-the-darkness-assault.json](./53725-the-darkness-assault.json) |
 | The Darkness Delivers | 370077 | [370077-the-darkness-delivers.json](./370077-the-darkness-delivers.json) |
+| The Darkness II: Limited Edition | 42970 | [42970-the-darkness-ii-limited-edition.json](./42970-the-darkness-ii-limited-edition.json) |
 | The Darkness of Gordoth | 398687 | [398687-the-darkness-of-gordoth.json](./398687-the-darkness-of-gordoth.json) |
 | The Darkside Detective Duology | 291586 | [291586-the-darkside-detective-duology.json](./291586-the-darkside-detective-duology.json) |
 | The Darkside Detective: A Fumble in the Dark - Ghosts of Christmas Passed | 222965 | [222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json](./222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json) |
@@ -7722,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
 | The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
 | The Disembodied Hand | 183203 | [183203-the-disembodied-hand.json](./183203-the-disembodied-hand.json) |
+| The Disgaea Triple Play Collection | 43000 | [43000-the-disgaea-triple-play-collection.json](./43000-the-disgaea-triple-play-collection.json) |
 | The Disgraced Prince | 171842 | [171842-the-disgraced-prince.json](./171842-the-disgraced-prince.json) |
 | The Disgusting Slaughterman | 126312 | [126312-the-disgusting-slaughterman.json](./126312-the-disgusting-slaughterman.json) |
 | The Dishwasher: Dead Samurai | 21178 | [21178-the-dishwasher-dead-samurai.json](./21178-the-dishwasher-dead-samurai.json) |
@@ -17734,6 +17739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X Animal | 54997 | [54997-the-x-animal.json](./54997-the-x-animal.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The X-Com Files | 276795 | [276795-the-x-com-files.json](./276795-the-x-com-files.json) |
+| The X-Factor | 42980 | [42980-the-x-factor.json](./42980-the-x-factor.json) |
 | The X-Files Game | 103203 | [103203-the-x-files-game.json](./103203-the-x-files-game.json) |
 | The X-Files: Deep State | 76429 | [76429-the-x-files-deep-state.json](./76429-the-x-files-deep-state.json) |
 | The X-Files: Unrestricted Access | 64238 | [64238-the-x-files-unrestricted-access.json](./64238-the-x-files-unrestricted-access.json) |
@@ -18163,6 +18169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheWraithTrials | 93711 | [93711-thewraithtrials.json](./93711-thewraithtrials.json) |
 | Thexder | 9681 | [9681-thexder.json](./9681-thexder.json) |
 | Thexder 95 | 57565 | [57565-thexder-95.json](./57565-thexder-95.json) |
+| Thexder Neo | 42978 | [42978-thexder-neo.json](./42978-thexder-neo.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
 | They Always Run | 147190 | [147190-they-always-run.json](./147190-they-always-run.json) |
 | They Always Run: Deluxe Edition | 292927 | [292927-they-always-run-deluxe-edition.json](./292927-they-always-run-deluxe-edition.json) |
@@ -22912,6 +22919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition | 44568 | [44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json](./44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Digital Deluxe Edition | 53944 | [53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json](./53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Ultimate Edition | 99926 | [99926-tom-clancys-splinter-cell-blacklist-ultimate-edition.json](./99926-tom-clancys-splinter-cell-blacklist-ultimate-edition.json) |
+| Tom Clancy's Splinter Cell: Blacklist - Ultimatum Edition | 42971 | [42971-tom-clancys-splinter-cell-blacklist-ultimatum-edition.json](./42971-tom-clancys-splinter-cell-blacklist-ultimatum-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Upper Echelon Edition | 76983 | [76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json](./76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 243020 | [243020-tom-clancys-splinter-cell-chaos-theory.json](./243020-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 243021 | [243021-tom-clancys-splinter-cell-chaos-theory.json](./243021-tom-clancys-splinter-cell-chaos-theory.json) |
@@ -30743,6 +30751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II: Echoes of the Dark Past | 124775 | [124775-two-worlds-ii-echoes-of-the-dark-past.json](./124775-two-worlds-ii-echoes-of-the-dark-past.json) |
 | Two Worlds II: Epic Edition | 51798 | [51798-two-worlds-ii-epic-edition.json](./51798-two-worlds-ii-epic-edition.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
+| Two Worlds II: Royal Edition | 43007 | [43007-two-worlds-ii-royal-edition.json](./43007-two-worlds-ii-royal-edition.json) |
 | Two Worlds II: Shattered Embrace | 171324 | [171324-two-worlds-ii-shattered-embrace.json](./171324-two-worlds-ii-shattered-embrace.json) |
 | Two Worlds II: Velvet Game of the Year Edition | 47473 | [47473-two-worlds-ii-velvet-game-of-the-year-edition.json](./47473-two-worlds-ii-velvet-game-of-the-year-edition.json) |
 | Two Worlds: Epic Edition | 27841 | [27841-two-worlds-epic-edition.json](./27841-two-worlds-epic-edition.json) |
