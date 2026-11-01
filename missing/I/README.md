@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icon | 399909 | [399909-icon.json](./399909-icon.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Icon_Survive | 340520 | [340520-icon-survive.json](./340520-icon-survive.json) |
+| Icon: Quest for the Ring | 26146 | [26146-icon-quest-for-the-ring.json](./26146-icon-quest-for-the-ring.json) |
 | Iconia Defenders | 289827 | [289827-iconia-defenders.json](./289827-iconia-defenders.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
@@ -3571,6 +3572,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitely Up 5 | 335336 | [335336-infinitely-up-5.json](./335336-infinitely-up-5.json) |
 | Infinitely Up: Skip Figure | 335333 | [335333-infinitely-up-skip-figure.json](./335333-infinitely-up-skip-figure.json) |
 | Infinitely Up: Turn the Figure | 335334 | [335334-infinitely-up-turn-the-figure.json](./335334-infinitely-up-turn-the-figure.json) |
+| Infinitesimals | 26200 | [26200-infinitesimals.json](./26200-infinitesimals.json) |
+| InfiniteSpace - Space Game | 26173 | [26173-infinitespace-space-game.json](./26173-infinitespace-space-game.json) |
 | Infinitevania | 217229 | [217229-infinitevania.json](./217229-infinitevania.json) |
 | Infiniti VR | 29051 | [29051-infiniti-vr.json](./29051-infiniti-vr.json) |
 | Infinitode | 71028 | [71028-infinitode.json](./71028-infinitode.json) |
