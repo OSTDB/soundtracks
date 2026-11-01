@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laura of Reigetsu | 258940 | [258940-laura-of-reigetsu.json](./258940-laura-of-reigetsu.json) |
 | Laura's Happy Adventures | 66703 | [66703-lauras-happy-adventures.json](./66703-lauras-happy-adventures.json) |
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
+| Laurel & Hardy | 41115 | [41115-laurel-and-hardy.json](./41115-laurel-and-hardy.json) |
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
 | Laureli: Blood-Dipped Manor | 382183 | [382183-laureli-blood-dipped-manor.json](./382183-laureli-blood-dipped-manor.json) |
 | Lauren's visit | 108066 | [108066-laurens-visit.json](./108066-laurens-visit.json) |
