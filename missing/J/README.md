@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo no Kimyou na Hana Battle | 80127 | [80127-jojo-no-kimyou-na-hana-battle.json](./80127-jojo-no-kimyou-na-hana-battle.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
 | JoJo the Sheep | 233487 | [233487-jojo-the-sheep.json](./233487-jojo-the-sheep.json) |
+| JoJo's Bizarre Adventure | 75963 | [75963-jojos-bizarre-adventure.json](./75963-jojos-bizarre-adventure.json) |
 | JoJo's Bizarre Adventure HD | 47433 | [47433-jojos-bizarre-adventure-hd.json](./47433-jojos-bizarre-adventure-hd.json) |
 | JoJo's Bizarre Adventure: All Star Battle | 6517 | [6517-jojos-bizarre-adventure-all-star-battle.json](./6517-jojos-bizarre-adventure-all-star-battle.json) |
 | JoJo's Bizarre Adventure: All Star Battle - Golden Experience Box | 298016 | [298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json](./298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json) |
