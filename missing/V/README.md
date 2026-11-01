@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vandals | 95550 | [95550-vandals.json](./95550-vandals.json) |
 | Vandell: Knight of the Tortured Souls | 69753 | [69753-vandell-knight-of-the-tortured-souls.json](./69753-vandell-knight-of-the-tortured-souls.json) |
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
+| Vandyke | 39331 | [39331-vandyke.json](./39331-vandyke.json) |
 | Vane | 11669 | [11669-vane.json](./11669-vane.json) |
 | Vanessa | 237783 | [237783-vanessa.json](./237783-vanessa.json) |
 | Vanessa Saint-Pierre Delacroix & Her Nightmare | 79627 | [79627-vanessa-saint-pierre-delacroix-and-her-nightmare.json](./79627-vanessa-saint-pierre-delacroix-and-her-nightmare.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard | 139137 | [139137-vanguard.json](./139137-vanguard.json) |
 | Vanguard | 18472 | [18472-vanguard.json](./18472-vanguard.json) |
 | Vanguard | 291349 | [291349-vanguard.json](./291349-vanguard.json) |
+| Vanguard 2 | 39330 | [39330-vanguard-2.json](./39330-vanguard-2.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Bandits | 43914 | [43914-vanguard-bandits.json](./43914-vanguard-bandits.json) |
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
@@ -859,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varnir of the Dragon Star: Ecdysis of the Dragon Limited Edition | 116234 | [116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json](./116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json) |
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
+| Varth: Operation Thunderstorm | 39312 | [39312-varth-operation-thunderstorm.json](./39312-varth-operation-thunderstorm.json) |
 | Varthos: Heir to the Throne | 369888 | [369888-varthos-heir-to-the-throne.json](./369888-varthos-heir-to-the-throne.json) |
 | Vartio | 347586 | [347586-vartio.json](./347586-vartio.json) |
 | Vartra Abyss | 323226 | [323226-vartra-abyss.json](./323226-vartra-abyss.json) |
