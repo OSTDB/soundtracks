@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Blade | 392963 | [392963-marble-blade.json](./392963-marble-blade.json) |
 | Marble Blast Gold | 26191 | [26191-marble-blast-gold.json](./26191-marble-blast-gold.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
+| Marble Blast Ultra | 20503 | [20503-marble-blast-ultra.json](./20503-marble-blast-ultra.json) |
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
 | Marble Castle | 413496 | [413496-marble-castle.json](./413496-marble-castle.json) |
@@ -3908,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Slightly Unusual Boss Rush: v2.0 Release | 381850 | [381850-marios-slightly-unusual-boss-rush-v2-0-release.json](./381850-marios-slightly-unusual-boss-rush-v2-0-release.json) |
 | Mario's Star Quest 2 | 315014 | [315014-marios-star-quest-2.json](./315014-marios-star-quest-2.json) |
 | Mario's Super Picross | 80174 | [80174-marios-super-picross.json](./80174-marios-super-picross.json) |
+| Mario's Tennis | 20386 | [20386-marios-tennis.json](./20386-marios-tennis.json) |
 | Mario's Time Machine | 210116 | [210116-marios-time-machine.json](./210116-marios-time-machine.json) |
 | Mario's Time Machine | 210225 | [210225-marios-time-machine.json](./210225-marios-time-machine.json) |
 | Mario's Time Machine DX | 323825 | [323825-marios-time-machine-dx.json](./323825-marios-time-machine-dx.json) |
@@ -4507,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Skelter Finale: Limited Edition | 166179 | [166179-mary-skelter-finale-limited-edition.json](./166179-mary-skelter-finale-limited-edition.json) |
 | Mary Skelter: Locked Up in Love - True End | 410472 | [410472-mary-skelter-locked-up-in-love-true-end.json](./410472-mary-skelter-locked-up-in-love-true-end.json) |
 | Mary Skelter: Locked Up in Love – Blood High | 410471 | [410471-mary-skelter-locked-up-in-love-blood-high.json](./410471-mary-skelter-locked-up-in-love-blood-high.json) |
+| Mary Skelter: Nightmares | 19864 | [19864-mary-skelter-nightmares.json](./19864-mary-skelter-nightmares.json) |
 | Mary Skelter: Nightmares Remake | 44474 | [44474-mary-skelter-nightmares-remake.json](./44474-mary-skelter-nightmares-remake.json) |
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
@@ -5527,7 +5530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8990,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid HD Collection | 20741 | [20741-metal-gear-solid-hd-collection.json](./20741-metal-gear-solid-hd-collection.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
 | Metal Gear Solid HD Edition: 2 & 3 | 136811 | [136811-metal-gear-solid-hd-edition-2-and-3.json](./136811-metal-gear-solid-hd-edition-2-and-3.json) |
+| Metal Gear Solid Master Collection: Volume 1 | 250635 | [250635-metal-gear-solid-master-collection-volume-1.json](./250635-metal-gear-solid-master-collection-volume-1.json) |
 | Metal Gear Solid Master Collection: Volume 1 - Day One Edition | 274056 | [274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json](./274056-metal-gear-solid-master-collection-volume-1-day-one-edition.json) |
 | Metal Gear Solid Master Collection: Volume 2 | 389433 | [389433-metal-gear-solid-master-collection-volume-2.json](./389433-metal-gear-solid-master-collection-volume-2.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
@@ -12714,6 +12717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Hearts: Crimson Cruise | 416625 | [416625-missing-hearts-crimson-cruise.json](./416625-missing-hearts-crimson-cruise.json) |
 | Missing Hearts: Сrimson Cruise - Collector's Edition | 362590 | [362590-missing-hearts-rimson-cruise-collectors-edition.json](./362590-missing-hearts-rimson-cruise-collectors-edition.json) |
 | Missing Heroes | 224003 | [224003-missing-heroes.json](./224003-missing-heroes.json) |
+| Missing Hiker | 235202 | [235202-missing-hiker.json](./235202-missing-hiker.json) |
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
 | Missing in Rome | 209214 | [209214-missing-in-rome.json](./209214-missing-in-rome.json) |
 | Missing Information | 169325 | [169325-missing-information.json](./169325-missing-information.json) |
@@ -16266,6 +16270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother | 133707 | [133707-mother.json](./133707-mother.json) |
 | Mother | 150274 | [150274-mother.json](./150274-mother.json) |
+| Mother | 238665 | [238665-mother.json](./238665-mother.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother 2 Deluxe | 246585 | [246585-mother-2-deluxe.json](./246585-mother-2-deluxe.json) |
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
