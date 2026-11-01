@@ -5357,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager: Season 1999/2000 | 71378 | [71378-championship-manager-season-1999-2000.json](./71378-championship-manager-season-1999-2000.json) |
 | Championship Manager: Season 96/97 | 70258 | [70258-championship-manager-season-96-97.json](./70258-championship-manager-season-96-97.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
+| Championship Manager: Season 99/00 | 18872 | [18872-championship-manager-season-99-00.json](./18872-championship-manager-season-99-00.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 292793 | [292793-championship-motocross-2001-featuring-ricky-carmichael.json](./292793-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Motocross featuring Ricky Carmichael | 44830 | [44830-championship-motocross-featuring-ricky-carmichael.json](./44830-championship-motocross-featuring-ricky-carmichael.json) |
@@ -8812,6 +8813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Online | 63915 | [63915-civilization-online.json](./63915-civilization-online.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
+| Civilization: Call to Power | 9930 | [9930-civilization-call-to-power.json](./9930-civilization-call-to-power.json) |
 | Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
 | Civizard: Majutsu no Keifu | 66211 | [66211-civizard-majutsu-no-keifu.json](./66211-civizard-majutsu-no-keifu.json) |
 | CivRise | 348459 | [348459-civrise.json](./348459-civrise.json) |
@@ -8921,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash | 213861 | [213861-clash.json](./213861-clash.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash & Run | 420174 | [420174-clash-and-run.json](./420174-clash-and-run.json) |
+| Clash at Demonhead | 19118 | [19118-clash-at-demonhead.json](./19118-clash-at-demonhead.json) |
 | Clash Battle Simulator | 326450 | [326450-clash-battle-simulator.json](./326450-clash-battle-simulator.json) |
 | Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
 | Clash Caddie | 104495 | [104495-clash-caddie.json](./104495-clash-caddie.json) |
@@ -9832,6 +9835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudborn | 68714 | [68714-cloudborn.json](./68714-cloudborn.json) |
 | CloudBound | 31374 | [31374-cloudbound.json](./31374-cloudbound.json) |
 | Cloudbreaker | 355555 | [355555-cloudbreaker.json](./355555-cloudbreaker.json) |
+| Cloudbuilt | 16820 | [16820-cloudbuilt.json](./16820-cloudbuilt.json) |
 | Cloudbuilt: Defiance | 171497 | [171497-cloudbuilt-defiance.json](./171497-cloudbuilt-defiance.json) |
 | Cloudbuilt: Through the Fog | 50328 | [50328-cloudbuilt-through-the-fog.json](./50328-cloudbuilt-through-the-fog.json) |
 | Cloudburst | 250844 | [250844-cloudburst.json](./250844-cloudburst.json) |
