@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paro Wars | 37305 | [37305-paro-wars.json](./37305-paro-wars.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parodius | 280746 | [280746-parodius.json](./280746-parodius.json) |
+| Parodius | 41712 | [41712-parodius.json](./41712-parodius.json) |
 | Parodius da!: Shinwa kara Owarai he | 37307 | [37307-parodius-da-shinwa-kara-owarai-he.json](./37307-parodius-da-shinwa-kara-owarai-he.json) |
 | Parodius Portable | 42792 | [42792-parodius-portable.json](./42792-parodius-portable.json) |
 | Parody World: Monster Party | 48570 | [48570-parody-world-monster-party.json](./48570-parody-world-monster-party.json) |
@@ -3772,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin World | 271057 | [271057-penguin-world.json](./271057-penguin-world.json) |
 | Penguin-kun Gira-Gira Wars | 54924 | [54924-penguin-kun-gira-gira-wars.json](./54924-penguin-kun-gira-gira-wars.json) |
 | Penguin-kun Wars | 39396 | [39396-penguin-kun-wars.json](./39396-penguin-kun-wars.json) |
+| Penguin-kun Wars 2 | 41680 | [41680-penguin-kun-wars-2.json](./41680-penguin-kun-wars-2.json) |
 | Penguin: Sokoban Adventure | 313459 | [313459-penguin-sokoban-adventure.json](./313459-penguin-sokoban-adventure.json) |
 | Penguin's ArcticDex | 405899 | [405899-penguins-arcticdex.json](./405899-penguins-arcticdex.json) |
 | Penguin's Dogma | 135428 | [135428-penguins-dogma.json](./135428-penguins-dogma.json) |
@@ -3866,6 +3868,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentapuzzle | 85334 | [85334-pentapuzzle.json](./85334-pentapuzzle.json) |
 | Pentaquin: Deeds of Twilight | 158052 | [158052-pentaquin-deeds-of-twilight.json](./158052-pentaquin-deeds-of-twilight.json) |
 | Pentari: First Light | 72034 | [72034-pentari-first-light.json](./72034-pentari-first-light.json) |
+| Pentaro Odyssey 2: The Island | 41677 | [41677-pentaro-odyssey-2-the-island.json](./41677-pentaro-odyssey-2-the-island.json) |
+| Pentaro Odyssey: The Revenge | 41678 | [41678-pentaro-odyssey-the-revenge.json](./41678-pentaro-odyssey-the-revenge.json) |
 | Pentasma | 128183 | [128183-pentasma.json](./128183-pentasma.json) |
 | Pentavolt | 359077 | [359077-pentavolt.json](./359077-pentavolt.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
@@ -9013,6 +9017,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playback Trauma: In Sickness | 212955 | [212955-playback-trauma-in-sickness.json](./212955-playback-trauma-in-sickness.json) |
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
 | Playback Trauma: The Dog | 311078 | [311078-playback-trauma-the-dog.json](./311078-playback-trauma-the-dog.json) |
+| Playball | 41676 | [41676-playball.json](./41676-playball.json) |
+| Playball III | 41675 | [41675-playball-iii.json](./41675-playball-iii.json) |
 | Playbook VR | 344434 | [344434-playbook-vr.json](./344434-playbook-vr.json) |
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
 | Playboy Casino | 57922 | [57922-playboy-casino.json](./57922-playboy-casino.json) |
@@ -14326,6 +14332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 59 | 105222 | [105222-project-59.json](./105222-project-59.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
 | Project A 2: Shijou Saidai no Hyouteki | 97296 | [97296-project-a-2-shijou-saidai-no-hyouteki.json](./97296-project-a-2-shijou-saidai-no-hyouteki.json) |
+| Project A Part II | 41670 | [41670-project-a-part-ii.json](./41670-project-a-part-ii.json) |
 | Project A-ko | 260109 | [260109-project-a-ko.json](./260109-project-a-ko.json) |
 | Project A-ko 2 | 260110 | [260110-project-a-ko-2.json](./260110-project-a-ko-2.json) |
 | Project A10 | 297191 | [297191-project-a10.json](./297191-project-a10.json) |
@@ -15593,6 +15600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
 | Psycho Train | 88487 | [88487-psycho-train.json](./88487-psycho-train.json) |
 | Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
+| Psycho World | 41715 | [41715-psycho-world.json](./41715-psycho-world.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | Psycho-Pass: Mandatory Happiness | 23849 | [23849-psycho-pass-mandatory-happiness.json](./23849-psycho-pass-mandatory-happiness.json) |
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
@@ -15964,6 +15972,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumping Simulator | 158617 | [158617-pumping-simulator.json](./158617-pumping-simulator.json) |
 | Pumping Simulator 2 | 263318 | [263318-pumping-simulator-2.json](./263318-pumping-simulator-2.json) |
 | Pumping Station | 259392 | [259392-pumping-station.json](./259392-pumping-station.json) |
+| Pumpkin Adventure | 41698 | [41698-pumpkin-adventure.json](./41698-pumpkin-adventure.json) |
+| Pumpkin Adventure II | 41699 | [41699-pumpkin-adventure-ii.json](./41699-pumpkin-adventure-ii.json) |
+| Pumpkin Adventure III | 41700 | [41700-pumpkin-adventure-iii.json](./41700-pumpkin-adventure-iii.json) |
 | Pumpkin Attack! | 298934 | [298934-pumpkin-attack.json](./298934-pumpkin-attack.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
