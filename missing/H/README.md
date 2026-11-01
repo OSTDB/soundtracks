@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hal Wrestling | 48993 | [48993-hal-wrestling.json](./48993-hal-wrestling.json) |
 | HAL_Ver99 | 285373 | [285373-hal-ver99.json](./285373-hal-ver99.json) |
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
+| Halaga | 14104 | [14104-halaga.json](./14104-halaga.json) |
 | Halberd Black | 211548 | [211548-halberd-black.json](./211548-halberd-black.json) |
 | Halchemist | 264571 | [264571-halchemist.json](./264571-halchemist.json) |
 | Halcyon | 134357 | [134357-halcyon.json](./134357-halcyon.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Boiled | 228883 | [228883-hard-boiled.json](./228883-hard-boiled.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Bullet | 139702 | [139702-hard-bullet.json](./139702-hard-bullet.json) |
+| Hard Cheese | 14105 | [14105-hard-cheese.json](./14105-hard-cheese.json) |
 | Hard Chip | 292482 | [292482-hard-chip.json](./292482-hard-chip.json) |
 | Hard Core | 85909 | [85909-hard-core.json](./85909-hard-core.json) |
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
@@ -2215,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvesterado | 186110 | [186110-harvesterado.json](./186110-harvesterado.json) |
 | Harvey Birdman: Attorney at Law | 4907 | [4907-harvey-birdman-attorney-at-law.json](./4907-harvey-birdman-attorney-at-law.json) |
 | Harvey Birdman: File Frenzy | 396381 | [396381-harvey-birdman-file-frenzy.json](./396381-harvey-birdman-file-frenzy.json) |
+| Harvey Headbanger | 14106 | [14106-harvey-headbanger.json](./14106-harvey-headbanger.json) |
 | Has traicionado la Luna | 391656 | [391656-has-traicionado-la-luna.json](./391656-has-traicionado-la-luna.json) |
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
@@ -2445,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Halls: Revenge of Doctor Blackmore - Collector's Edition | 105163 | [105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json](./105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json) |
 | Haunted Heart | 299533 | [299533-haunted-heart.json](./299533-haunted-heart.json) |
 | Haunted Hearts Hotel | 340418 | [340418-haunted-hearts-hotel.json](./340418-haunted-hearts-hotel.json) |
+| Haunted Hedges | 14107 | [14107-haunted-hedges.json](./14107-haunted-hedges.json) |
 | Haunted Heist | 391023 | [391023-haunted-heist.json](./391023-haunted-heist.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 245123 | [245123-haunted-hill.json](./245123-haunted-hill.json) |
@@ -3090,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbreak Hysteria | 376519 | [376519-heartbreak-hysteria.json](./376519-heartbreak-hysteria.json) |
 | Heartbreak Land | 305603 | [305603-heartbreak-land.json](./305603-heartbreak-land.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
+| Heartbroken | 14108 | [14108-heartbroken.json](./14108-heartbroken.json) |
 | Heartburn | 301968 | [301968-heartburn.json](./301968-heartburn.json) |
 | HeartCatch PreCure! Oshare Collection | 124520 | [124520-heartcatch-precure-oshare-collection.json](./124520-heartcatch-precure-oshare-collection.json) |
 | HeartCore Descent | 407381 | [407381-heartcore-descent.json](./407381-heartcore-descent.json) |
@@ -3400,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Metal Titans | 252256 | [252256-heavy-metal-titans.json](./252256-heavy-metal-titans.json) |
 | Heavy Metal: Geomatrix | 45854 | [45854-heavy-metal-geomatrix.json](./45854-heavy-metal-geomatrix.json) |
 | Heavy Nova | 5392 | [5392-heavy-nova.json](./5392-heavy-nova.json) |
+| Heavy on the Magick | 14109 | [14109-heavy-on-the-magick.json](./14109-heavy-on-the-magick.json) |
 | Heavy Rain & Beyond: Two Souls - Collection | 44547 | [44547-heavy-rain-and-beyond-two-souls-collection.json](./44547-heavy-rain-and-beyond-two-souls-collection.json) |
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
 | Heavy Rain: Move Edition | 144777 | [144777-heavy-rain-move-edition.json](./144777-heavy-rain-move-edition.json) |
@@ -3541,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist | 348043 | [348043-heist.json](./348043-heist.json) |
 | Heist | 84304 | [84304-heist.json](./84304-heist.json) |
 | Heist | 94640 | [94640-heist.json](./94640-heist.json) |
+| Heist 2012 | 14110 | [14110-heist-2012.json](./14110-heist-2012.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
 | Heist Force | 257204 | [257204-heist-force.json](./257204-heist-force.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
@@ -6835,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiden Ruin | 233889 | [233889-hiden-ruin.json](./233889-hiden-ruin.json) |
 | HideNProp | 271622 | [271622-hidenprop.json](./271622-hidenprop.json) |
 | HideNSeek | 201079 | [201079-hidenseek.json](./201079-hidenseek.json) |
+| Hideous | 14112 | [14112-hideous.json](./14112-hideous.json) |
 | Hideous | 348801 | [348801-hideous.json](./348801-hideous.json) |
 | Hideous Bill and the Gi-Gants | 25718 | [25718-hideous-bill-and-the-gi-gants.json](./25718-hideous-bill-and-the-gi-gants.json) |
 | Hideous Destructor | 139191 | [139191-hideous-destructor.json](./139191-hideous-destructor.json) |
@@ -7771,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
+| Hive | 14113 | [14113-hive.json](./14113-hive.json) |
 | Hive | 172032 | [172032-hive.json](./172032-hive.json) |
 | Hive | 212144 | [212144-hive.json](./212144-hive.json) |
 | Hive | 5604 | [5604-hive.json](./5604-hive.json) |
@@ -7861,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobby Horse: First Ride | 357852 | [357852-hobby-horse-first-ride.json](./357852-hobby-horse-first-ride.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
 | Hobby Simulator Bundle | 218859 | [218859-hobby-simulator-bundle.json](./218859-hobby-simulator-bundle.json) |
+| Hobgoblin | 14114 | [14114-hobgoblin.json](./14114-hobgoblin.json) |
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
 | Hobnobbers | 322693 | [322693-hobnobbers.json](./322693-hobnobbers.json) |
 | Hobo | 230465 | [230465-hobo.json](./230465-hobo.json) |
@@ -7916,6 +7926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
 | Hocus Defenders | 151503 | [151503-hocus-defenders.json](./151503-hocus-defenders.json) |
+| Hocus Focus | 14115 | [14115-hocus-focus.json](./14115-hocus-focus.json) |
 | Hocus Focus | 385398 | [385398-hocus-focus.json](./385398-hocus-focus.json) |
 | Hocus Opus | 318720 | [318720-hocus-opus.json](./318720-hocus-opus.json) |
 | Hocus Pocus | 8476 | [8476-hocus-pocus.json](./8476-hocus-pocus.json) |
@@ -9077,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hopper (bounce bounce bounce) | 98794 | [98794-hopper-bounce-bounce-bounce.json](./98794-hopper-bounce-bounce-bounce.json) |
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
+| Hopper Copper | 14117 | [14117-hopper-copper.json](./14117-hopper-copper.json) |
 | Hopper Hunt | 245200 | [245200-hopper-hunt.json](./245200-hopper-hunt.json) |
 | Hopper Robo | 40057 | [40057-hopper-robo.json](./40057-hopper-robo.json) |
 | Hoppi's Adventure | 336402 | [336402-hoppis-adventure.json](./336402-hoppis-adventure.json) |
@@ -9623,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dog Stand: The Works | 228685 | [228685-hot-dog-stand-the-works.json](./228685-hot-dog-stand-the-works.json) |
 | Hot Dogs, Horseshoes & Hand Grenades 2 | 400675 | [400675-hot-dogs-horseshoes-and-hand-grenades-2.json](./400675-hot-dogs-horseshoes-and-hand-grenades-2.json) |
 | Hot Donut | 234496 | [234496-hot-donut.json](./234496-hot-donut.json) |
+| Hot Dot Spotter | 14118 | [14118-hot-dot-spotter.json](./14118-hot-dot-spotter.json) |
 | Hot Dot! | 267339 | [267339-hot-dot.json](./267339-hot-dot.json) |
 | Hot Drop | 246339 | [246339-hot-drop.json](./246339-hot-drop.json) |
 | Hot Farm Africa | 54082 | [54082-hot-farm-africa.json](./54082-hot-farm-africa.json) |
@@ -10796,9 +10809,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hummingz - Retro Arcade action revised | 97078 | [97078-hummingz-retro-arcade-action-revised.json](./97078-hummingz-retro-arcade-action-revised.json) |
 | Humongous Classic Collection | 228741 | [228741-humongous-classic-collection.json](./228741-humongous-classic-collection.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
+| Humphrey | 14121 | [14121-humphrey.json](./14121-humphrey.json) |
 | Humphrey (2004) | 111320 | [111320-humphrey-2004.json](./111320-humphrey-2004.json) |
 | Humpi and Hemicube | 271619 | [271619-humpi-and-hemicube.json](./271619-humpi-and-hemicube.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
+| Humpty Dumpty in the Garden | 14122 | [14122-humpty-dumpty-in-the-garden.json](./14122-humpty-dumpty-in-the-garden.json) |
 | Humpty Dumpty meets the Fuzzy Wuzzies | 70736 | [70736-humpty-dumpty-meets-the-fuzzy-wuzzies.json](./70736-humpty-dumpty-meets-the-fuzzy-wuzzies.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
@@ -11376,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyousei Buyuuroku: Record of Ice Fairy War | 406953 | [406953-hyousei-buyuuroku-record-of-ice-fairy-war.json](./406953-hyousei-buyuuroku-record-of-ice-fairy-war.json) |
 | Hyouteki | 258356 | [258356-hyouteki.json](./258356-hyouteki.json) |
 | Hyoutenka 30-do no Zetsubou | 376273 | [376273-hyoutenka-30-do-no-zetsubou.json](./376273-hyoutenka-30-do-no-zetsubou.json) |
+| Hypa Raid | 14123 | [14123-hypa-raid.json](./14123-hypa-raid.json) |
 | Hypaball | 36653 | [36653-hypaball.json](./36653-hypaball.json) |
 | Hyparxis | 169793 | [169793-hyparxis.json](./169793-hyparxis.json) |
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
