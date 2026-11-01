@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanny Mania 2 | 202184 | [202184-nanny-mania-2.json](./202184-nanny-mania-2.json) |
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
+| Nano Assault EX | 47647 | [47647-nano-assault-ex.json](./47647-nano-assault-ex.json) |
 | Nano Assault Neo | 21385 | [21385-nano-assault-neo.json](./21385-nano-assault-neo.json) |
 | Nano Assault Neo-X | 52606 | [52606-nano-assault-neo-x.json](./52606-nano-assault-neo-x.json) |
 | Nano Citizens | 260555 | [260555-nano-citizens.json](./260555-nano-citizens.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Kids Bundle | 286512 | [286512-nickelodeon-kids-bundle.json](./286512-nickelodeon-kids-bundle.json) |
 | Nickelodeon Lanes | 341933 | [341933-nickelodeon-lanes.json](./341933-nickelodeon-lanes.json) |
 | Nickelodeon Nick O Matic Design Factory | 210031 | [210031-nickelodeon-nick-o-matic-design-factory.json](./210031-nickelodeon-nick-o-matic-design-factory.json) |
+| Nickelodeon Nicktoons MLB 3D | 47663 | [47663-nickelodeon-nicktoons-mlb-3d.json](./47663-nickelodeon-nicktoons-mlb-3d.json) |
 | Nickelodeon Party Blast | 2764 | [2764-nickelodeon-party-blast.json](./2764-nickelodeon-party-blast.json) |
 | Nickelodeon Pixel Town | 128374 | [128374-nickelodeon-pixel-town.json](./128374-nickelodeon-pixel-town.json) |
 | Nickelodeon Rugrats | 198878 | [198878-nickelodeon-rugrats.json](./198878-nickelodeon-rugrats.json) |
