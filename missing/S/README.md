@@ -4967,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara: Samurai Heroes | 7455 | [7455-sengoku-basara-samurai-heroes.json](./7455-sengoku-basara-samurai-heroes.json) |
 | Sengoku Bishoujo Emaki: Cut Sky | 147927 | [147927-sengoku-bishoujo-emaki-cut-sky.json](./147927-sengoku-bishoujo-emaki-cut-sky.json) |
 | Sengoku Bishoujo Emaki: Cut Sky ~Chapter Summer Wind~ | 147929 | [147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json](./147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json) |
+| Sengoku Blade: Sengoku Ace Episode II | 39341 | [39341-sengoku-blade-sengoku-ace-episode-ii.json](./39341-sengoku-blade-sengoku-ace-episode-ii.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Bushidou: Daiyabou no Maki | 308883 | [308883-sengoku-bushidou-daiyabou-no-maki.json](./308883-sengoku-bushidou-daiyabou-no-maki.json) |
 | Sengoku Cannon for Nintendo Switch | 110869 | [110869-sengoku-cannon-for-nintendo-switch.json](./110869-sengoku-cannon-for-nintendo-switch.json) |
@@ -11514,6 +11515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Flowers | 404449 | [404449-sky-flowers.json](./404449-sky-flowers.json) |
 | Sky Force Bundle | 118869 | [118869-sky-force-bundle.json](./118869-sky-force-bundle.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
+| Sky Fox | 39301 | [39301-sky-fox.json](./39301-sky-fox.json) |
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
@@ -13758,6 +13760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap Flex | 334169 | [334169-snap-flex.json](./334169-snap-flex.json) |
 | Snap Game | 397705 | [397705-snap-game.json](./397705-snap-game.json) |
 | Snap Glide: Rhythm Dash | 414342 | [414342-snap-glide-rhythm-dash.json](./414342-snap-glide-rhythm-dash.json) |
+| Snap Jack | 39302 | [39302-snap-jack.json](./39302-snap-jack.json) |
 | Snap Jaw | 406216 | [406216-snap-jaw.json](./406216-snap-jaw.json) |
 | Snap Kid's | 262396 | [262396-snap-kids.json](./262396-snap-kids.json) |
 | Snap Quest | 244763 | [244763-snap-quest.json](./244763-snap-quest.json) |
@@ -17789,6 +17792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cube Tower Defense | 169096 | [169096-space-cube-tower-defense.json](./169096-space-cube-tower-defense.json) |
 | Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
 | Space Cycler | 412602 | [412602-space-cycler.json](./412602-space-cycler.json) |
+| Space Cyclone | 39308 | [39308-space-cyclone.json](./39308-space-cyclone.json) |
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Dance Harmony | 149323 | [149323-space-dance-harmony.json](./149323-space-dance-harmony.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
@@ -26230,6 +26234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 1945 for Nintendo Switch | 105051 | [105051-strikers-1945-for-nintendo-switch.json](./105051-strikers-1945-for-nintendo-switch.json) |
 | Strikers 1945 II | 39299 | [39299-strikers-1945-ii.json](./39299-strikers-1945-ii.json) |
 | Strikers 1945 II for Nintendo Switch | 234133 | [234133-strikers-1945-ii-for-nintendo-switch.json](./234133-strikers-1945-ii-for-nintendo-switch.json) |
+| Strikers 1945 III | 39298 | [39298-strikers-1945-iii.json](./39298-strikers-1945-iii.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
 | Strikers 1945 Plus | 72911 | [72911-strikers-1945-plus.json](./72911-strikers-1945-plus.json) |
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
