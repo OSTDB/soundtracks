@@ -8543,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fantastic Voyage | 39145 | [39145-the-fantastic-voyage.json](./39145-the-fantastic-voyage.json) |
 | The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
 | The Fantasy World of Mahjong Princess | 197529 | [197529-the-fantasy-world-of-mahjong-princess.json](./197529-the-fantasy-world-of-mahjong-princess.json) |
+| The Far Frontier | 55568 | [55568-the-far-frontier.json](./55568-the-far-frontier.json) |
 | The Far Kingdoms: Age of Solitaire | 137835 | [137835-the-far-kingdoms-age-of-solitaire.json](./137835-the-far-kingdoms-age-of-solitaire.json) |
 | The Far Kingdoms: Awakening Solitaire | 115527 | [115527-the-far-kingdoms-awakening-solitaire.json](./115527-the-far-kingdoms-awakening-solitaire.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
@@ -10382,6 +10383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Isolation Project | 405884 | [405884-the-isolation-project.json](./405884-the-isolation-project.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
+| The Istrys | 55578 | [55578-the-istrys.json](./55578-the-istrys.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
 | The Itch | 120002 | [120002-the-itch.json](./120002-the-itch.json) |
 | The Itchy & Scratchy Game | 2834 | [2834-the-itchy-and-scratchy-game.json](./2834-the-itchy-and-scratchy-game.json) |
@@ -12623,6 +12625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Miami Horror | 176347 | [176347-the-miami-horror.json](./176347-the-miami-horror.json) |
 | The Mice Guys | 179939 | [179939-the-mice-guys.json](./179939-the-mice-guys.json) |
 | The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
+| The Mice of Riddle Place: The Incident of Izzy Ramirez | 55561 | [55561-the-mice-of-riddle-place-the-incident-of-izzy-ramirez.json](./55561-the-mice-of-riddle-place-the-incident-of-izzy-ramirez.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
 | The Midnight Barber | 368293 | [368293-the-midnight-barber.json](./368293-the-midnight-barber.json) |
@@ -14184,6 +14187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rebirth | 327223 | [327223-the-rebirth.json](./327223-the-rebirth.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
 | The Recipe of Madness | 134879 | [134879-the-recipe-of-madness.json](./134879-the-recipe-of-madness.json) |
+| The Reckoning Day | 55545 | [55545-the-reckoning-day.json](./55545-the-reckoning-day.json) |
 | The Reconnection Clinic | 183775 | [183775-the-reconnection-clinic.json](./183775-the-reconnection-clinic.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
 | The Record of the Male Demon Witch | 392979 | [392979-the-record-of-the-male-demon-witch.json](./392979-the-record-of-the-male-demon-witch.json) |
