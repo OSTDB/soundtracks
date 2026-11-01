@@ -8147,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus Grove | 391002 | [391002-focus-grove.json](./391002-focus-grove.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
+| Fodderp: Castle Defense | 24542 | [24542-fodderp-castle-defense.json](./24542-fodderp-castle-defense.json) |
 | Fodders Grapple Gauntlet | 401602 | [401602-fodders-grapple-gauntlet.json](./401602-fodders-grapple-gauntlet.json) |
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
 | FodFru | 370563 | [370563-fodfru.json](./370563-fodfru.json) |
