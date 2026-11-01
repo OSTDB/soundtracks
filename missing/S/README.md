@@ -5393,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam 4: Reborn | 359910 | [359910-serious-sam-4-reborn.json](./359910-serious-sam-4-reborn.json) |
 | Serious Sam Advance | 6587 | [6587-serious-sam-advance.json](./6587-serious-sam-advance.json) |
 | Serious Sam Alpha Remake | 356399 | [356399-serious-sam-alpha-remake.json](./356399-serious-sam-alpha-remake.json) |
+| Serious Sam Classics: Revolution | 16457 | [16457-serious-sam-classics-revolution.json](./16457-serious-sam-classics-revolution.json) |
 | Serious Sam Collection | 141060 | [141060-serious-sam-collection.json](./141060-serious-sam-collection.json) |
 | Serious Sam Forever | 336017 | [336017-serious-sam-forever.json](./336017-serious-sam-forever.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
@@ -6223,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Rome | 14406 | [14406-shadow-of-rome.json](./14406-shadow-of-rome.json) |
 | Shadow of Scintilla | 238634 | [238634-shadow-of-scintilla.json](./238634-shadow-of-scintilla.json) |
 | Shadow of Something | 81995 | [81995-shadow-of-something.json](./81995-shadow-of-something.json) |
+| Shadow of the Beast | 11254 | [11254-shadow-of-the-beast.json](./11254-shadow-of-the-beast.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast II | 5879 | [5879-shadow-of-the-beast-ii.json](./5879-shadow-of-the-beast-ii.json) |
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
@@ -14109,6 +14111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper X with Jason Statham | 59597 | [59597-sniper-x-with-jason-statham.json](./59597-sniper-x-with-jason-statham.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
+| Sniper: Art of Victory | 16948 | [16948-sniper-art-of-victory.json](./16948-sniper-art-of-victory.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
 | Sniper: Ghost Warrior - Gold Edition | 25360 | [25360-sniper-ghost-warrior-gold-edition.json](./25360-sniper-ghost-warrior-gold-edition.json) |
 | Sniper: Ghost Warrior - Second Strike | 53635 | [53635-sniper-ghost-warrior-second-strike.json](./53635-sniper-ghost-warrior-second-strike.json) |
@@ -18060,6 +18063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Frontier 2 | 101163 | [101163-space-frontier-2.json](./101163-space-frontier-2.json) |
 | Space Fuck! | 199193 | [199193-space-fuck.json](./199193-space-fuck.json) |
 | Space Fun | 222966 | [222966-space-fun.json](./222966-space-fun.json) |
+| Space Funeral | 19589 | [19589-space-funeral.json](./19589-space-funeral.json) |
 | Space Funeral 2 | 254706 | [254706-space-funeral-2.json](./254706-space-funeral-2.json) |
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
 | Space Funeral 3: The Legend of Earth Birth | 127145 | [127145-space-funeral-3-the-legend-of-earth-birth.json](./127145-space-funeral-3-the-legend-of-earth-birth.json) |
@@ -22872,6 +22876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Knights of the Old Republic III | 14401 | [14401-star-wars-knights-of-the-old-republic-iii.json](./14401-star-wars-knights-of-the-old-republic-iii.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Lethal Alliance | 23116 | [23116-star-wars-lethal-alliance.json](./23116-star-wars-lethal-alliance.json) |
+| Star Wars: Masters of Teräs Käsi | 18044 | [18044-star-wars-masters-of-teras-kasi.json](./18044-star-wars-masters-of-teras-kasi.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Millennium Falcon CD-ROM Playset | 56979 | [56979-star-wars-millennium-falcon-cd-rom-playset.json](./56979-star-wars-millennium-falcon-cd-rom-playset.json) |
 | Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
@@ -23219,6 +23224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
+| Stargate | 17459 | [17459-stargate.json](./17459-stargate.json) |
 | Stargate | 19689 | [19689-stargate.json](./19689-stargate.json) |
 | Stargate | 217724 | [217724-stargate.json](./217724-stargate.json) |
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
@@ -28773,6 +28779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fancy Pants Adventure: Chapter 2 | 143367 | [143367-super-fancy-pants-adventure-chapter-2.json](./143367-super-fancy-pants-adventure-chapter-2.json) |
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
 | Super Fantasy Kingdom | 235823 | [235823-super-fantasy-kingdom.json](./235823-super-fantasy-kingdom.json) |
+| Super Fantasy Zone | 18278 | [18278-super-fantasy-zone.json](./18278-super-fantasy-zone.json) |
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
 | Super Farmer | 366873 | [366873-super-farmer.json](./366873-super-farmer.json) |
 | Super Farming Boy | 293869 | [293869-super-farming-boy.json](./293869-super-farming-boy.json) |
@@ -28973,6 +28980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Horoscope Kanji Version | 112158 | [112158-super-horoscope-kanji-version.json](./112158-super-horoscope-kanji-version.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
 | Super Hot Potato | 148168 | [148168-super-hot-potato.json](./148168-super-hot-potato.json) |
+| Super House of Dead Ninjas | 9906 | [9906-super-house-of-dead-ninjas.json](./9906-super-house-of-dead-ninjas.json) |
 | Super House of Dead Ninjas: True Ninja Pack | 263128 | [263128-super-house-of-dead-ninjas-true-ninja-pack.json](./263128-super-house-of-dead-ninjas-true-ninja-pack.json) |
 | Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
 | Super Huey III | 70256 | [70256-super-huey-iii.json](./70256-super-huey-iii.json) |
