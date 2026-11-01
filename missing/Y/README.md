@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yourself!Fitness | 5029 | [5029-yourself-fitness.json](./5029-yourself-fitness.json) |
 | YourToy and Dying: Reborn Horror Game Bundle | 247581 | [247581-yourtoy-and-dying-reborn-horror-game-bundle.json](./247581-yourtoy-and-dying-reborn-horror-game-bundle.json) |
 | Yousei | 62968 | [62968-yousei.json](./62968-yousei.json) |
+| Yousei Daisensou: Touhou Sangetsusei | 27172 | [27172-yousei-daisensou-touhou-sangetsusei.json](./27172-yousei-daisensou-touhou-sangetsusei.json) |
 | Yousei Rasutaru-chan to no hibi | 223009 | [223009-yousei-rasutaru-chan-to-no-hibi.json](./223009-yousei-rasutaru-chan-to-no-hibi.json) |
 | Yousei Shou Meikyuu: Fairies Odyssey | 406307 | [406307-yousei-shou-meikyuu-fairies-odyssey.json](./406307-yousei-shou-meikyuu-fairies-odyssey.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
