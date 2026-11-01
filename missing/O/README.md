@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
 | Observa | 386168 | [386168-observa.json](./386168-observa.json) |
 | Observance of Homeland | 368151 | [368151-observance-of-homeland.json](./368151-observance-of-homeland.json) |
+| Observation | 110807 | [110807-observation.json](./110807-observation.json) |
 | Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
 | Observation Beauty | 398913 | [398913-observation-beauty.json](./398913-observation-beauty.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
@@ -1355,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Magic Grandtower | 389398 | [389398-old-magic-grandtower.json](./389398-old-magic-grandtower.json) |
 | Old Maid | 232884 | [232884-old-maid.json](./232884-old-maid.json) |
 | Old Man's Guilt | 96081 | [96081-old-mans-guilt.json](./96081-old-mans-guilt.json) |
+| Old Man's Journey | 21604 | [21604-old-mans-journey.json](./21604-old-mans-journey.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old Mate Dave | 406105 | [406105-old-mate-dave.json](./406105-old-mate-dave.json) |
 | Old Monastery Escape | 114753 | [114753-old-monastery-escape.json](./114753-old-monastery-escape.json) |
@@ -3226,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Empty Quiver | 380497 | [380497-operation-empty-quiver.json](./380497-operation-empty-quiver.json) |
 | Operation Enduring Pretzel | 341955 | [341955-operation-enduring-pretzel.json](./341955-operation-enduring-pretzel.json) |
 | Operation Epic Furious: Strait to Hell | 401453 | [401453-operation-epic-furious-strait-to-hell.json](./401453-operation-epic-furious-strait-to-hell.json) |
+| Operation Europe: Path to Victory 1939-45 | 4417 | [4417-operation-europe-path-to-victory-1939-45.json](./4417-operation-europe-path-to-victory-1939-45.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation Eventide | 392457 | [392457-operation-eventide.json](./392457-operation-eventide.json) |
 | Operation Eventide: Dolorosa | 365815 | [365815-operation-eventide-dolorosa.json](./365815-operation-eventide-dolorosa.json) |
@@ -4159,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmos | 14951 | [14951-osmos.json](./14951-osmos.json) |
 | Osmos+ | 259129 | [259129-osmos.json](./259129-osmos.json) |
 | Osmozys | 336946 | [336946-osmozys.json](./336946-osmozys.json) |
+| Osomatsu-kun Hachamecha Gekijou | 4432 | [4432-osomatsu-kun-hachamecha-gekijou.json](./4432-osomatsu-kun-hachamecha-gekijou.json) |
 | Osomatsu-kun: Back to the Me no Deppa no Maki | 48797 | [48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json](./48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json) |
 | Osomatsu-san Hesokuri Wars: Battle of the NEETs | 109561 | [109561-osomatsu-san-hesokuri-wars-battle-of-the-neets.json](./109561-osomatsu-san-hesokuri-wars-battle-of-the-neets.json) |
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
