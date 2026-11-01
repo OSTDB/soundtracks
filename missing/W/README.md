@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangzha: Dou Dizhu Roguelike | 420581 | [420581-wangzha-dou-dizhu-roguelike.json](./420581-wangzha-dou-dizhu-roguelike.json) |
 | Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
 | Wani Wani Picnic | 204208 | [204208-wani-wani-picnic.json](./204208-wani-wani-picnic.json) |
+| Wani Wani World | 45711 | [45711-wani-wani-world.json](./45711-wani-wani-world.json) |
 | Waning Crescent | 381214 | [381214-waning-crescent.json](./381214-waning-crescent.json) |
 | Waning Flowers of a World Eternal: The Rainbow Appears After Flowering Rain | 339324 | [339324-waning-flowers-of-a-world-eternal-the-rainbow-appears-after-flowering-rain.json](./339324-waning-flowers-of-a-world-eternal-the-rainbow-appears-after-flowering-rain.json) |
 | Waning Moon Z | 258118 | [258118-waning-moon-z.json](./258118-waning-moon-z.json) |
