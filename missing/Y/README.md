@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YetiSports | 202185 | [202185-yetisports.json](./202185-yetisports.json) |
 | Yetisports Arctic Adventure | 43239 | [43239-yetisports-arctic-adventure.json](./43239-yetisports-arctic-adventure.json) |
 | Yetisports Deluxe | 44774 | [44774-yetisports-deluxe.json](./44774-yetisports-deluxe.json) |
+| Yetisports: Penguin Party Island | 50932 | [50932-yetisports-penguin-party-island.json](./50932-yetisports-penguin-party-island.json) |
 | Yetisports: World Tour | 279227 | [279227-yetisports-world-tour.json](./279227-yetisports-world-tour.json) |
 | Yewdow | 289586 | [289586-yewdow.json](./289586-yewdow.json) |
 | Yèxuě Bīngjiāo | 87944 | [87944-yexue-bingjiao.json](./87944-yexue-bingjiao.json) |
