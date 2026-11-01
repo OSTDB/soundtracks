@@ -7108,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
 | Detective Conan: Majutsushi no Chousenjou! | 37569 | [37569-detective-conan-majutsushi-no-chousenjou.json](./37569-detective-conan-majutsushi-no-chousenjou.json) |
 | Detective Conan: Marionette Symphony | 61418 | [61418-detective-conan-marionette-symphony.json](./61418-detective-conan-marionette-symphony.json) |
+| Detective Conan: Nerawareta Tantei | 49694 | [49694-detective-conan-nerawareta-tantei.json](./49694-detective-conan-nerawareta-tantei.json) |
 | Detective Conan: Nishi no Meitantei Saidai no Kiki!? | 37568 | [37568-detective-conan-nishi-no-meitantei-saidai-no-kiki.json](./37568-detective-conan-nishi-no-meitantei-saidai-no-kiki.json) |
 | Detective Conan: Norowareta Kouro | 74819 | [74819-detective-conan-norowareta-kouro.json](./74819-detective-conan-norowareta-kouro.json) |
 | Detective Conan: Phantom Rhapsody | 61419 | [61419-detective-conan-phantom-rhapsody.json](./61419-detective-conan-phantom-rhapsody.json) |
