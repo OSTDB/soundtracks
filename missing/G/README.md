@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gale Racer | 72317 | [72317-gale-racer.json](./72317-gale-racer.json) |
 | Galeoz | 74782 | [74782-galeoz.json](./74782-galeoz.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
+| Galerians | 54552 | [54552-galerians.json](./54552-galerians.json) |
 | Galerians: Ash | 19629 | [19629-galerians-ash.json](./19629-galerians-ash.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galerider | 110047 | [110047-galerider.json](./110047-galerider.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'N Demons | 139876 | [139876-ghosts-n-demons.json](./139876-ghosts-n-demons.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins | 307805 | [307805-ghosts-n-goblins.json](./307805-ghosts-n-goblins.json) |
+| Ghosts 'n Goblins | 39048 | [39048-ghosts-n-goblins.json](./39048-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins | 6807 | [6807-ghosts-n-goblins.json](./6807-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts 'n Goblins Mobile | 104370 | [104370-ghosts-n-goblins-mobile.json](./104370-ghosts-n-goblins-mobile.json) |
@@ -5463,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater 2: Rage Burst | 11857 | [11857-god-eater-2-rage-burst.json](./11857-god-eater-2-rage-burst.json) |
 | God Eater 3: Collector's Edition | 294702 | [294702-god-eater-3-collectors-edition.json](./294702-god-eater-3-collectors-edition.json) |
 | God Eater Online | 74793 | [74793-god-eater-online.json](./74793-god-eater-online.json) |
+| God Eater Resurrection | 11858 | [11858-god-eater-resurrection.json](./11858-god-eater-resurrection.json) |
 | God Eater: Off Shot - Twin Pack Vol. 2 | 216265 | [216265-god-eater-off-shot-twin-pack-vol-2.json](./216265-god-eater-off-shot-twin-pack-vol-2.json) |
 | God Eater: Off Shot - Twin Pack Vol. 3 | 216266 | [216266-god-eater-off-shot-twin-pack-vol-3.json](./216266-god-eater-off-shot-twin-pack-vol-3.json) |
 | God Eater: Off Shot - Twin Pack Vol. 4 | 216267 | [216267-god-eater-off-shot-twin-pack-vol-4.json](./216267-god-eater-off-shot-twin-pack-vol-4.json) |
@@ -5539,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Collector's Edition | 83824 | [83824-god-of-war-collectors-edition.json](./83824-god-of-war-collectors-edition.json) |
 | God of War: Digital Deluxe Edition | 83825 | [83825-god-of-war-digital-deluxe-edition.json](./83825-god-of-war-digital-deluxe-edition.json) |
 | God of War: Limited Edition | 115067 | [115067-god-of-war-limited-edition.json](./115067-god-of-war-limited-edition.json) |
+| God of War: Origins Collection | 20579 | [20579-god-of-war-origins-collection.json](./20579-god-of-war-origins-collection.json) |
 | God of War: Stone Mason's Edition | 83778 | [83778-god-of-war-stone-masons-edition.json](./83778-god-of-war-stone-masons-edition.json) |
 | God of Weapons | 246919 | [246919-god-of-weapons.json](./246919-god-of-weapons.json) |
 | God of Yoga | 377785 | [377785-god-of-yoga.json](./377785-god-of-yoga.json) |
@@ -9697,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Revelator - Character Colors Pack | 409068 | [409068-guilty-gear-xrd-revelator-character-colors-pack.json](./409068-guilty-gear-xrd-revelator-character-colors-pack.json) |
 | Guilty Gear Xrd: Revelator - Deluxe Edition | 82089 | [82089-guilty-gear-xrd-revelator-deluxe-edition.json](./82089-guilty-gear-xrd-revelator-deluxe-edition.json) |
 | Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
+| Guilty Gear Xrd: Sign | 19645 | [19645-guilty-gear-xrd-sign.json](./19645-guilty-gear-xrd-sign.json) |
 | Guilty Gear Xrd: Sign - Character Colors Christmas Set | 315513 | [315513-guilty-gear-xrd-sign-character-colors-christmas-set.json](./315513-guilty-gear-xrd-sign-character-colors-christmas-set.json) |
 | Guilty Gear Xrd: Sign - Character Colors PlayStation Plus Set | 332655 | [332655-guilty-gear-xrd-sign-character-colors-playstation-plus-set.json](./332655-guilty-gear-xrd-sign-character-colors-playstation-plus-set.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
