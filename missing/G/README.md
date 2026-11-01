@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear: Full Circle | 57010 | [57010-gear-full-circle.json](./57010-gear-full-circle.json) |
 | Gear.Club | 55983 | [55983-gear-club.json](./55983-gear-club.json) |
 | Gear.Club Stradale | 194331 | [194331-gear-club-stradale.json](./194331-gear-club-stradale.json) |
+| Gear.Club Unlimited | 55192 | [55192-gear-club-unlimited.json](./55192-gear-club-unlimited.json) |
 | Gear.Club Unlimited 1 & 2 | 409521 | [409521-gear-club-unlimited-1-and-2.json](./409521-gear-club-unlimited-1-and-2.json) |
 | Gear.Club Unlimited 2 | 107196 | [107196-gear-club-unlimited-2.json](./107196-gear-club-unlimited-2.json) |
 | Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of Rome | 142022 | [142022-glory-of-rome.json](./142022-glory-of-rome.json) |
 | Glory of the Arena | 217349 | [217349-glory-of-the-arena.json](./217349-glory-of-the-arena.json) |
 | Glory of the Colosseum | 167576 | [167576-glory-of-the-colosseum.json](./167576-glory-of-the-colosseum.json) |
+| Glory of the Roman Empire | 298 | [298-glory-of-the-roman-empire.json](./298-glory-of-the-roman-empire.json) |
 | Glory of the Self- Styled Diehard girl | 96746 | [96746-glory-of-the-self-styled-diehard-girl.json](./96746-glory-of-the-self-styled-diehard-girl.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of Thrones: War of Conquest | 100785 | [100785-glory-of-thrones-war-of-conquest.json](./100785-glory-of-thrones-war-of-conquest.json) |
@@ -5426,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins of Elderstone | 55262 | [55262-goblins-of-elderstone.json](./55262-goblins-of-elderstone.json) |
 | Goblins on Alien Planet | 103794 | [103794-goblins-on-alien-planet.json](./103794-goblins-on-alien-planet.json) |
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
+| Goblins Quest 3 | 1932 | [1932-goblins-quest-3.json](./1932-goblins-quest-3.json) |
 | Goblins With Guns | 364039 | [364039-goblins-with-guns.json](./364039-goblins-with-guns.json) |
 | Goblintown: Really Hard Driving Game | 341290 | [341290-goblintown-really-hard-driving-game.json](./341290-goblintown-really-hard-driving-game.json) |
 | Goblita’s Delivery Service | 349264 | [349264-goblita-s-delivery-service.json](./349264-goblita-s-delivery-service.json) |
@@ -7314,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix | 392844 | [392844-grand-prix.json](./392844-grand-prix.json) |
 | Grand Prix | 40611 | [40611-grand-prix.json](./40611-grand-prix.json) |
 | Grand Prix / Demolition Derby | 169270 | [169270-grand-prix-demolition-derby.json](./169270-grand-prix-demolition-derby.json) |
+| Grand Prix 3 | 727 | [727-grand-prix-3.json](./727-grand-prix-3.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
 | Grand Prix 500 2 | 80645 | [80645-grand-prix-500-2.json](./80645-grand-prix-500-2.json) |
 | Grand Prix 500 cc | 15229 | [15229-grand-prix-500-cc.json](./15229-grand-prix-500-cc.json) |
@@ -7329,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Driver | 60323 | [60323-grand-prix-driver.json](./60323-grand-prix-driver.json) |
 | Grand Prix Evolution | 54063 | [54063-grand-prix-evolution.json](./54063-grand-prix-evolution.json) |
 | Grand Prix Formula One | 314865 | [314865-grand-prix-formula-one.json](./314865-grand-prix-formula-one.json) |
+| Grand Prix Legends | 729 | [729-grand-prix-legends.json](./729-grand-prix-legends.json) |
 | Grand Prix Manager | 78019 | [78019-grand-prix-manager.json](./78019-grand-prix-manager.json) |
 | Grand Prix Manager 2 | 71439 | [71439-grand-prix-manager-2.json](./71439-grand-prix-manager-2.json) |
 | Grand Prix Multiplication | 397211 | [397211-grand-prix-multiplication.json](./397211-grand-prix-multiplication.json) |
