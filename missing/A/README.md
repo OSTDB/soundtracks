@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Y-Type | 324951 | [324951-a-bibelot-y-type.json](./324951-a-bibelot-y-type.json) |
 | A Bike Ride to the Creek | 266135 | [266135-a-bike-ride-to-the-creek.json](./266135-a-bike-ride-to-the-creek.json) |
 | A Bird Hunt: Retro Bird Hunting Game | 175543 | [175543-a-bird-hunt-retro-bird-hunting-game.json](./175543-a-bird-hunt-retro-bird-hunting-game.json) |
+| A Bird Story | 8794 | [8794-a-bird-story.json](./8794-a-bird-story.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
 | A Birthday Present | 254033 | [254033-a-birthday-present.json](./254033-a-birthday-present.json) |
 | A Bit of Light | 179020 | [179020-a-bit-of-light.json](./179020-a-bit-of-light.json) |
@@ -6502,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
 | Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
 | Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
+| Aliens versus Predator 2 | 594 | [594-aliens-versus-predator-2.json](./594-aliens-versus-predator-2.json) |
 | Aliens Versus Predator 2: Gold Edition | 256362 | [256362-aliens-versus-predator-2-gold-edition.json](./256362-aliens-versus-predator-2-gold-edition.json) |
 | Aliens Versus Predator 2: Primal Hunt | 19214 | [19214-aliens-versus-predator-2-primal-hunt.json](./19214-aliens-versus-predator-2-primal-hunt.json) |
 | Aliens Versus Predator Classic 2000 | 14818 | [14818-aliens-versus-predator-classic-2000.json](./14818-aliens-versus-predator-classic-2000.json) |
@@ -7005,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in Space | 271671 | [271671-alone-in-space.json](./271671-alone-in-space.json) |
 | Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
 | Alone in the Dark | 1956 | [1956-alone-in-the-dark.json](./1956-alone-in-the-dark.json) |
+| Alone in the Dark | 1958 | [1958-alone-in-the-dark.json](./1958-alone-in-the-dark.json) |
 | Alone in the Dark | 233171 | [233171-alone-in-the-dark.json](./233171-alone-in-the-dark.json) |
 | Alone in the Dark | 287174 | [287174-alone-in-the-dark.json](./287174-alone-in-the-dark.json) |
 | Alone in the Dark | 300074 | [300074-alone-in-the-dark.json](./300074-alone-in-the-dark.json) |
@@ -14954,6 +14957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asura The Striker | 247093 | [247093-asura-the-striker.json](./247093-asura-the-striker.json) |
 | Asura's Trial | 249853 | [249853-asuras-trial.json](./249853-asuras-trial.json) |
+| Asura's Wrath | 5495 | [5495-asuras-wrath.json](./5495-asuras-wrath.json) |
 | Asura's Wrath Episode 11.5 | 217920 | [217920-asuras-wrath-episode-11-5.json](./217920-asuras-wrath-episode-11-5.json) |
 | Asura's Wrath Episode 15.5 | 217921 | [217921-asuras-wrath-episode-15-5.json](./217921-asuras-wrath-episode-15-5.json) |
 | Asura's Wrath: Lost Episode 1 | 182447 | [182447-asuras-wrath-lost-episode-1.json](./182447-asuras-wrath-lost-episode-1.json) |
