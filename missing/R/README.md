@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racer Mini Yonku: Japan Cup | 17590 | [17590-racer-mini-yonku-japan-cup.json](./17590-racer-mini-yonku-japan-cup.json) |
 | Racer Overdrive | 373188 | [373188-racer-overdrive.json](./373188-racer-overdrive.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
+| RacerMate Challenge II | 48379 | [48379-racermate-challenge-ii.json](./48379-racermate-challenge-ii.json) |
 | RaceRoom - Audi Sport TT Cup 2015 | 53170 | [53170-raceroom-audi-sport-tt-cup-2015.json](./53170-raceroom-audi-sport-tt-cup-2015.json) |
 | RaceRoom - DTM Experience 2015 | 53168 | [53168-raceroom-dtm-experience-2015.json](./53168-raceroom-dtm-experience-2015.json) |
 | RaceRoom Racing Experience: ADAC GT Masters Experience 2014 | 168153 | [168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json](./168153-raceroom-racing-experience-adac-gt-masters-experience-2014.json) |
@@ -10498,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route-16 | 40185 | [40185-route-16.json](./40185-route-16.json) |
 | Route-16 Collection | 411156 | [411156-route-16-collection.json](./411156-route-16-collection.json) |
 | Route-16 Turbo | 411159 | [411159-route-16-turbo.json](./411159-route-16-turbo.json) |
+| Route-16 Turbo | 48404 | [48404-route-16-turbo.json](./48404-route-16-turbo.json) |
 | Route-16: R | 411158 | [411158-route-16-r.json](./411158-route-16-r.json) |
 | Route8 | 292412 | [292412-route8.json](./292412-route8.json) |
 | Routemania | 221114 | [221114-routemania.json](./221114-routemania.json) |
