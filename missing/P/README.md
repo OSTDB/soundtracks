@@ -11858,6 +11858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Playtime Triple Pack | 314441 | [314441-poppy-playtime-triple-pack.json](./314441-poppy-playtime-triple-pack.json) |
 | Poppy Playtime VR | 360783 | [360783-poppy-playtime-vr.json](./360783-poppy-playtime-vr.json) |
 | Poppy Playtime: Chapter 2 - Fly in a Web | 194467 | [194467-poppy-playtime-chapter-2-fly-in-a-web.json](./194467-poppy-playtime-chapter-2-fly-in-a-web.json) |
+| Poppy Playtime: Chapter 3 - Deep Sleep | 258842 | [258842-poppy-playtime-chapter-3-deep-sleep.json](./258842-poppy-playtime-chapter-3-deep-sleep.json) |
 | Poppy Playtime: Chapter 4 - Safe Haven | 318284 | [318284-poppy-playtime-chapter-4-safe-haven.json](./318284-poppy-playtime-chapter-4-safe-haven.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
 | Poppy's Nightmare | 121577 | [121577-poppys-nightmare.json](./121577-poppys-nightmare.json) |
