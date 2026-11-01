@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Bounce | 366401 | [366401-balloon-bounce.json](./366401-balloon-bounce.json) |
 | Balloon Bros | 381095 | [381095-balloon-bros.json](./381095-balloon-bros.json) |
 | Balloon Buster | 360121 | [360121-balloon-buster.json](./360121-balloon-buster.json) |
+| Balloon Chair Death Match | 32383 | [32383-balloon-chair-death-match.json](./32383-balloon-chair-death-match.json) |
 | Balloon Challenge | 57632 | [57632-balloon-challenge.json](./57632-balloon-challenge.json) |
 | Balloon Chase Journey | 265561 | [265561-balloon-chase-journey.json](./265561-balloon-chase-journey.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
@@ -3021,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BathDad | 311873 | [311873-bathdad.json](./311873-bathdad.json) |
 | BathDoom | 254306 | [254306-bathdoom.json](./254306-bathdoom.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
+| Bathory: The Bloody Countess | 32418 | [32418-bathory-the-bloody-countess.json](./32418-bathory-the-bloody-countess.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathotel | 202495 | [202495-bathotel.json](./202495-bathotel.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
@@ -3822,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCakes | 133006 | [133006-battlecakes.json](./133006-battlecakes.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | BattleCards Saga | 319716 | [319716-battlecards-saga.json](./319716-battlecards-saga.json) |
+| Battlecars | 32366 | [32366-battlecars.json](./32366-battlecars.json) |
 | Battlecaster | 188670 | [188670-battlecaster.json](./188670-battlecaster.json) |
 | Battlecaster 2 | 386231 | [386231-battlecaster-2.json](./386231-battlecaster-2.json) |
 | Battlechat | 276245 | [276245-battlechat.json](./276245-battlechat.json) |
@@ -6099,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk Reborn | 211261 | [211261-berserk-reborn.json](./211261-berserk-reborn.json) |
 | Berserk Soccer | 155385 | [155385-berserk-soccer.json](./155385-berserk-soccer.json) |
 | Berserk World | 379453 | [379453-berserk-world.json](./379453-berserk-world.json) |
+| Berserk: The Cataclysm | 32417 | [32417-berserk-the-cataclysm.json](./32417-berserk-the-cataclysm.json) |
 | Berserker | 144185 | [144185-berserker.json](./144185-berserker.json) |
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
 | Berserker Girl | 365039 | [365039-berserker-girl.json](./365039-berserker-girl.json) |
@@ -6135,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Bespoken | 289814 | [289814-bespoken.json](./289814-bespoken.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
+| Best Buds | 32464 | [32464-best-buds.json](./32464-best-buds.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
 | Best Craft: Explore | 100804 | [100804-best-craft-explore.json](./100804-best-craft-explore.json) |
 | Best Day Ever | 148863 | [148863-best-day-ever.json](./148863-best-day-ever.json) |
