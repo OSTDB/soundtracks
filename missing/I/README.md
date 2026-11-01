@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | iGun Pro | 88473 | [88473-igun-pro.json](./88473-igun-pro.json) |
 | iGun Pro 2 | 86959 | [86959-igun-pro-2.json](./86959-igun-pro-2.json) |
+| Ihatovo Monogatari | 42289 | [42289-ihatovo-monogatari.json](./42289-ihatovo-monogatari.json) |
 | iHearts | 90340 | [90340-ihearts.json](./90340-ihearts.json) |
 | IHF Handball Challenge 12 | 10433 | [10433-ihf-handball-challenge-12.json](./10433-ihf-handball-challenge-12.json) |
 | IHF Handball Challenge 13 | 64748 | [64748-ihf-handball-challenge-13.json](./64748-ihf-handball-challenge-13.json) |
