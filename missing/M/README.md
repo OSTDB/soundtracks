@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MailPop | 249070 | [249070-mailpop.json](./249070-mailpop.json) |
 | MailRabit | 289260 | [289260-mailrabit.json](./289260-mailrabit.json) |
 | Mailstrom | 36862 | [36862-mailstrom.json](./36862-mailstrom.json) |
+| Maimai | 60813 | [60813-maimai.json](./60813-maimai.json) |
 | Maimai DX | 130331 | [130331-maimai-dx.json](./130331-maimai-dx.json) |
 | Maimai DX Buddies Plus | 309594 | [309594-maimai-dx-buddies-plus.json](./309594-maimai-dx-buddies-plus.json) |
 | Maimai DX Circle | 367190 | [367190-maimai-dx-circle.json](./367190-maimai-dx-circle.json) |
@@ -2086,9 +2087,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai DX Universe | 167281 | [167281-maimai-dx-universe.json](./167281-maimai-dx-universe.json) |
 | Maimai DX Universe Plus | 331677 | [331677-maimai-dx-universe-plus.json](./331677-maimai-dx-universe-plus.json) |
 | Maimai Finale | 148278 | [148278-maimai-finale.json](./148278-maimai-finale.json) |
+| Maimai Green | 60812 | [60812-maimai-green.json](./60812-maimai-green.json) |
 | Maimai Green Plus | 330954 | [330954-maimai-green-plus.json](./330954-maimai-green-plus.json) |
 | Maimai Milk | 331127 | [331127-maimai-milk.json](./331127-maimai-milk.json) |
 | Maimai Milk Plus | 331132 | [331132-maimai-milk-plus.json](./331132-maimai-milk-plus.json) |
+| Maimai Orange | 60814 | [60814-maimai-orange.json](./60814-maimai-orange.json) |
 | Maimai Orange Plus | 330970 | [330970-maimai-orange-plus.json](./330970-maimai-orange-plus.json) |
 | Maimai Plus | 330948 | [330948-maimai-plus.json](./330948-maimai-plus.json) |
 | Maimaimaigoen | 368082 | [368082-maimaimaigoen.json](./368082-maimaimaigoen.json) |
@@ -14721,6 +14724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Smoosh | 412307 | [412307-monster-smoosh.json](./412307-monster-smoosh.json) |
 | Monster Spa Center Simulator | 353974 | [353974-monster-spa-center-simulator.json](./353974-monster-spa-center-simulator.json) |
 | Monster Squad | 311649 | [311649-monster-squad.json](./311649-monster-squad.json) |
+| Monster Squad | 60724 | [60724-monster-squad.json](./60724-monster-squad.json) |
 | Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
 | Monster Stalker | 236164 | [236164-monster-stalker.json](./236164-monster-stalker.json) |
 | Monster Storm Apoiion | 108609 | [108609-monster-storm-apoiion.json](./108609-monster-storm-apoiion.json) |
@@ -15065,6 +15069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Buggy | 40930 | [40930-moon-buggy.json](./40930-moon-buggy.json) |
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
 | Moon Bullet | 86339 | [86339-moon-bullet.json](./86339-moon-bullet.json) |
+| Moon Bus | 60742 | [60742-moon-bus.json](./60742-moon-bus.json) |
 | Moon Carrier | 357135 | [357135-moon-carrier.json](./357135-moon-carrier.json) |
 | Moon Castle | 89404 | [89404-moon-castle.json](./89404-moon-castle.json) |
 | Moon Cheeser | 184695 | [184695-moon-cheeser.json](./184695-moon-cheeser.json) |
@@ -17095,6 +17100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. Transporter - Night Driver | 101647 | [101647-mr-transporter-night-driver.json](./101647-mr-transporter-night-driver.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
+| Mr. Travel | 60728 | [60728-mr-travel.json](./60728-mr-travel.json) |
 | Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 | 316362 | [316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json](./316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 Turbo HD Remix GOTY 2024 Edition: Coked Up + 1.5 Collection DX Directors Cut & Knuckles | 316364 | [316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json](./316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json) |
