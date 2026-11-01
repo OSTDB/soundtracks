@@ -8087,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipyard of Theseus | 398309 | [398309-shipyard-of-theseus.json](./398309-shipyard-of-theseus.json) |
 | Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
 | Shìqù de Huíyì 3: Sìyècǎo zhī Mèng | 121284 | [121284-shiqu-de-huiyi-3-siyecao-zhi-meng.json](./121284-shiqu-de-huiyi-3-siyecao-zhi-meng.json) |
+| Shira Oka: Second Chances | 25375 | [25375-shira-oka-second-chances.json](./25375-shira-oka-second-chances.json) |
 | Shirachuu Tankenbu | 65020 | [65020-shirachuu-tankenbu.json](./65020-shirachuu-tankenbu.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shiraha Kirameku Koi Shirabe | 268335 | [268335-shiraha-kirameku-koi-shirabe.json](./268335-shiraha-kirameku-koi-shirabe.json) |
@@ -9632,6 +9633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
 | Silent Hunter | 15517 | [15517-silent-hunter.json](./15517-silent-hunter.json) |
 | Silent Hunter | 287557 | [287557-silent-hunter.json](./287557-silent-hunter.json) |
+| Silent Hunter 4: Wolves of the Pacific - Gold Edition | 25369 | [25369-silent-hunter-4-wolves-of-the-pacific-gold-edition.json](./25369-silent-hunter-4-wolves-of-the-pacific-gold-edition.json) |
 | Silent Hunter 4: Wolves of the Pacific - U-Boat Missions | 994 | [994-silent-hunter-4-wolves-of-the-pacific-u-boat-missions.json](./994-silent-hunter-4-wolves-of-the-pacific-u-boat-missions.json) |
 | Silent Hunter 5: Battle of the Atlantic | 995 | [995-silent-hunter-5-battle-of-the-atlantic.json](./995-silent-hunter-5-battle-of-the-atlantic.json) |
 | Silent Hunter 5: Battle of the Atlantic - Gold Edition | 53612 | [53612-silent-hunter-5-battle-of-the-atlantic-gold-edition.json](./53612-silent-hunter-5-battle-of-the-atlantic-gold-edition.json) |
@@ -12836,6 +12838,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Machine | 366920 | [366920-slot-machine.json](./366920-slot-machine.json) |
 | Slot or Die | 391694 | [391694-slot-or-die.json](./391694-slot-or-die.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
+| Slot Quest: Alice in Wonderland | 25469 | [25469-slot-quest-alice-in-wonderland.json](./25469-slot-quest-alice-in-wonderland.json) |
+| Slot Quest: Under the Sea | 25370 | [25370-slot-quest-under-the-sea.json](./25370-slot-quest-under-the-sea.json) |
 | Slot Quest: Wild West Shootout | 25537 | [25537-slot-quest-wild-west-shootout.json](./25537-slot-quest-wild-west-shootout.json) |
 | Slot Racers | 18422 | [18422-slot-racers.json](./18422-slot-racers.json) |
 | Slot Revolution | 296034 | [296034-slot-revolution.json](./296034-slot-revolution.json) |
@@ -14055,6 +14059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper X with Jason Statham | 59597 | [59597-sniper-x-with-jason-statham.json](./59597-sniper-x-with-jason-statham.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
+| Sniper: Ghost Warrior - Gold Edition | 25360 | [25360-sniper-ghost-warrior-gold-edition.json](./25360-sniper-ghost-warrior-gold-edition.json) |
 | Sniper: Ghost Warrior - Second Strike | 53635 | [53635-sniper-ghost-warrior-second-strike.json](./53635-sniper-ghost-warrior-second-strike.json) |
 | Sniper: Ghost Warrior 2 | 1368 | [1368-sniper-ghost-warrior-2.json](./1368-sniper-ghost-warrior-2.json) |
 | Sniper: Ghost Warrior 2 - Collector's Edition | 53634 | [53634-sniper-ghost-warrior-2-collectors-edition.json](./53634-sniper-ghost-warrior-2-collectors-edition.json) |
@@ -18083,7 +18088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20824,6 +20828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Lab - Creative halloween game for kids | 100999 | [100999-spooky-lab-creative-halloween-game-for-kids.json](./100999-spooky-lab-creative-halloween-game-for-kids.json) |
 | Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
 | Spooky Light | 180625 | [180625-spooky-light.json](./180625-spooky-light.json) |
+| Spooky Mahjong | 25394 | [25394-spooky-mahjong.json](./25394-spooky-mahjong.json) |
 | Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
 | Spooky Mall | 54393 | [54393-spooky-mall.json](./54393-spooky-mall.json) |
 | Spooky Man: Island of Ghost to Mystic Diary 3D | 174252 | [174252-spooky-man-island-of-ghost-to-mystic-diary-3d.json](./174252-spooky-man-island-of-ghost-to-mystic-diary-3d.json) |
