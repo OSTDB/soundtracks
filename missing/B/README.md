@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8982,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
 | Blair Witch: Oculus Quest Edition | 193692 | [193692-blair-witch-oculus-quest-edition.json](./193692-blair-witch-oculus-quest-edition.json) |
 | Blake and Mortimer: The Curse of the Thirty Denarii | 89374 | [89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json](./89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json) |
+| Blake Stone: Aliens of Gold | 8489 | [8489-blake-stone-aliens-of-gold.json](./8489-blake-stone-aliens-of-gold.json) |
 | Blake Stone: Planet Strike | 8490 | [8490-blake-stone-planet-strike.json](./8490-blake-stone-planet-strike.json) |
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
