@@ -4178,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Hercule Poirot - The First Cases | 159123 | [159123-agatha-christie-hercule-poirot-the-first-cases.json](./159123-agatha-christie-hercule-poirot-the-first-cases.json) |
 | Agatha Christie: Hercule Poirot - The London Case | 246262 | [246262-agatha-christie-hercule-poirot-the-london-case.json](./246262-agatha-christie-hercule-poirot-the-london-case.json) |
 | Agatha Christie: Hercule Poirot - The London Case: Deluxe | 276303 | [276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json](./276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json) |
+| Agatha Christie: Murder on the Orient Express | 20636 | [20636-agatha-christie-murder-on-the-orient-express.json](./20636-agatha-christie-murder-on-the-orient-express.json) |
 | Agatha Christie: Murder on the Orient Express - Deluxe Edition | 249719 | [249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json](./249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json) |
 | Agatha Christie: Peril at End House | 78604 | [78604-agatha-christie-peril-at-end-house.json](./78604-agatha-christie-peril-at-end-house.json) |
 | Agatha Christie: The ABC Murders | 17470 | [17470-agatha-christie-the-abc-murders.json](./17470-agatha-christie-the-abc-murders.json) |
@@ -13718,6 +13719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASDVD: Umareta Bakari no Love Song | 408250 | [408250-asdvd-umareta-bakari-no-love-song.json](./408250-asdvd-umareta-bakari-no-love-song.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
+| Asemblance | 19167 | [19167-asemblance.json](./19167-asemblance.json) |
 | Asemblance: Oversight | 99164 | [99164-asemblance-oversight.json](./99164-asemblance-oversight.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
@@ -14174,6 +14176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Odyssey - Ultimate Edition | 27567 | [27567-assassins-creed-odyssey-ultimate-edition.json](./27567-assassins-creed-odyssey-ultimate-edition.json) |
 | Assassin's Creed: Origins - Deluxe Edition | 39034 | [39034-assassins-creed-origins-deluxe-edition.json](./39034-assassins-creed-origins-deluxe-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
+| Assassin's Creed: Pirates | 20077 | [20077-assassins-creed-pirates.json](./20077-assassins-creed-pirates.json) |
 | Assassin's Creed: Project Legacy | 64737 | [64737-assassins-creed-project-legacy.json](./64737-assassins-creed-project-legacy.json) |
 | Assassin's Creed: Rebellion | 41030 | [41030-assassins-creed-rebellion.json](./41030-assassins-creed-rebellion.json) |
 | Assassin's Creed: Recollection | 77265 | [77265-assassins-creed-recollection.json](./77265-assassins-creed-recollection.json) |
