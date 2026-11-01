@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaion Tale | 133046 | [133046-kaion-tale.json](./133046-kaion-tale.json) |
 | Kairai Inn | 264159 | [264159-kairai-inn.json](./264159-kairai-inn.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
+| Kairo | 10479 | [10479-kairo.json](./10479-kairo.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
 | Kairo: Lore of the Magic | 317992 | [317992-kairo-lore-of-the-magic.json](./317992-kairo-lore-of-the-magic.json) |
 | Kairobotica | 61069 | [61069-kairobotica.json](./61069-kairobotica.json) |
@@ -4293,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightmare II: The Maze of Galious | 36671 | [36671-knightmare-ii-the-maze-of-galious.json](./36671-knightmare-ii-the-maze-of-galious.json) |
 | Knightmare Lands | 120702 | [120702-knightmare-lands.json](./120702-knightmare-lands.json) |
 | Knightmare Tales | 292746 | [292746-knightmare-tales.json](./292746-knightmare-tales.json) |
+| Knightmare Tower | 10489 | [10489-knightmare-tower.json](./10489-knightmare-tower.json) |
 | Knightmare Treasure | 179385 | [179385-knightmare-treasure.json](./179385-knightmare-treasure.json) |
 | Knightmares | 249966 | [249966-knightmares.json](./249966-knightmares.json) |
 | KnightOut | 76402 | [76402-knightout.json](./76402-knightout.json) |
@@ -4409,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Round Peg | 301877 | [301877-knights-of-the-round-peg.json](./301877-knights-of-the-round-peg.json) |
 | Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
 | Knights of the Sky | 12167 | [12167-knights-of-the-sky.json](./12167-knights-of-the-sky.json) |
+| Knights of the Temple II | 11007 | [11007-knights-of-the-temple-ii.json](./11007-knights-of-the-temple-ii.json) |
 | Knights of the Temple: Infernal Crusade | 1222 | [1222-knights-of-the-temple-infernal-crusade.json](./1222-knights-of-the-temple-infernal-crusade.json) |
 | Knights of the Throne | 249927 | [249927-knights-of-the-throne.json](./249927-knights-of-the-throne.json) |
 | Knights of the Tiny Table | 178403 | [178403-knights-of-the-tiny-table.json](./178403-knights-of-the-tiny-table.json) |
@@ -4562,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | Knytt Experiment | 93429 | [93429-knytt-experiment.json](./93429-knytt-experiment.json) |
 | Knytt Stories | 51317 | [51317-knytt-stories.json](./51317-knytt-stories.json) |
+| Knytt Underground | 16633 | [16633-knytt-underground.json](./16633-knytt-underground.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
 | Ko Ima ni Ari | 357166 | [357166-ko-ima-ni-ari.json](./357166-ko-ima-ni-ari.json) |
 | KO Legends | 239475 | [239475-ko-legends.json](./239475-ko-legends.json) |
