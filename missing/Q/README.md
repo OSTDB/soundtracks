@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quartermaster | 118639 | [118639-quartermaster.json](./118639-quartermaster.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
 | Quartermaster General | 110295 | [110295-quartermaster-general.json](./110295-quartermaster-general.json) |
+| QuarterPole | 57951 | [57951-quarterpole.json](./57951-quarterpole.json) |
 | Quarters, Please! | 147647 | [147647-quarters-please.json](./147647-quarters-please.json) |
 | Quarters, Please! Vol. 2 | 147644 | [147644-quarters-please-vol-2.json](./147644-quarters-please-vol-2.json) |
 | Quarterstaff | 300963 | [300963-quarterstaff.json](./300963-quarterstaff.json) |
