@@ -7035,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructive Contraptions | 156022 | [156022-destructive-contraptions.json](./156022-destructive-contraptions.json) |
 | Destructive physics | 127848 | [127848-destructive-physics.json](./127848-destructive-physics.json) |
 | Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
+| Destructo | 54664 | [54664-destructo.json](./54664-destructo.json) |
 | Destructo 2 | 203032 | [203032-destructo-2.json](./203032-destructo-2.json) |
 | Destructo Truck | 353495 | [353495-destructo-truck.json](./353495-destructo-truck.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
@@ -12864,6 +12865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downforce | 22219 | [22219-downforce.json](./22219-downforce.json) |
 | Downforce | 248688 | [248688-downforce.json](./248688-downforce.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
+| Downhill Bikers | 54766 | [54766-downhill-bikers.json](./54766-downhill-bikers.json) |
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
 | Downhill Deceits | 95253 | [95253-downhill-deceits.json](./95253-downhill-deceits.json) |
 | Downhill Domination | 6340 | [6340-downhill-domination.json](./6340-downhill-domination.json) |
@@ -14240,6 +14242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:code | 22494 | [22494-dramatical-murder-re-code.json](./22494-dramatical-murder-re-code.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
+| Drancia Saga | 54777 | [54777-drancia-saga.json](./54777-drancia-saga.json) |
 | Dransik | 212606 | [212606-dransik.json](./212606-dransik.json) |
 | Drapers: Merchants of Middle Ages | 420479 | [420479-drapers-merchants-of-middle-ages.json](./420479-drapers-merchants-of-middle-ages.json) |
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
@@ -15467,6 +15470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Delivery Despair | 248391 | [248391-drone-delivery-despair.json](./248391-drone-delivery-despair.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
+| Drone Fight | 54776 | [54776-drone-fight.json](./54776-drone-fight.json) |
 | Drone Fighters | 29049 | [29049-drone-fighters.json](./29049-drone-fighters.json) |
 | Drone Flight Simulator Online | 274379 | [274379-drone-flight-simulator-online.json](./274379-drone-flight-simulator-online.json) |
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
