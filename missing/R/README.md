@@ -2625,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Set Sumo! | 216758 | [216758-ready-set-sumo.json](./216758-ready-set-sumo.json) |
 | Ready Steady Bang | 133859 | [133859-ready-steady-bang.json](./133859-ready-steady-bang.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
+| Ready, Aim, Splat! | 30432 | [30432-ready-aim-splat.json](./30432-ready-aim-splat.json) |
 | Ready, Set, Party Collection | 335510 | [335510-ready-set-party-collection.json](./335510-ready-set-party-collection.json) |
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
 | Ready, Set, Read with Bananas & Jack | 148450 | [148450-ready-set-read-with-bananas-and-jack.json](./148450-ready-set-read-with-bananas-and-jack.json) |
@@ -6126,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival Chase | 360122 | [360122-revival-chase.json](./360122-revival-chase.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
 | Revival Quest | 242354 | [242354-revival-quest.json](./242354-revival-quest.json) |
+| Revival Reset | 30449 | [30449-revival-reset.json](./30449-revival-reset.json) |
 | Revival Xanadu | 260750 | [260750-revival-xanadu.json](./260750-revival-xanadu.json) |
 | Revival Xanadu 2: Remix | 260751 | [260751-revival-xanadu-2-remix.json](./260751-revival-xanadu-2-remix.json) |
 | Revival: Recolonization | 201640 | [201640-revival-recolonization.json](./201640-revival-recolonization.json) |
@@ -8493,6 +8495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robsu e o Caminho da Água | 142249 | [142249-robsu-e-o-caminho-da-agua.json](./142249-robsu-e-o-caminho-da-agua.json) |
 | Robug Rampage | 346930 | [346930-robug-rampage.json](./346930-robug-rampage.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
+| Robust Road Roller | 30447 | [30447-robust-road-roller.json](./30447-robust-road-roller.json) |
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
 | Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
 | Roc's Odyssey | 268954 | [268954-rocs-odyssey.json](./268954-rocs-odyssey.json) |
@@ -10669,6 +10672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
 | Royal Detective: Lord of Statues | 57968 | [57968-royal-detective-lord-of-statues.json](./57968-royal-detective-lord-of-statues.json) |
 | Royal Detective: The Last Charm - Collector's Edition | 126790 | [126790-royal-detective-the-last-charm-collectors-edition.json](./126790-royal-detective-the-last-charm-collectors-edition.json) |
+| Royal Detective: The Lord of Statues - Collector's Edition | 30431 | [30431-royal-detective-the-lord-of-statues-collectors-edition.json](./30431-royal-detective-the-lord-of-statues-collectors-edition.json) |
 | Royal Diamonds | 246556 | [246556-royal-diamonds.json](./246556-royal-diamonds.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
 | Royal Duality | 191515 | [191515-royal-duality.json](./191515-royal-duality.json) |
