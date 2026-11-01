@@ -7798,6 +7798,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Sprint | 380511 | [380511-world-sprint.json](./380511-world-sprint.json) |
 | World Stadium | 38101 | [38101-world-stadium.json](./38101-world-stadium.json) |
 | World Stadium '90 | 40569 | [40569-world-stadium-90.json](./40569-world-stadium-90.json) |
+| World Stadium 2 | 54755 | [54755-world-stadium-2.json](./54755-world-stadium-2.json) |
+| World Stadium 3 | 54757 | [54757-world-stadium-3.json](./54757-world-stadium-3.json) |
 | World Stadium 4 | 98204 | [98204-world-stadium-4.json](./98204-world-stadium-4.json) |
 | World Stadium 5 | 98202 | [98202-world-stadium-5.json](./98202-world-stadium-5.json) |
 | World Stadium EX | 98203 | [98203-world-stadium-ex.json](./98203-world-stadium-ex.json) |
