@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe & Mac | 213880 | [213880-joe-and-mac.json](./213880-joe-and-mac.json) |
 | Joe & Mac | 48134 | [48134-joe-and-mac.json](./48134-joe-and-mac.json) |
 | Joe & Mac 2: Lost in the Tropics | 42604 | [42604-joe-and-mac-2-lost-in-the-tropics.json](./42604-joe-and-mac-2-lost-in-the-tropics.json) |
+| Joe & Mac Returns | 39284 | [39284-joe-and-mac-returns.json](./39284-joe-and-mac-returns.json) |
 | Joe & Mac: Caveman Ninja HD Remake | 83906 | [83906-joe-and-mac-caveman-ninja-hd-remake.json](./83906-joe-and-mac-caveman-ninja-hd-remake.json) |
 | Joe & Mac: Retro Collection | 347892 | [347892-joe-and-mac-retro-collection.json](./347892-joe-and-mac-retro-collection.json) |
 | Joe & Mac: Ultimate Caveman Collection | 77429 | [77429-joe-and-mac-ultimate-caveman-collection.json](./77429-joe-and-mac-ultimate-caveman-collection.json) |
