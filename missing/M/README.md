@@ -10630,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miiridian Prime | 378765 | [378765-miiridian-prime.json](./378765-miiridian-prime.json) |
 | Miitomo | 18615 | [18615-miitomo.json](./18615-miitomo.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
+| Miitopia | 26926 | [26926-miitopia.json](./26926-miitopia.json) |
 | Miitopia: Casting Call | 147844 | [147844-miitopia-casting-call.json](./147844-miitopia-casting-call.json) |
 | Miiverse Clone RPG | 329602 | [329602-miiverse-clone-rpg.json](./329602-miiverse-clone-rpg.json) |
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
@@ -15257,6 +15258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Garden Optimizer | 362589 | [362589-moon-garden-optimizer.json](./362589-moon-garden-optimizer.json) |
 | Moon Ghost | 310525 | [310525-moon-ghost.json](./310525-moon-ghost.json) |
 | Moon Hopper | 73067 | [73067-moon-hopper.json](./73067-moon-hopper.json) |
+| Moon Hunters | 18263 | [18263-moon-hunters.json](./18263-moon-hunters.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
