@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Warfare Collection | 414456 | [414456-galactic-warfare-collection.json](./414456-galactic-warfare-collection.json) |
 | Galactic Warp | 178637 | [178637-galactic-warp.json](./178637-galactic-warp.json) |
 | Galactic Warrior | 28817 | [28817-galactic-warrior.json](./28817-galactic-warrior.json) |
+| Galactic Warrior Rats | 38055 | [38055-galactic-warrior-rats.json](./38055-galactic-warrior-rats.json) |
 | Galactic Warriors | 40036 | [40036-galactic-warriors.json](./40036-galactic-warriors.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
 | Galactic Wars EX | 176351 | [176351-galactic-wars-ex.json](./176351-galactic-wars-ex.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
 | Gamshara | 269943 | [269943-gamshara.json](./269943-gamshara.json) |
+| Gan-gan Gan-chan | 38023 | [38023-gan-gan-gan-chan.json](./38023-gan-gan-gan-chan.json) |
 | Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
 | GanaBlade | 253404 | [253404-ganablade.json](./253404-ganablade.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
@@ -1606,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganku Ganku | 251089 | [251089-ganku-ganku.json](./251089-ganku-ganku.json) |
 | Gansel and Hretel | 99157 | [99157-gansel-and-hretel.json](./99157-gansel-and-hretel.json) |
 | Ganso Hanjuku Hero | 292029 | [292029-ganso-hanjuku-hero.json](./292029-ganso-hanjuku-hero.json) |
+| Ganso Pachinko Ou | 38022 | [38022-ganso-pachinko-ou.json](./38022-ganso-pachinko-ou.json) |
 | Ganso Saiyuuki: Super Monkey Daibouken | 48487 | [48487-ganso-saiyuuki-super-monkey-daibouken.json](./48487-ganso-saiyuuki-super-monkey-daibouken.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
 | Ganso!! Yancha-maru | 186733 | [186733-ganso-yancha-maru.json](./186733-ganso-yancha-maru.json) |
@@ -3801,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls 'n Ghosts | 262502 | [262502-ghouls-n-ghosts.json](./262502-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts | 262503 | [262503-ghouls-n-ghosts.json](./262503-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts | 262507 | [262507-ghouls-n-ghosts.json](./262507-ghouls-n-ghosts.json) |
+| Ghouls 'n Ghosts | 38081 | [38081-ghouls-n-ghosts.json](./38081-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts Mobile | 106879 | [106879-ghouls-n-ghosts-mobile.json](./106879-ghouls-n-ghosts-mobile.json) |
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
