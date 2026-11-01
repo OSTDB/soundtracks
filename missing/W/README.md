@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted: Dead or Alive | 333770 | [333770-wanted-dead-or-alive.json](./333770-wanted-dead-or-alive.json) |
 | Wanted: Gunslinger's Kiss | 298984 | [298984-wanted-gunslingers-kiss.json](./298984-wanted-gunslingers-kiss.json) |
 | Wanted: Romance Renegades | 238415 | [238415-wanted-romance-renegades.json](./238415-wanted-romance-renegades.json) |
+| Wanted: Weapons of Fate | 7240 | [7240-wanted-weapons-of-fate.json](./7240-wanted-weapons-of-fate.json) |
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
 | Wanted!: Monty Mole | 26278 | [26278-wanted-monty-mole.json](./26278-wanted-monty-mole.json) |
 | Wanted? | 327455 | [327455-wanted.json](./327455-wanted.json) |
@@ -1296,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
 | Warhammer 40,000: Battlesector - Ultramarines | 402508 | [402508-warhammer-40-000-battlesector-ultramarines.json](./402508-warhammer-40-000-battlesector-ultramarines.json) |
 | Warhammer 40,000: Battlesector – Deeds of the Fallen | 344677 | [344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json](./344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json) |
+| Warhammer 40,000: Boltgun | 203258 | [203258-warhammer-40-000-boltgun.json](./203258-warhammer-40-000-boltgun.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters Castellan Champion Upgrade Pack | 201521 | [201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json](./201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json) |
@@ -1320,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War - Master Collection | 53894 | [53894-warhammer-40-000-dawn-of-war-master-collection.json](./53894-warhammer-40-000-dawn-of-war-master-collection.json) |
 | Warhammer 40,000: Dawn of War - Winter Assault | 465 | [465-warhammer-40-000-dawn-of-war-winter-assault.json](./465-warhammer-40-000-dawn-of-war-winter-assault.json) |
 | Warhammer 40,000: Dawn of War Franchise Collection | 53896 | [53896-warhammer-40-000-dawn-of-war-franchise-collection.json](./53896-warhammer-40-000-dawn-of-war-franchise-collection.json) |
+| Warhammer 40,000: Dawn of War II - Chaos Rising | 469 | [469-warhammer-40-000-dawn-of-war-ii-chaos-rising.json](./469-warhammer-40-000-dawn-of-war-ii-chaos-rising.json) |
 | Warhammer 40,000: Dawn of War II - Grand Master Collection | 53897 | [53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json](./53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json) |
 | Warhammer 40,000: Dawn of War II - Master Collection | 53899 | [53899-warhammer-40-000-dawn-of-war-ii-master-collection.json](./53899-warhammer-40-000-dawn-of-war-ii-master-collection.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Chaos Space Marines Race Pack | 163389 | [163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json](./163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json) |
