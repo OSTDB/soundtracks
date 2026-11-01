@@ -4105,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection A | 82678 | [82678-reflection-a.json](./82678-reflection-a.json) |
 | Reflection Arena | 406227 | [406227-reflection-arena.json](./406227-reflection-arena.json) |
 | Reflection Link | 303061 | [303061-reflection-link.json](./303061-reflection-link.json) |
+| Reflection of a Fallen Feather | 29444 | [29444-reflection-of-a-fallen-feather.json](./29444-reflection-of-a-fallen-feather.json) |
 | Reflection of Loneliness | 184576 | [184576-reflection-of-loneliness.json](./184576-reflection-of-loneliness.json) |
 | Reflection of Mine | 27544 | [27544-reflection-of-mine.json](./27544-reflection-of-mine.json) |
 | Reflection Pool Cleaner Simulator | 408258 | [408258-reflection-pool-cleaner-simulator.json](./408258-reflection-pool-cleaner-simulator.json) |
@@ -5989,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge Quest | 30040 | [30040-revenge-quest.json](./30040-revenge-quest.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
 | Revenge Story | 195540 | [195540-revenge-story.json](./195540-revenge-story.json) |
+| Revenge: First Blood | 29399 | [29399-revenge-first-blood.json](./29399-revenge-first-blood.json) |
 | Revenge: Jane The Killer | 286569 | [286569-revenge-jane-the-killer.json](./286569-revenge-jane-the-killer.json) |
 | Revenge: Rhobar's myth | 17864 | [17864-revenge-rhobars-myth.json](./17864-revenge-rhobars-myth.json) |
 | Revengeful Ghost | 351518 | [351518-revengeful-ghost.json](./351518-revengeful-ghost.json) |
@@ -8098,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Defense | 38700 | [38700-robo-defense.json](./38700-robo-defense.json) |
+| Robo Do It | 29425 | [29425-robo-do-it.json](./29425-robo-do-it.json) |
 | Robo Dolphin Escape | 385419 | [385419-robo-dolphin-escape.json](./385419-robo-dolphin-escape.json) |
 | Robo Dome | 320243 | [320243-robo-dome.json](./320243-robo-dome.json) |
 | Robo Encryption | 87943 | [87943-robo-encryption.json](./87943-robo-encryption.json) |
@@ -8891,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
 | Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
 | Rocking on Heaven's Door | 176479 | [176479-rocking-on-heavens-door.json](./176479-rocking-on-heavens-door.json) |
+| Rocking Pilot | 29436 | [29436-rocking-pilot.json](./29436-rocking-pilot.json) |
 | RockinRoll | 78649 | [78649-rockinroll.json](./78649-rockinroll.json) |
 | Rockit! | 287747 | [287747-rockit.json](./287747-rockit.json) |
 | Rockitty | 329116 | [329116-rockitty.json](./329116-rockitty.json) |
@@ -9322,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Point | 322111 | [322111-rogue-point.json](./322111-rogue-point.json) |
 | Rogue Pong | 366105 | [366105-rogue-pong.json](./366105-rogue-pong.json) |
 | Rogue Port - Red Nightmare | 32758 | [32758-rogue-port-red-nightmare.json](./32758-rogue-port-red-nightmare.json) |
+| Rogue Port: Blue Nightmare | 29428 | [29428-rogue-port-blue-nightmare.json](./29428-rogue-port-blue-nightmare.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Prison | 19179 | [19179-rogue-prison.json](./19179-rogue-prison.json) |
 | Rogue Production Facility | 156899 | [156899-rogue-production-facility.json](./156899-rogue-production-facility.json) |
