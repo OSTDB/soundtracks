@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft and the Temple of Osiris: Legend Pack | 226872 | [226872-lara-croft-and-the-temple-of-osiris-legend-pack.json](./226872-lara-croft-and-the-temple-of-osiris-legend-pack.json) |
 | Lara Croft and the Temple of Osiris: Twisted Gears Pack | 226873 | [226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json](./226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json) |
 | Lara Croft Go | 11592 | [11592-lara-croft-go.json](./11592-lara-croft-go.json) |
+| Lara Croft: Reflections | 62481 | [62481-lara-croft-reflections.json](./62481-lara-croft-reflections.json) |
 | Lara Croft: The Last Plague | 252531 | [252531-lara-croft-the-last-plague.json](./252531-lara-croft-the-last-plague.json) |
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
 | Left Behind 3: Rise of the Antichrist | 65727 | [65727-left-behind-3-rise-of-the-antichrist.json](./65727-left-behind-3-rise-of-the-antichrist.json) |
+| Left Behind 4: World at War | 62381 | [62381-left-behind-4-world-at-war.json](./62381-left-behind-4-world-at-war.json) |
 | Left Behind: Eternal Forces | 20614 | [20614-left-behind-eternal-forces.json](./20614-left-behind-eternal-forces.json) |
 | Left Behind: Tribulation Forces | 68238 | [68238-left-behind-tribulation-forces.json](./68238-left-behind-tribulation-forces.json) |
 | Left Brain Right Brain | 20771 | [20771-left-brain-right-brain.json](./20771-left-brain-right-brain.json) |
