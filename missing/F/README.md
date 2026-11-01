@@ -5980,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman Classic | 155306 | [155306-fisherman-classic.json](./155306-fisherman-classic.json) |
 | Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
 | Fisherman: Idle Fishing Clicker | 183814 | [183814-fisherman-idle-fishing-clicker.json](./183814-fisherman-idle-fishing-clicker.json) |
+| Fisherman's Bait 2: Big Ol' Bass | 44944 | [44944-fishermans-bait-2-big-ol-bass.json](./44944-fishermans-bait-2-big-ol-bass.json) |
 | Fisherman’s Bait: Marlin Challenge | 270623 | [270623-fisherman-s-bait-marlin-challenge.json](./270623-fisherman-s-bait-marlin-challenge.json) |
 | Fisherman's Bass Club | 43427 | [43427-fishermans-bass-club.json](./43427-fishermans-bass-club.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
@@ -7431,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Life Record | 264663 | [264663-floating-life-record.json](./264663-floating-life-record.json) |
 | Floating Material -The Hill Where the Star Born.- | 208278 | [208278-floating-material-the-hill-where-the-star-born.json](./208278-floating-material-the-hill-where-the-star-born.json) |
 | Floating Point Leviathan | 142152 | [142152-floating-point-leviathan.json](./142152-floating-point-leviathan.json) |
+| Floating Runner: Quest for the 7 Crystals | 44943 | [44943-floating-runner-quest-for-the-7-crystals.json](./44943-floating-runner-quest-for-the-7-crystals.json) |
 | Floating Sandbox | 167707 | [167707-floating-sandbox.json](./167707-floating-sandbox.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
 | Floating Wonderland | 260261 | [260261-floating-wonderland.json](./260261-floating-wonderland.json) |
@@ -8803,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Simulator II | 73619 | [73619-ford-simulator-ii.json](./73619-ford-simulator-ii.json) |
 | Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
 | Ford Street Racing: XR Edition | 327743 | [327743-ford-street-racing-xr-edition.json](./327743-ford-street-racing-xr-edition.json) |
+| Ford Truck Mania | 44942 | [44942-ford-truck-mania.json](./44942-ford-truck-mania.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
@@ -10022,6 +10025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Golf | 289720 | [289720-fox-golf.json](./289720-fox-golf.json) |
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
+| Fox Hunt | 44984 | [44984-fox-hunt.json](./44984-fox-hunt.json) |
 | Fox Hunt Arena | 279686 | [279686-fox-hunt-arena.json](./279686-fox-hunt-arena.json) |
 | Fox in the Woods | 164936 | [164936-fox-in-the-woods.json](./164936-fox-in-the-woods.json) |
 | Fox Jones and the Treasures of el Dorado | 66553 | [66553-fox-jones-and-the-treasures-of-el-dorado.json](./66553-fox-jones-and-the-treasures-of-el-dorado.json) |
@@ -10035,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Soldier | 120955 | [120955-fox-soldier.json](./120955-fox-soldier.json) |
 | Fox Spirit: A Two-Tailed Adventure | 158039 | [158039-fox-spirit-a-two-tailed-adventure.json](./158039-fox-spirit-a-two-tailed-adventure.json) |
 | Fox Sports College Hoops '99 | 3498 | [3498-fox-sports-college-hoops-99.json](./3498-fox-sports-college-hoops-99.json) |
+| Fox Sports Golf '99 | 44941 | [44941-fox-sports-golf-99.json](./44941-fox-sports-golf-99.json) |
 | Fox Sports Hockey '99 | 80776 | [80776-fox-sports-hockey-99.json](./80776-fox-sports-hockey-99.json) |
 | Fox Sports Major League Baseball 2001 | 210125 | [210125-fox-sports-major-league-baseball-2001.json](./210125-fox-sports-major-league-baseball-2001.json) |
 | FOX Sports Racing | 23755 | [23755-fox-sports-racing.json](./23755-fox-sports-racing.json) |
@@ -10750,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Ice Skater | 270499 | [270499-freestyle-ice-skater.json](./270499-freestyle-ice-skater.json) |
 | Freestyle King | 130610 | [130610-freestyle-king.json](./130610-freestyle-king.json) |
 | Freestyle MetalX | 3920 | [3920-freestyle-metalx.json](./3920-freestyle-metalx.json) |
+| Freestyle Motocross: McGrath vs. Pastrana | 44940 | [44940-freestyle-motocross-mcgrath-vs-pastrana.json](./44940-freestyle-motocross-mcgrath-vs-pastrana.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
 | Freestyle Street Soccer | 3921 | [3921-freestyle-street-soccer.json](./3921-freestyle-street-soccer.json) |
 | Freestyle Studio | 272764 | [272764-freestyle-studio.json](./272764-freestyle-studio.json) |
