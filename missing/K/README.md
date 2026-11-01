@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
 | K3LVN | 208793 | [208793-k3lvn.json](./208793-k3lvn.json) |
 | K9 Uprising | 200383 | [200383-k9-uprising.json](./200383-k9-uprising.json) |
+| Ka 2: Let's Go Hawaii | 43660 | [43660-ka-2-lets-go-hawaii.json](./43660-ka-2-lets-go-hawaii.json) |
 | Ka Mate | 55542 | [55542-ka-mate.json](./55542-ka-mate.json) |
 | Ka-50 Hokum | 94959 | [94959-ka-50-hokum.json](./94959-ka-50-hokum.json) |
 | Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
@@ -2861,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bowling 3 | 278873 | [278873-king-of-bowling-3.json](./278873-king-of-bowling-3.json) |
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
 | King of Clubs | 4958 | [4958-king-of-clubs.json](./4958-king-of-clubs.json) |
+| King of Colosseum II | 43676 | [43676-king-of-colosseum-ii.json](./43676-king-of-colosseum-ii.json) |
 | King of Conquerors | 211175 | [211175-king-of-conquerors.json](./211175-king-of-conquerors.json) |
 | King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
 | King of Crabs | 133077 | [133077-king-of-crabs.json](./133077-king-of-crabs.json) |
