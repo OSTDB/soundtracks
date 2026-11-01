@@ -4366,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
 | Section 8 | 7184 | [7184-section-8.json](./7184-section-8.json) |
+| Section 8: Prejudice | 19650 | [19650-section-8-prejudice.json](./19650-section-8-prejudice.json) |
 | Section Gamma | 250836 | [250836-section-gamma.json](./250836-section-gamma.json) |
 | Section Six | 149023 | [149023-section-six.json](./149023-section-six.json) |
 | Section Six Requiem | 347562 | [347562-section-six-requiem.json](./347562-section-six-requiem.json) |
@@ -12421,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendy! | 61992 | [61992-slendy.json](./61992-slendy.json) |
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
 | Slendytubbies II | 214423 | [214423-slendytubbies-ii.json](./214423-slendytubbies-ii.json) |
+| Slendytubbies III | 138560 | [138560-slendytubbies-iii.json](./138560-slendytubbies-iii.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Slendytubbies: Worlds | 283548 | [283548-slendytubbies-worlds.json](./283548-slendytubbies-worlds.json) |
 | Slette Mette | 186468 | [186468-slette-mette.json](./186468-slette-mette.json) |
@@ -15827,6 +15829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
 | SongPop: Classic | 23333 | [23333-songpop-classic.json](./23333-songpop-classic.json) |
 | SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
+| Songs for a Hero | 19719 | [19719-songs-for-a-hero.json](./19719-songs-for-a-hero.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
 | Songs for a Hero 2: March of Malachi | 219497 | [219497-songs-for-a-hero-2-march-of-malachi.json](./219497-songs-for-a-hero-2-march-of-malachi.json) |
 | Songs for a Hero: Definitive Edition | 154980 | [154980-songs-for-a-hero-definitive-edition.json](./154980-songs-for-a-hero-definitive-edition.json) |
@@ -18176,7 +18179,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20148,6 +20150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Edge of Time | 249161 | [249161-spider-man-edge-of-time.json](./249161-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 5179 | [5179-spider-man-edge-of-time.json](./5179-spider-man-edge-of-time.json) |
 | Spider-Man: Friend or Foe | 249163 | [249163-spider-man-friend-or-foe.json](./249163-spider-man-friend-or-foe.json) |
+| Spider-Man: Friend or Foe | 249164 | [249164-spider-man-friend-or-foe.json](./249164-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Homecoming - Virtual Reality Experience | 43066 | [43066-spider-man-homecoming-virtual-reality-experience.json](./43066-spider-man-homecoming-virtual-reality-experience.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
@@ -26327,6 +26330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchmancer | 282093 | [282093-stretchmancer.json](./282093-stretchmancer.json) |
 | Stretchmancer | 331185 | [331185-stretchmancer.json](./331185-stretchmancer.json) |
+| Stretchmo | 19984 | [19984-stretchmo.json](./19984-stretchmo.json) |
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
 | Stretchy-Man: The Video Game | 190234 | [190234-stretchy-man-the-video-game.json](./190234-stretchy-man-the-video-game.json) |
 | Strewn Runes | 187273 | [187273-strewn-runes.json](./187273-strewn-runes.json) |
@@ -29961,6 +29965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball Gaiden | 203169 | [203169-super-monkey-ball-gaiden.json](./203169-super-monkey-ball-gaiden.json) |
 | Super Monkey Ball Jr. | 6622 | [6622-super-monkey-ball-jr.json](./6622-super-monkey-ball-jr.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
+| Super Monkey Ball Touch & Roll | 20489 | [20489-super-monkey-ball-touch-and-roll.json](./20489-super-monkey-ball-touch-and-roll.json) |
 | Super Monkey Ball: Banana Blitz | 5200 | [5200-super-monkey-ball-banana-blitz.json](./5200-super-monkey-ball-banana-blitz.json) |
 | Super Monkey Ball: Banana Blitz HD | 120867 | [120867-super-monkey-ball-banana-blitz-hd.json](./120867-super-monkey-ball-banana-blitz-hd.json) |
 | Super Monkey Ball: Banana Mania | 152355 | [152355-super-monkey-ball-banana-mania.json](./152355-super-monkey-ball-banana-mania.json) |
