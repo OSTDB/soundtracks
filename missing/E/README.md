@@ -6126,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
 | Evelone Wrath | 260032 | [260032-evelone-wrath.json](./260032-evelone-wrath.json) |
 | Evelyn's Farm | 186589 | [186589-evelyns-farm.json](./186589-evelyns-farm.json) |
+| Even Cowgirls Bleed | 62473 | [62473-even-cowgirls-bleed.json](./62473-even-cowgirls-bleed.json) |
 | Even For Eternia | 116887 | [116887-even-for-eternia.json](./116887-even-for-eternia.json) |
 | Even Heroes Die | 197217 | [197217-even-heroes-die.json](./197217-even-heroes-die.json) |
 | Even if Tempest | 186104 | [186104-even-if-tempest.json](./186104-even-if-tempest.json) |
