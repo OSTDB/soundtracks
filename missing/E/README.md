@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
 | Echelon | 377781 | [377781-echelon.json](./377781-echelon.json) |
 | Echelon | 55093 | [55093-echelon.json](./55093-echelon.json) |
+| Echelon: Explore, Discover and Eliminate | 61837 | [61837-echelon-explore-discover-and-eliminate.json](./61837-echelon-explore-discover-and-eliminate.json) |
 | Echelon: Wind Warriors | 17578 | [17578-echelon-wind-warriors.json](./17578-echelon-wind-warriors.json) |
 | Echidna Wars DX | 382894 | [382894-echidna-wars-dx.json](./382894-echidna-wars-dx.json) |
 | Echo | 136715 | [136715-echo.json](./136715-echo.json) |
