@@ -16372,6 +16372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Race | 197888 | [197888-moto-race.json](./197888-moto-race.json) |
 | Moto Racer | 10560 | [10560-moto-racer.json](./10560-moto-racer.json) |
 | Moto Racer 15th Anniversary | 10565 | [10565-moto-racer-15th-anniversary.json](./10565-moto-racer-15th-anniversary.json) |
+| Moto Racer 2 | 10561 | [10561-moto-racer-2.json](./10561-moto-racer-2.json) |
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
 | Moto Racer 4 | 19345 | [19345-moto-racer-4.json](./19345-moto-racer-4.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
