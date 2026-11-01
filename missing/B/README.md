@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4231,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 284226 | [284226-battletoads.json](./284226-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
+| Battletoads / Double Dragon | 242267 | [242267-battletoads-double-dragon.json](./242267-battletoads-double-dragon.json) |
 | Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
 | Battletoads in Ragnarok's World | 48924 | [48924-battletoads-in-ragnaroks-world.json](./48924-battletoads-in-ragnaroks-world.json) |
 | Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
@@ -8980,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladeslinger | 63632 | [63632-bladeslinger.json](./63632-bladeslinger.json) |
 | Bladesmith Shop Simulator | 420007 | [420007-bladesmith-shop-simulator.json](./420007-bladesmith-shop-simulator.json) |
 | Bladesong | 254662 | [254662-bladesong.json](./254662-bladesong.json) |
+| Bladestorm: Nightmare | 19927 | [19927-bladestorm-nightmare.json](./19927-bladestorm-nightmare.json) |
 | Bladestorm: The Hundred Years' War | 6919 | [6919-bladestorm-the-hundred-years-war.json](./6919-bladestorm-the-hundred-years-war.json) |
 | Bladeweave | 420011 | [420011-bladeweave.json](./420011-bladeweave.json) |
 | Blagger | 8527 | [8527-blagger.json](./8527-blagger.json) |
@@ -15541,6 +15544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buckshot Roulette | 281275 | [281275-buckshot-roulette.json](./281275-buckshot-roulette.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bucky O'Hare | 218904 | [218904-bucky-ohare.json](./218904-bucky-ohare.json) |
+| Bucky O'Hare | 238860 | [238860-bucky-ohare.json](./238860-bucky-ohare.json) |
 | Bud Blitz | 115521 | [115521-bud-blitz.json](./115521-bud-blitz.json) |
 | Bud Farm Idle Tycoon | 215104 | [215104-bud-farm-idle-tycoon.json](./215104-bud-farm-idle-tycoon.json) |
 | Bud Farm: Grass Roots | 232847 | [232847-bud-farm-grass-roots.json](./232847-bud-farm-grass-roots.json) |
@@ -16634,6 +16638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout 2: Point of Impact | 3840 | [3840-burnout-2-point-of-impact.json](./3840-burnout-2-point-of-impact.json) |
 | Burnout 3: Takedown | 5761 | [5761-burnout-3-takedown.json](./5761-burnout-3-takedown.json) |
 | Burnout Chaos: Drift Car Project | 285349 | [285349-burnout-chaos-drift-car-project.json](./285349-burnout-chaos-drift-car-project.json) |
+| Burnout Crash! | 20160 | [20160-burnout-crash.json](./20160-burnout-crash.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
