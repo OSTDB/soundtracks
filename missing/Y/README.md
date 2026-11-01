@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 6: The Song of Life - Launch Edition | 97250 | [97250-yakuza-6-the-song-of-life-launch-edition.json](./97250-yakuza-6-the-song-of-life-launch-edition.json) |
 | Yakuza Complete Series | 254290 | [254290-yakuza-complete-series.json](./254290-yakuza-complete-series.json) |
 | Yakuza Empire | 139699 | [139699-yakuza-empire.json](./139699-yakuza-empire.json) |
+| Yakuza Fury | 43667 | [43667-yakuza-fury.json](./43667-yakuza-fury.json) |
 | Yakuza GB | 301530 | [301530-yakuza-gb.json](./301530-yakuza-gb.json) |
 | Yakuza Kiss | 104130 | [104130-yakuza-kiss.json](./104130-yakuza-kiss.json) |
 | Yakuza Kiwami & Yakuza Kiwami 2 Bundle | 370796 | [370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json](./370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json) |
