@@ -9634,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Homecoming | 485 | [485-silent-hill-homecoming.json](./485-silent-hill-homecoming.json) |
 | Silent Hill: Mobile 3 | 134265 | [134265-silent-hill-mobile-3.json](./134265-silent-hill-mobile-3.json) |
 | Silent Hill: Mobile DX | 134261 | [134261-silent-hill-mobile-dx.json](./134261-silent-hill-mobile-dx.json) |
+| Silent Hill: Origins | 484 | [484-silent-hill-origins.json](./484-silent-hill-origins.json) |
 | Silent Hill: Orphan | 59007 | [59007-silent-hill-orphan.json](./59007-silent-hill-orphan.json) |
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
@@ -15180,6 +15181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
 | Soldier of Failure: Operation Zombie | 75653 | [75653-soldier-of-failure-operation-zombie.json](./75653-soldier-of-failure-operation-zombie.json) |
 | Soldier of Fortune | 135691 | [135691-soldier-of-fortune.json](./135691-soldier-of-fortune.json) |
+| Soldier of Fortune | 3111 | [3111-soldier-of-fortune.json](./3111-soldier-of-fortune.json) |
 | Soldier of Fortune | 68562 | [68562-soldier-of-fortune.json](./68562-soldier-of-fortune.json) |
 | Soldier of Fortune II: Double Helix | 3112 | [3112-soldier-of-fortune-ii-double-helix.json](./3112-soldier-of-fortune-ii-double-helix.json) |
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
@@ -16604,6 +16606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Universe Adventure | 326824 | [326824-sonic-universe-adventure.json](./326824-sonic-universe-adventure.json) |
 | Sonic Unleashed | 133942 | [133942-sonic-unleashed.json](./133942-sonic-unleashed.json) |
 | Sonic Unleashed | 133943 | [133943-sonic-unleashed.json](./133943-sonic-unleashed.json) |
+| Sonic Unleashed | 5169 | [5169-sonic-unleashed.json](./5169-sonic-unleashed.json) |
 | Sonic Unleashed + | 316502 | [316502-sonic-unleashed.json](./316502-sonic-unleashed.json) |
 | Sonic Unleashed 3DS | 370488 | [370488-sonic-unleashed-3ds.json](./370488-sonic-unleashed-3ds.json) |
 | Sonic Unleashed: Apotos & Shamar Adventure Pack | 334240 | [334240-sonic-unleashed-apotos-and-shamar-adventure-pack.json](./334240-sonic-unleashed-apotos-and-shamar-adventure-pack.json) |
@@ -17283,6 +17286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur IV | 328917 | [328917-soulcalibur-iv.json](./328917-soulcalibur-iv.json) |
 | Soulcalibur Legends | 5170 | [5170-soulcalibur-legends.json](./5170-soulcalibur-legends.json) |
 | SoulCalibur V: Collectors Edition | 44655 | [44655-soulcalibur-v-collectors-edition.json](./44655-soulcalibur-v-collectors-edition.json) |
+| SoulCalibur VI | 76885 | [76885-soulcalibur-vi.json](./76885-soulcalibur-vi.json) |
 | SoulCalibur VI: 2B | 168722 | [168722-soulcalibur-vi-2b.json](./168722-soulcalibur-vi-2b.json) |
 | SoulCalibur VI: Amy | 168723 | [168723-soulcalibur-vi-amy.json](./168723-soulcalibur-vi-amy.json) |
 | SoulCalibur VI: Cassandra | 168724 | [168724-soulcalibur-vi-cassandra.json](./168724-soulcalibur-vi-cassandra.json) |
@@ -18118,6 +18122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20098,6 +20103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Ultimate Power | 188550 | [188550-spider-man-ultimate-power.json](./188550-spider-man-ultimate-power.json) |
 | Spider-Man: Web of Shadows | 209976 | [209976-spider-man-web-of-shadows.json](./209976-spider-man-web-of-shadows.json) |
 | Spider-Man: Web of Shadows | 209977 | [209977-spider-man-web-of-shadows.json](./209977-spider-man-web-of-shadows.json) |
+| Spider-Man: Web of Shadows | 5181 | [5181-spider-man-web-of-shadows.json](./5181-spider-man-web-of-shadows.json) |
 | Spider-Man: Web of Shadows - Amazing Allies Edition | 208778 | [208778-spider-man-web-of-shadows-amazing-allies-edition.json](./208778-spider-man-web-of-shadows-amazing-allies-edition.json) |
 | Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
@@ -28874,6 +28880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Sakusen | 292101 | [292101-super-hero-sakusen.json](./292101-super-hero-sakusen.json) |
 | Super Hero VR | 99637 | [99637-super-hero-vr.json](./99637-super-hero-vr.json) |
 | Super Heroine Chronicle | 63311 | [63311-super-heroine-chronicle.json](./63311-super-heroine-chronicle.json) |
+| Super Hexagon | 3251 | [3251-super-hexagon.json](./3251-super-hexagon.json) |
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
 | Super High School Danger Course | 271128 | [271128-super-high-school-danger-course.json](./271128-super-high-school-danger-course.json) |
 | Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
@@ -33216,6 +33223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syncrafice | 422704 | [422704-syncrafice.json](./422704-syncrafice.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
 | Syndeo-Complex | 226476 | [226476-syndeo-complex.json](./226476-syndeo-complex.json) |
+| Syndicate | 1006 | [1006-syndicate.json](./1006-syndicate.json) |
 | Syndicate | 213568 | [213568-syndicate.json](./213568-syndicate.json) |
 | Syndicate | 213570 | [213570-syndicate.json](./213570-syndicate.json) |
 | Syndicate | 213754 | [213754-syndicate.json](./213754-syndicate.json) |
