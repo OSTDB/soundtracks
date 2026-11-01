@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoomer Simulator | 326303 | [326303-zoomer-simulator.json](./326303-zoomer-simulator.json) |
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | Zoomers Versus Boomers | 347802 | [347802-zoomers-versus-boomers.json](./347802-zoomers-versus-boomers.json) |
+| Zooming Secretary | 48371 | [48371-zooming-secretary.json](./48371-zooming-secretary.json) |
 | Zoominoes | 331193 | [331193-zoominoes.json](./331193-zoominoes.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
 | ZoomOut | 367285 | [367285-zoomout.json](./367285-zoomout.json) |
