@@ -10993,6 +10993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boards and Blades 2 | 92401 | [92401-boards-and-blades-2.json](./92401-boards-and-blades-2.json) |
 | Boardwalk Arcade 2 | 292144 | [292144-boardwalk-arcade-2.json](./292144-boardwalk-arcade-2.json) |
 | Boardwalk Ball Toss | 65871 | [65871-boardwalk-ball-toss.json](./65871-boardwalk-ball-toss.json) |
+| Boardwalk Casino | 38627 | [38627-boardwalk-casino.json](./38627-boardwalk-casino.json) |
 | Boardwalk Memories | 191565 | [191565-boardwalk-memories.json](./191565-boardwalk-memories.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
 | Boars in Rome | 380833 | [380833-boars-in-rome.json](./380833-boars-in-rome.json) |
@@ -11489,6 +11490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Jack DX | 279677 | [279677-bomb-jack-dx.json](./279677-bomb-jack-dx.json) |
 | Bomb Jack II | 13421 | [13421-bomb-jack-ii.json](./13421-bomb-jack-ii.json) |
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
+| Bomb Kick | 38626 | [38626-bomb-kick.json](./38626-bomb-kick.json) |
 | Bomb Kitten | 370788 | [370788-bomb-kitten.json](./370788-bomb-kitten.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
 | Bomb Magic Tower | 367855 | [367855-bomb-magic-tower.json](./367855-bomb-magic-tower.json) |
@@ -11776,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Born | 258367 | [258367-bone-born.json](./258367-bone-born.json) |
 | Bone Boy | 246952 | [246952-bone-boy.json](./246952-bone-boy.json) |
 | Bone Cruncher | 11977 | [11977-bone-cruncher.json](./11977-bone-cruncher.json) |
+| Bone Crusher | 38625 | [38625-bone-crusher.json](./38625-bone-crusher.json) |
 | Bone Dust | 236774 | [236774-bone-dust.json](./236774-bone-dust.json) |
 | Bone Fixer Shop | 362024 | [362024-bone-fixer-shop.json](./362024-bone-fixer-shop.json) |
 | Bone Lover | 215477 | [215477-bone-lover.json](./215477-bone-lover.json) |
