@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8089,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
 | Bit.Saw | 60775 | [60775-bit-saw.json](./60775-bit-saw.json) |
+| Bit.Trip Beat | 9535 | [9535-bit-trip-beat.json](./9535-bit-trip-beat.json) |
 | Bit.Trip Beat HD | 21741 | [21741-bit-trip-beat-hd.json](./21741-bit-trip-beat-hd.json) |
 | Bit.Trip Complete | 4719 | [4719-bit-trip-complete.json](./4719-bit-trip-complete.json) |
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
@@ -16697,6 +16699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
+| Bus Driver | 10068 | [10068-bus-driver.json](./10068-bus-driver.json) |
 | Bus Driver Simulator | 141689 | [141689-bus-driver-simulator.json](./141689-bus-driver-simulator.json) |
 | Bus Driver Simulator 2019 | 75103 | [75103-bus-driver-simulator-2019.json](./75103-bus-driver-simulator-2019.json) |
 | Bus Driver Simulator 2019: European Minibus | 162573 | [162573-bus-driver-simulator-2019-european-minibus.json](./162573-bus-driver-simulator-2019-european-minibus.json) |
