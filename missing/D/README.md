@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon | 361679 | [361679-daemon.json](./361679-daemon.json) |
 | Daemon 9 | 110904 | [110904-daemon-9.json](./110904-daemon-9.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
+| Daemon Detective Gaiden | 35069 | [35069-daemon-detective-gaiden.json](./35069-daemon-detective-gaiden.json) |
 | Daemon Detective Gaiden II | 133983 | [133983-daemon-detective-gaiden-ii.json](./133983-daemon-detective-gaiden-ii.json) |
 | Daemon Detective Racing Zero | 135042 | [135042-daemon-detective-racing-zero.json](./135042-daemon-detective-racing-zero.json) |
 | Daemon Masquerade | 242546 | [242546-daemon-masquerade.json](./242546-daemon-masquerade.json) |
@@ -5346,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defiance: Collector's Edition | 43021 | [43021-defiance-collectors-edition.json](./43021-defiance-collectors-edition.json) |
 | Defiant Ascent | 375439 | [375439-defiant-ascent.json](./375439-defiant-ascent.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
+| Deficis | 35070 | [35070-deficis.json](./35070-deficis.json) |
 | Deficit | 179073 | [179073-deficit.json](./179073-deficit.json) |
 | Deficit | 327818 | [327818-deficit.json](./327818-deficit.json) |
 | Defilade | 419311 | [419311-defilade.json](./419311-defilade.json) |
@@ -10385,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNF Duel: Season Pass | 255679 | [255679-dnf-duel-season-pass.json](./255679-dnf-duel-season-pass.json) |
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Dnieper River Line | 24809 | [24809-dnieper-river-line.json](./24809-dnieper-river-line.json) |
+| DNO Rasa's Journey | 35103 | [35103-dno-rasas-journey.json](./35103-dno-rasas-journey.json) |
 | Do 335 Pfeil Tour of Duty | 179 | [179-do-335-pfeil-tour-of-duty.json](./179-do-335-pfeil-tour-of-duty.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Animals Dream? | 149404 | [149404-do-animals-dream.json](./149404-do-animals-dream.json) |
@@ -17042,6 +17045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonOS | 388132 | [388132-dungeonos.json](./388132-dungeonos.json) |
 | Dungeonought | 366275 | [366275-dungeonought.json](./366275-dungeonought.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
+| DungeonRift | 35092 | [35092-dungeonrift.json](./35092-dungeonrift.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
 | DungeonRoute | 369924 | [369924-dungeonroute.json](./369924-dungeonroute.json) |
 | Dungeons | 8849 | [8849-dungeons.json](./8849-dungeons.json) |
