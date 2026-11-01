@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Keith Night: After a Shadow | 73733 | [73733-adventures-of-keith-night-after-a-shadow.json](./73733-adventures-of-keith-night-after-a-shadow.json) |
 | Adventures of Kok | 55367 | [55367-adventures-of-kok.json](./55367-adventures-of-kok.json) |
 | Adventures of Lolo | 191467 | [191467-adventures-of-lolo.json](./191467-adventures-of-lolo.json) |
+| Adventures of Lolo | 3662 | [3662-adventures-of-lolo.json](./3662-adventures-of-lolo.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
 | Adventures of Lolo II | 206514 | [206514-adventures-of-lolo-ii.json](./206514-adventures-of-lolo-ii.json) |
@@ -9173,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Crossing: Classic Game Card - Ice Climber | 229500 | [229500-animal-crossing-classic-game-card-ice-climber.json](./229500-animal-crossing-classic-game-card-ice-climber.json) |
 | Animal Crossing: Classic Game Card - Mario Bros. | 229501 | [229501-animal-crossing-classic-game-card-mario-bros.json](./229501-animal-crossing-classic-game-card-mario-bros.json) |
+| Animal Crossing: Happy Home Designer | 10143 | [10143-animal-crossing-happy-home-designer.json](./10143-animal-crossing-happy-home-designer.json) |
 | Animal Crossing: New Horizons - Happy Home Paradise | 176552 | [176552-animal-crossing-new-horizons-happy-home-paradise.json](./176552-animal-crossing-new-horizons-happy-home-paradise.json) |
 | Animal Crossing: New Horizons - Nintendo Switch 2 Edition | 375733 | [375733-animal-crossing-new-horizons-nintendo-switch-2-edition.json](./375733-animal-crossing-new-horizons-nintendo-switch-2-edition.json) |
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
@@ -10137,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Adventure | 385990 | [385990-antarctic-adventure.json](./385990-antarctic-adventure.json) |
+| Antarctic Adventure | 4592 | [4592-antarctic-adventure.json](./4592-antarctic-adventure.json) |
 | Antarctic Escape | 233166 | [233166-antarctic-escape.json](./233166-antarctic-escape.json) |
 | Antarctic Expedition Mahjong Connect | 89853 | [89853-antarctic-expedition-mahjong-connect.json](./89853-antarctic-expedition-mahjong-connect.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
@@ -13058,6 +13061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
 | Army Men: Omega Soldier | 43766 | [43766-army-men-omega-soldier.json](./43766-army-men-omega-soldier.json) |
 | Army Men: RTS | 8498 | [8498-army-men-rts.json](./8498-army-men-rts.json) |
+| Army Men: Sarge's Heroes | 3440 | [3440-army-men-sarges-heroes.json](./3440-army-men-sarges-heroes.json) |
 | Army Men: Sarge's Heroes 2 | 201091 | [201091-army-men-sarges-heroes-2.json](./201091-army-men-sarges-heroes-2.json) |
 | Army Men: Sarge's Heroes 2 | 3441 | [3441-army-men-sarges-heroes-2.json](./3441-army-men-sarges-heroes-2.json) |
 | Army Men: Soldiers of Misfortune | 47721 | [47721-army-men-soldiers-of-misfortune.json](./47721-army-men-soldiers-of-misfortune.json) |
@@ -14010,6 +14014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Antiquity Pack | 164782 | [164782-assassins-creed-antiquity-pack.json](./164782-assassins-creed-antiquity-pack.json) |
 | Assassin’s Creed Black Flag Resynced: Collector’s Edition | 412816 | [412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json](./412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json) |
 | Assassin's Creed Black Flag Resynced: Deluxe Edition | 409613 | [409613-assassins-creed-black-flag-resynced-deluxe-edition.json](./409613-assassins-creed-black-flag-resynced-deluxe-edition.json) |
+| Assassin's Creed Brotherhood | 221823 | [221823-assassins-creed-brotherhood.json](./221823-assassins-creed-brotherhood.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
 | Assassin's Creed Bundle: Assassin's Creed Valhalla, Assassin's Creed Odyssey, and Assassin's Creed Origins | 164698 | [164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json](./164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json) |
 | Assassin's Creed Chronicles: China | 8223 | [8223-assassins-creed-chronicles-china.json](./8223-assassins-creed-chronicles-china.json) |
