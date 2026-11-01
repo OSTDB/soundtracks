@@ -5294,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Danger | 101065 | [101065-iron-danger.json](./101065-iron-danger.json) |
 | Iron Dawn | 286033 | [286033-iron-dawn.json](./286033-iron-dawn.json) |
 | Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
+| Iron Defense | 40499 | [40499-iron-defense.json](./40499-iron-defense.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Dice | 352145 | [352145-iron-dice.json](./352145-iron-dice.json) |
 | Iron Dome | 228141 | [228141-iron-dome.json](./228141-iron-dome.json) |
