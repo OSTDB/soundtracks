@@ -7914,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dukes of Hazzard | 122629 | [122629-the-dukes-of-hazzard.json](./122629-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard | 14042 | [14042-the-dukes-of-hazzard.json](./14042-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard | 24137 | [24137-the-dukes-of-hazzard.json](./24137-the-dukes-of-hazzard.json) |
+| The Dukes of Hazzard II: Daisy Dukes it Out | 44986 | [44986-the-dukes-of-hazzard-ii-daisy-dukes-it-out.json](./44986-the-dukes-of-hazzard-ii-daisy-dukes-it-out.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
@@ -8848,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones | 51942 | [51942-the-flintstones.json](./51942-the-flintstones.json) |
 | The Flintstones in Viva Rock Vegas | 316930 | [316930-the-flintstones-in-viva-rock-vegas.json](./316930-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
+| The Flintstones: Bedrock Bowling | 44987 | [44987-the-flintstones-bedrock-bowling.json](./44987-the-flintstones-bedrock-bowling.json) |
 | The Flintstones: Bedrock Jackpot | 396443 | [396443-the-flintstones-bedrock-jackpot.json](./396443-the-flintstones-bedrock-jackpot.json) |
 | The Flintstones: Big Trouble in Bedrock | 49194 | [49194-the-flintstones-big-trouble-in-bedrock.json](./49194-the-flintstones-big-trouble-in-bedrock.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
@@ -9912,6 +9914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hong Kong Massacre | 27069 | [27069-the-hong-kong-massacre.json](./27069-the-hong-kong-massacre.json) |
 | The Hong Kong Massacre / Beautiful Desolation Bundle | 199893 | [199893-the-hong-kong-massacre-beautiful-desolation-bundle.json](./199893-the-hong-kong-massacre-beautiful-desolation-bundle.json) |
 | The Honours Project | 368372 | [368372-the-honours-project.json](./368372-the-honours-project.json) |
+| The Hoobs | 44961 | [44961-the-hoobs.json](./44961-the-hoobs.json) |
 | The Hookmarine | 261670 | [261670-the-hookmarine.json](./261670-the-hookmarine.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
@@ -22885,6 +22888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Year 2 HK SDU Special Edition | 167157 | [167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json](./167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
 | Tom Clancy's Rainbow Six: Lockdown | 312285 | [312285-tom-clancys-rainbow-six-lockdown.json](./312285-tom-clancys-rainbow-six-lockdown.json) |
+| Tom Clancy's Rainbow Six: Lone Wolf | 44989 | [44989-tom-clancys-rainbow-six-lone-wolf.json](./44989-tom-clancys-rainbow-six-lone-wolf.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six: Take-Down – Missions in Korea | 135591 | [135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json](./135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json) |
@@ -23556,6 +23560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
 | Top Gun: Danger Zone | 73092 | [73092-top-gun-danger-zone.json](./73092-top-gun-danger-zone.json) |
 | Top Gun: Fire At Will | 20129 | [20129-top-gun-fire-at-will.json](./20129-top-gun-fire-at-will.json) |
+| Top Gun: Fire at Will! | 44990 | [44990-top-gun-fire-at-will.json](./44990-top-gun-fire-at-will.json) |
 | Top Gun: Firestorm | 66496 | [66496-top-gun-firestorm.json](./66496-top-gun-firestorm.json) |
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
@@ -23910,6 +23915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
 | Total Eclipse | 4347 | [4347-total-eclipse.json](./4347-total-eclipse.json) |
 | Total Eclipse II: The Sphinx Jinx | 66006 | [66006-total-eclipse-ii-the-sphinx-jinx.json](./66006-total-eclipse-ii-the-sphinx-jinx.json) |
+| Total Eclipse Turbo | 44991 | [44991-total-eclipse-turbo.json](./44991-total-eclipse-turbo.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2004 | 73008 | [73008-total-extreme-wrestling-2004.json](./73008-total-extreme-wrestling-2004.json) |
 | Total Extreme Wrestling 2005 | 73007 | [73007-total-extreme-wrestling-2005.json](./73007-total-extreme-wrestling-2005.json) |
@@ -27526,6 +27532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Furry Puzzle | 112801 | [112801-trap-furry-puzzle.json](./112801-trap-furry-puzzle.json) |
 | Trap Genesis | 164073 | [164073-trap-genesis.json](./164073-trap-genesis.json) |
 | Trap Golf | 379594 | [379594-trap-golf.json](./379594-trap-golf.json) |
+| Trap Gunner: Countdown to Oblivion | 44945 | [44945-trap-gunner-countdown-to-oblivion.json](./44945-trap-gunner-countdown-to-oblivion.json) |
 | Trap House | 32713 | [32713-trap-house.json](./32713-trap-house.json) |
 | Trap Labs | 74606 | [74606-trap-labs.json](./74606-trap-labs.json) |
 | Trap Legend | 156962 | [156962-trap-legend.json](./156962-trap-legend.json) |
@@ -28608,6 +28615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
+| Triple Play 99 | 45003 | [45003-triple-play-99.json](./45003-triple-play-99.json) |
 | Triple Play: Gold Edition | 4488 | [4488-triple-play-gold-edition.json](./4488-triple-play-gold-edition.json) |
 | Triple Punch | 38552 | [38552-triple-punch.json](./38552-triple-punch.json) |
 | Triple Realms | 414753 | [414753-triple-realms.json](./414753-triple-realms.json) |
