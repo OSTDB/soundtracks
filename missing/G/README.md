@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostBros | 262820 | [262820-ghostbros.json](./262820-ghostbros.json) |
 | Ghostbusters | 347005 | [347005-ghostbusters.json](./347005-ghostbusters.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
+| Ghostbusters | 6054 | [6054-ghostbusters.json](./6054-ghostbusters.json) |
 | Ghostbusters | 80815 | [80815-ghostbusters.json](./80815-ghostbusters.json) |
 | Ghostbusters Arcade | 221057 | [221057-ghostbusters-arcade.json](./221057-ghostbusters-arcade.json) |
 | Ghostbusters II | 14552 | [14552-ghostbusters-ii.json](./14552-ghostbusters-ii.json) |
