@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperion | 243217 | [243217-imperion.json](./243217-imperion.json) |
 | Imperishable Memories | 109564 | [109564-imperishable-memories.json](./109564-imperishable-memories.json) |
 | Imperium | 13070 | [13070-imperium.json](./13070-imperium.json) |
+| Imperium | 15220 | [15220-imperium.json](./15220-imperium.json) |
 | Imperium BCE | 169626 | [169626-imperium-bce.json](./169626-imperium-bce.json) |
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
@@ -4162,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Out | 175936 | [175936-inside-out.json](./175936-inside-out.json) |
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Inside Out Thought Bubbles | 60085 | [60085-inside-out-thought-bubbles.json](./60085-inside-out-thought-bubbles.json) |
+| Inside Outing | 15216 | [15216-inside-outing.json](./15216-inside-outing.json) |
 | Inside Path | 110679 | [110679-inside-path.json](./110679-inside-path.json) |
 | Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
 | Inside Pitch 2003 | 23697 | [23697-inside-pitch-2003.json](./23697-inside-pitch-2003.json) |
