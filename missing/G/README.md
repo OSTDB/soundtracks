@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal*Gun 2: Complete DLC Bundle | 238337 | [238337-gal-gun-2-complete-dlc-bundle.json](./238337-gal-gun-2-complete-dlc-bundle.json) |
 | Gal*Gun 2: Complete Edition | 238338 | [238338-gal-gun-2-complete-edition.json](./238338-gal-gun-2-complete-edition.json) |
 | Gal*Gun 2: Limited Edition | 358981 | [358981-gal-gun-2-limited-edition.json](./358981-gal-gun-2-limited-edition.json) |
+| Gal*Gun: Double Peace | 11564 | [11564-gal-gun-double-peace.json](./11564-gal-gun-double-peace.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
 | Gal*Gun: Double Peace Horny Trinity Edition | 358982 | [358982-gal-gun-double-peace-horny-trinity-edition.json](./358982-gal-gun-double-peace-horny-trinity-edition.json) |
 | Gal*Gun: Double Peace Ultimate Horny Edition | 358983 | [358983-gal-gun-double-peace-ultimate-horny-edition.json](./358983-gal-gun-double-peace-ultimate-horny-edition.json) |
@@ -2269,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears | 240078 | [240078-gears.json](./240078-gears.json) |
 | Gears | 84639 | [84639-gears.json](./84639-gears.json) |
 | Gears 5: Game of the Year Edition | 142818 | [142818-gears-5-game-of-the-year-edition.json](./142818-gears-5-game-of-the-year-edition.json) |
+| Gears 5: Hivebusters | 140517 | [140517-gears-5-hivebusters.json](./140517-gears-5-hivebusters.json) |
 | Gears 5: Ultimate Edition | 122658 | [122658-gears-5-ultimate-edition.json](./122658-gears-5-ultimate-edition.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
 | Gears N Gators | 136227 | [136227-gears-n-gators.json](./136227-gears-n-gators.json) |
@@ -7418,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Stars and Stripes | 357202 | [357202-grand-theft-auto-stars-and-stripes.json](./357202-grand-theft-auto-stars-and-stripes.json) |
 | Grand Theft Auto: The Backstabber's Blues | 392433 | [392433-grand-theft-auto-the-backstabbers-blues.json](./392433-grand-theft-auto-the-backstabbers-blues.json) |
 | Grand Theft Auto: The Trilogy | 5850 | [5850-grand-theft-auto-the-trilogy.json](./5850-grand-theft-auto-the-trilogy.json) |
+| Grand Theft Auto: The Trilogy - The Definitive Edition | 53070 | [53070-grand-theft-auto-the-trilogy-the-definitive-edition.json](./53070-grand-theft-auto-the-trilogy-the-definitive-edition.json) |
 | Grand Theft Auto: Torcidas | 358395 | [358395-grand-theft-auto-torcidas.json](./358395-grand-theft-auto-torcidas.json) |
 | Grand Theft Auto: Underground | 126178 | [126178-grand-theft-auto-underground.json](./126178-grand-theft-auto-underground.json) |
 | Grand Theft Auto: Vice City | 215550 | [215550-grand-theft-auto-vice-city.json](./215550-grand-theft-auto-vice-city.json) |
@@ -8419,6 +8422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Eminence | 217478 | [217478-grey-eminence.json](./217478-grey-eminence.json) |
 | Grey Eyes of Death | 199308 | [199308-grey-eyes-of-death.json](./199308-grey-eyes-of-death.json) |
 | Grey Galactic | 236950 | [236950-grey-galactic.json](./236950-grey-galactic.json) |
+| Grey Goo | 8232 | [8232-grey-goo.json](./8232-grey-goo.json) |
 | Grey Goo Definitive Edition | 54057 | [54057-grey-goo-definitive-edition.json](./54057-grey-goo-definitive-edition.json) |
 | Grey Goo: Emergence | 21731 | [21731-grey-goo-emergence.json](./21731-grey-goo-emergence.json) |
 | Grey Hack | 81273 | [81273-grey-hack.json](./81273-grey-hack.json) |
@@ -10208,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
 | Gunman | 172650 | [172650-gunman.json](./172650-gunman.json) |
+| Gunman Clive | 8599 | [8599-gunman-clive.json](./8599-gunman-clive.json) |
 | Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
 | Gunman Clive Game Boy Edition | 194831 | [194831-gunman-clive-game-boy-edition.json](./194831-gunman-clive-game-boy-edition.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
