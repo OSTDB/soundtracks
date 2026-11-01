@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandume Monsters Parfait | 228572 | [228572-kandume-monsters-parfait.json](./228572-kandume-monsters-parfait.json) |
 | Kandyland | 261742 | [261742-kandyland.json](./261742-kandyland.json) |
 | Kane | 18888 | [18888-kane.json](./18888-kane.json) |
+| Kane & Lynch 2: Dog Days | 488 | [488-kane-and-lynch-2-dog-days.json](./488-kane-and-lynch-2-dog-days.json) |
 | Kane & Lynch 2: Dog Days - Multiplayer Masks Pack | 164424 | [164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json](./164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json) |
 | Kane & Lynch 2: Dog Days - The Doggie Bag | 164410 | [164410-kane-and-lynch-2-dog-days-the-doggie-bag.json](./164410-kane-and-lynch-2-dog-days-the-doggie-bag.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
@@ -1093,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katamar1k | 284302 | [284302-katamar1k.json](./284302-katamar1k.json) |
 | Katamari | 284763 | [284763-katamari.json](./284763-katamari.json) |
 | Katamari Amore | 6460 | [6460-katamari-amore.json](./6460-katamari-amore.json) |
+| Katamari Damacy | 6453 | [6453-katamari-damacy.json](./6453-katamari-damacy.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katamari Damacy Reroll | 109458 | [109458-katamari-damacy-reroll.json](./109458-katamari-damacy-reroll.json) |
 | Katamari Damacy Reroll & We Love Katamari Reroll + Royal Reverie | 255503 | [255503-katamari-damacy-reroll-and-we-love-katamari-reroll-royal-reverie.json](./255503-katamari-damacy-reroll-and-we-love-katamari-reroll-royal-reverie.json) |
@@ -2616,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kim Possible: A Sitch in Time - Episode 2: Past | 159200 | [159200-kim-possible-a-sitch-in-time-episode-2-past.json](./159200-kim-possible-a-sitch-in-time-episode-2-past.json) |
 | Kim Possible: A Sitch in Time - Episode 3: Future | 159201 | [159201-kim-possible-a-sitch-in-time-episode-3-future.json](./159201-kim-possible-a-sitch-in-time-episode-3-future.json) |
 | Kim Possible: Bueno Rufus | 159203 | [159203-kim-possible-bueno-rufus.json](./159203-kim-possible-bueno-rufus.json) |
+| Kim Possible: Legend of the Monkey's Eye | 8153 | [8153-kim-possible-legend-of-the-monkeys-eye.json](./8153-kim-possible-legend-of-the-monkeys-eye.json) |
 | Kim Shooter | 116319 | [116319-kim-shooter.json](./116319-kim-shooter.json) |
 | Kimagure Orange Road: Natsu no Mirage | 91765 | [91765-kimagure-orange-road-natsu-no-mirage.json](./91765-kimagure-orange-road-natsu-no-mirage.json) |
 | Kimagure Strawberry Café | 203323 | [203323-kimagure-strawberry-cafe.json](./203323-kimagure-strawberry-cafe.json) |
@@ -2632,7 +2635,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2782,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
 | Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
 | Kinetic: Break All Limits | 236730 | [236730-kinetic-break-all-limits.json](./236730-kinetic-break-all-limits.json) |
+| Kinetica | 8236 | [8236-kinetica.json](./8236-kinetica.json) |
 | Kinetika | 419204 | [419204-kinetika.json](./419204-kinetika.json) |
 | Kinetiks | 410072 | [410072-kinetiks.json](./410072-kinetiks.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
@@ -2795,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King and Kingdoms | 149687 | [149687-king-and-kingdoms.json](./149687-king-and-kingdoms.json) |
 | King Arthur | 3967 | [3967-king-arthur.json](./3967-king-arthur.json) |
 | King Arthur | 78534 | [78534-king-arthur.json](./78534-king-arthur.json) |
+| King Arthur & the Knights of Justice | 8142 | [8142-king-arthur-and-the-knights-of-justice.json](./8142-king-arthur-and-the-knights-of-justice.json) |
 | King Arthur Collection | 51847 | [51847-king-arthur-collection.json](./51847-king-arthur-collection.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur II: The Role-Playing Wargame | 7586 | [7586-king-arthur-ii-the-role-playing-wargame.json](./7586-king-arthur-ii-the-role-playing-wargame.json) |
@@ -3572,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Speed Eaters | 229620 | [229620-kirby-speed-eaters.json](./229620-kirby-speed-eaters.json) |
 | Kirby Star Allies | 37137 | [37137-kirby-star-allies.json](./37137-kirby-star-allies.json) |
 | Kirby Street | 330879 | [330879-kirby-street.json](./330879-kirby-street.json) |
+| Kirby Super Star | 3719 | [3719-kirby-super-star.json](./3719-kirby-super-star.json) |
 | Kirby Super Star Ultra | 2647 | [2647-kirby-super-star-ultra.json](./2647-kirby-super-star-ultra.json) |
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
 | Kirby Tilt 'n' Tumble | 3729 | [3729-kirby-tilt-n-tumble.json](./3729-kirby-tilt-n-tumble.json) |
