@@ -4852,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
 | Sekiro: Long May the Shadows Reflect | 290294 | [290294-sekiro-long-may-the-shadows-reflect.json](./290294-sekiro-long-may-the-shadows-reflect.json) |
 | Sekiro: Shadows Die Twice - Collector's Edition | 103282 | [103282-sekiro-shadows-die-twice-collectors-edition.json](./103282-sekiro-shadows-die-twice-collectors-edition.json) |
+| Sekiro: Shadows Die Twice - Game of the Year Edition | 164664 | [164664-sekiro-shadows-die-twice-game-of-the-year-edition.json](./164664-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
@@ -8748,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Pocket Dungeon - Paradox Pack DLC | 305756 | [305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json](./305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json) |
 | Shovel Knight: Pocket Dungeon - Puzzler's Pack DLC | 246405 | [246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json](./246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json) |
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
+| Shovel Knight: Specter of Torment | 23910 | [23910-shovel-knight-specter-of-torment.json](./23910-shovel-knight-specter-of-torment.json) |
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
 | Shovel Software Insurance Claim | 213809 | [213809-shovel-software-insurance-claim.json](./213809-shovel-software-insurance-claim.json) |
 | Shovelboy | 246789 | [246789-shovelboy.json](./246789-shovelboy.json) |
@@ -10333,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | SimTown | 213291 | [213291-simtown.json](./213291-simtown.json) |
 | SimTunes | 74020 | [74020-simtunes.json](./74020-simtunes.json) |
+| Simulacra | 74378 | [74378-simulacra.json](./74378-simulacra.json) |
 | Simulacra 3 | 198859 | [198859-simulacra-3.json](./198859-simulacra-3.json) |
 | Simulacra 3: Deluxe Edition | 350907 | [350907-simulacra-3-deluxe-edition.json](./350907-simulacra-3-deluxe-edition.json) |
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
@@ -28855,6 +28858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
 | Super Hamster Havoc | 197197 | [197197-super-hamster-havoc.json](./197197-super-hamster-havoc.json) |
 | Super Hamsterball Racers | 185510 | [185510-super-hamsterball-racers.json](./185510-super-hamsterball-racers.json) |
+| Super Hang-On | 6145 | [6145-super-hang-on.json](./6145-super-hang-on.json) |
 | Super Hangman | 310073 | [310073-super-hangman.json](./310073-super-hangman.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Bundle | 317681 | [317681-super-hard-bundle.json](./317681-super-hard-bundle.json) |
