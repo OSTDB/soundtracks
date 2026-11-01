@@ -4375,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Dancing: Endless Night Collection | 106988 | [106988-persona-dancing-endless-night-collection.json](./106988-persona-dancing-endless-night-collection.json) |
 | Persona Q: Shadow of the Labyrinth | 6887 | [6887-persona-q-shadow-of-the-labyrinth.json](./6887-persona-q-shadow-of-the-labyrinth.json) |
 | Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
+| Persona Q2: New Cinema Labyrinth | 54220 | [54220-persona-q2-new-cinema-labyrinth.json](./54220-persona-q2-new-cinema-labyrinth.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
 | Persona5: The Phantom X - The Revenge Fox | 412804 | [412804-persona5-the-phantom-x-the-revenge-fox.json](./412804-persona5-the-phantom-x-the-revenge-fox.json) |
