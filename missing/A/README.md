@@ -15064,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback Portable | 219380 | [219380-atari-flashback-portable.json](./219380-atari-flashback-portable.json) |
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
 | Atari Flashback X | 276033 | [276033-atari-flashback-x.json](./276033-atari-flashback-x.json) |
+| Atari Football | 16760 | [16760-atari-football.json](./16760-atari-football.json) |
 | Atari Gamestation Pro | 270591 | [270591-atari-gamestation-pro.json](./270591-atari-gamestation-pro.json) |
 | Atari Greatest Hits Volume 1 | 18437 | [18437-atari-greatest-hits-volume-1.json](./18437-atari-greatest-hits-volume-1.json) |
 | Atari Greatest Hits: Volume 2 | 61729 | [61729-atari-greatest-hits-volume-2.json](./61729-atari-greatest-hits-volume-2.json) |
@@ -16167,6 +16168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avadon 3: The Warborn | 23241 | [23241-avadon-3-the-warborn.json](./23241-avadon-3-the-warborn.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
 | Avadon: The Black Fortress | 7407 | [7407-avadon-the-black-fortress.json](./7407-avadon-the-black-fortress.json) |
+| Avakin Life | 16756 | [16756-avakin-life.json](./16756-avakin-life.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalan | 416943 | [416943-avalan.json](./416943-avalan.json) |
 | Avalanche | 228674 | [228674-avalanche.json](./228674-avalanche.json) |
