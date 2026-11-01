@@ -10583,6 +10583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey Back | 34708 | [34708-the-journey-back.json](./34708-the-journey-back.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey Down: Chapter Three | 15911 | [15911-the-journey-down-chapter-three.json](./15911-the-journey-down-chapter-three.json) |
+| The Journey Down: Chapter Two | 10973 | [10973-the-journey-down-chapter-two.json](./10973-the-journey-down-chapter-two.json) |
 | The Journey East and West | 360686 | [360686-the-journey-east-and-west.json](./360686-the-journey-east-and-west.json) |
 | The Journey Home | 178529 | [178529-the-journey-home.json](./178529-the-journey-home.json) |
 | The Journey Home | 267299 | [267299-the-journey-home.json](./267299-the-journey-home.json) |
@@ -12334,6 +12335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost City of Atlantis | 14476 | [14476-the-lost-city-of-atlantis.json](./14476-the-lost-city-of-atlantis.json) |
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
+| The Lost Crown | 11621 | [11621-the-lost-crown.json](./11621-the-lost-crown.json) |
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
 | The Lost Crucible | 350783 | [350783-the-lost-crucible.json](./350783-the-lost-crucible.json) |
 | The Lost Cube | 144147 | [144147-the-lost-cube.json](./144147-the-lost-cube.json) |
@@ -12512,6 +12514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mageseeker: A League of Legends Story - Deluxe Edition | 241042 | [241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json](./241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json) |
 | The Magic Candle | 235346 | [235346-the-magic-candle.json](./235346-the-magic-candle.json) |
 | The Magic Candle III | 70948 | [70948-the-magic-candle-iii.json](./70948-the-magic-candle-iii.json) |
+| The Magic Circle | 17847 | [17847-the-magic-circle.json](./17847-the-magic-circle.json) |
 | The Magic Circle: Gold Edition | 99755 | [99755-the-magic-circle-gold-edition.json](./99755-the-magic-circle-gold-edition.json) |
 | The Magic Cooking Pot | 260824 | [260824-the-magic-cooking-pot.json](./260824-the-magic-cooking-pot.json) |
 | The Magic Elevator | 148810 | [148810-the-magic-elevator.json](./148810-the-magic-elevator.json) |
@@ -17598,6 +17601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild | 64971 | [64971-the-wild.json](./64971-the-wild.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
+| The Wild Eight | 17479 | [17479-the-wild-eight.json](./17479-the-wild-eight.json) |
 | The Wild Eternal | 20991 | [20991-the-wild-eternal.json](./20991-the-wild-eternal.json) |
 | The Wild Life - The Game | 106874 | [106874-the-wild-life-the-game.json](./106874-the-wild-life-the-game.json) |
 | The Wild Science Arcade | 72038 | [72038-the-wild-science-arcade.json](./72038-the-wild-science-arcade.json) |
@@ -21317,6 +21321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Over | 368658 | [368658-time-over.json](./368658-time-over.json) |
 | Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
 | Time Patrol | 165171 | [165171-time-patrol.json](./165171-time-patrol.json) |
+| Time Pilot | 10273 | [10273-time-pilot.json](./10273-time-pilot.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot 84 | 40008 | [40008-time-pilot-84.json](./40008-time-pilot-84.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
@@ -28137,6 +28142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 79649 | [79649-treasure-island.json](./79649-treasure-island.json) |
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
+| Treasure Island Dizzy | 11687 | [11687-treasure-island-dizzy.json](./11687-treasure-island-dizzy.json) |
 | Treasure Island: The Gold Bag | 210210 | [210210-treasure-island-the-gold-bag.json](./210210-treasure-island-the-gold-bag.json) |
 | Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
 | Treasure Islands | 144727 | [144727-treasure-islands.json](./144727-treasure-islands.json) |
