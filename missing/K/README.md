@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Pop VR | 76441 | [76441-k-pop-vr.json](./76441-k-pop-vr.json) |
 | K-Pop! | 309741 | [309741-k-pop.json](./309741-k-pop.json) |
 | K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
+| K-Razy Shoot-Out | 18755 | [18755-k-razy-shoot-out.json](./18755-k-razy-shoot-out.json) |
 | K-Shoot Mania | 59775 | [59775-k-shoot-mania.json](./59775-k-shoot-mania.json) |
 | K-Star Patrol | 23339 | [23339-k-star-patrol.json](./23339-k-star-patrol.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K. Hawk: Survival Instinct | 93199 | [93199-k-hawk-survival-instinct.json](./93199-k-hawk-survival-instinct.json) |
 | K.C. Munchkin! | 18738 | [18738-k-c-munchkin.json](./18738-k-c-munchkin.json) |
 | K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
+| K.C.'s Krazy Chase! | 18768 | [18768-k-c-s-krazy-chase.json](./18768-k-c-s-krazy-chase.json) |
 | K.H.L.E.E | 410434 | [410434-k-h-l-e-e.json](./410434-k-h-l-e-e.json) |
 | K.I.A | 247705 | [247705-k-i-a.json](./247705-k-i-a.json) |
 | K.I.N.G. | 387930 | [387930-k-i-n-g.json](./387930-k-i-n-g.json) |
@@ -1458,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper | 348217 | [348217-keeper.json](./348217-keeper.json) |
 | Keeper | 91388 | [91388-keeper.json](./91388-keeper.json) |
 | Keeper 2119 | 121984 | [121984-keeper-2119.json](./121984-keeper-2119.json) |
+| Keeper and The Soldier | 18774 | [18774-keeper-and-the-soldier.json](./18774-keeper-and-the-soldier.json) |
 | Keeper of the Grove 2 | 102015 | [102015-keeper-of-the-grove-2.json](./102015-keeper-of-the-grove-2.json) |
 | Keeper of the Grove 3 | 219764 | [219764-keeper-of-the-grove-3.json](./219764-keeper-of-the-grove-3.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
