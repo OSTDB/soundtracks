@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Second Haircuts | 152274 | [152274-7-second-haircuts.json](./152274-7-second-haircuts.json) |
 | 7 Servant's Blade | 372679 | [372679-7-servants-blade.json](./372679-7-servants-blade.json) |
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
+| 7 Sins | 19805 | [19805-7-sins.json](./19805-7-sins.json) |
 | 7 Sins: Lost in Labyrinth | 236243 | [236243-7-sins-lost-in-labyrinth.json](./236243-7-sins-lost-in-labyrinth.json) |
 | 7 Soccer: a sci-fi soccer tale | 88178 | [88178-7-soccer-a-sci-fi-soccer-tale.json](./88178-7-soccer-a-sci-fi-soccer-tale.json) |
 | 7 Souls | 147320 | [147320-7-souls.json](./147320-7-souls.json) |
