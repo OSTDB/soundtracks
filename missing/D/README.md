@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daring Dungeoneer | 143257 | [143257-daring-dungeoneer.json](./143257-daring-dungeoneer.json) |
 | Daris Venture | 266348 | [266348-daris-venture.json](./266348-daris-venture.json) |
 | Darius | 6789 | [6789-darius.json](./6789-darius.json) |
+| Darius Alpha | 38075 | [38075-darius-alpha.json](./38075-darius-alpha.json) |
 | Darius Cozmic Collection | 104778 | [104778-darius-cozmic-collection.json](./104778-darius-cozmic-collection.json) |
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
 | Darius Cozmic Collection: Consumer Edition | 218594 | [218594-darius-cozmic-collection-consumer-edition.json](./218594-darius-cozmic-collection-consumer-edition.json) |
@@ -1184,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Revelation: Special Limited Edition | 167082 | [167082-darius-cozmic-revelation-special-limited-edition.json](./167082-darius-cozmic-revelation-special-limited-edition.json) |
 | Darius Gaiden | 6788 | [6788-darius-gaiden.json](./6788-darius-gaiden.json) |
 | Darius Maker | 294786 | [294786-darius-maker.json](./294786-darius-maker.json) |
+| Darius Plus | 38078 | [38078-darius-plus.json](./38078-darius-plus.json) |
 | Darius R | 49277 | [49277-darius-r.json](./49277-darius-r.json) |
 | Darius the Janitor: A Christmas Story | 376502 | [376502-darius-the-janitor-a-christmas-story.json](./376502-darius-the-janitor-a-christmas-story.json) |
 | Darius the Mailman | 294799 | [294799-darius-the-mailman.json](./294799-darius-the-mailman.json) |
@@ -4576,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deception | 171413 | [171413-deception.json](./171413-deception.json) |
 | Deception | 215542 | [215542-deception.json](./215542-deception.json) |
 | Deception IV: The Nightmare Princess | 44650 | [44650-deception-iv-the-nightmare-princess.json](./44650-deception-iv-the-nightmare-princess.json) |
+| Deceptor | 38033 | [38033-deceptor.json](./38033-deceptor.json) |
 | Deceptus | 220011 | [220011-deceptus.json](./220011-deceptus.json) |
 | Deceptus Map Pack + Bonus Items | 230934 | [230934-deceptus-map-pack-bonus-items.json](./230934-deceptus-map-pack-bonus-items.json) |
 | Decide 4 God | 173046 | [173046-decide-4-god.json](./173046-decide-4-god.json) |
@@ -10223,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy: Crash Edition | 45241 | [45241-dizzy-crash-edition.json](./45241-dizzy-crash-edition.json) |
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
 | Dizzy: The Ultimate Cartoon Adventure | 12357 | [12357-dizzy-the-ultimate-cartoon-adventure.json](./12357-dizzy-the-ultimate-cartoon-adventure.json) |
+| Dizzy's Excellent Adventures | 38052 | [38052-dizzys-excellent-adventures.json](./38052-dizzys-excellent-adventures.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | Dj 8 Beats: Infinite | 303480 | [303480-dj-8-beats-infinite.json](./303480-dj-8-beats-infinite.json) |
 | DJ Beats: Waifus | 186237 | [186237-dj-beats-waifus.json](./186237-dj-beats-waifus.json) |
@@ -12399,6 +12403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
 | Doraemon: Nobita no Daimakyou | 349416 | [349416-doraemon-nobita-no-daimakyou.json](./349416-doraemon-nobita-no-daimakyou.json) |
 | Doraemon: Nobita no Doki-doki! Obake Land | 231512 | [231512-doraemon-nobita-no-doki-doki-obake-land.json](./231512-doraemon-nobita-no-doki-doki-obake-land.json) |
+| Doraemon: Nobita no Dorabian Night | 38077 | [38077-doraemon-nobita-no-dorabian-night.json](./38077-doraemon-nobita-no-dorabian-night.json) |
 | Doraemon: Nobita no Dorayaki Ya-san | 349423 | [349423-doraemon-nobita-no-dorayaki-ya-san.json](./349423-doraemon-nobita-no-dorayaki-ya-san.json) |
 | Doraemon: Nobita no Getsumen Tansa-ki | 112091 | [112091-doraemon-nobita-no-getsumen-tansa-ki.json](./112091-doraemon-nobita-no-getsumen-tansa-ki.json) |
 | Doraemon: Nobita no Himitsu Dougu Hakubutsukan | 60544 | [60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json](./60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json) |
