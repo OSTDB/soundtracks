@@ -6318,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chevalier Historie | 156907 | [156907-chevalier-historie.json](./156907-chevalier-historie.json) |
 | Chevalier Historie: Append | 219997 | [219997-chevalier-historie-append.json](./219997-chevalier-historie-append.json) |
 | Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
+| Chevrolet Camaro: Wild Ride | 50943 | [50943-chevrolet-camaro-wild-ride.json](./50943-chevrolet-camaro-wild-ride.json) |
 | Chew Chew Mimic | 281006 | [281006-chew-chew-mimic.json](./281006-chew-chew-mimic.json) |
 | Chew Your Food | 395886 | [395886-chew-your-food.json](./395886-chew-your-food.json) |
 | Chewbrick | 99147 | [99147-chewbrick.json](./99147-chewbrick.json) |
@@ -7821,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck E. Cheese's Alien Defense Force | 55890 | [55890-chuck-e-cheeses-alien-defense-force.json](./55890-chuck-e-cheeses-alien-defense-force.json) |
 | Chuck E. Cheese's Arcade Room | 65324 | [65324-chuck-e-cheeses-arcade-room.json](./65324-chuck-e-cheeses-arcade-room.json) |
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
+| Chuck E. Cheese's Party Games | 50933 | [50933-chuck-e-cheeses-party-games.json](./50933-chuck-e-cheeses-party-games.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
 | Chuck E. Cheese's Sports Games | 51043 | [51043-chuck-e-cheeses-sports-games.json](./51043-chuck-e-cheeses-sports-games.json) |
@@ -10143,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Kart Online | 248487 | [248487-cocoto-kart-online.json](./248487-cocoto-kart-online.json) |
 | Cocoto Kart Racer | 248485 | [248485-cocoto-kart-racer.json](./248485-cocoto-kart-racer.json) |
 | Cocoto Kart Racer | 248486 | [248486-cocoto-kart-racer.json](./248486-cocoto-kart-racer.json) |
+| Cocoto Kart Racer 2 | 50942 | [50942-cocoto-kart-racer-2.json](./50942-cocoto-kart-racer-2.json) |
 | Cocoto Kit For Kids | 77122 | [77122-cocoto-kit-for-kids.json](./77122-cocoto-kit-for-kids.json) |
 | Cocoto Magic Circus | 3859 | [3859-cocoto-magic-circus.json](./3859-cocoto-magic-circus.json) |
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
@@ -12954,6 +12957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook or Be Cooked | 361825 | [361825-cook-or-be-cooked.json](./361825-cook-or-be-cooked.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook Serve Forever | 198021 | [198021-cook-serve-forever.json](./198021-cook-serve-forever.json) |
+| Cook Wars | 50941 | [50941-cook-wars.json](./50941-cook-wars.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
 | Cook-Off Party | 50688 | [50688-cook-off-party.json](./50688-cook-off-party.json) |
@@ -14138,6 +14142,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Bumpkin Yutaka | 244159 | [244159-country-bumpkin-yutaka.json](./244159-country-bumpkin-yutaka.json) |
 | Country Champs | 211903 | [211903-country-champs.json](./211903-country-champs.json) |
 | Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
+| Country Dance | 50930 | [50930-country-dance.json](./50930-country-dance.json) |
+| Country Dance 2 | 50927 | [50927-country-dance-2.json](./50927-country-dance-2.json) |
 | Country Dance All Stars | 20214 | [20214-country-dance-all-stars.json](./20214-country-dance-all-stars.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
 | Country Desert Simulator | 114084 | [114084-country-desert-simulator.json](./114084-country-desert-simulator.json) |
@@ -18706,6 +18712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
 | Cyberbig | 13539 | [13539-cyberbig.json](./13539-cyberbig.json) |
+| Cyberbike | 50967 | [50967-cyberbike.json](./50967-cyberbike.json) |
 | Cyberbike 2 | 65423 | [65423-cyberbike-2.json](./65423-cyberbike-2.json) |
 | Cyberblock Metal Orange | 232631 | [232631-cyberblock-metal-orange.json](./232631-cyberblock-metal-orange.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
