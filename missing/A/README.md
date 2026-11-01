@@ -7298,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
 | Altered Beast | 19411 | [19411-altered-beast.json](./19411-altered-beast.json) |
 | Altered Beast | 200151 | [200151-altered-beast.json](./200151-altered-beast.json) |
+| Altered Beast | 202939 | [202939-altered-beast.json](./202939-altered-beast.json) |
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
 | Altered Beast | 2604 | [2604-altered-beast.json](./2604-altered-beast.json) |
 | Altered Beast: Guardian of the Realms | 49193 | [49193-altered-beast-guardian-of-the-realms.json](./49193-altered-beast-guardian-of-the-realms.json) |
@@ -15426,6 +15427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom Grrrl!! | 33781 | [33781-atom-grrrl.json](./33781-atom-grrrl.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
+| Atom RPG | 28160 | [28160-atom-rpg.json](./28160-atom-rpg.json) |
 | Atom RPG: Trudograd - War Supply Pack | 224437 | [224437-atom-rpg-trudograd-war-supply-pack.json](./224437-atom-rpg-trudograd-war-supply-pack.json) |
 | Atom RPG: Trudograd Deluxe Edition | 227181 | [227181-atom-rpg-trudograd-deluxe-edition.json](./227181-atom-rpg-trudograd-deluxe-edition.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
