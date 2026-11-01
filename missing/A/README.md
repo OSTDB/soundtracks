@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acroball | 97254 | [97254-acroball.json](./97254-acroball.json) |
 | Acrobat Mission | 46770 | [46770-acrobat-mission.json](./46770-acrobat-mission.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
+| Acrobatic Dog-Fight | 39971 | [39971-acrobatic-dog-fight.json](./39971-acrobatic-dog-fight.json) |
 | AcroChallenge | 367506 | [367506-acrochallenge.json](./367506-acrochallenge.json) |
 | Acrodog | 185023 | [185023-acrodog.json](./185023-acrodog.json) |
 | Acrodrift: FPV Drone Simulator | 346501 | [346501-acrodrift-fpv-drone-simulator.json](./346501-acrodrift-fpv-drone-simulator.json) |
@@ -10894,6 +10895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
 | Aqua Glide | 334853 | [334853-aqua-glide.json](./334853-aqua-glide.json) |
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
+| Aqua Jet | 39931 | [39931-aqua-jet.json](./39931-aqua-jet.json) |
 | Aqua Jewel | 233727 | [233727-aqua-jewel.json](./233727-aqua-jewel.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
@@ -14077,6 +14079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assassinvisible | 378604 | [378604-assassinvisible.json](./378604-assassinvisible.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
+| Assault | 39985 | [39985-assault.json](./39985-assault.json) |
 | Assault | 6881 | [6881-assault.json](./6881-assault.json) |
 | Assault Android Cactus | 8644 | [8644-assault-android-cactus.json](./8644-assault-android-cactus.json) |
 | Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
