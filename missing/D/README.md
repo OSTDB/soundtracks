@@ -5034,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Space Solitude | 369692 | [369692-deep-space-solitude.json](./369692-deep-space-solitude.json) |
 | Deep Space Tavern | 270012 | [270012-deep-space-tavern.json](./270012-deep-space-tavern.json) |
+| Deep Space Waifu | 36977 | [36977-deep-space-waifu.json](./36977-deep-space-waifu.json) |
 | Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
 | Deep Space Waifu: Flat Justice | 77086 | [77086-deep-space-waifu-flat-justice.json](./77086-deep-space-waifu-flat-justice.json) |
 | Deep Space Waifu: Legends | 125694 | [125694-deep-space-waifu-legends.json](./125694-deep-space-waifu-legends.json) |
@@ -13672,6 +13673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Advanced Adventure | 6386 | [6386-dragon-ball-advanced-adventure.json](./6386-dragon-ball-advanced-adventure.json) |
 | Dragon Ball: Final Bout | 128863 | [128863-dragon-ball-final-bout.json](./128863-dragon-ball-final-bout.json) |
 | Dragon Ball: Kachinuke! Tenkaichi Budokai | 199448 | [199448-dragon-ball-kachinuke-tenkaichi-budokai.json](./199448-dragon-ball-kachinuke-tenkaichi-budokai.json) |
+| Dragon Ball: Origins | 19308 | [19308-dragon-ball-origins.json](./19308-dragon-ball-origins.json) |
 | Dragon Ball: Origins 2 | 20412 | [20412-dragon-ball-origins-2.json](./20412-dragon-ball-origins-2.json) |
 | Dragon Ball: Pilaf no Gyakushuu | 346785 | [346785-dragon-ball-pilaf-no-gyakushuu.json](./346785-dragon-ball-pilaf-no-gyakushuu.json) |
 | Dragon Ball: Raging Blast | 19310 | [19310-dragon-ball-raging-blast.json](./19310-dragon-ball-raging-blast.json) |
@@ -16714,6 +16716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crasher | 184240 | [184240-dungeon-crasher.json](./184240-dungeon-crasher.json) |
 | Dungeon Crawl | 229226 | [229226-dungeon-crawl.json](./229226-dungeon-crawl.json) |
 | Dungeon Crawl 94: What Was Taken | 419947 | [419947-dungeon-crawl-94-what-was-taken.json](./419947-dungeon-crawl-94-what-was-taken.json) |
+| Dungeon Crawl Stone Soup | 16983 | [16983-dungeon-crawl-stone-soup.json](./16983-dungeon-crawl-stone-soup.json) |
 | Dungeon Crawl Tower Run | 260633 | [260633-dungeon-crawl-tower-run.json](./260633-dungeon-crawl-tower-run.json) |
 | Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
 | Dungeon Crawlers HD | 35642 | [35642-dungeon-crawlers-hd.json](./35642-dungeon-crawlers-hd.json) |
