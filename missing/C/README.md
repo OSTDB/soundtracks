@@ -7213,6 +7213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q Holiday Puzzle | 315437 | [315437-choro-q-holiday-puzzle.json](./315437-choro-q-holiday-puzzle.json) |
 | Choro Q Marine: Q-Boat | 71033 | [71033-choro-q-marine-q-boat.json](./71033-choro-q-marine-q-boat.json) |
 | Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
+| Choro Q Wonderful! | 56189 | [56189-choro-q-wonderful.json](./56189-choro-q-wonderful.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Choro-Q Jet: Rainbow Wings | 43770 | [43770-choro-q-jet-rainbow-wings.json](./43770-choro-q-jet-rainbow-wings.json) |
 | Chorus of the Night | 235395 | [235395-chorus-of-the-night.json](./235395-chorus-of-the-night.json) |
