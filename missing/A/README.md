@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Acceptance | 282737 | [282737-acceptance.json](./282737-acceptance.json) |
+| Access | 59578 | [59578-access.json](./59578-access.json) |
 | Access Acquired | 403332 | [403332-access-acquired.json](./403332-access-acquired.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
+| Acorns Above: A World Gone Nuts | 59574 | [59574-acorns-above-a-world-gone-nuts.json](./59574-acorns-above-a-world-gone-nuts.json) |
 | Acquaint | 379466 | [379466-acquaint.json](./379466-acquaint.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acquiescence | 183862 | [183862-acquiescence.json](./183862-acquiescence.json) |
@@ -2814,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam N Eve 4 | 393320 | [393320-adam-n-eve-4.json](./393320-adam-n-eve-4.json) |
 | Adam Savage's Tested VR | 174554 | [174554-adam-savages-tested-vr.json](./174554-adam-savages-tested-vr.json) |
 | Adam the Storyteller | 157454 | [157454-adam-the-storyteller.json](./157454-adam-the-storyteller.json) |
+| Adam Waste | 59575 | [59575-adam-waste.json](./59575-adam-waste.json) |
 | Adam Wolfe | 26860 | [26860-adam-wolfe.json](./26860-adam-wolfe.json) |
 | Adam: Lost Memories | 121336 | [121336-adam-lost-memories.json](./121336-adam-lost-memories.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
@@ -4805,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Aces | 276117 | [276117-air-aces.json](./276117-air-aces.json) |
 | Air Aces: Pacific | 27450 | [27450-air-aces-pacific.json](./27450-air-aces-pacific.json) |
 | Air Assault 2 | 102719 | [102719-air-assault-2.json](./102719-air-assault-2.json) |
+| Air Assault Task Force | 59589 | [59589-air-assault-task-force.json](./59589-air-assault-task-force.json) |
 | Air Attack | 171370 | [171370-air-attack.json](./171370-air-attack.json) |
 | Air Attack | 38522 | [38522-air-attack.json](./38522-air-attack.json) |
 | Air Attack 2 | 266740 | [266740-air-attack-2.json](./266740-air-attack-2.json) |
@@ -6551,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Alone on a Small Island | 185013 | [185013-all-alone-on-a-small-island.json](./185013-all-alone-on-a-small-island.json) |
 | All Alone with Mannie | 199256 | [199256-all-alone-with-mannie.json](./199256-all-alone-with-mannie.json) |
+| All American: The 82nd Airborne in Normandy | 59585 | [59585-all-american-the-82nd-airborne-in-normandy.json](./59585-all-american-the-82nd-airborne-in-normandy.json) |
 | All Ashes and Illusions | 173825 | [173825-all-ashes-and-illusions.json](./173825-all-ashes-and-illusions.json) |
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
 | All At Once | 361005 | [361005-all-at-once.json](./361005-all-at-once.json) |
@@ -10802,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
+| Approaching Infinity | 59586 | [59586-approaching-infinity.json](./59586-approaching-infinity.json) |
 | Approval | 212597 | [212597-approval.json](./212597-approval.json) |
 | Approximately Up | 377061 | [377061-approximately-up.json](./377061-approximately-up.json) |
 | Appulse | 335232 | [335232-appulse.json](./335232-appulse.json) |
@@ -15136,6 +15142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AteloPhobia:The Story Begins | 201501 | [201501-atelophobia-the-story-begins.json](./201501-atelophobia-the-story-begins.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
 | ATF: Advanced Tactical Fighter | 13344 | [13344-atf-advanced-tactical-fighter.json](./13344-atf-advanced-tactical-fighter.json) |
+| ATF: Armored Task Force | 59564 | [59564-atf-armored-task-force.json](./59564-atf-armored-task-force.json) |
 | Atganga: Spectacle for the Gods | 249071 | [249071-atganga-spectacle-for-the-gods.json](./249071-atganga-spectacle-for-the-gods.json) |
 | Atgtha in Absurdia | 133913 | [133913-atgtha-in-absurdia.json](./133913-atgtha-in-absurdia.json) |
 | Atha: In Search of the Well | 319677 | [319677-atha-in-search-of-the-well.json](./319677-atha-in-search-of-the-well.json) |
