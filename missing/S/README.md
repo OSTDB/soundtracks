@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition | 169175 | [169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json](./169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition | 169174 | [169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json](./169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json) |
 | S.T.A.L.K.E.R. 2: Untitled Expansion 2 | 362031 | [362031-s-t-a-l-k-e-r-2-untitled-expansion-2.json](./362031-s-t-a-l-k-e-r-2-untitled-expansion-2.json) |
+| S.T.A.L.K.E.R. Collection | 24725 | [24725-s-t-a-l-k-e-r-collection.json](./24725-s-t-a-l-k-e-r-collection.json) |
 | S.T.A.L.K.E.R. Complete | 359016 | [359016-s-t-a-l-k-e-r-complete.json](./359016-s-t-a-l-k-e-r-complete.json) |
 | S.T.A.L.K.E.R. H.A.C.R. | 377614 | [377614-s-t-a-l-k-e-r-h-a-c-r.json](./377614-s-t-a-l-k-e-r-h-a-c-r.json) |
 | S.T.A.L.K.E.R. Mobile | 172543 | [172543-s-t-a-l-k-e-r-mobile.json](./172543-s-t-a-l-k-e-r-mobile.json) |
@@ -18554,6 +18555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
 | Space Station Tycoon | 165282 | [165282-space-station-tycoon.json](./165282-space-station-tycoon.json) |
 | Space Station Tycoon | 67751 | [67751-space-station-tycoon.json](./67751-space-station-tycoon.json) |
+| Space Station Zulu | 24647 | [24647-space-station-zulu.json](./24647-space-station-zulu.json) |
 | Space Station: Frontier | 233545 | [233545-space-station-frontier.json](./233545-space-station-frontier.json) |
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Step: Heroes of the Earth | 111554 | [111554-space-step-heroes-of-the-earth.json](./111554-space-step-heroes-of-the-earth.json) |
@@ -18592,6 +18594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
 | Space Tales | 259033 | [259033-space-tales.json](./259033-space-tales.json) |
 | Space Tanks | 214453 | [214453-space-tanks.json](./214453-space-tanks.json) |
+| Space Taxi | 24510 | [24510-space-taxi.json](./24510-space-taxi.json) |
 | Space Tek | 189057 | [189057-space-tek.json](./189057-space-tek.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
