@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas Menagerie | 250167 | [250167-canvas-menagerie.json](./250167-canvas-menagerie.json) |
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
+| Canvas Quest | 44290 | [44290-canvas-quest.json](./44290-canvas-quest.json) |
 | Canvas Street | 347904 | [347904-canvas-street.json](./347904-canvas-street.json) |
 | Canvas the Gallery | 29515 | [29515-canvas-the-gallery.json](./29515-canvas-the-gallery.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
