@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Shark: ABC Phonics | 207236 | [207236-baby-shark-abc-phonics.json](./207236-baby-shark-abc-phonics.json) |
 | Baby Snow and the Shards of Tiger's Bane | 392244 | [392244-baby-snow-and-the-shards-of-tigers-bane.json](./392244-baby-snow-and-the-shards-of-tigers-bane.json) |
 | Baby Steps | 252502 | [252502-baby-steps.json](./252502-baby-steps.json) |
+| Baby T-Rex | 49071 | [49071-baby-t-rex.json](./49071-baby-t-rex.json) |
 | Baby Tiger Care: My Cute Virtual Pet Friend | 105840 | [105840-baby-tiger-care-my-cute-virtual-pet-friend.json](./105840-baby-tiger-care-my-cute-virtual-pet-friend.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
@@ -880,7 +881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7152,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Island Challenge | 169817 | [169817-bikini-island-challenge.json](./169817-bikini-island-challenge.json) |
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
 | Bikini Tits | 192765 | [192765-bikini-tits.json](./192765-bikini-tits.json) |
+| Bikkuri Nekketsu Shinkiroku: Dokodemo Kin Medal | 49108 | [49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json](./49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json) |
 | Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1 | 65561 | [65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json](./65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json) |
 | Bikkuri Pro Wrestling | 264252 | [264252-bikkuri-pro-wrestling.json](./264252-bikkuri-pro-wrestling.json) |
 | Bikkuriman 2000 Kamereon Zantei no Inbou | 376733 | [376733-bikkuriman-2000-kamereon-zantei-no-inbou.json](./376733-bikkuriman-2000-kamereon-zantei-no-inbou.json) |
@@ -8266,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
 | Black Fist Ninja Run Challenge | 175576 | [175576-black-fist-ninja-run-challenge.json](./175576-black-fist-ninja-run-challenge.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
+| Black Forest Tale | 49098 | [49098-black-forest-tale.json](./49098-black-forest-tale.json) |
 | Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
 | Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
@@ -9644,6 +9646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
 | Block Koala | 318468 | [318468-block-koala.json](./318468-block-koala.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
+| Block Kuzushi GB | 49069 | [49069-block-kuzushi-gb.json](./49069-block-kuzushi-gb.json) |
 | Block Kuzushi Kowashite Help! | 286362 | [286362-block-kuzushi-kowashite-help.json](./286362-block-kuzushi-kowashite-help.json) |
 | Block Kuzushi: Deden no Gyakushuu | 286361 | [286361-block-kuzushi-deden-no-gyakushuu.json](./286361-block-kuzushi-deden-no-gyakushuu.json) |
 | Block Legend | 38801 | [38801-block-legend.json](./38801-block-legend.json) |
@@ -11604,6 +11607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman for Gree | 198192 | [198192-bomberman-for-gree.json](./198192-bomberman-for-gree.json) |
 | Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
 | Bomberman GB | 7793 | [7793-bomberman-gb.json](./7793-bomberman-gb.json) |
+| Bomberman GB 3 | 49081 | [49081-bomberman-gb-3.json](./49081-bomberman-gb-3.json) |
 | Bomberman Generation | 3832 | [3832-bomberman-generation.json](./3832-bomberman-generation.json) |
 | Bomberman Hardball | 45295 | [45295-bomberman-hardball.json](./45295-bomberman-hardball.json) |
 | Bomberman Hero | 3453 | [3453-bomberman-hero.json](./3453-bomberman-hero.json) |
@@ -11908,6 +11912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobserman | 104950 | [104950-boobserman.json](./104950-boobserman.json) |
 | Boobsle | 284269 | [284269-boobsle.json](./284269-boobsle.json) |
 | Booby and the Booby Trap | 121279 | [121279-booby-and-the-booby-trap.json](./121279-booby-and-the-booby-trap.json) |
+| Booby Boys | 49068 | [49068-booby-boys.json](./49068-booby-boys.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | BoobyRogue: Tumor Takedown | 373295 | [373295-boobyrogue-tumor-takedown.json](./373295-boobyrogue-tumor-takedown.json) |
 | Boodunnit | 143556 | [143556-boodunnit.json](./143556-boodunnit.json) |
@@ -15551,6 +15556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
 | Bugs Bunny Birthday Bash | 283812 | [283812-bugs-bunny-birthday-bash.json](./283812-bugs-bunny-birthday-bash.json) |
+| Bugs Bunny Collection | 49097 | [49097-bugs-bunny-collection.json](./49097-bugs-bunny-collection.json) |
 | Bugs Bunny in Crazy Castle 4 | 8724 | [8724-bugs-bunny-in-crazy-castle-4.json](./8724-bugs-bunny-in-crazy-castle-4.json) |
 | Bugs Bunny in Double Trouble | 368888 | [368888-bugs-bunny-in-double-trouble.json](./368888-bugs-bunny-in-double-trouble.json) |
 | Bugs Bunny: Crazy Castle 3 | 8723 | [8723-bugs-bunny-crazy-castle-3.json](./8723-bugs-bunny-crazy-castle-3.json) |
@@ -16392,6 +16398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Out | 306920 | [306920-burning-out.json](./306920-burning-out.json) |
+| Burning Paper | 49096 | [49096-burning-paper.json](./49096-burning-paper.json) |
 | Burning Point | 130538 | [130538-burning-point.json](./130538-burning-point.json) |
 | Burning Post II | 56191 | [56191-burning-post-ii.json](./56191-burning-post-ii.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
