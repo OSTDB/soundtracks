@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
 | D-Day | 176108 | [176108-d-day.json](./176108-d-day.json) |
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
+| D-Day | 32367 | [32367-d-day.json](./32367-d-day.json) |
 | D-Day | 410295 | [410295-d-day.json](./410295-d-day.json) |
 | D-Day Invasions | 293836 | [293836-d-day-invasions.json](./293836-d-day-invasions.json) |
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
