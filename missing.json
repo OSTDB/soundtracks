@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-01T07:36:13.275Z",
-  "total_missing": 292406,
+  "generated_at": "2026-11-01T07:48:56.124Z",
+  "total_missing": 292456,
   "games": [
     {
       "igdb_id": 191680,
@@ -25807,6 +25807,11 @@
       "file": "missing/A/91558-absolute-solitaire-and-patience.json"
     },
     {
+      "igdb_id": 42997,
+      "game_name": "Absolute Supercars",
+      "file": "missing/A/42997-absolute-supercars.json"
+    },
+    {
       "igdb_id": 151385,
       "game_name": "Absolute Tactics: Daughters of Mercy",
       "file": "missing/A/151385-absolute-tactics-daughters-of-mercy.json"
@@ -36795,6 +36800,16 @@
       "igdb_id": 17620,
       "game_name": "Agarest: Generations of War 2",
       "file": "missing/A/17620-agarest-generations-of-war-2.json"
+    },
+    {
+      "igdb_id": 42991,
+      "game_name": "Agarest: Generations of War 2 - Collector's Edition",
+      "file": "missing/A/42991-agarest-generations-of-war-2-collectors-edition.json"
+    },
+    {
+      "igdb_id": 42990,
+      "game_name": "Agarest: Generations of War Zero - Collector's Edition",
+      "file": "missing/A/42990-agarest-generations-of-war-zero-collectors-edition.json"
     },
     {
       "igdb_id": 329413,
@@ -85952,6 +85967,11 @@
       "file": "missing/A/99952-assassins-creed-iii-ultimate-edition.json"
     },
     {
+      "igdb_id": 42983,
+      "game_name": "Assassin's Creed III: Washington Edition",
+      "file": "missing/A/42983-assassins-creed-iii-washington-edition.json"
+    },
+    {
       "igdb_id": 154791,
       "game_name": "Assassin's Creed Infinity",
       "file": "missing/A/154791-assassins-creed-infinity.json"
@@ -86400,6 +86420,11 @@
       "igdb_id": 3775,
       "game_name": "Assassin's Creed: Freedom Cry",
       "file": "missing/A/3775-assassins-creed-freedom-cry.json"
+    },
+    {
+      "igdb_id": 43015,
+      "game_name": "Assassin's Creed: Heritage Collection",
+      "file": "missing/A/43015-assassins-creed-heritage-collection.json"
     },
     {
       "igdb_id": 20864,
@@ -115867,6 +115892,11 @@
       "file": "missing/B/240941-batman-arkham-asylum.json"
     },
     {
+      "igdb_id": 43018,
+      "game_name": "Batman: Arkham Asylum - Collector's Edition",
+      "file": "missing/B/43018-batman-arkham-asylum-collectors-edition.json"
+    },
+    {
       "igdb_id": 27862,
       "game_name": "Batman: Arkham Asylum - Game of the Year Edition",
       "file": "missing/B/27862-batman-arkham-asylum-game-of-the-year-edition.json"
@@ -115900,6 +115930,11 @@
       "igdb_id": 75544,
       "game_name": "Batman: Arkham City - Challenge Map Pack",
       "file": "missing/B/75544-batman-arkham-city-challenge-map-pack.json"
+    },
+    {
+      "igdb_id": 43019,
+      "game_name": "Batman: Arkham City - Collector's Edition",
+      "file": "missing/B/43019-batman-arkham-city-collectors-edition.json"
     },
     {
       "igdb_id": 21704,
@@ -116050,6 +116085,11 @@
       "igdb_id": 10028,
       "game_name": "Batman: Arkham Origins - Cold, Cold Heart",
       "file": "missing/B/10028-batman-arkham-origins-cold-cold-heart.json"
+    },
+    {
+      "igdb_id": 43020,
+      "game_name": "Batman: Arkham Origins - Collector's Edition",
+      "file": "missing/B/43020-batman-arkham-origins-collectors-edition.json"
     },
     {
       "igdb_id": 75535,
@@ -133487,6 +133527,11 @@
       "file": "missing/B/108901-beyond-the-static.json"
     },
     {
+      "igdb_id": 42998,
+      "game_name": "Beyond: Two Souls - Special Edition",
+      "file": "missing/B/42998-beyond-two-souls-special-edition.json"
+    },
+    {
       "igdb_id": 316733,
       "game_name": "Beyond.Frontiers",
       "file": "missing/B/316733-beyond-frontiers.json"
@@ -145937,6 +145982,11 @@
       "file": "missing/B/61502-blazblue-battle-cards.json"
     },
     {
+      "igdb_id": 42964,
+      "game_name": "BlazBlue: Calamity Trigger - Limited Edition",
+      "file": "missing/B/42964-blazblue-calamity-trigger-limited-edition.json"
+    },
+    {
       "igdb_id": 46018,
       "game_name": "BlazBlue: Calamity Trigger Portable",
       "file": "missing/B/46018-blazblue-calamity-trigger-portable.json"
@@ -145960,6 +146010,11 @@
       "igdb_id": 5643,
       "game_name": "BlazBlue: Chrono Phantasma",
       "file": "missing/B/5643-blazblue-chrono-phantasma.json"
+    },
+    {
+      "igdb_id": 42963,
+      "game_name": "BlazBlue: Chrono Phantasma - Limited Edition",
+      "file": "missing/B/42963-blazblue-chrono-phantasma-limited-edition.json"
     },
     {
       "igdb_id": 11612,
@@ -192992,6 +193047,11 @@
       "file": "missing/C/6933-capcom-digital-collection.json"
     },
     {
+      "igdb_id": 42959,
+      "game_name": "Capcom Essentials",
+      "file": "missing/C/42959-capcom-essentials.json"
+    },
+    {
       "igdb_id": 77245,
       "game_name": "Capcom Fighting All-Stars",
       "file": "missing/C/77245-capcom-fighting-all-stars.json"
@@ -230040,6 +230100,11 @@
       "igdb_id": 283593,
       "game_name": "Class of Heroes 2",
       "file": "missing/C/283593-class-of-heroes-2.json"
+    },
+    {
+      "igdb_id": 43009,
+      "game_name": "Class of Heroes 2G",
+      "file": "missing/C/43009-class-of-heroes-2g.json"
     },
     {
       "igdb_id": 65563,
@@ -289787,6 +289852,11 @@
       "file": "missing/D/222664-dark-souls-ii-black-armor-edition.json"
     },
     {
+      "igdb_id": 42988,
+      "game_name": "Dark Souls II: Collector's Edition",
+      "file": "missing/D/42988-dark-souls-ii-collectors-edition.json"
+    },
+    {
       "igdb_id": 22502,
       "game_name": "Dark Souls II: Crown of the Old Iron King",
       "file": "missing/D/22502-dark-souls-ii-crown-of-the-old-iron-king.json"
@@ -289800,6 +289870,11 @@
       "igdb_id": 238899,
       "game_name": "Dark Souls II: Seeker of Fire",
       "file": "missing/D/238899-dark-souls-ii-seeker-of-fire.json"
+    },
+    {
+      "igdb_id": 42996,
+      "game_name": "Dark Souls II: Webhallen Edition",
+      "file": "missing/D/42996-dark-souls-ii-webhallen-edition.json"
     },
     {
       "igdb_id": 23158,
@@ -291300,6 +291375,11 @@
       "igdb_id": 358770,
       "game_name": "Darksiders 4",
       "file": "missing/D/358770-darksiders-4.json"
+    },
+    {
+      "igdb_id": 43014,
+      "game_name": "Darksiders Collection",
+      "file": "missing/D/43014-darksiders-collection.json"
     },
     {
       "igdb_id": 119244,
@@ -297740,6 +297820,11 @@
       "igdb_id": 24311,
       "game_name": "Dead Island: Riptide - Definitive Edition",
       "file": "missing/D/24311-dead-island-riptide-definitive-edition.json"
+    },
+    {
+      "igdb_id": 42966,
+      "game_name": "Dead Island: Riptide - Special Edition",
+      "file": "missing/D/42966-dead-island-riptide-special-edition.json"
     },
     {
       "igdb_id": 22874,
@@ -307607,6 +307692,11 @@
       "file": "missing/D/89554-defiance-2050.json"
     },
     {
+      "igdb_id": 43021,
+      "game_name": "Defiance: Collector's Edition",
+      "file": "missing/D/43021-defiance-collectors-edition.json"
+    },
+    {
       "igdb_id": 375439,
       "game_name": "Defiant Ascent",
       "file": "missing/D/375439-defiant-ascent.json"
@@ -311135,6 +311225,11 @@
       "igdb_id": 344308,
       "game_name": "Demon's Souls: Boletarian Royalty Armor",
       "file": "missing/D/344308-demons-souls-boletarian-royalty-armor.json"
+    },
+    {
+      "igdb_id": 43010,
+      "game_name": "Demon's Souls: Deluxe Edition",
+      "file": "missing/D/43010-demons-souls-deluxe-edition.json"
     },
     {
       "igdb_id": 336469,
@@ -402342,6 +402437,11 @@
       "file": "missing/E/19997-everybody-dance.json"
     },
     {
+      "igdb_id": 43002,
+      "game_name": "Everybody Dance 2",
+      "file": "missing/E/43002-everybody-dance-2.json"
+    },
+    {
       "igdb_id": 336101,
       "game_name": "Everybody Dance: Digital",
       "file": "missing/E/336101-everybody-dance-digital.json"
@@ -409725,6 +409825,11 @@
       "igdb_id": 342816,
       "game_name": "F.B.I.C",
       "file": "missing/F/342816-f-b-i-c.json"
+    },
+    {
+      "igdb_id": 42974,
+      "game_name": "F.E.A.R 3: Collector's Edition",
+      "file": "missing/F/42974-f-e-a-r-3-collectors-edition.json"
     },
     {
       "igdb_id": 202149,
@@ -584327,6 +584432,11 @@
       "file": "missing/H/7319-hyperdimension-neptunia.json"
     },
     {
+      "igdb_id": 42999,
+      "game_name": "Hyperdimension Neptunia Hypercollection",
+      "file": "missing/H/42999-hyperdimension-neptunia-hypercollection.json"
+    },
+    {
       "igdb_id": 7320,
       "game_name": "Hyperdimension Neptunia Mk2",
       "file": "missing/H/7320-hyperdimension-neptunia-mk2.json"
@@ -584530,6 +584640,11 @@
       "igdb_id": 43028,
       "game_name": "Hyperdimension Neptunia Victory: Limited Edition",
       "file": "missing/H/43028-hyperdimension-neptunia-victory-limited-edition.json"
+    },
+    {
+      "igdb_id": 42987,
+      "game_name": "Hyperdimension Neptunia: Collector's Edition",
+      "file": "missing/H/42987-hyperdimension-neptunia-collectors-edition.json"
     },
     {
       "igdb_id": 89920,
@@ -647637,6 +647752,11 @@
       "file": "missing/K/47870-kidou-senshi-gundam-00.json"
     },
     {
+      "igdb_id": 42993,
+      "game_name": "Kidou Senshi Gundam Extreme VS: Full Boost",
+      "file": "missing/K/42993-kidou-senshi-gundam-extreme-vs-full-boost.json"
+    },
+    {
       "igdb_id": 67614,
       "game_name": "Kidou Senshi Gundam F91: Formula Senki 0122",
       "file": "missing/K/67614-kidou-senshi-gundam-f91-formula-senki-0122.json"
@@ -649330,6 +649450,11 @@
       "igdb_id": 2940,
       "game_name": "Killer Is Dead",
       "file": "missing/K/2940-killer-is-dead.json"
+    },
+    {
+      "igdb_id": 42986,
+      "game_name": "Killer is Dead: Collector's Edition",
+      "file": "missing/K/42986-killer-is-dead-collectors-edition.json"
     },
     {
       "igdb_id": 358984,
@@ -652805,6 +652930,11 @@
       "igdb_id": 7841,
       "game_name": "Kingdom Hearts HD 2.5 Remix",
       "file": "missing/K/7841-kingdom-hearts-hd-2-5-remix.json"
+    },
+    {
+      "igdb_id": 42985,
+      "game_name": "Kingdom Hearts HD 2.5 Remix: Collector's Edition",
+      "file": "missing/K/42985-kingdom-hearts-hd-2-5-remix-collectors-edition.json"
     },
     {
       "igdb_id": 45159,
@@ -740822,6 +740952,11 @@
       "file": "missing/M/320154-max-payne-2-mona-the-assassin.json"
     },
     {
+      "igdb_id": 42972,
+      "game_name": "Max Payne 3: Special Edition",
+      "file": "missing/M/42972-max-payne-3-special-edition.json"
+    },
+    {
       "igdb_id": 24085,
       "game_name": "Max Payne: Kung Fu Edition v3",
       "file": "missing/M/24085-max-payne-kung-fu-edition-v3.json"
@@ -745510,6 +745645,11 @@
       "igdb_id": 1312,
       "game_name": "Medal of Honor: Heroes",
       "file": "missing/M/1312-medal-of-honor-heroes.json"
+    },
+    {
+      "igdb_id": 42995,
+      "game_name": "Medal of Honor: Limited Edition",
+      "file": "missing/M/42995-medal-of-honor-limited-edition.json"
     },
     {
       "igdb_id": 131852,
@@ -758440,6 +758580,11 @@
       "igdb_id": 331973,
       "game_name": "Metal Gear Solid: Fight of the Metal Gears",
       "file": "missing/M/331973-metal-gear-solid-fight-of-the-metal-gears.json"
+    },
+    {
+      "igdb_id": 42981,
+      "game_name": "Metal Gear Solid: HD Collection Limited Edition",
+      "file": "missing/M/42981-metal-gear-solid-hd-collection-limited-edition.json"
     },
     {
       "igdb_id": 41037,
@@ -793017,6 +793162,11 @@
       "file": "missing/M/1617-mortal-kombat-vs-dc-universe.json"
     },
     {
+      "igdb_id": 43005,
+      "game_name": "Mortal Kombat vs. DC Universe: Kollector's Edition",
+      "file": "missing/M/43005-mortal-kombat-vs-dc-universe-kollectors-edition.json"
+    },
+    {
       "igdb_id": 241492,
       "game_name": "Mortal Kombat X",
       "file": "missing/M/241492-mortal-kombat-x.json"
@@ -796170,6 +796320,11 @@
       "igdb_id": 2553,
       "game_name": "MotorStorm",
       "file": "missing/M/2553-motorstorm.json"
+    },
+    {
+      "igdb_id": 43016,
+      "game_name": "MotorStorm Complete",
+      "file": "missing/M/43016-motorstorm-complete.json"
     },
     {
       "igdb_id": 277234,
@@ -839307,6 +839462,11 @@
       "file": "missing/N/298018-ninja-gaiden-sigma-2-premium-box.json"
     },
     {
+      "igdb_id": 43004,
+      "game_name": "Ninja Gaiden Sigma: Collector's Edition",
+      "file": "missing/N/43004-ninja-gaiden-sigma-collectors-edition.json"
+    },
+    {
       "igdb_id": 42729,
       "game_name": "Ninja Gaiden Trilogy",
       "file": "missing/N/42729-ninja-gaiden-trilogy.json"
@@ -855220,6 +855380,11 @@
       "igdb_id": 15709,
       "game_name": "Odin Sphere: Leifthrasir",
       "file": "missing/O/15709-odin-sphere-leifthrasir.json"
+    },
+    {
+      "igdb_id": 42958,
+      "game_name": "Odin Sphere: Leifthrasir - Storybook Edition",
+      "file": "missing/O/42958-odin-sphere-leifthrasir-storybook-edition.json"
     },
     {
       "igdb_id": 137939,
@@ -983987,6 +984152,11 @@
       "file": "missing/R/288944-rayman-origins.json"
     },
     {
+      "igdb_id": 43006,
+      "game_name": "Rayman Origins: Collector's Edition",
+      "file": "missing/R/43006-rayman-origins-collectors-edition.json"
+    },
+    {
       "igdb_id": 151927,
       "game_name": "Rayman Raving Rabbids",
       "file": "missing/R/151927-rayman-raving-rabbids.json"
@@ -1058000,6 +1058170,11 @@
       "igdb_id": 63628,
       "game_name": "Sengoku Basara 4",
       "file": "missing/S/63628-sengoku-basara-4.json"
+    },
+    {
+      "igdb_id": 42976,
+      "game_name": "Sengoku Basara 4 Sumeragi",
+      "file": "missing/S/42976-sengoku-basara-4-sumeragi.json"
     },
     {
       "igdb_id": 136704,
@@ -1161787,6 +1161962,11 @@
       "file": "missing/S/45196-street-fighter-2010-the-final-fight.json"
     },
     {
+      "igdb_id": 43011,
+      "game_name": "Street Fighter 25th Anniversary Collector's Set",
+      "file": "missing/S/43011-street-fighter-25th-anniversary-collectors-set.json"
+    },
+    {
       "igdb_id": 298020,
       "game_name": "Street Fighter 30th Anniversary Collection: International",
       "file": "missing/S/298020-street-fighter-30th-anniversary-collection-international.json"
@@ -1170380,6 +1170560,11 @@
       "igdb_id": 106435,
       "game_name": "Summer Catchers",
       "file": "missing/S/106435-summer-catchers.json"
+    },
+    {
+      "igdb_id": 43012,
+      "game_name": "Summer Challenge: Athletics Tournament",
+      "file": "missing/S/43012-summer-challenge-athletics-tournament.json"
     },
     {
       "igdb_id": 258943,
@@ -1205927,6 +1206112,11 @@
       "file": "missing/T/221716-tales-of-symphonia.json"
     },
     {
+      "igdb_id": 42960,
+      "game_name": "Tales Of Symphonia Chronicles: Collector's Edition",
+      "file": "missing/T/42960-tales-of-symphonia-chronicles-collectors-edition.json"
+    },
+    {
       "igdb_id": 217564,
       "game_name": "Tales of Symphonia Remastered",
       "file": "missing/T/217564-tales-of-symphonia-remastered.json"
@@ -1206372,6 +1206562,11 @@
       "file": "missing/T/1213-tales-of-xillia-2.json"
     },
     {
+      "igdb_id": 42961,
+      "game_name": "Tales Of Xillia 2: Collector's Edition",
+      "file": "missing/T/42961-tales-of-xillia-2-collectors-edition.json"
+    },
+    {
       "igdb_id": 361791,
       "game_name": "Tales of Xillia Remastered",
       "file": "missing/T/361791-tales-of-xillia-remastered.json"
@@ -1206385,6 +1206580,11 @@
       "igdb_id": 375173,
       "game_name": "Tales of Xillia Remastered: Super Growth Support Herb Set",
       "file": "missing/T/375173-tales-of-xillia-remastered-super-growth-support-herb-set.json"
+    },
+    {
+      "igdb_id": 42962,
+      "game_name": "Tales Of Xillia: Collector's Edition",
+      "file": "missing/T/42962-tales-of-xillia-collectors-edition.json"
     },
     {
       "igdb_id": 379425,
@@ -1237022,6 +1237222,11 @@
       "file": "missing/T/370077-the-darkness-delivers.json"
     },
     {
+      "igdb_id": 42970,
+      "game_name": "The Darkness II: Limited Edition",
+      "file": "missing/T/42970-the-darkness-ii-limited-edition.json"
+    },
+    {
       "igdb_id": 398687,
       "game_name": "The Darkness of Gordoth",
       "file": "missing/T/398687-the-darkness-of-gordoth.json"
@@ -1238355,6 +1238560,11 @@
       "igdb_id": 183203,
       "game_name": "The Disembodied Hand",
       "file": "missing/T/183203-the-disembodied-hand.json"
+    },
+    {
+      "igdb_id": 43000,
+      "game_name": "The Disgaea Triple Play Collection",
+      "file": "missing/T/43000-the-disgaea-triple-play-collection.json"
     },
     {
       "igdb_id": 171842,
@@ -1288422,6 +1288632,11 @@
       "file": "missing/T/276795-the-x-com-files.json"
     },
     {
+      "igdb_id": 42980,
+      "game_name": "The X-Factor",
+      "file": "missing/T/42980-the-x-factor.json"
+    },
+    {
       "igdb_id": 103203,
       "game_name": "The X-Files Game",
       "file": "missing/T/103203-the-x-files-game.json"
@@ -1290565,6 +1290780,11 @@
       "igdb_id": 57565,
       "game_name": "Thexder 95",
       "file": "missing/T/57565-thexder-95.json"
+    },
+    {
+      "igdb_id": 42978,
+      "game_name": "Thexder Neo",
+      "file": "missing/T/42978-thexder-neo.json"
     },
     {
       "igdb_id": 80613,
@@ -1314310,6 +1314530,11 @@
       "igdb_id": 99926,
       "game_name": "Tom Clancy's Splinter Cell: Blacklist - Ultimate Edition",
       "file": "missing/T/99926-tom-clancys-splinter-cell-blacklist-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 42971,
+      "game_name": "Tom Clancy's Splinter Cell: Blacklist - Ultimatum Edition",
+      "file": "missing/T/42971-tom-clancys-splinter-cell-blacklist-ultimatum-edition.json"
     },
     {
       "igdb_id": 76983,
@@ -1353467,6 +1353692,11 @@
       "file": "missing/T/11032-two-worlds-ii-pirates-of-the-flying-fortress.json"
     },
     {
+      "igdb_id": 43007,
+      "game_name": "Two Worlds II: Royal Edition",
+      "file": "missing/T/43007-two-worlds-ii-royal-edition.json"
+    },
+    {
       "igdb_id": 171324,
       "game_name": "Two Worlds II: Shattered Embrace",
       "file": "missing/T/171324-two-worlds-ii-shattered-embrace.json"
@@ -1355340,6 +1355570,11 @@
       "igdb_id": 44831,
       "game_name": "UEFA Euro 2000",
       "file": "missing/U/44831-uefa-euro-2000.json"
+    },
+    {
+      "igdb_id": 42965,
+      "game_name": "UEFA Euro 2016: Pro Evolution Soccer",
+      "file": "missing/U/42965-uefa-euro-2016-pro-evolution-soccer.json"
     },
     {
       "igdb_id": 317534,
@@ -1373460,6 +1373695,11 @@
       "igdb_id": 138836,
       "game_name": "Valkyria Chronicles: Hard EX Mode",
       "file": "missing/V/138836-valkyria-chronicles-hard-ex-mode.json"
+    },
+    {
+      "igdb_id": 42957,
+      "game_name": "Valkyria Chronicles: Remastered - Europa Edition",
+      "file": "missing/V/42957-valkyria-chronicles-remastered-europa-edition.json"
     },
     {
       "igdb_id": 38491,
@@ -1427572,6 +1427812,11 @@
       "file": "missing/W/205878-world-championship-games-a-track-and-field-event.json"
     },
     {
+      "igdb_id": 42968,
+      "game_name": "World Championship Off Road Racing",
+      "file": "missing/W/42968-world-championship-off-road-racing.json"
+    },
+    {
       "igdb_id": 205879,
       "game_name": "World Championship Paintball",
       "file": "missing/W/205879-world-championship-paintball.json"
@@ -1440315,6 +1440560,11 @@
       "igdb_id": 5617,
       "game_name": "Yaiba: Ninja Gaiden Z",
       "file": "missing/Y/5617-yaiba-ninja-gaiden-z.json"
+    },
+    {
+      "igdb_id": 42967,
+      "game_name": "Yaiba: Ninja Gaiden Z - Special Edition",
+      "file": "missing/Y/42967-yaiba-ninja-gaiden-z-special-edition.json"
     },
     {
       "igdb_id": 176761,
