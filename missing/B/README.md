@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Clash | 283977 | [283977-battle-clash.json](./283977-battle-clash.json) |
 | Battle Clash | 42735 | [42735-battle-clash.json](./42735-battle-clash.json) |
 | Battle Commander: Hachibushu Shura no Heihou | 44426 | [44426-battle-commander-hachibushu-shura-no-heihou.json](./44426-battle-commander-hachibushu-shura-no-heihou.json) |
+| Battle Commander: Return of Waroid | 61841 | [61841-battle-commander-return-of-waroid.json](./61841-battle-commander-return-of-waroid.json) |
 | Battle Commanders | 36471 | [36471-battle-commanders.json](./36471-battle-commanders.json) |
 | Battle Copters | 348953 | [348953-battle-copters.json](./348953-battle-copters.json) |
 | Battle Craft | 257926 | [257926-battle-craft.json](./257926-battle-craft.json) |
@@ -7297,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
 | Binary Rush | 250388 | [250388-binary-rush.json](./250388-binary-rush.json) |
 | Binary Stack | 57741 | [57741-binary-stack.json](./57741-binary-stack.json) |
+| Binary Star | 61944 | [61944-binary-star.json](./61944-binary-star.json) |
 | Binary Star Hero | 326846 | [326846-binary-star-hero.json](./326846-binary-star-hero.json) |
 | Binary Syndrome | 211455 | [211455-binary-syndrome.json](./211455-binary-syndrome.json) |
 | Binary Trigger | 30080 | [30080-binary-trigger.json](./30080-binary-trigger.json) |
@@ -9774,11 +9777,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockle | 36497 | [36497-blockle.json](./36497-blockle.json) |
 | BlockLock | 167468 | [167468-blocklock.json](./167468-blocklock.json) |
 | Blocklords | 262888 | [262888-blocklords.json](./262888-blocklords.json) |
+| Blockman | 61933 | [61933-blockman.json](./61933-blockman.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
+| Blockman Forever | 61932 | [61932-blockman-forever.json](./61932-blockman-forever.json) |
 | Blockman Gets Hungry | 61964 | [61964-blockman-gets-hungry.json](./61964-blockman-gets-hungry.json) |
 | Blockman Go | 138641 | [138641-blockman-go.json](./138641-blockman-go.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
+| Blockman Worlds | 61838 | [61838-blockman-worlds.json](./61838-blockman-worlds.json) |
 | BlockMerge: Hexa Merge Puzzle | 99944 | [99944-blockmerge-hexa-merge-puzzle.json](./99944-blockmerge-hexa-merge-puzzle.json) |
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
 | Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
