@@ -4248,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone | 12916 | [12916-battlezone.json](./12916-battlezone.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
 | Battlezone | 294546 | [294546-battlezone.json](./294546-battlezone.json) |
+| Battlezone | 613 | [613-battlezone.json](./613-battlezone.json) |
 | Battlezone 2 Remastered | 86456 | [86456-battlezone-2-remastered.json](./86456-battlezone-2-remastered.json) |
 | Battlezone 2: Combat Commander | 24122 | [24122-battlezone-2-combat-commander.json](./24122-battlezone-2-combat-commander.json) |
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
@@ -6337,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal | 11954 | [11954-betrayal.json](./11954-betrayal.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
+| Betrayal at Krondor | 2211 | [2211-betrayal-at-krondor.json](./2211-betrayal-at-krondor.json) |
 | Betrayal Banquet | 410289 | [410289-betrayal-banquet.json](./410289-betrayal-banquet.json) |
 | Betrayal Beach | 272648 | [272648-betrayal-beach.json](./272648-betrayal-beach.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
@@ -13720,6 +13722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Earth: Prologue | 43060 | [43060-brave-earth-prologue.json](./43060-brave-earth-prologue.json) |
 | Brave Eduardo | 140821 | [140821-brave-eduardo.json](./140821-brave-eduardo.json) |
 | Brave Fantasy | 293497 | [293497-brave-fantasy.json](./293497-brave-fantasy.json) |
+| Brave Fencer Musashi | 1810 | [1810-brave-fencer-musashi.json](./1810-brave-fencer-musashi.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
 | Brave Firefighters: Real Life Heroes | 68307 | [68307-brave-firefighters-real-life-heroes.json](./68307-brave-firefighters-real-life-heroes.json) |
