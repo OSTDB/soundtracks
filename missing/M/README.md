@@ -5496,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9015,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Mutation | 194077 | [194077-metal-mutation.json](./194077-metal-mutation.json) |
 | Metal Ninja | 222394 | [222394-metal-ninja.json](./222394-metal-ninja.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
+| Metal Planet | 17381 | [17381-metal-planet.json](./17381-metal-planet.json) |
 | Metal Punch | 236350 | [236350-metal-punch.json](./236350-metal-punch.json) |
 | Metal Queen Dungeon | 304601 | [304601-metal-queen-dungeon.json](./304601-metal-queen-dungeon.json) |
 | Metal Quest | 76310 | [76310-metal-quest.json](./76310-metal-quest.json) |
@@ -10088,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Minesweeper | 5421 | [5421-microsoft-minesweeper.json](./5421-microsoft-minesweeper.json) |
 | Microsoft Multiplan | 44366 | [44366-microsoft-multiplan.json](./44366-microsoft-multiplan.json) |
 | Microsoft Oceans | 146588 | [146588-microsoft-oceans.json](./146588-microsoft-oceans.json) |
+| Microsoft Pinball Arcade | 16968 | [16968-microsoft-pinball-arcade.json](./16968-microsoft-pinball-arcade.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
 | Microsoft Plus! for Windows XP | 256398 | [256398-microsoft-plus-for-windows-xp.json](./256398-microsoft-plus-for-windows-xp.json) |
 | Microsoft Puzzle Collection Entertainment Pack | 73142 | [73142-microsoft-puzzle-collection-entertainment-pack.json](./73142-microsoft-puzzle-collection-entertainment-pack.json) |
@@ -10820,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennials | 302183 | [302183-millennials.json](./302183-millennials.json) |
 | Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
 | Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
+| Millennium 4: Beyond Sunset | 17361 | [17361-millennium-4-beyond-sunset.json](./17361-millennium-4-beyond-sunset.json) |
 | Millennium 5: Battle of the Millennium | 54240 | [54240-millennium-5-battle-of-the-millennium.json](./54240-millennium-5-battle-of-the-millennium.json) |
 | Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
 | Millennium Arcade | 295293 | [295293-millennium-arcade.json](./295293-millennium-arcade.json) |
@@ -16595,6 +16599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motus | 130280 | [130280-motus.json](./130280-motus.json) |
 | Motus | 324859 | [324859-motus.json](./324859-motus.json) |
 | Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
+| Motus: Endless Run | 17448 | [17448-motus-endless-run.json](./17448-motus-endless-run.json) |
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
 | Moujya | 207029 | [207029-moujya.json](./207029-moujya.json) |
