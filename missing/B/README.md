@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B&F 1: The Dark Corridor | 393478 | [393478-b-and-f-1-the-dark-corridor.json](./393478-b-and-f-1-the-dark-corridor.json) |
 | B1 | 289342 | [289342-b1.json](./289342-b1.json) |
 | B100X: Auto Dungeon RPG | 142667 | [142667-b100x-auto-dungeon-rpg.json](./142667-b100x-auto-dungeon-rpg.json) |
+| B17 Flying Fortress | 11928 | [11928-b17-flying-fortress.json](./11928-b17-flying-fortress.json) |
 | B1g Br0th3r | 136243 | [136243-b1g-br0th3r.json](./136243-b1g-br0th3r.json) |
 | B3 | 289382 | [289382-b3.json](./289382-b3.json) |
 | B3313 Unabandoned | 281260 | [281260-b3313-unabandoned.json](./281260-b3313-unabandoned.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baa-Baa Blitz: The Sheeps kebab Incident | 359024 | [359024-baa-baa-blitz-the-sheeps-kebab-incident.json](./359024-baa-baa-blitz-the-sheeps-kebab-incident.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Bååbösåångjåår | 276748 | [276748-baabosaangjaar.json](./276748-baabosaangjaar.json) |
+| Baal | 11929 | [11929-baal.json](./11929-baal.json) |
 | Baalzebub | 236161 | [236161-baalzebub.json](./236161-baalzebub.json) |
 | Baam Squad | 90719 | [90719-baam-squad.json](./90719-baam-squad.json) |
 | Baazi | 360704 | [360704-baazi.json](./360704-baazi.json) |
@@ -230,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Hazel Hand Fracture | 106767 | [106767-baby-hazel-hand-fracture.json](./106767-baby-hazel-hand-fracture.json) |
 | Baby Hazel Newborn Baby | 89814 | [89814-baby-hazel-newborn-baby.json](./89814-baby-hazel-newborn-baby.json) |
 | Baby Jack | 71386 | [71386-baby-jack.json](./71386-baby-jack.json) |
+| Baby Jo In ''Going Home'' | 11930 | [11930-baby-jo-in-going-home.json](./11930-baby-jo-in-going-home.json) |
 | Baby Jungle Animal Hair Salon | 101004 | [101004-baby-jungle-animal-hair-salon.json](./101004-baby-jungle-animal-hair-salon.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
 | Baby Kaizo World 2 | 328073 | [328073-baby-kaizo-world-2.json](./328073-baby-kaizo-world-2.json) |
@@ -485,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon. | 88715 | [88715-backgammon.json](./88715-backgammon.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Hishou-hen Uragiri no Senjou | 45425 | [45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json](./45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Kakusei-hen Guiner Tensei | 45424 | [45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json](./45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json) |
+| Backlash | 11931 | [11931-backlash.json](./11931-backlash.json) |
 | Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
@@ -802,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
+| Bad Company | 11932 | [11932-bad-company.json](./11932-bad-company.json) |
 | Bad Cops | 199776 | [199776-bad-cops.json](./199776-bad-cops.json) |
 | Bad Credit | 190420 | [190420-bad-credit.json](./190420-bad-credit.json) |
 | Bad Day | 104824 | [104824-bad-day.json](./104824-bad-day.json) |
@@ -886,7 +891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -948,7 +952,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badlanders | 140378 | [140378-badlanders.json](./140378-badlanders.json) |
 | Badlanders | 192286 | [192286-badlanders.json](./192286-badlanders.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
+| BadLands | 11933 | [11933-badlands.json](./11933-badlands.json) |
 | Badlands Crew | 258109 | [258109-badlands-crew.json](./258109-badlands-crew.json) |
+| Badlands Pete | 11934 | [11934-badlands-pete.json](./11934-badlands-pete.json) |
 | Badlands Racer | 174049 | [174049-badlands-racer.json](./174049-badlands-racer.json) |
 | BadLands RoadTrip | 95136 | [95136-badlands-roadtrip.json](./95136-badlands-roadtrip.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
@@ -1213,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balance of Power | 73206 | [73206-balance-of-power.json](./73206-balance-of-power.json) |
 | Balance of Power: 21st Century | 66327 | [66327-balance-of-power-21st-century.json](./66327-balance-of-power-21st-century.json) |
+| Balance of Power: Geopolitics in the Nuclear Age | 11935 | [11935-balance-of-power-geopolitics-in-the-nuclear-age.json](./11935-balance-of-power-geopolitics-in-the-nuclear-age.json) |
 | Balance of Power: The 1990 Edition | 14608 | [14608-balance-of-power-the-1990-edition.json](./14608-balance-of-power-the-1990-edition.json) |
 | Balance of Soccer | 102377 | [102377-balance-of-soccer.json](./102377-balance-of-soccer.json) |
 | Balance of Superpower | 275248 | [275248-balance-of-superpower.json](./275248-balance-of-superpower.json) |
