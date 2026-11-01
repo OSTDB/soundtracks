@@ -9157,6 +9157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin the 3rd: Babylon no Ougon Densetsu | 66200 | [66200-lupin-the-3rd-babylon-no-ougon-densetsu.json](./66200-lupin-the-3rd-babylon-no-ougon-densetsu.json) |
 | Lupin the 3rd: The Shooting | 39594 | [39594-lupin-the-3rd-the-shooting.json](./39594-lupin-the-3rd-the-shooting.json) |
 | Lupin the 3rd: The Typing | 60791 | [60791-lupin-the-3rd-the-typing.json](./60791-lupin-the-3rd-the-typing.json) |
+| Lupin the 3rd: Treasure of the Sorcerer King | 43635 | [43635-lupin-the-3rd-treasure-of-the-sorcerer-king.json](./43635-lupin-the-3rd-treasure-of-the-sorcerer-king.json) |
 | Lupin the Third Part III: Jigoku no Kyuushutsu Sakusen | 349409 | [349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json](./349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json) |
 | Lupin the Third Part III: Sanjou! Kogane no Ude | 349411 | [349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json](./349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json) |
 | Lupin the Third: Cagliostro no Shiro | 66204 | [66204-lupin-the-third-cagliostro-no-shiro.json](./66204-lupin-the-third-cagliostro-no-shiro.json) |
