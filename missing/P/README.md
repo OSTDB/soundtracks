@@ -9215,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaza Security | 306427 | [306427-plaza-security.json](./306427-plaza-security.json) |
 | Plaza Sesamo Erase una vez un Monstruo | 209356 | [209356-plaza-sesamo-erase-una-vez-un-monstruo.json](./209356-plaza-sesamo-erase-una-vez-un-monstruo.json) |
 | PlazaSoup | 408908 | [408908-plazasoup.json](./408908-plazasoup.json) |
+| Plazma Burst 2 | 112404 | [112404-plazma-burst-2.json](./112404-plazma-burst-2.json) |
 | Plazma Burst: Forward to the Past | 124039 | [124039-plazma-burst-forward-to-the-past.json](./124039-plazma-burst-forward-to-the-past.json) |
 | Plead with the Mountain God | 177293 | [177293-plead-with-the-mountain-god.json](./177293-plead-with-the-mountain-god.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
@@ -16731,6 +16732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo 7 | 50727 | [50727-puyo-puyo-7.json](./50727-puyo-puyo-7.json) |
 | Puyo Puyo CD | 250339 | [250339-puyo-puyo-cd.json](./250339-puyo-puyo-cd.json) |
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
+| Puyo Puyo Champions | 109577 | [109577-puyo-puyo-champions.json](./109577-puyo-puyo-champions.json) |
 | Puyo Puyo DX | 251498 | [251498-puyo-puyo-dx.json](./251498-puyo-puyo-dx.json) |
 | Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
 | Puyo Puyo Fever Rhythm | 252126 | [252126-puyo-puyo-fever-rhythm.json](./252126-puyo-puyo-fever-rhythm.json) |
