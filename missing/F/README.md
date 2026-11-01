@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17: Platinum Edition | 75868 | [75868-farming-simulator-17-platinum-edition.json](./75868-farming-simulator-17-platinum-edition.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
 | Farming Simulator 17: Ropa Pack | 90136 | [90136-farming-simulator-17-ropa-pack.json](./90136-farming-simulator-17-ropa-pack.json) |
+| Farming Simulator 19 | 87210 | [87210-farming-simulator-19.json](./87210-farming-simulator-19.json) |
 | Farming Simulator 19: Alpine Farming | 142604 | [142604-farming-simulator-19-alpine-farming.json](./142604-farming-simulator-19-alpine-farming.json) |
 | Farming Simulator 19: Alpine Farming Expansion | 166102 | [166102-farming-simulator-19-alpine-farming-expansion.json](./166102-farming-simulator-19-alpine-farming-expansion.json) |
 | Farming Simulator 19: Ambassador Edition | 202420 | [202420-farming-simulator-19-ambassador-edition.json](./202420-farming-simulator-19-ambassador-edition.json) |
@@ -4102,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2002: Major League Soccer | 240267 | [240267-fifa-soccer-2002-major-league-soccer.json](./240267-fifa-soccer-2002-major-league-soccer.json) |
 | FIFA Soccer 2003 | 209425 | [209425-fifa-soccer-2003.json](./209425-fifa-soccer-2003.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
+| FIFA Soccer 2003 | 43335 | [43335-fifa-soccer-2003.json](./43335-fifa-soccer-2003.json) |
 | FIFA Soccer 2004 | 240273 | [240273-fifa-soccer-2004.json](./240273-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 240275 | [240275-fifa-soccer-2004.json](./240275-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 240276 | [240276-fifa-soccer-2004.json](./240276-fifa-soccer-2004.json) |
@@ -4568,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fall | 341702 | [341702-final-fall.json](./341702-final-fall.json) |
 | Final Fanta-Three | 183900 | [183900-final-fanta-three.json](./183900-final-fanta-three.json) |
+| Final Fantasy | 121688 | [121688-final-fantasy.json](./121688-final-fantasy.json) |
 | Final Fantasy | 158980 | [158980-final-fantasy.json](./158980-final-fantasy.json) |
 | Final Fantasy | 271227 | [271227-final-fantasy.json](./271227-final-fantasy.json) |
 | Final Fantasy | 286674 | [286674-final-fantasy.json](./286674-final-fantasy.json) |
@@ -8544,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2 | 15222 | [15222-football-manager-2.json](./15222-football-manager-2.json) |
 | Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
 | Football Manager 2008 | 946 | [946-football-manager-2008.json](./946-football-manager-2008.json) |
+| Football Manager 2011 | 717 | [717-football-manager-2011.json](./717-football-manager-2011.json) |
 | Football Manager 2012 | 8973 | [8973-football-manager-2012.json](./8973-football-manager-2012.json) |
 | Football Manager 2013 | 8974 | [8974-football-manager-2013.json](./8974-football-manager-2013.json) |
 | Football Manager 2015 | 8976 | [8976-football-manager-2015.json](./8976-football-manager-2015.json) |
