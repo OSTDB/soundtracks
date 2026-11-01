@@ -4075,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Porcelain | 391135 | [391135-perfect-porcelain.json](./391135-perfect-porcelain.json) |
 | Perfect Poses | 286018 | [286018-perfect-poses.json](./286018-perfect-poses.json) |
 | Perfect Round Disc Golf | 118583 | [118583-perfect-round-disc-golf.json](./118583-perfect-round-disc-golf.json) |
+| Perfect Shift | 57399 | [57399-perfect-shift.json](./57399-perfect-shift.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
 | Perfect Slices | 253282 | [253282-perfect-slices.json](./253282-perfect-slices.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
