@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 2 | 193310 | [193310-rayman-2.json](./193310-rayman-2.json) |
 | Rayman 2 | 193316 | [193316-rayman-2.json](./193316-rayman-2.json) |
 | Rayman 2 | 193317 | [193317-rayman-2.json](./193317-rayman-2.json) |
+| Rayman 2: Revolution | 44702 | [44702-rayman-2-revolution.json](./44702-rayman-2-revolution.json) |
 | Rayman 2: The Great Escape | 193313 | [193313-rayman-2-the-great-escape.json](./193313-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193314 | [193314-rayman-2-the-great-escape.json](./193314-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193315 | [193315-rayman-2-the-great-escape.json](./193315-rayman-2-the-great-escape.json) |
@@ -5246,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Revelations Collection | 53790 | [53790-resident-evil-revelations-collection.json](./53790-resident-evil-revelations-collection.json) |
 | Resident Evil RPG | 276132 | [276132-resident-evil-rpg.json](./276132-resident-evil-rpg.json) |
 | Resident Evil Survivor | 967 | [967-resident-evil-survivor.json](./967-resident-evil-survivor.json) |
+| Resident Evil Survivor 2 Code: Veronica | 19886 | [19886-resident-evil-survivor-2-code-veronica.json](./19886-resident-evil-survivor-2-code-veronica.json) |
 | Resident Evil Veronica | 404673 | [404673-resident-evil-veronica.json](./404673-resident-evil-veronica.json) |
 | Resident Evil Village & Resident Evil 7 Complete Bundle | 142813 | [142813-resident-evil-village-and-resident-evil-7-complete-bundle.json](./142813-resident-evil-village-and-resident-evil-7-complete-bundle.json) |
 | Resident Evil Village: Collector's Edition | 142812 | [142812-resident-evil-village-collectors-edition.json](./142812-resident-evil-village-collectors-edition.json) |
