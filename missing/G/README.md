@@ -6158,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Master 3D | 214297 | [214297-golf-master-3d.json](./214297-golf-master-3d.json) |
+| Golf Masters | 35110 | [35110-golf-masters.json](./35110-golf-masters.json) |
 | Golf Monday | 287234 | [287234-golf-monday.json](./287234-golf-monday.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
 | Golf My Way | 45893 | [45893-golf-my-way.json](./45893-golf-my-way.json) |
@@ -7833,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Control | 121351 | [121351-gravity-control.json](./121351-gravity-control.json) |
 | Gravity Control | 292778 | [292778-gravity-control.json](./292778-gravity-control.json) |
 | Gravity Core | 128900 | [128900-gravity-core.json](./128900-gravity-core.json) |
+| Gravity Core - Braintwisting Space Odyssey | 35141 | [35141-gravity-core-braintwisting-space-odyssey.json](./35141-gravity-core-braintwisting-space-odyssey.json) |
 | Gravity Crash | 13173 | [13173-gravity-crash.json](./13173-gravity-crash.json) |
 | Gravity Crash Portable | 257323 | [257323-gravity-crash-portable.json](./257323-gravity-crash-portable.json) |
 | Gravity Crash Portable | 42845 | [42845-gravity-crash-portable.json](./42845-gravity-crash-portable.json) |
