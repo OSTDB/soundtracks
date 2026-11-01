@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary Baboon | 338667 | [338667-scary-baboon.json](./338667-scary-baboon.json) |
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
+| Scary Brawl | 57389 | [57389-scary-brawl.json](./57389-scary-brawl.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
 | Scary Cabin | 68903 | [68903-scary-cabin.json](./68903-scary-cabin.json) |
@@ -4663,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Segagaga | 28151 | [28151-segagaga.json](./28151-segagaga.json) |
 | Segapede | 227784 | [227784-segapede.json](./227784-segapede.json) |
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
+| Segatakai | 57386 | [57386-segatakai.json](./57386-segatakai.json) |
 | Segfault | 75430 | [75430-segfault.json](./75430-segfault.json) |
 | Segle | 311976 | [311976-segle.json](./311976-segle.json) |
 | Segment | 93728 | [93728-segment.json](./93728-segment.json) |
@@ -11258,6 +11260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skool Days | 390734 | [390734-skool-days.json](./390734-skool-days.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
+| Skorb | 57384 | [57384-skorb.json](./57384-skorb.json) |
 | Skorecery | 113577 | [113577-skorecery.json](./113577-skorecery.json) |
 | Skorpulac | 105062 | [105062-skorpulac.json](./105062-skorpulac.json) |
 | Skotos | 171297 | [171297-skotos.json](./171297-skotos.json) |
