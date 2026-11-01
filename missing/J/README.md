@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Skiing Race | 290899 | [290899-jet-skiing-race.json](./290899-jet-skiing-race.json) |
 | Jet Spin | 131114 | [131114-jet-spin.json](./131114-jet-spin.json) |
 | Jet Storm 2: 3D | 241573 | [241573-jet-storm-2-3d.json](./241573-jet-storm-2-3d.json) |
+| Jet Strike Mission | 60270 | [60270-jet-strike-mission.json](./60270-jet-strike-mission.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | Jet Up | 264748 | [264748-jet-up.json](./264748-jet-up.json) |
 | Jet X2O | 77121 | [77121-jet-x2o.json](./77121-jet-x2o.json) |
