@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Cat named Gossamergoober | 379457 | [379457-a-cat-named-gossamergoober.json](./379457-a-cat-named-gossamergoober.json) |
 | A Cat Named Venus Shorttail | 385444 | [385444-a-cat-named-venus-shorttail.json](./385444-a-cat-named-venus-shorttail.json) |
+| A Cat's Manor | 44261 | [44261-a-cats-manor.json](./44261-a-cats-manor.json) |
 | A Cat's Night | 125203 | [125203-a-cats-night.json](./125203-a-cats-night.json) |
 | A Cat's Night 2: Orazio goes to town | 125204 | [125204-a-cats-night-2-orazio-goes-to-town.json](./125204-a-cats-night-2-orazio-goes-to-town.json) |
 | A Cat's Way Home | 337791 | [337791-a-cats-way-home.json](./337791-a-cats-way-home.json) |
@@ -5421,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba Lost | 369701 | [369701-akiba-lost.json](./369701-akiba-lost.json) |
 | Akiba Lost: Digital Deluxe Edition | 418328 | [418328-akiba-lost-digital-deluxe-edition.json](./418328-akiba-lost-digital-deluxe-edition.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
+| Akiba's Trip | 44279 | [44279-akibas-trip.json](./44279-akibas-trip.json) |
 | Akiba's Trip 2+A | 78472 | [78472-akibas-trip-2-a.json](./78472-akibas-trip-2-a.json) |
 | Akiba's Trip Festa! | 148244 | [148244-akibas-trip-festa.json](./148244-akibas-trip-festa.json) |
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
@@ -7632,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amberial Dreams | 107773 | [107773-amberial-dreams.json](./107773-amberial-dreams.json) |
 | Ambermoon | 11897 | [11897-ambermoon.json](./11897-ambermoon.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
+| Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambience | 414497 | [414497-ambience.json](./414497-ambience.json) |
@@ -8643,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
 | Andy's Great Fossil Hunt | 106830 | [106830-andys-great-fossil-hunt.json](./106830-andys-great-fossil-hunt.json) |
 | Ane Hara-Mix Two | 97767 | [97767-ane-hara-mix-two.json](./97767-ane-hara-mix-two.json) |
+| Ane-san | 44316 | [44316-ane-san.json](./44316-ane-san.json) |
 | AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
 | AneeMate | 305989 | [305989-aneemate.json](./305989-aneemate.json) |
 | Anekan | 97621 | [97621-anekan.json](./97621-anekan.json) |
