@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Robots VR: The Skirmish | 55477 | [55477-war-robots-vr-the-skirmish.json](./55477-war-robots-vr-the-skirmish.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
+| War Rock | 20674 | [20674-war-rock.json](./20674-war-rock.json) |
 | War Room | 24001 | [24001-war-room.json](./24001-war-room.json) |
 | War Room | 335325 | [335325-war-room.json](./335325-war-room.json) |
 | War Room Football | 403797 | [403797-war-room-football.json](./403797-war-room-football.json) |
