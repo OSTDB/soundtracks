@@ -9715,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forty Foes | 249831 | [249831-forty-foes.json](./249831-forty-foes.json) |
 | Forty Niner | 152092 | [152092-forty-niner.json](./152092-forty-niner.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
+| Forty-Love | 41080 | [41080-forty-love.json](./41080-forty-love.json) |
 | Forty-Niner | 295172 | [295172-forty-niner.json](./295172-forty-niner.json) |
 | Forum Mortuorum | 250807 | [250807-forum-mortuorum.json](./250807-forum-mortuorum.json) |
 | Forumwarz | 80161 | [80161-forumwarz.json](./80161-forumwarz.json) |
