@@ -8293,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger Dan DX | 47662 | [47662-digger-dan-dx.json](./47662-digger-dan-dx.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
+| Digger Simulator 2011 | 52907 | [52907-digger-simulator-2011.json](./52907-digger-simulator-2011.json) |
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
 | Digger: A Quest for Hidden Gems | 108111 | [108111-digger-a-quest-for-hidden-gems.json](./108111-digger-a-quest-for-hidden-gems.json) |
 | Diggergun | 204370 | [204370-diggergun.json](./204370-diggergun.json) |
@@ -10132,6 +10133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
 | Divinity: Dragon Commander | 2905 | [2905-divinity-dragon-commander.json](./2905-divinity-dragon-commander.json) |
 | Divinity: Dragon Commander - Imperial Edition | 51751 | [51751-divinity-dragon-commander-imperial-edition.json](./51751-divinity-dragon-commander-imperial-edition.json) |
+| Divinity: Original Sin - Collector's Edition | 52924 | [52924-divinity-original-sin-collectors-edition.json](./52924-divinity-original-sin-collectors-edition.json) |
 | Divinity: Original Sin - Enhanced Edition | 14177 | [14177-divinity-original-sin-enhanced-edition.json](./14177-divinity-original-sin-enhanced-edition.json) |
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinity: Original Sin 2 - Divine Ascension | 144597 | [144597-divinity-original-sin-2-divine-ascension.json](./144597-divinity-original-sin-2-divine-ascension.json) |
@@ -10750,6 +10752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
+| DogFight Simulator | 52922 | [52922-dogfight-simulator.json](./52922-dogfight-simulator.json) |
 | DogFight Time | 195439 | [195439-dogfight-time.json](./195439-dogfight-time.json) |
 | Dogfight: 80 Years of Aerial Warfare | 12051 | [12051-dogfight-80-years-of-aerial-warfare.json](./12051-dogfight-80-years-of-aerial-warfare.json) |
 | Dogfight: Battle for the Pacific | 209118 | [209118-dogfight-battle-for-the-pacific.json](./209118-dogfight-battle-for-the-pacific.json) |
@@ -11979,6 +11982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom City | 273233 | [273233-doom-city.json](./273233-doom-city.json) |
+| Doom Classic Complete | 52918 | [52918-doom-classic-complete.json](./52918-doom-classic-complete.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Day | 195930 | [195930-doom-day.json](./195930-doom-day.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
@@ -12224,8 +12228,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorway to Nightmares: Terrifying Tales | 420683 | [420683-doorway-to-nightmares-terrifying-tales.json](./420683-doorway-to-nightmares-terrifying-tales.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Doorways | 62930 | [62930-doorways.json](./62930-doorways.json) |
+| Doorways: All Chapters Collection | 52917 | [52917-doorways-all-chapters-collection.json](./52917-doorways-all-chapters-collection.json) |
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
 | Doorways: Prelude | 16640 | [16640-doorways-prelude.json](./16640-doorways-prelude.json) |
+| Doorways: The Entire Collection of Nightmares | 52916 | [52916-doorways-the-entire-collection-of-nightmares.json](./52916-doorways-the-entire-collection-of-nightmares.json) |
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
 | Doozie the Unicorn | 253307 | [253307-doozie-the-unicorn.json](./253307-doozie-the-unicorn.json) |
 | DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
@@ -12654,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Money | 214284 | [214284-double-money.json](./214284-double-money.json) |
 | Double Moon Densetsu | 48522 | [48522-double-moon-densetsu.json](./48522-double-moon-densetsu.json) |
 | Double Mystery: Escape Room Bundle | 394569 | [394569-double-mystery-escape-room-bundle.json](./394569-double-mystery-escape-room-bundle.json) |
+| Double Oik! | 52915 | [52915-double-oik.json](./52915-double-oik.json) |
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
 | Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
 | Double Play Adventure: Time Quest / Crystal Quest | 85973 | [85973-double-play-adventure-time-quest-crystal-quest.json](./85973-double-play-adventure-time-quest-crystal-quest.json) |
@@ -13149,6 +13156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula | 174104 | [174104-dracula.json](./174104-dracula.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
 | Dracula | 31184 | [31184-dracula.json](./31184-dracula.json) |
+| Dracula - Collection | 52914 | [52914-dracula-collection.json](./52914-dracula-collection.json) |
 | Dracula 13 | 50375 | [50375-dracula-13.json](./50375-dracula-13.json) |
 | Dracula 2 Pack | 131296 | [131296-dracula-2-pack.json](./131296-dracula-2-pack.json) |
 | Dracula 2: The Last Sanctuary | 9092 | [9092-dracula-2-the-last-sanctuary.json](./9092-dracula-2-the-last-sanctuary.json) |
@@ -13523,6 +13531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 | 19449 | [19449-dragon-ball-xenoverse-2.json](./19449-dragon-ball-xenoverse-2.json) |
 | Dragon Ball: Xenoverse 2 - Conton City Vote Pack | 223592 | [223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json](./223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json) |
 | Dragon Ball: Xenoverse 2 - Day One Edition | 362979 | [362979-dragon-ball-xenoverse-2-day-one-edition.json](./362979-dragon-ball-xenoverse-2-day-one-edition.json) |
+| Dragon Ball: Xenoverse 2 - Deluxe Edition | 52947 | [52947-dragon-ball-xenoverse-2-deluxe-edition.json](./52947-dragon-ball-xenoverse-2-deluxe-edition.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 1 | 168747 | [168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json](./168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 2 | 168748 | [168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json](./168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 4 | 168749 | [168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json](./168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json) |
@@ -13571,6 +13580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Break Classic Head to Head | 152755 | [152755-dragon-break-classic-head-to-head.json](./152755-dragon-break-classic-head-to-head.json) |
 | Dragon Breed | 6791 | [6791-dragon-breed.json](./6791-dragon-breed.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
+| Dragon Bros: Collector's Edition | 52946 | [52946-dragon-bros-collectors-edition.json](./52946-dragon-bros-collectors-edition.json) |
 | Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
 | Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
 | Dragon Buster II: Yami no Fuuin | 48521 | [48521-dragon-buster-ii-yami-no-fuuin.json](./48521-dragon-buster-ii-yami-no-fuuin.json) |
@@ -13688,6 +13698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
 | Dragon Kingdom | 182277 | [182277-dragon-kingdom.json](./182277-dragon-kingdom.json) |
 | Dragon Kingdom | 312637 | [312637-dragon-kingdom.json](./312637-dragon-kingdom.json) |
+| Dragon Kingdom War: Deluxe Edition | 52945 | [52945-dragon-kingdom-war-deluxe-edition.json](./52945-dragon-kingdom-war-deluxe-edition.json) |
 | Dragon Kingdoms: A Legend's Beginning | 236322 | [236322-dragon-kingdoms-a-legends-beginning.json](./236322-dragon-kingdoms-a-legends-beginning.json) |
 | Dragon Kings | 269027 | [269027-dragon-kings.json](./269027-dragon-kings.json) |
 | Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
@@ -14452,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadOut 2 | 110164 | [110164-dreadout-2.json](./110164-dreadout-2.json) |
 | DreadOut 3 | 343697 | [343697-dreadout-3.json](./343697-dreadout-3.json) |
 | DreadOut: Keepers of The Dark | 20179 | [20179-dreadout-keepers-of-the-dark.json](./20179-dreadout-keepers-of-the-dark.json) |
+| DreadOut: Remastered Collection | 52944 | [52944-dreadout-remastered-collection.json](./52944-dreadout-remastered-collection.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadsite Survival | 288370 | [288370-dreadsite-survival.json](./288370-dreadsite-survival.json) |
@@ -15392,6 +15404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Simulator | 326442 | [326442-driving-simulator.json](./326442-driving-simulator.json) |
 | Driving Simulator 2009 | 27484 | [27484-driving-simulator-2009.json](./27484-driving-simulator-2009.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
+| Driving Simulator 2012 | 52943 | [52943-driving-simulator-2012.json](./52943-driving-simulator-2012.json) |
 | Driving Speed HD | 232332 | [232332-driving-speed-hd.json](./232332-driving-speed-hd.json) |
 | Driving Speed Pro | 261946 | [261946-driving-speed-pro.json](./261946-driving-speed-pro.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
@@ -15413,6 +15426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
 | Drod RPG 2 | 363048 | [363048-drod-rpg-2.json](./363048-drod-rpg-2.json) |
 | DROD RPG: Tendry's Tale | 8991 | [8991-drod-rpg-tendrys-tale.json](./8991-drod-rpg-tendrys-tale.json) |
+| Drod: All the Smitemaster's Selections | 52942 | [52942-drod-all-the-smitemasters-selections.json](./52942-drod-all-the-smitemasters-selections.json) |
 | DROD: Journey to Rooted Hold | 9085 | [9085-drod-journey-to-rooted-hold.json](./9085-drod-journey-to-rooted-hold.json) |
 | DROD: King Dugan's Dungeon | 9084 | [9084-drod-king-dugans-dungeon.json](./9084-drod-king-dugans-dungeon.json) |
 | DROD: Smitemaster's Selection Expansion 13 - Treacle Stew | 321317 | [321317-drod-smitemasters-selection-expansion-13-treacle-stew.json](./321317-drod-smitemasters-selection-expansion-13-treacle-stew.json) |
@@ -16253,6 +16267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Balls of Steel Edition | 43024 | [43024-duke-nukem-forever-balls-of-steel-edition.json](./43024-duke-nukem-forever-balls-of-steel-edition.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
+| Duke Nukem Forever: Hail to the Icons Parody Pack | 52937 | [52937-duke-nukem-forever-hail-to-the-icons-parody-pack.json](./52937-duke-nukem-forever-hail-to-the-icons-parody-pack.json) |
 | Duke Nukem Forever: Reimposition | 371400 | [371400-duke-nukem-forever-reimposition.json](./371400-duke-nukem-forever-reimposition.json) |
 | Duke Nukem Forever: Restoration Project | 261103 | [261103-duke-nukem-forever-restoration-project.json](./261103-duke-nukem-forever-restoration-project.json) |
 | Duke Nukem II Remastered | 252067 | [252067-duke-nukem-ii-remastered.json](./252067-duke-nukem-ii-remastered.json) |
@@ -16681,6 +16696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Maker II: The Hidden War | 42765 | [42765-dungeon-maker-ii-the-hidden-war.json](./42765-dungeon-maker-ii-the-hidden-war.json) |
 | Dungeon Man | 188253 | [188253-dungeon-man.json](./188253-dungeon-man.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
+| Dungeon Manager ZV - Collection | 52936 | [52936-dungeon-manager-zv-collection.json](./52936-dungeon-manager-zv-collection.json) |
 | Dungeon Manager ZV 2 | 29739 | [29739-dungeon-manager-zv-2.json](./29739-dungeon-manager-zv-2.json) |
 | Dungeon Manager ZV: Resurrection | 55446 | [55446-dungeon-manager-zv-resurrection.json](./55446-dungeon-manager-zv-resurrection.json) |
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
@@ -16748,8 +16764,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
 | Dungeon of the Devourer | 334073 | [334073-dungeon-of-the-devourer.json](./334073-dungeon-of-the-devourer.json) |
 | Dungeon of the Endless: Apogee | 175014 | [175014-dungeon-of-the-endless-apogee.json](./175014-dungeon-of-the-endless-apogee.json) |
+| Dungeon of the Endless: Crystal Edition | 52935 | [52935-dungeon-of-the-endless-crystal-edition.json](./52935-dungeon-of-the-endless-crystal-edition.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Definitive Edition | 233351 | [233351-dungeon-of-the-endless-definitive-edition.json](./233351-dungeon-of-the-endless-definitive-edition.json) |
+| Dungeon of the Endless: Pixel Edition | 52934 | [52934-dungeon-of-the-endless-pixel-edition.json](./52934-dungeon-of-the-endless-pixel-edition.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
 | Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
 | Dungeon of the Gods | 184875 | [184875-dungeon-of-the-gods.json](./184875-dungeon-of-the-gods.json) |
@@ -16811,6 +16829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Runners | 21407 | [21407-dungeon-runners.json](./21407-dungeon-runners.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
 | Dungeon Rushers | 20395 | [20395-dungeon-rushers.json](./20395-dungeon-rushers.json) |
+| Dungeon Rushers: Deluxe Edition | 52933 | [52933-dungeon-rushers-deluxe-edition.json](./52933-dungeon-rushers-deluxe-edition.json) |
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
 | Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
@@ -16840,6 +16859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
 | Dungeon Solitaire | 341127 | [341127-dungeon-solitaire.json](./341127-dungeon-solitaire.json) |
 | Dungeon Solver | 133338 | [133338-dungeon-solver.json](./133338-dungeon-solver.json) |
+| Dungeon Souls: Deluxe Edition | 52932 | [52932-dungeon-souls-deluxe-edition.json](./52932-dungeon-souls-deluxe-edition.json) |
 | Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
 | Dungeon Square | 197739 | [197739-dungeon-square.json](./197739-dungeon-square.json) |
 | Dungeon Squeaker | 180426 | [180426-dungeon-squeaker.json](./180426-dungeon-squeaker.json) |
@@ -17151,6 +17171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
 | Dungeons: Collector's Edition | 138088 | [138088-dungeons-collectors-edition.json](./138088-dungeons-collectors-edition.json) |
 | Dungeons: Game of the Year Edition | 138052 | [138052-dungeons-game-of-the-year-edition.json](./138052-dungeons-game-of-the-year-edition.json) |
+| Dungeons: Gold Edition | 52931 | [52931-dungeons-gold-edition.json](./52931-dungeons-gold-edition.json) |
 | Dungeons: Map Pack | 138049 | [138049-dungeons-map-pack.json](./138049-dungeons-map-pack.json) |
 | Dungeons: Steam Special Edition | 90477 | [90477-dungeons-steam-special-edition.json](./90477-dungeons-steam-special-edition.json) |
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
