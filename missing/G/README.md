@@ -3080,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Wars 3: Dimensions Evolved | 17573 | [17573-geometry-wars-3-dimensions-evolved.json](./17573-geometry-wars-3-dimensions-evolved.json) |
 | Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
+| Geometry Wars: Retro Evolved 2 | 4887 | [4887-geometry-wars-retro-evolved-2.json](./4887-geometry-wars-retro-evolved-2.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
 | Geometry World | 55575 | [55575-geometry-world.json](./55575-geometry-world.json) |
 | Geometry Worlds 2 | 208180 | [208180-geometry-worlds-2.json](./208180-geometry-worlds-2.json) |
@@ -5787,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goemon's Great Adventure | 3508 | [3508-goemons-great-adventure.json](./3508-goemons-great-adventure.json) |
 | Goes! | 61274 | [61274-goes.json](./61274-goes.json) |
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
+| Goetia | 18454 | [18454-goetia.json](./18454-goetia.json) |
 | Goetia 1 | 257293 | [257293-goetia-1.json](./257293-goetia-1.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
