@@ -5772,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Xtreme Stunts | 15739 | [15739-island-xtreme-stunts.json](./15739-island-xtreme-stunts.json) |
 | Island Xtreme Stunts | 300709 | [300709-island-xtreme-stunts.json](./300709-island-xtreme-stunts.json) |
 | Island_Name_Here | 222274 | [222274-island-name-here.json](./222274-island-name-here.json) |
+| Islanded | 10350 | [10350-islanded.json](./10350-islanded.json) |
 | Islander | 176851 | [176851-islander.json](./176851-islander.json) |
 | Islanders | 116133 | [116133-islanders.json](./116133-islanders.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
