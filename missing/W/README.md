@@ -3445,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What Could Go Wrong? | 344415 | [344415-what-could-go-wrong.json](./344415-what-could-go-wrong.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
+| What Did I Do to Deserve This, My Lord? | 21577 | [21577-what-did-i-do-to-deserve-this-my-lord.json](./21577-what-did-i-do-to-deserve-this-my-lord.json) |
 | What Did the Chicken See | 390746 | [390746-what-did-the-chicken-see.json](./390746-what-did-the-chicken-see.json) |
 | What Did Veronica Dream Of? | 185375 | [185375-what-did-veronica-dream-of.json](./185375-what-did-veronica-dream-of.json) |
 | What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
@@ -6823,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
 | Woody Blox | 74916 | [74916-woody-blox.json](./74916-woody-blox.json) |
 | Woody Chopper | 160269 | [160269-woody-chopper.json](./160269-woody-chopper.json) |
+| Woody Pop | 21551 | [21551-woody-pop.json](./21551-woody-pop.json) |
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
 | Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
