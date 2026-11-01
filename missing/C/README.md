@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Coin-Op Classics Series 1 | 286967 | [286967-capcom-coin-op-classics-series-1.json](./286967-capcom-coin-op-classics-series-1.json) |
 | Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
 | Capcom Digital Collection | 6933 | [6933-capcom-digital-collection.json](./6933-capcom-digital-collection.json) |
+| Capcom Essentials | 42959 | [42959-capcom-essentials.json](./42959-capcom-essentials.json) |
 | Capcom Fighting All-Stars | 77245 | [77245-capcom-fighting-all-stars.json](./77245-capcom-fighting-all-stars.json) |
 | Capcom Fighting Bundle | 207898 | [207898-capcom-fighting-bundle.json](./207898-capcom-fighting-bundle.json) |
 | Capcom Fighting Collection 2 | 314942 | [314942-capcom-fighting-collection-2.json](./314942-capcom-fighting-collection-2.json) |
@@ -8933,6 +8934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes 1 & 2 Complete Edition | 283594 | [283594-class-of-heroes-1-and-2-complete-edition.json](./283594-class-of-heroes-1-and-2-complete-edition.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
 | Class of Heroes 2 | 283593 | [283593-class-of-heroes-2.json](./283593-class-of-heroes-2.json) |
+| Class of Heroes 2G | 43009 | [43009-class-of-heroes-2g.json](./43009-class-of-heroes-2g.json) |
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
 | Class of Heroes 3: Remaster | 325303 | [325303-class-of-heroes-3-remaster.json](./325303-class-of-heroes-3-remaster.json) |
 | Class of Heroes: Anniversary Edition | 220942 | [220942-class-of-heroes-anniversary-edition.json](./220942-class-of-heroes-anniversary-edition.json) |
