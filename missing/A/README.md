@@ -4267,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes VR | 51381 | [51381-age-of-heroes-vr.json](./51381-age-of-heroes-vr.json) |
 | Age Of Heroes: Army Of Darkness | 320970 | [320970-age-of-heroes-army-of-darkness.json](./320970-age-of-heroes-army-of-darkness.json) |
+| Age of Heroes: Silkroad 2 | 41110 | [41110-age-of-heroes-silkroad-2.json](./41110-age-of-heroes-silkroad-2.json) |
 | Age of Heroes: The Beginning | 187985 | [187985-age-of-heroes-the-beginning.json](./187985-age-of-heroes-the-beginning.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of History II: Definitive Edition | 399162 | [399162-age-of-history-ii-definitive-edition.json](./399162-age-of-history-ii-definitive-edition.json) |
@@ -14977,6 +14978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Arcade 1 | 149293 | [149293-atari-arcade-1.json](./149293-atari-arcade-1.json) |
 | Atari Arcade Hits: Volume 1 | 80627 | [80627-atari-arcade-hits-volume-1.json](./80627-atari-arcade-hits-volume-1.json) |
 | Atari Arcade Hits: Volume 2 | 79673 | [79673-atari-arcade-hits-volume-2.json](./79673-atari-arcade-hits-volume-2.json) |
+| Atari Baseball | 41092 | [41092-atari-baseball.json](./41092-atari-baseball.json) |
 | Atari Basketball | 131421 | [131421-atari-basketball.json](./131421-atari-basketball.json) |
 | Atari Classics Games | 301495 | [301495-atari-classics-games.json](./301495-atari-classics-games.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
