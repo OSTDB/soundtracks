@@ -11776,6 +11776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
 | Popeye Meets Ali Baba's Forty Thieves | 269925 | [269925-popeye-meets-ali-babas-forty-thieves.json](./269925-popeye-meets-ali-babas-forty-thieves.json) |
 | Popeye no Eigo Asobi | 48641 | [48641-popeye-no-eigo-asobi.json](./48641-popeye-no-eigo-asobi.json) |
+| Popeye: Rush for Spinach | 6538 | [6538-popeye-rush-for-spinach.json](./6538-popeye-rush-for-spinach.json) |
 | Popeye: The Rescue | 209330 | [209330-popeye-the-rescue.json](./209330-popeye-the-rescue.json) |
 | Popful Mail | 242129 | [242129-popful-mail.json](./242129-popful-mail.json) |
 | Popful Mail | 242130 | [242130-popful-mail.json](./242130-popful-mail.json) |
@@ -13479,6 +13480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker: Legend of Another World | 38182 | [38182-princess-maker-legend-of-another-world.json](./38182-princess-maker-legend-of-another-world.json) |
 | Princess Miner | 383149 | [383149-princess-miner.json](./383149-princess-miner.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
+| Princess Natasha | 6539 | [6539-princess-natasha.json](./6539-princess-natasha.json) |
 | Princess Night | 390467 | [390467-princess-night.json](./390467-princess-night.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
@@ -15700,6 +15702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psychotic Bathtub | 261673 | [261673-psychotic-bathtub.json](./261673-psychotic-bathtub.json) |
 | Psychotic Nightmare | 311880 | [311880-psychotic-nightmare.json](./311880-psychotic-nightmare.json) |
+| Psychotoxic | 8320 | [8320-psychotoxic.json](./8320-psychotoxic.json) |
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psychroma | 204534 | [204534-psychroma.json](./204534-psychroma.json) |
 | PsychWorld | 250791 | [250791-psychworld.json](./250791-psychworld.json) |
