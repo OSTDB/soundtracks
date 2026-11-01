@@ -4192,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
 | Battlewake | 118306 | [118306-battlewake.json](./118306-battlewake.json) |
 | Battlewang | 23845 | [23845-battlewang.json](./23845-battlewang.json) |
+| BattleWave | 24511 | [24511-battlewave.json](./24511-battlewave.json) |
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlewrights | 337763 | [337763-battlewrights.json](./337763-battlewrights.json) |
 | BattleZ | 236235 | [236235-battlez.json](./236235-battlez.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearbarians | 62809 | [62809-bearbarians.json](./62809-bearbarians.json) |
 | Bearbushkas | 86653 | [86653-bearbushkas.json](./86653-bearbushkas.json) |
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
+| Beard Blade | 24517 | [24517-beard-blade.json](./24517-beard-blade.json) |
 | Beardbarians | 317900 | [317900-beardbarians.json](./317900-beardbarians.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards & Beaks | 79095 | [79095-beards-and-beaks.json](./79095-beards-and-beaks.json) |
@@ -15855,6 +15857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bunny | 246029 | [246029-bullet-bunny.json](./246029-bullet-bunny.json) |
 | Bullet Butlers | 58052 | [58052-bullet-butlers.json](./58052-bullet-butlers.json) |
 | Bullet Butlers: Juudan no Kanata | 259483 | [259483-bullet-butlers-juudan-no-kanata.json](./259483-bullet-butlers-juudan-no-kanata.json) |
+| Bullet Candy Perfect | 24489 | [24489-bullet-candy-perfect.json](./24489-bullet-candy-perfect.json) |
 | Bullet Casters | 190426 | [190426-bullet-casters.json](./190426-bullet-casters.json) |
 | Bullet Cell | 136239 | [136239-bullet-cell.json](./136239-bullet-cell.json) |
 | Bullet Chain: Vessels | 390075 | [390075-bullet-chain-vessels.json](./390075-bullet-chain-vessels.json) |
