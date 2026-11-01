@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Experiments: Escape Room | 127216 | [127216-mad-experiments-escape-room.json](./127216-mad-experiments-escape-room.json) |
 | Mad Experiments: Escape Room - Sanctuary | 345436 | [345436-mad-experiments-escape-room-sanctuary.json](./345436-mad-experiments-escape-room-sanctuary.json) |
 | Mad Factory | 107405 | [107405-mad-factory.json](./107405-mad-factory.json) |
+| Mad Father | 3203 | [3203-mad-father.json](./3203-mad-father.json) |
 | Mad Fighter | 133199 | [133199-mad-fighter.json](./133199-mad-fighter.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
@@ -3774,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
 | Mario Party: The Top 100 | 66812 | [66812-mario-party-the-top-100.json](./66812-mario-party-the-top-100.json) |
 | Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
+| Mario Power Tennis | 3985 | [3985-mario-power-tennis.json](./3985-mario-power-tennis.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
 | Mario Power Tennis: Hammer Power | 328667 | [328667-mario-power-tennis-hammer-power.json](./328667-mario-power-tennis-hammer-power.json) |
 | Mario Racing Tournament | 314508 | [314508-mario-racing-tournament.json](./314508-mario-racing-tournament.json) |
@@ -4622,8 +4624,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Kasumi - Stolen Memory | 13885 | [13885-mass-effect-2-kasumi-stolen-memory.json](./13885-mass-effect-2-kasumi-stolen-memory.json) |
 | Mass Effect 2: Overlord | 783 | [783-mass-effect-2-overlord.json](./783-mass-effect-2-overlord.json) |
 | Mass Effect 2: Ultimate Edition | 99959 | [99959-mass-effect-2-ultimate-edition.json](./99959-mass-effect-2-ultimate-edition.json) |
+| Mass Effect 2: Zaeed - The Price of Revenge | 13798 | [13798-mass-effect-2-zaeed-the-price-of-revenge.json](./13798-mass-effect-2-zaeed-the-price-of-revenge.json) |
 | Mass Effect 3: Citadel | 13690 | [13690-mass-effect-3-citadel.json](./13690-mass-effect-3-citadel.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
+| Mass Effect 3: Leviathan | 13911 | [13911-mass-effect-3-leviathan.json](./13911-mass-effect-3-leviathan.json) |
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
 | Mass Effect 3: Omega | 13912 | [13912-mass-effect-3-omega.json](./13912-mass-effect-3-omega.json) |
@@ -6840,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 7 Refit | 219080 | [219080-mega-man-7-refit.json](./219080-mega-man-7-refit.json) |
 | Mega Man 8-bit Deathmatch | 136285 | [136285-mega-man-8-bit-deathmatch.json](./136285-mega-man-8-bit-deathmatch.json) |
 | Mega Man 8: Anniversary Collector's Edition | 45182 | [45182-mega-man-8-anniversary-collectors-edition.json](./45182-mega-man-8-anniversary-collectors-edition.json) |
+| Mega Man 9 | 1722 | [1722-mega-man-9.json](./1722-mega-man-9.json) |
 | Mega Man 9: Endless Attack Mode | 144695 | [144695-mega-man-9-endless-attack-mode.json](./144695-mega-man-9-endless-attack-mode.json) |
 | Mega Man 9: Hero Mode | 144698 | [144698-mega-man-9-hero-mode.json](./144698-mega-man-9-hero-mode.json) |
 | Mega Man 9: Proto Man Mode | 144696 | [144696-mega-man-9-proto-man-mode.json](./144696-mega-man-9-proto-man-mode.json) |
@@ -7261,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Y+1: Operation X.M.A.S. | 279729 | [279729-mega-man-y-1-operation-x-m-a-s.json](./279729-mega-man-y-1-operation-x-m-a-s.json) |
 | Mega Man Zero | 1775 | [1775-mega-man-zero.json](./1775-mega-man-zero.json) |
 | Mega Man Zero 1.5 | 185844 | [185844-mega-man-zero-1-5.json](./185844-mega-man-zero-1-5.json) |
+| Mega Man Zero 2 | 1776 | [1776-mega-man-zero-2.json](./1776-mega-man-zero-2.json) |
 | Mega Man Zero 3 | 1777 | [1777-mega-man-zero-3.json](./1777-mega-man-zero-3.json) |
 | Mega Man Zero 3 | 351805 | [351805-mega-man-zero-3.json](./351805-mega-man-zero-3.json) |
 | Mega Man Zero 3: Modification Card - Alouette | 352533 | [352533-mega-man-zero-3-modification-card-alouette.json](./352533-mega-man-zero-3-modification-card-alouette.json) |
@@ -9394,6 +9400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime 2: Echoes | 134258 | [134258-metroid-prime-2-echoes.json](./134258-metroid-prime-2-echoes.json) |
 | Metroid Prime 2: Echoes - Double Trouble | 388563 | [388563-metroid-prime-2-echoes-double-trouble.json](./388563-metroid-prime-2-echoes-double-trouble.json) |
 | Metroid Prime 3: Corruption | 1111 | [1111-metroid-prime-3-corruption.json](./1111-metroid-prime-3-corruption.json) |
+| Metroid Prime Hunters | 1110 | [1110-metroid-prime-hunters.json](./1110-metroid-prime-hunters.json) |
 | Metroid Prime Pinball | 1109 | [1109-metroid-prime-pinball.json](./1109-metroid-prime-pinball.json) |
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
 | Metroid Prime: Blast Ball | 23492 | [23492-metroid-prime-blast-ball.json](./23492-metroid-prime-blast-ball.json) |
