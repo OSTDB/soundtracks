@@ -4176,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insiders | 155024 | [155024-insiders.json](./155024-insiders.json) |
 | Insiders | 377952 | [377952-insiders.json](./377952-insiders.json) |
 | Insiders 2: Eve ga Inai | 377953 | [377953-insiders-2-eve-ga-inai.json](./377953-insiders-2-eve-ga-inai.json) |
+| Insidia | 55570 | [55570-insidia.json](./55570-insidia.json) |
 | Insight | 175657 | [175657-insight.json](./175657-insight.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
