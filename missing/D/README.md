@@ -15486,6 +15486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drivers of the Apocalypse | 324586 | [324586-drivers-of-the-apocalypse.json](./324586-drivers-of-the-apocalypse.json) |
 | DriveSafely | 285936 | [285936-drivesafely.json](./285936-drivesafely.json) |
 | DriveWave | 374953 | [374953-drivewave.json](./374953-drivewave.json) |
+| Drivin' Force | 12575 | [12575-drivin-force.json](./12575-drivin-force.json) |
 | Driving Academy 2018 Simulator | 86972 | [86972-driving-academy-2018-simulator.json](./86972-driving-academy-2018-simulator.json) |
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
 | Driving Demon | 44370 | [44370-driving-demon.json](./44370-driving-demon.json) |
@@ -17279,6 +17280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of the Fallen | 105025 | [105025-dungeons-of-the-fallen.json](./105025-dungeons-of-the-fallen.json) |
 | Dungeons of the Unforgiven | 73616 | [73616-dungeons-of-the-unforgiven.json](./73616-dungeons-of-the-unforgiven.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
+| Dungeons, Amethysts, Alchemists 'N' Everythin' | 12576 | [12576-dungeons-amethysts-alchemists-n-everythin.json](./12576-dungeons-amethysts-alchemists-n-everythin.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
 | Dungeons: Collector's Edition | 138088 | [138088-dungeons-collectors-edition.json](./138088-dungeons-collectors-edition.json) |
 | Dungeons: Game of the Year Edition | 138052 | [138052-dungeons-game-of-the-year-edition.json](./138052-dungeons-game-of-the-year-edition.json) |
@@ -17913,6 +17915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | Dystropicana | 184188 | [184188-dystropicana.json](./184188-dystropicana.json) |
+| Dyter-07 | 12577 | [12577-dyter-07.json](./12577-dyter-07.json) |
 | Dyztopia: Post-Human RPG | 231748 | [231748-dyztopia-post-human-rpg.json](./231748-dyztopia-post-human-rpg.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
