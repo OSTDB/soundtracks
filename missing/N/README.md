@@ -4363,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights into Dreams: Pizza Tower | 265072 | [265072-nights-into-dreams-pizza-tower.json](./265072-nights-into-dreams-pizza-tower.json) |
 | Nights Into Dreams: Score Attack | 309017 | [309017-nights-into-dreams-score-attack.json](./309017-nights-into-dreams-score-attack.json) |
 | Nights into Dreams... | 198640 | [198640-nights-into-dreams.json](./198640-nights-into-dreams.json) |
+| Nights Into Dreams... | 5075 | [5075-nights-into-dreams.json](./5075-nights-into-dreams.json) |
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
 | Nights of Azure 2: Bride of the New Moon - Side Story: The Foreigner in a Wonderland of Sweets | 171213 | [171213-nights-of-azure-2-bride-of-the-new-moon-side-story-the-foreigner-in-a-wonderland-of-sweets.json](./171213-nights-of-azure-2-bride-of-the-new-moon-side-story-the-foreigner-in-a-wonderland-of-sweets.json) |
 | Nights of Azure 2: Bride of the New Moon - Side Story: Time Drifts Through the Moonlit Night | 171212 | [171212-nights-of-azure-2-bride-of-the-new-moon-side-story-time-drifts-through-the-moonlit-night.json](./171212-nights-of-azure-2-bride-of-the-new-moon-side-story-time-drifts-through-the-moonlit-night.json) |
@@ -4694,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden | 210484 | [210484-ninja-gaiden.json](./210484-ninja-gaiden.json) |
 | Ninja Gaiden | 221646 | [221646-ninja-gaiden.json](./221646-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
+| Ninja Gaiden | 5972 | [5972-ninja-gaiden.json](./5972-ninja-gaiden.json) |
 | Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
 | Ninja Gaiden 3: Collector's Edition | 47464 | [47464-ninja-gaiden-3-collectors-edition.json](./47464-ninja-gaiden-3-collectors-edition.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
@@ -5393,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
 | No More Regrets | 195857 | [195857-no-more-regrets.json](./195857-no-more-regrets.json) |
+| No More Room in Hell | 15407 | [15407-no-more-room-in-hell.json](./15407-no-more-room-in-hell.json) |
 | No More Room in Hell 2 | 149340 | [149340-no-more-room-in-hell-2.json](./149340-no-more-room-in-hell-2.json) |
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
