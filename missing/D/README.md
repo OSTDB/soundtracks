@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price! | 136955 | [136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json](./136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json) |
 | Dai Meiro: Meikyuu no Tatsujin | 48528 | [48528-dai-meiro-meikyuu-no-tatsujin.json](./48528-dai-meiro-meikyuu-no-tatsujin.json) |
+| Dai Senpu | 44325 | [44325-dai-senpu.json](./44325-dai-senpu.json) |
 | Dai Senryaku VII: Modern Military Tactics | 69530 | [69530-dai-senryaku-vii-modern-military-tactics.json](./69530-dai-senryaku-vii-modern-military-tactics.json) |
 | Dai-2-dan: Pokémon Battle Card e+ - Yuruginai Chikara | 355957 | [355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json](./355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
@@ -6451,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dereism | 216237 | [216237-dereism.json](./216237-dereism.json) |
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
 | Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
+| Derelict Fleet | 44267 | [44267-derelict-fleet.json](./44267-derelict-fleet.json) |
 | Derelict Star | 376551 | [376551-derelict-star.json](./376551-derelict-star.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
@@ -10134,6 +10136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diving Focus | 348368 | [348368-diving-focus.json](./348368-diving-focus.json) |
 | Diving Into Abyss | 379093 | [379093-diving-into-abyss.json](./379093-diving-into-abyss.json) |
 | Diving Through Hell | 418556 | [418556-diving-through-hell.json](./418556-diving-through-hell.json) |
+| Diving Trunks | 44292 | [44292-diving-trunks.json](./44292-diving-trunks.json) |
 | Divinia Chronicles: Relics of Gan-Ti | 17437 | [17437-divinia-chronicles-relics-of-gan-ti.json](./17437-divinia-chronicles-relics-of-gan-ti.json) |
 | Divinity | 223256 | [223256-divinity.json](./223256-divinity.json) |
 | Divinity | 381216 | [381216-divinity.json](./381216-divinity.json) |
