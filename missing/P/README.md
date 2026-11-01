@@ -8763,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanTechtor | 110711 | [110711-plantechtor.json](./110711-plantechtor.json) |
 | Planted | 183411 | [183411-planted.json](./183411-planted.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
+| Plantera | 17004 | [17004-plantera.json](./17004-plantera.json) |
 | Plantera 2: Golden Acorn | 128835 | [128835-plantera-2-golden-acorn.json](./128835-plantera-2-golden-acorn.json) |
 | Planternauts | 341571 | [341571-planternauts.json](./341571-planternauts.json) |
 | Plantgotchi | 122321 | [122321-plantgotchi.json](./122321-plantgotchi.json) |
