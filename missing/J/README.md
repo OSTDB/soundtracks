@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | JAM sessions | 47925 | [47925-jam-sessions.json](./47925-jam-sessions.json) |
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
+| Jam Studio VR | 59580 | [59580-jam-studio-vr.json](./59580-jam-studio-vr.json) |
 | Jam Talk | 299386 | [299386-jam-talk.json](./299386-jam-talk.json) |
 | Jam with the Band | 21100 | [21100-jam-with-the-band.json](./21100-jam-with-the-band.json) |
 | JAM: Jets Aliens Missiles | 256229 | [256229-jam-jets-aliens-missiles.json](./256229-jam-jets-aliens-missiles.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jardin | 186163 | [186163-jardin.json](./186163-jardin.json) |
 | Jardinains 2! | 91259 | [91259-jardinains-2.json](./91259-jardinains-2.json) |
 | Jardinains! | 145340 | [145340-jardinains.json](./145340-jardinains.json) |
+| Jared Fogle Simulator | 59614 | [59614-jared-fogle-simulator.json](./59614-jared-fogle-simulator.json) |
 | Jargon | 390629 | [390629-jargon.json](./390629-jargon.json) |
 | Jarheads | 55510 | [55510-jarheads.json](./55510-jarheads.json) |
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
