@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Gun | 99152 | [99152-taco-gun.json](./99152-taco-gun.json) |
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
 | Taco Loco: Horror Game | 342274 | [342274-taco-loco-horror-game.json](./342274-taco-loco-horror-game.json) |
+| Taco Master | 52909 | [52909-taco-master.json](./52909-taco-master.json) |
 | Taco Run | 56149 | [56149-taco-run.json](./56149-taco-run.json) |
 | Taco Terror | 296324 | [296324-taco-terror.json](./296324-taco-terror.json) |
 | Taco Tides | 292076 | [292076-taco-tides.json](./292076-taco-tides.json) |
@@ -1003,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Hoia Baciu Forest | 202756 | [202756-tales-from-hoia-baciu-forest.json](./202756-tales-from-hoia-baciu-forest.json) |
 | Tales from Mars | 322012 | [322012-tales-from-mars.json](./322012-tales-from-mars.json) |
 | Tales from My Ass: Slice of Death | 255845 | [255845-tales-from-my-ass-slice-of-death.json](./255845-tales-from-my-ass-slice-of-death.json) |
+| Tales From Space: About A Blob | 52908 | [52908-tales-from-space-about-a-blob.json](./52908-tales-from-space-about-a-blob.json) |
 | Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Borderlands: Episode 4 - Escape Plan Bravo | 127037 | [127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json](./127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json) |
@@ -3004,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl | 198937 | [198937-tecmo-bowl.json](./198937-tecmo-bowl.json) |
 | Tecmo Bowl | 8168 | [8168-tecmo-bowl.json](./8168-tecmo-bowl.json) |
 | Tecmo Bowl NCAA 2017 | 48895 | [48895-tecmo-bowl-ncaa-2017.json](./48895-tecmo-bowl-ncaa-2017.json) |
+| Tecmo Bowl Throwback | 52906 | [52906-tecmo-bowl-throwback.json](./52906-tecmo-bowl-throwback.json) |
 | Tecmo Bowl: Kickoff | 21329 | [21329-tecmo-bowl-kickoff.json](./21329-tecmo-bowl-kickoff.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Classic Arcade | 6192 | [6192-tecmo-classic-arcade.json](./6192-tecmo-classic-arcade.json) |
@@ -4920,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 22nd is Serda. F0a178 | 219566 | [219566-the-22nd-is-serda-f0a178.json](./219566-the-22nd-is-serda-f0a178.json) |
 | The 257th Element | 289570 | [289570-the-257th-element.json](./289570-the-257th-element.json) |
+| The 2D Adventures of Rotating Octopus Character | 52925 | [52925-the-2d-adventures-of-rotating-octopus-character.json](./52925-the-2d-adventures-of-rotating-octopus-character.json) |
 | The 2k Sports Collection | 148124 | [148124-the-2k-sports-collection.json](./148124-the-2k-sports-collection.json) |
 | The 2nd Super Super Mario Land | 290247 | [290247-the-2nd-super-super-mario-land.json](./290247-the-2nd-super-super-mario-land.json) |
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
@@ -6593,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chain | 182676 | [182676-the-chain.json](./182676-the-chain.json) |
 | The Chain Witches | 299519 | [299519-the-chain-witches.json](./299519-the-chain-witches.json) |
 | The Chains That Bound Me | 125693 | [125693-the-chains-that-bound-me.json](./125693-the-chains-that-bound-me.json) |
+| The Chainsaw Incident | 52920 | [52920-the-chainsaw-incident.json](./52920-the-chainsaw-incident.json) |
 | The Chair Across the Table Stayed Empty | 416587 | [416587-the-chair-across-the-table-stayed-empty.json](./416587-the-chair-across-the-table-stayed-empty.json) |
 | The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
@@ -7391,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Side Of Mars | 233156 | [233156-the-dark-side-of-mars.json](./233156-the-dark-side-of-mars.json) |
 | The Dark Side of the Moon | 144010 | [144010-the-dark-side-of-the-moon.json](./144010-the-dark-side-of-the-moon.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
+| The Dark Sorcerer | 52919 | [52919-the-dark-sorcerer.json](./52919-the-dark-sorcerer.json) |
 | The Dark Spire | 21185 | [21185-the-dark-spire.json](./21185-the-dark-spire.json) |
 | The Dark Stares Back | 142091 | [142091-the-dark-stares-back.json](./142091-the-dark-stares-back.json) |
 | The Dark Stone of Mebara | 9398 | [9398-the-dark-stone-of-mebara.json](./9398-the-dark-stone-of-mebara.json) |
@@ -9715,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hauntings | 164988 | [164988-the-hauntings.json](./164988-the-hauntings.json) |
 | The Hauntings: Dark Passenger | 269986 | [269986-the-hauntings-dark-passenger.json](./269986-the-hauntings-dark-passenger.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
+| The HD Adventures of Rotating Octopus Character | 52912 | [52912-the-hd-adventures-of-rotating-octopus-character.json](./52912-the-hd-adventures-of-rotating-octopus-character.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
 | The Headmaster | 321293 | [321293-the-headmaster.json](./321293-the-headmaster.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
@@ -10022,6 +10029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunger Games: Catching Fire - Panem Run | 62600 | [62600-the-hunger-games-catching-fire-panem-run.json](./62600-the-hunger-games-catching-fire-panem-run.json) |
 | The Hunger Games: Panem Rising | 344829 | [344829-the-hunger-games-panem-rising.json](./344829-the-hunger-games-panem-rising.json) |
 | The Hunger: Games Ensemble | 164914 | [164914-the-hunger-games-ensemble.json](./164914-the-hunger-games-ensemble.json) |
+| The Hungry Horde | 52911 | [52911-the-hungry-horde.json](./52911-the-hungry-horde.json) |
 | The Hungry Horde: Holiday Hijinx | 372821 | [372821-the-hungry-horde-holiday-hijinx.json](./372821-the-hungry-horde-holiday-hijinx.json) |
 | The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
 | The Hungry Lamb: Traveling in the Late Ming Dynasty | 296195 | [296195-the-hungry-lamb-traveling-in-the-late-ming-dynasty.json](./296195-the-hungry-lamb-traveling-in-the-late-ming-dynasty.json) |
@@ -12750,6 +12758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Möbius Strip | 366731 | [366731-the-mobius-strip.json](./366731-the-mobius-strip.json) |
 | The Mobius: Apartment | 322635 | [322635-the-mobius-apartment.json](./322635-the-mobius-apartment.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
+| The Modern Zombie Taxi Co. | 52941 | [52941-the-modern-zombie-taxi-co.json](./52941-the-modern-zombie-taxi-co.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
 | The Mold Exorcist | 228751 | [228751-the-mold-exorcist.json](./228751-the-mold-exorcist.json) |
 | The Molfar: Call of Heart | 367932 | [367932-the-molfar-call-of-heart.json](./367932-the-molfar-call-of-heart.json) |
@@ -12900,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Munsters | 56224 | [56224-the-munsters.json](./56224-the-munsters.json) |
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
 | The Muppet Show: Backstage Rampage | 343182 | [343182-the-muppet-show-backstage-rampage.json](./343182-the-muppet-show-backstage-rampage.json) |
+| The Muppets Movie Adventures | 52939 | [52939-the-muppets-movie-adventures.json](./52939-the-muppets-movie-adventures.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Murder of Adrian Elkwood | 70851 | [70851-the-murder-of-adrian-elkwood.json](./70851-the-murder-of-adrian-elkwood.json) |
@@ -13452,6 +13462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
 | The Outsider | 180560 | [180560-the-outsider.json](./180560-the-outsider.json) |
+| The Outsider | 52938 | [52938-the-outsider.json](./52938-the-outsider.json) |
 | The Outsider TD | 235661 | [235661-the-outsider-td.json](./235661-the-outsider-td.json) |
 | The Outsiders | 247952 | [247952-the-outsiders.json](./247952-the-outsiders.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
@@ -19215,8 +19226,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tidalis | 10991 | [10991-tidalis.json](./10991-tidalis.json) |
+| Tiddlywinks 2016 | 52962 | [52962-tiddlywinks-2016.json](./52962-tiddlywinks-2016.json) |
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
 | Tide Girl: Phenomena | 241266 | [241266-tide-girl-phenomena.json](./241266-tide-girl-phenomena.json) |
+| Tide of Iron | 52961 | [52961-tide-of-iron.json](./52961-tide-of-iron.json) |
 | Tide of Lone Stars | 412910 | [412910-tide-of-lone-stars.json](./412910-tide-of-lone-stars.json) |
 | Tide of Tactics | 412609 | [412609-tide-of-tactics.json](./412609-tide-of-tactics.json) |
 | Tide of the Depths | 421228 | [421228-tide-of-the-depths.json](./421228-tide-of-the-depths.json) |
@@ -21049,6 +21062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
 | Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
+| Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
 | Time Management | 366301 | [366301-time-management.json](./366301-time-management.json) |
 | Time Mysteries 3: The Final Enigma | 17764 | [17764-time-mysteries-3-the-final-enigma.json](./17764-time-mysteries-3-the-final-enigma.json) |
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
@@ -21298,6 +21312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
 | TimeSplitters 2 Redux | 290771 | [290771-timesplitters-2-redux.json](./290771-timesplitters-2-redux.json) |
+| TimeSplitters 4 | 52955 | [52955-timesplitters-4.json](./52955-timesplitters-4.json) |
 | TimeSplitters Next | 290385 | [290385-timesplitters-next.json](./290385-timesplitters-next.json) |
 | TimeSplitters Rewind | 27286 | [27286-timesplitters-rewind.json](./27286-timesplitters-rewind.json) |
 | TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
