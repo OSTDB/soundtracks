@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Dancer | 224635 | [224635-jet-dancer.json](./224635-jet-dancer.json) |
 | Jet de GO! 2: Let's Go by Airliner | 98002 | [98002-jet-de-go-2-lets-go-by-airliner.json](./98002-jet-de-go-2-lets-go-by-airliner.json) |
 | Jet de GO! Let's Go By Airliner | 61334 | [61334-jet-de-go-lets-go-by-airliner.json](./61334-jet-de-go-lets-go-by-airliner.json) |
+| Jet de GO! Pocket | 59001 | [59001-jet-de-go-pocket.json](./59001-jet-de-go-pocket.json) |
 | Jet de Go!: Let's Go By Airliner | 281593 | [281593-jet-de-go-lets-go-by-airliner.json](./281593-jet-de-go-lets-go-by-airliner.json) |
 | Jet Dog | 85208 | [85208-jet-dog.json](./85208-jet-dog.json) |
 | Jet Dragon | 256087 | [256087-jet-dragon.json](./256087-jet-dragon.json) |
