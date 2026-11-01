@@ -7328,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Village TD | 263080 | [263080-the-cursed-village-td.json](./263080-the-cursed-village-td.json) |
 | The Cursewood | 240720 | [240720-the-cursewood.json](./240720-the-cursewood.json) |
 | The Cursor Game | 292260 | [292260-the-cursor-game.json](./292260-the-cursor-game.json) |
+| The Custard Kid | 14021 | [14021-the-custard-kid.json](./14021-the-custard-kid.json) |
 | The Customer is Always Right! | 255270 | [255270-the-customer-is-always-right.json](./255270-the-customer-is-always-right.json) |
 | The Cute the Baldy and the Fluffy | 372434 | [372434-the-cute-the-baldy-and-the-fluffy.json](./372434-the-cute-the-baldy-and-the-fluffy.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
@@ -9523,6 +9524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Conclovince of Mithrithnogg | 301314 | [301314-the-great-conclovince-of-mithrithnogg.json](./301314-the-great-conclovince-of-mithrithnogg.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
 | The Great Deer | 192584 | [192584-the-great-deer.json](./192584-the-great-deer.json) |
+| The Great Detective | 14099 | [14099-the-great-detective.json](./14099-the-great-detective.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
 | The Great Divide | 238531 | [238531-the-great-divide.json](./238531-the-great-divide.json) |
 | The Great Easter Egg Hunt | 79951 | [79951-the-great-easter-egg-hunt.json](./79951-the-great-easter-egg-hunt.json) |
@@ -9534,6 +9536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fantasy Struggle | 95150 | [95150-the-great-fantasy-struggle.json](./95150-the-great-fantasy-struggle.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
+| The Great Fire of London | 14100 | [14100-the-great-fire-of-london.json](./14100-the-great-fire-of-london.json) |
 | The Great Fleece | 315914 | [315914-the-great-fleece.json](./315914-the-great-fleece.json) |
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
 | The Great Fluctus | 319045 | [319045-the-great-fluctus.json](./319045-the-great-fluctus.json) |
@@ -9850,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hellblade Bundle | 317402 | [317402-the-hellblade-bundle.json](./317402-the-hellblade-bundle.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
+| The Helm | 14111 | [14111-the-helm.json](./14111-the-helm.json) |
 | The Help Desk | 149493 | [149493-the-help-desk.json](./149493-the-help-desk.json) |
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
 | The Helping Hand Paradox | 323651 | [323651-the-helping-hand-paradox.json](./323651-the-helping-hand-paradox.json) |
@@ -9953,6 +9957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hole Town | 304912 | [304912-the-hole-town.json](./304912-the-hole-town.json) |
 | The Holiday Bakeoff | 325348 | [325348-the-holiday-bakeoff.json](./325348-the-holiday-bakeoff.json) |
 | The Holiday Express: Runaway Elf | 231000 | [231000-the-holiday-express-runaway-elf.json](./231000-the-holiday-express-runaway-elf.json) |
+| The Hollow | 14116 | [14116-the-hollow.json](./14116-the-hollow.json) |
 | The Hollow | 388518 | [388518-the-hollow.json](./388518-the-hollow.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
@@ -10041,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House in the Forest | 129746 | [129746-the-house-in-the-forest.json](./129746-the-house-in-the-forest.json) |
 | The House in the Hollow | 127780 | [127780-the-house-in-the-hollow.json](./127780-the-house-in-the-hollow.json) |
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
+| The House Jack Built | 14119 | [14119-the-house-jack-built.json](./14119-the-house-jack-built.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci Bundle | 186543 | [186543-the-house-of-da-vinci-bundle.json](./186543-the-house-of-da-vinci-bundle.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
@@ -10067,6 +10073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
 | The House of the Living | 129602 | [129602-the-house-of-the-living.json](./129602-the-house-of-the-living.json) |
 | The house of the missing hands | 287763 | [287763-the-house-of-the-missing-hands.json](./287763-the-house-of-the-missing-hands.json) |
+| The House on Damned Hill | 14120 | [14120-the-house-on-damned-hill.json](./14120-the-house-on-damned-hill.json) |
 | The House on Holland Hill | 134886 | [134886-the-house-on-holland-hill.json](./134886-the-house-on-holland-hill.json) |
 | The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
