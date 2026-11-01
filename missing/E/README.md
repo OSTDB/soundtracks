@@ -4501,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ERN | 320875 | [320875-ern.json](./320875-ern.json) |
 | Ernest Colt: Western Shooter | 25052 | [25052-ernest-colt-western-shooter.json](./25052-ernest-colt-western-shooter.json) |
 | Ernesto, A Quick Dungeon Crawler | 61151 | [61151-ernesto-a-quick-dungeon-crawler.json](./61151-ernesto-a-quick-dungeon-crawler.json) |
+| Ernie Els Golf | 46351 | [46351-ernie-els-golf.json](./46351-ernie-els-golf.json) |
 | Ernie's Adventures in Space | 122861 | [122861-ernies-adventures-in-space.json](./122861-ernies-adventures-in-space.json) |
 | Ernie's Quiz | 138490 | [138490-ernies-quiz.json](./138490-ernies-quiz.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
