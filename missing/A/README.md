@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat Infinity | 6628 | [6628-ace-combat-infinity.json](./6628-ace-combat-infinity.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
 | Ace Combat: Assault Horizon - Enhanced Edition | 20850 | [20850-ace-combat-assault-horizon-enhanced-edition.json](./20850-ace-combat-assault-horizon-enhanced-edition.json) |
+| Ace Combat: Joint Assault | 14757 | [14757-ace-combat-joint-assault.json](./14757-ace-combat-joint-assault.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
 | Ace Driver | 39337 | [39337-ace-driver.json](./39337-ace-driver.json) |
 | Ace Driver: Victory Lap | 65921 | [65921-ace-driver-victory-lap.json](./65921-ace-driver-victory-lap.json) |
@@ -9089,6 +9090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
 | Angry Video Game Nerd 8-bit | 329179 | [329179-angry-video-game-nerd-8-bit.json](./329179-angry-video-game-nerd-8-bit.json) |
 | Angry Video Game Nerd Adventures | 7960 | [7960-angry-video-game-nerd-adventures.json](./7960-angry-video-game-nerd-adventures.json) |
+| Angry Video Game Nerd Adventures 2: ASSimilation | 14742 | [14742-angry-video-game-nerd-adventures-2-assimilation.json](./14742-angry-video-game-nerd-adventures-2-assimilation.json) |
 | Angry VS Android | 88075 | [88075-angry-vs-android.json](./88075-angry-vs-android.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
@@ -14415,6 +14417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Limited Edition | 134234 | [134234-asterix-and-obelix-xxl-3-the-crystal-menhir-limited-edition.json](./134234-asterix-and-obelix-xxl-3-the-crystal-menhir-limited-edition.json) |
 | Asterix & Obelix XXL: Collection | 140168 | [140168-asterix-and-obelix-xxl-collection.json](./140168-asterix-and-obelix-xxl-collection.json) |
+| Asterix & Obelix XXL: Romastered | 138352 | [138352-asterix-and-obelix-xxl-romastered.json](./138352-asterix-and-obelix-xxl-romastered.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia | 208734 | [208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json](./208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia - Day One Edition | 209810 | [209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json](./209810-asterix-and-obelix-xxxl-the-ram-from-hibernia-day-one-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia - Limited Edition | 208735 | [208735-asterix-and-obelix-xxxl-the-ram-from-hibernia-limited-edition.json](./208735-asterix-and-obelix-xxxl-the-ram-from-hibernia-limited-edition.json) |
