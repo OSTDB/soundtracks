@@ -1613,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Squad | 207080 | [207080-omega-squad.json](./207080-omega-squad.json) |
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
 | Omega Strike: Deluxe Edition | 120798 | [120798-omega-strike-deluxe-edition.json](./120798-omega-strike-deluxe-edition.json) |
+| Omega Strikers | 212878 | [212878-omega-strikers.json](./212878-omega-strikers.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | Omega Timeline: Poppy's Story - A ChristmAUs Carol | 335138 | [335138-omega-timeline-poppys-story-a-christmaus-carol.json](./335138-omega-timeline-poppys-story-a-christmaus-carol.json) |
 | Omega Tower | 263112 | [263112-omega-tower.json](./263112-omega-tower.json) |
