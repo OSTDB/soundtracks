@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch Break | 135788 | [135788-launch-break.json](./135788-launch-break.json) |
 | Launch Dude | 339285 | [339285-launch-dude.json](./339285-launch-dude.json) |
 | Launch Party | 55619 | [55619-launch-party.json](./55619-launch-party.json) |
+| Launch Squad | 31405 | [31405-launch-squad.json](./31405-launch-squad.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
 | Launch Window | 412486 | [412486-launch-window.json](./412486-launch-window.json) |
 | Launched! | 132408 | [132408-launched.json](./132408-launched.json) |
