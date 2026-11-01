@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judah Knight: Knights & Demons - Chapter 1 | 348135 | [348135-judah-knight-knights-and-demons-chapter-1.json](./348135-judah-knight-knights-and-demons-chapter-1.json) |
 | Judas | 228527 | [228527-judas.json](./228527-judas.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
+| Judas Code | 61290 | [61290-judas-code.json](./61290-judas-code.json) |
 | Judas Priest: Road to Valhalla | 175162 | [175162-judas-priest-road-to-valhalla.json](./175162-judas-priest-road-to-valhalla.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
 | Judero | 221649 | [221649-judero.json](./221649-judero.json) |
