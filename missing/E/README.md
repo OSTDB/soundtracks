@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
 | Effeminate Touch | 396543 | [396543-effeminate-touch.json](./396543-effeminate-touch.json) |
 | Efficus: Kono Omoi wo Kimi ni... | 339910 | [339910-efficus-kono-omoi-wo-kimi-ni.json](./339910-efficus-kono-omoi-wo-kimi-ni.json) |
+| Effie | 111866 | [111866-effie.json](./111866-effie.json) |
 | Effie: Galand's Edition | 155147 | [155147-effie-galands-edition.json](./155147-effie-galands-edition.json) |
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
 | Effigy: The Descent | 200385 | [200385-effigy-the-descent.json](./200385-effigy-the-descent.json) |
