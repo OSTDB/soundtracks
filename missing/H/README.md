@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haloo | 298686 | [298686-haloo.json](./298686-haloo.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
 | Halos: React and Match Arcade Game | 59773 | [59773-halos-react-and-match-arcade-game.json](./59773-halos-react-and-match-arcade-game.json) |
+| Halp! | 32467 | [32467-halp.json](./32467-halp.json) |
 | Halt | 219493 | [219493-halt.json](./219493-halt.json) |
 | Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
@@ -2253,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
 | Hat Kid Steals the Declaration of Independence 3: Kingslayer | 313056 | [313056-hat-kid-steals-the-declaration-of-independence-3-kingslayer.json](./313056-hat-kid-steals-the-declaration-of-independence-3-kingslayer.json) |
 | Hat Trick | 12326 | [12326-hat-trick.json](./12326-hat-trick.json) |
+| Hat Trick Header | 32412 | [32412-hat-trick-header.json](./32412-hat-trick-header.json) |
 | Hat Trick Hero '93 | 39375 | [39375-hat-trick-hero-93.json](./39375-hat-trick-hero-93.json) |
 | Hat Trick Hero '94 | 39374 | [39374-hat-trick-hero-94.json](./39374-hat-trick-hero-94.json) |
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
@@ -5294,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
+| Hero | 32462 | [32462-hero.json](./32462-hero.json) |
 | Hero | 345952 | [345952-hero.json](./345952-hero.json) |
 | Hero | 379936 | [379936-hero.json](./379936-hero.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
