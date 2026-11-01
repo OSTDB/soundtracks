@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbound | 347724 | [347724-warbound.json](./347724-warbound.json) |
 | Warbound | 372627 | [372627-warbound.json](./372627-warbound.json) |
 | Warbound Storm | 220161 | [220161-warbound-storm.json](./220161-warbound-storm.json) |
+| WarbowPlus | 25357 | [25357-warbowplus.json](./25357-warbowplus.json) |
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warbox Sandbox | 204926 | [204926-warbox-sandbox.json](./204926-warbox-sandbox.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare Chess 2 | 97265 | [97265-warfare-chess-2.json](./97265-warfare-chess-2.json) |
 | Warfare Incorporated | 23602 | [23602-warfare-incorporated.json](./23602-warfare-incorporated.json) |
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
+| Warfare Reloaded | 25472 | [25472-warfare-reloaded.json](./25472-warfare-reloaded.json) |
 | Warfare Ultimatum | 295606 | [295606-warfare-ultimatum.json](./295606-warfare-ultimatum.json) |
 | Warfare: Battleground | 293511 | [293511-warfare-battleground.json](./293511-warfare-battleground.json) |
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
@@ -4995,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
 | Wildlife Park Gold Reloaded | 44189 | [44189-wildlife-park-gold-reloaded.json](./44189-wildlife-park-gold-reloaded.json) |
+| Wildlife Park Tycoon | 25462 | [25462-wildlife-park-tycoon.json](./25462-wildlife-park-tycoon.json) |
 | Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
 | Wildlife Park: Primeval | 87537 | [87537-wildlife-park-primeval.json](./87537-wildlife-park-primeval.json) |
 | Wildlife Planet: The Incremental | 197188 | [197188-wildlife-planet-the-incremental.json](./197188-wildlife-planet-the-incremental.json) |
@@ -6368,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WMS Slots: Ghost Stories | 53117 | [53117-wms-slots-ghost-stories.json](./53117-wms-slots-ghost-stories.json) |
 | WMS Slots: Quest for the Fountain | 53116 | [53116-wms-slots-quest-for-the-fountain.json](./53116-wms-slots-quest-for-the-fountain.json) |
 | WMS Slots: Reel'Em In | 53115 | [53115-wms-slots-reelem-in.json](./53115-wms-slots-reelem-in.json) |
+| WMS Slots: The Jade Monkey | 25380 | [25380-wms-slots-the-jade-monkey.json](./25380-wms-slots-the-jade-monkey.json) |
 | WMS Slots: Zeus II | 53114 | [53114-wms-slots-zeus-ii.json](./53114-wms-slots-zeus-ii.json) |
 | WN | 74455 | [74455-wn.json](./74455-wn.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
