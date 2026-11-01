@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
 | One Ton Bang Bang | 234722 | [234722-one-ton-bang-bang.json](./234722-one-ton-bang-bang.json) |
 | One Ton Reloaded | 234173 | [234173-one-ton-reloaded.json](./234173-one-ton-reloaded.json) |
+| One Tower | 58103 | [58103-one-tower.json](./58103-one-tower.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One Troll Army | 19302 | [19302-one-troll-army.json](./19302-one-troll-army.json) |
 | One True Cuddle | 158633 | [158633-one-true-cuddle.json](./158633-one-true-cuddle.json) |
@@ -4834,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outertown | 118191 | [118191-outertown.json](./118191-outertown.json) |
 | Outerverse | 164901 | [164901-outerverse.json](./164901-outerverse.json) |
 | Outfield | 279153 | [279153-outfield.json](./279153-outfield.json) |
+| Outfolded | 57950 | [57950-outfolded.json](./57950-outfolded.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
 | Outhold | 345514 | [345514-outhold.json](./345514-outhold.json) |
