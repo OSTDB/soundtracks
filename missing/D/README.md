@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny Fisher Kills the Government | 172437 | [172437-danny-fisher-kills-the-government.json](./172437-danny-fisher-kills-the-government.json) |
 | Danny Phantom: Ghost Frenzy | 257386 | [257386-danny-phantom-ghost-frenzy.json](./257386-danny-phantom-ghost-frenzy.json) |
 | Danny Phantom: Ghost Sweep | 313686 | [313686-danny-phantom-ghost-sweep.json](./313686-danny-phantom-ghost-sweep.json) |
+| Danny Phantom: The Ultimate Enemy | 6365 | [6365-danny-phantom-the-ultimate-enemy.json](./6365-danny-phantom-the-ultimate-enemy.json) |
 | Danny Phantom: Urban Jungle | 6366 | [6366-danny-phantom-urban-jungle.json](./6366-danny-phantom-urban-jungle.json) |
 | Danny Phantom: Urban Jungle Rumble | 144582 | [144582-danny-phantom-urban-jungle-rumble.json](./144582-danny-phantom-urban-jungle-rumble.json) |
 | Danny Sullivan's Indy Heat | 12734 | [12734-danny-sullivans-indy-heat.json](./12734-danny-sullivans-indy-heat.json) |
@@ -2493,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Mirra Freestyle BMX | 26012 | [26012-dave-mirra-freestyle-bmx.json](./26012-dave-mirra-freestyle-bmx.json) |
 | Dave Mirra Freestyle BMX 2 | 208753 | [208753-dave-mirra-freestyle-bmx-2.json](./208753-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX 2 | 3871 | [3871-dave-mirra-freestyle-bmx-2.json](./3871-dave-mirra-freestyle-bmx-2.json) |
+| Dave Mirra Freestyle BMX 3 | 6368 | [6368-dave-mirra-freestyle-bmx-3.json](./6368-dave-mirra-freestyle-bmx-3.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
@@ -2510,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
 | Davey's Mystery | 411645 | [411645-daveys-mystery.json](./411645-daveys-mystery.json) |
 | David & Keithan: The Haunted Lighthouse | 310579 | [310579-david-and-keithan-the-haunted-lighthouse.json](./310579-david-and-keithan-the-haunted-lighthouse.json) |
+| David Beckham Soccer | 6369 | [6369-david-beckham-soccer.json](./6369-david-beckham-soccer.json) |
 | David Bellamy's Endangered Wildlife | 64286 | [64286-david-bellamys-endangered-wildlife.json](./64286-david-bellamys-endangered-wildlife.json) |
 | David Crane's Amazing Tennis | 46534 | [46534-david-cranes-amazing-tennis.json](./46534-david-cranes-amazing-tennis.json) |
 | David Crane's The Rescue of Princess Blobette | 48959 | [48959-david-cranes-the-rescue-of-princess-blobette.json](./48959-david-cranes-the-rescue-of-princess-blobette.json) |
@@ -4869,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Enough | 405926 | [405926-deep-enough.json](./405926-deep-enough.json) |
 | Deep Excavation | 168531 | [168531-deep-excavation.json](./168531-deep-excavation.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
+| Deep Fighter | 8230 | [8230-deep-fighter.json](./8230-deep-fighter.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
 | Deep Forest | 131770 | [131770-deep-forest.json](./131770-deep-forest.json) |
 | Deep Forest | 41780 | [41780-deep-forest.json](./41780-deep-forest.json) |
@@ -5564,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeLight: The Journey Home - Chapter 5 | 168045 | [168045-delight-the-journey-home-chapter-5.json](./168045-delight-the-journey-home-chapter-5.json) |
 | Delightful Adventure 2: Double Demise | 420768 | [420768-delightful-adventure-2-double-demise.json](./420768-delightful-adventure-2-double-demise.json) |
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
+| Delightful Wallpaper | 6619 | [6619-delightful-wallpaper.json](./6619-delightful-wallpaper.json) |
 | Delila's Gift | 28740 | [28740-delilas-gift.json](./28740-delilas-gift.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
 | Delineation | 264724 | [264724-delineation.json](./264724-delineation.json) |
@@ -6248,6 +6253,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densetsu no Quiz-ou Ketteisen | 3973 | [3973-densetsu-no-quiz-ou-ketteisen.json](./3973-densetsu-no-quiz-ou-ketteisen.json) |
 | Densetsu no Starfy | 176085 | [176085-densetsu-no-starfy.json](./176085-densetsu-no-starfy.json) |
 | Densetsu no Starfy | 6370 | [6370-densetsu-no-starfy.json](./6370-densetsu-no-starfy.json) |
+| Densetsu no Starfy 2 | 6371 | [6371-densetsu-no-starfy-2.json](./6371-densetsu-no-starfy-2.json) |
+| Densetsu no Starfy 3 | 6372 | [6372-densetsu-no-starfy-3.json](./6372-densetsu-no-starfy-3.json) |
 | Densha | 109162 | [109162-densha.json](./109162-densha.json) |
 | Densha Daishuugou: Driving Train | 289740 | [289740-densha-daishuugou-driving-train.json](./289740-densha-daishuugou-driving-train.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
@@ -7335,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Human Revolution - Complete Edition | 118891 | [118891-deus-ex-human-revolution-complete-edition.json](./118891-deus-ex-human-revolution-complete-edition.json) |
 | Deus Ex: Human Revolution - Director's Cut | 9740 | [9740-deus-ex-human-revolution-directors-cut.json](./9740-deus-ex-human-revolution-directors-cut.json) |
 | Deus Ex: Human Revolution - The Missing Link | 9533 | [9533-deus-ex-human-revolution-the-missing-link.json](./9533-deus-ex-human-revolution-the-missing-link.json) |
+| Deus Ex: Insurrection | 8287 | [8287-deus-ex-insurrection.json](./8287-deus-ex-insurrection.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
 | Deus Ex: Malkavian Mod | 275623 | [275623-deus-ex-malkavian-mod.json](./275623-deus-ex-malkavian-mod.json) |
 | Deus Ex: Mankind Divided - A Criminal Past | 26929 | [26929-deus-ex-mankind-divided-a-criminal-past.json](./26929-deus-ex-mankind-divided-a-criminal-past.json) |
@@ -7652,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter: The Game | 21668 | [21668-dexter-the-game.json](./21668-dexter-the-game.json) |
 | Dexter's Lab: Dee Dee's Moon Squad | 203085 | [203085-dexters-lab-dee-dees-moon-squad.json](./203085-dexters-lab-dee-dees-moon-squad.json) |
 | Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
+| Dexter's Laboratory: Chess Challenge | 6373 | [6373-dexters-laboratory-chess-challenge.json](./6373-dexters-laboratory-chess-challenge.json) |
 | Dexter's Laboratory: Deesaster Strikes! | 2813 | [2813-dexters-laboratory-deesaster-strikes.json](./2813-dexters-laboratory-deesaster-strikes.json) |
 | Dexter's Laboratory: Mandark's Lab? | 2814 | [2814-dexters-laboratory-mandarks-lab.json](./2814-dexters-laboratory-mandarks-lab.json) |
 | Dexter's Laboratory: Robot Rampage | 2815 | [2815-dexters-laboratory-robot-rampage.json](./2815-dexters-laboratory-robot-rampage.json) |
@@ -9028,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinotopia: Game Land Activity Center | 70442 | [70442-dinotopia-game-land-activity-center.json](./70442-dinotopia-game-land-activity-center.json) |
 | Dinotopia: The Sunstone Odyssey | 3879 | [3879-dinotopia-the-sunstone-odyssey.json](./3879-dinotopia-the-sunstone-odyssey.json) |
+| Dinotopia: The Timestone Pirates | 6378 | [6378-dinotopia-the-timestone-pirates.json](./6378-dinotopia-the-timestone-pirates.json) |
 | Dinotraz | 408232 | [408232-dinotraz.json](./408232-dinotraz.json) |
 | DinoTribe | 309926 | [309926-dinotribe.json](./309926-dinotribe.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
@@ -9789,10 +9799,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
 | Disney's House of Mouse: Pack the House | 337139 | [337139-disneys-house-of-mouse-pack-the-house.json](./337139-disneys-house-of-mouse-pack-the-house.json) |
 | Disney's Kim Possible | 339884 | [339884-disneys-kim-possible.json](./339884-disneys-kim-possible.json) |
+| Disney's Kim Possible 2: Drakken's Demise | 8144 | [8144-disneys-kim-possible-2-drakkens-demise.json](./8144-disneys-kim-possible-2-drakkens-demise.json) |
 | Disney's Kim Possible 3: Team Possible | 49186 | [49186-disneys-kim-possible-3-team-possible.json](./49186-disneys-kim-possible-3-team-possible.json) |
+| Disney's Kim Possible: Global Gemini | 8152 | [8152-disneys-kim-possible-global-gemini.json](./8152-disneys-kim-possible-global-gemini.json) |
 | Disney's Kim Possible: Kimmunicator | 47728 | [47728-disneys-kim-possible-kimmunicator.json](./47728-disneys-kim-possible-kimmunicator.json) |
 | Disney's Kim Possible: Revenge of Monkey Fist | 49275 | [49275-disneys-kim-possible-revenge-of-monkey-fist.json](./49275-disneys-kim-possible-revenge-of-monkey-fist.json) |
 | Disney's Kim Possible: Shopping Avenger | 338406 | [338406-disneys-kim-possible-shopping-avenger.json](./338406-disneys-kim-possible-shopping-avenger.json) |
+| Disney's Kim Possible: What's the Switch? | 8150 | [8150-disneys-kim-possible-whats-the-switch.json](./8150-disneys-kim-possible-whats-the-switch.json) |
 | Disney's Lilo & Stitch 2: Hämsterviel Havoc | 49261 | [49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json](./49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json) |
 | Disney's Lilo & Stitch: Hawaiian Adventure | 98558 | [98558-disneys-lilo-and-stitch-hawaiian-adventure.json](./98558-disneys-lilo-and-stitch-hawaiian-adventure.json) |
 | Disney's Little Einsteins | 49190 | [49190-disneys-little-einsteins.json](./49190-disneys-little-einsteins.json) |
@@ -9803,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Mirror Starring Mickey Mouse | 3773 | [3773-disneys-magical-mirror-starring-mickey-mouse.json](./3773-disneys-magical-mirror-starring-mickey-mouse.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
+| Disney's Magical Quest 3 Starring Mickey & Donald | 6381 | [6381-disneys-magical-quest-3-starring-mickey-and-donald.json](./6381-disneys-magical-quest-3-starring-mickey-and-donald.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
 | Disney's Mickey Saves the Day: 3D Adventure | 74101 | [74101-disneys-mickey-saves-the-day-3d-adventure.json](./74101-disneys-mickey-saves-the-day-3d-adventure.json) |
 | Disney's Mulan | 46673 | [46673-disneys-mulan.json](./46673-disneys-mulan.json) |
@@ -10954,6 +10968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon the World | 63153 | [63153-dokapon-the-world.json](./63153-dokapon-the-world.json) |
 | Dokapon UP! Mugen no Roulette | 139184 | [139184-dokapon-up-mugen-no-roulette.json](./139184-dokapon-up-mugen-no-roulette.json) |
 | Dokapon UP! Mugen no Roulette: Premium Limited Edition | 167014 | [167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json](./167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json) |
+| Dokapon: Monster Hunter | 6382 | [6382-dokapon-monster-hunter.json](./6382-dokapon-monster-hunter.json) |
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
 | Dokapon! Sword of Fury | 328413 | [328413-dokapon-sword-of-fury.json](./328413-dokapon-sword-of-fury.json) |
 | Dokapon?! Millennium Quest | 65546 | [65546-dokapon-millennium-quest.json](./65546-dokapon-millennium-quest.json) |
@@ -12127,6 +12142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Reborn | 365242 | [365242-doom-reborn.json](./365242-doom-reborn.json) |
 | DOOM Remake 4 | 201181 | [201181-doom-remake-4.json](./201181-doom-remake-4.json) |
 | Doom Repainted | 252030 | [252030-doom-repainted.json](./252030-doom-repainted.json) |
+| Doom Resurrection | 6641 | [6641-doom-resurrection.json](./6641-doom-resurrection.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
 | Doom RPG | 101029 | [101029-doom-rpg.json](./101029-doom-rpg.json) |
 | Doom Spiral | 347089 | [347089-doom-spiral.json](./347089-doom-spiral.json) |
@@ -13176,6 +13192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
 | Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
 | Dr. Seuss: How the Grinch Stole Christmas! | 15489 | [15489-dr-seuss-how-the-grinch-stole-christmas.json](./15489-dr-seuss-how-the-grinch-stole-christmas.json) |
+| Dr. Seuss' Green Eggs and Ham | 6354 | [6354-dr-seuss-green-eggs-and-ham.json](./6354-dr-seuss-green-eggs-and-ham.json) |
 | Dr. Seuss' How the Grinch Stole Christmas: Collector's Edition - Rhyme Time | 325695 | [325695-dr-seuss-how-the-grinch-stole-christmas-collectors-edition-rhyme-time.json](./325695-dr-seuss-how-the-grinch-stole-christmas-collectors-edition-rhyme-time.json) |
 | Dr. Seuss': The Cat in the Hat | 293344 | [293344-dr-seuss-the-cat-in-the-hat.json](./293344-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
