@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to Arms: Gates of Hell - Scorched Earth | 219733 | [219733-call-to-arms-gates-of-hell-scorched-earth.json](./219733-call-to-arms-gates-of-hell-scorched-earth.json) |
 | Call to Arms: Gates of Hell - Talvisota | 203893 | [203893-call-to-arms-gates-of-hell-talvisota.json](./203893-call-to-arms-gates-of-hell-talvisota.json) |
 | Call to Arms: Panzer Elite | 353292 | [353292-call-to-arms-panzer-elite.json](./353292-call-to-arms-panzer-elite.json) |
+| Call to Power II | 11266 | [11266-call-to-power-ii.json](./11266-call-to-power-ii.json) |
 | Call to Strike | 311133 | [311133-call-to-strike.json](./311133-call-to-strike.json) |
 | Call To Summon | 310983 | [310983-call-to-summon.json](./310983-call-to-summon.json) |
 | Call to Victory | 179483 | [179483-call-to-victory.json](./179483-call-to-victory.json) |
@@ -15688,6 +15689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creative Reader: The Jungle Book | 327870 | [327870-creative-reader-the-jungle-book.json](./327870-creative-reader-the-jungle-book.json) |
 | Creative Runner | 142870 | [142870-creative-runner.json](./142870-creative-runner.json) |
 | CreativeBuild | 131422 | [131422-creativebuild.json](./131422-creativebuild.json) |
+| CreativeDestruction | 107922 | [107922-creativedestruction.json](./107922-creativedestruction.json) |
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
 | Creator | 308047 | [308047-creator.json](./308047-creator.json) |
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
@@ -15724,6 +15726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Rumble | 260547 | [260547-creature-rumble.json](./260547-creature-rumble.json) |
 | Creature Venture | 24846 | [24846-creature-venture.json](./24846-creature-venture.json) |
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
+| Creatures | 11370 | [11370-creatures.json](./11370-creatures.json) |
 | Creatures | 11374 | [11374-creatures.json](./11374-creatures.json) |
 | Creatures | 120747 | [120747-creatures.json](./120747-creatures.json) |
 | Creatures | 268056 | [268056-creatures.json](./268056-creatures.json) |
@@ -15899,6 +15902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbish | 333197 | [333197-cribbish.json](./333197-cribbish.json) |
 | Cricket | 79717 | [79717-cricket.json](./79717-cricket.json) |
 | Cricket 07 | 10619 | [10619-cricket-07.json](./10619-cricket-07.json) |
+| Cricket 19 | 115869 | [115869-cricket-19.json](./115869-cricket-19.json) |
 | Cricket 19: Ultimate Edition | 170123 | [170123-cricket-19-ultimate-edition.json](./170123-cricket-19-ultimate-edition.json) |
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
@@ -17377,6 +17381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
+| Crystar | 103494 | [103494-crystar.json](./103494-crystar.json) |
 | Crystar: Limited Edition | 379946 | [379946-crystar-limited-edition.json](./379946-crystar-limited-edition.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Crystball | 64807 | [64807-crystball.json](./64807-crystball.json) |
@@ -18978,6 +18983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
+| Cyberia 2: Resurrection | 11192 | [11192-cyberia-2-resurrection.json](./11192-cyberia-2-resurrection.json) |
 | Cyberika | 145844 | [145844-cyberika.json](./145844-cyberika.json) |
 | CyberJudas | 78313 | [78313-cyberjudas.json](./78313-cyberjudas.json) |
 | Cyberjump | 264201 | [264201-cyberjump.json](./264201-cyberjump.json) |
