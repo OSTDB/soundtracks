@@ -719,12 +719,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Waifu | 378573 | [378573-halloween-waifu.json](./378573-halloween-waifu.json) |
 | Halloween with Veronica | 286397 | [286397-halloween-with-veronica.json](./286397-halloween-with-veronica.json) |
 | Halloween World | 267206 | [267206-halloween-world.json](./267206-halloween-world.json) |
+| Halloween: "Trick or Treat" | 61364 | [61364-halloween-trick-or-treat.json](./61364-halloween-trick-or-treat.json) |
 | Halloween: DinoBoo & The Valley of Shadows | 378822 | [378822-halloween-dinoboo-and-the-valley-of-shadows.json](./378822-halloween-dinoboo-and-the-valley-of-shadows.json) |
 | Halloween: Global Candy Cup 2015 | 275629 | [275629-halloween-global-candy-cup-2015.json](./275629-halloween-global-candy-cup-2015.json) |
 | Halloween: Jigsaw Puzzles | 72494 | [72494-halloween-jigsaw-puzzles.json](./72494-halloween-jigsaw-puzzles.json) |
 | Halloween: October 31st | 176786 | [176786-halloween-october-31st.json](./176786-halloween-october-31st.json) |
 | Halloween: October 31st Demake | 218575 | [218575-halloween-october-31st-demake.json](./218575-halloween-october-31st-demake.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
+| Halloween: Trick or Treat 2 | 61361 | [61361-halloween-trick-or-treat-2.json](./61361-halloween-trick-or-treat-2.json) |
 | Halloween: Trick or Treat 3 Collectors Edition | 375506 | [375506-halloween-trick-or-treat-3-collectors-edition.json](./375506-halloween-trick-or-treat-3-collectors-edition.json) |
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
