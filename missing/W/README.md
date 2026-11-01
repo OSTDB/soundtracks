@@ -5916,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Rhythm Puzzle | 244594 | [244594-witchs-rhythm-puzzle.json](./244594-witchs-rhythm-puzzle.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
+| Witch's Wish | 47703 | [47703-witchs-wish.json](./47703-witchs-wish.json) |
 | Witch's Workshop | 69033 | [69033-witchs-workshop.json](./69033-witchs-workshop.json) |
 | WitchAction | 111614 | [111614-witchaction.json](./111614-witchaction.json) |
 | Witcharoo | 271423 | [271423-witcharoo.json](./271423-witcharoo.json) |
