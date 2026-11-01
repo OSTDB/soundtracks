@@ -11163,6 +11163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Unlimited 2010 | 14865 | [14865-hunting-unlimited-2010.json](./14865-hunting-unlimited-2010.json) |
 | Hunting Unlimited 2011 | 30859 | [30859-hunting-unlimited-2011.json](./30859-hunting-unlimited-2011.json) |
+| Hunting Unlimited 4 | 24491 | [24491-hunting-unlimited-4.json](./24491-hunting-unlimited-4.json) |
 | Hunting Unlimited 4 | 69145 | [69145-hunting-unlimited-4.json](./69145-hunting-unlimited-4.json) |
 | Hunting Unlimited Trophy Collection | 69182 | [69182-hunting-unlimited-trophy-collection.json](./69182-hunting-unlimited-trophy-collection.json) |
 | Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
