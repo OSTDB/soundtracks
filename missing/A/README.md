@@ -4379,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Secrets of the Archmages | 371021 | [371021-age-of-wonders-4-secrets-of-the-archmages.json](./371021-age-of-wonders-4-secrets-of-the-archmages.json) |
 | Age of Wonders 4: Starter Edition | 405852 | [405852-age-of-wonders-4-starter-edition.json](./405852-age-of-wonders-4-starter-edition.json) |
 | Age of Wonders 4: Thrones of Blood | 371023 | [371023-age-of-wonders-4-thrones-of-blood.json](./371023-age-of-wonders-4-thrones-of-blood.json) |
+| Age of Wonders II: The Wizard's Throne | 590 | [590-age-of-wonders-ii-the-wizards-throne.json](./590-age-of-wonders-ii-the-wizards-throne.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
 | Age of Wonders III: Deluxe Edition | 51696 | [51696-age-of-wonders-iii-deluxe-edition.json](./51696-age-of-wonders-iii-deluxe-edition.json) |
 | Age of Wonders III: Golden Realms | 8863 | [8863-age-of-wonders-iii-golden-realms.json](./8863-age-of-wonders-iii-golden-realms.json) |
@@ -12796,6 +12797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
 | Arma 2: Free | 131091 | [131091-arma-2-free.json](./131091-arma-2-free.json) |
+| ArmA 2: Operation Arrowhead | 601 | [601-arma-2-operation-arrowhead.json](./601-arma-2-operation-arrowhead.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
 | Arma 2: Reinforcements | 27453 | [27453-arma-2-reinforcements.json](./27453-arma-2-reinforcements.json) |
 | Arma 3 | 1881 | [1881-arma-3.json](./1881-arma-3.json) |
