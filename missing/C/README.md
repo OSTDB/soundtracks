@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Season Pass | 290246 | [290246-call-of-duty-black-ops-iii-season-pass.json](./290246-call-of-duty-black-ops-iii-season-pass.json) |
 | Call of Duty: Black Ops III - Steelbook Edition | 8905 | [8905-call-of-duty-black-ops-iii-steelbook-edition.json](./8905-call-of-duty-black-ops-iii-steelbook-edition.json) |
 | Call of Duty: Black Ops III - The Giant | 290251 | [290251-call-of-duty-black-ops-iii-the-giant.json](./290251-call-of-duty-black-ops-iii-the-giant.json) |
+| Call of Duty: Black Ops III - Zombies Chronicles | 28413 | [28413-call-of-duty-black-ops-iii-zombies-chronicles.json](./28413-call-of-duty-black-ops-iii-zombies-chronicles.json) |
 | Call of Duty: Black Ops III - Zombies Chronicles Deluxe Edition | 290248 | [290248-call-of-duty-black-ops-iii-zombies-chronicles-deluxe-edition.json](./290248-call-of-duty-black-ops-iii-zombies-chronicles-deluxe-edition.json) |
 | Call of Duty: Black Ops III Game of the Year + Zombie Chronicles Bundle | 290254 | [290254-call-of-duty-black-ops-iii-game-of-the-year-zombie-chronicles-bundle.json](./290254-call-of-duty-black-ops-iii-game-of-the-year-zombie-chronicles-bundle.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
@@ -9574,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClockWerx | 38198 | [38198-clockwerx.json](./38198-clockwerx.json) |
 | Clockwillows Voy Quest | 389546 | [389546-clockwillows-voy-quest.json](./389546-clockwillows-voy-quest.json) |
 | Clockwind | 185029 | [185029-clockwind.json](./185029-clockwind.json) |
+| Clockwise | 28421 | [28421-clockwise.json](./28421-clockwise.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
 | Clockwizzze | 29162 | [29162-clockwizzze.json](./29162-clockwizzze.json) |
 | ClockWork | 217480 | [217480-clockwork.json](./217480-clockwork.json) |
