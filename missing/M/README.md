@@ -7552,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
 | Megami Tensei: Neuroheroine | 278572 | [278572-megami-tensei-neuroheroine.json](./278572-megami-tensei-neuroheroine.json) |
 | MegaMind | 45742 | [45742-megamind.json](./45742-megamind.json) |
+| Megamind: Bad. Blue. Brilliant | 57954 | [57954-megamind-bad-blue-brilliant.json](./57954-megamind-bad-blue-brilliant.json) |
 | Megamind: Mega Team Unite | 51061 | [51061-megamind-mega-team-unite.json](./51061-megamind-mega-team-unite.json) |
 | Megamind: The Blue Defender | 47896 | [47896-megamind-the-blue-defender.json](./47896-megamind-the-blue-defender.json) |
 | Megamix | 110766 | [110766-megamix.json](./110766-megamix.json) |
@@ -7650,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megatronic Void | 59226 | [59226-megatronic-void.json](./59226-megatronic-void.json) |
 | Megatudo 2096 | 43827 | [43827-megatudo-2096.json](./43827-megatudo-2096.json) |
 | Megavaders 5000 | 110657 | [110657-megavaders-5000.json](./110657-megavaders-5000.json) |
+| MegaWars | 57974 | [57974-megawars.json](./57974-megawars.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
@@ -19683,6 +19685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystal Haven | 333496 | [333496-mystal-haven.json](./333496-mystal-haven.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystera Legacy | 182084 | [182084-mystera-legacy.json](./182084-mystera-legacy.json) |
+| Mystera Legacy | 57945 | [57945-mystera-legacy.json](./57945-mystera-legacy.json) |
 | Mystereet F: The Detectives' Curtain Call | 36756 | [36756-mystereet-f-the-detectives-curtain-call.json](./36756-mystereet-f-the-detectives-curtain-call.json) |
 | Mystereet: Detective Vacation | 122855 | [122855-mystereet-detective-vacation.json](./122855-mystereet-detective-vacation.json) |
 | Mystereet: Fukagyaku Sekai no Tantei Shinshi | 61540 | [61540-mystereet-fukagyaku-sekai-no-tantei-shinshi.json](./61540-mystereet-fukagyaku-sekai-no-tantei-shinshi.json) |
@@ -19987,6 +19990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tower | 48589 | [48589-mystery-tower.json](./48589-mystery-tower.json) |
 | Mystery Town - Fun Seek and Find Hidden Object Puzzles | 104122 | [104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json](./104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json) |
 | Mystery Toys: Hidden Objects | 90882 | [90882-mystery-toys-hidden-objects.json](./90882-mystery-toys-hidden-objects.json) |
+| Mystery Trackers: Black Isle | 57967 | [57967-mystery-trackers-black-isle.json](./57967-mystery-trackers-black-isle.json) |
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
 | Mystery Trackers: Darkwater Bay | 313461 | [313461-mystery-trackers-darkwater-bay.json](./313461-mystery-trackers-darkwater-bay.json) |
