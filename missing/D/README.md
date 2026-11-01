@@ -6994,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the House - Smash Home Interiors | 99708 | [99708-destroy-the-house-smash-home-interiors.json](./99708-destroy-the-house-smash-home-interiors.json) |
 | Destroy the Monoliths | 244644 | [244644-destroy-the-monoliths.json](./244644-destroy-the-monoliths.json) |
+| Destroy the Porn | 50256 | [50256-destroy-the-porn.json](./50256-destroy-the-porn.json) |
 | Destroy the Shogun | 167520 | [167520-destroy-the-shogun.json](./167520-destroy-the-shogun.json) |
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
@@ -11403,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
 | Don't Give Up: Not Ready to Die | 158530 | [158530-dont-give-up-not-ready-to-die.json](./158530-dont-give-up-not-ready-to-die.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
+| Don't Go Alone | 50277 | [50277-dont-go-alone.json](./50277-dont-go-alone.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
 | Don't Go in the Old Greene House | 59175 | [59175-dont-go-in-the-old-greene-house.json](./59175-dont-go-in-the-old-greene-house.json) |
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
@@ -11972,6 +11974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: VR Edition | 144524 | [144524-doom-3-vr-edition.json](./144524-doom-3-vr-edition.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 4 Vanilla | 144158 | [144158-doom-4-vanilla.json](./144158-doom-4-vanilla.json) |
+| Doom 64 EX | 50250 | [50250-doom-64-ex.json](./50250-doom-64-ex.json) |
 | Doom 64 for Doom II | 201106 | [201106-doom-64-for-doom-ii.json](./201106-doom-64-for-doom-ii.json) |
 | Doom 64 for Dreamcast | 346123 | [346123-doom-64-for-dreamcast.json](./346123-doom-64-for-dreamcast.json) |
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
@@ -12714,6 +12717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoubleMe | 183896 | [183896-doubleme.json](./183896-doubleme.json) |
 | Doubles Hard | 146799 | [146799-doubles-hard.json](./146799-doubles-hard.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
+| DoubleTheSnake | 50278 | [50278-doublethesnake.json](./50278-doublethesnake.json) |
 | Doubloon Trouble | 421802 | [421802-doubloon-trouble.json](./421802-doubloon-trouble.json) |
 | Doubts | 179613 | [179613-doubts.json](./179613-doubts.json) |
 | Doubumon | 259169 | [259169-doubumon.json](./259169-doubumon.json) |
@@ -15701,6 +15705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Druidstone: The Secret of the Menhir Forest | 28142 | [28142-druidstone-the-secret-of-the-menhir-forest.json](./28142-druidstone-the-secret-of-the-menhir-forest.json) |
 | Drum Beat Jump | 232102 | [232102-drum-beat-jump.json](./232102-drum-beat-jump.json) |
+| Drum Blaster 3 | 50233 | [50233-drum-blaster-3.json](./50233-drum-blaster-3.json) |
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
 | Drum Brain | 142796 | [142796-drum-brain.json](./142796-drum-brain.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
