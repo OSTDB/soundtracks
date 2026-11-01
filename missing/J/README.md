@@ -3879,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Turn Right | 246252 | [246252-just-turn-right.json](./246252-just-turn-right.json) |
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
 | Just Upstream | 197483 | [197483-just-upstream.json](./197483-just-upstream.json) |
+| Just Us | 54760 | [54760-just-us.json](./54760-just-us.json) |
 | Just Volleyball | 419607 | [419607-just-volleyball.json](./419607-just-volleyball.json) |
 | Just VR Slingshot Target Practice | 29581 | [29581-just-vr-slingshot-target-practice.json](./29581-just-vr-slingshot-target-practice.json) |
 | Just Waiting Cats | 364863 | [364863-just-waiting-cats.json](./364863-just-waiting-cats.json) |
