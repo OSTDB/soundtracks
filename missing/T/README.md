@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan VR | 305903 | [305903-tarzan-vr.json](./305903-tarzan-vr.json) |
 | Tarzan VR: #3 The Dead of the Night | 219569 | [219569-tarzan-vr-3-the-dead-of-the-night.json](./219569-tarzan-vr-3-the-dead-of-the-night.json) |
 | Tarzan: Lord of the Jungle | 228974 | [228974-tarzan-lord-of-the-jungle.json](./228974-tarzan-lord-of-the-jungle.json) |
+| Tarzan: Lord of the Jungle | 49062 | [49062-tarzan-lord-of-the-jungle.json](./49062-tarzan-lord-of-the-jungle.json) |
 | Tasac | 48805 | [48805-tasac.json](./48805-tasac.json) |
 | Tasac 2010 | 195060 | [195060-tasac-2010.json](./195060-tasac-2010.json) |
 | Taser Gun | 289724 | [289724-taser-gun.json](./289724-taser-gun.json) |
@@ -5186,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Perseus | 115397 | [115397-the-adventures-of-perseus.json](./115397-the-adventures-of-perseus.json) |
 | The Adventures of Peter Rabbit & Benjamin Bunny | 206209 | [206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json](./206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json) |
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
+| The Adventures of Pinocchio | 49100 | [49100-the-adventures-of-pinocchio.json](./49100-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
 | The Adventures of Poppe | 194906 | [194906-the-adventures-of-poppe.json](./194906-the-adventures-of-poppe.json) |
 | The Adventures of Prince Shiratama: Climb the Mountains | 302795 | [302795-the-adventures-of-prince-shiratama-climb-the-mountains.json](./302795-the-adventures-of-prince-shiratama-climb-the-mountains.json) |
@@ -9203,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Getaway 3 | 79609 | [79609-the-getaway-3.json](./79609-the-getaway-3.json) |
 | The Getaway: Black Monday | 8238 | [8238-the-getaway-black-monday.json](./8238-the-getaway-black-monday.json) |
 | The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
+| The Getaway: High Speed II | 49105 | [49105-the-getaway-high-speed-ii.json](./49105-the-getaway-high-speed-ii.json) |
 | The Ghost | 167559 | [167559-the-ghost.json](./167559-the-ghost.json) |
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
 | The Ghost and the Golem | 211169 | [211169-the-ghost-and-the-golem.json](./211169-the-ghost-and-the-golem.json) |
@@ -13079,6 +13082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
 | The New Castle | 70067 | [70067-the-new-castle.json](./70067-the-new-castle.json) |
+| The New Chessmaster | 49043 | [49043-the-new-chessmaster.json](./49043-the-new-chessmaster.json) |
 | The New Denpa Men | 287886 | [287886-the-new-denpa-men.json](./287886-the-new-denpa-men.json) |
 | The New Earth | 157540 | [157540-the-new-earth.json](./157540-the-new-earth.json) |
 | The New Flesh | 344057 | [344057-the-new-flesh.json](./344057-the-new-flesh.json) |
@@ -23800,6 +23804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
 | Torpedo Fire | 23998 | [23998-torpedo-fire.json](./23998-torpedo-fire.json) |
+| Torpedo Range | 49083 | [49083-torpedo-range.json](./49083-torpedo-range.json) |
 | Torpedo Run | 179324 | [179324-torpedo-run.json](./179324-torpedo-run.json) |
 | Torpedo Strike | 88726 | [88726-torpedo-strike.json](./88726-torpedo-strike.json) |
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
@@ -25389,6 +25394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
 | Track Mayhem | 187104 | [187104-track-mayhem.json](./187104-track-mayhem.json) |
+| Track Meet | 49059 | [49059-track-meet.json](./49059-track-meet.json) |
 | Track My Train | 356645 | [356645-track-my-train.json](./356645-track-my-train.json) |
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
 | Track Racing: The Holy Rosary | 275133 | [275133-track-racing-the-holy-rosary.json](./275133-track-racing-the-holy-rosary.json) |
