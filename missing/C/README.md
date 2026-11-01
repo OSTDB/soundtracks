@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Hentai | 301662 | [301662-candy-hentai.json](./301662-candy-hentai.json) |
 | Candy House in the Dark Forest | 294125 | [294125-candy-house-in-the-dark-forest.json](./294125-candy-house-in-the-dark-forest.json) |
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
+| Candy Island | 30444 | [30444-candy-island.json](./30444-candy-island.json) |
 | Candy Jump 2: The Old Age | 104404 | [104404-candy-jump-2-the-old-age.json](./104404-candy-jump-2-the-old-age.json) |
 | Candy Jump featuring Frosty | 147131 | [147131-candy-jump-featuring-frosty.json](./147131-candy-jump-featuring-frosty.json) |
 | Candy Killers | 375889 | [375889-candy-killers.json](./375889-candy-killers.json) |
@@ -15630,6 +15631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures: The Albian Years | 163101 | [163101-creatures-the-albian-years.json](./163101-creatures-the-albian-years.json) |
 | Creaturing: Sea Wonders | 340561 | [340561-creaturing-sea-wonders.json](./340561-creaturing-sea-wonders.json) |
 | Creatzor: Isekai Dino Fighter | 320113 | [320113-creatzor-isekai-dino-fighter.json](./320113-creatzor-isekai-dino-fighter.json) |
+| Credence Filter | 30472 | [30472-credence-filter.json](./30472-credence-filter.json) |
 | Creed Arena | 52324 | [52324-creed-arena.json](./52324-creed-arena.json) |
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
