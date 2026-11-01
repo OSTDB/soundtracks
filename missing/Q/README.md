@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q.U.B.E: Director's Cut | 19961 | [19961-q-u-b-e-directors-cut.json](./19961-q-u-b-e-directors-cut.json) |
 | Q.U.B.E. | 5445 | [5445-q-u-b-e.json](./5445-q-u-b-e.json) |
 | Q.U.B.E. 10th Anniversary | 206756 | [206756-q-u-b-e-10th-anniversary.json](./206756-q-u-b-e-10th-anniversary.json) |
+| Q.U.B.E. 2 | 36766 | [36766-q-u-b-e-2.json](./36766-q-u-b-e-2.json) |
 | Q.U.B.E. 2: Deluxe Edition | 169210 | [169210-q-u-b-e-2-deluxe-edition.json](./169210-q-u-b-e-2-deluxe-edition.json) |
 | Q.U.B.E. 2: Puzzle Pack 1 - Lost Orbit | 163544 | [163544-q-u-b-e-2-puzzle-pack-1-lost-orbit.json](./163544-q-u-b-e-2-puzzle-pack-1-lost-orbit.json) |
 | Q.U.B.E. 2: Puzzle Pack 2 - Aftermath | 163563 | [163563-q-u-b-e-2-puzzle-pack-2-aftermath.json](./163563-q-u-b-e-2-puzzle-pack-2-aftermath.json) |
