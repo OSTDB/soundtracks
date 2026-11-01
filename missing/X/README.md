@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men | 80408 | [80408-x-men.json](./80408-x-men.json) |
 | X-Men | 81251 | [81251-x-men.json](./81251-x-men.json) |
 | X-Men 2: Battle | 343821 | [343821-x-men-2-battle.json](./343821-x-men-2-battle.json) |
+| X-Men 2: Clone Wars | 9161 | [9161-x-men-2-clone-wars.json](./9161-x-men-2-clone-wars.json) |
 | X-Men Cartoon Maker | 130739 | [130739-x-men-cartoon-maker.json](./130739-x-men-cartoon-maker.json) |
 | X-Men II: The Fall of the Mutants | 50262 | [50262-x-men-ii-the-fall-of-the-mutants.json](./50262-x-men-ii-the-fall-of-the-mutants.json) |
 | X-Men Legends | 242996 | [242996-x-men-legends.json](./242996-x-men-legends.json) |
