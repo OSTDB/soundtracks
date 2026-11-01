@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Factory Simulator | 406934 | [406934-farm-factory-simulator.json](./406934-farm-factory-simulator.json) |
 | Farm For A Wife | 217281 | [217281-farm-for-a-wife.json](./217281-farm-for-a-wife.json) |
 | Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
+| Farm Frenzy 2 | 16091 | [16091-farm-frenzy-2.json](./16091-farm-frenzy-2.json) |
 | Farm Frenzy 2: Pizza Party HD | 88536 | [88536-farm-frenzy-2-pizza-party-hd.json](./88536-farm-frenzy-2-pizza-party-hd.json) |
 | Farm Frenzy 2: Pizza Party! for Mac | 87750 | [87750-farm-frenzy-2-pizza-party-for-mac.json](./87750-farm-frenzy-2-pizza-party-for-mac.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
@@ -3059,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Singularity IV - London | 417337 | [417337-fate-grand-order-singularity-iv-london.json](./417337-fate-grand-order-singularity-iv-london.json) |
 | Fate/Grand Order: Singularity V - E Pluribus Unum | 417399 | [417399-fate-grand-order-singularity-v-e-pluribus-unum.json](./417399-fate-grand-order-singularity-v-e-pluribus-unum.json) |
 | Fate/Grand Order: Singularity VI - Camelot | 417421 | [417421-fate-grand-order-singularity-vi-camelot.json](./417421-fate-grand-order-singularity-vi-camelot.json) |
+| Fate/Grand Order: Spiral Proof World - Lilim Harlot | 419173 | [419173-fate-grand-order-spiral-proof-world-lilim-harlot.json](./419173-fate-grand-order-spiral-proof-world-lilim-harlot.json) |
 | Fate/Grand Order: Tokugawa Restoration Labyrinth - Ooku | 413488 | [413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json](./413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Hollow Ataraxia Remastered | 312302 | [312302-fate-hollow-ataraxia-remastered.json](./312302-fate-hollow-ataraxia-remastered.json) |
@@ -9699,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 1 | 256925 | [256925-fortnite-season-1.json](./256925-fortnite-season-1.json) |
 | Fortnite: Season 2 | 129878 | [129878-fortnite-season-2.json](./129878-fortnite-season-2.json) |
 | Fortnite: Season 4 | 129876 | [129876-fortnite-season-4.json](./129876-fortnite-season-4.json) |
+| Fortnite: Season 6 | 129874 | [129874-fortnite-season-6.json](./129874-fortnite-season-6.json) |
 | Fortnite: Season 8 | 129872 | [129872-fortnite-season-8.json](./129872-fortnite-season-8.json) |
 | Fortnite: Season 9 | 129871 | [129871-fortnite-season-9.json](./129871-fortnite-season-9.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
