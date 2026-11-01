@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Of Apophyxis | 287755 | [287755-legend-of-apophyxis.json](./287755-legend-of-apophyxis.json) |
 | Legend of Arcadia | 242939 | [242939-legend-of-arcadia.json](./242939-legend-of-arcadia.json) |
 | Legend of Arcadieu Bundle | 203726 | [203726-legend-of-arcadieu-bundle.json](./203726-legend-of-arcadieu-bundle.json) |
+| Legend of Ares | 28417 | [28417-legend-of-ares.json](./28417-legend-of-ares.json) |
 | Legend of Asha | 390266 | [390266-legend-of-asha.json](./390266-legend-of-asha.json) |
 | Legend of Assassin: Egypt | 108069 | [108069-legend-of-assassin-egypt.json](./108069-legend-of-assassin-egypt.json) |
 | Legend of Assassin: Jungle | 107489 | [107489-legend-of-assassin-jungle.json](./107489-legend-of-assassin-jungle.json) |
