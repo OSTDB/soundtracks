@@ -5490,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: US Super Pack | 161917 | [161917-heroes-and-generals-us-super-pack.json](./161917-heroes-and-generals-us-super-pack.json) |
 | Heroes & Legends: Conquerors of Kolhar | 17531 | [17531-heroes-and-legends-conquerors-of-kolhar.json](./17531-heroes-and-legends-conquerors-of-kolhar.json) |
+| Heroes & Titans: Battle Arena | 60192 | [60192-heroes-and-titans-battle-arena.json](./60192-heroes-and-titans-battle-arena.json) |
 | Heroes & Villains Bundle | 164735 | [164735-heroes-and-villains-bundle.json](./164735-heroes-and-villains-bundle.json) |
 | Heroes 2: The Undead King | 70847 | [70847-heroes-2-the-undead-king.json](./70847-heroes-2-the-undead-king.json) |
 | Heroes against Demons | 139981 | [139981-heroes-against-demons.json](./139981-heroes-against-demons.json) |
