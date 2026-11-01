@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
+| Bang Bang Bang! | 31427 | [31427-bang-bang-bang.json](./31427-bang-bang-bang.json) |
 | Bang Bang Barrage | 313190 | [313190-bang-bang-barrage.json](./313190-bang-bang-barrage.json) |
 | Bang Bang Fruit | 29557 | [29557-bang-bang-fruit.json](./29557-bang-bang-fruit.json) |
 | Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
@@ -8300,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
 | Black Fist Ninja Run Challenge | 175576 | [175576-black-fist-ninja-run-challenge.json](./175576-black-fist-ninja-run-challenge.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
+| Black Forest | 31435 | [31435-black-forest.json](./31435-black-forest.json) |
 | Black Forest Tale | 49098 | [49098-black-forest-tale.json](./49098-black-forest-tale.json) |
 | Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
 | Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
@@ -9761,6 +9763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Warriors: Definitive Edition | 195917 | [195917-block-warriors-definitive-edition.json](./195917-block-warriors-definitive-edition.json) |
 | Block Wars | 77224 | [77224-block-wars.json](./77224-block-wars.json) |
 | Block Wars: Falling Duel | 421186 | [421186-block-wars-falling-duel.json](./421186-block-wars-falling-duel.json) |
+| Block Wave | 31410 | [31410-block-wave.json](./31410-block-wave.json) |
 | Block Witch | 401299 | [401299-block-witch.json](./401299-block-witch.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
@@ -13771,6 +13774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl+ | 316120 | [316120-brawl.json](./316120-brawl.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
 | Brawlborn | 373049 | [373049-brawlborn.json](./373049-brawlborn.json) |
+| Brawlderdash | 31398 | [31398-brawlderdash.json](./31398-brawlderdash.json) |
 | Brawler | 161606 | [161606-brawler.json](./161606-brawler.json) |
 | Brawler Bro's | 216698 | [216698-brawler-bros.json](./216698-brawler-bros.json) |
 | Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
