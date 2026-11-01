@@ -11519,6 +11519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | PooPee Wars | 55623 | [55623-poopee-wars.json](./55623-poopee-wars.json) |
+| Pooper Deluxe | 58434 | [58434-pooper-deluxe.json](./58434-pooper-deluxe.json) |
 | Pooper Scooper | 74261 | [74261-pooper-scooper.json](./74261-pooper-scooper.json) |
 | PooPig | 374367 | [374367-poopig.json](./374367-poopig.json) |
 | Poople | 420545 | [420545-poople.json](./420545-poople.json) |
@@ -16868,6 +16869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Monarch: Vampires | 106446 | [106446-puzzle-monarch-vampires.json](./106446-puzzle-monarch-vampires.json) |
 | Puzzle Monkey | 111321 | [111321-puzzle-monkey.json](./111321-puzzle-monkey.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
+| Puzzle Monster Quest | 58404 | [58404-puzzle-monster-quest.json](./58404-puzzle-monster-quest.json) |
 | Puzzle My Mind | 95821 | [95821-puzzle-my-mind.json](./95821-puzzle-my-mind.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nature | 365600 | [365600-puzzle-nature.json](./365600-puzzle-nature.json) |
