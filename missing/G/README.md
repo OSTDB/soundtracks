@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
 | Geo-Political Simulator 5 | 315068 | [315068-geo-political-simulator-5.json](./315068-geo-political-simulator-5.json) |
 | Geo: The Iron Age | 399930 | [399930-geo-the-iron-age.json](./399930-geo-the-iron-age.json) |
+| GeoArena Online | 58453 | [58453-geoarena-online.json](./58453-geoarena-online.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | GeoBingo.io | 172403 | [172403-geobingo-io.json](./172403-geobingo-io.json) |
 | GeoBoxer | 293473 | [293473-geoboxer.json](./293473-geoboxer.json) |
