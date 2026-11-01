@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbears: Bedtime City | 237498 | [237498-warbears-bedtime-city.json](./237498-warbears-bedtime-city.json) |
 | Warbirds | 121927 | [121927-warbirds.json](./121927-warbirds.json) |
 | WarBirds 2012 | 53143 | [53143-warbirds-2012.json](./53143-warbirds-2012.json) |
+| WarBirds Dawn of Aces, World War I Air Combat | 32386 | [32386-warbirds-dawn-of-aces-world-war-i-air-combat.json](./32386-warbirds-dawn-of-aces-world-war-i-air-combat.json) |
 | WarBirds Dogfights | 33757 | [33757-warbirds-dogfights.json](./33757-warbirds-dogfights.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
