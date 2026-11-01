@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin Portable 2 | 60363 | [60363-taiko-no-tatsujin-portable-2.json](./60363-taiko-no-tatsujin-portable-2.json) |
 | Taiko no Tatsujin Portable DX | 78348 | [78348-taiko-no-tatsujin-portable-dx.json](./78348-taiko-no-tatsujin-portable-dx.json) |
 | Taiko no Tatsujin Wii | 5207 | [5207-taiko-no-tatsujin-wii.json](./5207-taiko-no-tatsujin-wii.json) |
+| Taiko no Tatsujin Wii: Chou Gouka-ban | 50938 | [50938-taiko-no-tatsujin-wii-chou-gouka-ban.json](./50938-taiko-no-tatsujin-wii-chou-gouka-ban.json) |
 | Taiko no Tatsujin Wii: Do Don to Nidaime | 5208 | [5208-taiko-no-tatsujin-wii-do-don-to-nidaime.json](./5208-taiko-no-tatsujin-wii-do-don-to-nidaime.json) |
 | Taiko no Tatsujin Wii: Ketteiban | 60040 | [60040-taiko-no-tatsujin-wii-ketteiban.json](./60040-taiko-no-tatsujin-wii-ketteiban.json) |
 | Taiko no Tatsujin Wii: Minna de Party Sandaime | 5209 | [5209-taiko-no-tatsujin-wii-minna-de-party-sandaime.json](./5209-taiko-no-tatsujin-wii-minna-de-party-sandaime.json) |
