@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,772" src="https://img.shields.io/badge/soundtracks-2%2C772-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,289" src="https://img.shields.io/badge/games-2%2C289-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 289,880" src="https://img.shields.io/badge/missing-289%2C880-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 291,007" src="https://img.shields.io/badge/missing-291%2C007-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -21,29 +21,26 @@
   <a href="games/README.md"><b>Browse all games</b></a>
 </p>
 
-> [!TIP]
-> **🎃 Hacktoberfest 2026:** adding a missing soundtrack is a perfect first pull request. Pick a game from **Most wanted** below, click **Add it**, fill in the links, and open the PR. Merged PRs count towards Hacktoberfest.
-
 <p align="center"><img src="assets/progress.svg" alt="2,772 soundtracks, next milestone 5,000" width="760" /></p>
 
 ## 🆕 Recently added
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/pool-panic"><img src="https://i.scdn.co/image/ab67616d0000b2735c1b0d269a772e5c58b6ba9a" width="120" height="120" alt="" /></a><br /><sub><b>Pool Panic</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/vacation-simulator"><img src="https://i.scdn.co/image/ab67616d0000b2739d3e71a793738a0bd3b9e05b" width="120" height="120" alt="" /></a><br /><sub><b>Vacation Simulator</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/hellbound"><img src="https://i.scdn.co/image/ab67616d0000b2737228a58906cd212c04a41132" width="120" height="120" alt="" /></a><br /><sub><b>Hellbound</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/gun-godz"><img src="https://i.scdn.co/image/ab67616d0000b273afe81e69603eb45b4018e971" width="120" height="120" alt="" /></a><br /><sub><b>Gun Godz</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/battlezone"><img src="https://i.scdn.co/image/ab67616d0000b2733b22e40a5ee7f3304d0ec05c" width="120" height="120" alt="" /></a><br /><sub><b>Battlezone</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/james-pond-underwater-agent"><img src="https://i.scdn.co/image/ab67616d0000b273ce0bb83d587c062c1d2f2bdf" width="120" height="120" alt="" /></a><br /><sub><b>James Pond: Underwater Agent</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/zero-hour"><img src="https://i.scdn.co/image/ab67616d0000b273f95ba6275b01bd6870ee3871" width="120" height="120" alt="" /></a><br /><sub><b>Zero Hour</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/speed-dating-for-ghosts"><img src="https://i.scdn.co/image/ab67616d0000b27364130052fd584effb20c5414" width="120" height="120" alt="" /></a><br /><sub><b>Speed Dating for Ghosts</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/souldiers"><img src="https://i.scdn.co/image/ab67616d0000b273170cf704152d1d5935c2caeb" width="120" height="120" alt="" /></a><br /><sub><b>Souldiers</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/forza-street"><img src="https://i.scdn.co/image/ab67616d0000b27366df23ddecd9f83df771f987" width="120" height="120" alt="" /></a><br /><sub><b>Forza Street</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/arches"><img src="https://i.scdn.co/image/ab67616d0000b273c2c0ef849dc3c483bbf241a9" width="120" height="120" alt="" /></a><br /><sub><b>Arches</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/unholy"><img src="https://i.scdn.co/image/ab67616d0000b273e33e41beaa77437f87787817" width="120" height="120" alt="" /></a><br /><sub><b>Unholy</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/super-blood-hockey"><img src="https://i.scdn.co/image/ab67616d0000b2732e77f00989f4923938aeec75" width="120" height="120" alt="" /></a><br /><sub><b>Super Blood Hockey</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/under-night-in-birth-exe-late"><img src="https://i.scdn.co/image/ab67616d0000b27351bfd009cdf2d5151e916f88" width="120" height="120" alt="" /></a><br /><sub><b>Under Night In-Birth Exe:Late</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/space-hulk-tactics"><img src="https://i.scdn.co/image/ab67616d0000b2731e9ca889b2f6147c581b2cc5" width="120" height="120" alt="" /></a><br /><sub><b>Space Hulk: Tactics</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/octahedron"><img src="https://i.scdn.co/image/ab67616d0000b2733f3aa589afc331fd14dcb7b8" width="120" height="120" alt="" /></a><br /><sub><b>Octahedron</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/battlefield-1-apocalypse"><img src="https://i.scdn.co/image/ab67616d0000b27308ccd99c2c21925e35c68434" width="120" height="120" alt="" /></a><br /><sub><b>Battlefield 1: Apocalypse</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tangledeep"><img src="https://i.scdn.co/image/ab67616d0000b2739e629298c99682e4795dc27c" width="120" height="120" alt="" /></a><br /><sub><b>Tangledeep</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/corpse-factory"><img src="https://i.scdn.co/image/ab67616d0000b2735ee772a33a4845ad2596c2c7" width="120" height="120" alt="" /></a><br /><sub><b>Corpse Factory</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/fall-of-porcupine"><img src="https://i.scdn.co/image/ab67616d0000b2730ba02d2e6f8bf664990417e2" width="120" height="120" alt="" /></a><br /><sub><b>Fall of Porcupine</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/uru-ages-beyond-myst"><img src="https://i.scdn.co/image/ab67616d0000b27351f7f190be96b0b08e8ac8b2" width="120" height="120" alt="" /></a><br /><sub><b>Uru: Ages Beyond Myst</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/raystorm"><img src="https://i.scdn.co/image/ab67616d0000b27347eaa6df78ea36ba5f5b5164" width="120" height="120" alt="" /></a><br /><sub><b>RayStorm</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-colonists"><img src="https://i.scdn.co/image/ab67616d0000b27392d19ccce1b7a8d23515a074" width="120" height="120" alt="" /></a><br /><sub><b>The Colonists</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/mable-and-the-wood"><img src="https://i.scdn.co/image/ab67616d0000b273ba3829412fb39b832287bd89" width="120" height="120" alt="" /></a><br /><sub><b>Mable and the Wood</b></sub></td>
 </tr>
 </table>
 
@@ -69,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 | 15 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 
-More in **[missing/](missing/README.md)** (289,880 games).
+More in **[missing/](missing/README.md)** (291,007 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -97,7 +94,7 @@ Weekly snapshots are on the **[Releases](https://github.com/OSTDB/soundtracks/re
 Everyone who added or fixed a soundtrack. Thank you!
 
 <p>
-<a href="https://github.com/metjum" title="metjum: 7 contributions"><img src="https://github.com/metjum.png?size=96" width="48" height="48" alt="metjum" /></a>
+<a href="https://github.com/metjum" title="metjum: 6 contributions"><img src="https://github.com/metjum.png?size=96" width="48" height="48" alt="metjum" /></a>
 </p>
 
 ## 📚 Browse
@@ -114,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,772 soundtracks &middot; last updated 2026-10-31T21:35:49.856Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,772 soundtracks &middot; last updated 2026-11-01T00:41:06.288Z</sub>
