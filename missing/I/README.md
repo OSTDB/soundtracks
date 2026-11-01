@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inaro | 263321 | [263321-inaro.json](./263321-inaro.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
+| Inazuma Eleven | 22688 | [22688-inazuma-eleven.json](./22688-inazuma-eleven.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
 | Inazuma Eleven 2: Blizzard | 47716 | [47716-inazuma-eleven-2-blizzard.json](./47716-inazuma-eleven-2-blizzard.json) |
 | Inazuma Eleven 3: Bomb Blast | 47676 | [47676-inazuma-eleven-3-bomb-blast.json](./47676-inazuma-eleven-3-bomb-blast.json) |
