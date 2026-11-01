@@ -15349,6 +15349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit Embrace | 311051 | [311051-moonlit-embrace.json](./311051-moonlit-embrace.json) |
 | Moonlit Journey: The Age of Deth | 331928 | [331928-moonlit-journey-the-age-of-deth.json](./331928-moonlit-journey-the-age-of-deth.json) |
 | Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
+| Moonlit Mayhem | 31402 | [31402-moonlit-mayhem.json](./31402-moonlit-mayhem.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
 | MoonLite | 417255 | [417255-moonlite.json](./417255-moonlite.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
@@ -18728,6 +18729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
 | My Felt World: farm, ocean, safari, arctic | 104505 | [104505-my-felt-world-farm-ocean-safari-arctic.json](./104505-my-felt-world-farm-ocean-safari-arctic.json) |
 | My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
+| My Fight | 31377 | [31377-my-fight.json](./31377-my-fight.json) |
 | My Fight: EeOneGuy | 168069 | [168069-my-fight-eeoneguy.json](./168069-my-fight-eeoneguy.json) |
 | My Fight: Mariana Ro | 168068 | [168068-my-fight-mariana-ro.json](./168068-my-fight-mariana-ro.json) |
 | My Final Cursed Days | 336483 | [336483-my-final-cursed-days.json](./336483-my-final-cursed-days.json) |
@@ -20122,6 +20124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: The Four Aces & Mystery Trackers: Silent Hollow | 200955 | [200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json](./200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json) |
 | Mystery Trackers: The Secret of Watch Hill | 187957 | [187957-mystery-trackers-the-secret-of-watch-hill.json](./187957-mystery-trackers-the-secret-of-watch-hill.json) |
 | Mystery Trackers: The Shrouded Village | 416698 | [416698-mystery-trackers-the-shrouded-village.json](./416698-mystery-trackers-the-shrouded-village.json) |
+| Mystery Trackers: The Void - Collector's Edition | 31337 | [31337-mystery-trackers-the-void-collectors-edition.json](./31337-mystery-trackers-the-void-collectors-edition.json) |
 | Mystery Trackers: Train to Hellswich | 187965 | [187965-mystery-trackers-train-to-hellswich.json](./187965-mystery-trackers-train-to-hellswich.json) |
 | Mystery Trackers: Train to Hellswich - Collector's Edition | 169278 | [169278-mystery-trackers-train-to-hellswich-collectors-edition.json](./169278-mystery-trackers-train-to-hellswich-collectors-edition.json) |
 | Mystery Trackers: Winterpoint Tragedy | 57723 | [57723-mystery-trackers-winterpoint-tragedy.json](./57723-mystery-trackers-winterpoint-tragedy.json) |
