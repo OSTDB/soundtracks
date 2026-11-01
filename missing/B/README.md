@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Dodgeball 3 | 269423 | [269423-battle-dodgeball-3.json](./269423-battle-dodgeball-3.json) |
+| Battle Dodgeball II | 42293 | [42293-battle-dodgeball-ii.json](./42293-battle-dodgeball-ii.json) |
 | Battle Dodgeball: Toukyuu Daigekitotsu! | 49148 | [49148-battle-dodgeball-toukyuu-daigekitotsu.json](./49148-battle-dodgeball-toukyuu-daigekitotsu.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
 | Battle Dome Redux | 126917 | [126917-battle-dome-redux.json](./126917-battle-dome-redux.json) |
@@ -7353,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binding of Isaac Bundle | 341547 | [341547-binding-of-isaac-bundle.json](./341547-binding-of-isaac-bundle.json) |
 | Binding Tower | 271785 | [271785-binding-tower.json](./271785-binding-tower.json) |
 | Bindmancer | 254006 | [254006-bindmancer.json](./254006-bindmancer.json) |
+| Bing Bing! Bingo | 42310 | [42310-bing-bing-bingo.json](./42310-bing-bing-bingo.json) |
 | Bing Bong | 179978 | [179978-bing-bong.json](./179978-bing-bong.json) |
 | Bing Bong Blippo | 274436 | [274436-bing-bong-blippo.json](./274436-bing-bong-blippo.json) |
 | Bing Bong XL | 96956 | [96956-bing-bong-xl.json](./96956-bing-bong-xl.json) |
@@ -7896,10 +7898,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon R: Sailor Senshi Sanjou! | 385783 | [385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json](./385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json) |
 | Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen | 42399 | [42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json](./42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json) |
 | Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
+| Bishoujo Senshi Sailor Moon S: Kurukkurin | 42342 | [42342-bishoujo-senshi-sailor-moon-s-kurukkurin.json](./42342-bishoujo-senshi-sailor-moon-s-kurukkurin.json) |
 | Bishoujo Senshi Sailor Moon S: Quiz Taiketsu! Sailor Power Kesshuu | 138044 | [138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json](./138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json) |
 | Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa-fuwa Panic 2 | 56370 | [56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json](./56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json) |
 | Bishoujo Senshi Sailor Moon Super S: Fuwa-fuwa Panic | 36731 | [36731-bishoujo-senshi-sailor-moon-super-s-fuwa-fuwa-panic.json](./36731-bishoujo-senshi-sailor-moon-super-s-fuwa-fuwa-panic.json) |
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
+| Bishoujo Senshi Sailor Moon Super S: Zenin Sanka!! Shuyaku Soudatsusen | 42341 | [42341-bishoujo-senshi-sailor-moon-super-s-zenin-sanka-shuyaku-soudatsusen.json](./42341-bishoujo-senshi-sailor-moon-super-s-zenin-sanka-shuyaku-soudatsusen.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hajimete no Eigo | 63949 | [63949-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hajimete-no-eigo.json](./63949-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hajimete-no-eigo.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hiragana Lesson! | 63952 | [63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json](./63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Shin Shuyaku Soudatsusen | 45457 | [45457-bishoujo-senshi-sailor-moon-supers-shin-shuyaku-soudatsusen.json](./45457-bishoujo-senshi-sailor-moon-supers-shin-shuyaku-soudatsusen.json) |
@@ -15054,6 +15058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Zelda no Densetsu: Dai-2-wa | 178050 | [178050-bs-zelda-no-densetsu-dai-2-wa.json](./178050-bs-zelda-no-densetsu-dai-2-wa.json) |
 | BS Zelda no Densetsu: Dai-3-wa | 178051 | [178051-bs-zelda-no-densetsu-dai-3-wa.json](./178051-bs-zelda-no-densetsu-dai-3-wa.json) |
 | BS Zelda no Densetsu: Dai-4-wa | 178053 | [178053-bs-zelda-no-densetsu-dai-4-wa.json](./178053-bs-zelda-no-densetsu-dai-4-wa.json) |
+| BS Zelda no Densetsu: Inishie no Sekiban | 42308 | [42308-bs-zelda-no-densetsu-inishie-no-sekiban.json](./42308-bs-zelda-no-densetsu-inishie-no-sekiban.json) |
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-1-wa | 178061 | [178061-bs-zelda-no-densetsu-inishie-no-sekiban-dai-1-wa.json](./178061-bs-zelda-no-densetsu-inishie-no-sekiban-dai-1-wa.json) |
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-2-wa | 178062 | [178062-bs-zelda-no-densetsu-inishie-no-sekiban-dai-2-wa.json](./178062-bs-zelda-no-densetsu-inishie-no-sekiban-dai-2-wa.json) |
 | BS Zelda no Densetsu: Inishie no Sekiban - Dai-3-wa | 178063 | [178063-bs-zelda-no-densetsu-inishie-no-sekiban-dai-3-wa.json](./178063-bs-zelda-no-densetsu-inishie-no-sekiban-dai-3-wa.json) |
@@ -15358,6 +15363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Rogers: Planet of Zoom | 277224 | [277224-buck-rogers-planet-of-zoom.json](./277224-buck-rogers-planet-of-zoom.json) |
 | Buck Rogers: Planet of Zoom | 277225 | [277225-buck-rogers-planet-of-zoom.json](./277225-buck-rogers-planet-of-zoom.json) |
 | Buck Rogers: Planet of Zoom | 277226 | [277226-buck-rogers-planet-of-zoom.json](./277226-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: The Arcade Game | 42344 | [42344-buck-rogers-the-arcade-game.json](./42344-buck-rogers-the-arcade-game.json) |
 | Buck to the Rescue | 343130 | [343130-buck-to-the-rescue.json](./343130-buck-to-the-rescue.json) |
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Buck Up and Drive! | 153515 | [153515-buck-up-and-drive.json](./153515-buck-up-and-drive.json) |
