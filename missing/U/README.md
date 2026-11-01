@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Champions League Season 2001/2002 | 22058 | [22058-uefa-champions-league-season-2001-2002.json](./22058-uefa-champions-league-season-2001-2002.json) |
 | UEFA Dream Soccer | 45803 | [45803-uefa-dream-soccer.json](./45803-uefa-dream-soccer.json) |
 | UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
+| UEFA Euro 2008 | 7226 | [7226-uefa-euro-2008.json](./7226-uefa-euro-2008.json) |
 | UEFA Euro 2016: Pro Evolution Soccer | 42965 | [42965-uefa-euro-2016-pro-evolution-soccer.json](./42965-uefa-euro-2016-pro-evolution-soccer.json) |
 | UEFA Euro 2024 | 317534 | [317534-uefa-euro-2024.json](./317534-uefa-euro-2024.json) |
 | UEFA Euro 96 England | 18945 | [18945-uefa-euro-96-england.json](./18945-uefa-euro-96-england.json) |
