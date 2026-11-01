@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tebb And The Chistorbes | 232961 | [232961-tebb-and-the-chistorbes.json](./232961-tebb-and-the-chistorbes.json) |
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
 | Tech and Blood | 181864 | [181864-tech-and-blood.json](./181864-tech-and-blood.json) |
+| Tech Annihilation | 58405 | [58405-tech-annihilation.json](./58405-tech-annihilation.json) |
 | Tech Bike Freestyle | 206610 | [206610-tech-bike-freestyle.json](./206610-tech-bike-freestyle.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
 | Tech Clash | 123796 | [123796-tech-clash.json](./123796-tech-clash.json) |
@@ -2929,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech-Panic | 279789 | [279789-tech-panic.json](./279789-tech-panic.json) |
 | Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
+| TechCompliant | 58448 | [58448-techcompliant.json](./58448-techcompliant.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
@@ -3126,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles Legends | 58568 | [58568-teenage-mutant-ninja-turtles-legends.json](./58568-teenage-mutant-ninja-turtles-legends.json) |
 | Teenage Mutant Ninja Turtles of Rage | 314988 | [314988-teenage-mutant-ninja-turtles-of-rage.json](./314988-teenage-mutant-ninja-turtles-of-rage.json) |
 | Teenage Mutant Ninja Turtles SNES | 377744 | [377744-teenage-mutant-ninja-turtles-snes.json](./377744-teenage-mutant-ninja-turtles-snes.json) |
+| Teenage Mutant Ninja Turtles VS Power Rangers: Ultimate Hero Clash! | 58455 | [58455-teenage-mutant-ninja-turtles-vs-power-rangers-ultimate-hero-clash.json](./58455-teenage-mutant-ninja-turtles-vs-power-rangers-ultimate-hero-clash.json) |
 | Teenage Mutant Ninja Turtles x Hello Kitty and Friends | 362718 | [362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json](./362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
@@ -6906,8 +6909,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contractor | 44091 | [44091-the-contractor.json](./44091-the-contractor.json) |
 | The Contrast of 2 Worlds | 178939 | [178939-the-contrast-of-2-worlds.json](./178939-the-contrast-of-2-worlds.json) |
 | The Conundrum Collection | 327783 | [327783-the-conundrum-collection.json](./327783-the-conundrum-collection.json) |
+| The Conveni 2: Zenkoku Chain Tenkaida! | 58444 | [58444-the-conveni-2-zenkoku-chain-tenkaida.json](./58444-the-conveni-2-zenkoku-chain-tenkaida.json) |
 | The Conveni 200X | 6944 | [6944-the-conveni-200x.json](./6944-the-conveni-200x.json) |
+| The Conveni 3: Ano Machi wo Dokusen Seyo | 58449 | [58449-the-conveni-3-ano-machi-wo-dokusen-seyo.json](./58449-the-conveni-3-ano-machi-wo-dokusen-seyo.json) |
+| The Conveni 4: Ano Machi wo Dokusen Seyo | 58445 | [58445-the-conveni-4-ano-machi-wo-dokusen-seyo.json](./58445-the-conveni-4-ano-machi-wo-dokusen-seyo.json) |
+| The Conveni DS: Otona no Keiei Ryoku Training | 58439 | [58439-the-conveni-ds-otona-no-keiei-ryoku-training.json](./58439-the-conveni-ds-otona-no-keiei-ryoku-training.json) |
+| The Conveni Portable | 58440 | [58440-the-conveni-portable.json](./58440-the-conveni-portable.json) |
+| The Conveni Special | 58441 | [58441-the-conveni-special.json](./58441-the-conveni-special.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
+| The Conveni: Ano Machi wo Dokusen Seyo | 58438 | [58438-the-conveni-ano-machi-wo-dokusen-seyo.json](./58438-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Convenience Store | 129292 | [129292-the-convenience-store.json](./129292-the-convenience-store.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
 | The Cooking Class | 228651 | [228651-the-cooking-class.json](./228651-the-cooking-class.json) |
@@ -23570,6 +23580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toppluva | 237005 | [237005-toppluva.json](./237005-toppluva.json) |
 | Topplz | 277714 | [277714-topplz.json](./277714-topplz.json) |
 | Topps Bunt | 79001 | [79001-topps-bunt.json](./79001-topps-bunt.json) |
+| Topps Huddle | 58403 | [58403-topps-huddle.json](./58403-topps-huddle.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
 | Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
