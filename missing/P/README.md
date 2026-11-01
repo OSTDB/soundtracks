@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Parkour | 204815 | [204815-panda-parkour.json](./204815-panda-parkour.json) |
 | Panda penguin care salon | 88424 | [88424-panda-penguin-care-salon.json](./88424-panda-penguin-care-salon.json) |
 | Panda Poet | 396049 | [396049-panda-poet.json](./396049-panda-poet.json) |
+| Panda Pop | 56817 | [56817-panda-pop.json](./56817-panda-pop.json) |
 | Panda Pop: Bubble Shooter | 87039 | [87039-panda-pop-bubble-shooter.json](./87039-panda-pop-bubble-shooter.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Punch | 190828 | [190828-panda-punch.json](./190828-panda-punch.json) |
@@ -9419,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Academy Zero | 239258 | [239258-pocket-academy-zero.json](./239258-pocket-academy-zero.json) |
 | Pocket Action: Pro Football | 245423 | [245423-pocket-action-pro-football.json](./245423-pocket-action-pro-football.json) |
 | Pocket Adventurer | 416043 | [416043-pocket-adventurer.json](./416043-pocket-adventurer.json) |
+| Pocket Animal GO | 56793 | [56793-pocket-animal-go.json](./56793-pocket-animal-go.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
 | Pocket Aquarium | 104712 | [104712-pocket-aquarium.json](./104712-pocket-aquarium.json) |
 | Pocket Aquarium | 381900 | [381900-pocket-aquarium.json](./381900-pocket-aquarium.json) |
@@ -15784,6 +15786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug and Seek | 341437 | [341437-pug-and-seek.json](./341437-pug-and-seek.json) |
 | Pug Hop Mole Bop | 254672 | [254672-pug-hop-mole-bop.json](./254672-pug-hop-mole-bop.json) |
 | Pug Rapids | 241812 | [241812-pug-rapids.json](./241812-pug-rapids.json) |
+| Pug Run | 56816 | [56816-pug-run.json](./56816-pug-run.json) |
 | Pug With Bomb | 164208 | [164208-pug-with-bomb.json](./164208-pug-with-bomb.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
