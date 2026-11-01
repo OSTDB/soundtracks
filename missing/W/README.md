@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare: D.I.Y. Showcase | 50705 | [50705-warioware-d-i-y-showcase.json](./50705-warioware-d-i-y-showcase.json) |
 | WarioWare: Get It Together! | 152358 | [152358-warioware-get-it-together.json](./152358-warioware-get-it-together.json) |
 | WarioWare: Move It! | 254341 | [254341-warioware-move-it.json](./254341-warioware-move-it.json) |
+| WarioWare: Smooth Moves | 1706 | [1706-warioware-smooth-moves.json](./1706-warioware-smooth-moves.json) |
 | WarioWare: Snapped! | 1707 | [1707-warioware-snapped.json](./1707-warioware-snapped.json) |
 | WarioWare: Touched! | 1705 | [1705-warioware-touched.json](./1705-warioware-touched.json) |
 | WarioWare: Twisted! | 1704 | [1704-warioware-twisted.json](./1704-warioware-twisted.json) |
