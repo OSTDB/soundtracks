@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kings 3 | 54155 | [54155-king-of-kings-3.json](./54155-king-of-kings-3.json) |
 | King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
 | King of Kung Fu | 285918 | [285918-king-of-kung-fu.json](./285918-king-of-kung-fu.json) |
+| King of Kung Fu | 50280 | [50280-king-of-kung-fu.json](./50280-king-of-kung-fu.json) |
 | King of Land Grabbers 3D | 212510 | [212510-king-of-land-grabbers-3d.json](./212510-king-of-land-grabbers-3d.json) |
 | King of Light | 237463 | [237463-king-of-light.json](./237463-king-of-light.json) |
 | King of Math | 74855 | [74855-king-of-math.json](./74855-king-of-math.json) |
