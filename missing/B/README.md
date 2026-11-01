@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylonian Twins | 65924 | [65924-babylonian-twins.json](./65924-babylonian-twins.json) |
 | Babyquick: Adventure of the Moon Dragon | 188855 | [188855-babyquick-adventure-of-the-moon-dragon.json](./188855-babyquick-adventure-of-the-moon-dragon.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
+| Babysitter Bloodbath | 62406 | [62406-babysitter-bloodbath.json](./62406-babysitter-bloodbath.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
 | Babysitter Steve | 245197 | [245197-babysitter-steve.json](./245197-babysitter-steve.json) |
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
@@ -877,7 +878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8460,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Witchcraft | 60800 | [60800-black-witchcraft.json](./60800-black-witchcraft.json) |
 | Black Wolf | 204993 | [204993-black-wolf.json](./204993-black-wolf.json) |
+| Black Wolves Saga: Last Hope | 62372 | [62372-black-wolves-saga-last-hope.json](./62372-black-wolves-saga-last-hope.json) |
 | Black Wolves Saga: Weiβ und Schwarz | 132091 | [132091-black-wolves-saga-wei-und-schwarz.json](./132091-black-wolves-saga-wei-und-schwarz.json) |
 | Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
