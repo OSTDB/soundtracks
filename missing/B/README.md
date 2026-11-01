@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6370,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeyBlade: Fighting Tournament | 65706 | [65706-beyblade-fighting-tournament.json](./65706-beyblade-fighting-tournament.json) |
 | Beyblade: G-Revolution | 9726 | [9726-beyblade-g-revolution.json](./9726-beyblade-g-revolution.json) |
 | Beyblade: Let it Rip! | 4653 | [4653-beyblade-let-it-rip.json](./4653-beyblade-let-it-rip.json) |
+| Beyblade: Metal Fusion - Battle Fortress | 50936 | [50936-beyblade-metal-fusion-battle-fortress.json](./50936-beyblade-metal-fusion-battle-fortress.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
 | Beyond | 111191 | [111191-beyond.json](./111191-beyond.json) |
 | Beyond | 131452 | [131452-beyond.json](./131452-beyond.json) |
@@ -6929,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Klondike: Tri Peaks Solitaire | 277350 | [277350-big-klondike-tri-peaks-solitaire.json](./277350-big-klondike-tri-peaks-solitaire.json) |
 | Big League Slugger Baseball | 43878 | [43878-big-league-slugger-baseball.json](./43878-big-league-slugger-baseball.json) |
 | Big League Sports | 20223 | [20223-big-league-sports.json](./20223-big-league-sports.json) |
+| Big League Sports: Summer | 50926 | [50926-big-league-sports-summer.json](./50926-big-league-sports-summer.json) |
 | Big Loot | 345048 | [345048-big-loot.json](./345048-big-loot.json) |
 | Big Mac: The Mad Maintenance Man | 47221 | [47221-big-mac-the-mad-maintenance-man.json](./47221-big-mac-the-mad-maintenance-man.json) |
 | Big Market Simulator | 413106 | [413106-big-market-simulator.json](./413106-big-market-simulator.json) |
