@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted 2: Among Thieves: Siege Expansion Pack | 252114 | [252114-uncharted-2-among-thieves-siege-expansion-pack.json](./252114-uncharted-2-among-thieves-siege-expansion-pack.json) |
 | Uncharted 3: Drake's Deception - Collector's Edition | 41880 | [41880-uncharted-3-drakes-deception-collectors-edition.json](./41880-uncharted-3-drakes-deception-collectors-edition.json) |
 | Uncharted 3: Drake's Deception - Explorer Edition | 41881 | [41881-uncharted-3-drakes-deception-explorer-edition.json](./41881-uncharted-3-drakes-deception-explorer-edition.json) |
+| Uncharted 3: Drake's Deception - Game of the Year Edition | 41884 | [41884-uncharted-3-drakes-deception-game-of-the-year-edition.json](./41884-uncharted-3-drakes-deception-game-of-the-year-edition.json) |
 | Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
 | Uncharted 3: Multiplayer | 252195 | [252195-uncharted-3-multiplayer.json](./252195-uncharted-3-multiplayer.json) |
 | Uncharted 4: A Thief's End - Digital Deluxe Edition | 136686 | [136686-uncharted-4-a-thiefs-end-digital-deluxe-edition.json](./136686-uncharted-4-a-thiefs-end-digital-deluxe-edition.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underpowered Night Spooks | 292408 | [292408-underpowered-night-spooks.json](./292408-underpowered-night-spooks.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
 | UnderRaid | 56125 | [56125-underraid.json](./56125-underraid.json) |
+| UnderRail | 16657 | [16657-underrail.json](./16657-underrail.json) |
 | Underrail: Heavy Duty | 269985 | [269985-underrail-heavy-duty.json](./269985-underrail-heavy-duty.json) |
 | Underrun | 287615 | [287615-underrun.json](./287615-underrun.json) |
 | Undersea | 287570 | [287570-undersea.json](./287570-undersea.json) |
@@ -2582,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrooted | 204366 | [204366-unrooted.json](./204366-unrooted.json) |
 | Unrooted | 317712 | [317712-unrooted.json](./317712-unrooted.json) |
 | Unruly Ghouls | 31452 | [31452-unruly-ghouls.json](./31452-unruly-ghouls.json) |
+| Unruly Heroes | 37026 | [37026-unruly-heroes.json](./37026-unruly-heroes.json) |
 | Unruly Octopus | 193789 | [193789-unruly-octopus.json](./193789-unruly-octopus.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unrush | 223420 | [223420-unrush.json](./223420-unrush.json) |
@@ -3058,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Dreambog | 323391 | [323391-urban-dreambog.json](./323391-urban-dreambog.json) |
 | Urban Drug Empire | 223138 | [223138-urban-drug-empire.json](./223138-urban-drug-empire.json) |
+| Urban Empire | 18425 | [18425-urban-empire.json](./18425-urban-empire.json) |
 | Urban Entrepreneur | 273395 | [273395-urban-entrepreneur.json](./273395-urban-entrepreneur.json) |
 | Urban Escape | 294185 | [294185-urban-escape.json](./294185-urban-escape.json) |
 | Urban Exploration Bundle | 218462 | [218462-urban-exploration-bundle.json](./218462-urban-exploration-bundle.json) |
