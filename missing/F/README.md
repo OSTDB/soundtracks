@@ -10395,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
 | Franky the Bumwalker: Reborn | 172327 | [172327-franky-the-bumwalker-reborn.json](./172327-franky-the-bumwalker-reborn.json) |
+| Franky, Joe & Dirk... On the Tiles | 49049 | [49049-franky-joe-and-dirk-on-the-tiles.json](./49049-franky-joe-and-dirk-on-the-tiles.json) |
 | Franky's Adventures | 283562 | [283562-frankys-adventures.json](./283562-frankys-adventures.json) |
 | Frankystein | 97451 | [97451-frankystein.json](./97451-frankystein.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
