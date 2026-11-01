@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia II: Director's Cut | 47385 | [47385-mafia-ii-directors-cut.json](./47385-mafia-ii-directors-cut.json) |
 | Mafia II: Greaser Pack | 275236 | [275236-mafia-ii-greaser-pack.json](./275236-mafia-ii-greaser-pack.json) |
 | Mafia II: Jimmy's Vendetta | 10525 | [10525-mafia-ii-jimmys-vendetta.json](./10525-mafia-ii-jimmys-vendetta.json) |
+| Mafia II: Joe's Adventure | 10526 | [10526-mafia-ii-joes-adventure.json](./10526-mafia-ii-joes-adventure.json) |
 | Mafia II: Made Man Pack | 275238 | [275238-mafia-ii-made-man-pack.json](./275238-mafia-ii-made-man-pack.json) |
 | Mafia II: Renegade Pack | 275237 | [275237-mafia-ii-renegade-pack.json](./275237-mafia-ii-renegade-pack.json) |
 | Mafia II: The Betrayal of Jimmy | 18395 | [18395-mafia-ii-the-betrayal-of-jimmy.json](./18395-mafia-ii-the-betrayal-of-jimmy.json) |
@@ -6510,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Defense Z | 346904 | [346904-medieval-defense-z.json](./346904-medieval-defense-z.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dungeon | 230952 | [230952-medieval-dungeon.json](./230952-medieval-dungeon.json) |
+| Medieval Dynasty | 121998 | [121998-medieval-dynasty.json](./121998-medieval-dynasty.json) |
 | Medieval Dynasty New Settlement | 282159 | [282159-medieval-dynasty-new-settlement.json](./282159-medieval-dynasty-new-settlement.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
 | Medieval Dynasty: Hunting Pack | 415186 | [415186-medieval-dynasty-hunting-pack.json](./415186-medieval-dynasty-hunting-pack.json) |
