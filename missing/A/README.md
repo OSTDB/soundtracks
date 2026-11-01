@@ -14006,6 +14006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
 | Assassin's Creed: Unity - Bastille Edition | 230498 | [230498-assassins-creed-unity-bastille-edition.json](./230498-assassins-creed-unity-bastille-edition.json) |
 | Assassin's Creed: Unity - Limited Edition | 136262 | [136262-assassins-creed-unity-limited-edition.json](./136262-assassins-creed-unity-limited-edition.json) |
+| Assassin's Creed: Utopia | 61278 | [61278-assassins-creed-utopia.json](./61278-assassins-creed-utopia.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
