@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
 | Sakura Mochi | 167485 | [167485-sakura-mochi.json](./167485-sakura-mochi.json) |
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
+| Sakura Momoko no Ukiuki Carnival | 6583 | [6583-sakura-momoko-no-ukiuki-carnival.json](./6583-sakura-momoko-no-ukiuki-carnival.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura no Kumo * Scarlet no Koi | 144891 | [144891-sakura-no-kumo-scarlet-no-koi.json](./144891-sakura-no-kumo-scarlet-no-koi.json) |
 | Sakura no Kumo: Scarlet no Koi | 171265 | [171265-sakura-no-kumo-scarlet-no-koi.json](./171265-sakura-no-kumo-scarlet-no-koi.json) |
@@ -5063,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
+| Sennen Kazoku | 6586 | [6586-sennen-kazoku.json](./6586-sennen-kazoku.json) |
 | Senninha | 281875 | [281875-senninha.json](./281875-senninha.json) |
 | Senninha GP Racing | 203290 | [203290-senninha-gp-racing.json](./203290-senninha-gp-racing.json) |
 | Sennou Millennium | 37488 | [37488-sennou-millennium.json](./37488-sennou-millennium.json) |
@@ -6648,6 +6650,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King: Chou Senjiryakketsu 3 | 68232 | [68232-shaman-king-chou-senjiryakketsu-3.json](./68232-shaman-king-chou-senjiryakketsu-3.json) |
 | Shaman King: Funbari Chronicle | 175042 | [175042-shaman-king-funbari-chronicle.json](./175042-shaman-king-funbari-chronicle.json) |
 | Shaman King: Funbari Spirits | 68246 | [68246-shaman-king-funbari-spirits.json](./68246-shaman-king-funbari-spirits.json) |
+| Shaman King: Legacy of the Spirits, Soaring Hawk | 6588 | [6588-shaman-king-legacy-of-the-spirits-soaring-hawk.json](./6588-shaman-king-legacy-of-the-spirits-soaring-hawk.json) |
+| Shaman King: Legacy of the Spirits, Sprinting Wolf | 6589 | [6589-shaman-king-legacy-of-the-spirits-sprinting-wolf.json](./6589-shaman-king-legacy-of-the-spirits-sprinting-wolf.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
 | Shaman King: Soul Fight | 4147 | [4147-shaman-king-soul-fight.json](./4147-shaman-king-soul-fight.json) |
 | Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
@@ -14121,6 +14125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoman's Land | 269690 | [269690-snomans-land.json](./269690-snomans-land.json) |
 | Snoobli | 101241 | [101241-snoobli.json](./101241-snoobli.json) |
 | Snood | 246388 | [246388-snood.json](./246388-snood.json) |
+| Snood | 6596 | [6596-snood.json](./6596-snood.json) |
 | Snood 2: On Vacation | 19107 | [19107-snood-2-on-vacation.json](./19107-snood-2-on-vacation.json) |
 | Snood Adventure | 99174 | [99174-snood-adventure.json](./99174-snood-adventure.json) |
 | Snood Deluxe | 50240 | [50240-snood-deluxe.json](./50240-snood-deluxe.json) |
@@ -14658,6 +14663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager Arena | 28632 | [28632-soccer-manager-arena.json](./28632-soccer-manager-arena.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
 | Soccer Manager Pro | 64784 | [64784-soccer-manager-pro.json](./64784-soccer-manager-pro.json) |
+| Soccer Mania | 6597 | [6597-soccer-mania.json](./6597-soccer-mania.json) |
 | Soccer Master | 228131 | [228131-soccer-master.json](./228131-soccer-master.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
@@ -17419,6 +17425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Novel Evolution 2: Kamaitachi no Yoru Tokubetsu-hen | 178334 | [178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json](./178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json) |
 | Sound Novel Tsukuuru Taiou: Okiraku Kouza | 234882 | [234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json](./234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json) |
 | Sound Novel Tsukuuru Taiou: Zapping Gekijou | 234883 | [234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json](./234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json) |
+| Sound Novel: Machi | 8169 | [8169-sound-novel-machi.json](./8169-sound-novel-machi.json) |
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
@@ -18108,6 +18115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22838,6 +22846,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
 | Star Wars: The Battle Above Coruscant | 75561 | [75561-star-wars-the-battle-above-coruscant.json](./75561-star-wars-the-battle-above-coruscant.json) |
 | Star Wars: The Battle for Hoth | 66424 | [66424-star-wars-the-battle-for-hoth.json](./66424-star-wars-the-battle-for-hoth.json) |
+| Star Wars: The Battle of Endor | 8148 | [8148-star-wars-the-battle-of-endor.json](./8148-star-wars-the-battle-of-endor.json) |
+| Star Wars: The Battle of Yavin | 8147 | [8147-star-wars-the-battle-of-yavin.json](./8147-star-wars-the-battle-of-yavin.json) |
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
 | Star Wars: The Clone Wars | 230403 | [230403-star-wars-the-clone-wars.json](./230403-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 320344 | [320344-star-wars-the-clone-wars.json](./320344-star-wars-the-clone-wars.json) |
@@ -22867,6 +22877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed II - Character Pack | 74896 | [74896-star-wars-the-force-unleashed-ii-character-pack.json](./74896-star-wars-the-force-unleashed-ii-character-pack.json) |
 | Star Wars: The Force Unleashed II - Collector's Edition | 47460 | [47460-star-wars-the-force-unleashed-ii-collectors-edition.json](./47460-star-wars-the-force-unleashed-ii-collectors-edition.json) |
 | Star Wars: The Force Unleashed II - The Battle of Endor | 74895 | [74895-star-wars-the-force-unleashed-ii-the-battle-of-endor.json](./74895-star-wars-the-force-unleashed-ii-the-battle-of-endor.json) |
+| Star Wars: The New Droid Army | 6607 | [6607-star-wars-the-new-droid-army.json](./6607-star-wars-the-new-droid-army.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
 | Star Wars: The Old Republic - Enter the Fight | 375222 | [375222-star-wars-the-old-republic-enter-the-fight.json](./375222-star-wars-the-old-republic-enter-the-fight.json) |
 | Star Wars: The Old Republic - Galactic Starfighter | 22656 | [22656-star-wars-the-old-republic-galactic-starfighter.json](./22656-star-wars-the-old-republic-galactic-starfighter.json) |
@@ -28175,6 +28186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2: Black GOAT of the Woods Edition | 84580 | [84580-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-black-goat-of-the-woods-edition.json](./84580-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-black-goat-of-the-woods-edition.json) |
+| Super Army War | 6617 | [6617-super-army-war.json](./6617-super-army-war.json) |
 | Super Arrow Online | 228135 | [228135-super-arrow-online.json](./228135-super-arrow-online.json) |
 | Super Arter | 287022 | [287022-super-arter.json](./287022-super-arter.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
@@ -28357,6 +28369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
 | Super BurgerTime | 77876 | [77876-super-burgertime.json](./77876-super-burgertime.json) |
 | Super Bust-A-Move | 248692 | [248692-super-bust-a-move.json](./248692-super-bust-a-move.json) |
+| Super Bust-A-Move | 6618 | [6618-super-bust-a-move.json](./6618-super-bust-a-move.json) |
 | Super Buster Bros. | 38423 | [38423-super-buster-bros.json](./38423-super-buster-bros.json) |
 | Super Button Soccer | 33927 | [33927-super-button-soccer.json](./33927-super-button-soccer.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
@@ -30197,6 +30210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen | 49137 | [49137-super-robot-taisen.json](./49137-super-robot-taisen.json) |
+| Super Robot Taisen A | 6623 | [6623-super-robot-taisen-a.json](./6623-super-robot-taisen-a.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
 | Super Robot Taisen Alpha for Dreamcast | 241829 | [241829-super-robot-taisen-alpha-for-dreamcast.json](./241829-super-robot-taisen-alpha-for-dreamcast.json) |
 | Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
@@ -30206,11 +30220,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Compact 2 Dai-3-bu: Ginga Kessen-hen | 37478 | [37478-super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen.json](./37478-super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen.json) |
 | Super Robot Taisen Compact 3 | 37316 | [37316-super-robot-taisen-compact-3.json](./37316-super-robot-taisen-compact-3.json) |
 | Super Robot Taisen Complete Box | 79336 | [79336-super-robot-taisen-complete-box.json](./79336-super-robot-taisen-complete-box.json) |
+| Super Robot Taisen D | 6626 | [6626-super-robot-taisen-d.json](./6626-super-robot-taisen-d.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
 | Super Robot Taisen EX | 38234 | [38234-super-robot-taisen-ex.json](./38234-super-robot-taisen-ex.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen Gaiden: Masou Kishin - The Lord of Elemental | 38233 | [38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json](./38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json) |
 | Super Robot Taisen GC | 4189 | [4189-super-robot-taisen-gc.json](./4189-super-robot-taisen-gc.json) |
+| Super Robot Taisen J | 6629 | [6629-super-robot-taisen-j.json](./6629-super-robot-taisen-j.json) |
 | Super Robot Taisen K | 79340 | [79340-super-robot-taisen-k.json](./79340-super-robot-taisen-k.json) |
 | Super Robot Taisen Link Battler | 112601 | [112601-super-robot-taisen-link-battler.json](./112601-super-robot-taisen-link-battler.json) |
 | Super Robot Taisen Neo | 76902 | [76902-super-robot-taisen-neo.json](./76902-super-robot-taisen-neo.json) |
@@ -30223,6 +30239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
 | Super Robot Taisen OG: Infinite Battle | 214614 | [214614-super-robot-taisen-og-infinite-battle.json](./214614-super-robot-taisen-og-infinite-battle.json) |
 | Super Robot Taisen OG: Original Generations | 80450 | [80450-super-robot-taisen-og-original-generations.json](./80450-super-robot-taisen-og-original-generations.json) |
+| Super Robot Taisen R | 6624 | [6624-super-robot-taisen-r.json](./6624-super-robot-taisen-r.json) |
 | Super Robot Taisen T | 112431 | [112431-super-robot-taisen-t.json](./112431-super-robot-taisen-t.json) |
 | Super Robot Taisen T: Bonus Scenario Full Pack | 275061 | [275061-super-robot-taisen-t-bonus-scenario-full-pack.json](./275061-super-robot-taisen-t-bonus-scenario-full-pack.json) |
 | Super Robot Taisen T: Expansion Pack | 275062 | [275062-super-robot-taisen-t-expansion-pack.json](./275062-super-robot-taisen-t-expansion-pack.json) |
