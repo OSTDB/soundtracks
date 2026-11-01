@@ -9588,6 +9588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Enchanting Storybooks | 5187 | [5187-disney-princess-enchanting-storybooks.json](./5187-disney-princess-enchanting-storybooks.json) |
 | Disney Princess: Magical Academy | 327708 | [327708-disney-princess-magical-academy.json](./327708-disney-princess-magical-academy.json) |
 | Disney Princess: Magical Adventures | 221671 | [221671-disney-princess-magical-adventures.json](./221671-disney-princess-magical-adventures.json) |
+| Disney Princess: Magical Jewels | 47698 | [47698-disney-princess-magical-jewels.json](./47698-disney-princess-magical-jewels.json) |
 | Disney Princess: Majestic Quest | 138680 | [138680-disney-princess-majestic-quest.json](./138680-disney-princess-majestic-quest.json) |
 | Disney Princess: My Fairytale Adventure | 36228 | [36228-disney-princess-my-fairytale-adventure.json](./36228-disney-princess-my-fairytale-adventure.json) |
 | Disney Princess: Pop-Up Story Adventures | 230373 | [230373-disney-princess-pop-up-story-adventures.json](./230373-disney-princess-pop-up-story-adventures.json) |
@@ -16814,6 +16815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Raid: Zero Floor | 365888 | [365888-dungeon-raid-zero-floor.json](./365888-dungeon-raid-zero-floor.json) |
 | Dungeon Raider | 192784 | [192784-dungeon-raider.json](./192784-dungeon-raider.json) |
 | Dungeon Raiders | 174566 | [174566-dungeon-raiders.json](./174566-dungeon-raiders.json) |
+| Dungeon Raiders | 47714 | [47714-dungeon-raiders.json](./47714-dungeon-raiders.json) |
 | Dungeon Rampage | 142975 | [142975-dungeon-rampage.json](./142975-dungeon-rampage.json) |
 | Dungeon Rankers | 105086 | [105086-dungeon-rankers.json](./105086-dungeon-rankers.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
