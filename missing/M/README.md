@@ -8939,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Portable Ops Plus | 21617 | [21617-metal-gear-solid-portable-ops-plus.json](./21617-metal-gear-solid-portable-ops-plus.json) |
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
+| Metal Gear Solid: The Essential Collection | 43613 | [43613-metal-gear-solid-the-essential-collection.json](./43613-metal-gear-solid-the-essential-collection.json) |
 | Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
 | Metal Gear Solid: VR Missions | 18683 | [18683-metal-gear-solid-vr-missions.json](./18683-metal-gear-solid-vr-missions.json) |
 | Metal Gear Survive: Digital Deluxe Edition | 119085 | [119085-metal-gear-survive-digital-deluxe-edition.json](./119085-metal-gear-survive-digital-deluxe-edition.json) |
@@ -13435,6 +13436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
 | ModernFire | 370079 | [370079-modernfire.json](./370079-modernfire.json) |
+| Moderngroove: Ministry of Sound Edition | 43632 | [43632-moderngroove-ministry-of-sound-edition.json](./43632-moderngroove-ministry-of-sound-edition.json) |
 | Modernism | 92806 | [92806-modernism.json](./92806-modernism.json) |
 | Modest Eyes | 192551 | [192551-modest-eyes.json](./192551-modest-eyes.json) |
 | Modest Hero | 132459 | [132459-modest-hero.json](./132459-modest-hero.json) |
@@ -14748,6 +14750,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher 1 DX | 184782 | [184782-monster-rancher-1-dx.json](./184782-monster-rancher-1-dx.json) |
 | Monster Rancher 2 DX | 184783 | [184783-monster-rancher-2-dx.json](./184783-monster-rancher-2-dx.json) |
+| Monster Rancher 3 | 43631 | [43631-monster-rancher-3.json](./43631-monster-rancher-3.json) |
+| Monster Rancher 4 | 43630 | [43630-monster-rancher-4.json](./43630-monster-rancher-4.json) |
 | Monster Rancher Advance | 6511 | [6511-monster-rancher-advance.json](./6511-monster-rancher-advance.json) |
 | Monster Rancher Advance 2 | 6512 | [6512-monster-rancher-advance-2.json](./6512-monster-rancher-advance-2.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
@@ -18345,6 +18349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Untamed | 5028 | [5028-mx-vs-atv-untamed.json](./5028-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed + Juiced 2 Double pack | 147200 | [147200-mx-vs-atv-untamed-juiced-2-double-pack.json](./147200-mx-vs-atv-untamed-juiced-2-double-pack.json) |
 | MX vs.. ATV All Out: 2018 Yamaha YXZ1000R SS SE | 315211 | [315211-mx-vs-atv-all-out-2018-yamaha-yxz1000r-ss-se.json](./315211-mx-vs-atv-all-out-2018-yamaha-yxz1000r-ss-se.json) |
+| MX World Tour | 43636 | [43636-mx-world-tour.json](./43636-mx-world-tour.json) |
 | MX5000 | 40559 | [40559-mx5000.json](./40559-mx5000.json) |
 | MXGP 2019: The Official Motocross Videogame | 120126 | [120126-mxgp-2019-the-official-motocross-videogame.json](./120126-mxgp-2019-the-official-motocross-videogame.json) |
 | MXGP 2020: The Official Motocross Videogame | 139939 | [139939-mxgp-2020-the-official-motocross-videogame.json](./139939-mxgp-2020-the-official-motocross-videogame.json) |
