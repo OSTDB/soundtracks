@@ -750,6 +750,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
 | Dance Paradise | 20169 | [20169-dance-paradise.json](./20169-dance-paradise.json) |
 | Dance Party Crunkmas | 87230 | [87230-dance-party-crunkmas.json](./87230-dance-party-crunkmas.json) |
+| Dance Party: Club Hits | 50928 | [50928-dance-party-club-hits.json](./50928-dance-party-club-hits.json) |
+| Dance Party: Pop Hits | 50929 | [50929-dance-party-pop-hits.json](./50929-dance-party-pop-hits.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance Reality | 115948 | [115948-dance-reality.json](./115948-dance-reality.json) |
@@ -10568,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Master | 30120 | [30120-dodge-master.json](./30120-dodge-master.json) |
 | Dodge Racer | 282430 | [282430-dodge-racer.json](./282430-dodge-racer.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
+| Dodge Racing: Charger vs Challenger | 50965 | [50965-dodge-racing-charger-vs-challenger.json](./50965-dodge-racing-charger-vs-challenger.json) |
 | Dodge Spree | 326170 | [326170-dodge-spree.json](./326170-dodge-spree.json) |
 | Dodge Spree X | 318526 | [318526-dodge-spree-x.json](./318526-dodge-spree-x.json) |
 | Dodge That Anvil | 209117 | [209117-dodge-that-anvil.json](./209117-dodge-that-anvil.json) |
