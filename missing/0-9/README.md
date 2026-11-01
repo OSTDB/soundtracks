@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
 | 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
+| 1985: The Day After | 26150 | [26150-1985-the-day-after.json](./26150-1985-the-day-after.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1986 Scary Mr. Chainsaw Escape | 314699 | [314699-1986-scary-mr-chainsaw-escape.json](./314699-1986-scary-mr-chainsaw-escape.json) |
 | 1987: Rescue in Berlin | 308212 | [308212-1987-rescue-in-berlin.json](./308212-1987-rescue-in-berlin.json) |
