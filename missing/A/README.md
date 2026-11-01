@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance | 185443 | [185443-advance.json](./185443-advance.json) |
 | Advance of the Reich | 59317 | [59317-advance-of-the-reich.json](./59317-advance-of-the-reich.json) |
 | Advance to Boardwalk | 69895 | [69895-advance-to-boardwalk.json](./69895-advance-to-boardwalk.json) |
+| Advance Wars | 1691 | [1691-advance-wars.json](./1691-advance-wars.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 1+2: Re-Boot Camp | 152360 | [152360-advance-wars-1-2-re-boot-camp.json](./152360-advance-wars-1-2-re-boot-camp.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
@@ -10742,6 +10743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 18 | 13792 | [13792-apollo-18.json](./13792-apollo-18.json) |
 | Apollo 18: The Moon Missions | 69735 | [69735-apollo-18-the-moon-missions.json](./69735-apollo-18-the-moon-missions.json) |
 | Apollo Cosmic | 274341 | [274341-apollo-cosmic.json](./274341-apollo-cosmic.json) |
+| Apollo Justice: Ace Attorney | 1429 | [1429-apollo-justice-ace-attorney.json](./1429-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney | 253010 | [253010-apollo-justice-ace-attorney.json](./253010-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney - Appeal to Truth | 302595 | [302595-apollo-justice-ace-attorney-appeal-to-truth.json](./302595-apollo-justice-ace-attorney-appeal-to-truth.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
@@ -11968,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
 | Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
 | Arcanum Fortuna | 288711 | [288711-arcanum-fortuna.json](./288711-arcanum-fortuna.json) |
+| Arcanum: of Steamworks and Magick Obscura | 255 | [255-arcanum-of-steamworks-and-magick-obscura.json](./255-arcanum-of-steamworks-and-magick-obscura.json) |
 | Arcanum: Theory of Magic | 328899 | [328899-arcanum-theory-of-magic.json](./328899-arcanum-theory-of-magic.json) |
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
@@ -12782,6 +12785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 2: Free | 131091 | [131091-arma-2-free.json](./131091-arma-2-free.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
 | Arma 2: Reinforcements | 27453 | [27453-arma-2-reinforcements.json](./27453-arma-2-reinforcements.json) |
+| Arma 3 | 1881 | [1881-arma-3.json](./1881-arma-3.json) |
 | Arma 3 Apex Edition | 204196 | [204196-arma-3-apex-edition.json](./204196-arma-3-apex-edition.json) |
 | Arma 3 Creator DLC: S.O.G. Prairie Fire | 234181 | [234181-arma-3-creator-dlc-s-o-g-prairie-fire.json](./234181-arma-3-creator-dlc-s-o-g-prairie-fire.json) |
 | Arma 3 Karts | 54786 | [54786-arma-3-karts.json](./54786-arma-3-karts.json) |
@@ -13999,6 +14003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Black Flag Resynced: Deluxe Edition | 409613 | [409613-assassins-creed-black-flag-resynced-deluxe-edition.json](./409613-assassins-creed-black-flag-resynced-deluxe-edition.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
 | Assassin's Creed Bundle: Assassin's Creed Valhalla, Assassin's Creed Odyssey, and Assassin's Creed Origins | 164698 | [164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json](./164698-assassins-creed-bundle-assassins-creed-valhalla-assassins-creed-odyssey-and-assassins-creed-origins.json) |
+| Assassin's Creed Chronicles: China | 8223 | [8223-assassins-creed-chronicles-china.json](./8223-assassins-creed-chronicles-china.json) |
 | Assassin's Creed Chronicles: India | 14902 | [14902-assassins-creed-chronicles-india.json](./14902-assassins-creed-chronicles-india.json) |
 | Assassin's Creed Ezio Auditore Pack | 219007 | [219007-assassins-creed-ezio-auditore-pack.json](./219007-assassins-creed-ezio-auditore-pack.json) |
 | Assassin's Creed I+II Welcome Pack | 145406 | [145406-assassins-creed-i-ii-welcome-pack.json](./145406-assassins-creed-i-ii-welcome-pack.json) |
