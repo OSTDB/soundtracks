@@ -2816,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Kingmaker - Royal Ascension | 134569 | [134569-pathfinder-kingmaker-royal-ascension.json](./134569-pathfinder-kingmaker-royal-ascension.json) |
 | Pathfinder: Kingmaker - The Wildcards | 124972 | [124972-pathfinder-kingmaker-the-wildcards.json](./124972-pathfinder-kingmaker-the-wildcards.json) |
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
+| Pathfinder: Wrath of the Righteous | 127254 | [127254-pathfinder-wrath-of-the-righteous.json](./127254-pathfinder-wrath-of-the-righteous.json) |
 | Pathfinder: Wrath of the Righteous - A Visitor from Distant Lands | 193129 | [193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json](./193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json) |
 | Pathfinder: Wrath of the Righteous - Commander Edition | 166283 | [166283-pathfinder-wrath-of-the-righteous-commander-edition.json](./166283-pathfinder-wrath-of-the-righteous-commander-edition.json) |
 | Pathfinder: Wrath of the Righteous - Faces of War | 193128 | [193128-pathfinder-wrath-of-the-righteous-faces-of-war.json](./193128-pathfinder-wrath-of-the-righteous-faces-of-war.json) |
@@ -4299,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
 | Persona 3: The Night Before | 71158 | [71158-persona-3-the-night-before.json](./71158-persona-3-the-night-before.json) |
 | Persona 4 Arena | 5650 | [5650-persona-4-arena.json](./5650-persona-4-arena.json) |
+| Persona 4 Arena Ultimax | 11445 | [11445-persona-4-arena-ultimax.json](./11445-persona-4-arena-ultimax.json) |
 | Persona 4 Arena: Ultimate Edition | 99948 | [99948-persona-4-arena-ultimate-edition.json](./99948-persona-4-arena-ultimate-edition.json) |
 | Persona 4 Colors | 242935 | [242935-persona-4-colors.json](./242935-persona-4-colors.json) |
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
@@ -10779,6 +10781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Monsters | 393594 | [393594-poker-monsters.json](./393594-poker-monsters.json) |
 | Poker Night | 147158 | [147158-poker-night.json](./147158-poker-night.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
+| Poker Night at the Inventory | 8040 | [8040-poker-night-at-the-inventory.json](./8040-poker-night-at-the-inventory.json) |
 | Poker Night with David Sklansky | 209347 | [209347-poker-night-with-david-sklansky.json](./209347-poker-night-with-david-sklansky.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
 | Poker Online: Texas Holdem | 88829 | [88829-poker-online-texas-holdem.json](./88829-poker-online-texas-holdem.json) |
@@ -10863,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokitaire | 158580 | [158580-pokitaire.json](./158580-pokitaire.json) |
 | Pokitaire | 350782 | [350782-pokitaire.json](./350782-pokitaire.json) |
 | Pokka Man | 93777 | [93777-pokka-man.json](./93777-pokka-man.json) |
+| Pokkén Tournament | 18138 | [18138-pokken-tournament.json](./18138-pokken-tournament.json) |
 | Pokkén Tournament DX | 36794 | [36794-pokken-tournament-dx.json](./36794-pokken-tournament-dx.json) |
 | Pokkén Tournament DX + Pokkén Tournament DX: Battle Pack | 237897 | [237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json](./237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament DX: Battle Pack | 237933 | [237933-pokken-tournament-dx-battle-pack.json](./237933-pokken-tournament-dx-battle-pack.json) |
@@ -13312,6 +13316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primland The Magus | 295138 | [295138-primland-the-magus.json](./295138-primland-the-magus.json) |
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
+| Primordia | 7635 | [7635-primordia.json](./7635-primordia.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
 | Primordial Fate | 342537 | [342537-primordial-fate.json](./342537-primordial-fate.json) |
 | Primordial Genesis | 293043 | [293043-primordial-genesis.json](./293043-primordial-genesis.json) |
