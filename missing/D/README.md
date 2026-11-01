@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Blocks | 167517 | [167517-dark-blocks.json](./167517-dark-blocks.json) |
 | Dark Blood | 62625 | [62625-dark-blood.json](./62625-dark-blood.json) |
 | Dark Blood 2:The Cry of Souls | 291614 | [291614-dark-blood-2-the-cry-of-souls.json](./291614-dark-blood-2-the-cry-of-souls.json) |
+| Dark Blood Online | 61269 | [61269-dark-blood-online.json](./61269-dark-blood-online.json) |
 | Dark Blood: Beyond the Darkness | 291612 | [291612-dark-blood-beyond-the-darkness.json](./291612-dark-blood-beyond-the-darkness.json) |
 | Dark Blue Dungeon | 320789 | [320789-dark-blue-dungeon.json](./320789-dark-blue-dungeon.json) |
 | Dark Blue Warriorr | 211041 | [211041-dark-blue-warriorr.json](./211041-dark-blue-warriorr.json) |
@@ -8412,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Digital Cities | 273504 | [273504-digital-cities.json](./273504-digital-cities.json) |
 | Digital City | 260209 | [260209-digital-city.json](./260209-digital-city.json) |
+| Digital Combat Simulator F-86 Sabre | 61280 | [61280-digital-combat-simulator-f-86-sabre.json](./61280-digital-combat-simulator-f-86-sabre.json) |
 | Digital Combat Simulator: AJS-37 Viggen | 56382 | [56382-digital-combat-simulator-ajs-37-viggen.json](./56382-digital-combat-simulator-ajs-37-viggen.json) |
 | Digital Combat Simulator: Black Shark 2 | 65434 | [65434-digital-combat-simulator-black-shark-2.json](./65434-digital-combat-simulator-black-shark-2.json) |
 | Digital Combat Simulator: Combined Arms | 79380 | [79380-digital-combat-simulator-combined-arms.json](./79380-digital-combat-simulator-combined-arms.json) |
@@ -14960,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorks All-Star Kart Racing: Rally Edition | 273334 | [273334-dreamworks-all-star-kart-racing-rally-edition.json](./273334-dreamworks-all-star-kart-racing-rally-edition.json) |
 | DreamWorks All-Star Kart Racing: Rally Pack | 273335 | [273335-dreamworks-all-star-kart-racing-rally-pack.json](./273335-dreamworks-all-star-kart-racing-rally-pack.json) |
 | Dreamworks Animation | 220087 | [220087-dreamworks-animation.json](./220087-dreamworks-animation.json) |
+| DreamWorks Dash-n-Drop | 61377 | [61377-dreamworks-dash-n-drop.json](./61377-dreamworks-dash-n-drop.json) |
 | DreamWorks Dragons | 221674 | [221674-dreamworks-dragons.json](./221674-dreamworks-dragons.json) |
 | DreamWorks Dragons: Dawn of New Riders | 111629 | [111629-dreamworks-dragons-dawn-of-new-riders.json](./111629-dreamworks-dragons-dawn-of-new-riders.json) |
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
