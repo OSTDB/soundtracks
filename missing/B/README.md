@@ -882,7 +882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -935,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland | 8901 | [8901-badland.json](./8901-badland.json) |
+| Badland Bandits | 35014 | [35014-badland-bandits.json](./35014-badland-bandits.json) |
 | Badland Brawl | 77663 | [77663-badland-brawl.json](./77663-badland-brawl.json) |
 | Badland Caravan | 118296 | [118296-badland-caravan.json](./118296-badland-caravan.json) |
 | Badland Envoys | 129636 | [129636-badland-envoys.json](./129636-badland-envoys.json) |
@@ -6909,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
 | Big Fat Neighbor | 83532 | [83532-big-fat-neighbor.json](./83532-big-fat-neighbor.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
+| Big Fish Legend | 35056 | [35056-big-fish-legend.json](./35056-big-fish-legend.json) |
 | Big Flappy Tower vs. Tiny Square | 166806 | [166806-big-flappy-tower-vs-tiny-square.json](./166806-big-flappy-tower-vs-tiny-square.json) |
 | Big Flying Asteroid | 207675 | [207675-big-flying-asteroid.json](./207675-big-flying-asteroid.json) |
 | Big Four | 137501 | [137501-big-four.json](./137501-big-four.json) |
@@ -8122,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitVault | 129682 | [129682-bitvault.json](./129682-bitvault.json) |
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
 | Bitvoxel | 409822 | [409822-bitvoxel.json](./409822-bitvoxel.json) |
+| Bitweb | 35120 | [35120-bitweb.json](./35120-bitweb.json) |
 | Bitworm | 113701 | [113701-bitworm.json](./113701-bitworm.json) |
 | Bitzee | 340219 | [340219-bitzee.json](./340219-bitzee.json) |
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
@@ -15563,6 +15565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
 | Buggos 2 | 342787 | [342787-buggos-2.json](./342787-buggos-2.json) |
 | Buggotchi | 323604 | [323604-buggotchi.json](./323604-buggotchi.json) |
+| Buggy | 35080 | [35080-buggy.json](./35080-buggy.json) |
 | Buggy | 356042 | [356042-buggy.json](./356042-buggy.json) |
 | Buggy Battle | 179349 | [179349-buggy-battle.json](./179349-buggy-battle.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
