@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairies vs Bugs | 369148 | [369148-fairies-vs-bugs.json](./369148-fairies-vs-bugs.json) |
+| Fairies vs. Darklings: Arcane Edition | 33744 | [33744-fairies-vs-darklings-arcane-edition.json](./33744-fairies-vs-darklings-arcane-edition.json) |
 | FairiTeller | 272203 | [272203-fairiteller.json](./272203-fairiteller.json) |
 | Fairlight | 12995 | [12995-fairlight.json](./12995-fairlight.json) |
 | Fairlight II: Trail of Darkness | 26444 | [26444-fairlight-ii-trail-of-darkness.json](./26444-fairlight-ii-trail-of-darkness.json) |
@@ -9100,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
 | Forgotten Adventure | 101388 | [101388-forgotten-adventure.json](./101388-forgotten-adventure.json) |
 | Forgotten at Fredbear's | 385937 | [385937-forgotten-at-fredbears.json](./385937-forgotten-at-fredbears.json) |
+| Forgotten Ball | 33725 | [33725-forgotten-ball.json](./33725-forgotten-ball.json) |
 | Forgotten Blood | 404288 | [404288-forgotten-blood.json](./404288-forgotten-blood.json) |
 | Forgotten but Unbroken | 223293 | [223293-forgotten-but-unbroken.json](./223293-forgotten-but-unbroken.json) |
 | Forgotten Castle | 113891 | [113891-forgotten-castle.json](./113891-forgotten-castle.json) |
@@ -9269,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
 | FormFish | 81833 | [81833-formfish.json](./81833-formfish.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
+| Formicide | 33716 | [33716-formicide.json](./33716-formicide.json) |
 | Formidable Alice | 134843 | [134843-formidable-alice.json](./134843-formidable-alice.json) |
 | Formido | 372243 | [372243-formido.json](./372243-formido.json) |
 | Formidolosa Nocte | 282839 | [282839-formidolosa-nocte.json](./282839-formidolosa-nocte.json) |
@@ -10191,6 +10194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractal Odyssey | 350784 | [350784-fractal-odyssey.json](./350784-fractal-odyssey.json) |
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
+| Fractal Space | 33683 | [33683-fractal-space.json](./33683-fractal-space.json) |
 | Fractala Sandbox | 361028 | [361028-fractala-sandbox.json](./361028-fractala-sandbox.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractals of Destiny | 256955 | [256955-fractals-of-destiny.json](./256955-fractals-of-destiny.json) |
