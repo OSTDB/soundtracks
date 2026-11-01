@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR_Play Room | 81858 | [81858-vr-play-room.json](./81858-vr-play-room.json) |
 | VR_PlayRoom | 83356 | [83356-vr-playroom.json](./83356-vr-playroom.json) |
 | VR_PlayRoom : Episode1(Escape Room - Horror) | 83805 | [83805-vr-playroom-episode1-escape-room-horror.json](./83805-vr-playroom-episode1-escape-room-horror.json) |
+| VR-AT Simulator: Armored Trooper Votoms - Battling Dudes | 51688 | [51688-vr-at-simulator-armored-trooper-votoms-battling-dudes.json](./51688-vr-at-simulator-armored-trooper-votoms-battling-dudes.json) |
 | VR-Kanojo | 322615 | [322615-vr-kanojo.json](./322615-vr-kanojo.json) |
 | VR-Xterminator | 32992 | [32992-vr-xterminator.json](./32992-vr-xterminator.json) |
 | VR: Killing Town | 94767 | [94767-vr-killing-town.json](./94767-vr-killing-town.json) |
