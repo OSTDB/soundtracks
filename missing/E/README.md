@@ -6295,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everhood Hunters | 393729 | [393729-everhood-hunters.json](./393729-everhood-hunters.json) |
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
 | Everise | 388980 | [388980-everise.json](./388980-everise.json) |
+| Everland | 38669 | [38669-everland.json](./38669-everland.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
 | Everlast | 210416 | [210416-everlast.json](./210416-everlast.json) |
 | Everlast: Undying Tale | 381335 | [381335-everlast-undying-tale.json](./381335-everlast-undying-tale.json) |
