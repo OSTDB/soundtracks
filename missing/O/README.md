@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Creek: The House | 258853 | [258853-one-creek-the-house.json](./258853-one-creek-the-house.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day | 189325 | [189325-one-day.json](./189325-one-day.json) |
+| One Day : The Sun Disappeared | 32364 | [32364-one-day-the-sun-disappeared.json](./32364-one-day-the-sun-disappeared.json) |
 | One Day After School | 270712 | [270712-one-day-after-school.json](./270712-one-day-after-school.json) |
 | One Day After the Snow and Wind | 384569 | [384569-one-day-after-the-snow-and-wind.json](./384569-one-day-after-the-snow-and-wind.json) |
 | One Day for Ched | 10647 | [10647-one-day-for-ched.json](./10647-one-day-for-ched.json) |
