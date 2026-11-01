@@ -3979,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Markov Alg | 178829 | [178829-markov-alg.json](./178829-markov-alg.json) |
 | Marks of Ki | 384349 | [384349-marks-of-ki.json](./384349-marks-of-ki.json) |
 | Marks the Spot | 176762 | [176762-marks-the-spot.json](./176762-marks-the-spot.json) |
+| Marksman / Depth charge | 27220 | [27220-marksman-depth-charge.json](./27220-marksman-depth-charge.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
 | Marksman VR | 344503 | [344503-marksman-vr.json](./344503-marksman-vr.json) |
 | Marksman: Long Range | 65875 | [65875-marksman-long-range.json](./65875-marksman-long-range.json) |
@@ -5488,7 +5489,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16236,6 +16236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherload | 19070 | [19070-motherload.json](./19070-motherload.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
+| Mothership | 27211 | [27211-mothership.json](./27211-mothership.json) |
 | Mothership | 273235 | [273235-mothership.json](./273235-mothership.json) |
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
 | Mothership Down | 403976 | [403976-mothership-down.json](./403976-mothership-down.json) |
@@ -20117,6 +20118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Forgotten Voices | 187958 | [187958-mystery-trackers-forgotten-voices.json](./187958-mystery-trackers-forgotten-voices.json) |
 | Mystery Trackers: Memories of Shadowfield | 187942 | [187942-mystery-trackers-memories-of-shadowfield.json](./187942-mystery-trackers-memories-of-shadowfield.json) |
 | Mystery Trackers: Mist Over Blackhill | 187939 | [187939-mystery-trackers-mist-over-blackhill.json](./187939-mystery-trackers-mist-over-blackhill.json) |
+| Mystery Trackers: Nightsville Horror | 27187 | [27187-mystery-trackers-nightsville-horror.json](./27187-mystery-trackers-nightsville-horror.json) |
 | Mystery Trackers: Nightsville Horror - Collector's Edition | 148475 | [148475-mystery-trackers-nightsville-horror-collectors-edition.json](./148475-mystery-trackers-nightsville-horror-collectors-edition.json) |
 | Mystery Trackers: Nightsville Horror & Winterpoint Tragedy | 201823 | [201823-mystery-trackers-nightsville-horror-and-winterpoint-tragedy.json](./201823-mystery-trackers-nightsville-horror-and-winterpoint-tragedy.json) |
 | Mystery Trackers: Nightsville Horror HD | 108259 | [108259-mystery-trackers-nightsville-horror-hd.json](./108259-mystery-trackers-nightsville-horror-hd.json) |
