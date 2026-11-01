@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Mysteries: Poisonous Promises | 131986 | [131986-family-mysteries-poisonous-promises.json](./131986-family-mysteries-poisonous-promises.json) |
 | Family Park | 113217 | [113217-family-park.json](./113217-family-park.json) |
 | Family Park Tycoon | 123310 | [123310-family-park-tycoon.json](./123310-family-park-tycoon.json) |
+| Family Party: 30 Great Games | 50964 | [50964-family-party-30-great-games.json](./50964-family-party-30-great-games.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Outdoor Fun | 50999 | [50999-family-party-30-great-games-outdoor-fun.json](./50999-family-party-30-great-games-outdoor-fun.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
@@ -6561,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
 | Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
 | Fix It: Home Improvement | 124987 | [124987-fix-it-home-improvement.json](./124987-fix-it-home-improvement.json) |
+| Fix It: Home Improvement Challenge | 50962 | [50962-fix-it-home-improvement-challenge.json](./50962-fix-it-home-improvement-challenge.json) |
 | Fix Me Fix You | 29301 | [29301-fix-me-fix-you.json](./29301-fix-me-fix-you.json) |
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
 | Fix My Car: Custom Mods | 102630 | [102630-fix-my-car-custom-mods.json](./102630-fix-my-car-custom-mods.json) |
