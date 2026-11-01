@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
 | Last Evil | 135638 | [135638-last-evil.json](./135638-last-evil.json) |
 | Last Expedition | 142310 | [142310-last-expedition.json](./142310-last-expedition.json) |
+| Last Explorer | 57394 | [57394-last-explorer.json](./57394-last-explorer.json) |
 | Last Fantasy | 234482 | [234482-last-fantasy.json](./234482-last-fantasy.json) |
 | Last Fantasy Hentai | 149388 | [149388-last-fantasy-hentai.json](./149388-last-fantasy-hentai.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of the East: The Cobra's Eye - Collector's Edition | 381379 | [381379-legends-of-the-east-the-cobras-eye-collectors-edition.json](./381379-legends-of-the-east-the-cobras-eye-collectors-edition.json) |
 | Legends of The Internet | 311208 | [311208-legends-of-the-internet.json](./311208-legends-of-the-internet.json) |
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
+| Legends of the Lost Realm I: The Gathering of Heroes | 57410 | [57410-legends-of-the-lost-realm-i-the-gathering-of-heroes.json](./57410-legends-of-the-lost-realm-i-the-gathering-of-heroes.json) |
 | Legends of the Mist | 201863 | [201863-legends-of-the-mist.json](./201863-legends-of-the-mist.json) |
 | Legends of the Past | 208392 | [208392-legends-of-the-past.json](./208392-legends-of-the-past.json) |
 | Legends of the Pitch | 424698 | [424698-legends-of-the-pitch.json](./424698-legends-of-the-pitch.json) |
@@ -4219,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeline | 83829 | [83829-lifeline.json](./83829-lifeline.json) |
 | LifeLine 2018 | 183264 | [183264-lifeline-2018.json](./183264-lifeline-2018.json) |
 | Lifeline: Beside You in Time | 208005 | [208005-lifeline-beside-you-in-time.json](./208005-lifeline-beside-you-in-time.json) |
+| Lifeline: Crisis Line | 57541 | [57541-lifeline-crisis-line.json](./57541-lifeline-crisis-line.json) |
 | Lifeline: Halfway to Infinity | 56888 | [56888-lifeline-halfway-to-infinity.json](./56888-lifeline-halfway-to-infinity.json) |
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
