@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0Space | 62542 | [62542-0space.json](./62542-0space.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
 | 0x0 | 294768 | [294768-0x0.json](./294768-0x0.json) |
+| 0x10c | 1898 | [1898-0x10c.json](./1898-0x10c.json) |
 | 1 4 the $ | 301397 | [301397-1-4-the.json](./301397-1-4-the.json) |
 | 1 Across 2 Down | 38857 | [38857-1-across-2-down.json](./38857-1-across-2-down.json) |
 | 1 Agile Altercation | 316924 | [316924-1-agile-altercation.json](./316924-1-agile-altercation.json) |
@@ -718,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Lines 3 Community Project | 259391 | [259391-1000-lines-3-community-project.json](./259391-1000-lines-3-community-project.json) |
 | 1000 Lines Community Project | 259389 | [259389-1000-lines-community-project.json](./259389-1000-lines-community-project.json) |
 | 1000 Man General | 240647 | [240647-1000-man-general.json](./240647-1000-man-general.json) |
+| 1000 Miglia | 2372 | [2372-1000-miglia.json](./2372-1000-miglia.json) |
 | 1000 Miglia: Great 1000 Miles Rally | 39354 | [39354-1000-miglia-great-1000-miles-rally.json](./39354-1000-miglia-great-1000-miles-rally.json) |
 | 1000 Needles | 188439 | [188439-1000-needles.json](./188439-1000-needles.json) |
 | 1000 of Single Stroke | 297641 | [297641-1000-of-single-stroke.json](./297641-1000-of-single-stroke.json) |
@@ -926,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10S Forever | 343951 | [343951-10s-forever.json](./343951-10s-forever.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
 | 10th Corpse | 172960 | [172960-10th-corpse.json](./172960-10th-corpse.json) |
+| 10th Frame | 2373 | [2373-10th-frame.json](./2373-10th-frame.json) |
 | 10tons Action Puzzle Bundle | 83747 | [83747-10tons-action-puzzle-bundle.json](./83747-10tons-action-puzzle-bundle.json) |
 | 10tons Adventure Puzzles Bundle | 82461 | [82461-10tons-adventure-puzzles-bundle.json](./82461-10tons-adventure-puzzles-bundle.json) |
 | 10tons Cyberpunk Bundle | 83746 | [83746-10tons-cyberpunk-bundle.json](./83746-10tons-cyberpunk-bundle.json) |
@@ -1284,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1994 (Ten Years After) | 70295 | [70295-1994-ten-years-after.json](./70295-1994-ten-years-after.json) |
+| 1994Pool+ | 2375 | [2375-1994pool.json](./2375-1994pool.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
 | 1997 Reloaded | 405044 | [405044-1997-reloaded.json](./405044-1997-reloaded.json) |
 | 1998 | 178550 | [178550-1998.json](./178550-1998.json) |
@@ -1800,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2nd Grade: Musical Menace | 230419 | [230419-2nd-grade-musical-menace.json](./230419-2nd-grade-musical-menace.json) |
 | 2nd Obakeidoro! Fest Bundle | 328985 | [328985-2nd-obakeidoro-fest-bundle.json](./328985-2nd-obakeidoro-fest-bundle.json) |
 | 2nd Shot | 358084 | [358084-2nd-shot.json](./358084-2nd-shot.json) |
+| 2nd Space | 2362 | [2362-2nd-space.json](./2362-2nd-space.json) |
 | 2Pupp | 203862 | [203862-2pupp.json](./203862-2pupp.json) |
 | 2Puzzle It: Fantasy | 84585 | [84585-2puzzle-it-fantasy.json](./84585-2puzzle-it-fantasy.json) |
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
@@ -1883,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Pandas in Japan | 381989 | [381989-3-pandas-in-japan.json](./381989-3-pandas-in-japan.json) |
 | 3 Peak Deluxe | 205956 | [205956-3-peak-deluxe.json](./205956-3-peak-deluxe.json) |
 | 3 Player Battle | 58720 | [58720-3-player-battle.json](./58720-3-player-battle.json) |
+| 3 Point Basketball | 2376 | [2376-3-point-basketball.json](./2376-3-point-basketball.json) |
 | 3 Point Contest | 64319 | [64319-3-point-contest.json](./64319-3-point-contest.json) |
 | 3 Scary Games | 254035 | [254035-3-scary-games.json](./254035-3-scary-games.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
@@ -2109,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Construction Kit | 38852 | [38852-3d-construction-kit.json](./38852-3d-construction-kit.json) |
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Crazy Ballz | 94538 | [94538-3d-crazy-ballz.json](./94538-3d-crazy-ballz.json) |
+| 3D Crazy Coaster | 2383 | [2383-3d-crazy-coaster.json](./2383-3d-crazy-coaster.json) |
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
 | 3D Cricket | 243753 | [243753-3d-cricket.json](./243753-3d-cricket.json) |
 | 3D Crosswords | 268507 | [268507-3d-crosswords.json](./268507-3d-crosswords.json) |
@@ -2190,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Movie Maker | 263635 | [263635-3d-movie-maker.json](./263635-3d-movie-maker.json) |
 | 3D Ms. Maze: Tropical Adventures | 62960 | [62960-3d-ms-maze-tropical-adventures.json](./62960-3d-ms-maze-tropical-adventures.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
+| 3D Narrow Escape | 2385 | [2385-3d-narrow-escape.json](./2385-3d-narrow-escape.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Ninja Fighter | 217715 | [217715-3d-ninja-fighter.json](./217715-3d-ninja-fighter.json) |
 | 3D Paraglider | 35324 | [35324-3d-paraglider.json](./35324-3d-paraglider.json) |
@@ -2694,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Level Survival | 150988 | [150988-50-level-survival.json](./150988-50-level-survival.json) |
 | 50 Minutes 'Til Impact | 369730 | [369730-50-minutes-til-impact.json](./369730-50-minutes-til-impact.json) |
+| 50 Mission Crush | 2414 | [2414-50-mission-crush.json](./2414-50-mission-crush.json) |
 | 50 Monsters | 259377 | [259377-50-monsters.json](./259377-50-monsters.json) |
 | 50 More Classic Games | 137413 | [137413-50-more-classic-games.json](./137413-50-more-classic-games.json) |
 | 50 Pinch Barrage!! | 21670 | [21670-50-pinch-barrage.json](./21670-50-pinch-barrage.json) |
