@@ -4954,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara 2 Heroes | 72578 | [72578-sengoku-basara-2-heroes.json](./72578-sengoku-basara-2-heroes.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
 | Sengoku Basara 4 | 63628 | [63628-sengoku-basara-4.json](./63628-sengoku-basara-4.json) |
+| Sengoku Basara 4 Sumeragi | 42976 | [42976-sengoku-basara-4-sumeragi.json](./42976-sengoku-basara-4-sumeragi.json) |
 | Sengoku Basara 4: Sumeragi - Anniversary Edition | 136704 | [136704-sengoku-basara-4-sumeragi-anniversary-edition.json](./136704-sengoku-basara-4-sumeragi-anniversary-edition.json) |
 | Sengoku Basara Chronicle Heroes | 65896 | [65896-sengoku-basara-chronicle-heroes.json](./65896-sengoku-basara-chronicle-heroes.json) |
 | Sengoku Basara HD Collection | 43054 | [43054-sengoku-basara-hd-collection.json](./43054-sengoku-basara-hd-collection.json) |
@@ -25709,6 +25710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 2 | 330661 | [330661-street-fighter-2.json](./330661-street-fighter-2.json) |
 | Street Fighter 2010: The Final Fight | 217692 | [217692-street-fighter-2010-the-final-fight.json](./217692-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
+| Street Fighter 25th Anniversary Collector's Set | 43011 | [43011-street-fighter-25th-anniversary-collectors-set.json](./43011-street-fighter-25th-anniversary-collectors-set.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
 | Street Fighter 5: Guile | 324177 | [324177-street-fighter-5-guile.json](./324177-street-fighter-5-guile.json) |
 | Street Fighter 6 | 343673 | [343673-street-fighter-6.json](./343673-street-fighter-6.json) |
@@ -27428,6 +27430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Carnival '92: Recca | 48642 | [48642-summer-carnival-92-recca.json](./48642-summer-carnival-92-recca.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
 | Summer Catchers | 106435 | [106435-summer-catchers.json](./106435-summer-catchers.json) |
+| Summer Challenge: Athletics Tournament | 43012 | [43012-summer-challenge-athletics-tournament.json](./43012-summer-challenge-athletics-tournament.json) |
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Color Boi | 128805 | [128805-summer-color-boi.json](./128805-summer-color-boi.json) |
 | Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
