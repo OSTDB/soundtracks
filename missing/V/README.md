@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision Quest: A New Ascent | 405125 | [405125-vision-quest-a-new-ascent.json](./405125-vision-quest-a-new-ascent.json) |
 | Vision Runner | 33850 | [33850-vision-runner.json](./33850-vision-runner.json) |
 | Vision Soft Reset | 113732 | [113732-vision-soft-reset.json](./113732-vision-soft-reset.json) |
+| Vision: The 5 Dimension Utopia | 50246 | [50246-vision-the-5-dimension-utopia.json](./50246-vision-the-5-dimension-utopia.json) |
 | Visionarium | 113737 | [113737-visionarium.json](./113737-visionarium.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | VisionaryWings | 367351 | [367351-visionarywings.json](./367351-visionarywings.json) |
