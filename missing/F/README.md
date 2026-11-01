@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Effect | 8600 | [8600-fear-effect.json](./8600-fear-effect.json) |
 | Fear Effect 2: Retro Helix | 375601 | [375601-fear-effect-2-retro-helix.json](./375601-fear-effect-2-retro-helix.json) |
 | Fear Effect 2: Retro Helix | 8601 | [8601-fear-effect-2-retro-helix.json](./8601-fear-effect-2-retro-helix.json) |
+| Fear Effect Sedna | 30847 | [30847-fear-effect-sedna.json](./30847-fear-effect-sedna.json) |
 | Fear Effect: Inferno | 91675 | [91675-fear-effect-inferno.json](./91675-fear-effect-inferno.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
@@ -9744,6 +9745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Duty | 295628 | [295628-fortress-duty.json](./295628-fortress-duty.json) |
 | Fortress Era | 188357 | [188357-fortress-era.json](./188357-fortress-era.json) |
 | Fortress Europe | 61897 | [61897-fortress-europe.json](./61897-fortress-europe.json) |
+| Fortress Forever | 30237 | [30237-fortress-forever.json](./30237-fortress-forever.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress Guardian | 394140 | [394140-fortress-guardian.json](./394140-fortress-guardian.json) |
 | Fortress Interior | 272168 | [272168-fortress-interior.json](./272168-fortress-interior.json) |
