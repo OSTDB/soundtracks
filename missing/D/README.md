@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
 | Darkspyre | 50453 | [50453-darkspyre.json](./50453-darkspyre.json) |
+| Darkstalkers 3 | 4135 | [4135-darkstalkers-3.json](./4135-darkstalkers-3.json) |
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
 | Darkstalkers: The Night Warriors | 20009 | [20009-darkstalkers-the-night-warriors.json](./20009-darkstalkers-the-night-warriors.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
@@ -2929,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCKO | 410955 | [410955-dcko.json](./410955-dcko.json) |
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
 | DCR: Drive.Crash.Repeat | 108296 | [108296-dcr-drive-crash-repeat.json](./108296-dcr-drive-crash-repeat.json) |
+| DCS World | 3769 | [3769-dcs-world.json](./3769-dcs-world.json) |
 | DCS World: A-10C II Iron Flag Part 1 Campaign | 195416 | [195416-dcs-world-a-10c-ii-iron-flag-part-1-campaign.json](./195416-dcs-world-a-10c-ii-iron-flag-part-1-campaign.json) |
 | DCS World: A-10C II Tank Killer | 156307 | [156307-dcs-world-a-10c-ii-tank-killer.json](./156307-dcs-world-a-10c-ii-tank-killer.json) |
 | DCS World: A-10C Operation Agile Spear Campaign by Combat King Simulations | 325720 | [325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json](./325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json) |
@@ -6965,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
 | Destiny 2: The Edge of Fate | 342776 | [342776-destiny-2-the-edge-of-fate.json](./342776-destiny-2-the-edge-of-fate.json) |
+| Destiny 2: The Witch Queen | 134831 | [134831-destiny-2-the-witch-queen.json](./134831-destiny-2-the-witch-queen.json) |
 | Destiny 2: The Witch Queen - Collector’s Edition | 165327 | [165327-destiny-2-the-witch-queen-collector-s-edition.json](./165327-destiny-2-the-witch-queen-collector-s-edition.json) |
 | Destiny 2: The Witch Queen - Deluxe Edition | 165326 | [165326-destiny-2-the-witch-queen-deluxe-edition.json](./165326-destiny-2-the-witch-queen-deluxe-edition.json) |
 | Destiny 2: The Witch Queen - Season of Plunder | 214424 | [214424-destiny-2-the-witch-queen-season-of-plunder.json](./214424-destiny-2-the-witch-queen-season-of-plunder.json) |
@@ -9647,6 +9650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
 | Disney Infinity 2.0 Spider-Man Playset | 263922 | [263922-disney-infinity-2-0-spider-man-playset.json](./263922-disney-infinity-2-0-spider-man-playset.json) |
 | Disney Infinity 2.0: Marvel Super Heroes | 17818 | [17818-disney-infinity-2-0-marvel-super-heroes.json](./17818-disney-infinity-2-0-marvel-super-heroes.json) |
+| Disney Infinity 3.0 | 11083 | [11083-disney-infinity-3-0.json](./11083-disney-infinity-3-0.json) |
 | Disney Infinity 4.0 | 240940 | [240940-disney-infinity-4-0.json](./240940-disney-infinity-4-0.json) |
 | Disney Infinity: 2.0 | 47764 | [47764-disney-infinity-2-0.json](./47764-disney-infinity-2-0.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
@@ -9798,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Donald Duck Advance | 63272 | [63272-disneys-donald-duck-advance.json](./63272-disneys-donald-duck-advance.json) |
 | Disney's Donald Duck: Goin' Quackers | 10610 | [10610-disneys-donald-duck-goin-quackers.json](./10610-disneys-donald-duck-goin-quackers.json) |
 | Disney's Donald Duck: Goin' Quackers | 146342 | [146342-disneys-donald-duck-goin-quackers.json](./146342-disneys-donald-duck-goin-quackers.json) |
+| Disney's Donald Duck: Goin' Quackers | 360 | [360-disneys-donald-duck-goin-quackers.json](./360-disneys-donald-duck-goin-quackers.json) |
 | Disney's Donald Duck: Goin' Quackers | 53943 | [53943-disneys-donald-duck-goin-quackers.json](./53943-disneys-donald-duck-goin-quackers.json) |
 | Disney's Doug: Doug's Big Game | 49942 | [49942-disneys-doug-dougs-big-game.json](./49942-disneys-doug-dougs-big-game.json) |
 | Disney's DuckTales | 145268 | [145268-disneys-ducktales.json](./145268-disneys-ducktales.json) |
@@ -11843,6 +11848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. + Jr. Sansuu Lesson | 77964 | [77964-donkey-kong-jr-jr-sansuu-lesson.json](./77964-donkey-kong-jr-jr-sansuu-lesson.json) |
 | Donkey Kong Jr. Math | 5692 | [5692-donkey-kong-jr-math.json](./5692-donkey-kong-jr-math.json) |
 | Donkey Kong Jr.-e | 170008 | [170008-donkey-kong-jr-e.json](./170008-donkey-kong-jr-e.json) |
+| Donkey Kong Jungle Beat | 1097 | [1097-donkey-kong-jungle-beat.json](./1097-donkey-kong-jungle-beat.json) |
 | Donkey Kong Jungle Beat | 84699 | [84699-donkey-kong-jungle-beat.json](./84699-donkey-kong-jungle-beat.json) |
 | Donkey Kong Jungle Fever | 230167 | [230167-donkey-kong-jungle-fever.json](./230167-donkey-kong-jungle-fever.json) |
 | Donkey Kong Junior | 1087 | [1087-donkey-kong-junior.json](./1087-donkey-kong-junior.json) |
@@ -13563,6 +13569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
 | Dragon Ball Z: Attack of the Saiyans | 21196 | [21196-dragon-ball-z-attack-of-the-saiyans.json](./21196-dragon-ball-z-attack-of-the-saiyans.json) |
 | Dragon Ball Z: Bakuretsu Impact | 66917 | [66917-dragon-ball-z-bakuretsu-impact.json](./66917-dragon-ball-z-bakuretsu-impact.json) |
+| Dragon Ball Z: Battle of Z | 2583 | [2583-dragon-ball-z-battle-of-z.json](./2583-dragon-ball-z-battle-of-z.json) |
 | Dragon Ball Z: Budokai 2 | 2564 | [2564-dragon-ball-z-budokai-2.json](./2564-dragon-ball-z-budokai-2.json) |
 | Dragon Ball Z: Budokai 3 | 2566 | [2566-dragon-ball-z-budokai-3.json](./2566-dragon-ball-z-budokai-3.json) |
 | Dragon Ball Z: Budokai 3 - Collector's Edition | 291591 | [291591-dragon-ball-z-budokai-3-collectors-edition.json](./291591-dragon-ball-z-budokai-3-collectors-edition.json) |
@@ -13985,6 +13992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VII Reimagined: Luminary's Livery | 375189 | [375189-dragon-quest-vii-reimagined-luminarys-livery.json](./375189-dragon-quest-vii-reimagined-luminarys-livery.json) |
 | Dragon Quest VII Reimagined: The Road of Regal Wretches | 375190 | [375190-dragon-quest-vii-reimagined-the-road-of-regal-wretches.json](./375190-dragon-quest-vii-reimagined-the-road-of-regal-wretches.json) |
 | Dragon Quest VII Reimagined: White Wolf Costume | 375191 | [375191-dragon-quest-vii-reimagined-white-wolf-costume.json](./375191-dragon-quest-vii-reimagined-white-wolf-costume.json) |
+| Dragon Quest VII: Fragments of the Forgotten Past | 23913 | [23913-dragon-quest-vii-fragments-of-the-forgotten-past.json](./23913-dragon-quest-vii-fragments-of-the-forgotten-past.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King - Mobile Remaster | 313424 | [313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json](./313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json) |
@@ -17827,6 +17835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Fishing: World Games | 59898 | [59898-dynamite-fishing-world-games.json](./59898-dynamite-fishing-world-games.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
 | Dynamite Golf | 175210 | [175210-dynamite-golf.json](./175210-dynamite-golf.json) |
+| Dynamite Headdy | 22744 | [22744-dynamite-headdy.json](./22744-dynamite-headdy.json) |
 | Dynamite Headdy | 260839 | [260839-dynamite-headdy.json](./260839-dynamite-headdy.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
 | Dynamite Joe | 300545 | [300545-dynamite-joe.json](./300545-dynamite-joe.json) |
