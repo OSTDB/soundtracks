@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
 | Gears of War: Triple Pack | 136314 | [136314-gears-of-war-triple-pack.json](./136314-gears-of-war-triple-pack.json) |
+| Gears of War: Ultimate Edition | 16605 | [16605-gears-of-war-ultimate-edition.json](./16605-gears-of-war-ultimate-edition.json) |
 | Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
 | Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
@@ -7107,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo / Motor Toon Grand Prix 2 Double Pack | 88893 | [88893-gran-turismo-motor-toon-grand-prix-2-double-pack.json](./88893-gran-turismo-motor-toon-grand-prix-2-double-pack.json) |
 | Gran Turismo 2 | 1597 | [1597-gran-turismo-2.json](./1597-gran-turismo-2.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
+| Gran Turismo 3: A-Spec | 1600 | [1600-gran-turismo-3-a-spec.json](./1600-gran-turismo-3-a-spec.json) |
 | Gran Turismo 4 | 1601 | [1601-gran-turismo-4.json](./1601-gran-turismo-4.json) |
 | Gran Turismo 4 Spec II | 336043 | [336043-gran-turismo-4-spec-ii.json](./336043-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
