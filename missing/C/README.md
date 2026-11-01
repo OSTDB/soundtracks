@@ -7976,6 +7976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella Classic Tale | 87319 | [87319-cinderella-classic-tale.json](./87319-cinderella-classic-tale.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
 | Cinderella Escape! R12 | 34330 | [34330-cinderella-escape-r12.json](./34330-cinderella-escape-r12.json) |
+| Cinderella Free Fall | 60193 | [60193-cinderella-free-fall.json](./60193-cinderella-free-fall.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
 | Cinderella Phenomenon: Evermore | 156586 | [156586-cinderella-phenomenon-evermore.json](./156586-cinderella-phenomenon-evermore.json) |
@@ -11789,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Cool 2 | 35620 | [35620-commander-cool-2.json](./35620-commander-cool-2.json) |
 | Commander Cool: Time Leap | 83330 | [83330-commander-cool-time-leap.json](./83330-commander-cool-time-leap.json) |
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
+| Commander Kamala Lays Down the Law | 60293 | [60293-commander-kamala-lays-down-the-law.json](./60293-commander-kamala-lays-down-the-law.json) |
 | Commander Keen | 119309 | [119309-commander-keen.json](./119309-commander-keen.json) |
 | Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
 | Commander Keen Enters RON | 71177 | [71177-commander-keen-enters-ron.json](./71177-commander-keen-enters-ron.json) |
@@ -13431,6 +13433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coronel Indoor Kartracing | 73477 | [73477-coronel-indoor-kartracing.json](./73477-coronel-indoor-kartracing.json) |
 | Coropata | 80582 | [80582-coropata.json](./80582-coropata.json) |
 | CoRoT | 345841 | [345841-corot.json](./345841-corot.json) |
+| Corp Wars: Karavan | 60289 | [60289-corp-wars-karavan.json](./60289-corp-wars-karavan.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
 | Corpoct | 121991 | [121991-corpoct.json](./121991-corpoct.json) |
 | CorpoNation: The Sorting Process | 219744 | [219744-corponation-the-sorting-process.json](./219744-corponation-the-sorting-process.json) |
