@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racter | 26406 | [26406-racter.json](./26406-racter.json) |
 | Rad | 116414 | [116414-rad.json](./116414-rad.json) |
 | Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
+| Rad Boarding | 61923 | [61923-rad-boarding.json](./61923-rad-boarding.json) |
 | Rad Dude | 167668 | [167668-rad-dude.json](./167668-rad-dude.json) |
 | Rad Mobile | 39570 | [39570-rad-mobile.json](./39570-rad-mobile.json) |
 | Rad Racer | 8359 | [8359-rad-racer.json](./8359-rad-racer.json) |
@@ -2481,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Turn 2 - Runaway | 152611 | [152611-re-turn-2-runaway.json](./152611-re-turn-2-runaway.json) |
 | Re:Ver Project - Tokyo | 327755 | [327755-re-ver-project-tokyo.json](./327755-re-ver-project-tokyo.json) |
 | Re:Vessel | 202321 | [202321-re-vessel.json](./202321-re-vessel.json) |
+| Re:Viced | 61945 | [61945-re-viced.json](./61945-re-viced.json) |
 | Re:volvers8 | 109291 | [109291-re-volvers8.json](./109291-re-volvers8.json) |
 | Re:Zero - Infinity | 193944 | [193944-re-zero-infinity.json](./193944-re-zero-infinity.json) |
 | Re:Zero - Starting Life in Another World: Death or Kiss | 26668 | [26668-re-zero-starting-life-in-another-world-death-or-kiss.json](./26668-re-zero-starting-life-in-another-world-death-or-kiss.json) |
