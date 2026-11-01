@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Bricks Breaker 3 | 227529 | [227529-balls-bricks-breaker-3.json](./227529-balls-bricks-breaker-3.json) |
 | Balls Control | 90767 | [90767-balls-control.json](./90767-balls-control.json) |
 | Balls Crush Simulator | 319432 | [319432-balls-crush-simulator.json](./319432-balls-crush-simulator.json) |
+| Balls Falls, a fantastic unique two finger game! | 23165 | [23165-balls-falls-a-fantastic-unique-two-finger-game.json](./23165-balls-falls-a-fantastic-unique-two-finger-game.json) |
 | Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
 | Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
 | Balls Mania! | 173970 | [173970-balls-mania.json](./173970-balls-mania.json) |
@@ -7655,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: The Complete Edition | 41595 | [41595-bioshock-infinite-the-complete-edition.json](./41595-bioshock-infinite-the-complete-edition.json) |
 | BioShock Infinite: Ultimate Songbird Edition | 41598 | [41598-bioshock-infinite-ultimate-songbird-edition.json](./41598-bioshock-infinite-ultimate-songbird-edition.json) |
+| BioShock: Challenge Rooms | 23038 | [23038-bioshock-challenge-rooms.json](./23038-bioshock-challenge-rooms.json) |
 | BioShock: Limited Edition | 142228 | [142228-bioshock-limited-edition.json](./142228-bioshock-limited-edition.json) |
 | BioShock: The Collection | 19839 | [19839-bioshock-the-collection.json](./19839-bioshock-the-collection.json) |
 | BioShock: Ultimate Rapture Edition | 47467 | [47467-bioshock-ultimate-rapture-edition.json](./47467-bioshock-ultimate-rapture-edition.json) |
@@ -9489,6 +9491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blitz: The League | 5753 | [5753-blitz-the-league.json](./5753-blitz-the-league.json) |
 | Blitz: The League II | 6921 | [6921-blitz-the-league-ii.json](./6921-blitz-the-league-ii.json) |
+| Blitz! | 23201 | [23201-blitz.json](./23201-blitz.json) |
 | Blitz!: Action Football | 41991 | [41991-blitz-action-football.json](./41991-blitz-action-football.json) |
 | Blitzar | 178995 | [178995-blitzar.json](./178995-blitzar.json) |
 | BlitzBombers | 92854 | [92854-blitzbombers.json](./92854-blitzbombers.json) |
@@ -16528,6 +16531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Masters | 227532 | [227532-burnout-masters.json](./227532-burnout-masters.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
 | Burnout Paradise Remastered | 78153 | [78153-burnout-paradise-remastered.json](./78153-burnout-paradise-remastered.json) |
+| Burnout Paradise: Bikes Pack | 23041 | [23041-burnout-paradise-bikes-pack.json](./23041-burnout-paradise-bikes-pack.json) |
 | Burnout Paradise: Cops and Robbers | 118274 | [118274-burnout-paradise-cops-and-robbers.json](./118274-burnout-paradise-cops-and-robbers.json) |
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
 | Burnout Revenge | 2626 | [2626-burnout-revenge.json](./2626-burnout-revenge.json) |
