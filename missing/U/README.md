@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Explorer Golf | 105170 | [105170-urban-explorer-golf.json](./105170-urban-explorer-golf.json) |
 | Urban Explorers | 334878 | [334878-urban-explorers.json](./334878-urban-explorers.json) |
 | Urban Extreme | 198535 | [198535-urban-extreme.json](./198535-urban-extreme.json) |
+| Urban Extreme: Street Rage | 50934 | [50934-urban-extreme-street-rage.json](./50934-urban-extreme-street-rage.json) |
 | Urban Fantasy: Vampires vs Werewolves | 169359 | [169359-urban-fantasy-vampires-vs-werewolves.json](./169359-urban-fantasy-vampires-vs-werewolves.json) |
 | Urban Farmer | 216852 | [216852-urban-farmer.json](./216852-urban-farmer.json) |
 | Urban Fight | 154900 | [154900-urban-fight.json](./154900-urban-fight.json) |
