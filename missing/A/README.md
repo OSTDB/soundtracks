@@ -4993,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Controller | 125618 | [125618-air-traffic-controller.json](./125618-air-traffic-controller.json) |
 | Air Traffic Controller | 125634 | [125634-air-traffic-controller.json](./125634-air-traffic-controller.json) |
 | Air Traffic Controller | 125635 | [125635-air-traffic-controller.json](./125635-air-traffic-controller.json) |
+| Air Traffic Controller | 46978 | [46978-air-traffic-controller.json](./46978-air-traffic-controller.json) |
 | Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
@@ -12463,6 +12464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariana and the Elder Codex: Ocean Bookmark | 390916 | [390916-ariana-and-the-elder-codex-ocean-bookmark.json](./390916-ariana-and-the-elder-codex-ocean-bookmark.json) |
 | Ariana and the Elder Codex: Rainfall Ring | 390917 | [390917-ariana-and-the-elder-codex-rainfall-ring.json](./390917-ariana-and-the-elder-codex-rainfall-ring.json) |
 | Ariane in Paradise | 255099 | [255099-ariane-in-paradise.json](./255099-ariane-in-paradise.json) |
+| Ariard -Shounen Alice- | 46943 | [46943-ariard-shounen-alice.json](./46943-ariard-shounen-alice.json) |
 | Ariborne: Trials | 127106 | [127106-ariborne-trials.json](./127106-ariborne-trials.json) |
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arid Jared | 217268 | [217268-arid-jared.json](./217268-arid-jared.json) |
@@ -15420,6 +15422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrophia: Diseased Lands | 401026 | [401026-atrophia-diseased-lands.json](./401026-atrophia-diseased-lands.json) |
 | Atrophy: XCIX | 268063 | [268063-atrophy-xcix.json](./268063-atrophy-xcix.json) |
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
+| Atrox | 46962 | [46962-atrox.json](./46962-atrox.json) |
 | Atrox | 73551 | [73551-atrox.json](./73551-atrox.json) |
 | ATSF Wagon Pack 01 | 224440 | [224440-atsf-wagon-pack-01.json](./224440-atsf-wagon-pack-01.json) |
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
