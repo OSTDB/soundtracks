@@ -13462,6 +13462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
 | Asagao ha Ai wo Shiranai | 411685 | [411685-asagao-ha-ai-wo-shiranai.json](./411685-asagao-ha-ai-wo-shiranai.json) |
+| Asahi Shinbun Rensai: Katou Hifumi Kudan Shogi Shingiryuu | 58412 | [58412-asahi-shinbun-rensai-katou-hifumi-kudan-shogi-shingiryuu.json](./58412-asahi-shinbun-rensai-katou-hifumi-kudan-shogi-shingiryuu.json) |
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
 | Asaki, Yumemishi ~Hitotose~ | 130021 | [130021-asaki-yumemishi-hitotose.json](./130021-asaki-yumemishi-hitotose.json) |
 | Asakura! P | 63096 | [63096-asakura-p.json](./63096-asakura-p.json) |
