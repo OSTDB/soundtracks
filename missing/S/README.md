@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam Alpha Remake | 356399 | [356399-serious-sam-alpha-remake.json](./356399-serious-sam-alpha-remake.json) |
 | Serious Sam Classics: Revolution | 16457 | [16457-serious-sam-classics-revolution.json](./16457-serious-sam-classics-revolution.json) |
 | Serious Sam Collection | 141060 | [141060-serious-sam-collection.json](./141060-serious-sam-collection.json) |
+| Serious Sam Double D | 10818 | [10818-serious-sam-double-d.json](./10818-serious-sam-double-d.json) |
 | Serious Sam Double D XXL | 20086 | [20086-serious-sam-double-d-xxl.json](./20086-serious-sam-double-d-xxl.json) |
 | Serious Sam Forever | 336017 | [336017-serious-sam-forever.json](./336017-serious-sam-forever.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
@@ -6261,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Tomb Raider: Definitive Edition | 123051 | [123051-shadow-of-the-tomb-raider-definitive-edition.json](./123051-shadow-of-the-tomb-raider-definitive-edition.json) |
 | Shadow of the Tomb Raider: Digital Deluxe Edition | 99121 | [99121-shadow-of-the-tomb-raider-digital-deluxe-edition.json](./99121-shadow-of-the-tomb-raider-digital-deluxe-edition.json) |
 | Shadow of the Tomb Raider: Limited Steelbook Edition | 198245 | [198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json](./198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json) |
+| Shadow of the Tomb Raider: The Forge | 110844 | [110844-shadow-of-the-tomb-raider-the-forge.json](./110844-shadow-of-the-tomb-raider-the-forge.json) |
 | Shadow of the Tomb Raider: The Grand Caiman | 116800 | [116800-shadow-of-the-tomb-raider-the-grand-caiman.json](./116800-shadow-of-the-tomb-raider-the-grand-caiman.json) |
 | Shadow of the Tomb Raider: The Nightmare | 113987 | [113987-shadow-of-the-tomb-raider-the-nightmare.json](./113987-shadow-of-the-tomb-raider-the-nightmare.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
@@ -7926,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Blade | 147666 | [147666-shinobi-blade.json](./147666-shinobi-blade.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
+| Shinobi II: The Silent Fury | 10220 | [10220-shinobi-ii-the-silent-fury.json](./10220-shinobi-ii-the-silent-fury.json) |
 | Shinobi III: Return of the Ninja Master | 2623 | [2623-shinobi-iii-return-of-the-ninja-master.json](./2623-shinobi-iii-return-of-the-ninja-master.json) |
 | Shinobi Legions | 10221 | [10221-shinobi-legions.json](./10221-shinobi-legions.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
@@ -9485,6 +9488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sightseeing Puzzle: Echter Puzzlespass für Unterwegs | 252679 | [252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json](./252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | SightWords Pro | 89157 | [89157-sightwords-pro.json](./89157-sightwords-pro.json) |
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
+| Sigil | 113346 | [113346-sigil.json](./113346-sigil.json) |
 | Sigil | 121415 | [121415-sigil.json](./121415-sigil.json) |
 | Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
 | Sigil II | 275462 | [275462-sigil-ii.json](./275462-sigil-ii.json) |
@@ -14887,6 +14891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softie | 321304 | [321304-softie.json](./321304-softie.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
+| Softporn Adventure | 10679 | [10679-softporn-adventure.json](./10679-softporn-adventure.json) |
 | Softporn II | 119281 | [119281-softporn-ii.json](./119281-softporn-ii.json) |
 | Softris | 221360 | [221360-softris.json](./221360-softris.json) |
 | Softstar Games Bundle | 231783 | [231783-softstar-games-bundle.json](./231783-softstar-games-bundle.json) |
@@ -17563,6 +17568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Source Multiplayer Pack | 299099 | [299099-source-multiplayer-pack.json](./299099-source-multiplayer-pack.json) |
+| Source of Madness | 107204 | [107204-source-of-madness.json](./107204-source-of-madness.json) |
 | Source of Power | 179359 | [179359-source-of-power.json](./179359-source-of-power.json) |
 | Source of Survival | 164195 | [164195-source-of-survival.json](./164195-source-of-survival.json) |
 | Source of the Nile: Digital Edition | 293587 | [293587-source-of-the-nile-digital-edition.json](./293587-source-of-the-nile-digital-edition.json) |
@@ -18182,6 +18188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -18479,6 +18486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest: The Lost Chapter | 349896 | [349896-space-quest-the-lost-chapter.json](./349896-space-quest-the-lost-chapter.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
+| Space Race | 11552 | [11552-space-race.json](./11552-space-race.json) |
 | Space Race | 274592 | [274592-space-race.json](./274592-space-race.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
 | Space Racer | 15373 | [15373-space-racer.json](./15373-space-racer.json) |
@@ -19014,6 +19022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceWalker | 81065 | [81065-spacewalker.json](./81065-spacewalker.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | SpacewAR Uprising | 101415 | [101415-spacewar-uprising.json](./101415-spacewar-uprising.json) |
+| Spacewar! | 11301 | [11301-spacewar.json](./11301-spacewar.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
 | Spaceward Ho! IV | 79700 | [79700-spaceward-ho-iv.json](./79700-spaceward-ho-iv.json) |
 | Spacewars: Interstellar Empire | 57758 | [57758-spacewars-interstellar-empire.json](./57758-spacewars-interstellar-empire.json) |
@@ -23149,6 +23158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
 | Stardome | 244687 | [244687-stardome.json](./244687-stardome.json) |
 | Stardream | 349984 | [349984-stardream.json](./349984-stardream.json) |
+| StarDrive | 10889 | [10889-stardrive.json](./10889-stardrive.json) |
 | StarDrive 2 | 13660 | [13660-stardrive-2.json](./13660-stardrive-2.json) |
 | StarDrive 2: Deluxe Edition | 53661 | [53661-stardrive-2-deluxe-edition.json](./53661-stardrive-2-deluxe-edition.json) |
 | StarDrive 2: Digital Deluxe Edition | 53662 | [53662-stardrive-2-digital-deluxe-edition.json](./53662-stardrive-2-digital-deluxe-edition.json) |
@@ -25309,6 +25319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Area 51: September 20th 2019 | 120998 | [120998-storm-area-51-september-20th-2019.json](./120998-storm-area-51-september-20th-2019.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
+| Storm Boy | 106978 | [106978-storm-boy.json](./106978-storm-boy.json) |
 | Storm Casters Ultra | 57011 | [57011-storm-casters-ultra.json](./57011-storm-casters-ultra.json) |
 | Storm Chaser - Tornado Alley | 103958 | [103958-storm-chaser-tornado-alley.json](./103958-storm-chaser-tornado-alley.json) |
 | Storm Chasers | 117083 | [117083-storm-chasers.json](./117083-storm-chasers.json) |
@@ -31094,6 +31105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superdeflex | 256309 | [256309-superdeflex.json](./256309-superdeflex.json) |
 | Superdeluxe | 297000 | [297000-superdeluxe.json](./297000-superdeluxe.json) |
 | Superdetektiverne | 131918 | [131918-superdetektiverne.json](./131918-superdetektiverne.json) |
+| Superdimension Neptune vs. Sega Hard Girls | 11366 | [11366-superdimension-neptune-vs-sega-hard-girls.json](./11366-superdimension-neptune-vs-sega-hard-girls.json) |
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
 | SuperDoom | 198358 | [198358-superdoom.json](./198358-superdoom.json) |
