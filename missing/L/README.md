@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | 8656 | [8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json](./8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json) |
 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | 2910 | [2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json](./2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json) |
 | Leisure Suit Larry 6: Shape Up or Slip Out! | 2911 | [2911-leisure-suit-larry-6-shape-up-or-slip-out.json](./2911-leisure-suit-larry-6-shape-up-or-slip-out.json) |
+| Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals | 2908 | [2908-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals.json](./2908-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals.json) |
 | Leisure Suit Larry in the Land of the Lounge Lizards | 2906 | [2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json](./2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Greatest Hits and Misses | 50324 | [50324-leisure-suit-larry-greatest-hits-and-misses.json](./50324-leisure-suit-larry-greatest-hits-and-misses.json) |
