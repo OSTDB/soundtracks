@@ -4799,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outclaw | 354931 | [354931-outclaw.json](./354931-outclaw.json) |
 | Outcore: Desktop Adventure | 156612 | [156612-outcore-desktop-adventure.json](./156612-outcore-desktop-adventure.json) |
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
+| Outdoor Action Double Pack | 50974 | [50974-outdoor-action-double-pack.json](./50974-outdoor-action-double-pack.json) |
 | Outdoor Adventures With Marisa Kirisame | 192020 | [192020-outdoor-adventures-with-marisa-kirisame.json](./192020-outdoor-adventures-with-marisa-kirisame.json) |
 | Outdoor Cosplay | 97622 | [97622-outdoor-cosplay.json](./97622-outdoor-cosplay.json) |
 | Outdoor Life: Sportman's Challenge | 202697 | [202697-outdoor-life-sportmans-challenge.json](./202697-outdoor-life-sportmans-challenge.json) |
