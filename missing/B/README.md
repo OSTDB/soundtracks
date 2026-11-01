@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batten Tanuki no Daibouken | 47548 | [47548-batten-tanuki-no-daibouken.json](./47548-batten-tanuki-no-daibouken.json) |
 | Batter Bear | 398478 | [398478-batter-bear.json](./398478-batter-bear.json) |
 | Batter Burst | 97073 | [97073-batter-burst.json](./97073-batter-burst.json) |
+| Batter Up | 46353 | [46353-batter-up.json](./46353-batter-up.json) |
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
 | Batteri Fjell 1945 | 292966 | [292966-batteri-fjell-1945.json](./292966-batteri-fjell-1945.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
@@ -6041,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlin 1936 | 119699 | [119699-berlin-1936.json](./119699-berlin-1936.json) |
 | Berlin 1948 | 15701 | [15701-berlin-1948.json](./15701-berlin-1948.json) |
 | Berlin Connection | 93397 | [93397-berlin-connection.json](./93397-berlin-connection.json) |
+| Berlin no Kabe | 46322 | [46322-berlin-no-kabe.json](./46322-berlin-no-kabe.json) |
 | Berlin Wall | 421192 | [421192-berlin-wall.json](./421192-berlin-wall.json) |
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
@@ -11558,6 +11561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Friends | 114677 | [114677-bomber-friends.json](./114677-bomber-friends.json) |
+| Bomber Hehhe | 46363 | [46363-bomber-hehhe.json](./46363-bomber-hehhe.json) |
 | Bomber Hero | 101192 | [101192-bomber-hero.json](./101192-bomber-hero.json) |
 | Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
@@ -16700,6 +16704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busted | 384857 | [384857-busted.json](./384857-busted.json) |
 | Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
 | Buster | 62831 | [62831-buster.json](./62831-buster.json) |
+| Buster Ball | 46324 | [46324-buster-ball.json](./46324-buster-ball.json) |
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Breaks Out | 390373 | [390373-buster-breaks-out.json](./390373-buster-breaks-out.json) |
@@ -16708,6 +16713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster Bros. Collection | 20137 | [20137-buster-bros-collection.json](./20137-buster-bros-collection.json) |
 | Buster Bubbles | 354231 | [354231-buster-bubbles.json](./354231-buster-bubbles.json) |
 | Buster Busts A Nut | 375390 | [375390-buster-busts-a-nut.json](./375390-buster-busts-a-nut.json) |
+| Buster Fight | 46323 | [46323-buster-fight.json](./46323-buster-fight.json) |
 | Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
 | Buster Sword | 415963 | [415963-buster-sword.json](./415963-buster-sword.json) |
 | Buster's Big Score | 366270 | [366270-busters-big-score.json](./366270-busters-big-score.json) |
