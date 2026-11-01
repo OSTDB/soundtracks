@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga de Tantei Mystery | 260692 | [260692-manga-de-tantei-mystery.json](./260692-manga-de-tantei-mystery.json) |
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
 | Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
+| Manga Puzzle | 21463 | [21463-manga-puzzle.json](./21463-manga-puzzle.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Manga-Ka Debut Monogatari DS: Akogare! Manga Ka Ikusei Game | 261105 | [261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json](./261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json) |
 | Manga-ka Debut Monogatari: Akogare! Manga Ka Ikusei Game! | 49700 | [49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json](./49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json) |
@@ -3859,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
 | Mario's Final Adventure Wii | 294772 | [294772-marios-final-adventure-wii.json](./294772-marios-final-adventure-wii.json) |
 | Mario's Final Adventure Wii Returns | 336105 | [336105-marios-final-adventure-wii-returns.json](./336105-marios-final-adventure-wii-returns.json) |
+| Mario's Game Gallery | 21624 | [21624-marios-game-gallery.json](./21624-marios-game-gallery.json) |
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
 | Mario's Journey | 318862 | [318862-marios-journey.json](./318862-marios-journey.json) |
@@ -9217,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Mess | 220554 | [220554-meteor-mess.json](./220554-meteor-mess.json) |
 | Meteor Missiles | 142158 | [142158-meteor-missiles.json](./142158-meteor-missiles.json) |
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
+| Meteor Mission | 21424 | [21424-meteor-mission.json](./21424-meteor-mission.json) |
 | Meteor Raiders | 353796 | [353796-meteor-raiders.json](./353796-meteor-raiders.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
@@ -11089,6 +11092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind The Crates | 402738 | [402738-mind-the-crates.json](./402738-mind-the-crates.json) |
 | Mind the Dragon | 347011 | [347011-mind-the-dragon.json](./347011-mind-the-dragon.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
+| Mind the Trap | 21651 | [21651-mind-the-trap.json](./21651-mind-the-trap.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
 | Mind Trap | 55585 | [55585-mind-trap.json](./55585-mind-trap.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
@@ -18138,6 +18142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Reach | 171734 | [171734-must-reach.json](./171734-must-reach.json) |
 | Must-a-Mine | 101872 | [101872-must-a-mine.json](./101872-must-a-mine.json) |
 | Must. Eat. Birds! | 67214 | [67214-must-eat-birds.json](./67214-must-eat-birds.json) |
+| Mustache in Hell | 21997 | [21997-mustache-in-hell.json](./21997-mustache-in-hell.json) |
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
