@@ -8744,6 +8744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
 | The Firelord | 157945 | [157945-the-firelord.json](./157945-the-firelord.json) |
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
+| The Firemen 2: Pete & Danny | 51663 | [51663-the-firemen-2-pete-and-danny.json](./51663-the-firemen-2-pete-and-danny.json) |
 | The Fireseed Treaty | 320825 | [320825-the-fireseed-treaty.json](./320825-the-fireseed-treaty.json) |
 | The Firlyn Stones | 99448 | [99448-the-firlyn-stones.json](./99448-the-firlyn-stones.json) |
 | The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
@@ -14951,6 +14952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow's Terror | 257907 | [257907-the-shadows-terror.json](./257907-the-shadows-terror.json) |
 | The Shadowed Rune | 306331 | [306331-the-shadowed-rune.json](./306331-the-shadowed-rune.json) |
 | The Shadowland | 32796 | [32796-the-shadowland.json](./32796-the-shadowland.json) |
+| The Shadows in the Underworld | 51642 | [51642-the-shadows-in-the-underworld.json](./51642-the-shadows-in-the-underworld.json) |
 | The Shadows Lengthen | 190481 | [190481-the-shadows-lengthen.json](./190481-the-shadows-lengthen.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
 | The Shadows of Mordor | 70055 | [70055-the-shadows-of-mordor.json](./70055-the-shadows-of-mordor.json) |
@@ -20874,6 +20876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt of Fury | 56763 | [56763-tilt-of-fury.json](./56763-tilt-of-fury.json) |
 | Tilt or Die! | 106481 | [106481-tilt-or-die.json](./106481-tilt-or-die.json) |
 | Tilt Pack | 147591 | [147591-tilt-pack.json](./147591-tilt-pack.json) |
+| Tilt to Live | 51633 | [51633-tilt-to-live.json](./51633-tilt-to-live.json) |
 | Tilt to Live 2: Redonkulous | 194413 | [194413-tilt-to-live-2-redonkulous.json](./194413-tilt-to-live-2-redonkulous.json) |
 | Tilt'N'Turn | 187290 | [187290-tiltnturn.json](./187290-tiltnturn.json) |
 | TiltBill | 224995 | [224995-tiltbill.json](./224995-tiltbill.json) |
@@ -22441,6 +22444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together We Live | 221212 | [221212-together-we-live.json](./221212-together-we-live.json) |
 | Together With Me | 221181 | [221181-together-with-me.json](./221181-together-with-me.json) |
 | Together: A Wish No One Remembers | 130967 | [130967-together-a-wish-no-one-remembers.json](./130967-together-a-wish-no-one-remembers.json) |
+| Together: Amna & Saif | 51678 | [51678-together-amna-and-saif.json](./51678-together-amna-and-saif.json) |
 | Together: Moon Escape | 366607 | [366607-together-moon-escape.json](./366607-together-moon-escape.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
@@ -27427,6 +27431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
 | Transparent Machines | 60448 | [60448-transparent-machines.json](./60448-transparent-machines.json) |
 | Transpawt Train | 346391 | [346391-transpawt-train.json](./346391-transpawt-train.json) |
+| Transphoria | 51667 | [51667-transphoria.json](./51667-transphoria.json) |
 | Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
 | TransPlan | 13663 | [13663-transplan.json](./13663-transplan.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
@@ -27927,6 +27932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trap | 237270 | [237270-treasure-trap.json](./237270-treasure-trap.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
 | Treasure Treasure: Fortress Forage | 91780 | [91780-treasure-treasure-fortress-forage.json](./91780-treasure-treasure-fortress-forage.json) |
+| Treasure Treasure: Fortress Forage - Extra Edition | 51656 | [51656-treasure-treasure-fortress-forage-extra-edition.json](./51656-treasure-treasure-fortress-forage-extra-edition.json) |
 | Treasure Trolls | 217700 | [217700-treasure-trolls.json](./217700-treasure-trolls.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
@@ -28967,6 +28973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Travel TT | 114843 | [114843-trouble-travel-tt.json](./114843-trouble-travel-tt.json) |
 | Trouble Witches Episode 1 Daughters of Amalgam | 381300 | [381300-trouble-witches-episode-1-daughters-of-amalgam.json](./381300-trouble-witches-episode-1-daughters-of-amalgam.json) |
 | Trouble Witches Final!: Cotton & Silk DLC | 357025 | [357025-trouble-witches-final-cotton-and-silk-dlc.json](./357025-trouble-witches-final-cotton-and-silk-dlc.json) |
+| Trouble Witches Neo | 51636 | [51636-trouble-witches-neo.json](./51636-trouble-witches-neo.json) |
 | Trouble With Trolls | 122638 | [122638-trouble-with-trolls.json](./122638-trouble-with-trolls.json) |
 | Trouble Zone | 92403 | [92403-trouble-zone.json](./92403-trouble-zone.json) |
 | Troubled Passage | 211599 | [211599-troubled-passage.json](./211599-troubled-passage.json) |
