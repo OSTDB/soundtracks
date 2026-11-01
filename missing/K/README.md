@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen no Maid Guy: Boyoyon Battle Royale | 44497 | [44497-kamen-no-maid-guy-boyoyon-battle-royale.json](./44497-kamen-no-maid-guy-boyoyon-battle-royale.json) |
 | Kamen no Ninja Akakage | 48444 | [48444-kamen-no-ninja-akakage.json](./48444-kamen-no-ninja-akakage.json) |
 | Kamen no Ninja Hanamaru | 154805 | [154805-kamen-no-ninja-hanamaru.json](./154805-kamen-no-ninja-hanamaru.json) |
+| Kamen Rider | 61919 | [61919-kamen-rider.json](./61919-kamen-rider.json) |
 | Kamen Rider 555 | 404098 | [404098-kamen-rider-555.json](./404098-kamen-rider-555.json) |
 | Kamen Rider 555 | 43424 | [43424-kamen-rider-555.json](./43424-kamen-rider-555.json) |
 | Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
@@ -484,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Atsume | 56909 | [56909-kamen-rider-atsume.json](./56909-kamen-rider-atsume.json) |
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
 | Kamen Rider Battle: Ganbaride | 83930 | [83930-kamen-rider-battle-ganbaride.json](./83930-kamen-rider-battle-ganbaride.json) |
+| Kamen Rider Battle: Ganbaride Card Battle Taisen | 61916 | [61916-kamen-rider-battle-ganbaride-card-battle-taisen.json](./61916-kamen-rider-battle-ganbaride-card-battle-taisen.json) |
 | Kamen Rider Black: Hissatsu Rider Kick | 385754 | [385754-kamen-rider-black-hissatsu-rider-kick.json](./385754-kamen-rider-black-hissatsu-rider-kick.json) |
 | Kamen Rider Black: Taiketsu Shadow Moon | 41264 | [41264-kamen-rider-black-taiketsu-shadow-moon.json](./41264-kamen-rider-black-taiketsu-shadow-moon.json) |
 | Kamen Rider City Wars | 68105 | [68105-kamen-rider-city-wars.json](./68105-kamen-rider-city-wars.json) |
@@ -512,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
 | Kamen Rider: Seigi no Keifu | 61914 | [61914-kamen-rider-seigi-no-keifu.json](./61914-kamen-rider-seigi-no-keifu.json) |
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
+| Kamen Rider: Travelers Senki | 61920 | [61920-kamen-rider-travelers-senki.json](./61920-kamen-rider-travelers-senki.json) |
 | Kameo 2 | 279663 | [279663-kameo-2.json](./279663-kameo-2.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kamer | 129567 | [129567-kamer.json](./129567-kamer.json) |
@@ -1191,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
 | Kawã na Terra dos Indígenas Maraguá | 283099 | [283099-kawa-na-terra-dos-indigenas-maragua.json](./283099-kawa-na-terra-dos-indigenas-maragua.json) |
 | Kawa no Kuma-san | 108132 | [108132-kawa-no-kuma-san.json](./108132-kawa-no-kuma-san.json) |
+| Kawa no Nushi Tsuri: Hikyou wo Motomete | 61853 | [61853-kawa-no-nushi-tsuri-hikyou-wo-motomete.json](./61853-kawa-no-nushi-tsuri-hikyou-wo-motomete.json) |
 | Kawaida's Journey | 124512 | [124512-kawaidas-journey.json](./124512-kawaidas-journey.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
@@ -2165,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Hello Kitty no Ouchi he Oide yo! | 200561 | [200561-kids-station-hello-kitty-no-ouchi-he-oide-yo.json](./200561-kids-station-hello-kitty-no-ouchi-he-oide-yo.json) |
 | Kids Station: Hello Kitty to Album Nikki wo Tsukurimasho! | 200641 | [200641-kids-station-hello-kitty-to-album-nikki-wo-tsukurimasho.json](./200641-kids-station-hello-kitty-to-album-nikki-wo-tsukurimasho.json) |
 | Kids Station: Hitori de Dekirumon! | 200642 | [200642-kids-station-hitori-de-dekirumon.json](./200642-kids-station-hitori-de-dekirumon.json) |
+| Kids Station: Kamen Rider Heroes | 61915 | [61915-kids-station-kamen-rider-heroes.json](./61915-kids-station-kamen-rider-heroes.json) |
 | Kids Station: Kikansha Thomas to Nakama-tachi | 200643 | [200643-kids-station-kikansha-thomas-to-nakama-tachi.json](./200643-kids-station-kikansha-thomas-to-nakama-tachi.json) |
 | Kids Station: Kuma no Pooh-san - Mori no Nakama to 123 | 200656 | [200656-kids-station-kuma-no-pooh-san-mori-no-nakama-to-123.json](./200656-kids-station-kuma-no-pooh-san-mori-no-nakama-to-123.json) |
 | Kids Station: LEGO no Sekai | 313552 | [313552-kids-station-lego-no-sekai.json](./313552-kids-station-lego-no-sekai.json) |
