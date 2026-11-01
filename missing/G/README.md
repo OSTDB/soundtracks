@@ -4861,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
+| Gnomageddon | 54650 | [54650-gnomageddon.json](./54650-gnomageddon.json) |
 | Gnomageddon: Forge of Infinity | 408033 | [408033-gnomageddon-forge-of-infinity.json](./408033-gnomageddon-forge-of-infinity.json) |
 | Gnomancer | 118426 | [118426-gnomancer.json](./118426-gnomancer.json) |
 | Gnomber | 288199 | [288199-gnomber.json](./288199-gnomber.json) |
