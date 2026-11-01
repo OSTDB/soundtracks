@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Legaia | 13676 | [13676-legend-of-legaia.json](./13676-legend-of-legaia.json) |
 | Legend of Love | 290632 | [290632-legend-of-love.json](./290632-legend-of-love.json) |
+| Legend of Makai | 39957 | [39957-legend-of-makai.json](./39957-legend-of-makai.json) |
 | Legend of Mana | 143616 | [143616-legend-of-mana.json](./143616-legend-of-mana.json) |
 | Legend of Mana | 14986 | [14986-legend-of-mana.json](./14986-legend-of-mana.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Star Arthur III: Terra 4001 | 62769 | [62769-legend-of-star-arthur-iii-terra-4001.json](./62769-legend-of-star-arthur-iii-terra-4001.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
 | Legend of Streets | 127630 | [127630-legend-of-streets.json](./127630-legend-of-streets.json) |
+| Legend of Succes Joe | 39956 | [39956-legend-of-succes-joe.json](./39956-legend-of-succes-joe.json) |
 | Legend of Success Joe | 47580 | [47580-legend-of-success-joe.json](./47580-legend-of-success-joe.json) |
 | Legend of Sunflower | 180669 | [180669-legend-of-sunflower.json](./180669-legend-of-sunflower.json) |
 | Legend of Taigong | 254647 | [254647-legend-of-taigong.json](./254647-legend-of-taigong.json) |
@@ -3596,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
 | Lethal Company | 212089 | [212089-lethal-company.json](./212089-lethal-company.json) |
+| Lethal Crash Race | 39930 | [39930-lethal-crash-race.json](./39930-lethal-crash-race.json) |
 | Lethal Crisis | 259719 | [259719-lethal-crisis.json](./259719-lethal-crisis.json) |
 | Lethal Dose | 241950 | [241950-lethal-dose.json](./241950-lethal-dose.json) |
 | Lethal Dungeon | 361075 | [361075-lethal-dungeon.json](./361075-lethal-dungeon.json) |
