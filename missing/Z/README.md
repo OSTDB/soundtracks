@@ -2259,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ztar Attack: Mario Escape from the Jail - Definitive Edition | 215166 | [215166-ztar-attack-mario-escape-from-the-jail-definitive-edition.json](./215166-ztar-attack-mario-escape-from-the-jail-definitive-edition.json) |
 | Ztarlings | 104423 | [104423-ztarlings.json](./104423-ztarlings.json) |
 | ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
+| zTime (Danger Noodles!) | 31444 | [31444-ztime-danger-noodles.json](./31444-ztime-danger-noodles.json) |
 | Ztime Story | 227162 | [227162-ztime-story.json](./227162-ztime-story.json) |
 | Zub | 83382 | [83382-zub.json](./83382-zub.json) |
 | Zubash | 262891 | [262891-zubash.json](./262891-zubash.json) |
