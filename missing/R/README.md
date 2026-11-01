@@ -5804,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to ... | 348960 | [348960-return-to.json](./348960-return-to.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Abyss: Multidimensional Gift | 248399 | [248399-return-to-abyss-multidimensional-gift.json](./248399-return-to-abyss-multidimensional-gift.json) |
+| Return to Atlantis | 26126 | [26126-return-to-atlantis.json](./26126-return-to-atlantis.json) |
 | Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
 | Return To Booty Grotto | 363003 | [363003-return-to-booty-grotto.json](./363003-return-to-booty-grotto.json) |
 | Return to Campus | 328926 | [328926-return-to-campus.json](./328926-return-to-campus.json) |
@@ -6925,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Wizard 3 | 400404 | [400404-rift-wizard-3.json](./400404-rift-wizard-3.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
 | Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
+| Rift: Starfall Prophecy | 26137 | [26137-rift-starfall-prophecy.json](./26137-rift-starfall-prophecy.json) |
 | Rift: Storm Legion | 1935 | [1935-rift-storm-legion.json](./1935-rift-storm-legion.json) |
 | Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
 | Riftborn | 370459 | [370459-riftborn.json](./370459-riftborn.json) |
@@ -7182,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripper | 6829 | [6829-ripper.json](./6829-ripper.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripper! | 24668 | [24668-ripper.json](./24668-ripper.json) |
+| Rippin' Riders Snowboarding | 26132 | [26132-rippin-riders-snowboarding.json](./26132-rippin-riders-snowboarding.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple Dot Zero | 231714 | [231714-ripple-dot-zero.json](./231714-ripple-dot-zero.json) |
 | Ripple Effect | 36961 | [36961-ripple-effect.json](./36961-ripple-effect.json) |
@@ -7784,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Engineer | 292948 | [292948-road-engineer.json](./292948-road-engineer.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
+| Road Fist | 26199 | [26199-road-fist.json](./26199-road-fist.json) |
 | Road Flash | 160008 | [160008-road-flash.json](./160008-road-flash.json) |
 | Road Fury | 145958 | [145958-road-fury.json](./145958-road-fury.json) |
 | Road Gangs Simulator | 172989 | [172989-road-gangs-simulator.json](./172989-road-gangs-simulator.json) |
@@ -7897,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
 | Road Trip | 310967 | [310967-road-trip.json](./310967-road-trip.json) |
+| Road Trip Bingo | 26159 | [26159-road-trip-bingo.json](./26159-road-trip-bingo.json) |
 | Road Trip Europe | 229944 | [229944-road-trip-europe.json](./229944-road-trip-europe.json) |
 | Road Trip Games App (Classics) | 102741 | [102741-road-trip-games-app-classics.json](./102741-road-trip-games-app-classics.json) |
 | Road Trip to the End of the World | 350446 | [350446-road-trip-to-the-end-of-the-world.json](./350446-road-trip-to-the-end-of-the-world.json) |
@@ -9155,6 +9160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodea the Sky Soldier | 6872 | [6872-rodea-the-sky-soldier.json](./6872-rodea-the-sky-soldier.json) |
 | Rodea the Sky Soldier: Launch Day Edition | 89892 | [89892-rodea-the-sky-soldier-launch-day-edition.json](./89892-rodea-the-sky-soldier-launch-day-edition.json) |
 | Rodea: The Sky Soldier Limited Edition | 51188 | [51188-rodea-the-sky-soldier-limited-edition.json](./51188-rodea-the-sky-soldier-limited-edition.json) |
+| Rodem the Wild | 26124 | [26124-rodem-the-wild.json](./26124-rodem-the-wild.json) |
 | Rodent and Plank: Secret Origin | 139588 | [139588-rodent-and-plank-secret-origin.json](./139588-rodent-and-plank-secret-origin.json) |
 | Rodent Company | 387587 | [387587-rodent-company.json](./387587-rodent-company.json) |
 | Rodent Rampage | 393127 | [393127-rodent-rampage.json](./393127-rodent-rampage.json) |
@@ -9964,6 +9970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romi | 96285 | [96285-romi.json](./96285-romi.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rommel: Battles for North Africa | 68478 | [68478-rommel-battles-for-north-africa.json](./68478-rommel-battles-for-north-africa.json) |
+| Rommel: Battles for Tobruk | 26152 | [26152-rommel-battles-for-tobruk.json](./26152-rommel-battles-for-tobruk.json) |
 | Rommel's Revenge | 26304 | [26304-rommels-revenge.json](./26304-rommels-revenge.json) |
 | Romp of Dump | 250253 | [250253-romp-of-dump.json](./250253-romp-of-dump.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
