@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Game Bundle Vol.1 | 118917 | [118917-card-game-bundle-vol-1.json](./118917-card-game-bundle-vol-1.json) |
 | Card Game Classics | 105668 | [105668-card-game-classics.json](./105668-card-game-classics.json) |
+| Card Games | 44957 | [44957-card-games.json](./44957-card-games.json) |
 | Card Games | 88693 | [88693-card-games.json](./88693-card-games.json) |
 | Card Games for Windows | 80449 | [80449-card-games-for-windows.json](./80449-card-games-for-windows.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
@@ -12754,6 +12755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contasion 2 | 33891 | [33891-contasion-2.json](./33891-contasion-2.json) |
 | Contemp | 105685 | [105685-contemp.json](./105685-contemp.json) |
 | Contender | 44853 | [44853-contender.json](./44853-contender.json) |
+| Contender 2 | 44955 | [44955-contender-2.json](./44955-contender-2.json) |
 | Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
 | Contenir | 419101 | [419101-contenir.json](./419101-contenir.json) |
 | Content | 166817 | [166817-content.json](./166817-content.json) |
