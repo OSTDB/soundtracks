@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 625 Sandwich Stacker | 133765 | [133765-625-sandwich-stacker.json](./133765-625-sandwich-stacker.json) |
 | 63 Days: The Home Army Edition | 323899 | [323899-63-days-the-home-army-edition.json](./323899-63-days-the-home-army-edition.json) |
 | 64 GB: Not 2048 | 232493 | [232493-64-gb-not-2048.json](./232493-64-gb-not-2048.json) |
+| 64 Hanafuda: Tenshi no Yakusoku | 47682 | [47682-64-hanafuda-tenshi-no-yakusoku.json](./47682-64-hanafuda-tenshi-no-yakusoku.json) |
 | 64 Oozumou | 3433 | [3433-64-oozumou.json](./3433-64-oozumou.json) |
 | 64 Oozumou 2 | 3434 | [3434-64-oozumou-2.json](./3434-64-oozumou-2.json) |
 | 64 Trump Collection: Alice no Waku-waku Trump World | 3435 | [3435-64-trump-collection-alice-no-waku-waku-trump-world.json](./3435-64-trump-collection-alice-no-waku-waku-trump-world.json) |
