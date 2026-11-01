@@ -4863,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlueFO 2.0 | 407835 | [407835-gluefo-2-0.json](./407835-gluefo-2-0.json) |
 | GlueFO 3: Asteroid Wars | 407837 | [407837-gluefo-3-asteroid-wars.json](./407837-gluefo-3-asteroid-wars.json) |
 | Gluf | 141080 | [141080-gluf.json](./141080-gluf.json) |
+| Glug Glug | 14095 | [14095-glug-glug.json](./14095-glug-glug.json) |
 | Gluk the Thunder Warrior | 48565 | [48565-gluk-the-thunder-warrior.json](./48565-gluk-the-thunder-warrior.json) |
 | Gluk'Oza Action | 54053 | [54053-glukoza-action.json](./54053-glukoza-action.json) |
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Commander: Unleash the Horde | 3934 | [3934-goblin-commander-unleash-the-horde.json](./3934-goblin-commander-unleash-the-horde.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
 | Goblin Corrosion | 328913 | [328913-goblin-corrosion.json](./328913-goblin-corrosion.json) |
+| Goblin Crusher | 14096 | [14096-goblin-crusher.json](./14096-goblin-crusher.json) |
 | Goblin Daily Life | 263131 | [263131-goblin-daily-life.json](./263131-goblin-daily-life.json) |
 | Goblin Dash | 235042 | [235042-goblin-dash.json](./235042-goblin-dash.json) |
 | Goblin Defenders: Steel 'n' Wood | 53076 | [53076-goblin-defenders-steel-n-wood.json](./53076-goblin-defenders-steel-n-wood.json) |
@@ -6273,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
 | Golfing In Aether: Winter | 235954 | [235954-golfing-in-aether-winter.json](./235954-golfing-in-aether-winter.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
+| Golfing World | 14097 | [14097-golfing-world.json](./14097-golfing-world.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
 | Golfinity | 60075 | [60075-golfinity.json](./60075-golfinity.json) |
 | Golfish | 409519 | [409519-golfish.json](./409519-golfish.json) |
@@ -6879,6 +6882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothicc Breaker | 93744 | [93744-gothicc-breaker.json](./93744-gothicc-breaker.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
+| Gothik | 14098 | [14098-gothik.json](./14098-gothik.json) |
 | Gothmog's Lair | 25815 | [25815-gothmogs-lair.json](./25815-gothmogs-lair.json) |
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
 | GOTL: Online RPG | 109246 | [109246-gotl-online-rpg.json](./109246-gotl-online-rpg.json) |
@@ -8337,6 +8341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory Horror Show | 292825 | [292825-gregory-horror-show.json](./292825-gregory-horror-show.json) |
 | Gregory Horror Show Soul of Roses | 320168 | [320168-gregory-horror-show-soul-of-roses.json](./320168-gregory-horror-show-soul-of-roses.json) |
 | Gregory Horror Show: Lost Qualia | 322154 | [322154-gregory-horror-show-lost-qualia.json](./322154-gregory-horror-show-lost-qualia.json) |
+| Gregory Loses His Clock | 14101 | [14101-gregory-loses-his-clock.json](./14101-gregory-loses-his-clock.json) |
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
 | GregTech: New Horizons | 400822 | [400822-gregtech-new-horizons.json](./400822-gregtech-new-horizons.json) |
 | Grejsimojs | 287305 | [287305-grejsimojs.json](./287305-grejsimojs.json) |
@@ -10591,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyrodisc Super League | 18465 | [18465-gyrodisc-super-league.json](./18465-gyrodisc-super-league.json) |
 | Gyromite | 8578 | [8578-gyromite.json](./8578-gyromite.json) |
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
+| Gyron Arena | 14103 | [14103-gyron-arena.json](./14103-gyron-arena.json) |
 | Gyropod | 145367 | [145367-gyropod.json](./145367-gyropod.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
 | GyroSphere Trials | 52264 | [52264-gyrosphere-trials.json](./52264-gyrosphere-trials.json) |
