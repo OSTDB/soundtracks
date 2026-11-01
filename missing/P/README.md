@@ -8193,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Patrol | 413017 | [413017-pizza-patrol.json](./413017-pizza-patrol.json) |
 | Pizza Penguins | 103979 | [103979-pizza-penguins.json](./103979-pizza-penguins.json) |
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
+| Pizza Pop! | 48378 | [48378-pizza-pop.json](./48378-pizza-pop.json) |
 | Pizza Possum | 199132 | [199132-pizza-possum.json](./199132-pizza-possum.json) |
 | Pizza Quest | 305489 | [305489-pizza-quest.json](./305489-pizza-quest.json) |
 | Pizza Quest | 311334 | [311334-pizza-quest.json](./311334-pizza-quest.json) |
