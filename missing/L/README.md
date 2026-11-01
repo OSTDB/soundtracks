@@ -7922,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Chemistry: Sibella's Formula | 369526 | [369526-love-chemistry-sibellas-formula.json](./369526-love-chemistry-sibellas-formula.json) |
 | Love Chronicles: A Winter's Spell - Collector's Edition | 105165 | [105165-love-chronicles-a-winters-spell-collectors-edition.json](./105165-love-chronicles-a-winters-spell-collectors-edition.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
+| Love Chronicles: The Spell - Collector's Edition | 30463 | [30463-love-chronicles-the-spell-collectors-edition.json](./30463-love-chronicles-the-spell-collectors-edition.json) |
 | Love Chronicles: The Sword and the Rose - Collector's Edition | 54872 | [54872-love-chronicles-the-sword-and-the-rose-collectors-edition.json](./54872-love-chronicles-the-sword-and-the-rose-collectors-edition.json) |
 | Love Clear | 136757 | [136757-love-clear.json](./136757-love-clear.json) |
 | Love Clear: Limited Edition | 165957 | [165957-love-clear-limited-edition.json](./165957-love-clear-limited-edition.json) |
