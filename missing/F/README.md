@@ -7207,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
 | Flight Simulator Delivery: Cargo Business | 309633 | [309633-flight-simulator-delivery-cargo-business.json](./309633-flight-simulator-delivery-cargo-business.json) |
 | Flight Simulator FlyWings Online 2014 | 88495 | [88495-flight-simulator-flywings-online-2014.json](./88495-flight-simulator-flywings-online-2014.json) |
+| Flight Simulator II | 15221 | [15221-flight-simulator-ii.json](./15221-flight-simulator-ii.json) |
 | Flight Simulator Pro 2024 | 315896 | [315896-flight-simulator-pro-2024.json](./315896-flight-simulator-pro-2024.json) |
 | Flight Simulator With Torpedo Attack | 41751 | [41751-flight-simulator-with-torpedo-attack.json](./41751-flight-simulator-with-torpedo-attack.json) |
 | Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
@@ -8514,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Management RPG | 197679 | [197679-football-management-rpg.json](./197679-football-management-rpg.json) |
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
+| Football Manager 2 | 15222 | [15222-football-manager-2.json](./15222-football-manager-2.json) |
 | Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
 | Football Manager 2008 | 946 | [946-football-manager-2008.json](./946-football-manager-2008.json) |
 | Football Manager 2012 | 8973 | [8973-football-manager-2012.json](./8973-football-manager-2012.json) |
@@ -9947,6 +9949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
 | Foundation of Nightmares | 81061 | [81061-foundation-of-nightmares.json](./81061-foundation-of-nightmares.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
+| Foundation's Waste | 15223 | [15223-foundations-waste.json](./15223-foundations-waste.json) |
 | Founder of the Final Cult | 309175 | [309175-founder-of-the-final-cult.json](./309175-founder-of-the-final-cult.json) |
 | Founders' Fortune | 120455 | [120455-founders-fortune.json](./120455-founders-fortune.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
@@ -10431,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franken | 199805 | [199805-franken.json](./199805-franken.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
 | FrankenSketch | 413808 | [413808-frankensketch.json](./413808-frankensketch.json) |
+| Frankenstein | 15224 | [15224-frankenstein.json](./15224-frankenstein.json) |
 | Frankenstein | 37191 | [37191-frankenstein.json](./37191-frankenstein.json) |
 | Frankenstein | 385548 | [385548-frankenstein.json](./385548-frankenstein.json) |
 | Frankenstein 2000 | 57169 | [57169-frankenstein-2000.json](./57169-frankenstein-2000.json) |
@@ -10746,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Wings | 47820 | [47820-freedom-wings.json](./47820-freedom-wings.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
 | Freedom: Diegesis | 58685 | [58685-freedom-diegesis.json](./58685-freedom-diegesis.json) |
+| Freedom: Rebels in the Darkness | 15225 | [15225-freedom-rebels-in-the-darkness.json](./15225-freedom-rebels-in-the-darkness.json) |
 | Freedom! | 172422 | [172422-freedom.json](./172422-freedom.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
@@ -10856,6 +10861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | French Tarot | 100488 | [100488-french-tarot.json](./100488-french-tarot.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
+| Frenetic | 15226 | [15226-frenetic.json](./15226-frenetic.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
 | Frenfield | 412196 | [412196-frenfield.json](./412196-frenfield.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
