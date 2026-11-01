@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
 | TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
 | Technomancer | 423231 | [423231-technomancer.json](./423231-technomancer.json) |
+| Technophobia | 56801 | [56801-technophobia.json](./56801-technophobia.json) |
 | Technophobia: Dead Metal Tournament | 224519 | [224519-technophobia-dead-metal-tournament.json](./224519-technophobia-dead-metal-tournament.json) |
 | Technophobia: Do Androids go to Heaven? | 253838 | [253838-technophobia-do-androids-go-to-heaven.json](./253838-technophobia-do-androids-go-to-heaven.json) |
 | Technopoly: Industrial Empire | 233093 | [233093-technopoly-industrial-empire.json](./233093-technopoly-industrial-empire.json) |
@@ -6079,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Within | 244916 | [244916-the-black-within.json](./244916-the-black-within.json) |
 | The Blacklist: Conspiracy | 58266 | [58266-the-blacklist-conspiracy.json](./58266-the-blacklist-conspiracy.json) |
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
+| The Blacksmith | 56819 | [56819-the-blacksmith.json](./56819-the-blacksmith.json) |
 | The Blackwell Bundle | 154449 | [154449-the-blackwell-bundle.json](./154449-the-blackwell-bundle.json) |
 | The Blackwell Convergence | 9039 | [9039-the-blackwell-convergence.json](./9039-the-blackwell-convergence.json) |
 | The Blackwell Deception | 9037 | [9037-the-blackwell-deception.json](./9037-the-blackwell-deception.json) |
@@ -16713,6 +16715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
 | The Two Moons | 249939 | [249939-the-two-moons.json](./249939-the-two-moons.json) |
 | The Two of Us | 185944 | [185944-the-two-of-us.json](./185944-the-two-of-us.json) |
+| The Two Sisters | 56824 | [56824-the-two-sisters.json](./56824-the-two-sisters.json) |
 | The Two Thinkers | 333335 | [333335-the-two-thinkers.json](./333335-the-two-thinkers.json) |
 | The Two Towers | 279652 | [279652-the-two-towers.json](./279652-the-two-towers.json) |
 | The Typing of the Dead | 11605 | [11605-the-typing-of-the-dead.json](./11605-the-typing-of-the-dead.json) |
@@ -30517,6 +30520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Beasts Or Not To Beast! | 396674 | [396674-two-beasts-or-not-to-beast.json](./396674-two-beasts-or-not-to-beast.json) |
 | Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
+| Two Bot's Journey | 56821 | [56821-two-bots-journey.json](./56821-two-bots-journey.json) |
 | Two Brain Sides | 157421 | [157421-two-brain-sides.json](./157421-two-brain-sides.json) |
 | Two Broken Mirrors | 309905 | [309905-two-broken-mirrors.json](./309905-two-broken-mirrors.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
