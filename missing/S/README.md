@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saxophight | 177222 | [177222-saxophight.json](./177222-saxophight.json) |
 | Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
+| Say Goodbye | 30453 | [30453-say-goodbye.json](./30453-say-goodbye.json) |
 | Say Goodbye: Deluxe Edition | 170749 | [170749-say-goodbye-deluxe-edition.json](./170749-say-goodbye-deluxe-edition.json) |
 | Say No to Rom-Coms! | 258359 | [258359-say-no-to-rom-coms.json](./258359-say-no-to-rom-coms.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
@@ -8920,6 +8921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Space | 300335 | [300335-shrouded-space.json](./300335-shrouded-space.json) |
 | Shrouded Tales: Revenge of Shadows | 139741 | [139741-shrouded-tales-revenge-of-shadows.json](./139741-shrouded-tales-revenge-of-shadows.json) |
 | Shrouded Tales: The Spellbound Land | 139743 | [139743-shrouded-tales-the-spellbound-land.json](./139743-shrouded-tales-the-spellbound-land.json) |
+| Shrouded Tales: The Spellbound Land - Collector's Edition | 30401 | [30401-shrouded-tales-the-spellbound-land-collectors-edition.json](./30401-shrouded-tales-the-spellbound-land-collectors-edition.json) |
 | Shrug Island: The Meeting | 34055 | [34055-shrug-island-the-meeting.json](./34055-shrug-island-the-meeting.json) |
 | Shrumblo and the Magical Grumblo | 190349 | [190349-shrumblo-and-the-magical-grumblo.json](./190349-shrumblo-and-the-magical-grumblo.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
@@ -12181,6 +12183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sledding Game | 327758 | [327758-sledding-game.json](./327758-sledding-game.json) |
 | Sledge 3D | 44303 | [44303-sledge-3d.json](./44303-sledge-3d.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
+| Sleengster | 30412 | [30412-sleengster.json](./30412-sleengster.json) |
+| Sleengster 2 | 30403 | [30403-sleengster-2.json](./30403-sleengster-2.json) |
 | Sleengster 3 | 44293 | [44293-sleengster-3.json](./44293-sleengster-3.json) |
 | Sleep | 160280 | [160280-sleep.json](./160280-sleep.json) |
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
@@ -13593,6 +13597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
 | Snailiad | 118309 | [118309-snailiad.json](./118309-snailiad.json) |
+| Snailiens | 30435 | [30435-snailiens.json](./30435-snailiens.json) |
 | SnailQuest | 207306 | [207306-snailquest.json](./207306-snailquest.json) |
 | Snails | 298798 | [298798-snails.json](./298798-snails.json) |
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
@@ -16736,6 +16741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons of Tyr | 176424 | [176424-sons-of-tyr.json](./176424-sons-of-tyr.json) |
 | Sonsgorod: The Archipelago | 311900 | [311900-sonsgorod-the-archipelago.json](./311900-sonsgorod-the-archipelago.json) |
 | Sonucido: The Mage - A Dungeon Crawler by Daniel da Silva | 193200 | [193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json](./193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json) |
+| Sonya: The Great Adventure | 30423 | [30423-sonya-the-great-adventure.json](./30423-sonya-the-great-adventure.json) |
 | Sonyc | 269933 | [269933-sonyc.json](./269933-sonyc.json) |
 | Sonyc | 269934 | [269934-sonyc.json](./269934-sonyc.json) |
 | Sonyeojeonjaeng: Hwansangui Cheonhatongil-jeon | 233548 | [233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json](./233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json) |
@@ -20813,6 +20819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Monster | 374372 | [374372-spooky-monster.json](./374372-spooky-monster.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
+| Spooky Night | 30481 | [30481-spooky-night.json](./30481-spooky-night.json) |
 | Spooky Night 2 | 125104 | [125104-spooky-night-2.json](./125104-spooky-night-2.json) |
 | Spooky Night: Remastered | 170369 | [170369-spooky-night-remastered.json](./170369-spooky-night-remastered.json) |
 | Spooky Paths | 188793 | [188793-spooky-paths.json](./188793-spooky-paths.json) |
@@ -22207,6 +22214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Jumper: Cosmic Adventure | 358625 | [358625-star-jumper-cosmic-adventure.json](./358625-star-jumper-cosmic-adventure.json) |
 | Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
+| Star Kingdom: The Elements | 30418 | [30418-star-kingdom-the-elements.json](./30418-star-kingdom-the-elements.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
 | Star Knight: Order of the Vortex | 253847 | [253847-star-knight-order-of-the-vortex.json](./253847-star-knight-order-of-the-vortex.json) |
 | Star Knightess Aura | 192746 | [192746-star-knightess-aura.json](./192746-star-knightess-aura.json) |
@@ -22285,6 +22293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
 | Star Periphery | 354202 | [354202-star-periphery.json](./354202-star-periphery.json) |
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
+| Star Phoenix | 30469 | [30469-star-phoenix.json](./30469-star-phoenix.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
 | Star Plantation | 56213 | [56213-star-plantation.json](./56213-star-plantation.json) |
@@ -27983,6 +27992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Town | 333093 | [333093-sunset-town.json](./333093-sunset-town.json) |
 | Sunset World Online | 188585 | [188585-sunset-world-online.json](./188585-sunset-world-online.json) |
 | Sunset-shaped | 177683 | [177683-sunset-shaped.json](./177683-sunset-shaped.json) |
+| Sunset's Ashes | 30452 | [30452-sunsets-ashes.json](./30452-sunsets-ashes.json) |
 | Sunshine | 110784 | [110784-sunshine.json](./110784-sunshine.json) |
 | Sunshine & Overcast | 119595 | [119595-sunshine-and-overcast.json](./119595-sunshine-and-overcast.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
