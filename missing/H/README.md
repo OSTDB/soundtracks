@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Anima | 294364 | [294364-hand-of-anima.json](./294364-hand-of-anima.json) |
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
+| Hand of Fate 2 | 18645 | [18645-hand-of-fate-2.json](./18645-hand-of-fate-2.json) |
 | Hand of Fate 2: Outlands and Outsiders | 155303 | [155303-hand-of-fate-2-outlands-and-outsiders.json](./155303-hand-of-fate-2-outlands-and-outsiders.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of Fate: Deluxe Edition | 118664 | [118664-hand-of-fate-deluxe-edition.json](./118664-hand-of-fate-deluxe-edition.json) |
