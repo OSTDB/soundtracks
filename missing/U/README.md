@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Muscle: The Kinnikuman Legacy - The Path of the Superhero | 49208 | [49208-ultimate-muscle-the-kinnikuman-legacy-the-path-of-the-superhero.json](./49208-ultimate-muscle-the-kinnikuman-legacy-the-path-of-the-superhero.json) |
 | Ultimate Mutant Warrior 3D | 104267 | [104267-ultimate-mutant-warrior-3d.json](./104267-ultimate-mutant-warrior-3d.json) |
 | Ultimate Mythic Ski Jumping League | 357214 | [357214-ultimate-mythic-ski-jumping-league.json](./357214-ultimate-mythic-ski-jumping-league.json) |
+| Ultimate NES Remix | 20054 | [20054-ultimate-nes-remix.json](./20054-ultimate-nes-remix.json) |
 | Ultimate Neural Network | 168657 | [168657-ultimate-neural-network.json](./168657-ultimate-neural-network.json) |
 | Ultimate NFL Coaches Club Football | 81470 | [81470-ultimate-nfl-coaches-club-football.json](./81470-ultimate-nfl-coaches-club-football.json) |
 | Ultimate Ninja: Hayate | 88901 | [88901-ultimate-ninja-hayate.json](./88901-ultimate-ninja-hayate.json) |
