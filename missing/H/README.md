@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Prisoner of Azkaban | 96159 | [96159-harry-potter-and-the-prisoner-of-azkaban.json](./96159-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone | 112660 | [112660-harry-potter-and-the-sorcerers-stone.json](./112660-harry-potter-and-the-sorcerers-stone.json) |
+| Harry Potter and the Sorcerer's Stone | 115430 | [115430-harry-potter-and-the-sorcerers-stone.json](./115430-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone | 117003 | [117003-harry-potter-and-the-sorcerers-stone.json](./117003-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone | 118554 | [118554-harry-potter-and-the-sorcerers-stone.json](./118554-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Quidditch World Cup | 166523 | [166523-harry-potter-quidditch-world-cup.json](./166523-harry-potter-quidditch-world-cup.json) |
 | Harry Potter: Skurge Challenge | 305737 | [305737-harry-potter-skurge-challenge.json](./305737-harry-potter-skurge-challenge.json) |
 | Harry Potter: Spells | 66432 | [66432-harry-potter-spells.json](./66432-harry-potter-spells.json) |
+| Harry Potter: Wizards Unite | 75563 | [75563-harry-potter-wizards-unite.json](./75563-harry-potter-wizards-unite.json) |
 | Harry Quantum Episode 1: TV Go Home | 404417 | [404417-harry-quantum-episode-1-tv-go-home.json](./404417-harry-quantum-episode-1-tv-go-home.json) |
 | Harry Styles Heardle | 225622 | [225622-harry-styles-heardle.json](./225622-harry-styles-heardle.json) |
 | Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
@@ -8901,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook | 205927 | [205927-hook.json](./205927-hook.json) |
 | Hook | 214611 | [214611-hook.json](./214611-hook.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
+| Hook | 78146 | [78146-hook.json](./78146-hook.json) |
 | Hook | 8704 | [8704-hook.json](./8704-hook.json) |
 | Hook & Go | 213776 | [213776-hook-and-go.json](./213776-hook-and-go.json) |
 | Hook & Kaiju | 266729 | [266729-hook-and-kaiju.json](./266729-hook-and-kaiju.json) |
