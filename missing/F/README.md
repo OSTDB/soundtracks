@@ -11394,6 +11394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
 | Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
+| Frogger 2: Swampy's Revenge | 11466 | [11466-frogger-2-swampys-revenge.json](./11466-frogger-2-swampys-revenge.json) |
 | Frogger 3D | 6772 | [6772-frogger-3d.json](./6772-frogger-3d.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
 | Frogger Advance: The Great Quest | 6412 | [6412-frogger-advance-the-great-quest.json](./6412-frogger-advance-the-great-quest.json) |
@@ -12186,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Schoolgirl: New Feature Add | 365582 | [365582-full-metal-schoolgirl-new-feature-add.json](./365582-full-metal-schoolgirl-new-feature-add.json) |
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
 | Full Metal Sergeant 2 | 325496 | [325496-full-metal-sergeant-2.json](./325496-full-metal-sergeant-2.json) |
+| Full Mojo Rampage | 16447 | [16447-full-mojo-rampage.json](./16447-full-mojo-rampage.json) |
 | Full Moon | 125910 | [125910-full-moon.json](./125910-full-moon.json) |
 | Full Moon | 224989 | [224989-full-moon.json](./224989-full-moon.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
