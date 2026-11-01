@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World - Episode 2: Situation Comedy | 27822 | [27822-sam-and-max-save-the-world-episode-2-situation-comedy.json](./27822-sam-and-max-save-the-world-episode-2-situation-comedy.json) |
 | Sam & Max: Save the World - Episode 3: The Mole, the Mob and the Meatball | 27821 | [27821-sam-and-max-save-the-world-episode-3-the-mole-the-mob-and-the-meatball.json](./27821-sam-and-max-save-the-world-episode-3-the-mole-the-mob-and-the-meatball.json) |
 | Sam & Max: Save the World - Episode 5: Reality 2.0 | 27824 | [27824-sam-and-max-save-the-world-episode-5-reality-2-0.json](./27824-sam-and-max-save-the-world-episode-5-reality-2-0.json) |
+| Sam & Max: Save the World - Episode 6: Bright Side of the Moon | 27825 | [27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json](./27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
 | Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls | 127133 | [127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json](./127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json) |
@@ -8696,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
+| Shotgun Farmers | 29242 | [29242-shotgun-farmers.json](./29242-shotgun-farmers.json) |
 | Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
 | Shotgun II: Double Barrel | 321233 | [321233-shotgun-ii-double-barrel.json](./321233-shotgun-ii-double-barrel.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
@@ -15750,6 +15752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
 | Son Savaşçı | 149374 | [149374-son-savasc.json](./149374-son-savasc.json) |
+| Son Son | 40010 | [40010-son-son.json](./40010-son-son.json) |
 | Son Son II | 37689 | [37689-son-son-ii.json](./37689-son-son-ii.json) |
 | Sona-Nyl of the Violet Shadows: What Beautiful Memories | 57970 | [57970-sona-nyl-of-the-violet-shadows-what-beautiful-memories.json](./57970-sona-nyl-of-the-violet-shadows-what-beautiful-memories.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
@@ -18166,6 +18169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -32838,6 +32842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Spoon | 101746 | [101746-sword-and-spoon.json](./101746-sword-and-spoon.json) |
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
 | Sword Art Online Eron | 342589 | [342589-sword-art-online-eron.json](./342589-sword-art-online-eron.json) |
+| Sword Art Online Re: Hollow Fragment | 11839 | [11839-sword-art-online-re-hollow-fragment.json](./11839-sword-art-online-re-hollow-fragment.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
 | Sword Art Online: Alicization Lycoris - Blooming of Forget-me-not | 232469 | [232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json](./232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json) |
 | Sword Art Online: Alicization Lycoris - Blooming of Matricaria | 211917 | [211917-sword-art-online-alicization-lycoris-blooming-of-matricaria.json](./211917-sword-art-online-alicization-lycoris-blooming-of-matricaria.json) |
@@ -32971,6 +32976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
 | Sword of the Stars: Born of Blood | 10934 | [10934-sword-of-the-stars-born-of-blood.json](./10934-sword-of-the-stars-born-of-blood.json) |
 | Sword of the Stars: Ground Pounders | 10378 | [10378-sword-of-the-stars-ground-pounders.json](./10378-sword-of-the-stars-ground-pounders.json) |
+| Sword of the Stars: The Pit | 10938 | [10938-sword-of-the-stars-the-pit.json](./10938-sword-of-the-stars-the-pit.json) |
 | Sword of the Stars: The Pit - Juggernaut | 8779 | [8779-sword-of-the-stars-the-pit-juggernaut.json](./8779-sword-of-the-stars-the-pit-juggernaut.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit - Osmium Edition: Juggernaut | 125000 | [125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json](./125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json) |
