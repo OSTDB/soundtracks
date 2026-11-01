@@ -9408,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Shadows | 306419 | [306419-forsaken-shadows.json](./306419-forsaken-shadows.json) |
 | Forsaken Struggle | 372139 | [372139-forsaken-struggle.json](./372139-forsaken-struggle.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
+| Forsaken Uprising | 13385 | [13385-forsaken-uprising.json](./13385-forsaken-uprising.json) |
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
 | Forsaken Woods | 26386 | [26386-forsaken-woods.json](./26386-forsaken-woods.json) |
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
