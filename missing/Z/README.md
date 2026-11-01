@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse: Bounty Hunter | 117441 | [117441-zombie-apocalypse-bounty-hunter.json](./117441-zombie-apocalypse-bounty-hunter.json) |
 | Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
+| Zombie Apocalypse: Never Die Alone | 51650 | [51650-zombie-apocalypse-never-die-alone.json](./51650-zombie-apocalypse-never-die-alone.json) |
 | Zombie Apocalypse: Survival Stories | 249325 | [249325-zombie-apocalypse-survival-stories.json](./249325-zombie-apocalypse-survival-stories.json) |
 | Zombie Apocalypse: The Last Defense | 211147 | [211147-zombie-apocalypse-the-last-defense.json](./211147-zombie-apocalypse-the-last-defense.json) |
 | Zombie Apocalypse: The Last Fortress | 235067 | [235067-zombie-apocalypse-the-last-fortress.json](./235067-zombie-apocalypse-the-last-fortress.json) |
@@ -2380,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zyrons Escape | 354586 | [354586-zyrons-escape.json](./354586-zyrons-escape.json) |
 | Zyternion | 93756 | [93756-zyternion.json](./93756-zyternion.json) |
 | Zythum | 30954 | [30954-zythum.json](./30954-zythum.json) |
+| Zytron II | 51654 | [51654-zytron-ii.json](./51654-zytron-ii.json) |
 | Zyuden Sentai Kyoryuger: Game de Gaburincho!! | 61909 | [61909-zyuden-sentai-kyoryuger-game-de-gaburincho.json](./61909-zyuden-sentai-kyoryuger-game-de-gaburincho.json) |
 | ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
 | ZYX: Children. | 399046 | [399046-zyx-children.json](./399046-zyx-children.json) |
