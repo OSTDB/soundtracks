@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
 | Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
 | Ohota Krepkoe | 43102 | [43102-ohota-krepkoe.json](./43102-ohota-krepkoe.json) |
+| Ohr | 35055 | [35055-ohr.json](./35055-ohr.json) |
 | Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
 | OhShape | 124406 | [124406-ohshape.json](./124406-ohshape.json) |
 | OhShape Ultimate | 299488 | [299488-ohshape-ultimate.json](./299488-ohshape-ultimate.json) |
@@ -1686,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
 | Ommatophilia | 288833 | [288833-ommatophilia.json](./288833-ommatophilia.json) |
 | Omni | 118164 | [118164-omni.json](./118164-omni.json) |
+| Omni | 35127 | [35127-omni.json](./35127-omni.json) |
 | Omni Axes | 122935 | [122935-omni-axes.json](./122935-omni-axes.json) |
 | Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
@@ -3643,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
 | Orc Raid | 117328 | [117328-orc-raid.json](./117328-orc-raid.json) |
 | Orc Scrolls | 152665 | [152665-orc-scrolls.json](./152665-orc-scrolls.json) |
+| Orc Slayer | 35111 | [35111-orc-slayer.json](./35111-orc-slayer.json) |
 | Orc Survivor | 272736 | [272736-orc-survivor.json](./272736-orc-survivor.json) |
 | Orc Survivors | 231192 | [231192-orc-survivors.json](./231192-orc-survivors.json) |
 | Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
@@ -5212,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overflower | 316858 | [316858-overflower.json](./316858-overflower.json) |
 | Overgeared Hero | 405029 | [405029-overgeared-hero.json](./405029-overgeared-hero.json) |
 | Overglow | 327098 | [327098-overglow.json](./327098-overglow.json) |
+| Overgravity | 35104 | [35104-overgravity.json](./35104-overgravity.json) |
 | Overground | 178495 | [178495-overground.json](./178495-overground.json) |
 | Overgrown | 147395 | [147395-overgrown.json](./147395-overgrown.json) |
 | Overgrown | 271181 | [271181-overgrown.json](./271181-overgrown.json) |
