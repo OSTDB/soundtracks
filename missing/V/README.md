@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermillion Watch: Fleshbound | 187949 | [187949-vermillion-watch-fleshbound.json](./187949-vermillion-watch-fleshbound.json) |
 | Vermillion Watch: Fleshbound - Collector's Edition | 416147 | [416147-vermillion-watch-fleshbound-collectors-edition.json](./416147-vermillion-watch-fleshbound-collectors-edition.json) |
 | Vermillion Watch: Moorgate Accord | 140262 | [140262-vermillion-watch-moorgate-accord.json](./140262-vermillion-watch-moorgate-accord.json) |
+| Vermillion Watch: Moorgate Accord - Collector's Edition | 32471 | [32471-vermillion-watch-moorgate-accord-collectors-edition.json](./32471-vermillion-watch-moorgate-accord-collectors-edition.json) |
 | Vermillion Watch: Order Zero | 74312 | [74312-vermillion-watch-order-zero.json](./74312-vermillion-watch-order-zero.json) |
 | Vermillion Watch: Parisian Pursuit | 140263 | [140263-vermillion-watch-parisian-pursuit.json](./140263-vermillion-watch-parisian-pursuit.json) |
 | Vermillion Watch: Parisian Pursuit - Collector's Edition | 120670 | [120670-vermillion-watch-parisian-pursuit-collectors-edition.json](./120670-vermillion-watch-parisian-pursuit-collectors-edition.json) |
@@ -1517,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Important Potato | 194292 | [194292-very-important-potato.json](./194292-very-important-potato.json) |
 | Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
 | Very Pink Game | 151580 | [151580-very-pink-game.json](./151580-very-pink-game.json) |
+| Very Real Chess | 31371 | [31371-very-real-chess.json](./31371-very-real-chess.json) |
 | Very Safe Dino Park | 408586 | [408586-very-safe-dino-park.json](./408586-very-safe-dino-park.json) |
 | Very Scary Backrooms Game | 274336 | [274336-very-scary-backrooms-game.json](./274336-very-scary-backrooms-game.json) |
 | Very Scary Game | 420657 | [420657-very-scary-game.json](./420657-very-scary-game.json) |
