@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Kabuki Ittou Ryoudan | 37604 | [37604-tengai-makyou-kabuki-ittou-ryoudan.json](./37604-tengai-makyou-kabuki-ittou-ryoudan.json) |
 | Tengai ni Mau, Iki na Hana | 75225 | [75225-tengai-ni-mau-iki-na-hana.json](./75225-tengai-ni-mau-iki-na-hana.json) |
 | Tengam | 147599 | [147599-tengam.json](./147599-tengam.json) |
+| Tengen World Cup Soccer | 46329 | [46329-tengen-world-cup-soccer.json](./46329-tengen-world-cup-soccer.json) |
 | Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
 | Tengo 20 Bolos y Permiso hasta las 7 | 356778 | [356778-tengo-20-bolos-y-permiso-hasta-las-7.json](./356778-tengo-20-bolos-y-permiso-hasta-las-7.json) |
 | Tengoku no Vinea: Saiyaku no Majo to Nanatsu no Tsumi | 416879 | [416879-tengoku-no-vinea-saiyaku-no-majo-to-nanatsu-no-tsumi.json](./416879-tengoku-no-vinea-saiyaku-no-majo-to-nanatsu-no-tsumi.json) |
@@ -8341,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
+| The Excellent Dizzy Collection | 46350 | [46350-the-excellent-dizzy-collection.json](./46350-the-excellent-dizzy-collection.json) |
 | The Exchange Student: Episode 1 - First Day in Sweden | 77908 | [77908-the-exchange-student-episode-1-first-day-in-sweden.json](./77908-the-exchange-student-episode-1-first-day-in-sweden.json) |
 | The Exchange Student: Episode 2 - Point Club | 72024 | [72024-the-exchange-student-episode-2-point-club.json](./72024-the-exchange-student-episode-2-point-club.json) |
 | The Exclusion Zone Online | 153925 | [153925-the-exclusion-zone-online.json](./153925-the-exclusion-zone-online.json) |
@@ -13435,6 +13437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Otherwilde | 202655 | [202655-the-otherwilde.json](./202655-the-otherwilde.json) |
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
 | The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
+| The Ottifants | 46355 | [46355-the-ottifants.json](./46355-the-ottifants.json) |
 | The Ourboros King | 215374 | [215374-the-ourboros-king.json](./215374-the-ourboros-king.json) |
 | The Ouroboros Express | 325529 | [325529-the-ouroboros-express.json](./325529-the-ouroboros-express.json) |
 | The Ouroboros King | 215098 | [215098-the-ouroboros-king.json](./215098-the-ouroboros-king.json) |
