@@ -3883,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 6 Season 3 | 401295 | [401295-battlefield-6-season-3.json](./401295-battlefield-6-season-3.json) |
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield 6: Phantom Edition | 359864 | [359864-battlefield-6-phantom-edition.json](./359864-battlefield-6-phantom-edition.json) |
+| Battlefield Alliance | 52294 | [52294-battlefield-alliance.json](./52294-battlefield-alliance.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
 | BattleField BattleFront | 297373 | [297373-battlefield-battlefront.json](./297373-battlefield-battlefront.json) |
 | Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
@@ -6556,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Void | 72375 | [72375-beyond-the-void.json](./72375-beyond-the-void.json) |
 | Beyond the Wall | 219941 | [219941-beyond-the-wall.json](./219941-beyond-the-wall.json) |
 | Beyond the Wall | 241424 | [241424-beyond-the-wall.json](./241424-beyond-the-wall.json) |
+| Beyond the Wall | 52296 | [52296-beyond-the-wall.json](./52296-beyond-the-wall.json) |
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | Beyond The Walls | 303548 | [303548-beyond-the-walls.json](./303548-beyond-the-walls.json) |
@@ -7164,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bilbo: The Four Corners of the World | 52460 | [52460-bilbo-the-four-corners-of-the-world.json](./52460-bilbo-the-four-corners-of-the-world.json) |
+| Bildo | 52291 | [52291-bildo.json](./52291-bildo.json) |
 | Biletide | 415455 | [415455-biletide.json](./415455-biletide.json) |
 | Bilge Junction | 327031 | [327031-bilge-junction.json](./327031-bilge-junction.json) |
 | Bilge Rat's Bounty | 180758 | [180758-bilge-rats-bounty.json](./180758-bilge-rats-bounty.json) |
