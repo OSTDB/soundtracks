@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quarx | 68519 | [68519-quarx.json](./68519-quarx.json) |
 | Quasar | 198123 | [198123-quasar.json](./198123-quasar.json) |
+| Quasar | 35085 | [35085-quasar.json](./35085-quasar.json) |
 | Quasar Commander | 44337 | [44337-quasar-commander.json](./44337-quasar-commander.json) |
 | Quasar Kid | 183788 | [183788-quasar-kid.json](./183788-quasar-kid.json) |
 | Quasara | 110191 | [110191-quasara.json](./110191-quasara.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questmore | 95970 | [95970-questmore.json](./95970-questmore.json) |
 | Questor's Quest | 59693 | [59693-questors-quest.json](./59693-questors-quest.json) |
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
+| Questria: Rise of the Robot Skullfaces | 35147 | [35147-questria-rise-of-the-robot-skullfaces.json](./35147-questria-rise-of-the-robot-skullfaces.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questron | 24650 | [24650-questron.json](./24650-questron.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
