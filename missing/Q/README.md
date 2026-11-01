@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quixzel Rush Pumpkin Bash | 180061 | [180061-quixzel-rush-pumpkin-bash.json](./180061-quixzel-rush-pumpkin-bash.json) |
 | Quixzel Rush: Halloween Party | 109880 | [109880-quixzel-rush-halloween-party.json](./109880-quixzel-rush-halloween-party.json) |
 | Quixzel Rush: Pumpkin Bash | 109883 | [109883-quixzel-rush-pumpkin-bash.json](./109883-quixzel-rush-pumpkin-bash.json) |
+| Quiz & Dragons: Capcom Quiz Game | 39316 | [39316-quiz-and-dragons-capcom-quiz-game.json](./39316-quiz-and-dragons-capcom-quiz-game.json) |
 | Quiz & Learn: Animals | 366216 | [366216-quiz-and-learn-animals.json](./366216-quiz-and-learn-animals.json) |
 | Quiz 4 All | 242017 | [242017-quiz-4-all.json](./242017-quiz-4-all.json) |
 | Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni | 131572 | [131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json](./131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json) |
