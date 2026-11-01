@@ -4838,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Coin Game | 138500 | [138500-that-coin-game.json](./138500-that-coin-game.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
+| That Dam Level redux | 33698 | [33698-that-dam-level-redux.json](./33698-that-dam-level-redux.json) |
 | That Damn Goat | 267815 | [267815-that-damn-goat.json](./267815-that-damn-goat.json) |
 | That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
 | That Flipping Mountain | 119987 | [119987-that-flipping-mountain.json](./119987-that-flipping-mountain.json) |
@@ -17167,6 +17168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Waiting Room | 74695 | [74695-the-waiting-room.json](./74695-the-waiting-room.json) |
 | The Waitress | 337140 | [337140-the-waitress.json](./337140-the-waitress.json) |
 | The Wake | 194253 | [194253-the-wake.json](./194253-the-wake.json) |
+| The Wake | 33682 | [33682-the-wake.json](./33682-the-wake.json) |
 | The Wake Event | 418564 | [418564-the-wake-event.json](./418564-the-wake-event.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Wake: Mourning Father, Mourning Mother | 135439 | [135439-the-wake-mourning-father-mourning-mother.json](./135439-the-wake-mourning-father-mourning-mother.json) |
@@ -22165,6 +22167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Bee or Not to Bee | 184801 | [184801-to-bee-or-not-to-bee.json](./184801-to-bee-or-not-to-bee.json) |
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
 | To Build a Home | 295205 | [295205-to-build-a-home.json](./295205-to-build-a-home.json) |
+| To Burn in Memory | 33740 | [33740-to-burn-in-memory.json](./33740-to-burn-in-memory.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Carry a Sword | 190440 | [190440-to-carry-a-sword.json](./190440-to-carry-a-sword.json) |
 | To Crime Nirvana | 180064 | [180064-to-crime-nirvana.json](./180064-to-crime-nirvana.json) |
