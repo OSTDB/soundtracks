@@ -1956,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Battleship: Thunder War | 181584 | [181584-league-of-battleship-thunder-war.json](./181584-league-of-battleship-thunder-war.json) |
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
 | League of Champions Soccer 2024 | 265840 | [265840-league-of-champions-soccer-2024.json](./265840-league-of-champions-soccer-2024.json) |
+| League of Emperors | 59619 | [59619-league-of-emperors.json](./59619-league-of-emperors.json) |
 | League of Empires | 224161 | [224161-league-of-empires.json](./224161-league-of-empires.json) |
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
 | League of Enthusiastic Losers + Brawl Chess | 228942 | [228942-league-of-enthusiastic-losers-brawl-chess.json](./228942-league-of-enthusiastic-losers-brawl-chess.json) |
@@ -2465,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Ape | 165776 | [165776-legend-of-the-ape.json](./165776-legend-of-the-ape.json) |
 | Legend of the Assassin | 114226 | [114226-legend-of-the-assassin.json](./114226-legend-of-the-assassin.json) |
 | Legend of the Corndog(s) | 382551 | [382551-legend-of-the-corndog-s.json](./382551-legend-of-the-corndog-s.json) |
+| Legend of the Cryptids | 59606 | [59606-legend-of-the-cryptids.json](./59606-legend-of-the-cryptids.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
 | Legend of the Dragon | 4967 | [4967-legend-of-the-dragon.json](./4967-legend-of-the-dragon.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
@@ -5938,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Room | 315586 | [315586-living-room.json](./315586-living-room.json) |
 | Living Room: Wild Style | 354377 | [354377-living-room-wild-style.json](./354377-living-room-wild-style.json) |
 | Living Shadows | 351727 | [351727-living-shadows.json](./351727-living-shadows.json) |
+| Living the Deal | 59583 | [59583-living-the-deal.json](./59583-living-the-deal.json) |
 | Living the Dream | 259763 | [259763-living-the-dream.json](./259763-living-the-dream.json) |
 | Living the Nightmare | 151144 | [151144-living-the-nightmare.json](./151144-living-the-nightmare.json) |
 | Living together with Fox Demon | 159757 | [159757-living-together-with-fox-demon.json](./159757-living-together-with-fox-demon.json) |
