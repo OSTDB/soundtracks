@@ -4512,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
 | Glitch Run | 412977 | [412977-glitch-run.json](./412977-glitch-run.json) |
 | Glitch Strike | 134611 | [134611-glitch-strike.json](./134611-glitch-strike.json) |
+| Glitch Tank | 61362 | [61362-glitch-tank.json](./61362-glitch-tank.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
 | Glitch War | 138006 | [138006-glitch-war.json](./138006-glitch-war.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goemon: New Age Shutsudou! | 49598 | [49598-goemon-new-age-shutsudou.json](./49598-goemon-new-age-shutsudou.json) |
 | Goemon: Shin Sedai Shuumei | 73580 | [73580-goemon-shin-sedai-shuumei.json](./73580-goemon-shin-sedai-shuumei.json) |
 | Goemon's Great Adventure | 3508 | [3508-goemons-great-adventure.json](./3508-goemons-great-adventure.json) |
+| Goes! | 61274 | [61274-goes.json](./61274-goes.json) |
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
 | Goetia 1 | 257293 | [257293-goetia-1.json](./257293-goetia-1.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
