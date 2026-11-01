@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Lowe's Ultimate Darts | 72162 | [72162-john-lowes-ultimate-darts.json](./72162-john-lowes-ultimate-darts.json) |
 | John Mad Run | 58603 | [58603-john-mad-run.json](./58603-john-mad-run.json) |
 | John Madden American Football | 45589 | [45589-john-madden-american-football.json](./45589-john-madden-american-football.json) |
+| John Madden Duo CD Football | 44312 | [44312-john-madden-duo-cd-football.json](./44312-john-madden-duo-cd-football.json) |
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
