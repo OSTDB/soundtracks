@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.A.R.M.S.: Chill Factory | 389684 | [389684-f-a-r-m-s-chill-factory.json](./389684-f-a-r-m-s-chill-factory.json) |
 | F.A.S.T. | 79079 | [79079-f-a-s-t.json](./79079-f-a-s-t.json) |
 | F.B.I.C | 342816 | [342816-f-b-i-c.json](./342816-f-b-i-c.json) |
+| F.E.A.R 3: Collector's Edition | 42974 | [42974-f-e-a-r-3-collectors-edition.json](./42974-f-e-a-r-3-collectors-edition.json) |
 | F.E.A.R. | 202149 | [202149-f-e-a-r.json](./202149-f-e-a-r.json) |
 | F.E.A.R. 2: Reborn | 22886 | [22886-f-e-a-r-2-reborn.json](./22886-f-e-a-r-2-reborn.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
