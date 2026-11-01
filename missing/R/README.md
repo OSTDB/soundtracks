@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
 | Rain Tactics | 274384 | [274384-rain-tactics.json](./274384-rain-tactics.json) |
 | Rain Wonder Trip | 273833 | [273833-rain-wonder-trip.json](./273833-rain-wonder-trip.json) |
+| Rain World | 14761 | [14761-rain-world.json](./14761-rain-world.json) |
 | Rain World: Deluxe Edition | 290437 | [290437-rain-world-deluxe-edition.json](./290437-rain-world-deluxe-edition.json) |
 | Rain World: Slugcat's Lifecycle Edition | 370699 | [370699-rain-world-slugcats-lifecycle-edition.json](./370699-rain-world-slugcats-lifecycle-edition.json) |
 | Rain World: The Watcher | 297737 | [297737-rain-world-the-watcher.json](./297737-rain-world-the-watcher.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Raving Rabbids | 193362 | [193362-rayman-raving-rabbids.json](./193362-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 193363 | [193363-rayman-raving-rabbids.json](./193363-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 193366 | [193366-rayman-raving-rabbids.json](./193366-rayman-raving-rabbids.json) |
+| Rayman Raving Rabbids | 2277 | [2277-rayman-raving-rabbids.json](./2277-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 254521 | [254521-rayman-raving-rabbids.json](./254521-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids 2 | 193364 | [193364-rayman-raving-rabbids-2.json](./193364-rayman-raving-rabbids-2.json) |
@@ -5322,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
 | Reso-Seeker | 244630 | [244630-reso-seeker.json](./244630-reso-seeker.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
+| Resogun | 6007 | [6007-resogun.json](./6007-resogun.json) |
 | Resogun: Defenders | 20328 | [20328-resogun-defenders.json](./20328-resogun-defenders.json) |
 | Resogun: Heroes | 20327 | [20327-resogun-heroes.json](./20327-resogun-heroes.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
