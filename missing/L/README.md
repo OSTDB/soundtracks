@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Kitty Pow Pow | 123347 | [123347-laser-kitty-pow-pow.json](./123347-laser-kitty-pow-pow.json) |
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Labyrinth | 95729 | [95729-laser-labyrinth.json](./95729-laser-labyrinth.json) |
+| Laser League | 36912 | [36912-laser-league.json](./36912-laser-league.json) |
 | Laser Light | 14462 | [14462-laser-light.json](./14462-laser-light.json) |
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
 | Laser Limbo | 321227 | [321227-laser-limbo.json](./321227-laser-limbo.json) |
@@ -3236,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo The Lost Kitten | 298807 | [298807-leo-the-lost-kitten.json](./298807-leo-the-lost-kitten.json) |
 | LEO: Low Earth Orbit | 351582 | [351582-leo-low-earth-orbit.json](./351582-leo-low-earth-orbit.json) |
 | Leo: The Square | 303626 | [303626-leo-the-square.json](./303626-leo-the-square.json) |
+| Leo's Fortune | 19489 | [19489-leos-fortune.json](./19489-leos-fortune.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leo's Red Carpet Rampage | 249608 | [249608-leos-red-carpet-rampage.json](./249608-leos-red-carpet-rampage.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
@@ -4132,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life is Feudal: Arden | 321560 | [321560-life-is-feudal-arden.json](./321560-life-is-feudal-arden.json) |
+| Life is Feudal: Forest Village | 23345 | [23345-life-is-feudal-forest-village.json](./23345-life-is-feudal-forest-village.json) |
 | Life is Feudal: Your Own | 9243 | [9243-life-is-feudal-your-own.json](./9243-life-is-feudal-your-own.json) |
 | Life Is Hard, and Then You Buy a Cactus | 178957 | [178957-life-is-hard-and-then-you-buy-a-cactus.json](./178957-life-is-hard-and-then-you-buy-a-cactus.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
@@ -7737,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Souls: Enchanted Paintings | 88750 | [88750-lost-souls-enchanted-paintings.json](./88750-lost-souls-enchanted-paintings.json) |
 | Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Space: Ascend | 103100 | [103100-lost-space-ascend.json](./103100-lost-space-ascend.json) |
+| Lost Sphear | 36534 | [36534-lost-sphear.json](./36534-lost-sphear.json) |
 | Lost Squad | 17129 | [17129-lost-squad.json](./17129-lost-squad.json) |
 | Lost Station | 250866 | [250866-lost-station.json](./250866-lost-station.json) |
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
