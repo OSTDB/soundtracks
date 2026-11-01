@@ -7852,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
+| The Dragon Judge Rhadamanthus | 27177 | [27177-the-dragon-judge-rhadamanthus.json](./27177-the-dragon-judge-rhadamanthus.json) |
 | The Dragon Odyssey | 335805 | [335805-the-dragon-odyssey.json](./335805-the-dragon-odyssey.json) |
 | The Dragon Prince: Xadia | 276331 | [276331-the-dragon-prince-xadia.json](./276331-the-dragon-prince-xadia.json) |
 | The Dragon Princess | 389693 | [389693-the-dragon-princess.json](./389693-the-dragon-princess.json) |
@@ -10240,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Imperial Base | 359450 | [359450-the-imperial-base.json](./359450-the-imperial-base.json) |
 | The Imperial Capital Burns: Muv-Luv Alternative Total Eclipse | 276596 | [276596-the-imperial-capital-burns-muv-luv-alternative-total-eclipse.json](./276596-the-imperial-capital-burns-muv-luv-alternative-total-eclipse.json) |
 | The Imperial Gatekeeper | 146764 | [146764-the-imperial-gatekeeper.json](./146764-the-imperial-gatekeeper.json) |
+| The Imperial Realm: Miranda | 27254 | [27254-the-imperial-realm-miranda.json](./27254-the-imperial-realm-miranda.json) |
 | The Implant | 289991 | [289991-the-implant.json](./289991-the-implant.json) |
 | The Impossible | 174012 | [174012-the-impossible.json](./174012-the-impossible.json) |
 | The Impossible Bottle | 216323 | [216323-the-impossible-bottle.json](./216323-the-impossible-bottle.json) |
@@ -24398,6 +24400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Blooming Chaos 2: Chara Pack 4 | 170960 | [170960-touhou-blooming-chaos-2-chara-pack-4.json](./170960-touhou-blooming-chaos-2-chara-pack-4.json) |
 | Touhou Blooming Chaos 2: Chara Pack Special - Mystia Lorelei | 169324 | [169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json](./169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json) |
 | Touhou Blooming Soul | 203848 | [203848-touhou-blooming-soul.json](./203848-touhou-blooming-soul.json) |
+| Touhou Bunkachou: Shoot the Bullet | 27170 | [27170-touhou-bunkachou-shoot-the-bullet.json](./27170-touhou-bunkachou-shoot-the-bullet.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chaos of Black Loong | 322860 | [322860-touhou-chaos-of-black-loong.json](./322860-touhou-chaos-of-black-loong.json) |
 | Touhou Chireiden: Subterranean Animism | 27165 | [27165-touhou-chireiden-subterranean-animism.json](./27165-touhou-chireiden-subterranean-animism.json) |
