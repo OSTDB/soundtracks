@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhyre FPS | 131470 | [131470-valhyre-fps.json](./131470-valhyre-fps.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
 | Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
+| Valiance Online | 59018 | [59018-valiance-online.json](./59018-valiance-online.json) |
 | Valiant | 136848 | [136848-valiant.json](./136848-valiant.json) |
 | Valiant | 19040 | [19040-valiant.json](./19040-valiant.json) |
 | Valiant | 257236 | [257236-valiant.json](./257236-valiant.json) |
@@ -884,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vatnik Simulator - A Russian Patriot Game | 103814 | [103814-vatnik-simulator-a-russian-patriot-game.json](./103814-vatnik-simulator-a-russian-patriot-game.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vattle Giuce | 57526 | [57526-vattle-giuce.json](./57526-vattle-giuce.json) |
+| Vattroller X | 59008 | [59008-vattroller-x.json](./59008-vattroller-x.json) |
 | Vault 1080 | 389164 | [389164-vault-1080.json](./389164-vault-1080.json) |
 | Vault Apocalypsis | 264529 | [264529-vault-apocalypsis.json](./264529-vault-apocalypsis.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
@@ -3664,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Space Stalker | 188240 | [188240-vr-space-stalker.json](./188240-vr-space-stalker.json) |
 | VR Spaceship Battle | 155882 | [155882-vr-spaceship-battle.json](./155882-vr-spaceship-battle.json) |
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
+| VR Sports: Challenge | 59093 | [59093-vr-sports-challenge.json](./59093-vr-sports-challenge.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Stalker | 4272 | [4272-vr-stalker.json](./4272-vr-stalker.json) |
 | VR Stock Car Racers | 83558 | [83558-vr-stock-car-racers.json](./83558-vr-stock-car-racers.json) |
