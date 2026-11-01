@@ -5360,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | matuslab.net's Hangman | 91254 | [91254-matuslab-nets-hangman.json](./91254-matuslab-nets-hangman.json) |
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
+| Maui Mallard in Cold Shadow | 8448 | [8448-maui-mallard-in-cold-shadow.json](./8448-maui-mallard-in-cold-shadow.json) |
 | Maui Pong | 403930 | [403930-maui-pong.json](./403930-maui-pong.json) |
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
 | Maui Wowie Cart | 105742 | [105742-maui-wowie-cart.json](./105742-maui-wowie-cart.json) |
@@ -5518,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7179,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Legacy Collection | 19874 | [19874-mega-man-legacy-collection.json](./19874-mega-man-legacy-collection.json) |
 | Mega Man Legacy Collection: Special Edition | 89843 | [89843-mega-man-legacy-collection-special-edition.json](./89843-mega-man-legacy-collection-special-edition.json) |
 | Mega Man Legends | 1752 | [1752-mega-man-legends.json](./1752-mega-man-legends.json) |
+| Mega Man Legends 2 | 1754 | [1754-mega-man-legends-2.json](./1754-mega-man-legends-2.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Maker | 102716 | [102716-mega-man-maker.json](./102716-mega-man-maker.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
