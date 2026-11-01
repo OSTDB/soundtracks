@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Native | 270274 | [270274-native.json](./270274-native.json) |
 | Native Hunter | 235915 | [235915-native-hunter.json](./235915-native-hunter.json) |
 | Natives | 250753 | [250753-natives.json](./250753-natives.json) |
+| Natives | 28382 | [28382-natives.json](./28382-natives.json) |
 | NATO Assault Course | 72461 | [72461-nato-assault-course.json](./72461-nato-assault-course.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
@@ -3970,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Love | 199513 | [199513-night-of-love.json](./199513-night-of-love.json) |
 | Night of Nightmare | 391025 | [391025-night-of-nightmare.json](./391025-night-of-nightmare.json) |
 | Night of Spirits | 242670 | [242670-night-of-spirits.json](./242670-night-of-spirits.json) |
+| Night of Terror | 28434 | [28434-night-of-terror.json](./28434-night-of-terror.json) |
 | Night of The Abattoir Man | 311146 | [311146-night-of-the-abattoir-man.json](./311146-night-of-the-abattoir-man.json) |
 | Night of the Basilisk | 381338 | [381338-night-of-the-basilisk.json](./381338-night-of-the-basilisk.json) |
 | Night of the Dead | 138639 | [138639-night-of-the-dead.json](./138639-night-of-the-dead.json) |
@@ -6275,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nose | 224501 | [224501-nose.json](./224501-nose.json) |
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
 | Nose Bleed | 227915 | [227915-nose-bleed.json](./227915-nose-bleed.json) |
+| Nose Goes | 28432 | [28432-nose-goes.json](./28432-nose-goes.json) |
 | Nose: Breathing Rebellion | 291835 | [291835-nose-breathing-rebellion.json](./291835-nose-breathing-rebellion.json) |
 | Nose: The Great Keana Edition | 355159 | [355159-nose-the-great-keana-edition.json](./355159-nose-the-great-keana-edition.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
