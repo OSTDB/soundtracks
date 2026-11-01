@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 252331 | [252331-wheel-of-fortune.json](./252331-wheel-of-fortune.json) |
 | Wheel of Fortune | 287301 | [287301-wheel-of-fortune.json](./287301-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
+| Wheel of Fortune | 46330 | [46330-wheel-of-fortune.json](./46330-wheel-of-fortune.json) |
 | Wheel of Fortune | 64480 | [64480-wheel-of-fortune.json](./64480-wheel-of-fortune.json) |
 | Wheel of Fortune | 69177 | [69177-wheel-of-fortune.json](./69177-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
@@ -7324,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
 | World Class Leaderboard | 19492 | [19492-world-class-leaderboard.json](./19492-world-class-leaderboard.json) |
 | World Class Leaderboard Golf | 262861 | [262861-world-class-leaderboard-golf.json](./262861-world-class-leaderboard-golf.json) |
+| World Class Leaderboard Golf | 46328 | [46328-world-class-leaderboard-golf.json](./46328-world-class-leaderboard-golf.json) |
 | World Class Poker with T.J. Cloutier | 53112 | [53112-world-class-poker-with-t-j-cloutier.json](./53112-world-class-poker-with-t-j-cloutier.json) |
 | World Class Rugby 2 | 37766 | [37766-world-class-rugby-2.json](./37766-world-class-rugby-2.json) |
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
@@ -7750,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball | 81662 | [81662-world-series-baseball.json](./81662-world-series-baseball.json) |
 | World Series Baseball | 94110 | [94110-world-series-baseball.json](./94110-world-series-baseball.json) |
 | World Series Baseball '95 | 368629 | [368629-world-series-baseball-95.json](./368629-world-series-baseball-95.json) |
+| World Series Baseball '95 | 46327 | [46327-world-series-baseball-95.json](./46327-world-series-baseball-95.json) |
 | World Series Baseball 2K1 | 45849 | [45849-world-series-baseball-2k1.json](./45849-world-series-baseball-2k1.json) |
 | World Series Baseball 2K2 | 6240 | [6240-world-series-baseball-2k2.json](./6240-world-series-baseball-2k2.json) |
 | World Series Baseball 98 | 4473 | [4473-world-series-baseball-98.json](./4473-world-series-baseball-98.json) |
@@ -8697,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF WrestleMania 2000 | 200404 | [200404-wwf-wrestlemania-2000.json](./200404-wwf-wrestlemania-2000.json) |
 | WWF Wrestlemania Challenge | 218345 | [218345-wwf-wrestlemania-challenge.json](./218345-wwf-wrestlemania-challenge.json) |
 | WWF WrestleMania Challenge | 19513 | [19513-wwf-wrestlemania-challenge.json](./19513-wwf-wrestlemania-challenge.json) |
+| WWF Wrestlemania: Steel Cage Challenge | 46331 | [46331-wwf-wrestlemania-steel-cage-challenge.json](./46331-wwf-wrestlemania-steel-cage-challenge.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWF: Super Wrestlemania | 45566 | [45566-wwf-super-wrestlemania.json](./45566-wwf-super-wrestlemania.json) |
 | WWI Medic | 71605 | [71605-wwi-medic.json](./71605-wwi-medic.json) |
