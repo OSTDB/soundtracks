@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Clash | 256140 | [256140-rally-clash.json](./256140-rally-clash.json) |
 | Rally Copters | 33424 | [33424-rally-copters.json](./33424-rally-copters.json) |
 | Rally Cross | 283024 | [283024-rally-cross.json](./283024-rally-cross.json) |
+| Rally Cross | 8647 | [8647-rally-cross.json](./8647-rally-cross.json) |
 | Rally Cross 2 | 8648 | [8648-rally-cross-2.json](./8648-rally-cross-2.json) |
 | Rally Cross Challenge | 93365 | [93365-rally-cross-challenge.json](./93365-rally-cross-challenge.json) |
 | Rally Day | 216147 | [216147-rally-day.json](./216147-rally-day.json) |
@@ -6834,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer | 18696 | [18696-ridge-racer.json](./18696-ridge-racer.json) |
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
 | Ridge Racer | 386354 | [386354-ridge-racer.json](./386354-ridge-racer.json) |
+| Ridge Racer | 8546 | [8546-ridge-racer.json](./8546-ridge-racer.json) |
 | Ridge Racer 2 | 140479 | [140479-ridge-racer-2.json](./140479-ridge-racer-2.json) |
 | Ridge Racer 2 | 234285 | [234285-ridge-racer-2.json](./234285-ridge-racer-2.json) |
 | Ridge Racer 3D | 6871 | [6871-ridge-racer-3d.json](./6871-ridge-racer-3d.json) |
@@ -7858,6 +7860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Mayhem | 188904 | [188904-road-mayhem.json](./188904-road-mayhem.json) |
 | Road Motel Simulator | 337729 | [337729-road-motel-simulator.json](./337729-road-motel-simulator.json) |
 | Road Motorcycle | 265592 | [265592-road-motorcycle.json](./265592-road-motorcycle.json) |
+| Road Not Taken | 8510 | [8510-road-not-taken.json](./8510-road-not-taken.json) |
 | Road of Danger | 41936 | [41936-road-of-danger.json](./41936-road-of-danger.json) |
 | Road of Death | 207903 | [207903-road-of-death.json](./207903-road-of-death.json) |
 | Road of Death | 290631 | [290631-road-of-death.json](./290631-road-of-death.json) |
