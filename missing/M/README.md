@@ -3134,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marabundle | 238596 | [238596-marabundle.json](./238596-marabundle.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
+| Marathon | 8709 | [8709-marathon.json](./8709-marathon.json) |
 | Marathon 2: Durandal | 8710 | [8710-marathon-2-durandal.json](./8710-marathon-2-durandal.json) |
 | Marathon Infinity | 8711 | [8711-marathon-infinity.json](./8711-marathon-infinity.json) |
 | Marathon Recompiled | 358340 | [358340-marathon-recompiled.json](./358340-marathon-recompiled.json) |
@@ -5522,7 +5523,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16789,6 +16789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
 | Mousebound | 139290 | [139290-mousebound.json](./139290-mousebound.json) |
 | Mouseburg: Pursuit of Power | 362586 | [362586-mouseburg-pursuit-of-power.json](./362586-mouseburg-pursuit-of-power.json) |
+| MouseCraft | 8992 | [8992-mousecraft.json](./8992-mousecraft.json) |
 | Mousegun | 326723 | [326723-mousegun.json](./326723-mousegun.json) |
 | Mousegun | 366381 | [366381-mousegun.json](./366381-mousegun.json) |
 | Mousehole Bookshop | 286607 | [286607-mousehole-bookshop.json](./286607-mousehole-bookshop.json) |
@@ -17135,6 +17136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Dig | 28561 | [28561-mr-dig.json](./28561-mr-dig.json) |
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
+| Mr. Do! | 9554 | [9554-mr-do.json](./9554-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
 | Mr. Do's Wild Ride | 24630 | [24630-mr-dos-wild-ride.json](./24630-mr-dos-wild-ride.json) |
 | Mr. Don | 285137 | [285137-mr-don.json](./285137-mr-don.json) |
@@ -17445,6 +17447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV Total Request Live Trivia | 57667 | [57667-mtv-total-request-live-trivia.json](./57667-mtv-total-request-live-trivia.json) |
 | MTV's Beavis and Butt-head | 307114 | [307114-mtvs-beavis-and-butt-head.json](./307114-mtvs-beavis-and-butt-head.json) |
 | MTV's Beavis and Butt-head | 307115 | [307115-mtvs-beavis-and-butt-head.json](./307115-mtvs-beavis-and-butt-head.json) |
+| MTV's Beavis and Butt-Head | 7777 | [7777-mtvs-beavis-and-butt-head.json](./7777-mtvs-beavis-and-butt-head.json) |
 | MTV's Beavis and Butt-head in Virtual Stupidity | 8457 | [8457-mtvs-beavis-and-butt-head-in-virtual-stupidity.json](./8457-mtvs-beavis-and-butt-head-in-virtual-stupidity.json) |
 | MTV's Beavis and Butt-head: Bunghole in One | 8459 | [8459-mtvs-beavis-and-butt-head-bunghole-in-one.json](./8459-mtvs-beavis-and-butt-head-bunghole-in-one.json) |
 | MTV's Beavis and Butt-head: Calling All Dorks | 8462 | [8462-mtvs-beavis-and-butt-head-calling-all-dorks.json](./8462-mtvs-beavis-and-butt-head-calling-all-dorks.json) |
