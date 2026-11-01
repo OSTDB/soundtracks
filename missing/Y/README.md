@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Not Alice | 343866 | [343866-you-are-not-alice.json](./343866-you-are-not-alice.json) |
 | You Are Not Alone | 182839 | [182839-you-are-not-alone.json](./182839-you-are-not-alone.json) |
 | You Are Not Bunnygirl | 192815 | [192815-you-are-not-bunnygirl.json](./192815-you-are-not-bunnygirl.json) |
+| You Are Not Immune to Lava | 59605 | [59605-you-are-not-immune-to-lava.json](./59605-you-are-not-immune-to-lava.json) |
 | You Are Not the Hero | 16909 | [16909-you-are-not-the-hero.json](./16909-you-are-not-the-hero.json) |
 | You are now Possessed | 219099 | [219099-you-are-now-possessed.json](./219099-you-are-now-possessed.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
