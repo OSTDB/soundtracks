@@ -9715,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Half-Life 2 Exhibit | 252091 | [252091-the-half-life-2-exhibit.json](./252091-the-half-life-2-exhibit.json) |
 | The Hall | 399025 | [399025-the-hall.json](./399025-the-hall.json) |
 | The Hall of Epiphany | 276379 | [276379-the-hall-of-epiphany.json](./276379-the-hall-of-epiphany.json) |
+| The Halley Project: A Mission in Our Solar System | 12607 | [12607-the-halley-project-a-mission-in-our-solar-system.json](./12607-the-halley-project-a-mission-in-our-solar-system.json) |
 | The Halloween | 376175 | [376175-the-halloween.json](./376175-the-halloween.json) |
 | The Halloween Party | 316470 | [316470-the-halloween-party.json](./316470-the-halloween-party.json) |
 | The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
@@ -13341,6 +13342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nutcracker | 289745 | [289745-the-nutcracker.json](./289745-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
 | The Nutshack: The Game | 57165 | [57165-the-nutshack-the-game.json](./57165-the-nutshack-the-game.json) |
+| The Oath | 12705 | [12705-the-oath.json](./12705-the-oath.json) |
 | The Oath of the Dark Magic Queen | 181120 | [181120-the-oath-of-the-dark-magic-queen.json](./181120-the-oath-of-the-dark-magic-queen.json) |
 | The Oathkeeper | 189344 | [189344-the-oathkeeper.json](./189344-the-oathkeeper.json) |
 | The Obedience Experiment | 406893 | [406893-the-obedience-experiment.json](./406893-the-obedience-experiment.json) |
