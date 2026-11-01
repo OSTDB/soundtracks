@@ -7703,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitozuma Dorei Keikaku | 108925 | [108925-hitozuma-dorei-keikaku.json](./108925-hitozuma-dorei-keikaku.json) |
 | Hitozuma Dorei Kyoushi | 98029 | [98029-hitozuma-dorei-kyoushi.json](./98029-hitozuma-dorei-kyoushi.json) |
 | Hitozuma Dorei Kyoushi 2 | 97632 | [97632-hitozuma-dorei-kyoushi-2.json](./97632-hitozuma-dorei-kyoushi-2.json) |
+| Hitozuma Kouzen Chijoku Densha: Ketai Hitotsu de Osawari Soku Hame Shihoudai Tanin no Tsuma o Nenchaku Tanezuke Netori | 59025 | [59025-hitozuma-kouzen-chijoku-densha-ketai-hitotsu-de-osawari-soku-hame-shihoudai-tanin-no-tsuma-o-nenchaku-tanezuke-netori.json](./59025-hitozuma-kouzen-chijoku-densha-ketai-hitotsu-de-osawari-soku-hame-shihoudai-tanin-no-tsuma-o-nenchaku-tanezuke-netori.json) |
 | Hitozuma Onnakyoshi: Married Female Teacher Sexual Libido Class | 97765 | [97765-hitozuma-onnakyoshi-married-female-teacher-sexual-libido-class.json](./97765-hitozuma-onnakyoshi-married-female-teacher-sexual-libido-class.json) |
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
 | Hitozuma Unyu Saimin NTR Ben | 59264 | [59264-hitozuma-unyu-saimin-ntr-ben.json](./59264-hitozuma-unyu-saimin-ntr-ben.json) |
@@ -8027,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holes and Balls | 88684 | [88684-holes-and-balls.json](./88684-holes-and-balls.json) |
 | HoleShot Drag Racing | 212997 | [212997-holeshot-drag-racing.json](./212997-holeshot-drag-racing.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
+| Holey Dungeon Horidan! | 59009 | [59009-holey-dungeon-horidan.json](./59009-holey-dungeon-horidan.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holey Moley | 40670 | [40670-holey-moley.json](./40670-holey-moley.json) |
 | Holey Moley | 58637 | [58637-holey-moley.json](./58637-holey-moley.json) |
@@ -8591,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homo Flimsy | 103433 | [103433-homo-flimsy.json](./103433-homo-flimsy.json) |
 | Homo Machina | 101468 | [101468-homo-machina.json](./101468-homo-machina.json) |
 | Homo Sovieticus | 405885 | [405885-homo-sovieticus.json](./405885-homo-sovieticus.json) |
+| Homuha no X 1.5: Sukisuki Date Daisakusen | 59020 | [59020-homuha-no-x-1-5-sukisuki-date-daisakusen.json](./59020-homuha-no-x-1-5-sukisuki-date-daisakusen.json) |
 | Homunculus | 255669 | [255669-homunculus.json](./255669-homunculus.json) |
 | Homunculus | 319807 | [319807-homunculus.json](./319807-homunculus.json) |
 | Homunculus Hotel | 192268 | [192268-homunculus-hotel.json](./192268-homunculus-hotel.json) |
