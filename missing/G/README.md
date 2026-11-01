@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Citizen | 202538 | [202538-galaxy-citizen.json](./202538-galaxy-citizen.json) |
 | Galaxy Cleaners: Dracula's Castle | 385431 | [385431-galaxy-cleaners-draculas-castle.json](./385431-galaxy-cleaners-draculas-castle.json) |
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
+| Galaxy Combat Wargames | 32393 | [32393-galaxy-combat-wargames.json](./32393-galaxy-combat-wargames.json) |
 | Galaxy Commanders | 262811 | [262811-galaxy-commanders.json](./262811-galaxy-commanders.json) |
 | Galaxy Control | 33685 | [33685-galaxy-control.json](./33685-galaxy-control.json) |
 | Galaxy Control: Arena Station | 89823 | [89823-galaxy-control-arena-station.json](./89823-galaxy-control-arena-station.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
 | Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
+| Gear Gauntlet | 32395 | [32395-gear-gauntlet.json](./32395-gear-gauntlet.json) |
 | Gear Heart | 284764 | [284764-gear-heart.json](./284764-gear-heart.json) |
 | Gear Jack | 101196 | [101196-gear-jack.json](./101196-gear-jack.json) |
 | Gear Notes: Ogre Slayer | 409796 | [409796-gear-notes-ogre-slayer.json](./409796-gear-notes-ogre-slayer.json) |
